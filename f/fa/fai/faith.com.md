@@ -1,159 +1,81 @@
-> *The following text is extracted and transformed from the faith.com privacy policy that was archived on 2012-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120221122234id_/http%3A//www.faith.com/common/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faith.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203102943id_/http%3A//www.faith.com/privacy-policy) for the most accurate reproduction.*
 
-# Faith.com: Privacy
+# Privacy Policy | Faith.com
 
-|   
+Spark Networks® USA, LLC has created this privacy policy (the “Privacy Policy”) as part of our commitment to helping our users better understand what information we collect about them and what we may do with that information.
 
+The following discloses our information gathering and dissemination practices for the Spark Networks websites.
 
-Faith Online Inc ("FOL, Inc."), is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the Faith Online, Inc network of websites. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. This policy covers: 
+**Overview**
 
-[](http://www.truste.org/ivalidate.php?url=faith.com)
+As part of the normal operation of our services we collect and, in some cases, may disclose information about you. By accepting this Privacy Policy and our Terms and Conditions, you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Spark Networks Terms and Conditions.
 
-  1. What personally identifiable information FOL, Inc. collects. 
-  2. What personally identifiable information third parties collect through the Web site. 
-  3. What organization collects the information. 
-  4. How FOL, Inc. uses the information. 
-  5. With whom FOL, Inc. may share user information. 
-  6. What choices are available to users regarding collection, use and distribution of the information. 
-  7. What types of security procedures are in place to protect the loss, misuse or alteration of information under FOL, Incs control. 
-  8. How users can correct any inaccuracies in the information. 
+This Privacy Policy applies to all Spark Networks sites, including but not limited to: Spark.com, ChristianMingle.com, JDate.com, and BlackSingles.com, and including any mobile versions or application based versions of any Spark Networks sites (the ”Websites”). 
 
+1\. **A Special Note About Children**
 
+Children are not eligible to use our services, including the Websites, and we ask that minors (under the age of 18) not submit any personal information to us. **** **    **The Websites are not directed at anyone under 18 and they are not intended to attract anyone under 18.  We also do not collect or maintain personally identifiable information from those users who we actually know are under 18. Should we learn or be notified that we have collected information from users under the age of 18, we will immediately delete such personally identifiable information.
 
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. Questions regarding the above statement should be directed to Faith Online Inc., or TRUSTe. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/watchdog.html> for clarification. By displaying the TRUSTe trustmark, FOL Inc. has agreed to notify users of: 
+2\. **Information We Collect**
 
-## Information Collection and Use
+Our primary goal in collecting personal information is to provide you with a smooth, efficient, and customized experience. This allows us to provide services and features and to customize our service to make your experience better. 
 
-### Information Collection
+Any personally identifiable information collected will be stored and processed on our computers in the United States. The laws regarding the handling of personal data in the United States may differ from the laws of other countries but, as we explain below, Spark Networks will hold and transmit any such information collected in a safe, confidential and secure environment. 
 
-FOL Inc. is the sole owner of the information collected on the network of FOL Inc. websites. FOL Inc. collects information from our users at several different points on our Web site. 
+We use data collection devices such as ”cookies” on certain pages of our Websites. “Cookies” are small files placed on your hard drive that assist us in providing customized services. We also offer certain features that are only available through the use of a “cookie.” Cookies can also help us provide information which is targeted to your interests. We use this information to determine our users’ demographics, interests, and behavior to better understand and serve you and our community. This information may include the URL of the website that you visited prior to our Website (whether this is on our site or not), the URL of the website you next go to (whether this URL is on our site or not), what browser you are using, and your Internet Protocol (“IP”) address. Most cookies are “session cookies”, meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits. Anonymized data may be shared with third parties.
 
-### Registration
+If you choose to access our Websites through a mobile device, on a mobile version of the Website, or in an application based version of the Website, we may collect additional information about You.  This may include, but is not limited to, location data. 
 
-In order to receive updates, a user must first complete the registration form. During registration a user gives contact information (such as name and email address). We use this information to contact the user about future services and information on our site for which he or she has expressed interest. It is optional for the user to provide demographic information (such as faith and gender), and unique identifiers (such as, username and password), but encouraged so we can provide a more personalized experience on our site. 
+We use a third party advertising company to serve ads on our behalf across the Internet. That advertising company may also collect anonymous information about your visits to our Websites. This is primarily accomplished through the use of a technology device, commonly referred to as a Web beacon, cookie or an action tag, which is placed on various Web pages within our Websites or in an HTML e-mail that allows the third party advertising company to collect anonymous information. There may also be a number of services offered by external service providers that help you use our Websites. If you choose to use these optional services, and in the course of doing so, disclose information to the external service providers, and/or grant them permission to collect information about you, then their use of your information is governed by their private policies, if any.
 
-We also provide the opportunity to register houses of worship and web sites on our sites which we maintain in a directory and verify for accuracy before including.
+Some of the third party advertisers that we use have their own privacy policies and may allow you to opt out of having your information collected as discussed above. The privacy policies of third party advertisers that we may be using during your use of our services can be found at the following URL(s):
 
-### Order
+  * [**http://www.247realmedia.com/privacy.html**](http://www.247realmedia.com/privacy.html)
+  * [**http://www.valueclickmedia.com/member_privacy.shtml**](http://www.valueclickmedia.com/member_privacy.shtml)
+  * [**http://www.advertising.com/privacy**](http://www.advertising.com/privacy)
+  * [**http://www.networkadvertising.org/managing/opt_out.asp**](http://www.networkadvertising.org/managing/opt_out.asp)
 
-We request information from the user on our order forms. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer�s orders. If we have trouble processing an order, the information is used to contact the user. 
 
-### Cookies
 
-A cookie is a piece of data stored on the user�s computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information, such as name or address, while on our site. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user�s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. If you want to learn more about cookies, click [ http://www.truste.org/consumers/users_faqs.html#cookies](http://www.truste.org/consumers/users_faqs.html#cookies). 
+By visiting or using the Websites, you may have access to certain third party functionalities and applications that may use tracking technologies to enhance your experience, and provide services and content to you.  One of these technologies is a Flash cookie that is embedded in the Adobe Flash Player, which is a web tool that allows rapid development of dynamic content.  Adobe Flash cookies may be used in certain situations where we use Flash to provide some content such as video clips or animation and to remember settings, preferences and usage.  They are similar to browser cookies (as described herein) but are managed through a different interface than the one provided by your web browser.  You may access Flash management tools from [Adobe’s web site](http://www.adobe.com/) directly at **http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html**.  Please note that if you reject all or some cookies, you may not be able to take full advantage of all offerings on the Website.
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
+3\. **Our Use of Your Information**
 
-### Third Party Advertising 
+We use information in the files we maintain about you, and the other information we obtain from your current and past activities on the Websites to resolve disputes, troubleshoot problems and enforce our Terms and Conditions. At times, we may review the data of multiple users to identify problems or resolve disputes.
 
-The ads that may appear on this Web site from time to time are delivered to users by a number of third party companies, our Web advertising partners. Information about users� visits to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. 
+You agree that we may use personally identifiable information about you to improve our marketing and promotional efforts, to analyze Website usage, improve our content and product offerings, and customize our Websites’ content, layout, and services. These uses improve our Websites and may better tailor them to meet your needs.  We also work with various third parties to improve the safety, operation and usefulness of the Websites.  In order to do this, we may be required to share certain information about you or your computer with those third parties.  In those cases, we require those third parties to abide by this Privacy Policy and / or similarly restrictive terms.
 
-This privacy statement covers the use of cookies by FOL Inc. sites only and does not cover the use of cookies by any advertisers.
+You agree that we may use your information to contact you and to deliver information to you that, in some cases, is targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Websites. By accepting this Privacy Policy and / or using any of the Websites, you expressly agree to receive this information. If you do not wish to receive these communications, you may opt out of the receipt of certain communications. To learn how to do so, visit the Help section of the Websites or send us an email at [support@faith.com](mailto:support@faith.com).  
 
-### Log Files 
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user�s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+4\. **Our Disclosure of Your Information**
 
-### Clear Gifs (Web Beacons/Web Bugs)
+Due to the regulatory environment in which we operate, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting any of the foregoing), we may be required to disclose information to the government, law enforcement agencies or third parties. Under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users of the Service may abuse or misuse your information that they collect from our Websites. Accordingly, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private. 
 
-We employ a software technology called clear gifs, that helps us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs on the site are not tied to users� personally identifiable information. 
+As a matter of policy, we **do not  **sell or rent any personally identifiable information about you to any third party. However, the following describes some of the ways that your personally identifiable information, if collected, may be used or disclosed.
 
-In addition, we may in the future, use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
+**Financial  Information.** Under some circumstances we may require certain additional information, including but not limited to your credit card billing information. We use this financial information, including your name, address, and other information to bill you for use of our Services and products. By making a purchase, or engaging in any other kind of activity or transaction that uses financial information on the Websites, you consent to our providing of your financial information to our service providers and to such third parties as we determine necessary to support and process your activities and transactions, as well as to your credit card issuer for their purposes. These third parties may include the credit card companies and banking institutions used to process and support your transaction or activity. By purchasing, or registering for, or making reservations for products or services of third parties offered on the Websites, or by participating in programs offered on the Websites that are administered by third parties and that require you to submit financial information in order to use them, you also consent to our providing your financial information to those third parties. Any of these various third parties may be authorized to use your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions. Additionally, you agree that we may use and disclose all information submitted to such third parties in the same manner in which we are entitled to use and disclose any other information that you submit to us. 
 
-## Communications from the Site
+**Advertisers.  ** ****We aggregate (gather up data across  multiple users’ accounts) personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. Certain information, such as your name, email address, password, credit card number and bank account number, are never disclosed to marketing advertisers. We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. 
 
-### Special Offers and Updates
+**Other Corporate Entities.  **We share much of our data, including personally identifiable information about you, with our parent and/or subsidiaries that are committed to serving your online needs and related services, throughout the world. To the extent that these entities have access to your information, they will treat it at least as carefully as they treat information they obtain from their other users. Our parent and/or subsidiaries will follow privacy practices no less protective of all users than our practices described in this document, to the extent allowed by applicable law. It is possible that Spark Networks and/or its subsidiaries, or any combination of such, could merge with or be acquired by another business entity. Should such a combination occur, you should expect that Spark Networks would share some or all of your information in order to continue to provide the Service. You will receive notice of such event (to the extent it occurs) and we will require that the new combined entity follow the practices disclosed in this Privacy Policy, as it may be amended from time to time. Further, should Spark Networks file for protection, or have a third party petition filed against it under the bankruptcy code, any assets of the company, including user personal and non-personal information may be sold or transferred, in whole or part to a new entity. 
 
-We may send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections. 
+**Legal Requests.** Spark Networks cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights. We can (and you authorize us to) disclose any information about you to law enforcement and other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with any investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability. 
 
-### Service Announcements
+5\. **Accessing, Reviewing and Changing  Your Profile**
 
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
+Upon your notification, we will remove your membership from our active databases as soon as reasonably possible in accordance with our policy and applicable law. To learn how to hide or remove your profile so that others cannot view it, visit the Help section of the Websites.
 
-### Customer Service
+We will retain in our files information you have requested be removed from our active databases for certain purposes, such as to resolve disputes, troubleshoot problems and enforce our terms and conditions. Further, such prior information may never be completely removed from our databases due to technical and legal constraints, including stored ‘back up’ systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to any request you may submit.
 
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email. 
+6\. **Other Information Collectors**
 
-## Sharing
+Except as otherwise expressly described in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are on our Websites or on other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy policies. Since Spark Networks does not control the privacy policies of any third parties, you should investigate their policies before you disclose your personal information to them.
 
-### Legal Disclaimer
+7\. **Security**
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
+Spark Networks uses industry standard practices, including “firewalls” and Secure Socket Layers, to safeguard the confidentiality of your personal identifiable information. Spark Networks treats data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by others inside and outside the company. However, “perfect security” does not exist on the Internet.
 
-### Aggregate Information 
+**8\. Notice**
 
-We share aggregated demographic information with our partners and advertisers. This is for the purpose of making sure you only receive information relevant to your interests. 
-
-### Third Party Advertisers
-
-FOL Inc. shares site usage information about users with a reputable third party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For example, FOL Inc. use cookies and clear GIFs on this site, which allow them to recognize a user's cookie when a user visits this site. The information they might collect and share through this technology is not personally identifiable. 
-
-### Third Party Intermediaries
-
-We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services on a co-branded and outsourced website. To make their site have the look and feel of our site, you may see our website address in your browser window when submitting your purchase information . For more information on their policies click <http://cafepress.com/cp/info/help/privacy.aspx>. 
-
-### Service Providers
-
-We partner with other third parties to provide specific services. When the user signs up for these particular services, we share names, or other contact information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
-
-### Business Transitions
-
-In the event FOL Inc. goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users� personal information will, in most instances, be part of the assets transferred. If as a result of the business transition, the users� personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. 
-
-### Choice/Opt-out
-
-Our users are given the opportunity to �opt-out� of having their information used for purposes not directly related to our site. 
-
-Users who no longer wish to receive our newsletter or promotional communications may opt-out of receiving these communications by emailing Admin@faith.com and putting �opt-out� in the subject line of the email.
-
-### Links
-
-This Web site contains links to other sites. Please be aware that we, FOL Inc., are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
-
-### Surveys &Contests
-
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information may be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Though we may use an intermediary to conduct these surveys or contests, they may not use users� personally identifiable information for any secondary purposes. 
-
-### Send A Card
-
-If a user elects to use our referral service for informing a friend about our site, we might ask them for the friend�s name and email address. FOL Inc. might send the friend a one-time email inviting them to visit the site. FOL Inc. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact FOL Inc. to request the removal of this information from our database, as described above. 
-
-### Chat Rooms, Message Boards, and Public Forums
-
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return. 
-
-## Security
-
-This Web site takes every precaution to protect our users� information. When users submit sensitive information via the Web site, their information is protected both online and off-line. 
-
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is stored in a secure, protected fashion. 
-
-We also do everything in our power to protect user-information off-line. All of our users� information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk, if they are working on anything that contains confidential information. When they return, they must re-enter their password to re-gain access to user information in these instances. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users� information is protected. Finally, the servers that store personally identifiable information are in an extremely secure environment, behind a locked cage in a locked facility. 
-
-## Supplementation of Information 
-
-In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources. 
-
-### Credit Check
-
-For example, in the future we may host credit card processing ourselves, and to determine if users qualify for use of one of their credit cards, we will use their name and credit card number to request a credit authorization. Once we determine a user�s credit-worthiness, this document is destroyed. 
-
-### ID Address Verification
-
-We use Authorize.net software and other third party services to verify a user�s address to make sure we can process orders accurately. 
-
-### Screening Houses of Worship
-
-Before including houses of worship in our directory, we verify the accuracy of submitted information. 
-
-### Enhancement of Marketing Profile 
-
-We may in the future purchase third party marketing data and add it to our existing user database to better target our advertising and provide pertinent offers we think our users would be interested in. We use this information to enhance our ability to provide users with relevant information. This aggregate data may be tied to the users� personally identifiable information. 
-
-### Correcting/Updating/Deleting/Deactivating Personal Information
-
-If a user�s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users� personally identifiable information. This can usually be done at the �contact us� page or by emailing our Customer Support at admin@faith.com with �address update� in the subject field. 
-
-### Notification of Changes
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement as we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will try to do this on a timely basis and to place the notice in a place on our website where users can access it and be informed of any changes to the way information is collected that may be different. |  
+We may change this Privacy Policy from time to time based on changes in the law, your comments, or our need to accurately reflect our data collection and disclosure practices. We will notify you about significant changes in the way we treat personal information by sending you a notice via email or by placing a prominent notice on our Website.
