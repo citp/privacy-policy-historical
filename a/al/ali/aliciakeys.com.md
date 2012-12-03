@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aliciakeys.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630100949id_/http%3A//www.mozes.com/product/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aliciakeys.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203172704id_/http%3A//www.mozes.com/product/privacy-policy) for the most accurate reproduction.*
 
 # Mozes is the leader in mobile engagement at live events.
 
