@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitedovebooks.co.uk privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613231433id_/http%3A//www.whitedovebooks.co.uk/site-design/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitedovebooks.co.uk privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203143725id_/http%3A//www.whitedovebooks.co.uk/site-design/privacy.htm) for the most accurate reproduction.*
 
 # White Dove Books - Privacy Policy
 
