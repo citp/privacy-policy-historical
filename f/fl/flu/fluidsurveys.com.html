@@ -1,280 +1,348 @@
-<!--The following is the downloaded HTML source of the fluidsurveys.com privacy policy that was archived on 2011-03-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110304204708id_/http%3A//fluidsurveys.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fluidsurveys.com privacy policy that was archived on 2012-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121204000336id_/http%3A//fluidsurveys.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head> 
-<meta http-equiv="Content-Type" content="text/html; 
-charset=UTF-8"> 
-<meta name="generator" content="WordPress 
-3.0.4">
-<meta http-equiv="content-language" content="en">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head>
+<meta name="msvalidate.01" content="930ADFA8120F59AA47DE3D1509C07E6F">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-<title>Privacy Policy | FluidSurveys</title>
+	<title>Privacy Policy | FluidSurveys</title>
 
-<link rel="stylesheet" href="http://fluidsurveys.com/wp-content/themes/Bluelight/style.css" type="text/css" media="screen">
-<script type="text/javascript" src="//media.fluidsurveys.com/media/js/cufon.js"></script>
-<script type="text/javascript" src="//media.fluidsurveys.com/media/jquery/jquery.js"></script>
-<script type="text/javascript" src="//media.fluidsurveys.com/media/js/base.js"></script>
-<script type="text/javascript" src="//media.fluidsurveys.com/media/js/urlParse.js"></script>
+<!-- STYLESHEET -->
+<link rel="stylesheet" type="text/css" href="http://cdn1.fluidsurveys.com/wp-content/themes/fs/js/prettyPhoto/css/prettyPhoto.css">
 
-<script type="text/javascript" src="//media.fluidsurveys.com/media/js/fonts/myriad-pro.font.js"></script> 
-<script type="text/javascript" src="//media.fluidsurveys.com/media/js/fonts/avenir.font.js"></script> 
-<link rel="stylesheet" href="http://fluidsurveys.com/wp-content/themes/Bluelight/styles/blue/blue.css" type="text/css" media="screen">
+<link rel="alternate" hreflang="en" href="http://fluidsurveys.com/about/privacy/">
+<link rel="alternate" hreflang="en-US" href="http://fluidsurveys.com/about/privacy/">
+<link rel="alternate" hreflang="en-CA" href="http://fluidsurveys.com/about/privacy/">
+<link rel="alternate" hreflang="en-GB" href="http://fluidsurveys.co.uk/about/privacy/">
+<link rel="alternate" hreflang="en-IE" href="http://fluidsurveys.com/about/privacy/?l=en-IE">
+<link rel="alternate" hreflang="en-ZA" href="http://fluidsurveys.com/about/privacy/?l=en-ZA">
+<link rel="alternate" hreflang="en-AU" href="http://fluidsurveys.com/about/privacy/?l=en-AU">
+<link rel="alternate" hreflang="en-NZ" href="http://fluidsurveys.com/about/privacy/?l=en-NZ">
 
-<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://fluidsurveys.com/feed/">
-<link rel="pingback" href="http://fluidsurveys.com/xmlrpc.php">
+<link rel="stylesheet" id="style-css" href="http://cdn2.fluidsurveys.com/wp-content/uploads/wp-less/fs/style.css?ver=1353010741" type="text/css" media="all">
+<link rel="stylesheet" id="thickbox-css" href="http://cdn2.fluidsurveys.com/wp-includes/js/thickbox/thickbox.css?ver=3.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="wp-pagenavi-css" href="http://cdn1.fluidsurveys.com/wp-content/themes/fs/pagenavi-css.css?ver=2.70" type="text/css" media="all">
 
-<link rel="shortcut icon" href="//media.fluidsurveys.com/media/theme/img/favicon.ico">
-<script id="LoggedInChecker" type="text/javascript" src="https://app.fluidsurveys.com/accounts/checklogin/"></script>
-<script type="text/javascript">
-$(function(){
-	if(typeof(LOGGED_IN) != "undefined" && LOGGED_IN){
-		$('.navhide').hide();
-		$('.navshow').show();
-	}
-});
-</script>
-<script type="text/javascript">
-function truncate63(input,l) {
-	var byteLength = l;
-	//we can't decode if we happen to truncate part-way through an encoded entity so if the encoded string has a % near 63 characters, we truncate before the % before decoding
-	if (encodeURIComponent(input).substr(byteLength-2,1) == "%"){
-		truncatedInput = decodeURIComponent(encodeURIComponent(input).substr(0,byteLength-2));
-	} else if (encodeURIComponent(input).substr(byteLength-1,1) == "%"){
-		truncatedInput = decodeURIComponent(encodeURIComponent(input).substr(0,byteLength-1));
-	} else {
-		truncatedInput = decodeURIComponent(encodeURIComponent(input).substr(0,byteLength));
-	}
-	return truncatedInput;
-}
-jQuery(function(){
-	if (document.referrer) {
-		var referrer = new chide.url(document.referrer);
-		var domain = referrer.getAuthority();
-		var query = referrer.getQuery();
-	
-		//get search engine stuff
-		if (domain.match(/google.\w+/) && query.cd){
-			_gaq.push(['_setCustomVar', 3, domain.match(/google.\w+/)[0] + '-' + query.q, query.cd, 2]); //slot 3, page
-		}
-		
-		if (!_gat._getTracker()._getVisitorCustomVar(2)) { // get first referrer 
-			//slot 2, visitor
-		 	_gaq.push(['_setCustomVar', 2, 'FirstReferrer', truncate63(domain + referrer.getPath() + ((referrer.getQuerystring()) ? '?' + referrer.getQuerystring():''),50) , 1]); 
-		}
-	}
-});
-</script>
-<!-- Fix the PNG's - Die IE6 -->
-<!--[if lt IE 7]>
-        <script type="text/javascript" src="http://fluidsurveys.com/wp-content/themes/Bluelight/unitpngfix.js"></script>
-<![endif]--> 
-
-<!-- load the javascript -->
-<script src="http://fluidsurveys.com/wp-content/themes/Bluelight/js/jquery-1.2.6.min.js" type="text/javascript"></script>
-
-<!-- slider window -->
-<script src="http://fluidsurveys.com/wp-content/themes/Bluelight/js/jquery.flow.1.0.js" type="text/javascript"></script>
-
-<!-- destroys categories and archives where unnecessary -->
 <style type="text/css">
-.categories { display: none; }
-.archives {display:none;}
-</style> 
+	.phn_num {font-size:18px; color: #fff; font-weight: bold;margin-left: 50px;margin-right: 30px;float: right;display: inline-block;}
+</style>
+<!-- SCRIPTS-->
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/2083.js?438993" async="" type="text/javascript"></script><script type="text/javascript" async="" src="/wp-content/country_code.php?callback=_ccq_runner"></script><script type="text/javascript" async="" src="//fluidsurveys.com/accounts/checklogin/?callback=_fsq_runner"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/5f40ca7f54578f4819200c191a37873a2c103067.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	try{
+		var _gaq = _gaq || [];
+		_gaq.push(['_addIgnoredRef', 'fluidsurveys.com']);
+		_gaq.push(['_setAllowLinker',true]);
+		if (!document.referrer.match(new RegExp ('^(https?://)?'+document.domain)) && document.referrer.match(/^(https?:\/\/)?(\w*\.)*fluidsurveys.com/)){
+			_gaq.push(['_setReferrerOverride', '0']);
+		}
+		_gaq.push(['_trackPageLoadTime']);
+	} catch(e) {}
+</script>
 
-
-
-
-<!-- initialize the javascripts -->
+ 
 
 <script type="text/javascript">
-$(document).ready(function(){
-Cufon.replace('h1,h2');
+	window.google_analytics_uacct = "UA-5252000-1";
+</script>
 
-$("#myController").jFlow({
-		slides: "#mySlides",
-		width: "495px",
-		height: "255px",
-		duration: 400
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.2.8.7 - http://yoast.com/wordpress/seo/ -->
+<meta name="description" content="We DO NOT share, sell, rent, or trade Personally Identifiable Information with third parties except as disclosed within this privacy statement. Flui">
+<link rel="canonical" href="http://fluidsurveys.com/about/privacy/">
+<!-- / Yoast WordPress SEO plugin. -->
+
+
+			<script type="text/javascript">//<![CDATA[
+			// Google Analytics for WordPress by Yoast v4.2.8 | http://yoast.com/wordpress/google-analytics/
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-5252000-1']);
+				</script><script src="http://fluidsurveys.com/wp-content/plugins/google-analytics-for-wordpress/custom_se_async.js" type="text/javascript"></script>
+<script type="text/javascript">			_gaq.push(['_setAllowLinker',true],['_setDomainName','fluidsurveys.com'],['_trackPageview']);
+			(function () {
+				var ga = document.createElement('script');
+				ga.type = 'text/javascript';
+				ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(ga, s);
+			})();
+			//]]></script>
+			<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://fluidsurveys.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://fluidsurveys.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 3.4.2">
+<script type="text/javascript" src="http://cdn1.fluidsurveys.com/wp-includes/js/jquery/jquery.js?ver=1.7.2"></script>
+<style type="text/css">
+   #scrollbarbox
+   {
+    	background:#fff;	border:1px solid #000;	margin-left:-160px;			padding:5px;    	display: block;
+    	margin-top: 40px;
+    	position: absolute;
+    }
+    #scrollbarbox table,#scrollbarbox table td
+    {
+    	background:transparent !important;
+    	border:none !important;
+    	padding:0px !important;
+    	margin:0px !important;
+		margin-top: 15px !important;
+    }
+.sharebarbtn{padding:0px;}    
+
+    div.sbpinned 
+    {
+    	position: fixed !important;
+   	top: 65px;
+    }
+</style>
+<script type="text/javascript">
+(function($) {
+	$(function() {
+            var offset = $("#scrollbarbox").offset();
+            var bottomPadding = 0;
+            var topPadding = 65;
+            $(window).scroll(function() 
+            {
+            	if($(window).scrollTop()<$(document).height()-bottomPadding-$("#scrollbarbox").height()){
+            		if ($(window).scrollTop() > offset.top) 
+                	{
+			    var ss= $(window).scrollTop() - offset.top + topPadding;
+        	            $("#scrollbarbox").stop().animate({marginTop:ss});
+                	} 
+                	else {$("#scrollbarbox").stop().animate({marginTop: 30}); }
+                };
+            });
+        });
+})(jQuery);
+</script>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script><script type="text/javascript" src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script><script type="text/javascript" src="http://platform.linkedin.com/in.js"></script>
+
+	<meta property="og:type" content="article">
+  	<meta property="og:title" content="FluidSurveys">
+	<meta property="og:url" content="http://fluidsurveys.com">
+	<meta property="og:description" content="Online Survey Software at its best!">
+	<!-- All in one Favicon 4.1 --><link rel="shortcut icon" href="http://cdn2.fluidsurveys.com/wp-content/uploads/2012/10/favicon-dark.ico">
+<link rel="icon" href="http://cdn2.fluidsurveys.com/wp-content/uploads/2012/10/favicon-dark.png" type="image/png">
+<link rel="apple-touch-icon" href="http://cdn1.fluidsurveys.com/wp-content/uploads/2012/10/icon.png">
+<script type="text/javascript" src="http://fluidsurveys.com/wp-content/plugins/tb-testimonials-custom/inc/js/jquery.cycle.all.min.js?ver=1.0"></script>
+<script type="text/javascript" src="http://fluidsurveys.com/wp-content/plugins/tb-testimonials-custom/inc/js/tbtestimonials.js?ver=1.0"></script>
+<script type="text/javascript" src="http://fluidsurveys.com/wp-content/plugins/easy-author-box/js/ts-fab.min.js?ver=1.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/fluidsurveys.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif","closeImage":"http:\/\/fluidsurveys.com\/wp-includes\/js\/thickbox\/tb-close.png"};
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close"};
+try{convertEntities(thickboxL10n);}catch(e){};;
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close"};
+try{convertEntities(thickboxL10n);}catch(e){};;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://cdn1.fluidsurveys.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20111117"></script>
+
+<script type="text/javascript" src="http://cdn1.fluidsurveys.com/wp-content/themes/fs/js/jquery-cookie.js"></script>
+<script type="text/javascript" src="http://cdn1.fluidsurveys.com/wp-content/themes/fs/js/jquery-watermark.js"></script>
+<script type="text/javascript" src="/wp-content/media/js/bootstrap-popover.js"></script>
+
+<script type="text/javascript">
+
+var _fsq = _fsq || [];
+
+var _ccq = _ccq || [];
+var _do_nothing = [];
+
+LOGGED_IN=true;USERNAME="";PLAN_NAME="";PLAN_TYPE="";PLAN_IS_FREE=false;
+
+COUNTRY_CODE= "";
+
+var _load_asynchronously = function(script, queue_name, timeout){
+	setTimeout(function(){
+		var script_load_timeout = null;
+		window[queue_name+'_runner'] = function(){
+			if (script_load_timeout) { clearTimeout(script_load_timeout); }
+			window[queue_name].push=function(func){ func(); }
+			for (var i = 0; i < window[queue_name].length; i++){ 
+				var f = (window[queue_name][i]); 
+				setTimeout(f,i);
+			}
+		};
+		var s = document.createElement('script'); var f = document.getElementsByTagName('script')[0]; s.type = 'text/javascript'; s.async = true;
+		s.src = script+"?callback="+queue_name+'_runner'; f.parentNode.insertBefore(s, f);
+		if (timeout)
+			script_load_timeout = setTimeout(function(){ 
+				s.parentNode.removeChild(s);
+				window[queue_name+'_runner'](); }, timeout);
+	}, 0);
+};
+_load_asynchronously('//fluidsurveys.com/accounts/checklogin/','_fsq', 3000);
+_load_asynchronously('/wp-content/country_code.php','_ccq', 3000);
+</script>
+
+<!-- START TYPEKIT -->
+<script type="text/javascript" src="//use.typekit.com/ctn5vpi.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<!-- END TYPEKIT -->
+
+<!-- START OPTIMIZELY -->
+<script src="//cdn.optimizely.com/js/3647030.js"></script>
+<!-- END OPTIMIZELY -->
+
+<!-- START OLARK -->
+<script type="text/javascript">
+/*{literal}<![CDATA[*/
+_fsq.push(function(){
+	setTimeout(function(){
+		window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){f[z]=function(){(a.s=a.s||[]).push(arguments)};var a=f[z]._={},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={0:+new Date};a.P=function(u){a.p[u]=new Date-a.p[0]};function s(){a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){return setTimeout(ld,5000)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+		/* custom configuration goes here (www.olark.com/documentation) */
+		olark.identify('3200-826-10-9003');
+
+		olark('api.chat.updateVisitorNickname', {snippet: USERNAME});
+		if (PLAN_NAME && PLAN_TYPE){
+			olark('api.chat.updateVisitorStatus', {
+				snippet: 'Plan: ' + PLAN_NAME + ((PLAN_TYPE == "m") ? " Monthly" : " Yearly")
+			});
+		}
+	}, 5000);
+});
+/*]]>{/literal}*/
+</script>
+<!-- END OLARK -->
+
+<!-- START KISSMETRICS -->
+<script type="text/javascript">
+  var KM_COOKIE_DOMAIN = ".fluidsurveys.com"
+  var _kmq = _kmq || [];
+  function _kms(u){
+      var s = document.createElement('script'); var f = document.getElementsByTagName('script')[0]; s.type = 'text/javascript'; s.async = true;
+      s.src = u; f.parentNode.insertBefore(s, f);
+  }
+  _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/5f40ca7f54578f4819200c191a37873a2c103067.1.js');
+</script>
+<!--END KISSMETRICS -->
+
+<meta name="google-site-verification" content="j3MtLAnCSkIPi_hhU15ir4T6YIaCJvNf4mhPXsmVOes">
+
+
+</head>
+                                                                   
+<body>
+
+<div class="top-bar">
+	<div class="center clearfix">
+		<!--[if lt IE 7]> <div style='text-align:center; clear: both; height: 59px; padding:0 0 0 15px; position: relative;'> <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode"><img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." /></a></div> <![endif]-->
+				<div class="logo">
+			<a href="http://fluidsurveys.com"><img src="//cdn1.fluidsurveys.com/wp-content/media/fslogo.png" alt="FluidSurveys Logo"></a>
+		</div>
+		<span class="phn_num">1.866.218.5127</span>
+		<div class="right">
+			<div class="menu-top-nav-container"><ul id="menu-top-nav" class="menu"><li id="menu-item-13887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13887"><a href="http://fluidsurveys.com/">Home</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a title="Plans &amp; Pricing" href="http://fluidsurveys.com/pricing/">Pricing</a></li>
+<li id="menu-item-5637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5637"><a title="Feature Tour" href="http://fluidsurveys.com/tour/design/">Tour</a></li>
+<li id="menu-item-11785" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11785"><a href="#">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-487" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-487"><a title="FluidSurveys Blog" href="http://fluidsurveys.com/blog">Blog</a></li>
+	<li id="menu-item-11789" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11789"><a href="/offline-mobile-surveys/">Mobile / Tablet Surveys</a></li>
+	<li id="menu-item-11786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11786"><a href="http://fluidsurveys.com/survey-programming-services/">Survey Programming Services</a></li>
+	<li id="menu-item-11788" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11788"><a href="http://fluidsurveys.com/panels/">Buy Survey Responses</a></li>
+	<li id="menu-item-11787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11787"><a href="http://fluidsurveys.com/referrals/">Refer a Friend – Earn Cash</a></li>
+</ul>
+</li>
+<li id="menu-item-4693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4693"><a title="Help &amp; Support" href="http://fluidsurveys.com/help-tutorials/">Support</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23"><a title="Signup" href="https://fluidsurveys.com/accounts/register/">Sign Up</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24"><a title="Login" href="https://fluidsurveys.com/accounts/login/">Login</a></li>
+<li id="menu-item-7731" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7731"><a title="Account" href="http://fluidsurveys.com/account/">Account</a></li>
+<li id="menu-item-7732" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7732"><a title="Logout" href="https://fluidsurveys.com/accounts/logout/">Logout</a></li>
+</ul></div>		</div>
+		    </div>
+</div><!-- top-bar -->
+<script type="text/javascript">
+jQuery(function(){
+	$ = jQuery;
+	$('#menu-top-nav a[title=Signup],#menu-top-nav a[title=Login]').parents('li').show();
+	$('#menu-top-nav a[title=Account],#menu-top-nav a[title=Logout]').parents('li').hide();
+});
+_fsq.push(function(){
+	$ = jQuery;
+	var signup_items = $('#menu-top-nav a[title=Signup],#menu-top-nav a[title=Login]').parents('li');
+	var account_items = $('#menu-top-nav a[title=Account],#menu-top-nav a[title=Logout]').parents('li');
+	if(typeof(LOGGED_IN) != "undefined" && LOGGED_IN){
+		signup_items.hide();
+		account_items.show();//.find('a').eq(1).css('color','#6BE36E');
+	} else {
+		account_items.hide();
+		signup_items.show();//.find('a').eq(1).css('color','#6BE36E');
+	}
+	$('#menu-top-nav').show();
+});
+jQuery(function($){
+	$('.signup-widget input[rel=popover]').focus(function(){ var that = this; setTimeout(function(){$(that).popover('show');}, 100); }).blur(function(){ $(this).popover('hide'); });
+});
+_fsq.push(function() {
+	jQuery(function($){
+      	setTimeout(function(){
+			_kmq.push(['identify', USERNAME]);
+			$('[placeholder]').each(function(){
+				$(this).watermark($(this).attr('placeholder'));
+			});
+		}, 100);
+		$('[placeholder]').each(function(){
+			$(this).watermark($(this).attr('placeholder'));
+		});
+		var doPost = function(url, params) {
+			var f = $('<form><\/form>');
+			f.attr('method', 'POST').attr('action', url);
+			$.each(params, function(name, value) {
+				$('<input type="hidden">')
+					.attr('name', name)
+					.attr('value', value)
+					.appendTo(f);
+			});
+			f.appendTo('body').submit();
+		};
+		$('.signup-widget form').submit(function(e){
+			e.preventDefault();
+
+			var email = $('[name=email]').val();
+			var nickname = $('[name=name]').val();
+			var name = $('[name=name]').val();
+			var password = $('[name=password]').val();
+			
+			doPost($(this).attr('action'), {
+				email:email, nickname:nickname, name:name, password1:password, password2:password
+			});
+		}).find('.button, .signup-button').click(function(e){
+		  	e.preventDefault(); 
+		  	var f = $(this).parents('form:eq(0)');
+		  	if ($(this).hasClass('signup-pro')) {
+			  	f.attr('action', 'https://fluidsurveys.com/accounts/register/?plan=2&next=/account/packages/plans/2/')
+		  	}
+		  	f.submit();
+		});
+	});
+});
+
+_ccq.push(function(){
+	jQuery(function($){
+		setTimeout(function(){
+			if (COUNTRY_CODE == "CA") { 
+				$('.canada').show(); 
+				$('.not-canada').hide(); 
+			} else {
+				$('.canada').hide(); 
+				$('.not-canada').show(); 
+			}
+			_kmq.push(['set', {'country_code':COUNTRY_CODE}]);
+		}, 1000);
 	});
 });
 
 </script>
 
-<style type="text/css">img.nothumb{border:0;margin:0 0 0 2px !important;}</style>
-<!-- Tweet This v1.8.1 b035 mode alpha -->
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://fluidsurveys.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://fluidsurveys.com/wp-includes/wlwmanifest.xml"> 
-<link rel="index" title="FluidSurveys" href="http://fluidsurveys.com/">
-<link rel="prev" title="Terms of Use" href="http://fluidsurveys.com/about/terms/">
-<link rel="next" title="Survey Software with the &quot;Side by Side Matrix&quot; Question Type" href="http://fluidsurveys.com/side-by-side-matrix/question-type">
-<meta name="generator" content="WordPress 3.0.4">
-<link rel="shortlink" href="http://m3k8d.th8.us">
+<div class="header header-empty"><div class="center"></div></div>
 
-<!-- All in One SEO Pack 1.6.13.1 by Michael Torbert of Semper Fi Web Design[361,403] -->
-<meta name="description" content="We DO NOT share, sell, rent, or trade Personally Identifiable Information with third parties except as disclosed within this privacy statement.">
-<link rel="canonical" href="http://fluidsurveys.com/about/privacy/">
-<!-- /all in one seo pack -->
-<!-- WP Favicon -->
-<link rel="shortcut icon" href="http://fluidsurveys.com/favicon.ico" type="image/x-icon">
-<link rel="icon" href="http://fluidsurveys.com/favicon.gif" type="image/gif">
-<!-- /WP Favicon -->
- 
+<div class="content-wrapper">
+	<table class="content center blog-content"><tbody><tr>
+		<td class="blog">
+							<div class="entry clearfix" id="post-5116">
+					<h1 class="title"><a href="http://fluidsurveys.com/about/privacy/">Privacy Policy</a></h1>
 
-
-
-</head>
-
-<body id="secondary">
-		<div id="header_wrap_secondary">
-			<div id="header_secondary"><!-- begin header -->
-				<div id="header_upper">
-					<div id="header_logo">
-                  		<a href="http://fluidsurveys.com">
-                  		<img src="http://fluidsurveys.com/wp-content/themes/Bluelight/images/fslogo.png" alt="">
-                  		</a>
-                   </div>
-                    <div id="navs"><!-- begin navigations -->
-						<div id="navs_left"></div>
-						<div id="navs_center">
-							<ul id="topnav" style="font-size:12px;">
-								<li class="left"></li><li class="left"><a href="http://fluidsurveys.com" title="Online Survey Software at its Best">Home</a></li>
-                                    <li>
-									<a href="http://fluidsurveys.com/features/" title="Features">
-										Features</a>
-									</li>
-									<li class="page_item page-item-366"><a href="http://fluidsurveys.com/pricing/" title="Pricing">Pricing</a></li>
-<li class="page_item page-item-2952"><a href="http://fluidsurveys.com/help-tutorials/" title="Help/Contact">Help/Contact</a></li>
-  
-                                    <li>
-									<a href="http://fluidsurveys.com/blog/" title="Survey Blog">
-										Blog</a></li> 
-
-
-									<li class="left navhide"><a href="/accounts/register" rel="nofollow" title="Sign Up for Free!">Sign Up</a></li>
-                                                                        <li class="left navhide"><a href="/accounts/login/" rel="nofollow" title="Login and Create Surveys!">Login</a></li>
-                                                                        <li style="display:none" class="left navshow"><a href="/account/" rel="nofollow" title="My Surveys">Account</a></li>
-                                                                        <li style="display:none" class="left navshow"><a href="/accounts/logout/" rel="nofollow" title="Logout">Logout</a></li>				
-                            </ul>
-						</div>
-                  		<div id="navs_right"> </div>
-					</div><!-- end navigations -->
-				</div><!-- end header upper -->
-				
-                
-                <div id="header_lower">	
-					<div id="header_sub_secondary">
-						<div id="header_sub_text_secondary">
-							<h1 style="font-size:25px; padding-top:5px; color:white;">Privacy Policy</h1>
-                    	</div>
-						</div><!--end header sub-->
-					<div id="header_sub_secondary_right">
-					                	</div><!--end header sub-->
-				</div><!-- end header lower-->
-			</div><!-- end header secondary -->
-		</div><!-- end header wrap secondary -->			
-          
-	<div id="page_secondary"><!-- start page content -->
-		<div id="main_content">
-			
-			<div id="left">
-	<div id="left_navigation">
-		
-
-<!-- if you want to show categories on the project page -->
-
-	<div class="categories">
-		<h2>Categories</h2>
-		<ul>
-							<li class="cat-item cat-item-678"><a href="http://fluidsurveys.com/category/blog/news/" title="View all posts filed under News">News</a>
-</li>
-				</ul>
-	</div>
-	
-	<div class="archives">
-				
-			</div>
-
-<!-- get the subnavs -->
- 
-
-	</div>
-	
-	<!-- get the search form -->
-	<h2>SEARCH</h2>
-	<form method="get" id="searchform" action="http://fluidsurveys.com/"> 
-		<p> 
-		<input type="text" value="" name="s" id="s" size="15"> 
-		<input type="submit" id="searchsubmit" value="Search"> 
-		</p> 
-	</form>
-
-
-	<div id="left_widgets">
-	<!-- get the sidebar widgets -->
-
-	<div class="widget"><h2 class="widgettitle">Latest Survey Buzz</h2>
-<div class="aktt_tweets">
-	<ul>
-		<li>Most Viral Brands of 2010 <a href="http://t.co/4WX9E6T" rel="nofollow">http://t.co/4WX9E6T</a> #<a href="http://search.twitter.com/search?q=%23Viral" class="aktt_hashtag">Viral</a> #Marketing #<a href="http://search.twitter.com/search?q=%23SocialMedia" class="aktt_hashtag">SocialMedia</a> <a href="http://twitter.com/FluidSurveys/statuses/24480289006" class="aktt_tweet_time">2010-09-14</a></li>
-		<li>Join in Celebrating Social Good Day: Social Media for #<a href="http://search.twitter.com/search?q=%23SocialGood" class="aktt_hashtag">SocialGood</a> <a href="http://t.co/cpUkwzH" rel="nofollow">http://t.co/cpUkwzH</a> via @<a href="http://twitter.com/mashsocialmedia" class="aktt_username">mashsocialmedia</a> @mashable #<a href="http://search.twitter.com/search?q=%23SocialMedia" class="aktt_hashtag">SocialMedia</a> #SM <a href="http://twitter.com/FluidSurveys/statuses/24410681751" class="aktt_tweet_time">2010-09-13</a></li>
-		<li>RT @<a href="http://twitter.com/jdlasica" class="aktt_username">jdlasica</a>: 40 useful things you can share on Twitter besides blog posts (Social Media Today): <a href="http://bit.ly/aKroVo" rel="nofollow">http://bit.ly/aKroVo</a> #<a href="http://search.twitter.com/search?q=%23SocialMedia" class="aktt_hashtag">SocialMedia</a> #SM #<a href="http://search.twitter.com/search?q=%23Tips" class="aktt_hashtag">Tips</a> <a href="http://twitter.com/FluidSurveys/statuses/24398234880" class="aktt_tweet_time">2010-09-13</a></li>
-		<li class="aktt_more_updates"><a href="http://twitter.com/FluidSurveys">More updates...</a></li>
-</ul></div></div><!--/widget-->
-	<div class="widget"><h2 class="widgettitle">Popular Terms</h2>
-<div><a href="http://fluidsurveys.com/tag/affiliate-marketing/" class="tag-link-57" title="2 topics" style="font-size: 8pt;">affiliate marketing</a>
-<a href="http://fluidsurveys.com/tag/all/" class="tag-link-60" title="41 topics" style="font-size: 22pt;">all</a>
-<a href="http://fluidsurveys.com/tag/analytics/" class="tag-link-63" title="6 topics" style="font-size: 12.543859649123pt;">analytics</a>
-<a href="http://fluidsurveys.com/tag/analyze-results/" class="tag-link-66" title="3 topics" style="font-size: 9.4736842105263pt;">analyze results</a>
-<a href="http://fluidsurveys.com/tag/create-graphs/" class="tag-link-150" title="3 topics" style="font-size: 9.4736842105263pt;">create graphs</a>
-<a href="http://fluidsurveys.com/tag/customer-feedback/" class="tag-link-770" title="2 topics" style="font-size: 8pt;">customer feedback</a>
-<a href="http://fluidsurveys.com/tag/customer-loyalty/" class="tag-link-772" title="2 topics" style="font-size: 8pt;">customer loyalty</a>
-<a href="http://fluidsurveys.com/tag/customer-satisfaction/" class="tag-link-165" title="3 topics" style="font-size: 9.4736842105263pt;">customer satisfaction</a>
-<a href="http://fluidsurveys.com/tag/customer-satisfaction-surveys/" class="tag-link-768" title="2 topics" style="font-size: 8pt;">customer satisfaction surveys</a>
-<a href="http://fluidsurveys.com/tag/customer-survey/" class="tag-link-167" title="3 topics" style="font-size: 9.4736842105263pt;">customer survey</a>
-<a href="http://fluidsurveys.com/tag/customer-surveys/" class="tag-link-168" title="3 topics" style="font-size: 9.4736842105263pt;">customer surveys</a>
-<a href="http://fluidsurveys.com/tag/exit-survey-popup/" class="tag-link-714" title="3 topics" style="font-size: 9.4736842105263pt;">exit survey popup</a>
-<a href="http://fluidsurveys.com/tag/fluidsurveys/" class="tag-link-223" title="3 topics" style="font-size: 9.4736842105263pt;">fluidsurveys</a>
-<a href="http://fluidsurveys.com/tag/graphs/" class="tag-link-250" title="3 topics" style="font-size: 9.4736842105263pt;">graphs</a>
-<a href="http://fluidsurveys.com/tag/how-to/" class="tag-link-258" title="3 topics" style="font-size: 9.4736842105263pt;">how to</a>
-<a href="http://fluidsurveys.com/tag/invitation-popup/" class="tag-link-298" title="3 topics" style="font-size: 9.4736842105263pt;">invitation popup</a>
-<a href="http://fluidsurveys.com/tag/market-research/" class="tag-link-724" title="3 topics" style="font-size: 9.4736842105263pt;">market research</a>
-<a href="http://fluidsurveys.com/tag/modal-popup/" class="tag-link-334" title="3 topics" style="font-size: 9.4736842105263pt;">modal popup</a>
-<a href="http://fluidsurveys.com/tag/one-time-surveys/" class="tag-link-394" title="5 topics" style="font-size: 11.684210526316pt;">one time surveys</a>
-<a href="http://fluidsurveys.com/tag/online-survey/" class="tag-link-396" title="6 topics" style="font-size: 12.543859649123pt;">online survey</a>
-<a href="http://fluidsurveys.com/tag/online-surveys/" class="tag-link-406" title="5 topics" style="font-size: 11.684210526316pt;">online surveys</a>
-<a href="http://fluidsurveys.com/tag/online-survey-software/" class="tag-link-401" title="7 topics" style="font-size: 13.157894736842pt;">online survey software</a>
-<a href="http://fluidsurveys.com/tag/pop-up-surveys/" class="tag-link-761" title="3 topics" style="font-size: 9.4736842105263pt;">pop-up surveys</a>
-<a href="http://fluidsurveys.com/tag/pop-up/" class="tag-link-764" title="2 topics" style="font-size: 8pt;">pop up</a>
-<a href="http://fluidsurveys.com/tag/popup-invite/" class="tag-link-439" title="3 topics" style="font-size: 9.4736842105263pt;">popup invite</a>
-<a href="http://fluidsurveys.com/popup-survey/using-pop-up-survey-invites" class="tag-link-763" title="2 topics" style="font-size: 8pt;">pop up survey</a>
-<a href="http://fluidsurveys.com/tag/popup-survey/" class="tag-link-440" title="5 topics" style="font-size: 11.684210526316pt;">popup survey</a>
-<a href="http://fluidsurveys.com/tag/question-types/" class="tag-link-458" title="9 topics" style="font-size: 14.385964912281pt;">question types</a>
-<a href="http://fluidsurveys.com/tag/side-by-side-matrix/" class="tag-link-509" title="2 topics" style="font-size: 8pt;">side by side matrix</a>
-<a href="http://fluidsurveys.com/tag/skipping/" class="tag-link-520" title="2 topics" style="font-size: 8pt;">skipping</a>
-<a href="http://fluidsurveys.com/tag/spss/" class="tag-link-524" title="2 topics" style="font-size: 8pt;">spss</a>
-<a href="http://fluidsurveys.com/tag/survey/" class="tag-link-531" title="3 topics" style="font-size: 9.4736842105263pt;">survey</a>
-<a href="http://fluidsurveys.com/tips-and-techniques" class="tag-link-687" title="3 topics" style="font-size: 9.4736842105263pt;">survey creation tips</a>
-<a href="http://fluidsurveys.com/tag/survey-name/" class="tag-link-553" title="2 topics" style="font-size: 8pt;">survey name</a>
-<a href="http://fluidsurveys.com/tag/survey-questions/" class="tag-link-557" title="6 topics" style="font-size: 12.543859649123pt;">survey questions</a>
-<a href="http://fluidsurveys.com/tag/survey-response-rate/" class="tag-link-561" title="2 topics" style="font-size: 8pt;">survey response rate</a>
-<a href="http://fluidsurveys.com/tag/survey-responses/" class="tag-link-562" title="2 topics" style="font-size: 8pt;">survey responses</a>
-<a href="http://fluidsurveys.com/tag/survey-results/" class="tag-link-564" title="2 topics" style="font-size: 8pt;">survey results</a>
-<a href="http://fluidsurveys.com/tag/survey-roles/" class="tag-link-565" title="2 topics" style="font-size: 8pt;">survey roles</a>
-<a href="http://fluidsurveys.com/tag/surveys/" class="tag-link-593" title="4 topics" style="font-size: 10.701754385965pt;">surveys</a>
-<a href="http://fluidsurveys.com/tag/survey-software/" class="tag-link-567" title="5 topics" style="font-size: 11.684210526316pt;">survey software</a>
-<a href="http://fluidsurveys.com/tag/survey-templates/" class="tag-link-38" title="3 topics" style="font-size: 9.4736842105263pt;">Survey Templates</a>
-<a href="http://fluidsurveys.com/tag/survey-tips/" class="tag-link-733" title="4 topics" style="font-size: 10.701754385965pt;">survey tips</a>
-<a href="http://fluidsurveys.com/tag/survey-title/" class="tag-link-580" title="3 topics" style="font-size: 9.4736842105263pt;">survey title</a>
-<a href="http://fluidsurveys.com/tag/tutorial/" class="tag-link-630" title="3 topics" style="font-size: 9.4736842105263pt;">tutorial</a></div>
-</div><!--/widget-->
-			
-	
-	</div>
-</div>			
-			<div id="main_content_left_secondary">
-  				 
-                                <p style="font-size:30px; padding-bottom:10px;">Privacy Policy</p>
-				<p> <strong> We DO NOT share, sell, rent, or trade Personally Identifiable Information with third  parties except as disclosed within this privacy statement</strong>. 
+					<p> <strong> We DO NOT share, sell, rent, or trade Personally Identifiable Information with third  parties except as disclosed within this privacy statement</strong>. 
 </p>
 <p><strong>FluidSurveys is a product of Chide.it Inc.</strong>
   </p>
@@ -287,7 +355,7 @@ $("#myController").jFlow({
 <blockquote>
 <p>  We reserve the right to  contact you, regarding your account or any other matter regarding your use of  Chide.it products. With your authorization, we may use some information  collected from you to help diagnose technical problems, and improve the quality  and types of services delivered. We may use and share non-identifiable  aggregated usage and statistical information. We may also share information  with third parties in limited circumstances including when complying with legal  processes, preventing fraud or imminent harm, ensuring security of network and  services and due to violation of the terms of service. <br>
     Our shopping cart  is hosted by our e-commerce solutions provider. They host our ordering system,  and collect your billing information directly from you for the purpose of  processing your order. This company does not use this information for any other  purpose. </p>
-<p>    Chide.it  Inc. (maker of FluidSurveys.com) has been awarded TRUSTe’s Privacy Seal  signifying that this privacy policy and practices have been reviewed by TRUSTe  for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe’s program requirements</a> including transparency,  accountability and choice regarding the collection and use of your personal  information.&nbsp; The TRUSTe program does not  cover information that may be collected through downloadable software.&nbsp;&nbsp; TRUSTe’s mission, as an independent third  party, is to accelerate online trust among consumers and organizations globally  through its leading privacy trustmark and innovative trust solutions. If you  have questions or complaints regarding our privacy policy or practices, please  contact us at info@fluidsurveys.com.&nbsp; If  you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint">TRUSTe  here</a> .<strong> </strong></p>
+<p>    Chide.it  Inc. (maker of FluidSurveys.com) has been awarded TRUSTe’s Privacy Seal  signifying that this privacy policy and practices have been reviewed by TRUSTe  for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html']);">TRUSTe’s program requirements</a> including transparency,  accountability and choice regarding the collection and use of your personal  information.&nbsp; The TRUSTe program does not  cover information that may be collected through downloadable software.&nbsp;&nbsp; TRUSTe’s mission, as an independent third  party, is to accelerate online trust among consumers and organizations globally  through its leading privacy trustmark and innovative trust solutions. If you  have questions or complaints regarding our privacy policy or practices, please  contact us at info@fluidsurveys.com.&nbsp; If  you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://watchdog.truste.com/pvr.php?page=complaint']);">TRUSTe  here</a> .<strong> </strong></p>
 </blockquote>
 <h2><strong>Collected  data on your surveys</strong></h2>
 <blockquote>
@@ -299,7 +367,7 @@ $("#myController").jFlow({
 </blockquote>
 <h2><strong>Cookies</strong></h2>
 <blockquote>
-<p>Cookies  are required when using FluidSurveys. We use cookies to identify unique  visitors, provider per-user customization, and to make FluidSurveys easier to  use. We don’t share our cookies, nor do we use cookies to track your behavior  on other sites.</p>
+<p>Cookies  are required when using FluidSurveys. We use cookies to identify unique  visitors, provide per-user customization, and to make FluidSurveys easier to  use. We don’t share our cookies, nor do we use cookies to track your behavior  on other sites.</p>
 </blockquote>
 <h2><strong>Third Party Cookies</strong></h2>
 <blockquote>
@@ -316,7 +384,7 @@ $("#myController").jFlow({
 <h2><strong>Service-related  Announcements</strong> </h2>
 <blockquote>
 <p>We  will send you service-related  announcements when it is necessary to do so. For instance, if our service is  temporarily suspended for maintenance, we might send you an email.  Service-related emails are also sent confirming billing transactions, account  upgrades, and account cancellations.<br>
-    Generally,  you may not opt-out of these communications, which are not promotional in  nature. If you do not wish to receive them, you have the option to cancel your account. In order to cancel a premium (non-free) subscription with FluidSurveys, please see: <a href="http://help.chide.it/entries/309040-how-do-i-cancel-my-account">How to Cancel my Subscription</a>. In order to delete your FluidSurveys account altogether, please send an email to support@fluidsurveys.com and Chide.it support staff will process your request.</p>
+    Generally,  you may not opt-out of these communications, which are not promotional in  nature. If you do not wish to receive them, you have the option to cancel your account. In order to cancel a premium (non-free) subscription with FluidSurveys, please see: <a href="http://help.chide.it/entries/309040-how-do-i-cancel-my-account" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://help.chide.it/entries/309040-how-do-i-cancel-my-account']);">How to Cancel my Subscription</a>. In order to delete your FluidSurveys account altogether, please send an email to support@fluidsurveys.com and Chide.it support staff will process your request.</p>
 </blockquote>
 <h2><strong>Customer  Service</strong> </h2>
 <blockquote>
@@ -366,8 +434,8 @@ $("#myController").jFlow({
 </blockquote>
 <h2><strong>Contact Information</strong></h2>
 <blockquote>
-<p><a href="http://chide.it/">Chide.it Inc.</a><br>
-    1-877-298-7792<br>
+<p><a href="http://chide.it/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://chide.it/']);">Chide.it Inc.</a><br>
+    1-866-218-5127<br>
     <a href="mailto:support@fluidsurveys.com">support@fluidsurveys.com</a><br>
     If you’d like to send us snail mail, you can also use our  following office locations:
     </p>
@@ -381,91 +449,198 @@ $("#myController").jFlow({
 </blockquote>
 <div>
 </div>
-<div class="tweetthis" style="text-align:left;"><p> <a class="tt" href="http://twitter.com/home/?status=Privacy+Policy+http%3A%2F%2Fm3k8d.th8.us" title="Post to Twitter"><img class="nothumb" src="http://fluidsurveys.com/wp-content/plugins/tweet-this/icons/en/twitter/tt-twitter.png" alt="Post to Twitter"></a> <a class="tt" href="http://twitter.com/home/?status=Privacy+Policy+http%3A%2F%2Fm3k8d.th8.us" title="Post to Twitter">Tweet This Post</a></p></div> 
-				 
-							
-					
-            </div><!-- end main content left  -->
-		</div><!-- end main content  -->
-	<div style="clear: both;">&nbsp;</div>
-</div><!-- end page secondary  -->
-
-
-<div id="footer_wrap">    
-    <div id="footer" style="background-color:#F6F6F6;">
-        <div id="footer_l">
-        	<p>© FluidSurveys | All Rights Reserved</p>
-<span style="padding: 10px; border: 1px solid rgb(204, 204, 204); background-color: white; display: inline-block;"><!-- START SCANALERT CODE -->
-<a href="https://www.mcafeesecure.com/RatingVerify?ref=fluidsurveys.com" target="_blank"><img width="115" height="32" border="0" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" src="//images.scanalert.com/meter/survey/fluidsurveys.com/22.gif" style=""></a>
-<!-- END SCANALERT CODE --></span>
-<span style="padding:9px 10px 10px 10px; border: 1px solid rgb(204, 204, 204); background-color: white; display: inline-block;"><a href="//privacy-policy.truste.com/click-with-confidence/wps/en/www.fluidsurveys.com/seal_s" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" height:"45"="" src="//privacy-policy.truste.com/certified-seal/wps/en/www.fluidsurveys.com/seal_s.png" alt="TRUSTe online privacy certification"></a></span>
-        </div>
-
-        <div id="footer_r">
-       		
-       		<ul>
-				<li class="left"><a href="http://fluidsurveys.com">Home</a></li>
-                                                                        <li><a href="http://fluidsurveys.com/research-consulting-services" title="Market Research Services">Services</a></li>
-                                                                        <li><a href="http://fluidsurveys.com/features/">Features</a></li>
-				<li class="page_item page-item-366"><a href="http://fluidsurveys.com/pricing/" title="Pricing">Pricing</a></li>
-<li class="page_item page-item-2952"><a href="http://fluidsurveys.com/help-tutorials/" title="Help/Contact">Help/Contact</a></li>
-  
-                                                                        <li><a href="http://fluidsurveys.com/blog/">Blog</a></li> 
-<!-- <li class="left"><a href="http://fluidsurveys.com/help/help-tutorials" title="Need Help?">Help</a></li>   -->
-                                                                        <li class="left"><a href="http://www.shareasale.com/shareasale.cfm?merchantID=24745" title="Affiliate Marketing">Affiliates</a></li>  <li class="left"><a href="/about/" title="About Us">About</a></li>  
-<li class="left"><a href="http://fluidsurveys.com/careers/" title="Careers at FluidSurveys">Careers</a></li>
-</ul>
-<ul>
-<li class="left"><a href="http://fluidsurveys.com/about/terms/" rel="nofollow">Terms of Use</a></li>
-<li class="left"><a href="http://fluidsurveys.com/about/privacy/" rel="nofollow">Privacy Policy</a></li>	
-</ul>
-
-<div style="float:right;">
-<table>
-<tbody><tr style="background-color:#F6F6F6;">
-   <td><img src="http://fluidsurveys.com/wp-content/themes/Bluelight/images/twitter.png" alt="twitter"></td>
-   <td style="color:black;">Follow Us on Twitter<br><a rel="nofollow" href="http://twitter.com/fluidsurveys">@fluidsurveys</a></td>
-</tr>
-</tbody></table>
+				</div>
+					</td>
+		<td class="sidebar-wrapper">
+			<div class="sidebar">
+				<div class="widget widget_text signup" id="text-22"><h3 class="widget_title"><span class="widget-main-title">Sign up free!</span> </h3>			<div class="textwidget"><div class="tag tag-new">No credit card required!</div>
+<div class="signup-widget">
+	<form action="https://fluidsurveys.com/accounts/register/">
+		<input type="text" name="name" class="text" placeholder="Name" rel="popover" data-html="true" data-trigger="manual" data-title="Name" data-content="Enter your name here. Note that this name will be used when generating your survey links." data-placement="left">
+		<input type="text" name="email" class="text" placeholder="Email" rel="popover" data-html="true" data-trigger="manual" data-title="Email" data-content="We will need your email to validate your account. <br/><br/> <small style='color:red'>*We will never sell or distribute your email address, and we hate spam, so we'll never send you any!" data-placement="left">
+		<input type="password" name="password" class="text" placeholder="Password" rel="popover" data-html="true" data-trigger="manual" data-title="Password" data-content="To keep your account secure, we'll need you to set a password. Make sure not to forget it!" data-placement="left">
+		<input type="submit" class="button button-get-started" value="Get Started!">
+	</form>
+</div></div>
+		</div><div class="widget widget_children_pages menu" id="children_pages-3"><h3 class="widget_title"><span class="widget-main-title">About</span> </h3><ul class="children_pages_list"><li class="page_item page-item-27"><a href="http://fluidsurveys.com/careers/">Careers</a></li>
+<li class="page_item page-item-29"><a href="http://fluidsurveys.com/contact/">Contact Us</a></li>
+<li class="page_item page-item-5116 current_page_item"><a href="http://fluidsurveys.com/about/privacy/">Privacy Policy</a></li>
+<li class="page_item page-item-5115"><a href="http://fluidsurveys.com/about/terms/">Terms of Use</a></li>
+<li class="page_item page-item-915"><a href="http://fluidsurveys.com/about/why-choose-us/">Why Choose FluidSurveys?</a></li>
+</ul></div><div class="widget widget_tbtestimonialswidget" id="tbtestimonialswidget-4"><h3 class="widget_title"><span class="widget-main-title"></span> </h3>            <script type="text/javascript">/* <![CDATA[ */
+                var tbtestimonial_settings = {
+                    transition_interval:  1,
+                    timer_interval: 5,
+                    display_count: 1,
+                    loop_all:  0,
+                    animate: 0,
+                    preloader: 0,
+                    transition: 'fade'
+                };
+            /*]]>*/</script>
+        
+            <ul id="tbtestimonials-widget">
+            <li class="testimonial-slide"><ul><li class="testimonial">
+    <div class="testimonial-data">
+        <div class="testimonial-snipit">“Extremely helpful and patient”</div>
+        <div class="testimonial-content">“I extend my thanks, on behalf of the Maternal and Infant Health Team at Toronto Public Health, for the great customer service and assistance you provided to my administrative assistant during her learning curve in creating and using Fluid Surveys for our evaluation purposes.
+ 
+The representative was patient and extremely helpful to her in completing her assignment and we are most grateful.”</div>
+        <div class="testimonial-info">
+          — <span class="author"></span> 
+          
+      </div>
+    </div>
+    <div class="tbtclear"></div>
+</li></ul></li></ul></div><div class="widget widget_nav_menu menu" id="nav_menu-8"><h3 class="widget_title"><span class="widget-main-title"><span class="firstline">FluidSurveys</span><br> Use Cases</span> </h3><div class="menu-use-cases-container"><ul id="menu-use-cases" class="menu"><li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a title="Market Research Surveys &amp; Questionnaires" href="http://fluidsurveys.com/market-research/">Market Research</a></li>
+<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a title="Customer Feedback Surveys &amp; Questionnaires" href="http://fluidsurveys.com/customer-feedback/">Customer Feedback</a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a title="Educational Research, Training, Evaluation, and Enrollment Questionnaires" href="http://fluidsurveys.com/education-and-training/">Education &amp; Training</a></li>
+<li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a title="Event Registration, Surveys, &amp; Questionnaires" href="http://fluidsurveys.com/event-registration/">Event Registration</a></li>
+<li id="menu-item-4926" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4926"><a title="Creating Health Care and Patient Data Questionnaires" href="http://fluidsurveys.com/health-care/">Health Care</a></li>
+<li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a title="Human Resources Surveys and Questionnaires" href="http://fluidsurveys.com/human-resources/">Human Resources</a></li>
+<li id="menu-item-4989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4989"><a title="Net Promoter Surveys and Questionnaires" href="http://fluidsurveys.com/net-promoter-surveys/">Net Promoter Surveys</a></li>
+<li id="menu-item-8871" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8871"><a title="Reach your targeted audience." href="http://fluidsurveys.com/panels/">Online Panels</a></li>
+</ul></div></div>			</div>
+		</td>
+	</tr></tbody></table>
 </div>
+
+<div class="footer">
+	<div class="center clearfix">
+	<div class="column column-1"><div id="nav_menu-10" class="widget_footer widget_nav_menu">	<h3><span class="widget-main-title">Navigation</span> </h3><div class="hr"></div><div class="widget_footer_content"><div class="menu-bottom-nav-container"><ul id="menu-bottom-nav" class="menu"><li id="menu-item-8916" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8916"><a href="http://fluidsurveys.com/tour/design/">Feature Tour</a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="http://fluidsurveys.com/pricing/">Pricing</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-39"><a href="http://fluidsurveys.com/about/">About Us</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="http://fluidsurveys.com/careers/">Careers</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://fluidsurveys.com/contact/">Contact Us</a></li>
+<li id="menu-item-5319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5319"><a href="http://fluidsurveys.com/testimonials">Testimonials</a></li>
+<li id="menu-item-8265" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8265"><a href="http://docs.fluidsurveys.com/">Documentation</a></li>
+<li id="menu-item-9841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9841"><a href="http://fluidsurveys.com/referrals/">Affiliates / Referral Program</a></li>
+<li id="menu-item-12518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12518"><a href="http://docs.fluidsurveys.com/#api-documentation">API</a></li>
+</ul></div></div></div></div><div class="column column-2">		<div id="recent-posts-3" class="widget_footer widget_recent_entries">			<h3><span class="widget-main-title">Latest From the Blog</span> </h3><div class="hr"></div><div class="widget_footer_content">		<ul>
+				<li><a href="http://fluidsurveys.com/payment-question-type/" title="Payment Question Type">Payment Question Type</a></li>
+				<li><a href="http://fluidsurveys.com/how-to-send-survey-reminders-to-a-select-group-of-people/" title="How to Send Survey Reminders to a Select Group of People">How to Send Survey Reminders to a Select Group of People</a></li>
+				<li><a href="http://fluidsurveys.com/featured-customer-ischool-revolutionizing-education-in-zambia/" title="Featured Customer: iSchool – Revolutionizing Education in Zambia!">Featured Customer: iSchool – Revolutionizing Education in Zambia!</a></li>
+				<li><a href="http://fluidsurveys.com/5-tips-to-promote-work-life-balance-for-small-business-owners/" title="5 Tips to Promote Work-Life Balance for Small Business Owners">5 Tips to Promote Work-Life Balance for Small Business Owners</a></li>
+				</ul>
+		</div></div></div><div class="column column-3"><div id="text-23" class="widget_footer widget_text">	<h3><span class="widget-main-title">Get in touch!</span> </h3><div class="hr"></div><div class="widget_footer_content">			<div class="textwidget"><p>You can reach our friendly support team <a href="mailto:support@fluidsurveys.com">by email</a>.</p>
+<p>In the real world, you can find us at:</p>
+<address><p>
+1203 Geiger Ln., Suite 100
+Bridgewater, NJ 08807
+United States
+</p></address>
+<address><p>
+1729 Bank St. Suite 200<br>
+Ottawa ON Canada K1V 7Z5
+</p></address>
+<div>
+
+
+<!-- Pinterest -->
+<a href="http://pinterest.com/fluidsurveys/" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://pinterest.com/fluidsurveys/']);"><img src="http://passets-lt.pinterest.com/images/about/buttons/pinterest-button.png" width="80" height="28" alt="Follow Me on Pinterest"></a><br>
+
+<!-- Twitter -->
+<a href="https://twitter.com/share" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://twitter.com/share']);" class="twitter-share-button footer-twitter">Tweet</a>
+
+<!-- Facebook -->
+<iframe id="fb-like-iframe" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:28px; display:block;" allowtransparency="true"></iframe>
+
+<!-- Google Plus -->
+<div class="g-plusone" data-annotation="inline" data-width="200" data-href="http://fluidsurveys.com"></div>
+
+<!-- Google Plus page verification -->
+<a href="https://plus.google.com/110941944366375901179?prsrc=3" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://plus.google.com/110941944366375901179?prsrc=3']);" rel="publisher" style="text-decoration:none;"><img src="http://ssl.gstatic.com/images/icons/gplus-32.png" alt="" style="border:0;width:32px;height:32px;"></a>
+
 </div>
-
-     <div style="float:left; clear:both;">
-<table>
-   <tbody><tr style="background-color:#F6F6F6;"><td style="color:black; padding: 0 0 5px 0;">FluidSurveys <a href="http://fluidsurveys.com" title="Online Survey Software"> Online Survey Software</a> in Other Languages:</td></tr>
-   <tr style="color:black;background-color:#F6F6F6;"><td style="padding: 0 0 10px 0; margin:0;"><a href="http://raziskave.fluidsurveys.com" title="Najboljša spletna rešitev za raziskave">Slovene</a> | <a href="http://enkatverktyg.fluidsurveys.com/" title="Skapa omröstningar och enkäter">Swedish</a> | <a href="http://encuestas.fluidsurveys.com" title="Crear Sondeos y Encuestas">Spanish</a> | <a href="http://fluidsurveys.no" title="Lag avstemninger
-og spørreskjema på Norsk">Norwegian</a> <br> <a href="http://fluidsurveys.com/start-fluidsurveys-in-your-own-country/">Start FluidSurveys in Your Country!</a></td> </tr>
-</tbody></table>
-</div>                          
-                        	
-        </div><!-- end footer_r-->
-
-	</div><!-- end footer -->
 
 
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-	try{
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', "UA-5252000-1"]);
-		_gaq.push(['_setDomainName', '.fluidsurveys.com']);
-  		_gaq.push(['_setAllowHash', false]);
+window.___gcfg = {lang: 'en'};
 
-		jQuery(function(){
-			_gaq.push(['_trackPageview']);
-		});
-	} catch(e) {}
+jQuery(function() {
+	setTimeout(function(){
+		jQuery('.footer-twitter').attr('data-via','fluidsurveys').attr('data-size','small').attr('data-related','fluidsurveys').attr('data-url','http://fluidsurveys.com');
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+		
+		jQuery('#fb-like-iframe').attr('src', "https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffluidsurveys.com&send=false&layout=button_count&width=120&show_faces=false&action=like&colorscheme=dark&font=arial&height=21&appId=224497604241185");
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'http://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	}, 5000)
+});
 </script>
-<!-- Begin Olark Chat --><script type="text/javascript">(function(){document.write(unescape('%3Cscript src=%27' + (document.location.protocol == 'https:' ? "https:" : "http:") + '//static.olark.com/js/wc.js%27 type=%27text/javascript%27%3E%3C/script%3E'));})();</script><script src="https://static.olark.com/js/wc.js" type="text/javascript"></script><div id="olark-data"><a class="olark-key" id="olark-3200-826-10-9003" title="Powered by Olark" href="http://olark.com/about" rel="nofollow">Powered by Olark</a></div> <script type="text/javascript"> wc_init();</script><!-- /End Olark Chat -->
+</div>
+		</div></div></div><div class="column column-4"></div>	</div>
 
-<!-- Begin Get Clicky -->
-<a title="Web Statistics" href="http://getclicky.com/66383760"><img alt="Web Statistics" src="http://static.getclicky.com/media/links/badge.gif" border="0"></a>
-<script src="http://static.getclicky.com/js" type="text/javascript"></script>
-<script type="text/javascript">try{ clicky.init(66383760); }catch(err){}</script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="http://in.getclicky.com/66383760ns.gif" /></p></noscript>
-<!-- End Get Clicky -->
+	<div class="bottom">
+		<div class="center clearfix">
+			<div class="left">
+				<div class="mcafee"><!-- START SCANALERT CODE -->
+<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=fluidsurveys.com" style="box-shadow: 0px 0px 15px rgba(255,255,255,0.5)"><img height="32" border="0" width="115" style="" src="//images.scanalert.com/meter/survey/fluidsurveys.com/22.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+<!-- END SCANALERT CODE --></div>
+<div class="truste"><a target="_blank" title="TRUSTe online privacy certification" href="//privacy-policy.truste.com/click-with-confidence/wps/en/www.fluidsurveys.com/seal_s" style="box-shadow: 0px 0px 15px rgba(255,255,255,0.5)"><img alt="TRUSTe online privacy certification" src="//privacy-policy.truste.com/certified-seal/wps/en/www.fluidsurveys.com/seal_s.png" style="border: none"></a></div>			</div>
 
-</body></html>
+			<div class="right">
+				<div style="line-height:1.5em">© FluidSurveys. All rights reserved. <a href="/about/privacy/">Privacy Policy</a> | <a href="/about/terms/">Terms and Conditions</a> <br>
+A <a href="http://chide.it/">Chide.it</a> Element.</div>			</div>
+		</div>
+	</div>
+</div>
+
+<!-- <script type="text/javascript" src="http://fluidsurveys.com/wp-content/themes/fs/../../country_code.php"></script> -->
+
+<script type="text/javascript" src="http://cdn1.fluidsurveys.com/wp-content/themes/fs/js/jquery.quicksearch.js"></script>
+
+<script type="text/javascript" src="http://cdn2.fluidsurveys.com/wp-content/themes/fs/js/prettyPhoto/js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript">
+var autoslide_time =0;
+jQuery(document).ready(function($){$("a[rel^='prettyPhoto']").prettyPhoto();  } );</script>
+
+
+<!-- Begin Adroll-->
+<script type="text/javascript">
+adroll_adv_id = "THP3SJJPUVDB5N7T6AT5AM";
+adroll_pix_id = "R3OKVJUONFEELHG2C7BSVB";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+	if(oldonload){oldonload()}};
+	setTimeout(function(){
+		 __adroll_loaded=true;
+		 var scr = document.createElement("script");
+		 var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+		 scr.setAttribute('async', 'true');
+		 scr.type = "text/javascript";
+		 scr.src = host + "/j/roundtrip.js";
+		 document.documentElement.firstChild.appendChild(scr);
+	}, 5000);
+}());
+</script>
+<!-- End Adroll-->
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/2083.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<link rel="stylesheet" id="ts_fab_css-css" href="http://fluidsurveys.com/wp-content/plugins/easy-author-box/css/ts-fab.min.css?ver=1.0" type="text/css" media="all">
+<script type="text/javascript" src="http://cdn2.fluidsurveys.com/wp-includes/js/comment-reply.js?ver=3.4.2"></script>
+
+<script type="text/javascript">
+var tb_pathToImage = "http://cdn1.fluidsurveys.com/wp-includes//js/thickbox/loadingAnimation.gif";
+var tb_closeImage = "http://cdn2.fluidsurveys.com/wp-includes//js/thickbox/tb-close.png"; 
+</script>
+
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: basic
+Object Caching 4846/5078 objects using disk: basic
+Content Delivery Network via cdn1.fluidsurveys.com
+
+Served from: fluidsurveys.com @ 2012-12-03 19:03:35 --></body></html>
