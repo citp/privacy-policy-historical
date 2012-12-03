@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lensoftruth.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604123047id_/http%3A//www.lensoftruth.com/%3Fpage_id%3D5609) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lensoftruth.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203160352id_/http%3A//www.lensoftruth.com/%3Fpage_id%3D5609) for the most accurate reproduction.*
 
 # Privacy Policy - Lens of Truth
 
