@@ -1,834 +1,158 @@
-<!--The following is the downloaded HTML source of the ciena.com privacy policy that was archived on 2012-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120609062105id_/http%3A//www.ciena.com/corporate/corporate-responsibility/corp-governance/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ciena.com privacy policy that was archived on 2012-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121203160612id_/http%3A//www.ciena.com/about/company/corporate-responsibility/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="no-js"><!--[if lt IE 7 ]> <html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7 ie6"> <![endif]--><!--[if IE 7 ]>    <html lang="en" class="no-js lt-ie9 lt-ie8 ie7"> <![endif]--><!--[if IE 8 ]>    <html lang="en" class="no-js lt-ie9 ie8 > <![endif]--><!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]--><!--[if (gt IE 9)|!(IE)]><!--><!--<![endif]--><head>
-		<title>Ciena - Privacy policy - Company Information for Optical, Ethernet &amp; Network Automation</title>
-		<base href="http://www.ciena.com/">
-		<meta http-equiv="content-type" content="text/html;" charset="utf-8">
-		<meta name="robots" content="noarchive">
-    	    	<meta name="Description" content="As an expert in optical, ethernet and network automation Ciena will maximize the capabilities of your network and change the way you compete. Learn how we can help you now.">
-    	    	    	<meta name="Keywords" content="Company Information for Optical, Ethernet &amp; Network Automation">
-    	
-				
-				
-		<link rel="shortcut icon" href="http://media.ciena.com/designimages/favicon.ico">
-		<link rel="apple-touch-icon" href="http://media.ciena.com/designimages/ciena_app.png">
-
-		<!--[if IE]>			
-			<link href="http://www.ciena.com/includes/ie_only.css" rel="stylesheet" type="text/css" />
-		<![endif]-->
-				
-		<!--[if IE 7]>			
-			<link href="http://www.ciena.com/includes/ie7-only.css" rel="stylesheet" type="text/css" />
-		<![endif]-->
-		
-		<!--[if IE 6]>	
-			<link href="http://www.ciena.com/includes/ie6_only.css" rel="stylesheet" type="text/css" />
-		<![endif]-->
-		
-					<link href="http://www.ciena.com/includes/shadowbox.css" rel="stylesheet" type="text/css">
-					<link href="http://www.ciena.com/includes/styles.css" rel="stylesheet" type="text/css">
-				
-				
-				
-				
-				
-					<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript" src="http://www.ciena.com/includes/jquery.js"></script>
-					<script language="JavaScript" type="text/javascript" src="http://www.ciena.com/includes/cooQuery.js"></script>
-					<script language="JavaScript" type="text/javascript" src="http://www.ciena.com/includes/swfobject.js"></script>
-					<script language="JavaScript" type="text/javascript" src="http://www.ciena.com/includes/jquery.swfobject.1-1-1.min.js"></script>
-					<script language="JavaScript" type="text/javascript" src="http://www.ciena.com/includes/shadowbox.js"></script>
-					<script language="JavaScript" type="text/javascript" src="http://www.ciena.com/includes/common.js"></script>
-					<script language="JavaScript" type="text/javascript" src="http://www.ciena.com/includes/script.js"></script>
-					<script language="JavaScript" type="text/javascript" src="http://www.ciena.com/includes/wnin_video_popups.js"></script>
-					<script language="JavaScript" type="text/javascript" src="http://www.ciena.com/includes/cufon-yui.js"></script>
-				
-		<script language="javascript" type="text/javascript">
-			jQuery(function() {
-	jQuery('#search_con').submit(function() {
-		var s = s_gi('cienacom');
-		s.linkTrackVars = 'prop3,eVar3,events';
-		s.linkTrackEvents = 'event6';   
-		s.prop3 = jQuery('#w').val();
-		s.eVar3 = jQuery('#w').val();
-		s.events = 'event6';
-		s.tl(this,'o', jQuery('#w').val());
-	});
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	
-	jQuery('#w').keyup(function(e) {
-		var resultCount = 5;
-		
-		// handling up/down/escape requires results to be visible
-		// handling enter/tab requires that AND a result to be selected
-		if ((/27jQuery|38jQuery|40jQuery/.test(e.keyCode) && jQuery('#smart_search').is(':visible')) || (/^13jQuery|^9jQuery/.test(e.keyCode) && getCurrentResult())) {
-			if (e.preventDefault) {
-				e.preventDefault();
-			}
-			if (e.stopPropagation) {
-				e.stopPropagation();
-			}
-			
-			e.cancelBubble = true;
-			e.returnValue = false;
-		
-			switch(e.keyCode) {
-				case 38:	// up
-					prevResult();
-					break;
-		
-				case 40:	// down
-					nextResult();
-					break;
-					
-				case 13:	// return
-					goCurrentResult();
-					break;
-				
-				case 9:		// tab
-				case 27:	//	escape
-					jQuery('#smart_search').hide();
-					break;
-
-			}
-		} else if (jQuery('#w').val()) {
-			var values = getProperObject(jQuery('#search_con').serializeArray());
-			doSearch(values);
-		} else {
-			jQuery('#smart_search').hide();
-		}
-	});
-	
-	jQuery('#w').live("focus", function(e) {
-		if (jQuery(this).attr('value') == "search") {
-			jQuery(this).attr('value', '');
-		}
-		
-		return false;
-	});
-
-	jQuery('#w').live("blur", function (e) {
-		if (jQuery(this).attr('value') == undefined || jQuery(this).attr('value') == "") {
-			jQuery(this).attr('value', 'search');
-		}
-		
-		setTimeout(function () {
-			jQuery('#smart_search').hide();
-		}, 300);
-		
-		return false;
-	});
-	
-	jQuery('#smart_search').blur(function() {
-		jQuery(this).hide();
-		
-		return false;
-	});
-	
-	var data,
-	doSearch = function(v) {
-		if (data == undefined) {
-			jQuery.ajax({
-				type: "GET",
-				url: "/templates/smart_search.xml",
-				dataType: "xml",
-				success: function(xml) {
-					data = jQuery('item', jQuery(xml));
-					jQuery('#smart_search').html(generateResults(v));
-					jQuery('#smart_search').show().css({
-						'zIndex': 990
-					});
-				}
-			});
-		} else {
-			jQuery('#smart_search').html(generateResults(v));
-			jQuery('#smart_search').show().css({
-				'zIndex': 990
-			});
-		}
-	},
-	clearSearch = function () {
-		jQuery('#w').val('');
-		return false;
-	},
-	getCurrentResult = function () {
-		var current = '';
-		jQuery('#smart_search li').each(function() {
-			if (jQuery(this).hasClass('current')) {
-				current = jQuery(this).attr('id');
-			}
-		});
-
-		if (current)
-			return current;
-		else
-			return false;
-	},
-	goCurrentResult = function () {
-		var current = getCurrentResult();
-		if (current && jQuery('#'+current).find('a:first').attr('href')) {
-			location.href = jQuery('#'+current).find('a:first').attr('href');
-		}
-		return false;
-	},
-	nextResult = function () {
-		var current = getCurrentResult();
-		if (current) {
-			if (jQuery('#'+current).next().attr('id')) {
-				jQuery('#'+current).removeClass('current');
-				if (!jQuery('#'+current).next().hasClass('not_linked')) {
-					jQuery('#'+current).next().addClass('current');
-				} else {
-					jQuery('#'+current).next().next().addClass('current');
-				}
-			}
-		} else {
-			jQuery('#smart_search li:first').addClass('current');
-		}
-	},
-	prevResult = function () {
-		var current = getCurrentResult();
-		if (current) {
-			if (jQuery('#'+current).prev().attr('id')) {
-				jQuery('#'+current).removeClass('current');
-				if (!jQuery('#'+current).prev().hasClass('not_linked')) {
-					jQuery('#'+current).prev().addClass('current');
-				} else {
-					jQuery('#'+current).prev().prev().addClass('current');
-				}
-			}
-		} else {
-			jQuery('#smart_search li:first').addClass('current');
-		}
-	},
-	generateResults = function (v) {
-		var html = "";
-		var count = 1;
-		var curTitle = "";
-		var items = jQuery(data);
-		var len = jQuery(items).length;
-		var regex = new RegExp("^" + v.w, "i");
-		var q = "http://search.ciena.com/search?" + jQuery.param(v) + "&smart_search";
-		var hdr = '<div id="smart_search_top">Choose a smart search suggestion below:</div><ul>';
-		var ftr = '<li class="skip"><img src="http://media.ciena.com/designimages/smart_search_skip_arrow.gif" style="border: 0 none;text-decoration:none;" alt="" /> <a href="' + q + '">Skip to search results</a></li>';
-		ftr += '<li class="skip"><a href="#" onclick="clearSearch();">X Clear search</a></li>';
-		for (var i=0; i < len; i++) {
-			item = items[i];
-			term = jQuery.trim(jQuery('term', jQuery(data).eq(i)).text());
-			url = jQuery.trim(jQuery('url', jQuery(data).eq(i)).text());
-			title = jQuery.trim(jQuery('title', jQuery(data).eq(i)).text());
-			if (count > 6) {
-				break;
-			} else if (term.match(regex)) {
-				if (title != curTitle) {
-					curTitle = title;
-					if (url != "" && title != "") {
-						html += '<li id="result_' + count + '"><a href="' + url + ((url.indexOf("?") > -1) ? '&' : '?') + 'smart_search">' + title + '</a></li>';
-					}
-				}
-			}
-		}
-
-		if (html != "") {
-			html = hdr + html + ftr;
-		} else {
-			html = '<div id="smart_search_top">No shortcut found. <a href="' + q + '">Try a full search of ciena.com</a>.</div><ul>';
-			html += ftr;
-		}
-
-		return html;
-	},
-	getProperObject = function (a) {
-		var len = a.length;
-		var o;
-		var x = {};
-		for (var i=0; i < len; i++) {
-			o = a[i];
-			x[o.name] = o.value;
-		};
-		return x;
-	};
-	
-});
-
-		</script>
-
-		
-
-
-	
-	
-		
-		
-	<!-- Google Analytics Code -->
-	<script type="text/javascript">
-	
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-22254796-2']);
-		_gaq.push(['_setDomainName', 'ciena.com']);
-		_gaq.push(['_setAllowLinker', true]);
-		_gaq.push(['_setCampNameKey', 'ppc_id']);
-		_gaq.push(['_setCampSourceKey', 'src']);
-		_gaq.push(['_setCampMediumKey', 'campaign']);
-		_gaq.push(['_setCampTermKey', 'kw']);
-		_gaq.push(['_setCampContentKey', 'sd']);
-		_gaq.push(['_trackPageview']);
-
-		(function() {
-		  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-
-	</script>
-
-	</head>
-	
-		
-	<body class="content">	
-<script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
-<!-- 
-var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=900747724";_q+="&7=747724";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
-function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
-function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=900747724";_qc+="&7=747724";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
-</script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=900747724&7=747724&25=0&18=0.916458596398363">
-</noscript>
-     		<div id="container"> 	<div id="header">
-				<a id="ciena_logo" href="/" name="ciena_logo">
-															<img src="http://media.ciena.com/images/ciena_logo.jpg" border="0" alt="ciena: the network specialist">
-									</a>
-												<div class="top-promo-wrapper">
-					<div class="top-promo">
-						<a href="/corporate/news-events/innovation-lab">
-							<img src="http://media.ciena.com/images/innlab-promo-top2012.jpg">
-						</a>
-					</div>
-				</div>
-								<!-- Opening of Social Search-->
-				<div id="social_search">
-										<ul id="social_links">
-						<li>
-							<a href="https://twitter.com/ciena" target="_blank"><img src="http://media.ciena.com/images/social_twitter.png" title="Twitter" alt="Twitter" border="0"></a>
-						</li>
-						<li>
-							<a href="https://www.facebook.com/CienaCorp" target="_blank"><img src="http://media.ciena.com/images/social_facebook.png" title="Facebook" alt="Facebook" border="0"></a>
-						</li>
-						<li>
-							<a href="http://www.linkedin.com/groups?gid=925967" target="_blank"><img src="http://media.ciena.com/images/social_linkedin.png" title="LinkedIn" alt="LinkedIn" border="0"></a>
-						</li>
-						<li>
-							<a href="http://www.youtube.com/CienaCorp" target="_blank"><img src="http://media.ciena.com/images/social_youtube.png" title="YouTube" alt="YouTube" border="0"></a>
-						</li>
-						<li>
-							<a href="http://www.ciena.com/corporate/blog/" target="_blank"><img src="http://media.ciena.com/images/blog3.png" title="Blog" alt="Blog" border="0"></a>
-						</li>
-					</ul>
-										<div id="contact_link">
-						<a href="/corporate/contact-us">Contact us</a>
-					</div>
-					<form id="search_con" name="search_form" method="get" action="http://search.ciena.com/search">
-						<input id="w" name="w" type="text" autocomplete="off" value="search"> <input type="hidden" name="p" value="Q"> <input type="hidden" name="ts" value="custom"> <input id="referringPage" name="referringPage" type="hidden" value="">
-					</form>
-				</div>
-				<!-- Closing of Social Search-->
-				<div class="page_rule"></div>
-				
 
 
 
 			
-	<ul id="pri_navigation">
+																							
+	<title>Ciena - Privacy policy</title>
+	
 		
+	<base href="http://www.ciena.com/">
+
+
+		<meta name="description" content="Ciena specializes in high-performance network systems, software and professional services to transition today's networks for delivering more profitable IP-based services, leveraging carrier-class Ethernet, optical transport network (OTN), integrated control plane and service-layer management">
+		
+	<meta name="author" content="Ciena Corporation">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+
+	
+	<meta http-equiv="X-UA-Compatible" content="requiresActiveX=true">
+	
+	<link rel="icon" href="http://media.ciena.com/designimages/favicon.ico" type="image/png">
+	<link rel="apple-touch-icon" href="http://media.ciena.com/designimages/apple-touch-icon.png">
+	<link rel="stylesheet" href="http://www.ciena.com/templates/style.css">
+
+	
+			
+	<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MQSV"></script><script src="http://www.ciena.com/includes/modernizr-2.0.6.min.js"></script>
+
+	
+	
+	
+
+
+	<meta name="google-site-verification" content="qUd_jPm-DDQWgqG211UqeUdElDs9lbpeyM0GyX5dTL4">
+
+
+<meta name="msvalidate.01" content="905A471A7B15CE685D6969D6BDD0E0CA">
+
+
+</head>
+<body class="">
+
+	<!-- Google Tag Manager -->
+		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MQSV"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-MQSV');</script>
+	<!-- End Google Tag Manager -->
+	
+		
+			
+	<header class="min-width">
+	<div class="center">
+		<a href="/" id="logo" class="ir" name="top">Ciena: The Network Specialist</a>
+		<nav id="supplementary">
+
+			
 						
-																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																		
+			<ul>
 				<li>
-					<a href="/products">products &amp; services</a>
+					<a href="https://portal.ciena.com/portal/server.pt" class="login">Login</a>
+				</li>
+				<li>
+					<a href="/about/contact-us/" class="contact">Contact</a>
+				</li>
+				<li>
+					<a href="/worldwide/" class="worldwide">Worldwide</a>
+				</li>
+								<li>
+					<a href="/connect/social-media/" class="follow-us last">Follow Us</a>
+				</li>
+							</ul>
+		</nav>
+		<form id="search" name="search_form" method="get" action="http://search.ciena.com/search">
+			
+			<input id="w" name="w" type="text" autocomplete="off" value="">
+			<input type="hidden" name="p" value="Q">
+			<input type="hidden" name="ts" value="custom">
+			<input id="referringPage" name="referringPage" type="hidden" value="">
+			
+			<button class="ir">search</button>
+		</form>
+		<div id="smart_search"></div>
+		
+		<nav id="primary">
+						
+						
+																					
+																				<a href="/products/" class="first">Products</a>
+																				
+																				<a href="/industries/">Industries</a>
+																				
+																				<a href="/solutions/">Solutions</a>
+																				
+																				<a href="/partners/">Partners</a>
+																				
+																				<a href="/support/">Support</a>
+																																																																																																																																																																																		<!-- Needs a last class somehow -->
+		</nav>
+	</div>
+	<!-- Construct expanding spectrum bar. -->
+	<div id="spectrum-full"></div>
+	<div id="spectrum-left"></div>
+	<div id="spectrum-right"></div>
+	<!-- End expanding spectrum bar. -->
+</header>
+
+			<div id="main" class="center" role="main">
+		
+		<div id="content-header">
+						<h1>Privacy Policy</h1>
+			
+						
+						
+			
+			
+			
+			
+			
+									
+		</div>
+		<div id="content">
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+<div id="sub-page-content" class=" clearfix">
+	<div id="content-left" class="body-text">
+
+					<h3 class="hr-title">Privacy policy</h3>
 				
-											<div class="dropdown products">
-															<div class="dropdown_section">
-																			Product by category
-																		<ul>
-										<li>
-											<a href="/products">Product overview</a>
-										</li>
-	            								    								<li>
-																																						<a href="/products/carrier-ethernet">
-															    													    												Carrier Ethernet Solutions
-		    													    										</a>
-														    								</li>
-		    									    								<li>
-																																						<a href="/products/packet-optical-switching ">
-															    													    												Packet-Optical Switching
-		    													    										</a>
-														    								</li>
-		    									    								<li>
-																																						<a href="/products/packet-optical-transport">
-															    													    												Packet-Optical Transport
-		    													    										</a>
-														    								</li>
-		    									    								<li>
-																																						<a href="products/ciena-one">
-															    													    												Ciena One Software Suite
-		    													    										</a>
-														    								</li>
-		    									    								<li>
-																											        									<a href="http://www.ciena.com/products/category/services">
-															    													    												Ciena Specialist Services
-		    													    										</a>
-														    								</li>
-		    																</ul>
-								</div>
-															<div class="dropdown_section">
-																			Product by industry
-																		<ul>
-										<li>
-											<a href="/products">Product overview</a>
-										</li>
-	            								    								<li>
-																																						<a href="/products/telecom">
-															    													    												Telecom service provider
-		    													    										</a>
-														    								</li>
-		    									    								<li>
-																																						<a href="/products/enterprise ">
-															    													    												Enterprise
-		    													    										</a>
-														    								</li>
-		    									    								<li>
-																																						<a href="/products/government">
-															    													    												Government
-		    													    										</a>
-														    								</li>
-		    									    								<li>
-																																						<a href="/products/cable-mso">
-															    													    												Cable/MSO
-		    													    										</a>
-														    								</li>
-		    																</ul>
-								</div>
-														<div class="dropdown_section last">
-								View all products
-								<ul>
-									<li>
-										<a href="/products">Product overview</a>
-									</li>
-									<li>
-										<a href="/products/all">All products</a>
-									</li>
-						
-								</ul>
-							</div>
-						</div>
-														</li>
-				<li class="nav_divider">|</li>
-								
-					
-						
-							<li>
-	    			<a href="/industries">industries</a>
-
-																																																																																																																																																																																				
-	        			    				<div class="dropdown">
-	        				<ul>
-	        							    								        						<li>
-																						<a href="/industries">
-																					
-																							Industry overview
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/industries/telecom-service-provider">
-																					
-																							Telecom service provider 
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/industries/cable-mso">
-																					
-																							Cable/MSO
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/industries/government">
-																					
-																							Government
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/industries/enterprise">
-																					
-																							Enterprise
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/industries/financial-services">
-																					
-																							Financial services
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/industries/healthcare">
-																					
-																							Healthcare
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/industries/research-and-education">
-																					
-																							Research and education
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/industries/mobile-backhaul">
-																					
-																							Mobile backhaul
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/industries/submarine">
-																					
-																							Submarine
-																						</a>
-		            					</li>
-		    								    						        				</ul>
-	        					        			</div>
-	    				    		</li>
-	    			    			<li class="nav_divider">|
-	    			</li>
-	    										
-					
-						
-							<li>
-	    			<a href="/resources">resources</a>
-
-																																																																																																																																																																																																			
-	        			    				<div class="dropdown">
-	        				<ul>
-	        							    								        						<li>
-																						<a href="/resources">
-																					
-																							Resources overview
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/resources/videos">
-																					
-																							Videos
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/resources/whitepapers">
-																					
-																							White papers
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/resources/application-notes">
-																					
-																							Application notes
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/resources/webinars">
-																					
-																							Webinars
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/resources/case-studies">
-																					
-																							Case studies
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/resources/datasheets">
-																					
-																							Datasheets
-																						</a>
-		            					</li>
-		    								    						        				</ul>
-	        					        			</div>
-	    				    		</li>
-	    			    			<li class="nav_divider">|
-	    			</li>
-	    										
-					
-						
-							<li>
-	    			<a href="/partners">partners</a>
-
-																																																																																																										
-	        			    				<div class="dropdown">
-	        				<ul>
-	        							    								        						<li>
-																						<a href="/partners">
-																					
-																							Partners overview 
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/partners/program">
-																					
-																							BizConnect partner program
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/partners/solution-briefs">
-																					
-																							Partner solution briefs
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/partners/bizpartners">
-																					
-																							BizConnect partners
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-																						<a href="https://portal.ciena.com/portal/server.pt">
-																					
-																							Partner portal
-																						</a>
-		            					</li>
-		    								    						        				</ul>
-	        					        			</div>
-	    				    		</li>
-	    			    			<li class="nav_divider">|
-	    			</li>
-	    										
-					
-						
-							<li>
-	    			<a href="/support">learning &amp; support</a>
-
-																																																																																																																
-	        			    				<div class="dropdown">
-	        				<ul>
-	        							    								        						<li>
-																						<a href="/support">
-																					
-																							Learning and support overview 
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/support/customer-service-center">
-																					
-																							Customer service center 
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/support/technology-certifications">
-																					
-																							Technology certifications
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/support/product-training">
-																					
-																							Product training
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/support/product-documentation">
-																					
-																							Product documentation
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/support/support-contacts">
-																					
-																							Support contacts
-																						</a>
-		            					</li>
-		    								    						        				</ul>
-	        					        			</div>
-	    				    		</li>
-	    			    			<li class="nav_divider">|
-	    			</li>
-	    										
-					
-						
-							<li>
-	    			<a href="http://investor.ciena.com/">investors</a>
-
-																																																																																																																																																																																																					
-	        			    				<div class="dropdown">
-	        				<ul>
-	        							    								        						<li>
-																						<a href="http://investor.ciena.com/">
-																					
-																							Investor overview
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-																						<a href="http://investor.ciena.com/results.cfm">
-																					
-																							Historical financials
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-																						<a href="http://investor.ciena.com/faq.cfm">
-																					
-																							FAQs
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-																						<a href="http://investor.ciena.com/events.cfm">
-																					
-																							Events
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-																						<a href="http://investor.ciena.com/sec.cfm">
-																					
-																							SEC filings
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-																						<a href="http://investor.ciena.com/annual-proxy.cfm">
-																					
-																							Annual reports and shareholder meetings
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-																						<a href="http://investor.ciena.com/fiscal-calendar.cfm">
-																					
-																							Fiscal calendar
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-																						<a href="http://investor.ciena.com/analysts.cfm">
-																					
-																							Analyst coverage
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-																						<a href="http://investor.ciena.com/transfer.cfm">
-																					
-																							Stock split history
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-																						<a href="http://investor.ciena.com/contactus.cfm">
-																					
-																							Request information
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-																						<a href="http://investor.ciena.com/InvestorKit.cfm">
-																					
-																							Electronic investor relations kit
-																						</a>
-		            					</li>
-		    								    						        				</ul>
-	        					        			</div>
-	    				    		</li>
-	    			    			<li class="nav_divider">|
-	    			</li>
-	    										
-					
-						
-							<li>
-	    			<a href="/corporate/careers">careers</a>
-
-																																											
-	        			    		</li>
-	    			    			<li class="nav_divider">|
-	    			</li>
-	    										
-					
-						
-							<li>
-	    			<a href="/corporate">company info</a>
-
-																																																																																																																																																																																			
-	        			    				<div class="dropdown">
-	        				<ul>
-	        							    								        						<li>
-																						<a href="/corporate">
-																					
-																							Company information overview 
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/corporate/news-events">
-																					
-																							News and events
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/corporate/corporate-responsibility">
-																					
-																							Corporate responsibility
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/corporate/careers">
-																					
-																							Careers
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-																						<a href="http://investor.ciena.com/">
-																					
-																							Investor overview
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/corporate/industry-analysts">
-																					
-																							Industry analyst relations
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/corporate/blog">
-																					
-																							Ciena Insights blog
-																						</a>
-		            					</li>
-		    								    							    								        						<li>
-													            						<a href="/corporate/contact-us">
-																					
-																							Contact us
-																						</a>
-		            					</li>
-		    								    						        				</ul>
-	        					        			</div>
-	    				    		</li>
-	    										
-									<li id="worldwide"><a href="#">ciena worldwide</a>
-			<div class="dropdown">
-				<ul>
-					<li id="top"><a href="http://www.cienaargentina.com.ar/">Argentina | Español</a></li>
-					<li><a href="http://www.ciena.com.br/">Brazil | Português</a></li>
-					<li><a href="http://www.ciena.ca">Canada | Français</a></li>
-					<li><a href="http://www.ciena.fr/">France | Français</a></li>
-					<li><a href="http://www.ciena.de">Germany | Deutsch</a></li>
-					<li><a href="http://www.ciena.com/country/in/">India | English</a></li>
-					<li><a href="http://www.ciena.it/">Italy | Italiano</a></li>
-					<li><a href="http://www.cienacorp.jp">Japan | 日本語</a></li>
-					<li><a href="http://www.ciena.co.kr">Korea | 한국어</a></li>
-					<li><a href="http://www.ciena.com.mx">Mexico | Español</a></li>
-					<li><a href="http://www.ciena.com/country/mee/">Middle East | English</a></li>
-					<li><a href="http://www.ciena.ae">Middle East | العربية</a></li>
-					<li><a href="http://www.ciena.com">North America | English</a></li>
-					<li><a href="http://www.ciena.pl/">Poland | Polski</a></li>
-					<li><a href="http://www.ciena.ru/">Russia | Русский</a></li>
-					<li><a href="http://www.ciena.es/">Spain | Español</a></li>
-				</ul>
-			</div>
-		</li>
-			</ul>
-				<div id="smart_search"></div>
-</div>
-    		<div id="page_body">
-    		<div id="main_col">    
-    		
-<!-- For getting the main content of General Page -->
-<div id="content">
-		<div class="bodycopy">
-						<h2>Privacy policy</h2>
-<p>This Privacy Policy applies to the Ciena Corporation website located at <a href="http://www.ciena.com">www.ciena.com</a>, and governs its data collection, usage and services. This Privacy Policy discloses how we collect, protect, use and share information gathered on our website.</p>
+		<p>This Privacy Policy applies to the Ciena Corporation website located at <a href="http://www.ciena.com">www.ciena.com</a>, and governs its data collection, usage and services. This Privacy Policy discloses how we collect, protect, use and share information gathered on our website.</p>
 <h3>Non-Personal and Aggregated Information Collected Automatically</h3>
 <p>When you visit our website, we log general data, such as your domain name, the name of the Web page from which you entered our website, which pages you visit on our website, and how much time you spend on each page. We use this information to monitor use of and improve our website as well as for internal analysis. In particular, we use IP addresses to analyze trends, administer the website, and gather information for aggregate use (IP addresses are not linked to personally identifiable information.).</p>
 <h3>Use of Cookies</h3>
@@ -842,350 +166,380 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 <h3>Changes to this Privacy Policy</h3>
 <p>We will occasionally amend this Privacy Policy to reflect company and customer feedback. The effective date of the most recent Privacy Policy is noted at the bottom of this Privacy Policy. We encourage you to periodically review this policy to be informed of how we are committed to protecting your information and providing you with improved content on our website. If we make any material changes in the way we collect, use, and/or share the personal information that you have voluntarily provided, we will notify you by posting notice of the changes at this Privacy Policy. By using the ciena.com site, you signify your agreement with the terms of this Privacy Policy.</p>
 <h3>Questions about our privacy policy and contacting Ciena</h3>
-<p>If you have any questions about this Privacy Policy, please contact us by email at <a href="mailto:privacypolicy@ciena.com">privacypolicy@ciena.com</a>: or by writing to Ciena at:<br>Ciena Corporation<br>ATTN: Director of Web Marketing<br>1201 Winterson Road<br>Linthicum, MD 21090</p>
+<p>If you have any questions about this Privacy Policy, please contact us by email at <a href="mailto:privacypolicy@ciena.com">privacypolicy@ciena.com</a>: or by writing to Ciena at:<br>
+Ciena Corporation<br>
+ATTN: Director of Web Marketing<br>
+1201 Winterson Road<br>
+Linthicum, MD 21090</p>
 <p>If you wish to update your information, discontinue or to unsubscribe from any newsletter or other materials, please contact us by email at <a href="mailto:privacypolicy@ciena.com">privacypolicy@ciena.com</a> or at the contact information above</p>
 <p>Effective Date April 11, 2005</p>
-<p>&nbsp;</p>
-		</div>
-</div>
-<!--close content-->
-
-
-
-
-
-
-
-    
-    		    		
-<div id="promos">
-					<div class="promo_contact">
-<h3>Contact us</h3>
-<p>Use our convenient email form to communicate directly with Ciena</p>
-<a href="contact-sales/">Send Email</a></div>
-							<div class="promo_top">&nbsp;</div>
-<div class="promo social">
-	<a class="title" href="corporate/news-events/" style="color: #DA1415;">Share this</a>
-	<p style="font-size: 12px; margin: 2px 0 8px;">Like what you see?<br> Share with your colleagues.</p>
-	<div class="social-media-share-top">
-		<!-- linkedin -->
-		<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
-		<script type="IN/Share" data-counter="right"></script>
-	</div>
-	<div class="social-media-share">
-		<!-- twitter --> 
-		<a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a>
-		<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-	</div>
-	<div class="social-media-share">
-		<!-- facebook -->
-		<div id="fb-root"></div>
-		<script>(function(d, s, id) {
-			var js, fjs = d.getElementsByTagName(s)[0];
-			if (d.getElementById(id)) {return;}
-			js = d.createElement(s); js.id = id;
-			js.src = "http://connect.facebook.net/en_US/all.js#xfbml=1";
-			fjs.parentNode.insertBefore(js, fjs);
-			}(document, 'script', 'facebook-jssdk'));
-		</script>
-		<div class="fb-like" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="arial"></div>
-	</div>
-	<div class="social-media-share last">
-		<!-- Place this tag where you want the +1 button to render -->
-		<g:plusone size="medium"></g:plusone>
 		
-		<!--  Place this tag after the last plusone tag -->
-		<script type="text/javascript">
-			(function() {
-				var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-				po.src = 'https://apis.google.com/js/plusone.js';
-				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-			})();
-		</script>
-	</div>
-</div>
-<div class="promo_bottom">&nbsp;</div>
-				
-			
-
-
-</div>
-    
-    		</div>    
-    		<!--Opening of Left Navigation -->
-    		
-
-
-
-	            		            		            		            		        	
-																						
-<div id="left_col">
-    <ul id="leftnav">
-																	
-				
-								<li>
-					<a href="/corporate" class="hit">												
-																												
-						Company information overview 					
 						
-					</a>
-				</li>
-							
-																	
-				
-								<li>
-					<a href="/corporate/news-events" class="hit">												
-																												
-						News and events					
-						
-					</a>
-				</li>
-							
-																	
-				
-								<li class="expanded">
-					<a class="expanded" href="/corporate/corporate-responsibility">						
-																												
-						Corporate responsibility	
-					</a>
-					<ul>
-																																																																																																																							
-																	    							        						<li>
-	        							<a class="current" href="/corporate/corporate-responsibility/corp-governance">
-																																								
-											Corporate governance and ethics
-	    								</a>
-	        						</li>
-										    																								</ul>
-				</li>
-							
-																	
-				
-								<li>
-					<a href="/corporate/careers" class="hit">												
-																														
-						Careers					
-						
-					</a>
-				</li>
-							
-																	
-				
-								<li>
-					<a href="http://investor.ciena.com/" class="hit">												
-																												
-						Investor overview					
-						
-					</a>
-				</li>
-							
-																	
-				
-								<li>
-					<a href="/corporate/industry-analysts" class="hit">												
-																										
-						Industry analyst relations					
-						
-					</a>
-				</li>
-							
-																	
-				
-								<li>
-					<a href="/corporate/bios" class="hit">												
-																										
-						Biographies					
-						
-					</a>
-				</li>
-							
-																	
-				
-								<li>
-					<a href="/corporate/acquisitions" class="hit">												
-																												
-						Acquisition history					
-						
-					</a>
-				</li>
-							
-																	
-				
-								<li>
-					<a href="/corporate/memberships" class="hit">												
-																										
-						Memberships and afilliations					
-						
-					</a>
-				</li>
-							
-																	
-				
-								<li>
-					<a href="/corporate/blog" class="hit">												
-																												
-						Ciena Insights blog					
-						
-					</a>
-				</li>
-							
-																	
-				
-								<li>
-					<a href="/corporate/contact-us" class="hit">												
-																										
-						Contact us					
-						
-					</a>
-				</li>
-							
-		       </ul>
-
-	   	   
-		
-
-
-	   	   
-	   		   
-	   	   	
-		</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    			<br class="clear">
-	<div id="footer">
-		<a href="/products/carrier-ethernet">Carrier Ethernet Solutions</a> | 
-		<a href="/products/packet-optical-switching/">Packet-Optical Switching</a> | 
-		<a href="/products/packet-optical-transport">Packet-Optical Transport</a> |
-		<a href="/products/ciena-one">Ciena One Software Suite</a> | 
-		<a href="/products/services">Ciena Specialist Services</a> | 
-		<a href="/resources">Resources</a> | 
-		<a href="https://shopciena.com/">Ciena Gift Store</a> | 
-		<a href="/corporate/contact-us">Contact Ciena</a> | 
-		<a href="/subscribe">Subscribe</a> | 
-		<a href="http://search.ciena.com/">Popular Searches</a> | 
-						<a href="/feedback?pagename=Privacy policy&amp;pageurl=http://www.ciena.com/corporate/corporate-responsibility/corp-governance/privacy-policy/"><strong>[Feedback]</strong></a><br>
-		Copyright © 2012 Ciena Corporation. All rights reserved. <a href="/corporate/corporate-responsibility/corp-governance/legal-notices/">Legal notices</a> | 
-		<a href="/corporate/corporate-responsibility/corp-governance/privacy-policy/">Privacy policy</a> | 
-		<a href="/?view=mobile"><strong>Mobile site</strong></a>
 			</div>
-	
-								
+
+
+
+	<div id="content-right">
+						
+
+
 
 
 	
+
+
+
+	
+			</div>
+</div>
+
+
+
+
+
+		<footer class="center">
+
+			
+			<div id="footer-nav" class="clearfix">
+
+			
+										<ul>
 				
-	
-	
-		
+										
+										
+											<li class="title"><a href="/about/">About Ciena</a></li>
+									
+					
+										
+											<li class=""><a href="/about/company/">Our company</a></li>
+									
+					
+										
+											<li class=""><a href="/about/company/leadership/">Leadership team</a></li>
+									
+					
+										
+											<li class=""><a href="/about/newsroom/">Newsroom</a></li>
+									
+					
+										
+											<li class=""><a href="/about/awards/">Awards</a></li>
+									
+					
+										
+											<li class=""><a href="http://investor.ciena.com/">Investors</a></li>
+									
+					
+										
+											<li class=""><a href="/about/company/corporate-responsibility/">Corporate responsibility</a></li>
+									
+					
+										
+											<li class=""><a href="/about/careers/">Careers</a></li>
+									
+					
+										
+											<li class=""><a href="/about/contact-us/">Contact us</a></li>
+													</ul>
+													<ul>
+				
+										
+										
+											<li class="title"><a href="/resources/">Resources</a></li>
+									
+					
+										
+											<li class=""><a href="/resources/videos/">Videos</a></li>
+									
+					
+										
+											<li class=""><a href="/resources/white-papers/">White papers</a></li>
+									
+					
+										
+											<li class=""><a href="/resources/application-notes/">Application notes</a></li>
+									
+					
+										
+											<li class=""><a href="/resources/case-studies/">Case studies</a></li>
+									
+					
+										
+											<li class=""><a href="/resources/data-sheets/">Data sheets</a></li>
+									
+					
+										
+											<li class=""><a href="/resources/posters/">Posters and Infographics</a></li>
+									
+					
+										
+											<li class=""><a href="/resources/acronym-guide/">Acronym guide</a></li>
+									
+					
+										
+											<li class=""><a href="/resources/telecom-glossary/">Telecom glossary</a></li>
+													</ul>
+													<ul>
+				
+										
+										
+											<li class="title"><a href="/technology/">Technology</a></li>
+									
+					
+										
+											<li class=""><a href="/technology/">Ciena OP<sup>n</sup></a></li>
+									
+					
+										
+											<li class=""><a href="/solutions/cloud/">Cloud networking</a></li>
+									
+					
+										
+											<li class=""><a href="/technology/wavelogic3/">WaveLogic 3</a></li>
+									
+					
+										
+											<li class=""><a href="/technology/wavelogic3/coherent-optical-technology/">Coherent optical</a></li>
+									
+					
+										
+											<li class=""><a href="/technology/wavelogic3/40G-100G/">40/100G</a></li>
+									
+					
+										
+											<li class=""><a href="/technology/control-plane/">OneConnect</a></li>
+													</ul>
+													<ul class="last">
+				
+										
+															
+											<li class="title"><a href="/connect/">Connect</a></li>
+									
+					
+															
+											<li class=""><a href="/connect/events/">Events</a></li>
+									
+					
+															
+											<li class=""><a href="/connect/innovation-lab/">Innovation Lab</a></li>
+									
+					
+															
+											<li class=""><a href="/connect/webinars/">Webinars</a></li>
+									
+					
+															
+											<li class=""><a href="/connect/blog/">Ciena Insights Blog</a></li>
+									
+					
+															
+											<li class=""><a href="/connect/learning/">Learning Solutions</a></li>
+									
+					
+															
+											<li class=""><a href="/connect/social-media/">Social media</a></li>
+									
+					
+															
+											<li class=""><a href="https://shopciena.com/">ShopCiena</a></li>
+													</ul>
+						</div>
+			<div class="additional-links">
+				© 2012 Ciena Corporation. All rights reserved.&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.ciena.com/about/company/corporate-responsibility/legal-notices/">Legal notices</a> | <a href="http://www.ciena.com/about/company/corporate-responsibility/privacy-policy/">Privacy policy</a> | <a href="http://search.ciena.com/">Popular searches</a>&nbsp;&nbsp;&nbsp;&nbsp; <a class="highlight" href="http://m.ciena.com/">Mobile site</a>
+			</div>
+			
+		</footer>
+	</div>
+	</div>
+
+<section id="share-contact" class="sc-boxes">
+	<div id="contact-specialist" class="sc-container sc-contact">
+		<div class="sc-container-content">
+			<h1>Contact a Specialist</h1>
+			<div class="sc-container-content-block">
+				<h2>by web</h2>
+				<p><a href="/contact-sales/">contact us</a></p>
+			</div>
+			<div class="sc-container-content-block last">
+				<h2>call</h2>
+				<p><a href="tel:18002073714">1.800.207.3714</a></p>
+			</div>
+		</div>
+		<div class="sc-toggle">
+			<span class="sc-toggle-text">collapse</span>
+			<span class="sc-toggle-arrow png_bg"></span>
+		</div>
+	</div>
+
+	<div id="share-page" class="sc-container sc-share">
+		<div class="sc-container-content">
+			<h1>Share</h1>
+			<div class="sc-container-content-block">
+				<div class="sc-button">
+					<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+					<script type="IN/Share" data-counter="right"></script>
+				</div>
+				<div class="sc-button">
+					<a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+				<div class="sc-button">
+					<iframe src="//www.facebook.com/plugins/like.php?href=%2Fabout%2Fcompany%2Fcorporate-responsibility%2Fprivacy-policy&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowtransparency="true"></iframe>
+				</div>
+				<div class="sc-button">
+					<div class="g-plusone" data-size="small"></div>
+					<script type="text/javascript">
+					  (function() {
+					    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+					    po.src = 'https://apis.google.com/js/plusone.js';
+					    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+					  })();
+					</script>
+				</div>
+			</div>
+		</div>
+		<div class="sc-toggle">
+			<span class="sc-toggle-text">collapse</span>
+			<span class="sc-toggle-arrow png_bg"></span>
+		</div>
+	</div>
+</section>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://www.ciena.com/includes/jquery-1.7.1.min.js"><\/script>')</script><script src="http://www.ciena.com/includes/jquery-1.7.1.min.js"></script>
 
 
 
-<!-- Segment Tag - DO NOT REMOVE -->
+<!-- scripts concatenated and minified via ant build script-->
+<script>
 
-<img src="http://ad.bizo.com/pixel?id=1156099&amp;t=2" width="1" height="1">
+// Pass through Velocity variables to JavaScript
+var siteSearchValue = "";
 
-<!-- End of segment tag -->							
+// Find Visitor Level
+var visitorLevel = "0";
 
-<!--
-Start of DoubleClick Spotlight Tag: Please do not remove
-Activity name of this tag: Landing Page
--->
+</script>
+
+<!-- Start of DoubleClick Spotlight Tag: Please do not remove Activity name of this tag: Landing Page -->
 <script type="text/javascript">
 var axel = Math.random() + "";
 var a = axel * 10000000000000;
 document.write('<img src="http://ad.doubleclick.net/activity;src=2661826;type=2011q438;cat=landi451;ord=1;num=' + a + '?" width="1" height="1" alt=""/>');
-</script><img src="http://ad.doubleclick.net/activity;src=2661826;type=2011q438;cat=landi451;ord=1;num=1768438972966.5818?" width="1" height="1" alt="">
+</script><img src="http://ad.doubleclick.net/activity;src=2661826;type=2011q438;cat=landi451;ord=1;num=7899502382770.398?" width="1" height="1" alt="">
 <noscript>
 <img src="http://ad.doubleclick.net/activity;src=2661826;type=2011q438;cat=landi451;ord=1;num=1?" width="1" height="1" alt="">
 </noscript>
-<!-- End of DoubleClick Spotlight Tag: Please do not remove --> 
+<!-- End of DoubleClick Spotlight Tag: Please do not remove -->
+
+<!-- Marketo tracking code -->
+<script src="http://munchkin.marketo.net/munchkin.js" type="text/javascript"></script> <script>mktoMunchkin("847-FEI-694");</script>
+
+<img src="http://ad.bizo.com/pixel?id=1156099&amp;t=2" width="1" height="1">
+
+
+
+						
+				    		    	        	        	    		    	        	    		    	        	    		    	        	    		
+		
+					
+					
+
+
+<!-- Segment Tag - DO NOT REMOVE -->
+
+
+		
+	
+<!-- End of segment tag -->
 
 <div id="omniture">
-	<!-- SiteCatalyst code version: H.1. Copyright 1997-2005 Omniture, Inc. More info available at http://www.omniture.com -->
-			<script language="javascript" type="text/javascript" src="/templates/s_code.js"></script>
-		<script language="javascript" type="text/javascript">
-	<!--
+	<!-- SiteCatalyst code version: H.25.
+	Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+	More info available at http://www.omniture.com -->
+	<script language="JavaScript" type="text/javascript" src="http://www.ciena.com/templates/s_code.js"></script>
+	<script language="JavaScript" type="text/javascript"><!--
 	/* You may give each page an identifying name, server, and channel on
 	the next lines. */
-
-	s.pageName="Corporate : Company Info: Privacy policy : [ 111080664 ]"
-	s.pageType=""
+	s.pageName="About Ciena : Privacy policy : [ 163904996 ]"
 	s.server=""
+	s.channel="About Ciena"
+	s.pageType=""
 	s.prop1="ENG"
 	s.prop2=""
 	s.prop3=""
 	s.prop4=""
 	s.prop5=""
 	s.prop11="D=g";
-	s.channel="Corporate"
-	/* E-commerce Variables */
+	/* Conversion Variables */
 	s.campaign=""
 	s.state=""
 	s.zip=""
 	s.events=""
 	s.products=""
 	s.purchaseID=""
+	s.eVar1=""
 	s.eVar2=""
 	s.eVar3=""
 	s.eVar4=""
 	s.eVar5=""
-	s.eVar6="";
-	s.eVar7="";
-	s.eVar8="";
-	s.eVar10="";
-	s.eVar19=s.pageName;
-	s.eVar20="";
-
-	//-->
-	<!--
+	s.eVar6=""
+	s.eVar8=""
+	s.eVar19=s.pageName
+	s.eVar20=""
+	s.eVar38=""
+	s.eVar39=""
 	/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-	var s_code=s.t();if(s_code)document.write(s_code)//-->
-	</script>
-	<script language="JavaScript" type="text/javascript">
-	<!--
+	var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+	<script language="JavaScript" type="text/javascript"><!--
 	if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-	//-->
-	</script>
-	<noscript>
-		<img src="http://ciena.122.2o7.net/b/ss/cienacom/1/H.22.1--NS/0" height="1" width="1" border="0" alt=""/>
-	</noscript>
-	<!--/DO NOT REMOVE/-->
-	<!-- End SiteCatalyst code version: H.22.1. -->
+	//--></script><noscript><img src="http://ciena.122.2o7.net/b/ss/${s_account}/1/H.25--NS/0"
+	height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+	<!-- End SiteCatalyst code version: H.25. -->
+
 </div>
 
-<!-- Marketo tracking code -->
-<script src="http://munchkin.marketo.net/munchkin.js" type="text/javascript"></script> <script>mktoMunchkin("847-FEI-694");</script>
-		
-		
 
-
-    
-    		
-
-
-
+<script src="http://www.ciena.com/includes/ciena-smart-search.js"></script>
+<script src="http://www.ciena.com/includes/ciena-legacy.js"></script>
+<script src="http://www.ciena.com/includes/swfobject-2.2.js"></script>
+<script src="http://www.ciena.com/includes/ciena-plugins.js"></script>
+<script src="http://www.ciena.com/includes/ciena-wma-toolbar.js"></script>
+<script src="http://www.ciena.com/includes/json2.js"></script>
+<script src="http://www.ciena.com/includes/angular.js"></script>
 
 
 
-</div></div></body></html>
+<script src="http://www.ciena.com/includes/ciena-script.js"></script>
+
+<script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
+<!-- 
+var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=901233616";_q+="&7=1233616";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
+function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
+function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=901233616";_qc+="&7=1233616";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
+</script><noscript>
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=901233616&7=1233616&25=0&18=0.30186394244000225">
+</noscript>
+
+
+
+<!-- end scripts-->
+
+<!--[if IE 6 ]>
+	<script src="http://www.ciena.com/includes/dd_belatedpng.js"></script>
+	<script> DD_belatedPNG.fix('.png_bg'); </script>
+  <![endif]-->
+
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+
+
+
+</body></html>
