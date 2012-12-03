@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learnvest.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123151118id_/http%3A//www.learnvest.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnvest.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203160650id_/http%3A//www.learnvest.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | LearnVest - Where life gets richer
+# Privacy Policy | LearnVest
 
 #### Your Privacy Rights
 
@@ -15,7 +15,7 @@ LearnVest has been awarded TRUSTe’s Privacy Seal signifying that this privacy 
 We may collect personal information that can identify you such as your name and email address and other information that does not identify you. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world.
 
   * Information you provide. We may collect and store any personal information you enter on our website or provide to us in some other manner. This includes identifying information, such as your name, address, e-mail address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender and age, your financial life and other demographic information, as well as public information such as user ratings, reviews and comments, and other information you view or contribute to the website.
-  * If you choose to use LearnVest’s My Money Center we will request user names and passwords in order to access information as it relates to your bank account, credit cards, investment account or loans. LearnVest does not store your usernames or passwords for financial institutions on its servers.
+  * If you choose to use LearnVest’s My Money Center (on the web or via the mobile app), we will request user names and passwords in order to access information as it relates to your bank account, credit cards, investment account or loans. LearnVest does not store your usernames or passwords for financial institutions on its servers.
   * Information from other sources. We may also periodically obtain both personal and non-personal information about you from other business partners, contractors and other third parties. Examples of information that we may receive include: updated delivery and address information, purchase history, and additional demographic information.
 
 
@@ -82,7 +82,7 @@ We will share your personal information with third parties only in the ways that
 
 Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
 
-#### Third-party websites
+#### Third-Party websites
 
 There are a number of places on our website where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement or a search result on our website, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the “privacy” link typically located at the bottom of the webpage you are visiting.
 
@@ -95,7 +95,7 @@ After you close your account, you will not be able to sign in to our website or 
 #### Your choices about collection and use of your information
 
   * You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our website because such information may be required in order for you to register as a member; participate in a contest, promotion, survey, or sweepstakes; ask a question; rate, review or comment on articles and merchants, or initiate other transactions on our website.
-  * You will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that changing information in your account, or otherwise opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party (such as an event provider) before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.
+  * • You will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that changing information in your account, or otherwise opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party (such as an event provider) before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.
 
 
 
@@ -107,13 +107,9 @@ If you choose to use our referral service to tell a friend about our site, we wi
 
 Your friend may contact us at [feedback@learnvest.com](mailto:feedback@learnvest.com) to request that we remove this information from our database.
 
-#### Testimonials
-
-With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us at [feedback@learnvest.com](mailto:feedback@learnvest.com).
-
 #### How we protect your personal information
 
-We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information. We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email, such as bank account numbers, social security numbers, etc.. Please refer to the Federal Trade Commission’s website at <http://www.ftc.gov/bcp/menus/consumer/data.shtm> for information about how to protect yourself against identity theft.
+We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your sensitive personal information between your system and ours, and we use anti-virus software and firewalls to help prevent unauthorized persons from gaining access to your personal information. We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email, such as bank account numbers, social security numbers, etc.
 
 #### Blogs, bulletin boards, reviews and chat rooms
 
@@ -138,7 +134,7 @@ If you have any questions about this Privacy Policy or our information-handling 
  **Privacy Officer**  
 [legal@learnvest.com](mailto:legal@learnvest.com)  
 LearnVest  
-740 Broadway, 10th floor  
+113 University Place , 5th floor  
 New York, NY 10003
 
 #### Linked information
@@ -151,4 +147,4 @@ A cookie is a small text file that is stored on a user’s computer for record k
 
 Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user’s computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence. Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
 
- _Last Updated: September 22, 2011_
+ _Last Updated: August 23, 2012_
