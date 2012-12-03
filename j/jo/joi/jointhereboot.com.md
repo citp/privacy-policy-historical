@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jointhereboot.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616183012id_/http%3A//www.jointhereboot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jointhereboot.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203081355id_/http%3A//www.jointhereboot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | JOINTHEREBOOT
+# Privacy Policy | Reboot Your Life
 
 This Privacy Policy explains what Reboot Holdings Pty Ltd and its affiliated entities (collectively, “Reboot”, “we” or “us”) do with the personal information that is collected from the users of our website currently located at http://www.jointhereboot.com (our “Site”) and via the services we provide in connection with our Site. Reboot may change its policy from time to time, so it is suggested that you check the Site from time to time to ensure that you know about our current policy. If you have any questions or concerns regarding this policy, you should contact us via our Contact Page.
 
