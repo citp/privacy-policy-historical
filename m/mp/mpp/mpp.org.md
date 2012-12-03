@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpp.org privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624235909id_/http%3A//www.mpp.org/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpp.org privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203050631id_/http%3A//www.mpp.org/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ If you would like your personal information updated or modified, you can contact
 
 ### Our organizational commitment to privacy
 
-MPP does not knowingly solicit personal information from children or send them requests for personal information.B
+MPP does not knowingly solicit personal information from children or send them requests for personal information.
 
 MPP's Web site contains limited links to other sites. MPP does not share your personal information with those sites, nor is MPP responsible for their privacy practices. We encourage you to learn about the privacy policies of those organizations.
 
