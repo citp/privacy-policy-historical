@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marthastewart.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628071819id_/http%3A//www.marthastewart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marthastewart.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203050604id_/http%3A//www.marthastewart.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Martha Stewart
 
 **Security and Privacy Policy**
 
@@ -8,7 +8,7 @@ Last Updated  **SEPTEMBER 16, 2011**
 
 Martha Stewart Living Omnimedia, Inc. ("MSO," "us," "our," or "we") strives to offer the visitors to all of our websites, including but not limited to [http://www.marthastewart.com](http://www.marthastewart.com/), [http://www.marthastewartweddings.com](http://www.marthastewartweddings.com/), [http://www.bodyandsoulmag.com](http://www.bodyandsoulmag.com/),[http://marthastewartcrafts.com](http://marthastewartcrafts.com/), [http://www.drweilselfhealing.com](http://www.drweilselfhealing.com/), [http://www.wholeliving.com](http://www.wholeliving.com/), [http://mslo.cierant.com](http://mslo.cierant.com/), and all subdomains of such websites (including [http://tools.marthastewart.com](http://tools.marthastewart.com/) and [http://blogs1.marthastewart.com](http://blogs1.marthastewart.com/)), as well as all services related to such websites (such websites and services, collectively, the "Site") the many advantages of Internet technology and to provide an interactive and personalized experience. In order to do this, we may, at times, use "Personally Identifiable Information" (any information that can be used to identify a specific individual, such as a name, postal address, telephone number or email address) subject to the terms of this statement ("Policy"). Please note that this Policy applies only to information collected by MSO online and does not impact information collected or used by MSO, its subsidiaries, or its affiliates through other means. By using this Site, you signify your acceptance of this Policy.
 
- **What types of Personally Identifiable Information does MSO collect on the Site?**
+**What types of Personally Identifiable Information does MSO collect on the Site?**
 
 How we collect and store information depends on the page you are visiting, the activities in which you elect to participate, the services provided and the manner in which you register to become member of the Site ("Member"). You may choose to become a Member in order to participate in certain activities on the Site and enjoy special benefits offered only to Members, To become a Member, you are required to sign in by providing your name, and email address. You will also be asked to create password. Alternatively, you may become a Member using one of your existing social media accounts such as Facebook or Twitter. If you become a Member using an existing social media account, that social media provider may provide MSO with access to, and MSO may use as set forth herein, the Personally Identifiable Information on file with that social media provider and associated with that account.
 
@@ -18,7 +18,7 @@ Visitors who wish to purchase products from the Site will also be asked to provi
 
 Members who choose to participate in the "Community" or "Share" section of the Site will have the opportunity to share ideas and thoughts about various topics with other Members, and create a user profile. Community/Share may include elements such as a User Profile, Save Option, Comment Service, Rating Service, Personalized URLs, Bulletin Board service (such as message boards on the Site), Q&A Hours, and other interactive services we may offer from time to time. Use of Community/Share is governed by the Site's [Terms of Use](http://www.marthastewart.com/portal/site/mslo/menuitem.017db2225a7627b8510467a2b5900aa0/?vgnextoid=467c2be6acb40110VgnVCM1000003d370a0aRCRD&rsc=footer&redirected=true). Community/Share is accessible by all Members, and users of this service should be mindful that any information posted to Community/Share will become public information and will be available to other participating Members and visitors to the Site. Accordingly, if you choose to participate in Community/Share, and post information to this section of the Site, please use discretion. You must create a name ("Username") to use and access the Community/Share section.
 
- **Does MSO collect any other information about visitors to the Site?**
+**Does MSO collect any other information about visitors to the Site?**
 
 We constantly seek to make improvements to the Site. As part of these efforts, we collect and analyze certain "Aggregate Information" (information that does not allow us to identify a specific individual such as demographic information, purchase categories (e.g., home furnishings), or visitors using a particular browser to access the Site) about how visitors use the Site.
 
@@ -28,21 +28,21 @@ We also use "cookies" and other technologies on the Site. Cookies are small piec
 
 If you become a Member via an existing social media account such as Facebook or Twitter, we may also collect and use various types Aggregate Information as well technical data and profile information for that social media account and on file with that social media provider.
 
- **What does MSO do with Personally Identifiable Information collected on the Site?**
+**What does MSO do with Personally Identifiable Information collected on the Site?**
 
 We collect and use the Personally Identifiable Information you provide to enhance your visit and deliver more individualized content and advertising. If you become a Member using an existing social media account such as Facebook or Twitter, we may also have access to, collect and use Personally Identifiable Information associated with that social media account from the social media provider. For example, we may use Personally Identifiable Information collected on the Site or, if you become a Member via an existing social media account such as Facebook or Twitter, collected from that social media provider, to communicate with you regarding products and services offered by MSO and our affiliates and partners and other topics we think you might find of interest; in the administration of sweepstakes, contests or other promotions; and to process e-commerce transactions.
 
 In addition, we use Personally Identifiable Information, such as your purchase information, to improve the performance of our Site, to customize the content and layout of our Site pages for you and to inform you of new areas of the Site and product specials.
 
- **What does MSO do with Aggregate Information collected on the Site?**
+**What does MSO do with Aggregate Information collected on the Site?**
 
 Aggregate Information collected on the Site or, if you become a Member via an existing social media account such as Facebook or Twitter, collected from that social media provider, may be used and disclosed in any way.  For example, we may collect and analyze any collected Aggregate Information to determine how many visitors arrived at certain pages of the Site, how long they stayed on those pages, and where they went afterwards. If you become a Member via an existing social media account such as Facebook or Twitter, Aggregate Informationassociated with your account with that social media provider may be used by MSO in the same manner. This information allows us to determine which pages might be the most interesting to our visitors and enables us to provide them with a better and richer experience on the Site. Additionally, we may use Aggregate Information to improve the performance of our Site, and to customize the content and layout of our Site pages for you.
 
 As a further example, occasionally, we share Aggregate Information with third parties, such as our advertisers and business partners, for marketing and promotional purposes. Aggregate Information gleaned from your use of the Site or, if you become a Member via a social media account, collected from that social media provider, may also be used to inform you of new areas of the Site and product specials.
 
-We may supplement Aggregate Information with similar information obtained from our affiliates, companies with whom we have marketing or other business relationships, and other third party sources. Including but not limited to, social media providers if youâve elected to become a Member via an existing social media account. Please note that certain Aggregate Information may be linked with Personally Identifiable Information. Any such linked information will be treated as Personally Identifiable Information for the purposes of this Policy as long as it is so linked.
+We may supplement Aggregate Information with similar information obtained from our affiliates, companies with whom we have marketing or other business relationships, and other third party sources. Including but not limited to, social media providers if you've elected to become a Member via an existing social media account. Please note that certain Aggregate Information may be linked with Personally Identifiable Information. Any such linked information will be treated as Personally Identifiable Information for the purposes of this Policy as long as it is so linked.
 
- **Does MSO share information with other companies?**
+**Does MSO share information with other companies?**
 
 Certain activities and services available on the Site are provided by third parties. We may share your Personally Identifiable Information with third parties for the purpose of enabling such third parties to provide such activities, services or products. For example, if you choose to purchase a product from us, we may use outside vendors to process your credit card, or to process and ship the order to you. In these instances, we would need to provide certain Personally Identifiable Information, such as your credit card information and shipping address, to these vendors.
 
@@ -62,19 +62,19 @@ In the event there is a change in the corporate structure of MSO such as, but no
 
 In addition, we may allow third party service providers such as advertisers, website statistics gatherers and others to use cookies and other technologies to, among other things, serve advertisements, collect statistics about use of the Site and enable such third parties to record information such as your browser type, IP address, which ads your browser has seen, which Site pages you may have been viewing when ads were delivered, your referring URL, your geographic location and other interaction information (but not your name or address). MSO does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
 
- **If I link to another Web site and provide information to that Web site, how will that information be handled?**
+**If I link to another Web site and provide information to that Web site, how will that information be handled?**
 
 This Site may contain links to third party Web sites, including, but not limited to, the Web sites of companies with whom we have business or marketing relationships such as companies that sell products and services. If you link to a third party Web site, you will leave this Site and this Policy will not apply to your use of, and activities on, those other Web sites. If you provide Personally Identifiable Information to any such third party Web site, your transaction will occur on such third party's Web site (not this Site) and the Personally Identifiable Information you provide will be collected by, and controlled by the privacy policy of, that third party. We encourage you to read the legal notices posted on those third party Web sites, including their privacy policies. We shall have no responsibility or liability for your visitation to, and the data collection and use practices of, such third party Web sites. PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.
 
- **How does MSO protect my information?**
+**How does MSO protect my information?**
 
-We take reasonable precautions to safeguard the Personally Identifiable Information transmitted between visitors and the Site as well as that transmitted between social media providers and the Site if youâve elected to become a Member via an existing social media account such as Facebook or Twitter. We also take reasonable precautions to safeguard all Personally Identifiable Information stored on our servers. We use Secured Socket Layers encryption for the transmission of data to our servers during member registration, sign in and order check out[](file:///C:/Users/kchiang.MSLO/Desktop/PP_9.16.doc#_msocom_1). Unfortunately, no method of transmitting or storing data over the Internet can be guaranteed to be 100% secure. As a result, although we strive to protect your Personally Identifiable Information, we cannot ensure the security of any information you transmit to us through or in connection with the Site. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised, or, if you become a Member via an existing social media account such as Facebook or Twitter and you feel that the security of that account us has been compromised, you must immediately notify us of the problem by contacting us at [members@marthastewart.com](mailto:members@marthastewart.com).
+We take reasonable precautions to safeguard the Personally Identifiable Information transmitted between visitors and the Site as well as that transmitted between social media providers and the Site if you've elected to become a Member via an existing social media account such as Facebook or Twitter. We also take reasonable precautions to safeguard all Personally Identifiable Information stored on our servers. We use Secured Socket Layers encryption for the transmission of data to our servers during member registration, sign in and order check out. Unfortunately, no method of transmitting or storing data over the Internet can be guaranteed to be 100% secure. As a result, although we strive to protect your Personally Identifiable Information, we cannot ensure the security of any information you transmit to us through or in connection with the Site. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised, or, if you become a Member via an existing social media account such as Facebook or Twitter and you feel that the security of that account us has been compromised, you must immediately notify us of the problem by contacting us at [members@marthastewart.com](mailto:members@marthastewart.com).
 
 In the unlikely event that we believe that the security of your Personally Identifiable Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is, in our sole discretion, appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email.
 
 If you receive an email or other correspondence requesting that you provide any sensitive information (including your Site password or credit card information) via email or to a web site that does not seem to be affiliated with the Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at [members@marthastewart.com](mailto:members@marthastewart.com).
 
- **What are my "opt-out" choices?**
+**What are my "opt-out" choices?**
 
 You may choose not to receive promotional emails or electronic newsletters from us by: (A) following the "unsubscribe" instructions in the specific email from which you wish to opt-out; (B) visiting the [Account Settings](http://www.marthastewart.com/portal/site/mslo/template.LOGIN/) section of the Site and following the appropriate instructions; or (C) sending an email to [offlist@marthastewart.com](mailto:offlist@marthastewart.com), specifying the particular emails list(s) from which you wish to be removed.
 
@@ -90,23 +90,23 @@ We will respond to a request made pursuant to these methods as promptly as pract
 
 Please note, however, that if you "opt out" as described above, we will not be able to remove Personally Identifiable Information about you from the databases of affiliates or third parties with which we have already shared such Personally Identifiable Information (i.e., to which we have already provided Personally Identifiable Information as of the date of your opt-out request). If you wish to cease receiving marketing messages from such affiliates or third parties, please contact such affiliates or third parties directly or utilize the opt-out mechanisms set forth in their respective privacy policies or marketing messages.
 
- **Can I review or change information in "Account Settings"?**
+**Can I review or change information in "Account Settings"?**
 
 Yes. If you want to review, correct, or change Personally Identifiable Information in "Account Settings", please go to the "[Account Settings](http://www.marthastewart.com/portal/site/mslo/template.LOGIN/)" section of the Site, and follow the appropriate instructions.
 
- **Where will MSO store and maintain information about me?**
+**Where will MSO store and maintain information about me?**
 
 We maintain this Site in the United States. By (A) providing Personally Identifiable Information and other information directly to this Site, and/or (B) electing to become a Member via an existing social media account and thus providing MSO access to Personally Identifiable Information for that account on file with that social media provider, you understand and consent to the collection, use, processing and transfer of such information to the United States and other countries or territories, which may not offer the same level of data protection as the country where you reside, in accordance with the terms of this Policy.
 
- **How can I contact MSO?**
+**How can I contact MSO?**
 
 Our postal address is 601 West 26th Street, New York, NY 10001. We can also be reached by email at [members@marthastewart.com](mailto:members@marthastewart.com). If you have any questions or comments about this Policy, please feel free to contact us.
 
- **Special note concerning children**
+**Special note concerning children**
 
 We encourage parents to use the Site with their children. However, this Site is not directed towards children under the age of 13, and we request that children under 13 not provide Personally Identifiable Information to the Site.
 
- **Can MSO change this Policy?**
+**Can MSO change this Policy?**
 
 MSO reserves the right to change this Policy at any time. We will announce any such change by posting the revised draft of this Policy on the Site. You can determine when this Policy was last revised by referring to the "Last Updated" legend at the top of this page. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Policy please do not continue using this Site.
 
