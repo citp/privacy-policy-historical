@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the toyota.ca privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518170024id_/http%3A//www.toyota.ca/cgi-bin/WebObjects/WWW.woa/wa/vp%3Fvp%3DHome.Legal.Privacy%26language%3Denglish) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.ca privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203032749id_/http%3A//www.toyota.ca/toyota/en/privacy/toyota) for the most accurate reproduction.*
 
-# TOYOTA CANADA : Privacy Policy
+# TOYOTA CANADA: Privacy Policy
 
-## Toyota Privacy Policy  
-Respecting Customer Information
+##  Toyota Privacy Policy   
+Respecting Customer Information 
 
 ### The Toyota (Lexus) (Scion) Commitment to Your Privacy
 
@@ -11,9 +11,9 @@ Toyota Canada Inc. ("TCI"), which includes Toyota, Lexus and Scion brands, respe
 
 ### What Personal Information Does TCI Collect?
 
-In connection with your vehicle purchase, TCI collects the information provided by you that is necessary for your Toyota (Lexus) (Scion) dealership to complete the transaction, including your name, address, telephone number(s), email address, driver's license and insurance information. TCI also records information respecting the vehicle purchased, the purchase price and other transaction information. TCI will also collect personal information from you through customer surveys, inquiries or requests for information and your visits to TCI web sites. You will only be asked to provide personal information in order to enable TCI to provide you with a service (such as sending you a new vehicle brochure, assisting you in contacting a dealership, or enabling you to complete online credit or job applications).
+In connection with your vehicle purchase, TCI collects the information provided by you that is necessary for your Toyota (Lexus) (Scion) dealership to complete the transaction, including your name, address, telephone number(s), email address, driver's license and insurance information. TCI also records information respecting the vehicle purchased, the purchase price and other transaction information. TCI will also collect personal information from you through customer surveys, inquiries or requests for information and your visits to TCI web sites. You will only be asked to provide personal information in order to enable TCI to provide you with a service (such as sending you a new vehicle brochure, assisting you in contacting a dealership, or enabling you to complete online credit or job applications). 
 
-If you apply for credit with Toyota Credit Canada Inc. ("TCCI"), TCCI will obtain credit approval information from you and third parties. The full TCCI Privacy Policy, which outlines how TCCI's privacy principles protect your privacy as a key part of its ongoing business relationship with you as a valued Toyota (Lexus) (Scion) customer, is available here [TCCI Privacy Policy](https://web.archive.org/cgi-bin/WebObjects/WWW.woa/29/wo/w9hnFH5774JZtIKhZdwAnM/0.7?h200001e%2ehtml).
+If you apply for credit with Toyota Credit Canada Inc. ("TCCI"), TCCI will obtain credit approval information from you and third parties. The full TCCI Privacy Policy, which outlines how TCCI's privacy principles protect your privacy as a key part of its ongoing business relationship with you as a valued Toyota (Lexus) (Scion) customer, is available here [TCCI Privacy Policy](https://web.archive.org/web/20121203032749id_/http%3A//www.toyota.ca/toyota/en/privacy/tcci). 
 
 TCI will collect information relating to your service transactions with authorized Toyota (Lexus) (Scion) dealerships.
 
@@ -25,7 +25,7 @@ TCI also collects information that you provide during visits to TCI web sites, i
 
 ### How is Your Personal Information Used?
 
-TCI may use your personal information for the following purposes:
+TCI may use your personal information for the following purposes: 
 
   1. to complete sales and service transactions with you;
   2. to respond to your requests for products, services or information;
@@ -42,7 +42,7 @@ For the purposes outlined above TCI may share your personal information with Toy
 
 TCI will also share your information with marketing partners who may provide you with information about their products and services. You will be provided with an opportunity to opt-out of communications with TCI's marketing partners. Your personal information may be transferred to third party service providers that TCI uses to assist in managing and processing your personal information. TCI's third party service providers are required to use, maintain and disclose your personal information only in accordance with TCI's instructions to them and only on TCI's behalf.
 
-TCI will not disclose any of your personal information to any other persons, except (i) with your prior consent; (ii) in connection with a sale of all or substantially all of the assets of one of TCI'sbusinesses; or (iii) as may be required or permitted by law.
+TCI will not disclose any of your personal information to any other persons, except (i) with your prior consent; (ii) in connection with a sale of all or substantially all of the assets of one of TCI's businesses; or (iii) as may be required or permitted by law.
 
 ### Does TCI Transfer Information Outside of Canada?
 
@@ -72,11 +72,23 @@ TCI will only send email, text or other electronic messages to you if you have r
 
 Non-Personally Identifiable Information. When you visit TCI's web sites, unless you tell TCI who you are or reveal any other personal information, TCI does not collect or store any information about you. The only information TCI collects and stores is non-personally identifiable information such as the name of your Internet service provider, the type of the Internet browser you used, and referring web site and the pages you request. TCI uses this non-personally identifiable information to generate aggregate statistics regarding TCI's web site activity.
 
-Cookies. Cookies are files that your web browser places on your computer's hard drive that permit TCI to tell whether, and if so, how many times, you have accessed TCI's web sites previously, your language of choice, your dealer of choice, the province in which your internet provider resides, internet user behavioral analysis, and your computer system's flash preference. You may choose to decline to accept cookies if your browser permits but doing so may affect your use of TCI's web sites and your ability to access certain features of the web sites.
+Cookies. Cookies are files that your web browser places on your computer's hard drive that permit TCI to tell whether, and if so, how many times, you have accessed TCI's web sites previously, your interests and preferences, your language of choice, your dealer of choice, the province in which your internet provider resides, internet user behavioral analysis, and your computer system's flash preference. You may choose to decline to accept cookies if your browser permits but doing so may affect your use of TCI's web sites and your ability to access certain features of the web sites.
+
+Pixel tags. A pixel tag is a transparent graphic image, sometimes called a web beacon, clear GIFs or tracking beacon, placed on a web site or in an e-mail, which indicates to us that a page or e-mail has been viewed. In addition, a pixel tag may tell your browser to get content from another server.
 
 Third-Party Links. TCI's web sites contain links to other sites. When you click on links that take you to third party web sites, you will be subject to the third parties' privacy policies. While TCI supports the protection of privacy on the Internet, TCI is not responsible for the actions of third parties or for their privacy practices. TCI encourages the users of its web sites to be aware when they leave the web sites and to read the privacy policies of each and every web site with which they interact.
 
 Children. TCI does not use its web sites to knowingly solicit personal information from or to market to persons under the age of majority.
+
+### Advertising/Behavioral Targeting; How To Opt-Out
+
+TCI licenses technology to serve advertisements on its own web sites and within its content as that content is served across the Internet. In addition, TCI may use third-party ad networks, publishers and other entities to serve advertisements and third party analytics vendors to evaluate and provide us with information about the use of the TCI web sites and viewing of our content.
+
+Ad network providers, data providers, publishers and other media-related companies, and/or analytics service providers may set and access their own cookies, pixel tags and similar technologies on your device’s web browser and they may otherwise collect or have access to information about you. We and they may target advertisements for products and services in which you might be interested based on your visits to both the TCI web sites and other web sites. We and they may use a variety of companies to serve advertisements.
+
+If you prefer not to allow TCI to collect or use your personal information for the purposes of targeted advertising on TCI’s web sites, you may opt-out by clicking [here](http://ca-toyota.netmng.com/optout/en.php). If you prefer not to allow TCI, or third parties acting on TCI’s behalf, to collect or use your personal information for purposes of targeted advertising on third-party websites, you may opt-out by following the procedure on [the NAI Opt-Out Page](http://www.networkadvertising.org/choices/). 
+
+These opt-outs will not be effective if your browser is configured to reject cookies, or if you subsequently erase your cookies, use a different computer or change browsers. Please note that even if you opt-out, you will still see advertisements while you're browsing online. However the advertisements you see may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The NAI Opt-Out Page provides a tool that identifies its member companies that have cookies on your browser and provides links to those companies.
 
 ### How Long Does TCI Retain Your Personal information?
 
@@ -92,19 +104,19 @@ TCI protects your personal information using security systems appropriate to the
 
 You may review, update or correct any of your personal information held in TCI's files and your consents regarding its use and disclosure at any time by contacting TCI's Privacy Officer in any of the ways indicated below.
 
-If you have any questions or concerns regarding TCI's policy and procedures, if you wish to change your consent to TCI's use and disclosure of your information, or if you wish to review, update, correct or have TCI delete your information from files, please contact:
+If you have any questions or concerns regarding TCI's policy and procedures, if you wish to change your consent to TCI's use and disclosure of your information, or if you wish to review, update, correct or have TCI delete your information from files, please contact: 
 
 Privacy Officer  
 Toyota Canada Inc.  
 One Toyota Place  
 Toronto, Ontario  
-M1H 1H9
+M1H 1H9 
 
 by telephone: 1-888-TOYOTA-8 or 1-800-26-LEXUS or 1-866-9-SCION-1  
-or by visiting us at toyota.ca or lexus.ca or scion.ca
+or by visiting us at toyota.ca or lexus.ca or scion.ca 
 
 ### Will TCI's Privacy Policy Change?
 
 TCI reserves the right, at any time, to modify this Policy at TCI's sole discretion, and you agree to be bound by any such modifications, which shall be effective immediately upon TCI posting the revised Policy on TCI's web sites.
 
-POSTED: August 1, 2011
+POSTED: September 25, 2012
