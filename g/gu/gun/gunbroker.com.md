@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gunbroker.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504081045id_/http%3A//www.gunbroker.com/User/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunbroker.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203221419id_/http%3A//www.gunbroker.com/User/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# GunBroker.com - Privacy Policy
+# Privacy Policy at GunBroker.com
 
 **_Introduction_**
 
