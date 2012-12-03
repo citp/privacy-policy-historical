@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynamescountry.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629231326id_/http%3A//babynamescountry.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynamescountry.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203144949id_/http%3A//www.babynamescountry.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - BabyNamesCountry.com
 
@@ -8,6 +8,9 @@ We understand your need to maintain your privacy when using the Internet for you
 
 **Links to partner and advertiser sites**  
 The BabyNamesCountry.com contains links to advertiser and partner websites. Please be aware that BabyNamesCountry.com, are not responsible for the privacy practices of these websites and we do not control the practices of any of our advertisers or partners to whom we are linked. This privacy statement applies solely to information collected by our website.
+
+**Advertisers**  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Kids' Privacy**  
 We're committed to protecting the safety and privacy of all our users, especially those who are under 13. To this end, we comply with the Children's Online Privacy Protection Act (16 C.F.R. Part 312). We do not collect or display the individually identifying information of users who are under the age of 13.  
