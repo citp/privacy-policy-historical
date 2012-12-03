@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deche.vn privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628021121id_/http%3A//deche.vn/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deche.vn privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203070953id_/http%3A//deche.vn/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,4 +33,4 @@ We partner with a limited number of third party behavioral advertising companies
   
 
 
-* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp>.
+* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance at [aboutads.info](http://www.aboutads.info/).
