@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kendallhunt.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605013529id_/http%3A//www.kendallhunt.com/Content1ColMenu.aspx%3Fid%3D8273) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kendallhunt.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203213918id_/http%3A//www.kendallhunt.com/Content1ColMenu.aspx%3Fid%3D8273) for the most accurate reproduction.*
 
 # Privacy Statement
 
