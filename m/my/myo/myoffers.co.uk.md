@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618020859id_/http%3A//www.myoffers.co.uk/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203162124id_/http%3A//www.myoffers.co.uk/privacy_statement.aspx) for the most accurate reproduction.*
 
 # MyOffers Privacy Statement
 
@@ -17,7 +17,7 @@ Contents
 
 ####  Introduction
 
-This privacy statement covers the site [http://www.myoffers.co.uk](http://www.myoffers.co.uk/ "MyOffers"). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. If you have questions or concerns regarding this statement, you should first contact [Ivan Southall](http://www.myoffers.co.uk/contact_us.aspx).
+This privacy statement covers the site [http://www.myoffers.co.uk](http://www.myoffers.co.uk/ "MyOffers"). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. If you have questions or concerns regarding this statement, you should first contact [Ivan Southall](http://myoffers.co.uk/contact_us.aspx).
 
 MyOffers takes your privacy seriously and takes every reasonable precaution to safeguard the personal information you supply to it.
 
@@ -170,13 +170,13 @@ MyOffers will occasionally update this privacy statement. MyOffers will obtain y
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. MyOffers stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-Your friend may [contact us](http://www.myoffers.co.uk/contact_us.aspx) to request that we remove this information from our database.
+Your friend may [contact us](http://myoffers.co.uk/contact_us.aspx) to request that we remove this information from our database.
 
 ####  Contact Information
 
 If you have questions regarding this privacy statement, please contact MyOffers by:
 
-Email Address - [click here](http://www.myoffers.co.uk/contact_us.aspx)
+Email Address - [click here](http://myoffers.co.uk/contact_us.aspx)
 
 Postal Address - 
 
