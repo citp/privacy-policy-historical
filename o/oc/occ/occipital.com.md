@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the occipital.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503221845id_/http%3A//www.occipital.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the occipital.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203082310id_/http%3A//occipital.com/legal/privacy) for the most accurate reproduction.*
 
 # Occipital - Privacy
 
