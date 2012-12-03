@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the parkplaza.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605060305id_/http%3A//www.parkplaza.com/section/privacy.home/privacy.sidemenus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkplaza.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203140123id_/http%3A//www.parkplaza.com/section/privacy.home/privacy.sidemenus) for the most accurate reproduction.*
 
 # Guest Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.parkplaza.com&sealid=103) Carlson Hotels Guest Privacy Policy - Effective October 28, 2007  
+[](http://privacy.truste.com/privacy-seal/Carlson-Companies,-Inc-/validation?rid=235415cb-d2d2-407b-b923-3ea9f987af1b) Carlson Hotels Guest Privacy Policy - Effective October 28, 2007  
 Last updated March 31, 2011
 
  **Carlson Hotels  Privacy Promises.** Carlson Hotels together with its subsidiaries (collectively, "Carlson Hotels") take your privacy seriously. These are our ten promises to you: 
