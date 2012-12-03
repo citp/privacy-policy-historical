@@ -1,12 +1,25 @@
-> *The following text is extracted and transformed from the artiss.co.uk privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511032722id_/http%3A//www.artiss.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artiss.co.uk privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203030204id_/http%3A//www.artiss.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy: Artiss.co.uk
+# Privacy Policy - Artiss.co.uk : Artiss.co.uk
 
 **by SEQ Legal**
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
-Our website uses cookies. By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
+  * [Credit](http://www.artiss.co.uk/privacy-policy#credit)
+  * [What information do we collect?](http://www.artiss.co.uk/privacy-policy#what-information)
+  * [Cookies](http://www.artiss.co.uk/privacy-policy#cookies)
+  * [Using your personal information](http://www.artiss.co.uk/privacy-policy#personal)
+  * [Disclosures](http://www.artiss.co.uk/privacy-policy#disclosures)
+  * [International data transfer](http://www.artiss.co.uk/privacy-policy#international)
+  * [Security of your personal information](http://www.artiss.co.uk/privacy-policy#security)
+  * [Policy amendments](http://www.artiss.co.uk/privacy-policy#amendments)
+  * [Your rights](http://www.artiss.co.uk/privacy-policy#your-rights)
+  * [Third party websites](http://www.artiss.co.uk/privacy-policy#third-party)
+  * [Updating information](http://www.artiss.co.uk/privacy-policy#updating)
+  * [Contact](http://www.artiss.co.uk/privacy-policy#contact)
+
+
 
 ### 1\. Credit
 
@@ -22,23 +35,11 @@ We may collect, store and use the following kinds of personal information:
 
 (d) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters; and
 
-(e) any other information that you choose to send to us;
+[link id=”cookies”](https://web.archive.org/web/20121203030204id_/http%3A//www.artiss.co.uk/e) any other information that you choose to send to us;
 
 ### 3\. Cookies
 
-A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
-
-We use both “session” cookies and “persistent” cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website; and to personalise the visual appearance of the site to your requirements. We will use the persistent cookies to enable our website to recognise you when you visit.
-
-Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
-
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google’s privacy policy is available at: <http://www.google.com/privacypolicy.html>.
-
-Our advertisers/payment services providers may also send you cookies.
-
-We publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google’s Ads Preference Manager, available at: <http://www.google.com/ads/preferences/>. You can opt-out of the Adsense partner network cookie at: <http://www.google.com/privacy_ads.html>. However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: [http://www.google.com/ads/preferences/plugin](http://www.google.com/privacy_ads.html "Google Plug-in").
-
-Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
+Please see out separate [cookie policy](http://www.artiss.co.uk/cookies) for details.
 
 ### 4\. Using your personal information
 
@@ -120,4 +121,4 @@ Please let us know if the personal information which we hold about you needs to 
 
 ### 12\. Contact
 
-If you have any questions about this privacy policy or our treatment of your personal information, please [contact us](http://www.artiss.co.uk/contact).[/noksim]
+If you have any questions about this privacy policy or our treatment of your personal information, please [contact us](http://www.artiss.co.uk/contact).
