@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burchmores.co.za privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522011110id_/http%3A//www.burchmores.co.za/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D94%26Itemid%3D116) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burchmores.co.za privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203165137id_/http%3A//www.burchmores.co.za/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D94%26Itemid%3D116) for the most accurate reproduction.*
 
 # Privacy Policy
 
