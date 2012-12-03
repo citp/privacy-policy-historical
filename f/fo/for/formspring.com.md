@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formspring.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625124413id_/http%3A//www.formspring.me/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formspring.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203195456id_/http%3A//www.formspring.me/about/privacy) for the most accurate reproduction.*
 
 # Formspring
 
@@ -6,9 +6,7 @@ _Effective Date: Thursday, July 29, 2010_
 
 ## _Welcome to Formspring!_
 
-Formspring.me, Inc. (“ ** _Formspring_** ”) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit and use the Formspring website located at [www.formspring.me](http://www.formspring.me/) (the “ ** _Site_** ”).
-
-If you have questions or concerns regarding this Privacy Policy, you should first contact Formspring at [privacy@formspring.me](mailto:privacy@formspring.me) or at the following address: Privacy Matters c/o Formspring.me, Inc., 182 Howard Street, PMB #531, San Francisco, California 94105. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> . TRUSTe will then serve as a liaison with us to resolve your concerns.
+Formspring.me, Inc. (“ ** _Formspring_** ”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit and use the Formspring website located at [www.formspring.me](http://www.formspring.me/) (the “ ** _Site_** ”). If you have questions or concerns regarding this Privacy Policy, you should first contact Formspring at [privacy@formspring.me](mailto:privacy@formspring.me) or at the following address: Privacy Matters c/o Formspring.me, Inc., 182 Howard Street, PMB #531, San Francisco, California 94105.
 
 This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy on the home page of the Site and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are advised to consult this Privacy Policy regularly for any changes.
 
