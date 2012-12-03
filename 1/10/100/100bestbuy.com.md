@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 100bestbuy.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626212421id_/http%3A//www.100bestbuy.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100bestbuy.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203222955id_/http%3A//www.100bestbuy.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Online Shopping|Get the Best Shopping Deals Online|100bestbuy.com
 
