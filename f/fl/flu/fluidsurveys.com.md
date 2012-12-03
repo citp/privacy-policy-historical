@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fluidsurveys.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304204708id_/http%3A//fluidsurveys.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fluidsurveys.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204000336id_/http%3A//fluidsurveys.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FluidSurveys
-
-Privacy Policy
 
 **We DO NOT share, sell, rent, or trade Personally Identifiable Information with third parties except as disclosed within this privacy statement**. 
 
@@ -31,7 +29,7 @@ Privacy Policy
 
 ## **Cookies**
 
-> Cookies are required when using FluidSurveys. We use cookies to identify unique visitors, provider per-user customization, and to make FluidSurveys easier to use. We don’t share our cookies, nor do we use cookies to track your behavior on other sites.
+> Cookies are required when using FluidSurveys. We use cookies to identify unique visitors, provide per-user customization, and to make FluidSurveys easier to use. We don’t share our cookies, nor do we use cookies to track your behavior on other sites.
 
 ## **Third Party Cookies**
 
@@ -96,7 +94,7 @@ Privacy Policy
 ## **Contact Information**
 
 > [Chide.it Inc.](http://chide.it/)  
->  1-877-298-7792  
+>  1-866-218-5127  
 >  [support@fluidsurveys.com](mailto:support@fluidsurveys.com)  
 >  If you’d like to send us snail mail, you can also use our following office locations: 
 > 
@@ -107,3 +105,6 @@ Privacy Policy
 > USA  
 >  1203 Geiger Ln., Suite 100  
 >  Bridgewater, NJ, 08807 USA
+
+|   
+---|---
