@@ -1,0 +1,921 @@
+<!--The following is the downloaded HTML source of the dontpaniconline.com privacy policy that was archived on 2012-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121203160504id_/http%3A//www.dontpaniconline.com/user_actions/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="description" content="An online arts, music, style &amp; culture magazine accompanied by an offline poster pack found in selected spots around the globe">
+    <meta name="keywords" content="Don't panic, magazine, arts, music, film, politics, style, technology, dptv, photos, events, outlets, listings, posters, design the poster, design brief, posters, win, competitions">
+    <meta name="rating" content="General">
+    <meta name="google-site-verification" content="DON-q8Z0l40fG1Y8sUMHzSZFxomW221FvLZzrSfuCX0">
+    <meta property="fb:admins" content="685695051">
+        
+        
+    <title>Privacy Policy | Don't Panic</title>
+
+    <link href="/i/_layout/favicon.gif" type="image/gif" rel="icon">
+  
+	<link rel="stylesheet" href="http://cdn.dontpaniconline.com/style/blueprint/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="http://cdn.dontpaniconline.com/style/blueprint/print.css" type="text/css" media="print">
+	<!--[if lt IE 8]><link rel="stylesheet" href="http://cdn.dontpaniconline.com/style/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+	
+	<link rel="stylesheet" href="http://cdn.dontpaniconline.com/includes/js/jquery-ui-1.8.16/css/redmond/jquery-ui-1.8.16.custom.css" type="text/css" media="all">
+	<link rel="stylesheet" href="http://cdn.dontpaniconline.com/style/dp_style.css" type="text/css">
+	
+	
+	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script type="text/javascript" src="http://cdn.dontpaniconline.com/includes/js/jquery-ui-1.8.16/js/jquery-ui-1.8.16.custom.min.js"></script>
+	<script type="text/javascript" src="http://cdn.dontpaniconline.com/includes/js/common_tasks.js"></script>
+
+	   
+   
+	<script type="text/javascript">
+		jQuery(document).ready(function() {
+			$(".themed_btn").button();
+						
+		    if ($('a.lightbox').length>0) {
+			    $('a.lightbox').lightBox();
+		    }
+
+		    if ($('area.lightbox').length>0) {
+			    $('area.lightbox').lightBox();
+		    }		    
+		});	
+	</script>
+	 	 
+  <!-- Google Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-232317-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- End of Google Analytics -->  
+ </head>
+
+<body>
+
+<div id="fb-root"></div>
+<script>
+var uid;
+var accessToken;
+//test
+	window.fbAsyncInit = function() {
+	    FB.init({
+	      appId: '127434920631574',
+	      status: true,
+	      cookie: true, 
+	      xfbml: true,
+	      oauth: true
+	    });
+
+	    FB.Event.subscribe('auth.login', function(response) {
+			  if (response.status === 'connected') {
+					uid = response.authResponse.userID;
+					accessToken = response.authResponse.accessToken;
+			  }
+		});
+
+	    FB.Event.subscribe('auth.logout', function(response) {
+		    FB.getLoginStatus(function(res) {
+			    if (!res.authResponse) {
+			    	window.location='/user_actions/logout';
+				}
+			});
+		});
+
+	    FB.Event.subscribe('edge.create', function(targetUrl) {
+		     _gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);
+		});
+
+	    FB.Event.subscribe('message.send', function(targetUrl) {
+		     _gaq.push(['_trackSocial', 'facebook', 'send', targetUrl]);
+		});
+		
+		FB.Event.subscribe('comment.create', function(targetUrl) {
+  			_gaq.push(['_trackSocial', 'facebook', 'comment', document.location.href]);
+		}); 
+		
+		
+		FB.Event.subscribe('comment.remove', function(targetUrl) {		
+			_gaq.push(['_trackSocial', 'facebook', 'uncomment', document.location.href]);		
+		});
+
+	  };
+
+      (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) {return;}
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+          fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+      
+      function Facebook_login () {
+    	  if ((parseFloat(uid) == parseInt(uid)) && !isNaN(uid)) {
+				$.ajax({
+					url: '/user_actions/prep_facebook_registration',
+					cache: false,
+					type: 'POST',
+					data: { 'uid': uid, 'token': accessToken },
+					dataType: 'json',
+					success: function(data) {
+						if (data.success=='true') {
+							if ((typeof(data.redirect) != 'undefined')) {
+								if (data.redirect=='current') {
+									location.reload();
+								} else {
+									window.location=data.redirect;
+								}
+							}
+						}
+					}
+				});
+			}
+	  }
+</script>
+
+<div id="header_container">
+  <div id="header_inner">
+  	  
+	  <div id="city_selection"></div>
+	  <div id="password_reminder_dialog"></div>
+	  <div id="subscribe_dialog"></div>
+	    
+	  <div id="header">
+	  		<div id="log_in_area">
+
+			  	<div id="change_city_cont" class="clearfix">
+					<div class="nobrake size12 append-right" style="padding-top: 7px;">London</div>
+					<div class="clearfix nobrake"><a href="#" class="other_cities_btn">Change city</a></div><br><br>										
+				</div>
+	
+	  			<div id="credentials_container" class="clearfix">
+		  					  				<div class="nobrake right append-right" id="login_status" style="width: 100px; line-height: 27px; height: 27px;">&nbsp;</div>
+		  				<div class="nobrake"><input type="text" value="Email" id="logging_in_username" style="width: 150px; margin-right: 10px;"></div>
+		  				<div class="nobrake"><input type="password" value="password" id="logging_in_password" style="width: 150px;"></div>
+						<div class="nobrake" id="forgot_psw_cont"><a href="javascript: void(0);">Forgot your password?</a></div>  				
+		  				<div class="clearfix nobrake"><a class="log_in_btn" id="loginUserSubmit" href="javascript: void(0);">Log in</a></div>
+		  				<div class="clearfix nobrake"><a class="register_btn" href="https://dontpaniconline.com/register">Register</a></div>
+		  				  			</div>
+	  		</div>
+	   		
+			<div id="top_logo_banner" class="clearfix">
+				<div id="dp_logo" class="nobrake"><a href="http://www.dontpaniconline.com/" title="Don't Panic"><img src="/i/_layout/dp_logo.jpg" alt="Don't Panic" style="width: 238px; height: 90px;"></a></div>
+				<div id="leaderboard" class="nobrake">
+					<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.dontpanicmedia.com/www/delivery/ajs.php':'http://ads.dontpanicmedia.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://ads.dontpanicmedia.com/www/delivery/ajs.php?zoneid=1&amp;cb=14801115807&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20121203160504id_/http%253A//www.dontpaniconline.com/user_actions/privacy"></script><noscript><a href='http://ads.dontpanicmedia.com/www/delivery/ck.php?n=aecee0ba&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.dontpanicmedia.com/www/delivery/avw.php?zoneid=1&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aecee0ba' border='0' alt='' /></a></noscript>				</div>
+			</div>
+
+			<nav>
+			  	<div id="navigation" class="clearfix">
+			  		<div class="menu_item head_nav_mag submenu_opener" style="border-top-color: #cdeaf9"><h2><a href="http://www.dontpaniconline.com/magazine/london">Magazine</a></h2></div>
+			  		<div class="menu_item head_nav_dptv" style="border-top-color: #fdb2b3;"><h2><a href="http://www.dontpaniconline.com/video/">Video</a></h2></div>
+			  		<div class="menu_item head_nav_events submenu_opener" style="border-top-color: #fff4b5"><h2><a href="http://www.dontpaniconline.com/events/london">Events</a></h2></div>
+			  		<div class="menu_item head_nav_pack" style="border-top-color: #b8edd9;"><h2><a href="http://www.dontpaniconline.com/pack/">Pack</a></h2></div>
+			  		<div class="menu_item head_nav_design" style="border-top-color: #e1d1ef;"><h2><a href="http://www.dontpaniconline.com/design/">Design</a></h2></div>
+			  		<div class="menu_item head_nav_win" style="border-top-color: #cdd4e4;"><h2><a href="http://www.dontpaniconline.com/win/">WIN</a></h2></div>
+			  		<div class="menu_item head_nav_posters" style="border-top-color: #fcdec1;"><h2><a href="http://www.dontpaniconline.com/posters/">Posters</a></h2></div>
+			  		<div class="menu_item" style="width: 196px; border-top-color: #ccd0d1; padding: 0 !important;">
+						<input type="text" value="Site search" class="search_field" id="google_search" style="width: 163px;">
+			  		</div>
+			  	</div>
+		  	</nav>
+		  </div>
+  </div>
+</div>
+
+<div class="container">
+<div id="main_pages_area" class="span-16">
+<div class="content_block append-bottom">
+	
+	<div class="top_border_header" style="border-top-color: #888888;"><h1>Don't panic / Privacy Policy</h1></div>
+	
+<h1 class="append-bottom">Privacy Policy</h1>
+<p class="editorial_design">  ﻿When you interact with the Don’t  Panic Website may collect personal information about you. For example, when you  register, enter a competition, or sign up to a newsletter.<br><br>
+  When you use our services, we may use  your IP address, cookies and information provided to use to provide certain  functionality to you and to better understand how our services are being used.<br>
+  Your information is securely stored.</p>
+<br>
+  <h2 class="append-bottom">What cookies we use</h2>
+  <p class="editorial_design"><strong>Cookie</strong>: Don’t Panic notify cookie acceptance</p><br>
+  <p class="editorial_design"><strong>Name</strong>: dpcookie-notification</p><br>
+  <p class="editorial_design"><strong>Purpose</strong>: This cookie is used to record if a user has accepted the use of cookies on the Don’t Panic website.</p><br>
+  <hr>
+  <p class="editorial_design"><strong>Cookie</strong>: Google Analytics</p><br>
+  <p class="editorial_design"><strong>Name</strong>: _utma | _utmb | _utmc | _utmz | _qca</p><br>
+  <p class="editorial_design"><strong>Purpose</strong>: These cookies are used to collect information about how visitors use our site.</p><br>
+  <hr>
+  <p class="editorial_design"><strong>Cookie</strong>: Don’t Panic &nbsp;page views &amp; impressions</p><br>
+  <p class="editorial_design"><strong>Name</strong>: dptv | win_impr</p><br>
+  <p class="editorial_design"><strong>Purpose</strong>: This cookie is essential for logging the number of viewers to some of our pages and logging the number of impressions to our campaigns.</p><br>
+  <hr>
+  <p class="editorial_design"><strong>Cookie</strong>: Email remember</p><br>
+  <p class="editorial_design"><strong>Name</strong>: dp_member_remember</p><br>
+  <p class="editorial_design"><strong>Purpose</strong>: This cookie is set when a user successful logs in to the website. The email address is then displayed the next time the user visits the site.</p><br>
+  <hr>
+  <p class="editorial_design"><strong>Cookie</strong>: User customisation</p><br>
+  <p class="editorial_design"><strong>Name</strong>: fid | dp_visitor</p><br>
+  <p class="editorial_design"><strong>Purpose</strong>: This cookie is used to remember a user’s city selection. A default value is set until the user changes the value.</p><br>
+  <hr>
+  <p class="editorial_design"><strong>Cookie</strong>: YouTube</p><br>
+  <p class="editorial_design"><strong>Name</strong>: Cookie Name Unknown</p><br>
+  <p class="editorial_design"><strong>Purpose</strong>: We embed videos from our official YouTube channel. When watching videos cookies may be set on your computer to help maintain the integrity of video statistics, prevent fraud and to improve the site experience, among other things. YouTube will not store personally-identifiable cookie information.</p><br>
+</div>
+<div class="clearfix content_block append-bottom">
+	<div class="top_border_header" style="border-top-color: #4175b9;">
+			<a href="/win/" title="WIN">WIN</a>
+	</div>
+
+		 				 			<div class="nobrake" style="width: 191px; height: 285px; border-right: 1px #cacaca solid; padding-right: 7px; margin-right: 7px;">
+		 													<a href="/win/859/london-daredevil-tournament-" title="London Daredevil Tournament "><img src="/win/banner_output/859" alt="London Daredevil Tournament " style="width: 191px; height: 285px;"></a>
+									 			</div>
+		 				 			<div class="nobrake" style="width: 191px; height: 285px; border-right: 1px #cacaca solid; padding-right: 7px; margin-right: 7px;">
+		 													<a href="/win/861/gosh-comics" title="Gosh Comics"><img src="/win/banner_output/861" alt="Gosh Comics" style="width: 191px; height: 285px;"></a>
+									 			</div>
+		 				 			<div class="nobrake" style="width: 191px; height: 285px; margin-right: 0px;">
+		 													<a href="/win/860/secretsundaze-nye" title="secretsundaze NYE"><img src="/win/banner_output/860" alt="secretsundaze NYE" style="width: 191px; height: 285px;"></a>
+									 			</div>
+		 		<div class="clear">&nbsp;</div>
+<div class="hr_sep">&nbsp;</div>
+		 			<div class="nobrake" style="width: 191px; height: 285px; border-right: 1px #cacaca solid; padding-right: 7px; margin-right: 7px;">
+		 													<a href="/win/857/drawing-courses-in-shoreditch" title="Drawing courses in Shoreditch"><img src="/win/banner_output/857" alt="Drawing courses in Shoreditch" style="width: 191px; height: 285px;"></a>
+									 			</div>
+		 				 			<div class="nobrake" style="width: 191px; height: 285px; border-right: 1px #cacaca solid; padding-right: 7px; margin-right: 7px;">
+		 													<a href="/win/855/roundhouse-rising-" title="Roundhouse Rising "><img src="/win/banner_output/855" alt="Roundhouse Rising " style="width: 191px; height: 285px;"></a>
+									 			</div>
+		 				 			<div class="nobrake" style="width: 191px; height: 285px; margin-right: 0px;">
+		 													<a href="/win/858/crafty-fox-christmas-market" title="Crafty Fox Christmas Market"><img src="/win/banner_output/858" alt="Crafty Fox Christmas Market" style="width: 191px; height: 285px;"></a>
+									 			</div>
+		 		<div class="clear">&nbsp;</div>
+</div>
+</div><!-- Right side section -->
+<div id="right_side">
+
+	<div id="follow_us" class="bottom-border-spacer append-bottom">
+					<div class="fb-like-box append-bottom" style="height: 218px;" data-href="http://www.facebook.com/dontpanic" data-width="326" data-height="218" data-show-faces="true" data-border-color="#f4f4f4" data-stream="false" data-header="true"></div>
+				<div class="clearfix" style="margin-left: 10px;">
+			<div class="nobrake" style="width: 150px;">
+				<a href="http://www.facebook.com/dontpanic" title="Follow us on Facebook!" target="_blank" style="margin-right: 4px;"><img style="width: 30px; height: 30px;" src="/i/_layout/social_icons/social-icons_fb.png" alt="Follow us on Facebook!"></a>
+				<a href="http://twitter.com/dontpanic" title="Follow us on Twitter!" target="_blank" style="margin-right: 4px;"><img style="width: 30px; height: 30px;" src="/i/_layout/social_icons/social-icons_twitter.png" alt="Follow us on Twitter!"></a>
+				<a href="http://dontpaniclondon.tumblr.com/" title="Follow us on Tumblr" target="_blank" style="margin-right: 4px;"><img style="width: 30px; height: 30px;" src="/i/_layout/social_icons/social-icons_thumblr.png" alt="Follow us on Tumblr!"></a>
+				<a href="http://www.dontpaniconline.com/magazine/rss/london" title="Don't Panic Magazine RSS feed" target="_blank"><img style="width: 30px; height: 30px;" src="/i/_layout/social_icons/social-icons_rss.png" alt="Don't Panic Magazine RSS feed"></a>
+			</div>
+			<div class="nobrake right" style="position: relative; width: 166px;">
+				<div class="fb-login-button" onlogin="Facebook_login()" autologoutlink="true" data-show-faces="false" data-width="166" data-max-rows="1" style="position: absolute; top: 5px; right: 0;" scope="email"></div>
+			</div>
+		</div>
+	</div>
+
+<div id="MPU1" class="content_block append-bottom">
+	<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.dontpanicmedia.com/www/delivery/ajs.php':'http://ads.dontpanicmedia.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=3");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://ads.dontpanicmedia.com/www/delivery/ajs.php?zoneid=3&amp;cb=45461321981&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20121203160504id_/http%253A//www.dontpaniconline.com/user_actions/privacy"></script><noscript><a href='http://ads.dontpanicmedia.com/www/delivery/ck.php?n=ab7c532d&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.dontpanicmedia.com/www/delivery/avw.php?zoneid=3&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ab7c532d' border='0' alt='' /></a></noscript></div>
+
+
+
+<!-- DPTV area -->
+<div id="dptv_container_right_side" class="append-bottom">
+	
+	<div class="top_border_header"><a href="/video/" title="Video" style="color: #FFFFFF;">Video</a></div>
+	
+	<div id="video_top" class="arial">
+		<div class="img_container append-bottom">
+			<a href="http://www.dontpaniconline.com/video/w-times-square-presents-humanjukebox" title="W NY Times Square Human Jukebox"><img src="/imageonthefly/resizew/280/media/dptv/screenshots/insiders/3e40b009aeb10897f703f9c13f990c7c.jpg" style="position: absolute; top: 0; left: 0; width: 280px;" alt="W NY Times Square Human Jukebox"></a>
+			<a href="http://www.dontpaniconline.com/video/w-times-square-presents-humanjukebox"><img src="/i/_layout/dptv_play.png" style="position: absolute; bottom: 10px; left: 10px;" alt=""></a>
+		</div>
+		<h2 class="dptv_header" style="margin-bottom: 12px;"><a href="http://www.dontpaniconline.com/video/w-times-square-presents-humanjukebox">W NY Times Square Human Jukebox</a></h2>
+		<div class="right size12" style="color: #FF0000;">26 Nov 2012</div>
+	</div>
+	
+			<ul class="video_list_right arial">
+					<li class="clearfix" onclick="javascript: window.location='http://www.dontpaniconline.com/video/w-london-human-jukebox'">
+				<div class="non-overflow img_container nobrake">
+					<img class="small_dptv_teaser_fp" src="/imageonthefly/centercrop/100/56/media/dptv/screenshots/original_files/e00d9440e77ae7e642b600a9d129eecf.jpg" alt="W London Human Jukebox">
+					<img src="/i/_layout/dptv_play_small.png" style="position: absolute; bottom: 5px; left: 5px;" alt="">
+				</div>
+				<div class="non-overflow nobrake" style="width: 146px;">
+					<h5><a href="http://www.dontpaniconline.com/video/w-london-human-jukebox" title="W London Human Jukebox">W London Human Jukebox</a></h5>
+				</div>
+			</li>
+					<li class="clearfix" onclick="javascript: window.location='http://www.dontpaniconline.com/video/asking-aung-san-suu-kyi-for-a-retweet'">
+				<div class="non-overflow img_container nobrake">
+					<img class="small_dptv_teaser_fp" src="/imageonthefly/centercrop/100/56/media/dptv/screenshots/original_files/ca61f163e29f94e92410aa625851108f.jpg" alt="ASKING Aung San Suu Kyi FOR A RETWEET">
+					<img src="/i/_layout/dptv_play_small.png" style="position: absolute; bottom: 5px; left: 5px;" alt="">
+				</div>
+				<div class="non-overflow nobrake" style="width: 146px;">
+					<h5><a href="http://www.dontpaniconline.com/video/asking-aung-san-suu-kyi-for-a-retweet" title="ASKING Aung San Suu Kyi FOR A RETWEET">ASKING Aung San Suu Kyi FOR A RETWEET</a></h5>
+				</div>
+			</li>
+				</ul>
+	 	 <div class="helvetica center"><b><a class="show_more" href="javascript: void();" id="show_more_dptv" title="Video">Show more</a></b></div>
+	 
+	 <script type="text/javascript">
+	 	var offset_dptv = 3; 	
+		$('#show_more_dptv').click(function() {
+			offset_dptv=offset_dptv+2;
+			if (offset_dptv<10) {
+				var loadurl = '/video/load_into_the_list/';
+				$("ul.video_list_right").append("<li><img src='/includes/js/jquery-tooltip/images/loader.gif' /></li>");
+				
+				$.post(loadurl, { 'rows': '2', 'offset': offset_dptv }, function(data) {
+					$('ul.video_list_right li:last-child').remove();
+					$('.video_list_right').append(data);
+				});
+			} else {
+				window.location = '/video';
+			}
+				
+		});
+	 </script>
+	 
+</div>
+
+<!-- Events area -->
+<div class="content_block append-bottom">
+	
+	<div class="top_border_header" style="border-top-color: #ffe745;"><a href="/events/" title="Events">Events</a></div>
+	
+	<div id="event_top" class="bottom-border-spacer">
+		<div class="non-overflow append-bottom" style="position: relative; width: 300px; height: 132px">
+			<a href="http://www.dontpaniconline.com/events/21702/the-raveonettes"><img src="/imageonthefly/centercrop/300/132/media/events/604x/c1f7bdf8ad9fb3c1a1e3dd63f4cdee15.jpeg" style="position: absolute; top: 0; left: 0; width: 300px; height: 132px;"></a>
+			<div class="badge_events_section">Music</div>
+		</div>
+		<h2 class="append-bottom"><a href="http://www.dontpaniconline.com/events/21702/the-raveonettes">The Raveonettes</a></h2>
+		
+		<div class="arial_12grey">
+			<b>Village Underground</b><br>
+			3 Dec<br>
+			
+			7pm		</div>
+	</div>
+	
+				<ul class="events_list_right">
+							<li class="clearfix bottom-border-spacer">
+					<div class="img_container non-overflow nobrake">
+						<a href="http://www.dontpaniconline.com/events/21684/deerhoof" title="Deerhoof @ The Garage"><img class="events_image" src="/imageonthefly/centercrop/125/80/media/events/604x/3e4e55d74aefe6b1fab925a7b7cf4f9e.jpeg" alt="Deerhoof @ The Garage"></a>
+						<div class="badge_events_section">Music</div>
+					</div>
+					<div class="arial non-overflow nobrake" style="width: 140px;">
+						<h5 style="line-height: 16px; margin-bottom: 6px;"><a href="http://www.dontpaniconline.com/events/21684/deerhoof" title="Deerhoof @ The Garage" style="color: #3d3d3d;"><b>Deerhoof</b></a></h5>
+						
+						<div class="size12" style="color: #3d3d3d; line-height: 1.35;">
+							<div>The Garage</div>
+							<div>4 Dec</div>
+							7:00 pm						</div>
+					</div>
+				</li>
+							<li class="clearfix bottom-border-spacer">
+					<div class="img_container non-overflow nobrake">
+						<a href="http://www.dontpaniconline.com/events/21736/james-blake" title="James Blake @ Conway Hall"><img class="events_image" src="/imageonthefly/centercrop/125/80/media/events/604x/84466d2c0f7c453a0b3184f7321d4a02.jpg" alt="James Blake @ Conway Hall"></a>
+						<div class="badge_events_section">Music</div>
+					</div>
+					<div class="arial non-overflow nobrake" style="width: 140px;">
+						<h5 style="line-height: 16px; margin-bottom: 6px;"><a href="http://www.dontpaniconline.com/events/21736/james-blake" title="James Blake @ Conway Hall" style="color: #3d3d3d;"><b>James Blake</b></a></h5>
+						
+						<div class="size12" style="color: #3d3d3d; line-height: 1.35;">
+							<div>Conway Hall</div>
+							<div>4 Dec</div>
+							7pm						</div>
+					</div>
+				</li>
+							<li class="clearfix bottom-border-spacer">
+					<div class="img_container non-overflow nobrake">
+						<a href="http://www.dontpaniconline.com/events/21781/ultraista" title="Ultraista @ Cable"><img class="events_image" src="/imageonthefly/centercrop/125/80/media/events/604x/cb9fb2c24d9966f989c381c8fb93da8e.jpeg" alt="Ultraista @ Cable"></a>
+						<div class="badge_events_section">Music</div>
+					</div>
+					<div class="arial non-overflow nobrake" style="width: 140px;">
+						<h5 style="line-height: 16px; margin-bottom: 6px;"><a href="http://www.dontpaniconline.com/events/21781/ultraista" title="Ultraista @ Cable" style="color: #3d3d3d;"><b>Ultraista</b></a></h5>
+						
+						<div class="size12" style="color: #3d3d3d; line-height: 1.35;">
+							<div>Cable</div>
+							<div>4 Dec</div>
+							7pm						</div>
+					</div>
+				</li>
+							<li class="clearfix bottom-border-spacer">
+					<div class="img_container non-overflow nobrake">
+						<a href="http://www.dontpaniconline.com/events/21753/five-broken-cameras" title="Five Broken Cameras @ Phoenix Cinema"><img class="events_image" src="/imageonthefly/centercrop/125/80/media/events/604x/7d8df75d3fa8a28cd752d35c41f484e4.jpeg" alt="Five Broken Cameras @ Phoenix Cinema"></a>
+						<div class="badge_events_section">Film</div>
+					</div>
+					<div class="arial non-overflow nobrake" style="width: 140px;">
+						<h5 style="line-height: 16px; margin-bottom: 6px;"><a href="http://www.dontpaniconline.com/events/21753/five-broken-cameras" title="Five Broken Cameras @ Phoenix Cinema" style="color: #3d3d3d;"><b>Five Broken Cameras</b></a></h5>
+						
+						<div class="size12" style="color: #3d3d3d; line-height: 1.35;">
+							<div>Phoenix Cinema</div>
+							<div>4 Dec</div>
+							6.30pm						</div>
+					</div>
+				</li>
+							<li class="clearfix bottom-border-spacer">
+					<div class="img_container non-overflow nobrake">
+						<a href="http://www.dontpaniconline.com/events/21680/unexpected-pleasures" title="Unexpected Pleasures @ Design Museum  "><img class="events_image" src="/imageonthefly/centercrop/125/80/media/events/604x/164d82e7e31126be138459d85f3921d8.jpg" alt="Unexpected Pleasures @ Design Museum  "></a>
+						<div class="badge_events_section">Arts</div>
+					</div>
+					<div class="arial non-overflow nobrake" style="width: 140px;">
+						<h5 style="line-height: 16px; margin-bottom: 6px;"><a href="http://www.dontpaniconline.com/events/21680/unexpected-pleasures" title="Unexpected Pleasures @ Design Museum  " style="color: #3d3d3d;"><b>Unexpected Pleasures</b></a></h5>
+						
+						<div class="size12" style="color: #3d3d3d; line-height: 1.35;">
+							<div>Design Museum  </div>
+							<div>5 Dec - 3 Mar</div>
+													</div>
+					</div>
+				</li>
+							<li class="clearfix bottom-border-spacer">
+					<div class="img_container non-overflow nobrake">
+						<a href="http://www.dontpaniconline.com/events/21750/new-dream-machine" title="New Dream Machine @ Parasol unit"><img class="events_image" src="/imageonthefly/centercrop/125/80/media/events/604x/320ec9f6dc98256b702a094747f0bfaf.jpeg" alt="New Dream Machine @ Parasol unit"></a>
+						<div class="badge_events_section">Arts</div>
+					</div>
+					<div class="arial non-overflow nobrake" style="width: 140px;">
+						<h5 style="line-height: 16px; margin-bottom: 6px;"><a href="http://www.dontpaniconline.com/events/21750/new-dream-machine" title="New Dream Machine @ Parasol unit" style="color: #3d3d3d;"><b>New Dream Machine</b></a></h5>
+						
+						<div class="size12" style="color: #3d3d3d; line-height: 1.35;">
+							<div>Parasol unit</div>
+							<div>5 Dec - 17 Feb</div>
+							Monday by prior arrangement. Tuesday – Saturday, 10 a.m. – 6 p.m. Sunday, 12 – 5 p.m.
+Christmas closure: 22 December 2012 – 1 January 2013 (inclusive)						</div>
+					</div>
+				</li>
+						</ul>
+	 	 
+	 	<div class="helvetica center"><b><a class="show_more" href="javascript: void();" id="show_more_events" title="Events">Show more</a></b></div>
+	 	
+	 	<script type="text/javascript">
+	 	var offset_events = 7; 	
+		$('#show_more_events').click(function() {
+			offset_events=offset_events+2;
+			if (offset_events<15) {
+				var loadurl = '/events/load_into_the_list/';
+				$("ul.events_list_right").append("<li><img src='/includes/js/jquery-tooltip/images/loader.gif' /></li>");
+
+				$.post(loadurl, { 'rows': '2', 'offset': offset_events, 'fid': '1', 'active_city': 'London' }, function(data) {
+					$('ul.events_list_right li:last-child').remove();
+					$('.events_list_right').append(data);
+				});
+			} else {
+				window.location = '/events/London';
+			}
+
+		});
+	</script>
+</div>
+
+<div id="photos_and_scyscraper" class="clearfix append-bottom">
+	<div class="nobrake" style="width: 132px; margin-right: 8px;">	
+		<div class="content_block" style="height: 600px;">
+			<div class="top_border_header" style="border-top-color: #09c480;"><a href="/pack/" title="Don't Panic Pack">Pack</a></div>
+			<a href="/pack" title=""><img class="block" style="margin-bottom: 12px; width: 106px; height: 100px;" src="/media/mpack/photos/106x100/923b79951e5ff468e9ffcad893f14f4a.JPG" alt=""></a><a href="/pack" title=""><img class="block" style="margin-bottom: 12px; width: 106px; height: 100px;" src="/media/mpack/photos/106x100/06d40d68faf7cf973e1894838b77e4fb.JPG" alt=""></a><a href="/pack" title=""><img class="block" style="margin-bottom: 12px; width: 106px; height: 100px;" src="/media/mpack/photos/106x100/5707da2a46d42839c1f174fbce87d37b.JPG" alt=""></a><a href="/pack" title=""><img class="block" style="margin-bottom: 12px; width: 106px; height: 100px;" src="/media/mpack/photos/106x100/cf0d7ef4852e873a40d5be58d6c1fa05.JPG" alt=""></a><a href="/pack" title=""><img class="block" style="margin-bottom: 0px; width: 106px; height: 100px;" src="/media/mpack/photos/106x100/9c806961296a2e496a39e054795fc4f5.JPG" alt=""></a>		</div>
+	</div>
+	<div class="nobrake" style="width: 186px;">
+		<div class="content_block" style="height: 600px;">
+			<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.dontpanicmedia.com/www/delivery/ajs.php':'http://ads.dontpanicmedia.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=2");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://ads.dontpanicmedia.com/www/delivery/ajs.php?zoneid=2&amp;cb=50635649923&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20121203160504id_/http%253A//www.dontpaniconline.com/user_actions/privacy"></script><noscript><a href='http://ads.dontpanicmedia.com/www/delivery/ck.php?n=a9f85edd&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.dontpanicmedia.com/www/delivery/avw.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a9f85edd' border='0' alt='' /></a></noscript>
+		</div>
+	</div>
+</div>
+
+
+<div id="latest_updates" class="content_block append-bottom">
+
+	<div class="latest_updates_header"><a href="/activity/" title="Don't Panic activity feed">Latest Updates</a></div>
+
+			<div class="clearfix append-bottom">
+				<div class="nobrake" style="margin-right: 6px;"><a href="javascript: void();" class="btn_bg" id="opener_most_viewed">Most viewed</a></div>
+				<div class="nobrake"><a href="javascript: void();" class="btn_bg" id="opener_activity_entries">Community</a></div>
+			</div>
+
+				<div id="most_viewed" class="bottom-border-spacer">
+										<ul class="latest_updates_most_viewed">
+												    <li class="clearfix" style=" margin-bottom: 4px;">
+						    	<div style="width: 125px" class="nobrake append-right"><a href="http://www.dontpaniconline.com/video/w-london-human-jukebox" title="W London Human Jukebox"><img src="/imageonthefly/centercrop/125/50/media/dptv/screenshots/194x100/e00d9440e77ae7e642b600a9d129eecf.jpg" alt="W London Human Jukebox" style="width: 125px;"></a></div>
+						    	<div style="width: 150px" class="nobrake">
+						    		<div class="append-bottom" style="line-height: 1.2;"><a href="http://www.dontpaniconline.com/video/w-london-human-jukebox" title="W London Human Jukebox" class="top_article"><b>W London Human Jukebox</b></a></div>
+						    		<div class="views_bg"><span style="color: #424242;">8535</span> <span class="arial size12" style="color: #656565;">views</span></div>
+						    	</div>
+						    </li>
+						 						    <li class="clearfix" style=" margin-bottom: 4px;">
+						    	<div style="width: 125px" class="nobrake append-right"><a href="http://www.dontpaniconline.com/magazine/arts/impersonators" title="Impersonators"><img src="/imageonthefly/centercrop/125/50/media/magazine/220x132/631855f0507b64c692e5b08d320a0c82.jpg" alt="Impersonators" style="width: 125px;"></a></div>
+						    	<div style="width: 150px" class="nobrake">
+						    		<div class="append-bottom" style="line-height: 1.2;"><a href="http://www.dontpaniconline.com/magazine/arts/impersonators" title="Impersonators" class="top_article"><b>Impersonators</b></a></div>
+						    		<div class="views_bg"><span style="color: #424242;">6010</span> <span class="arial size12" style="color: #656565;">views</span></div>
+						    	</div>
+						    </li>
+						 						    <li class="clearfix" style=" margin-bottom: 4px;">
+						    	<div style="width: 125px" class="nobrake append-right"><a href="http://www.dontpaniconline.com/video/w-times-square-presents-humanjukebox" title="W NY Times Square Human Jukebox"><img src="/imageonthefly/centercrop/125/50/media/dptv/screenshots/194x100/3e40b009aeb10897f703f9c13f990c7c.jpg" alt="W NY Times Square Human Jukebox" style="width: 125px;"></a></div>
+						    	<div style="width: 150px" class="nobrake">
+						    		<div class="append-bottom" style="line-height: 1.2;"><a href="http://www.dontpaniconline.com/video/w-times-square-presents-humanjukebox" title="W NY Times Square Human Jukebox" class="top_article"><b>W NY Times Square Human Jukebox</b></a></div>
+						    		<div class="views_bg"><span style="color: #424242;">5485</span> <span class="arial size12" style="color: #656565;">views</span></div>
+						    	</div>
+						    </li>
+						 						    <li class="clearfix" style=" margin-bottom: 4px;">
+						    	<div style="width: 125px" class="nobrake append-right"><a href="http://www.dontpaniconline.com/video/scandal-theres-a-toxic-plot-in-the-conservative-party" title="SCANDAL: there's a toxic plot in the Conservative party"><img src="/imageonthefly/centercrop/125/50/media/dptv/screenshots/194x100/18086840f0ff2928ef5c12c7c0a56f74.jpg" alt="SCANDAL: there's a toxic plot in the Conservative party" style="width: 125px;"></a></div>
+						    	<div style="width: 150px" class="nobrake">
+						    		<div class="append-bottom" style="line-height: 1.2;"><a href="http://www.dontpaniconline.com/video/scandal-theres-a-toxic-plot-in-the-conservative-party" title="SCANDAL: there's a toxic plot in the Conservative party" class="top_article"><b>SCANDAL: there's a toxic plot in the Conservative party</b></a></div>
+						    		<div class="views_bg"><span style="color: #424242;">4220</span> <span class="arial size12" style="color: #656565;">views</span></div>
+						    	</div>
+						    </li>
+						 						    <li class="clearfix" style=" margin-bottom: 4px;">
+						    	<div style="width: 125px" class="nobrake append-right"><a href="http://www.dontpaniconline.com/magazine/music/best-art-vinyl-2012" title="Best Art Vinyl"><img src="/imageonthefly/centercrop/125/50/media/magazine/220x132/db4351380851931791987c72f187002a.jpg" alt="Best Art Vinyl" style="width: 125px;"></a></div>
+						    	<div style="width: 150px" class="nobrake">
+						    		<div class="append-bottom" style="line-height: 1.2;"><a href="http://www.dontpaniconline.com/magazine/music/best-art-vinyl-2012" title="Best Art Vinyl" class="top_article"><b>Best Art Vinyl</b></a></div>
+						    		<div class="views_bg"><span style="color: #424242;">3225</span> <span class="arial size12" style="color: #656565;">views</span></div>
+						    	</div>
+						    </li>
+						 						    <li class="clearfix" style=" margin-bottom: 4px;">
+						    	<div style="width: 125px" class="nobrake append-right"><a href="http://www.dontpaniconline.com/magazine/radar/a-boring-conference" title="Boring Conference 2012"><img src="/imageonthefly/centercrop/125/50/media/magazine/220x132/img-142891-1353948620.jpg" alt="Boring Conference 2012" style="width: 125px;"></a></div>
+						    	<div style="width: 150px" class="nobrake">
+						    		<div class="append-bottom" style="line-height: 1.2;"><a href="http://www.dontpaniconline.com/magazine/radar/a-boring-conference" title="Boring Conference 2012" class="top_article"><b>Boring Conference 2012</b></a></div>
+						    		<div class="views_bg"><span style="color: #424242;">2255</span> <span class="arial size12" style="color: #656565;">views</span></div>
+						    	</div>
+						    </li>
+						 						    <li class="clearfix" style=" margin-bottom: 4px;">
+						    	<div style="width: 125px" class="nobrake append-right"><a href="http://www.dontpaniconline.com/video/a-billion-jokes-volume-1" title="A Billion Jokes (Volume 1)"><img src="/imageonthefly/centercrop/125/50/media/dptv/screenshots/194x100/8c1b2c29cf0554d40a99658e6319dcf8.jpg" alt="A Billion Jokes (Volume 1)" style="width: 125px;"></a></div>
+						    	<div style="width: 150px" class="nobrake">
+						    		<div class="append-bottom" style="line-height: 1.2;"><a href="http://www.dontpaniconline.com/video/a-billion-jokes-volume-1" title="A Billion Jokes (Volume 1)" class="top_article"><b>A Billion Jokes (Volume 1)</b></a></div>
+						    		<div class="views_bg"><span style="color: #424242;">1225</span> <span class="arial size12" style="color: #656565;">views</span></div>
+						    	</div>
+						    </li>
+						 						    <li class="clearfix" style=" margin-bottom: 4px;">
+						    	<div style="width: 125px" class="nobrake append-right"><a href="http://www.dontpaniconline.com/video/asking-aung-san-suu-kyi-for-a-retweet" title="ASKING Aung San Suu Kyi FOR A RETWEET"><img src="/imageonthefly/centercrop/125/50/media/dptv/screenshots/194x100/ca61f163e29f94e92410aa625851108f.jpg" alt="ASKING Aung San Suu Kyi FOR A RETWEET" style="width: 125px;"></a></div>
+						    	<div style="width: 150px" class="nobrake">
+						    		<div class="append-bottom" style="line-height: 1.2;"><a href="http://www.dontpaniconline.com/video/asking-aung-san-suu-kyi-for-a-retweet" title="ASKING Aung San Suu Kyi FOR A RETWEET" class="top_article"><b>ASKING Aung San Suu Kyi FOR A RETWEET</b></a></div>
+						    		<div class="views_bg"><span style="color: #424242;">780</span> <span class="arial size12" style="color: #656565;">views</span></div>
+						    	</div>
+						    </li>
+						 						    <li class="clearfix" style=" margin-bottom: 4px;">
+						    	<div style="width: 125px" class="nobrake append-right"><a href="http://www.dontpaniconline.com/magazine/film/chasing-ice" title="Chasing Ice"><img src="/imageonthefly/centercrop/125/50/media/magazine/220x132/7db403f1ddc69bc98aa690bff7141a35.jpg" alt="Chasing Ice" style="width: 125px;"></a></div>
+						    	<div style="width: 150px" class="nobrake">
+						    		<div class="append-bottom" style="line-height: 1.2;"><a href="http://www.dontpaniconline.com/magazine/film/chasing-ice" title="Chasing Ice" class="top_article"><b>Chasing Ice</b></a></div>
+						    		<div class="views_bg"><span style="color: #424242;">755</span> <span class="arial size12" style="color: #656565;">views</span></div>
+						    	</div>
+						    </li>
+						 						    <li class="clearfix">
+						    	<div style="width: 125px" class="nobrake append-right"><a href="http://www.dontpaniconline.com/magazine/music/the-human-jukebox" title="The Human Jukebox"><img src="/imageonthefly/centercrop/125/50/media/magazine/220x132/8c77ac2ff865ab5ce76c5be9b0e57439.jpg" alt="The Human Jukebox" style="width: 125px;"></a></div>
+						    	<div style="width: 150px" class="nobrake">
+						    		<div class="append-bottom" style="line-height: 1.2;"><a href="http://www.dontpaniconline.com/magazine/music/the-human-jukebox" title="The Human Jukebox" class="top_article"><b>The Human Jukebox</b></a></div>
+						    		<div class="views_bg"><span style="color: #424242;">665</span> <span class="arial size12" style="color: #656565;">views</span></div>
+						    	</div>
+						    </li>
+						 					</ul>
+									</div>
+				
+				<div id="activity_entries" class="bottom-border-spacer" style="display: none;">
+					<ul class="latest_updates_community">
+												    <li class="clearfix" style="margin-bottom: 4px;">
+						    	<div class="nobrake" style="width: 200px;"><a href="/users/FactoryStudios">FactoryStudios</a> joined <a href="http://www.dontpaniconline.com/">Don't Panic</a></div>
+						    	<div class="nobrake right" style="width: 80px;">1 hour ago</div>
+						    </li>
+						 						    <li class="clearfix" style="margin-bottom: 4px;">
+						    	<div class="nobrake" style="width: 200px;"><a href="/users/renegadia">renegadia</a> took part in a <a href="http://www.dontpaniconline.com/win/858">WIN competition</a></div>
+						    	<div class="nobrake right" style="width: 80px;">1 hour ago</div>
+						    </li>
+						 						    <li class="clearfix" style="margin-bottom: 4px;">
+						    	<div class="nobrake" style="width: 200px;"><a href="/users/mandincardiff">mandincardiff</a> took part in a <a href="http://www.dontpaniconline.com/win/861">WIN competition</a></div>
+						    	<div class="nobrake right" style="width: 80px;">1 hour ago</div>
+						    </li>
+						 						    <li class="clearfix" style="margin-bottom: 4px;">
+						    	<div class="nobrake" style="width: 200px;"><a href="/users/mandincardiff">mandincardiff</a> took part in a <a href="http://www.dontpaniconline.com/win/856">WIN competition</a></div>
+						    	<div class="nobrake right" style="width: 80px;">1 hour ago</div>
+						    </li>
+						 						    <li class="clearfix" style="margin-bottom: 4px;">
+						    	<div class="nobrake" style="width: 200px;"><a href="/users/mandincardiff">mandincardiff</a> took part in a <a href="http://www.dontpaniconline.com/win/858">WIN competition</a></div>
+						    	<div class="nobrake right" style="width: 80px;">1 hour ago</div>
+						    </li>
+						 						    <li class="clearfix" style="margin-bottom: 4px;">
+						    	<div class="nobrake" style="width: 200px;"><a href="/users/todays">todays</a> took part in a <a href="http://www.dontpaniconline.com/win/861">WIN competition</a></div>
+						    	<div class="nobrake right" style="width: 80px;">1 hour ago</div>
+						    </li>
+						 						    <li class="clearfix" style="margin-bottom: 4px;">
+						    	<div class="nobrake" style="width: 200px;"><a href="/users/bethesda84">bethesda84</a> took part in a <a href="http://www.dontpaniconline.com/win/860">WIN competition</a></div>
+						    	<div class="nobrake right" style="width: 80px;">1 hour ago</div>
+						    </li>
+						 						    <li class="clearfix" style="margin-bottom: 4px;">
+						    	<div class="nobrake" style="width: 200px;"><a href="/users/crapido">crapido</a> took part in a <a href="http://www.dontpaniconline.com/win/861">WIN competition</a></div>
+						    	<div class="nobrake right" style="width: 80px;">1 hour ago</div>
+						    </li>
+						 					</ul>
+					<div class="arial size12 " style="margin: 6px 0 0 10px;">New members today: <b>3</b></div>
+			    </div>
+				
+		<div class="helvetica center"><b><a class="show_more" href="/activity" title="Don't Panic activity feed">More updates</a></b></div>
+</div>
+
+<script type="text/javascript">
+	$('#opener_most_viewed').click(function() {
+		$('#most_viewed').show();
+		$('#activity_entries').hide();
+	});
+
+	$('#opener_activity_entries').click(function() {
+		$('#most_viewed').hide();
+		$('#activity_entries').show();
+	});
+</script>
+
+<div id="latest_poster" class="content_block"></div>
+
+</div>
+
+<!-- The end of right side section --><!-- Footer section -->
+
+<div class="clear">&nbsp;</div>
+
+<div id="footer" class="clearfix">
+
+	<div class="nobrake" style="width: 155px;">
+		<a href="http://www.dontpaniconline.com/" title="Don't Panic"><img id="footer_logo" src="/i/_layout/dp_logo_footer.png" alt="Don't Panic"></a>
+		<div class="arial append-bottom" style="font-size: 11px; color: #5f5f5f;">© Don't Panic 2012</div>
+		
+		<a id="adChoicesLogo" href="http://quantcast.com/adchoices-pub?pub=atvv7YTnE_mQ7sB16-6JSg" target="blank" style="display:block; width:75px; height:16px; line-height: 16px; text-align:left; background: transparent url('https://aboutads.quantcast.com?icon=atvv7YTnE_mQ7sB16-6JSg') right 0 no-repeat; color:#5f5f5f; text-decoration:none; font-size:11px; font-family:arial,helvetica,sans-serif;">AdChoices</a>
+	</div>
+	<div class="nobrake" style="margin-right: 65px;">
+		<select name="int_franchises" id="franchises_www" onchange="javascript: jump_to_url('franchises_www');">
+<option value="http://www.dontpaniconline.com" selected="selected">United Kingdom</option>
+<option value="http://www.dontpaniconline.hu">Hungary</option>
+<option value="http://www.dontpaniconline.es">Spain</option>
+<option value="http://www.dontpaniconline.com.br">Brazil</option>
+<option value="http://www.dontpaniconline.gr">Greece</option>
+<option value="http://www.dontpaniconline.com.pt">Portugal</option>
+<option value="http://www.dontpaniconline.pl">Poland</option>
+</select>	</div>
+	<div class="nobrake" style="width: 202px">
+	    <a class="dimmed" href="http://www.dontpaniconline.com/magazine/authors">Authors</a>
+		<a class="dimmed" href="http://www.dontpaniconline.com/about-us" title="About Us">About Us</a>
+<a class="dimmed" href="/contact-us" title="Contact Us">Contact Us</a>
+<a class="dimmed" href="/jobs" title="Jobs">Jobs</a>
+<a class="dimmed" href="/media-information" title="Media information" target="_blank">Media Information</a>
+	</div>
+
+	<div id="social_footer" class="nobrake">
+		<a class="dimmed" href="http://www.facebook.com/dontpanic" style="background-image: url('/i/_layout/social_icons/social_icons_fb_footer.png');">Dont Panic on facebook</a>
+		<a class="dimmed" href="http://www.dontpaniconline.com/magazine/rss" style="background-image: url('/i/_layout/social_icons/social-icons_rss_footer.png');">RSS feed</a>
+		<a class="dimmed" href="http://twitter.com/dontpanic" style="background-image: url('/i/_layout/social_icons/social-icons_twitter_footer.png');">Follow us on Twitter</a>
+	</div>
+
+</div>
+
+</div> <!-- End of main container (966px) -->
+
+
+<!-- Quantcast tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+	
+	(function() {
+		var elem = document.createElement('script');
+		elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+		elem.async = true;
+		elem.type = "text/javascript";
+		var scpt = document.getElementsByTagName('script')[0];
+		scpt.parentNode.insertBefore(elem, scpt);
+	})();
+	
+	_qevents.push({
+	qacct:"p-70RhgKmunzjBs",
+	labels:"Arts & Design,Fashion & Style,Movies,Music,Urban Lifestyle"
+	});
+	</script>
+	
+<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-70RhgKmunzjBs.gif?labels=Arts%20%26%20Design,Fashion%20%26%20Style,Movies,Music,Urban%20Lifestyle" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+
+<!-- end Quantcast section -->
+
+<script type="text/javascript">
+	  $(".menu_item").click(function() {
+		  if ($(this).find('a').length>0) {
+		  	window.location=$(this).find('a').attr('href');
+		  }
+	  });
+
+	  if ($("img.load_when_in_view").length>0) {
+		  $("img.load_when_in_view").lazyload({ 
+			    effect : "fadeIn"
+		  });
+	  }
+
+	  if ($(".editorial").length>0) {
+		  $(".editorial p").last().css('margin-bottom', '0px');
+	  }
+
+	  if ($(".editorial_design").length>0) {
+		  $(".editorial_design p").last().css('margin-bottom', '0px');
+	  }
+
+	  if ($("#password_reminder_dialog").length>0) {
+		  $("#password_reminder_dialog").dialog({
+				autoOpen: false,
+				height: 300,
+				width: 350,
+				modal: true,
+				resizable: false
+		  });
+	  }
+
+	  if ($("#city_selection").length>0) {
+		  $("#city_selection").dialog({
+					autoOpen: false,
+					height: 380,
+					width: 445,
+					modal: true,
+					resizable: false
+		  });
+	  }
+
+	  if ($("#subscribe_dialog").length>0) {
+		  $("#subscribe_dialog").dialog({
+					autoOpen: false,
+					height: 400,
+					width: 350,
+					modal: true,
+					resizable: false
+		  });
+	  }
+
+	  if ($('#logging_in_username').length>0) {
+			$('#logging_in_username, #logging_in_password').focus(function() {
+				if ($('#logging_in_username').val()=='Email') {
+					$('#logging_in_username, #logging_in_password').val('');
+				} else {
+					if ($('#logging_in_password').val()=='password') {
+						$('#logging_in_password').val('');
+					}
+				}
+			});
+
+			$('#logging_in_username, #logging_in_password').focusout(function() {
+				if ($('#logging_in_username').val()=='' && $('#logging_in_password').val()=='') {
+					$('#logging_in_username').val('Email');
+					$('#logging_in_password').val('password');
+				} else {
+					if ($('#logging_in_password').val()=='') {
+						$('#logging_in_password').val('password');
+					}
+				}
+			});
+	  }
+	  
+	  $(".dimmed").css({ opacity: 0.60 });
+      $(".dimmed").hover(function() {
+		    $(this).css({ opacity: 1 });  
+	  }, function() {
+			$(this).css({ opacity: 0.60 });
+	  });
+
+      $(".head_nav_mag").hover(function() {
+    	  $(this).css('border-top-color', '#1fa9f3'); 
+	  }, function() {
+		  $(this).css('border-top-color', '#cdeaf9');
+	  });
+
+      $(".head_nav_dptv").hover(function() {
+    	  $(this).css('border-top-color', '#ff0000'); 
+	  }, function() {
+		  $(this).css('border-top-color', '#fdb2b3');
+	  });
+
+      $(".head_nav_pack").hover(function() {
+    	  $(this).css('border-top-color', '#09c480'); 
+	  }, function() {
+		  $(this).css('border-top-color', '#b8edd9');
+	  });
+
+      $(".head_nav_events").hover(function() {
+    	  $(this).css('border-top-color', '#ffde00'); 
+	  }, function() {
+		  $(this).css('border-top-color', '#fff4b5');
+	  });
+
+      $(".head_nav_design").hover(function() {
+    	  $(this).css('border-top-color', '#9f63ce'); 
+	  }, function() {
+		  $(this).css('border-top-color', '#e1d1ef');
+	  });
+
+      $(".head_nav_win").hover(function() {
+    	  $(this).css('border-top-color', '#5a70a8'); 
+	  }, function() {
+		  $(this).css('border-top-color', '#cdd4e4');
+	  });
+
+      $(".head_nav_posters").hover(function() {
+    	  $(this).css('border-top-color', '#fa932e'); 
+	  }, function() {
+		  $(this).css('border-top-color', '#fcdec1');
+	  });
+
+	  /* Search field operations */
+	  var search_fields = {
+			    "google_search": {
+			        val: "Site search",
+			        search_url: '/search/%key'
+			    },
+			    "mag_search": {
+			    	val: "Search magazine",
+			    	search_url: '/magazine/search/%key'
+			    },
+			    "dptv_search": {
+			    	val: "Search videos",
+			    	search_url: '/video/search/%key'
+			    },
+			    "poster_search": {
+					val: "Search posters",
+					search_url: '/shop/posters/search/%key'
+			    }
+	  };                                    	  
+
+	  $("#google_search, #mag_search, #dptv_search, #poster_search").focus(function() {
+		    var field_id = $(this).attr("id");
+			if ($(this).val()==search_fields[field_id].val) {
+				$(this).val('');
+			}
+	  });
+
+	  $("#google_search, #mag_search, #dptv_search, #poster_search").focusout(function() {
+		    if ($(this).val()=='') {
+		    	var field_id = $(this).attr("id");
+		    	$(this).val(search_fields[field_id].val);
+			}
+	  });
+
+	  $("#google_search, #mag_search, #dptv_search, #poster_search").keyup(function(e) {
+			if (e.keyCode == 13) {
+				var field_id = $(this).attr("id");
+				if ($("#"+field_id).val().length>0) {
+					var key = $("#"+field_id).val();
+					var base_url = search_fields[field_id].search_url;
+					window.location=base_url.replace("%key", key);
+				}
+			}
+	  });
+	  
+	  if ($("#skin_top").length>0) {
+    	  $("#skin_top").click(function() {
+    	      var link = $("#skin_top").attr('link');
+    	      window.location=link;
+    	  });
+	  }
+</script>
+
+
+
+
+<script type="text/javascript">
+ 
+  $("#cookie-notification").click(function() {  
+    $.ajax({  
+      type: "POST",  
+      url: "http://www.dontpaniconline.com/user_actions/cookie",
+	  data: $("input#want_cookie").val(),    
+      success: function() {  
+  		$('#cookie-notification').hide();
+      }  
+    });  
+    return false; 
+  });  
+</script>
+<!-- end of document --></body></html>
