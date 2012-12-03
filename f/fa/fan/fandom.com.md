@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fandom.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602185856id_/http%3A//www.fandom.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandom.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203064200id_/http%3A//www.fandom.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fandom
 
