@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the luxola.com privacy policy that was archived on 2012-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120428085437id_/http%3A//luxola.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxola.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203092933id_/http%3A//www.luxola.com/privacy) for the most accurate reproduction.*
 
-# Luxola - Privacy Policy
+# Luxola - Luxola - Privacy Policy
 
 Luxola is committed to protecting the privacy of visitors to this site (the "Site"). This Privacy Policy applies to the Site. This Privacy Policy does not apply to other web sites to which we link. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
 
@@ -30,12 +30,9 @@ We use non-personally identifiable information in the aggregate, so that we can 
 
 **How We Protect Your Information**
 
-We are committed to protecting the information we receive from you. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved. To increase your security, we do not collect your credit card information in any form. Credit card numbers are collected by PayPal and eNets on our behalf and their privacy policies can be viewed at
+We are committed to protecting the information we receive from you. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved. To increase your security, we do not collect your credit card information in any form. Credit card numbers are collected by PayPal our behalf and their privacy policies can be viewed at
 
   * Paypal:[Privacy Policy](https://cms.paypal.com/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US)
-
-  * ENETS: [Privacy Policy](https://admin.enets.sg/enets2_admin/navpanel/privacy.vm)
-
 
 
 
