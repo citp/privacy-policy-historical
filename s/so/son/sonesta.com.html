@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sonesta.com privacy policy that was archived on 2012-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120603101544id_/http%3A//www.sonesta.com/Corporate/index.cfm%3Ffa%3Dmisc.PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sonesta.com privacy policy that was archived on 2012-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121203065643id_/http%3A//www.sonesta.com/Corporate/index.cfm%3Ffa%3Dmisc.PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "//www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="//www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -29,7 +29,9 @@
 	
 		
 
-<link href="http://cdn.sonesta.com/includes/css/screen.css?cb=20110209" media="screen" rel="stylesheet" type="text/css">
+
+<link href="http://www.sonesta.com/Boston/includes/css/screen.css?cb=201211301530" media="screen" rel="stylesheet" type="text/css">
+
 
 <link href="http://cdn.sonesta.com/includes/css/galleryPlayer.css?cb=20101025" media="screen" rel="stylesheet" type="text/css">
 
@@ -43,13 +45,18 @@
 	<link rel="Stylesheet" href="http://cdn.sonesta.com/includes/css/ieFix.css?cb=20110209" type="text/css" />
 <![endif]-->
 
-<link href="http://cdn.sonesta.com/includes/css/nivo-slider.css?cb=20101025" media="screen" rel="stylesheet" type="text/css">
+<link href="http://cdn.sonesta.com/includes/css/nivo-slider.css?cb=201205161345" media="screen" rel="stylesheet" type="text/css">
 <link href="http://cdn.sonesta.com/includes/css/superfish.css?cb=20101216" media="screen" rel="stylesheet" type="text/css">
 <link href="http://cdn.sonesta.com/includes/css/uniform_default.css?cb=20101025" media="screen" rel="stylesheet" type="text/css">
+<link href="http://cdn.sonesta.com/includes/css/token-input.css?cb=201205171307" type="text/css" rel="stylesheet" media="screen">
 
 <link href="http://cdn.sonesta.com/includes/css/print.css?cb=20101025" media="print" rel="stylesheet" type="text/css">
 
+<link rel="stylesheet" href="http://www.sonesta.com/Boston/includes/css/jquery-ui.css?cb=201210091320" media="screen" type="text/css">
+
+
 <style>
+	.ui-autocomplete-loading { background: white url('http://cdn.sonesta.com/images/ui-anim_basic_16x16.gif') right center no-repeat; }
 	.navBtn {background-image:url('http://cdn.sonesta.com/images/website/btnBg.gif'); background-repeat:no-repeat; padding:4px 10px 0px 5px; height:24px; background-position:top right;}
 	.navLeft {background-image:url('http://cdn.sonesta.com/images/website/btnLeft.gif'); heigt:24px}
 	.floatLeft {float:left;}
@@ -81,19 +88,21 @@
 
 
 
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+
+	<script type="text/javascript" src="http://www.google.com/jsapi?key="></script>
+
+	<script type="text/javascript">
+		google.load("jquery", "1.7.1");
+		google.load("jqueryui", "1.8.1");
+	</script>
+
 	<script type="text/javascript" src="http://cdn.sonesta.com/includes/js/scriptaculous-js-1.8.3/lib/prototype.js?cb=20101025"></script>
 	<script type="text/javascript" src="http://cdn.sonesta.com/includes/js/scriptaculous-js-1.8.3/src/scriptaculous.js?cb=20101025"></script>
 	<script type="text/javascript" src="http://cdn.sonesta.com/includes/js/swfobject.js?cb=20101025"></script>
+	<script type="text/javascript" src="http://cdn.sonesta.com/includes/js/jQuery/jquery.tokeninput.js?cb=201205171307"></script>
 
  
-	
-	
-	    		<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-				<script type="text/javascript">
-			   		stLight.options({publisher:'05c412f2-5de3-45b0-b5b9-fa64fa4c7fac'});
-				</script>
-			
+
 	
 
     
@@ -142,7 +151,7 @@
 	.yui-calcontainer.withtitle {
 		padding-top:2em;
 		font-weight:bolder;
-		font-size:1.2em;
+		font-size:1.2em !important;;
 	}
 	.yui-calendar td.calcell {
 		padding:.4em .5em;
@@ -155,6 +164,7 @@
 		color:#83AFBF;
 		text-decoration:none;
 		font-weight:bolder;
+		margin-right: 0 !important;
 	}
 	
 	.yui-calendar .calheader {
@@ -164,7 +174,7 @@
 		padding-top:.5em;
 		padding-bottom:.5em;
 		font-weight:bolder;
-		font-size:1.2em;
+		font-size:1.2em !important;
 	}
 	.yui-calendar .calweekdaycell {
 		color:#666;
@@ -218,79 +228,64 @@
 			<input type="hidden" name="start" id="start" value="1">
 		 
 			<div>
-			
-			<select name="serviceId" id="serviceId" title="select a location">
-				<option value="0"> - select a location -</option>
+			<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/themes/base/jquery-ui.css">
+			<input type="hidden" name="serviceId" id="serviceId" value="6">	
 				
-						<option value="778">Royal Sonesta Harbor Court Baltimore</option>
-					
-						<option value="6">Royal Sonesta Hotel Boston</option>
-					
-						<option value="794">Sonesta ES Suites Burlington</option>
-					
-						<option value="764">Sonesta Resort Hilton Head Island</option>
-					
-						<option value="55">Sonesta Bayfront Hotel - Coconut Grove</option>
-					
-						<option value="9">Royal Sonesta Hotel - New Orleans</option>
-					
-						<option value="806">Sonesta ES Suites Orlando</option>
-					
-						<option value="773">Sonesta Hotel Philadelphia</option>
-					
-						<option value="643">Sonesta Hotel Calama</option>
-					
-						<option value="641">Sonesta Hotel Concepción</option>
-					
-						<option value="639">Sonesta Hotel Osorno</option>
-					
-						<option value="655">Sonesta Hotel Barranquilla</option>
-					
-						<option value="77">Sonesta Hotel Bogotá</option>
-					
-						<option value="762">Sonesta Hotel Cartagena</option>
-					
-						<option value="637">Sonesta Hotel Valledupar</option>
-					
-						<option value="760">Sonesta Hotel Guayaquil</option>
-					
-						<option value="13">Sonesta Hotel, Tower &amp; Casino - Cairo</option>
-					
-						<option value="19">Sonesta Pharaoh Beach Resort - Hurghada</option>
-					
-						<option value="14">Sonesta St. George Hotel - Luxor</option>
-					
-						<option value="500">Sonesta Cruise Collection - Nile River</option>
-					
-						<option value="758">Royal Sonesta Hotel &amp; Casino Panama</option>
-					
-						<option value="17">Sonesta Beach Resort &amp; Casino - Sharm El Sheikh</option>
-					
-						<option value="18">Sonesta Club - Sharm El Sheikh</option>
-					
-						<option value="649">Le Royale Sharm El SheikhSonesta Collection Luxury Resort</option>
-					
-						<option value="32">Sonesta Beach Resort - Taba</option>
-					
-						<option value="69">Sonesta Posadas Del Inca Arequipa</option>
-					
-						<option value="645">Sonesta Hotel - Cusco</option>
-					
-						<option value="22">Sonesta Posadas Del Inca - Cusco</option>
-					
-						<option value="25">Sonesta Posadas Del Inca - Lake Titicaca - Puno</option>
-					
-						<option value="26">Sonesta Hotel El Olivar - Lima</option>
-					
-						<option value="24">Sonesta Posadas Del Inca - Miraflores</option>
-					
-						<option value="27">Sonesta Posadas Del Inca - Sacred Valley - Yucay</option>
-					
-						<option value="72">Sonesta Great Bay Beach Resort &amp; Casino - Sint Maarten</option>
-					
-						<option value="5">Sonesta Maho Beach Resort &amp; Casino - Sint Maarten</option>
-					
-			</select>
+			<style>
+				.ui-autocomplete-loading { background: white url('../../Images/ui-anim_basic_16x16.gif') right center no-repeat; }
+			</style>
+			<script>
+				jQuery(document).ready(function () {
+					jQuery( "#service_autocomplete" ).autocomplete({
+						source: function( request, response ) {
+							jQuery.ajax({
+								url: "http://api.sonesta.com/Autocomplete/LocationByTags",
+								dataType: "jsonp",
+								data: {
+									term: request.term,
+									maxRows:10
+								},
+								success: function( data ) {							
+									response( jQuery.map( data, function( item ) {
+										return {
+											label: item.LABEL,
+											value: item.VALUE
+										}
+									}));
+								}
+							});
+						},
+						minLength: 3,
+						select: function( event, ui ) {
+							event.preventDefault();
+							if(ui.item.value != -1){
+								if(ui.item.value == 500){
+									window.location = "http://www.sonesta.com/NileCruises/index.cfm?fa=nilecruises.reservationStep1";					
+								}
+								else{
+									jQuery( "#serviceId" ).val(ui.item.value);
+									jQuery( "#service_autocomplete" ).val(ui.item.label);											
+								}
+
+							}
+						},
+						focus: function( event, ui ) {
+							event.preventDefault();
+							if(ui.item.value != -1){
+								jQuery( "#serviceId" ).val(ui.item.value);
+								jQuery( "#service_autocomplete" ).val(ui.item.label);
+							}
+						},
+						open: function() {
+							jQuery( this ).removeClass( "ui-corner-all" ).addClass( "ui-corner-top" );
+						},
+						close: function() {
+							jQuery( this ).removeClass( "ui-corner-top" ).addClass( "ui-corner-all" );
+						}
+					});
+				});
+			</script>
+			<input id="service_autocomplete" type="text" class="searchBG" placeholder="search for a destination" style="width: 220px; background: #FFF url(/images/search-icon.png) center right no-repeat; margin-top:10px;" value="">
 			</div>
 			
     	  <fieldset>
@@ -298,7 +293,7 @@
             <label>arriving</label>
             <input class="defaultText calendar" type="text" name="arrive" id="arriveDate" readonly="readonly" title="arriving">
 			<a href="javascript:void(0);" title="Calendar">
-				<img id="reserveArriveCalendarImage" class="calendar" src="http://cdn.sonesta.com/images/website/icon_calendar.png" alt="Calendar" width="16" height="16" style="cursor: pointer;">
+				<img id="reserveArriveCalendarImage" class="calendar" src="http://cdn.sonesta.com/images/website/icon_calendar.png" alt="calendar" width="16" height="16" style="cursor: pointer;">
 				<div id="reserveArriveCalendarContainer"></div>
 			</a>
            
@@ -311,13 +306,13 @@
             <label>departing</label>
             <input class="defaultText calendar" type="text" name="depart" id="departDate" readonly="readonly" title="departing">
 			<a href="javascript:void(0);" title="Calendar">
-				<img id="reserveDepartCalendarImage" class="calendar" src="http://cdn.sonesta.com/images/website/icon_calendar.png" alt="Calendar" width="16" height="16" style="cursor: pointer;">
+				<img id="reserveDepartCalendarImage" class="calendar" src="http://cdn.sonesta.com/images/website/icon_calendar.png" alt="calendar" width="16" height="16" style="cursor: pointer;">
 				<div id="reserveDepartCalendarContainer"></div>
 			</a>
                 
           </fieldset>
           
-          <fieldset>
+          <fieldset id="occupantFields">
             <label>adults <span>kids</span></label>
 			<select id="adult" name="adult" title="adults">
 				<option value="1">1</option>
@@ -349,7 +344,7 @@
           </fieldset>
 		
 		 <fieldset id="promoFields">
-			 <label>optional:</label> 
+			 <span style="display:block; margin-bottom: -2px;">optional</span>
            	 <input class="defaultRezText" type="text" value="promo code / password" name="promo" id="promo" style="float:none;" title="promo code / password">  
 			<label></label> 
 			  <input class="defaultRezText" type="text" value="group / meeting code" name="group" id="group" title="group / meeting code">
@@ -433,8 +428,8 @@
 			
 			var config = {};
 			for (var i in YahooCalendarConfig) { config[i] = YahooCalendarConfig[i] }
-			config.mindate = "06/03/2012";
-			config.maxdate = "06/03/2014";
+			config.mindate = "12/03/2012";
+			config.maxdate = "12/03/2014";
 			config.iframe = true;
 			
 			reserveArriveCalendar = new YAHOO.widget.Calendar("reserveArriveCalendar","reserveArriveCalendarContainer", config );
@@ -454,8 +449,8 @@
 			reserveArriveCalendar.selectEvent.subscribe(function(type, args, obj){reservationSelectEvent(reserveArriveCalendar,args,"arrive");}, reserveArriveCalendar, true); 
 			reserveDepartCalendar.selectEvent.subscribe(function(type, args, obj){reservationSelectEvent(reserveDepartCalendar,args,"depart");}, reserveDepartCalendar, true); 
 			
-			reserveArriveCalendar.select(new Date(2012, 5, 3));
-			reserveDepartCalendar.select(new Date(2012, 5, 4));		
+			reserveArriveCalendar.select(new Date(2012, 11, 3));
+			reserveDepartCalendar.select(new Date(2012, 11, 4));		
 			
 		}
 	);
@@ -506,7 +501,7 @@
 
 		<!-- logo -->
 		
-				<div id="logo-container"><a href="http://www.sonesta.com/Corporate/"><img src="http://cdn.sonesta.com/images/sonestaLogoNew/corporate/sonestaLogo.png?t=2012051523321" alt=""></a></div>
+				<div id="logo-container"><a href="http://www.sonesta.com/Corporate/"><img src="http://cdn.sonesta.com/images/sonestaLogoNew/corporate/sonestaLogo.png?t=201208211558" alt=""></a></div>
 		
 
       <!-- begin socia media module -->
@@ -606,6 +601,7 @@
         </li>
         <li><a href="http://www.sonesta.com/Corporate/index.cfm?fa=misc.sitemap" title="sitemap">sitemap</a></li>
       
+
   <li class="util-sl">
            <!-- begin sonesta locations flyout module -->
            <div id="util-sl-flyout-module">
@@ -614,36 +610,50 @@
              </a>
 
 
-
-             <!-- column 1 --> 
-             <div class="flyout-three-column">
-             <h3>North America</h3>
-
-             <span class="tan">United States</span>
-			<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=788&amp;region=united%20states">Andover</a><br>
-			<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=778&amp;region=united%20states">Baltimore</a><br>
-			<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=6&amp;region=united%20states">Boston (Cambridge)</a><br>
-			<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=794&amp;region=united%20states">Burlington</a><br>
-			<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=764&amp;region=united%20states">Hilton Head Island</a><br>
-			<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=55&amp;region=united%20states">Miami (Coconut Grove)</a><br>
-			<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=9&amp;region=united%20states">New Orleans</a><br>
-			<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=806&amp;region=united%20states">Orlando</a><br>
-			<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=773&amp;region=united%20states">Philadelphia</a><br>
-
-
-             
-
-             <span class="tan">Caribbean</span>
-             	<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=72&amp;region=st%2E%20maarten">St. Maarten (Great Bay)</a><br>
-             		<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=5&amp;region=st%2E%20maarten">St. Maarten (Maho Beach)</a><br>
-
-			  <div class="corporate-home">
-              	
-             		<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=63">Sonesta.com Home Page</a>
-				
-             </div>
-
-             </div>
+        <!-- column 1 -->
+        <div class="flyout-three-column"> 
+          <h3>North America</h3>
+          <div class="floatLeft" style="margin-right:15px;">
+		  <span class="tan" style="margin-top:0px;">United States</span> 
+			   <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=788&amp;region=united%20states">Andover, MA</a><br>
+			   <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=790&amp;region=united%20states">Atlanta, GA</a><br>
+			   <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=792&amp;region=united%20states">Auburn Hills, MI</a><br>
+          	   <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=778&amp;region=united%20states">Baltimore</a><br>
+               <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=6&amp;region=united%20states">Boston - Cambridge</a><br>
+			   <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=794&amp;region=united%20states">Burlington, MA</a><br>
+			   <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=796&amp;region=united%20states">Charlotte, NC</a><br>
+			   <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=798&amp;region=united%20states">Columbia, MD</a><br>
+			   <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=923&amp;region=united%20states">Dublin, OH</a><br>
+			   <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=920&amp;region=united%20states">Flagstaff, AZ</a><br>
+			   <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=764&amp;region=united%20states">Hilton Head Island</a><br>
+			   <span class="blue" style="margin-top: 0px;"><a href="http://english.sonesta.com/Houston" style="color: rgb(56, 117, 146) !important;">Houston</a></span><br>
+			   &nbsp;&nbsp;&nbsp;<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=770&amp;region=united%20states">Royal Sonesta</a><br>
+			   &nbsp;&nbsp;&nbsp;<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=800&amp;region=united%20states">Sonesta ES Suites</a><br>
+			   
+		 </div>
+		 
+		  <div class="floatLeft" style="margin-top:22px;">	
+		       <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=802&amp;region=united%20states">Malvern, PA</a><br>  
+			   <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=55&amp;region=united%20states">Miami - Coconut Grove</a><br>   
+			   <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=804&amp;region=united%20states">Myrtle Beach, SC</a><br> 
+               <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=9&amp;region=united%20states">New Orleans</a><br>
+               <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=806&amp;region=united%20states">Orlando, FL</a><br>
+			   <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=765&amp;region=united%20states">Parsippany, NJ</a><br>
+			   <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=773&amp;region=united%20states">Philadelphia</a><br>
+			   <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=766&amp;region=united%20states">Princeton, NJ</a><br>
+			   <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=767&amp;region=united%20states">Schaumburg, IL</a><br>
+			   <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=768&amp;region=united%20states">Somerset, NJ</a><br>
+			   <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=769&amp;region=united%20states">St. Louis, MO</a><br>
+			   <span class="blue" style="margin-top: 0px;"><a href="http://english.sonesta.com/stmaarten/" style="color: rgb(56, 117, 146) !important;">St. Maarten</a></span><br>
+			   &nbsp;&nbsp;&nbsp;<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=72&amp;region=st%2E%20maarten">Great Bay</a><br>
+               &nbsp;&nbsp;&nbsp;<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=5&amp;region=st%2E%20maarten">Maho Beach</a><br>
+			   
+        </div>
+		<div class="clearLeft"></div>
+		
+		<!--<span class="tan" style="margin-top:10px;">Caribbean</span>-->
+               
+		</div>
 			 
              <!-- column 2 -->
              <div class="flyout-three-column">
@@ -675,6 +685,13 @@
              			<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=27&amp;region=peru">Yucay (Sacred Valley)</a><br>
 			</div>
 			<div class="clearLeft"></div>
+			
+			<div class="corporate-home">
+              	
+             		<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=63">Sonesta.com Home Page</a>
+				
+             </div>
+			
              </div>
 
              <!-- column 3 -->
@@ -730,6 +747,24 @@
 
 	  </div>
 	 <!-- end utility nav module -->
+	 
+	  
+	<div id="travel-pass-rewards">
+		<span class="label" id="tpRewardsPanelHeadOutsideLogIn"><em>travel pass rewards</em><a class="travel-pass-rewards-toggle" href="javascript:void(0);" style="cursor: pointer;">login?</a></span>
+		<div id="travel-pass-login">
+			<span class="label-inside" id="tpRewardsPanelHeadInsideLogIn"><em>travel pass rewards</em><a class="travel-pass-rewards-toggle" href="javascript:void(0);" style="cursor: pointer;">login?</a></span>
+			<form action="index.cfm?fa=travelpass.signinCheck" method="post" name="frmTravelPassPanelSignin" id="frmTravelPassPanelSignin" class="travel-pass-login">
+				<fieldset>
+					<input name="emailAddress" class="text" type="text" placeholder="Email / Member #">
+				</fieldset>
+				<fieldset class="submit">
+					<input name="password" class="text" type="password" placeholder="Password">
+					<input alt="sign in" title="sign in" class="image" type="image" src="http://www.sonesta.com/Corporate/images/website/tp/button-sign-in.png">
+				</fieldset>						
+			</form>
+		</div>								
+	</div>	
+
 
     </div>
     <!-- end header module -->
@@ -750,31 +785,45 @@
         </a>
 
         <!-- column 1 -->
-        <div class="flyout-three-column">
+        <div class="flyout-three-column"> 
           <h3>North America</h3>
-
-          <span class="tan">United States</span> 
-			<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=788&amp;region=united%20states">Andover</a><br>
-			<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=778&amp;region=united%20states">Baltimore</a><br>
-                <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=6&amp;region=united%20states">Boston (Cambridge)</a><br>
-				<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=794&amp;region=united%20states">Burlington</a><br>
-				<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=764&amp;region=united%20states">Hilton Head Island</a><br>
-               <a href="index.cfm?fa=c.LocationRedirect&amp;sid=55&amp;region=united%20states">Miami (Coconut Grove)</a><br>
+          <div class="floatLeft" style="margin-right:15px;">
+		  <span class="tan" style="margin-top:0px;">United States</span> 
+		  	   <a href="index.cfm?fa=c.LocationRedirect&amp;sid=788&amp;region=united%20states">Andover</a><br>	
+		  	   <a href="index.cfm?fa=c.LocationRedirect&amp;sid=790&amp;region=united%20states">Atlanta</a><br>
+			   <a href="index.cfm?fa=c.LocationRedirect&amp;sid=792&amp;region=united%20states">Auburn Hills</a><br>
+          	   <a href="index.cfm?fa=c.LocationRedirect&amp;sid=778&amp;region=united%20states">Baltimore</a><br>
+               <a href="index.cfm?fa=c.LocationRedirect&amp;sid=6&amp;region=united%20states">Boston (Cambridge)</a><br>
+			   <a href="index.cfm?fa=c.LocationRedirect&amp;sid=794&amp;region=united%20states">Burlington</a><br>
+			   <a href="index.cfm?fa=c.LocationRedirect&amp;sid=796&amp;region=united%20states">Charlotte</a><br>
+			   <a href="index.cfm?fa=c.LocationRedirect&amp;sid=798&amp;region=united%20states">Columbia</a><br>
+			   <a href="index.cfm?fa=c.LocationRedirect&amp;sid=923&amp;region=united%20states">Dublin</a><br>
+			   <a href="index.cfm?fa=c.LocationRedirect&amp;sid=920&amp;region=united%20states">Flagstaff</a><br>
+			   <a href="index.cfm?fa=c.LocationRedirect&amp;sid=764&amp;region=united%20states">Hilton Head Island</a><br>
+			   <a href="index.cfm?fa=c.LocationRedirect&amp;sid=770&amp;region=united%20states">Royal Houston</a><br>
+			   <a href="index.cfm?fa=c.LocationRedirect&amp;sid=800&amp;region=united%20states">Houston ES</a><br>
+		 </div>
+		 
+		  <div class="floatLeft" style="margin-top:22px;">	  
+		       <a href="index.cfm?fa=c.LocationRedirect&amp;sid=802&amp;region=united%20states">Malvern</a><br>  
+			   <a href="index.cfm?fa=c.LocationRedirect&amp;sid=55&amp;region=united%20states">Miami</a><br> 
+			   <a href="index.cfm?fa=c.LocationRedirect&amp;sid=804&amp;region=united%20states">Myrtle Beach</a><br> 
                <a href="index.cfm?fa=c.LocationRedirect&amp;sid=9&amp;region=united%20states">New Orleans</a><br>
-			<a href="index.cfm?fa=c.LocationRedirect&amp;sid=806&amp;region=united%20states">Orlando</a><br>
-               <a href="index.cfm?fa=c.LocationRedirect&amp;sid=773&amp;region=united%20states">Philadelphia</a><br>
-
-          <span class="tan">Caribbean</span>
-               <a href="index.cfm?fa=c.LocationRedirect&amp;sid=72&amp;region=st%2E%20maarten">St. Maarten (Great Bay)</a><br>
+               <a href="index.cfm?fa=c.LocationRedirect&amp;sid=806&amp;region=united%20states">Orlando</a><br>
+			   <a href="index.cfm?fa=c.LocationRedirect&amp;sid=765&amp;region=united%20states">Parsippany</a><br>
+			   <a href="index.cfm?fa=c.LocationRedirect&amp;sid=773&amp;region=united%20states">Philadelphia</a><br>
+			   <a href="index.cfm?fa=c.LocationRedirect&amp;sid=766&amp;region=united%20states">Princeton</a><br>
+			   <a href="index.cfm?fa=c.LocationRedirect&amp;sid=767&amp;region=united%20states">Schaumburg</a><br>
+			   <a href="index.cfm?fa=c.LocationRedirect&amp;sid=768&amp;region=united%20states">Somerset</a><br>
+			   <a href="index.cfm?fa=c.LocationRedirect&amp;sid=769&amp;region=united%20states">St. Louis</a><br>
+			   <a href="index.cfm?fa=c.LocationRedirect&amp;sid=72&amp;region=st%2E%20maarten">St. Maarten (Great Bay)</a><br>
                <a href="index.cfm?fa=c.LocationRedirect&amp;sid=5&amp;region=st%2E%20maarten">St. Maarten (Maho Beach)</a><br>
-
-		  <div class="corporate-home">
-           	
-          		<a href="index.cfm?fa=c.LocationRedirect&amp;sid=63">Sonesta.com Home Page</a><br>
-			
-          </div>
-
         </div>
+		<div class="clearLeft"></div>
+		
+		<!-- <span class="tan" style="margin-top:10px;">Caribbean</span>-->
+               
+		</div>
 
         <!-- column 2 -->
         <div class="flyout-three-column">
@@ -806,6 +855,12 @@
                <a href="index.cfm?fa=c.LocationRedirect&amp;sid=27&amp;region=peru">Yucay (Sacred Valley)</a><br>
 			</div>
 			<div class="clearLeft"></div>
+			
+			<div class="corporate-home">
+           	
+          		<a href="index.cfm?fa=c.LocationRedirect&amp;sid=63">Sonesta.com Home Page</a><br>
+			
+          </div>
         </div>
 
         <!-- column 3 -->
@@ -854,9 +909,11 @@
 				
 				
 			
-				
-					
+				 
 					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=corevaluesculture.home" title="core values &amp; culture">core values &amp; culture <span class="sf-sub-indicator"> » </span>
 						</a>
@@ -886,9 +943,11 @@
 						</ul>
 					
 					</li>
-				
-					
+					 
 					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=companyheritage.home" title="company heritage">company heritage <span class="sf-sub-indicator"> » </span>
 						</a>
@@ -910,17 +969,21 @@
 						</ul>
 					
 					</li>
-				
-					
+					 
 					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=whoweare.hotelportfolio" title="hotel portfolio">hotel portfolio 
 						</a>
 					
 					</li>
-				
-					
+					 
 					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=development.home" title="development">development <span class="sf-sub-indicator"> » </span>
 						</a>
@@ -974,7 +1037,7 @@
 						</ul>
 					
 					</li>
-				
+					
 				
 				</ul>
 			
@@ -991,55 +1054,67 @@
 				
 				
 			
-				
-					
+				 
 					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=meetings.contactgroupsales" title="contact group sales">contact group sales 
 						</a>
 					
 					</li>
-				
-					
+					 
 					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=meetings.groupoffers" title="group offers">group offers 
 						</a>
 					
 					</li>
-				
-					
+					 
 					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=meetings.hotelcapacities" title="hotel capacities">hotel capacities 
 						</a>
 					
 					</li>
-				
-					
+					 
 					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=meetings.ebrochures" title="group brochures">group brochures 
 						</a>
 					
 					</li>
-				
-					
+					 
 					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=meetings.plannersnews" title="planners news">planners news 
 						</a>
 					
 					</li>
-				
-					
+					 
 					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=meetings.ouradvisors" title="our advisors">our advisors 
 						</a>
 					
 					</li>
-				
+					
 				
 				</ul>
 			
@@ -1061,6 +1136,24 @@
 						<a href="http://www.sonesta.com/Corporate/index.cfm?fa=specials.home&amp;leftnav=0" title="special offers">special offers 
 				</a>
 			
+				<ul>
+				
+				
+			
+				 
+					<li>
+					
+					
+						
+					
+								<a href="http://www.sonesta.com/Corporate/survey/gs.cfm?ac=gsformdisplay&amp;cd=E1hCw" title="business pass">business pass 
+						</a>
+					
+					</li>
+					
+				
+				</ul>
+			
 			
 			</li>
 		
@@ -1074,47 +1167,57 @@
 				
 				
 			
-				
-					
+				 
 					<li>
+					
+					
+						
 					
 								<a href="https://www.sonesta.com/Corporate/index.cfm?fa=travelpass.enrollment" title="join now">join now 
 						</a>
 					
 					</li>
-				
-					
+					 
 					<li>
 					
-								<a href="https://www.sonesta.com/Corporate/index.cfm?fa=travelpass.signin" title="member account">member account 
+					
+						
+					
+								<a href="https://www.sonesta.com/Corporate/index.cfm?fa=travelpass.signin" title="welcome">welcome 
 						</a>
 					
 					</li>
-				
-					
+					 
 					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=travelpass.benefits" title="benefits">benefits 
 						</a>
 					
 					</li>
-				
-					
+					 
 					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=travelpass.faq" title="faq">faq 
 						</a>
 					
 					</li>
-				
-					
+					 
 					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=travelpass.contactus" title="contact us">contact us 
 						</a>
 					
 					</li>
-				
+					
 				
 				</ul>
 			
@@ -1146,39 +1249,47 @@
 				
 				
 			
-				
-					
+				 
 					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=mediapress.latestnews" title="news">news 
 						</a>
 					
 					</li>
-				
-					
+					 
 					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=mediapress.storyideas" title="story ideas">story ideas 
 						</a>
 					
 					</li>
-				
-					
+					 
 					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=mediapress.presskit" title="press kit">press kit 
 						</a>
 					
 					</li>
-				
-					
+					 
 					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=highres.home" title="download photos">download photos 
 						</a>
 					
 					</li>
-				
+					
 				
 				</ul>
 			
@@ -1192,52 +1303,64 @@
 				
 				
 			
-				
-					
+				 
 					<li>
+					
+					
+						
 					
 					</li>
-				
-					
+					 
 					<li>
 					
-								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=travelagents.starregistration" title="s.t.a.r. registration">s.t.a.r. registration 
-						</a>
 					
-					</li>
-				
-					
-					<li>
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=travelagents.stargiftrequestform" title="s.t.a.r. gift request">s.t.a.r. gift request 
 						</a>
 					
 					</li>
-				
-					
+					 
 					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=travelagents.representatives" title="sonesta contacts">sonesta contacts 
 						</a>
 					
 					</li>
-				
-					
+					 
 					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=travelagents.gdscodes" title="gds codes">gds codes 
 						</a>
 					
 					</li>
-				
-					
+					 
 					<li>
+					
+					
+						
+					
+								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=travelagents.commissions" title="commissions">commissions 
+						</a>
+					
+					</li>
+					 
+					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=travelagents.traveladvisoryboard" title="travel advisory board">travel advisory board 
 						</a>
 					
 					</li>
-				
+					
 				
 				</ul>
 			
@@ -1263,31 +1386,29 @@
 				
 				
 			
-				
-					
+				 
 					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=corporate.compliance" title="compliance hotline">compliance hotline 
 						</a>
 					
 					</li>
-				
-					
+					 
 					<li>
+					
+					
+						
 					
 								<a href="http://www.sonesta.com/Corporate/index.cfm?fa=corporate.codeofconduct" title="code of conduct">code of conduct 
 						</a>
 					
 					</li>
-				
+					
 				
 				</ul>
-			
-			
-			</li>
-		
-			
-			<li>
 			
 			
 			</li>
@@ -1407,7 +1528,7 @@ At times our privacy policy may be changed and any updates will be posted to thi
 
 <!-- begin footer -->
 
-    
+	
 		 <div id="footer">	
 	 
       <ul>
@@ -1449,15 +1570,21 @@ At times our privacy policy may be changed and any updates will be posted to thi
 
 
 
-	<script type="text/javascript" src="http://cdn.sonesta.com/includes/js/jQuery/jquery.nivo.slider.pack.js?cb=20120329"></script>
+	<script type="text/javascript" src="http://www.sonesta.com/Boston/includes/js/jQuery/jquery.nivo.slider.pack.js?cb=201211301141"></script>
 	<script type="text/javascript" src="http://cdn.sonesta.com/includes/js/jQuery/superfish.js?cb=20101025"></script>
 	<script type="text/javascript" src="http://cdn.sonesta.com/includes/js/jQuery/hoverIntent.js?cb=20101025"></script> 
 	<script type="text/javascript" src="http://cdn.sonesta.com/includes/js/jQuery/jquery.uniform.min.js?cb=20101025"></script>
-	<script type="text/javascript" src="http://cdn.sonesta.com/includes/js/jQuery/global.js?cb=20120329"></script>
+	<script type="text/javascript" src="http://www.sonesta.com/Boston/includes/js/jQuery/global.js?cb=20120329"></script>
 	<script type="text/javascript" src="http://cdn.sonesta.com/includes/js/jQuery/jquery.livequery.js?cb=20101025"></script>
 	<script type="text/javascript" src="http://cdn.sonesta.com/includes/js/jQuery/jquery.simplemodal-1.3.5.min.js?cb=20101025"></script>
-    
-	 
+
+	
+	
+				<script>
+				var options={ "service": "facebook", "timer": { "countdown": 30, "interval": 10, "enable": false}, "frictionlessShare": true, "style": "3", "publisher": "ur-10a0d943-c2fe-bb22-c604-d41646413c6b"};
+				var st_service_widget = new sharethis.widgets.serviceWidget(options);
+				</script>
+			 
 		
 	<script type="text/javascript" defer="defer">
 		/* <![CDATA[ */						
@@ -1586,11 +1713,7 @@ At times our privacy policy may be changed and any updates will be posted to thi
             });
         </script>
 		
-     
-
-
-
-
+     <img src="http://edge.aperture.displaymarketplace.com/audmeasure.gif?liveConClientID=5793912702105&amp;PixelID=1210&amp;EventType=View&amp;PageID=5157000" height="1" width="1" border="0"> 
 
 
 
