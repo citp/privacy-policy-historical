@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ijreview.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625213122id_/http%3A//www.ijreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijreview.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203161324id_/http%3A//www.ijreview.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Independent Journal Review
+# Privacy Policy Independent Journal Review
 
 We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to websites falling under the primary holder ijreview.com .)
 
