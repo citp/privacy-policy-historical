@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visabureau.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606054717id_/http%3A//www.visabureau.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visabureau.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203220305id_/http%3A//www.visabureau.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: Visa Bureau
 
@@ -33,49 +33,70 @@ To maintain the highest standards of courtesy and service, help with training pu
 
 ###### 5. Cookies
 
-When you enter our site your computer will automatically be issued with a cookie. Cookies are devices which identify your computer to our server and personalise the site for your future use. Cookies only record the areas of our site that a computer has visited. 
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. 
 
-A cookie will not provide us with any personal information. Therefore, if you have not supplied us with any personal information, you can still browse our site anonymously. If you do not want a cookie you can set your browser to deny it.
+**The table below explains the cookies we use and why:**
 
-**How to find and control your cookies:  
-**  
-If you're using Netscape 6.0:  
-On your Task Bar, click:   
-1\. Edit, then   
-2\. Preferences   
-3\. Click on Advanced   
-4\. Click on Cookies 
+## Cookies used on the Visa Bureau website  
+  
+---  
+Strictly necessary cookies  
+Cookie | Purpose | Session  
+**ASP.NET_SessionId** | 
 
-If you're using Internet Explorer 6.0:   
-1\. Choose Tools, then   
-2\. Internet Options   
-3\. Click the Privacy Tab   
-4\. Click on Custom Level   
-5\. Click on the 'Advanced' button   
-6\. Check the 'override automatic cookie handing' box and select Accept, Block or Prompt for action as appropriate. 
+ASP.NET issues a cookie called ASP.NET_SessionId. This cookie contains the user's session ID but does not store personal data about you. 
 
-If you're using Internet Explorer 5.0 or 5.5:   
-1\. Choose Tools, then   
-2\. Internet Options   
-3\. Click the Security tab   
-4\. Click on Custom Level   
-5\. Scroll down to the sixth option to see how cookies are handled by IE5 and change to Accept, Disable, or Prompt for action as appropriate. 
+| Session expiry (expires when you close the browser).  
+**visabureau.com** | 
 
-If you're using Internet Explorer 4.0:   
-1\. Choose View, then   
-2\. Internet Options   
-3\. Click the Advanced tab   
-4\. Scroll down to the yellow exclamation icon under Security and choose one of the three options to regulate your use of cookies. 
+Manages your login to visabureau.com websites. 
 
-If you're using Internet Explorer 3.0:  
-You can View, Options, Advanced, then click on the button that says Warn before Accepting Cookies. 
+| One year expiry.  
+**currency.visabureau.com** | 
 
-If you're using Netscape Communicator 4.0:  
-On your Task Bar, click:   
-1\. Edit, then   
-2\. Preferences   
-3\. Click on Advanced   
-4\. Set your options in the box that says Cookies. 
+Stores your display currency preference (if set). 
+
+| One year expiry.  
+**UsersSplitTestInfo** | 
+
+Stores split testing page information for testing purposes (no personal information). 
+
+| One year expiry.  
+**civicAllowCookies** | 
+
+Used to record if a user has read the cookie usage disclaimer and has accepted the use of cookies. 
+
+| 90 day expiry.  
+Internal tracking cookies  
+Cookie | Purpose | Session  
+**s_cid** | 
+
+Stores affiliate information from partner websites and affiliates (no personal information is stored). 
+
+| One year expiry.  
+**r_url** | 
+
+Stores referrering URL information for marketing analysis purposes. 
+
+| One year expiry.  
+External tracking cookies  
+Cookie | Purpose | Session  
+**__atuvc** | 
+
+Tracking cookie set by Google AddThis. 
+
+| Two year expiry.  
+**__utm*family** | 
+
+Tracking cookies set by Google Analytics, which are used to monitor how a visitor accesses and uses this website. 
+
+| Six month expiry.  
+  
+**A cookie will not provide us with any personal information.** Therefore, if you have not supplied us with any personal information, you can still browse our site anonymously. If you do not want a cookie you can set your browser to deny it as most web browsers allow some control of most cookies through the browser settings. 
+
+To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit <http://www.aboutcookies.org/> or <http://www.allaboutcookies.org/>. 
+
+To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>. 
 
 ###### 6\. IP Addresses
 
