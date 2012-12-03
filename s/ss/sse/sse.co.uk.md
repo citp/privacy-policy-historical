@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sse.co.uk privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605022657id_/http%3A//www.sse.co.uk/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sse.co.uk privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203160316id_/https%3A//www.sse.co.uk/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - SSE
 
 We are committed to ensuring your privacy is protected. This privacy policy explains how we use the information we collect about you.  For the purposes of the Data Protection Act 1998, the Data Controller is SSE plc (SC117119) having its registered address at Inveralmond House, 200 Dunkeld Road, Perth PH1 3AQ and its group of companies.
 
@@ -10,7 +10,8 @@ We are committed to ensuring your privacy is protected. This privacy policy expl
 (c) We may also use aggregate information and statistics for the purposes of monitoring website usage in order to help us develop the website and the Services and may provide such aggregate information to third parties. These statistics will not include information that can be used to identify any individual.
 
 2. Our use of cookies and other information gathering technologies  
-We may create and access cookies on your PC. Cookies are small text files stored in your web browser, which can identify you when you visit our website. 
+We may create and access cookies on your PC. Cookies are small text files stored in your web browser, which can identify you when you visit our website.  
+For more information see our [cookie page](https://web.archive.org/AboutCookies/ "Link to more information about cookies.").
 
 3. How we protect your information  
 (a) We endeavour to take all reasonable steps to protect your personal data, including the use of 128-bit encryption technology.  
