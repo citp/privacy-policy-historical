@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heavengames.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511170643id_/http%3A//www.heavengames.com/privacystatement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavengames.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203051239id_/http%3A//www.heavengames.com/privacystatement.shtml) for the most accurate reproduction.*
 
 # HeavenGames
 
@@ -15,6 +15,8 @@ HeavenGames has created this privacy statement in order to demonstrate our firm 
 **Data Collection  
 **HeavenGames, as well as many other sites on the Internet, use "cookies" to enhance your experience on the web. We cannot use these cookies to personally identify you in any way. What are cookies and why do we use them? A cookie is a piece of data that is stored on your computer at certain times during your visits to a website. This unique data may later be recovered from your computer in order to personalize your internet experience. This cookie can help advertisers understand what you like and don't like about their offerings so that they can cater better to your needs the next time you are interested in their products or services. 
 
+Furthermore, we use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+
 **Public Forums  
 **
 
@@ -30,6 +32,6 @@ This site makes forums, downloads, articles and/or news available to its users. 
 **This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Should in any event, any information (such as access logs) be made available to a third party, we will make the best effort to track it and report the accident to proper authorities. We cannot be held accountable for any misuse of such information. 
 
 **Contacting HeavenGames  
-**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [mescher@heavengames.com](mailto:mescher@heavengames.com)
+**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [info@heavengames.com](mailto:info@heavengames.com)
 
 See also: [Disclaimer](https://web.archive.org/copyright.shtml)
