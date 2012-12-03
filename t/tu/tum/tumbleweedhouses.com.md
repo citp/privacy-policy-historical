@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the tumbleweedhouses.com privacy policy that was archived on 2012-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120219220548id_/http%3A//www.tumbleweedhouses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tumbleweedhouses.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203041407id_/http%3A//www.tumbleweedhouses.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Tumbleweed Tiny House Company
 
 **Why did you receive a mailing from us?**
 
 Our email marketing is permission based. If you received a mailing from us, our records indicate that (a) you have expressly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.
 
-**How can you stop receiving email from us?**
+**How can you stop receiving emails from us?**
 
-Each email sent contains a link at the bottom to unsubscibe. Simply click on the link and we will stop sending you email.
+Each email sent contains a link at the bottom to unsubscibe. Simply click on the link and we will stop sending you emails.
 
 **Sharing and Usage**
 
