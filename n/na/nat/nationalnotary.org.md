@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalnotary.org privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626032908id_/http%3A//www.nationalnotary.org/about/national_notary_association_privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalnotary.org privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203095105id_/http%3A//www.nationalnotary.org/about/national_notary_association_privacy_statement.html) for the most accurate reproduction.*
 
 # National Notary Association: Become a Notary, Renew your Notary commission, Notary training, Notary supplies, Learn How to become a Notary, Notary classes
 
