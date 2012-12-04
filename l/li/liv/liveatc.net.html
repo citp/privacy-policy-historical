@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the liveatc.net privacy policy that was archived on 2012-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120605052559id_/http%3A//www.liveatc.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the liveatc.net privacy policy that was archived on 2012-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121204205921id_/http%3A//www.liveatc.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -16,9 +16,10 @@
 <tbody><tr align="left">
 <td width="100%" valign="bottom"><a href="/"><img border="0" src="http://img.liveatc.net/LiveATC-400.gif" alt="LiveATC.Net - Listen to live air traffic control over the Internet!"></a></td>
 
-<td width="500" align="center" valign="center">
+<td width="500" align="center" valign="top">
 <font class="purSep"><a href="/contactform/form.php">Contact LiveATC.net</a> for advertising information<br>
-  <script type="text/javascript">
+
+<script type="text/javascript">
 GS_googleAddAdSenseService("ca-pub-5499700168635752");
 GS_googleEnableAllServices();
 </script>
@@ -32,6 +33,7 @@ GA_googleFetchAds();
 <script type="text/javascript">
 GA_googleFillSlot("Front-728x90");
 </script>
+
 </font>
 </td>
 
@@ -45,6 +47,26 @@ GA_googleFillSlot("Front-728x90");
 <link href="global.css" rel="stylesheet" type="text/css">
 -->
 
+<script type="text/javascript">
+
+if (document.getElementsByTagName) {
+
+	var inputElements = document.getElementsByTagName(?input?);
+
+	for (i=0; inputElements[i]; i++) {
+
+		if (inputElements[i].className && (inputElements[i].className.indexOf(?disableAutoComplete?) != -1)) {
+
+			inputElements[i].setAttribute(?autocomplete?,?off?);
+
+		}
+
+	}
+
+}
+
+</script>
+
 <table width="150" border="0">
 
   
@@ -54,24 +76,38 @@ GA_googleFillSlot("Front-728x90");
 <font class="nav">
 <strong><p class="style4">Find LiveATC Audio Streams</p>
 <br>
-By airport/ARTCC code</strong>
-<br><input type="text" name="icao" size="16" value="e.g. KBOS JFK ZBW" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+Airport/ARTCC Code</strong>
+<br><table><tbody><tr><td>
+<input type="text" autocorrect="off" autocapitalize="off" name="icao" size="16" value="e.g. KBOS ZBW" style="color:lightgrey;" onfocus="if(this.value==this.defaultValue)this.value=''; this.style.color='black';">
+</td>
+<td>
+<input type="submit" class="mySearchButton" border="0" alt="Airport Code Search" title="Airport Code Search">
+</td>
+</tr></tbody></table>
 </font>
 </form>
+</td>
+<td>
 </td>
 </tr> <tr>
 <td align="left">
 <form method="get" action="/search/f.php">
 <font class="nav">
 <strong>
-By frequency
+Frequency
 </strong>
 <br>
-<input type="text" name="freq" size="7" maxlength="7">
-<br>
+<table>
+<tbody><tr>
+<td>
+<input type="text" name="freq" size="10" maxlength="7" value="128.750" style="color:lightgrey;" onfocus="if(this.value==this.defaultValue)this.value=''; this.style.color='black';">
+</td>
+<td>
+<input type="submit" class="mySearchButton" border="0" alt="Frequency Search" title="Frequency Search">
+</td>
+</tr>
+</tbody></table>
 <small>(e.g., 124.400, 128.75)</small>
-<br>
-(partial freq ok)
 </font>
 </form>
 </td>
@@ -107,7 +143,7 @@ Site-wide search
     <input type="hidden" name="cx" value="partner-pub-5499700168635752:w7sh3cu04mn">
     <input type="hidden" name="cof" value="FORID:11">
     <input type="hidden" name="ie" value="ISO-8859-1">
-    <input type="text" name="q" id="q" autocomplete="off" size="15">
+    <input type="text" name="q" id="q" autocomplete="off" size="13">
   </div>
 </form>
 <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
@@ -191,9 +227,11 @@ Site-wide search
 <a href="/liveatclinks.php">ATC/Radar Sites</a>
 <br>
 <a href="http://www.milaircomms.com/artcc_frequencies.html" rel="nofollow" target="top">U.S. ARTCC Freqs</a>
-<a href="http://www.canairradio.com" rel="nofollow" target="top">Canadian Air Freqs</a><p></p>
-      <p></p>
+<br>
+<a href="http://www.canairradio.com" rel="nofollow" target="top">Canadian Air Freqs</a>
 
+<br>
+<br>
 
 <a href="http://adds.aviationweather.gov/data/airmets/airmets_ALL.gif" rel="nofollow" target="top" border="0" onclick="window.open('http://adds.aviationweather.gov/data/airmets/airmets_ALL.gif', 'top', 'width=700, height=700, location=no, menubar=no, status=no, toolbar=no, scrollbars=yes, resizable=yes')">AIRMETs/SIGMETs</a>
 
@@ -216,9 +254,10 @@ Site-wide search
       <br>
 </font>
       <p></p>
-      <p><span class="nav">
-        </span> 
-      </p>
+      <p></p>
+      <span class="nav">
+      </span> 
+      <p></p>
 
 
      </span></td>
