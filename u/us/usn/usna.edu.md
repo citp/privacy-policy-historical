@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usna.edu privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519003241id_/http%3A//www.usna.edu/warning.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usna.edu privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204195444id_/http%3A//www.usna.edu/warning.htm) for the most accurate reproduction.*
 
 # United States Naval Academy | Privacy Policy
 
@@ -12,7 +12,7 @@ For site security purposes and to ensure that this service remains available to 
 
 For site management, Tier 1 information is collected for analytical and statistical purposes. This government computer system uses Google Analytics to create summary statistics which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. No personally identifying information is collected in this proces. You have the ability to opt out of this process by installing the Add On at the link located at [ tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout).. This information will not be publicly disclosed, but strictly used for internal planning purpose and opting out will not limit the information that is available. 
 
-Except for authorized law enforcement investigation and to maintain required correspondence files, no other attempts are made to identify individual users or their usage habits. [Raw data logs](https://web.archive.org/web/20120519003241id_/http%3A//www.usna.edu/logfiles.htm) are used to simply determine how many users are accessing the site, which pages are the most popular, and, from time to time, from which top level domain users are coming. This data is scheduled for regular destruction in accordance with National Archives and Records Administration guidelines. 
+Except for authorized law enforcement investigation and to maintain required correspondence files, no other attempts are made to identify individual users or their usage habits. [Raw data logs](https://web.archive.org/web/20121204195444id_/http%3A//www.usna.edu/logfiles.htm) are used to simply determine how many users are accessing the site, which pages are the most popular, and, from time to time, from which top level domain users are coming. This data is scheduled for regular destruction in accordance with National Archives and Records Administration guidelines. 
 
 Any information submitted by email or electronic forms will be used exclusively for the expressed purposes stated and will not be used for any other function. Use of information submitted via the Naval Academy web site is subject to the provisions of the Privacy Act of 1974.  
 
