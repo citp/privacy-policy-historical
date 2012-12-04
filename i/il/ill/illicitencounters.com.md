@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the illicitencounters.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605005554id_/http%3A//www.illicitencounters.com/help/faq/id/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illicitencounters.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204195146id_/http%3A//www.illicitencounters.com/help/faq/id/3) for the most accurate reproduction.*
 
 # Recommended Site - Married Dating UK - Illicit Encounters® - Extra marital affairs and dating
 
@@ -20,7 +20,7 @@ Illicit Encounters confirms that all personal data handled and stored by us is d
 Information Automatically Logged : We use your IP address to help diagnose problems with our server and to administer our Web site, and to help identify you and your chosen set up of the web site. Your IP address is also used to gather broad demographic information, and for other purposes.  
  
 
-Cookies : Our Site uses cookies to keep track of your chosen set up of the web site, and to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes.  
+Cookies : Our Site uses cookies to keep track of your chosen set up of the web site, and to maintain a persistent session so you don't have to authenticate your login for every single page you visit on our site.  
  
 
 Registration Forms : Our site's registration form requires users to give us contact information (like your name, and email address), and demographic information (like your post/zipcode, age, or interests). Contact information from the registration forms is used to help us find you your "Ideal Partner". The customer's contact information is also used to send promotional material from some of our partners to our customers, and to get in touch with the customer when necessary.  
