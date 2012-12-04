@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theyachtmarket.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506121110id_/http%3A//www.theyachtmarket.com/popprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theyachtmarket.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204041946id_/http%3A//www.theyachtmarket.com/popprivacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | TheYachtMarket
 
-##  1) Online Privacy Practices
+##  1) Online privacy practices
 
 **Your right to privacy is important to us**. We are keen to strike a fair balance between your personal privacy and ensuring you obtain full value from the Internet and other products and services we may be able to market to you.
 
@@ -16,7 +16,7 @@ When you access our website and set up an account you need to **register your de
 
 We may use your personal **data for future email mailings, support, and general correspondences regarding our service**. 
 
-###  Third Parties
+###  Third parties
 
 We do not pass your details onto any third parties. We may from time to time send you other marine related information which we think you may find useful. 
 
@@ -30,15 +30,9 @@ We hope that once you understand the measures we take to help ensure secure tran
 
 ##  4) Cookies 
 
-###  Use of cookies on this website and our network of websites: 
+For details on our use of cookies please [visit our cookies page here](https://web.archive.org/popaboutourcookies.aspx). 
 
-  * We may store your search preferences in a cookie on your web browser. This contains no personally identifiable data.
-  * Google, as a third-party vendor, uses cookies to serve adverts on this website and our network of websites.
-  * Google's use of the DoubleClick's DART cookie enables it to serve adverts to our users based on their visit to our sites and other sites on the Internet.
-  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html).
-  * We use Google AdWords conversion tracking to count how many people who clicked one of our Google Adverts went on to contact an advertiser of a boat using our email form. This uses a tracking cookie which is only set on your browser when you click a Google Advert. The cookie enables us to measure the success of our advertising campaigns. This cookie expires within 30 days and does not contain any personally identifiable data. Please see the [Privacy Policy for Google Ads and Advertising Services](http://www.google.com/privacy/ads/) for more information about Google conversion tracking and the ability to opt out.
-
-
+* * *
 
 TheYachtMarket.com Ltd is a company registered in England. Registered number 4666162.
 
