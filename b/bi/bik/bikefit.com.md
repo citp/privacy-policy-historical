@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikefit.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509155818id_/http%3A//www.bikefit.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikefit.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204025542id_/http%3A//www.bikefit.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # BikeFit's Privacy Policy
 
