@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zappos.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531203837id_/http%3A//www.zappos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zappos.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204020154id_/http%3A//www.zappos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zappos.com
 
@@ -45,7 +45,7 @@ This Privacy Policy explains how we collect, use and (under certain conditions) 
 
 (f) Product Reviews. You may choose to submit a product review. If you post a review, we will ask for your email address and geographic location. If you submit a review, your geographic location will be visible to other users (your email address will be kept private). Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information.
 
-(g) Bizrate Reviews. Bizrate.com is an [independent](https://web.archive.org/independent) company that permits shoppers to rate their experiences in visiting and shopping at online stores. After placing an order on the Site, you may receive the opportunity to provide feedback on your experience. This choice is optional and will not affect your order or service from us, whether or not you choose to provide feedback. Your feedback is collected by Bizrate.com, not us, and is governed by their privacy policy, available at http://shop.bizrate.com/content/privacy.html.
+(g) Bizrate Reviews. Bizrate.com is an independent company that permits shoppers to rate their experiences in visiting and shopping at online stores. After placing an order on the Site, you may receive the opportunity to provide feedback on your experience. This choice is optional and will not affect your order or service from us, whether or not you choose to provide feedback. Your feedback is collected by Bizrate.com, not us, and is governed by their privacy policy, available at http://shop.bizrate.com/content/privacy.html.
 
 **2.          Information Use and Disclosure.**
 
