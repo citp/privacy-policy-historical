@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the mysurfbiz.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605225020id_/http%3A//mysurfbiz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysurfbiz.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204232347id_/http%3A//mysurfbiz.com/privacy.php) for the most accurate reproduction.*
 
 # MySurfBiz
 
 Recommended  
-[](http://mysurfbiz.com/bannerclick.php?id=12)
+[](http://mysurfbiz.com/bannerclick.php?id=24)
 
 MySurfBiz.com Privacy Policy
 
