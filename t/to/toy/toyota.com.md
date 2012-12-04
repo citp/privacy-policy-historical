@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyota.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630030626id_/http%3A//www.toyota.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204051719id_/http%3A//www.toyota.com/help/privacy.html) for the most accurate reproduction.*
 
 # Toyota Help
 
