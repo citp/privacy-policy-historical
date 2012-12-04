@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteintheworld.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602021648id_/http%3A//siteintheworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteintheworld.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204015143id_/http%3A//siteintheworld.com/privacy-policy) for the most accurate reproduction.*
 
 # SiteInTheWorld Privacy Policy
 
