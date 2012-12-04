@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trefis.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603035302id_/http%3A//www.trefis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trefis.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204095649id_/http%3A//www.trefis.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy -- Trefis
 
