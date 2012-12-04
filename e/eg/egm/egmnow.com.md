@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egmnow.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604112129id_/http%3A//www.egmnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egmnow.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205003309id_/http%3A//www.egmnow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EGMNOW
 
