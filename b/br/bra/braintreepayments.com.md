@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the braintreepayments.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504221228id_/http%3A//www.braintreepayments.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braintreepayments.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204054104id_/https%3A//www.braintreepayments.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Braintree
 
@@ -56,7 +56,7 @@ If a user’s personally identifiable information changes (such as zip code, pho
 
 ### Safe Harbor
 
-Braintree follows the Safe Harbor Principles published by the United States Department of Commerce (the "Principles") with respect to the transfer of personal data from the European Union or Switzerland to the United States of America. This Privacy Policy details certain policies implemented throughout Braintree implementing the Principles and governing Braintree's use of personally identifiable information provided to Braintree via this Internet web site (the "Site") or otherwise. If there is any conflict between the policies in this Privacy Policy and the Principles, the Principles will govern.
+Braintree follows the U.S.-EU Safe Harbor Principles and the U.S.-Swiss Safe Harbor Principles published by the United States Department of Commerce (the "Principles") with respect to the transfer of personal data from the European Union or Switzerland to the United States of America. To learn more about the Safe Harbor program, and to view Braintree’s Safe Harbor certification, please visit <http://www.export.gov/safeharbor/>. This Privacy Policy details certain policies implemented throughout Braintree implementing the Principles and governing Braintree's use of personally identifiable information provided to Braintree via this Internet web site (the "Site") or otherwise. If there is any conflict between the policies in this Privacy Policy and the Principles, the Principles will govern.
 
 ### Notification of Changes
 
