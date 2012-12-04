@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bootic.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615082638id_/http%3A//www.bootic.com/_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootic.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205002151id_/http%3A//www.bootic.com/_privacypolicy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Bootic, The Ecommerce Network
 
 This Privacy Policy will govern your use of the Bootic.com website as well as any of its related Services (“Bootic.com”, “Site”, “Services”, “us”, “we”, “ours”) which is provided by Bootic, Inc. and Bootic.com which provides an online environment that enables you to buy and sell products online. 
 
@@ -8,8 +8,7 @@ This Privacy Policy will govern your use of the Bootic.com website as well as an
 
 In America we understand that privacy matters that’s why we have changing rooms and private stalls in public restrooms. And at Bootic.com we understand that your privacy matters, this is why we provide this transparent, plain English, easy to read Privacy Policy. This Privacy Policy only applies to our Site and the Bootic.com Service. Some of the third parties that utilize our Service may also use, collect, and share information for many purposes on their sites and we are not responsible for any of the information that may be collected or used by them.  
 Your use of Bootic.com, such as access to data and use of the Services, is governed by this Privacy Policy. At Bootic.com we’re happy that the prohibition amendment passed in 1933. In that spirit, this Privacy Policy may be amended from time to time by us, and your continued use of the Site and Services is consideration for having read and agreed to this. If you do not agree with any of the terms of this agreement you must immediately terminate your participation and notify us of your intentions so that we can take appropriate action to delete any data. By using, visiting, registering, or interacting, or continuing to use this Site you consent to the collection and use of your personal information as outlined in this Privacy Policy.   
-You must be at least 18 years of age or older to use the Bootic.com Site and Service. If you are under the age of 18, please do not attempt to register for the Site or Service or provide any personal information to us and cease using this site immediately.   
-
+You must be at least 18 years of age or older to use the Bootic.com Site and Service. If you are under the age of 18, please do not attempt to register for the Site or Service or provide any personal information to us and cease using this site immediately. 
 
 ## SUMMARY OF KEY PRINCIPLES
 
@@ -28,35 +27,29 @@ This is a brief summary of what you will be reading in this Privacy Policy:
 By registering for the Bootic.com’s site and Service you may be providing personal information to us. This information may include, but is not limited to, your name, e-mail address, mailing address, telephone number, credit card information, astrology sign, favorite food, company name, and other information required to deliver our services. Your use may also allow you to provide us with information as you interact with the Site.  
 In addition to the above, we also collect non-personal information, such as information about your browser, referring URL, cookies, IP address, ISP, operating system, and other information.  
 We use third parties to collect, store, and analyze information at some time in the future at our discretion, for the purpose of website analytics relating to conversions, marketing, searches, and other information of interest to us. In the future we hope to use this information to build a fully functioning robot of you. In all seriousness, we collect this information to learn how to better serve you the User.  
-We may use your information to send you e-mails and respond to inquiries, send birthday notices, as well as enhance or improve the user experience, our website, and service.  
-
+We may use your information to send you e-mails and respond to inquiries, send birthday notices, as well as enhance or improve the user experience, our website, and service.
 
 ### COOKIES - baked and soft
 
-We all love cookies my personal favorite is snickerdoodle, is that an overshare? At Bootic.com we use cookies in order to track sessions and to authenticate you—this is necessary to help us distinguish you from other users and to fill your shopping cart. For this reason, you must have cookies enabled in your web browser in order to access and use our website or service.  
-
+We all love cookies my personal favorite is snickerdoodle, is that an overshare? At Bootic.com we use cookies in order to track sessions and to authenticate you—this is necessary to help us distinguish you from other users and to fill your shopping cart. For this reason, you must have cookies enabled in your web browser in order to access and use our website or service.
 
 ### Information Collected by our ISP
 
-We may employ third party companies and individuals to help us manage our servers, databases, and analytics. These third parties may have access to your information only to perform those tasks, and are obligated not to disclose or use it for any other purpose. The hosting provider for this Site has the ability to record various pieces of information, including domain name, pages accessed, date and time of access, web browser type and computer operating system, and referring information. This information is stored in our server log and may be accessible to us from time to time.  
-
+We may employ third party companies and individuals to help us manage our servers, databases, and analytics. These third parties may have access to your information only to perform those tasks, and are obligated not to disclose or use it for any other purpose. The hosting provider for this Site has the ability to record various pieces of information, including domain name, pages accessed, date and time of access, web browser type and computer operating system, and referring information. This information is stored in our server log and may be accessible to us from time to time.
 
 ### Release of Information for Legal Reasons.
 
-The 5-0 or the po po fo sho. If we are contacted by law enforcement we may release your information. Also, we may release information when we believe it is necessary or appropriate to comply with the law (for example, pursuant to a statutory demand, subpoena, warrant or court order), to protect against fraudulent, abusive or unlawful use of the Site or Service, to protect our rights or property, enforce any contract between you and us, or if we reasonably believe that a situation involving danger of death or injury to any person requires disclosure.  
-
+The 5-0 or the po po fo sho. If we are contacted by law enforcement we may release your information. Also, we may release information when we believe it is necessary or appropriate to comply with the law (for example, pursuant to a statutory demand, subpoena, warrant or court order), to protect against fraudulent, abusive or unlawful use of the Site or Service, to protect our rights or property, enforce any contract between you and us, or if we reasonably believe that a situation involving danger of death or injury to any person requires disclosure.
 
 ### Transfer of information.
 
-We reserve the right to transfer your information in the event of a change in entity structure, or acquisition of substantial portion of the assets of our company or its parent company. In such event, we will notify you when the information is transferred and the privacy policy changes.  
-
+We reserve the right to transfer your information in the event of a change in entity structure, or acquisition of substantial portion of the assets of our company or its parent company. In such event, we will notify you when the information is transferred and the privacy policy changes.
 
 ## How you can change or remove information
 
 ### Accessing and Editing your Information
 
-Like He-man you have the power. Users may in some cases be able to review and edit the personal information they have provided to us by logging into your account on the Site and editing your account. Although most changes may occur immediately, information may still be stored in a web browser’s cache. We take no responsibility for stored information in your cache, or in other devices that may store information, and disclaim all liability of such. In addition, we may, from time to time, retain residual information about you in our backup and/or database.   
-
+Like He-man you have the power. Users may in some cases be able to review and edit the personal information they have provided to us by logging into your account on the Site and editing your account. Although most changes may occur immediately, information may still be stored in a web browser’s cache. We take no responsibility for stored information in your cache, or in other devices that may store information, and disclaim all liability of such. In addition, we may, from time to time, retain residual information about you in our backup and/or database. 
 
 ## Other Term
 
@@ -80,7 +73,7 @@ If we decide to change our privacy policy, we may post those changes on the Site
 
 ### Minors
 
-We love the kids…not in a NAMBLA way but in a normal wholesome way. However, individuals under 18 years of age are not allowed to use our Site or Service. If you are under the legal age of 18 years old do not apply for or submit any personal information to this Site or our Service. 
+We love the kids... however, individuals under 18 years of age are not allowed to use our Site or Service. If you are under the legal age of 18 years old do not apply for or submit any personal information to this Site or our Service. 
 
 ### Advertiser and Third Party Websites
 
