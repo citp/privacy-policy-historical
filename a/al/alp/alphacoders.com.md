@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alphacoders.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507001534id_/http%3A//alphacoders.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphacoders.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204060154id_/http%3A//alphacoders.com/site/privacy) for the most accurate reproduction.*
 
 # Alpha Coders - Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@alphacoders.com.
+Alpha Coders Privacy Policy  If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@alphacoders.com.
 
 At wall.alphacoders.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by wall.alphacoders.com and how it is used. 
 
