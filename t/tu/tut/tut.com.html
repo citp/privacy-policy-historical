@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tut.com privacy policy that was archived on 2012-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531222517id_/http%3A//www.tut.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tut.com privacy policy that was archived on 2012-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121204050404id_/http%3A//www.tut.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9">
@@ -12,6 +12,7 @@
 	google.load("jquery", "1.6.1");
 	google.load("jqueryui", "1.8.13");
 </script>
+<script src="/javascript/slider/sliderwall-bullets-1.1.2.js" language="javascript"></script>
 <script src="/javascript/jquery.lightbox-0.5.min.js" type="text/javascript"></script>
 <script src="/javascript/ddtabmenu.js" type="text/javascript"></script>
 <script src="/javascript/bookmarkscroll.js" type="text/javascript"></script>
@@ -28,8 +29,9 @@
 <script src="/javascript/AC_RunActiveContent.js" language="javascript"></script>
 
 <link href="/images/favicon.ico" rel="shortcut icon">
-
+<link href="/css/slider/sliderwall_bullets_skin.css" rel="stylesheet" type="text/css">
 <link href="/css/imgareaselect-default.css" rel="stylesheet" type="text/css">
+<link href="/css/colorbox.css" rel="stylesheet" type="text/css">
 <link href="/css/main.css" rel="stylesheet" type="text/css">
 <link href="/css/topNav.css" rel="stylesheet" type="text/css">
 <link href="/css/jcarousel.css" rel="stylesheet" type="text/css">
@@ -45,7 +47,8 @@
 <title>
 TUT's Adventurer's Club::Welcome</title>
 
-</head><body>
+</head>
+<body>
 	<div id="header">
 		<script type="text/javascript">
 	//SYNTAX: ddtabmenu.definemenu("tab_menu_id", integer OR "auto")
@@ -85,21 +88,22 @@ var button;
 //This function loggs the user out of Facebook, whenever the logout link in the header is clicked
 function logMeOut()
 {
-	
-	//If the Facebook Object is not created, simply redirecto the ordinary Logout
-	if(FB._authResponse == null)
-	{
-		window.location = '/Account/logout';
-	}
-	//If the Facebook Object is created, then logout of Facebook, which in turn logs out of the site as well
-	else
-	{
-		FB.logout(function(response) 
+
+		//If the Facebook Object is not created, simply redirecto the ordinary Logout
+		if(FB._authResponse == null)
 		{
-			logout(response);
-		});
-	}	
-	//window.location = '/Account/logout';
+			window.location = '/Account/logout';
+		}
+		//If the Facebook Object is created, then logout of Facebook, which in turn logs out of the site as well
+		//else
+		//{
+			FB.logout(function(response) 
+					{
+					logout(response);
+					});
+		//}	
+		//window.location = '/Account/logout';
+
 }
 
 window.fbAsyncInit = function() {
@@ -219,7 +223,8 @@ function showLoader(status){
 }
 
 </script>
-<img src="/images/img_tutsite_fb_login_button.png" id="fb-auth" style="cursor: pointer;"></td>
+<img src="/images/img_tutsite_fb_login_button.png" id="fb-auth" style="cursor: pointer;">
+</td>
                     </tr>
                 </tbody></table>
                             </li>
@@ -245,15 +250,15 @@ function showLoader(status){
         </div>
         
         <div id="sb_education" class="tabcontent">
-			<a href="/Education/mike-live">Events</a> | <a href="/shop/home.php?cat=10">World Tour III</a> | <a href="/Education/ask-mike">Ask Mike</a> | <a href="#" id="articlesAndInterviewsLink">Articles and Interviews</a> | <a href="/Education/recommended-reading">Recommended Reading</a> | <a href="#" id="speakingLink">Hire Mike</a> | <a href="#" id="mediaLink">Media</a>
+			<a href="/Education/mike-live">Events</a> | <a href="/shop/home.php?cat=10">World Tour IV</a> | <a href="/Education/ask-mike">Ask Mike</a> | <a href="#" id="articlesAndInterviewsLink">Articles and Interviews</a> | <a href="/Education/recommended-reading">Recommended Reading</a> | <a href="#" id="speakingLink">Hire Mike</a> | <a href="#" id="mediaLink">Media</a>
         </div>
         
         <div id="sb_adventure" class="tabcontent">
-			<a href="/Adventure/wow-tours">WOW Tours</a> | <a href="/Adventure/italy">Best of Italy</a> |  <a href="/Adventure/tahiti">Tahiti Cruise</a> |<a href="/Adventure/photo-album">Photo Album</a> | <a href="/Adventure/wow-tours/#wow_testimonials">Testimonials</a>
+			<a href="/Adventure/wow-tours">WOW Tours</a> | <a href="/Adventure/tahiti">Tahiti Cruise</a> | <a href="/Adventure/photo-album">Photo Album</a> | <a href="/Adventure/wow-tours/#wow_testimonials">Testimonials</a>
         </div>
     
         <div id="sb_humanity" class="tabcontent">
-			<a href="/Humanity/our-story">Gifts from the Universe</a> | <a href="/Humanity/donate">Donate</a> | <a href="/Humanity/conference">Become a Trainer Conference</a> | <a href="/Humanity/trainers">Certified Trainers</a> | <a href="/Humanity/resources">Resources</a> | <a href="/Humanity/testimonials">Testimonials</a> | <a href="/Humanity/photo-album">Photo Album</a>
+			<a href="/Humanity/our-story">Infinite Possibilities</a> |<!-- <a href="/Humanity/donate">Donate</a> |--> <a href="/shop/product.php?productid=593&amp;cat=10">Become a Trainer Conference</a> | <a href="/Humanity/trainers">Certified Trainers</a> | <a href="/Humanity/resources">Resources</a> | <a href="/Humanity/testimonials">Testimonials</a> | <a href="/Humanity/photo-album">Photo Album</a>
         </div>
         
         <div id="sb_shop" class="tabcontent">
@@ -263,11 +268,12 @@ function showLoader(status){
     </div>
 </div>
 
+
 <!-- ********************************** -->
 <!-- Affiliate Program - Click Tracking -->
 <!-- ********************************** -->
 
-<!--script id='pap_x2s6df8d' src='http://tut.com/affiliates/scripts/trackjs.js' type='text/javascript'></script>
+<!--script id='pap_x2s6df8d' src='http://www.tut.com/affiliates/scripts/trackjs.js' type='text/javascript'></script>
 <script type="text/javascript">
 PostAffTracker.setAccountId('default1');
 try {PostAffTracker.track();} 
@@ -276,7 +282,8 @@ catch (err) {}
 
 <!-- ************************************** -->
 <!-- E - Affiliate Program - Click Tracking -->
-<!-- ************************************** -->	</div>
+<!-- ************************************** -->
+	</div>
 
     <div id="main_wrapper">
         <div class="clear_both"></div>
