@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraft-server-list.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620115412id_/http%3A//minecraft-server-list.com/minelog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-server-list.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204132846id_/http%3A//minecraft-server-list.com/minelog/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Statement - Minecraft-server-list.com | Minecraft Server List Minelog
 
@@ -41,4 +41,4 @@ Privacy policies have been updated: 2011.04.14
  **GD Star Rating**  
  _a WordPress rating system_
 
-Privacy Policy / Statement - Minecraft-server-list.com, 6.3 out of 10 based on 8 ratings 
+Privacy Policy / Statement - Minecraft-server-list.com, 7.1 out of 10 based on 14 ratings 
