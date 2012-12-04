@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stabroeknews.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510182409id_/http%3A//www.stabroeknews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stabroeknews.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204145024id_/http%3A//www.stabroeknews.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Stabroek News - Guyana
+# Privacy Policy - Stabroek News
 
 Thank you for visiting [Stabroek News](http://www.stabroeknews.com/). We respect your privacy regarding any information we may collect while operating our website.  This document outlines such information.
 
