@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the letssingit.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622163923id_/http%3A//www.letssingit.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letssingit.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204085101id_/http%3A//www.letssingit.com/privacy_policy) for the most accurate reproduction.*
 
-# Lyrics, albums, songs, artists and more music | LetsSingIt
-
-On this page you'll find the LetsSingIt's privacy policy.
+# Privacy Policy
 
 Privacy has become a major concern on the Internet. LetsSingIt knows that you care how information about you is used and shared. This privacy statement describes how LetsSingIt deals with your information. By visiting LetsSingIt, you are accepting the practices described in this privacy statement.
 
