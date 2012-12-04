@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the asianbeauties.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628161157id_/http%3A//www.asianbeauties.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianbeauties.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204090643id_/http%3A//www.asianbeauties.com/privacy-policy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-Depending on what you do when you visit any Web site, you are providing information about your visit to the site's owners. This includes AsianBeauties.com. We value privacy and think you do too, so we want you to have the information you need to make your own decisions about your personal privacy. When you visit or supply information to any Web site, we think it's a good idea for you to first understand what that site's privacy policies are. If the site doesn't tell you, don't hesitate to ask.
+Depending on what you do when you visit any Web site, you are providing information about your visit to the site's owners. This includes AsianBeauties.com. We value privacy and think you do too, so we want you to have the information you need to make your own decisions about your personal privacy. When you visit or supply information to any Web site, we think it's a good idea for you to first understand what that site's privacy policies are. If the site doesn't tell you, don't hesitate to ask. 
 
-The bottom line at www.AsianBeauties.com is that we only use the information that we get from your visit for internal tracking purposes, to make AsianBeauties.com as useful and interesting to you as we can, and to respond to your requests for information or other services. Except for as specifically noted, we do not use your personal information for any other purpose; we never sell it to any third party; and we never share it with any third party.
+The bottom line at www.AsianBeauties.com is that we only use the information that we get from your visit for internal tracking purposes, to make AsianBeauties.com as useful and interesting to you as we can, and to respond to your requests for information or other services. Except for as specifically noted, we do not use your personal information for any other purpose; we never sell it to any third party; and we never share it with any third party. 
 
 Read more about how your personal information is managed:
 
@@ -34,15 +34,15 @@ How to contact AsianBeauties.com
 
 ### What personal information we collect:
 
-When you visit the AsianBeauties.com Web site, we capture the Internet provider's domain name and country that you came from (e.g., 'aol.com') and the paths taken as you move from page to page (i.e., your "click stream" activity).
+When you visit the AsianBeauties.com Web site, we capture the Internet provider's domain name and country that you came from (e.g., 'aol.com') and the paths taken as you move from page to page (i.e., your "click stream" activity). 
 
 ### Visitor Registration or Requests for Information:
 
-AsianBeauties.com only collects personal information that you choose to provide voluntarily when using or registering with the AsianBeauties.com site. "Personal information" includes information that can identify you as a specific individual, such as your name or email address; and, in the case of affiliate agreements, your name and company name. While you can browse our site without registering, you will need to register in order to take advantage of certain features.
+AsianBeauties.com only collects personal information that you choose to provide voluntarily when using or registering with the AsianBeauties.com site. "Personal information" includes information that can identify you as a specific individual, such as your name or email address; and, in the case of affiliate agreements, your name and company name. While you can browse our site without registering, you will need to register in order to take advantage of certain features. 
 
 ### Browsing and the use of Cookies:
 
-AsianBeauties.com uses cookie technology as part of our Web site's statistical reporting. A cookie is a small piece of information sent by a Web site that is saved on your hard disk by your computer's browser. It holds information a site may need to personalize your experience (i.e., rotating images on AsianBeauties.com home page) and to gather Web site statistical data, such as which pages are visited, what is downloaded, the internet provider's domain name and country that our visitors come from (e.g. 'aol.com,' or 'umich.edu') and the addresses of sites visited immediately before, and after, coming to AsianBeauties.com. However, none of this is associated with you as an individual. It is measured only in aggregate. The information in the cookies lets us trace your "click stream" activity (i.e., the paths taken by visitors to our site as they move from page to page. Cookies do not capture your individual email address or any private information about you.
+AsianBeauties.com uses cookie technology as part of our Web site's statistical reporting. A cookie is a small piece of information sent by a Web site that is saved on your hard disk by your computer's browser. It holds information a site may need to personalize your experience (i.e., rotating images on AsianBeauties.com home page) and to gather Web site statistical data, such as which pages are visited, what is downloaded, the internet provider's domain name and country that our visitors come from (e.g. 'aol.com,' or 'umich.edu') and the addresses of sites visited immediately before, and after, coming to AsianBeauties.com. However, none of this is associated with you as an individual. It is measured only in aggregate. The information in the cookies lets us trace your "click stream" activity (i.e., the paths taken by visitors to our site as they move from page to page. Cookies do not capture your individual email address or any private information about you. 
 
 We also use standard Web server log files to help us count visitors and evaluate our site's technical capacity. We use this information to find out how many people visit AsianBeauties.com, help us arrange the pages in the most user-friendly way, keep the site browser-friendly, and to make our pages more useful to our visitors. We record information on site traffic but not information on individual visitors to our site, so no information about you in particular will be kept or used.
 
