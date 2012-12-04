@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the polycom.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629213502id_/http%3A//www.polycom.com/website/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polycom.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204154956id_/http%3A//www.polycom.com/company/privacy-policy.html) for the most accurate reproduction.*
 
-# Your Privacy - Polycom
+# Privacy Policy
+
+**Your Privacy**
 
 At Polycom, we are committed to respecting your privacy. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. That's why we have put a policy in place to protect your personal information. This statement describes (1) the types of personal information we collect, (2) how we use and protect this information, and (3) who we disclose it to.
 
@@ -14,7 +16,7 @@ In connection with these activities, we may collect personal information, includ
 
 When you browse our Website we may also collect/obtain certain non personal information from you including, but not limited to, your browser type (eg Netscape or Internet Explorer), operating system (eg Windows or Macintosh), Internet service provider, IP address, websites visited, and the domain name from which you accessed the Website (eg yahoo.com). Like many other commercial websites, our Website may use standard technologies, such as "cookies", web beacons and other HTML tools, to collect information about how you use the Website or to record that you opened an email marketing message. Polycom may also use customized links or other similar technologies to track email links that you click. We may associate that information with your personal information in order to provide you more focused service communications.
 
-Please go to What are "cookies" and web beacons? below for more information.  
+Please go to [What are "cookies" and web beacons?](https://web.archive.org/company/privacy-policy.html) below for more information.  
 
 
 #### How do we use this information?
@@ -57,7 +59,7 @@ If we decide to change our privacy practices, we will post those changes in a re
 
 #### Your Ability to Access, Update or Remove Your Information
 
-If you would like to access or change any of your personal information which we hold please email us at [privacy@polycom.com.](mailto:privacy@polycom.com) You may also request the removal or correction of your personal information held by us by sending an email to the same address. If you choose to remove your information, we may retain some personal information to the extent required to prevent fraud, resolve disputes, troubleshoot problems, enforce [Polycom's Website Terms and Conditions](https://web.archive.org/website/terms_conditions.html), respect your opt-out preferences, and comply with legal requirements as permitted by law.
+If you would like to access or change any of your personal information which we hold please email us at [privacy@polycom.com.](mailto:privacy@polycom.com) You may also request the removal or correction of your personal information held by us by sending an email to the same address. If you choose to remove your information, we may retain some personal information to the extent required to prevent fraud, resolve disputes, troubleshoot problems, enforce [Polycom's Website Terms and Conditions](https://web.archive.org/products-services/services/services-terms-and-conditions.html), respect your opt-out preferences, and comply with legal requirements as permitted by law.
 
 #### Children and Privacy
 
