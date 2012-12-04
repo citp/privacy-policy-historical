@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the humanresourcesonline.net privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630113807id_/http%3A//www.humanresourcesonline.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanresourcesonline.net privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204065726id_/http%3A//www.humanresourcesonline.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Human Resources Online
 
-When you register with Marketing Interactive under our SUBSCRIBE TO MARKETING FREE area, your contact details are added to our electronic mailing list so that, from time to time, we can send you information about new features, additions, and changes to our Web site. Also, Marketing Magazine occasionally makes subscriber information available to other units within Lighthouse Independent Media as well as to selected outside companies whose products or services we feel may be of interest to you.
+When you register with Human Resources under our SUBSCRIBE TO HUMAN RESOURCES FREE area, your contact details are added to our electronic mailing list so that, from time to time, we can send you information about new features, additions, and changes to our Web site. Also, Human Resources magazine occasionally makes subscriber information available to other units within Lighthouse Independent Media as well as to selected outside companies whose products or services we feel may be of interest to you.
 
-Sometimes third parties, called third-party ad servers or ad networks, deliver ads to you on our behalf. These third-party ad servers may also collect and use non-personally identifiable information about your visits to this and other web sites in order to present advertisements that may be of interest to you. If you would like more information about this practice or to opt out of having this information used by third-party ad servers to provide targeted ads, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.
+Sometimes third parties, called third-party ad servers or ad networks, deliver ads to you on our behalf. These third-party ad servers may also collect and use non-personally identifiable information about your visits to this and other web sites in order to present advertisements that may be of interest to you. If you would like more information about this practice or to opt out of having this information used by third-party ad servers to provide targeted ads, please visit [Network Advertising Initiative](http://www.networkadvertising.org/optout_nonppii.asp).
 
 Please be assured that we take your concerns about privacy quite seriously, and we intend to take every reasonable effort to protect it. To that end, Lighthouse Independent Media has developed a comprehensive privacy policy. If you'd like more information about our use of customer data, please review Lighthouse Independent Media Customer Privacy Policy Statement below.
 
-Questions or comments can be sent to Justin Randles.
+Questions or comments can be sent to [Justin Randles](mailto:jr@lighthousemedia.com.sg).
 
-After you've read the policy, click your back button to return to Marketing Interactive.
-
-If you prefer not to receive relevant business information from companies outside Lighthouse Independent Media, please send us the Opt Out Email.
+If you prefer not to receive relevant business information from companies outside Lighthouse Independent Media, please contact our [Circulations Department](mailto:subscriptions@humanresourcesonline.net).
 
 Thanks
 
