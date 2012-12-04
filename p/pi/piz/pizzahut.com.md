@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pizzahut.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531043347id_/http%3A//www.pizzahut.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizzahut.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204051715id_/http%3A//www.pizzahut.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Pizza Hut - America's Favorite Pizza - Privacy Policy
 
@@ -29,7 +29,7 @@
 **About this Policy**   
 This policy describes our privacy practices for the websites where it is posted. It also applies to our practices for our mobile phone and text programs.
 
-Back to top »
+Back to top �
 
 **Information We Collect**
 
@@ -41,7 +41,7 @@ Back to top »
 
 **Other Information:** For example, we collect IP addresses and user browsing behavior. We collect this and other information using the tracking tools described in this policy.
 
-Back to top »
+Back to top �
 
 **How We Collect Information**
 
@@ -51,7 +51,7 @@ Back to top »
 
 **We collect information from third parties.** For example, we might get information about you from one of our franchisees. This information might be combined with information we already have. 
 
-Back to top »
+Back to top �
 
 **How We Use Information**
 
@@ -65,7 +65,7 @@ We use your information as is disclosed at the time we collect the information a
 
 
 
-Back to top »
+Back to top �
 
 **Information Sharing**
 
@@ -78,7 +78,7 @@ Back to top »
 **With our business partners in whose products or services we think you may be interested.** For example, if we run a joint promotion, you will be given the option to have your information shared with our co-promotion company. We might also offer another company’s products or services on our website. When necessary, we will give that company your information.|  **In some  
 circumstances**  
   
-Back to top »
+Back to top �
 
 **Your Choices**
 
@@ -92,7 +92,7 @@ To manage how we -and our third party vendors- use cookies and other tracking to
 
 You can choose whether or not to disclose personal information. Some parts of our sites and some services may be more difficult or impossible to use, though, if you choose not to share. If you turn of cookies or tracking tools parts of our site and services may also not function properly. 
 
-Back to top »
+Back to top �
 
 **More Questions?**
 
@@ -102,7 +102,7 @@ Pizza Hut, Inc.
 7100 Corporate Drive  
 Plano, Texas 75024
 
-Back to top »
+Back to top �
 
 **Our Sites and Children**
 
@@ -112,30 +112,30 @@ Under the Children’s Online Privacy Protection Act ("COPPA"), you have the rig
 
 To learn more about how to protect your child online [read the helpful information provided by the FTC](http://www.onguardonline.gov/), which includes [this consumer education bulletin](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm). Parents, although we do not collect personally identifiable information from children under 13, you should be aware that under the Children's Online Privacy Protection Act, if we did collect such information, we would be prohibited from conditioning a child’s participation in an activity on the child’s disclosure of more personal information than is reasonably necessary to participate in such activity. 
 
-Back to top »
+Back to top �
 
 **Security**
 
 We use industry standard measures to protect personal information. We cannot guarantee that you will be completely secure, however. We recommend that you use caution when using the Internet or mobile devices.
 
-Back to top »
+Back to top �
 
 **Links**
 
 This Site may contain links to other websites that Pizza Hut may not own or operate. We cannot control and we are not responsible for the privacy practices or content of such other websites. We encourage you to read the privacy statements of each and every website that collects personal information. This Policy only applies to the personal information collected on this Site.. 
 
-Back to top »
+Back to top �
 
 **Updating Personal Information**
 
 If you are a registered user on our Site, you can review, correct, update or delete/deactivate your personal information. Log on to our Site and click on "My Account" to make changes.. 
 
-Back to top »
+Back to top �
 
 **Policy Updates**
 
 This Policy was updated on April 17, 2012. We will post any changes on the Site's homepage. Check [here](http://quikorder.pizzahut.com/QOcontent2/Files/PDF/PizzaHutWebsitePrivacyPolicy.pdf) for the most recent version of our policy. Where permitted by law, changes to our policy will be applied to information we already maintain. . 
 
-Back to top »
+Back to top �
 
 **Effective as of April 17, 2012**
