@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staplespromotionalproducts.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228211425id_/http%3A//www.staplespromotionalproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staplespromotionalproducts.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204012551id_/http%3A//www.staplespromotionalproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Staples Promotional Products Privacy Policy
 
@@ -222,7 +222,7 @@ www.transunion.com
 
 International Considerations and Safe Harbor
 
-Staples is registered with the U.S. Department of Commerce's Safe Harbor Program and adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
+Staples complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Staples has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Staples' certification, please visit <http://www.export.gov/safeharbor/>.
 
 For California Residents) Privacy Rights under California Civil Code Sections 1798.83-1798.84
 
