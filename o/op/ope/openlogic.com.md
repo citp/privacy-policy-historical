@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openlogic.com privacy policy that was archived on 2012-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120227005900id_/http%3A//www.openlogic.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openlogic.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205002435id_/http%3A//www.openlogic.com/policy) for the most accurate reproduction.*
 
 # OpenLogic Privacy Policy
 
@@ -22,13 +22,13 @@ The OpenLogic website contains links to other sites. OpenLogic is not responsibl
 
 ## Opt-Out
 
-As part of our ongoing customer education and service, you may receive email updates related to our products and services. You may choose to be removed from any or all mailing lists with any of the following options: 
+As part of our ongoing customer education and service, you may receive email updates related to our products and services. You may choose to be removed from any or all mailing lists with any of the following options:
 
-Send email to [info@openlogic.com](mailto:info@openlogic.com) stating your request.
+  * Send email to [info@openlogic.com](mailto:info@openlogic.com) stating your request.
+  * Click on the Unsubscribe link within any email message you receive from OpenLogic.
+  * Reply to any unwanted communications that you receive, stating your request.
 
-Click on the Unsubscribe link within any email message you receive from OpenLogic.
 
-Reply to any unwanted communications that you receive, stating your request.
 
 ## Notification of Changes
 
