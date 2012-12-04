@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lalasavesyoumoney.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606025225id_/http%3A//lalasavesyoumoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lalasavesyoumoney.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204235738id_/http%3A//lalasavesyoumoney.com/privacy-policy) for the most accurate reproduction.*
 
-# LaLa Saves You Money
+# Privacy Policy - Lala Saves You Money
 
 From what I’m reading, not only should I have a disclaimer, but I also need to have a Privacy Policy for my sites.
 
