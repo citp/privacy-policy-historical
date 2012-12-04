@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the househunt.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509093956id_/http%3A//www.househunt.com/privacy04.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the househunt.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204014816id_/http%3A//www.househunt.com/privacy04.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
