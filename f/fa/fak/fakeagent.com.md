@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the fakeagent.com privacy policy that was archived on 2012-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120328130916id_/http%3A//www.fakeagent.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fakeagent.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204041223id_/http%3A//www.fakeagent.com/tour/privacy.html) for the most accurate reproduction.*
 
 # FakeAgent.com
 
-PRIVACY POLICY
+Privacy Policy
 
 #### Applicable to FakeAgent.com Services 
-
-#### 
 
 Really Useful Ltd. operates services  that are accessed through the  FakeAgent.com website. By using or visiting this  site, You agree to the collection and use of information by us in accordance  with the terms of this policy (“Privacy Policy”). If You do not agree with this Privacy Policy, please do not use the FakeAgent.com site.  We make every effort to avoid the need to ask for any personal information of our users because the security of your information is very important to us.  We take all reasonably appropriate steps to limit the risk that your data may be lost, damaged or misused. Minors Not Eligible to Use Our Service The Site expressly and strictly limits membership and/or viewing privileges to adults 18 years of age and over or having  attained the age of majority in their community and country. All persons who do not meet this criteria are strictly forbidden from accessing or viewing the contents of  FakeAgent.com. We do not knowingly collect any personal information from minors and minors may not lawfully visit the Site or use any  FakeAgent.com  services.
 
