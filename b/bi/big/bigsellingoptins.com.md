@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the bigsellingoptins.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512001927id_/http%3A//bigsellingoptins.com/listbuilding/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigsellingoptins.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204034938id_/http%3A//optinpop.com/privacy-policy) for the most accurate reproduction.*
 
-# BigSellingOptins | Privacy Policy
+# Privacy Policy | OptinPop
 
 **HOW WE PROTECT YOUR PRIVACY**
 
-This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
+This [privacy policy](http://optinpop.com/privacy-policy/ "privacy policy") tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this [privacy policy](http://optinpop.com/privacy-policy/ "privacy policy"). In particular, you consent to our collection and use of your personal information as described in this [privacy policy](http://optinpop.com/privacy-policy/ "privacy policy").
 
 **MINORS**
 
 We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
 
-**POLICY IS PART OF OUR[TERMS AND CONDITIONS OF USE](http://bigsellingoptins.com/terms-conditions/ "TERMS AND CONDITIONS OF USE")**
+**POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE**
 
 Our privacy policy is part of, and subject to, our website’s terms and conditions of use. You may view these terms and conditions on our website.
 
@@ -24,15 +24,17 @@ We may also collect any data that you provide us by posting it at our website or
 
 Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
 
+Some of the links provided on this site will re-direct you to sites that are not owned or controlled by us. They will have their own privacy policies which you should review before committing your personal data to them. We do not hide these re-directions from you.
+
 **WHAT WE DO WITH YOUR INFORMATION**
 
-We use your information to operate our website’s business activities. For example, we may use this data to [contact](http://bigsellingoptins.com/contact/ "contact") you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website’s terms and conditions.
+We use your information to operate our website’s business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website’s terms and conditions.
 
 As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.
 
 We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.
 
-Although we do not disclose individually identifiable information, we may disclose aggregate data about our website’s visitors to advertisers or other third parties for marketing and promotional purposes.
+Although we do not disclose individually identifiable information, we may disclose aggregate data about our website’s visitors to advertisers or other third parties for [marketing](http://en.wikipedia.org/wiki/Online_marketing "marketing") and promotional purposes.
 
 From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
 
@@ -52,7 +54,7 @@ You may choose to provide personal information to website visitors or other thir
 
 **AUTORESPONDERS**
 
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to support[at]reactorpublishing.com, or sending us mail to the address listed below.
+We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each [autoresponder](http://en.wikipedia.org/wiki/Autoresponder "autoresponder") message. If you have difficulties opting out, you may contact us by sending an e-mail to support[at]reactorpublishing.com, or sending us mail to the address listed below.
 
 **POLICY CHANGES**
 
@@ -62,20 +64,24 @@ If you are concerned about the topic covered by this policy, you should read it 
 
 You may also mail your concerns to us at the following address:
 
-Reactor Publishing  
+OptinPop.com  
 5 Wooland Court  
 Fleet, Hampshire  
 GU52 6XS  
-United Kingdom  
-CALIFORNIA PRIVACY RIGHTS
-
-If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to support[at]reactorpublishing.com or write us at the following address:
-
-Reactor Publishing  
-5 Wooland Court  
-Fleet, Hampshire GU52 6XS  
 United Kingdom
 
-This privacy policy was last updated on 11-28-2009.
+**CALIFORNIA PRIVACY RIGHTS**
 
-Copyright © 2008-2009 Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at BigSellingOptins.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct [marketing](http://en.wikipedia.org/wiki/Online_marketing "marketing") purposes.
+
+To request this information, please send an e-mail to support[at]reactorpublishing.com or write us at the following address:
+
+OptinPop.com  
+5 Wooland Court  
+Fleet, Hampshire  
+GU52 6XS  
+United Kingdom
+
+This privacy policy was last updated on 03-22-2010.
+
+##### Copyright © 2008-2009 Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at OutVeo.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
