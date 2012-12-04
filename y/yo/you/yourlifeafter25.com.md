@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the yourlifeafter25.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520163159id_/http%3A//yourlifeafter25.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlifeafter25.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204085510id_/http%3A//yourlifeafter25.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Your Life After 25
 
-**What information do we collect?**
-
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
+**What information do we collect?** We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
@@ -84,5 +82,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 http://yourlifeafter25.com
 
 info@yourlifeafter25.com  
-404-590-0828  
-
+404-590-0828
