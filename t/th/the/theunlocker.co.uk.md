@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the theunlocker.co.uk privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522061237id_/http%3A//www.theunlocker.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theunlocker.co.uk privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204084437id_/http%3A//www.theunlocker.co.uk/privacy.php) for the most accurate reproduction.*
 
 # The Unlocker - Privacy Policy
-
-## Our Privacy Policy
 
 PRIVACY OF YOUR ACCOUNT. We consider all your registration data and the content of all of your messages to be private. The header of the messages that you send will contain your name (e-mail address) and Internet Protocol (IP) address. We will not intentionally monitor or disclose any of your e-mail messages or registration data unless we are required to do so:
 
@@ -26,3 +24,6 @@ ACCOUNT TERMINATION. TheUnlocker offers its members the ability to terminate the
 NO SPYWARE / ADWARE. TheUnlocker operates a Zero Tolerance policy regarding spyware and adware across our network, if any members profile is found to use spyware or adware on their account then the account will be terminated without warning.
 
 YOUR CONSENT. By using this site and its services, you consent to the collection and use of this information by TheUnlocker. If any changes to our privacy policy are made, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+  
+
