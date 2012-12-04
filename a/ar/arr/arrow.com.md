@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arrow.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418053125id_/http%3A//www.arrow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrow.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204233328id_/http%3A//www.arrow.com/privacy.html) for the most accurate reproduction.*
 
 # Arrow Electronics: Privacy Policy
 
@@ -68,8 +68,8 @@ Arrow will deal fairly with each person whose Personal Data is in Arrow’s cust
 
   * This Privacy Policy is issued by Arrow and applies exclusively to facilities of Arrow Electronics, Inc. and its subsidiaries and related entities. 
   * Arrow may change this Privacy Policy from time to time as it deems appropriate.  This Policy is made public on our website and is current as at the date written above. 
-  * This policy is designed to comply with the Safe Harbor principles available to U.S. companies under the European Commission’s directive on data protection.  As Arrow Electronics, Inc. is a U.S. company, it has decided to voluntarily register for Safe Harbor. 
-  * This document describes Arrow’s privacy policy.  However, this policy does not grant or create any additional rights or remedies for the Data Subjects or any additional obligations on the part of Arrow other than those obligations required by applicable law, including the Safe Harbor. 
+  * This policy is designed to comply with the Safe Harbor Privacy Principles as set forth by the U.S. Department of Commerce in consultation with the European Commission that are available to U.S. companies under the European Commission’s directive on data protection.  As Arrow Electronics, Inc. is a U.S. company, it has voluntarily decided to comply with the U.S.-EU Safe Harbor Framework and certify its adherence to the Safe Harbor Privacy Principles.  To learn more about the Safe Harbor program, and to view Arrow’s certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/ "http://www.export.gov/safeharbor/")
+  * This document describes Arrow’s privacy policy.  However, this policy does not grant or create any additional rights or remedies for the Data Subjects or any additional obligations on the part of Arrow other than those obligations required by applicable law, including the U.S.-EU Safe Harbor Framework. 
 
   
 
