@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factual.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512071818id_/http%3A//www.factual.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factual.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204034000id_/http%3A//www.factual.com/privacy) for the most accurate reproduction.*
 
 # Factual | Privacy Policy
 
