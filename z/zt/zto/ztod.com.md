@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ztod.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605011307id_/http%3A//www.ztod.com/legal.php%3F%26pg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ztod.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204142105id_/http%3A//www.ztod.com/legal.php%3F%26pg%3Dprivacy) for the most accurate reproduction.*
 
-# ZTOD.com - Watch and Download HD High Definition Porn
+# 
 
 **This Privacy Policy applies to the following websites: (1) www.ztod.com (collectively, the "Sites", or individually, a "Site").**
 
@@ -66,4 +66,4 @@ Contact Information
 
 If you have any questions about this Privacy Policy, or if you otherwise need to contact us regarding your personally identifiable information, please contact us by sending an e-mail. Please provide us with your password, user name and account number so we can service you quicker. 
 
-For www.ztod.com and its related sites, please [contact us](https://web.archive.org/contact.php?). 
+For www.ztod.com and its related sites, please [contact us](https://web.archive.org/contact.php). 
