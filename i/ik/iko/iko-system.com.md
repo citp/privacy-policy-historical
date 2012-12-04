@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the iko-system.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206092205id_/http%3A//www.iko-system.com/about-iko/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iko-system.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204112207id_/http%3A//www.iko-system.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | IKO System
+# Iko's privacy policy
 
-**Our commitment to privacy and security**
+### **Our commitment to privacy and security**
 
-**Data protection**
+### **Data protection**
 
 IKO System is designed to ensure the confidentiality of credentials, API access, user personal data and (especially) business data. All companies you tag as clients and prospects remain your personal information and shall not be accessible either to others users, system administrators or third parties.
 
@@ -20,7 +20,7 @@ Our integration with social networks platforms requires API connections by our u
 
 Your data remain at IKO System, on our secure storage servers. The infrastructure management is operated internaly. The security of the infrastructure is enforced through vulnerability maintenance and several security audits each year, conducted by our partner LEXSI, the #1 European security audit services provider.
 
-**Personal profiles**
+### **Personal profiles**
 
 If you use IKO System or if you have some sort of relationships with IKO System users, your personal profile may appear on our platform.
 
@@ -30,6 +30,6 @@ Whenever you are a registered user of IKO System or not, you can request the ame
 
 If you request the complete deletion of your profile, we will ensure your privacy in the future.
 
-**Payment and billing information**
+### **Payment and billing information**
 
 We do not view, manipulate or store your payment information. Your credit card details are completely managed by Paypal Inc or by a regulated banking institution. Billing information is operated from Salesforce.com service.
