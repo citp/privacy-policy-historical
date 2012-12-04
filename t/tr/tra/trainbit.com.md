@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainbit.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626193124id_/http%3A//www.trainbit.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainbit.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204035309id_/http%3A//trainbit.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Trainbit | Privacy Policies
 
