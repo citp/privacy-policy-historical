@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the handymanclub.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321074908id_/http%3A//www.namginc.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handymanclub.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204154304id_/http%3A//namginc.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# North American Affinity Clubs, Inc
+# Privacy Policy
 
-**North American Membership Group, Inc.  
-Privacy Policy**  
 Last updated on January 20, 2010
 
-  
 **North American Membership Group, Inc. (“NAMG”)**  
 In addition to reviewing this Privacy Policy, please read our [Terms](http://namginc.com/terms_of_service.html) of Service. Your use of this website constitutes agreement to its terms and conditions. 
 
@@ -14,29 +11,29 @@ NAMG values the relationship we have with our members and we are committed to re
 
 This Privacy Policy applies to our information-gathering and dissemination practices for the following sites (hereinafter referred to collectively as “The Websites”): 
 
-·         North American Hunting Club ([huntingclub.com](javascript:openWindow2\('http://www.huntingclub.com'\);)) 
+·         North American Hunting Club (huntingclub.com) 
 
-·         North American Fishing Club ([fishingclub.com](javascript:openWindow2\('http://www.fishingclub.com'\);)) 
+·         North American Fishing Club (fishingclub.com) 
 
-·         Handyman Club of America ([handymanclub.com](javascript:openWindow2\('http://www.handymanclub.com'\);)) 
+·         Handyman Club of America (handymanclub.com) 
 
-·         National Home Gardening Club ([gardeningclub.com](javascript:openWindow2\('http://www.gardeningclub.com'\);)) 
+·         National Home Gardening Club (gardeningclub.com) 
 
-·         Golf Partners Club ( _[golfpartnersclub.com](javascript:openWindow2\('http://www.golfpartnersclub.com'\);)_ ) 
+·         Golf Partners Club (golfpartnersclub.com) 
 
-·         Cooking Club of America ([cookingclub.com](javascript:openWindow2\('http://www.cookingclub.com'\);)) 
+·         Cooking Club of America (cookingclub.com) 
 
-·         National Health & Wellness Club ([healthandwellnessclub.com](javascript:openWindow2\('http://www.healthandwellnessclub.com'\);)) 
+·         National Health & Wellness Club (healthandwellnessclub.com) 
 
-·         Creative Home Arts Club ([creativehomeartsclub.com](javascript:openWindow2\('http://www.creativehomeartsclub.com'\);)) 
+·         Creative Home Arts Club (creativehomeartsclub.com) 
 
-·         The History Channel Club ([thehistorychannelclub.com](javascript:openWindow2\('http://visitors.thehistorychannelclub.com'\);)) 
+·         The History Channel Club (thehistorychannelclub.com) 
 
-·         Motorcycle Riders Club of America([motorcycleridersclubofamerica.com](javascript:openWindow2\('http://motorcycleridersclubofamerica.com/'\);)) 
+·         Motorcycle Riders Club of America(motorcycleridersclubofamerica.com) 
 
-·         MLB Insiders Club ([mlbinsidersclub.com](javascript:openWindow2\('http://mlbinsidersclub.com/'\);)) 
+·         MLB Insiders Club (mlbinsidersclub.com) 
 
-·         North American Membership Group ([NAMGinc.com](javascript:openWindow2\('http://www.namginc.com'\);)) 
+·         North American Membership Group (NAMGinc.com) 
 
 **THE TYPE OF INFORMATION THAT NAMG COLLECTS ONLINE**  
 NAMG generally collects personally identifying information with your specific knowledge and consent. For instance, when you enroll in a club, enter a sweepstakes or contest, complete a survey, make a purchase, or register for any portion of our services, you are asked to provide information such as your e-mail address, mailing address, name or phone number. Optional information such as your age or gender may also be requested. 
@@ -48,7 +45,7 @@ Whenever you request a page from The Websites your IP address, browser and versi
 **YOUR CALIFORNIA PRIVACY RIGHTS  
 **Customers residing in California may submit a request for disclosure of (1) the categories of personal information that we may share with third parties, and (2) a list of the names and addresses of all third parties with whom we have shared such information for their marketing purposes during the preceding calendar year. To request this information, please submit a request to:
 
-[](http://www.namginc.com/caprivacyrights@namginc.com)[caprivacyrights@namginc.com](mailto:caprivacyrights@namginc.com)
+[caprivacyrights@namginc.com](mailto:caprivacyrights@namginc.com)
 
 **HOW NAMG USES INFORMATION PROVIDED BY YOU**  
 We use the information you provide in order to 1) fulfill requests for products, services or information, 2) administer your membership accounts, 3) provide member services, 4) administer contests or promotions, 5) offer new products and services, 6) measure and improve the effectiveness of our websites or our marketing endeavors, 7) tailor our online offerings to your preferences, and 8) other business purposes. NAMG will provide you with the opportunity to opt-out of having your information used for marketing communications.
@@ -102,7 +99,7 @@ We give you the following options for removing your personal information from ou
 
 2.       You can send your request via email to the club-specific website: 
 
-·         Creative Home Arts Club = memberservices@creativehomeartsclub.com
+·         Creative Home Arts Club = memberservices@creativehomeartsclub.com 
 
 ·         MLB Insider Club = memberservices@baseballinsidersclub.com
 
@@ -127,3 +124,90 @@ We give you the following options for removing your personal information from ou
 ·         National Health & Wellness Club = [memberservices@healthandwellnessclub.com](mailto:memberservices@healthandwellnessclub.com)
 
 3.    You can send your request via U.S. Postal Service to the following club-specific mailing address:
+
+Creative Home Arts Club
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+MLB Insiders Club
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+Cooking Club of America
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+Handyman Club of America
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+North American Fishing Club
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+National Home Gardening Club
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+North American Hunting Club
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+The History Channel Club
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+Motorcycle Riders Club of America
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+Golf Partners Club
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+National Street Machine Club
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+National Health & Wellness Club
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+**Please note:** We are not responsible for removing information from third-party lists or entities with which we have shared your information pursuant to this policy.
+
+**UPDATING OR CHANGING YOUR INFORMATION**  
+Changes to personal information can be made by sending a request via e-mail or US mail to the addresses noted above under **OPT-OUT.**
+
+**CONTACTING US**  
+If you have any questions about this Privacy Policy, the practices of The Websites, or your dealings with us, please feel free to contact us at:
+
+North American Membership Group   
+12301 Whitewater Drive  
+Minnetonka, MN 55343
+
+**REVISIONS TO OUR PRIVACY POLICY**  
+Any of the policies or procedures above may be changed at any time without prior notice. You can determine if this Privacy Policy has been revised by referring to the "Last Updated" date at the top of this page. Use of The Websites constitutes your acceptance of the terms of our Privacy Policy then in effect. We encourage you to bookmark this page and to periodically review it to ensure familiarity with the most current version of our Privacy Policy.
