@@ -1,14 +1,9 @@
-> *The following text is extracted and transformed from the myfreeshares.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605092721id_/http%3A//www.myfreeshares.com/privicy.php%3Fref%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreeshares.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204022045id_/http%3A//www.myfreeshares.com/privicy.php%3Fref%3D) for the most accurate reproduction.*
 
 # MyFreeShares - get paid just for being our member !
 
 active members :  
-33212  [](http://www.etoro.com/B891_A17661_TClick_Smfsbnr.aspx) | 
-
-** January 10. 2012  
-Brand New Traffic Exchange Really Must join! [**TrafficBonus**](http://trafficbonus.com/aff/edelweis) 5 Referral Levels, Great Upgrades start at only $9.97, Great OTO offer at first login!, Win Cash and other prices while surfing!, Up to 50% Downline Commission. Join now and use it to promote your favorite sites!   
-[**Click Here to join TrafficBonus**](http://trafficbonus.com/aff/edelweis) **Greetings Donkeymails Team  
-** ******
+33212  [](http://www.etoro.com/B891_A17661_TClick_Smfsbnr.aspx) |  MyfreeShares Favorites Must join!-> [Smart Media (paid)](http://edelweis.smartmediatechnologies.com/) | [HomePagepays (FREE)](http://edelweis.homepagepays.com/) | [Stiforp NR 1.!](http://edelweis.stiforptour.com/?SOURCE=07mfs) | [Work from home!](http://edelweis.onebigpowerline.com/?SOURCE=07mfs)
 
 **Privacy Policy Statement  
 This is the web site of MyFreeShares.com.**
