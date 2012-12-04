@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpbb3now.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626225645id_/http%3A//www.phpbb3now.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpbb3now.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204075738id_/http%3A//www.phpbb3now.com/en/privacy) for the most accurate reproduction.*
 
 # No-AD Free Forum - Free Phpbb3 Forums Hosting - Phpbb3now.com
 
