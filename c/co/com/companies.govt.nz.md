@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the companies.govt.nz privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515222412id_/http%3A//www.business.govt.nz/resolveUid/8754063355cf7c570aaa4b90cc7fd436) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companies.govt.nz privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204085052id_/http%3A//www.business.govt.nz/resolveUid/8754063355cf7c570aaa4b90cc7fd436) for the most accurate reproduction.*
 
 # Privacy statement | Companies Office The Official Site
 
-The Ministry of Economic Development systems to which this website connects and related equipment may be subject to monitoring.  Personal information regarding users may be collected for statistical purposes in determining the use of this website.  We may use information it holds to prevent and detect fraud; we may also share such information, for the same purpose, with other organisations.
+The Ministry of Business, Innovation and Employment systems to which this website connects and related equipment may be subject to monitoring.  Personal information regarding users may be collected for statistical purposes in determining the use of this website.  We may use information it holds to prevent and detect fraud; we may also share such information, for the same purpose, with other organisations.
 
 The information we may collect about you will not be disclosed to any other person in a form that will identify you except in the following circumstances:
 
