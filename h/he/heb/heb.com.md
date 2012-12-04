@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heb.com privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320211603id_/http%3A//www.heb.com/page/about-us/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heb.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204220602id_/http%3A//www.heb.com/page/about-us/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - H-E-B
 
@@ -77,8 +77,8 @@ Internally, H-E-B restricts consumer information under our control to those pers
 **Direct Mail Address:  
 **H.E. Butt Grocery Company  
 Attention: Privacy Office  
-P.O. Box 839999  
-San Antonio, TX 78283-3999
+P.O. Box 101047  
+San Antonio, TX 78201-9047
 
 **E-Mail Address:  
 **[privacyoffice@heb.com](mailto:privacyoffice@heb.com "Email")
