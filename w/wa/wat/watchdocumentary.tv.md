@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the watchdocumentary.tv privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602082603id_/http%3A//watchdocumentary.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchdocumentary.tv privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204172221id_/http%3A//www.watchdocumentary.tv/privacy-policy) for the most accurate reproduction.*
 
-# Watch Privacy Policy | Free Documentaries Online
+# Watch: Privacy Policy (Documentary)
 
-**Privacy Policy** – http://watchdocumentary.tv/privacy-policy/
+**Privacy Policy** – <http://watchdocumentary.tv/privacy-policy/>
 
 **General.** Watchdocumentary.TV places great importance in protecting your privacy. This Privacy Policy is designed to explain the manner in which Watchdocumentary.TV collects, uses, and discloses the personal information provided by you as a result of the use of Watchdocumentary.TV’s Web Site and the content, information and services provided through the Web Site by Watchdocumentary.TV.
 
@@ -12,5 +12,11 @@ BY ACCESSING THIS WEB SITE, THE WEB SITE LOCATED AT THE URL HTTP://WATCHDOCUMENT
 **User Tracking.** This Site implements a user tracking feature, whereby the activities of each unique visitor to the Site are monitored. This is done regardless of whether the visitor has registered on the Site or is visiting the Site anonymously. If you do not register on this Site or fill in your personal details on any forms, you do remain anonymous and we do not discover your identity. Our use of user tracking enables us to identify your future and prior activities on the Site. This includes pages on our Site that you visited. User tracking also allows us to determine through which means you have reached our Site (i.e. which search engines or links) up to one web page back. The purpose of our user tracking is to analyze our visitors’ actions in order to improve the user experience of visitors to our Site, as well as to better understand the priorities and interests of our potential customers and partners in order to better suit their needs and increase the efficiency of our sales and marketing processes.
 
 Use of Cookies. A “cookie” is a small text file transferred by a Web Site to a computer that is browsing the Web Site. Even if you do not register on this Site, upon your first visit to this Site (or subsequent visits if you delete the cookie), a cookie is stored on your computer, which automatically identifies you to the Site. This is done for several technical reasons, including enabling the “User Tracking” described above. In addition, for your convenience, the cookie can “autofill” information on forms on the Site, precluding the need for you to fill out the same information on our registration forms each time you want to access information that requires registration. However, cookies by themselves cannot be used to discover the identity of the user; the only personal information we learn about you is that which you provide to us, as described above. If you would prefer not to receive cookies, you can change the configuration of your browser to refuse cookies. In addition, you can delete any cookies that have already been placed on your computer.
+
+**Cookies & 3rd Party Advertisements**
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 If you have any question regarding our privacy policy, kindly [contact us](http://watchdocumentary.tv/contact/).
