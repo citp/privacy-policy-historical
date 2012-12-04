@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myadmarket.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503215306id_/http%3A//www.myadmarket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myadmarket.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205004825id_/http%3A//www.myadmarket.com/home/privacy-policy) for the most accurate reproduction.*
 
-# MyAdMarket: Privacy Policy
+# Privacy Policy | MyAdMarket - White Label Contextual Display & XML Ad Serving System for Advertisers, Agencies, Publishers and Networks. | MyAdMarket
 
 At MyAdMarket.com, we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor’s will. We do not and will not share any personal information with any third parties unless by governmental order.
 
@@ -18,8 +18,8 @@ We do not merge or associate our cookie information with any other visitor’s c
 You also have flexible choices in respect to cookies. By simply modifying your browser preferences, you have the right to choose whether:
 
 To accept all cookies,
-To be notified when a cookie is set, 
-To reject all cookies. For more information on how to modify your browser settings in order to block or filter cookies, please visit <http://www.cookiecentral.com/faq/>. 
+To be notified when a cookie is set,
+To reject all cookies. For more information on how to modify your browser settings in order to block or filter cookies, please visit <http://www.cookiecentral.com/faq/>.
 
 However, please note that if you reject some or all cookies, your experience at our sites and on other sites throughout the web may not be completed. Some sites require cookies to function, such as those with e-commerce features. In addition, if you disable cookies, you will not be eligible to take advantage of personalized content delivery offered by us or other Internet sites.
 
