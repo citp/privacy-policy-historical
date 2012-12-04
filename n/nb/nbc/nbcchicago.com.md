@@ -1,146 +1,330 @@
-> *The following text is extracted and transformed from the nbcchicago.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606143259id_/http%3A//www.nbcchicago.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcchicago.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204233350id_/http%3A//www.nbcchicago.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NBC Chicago
 
-_This Privacy Policy was last updated on July 8, 2011._
+_This Privacy Policy was last updated on November 12, 2012._
 
-**Introduction:**
+  
 
-The web sites which are located at the domain NBCChicago.com (the "Site") are operated by [NBC](https://web.archive.org/web/20120606143259id_/http://topics?topic=NBC+Universal+Inc. "NBC Universal Inc.") Owned Television Stations. Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site. This Site is operated in and controlled from the [United States of America](https://web.archive.org/web/20120606143259id_/http://topics?topic=United+States "United States"). If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at [newsletters@nbcchicago.com](mailto:newsletters@nbcchicago.com) or at the address at the end of this policy. 
 
-PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE SITE CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE. 
+**NBC Owned Television Stations** **Website Privacy Policy**
 
-1\. Types of Information Collected 
+ **NBC Owned Television Stations (NBC OTS), a subsidiary of NBCUniversal Media, LLC,** a company incorporated under Delaware law, with its registered address at 30 Rockefeller Plaza, New York, New York 10112 **,** is responsible for this Website and its contents. 
 
-· Personal Data
+NBC OTS respects your concerns about privacy and values the relationship we have with you. 
 
-· Aggregate and [Anonymous Data](https://web.archive.org/web/20120606143259id_/http://topics?topic=Anonymous+Data+Corp. "Anonymous Data Corp.")
+This Privacy Policy describes 
 
-2\. Use of Cookies and Other Technologies 
+\- the types of personal information we collect on this Website. (The term “ _personal information_ ” means information about you.) 
 
-3\. Our Use of Your Information 
+\- how we may use that personal information and with whom we may share it 
 
-4\. Disclosure of Personal Data to Third Parties 
+\- the measures we take to protect the security of your personal information 
 
-· Disclosure to Affiliates 
+\- your rights and how you can contact us 
 
-· Disclosure to Third Parties
+Please note that this Privacy Policy does not apply to information you provide to us offline. 
 
-· Disclosure to Others 
+Please review this Privacy Policy and the [Terms of Service](http://www.nbcchicago.com/terms/) for this Website carefully. Your use of this Website signifies your agreement to this Privacy Policy and the Terms of Use. 
 
-5\. Third Party Advertising and Links to Other Sites 
+  
 
-6\. Your Choice 
 
-7\. Access and Correction 
+**1\. Personal Information We Collect and How We Use It**
 
-8\. Children and Privacy 
+  
 
-9\. Message Boards, Chat Rooms, Blogs and Other User Forums 
 
-10\. Data Security 
+We may collect information when you interact with the Website, for example when you subscribe to newsletters, register for chat rooms, participate in competitions or games, purchase merchandise etc. 
 
-11\. Exclusions 
+See below for more details about what type of information we may collect from you during those interactions. 
 
-12\. Other Terms and Conditions 
+  
 
-13\. Site Location 
 
-14\. Changes to this Privacy Policy 
+**_1.1 Personal Information You Provide To Us_**
 
-15\. Contacting NBC Owned Television Stations Regarding Your Privacy 
+  
 
-**1\. Types of Information Collected:**
 
-**Personal Data:**
+You may choose to provide personal information (such as your name, address, telephone number or email address) through the Website. If you choose not to provide us with your personal information, you may not be able to access some of the services offered on the Website (e.g. subscribe to newsletters, enter competitions, and purchase products). 
 
-Personally Identifiable Information (“Personal Data”) is any information that can be used to identify a specific individual, such as your name, email address, home address, phone number and credit card information. This Site collects Personal Data when you interact with the Site for example when you subscribe for newsletters; register for membership services such as chat rooms or message boards; participate in chat rooms, blogs or other user forums; respond to polls or surveys; purchase merchandise via the Site; register for sweepstakes, contests and other promotional opportunities; or seek help from our customer service departments. We also may collect information when you purchase products or services offline, or register for wireless services via your cellphone or other wireless devices (“Other Services”). Because providing detailed information regarding our privacy policy when you register or provide information in connection with these Other Services often proves impractical, you may instead be provided with a short notice that reminds you to refer to this Privacy Policy and other relevant information from us. We may also obtain Personal Data from reputable third parties, such as credit agencies. 
+Our goal is to collect and use only that information that we think is required for our legitimate business interests, in order to better understand your interests and improve your experience of using this Website. In order to do so, we may collect and use your personal information as follows. 
 
-**Aggregate and Anonymous Data:**
+  
 
-Aggregate and anonymous data is information that does not identify you specifically including data collected automatically through the operation of the Site (“AA Data”). We may collect site usage data (such as which Site pages you visit and in what sequence) through the use of various technologies. For example, we collect IP addresses from individuals who visit the Site. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address, and when you request a page from a website, its servers log your IP address. We do not link IP addresses to any Personal Data, so although your session will be logged, you will remain anonymous to us and the Site. We may also collect password information from you when you log in, as well as computer and connection information such as browser type or version. During some visits, we may use software tools, such as Javascript, to measure and collect session information, including page response times, download errors, time spent on certain pages, page interaction information, and methods used to browse away from the page. 
 
-**2\. Use of Cookies and[Similar Technologies](https://web.archive.org/web/20120606143259id_/http://topics?topic=Similar+Technologies "Similar Technologies"):**
+**Protecting our Rights**
 
-Like many sites, we use "cookies" or other similar technologies to collect AA Data. A cookie is a small data file that writes to your hard drive for record keeping purposes when you visit the Site. Cookies allow the Site to measure traffic activity on the Site and to improve your user experience, for example by remembering your passwords and viewing preferences, allowing you to visit “member only” portions of the Site without re-registering, and tracking the progress and number of entries in activities that require registration or entry, such as sweepstakes. Similarly, if you have asked us to send you information about upcoming products and promotions, using cookies we collect information about which Site pages you have visited and in what order (“Clickstream Data”) that may allow us to narrow or limit the materials provided to you based on your prior online activities or preferences. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent, but it is possible that some parts of the Site will not function properly if you do so. 
+  
 
-In addition, we may use a service that collects data remotely by using so-called “pixel tags,” “web beacons,” “clear GIFs” or similar means (collectively, “Pixel Tags”) embedded in the Site’s content. A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors’ hard drives. This information is AA data. 
 
-**3\. Our Use of Your Data:**
+In general, we collect, store and use your information to provide you with a safe, smooth, efficient and customized experience on the Website. However, sometimes we need to collect and use your personal information to enable us to: 
 
-**Personal Data:**
+\- to provide technical support; 
 
-We will use your Personal Data for the purposes for which it was provided. For example, if you provide Personal Data to register for a newsletter or a text messaging service, to enter a contest or a sweepstake, or to purchase goods or services, we will use it to register you for or provide you with those goods or services. We may also use your Personal Data to provide you with information about features, services and other offerings that may be of interest to you. We also may send information or offers to selected groups of Site users on behalf of other businesses. When we do this, we do not give those businesses your name or address. Under certain circumstances (for example if you win a contest) we may post your Personal Data on the Site. We will notify you of this possibility when you provide the Personal Data and, if possible, when the Personal Data is posted. 
+\- to prevent fraud or potentially illegal activities (including copyright infringement); or 
 
-Cookies and similar tools may be used to relate your use of the Site and AA Data to Personal Data obtained from you. If any AA Data is linked with Personal Data, the linked AA Data will then be treated as Personal Data. 
+\- enforce our terms of service. 
 
-**AA Data:**
+  
 
-We may also use Personal Data in aggregate form for purposes of research or analysis. In order to better understand and serve the users of the Site and Other Services, NBC Owned Television Stations often conducts research on its customer demographics, interests and behavior based on Personal Data we gather. Although this aggregated data may be based in part on Personal Data, it does not identify you personally. NBC Owned Television Stations may share this type of AA Data with a variety of third parties, including its affiliates, agents, and current and prospective business partners. 
 
-We may use AA Data collected from the Site for site administration, advertising and promotional purposes, and we may share such information with various affiliated and unaffiliated entities for such purposes. For example, IP addresses are used for the purposes of system administration and to provide AA Data to advertisers about the volume of use on the Site, and Clickstream Data and demographic AA Data may be shared with our advertisers and business partners. We may also enter into agreements with outside companies that possess technology that allows the Site to customize the advertising and marketing messages you receive on the Site. This data (including Clickstream Data about your activities on our Site) may be shared with these companies for this purpose. 
+**Contact Us**
 
-**4\. Disclosure of Personal Data:**
+  
 
-**Disclosure to Affiliates:**
 
-We reserve the right to share Personal Data with our affiliates. If you do not want us to share your Personal Data with our affiliated companies for their marketing purposes, you may opt-out of such sharing by contacting us at [newsletters@nbcchicago.com](mailto:newsletters@nbcchicago.com) (see “Your Choices” below). 
+If you communicate with us through the “Contact Us” link on the Website, we may ask you for your contact details, such as your name, email address and telephone number so we can respond to your questions and comments. You may also choose to provide additional information as well. 
 
-**Disclosure to Third Parties:**
+  
 
-NBC Owned Television Stations, like many businesses, sometimes hires other companies to perform certain business-related functions on our behalf such as hosting specific portions of the Site, maintaining databases, administering contests, providing wireless services, mailing information and processing payments. When we employ a third party to perform these functions, that third party will only be provided with the particular Personal Data it needs to perform its function, and is required to protect the Personal Data. With your consent, we may also share Personal Data with pre-screened third parties for their marketing or promotional purposes. We will provide you with an opportunity to elect or decline these services or opportunities (see “Your Choices” below). In the event you have elected to “unsubscribe” from any of our services, we will share your Personal Data with third parties with whom we jointly offer such services solely to the extent necessary to ensure that your request not to receive such communications is honored. In addition, for third-party sponsored sweepstakes, contests or promotions, we may request Personal Data from you that may be shared with the sponsor upon request. 
 
-**Disclosure to Others:**
+**Newsletters and Other Communications**
 
-In addition, we may disclose Personal Data without providing you with a choice under the following limited circumstances to: (1) protect the legal rights, privacy or safety of NBC Owned Television Stations, or its subsidiaries, affiliates or its or their employees, agents and contractors; (2) protect the safety and security of visitors to our web sites or other properties; (3) protect against fraud or other illegal activity or for risk management purposes; (4) respond to inquiries or requests from public authorities; (5) permit us to pursue available remedies or limit the damages that we may sustain; (6) enforce our Terms of Service; or (7) comply with the law or legal process. 
+  
 
-If NBC Owned Television Stations sells all or part of this Site or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may, in our sole discretion, transfer, sell or assign your Personal Data to a third party as part of or in connection with that transaction. Upon such transfer, the Privacy Policy of the acquiring entity may govern the further use of your Personal Data. 
 
-**5\. Third-Party Advertising and Links to Other Sites:**
+On the Website, you may sign up to receive newsletters and other communications about our services and promotions. To sign up, we may ask you for your contact details (such as your name and email address). This information is used by us to send you the communications you request 
 
-This Site may include third-party advertising. These third parties’ websites and advertisers, or the Internet advertising companies that work on their behalf, may use technology to send (or “serve”) the advertisements that appear on our Site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, Javascript, Pixel Tags and other technologies to deliver advertisements, collect information about the effectiveness of their advertisements, and to collect anonymous information about your visits to the Site, such as the number of times you have viewed an ad (but not your name, address, or other Personal Data). For more information about these specialized cookies and other technologies, and how to "opt out" of information collection by these companies, we suggest you visit <http://doubleclick.net/privacy_policy> or <http://networkadvertising.org/optout_nonppii.asp>. 
+Details of how you can opt-out of receiving any communications from us are detailed in the section headed “Your Rights” below. 
 
-Please note that this Site contains links to other sites that will not follow the same Privacy Policy as our Site. For instance, clicking on an advertisement or on links or other elements on the Site may take you to an entirely different site. Links to other sites may use our Site logo or style as a result of a co-branding agreement. These sites may send their own cookies to you and may collect data and make use of that data in ways that this Site would not. Once you've left this Site, this Privacy Policy will no longer apply to Personal Data or any other data collected from or provided by you. You should check the applicable privacy policy to determine how that site will handle such data. 
+  
 
-**6\. Your Choices:**
 
-You can use the Site and certain Other Services without providing any Personal Data, but if you decline to provide Personal Data, you may not be able to use certain services or features. If you have previously provided Personal Data to the Site and have subscribed to one or more email newsletters or are receiving emails or other communications from the Site and you do not want to receive such emails, please discontinue your subscriptions by selecting the "unsubscribe" link at the bottom of any message, visiting the E-mail Newsletter Registration section of the Site ([www.nbcchicago.com/newsletters/](http://www.nbcchicago.com/newsletters/)) or contacting us at: [newsletters@nbcchicago.com](mailto:newsletters@nbcchicago.com). You may opt-out of receiving offers from us and related products and services offered by third parties by adjusting your Site preferences at our [E-mail and Mobile Alerts](http://www.nbcchicago.com/newsletters) link on the home page. If you ask that we stop using your Personal Data, we will honor that request. However we will retain records of your Personal Data as needed in order to comply with applicable federal, state, or local law. 
+**Goods or Services for Purchase**
 
-**7\. Access and Correction:**
+  
 
-If you would like to review, correct or change the Personal Data that you have previously provided us, please go to the E-mail Newsletter Registration section of the Site ([www.nbcchicago.com/newsletters/](http://www.nbcchicago.com/newsletters/)) and follow the appropriate instructions or contact us at [newsletters@nbcchicago.com](mailto:newsletters@nbcchicago.com). We will take reasonable steps to update or correct Personal Data in our possession. 
 
-**8\. Children and Privacy:**
+From time to time we may offer products or services for purchase through the Website. When you choose to purchase merchandise or subscribe for such services, we may ask you to provide your name, email address, postal address and telephone number. This information is collected for the purpose of providing you with the products/services you choose to purchase and/or subscribe for. We may also ask you to provide your credit/debit card details for this purchase, or we may direct you to a third party payment processing service (such as PayPal) to make payment. If we direct you to a third party payment process service we will advise you of this during the payment process, please be aware that we are not liable or responsible for such service and that your use of that service might be subject to terms and conditions imposed by the service provider. 
 
-We encourage parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children. At various places on the Site or Other Services, we may ask users for their age. By using the Site or Other Services you agree to respond truthfully and accurately about your age. Children under the age of 13 years of age are expressly prohibited from submitting or posting any Personal Data on the Site or Other Services. 
+  
 
-**9\. Message Boards, Chat Rooms, Blogs and Other User Forums:**
 
-Please remember that information posted to message boards, chat rooms, blogs and other user forums becomes public information. Use caution when posting. Individuals under the age of 18 should be especially careful not to provide any personally identifiable information when participating in any area of the Site where postings might become public. Please see our Terms of Service for the standards of behavior that must be followed when using these portions of the Site or Other Services. 
+**Media Registration**
 
-**10\. Data Security Disclaimer:**
+  
 
-NBC Owned Television Stations takes reasonable security precautions to secure the Personal Data that you choose to provide against the loss, misuse, alteration or unauthorized access of such information. Unfortunately, no transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of NBC Owned Television Stations to intercept or access transmissions or private communications unlawfully. While we strive to protect your Personal Data, we cannot ensure or warrant the security of any Personal Data you transmit to us. Any such transmission is done at your own risk. If you believe that your interaction with us is no longer secure, please notify us of the problem by contacting us at [feedback@nbcchicago.com](mailto:feedback@nbcchicago.com). 
 
-**11\. Exclusions:**
+If you are a member of the media, you may join the “Media” section of the Website to access additional information. To sign up, we may ask you for your personal information such as your name, email address, telephone number, and company name and job title. We use this information to allow you to access additional information on the Website and to provide you with information that you may request. 
 
-This Privacy Policy shall not apply to any unsolicited information you provide to NBC Owned Television Stations on or through this Site or Other Services. Please see our Terms of Service for our policies regarding such Unsolicited Information. All such Unsolicited Information shall be deemed to be non-confidential, and NBC Owned Television Stations shall be free to reproduce, use, disclose and distribute such Unsolicited Information to others without limitation or attribution. 
+  
 
-**12\. Other Terms and Conditions:**
 
-Your access to and use of this Site or Other Services is subject to the Terms of Service. 
+**Contests, Sweepstakes and Other Promotions**
 
-**13\. Applicable Law:**
+  
 
-We control and operate this Site from the United States. The Site is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that the Site is appropriate for use in any particular jurisdiction. Those who choose to access the Site do so at their own initiative and are responsible for complying with all local laws, rules and regulations. 
 
-**14\. Changes to this Privacy Policy:**
+We may occasionally conduct contests, sweepstakes and other promotions. If you choose to enter, we may ask you for your contact details such as your name, email address, postal address and telephone number for the purpose of conducting these promotions. 
 
-From time to time, we may revise this Privacy Policy to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use. If we make revisions to the way we collect or use Personal Data, we may provide notice of those changes by either: (1) announcing the change on the home page of the Site or (2) taking such other action as we deem appropriate under the circumstances, including without limitation, posting the revised draft of this Privacy Policy on the Site. You can determine when this Privacy Policy was last revised by referring to the “Last Updated” legend at the top of this page. Any changes to this policy will become effective upon posting of the revised Privacy Policy on the Internet, accessible through the Site. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Policy, as it may be amended from time to time, in whole or in part, please do not continue using this Site. 
+  
 
-**15\. Contacting NBC Owned Television Stations Regarding Your Privacy:**
 
-If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at [newsletters@nbcchicago.com](mailto:newsletters@nbcchicago.com) or at the address at the end of this policy. 
+**Games**
+
+  
+
+
+When you play one of our games, we may collect and store certain profile information that you provide directly or through a third party that is offering our game(s). To provide a richer game and social experience, we also collect information about your play and interaction with other players and the Service. The bulk of this information is collected and stored through the use of web logs, which are files on our web servers that record actions taken on our games and the Website. In general, we collect, store and use your information to provide you with a safe, smooth, efficient and customized experience in the following ways: 
+
+to register your account and allow you to play our games 
+
+to customise your gaming experience 
+
+to administer games and improve game play 
+
+to identify and suggest connections with other Website users 
+
+to enable user-to-user communications 
+
+to provide technical support and respond to user enquiries 
+
+to prevent fraud or potentially illegal activities and enforce our terms of service 
+
+to notify users of in-game updates 
+
+to provide in-game leader boards 
+
+to communicate about our / third parties‟ new and current games/products/services (including promotional offers) 
+
+to solicit input and feedback to improve our products and services 
+
+to resolve disputes, collect fees and troubleshoot problems 
+
+Please be aware that our games are governed by additional terms of use posted on the site they are accessed from, and may also be governed by the terms of use, privacy policies and other guidelines of third parties (in the case of our games that are available on third party platforms such as Facebook). 
+
+  
+
+
+**User Profile**
+
+  
+
+
+We may also offer you the option to complete a user profile that is visible to other users of the Website. This profile may include:
+
+profile photo
+
+username(s) and/or a website ID number
+
+gender
+
+biographic details
+
+links to your profiles on social networking sites (such as Facebook)
+
+details about games you play
+
+  
+
+
+ **Message Boards, Chat Rooms, Blogs and Other User Forum**
+
+  
+
+
+Personal information posted to message boards, chat rooms, blogs and other user forums becomes public information. Please use caution when using these features of our Website. Please see our Terms of Use for the standards of behaviour that must be followed when using these sections of the Website. 
+
+You may be able to take part in certain activities on the Website or games that give you the opportunity to communicate or share information not just with us, but also with other users of this Website. These include: 
+
+participating in player forums and message boards 
+
+posting public comments to other users‟ profiles or game boards 
+
+sending private messages or invitations to other users, either directly on the Website or to their email accounts 
+
+chat with other users 
+
+post photos 
+
+The contents of any such private online communications may be accessed and disclosed (i) in response to a legal requirement such as a court order; (ii) when we are required to disclose the information in response to such a legal requirement; (iii) where we have a good faith belief that the Website is being used in the commission of a crime; (iv) where we have a good faith belief that there is an emergency which poses a threat to the safety of you or another person; and (v) when necessary either to protect our rights (including to enforce our terms of service) or for us to provide the service you have requested. 
+
+  
+
+
+**Wireless Applications**
+
+  
+
+
+Information collected when you register for or use our wireless applications and services via your phone or other mobile device or when such applications interact with this Website, for example, our smartphone applications. 
+
+  
+
+
+**Other Website Features**
+
+  
+
+
+We offer Website visitors various features for their enjoyment, which we may change from time to time. We may ask you to submit certain personal information so we can provide you with these features where this is the case we will provide more detailed information about what information you need to provide and will explain how we will use it. 
+
+  
+
+
+**Children’s Privacy**
+
+  
+
+
+We encourage parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children. At various places on the Website or when providing other services, we may ask users for their age. By using the Website or our services you agree to respond truthfully and accurately about your age. We do not knowingly collect or store any personal information from children under the age of 13. 
+
+If you are between the ages of 13 and 18, please be sure to read this Privacy Policy with your parent and obtain his or her permission before you submit or post any Personal Information, and before you use any features of this Website. 
+
+**Usernames & Passwords **
+
+  
+
+
+It is important that you protect and maintain the security of your account and that you notify us immediately of any unauthorised use of your account. Do not disclose your password to anyone else. 
+
+**Social media plug-ins**
+
+  
+
+
+Social media plug-ins of social networks such as Facebook, Twitter and Google plus (among others) are integrated on our Website. Where our sites contain a plug-in to a social network, these are clearly marked (e.g. with a Facebook button). If you chose to click on one of these buttons or links, your browser connects directly to the servers of the relevant social network. The social network directly transmits the content of the plugin to your browser. If you are registered on the relevant social network and logged into your respective account the social network receives the information that the web page was used by you. If you interact with a social network plug-in (e.g. you press the Facebook “Like” –feature, the Twitter “Tweet this” feature and Google plus “1+” button or equivalent) or drop a comment on the appropriate web page, the corresponding information is directly transmitted to the relevant social network from your browser. If you are not registered with the social network or you are logged out before you visit our Website, there is the possibility that at least your IP address will be submitted to and stored by the social network. If you interact with us through a social media platform, plug-in etc. then you may be permitting us to have on-going access to some limited information from your social network profile (such as name, email address, photo, gender, location, the people/sites you follow etc.). 
+
+If you don’t want the social network to collect the information about you described above, or to share it with us and other third parties, please review the privacy policy of the relevant social network and/or log out of the relevant social network before you visit our Website. As with other sites, you may be able delete any existing cookies placed on your computer by the social network via your browser. 
+
+**_1.2 Information We Collect Automatically_**
+
+  
+
+
+Like many companies, we use “cookies” or other similar technology (including flash cookies, e-tags, cache browsers and GIFs etc) on the Website. Cookies are bits of text that are placed on your computer’s hard drive when you visit certain websites. We use cookies to tell us, for example, whether you have visited the Website before or if you are a new visitor and to help us identify Website features in which you may have the greatest interest. Cookies may enhance your online experience, for example, by remembering your passwords and viewing preferences, while you are visiting a particular page on this site. 
+
+When you visit this site, we automatically collect certain personal information, that we then aggregate so that it is not linked to a single, identifiable individual. This information provides us with statistics such as how many users visit the Website and which pages were accessed. By collecting this information, we learn how to best tailor this site to our visitors. We may also enter into arrangements with outside companies that possess technology that allows us to customise the advertising and marketing messages you receive on this Website. To learn more about those companies and how you can opt-out of targeted advertising on this site, please click on ”About our ads” at the bottom of each page. Please note that rejecting these cookies does not mean that you will no longer see advertisements when you visit the site. Without these cookies, online advertisements you encounter will likely be less relevant to you and your interests. 
+
+We may also collect password information from you when you log in, as well as computer and/or connection information. During some visits we may use software tools to measure and collect session information, including page response times, download errors, time spent on certain pages and page interaction information. 
+
+**Anonymous Data**
+
+  
+
+
+We may also use anonymous data in aggregate form for purposes of research or analysis. In order to better understand and serve our customers, we may conduct research based on customer demographics, interests and behaviours. Although this aggregated data may be based in part on personal information it does not identify any users personally. We may share this type of anonymous data with third parties, including our affiliates, agents, service providers and current and prospective business partners to administer the Website and for advertising, promotional and other business purposes. 
+
+A number of companies offer utilities designed to help you visit websites anonymously. Although we will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these tools exist. 
+
+**2\. Where Your Personal Information Will Be Used**
+
+  
+
+
+This Website is operated from the United States. However, as a global company, NBCUniversal may from time to time transfer your personal information to other countries and make it accessible by any of our affiliate entities and third party service providers internationally. Where the transfer of information is to a country which does not provide an adequate level of information protection, NBCUniversal has taken steps to ensure that your personal information receives an appropriate level of information protection. By using this Website and providing your personal information to us you understand and agree that your personal information may be sent to other countries. 
+
+**3\. How We Share Personal Information**
+
+  
+
+
+We may share your personal information with affiliates of NBCUniversal but only for the purposes outlined in this Privacy Policy. 
+
+We may also share your personal information with service providers we have retained to perform certain business-related functions on our behalf, such as hosting websites, maintaining databases, administering contests, providing technology services, and processing payments. These parties are provided only with the personal information they need to perform their functions and can only use and disclose such personal information as is necessary to perform the services on our behalf or to comply with legal requirements. We have taken steps to ensure that any such third party service providers will take appropriate steps to protect your personal information as we would. 
+
+Some services provided on this Website may be cobranded by NBC OTS and another company. If you register to or use such a service, both our privacy statement and the partner’s privacy statement may be displayed or linked to at the point at which you register. If so, both NBC OTS and the partner will receive the information you provide when you register. 
+
+Some services provided on this Website may be cobranded by NBCUniversal and another company (partner). If you register to or use such a service, both our privacy statement and the partner’s privacy statement may be displayed or linked to at the point at which you register. If so, both NBCUniversal and the partner will receive information you provide such as on registration forms.
+
+In addition, we may disclose your personal information to our affiliates and third parties (including, amongst others, law enforcement agencies, government/regulatory bodies, content protection organisations): (1) protect our legal rights, privacy or safety, and those of our subsidiaries, affiliates, employees, agents and contractors; (2) protect the safety and security of visitors to our websites or other properties; (3) protect against fraud or other illegal activity or for risk management purposes; (4) respond to inquiries or requests from government, regulatory, law enforcement or public authorities; (5) permit us to pursue available remedies, commence, participate in, or defend litigation, or limit the damages that we may sustain; (6) comply with subpoenas, search warrants, the law or other legal process; or (7) enforce our Terms of Use. 
+
+We reserve the right to transfer your personal information in the event we sell or transfer all or a part of our business or assets. If you do not want your personal information to be processed following such a transfer, you should contact the subsequent owner of the business. You will of course be informed of any such sale or transfer. 
+
+**4\. Links to Other Sites**
+
+  
+
+
+The Website may provide links to other websites for your convenience and information. These websites may operate independently from this Website. Linked sites may have their own privacy notices and terms of use in place, which we strongly suggest you review if you visit any linked sites. To the extent any linked websites you visit are unrelated to NBCUniversal; we are not responsible for their content, maintenance or availability. 
+
+Like many other websites, we provide other websites with and allow users to “snag” or place our RSS feeds, video players and other applications on websites we do not control. This Privacy Policy applies to any information we collect when you use our RSS feeds, video players and other applications, but does not apply to information separately collected by the operators of those websites or other third parties that may provide content or services to those websites. 
+
+**5\. How We Protect Personal Information**
+
+  
+
+
+We maintain administrative, technical and physical safeguards for this Website to help protect against loss, misuse or unauthorised access, disclosure, alteration or destruction of the personal information you provide on this Website. Unfortunately, no transmission of data over the internet is guaranteed to be completely secure. It may be possible for third parties not under our control to intercept or access transmissions or private communications unlawfully. Therefore, any transmission of personal information to us is made at your own risk. If you believe that your interaction with us is no longer secure, please notify us using the contact details below. 
+
+**6\. Your Rights**
+
+  
+
+
+We provide Website visitors with access to personal information they provide through this Website and the ability to review, update and correct it as and when necessary. Such requests may be subject to a small fee. To help protect your privacy and security, we will take reasonable steps to verify your identity, such as requiring a password and user ID, before granting access to your personal information. 
+
+If you have previously provided personal information to this Website to subscribe to one or more email newsletters or are receiving emails or other communications from this Website and you do not want to receive such emails, please discontinue your subscriptions by selecting the "unsubscribe" link at the bottom of any message, or the other means provided to unsubscribe, or using the contact details below. 
+
+If you prefer that we do not use the personal information you have provided to us or we have collected via your use of this Website, you may send us a request using the contact information details below and we will use commercially reasonable efforts to honor that request. However, we will retain records of your information as needed in order to comply with applicable laws/regulations and if you provide us with any personal information after such request may use that information in accordance with this Privacy Policy. 
+
+If you would like to make such a request, update your marketing preferences (including requesting being removed from our marketing list) or if you have any questions about this Privacy Policy please contact us by: 
+
+submitting your inquiry to [newsletters@nbcchicago.com](mailto:newsletters@nbcchicago.com)
+
+writing to us at: 
 
 Privacy Policy
 
@@ -150,7 +334,27 @@ NBC Owned Television Stations
 
 New York, NY 10112
 
+If you choose to write, please send us a signed letter of request with your address and a copy of photo ID on which your signature appears. 
+
   
+
+
+**7\. Applicable Law**
+
   
+
+
+This Website is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that this Website is appropriate for use in any particular jurisdiction. Those who choose to access this Website do so at their own initiative and are responsible for complying with all local laws, rules and regulations. 
+
+  
+
+
+**8\. Updates to Our Privacy Notice.**
+
+  
+
+
+From time to time, we may revise this Privacy Policy to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use. If we make material revisions to the way we collect or use your personal information such that we are using it for purposes or sharing such data with third parties that you have not consented to, we will provide you with notice of those changes and may do so by either: (1) announcing the change on the home page of this Website or (2) taking such other action as we deem appropriate under the circumstances, including without limitation, posting the revised draft of this Privacy Policy on this Website. You can determine when this Privacy Policy was last revised by referring to the “Last Updated” legend at the top of this page. Any changes to this Privacy Policy will become effective upon posting of the revised Privacy Policy on the internet, accessible through this Website. By continuing to use this Website following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Policy, as it may be amended from time to time, in whole or in part, please do not continue using this Website.
+
   
 
