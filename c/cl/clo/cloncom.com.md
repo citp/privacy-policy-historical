@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloncom.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509230935id_/http%3A//www.cloncom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloncom.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204090039id_/http%3A//www.cloncom.com/privacy) for the most accurate reproduction.*
 
 # Calling Cards: Your Phone Card & International Calling Cards Source.
 
@@ -15,7 +15,7 @@ Cloncom knows that you care about how your personal information is used and shar
 
 When you register at Cloncom.com, we ask you for personal information. We ask for PII from two parties; Consumers and Affiliates. We request the same information from both parties. We ask you for personal information, such as your contact information including your name, email address and phone number; and your financial information such as your credit card number and security code. We will only use this information to help process your order and send you your calling cards. We may also use your email address to send you special offers or promotions. You may unsubscribe from these at any time. We may contact you by phone, but only in case there is a problem with your order.
 
-We will never sell, rent, lease or disclose your personal information to any third parties in ways other than disclosed in this privacy statement. We value your privacy and the trust you have awarded us. Through the length of our relationship, we will guard your information as if it were our own, always taking extra precautions and making the necessary investments in state of the art hardware and encryption procedures.
+We will never sell, rent, lease or disclose your personal information to any third parties in ways other than disclosed in this privacy statement. We value your privacy and the trust you have awarded us. Through the length of our relationship, we will guard your information as if it were our own, always taking extra precautions and making the necessary investments in state of the art hardware and encryption procedures. 
 
   * Collection and Use of Information
   * Communications from the Site
