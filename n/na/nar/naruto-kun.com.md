@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naruto-kun.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505054246id_/http%3A//www.naruto-kun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naruto-kun.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204085413id_/http%3A//www.naruto-kun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Naruto-Kun
 
@@ -8,11 +8,11 @@ The following webpage outlines Naruto-Kun's collection and use of personal infor
 
 ### Cookies
 
-A cookie is a very small text file placed on your system upon logging on to Naruto-Kun (and most other websites). This file serves as your identification card and is uniquely yours, and can only be read by the server that gave it to you. Cookies tell us that you have returned to a specific web page on Naruto-Kun and [help us](https://web.archive.org/help-us/ "help us") track your preferences and transactional habits. The basic function of cookies is to help our server re[member](https://web.archive.org/profile/ "member") who you are. 
+A cookie is a very small text file placed on your system upon logging on to Naruto-Kun (and most other websites). This file serves as your identification card and is uniquely yours, and can only be read by the server that gave it to you. Cookies tell us that you have returned to a specific web page on Naruto-Kun and [help us](https://web.archive.org/help-us/ "help us") track your preferences and transactional habits. The basic function of cookies is to help our server remember who you are. 
 
 ### Children's Privacy
 
-Naruto-Kun does not knowingly collect personal data from children under the age of 13. We make reasonable efforts to prevent someone who is underage from joining as a [member](https://web.archive.org/profile/ "member") of Naruto-Kun, and will not collect information from them. If Naruto-Kun learns that a child under the age of 13 has become a [member](https://web.archive.org/profile/ "member"), we will close that child's account and delete any information collected about the child. 
+Naruto-Kun does not knowingly collect personal data from children under the age of 13. We make reasonable efforts to prevent someone who is underage from joining as a member of Naruto-Kun, and will not collect information from them. If Naruto-Kun learns that a child under the age of 13 has become a member, we will close that child's account and delete any information collected about the child. 
 
 Not withstanding the foregoing, Naruto-Kun may choose to retain some personal information such as the child's e-mail address as a means to prevent the child from re-registering at our website. The Children's Online Privacy Protection Act (COPPA) went into effect in April 2000, and as a result websites all over the world wide web had to change their standards to not collect any information from a child. 
 
