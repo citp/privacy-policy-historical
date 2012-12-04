@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postcard.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627223721id_/http%3A//www.postcard.com/About/PrivacyAndSecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcard.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204190719id_/http%3A//postcard.com/About/PrivacyAndSecurity) for the most accurate reproduction.*
 
 # Privacy And Security :: postcard.com
 
