@@ -1,0 +1,860 @@
+<!--The following is the downloaded HTML source of the bbclothing.co.uk privacy policy that was archived on 2012-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121204134102id_/http%3A//www.bbclothing.co.uk/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+<title>Brown Bag Clothing Privacy Policy</title>
+
+
+<link href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
+<link href="http://www.bbclothing.co.uk/template/2011/css/layout.css?301112" rel="stylesheet" type="text/css">
+<link href="http://www.bbclothing.co.uk/template/2011/css/tabs.css" rel="stylesheet" type="text/css">
+<link href="http://www.bbclothing.co.uk/template/2011/css/dropdown2.css" rel="stylesheet" type="text/css">
+<link href="http://www.bbclothing.co.uk/template/2011/css/bx_styles.css" rel="stylesheet" type="text/css">
+<link href="http://www.bbclothing.co.uk/template/2011/inc/small_banners.css" rel="stylesheet" type="text/css">
+<link href="http://www.bbclothing.co.uk/template/2011/css/theme/blackhead.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://www.bbclothing.co.uk/template/2011/css/grumble.min.css?v=1">
+<link href="http://www.bbclothing.co.uk/template/2011/css/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css">
+<link href="http://www.bbclothing.co.uk/template/2011/css/quote.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="http://www.bbclothing.co.uk/template/2011/img/favicon.png">
+
+<!--[if IE 6]><link href="http://www.bbclothing.co.uk/template/2011/css/ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+<!--[if IE 7]><link href="http://www.bbclothing.co.uk/template/2011/css/ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
+<!--[if IE 8]><link href="http://www.bbclothing.co.uk/template/2011/css/ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
+<!--[if IE 9]><link href="http://www.bbclothing.co.uk/template/2011/css/ie9.css" rel="stylesheet" type="text/css" /><![endif]--><!--<script type="text/javascript" language="javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>-->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<script src="http://www.bbclothing.co.uk/template/2011/js/jquery.bxSlider.min.js" type="text/javascript"></script>
+<script src="http://www.bbclothing.co.uk/template/2011/js/jquery.tools.min.tabs.js"></script>   
+<script language="JavaScript" src="http://www.bbclothing.co.uk/acatalog/actiniccore.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://www.bbclothing.co.uk/acatalog/actinicextras.js" type="text/javascript"></script>  
+<script src="http://www.bbclothing.co.uk/template/2011/js/jquery.grumble.min.js?v=1"></script>
+<script src="http://www.bbclothing.co.uk/template/2011/js/jquery.quovolver.js"></script>
+<script src="http://www.bbclothing.co.uk/template/2011/js/jquery.cookie.js"></script>
+
+
+<!--<script src="http://www.bbclothing.co.uk/template/2011/js/jquery.mCustomScrollbar.js"></script>
+<script src="http://www.bbclothing.co.uk/template/2011/js/jquery.mousewheel.min.js"></script>
+<script src="http://www.bbclothing.co.uk/template/2011/js/jquery.easing.1.3.js"></script>-->
+
+
+<script language="JavaScript">
+
+//Document ready functions
+$(document).ready(function()
+{
+	//init accordion
+	$("#accordionSlider").accordion({active: false, collapsible: true});
+
+	//show default category
+	$(document.getElementById('list_brands')).css("display", "block");
+	$(document.getElementById('menu_body')).css("display", "none");
+	
+	//quote revolver
+	$('blockquote').quovolver();
+
+	//tooltip
+	/*$('#category_title').grumble(
+		{
+			text: 'Click for more product filters',
+			angle: 150,
+			distance: 3,
+			showAfter: 100,
+			hasHideButton: true, // just shows the button
+			buttonHideText: 'Pop!'
+		}
+	);*/
+		
+});
+
+function validate_form ( )
+{
+
+    valid = true;
+	
+    var email = document.newsletter.email.value;
+		var filter = /^([a-zA-Z0-9_.-])+@(([a-zA-Z0-9-])+.)+([a-zA-Z0-9]{2,4})+$/;
+		if (!filter.test(email)) {
+		alert('Please provide a valid email address');
+		valid = false;
+		}
+
+	
+    return valid;
+}
+
+var test;
+
+//homepage banner options
+(function($){	
+	$(function(){
+		$('#slider').bxSlider({
+			pause: '2000',
+			speed: 2500,
+			auto: true,
+			pager: false,
+			controls: false,
+			mode:'fade'
+			//easing: 'easeOutBounce'
+		 });
+	});	
+	
+	$(function(){
+		 test = $('#mob_slider').bxSlider({
+			pause: '7000',
+			speed: '1200',
+			auto: true,
+			pager: true,
+			controls: false
+			//easing: 'easeOutBounce'
+		 });
+	});	
+	
+}(jQuery))
+
+
+//actions on accordion menu click
+function clickAction(category){
+	
+	//get the content
+	var brands = document.getElementById('list_brands');
+	var garments = document.getElementById('list_garments');
+	var woodhouse = document.getElementById('list_woodhouse');
+	var trainerstation = document.getElementById('list_trainerstation');
+	var bluex = document.getElementById('list_bluex');
+
+	//gather information for change
+	var title = document.getElementById('category_title');
+	var accordion = document.getElementById('menu_body');
+	
+	//clear the category content
+	$(brands).css("display", "none"); 
+	$(garments).css("display", "none");
+	$(woodhouse).css("display", "none"); 
+	$(trainerstation).css("display", "none"); 
+	$(bluex).css("display", "none"); 
+	
+	//change the title
+	title.innerHTML = category
+	$("#leftcol h2.menu_head").css({backgroundImage:"url(template/2011/img/arrow_right.png)"})
+	
+	//update the catgegory listing
+	if(category == 'brands'){$(brands).css("display", "block");}
+	if(category == 'garments'){$(garments).css("display", "block");}
+	if(category == 'woodhouse'){$(woodhouse).css("display", "block");}
+	if(category == 'trainerstation'){$(trainerstation).css("display", "block");}
+	if(category == 'blue x'){$(bluex).css("display", "block");}
+	
+	//close the menu
+	$(accordion).slideToggle(300).siblings("ul.submenu").slideUp("fast");
+	
+}
+
+//alter the arrow image on accordion title
+function changeImage(){
+	$("#leftcol h2.menu_head").css({backgroundImage:"url(template/2011/img/arrow_down.png)"})
+}
+
+</script>
+
+
+<!--<script>
+$(window).load(function() {
+	
+	mCustomScrollbars();
+	
+});
+
+function mCustomScrollbars(){
+	/* 
+	malihu custom scrollbar function parameters: 
+	1) scroll type (values: "vertical" or "horizontal")
+	2) scroll easing amount (0 for no easing) 
+	3) scroll easing type 
+	4) extra bottom scrolling space for vertical scroll type only (minimum value: 1)
+	5) scrollbar height/width adjustment (values: "auto" or "fixed")
+	6) mouse-wheel support (values: "yes" or "no")
+	7) scrolling via buttons support (values: "yes" or "no")
+	8) buttons scrolling speed (values: 1-20, 1 being the slowest)
+	*/
+	$("#list_brands").mCustomScrollbar("vertical",0,"easeOutCirc",1.05,"auto","yes","yes",8); 
+	$("#list_garments").mCustomScrollbar("vertical",0,"easeOutCirc",1.05,"auto","yes","yes",8); 
+	$("#list_woodhouse").mCustomScrollbar("vertical",0,"easeOutCirc",1.05,"auto","yes","yes",8); 
+	$("#list_trainerstation").mCustomScrollbar("vertical",0,"easeOutCirc",1.05,"auto","yes","yes",8); 
+	$("#list_bluex").mCustomScrollbar("vertical",0,"easeOutCirc",1.05,"auto","yes","yes",8); 
+	
+	
+
+}
+
+/* function to fix the -10000 pixel limit of jquery.animate */
+$.fx.prototype.cur = function(){
+    if ( this.elem[this.prop] != null && (!this.elem.style || this.elem.style[this.prop] == null) ) {
+      return this.elem[ this.prop ];
+    }
+    var r = parseFloat( jQuery.css( this.elem, this.prop ) );
+    return typeof r == 'undefined' ? 0 : r;
+}
+
+/* function to load new content dynamically */
+function LoadNewContent(id,file){
+	$("#"+id+" .customScrollBox .content").load(file,function(){
+		mCustomScrollbars();
+	});
+}
+</script>-->
+
+<script language="JavaScript">
+//Document ready functions
+$(document).ready(function()
+{
+	});
+
+</script>
+
+<script type="text/javascript">
+var __stormJs = 't1.stormiq.com/dcv4/jslib/4446_1F32B5DE_20D5_4123_B251_2251F8B80D23.js';
+</script>
+<script type="text/javascript" src="/track.js"></script>
+
+
+<title>Brown Bag clothing: Designer clothing, Discount Mens &amp; Ladies designer clothes UK online</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="Brown Bag clothing, bbclothing, brown bag, designer clothing, designer clothes, clothes UK, designer clothing UK, discount designer clothing, mens designer clothing, ladies designer clothes, cheap designer clothing, designer jeans, designer menswear"> 
+<meta name="description" content="Brown Bag Clothing: designer clothing up to 40% below RRP. UK Designer Clothes. Armani Jeans, Stone Island, Evisu, Burberry, Prada, Diesel, Hugo Boss, Lacoste, Paul &amp; Shark, Aquascutum &amp; Ozeki">
+<meta name="rating" content="General">
+
+</head>
+<body>
+        
+
+
+<div id="header">
+<!--googleoff: all-->
+	<div id="cardBar">
+		<div class="container">
+			<a href="faqs.php">
+				<p>WE ACCEPT</p>
+				<img title="Mastercard, Maestro, Visa, Vida Electron, Visa Debit, AMEX and PayPal" alt="Mastercard, Maestro, Visa, Vida Electron, Visa Debit, AMEX and PayPal" src="http://www.bbclothing.co.uk/template/2011/img/card_logos.png">
+			</a>
+			<a href="delivery.php">
+				<p>NEXT DAY UK DELIVERY</p>
+				<img title="DPD next day delivery as standard" alt="DPD next day delivery as standard" src="http://www.bbclothing.co.uk/template/2011/img/dpd.png">
+			</a>
+			<a href="returns.php">	
+				<p>RETURNS MADE EASY</p>
+				<img title="Collect+ returns made easy" alt="Collect+ returns made easy" src="http://www.bbclothing.co.uk/template/2011/img/collect.png">
+			</a>
+		</div>
+	</div>
+<!--googleon: all-->
+
+	<div class="container">
+    
+        <a href="/"><img id="logo" src="http://www.bbclothing.co.uk/template/2011/img/logo.png"></a>
+
+               
+        <div id="topbar">
+        	<div id="telephoneNumber" style="border-radius:2px 2px 2px 2px;float:left;background:#888888;margin-top:27px;padding:5px 10px 5px 5px;">
+                                <p style="margin:5px 0 0 5px;float:left;color:#fff;"><strong style="text-shadow:0 1px 2px rgba(0,0,0,0.5);font-weight:bold;color:#fff;font-size:20px;">01625 429 944 </strong> (Orderline 9am to 5pm Mon - Fri)</p>
+                            </div>            <!--<div id="topbar_left"><a href='/customerlogin.php'>Login</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/register.php">Register</a></div>-->
+            <div id="topbar_middle">
+
+            	<script language="JavaScript">
+					if(getCartItem(1)!="0"){
+						document.write('<a href="/cgi-bin/ca000003.pl?ACTION=SHOWCART">');
+						document.write("<span>" + getCartItem(3)+"</span>");
+						//document.write("Value&#58;&nbsp;" + getCartItem(1)+"</div>");
+						document.write("&nbsp;&nbsp; items in your cart</a>");
+					}else{
+						document.write("<span>0</span>");
+						document.write("&nbsp;&nbsp; items in your cart");
+					}
+				</script>
+            </div>
+            <div id="topbar_right"><form method="get" action="/text-search.html"><input type="text" value="Search Brown bag here..." class="text" id="searchtext" name="searchtext" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Search Brown bag here...':this.value;"><input type="submit" class="button" id="searchbutton" value="Search"></form></div>
+        </div>
+             
+        <div id="navigation">
+        
+        	
+
+<ul id="menu">
+
+	       
+        <li><a style="margin-left:0px;" href="/">HOME</a></li>
+    
+        <li><a href="/brands.php" class="drop">BRANDS</a>    
+        <div class="dropdown_full" id="second">
+			<div class="dd_quarter"><ul><li></li><li><a href="/searchresults.php?brand=Adidas+SLVR" class="productli">Adidas SLVR</a></li><li><a href="/searchresults.php?brand=Antony+Morato" class="productli">Antony Morato</a></li><li><a href="/searchresults.php?brand=Armani" class="productli">Armani</a></li><li><a href="/searchresults.php?brand=Asics+Sportstyle" class="productli">Asics Sportstyle</a></li><li><a href="/searchresults.php?brand=Baracuta" class="productli">Baracuta</a></li><li><a href="/searchresults.php?brand=Blood+Brother" class="productli">Blood Brother</a></li><li><a href="/searchresults.php?brand=Blundstone+Footwear" class="productli">Blundstone Footwear</a></li><li><a href="/searchresults.php?brand=Boss" class="productli">Boss</a></li><li><a href="/searchresults.php?brand=Calvin+Klein" class="productli">Calvin Klein</a></li><li><a href="/searchresults.php?brand=Canterbury+of+NZ" class="productli">Canterbury of NZ</a></li><li><a href="/searchresults.php?brand=Carrera" class="productli">Carrera</a></li><li><a href="/searchresults.php?brand=CP+Company" class="productli">CP Company</a></li><li><a href="/searchresults.php?brand=Cruyff+Classics" class="productli">Cruyff Classics</a></li><li><a href="/searchresults.php?brand=Cuckoos+Nest" class="productli">Cuckoos Nest</a></li><li><a href="/searchresults.php?brand=Denham" class="productli">Denham</a></li><li><a href="/searchresults.php?brand=Diesel" class="productli">Diesel</a></li><li><a href="/searchresults.php?brand=DKNY" class="productli">DKNY</a></li><li><a href="/searchresults.php?brand=Ed+Hardy" class="productli">Ed Hardy</a></li><li><a href="/searchresults.php?brand=Edwin" class="productli">Edwin</a></li></ul></div><div class="dd_quarter"><ul><li><a href="/searchresults.php?brand=Ellesse" class="productli">Ellesse</a></li><li><a href="/searchresults.php?brand=Evisu" class="productli">Evisu</a></li><li><a href="/searchresults.php?brand=Fila+Vintage" class="productli">Fila Vintage</a></li><li><a href="/searchresults.php?brand=Folk" class="productli">Folk</a></li><li><a href="/searchresults.php?brand=Franklin+Marshall" class="productli">Franklin Marshall</a></li><li><a href="/searchresults.php?brand=Gant+Rugger" class="productli">Gant Rugger</a></li><li><a href="/searchresults.php?brand=Goliath" class="productli">Goliath</a></li><li><a href="/searchresults.php?brand=Hackett" class="productli">Hackett</a></li><li><a href="/searchresults.php?brand=Havaianas" class="productli">Havaianas</a></li><li><a href="/searchresults.php?brand=Henri+Lloyd" class="productli">Henri Lloyd</a></li><li><a href="/searchresults.php?brand=Heritage+Research" class="productli">Heritage Research</a></li><li><a href="/searchresults.php?brand=Hudson+Shoes" class="productli">Hudson Shoes</a></li><li><a href="/searchresults.php?brand=Humor" class="productli">Humor</a></li><li><a href="/searchresults.php?brand=Jack+Orton" class="productli">Jack Orton</a></li><li><a href="/searchresults.php?brand=Jeffery+West" class="productli">Jeffery West</a></li><li><a href="/searchresults.php?brand=Jeremy+McAlpine" class="productli">Jeremy McAlpine</a></li><li><a href="/searchresults.php?brand=Judas+Sinned" class="productli">Judas Sinned</a></li><li><a href="/searchresults.php?brand=Lacoste" class="productli">Lacoste</a></li><li><a href="/searchresults.php?brand=Lacoste+Footwear" class="productli">Lacoste Footwear</a></li></ul></div><div class="dd_quarter"><ul><li><a href="/searchresults.php?brand=Lambretta" class="productli">Lambretta</a></li><li><a href="/searchresults.php?brand=Levis" class="productli">Levis</a></li><li><a href="/searchresults.php?brand=Luke+1977" class="productli">Luke 1977</a></li><li><a href="/searchresults.php?brand=Lyle+%26+Scott" class="productli">Lyle &amp; Scott Heritage</a></li><li><a href="/searchresults.php?brand=Lyle+%26+Scott+Archive" class="productli">Lyle &amp; Scott Archive</a></li><li><a href="/searchresults.php?brand=Lyle+%26+Scott+Vintage" class="productli">Lyle &amp; Scott Vintage</a></li><li><a href="/searchresults.php?brand=Maians" class="productli">Maians</a></li><li><a href="/searchresults.php?brand=Money" class="productli">Money</a></li><li><a href="/searchresults.php?brand=NCAA" class="productli">NCAA</a></li><li><a href="/searchresults.php?brand=New+Balance" class="productli">New Balance</a></li><li><a href="/searchresults.php?brand=Nudie+Jeans+Co" class="productli">Nudie Jeans Co</a></li><li><a href="/searchresults.php?brand=One+True+Saxon" class="productli">One True Saxon</a></li><li><a href="/searchresults.php?brand=Onitsuka+Tiger" class="productli">Onitsuka Tiger</a></li><li><a href="/searchresults.php?brand=OnTour" class="productli">OnTour</a></li><li><a href="/searchresults.php?brand=Paul+%26+Shark" class="productli">Paul &amp; Shark</a></li><li><a href="/searchresults.php?brand=Penfield" class="productli">Penfield</a></li><li><a href="/searchresults.php?brand=Penguin" class="productli">Penguin</a></li><li><a href="/searchresults.php?brand=Pretty+Green" class="productli">Pretty Green</a></li><li><a href="/searchresults.php?brand=Puma" class="productli">Puma</a></li></ul></div><div class="dd_quarter"><ul><li><a href="/searchresults.php?brand=Replay" class="productli">Replay</a></li><li><a href="/searchresults.php?brand=Rivieras" class="productli">Rivieras</a></li><li><a href="/searchresults.php?brand=Robe+Di+Kappa" class="productli">Robe Di Kappa</a></li><li><a href="/searchresults.php?brand=Rough+Justice" class="productli">Rough Justice</a></li><li><a href="/searchresults.php?brand=Schott" class="productli">Schott</a></li><li><a href="/searchresults.php?brand=Slazenger+Heritage" class="productli">Slazenger Heritage</a></li><li><a href="/searchresults.php?brand=Stone+Island" class="productli">Stone Island</a></li><li><a href="/searchresults.php?brand=TOMS" class="productli">TOMS</a></li><li><a href="/searchresults.php?brand=True+Religion" class="productli">True Religion</a></li><li><a href="/searchresults.php?brand=TST" class="productli">TST</a></li><li><a href="/searchresults.php?brand=Two+Stoned" class="productli">Two Stoned</a></li><li><a href="/searchresults.php?brand=Voi+Jeans" class="productli">Voi Jeans</a></li><li><a href="/searchresults.php?brand=Volta" class="productli">Volta</a></li><li><a href="/searchresults.php?brand=We+Are+Saints" class="productli">We Are Saints</a></li><li><a href="/searchresults.php?brand=William+Fox+%26+Sons" class="productli">William Fox &amp; Sons</a></li><li><a href="/searchresults.php?brand=Woodhouse" class="productli">Woodhouse</a></li><li><a href="/searchresults.php?brand=Woolrich" class="productli">Woolrich</a></li><li><a href="/searchresults.php?brand=Worn+By" class="productli">Worn By</a></li></ul></div>   
+        </div>
+    </li>
+    
+        <li><a href="/product_range.php" class="drop">GARMENTS</a>    
+        <div class="dropdown_full" id="third">
+            <div class="dd_quarter"><ul><li></li><li><a href="/searchresults.php?garment=Accessories" class="productli">Accessories</a></li><li><a href="/searchresults.php?garment=Belts" class="productli">Belts</a></li><li><a href="/searchresults.php?garment=Caps+%26+hats" class="productli">Caps &amp; hats</a></li><li><a href="/searchresults.php?garment=Footwear" class="productli">Footwear</a></li><li><a href="/searchresults.php?garment=Jackets" class="productli">Jackets</a></li></ul></div><div class="dd_quarter"><ul><li><a href="/searchresults.php?garment=Jeans" class="productli">Jeans</a></li><li><a href="/searchresults.php?garment=Knitwear" class="productli">Knitwear</a></li><li><a href="/searchresults.php?garment=Loungewear" class="productli">Loungewear</a></li><li><a href="/searchresults.php?garment=Polo+Shirts" class="productli">Polo Shirts</a></li><li><a href="/searchresults.php?garment=Rugby+Shirts" class="productli">Rugby Shirts</a></li></ul></div><div class="dd_quarter"><ul><li><a href="/searchresults.php?garment=Shirts" class="productli">Shirts</a></li><li><a href="/searchresults.php?garment=Shorts" class="productli">Shorts</a></li><li><a href="/searchresults.php?garment=Socks" class="productli">Socks</a></li><li><a href="/searchresults.php?garment=Sunglasses" class="productli">Sunglasses</a></li><li><a href="/searchresults.php?garment=Sweatshirts" class="productli">Sweatshirts</a></li></ul></div><div class="dd_quarter"><ul><li><a href="/searchresults.php?garment=T-Shirts" class="productli">T-Shirts</a></li><li><a href="/searchresults.php?garment=Tracksuits" class="productli">Tracksuits</a></li><li><a href="/searchresults.php?garment=Trousers" class="productli">Trousers</a></li><li><a href="/searchresults.php?garment=Underwear" class="productli">Underwear</a></li></ul></div>  
+        </div>
+    </li>
+    
+        <li><a href="/latest.php">NEW IN</a></li>
+	
+	 <!--   <li><a href="/specials.php"><strong>SPECIALS</strong></a></li>-->
+<!--	<li><a href="/3for2.php"><strong class="highlight">3 FOR 2</strong></a></li>-->
+<!--	<li><a href="/sale.php"><strong class="highlight">MID-SEASON SALE</strong></a></li>-->
+    <li><a href="/sale.php" class="drop"><strong>SALE NOW ON</strong></a>
+	
+    <!--   <li><a href="/promotions.php" class="drop">OFFERS</a>    -->
+<!--  <div class="dropdown_full" id="fourth">
+			<a href="/sale.php" style="margin:10px 0 0;padding:0;background:none;"><img src="http://www.bbclothing.co.uk/template/2011/img/offer_banners/BB5-web-banner_thin.png" width="760" /></a>
+			<a href="/searchresults.php?brand=Penguin" style="margin:10px 0 0;padding:0;background:none;"><img src="http://www.bbclothing.co.uk/template/2011/img/offer_banners/BB2-web-banner_thin.png" width="760" /></a>
+        </div>-->
+	</li>
+    
+            
+        <li><a href="/delivery.php" class="drop">DELIVERY</a>    
+        <div class="dropdown_full" id="fifth">
+            <div class="dd_full">
+               <h3>UK ORDERS ARE SENT BY DPD OR ROYAL MAIL</h3>
+                <p>We deliver to all the UK and most of the EU. We regret we do not accept orders from any other countries at this time.</p>
+				<p>UK orders placed and authorised before 4pm any weekday (excluding Bank Holidays) are despatched the very same day.</p>
+				<p>Orders to most of the UK mainland are sent by DPD. Deliveries to some remote areas and all offshore areas of the UK are sent by Royal Mail Special Delivery. Read more for further information.</p>
+				<p><a href="/delivery.php" class="button" style="float:left; margin-left:0px;">Read more...</a></p>
+                <p></p>
+            </div>
+            
+        </div>
+    </li>
+    
+        <li><a href="/returns.php" class="drop">RETURNS</a>    
+        <div class="dropdown_full" id="sixth">
+            <div class="dd_full">
+                <h3>NO HASSLE RETURNS</h3>
+                <p>At Brown Bag Clothing we want you to be satisfied every time you shop with us so we make our returns policy simple. You can return or exchange any goods bought from Brown Bag Clothing within 14 days from when you receive them.</p>
+				<p><strong>Our extended Christmas Returns Policy is now live, so you can shop early without worrying.</strong></p>
+				<p>Please see our full returns policy for further information - and remember do not remove tags or dispose of packaging until you are sure you are keeping the garment.</p>
+            	<p><a href="/returns.php" class="button" style="float:left; margin-left:0px;">Read more...</a></p>
+            
+            </div>
+            
+        </div>
+    </li>
+    
+</ul>
+        
+        </div>
+        
+    </div>
+
+</div>
+
+
+<div class="container">
+
+	<div id="main">
+	
+		<div id="leftcol">
+        
+	<div style="border: 1px solid #E9E9E9; height: 80px; width: 198px; margin-bottom: 10px;">
+		<style>
+#timeLeft {
+    margin-top:10px;
+	margin-left:10px;
+}
+#timeLeft .time {
+    width:40px;
+    height:25px;
+    background:#ee1c24;
+    float:left;
+    margin-right:2px;
+    text-align:center;
+    box-shadow:0 2px 3px rgba(0,0,0,0.3);
+    border: 1px solid #860a0f;
+    text-shadow: 0 1px 0 #860a0f;
+    font-weight:400;
+}
+#timeLeft .time p {
+    margin:0;
+    line-height:24px;
+    font-weight:bold;
+    color:#fff;
+    font-size:18px;
+}
+#timeLeft .time p.timeLabel {
+    font-size:12px;
+    font-weight:normal;
+    display:none;
+}
+#cutoffMessage {
+	padding-top:8px;
+    margin-bottom:0px !important;
+    font-size:14px;
+	line-height:14px;
+	clear: both;
+}
+#timeLeft .part {
+   	font-weight: normal !important;
+	font-size:16px;
+	padding-left:2px;
+}
+</style>
+
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+
+   var timeLeft = 11939;
+   var cutoffMessage = '<p id="cutoffMessage">Left to get your order<br />delivered tomorrow</p>';
+	
+   setInterval(function(){
+       
+       timeLeft = timeLeft - 0.25;
+
+       var hours = Math.floor(timeLeft/60/60);
+       var minutes = Math.floor(((timeLeft/60/60)-hours)*60);
+       var seconds = Math.floor(60*((((timeLeft/60/60)-hours)*60)-minutes));
+
+      // if (timeLeft >= 0 && hours >= 2){
+	   if (timeLeft >= 0){
+	   		$("#timeLeft").html('<div class="time" id="hours"><p>'+hours+'<span class="part">h</span></p><p class="timeLabel">HOURS</p></div><div class="time" id="minutes"><p>'+minutes+'<span class="part">m</span></p><p class="timeLabel">MINUTES</p></div><div class="time" id="seconds"><p>'+seconds+'<span class="part">s</span></p><p class="timeLabel">SECONDS</p></div>'+cutoffMessage);
+           /* $("#timeLeft").html(cutoffMessage+'<div class="time" id="seconds"><p>'+seconds+'</p><p class="timeLabel">SECONDS</p></div><div class="time" id="minutes"><p>'+minutes+'</p><p class="timeLabel">MINUTES</p></div><div class="time" id="hours"><p>'+hours+'</p><p class="timeLabel">HOURS</p></div>');
+       }else if(timeLeft >= 0 && hours >= 1){
+           $("#timeLeft").html(cutoffMessage+'<div class="time" id="seconds"><p>'+seconds+'</p><p class="timeLabel">SECONDS</p></div><div class="time" id="minutes"><p>'+minutes+'</p><p class="timeLabel">MINUTES</p></div><div class="time" id="hours"><p>'+hours+'</p><p class="timeLabel">HOUR</p></div>');
+       }else if (timeLeft >59 && hours == 0 && minutes >=2){
+           $("#timeLeft").html(cutoffMessage+'<div class="time" id="seconds"><p>'+seconds+'</p><p class="timeLabel">SECONDS</p></div><div class="time" id="minutes"><p>'+minutes+'</p><p class="timeLabel">MINUTES</p></div>');
+       }else if (timeLeft >59 && hours == 0 && minutes >=1){
+           $("#timeLeft").html(cutoffMessage+'<div class="time" id="seconds"><p>'+seconds+'</p><p class="timeLabel">SECONDS</p></div><div class="time" id="minutes"><p>'+minutes+'</p><p class="timeLabel">MINUTE</p></div>');
+       }else if (timeLeft > 0 && hours == 0){
+           $("#timeLeft").html(cutoffMessage+'<div class="time" id="seconds"><p>'+seconds+'</p><p class="timeLabel">SECONDS</p></div>'); */
+       }else if(timeLeft == -1){
+           $("#timeLeft").html('');
+       }else{};
+
+   },250);
+
+});
+</script>
+
+<div id="timeLeft"></div>
+<!--<h3>
+   Delivery cut-off time is 5pm GMT today (Tuesday).</h3>-->	</div>
+		
+<!--    <ul class="accordion">
+        <li>
+            <a id="acc_head" onclick="changeImage()"><h2 class="menu_head" id="category_title">brands</h2></a>                    
+            <ul class="submenu" id="menu_body">
+                <li><a onclick="clickAction('brands')">BRANDS</a></li>
+                <li><a onclick="clickAction('garments')">GARMENTS</a></li>
+                <li><a onclick="clickAction('woodhouse')">WOODHOUSE</a></li>
+                <li><a onclick="clickAction('trainerstation')">TRAINERSTATION</a></li>
+                <li><a onclick="clickAction('blue x')">BLUE X</a></li>
+            </ul>
+
+        </li>
+    </ul>-->
+    
+    
+	
+
+
+
+<!-- Tabbed version -->
+
+
+<div class="list_tabs">
+
+    <ul class="tabs"> 
+        <li id="side_tab_one" class="tab"><a href="#">Brands</a></li> 
+        <li id="side_tab_two" class="tab"><a href="#">Garments</a></li> 
+    </ul> 
+     
+    <div class="panes"> 
+        
+        <div class="pane_content">
+           <ul><li><a href="/searchresults.php?brand=Adidas+SLVR" class="productli">Adidas SLVR</a></li><li><a href="/searchresults.php?brand=Antony+Morato" class="productli">Antony Morato</a></li><li><a href="/searchresults.php?brand=Armani" class="productli">Armani</a></li><li><a href="/searchresults.php?brand=Asics+Sportstyle" class="productli">Asics Sportstyle</a></li><li><a href="/searchresults.php?brand=Baracuta" class="productli">Baracuta</a></li><li><a href="/searchresults.php?brand=Blood+Brother" class="productli">Blood Brother</a></li><li><a href="/searchresults.php?brand=Blundstone+Footwear" class="productli">Blundstone Footwear</a></li><li><a href="/searchresults.php?brand=Boss" class="productli">Boss</a></li><li><a href="/searchresults.php?brand=Calvin+Klein" class="productli">Calvin Klein</a></li><li><a href="/searchresults.php?brand=Canterbury+of+NZ" class="productli">Canterbury of NZ</a></li><li><a href="/searchresults.php?brand=Carrera" class="productli">Carrera</a></li><li><a href="/searchresults.php?brand=CP+Company" class="productli">CP Company</a></li><li><a href="/searchresults.php?brand=Cruyff+Classics" class="productli">Cruyff Classics</a></li><li><a href="/searchresults.php?brand=Cuckoos+Nest" class="productli">Cuckoos Nest</a></li><li><a href="/searchresults.php?brand=Denham" class="productli">Denham</a></li><li><a href="/searchresults.php?brand=Diesel" class="productli">Diesel</a></li><li><a href="/searchresults.php?brand=DKNY" class="productli">DKNY</a></li><li><a href="/searchresults.php?brand=Ed+Hardy" class="productli">Ed Hardy</a></li><li><a href="/searchresults.php?brand=Edwin" class="productli">Edwin</a></li><li><a href="/searchresults.php?brand=Ellesse" class="productli">Ellesse</a></li><li><a href="/searchresults.php?brand=Evisu" class="productli">Evisu</a></li><li><a href="/searchresults.php?brand=Fila+Vintage" class="productli">Fila Vintage</a></li><li><a href="/searchresults.php?brand=Folk" class="productli">Folk</a></li><li><a href="/searchresults.php?brand=Franklin+Marshall" class="productli">Franklin Marshall</a></li><li><a href="/searchresults.php?brand=Gant+Rugger" class="productli">Gant Rugger</a></li><li><a href="/searchresults.php?brand=Goliath" class="productli">Goliath</a></li><li><a href="/searchresults.php?brand=Hackett" class="productli">Hackett</a></li><li><a href="/searchresults.php?brand=Havaianas" class="productli">Havaianas</a></li><li><a href="/searchresults.php?brand=Henri+Lloyd" class="productli">Henri Lloyd</a></li><li><a href="/searchresults.php?brand=Heritage+Research" class="productli">Heritage Research</a></li><li><a href="/searchresults.php?brand=Hudson+Shoes" class="productli">Hudson Shoes</a></li><li><a href="/searchresults.php?brand=Humor" class="productli">Humor</a></li><li><a href="/searchresults.php?brand=Jack+Orton" class="productli">Jack Orton</a></li><li><a href="/searchresults.php?brand=Jeffery+West" class="productli">Jeffery West</a></li><li><a href="/searchresults.php?brand=Jeremy+McAlpine" class="productli">Jeremy McAlpine</a></li><li><a href="/searchresults.php?brand=Judas+Sinned" class="productli">Judas Sinned</a></li><li><a href="/searchresults.php?brand=Lacoste" class="productli">Lacoste</a></li><li><a href="/searchresults.php?brand=Lacoste+Footwear" class="productli">Lacoste Footwear</a></li><li><a href="/searchresults.php?brand=Lambretta" class="productli">Lambretta</a></li><li><a href="/searchresults.php?brand=Levis" class="productli">Levis</a></li><li><a href="/searchresults.php?brand=Luke+1977" class="productli">Luke 1977</a></li><li><a href="/searchresults.php?brand=Lyle+%26+Scott" class="productli">Lyle &amp; Scott Heritage</a></li><li><a href="/searchresults.php?brand=Lyle+%26+Scott+Archive" class="productli">Lyle &amp; Scott Archive</a></li><li><a href="/searchresults.php?brand=Lyle+%26+Scott+Vintage" class="productli">Lyle &amp; Scott Vintage</a></li><li><a href="/searchresults.php?brand=Maians" class="productli">Maians</a></li><li><a href="/searchresults.php?brand=Money" class="productli">Money</a></li><li><a href="/searchresults.php?brand=NCAA" class="productli">NCAA</a></li><li><a href="/searchresults.php?brand=New+Balance" class="productli">New Balance</a></li><li><a href="/searchresults.php?brand=Nudie+Jeans+Co" class="productli">Nudie Jeans Co</a></li><li><a href="/searchresults.php?brand=One+True+Saxon" class="productli">One True Saxon</a></li><li><a href="/searchresults.php?brand=Onitsuka+Tiger" class="productli">Onitsuka Tiger</a></li><li><a href="/searchresults.php?brand=OnTour" class="productli">OnTour</a></li><li><a href="/searchresults.php?brand=Paul+%26+Shark" class="productli">Paul &amp; Shark</a></li><li><a href="/searchresults.php?brand=Penfield" class="productli">Penfield</a></li><li><a href="/searchresults.php?brand=Penguin" class="productli">Penguin</a></li><li><a href="/searchresults.php?brand=Pretty+Green" class="productli">Pretty Green</a></li><li><a href="/searchresults.php?brand=Puma" class="productli">Puma</a></li><li><a href="/searchresults.php?brand=Replay" class="productli">Replay</a></li><li><a href="/searchresults.php?brand=Rivieras" class="productli">Rivieras</a></li><li><a href="/searchresults.php?brand=Robe+Di+Kappa" class="productli">Robe Di Kappa</a></li><li><a href="/searchresults.php?brand=Rough+Justice" class="productli">Rough Justice</a></li><li><a href="/searchresults.php?brand=Schott" class="productli">Schott</a></li><li><a href="/searchresults.php?brand=Slazenger+Heritage" class="productli">Slazenger Heritage</a></li><li><a href="/searchresults.php?brand=Stone+Island" class="productli">Stone Island</a></li><li><a href="/searchresults.php?brand=TOMS" class="productli">TOMS</a></li><li><a href="/searchresults.php?brand=True+Religion" class="productli">True Religion</a></li><li><a href="/searchresults.php?brand=TST" class="productli">TST</a></li><li><a href="/searchresults.php?brand=Two+Stoned" class="productli">Two Stoned</a></li><li><a href="/searchresults.php?brand=Voi+Jeans" class="productli">Voi Jeans</a></li><li><a href="/searchresults.php?brand=Volta" class="productli">Volta</a></li><li><a href="/searchresults.php?brand=We+Are+Saints" class="productli">We Are Saints</a></li><li><a href="/searchresults.php?brand=William+Fox+%26+Sons" class="productli">William Fox &amp; Sons</a></li><li><a href="/searchresults.php?brand=Woodhouse" class="productli">Woodhouse</a></li><li><a href="/searchresults.php?brand=Woolrich" class="productli">Woolrich</a></li><li><a href="/searchresults.php?brand=Worn+By" class="productli">Worn By</a></li></ul>                                      
+        </div> 
+        
+        <div class="pane_content">
+            <ul><li><a href="/searchresults.php?garment=Accessories" class="productli">Accessories</a></li><li><a href="/searchresults.php?garment=Belts" class="productli">Belts</a></li><li><a href="/searchresults.php?garment=Caps+%26+hats" class="productli">Caps &amp; hats</a></li><li><a href="/searchresults.php?garment=Footwear" class="productli">Footwear</a></li><li><a href="/searchresults.php?garment=Jackets" class="productli">Jackets</a></li><li><a href="/searchresults.php?garment=Jeans" class="productli">Jeans</a></li><li><a href="/searchresults.php?garment=Knitwear" class="productli">Knitwear</a></li><li><a href="/searchresults.php?garment=Loungewear" class="productli">Loungewear</a></li><li><a href="/searchresults.php?garment=Polo+Shirts" class="productli">Polo Shirts</a></li><li><a href="/searchresults.php?garment=Rugby+Shirts" class="productli">Rugby Shirts</a></li><li><a href="/searchresults.php?garment=Shirts" class="productli">Shirts</a></li><li><a href="/searchresults.php?garment=Shorts" class="productli">Shorts</a></li><li><a href="/searchresults.php?garment=Socks" class="productli">Socks</a></li><li><a href="/searchresults.php?garment=Sunglasses" class="productli">Sunglasses</a></li><li><a href="/searchresults.php?garment=Sweatshirts" class="productli">Sweatshirts</a></li><li><a href="/searchresults.php?garment=T-Shirts" class="productli">T-Shirts</a></li><li><a href="/searchresults.php?garment=Tracksuits" class="productli">Tracksuits</a></li><li><a href="/searchresults.php?garment=Trousers" class="productli">Trousers</a></li><li><a href="/searchresults.php?garment=Underwear" class="productli">Underwear</a></li></ul>
+        </div> 
+        
+    </div> 
+     
+    <script>$(function() {$("ul.tabs").tabs("div.panes > div");});</script> 
+
+</div> 
+
+
+
+
+
+
+
+
+<!-- Overflow version -->
+
+
+
+<!--
+<div class="category_list" id="list_woodhouse">
+	<div class="customScrollBox">
+    
+		<div class="contain">
+    		<div class="content">
+    			<ul><li><a href='/Woodhouse/Woodhouse_Adidas SLVR.html' class='productli'>Adidas SLVR</a></li><li><a href='/Woodhouse/Woodhouse_Armani Jeans.html' class='productli'>Armani Jeans</a></li><li><a href='/Woodhouse/Woodhouse_Blundstone Footwear.html' class='productli'>Blundstone Footwear</a></li><li><a href='/Woodhouse/Woodhouse_BOSS Black.html' class='productli'>BOSS Black</a></li><li><a href='/Woodhouse/Woodhouse_BOSS Green.html' class='productli'>BOSS Green</a></li><li><a href='/Woodhouse/Woodhouse_BOSS Orange.html' class='productli'>BOSS Orange</a></li><li><a href='/Woodhouse/Woodhouse_Carrera.html' class='productli'>Carrera</a></li><li><a href='/Woodhouse/Woodhouse_Denham.html' class='productli'>Denham</a></li><li><a href='/Woodhouse/Woodhouse_DKNY.html' class='productli'>DKNY</a></li><li><a href='/Woodhouse/Woodhouse_EA7.html' class='productli'>EA7</a></li><li><a href='/Woodhouse/Woodhouse_Edwin.html' class='productli'>Edwin</a></li><li><a href='/Woodhouse/Woodhouse_Emporio Armani.html' class='productli'>Emporio Armani</a></li><li><a href='/Woodhouse/Woodhouse_Esemplare.html' class='productli'>Esemplare</a></li><li><a href='/Woodhouse/Woodhouse_Folk.html' class='productli'>Folk</a></li><li><a href='/Woodhouse/Woodhouse_Fred Perry.html' class='productli'>Fred Perry</a></li><li><a href='/Woodhouse/Woodhouse_Havaianas.html' class='productli'>Havaianas</a></li><li><a href='/Woodhouse/Woodhouse_Heritage Research.html' class='productli'>Heritage Research</a></li><li><a href='/Woodhouse/Woodhouse_Hudson Shoes.html' class='productli'>Hudson Shoes</a></li><li><a href='/Woodhouse/Woodhouse_HUGO Red Label.html' class='productli'>HUGO Red Label</a></li><li><a href='/Woodhouse/Woodhouse_Jeffery West.html' class='productli'>Jeffery West</a></li><li><a href='/Woodhouse/Woodhouse_Judas Sinned.html' class='productli'>Judas Sinned</a></li><li><a href='/Woodhouse/Woodhouse_MA.Strum.html' class='productli'>MA.Strum</a></li><li><a href='/Woodhouse/Woodhouse_Massimo Osti.html' class='productli'>Massimo Osti</a></li><li><a href='/Woodhouse/Woodhouse_Natural Selection.html' class='productli'>Natural Selection</a></li><li><a href='/Woodhouse/Woodhouse_New Balance.html' class='productli'>New Balance</a></li><li><a href='/Woodhouse/Woodhouse_OnTour.html' class='productli'>OnTour</a></li><li><a href='/Woodhouse/Woodhouse_Penfield.html' class='productli'>Penfield</a></li><li><a href='/Woodhouse/Woodhouse_Red Wing Shoes.html' class='productli'>Red Wing Shoes</a></li><li><a href='/Woodhouse/Woodhouse_Vans.html' class='productli'>Vans</a></li><li><a href='/Woodhouse/Woodhouse_Woolrich.html' class='productli'>Woolrich</a></li></ul>
+            </div>
+		</div>
+
+		<div class="dragger_container">
+			<div class="dragger">&nbsp;</div>
+		</div>
+
+	</div>
+</div>
+
+
+<div class="category_list" id="list_trainerstation">
+	<div class="customScrollBox">
+    
+		<div class="contain">
+    		<div class="content">
+    			<ul><li><a href='/Trainerstation/Trainerstation_Adidas.html' class='productli'>Adidas</a></li><li><a href='/Trainerstation/Trainerstation_Asics Onitsuka Tiger.html' class='productli'>Asics Onitsuka Tiger</a></li><li><a href='/Trainerstation/Trainerstation_Converse.html' class='productli'>Converse</a></li><li><a href='/Trainerstation/Trainerstation_Cruyff.html' class='productli'>Cruyff</a></li><li><a href='/Trainerstation/Trainerstation_Diadora.html' class='productli'>Diadora</a></li><li><a href='/Trainerstation/Trainerstation_Fila.html' class='productli'>Fila</a></li><li><a href='/Trainerstation/Trainerstation_Fred Perry.html' class='productli'>Fred Perry</a></li><li><a href='/Trainerstation/Trainerstation_Hummel.html' class='productli'>Hummel</a></li><li><a href='/Trainerstation/Trainerstation_Lacoste.html' class='productli'>Lacoste</a></li><li><a href='/Trainerstation/Trainerstation_Nike.html' class='productli'>Nike</a></li><li><a href='/Trainerstation/Trainerstation_Onitsuka Tiger.html' class='productli'>Onitsuka Tiger</a></li><li><a href='/Trainerstation/Trainerstation_Vans.html' class='productli'>Vans</a></li></ul>
+            </div>
+		</div>
+
+		<div class="dragger_container">
+			<div class="dragger">&nbsp;</div>
+		</div>
+
+	</div>
+</div>
+
+<div class="category_list" id="list_bluex">
+	<div class="customScrollBox">
+    
+		<div class="contain">
+    		<div class="content">
+    			<ul><li><a href='/Blue_X/Blue_X_Bjorn Borg.html' class='productli'>Bjorn Borg</a></li><li><a href='/Blue_X/Blue_X_Boxfresh.html' class='productli'>Boxfresh</a></li><li><a href='/Blue_X/Blue_X_La Martina.html' class='productli'>La Martina</a></li><li><a href='/Blue_X/Blue_X_Lyle & Scott.html' class='productli'>Lyle & Scott</a></li><li><a href='/Blue_X/Blue_X_Old Glory.html' class='productli'>Old Glory</a></li><li><a href='/Blue_X/Blue_X_Ozeki.html' class='productli'>Ozeki</a></li></ul>
+            </div>
+		</div>
+
+		<div class="dragger_container">
+			<div class="dragger">&nbsp;</div>
+		</div>
+
+	</div>
+</div>
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+        <div id="rightcol">
+
+			<script>
+    $(function(){
+        //if ($('#ticker').length > 1) {
+        $('#ticker').bxSlider({
+            auto: true,
+            pause: '4500',
+            onAfterSlide: function(currentSlideNumber, totalSlideQty, currentSlideHtmlObject){
+                $('.tickercontent').css("display", "");    }
+        });
+        //};
+    });	
+</script>
+<!--<h2 class="highlight">customer notice</h2>-->
+<!--<div id="important" class="block full left">     <div class="inner" id="ticker">
+        <p class="tickercontent" style="display:none;width:780px; margin-top:10px; text-align:center; font-size: 1.3em;"><a href="http://www.bbclothing.co.uk/searchresults.php?garment=Knitwear">Get an extra <strong class="highlight" style="text-transform:uppercase">15% off</strong> all Knitwear with code <strong class="highlight" style="text-transform:uppercase">KNITS</strong> (ends 5th Nov)</a></p>
+        <p class="tickercontent" style="display:none;width:780px; margin-top:10px; text-align:center; font-size: 1.3em;"><a href="http://www.bbclothing.co.uk/latest.php">Fresh lines just in from <strong class="highlight" style="text-transform:uppercase">Stone Island, CP Company</strong> and many more!</a></p>
+		<p class="tickercontent" style="display:none;width:780px; margin-top:10px; text-align:center; font-size: 1.3em;">The <strong class="highlight" style="text-transform:uppercase">best brands</strong>, <strong class="highlight" style="text-transform:uppercase">best choice</strong> and <strong class="highlight" style="text-transform:uppercase">best prices</strong> all with  <strong class="highlight" style="text-transform:uppercase">Next day UK Delivery</strong> as standard</p>
+    </div>
+</div>-->             
+            <div id="static" class="block full left">
+            	<div class="inner">
+					
+                    <h1>Privacy Policy</h1>
+                    <div class="seperator"></div>
+
+					<h2>Privacy Statement</h2>
+					
+					<p>We take the security and privacy of our customers seriously and this policy sets out how we handle information about you and your rights in respect of that information.</p>
+					
+					<h2>What information do we hold and how do we obtain it?</h2>
+					
+					<p>Generally we receive information directly from you when you place an order with us to buy our goods. Such information includes your name, address, telephone number and credit card details. You may also provide your email address if you sign up to be notified from time to time about our future goods and services.</p>
+					
+					<p>For our customers' protection, we always check a certain percentage of our orders at random to confirm the details of the order match those of the cardholder on file. For this reason, we may ask you for some additional information. This would be a copy of the front and back of the card used to make the purchase, or a copy of a photo ID such as a valid drivers license or passport. We will also require some proof of address along with the copy of the photo ID.</p>
+					
+					<h2>For what purposes do we use your information?</h2> 
+		
+					<p>We use your information for a number of purposes including:</p>
+					<ul>
+						<li>to perform our contractual obligations to you and to ensure that goods are supplied to you as efficiently as possible</li>
+						<li>for other non-contractual reasons.</li>
+					</ul>
+					
+					<h2>Supplying goods to you</h2>
+					
+					<ul class="returns">
+						<li>We may use your information:
+						</li><li>To identify and maintain records of your purchases with us</li>
+						<li>To ensure that the goods and services we offer to you are appropriate for your needs</li>
+						<li>To respond to any query you may raise with us about our goods</li>
+						<li>To update our systems for providing you with an enhanced service</li>
+						<li>Other purposes</li>
+					</ul>
+					
+					<p>We will also use information about you for purposes upon which the provision of our goods and services are not necessarily dependent.</p>
+					
+					<h2>We may:</h2>
+					
+					<ul class="returns">
+						<li>Disclose information about you to third party agencies for credit checking purposes (which information may be shared with other organisations for the same purpose)</li>
+						<li>Use information about you to inform you (by post email or telephone) about other services we offer or which are offered by other companies within our group or any of the other companies with which we work</li>
+						<li>Use information about your account with us for our internal customer service monitoring and training purposes</li>
+					</ul>
+		
+					<h2>Transfer overseas</h2>
+					
+					<p>Please note that disclosures we may make may take place via electronic means and may involve the transfer of personal data relating to you to countries outside the European economic area, which countries do not have in place adequate rules relating to data protection and privacy of personal data. </p>
+					
+					<h2>Sale of our business</h2>
+					
+					<p>You acknowledge that data you provide to us may be transferred to any person, firm or company to whom we sell the whole or a substantial part of our business or to whom we transfer any of our rights or obligations under a contract with you.</p>
+		
+					<h2>Taking care of your data</h2>
+					<p>We will endeavor to keep any information, which we hold, about you up to date and accurate. To help us to do this, please keep us informed if any of your details change.</p>
+					<p>We will endeavor to protect your data against unauthorised use.</p>
+					
+					<a name="cookies"></a>
+					<h2>Cookies</h2>
+		
+					<p>As part of ensuring the proper operation of our site and to maximise your enjoyment of it, we currently use cookies on this website. On 26th May 2012 the rules about the use of cookies on websites changed. A cookie is a small file, typically of letters and numbers, downloaded to your device when you visit our website and allows us and/or our business partners to recognise you as a user when you return using the same computer and web browser. You can find an overview of the various types of cookies used by us and/or our business partners, in the table below.</p>
+                   
+				    <style>
+					.cookietable td
+					{
+					border: 1px solid #EEEEEE;
+					padding: 5px;
+					}
+					</style>
+				
+				    <div class="cookietable">
+				    <table><tbody>
+					<tr class="toprow">
+						<td width="100"><strong>Cookie type</strong></td>
+						<td><strong>Purpose</strong></td>
+					</tr>
+					<tr>
+						<td valign="top">Essential</td>
+						<td>We use cookies to keep track of what you have in your basket, and to remember you when you return to our site. Without cookies, the site would forget which items you placed in your basket and you wouldn't be able to buy anything.</td>
+					</tr>
+					<tr>
+						<td valign="top">Analytics</td>
+						<td>These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. <a href="http://www.google.com/analytics/learn/privacy.html" target="_blank"><strong>More information on Google Analytics</strong></a></td>
+					</tr>		
+					<tr>
+						<td valign="top">Third Party</td>
+						<td>We work with third party companies for marketing and advertising purposes. These cookies allow us to make more informed decisions about what our customers want from us. Any information that they collect is anonymous.  Because of how cookies work, we cannot access these cookies, nor can the third parties access the data in cookies used by us.<br><br>
+						<strong>Third parties we work with and why</strong><br><br>
+						<strong>Google AdWords</strong><br>
+						AdWords uses cookies to anonymously identify traffic and conversions from paid search advertisements, recording data like the amount of items purchased, the value of those items and the time of day the purchase was made. This cookie is placed on a user’s browser via a redirect to the destination landing page. We can then use this information to improve our display ads.<br><br>
+						<strong>Affiliate Window</strong><br>
+						Affiliate Window use cookies to anonymously record that a user has clicked on an Affiliate Window link that referred the user to our site. This information is collected in order to enable us to pay a commission to Affiliate Window and its affiliates for any sales they may drive on our site. Affiliate Window cookies remain active for a period of 30 days.<br><br>
+						<strong>Affiliate Future</strong><br>
+						Affiliate Future use cookies to anonymously record that a user has clicked on an Affiliate Future link that referred the user to our site. This information is collected in order to enable us to pay a commission to Affiliate Future and its affiliates for any sales they may drive on our site. Affiliate Future cookies remain active for a period of 30 days.<br><br>
+						<strong>VE Interactive</strong><br>
+						VE Interactive cookies collect information about customers who used the basket and checkout process but then did not complete their purchase. This allows us to email those customers and make sure that there was not a technical problem or other issue which prevented them from completing their purchase.<br><br>
+						<strong>PredictiveIntent</strong><br>
+						PredictiveIntent dynamically personalise and suggest products which may be of interest based on the products that have been previously viewed or interacted with by you and other visitors/customers. Cookies are used by PredictiveIntent for the purpose of monitoring and analysing your preferences – this allows us to then provide you with tailored information.<br><br>
+						<strong>AddThis</strong><br>
+						AddThis use cookies to record when you have interacted with their widget. When you share a product using the social media sharing button on our site, the social network that has created the button will record that you have done this.</td>
+					</tr>										
+				</tbody></table>
+				</div>
+				
+				<br>
+				<p>If you want to manage your cookies then you can do this via your browser or alternatively please visit <a href="http://www.aboutcookies.org/" target="_blank"><strong>www.aboutcookies.org</strong></a> for up to date information about cookie management. All modern browsers allow you to change your cookie settings. These settings will typically be found in the 'options' or 'preferences' menu of your browser. In order to understand these settings, see the 'Help' option in your browser for more details.</p>
+	
+				<p>Please note that by deleting our cookies or disabling future cookies you may not be able fully use our website. We have taken all reasonable steps to notify you of our use of cookies, your use of this site without disabling cookies is considered as your express consent for us to use cookies for the purposes set out above.</p>
+           
+                </div>
+			</div>
+
+		<br class="clear">
+    	</div> <!-- close right col -->
+
+    <br class="clear">
+    </div> <!-- close main content -->
+
+<br class="clear">
+</div> <!-- close container -->
+
+<style>
+    #peeriusRecs, #peeriusRecs #suggestions h2 {
+        text-decoration:none!IMPORTANT;
+        color:#666!IMPORTANT
+    }
+    #suggestions {
+        width:780px;
+        padding:0 5px
+    }
+    #suggestions .results1 {
+        width:180px;
+        float:left;
+        margin:10px 5px;
+        height:300px
+    }
+    #suggestions .new_products, #suggestions .images {
+        margin:auto;
+        text-align:center
+    }
+    #suggestions .images {
+        height:210px
+    }
+    #suggestions .new_products h3.title {
+        font-size:12px!IMPORTANT;
+        font-weight:normal;
+        margin:5px 0
+    }
+    #suggestions .new_products .item_rrp {
+        color:#666;
+        font-weight:bold;
+        line-height:20px;
+        margin:0px;
+        padding:0px
+    }
+    #suggestions .new_products .item_price {
+        color:#F15A24;
+        font-weight:bold;
+        line-height:20px;
+        margin:0px;
+        padding:0px
+    }
+</style>
+
+<div id="footer">
+    <div class="container">
+        <div class="left full" id="f_newsletter">
+            <form id="form1" name="newsletter" method="post" action="/signup.php" onsubmit="return validate_form();">
+                <label>Sign up to our mailing list and receive email updated on the latest designer fashion and offers: </label>
+                <input type="text" class="text" id="email" name="email" value="Enter email address" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Enter email address':this.value;">
+                <input type="submit" id="submit" class="button" value="Sign up now">
+            </form>
+        </div>
+                    <script type="text/javascript">
+                function updateCookieSettings() {
+                    setCookie("cookieconsent",1,365);
+                    document.getElementById("cookieconsent").style.display = "none";
+                }
+                                    
+                function setCookie(c_name,value,exdays) {
+                    var exdate = new Date();
+                    exdate = setDate(exdate.Date() + exdays);
+                    var c_name = escape(value) + ((exdays == null) ? "" : "; expires="+exdate.toUTCString());
+                    document.cookie = c_name + "=" c_value;
+                }
+            </script>
+            <div id="cookieconsent">
+                <div>
+                    <p><img align="right" src="http://www.bbclothing.co.uk/template/2011//img/close.png" onclick="javascript:updateCookieSettings();">This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. <a href="/privacy.php#cookies"><u>Find out more here</u></a></p>
+                </div>
+            </div>
+                    <div class="footercol" id="contact" style="margin-left:0">
+            <h2>Contact Us</h2>
+            <p>You can call Brown Bag Customer Services during the hours of 09:00 to 17:00 (GMT) Mon to Fri.</p>
+            <p>Call us: &nbsp;&nbsp;&nbsp;<strong>01625 429944</strong>&nbsp;&nbsp;&nbsp; or &nbsp;&nbsp;&nbsp; <a href="/contact.php"><strong>email us</strong></a></p>
+            <p>For Business to Business enquires ONLY please call 01625 870342</p>
+        </div>
+        <div class="footercol" id="general">
+            <h2>General</h2>
+            <ul>
+                <li><a href="/aboutus.php">About us</a></li>
+                <li><a href="/terms.php">Terms &amp; conditions</a></li>
+                <li><a href="/privacy.php">Privacy policy</a></li>
+                <li><a href="/affiliates.php">Affiliates</a></li>
+            </ul>
+        </div>
+        <div class="footercol" id="customer_services">
+            <h2>Customer services</h2>
+            <ul>
+                <li><a href="/delivery.php">Delivery information</a></li>
+                <li><a href="/faqs.php">FAQs</a></li>
+                <li><a href="/returns.php">Returns policy</a></li>
+                <li><a href="/testimonials.php">Testimonials</a></li>
+            </ul>
+        </div>
+        <div class="footercol" id="connect" style="margin-right:0">
+            <h2>Connect with Brown Bag</h2>
+            <div class="social_link">
+                <a target="_blank" href="http://www.facebook.com/brownbagclothing"><img src="http://www.bbclothing.co.uk/template/2011/img/facebook.png" alt="Facebook"></a> <a target="_blank" href="http://www.facebook.com/brownbagclothing" class="tag">Connect with us on Facebook</a>
+            </div>
+            <div class="social_link">
+                <a target="_blank" href="http://twitter.com/bbclothing"><img src="http://www.bbclothing.co.uk/template/2011/img/twitter.png" alt=""></a> <a target="_blank" href="http://twitter.com/bbclothing" class="tag">Follow us on Twitter</a>
+            </div>
+            <div class="social_link">
+                <a target="_blank" href="http://www.bbclothing.co.uk/rss_new_stock.php"><img src="http://www.bbclothing.co.uk/template/2011/img/rss.png" alt=""></a> <a target="_blank" href="http://www.bbclothing.co.uk/rss_new_stock.php" class="tag">Get the RSS Feed</a>
+            </div>
+        </div>
+        <br class="clear">
+        <script type="text/javascript">
+        $(document).ready(function(){
+            $("#promoNoticeClose").click(function(){
+                $.cookie("promoNotice",1, {expires: 1, path:'/'});
+                $("#promoNotice").slideUp("fast");
+            });
+        });
+        </script>
+                <div id="promoNotice">
+            <p>THE BROWN BAG SALE IS <span class="highlight">ON NOW!</span> GET UP TO 75% OFF ACROSS 75 LEADING BRANDS.  </p><a href="sale.php" style="color:#666;background:#eee;display:inline-block;padding:4px 10px;text-decoration:none;text-shadow:0 1px 0 #fff;border-radius:3px;border:solid 1px #666;margin-top:-3px;box-shadow:0 2px 3px rgba(0,0,0,0.2);">CLICK HERE</a>
+            <!--<p>TAKE ADVANTAGE OF OUR <span class="highlight">DPD PREDICT SERVICE</span> AND GET A <span class="highlight">1 HOUR DELIVERY WINDOW</span> SENT BY EMAIL AND SMS</p><img style="margin-left:30px;" src="template/2011/img/predict.png"/>-->
+            <a id="promoNoticeClose" title="Close"></a>
+        </div>
+            </div>
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8697810-3");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<script type="text/javascript">
+    if($('#peeriusRecs').length > 0) {
+        var showsuggs = 0;
+        if(showsuggs == 1) {
+            $('#main a').hover(function() {
+                $(this).css('text-decoration','none');
+                $('.pane_content ul li a').hover(
+                function() {
+                    $(this).css('text-decoration','underline');
+                },
+                function() {
+                    $(this).css('text-decoration','none');
+                }
+            );
+            });
+            $('#peeriusRecs').append($("<div id='suggestions'><h2>Recommendations for you...</h2><div style='clear:both'></div></div>"));
+        }
+    }
+</script>
+
+
+
+</body></html>
