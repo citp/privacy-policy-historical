@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the usmint.gov privacy policy that was archived on 2012-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620140633id_/http%3A//www.usmint.gov/policy/%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usmint.gov privacy policy that was archived on 2012-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121204125836id_/http%3A//www.usmint.gov/policy/%23privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
 <!-- *********************************************************************** 
@@ -16,12 +16,24 @@
 	<link rel="alternate" type="application/rss+xml" title="Product Information Updates" href="/rssProdInfo.xml">
 
 	<link href="/styles/x_css_mint.css" rel="stylesheet" type="text/css">
-	<link href="/styles/x_baseline.css" rel="stylesheet" type="text/css">
-	<link href="/styles/x_pageHeader.css" rel="stylesheet" type="text/css">
-	<link href="/styles/x_pageLeftNav.css" rel="stylesheet" type="text/css">
-	<link href="/styles/x_pageFooter.css" rel="stylesheet" type="text/css"> 
+    
+    
+	<link href="/styles/x_baseline.css?{ts '2012-12-04 07:54:23'}" rel="stylesheet" type="text/css">
+	<link href="/styles/x_pageHeader.css?{ts '2012-12-04 07:54:23'}" rel="stylesheet" type="text/css">
+	<link href="/styles/x_pageLeftNav.css?{ts '2012-12-04 07:54:23'}" rel="stylesheet" type="text/css">
+	<link href="/styles/x_pageFooter.css?{ts '2012-12-04 07:54:23'}" rel="stylesheet" type="text/css">
+	
+	
 	<script language="Javascript" type="text/javascript" src="/scripts/jquery-1.4.4.min.js"></script>
+	
 	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+     
+    <script type="text/javascript" src="scripts/kingpin.js"></script>   
+
+	<link href="/styles/x_kingpin.css" rel="stylesheet" type="text/css">
+    
+     
+    
 	<script language="JavaScript" src="/scripts/x_siteSearch.js" type="text/javascript"></script>
 	<script src="/scripts/formStripper.js" type="text/javascript"></script>
 <script src="/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
@@ -30,87 +42,166 @@
 	<div id="containerA">
 
 <div id="topNav">
-	<div id="agencyLogo"><a href="/" title="United States Mint logo"><img src="/images/shell/agencyLogo.jpg" alt="United States Mint logo" width="180" height="120"></a>
+	<div id="topNavLeft">
+    	<label class="topText">
+        	Customer Service<br>
+        	1-800-USA-MINT&nbsp;(872-6468)
+        </label><br><br>
+        <a href="/email/?action=EmailUpdates"><img src="/images/shell/Email-Signup-Button.png" style="vertical-align:middle;"></a><br>
+	    <br>
+        
+        <div id="socialMedia">
+            <a href="/xLink/?xLink=twitter.com/usmint" title="Twitter" style="margin-right:0px;"><img src="/images/shell/twitter-icon.gif" alt="Twitter" width="30" height="30"></a>
+            <a href="/xLink/?xLink=facebook.com/pages/Washington-DC/United-States-Mint/103695769458" title="Facebook" style="margin-left:0px;"><img src="/images/shell/facebook-icon.gif" alt="Facebook" width="30" height="30"></a>
+            <a href="/pressroom/?action=rssHelp" title="RSS" style="margin-left:0px;"><img src="/images/shell/rss-icon-footer.gif" alt="RSS" width="30" height="30"></a>
+		</div>
+    </div>
+	<div id="agencyLogo">
+    	<div style=" width:180px; margin:0 auto;"> 
+            <a href="/" title="United States Mint logo"><img src="/images/shell/agencyLogo.jpg" alt="United States Mint logo" width="180" height="120"></a>
+           
+    	</div>
+        <div id="agencyLogoText">
+            <em>Connecting America through Coins</em>    
+        </div>
 	</div>
+    <div id="topNavRight">
+     	<label style="margin-right:10px;" class="topText">
+     	<a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/USMTrackOrderCmd?storeId=10001&amp;catalogId=10001&amp;langId=-1">Track Order</a> | 
+        <a href="https://catalog.usmint.gov/webapp/wcs/stores/servlet/LogonForm?storeId=10001&amp;langId=-1&amp;catalogId=10001&amp;krypto=IO9371T7O1oUiEqL3RGXk4Bp1fZVu3uladDP3xlqy7U%3D">Sign In</a> | 
+        <a href="https://catalog.usmint.gov/webapp/wcs/stores/servlet/RegPolicyView?langId=-1&amp;storeId=10001&amp;catalogId=10001">Register</a> 
+        
+        </label>
+ 		<div id="searchLinks">
+            <a href="https://answers.usmint.gov/">FAQs</a> | 
+            <a href="/about_the_mint/collectors_corner/index.cfm?action=glossary">Glossary</a> | 
+            <a href="/websiteInfo/?action=siteMap">Site Map</a>
+        </div>
+    	
+
+
+
+
+
+<form id="mainSearchForm" name="mainSearchForm" method="get" action="http://search.usmint.gov/search" onsubmit="return mainSearchSubmit(&quot;st-1&quot;)">
+        
+    <input type="hidden" name="affiliate" value="usmint.gov">
+    <input type="hidden" name="formFocused" id="formFocused" value="0">
+    
+    <label class="alwaysHide" for="criteria">Search</label>
+   
+
+    <img src="/images/shell/Search-Box_L.png" style="border:0; margin-right:183px">
+	<input name="query" id="criteria" onfocus="searchboxFocus()" onblur="searchboxBlur()" style="padding: 6px 0px 5px 5px; right:38px; 
+        	height:16px; margin-top:1px; width:188px; " type="text" value="Search" title="Enter search word(s) and press the Enter key.">
+			
+        <a href='javascript:mainSearchSubmitBtn("st-1")'>
+        	<img src="/images/shell/searchButton.png" alt="searcharrow" title="Search" class="searcharrow" id="searcharrow">
+        </a>       
+	
+    
+</form>
+    </div>
 	<div id="topNavLinks">
 		<ul>
+        	
+			<li>
+				<a href="/">Home</a>
+			</li>
+            
 			
 			<li>
-
-				<a href="/mint_programs/">Coins &amp; Medals</a>
-
+				<a href="http://catalog.usmint.gov/">Shop</a>
 			</li>
 			
-			<li>
-				<a href="http://catalog.usmint.gov/">Shop Online</a>
-			</li>
 			
-	
 			<li>
-
-				<a href="/customerservice/">Customer Service</a>
-
+				<a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/ProdschedView?storeId=10001&amp;catalogId=10001">Product Schedule</a>
+			</li>
+            
+            
+			<li>
+				
+					<a href="/education/?action=learn">Learn</a>
+				
+			</li>		
+            
+			
+			<li>
+				
+					<a href="/customerservice/">Customer Service</a>
+				
 			</li>		
 			
 			
-	
 			<li>
-
-				<a href="/education/">Education</a>
-
-			</li>		
-			
-			
-			
-			
-			<li>
-
-				<a href="/pressroom/">News &amp; Media</a>
-
+				
+					<a href="/pressroom/">Newsroom</a>
+				
 			</li>
 			
 			
-	
-	
-			
-		
-			<li>
-
-				<a href="/about_the_mint/">About Us</a>
-
+			<li style="border-right:none;">
+				
+					<a href="/about_the_mint/" class="catActive">About</a>
+				
 			</li>
 		</ul>
 
-
-<hr class="hidden">
-
-
-
-<form id="mainSearchForm" name="mainSearchForm" method="get" action="http://search.usa.gov/search" onsubmit="return mainSearchSubmit(&quot;st-4&quot;)">
-        
-      <input type="hidden" name="affiliate" value="usmint.gov">
-        
-	<label class="alwaysHide" for="criteria">Search</label>
-        
-        	<img src="/images/index/Search.jpg" alt="Magnifying glass" title="Magnifying glass" class="Magnifying" id="Magnifying">
-            <input name="query" id="criteria" onfocus="searchboxFocus()" onblur="searchboxBlur()" type="text" value="Search" title="Enter search word(s) and press the Enter key.">
-				
-                <a href='javascript:mainSearchSubmitBtn("st-4")'><img src="/images/index/arrow.jpg" alt="searcharrow" title="Search" class="searcharrow" id="searcharrow"></a>
-
-
-
-		<input type="hidden" name="formFocused" id="formFocused" value="0">
-        
-</form>
 	</div>
 </div>
-
 		<div id="containerB">
 
 
 
 <div id="leftNavigation">
-	<ul>
+	
+    	
+        <div id="leftNavHeader"><a href="/about_the_mint/Policies_and_Sites/">Policies and Sites</a></div>
+    
+	
+    <ul>
+    
+	
+		<li>
+			<a href="/websiteInfo/">Our Web Site</a>
+		</li>
+	
+		<li>
+			<a href="/websiteInfo/?action=siteMap">Site Map</a>
+		</li>
+	
+		<li>
+			<a href="/plugins/">Plug-Ins</a>
+		</li>
+	
+		<li>
+			<a href="/policy/?action=TermsOfUse">Terms of Use</a>
+		</li>
+	
+		<li>
+			<a class="catActive" title="link to current page" href="/policy/">Privacy</a>
+		</li>
+	
+		<li>
+			<a href="/foia/">FOIA</a>
+		</li>
+	
+		<li>
+			<a href="/xLink/?xLink=treasury.gov/nofearact/">No Fear Act Data</a>
+		</li>
+	
+		<li>
+			<a href="/xLink/?xLink=treasury.gov/">Department of the Treasury</a>
+		</li>
+	
+		<li>
+			<a href="/xLink/?xLink=ccac.gov/">Citizens Coinage Advisory Committee</a>
+		</li>
+	
+		<li>
+			<a href="/xLink/?xLink=USA.gov/">USA.gov</a>
+		</li>
 	
 	</ul>
 </div>
@@ -124,7 +215,7 @@
 	
 	<div class="clearFloats"></div>
 <div>
-	<img src="/images/policy/bannerPrivacy.jpg" alt="Banner: Privacy Policy" width="760" height="132">
+	<img src="/images/policy/Privacy.jpg" alt="Banner: Privacy" width="760" height="132">
 </div>
 <p>
 	The United States Mint appreciates your visit to our Web site.
@@ -173,59 +264,96 @@
 			<div class="clearFloats"></div>
 		</div>
 <div id="footer">
-	<ul>
-		<li>
-			<a href="http://catalog.usmint.gov/" title="Online Catalog">Online Catalog</a>
-		</li>
-		<li>
-			<a href="/search/?action=siteMap" title="Site Map">Site Map</a>
-		</li>
-		<li class="wide">
-			<a href="/websiteInfo/" title="Website Information">Website Information</a>
-		</li>    
-		<li>
-			<a href="/foia/" title="Freedom of Information Act">FOIA</a>
-		</li>
-		<li>
-			<a href="https://answers.usmint.gov/" title="FAQs">FAQs</a>
-		</li>
-		<li>
-			<a href="/mint_tours/" title="Tours">Tours</a>
-		</li> 
-		<li>
-			<a href="/contact_us/" title="Contact Us">Contact Us</a>
-		</li>
-		<li>
-			<a href="/policy/?action=TermsOfUse" title="Terms of Use">Terms of Use</a>
-		</li>
-		<li>
-			<a href="/policy/#privacy" title="Privacy Policy">Privacy Policy</a>
-		</li>
-		<li class="wide">
-			<a href="/xLink/?xLink=treasury.gov/nofearact/" title="No Fear Act">No FEAR Act Data</a>
-		</li>
-		<li>
-			<a href="/xLink/?xLink=treasury.gov/" title="Treasury Web Site">treasury.gov</a>
-		</li>
-		<li>
-			<a href="/xLink/?xLink=USA.gov/" title="USA GOV Web Site">usa.gov</a>
-		</li>
-		<li>
-			<a href="/xLink/?xLink=ccac.gov/" title="CCAC Web Site">ccac.gov</a>
-		</li>
-		<li>
-			<a href="/plugins/" title="Plug-ins">Plug-ins</a>
-		</li>
-	</ul>
-	<div id="socialMedia">
-		<a href="/xLink/?xLink=facebook.com/pages/Washington-DC/United-States-Mint/103695769458" title="Facebook"><img src="/images/shell/facebook-icon.gif" alt="Facebook" width="20" height="20"></a>
-		<a href="/xLink/?xLink=twitter.com/usmint" title="Twitter"><img src="/images/shell/twitter-icon.gif" alt="Twitter" width="20" height="20"></a>
-		<a href="/pressroom/?action=rssHelp" title="RSS"><img src="/images/shell/rss-icon-footer.gif" alt="RSS" width="20" height="20"></a>
-		
-	</div>
+	<table id="ft_table" border="0" summary="This table is for layout purpose only.">
+    	<tbody><tr style="text-align:left; height: 35px;">
+        	<th width="142"><a href="http://catalog.usmint.gov/" title="Shop"><strong>Shop</strong></a></th>
+        	<th width="142"><a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/ProdschedView?storeId=10001&amp;catalogId=10001" title="Product Schedule"><strong>Product Schedule</strong></a></th>
+            <th width="142"><a href="/education/?action=learn" title="Learn"><strong>Learn</strong></a></th>
+            <th width="142"><a href="/customerservice/" title="Customer Service"><strong>Customer Service</strong></a></th>
+            <th width="142"><a href="/pressroom/" title="Newsroom"><strong>Newsroom</strong></a></th>
+            <th width="142"><a href="/about_the_mint/" title="About"><strong>About</strong></a></th>
+            <th width="142"><a href="/about_the_mint/?action=Policies" title="Policies and Sites"><strong>Policies and Sites</strong></a></th>
+        </tr>
+    	<tr style="vertical-align:top;">
+        	<td width="147">
+            	<a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/CategoryDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;identifier=8300" title="America the Beautiful Quarters®">America the Beautiful Quarters<sup>®</sup></a>
+                <a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/CategoryDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;identifier=8500" title="First Spouse">First Spouse</a>
+                <a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/CategoryDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;identifier=8000" title="Presidential $1 Coin">Presidential $1 Coin</a>
+                <a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/CategoryDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;identifier=3000" title="Native American $1 Coin">Native American $1 Coin</a>
+                <a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/CategoryDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;identifier=7300" title="Gift Ideas">Gift Ideas</a>
+                <a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/CategoryDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;identifier=0500" title="American Buffalo">American Buffalo</a>
+                <a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/CategoryDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;identifier=1000" title="American Eagle Coins">American Eagle Coins</a>
+                <a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/CategoryDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;identifier=8305" title="America the Beautiful Silver Coins">America the Beautiful <br>Silver Coins</a>
+                <a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/CategoryDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;identifier=2000" title="Annual Coin Sets">Annual Coin Sets</a>
+                <a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/CategoryDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;identifier=7000" title="Special Collectibles">Special Collectibles</a>
+                <a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/CategoryDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;identifier=4000" title="Commemoratives">Commemoratives</a>
+                <a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/CategoryDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;identifier=7010" title="Rolls, Bags &amp; Boxes">Rolls, Bags &amp; Boxes</a>
+                <a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/CategoryDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;identifier=7500" title="Medals">Medals</a>
+                <a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/CategoryDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;identifier=7900" title="Albums &amp; Storage">Albums &amp; Storage</a>
+                <a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/CategoryDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;identifier=GIFT" title="E-Gift Certificates">E-Gift Certificates</a>
+                <a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/CategoryDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;identifier=SUBS" title="Subscriptions">Subscriptions</a>
+                
+            </td>
+            <td width="147">
+            	<a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/CategoryDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;identifier=9300" title="What's New">What's New</a>
+                <a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/ComingSoonView?storeId=10001&amp;catalogId=10001" title="Upcoming Products">Upcoming Products</a>
+                <a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/ProductIndexView?langId=-1&amp;storeId=10001&amp;catalogId=10001" title="Product Index">Product Index</a>
+                <a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/CategoryDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;identifier=9200" title="No Longer Available">No Longer Available</a>
+                <a href="/email/?action=EmailUpdates" title="E-mail Product Notifications">E-mail Product <br>Notifications</a>
+            </td>
+            <td width="147">
+            	<a href="/mint_programs/" title="Coin and Medal Programs">Coin and Medal <br>Programs</a>
+                <a href="/collectorsClub/" title="Collecting Basics">Collecting Basics</a>
+                <a href="/faqs/circulating_coins/index.cfm?action=coins" title="How Coins Are Made">How Coins Are Made</a>
+                <a href="/kids/teachers/" title="For Educators">For Educators</a>
+                <a href="/kids/" title="For Kids">For Kids</a>
+                <a href="/about_the_mint/historianscorner/" title="History">History</a>
+                <a href="/about_the_mint/sculptor_engravers/" title="Artists">Artists</a>
+            </td>
+            <td width="147">
+	            <a href="https://answers.usmint.gov/" title="FAQs">FAQs</a>
+                <a href="https://catalog.usmint.gov/webapp/wcs/stores/servlet/UserRegistrationForm?storeId=10001&amp;langId=-1&amp;catalogId=10001&amp;krypto=IO9371T7O1oUiEqL3RGXk4Bp1fZVu3ulnrMQL%2BpYobhNiKvpWQRk5HxXwx81bo9c" title="My Account">My Account</a>
+                <a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/USMTrackOrderCmd?storeId=10001&amp;catalogId=10001&amp;langId=-1" title="Track My Order">Track My Order</a>
+                <a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/ReturnView?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;langId=-1&amp;storeId=10001&amp;catalogId=10001" title="Shipping &amp; Returns">Shipping &amp; Returns</a>
+                <a href="http://catalog.usmint.gov/webapp/wcs/stores/servlet/GreetingsView?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;langId=-1&amp;storeId=10001&amp;catalogId=10001" title="New Users">New Users</a>
+                <a href="/email/?action=EmailUpdates" title="E-mail Updates">E-mail Updates</a>
+                <a href="/bulk/" title="Bulk Program">Bulk Program</a>
+                <a href="/contact_us/" title="Contact Us">Contact Us</a>
+            </td>
+            <td width="147">
+	            <a href="/pressroom/" title="News Releases">News Releases</a>
+                <a href="/pressroom/?action=legislation" title="Legislation">Legislation</a>
+                <a href="/pressroom/?action=photo" title="Image Library">Image Library</a>
+                <a href="/consumer/" title="Consumer Alerts">Consumer Alerts</a>
+            </td>
+            <td width="147">
+	            <a href="/mint_tours/" title="Facilities &amp; Tours">Facilities &amp; Tours</a>
+                <a href="/about_the_mint/?action=coin_production" title="Production &amp; Sales Figures">Production &amp; Sales <br>Figures</a>
+                <a href="/about_the_mint/?action=directors_office" title="Director’s Office">Director’s Office</a>
+                <a href="/about_the_mint/?action=annual_report" title="Annual Report">Annual Report</a>
+                <a href="/about_the_mint/careers/" title="Careers">Careers</a>
+                <a href="/about_the_mint/eeo/" title="EEO">EEO</a>
+                <a href="/about_the_mint/mint_police/" title="Mint Police">Mint Police</a>
+            </td>
+            <td width="147">
+	            <a href="/WebsiteInfo/" title="Our Web Site">Our Web Site</a>
+                <a href="/websiteInfo/?action=siteMap" title="Site Map">Site Map</a>
+                <a href="/plugins/" title="Plug-Ins">Plug-Ins</a>
+                <a href="/policy/?action=TermsOfUse" title="Terms of Use">Terms of Use</a>
+                <a href="/policy/#privacy" title="Privacy">Privacy</a>
+                <a href="/foia/" title="FOIA">FOIA</a>
+                <a href="/xLink/?xLink=www.treasury.gov/No-Fear-Act/Pages/default.aspx" title="No Fear Act Data">No Fear Act Data</a>
+                <a href="/xLink/?xLink=www.treasury.gov/Pages/default.aspx" title="Department of the Treasury">Department of the Treasury</a>
+                <a href="/xLink/?xLink=ccac.gov" title="Citizens Coinage Advisory Committee">Citizens Coinage <br>Advisory Committee</a>
+                <a href="/xLink/?xLink=www.USA.gov" title="USA.gov">USA.gov</a>
+            </td>
+        </tr>
+    </tbody></table>
 </div>
 <div id="lowerMintSeal">
-	<img src="/images/shell/mintSealSm.jpg" width="40" height="40" alt="The Department of the Treasury Seal" title="The Department of the Treasury Seal">
+	<label style="color:#FFF">United States Mint© 2012 All Rights Reserved</label>
+	<img src="/images/shell/mintSealSm.jpg" width="40" height="40" style="margin:10px 0;" alt="The Department of the Treasury Seal" title="The Department of the Treasury Seal">
+    
 </div>
  
 	</div>
@@ -234,12 +362,10 @@
 	<div class="clearFloats"></div>
 	<noscript>
 		<div id="message">
-			This web site uses Javascript for various enhancements.&nbsp;
-			Your web browser apparently has Javascript turned off -or- the browser is outdated and simply does not support it.&nbsp;
-			For the best experience, we suggest that the Javascript is turned on.
+			Your Web browser has JavaScript turned off or it is outdated and does not support it. Please turn JavaScript on to fully experience our site. <a href="http://enable-javascript.com/" target="_blank">Learn how.</a>
 		</div>
 	</noscript>
-	<div id="serverID">st-4</div>
+	<div id="serverID">st-1</div>
 
 
 </body></html>
