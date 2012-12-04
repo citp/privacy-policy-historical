@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytechguide.org privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623233845id_/http%3A//www.mytechguide.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytechguide.org privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204075316id_/http%3A//www.mytechguide.org/privacy-policy) for the most accurate reproduction.*
 
 # My Technology Guide Privacy Policy
 
@@ -30,6 +30,7 @@ mytechguide.org has links to other external websites. Please be aware that we ar
 
 ## Ad Choices
 
+[AdChoices](http://go.mytechguide.org/adchoices)  
 **Third Party Advertising:**  
 We use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp) (link to the NAI universal user opt-out).
 
