@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 3esh-online.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524012130id_/http%3A//www.3esh-online.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3esh-online.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205004020id_/http%3A//www.3esh-online.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « 3esh-OnLine Games
-
-##  Privacy Policy
+# Privacy Policy | 3esh-Online Flash Games
 
 Privacy Policy for 3esh-online.com:  
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at: admin [at] 3esh-online.com
