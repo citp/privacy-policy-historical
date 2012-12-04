@@ -1,35 +1,41 @@
-> *The following text is extracted and transformed from the streamtheworld.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620185453id_/http%3A//www.streamtheworld.com/en/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamtheworld.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205005801id_/http%3A//www.tritondigital.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Triton Digital - Richer Media
 
-## Privacy Policy
+This Privacy Policy sets out the manner in which Triton Media Group, LLC (“ **Triton Digital** ”, “ **we** ”, “ **us** ”, “ **our** ”) collect, use, disclose and otherwise manage personal information of visitors of tritondigital.com (the " **Site** "). This policy does not apply to the use of our streaming and digital advertising software and services. To access our streaming platform privacy policy, [click here](https://web.archive.org/privacy-policy-streaming-platform). This policy also does not apply to the audience management services. Please read it carefully. We also invite you to review our Terms of Use.
 
-StreamTheWorld ("we", "us", "our") is committed to respect the privacy of users of its network and to protect that privacy as vigorously as possible. This Privacy Policy sets out the manner in which we will collect, use, disclose and otherwise manage personal information of visitors of our Website, and of our clients' end users subject to our authentication or registration system.
+Because we are committed to respect the privacy of our users and because the success of the Site is dependent on building and maintaining goodwill with our users, we are committed to implementing measures designed to respect and protect your privacy. Moreover, we see it as our responsibility to set an example, and to help establish standards for privacy on the Internet.
 
-## Collection of personal information
+Triton reviews its privacy practices from time to time. If we decide to change our Privacy Policy, we will post those changes on our Site so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. To contact us about privacy issues, to report a violation of our Privacy Policy, or to raise any other issue, please e-mail us at: [privacy@tritondigital.com](mailto:privacy@tritondigital.com).
 
-You may visit our Website without providing any of your personal information to us. At this time, the only personal information that we collect through our Website is personal information that you voluntarily provide to us through the "Contact" portion of the Website, or when you choose to send an email to someone at StreamTheWorld. The information collected through the "Contact" portion of the Website consists in the name, e-mail address, phone number, and any comment you wish to add.
+## The Personal Information We Collect
 
-We may also automatically collect general anonymous information related to your use of our Website, such as the date and time you visit the Website and the pages you visit on the Website. Our servers may also automatically collect information about the type of browser you use and the name of your Internet Service Provider. In addition, we may collect "cookie" information from your browser to identify your computer and provide us with a record of your visits to our Website (Collectively, the foregoing is referred to as "Usage Data"). The technology is used to gather "cookie" information that is provided by the Internet browser you use, and is stored on your computer. You may set your browser to disable or refuse to accept cookies, although doing so may affect your viewing of certain portions of the Website.
+You may visit our Site without providing any of your personal information to us. At this time, the only personal information that we collect through our Site is personal information that you voluntarily provide to us through the "Contact" portion of the Site. The information collected through the "Contact" portion of the Site consists in the name, e-mail address, and any comment you wish to add.
 
-In connection with the services provided to our clients, we may collect and use certain personal information from users of our network (or clients' end users). For example, StreamTheWorld provides an authentication and subscription service, under which we install and manage a registration system to control the access by users of certain parts of our clients' website. Our clients' end users may be asked for personal information such as their name, e-mail address, zip code, age, gender, location, user name and password. We will not collect personal information without their express consent. Use of personal information
+We may also automatically collect general anonymous information related to your use of our Site, such as the date and time you visit the Site and the pages you visit on the Site. Our servers may also automatically collect information about the type of browser you use and the name of your Internet Service Provider. In addition, we may collect "cookie" information from your browser to identify your computer and provide us with a record of your visits to our Site (Collectively, the foregoing is referred to as "Usage Data"). The technology is used to gather "cookie" information that is provided by the Internet browser you use, and is stored on your computer.
 
-Any personal information you provide to us when you send us an email or through the "Contact" portion of the Website is only used to identify who you are and to respond to the purpose for which you submitted the message. We use Usage Data for the purposes of monitoring and improving the use and features of our Website. All personal information provided to us will be used only by authorized personnel in order to better know and understand the person, respond to the needs and expectations of that person and to contact her/him if necessary. With respect to the personal information collected during the registration process in connection with the services provided to our clients, this information will be used only to verify the identity of the end user and to control the access to our client's website (or specific parts of it).
+## How We Use (and Do Not Use) the Personal Information
 
-## Disclosure of personal information
+Any personal information you provide to us when you send us an email is used solely to identify who you are and to respond to the purpose for which you submitted the message. We use Usage Data for the purposes of monitoring and improving the use and features of the Website.
 
-Except as expressly set out in this Privacy Policy, StreamTheWorld will not transfer, sell or otherwise disclose any of your personal information to any third party without your prior written consent. However, certain personal information may be disclosed to our clients in connection with the authentication and registration service, or to third party contractors, solely for the purposes of processing or answering your request. We may also disclose your personal information to third parties that may administer or manage on-line services on our behalf.
+## Third-Party Links
 
-## Security of personal information
+The Site contains links to other Internet web sites, which may include co-branded or other affiliated sites. These linked sites have separate and independent privacy policies which we recommend you read carefully. We have no control over such sites and therefore have no responsibility or liability for the manner in which the organizations who operate such linked sites may collect, use, disclose or otherwise treat your personal information.
 
-We will maintain your personal information in secure data storage to safeguard it from unauthorized access, use or disclosure. We will maintain the strict confidentiality of all personal information collected, and will only disclose such information on a confidential basis to employees, clients and third party contractors of StreamTheWorld who require such information for the purposes set out above. We will only keep your personal information for as long as it remains necessary or relevant for the purposes stated above or as otherwise required by law.
+Nevertheless, in the event you encounter any third party associated with the Site (or who claims association with the Site) who you feel is improperly collecting or using information about you, please contact [privacy@tritondigital.com](mailto:privacy@tritondigital.com) and we will be happy to forward your message to the third party.
 
-Notwithstanding the foregoing, you should be aware that, unfortunately, no data transmission over the Internet can be guaranteed to be secure. As a result, StreamTheWorld does not represent, warrant or guarantee that personal information will be protected against loss, misuse or alteration and does not accept any liability for personal information submitted by you, nor for your or third parties' use or misuse of personal information.
+## Security of Personal Information
 
-## Changes to privacy policy
+We will maintain your personal information in secure data storage to safeguard it from unauthorized access, use or disclosure. We will maintain the strict confidentiality of all personal information collected, and will only disclose such information on a confidential basis to employees and third-party contractors of Triton Digital who require such information for the purposes set out above. We will only keep your personal information for as long as it remains necessary or relevant for the purposes stated above or as otherwise required by law.
 
-If we decide to change our Privacy Policy, we will post those changes on our Website so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personal information in a manner different from that stated at the time it was collected, users will have a choice as to whether or not we use their information in this different manner.
+Notwithstanding the foregoing, you should be aware that, unfortunately, no data transmission over the Internet can be guaranteed to be secure. As a result, Triton Digital does not represent, warrant or guarantee that personal information will be protected against loss, misuse or alteration and does not accept any liability for personal information submitted by you, nor for your or third parties’ use or misuse of personal information.
 
-## Contact us
+## Changing or deleting personal information
 
-If you would like to withdraw your consent for the collection, use and/or disclosure of your personal information, access/correct any of your personal information we have in our possession, or if you have any inquiries or comments about this Privacy Policy, please contact us at [privacy@StreamTheWorld.com](mailto:privacy@StreamTheWorld.com).
+If you would like to have your personally identifiable information removed from the Site's database, please contact us at [privacy@tritondigital.com](mailto:privacy@tritondigital.com) and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within the Site's databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however, we reserve the right, from time to time, to re-contact former TritonDigital.com users.
+
+## Questions?
+
+Questions regarding our Privacy Policy should be directed to [legal@tritondigital.com](mailto:legal@tritondigital.com).
+
+Updated July 22, 2011
