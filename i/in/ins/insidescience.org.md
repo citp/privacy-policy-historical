@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insidescience.org privacy policy that was archived on 2012-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120324132625id_/http%3A//www.insidescience.org/isns/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidescience.org privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204033635id_/http%3A//insidescience.org%3Fq%3Dcontent/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ISNS
+# Privacy Policy | Inside Science
 
 The [American Institute of Physics](http://www.aip.org/aip/privacy.html) (AIP) is committed to the value of privacy. As you use our web sites, you may be prompted to enter information when you
 
@@ -15,7 +15,7 @@ The [American Institute of Physics](http://www.aip.org/aip/privacy.html) (AIP) i
 
 The data collected online from an AIP user is voluntary, although some services are only accessible by registering user details. Information collected may include your name, e-mail address, street address, job title, society membership, or other related demographic information. Except as described in this Privacy Policy, AIP will endeavor to keep your information confidential. We focus on using the information as part of AIP's service to you and its mission to advance and diffuse the knowledge of physics and its application to human welfare.
 
-Notice to EU Users: The server for www.aip.org is located in the United States. By entering information on this site, you are consenting to the transfer of that information to the United States. Your information will be handled in accordance with AIP's Privacy Policy.
+Notice to EU Users: The server for [www.aip.org](http://www.aip.org/) is located in the United States. By entering information on this site, you are consenting to the transfer of that information to the United States. Your information will be handled in accordance with AIP's Privacy Policy.
 
 ## How collected information is used
 
@@ -25,7 +25,7 @@ The primary purpose of gathering information is to allow AIP to link a name and 
 
 AIP takes precautions to protect your information. When you submit sensitive information via the website, we make commercially reasonable efforts to protect your information both online and off-line. When our registration/order form asks for sensitive information (such as a credit card number), we use dedicated software designed to encrypt the information and protect it. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about our encryption software, [follow this link](http://www.aip.org/aip/securitystate.html).
 
-##  Opt-out for European Union and other users
+## Opt-out for European Union and other users
 
 In accordance with EU and other guidelines, you may decline to provide the information requested by AIP. Please be advised, however, that AIP may be unable to provide certain services unless such information is provided for security and identification purposes.
 
@@ -45,10 +45,10 @@ AIP sites contain links to other sites, and other sites have links to AIP. Pleas
 
 sers who participate in AIP online forums or discussions may have their messages or postings edited for size and/or content. Submissions to such forums explicitly grant such editorial rights to AIP staff who reserve the right to remove inappropriate submissions. By participating in an online forum or discussion, you consent to our use or disclosure of any content you submit.
 
-##  Protection of children's personal pnformation
+## Protection of children's personal pnformation
 
 IP sites are general audience sites and do not knowingly collect any personal information from children.
 
 ## Notification of changes
 
-If we make material changes to our privacy policy, these changes will be posted to our privacy policy page. You should review this page regularly for updates. 
+If we make material changes to our privacy policy, these changes will be posted to our privacy policy page. You should review this page regularly for updates.
