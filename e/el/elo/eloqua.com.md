@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eloqua.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527195324id_/http%3A//www.eloqua.com/trust/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eloqua.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204084749id_/http%3A//www.eloqua.com/trust/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Marketing Automation | Demand Generation | Eloqua
 
