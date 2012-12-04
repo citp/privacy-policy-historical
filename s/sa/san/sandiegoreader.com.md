@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandiegoreader.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605134217id_/http%3A//www.sandiegoreader.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiegoreader.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204065307id_/http%3A//www.sandiegoreader.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | San Diego Reader
 
@@ -28,4 +28,4 @@ This privacy policy is effective as of February 2, 2012. We may need to change i
 
 ### More Questions?
 
-If you have any questions about this privacy policy, e-mail them to our [website administrator](mailto:webadminsdreader.com), and be sure to indicate the nature of your question or concern.
+If you have any questions about this privacy policy, e-mail them to our [website administrator](mailto:webadmin@sdreader.com), and be sure to indicate the nature of your question or concern.
