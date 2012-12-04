@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the enjoythepics.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622224152id_/http%3A//www.enjoythepics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enjoythepics.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204144209id_/http%3A//www.enjoythepics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Enjoy The Pics
+# Privacy Policy » Enjoy The Pics
 
 [Home](http://www.enjoythepics.com/ "Go to Home.") > Privacy Policy
 
