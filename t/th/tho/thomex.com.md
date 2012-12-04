@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomex.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614001217id_/http%3A//www.thomex.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomex.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204014432id_/http%3A//www.thomex.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Thomex.com, Product Information Exchange
 
