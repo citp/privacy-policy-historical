@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betonline.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512183031id_/http%3A//www.betonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betonline.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204110732id_/http%3A//www.betonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
