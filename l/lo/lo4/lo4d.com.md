@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lo4d.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605074524id_/http%3A//www.lo4d.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lo4d.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204183832id_/http%3A//www.lo4d.com/corp/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Lo4d.com
 
 Your personal privacy matters to us:
 
- **The bottom line: We will not ever use your email address or any personal information your provide to us as a means to do any harm; that means we will never sell your information to spammers or provide it to third parties with a _very_ valid reason**. Now to the the details:
+ **The bottom line: We will not ever use your email address or any personal information you provide to us as a means to do any harm; that means we will never sell your information to spammers or provide it to third parties (such as law enforcement) without a _very_ valid reason**. Now to the the details:
 
 **Our commitment**
 
@@ -12,11 +12,17 @@ We created this privacy policy to ensure that any information obtained from our 
 
 **Your information is logged automatically**
 
-We use your IP address to help diagnose problems with our server and to administer our Web site, and to help identify you and your shopping cart. Your IP address is also used to gather broad demographic information, and for other purposes. 
+We use your IP address to help diagnose problems with our server and to administer our Web site, and to help identify you and your preferences. Your IP address is also used to gather broad demographic information, and for other purposes. 
+
+**Google Analytics**
+
+In addition to logging IP addresses in our server logs, this site utilizes third party analytics software powered by Google Analytics. The cookies employed by Google Analytics keep track of user sessions on the domain of **lo4d.com** \-- our statisical package only utilizes first-party cookies. This data is not shared with third parties. According to Google, the data is not accessible or alterable by third party domains.
+
+Opting out of Google Analytics is a matter of disabling either javascript or cookies in your browser preferences.
 
 **Our site uses cookies**
 
-Our Site uses cookies to keep track of your shopping cart, and to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. 
+Our Site uses cookies to keep track of your preferences, and to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. 
 
 **Advertisers**
 
