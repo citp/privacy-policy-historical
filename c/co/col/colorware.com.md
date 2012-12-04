@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorware.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604044147id_/http%3A//www.colorware.com/company.aspx%3FmainClass%3DshowPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorware.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204224057id_/http%3A//www.colorware.com/company.aspx%3FmainClass%3DshowPrivacyPolicy) for the most accurate reproduction.*
 
 # ColorWare - Company PrivacyPolicy
 
@@ -8,7 +8,7 @@ This document was last updated on November 28, 2007.
 
 #####  1\. ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS
 
-ColorWare, Inc. is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing [www.colorware.com](https://web.archive.org/web/20120604044147id_/http%3A//www.colorware.com/www.colorware.com), you acknowledge and fully understand ColorWare, Inc.’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement. 
+ColorWare, Inc. is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing [www.colorware.com](https://web.archive.org/web/20121204224057id_/http%3A//www.colorware.com/www.colorware.com), you acknowledge and fully understand ColorWare, Inc.’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement. 
 
 #####  2\. PARTICIPATING MERCHANT POLICIES
 
