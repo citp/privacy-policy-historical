@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the logoeps.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519195732id_/http%3A//www.logoeps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logoeps.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204181655id_/http%3A//www.logoeps.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - LogoEPS
 
 ### Logoeps.com Privacy Policy
 
@@ -17,10 +17,6 @@ Logoeps.com analyzes our website logs to constantly improve the value of the mat
 ### Use of cookies:
 
 Logoeps.com use cookies on this site.
-
-### Advertising Server:
-
-AllFreeLogo.Com have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information. For further information, consult the privacy policies of: <http://www.google.com/privacy.html>
 
 ### Respect to security:
 
