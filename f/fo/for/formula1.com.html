@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the formula1.com privacy policy that was archived on 2012-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629041446id_/http%3A//www.formula1.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the formula1.com privacy policy that was archived on 2012-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121204045325id_/http%3A//www.formula1.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="jsEnabled"><head id="ctl00_Head1">
 <title>Formula 1™ - The Official F1™ Website</title>
@@ -206,6 +206,11 @@
 				<li class="navRACES_2012CALENDAR navRACES_2012CALENDAR_en">
 				
 				<a href="/races/calendar.html" onclick="pageTracker._trackEvent('Navigation','L2','2012_Calendar')">2012 CALENDAR</a>
+				</li>
+			
+				<li class="navRACES_2013CALENDAR navRACES_2013CALENDAR_en">
+				
+				<a href="/races/calendar_preview.html" onclick="pageTracker._trackEvent('Navigation','L2','2012_Calendar_Preview')">2013 CALENDAR</a>
 				</li>
 			
 				<li class="navRACES_DOWNLOADS navRACES_DOWNLOADS_en">
@@ -425,7 +430,7 @@
     </div>
 
 
-                <div id="contentMain">
+                <div id="contentMain"><div id="adHoldLeftCol" style="position: absolute; margin-left: 0px; margin-top: 0px; z-index: -1000; height: 0px;"><div id="adHoldLeftFlash"></div></div>
                     <!-- content modules here -->
                     
     
@@ -466,6 +471,102 @@
                     
 
 <!-- Advertising Panel START-->
+
+<style type="text/css">
+#adHoldLeft {
+	-webkit-transition: all 250ms ease;
+	-moz-transition: all 250ms ease;
+	-ms-transition: all 250ms ease;
+	-o-transition: all 250ms ease;
+	transition: all 250ms ease;
+}
+</style>
+<script type="text/javascript">
+    var now = new Date();
+    var unique = "unique=" + now.getTime();
+    var adHoldLeftHeight = 409;
+    function sbaSize(toBe){
+        document.getElementById("adHoldRightCol").style.height = toBe + "px";
+        $('adHoldRightCol').setStyle('overflow', 'hidden');
+        if (toBe > 0)
+        {
+            $('adHoldRightCol').setStyle('padding', '0 0 5px 0');
+        }
+        else
+        {
+            $('adHoldRightCol').setStyle('padding', '0 0 0 0');
+        }
+    }
+    
+    function sbaHide(){
+        document.getElementById("adHoldLeftCol").style.zIndex = "-1000";
+        document.getElementById("adHoldLeftCol").style.height = "0px";
+        document.getElementById("adHoldLeft").style.height = adHoldLeftHeight;
+        document.getElementById("adHoldLeft").style.overflow = "hidden";
+    }
+    
+    function sbaShow(){
+        document.getElementById("adHoldLeftCol").style.zIndex = "1000";
+        document.getElementById("adHoldLeftCol").style.height = adHoldLeftHeight + "px";
+        document.getElementById("adHoldLeft").style.height = adHoldLeftHeight + "px";
+    }
+    
+    var sbaLoadRightCalled = false;
+    function sbaLoadRight()
+    {
+        if (sbaLoadRightCalled)
+        {
+            return;
+        }
+            
+        sbaLoadRightCalled = true;
+        
+        sbaHide();
+        
+		var flashvars = false;
+		var attributes = {id: "adHoldRight"};
+		var params = { allowScriptAccess: "always", quality: "high", wmode: "transparent", FlashVars: unique + "&home=" + (window.location.pathname == '/') + "&xmlUrl=/xml/advertising/sidebar/site.xml&artDir=promos&typeArray=D,D,D&nameArray=dhl,hublot,tata&weightArray=33,34,33" };
+		swfobject.embedSWF("/flash/advertising/side_bar/adHoldRight.swf", "adHoldRightFlash", "235", "600", "9.0.0","/js/expressInstall.swf", flashvars, params, attributes);
+    }
+
+    window.addEvent('domready', function(){
+        // create adHoldLeftCol container DIV and insert in contentMain DIV
+	     var oDiv = new Element('div', {
+	     'id':'adHoldLeftCol',
+	     'styles':{'position':'absolute','margin-left':'0px','margin-top':'0px','zIndex':'-1000','height':'0'}
+	     });
+	     	     
+	  	oDiv.injectTop($('contentMain'));
+	  	
+        var oFlashDiv = new Element('div', {
+        'id':'adHoldLeftFlash'
+        });
+        
+        oFlashDiv.inject(oDiv);
+
+		var flashvars = false;
+		var attributes = {id: "adHoldLeft"};
+		var params = { allowScriptAccess: "always", quality: "high", wmode: "transparent", FlashVars: unique + "&home=" + (window.location.pathname == '/') + "&xmlUrl=/xml/advertising/sidebar/site.xml&artDir=rollpanels&typeArray=D,D,D&nameArray=dhl,hublot,tata&weightArray=33,34,33" };
+		if ( (swfobject.getFlashPlayerVersion()).major > 0 )
+		{
+		    swfobject.embedSWF("/flash/advertising/side_bar/adHoldLeft.swf", "adHoldLeftFlash", "715", adHoldLeftHeight, "9.0.0","/js/expressInstall.swf", flashvars, params, attributes);
+		}
+		else
+		{
+    		var htmlAdModule = new HtmlAdModule({
+				flashVars: params.FlashVars
+			});
+			htmlAdModule.selectAdvert(); 
+		}
+});
+
+</script>
+
+<div id="adHoldRightCol" style="z-index: 1; display: block; height:0; padding: 0px 0 0px 0;">
+<div id="adHoldRightFlash"></div>
+</div>
+<script type="text/javascript" src="/js/htmlAdModule.js"></script>
+
 
 
                     
@@ -541,7 +642,7 @@
 		        <li><a href="/reg/viewdetails" onclick="pageTracker._trackEvent('Navigation','Footer','My_Details')">MY DETAILS</a></li>
         </ul>
         <ul class="copyright">
-            <li>© 2012 Formula One World Championship Limited</li>
+            <li>© 2003-2012 Formula One World Championship Limited</li>
         </ul>       
     </div>
     <div class="footerDiv">
