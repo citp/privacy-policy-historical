@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the play.fm privacy policy that was archived on 2012-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513234712id_/http%3A//www.play.fm/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the play.fm privacy policy that was archived on 2012-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121204044227id_/http%3A//www.play.fm/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -38,10 +38,10 @@ OAS_RICH(pos);
 OAS_NORMAL(pos);
 };
 //-->
-</script><script language="JavaScript1.1" src="http://austria1.adverserve.net/RealMedia/ads/adstream_mjx.ads//1187442165@"></script> 
+</script><script language="JavaScript1.1" src="http://austria1.adverserve.net/RealMedia/ads/adstream_mjx.ads//1541597402@"></script> 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
-<script type="text/javascript" src="/js-min/key/f08150188f22c1d10fb9bd46044c4f7f4aeb183f/t/1335263002.js"></script>
-<link rel="stylesheet" type="text/css" media="screen" href="/css-min/key/932d4467aca22a4d71a7833d8722fea03776fd20/t/1335257678.css">
+<script type="text/javascript" src="/js-min/key/4797b122c54efc8e799596bfd037e9f62b849f58/t/1353670278.js"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="/css-min/key/932d4467aca22a4d71a7833d8722fea03776fd20/t/1352808428.css">
 <!--[if IE  7.0]>
  <link href="/css/ie7.css" rel="stylesheet" type="text/css"  />
 <![endif]-->
@@ -58,8 +58,7 @@ OAS_NORMAL(pos);
 <script type="text/javascript" src="/js/googleanalytics/social_tracking.js"></script>
 <script type="text/javascript" src="/js/googleanalytics/twitter_tracking.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20120411145541/http://platform.twitter.com/widgets.js"></script></head>
 <body data-twttr-rendered="true">
-
-<div id="indicator"></div>
+<div id="indicator" class="{cr:0, au: 0}"></div>
 <div class="header ">
   <div class="container">
   	<div id="header_filler_left"></div>
@@ -77,9 +76,9 @@ OAS_NORMAL(pos);
     <div class="usernav">
       <table>
       <tbody><tr>
-        <td class="navilinks">
-        <a class="logout" href="/sitemap/">Sitemap</a> |
-        <a class="signup" rel="nofollow" href="/auth">Log In or Sign Up</a>        </td>
+        <td class="navilinks navi-login-link">
+        <a class="signup" rel="nofollow" href="/auth">Log In</a>          <span style="color: #fff; font-size: 15px;">or</span> 
+        <a class="signup" rel="nofollow" href="/auth/legacyCreate">Sign Up</a>        </td>
       </tr>
     </tbody></table>      
   </div>    <div style="clear:both;"> </div>
@@ -102,6 +101,8 @@ OAS_NORMAL(pos);
   <li>
     <a href="/shop">Shop</a>  </li>
 
+  <li id="li_contest_pic">
+	<a class="navimgbutton" rel="/images/channels/contests/ros/mainnavibutton_rosdjcontest_hover.png" href="/raveonsnow-dj-contest"><img src="/images/channels/contests/ros/mainnavibutton_rosdjcontest_normal.png"></a>  </li>
 
 	<li class="fblikebtn">
 		 <div class="fb_like_wrapper" send=""><fb:like layout="button_count" send="false" show_faces="false" href="http%3A%2F%2Fwww.facebook.com%2Fwww.playfm"></fb:like></div>	</li>
@@ -117,12 +118,12 @@ var asposition = "Top";
 var time = new Date();
 randnum = (time.getTime());
 document.write('<scr'+'ipt language="JavaScript" src="http://austria1.adverserve.net/RealMedia/ads/adstream_jx.ads/'+aspage+'/1'+randnum+'@'+asposition+'"><\/scr'+'ipt>');
-</script><script language="JavaScript" src="http://austria1.adverserve.net/RealMedia/ads/adstream_jx.ads/playfmutils/pfm_CC_ZP_Button_intern/11580497947254@Top"></script>
+</script><script language="JavaScript" src="http://austria1.adverserve.net/RealMedia/ads/adstream_jx.ads/playfmutils/pfm_CC_ZP_Button_intern/11580450393707@Top"></script>
     </div>
    </div>
-</div><div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js#xfbml=1" async=""></script></div><script>
+</div><div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div><script>
   window.fbAsyncInit = function() {
-
+  
     FB.init({
       appId   : '65921695005',
       logging : true,
@@ -131,19 +132,50 @@ document.write('<scr'+'ipt language="JavaScript" src="http://austria1.adverserve
       xfbml   : true,
 			oauth : true
     });
-    $(document).trigger('facebook_init');
-  	_ga.trackSocial();
+    
+    //set init-flag:
+    fbApiInit = true; 
+    
+    //$.loginfo('sf_fb: initalized SDK');
+  	_ga.trackSocial();  
+  	
 	};
 
   (function() {
     var e = document.createElement('script');
-    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js#xfbml=1';
+    /*
+     *see: http://facebook.stackoverflow.com/questions/10415884/fb-init-has-already-been-called
+     *e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js#xfbml=1';
+     */
+    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
     
     // see https://github.com/facebook/connect-js/issues/217
+
     //e.src = document.location.protocol + '//static.ak.fbcdn.net/connect/en_US/core.debug.js';
     e.async = true;
     document.getElementById('fb-root').appendChild(e);
   }());
+
+  /*
+   * Ensures that FB-JSDK has already been initialized
+   * 
+   * @param callback: callback function to executed if SDK has been initialized
+   */
+  function fbEnsureInit(callback) {
+    //$.log('called fbEnsureInit');
+    if(!window.fbApiInit) {
+      setTimeout(function() {fbEnsureInit(callback);}, 50);
+    } else {
+      if(callback) {
+        callback();
+      }
+    }
+  }
+  
+  
+  // the next line can be used to check if this block is loaded on a site :)
+  //alert("Yo!");
+
 </script><div class="content container">    
   <div id="wrapper" class="span-24 last">
          
@@ -159,7 +191,7 @@ document.write('<scr'+'ipt language="JavaScript" src="http://austria1.adverserve
         if (typeof(OAS_AD) !== 'undefined')
           OAS_AD('Top2');
         //-->
-        </script><a href="http://austria1.adverserve.net/RealMedia/ads/click_nx.ads//1187442165@!Top2" target="_top"><img src="http://austria1.adverserve.net/RealMedia/ads/adstream_nx.ads//1187442165@!Top2" border="0" alt="Click!"></a>  
+        </script><a href="http://austria1.adverserve.net/RealMedia/ads/click_nx.ads//1541597402@!Top2" target="_top"><img src="http://austria1.adverserve.net/RealMedia/ads/adstream_nx.ads//1541597402@!Top2" border="0" alt="Click!"></a>  
       </div>
       <div id="top_ros">
         <div id="top_ros_super">
@@ -168,14 +200,13 @@ document.write('<scr'+'ipt language="JavaScript" src="http://austria1.adverserve
   	  if (typeof(OAS_AD) !== 'undefined')
   		  OAS_AD('Top');
   	//-->
-  </script><a href="http://austria1.adverserve.net/RealMedia/ads/click_nx.ads//1187442165@!Top" target="_top"><img src="http://austria1.adverserve.net/RealMedia/ads/adstream_nx.ads//1187442165@!Top" border="0" alt="Click!"></a>
+  </script><a href="http://austria1.adverserve.net/RealMedia/ads/click_nx.ads//1541597402@!Top" target="_top"><img src="http://austria1.adverserve.net/RealMedia/ads/adstream_nx.ads//1541597402@!Top" border="0" alt="Click!"></a>
 </div>
  
         <div style="clear:both"></div>
       </div>
     </div>
-    
-      <script type="text/javascript">
+  	      <script type="text/javascript">
 $(document).ready(function()
 {
 });
@@ -302,8 +333,8 @@ In order to use certain features of the Play.FM Website (manage playlists, creat
           <li><a href="/contact">Contact</a></li>
           <li><a href="/about">About</a></li>
           <li><a href="/advertise">Advertise</a></li>
-          <li><a href="/merchandise">Merchandise</a></li>
           <li><a href="/press">Press</a></li>
+          <li><a href="/team">Team</a></li>
      			<li><a href="/jobs">Jobs</a></li>
      			</ul>
         </div>
@@ -317,13 +348,14 @@ In order to use certain features of the Play.FM Website (manage playlists, creat
      	  </ul>
         </div>
         <div class="part">
-          <b>Music</b><br>
-          <ul class="footer_list" title="Music">
+          <b>Music &amp; Merchandise</b><br>
+          <ul class="footer_list" title="Music &amp; Merchandise">
           <li><a href="/search">Search</a></li>
-          <li><a href="/brand/create">Create a profile</a></li>
+          <li><a href="/brand/create">Create a Page</a></li>
           <li><a href="/recording/create">Upload Dj Sets</a></li>
           <li><a href="/widgets">Widgets</a></li>
           <li><a href="/api">API</a></li>
+          <li><a href="/merchandise">Merchandise</a></li>          
           </ul>
         </div>
         <div class="part">
@@ -402,7 +434,7 @@ In order to use certain features of the Play.FM Website (manage playlists, creat
   	  if (typeof(OAS_AD) !== 'undefined')
   		  OAS_AD('Right1');
   	//-->
-  </script><a href="http://austria1.adverserve.net/RealMedia/ads/click_nx.ads//1187442165@!Right1" target="_top"><img src="http://austria1.adverserve.net/RealMedia/ads/adstream_nx.ads//1187442165@!Right1" border="0" alt="Click!"></a>
+  </script><a href="http://austria1.adverserve.net/RealMedia/ads/click_nx.ads//1541597402@!Right1" target="_top"><img src="http://austria1.adverserve.net/RealMedia/ads/adstream_nx.ads//1541597402@!Right1" border="0" alt="Click!"></a>
 </div>
   </div>
 </body></html>
