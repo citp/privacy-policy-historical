@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the museter.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625073320id_/http%3A//www.museter.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museter.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204201318id_/http%3A//www.museter.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Museter Online Radio Shoutcast Streams
 
