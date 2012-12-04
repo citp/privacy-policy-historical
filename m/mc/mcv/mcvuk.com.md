@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mcvuk.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510095646id_/http%3A//www.mcvuk.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcvuk.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204164348id_/http%3A//www.mcvuk.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy | MCV
 
 INTENT MEDIA LIMITED (“We” or “Our”) are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](https://web.archive.org/web/20120510095646id_/terms "Terms of use") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms of use](https://web.archive.org/web/20121204164348id_/terms "Terms of use") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is INTENT MEDIA LIMITED of SAXON HOUSE, 6A ST ANDREW STREET, HERTFORD, SG14 3AL, UNITED KINGDOM.
 
@@ -75,7 +75,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Intent Media Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20120510095646id_/info/terms "Terms of use") and other agreements; or to protect the rights, property, or safety of Intent Media, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20121204164348id_/info/terms "Terms of use") and other agreements; or to protect the rights, property, or safety of Intent Media, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
