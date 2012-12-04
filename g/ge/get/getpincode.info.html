@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the getpincode.info privacy policy that was archived on 2012-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629142255id_/http%3A//www.getpincode.info/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getpincode.info privacy policy that was archived on 2012-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121204034458id_/http%3A//www.getpincode.info/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		<title>GetPincode privacy</title>
@@ -30,13 +30,13 @@
 			ul {padding-left:15px}
 			p.pitch {}
 
-			#header {font-weight:bold; padding:10px; background:#eee; margin: 5px 5px 15px 5px; width:300px; float:left; min-height:350px}
+			#header {font-weight:bold; padding:5px 10px 10px 10px; border-right:1px solid silver; margin: 5px 5px 15px 5px; width:300px; float:left; min-height:350px}
 			#header a {width:100px;}
 
 			#main {margin:0 auto; width: 900px; background: white; padding:25px 10px 30px 10px; overflow:visible}
 
 			#profile span {float:left; margin: 0 20px 0 0; text-align:right}
-			#profile span img {border:5px solid #eee; width:250px; height:250px}
+			#profile span img {border:5px solid #eee; width:250px; height:250px; margin-left:15px}
 			#profile p {margin:0 0 10px 0; font-size:0.9em; color:gray; overflow:hidden}
 			#profile p a {color:gray}
 			#profile p a:hover {color:#28f}
@@ -49,7 +49,7 @@
 			h4 a:hover {color:#ccf}
 
 			#profile {margin-top:5px; width:550px; float:right}
-			#profile div {float:left; width:250px; height:1%}
+			#profile div {float:left; width:240px; height:1%}
 			#index h2 {text-align:center}
 			#index form input {font-size:20px; font-family:Arial, sans-serif; font-weight:bold; color:gray}
 			#index div.list {margin:20px 25px 0 25px; float:left; width:225px; font-size:12px}
@@ -65,9 +65,9 @@
 			#search {width:550px; float:right; margin-bottom:30px}
 			#search h4 {margin-top:5px}
 			#edit {width:550px; float:right}
-			#search h2 {margin:15px 0 0 15px}
+			#search h2 {margin:15px 0 0 15px; text-align:left;}
 			#message {color:red; font-weight:bold}
-			.g {text-align:center; width:550px; float:right}
+			.g {text-align:center; width:550px; float:right; margin-bottom:10px}
 
 			#comments form {margin-top:10px;}
 			#comments label b {display:block; text-align:left; margin-right:10px}
@@ -76,14 +76,20 @@
 			#comments hr {border:2px solid #eee}
 			#comments textarea {font-size:12px; font-family:Consolas, monospace}
 
+			.fade {opacity:0.2}
 			#admin {font-family:Verdana; font-size:12px}
 			.red {color:red;}
 			.cNone, .c0, .c1, .c2 {color:red}
 			.jobs {font-size:16px; font-weight:bold; background:#ffc; padding:5px 0px; margin:0 0 10px 0; text-align:center; line-height:1.5em}
 			.jobs small {display:block; font-size:14px; font-weight:normal}
 			#loading {padding-top:150px; text-align:center}
-			#nav {background:#eee; padding:5px 100px; text-align:center}
+			#overlaymodal {display:none; position:absolute; background:black; opacity:0.8; width:100%; height:100%}
+			#loadingmodal {display:none; position:absolute; top:40%; left:38%; width:20%; padding:20px; border:10px solid #ddd; font-size:12px; font-weight:bold; z-index:1000; background:white; text-align:center}
+			#loadingmodal img {vertical-align:top; margin-left:5px}
+			#nav {background:#eee; padding:8px 0 8px 0; text-align:center;}
+			#nav b {font-size:1.3em; padding:7px 10px 0 0;}
 			#nav a {margin:0 10px; font-weight:bold}
+			#nav input.text {margin-left:10px; padding:2px;}
 		--> </style>
 
 
@@ -96,29 +102,55 @@
 	</head>
 	<body>
 
+		<div id="loadingmodal">Searching <img src="/ajax-loader.gif"></div>
+		<div id="overlaymodal"></div>
+
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+		<!--
+			function presearch () {
+				document.getElementById('loadingmodal').style.display = 'block';
+				// document.getElementById('overlaymodal').style.display = 'block';
+				document.getElementById('main').style.opacity = '0.1';
+				document.getElementById('nav').style.opacity = '0.1';
+				//return false;
+			}
+		-->
+		</script>
+
 		<div id="nav">
-			<a href="/">Home</a> /
-			<a href="/api.html">API</a> /
-			<a href="/privacy.html">Privacy</a> /
-			<a href="/contact.html">Contact</a>
+			<form method="get" action="/search" onsubmit="return presearch()">
+			<b>GetPincode.info</b> ——
+			<a href="/">Home</a> |
+			<a href="/api.html">API</a> |
+			<a href="/privacy.html">Privacy</a> |
+			<a href="/contact.html">Contact</a> |
+			<!--<a href="/download.html">Download</a> |-->
+			<a href="/review.html">Reviews</a> |
+			
+				<input type="text" class="text" name="q" size="30" onfocus="if (this.value == 'Enter Address ..') this.value = '';" value="Enter Address .."> <input type="submit" value="Search">
+			
 			<!--<a href="/advertise.html">Advertise</a>-->
+			</form>
 		</div>
 
-		<div id="main">
 
+		<div id="main">
 			<div id="header">
+				<!--
 				<h1 id="title"><a href="/">GetPincode</a></h1>
 				<p class="pitch">Indian pincode search engine</p>
+
 				
-					<form method="get" action="/loading" id="searchform">
+					<form method=get action="/loading" id="searchform">
 						
-							<label id="hs">Search Address<br><input size="30" name="q" id="q"> </label><br>
+							<label id="hs">Search Address<br><input size=30 name="q" id="q"> </label><br>
 							<input type="submit" value="Search .."><br><br>
 						
 					</form>
 				
 
 				<hr style="margin:0 0 10px 0; border:3px solid #ddd">
+				-->
 
 				
 
@@ -204,7 +236,7 @@ Although most changes are likely to be minor, Getpincode may change its Privacy 
 
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-4027364-3']);
