@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia.co.in privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502221427id_/http%3A//www.expedia.co.in/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.co.in privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204035207id_/http%3A//www.expedia.co.in/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.*
 
 # Expedia.co.in Privacy Pledge
 
@@ -61,7 +61,7 @@ This website may share your information with the following entities:
 
 ·                    
 
-Companies within our corporate family. We may share your personal information with our parent company and corporate affiliates, including Hotwire, TripAdvisor, and hotels.com, as well as international corporate affiliates such as Expedia.co.uk. This sharing enables us to provide you with information about products and services, both travel-related and other, which might interest you. To the extent that our parent company and corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They also will comply with applicable laws governing the transmission of promotional communications and, at a minimum, give you an opportunity in any commercial email they send to choose not to receive such email messages in the future.  We also may share your information: 
+Companies within our corporate family. We may share your personal information with our parent company and corporate affiliates, including Hotwire, and hotels.com, as well as international corporate affiliates such as Expedia.co.uk. This sharing enables us to provide you with information about products and services, both travel-related and other, which might interest you. To the extent that our parent company and corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They also will comply with applicable laws governing the transmission of promotional communications and, at a minimum, give you an opportunity in any commercial email they send to choose not to receive such email messages in the future.  We also may share your information: 
 
 ·                     In response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us. 
 
@@ -131,6 +131,6 @@ We may update this Privacy Policy in the future. We will notify you about materi
 If you have questions about this Privacy Policy (or your travel planning or purchases), please email us at [help@support.expedia.co.in](mailto:help@support.expedia.co.in).   
 
 
-This Privacy Policy is effective as of July 15, 2010. 
+This Privacy Policy is effective as of July 06, 2012. 
 
 Expedia, Inc., 333 108th Ave. NE, Bellevue, WA 98004 USA 
