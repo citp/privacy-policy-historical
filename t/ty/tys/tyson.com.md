@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tyson.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508020222id_/http%3A//www.tyson.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tyson.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204055208id_/http%3A//www.tyson.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Tyson: Privacy Policy
 
