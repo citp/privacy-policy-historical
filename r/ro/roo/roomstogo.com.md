@@ -1,70 +1,95 @@
-> *The following text is extracted and transformed from the roomstogo.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513042307id_/http%3A//www.roomstogo.com/index.cfm%3Ffuseaction%3DprivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomstogo.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204095035id_/http%3A//www.roomstogo.com/content/Customer-Service/Privacy) for the most accurate reproduction.*
 
-# Furniture Retailer - Home & Contemporary Online Furniture Shopping :: Rooms To Go :
+# Rooms To Go
 
-Privacy Statement
+Rooms To Go created this privacy statement to demonstrate our committment to privacy. This policy applies to information collected in Rooms To Go showrooms and online at roomstogo.com and roomstogokids.com.
 
-  
- **Roomstogo.com** has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: www.roomstogo.com. 
+Information we collect
 
-Registration
+We collect information from you when you register on our site, visit our showrooms, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
-  
-Our site's registration form requires users to give us contact information (like their name and e-mail address) and financial information (like their account or credit card numbers). We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor during business hours for either customer service support or any order-processing questions we may have. The customer will also be contacted to confirm the delivery date and time. We also may use registration information to provide customers with opportunities to purchase other products or services that we believe may be of interest to them. Users may opt-out of receiving e-mail marketing communications; see the [choice/opt-out](https://web.archive.org/web/20120513042307id_/http%3A//www.roomstogo.com/index.cfm?fuseaction=choiceOptOut) section. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services. Unique identifiers are collected to verify the user's identity and for use as account numbers in our record system. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-Ordering / Purchasing
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-  
-Our site uses an order form for customers to request information, products, and services. We collect visitors' contact information (like their e-mail address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders to our customers. The customers' contact information is also used to contact the visitor during business hours for either customer service support or any order processing questions we may have. The customer will also be contacted to confirm the delivery date and time. We may use this information to provide customers with opportunities to purchase other products or services that we believe may be of interest to them. Users may opt-out of receiving future e-mail marketing communications; see the [choice/opt-out](https://web.archive.org/web/20120513042307id_/http%3A//www.roomstogo.com/index.cfm?fuseaction=choiceOptOut) section. Financial information that is collected is used to check the users' qualifications and bill the user for products and services. Unique identifiers are collected from web site visitors to verify the user's identity and for use as account numbers in our record system. 
+How we use your information
 
-Safeguarding Your Information
+Any of the information we collect from you may be used in one of the following ways:
 
-  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Security enhancements were implemented to protect our most valuable asset, our customers. We have taken precautions and have invested in technology that will help keep your transaction safe. When you use the Rooms To Go Credit Card or another credit card to make a purchase at roomstogo.com, we use Secure Socket Layering (SSL) to encrypt your personal credit information, including your credit card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions. See the [security](https://web.archive.org/web/20120513042307id_/http%3A//www.roomstogo.com/index.cfm?fuseaction=security) section. 
+To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-Resume Submissions
+To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-  
-Our site uses a form for vistors' to submit an online resume. We collect visitors' contact information (like their name, mailing address and e-mail address) and employment information (like employment eligibility, work experience and education). This information is submitted to Rooms To Go Human Resources Dept and is not used for any purpose other than in connection with the employment process. Rooms To Go currently does not accept applications online from applicants under 18 years of age. 
+To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-Choice / Opt-Out
+To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-  
-Our site provides users the opportunity to opt-out of receiving e-mail marketing communications from us and our partners at the point where we request information about the visitor. See the [choice/opt-out](https://web.archive.org/web/20120513042307id_/http%3A//www.roomstogo.com/index.cfm?fuseaction=choiceOptOut) section. 
+To administer a contest, promotion, survey or other site feature
 
-Correct And Update Your Information
+To send periodic emails  
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. 
 
-  
-We provide several different methods for you to change or modify the information you give us. See the [correct and update](https://web.archive.org/web/20120513042307id_/http%3A//www.roomstogo.com/index.cfm?fuseaction=correctUpdate) section. 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-Links To Other Sites
+How we protect your information
 
-  
-This site contains links to other sites. Rooms To Go is not responsible for the privacy practices or the content of such web sites. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-IP Address
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-  
-We use your IP address to help diagnose problems with our server, and to administer our web site. Your IP address is used to help identify you and your shopping cart and to gather demographic information. 
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-Use of Cookies
+Use of cookies
 
-  
-This site uses cookies, both "permanent and session". A "cookie" is a small data file stored by your web browser on your computer’s hard drive. Cookies allow us to recognize who you are when you arrive at our site by associating the identification numbers in the cookie with other information you as a customer have provided us. That customer information is stored on our secured database. Cookies allow us to understand how you clicked to our site and what pages you click on during your visit to our site. Knowing who you are and how you prefer to shop allows us to personalize your shopping experience and speed your checkout process. We do not use the cookie to track your activity on sites other than those operated by Rooms To Go. The use of cookies is required to purchase from roomstogo.com. 
+Yes. (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-Notification of Changes
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-  
-If we are going to use your personally identifiable information in a manner different in a material way from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+Disclosure of information to outside parties
 
-Other
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. We may disclose information to trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. Non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-  
-We may share user information in the event that it is necessary to respond to any subpoena, court orders, or legal process. Moreover, we may share personally identifiable information to comply with legal requirements, to protect our rights and property or those of our users, to protect the safety of our sites or users, to enforce our Terms of Service, or in the event of a bankruptcy, or a merger, acquisition, joint venture, or other business combination involving us. 
+Third party links
 
-Contact Us
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, see the [Contacting the Site](https://web.archive.org/web/20120513042307id_/http%3A//www.roomstogo.com/index.cfm?fuseaction=contactingTheSite) section. 
+California Online Privacy Protection Act Compliance
 
-_This privacy statement was updated on December 31, 2006._
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.roomstogo.com/content/Customer-Service/Terms>
+
+Your Consent
+
+By using our site or otherwise providing personal information, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+
+Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+This policy was last modified on 11-27-2012
+
+Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+<http://www.roomstogo.com/content/Customer-Service/Contact-Us>
+
+Attn: Online Support  
+11540 Highway 92 East  
+Seffner, FL 33584  
+USA  
+(888) 709 - 5380  
+[onlinesupport@roomstogo.com](mailto:onlinesupport@roomstogo.com)
+
+This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
