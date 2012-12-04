@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypinkfriday.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625151721id_/http%3A//www.mypinkfriday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypinkfriday.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204064220id_/http%3A//mypinkfriday.com/privacy) for the most accurate reproduction.*
 
 # Nicki Minaj
 
@@ -18,6 +18,43 @@ Ground(ctrl)™, as a third-party administrator, maintains and administers the n
 
 To enhance each member’s social networking experience, we request and display personal information to other members and visitors. This information is necessary to allow members to identify each other, expand their network of friends, promote each member’s favorite musicians through contests and other incentives, and to repay members for their interaction with the network through contests and prizes.
 
+## The Information We Collect
+
+When you visit this web site, you provide us with three types of information:
+
+  1. Web site information collected by us through your interaction with this web site;
+  2. Personal information you knowingly and voluntarily disclose to us when signing up as a member and through the continued use of this service; and
+  3. Personal information you knowingly and voluntarily disclose to use when using this service.
+
+
+
+First, when you or any member signs on to this service, we collect your IP address, your browser type, and certain information from your browser using “cookies”. A cookie is a piece of data stored on a computer that is tied to information about the user. You can easily remove or block this cookie using the settings in your browser if you wish to disable this feature. To confirm that you are logged into the service, we use session ID cookies that immediately terminate once you close your browser.
+
+Second, when signing up as a member to this web site, and during membership, we collect several pieces of personal information to enhance the network. This information includes the following:
+
+Your first and last name
+    For the purpose of addressing you personally
+Your email address and encrypted password
+    To provide you with access to your personal account, and to send notifications about activity on the website
+Street address, city, state, postal code, country
+    To verify billing information for orders you place on the website and/or ship merchandise to you
+Your location
+    So you may optionally share your geographic location with other members of the website
+Birth date
+    So that you may optionally share your age with other members of the website
+AIM, Yahoo screen name, Jabber, ICQ screen names
+    So that you may optionally share your instant message information with other users of the site
+Flickr user id and Twitter user name
+    So that you may optionally display recent photos and twitter posts on your profile page
+Links to your third-party sites
+    So that you may optionally share favorite or other personal websites with other members of the site
+An avatar image
+    So that you may optionally provide a visual representation of yourself next to items you publish on the site
+
+We will not collect any more any information that is necessary for you to participate in the Ground(ctrl)™ social networking community.
+
+Third, when using this service, you may change your member profile, send messages to other members, receive messages from other members, form relationships, view photos, share photos, post blog comments, post links to other web sites (including web sites not controlled by ground(ctrl)™), transmit information through various channels, participate in musician campaigns, earn points toward promotional items, and redeem those points for promotional items (collectively the “User Content”).
+
 ## Children's Online Privacy Protection Act Of 1998
 
 This privacy policy is provided in conformity with the [Children’s Online Privacy Protection Act of 1998](http://www.coppa.org/coppa.htm "COPPA -Children's Online Privacy Protection") (“COPPA”). COPPA requires that we notify parents and legal guardians and obtain consent from parents and legal guardians before we collect, use and/or disclose personal information from children under thirteen (13) years of age.
@@ -33,6 +70,14 @@ Toll Free: 1 (877) GND-CTRL
 Phone (916) 443-9202
 
 Fax (916) 443-9204
+
+Additional operators maintaining information collected through this website include: Nicki Minaj .
+
+The personal information we collect from children under thirteen (13) years of age, and the manner in which we use such information, is identical to the collection and use of any other member’s information. Please refer to sections entitled “The Information We Collect” and “How We Use the Information” for a detailed discussion of how we collect and use personal information from all members, including children under thirteen (13).
+
+As a means of verifying parental consent, we may require that verification be given to us in one of two ways. First, we may require permission by email from what we are told is the parent’s email address. Thereafter, we will respond to that email address to verify that we have received such permission. Second, we may require that the parent consent by providing us with their full name, a valid credit card number and an expiration date. We will not charge your credit card. We will merely use the information to confirm your consent and once verification is or is not made, we will immediately destroy such information.
+
+We do not require any additional information from children under thirteen (13) other than the minimum amount of information we need in order for the child to participate. Parents may review the personal information we collect on that parent’s child by mailing a request to us at the operator address listed above. The parent, after reviewing such information from us, may have it deleted and/or refuse to allow further collection by sending us an email using the password sent with the physical file that we mail to you. The parent also has the option to agree to the collection and use of the child’s information without consenting to the disclosure of the information to third parties.
 
 ## Correcting, Updating or Removing Your Information
 
@@ -85,6 +130,12 @@ Note: We cannot guarantee the security of each member’s account information as
 You post User Content, as described above, on this web site at your own risk. Despite our reasonable efforts to keep your User Content inaccessible to those not authorized to view it, be aware that no perfect security measure(s) exist to insure impenetrability. Additionally, we cannot control the actions of other members that you may choose to share your page and User Content with. We are not responsible for the circumvention of any privacy settings or security measures contained in this web site. Consequently, we cannot and do not guarantee that the User Content you provide and/or post on this web site will not be viewed by unauthorized individuals.
 
 ## Changes in the Privacy Policy’S Terms of Use, Notices and Revisions
+
+We may change this privacy policy from time to time. We reserve the right to change our Privacy Policy and our Terms of Use Agreement at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we do make changes, we will post those changes and indicate at the top of this page the Privacy Policy’s new effective date.
+
+Through this process, members will always be aware of what information we collect, how we use it, and who we may disclose it to. Each member is bound by any change to this Privacy Policy if he or she uses the site after said changes have been posted. If, however, we change this Privacy Policy so that we are using personal information in a manner materially different from the manner as stated at the time of collection, we will notify the members here, by email, or through notice on our home page.
+
+Your use of this web site and our network, and any disputes arising from it, is subject to this Privacy Policy and our Terms of Use Agreement and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We strongly encourage you to refer to this Policy on an ongoing basis so that you understand the most current Privacy Policy terms. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
 
 If you have any questions regarding this Privacy Policy, the practices of this web site, or your dealings with this web site, please contact us at the following mailing address, phone number, or email address:
 
