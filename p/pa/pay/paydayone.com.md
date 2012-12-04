@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydayone.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620211739id_/http%3A//www.paydayone.com/modules/privacypolicy/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydayone.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204070741id_/http%3A//www.paydayone.com/modules/privacypolicy/general.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -187,7 +187,7 @@ Joint Marketing  |  A formal agreement between nonaffiliated financial companies
   
 Ohio CSO Lender Privacy Policy
 
-Rev. July 2011
+Rev. August 2012
 
 FACTS  |  WHAT DOES RCL FINANCE, INC. DO WITH YOUR PERSONAL INFORMATION?   
 ---|---  
@@ -208,11 +208,13 @@ Reasons we can share your personal information  |  Does RCL Finance, Inc. share?
 **For our marketing purposes** – to offer our products and services to you  |  Yes  |  No   
 **For joint marketing with other financial companies** |  Yes  |  No   
 **For our affiliates' everyday business purposes** – information about your transactions and experiences  |  Yes  |  No   
-**For our affiliates' everyday business purposes** – information about your creditworthiness  |  Yes  |  Yes   
+**For our affiliates' everyday business purposes** – information about your creditworthiness  |  No  |  We don't share   
 **For our affiliates to market to you** |  No  |  We don't share   
 **For non-affiliates to market to you** |  No  |  We don't share   
 Questions?  |  Call 817-533-2606   
-What we do?   
+Who we are.   
+Who is providing this notice?  |  RCL Finance, Inc.   
+What we do.   
 ---  
 How does RCL Finance, Inc. protect my personal information?  |  To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.
 
@@ -241,7 +243,7 @@ State laws and individual companies may give you additional rights to limit shar
 Definitions   
 Affiliates  |  Financial and nonfinancial companies related by common ownership or control. 
 
-  * RCL Finance, Inc. does not share with our affiliates including, but not limited to, DSI Lending Resources, Inc., K2Finance, Inc. and Texas Loan Corporation.
+  * Our affiliates include, but are not limited to, DSI Lending Resources, Inc., SGS Finance, Inc., K2Finance, Inc. and Texas Loan Corporation.
 
   
   
@@ -253,7 +255,7 @@ Non-affiliates  |  Financial and nonfinancial companies not related by common ow
   
 Joint Marketing  |  A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
 
-  * RCL Finance, Inc. doesn't jointly market.
+  * Our joint marketing partners include financial institutions, credit card companies, partners that promote our products, prepaid card providers, and other lending companies.
 
   
   
