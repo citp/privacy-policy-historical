@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebasementventures.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510050714id_/http%3A//www.freeconferencecalling.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebasementventures.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204032547id_/http%3A//www.freeconferencecalling.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Free Conference Calling
 
