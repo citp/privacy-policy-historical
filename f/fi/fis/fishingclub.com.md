@@ -1,47 +1,213 @@
-> *The following text is extracted and transformed from the fishingclub.com privacy policy that was archived on 2012-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120126084946id_/http%3A//www.fishingclub.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishingclub.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204154304id_/http%3A//namginc.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-North American Fishing Club: Flagship is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the North American Fishing Club: Flagship Web site and governs data collection and usage. By using the North American Fishing Club: Flagship website, you consent to the data practices described in this statement.
+Last updated on January 20, 2010
 
-**Collection of your Personal Information**
+**North American Membership Group, Inc. (“NAMG”)**  
+In addition to reviewing this Privacy Policy, please read our [Terms](http://namginc.com/terms_of_service.html) of Service. Your use of this website constitutes agreement to its terms and conditions. 
 
-North American Fishing Club: Flagship collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. North American Fishing Club: Flagship also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+NAMG values the relationship we have with our members and we are committed to responsible information handling practices. We have adopted and implemented this Privacy Policy as part of our commitment to protecting your personal information from misuse.
 
-There is also information about your computer hardware and software that is automatically collected by North American Fishing Club: Flagship. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by North American Fishing Club: Flagship for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the North American Fishing Club: Flagship Web site.
+This Privacy Policy applies to our information-gathering and dissemination practices for the following sites (hereinafter referred to collectively as “The Websites”): 
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through North American Fishing Club: Flagship public message boards, this information may be collected and used by others. Note: North American Fishing Club: Flagship does not read any of your private online communications.
+·         North American Hunting Club (huntingclub.com) 
 
-North American Fishing Club: Flagship encourages you to review the privacy statements of Web sites you choose to link to from North American Fishing Club: Flagship so that you can understand how those Web sites collect, use and share your information. North American Fishing Club: Flagship is not responsible for the privacy statements or other content on Web sites outside of the North American Fishing Club: Flagship and North American Fishing Club: Flagship family of Web sites.
+·         North American Fishing Club (fishingclub.com) 
 
-**Use of your Personal Information**
+·         Handyman Club of America (handymanclub.com) 
 
-North American Fishing Club: Flagship collects and uses your personal information to operate the North American Fishing Club: Flagship Web site and deliver the services you have requested. North American Fishing Club: Flagship also uses your personally identifiable information to inform you of other products or services available from North American Fishing Club: Flagship and its affiliates. North American Fishing Club: Flagship may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+·         National Home Gardening Club (gardeningclub.com) 
 
-North American Fishing Club: Flagship does not sell, rent or lease its customer lists to third parties. North American Fishing Club: Flagship may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, North American Fishing Club: Flagship may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to North American Fishing Club: Flagship, and they are required to maintain the confidentiality of your information.
+·         Golf Partners Club (golfpartnersclub.com) 
 
-North American Fishing Club: Flagship does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+·         Cooking Club of America (cookingclub.com) 
 
-North American Fishing Club: Flagship keeps track of the Web sites and pages our customers visit within North American Fishing Club: Flagship, in order to determine what North American Fishing Club: Flagship services are the most popular. This data is used to deliver customized content and advertising within North American Fishing Club: Flagship to customers whose behavior indicates that they are interested in a particular subject area.
+·         National Health & Wellness Club (healthandwellnessclub.com) 
 
-North American Fishing Club: Flagship Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on North American Fishing Club: Flagship or the site; (b) protect and defend the rights or property of North American Fishing Club: Flagship; and, (c) act under exigent circumstances to protect the personal safety of users of North American Fishing Club: Flagship, or the public.
+·         Creative Home Arts Club (creativehomeartsclub.com) 
 
-**Use of Cookies**
+·         The History Channel Club (thehistorychannelclub.com) 
 
-The North American Fishing Club: Flagship Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+·         Motorcycle Riders Club of America(motorcycleridersclubofamerica.com) 
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize North American Fishing Club: Flagship pages, or register with North American Fishing Club: Flagship site or services, a cookie helps North American Fishing Club: Flagship to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same North American Fishing Club: Flagship Web site, the information you previously provided can be retrieved, so you can easily use the North American Fishing Club: Flagship features that you customized.
+·         MLB Insiders Club (mlbinsidersclub.com) 
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the North American Fishing Club: Flagship services or Web sites you visit.
+·         North American Membership Group (NAMGinc.com) 
 
-**Security of your Personal Information**
+**THE TYPE OF INFORMATION THAT NAMG COLLECTS ONLINE**  
+NAMG generally collects personally identifying information with your specific knowledge and consent. For instance, when you enroll in a club, enter a sweepstakes or contest, complete a survey, make a purchase, or register for any portion of our services, you are asked to provide information such as your e-mail address, mailing address, name or phone number. Optional information such as your age or gender may also be requested. 
 
-North American Fishing Club: Flagship secures your personal information from unauthorized access, use or disclosure. North American Fishing Club: Flagship secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+Additionally, our web server automatically collects click-stream information such as the address (or "URL") of the website that you came from before visiting our site, which pages you visit on our site, which browser you used to view our site and any search terms you have entered on our site.
 
-**Changes to this Statement**
+Whenever you request a page from The Websites your IP address, browser and version, operating system, and the site from which you came are stored in a log file. This information cannot be used to identify a specific individual. This information is used for statistical purposes in order to improve The Websites and provide accurate statistics to track usage on The Websites. Your IP address is used to help diagnose problems with our server and to administer The Websites.
 
-North American Fishing Club: Flagship will occasionally update this Statement of Privacy to reflect company and customer feedback. North American Fishing Club: Flagship encourages you to periodically review this Statement to be informed of how North American Fishing Club: Flagship is protecting your information.
+**YOUR CALIFORNIA PRIVACY RIGHTS  
+**Customers residing in California may submit a request for disclosure of (1) the categories of personal information that we may share with third parties, and (2) a list of the names and addresses of all third parties with whom we have shared such information for their marketing purposes during the preceding calendar year. To request this information, please submit a request to:
 
-**Contact Information**
+[caprivacyrights@namginc.com](mailto:caprivacyrights@namginc.com)
 
-North American Fishing Club: Flagship welcomes your comments regarding this Statement of Privacy. If you believe that North American Fishing Club: Flagship has not adhered to this Statement, please contact North American Fishing Club: Flagship at [MemberServices@FishingClub.com](mailto:MemberServices@FishingClub.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+**HOW NAMG USES INFORMATION PROVIDED BY YOU**  
+We use the information you provide in order to 1) fulfill requests for products, services or information, 2) administer your membership accounts, 3) provide member services, 4) administer contests or promotions, 5) offer new products and services, 6) measure and improve the effectiveness of our websites or our marketing endeavors, 7) tailor our online offerings to your preferences, and 8) other business purposes. NAMG will provide you with the opportunity to opt-out of having your information used for marketing communications.
+
+We may combine personal information that you provide to us online with outside records to enhance our ability to market products or provide services that we believe may be of interest to you. In addition, we may share your information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your information shared, write to us at [optout@namginc.com](mailto:optout@namginc.com). 
+
+Except as provided herein so long as you activate your membership, NAMG will not sell to any third party your email address unless you provide your informed consent, except to the extent necessary to comply with applicable laws, police investigations, or in legal proceedings where such information is relevant. Your informed consent shall be in the form of an "opt in" or similar policy. 
+
+NAMG allows access to database information by third parties providing technical services, such as e-mail, but only to the extent necessary to provide you with those services. In those instances, the third party is bound by these terms. Your informed consent shall be in the form of an "opt in" or similar policy. You understand and agree that we may disclose to third parties your zip code, gender and/or age, but only in the form of aggregated information. In addition, you agree that we may assign, sell, license, or otherwise transfer to a third party, your name, address, email address, member name and any other personal information in connection with an assignment, sale, joint venture, or other transfer or disposition of a portion or all of the assets or stock of NAMG or its affiliated entities.
+
+We reserve the right to offer you third party services and products based on the preferences that you identify during the registration process or from information gathered from surveys and based on your subsequent preferences; such offers may be provided to you by NAMG.
+
+We reserve the right to terminate your account if we learn that you have provided NAMG with false or misleading registration information.
+
+We may also disclose users' personal information if we believe that we are required to do so (i) by law, (ii) to comply with legal process or governmental requests, (iii) to enforce our [Terms of Service](http://namginc.com/terms_of_service.html), or (iv) to protect the rights, property, or safety of NAMG, its users or the public.
+
+**THIRD PARTY SERVICE PROVIDERS**  
+We work with third parties who provide services including but not limited to website hosting, order processing and fulfillment, credit card clearance, e-commerce affiliation, data analysis, emailing and other services of an administrative nature. Personal information, including financial information, is shared with such third parties for the purpose of providing such services.
+
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. 
+
+**COOKIES**  
+"Cookies" are small text files a website can use to recognize repeat users, facilitate users' ongoing access to and use of the site and allow tracking of usage behavior. Cookies are used to compile aggregate data that allows content improvements and targeted advertising. We share aggregated data (information that does not identify you) with third parties. Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. If you do not want non-personal information about your visits collected through the use of cookies, you may set your computer to deny or accept the cookie feature through a simple process in most browsers; however, without cookies we may be unable to provide you with certain features (e.g., customized or personalized delivery of information) otherwise available on The Websites. 
+
+**CHILDREN  
+We are committed to protecting the privacy of children. The Websites are not directed at children under the age of 18. If you are under 18, please do not provide any personal information on The Websites. We will not knowingly or intentionally collect personal information online from children under the age of 18.**
+
+**FORUMS, MESSAGE/BULLETIN BOARDS, VIDEOS, BLOGS, SOCIAL NETWORKING** **     **Users of forums and message/bulletin boards that may be on The Websites should be aware that when they voluntarily disclose personally identifiable information (e.g., name, e-mail address, etc.) on a message/bulletin board, in a chat area, or other interactive area where personal information can be posted, the information can be collected and used by other internet users. This may result in unsolicited messages from other posters or parties. We make no representations and undertake no obligations as to the security of information you voluntarily post in chat rooms and message/bulletin boards. Please refer to the Terms of Service for additional terms regarding use of these services. 
+
+**SEND-TO-A-FRIEND TOOLS**  
+The Websites may, from time to time, include a send-to-a-friend application that makes it easy for you to forward information or materials from The Websites to friends or family by e-mail. In order to address your e-mail message, the application will ask you to input the recipient’s e-mail address and/or similar information (including your e-mail address). This information is only used by the application to address your message so that it can be properly sent. NAMG does not retain any of this information for any purpose.
+
+**LINKS TO THIRD PARTY SITES**  
+Some of The Websites may from time to time partner with a retailer or other third party to offer online shopping opportunities, games, services, subscriptions and other applications on a co-branded or cross-promotional basis. Those transactions may take place on a NAMG site, or the site of the third party. In either case, personal information you provide in connection with the transaction may be shared with the third party, as well as with any participating sponsors or advertisers of such opportunities and features. The Websites may contain links to third-party websites. This Privacy Policy does not apply to other websites that may be accessible through The Websites. The linked sites are not under the control of NAMG, and we are not responsible for the privacy practices or the contents of any linked site, or any link contained in a linked site. We are providing these links only as a convenience, and the inclusion of a link on our websites does not imply endorsement of the linked site by NAMG. We encourage you to read the privacy policies of those other sites to learn how they collect and use information about you.
+
+USER NAMES AND PASSWORDS  
+Some areas of The Websites require you to select a user name and password. Users will be responsible for maintaining the confidentiality of any user name and password, and we will not be responsible for misuse of any user names or passwords by any third party, whether authorized by a user or not. 
+
+**SECURITY**  
+NAMG maintains practices and procedures designed to ensure the security, integrity and confidentiality of personal information collection through the Sites. A firewall protects the e-mail server to which all personal information is delivered. Access to the information is limited to those employees and contractors who need it to carry out their business functions. NAMG's employees are educated about the importance of safeguarding personal information and preventing unauthorized access, disclosure and use. Finally, we use secure server software ("SSL") that encrypts credit card information (including your name and address) submitted to any of The Websites. This encryption protects this information so it cannot be viewed as it is transmitted over the Internet. 
+
+**UNITED STATES ONLY**  
+The Websites are intended for use by residents of the United States of America only. All matters relating to The Websites are governed by the laws of the State of Minnesota in the United States of America. If you are located outside of the United States of America and you contact us, please be advised that any information you provide to us will be transferred to the United States of America and that by submitting information, you explicitly authorize its transfer.
+
+**OPT-OUT**  
+You may inform us if you wish to remove your personal information from our database, and we will comply with your request as soon as reasonably possible. Please note that we may need to retain certain information for record keeping purposes, and there may also be residual information that will remain within our databases and other records. We reserve the right, from time to time, to re-contact former users of The Websites.
+
+We give you the following options for removing your personal information from our database in order to stop receiving future communications from The Websites.
+
+1.       Follow directions on a marketing e-mail or direct mail communication from us. 
+
+2.       You can send your request via email to the club-specific website: 
+
+·         Creative Home Arts Club = memberservices@creativehomeartsclub.com 
+
+·         MLB Insider Club = memberservices@baseballinsidersclub.com
+
+·         Cooking Club of America = memberservices@cookingclub.com
+
+·         Handyman Club of America = memberservices@handymanclub.com
+
+·         North American Fishing Club = memberservices@fishingclub.com
+
+·         National Home Gardening Club = memberservices@gardeningclub.com
+
+·         North American Hunting Club = memberservices@huntingclub.com
+
+·         The History Channel Club = memberservices@thehistorychannelclub.com
+
+·         Motorcycle Riders Club of America = memberservices@ridersclubofamerica.com
+
+·         Golf Partners Club = memberservice@partnersclubonline.com
+
+·         National Street Machine Club = memberservices@streetmachineclub.com
+
+·         National Health & Wellness Club = [memberservices@healthandwellnessclub.com](mailto:memberservices@healthandwellnessclub.com)
+
+3.    You can send your request via U.S. Postal Service to the following club-specific mailing address:
+
+Creative Home Arts Club
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+MLB Insiders Club
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+Cooking Club of America
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+Handyman Club of America
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+North American Fishing Club
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+National Home Gardening Club
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+North American Hunting Club
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+The History Channel Club
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+Motorcycle Riders Club of America
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+Golf Partners Club
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+National Street Machine Club
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+National Health & Wellness Club
+
+P.O. Box 3401
+
+Minnetonka, MN 55343
+
+**Please note:** We are not responsible for removing information from third-party lists or entities with which we have shared your information pursuant to this policy.
+
+**UPDATING OR CHANGING YOUR INFORMATION**  
+Changes to personal information can be made by sending a request via e-mail or US mail to the addresses noted above under **OPT-OUT.**
+
+**CONTACTING US**  
+If you have any questions about this Privacy Policy, the practices of The Websites, or your dealings with us, please feel free to contact us at:
+
+North American Membership Group   
+12301 Whitewater Drive  
+Minnetonka, MN 55343
+
+**REVISIONS TO OUR PRIVACY POLICY**  
+Any of the policies or procedures above may be changed at any time without prior notice. You can determine if this Privacy Policy has been revised by referring to the "Last Updated" date at the top of this page. Use of The Websites constitutes your acceptance of the terms of our Privacy Policy then in effect. We encourage you to bookmark this page and to periodically review it to ensure familiarity with the most current version of our Privacy Policy.
