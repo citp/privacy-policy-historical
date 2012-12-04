@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotter.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605184228id_/http%3A//www.hottershoes.com/webapp/wcs/stores/servlet/StaticPageDisplay%3FstoreId%3D10551%26identifier%3DFAQ-Privacy-Security%26brdcrmb_trail%3DFAQ%26langId%3D-1%26catalogId%3D10051) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotter.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204152002id_/http%3A//www.hottershoes.com/webapp/wcs/stores/servlet/StaticPageDisplay%3FstoreId%3D10551%26identifier%3DFAQ-Privacy-Security%26brdcrmb_trail%3DFAQ%26langId%3D-1%26catalogId%3D10051) for the most accurate reproduction.*
 
 # Shoes - Comfortable Womens & Mens Shoes - Hotter Shoes UK
 
@@ -41,4 +41,4 @@ Yes, our privacy policy can be found on our [‘Terms and Conditions page](https
 
 **Do you use cookies?**
 
-Yes, in common with other websites we use â€œcookiesâ€. These are small files that our website puts on your hard drive so that it can remember information about you at a later date. Our online ordering system uses a cookie to record a unique reference on your computer so that we can keep track of your order and retain the contents in your shopping basket. Our cookie information can be found within our [‘Terms and Conditions page](https://web.archive.org/webapp/wcs/stores/servlet/StaticPageDisplay?storeId=10551&identifier=Terms-Conditions&langId=-1&catalogId=10601)’.
+Yes, in common with other websites we use "cookies". These are small files that our website puts on your hard drive so that it can remember information about you at a later date. Our online ordering system uses a cookie to record a unique reference on your computer so that we can keep track of your order and retain the contents in your shopping basket. Our cookie information can be found within our [full Cookie information page](https://web.archive.org/en/info/Hotter-Cookie-Policy).
