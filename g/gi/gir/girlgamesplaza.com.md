@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlgamesplaza.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519235459id_/http%3A//www.girlgamesplaza.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlgamesplaza.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204054815id_/http%3A//www.girlgamesplaza.com/privacypolicy) for the most accurate reproduction.*
 
 # Girl Games - Games for Girls- Privacy Policy
 
