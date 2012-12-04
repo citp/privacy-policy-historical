@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the blubrry.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605005504id_/http%3A//www.blubrry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blubrry.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205003116id_/http%3A//www.blubrry.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Blubrry
 
 **Privacy**  
-At Blubrry.com, we are committed to protecting your privacy. We use the limited amount of information collected about you to enable the functionality of the Blubrry website. These functions include letting you log in, design a MyCast feed and keeping you notified of news and changes to Blubrry. We internally use personally identifiable information about you to improve our service, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content and layout. We believe this use allows us to improve our site and better tailor it to meet our users' needs.  
+At Blubrry.com, we are committed to protecting your privacy. We use the limited amount of information collected about you to enable the functionality of the Blubrry website. These functions include letting you log in and design a MyCast feed, and keeping you notified of news and changes to Blubrry. We internally use identifiable information about you to improve our service, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content and layout. We believe this allows us to improve our site and better tailor it to meet our users' needs.  
 
 
 **Profiles:** You will have the option of creating a user profile on Blubrry, it should be noted that doing so is voluntary and all functionality of the website is available to you should you choose not to build a user profile.
