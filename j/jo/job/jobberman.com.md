@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobberman.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617200344id_/http%3A//www.jobberman.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobberman.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204084819id_/http%3A//www.jobberman.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - See Jobberman.com for Nigeria Jobs
 
