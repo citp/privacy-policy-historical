@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socrative.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511052728id_/http%3A//www.socrative.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socrative.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204084524id_/http%3A//www.socrative.com/privacy-policy) for the most accurate reproduction.*
 
 # Socrative | Privacy Policy
 
