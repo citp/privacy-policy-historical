@@ -1,98 +1,88 @@
-> *The following text is extracted and transformed from the employmentguide.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618223418id_/http%3A//www.employmentguide.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employmentguide.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205154443id_/http%3A//www.dominionenterprises.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy - Dominion Enterprises
 
-## Privacy Policy for EmploymentGuide Employment Guide
+### Dominion Enterprises Privacy Policy
 
-  1. What information is collected?
-  2. How is the information collected?
-  3. How information will be used?
-  4. User choices in receiving and distribution of information
-  5. Data Security
-  6. Data Quality and Access
-  7. Questions
+Your privacy is important to us. To better protect your privacy, Dominion Enterprises and/or our applicable subsidiaries and/or affiliates (collectively, “Dominion”, “us”, “our” or “we”) provides this Privacy Policy, which explains our online information practices and the choices you can make about the way in which your information is collected and used on this website or any other website operated by us where this policy appears or is otherwise accessible by you (for instance, via links from the website) (collectively, this “Website”). (Some of our Websites may also be governed by separate or additional private policies.) Please see our Terms and Conditions for additional information applicable to your use of our Website. By providing us with personally identifiable information, you expressly consent to our collection, storage, use and disclosure of your personally identifiable information as described in this Privacy Policy.
 
+#### The Information We Collect
 
+You do not have to give us personally identifiable information in order to access and browse our Website. However, while on our Website, you may be able to search, buy, order or bid on products, enter promotions, sweepstakes or other contests, participate in a survey, complete a questionnaire or other “information request” form, or otherwise subscribe to one of our services such as our online newsletters, participate in one of our online forums/communities, express an opinion or communicate with our customer service. In order to utilize, participate in or otherwise access such products, services or other offerings, you may be required to provide us with your personally identifiable information, which is information that, alone or in combination with other information, allows us to indentify you, such as your name, address, phone number, e mail address, contact preferences, credit card information, financial information or information relating to a support or service issue. **If you provide us with your personally identifiable information, you are giving us permission to use that information for the specific purpose for which it is provided and for any other purpose described in this Privacy Policy, which are described in detail below under “How We Use the Information”**. Users unwilling to provide personally identifiable information online can choose not to provide such information, and in some (but not all) situations users may be able to work with a sales representative or customer service representative to utilize our services or other site offerings without providing personally identifiable information. **IN ADDITION, IF YOU DO PROVIDE US WITH YOUR PERSONALLY IDENTIFIABLE INFORMATION, YOU HAVE THE ABILITY TO PREVENT US FROM SHARING YOUR INFORMATION WITH THIRD PARTIES IF YOU WISH, AS DESCRIBED BELOW UNDER “Your Options Regarding Personally Identifiable Information”**.
 
-I. What information is collected?
+We also may collect, store and use certain non-personally identifiable information we receive when you visit our Website, and we may aggregate data and information provided by or collected from multiple users (which may include you) in a manner that is not personally identifiable to any individual user. All non-personally identifiable information collected by us on our Website and all aggregated/compilations of data we create are the exclusive property of Dominion. Nothing in this Privacy Policy limits our right to use any such non-personally identifiable or aggregated information in any way (including, but not limited to, monitoring user traffic patterns, analyzing and quantifying user preferences, improving the design and content of our Website, and enabling us to personalize your user experience) or prohibits us from sharing non-personally identifiable or aggregated information with third parties.
 
-  * ### Personal Information:
+#### How We Use the Information
 
-We require personal contact information from our members. The required information is used to effectively and accurately create, maintain, and display EmploymentGuide Employment Guide's classified services. The required employment information varies with each site of the EmploymentGuide Employment Guide's network depending on the industry and its relevant data. 
-  * ### Cookies:
+Information about our customers is an important part of our business, and we share personally identifiable information collected on our Website with unaffiliated third parties only as described below. (Please see **“Your Options Regarding Personally Identifiable Information”** below for information on how to avoid having your personally identifiable information shared by us.)
 
-Some sites in the EmploymentGuide Employment Guide's network utilize cookies in order to provide members and employers with a more personalized experience by remembering who you are when you revisit the site. Cookies also track visitor activity and traffic patterns among the sites so that we can identify users' interests and behavior. With this information, we can improve existing user services and develop new products appropriate for our audience. 
-
-back to the top
-
+  * **Business Providers; Unaffiliated Businesses** : At times, we may provide products, services or offerings on our Website in cooperation with an unaffiliated third party. We may share personally identifiable information that you provide in connection with any such products, services or offerings with the unaffiliated third party(ies) involved in your particular product, service or offering. For instance, when you express interest in products, services, promotions, contests or sweepstakes that we offer (for example, by completing a request for or information regarding such services or completing an entry form for a promotion), we will share your request or expression of interest with the businesses with which we partner to offer you those products, services, promotions, contests and sweepstakes and, as applicable, with their affiliates and third party finder or marketing companies (collectively, “Business Providers”). **By electing to participate or otherwise expressing interest in any such product, service or offering conducted in conjunction with any Business Provider, you expressly authorize us to provide your personally identifiable information to those Business Providers.** Please be aware the Business Providers with whom we share your personally identifiable information may retain or use your information whether or not you use their services, and the privacy and information sharing practices of such Business Providers may differ from those described in this Privacy Policy. Additionally, we may share personally identifiable information with unaffiliated third parties to whom you explicitly ask us to send your information. If you prefer not to be contacted by any such Business Provider or other third party with whom we share your personally identifiable information, you may follow the “unsubscribe” instructions provided in any email you receive from any such third party. In addition, you may opt out of our sharing your personally identifiable information with Business Providers and other third parties by following the instructions on our **[Email Opt Out Form](http://www.dominionenterprises.com/?page_id=3842 "DE Email Opt-Out Form")** , as described below under **“Your Options Regarding Personally Identifiable Information”**.
+  * **Third Party Service Providers** : We employ other companies and individuals to perform functions on our behalf. Examples may include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments and providing customer service. In connection with their performance of functions on our behalf, we may share personally identifiable information with such companies and individuals as needed for them to perform their functions, but we do not permit such entities and individuals to use personally identifiable information for other purposes.
+  * **Third Party Promotions** : We may send offers to selected groups of customers on behalf of unaffiliated businesses that want to market their products or services to you, and as part of these promotional offers we may sell or disclose certain of your personally identifiable information to such unaffiliated businesses. If you prefer not to be contacted by any such business with whom we share your personally identifiable information, you may follow the “unsubscribe” instructions provided in any email you receive from any such third party. In addition, you may opt out of our sharing your personally identifiable information with such businesses by following the instructions on our **[Email Opt Out Form](http://www.dominionenterprises.com/?page_id=3842 "DE Email Opt-Out Form")** , as described below under **“Your Options Regarding Personally Identifiable Information”**.
+  * **In-House Promotions** : We may on occasion combine information we receive online with outside records to enhance our ability to market our products and services that may be of interest to you. If you have signed up to receive our e-mails and prefer not to receive marketing information from our Website, please follow the “unsubscribe” instructions provided on any marketing e-mail you receive from our Website or by following the instructions in our **[Email Opt Out Form](http://www.dominionenterprises.com/?page_id=3842 "DE Email Opt-Out Form")** , as described below under **“Unsubscribe Requests”**.
+  * **Business Transfers** : As our businesses continue to evolve, we might sell one or more of our companies, subsidiaries or business units. In such transactions, personally identifiable information generally is one of the transferred business assets. In such event, this Privacy Policy may be amended as set forth below or the collection and uses of your personally identifiable information may be governed by a different privacy policy.
+  * **Protection of Our Website and Others** : We reserve the right to release personally identifiable information to unaffiliated third parties when we believe its release is appropriate to comply with the law, enforce or apply our Terms and Conditions and other agreements, or protect the rights, property or safety of Dominion, our users or others. This includes exchanging information with other unaffiliated third parties in connection with fraud protection and credit risk reduction.
+  * **With Your Consent** : Other than as set out above, you will receive notice and have the opportunity to withhold consent when personally identifiable information about you might be shared with unaffiliated third parties.
 
 
 
-II. How is the information collected?
+#### Your Options Regarding Personally Identifiable Information
 
-  * Members are requested to submit personal and employment information using the online E-mail Notify, Place A Job, Resume Trader and other services. Users unwilling to pass personal information online can choose to work with a sales representative or customer service representative to utilize member services. 
+Except where we believe the release of your personally identifiable information is necessary or appropriate (a) to allow third party service provider functions on our behalf or (b) to comply with law, enforce or apply our Terms and Conditions and other agreements, or protect the rights, property or safety of Dominion, our users or others, you may opt out of our sharing of your personally identifiable information with unaffiliated third parties by completing our **[Email Opt Out Form](http://www.dominionenterprises.com/?page_id=3842 "DE Email Opt-Out Form")**.
 
-back to the top
+#### Third Party Online Advertising
 
+We use third-party advertising companies to provide advertisements to you when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to show you advertisements tailored to your interests on this and other websites and other interactive media and/or to keep track of your response to each ad. For more information on this practice, or to opt out of having this information used by these companies, please visit the Network Advertising Initiative here: <http://www.networkadvertising.org/managing/opt_out.asp>.
 
+#### Cookies and Web Beacons
 
+To enhance your experience with our Website, many of our Web pages use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or reveal other personally identifiable information unless you choose to provide this information to us by, for example, registering at our Website. However, once you choose to furnish our Website with personally identifiable information, this information may be linked to the data stored in the cookie.
 
-III. How information will be used?
+We use cookies to understand site usage and to improve the content and offerings on our Website. or example, we may use cookies to personalize your experience at our Website (e.g., to recognize you by name when you return to our Website), save your password in password-protected areas and enable you to use shopping carts on our Website. We also may use cookies to offer you products, programs or services.
 
-  * ### Resale and Disclosure of Information
+“Web beacons” or clear .gifs are small pieces of code placed on a Web page to monitor behavior and collect data about the visitors viewing a Web page. For example, Web beacons or similar technology can be used to count the users who visit a Website or to deliver a cookie to the browser of a visitor viewing that page. We may use Web beacons or similar technology on our Website from time to time for this and other purposes.
 
-Dominion Enterprises reserves the right to sell or disclose some personal information collected on our site to third parties. We may provide third parties with non-exclusive, limited use of Dominion Enterprises' collected information in order for the third party to promote and market the third party's service. Any right of the third party to distribute, transfer, transmit, or re-sell Dominion Enterprises' information is prohibited. 
-  * ### Privacy of EmploymentGuide Employment Guide's Email Lists
+#### Collection of Information by Third-Party Sites, Ad Servers and Sponsors
 
-We collect and record personal information in order to maintain e-mail lists. We utilize the e-mails to keep members informed of the site services, site performance, promotions, and offer information regarding industry related services and products. 
+Our Website may contain links to other websites whose information practices may be different than ours. While visiting our Website, you may link to a third party’s website via a window opened within (or on top of) our Website. Our Privacy Policy and procedures may or may not be consistent with the policies and procedures of such third party websites, and when you visit such websites our Privacy Policy does not apply to personally identifiable information and other data collected by such third party. You should consult, read and understand the privacy notices of such third parties before choosing to provide personally identifiable information on any such linked websites.
 
-back to the top
+Our Website may also use a third party ad server to present the advertisements that you may see on our Website. These third party ad servers may use cookies, Web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our Privacy Policy.
 
+#### Our Commitment to Security
 
+We have in place what we believe to be reasonable physical, electronic and managerial procedures to safeguard and help prevent unauthorized access of, maintain data security for and correctly use the personally identifiable information you have provided or that we otherwise collect on our Website. **HOWEVER, WHILE SUCH EFFORTS ARE INTENDED TO ENSURE THE CONFIDENTIALITY OF YOUR PERSONALLY IDENTIFIABLE INFORMATION AVAILABLE TO US AS A RESULT OF YOUR USE OF OUR WEBSITE, WE CANNOT AND DO NOT WARRANT OR GUARANTEE THE ABSOLUTE SAFETY AND SECURITY OF YOUR PERSONALLY IDENTIFIABLE INFORMATION.**
 
-
-IV. User choices in receiving and distribution of information
-
-  * ### EmploymentGuide Employment Guide's Email Lists
-
-Employer members receive monthly e-mails informing them of special promotions and advertising tips. Employers wishing not to receive the mailer can send a request via e-mail to be removed from the mailing list. Members automatically receive an e-mail to confirm their placement on our site and to give them the necessary information to edit and delete their classified ads. Dominion Enterprises reserves the right to include third party advertisements to members in these confirmation e-mails. 
-  * ### Third Party Distribution
-
-Members may receive information directly from third parties that have related services. Members that do not wish to receive the third party information can opt-out of the service at the time they place an ad with EmploymentGuide Employment Guide's. Third parties receive only the needed personal information in order to effectively target members' needs and interests. Third parties have non-exclusive, limited use of the information provided by Dominion Enterprises. Any right of the third party to distribute, transfer, transmit, or re-sell Dominion Enterprises' information is prohibited. 
-
-back to the top
+  * We work to protect the security of your personally identifiable information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. To assist in keeping your personally identifiable information safe, you must use an SSL-enabled browser (i.e., Internet Explorer).
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. Additionally, change your passwords often using a combination of letters and numbers, and make sure you use a secure Web browser.
 
 
 
+#### How You Can Access or Correct Information
 
-V. Data Security
+You may obtain information regarding the personally identifiable information that you provide or we collect about you via our Website for the limited purpose of viewing and correcting any factual errors in such information. Access to personally identifiable information that you provide or we collect via our Website may be accessible for a limited period of time after the point of collection. For example, if you created a password-protected account within our Website, you may return to that portion of the Website to review the personally identifiable information you provided. Alternatively, you may send an e-mail or letter to the following e-mail or street address requesting information about or corrections to your personally identifiable information **Dominion Enterprises, Intellectual Property Administrator, P.O. Box 2576, Norfolk, VA 23501** or **[IPadministrator@dominionenterprises.com](mailto:IPadministrator@dominionenterprises.com "IPadministrator@dominionenterprises.com")** , subject to appropriate verification procedures. To protect your privacy and security, we will take what we believe are reasonable steps to help verify your identity before providing personally identifiable information, granting access or making corrections.
 
-  * ### Personal Information
+#### Usage Terms
 
-To protect the member's account information, EmploymentGuide Employment Guide's assigns each member with either a unique user name or password or a unique ad ID number. These unique identifiers are disclosed to the user via e-mail immediately upon joining the EmploymentGuide Employment Guide's network. Only members have the ability to modify their personal information and delete their ads as needed. 
-  * ### Credit Card Transactions
+Access to and use of this Website is subject to compliance with this Website’s Terms and Conditions.
 
-EmploymentGuide Employment Guide's uses Verisign Certification and secure servers to transmit all online credit card transactions in an encrypted format. 
+#### Unsubscribe Requests
 
-back to the top
+To unsubscribe from email communications from us, please enter your email address and select the name of the applicable Dominion business from the list on our **[Email Opt Out Form](http://www.dominionenterprises.com/?page_id=3842 "DE Email Opt-Out Form")**.
 
+#### Special Note for Parents
 
+This Website you are visiting is a general audience website and was not designed for children. We are not responsible for any access or use of this Website by children. (By way of example, this Website is not intended to sell products for purchase by children.) If you are under 18, you may use our Website only with the involvement of a parent or guardian.
 
+#### Disclaimer
 
-VI. Data Quality and Access
+As noted in this Privacy Policy, we take our commitment to protection of your privacy seriously. However, NOTHING IN THIS PRIVACY POLICY IS INTENDED TO CREATE OR PROVIDE ANY RIGHT OF ACTION FOR VIOLATION.
 
-  * Members may access their information 24 hours a day using their designated user name and password or ad ID number. Members may modify or delete their information as needed. 
+#### How to Contact Us
 
-back to the top
+If you have any questions or concerns about the online Privacy Policy for this Website or its implementation, you may contact the **Dominion Enterprises Intellectual Property Administrator, P.O. Box 2576, Norfolk, VA 23501** or **[IPadministrator@dominionenterprises.com](mailto:IPadministrator@dominionenterprises.com "IPadministrator@dominionenterprises.com")** for information as to how to contact this Website by e-mail.
 
+#### Updates and Effective Date
 
+We reserve the right to make changes to our Privacy Policy from time to time for any reason. Such changes, modifications, additions or deletions shall be effective immediately upon posting, unless otherwise indicated. We have no duty or obligation to inform prior visitors that changes have been made, regardless of the scope and importance of the changes. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it and to whom we disclose it. Your continued use of the Website after such changes are posted will be deemed to constitute your agreement to and acceptance of such changes.
 
-
-VIII. Questions
-
-  * If you have further questions that were not addressed in the above privacy policy, please contact Dominion Enterprises' Legal Department at 757-640-4000 or email [webmaster@employmentguide.com](mailto:webmaster@employmentguide.com). 
-
-back to the top
-
-
-
+[POLICY LAST UPDATED DECEMBER 2011]
