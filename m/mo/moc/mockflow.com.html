@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mockflow.com privacy policy that was archived on 2012-04-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120422112352id_/http%3A//www.mockflow.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mockflow.com privacy policy that was archived on 2012-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121205102448id_/http%3A//www.mockflow.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta name="google-site-verification" content="cbww5MXcsk9d2Wty8k9gIYxMS9Wyf8Ed8ntfzhpm9wQ">
@@ -13,7 +13,7 @@
 	
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">	
 	<meta name="description" content="MockFlow is an online wireframe tool for software and websites"> 
-	<meta name="keywords" content="online mockups, wireframe,free, collaborate,software , websites, real,time,mockups,chat,mockstore,whiteboard,proofing,sketch board, desktop mockup editor, desktop wireframe, offline, offline sync,css layout designer"> 
+	<meta name="keywords" content="design suite,online design suite,online mockups, wireframe,free, collaborate,software , websites, real,time,mockups,chat,mockstore,whiteboard,proofing,sketch board, desktop mockup editor, desktop wireframe, offline, offline sync,css layout designer,design review, design collab,divcraft"> 
 	<meta name="resource-type" content="Document"> 
 	<meta name="robots" content="ALL"> 
 	
@@ -25,11 +25,11 @@
 	<link rel="shortcut icon" href="../&#10;images/favicon.ico">
 	<link rel="stylesheet" type="text/css" href="../&#10;css/internal/all.css">
 	<link rel="stylesheet" type="text/css" href="../&#10;css/internal/other.css">
-	<link rel="stylesheet" type="text/css" href="../&#10;css/internal/features.css">
+	<link rel="stylesheet" type="text/css" href="../&#10;css/external/bootstrap.min.css">
 	
 	<script type="text/javascript" src="../&#10;badge/swfobject.js"></script> 
-	<script type="text/javascript" src="../&#10;js/external/jquery-1.3.2.min.js"></script>	
-	<script type="text/javascript" src="../&#10;js/internal/process.js"></script>
+	<script type="text/javascript" src="../&#10;js/external/jquery-1.7.1.min.js"></script>	
+	<script type="text/javascript" src="../&#10;js/internal/mfscript.js"></script>
 	
 	<script language="javascript" type="text/javascript">
 	
@@ -40,11 +40,125 @@
 			return false;
 
 		}
+
+		var showed = false;
+
+		$(document).ready(function()
+		{
+			drawLoginBox();
+
+			$(window).resize(function()
+    		{
+				if($("#mfLoginBoxModal").css("display") == 'block')
+				{
+					$("#mfLoginBoxModal").css("display","none");
+				}
+    		
+    		});
+			    			
+			    	
+			
+			$('#featureBtn').click(function() {
+
+				  if(showed)
+				  {
+					showed = false;
+					$('#wireframeFeatures').hide();
+				  }
+				  else
+				  {
+					showed = true;
+					$('#wireframeFeatures').show();
+				  }
+			});
+			
+			$('#samplesSelect').change(function() {
+				   // assign the value to a variable, so you can test to see if it is working
+				    var selectVal = $('#samplesSelect :selected').val();
+
+				    if(selectVal == "wireframe")
+					    window.location = "http://www.mockflow.com/samples";
+
+				    if(selectVal == "designcollab")
+					    window.location = "http://www.mockflow.com/samples/designcollab";
+
+				    if(selectVal == "divcraft")
+					    window.location = "http://www.mockflow.com/samples/divcraft";
+			});
+				
+			var lshow = false;
+
+			//$('#mfLoginModal').css('z-index',10000);
+			
+			$(".mfLoginApp").mouseover(function(e) {
+
+				$(this).css('background-color','#444');
+			});
+
+			$(".mfLoginApp").mouseout(function(e) {
+
+				$(this).css('background-color','transparent');
+			});
+			
+			$("#mfLoginPopBtn").mouseover(function(e) {
+
+				e.stopPropagation();
+				
+				if($("#mfLoginBoxModal").css("display") == 'block')
+				{
+					
+				}
+				else
+				{
+					
+					$("#mfLoginBoxModal").css("display","block");
+
+					var rect = localToGlobal(document.getElementById("mfLoginPopBtn"));
+					
+					$("#mfLoginBoxModal").css("left",((rect.left+70) - ($("#mfLoginBoxModal").width()))+ "px");
+					
+					$("#mfLoginBoxModal").css("top",(rect.top+20)+ "px");
+					
+				
+				}
+			});
+			
+			$("#mfLoginPopBtn").click(function(e) {
+
+				e.stopPropagation();
+				
+				if($("#mfLoginBoxModal").css("display") == 'block')
+				{
+					$("#mfLoginBoxModal").css("display","none");
+				}
+				else
+				{
+					
+					$("#mfLoginBoxModal").css("display","block");
+					
+					var rect = localToGlobal(document.getElementById("mfLoginPopBtn"));
+					
+					$("#mfLoginBoxModal").css("left",((rect.left+70) - ($("#mfLoginBoxModal").width()))+ "px");
+					
+					$("#mfLoginBoxModal").css("top",(rect.top+20)+ "px");
+				
+				}
+			   
+			});
+
+			$('html').on("click",closePopUpHandler);
+			
+			function closePopUpHandler()
+			{
+				$("#mfLoginBoxModal").css("display","none");
+			};
+		 });  
 	</script>
 
 	
 </head>
 <body>
+
 	<div id="page">
 		
 		<!-- header -->
@@ -58,13 +172,14 @@
 				</div>
 				
 				<div id="inav">
-						<span><a style="color: #333333;font-style: italic; font-size: 14px;" class="top" href="../&#10;samples">Samples</a></span>  &nbsp;  &nbsp;
-						<span><a style="color: #333333;font-style: italic; font-size: 14px;" class="top" href="http://support.mockflow.com">Help</a></span>  &nbsp;  &nbsp;  
-						<span><a style="color: #333333;font-style: italic; font-size: 14px;" href="../&#10;signup">Signup</a></span>   &nbsp;  &nbsp;
-						<span><a style="color: #333333;font-style: italic; font-size: 14px;" href="../&#10;desktop">Desktop</a></span>    &nbsp;  &nbsp;
-						<span><a style="color: #333333;font-style: italic; font-size: 14px;" href="../&#10;mobile">Mobile</a></span>    &nbsp;  &nbsp;
-						<span><a style="color: #333333;font-style: italic; font-size: 14px;" class="top" href="../&#10;addons">Addons</a></span>  &nbsp;  &nbsp;
-						<span style="background-color: #000; padding: 2px 4px 2px 4px; text-align: center;	"><a style="color: #fff;font-style: italic; font-size: 14px;" href="http://app.mockflow.com/index.jsp">Login</a></span>
+						<span><a style="font-style: italic; font-size: 14px;" class="top" href="../&#10;samples">Samples</a></span>  &nbsp;  &nbsp;
+						<span><a style="font-style: italic; font-size: 14px;" class="top" href="http://support.mockflow.com">Help</a></span>  &nbsp;  &nbsp;  
+						<span><a style="font-style: italic; font-size: 14px;" class="top" href="../&#10;signup">Signup</a></span>   &nbsp;  &nbsp;
+						<span><a style="font-style: italic; font-size: 14px;" class="top" href="../&#10;desktop">Desktop</a></span>    &nbsp;  &nbsp;
+						<!--<span ><a style="font-style: italic; font-size: 14px;"  class="top" href="../
+mobile">Mobile</a></span>    &nbsp;  &nbsp;-->
+						<span><a style="font-style: italic; font-size: 14px;" class="top" href="../&#10;apps">Apps</a></span>  &nbsp;  &nbsp;
+						<span id="mfLoginPopBtn" style="background-color: #000; padding: 2px 4px 2px 4px; text-align: center; cursor: pointer;	"><a style="cursor: pointer; color: #fff;font-style: italic; font-size: 14px;">Login</a></span>  &nbsp;  &nbsp;
 					
 				</div>
 			</div>
@@ -77,7 +192,7 @@
 <div id="stretchPageTitle">
    <div id="pageTitle">
 		<div id="titleText">
-		  &nbsp;<font style="font-weight: bold; font-size: 25px;">Privacy Policy</font>  <font style="font-weight: normal; font-size: 12px;"> &nbsp; Last Rev: September 1, 2009</font><br>
+		  &nbsp;<font style="font-weight: bold; font-size: 25px;">Privacy Policy</font>  <font style="font-weight: normal; font-size: 12px;"> &nbsp; Last Rev: September 20, 2012</font><br>
 		</div>	
 
 		<div id="titleImage">
@@ -102,7 +217,7 @@
 					</p>
 					
 					<p class="termsContent">
-						<strong>Cookies</strong>:  When you click "Remember me" in Login form at app.mockflow.com, 
+						<strong>Cookies</strong>:  When you click "Remember me" in Login form at any of MockFlow's web services, 
 						we store your account information in encrypted form in a small file containing a string of characters - to your computer that uniquely identifies your browser.
 						
 					</p>
@@ -117,7 +232,7 @@
 				    	<h2>No Newsletter Policy</h2>
 
     					<p class="termsContent">
-    					    We consider newsletters as Spam and MockFlow does not asks it users to subscribe to newsletters. For any up-to-date information about our services visit the site.
+    					    We consider newsletters as Spam and MockFlow does not asks its users to subscribe to newsletters. For any up-to-date information about our services visit the site.
     					</p>
 					
 					
@@ -162,31 +277,153 @@
 	
 
 	
-<div id="footer">
+<div id="footer"> 
 		
-	<div class="holder">	    					
+	<div class="holder">	    		<br>			
 		 <div class="footerRight">	
-			<a class="top" style="font-size: 12px;" href="http://www.mockflow.com/terms">Terms</a> &nbsp; | &nbsp; <a class="top" style="font-size: 12px;" href="http://www.mockflow.com/privacy_policy">Privacy Policy</a><br> 			
-			<!--<a target="_blank" href="http://www.analyzepal.com" ><font style="color: #FF0000; font-size: 13px;">Get Free Analytics for your PayPal account!</font></a>-->
+			<a href="mailto:mockflow@produle.com"><img width="165" height="16" title="" alt="mockflow@produle.com" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKUAAAAQCAYAAAB3LL8cAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAVdEVYdENyZWF0aW9uIFRpbWUAOS8yMS8xMrmeA/EAAASESURBVGiB7Zjtkds2EIafy/h/VIHDVBB6tgAzHcgVmO5AFcS8NBClAqsDqwPTBeyETgPmpQJ2cPmB3SNEgR/SnX32We8MByR2gf3AYrEgLMc74PbM5/oEORdccBJODcwPQPYYil7wfWMsoAAKQiDGWBKYn4H1YFwO/PPg2l/wJDEWVBAC65bTAvMaWA34rzkM9gsuGMUz4GqC/sLa0to3g7aMeGvrb6O+nBDAecTz1SEiOVCq6iZBKwl2tECX4rmn7JXNXxA2awfsgb2qdg8pa0R+rarFDM+ofx4DP83Qn0fvJYcZ8w2wIyzmK+B3DgPymnBc51HfF1+EEawGesR4B2wJG2aM5yzYYrc27w6orC2AxuhfGi8X8Ez556vjmbXDY/UVYTdng/7S2mHGjDHMjjH+HVNERDLCYrmcmhAsW9Njq6r7iLey/tpondFyYOM0Va0Ssjb0weI6twl9jmSISOVzikgBZKq6s+/SZLY2fh/ZVEVtazbugDxhewtsTF5m+q0JwbOJ5pmzfzuwp3Bdra8a8U/S9gRf0tcTvhvaWZNY47FM2VibCqyS4xrTkcqOMT6P9EPvxIxgUElQurb+nYhkdhw2hIWrTJYH68r4nbYWkSoWIiK7aO4kpmTYnG5fSbTw9u6L5zZ0kR07awtVrYFaRNaR7Wv64HV5GfDe9NnbfHP2NzZfbHvGYbkF8HbE9nrE9im+tYhUM75zOzMm1tgz5VhdObywOEprPVNOZccY7Qy9i3bbDlhFWaghGJMR6rHKxtQi0ka7cB/NUcY22Jw5ISg6oBKRt6paWdZzrCdk7I3ecHgMrwjZwoMyV9XaZG5VdRvp4PBMWgOoqv+xiOUB3ETjywX2O2/L6X881hyeMHfzq2o74Ev5esp3sGCNPShTKGaUL639D/hjhtfRzNDbwXeqBs0SfC19wN7RVLWBu2P2JSEgmwUXjCkZe8KO3lmfB2eGBZfJu8usHG9W94NffOK+oTx/X6LbAU1VGxHhRGTAaxF5negf1SPydTWhHwna0VrEx7f/svnLvseyZIyS5QGZVOAMdBzrlln/Ec12MMCN8WFH5lkyzPmeEWp7Cvs+OuaAnxMZxr/LaMxQXhywi3Qb0uwoPRUd8LeqXvkD/GrlxqQe5usp/RYhVVPeWPsiQbsP6geaZw+UftzapcV36pBW0Wf01jJkSch0Uws2JcPpG/qgzAkB27os+uz4UUQ2IrKy7PoL4cjfmU4+5jffQAl5p9i/jkqRuN7t6C9VwzJiav7C9B36a8zXc76bRRyUV/a4Ic+P2e+Fh8iS2CKWhMC6JWSe9QitoL+txuO3hEvHyTIMNRZcFuhdPJ+Nz6Lb6YYQqDXwyd69pvXg/URYTJdXnmn/JqJ10bjGdGxEpGMkSSTm39HX4FjfqK8X+G4WUz/OPzBfV56CP0nc9p4qLFNsCQtVJ+g5YcF901RzP7l/FExddIbF+X0x9TvoycFu3p61PDN55loT6q7S+IrH0fLbxFRQnlMkT6F94Pm+eViG9GO8oPfpMHu2TJQTPxr+B0agp8zQUidyAAAAAElFTkSuQmCC">
+			</a>
+			<br><br>
+			 <span style="font-weight: normal;">Copyright 2008-2012 A Produle Systems Pvt. Ltd.</span><br>
+			 
+			<a class="top" style="font-size: 12px;" href="http://www.mockflow.com/terms">Terms of Service</a> &nbsp; | &nbsp; <a class="top" style="font-size: 12px;" href="http://www.mockflow.com/privacy_policy">Privacy Policy</a><br> 			
+
+			<br><br>
+			<a href="http://mockflow.com/signup">
+			<img width="171" height="42" title="" alt="" src="data:image/png;base64,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">
+			</a>
+			
 		 </div>
 	
 		<div class="footerCenter">	
-			<a class="top" target="_blank" href="http://blog.mockflow.com">Blog</a>&nbsp; &nbsp;
-			<a class="top" target="_blank" href="http://twitter.com/mockflowapp">Twitter</a>&nbsp; &nbsp;
-			<a class="top" target="_blank" href="http://www.facebook.com/mockflow">Facebook</a>&nbsp; &nbsp;
-			<a class="top" href="http://mockflow.com/contact">Contact</a>&nbsp; &nbsp;
+			<span style="font-weight: bold; font-size: 16px;">About MockFlow</span>			
+			<p style="font-size: 12px; font-weight: normal;">
+			MockFlow is an Online Design Suite providing design tools and collaboration services for designers. Its flagship software - "MockFlow Wireframe" is used
+			by thousands of customers worldwide.
+			
+			</p>
+		
+			<hr style="width: 100%;" class="style-three"><br>
+			<div style="width: 480px;">
+				<div style="width: 150px; float: left;">
+					<span style="font-weight: bold; font-size: 16px;">About</span><br>
+					
+					<ul style="list-style:none; padding-left: 0px; font-size: 11px; ">
+						<li style="list-style:none; padding-left: 0px; padding-bottom: 2px; padding-top: 1px;"><a class="top" style="font-size: 12px; font-weight: normal;" href="http://www.mockflow.com">Features</a></li>
+						<li style="list-style:none; padding-left: 0px; padding-bottom: 2px; padding-top: 1px;"><a class="top" style="font-size: 12px; font-weight: normal;" href="http://www.mockflow.com/samples">Samples</a></li>						
+						<li style="list-style:none; padding-left: 0px; padding-bottom: 2px; padding-top: 1px;"><a class="top" style="font-size: 12px; font-weight: normal;" href="http://www.mockflow.com/signup">Register</a></li>
+						<li style="list-style:none; padding-left: 0px; padding-bottom: 2px; padding-top: 1px;"><a class="top" style="font-size: 12px; font-weight: normal;" href="http://www.mockflow.com/apps">Apps Page</a></li>																																										
+						<li style="list-style:none; padding-left: 0px; padding-bottom: 2px; padding-top: 1px;"><a class="top" style="font-size: 12px; font-weight: normal;" target="_blank" href="http://blog.mockflow.com">Blog News</a></li>
+						 
+					</ul>
+				</div>
+				<div style="width: 5px;  float: left; ">
+					&nbsp;
+				</div>
+				<div style="width: 150px;  float: left; ">
+					<span style="font-weight: bold; font-size: 16px;">Support</span><br>
+					
+					<ul style="list-style:none; padding-left: 0px; font-size: 11px; ">
+						<li style="list-style:none; padding-left: 0px; padding-bottom: 2px; padding-top: 1px;"><a class="top" style="font-size: 12px; font-weight: normal;" href="http://support.mockflow.com">Help Portal</a></li>											
+						<li style="list-style:none; padding-left: 0px; padding-bottom: 2px; padding-top: 1px;"><a class="top" style="font-size: 12px; font-weight: normal;" href="http://www.mockflow.com/contact">Contact</a></li>					
+						<li style="list-style:none; padding-left: 0px; padding-bottom: 2px; padding-top: 1px;"><a class="top" style="font-size: 12px; font-weight: normal;" target="_blank" href="http://twitter.com/mockflowapp">Twitter Profile</a></li>
+						<li style="list-style:none; padding-left: 0px; padding-bottom: 2px; padding-top: 1px;"><a class="top" style="font-size: 12px; font-weight: normal;" target="_blank" href="http://status.mockflow.com">Server Status</a></li>
+						<li style="list-style:none; padding-left: 0px; padding-bottom: 2px; padding-top: 1px;"><a class="top" style="font-size: 12px; font-weight: normal;" target="_blank" href="http://www.mockflow.com/images/MockFlow_TeamBrochure.pdf">Brochure</a></li>
+						
+					</ul>
+				</div>
+				<div style="width: 5px;  float: left; ">
+					&nbsp;
+				</div>
+				<div style="width: 150px; float: left;">
+					<span style="font-weight: bold; font-size: 16px;">Design Suite</span><br>
+					
+					<ul style="list-style:none; padding-left: 0px; font-size: 11px; ">
+						<li style="list-style:none; padding-left: 0px; padding-bottom: 2px; padding-top: 1px;"><a class="top" style="font-size: 12px; font-weight: normal;" href="http://app.mockflow.com/index.jsp">MockFlow Wireframe</a></li>
+						<li style="list-style:none; padding-left: 0px; padding-bottom: 2px; padding-top: 1px;"><a class="top" style="font-size: 12px; font-weight: normal;" href="http://www.mockflow.com/apps/designcollab">MockFlow DesignCollab</a></li>
+						<li style="list-style:none; padding-left: 0px; padding-bottom: 2px; padding-top: 1px;"><a class="top" style="font-size: 12px; font-weight: normal;" href="http://www.mockflow.com/apps/divcraft">MockFlow DivCraft</a></li>
+					</ul>				
+				</div>
+			</div>
+		
+			
 			
 			<br>				
-			<font style="font-weight: normal; font-size: 10px;">Copyright © 2008-2012 A Produle Systems (P) Limited </font>
+		
 		</div>			 			 
 	</div>
 
 	
-	<br>
+	<br><br><br>		
 		
 </div>
+
+<div id="mfLoginBoxModal" style="display: none; position: absolute; left: 100px; top: 100px;  width: 260px; height: 270px;">
+	<img alt="" style="position: absolute; top: 10px; left: 200px;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAQCAYAAACcN8ZaAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABZ0RVh0Q3JlYXRpb24gVGltZQAxMS8yMy8xMutgQKkAAAAcdEVYdFNvZnR3YXJlAEFkb2JlIEZpcmV3b3JrcyBDUzVxteM2AAABHElEQVRIicXVvUrDYBQG4Kel4h9IcXQTL0CdHNxUnNwEBx0cvAIXQcTrEFwdBVdd3Fx6Ac6dBbVYUUK1jUMSCKEtTZvWAy8EPg55OOcLKRm9jrAdP9/jNk9zGIYFEFjAGRroxGngFHN5MEmGrWU8IECYSgffuBkUNCpmD3W045eHXdJGDRvjwizhGp99EOn8xugTzBSJ2cUzfgaEpNf2hasiMLM4x1tORLcpPWF1WMw6HtEaEZJd2yGm8mD28SK6iKMismtriqY9EOYArwVNoxeohTus9MJM42LMkCyohk2UsphL0c0fNySL+sBxgtnB+wQB3RJgq4wq5v1vlVGpdDno/Y31r3RfKWdvkDRVsYZF0Q7ryeGEKhD9Ypp/i3RM2/bjxtwAAAAASUVORK5CYII=">
+	<div id="mfLoginModalCvs" width="250" height="247" style="position:absolute; left:5px; top:18px; background-color: #000; width: 250px; height: 247px;">
 	
+	</div>
+	
+	<div id="mfLoginBoxHeader" style="width: 100%; height: 30px;  color: #fff; font-weight: normal; font-size: 13px; position: absolute; top: 25px;">
+	&nbsp;	&nbsp; Design Suite
+	</div>
+	
+	<div id="mfLoginBoxApps" style="left: 5px;  width: 250px; height: 217px; position: absolute; top: 50px;   	background-image: url(data:image/jpeg;base64,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); background-repeat:repeat;	">
+	
+		<div style="width: 100%; height: 100%; padding-left: 10px; padding-top: 15px; padding-right: 10px;">
+		
+			<a class="loginbtnlink" href="http://app.mockflow.com/index.jsp">
+				<div class="mfLoginApp" id="mfLoginWireframe" style="cursor: pointer; float: left; color: #fff; padding: 5px;  width: 220px; height: 40px; font-size: 11px; ">					
+					<div style="float: left; width: 45px; height: 100%;  padding-top: 2px;">
+						<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABZ0RVh0Q3JlYXRpb24gVGltZQAxMS8yMC8xMvnV70cAAAAcdEVYdFNvZnR3YXJlAEFkb2JlIEZpcmV3b3JrcyBDUzVxteM2AAACt0lEQVRYhbXXT4hWVRgG8N+14ROHckgYKWbRxsBFG/8kQW4GCYSYWTTVRBLJhxuhjeTCxHZStBF14bgRior+TUFgTIsIkQhxMAJxUKhQEESHhkkqGtKui/dOfn5+995zdXzgcjn3Pue8zznnPe/7nizPc1mWaYjteBH9+B03cAjTuFnXOc/zkkY9tuEcvsEzHd9HcBqf4ekUAYtPioBVaOMMJrAJy0q4bbEKE3gqRUBWsQWPYRzP4QKOYaZOLQbwOobxG47g124BvRuBfryBKbyDNQlGe2EQb+Jb7BUT+t9m2RYMiyX88D4Md2M19uE8DpQJWIv38QW24qElMt6JlXgPf2B3t4Bd2C/270FjEJ9iT57n+jp+zBXqutHonPZAt4fP4ixhu+8uem9MCGf6M5H/sNjKnXXEVAGfi9UZE3tZhev4suhTK6AsoHQjF+G3ncBtF9ykrUtdgUyIvYjjNdyNBbcqwQzgchMBy3FKxPnDhYEW/unBnS+4y2vGzJsIeFTEiONiZn/hXzxSwl/ACykDp/rAVbwlZjeLE4Xx6yXPnqLPkgkgsuJRUQesquH+lzpoqoCseBZELEipYJKqnCYrsMhf0jzRRMAy4XxzDftVIvUU3BR132vYXHyrWuJ+CbVhEwEZPsDf4vxPC29/u4Q/pfyIEoHoXBMBL4tk9F3RbuEV/FjCHxLJqAqNAtFOCYnlXpAioPGloQmWzJsb4rZ/FCXZOL4X1fDQAzQ8KnzpElrdVfFGHBSFx1F33nzuB2uwGz+JkzSGvqqLSQs78DxW4BN8jWsNjLawAa/icfwsCtFfuPMqUHUzamEdXireM5gUuX6hxPBAMcORoj0p7pHznaRUAZ0YFFe0UXEqTuIrXCn+rxX+s0Wk6o/xQ9lg9yKgE+tFYHpWLOkTeBLv4iMRISvRKeAWMSbtsTVNZ7wAAAAASUVORK5CYII=" alt="" style="vertical-align: middle;">
+					</div>
+					
+					<div style="float: right; width: 175px; height: 100%;  ">
+						<span style="color: #ffcc33; font-weight: bold; font-size: 14px;">MockFlow Wireframe</span>
+				    	<br><span style="color: #fff; font-weight: normal; font-size: 11px;">Draw user interface concepts</span>
+				    </div>
+				 </div>
+			 </a>
+			
+			<div style="float: left;  width: 230px; height: 20px; font-size: 11px; ">
+			    <hr class="style-two" style="width: 100%;">
+			</div>
+			
+			<a class="loginbtnlink" href="http://designcollab.mockflow.com/index.jsp">
+				<div class="mfLoginApp" id="mfLoginDesignCollab" style="cursor: pointer; font-size: 11px; color: #fff; float: left; padding: 5px;  width: 220px; height: 40px;">
+					<div style="float: left; width: 45px; height: 100%;  padding-top: 2px;">
+						<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABZ0RVh0Q3JlYXRpb24gVGltZQAxMS8yMC8xMvnV70cAAAAcdEVYdFNvZnR3YXJlAEFkb2JlIEZpcmV3b3JrcyBDUzVxteM2AAAC00lEQVRYhdXXX4hVVRQG8N/VcTKlBqMJ8/+DYg8GZSlBEEkIgjgvVoJChfgk+lBJRPQYSi+SBFoPQaFRoQg+yIigaISJMSKEYlSiJCTJWAkSlnl6WPvq9nLPuWecq+EHl7vO3muv9Z29z1p7rUZRFBqNhhHiNbyICRjGNWzBd/i30+KiKEoeOmMVTmIvnsnGl+EYvsKCOgSavzoEHsJqDGEbFmJMie5qsQvbMK8OgUbFEUzGCizGD/gEpzqxRR9exSKcwVb83Eqg/UNgAtZhEBsxu4bTdujHm9iHd8QL3fBZdgSLxBZuH4XjVjyCd3Eam8sIPIZPsRNLMLZLznM8iPfxJza0Engd74nzu9Pox5d4uygKPdnEpcSuHcaJ2J+DX/EhHhcfKRF+32M9HsWPYkf/aWPrYtLtoTycWvFcct5c04+BJI9J8sOZvTlpTUfUJTAzk4cxHhOzsYnijYazsWndJJDH8Qz8hSvZ2BWRjmdkY2frGO7prAIOi/Ochd9xQWS759P8IfwmQnhScn6kwl4fztclMB2FyIbfJnk6/sb+pHNfGhtEQ6TvaUn+pcRuUZfA+kw+kIisLdHdirl4IRt7q8p43W+giWu4XjF/PenUxkgJdB33HIFC9T0xNul0lcBn4l5v6p8VX3srBtNc0+aZtHbUBE66meHmiTtgqI3eUJprVkLDae2oCXAzXKfgCRHfrWikuSkta9qhD5dHQiDH1QoCV0dgp7hdAt1FVpC8cRfdfoxXiqL433bggRtS2oEVOCiq4al30PGAqJLPobe1Kn4aH4iy7CO3dj6jwWxswHGRF5ajp6ox6cUaLMX9+AJ7xH1fF714CitFjXhCFKI/cWsrUNUZ9eJJvJT+T2EXjioPt770hsvS8y7RR/6RK9UlkKNftGgDIt6/xm5RIRN9xTpRBxzC5/imzNjtEMgxHy/jWbGlM0UVvAk7pAxXhZzAf6v1+mcmeOt6AAAAAElFTkSuQmCC" alt="" style="vertical-align: middle;">
+					</div>
+					
+					<div style="float: right; width: 175px; height: 100%;  ">
+						<span style="color: #ffcc33; font-weight: bold; font-size: 14px;">MockFlow DesignCollab</span>
+				    	<br><span style="color: #fff; font-weight: normal; font-size: 11px;">Review Designs with your Team</span>
+				    </div>
+				</div>
+			</a>
+			
+			<div style="float: left;  width: 230px; height: 20px; font-size: 11px; ">
+			    <hr class="style-two" style="width: 100%;">
+			</div>
+			
+			<a class="loginbtnlink" href="http://www.mockflow.com/apps/divcraft">
+				<div class="mfLoginApp" id="mfLoginDivCraft" style="cursor: pointer; font-size: 11px; color: #fff; float: left; padding: 5px;  width: 220px; height: 40px;">
+					<div style="float: left; width: 45px; height: 100%;  padding-top: 2px;">
+						<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABZ0RVh0Q3JlYXRpb24gVGltZQAxMS8yMC8xMvnV70cAAAAcdEVYdFNvZnR3YXJlAEFkb2JlIEZpcmV3b3JrcyBDUzVxteM2AAACc0lEQVRYhe3XS4iNYRgH8N9hGlFMqRFJsxmZcinXlFJIkYaFW1iYZCWzcFlIliKSsDBKyjVESjIskGQhIkOEhlgpwrCi6LN439GZ0/nO+c5czIJ/nc73fu//eZ7/916fJ5ckiVwup0I0YRmG4BN+4iAe4Fc54yRJUhrlsQbPcBUz89434j7OY3oWAZ2/LAKGYx0eogUzMCCFu04YhRZMyCIgV2IKRmIl5uMljuF5ObWowVrMwRscxutCAcUbAUOwEdewC/UZghZDLbbgOrYLH/QnZtoUzBGG8FQPAhdiBHbgBfanCWjAcVzAAgzspeD5GIY9+IqthQI2Yacwf32NWpzDtiRJuqzmz1FdX+MjnqKK9O301/BfQHcEzMWVIu+vxL4sqMG3SgUMw27hgHpbpP9t7NsdueUQDqC8bbg5hTgI69ERjZpKOG2KnI5oMyiFtxfNhdswDW04iicYJxxYaTgeOU+iTVs551UZBHQ6nJ2BC68itw2TypGzjEB7dHQDdRn4dZE7Kdr2WMBEbBASkHasKsFdFTkzo83E3hDwXUgwxuAQTmJfEd6+2HcocluibUlkWQOd+CLc7zfRXKR/PJagtQKfFQnoRGtKkIUV+KgRcst+PYqT/hbgnxYw9M9TvAtW4paQDY/uw8CLhSz5HaoLs+JpOCCkZUd0rXx6gnpsxSOcwFJUlSpMqoWbbBEG4ywu40MFQasxFasxCo+FRLSdrqVAqcqoGpOxPP4/x0Xcw4+UwDXxCxtj+6JQR3bkk7IKyEetUKItRg53cAnvY3+DsH7m4TbO4G6as+4IyMcUrMAsYUjrMFbIhE6LqVYp5Av4Dd816kLxdEvoAAAAAElFTkSuQmCC" alt="" style="vertical-align: middle;">
+					</div>
+					
+					<div style="float: right; width: 175px; height: 100%;  ">
+						<span style="color: #ffcc33; font-weight: bold; font-size: 14px;">MockFlow DivCraft</span>
+				    	<br><span style="color: #fff; font-weight: normal; font-size: 11px;">Create interactive web content</span>
+				    </div>
+				</div>
+			</a>
+		</div>
+	</div>
+</div>
+
 <script type="text/javascript">
+
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -198,6 +435,7 @@
 </script>
 	
 <script type="text/javascript">
+
 	var _sf_async_config={uid:7464,domain:"mockflow.com"};
 	(function(){
 	  function loadChartbeat() {
@@ -215,5 +453,5 @@
 		 loadChartbeat : function() { oldonload(); loadChartbeat(); };
 	})();
 </script>
-<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/30/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","b66be8119a",569417,"NFZSZxFQV0YCVhYMWw0cemAzHklHCkMDBk08AwAGBUFWWQpWG0pdDVdVS01bSkU=",0,1,new Date().getTime()])</script>
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/30/eum/rum.js"></script><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/41/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","b66be8119a",569417,"NFZSZxFQV0YCVhYMWw0cemAzHklHCkMDBk08AwAGBUFWWQpWG0pdDVdVS01bSkU=",0,1,new Date().getTime()])</script>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/41/eum/rum.js"></script><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
