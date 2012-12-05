@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the couponalert.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531235016id_/http%3A//www.couponalert.com/coupons/privacyPolicy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponalert.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205051331id_/http%3A//www.couponalert.com/coupons/privacyPolicy.jhtml) for the most accurate reproduction.*
 
-# CouponAlert
+# Coupon Alert™ | Privacy Policy
 
-**LAST UPDATED:** **January 30, 2020**
+**LAST UPDATED:** ****
 
-Mindspark Interactive Network, Inc. ("Mindspark"), respects the privacy of users of our CouponAlert.com website and related services, and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. These privacy policies (the "Privacy Policy") are intended to describe for you, as an individual who is a user of the couponalert.com website or service(s) (or any successor website or application branded with our CouponAlert™ brand) (hereafter "CouponAlert Site" or "Website") the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. 
+Mindspark Interactive Network, Inc. ("Mindspark"), respects the privacy of users of our CouponAlert.com website and related services, and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. These privacy policies (the "Privacy Policy") are intended to describe for you, as an individual who is a user of the couponalert.com website or service(s) (or any successor website or application branded with our CouponAlert™ brand) (hereafter "CouponAlert Site" or "Website") the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
 We encourage you to read this Privacy Policy carefully when using the Website and related services. By using any of the CouponAlert Site products or services, you are accepting the practices described in this Privacy Policy. Mindspark Interactive Network, Inc. is a part of the IAC family of businesses [IAC](http://www.iac.com/), which includes Ask.com, iWon.com, Girlsense.com, Citysearch, Vimeo.com, Evite, Match.com, ServiceMagic, Gifts.com, Pronto, Shoebuy, College Humor, and many others. 
 
@@ -139,4 +139,4 @@ Web beacons may be used to deliver or communicate with cookies, to count users w
 © 2010 Mindspark Interactive Network, Inc. All rights reserved.   
 
 
-Please click [HERE](https://web.archive.org/coupons/index.jhtml) to return to our homepage. 
+Please click [HERE](http://www.couponalert.com/coupons/index.jhtml) to return to our homepage. 
