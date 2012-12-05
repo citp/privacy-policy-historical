@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonedog.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208030516id_/http%3A//www.phonedog.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonedog.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205153621id_/http%3A//www.phonedog.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PhoneDog
 
@@ -24,6 +24,9 @@ We use third-party advertising companies to serve ads when you visit our website
 
 
 
+**Behavioral Advertising Opt-out  
+** You may opt-out of behavioral advertising from any of our associated advertising networks and others by using the NAI Opt-out tool located at: <http://www.networkadvertising.org/managing/opt_out.asp>
+
 **Security**  
 This site has security measures in place to protect against the loss, misuse and alteration of the information under our control.
 
@@ -41,8 +44,7 @@ The only other exceptions to this are when we are required by law in the good-fa
 From time to time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address) and demographic information (such as zip code and age level). Contact information will be used to notify the winners and award prizes. Survey information will be used to monitor or improve the use and satisfaction of this site.
 
 **Contacting the Web Site**  
-If you have any questions about our privacy statement, the practices of this site, or your dealings with this Web site, you can contact...
+If you have any questions about our privacy statement, the practices of this site, or your dealings with this Web site, contact...
 
-phonedog.com  
 [info@phonedog.com](mailto:info@phonedog.com)  
 Thank you for your support.
