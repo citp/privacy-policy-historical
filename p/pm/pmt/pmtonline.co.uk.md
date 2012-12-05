@@ -1,118 +1,92 @@
-> *The following text is extracted and transformed from the pmtonline.co.uk privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505060313id_/http%3A//www.pmtonline.co.uk/shop_with_confidence%23privacy_and_security_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmtonline.co.uk privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205230816id_/http%3A//www.pmtonline.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Shop with Confidence make music for less
+# PMT Online Privacy Policy
 
-**PMT Online** has now been in business for over twenty years, and can rightly claim the honour of **Best Music Retailer** , having won the the title at the MIA awards five years in a row, beating the previous world record. We are the proud owners of **Ten** PMT Superstores across the UK, and we are continuing to grow. Opening up career opportunities for more and more young and experienced musicians to come work in our stores, whilst supporting the growth of musicians all across the UK by bringing our expertise closer to our customer's front door. 
+This privacy policy sets out how PMT Online uses and protects any information that you give PMT Online when you use this website. PMT Online is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. PMT Online may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-As by far one of the largest retailers in the UK (and indeed, Europe) we have **over 10,000 products** In stock today. 
+## What we collect
 
-Above all though, PMT Online's main aim is to help musicians get the results they need by delivering the very latest equipment with great advice and service, and all at the most competitive prices around. 
+We may collect the following information:
 
-## 7 Day Moneyback Guarantee
-
-No problems, No quibbles. If you're unhappy with your online purchase simply return the item to us. Just call us or e-mail [returns@pmtonline.co.uk](mailto:returns@pmtonline.co.uk) to arrange. **Please note, this applies to online sales only.**
-
-There are certain kinds of products which are exempt from this guarantee under Health and Safety laws, please visit our [Customer Services](http://www.pmtonline.co.uk/customer-services/) section to find out more.
-
-## Lowest Price Guarantee
-
-We constantly monitor our competitors prices to ensure that we're the best. However if you do find it cheaper, you can request an INSTANT price match during our opening hours by phone on 01702 436501, or by e-mail to [orders@pmtonline.co.uk](mailto:orders@pmtonline.co.uk).
-
-## Online Support for Life
-
-Decades of experience in retail allows us to offer a lifetime of expertise and advice with all of your purchases. Should you need any support with any of your purchases e-mail [support@pmtonline.co.uk](mailto:support@pmtonline.co.uk) with your Invoice no. & your enquiry.
-
-Please note: due to the high volume of enquiries we receive for support on illegally downloaded software & goods bought from unauthorised dealers any e-mails received without an Invoice no. will be treated as fraudulent and subsequently will be ignored.
-
-## Live Order Tracking
-
-Once you've made your order - simply log in to check the status of your order. Once shipped, you will be able to track your order live using our carriers live consignment tracking technology..
-
-## Privacy & Security Policy
-
-**PMT Online and Professional Music Technology are trading names of S & T Audio Ltd ("the Group, we, us"),**  
-48-50 Queens Road,  
-Southend On Sea  
-Essex  
-SS1 1NL,  
-Company No: 03735541,  
-VAT No: 583 1808 27 UK.
-
-A full list of companies is available upon request.
-
-## Use of your Personal Information
-
-**When you register and use this site:**
-
-You will be asked to provide certain information such as your contact details. We will store this data and hold it on secure computers or otherwise. We will use this data to fulfil our agreement with you. **Some of our services will require further details.**
-
-We may use information that you provide or that is obtained by us:
-
-**(a)** To register you with our web site and to administer our web site services;
-
-**(b)** For assessment and analysis (e.g. market, customer and product analysis) to enable us to review, develop and improve the services which we offer and to enable us to provide you and other customers with relevant information through our marketing programme. We may use your information to make decisions about you using computerised technology, for example automatically selecting products or services which we think will interest you from the information we have. We may keep you informed of such products and services (including special offers, discounts, offers, competitions and so on) by any of the following methods:
-
-  * Email
-  * Telephone (including automated calls)
-  * SMS text message and other electronic messages such as picture messaging
-  * Post
-  * Fax
-  * Or otherwise (including products and services of other companies and organisations) which we consider may be of interest to you. If you do not wish PMT Online to receive information of such products and services, please do not tick the opt-in box provided when registering on this website.
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
 
-**(c)** To administer any prize draws or competitions you may enter.
+For the exhaustive list of cookies we collect see the List of cookies we collect section.
 
-We may supplement the information that you provide to us with information that we receive from third parties.
+## What we do with the information we gather
 
-**Fraud Prevention**
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-In order to protect our customers and us from fraud and theft, we may pass on information that we obtain from making identity checks and other information in our customer records, including how you conduct your account, to other Group companies, other retailers and to financial and other organisations (including law enforcement agencies) involved in fraud prevention and detection, to use in the same way.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-**Disclosure of Your Information**
 
-We may give information about you to the following, who may use it for the same purposes as set out above:
 
-**(a)** to other companies in the Group;
+## Security
 
-**(b)** to employees and agents of the Group to administer any accounts, products and services provided to you by the Group now or in the future;
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**(c)** agents who (on our behalf) profile your data so that we may tailor the goods/services we offer to your specific needs;
+## How we use cookies
 
-**(d)** to other organisations for the administration of prize draws or competitions.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-**(e)** to anyone to whom we transfer or may transfer our rights and duties under our agreement with you;
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-**(f)** if we have a duty to do so or if the law allows us to do so.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-**Cookies**
+## Links to other websites
 
-New technologies are emerging on the Internet that help us to deliver customised visitor experiences. In particular, there is a technology called "cookies" which may be used by us to provide you with, for example, customised information from our web site. 
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-A cookie is an element of data that a web site can send to your browser, which may then store it on your system. Cookies allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our web site. 
+## Controlling your personal information
 
-Depending on the type of cookie we use, cookies also allow us to make our web site more user friendly, for example, permanent cookies allow us to save your password so that you do not have to re-enter it every time you visit our web site. 
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-If you wish, you can usually adjust your browser so that your computer does not accept cookies. If you do this, you will still be able to browse around the site but the functions that allow you to add items to your cart, set up a new account or access an existing account will not be available. Alternatively you can adjust your browser to tell you when a website tries to put a cookie on your computer. 
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at sales@pmtonline.co.uk
 
-How you adjust your browser to stop it accepting cookies or to notify you of them, will depend on the type of internet browser programme your computer uses. 
 
-Please check [www.allaboutcookies.org](http://www.allaboutcookies.org/) for more information (PMT Online.co.uk is not responsible for the content of external websites. This link will open a new window.) 
 
-Please remember, cookies do not contain confidential information such as your home address, telephone number or credit card details. We do not exchange cookies with any third party websites or external data suppliers. 
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-Your browser also generates other information, including which language the site is displayed in, and your Internet Protocol address ("IP address"). An IP address is a set of numbers which is assigned to your computer during a browsing session whenever you log on to the Internet via your internet service provider or your network (if you access the Internet from, for example, a computer at work). Your IP address is automatically logged by our servers and used to collect traffic data about visitors to our web sites. We do not use your IP address to identify you personally. **We only keep cookies for the duration of your visit to our website.**
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 48-50 Queens Road Southend On Sea SS1 1NL.
 
-**Security**
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-We endeavour to take all reasonable steps to protect your personal information. However, we cannot guarantee the security of any data you disclose on-line. You accept the inherent security risks of providing information and dealing on-line over the Internet and will not hold us responsible for any breach of security unless this is due to our negligence or wilful default.
+## List of cookies we collect
 
-**General**
+The table below lists the cookies we collect and what information they store.
 
-You have the right to see personal data (as defined in the Data Protection Act) that we keep about you, upon receipt of a written request and payment of a fee. If you are concerned that any of the information we hold on you is incorrect please contact us on the address below.
-
-Please be aware that our site may link to other web sites which may be accessed through our site. We are not responsible for the data policies or procedures or the content of these linked web sites.
-
-**Contact Us**
-
-If you have any comments or queries in connection with our privacy policy please email our General Manager at [ andy.m@pmtonline.co.uk ](mailto:andy.m@pmtonline.co.uk) or write to Andy Milner, PMT Online Ltd, 48-50 Queens Road, Southend On Sea, SS1 1NL.
+COOKIE name| COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.  
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.
