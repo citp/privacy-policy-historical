@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardeners.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507153826id_/http%3A//www.gardeners.com/Privacy-Policy/Privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardeners.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205024953id_/http%3A//www.gardeners.com/Privacy-Policy/Privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy | Gardener's Supply
 
@@ -60,4 +60,4 @@ Subject to the above provisions, by using our web site, you consent to the colle
 
 ### Your Comments
 
-We welcome feedback concerning this Privacy Policy and Security Statement. To send your comments and questions just [e-mail us](https://www.gardeners.com/on/demandware.store/Sites-Gardeners-Site/default/CustomerService-ContactUs?ContactUs=ContactUs).
+We welcome feedback concerning this Privacy Policy and Security Statement. To send your comments and questions just [e-mail us](http://www.gardeners.com/on/demandware.store/Sites-Gardeners-Site/default/CustomerService-ContactUs?ContactUs=ContactUs).
