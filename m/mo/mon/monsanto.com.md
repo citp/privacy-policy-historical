@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monsanto.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625084505id_/http%3A//www.monsanto.com/privacy-policy/Pages/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsanto.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205051317id_/http%3A//www.monsanto.com/privacy-policy/Pages/default.aspx) for the most accurate reproduction.*
 
 # Monsanto ~ Monsanto Privacy Policy
 
@@ -95,4 +95,4 @@ If Monsanto decides to change its privacy policies and practices, we will post t
 **Contacting Monsanto**   
 Each Monsanto web site provides a Contact Us section to facilitate feedback from site visitors. Please use this facility to notify us if you have any questions, concerns or complaints about the manner in which your personal information has been collected or handled by Monsanto, or contact Monsanto's offices in your country. 
 
-_Policy Last Updated November 8, 2005_
+_Policy Last Updated October 2010_
