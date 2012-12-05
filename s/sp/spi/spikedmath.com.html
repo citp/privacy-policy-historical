@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spikedmath.com privacy policy that was archived on 2012-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120602215417id_/http%3A//spikedmath.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spikedmath.com privacy policy that was archived on 2012-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121205123630id_/http%3A//spikedmath.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard"><head>
     <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
@@ -41,6 +41,100 @@ window.google_analytics_uacct = "UA-2440206-3";
 <link rel="stylesheet" href="http://spikedmath.com/ajaxrating.css" type="text/css">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
+<script language="JavaScript" type="text/javascript">
+
+  function getBlock(name) {
+    if (document.getElementById) {
+      return document.getElementById(name);
+    } else if (document.all) {
+      return document.all[name];
+    } else if (document.layers) {
+      return document.layers[name];
+    }
+  }
+function getStyle(name) {
+    return getBlock(name).style;
+  }
+
+  function hideBlock(name) {
+    getStyle(name).display="none";
+  }
+
+  function showBlock(name) {
+    getStyle(name).display="";
+  }
+
+  if (document.layers) {
+    document.captureEvents(Event.MOUSEMOVE);
+  }
+ document.onmousemove = captureMousePosition;
+
+  xMousePos = 0;
+  yMousePos = 0;
+  function captureMousePosition(e) {
+    if (document.layers) {
+      xMousePos = e.pageX;
+      yMousePos = e.pageY;
+    } else if (document.all) {
+      xMousePos = window.event.x+document.body.scrollLeft;
+      yMousePos = window.event.y+document.body.scrollTop;
+    } else if (document.getElementById) {
+      xMousePos = e.pageX;
+      yMousePos = e.pageY;
+    }
+  }
+
+  var mouseOverMenu=false;
+  var mouseOverSubmenu=false;
+  var currentMenu=null;
+  function onMouseOverMenu(name) {
+    mouseOverMenu = true;
+    if (currentMenu == null) {
+      currentMenu=name;
+      setTimeout("showSubmenu('"+name+"')", 500);
+    } else {
+      currentMenu=name;
+      hideSubmenu(name);
+      showSubmenu(name);
+    }
+  }
+  function onMouseOverSubmenu() {
+    mouseOverSubmenu = true;
+    showBlock(currentMenu);
+  }
+  function showSubmenu(name) {
+    if (mouseOverSubmenu || mouseOverMenu) {
+      if(getStyle(currentMenu).display=='none') {
+        var tx = xMousePos-500;
+        var ty = yMousePos-200;
+        tx = tx<0?0:tx;
+        ty = ty<0?0:ty;
+        getStyle(currentMenu).left = tx+"px";
+        getStyle(currentMenu).top  = ty+"px";
+      }
+      showBlock(currentMenu);
+    }
+  }
+  function hideSubmenu(name) {
+    if (!mouseOverSubmenu && !mouseOverMenu) {
+      hideBlock("aftercomic");
+      currentMenu=null;
+    } else {
+      if (currentMenu != "aftercomic") { hideBlock("menu1"); }
+    }
+  }
+  function onMouseOutMenu(name) {
+    mouseOverMenu = false;
+    setTimeout("hideSubmenu('"+name+"')", 250);
+  }
+  function onMouseOutSubmenu(name) {
+    mouseOverSubmenu = false;
+    setTimeout("hideSubmenu('"+name+"')", 250);
+  }
+
+</script>
+
+
 <!-- Plus one code -->
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
@@ -66,7 +160,15 @@ s.parentNode.insertBefore(po, s);
         <div id="container-inner">
 
 
-            <div id="header">
+            <center>
+<a href="http://spikedmath.com/math-games/" style="color:green;font-weight:bold;">Spiked Math Games</a>
+&nbsp;// <a href="http://www.math-fail.com/" style="color:red;font-weight:bold;">Math Fail Blog</a>
+&nbsp;// <a href="http://www.gaussfacts.com" style="color:orange;font-weight:bold;">Gauss Facts</a>
+&nbsp;// <a href="http://spikedmath.com/forum/" style="color:navy;font-weight:bold;">Spiked Math Forums</a>
+&nbsp;// <a href="http://spikedmath.com/" style="color:black;font-weight:bold;">Spiked Math Comics</a>
+</center>
+<br>
+<div id="header">
     <div id="header-inner">
         <div id="header-content">
 
@@ -75,8 +177,8 @@ s.parentNode.insertBefore(po, s);
 
 
 
-<br>
-<center><a href="http://spikedmath.com/" accesskey="1"><img src="http://spikedmath.com/header5.png"></a></center>
+<center>
+<a href="http://spikedmath.com/" accesskey="1"><img src="http://spikedmath.com/header5.png"></a></center>
 
 
  </div>
