@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the misvecinaslesbianas.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601163133id_/http%3A//support.naughtylesbiangirlfriends.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D2730%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misvecinaslesbianas.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205131813id_/http%3A//www.misvecinaslesbianas.com/privacy) for the most accurate reproduction.*
 
-# Naughty Lesbian Girlfriends
+# Mis Vecinas Lesbianas
 
-**SPACASH  
-Privacy Policy  
-**
-
-* * *
+## Privacy Policy
 
 Keeping you privacy is very important and is protected while using our Site. Please make sure to read the Site's Terms & Conditions as well.
 
