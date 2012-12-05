@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614015711id_/http%3A//www.crutchfield.com/app/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205010010id_/http%3A//www.crutchfield.com/ISEO-ralscspd/app/privacy.aspx) for the most accurate reproduction.*
 
 # Crutchfield.com - Privacy Policy
 
