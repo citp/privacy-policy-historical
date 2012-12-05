@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nextstudent.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607071418id_/https%3A//www.nextstudent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextstudent.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205140031id_/http%3A//www.nextstudent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NextStudent | Student Loans
-
-[](https://web.archive.org/get-a-student-loan/)
 
 ### Effective July 1, 2010
 
