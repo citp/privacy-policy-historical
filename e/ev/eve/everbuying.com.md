@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everbuying.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625165015id_/http%3A//www.everbuying.com/m-article-id-83.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everbuying.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205080936id_/http%3A//www.everbuying.com/m-article-id-83.html) for the most accurate reproduction.*
 
 # Privacy Policies - Everbuying.com
 
@@ -41,9 +41,11 @@ Transaction emails, shipping notifications, weekly deals, and special promotions
 
 **Address, phone number and email**   
 1212 Alvarado Avenue, Davis, California, CA 95616-5532, USA   
-+1 530-758-3758
++1 530-758-3758  
+Email:support@everbuying.com  
+
 
 [Contact Us](http://www.everbuying.com/m-article-id-12.html)
 
 **How do I unsubscribe?**  
-You can unsubscribe from any email or you personal subscribe setting after logged in.
+You can unsubscribe by using the link from any email newsletter or your personal subscribe setting after logged in
