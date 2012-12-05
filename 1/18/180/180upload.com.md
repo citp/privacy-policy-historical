@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 180upload.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504002451id_/http%3A//180upload.com/pages/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 180upload.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205122930id_/http%3A//180upload.com/pages/privacypolicy.html) for the most accurate reproduction.*
 
-# www.180upload.com - Video Streaming and File Sharing Completely Free
+# 180upload.com - Video Streaming and File Sharing Completely Free
 
 This Privacy Policy governs the manner in which 180upload collects, uses, maintains and discloses information collected from users (each, a "User") of the www.180upload.com website ("Site"). This privacy policy applies to the Site and all products and services offered by 180upload.
 
