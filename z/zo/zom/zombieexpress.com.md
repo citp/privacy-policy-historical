@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zombieexpress.com privacy policy that was archived on 2012-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120428220607id_/http%3A//zombieexpress.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zombieexpress.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205081245id_/http%3A//zombieexpress.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Zombie Express
+# Zombie Express
 
 Privacy Policy
 
@@ -43,53 +43,3 @@ Consumers can have this information corrected by sending us e-mail at the above 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server. 
 
 If you feel that this site is not following its stated information policy, you may contact us via email or at the above addresses or phone number. 
-
-Top Players
-
-[](http://zombieexpress.com/profile/avadmin)
-
-Top Rated Games
-
-Most Popular Games
-
-Play Indiana Jones in this whi…
-
-[](http://zombieexpress.com/zombie/zombie-terror "<div class='tooltip_title'>Zombie Terror</div><br>
-				<div class='tooltip_options'>
-					Total Plays : <span style='color:#FFF;'>2258951</span>
-				</div><br>
-				<div class='tooltip_desc'>Play Indiana Jones in this whip swinging adventure</div>")
-
-Kill the disgusting zombies - …
-
-[](http://zombieexpress.com/zombie/zombie-killer-2072-ad "<div class='tooltip_title'>Zombie Killer 2072 AD</div><br>
-				<div class='tooltip_options'>
-					Total Plays : <span style='color:#FFF;'>912139</span>
-				</div><br>
-				<div class='tooltip_desc'>Kill the disgusting zombies - each take multiple shots to dispose off</div>")
-
-The objective of this game is …
-
-[](http://zombieexpress.com/shooter/happy-tree-friends-flippy-attack "<div class='tooltip_title'>Happy Tree Friends: Flippy Attack</div><br>
-				<div class='tooltip_options'>
-					Total Plays : <span style='color:#FFF;'>877473</span>
-				</div><br>
-				<div class='tooltip_desc'>The objective of this game is simple. Stay alive as long as possible. Using characters from Happy Tree Friends.</div>")
-
-Play as the Quarterback in thi…
-
-[](http://zombieexpress.com/sport/ultimate-football "<div class='tooltip_title'>Ultimate Football</div><br>
-				<div class='tooltip_options'>
-					Total Plays : <span style='color:#FFF;'>868459</span>
-				</div><br>
-				<div class='tooltip_desc'>Play as the Quarterback in this America Football game, throw passes to your teammates.</div>")
-
-Shoot the zombies in the tunne…
-
-[](http://zombieexpress.com/zombie/generic-zombie-shoot-up "<div class='tooltip_title'>Generic zombie Shoot up</div><br>
-				<div class='tooltip_options'>
-					Total Plays : <span style='color:#FFF;'>845534</span>
-				</div><br>
-				<div class='tooltip_desc'>Shoot the zombies in the tunnel</div>")
-
-Log-in to save favourites
