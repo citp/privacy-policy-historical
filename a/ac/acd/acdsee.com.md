@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613224147id_/http%3A//www.acdsee.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205104943id_/http%3A//www.acdsee.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ACD Systems
 
@@ -62,10 +62,10 @@ At any time you may review, alter or remove any personal information, including 
 
 ACD Systems.  
 Privacy/Customer Service  
-701 Fifth Avenue  
-42nd Floor  
+500 Aloha St  
+Suite C2-A  
 Seattle, Washington  
-98104-5119  
+98109  
 United States of America  
 Fax: 1.866.544.0291
 
