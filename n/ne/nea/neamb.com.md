@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neamb.com privacy policy that was archived on 2012-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120320180804id_/http%3A//www.neamb.com/home/775.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neamb.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205073703id_/http%3A//www.neamb.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | NEA Member Benefits
 
@@ -51,9 +51,9 @@ Additionally, we may share any of the personal information that we collect about
 
 **VI.  AVAILABLE CHOICES**
 
-Any personal information that you provide to us is voluntary. NEA members may update their personal information at any time. Please [contact us](https://web.archive.org/home/847.htm) to update your information.
+Any personal information that you provide to us is voluntary. NEA members may update their personal information at any time. Please [contact us](https://web.archive.org/contact-us.htm) to update your information.
 
-If you subscribe to any NEA’s MBC-produced electronic communication, you may opt out at any time by following the instructions at the bottom of all such communications. If you have any problems, please [contact us](https://web.archive.org/home/847.htm).
+If you subscribe to any NEA’s MBC-produced electronic communication, you may opt out at any time by following the instructions at the bottom of all such communications. If you have any problems, please [contact us](https://web.archive.org/contact-us.htm).
 
 **VI.  CALIFORNIA PRIVACY INFORMATION  
 **  
@@ -61,7 +61,7 @@ California residents have a right under state law to ask entities with whom they
 
 **VII.  INFORMATION SECURITY  **
 
-We maintain administrative, technical, and physical safeguards designed to: (1) provide security and confidentiality of your personal information; (2) protect against any anticipated threats or hazards to the security or integrity of such information; and (3) protect against unauthorized access to or use of such information. For more information on our information security, please [contact us](https://web.archive.org/home/847.htm) to request a copy of the NEA’s MBC Information Security Program.
+We maintain administrative, technical, and physical safeguards designed to: (1) provide security and confidentiality of your personal information; (2) protect against any anticipated threats or hazards to the security or integrity of such information; and (3) protect against unauthorized access to or use of such information. For more information on our information security, please [contact us](https://web.archive.org/contact-us.htm) to request a copy of the NEA’s MBC Information Security Program.
 
 **VIII.  ADDITIONAL INFORMATION FOR USERS OF THE NEA’s MBC WEBSITE**
 
@@ -93,11 +93,11 @@ This Privacy Policy applies only to the NEA’s MBC website. It does not cover 
 
 **IX.  EFFECTIVE DATE, AMENDMENTS, AND CONSENT TO THIS PRIVACY POLICY  **
 
-This Privacy Policy is effective April 1, 2009. We retain the right to amend or otherwise update this Privacy Policy at any time for any reason. By joining the NEA or using the NEA’s MBC website, you consent to the collection, use, and sharing of personal information as we have described herein. If we amend or update our Privacy Policy, we will post the changes online at the NEA’s MBC website so that you are always aware of NEA’s MBC’s current practices. You may also [contact us](https://web.archive.org/home/847.htm) at any time to request an up-to-date hard-copy version of the Privacy Policy.
+This Privacy Policy is effective April 1, 2009. We retain the right to amend or otherwise update this Privacy Policy at any time for any reason. By joining the NEA or using the NEA’s MBC website, you consent to the collection, use, and sharing of personal information as we have described herein. If we amend or update our Privacy Policy, we will post the changes online at the NEA’s MBC website so that you are always aware of NEA’s MBC’s current practices. You may also [contact us](https://web.archive.org/contact-us.htm) at any time to request an up-to-date hard-copy version of the Privacy Policy.
 
 **X.  CONTACT US**
 
-If you have any questions regarding this Privacy Policy, please [contact us](https://web.archive.org/home/847.htm).
+If you have any questions regarding this Privacy Policy, please [contact us](https://web.archive.org/contact-us.htm).
 
   
 
