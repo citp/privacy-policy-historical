@@ -1,100 +1,67 @@
-> *The following text is extracted and transformed from the hitwicket.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitwicket.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205223512id_/http%3A//hitwicket.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Hitwicket - Privacy Site
 
-**Go Daddy Respects Your Privacy**
+Octathorpe Web-Consultants Pvt Ltd, a company with its registered address at Hyderabad, India, the publisher of Hitwicket.com, has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this website, www.hitwicket.com 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Hitwicket processes the data itself and is the legal entity responsible for processing the data. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+### Data Collected
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Hitwicket stores user data that has either been submitted to our system by you (such as account details or in-game communication), data that has been created or logged automatically by our systems (for example IP logs or game updates), as well as any manual notes that has been added by customer service, developers to record account events. 
 
-**Information Collection and Use**
+### Information Automatically Logged
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We use your IP address to help diagnose problems with our server and to administer our Web site. IP addresses are also logged and used for security purposes, and may be used in abuse investigations or to identify cheaters within the game itself. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+### Cookies
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We do not use cookies to extract information from you, solely to simplify your visits, mainly by having cookies remember which language and specific part of the site you want to start your visit with, or to remember last login date so that we can distinguish new users from returning ones. A temporary cookie is also used to keep track of your "session". Without that temporary cookie (which is not stored after you quit your browser) you would have had to log on again on each page. You can turn off cookies in your web browser (more information about this is available at http://www.aboutcookies.org/). This will however make it more or less impossible to access many of the functions on our web site. When you follow links from Hitwicket to other web sites, these may install tracking cookies on your computer. This is beyond the control of Hitwicket. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+### Advertisers
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+We reserve the right to use cookies for the purpose of serving and/or targeting ads, offers and other marketing messages. No personal customer data is ever shared with the advertising companies. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+### Registration Forms
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Our site's registration form requires users to give us contact information (like their name and e-mail). Contact information from the registration forms is used to get in touch with the customer when necessary. It is in the users interest to submit truthful information, as this is also used to verify the user's right to his or her account. The customer's e-mail address is used to send an e-mail verification message, Hitwicket newsletters (this can be opted out from), password reminders upon request, inactivity reminders, information about changes in the terms of use and very seldomly information about new features to users with deleted accounts. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. 
 
-**Security**
+### External Links
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+This site contains links to other sites. Hitwicket is not responsible for the privacy practices or the content of such Web sites. 
 
-**Updating Your Information**
+### Special Relationships
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Hitwicket will not share customer data with outside companies or sites, even if we have a special relationship with them. Sponsors, business partners, co-branded sites or content providers may get the opportunity to offer products and services to you within the Hitwicket web site, but we will ask you before passing on any of your personal information to other parties. The only exception is if another company needs the data for the operation of the service and they agree to adhere to our privacy policy or if Hitwicket would transfer substantially all of its assets relating to the game to another company. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+### Public Forums
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-      iii.      You may call us at: (480) 505-8800
+### Uploaded Public Information
 
-       iv.      You may fax us at: (480) 505-8844
+If you upload pictures of yourself, Hitwicket will consider your uploading as your express consent to the use of your picture. If pictures would include pictures of your friends or other third parties, you must ensure that such persons have consented to the publishing of the picture before uploading it. 
 
-**Sending Emails**
+### Other In-Game Information
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+All other information that you directly or indirectly create or access within Hitwicket is considered to be in-game information and may be accessed and used by us for the operation of the game, including investigations into cheating, fraud or criminal activities. Barring a court order, we will not share such information with third parties other than the police, our system administrators, our legal representatives and companies that develop or operate the game and have agreed to adhere to our privacy policy. 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+### Security
 
-**Compliance with Laws and Law Enforcement**
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. These include firewalls, physical security and password protection. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+### Opt-Out
 
-**Third Party Service Providers**
+You can choose to terminate your Hitwicket account at any time by Hitwicket at support@hitwicket.com. E-mail messages may be sent to all registered users. You can opt out from receiving most messages only by terminating the account. You can opt out from The Hitwicket Newsletter under Preferences > Email Settings 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+### Data Quality/Access
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+This site gives users the following options for changing and modifying information previously provided: \- You can change your data under Preferences 
 
-**Supplementation of Information**
+### Contacting Hitwicket
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+If you have any questions about this privacy statement, or the practices of this site, you can contact  support@hitwicket.com. If you want a copy of your personal data, or if you want us to erase it, please send us a personally signed letter to the address stated above. 
 
-**Contests/Surveys**
+### Amendments of the Privacy Policy
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Hitwicket may from time to time revise this Privacy Statement by updating this posting. Such amendments will be communicated here, to the e-mail address stated in your account or through a notice on our home page. Your continued use of this site and the resources enabled by the site will signify and represent your consent to such processing and of the conditions set out in the Privacy Statement. 
