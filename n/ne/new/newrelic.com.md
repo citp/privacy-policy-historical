@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newrelic.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508144850id_/http%3A//newrelic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newrelic.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205085610id_/http%3A//newrelic.com/privacy) for the most accurate reproduction.*
 
 # New Relic Privacy Policy : New Relic
 
-New Relic, Inc ( **“New Relic”** ) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Application Data and Personal Data (each as defined below) that we collect from users of our website (located at www.newrelic.com), the New Relic RPM products (the **“Products”** ), or related services. This Privacy Policy is incorporated into, and considered a part of, the New Relic Terms of Service, currently located at [www.newrelic.com/terms](https://web.archive.org/web/20120508144850id_/http%3A//newrelic.com/terms.html).
+New Relic, Inc ( **“New Relic”** ) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Application Data and Personal Data (each as defined below) that we collect from users of our website (located at www.newrelic.com), the New Relic RPM products (the **“Products”** ), or related services. This Privacy Policy is incorporated into, and considered a part of, the New Relic Terms of Service, currently located at [www.newrelic.com/terms](https://web.archive.org/web/20121205085610id_/http%3A//newrelic.com/terms.html).
 
 This Privacy Policy covers our collection, use and disclosure of information we collect through our website www.newrelic.com and our service rpm.newrelic.com. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged New Relic.
 
