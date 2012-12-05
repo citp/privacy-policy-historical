@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amolatina.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531235314id_/http%3A//www.amolatina.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amolatina.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205044245id_/http%3A//www.amolatina.com/privacy-policy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 Depending on what you do when you visit any Web site, you are providing information about your visit to the site's owners. This includes AmoLatina.com. We value privacy and think you do too, so we want you to have the information you need to make your own decisions about your personal privacy. When you visit or supply information to any Web site, we think it's a good idea for you to first understand what that site's privacy policies are. If the site doesn't tell you, don't hesitate to ask.
 
