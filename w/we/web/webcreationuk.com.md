@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the webcreationuk.com privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123094310id_/http%3A//www.webcreationuk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcreationuk.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205115809id_/http%3A//webcreationuk.co.uk/privacy.php) for the most accurate reproduction.*
 
-# Content Management - Website Content Management - CMS for your site
+# Website Design - Web Creation UK, Privacy Policy
 
-Privacy Policy 
-
-Our Promise   
+Our promise  
 WebCreationUK will respect your privacy and ensure that all sensitive and personal information provided to us is lawfully processed and held in accordance to the Data Protection Act 1998. Personal/sensitive information is deemed to be any information that identifies a living individual. 
 
-Controlling your information   
+**Controlling your information**  
 WebCreationUK will control the data you supply and we agree to collect and control this information in accordance with the Data Protection Act 1998. WebCreationUK contact information can be found on the contact page of our website. 
 
-How do we collect information?   
+**How do we collect information?**   
 We collect information from you when you submit an enquiry, visit our site, call us for information and send us an email. The information we collect is: 
 
   * Your name
@@ -32,16 +30,16 @@ We will only use the information you provide us with to:
 
 WebCreationUK will not sell or share your personal data with others. 
 
-Accuracy   
+Accuracy  
 WebCreationUK endeavor to keep all personal information that they store up to date. We will amend any information we find to be inaccurate or are informed is inaccurate at our earliest convenience. 
 
 To ensure com pliance with the data protection act 1998 WebCreationUK are happy to supply you with any details they hold about you. There is a £10 admin fee for requests of this nature. 
 
-Online activities   
+Online activities  
 WebCreationUK collect information from your visit to our site. This information is only used to track browsing patterns and cannot be used to identify you personally. 
 
-Security   
+Security  
 To prevent the unauthorized access or disclosure of your personal information WebCreationUK have put in place all reasonable Physical, electronic and managerial systems required. If you are asked to enter sensitive personal information pertaining to payment details WebCreationUK ensure 128bit SSL encryption is in place via our merchant provider. 
 
-Changes   
+Changes  
 WebCreationUK reserved the right change this privacy policy at any time.
