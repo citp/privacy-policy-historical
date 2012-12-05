@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovelysms.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606165130id_/http%3A//www.lovelysms.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovelysms.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205040442id_/http%3A//www.lovelysms.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Funny sms | Love sms | Sms joke | Friendship sms | Flirt sms | Hindi Urdu sms | Wise word
 
