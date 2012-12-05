@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhammer.co.uk privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606012841id_/http%3A//www.myhammer.co.uk/showPage.php%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhammer.co.uk privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205013713id_/http%3A//www.myhammer.co.uk/showPage.php%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Find a Tradesman or Handyman For Any Job - For Free!
 
