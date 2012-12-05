@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universal-music.co.uk privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505184407id_/http%3A//store.universal-music.co.uk/restofworld/customer-services/privacy-policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universal-music.co.uk privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205024212id_/http%3A//store.universal-music.co.uk/restofworld/customer-services/privacy-policy/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Universal Music
 
