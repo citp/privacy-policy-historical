@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the axitrader.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axitrader.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205091749id_/http%3A//www.axitrader.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AxiTrader - Privacy Policy
 
 |  |  |   
 ---|---|---  
 |  |   
-|  |  [](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/open-account.aspx)  
-[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/AxiTraderPro-Account.aspx)  
-[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/howto-fund-account.aspx)  
-[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/credit-card-funding.aspx)  
-[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/Market-News.aspx)  
-[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/Education.aspx)  
-[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/attend-a-seminar.aspx)  
-[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/Trading-Challenge.aspx)  
-[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/MT4-VPS-Hosting.aspx)  
+|  |  [](https://web.archive.org/web/20121205091749id_/http%3A//www.axitrader.com/open-account.aspx)  
+[](https://web.archive.org/web/20121205091749id_/http%3A//www.axitrader.com/AxiTraderPro-Account.aspx)  
+[](https://web.archive.org/web/20121205091749id_/http%3A//www.axitrader.com/howto-fund-account.aspx)  
+[](https://web.archive.org/web/20121205091749id_/http%3A//www.axitrader.com/mt4-account-funding.aspx)  
+[](https://web.archive.org/web/20121205091749id_/http%3A//www.axitrader.com/Market-News.aspx)  
+[](https://web.archive.org/web/20121205091749id_/http%3A//www.axitrader.com/Education.aspx)  
+[](https://web.archive.org/web/20121205091749id_/http%3A//www.axitrader.com/attend-a-seminar.aspx)  
+[](https://web.archive.org/web/20121205091749id_/http%3A//www.axitrader.com/Trading-Challenge.aspx)  
+[](https://web.archive.org/web/20121205091749id_/http%3A//www.axitrader.com/MT4-VPS-Hosting.aspx)  
 |  | | |   
 ---|---|---  
 | 
@@ -116,8 +116,8 @@ Mobile Number: 
 
 lblMessage
 
-[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/forex-trading-broker.aspx)  
-[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/forex-partners.aspx)  
-[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/metatrader-download-refer-a-lead.aspx)  
+[](https://web.archive.org/web/20121205091749id_/http%3A//www.axitrader.com/forex-trading-broker.aspx)  
+[](https://web.archive.org/web/20121205091749id_/http%3A//www.axitrader.com/forex-partners.aspx)  
+[](https://web.archive.org/web/20121205091749id_/http%3A//www.axitrader.com/metatrader-download-refer-a-lead.aspx)  
   
-AxiCorp Financial Services Pty Ltd is regulated in Australia by ASIC. Australian Financial Services Licence No: 318232. view our [privacy policy](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/privacy-policy.aspx) and [disclaimer](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/P-Disclaimer.htm).
+AxiCorp Financial Services Pty Ltd is regulated in Australia by ASIC. Australian Financial Services Licence No: 318232. view our [privacy policy](https://web.archive.org/web/20121205091749id_/http%3A//www.axitrader.com/privacy-policy.aspx) and [disclaimer](https://web.archive.org/web/20121205091749id_/http%3A//www.axitrader.com/P-Disclaimer.htm).
