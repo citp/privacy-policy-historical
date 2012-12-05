@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nippon.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606065911id_/http%3A//nippon.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nippon.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205201328id_/http%3A//www.nippon.com/en/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Nippon.com
 
