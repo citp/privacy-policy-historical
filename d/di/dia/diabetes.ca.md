@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabetes.ca privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608150110id_/http%3A//www.diabetes.ca/about-us/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetes.ca privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205135319id_/http%3A//diabetes.ca/about-us/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
