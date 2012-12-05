@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pchealthboost.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615212857id_/http%3A//www.pchealthboost.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchealthboost.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205082558id_/http%3A//www.pchealthboost.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | PCHealthBoost.com
 
