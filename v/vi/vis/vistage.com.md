@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vistage.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512044637id_/http%3A//www.vistage.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistage.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205084803id_/http%3A//www.vistage.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Executive Coaching & Business Leadership Coaching - Privacy Policy
+# Privacy Policy | Vistage
 
 ## What This Privacy Policy Covers
 
