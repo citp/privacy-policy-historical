@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the esyndicat.com privacy policy that was archived on 2012-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625120615id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the esyndicat.com privacy policy that was archived on 2012-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121205060947id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/html"><head>
 	<base href="http://www.esyndicat.com/">
 	<title>Privacy Policy :: eSyndiCat Directory Software, Directory Script, Business Directory Software, Link Bid Script</title>
 	<meta name="author" content="Intelliants LLC">
@@ -35,7 +35,7 @@
 
 	
 	
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.esyndicat.com/js/jquery/jquery.js"></script>
+	<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.esyndicat.com/js/jquery/jquery.js"></script>
 	<script type="text/javascript" src="http://www.esyndicat.com/js/jquery/plugins/jqueryui/jquery-ui-1.8.10.custom.min.js"></script>
 	<script type="text/javascript" src="http://www.esyndicat.com/js/bootstrap2/js/bootstrap.min.js"></script>
 	
@@ -66,6 +66,26 @@
 
 
 
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+
+    !function(d,s,id)
+	{
+		var js,fjs=d.getElementsByTagName(s)[0];
+		if(!d.getElementById(id))
+		{
+			js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);
+		}
+	}(document,"script","twitter-wjs");
+	</script>
+
 	<!-- Main hero unit for a primary marketing message or call to action -->
 		<div class="wrapper-header">
 		<div class="wrapper-inner-page">
@@ -88,11 +108,28 @@
 <div class="breadcrumb-outer">
 	<div class="triangle-up">
 <div class="container">
-	<ul class="breadcrumb"><i class="icon-home icon-white"></i>
-						<li><a href="/">Home</a> <span class="divider">→</span></li>
-								<li><a href="/support.html">Support</a> <span class="divider">→</span></li>
-								<li class="active">Privacy Policy</li>
-				</ul>
+
+	<!-- Social Icons start-->
+			<ul class="socialicons">
+			<li><div class="g-plusone" data-size="medium" data-annotation="none"></div></li>
+			<li><div class="fb-like" data-send="false" data-layout="button_count" data-show-faces="false"></div></li>
+            <li><a href="https://twitter.com/share" class="twitter-share-button" data-via="twitterapi" data-lang="en">Tweet</a></li>
+		</ul>
+		<!-- Social Icons end -->
+
+	<div xmlns:v="http://rdf.data-vocabulary.org/#">
+		<ul class="breadcrumb">
+			<li><i class="icon-home icon-white"></i></li>
+												<li typeof="v:Breadcrumb">
+						<a href="/" rel="v:url" property="v:title">Home</a> <span class="divider">→</span>
+					</li>
+																<li typeof="v:Breadcrumb">
+						<a href="/support.html" rel="v:url" property="v:title">Support</a> <span class="divider">→</span>
+					</li>
+																<li class="active" typeof="v:Breadcrumb">Privacy Policy</li>
+										</ul>
+	</div>
+
 	</div>
 </div>
 </div>
@@ -126,14 +163,22 @@
 				<div class="nav-collapse">
 					<ul class="nav">
 																					<li><a href="/">Home</a></li>
-																												<li><a href="/product.html">Product</a></li>
+																											<li class="dropdown">
+								<a class="dropdown-toggle" data-toggle="dropdown" href="/product.html">Product<b class="arrow-down"></b></a>
+								<ul class="dropdown-menu">
+																	<li><a href="/product/plugins.html"><span>– Plugins</span></a></li>
+																	<li><a href="/product/templates.html"><span>– Templates</span></a></li>
+																	<li><a href="http://dev.esyndicat.com/"><span class="last">– Issue Tracker</span></a></li>
+																</ul>
+							</li>
 																												<li><a href="/downloads/">Downloads</a></li>
 																											<li class="active dropdown">
 								<a class="dropdown-toggle" data-toggle="dropdown" href="/support.html">Support<b class="arrow-down"></b></a>
 								<ul class="dropdown-menu">
 																	<li><a href="/contact-us.html"><span>– Contact Us</span></a></li>
 																	<li><a href="/forum/"><span>– User Forums</span></a></li>
-																	<li><a href="/desk/"><span class="last">– Helpdesk</span></a></li>
+																	<li><a href="/desk/"><span>– Helpdesk</span></a></li>
+																	<li><a href="http://dev.esyndicat.com/"><span class="last">– Issue Tracker</span></a></li>
 																</ul>
 							</li>
 																											<li class="dropdown">
@@ -158,6 +203,8 @@
 	<div class="container page-content ">
 		<div class="row show-grid">
 			<div class="span12">
+
+				
 				
 
 <h2>Customer Privacy</h2>
@@ -181,13 +228,17 @@
 	
 						<div class="block testimonials">
 	<h2>Testimonials</h2>
-	<p class="side">A very nice script. All of you are very much welcome to view my running website made with this script.</p>
-	<p class="author">— Debolina  Mukherjee</p>
+	<p class="side">It is clear in use and has a lot of helpful information.</p>
+	<p class="author">— Alekperov Ilya</p>
 	<div style="text-align: right;">
 		<a href="/testimonials/" style="color: #F00;">Read More...</a> | <a href="/testimonials/add/" style="color: #498542; font-weight: bold;">Add Yours</a>
 	</div>
 </div>
-					</div>
+			
+	<div style="text-align: center;">
+		<div class="fb-like-box" data-href="http://www.facebook.com/intelliants/" data-width="182" data-height="300" data-show-faces="true" data-border-color="#FFF" data-stream="false" data-header="false"></div>
+	</div>
+		</div>
 	</div>
 			</div>
 				
@@ -200,7 +251,7 @@
 							<!-- socials start -->
 							<div class="socials">
 								<ul>
-									<li><a href="http://www.facebook.com/group.php?gid=269945228123" target="_blank"><img src="templates/en/v41/img/facebook.png" alt="Become a fan on Facebook"></a></li>
+									<li><a href="http://www.facebook.com/Intelliants" target="_blank"><img src="templates/en/v41/img/facebook.png" alt="Become a fan on Facebook"></a></li>
 									<li><a href="https://twitter.com/eSyndiCat/" target="_blank"><img src="templates/en/v41/img/twitter.png" alt="follow us on twitter"></a></li>
 									<li><a href="https://plus.google.com/102500660503219569194/" target="_blank"><img src="templates/en/v41/img/gplus.png" alt="join g+ circle"></a></li>
 								</ul>
@@ -261,8 +312,8 @@
 								<div class="span4 testimonials">
 									<!-- testimonials start -->
 									<h2>Testimonials</h2>
-									<p>A very nice script. All of you are very much welcome to view my running website made with this script.</p>
-									<p class="author">— Debolina  Mukherjee</p>
+									<p>It is clear in use and has a lot of helpful information.</p>
+									<p class="author">— Alekperov Ilya</p>
 									<!-- testimonials end -->
 								</div>
 							</div>
@@ -277,7 +328,7 @@
 <footer>
 	<div class="container">
 		<div class="row show-grid">
-			<div class="span13 footer-menu">
+			<div class="span11 footer-menu">
 				<p>
 <a href="/testimonials/">Testimonials</a>
  &nbsp;·&nbsp; <a href="/docs/">Documentation</a>
@@ -289,8 +340,8 @@
  &nbsp;·&nbsp; <a href="/contact-us.html">Contact Us</a>
 				</p>
 			</div>
-			<div class="span3 footer-menu">
-				<div class="gplus">
+			<div class="span5 footer-menu">
+				<div class="gplus" style="float: right;">
 					<!-- Place this tag where you want the +1 button to render -->
 					<g:plusone></g:plusone>
 				</div>
@@ -300,6 +351,16 @@
 			</div>
 			<div class="span8">
 				<p>Works on <a href="http://www.subrion.com/" title="Open Source PHP CMS" target="_blank">Subrion Open Source CMS</a></p>
+			</div>
+		</div>
+	</div>
+
+	<div class="container">
+		<div class="row">
+			<div class="span16 veryfooter">
+				<a href="/free-directory-script.html">Free Directory Script</a>&nbsp;·&nbsp;<a href="/free-directory-script.html">Free Directory Software</a>&nbsp;·
+				<a href="/product/article-directory-software.html">Article Directory Script</a>&nbsp;·&nbsp;<a href="/product/bidding-directory-script.html">Bidding Directory Software</a>&nbsp;·
+				<a href="/product/business-directory-software.html">Business Directory Software</a>&nbsp;·&nbsp;<a href="/product/church-directory-software.html">Church Directory Software</a>
 			</div>
 		</div>
 	</div>
@@ -336,7 +397,6 @@
 		</form>
 	</div>
 </div>
-
 
 
 </body></html>
