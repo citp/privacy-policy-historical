@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thoughtcatalog.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607074919id_/http%3A//thoughtcatalog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoughtcatalog.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205153300id_/http%3A//thoughtcatalog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Thought Catalog
 
@@ -8,11 +8,11 @@ Thank you for visiting Thought Catalog, which is owned and operated by The Thoug
 
 When you visit our Site, send us an email, submit an article, or otherwise communicate with us, we may collect personal information that you voluntarily provide to us.  We may also collect personal information from third parties, including without limitation, our business partners.  Personal information is information through which you can be identified such as your name, email address, and telephone number.  In addition, we may use (or authorize third parties to use) web beacons, cookies, pixel tags, and other technologies (“Tracking Technologies”) at our Site to collect information about you, your online behavior, your computer, or your mobile device.  Such information may include, without limitation, the type of browser and operating system you are using, the domain name of your Internet service provider, your geographic location, the pages you visit, how long you visit each page, the unique number assigned to your server or Internet connection, etc.
 
-You can change your some of your privacy preferences through your browser.  For example, you can delete browser cookies from your computer or set your browser to reject browser cookies.  However, doing so may limit some functionalities of our Site.  Also, blocking or deleting browser cookies may not block or delete other types of cookies including flash cookies.  For additional information about browser privacy preferences, please consult the “Help” section of your browser.
+You can change some of your privacy preferences through your browser.  For example, you can delete browser cookies from your computer or set your browser to reject browser cookies.  However, doing so may limit some functionalities of our Site.  Also, blocking or deleting browser cookies may not block or delete other types of cookies including flash cookies.  For additional information about browser privacy preferences, please consult the “Help” section of your browser.
 
 **Use of Information We Collect**
 
-We may use the information we collect for our own marketing and non-marketing purposes.  For example, your personal information may be used to alert you to upcoming articles, features, or events.  We may also share your personal information with third parties for marketing and non-marketing purposes.  For example, personal information may be shared with our affiliates and business partners for joint marketing purposes or for their own marketing purposes.  We may also merge personal information with non-personal information and with information we may obtain from other sources.
+We may use the information we collect for our own marketing and non-marketing purposes. For example, your personal information may be used to alert you to upcoming articles, features, or events. We may also share your personal and non-personal information with third parties for marketing and non-marketing purposes. For example, personal information may be shared with our affiliates and business partners for joint marketing purposes or for their own marketing purposes. We may also license or sell non-personal information to third parties for marketing and non-marketing purposes. In addition, we may merge personal information with non-personal information and with information we may obtain from other sources.
 
 If you do not want us to use or share your personal information for marketing purposes, you may opt-out in accordance with the “How to Opt-Out” section below.  Please note that even if you opt-out, we may still use or share your personal information for non-marketing purposes such as fulfilling your requests, responding to your inquiries, etc.
 
@@ -50,4 +50,4 @@ Our Site is maintained on servers located in the United States, which may not of
 
 We may revise this privacy policy from time-to-time in our sole discretion.  Please visit this Site and review our privacy policy periodically for changes.  By continuing to access or use our Site after changes become effective, you agree to be bound by the terms of the revised privacy policy.
 
-Effective: May 4, 2012 
+Effective: August 3, 2012 
