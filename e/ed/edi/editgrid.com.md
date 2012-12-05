@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the editgrid.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623231558id_/http%3A//www.editgrid.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the editgrid.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205071725id_/http%3A//www.editgrid.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Spreadsheets - EditGrid
 
