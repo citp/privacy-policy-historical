@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenworldinvestor.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605030855id_/http%3A//www.greenworldinvestor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenworldinvestor.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205085613id_/http%3A//www.greenworldinvestor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Green World Investor
 
@@ -6,7 +6,7 @@ Greenworldinvestor (Greenworldinvestor ) is committed to protecting your privacy
 
 This Privacy Policy describes the types of information collected about you when you visit our site, how your information is protected, how your information may be used and when it may be disclosed.
 
-**Scope of Privacy Policy**
+ **Scope of Privacy Policy**
 
 This Privacy Policy applies to information, including contact information, collected about you by Greenworldinvestor .  This Privacy Policy does not cover any information collected through any other web site that we have may linked to within our content.  We are not responsible for the privacy practices of those sites, and we recommend that you visit the privacy policies of each web site that you visit.
 
@@ -64,7 +64,7 @@ Greenworldinvestor is committed to protecting your privacy.   We want you to u
   * In some cases, the media or legislator may request to contact you and interview you due to interest in your story.   If so, you would be notified with details and we will release only the approved information and with your consent.
   * Authorized third-parties service providers.  We do use outside consultants or third party vendors to manage various services or maintenance on Greenworldinvestor.   These services may be customer service, email, marketing, analysis, and various other services.  These third parties are allowed to use your contact information to deliver the service that we require.
   * When you choose to enter a contest or promotion, your personal information will be shared with the sponsors and third parties who handled the contest/ promotion.   Your information will also be disclosed as required by law on a winners list.   Also, when you enter a contest or promotion, you agreed to be bound by the rules of that contest or promotion.   The sponsor may require your personal information.
-  * _Legal._ We may be required to disclose information about our users, including contact information in response to subpoenas, court orders, legal process, and other law enforcement measures.
+  *  _Legal._ We may be required to disclose information about our users, including contact information in response to subpoenas, court orders, legal process, and other law enforcement measures.
   * Mergers and Sale.  In the future, we may share your information with the new owners in the case of a sale or a merger of Greenworldinvestor to another corporation.
 
 
