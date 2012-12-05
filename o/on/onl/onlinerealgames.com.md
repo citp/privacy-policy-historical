@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinerealgames.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510064436id_/http%3A//www.onlinerealgames.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinerealgames.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205094934id_/http%3A//www.onlinerealgames.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Games at Onlinerealgames.com - Play Free Online Games
+# Privacy Policy at onlinerealgames.com
 
 **1\. What personal information is collected ?**
 
@@ -22,11 +22,11 @@
 
 * *You may opt-out of providing any information by simply choosing not to complete the form requesting the information, and hence choosing not to use that particular service.
 
-**2\. What other information is stored?**
+ **2\. What other information is stored?**
 
-We generate and store logs indicating usage of our site and activity in our games. We store 'save game' and 'game settings' information to enable us to provide a better games service in which your activities and achievements are remembered in the game. 
+We generate and store logs indicating usage of our site and activity in our games. We store 'save game' and 'game settings' information to enable us to provide a better games service in which your activities and achievements are remembered in the game.
 
-**3\. What happens to the information provided/collected?**
+ **3\. What happens to the information provided/collected?**
 
 The information may be used:
 
@@ -62,45 +62,45 @@ The information may be used:
 
 **5\. Prohibition of Porn Images/ Videos and False information**
 
-We strictly prohibit any uploads of Pornographic Images/ Videos and false information about a person other than the user. We do not hold any responsibility if any user uploads videos/ images/ ring tones/ data/ Virus/ Threat files that belongs to others. 
+We strictly prohibit any uploads of Pornographic Images/ Videos and false information about a person other than the user. We do not hold any responsibility if any user uploads videos/ images/ ring tones/ data/ Virus/ Threat files that belongs to others.
 
 **6\. Safeguarding your personally identifiable information**
 
-onlinerealgames.com will only collect personally identifiable information to the extent deemed reasonably necessary to serve our legitimate business purposes, and onlinerealgames.com will maintain appropriate safeguards to ensure the security, integrity and privacy of the information you have provided. In addition, it will take reasonable steps to assure that third parties to whom. onlinerealgames.com transfer any data will provide sufficient protection of that personal information. 
+onlinerealgames.com will only collect personally identifiable information to the extent deemed reasonably necessary to serve our legitimate business purposes, and onlinerealgames.com will maintain appropriate safeguards to ensure the security, integrity and privacy of the information you have provided. In addition, it will take reasonable steps to assure that third parties to whom. onlinerealgames.com transfer any data will provide sufficient protection of that personal information.
 
 **7\. Archived Information**
 
-onlinerealgames.com maintains archives of its web logs, database, and other systems and information. Please note that it is possible some of this information may remain archived after onlinerealgames.com deletes the information from its active database (see the Web Logs paragraph above). onlinerealgames.com maintains archives for disaster recovery, legal and other non-marketing purposes. 
+onlinerealgames.com maintains archives of its web logs, database, and other systems and information. Please note that it is possible some of this information may remain archived after onlinerealgames.com deletes the information from its active database (see the Web Logs paragraph above). onlinerealgames.com maintains archives for disaster recovery, legal and other non-marketing purposes.
 
 **8\. Update Your Profile**
 
-You can help onlinerealgames.com maintain the accuracy of your profile by notifying us when you change your name (only for games), zip code, and country of residence, age range, or e-mail address. If at any time you wish to update your information or stop receiving communication from onlinerealgames.com, sign in to the applicable onlinerealgames.com site and then select 'update your profile' to change your newsletter preferences. 
+You can help onlinerealgames.com maintain the accuracy of your profile by notifying us when you change your name (only for games), zip code, and country of residence, age range, or e-mail address. If at any time you wish to update your information or stop receiving communication from onlinerealgames.com, sign in to the applicable onlinerealgames.com site and then select 'update your profile' to change your newsletter preferences.
 
 **9\. Acceptance of Privacy Policy**
 
-Your use of the onlinerealgames.com site, including any dispute concerning privacy, is subject to this Privacy Policy. By using the onlinerealgames.com site, you are accepting the practices set out in this Privacy Policy. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Your continued use of any portion of the onlinerealgames.com Site following posting of the updated Privacy Policy will constitute your acceptance of the changes. 
+Your use of the onlinerealgames.com site, including any dispute concerning privacy, is subject to this Privacy Policy. By using the onlinerealgames.com site, you are accepting the practices set out in this Privacy Policy. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Your continued use of any portion of the onlinerealgames.com Site following posting of the updated Privacy Policy will constitute your acceptance of the changes.
 
 **10\. More information about cookies**
 
-When you enter a site that utilises "cookies" your computer will automatically be issued with a cookie, provided your internet browser is set to accept them (most are by default). Cookies are text files that identify your computer to our server. Cookies in themselves do not identify the individual user, just the computer used. Cookies themselves only record those areas of the site that have been visited by the computer in question, and for how long. Users have the opportunity to set their computers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that certain personalised services cannot then be provided to that user. We do not link the information. We just store in cookies to any personally identifiable information you submit while on our site. You can also disable the cookies from your browser and delete all cookies currently stored on your computer. For example, if you are using Internet Explorer, select "Tools > Internet Options" and then review your privacy settings or select "delete cookies".This may, however, prevent you from taking full advantage of the services that this website has to offer. 
+When you enter a site that utilises "cookies" your computer will automatically be issued with a cookie, provided your internet browser is set to accept them (most are by default). Cookies are text files that identify your computer to our server. Cookies in themselves do not identify the individual user, just the computer used. Cookies themselves only record those areas of the site that have been visited by the computer in question, and for how long. Users have the opportunity to set their computers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that certain personalised services cannot then be provided to that user. We do not link the information. We just store in cookies to any personally identifiable information you submit while on our site. You can also disable the cookies from your browser and delete all cookies currently stored on your computer. For example, if you are using Internet Explorer, select "Tools > Internet Options" and then review your privacy settings or select "delete cookies".This may, however, prevent you from taking full advantage of the services that this website has to offer.
 
 **11\. Sugessions/complements/comments**
 
-We warmly welcome the sugessions, complements and comments relating the website readable content, graphics, features, games etc. from the users 
+We warmly welcome the sugessions, complements and comments relating the website readable content, graphics, features, games etc. from the users
 
 **12\. Safeguarding your personally exclusive information**
 
-Onlinerealgames.com will only collect personally identifiable information to the extent deemed reasonably necessary to serve our legitimate business purposes, and Onlinerealgames.com will maintain appropriate safeguards to ensure the security, integrity and privacy of the information you have provided. In addition, it will take reasonable steps to assure that third parties to whom Onlinerealgames.com transfer any data will provide sufficient protection of that personal information. 
+Onlinerealgames.com will only collect personally identifiable information to the extent deemed reasonably necessary to serve our legitimate business purposes, and Onlinerealgames.com will maintain appropriate safeguards to ensure the security, integrity and privacy of the information you have provided. In addition, it will take reasonable steps to assure that third parties to whom Onlinerealgames.com transfer any data will provide sufficient protection of that personal information.
 
 **13\. Links to other websites**
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. We have no control over them. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Clicking on these links may also result in virus attacks in your computer system. Please check these policies before you submit any personal data to these websites. However we recommend the users to load an updated anti-virus protection in the systems for safety. 
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. We have no control over them. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Clicking on these links may also result in virus attacks in your computer system. Please check these policies before you submit any personal data to these websites. However we recommend the users to load an updated anti-virus protection in the systems for safety.
 
 **14\. Ownership Changes**
 
-If the ownership of all or substantially all of the Onlinerealgames business, or individual business units owned by Onlinerealgames Ltd., were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the provisions of the current privacy policy. 
+If the ownership of all or substantially all of the Onlinerealgames business, or individual business units owned by Onlinerealgames Ltd., were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the provisions of the current privacy policy.
 
-**15\. Security & Return Policy **
+**15\. Security & Return Policy**
 
 Onlinerealgames do not store payment information on customers shopping on our website. We use highly secured third party payment services to protect the payment transactions and as such all information regarding the concrete method of payment, credit card info etc. is stored with the third party provides such as Paypal,CCAvenue etc.  
-Please note that all sale and subscriptions on our website are final. Therefore you cannot return our products and we do not offer any form of refund as what you subscribe and pay for is access to Onlinerealgames.com and there hereafter offered services and content, used or not. 
+Please note that all sale and subscriptions on our website are final. Therefore you cannot return our products and we do not offer any form of refund as what you subscribe and pay for is access to Onlinerealgames.com and there hereafter offered services and content, used or not.
