@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seomall.net privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624102459id_/http%3A//www.seomall.net%3Fp%3DPrivacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seomall.net privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205053859id_/http%3A//seomall.net%3Fp%3DPrivacy-Policy) for the most accurate reproduction.*
 
 # SeoMall.net - The #1 Marketplace for buying quality SEO services for affordable prices.
 
