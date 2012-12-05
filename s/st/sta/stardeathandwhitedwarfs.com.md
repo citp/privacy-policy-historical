@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardeathandwhitedwarfs.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628052046id_/http%3A//warnerbrosrecords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardeathandwhitedwarfs.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205092706id_/http%3A//warnerbrosrecords.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Warner Bros Records
 
