@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ktar.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606133858id_/http%3A//www.ktar.com%3Fsid%3D1086807%26nid%3D159) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktar.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205130837id_/http%3A//ktar.com/63/1535710/PRIVACY-STATEMENT) for the most accurate reproduction.*
 
-# PRIVACY STATEMENT - Bios - KTAR.com
+# PRIVACY STATEMENT - Misc News - KTAR.com
 
 (Last revised January 2, 2009) 
 
@@ -12,19 +12,13 @@
 
 **Personally Identifiable Information.** Certain features available at the Site will require you to submit personally identifiable information about yourself ("Personal Information") as a condition of participation. Some of the features may be offered by Operator, while others may be offered by third parties. (For example, you may be required to submit Personal Information in order to enter a contest conducted by Operator, or you may be required to submit Personal Information in order to receive news updates by email from a third party news source.) In addition, Operator may ask you to provide Personal Information for purposes unrelated to the use of a feature at the Site. IN ALL CASES, YOU CAN ALWAYS REFUSE TO PROVIDE PERSONAL INFORMATION, BUT THIS MAY RESULT IN DECREASED FUNCTIONALITY OF THE SITE FOR YOU AND LIMIT YOUR ABILITY TO RECEIVE INFORMATION ABOUT PRODUCTS OR SERVICES THAT MAY BE OF PARTICULAR INTEREST. In general, the use of Personal Information you choose to submit to a third party in connection with your use of the Site will be controlled by the privacy practices of the third party and not this Statement. 
 
-**Aggregate Information/Cookies.** Operator and third parties with features at the Site may collect aggregate information through the use of "cookies" or by other electronic means. In general, a cookie is a small amount of data sent to your browser from a web server and stored on your computer's hard drive. With most browsers or other software, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. You can refer to the instructions for your browser to learn more about these functions. If you choose to reject cookies, the Site likely will not operate as efficiently for you. 
+**Aggregate Information/Cookies.** Operator and third parties with features at the Site may collect aggregate information through the use of "cookies" or by other electronic means. In general, a cookie is a small amount of data sent to your browser from a web server and stored on your computer\'s hard drive. With most browsers or other software, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. You can refer to the instructions for your browser to learn more about these functions. If you choose to reject cookies, the Site likely will not operate as efficiently for you. 
 
 **Ownership and Use of Information.** ANY INFORMATION COLLECTED BY OPERATOR IN CONNECTION WITH YOUR USE OF THE SITE - REGARDLESS OF WHETHER CHARACTERIZED AS PERSONAL INFORMATION OR AGGREGATE - WILL BELONG EXCLUSIVELY TO OPERATOR AND MAY BE USED, MAINTAINED, UPDATED, DISCLOSED OR SOLD BY OPERATOR AS DESIRED IN ITS SOLE DISCRETION. 
 
 **Forums.** The Site may include forums (such as message boards and chat rooms) that enable users to communicate with each other. Operator is under no obligation to moderate or edit the forums and will not be responsible for the content or use of any material posted on any forum at the Site. Operator retains the right to delete at any time and for any or no reason any material posted at the Site. 
 
 **Contact Information.** Questions concerning the Statement or the Site, including any request to review or change your Personal Information, should be directed to webmaster@ktar.com. 
-
-**share this story:**
-
-[](https://web.archive.org/templates/v2_email_article.php?lastpage=http%3A%2F%2Fwww.ktar.com%2F%3Fsid%3D1086807%26nid%3D159)
-
-[](http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.ktar.com%2F%3Fsid%3D1086807%26nid%3D159&t=)
 
   
 
