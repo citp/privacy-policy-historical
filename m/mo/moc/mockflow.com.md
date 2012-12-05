@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mockflow.com privacy policy that was archived on 2012-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120422112352id_/http%3A//www.mockflow.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mockflow.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205102448id_/http%3A//www.mockflow.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - MockFlow
 
-Privacy Policy   Last Rev: September 1, 2009  
+Privacy Policy   Last Rev: September 20, 2012  
 
 
 At A Produle Systems, we recognize that privacy is important and we are committed to protecting it. This privacy policy applies to your account information and the data created using this service. If you need more detailed information about our privacy practices use our contact form http://www.mockflow.com/contact. 
@@ -11,7 +11,7 @@ At A Produle Systems, we recognize that privacy is important and we are committe
 
 **Account** : To use the MockFlow service, user should register their account by providing the following details: (1) Name (2) E-mail which is your Username (3) Password. We store your password data in encrypted form. 
 
-**Cookies** : When you click "Remember me" in Login form at app.mockflow.com, we store your account information in encrypted form in a small file containing a string of characters - to your computer that uniquely identifies your browser. 
+**Cookies** : When you click "Remember me" in Login form at any of MockFlow's web services, we store your account information in encrypted form in a small file containing a string of characters - to your computer that uniquely identifies your browser. 
 
 ## Your E-Mail is kept private
 
@@ -19,7 +19,7 @@ The only key personal information that we store about you is your E-Mail address
 
 ## No Newsletter Policy
 
-We consider newsletters as Spam and MockFlow does not asks it users to subscribe to newsletters. For any up-to-date information about our services visit the site. 
+We consider newsletters as Spam and MockFlow does not asks its users to subscribe to newsletters. For any up-to-date information about our services visit the site. 
 
 ## Information security
 
