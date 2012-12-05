@@ -1,57 +1,1376 @@
-<!--The following is the downloaded HTML source of the couponalert.com privacy policy that was archived on 2012-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531235016id_/http%3A//www.couponalert.com/coupons/privacyPolicy.jhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the couponalert.com privacy policy that was archived on 2012-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121205051331id_/http%3A//www.couponalert.com/coupons/privacyPolicy.jhtml) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<title>CouponAlert</title>
-	<link rel="shortcut icon" href="http://ak.imgfarm.com/images/couponalert/favicon.ico"> 
-	<link rel="stylesheet" type="text/css" href="/coupons/css/common.css">
-
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 	
+					<meta property="og:type" content="article">
+	<meta property="og:image" content="http://ak.couponalert.com/coupons/static/CA/img/logo_facebook-b3ee03519a189eb0c047bc794f0f75d2.jpg">
+	<meta property="og:site_name" content="Coupon Alert™">
 
-	<script type="text/javascript" src="/coupons/js/common.js"></script>
-	<script type="text/javascript" src="/coupons/js/json.js"></script>
-	<script type="text/javascript" src="http://ak.toolbar.mywebsearch.com/one-toolbaredits/toolbar.js"></script>
-	<script type="text/javascript" src="http://utm2.couponalert.com/__utm.js"></script>
-	
-</head>
-
-<body onload="setDate()">
-	<div id="page">
-		<div id="header">
-	<div class="floatLeft">
-		<div class="logo" onmousedown="window.location='/coupons/index.jhtml';"></div>
-		<div class="headerText"></div>
-	</div>
-	
-
-<div id="main-search">
-	<div class="searchTitle"></div>
-	<div class="searchInputContainer floatLeft">
-		<form id="searchForm" action="/coupons/search.jhtml">
 			
+	<title>Coupon Alert™ | Privacy Policy</title>	
+	<meta name="description" content="Find tons of coupons and unbeatable bargains on the brands you know and love. We're your one-stop shop for savings worth sharing!">
+	<meta property="og:title" content="Coupon Alert™ | Privacy Policy">
+	<meta property="og:description" content="Find tons of coupons and unbeatable bargains on the brands you know and love. We're your one-stop shop for savings worth sharing!">
+	
+	<link rel="canonical" href="http://www.couponalert.com/coupons/privacyPolicy.jhtml">
+	<meta property="og:url" content="http://www.couponalert.com/coupons/privacyPolicy.jhtml">
+
+	
+		
+		
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+		var appBaseUrl = "http://www.couponalert.com/coupons";
+		var appStaticBaseUrl = "http://ak.couponalert.com/coupons";
+		
+					</script>
+
+		
+	<link rel="icon" href="http://ak.couponalert.com/coupons/static/CA/img/favicon/favicon-bbc6ca677ef360976e3cf70e55ca977d.ico">
+	<link rel="shortcut icon" href="http://ak.couponalert.com/coupons/static/CA/img/favicon/favicon-bbc6ca677ef360976e3cf70e55ca977d.ico">
+
+    		
+					<link rel="stylesheet" type="text/css" href="http://ak.couponalert.com/coupons/static/CA/css/coupons-bundle-compressed-261d3b207435517bf3c0a69de095b32d.css">
+		
+	    	
+	
+    
 			
-			<div class="inputWrapper">
-				<input name="searchQuery" id="searchInput" value="">
+					<script type="text/javascript" src="http://ak.couponalert.com/coupons/static/CA/js/coupons-bundle-compressed-59942ebb10fc79f80c204b1f8105366.js"></script>
+		
+    
+		
+<script type="text/javascript">
+
+		CA.staticBaseURL = 'http://ak.couponalert.com/coupons/';
+		CA.BASE_URL = 'http://www.couponalert.com/coupons/';
+					CA.debugJS = false;
+				
+		// Load Coupon by ID if present
+		var couponId = CA.Utils.getUrlParameterValue('couponId');
+	
+		var surveyMonkeyConfigObj = {
+			url : "https://www.research.net/s/DZJ25WH", //couponAlert survey url
+			sampleSize : "20", //sample size (20% of traffic)
+			maxTries : "2", //max number of tries
+			retryDelay : "5d", //retry delay
+			minAccessesBeforeDisplay : 4 //min number of accesses to start displaying the survey
+		};
+		
+		CA.init((couponId>0), surveyMonkeyConfigObj);
+		
+	    </script>
+		<script type="text/javascript">
+// JQuery ready function
+$(function(){
+    // custom initializations.
+    			CA.numCouponsToLoad = "20";
+	CA.lazyLoadDelay = "1000";
+	CA.descriptionLength = "160";
+	CA.lastUpdatedDateForPP_TOS_EULA = "October 16, 2012";
+	
+	CA.Reporting.init();
+			CA.Search.init('');
+		
+	CA.Rest.init(appBaseUrl);
+	
+	CA.jQueryReadyInit();
+		
+	// Load Coupon by ID if present
+	var couponId = CA.Utils.getUrlParameterValue('couponId');
+	if (couponId > 0) {
+		var myCoupon = new CA.Coupon({id: couponId+".json"});
+		myCoupon.fetch({
+			success: function(){
+				CA.trigger(CA.EVENTS.VIEW_COUPON, {data: myCoupon});
+			},
+			error: function(){
+				CA.trigger(CA.EVENTS.VIEW_EXPIRED_COUPON);
+			}
+		});
+	}
+		
+				CA.setPP_TOS_EULADates();
+
+		
+	CA.initAds();
+	//copy ad to the right place
+
+	});
+</script>	
+		
+					<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-2131601-24']);
+		_gaq.push(['_trackPageview']);
+		
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+
+	</head>
+
+<body class="">
+	<div id="fb-root"></div>
+	
+				<!-- Top Banner -->
+	<div id="myBanner" class="top-banner">
+		<div class="shelfLeft"></div>
+		
+		
+		<div class="column-header center">
+			<div class="left logo sprite" onclick="window.location='http://www.couponalert.com/coupons/'">
 			</div>
-		</form>
+			<div class="shoppingBasket"></div>
+			<div class="top-right-features right">
+				<div class="right" style="height: 33px; visibility:hidden;">
+					<div class="user-panel-left sprite left"></div>
+					<div class="user-panel sprite left">
+						<div class="inner-user-left sprite">
+						</div>
+						
+						<div class="inner-user-right sprite">
+						</div>
+					</div>
+					<div class="user-panel-right sprite left"></div>
+				</div>
+				<div class="search-wrapper sprite right">
+																	<input type="text" class="search-input left">
+					<div class="search-button sprite left"></div>
+				</div>				
+			</div>		
+		</div>	
+			<div class="shelfRight"></div>		
+		
+		
 	</div>
-	<div class="searchButton btn floatLeft"></div>
-	<div class="searchBoxReflection floatLeft"></div>
-	<div class="searchButtonReflection floatLeft"></div>
 	
-</div>
+		<!-- Menu Bar -->
+	<div class="menu-bar">
+		<div class="column center">
+			<div class="menu-bar-wrapper">
+				<div class="separator sprite left"></div>
+				<div class="menu-button category flyout left"><a href="http://www.couponalert.com/coupons/categories"><span class="textSpan">Category</span><div class="down-arrow"></div></a>
+					<div class="categories-header">
+						<div class="categories-drop-down-menu">
+							<div class="category-item-list-wrapper">
+								<ul class="category-item-list">
+																			<li class="clear category-item" data-category="Apparel &amp; Accessories"><a data-category="Apparel &amp; Accessories" href="http://www.couponalert.com/coupons/category/Apparel-%2526-Accessories">Apparel &amp; Accessories (2031)</a><div class="sprite horizontal-arrow"></div>																						
+										</li>						
+																			<li class="clear category-item" data-category="Beauty &amp; Personal Care"><a data-category="Beauty &amp; Personal Care" href="http://www.couponalert.com/coupons/category/Beauty-%2526-Personal-Care">Beauty &amp; Personal Care (430)</a><div class="sprite horizontal-arrow"></div>																						
+										</li>						
+																			<li class="clear category-item" data-category="Electronics"><a data-category="Electronics" href="http://www.couponalert.com/coupons/category/Electronics">Electronics (717)</a><div class="sprite horizontal-arrow"></div>																						
+										</li>						
+																			<li class="clear category-item" data-category="Food &amp; Beverage"><a data-category="Food &amp; Beverage" href="http://www.couponalert.com/coupons/category/Food-%2526-Beverage">Food &amp; Beverage (539)</a><div class="sprite horizontal-arrow"></div>																						
+										</li>						
+																			<li class="clear category-item" data-category="Groceries"><a data-category="Groceries" href="http://www.couponalert.com/coupons/category/Groceries">Groceries (168)</a><div class="sprite horizontal-arrow"></div>																						
+										</li>						
+																			<li class="clear category-item" data-category="Health &amp; Medicine"><a data-category="Health &amp; Medicine" href="http://www.couponalert.com/coupons/category/Health-%2526-Medicine">Health &amp; Medicine (534)</a><div class="sprite horizontal-arrow"></div>																						
+										</li>						
+																			<li class="clear category-item" data-category="Home &amp; Garden"><a data-category="Home &amp; Garden" href="http://www.couponalert.com/coupons/category/Home-%2526-Garden">Home &amp; Garden (1990)</a><div class="sprite horizontal-arrow"></div>																						
+										</li>						
+																			<li class="clear category-item" data-category="Kids &amp; Baby"><a data-category="Kids &amp; Baby" href="http://www.couponalert.com/coupons/category/Kids-%2526-Baby">Kids &amp; Baby (368)</a><div class="sprite horizontal-arrow"></div>																						
+										</li>						
+																			<li class="clear category-item" data-category="Sports &amp; Recreation"><a data-category="Sports &amp; Recreation" href="http://www.couponalert.com/coupons/category/Sports-%2526-Recreation">Sports &amp; Recreation (575)</a><div class="sprite horizontal-arrow"></div>																						
+										</li>						
+																			<li class="clear category-item" data-category="Travel"><a data-category="Travel" href="http://www.couponalert.com/coupons/category/Travel">Travel (362)</a><div class="sprite horizontal-arrow"></div>																						
+										</li>						
+																		<div class="clear sprite category-divider"></div>						
+														
+									<li class="clear category-itemall"><div class="all-arrow sprite"></div><a href="http://www.couponalert.com/coupons/categories">All Categories</a></li>
+								</ul>
+																	<div class="coupon-slideout" id="Apparel-%2526-Accessories">				
+										<div class="header">
+											<div class="title">Top Ten Apparel &amp; Accessories Deals(2031)</div>
+										</div>
+										<div class="container">
+																																															<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/6pm__com"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1734850.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/6pm__com" class="merchantHead">6pm.com</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/6pm__com">See all 20 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Athleta"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/996073.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Athleta" class="merchantHead">Athleta</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Athleta">See all 8 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Banana-Republic"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/613584.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Banana-Republic" class="merchantHead">Banana Republic</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Banana-Republic">See all 18 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Charlotte-Russe"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/3330958.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Charlotte-Russe" class="merchantHead">Charlotte Russe</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Charlotte-Russe">See all 9 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Crocs"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1115940.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Crocs" class="merchantHead">Crocs</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Crocs">See all 9 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Discount-Dance"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/946764.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Discount-Dance" class="merchantHead">Discount Dance</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Discount-Dance">See all 12 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Gap"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/2034.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Gap" class="merchantHead">Gap</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Gap">See all 18 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Hanes"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/619351.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Hanes" class="merchantHead">Hanes</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Hanes">See all 6 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/JCPenney"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/3337808.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/JCPenney" class="merchantHead">JCPenney</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/JCPenney">See all 27 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Journeys"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/619278.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Journeys" class="merchantHead">Journeys</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Journeys">See all 19 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																																																																																																																																																																																																																																							</div>
+										<div class="footerSlideout"><a href="http://www.couponalert.com/coupons/category/Apparel-%2526-Accessories" class="categories-see-all">SEE ALL</a></div>				
+									</div>								
+																	<div class="coupon-slideout" id="Beauty-%2526-Personal-Care">				
+										<div class="header">
+											<div class="title">Top Ten Beauty &amp; Personal Care Deals(430)</div>
+										</div>
+										<div class="container">
+																																															<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Apothica"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1109865.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Apothica" class="merchantHead">Apothica</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Apothica">See all 16 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Avon"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1186933.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Avon" class="merchantHead">Avon</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Avon">See all 14 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Bath-and-Body-Works"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1737578.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Bath-and-Body-Works" class="merchantHead">Bath and Body Works</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Bath-and-Body-Works">See all 23 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Beauty__com"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/32060.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Beauty__com" class="merchantHead">Beauty.com</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Beauty__com">See all 11 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Bliss"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/3200364.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Bliss" class="merchantHead">Bliss</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Bliss">See all 11 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Body-Shop"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/2540.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Body-Shop" class="merchantHead">Body Shop</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Body-Shop">See all 7 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Clinique"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1870.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Clinique" class="merchantHead">Clinique</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Clinique">See all 6 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/DHC"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/614362.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/DHC" class="merchantHead">DHC</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/DHC">See all 5 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Dillards"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/714675.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Dillards" class="merchantHead">Dillards</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Dillards">See all 9 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Drugstore__com"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/637068.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Drugstore__com" class="merchantHead">Drugstore.com</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Drugstore__com">See all 30 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																																																																																																																																																																																																																																							</div>
+										<div class="footerSlideout"><a href="http://www.couponalert.com/coupons/category/Beauty-%2526-Personal-Care" class="categories-see-all">SEE ALL</a></div>				
+									</div>								
+																	<div class="coupon-slideout" id="Electronics">				
+										<div class="header">
+											<div class="title">Top Ten Electronics Deals(717)</div>
+										</div>
+										<div class="container">
+																																															<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Adorama"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/3236578.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Adorama" class="merchantHead">Adorama</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Adorama">See all 14 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/AT%2526T-Wireless"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/636960.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/AT%2526T-Wireless" class="merchantHead">AT&amp;T Wireless</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/AT%2526T-Wireless">See all 10 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/BargainCell"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/619859.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/BargainCell" class="merchantHead">BargainCell</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/BargainCell">See all 32 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Big-Fish-Games"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1657625.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Big-Fish-Games" class="merchantHead">Big Fish Games</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Big-Fish-Games">See all 16 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Disney-Club-Penguin"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/2975295.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Disney-Club-Penguin" class="merchantHead">Disney Club Penguin</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Disney-Club-Penguin">See all 1 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/GameStop"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/766519.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/GameStop" class="merchantHead">GameStop</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/GameStop">See all 17 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Garmin"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/3256162.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Garmin" class="merchantHead">Garmin</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Garmin">See all 5 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Geeks__com"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/42159.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Geeks__com" class="merchantHead">Geeks.com</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Geeks__com">See all 19 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/goHastings"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1552214.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/goHastings" class="merchantHead">goHastings</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/goHastings">See all 16 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/HandHeldItems"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/619864.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/HandHeldItems" class="merchantHead">HandHeldItems</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/HandHeldItems">See all 60 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																																																																																																																																																																																																																																							</div>
+										<div class="footerSlideout"><a href="http://www.couponalert.com/coupons/category/Electronics" class="categories-see-all">SEE ALL</a></div>				
+									</div>								
+																	<div class="coupon-slideout" id="Food-%2526-Beverage">				
+										<div class="header">
+											<div class="title">Top Ten Food &amp; Beverage Deals(539)</div>
+										</div>
+										<div class="container">
+																																															<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/1_800-Baskets"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/2623185.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/1_800-Baskets" class="merchantHead">1-800 Baskets</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/1_800-Baskets">See all 9 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Baja-Bobs"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1017989.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Baja-Bobs" class="merchantHead">Baja Bobs</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Baja-Bobs">See all 5 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Capalbos"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1149716.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Capalbos" class="merchantHead">Capalbos</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Capalbos">See all 6 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Coffee-For-Less"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1149746.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Coffee-For-Less" class="merchantHead">Coffee For Less</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Coffee-For-Less">See all 8 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Cookie-by-Design"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/766091.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Cookie-by-Design" class="merchantHead">Cookie by Design</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Cookie-by-Design">See all 5 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/FreshDirect"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1209391.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/FreshDirect" class="merchantHead">FreshDirect</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/FreshDirect">See all 7 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Garrett-Popcorn"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/3351583.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Garrett-Popcorn" class="merchantHead">Garrett Popcorn</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Garrett-Popcorn">See all 6 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Hale-Groves"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/618241.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Hale-Groves" class="merchantHead">Hale Groves</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Hale-Groves">See all 5 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Harry-and-David"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/3378765.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Harry-and-David" class="merchantHead">Harry and David</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Harry-and-David">See all 8 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Jamba-Juice"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1137176.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Jamba-Juice" class="merchantHead">Jamba Juice</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Jamba-Juice">See all 2 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																																																																																																																																																																																																																																							</div>
+										<div class="footerSlideout"><a href="http://www.couponalert.com/coupons/category/Food-%2526-Beverage" class="categories-see-all">SEE ALL</a></div>				
+									</div>								
+																	<div class="coupon-slideout" id="Groceries">				
+										<div class="header">
+											<div class="title">Top Ten Groceries Deals(168)</div>
+										</div>
+										<div class="container">
+																																															<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Asian-Food-Grocer"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/952034.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Asian-Food-Grocer" class="merchantHead">Asian Food Grocer</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Asian-Food-Grocer">See all 10 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Bed-Bath-and-Beyond"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/715008.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Bed-Bath-and-Beyond" class="merchantHead">Bed Bath and Beyond</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Bed-Bath-and-Beyond">See all 11 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Caribou-Coffee"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1115965.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Caribou-Coffee" class="merchantHead">Caribou Coffee</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Caribou-Coffee">See all 7 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Drugstore__com"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/637068.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Drugstore__com" class="merchantHead">Drugstore.com</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Drugstore__com">See all 30 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/eFoodsDirect"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1665261.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/eFoodsDirect" class="merchantHead">eFoodsDirect</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/eFoodsDirect">See all 2 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/FreshDirect"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1209391.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/FreshDirect" class="merchantHead">FreshDirect</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/FreshDirect">See all 7 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Hoover"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/3351587.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Hoover" class="merchantHead">Hoover</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Hoover">See all 13 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Horse__com"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/946205.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Horse__com" class="merchantHead">Horse.com</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Horse__com">See all 41 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Institute-for-Vibrant-Living"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/3352300.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Institute-for-Vibrant-Living" class="merchantHead">Institute for Vibrant Living</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Institute-for-Vibrant-Living">See all 5 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/King-Arthur-Flour"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1209870.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/King-Arthur-Flour" class="merchantHead">King Arthur Flour</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/King-Arthur-Flour">See all 5 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																																																																																																																																																																																																																																							</div>
+										<div class="footerSlideout"><a href="http://www.couponalert.com/coupons/category/Groceries" class="categories-see-all">SEE ALL</a></div>				
+									</div>								
+																	<div class="coupon-slideout" id="Health-%2526-Medicine">				
+										<div class="header">
+											<div class="title">Top Ten Health &amp; Medicine Deals(534)</div>
+										</div>
+										<div class="container">
+																																															<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Blu-Cigs"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/3092837.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Blu-Cigs" class="merchantHead">Blu Cigs</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Blu-Cigs">See all 5 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/BodyBuilding"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/26928.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/BodyBuilding" class="merchantHead">BodyBuilding</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/BodyBuilding">See all 14 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Carol-Wright"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1526417.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Carol-Wright" class="merchantHead">Carol Wright</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Carol-Wright">See all 4 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Coastal"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/3158268.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Coastal" class="merchantHead">Coastal</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Coastal">See all 25 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Discount-Contact-Lenses"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1929.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Discount-Contact-Lenses" class="merchantHead">Discount Contact Lenses</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Discount-Contact-Lenses">See all 9 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Dr-Leonards"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/27097.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Dr-Leonards" class="merchantHead">Dr Leonards</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Dr-Leonards">See all 6 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Drugstore__com"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/637068.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Drugstore__com" class="merchantHead">Drugstore.com</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Drugstore__com">See all 30 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/GNC"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/2051.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/GNC" class="merchantHead">GNC</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/GNC">See all 23 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/LensDirect"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/2617669.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/LensDirect" class="merchantHead">LensDirect</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/LensDirect">See all 11 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Lensmart"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/2189.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Lensmart" class="merchantHead">Lensmart</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Lensmart">See all 18 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																																																																																																																																																																																																																																							</div>
+										<div class="footerSlideout"><a href="http://www.couponalert.com/coupons/category/Health-%2526-Medicine" class="categories-see-all">SEE ALL</a></div>				
+									</div>								
+																	<div class="coupon-slideout" id="Home-%2526-Garden">				
+										<div class="header">
+											<div class="title">Top Ten Home &amp; Garden Deals(1990)</div>
+										</div>
+										<div class="container">
+																																															<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/1_800-Flowers"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/3242511.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/1_800-Flowers" class="merchantHead">1-800 Flowers</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/1_800-Flowers">See all 18 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/1800PetMeds"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1685.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/1800PetMeds" class="merchantHead">1800PetMeds</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/1800PetMeds">See all 3 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/ancestry__com"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/620099.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/ancestry__com" class="merchantHead">ancestry.com</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/ancestry__com">See all 7 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Appliance-Parts-Pros"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/27102.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Appliance-Parts-Pros" class="merchantHead">Appliance Parts Pros</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Appliance-Parts-Pros">See all 4 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Bed-Bath-and-Beyond"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/715008.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Bed-Bath-and-Beyond" class="merchantHead">Bed Bath and Beyond</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Bed-Bath-and-Beyond">See all 11 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Drugstore__com"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/637068.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Drugstore__com" class="merchantHead">Drugstore.com</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Drugstore__com">See all 30 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Fabric__com"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/26942.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Fabric__com" class="merchantHead">Fabric.com</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Fabric__com">See all 11 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Graveyard-Mall"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/949311.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Graveyard-Mall" class="merchantHead">Graveyard Mall</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Graveyard-Mall">See all 6 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Horchow"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1498927.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Horchow" class="merchantHead">Horchow</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Horchow">See all 18 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/JCPenney"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/3337808.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/JCPenney" class="merchantHead">JCPenney</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/JCPenney">See all 27 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																																																																																																																																																																																																																																							</div>
+										<div class="footerSlideout"><a href="http://www.couponalert.com/coupons/category/Home-%2526-Garden" class="categories-see-all">SEE ALL</a></div>				
+									</div>								
+																	<div class="coupon-slideout" id="Kids-%2526-Baby">				
+										<div class="header">
+											<div class="title">Top Ten Kids &amp; Baby Deals(368)</div>
+										</div>
+										<div class="container">
+																																															<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Babies-R-Us"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1614109.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Babies-R-Us" class="merchantHead">Babies R Us</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Babies-R-Us">See all 26 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Carters"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1668613.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Carters" class="merchantHead">Carters</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Carters">See all 4 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Drugstore__com"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/637068.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Drugstore__com" class="merchantHead">Drugstore.com</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Drugstore__com">See all 30 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/French-Toast"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1201536.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/French-Toast" class="merchantHead">French Toast</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/French-Toast">See all 9 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Gap"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/2034.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Gap" class="merchantHead">Gap</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Gap">See all 18 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Journeys"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/619278.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Journeys" class="merchantHead">Journeys</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Journeys">See all 19 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Justice"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/2951333.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Justice" class="merchantHead">Justice</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Justice">See all 5 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Kmart"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/623117.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Kmart" class="merchantHead">Kmart</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Kmart">See all 40 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Life-is-good"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/2824612.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Life-is-good" class="merchantHead">Life is good</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Life-is-good">See all 3 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Little-Tikes"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1656069.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Little-Tikes" class="merchantHead">Little Tikes</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Little-Tikes">See all 8 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																																																																																																																																																																																																																																							</div>
+										<div class="footerSlideout"><a href="http://www.couponalert.com/coupons/category/Kids-%2526-Baby" class="categories-see-all">SEE ALL</a></div>				
+									</div>								
+																	<div class="coupon-slideout" id="Sports-%2526-Recreation">				
+										<div class="header">
+											<div class="title">Top Ten Sports &amp; Recreation Deals(575)</div>
+										</div>
+										<div class="container">
+																																															<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/511-Tactical"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1116147.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/511-Tactical" class="merchantHead">511 Tactical</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/511-Tactical">See all 9 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Altrec"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1726.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Altrec" class="merchantHead">Altrec</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Altrec">See all 18 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Bike-Bandit"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1070055.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Bike-Bandit" class="merchantHead">Bike Bandit</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Bike-Bandit">See all 9 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Camping-World"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1843.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Camping-World" class="merchantHead">Camping World</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Camping-World">See all 14 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Columbia-Sportswear"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/2939026.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Columbia-Sportswear" class="merchantHead">Columbia Sportswear</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Columbia-Sportswear">See all 5 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Cycle-Gear"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1019051.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Cycle-Gear" class="merchantHead">Cycle Gear</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Cycle-Gear">See all 15 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Dr-Leonards"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/27097.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Dr-Leonards" class="merchantHead">Dr Leonards</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Dr-Leonards">See all 6 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/E_OMC"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/619927.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/E_OMC" class="merchantHead">E-OMC</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/E_OMC">See all 7 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/FansEdge"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/2824415.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/FansEdge" class="merchantHead">FansEdge</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/FansEdge">See all 3 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Finish-Line"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1996.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Finish-Line" class="merchantHead">Finish Line</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Finish-Line">See all 23 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																																																																																																																																																																																																																																							</div>
+										<div class="footerSlideout"><a href="http://www.couponalert.com/coupons/category/Sports-%2526-Recreation" class="categories-see-all">SEE ALL</a></div>				
+									</div>								
+																	<div class="coupon-slideout" id="Travel">				
+										<div class="header">
+											<div class="title">Top Ten Travel Deals(362)</div>
+										</div>
+										<div class="container">
+																																															<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Avis"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/613842.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Avis" class="merchantHead">Avis</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Avis">See all 30 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Best-Western"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1701165.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Best-Western" class="merchantHead">Best Western</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Best-Western">See all 9 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Budget"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/27407.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Budget" class="merchantHead">Budget</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Budget">See all 21 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/CarRentals__com"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1176950.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/CarRentals__com" class="merchantHead">CarRentals.com</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/CarRentals__com">See all 1 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/CheapOair"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1536452.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/CheapOair" class="merchantHead">CheapOair</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/CheapOair">See all 20 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Comfort-Inn"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/2956315.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Comfort-Inn" class="merchantHead">Comfort Inn</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Comfort-Inn">See all 5 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Expedia"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/3442879.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Expedia" class="merchantHead">Expedia</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Expedia">See all 14 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Extended-Stay-Hotels"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/1149824.png" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Extended-Stay-Hotels" class="merchantHead">Extended Stay Hotels</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Extended-Stay-Hotels">See all 10 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Fox-Rent-A-Car"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/27383.gif" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Fox-Rent-A-Car" class="merchantHead">Fox Rent A Car</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Fox-Rent-A-Car">See all 18 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																<div class="topMerchant left">
+														<a href="http://www.couponalert.com/coupons/store/Hawaiian-Airlines"><div class="merchant-logo-wrapper"><img class="mlogo" src="http://cdn.savings.com/logo/715179.jpeg" width="64" height="18"></div></a>
+														<div class="right-section">
+															<a href="http://www.couponalert.com/coupons/store/Hawaiian-Airlines" class="merchantHead">Hawaiian Airlines</a>
+															<a class="allLink clear" href="http://www.couponalert.com/coupons/store/Hawaiian-Airlines">See all 6 coupons </a>
+														</div>
+														<div class="divider"></div>						
+													</div>
+																																																																																																																																																																																																																																																																							</div>
+										<div class="footerSlideout"><a href="http://www.couponalert.com/coupons/category/Travel" class="categories-see-all">SEE ALL</a></div>				
+									</div>								
+															</div>					
+						</div>		
+					</div>
+				</div>
+				
+				<div class="separator sprite left"></div>
+				<div class="menu-button stores left"><a href="http://www.couponalert.com/coupons/stores">Stores</a></div>
+				<div class="separator sprite left"></div>
+				<div class="menu-button popular left"><a href="http://www.couponalert.com/coupons/">Popular Deals</a></div>
+				<div class="separator sprite left"></div>
+				<div class="menu-button date left"><a href="http://www.couponalert.com/coupons/index?sortBy=STARTDATE&amp;maxResults=20">New Deals</a></div>
+				<div class="separator sprite left"></div>
+				<div class="menu-button expiring left"><a href="http://www.couponalert.com/coupons/index?sortBy=EXPDATE&amp;maxResults=20">Expiring Soon</a></div>
+				<div class="separator sprite left"></div>
+											</div>
+		
+			
+		</div>
+	</div>	
+		
 
+
+
+
+
+
+
+
+<style> <!-- TODO check whether this is required and if so, put it in the right place -->
+/*@keyframes myfirst*/
+@-webkit-keyframes banner-move
+{
+	0% {
+		background-position-x: 0px;
+		background-position-y: 0px;
+	}
+	50% {
+		background-position-x: -250px;
+		background-position-y: -4px;
+	}
+	100% {
+		background-position-x: 0px;
+		background-position-y: 0px;
+		
+	}
+}
+/*
+@-moz-keyframes myfirst
+@-webkit-keyframes myfirst
+@-o-keyframes myfirst
+*/
+
+</style>
+
+
+
+<script type="text/template" id="modal-wrapper">
+		<div class="CA_Modal">
+		<div class="headerWrapper">
+			<div class="top-left"></div>
+			<div class="top-right"></div>
+			<div class="head-top"></div>			
+		</div>		
+		<div class="middleWrapper">
+			<div class="repeatLeft">
+				<div class="repeatRight">
+					<div class="middle">
+						${modalBody}
+					</div>  
+				</div>
+			</div>	
+		</div>
+		<div class="footerWrapper">
+			<div class="bottomLeft"></div>
+			<div class="bottomRight"></div>
+			<div class="footer"></div>
+		</div>
+		<!-- <span class="closeBtn">X</span> -->
+	</div>	
+</script>
+
+<script type="text/template" id="bareBonesModal-wrapper">
+	<div class="CA_Modal">
+		${modalBody}
+</div>
+</script>
+
+
+<script type="text/template" id="couponModal">		 
+	<div class="couponModal" data-coupon-id="${offerId}" data-merchant= "${escapedMerchant}" data-addedDate="$!{formattedCreationDate}">
+	<div class="header sprite">
+		<div id="couponModalTitle">Here is a great ${merchant} coupon</div>
+		<div class="modalClose sprite right"></div>
+	</div>		
+	<div class="left bodyLeft">
+		<div id="couponLogo">
+			<a class="couponLogoAnchor" target="_blank" href="${link}"
+					style="text-decoration: none;"> 
+					<div class="couponLogoCenter">
+				<img src="${logo}" />
+			</div></a>
+		</div>
+		<div class="clear subtext">
+			<span class="coupon-subtext" data-merchant="${escapedMerchant}"></span>
+		</div>
+	</div>
 	
-</div> <!-- end of header -->
-        <div id="main" style="margin-left:10px;margin-right:10px;text-align:left;font-size:16pt;padding-bottom:1in;">
+	<div class="left bodyRight">
+	<div class="left coupon-middle">
+			<div class="coupon-header">${title}</div>
+			<div class="coupon-button">
+				<div class="code-button with-code sprite left" data-code=${code} data-link = ${link}><div class="code-text">CODE: ${code}<div class="copy-message-button sprite left"><div class="copyFlash" data-code="${code}"></div></div></div></div>
+				<a href ="${link}" target="_blank"><div class="code-button no-code sprite left" data-code="" data-link = ${link}>CODE: N/A<div class="copy-message-button sprite left"></div></div></a>					
+				
+			</div>
+			<span class="expired sprite left">Exp:${formattedExpirationDate}</span>
+			<div class="clear">
+				<div class="coupon-description">${description}</div>
+			</div>
+			
+		</div>
+		<div class="links-wrapper">
+			<div id="shareText" class="bottomLinks">Share this coupon</div>						
+		</div>
+	</div>	
+	<div class="left coupons-share-btns">
+		<div class="dotted-rule sprite"></div>
+		<div class="share-btn fb-share" title="Share this deal on Facebook"></div>
+		<div class="share-btn twitter-share" title="Share this deal on Twitter"></div>
+		<div class="share-btn shortcut-share" title="Copy & Share Coupon Link"></div>
+	</div>
+	
+	<div class="slideout-group ">
+		<div class="clear slider-arrow  sprite"></div>
+		<div class="clear slideout-divider"></div>
+		<div class="clear shareSlideout ">
+			<div class="closeButton sprite"></div>
+			<div class="slide-text main">Copy & Share This Link:</div>
+			<div class="clear copy-link-back sprite left"><input class="copy-link" type="text"/></div>
+			<div class="copy-button sprite left"></div>
+		</div>
+	</div>
+
+</div></script>
+
+<script type="text/template" id="share-slide-down">
+	<div class="share-wrapper">
+	<div>
+		<div class="arrow-icon"></div>
+	</div>
+	<div class="copy-share-box">
+		<div class="wrapper">
+			<span class="copy-header">Copy & share this link</span>
+			<div>
+				<div class="copyInput">
+					<input id="input-copy-url" type="text" value="${couponUrl}" size=20 />
+				</div>
+				<div id="copyBtn"></div>
+			</div>
+		</div>
+	</div>
+	<div class="social-share-box">
+		<div class="wrapper">
+			<div class="x-share"></div>
+			<div class="share-header">Social Share</div>
+			<div class="share-btns-wrapper">
+				<div id="fb-share-btn" title="Share this coupon on Facebook!"></div>
+				<div id="twitter-share-btn" title="Share this page on Twitter!"></div>
+			</div>
+		</div>
+	</div>
+	<div class="clear"></div>
+</div></script>
+
+<script type="text/template" id="no-code-text">
+		<div id="code" class="shadow-text">Click here to apply discount</div>
+</script>
+
+<script type="text/template" id="coupon-text-fragment">
+	<div id="code" class="shadow-text"><a class="codeLink" target="_blank" style="text-decoration:none;color:white" href="${link}">Code: <span id="codeText">${code}</span></a></div></script>
+
+<script type="text/template" id="expiredModal">
+	<div class="header">
+	<div class="expiredTitle sprite"><div class="exclaim sprite"></div><div class="expiredTitleText">Oops! We're sorry, but this coupon is no longer available...</div>
+	<div class="modalClose sprite right"></div></div>
+</div>
+<div class="bodyLeft">
+			 
+</div>	
+<div class="bodyRight">
+	<div class="moreCouponsBtn sprite"></div>			
+</div></script>
+
+<script type="text/template" id="surveyMonkeyQuestionsModal">
+	<div class="surveyWrapper">
+	<div class="surveyHeader">
+		<div class="surveyLogo"></div>
+		<div class="closeButton"></div>
+	</div>
+	<iframe id="surveyMonkeyIframe" name="surveyMonkeyIframe" src="${iframeURL}" scrolling="auto" frameborder="0"></iframe>
+</div></script>
+
+<script type="text/template" id="surveyMonkeyStartModal">
+	<div class="startWrapper">	
+		<div class="left">
+ 			<div id="leftSWF"></div>			
+		</div>
+		<div class="right">
+			<div class="couponFigure"></div>
+			<span id="notNow" class="no">Not Now, Thanks</span>
+		</div>
+	</div>
+</script>
+<script type="text/template" id="surveyMonkeyFinishModal">
+	<div class="startWrapper">	
+		<div class="left">			
+ 			<div id="finishSWF"></div>			
+		</div>
+		<div class="right">
+			<div class="couponFigure"></div>
+			<div id="bottomLogo"></div>		
+		</div>
+	</div>
+</script>
+
+
+<script type="text/template" id="couponsMacro">
+	<div class="coupon-wrapper ${classes} unhandled" data-coupon-id="${coupon.offerId}" data-merchant= "${coupon.escapedMerchant}" data-addedDate="$!{coupon.formattedCreationDate}">
+	<div class="left coupon-left">
+		<a class="merchant-links" href="${merchantUrl}${coupon.escapedMerchant}">
+			<div class="logo-wrapper coupon">
+				<img alt="${coupon.merchant}" class="merchant-logo" src="${coupon.logo}" width="100" height="25">
+			</div>
+			<span class="coupon-subtext not-populated" data-merchant="${coupon.escapedMerchant}"></span>
+		</a>
+		<div class="logo-wrapper merchant">
+			<div class="rating-image sprite" ></div>
+		</div>
+		
+	</div>
+	<div class="left coupon-middle">
+		<div class="coupon-header">${coupon.title} 
+		</div>
+		<div class="coupon-button">
+			<div class="code-button with-code sprite left" data-code="${coupon.code}" data-link="${coupon.link}">
+				<div class="code-text">CODE: ${coupon.code}
+					<div class="copy-message-button sprite left">
+						<div class="copyFlash" data-code="${coupon.code}">
+						</div>
+					</div>
+				</div>
+			</div>
+			<a href="${coupon.link}" target="_blank" class="no-code link">
+				<div class="code-button no-code sprite left" data-code="" data-link="${coupon.link}">CODE: N/A
+					<div class="copy-message-button sprite left">
+					</div>
+				</div>
+			</a>					
+		</div>
+		<span class="expired sprite left">
+			Exp: ${coupon.formattedExpirationDate}</span>
+		
+		<div class="clear">
+			<div class="coupon-description">${coupon.description}</div>
+		</div>					
+		<div class=" more hide">...more</div>
+		
+	</div>
+	<div class="left coupon-right hide">
+		<div class="logo-wrapper">
+			<div class="rating-image sprite" ></div>
+		</div>
+	</div>
+	<div class="left coupon-share-btns">
+		<div class="dotted-rule sprite"></div>
+		<div class="share-btn fb-share" title="Share this deal on Facebook"></div>
+		<div class="share-btn twitter-share" title="Share this deal on Twitter"></div>
+		<div class="share-btn shortcut-share" title="Copy & Share Coupon Link"></div>
+	</div>
+	
+	<div class="slideout-group ">
+		<div class="clear slider-arrow  sprite"></div>
+		<div class="clear slideout-divider"></div>
+		<div class="clear shareSlideout ">
+			<div class="closeBtn sprite"></div>
+			<div class="slide-text main">Copy & Share This Link:</div>
+			<div class="clear copy-link-back sprite left"><input class="copy-link" type="text"/></div>
+			<div class="copy-button sprite left"></div>
+		</div>
+	</div>
+</div>			</script>
+
+<!-- Main Content -->
+<div id="bodyWrapper">
+	<div id="bodyBGWrapper"><div id="bodyBG"></div></div>
+			
+
+
+<div id="main" style="padding:20px 0px; margin:0px auto; position:relative; text-align:left;font-size:16pt;min-width:995px;width: 995px;">
         <p style="font-size:12pt;font-family:Calibri;line-height:18px;">
-            <b>PRIVACY POLICY<br></b>
+            <strong>PRIVACY POLICY<br></strong>
             <a href="http://www.couponalert.com/coupons/index.jhtml" target="_blank">Coupon Alert</a><br><br>
         </p>
 
         <p style="font-size:11pt;font-family:Calibri;line-height:18px;">
             <br>
-            <b>LAST UPDATED: </b><b id="dateDisplay"> January 30, 2020</b>
+            <strong>LAST UPDATED: </strong><strong id="dateDisplay"></strong>
             <br><br>
 
             Mindspark Interactive Network, Inc. ("Mindspark"), respects the privacy of users of our
@@ -75,7 +1394,7 @@
             downloadable toolbar application (the "Toolbar"), is governed by the
             End User License Agreement available <a href="http://www.couponalert.com/coupons/eula.jhtml" target="_blank">here</a>. 
             The information collection practices on the CouponAlert Site are governed by this Privacy Policy.
-            <br><br><b>INFORMATION WE COLLECT ABOUT YOU</b><br><br>
+            <br><br><strong>INFORMATION WE COLLECT ABOUT YOU</strong><br><br>
             <u>In General</u>. The CouponAlert Site does not require registration. However, you may be required
             to register to use certain aspects of the features available on or via the CouponAlert Site or
             Toolbar. Except as provided for in the relevant privacy policy(ies), we do not collect any
@@ -86,13 +1405,13 @@
         </p>
         <ul style="font-size:11pt;font-family:Calibri;line-height:18px;">
 
-            <li><b>Information collected automatically. </b> We automatically collect information from your browser
+            <li><strong>Information collected automatically. </strong> We automatically collect information from your browser
                 when you visit the CouponAlert Site. This information includes your IP address, your browser type
                 and language, access times, the content of any undeleted cookies that your browser previously
                 accepted from us (see "Cookies" below), and the referring website address.
             </li>
 
-            <li><b>Cookies. </b> When you visit the CouponAlert Site, we may assign your computer one or more
+            <li><strong>Cookies. </strong> When you visit the CouponAlert Site, we may assign your computer one or more
                 cookies <a href="#cookies">Cookies</a>, to facilitate access to our site(s) and to personalize your
                 online experience. Through the use of a cookie, we also may automatically collect information about
                 your online activity on our site(s), such as the web pages you visit, the links you click, and the
@@ -103,7 +1422,7 @@
                 CouponAlert Site and/or Toolbar features.
             </li>
 
-            <li><b>Other Technologies. </b> We may use standard Internet technology, such as web beacons
+            <li><strong>Other Technologies. </strong> We may use standard Internet technology, such as web beacons
                 <a href="#beacons">Beacons</a>
                 and other similar technologies, to track your use of the CouponAlert Site. The information we obtain
                 in this manner enables us to customize the services we offer our Website visitors to deliver
@@ -111,7 +1430,7 @@
                 programming or other activities.
             </li>
 
-            <li><b>Information collected by iWon and the FunWebProducts. </b> By visiting the CouponAlert Site and
+            <li><strong>Information collected by iWon and the FunWebProducts. </strong> By visiting the CouponAlert Site and
                 using the Toolbar, you may have the ability to access to iWon.com and certain other features. The
                 information collection, information sharing, and overall privacy practices of iWon are set forth in
                 a separate privacy policy located at
@@ -123,14 +1442,14 @@
                 and the privacy practices of the other FunWebProducts websites associated with the Toolbar are set
                 forth <a href="http://helpint.mywebsearch.com/intlinfo/privacy/privacy.jhtml" target="_blank">here</a>.                
             </li>
-            <li><b>Information collected by Partners.</b> By visiting the CouponAlert Site and using the Toolbar,
+            <li><strong>Information collected by Partners.</strong> By visiting the CouponAlert Site and using the Toolbar,
                 you may have the ability to access certain sites or features provided by one or more of our third
                 party partners. The privacy practices relating to any such partners may be found on their respective
                 websites. We strongly recommend you take the time to familiarize yourself with these practices prior
                 to using the relevant site or feature.
             </li>
 
-            <li><b>Information collected by other third-parties.</b> We may allow third-parties, including our
+            <li><strong>Information collected by other third-parties.</strong> We may allow third-parties, including our
                 authorized service providers, IAC companies, advertising companies and ad networks, to display
                 advertisements or place ad tags or beacons on our site. These companies may use tracking
                 technologies, such as <a href="#cookies">Cookies</a>
@@ -144,7 +1463,7 @@
             </li>
         </ul>
         <p style="font-size:11pt;font-family:Calibri;line-height:18px;">
-            <br><br><b>HOW WE USE THE INFORMATION WE COLLECT </b><br><br>
+            <br><br><strong>HOW WE USE THE INFORMATION WE COLLECT </strong><br><br>
             <u>In General</u>. We may use information that we collect about you to: <br>
         </p>
         <ul style="font-size:11pt;font-family:Calibri;line-height:18px;">
@@ -161,7 +1480,7 @@
             <li>perform functions as otherwise described to you at the time of collection.</li>
         </ul>
         <p style="font-size:11pt;font-family:Calibri;line-height:18px;">
-            <br><br><b>WITH WHOM WE SHARE YOUR INFORMATION</b><br><br>
+            <br><br><strong>WITH WHOM WE SHARE YOUR INFORMATION</strong><br><br>
             We want you to understand when and with whom we may share personal or other information we have
             collected about you or your activities on our CouponAlert Site and the associated Toolbar. <br><br>
             <u>Personal information</u>. We do not share your personal information with others except as indicated
@@ -169,7 +1488,7 @@
             shared. We may share personal information with: <br>
         </p>
         <ul style="font-size:11pt;font-family:Calibri;line-height:18px;">
-            <li><b>Authorized service providers: </b> We may share your personal information with our authorized
+            <li><strong>Authorized service providers: </strong> We may share your personal information with our authorized
                 service providers that perform certain services on our behalf. These services may include fulfilling
                 orders, providing customer service and marketing assistance, performing business and sales analysis,
                 supporting our website functionality, providing email or electronic message delivery, and supporting
@@ -177,17 +1496,17 @@
                 providers may have access to personal information needed to perform their functions but are not
                 permitted to share or use such information for any other purposes.
             </li>
-            <li><b>Business partners: </b> When you use the CouponAlert Site, we may share personal information with
+            <li><strong>Business partners: </strong> When you use the CouponAlert Site, we may share personal information with
                 the businesses with which we partner to offer you those products and/or services. When you elect to
                 engage in a particular merchant's offer or program, you authorize us to provide your email
                 address and other information to that merchant.
             </li>
-            <li><b>Other IAC businesses.</b> We are part of the IAC family of businesses (go to
+            <li><strong>Other IAC businesses.</strong> We are part of the IAC family of businesses (go to
                 <a href="http://www.iac.com" target="_blank">IAC</a>
                 for a listing of these businesses). We may share information we collect, including personal
                 information, with the IAC companies.
             </li>
-            <li><b>Other Situations.</b> We also may disclose your information:</li>
+            <li><strong>Other Situations.</strong> We also may disclose your information:</li>
             <br>
             <ul style="font-size:11pt;font-family:Calibri;line-height:18px;">
                 <li>In response to a subpoena or similar investigative demand, a court order, or a request for
@@ -224,12 +1543,12 @@
             popular features or services accessed. This information does not contain any personal information and
             may be used to develop website content and services that we hope you and other users will find of
             interest and to target content and advertising.
-            <br><br><b>MATERIALS AND SUBMISSIONS</b><br><br>
+            <br><br><strong>MATERIALS AND SUBMISSIONS</strong><br><br>
             By uploading materials or otherwise submitting any materials to us (collectively, the "Materials"), you automatically grant (or warrant that the owner of such Materials has expressly granted)Mindspark a perpetual, royalty-free, irrevocable, non-exclusive, worldwide right and license to use, reproduce, modify, adapt, publish, translate, create derivative works from and distribute such Materials, including your first name and last initial or incorporate such Materials into any form, medium, or technology now known or later developed throughout the universe, and to sublicense the foregoing rights, through multiple tiers, to the maximum extent permitted by applicable law. In addition, you warrant that all so-called "moral rights" in those materials have been waived.
             <br><br>
             Notwithstanding the foregoing, to the extent that any Materials contain creative suggestions, recommendations, ideas, notes, drawings, or other information (collectively, the "Submissions"), the Submissions shall be deemed, and shall remain, our property. None of the Submissions shall be subject to any obligation of confidence on our part, and we shall not be liable for any use or disclosure of any Submissions. Without limitation of the foregoing, we shall exclusively own, and you assign to us, all right, title and interest in and to the Submissions of every kind and nature throughout the universe and we shall be entitled to unrestricted use of the Submissions for any purpose whatsoever, commercial or otherwise, without compensation to the provider of the Submissions.
             <br><br>
-            <b>THIRD-PARTY WEBSITES</b><br><br>
+            <strong>THIRD-PARTY WEBSITES</strong><br><br>
             There are a number of places on the CouponAlert Site where you may click on a link to access other
             websites that do not operate under this Privacy Policy. For example, if you click on a news link, social
             media link or advertisement, you may be taken to a website that we do not control. These third-party
@@ -237,13 +1556,13 @@
             and, in some instances, provide us with information about your activities on those websites. We
             recommend that you consult the privacy statements of all third-party websites you visit by clicking on
             the "privacy" link typically located at the bottom of the webpage you are visiting.
-            <br><br><b>YOUR CHOICES ABOUT COLLECTION AND USE OF YOUR INFORMATION</b><br>
+            <br><br><strong>YOUR CHOICES ABOUT COLLECTION AND USE OF YOUR INFORMATION</strong><br>
             You can choose not to allow Mindspark to collect certain information, but that may result in you being
             unable to use all of the features of the CouponAlert Site and/or Toolbar.
             You may tell us not to share your personal information with third parties or the IAC family of companies
             for direct marketing purposes by clicking on the following link and entering the email address
             associated with your account: <a href="http://www.mailunsubscribe.com/optout.jsp?pid=GDNS99" target="_blank">click here</a>.
-            <br><br><b>HOW WE PROTECT YOUR PERSONAL INFORMATION</b><br><br>
+            <br><br><strong>HOW WE PROTECT YOUR PERSONAL INFORMATION</strong><br><br>
             We take appropriate security measures (including physical, electronic and procedural measures) to help
             safeguard your information from unauthorized access and disclosure. For example, only authorized
             employees are permitted to access your information, and they may do so only for permitted business
@@ -258,10 +1577,10 @@
             website at
             <a href="http://www.ftc.gov/bcp/menus/consumer/data.shtm" target="_blank">FTC</a>
             for information about how to protect yourself against identity theft.
-            <br><br><b>CHILDREN'S PRIVACY</b><br><br>
+            <br><br><strong>CHILDREN'S PRIVACY</strong><br><br>
             Our website is a general audience site, and we do not knowingly collect personal information from
             children under the age of 13.
-            <br><br><b>VISITING OUR WEBSITES FROM OUTSIDE THE UNITED STATES</b><br><br>
+            <br><br><strong>VISITING OUR WEBSITES FROM OUTSIDE THE UNITED STATES</strong><br><br>
             This Privacy Policy is intended to cover collection of information on or via the CouponAlert Site from
             residents of the United States. If you are using the CouponAlert Site from outside the United States,
             please be aware that your information may be transferred to, stored, and processed in the United States
@@ -270,10 +1589,10 @@
             be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our
             services, you understand that your information may be transferred to our facilities and those third
             parties with whom we share it as described in this privacy policy.
-            <br><br><b>NO RIGHTS OF THIRD PARTIES</b><br><br>
+            <br><br><strong>NO RIGHTS OF THIRD PARTIES</strong><br><br>
             This Privacy Policy does not create rights enforceable by third parties or require disclosure of any
             personal information relating to users of the website.
-            <br><br><b>CHANGES TO THIS PRIVACY POLICY</b><br><br>
+            <br><br><strong>CHANGES TO THIS PRIVACY POLICY</strong><br><br>
             We will occasionally update this Privacy Policy to reflect changes in our practices and services. When
             we post changes to this Privacy Policy, we will revise the "Last Updated" date at the top of
             this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your
@@ -282,7 +1601,7 @@
             and/or by prominently posting notice of the changes on the CouponAlert Site. We recommend that you check
             our website from time to time to inform yourself of any changes in this Privacy Policy or any of our
             other policies. <br>
-            <br><b>HOW TO CONTACT US</b>
+            <br><strong>HOW TO CONTACT US</strong>
             <br><br>If you have any questions about this Privacy Policy or our information-handling practices, or if
             you would like to request information about our disclosure of personal information to third parties for
             their direct marketing purposes, please contact us by email or postal mail as follows: <br>
@@ -294,12 +1613,12 @@
             <br><br>
             END OF DOCUMENT. <br>
             <br>-----------------------------------------------------------<br>
-            <b>GLOSSARY: </b> <br>
+            <strong>GLOSSARY: </strong> <br>
 
         </p>
 
         <p style="margin-left:20px;font-size:11pt;font-family:Calibri;line-height:18px;">
-            <br><a name="cookies"><b>Cookies:</b></a><br><br>
+            <br><a name="cookies"><strong>Cookies:</strong></a><br><br>
 
             A cookie is a small text file that is stored on a user's computer for record keeping purposes.
             Cookies can be either session cookies or persistent cookies. A session cookie expires when you close
@@ -333,7 +1652,7 @@
             <a href="http://www.networkadvertising.org" target="_blank">Network Advertising</a>
         </p><br>
         <p style="margin-left:20px;font-size:11pt;font-family:Calibri;line-height:18px;">
-            <a name="beacons"><b>Web Beacons:</b></a><br><br>
+            <a name="beacons"><strong>Web Beacons:</strong></a><br><br>
 
             Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique
             identifier, similar in function to cookies, and are used to track the online movements of web users or
@@ -351,16 +1670,72 @@
             <br>© 2010 Mindspark Interactive Network, Inc. All rights reserved. <br>
         </p><br>
 
-        Please click <a href="/coupons/index.jhtml">HERE</a> to return to our homepage.
+        Please click <a href="http://www.couponalert.com/coupons/index.jhtml">HERE</a> to return to our homepage.
 			<div class="clear"></div>
-		</div> <!-- end of main -->
-		<div id="footer">
-			<div class="space"></div>
-			<div><img src="http://ak.imgfarm.com/images/couponalert/MindsparkLogo.gif" alt="Mindspark" style="vertical-align:middle;"> &nbsp;&nbsp; <a href="http://help.couponalert.com" target="_blank">Help</a> | <a href="http://www.couponalert.com/coupons/termsOfService.jhtml" target="_blank">Terms of Service</a> | <a href="http://www.couponalert.com/coupons/privacyPolicy.jhtml" target="_blank">Privacy Policy</a></div>
-			TM, ® + © 2009-2012 Mindspark Interactive Network, Inc. All rights reserved. An IAC Company.<div class="footerBreak"></div>Mindspark™ properties:  <a href="http://www.iwon.com" target="_blank" class="footerPropertyLink">IWON</a> |  <a href="http://www.cardboiled.com" target="_blank" class="footerPropertyLink">Cardboiled</a> |  <a href="http://www.retrogamer.com" target="_blank" class="footerPropertyLink">Retrogamer</a> |  <a href="http://www.webfetti.com" target="_blank" class="footerPropertyLink">Webfetti</a> |  <a href="http://www.girlsense.com" target="_blank" class="footerPropertyLink">GirlSense</a> |  <a href="http://www.mywebface.com" target="_blank" class="footerPropertyLink">MyWebFace</a> |  <a href="http://www.myfuncards.com" target="_blank" class="footerPropertyLink">MyFunCards</a> |  <a href="http://www.zwinky.com" target="_blank" class="footerPropertyLink">Zwinky</a> |  <a href="http://www.zwinkycuties.com" target="_blank" class="footerPropertyLink">Zwinky Cuties</a> |  <a href="http://www.kazulah.com" target="_blank" class="footerPropertyLink">Kazulah</a><br> <a href="http://www.excite.com" target="_blank" class="footerPropertyLink">Excite</a> |  <a href="http://www.smileycentral.com" target="_blank" class="footerPropertyLink">Smiley Central</a> |  <a href="http://www.smileycreator.com" target="_blank" class="footerPropertyLink">Smiley Creator</a> |  <a href="http://www.cursormania.com" target="_blank" class="footerPropertyLink">CursorMania</a> |  <a href="http://www.popularscreensavers.com" target="_blank" class="footerPropertyLink">PopularScreensavers</a> |  <a href="http://degrees.excite.com" target="_blank" class="footerPropertyLink">Degrees</a> |  <a href="http://events.excite.com" target="_blank" class="footerPropertyLink">Events</a> |  <a href="http://www.popdownloads.com/index.html" target="_blank" class="footerPropertyLink">PopDownloads</a><br> 
-		</div>
-	</div> <!-- end of page -->
-	<script type="text/javascript" src="/coupons/js/main.js"></script>
 
+</div>
+		<div style="clear: both"></div>
+</div>
 
+	
+				<div id="footer">	
+		<div id="addtlFooter">Coupons provided by Savings.com</div>	 
+		<div class="top-links"><a href="http://help.couponalert.com" target="_blank">Help</a> | <a href="http://www.couponalert.com/coupons/termsOfService.jhtml" target="_blank">Terms of Service</a> | <a href="http://www.couponalert.com/coupons/privacyPolicy.jhtml" target="_blank">Privacy Policy</a></div>
+		TM, ® + © 2009-2012 Mindspark Interactive Network, Inc. All rights reserved. An IAC Company.<div class="footerBreak"></div>Mindspark™ properties:  <a href="http://www.iwon.com" target="_blank" class="footerPropertyLink">IWON</a> |  <a href="http://www.cardboiled.com" target="_blank" class="footerPropertyLink">Cardboiled</a> |  <a href="http://www.retrogamer.com" target="_blank" class="footerPropertyLink">Retrogamer</a> |  <a href="http://www.webfetti.com" target="_blank" class="footerPropertyLink">Webfetti</a> |  <a href="http://www.girlsense.com" target="_blank" class="footerPropertyLink">GirlSense</a> |  <a href="http://www.mywebface.com" target="_blank" class="footerPropertyLink">MyWebFace</a> |  <a href="http://www.myfuncards.com" target="_blank" class="footerPropertyLink">MyFunCards</a> |  <a href="http://www.zwinky.com" target="_blank" class="footerPropertyLink">Zwinky</a> |  <a href="http://www.zwinkycuties.com" target="_blank" class="footerPropertyLink">Zwinky Cuties</a> |  <a href="http://www.kazulah.com" target="_blank" class="footerPropertyLink">Kazulah</a><br> <a href="http://www.excite.com" target="_blank" class="footerPropertyLink">Excite</a> |  <a href="http://www.smileycentral.com" target="_blank" class="footerPropertyLink">Smiley Central</a> |  <a href="http://www.smileycreator.com" target="_blank" class="footerPropertyLink">Smiley Creator</a> |  <a href="http://www.cursormania.com" target="_blank" class="footerPropertyLink">CursorMania</a> |  <a href="http://www.popularscreensavers.com" target="_blank" class="footerPropertyLink">PopularScreensavers</a> |  <a href="http://degrees.excite.com" target="_blank" class="footerPropertyLink">Degrees</a> |  <a href="http://events.excite.com" target="_blank" class="footerPropertyLink">Events</a> |  <a href="http://www.popdownloads.com/index.html" target="_blank" class="footerPropertyLink">PopDownloads</a><br>
+	</div>
+		
+			
+					
+	<script type="text/javascript">
+		var _AnemoneParams = {
+		    // other params
+		    partnerParam: "partner"
+		};
+	</script>
+
+		
+		
+
+<div id="toolbarSettingsControlDIV"></div>
+		<script type="text/javascript" src="http://ak.toolbar.mywebsearch.com/one-toolbaredits/toolbar.js"></script>
+	<script type="text/javascript">
+		oToolbarController = TOOLBAR;
+		//support for couponalert.com and forbusymoms.com users
+		oToolbarController.init({tb_list:["affinity_couponalert_dual.settingsCtl","affinity_couponalert_firefox.settingsCtl","affinity_couponalert_msie.settingsCtl","209123745_dual.settingsCtl", "209123745_firefox.settingsCtl", "209123745_msie.settingsCtl"]});
+		oToolbarController.get_toolbar_data( oToolbarController.winner );
+		oToolbarController.version_check( oToolbarController.winner );
+
+		oToolbarController.isInstalled = function() {
+			return oToolbarController.bInstalled;
+		};
+		
+		// if(!oToolbarController.bInstalled) - organic or viral urls. Marketing campaigns will already send to the download pages directly 
+		/*finishedFuncOverride = function() {
+			CA.trigger("TOOLBAR_INSTALL_COMPLETE");
+		};*/
+	</script>
+	
+				
+	<script type="text/javascript">
+var _AnemoneParams2 = {
+	appId: 'CouponAlert',
+	appVersion: '1.0.6',
+	appDate: '2012-08-28T04:00:00Z',
+    serverName: 'tnprdcoupon5.tn.jabodo.com',
+	uniqueUser: '',
+	backFillRequired: true,
+    suppressCookies: false,
+	eventId: '253E41EC-0C93-486E-B8F9-F7E7613EF1A4',
+    browserLanguage: '',
+    maxSession: 30,
+	domain: '.couponalert.com',
+    systemTime: '1354684410026',
+	logPageView: false
+};
+</script>
+            <script type="text/javascript" src="http://ak.imgfarm.com/images/anx/anemone-1.2.7.js"></script>
+    	
+			
+			
+	
 </body></html>
