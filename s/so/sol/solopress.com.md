@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the solopress.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516233309id_/http%3A//www.solopress.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solopress.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205055134id_/http%3A//solopress.com/privacy-policy-cookies.html) for the most accurate reproduction.*
 
 # Privacy Policy | Solopress
 
 This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site.
 
- **Information We Collect**  
+**Information We Collect**  
 We may collect and process the following data about you:
 
 i.    Information about your use of our site including details of your visits such as pages viewed and the resources that you access. Such information includes traffic data, location data and other communication data.
@@ -14,11 +14,12 @@ ii.    Information provided voluntarily by you. For example, when you registe
 iii.    Information that you provide when you communicate with us by any means.
 
  **Use of Cookies**  
-Cookies provide information regarding the computer used by a visitor. We may use cookies where appropriate to gather information about your computer in order to assist us in improving our website. 
+Cookies provide information regarding the computer used by a visitor. We may use cookies where appropriate to gather information about your computer in order to assist us in improving our website and ensure that we give you the best possible experience at Solopress.com. 
 
-We may gather information about your general internet use by using the cookie.  Where used, these cookies are downloaded to your computer and stored on the computer’s hard drive. Such information will not identify you personally. It is statistical data. This statistical data does not identify any personal details whatsoever 
+We may gather information about your general Internet use by using the cookie. Where used, these cookies are downloaded to your computer and stored on the computer’s hard drive. Such information will not identify you personally. It is statistical data. This statistical data does not identify any personal details whatsoever.
 
-You can adjust the settings on your computer to decline any cookies if you wish.  This can easily be done by activating the reject cookies setting on your computer.
+**Disabling Cookies**  
+You can change the settings on your computer at any time to decline any cookies if you wish. This can easily be done by activating the reject cookies setting on your computer. If you continue using Solopress.com without adjusting your settings, we will assume that you are happy to receive all cookies on our website.
 
  **Use of Your Information**  
 We use the information that we collect from you to provide our services to you. In addition to this we may use the information for one or more of the following purposes:
