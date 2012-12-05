@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youdrivewhat.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222826id_/http%3A//youdrivewhat.com/%3Fpage_id%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youdrivewhat.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205131236id_/http%3A//youdrivewhat.com/%3Fpage_id%3D26) for the most accurate reproduction.*
 
 # You Drive What? | photos of funny cars, strange cars, weird cars, ugly cars, junk cars and cars that barely run!
 
