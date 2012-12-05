@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coles.com.au privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510003008id_/http%3A//www.coles.com.au/Coles/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coles.com.au privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205053539id_/http%3A//www.coles.com.au/Coles/Privacy.aspx) for the most accurate reproduction.*
 
 # Coles | Privacy
 
@@ -103,7 +103,7 @@ Coles is not responsible for the privacy practices of sites that are linked to t
 
 ## Access
 
-If you would like to access your personal information, write to Coles Customer Relations Department L1 M5 P.O Box 480 Glen Iris 3146, e-mail at [customer.relations@coles.com.au](mailto:customer.relations@coles.com.au), or call them toll free on 1800 061 562.
+If you would like to access your personal information, write to Coles Customer Care L2 M7 800 Toorak Rd Po Box 480 Glen Iris VIC 3146, e-mail at [coles.customer.care@coles.com.au](mailto:coles.customer.care@coles.com.au), or call them toll free on 1800 061 562.
 
 ## Direct marketing
 
