@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbinfluence.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526110403id_/http%3A//fbinfluence.com/fb/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbinfluence.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205151243id_/http%3A//fbinfluence.com/fb/privacy-policy) for the most accurate reproduction.*
 
 # FBinfluence « Your all inclusive guide to Facebook Marketing
 
@@ -8,7 +8,7 @@ Our mailing address is:
 Columbus Ohio 43215  
 Suite #204
 
-We can be reached via e-mail at support@fbinfluence.com
+We can be reached via e-mail at [support@fbinfluence.com](mailto:support@fbinfluence.com)
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
 
