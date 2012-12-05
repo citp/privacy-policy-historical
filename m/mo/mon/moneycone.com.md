@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneycone.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605210859id_/http%3A//www.moneycone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneycone.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205014005id_/http%3A//www.moneycone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Money Cone
 
@@ -28,9 +28,3 @@ If you wish to disable cookies, you may do so through your individual browser op
 
  **Contacting Us**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact via our Contact page.
-
-#### Incoming search terms:
-
-  * [how is the money used in cone 2012](http://www.moneycone.com/privacy-policy/ "how is the money used in cone 2012")
-
-
