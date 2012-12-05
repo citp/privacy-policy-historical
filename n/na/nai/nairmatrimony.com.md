@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nairmatrimony.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606183312id_/http%3A//www.nairmatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nairmatrimony.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205085531id_/http%3A//www.nairmatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Nair Matrimony, Matrimony, Indian Matrimony
 
@@ -7,13 +7,10 @@ NairMatrimony.com owned by CommunityMatrimony.com, and NairMatrimony.com being h
 What information you need to give in to use this site?  
 We gather information from members and guests who apply for the various services our site offers. It includes, but may not be limited to, email address, first name, last name, a user-specified password, mailing address, zip code and telephone number or fax number.
 
-If you establish a credit account with us to pay the fees we charge, we collect some additional information, including billing address, credit card number , credit card expiration date and tracking information from checks or money orders.
+If you establish a credit account with us to pay the fees we charge, we collect some additional information, including billing address, credit card number , credit card expiration date and tracking information from checks or money orders. 
 
 How the site uses the information it collects/tracks?  
-CommunityMatrimony.com collects information from its clients primarily to ensure that we are able to fulfill your requirements and to deliver Personalised experience.
-
-With whom the site shares the information it collects/tracks?  
-The information collected from our clients will not be shared with any individual or organization without the client's approval. 
+CommunityMatrimony.com collects information from its clients primarily to ensure that we are able to fulfill your requirements and to deliver Personalised experience.With whom the site shares the information it collects/tracks?The information collected from our clients will not be shared with any individual or organization without the client's approval.
 
 NairMatrimony.com does not sell, rent, or loan any identifiable information at the individual level, regarding its customers to any third party. Any information you give to us is held with utmost care and security. We are also bound to cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer.
 
