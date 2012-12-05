@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the aihw.gov.au privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512214601id_/http%3A//aihw.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aihw.gov.au privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205062359id_/http%3A//www.aihw.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy (AIHW)
 
 The Australian Institute of Health and Welfare is committed to protecting your privacy. We follow the guidelines of the Australian Government Office of the Privacy Commissioner (OPC) in the collection, handling, use and disclosure of personal information. Our website complies with OPC's guidelines.
 
   * [**Office of the Privacy Commissioner**](http://www.privacy.gov.au/ "Office of the Privacy Commissioner")
-  * [Information Privacy Principles under the _Privacy Act 1988_](http://www.privacy.gov.au/materials/types/infosheets/view/6541 "Information Privacy Principles under the Privacy Act 1988")
+  * [Information Privacy Principles under the _Privacy Act 1988_](http://www.privacy.gov.au/materials/types/infosheets/view/6541 "Information Privacy Principles under the Privacy Act 1988")  
   * [Guidelines for Federal and ACT Government Websites](http://www.privacy.gov.au/materials/types/guidelines/view/6057 "Guidelines for Federal and ACT Government Websites")
 
 
@@ -68,8 +68,8 @@ We use Google Analytics, a US-based service, to analyse browsing information and
 
 We use PayPal, a US-based service, to collect payments for our products and services via our website.
 
-  * [**PayPal**](http://www.paypal.com.au/)[](http://www.google.com/analytics/)  
-  * [PayPal privacy policy](https://www.paypal.com/au/cgi-bin/merchantpaymentweb?cmd=p/gen/ua/policy_privacy-outside&country.x=AU)[](http://www.google.com.au/intl/en/privacypolicy.html)  
+  * [**PayPal**](http://www.paypal.com.au/)
+  * [PayPal privacy policy](https://www.paypal.com/au/cgi-bin/merchantpaymentweb?cmd=p/gen/ua/policy_privacy-outside&country.x=AU)
 
 
 
