@@ -1,49 +1,41 @@
-> *The following text is extracted and transformed from the stopthehacker.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620082706id_/http%3A//www.stopthehacker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopthehacker.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205042346id_/http%3A//www.stopthehacker.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-This privacy policy applies to the website StopTheHacker.com (“Website”).
+**In what circumstances will StopTheHacker Inc., a Delaware corporation (“STH”) share information about its customers and website visitors with others?**
 
-We can be reached via e-mail at [support@stopthehacker.com](mailto:support@stopthehacker.com) or by telephone at +1 (888) 784-2257.
+STH’s only purpose in collecting information about its customers is the furtherance of the business it conducts at and through the STH website.  STH never sells information about individual customers to third parties.  We may, however, share information about our customers in the following circumstances:
 
-**Information We Collect**
+1.          **In order to enable the work of some of our service providers**.  From time to time, STH may contract with third parties for performance of some of its business functions.  Examples may include marketing analysis and customer service functions.  While these third parties will have access to customer information in order to perform their functions, such data may not be used by them for other purposes.
 
-Our web server automatically logs the IP address of each visitor to our website.
+2.          **When data regarding individual customers are aggregated**.  STH may share with third parties certain aggregated, non-personal information, such as aggregated data about usage of services in a particular geographical area.  In no way will such information include the identity of any STH customer.
 
-We also collect the domain name and e-mail address of visitors to our website who supply us the information. We collect e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, and the e-mail addresses of those who make postings to our chat areas. We aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+3.          **For overriding considerations**.  STH will release information about its customers when it deems that legal or safety concerns override a customer’s reasonable expectation of privacy.  For example, such a disclosure may occur in compliance with instructions from a court or requests from law enforcement officials, in order to fully enforce our Terms and Conditions of Use [ _link_ ], or to protect the safety and property of others, including by coordinating with other businesses to prevent fraud and reduce credit risks.  However, in no case will this include the commercial use of customers’ account information in any way inconsistent with this Privacy Policy.
 
-The information we collect is used to improve the content of our website, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our website, shared with agents or contractors who assist in providing support for our internal operations, used by us to contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
+4.          **Upon the transfer of our business**.  If StopTheHacker Inc. or some or all of its STH business is acquired by another company, then customer data may be transferred, by operation of law or by agreement, along with the other assets of the business.
 
-**How We Will Contact You**
+**What information does STH collect about its customers?**
 
-If you do not want to receive e-mail from us in the future, please let us know by visiting our contact page.
+STH may collect and retain information it receives about its customers from a number of sources.  These include:
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by visiting our contact page.
+A.        Data Inputted by the Customer.  Anyone using STH services that require registration may provide identifying or payment information (such as a name, email or mailing address, credit card information, account password, etc.).
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by visiting our contact page. You must provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations
+B.        Information Tracked with Cookies.  Regardless of whether a customer’s experience of the STH website involves registration or the creation of a purchase order, we send one or more “cookies” to visitors to the site in order to uniquely identify their browsers.  STH can then use these cookies to track customer preferences.
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders or accounts. If you do not wish to receive such telephone calls, please let us know by visiting our contact page. You must provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
+C.        Server Log Data.  STH’s servers may automatically record information they receive from a customer’s browser during a visit to our website.  The resulting server logs may include information such as a customer’s web requests, Internet Protocol address, browser type, browser language, the date and time of web requests and cookies that may uniquely identify the customer’s browser.
 
-**Ads On This Site**
+D.        Customer Communications.  When customers send email or other communication to STH, we may retain those communications in order to process requests, respond to inquiries and improve our services.
 
-We do not partner with or have special relationships with any ad companies.
+E.         Information Received from Others.  STH may receive data that customers of the STH website have provided to third parties, such as vendor partners of STH.  While such third parties may have their own privacy policies, we will, for our part, treat all such information as if it were provided directly from the customer to STH under this Privacy Policy.
 
-**Changes to This Policy**
+F.         Hyperlinks.  The STH website may present hyperlinks in a format that enables us to keep track of whether these links have been followed.  We may use this information to improve the quality of our service and customized content and advertising for particular classes of customers.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back to our website periodically.
+**How secure is the customer information gathered by STH?**
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by visiting our contact page.
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data we maintain.  We restrict access to personal information of our customers to STH’s employees, contractors and agents who need to know that information in order to operate, develop or improve our services.
 
-Upon request we provide site visitors with access to communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries). Consumers can access this information by visiting our contact page.
+*    *    *    *
 
-**To Update Your Information On File With Us**
+Please note that this Privacy Policy may change from time to time.  This page will be revised to reflect any such changes and, if the changes are significant, we may or may not provide a more prominent notice (including, for example, by email notification).  Each version of this Privacy Policy will be identified at the top of the page by the date of its most recent revision.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information. Consumers can have this information corrected by visiting our contact page.
-
-**Information Security**
-
-We have appropriate security measures in place in our facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-**Questions**
-
-If you have questions about our privacy policy or feel that this site is not following its stated information policy, you may contact us at the above phone number or by visiting our contact page.
+Please feel free to direct any questions or concerns regarding this Privacy Policy or our treatment of customer information, via email, to [support@stopthehacker.com](mailto:support@stopthehacker.com), or by writing to us at Privacy Policy Compliance, StopTheHacker Inc., 912 El Camino Real,Suite 4,Burlingame,CA 94010,USA.  When we receive formal, written complaints, it is our policy to contact the complaining customer regarding his or her concerns.
