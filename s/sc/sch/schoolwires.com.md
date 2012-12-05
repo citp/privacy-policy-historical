@@ -1,209 +1,197 @@
-> *The following text is extracted and transformed from the schoolwires.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202204148id_/http%3A//www.schoolwires.com/5420_100524234157/blank/browse.asp%3Fa%3D383%26BMDRN%3D2000%26BCOB%3D0%26c%3D50231%265420_100524234157Nav%3D%7C%26NodeID%3D38) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolwires.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205092606id_/http%3A//www.schoolwires.com/privacy) for the most accurate reproduction.*
 
-# Schoolwires Academic Portal - Content Management | Legal
+# Legal / Privacy Policy
 
-| 
+### Effective on October 17, 2012
 
-| 
+Schoolwires, Inc. is committed to protecting your privacy. This Privacy Policy was developed to give you a full understanding of terms and conditions relating to the handling of certain personal information which may be collected by Schoolwires.
 
-Effective on 01/20/05
+This Privacy Policy applies both to personal information collected on websites or other web-based environments provided and hosted by Schoolwires (collectively “Websites”) for your school, school district or other organization (“School”).
 
-**[](http://www.truste.org/ivalidate.php?url=www.schoolwires.com&sealid-104)Schoolwires, Inc.®** is proud to power your Internet site. We are dedicated to providing easy-to-use, powerful and affordable Internet sites.
+This Privacy Policy pertains only to the personal information that Schoolwires collects from you or that is provided to us by the School. Personal information is information that identifies a particular individual, such as a person’s first and last name, postal address, e-mail address and phone number.
 
-At **Schoolwires** , we are equally committed to protecting your privacy. This Statement was developed to give you a full understanding of terms and conditions relating to information collected through your organization’s site.
+In connection with the School’s Website, this Privacy Policy applies only to the Schoolwires practices regarding personal information which is collected on the Website hosted by Schoolwires and NOT to sites hosted by the school or another third-party. Schoolwires has been retained by the School to provide and host the Website on which the School has added customized content. The School administers and oversees the Website and, accordingly, has control over who can register for use of various features of the Website and who can access the personal information posted or maintained on the Website. The School can also add content and information directly onto the Website. The School may have its own policies addressing collection, use and sharing of personal information. For information about whether this Privacy Policy applies to you and about the School's own policy, please contact the School.
 
-This Privacy Statement pertains only to the information that **Schoolwires** collects or that is provided to us by your organization. Your organization may have its own policies addressing collection, use and sharing of personally identifiable information. For information about your organization’s policy, please contact your organization directly.
+## Information We Collect When Hosting a School’s Website
 
-This Privacy Statement applies only to ASP-Delivered sites and NOT to sites hosted by your organization or a Third-Party Hosting Facility. Please contact your organization’s Primary Contact to **Schoolwires** to learn if this Privacy Statement applies to you.
+You may visit certain Websites as a guest without registering. Registration, however, will give you access to certain features as well as the ability to personalize certain features. Schoolwires collects personal information through registration which occurs in two ways:
 
- **
+ **1\. Self-Registration.** If you choose to become a registered user, on behalf of the School, we will ask for personal information from you through the Website. After we collect this information from you, it may be verified by the School. So that the registration process is compliant with federal law under the Children's Online Privacy Protection Act (COPPA), you are first asked for your birth date. Birth date information is collected only to validate your age and is not stored. Children under 13 years of age are not allowed to register themselves with the Website.
 
-**Message from TRUSTe**
+ **2\. Pre-Registration.** You may be pre-registered by the School in one of two ways. Either way, the School may not share personal information for children under 13 years of age with Schoolwires without first receiving verifiable parental consent. The two means of pre-registration are:
 
-**
-
-Schoolwires, Inc. is a licensee of the TRUSTe Children’s Privacy Program. This Privacy Statement discloses the privacy practices for Schoolwires.com. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. This Web site complies with the TRUSTe Children’s Privacy Program, which has been approved by the Federal Trade Commission as an authorized safe harbor under the Children’s Online Privacy Protection Rule. When you and your child visit a Web site displaying the TRUSTe trust mark, you can expect to be notified of:  
-  
----  
-  | 
-
-a. 
-
-| What Personal Information the Web site seeks to collect from your child;  
----|---  
-  
-b. 
-
-| The organization(s) collecting the information;  
-  
-c. 
-
-| How the information is used;  
-  
-d.
-
-| With whom the information may be shared;  
-  
-e. 
-
-| What choices are available to you regarding collection, use and distribution of the information collected from your child;  
-  
-f. 
-
-| The kind of security procedures that are in place to protect the loss, misuse or alteration of information under the control of Schoolwires;  
-  
-g. 
-
-| How you can review and delete any information collected from your child;  
-  
-h. 
-
-| How you can opt not to share Personal Information collected from your child with  
-third parties, if you so choose.  
-  
-**Information We Collect  
-** You may visit your organization’s site as a guest without registering. Registration, however, will give you access to certain features as well as the ability to personalize certain features.
-
- **Schoolwires** collects personal information via registration. Registration occurs in two ways:  
-  
-| 1. | 
-
-**Self-Registration.** If you choose to become a registered guest, we will ask for personal information from you through your organization’s site powered by Schoolwires. After we collect this information from you, it may be verified by an official at your organization. So that the registration process is compliant with federal law under the Children’s Online Privacy Protection Act (COPPA), you are first asked for your birth date. Birth date information is collected only to validate your age and is not stored.  
-  
----|---  
-  |  | a.  | 
-
-_Children under 13 years of age_ are not allowed to register themselves with your organization’s **Schoolwires** site. Before a child under 13 may access features that require registration, the organization must first obtain a signed parental consent form. Consent is received by the organization, the organization is responsible for providing parent access to the child’s profile so the parent may, at any time, review, modify delete the child’s personal information. A parent also has the right to refuse to further collection of the child’s information. If you have questions regarding your profile, please contact your organization’s Primary Contact to **Schoolwires**.  
-  
----|---  
-b.  | 
-
-_If you are over 13 years of age,_ you are required to supply your First and Last Name, Email Address, Sign-In Name and Password. These fields are labeled to indicate that they are required. The following fields are labeled as optional: Title, Address, City, State, ZIP Code, Phone and Fax. After registration, the Site Director for your organization may decide to assign to you a role or roles (viewing privileges). Based upon your designated role(s), you may have access to additional information or services. If you have questions concerning your role(s), please contact your organization’s Primary Contact to **Schoolwires**.  
-  
-2\.  | 
-
-**Pre-Registration.** You may be pre-registered by your organization in one of two ways. Either way, your organization may not share personal information for children under 13 years of age with **Schoolwires** without first receiving parental consent.  
-  
-  |  | a.  | Your registration information may be shared with **Schoolwires** via a school-provided list. **Schoolwires** would use this list to conduct a batch import of information.  
----|---  
-b.  | A school-designated individual may input registration information for you.  
-  
-  
-Information collected for registration may also be used to (1) provide you with important information about your school’s site, such as updates or notices, (2) improve our product and services, (3) improve customer service and/or (4) in aggregate, guide our internal marketing efforts. No personally identifiable information will be shared with third parties.
-
-Additional information may be requested of you in other situations, for example, if you submit a customer support request or a content submission request. In such instances, the goal of collecting additional information is to serve you more effectively and efficiently. 
-
-It is important to understand that sites powered by **Schoolwires** are used to present and archive information supplied by content contributors designated by your organization. **Schoolwires** does not supply the organization-specific content appearing on your organization’s website. Once posted to the Internet, content supplied by content contributors at your organization is public information available via the Internet.
-
-**Privacy of Children**  
+  * Your registration information may be shared with Schoolwires in a School-provided list. Schoolwires would use this list to conduct an import of registration information.
+  * A school-designated individual may input registration information for you.
 
 
-**Schoolwires** is dedicated to the privacy of children under 13 years of age. We do not collect or entice (by use of contests, games, prizes, or other enticements) from children more information than is needed to access services. We will not share any personal information about children with third parties.
 
-As a parent or legal guardian for children under 13, you may review your child’s personal information. After your child’s parental consent form is submitted, an individual at your organization will supply you with your child’s Sign-In and Password. If you would like to refuse to allow any further collection or use of your child’s information, please contact your organization’s Primary Contact to **Schoolwires**.
+Before a child under 13 may access features that require registration, the School must first obtain verifiable parental consent. After consent is received by the School, the School is responsible for providing parent access to the child's profile so the parent may, at any time, review, modify, or delete the child's personal information. A parent also has the right to refuse to further collection of the child's information. If you have questions regarding registration, please contact the School.
 
- **How We Use Information**  
- **Profile**  
-We do not associate information that we collect through log files or third parties with your personal profile. The information is provided voluntarily by you when you register for the site. A profile is stored information that gives you access to certain features as well as the ability to personalize certain features. Your profile can be used only by you, **Schoolwires** and your organization.
+If you are over 13 years of age, you are required to supply your First and Last Name, Email Address, Sign-In Name and Password. These fields are labeled to indicate that they are required. The following fields may appear and are labeled as optional: Title, Address, City, State, ZIP Code, Phone and Fax.
 
-**Cookies**  
-A cookie is a piece of data stored on your computer tied to information about you. The only personal information a cookie can contain is information you supply.
+After registration, the Site Administrator for the school may decide to assign to you a role(s) or group(s). Based upon your designated role(s) or group(s), you may have access to additional information or services. If you have questions concerning your role(s) or group(s), please contact the School.
 
-**Schoolwires** uses session or dynamic cookies to let us know when a user is signed in. Once you close your browser, the cookie simply terminates.
+Information collected for self-registration or pre-registration may also be used to (1) provide you with important information about the Website, such as updates or notices, (2) improve our product and services, (3) improve customer service, (4) create a profile for you, and/or (5) in aggregate, guide our marketing efforts. No personal information will be shared with third parties except to the extent expressly described in this Privacy Policy and otherwise in accordance with applicable law.
 
-When a user is signed in and depending on the user’s assigned role(s), additional services become available through our menu system. Again, depending on your assigned role(s), cookies may offer the following benefits after Sign-In:  
-  
-| 1\.  | A personalized salutation greeting  
----|---  
-2\.  | Content tailored to your role(s)  
-3\.  | Use of services that require Sign-In  
-4\.  | Session time-out, a security feature  
-  
-You can disable cookies in your browser’s preferences. If you disable cookies in your browser, you may still use your school’s site. Services, however, that require Sign-In will not work if cookies are disabled.
+### Additional Information Which You Provide to Us
 
-We do not use web beacons (single-pixel gifs) to count visitors or deliver co-branded services.
+Additional information may be provided to us in other situations, for example, in connection with a customer support request or a content submission request. The goal of collecting this additional information is to serve you more effectively and efficiently.
 
-**Log Files**  
-Like most standard website servers, we use log files. We use a tracking utility called DeepMetric LiveStats® that analyzes log files to summarize user movement. This includes internet protocol (IP) addresses, browser type, referring domain name, internet service provider (ISP), referring/exit pages, platform type, date/time stamp and number of hits and page views. Log files are not linked to personally identifiable information. **Schoolwires** uses data gathered from the tracking utility to guide sales and marketing decisions, to update client sites as requested and to monitor system performance. As mentioned above in the Profile section, we do not tie log files to personally identifiable information.
+In addition, students, members of the School, and other users of the Website may choose to post, download or upload various pieces of content and/or information on or through the use of the Website, and may use certain “social media”, collaboration, interaction and other capabilities of the Website to exchange various categories of data, materials and information. While we cannot know in advance all types of such information, one example is that teachers or administrators may post blogs, announcements and other information and content directly onto the Website. Another example is that students may chat with each other, or send instant messages or e-mail, via technology which may now or in the future be made available over the Website and may share information, photographs, images or recordings with each other or with the community. Information such as an individual’s name and e-mail address can also be exchanged or made available in messages, chats and other social media and collaborative communications facilitated over the Website. Schoolwires has no practical ability to restrict the information, conduct, communications, or content which might be posted on or exchanged through the use of its technology, nor can Schoolwires ensure prompt removal of any such communications, information or content after transmission or posting. If you or your child provide personal information when using any social interaction, collaboration or messaging capabilities or features of the Website (such as chat rooms, blogs, message boards, profile pages, etc.), that personal information may be copied, publicly posted and otherwise disclosed without limitation as to its use by third parties. There may be monitoring or filtering tools utilized by the Website which track or log content or information downloaded or posted to the Website. If you are concerned about any information or content that may be posted, transmitted or accessed on the Website, please contact the School. In connection with the use of PassKey Manager™ or similar solution, you or the School may provide us with your or your child’s login credentials for certain software applications and web services in order to facilitate single sign-on access to these applications and services. These login credentials may include the username, password and any other required information which you selected or were supplied in order to access certain applications and web services.
 
-**Communications from the Site**  
- _Service Announcements  
-_ From time to time, it may be necessary to send out a strictly service-related announcement. For instance, if our service is temporarily suspended for maintenance, we might send you a notification email. Users cannot opt-out of these communications though they can deactivate their account. (See section entitled Modifications to Personal Information later in this Statement.) However, these communications are not promotional in nature.
+On behalf of the School, we may also (now or in the future) maintain and/or present academic and other similar information regarding students via technology or software provided by Schoolwires or by third parties who have authorized Schoolwires to distribute and/or present this information.
 
- _E-Alerts and Subscriptions  
-_ E-Alerts and Subscriptions is an optional feature that allows registered users to subscribe to content on a site. If your organization purchased the E-Alerts software option, you can use two different kinds of E-Alerts:
+As noted below, we may also ask you to provide us with survey information to help us improve our products and services.
 
-1\. **Broadcast E-Alerts:** These are accessed by Site and Subsite Directors to send an email message to a specific group or multiple groups of users (i.e., users assigned the same viewing permissions[roles]).
+### Information from the School
 
-2\. **Content E-Alerts:** These provide for automatic email notification to users whenever significant changes are made to one or more homepages or sections to which they subscribe. Please note that the content editors decide whether to send an E-Alert to subscribers. The email message that users receive contains a link to the actual homepage or section, allowing them immediate and direct access.
+The School administers and oversees the Website which presents and archives information supplied by content contributors designated by the School. Schoolwires does not supply the school-specific content appearing on the Website. Once content is posted to the Website by content contributors at the school, it is public information available on the Internet. If content is posted by content contributors to groups or pages with restricted viewing permissions, that content is only displayed to users authorized to see that content.
 
-Users can disable this feature by checking the “OFF” option for the “Your E-Alerts are” question. The default option is OFF. Registered users can also modify site homepage or section subscriptions by clicking the “Edit Subscriptions” button.
+In addition to supplying the content for its Website, the School can control which individuals can be registered to use certain Website features and which individuals or groups are granted privileges to access, view or use personal information collected, exchanged or maintained on the Website. The Site Administrator can also access your personal information, and grant rights of access to others, as it deems appropriate. The School may also provide Schoolwires with the registration information and login credentials described above, as well as with other information about you which it deems appropriate. Please contact the School regarding its policies and/or practices in this regard.
 
- _Customer Service  
-_ As necessary, **Schoolwires** may communicate with you via email, phone or online to provide requested services and in regards to account-related issues.
+### Information Collected through Technology
 
-**Sharing**  
- _When Required by Law  
-_ Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on your organization’s site.  
+As noted below, we may also collect cookies and web beacons in the course of your use of our technology.
+
+## Privacy of Children; Privacy of Students
+
+Schoolwires is dedicated to the privacy of children under 13 years of age. We do not collect or entice (by use of contests, games, prizes, or other enticements) from children more personal information than is needed to access services. Before Schoolwires collects personal information from children under 13, the School must first obtain verifiable parental consent. Schoolwires will not share any personal information about children with any third parties other than as specified in this Privacy Policy.
+
+As a parent or legal guardian for children under 13, you may review your child's personal information. After your child's parental consent is submitted, an individual at the School will supply you with your child's Sign-In and Password so that you may access and review the types of personal information collected from your child. If you would like to refuse to allow any further collection or use of your child's information (or only wish to consent to the collection and use of your child’s personal information without consenting to the disclosure of that information to third parties), please contact the School or Schoolwires. If the request is made to Schoolwires, we will look to the School to validate the request and respond accordingly.
+
+Schoolwires is dedicated to maintaining the privacy of all students, whether under 13 or older, in accordance with applicable laws. In this regard, we will maintain any and all personal information in education records which come into the possession of Schoolwires in accordance with the requirements of the Family Educational Rights and Privacy Act (“FERPA”), and will not disclose such information to third parties except with the consent of a parent, the School or an eligible student (as applicable), unless otherwise permitted under FERPA and its associated regulations. One instance in which personal information in education records may be disclosed to third parties under FERPA is if the information is classified as “directory information” by your educational institution. Please check with the School if you have any questions as to which information they have classified in this manner.
+
+## How We Use Information Collected When Hosting the School’s Website
+
+### User Account
+
+Schoolwires does not associate information that we collect through log files or third parties with your user account. The information is provided voluntarily by you or the School during registration. A user account is stored information that gives you access to certain features as well as the ability to personalize certain features. Your user account can only be accessed and used by you (including, where applicable, your parent or guardian), the Site Administrator and restricted personnel of Schoolwires and its contractors.
+
+### Cookies and Web Beacons
+
+A cookie is a piece of data stored on your computer tied to information about you. The only personal information a cookie can contain is information you supply. Schoolwires uses session or dynamic cookies to let us know when a user is signed in. Once you close your browser, the cookie simply terminates. We may use web beacons (single-pixel gifs) to count visitors.
+
+When you are signed in and depending on your assigned role(s), additional services become available through our menu system. Again, depending on your assigned role(s), cookies may offer the following benefits after Sign-In:
+
+  * A personalized salutation greeting
+  * Content tailored to your role(s)
+  * Use of services that require Sign-In
+  * Session time-out, a security feature 
 
 
-_District and School Editors_  
-Users who have been assigned editorial positions of Site or Subsite Directors have access to all registered user information strictly and solely on their organization’s site. Contact your organization’s Primary Contact to **Schoolwires** for more information regarding who has been assigned these positions and how this position-assigning process works for your organization.
 
-_Business Transitions  
-_ In the event **Schoolwires** goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, your personal information will, in most instances, be part of the assets transferred. You will be notified by a prominent notice on our corporate website prior to a change of ownership or control of your personal information. For more information, see the **Schoolwires** Privacy Policy Statement Changes section.
+You can disable cookies in your browser's preferences. If you disable cookies in your browser, you may still use the Website. Services, however, that require Sign-In will not work if cookies are disabled.
 
-**Links  
-** Your organization’s site may contain links to other sites. **Schoolwires** is not responsible for the privacy practices of other such sites. **Schoolwires** privacy statement applies solely to information collected by **Schoolwires**.
+## Interactive Communications
 
-**Surveys and Feedback Forms  
-** From time to time, our site may request information from you through surveys or feedback forms. Participation in these surveys or feedback forms is voluntary. If personal information is requested, **Schoolwires** will fully disclose this to you prior to submission. Information collected is used for the purposes of improving our product and services and understanding our audience.
+Registered users may collaborate and communicate through interactive means facilitated on the Website. As an example, if you are a student who is a registered user, you may utilize instant message chat features, e-mail features, posting on message boards and other features. In using these features, you may disclose personal information of your choosing to other registered users. If you post content to the Website, we may maintain such content and publish your screen name and other similar information provided to us.
 
-**Schoolwires** takes security seriously and employs measures to protect your information. Only employees who need the information to perform a specific job (for example, a customer service representative) have access to personally identifiable information.
+## Communications from the Site
 
-If **Schoolwires** hosts your site, the servers that store personally identifiable information are in a secure environment. Personal information is stored in password-controlled servers with limited access. If you have any questions about the security of your organization’s web site, please send a message to security@schoolwires.com.
+### Service Announcements
 
-If your organization hosts your site or chose to host with a Third-Party Hosting Facility, your organization or the Third-Party Hosting Facility is responsible for ensuring security. Contact your organization’s Primary Contact to Schoolwires for information regarding its security provisions.
+From time to time, it may be necessary to send out a service-related announcement. For instance, if our service is temporarily suspended for maintenance, we might send you a notification email. Users cannot opt-out of these communications though they can delete their account. (For more information, see the Modifications to Personal Information section.) These communications are not promotional in nature.
 
-**Modifications to Personal Information**
+### Data Retention
 
-There are three ways your personal information can be modified:  
-  
-| 1\.  | 
+When you or the Site Administrator delete your account, the information contained in your user account is no longer available except to the extent it is backed-up as described below. We do not retain your data except as necessary to comply with our legal obligations, resolve disputes and enforce our agreements, all in compliance with applicable laws. We also back-up information in accordance with industry standard practices and as directed by the School.
 
-If your personally identifiable information changes (such as ZIP code, phone, email or postal address), or if you no longer desire full access to **Schoolwires** services, you may update or delete your personally identifiable information. This can be done by Signing In and clicking on the Access My Info button at the top of your organization’s page.  
-  
----|---  
-2\.  | 
+### E-Alerts
 
-Site and Subsite Directors have access and the ability to update personal information. These Editors only have access to their organization’s user information. For children under 13 years of age, your organization is responsible for first validating receipt of the parental consent form.  
-  
-3\.  | 
+E-Alerts is a Website feature available on certain platforms. There are two types of E-Alerts:
 
-**Schoolwires** may gather information from Site Directors in your organization which would allow **Schoolwires** to conduct a mass user import to update user information. For children under 13 years of age, your organization is responsible for first validating receipt of the parental consent form.  
-  
-**  
-Schoolwires Privacy Policy Statement Changes**  
-If we change our privacy policy, we will post the revised policy to [www.schoolwires.com/policies](https://web.archive.org/web/20070202204148id_/http%3A//www.schoolwires.com/5420_100524234157/blank/www.schoolwires.com/policies) and other places we deem reasonable and appropriate to keep you informed. When material changes affecting users under 13 years of age are made to this privacy policy, **Schoolwires** will post a change notification announcement on all of our clients’ **Schoolwires** sites. This announcement will include a link to the current privacy policy. The same notification procedure will be followed for users over the age of 13. If Schoolwires materially changes how it uses personal information about children under age 13, Schoolwires will have the school obtain verifiable parental consent for the new use of children’s personal information. 
+  1. **Broadcast E-Alerts** are used by Site Administrators to send an email message to a specific group or multiple groups of users (i.e., users assigned the same groups).
+  2. **Content E-Alerts** are email notifications to users when certain changes are made to one or more homepages or sections to which they subscribe. Content editors decide whether to send an E-Alert to subscribers. The email message that users receive contains a link to the actual homepage or section, allowing them direct access.Users can opt out of E-Alerts through options in their Account Settings.
 
-**Usage Implies Consent**  
-By using sites powered by **Schoolwires, Inc.** , you consent to this Privacy Statement. If you do not agree to this Privacy Statement, please do not use **Schoolwires** services.
 
-**Schoolwires Corporate Site: _www.schoolwires.com_**  
-When visiting the **Schoolwires** corporate site at www.schoolwires.com, personally identifiable information is collected in several ways. For example, we may ask for contact information when you correspond with us, request a demonstration, register for a seminar, inquire about special offers or programs, etc. Depending on the nature of your submission of personally identifiable information, a **Schoolwires** representative may contact you to gather or share additional information. No personally identifiable information will be shared with third parties.   
-  
-**Contact Information**   
-At Schoolwires, we take privacy issues very seriously. If you have any questions, suggestions or concerns regarding our privacy policy, please contact us. For children’s privacy issues, please contact Jason Coudriet at (814) 689-1046 ext. 309. 
 
-**Schoolwires, Inc.**  
+### Notifications
+
+The Website will notify Site Administrators by email or by electronic means when new users request access to the Website through self-registration. In addition, the Website will notify users by email or by electronic means when other users comment on their blog, when account changes are made to their account, and when other such activities occur on the Website.
+
+## Customer Service
+
+As necessary, Schoolwires may communicate with you through email, phone or online to provide requested services and in regards to account-related issues.
+
+## Sharing of Information Collected When Hosting a School’s Website
+
+### When Required by Law
+
+Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on the Website.
+
+### Administrative Privileges
+
+Users who have been assigned administrative privileges by the School have access to all registered user information strictly and solely on their Website. Contact the School for more information regarding who has been assigned these privileges and how this assigning process works.
+
+### Business Transitions
+
+In the event that Schoolwires goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, your personal information will, in most instances, be part of the assets transferred. You will be notified by a prominent notice on our corporate website prior to a change of ownership or control of your personal information. For more information, see the Schoolwires Privacy Policy Statement Changes section.
+
+### Service Providers
+
+From time to time, Schoolwires may retain trusted businesses and contractors to provide certain services which support our provision and hosting of the Website or otherwise support the operation of the associated online services. We may also contract with trusted third parties to provide complimentary products or services which may be integrated with, linked to (either via a website link or otherwise) or accessible from (such as through single sign on functionality), the Website. These business and contractors who have access to personal information are required to protect this information in a manner that is consistent with this Privacy Policy, for example, by not using the information for any purpose other than to carry out the services they are performing for us or to facilitate access to an integrated service offering. We will not disclose your personal information to any third party to the extent prohibited by law.
+
+### Compliance with Laws
+
+Schoolwires will, of course, comply with the requirements of COPPA and FERPA to the extent that these laws apply to the information collected and maintained by Schoolwires. Accordingly, notwithstanding anything to the contrary in this Privacy Policy, we will not collect, use or disclose personal information covered by COPPA and FERPA except in compliance with the respective requirements of each of these statutes and their associated regulations. We will also comply with all other applicable laws which govern the information which it maintains.
+
+## Terms which Apply to All Personal Information Collected by Schoolwires
+
+### Modifications to Personal Information
+
+There are three ways personal information can be modified
+
+1\. If your personal information changes, or if you no longer want a user account on the Website, you or (depending on the platform you are using) your Site Administrator may update or delete your personal information in your account.
+
+2\. Site Administrators can modify personal information. These Administrators only have access to their Website’s user information. For children under 13 years of age, the School is responsible for first validating receipt of verifiable parental consent.
+
+3\. If you have any other requests related to the modifications or deletion of your personal information, please contact the Site Administrator or Schoolwires. If the request is made to Schoolwires, we will look to the School to validate the request and respond accordingly.
+
+### Links
+
+The Website may contain links to other sites. Schoolwires is not responsible for the privacy practices of other such sites. This Privacy Policy applies solely to information that we collect.
+
+### Surveys and Feedback Forms
+
+From time to time, Schoolwires may request information from you through surveys or feedback forms. Participation is voluntary. Information collected is used for the purposes of improving our product and services and understanding our audience. No personal information collected in this manner will be used or disclosed except in compliance with this Privacy Policy.
+
+### Security
+
+Schoolwires takes security seriously and employs reasonable security measures and procedures designed to protect your information from unauthorized access and improper use. Only employees, trusted contractors supporting the operation of the Website, and other third party partners and contractors as generally described in this Privacy Policy have access to personal information. These individuals and entities shall be bound to protect the information appropriately.
+
+Schoolwires servers that store personal information are maintained in a physical environment that utilizes industry-standard security measures. Personal information is stored in password-controlled servers with limited access. Be aware though that, despite our diligent efforts and implementation of reasonable security measures, no security measures are perfect or impenetrable and no data transmissions over the Internet can be guaranteed to be 100% secure. If you have any questions about the security of the Website, please email us at [security@schoolwires.com](mailto:security@schoolwires.com).
+
+If the School hosts your Website or hosts with a third-party, the School or the third-party is responsible for ensuring security. In addition, as noted above, the School has the ability to control the collection, use and dissemination of personal information maintained or processed through the Website. Contact the School for information regarding security provisions.
+
+### Schoolwires Privacy Policy Statement Changes
+
+If we change this Privacy Policy, we will post the revised Privacy Policy, with an updated effective date, to your School’s Website by way of a link to [www.schoolwires.com/privacy](http://www.schoolwires.com/privacy). In addition, we will notify the School so that supplemental notice can be provided by the School to Website visitors. When we believe material changes affecting users under 13 years of age are made to this Privacy Policy in connection with your School Website, Schoolwires will notify your School and request that the School obtain verifiable parental consent to the extent required, and in accordance, with applicable law. We encourage you to periodically review this Privacy Policy by visiting the School Website and clicking on the Privacy Policy link to stay informed about how we are collecting, using and sharing personal information. Except as otherwise required by law, all changes to this Privacy Policy will be effective when the updated Privacy Policy is posted to the and each user is bound by such changes when he or she uses the Website after such changes have been posted.
+
+### Usage Implies Consent
+
+By using the Website, you consent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use Schoolwires services. Similarly, with respect to personal information which you provide voluntarily (such as name, address and telephone number in order to create an account), please do not submit such information if you do not want Schoolwires to collect and maintain it.
+
+### Non-Personal Information
+
+In the event that any information Schoolwires collects is, or later becomes, public information that is not required at the time to be maintained as confidential under applicable laws, or to the extent that any information we collect is neither personal in nature nor otherwise required to be maintained as confidential under applicable laws, then Schoolwires shall have no responsibility hereunder in connection therewith. As an example, Schoolwires may aggregate certain information we maintain with information about other individuals in a manner that does not disclose personal information specific to any individual. As an additional example, Schoolwires may remove characteristics that make the individual personally identifiable, thereby de-personalizing the information. In either of these examples, Schoolwires shall be free to utilize the information in any way and, unless otherwise required by law, shall not be bound by the terms of this Privacy Policy. As always, Schoolwires will comply with all applicable laws and governing regulations in the collection, use and disclosure of information.
+
+### Additional Limitations
+
+Despite our best efforts, no security measures are perfect or impenetrable. In this regard, we are not responsible for events or conditions beyond our reasonable control to the extent that they relate to or impact the obligations assumed, or commitments made, hereunder. However, in the event of any data breach or other violation of this Privacy Policy caused by factors outside of our reasonable control, we will comply with all applicable laws in this regard, including those requiring notification in the event of certain defined data breaches.
+
+### International Users
+
+As Schoolwires is a U.S.-based company, your personal information will likely be collected and maintained in the United States. If you are visiting from the European Union or other regions with laws governing data collection and use that may be different from U.S. law, then by using this Website, you consent to your personal information being collected, used and transferred as set forth in this Privacy Policy.
+
+### Contact Information
+
+Schoolwires takes privacy issues very seriously. If you have any questions, suggestions or concerns regarding this Privacy Policy, please contact us at [privacy@schoolwires.com](mailto:privacy@schoolwires.com).
+
+Schoolwires, Inc.  
 ATTN: Privacy Officer  
-Innovation Park at Penn State  
-200 Innovation Boulevard, Suite 254  
-State College, PA 16803
-
+330 Innovation Blvd. Suite 301  
+State College, PA 16803  
 Phone: 814.689.1046  
-Fax: 814.689.3962  
 Email: [privacy@schoolwires.com](mailto:privacy@schoolwires.com)  
-URL: [www.schoolwires.com/policies](http://www.schoolwires.com/policies)
+URL: [www.schoolwires.com/privacy](http://www.schoolwires.com/privacy)  
 
-If you have questions or concerns regarding this statement, you should first contact **Schoolwires**. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact the TRUSTe Watchdog Dispute Resolution Program at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
