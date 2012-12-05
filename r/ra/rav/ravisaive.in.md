@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the ravisaive.in privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510202000id_/http%3A//www.ravisaive.in/2011/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ravisaive.in privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205075252id_/http%3A//www.ravisaive.in/2011/03/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Ravi Saive: A Technology Blog For Newbies
 
 Posted On: **11.7.11**   Categories: 
-
-**Like It?** **Please Share It :**
 
 **Privacy Policy:**
 
@@ -35,11 +33,3 @@ We use third-party advertising companies to serve ads when you visit our website
 Yours Sincerely
 
  Ravi Saive
-
-**Like It?** **Please Share It :**
-
-_**If you have a Tip, tutorial, Idea or anything you want to share with ravisaive readers, you can send it to : ravisaive.in[a]gmail.com**_
-
-If you have any questions or comments regarding this article, feel free to [leave a comment](http://www.ravisaive.in/2011/03/privacy-policy.html#comment-form) with the comment function in every post below. We will follow up quickly. 
-
-If you enjoyed this article and wish to receive more great articles from us then don't forget to subscribe to our regular Email Updates to receive Latest Articles in your Mailbox.
