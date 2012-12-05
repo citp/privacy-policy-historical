@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chiru.in privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602112226id_/http%3A//chiru.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiru.in privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205045532id_/http%3A//chiru.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chiru Fans site
 
