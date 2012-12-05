@@ -1,227 +1,88 @@
-> *The following text is extracted and transformed from the rvtrader.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617060537id_/http%3A//www.rvt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rvtrader.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205154443id_/http%3A//www.dominionenterprises.com/privacy) for the most accurate reproduction.*
 
-# RVT Privacy Agreement
+# Privacy - Dominion Enterprises
 
-[](http://www.truste.org/ivalidate.php?url=www.rvt.com&sealid=101) |   | 
+### Dominion Enterprises Privacy Policy
 
-Last Updated: May 21 2008
+Your privacy is important to us. To better protect your privacy, Dominion Enterprises and/or our applicable subsidiaries and/or affiliates (collectively, “Dominion”, “us”, “our” or “we”) provides this Privacy Policy, which explains our online information practices and the choices you can make about the way in which your information is collected and used on this website or any other website operated by us where this policy appears or is otherwise accessible by you (for instance, via links from the website) (collectively, this “Website”). (Some of our Websites may also be governed by separate or additional private policies.) Please see our Terms and Conditions for additional information applicable to your use of our Website. By providing us with personally identifiable information, you expressly consent to our collection, storage, use and disclosure of your personally identifiable information as described in this Privacy Policy.
 
-**Natco Trading Corporation, DBA RV Trader** is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.rvt.com](http://www.rvt.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+#### The Information We Collect
 
-If you have questions or concerns regarding this statement, you should first contact RVTrader Support at [tradersupport@rvt.com](mailto:tradersupport@rvt.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+You do not have to give us personally identifiable information in order to access and browse our Website. However, while on our Website, you may be able to search, buy, order or bid on products, enter promotions, sweepstakes or other contests, participate in a survey, complete a questionnaire or other “information request” form, or otherwise subscribe to one of our services such as our online newsletters, participate in one of our online forums/communities, express an opinion or communicate with our customer service. In order to utilize, participate in or otherwise access such products, services or other offerings, you may be required to provide us with your personally identifiable information, which is information that, alone or in combination with other information, allows us to indentify you, such as your name, address, phone number, e mail address, contact preferences, credit card information, financial information or information relating to a support or service issue. **If you provide us with your personally identifiable information, you are giving us permission to use that information for the specific purpose for which it is provided and for any other purpose described in this Privacy Policy, which are described in detail below under “How We Use the Information”**. Users unwilling to provide personally identifiable information online can choose not to provide such information, and in some (but not all) situations users may be able to work with a sales representative or customer service representative to utilize our services or other site offerings without providing personally identifiable information. **IN ADDITION, IF YOU DO PROVIDE US WITH YOUR PERSONALLY IDENTIFIABLE INFORMATION, YOU HAVE THE ABILITY TO PREVENT US FROM SHARING YOUR INFORMATION WITH THIRD PARTIES IF YOU WISH, AS DESCRIBED BELOW UNDER “Your Options Regarding Personally Identifiable Information”**.
 
-RV Trader is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of the RV Trader Classifieds.   
-  
----|---|---  
-  
-This policy will let you know: 
+We also may collect, store and use certain non-personally identifiable information we receive when you visit our Website, and we may aggregate data and information provided by or collected from multiple users (which may include you) in a manner that is not personally identifiable to any individual user. All non-personally identifiable information collected by us on our Website and all aggregated/compilations of data we create are the exclusive property of Dominion. Nothing in this Privacy Policy limits our right to use any such non-personally identifiable or aggregated information in any way (including, but not limited to, monitoring user traffic patterns, analyzing and quantifying user preferences, improving the design and content of our Website, and enabling us to personalize your user experience) or prohibits us from sharing non-personally identifiable or aggregated information with third parties.
 
-  1. What personally identifiable information is collected from you
-  2. What cookies are and how they are used
-  3. Log Files
-  4. Email-A-Friend
-  5. Newsletters
-  6. Links to Other Sites
-  7. Payment Process
-  8. Who is collecting your information
-  9. Public Display of Personally Identifiable Information
-  10. Testimonials
-  11. With whom your information may be shared
-  12. Service Providers
-  13. Legal Disclaimer
-  14. Choice / Opt-out
-  15. Communications From Our Site
-  16. How you can access, update or delete your information
-  17. The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information
-  18. How RV Trader protects children's privacy
-  19. What else you should know about your online privacy
-  20. Changes in this Privacy Statement
+#### How We Use the Information
 
+Information about our customers is an important part of our business, and we share personally identifiable information collected on our Website with unaffiliated third parties only as described below. (Please see **“Your Options Regarding Personally Identifiable Information”** below for information on how to avoid having your personally identifiable information shared by us.)
 
+  * **Business Providers; Unaffiliated Businesses** : At times, we may provide products, services or offerings on our Website in cooperation with an unaffiliated third party. We may share personally identifiable information that you provide in connection with any such products, services or offerings with the unaffiliated third party(ies) involved in your particular product, service or offering. For instance, when you express interest in products, services, promotions, contests or sweepstakes that we offer (for example, by completing a request for or information regarding such services or completing an entry form for a promotion), we will share your request or expression of interest with the businesses with which we partner to offer you those products, services, promotions, contests and sweepstakes and, as applicable, with their affiliates and third party finder or marketing companies (collectively, “Business Providers”). **By electing to participate or otherwise expressing interest in any such product, service or offering conducted in conjunction with any Business Provider, you expressly authorize us to provide your personally identifiable information to those Business Providers.** Please be aware the Business Providers with whom we share your personally identifiable information may retain or use your information whether or not you use their services, and the privacy and information sharing practices of such Business Providers may differ from those described in this Privacy Policy. Additionally, we may share personally identifiable information with unaffiliated third parties to whom you explicitly ask us to send your information. If you prefer not to be contacted by any such Business Provider or other third party with whom we share your personally identifiable information, you may follow the “unsubscribe” instructions provided in any email you receive from any such third party. In addition, you may opt out of our sharing your personally identifiable information with Business Providers and other third parties by following the instructions on our **[Email Opt Out Form](http://www.dominionenterprises.com/?page_id=3842 "DE Email Opt-Out Form")** , as described below under **“Your Options Regarding Personally Identifiable Information”**.
+  * **Third Party Service Providers** : We employ other companies and individuals to perform functions on our behalf. Examples may include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments and providing customer service. In connection with their performance of functions on our behalf, we may share personally identifiable information with such companies and individuals as needed for them to perform their functions, but we do not permit such entities and individuals to use personally identifiable information for other purposes.
+  * **Third Party Promotions** : We may send offers to selected groups of customers on behalf of unaffiliated businesses that want to market their products or services to you, and as part of these promotional offers we may sell or disclose certain of your personally identifiable information to such unaffiliated businesses. If you prefer not to be contacted by any such business with whom we share your personally identifiable information, you may follow the “unsubscribe” instructions provided in any email you receive from any such third party. In addition, you may opt out of our sharing your personally identifiable information with such businesses by following the instructions on our **[Email Opt Out Form](http://www.dominionenterprises.com/?page_id=3842 "DE Email Opt-Out Form")** , as described below under **“Your Options Regarding Personally Identifiable Information”**.
+  * **In-House Promotions** : We may on occasion combine information we receive online with outside records to enhance our ability to market our products and services that may be of interest to you. If you have signed up to receive our e-mails and prefer not to receive marketing information from our Website, please follow the “unsubscribe” instructions provided on any marketing e-mail you receive from our Website or by following the instructions in our **[Email Opt Out Form](http://www.dominionenterprises.com/?page_id=3842 "DE Email Opt-Out Form")** , as described below under **“Unsubscribe Requests”**.
+  * **Business Transfers** : As our businesses continue to evolve, we might sell one or more of our companies, subsidiaries or business units. In such transactions, personally identifiable information generally is one of the transferred business assets. In such event, this Privacy Policy may be amended as set forth below or the collection and uses of your personally identifiable information may be governed by a different privacy policy.
+  * **Protection of Our Website and Others** : We reserve the right to release personally identifiable information to unaffiliated third parties when we believe its release is appropriate to comply with the law, enforce or apply our Terms and Conditions and other agreements, or protect the rights, property or safety of Dominion, our users or others. This includes exchanging information with other unaffiliated third parties in connection with fraud protection and credit risk reduction.
+  * **With Your Consent** : Other than as set out above, you will receive notice and have the opportunity to withhold consent when personally identifiable information about you might be shared with unaffiliated third parties.
 
-* * *
 
-### What personally identifiable information is collected from you
 
-The RV Trader Classifieds collects information in several ways from different parts of our web site from the buyers, users and dealers. 
+#### Your Options Regarding Personally Identifiable Information
 
-Personal information is gathered when you register as a user or a dealer on our site. During registration, we ask for personally identifiable information such as, name and email address, street address, city, state/province, zip/postal code, country, telephone number, company name, vehicle information, and the URL of your web site, although only fields that are marked with an asterisk (*) on the registration field are required. This information is used solely to assist you in navigating the system by automatically filling in certain forms (such as the ad posting form) with your information so that you don't have to continually re-enter it. Once you register you are no longer anonymous to RV Trader - you have a username and are able to take full advantage of the many offerings of the RV Trader Classifieds. 
+Except where we believe the release of your personally identifiable information is necessary or appropriate (a) to allow third party service provider functions on our behalf or (b) to comply with law, enforce or apply our Terms and Conditions and other agreements, or protect the rights, property or safety of Dominion, our users or others, you may opt out of our sharing of your personally identifiable information with unaffiliated third parties by completing our **[Email Opt Out Form](http://www.dominionenterprises.com/?page_id=3842 "DE Email Opt-Out Form")**.
 
-In addition to registration we ask you for personal information at other times, including (but not limited to) when you place ads or take advantage of the other features of the RV Trader Classifieds such as Auto Notify, Dealer Inventory, and Contact us. We use the information submitted only to provide the service you have requested and for no other purpose. If you contact us, we may keep a record of that correspondence. Every page within the RV Trader Classifieds includes a link to this Privacy Policy. 
+#### Third Party Online Advertising
 
-If you choose not to register or provide personal information, you can still use most of the RV Trader Classifieds, but you will not be able to access areas or use features that require registration. 
+We use third-party advertising companies to provide advertisements to you when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to show you advertisements tailored to your interests on this and other websites and other interactive media and/or to keep track of your response to each ad. For more information on this practice, or to opt out of having this information used by these companies, please visit the Network Advertising Initiative here: <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-Back to Top
+#### Cookies and Web Beacons
 
-* * *
+To enhance your experience with our Website, many of our Web pages use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or reveal other personally identifiable information unless you choose to provide this information to us by, for example, registering at our Website. However, once you choose to furnish our Website with personally identifiable information, this information may be linked to the data stored in the cookie.
 
-### What cookies are and how they are used
+We use cookies to understand site usage and to improve the content and offerings on our Website. or example, we may use cookies to personalize your experience at our Website (e.g., to recognize you by name when you return to our Website), save your password in password-protected areas and enable you to use shopping carts on our Website. We also may use cookies to offer you products, programs or services.
 
-As part of offering and providing customizable and personalized services, the RV Trader Classifieds uses [cookies](http://en.wikipedia.org/wiki/HTTP_cookie) to store and track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Several features of the RV Trader Classifieds require that you accept cookies in order to work properly. 
+“Web beacons” or clear .gifs are small pieces of code placed on a Web page to monitor behavior and collect data about the visitors viewing a Web page. For example, Web beacons or similar technology can be used to count the users who visit a Website or to deliver a cookie to the browser of a visitor viewing that page. We may use Web beacons or similar technology on our Website from time to time for this and other purposes.
 
-Generally, we use cookies for the following purposes and they are not tied to personally identifiable information: 
+#### Collection of Information by Third-Party Sites, Ad Servers and Sponsors
 
-(1) To identify and label all "new" ads since your last visit to the site. 
+Our Website may contain links to other websites whose information practices may be different than ours. While visiting our Website, you may link to a third party’s website via a window opened within (or on top of) our Website. Our Privacy Policy and procedures may or may not be consistent with the policies and procedures of such third party websites, and when you visit such websites our Privacy Policy does not apply to personally identifiable information and other data collected by such third party. You should consult, read and understand the privacy notices of such third parties before choosing to provide personally identifiable information on any such linked websites.
 
-(2) Optionally to permanently save your password on your computer so you don't have to re-enter it each time you visit our site. 
+Our Website may also use a third party ad server to present the advertisements that you may see on our Website. These third party ad servers may use cookies, Web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our Privacy Policy.
 
-(3) To enable you to "checklist" ads that you want to mark for future retrieval and viewing. 
+#### Our Commitment to Security
 
-By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those services of the RV Trader Classifieds that require registration in order to participate. These services include the identification of new ads that have been posted since your last visit, auto-fill in of the logon form, and the Checklist feature. You can still use most of the features of the RV Trader Classifieds even if you do not accept cookies. 
+We have in place what we believe to be reasonable physical, electronic and managerial procedures to safeguard and help prevent unauthorized access of, maintain data security for and correctly use the personally identifiable information you have provided or that we otherwise collect on our Website. **HOWEVER, WHILE SUCH EFFORTS ARE INTENDED TO ENSURE THE CONFIDENTIALITY OF YOUR PERSONALLY IDENTIFIABLE INFORMATION AVAILABLE TO US AS A RESULT OF YOUR USE OF OUR WEBSITE, WE CANNOT AND DO NOT WARRANT OR GUARANTEE THE ABSOLUTE SAFETY AND SECURITY OF YOUR PERSONALLY IDENTIFIABLE INFORMATION.**
 
-Advertising networks that serve ads onto the RV Trader Classifieds may also use their own cookies. We have no access to or control over these cookies. 
+  * We work to protect the security of your personally identifiable information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. To assist in keeping your personally identifiable information safe, you must use an SSL-enabled browser (i.e., Internet Explorer).
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. Additionally, change your passwords often using a combination of letters and numbers, and make sure you use a secure Web browser.
 
-We use a third-party tracking service that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate. 
 
-Back to Top
 
-* * *
+#### How You Can Access or Correct Information
 
-### Log Files
+You may obtain information regarding the personally identifiable information that you provide or we collect about you via our Website for the limited purpose of viewing and correcting any factual errors in such information. Access to personally identifiable information that you provide or we collect via our Website may be accessible for a limited period of time after the point of collection. For example, if you created a password-protected account within our Website, you may return to that portion of the Website to review the personally identifiable information you provided. Alternatively, you may send an e-mail or letter to the following e-mail or street address requesting information about or corrections to your personally identifiable information **Dominion Enterprises, Intellectual Property Administrator, P.O. Box 2576, Norfolk, VA 23501** or **[IPadministrator@dominionenterprises.com](mailto:IPadministrator@dominionenterprises.com "IPadministrator@dominionenterprises.com")** , subject to appropriate verification procedures. To protect your privacy and security, we will take what we believe are reasonable steps to help verify your identity before providing personally identifiable information, granting access or making corrections.
 
-The RV Trader Classifieds may also collect IP addresses via the use of log files for system administration and to report aggregate information to our advertisers. As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site, to report aggregate information to our advertisers, and to gather demographic information about our user base as a whole. We do not link this automatically collected data to personally identifiable information. 
+#### Usage Terms
 
-Back to Top
+Access to and use of this Website is subject to compliance with this Website’s Terms and Conditions.
 
-* * *
+#### Unsubscribe Requests
 
-### Email-A-Friend
+To unsubscribe from email communications from us, please enter your email address and select the name of the applicable Dominion business from the list on our **[Email Opt Out Form](http://www.dominionenterprises.com/?page_id=3842 "DE Email Opt-Out Form")**.
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. RV Trader does not store this information. 
+#### Special Note for Parents
 
-Back to Top
+This Website you are visiting is a general audience website and was not designed for children. We are not responsible for any access or use of this Website by children. (By way of example, this Website is not intended to sell products for purchase by children.) If you are under 18, you may use our Website only with the involvement of a parent or guardian.
 
-* * *
+#### Disclaimer
 
-### Newsletters
+As noted in this Privacy Policy, we take our commitment to protection of your privacy seriously. However, NOTHING IN THIS PRIVACY POLICY IS INTENDED TO CREATE OR PROVIDE ANY RIGHT OF ACTION FOR VIOLATION.
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section below. 
+#### How to Contact Us
 
-Back to Top
+If you have any questions or concerns about the online Privacy Policy for this Website or its implementation, you may contact the **Dominion Enterprises Intellectual Property Administrator, P.O. Box 2576, Norfolk, VA 23501** or **[IPadministrator@dominionenterprises.com](mailto:IPadministrator@dominionenterprises.com "IPadministrator@dominionenterprises.com")** for information as to how to contact this Website by e-mail.
 
-* * *
+#### Updates and Effective Date
 
-### Links to Other Sites
+We reserve the right to make changes to our Privacy Policy from time to time for any reason. Such changes, modifications, additions or deletions shall be effective immediately upon posting, unless otherwise indicated. We have no duty or obligation to inform prior visitors that changes have been made, regardless of the scope and importance of the changes. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it and to whom we disclose it. Your continued use of the Website after such changes are posted will be deemed to constitute your agreement to and acceptance of such changes.
 
-This Web site contains links to other sites that are not owned or controlled by RV Trader. Please be aware that we, RV Trader are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by these Web sites as denoted by the URLs described at the beginning of this statement. 
-
-Back to Top
-
-* * *
-
-### Payment Process
-
-When you pay for your orders on our site you will be taken to a third party site to complete the transaction. Their privacy policy governs the collection and use of the information submitted. We encourage you to view their privacy policy. 
-
-Back to Top
-
-* * *
-
-### Who is collecting your information
-
-When you are asked for personal information on the RV Trader Classifieds, you are sharing that information with the RV Trader Classifieds alone, unless it is specifically stated otherwise. When you visit our order/payment pages, you will be on a trusted third party site to complete your transaction. Please see their privacy statement for more information on what they collect from you and how they use this information. 
-
-Back to Top
-
-* * *
-
-### Public Display of Personally Identifiable Information
-
-Some functions on our site will, by their very nature, result in your personal information being revealed to other users of the RV Trader Classifieds. For example, when you enter personal information on the ad posting form, this information will generally be included in your ad, unless specifically stated otherwise. Please be aware that information that you submit in your classified ad can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in your ad listings or on these forums. 
-
-Back to Top
-
-* * *
-
-### Testimonials
-
-We use testimonials on our Web Sites(s). We receive permission to post the testimonials in advance of their posting. If you would like your testimonial removed at any time, please contact us at [tradersupport@rvt.com](mailto:tradersupport@rvt.com). 
-
-Back to Top
-
-* * *
-
-### With whom your information may be shared
-
-RV Trader will not share any of your personally identifiable information with third parties except our service providers without your prior and explicit consent and only as described in this privacy statement. 
-
-Back to Top
-
-* * *
-
-### Service Providers
-
-We use a third party email service provider on our site. We will share information with this service provider as necessary for the third party to provide this service. This third party is prohibited from using your personally identifiable information for any other purpose including their own marketing purposes. 
-
-Back to Top
-
-* * *
-
-### Legal Disclaimer
-
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. 
-
-Back to Top
-
-* * *
-
-### Choice / Opt-out
-
-We provide you the opportunity to 'opt-in' to receive our periodic newsletter. You can do so at various areas of the site by providing your email address or by checking the box to receive our newsletter. If you no longer wish to receive our newsletter, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [tradersupport@rvt.com](mailto:tradersupport@rvt.com). 
-
-Back to Top
-
-* * *
-
-### Communications From Our Site
-
-You will receive a confirmation email upon placing an ad and notification emails just prior to the expiry of a placed ad. Emails are sent weekly to notify you of new ad postings according to your specified criteria when using the "Auto Notify" feature of a User Account. We will also send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these service related communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account by emailing [tradersupport@rvt.com](mailto:tradersupport@rvt.com) or calling 800-677-4484. You may opt-out of these communications. Please see "Choice / Opt-out" above. 
-
-Back to Top
-
-* * *
-
-### How you can access, update or delete your information
-
-We will provide you with the means to ensure that your personal information is correct and current. You may edit or delete your user profile at any time by clicking on the "My Profile" link or graphic provided by the system once you are logged in. Once you have logged onto the system during a given session, wherever you go on the RV Trader Classifieds, your information will stay with you until or unless you click on the "Logout" link, which is accessible at the top of every page. If you are a previously registered user and you have lost or forgotten your password, you may obtain it by email by using our "Forgot Password" feature. Click the button on any login page to request that your password be emailed to you. We cannot provide your password by any other means. Your RV Trader Classifieds account can be deleted by emailing [tradersupport@rvt.com](mailto:tradersupport@rvt.com) or calling 800-677-4484, but doing so will result in not being able to access any of the features of the program that require user registration. If you have any questions regarding your account, please contact us at [tradersupport@rvt.com](mailto:tradersupport@rvt.com). 
-
-Back to Top
-
-* * *
-
-### The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information
-
-Other than the administrator of the RV Trader Classifieds or other authorized personnel of the RV Trader, you are the only person who has access to your personal information. Your user registration is password-protected to prevent unauthorized access. We recommend that you do not divulge your password to anyone. RV Trader will never ask you for your password in an unsolicited phone call or in an unsolicited email. As an extra security precaution, you may want to logoff once you have completed a session in the RV Trader Classifieds. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, RV Trader cannot ensure or warrant the security of any information you transmit to us or from our online services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
-
-Back to Top
-
-* * *
-
-### How RV Trader protects children's privacy
-
-RV Trader is a general audience web site and is not intended for anyone under the age of 13. We do not collect age identifying information on our site, however, if we find out that someone under the age of 13 has submitted information to our site, we will delete this information immediately. 
-
-Back to Top
-
-* * *
-
-### What else you should know about your online privacy
-
-Please keep in mind that whenever you voluntarily disclose personal information online - for example in ads that you post or through email - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. 
-
-Back to Top
-
-* * *
-
-### Changes in this Privacy Statement
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
-
-Back to Top
-
-Natco Trading Corporation  
-726 Cherry St. #160  
-PO Box 8000  
-Sumas, WA, 98295-8000 
-
-Back to Top
+[POLICY LAST UPDATED DECEMBER 2011]
