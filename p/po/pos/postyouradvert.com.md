@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the postyouradvert.com privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302063515id_/http%3A//postyouradvert.com/OtherFiles/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postyouradvert.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205182958id_/http%3A//www.postyouradvert.com/OtherFiles/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# PostYourAdvert.Com - free classified! free advertising! free ad! free classified ad! free online classified! free online advertising! free online ad! free online classified ad! free internet classified! free internet advertising! free internet ad! free internet classified ad!
+# Free Advertising and Classified - Buy or Sell for free
 
 This policy tells you about how we use and protect your personal information
 
 ### Scope
 
-This Privacy Policy describes how we handle your personal information for our services on the PostYourAdvert websites. It applies generally to the salesbuddie.com website and other related websites where this policy appears in the footer of the page. Some PostYourAdvert-branded websites or websites we operate may be governed by separate privacy policies. The policy that applies on any of our domains or subdomains is always the policy that appears in the footer of each website.
+This Privacy Policy describes how we handle your personal information for our services on our websites. It applies generally to the Nellobyte Systems Ltd. website and other related websites where this policy appears in the footer of the page. Some of our branded websites or websites we operate may be governed by separate privacy policies. The policy that applies on any of our domains or subdomains is always the policy that appears in the footer of each website.
 
-Our subsidiaries’ and joint ventures’ privacy practices are similar to those described in this Privacy Policy. Subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices throughout the global PostYourAdvert trading community. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users. 
+Our subsidiaries’ and joint ventures’ privacy practices are similar to those described in this Privacy Policy. Subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices throughout the global  trading community. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users. 
 
 ### Collection 
 
@@ -28,7 +28,7 @@ We may collect and store the following personal information:
 
 ·         information from other companies, such as demographic and traffic data; and
 
-·         other supplemental information from third parties (for example, if you incur a debt to PostYourAdvert, we will generally conduct a credit check by obtaining additional information about you from a credit bureau, as permitted by law; or if the information you provide cannot be verified, we may ask you to send us additional information, such as your driver license, credit card statement, or a recent utility bill or other information confirming your address, or to answer additional questions online to help verify your information). 
+·         other supplemental information from third parties (for example, if you incur a debt to us, we will generally conduct a credit check by obtaining additional information about you from a credit bureau, as permitted by law; or if the information you provide cannot be verified, we may ask you to send us additional information, such as your driver license, credit card statement, or a recent utility bill or other information confirming your address, or to answer additional questions online to help verify your information). 
 
 ### Marketing 
 
@@ -64,7 +64,7 @@ We may also share your personal information with:
 
 ·         Law enforcement or other governmental officials, in response to a verified request relating to a criminal investigation or alleged illegal activity. In such events, we will disclose information relevant to the investigation, such as name, city, state, zip code, telephone number, email address, User ID history, IP address, fraud complaints, and purchaseding and listing history.
 
-·         PostYourAdvert VRO Program participants under confidentiality agreement, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. In such events, we will disclose name, street address, city, state, zip code, country, phone number, email address and company name. 
+·         Our  VRO Program participants under confidentiality agreement, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. In such events, we will disclose name, street address, city, state, zip code, country, phone number, email address and company name. 
 
 ·         Other business entities, should we plan to merge with or be acquired by that business entity. (Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information will be used contrary to this policy, you will receive prior notice.) 
 
@@ -72,17 +72,17 @@ Without limiting the above, in an effort to respect your privacy and our ability
 
 ### Activity Associated with User IDs 
 
-Your User ID is displayed throughout PostYourAdvert and is therefore available to the public. All of your activity on our sites is traceable to your User ID. Other people can see your purchases, items that you have purchased in the past, items for sale, storefronts, feedback, ratings and associated comments, and so on. Notices are sent to other community members regarding suspicious activity and policy violations on our sites and refer to User IDs and specific items. Therefore, if you associate your name with your User ID, the people to whom you have revealed your name will be able to personally identify your PostYourAdvert activities. 
+Your User ID is displayed throughout our website and is therefore available to the public. All of your activity on our sites is traceable to your User ID. Other people can see your purchases, items that you have purchased in the past, items for sale, storefronts, feedback, ratings and associated comments, and so on. Notices are sent to other community members regarding suspicious activity and policy violations on our sites and refer to User IDs and specific items. Therefore, if you associate your name with your User ID, the people to whom you have revealed your name will be able to personally identify your activities. 
 
-### Using Information from salesbuddie.com 
+### Using Information from Nellobyte Systems Ltd. 
 
-PostYourAdvert enables you to share personal and financial information to complete transactions. We encourage you to disclose your privacy practices and respect the privacy of other users. We cannot guarantee the privacy or security of your information and therefore we encourage you to evaluate the privacy and security policies of your trading partner before entering into a transaction and choosing to share your information. To help protect your privacy, we allow only limited access to other users' contact, shipping and financial information to facilitate your transactions. When users are involved in a transaction, they may have access to each other's name, User ID, email address and other contact and shipping information. In all cases, you must give other users a chance to remove themselves from your database and a chance to review what information you have collected about them.
+We enables you to share personal and financial information to complete transactions. We encourage you to disclose your privacy practices and respect the privacy of other users. We cannot guarantee the privacy or security of your information and therefore we encourage you to evaluate the privacy and security policies of your trading partner before entering into a transaction and choosing to share your information. To help protect your privacy, we allow only limited access to other users' contact, shipping and financial information to facilitate your transactions. When users are involved in a transaction, they may have access to each other's name, User ID, email address and other contact and shipping information. In all cases, you must give other users a chance to remove themselves from your database and a chance to review what information you have collected about them.
 
 You agree to use user information only for:
 
-·         PostYourAdvert transaction-related purposes that are not unsolicited commercial messages; 
+·         Our transaction-related purposes that are not unsolicited commercial messages; 
 
-·         using services offered through PostYourAdvert ( _e.g._ escrow, insurance, shipping and fraud complaints), or
+·         using services offered through our ( _e.g._ escrow, insurance, shipping and fraud complaints), or
 
 ·         other purposes that a user expressly chooses. 
 
@@ -104,15 +104,15 @@ A few important things you should know about cookies are that:
 
 ### No Spam, Spyware or Spoofing
 
-We and our users do not tolerate spam. Make sure to set your PostYourAdvert notification preferences so we communicate to you as you prefer. You are not licensed to add other PostYourAdvert users, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report PostYourAdvert-related spam or spoof emails to PostYourAdvert, please forward the email to postyouradvert@gmail.com . You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools. If you send an email to an email address that is not registered in our community (via Refer-a-Friend or other tools), we do not permanently store that email or use that email address for any marketing purpose. We do not rent or sell these email addresses. 
+We and our users do not tolerate spam. Make sure to set your notification preferences so we communicate to you as you prefer. You are not licensed to add other users, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. Please  report related spam or spoof emails to us. You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools. If you send an email to an email address that is not registered in our community (via Refer-a-Friend or other tools), we do not permanently store that email or use that email address for any marketing purpose. We do not rent or sell these email addresses. 
 
 ### Account Protection 
 
-Your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your PostYourAdvert password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify PostYourAdvert and change your password. 
+Your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify us and change your password. 
 
 ### Accessing, Reviewing and Changing Your Personal Information 
 
-You can see, review and change most of your personal information by signing on to PostYourAdvert. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Once you make a public posting, you may not be able to change or remove it. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our [ PostYourAdvert User Agreement](https://web.archive.org/web/20120302063515id_/http%3A//postyouradvert.com/OtherFiles/UserAgreement.htm), and take other actions otherwise permitted by law.
+You can see, review and change most of your personal information by signing on to your account. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Once you make a public posting, you may not be able to change or remove it. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our [ User Agreement](https://web.archive.org/web/20121205182958id_/http%3A//www.postyouradvert.com/OtherFiles/UserAgreement.htm), and take other actions otherwise permitted by law.
 
 ### Security 
 
@@ -120,16 +120,16 @@ Your information is stored on our servers. We treat data as an asset that must b
 
 ### Third Parties
 
-Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are purchasers, buyers or sellers on our sites or other sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. salesbuddie.com does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others. 
+Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are purchasers, buyers or sellers on our sites or other sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. Nellobyte Systems Ltd. does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others. 
 
 ### General 
 
-We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect after they are initially posted on the Site. If your questions are not answered online, you may write to us at: PostYourAdvert a Division of NelloByte Systems Ltd. 
+We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect after they are initially posted on the Site. If your questions are not answered online, you may write to us at: a Division of NelloByte Systems Ltd. 
 
-NelloByte Systems Ltd
+NelloByte Systems Ltd.
 
-P.O.Box 1185
+8101 Sandy Spring Road, Suite 220 No.8960
 
-Ijebu-ode, Ogun State,
+Laurel, MD 20707
 
-Nigeria.
+United States.
