@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the inlinevision.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524070740id_/http%3A//inlinevision.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inlinevision.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205213852id_/http%3A//inlinevision.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | InlineVision: Innovation Through Knowledge | Create – Connect – Convert
+# Privacy Policy | InlineVision: Web Design / E-Commerce / PPC / Social Media | Las Vegas, NV
 
 ## The Legal Stuff
 
-###### inlineVision Online Privacy Statement
+###### Online Privacy Statement
 
-inlineVision respects your privacy and is committed to protecting the personal information you share with us. This statement describes how inlineVision collects and uses your personal information to provide services that you request or when you choose to provide us with your personal information. 
+This Privacy Policy applies to all of the products, services and websites offered by [ninanet site solutions, LLC](http://ninanet.com/), its subsidiaries, divisions, brands or affiliated companies (collectively, our “Brands and Services”), including inlineVision.  
+We respect your privacy and are committed to protecting the personal information you share with us. This statement describes how we collect and use your personal information to provide services that you request or when you choose to provide us with your personal information. 
 
-inlineVision complies with, and is certified by, the U.S. Department of Commerce for Safe Harbor Certification of its Privacy Statement.   
+We comply with, and are certified by, the U.S. Department of Commerce for Safe Harbor Certification of its Privacy Statement.   
 Please visit <http://www.export.gov/safeharbor/doc_safeharbor_index.asp> for further information on Safe Harbor Certification and Compliance measures.
 
 ##### Table of Contents
@@ -31,7 +32,7 @@ Personal information means any information that may be used to identify an indiv
 
 When you browse our website, you do so anonymously, unless you have previously registered with us. We do not automatically collect personal information, including your e-mail address. We do log your IP address (the Internet address of your computer) to give us an idea of which part of our website you visit and how long you spend there. But we do not link your IP address to any personal information unless you have registered with us. Like many other commercial websites, the inlineVision website may use standard technologies, such as "cookies" and other HTML tools, to collect information about how you use the site or to record that you opened an e-mail marketing message. Please go to “Cookies and Other Tracking Technologies” below for more information.
 
-inlineVision collects personal information when you register with the company for a inlineVision account, when you use certain inlineVision products or services, when you register to attend a seminar or participate in an online survey, when you ask to be included in an e-mail or other mailing list, or when you submit an entry for a sweepstakes or other promotions, or when you submit your personal information to inlineVision for any other reason. From time to time, inlineVision receives personal information from business partners and vendors. inlineVision only uses such information if it has been collected in accordance with acceptable privacy practices consistent with this Privacy Statement and applicable laws.
+We collect personal information when you register with the company for an inlineVision account, when you use certain inlineVision products or services, when you register to attend a seminar or participate in an online survey, when you ask to be included in an e-mail or other mailing list, or when you submit an entry for a sweepstakes or other promotions, or when you submit your personal information to inlineVision for any other reason. From time to time, inlineVision receives personal information from business partners and vendors. inlineVision only uses such information if it has been collected in accordance with acceptable privacy practices consistent with this Privacy Statement and applicable laws.
 
 Access to certain inlineVision web pages requires a login and a password. The use of those web pages, and the information or programs downloadable from those sites, may be governed by a written agreement between your employer and inlineVision. Unless you request deactivation of your personal information as specified below, your personal information may be retained by inlineVision to verify compliance with the agreement, log software licenses granted, track software downloaded from those pages, or track usage of other applications available on those pages. 
 
@@ -98,4 +99,4 @@ inlineVision will amend this privacy statement from time to time. If we make any
 
 If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at [webmaster@inlinevision.com](mailto:webmaster@inlinevision.com).
 
-This document was last updated May 10, 2011
+This document was last updated Nov 12, 2012
