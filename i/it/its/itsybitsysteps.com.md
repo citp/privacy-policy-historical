@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itsybitsysteps.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606000349id_/http%3A//itsybitsysteps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsybitsysteps.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205161327id_/http%3A//itsybitsysteps.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Breaking Parenting News, Celebrity Babies, Funny Kid Videos, and More | itsybitsysteps
+# Privacy Policy - ItsyBitsySteps
 
 ItsyBitsySteps.com **(collectively, the “Site”)**
 
