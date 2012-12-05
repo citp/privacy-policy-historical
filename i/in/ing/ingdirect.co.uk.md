@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525045603id_/http%3A//www.ingdirect.co.uk/home/privacypolicy.asp%3Fsection%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205131603id_/http%3A//www.ingdirect.co.uk/home/privacypolicy.asp%3Fsection%3Dhome) for the most accurate reproduction.*
 
 # Privacy Policy > About ING Direct > ING Direct
 
@@ -18,7 +18,7 @@ The information we collect via this website may also include your IP address (th
 
 **Cookies**
 
-For  information on how we use cookies and similar technologies on this website, please see our [Cookie  policy](https://web.archive.org/web/20120525045603id_/http%3A//www.ingdirect.co.uk/home/cookiepolicy.asp)
+For  information on how we use cookies and similar technologies on this website, please see our [Cookie  policy](https://web.archive.org/web/20121205131603id_/http%3A//www.ingdirect.co.uk/home/cookiepolicy.asp)
 
 Back to the top
 
@@ -29,20 +29,6 @@ Back to the top
 You do not have to give us any personal information in order to use many of the pages of this website.  However, any information which you choose to give us through this website may be added to our marketing database and may be used by us for marketing our services and our events. 
 
 It is possible that our marketing materials may contain input from other companies or organisations we are dealing with, but we DO NOT sell or give your details to any other companies for them to try to sell you their products or services. 
-
-**Targeting our advertising**
-
-Our advertising agents’ persistent cookies used in combination with the spotlight tags employed in this website may be used to target our Internet advertisements which appear on other websites.  This means that the adverts will be selected based on the information we hold about you.  This allows us to improve the effectiveness of our advertising. 
-
-**Statistical analysis**
-
-The IP addresses (please see above for details) logged by our web-server and our advertising agents’ persistent cookies used in combination with the spotlight tags employed in this website may be used by us: 
-
-  * to perform technical diagnosis of our website’s performance on a statistical basis; 
-  * to analyse traffic data (so as to gauge interest in our website and to improve our understanding of our websites visitors’ behaviour and their response to our promotional campaigns); and 
-  * to identify unusual transactions (in order to identify the source of fraudulent actions.) 
-
-
 
 **Law enforcement & crime prevention**
 
@@ -93,35 +79,14 @@ You may need to pay a fee.
 
 Occasionally, we may want to tell you about other products and services which may be of interest to you. This could be by letter, phone, mobile phone (including text messages) and e-mail.  You have a right to stop us contacting you for this purpose. You may **[contact us](https://web.archive.org/home/contactus.asp "Contact us") **at any time in the future if you want us to stop.  However, choosing not to receive this information from us will mean that you may not receive details about any special offers and promotions. 
 
-By clicking [here](http://optout.doubleclick.net/cgi-bin/dclk/optout.pl "Double Click website") , you can also obtain an 'opt out' cookie that will prevent your information from being used to target our adverts on other websites. 
-
 **Correction of information**
 
 To provide the highest level of customer service we need accurate customer information.  You can help by informing us whenever your circumstances change. 
-
-**Rejecting cookies**
-
-You can set your Web browser to reject cookies used by this site.  Please note however that the use of cookies is required to access some of our services, such as our online banking facilities. 
-
-  * To set Netscape Communicator or Navigator to reject cookies: Choose Preferences from the Edit menu. From the Preferences menu, select Advanced, and several cookie options will be listed in the lower right of the menu. There will be options that allow you to accept cookies, request permission before accepting or disallow cookies completely. 
-  * To set Microsoft Internet Explorer to reject cookies: Choose Internet Options from the Tool menu. Choose the Privacy tab and move the slider to accept "Cookies", usually the Medium setting. You will have several options - accept cookies, ask permission before accepting cookies or disallow cookie. 
-
-
-
-**Web Beacons**
-
-Web beacons are small strings of HTML code placed on a web page, sometimes referred to as 'Clear GIF's' or 'Pixel tags'. Web beacons are most often used in conjunction with cookies. 
-
-ING Direct uses web beacons, provided by a company called Doubleclick in conjunction with its products and services, including ad serving and paid search listings. 
-
-In order to opt out of the doubleclick cookie, please visit <http://www.doubleclick.com/privacy/opting_out.aspx>
-
-For more information about cookies (including how to set your browser to reject cookies) please visit the website set up by the Interactive Advertising Bureau (Europe) at **[www.allaboutcookies.org](http://www.allaboutcookies.org/ "All about cookies website")**. 
 
 Back to the top
 
 **More information**
 
-Detailed information about your rights under UK Data Protection legislation can be found on the website of the United Kingdom Information Commissioner, [www.ico.gov.uk/](http://www.ico.gov.uk/ "Information Commissioner website") (at the date of this privacy policy). The telephone number of the Information Commissioner’s Office is 01625 545 700 (or (44) 1625 545 700 if phoning from outside the United Kingdom.) 
+Detailed information about your rights under UK Data Protection legislation can be found on the website of the United Kingdom Information Commissioner, [www.ico.gov.uk/](http://www.ico.gov.uk/ "Information Commissioner website") (at the date of this privacy policy). The telephone number of the Information Commissioner’s Office is 0303 123 1113
 
-Last updated: 28 November 2006
+Last updated: 01 June 2012
