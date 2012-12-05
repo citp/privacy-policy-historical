@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tfaw.com privacy policy that was archived on 2012-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120212202458id_/http%3A//www.tfaw.com/Help/Privacy-Policy___35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfaw.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205064503id_/http%3A//www.tfaw.com/Help/Privacy-Policy___35) for the most accurate reproduction.*
 
 # TFAW.com: Home > Help > Privacy Policy
 
