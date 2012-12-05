@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jailbreakhow.net privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601053321id_/http%3A//jailbreakhow.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jailbreakhow.net privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205031554id_/http%3A//jailbreakhow.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Jailbreak 5.1.1 5.1, 5.0.1 iPhone 4S iPad 2 Untethered Jailbreak 5.1.1, 5.1, 5.0.1, 5.0 iPhone 4S / iPad 2 Untethered
+# Privacy Policy — Jailbreak 5.1.1 5.1, 5.0.1 iPhone 4S iPad 2 Untethered Jailbreak How
 
 **Privacy Policy for www.JailbreakHow.net**
 
