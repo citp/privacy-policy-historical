@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netgate.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201192512id_/http%3A//store.netgate.com/Privacy-Statement-W23C113.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netgate.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205043322id_/http%3A//store.netgate.com/Privacy-Statement-W23C113.aspx) for the most accurate reproduction.*
 
 # Privacy Statement @ Netgate
 
@@ -13,12 +13,14 @@ Austin, TX 78756
 
 We can be reached via:  
 e-mail: sales@netgate.com  
-telephone: 702 987 3200  
+telephone: 512 646 4100  
 fax: 509 267 2369
 
 We are committed to ensuring the privacy of our customers.  Our privacy statement has been established to protect our customers.   
 
-The most important things to know are:  **The information we collect is not shared with other organizations.  We do not SPAM our customers.**
+The most important things to know are:   
+ **The information we collect is not shared with other organizations.  We do not SPAM our customers.**  
+
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumers domain name, but not the e-mail address (where possible).
 
