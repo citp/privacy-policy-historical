@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the statefarm.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630225447id_/http%3A//www.statefarm.com/about/privacy/privacy.asp%3FWT.svl%3D82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statefarm.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205151835id_/http%3A//www.statefarm.com/about/privacy/privacy.asp%3FWT.svl%3D82) for the most accurate reproduction.*
 
-# Privacy Policies
-
-## STATE FARM® family of companies**
+# Notice of Privacy Policy
 
 We value you as a customer and we know how much privacy means to you. You will have the opportunity to review our policies for collecting, using, securing, and sharing information the first time we do business with you and every year you are a State Farm customer.
 
@@ -15,8 +13,6 @@ We value you as a customer and we know how much privacy means to you. You will h
     * You expressly authorize it; or 
     * It is permitted or required by law; or 
     * Your insurance policy contract with us permits us to do so. 
-
-
   * We afford our prospective and former customers the same protections as existing customers with respect to the use of personal information.
 
 
@@ -28,7 +24,7 @@ We collect, use, and share information we need to conduct our business, to advis
 **Types of information we may collect and how we gather it:**
 
   * From you; on applications for our insurance, banking, and investment products; from other policies or products you have with us; or on other forms, through telephone or in-person interviews, your State Farm agent, and our contact centers
-  * From your visits to statefarm.com®, use of our mobile and social media applications, and your interactions with our online advertisements
+  * From your visits to statefarm.com®, use of our mobile sites and applications, use of our social media sites and applications, and your interactions with our online advertisements
   * From your transactions or experiences with us; such as your payment history and underwriting and claim records
   * From the State Farm family of companies and non-State Farm companies, organizations, or consumer reporting agencies, such as your driving record, claim history, or credit information
 
@@ -54,7 +50,7 @@ may have to repeatedly enter information to take advantage of services or promot
 
 Aside from providing you with customized online content, using cookies allows State Farm to manage our online advertising. We use online advertising companies to provide ads on third party websites. Some of these sites may use cookies and other technologies when you click or move your cursor over our ads. This technology will transmit non-personally identifiable information about you to us or our service providers. We use the information to analyze our marketing efforts, track browser visits to our website, and measure and manage our advertising at other sites.
 
-You may retain cookies in your browser for a customized website experience. However, if you do not want third party advertisers to track and use information derived from your visits to sites on which we advertise you may "opt out" by going to: <http://www.google.com/intl/en/privacy/ads/>.
+You may retain cookies in your browser for a customized online experience. However, if you do not want to allow websites to install cookies in your browser, you should adjust your browser settings to block cookies.
 
 Each of the sites we use to advertise and from which we collect data should post a privacy statement that fully describes the advertising and data collection activities of that site. However, we cannot be assured that all sites provide such guidance. We recommend that you check  
 the privacy policy of any website before you provide any personally identifiable information.
@@ -96,7 +92,7 @@ State Farm Lloyds
 State Farm Indemnity Company   
 State Farm Florida Insurance Company  
 State Farm Life Insurance Company  
-State Farm Annuity and Life Insurance Company  
+State Farm Health Insurance Company  
 State Farm Life and Accident Assurance Company   
 State Farm Bank, F.S.B.  
 State Farm VP Management Corp.  
@@ -125,7 +121,7 @@ Farm agent to request this access.
 Para ver este aviso en español, por favor visite nuestro sitio web www.statefarmenespanol.com.
 
   
-©Copyright, State Farm Mutual Automobile Insurance Company, 2011  
+©Copyright, State Farm Mutual Automobile Insurance Company, 2012  
 Home Offices: Bloomington, IL 61710-001
 
-2/11 (C)
+7/12©
