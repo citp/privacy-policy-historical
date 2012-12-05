@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greaterunion.com.au privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513092949id_/http%3A//www.eventcinemas.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greaterunion.com.au privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205150547id_/http%3A//www.eventcinemas.com.au/Privacy) for the most accurate reproduction.*
 
 # Event Cinemas - Privacy Policy
 
