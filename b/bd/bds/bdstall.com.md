@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bdstall.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531234310id_/http%3A//www.bdstall.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdstall.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205051014id_/http%3A//www.bdstall.com/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy of Bdstall
 
 ### Privacy Notice Contents:
 
 [ Our Commitment To Privacy   
-](http://www.bdstall.com/privacyPolicy/#Privacy) [The Information We Collect](http://www.bdstall.com/privacyPolicy/#info)   
-[Our Commitment To Data Security](http://www.bdstall.com/privacyPolicy/#Data)   
-[How To Access Or Correct Your Information](http://www.bdstall.com/privacyPolicy/#Correct)   
-[How To Contact Us](http://www.bdstall.com/privacyPolicy/#Contact)
+](https://web.archive.org/privacyPolicy/#Privacy) [The Information We Collect](https://web.archive.org/privacyPolicy/#info)   
+[Our Commitment To Data Security](https://web.archive.org/privacyPolicy/#Data)   
+[How To Access Or Correct Your Information](https://web.archive.org/privacyPolicy/#Correct)   
+[How To Contact Us](https://web.archive.org/privacyPolicy/#Contact)
 
 ### 
 
@@ -61,7 +61,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 ###   
 How You Can Access Or Correct Your Information
 
-You can access all your personally identifiable information that we collect online and maintain by [login here....](http://www.bdstall.com/userLogin/index) We use this procedure to better safeguard your information. 
+You can access all your personally identifiable information that we collect online and maintain by [login here....](https://web.archive.org/userLogin/index) We use this procedure to better safeguard your information. 
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
@@ -71,4 +71,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 ###   
 How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please [contact us.](http://www.bdstall.com/contactUs/)
+Should you have other questions or concerns about these privacy policies, please [contact us.](https://web.archive.org/contactUs/)
