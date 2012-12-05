@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the omanair.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626192104id_/http%3A//www.omanair.com/wy/aboutus/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omanair.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205131508id_/http%3A//www.omanair.com/aboutus/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Oman Air
-
-[](https://web.archive.org/wy/printpdf/1548 "Download content as pdf file") [](https://web.archive.org/wy/print/1548 "Print page content")
 
 Information collection and use
 
