@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aadl.org privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607051715id_/http%3A//www.aadl.org/aboutus/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aadl.org privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206185349id_/http%3A//www.aadl.org/aboutus/policies/privacy) for the most accurate reproduction.*
 
 # Ann Arbor District Library Privacy Statement Policy | Ann Arbor District Library
 
