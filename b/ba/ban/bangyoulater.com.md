@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bangyoulater.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606223505id_/http%3A//www.bangyoulater.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangyoulater.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206013720id_/http%3A//www.bangyoulater.com/privacy) for the most accurate reproduction.*
 
-# 
+# - BangYouLater.com
 
   * This document details important information regarding the use and disclosure of user data collected on Bangyoulater.com
   * The security of your data is very important to us at Bangyoulater. We ensure that any information or data given by users will be confidential and will never be given out to any second or third party for commercial or marketing purposes without your consent.
