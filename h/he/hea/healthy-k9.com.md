@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthy-k9.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608045752id_/http%3A//www.healthy-k9.com/aboutus/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthy-k9.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206233250id_/http%3A//healthy-k9.com/aboutus/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,4 +67,4 @@ Andrew
 
 __Back To Top__  
   
-Disclaimer: Healthy-K9.com cannot guarantee that by simply watching our free videos and reading our articles that your dog will live to be 134% or 8.3 years older than the average age for its breed, as this depends on too many outside circumstances beyond our control, including how willing you are to follow the advice we provide, the current health and age of your dog and how your dog has been cared for during its life up until this point. We do gaurantee that if our methods do not work for you we will refund any purchases you may have made from us if you ask.
+Disclaimer: Healthy-K9.com cannot guarantee that by simply watching our free videos and reading our articles that your dog will live to be 134% or 8.3 years older than the average age for its breed, as this depends on too many outside circumstances beyond our control, including how willing you are to follow the advice we provide, the current health and age of your dog and how your dog has been cared for during its life up until this point. We do gaurantee that if our methods do not work for you we will refund any purchases you may have made from us if you ask. Andrew Lewis is a pen name used by the creater of this site and associated products.
