@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluedomino.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607044709id_/http%3A//www.bluedomino.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluedomino.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206222614id_/http%3A//www.bluedomino.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # BlueDomino's Privacy Policy
 
@@ -62,7 +62,7 @@ To ensure you receive the information you need to manage your account and protec
 
   
 
-  17. **Where to Direct Questions About BlueDomino's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, BlueDomino, 70 Blanchard Road 3rd Floor, Burlington, MA 01803 or support@bluedomino-inc.com.
+  17. **Where to Direct Questions About BlueDomino's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, BlueDomino, 10 Corporate Dr. Suite 300, Burlington, MA 01803 or support@bluedomino-inc.com.
   
 
   18. **Unsubscribe**
@@ -80,4 +80,4 @@ Please note: BlueDomino reserves the right to send you email communications that
 
 
 
-This file was last modified May 3, 2012. [View comparison version.](https://web.archive.org/web/20120607044709id_/http%3A//www.bluedomino.com/legal/legal_privacy.bml?showchanges=1)
+This file was last modified May 3, 2012. [View comparison version.](https://web.archive.org/web/20121206222614id_/http%3A//www.bluedomino.com/legal/legal_privacy.bml?showchanges=1)
