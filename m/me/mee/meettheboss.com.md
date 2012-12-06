@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meettheboss.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530065333id_/http%3A//www.meettheboss.tv/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meettheboss.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206173827id_/http%3A//www.meettheboss.tv/Privacy) for the most accurate reproduction.*
 
 # Executive Leadership & Management Training - MeetTheBoss TV
 
@@ -49,7 +49,7 @@ There will be occasions where it will be necessary for [www.meettheboss.tv](http
 
 ### Interacting with [www.meettheboss.tv](http://www.meettheboss.tv/)
 
-There are many interactive features on [www.meettheboss.tv](https://web.archive.org/web/20120530065333id_/http://www.meettheboss.tv/Privacy/www.meettheboss.tv) that you can contribute to. These include: Forums, Reviews, Online subscriptions, Community, Mailing Lists and Email.
+There are many interactive features on [www.meettheboss.tv](https://web.archive.org/web/20121206173827id_/http://www.meettheboss.tv/Privacy/www.meettheboss.tv) that you can contribute to. These include: Forums, Reviews, Online subscriptions, Community, Mailing Lists and Email.
 
 When interacting with [www.meettheboss.tv](http://www.meettheboss.tv/), we suggest that you use your discretion and exercise caution when providing your personal information.
 
