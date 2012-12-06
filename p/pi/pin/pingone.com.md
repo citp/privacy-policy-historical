@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingone.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524134308id_/https%3A//www.pingidentity.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingone.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206034858id_/https%3A//www.pingidentity.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
