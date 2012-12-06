@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the better.org.uk privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606191319id_/http%3A//www.better.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the better.org.uk privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206105848id_/http%3A//www.better.org.uk/privacy) for the most accurate reproduction.*
 
 # Better Privacy Policy
 
@@ -23,6 +23,8 @@ We do not actively market to children, and we never knowingly ask a child to rev
 We use cookies for website statistic analysis. A cookie is a small text file that our web server places on your computer hard drive to be a unique identifier. Cookies enable us to track usage patterns and deliver customised content to our users. Our cookies do not have an expiration date and do not collect personally identifiable information.
 
 You can block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be to access all or parts of our website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our website.
+
+We carry out audits of cookie use from time to time and have reviewed our use of cookies in line with the guidance issued by the Information Commissioner's Office.
 
 **What me may use your information for**
 
@@ -57,3 +59,7 @@ The Act gives you the right to access information held about you. Your right to 
 **Contact**
 
 If problems arise, please contact us at marcoms@gll.org or at the address given above. We are committed to resolving disputes as soon as possible.
+
+**Last updated**
+
+17th July 2012
