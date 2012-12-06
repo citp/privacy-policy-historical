@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezinescroll.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605011350id_/http%3A//www.ezinescroll.com/page/2/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezinescroll.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207005708id_/http%3A//www.ezinescroll.com/page/2/privacy) for the most accurate reproduction.*
 
 # Privacy - EzineScroll Articles
 
@@ -14,7 +14,7 @@ We reserve the right to modify or amend this Privacy Policy at any time and for 
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our site  **[EzineScroll.com](https://web.archive.org/web/20120605011350id_/http://www.ezinescroll.com/page/2/ "EzineScroll")**. This includes information provided at the time of registering to use our site, subscribing to our service or requesting further services. We may also ask you for information when you report a problem with our site.
+  * Information that you provide by filling in forms on our site  **[EzineScroll.com](https://web.archive.org/web/20121207005708id_/http://www.ezinescroll.com/page/2/ "EzineScroll")**. This includes information provided at the time of registering to use our site, subscribing to our service or requesting further services. We may also ask you for information when you report a problem with our site.
   * If you contact us, we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs, operating system, browser usage and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
