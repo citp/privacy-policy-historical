@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the morphyrichards.co.uk privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005173205id_/http%3A//morphyrichards.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morphyrichards.co.uk privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206022720id_/http%3A//www.morphyrichards.co.uk/support/morphy-richards-support/privacy-policy.html) for the most accurate reproduction.*
 
-# Morphy Richards - News
+# Privacy Policy
 
-**BACKGROUND:**
+### Privacy Policy
+
+ **BACKGROUND:**
 
 This Policy applies as between you, the User of this Web Site and us, Morphy Richards, the owner and provider of this Web Site. This Policy applies to all Data collected by us during the course of and in relation to your use of the Web Site (and any Services or Systems). By using the Web Site you are deemed to have accepted the terms of this Policy. 
 
@@ -134,7 +136,7 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 #### 12\. Cookies
 
-12.1 Morphy Richards may set and access Cookies on your computer. You can read more about cookies at [ http://www.allaboutcookies.org/ ](http://www.allaboutcookies.org/)
+12.1 Morphy Richards may set and access Cookies on your computer. You can read more about cookies at [http://www.allaboutcookies.org/ ](http://www.allaboutcookies.org/)
 
 12.2 You can choose to disable Cookies in your web browser. By default, your browser will accept Cookies, but this can be altered. For further details please consult the help menu within your browser. 
 
