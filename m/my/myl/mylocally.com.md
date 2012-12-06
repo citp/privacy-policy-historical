@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylocally.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625161516id_/http%3A//www.mylocally.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylocally.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206202800id_/http%3A//www.mylocally.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MyLocally
 
@@ -10,23 +10,19 @@ MyLocally collects personal information when you register your company with MyLo
 
 When advertisers register their company, we ask for information such as: their name, phone number, email address, zip code, occupation, industry and various industry-based criteria. This information may be made available to the public as a listing in our directory pages, within a coupon ad or text ad. Additionally, this information may be made available to a site visitor to whom you/we send a reply to an inquiry. 
 
-MyLocally automatically receives and records information on our server logs from your browser, including your IP address, MyLocally cookie information, and the page you request. In accordance with the Children’s Online Privacy Protection Act, MyLocally does not intend to record personal information submitted by children younger than 13 years old. Children under 13 years old should submit personally identifiable information to MyLocally only with the explicit permission of their parent or legal guardian. 
+MyLocally automatically receives and records information on our server logs from your browser, including your IP address, MyLocally cookie information, and the page you request. In accordance with the Children's Online Privacy Protection Act, MyLocally does not intend to record personal information submitted by children younger than 13 years old. Children under 13 years old should submit personally identifiable information to MyLocally only with the explicit permission of their parent or legal guardian. 
 
-MyLocally will not contact children under age 13 about special offers or for marketing purposes. MyLocally does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide services you've requested, when we have your permission, or under the following circumstances:
+MyLocally will not contact children under age 13 about special offers or for marketing purposes. MyLocally does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide services you've requested, when we have your permission, or under the following circumstances: 
 
-  * We provide the information to trusted (publishers) partners who work on behalf of or with MyLocally under confidentiality agreements. These publishers may use your personal information to help MyLocally communicate with you about offers from MyLocally directory advertisers and our marketing (publishing) partners. However, these companies do not have any independent right to share this information.   
-
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;   
-
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of MyLocally terms of use, or as otherwise required by law.  
-
-  * We transfer information about you if MyLocally is acquired by or merged with another company. In this event, MyLocally will notify you before information about you is transferred and becomes subject to a different privacy policy.   
-
+  * We provide the information to trusted (publishers) partners who work on behalf of or with MyLocally under confidentiality agreements. These publishers may use your personal information to help MyLocally communicate with you about offers from MyLocally directory advertisers and our marketing (publishing) partners. However, these companies do not have any independent right to share this information. 
+  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of MyLocally terms of use, or as otherwise required by law.
+  * We transfer information about you if MyLocally is acquired by or merged with another company. In this event, MyLocally will notify you before information about you is transferred and becomes subject to a different privacy policy. 
   * MyLocally may set and access MyLocally cookies on your computer.
+  * MyLocally is a Search Initiatives brand, we reserve the right to publish business information in our other platforms.
 
 
 
-MyLocally may update this policy. We will place a prominent notice on our portion of the publisher’s site about significant changes in the way we treat personal information. 
+MyLocally may update this policy. We will place a prominent notice on our portion of the publisher's site about significant changes in the way we treat personal information 
 
-  
-
+clear
