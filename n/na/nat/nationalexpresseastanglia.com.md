@@ -1,81 +1,32 @@
-> *The following text is extracted and transformed from the nationalexpresseastanglia.com privacy policy that was archived on 2012-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120121151821id_/http%3A//www.nationalexpresseastanglia.com/footers/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalexpresseastanglia.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206225119id_/http%3A//www.greateranglia.co.uk/home/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy • Greater Anglia
 
-This Privacy Policy indicates National Express East Anglia's (NXEA) procedures regarding the collection and use of your personal information. If you have any requests or queries concerning your personal information then please [**contact us**](https://web.archive.org/about-us/contact-us "Contact Us").
+Abellio Greater Anglia Ltd. is sensitive to privacy issues on the Internet. We believe that it is important you know how we treat the information about you we receive on the Internet.
 
-This Privacy Policy will inform you of the following:
+In general, you may visit the Site without telling us who you are or revealing any personally identifiable information about you.
 
-  * What personally identifiable information is collected from you on the website
-  * How this information will be used
-  * With whom the information may be shared
-  * What choices are available to you regarding collection, use and distribution of the information
+Our servers collect the domain names, operating system in use (e.g., Macintosh, Windows) and browser (e.g. Netscape, Internet Explorer). This information is aggregated to measure the number of visits, average time spent on the Site, pages viewed, etc. Abellio Greater Anglia Ltd. uses this information to measure the use of our Site and to improve the content of our Site. E-mail addresses and other personally identifiable information such as first and last name, home or other physical address, telephone number, and other similar information are known only when voluntarily provided by a visitor for registration or other participation of visitors in any available online interactive activities.
 
+Unless otherwise disclosed during the collection, personally identifiable information collected in connection with visitors to this Site may be retained by Abellio Greater Anglia Ltd. Abellio Greater Anglia Ltd. do not sell, transfer or otherwise disclose this personally identifiable information outside this company, except where disclosure is required by law.
 
+We may use the personal information you provide for any of the following purposes:
 
-#### 1.We will collect the information you enter when you complete our registration form.
-
-Our system may also automatically record the following information on your visit to our website:
-
-  * your browser type _(e.g. Netscape Navigator, Internet Explorer)_
-  * your operating system _(e.g. Microsoft Windows, Macintosh)_
-  * your IP address _(a unique identifier for each connection to the internet)_
-  * your domain name _(e.g. freeserve.co.uk, demon.co.uk)_
-
-
-
-This information is automatically collected and does not require your input - the information is used to improve our facilities and to provide you with an optimum website.
-
-#### 2.We respect your privacy and will only use your information:
-
-  * to log various usage and statistical information about your use of our facilities
-  * to administer the website and gather broad demographic information about users of the site
-  * to send you details of special offers, promotions, new products and services from NXEA
-  * to advise you of changes to our website
-  * to improve our website, and to customise our website for you based on your demographics 
+  1. to understand the use of our Site and make improvements;
+  2. to fulfil prizes;
+  3. to respond to specific request from visitors;
+  4. to obtain parental consent from visitors under 18 years of age, where necessary;
+  5. to provide any necessary notices to our visitors or their parent or legal guardians, where necessary;
+  6. to protect the security or integrity of our Site when necessary;
+  7. to send you notices and solicitations regarding Site and our businesses; and
+  8. in general to promote and market products to you. These solicitations may take the form of mailings or other couriers, telephone calls, e-mail solicitations and other methods of contact. If you do not want to receive these solicitations from us using your personally identifiable information, please notify us.
 
 
 
-Our site provides an opt-in and opt-out facility so that you only receive information if you choose to. If you choose opt-in status, whenever we send you information, we will always give you the opportunity to request your details to be removed from our marketing list.
+It is our policy that visitors to our Site who are under the age of 18 should not post or provide information on our Site without the consent of their parents or legal guardians. You should supervise the online activities of your children, and consider the use of parental control tools available from online services and software providers that help provide a child-friendly Internet environment.
 
-#### 3.We may disclose your Information to:
+A technology called "cookies" may be used to provide you with tailored information. A "cookie" is a tiny element of data that a web site can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. You may be able to set your browser to notify you when you receive a cookie. Our cookies collect the operating system and browser that a visitor is using.
 
-  * our regulators, lawyers and auditors
-  * persons where required by law under a court order or subpoena
-  * third party service providers or agents acting on our behalf.
+At times, we conduct on-line surveys to better understand the needs and profiles of our visitors. When we conduct a survey, we will try to let you know how we will use the information at the time we collect the information from you on the Internet.
 
-
-
- _(Please note: our website may contain links to the websites of other companies that are outside of our control. These websites are not covered by this Privacy Policy. If you access other sites through our website then the operators of these sites may collect information from you which will be used by them in accordance with their own privacy policies, which may differ from ours.)_
-
-#### 4.Your information
-
-Your Information will be retained by us for as long as the purpose for which it was collected continues. It will then be destroyed although copies may be retained if required to satisfy our legal, regulatory or accounting requirements. By law, you are entitled to a copy of the personal information we hold on you.
-
-If you request this information we may make an administration charge.
-
-#### Opt-Out Procedure
-
-You may choose not to receive any promotional communications from NXEA, if you wish to do this please select the unsubscribe option in any of the communications you have received. Alternatively please email [nxea.customerservices@nationalexpress.com](mailto:nxea.customerservices@nationalexpress.com)  with a subject line of ‘ **NXEA unsubscribe** '.
-
-#### Changes / Modification
-
-You may make a request to us to change or modify your information at any time.  Further, if you are aware at any time that any of the information that you have given to us has changed then please let us know at the earliest opportunity of the changes that need to be made to your information. If you would like guidance on how to change the information that we hold on you please contact our [**customer relations team**](https://web.archive.org/about-us/contact-us/get-in-touch/customer-relations "Customer Relations").
-
-#### Changes to this Privacy Policy
-
-If we change this policy, we will post the new policy on our home page. If the change means that we will use your information differently, we will notify you. You may accept the change of use, or if you do not, we will continue to use your information in accordance with the policy under which it was collected.
-
-#### Our Pledge to You
-
-We pledge our intention to meet our obligations under this Privacy Policy statement, and to comply with the requirements of the Data Protection Act 1998.
-
-#### Legal Entity
-
-National Express East Anglia (Registered company name: London Eastern Railway Limited)  England and Wales whose registered office is 7 Triton Square, London, NW1 3HG a subsidiary company of National Express Group PLC. 
-
-#### Purchasing tickets online (The Trainline) Privacy Policy
-
-When you purchase tickets through the facility on this website, your purchase is governed by the Terms and Conditions between you and The TrainLine _(an independent  ticket retail company). _ [**View Online Booking Privacy Policy**](http://www.buytickets.nationalexpresseastanglia.com/terms.aspx#privacy "View National Express Online Privacy Policy").
-
-For customers who purchased tickets online prior to 13 November please call 08457 225 111.
+This Site may contain links to other sites of third parties. We are not responsible for the content or privacy practices of those other sites. We may revise this Privacy Policy from time to time. You are responsible for checking this policy when you visit our Site to review the current policy. If you do not agree with the policy, you should cease use of the Site immediately.
