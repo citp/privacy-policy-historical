@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyuia.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607051223id_/http%3A//www.flyuia.com/eng/information-and-services/1469.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyuia.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206183304id_/http%3A//www.flyuia.com/eng/information-and-services/1469.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,12 +16,11 @@ One of Ukraine's biggest online payment providers, **UkrEximBank** , provides In
 
 We do not collect personal information about you when you browse the UIA website. However, if you wish to book a flight using the site's interactive services, we will require you to complete the Booking Form and provide us with certain information which may include the following: 
 
-Name  
-Postal Address  
-Credit/Debit Card number and expiration date  
-Billing address  
-Phone numbers  
-E-mail address
+• First Name and Family Name  
+• Postal Address  
+• Credit/Debit Card number and expiration date  
+• Phone numbers  
+• E-mail address
 
 **Personal Profile Number - Site Membership**
 
@@ -41,7 +40,7 @@ Credit/Debit card details
 
 We use your personal information to identify you as a customer, to process your booking, to verify credit or other charge card details, to manage your Panorama Club Account (if applicable) and to deliver relevant information to you in connection with your travel and any ancillary services which you may wish to avail of. Your information may also be used for immigration and customs control (see further below), security, administrative, and legal purposes. For these purposes, we may transmit your personal information to our own offices, authorised agents, other carriers and service providers, credit and charge card companies, data processing companies working on our behalf and to government and enforcement agencies. Some of these entities may be located outside the European Union. Your personal information and any records relating to your air travel will also be retained for audit functions. 
 
-We may also use the personal information of Site Members to provide them with information which we think they may find of interest. This may include information about services, products, special offers and promotions offered by Ukraine International Airlines, other carriers and service providers. We may contact you by any means of communication for which you have given us contact details, including by post, e-mail, pop-up window, fax and telephone. However, you may choose not to receive such information by so indicating on the booking form or on the Site Membership Information form.
+We may also use the personal information of Site Members to provide them with information which we think they may find of interest. This may include information about services, products, special offers and promotions offered by Ukraine International Airlines, other carriers and service providers. We may contact you by any means of communication for which you have given us contact details, including by post, e-mail, pop-up window, fax and telephone.
 
 **4\. Cookies, web beacons and pixel tags and how they can benefit your website experience?**
 
