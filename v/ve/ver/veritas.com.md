@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veritas.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510182405id_/http%3A//www.symantec.com/about/profile/privacypolicy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veritas.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206192108id_/http%3A//www.symantec.com/about/profile/privacypolicy/index.jsp) for the most accurate reproduction.*
 
 # Privacy - Symantec Corp.
 
