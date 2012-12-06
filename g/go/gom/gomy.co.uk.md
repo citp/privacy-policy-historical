@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomy.co.uk privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510201718id_/http%3A//www.gomy.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomy.co.uk privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206013505id_/http%3A//www.gomy.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - gomy.co.uk
 
@@ -49,7 +49,7 @@ gomy.co.uk keeps your personal details private we WILL NOT pass on your personal
 
 gomy.co.uk employees only have access to Your relevant personal details if it is required for them to perform their work. All gomy.co.uk employees and / or contracted staff are bound by the Data Protection Act 1998.
 
-### 5\. Cookies ñ And What We Use Them For Back to top
+### 5\. Cookies And What We Use Them For Back to top
 
 We use cookies to give you a more unique experience when using the website and to improve the quality of our service. If you have Cookies enabled on your browser, gomy.co.uk can remember your personal preferences each time you return. This allows us to:
 
@@ -87,9 +87,10 @@ gomy.co.uk will remove all of Your Data from Our database upon your request [con
 
 If You have any questions, comments, requests or concerns regarding this Privacy Policy. Feel free to use our [contact page](https://web.archive.org/contact) or write to Us at:   
 gomy.co.uk Limited   
-1 Portland Street   
-Manchester   
-M1 3BE.
+16 Foundry Street,   
+Rawtenstall,   
+Lancashire.   
+BB4 6HQ
 
 ### 10\. Policy Revisions Back to top
 
