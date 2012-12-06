@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kriskris.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616091629id_/http%3A//www.kriskris.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kriskris.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206072552id_/http%3A//www.kriskris.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Kris Health Blog
+# Privacy Policy | KrisKris.com
 
 ## Information that we collect
 
-We collect information from you when you subscribe to our newsletter or fill out a contact or comment form.
+We collect information from you when you subscribe to our newsletter or fill out a contact or comment form. 
 
 When filling out a form, you may be asked to enter your: name, website and e-mail address. You may, however, visit our site anonymously.
 
@@ -12,7 +12,7 @@ Google, as a third party vendor, uses cookies to serve ads on this site. Googleâ
 
 ## What we use your information for
 
-Any of the information we collect from you may be used to send you emails.
+Any of the information we collect from you may be used to send you emails. 
 
 The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
@@ -24,7 +24,7 @@ We will **never** share your email address with anyone.
 
 Cookies are small files that a site or its service provider transfer to your hard drive through your browser that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-We use cookies to compile data about site traffic and interaction so that we can offer better experiences and tools in the future.
+We use cookies to compile data about site traffic and interaction so that we can offer better experiences and tools in the future. 
 
 We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
@@ -46,17 +46,17 @@ By using our site, you consent to our online privacy policy.
 
 ## Changes to our Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 3.2.2012
+This policy was last modified on October 15, 2012.
 
-## Contacting Us
+## Contact Us
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://www.kriskris.com/
 
-Birkihlid 34  
+Bolstadarhlid 50  
 Reykjavik, Gullbringusysla 105  
 Iceland  
 kristjan@kriskris.com  
