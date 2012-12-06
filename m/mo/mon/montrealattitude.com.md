@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the montrealattitude.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607041438id_/http%3A//www.montrealattitude.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montrealattitude.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206073929id_/http%3A//www.montrealattitude.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy | Montreal Attitude - What's Yours? -
+# Privacy Policy | Montreal Attitude -
 
 Montreal Attitude processes your personal data in conformity with this privacy policy and with the strict rules of Canadian and Quebec  data protection legislation.
 
