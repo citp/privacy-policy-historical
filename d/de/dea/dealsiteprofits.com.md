@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsiteprofits.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616033550id_/http%3A//www.dealsiteprofits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsiteprofits.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206063853id_/http%3A//www.dealsiteprofits.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
