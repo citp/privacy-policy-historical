@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hallmarkchannel.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506223521id_/http%3A//hallmarkchannel.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hallmarkchannel.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206053814id_/http%3A//www.hallmarkchannel.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Hallmark Channel
 
