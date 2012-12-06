@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the performancehorizon.com privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302120857id_/http%3A//www.performancehorizon.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performancehorizon.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206205104id_/http%3A//performancehorizon.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ This privacy policy explains the following:
 
 As set out above, we are committed to safeguarding your personal information. Whenever you provide such information, we are legally obliged to use your information in line with all laws concerning the protection of personal information, including the Data Protection Act 1998 (these laws are referred to collectively in this Privacy Policy as the 'data protection laws').
 
-The websites contains hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including cookies, and we urge you to review them. They will govern the use of personal information you submit or are collected by cookies whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
+The website contains hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including cookies, and we urge you to review them. They will govern the use of personal information you submit or are collected by cookies whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
 
 ##### 2\. What information will we collect about you?
 
@@ -29,13 +29,13 @@ We also use cookies and collect IP addresses (an IP address is a number that can
 
 We also use your IP address to determine whether you are accessing the services from the UK or not. 
 
-##### 3\. How will we use the information they collect about you?
+##### 3\. How will we use the information we collect about you?
 
 We will use your personal information for a number of purposes including the following:
 
 \- for 'service administration purposes', which means that we may contact you for reasons related to the service you have signed up for (e.g. to provide you with password reminders or to notify you that a particular service has been suspended for maintenance);   
-\- to contact you about a submission you have made to the websites, including any content you provide, see especially the FAQ's  
-\- to personalise the way our content is presented to;   
+\- to contact you about a submission you have made to the websites, including any content you provide, see especially the FAQ's;   
+\- to personalise the way our content is presented to you;   
 \- IP addresses are used to identify the location of users, the number of visits from different countries and also to block disruptive use; and  
 \- to analyse and improve the services offered on performancehorizon.com. e.g. to provide you with the most user-friendly navigation experience. 
 
@@ -61,7 +61,7 @@ We won't contact you for marketing purposes, or promote new services to you unle
 
 We will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies). Generally, we will only use your information within our company. However, sometimes we use third parties to process your information. We will require these third parties to comply strictly with its instructions and we will require that they do not use your personal information for their own business purposes. 
 
-Please note that if you are accessing the website from outside the UK and you make a comment or complaint regarding any element of advertising then we may forward your correspondence to Advertiser only for the purposes of responding to you.
+Please note that if you make a comment or complaint regarding any element of advertising then we may forward your correspondence to the Advertiser only for the purposes of responding to you.
 
 ##### 7\. Offensive or inappropriate content on performancehorizon.com
 
@@ -79,7 +79,7 @@ We will hold your personal information on our systems for as long as is necessar
 
 Where you contribute to performancehorizon.com we will generally only keep your content for as long as is reasonably required for the purpose(s) for which it was submitted. For example, we will only keep copies of entries to a photographic competition for the duration of the competition. However other projects are likely to have a longer, or even permanent, duration. 
 
-##### 10\. Can I find out what personal information we holds about you?
+##### 10\. Can I find out what personal information we hold about you?
 
 Under the Data Protection Act you have the right to request a copy of the personal information we hold about you and to have any inaccuracies corrected. (We charge £10 for information requests and will require you to prove your identity with 2 pieces of approved photographic identification.) We will use reasonable efforts to supply, correct or delete personal information about you on our files.
 
@@ -87,13 +87,13 @@ Please address requests and questions about this or any other question about thi
 
 ##### 11\. What if I am accessing the website outside the UK?
 
-www.performancehorizon.com is published in the UK by Performance Horizon Group Limited. 
+www.performancehorizon.com is published in the UK by Performance Horizon Group Limited and is therefore subject to English Law and jurisdiction.
 
 ##### 12\. Changes to our Privacy Policy
 
 This privacy policy may be updated from time to time so you may wish to check it each time you submit personal information to any performancehorizon.com website. The date of the most recent revisions will appear on this page.
 
-##### 13\. Cookies Policy -Information we collect from you
+##### 13\. Cookies Policy - Information we collect from you when you visit performancehorizon.com
 
 a. What is a cookie?  
 A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile phone (referred to here as a 'device') browser from a website's computer and is stored on your device's hard drive. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Many sites do this whenever a user visits their website in order to track online traffic flows.
@@ -103,11 +103,13 @@ Cookies record information about your online preferences and allow us to tailor 
 During the course of any visit to performancehorizon.com, the pages you see, along with a cookie, are downloaded to your device. Many websites do this, because cookies enable website publishers to do useful things like find out whether the device (and probably its user) has visited the website before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
 
 b. How do we use cookies?  
-Information supplied by cookies can help us to analyse the profile of our visitors and help us to provide you with a better user experience. For example: if on a previous visit you went to our education pages, we might find this out from your cookie and highlight educational information on your second and subsequent visits.
+Information supplied by cookies can help us to analyse the profile of our visitors and help us to provide you with a better user experience. We also use cookies when you login to our management console to allow us to identify you and supply you with the correct information.
 
-We also uses a number of independent measurement and research companies. They gather information regarding the visitors to our sites on our behalf using cookies, log file data and code which is embedded on our website. We use this type of information to help improve the services it provides to its users. We strictly require that third parties do not use any information for their own business or other purposes. Certain other areas of performancehorizon.com may use cookies for a specific reason - for example, to help an online game work effectively on your device. If this is the case, the local terms for that area of the website will make this clear and you should refer to those local terms for additional information.
+##### 14\. Cookies Policy - When we set a cookie for a client using our service
 
-##### 14\. Contacting us about this Privacy Policy
+We set cookies from the domain prf.hn in order to allow our clients to monitor the effectiveness of their online marketing campaigns. The data which we collect is primarily anonymous transaction data which is made available to our clients through our service. There is no personally identifiable information stored within the cookie or passed to our clients.
+
+##### 15\. Contacting us about this Privacy Policy
 
 If you have any questions or comments about this Privacy Policy please contact:
 
