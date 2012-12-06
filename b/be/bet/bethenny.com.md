@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bethenny.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607032055id_/http%3A//www.bethenny.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethenny.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206232011id_/http%3A//www.bethenny.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Bethenny.com
 
 ## Summary
 
-Your privacy is very important to us. By using [http://www.bethenny.com](http://www.bethenny.com/) you are agreeing to the underlying Privacy Policy. This Privacy Policy describes EQAL's use of personally identifiable information ("PII"-- your full name, email address, mailing address, telephone number) that Members voluntarily provide to EQAL when they register for an account or otherwise provide PII to EQAL through your use of Website. Website is a general audience service and does not knowingly collect PII from children under 13 years of age.
+Your privacy is very important to us. By using [http://bethenny.com](http://bethenny.com/) you are agreeing to the underlying Privacy Policy. This Privacy Policy describes EQAL's use of personally identifiable information ("PII"-- your full name, email address, mailing address, telephone number) that Members voluntarily provide to EQAL when they register for an account or otherwise provide PII to EQAL through your use of Website. Website is a general audience service and does not knowingly collect PII from children under 13 years of age.
 
 ## Amendments
 
@@ -70,7 +70,7 @@ If you would like to communicate with us about this Privacy Policy or EQAL's col
 
 or write to us at
 
-Privacy, EQAL, Inc.,  
+Privacy, EQAL, Inc.  
 5250 Lankershim Blvd., Suite 720  
 North Hollywood, CA 91601  
 Attn: Paras Maniar
