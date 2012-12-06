@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the susanboylemusic.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603162954id_/http%3A//www.sonymusiccrm.com/labels/sony_uk/Sony_UK_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the susanboylemusic.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206221720id_/http%3A//www.sonymusiccrm.com/labels/sony_uk/Sony_UK_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
