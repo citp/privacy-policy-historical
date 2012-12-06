@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swapz.co.uk privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608102339id_/http%3A//www.swapz.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapz.co.uk privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206205839id_/http%3A//www.swapz.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # Swaps - swap meet, swap shop, house & home swap, car swaps - swop shop
 
