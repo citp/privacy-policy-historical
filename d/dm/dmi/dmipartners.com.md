@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmipartners.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629044108id_/http%3A//www.dmipartners.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmipartners.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206233305id_/http%3A//www.dmipartners.com/privacy.aspx) for the most accurate reproduction.*
 
 # DMi Partners - Privacy Policy
 
@@ -33,6 +33,6 @@ From time to time, DMi Partners may need to make edits or changes to their priva
 
 For more information about DMi Partners, please contact us at: 
 
-121 South Broad Street   
-Second Floor  
-Philadelphia PA 19107 
+One South Broad Street   
+11th Floor  
+Philadelphia, PA 19107 
