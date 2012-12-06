@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607072206id_/http%3A//www.esomar.org/index/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206204446id_/http%3A//www.esomar.org/index/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ESOMAR
 
@@ -16,11 +16,11 @@ ESOMAR collects and processes personal data of members and customers. ESOMAR is 
 
 ESOMAR respects the personal data of members and customers and does not sell, rent, loan, trade or otherwise transfer any personal data to any third party unless this is necessary to deliver ESOMAR’s products and services.
 
-ESOMAR does not request personal data from you, other than to process a transaction or application for ESOMAR membership and/or company listing in the ESOMAR Directory, a registration for an ESOMAR event, or an order for an ESOMAR publication, such as the online Directory of members* or for analytical research.
+ESOMAR does not request personal data from you, other than to process a transaction or application for ESOMAR membership and/or company listing in the ESOMAR Directory, a registration for an ESOMAR event, or an order for an ESOMAR publication, such as the online Directory of members* or for analytical research. If you have authorized ESOMAR to store and/or use credit card details provided by you via www.payment.esomar.org this information will be stored in a PCI DSS-certified e-payment solution (Payment Card Industry Data Security Standard), hosted by a 3rd party. PCI is the global security standard established by the international credit card organizations. The greatest data security and protection from non-payments is guaranteed through encryption of the data.
 
 ESOMAR will also use your personal data to inform you about activities, products and services of ESOMAR and relevant third parties, unless you have notified ESOMAR that you do not to wish to receive such information.
 
-ESOMAR will only share your personal information with a third party if you expressly ask to receive information from them. Please note that to stop receiving information from a third party, you will need to contact them directly.
+ESOMAR will only share your personal information with a third party if you expressly ask to receive information from them. Credit card details will never be shared with any third party. Please note that to stop receiving information from a third party, you will need to contact them directly.
 
 *Only Members are entitled to access the Directory of Members.
 
@@ -67,9 +67,9 @@ If you have any questions about ESOMAR’s Privacy Policy, please contact: [k.jo
 
 A cookie is a small amount of data that is sent to your computer browser from a website's computer and is stored on your computer, if your browser’s preferences allow it. Each website can send its own cookie to your browser but (to protect your privacy) your browser only permits a website to access its own cookies, not the cookies sent to you by other sites.
 
-ESOMAR uses cookies to help the server identify you when you log in to secure areas of the site, such as MyESOMAR, the Directory and Career Network. The cookies store your login information, so you can enter and leave the website without having to re-enter the same information over and over.
+ESOMAR uses cookies to help the server identify you when you log in to secure areas of the site, such as MyESOMAR, Directory of Research Organisations, and MR Job board. The cookies store your login information, so you can enter and leave the website without having to re-enter the same information over and over.
 
-We also use cookies to track our online traffic flow (through Google Analytics and Google AdManager) and to personalise information in online forms.
+We also use cookies to track our online traffic flow (through Google Analytics, Google AdSense, and Crazy Egg), to share links on social networks (through AddThis and Google +1), and to personalise information in online forms.
 
 You have the opportunity to set your web browser to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. Information supplied by cookies can help ESOMAR provide you with a better user experience. Please note that not accepting cookies may affect your ability to access certain parts of our website. [You can view the list of cookies used by ESOMAR here.](http://www.esomar.org/cookies.php)
 
@@ -81,4 +81,4 @@ This privacy policy is governed by and construed in accordance with the law of t
 
 ESOMAR reserves the right to change any of the terms of this privacy policy at any time and without notice. ESOMAR therefore recommends that you review this privacy policy from time to time, or before making a transaction.
 
-Amsterdam, 1 February 2011
+Last update: Amsterdam, 5 November 2012
