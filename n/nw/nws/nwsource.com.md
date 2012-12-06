@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwsource.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523033041id_/http%3A//www.seattletimescompany.com/notices/notice2.html%3Ffrom%3Dstnv4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwsource.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206094905id_/http%3A//www.seattletimescompany.com/notices/notice2.html) for the most accurate reproduction.*
 
 # User Notices of The Seattle Times Company: Privacy Statement
 
@@ -105,7 +105,7 @@ If you have any questions about this privacy statement, the practices of our Web
   * By e-mail: [webmaster@seattletimes.com](mailto:webmaster@seattletimes.com)
   * By mail:  
 The Seattle Times Company Online  
-1120 John St.  
+1000 Denny Way  
 Seattle, WA 98109
 
 
