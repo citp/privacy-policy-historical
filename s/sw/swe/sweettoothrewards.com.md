@@ -1,15 +1,71 @@
-> *The following text is extracted and transformed from the sweettoothrewards.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101075249id_/http%3A//www.wdca.ca/privacypolicy_page.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweettoothrewards.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206050918id_/http%3A//www.sweettoothrewards.com/privacy-policy) for the most accurate reproduction.*
 
-# WDCA | Privacy Policy | WDCA.ca
+# Privacy Policy | Sweet Tooth - Customer Loyalty & Rewards for Magento
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). We collect the e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, fax number, payment information (e.g., credit card number and billing address). The information we collect is and used for registration with applied 3rd party services and products for which the consumer has requested.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. This policy may change from time to time as we are always added new features and making improvements to Sweet Tooth. 
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart. If you supply us with your postal address on-line you will only receive the information for which you provided us your address. Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+##  The Information We Collect 
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses. Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the below address.
+This notice applies to all information collected or submitted on the Sweet Tooth website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
-Upon request we provide site visitors with access to a description of information that we maintain about them. Consumers can access this information by e-mail us at the below address. Consumers can have this information corrected by sending us e-mail at the below address.
+  * Name 
+  * Address 
+  * Email address 
+  * Phone number 
+  * Credit/Debit Card Information (but not stored on our servers) 
+  * (etc.) 
 
-With respect to security: When we transfer and receive sensitive client information such as financial, health, intellectual property or business strategy details, we redirect visitors to a secure server and will notify visitors through their browser. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. Any sensitive client information shared through email or on our support system will be kept secure and for use only to better the clients objectives as far as they have requested or approved.
 
-If you feel that this site is not following its stated information policy, you may [contact us](http://www.wdca.ca/contacts/).
+
+On some pages, you can submit information about other people. For example, you will be entering your staff’s information into our system along with comments or content may be confidential with regards to your employee/employer relationships. In this circumstance, the types of personal information collected are: 
+
+  * Name 
+  * Email address 
+  * (etc.) 
+
+
+
+Our platform (sweettoothapp.com) may also collect information about your new customers for reporting, rewarding and calculation purposes. In this circumstance, the types of personal information collected are: 
+
+  * Name 
+  * Email address 
+
+
+
+##  The Way We Use Information 
+
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+
+We will not use any information you submit about employees within an organization. We do not share this information with outside parties except to the when the person is logged into our system requests to share that information. 
+
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+
+You can register with our website if you would like to receive our newsletter as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
+
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. We use this non-identifying and aggregate information to analyze the effectiveness of our system, to improve our services, and for other similar purposes. In addition, from time to time, we may undertake or commission statistical and other summary analyses of the general behaviour and characteristics concerning users of our software, and may share anonymous information with third parties. Rest assured, though, that any information provided to third parties will not allow anyone to identify you or your employees, or to determine anything personal about you or your employees. 
+
+We use non-identifying and aggregate information about the customers of merchants to provide reporting and improve functionality of the software and provide value to merchants using the system. Merchants’ customers will never be contacted by us and information will never be disclosed to any third parties that will allow the third party to identify any particular customer. 
+
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+
+##  Our Commitment To Data Security 
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+
+Our Commitment To Children’s Privacy 
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+
+##  How You Can Access or Correct Your Information 
+
+You can access all your personally identifiable information that we collect online and maintain by logging into your companies install of Sweet Tooth and access your profile information. We use this procedure to better safeguard your information. 
+
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+
+If you stop using Sweet Tooth you can contact us at any time to remove your data from our servers and we will promptly remove your account and delete any data stored in that account. 
+
+##  How To Contact Us 
+
+Should you have other questions or concerns about these privacy policies, please send us an email at support@sweettoothrewards.com 
