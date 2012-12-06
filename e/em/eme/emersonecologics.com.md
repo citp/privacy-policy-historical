@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emersonecologics.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615011216id_/http%3A//www.emersonecologics.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emersonecologics.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207005245id_/http%3A//emersonecologics.com/Privacy) for the most accurate reproduction.*
 
 # Emerson Ecologics : Privacy Statement
 
@@ -52,7 +52,9 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 
   1. • You can log into "My Account” and change your preferences under "My Email Lists"
   2. • You can send e-mail to [cs@emersonecologics.com](mailto:cs@emersonecologics.com)
-  3. • You can send mail to the following postal address: 7 Commerce Dr., Bedford, NH 03110 
+  3. • You can send mail to the following postal address:   
+   1230 Elm Street, Suite 301, Manchester, NH 03101  
+
   4. • You can call the following telephone number: 1-800-654-4432
 
 
@@ -62,7 +64,8 @@ This site gives users the following options for changing and modifying informati
   1. You can send e-mail to [cs@emersonecologics.com](mailto:cs@emersonecologics.com)
   2. You can visit the following URL: [www.emersonecologics.com](http://www.emersonecologics.com/)
   3. You can send mail to the following postal address:  
-7 Commerce Dr., Bedford, NH  03110 
+1230 Elm Street, Suite 301, Manchester, NH 03101  
+
   4. You can call the following telephone number: 1-800-654-4432
 
 
