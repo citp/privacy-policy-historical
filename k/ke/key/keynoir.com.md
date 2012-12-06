@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keynoir.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602101323id_/http%3A//www.timeout.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keynoir.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206030646id_/http%3A//www.timeout.com/about/privacy.php) for the most accurate reproduction.*
 
 # Time Out Privacy Policy
 
@@ -26,37 +26,35 @@ If you are merely visiting the public areas of timeout.com, we do not collect an
 
 We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. If you choose to fill out any reader surveys, enter a competition, apply for an offer or make a purchase from our online shop, you will be asked to supply some information about yourself, including your name, address, phone number and email address.
 
-Time Out also collects the details provided by you on registration together with information we learn about you from your use of our service and your visits to timeout.com and other sites accessible from it. We also collect information about the transactions you undertake including details of payment cards used. 
+Time Out also collects the details provided by you on registration together with information we learn about you from your use of our service and your visits to timeout.com and other sites accessible from it. We also collect information about the transactions you undertake including details of payment cards used.
 
 When joining 'My Time Out' you will be asked to login using your Facebook account. The My Time Out application asks Facebook for permission to access selected Facebook data, which enables the service to work – for example your Friends list. This data is stored by Time Out against your 'My Time Out' profile. You can choose what personal information is displayed on timeout.com in the Account Settings page. When you login to 'My Time Out' using Facebook the application will check for any changes and update your My Time Out profile accordingly and stored by Time Out. Additionally if you amend details in the 'About You' section of 'My Time Out' this data will be retained as the master copy of your data. If you choose to deactivate your My Time Out account all your data is deleted. Your Facebook account will be unaffected.
 
-If you enter a competition you should read the terms and conditions of that promotion which will confirm how we will use any personal data submitted as part of the entry to the competition. By entering a competition or applying for an offer you give permission for Time Out to pass your details to any third party sponsor of the competition / offer so they may contact you in the event that you win the competition or qualify for the offer. If you do not win the competition / qualify for the offer your details will not be passed on without your explicit permission. 
+If you enter a competition you should read the terms and conditions of that promotion which will confirm how we will use any personal data submitted as part of the entry to the competition. By entering a competition or applying for an offer you give permission for Time Out to pass your details to any third party sponsor of the competition / offer so they may contact you in the event that you win the competition or qualify for the offer. If you do not win the competition / qualify for the offer your details will not be passed on without your explicit permission.
 
 We may also collect additional information in connection with information you provide when giving us feedback or completing profile forms. 
 
 #### How we collect data
 
-We collect data from information supplied by you. When you give timeout.com your email address in response to marketing emails, you are asked to let timeout.com know how it can be used. You may 'opt in' to receive regular email newsletters that contain information timeout.com believe to be of value to you, specifically events, special discounts and offers selected by the Time Out marketing department. 
+We collect data from information supplied by you. When you give timeout.com your email address in response to marketing emails, you are asked to let timeout.com know how it can be used. You may 'opt in' to receive regular email newsletters that contain information timeout.com believe to be of value to you, specifically events, special discounts and offers selected by the Time Out marketing department.
 
 All marketing emails will contain a link to opt out of further communications from timeout.com If you make a purchase via timeout.com the assumption may be made that you will be interested in similar products and you may receive emails with information about these products. All marketing emails will contain a link to opt out of further communications from timeout.com. For the avoidance of doubt you cannot opt out of service emails
 
-timeout.com may also use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to timeout.com, and understanding how visitors use timeout.com. Cookies can also help customize timeout.com for visitors. Time Out uses cookies to track user usage on timeout.com. Time Out uses ad servers (such as DoubleClick) to serve advertisements on timeout.com. Ad servers use cookies to help target relevant ads to users. To find out more about the use of cookies and the information-gathering practices and opt-out procedures of AdLINK, please follow this link here. 
+Timeout.com may also use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to timeout.com, and understanding how visitors use timeout.com. Cookies can also help customize timeout.com for visitors. Time Out uses cookies to track user usage on timeout.com. Time Out uses ad servers (such as DoubleClick) to serve advertisements on timeout.com. Ad servers use cookies to help target relevant ads to users. To find out more about the use of cookies and the information-gathering practices and opt-out procedures of AdLINK, please follow this link here. 
 
-Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. "Cookies" are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser. You can find out more about the way cookies work on [http://www.cookiecentral.com](http://www.cookiecentral.com/). 
+Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. "Cookies" are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser. You can find out more about the way cookies work on [http://www.cookiecentral.com](http://www.cookiecentral.com/).
 
 We may also use uses cookies for a number of other purposes, for instance to enable us to simplify the logging on process for registered users, to help ensure the security and authenticity of registered users, to provide the mechanisms for improving and monitoring visitor's experiences mapping and to enable traffic monitoring.
 
 Non-registered visitors of the site are sent anonymous cookies to keep track of their browsing patterns and build up a demographic profile. In addition, any visitor who has clicked on a timeout.com advertisement on another site that links to timeout.com will be sent anonymous cookies that will allow us to analyse advertising effectiveness and manage our relationship with affiliate sites.
 
-Whilst you do not need to allow your browser to accept cookies in order to browse much of our web site or to access many of our services, you must have cookies enabled if you wish to shop online at any of our stores or access any areas reserved for registered users. 
+Whilst you do not need to allow your browser to accept cookies in order to browse much of our web site or to access many of our services, you must have cookies enabled if you wish to shop online at any of our stores or access any areas reserved for registered users. Most browsers allow you to turn off the cookie function. If you want to know how to do this please look at the help menu on your browser. 
 
-Most browsers allow you to turn off the cookie function. If you want to know how to do this please look at the help menu on your browser. 
-
-timeout.com cookies cannot be used by themselves to identify you and you have the ability to accept or decline cookies by modifying the settings in your browser. However, some interactive features of timeout.com may not work if cookies are disabled. Cookies can be disabled in your browser by following the instructions found at: [www.allaboutcookies.org/manage-cookies](http://www.allaboutcookies.org/manage-cookies).
+Timeout.com cookies cannot be used by themselves to identify you and you have the ability to accept or decline cookies by modifying the settings in your browser. However, some interactive features of timeout.com may not work if cookies are disabled. Cookies can be disabled in your browser by following the instructions found at: <http://www.allaboutcookies.org/manage-cookies>.
 
 #### Why data is being collected?
 
-We collect data for a number of reasons. It helps us tailor and personalise you experience with timeout.com and enables us to send you relevant information about products or services that may be of interest to you. We may use data to send you offers and news about Time Out Group products and services or those of other carefully selected companies which we think may be of interest to you. Your information may be passed to and used by all Time Out licensees and affiliates. 
+We collect data for a number of reasons. It helps us tailor and personalise you experience with tomeout.com and enables us to send you relevant information about products or services that may be of interest to you. We may use data to send you offers and news about Time Out Group products and services or those of other carefully selected companies which we think may be of interest to you. Your information may be passed to and used by all Time Out licensees and affiliates. 
 
 Time Out collects aggregate user information to sell sponsorships on timeout.com to advertisers and to monitor customer traffic patterns such as the number of users to timeout.com, the pages visited and the length of visit which enables us to improve the service we provide.
 
@@ -64,11 +62,11 @@ In addition, Time Out collects information from users who click on advertisement
 
 Time Out also uses demographic and preference information to allow advertising banners on timeout.com to be targeted, in the aggregate, to the users for whom they are most pertinent. 
 
-#### What we do with the information collected 
+#### What we do with the information collected
 
 The information you provide is used to fulfill your specific request unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
 
-We will use your contact details to communicate with you.
+We will use your contact details to communicate with you. 
 
 We use personal data for the purpose of providing you with the services you have requested and to personalise our service to you. We may use your information to send you offers and news about Time Out group products and services or those of other carefully selected companies which we think may be of interest to you. Your information may be passed to and used by all Time Out licensees and affiliates. 
 
@@ -80,13 +78,13 @@ In some circumstances outside service providers may be based in countries outsid
 
 Save as explained above and subject to the provisions below Time Out will not pass on your individual user details to third parties without asking for explicit permission.
 
-timeout.com cooperates with all law-enforcement inquiries and reserves the right to disclose personally identifying or aggregate information to detect and prevent fraud and in connection with a subpoena or other court-sanctioned demand for such information.
+Timeout.com cooperates with all law-enforcement inquiries and reserves the right to disclose personally identifying or aggregate information to detect and prevent fraud and in connection with a subpoena or other court-sanctioned demand for such information.
 
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes. 
 
 #### How do we keep data secure?
 
-timeout.com has security measures in place to protect against the loss, misuse and alteration of the information under timeout.com's control. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All newsletters from this site allow you to opt out of further mailings. You can also opt out of further emails other than service emails which are an integral part of our service, such as purchase confirmations, invoice emails, and customer notices such as those relating to data management and similar purposes.
+Timeout.com has security measures in place to protect against the loss, misuse and alteration of the information under timeout.com’s control. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All newsletters from this site allow you to opt out of further mailings. You can also opt out of further emails other than service emails which are an integral part of our service, such as purchase confirmations, invoice emails, and customer notices such as those relating to data management and similar purposes.
 
 We use appropriate physical, electronic and managerial security measures to try to prevent that personal data from being accessed by unauthorised persons and to ensure that you may input personal data safely. This means that sometimes we may ask for proof of identity before we disclose personal data to you.
 
