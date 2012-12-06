@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sammydress.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524143920id_/http%3A//www.sammydress.com/m-article-id-27.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sammydress.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206052546id_/http%3A//www.sammydress.com/m-article-id-27.html) for the most accurate reproduction.*
 
 # Privacy Policy - Sammydress.com
 
-We respect the privacy of our visitors/customers, which is extremely important to us. We take your online safety seriously. To better serve you and to make you understand how your information is used on our site, we have explained our privacy policy below. **1.The information we collect**  
+Sammydress.com respect the privacy of our visitors/customers, which is extremely important to us. We take your online safety seriously. To better serve you and to make you understand how your information is used on our site, we have explained our privacy policy below. **1.The information we collect**  
 We believe it’s important for you to know what types of information we collect when you use our site. The information includes your Email, Name, Company Name, Street Address, Post Code, City, Country, Telephone Number, Password and so on. We collect this information in several different ways; to begin with, we use cookies that are needed to compile and aggregate non-personally identifiable information about the visitors to our web site. Personally identifiable information consists of information that is unique to you, such as credit card number and bank account numbers. The information is unique to you. **2.The use of information**  
 Help us make this site easier for you to use by not having to enter information more than once.  
 Helps you quickly locate information, products, and services.  
@@ -18,8 +18,10 @@ We will not sell (or trade or rent) personally identifiable information to other
 We send email content to our customers that may include following:  
 Transaction mail, Shipping notification, Weekly deal, Promotion, Activity,
 
- **Address, Phone Number and Email**  
-B28 Nuclear Power Building, Shennan Road, Futian District, Shenzhen, China +86-755-26406350 [support@sammydress.com](https://web.archive.org/web/20120524143920id_/http%3A//www.sammydress.com/mailto;support@sammydress.com)
+ **Address and Email**  
+417 Mace Blvd, Ste. J, #338 Davis, CA 95616 USA.  
++1 909-581-9508  
+[support@sammydress.com](http://www.sammydress.com/eload_admin/mailto;support@sammydress.com)
 
-**How do I unsubscribe?**  
-You can unsubscribe from any email via your subscribe settings after you log in.
+ **How do I unsubscribe?**  
+You can unsubscribe by using the link from any email newsletter or your personal subscribe setting after logged in.
