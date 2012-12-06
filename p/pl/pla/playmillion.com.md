@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playmillion.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621070057id_/http%3A//www.playmillion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playmillion.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206202830id_/http%3A//www.playmillion.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
