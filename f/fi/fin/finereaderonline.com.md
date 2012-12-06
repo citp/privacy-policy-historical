@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finereaderonline.com privacy policy that was archived on 2012-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120220074414id_/http%3A//www.abbyyonline.com/en/Help/Privacy/finereader) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finereaderonline.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206065220id_/http%3A//www.abbyyonline.com/en/Help/Privacy/finereader) for the most accurate reproduction.*
 
 # Privacy Policy
 
