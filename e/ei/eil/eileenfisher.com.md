@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eileenfisher.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607211116id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/privacy.jsp%3FbmLocale%3Den_US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eileenfisher.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206230340id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/privacy.jsp%3FbmLocale%3Den_US) for the most accurate reproduction.*
 
 # Shop Women's Fashion & Clothing at Eileen Fisher
 
-**EILEEN FISHER PRIVACY POLICY**
+EILEEN FISHER PRIVACY POLICY
 
 Our privacy policy reflects our long history of customer service and the high value we place on our customers' trust. EILEEN FISHER, Inc. is committed to protecting our customers' right to privacy and to the ethical and responsible use of your information online. We never sell or share our mailing lists with any other company.
 
@@ -14,7 +14,7 @@ In our efforts to provide the best quality services to you, we may hire other pa
 
 Except as noted above, we will not share any of your personally identifiable information with anyone.
 
-**IMPORTANT NOTE**
+IMPORTANT NOTE
 
 We may disclose specific information about customers if required to do so by law or if we believe in good faith that it is necessary to comply with the law or if it is necessary to protect website users, the website itself or the public.
 
@@ -22,7 +22,7 @@ By using our website, you agree to our privacy policy as described above and to 
 
 If you have any questions about our privacy policy or our 
 
-[_terms of use_](https://web.archive.org/web/20120607211116id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/terms.jsp)
+[_terms of use_](https://web.archive.org/web/20121206230340id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/terms.jsp)
 
 , please email us at 
 
@@ -30,7 +30,7 @@ If you have any questions about our privacy policy or our
 
 .
 
-**OPT-OUT**
+OPT-OUT
 
 If you would like to remove your name from our email or postal mailing list please let us know by emailing 
 
@@ -38,6 +38,6 @@ If you would like to remove your name from our email or postal mailing list plea
 
 or by writing to us at Attn: Website Marketing Dept., 2 Bridge Street, Ste. 230, Irvington, New York 10533. In order for us to ensure your name is removed from our mailing lists, please provide us with your exact email address or name and address the way it appears on our mailing label. Updates to our mailing list may take up to four weeks to process.
 
-**INTERNATIONAL PRIVACY POLICY**
+INTERNATIONAL PRIVACY POLICY
 
-<http://www.fiftyone.com/web-site-privacy-policy>
+[Click here](http://www.fiftyone.com/web-site-privacy-policy) to read FiftyOne's Privacy Policy 
