@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxal.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607083042id_/http%3A//www.myfoxal.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxal.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206211342id_/http%3A//www.myfoxal.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
