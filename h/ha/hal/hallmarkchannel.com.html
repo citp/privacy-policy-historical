@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hallmarkchannel.com privacy policy that was archived on 2012-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120506223521id_/http%3A//hallmarkchannel.com/PrivacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hallmarkchannel.com privacy policy that was archived on 2012-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121206053814id_/http%3A//www.hallmarkchannel.com/PrivacyPolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Privacy Policy | Hallmark Channel</title>
@@ -7,12 +7,28 @@
     <meta name="description" content="Hallmark Channel's Privacy Policy">
     <meta http-equiv="Content-Language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-       <link rel="shortcut icon" href="/hc.ico" type="image/x-icon">
-	<link rel="icon" type="image/png" href="/hc.ico">   
-    <link href="/TemplateCss/1.css" rel="stylesheet" type="text/css">
-    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script language="javascript">AC_FL_RunContent = 0;</script>
+   <meta http-equiv="X-UA-Compatible" content="IE=8"> 
+ 
+    <link rel="shortcut icon" href="/hc.ico" type="image/x-icon">
+    <link rel="icon" type="image/png" href="/hc.ico">
+
+    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="/Scripts/Jquery.js"></script>
+
+    <script type="text/javascript" src="/Skin2012/HomeSchedule/Js/jquery.jcarousel.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="/Skin2012/HomeSchedule/Css/skin.css">
+
+    <script type="text/javascript" src="/Skin2012/HomeSchedule/Js/HomeSchedule.js"></script>
+
+    <link href="/Skin2012/WholeSite.css" rel="stylesheet" type="text/css">
+    <link href="/Skin2012/TopMenu.css" rel="stylesheet" type="text/css">
+
+    <script language="javascript">AC_FL_RunContent = 0;</script>
+
     <script src="/swf/AC_RunActiveContent.js" language="javascript"></script>
-   <script type="text/javascript" src="/Scripts/AD/ADBanner.js"></script>
+
+    <script src="/Scripts/AD/ADBanner.js" type="text/javascript"></script>
+
     <script language="javascript">
 function keywordsearch()
 {
@@ -23,12 +39,119 @@ function keywordsearch()
    }     
 }
     </script>
-    <link href="/TemplateCss/TopNavCssOverMenu.css" rel="stylesheet" type="text/css">
-   
-    <script src="/Scripts/homeslide/packed.js" language="javascript"></script>
-    <link href="/Scripts/homeslide/style.css" rel="stylesheet" type="text/css">
+
+    <script language="javascript">
+var ADIndex = 0;
+var GetNodeValue = function (obj) {
+    var str = "";
+    if (window.ActiveXObject)    //IE
+    {
+        str = obj.text;
+    }
+    else //Mozilla
+    {
+        try {
+            str = obj.childNodes[0].nodeValue;
+        }
+        catch (ex) {
+            str = "";
+        }
+    }
+    return str;
+}
+
+if(document.implementation && document.implementation.createDocument)
+{
+    XMLDocument.prototype.loadXML = function(xmlString)
+    {
+        var childNodes = this.childNodes;
+        for (var i = childNodes.length - 1; i >= 0; i--)
+        this.removeChild(childNodes[i]);
+
+        var dp = new DOMParser();
+        var newDOM = dp.parseFromString(xmlString, "text/xml");
+        var newElt = this.importNode(newDOM.documentElement, true);
+        this.appendChild(newElt);
+    };
+
+// check for XPath implementation
+if( document.implementation.hasFeature("XPath", "3.0") )
+{
+    // prototying the XMLDocument
+    XMLDocument.prototype.selectNodes = function(cXPathString, xNode)
+    {
+        if (!xNode) 
+        {
+            xNode = this; 
+        }
+        var oNSResolver = this.createNSResolver(this.documentElement)
+        var aItems = this.evaluate(cXPathString, xNode, oNSResolver,
+            XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null)
+        var aResult = [];
+        for( var i = 0; i < aItems.snapshotLength; i++)
+        {
+            aResult[i] = aItems.snapshotItem(i);
+        }
+        return aResult;
+    }
+    // prototying the Element
+    Element.prototype.selectNodes = function(cXPathString)
+    {
+        if(this.ownerDocument.selectNodes)
+        {
+            return this.ownerDocument.selectNodes(cXPathString, this);
+        }
+        else 
+        {
+            throw "For XML Elements Only";
+        }
+    }
+}
+
+// check for XPath implementation
+if( document.implementation.hasFeature("XPath", "3.0") )
+{
+    // prototying the XMLDocument
+    XMLDocument.prototype.selectSingleNode = function(cXPathString, xNode)
+    {
+    if( !xNode ) { xNode = this; }
+    var xItems = this.selectNodes(cXPathString, xNode);
+    if( xItems.length > 0 )
+    {
+    return xItems[0];
+    }
+    else
+    {
+    return null;
+    }
+    }  
+    // prototying the Element
+    Element.prototype.selectSingleNode = function(cXPathString)
+    {  
+    if(this.ownerDocument.selectSingleNode)
+    {
+    return this.ownerDocument.selectSingleNode(cXPathString, this);
+    }
+    else{throw "For XML Elements Only";}
+    }
+}
+}
+    </script>
+
+    <link href="/Skin2012/homeslide/style.css" rel="stylesheet" type="text/css">
+    <script src="/Skin2012/homeslide/packed.js" language="javascript"></script>
+
+    <script>
+$(document).ready(function() 
+{
+    $('#whatontoday').css("visibility", "visible");
+
+});
+
+    </script>
+
 </head>
-<body style="margin: 0px;">
+<body>
 <!-- Begin comScore Tag -->
 <script>
   var _comscore = _comscore || [];
@@ -46,36 +169,44 @@ function keywordsearch()
 
     <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
-            <td id="bg" style="background-image: url(/images/consumer2010_left_gutter.png); background-repeat: no-repeat;
-                background-position: right top;">&nbsp;
-                </td>
+            <td class="leftgutter">
+                &nbsp;
+            </td>
             <td width="1000" valign="top">
                 <table width="1000" border="0" cellspacing="0" cellpadding="0">
                     <tbody><tr>
-                        <td width="1000" height="131" style="background-image: url('/images/TemplateImages/TopBgWithLogo.png');
-                            background-repeat: no-repeat;" valign="top" align="left">
+                        <td width="1000" height="131" class="topheader" valign="top" align="left">
                             <table border="0" cellpadding="0" cellspacing="0" style="width: 1000px">
                                 <tbody><tr>
-                                    <td style="width: 271px; cursor: pointer; height:131;" onclick="javascript:location='/Consumerhomepage.html'">
+                                    <td style="width: 271px; cursor: pointer; height: 131;" onclick="javascript:location='/Consumerhomepage.html'">
+                                   <img src="/Skin2012/Logo.png"> 
                                     </td>
-                                    <td style="width: 729px"><div style="padding-top:25px;"><script>ADCodeByJS(1,5);</script></div>
+                                    <td style="width: 729px">
+                                        <div style="padding-top: 25px;">
+
+                                            <script>ADCodeByJS(1,5);</script>
+
+                                        </div>
                                     </td>
                                 </tr>
                             </tbody></table>
                         </td>
                     </tr>
                     <tr>
-                        <td width="994" height="41" background="/images/consumer2010_topNav.png" style="background-repeat: no-repeat;
-                            padding-left: 6px;" valign="top">
+                        <td class="topnavheader">
                             <table border="0" cellpadding="0" cellspacing="0" style="width: 994px">
                                 <tbody><tr>
                                     <td style="width: 702px; padding-bottom: 4px;" valign="bottom">
-                                        <div class="menu"><ul><li class="menunormal"><a href="/schedule/default.html" class="nav9" target="_top">schedule</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/shows/default.html" class="nav9" target="_top">shows</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/Hallmark_Channel_Home/home" class="nav9" target="">hallmark channel daytime</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="http://www.hallmarkchannel.com/fungames/default.aspx" class="nav9" target="_top">fun &amp; games</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/newsletter/default.aspx" class="nav9" target="_top">newsletter</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/ChannelLocator/Default.aspx" class="nav9" target="_top">channel locator</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/VideoHub" class="nav9" target="">video</a><span class="navspliter9">&nbsp;&nbsp;</span></li></ul></div></td>
-                                    <td style="width: 22px; padding-top:13px;" valign="top">
-                                        <a href="http://www.facebook.com/hallmarkmoviechannel" target="_blank"><img src="/images/TemplateImages/btn_facebook.png" border="0"></a>
+                                        <div class="menu"><ul><li class="menunormal"><a href="/schedule/default.html" class="nav9" target="_top">schedule</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/shows/default.html" class="nav9" target="_top">shows</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/fungames/default.aspx" class="nav9" target="_top">fun &amp; games</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/newsletter/default.aspx" class="nav9" target="_top">newsletter</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/ChannelLocator/Default.aspx" class="nav9" target="_top">channel locator</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/VideoHub" class="nav9" target="">video</a><span class="navspliter9">&nbsp;&nbsp;</span></li></ul></div></td>
+                                    <td style="width: 22px; padding-top: 13px;" valign="top">
+                                        <a href="http://www.facebook.com/hallmarkchannel" target="_blank">
+                                            <img src="/images/TemplateImages/btn_facebook.png" border="0"></a>
                                     </td>
-                                    <td style="width: 41px; padding-top:13px; padding-left:7px;" valign="top"><a href="http://twitter.com/hallmarkchannel" target="_blank"><img src="/images/TemplateImages/btn_twitter.png" border="0"></a>
-                                    </td>                                     <!--<td style="width: 141px; padding-top: 6px;" valign="top">
+                                    <td style="width: 41px; padding-top: 13px; padding-left: 7px;" valign="top">
+                                        <a href="http://twitter.com/hallmarkchannel" target="_blank">
+                                            <img src="/images/TemplateImages/btn_twitter.png" border="0"></a>
+                                    </td>
+                                    <!--                                    <td style="width: 141px; padding-top: 6px;" valign="top">
                                         <input id="textbox_keyword" type="text" class="searchbox" />
                                     </td>
                                     <td style="width: 41px; padding-top: 6px;" valign="top">
@@ -83,24 +214,21 @@ function keywordsearch()
                                     <td style="width: 222px; padding-top: 6px;" valign="top">
                                         <div id="cse" style="width: 220px;">
                                             Loading</div>
-
                                         <script src="http://www.google.com/jsapi" type="text/javascript"></script>
-
-                                        <script src="/Scripts/GoogleSearch/v20120315.js" type="text/javascript"></script>
-
-                                        <link href="/Scripts/GoogleSearch/v20120315.css" rel="stylesheet" type="text/css">
-                                    </td> 
+                                        <script src="/Skin2012/GoogleSearch/v20120315.js" type="text/javascript"></script>
+                                        <link href="/Skin2012/GoogleSearch/v20120315.css" rel="stylesheet" type="text/css">
+                                    </td>
                                 </tr>
                             </tbody></table>
                         </td>
                     </tr>
                     <tr>
-                        <td width="1000" height="28" bgcolor="#C09ADF" style="padding-left: 6px;">
+                        <td class="top2ndNav">
                             <div class="menu"><ul><li class="menunormal"><a href="http://www.community.hallmarkchannel.com" class="nav10" target="_top">community</a><span class="navspliter10">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/sweepstakes.aspx" class="nav10" target="_top">sweepstakes</a><span class="navspliter10">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/shop/default.aspx" class="nav10" target="_top">shop</a><span class="navspliter10">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="http://www.hallmarkmoviechannel.com" class="nav10" target="_top">hallmark movie channel</a><span class="navspliter10">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="http://www.hallmark.com/" class="nav10" target="_blank">hallmark cards</a><span class="navspliter10">&nbsp;&nbsp;</span></li></ul></div></td>
                     </tr>
                     <tr>
-                        <td>
-                            <img src="/images/consumer2010_topSpace.png"></td>
+                        <td class="pageRowSpliter">
+                        </td>
                     </tr>
                     <tr>
                         <td bgcolor="#FFFFFF"><div style="padding-right: 10px; padding-left: 10px; padding-bottom: 10px; padding-top: 10px">
@@ -211,17 +339,20 @@ function keywordsearch()
                         </td>
                     </tr>
                     <tr>
-                        <td width="1000" height="48" background="/images/consumer2010_footerMenu.png" align="center" style="padding-left: 20px;">
+                        <td class="sitefooter">
                             <div class="menu"><ul><li class="menunormal"><a href="http://ir.crownmedia.net " class="nav7" target="_top">investor relations</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/ParentalControls.html" class="nav7" target="_top">parental controls</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/AboutUs.html" class="nav7" target="_top">about us</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="http://www.hallmarkchannelpress.com/" class="nav7" target="_top">press</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/jobs/default.aspx" class="nav7" target="_top">jobs</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/Advertising.html" class="nav7" target="_top">advertising</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="http://www.hallmarkchannel.com/Others/userapply/default.aspx" class="nav7" target="_top">contact us</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/ChannelLocator/Default.aspx" class="nav7" target="_top">channel locator</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/PrivacyPolicy.html" class="nav7" target="_top">privacy policy</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/TermsOfUse.html" class="nav7" target="_top">terms of use</a><span class="navspliter7">&nbsp;&nbsp;</span></li></ul></div><br>
-                            <div class="nav7" style="padding-top: 8px;">
-                                copyright © 2010 Crown Media, all rights reserved.</div>
+
+                            <script type="text/javascript">
+var d = new Date();
+document.write('<div class="nav7" style="padding-top: 8px;">copyright © ' + d.getFullYear() + ' Crown Media, all rights reserved.</div>');
+                            </script><div class="nav7" style="padding-top: 8px;">copyright © 2020 Crown Media, all rights reserved.</div>
+
                         </td>
-                    </tr>
-                </tbody></table>
+                    </tr>                </tbody></table>
             </td>
-            <td id="bg" style="background-image: url(/images/consumer2010_right_gutter.png); background-repeat: no-repeat;
-                background-position: left top;">&nbsp;
-                </td>
+            <td class="rightgutter">
+                &nbsp;
+            </td>
         </tr>
     </tbody></table>  
 <!-- SiteCatalyst code version: H.20.3.Copyright 1997-2009 Omniture, Inc. More info available at http://www.omniture.com -->
@@ -276,7 +407,8 @@ document.write(unescape('%3C')+'\!-'+'-')
        <script type="text/javascript">
        var rnd=Math.floor(Math.random()*11);
        document.write('<img src="http://media.fastclick.net/w/tre?ad_id=26193;evt=18938;cat1=24377;cat2=24378;rand='+rnd.toString()+'" width="1" height="1" border="0" />');
-       </script><img src="http://media.fastclick.net/w/tre?ad_id=26193;evt=18938;cat1=24377;cat2=24378;rand=6" width="1" height="1" border="0">
+       </script><img src="http://media.fastclick.net/w/tre?ad_id=26193;evt=18938;cat1=24377;cat2=24378;rand=5" width="1" height="1" border="0">
+
 
 
 </body></html>
