@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cohomefinder.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607050307id_/http%3A//www.cohomefinder.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cohomefinder.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206102444id_/http%3A//www.cohomefinder.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # None
 
@@ -6,17 +6,17 @@
 
 This privacy statement covers the Web site WWW.COHOMEFINDER.COM. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-1\. What personally identifiable information Colorado HomeFinder collects.  
-2\. How Colorado HomeFinder uses the information.  
+1\. What personally identifiable information COhomefinder collects.  
+2\. How COhomefinder uses the information.  
 3\. What choices are available to users regarding collection, use and distribution of the information.   
-4\. What types of security procedures are in place to protect the loss, misuse or alteration of information under Colorado HomeFinder control.   
+4\. What types of security procedures are in place to protect the loss, misuse or alteration of information under COhomefinder control.   
 5\. How users can correct any inaccuracies in the information. If users have questions or concerns regarding this statement, they should first contact Client Care at (303) 543-3083 or [**click here to contact us.**](https://web.archive.org/contact-Boulder-Colorado-homefinder.htm)
 
 ### Information Collection and Use
 
 **Information Collection**
 
-Colorado HomeFinder is the sole owner of the information collected on the site www.COhomefinder.com. Colorado HomeFinder collects information from our users at several different points on our Web site.
+COhomefinder is the sole owner of the information collected on the site www.COhomefinder.com. COhomefinder collects information from our users at several different points on our Web site.
 
 **Registration**
 
@@ -26,7 +26,7 @@ In order to use this Web site, a user must first complete the registration form.
 
 **Profile**
 
-We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the user's personally identifiable information to improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site and to direct pertinent real estate information to them. **We do not share personal profiles with any other third parties. Personal profiles can only be only be accessed by designated Colorado HomeFinder employees and REALTORS.**
+We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the user's personally identifiable information to improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site and to direct pertinent real estate information to them. **We do not share personal profiles with any other third parties. Personal profiles can only be only be accessed by designated COhomefinder employees and REALTORS.**
 
 **Cookies**
 
@@ -36,7 +36,7 @@ By setting a cookie on our site, users do not have to log in a password more tha
 
 ### No Third Party Advertising
 
-**No third party advertisers are allowed on the Web site www.COhomefinder.com, nor does Colorado HomeFinder share any personal profile information of its users with any third party advertiser.**
+**No third party advertisers are allowed on the Web site www.COhomefinder.com, nor does COhomefinder share any personal profile information of its users with any third party advertiser.**
 
 **Log Files**
 
@@ -50,19 +50,19 @@ The Automated HomeAlert system emails users when new listings that match a user'
 
 **Services and Market Updates**
 
-We send all new members a welcoming email to explain the services provided by Colorado HomeFinder. Established members will occasionally receive information about our services, market updates, home buying or selling tips, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
+We send all new members a welcoming email to explain the services provided by COhomefinder. Established members will occasionally receive information about our services, market updates, home buying or selling tips, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
 
 **Newsletter**
 
 If a user wishes to subscribe to our newsletter, we ask for contact information such as email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please see the Choice and Opt-out sections.
 
-**Colorado HomeFinder Client Care**
+**COhomefinder Client Care**
 
 Our Client Care team communicates with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes.
 
-**Colorado HomeFinder REALTORS**
+**COhomefinder REALTORS**
 
-We partner with REALTORS that serve specific geographic markets to provide real estate services to Colorado HomeFinder users that expressly request the services of a REALTOR. When the user requests these particular services, the appropriate Colorado HomeFinder REALTOR receives the user's name, contact information, and home search criteria in order to provide real estate services to the user. 
+We partner with REALTORS that serve specific geographic markets to provide real estate services to COhomefinder users that expressly request the services of a REALTOR. When the user requests these particular services, the appropriate COhomefinder REALTOR receives the user's name, contact information, and home search criteria in order to provide real estate services to the user. 
 
 **Service Announcements**
 
@@ -70,7 +70,7 @@ On rare occasions it is necessary to send out a strictly service related announc
 
 **Business Transitions**
 
-In the event Colorado HomeFinder goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. 
+In the event COhomefinder goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. 
 
 **Choice/Opt-out**
 
@@ -86,7 +86,7 @@ From time-to-time our site requests information from users via surveys or contes
 
 **Tell-A-Friend**
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Colorado HomeFinder will automatically send the friend a one-time email inviting them to visit the site. Colorado HomeFinder stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact Colorado HomeFinder to request the removal of this information from our database.
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. COhomefinder will automatically send the friend a one-time email inviting them to visit the site. COhomefinder stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact COhomefinder to request the removal of this information from our database.
 
 **Security**
 
