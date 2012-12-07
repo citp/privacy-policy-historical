@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wallpaperdojo.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609103049id_/http%3A//www.wallpaperdojo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaperdojo.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207175754id_/http%3A//www.wallpaperdojo.com/privacy.php) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 Privacy Policy
 
-WallpaperDojo takes your privacy seriously. Please read the following to learn more about how we protect and respect your personal privacy while logged into our web server.
+WallpaperDojo takes your privacy seriously and we just hate spam. Please read the following to learn more about how we protect and respect your personal privacy while logged into our web server.
 
 WallpaperDojo has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the following website: wallpaperdojo.com.  
 Third party Advertising
