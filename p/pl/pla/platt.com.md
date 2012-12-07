@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the platt.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218041628id_/http%3A//www.platt.com/Downloads/pdfs/PRIVACYPOLICY.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platt.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207032713id_/http%3A//www.platt.com/Downloads/pdfs/PRIVACYPOLICY.pdf) for the most accurate reproduction.*
 
 # PLATT ELECTRIC SUPPLY, INC. PRIVACY POLICY
 
