@@ -1,61 +1,40 @@
-> *The following text is extracted and transformed from the hotelscombined.com.au privacy policy that was archived on 2012-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120317141827id_/http%3A//www.hotelscombined.com.au/AboutUs/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelscombined.com.au privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207150654id_/http%3A//www.hotelscombined.com.au/AboutUs/Privacy.aspx) for the most accurate reproduction.*
 
 # HotelsCombined.com.au Privacy Statement
 
-  
-  
+This website is powered by HotelsCombined Pty Ltd (ABN 61 122 130 554).
 
+* * *
 
-## Our Commitment
+## Our Site
 
-Welcome to HotelsCombined.com, the best site on the web for up-to-date information on hotels and accommodations throughout the world. We, the founders of HotelsCombined.com are Internet users, too, so we understand how serious you are about protecting your private information – we’re serious about it, too! To help you understand our privacy policies better, we’ve chosen to explain it below in plain English. That way, you can feel comfortable that we are just as dedicated to your privacy as we are to ours.
+Access to the website is conditional on your acceptance of our Privacy Policy. When you log on and use our website, or a site powered by us, this implies consent to this Privacy Policy. As new and fascinating things always happen in the online world, we will update our Privacy Policy accordingly to reflect these changes. Your continued use of the website following an amendment to the Privacy Policy will confirm your acceptance of these revisions.
 
-The bottom line is that any information we collect from you remains completely private unless you give us permission to give it to another website. We do not knowingly collect private information from children, and we don’t sell your information to any other websites for any reason. That’s it in a nutshell! If you have any questions about our privacy policy, please don’t hesitate to contact us by email or at
+* * *
+
+## Protecting your privacy
+
+At HotelsCombined we are committed to the protection of your personal information while you are on our site. We don’t want to collect any personal or sensitive information about you. What is personal or sensitive info? That's basically information or opinions about your health, political affiliations, sexual preferences, religious beliefs, racial or ethnic origin or other such private information.
+
+* * *
+
+## Cookies
+
+Cookies are used for the website to send certain information to your browser and for your browser to return the information at a later time. We can use this information for things like, authenticating, or identifying a user session (such as a previous hotel search), user preference or any other function that can be completed through storing text data. This kind of function does not include information that personally identifies you.
+
+Most browsers accept cookies automatically. Your browser may have settings so you can refuse cookies. De-activating cookies may mean that you will no longer be able to enjoy the full operational capabilities of the website and you may not be able to see information that is directly relevant to you. For you to get the most from the user experience on the HotelsCombined site or a site powered by us, we collect certain information or “cookies”. What this means is that when you opt for certain preferences we assign you cookies and these are stored on your browser to give you an optimum user experience on our website. This information does not contain personally identifiable information and such as your name, address, email address or telephone number.
+
+Our business is essentially a search engine for hotels. As such we present content and actively engage with trusted third party companies, who in turn, can present dynamic content to our users. Some of our trusted third party business partners use cookies to track when a click becomes a sale. Others use it to serve specific and targeted content. To learn more about the choices you have with this content please visit youronlinechoices.eu and aboutads.info/choices.
+
+* * *
+
+## Other Websites
+
+Subject to this Privacy Policy, we will not disclose any information to companies that are not affiliated with our business without your consent in writing, unless otherwise required by law, or unless such disclosure is, in our opinion, reasonably necessary to protect its rights or property, or to avoid injury to any person. Should you navigate away from our site, third party sites will include different Privacy Policies and our HotelsCombined Privacy Policy will no longer apply.
+
+All enquiries regarding the HotelsCombined Privacy policy should be directed to the following address:
 
 HotelsCombined Pty Ltd  
 44 Bay Street  
 Ultimo, 2007, NSW  
 Sydney, Australia
-
-## Information Collected
-
-Our computers collect non-personally identifiable data (your IP address, how often you visit our site, which pages you visit, etc.) each time you visit HotelsCombined.com. We use this information to make the site better – easier to use and simpler.
-
-We will only collect personally identifiable data (your name, email address, phone number, etc.) on forms YOU complete. This information might be used for promotions, specials, or to contact you when you have a question. YOU are in complete control of what personally identifiable information you give us.
-
-## Use of Collected Information
-
-We will never sell your information – either kind – to anyone else, including other websites or spammers. However, if we have another company help us perform some function of our website, we will give them only the information needed to perform the function, and they are prohibited from using the information in any other way.
-
-Also, we might share your non-personally identifiable data with third party advertisers – that’s folks who want to advertise on our website in order to offer you products and services that, as a world traveler, you might like.
-
-Finally, we may disclose personal information if required to by law or if we believe such disclosure is necessary to
-
-a) conform to the requirements of the law,  
-b) comply with a legal process served on our Company or the website, and  
-c) protect and/or defend our Company, website, employees, and users.  
-
-
-## Children
-
-HotelsCombined.com.au does not knowingly collect any information from children.
-
-## Cookies
-
-Cookies are a standard Internet technology, a small text file that is put on your hard drive by the server that hosts a web page. They can’t be used to gain control of your computer or to put a virus on your computer. No one else can read our cookies, and we only use them to improve the quality of our service to you. Your Internet browser was probably originally set up to accept cookies, but you can always reset it to refuse them or to ask you each time a site tries to put one on your computer. Please note, if you don’t let us install our cookie on your computer, you can still use the website, but some parts of it might not work correctly.
-
-## Acquisition
-
-That’s the fancy term for if we sell HotelsCombined.com.au or the Company or merge with another company. If we do, your information might be transferred to the new company.
-
-## Security
-
-HotelsCombined.com.au is as committed to the security of your computer system as we are to your privacy. We use various types of standard Internet security technologies and procedures to help protect your personal information from unauthorized access, use, and disclosure.
-
-## Changes in Privacy Policy
-
-HotelsCombined.com.au might choose to update our privacy policy occasionally. If we do, we will post a notice on the website so you can review any changes and how they might affect you. Also, please review this page from time to time to make sure you haven’t missed any such notices. By continuing to use HotelsCombined.com.au, you are agreeing to this privacy policy and any updates we make to it.
-
-## Effective Date
-
-This Privacy Statement is effective as of December 1, 2005.
