@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the getbuckyballs.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515233442id_/http%3A//www.getbuckyballs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getbuckyballs.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207035513id_/https%3A//www.getbuckyballs.com/privacy) for the most accurate reproduction.*
 
 # Buckyballs | Buckycubes | The Amazing Magnetic Desktoy You Can't Put Down
+
+## You've heard about our [ongoing battle](https://web.archive.org/save-our-balls/) with the CPSC. 
+
+### Due to their baseless and relentless legal badgering,   
+**we've sadly decided to stop production of Buckyballs and Buckycubes.**
+
+We still have a few thousand sets in stock, but once we sell through those, they're gone for good.
+
+[Act](https://web.archive.org/order/buckyballs/) fast. [Tell](https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.getbuckyballs.com&t=Buckyballs+and+Cubes+discontinued%3F+Sad+but+true.+Act+fast+to+get+your+hands+on+them+before+they%27re+gone.&display=popup) your friends. [Spread](https://twitter.com/intent/tweet?text=Buckyballs+and+Cubes+discontinued%3F+Sad+but+true.+Act+fast+to+get+your+hands+on+them+before+they%27re+gone.+http%3A%2F%2Fbit.ly%2F8aiNIq) the word.
 
 **Privacy  Policy**
 
