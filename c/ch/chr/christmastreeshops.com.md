@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christmastreeshops.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501071135id_/http%3A//www.bedbathandbeyond.com/ctsprivacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christmastreeshops.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207022654id_/http%3A//www.bedbathandbeyond.com/ctsprivacypolicy.asp) for the most accurate reproduction.*
 
 # CHRISTMAS TREE SHOPS PRIVACY POLICY
 
@@ -10,7 +10,7 @@ PRIVACY POLICY** |
 | **Policy Effective Date: This policy became effective on April 18, 2006.** |   
 |  |   
 |  |   
-| At Christmas Tree Shops we are committed to protecting the privacy of our customers, which is why we do not sell or rent any personal identifiable information regarding our customers to any third party. We hope the policy below will answer all of your questions regarding how we treat information gathered from visitors to christmastreeshops.com. Feel free to e-mail us at [webmaster@christmastreeshops.com ](mailto:webmaster@christmastreeshops.com) with any questions you might have. |   
+| At Christmas Tree Shops we are committed to protecting the privacy of our customers, which is why we do not sell or rent any personal identifiable information regarding our customers to any third party. We hope the policy below will answer all of your questions regarding how we treat information gathered from visitors to christmastreeshops.com. Feel free to e-mail us at [bargains@christmastreeshops.com ](mailto:bargains@christmastreeshops.com) with any questions you might have. |   
 |  |   
 |  |   
 | **What Information We Collect** |   
@@ -38,7 +38,7 @@ With respect to emails that you may receive from us, we capture data related to 
 | **How to Opt-out** |   
 |  |   
 |  |   
-| We ask that you tell us when you do not wish to receive periodic e-mails from us. We will only send e-mail for customer service purposes and to those visitors who have indicated that they wish to receive other types of e-mail from us. If at any time you wish to stop receiving e-mail from us, you can always remove your name from our mailing list by sending an e-mail to [webmaster@christmastreeshops.com ](mailto:webmaster@christmastreeshops.com) stating that you wish to unsubscribe and indicating in the subject line of the e-mail "NO E-MAIL". |   
+| We ask that you tell us when you do not wish to receive periodic e-mails from us. We will only send e-mail for customer service purposes and to those visitors who have indicated that they wish to receive other types of e-mail from us. If at any time you wish to stop receiving e-mail from us, you can always remove your name from our mailing list by sending an e-mail to [bargains@christmastreeshops.com ](mailto:bargains@christmastreeshops.com) stating that you wish to unsubscribe and indicating in the subject line of the e-mail "NO E-MAIL". |   
 |  |   
 |  |   
 | **Security of the Information You Provide** |   
@@ -60,7 +60,7 @@ If you prefer not to disclose your credit card information online, you can alway
 | **Intended Users- Use By Children** |   
 |  |   
 |  |   
-| Our gift cards and any other products we may have available for sale on the Christmas Tree Shops website are intended to be purchased by adults. We do not knowingly collect personal information from children under 13 years of age. Christmas Tree Shops will promptly delete information provided by a child. Simply contact us at [webmaster@christmastreeshops.com ](mailto:webmaster@christmastreeshops.com). |   
+| Our gift cards and any other products we may have available for sale on the Christmas Tree Shops website are intended to be purchased by adults. We do not knowingly collect personal information from children under 13 years of age. Christmas Tree Shops will promptly delete information provided by a child. Simply contact us at [bargains@christmastreeshops.com ](mailto:bargains@christmastreeshops.com). |   
 |  |   
 |  |   
 | **Your Acceptance of these Terms** |   
