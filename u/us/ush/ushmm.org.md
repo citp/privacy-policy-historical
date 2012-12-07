@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ushmm.org privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630181618id_/http%3A//www.ushmm.org/priv_acc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ushmm.org privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207171134id_/http%3A//www.ushmm.org/priv_acc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
