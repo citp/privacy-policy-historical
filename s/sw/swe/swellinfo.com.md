@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swellinfo.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609002111id_/http%3A//www.swellinfo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swellinfo.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207150236id_/http%3A//www.swellinfo.com/privacy.html) for the most accurate reproduction.*
 
 # Swellinfo Privacy Policy
 
