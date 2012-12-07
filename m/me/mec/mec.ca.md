@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the mec.ca privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602011157id_/http%3A//www.mec.ca/AST/ContentPrimary/Utilities/Help/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mec.ca privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207044251id_/http%3A//www.mec.ca/AST/ContentPrimary/Utilities/Help/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Mountain Equipment Co-op
 
-This statement discloses the privacy practices and policies for Mountain Equipment Co-operative's website. If you have any questions about these practices and policies, please email us at **privacy@mec.ca**.
+This statement discloses the privacy practices and policies for Mountain Equipment Co-operative's (MEC's) website. If you have any questions about these practices and policies, please email us at **privacy@mec.ca**.
 
-Mountain Equipment Co-operative respects your personal privacy. We believe ensuring the security of your personal information is an important part of our job, and we strive to protect any personal information you may provide us. If we ask you to provide any personal information, we will tell you the purposes for which we intend to use that information. Your personal information is not lent or sold to anyone for any purpose.
+MEC respects your personal privacy. We believe ensuring the security of your personal information is an important part of our job. If we ask you to provide any personal information, we will tell you the purposes for which we intend to use that information. Your personal information is not lent or sold to anyone for any purpose.
 
 ## Additional Information
 
-For additional information on privacy, security, and use of information at MEC please view the following information:
+To learn more about MEC's policies, please view the following pages:
 
 [Read the Website Terms of Use](https://web.archive.org/AST/ContentPrimary/Utilities/Help/PrivacyPolicy/TermOfUse.jsp)
-
-[Download the MEC Privacy Fact Sheet PDF](http://images.mec.ca/media/Images/pdf/privacy_factsheet_en_v1_m56577569830538410.pdf) (100KB)
 
 [Download the MEC Privacy Code PDF](http://images.mec.ca/media/Images/pdf/MEC_privacy_code_v1_m56577569830533314.pdf) (31KB)
 
