@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the letsgetsocial.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611083742id_/http%3A//infomasteryproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsgetsocial.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207100356id_/http%3A//letsgetsocial.com/video/privacy-policy) for the most accurate reproduction.*
 
-# Infomastery Products: Privacy Policy
-
-**Privacy Notice Table Of Contents:**
+# Let's Get Social - Privacy Policy | Let's Get Social
 
   * Our Commitment To Privacy
   * The Information We Collect
@@ -29,12 +27,14 @@ Phone number
 Credit/Debit Card Information  
 (etc.)
 
+
 On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient’s address. In this circumstance, the types of personal information collected are:
 
 Name  
 Address  
 Phone Number  
 (etc.)
+
 
 **The Way We Use Information:**
 
@@ -46,13 +46,9 @@ We use return email addresses to answer the email we receive. Such addresses are
 
 You can register with our website if you would like to receive our catalog as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
 
-For those who choose to opt in to our marketing email messages we do send promotional emails to keep them up to date on the latest offerings of Infomastery, LLC.
-
-On a very limited basis Infomastery, LLC does cross reference email lists for solicitations and on occasion will rent its’ email lists to other companies offering products or services that we deem a valid interest of the people on our lists
-
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses..
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
 **Our Commitment To Data Security**
 
@@ -64,7 +60,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How You Can Access Or Correct Your Information**
 
-You can access all your personally identifiable information that we collect online and maintain by contacting customer support at: [support@drivingtraffic.com](mailto:support@drivingtraffic.com)
+You can access all your personally identifiable information that we collect online and maintain by contacting customer support at: support@drivingtraffic.com
 
 We use this procedure to better safeguard your information.
 
@@ -74,4 +70,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please call us at 512-600-4363 begin_of_the_skype_highlighting 512-600-4363 end_of_the_skype_highlighting or send us an email at: support@drivingtraffic.com
+Should you have other questions or concerns about these privacy policies, please call us at 512 892-3022 or send us an email at: support@drivingtraffic.com
