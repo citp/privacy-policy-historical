@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the lightroompresets.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523184526id_/http%3A//www.lightroompresets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightroompresets.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207081344id_/http%3A//www.lightroompresets.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Lightroom Presets: Pretty Presets
+# Privacy Policy | Pretty Presets for Lightroom
 
-**What information do we collect?** We collect information from you when you register on our site, place an order, subscribe to our newsletter, fill out a form or patchlaura@hotmail.com.
+**What information do we collect?  **We collect information from you when you register on our site, place an order, subscribe to our newsletter, fill out a form or patchlaura@hotmail.com. 
+
+**Disclosure**
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information or patchlaura@hotmail.com.
 
@@ -12,7 +14,7 @@ Any of the information we collect from you may be used in one of the following w
 
 To process transactions
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
 **How do we protect your information?**
 
@@ -42,7 +44,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.prettypresets.com](https://web.archive.org/web/20120523184526id_/http://www.prettypresets.com)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.prettypresets.com](https://web.archive.org/web/20121207081344id_/http%3A//www.prettypresets.com)
 
 **Your Consent**
 
@@ -62,4 +64,4 @@ USA
 
 This website is run by Laura Thomas. This website may accept forms of advertising and affiliate payout.
 
- **Return Policy** – Because these products are all instant downloads, there are no returns accepted.
+**Return Policy** – Because these products are all instant downloads, there are no returns accepted.
