@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techpp.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608102228id_/http%3A//techpp.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techpp.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207075845id_/http%3A//techpp.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Technically Personal!
+# Privacy Policy - Technology Personalized
 
 This Privacy Policy governs the manner in which Technically Personal collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://techpp.com](http://techpp.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Technically Personal.
 
