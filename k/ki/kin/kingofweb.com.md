@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingofweb.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606224754id_/http%3A//kingofweb.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingofweb.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207233325id_/http%3A//kingofweb.com/pages/privacy) for the most accurate reproduction.*
 
 # King of the Web - Privacy
 
@@ -42,8 +42,7 @@ Our Sites are generally designed to encourage open communication and facilitate 
   * if you donate your winnings, we will share your personal information with the 501(c)(3) charity you designate as the recipient, unless you indicate your desire to make an anonymous donation;
   * with third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us;
   * if you win a prize, we may share your name and email address with third party sponsors for purposes of prize fulfillment;
-  * if we believe that disclosure is reasonably necessary to comply with applicable law, regulation, legal process or governmental request; to enforce our agreements, policies and terms of use; to
-protect the security and integrity of our Sites; and to protect King of the Web, our users or any other person from harm or illegal activities; and 
+  * if we believe that disclosure is reasonably necessary to comply with applicable law, regulation, legal process or governmental request; to enforce our agreements, policies and terms of use; to protect the security and integrity of our Sites; and to protect King of the Web, our users or any other person from harm or illegal activities; and
   * in connection with any, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company.
 
 
