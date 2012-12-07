@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ravepad.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620081759id_/http%3A//ravepad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ravepad.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207230326id_/http%3A//ravepad.com/privacy) for the most accurate reproduction.*
 
 # Ravepad - the place to rave about anything and everything! - Fan clubs and pages with photos, polls, quizzes, wallpapers, and more
-
-## Privacy Policy
 
 _This statement was last updated April 19, 2012._
 
