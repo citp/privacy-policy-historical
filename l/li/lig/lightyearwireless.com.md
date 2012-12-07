@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightyearwireless.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609011438id_/http%3A//lightyearwireless.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightyearwireless.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207111010id_/http%3A//lightyearwireless.com/privacy.html) for the most accurate reproduction.*
 
 # My Lightyear - Privacy Policy
 
