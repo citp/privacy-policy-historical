@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shapefit.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505162509id_/http%3A//www.shapefit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shapefit.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207131905id_/http%3A//www.shapefit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ShapeFit Privacy Policy - Protecting The Privacy of Our Visitors
 
@@ -43,56 +43,5 @@ We may make changes to the Privacy Policy from time to time in our sole discreti
 **Queries**   
 If you have a question or comment about the ShapeFit site or a request to correct or delete your Personal Information, please contact us at info@shapefit.com. We will use commercially reasonable efforts to fulfill your request in a timely manner. However, please be aware that even if ShapeFit deletes such Personal Information from its ‘live’ databases, such information may still be stored on other databases (including those kept for archival purposes).
 
-| 
-
-| 
-
-[](http://www.shapefit.com/training.html)
-
-| Our database of over 500 exercise guides lets you choose the right exercises for your workouts. It's like having your own personal online fitness trainer! [**Go >>**](http://www.shapefit.com/training.html)  
----|---  
-  
-[](http://www.shapefit.com/success-stories.html)
-
-| Over 300 weight loss success stories from real people who have successfully lost weight. They share tips about their diet plans and workout routines! [**Go >>**](http://www.shapefit.com/success-stories.html)  
----|---  
-  
-[](http://www.shapefit.com/free-fitness-ebooks.html)
-
-| Are you ready to build muscle & burn fat? Download your FREE ShapeFit eBooks today and learn diet and exercise secrets to pack on muscle and get ripped! [**Go >>**](http://www.shapefit.com/free-fitness-ebooks.html)  
----|---  
-  
-[](http://www.shapefit.com/fitness-models.html)
-
-| Read interviews and see photos from fitness models and figure competitors. They reveal top diet and exercise secrets to build muscle and burn fat! [**Go >>**](http://www.shapefit.com/fitness-models.html)  
----|---  
-  
-[](http://fittracker.shapefit.com/)
-
-| FitTracker will track and analyze every aspect of your fitness program and it has amazing features to take the guesswork out of getting into shape! [**Go >>**](http://fittracker.shapefit.com/)  
----|---  
-  
-[](http://www.shapefit.com/exercise-videos.html)
-
-| Watch over 100 exercise videos and learn the best workout routines and exercises to implement into your fitness plan to build muscle, gain strength and get huge! [**Go >>**](http://www.shapefit.com/exercise-videos.html)  
----|---  
-  
-[](http://www.shapefit.com/fastfood.html)
-
-| Our fast food restaurant database will show you how many calories and fat grams are packed into your favorite fast food meals. You will be in for a surprise! ****[**Go >>**](http://www.shapefit.com/fastfood.html)  
----|---  
-  
-[](http://www.shapefit.com/calculators.html)
-
-| Our fitness calculators will show you how many calories you need to eat, help you find your target heart rate zone and learn how many calories are in your meals! [**Go >>**](http://www.shapefit.com/calculators.html)  
----|---  
-  
-[](http://www.shapefit.com/fitness-questions-answers.html)
-
-| Read different fitness questions and answers about a wide array of diet and exercise concerns from our visitors who need help building muscle and burning fat! [**Go >>**](http://www.shapefit.com/fitness-questions-answers.html)  
----|---  
-  
-[](http://www.shapefit.com/shapefit-fitness-products.html)
-
-| We offer exercise equipment that is the perfect choice for anyone who wants to get a great full body workout anywhere without spending a lot of money! [**Go >>**](http://www.shapefit.com/shapefit-fitness-products.html)  
+|   
 ---|---
