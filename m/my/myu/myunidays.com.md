@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myunidays.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524182834id_/https%3A//www.myunidays.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myunidays.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207154114id_/https%3A//www.myunidays.com/content/privacy-policy) for the most accurate reproduction.*
 
 # None
 
 MyUnidays Ltd is committed to preserving the privacy of all visitors and users of myunidays.com. Please read the following privacy policy to understand how we use and protect the information that you provide to us.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is MyUnidays Ltd of City Gate East, Nottingham, NG1 5FS.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is MyUnidays Ltd of 2 Castle Boulevard, Nottingham, NG7 1FB.
 
 By registering to any service offered by myunidays.com, you consent to the collection, use and transfer of your information under the terms of this policy.
 
@@ -12,7 +12,7 @@ By registering to any service offered by myunidays.com, you consent to the colle
 
 When you visit, register or view information about products or services on myunidays.com you may be asked to provide certain information about yourself including your name, educational status, institution name and your current e-mail address. We may also collect information about your usage of our website as well as information about you from messages you post to the website and e-mails or letters you send to us. 
 
-When you first subscribe to myunidays.com your e-mail address and myunidays.com password will be retrieved, encrypted and then stored in our secure database. This password will never be disclosed to any person and will only be used by further automated systems to provide access to myunidays.com. By agreeing to the myunidays.com Terms and Conditions and this Privacy Policy you give permission for this data to be stored in a secure environment for this purpose.
+When you first subscribe to myunidays.com your e-mail address and myunidays.com password will be retrieved, encrypted and then stored in our secure database. This password will never be disclosed to any person. By agreeing to the myunidays.com Terms and Conditions and this Privacy Policy you give permission for this data to be stored in a secure environment for this purpose.
 
 ### Use of your information
 
@@ -26,7 +26,7 @@ If you contact us, we may keep a record of that correspondence.
 
 ### Disclosure of your information 
 
-The information you provide to us will be held on our secure computers in England and Wales may be accessed by or given to our staff working outside the UK, some of whom may be located outside the European Economic Area, who act for us for the purposes set out in this policy or for other purposes approved by you. Those parties process information and provide support services on our behalf. We may also pass aggregate information on the usage of our site to third parties, but this will not include information that can be used to identify you.
+The information you provide to us will be held on our secure computers in the UK and Ireland may be accessed by or given to our staff working outside the UK, some of whom may be located outside the European Economic Area, who act for us for the purposes set out in this policy or for other purposes approved by you. Those parties process information and provide support services on our behalf. We may also pass aggregate information on the usage of our site to third parties, but this will not include information that can be used to identify you.
 
 Finally, if our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.
 
