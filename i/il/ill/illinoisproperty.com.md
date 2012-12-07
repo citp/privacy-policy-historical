@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the illinoisproperty.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619051154id_/http%3A//content.illinoisproperty.com/media/downloads/remaxil/privacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illinoisproperty.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207072230id_/http%3A//content.illinoisproperty.com/media/downloads/remaxil/privacypolicy.pdf) for the most accurate reproduction.*
 
 # 12/28/2005
 
