@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cagreatamerica.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606143720id_/http%3A//www.cagreatamerica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cagreatamerica.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207044617id_/http%3A//www.cagreatamerica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Great America, San Francisco CA
 
