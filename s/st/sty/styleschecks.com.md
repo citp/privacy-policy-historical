@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the styleschecks.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616202508id_/http%3A//www.styleschecks.com/service/service.aspx%3FpageCode%3D54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleschecks.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207070357id_/http%3A//www.styleschecks.com/service/service.aspx%3FpageCode%3D54) for the most accurate reproduction.*
 
 # Privacy Policy for The Styles Check Company & StylesChecks.com
 
-[Customer Service](https://web.archive.org/web/20120616202508id_/http%3A//www.styleschecks.com/service/customerservice.aspx) > Privacy Policy  
+[Customer Service](https://web.archive.org/web/20121207070357id_/http%3A//www.styleschecks.com/service/customerservice.aspx) > Privacy Policy  
 
 
 **This is the Privacy Policy for The Styles Check Company.**
@@ -11,8 +11,8 @@
 
 
 **Our postal address is:**  
-P.O. Box 2200   
-Alexander, AR. 72002-2200
+P.O. Box 40001   
+Colorado Springs, CO 80935-4001
 
 We can be reached via e-mail at [customerservice@styleschecks.com](mailto:customerservice@styleschecks.com) or you can reach us by telephone at 1-800-356-0353.
 
