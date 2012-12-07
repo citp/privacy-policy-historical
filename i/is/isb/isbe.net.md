@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isbe.net privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522103207id_/http%3A//isbe.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isbe.net privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207193759id_/http%3A//isbe.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
