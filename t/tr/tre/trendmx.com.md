@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendmx.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501130858id_/http%3A//www.trendmx.com/search-engine-optimization-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendmx.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207144720id_/http%3A//www.trendmx.com/search-engine-optimization-privacy.aspx) for the most accurate reproduction.*
 
 # Trendmetrix Software Privacy Policy
 
