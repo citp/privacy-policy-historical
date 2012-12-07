@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebird.org privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514004408id_/http%3A//ebird.org/content/ebird/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebird.org privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207111121id_/http%3A//ebird.org/content/ebird/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — eBird
 
@@ -6,7 +6,7 @@ eBird is designed to gather and disseminate information about bird distribution 
 
 ### Submitted Information
 
-Personal Information is voluntarily supplied by you when you register and submit data to eBird. By registering, you allow us to associate your bird observations with a unique identifier (login name or your name), so that you can track your personal observations (e.g., life lists and backyard lists). If you submit an unusual observation, we may e-mail you to request more details, but your email address and contact information will not be sold or distributed outside the Cornell Lab Of Ornithology. Profile Information allows us to gain a better understanding of the eBird participants and to determine how best to improve the web site for eBird users.
+Personal Information is voluntarily supplied by you when you register and submit data to eBird. By registering, you allow us to associate your bird observations with a unique identifier (login name or your name), so that you can track your personal observations (e.g., life lists and backyard lists). If you submit an unusual observation, we may e-mail you to request more details, but your email address and contact information will not be sold or distributed outside the Cornell Lab of Ornithology, Audubon and eBird partners in regions where you are participating. Profile Information allows us to gain a better understanding of the eBird participants and to determine how best to improve the web site for eBird users.
 
 Bird observations are the most important pieces of information that we collect. All details of an observation and its associated location (species, numbers, etc.) are available to all users registered with eBird. However, only information pertaining to bird observations is available to eBird users; no personal contact information is ever made public.
 
