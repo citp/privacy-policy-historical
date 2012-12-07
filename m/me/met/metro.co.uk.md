@@ -1,219 +1,217 @@
-> *The following text is extracted and transformed from the metro.co.uk privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617192627id_/http%3A//www.metro.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metro.co.uk privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207072400id_/http%3A//metro.co.uk/privacypolicy) for the most accurate reproduction.*
 
-# Privacy policy & cookies | Metro.co.uk
+# Privacy & Cookies Policy | Metro UK
 
-Please note, this privacy policy applies to this website or our mobile applications (for example our iPhone, android and iPad apps) (a “Site”). If you do not accept this privacy policy and cookies notice, do not use this Site.
+(as at 24 October 2012)
 
-Associated Newspapers Ltd is part of The Daily Mail and General Trust plc group (‘DMGT’).  Members of the DMGT group may,use and share, within that group, the information you provide and other information  held about you for the purposes set out below.   For more information about the DMGT group please [see the DMGT website.](http://www.dmgt.co.uk/footer/dmgt)
+## PRIVACY
 
-When you create or log in to an online account you agree to our privacy policy and cookie notice.  Information collected from your  use of this website or our mobile applications (for example, iPhone, android and iPad apps) will be processed in accordance with  this notice. Please see our cookies notice.   
+This Privacy & Cookies Policy sets out how Metro ( **“we”/”our”/”us”** ) will handle any information (including personal information) that we collect from you on the Site, or that you provide to us. The “Site” means this website and our mobile applications, e.g. our iPhone, Android and iPad apps.
 
+If you do not accept this Privacy & Cookies Policy, do not use the Site.
 
-  
-** Information we may hold about you **
+Metro is owned by Associated Newspapers Ltd, which is part of the DMGT plc group of companies ( **[DMGT group](http://www.dmgt.co.uk/footer/dmgt)** ). For more information about the DMGT group, please see the [DMGT website](http://www.dmgt.co.uk/).
 
-  * Information you’ve provided to us, including our websites
+When you register on the Site you agree to the additional terms for registered users in addition to the other terms of this Privacy & Cookies Policy.
+
+All the information collected from your use of the Site will be processed in accordance with this policy, including (where applicable) the additional terms for registered users.
+
+## Information we may hold about you
+
+  * Information you’ve provided to us, both online and offline
   * Information about products and services you’ve ordered or enquired about
   * Information provided by other companies who have obtained your permission to share information about you
-  * Information about your interaction with adverts and services such as registration, comments
-  * Information we collect using cookies stored on your device (for example, this may be a PC, phone or tablet) about your use of Metro and/or selected third party websites.  For more information on cookies and how to manage them, please see our cookies notice below.   
-
-  * Your IP address, this is a number that identifies a specific network device on the internet and is required for your device and is required for your device to communicate with websites
+  * Information about your interaction with adverts and services, such as registration, comments, etc.
+  * Information we collect using cookies stored on your device (e.g. your PC, laptop, phone or tablet) about your use of the Site and/or selected third party websites. For more information on cookies and how to manage them, please see the Cookies section below
+  * Your IP address. This is a number that identifies a specific network device on the internet and is required for your device to communicate with websites
   * Technical information from your device relating to the service you receive
 
 
 
-Please do not submit your personal information to us if you do not wish us to collect it.
+Please do not submit your personal information to us if you do not wish us to collect it and process it in accordance with this policy.
 
-  
-** Message boards, blogs and other public forums **
+## How we may use your information
 
-Please note, the Site makes message boards, blogs and other such user generated content facilities available to users of the Site and registered users can provide content for and participate in these facilities. Any information that is disclosed in these areas of our Site becomes public information and you should always be careful when deciding to disclose your personal information. For more information, please click on the Site's [ terms and conditions. ](https://web.archive.org/web/20120617192627id_/http://www.metro.co.uk/home/home/801584-metros-terms)   
-
-
-  
-** Email a friend and share this article facilities **
-
-Please note, when you use these facilities and provide us with personal data (e.g. the name and email address) of a third party, please ensure that you have their consent before giving us their details.
-
-**   
-How we may use your information **
-
-By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which shall include (without limitation):
+By using the Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which shall include (without limitation):
 
   * Verifying your identity (for example when you return to the Site)
-  * Personalising your visits to the Site and developing the design and style of the Site to improve the services provided to you
+  * Developing the design and style of the Site to improve the services provided to you
   * Informing you about the latest changes to the Site, or products, services or promotional offers that you might find interesting
-  * Dealing with, and responding to you about, a comment you have submitted for or on our message boards, blogs and other such user generated content facilities
-  * Enabling you to share our content with others e.g. using our Email a friend and Share this article facilities
+  * Dealing with, and responding to you about, a comment you have submitted for or on our message boards, blogs and other such user-generated content facilities
+  * Enabling you to share our content with others e.g. using our “Email a friend” and “Share this article” facilities
   * Informing you if you have been successful in any Site competitions or promotions
   * Compiling customer reviews
   * Conducting market research
-  * Carrying out statistical, technical and logistical analysis
-  * According to your preferences, communicating (and personalising such communication) with you:
-  * To send you periodic newsletters about your chosen services
-  * To send you direct marketing.  This may include communications by post, telephone or email or SMS about us and our business partners’ products and services, events and special offers, including where applicable, for a reasonable time after you have ceased to be a reader of ours
-  * To provide you with personalised services, such as providing with you with viewing recommendations and tailored advertising.  This includes where we have agreement to store information about you on the devices you use, for example to make some of the adverts you see more relevant to you
-  * To provide you with advertising more relevant to your interests and your online behaviour through the use of cookies when you visit our website(s)
+  * Carrying out statistical, technical and logistical analysis of services
+  * Providing you with viewing recommendations and tailored advertising both on the Site and other DMGT group websites. See also the Cookies and Personalising Your Experience sections below.
 
 
 
-We may share your personal information with other companies within the DMGT group of companies
+Subject to your registration (or other consents that you have given us) we will use your information to send you news, offers and information and for communicating (and personalising such communication) with you, including:
+
+  * to send you periodic newsletters which may include information we consider of interest to you
+  * for direct marketing to you from us and DMGT group, by sending you news, offers and information about our and DMGT group’s business partners’ products and services, events and special offers, including where applicable, for a reasonable time after you have ceased to be a reader of ours. This may include communications by post, telephone or email or SMS.
+
+
 
 Subject to obtaining your consent, we may also supply personal information about you to third parties
 
 We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
 
-** Updating your preferences **
+## “Email a friend” and “share this article” facilities
 
-  * ** Marketing **
+Please note, when you use these facilities and provide us with personal data (e.g. the name and email address) of a third party, please ensure that you have their consent before giving us their details.
+
+## REGISTERED USERS:
+
+## Message boards, blogs and other public forums
+
+We make message boards, blogs and other user-generated content facilities available on the Site. Registered users can provide content for and participate in these facilities. Any information that is disclosed in these areas of the Site becomes public information and you should always be careful when deciding to disclose your personal information. For more information and house rules about submitting content, please see our [Terms and Conditions](https://web.archive.org/terms).
+
+## Personalising Your Experience
+
+If you’re a registered user, we give you the chance to get advertising and offers that match your interests through our Personalising Your Experience programme.
+
+We do this by combining the data we collect from you via the registration process (and any other of your information that we or any other [DMGT group](http://www.dmgt.co.uk/footer/dmgt) company hold) with the data that we collect from you via cookies (e.g. via your browsing activities).
+
+This enables us to tailor and enhance your browsing experience, including by serving you with adverts on DMGT group sites that we believe match your interests, as well as enabling us (or other [DMGT group](http://www.dmgt.co.uk/footer/dmgt) companies) to send you offers and information about products and services that might be of particular interest to you. For example:
+
+  * if you regularly read a film review section, we may email you an offer for cinema tickets
+  * if you’re a regular browser of our fashion pages, we can match this to the advertising that you see on the Site, so you’ll more likely to see ads for products and brands that you really connect with.
 
 
 
-You can opt out by clicking on the ‘unsubscribe’ link in the direct marketing/newsletter emails from us.  You can opt out of marketing text messages replying ‘STOP’. ‘Or you can use the contacting us’ details at the end of this privacy notice.
+By joining our Personalising Your Experience programme, you agree that we may use your personal information in this way.
 
-  * ** Online behavioural advertising (OBA) **
+If you don’t join our Personalising Your Experience programme, all cookie data we collect from you via cookies (e.g. via your browsing activities) is kept anonymous and the cookies do not collect, and are not matched with, information that identifies you.
+
+You may opt-out of the Personalising Your Experience programme at any time via your Profile Page. If you choose this option then any future cookie data that we collect will not be combined with any of your other information that we or any other [DMGT group](http://www.dmgt.co.uk/footer/dmgt) company hold.
+
+## Updating your preferences
+
+  * **Profile Page**
 
 
 
-If you do not want to receive online advertising where this advertising is relevant to your interests, or don’t want  information processed through the use of cookies, please see the section below on cookies.
+You can update your personal details and your interest preferences on your [Profile Page](https://services.metro.co.uk/metro-janrain/janrain/profileForm).
 
-** Interest based advertising **
+  * **Marketing**
 
-** Cookies used by  the A&N Media Advertising Network & Associated Newspapers. **
 
-In order to fund our websites we run advertising on them – much of this advertising is run by the A&N Media Advertising Network. To make its advertising more relevant and effective, the network uses a range of technologies provided by third parties; many of which use cookies.
 
-Cookies are files that store small amounts of information on your computer or other device (for example, your mobile phone). None of the cookies that we use contain information such as your real name or address, so you cannot be identified personally by them. Some of the cookies used by our websites are set by us, and some are set by third parties who are delivering services on our behalf.
+You can opt out of direct marketing (e.g. email marketing) from Metro, or any other DMGT group company who contacts you, by clicking on the ‘unsubscribe’ link in the relevant direct marketing/newsletter emails. You can opt out of marketing text messages replying ‘STOP’. Either will stop the direct marketing from Metro or the relevant DMGT group company, as applicable. Or you can use the ‘contacting us’ details below.
 
-** Advertising services **
+  * **Interest based advertising**
 
-We gather anonymous information such as on the types of pages visited, and keywords searched on in order to build an overall, but anonymous, picture of interests or preferences based on individual users browsing habits so that we can offer a more personal experience. To this information, we include information relating to a user’s country, region and connection type gathered from elements of the IP of the browsing device. This practice is a core method used by our group to make our online advertising more efficient for our advertisers and more relevant to consumers.
 
-With permission from our advertisers, we also collect information about their sites, for use on their advertising campaigns. This is often called Retargeting, or Remarketing, and involves showing ads to groups of users that have, for example, visited that client’s homepage.
 
-We will also gather information, still anonymously, on the users that reach an action page on an advertiser’s site. This allows us to monitor how many sales or actions we achieve for a client, and therefore how effective our advertising is.
+If you do not want to receive online advertising where this advertising is relevant to your interests (sometimes called online behavioural advertising or OBA), or don’t want information processed through the use of cookies, please see the Cookies section below.
 
-In order to know how many advertisements we serve, how many times these are clicked, how many advertisements we show to a given user and how many customer actions these generate, we use cookies when we show advertisements on a page.
+  * ** Cancelling your registration**
+
+
+
+If you wish to de-register please send your request to [webmaster@ukmetro.co.uk](mailto:webmaster@ukmetro.co.uk).
+
+## CONTACTING US AND ACCESSING YOUR PERSONAL INFORMATION
+
+Any queries or comments about this privacy notice or if you wish to review or receive copies of the personal information we hold about you should be sent to [webmaster@ukmetro.co.uk](mailto:webmaster@ukmetro.co.uk) or write to us at:
+
+Commercial Legal Department. Associated Newspapers Limited, Northcliffe House, 2 Derry Street, London, W8 5TT, United Kingdom
+
+We may charge a small administration fee (not exceeding the maximum permitted by law) in relation to fulfilling a request for access to personal information.  
+
+
+## Cookies
+
+In order to fund our websites we run advertising on them. To make our advertising more relevant and effective, we use a range of technologies provided by third parties; many of which use ‘cookies’.
+
+When you use the Site, we may collect information by using cookies. If you do not agree to our use of cookies on your device in accordance with this Privacy & Cookies Policy, do not use the Site unless you have disabled them.
+
+If you’d like to learn how to manage these cookies and opt in and out of different types, please see our [Privacy & Cookies Policy FAQ](https://web.archive.org/privacypolicyfaq).
+
+### What are cookies?
+
+Cookies are small bits of text that are downloaded to your computer or other device (for example, your mobile phone) when you visit a website. Your browser sends these cookies back to the website every time you visit the site again, so it can recognise your device next time you visit and tailor what you see on the screen.
+
+### How do cookies work?
+
+Cookies gather information such as the types of pages visited, and keywords searched in order to build an overall picture of interests or preferences based on browsing habits. Unless you have opted into our Personalise Your Experience programme, this information is anonymous and is not linked to any information that can be used to identify you (see the Personalising Your Experience section, above). We use information gathered by cookies to personalise your Metro experience and to serve you with adverts that we feel will be relevant to your interests. We also collect information relating to a user’s country, region and connection type gathered from elements of the IP of the browsing device. We do this to make our online advertising more efficient for our advertisers and promotions more relevant to you.
+
+With permission from our advertisers, we also collect information about their sites, for use on their advertising campaigns. This is often called retargeting, or remarketing, and involves showing ads to groups of users that have, for example, visited that client’s homepage.
+
+We also gather information on the users that reach an action page on an advertiser’s site. This allows us to monitor how many sales or actions we achieve for a client, and therefore how effective our advertising is.
+
+Using cookies also allows us to gain useful information to improve our services, for example to know how many advertisements we serve, how many times these are clicked, how many advertisements are shown to a given user and how many customer actions these generate.
 
 As well as our licensed ad servers, ads are also often served from third-party ad servers, such as those of media agencies, which all use cookies to track the same metrics as ours do.
 
-For more information about interest based advertising and how to turn this feature off, please see our cookies notice below.   
-  
+We may share anonymous cookie data with third parties outside the DMGT group (for example, where data is grouped to show market trends) but we will not share your personally identifiable information to such third parties without your permission.
 
-
-** Ad verification technology **
-
-In order to protect our advertisers’ brands, we often use a technology that scans the page to ascertain that it is safe from profane, sensitive & potentially brand-negative topics, before serving an ad there. This process is called Ad Verification, and these technologies use cookies to count ads served, those blocked, clicked and engaged by a user (i.e. they have hovered over them with their cursor).
-
-For a list of cookies served to specific A&N Media websites and Metro, please see our cookies notice below.   For more information about other cookies, please see our [ privacy policy and cookies FAQs. ](https://web.archive.org/privacypolicyfaq) [](https://web.archive.org/privacypolicyfaq)
-
-** Safeguards and Security **
-
-No data transmission over the internet can be entirely secure, so we do not guarantee the security of your personal information and/or use of the Site. However, we use reasonable endeavours to protect the security of your personal information from unauthorised access or use by using encryption technology. In addition to these safeguards, your personal information is protected in the UK by the Data Protection Act 1998. This provides that the information which we hold about you should be processed fairly and lawfully, should be accurate, relevant and not excessive, not be retained for longer than is necessary and, if applicable, be kept up to date. For more information on the Data Protection Act 1998 and your related rights please see [ www.ico.gov.uk ](http://www.ico.gov.uk/) .
-
-  
-
-
-You should be aware that when you use our websites, mobile sites, or mobile apps, we may collect information by using 'cookies'.
-
-If you'd like to learn how to manage these cookies and 'opt in' and 'out' of different types, please see our [ privacy policy and cookie FAQ ](https://web.archive.org/privacypolicyfaq) .
-
-** What are cookies and how do they work? **
-
-Cookies are small bits of text that are downloaded to your computer or mobile device when you visit a website. Your browser sends these cookies back to the website every time you visit the site again, so it can recognise you and can then tailor what you see on the screen.
-
-  ** What do you use cookies for? **
+### What cookies do we use?
 
 Cookies are an important part of the internet. They make using websites much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into four main groups:
 
-**(i) Cookies that are needed to provide the service you have asked for**   
+### (i) Cookies that are needed to provide the service you have asked for (Essential Cookies)
 
+Some cookies are essential so you can move around the website and use its features. Without these cookies, services you’ve asked for can’t be provided. These cookies don’t gather information about you that could be used for marketing or remembering where you’ve been on the internet.
 
-Some cookies are essential so you can move around the website and use its features. Without these cookies, services you've asked for can't be provided. These cookies don't gather information about you that could be used for marketing or remembering where you've been on the internet.
+Here are some examples of how essential cookies are used:
 
-  
-Here are some examples of essential cookies:
-
-  * Keeping you logged in during your visit; without cookies you might have to log in on every page you go to.
-  * When you add something to the online shopping basket, cookies make sure it's still there when you get to the checkout.
-  * Some are session cookies which make it possible to navigate through the website smoothly. However these are automatically deleted after you close your web browser.
+  * Keeping you logged in during your visit. Without cookies you might have to log in on every page you visit.
+  * When you add something to the online shopping basket, cookies make sure it’s still there when you get to the checkout.
+  * Some are session cookies which make it possible to navigate through the website smoothly.
 
 
 
-  
-**(ii) Improving your browsing experience**
+### (ii) Improving your browsing experience (Performance Cookies)
 
 These cookies allow the website to remember choices you make, such as your language or region and they provide improved features.
 
-  
 Here are a few examples of just some of the ways that cookies are used to improve your experience on our websites:
 
   * Remembering your preferences and settings, including marketing preferences.
-  * Remembering if you've filled in a survey, so you're not asked to do it again.
-  * Remembering if you've been to the site before. If you are a first-time user, you might see different content to a regular user.
-  * Restricting the number of times you're shown a particular advertisment. This is sometimes called 'frequency capping'.
-  * Showing you information that's relevant to products of ours that you have.
+  * Remembering if you’ve filled in a survey, so you’re not asked to do it again.
+  * Remembering if you’ve been to the site before. If you are a first-time user, you might see different content to a regular user.
+  * Restricting the number of times you’re shown a particular advertisement. This is sometimes called ‘frequency capping’.
+  * Showing you information that’s relevant to products of ours that you have.
   * Enabling social media components, like Facebook or Twitter.
-  * Showing 'related article' links that are relevant to the page you're looking at.
-  * Remembering a location you've entered such as weather forecasts.
+  * Showing ‘related article’ links that are relevant to the page you’re looking at.
+  * Remembering a location you’ve entered such as weather forecasts.
 
 
 
-  
-** (iii) Analytics **
+### (iii) Analytics (Functionality Cookies)
 
-We like to keep track of what pages and links are popular and which ones don't get used so much to help us keep our sites relevant and up to date. It's also very useful to be able to identify trends of how people navigate (find their way through) our sites and if they get 'error messages' from web pages.
+We like to keep track of what pages and links are popular and which ones don’t get used so much to help us keep our sites relevant and up to date. It’s also very useful to be able to identify trends of how people navigate (find their way through) our sites and if they get ‘error messages’ from web pages.
 
-This group of cookies, often called 'analytics cookies' are used to gather this information. These cookies don't collect information that identifies you. The information collected is anonymous and is grouped with the information from everyone else’s cookies. We can then see the overall patterns of usage rather than any one person’s activity. Analytics cookies only record activity on the site you are on and they are only used to improve how a website works.
+This group of cookies, often called ‘analytics cookies’ are used to gather this information. We can then see the overall patterns of usage of the website rather than any one person’s activity. Analytics cookies only record activity on the site you are on and they are only used to improve how a website works. Unless you opt in to our Personalising Your Experience programme, this information is anonymous and is not linked to any information that can be used to identify you (see the Personalising Your Experience section, above).
 
-Some of our websites and some of the emails you might get from us also contain small invisible images known as 'web beacons' or 'tracking pixels'. These are used to count the number of times the page or email has been viewed and allows us to measure the effectiveness of its marketing and emails. These web beacons are anonymous and don't contain or collect any information that identifies you.
+Some of our websites and some of the emails you might get from us also contain small invisible images known as ‘web beacons’ or ‘tracking pixels’. These are used to count the number of times the page or email has been viewed and allows us to measure the effectiveness of its marketing and emails.
 
-We also use 'affiliate' cookies. Some of our web pages will contain promotional links to other companies’ sites. If you follow one of these links and then register with or buy something from that other site, a cookie is sometimes used to tell that other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral. This works using a cookie. Learn how to manage your  [ analytics cookies ](https://web.archive.org/privacypolicyfaq) .
+We also use ‘affiliate’ cookies. Some of our web pages will contain promotional links to other companies’ sites. If you follow one of these links and then register with or buy something from that other site, a cookie is sometimes used to tell that other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral. This works using a cookie. Learn how to manage your [analytics cookies](https://web.archive.org/cookiesopout).
 
-  
-** (iv) Showing advertising that is relevant to your interests **
+### (iv) Showing advertising that is relevant to your interests (Targeting Cookies)
 
-We sell space on some of our sites to advertisers. The resulting adverts often contain cookies. The advertiser uses the browsing information collected from these cookies to:
+We sell space on some of our sites to advertisers. The resulting adverts often contain cookies. The advertiser may use the browsing information collected from these cookies to:
 
-  1. restrict the number of times you see the same ad (frequency capping);   
-
-  2. and help show other ads that are relevant to you while you're on our websites. This is often called online behavioural advertising (OBA). OBA is a way of using information about your web-browsing activity, collected by using cookies, to group you with other users into interest groups and show you advertisements based on those interests. The OBA data collected from cookies you get when you're on our sites is only used to show relevant ads on our sites, not on other websites.
+  1. restrict the number of times you see the same ad (frequency capping); and
+  2. help show other ads that are relevant to you while you’re on our websites. This is often called interest based advertising or online behavioural advertising (OBA). Interest based advertising is a way of using information about your web-browsing activity, collected by using cookies, to group you with other users into interest groups and show you advertisements based on those interests. The data collected from cookies you get when you’re on our sites is only used to show relevant ads on our sites, not on other websites.
 
 
 
-Sometimes our websites contain ads for our own Metro products. These ads use cookies in the same way as described above.
+Sometimes our websites contain ads for our own products. These ads use cookies in the same way as described above.
 
-So how does OBA work? Let's look at an example. Imagine you visit a website about travel. That website shows an advert and with that advert you receive a cookie. Imagine you then visit one of our websites which has an advert from the same advertiser you saw on the travel site. The advertiser will give you a new version of the cookie you received on the travel site. The advertiser can then use that cookie to recognise that you've previously been to a travel site and show you a relevant ad.
+So how does interest based advertising work? Let’s look at an example. Imagine you visit a website about travel. That website shows an advert and with that advert you receive a cookie. Imagine you then visit one of our websites which has an advert from the same advertiser you saw on the travel site. The advertiser will give you a new version of the cookie you received on the travel site. The advertiser can then use that cookie to recognise that you’ve previously been to a travel site and show you a relevant ad.
 
-Although the OBA data collected uses your browsing activity to understand your interests, the data is anonymous and isn’t linked to you as a person. Even if you log in to our websites, the OBA data is still not linked to you.
+It’s easy to control interest based advertising and manage your cookies if you want to. For more information, see our [controlling interest based advertising](https://web.archive.org/cookiesoptout) and other third party cookies page or visit or our [Privacy & Cookies Policy FAQ](https://web.archive.org/privacypolicyfaq). If you are a registered user, opting out of interest based advertising via these online routes will not affect your consent to receive marketing material from us and you will need to cancel your registration in order to do this.
 
-Neither we, nor the companies who show ads on our sites sell data collected from cookies to any other organisations.   
+## Ad verification technology
 
+In order to protect our advertisers’ brands, we often use a technology that scans the page to ascertain that it is safe from profane, sensitive & potentially brand-negative topics, before serving an ad there. This process is called Ad Verification, and these technologies use cookies to count ads served, those blocked, clicked and engaged by a user (i.e. they have hovered over them with their cursor).
 
-It’s easy to control interest based advertising and manage your cookies if you want to.  For more information, see our ‘ [ controlling interest based advertising and other third party cookies ](https://web.archive.org/privacypolicyoptout) ’ page or visit or our  [ privacy policy and cookie FAQs ](https://web.archive.org/privacypolicyfaq) .
+For more information about cookies, please see our [Privacy & Cookies Policy FAQ](https://web.archive.org/privacypolicyfaq).
 
-** Contacting us and accessing your personal information **
+## Safeguards and Security
 
-Any queries or comments about this privacy notice or if you wish to review or receive copies of the personal information we hold about you should be sent to webmaster@ukmetro.co.uk or write to us at: 
-
-Legal Department.
-
-Associated Newspapers Limited
-
-Northcliffe House
-
-2 Derry Street
-
-London
-
-W8 5TT
-
-United Kingdom
-
-  
-We may charge a small administration fee (not exceeding the maximum permitted by law) in relation to fulfilling a request for access to personal information.   
-
-
-  
-
+No data transmission over the internet can be entirely secure, so we do not guarantee the security of your personal information and/or use of the Site. However, we use reasonable endeavours to protect the security of your personal information from unauthorised access or use by using encryption technology. In addition to these safeguards, your personal information is protected in the UK by the Data Protection Act 1998. This provides that the information which we hold about you should be processed fairly and lawfully, should be accurate, relevant and not excessive, not be retained for longer than is necessary and, if applicable, be kept up to date. For more information on the Data Protection Act 1998 and your related rights please see [www.ico.gov.uk](http://www.ico.gov.uk/).
