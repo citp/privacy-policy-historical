@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the dcccd.edu privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624032426id_/http%3A//www.dcccd.edu/Pages/Privacy%2520and%2520Security%2520Commitment.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcccd.edu privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207070331id_/http%3A//www.dcccd.edu/Pages/Privacy%2520and%2520Security%2520Commitment.aspx) for the most accurate reproduction.*
 
 # Privacy and Security Commitment
 
+**Privacy and Security Commitment**
+
 **Our Promise to You  
 **  
-Dallas County Community College District's (DCCCD) Privacy Commitment is based on two simple ideas. We promise to:
+Dallas County Community College District's (DCCCD) Privacy Commitment is based on two principles. We promise to:
 
   * Comply with all the applicable local, state and federal laws and regulations; and 
   * Protect your privacy while still offering relevant, personalized service.
@@ -27,7 +29,7 @@ The [Texas Public Information Act](http://www.oag.state.tx.us/open/requestors.sh
 
 [FERPA](http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html) protects educational records of a student from public disclosure without written permission of the student. Although many exceptions to the Act exist, the exceptions are very limited. The Department of Education enforces this Act. 
 
-**What FERPA requires DCCCD to release**
+**Directory Information**
 
 Unless you request that your information be withheld, to comply with FERPA, DCCCD may release information classified as "directory information" to the general public without the written consent of the student. Directory information includes:
 
@@ -37,7 +39,6 @@ Unless you request that your information be withheld, to comply with FERPA, DCCC
   * email addresses; 
   * field of study; 
   * photograph; 
-  * date and place of birth; 
   * dates of attendance; 
   * enrollment status, i.e., full-time, part-time, undergraduate, graduate; 
   * degrees, certificates and other honors and awards received; 
@@ -45,8 +46,7 @@ Unless you request that your information be withheld, to comply with FERPA, DCCC
   * participation in officially recognized activities; 
   * weight and height of members of athletic teams; 
   * student classification; 
-  * name of the most recent previous institution attended; or, 
-  * similar information. 
+  * name of the most recent previous institution attended. 
 
 
 
