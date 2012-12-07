@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successfactors.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602215416id_/http%3A//www.successfactors.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successfactors.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207124914id_/http%3A//www.successfactors.com/privacy) for the most accurate reproduction.*
 
 # SuccessFactors Privacy Policy
 
@@ -6,7 +6,7 @@ Last revision, effective as of December 7, 2011
 
 #### Introduction
 
-SuccessFactors, Inc. and its worldwide affiliates ("SuccessFactors") are committed to protecting the privacy of your personal information while using our Web site ([www.successfactors.com](http://www.successfactors.com/home/)). SuccessFactors has therefore established this Web Privacy Policy Statement to assist you to understand how SuccessFactors collects and uses personally identifiable information if and when you use our Web site or provide information to us in connection with your visit. By using our Web site, you are agreeing to the collection and use of personal information in the manner described in this Privacy Statement.
+SuccessFactors, Inc. and its worldwide affiliates ("SuccessFactors") are committed to protecting the privacy of your personal information while using our Web site ([www.successfactors.com](http://www.successfactors.com/homepage.html)). SuccessFactors has therefore established this Web Privacy Policy Statement to assist you to understand how SuccessFactors collects and uses personally identifiable information if and when you use our Web site or provide information to us in connection with your visit. By using our Web site, you are agreeing to the collection and use of personal information in the manner described in this Privacy Statement.
 
 #### Safe Harbor Certification
 
@@ -79,6 +79,10 @@ Email: [contracts@successfactors.com](mailto:contracts@successfactors.com), with
 Under federal law, if you knowingly misrepresent that online material is infringing, you may be subject to criminal prosecution for perjury and civil penalties, including monetary damages, court costs, and attorneys’ fees. 
 
 Please note that this procedure is exclusively for notifying SuccessFactors that your copyrighted material has been infringed. The preceding requirements are intended to comply with SuccessFactors' rights and obligations under the DMCA, including 17 U.S.C. §512(c), but do not constitute legal advice. It may be advisable to contact an attorney regarding your rights and obligations under the DMCA and other applicable laws. 
+
+#### Photography
+
+Any photography used on this website is prohibited for downloading, republication, retransmission, reproduction or other used as a stand alone file. 
 
 #### Contacting Us
 
