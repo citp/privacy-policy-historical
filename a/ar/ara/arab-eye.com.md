@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arab-eye.com privacy policy that was archived on 2012-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120206094213id_/http%3A//www.arab-eye.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arab-eye.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207011518id_/http%3A//www.arab-eye.com/en/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Arab Eye, The Yahoo! Maktoob Research Community
 
