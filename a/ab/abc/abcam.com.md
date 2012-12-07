@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcam.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602033414id_/http%3A//www.abcam.com/index.html%3Fpageconfig%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcam.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207072809id_/http%3A//www.abcam.com/index.html%3Fpageconfig%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy policy | Abcam
 
@@ -47,9 +47,15 @@ Abcam also uses data collected from our website logs and standard JavaScript too
 
 We do this in order to understand what users are interested in on our website and to help us improve the design of our website or product offerings. 
 
-### Cookies
+### How Abcam uses cookies
 
-Cookies are harmless pieces of text data that are stored by your browser on your computer's hard disk. The Abcam website uses cookies in order to remember that you have visited us before and set your chosen country. The cookies we set up do not contain any personal information, and are harmless in every way. 
+Cookies are very small text files saved to your computer that are used to track user navigation around a website. Cookies enable us to identify you or the device you are on when you have logged in. 
+
+We use cookies that are necessary to enable you to see certain features on our site, such as price and stock availability for your country. We also use cookies to help us improve the performance of our site providing you with a better user experience. This includes collecting standard information about visitor behaviour patterns. We do this to find out things such as the number of visitors to the site and collect this information in a way which does not personally identify anyone. 
+
+We do not sell the information collected by cookies nor do we disclose information to third parties. When we want to collect personally identifiable information (for things like email sign ups), we will be explicit about this. 
+
+Users have the ability to accept or disable cookies by modifying the settings in their browser. Disabling cookies, however may mean that some functionality may be affected. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
 
 ### Disclosure of personal information to third parties
 
