@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alc.ca privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607113523id_/http%3A//corp.alc.ca/LegalPrivacy.aspx%3Frdr%3Dtrue%26LangType%3D1033%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alc.ca privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207031721id_/http%3A//corp.alc.ca/LegalPrivacy.aspx%3Frdr%3Dtrue%26LangType%3D1033%23privacy) for the most accurate reproduction.*
 
 # Atlantic Lottery – Richer Moments / Loto Atlantique – Moments plus Riches
 
@@ -120,47 +120,52 @@ We may, at our discretion, provide links to other websites that we think may be 
 
 21\. In the event any provision of these rules and regulations, of the conditions and explanations appearing on a ticket or of such other conditions as are established by the Corporation are determined by a Court of competent jurisdiction to be void or unenforceable, such determination shall solely affect such provision and shall not, in itself, render void or unenforceable the remaining provisions thereof. 
 
-## Electronic Service Delivery - Player Protection Policy 
+## Electronic Service Delivery (Internet) \- Player Protection Policy (October 5, 2012) 
 
-******1.0 Policy Statement**
+**1.0 Policy Statement**
 
-The Atlantic Lottery Corporation (ALC) will pursue and implement reasonable protection measures for the prevention and the reduction of risky behaviour in the electronic service delivery environment.
+**   
+** The Atlantic Lottery Corporation (ALC) will pursue and implement reasonable protection measures for the prevention and the reduction of risky behaviour in the electronic service delivery environment. 
 
 **2.0 Goals of the Policy**
 
-This policy will provide ALC with the appropriate responsiveness to successfully and safely introduce electronic service delivery in its jurisdiction, while achieving the level of integrity that earns trust and respect from players as well as non-gambling audiences. ****
+** ** This policy provides ALC with the appropriate responsiveness to successfully and safely maintain electronic service delivery within its jurisdiction, while achieving the level of integrity that earns trust and respect from players as well as non-gambling audiences. 
 
-ALC will strive to create the best possible balanced environment for electronic service delivery to satisfy the broadest player base. Within best-known practices and information, ALC will: 
+ALC strives to present the best possible balanced environment for electronic service delivery (internet) to satisfy the broadest player base. Within best-known practices and information, ALC makes certain to: 
 
-  * Create an entertainment experience that focuses on harmless fun.
-  * Enable players to make informed gaming decisions. 
-  * Provide proactive features to reduce the likelihood of a player developing harmful gambling behaviours and reduce the ability for a player to abuse play.
-  * Provide players with a low-risk gaming environment.
-  * Continuously enhance the public’s belief in ALC’s integrity. 
+• Maintain an entertainment experience that focuses on harmless fun.   
+• Enable players to make informed gaming decisions.   
+• Provide proactive features to reduce the likelihood of a player developing harmful gambling behaviours and reduce the ability for a player to abuse play.   
+• Promote responsible use of ALC products. Continuously enhance the public’s trust in ALC’s integrity. 
 
+**3.0 Player Protection**
 
+**
 
-**3.0       Player Protection**
+In keeping with its mission, vision and values, ALC has implemented reasonable player protection measures and strategies aimed at reducing possible problem gambling risks. These strategies are based on best available knowledge related to problem identification and risk reduction, and employs player protection concepts consistent with the capabilities of the gaming system and play environment.
 
-In keeping with its mission, vision and values, ALC will implement reasonable player protection measures and strategies aimed at reducing possible problem gambling risks. These strategies will be based on best available knowledge related to problem identification and risk reduction, and will employ player protection concepts consistent with the capabilities of the gaming system and play environment, within the scope of the ALC eBusiness unit.
+ **4.0 Mandatory Controls**
 
-**4.0**        **Mandatory Controls**
+**
 
-ALC acknowledges its corporate role in problem gambling risk management and will establish, and from time to time review, specific wagering, deposit and behaviour controls to address or mitigate the potential for harmful player behaviour. 
+** ** ALC acknowledges its corporate role in problem gambling risk management and has established, and from time to time will review specific wagering, deposit and behaviour controls to address or mitigate the potential for harmful player behaviour. 
 
-**5.0        Confidentiality**
+**5.0 Confidentiality**
 
-All individual player activity will be strictly confidential.  ALC will rely on transparent and confidential system responses in initiating player protection features.  Limited exceptions will only be in strict accordance with the ALC’s Internet Privacy Policy. 
+** ** All individual player activity is strictly confidential. ALC relies on transparent and confidential system responses in initiating player protection features. Limited exceptions are in strict accordance with the ALC’s Internet Privacy Policy. 
 
-**6.0        Modifiability**
+**6.0 Modifiability**
 
-As changes in knowledge and prevention concepts become known, ALC will have the right to evaluate, test or implement such changes. This policy does not require an indefinite continuation of protection features or concepts, and equally does not require an adoption of new or evolving concepts. 
+** ** As changes in knowledge and prevention concepts become known, ALC has the right to evaluate, test or implement such changes. This policy does not require an indefinite continuation of protection features or concepts, and equally does not require an adoption of new or evolving concepts.   
+ 
 
-Rules and Regulations of The Atlantic Lottery Corporation (ALC)
+ 
 
-_Last Updated: August 9, 2011_
+_Last Updated: September 11, 2012_
 
-Atlantic Lottery (“AL”) is aware of the trust you place in us and we are committed to protect your privacy and the confidentiality of your personal information. You can feel confident that we take the appropriate steps necessary to ensure that your information is protected.  As a trusted protector of your personal information, AL adopts the [**10 Privacy Principles**](http://www.priv.gc.ca/leg_c/p_principle_e.cfm#contenttop "10 Privacy Principles") as set by the Canadian Standards Association’s Model Code for the Protection of Personal Information, which forms part of [**Canada’s Personal Information Protection and Electronic Documents Act**](http://laws.justice.gc.ca/eng/P-8.6/page-1.html "Canada’s Personal Information Protection and Electronic Documents Act ")and this privacy notice demonstrates how we abide by these principles;  AL informs you on what information we collect when you subscribe to our products, why we collect it, how we use it to improve your experience and how we protect your privacy. 
+ Atlantic Lottery (“AL”) is aware of the trust you place in us and we are committed to protect your privacy and the confidentiality of your personal information. You can feel confident that we take the appropriate steps necessary to ensure that your information is protected.  As a trusted protector of your personal information, AL adopts the [**10 Privacy Principles**](http://www.priv.gc.ca/leg_c/p_principle_e.cfm#contenttop "10 Privacy Principles") as set by the Canadian Standards Association’s Model Code for the Protection of Personal Information, which forms part of [**Canada’s Personal Information Protection and Electronic Documents Act**](http://laws.justice.gc.ca/eng/P-8.6/page-1.html "Canada’s Personal Information Protection and Electronic Documents Act ")and this privacy notice demonstrates how we abide by these principles;  AL informs you on what information we collect when you subscribe to our products, why we collect it, how we use it to improve your experience and how we protect your privacy. 
+
+Atlantic Lottery (“AL”) is aware of the trust you place in us and we are committed to protect your privacy and the confidentiality of your personal information. You can feel confident that we take the appropriate steps necessary to ensure that your information is protected.  As a trusted protector of your personal information, AL adopts the as set by the Canadian Standards Association’s Model Code for the Protection of Personal Information, which forms part of and this privacy notice demonstrates how we abide by these principles;  AL informs you on what information we collect when you subscribe to our products, why we collect it, how we use it to improve your experience and how we protect your privacy. 
 
 Atlantic Lottery has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [**TRUSTe's program requirements**](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "TRUSTe's program requirements ")including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software or mobile applications.   TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [**privacyofficer@alc.ca**](mailto:privacyofficer@alc.ca).  If you are not satisfied with our response you can contact [**TRUSTe here**](http://watchdog.truste.com/pvr.php?page=complaint "TRUSTe here").
 
@@ -168,7 +173,7 @@ Atlantic Lottery has been awarded TRUSTe's Privacy Seal signifying that this pri
 
 ### Collecting Information 
 
-We do not collect personal information unless you volunteer it though some of the features contained within [**www.alc.ca**](http://www.alc.ca/ "www.alc.ca"). 
+We do not collect personal information unless you volunteer it through some of the features contained within [**www.alc.ca**](http://www.alc.ca/ "www.alc.ca"). 
 
 ### Obtaining Consent
 
@@ -186,7 +191,7 @@ Your personal information is used to identify you as an “individual” in our 
 • to authenticate and distinguish you and your account from that of other users;   
 • to distribute email services to which you have subscribed;  
 • to distribute SMS messages to which you have subscribed (Standard Message Rates Apply);  
-• to contact you if you request it;   
+• to contact you if you request it or when you might be experiencing customer service and support issues;  
 • to ensure that you are a resident of either New Brunswick, Nova Scotia, Newfoundland and Labrador or Prince Edward Island;   
 • to validate your residency and physical location;   
 • to ensure that you are at least 19 years of age or older;   
@@ -232,7 +237,7 @@ _*Rules and Regulations means the rules and regulations that apply to the lotter
 
 ### Choice/Opt-out
 
-We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
+We provide you the opportunity to ‘opt-out’ of having your personal information used for certain purposes, when we ask for this information. You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
 We will send you promotional emails regarding or site services, promotions, and offers. You may follow the unsubscribe instructions in each promotional email.
 
@@ -245,7 +250,7 @@ When you submit your response to a survey question(s) or your answers to a conte
 Contest entry information is collected, retained and used as described in the contest terms and conditions.   
 We may use your response to improve products, services or our website. 
 
-**Compliance with _PIPEDA_**
+### Compliance with PIPEDA
 
 AL's collection, use, retention and disclosure of your personal information complies with all applicable legislation, including PIPEDA. Your information and the business you do with AL is kept in strict confidence. We will limit the information we collect to what we need for those purposes and we will use it only for those purposes. We will obtain your consent if we wish to use your information for any other purpose that is not outlined in this Privacy Notice. You can access, update and correct your information at any time by contacting us at [**privacyofficer@alc.ca**](mailto:privacyofficer@alc.ca)   
 
@@ -262,15 +267,19 @@ _Note: Most cookies placed on your computer will expire immediately upon exiting
 
 ### How We Protect Your Information 
 
-AL takes appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of your personal information. These include internal and external reviews of our personal information collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store your personal information. Our technology is routinely updated and tested to improve the protection of your information and to assure the integrity of our security systems. 
+AL takes appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of your personal information. These include internal and external reviews of our personal information collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store your personal information. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. Our technology is routinely updated and tested to improve the protection of your information and to assure the integrity of our security systems. 
 
 ### Links to Other Sites
 
 Our website may contain links to other websites. Please be aware that privacy policies vary from site to site. We are not responsible for the privacy practices of other websites to which our site may link. 
 
+### Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
 ### How You Can Protect Yourself 
 
-There are various forms of computer viruses existing on the Internet today that are targeting online gaming services. It is important for you to protect the privacy of your information by installing the appropriate programs on your personal computer.  ([ **Tips for Protecting Your Information**](https://web.archive.org/uploadedFiles/wwwalcca/Protecting%20Your%20Information.doc "Tips for Protecting Your Information")) 
+There are various forms of computer viruses existing on the Internet today that are targeting online gaming services. It is important for you to protect the privacy of your information by installing the appropriate programs on your personal computer.  ([ **Tips for Protecting Your Information**](https://web.archive.org/uploadedFiles/wwwalcca/Protecting%20Your%20Information.doc "Tips for Protecting Your Information"))  
 
 ### Data Retention
 
@@ -282,9 +291,9 @@ We will retain your information for as long as your account is active or as need
 
 We restrict access to your personal information to authorized AL employees, agents or representatives, who require access to this information in order to operate, develop or improve our products and services. AL sometimes retains third parties to assist us in serving you. They can perform specialized services such as data processing, verification of residency, age of majority requirements, trending analysis and customer services. These third parties are given only the information necessary to perform those services and are prohibited from using your personal information for purposes other than to carry out the service they have been contracted to provide. They are bound by contractual confidentiality obligations and may be subject to discipline if they fail to meet these obligations. AL takes appropriate steps to ensure that these third parties provide a comparable level of protection while your personal information is in their possession and these third parties will not market to you independently. 
 
-Except as described in this Privacy Notice, we do not reveal your personal information to parties outside AL unless you request or authorize it, or the disclosure is otherwise permitted or required by law. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
+Except as described in this Privacy Notice, we do not reveal your personal information to parties outside AL unless you request or authorize it, or the disclosure is otherwise permitted or required by law. We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
 
-We receive permission to post testimonials that contain personally identifiable information prior to posting on our Web sites.
+We receive permission to post testimonials that contain personal information prior to posting on our Web sites.
 
 In accordance with the Atlantic Lottery Regulations made under Section 127 of the Gaming Control Act S.N.S. 1994-95, c. 4, it is a condition for entitlement to collect any prize that winners give the ALC the right to publish their limited personal information (name, address and photograph).  The ALC will list such information on our web sites for a period of no longer than one year after the date the winners have claimed their prize.   
 We may share with third parties certain pieces of aggregated, non-personal information which does not identify your individually. 
