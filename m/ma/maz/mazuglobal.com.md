@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mazuglobal.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601092834id_/http%3A//www.mazuglobal.com/Mazu_Global_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazuglobal.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207025104id_/http%3A//www.mazuglobal.com/Mazu_Global_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # MAZU GLOBAL PRIVACY STATEMENT
 
