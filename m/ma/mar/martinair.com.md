@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the martinair.com privacy policy that was archived on 2012-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120414191956id_/http%3A//www.martinair.com/legal/privacy-statement/%3Fsg%3D%257B41D1B7B3-9C5D-4BC7-B908-186703BD6B00%257D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martinair.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207201644id_/http%3A//www.martinair.com/legal/privacy-statement) for the most accurate reproduction.*
 
 # Martinair
 
