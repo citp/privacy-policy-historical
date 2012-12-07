@@ -1,92 +1,132 @@
-> *The following text is extracted and transformed from the fan-sites.org privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524044130id_/http%3A//fan-sites.org/get-hosted/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fan-sites.org privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207064825id_/http%3A//fan-sites.org/get-hosted/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fan Sites Network
 
-**PRIVACY POLICY AND CONSUMER EDUCATION** [http://buzz-media.com/privacy-policy/](http://www.buzz-media.com/privacy-policy/)
+## Fan Sites Org, LLC Privacy Policy
 
-**PLEASE READ THIS CAREFULLY (last modified: 06/16/2009** )
+Fan Sites Org, LLC (“FSO” or “we”) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. FSO strives to respect and protect the privacy of individuals that visit our web sites. This notice constitutes our Privacy Policy. 
 
-Buzz-Media.com (the Site) provides a photo and video hosting/blogging service to you (the “Service(s)”), subject to the following Privacy Policy, which may be updated from time to time without notice to you. Your use of the Service constitutes acceptance of this Privacy Policy and creates a binding legal agreement, so read them carefully. This Privacy Policy applies only to information that you provide to us through the Site, and when you access, download, purchase or use any information, services, products or content appearing on the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You should consult this Privacy Policy regularly for any changes. Any reference to us, our, we or similar words shall refer to this Site and its affiliates thereto.
+By using our services, you expressly consent this Privacy Policy and our Terms of Use, including our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into and subject to our Terms of Use. 
 
-**THE PERSONAL INFORMATION WE COLLECT**
+No FSO services are directed to children under 13. Federal law requires that FSO may not collect any personally identifiable information from persons under 13 years of age. If you are under 13 years of age, you may not register for any FSO services or provide any of your personal information to FSO. 
 
-It is our policy to respect the privacy of the people who use the Services (each a “User,” collectively the “Users”). Therefore, we will not disclose to any unauthorized third party a User’s name or contact information. We will also not monitor, edit or disclose the contents of a User’s information unless required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process served on us; (2) protect and defend our rights or property; (3) act under exigent circumstances to protect the personal safety of Users or the public; (4) to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable; or (5) fix or debug problems with our servers/software/service.  
-When you register to become a member of the Site and in the course of using the Site, you may voluntarily submit personally identifiable information that can be used to contact or identify you and administer your account (”Personal Information”). Personal information may include, but is not limited to, your name, phone number and e-mail address. The Site may also collect Personal Information from you if you choose to opt-in to participate in sweepstakes, surveys, contests or competitions. When you register with the Site, you create your own profile and privacy settings. Your profile information, as well as your name, e-mail and photo, are displayed to people you have specified in your privacy settings. Profile information you submit to the Site, and make public via your privacy settings, will also be available to other users via searching our Site, and may be available to third party search engines. This is primarily so your friends can find you and the content you create and store on the Site. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your screen or user name to the extent that allows others to identify you.  
-As you use the Site, our servers automatically record information that the browser sends whenever it points to a Site or online service (”Log Data”). Log Data may include, but is not limited to, your computer’s Internet Protocol address, browser type, the web page you were visiting before you came to one of the Site and information you search for on a Site.
+This Privacy Policy applies to the all of the following web sites and services of FSO and its subsidiaries: 
 
-**HOW WE USE PERSONAL INFORMATION**
+www.hollywood.com  
+Hollywood.com Fan Sites  
+www.fan-sites.org  
+www.starszz.com  
+www.spill.com
 
-Personal Information is used for the following purposes: (i) to provide and improve our services, features and content; (ii) to administer your use of our services and your account; (iii) to enable users to enjoy and easily navigate the Site; (iv) to better understand your needs and interests; (v) to fulfill requests you may make; (vi) to personalize your experience; (vii) to provide service announcements; and (viii) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on related services. If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided in any of the communications. Further, you may easily adjust your privacy and e-mail settings via your account settings at any time.
+And all sub-domains and websites of the above, whether hosted or owned.
 
-**PRIVACY POLICY AND CONSUMER EDUCATION**  
-_Children’s Privacy_  
-We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact privacy@buzz-media.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.  
-We recommend that minors over the age of 13 ask a parent or guardian for permission before sending any information about themselves to anyone over the Internet.
+I. What Information We Collect and For What Purposes′
 
-_Consumer Education Related to Social Networking_  
-Creating a safe social networking environment is important to us. While we do not target or knowingly allow users under 18 to use the Service, interested persons may visit the following links created by the Federal Trade Commission to learn more about social networking safety tips:
+To most effectively offer our services, we may collect information from you in the following ways:
 
-http://onguardonline.gov/socialnetworking.html
+• Information You Provide to Register for Services. If you wish to register for the FSO newsletter or to participate in a contest or giveaway, we request you to provide your email address and zip code (or foreign postal area). If you wish to build a fan site, we request you to provide your name, country of residence, email address, a password, and a security question and answer. You may also include any additional information in a space provided. You are not required to provide this information, but then you may not receive the services.
 
-http://onguardonline.gov/socialnetworking_youth.html
+• Additional Fan Site Information You Provide. In addition to information required to register a Fan Site account, you may voluntarily provide your company name (if applicable), address, city, state/region, zip code, and phone number. Any information you publish through a Fan Site is stored on our servers. Published information is not kept private.
 
-**OTHER INFORMATION/LOGGING AND COOKIES**  
-Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use “persistent cookies” to save your username and login password for future logins to the Site. We use “session ID cookies” to enable certain features of our service, to better understand how you interact with the Site and to monitor web traffic routing on the Site and aggregate usage of the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the services.
+• Server Log Information. Our servers automatically log certain basic technical information when a user accesses the website, which may include your Internet Protocol (IP) address, your browser’s request to the FSO server, the date and time of the request, the language and type of browser you use, the referring web page, your computer’s operating system, and any FSO cookies associated with your browser.
 
-We also use the services of a third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit http://www.networkadvertising.org/optout_nonppii.asp.
+• Communications From You to Us. If you send correspondence or email to us or otherwise communicate with us, we may retain copies of the communications to assist you or for our records.
 
-**INFORMATION SHARING AND DISCLOSURE**
+• Cookies. When you browse to www.fan-sites.org, our system sends a small file called a “cookie” to your computer that identifies your browser. This allows us to recognize you for purposes of saving your preferences or providing personalized service. We use cookies to record session information, record user-specific information on what pages users access or visit, or customize Web page content based on visitors’ browser type or other information that the visitor sends. Since we use cookies to make your web site visit more user friendly, please be aware that refusing cookies may not allow you to take full advantage of some our web site features.
 
-Members. In addition to your username, any comments or submissions that you post to the Site will be publicly available. You post and share your Personal Information and content on the Site at your own risk. While we go to great lengths to create a safe and enjoyable experience on the Site, we cannot control the actions of other users with whom you may choose to share your content and/or profile information. In addition, we cannot anticipate other users’ ability to circumvent privacy settings. You understand that, even after removal of your Personal Information and content from the Site, copies of your information may remain viewable in cached or archived Web pages or on the local computers of users who may have downloaded or stored your information.  
-Even with all the appropriate precautions we take to protect your information, we recommend you refrain from sending private information or Personal Information by e-mail, chat, or other messaging services. 
+• Social Networking. We allow you to sign into social networking and other online profiles through FSO so you can interact with our services using those accounts. FSO can only recognize you through these accounts if you specifically agree to share that information by signing in.  
+The only purposes for which FSO processes personal information are those stated in this Privacy Policy, including the above, and the following purposes: 
 
-Aggregate Information and Non-Identifying Information. We may share aggregated information that includes non-identifying information and Log Data with third parties for industry analysis, demographic profiling, and to deliver targeted advertising about other products and services. 
+• To assist the technical support of our system
 
-Service Providers. We may employ third party companies and individuals to facilitate the our services, to provide the services on our behalf, to perform services related to administration of the Site (including, without limitation, maintenance, hosting and database management services, web analytics and administration). These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
+• To maintain and improve the quality of our services through auditing, research and analysis
 
-Business Transfers. We may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+• To develop new services or enhance existing service.
 
-_Invite-A-Friend_
+• To communicate with you or respond to a request.
 
-If you choose to invite your friends to use the Site, using our invitation options, we will ask for information such as an e-mail address. We will automatically send your friend(s) a one-time e-mail invitation to visit the Site. We store this information to send this one-time invitation, and to track the success of this referral feature.
+• To better understand, market to and serve our membership.
 
-**CHANGING OR DELETING YOUR INFORMATION**
+• To protect the rights of property or safety of FSO or its members.
 
-All members may review, update, correct or delete the Personal Information in their registration profile by logging into their account and changing the “user preferences” associated with their account. If you completely delete all such information, your account may be deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes.
+• To run contests or giveaways. We may run contests on our sites in which we ask visitors for contact information (such as their name and email address) and demographic information (such as their zip code or foreign postal area). The user’s contact information is used to contact the user when necessary, such as if they win a contest or to notify users of upcoming contests.  
+II. Information You Reveal to the FSO Community or Publish on a Fan Site is Public′
 
-**SECURITY**
+Any information you contribute as a “comment” to an article or feature on FSO is public. Once you post information as a “comment,” FSO cannot prevent others from reviewing it. Any information you post on a Fan Site is public. Once you post information on a Fan Site, FSO cannot prevent others from reviewing it.
 
-We are concerned with safeguarding your information. We employ a variety of industry-standard measures designed to protect your information from unauthorized access.
+III. Where Information is Processed′
 
-**INTERNATIONAL TRANSFER**
+FSO processes personal information on the secure servers of a hosting service located in the United States of America.
 
-Your information may be transferred to – and maintained on – computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, please be advised that we transfer Personal Information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+IV. Sharing of Information′
 
-**LINKS TO OTHER SITES**
+FSO will not share your personal information with third parties unless:
 
-The Site contains links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+• You give consent.
 
-**VIOLATIONS AND COMMENTS**  
-Please report any violations of this Privacy Policy or make any comments to  
-contact@buzz-media.com. You may also contact us by mail to BUZZMEDIA, 6464 W. Sunset Blvd., #650, Hollywood, California 90028.
+• The information is shared on a need-to-know basis with a person or company engaged as our agent to perform, or contribute to, our services, provided such person or company complies with this Privacy Policy and either is certified as complaint with the seven principles of the United States-European Union Privacy Safe Harbor Framework (“US-EU Safe Harbor”), or else agrees in writing to treat any personal information obtained from FSO with the same level of privacy protection as those principles require. In the case of contests or giveaways that you participate in, we may share information with a third party who runs the contest, or for shipping purposes.
 
-——————————————————-
+• We believe in good faith that use or disclosure of the information is reasonably necessary to: (1) detect or prevent fraud or security issues; (2) comply with any law, regulation, legal process or government order; (3) protect the rights of property or safety of FSO or its members; or (4) to enforce FSO’s website policies or investigate potential violations thereof.  
+V. Use of Non-Personal Information′
 
-**Privacy Policy**  
-The Fan Sites Network, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.
+FSO may share with third parties certain pieces of aggregated demographic data that will not identify you or anyone personally, such as the number of users who viewed a particular page in a given time-period, or geographic statistics about our members.′Ads appearing on this web site are displayed on your screen by either (a) one of our web advertising partners or (b) by us. Information about your visit to this site, such as the number of times you have viewed an ad, your browser, the type of computer operating system you use, and whether or not you responded to the ad delivered, (but not your name, address, phone number or other personally identifying information), is used to serve advertisements to your screen. We may use your zip code or geographical location information to serve appropriate advertisements. In the course of serving advertisements to this site, our third party advertiser may place or recognize a unique cookie on your browser.
 
-**Consumer Information**  
-During the process of delivering an ad to you, The Fan Sites Network does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, The Fan Sites Network does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by The Fan Sites Network is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers.
+VI. Information Security′
 
-If you would like additional information about the types of non-personally identifiable information that is collected by The Fan Sites Network please mail us.
+Any of your personal information that is stored is kept securely on servers maintained by FSO’s hosting provider Industry-standard encryption technologies are used when transferring and receiving consumer data exchanged with our site, which encrypts information you input, except for domain name data.′You are solely responsible for the confidentiality of your password, if any. We suggest you do not share your password with anyone.′Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, FSO cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. 
 
-In some cases, you may voluntarily provide personal information in response to a specific ad (this ad may ask you to fill out a survey or provide your zip code). If this does occur, The Fan Sites Network may collect this information on behalf of an advertiser. This information is used by an advertiser to respond to your request. In addition, The Fan Sites Network may combine this information with other users” information and review it in an aggregate form to understand the type of individuals who view a specific type of ad or visit a particular kind of website.
+VII. Leaving FSO′
 
-**The Fan Sites Network Profile**  
-The Fan Sites Network use anonymous identifiers (cookies) to collect anonymous preference and interest information. This information is provided by The Fan Sites Network and is used by The Fan Sites Network to create anonymous interest profiles on individual browsers. This information does not include any personally identifiable data (such as name, address or e-mail address) that is considered sensitive or controversial or would compromise a consumer’s privacy. The Fan Sites Network profiles are accessed by The Fan Sites Network to tailor site content, promotions and advertising, and to perform market research. The Fan Sites Network allows consumers to opt-out from these profiles at any time.
+By clicking on any outbound links or advertisements on FSO, you are leaving the FSO website, and any transfers of information between your computer and the non-FSO website or service you navigate to are not subject to this Privacy Policy.
 
-**Data Collection and Opt Out**  
-The Fan Sites Network, as well as most sites on the Internet, uses “cookies” to enhance your experience on the web. The Fan Sites Network cannot use these cookies to personally identify you in any way. What are cookies and why do we use them? A cookie is a unique number that is provided to you the first time The Fan Sites Network serves you an ad. This unique number, which is stored in a cookie file on your computer, helps The Fan Sites Network target ads to you. This cookie can help The Fan Sites Network ensure that we don”t serve you the same ad multiple times, and help our advertisers understand what you like and don”t like about their offerings so that they can cater better to your needs the next time you are interested in their products or services. While we believe that cookies enhance your Internet experience by limiting the number of times you see the same ad and delivering more relevant content to you, they are not required for The Fan Sites Network to deliver you an ad. If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser”s Help documentation for more information.
+VIII. Mergers or Acquisitions′
 
-**Opt Out Procedure**  
-If you would like to “opt out,” that is, to prevent any data from being stored by The Fan Sites Network, please mail us. If you have any additional questions about The Fan Sites Network”s dedication to consumer privacy, please contact us at webmaster@fan-sites.org
+If FSO becomes involved in a merger, acquisition, or other sale of its assets, we will ensure the confidentiality of any personal information involved in the transactions and notify you before the information is transferred or becomes subject to a different privacy policy.
+
+IX. Accessing or Updating Your Information′
+
+If you have registered for a Fan Site account, you may login to that account to manage or correct your information.′Our site also provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.′To correct, update, or remove information from our records and databases, or to unsubscribe from services, users have the following options:
+
+• Users may send a request by email to membership@hollywood.com
+
+• Users may visit the following URL: [**http://www.hollywood.com/newsletter_signup/3590910**](http://www.hollywood.com/newsletter_signup/3590910)
+
+• Users may send mail to the following postal address:  
+2255 Glades Road. Suite 221A, Boca Raton, Florida 33431
+
+• Users may call the following telephone number in the United States:  
+(561) 322-3449  
+X. California Residents′
+
+It is not FSO’s practice to disclose your personal information to any third parties that use your information for direct marketing purposes. However, as required by California law, upon letter or email request by any California resident with whom FSO has an established business relationship, FSO will disclose to you each instance, if any, in the immediately preceding calendar year in which FSO disclosed your personal information to a third party that FSO knows or has reason to know used your personal information for direct marketing purposes. See California Civil Code § 1798.83. Please address such requests to:′
+
+**California Privacy Matters**  
+Privacy Matters  
+Fan Sites Org, LLC  
+560 Broadway  
+Suite 607  
+New York, NY 10012  
+Or email us at **membership@hollywood.com**
+
+XI. Changes to this Privacy Policy′
+
+This Privacy Policy may change from time to time. An up-to-date version is kept at [**http://fan-sites.org/about/privacy-policy/**](http://fan-sites.org/about/privacy-policy/).
+
+XII. Choice / Opt-Out′
+
+Users of our site may opt out of their information being (1) disclosed to third parties; or (2) used for a purpose that is incompatible with the purpose(s) for which it was originally collected or subsequently authorized by a user. To opt-out, please submit your request to membership@hollywood.com′Sensitive personal information (defined by the US-EU Safe Harbor to include “personal information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership or information specifying the sex life of the individual”) will never be disclosed to third parties or used for a purpose that is incompatible with the purpose(s) for which it was originally collected or subsequently authorized by a user, unless you expressly grant permission for the use.
+
+XIII. European Union Citizens′
+
+For personal information of employees, consumers, healthcare professionals, medical research subjects and investigators, customers, investors, and government officials that FSO receives from the European Economic Area, FSO has committed to handling such personal information in accordance with the US-EU Safe Harbor Principles. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce website at http://export.gov/safeharbor/. adheres with all requirements for US-EU Safe Harbor framework, and adheres to the seven Safe Harbor Principles of Notice, Choice, Onward Transfer, Access, Security, Data Integrity, and Enforcement. 
+
+XIV. Questions′
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
+
+**Privacy Matters**  
+Fan Sites Org, LLC  
+560 Broadway  
+Suite 607  
+New York, NY 10012  
+Or email us at membership@hollywood.com
