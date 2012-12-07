@@ -1,19 +1,21 @@
-<!--The following is the downloaded HTML source of the drtuber.com privacy policy that was archived on 2012-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620161034id_/http%3A//www.drtuber.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the drtuber.com privacy policy that was archived on 2012-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121207074139id_/http%3A//www.drtuber.com/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Privacy Policy - DrTuber.com</title>
         <meta name="robots" content="index, follow">   
     <meta name="revisit-after" content="1 days"> 
-        <meta name="keywords" content="Privacy Policy - DrTuber.com">
+         <meta name="keywords" content="Privacy Policy - DrTuber.com">
     <meta name="description" content="Privacy Policy - DrTuber.comfree,porn">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     
     <link rel="SHORTCUT ICON" href="http://www.drtuber.com/favicon.ico">
-    
-    <link rel="stylesheet" href="http://static.drtuber.com/templates/frontend/white/css/drtuber.css?v=11.68" type="text/css">
-	    <!--[if IE 7]><link rel="stylesheet" type="text/css"href="http://static.drtuber.com/templates/frontend/white/css/style_ie7.css" /><![endif]-->
-    <!--[if IE 6]><link rel="stylesheet" type="text/css"href="http://static.drtuber.com/templates/frontend/white/css/style_ie6.css" /><![endif]-->
+
+    <link rel="stylesheet" href="http://static.drtuber.com/templates/drtuber/css/styles.css?v=13.98" type="text/css">
+
+        <!--[if IE 7]><link rel="stylesheet" type="text/css"href="http://static.drtuber.com/templates/drtuber/css/style_ie7.css" /><![endif]-->
+    <!--[if IE 6]><link rel="stylesheet" type="text/css"href="http://static.drtuber.com/templates/drtuber/css/style_ie6.css" /><![endif]-->
+	
 	
 	<!--[if IE 6]>
 	<style>
@@ -30,31 +32,38 @@
 	<![endif]-->
 	
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        
 		var base_url = "http://www.drtuber.com";
 		var tmb_url = "http://pics.drtuber.com/media/videos/tmb";
-		var tpl_url = "/templates/frontend/white"; 
-		var static_tpl = "http://static.drtuber.com/templates/frontend/white";
+		var tpl_url = "/templates/drtuber"; 
+		var static_tpl = "http://static.drtuber.com/templates/drtuber";
 		var page_url = "%2Fstatic%2Fprivacy";
 		var tpl_name = "default";
+		var video_not_found = false;
 				var lang_deleting = "Deleting...";
 		var lang_flaging = "Flaging...";
 		var lang_loading = "Loading...";
 		var lang_sending = "Sending...";
 		var lang_share_name_empty = "Please enter your name!";
 		var lang_share_rec_empty = "Please enter at least one recipient email!";
+		var use_watch_traffic = true;
 		var mKey = "";
+		var show_right_small_related = "0";
 		var UPLOAD_DOMAIN_URL = 'http://upload.drtuber.com';
+		var IS_OUR = false;
 				var is_premium = false;
 						var SHOW_COMMENTS = false;
 						var LOGGED_IN = false;
 				</script>
 		<script type="text/javascript">
 		var COUNTRY_LIST = '';
-		var TRAFF_TARGETS = {"thumbs":[[{"url":"2","width":"0","height":"0","weight":"0"}]],"player":[[{"url":"1","width":"0","height":"0","weight":"0"}]]};
+		var TRAFF_TARGETS = {"thumbs":[[{"url":"http:\/\/go.trafficshop.com\/da860432","width":"0","height":"0","weight":"0"}]],"player":[[{"url":"http:\/\/www.trafficholder.com\/in\/in.php?drtuber","width":"0","height":"0","weight":"50"}]]};
 	
 					var REFERER = false;
 				
 		
+		var CLIENT_BROWSER = 'unknown';
+
 		var ESEL_TARGET = 'http://bs.drtuber.com/br.php?type=1&target_url=http%3A%2F%2Fwww.drtuber.com%2Fcommunity';
 		var ESEL_SMALL_PATH = 'http://static.drtuber.com/corner/cornersmall.swf';
 		var ESEL_SMALL_IMG = 'http://static.drtuber.com/corner/small.jpg';
@@ -63,28 +72,33 @@
 	</script>
 	
 	
-		<script type="text/javascript" src="/templates/frontend/white/js/drtuber.js?v=11.68"></script>
-		
-		
-		<script src="http://static.drtuber.com/corner/peel.js?v=11.68" type="text/javascript"></script>
-		
+		<script type="text/javascript" src="/templates/drtuber/js/drtuber.js?v=13.98"></script>
+	
 	<script type="text/javascript">
-		var username = 'ducat';
-		var referer=encodeURIComponent(location.href);
-		var ad_type=3;
-		var AdUnitTitleBar_color='008000';
-		var AdUnitTitle_color='FFFFCC';
-		var AdDisplayUrl_color='0000ff';
-		var AdBody_color='000000';
-		var AdTitle_color='008000';
-		var AdUnit_color='FFFFFF';
-		var AdUnit_border_color='336699';
-				var DEF_THUMBS_LIST = null;
-						var u_logintime = 0; //'';
-		var u_chat_room_id = '0';
+        var referer=encodeURIComponent(location.href);
+        var DEF_THUMBS_LIST = null;
+                var u_logintime = 0; 
+
+
+        var u_chat_room_id = '0';
+        var show_lj = '1';
+
+        $(document).ready(function() {
+            $('.menu li').hover(
+                function () {
+                    this.className += ' hover';
+                },
+                function () {
+                    this.className = this.className.replace('hover', '');
+                }
+            );
+        });    
 	</script>
+
 <script type="text/javascript" async="" src="//static.creatives.livejasmin.com/adcreative2/generated_js/ed_drtubkontx/adcreative.js"></script></head>
 <body id="new_body">
+
+
 
 <script type="text/javascript" id="adcreative_script">
 (function(){
@@ -96,239 +110,201 @@ adcr.src = '//static.creatives.livejasmin.com/adcreative2/generated_js/ed_drtubk
 })();
 </script>
 
+
 <a id="refLink" href="javascript:void(0)" style="display:none;">&nbsp;</a>
 
-<div id="head" style="z-index: 100;">
+       <div class="wrapper">
 
-	<a title="DrTuber.com" href="http://www.drtuber.com"><div id="logo_new">Dr.Tuber</div></a>
-	   
-  <div id="xinfo" class="xi_2">
-        <div id="xtitle">Find some huge tits and big cocks! Check our <a href="/community">community</a>!</div>
-        <div id="xlogin">
-                  <a href="/login" rel="nofollow" class="login login_link">Login</a> | <a href="/signup?track=top_menu" class="signup" rel="nofollow">&nbsp;Sign Up</a>
-             </div>
-    <div class="search">
-        <ul id="search_select">
-    <li id="search_tab1" class="active"><a href="#videos" onclick="$('#search_query').val('type here to search videos...');javascript:setSearchOptions(1, 'active', 'search_type', 'videos'); return false;"><span>Videos</span></a></li>
-    <li id="search_tab2"><a href="#pictures" onclick="$('#search_query').val('type here to search pictures...');javascript:setSearchOptions(2, 'active', 'search_type', 'photos'); return false;"><span>Pictures</span></a></li>
-    <li id="search_tab3"><a href="#dvd" onclick="$('#search_query').val('type here to search dvd...');javascript:setSearchOptions(3, 'active', 'search_type', 'dvds'); return false;"><span>Dvd</span></a></li>
+        	<div class="head" style="z-index: 100;">
 
-</ul>
-        <div>
-            <form action="/search" method="get" name="searchform" id="searchform" onsubmit="return submitSearch()">
-            <input type="hidden" value="videos" name="search_type" id="search_type">
-            <input type="text" name="search_query" id="search_query" class="in1" value="type here to search videos..." onfocus="this.value=''" onblur="">
-            <input type="button" class="search-button" value="" id="search-button">
-            </form>
-        </div>
-    </div>
+            	<div class="logo fleft">
 
-<div class="clear"></div>
+                	<a href="/"><img src="http://static.drtuber.com/templates/drtuber/images/logo.png" alt="DrTuber"></a>
 
-  </div>
+                </div>
+				<div class="search_regist_box fright">
+                    <div class="search_block">
+						<form action="/search" id="searchform" onsubmit="return submitSearch()" method="get">
+							<input type="hidden" value="videos" name="search_type" id="search_type">
 
-	
-	<ul class="xmenu">
-		<li class="x_1"><a href="/" title="Videos">Videos <span></span></a>
-			<ul>
-				<li><a href="/" title="Recent videos">Recent videos</a></li>
+                            <input class="search_btn" type="button" id="search-button" name="search_query" value=" ">
 
-				<li><a href="/tags" title="Tags List">Tags List</a></li>
-			</ul>
+                            <input class="search_inp" type="text" id="search_query" name="search_query" value="Search" onfocus="if (this.value == 'Search') this.value = '';" onblur="if (this.value == '') this.value = 'Search';">
+
+                            <div class="clear"></div>
+                        </form>
+                    </div> 
+                    <div class="regist_box">
+					                    	<a href="/login" type="#cart" rel="nofollow popup-trigger">Login</a>
+                        <span></span>
+                        <a href="/signup?track=top_menu" rel="nofollow">Sign Up</a>
+					                    </div>
+                </div>
+
+                <div class="clear"></div>
+            </div>
+
+            <div class="menu">
+            	<ul class="ch-topmenu">
+                    <li>
+                        <a href="/">Videos</a>
+                    </li>
+
+                    <li class="x_2">
+				        <a href="/categories">Categories</a>
+                        <ul>
+                        <li><a href="http://www.drtuber.com/amateur-porn" title="free amateur porn videos, amateur sex, amateur tube">Amateur</a></li><li><a href="http://www.drtuber.com/anal-sex" title="anal porn videos, anal sex, first time teen anal">Anal</a></li><li><a href="http://www.drtuber.com/asian-porn" title="asian porn videos, asian sex, asian girls tube">Asian</a></li><li><a href="http://www.drtuber.com/big-ass" title="ass tube, big ass, hot ass fucking">Ass</a></li><li><a href="http://www.drtuber.com/hot-babes" title="hot babes, nude sexy babes, busty babes">Babe</a></li><li><a href="http://www.drtuber.com/bbw-porn" title="bbw porn tubes, black bbw, bbw sex videos">BBW</a></li><li><a href="http://www.drtuber.com/big-cocks" title="big black cocks, big cocks sex, big cock porn tube">Big Cock</a></li><li><a href="http://www.drtuber.com/big-tits" title="big natural tits, free big tits tube movies">Big tits</a></li><li><a href="http://www.drtuber.com/hot-blondes" title="hot blondes, busty blonde teen, sexy blonde milf">Blonde</a></li><li><a href="http://www.drtuber.com/blowjob-videos" title="teen blowjob, free blowjobs videos, best blowjob">Blowjob</a></li><li><a href="http://www.drtuber.com/hot-brunettes" title="hot brunettes teen, sexy brunette milf sex">Brunette</a></li><li><a href="http://www.drtuber.com/nude-celebrities" title="celebrity movie archive, nude celebrities sex">Celebrity</a></li><li><a href="http://www.drtuber.com/cumshots-movies" title="amateur cumshots movies, teen cumshot videos">Cumshot</a></li><li><a href="http://www.drtuber.com/ebony-porn" title="ebony porn tube, ebony girls pussy, ebony teen sex">Ebony</a></li><li><a href="http://www.drtuber.com/fetish-porn" title="foot fetish tube, fetish porn, fetish videos">Fetish</a></li><li><a href="http://www.drtuber.com/fisting-videos" title="lesbian anal fisting, extreme teen fisting videos">Fisting</a></li><li><a href="http://www.nicemix.com" rel="nofollow" title="Funny Movies Links" target="_blank">Funny</a></li><li><a href="http://www.drtuber.com/gay-porn" title="free gay porn, gay sex tubes, free gay movies">Gay</a></li><li><a href="http://www.drtuber.com/granny-sex" title="granny pussy sex, granny porn tube, granny fucking">Granny</a></li><li><a href="http://www.drtuber.com/group-sex" title="mature group sex, lesbian group sex videos">Group</a></li><li><a href="http://www.drtuber.com/handjob-videos" title="teen handjob videos, free handjob tube movies">Handjob</a></li><li><a href="http://www.drtuber.com/hardcore-sex" title="free hardcore porn, teen hardcore sex videos">Hardcore</a></li><li><a href="http://www.drtuber.com/free-hentai" title="free hentai tube, 3d hentai videos, lesbian hentai">Hentai</a></li><li><a href="http://www.drtuber.com/interracial-sex" title="amateur interracial sex, free interracial porn">Interracial</a></li><li><a href="http://www.drtuber.com/latina-porn" title="hot latina porn, latina pussy, busty latina sex">Latina</a></li><li><a href="http://www.drtuber.com/lesbians-sex" title="free lesbian porn, teen lesbians sex videos">Lesbian</a></li><li><a href="http://www.drtuber.com/masturbation-videos" title="female masturbation videos, teen masturbation, male masturbation">Masturbation</a></li><li><a href="http://www.drtuber.com/mature-sex" title="mature women sex, mature tubes, free mature porn">Mature</a></li><li><a href="http://www.drtuber.com/milf-porn" title="hot milf porn, busty milf tube, free milf sex videos">Milf</a></li><li><a href="http://www.drtuber.com/nylon-videos" title="retro nylons legs, nylons and high heels, nylon videos">Nylon</a></li><li><a href="http://www.drtuber.com/outdoor-sex" title="sex outdoors, amateur outdoor sex, nude outdoors">Outdoor</a></li><li><a href="http://www.drtuber.com/pornstar-sex" title="famous pornstars tube, pornstar sex, free pornstar videos">Pornstar</a></li><li><a href="http://www.drtuber.com/reality-porn" title="reality videos, free reality porn, reality tube">Reality</a></li><li><a href="http://www.drtuber.com/red-head-porn" title="red head porn, hot red heads pussy, red head teen sex">Red Head</a></li><li><a href="http://www.drtuber.com/shemale-tube" title="shemale tube, free shemale porn, black shemale sex">Shemale</a></li><li><a href="http://www.drtuber.com/teen-porn" title="free teen porn, nude teens sex, naked teens pussy">Teen</a></li><li><a href="http://www.drtuber.com/threesome-sex" title="wife threesome sex, lesbian threesome porn">Threesome</a></li><li><a href="http://www.drtuber.com/sex-toys" title="sex toys, adult toys, anal sex toys, sex toys tube">Toys</a></li><li><a href="http://www.drtuber.com/uniform-porn" title="school uniform sex, nursing uniform porn">Uniform</a></li><li><a href="http://www.drtuber.com/vintage-porn" title="hq vintage tube, retro vintage porn, vintage sex">Vintage</a></li><li><a href="http://www.drtuber.com/free-webcams" title="free webcams sex, teen webcam girls, webcam girls">Webcam</a></li>
+                        </ul>
+                    </li>
+
+                    <li><a href="http://mobile.drtuber.com/">Mobile</a></li>
+
+                    <li><a href="http://drtubercams.com/" target="_blank">Live Sex</a></li>
+
+                    <li>
+                        <a href="/albums">Photos</a>
+                    </li>
+
+                    <li>
+                        <a href="/pornstars">Pornstars</a>
+                    </li>
+
+                    <li>
+                        <a href="/community">Community</a>
+                    </li>
+
+                    <li><a href="http://www.drtuberpremium.pornstarnetwork.net/account/join?track=MTI0LjQuMS4xNDEuMzQuMC4wLjAuMA" target="_blank">Premium</a></li>
+					                        <li>
+                            <a href="javascript:void(0);" data-back_url="/upload/video" class="login_link">
+                                Upload
+                            </a>
+                        </li>
+					
+                </ul>
+
+            </div>
+
 			
-		</li>
-		<li class="x_2"><a style="width: 121px;" href="/categories" title="Categories">Categories <span></span></a>
-			<ul>
-        <li><a href="http://www.drtuber.com/amateur-porn" title="free amateur porn videos, amateur sex, amateur tube">Amateur</a></li><li><a href="http://www.drtuber.com/anal-sex" title="anal porn videos, anal sex, first time teen anal">Anal</a></li><li><a href="http://www.drtuber.com/asian-porn" title="asian porn videos, asian sex, asian girls tube">Asian</a></li><li><a href="http://www.drtuber.com/big-ass" title="ass tube, big ass, hot ass fucking">Ass</a></li><li><a href="http://www.drtuber.com/hot-babes" title="hot babes, nude sexy babes, busty babes">Babe</a></li><li><a href="http://www.drtuber.com/bbw-porn" title="bbw porn tubes, black bbw, bbw sex videos">BBW</a></li><li><a href="http://www.drtuber.com/big-cocks" title="big black cocks, big cocks sex, big cock porn tube">Big Cock</a></li><li><a href="http://www.drtuber.com/big-tits" title="big natural tits, free big tits tube movies">Big tits</a></li><li><a href="http://www.drtuber.com/hot-blondes" title="hot blondes, busty blonde teen, sexy blonde milf">Blonde</a></li><li><a href="http://www.drtuber.com/blowjob-videos" title="teen blowjob, free blowjobs videos, best blowjob">Blowjob</a></li><li><a href="http://www.drtuber.com/hot-brunettes" title="hot brunettes teen, sexy brunette milf sex">Brunette</a></li><li><a href="http://www.drtuber.com/nude-celebrities" title="celebrity movie archive, nude celebrities sex">Celebrity</a></li><li><a href="http://www.drtuber.com/cumshots-movies" title="amateur cumshots movies, teen cumshot videos">Cumshot</a></li><li><a href="http://www.drtuber.com/ebony-porn" title="ebony porn tube, ebony girls pussy, ebony teen sex">Ebony</a></li><li><a href="http://www.drtuber.com/fetish-porn" title="foot fetish tube, fetish porn, fetish videos">Fetish</a></li><li><a href="http://www.drtuber.com/fisting-videos" title="lesbian anal fisting, extreme teen fisting videos">Fisting</a></li><li><a href="http://www.drtuber.com/gay-porn" title="free gay porn, gay sex tubes, free gay movies">Gay</a></li><li><a href="http://www.drtuber.com/granny-sex" title="granny pussy sex, granny porn tube, granny fucking">Granny</a></li><li><a href="http://www.drtuber.com/group-sex" title="mature group sex, lesbian group sex videos">Group</a></li><li><a href="http://www.drtuber.com/handjob-videos" title="teen handjob videos, free handjob tube movies">Handjob</a></li><li><a href="http://www.drtuber.com/hardcore-sex" title="free hardcore porn, teen hardcore sex videos">Hardcore</a></li><li><a href="http://www.drtuber.com/free-hentai" title="free hentai tube, 3d hentai videos, lesbian hentai">Hentai</a></li><li><a href="http://www.drtuber.com/interracial-sex" title="amateur interracial sex, free interracial porn">Interracial</a></li><li><a href="http://www.drtuber.com/latina-porn" title="hot latina porn, latina pussy, busty latina sex">Latina</a></li><li><a href="http://www.drtuber.com/lesbians-sex" title="free lesbian porn, teen lesbians sex videos">Lesbian</a></li><li><a href="http://www.drtuber.com/masturbation-videos" title="female masturbation videos, teen masturbation, male masturbation">Masturbation</a></li><li><a href="http://www.drtuber.com/mature-sex" title="mature women sex, mature tubes, free mature porn">Mature</a></li><li><a href="http://www.drtuber.com/milf-porn" title="hot milf porn, busty milf tube, free milf sex videos">Milf</a></li><li><a href="http://www.drtuber.com/nylon-videos" title="retro nylons legs, nylons and high heels, nylon videos">Nylon</a></li><li><a href="http://www.drtuber.com/outdoor-sex" title="sex outdoors, amateur outdoor sex, nude outdoors">Outdoor</a></li><li><a href="http://www.drtuber.com/pornstar-sex" title="famous pornstars tube, pornstar sex, free pornstar videos">Pornstar</a></li><li><a href="http://www.drtuber.com/reality-porn" title="reality videos, free reality porn, reality tube">Reality</a></li><li><a href="http://www.drtuber.com/red-head-porn" title="red head porn, hot red heads pussy, red head teen sex">Red Head</a></li><li><a href="http://www.drtuber.com/shemale-tube" title="shemale tube, free shemale porn, black shemale sex">Shemale</a></li><li><a href="http://www.drtuber.com/teen-porn" title="free teen porn, nude teens sex, naked teens pussy">Teen</a></li><li><a href="http://www.drtuber.com/threesome-sex" title="wife threesome sex, lesbian threesome porn">Threesome</a></li><li><a href="http://www.drtuber.com/sex-toys" title="sex toys, adult toys, anal sex toys, sex toys tube">Toys</a></li><li><a href="http://www.drtuber.com/uniform-porn" title="school uniform sex, nursing uniform porn">Uniform</a></li><li><a href="http://www.drtuber.com/vintage-porn" title="hq vintage tube, retro vintage porn, vintage sex">Vintage</a></li><li><a href="http://www.drtuber.com/free-webcams" title="free webcams sex, teen webcam girls, webcam girls">Webcam</a></li>
-			</ul>
-		</li>
-		<li><a href="http://mobile.drtuber.com/" title="Mobile version" target="_blank" rel="nofollow">Mobile</a></li>
-		<li><a href="http://bongacams.com/h.php?a=269&amp;p=1&amp;c=370" title="Live Sex" target="_blank" rel="nofollow">Live Sex</a></li>
-		<li><a href="/albums" title="Photos">Photos</a></li>
-		<li><a href="/pornstars" title="Pornstars">Pornstars</a></li>
-		<li><a href="/community" title="Community">Community</a></li>
-		<li><a href="http://www.drtuberpremium.com/" title="Premium">Premium</a></li>
-        		<li><a href="javascript:void(0);" _back_url="/upload/video" class=" login_link" title="Upload">Upload</a></li>
-		    	</ul>
-	
-    	
-	<div class="xtopadvert" id="aff_promo_frame" style="overflow:hidden;position:absolute;width:850px;height:44px;z-index:10;">
-		<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="850" height="199" id="main" align="middle">
-		<param name="allowScriptAccess" value="sameDomain">
-		<param name="allowFullScreen" value="false">
-		<param name="movie" value="http://static.drtuber.com/templates/frontend/white/swf/aff_banner.swf?v=11.68&amp;clickTag=http%3A%2F%2Fbs.drtuber.com%2Fbr.php%3Ftype%3D2%26target_url%3Dhttp%253A%252F%252Fwww.drtuber.com%252Fcommunity">
-		<param name="quality" value="high">
-		<param name="bgcolor" value="#ffffff">
-		<param name="wmode" value="transparent">
-		<embed src="http://static.drtuber.com/templates/frontend/white/swf/aff_banner.swf?v=11.68&amp;clickTag=http%3A%2F%2Fbs.drtuber.com%2Fbr.php%3Ftype%3D2%26target_url%3Dhttp%253A%252F%252Fwww.drtuber.com%252Fcommunity" wmode="transparent" quality="high" bgcolor="#ffffff" width="850" height="199" name="main" align="middle" allowscriptaccess="sameDomain" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
-		</object>
-	</div>
-    
+            <div class="content_wide">
+
+				<div class="title_bar">Privacy Policy</div>
+
+<div class="silver_bg" style="padding:10px;">
+      <p><b>Updated as of October 17, 2011</b></p>
+
+      <p>Pursuant to our <a href="/static/terms" rel="nofollow">Terms of Use</a>, this document describes how we treat personal information related to your use of DrTuber.com (the “Website”), including information you provide when using it.</p>
+      <p>We expressly and strictly limit use of the Website to adults over 18 years of age or the age of majority in the individual’s jurisdiction, whichever is greater.  Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.</p>
+
+      <p><b>Data Collected</b></p>
+
+      <p><i>Browsing the Website.</i> You can watch videos and access other parts of the Website without having an account, in which case only your IP address, country of origin and other non-personal information about your computer or device (such as web requests, browser type, browser language, referring URL, operating system and date and time of requests) will be recorded for log file information, aggregated traffic information and in the event that there is any misappropriation of information and/or content.</p>
+      <p><i>Registering on the Website.</i> Registration of an account is required for uploading videos and accessing other features on the Website.  We require the following personal information at the time of registration: your username and password (which you generate), e-mail address, age confirmation and gender. Your IP address is recorded automatically. Your username and gender will become publicly accessible on the Website.</p>
+      <p><i>Usage Information.</i> We may record information about your usage of the Website such as your subscriptions, which users you communicate with, the videos you watch, the frequency and size of data transfers and other statistics.  If you have registered and are logged in, we may associate that information with your account.</p>
+      <p><i>Uploaded Content.</i> Any personal information or content you voluntarily disclose online, including videos, comments and your profile page, becomes publicly available and may be collected and used by others.</p>
+      <p><i>Correspondences.</i> We may keep a record of any correspondence between you and us.</p>
+      <p><i>Cookies.</i> When you use the Website, we may send cookies to your computer to uniquely identify your browser session.  We may use both session cookies and persistent cookies.</p>
+
+      <p><b>Data Usage</b></p>
+
+      <p>We may use your information to provide you with certain features and to create a personalized experience on the Website.  We may also use that information to operate, maintain and improve features and functionality of the Website.</p>
+      <p>We will not use your e-mail address or other personal information to send commercial or marketing messages without your consent. We may use your e-mail without further consent for non-marketing or administrative purposes.</p>
+      <p>We use cookies, web beacons and other information to store information so that you will not have to re-enter it on future visits, provide personalized content and information, monitor the effectiveness of the Website and monitor aggregate metrics such as the number of visitors and page views (including for use in monitoring visitors from affiliates).  They may also be used to provide targeted advertising based on your country of origin and other personal information.</p>
+      <p>We may aggregate your personal information with personal information of other members and users, and disclose such information to advertisers and other third-parties for marketing and promotional purposes.</p>
+      <p>Your username may be displayed to other users alongside content you upload, including videos, comments and messages.</p>
+      <p>Any videos that you submit may be redistributed through the internet and other media channels and may be viewed by the general public.</p>
+
+      <p><b>Disclosures of Information</b></p>
+
+      <p>We may be required to release certain data to comply with legal obligations or in order to enforce our Terms of Use and other agreements.  We may also release certain data to protect the rights, property or safety of us, our users and others.  This includes providing information to other companies or organizations like the police or governmental authorities for the purposes of protection against or prosecution of any illegal activity, whether or not it is identified in the Terms of Use.</p>
+      <p>If you upload any illegal material to the Website, we may forward all available information to relevant authorities, including respective copyright owners, without any notice to you.</p>
+
+      <p><b>Miscellaneous</b></p>
+
+      <p>If you have an account on the Website and have a password giving you access to certain parts of the Website, you are responsible for keeping the password confidential.  Anyone else with your password may access your account and other personal information.</p>
+      <p>While we use commercially reasonable physical, managerial and technical safeguards to secure your information, the transmission of information via the internet is not completely secure and we cannot ensure or warrant the security of any information or content you transmit to us.  Any information or content you transmit to us is done at your own risk.</p>
+      <p>You are entitled to access, correct or delete your information on the Website and may request us to do so by contacting us at copyright<span>@</span>drtuber.com</p>
 </div>
-
-
-<div id="wrapper" class="cblock"><div id="wrapper" class="cblock">
-	<div class="content">
-		<div class="bl_long">
-			<div class="bl">
-				<div class="bl_box">
-					<h2 class="name">Privacy Policy</h2>
-					<div class="static">
-						<p><b>Updated as of October 17, 2011</b></p>
-						
-						<p>Pursuant to our <a href="/static/terms" rel="nofollow">Terms of Use</a>, this document describes how we treat personal information related to your use of DrTuber.com (the “Website”), including information you provide when using it.</p>
-						<p>We expressly and strictly limit use of the Website to adults over 18 years of age or the age of majority in the individual’s jurisdiction, whichever is greater.  Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.</p>
-						
-						<p><b>Data Collected</b></p>
-						
-						<p><i>Browsing the Website.</i> You can watch videos and access other parts of the Website without having an account, in which case only your IP address, country of origin and other non-personal information about your computer or device (such as web requests, browser type, browser language, referring URL, operating system and date and time of requests) will be recorded for log file information, aggregated traffic information and in the event that there is any misappropriation of information and/or content.</p>
-						<p><i>Registering on the Website.</i> Registration of an account is required for uploading videos and accessing other features on the Website.  We require the following personal information at the time of registration: your username and password (which you generate), e-mail address, age confirmation and gender. Your IP address is recorded automatically. Your username and gender will become publicly accessible on the Website.</p>
-						<p><i>Usage Information.</i> We may record information about your usage of the Website such as your subscriptions, which users you communicate with, the videos you watch, the frequency and size of data transfers and other statistics.  If you have registered and are logged in, we may associate that information with your account.</p>
-						<p><i>Uploaded Content.</i> Any personal information or content you voluntarily disclose online, including videos, comments and your profile page, becomes publicly available and may be collected and used by others.</p>
-						<p><i>Correspondences.</i> We may keep a record of any correspondence between you and us.</p>
-						<p><i>Cookies.</i> When you use the Website, we may send cookies to your computer to uniquely identify your browser session.  We may use both session cookies and persistent cookies.</p>
-						
-						<p><b>Data Usage</b></p>
-						
-						<p>We may use your information to provide you with certain features and to create a personalized experience on the Website.  We may also use that information to operate, maintain and improve features and functionality of the Website.</p>
-						<p>We will not use your e-mail address or other personal information to send commercial or marketing messages without your consent. We may use your e-mail without further consent for non-marketing or administrative purposes.</p>
-						<p>We use cookies, web beacons and other information to store information so that you will not have to re-enter it on future visits, provide personalized content and information, monitor the effectiveness of the Website and monitor aggregate metrics such as the number of visitors and page views (including for use in monitoring visitors from affiliates).  They may also be used to provide targeted advertising based on your country of origin and other personal information.</p>
-						<p>We may aggregate your personal information with personal information of other members and users, and disclose such information to advertisers and other third-parties for marketing and promotional purposes.</p>
-						<p>Your username may be displayed to other users alongside content you upload, including videos, comments and messages.</p>
-						<p>Any videos that you submit may be redistributed through the internet and other media channels and may be viewed by the general public.</p>
-						
-						<p><b>Disclosures of Information</b></p>
-						
-						<p>We may be required to release certain data to comply with legal obligations or in order to enforce our Terms of Use and other agreements.  We may also release certain data to protect the rights, property or safety of us, our users and others.  This includes providing information to other companies or organizations like the police or governmental authorities for the purposes of protection against or prosecution of any illegal activity, whether or not it is identified in the Terms of Use.</p>
-						<p>If you upload any illegal material to the Website, we may forward all available information to relevant authorities, including respective copyright owners, without any notice to you.</p>
-						
-						<p><b>Miscellaneous</b></p>
-						
-						<p>If you have an account on the Website and have a password giving you access to certain parts of the Website, you are responsible for keeping the password confidential.  Anyone else with your password may access your account and other personal information.</p>
-						<p>While we use commercially reasonable physical, managerial and technical safeguards to secure your information, the transmission of information via the internet is not completely secure and we cannot ensure or warrant the security of any information or content you transmit to us.  Any information or content you transmit to us is done at your own risk.</p>
-						<p>You are entitled to access, correct or delete your information on the Website and may request us to do so by contacting us at copyright<span>@</span>drtuber.com</p>
-					</div>
-				</div>
+				            </div>
+			
+            <div class="baner_bottom">
+				<iframe src="/footer_ads.html?v=13.98" width="1220" height="258" scrolling="no" border="0" frameborder="0"></iframe>
+            </div>
+			
+            <div class="footer">
+                                <div class="logo">
+                	<a href="http://www.drtuber.com"><img src="http://static.drtuber.com/templates/drtuber/images/logo.png" alt=""></a>
+                </div>
+                <div class="footer_info">
+                                    	<a href="/static/terms">Terms and Conditions</a><span></span>
+                	<a href="/static/privacy">Privacy Policy</a><span></span>
+                	<a href="/static/dmca">DMCA</a><span></span>
+                	<a href="/static/_2257">2257</a><span></span>
+                	<a href="/feedback">Feedback</a><span></span>
+                	<a href="http://webmaster.drtuber.com/">Webmasters Program</a><span></span>
+                	<a href="http://content.drtuber.com/">Partner Content Program</a><span></span>
+                	<a href="/static/advertise">Advertise</a>
+                    <div class="copy">Copyright © 2009-2012 DrTuber.com, All Rights Reserved.</div>
+                </div>
+                <div class="clear"></div>
+            </div>
+    	</div>
+								<!--popup -->
+	<div style="display:none">
+		<div id="cart">
+			<div id="login">
+			   <div id="login_in">              	
+					<div class="error" id="err_login" style="color:#CC0000;"></div>
+					<form action="#" method="post">
+						 <p><label>Username</label><input class="inp_login" type="text" id="login_username" name="username" value=""></p>
+						 <p><label>Password</label><input class="inp_login" type="password" id="login_password" name="password" value=""></p>
+						 <div class="clear"></div>
+						 <div class="login_btns">
+							<input type="checkbox" checked="checked" name="login_remember" id="login_remember"> Remember me on this computer!
+							<div class="clear"></div>
+							<div class="fleft stand_button"><a href="#" id="login_submit" name="submit_login" class="silver_btn2 stand_button_link">Login</a></div>
+							<div class="fright col170">
+								<a href="/signup?track=login_ajax">Signup</a><br>
+								<a title="Forgot Username Or Password?" href="/lost" rel="nofollow">Forgot Username Or Password?</a>
+							</div>
+							<div class="clear"></div>
+						 </div>
+					</form>                
+			   </div>
+			   <a href="#" id="close_btn" class="btn-off">Close</a>
 			</div>
 		</div>
-	</div>
-</div><div class="bl" style="height: auto;">
-  <div class="bl_box_foot">
-  <h2 class="name float_left">Advertising Here</h2>
-    		<img src="http://static.drtuber.com/templates/frontend/white/images/pl.gif" width="16" height="16" class="close_adv " id="close_adv_bottom">
-		<div class="clear"></div>
-    	<iframe src="/footer_ads.html?v=11.68" width="1234" height="258" scrolling="no" border="0" frameborder="0"></iframe>
-	</div>
-</div>
-
-
-</div>
-
-<div id="footer">
-   <div class="footermenu">
-          <a href="/static/terms" rel="nofollow">Terms and Conditions</a> |
-      <a href="/static/privacy" rel="nofollow">Privacy Policy</a> |
-      <a href="/static/dmca" rel="nofollow">DMCA</a> |
-      <a href="/static/_2257" rel="nofollow">2257</a> |
-      <a href="/feedback" rel="nofollow">Feedback</a> |
-      <a href="http://webmaster.drtuber.com/" rel="nofollow">Webmasters Program</a> |
-      <a href="http://content.drtuber.com/" rel="nofollow">Partner Content Program</a> |
-      <a href="/static/advertise" rel="nofollow">Advertise</a>
-   </div>
-   <div class="rights" style="padding-bottom: 10px;">
-	<div style="padding-bottom: 8px;">
-		Copyright © 2009-2012 DrTuber.com, All Rights Reserved.
-	</div>
-	<div>
-		<a href="http://www.parentalcontrolsthatwork.com" target="_blank"><img src="http://static.drtuber.com/templates/frontend/white/images/wraac.gif" alt="Download Free Parental Controls!" rel="nofollow" width="88" height="31" border="0" align="center"></a>
-	</div>
-   </div>
-<script type="text/javascript">
-    var img = new Image();
-    img.src = 'http://adv.drtuber.com/counter/?domain=drtuber.com&img&ref='+escape(document.referrer)+'&rr='+Math.random();
-</script>
-
-
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-11534166-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-
-
-</div>
-
-<div class="hideshow" id="login_div">
-
-    <div id="fade"></div>
-        <div class="popup_block pop_shot">
-            
-                <div class="bl"><div class="bl_box_bot"><div class="bl_box">
-                
-                <h2 class="name no_icon_first">Login </h2>
-                
-<form action="#">
-        <div style="background: none repeat scroll 0% 0% transparent;" class="fields">
-	<div id="err_login"></div>
-            <table cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td class="td_label">Username: </td>
-
-    <td><input type="text" class="m_inp_1 m_inp_4" id="login_username" value="" name="username"></td>
-  </tr>
-  <tr>
-
-    <td class="td_label">Password:</td>
-    <td><input type="password" class="m_inp_1 m_inp_4" id="login_password" value="" name="password"></td>
-  </tr>
-  <tr>
-    <td class="td_label">&nbsp;</td>
-
-    <td><input type="checkbox" class="m_che_1" value="1" name="login_remember" id="login_remember" checked="checked"> Remember me on this computer!</td>
-  </tr>
-  
-   <tr>
-    <td class="td_label">&nbsp;</td>
-	<td><div class="stand_button"><button type="button" value="login now" id="login_submit" name="submit_login" class="stand_button_link">login now</button></div></td>
-  </tr>
-<tr>
-    <td class="td_label">&nbsp;</td>
-
-    <td><div style="padding-top: 0pt;" class="log_links">
-<a title="Signup" href="/signup?track=login_ajax">Signup</a><br>
-<a title="Forgot Username Or Password?" href="/lost" rel="nofollow">Forgot Username Or Password?</a><br>
-</div></td>
-  </tr>
-
-
-</tbody></table>
-</div>
-
-
-
-</form>
-
-
-    
-<div id="close_login" class="pop_close"></div>  
-
-
-</div></div></div><!--END_BLOCK-->
+	</div> 
+	<!--//popup -->								
+		<script type="text/javascript" src="http://static.drtuber.com/templates/drtuber/js/myscript.js?v=13.98"></script>
+		<script type="text/javascript" src="http://static.drtuber.com/templates/drtuber/js/jquery.colorbox-min.js?v=13.98"></script>
+        <script type="text/javascript" src="http://static.drtuber.com/templates/drtuber/js/select.js?v=13.98"></script>
+		<script type="text/javascript">
+            $(function(){
+                $('.selectBlock').sSelect();
+            });
+        </script>
+        <script type="text/javascript">
+            var img = new Image();
+            img.src = 'http://adv.drtuber.com/counter/?domain=drtuber.com&img&ref='+escape(document.referrer)+'&rr='+Math.random();
+        </script>
         
-        </div>
-
-</div>
-
-
-
-
-
-
+        
+        <script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-11534166-1']);
+          _gaq.push(['_trackPageview']);
+        
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        </script>
+        
+		
+		
+				
+		
+                    
 
 </body></html>
