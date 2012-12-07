@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the switchin.net privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501025118id_/http%3A//www.switchin.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the switchin.net privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207090511id_/http%3A//www.switchin.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Switchin.net
 
