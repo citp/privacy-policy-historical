@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the australianwomenonline.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607072211id_/http%3A//www.australianwomenonline.com/about-australian-women-online/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianwomenonline.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207020123id_/http%3A//www.australianwomenonline.com/about-australian-women-online/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Australian Women Online
+# Privacy Policy | Australian Women Online
 
 Australian Women Online operates the websites australianwomenonline.com and australianwomenonline.com.au. It is Australian Women Online’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -43,6 +43,3 @@ Telephone: +61 2 9615 9603
 Email: Please use contact form below
 
 [_cforms_ contact form by delicious:days](http://www.deliciousdays.com/cforms-plugin)
-
-[](http://www.australianwomenonline.com/about-australian-women-online/privacy-policy/printpage/ "Print This Page") [Print This Page](http://www.australianwomenonline.com/about-australian-women-online/privacy-policy/printpage/ "Print This Page")   
-
