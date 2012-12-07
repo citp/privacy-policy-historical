@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecobee.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605233408id_/http%3A//www.ecobee.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecobee.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207072644id_/http%3A//www.ecobee.com/legal/privacy) for the most accurate reproduction.*
 
 # privacy « ecobee
 
@@ -111,37 +111,21 @@ Toronto, ON M5V 1R5, Canada
 Copyright © 2008, 2011 ecobee inc. All Rights Reserved. ecobee inc. and any marks and logos are Registered Trademarks of ecobee inc.. All other trademarks listed are the property of their respective owners.   
 Revision: September 2011 
 
-  * The ecobee community has saved an estimated 20,836,725 pounds of CO2. This is approximately equal to the amount of CO2 emittied by the average car driving around the equator 4,270 times! 
+  * "I have 9 ecobee thermostats across 3 properties and love your product." - Roger, Commercial Customer
 
-  * The ecobee community has saved an estimated 20,836,725 pounds of CO2. This is approximately equal to planting 9,450 trees or taking 1,800 cars off the road!
+  * "What a great product! it performs as is stated. nothing better than turning on the ac from my iphone and coming home to a cool house!" - T.Y.
 
-  * Annually, ecobee uses less energy as an entire office than one average home.
+  * "You guys are one of a kind - that's a good thing! Thanks for taking the time to answer my questions. I'm very excited to start using this smart device." - R.T.
 
-  * Through Bullfrog Power, ecobee offsets even more energy than we consume, putting more clean energy back on the grid than we take.
+  * "I love my ecobee thermostats - I have two and in the first year of having them I saved enough money on my oil bill to pay for my thermostat." - A.G.
 
-  * The amount of greenhouse gas emissions saved by ecobee employees cycling or walking to work is equal to 139 tree seedlings growing for 10 years.
+  * "Abilene Texas has an entire new housing development using ecobee - You should come here and see how your units keep up with the Texas summer heat!" - G.W.P.
 
-  * The amount of greenhouse gas emissions saved by ecobee employees cycling or walking to work is equal to recycling 1.8 tons of waste… rather than sending it to a landfill.
+  * "My favorite thing? Warming up the master bedroom from my iPhone when heading home in the evening on a cold winter day. And vice versa..." - L.S.R.
 
-  * This year, ecobee employees have collectively walked over 6,727 km to work. This is equivalent to walking from Toronto to Alaska or swimming/walking from Toronto to Moscow!
+  * "The ecobee thermostat and iPhone app was worth every penny. My wife tells me on every trip to the vacation home what a great purchase it was." - R.B., Homeowner
 
-  * ecobee employees have collectively cycled almost 11,630 km this year — the distance from Toronto to Delhi, India!
-
-  * One ecobee employee switching to public transit can reduce daily carbon emissions by 20 pounds, or more than 4,800 pounds a year.
-
-  * 80% of ecobee users consider remote connectivity to be the most valuable feature.
-
-  * 66% of ecobee Smart Thermostat users have downloaded the ecobee SmartPhone app for the iPhone/iPod Touch or Android.
-
-  * 78% of ecobee Smart Thermostat users that download the SmartPhone app use it at least once a week.
-
-  * 47% of ecobee users would rather interact with their heating and cooling system through their SmartPhone than their thermostat!
-
-  * 65% of ecobee users access their ecobee Web Portal once a week.
-
-  * Did you know that ecobee was the industry’s first WiFi enabled thermostat? **[Find out more about the ecobee story…](http://www.ecobee.com/about/our-story/)**
-
-  * At ecobee over 80% of our users are running a program. It's just that easy!'
+  * "The online web portal is revolutionary and is just as simple to navigate as the thermostat itself." - Joe, Contractor
 
 
 
