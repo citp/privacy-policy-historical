@@ -1,22 +1,44 @@
-> *The following text is extracted and transformed from the harmonicinc.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504003347id_/http%3A//www.harmonicinc.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmonicinc.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207104020id_/http%3A//harmonicinc.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Harmonic Inc. |Harmonic's Online Privacy Policy
+# Privacy Policy | Harmonic Inc
 
-Harmonic recognizes your need for appropriate protection and management of any individual identifying information you share with us. We want to make use of the information you provide to serve you better. Individual identifying information is information that enables us to identify you, such as your email address, name, title and address. Harmonic's policy regarding use of your individual identifying information covers these areas: 
+Harmonic, Inc. respects your privacy and is committed to protecting your personal information. Sometimes visitors to this website provide information to Harmonic for business purposes. This Privacy Policy was created to inform you of the Harmonic, Inc. privacy and personal information practices and to ensure that you have a positive experience on our website. Harmonic does not collect or use personal data from an individual unless the individual intentionally provides it and consents to its usage.
 
-**Notice and Disclosure**  
-This Online Privacy Policy is made available to you in order to make you aware of how Harmonic collects and uses individual information of visitors to Harmonic's website. Harmonic may collect the following information regarding visitors to our website: domain name, name, information regarding what pages are being accessed, information volunteered by you, such as survey information, email address, or site registrations, and your preferred means of communication. We will use reasonable security measures to protect your personal information in storage. In general, when you visit our website and access information you remain anonymous. Before we ask you for information, we will explain how this information will be used. We will not provide any of your personal information to other companies or individuals without your permission. However, we may need to provide your name and delivery address to third parties that Harmonic uses for the purposes of delivering specific services to you (e.g., customer support, or a shipping company if you have asked us to send something to you). 
+**If you do not agree with this Privacy Policy, do not use this website.** Once you have provided Harmonic with any personally identifiable information through this website, you will be deemed to have read, understood, and consented to Harmonic Inc.s privacy and personal information practices.
 
-**Choice and Consent**  
-New registrants to the Harmonic website choose to opt in by providing identifying information during the registration process. We are working on ways to enable you to communicate to us that your individual identifying information should not be used for additional purposes. When you sign up for an email list you will be give instructions at that time on how to remove yourself from that list. 
+###  Personal Information
 
-Access to certain areas of Harmonic's website requires a login and password. The use of those web pages, and the information or programs downloaded from those sites, may be governed by a written agreement between your employer and Harmonic. Your individual information may be retained by Harmonic to verify compliance with the agreement, log software licenses granted, to track software downloaded from those pages, or track usage of other applications available on Harmonic's website. 
+Personal information or data means any information that can be used to identify a person, including but not limited to, name, email address, postal address, phone number, title, occupation, or other contact information. Harmonic only collects information it believes is relevant to better understand and serve the needs of this site's visitors.
 
-**Use of Cookies**  
-A cookie is a small data file that certain websites use to write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited, but the only personal information a cookie can contain is information you supply yourself. A cookie can not read data off your hard drive or read cookie files created by other sites. Harmonic's website uses cookies for various reasons. Cookies enable us to provide you with a better experience by allowing us to understand what areas of the website are of interest to our visitors. Harmonic also uses cookies when you register for one of our web programs. In this situation, a cookie will store useful information that enables our website to remember you when you return to visit us. Cookies from Harmonic websites can only be read by Harmonic website. If you prefer not to receive cookies, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. If you choose to disable cookies in your browser, you can still access most of our website. 
+Harmonic may collect information for the purposes below:
 
-**Protecting your privacy**  
-Our websites may provide links to third party sites. Harmonic is not responsible for the privacy practices, content, accuracy or opinions expressed on such websites, and such websites are not investigated, monitored or checked by Harmonic for accuracy or completeness. Since we do not control those websites, we encourage you to review the privacy policies of these third party sites prior to use. 
+  * Becoming a new channel or technology partner
+  * Gaining access to white papers and other marketing collateral
+  * Registering to access the Harmonic Partner Network and Harmonic Customer Network
+  * Employment with Harmonic, Inc. or its subsidiaries
+  * Reporting a problem to the Harmonic service and support organization
+  * Inquiries on how to purchase Harmonic products
+  * Requesting the Harmonic newsletter or other materials
+  * Requesting a demonstration of Harmonic products
 
-**Data storage in the U.S.**  
-Many of our websites that collect information will store and process that information in databases in the United States. 
+
+
+We do not sell or rent your personal information to any third parties for marketing purposes unless you have granted us permission to do so. We may share your personal information with channel partners and vendors in order to provide a requested service or transaction but we only provide these other parties with the minimum amount of personal information necessary to complete the requested service or transaction.
+
+We may collect and possibly share personal information in order to prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of Harmonic's terms of use.
+
+###  Notice and Ability to Opt Out
+
+For communications such as the Harmonic Newsletter, you may decide to "opt out" of any communications by sending us a notice to unsubscribe at [info@harmonicinc.com](mailto:info@harmonicinc.com). Harmonic respects your wishes and will cease all communications with individuals who have requested not to receive email or other communications from us.
+
+If you have any complaints relating to this Privacy Policy or how we deal with your personal information please contact us at [info@harmonicinc.com](mailto:info@harmonicinc.com) or calling +1 408 542-2500.
+
+###  IP Addresses and Cookies
+
+Our website automatically logs your IP address and domain name, and non-personal information such as the type of web browser you use, to help us administer the sites and to improve the structure of our website.
+
+Our site also uses cookies to identify you over multiple visits to the site, for example to allow you to regain access to white papers without re-entering your information. Cookies are optional, and you can block or delete them.
+
+###  Third Party Links
+
+Our site may provide links to other third-party websites for your convenience. These sites are outside our control and not covered by this policy. We encourage you to read the privacy policies posted on these third party sites.
