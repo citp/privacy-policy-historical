@@ -1,0 +1,1038 @@
+<!--The following is the downloaded HTML source of the pigiame.co.ke privacy policy that was archived on 2012-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121207052257id_/http%3A//www.pigiame.co.ke/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="https://www.facebook.com/2008/fbml"><head>
+<title>pigiame</title>
+<link href="http://www.pigiame.co.ke/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Electronics">
+<meta name="keywords" content="Electronics">
+
+<link href="http://www.pigiame.co.ke/files/shared.css" rel="StyleSheet">
+<link href="http://www.pigiame.co.ke/styles/Sky/styles.css" rel="StyleSheet">
+<link href="http://www.pigiame.co.ke/styles/Sky/pigiastyle.css" rel="StyleSheet">
+<link href="http://www.pigiame.co.ke/styles/Sky/global.css" rel="StyleSheet">
+<link href="http://www.pigiame.co.ke/files/jquery.fancybox-1.3.4.css" rel="StyleSheet">
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "ur-8414bffe-5d7b-e8bf-aaae-f88094d837e2"}); </script>
+
+<script type="text/javascript">
+	var site_url = "http://www.pigiame.co.ke";
+	image1 = new Image();
+	image1.src = "http://www.pigiame.co.ke/images/waiting.gif";
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.pigiame.co.ke/files/javascripts.js"></script>
+<script src="http://www.pigiame.co.ke/files/jquery.fancybox-1.3.4.js"></script>
+<script src="http://www.pigiame.co.ke/files/jquery.easing.1.3.js"></script>
+
+<script src="http://www.pigiame.co.ke/files/slides.min.jquery.js"></script>
+<script type="text/javascript">
+	$(function()
+	{
+		$("#share").click(function() {
+			$("#div2").slideToggle();
+		});
+		
+		$("#div2 b").click(function() {
+			$("#div2").slideUp();
+		});
+		
+		
+		$("#email_share").click(function() {
+			$("#tell_friend_box0").show();
+		});
+	});
+	
+function fb_like(n)
+{
+var id= n;
+
+$("#div_like"+id).slideToggle();
+
+}
+
+
+function fb_share(n)
+{
+var id= n;
+
+$("#div2"+id).slideToggle();
+
+}
+
+function fb_share1(n)
+{
+var id= n;
+
+$("#div3"+id).slideToggle();
+
+}
+
+
+</script>
+<script>
+	$(function(){
+		$('#slides').slides({
+			preload: true,
+			preloadImage: 'img/loading.gif',
+			play: 5000,
+			pause: 2500,
+			hoverPause: true
+		});
+		
+		var optionsShown	= 2; // Initial rows shown & index
+		var optionsMore		= 2; // Increment
+		// var optionstotal = $('#owner_items_disp').find('tr').length; // Total # rows
+		var usit_ids = document.getElementsByName('usitids[]');
+		var usit_length = usit_ids.length;
+		 if(usit_length>optionsShown)
+		 {
+			var jj = optionsShown+1;
+			for (i=jj;i<=usit_length;i++){
+				$('#usitid_'+i).hide();
+		   }
+		 }
+		 else {
+			$('#all_options').remove();
+		 }
+		 
+		 
+		 $('#all_options').click(function(){
+		  optionsShownbefore = optionsShown+1;
+		  optionsShown = optionsShown + optionsMore;
+		  // no more show more if done
+		  if ( optionsShown >= usit_length ) $('#all_options').remove();
+		  // change rows remaining if less than increment
+		 // if ( usit_length - optionsShown < optionsMore ) $('#more span').html(usit_length - optionsShown);
+			for (i=optionsShownbefore;i<=optionsShown;i++){
+				$('#usitid_'+i).show();
+		   }
+		})
+		 
+		// var arr = new Array(); all_options
+		// var j=0;
+		 
+		// $('#side_bar_options')
+		  // .find('tr:gt(' + (22) + ')').hide().end();
+		
+		
+		
+		// var rowCount = $('#owner_items_disp >tbody >tr').length/2;
+		//alert(rowCount);
+		
+		var imgnum	=	$('#owner_items_disp').find('a').length;
+			
+		if(imgnum < 1)
+		{
+		$("#ad_detail_owner").hide();
+		}		
+		var numShown = 4; // Initial rows shown & index
+		var numMore = 100; // Increment
+		var numRows = $('#owner_items_disp').find('tr').length; // Total # rows
+		  
+		$('#owner_items_disp')
+		  .find('tr:gt(' + (numShown - 1) + ')').hide().end()
+		  .after('</td></tr><tr></tr><tr width="100%"><td>&nbsp;</td><td align="right" width="100%"><a href="#" id="more" class="showall">View All Listings</a></td></tr>');
+		   if ( numShown >= numRows ) $('#more').remove();
+
+		$('#more').click(function(){
+		  numShown = numShown + numMore;
+		  // no more show more if done
+		  if ( numShown >= numRows ) $('#more').remove();
+		  // change rows remaining if less than increment
+		  if ( numRows - numShown < numMore ) $('#more span').html(numRows - numShown);
+			$('#owner_items_disp').find('tr:lt('+numShown+')').show();
+		})
+
+	});
+				
+	function submitform()
+	{
+
+	   var address = document.getElementById("email").value;
+	   
+	  var filter  = /^([a-zA-Z0-9_.-])+@(([a-zA-Z0-9-])+.)+([a-zA-Z0-9]{2,4})+$/;
+			if (!filter.test(address))
+	 {
+		  alert('Invalid Email Address');
+		  return false;
+	   }
+	   else{
+	   alert("You have successfully subscribed to our Newsletter ");
+	  document.newsletter.submit();
+	  }
+	}
+
+	var WEBSITE_URL	=	'http://www.pigiame.co.ke';
+
+	function dologout() {
+
+		var tkn	=	readCookie('facebook_token');	
+		if(tkn !=null){
+		var URL	=	'https://www.facebook.com/logout.php?access_token='+tkn+'&confirm=1&next='+WEBSITE_URL+'/account/logout';
+		window.location.href=URL;
+		eraseCookie('facebook_token');
+		//logout();
+		//FB.logout();
+		//FB.logout(function(response) {});
+		//window.location='/account/logout';
+		}
+		else
+		{
+			window.location.href=WEBSITE_URL+'/account/logout';
+		}
+	}
+	
+	function createCookie(name,value,days) {
+		if (days) {
+			var date = new Date();
+			date.setTime(date.getTime()+(days*24*60*60*1000));
+			var expires = "; expires="+date.toGMTString();
+		}
+		else var expires = "";
+		document.cookie = name+"="+value+expires+"; path=/";
+	}
+
+	function readCookie(name) {
+		var nameEQ = name + "=";
+		var ca = document.cookie.split(';');
+		for(var i=0;i < ca.length;i++) {
+			var c = ca[i];
+			while (c.charAt(0)==' ') c = c.substring(1,c.length);
+			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+		}
+		return null;
+	}
+
+	function eraseCookie(name) {
+		createCookie(name,"",-1);
+	}
+	
+	function chkLogin(token)
+	{
+		var tkn	=	readCookie('facebook_token');
+		if(tkn == token)
+		{
+		
+			return true;
+		}
+		
+		return false;
+	}
+	
+	function user_menu(n){
+	$("#user_submenu").slideToggle();
+	//show_top_submenu('111');
+	}
+</script>
+</head>
+<body id="bd" class="ff3">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22775243-1']);
+  _gaq.push(['_setDomainName', 'pigiame.co.ke']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<div id="fb-root"></div>
+	<div id="fb-root"></div>
+	<div id="pgm-header" class="sitewidth txt-lft"> 
+		<!--Logo-->
+		 <h1 id="logo"><a href="http://www.pigiame.co.ke/"><span>Pigia me</span></a></h1>
+		 
+		 <!--Social-->
+		<div class="mod-content-social">
+		  <span class="social-tag">Follow us on: </span>
+		  <a href="https://www.facebook.com/pigiame"><img src="../images/facebook.png" alt="Facebook"></a> 
+		  <a href="http://twitter.com/pigiame"><img src="../images/twitter.png" alt="Twitter"></a>
+		</div>					 
+	</div>
+    <!--MENU-->
+	<div id="pgm-nav">
+       	<div id="pgm-mainmenu" class="menuwrap sitewidth txt-lft">
+			<ul>
+                <li><a href="http://www.pigiame.co.ke/"><span>Home</span></a></li>
+                <li><a href="http://www.pigiame.co.ke/"><span>All Categories</span></a></li>
+                <li><a href="http://www.pigiame.co.ke/works.php"><span>How it works</span></a></li>
+                <li><a href="http://www.pigiame.co.ke/user.php?action=ad_create&amp;c=66"><span>Post free ad<sup><img src="http://www.pigiame.co.ke/images/astrics.gif" width="10" height="9" alt=""></sup></span></a></li>
+                <li><a href="http://www.pigiame.co.ke/help.php"><span>Help</span></a></li>
+                <li><a href="#contact_box0" class="testtest"><span>Contact Us</span></a></li>
+				
+				<li class="rightfl">
+					<a href="#mydiv" class="mydiv">Sign in</a> or 
+					<a href="http://www.pigiame.co.ke/user.php">Create an account</a>
+				</li>
+	<div id="basic-modal">
+				<div id="user_submenu" class="menu_content">
+					<table cellspacing="0" cellpadding="0" width="100%" height="100%" border="0" class="top_submenu_table1">
+					<tbody><tr><td align="left" class="user_menu"><a href="http://www.pigiame.co.ke/user.php">Home</a></td></tr>
+					<tr><td align="left" class="user_menu"><a href="http://www.pigiame.co.ke/user.php?action=user_edit">Update profile</a></td></tr>
+					<tr><td align="left" class="user_menu"><a href="http://www.pigiame.co.ke/user.php?action=ad_create">New classified ad</a></td></tr>
+					<tr><td align="left" class="user_menu"><a href="http://www.pigiame.co.ke/user.php?action=show_classifieds">Your classifieds</a></td></tr>
+					<tr><td align="left" class="user_menu"><a href="http://www.pigiame.co.ke/user.php?action=orders">Your orders</a></td></tr>
+					<tr><td align="left" class="user_menu"><a href="http://www.pigiame.co.ke/user.php?action=user_favorites">Saved Items</a></td></tr>
+					</tbody></table>
+				</div>
+                
+     </div>
+			</ul>	
+		</div>
+	</div>
+	
+	    <!--END MENU-->
+	
+	
+	<!--MAIN CONTENT-->
+    <div id="pgm-wrap" class="sitewidth">
+    	<!--UTIL BAR-->
+    	<div class="pgm-utilbar">
+        	<ul class="steps">
+            	<li><a href="#"><span>1</span>Find anything you want</a></li>
+            	<li><a href="#"><span>2</span>Call the Seller</a></li>
+            	<li class="lastchild"><a href="#"><span>3</span>Close the Deal</a></li>
+            </ul>
+            <ul class="post">
+            	<li><a href="http://www.pigiame.co.ke/user.php?action=ad_create"><span><img src="../../images/postad.png" alt="Post your ad"></span></a></li>
+            </ul>
+        	<div class="clr"></div>
+        </div>
+    	<!--END OF UTIL BAR-->
+		
+        <!--SEARCH FORM-->
+		<div class="searchform">
+			<form name="searchForm" id="searchForm" method="get" action="http://www.pigiame.co.ke/search.php">
+				<input name="phrase" type="text" maxlength="50" value="Enter your serch term here: e.g. BMW, 2 Bed Flat,Sofa" onblur="if (this.value=='') this.value='Enter your serch term here: e.g. BMW, 2 Bed Flat,Sofa';" onfocus="if (this.value=='Enter your serch term here: e.g. BMW, 2 Bed Flat,Sofa') this.value='';" class="searchInput searchin">
+				<!--<select name="area_boss" id="category">#%first_areas_select%#</select>-->
+				<select name="area_boss" id="category">
+					<option value="">Select a category</option>
+					<option value="Accommodation &amp; Travel">Accommodation &amp; Travel</option>
+					<option value="Community">Community</option>
+					<option value="Events">Events</option>
+					<option value="For Sale">For Sale</option>
+					<option value="Jobs">Jobs</option>
+					<option value="Motor Vehicles">Motor Vehicles</option>
+					<option value="Personals">Personals</option>
+					<option value="Property">Property</option>
+					<option value="Services">Services</option>
+				</select>
+				<input type="image" src="http://www.pigiame.co.ke/images/searchbtn.png" name="B1" class="searchBtn">
+
+			</form>	
+		</div>
+		<div id="breadcrumb">
+					</div>
+        <!--MAIN CONTENT-->
+        <div class="pgm-content">	
+			<div class="" style="display:none;">
+				<div class="" id="contact_box0" style="width:700px">
+                
+                
+                
+                
+                
+                
+                			<div id="contact_form_wait0" name="contact_form_wait0"></div>
+
+        <form method="post" id="contact_form0" name="contact_form0" action="javascript:parse_ajax_request(document.getElementById('contact_form0'),'http://www.pigiame.co.ke/contact.php','contact_box0');">
+        <input type="hidden" name="what" value="0">
+        <input type="hidden" name="n" value="">
+        <input type="hidden" name="hide_cancel" value="">
+        
+        <div class="common_div1" style="width:700px;overflow:hidden;padding-bottom:0px;margin-bottom:0px;"><table border="0" width="100%" cellpadding="5" cellspacing="0" class="myinside_table">
+        
+        <tbody><tr><td align="left" colspan="2"><span class="text_bold">Contact Form</span></td></tr>
+        <tr>
+        <td nowrap="" align="left" valign="top" style="width:200px;">Message </td>
+        <td align="left"><textarea class="field10" name="message" rows="15" style="width:570px;"></textarea></td>
+        </tr>
+        <tr>
+        <td nowrap="" align="left" valign="top" style="width:200px;">Your Name </td>
+        <td align="left" valign="top"><input class="field10" maxlength="255" style="width:570px;" name="name" value=""></td>
+        </tr>
+        <tr>
+        <td nowrap="" align="left" valign="top" style="width:200px;">Email </td>
+        <td align="left" valign="top"><input class="field10" maxlength="255" style="width:570px;" name="email" value=""></td>
+        
+        </tr>
+        
+        <tr>
+         <td align="center" colspan="2">
+          <input type="image" src="http://www.pigiame.co.ke/images/submit.jpg" name="B1" value="Submit" onclick="show_waiting('contact_form_wait0');">
+        
+         &nbsp;
+           
+           <a href="javascript:$.fancybox.close();"><img src="http://www.pigiame.co.ke/images/cancel.jpg" alt="cancel"> </a>
+          
+         </td>
+        </tr>
+        </tbody></table>
+        </div>
+        
+        </form>
+
+</div>
+                
+                
+                
+                
+                </div>
+			</div> 
+	<div class="stay-safe">
+		<h2>Privacy Policy</h2>
+		<br><br>
+		Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.<br><br>
+		<ul>
+			<li>Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.</li>
+			<li>We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.</li>
+			<li>We will only retain personal information as long as necessary for the fulfillment of those purposes.</li>
+			<li>We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.</li>
+			<li>Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.</li>
+			<li>We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.</li>
+			<li>We will make readily available to customers information about our policies and practices relating to the management of personal information.</li>
+		</ul>
+		We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+	</div>
+
+
+
+<!-- preload the images -->
+<div style="display:none">
+	<img src="http://www.pigiame.co.ke/images/basic/x.png" alt="">
+</div>
+
+<div style="display:none">
+	<form id="set_location_form" name="set_location_form" method="post">
+	<div id="set_location" style="top: 123px; left: 313.5px; z-index: 800006; width: 371px; display: block;" class="oodle-lightbox change-loc o-msgbox o-shadow show-footer">
+		<div class="header" style=""><!-- <a class="close-x"><span>×</span></a>--><div class="change-loc-pin"></div>
+			 <h2>Change Location</h2>
+			 <div id="location-title-title">Find listings near you. Enter city name or postal code.</div>
+		</div>
+		<div class="content" style="">
+			<div id="location-container" class="dynamic-form clearfix">
+				<div id="location-loc_enter" class="clearfix section ">
+					<div class="autowidth row" id="location-country-row">
+						<div id="location-country-label" class="label">Area</div>
+						<span class="value">
+							<select name="country_popup_drpdwn" id="country_popup_drpdwn" class="field10" style="width:147px;">
+								<option value="2"> India</option>
+                                <option value="3">-  Andaman and Nicobar Islands</option>
+                                <option value="4">-  Andhra Pradesh</option>
+                                
+                                <option value="28">-  Arunachal Pradesh</option>
+                                <option value="5">-  Assam</option>
+                                <option value="32">-  Bihar</option>
+                                <option value="6">-  Chandigarh</option>
+                                <option value="35">-  Chhattisgarh</option>
+                                <option value="7">-  Dadra and Nagar Haveli</option>
+                                <option value="30">-  Daman and Diu</option>
+                                <option value="8">-  Delhi</option>
+                                <option value="31">-  Goa</option>
+                                
+                                <option value="9">-  Gujarat</option>
+                                <option value="10">-  Haryana</option>
+                                <option value="11">-  Himachal Pradesh</option>
+                                <option value="12">-  Jammu and Kashmir</option>
+                                <option value="36">-  Jharkhand</option>
+                                <option value="18">-  Karnataka</option>
+                                <option value="13">-  Kerala</option>
+                                <option value="14">-  Lakshadweep</option>
+                                <option value="33">-  Madhya Pradesh</option>
+                                
+                                <option value="15">-  Maharashtra</option>
+                                <option value="16">-  Manipur</option>
+                                <option value="17">-  Meghalaya</option>
+                                <option value="29">-  Mizoram</option>
+                                <option value="19">-  Nagaland</option>
+                                <option value="20">-  Orissa</option>
+                                <option value="21">-  Puducherry</option>
+                                <option value="22">-  Punjab</option>
+                                <option value="23">-  Rajasthan</option>
+                                
+                                <option value="27">-  Sikkim</option>
+                                <option value="24">-  Tamil Nadu</option>
+                                <option value="25">-  Tripura</option>
+                                <option value="34">-  Uttar Pradesh</option>
+                                <option value="37">-  Uttarakhand</option>
+                                <option value="26">-  West Bengal</option>
+                                <option value="1"> test area</option>
+							</select>
+						</span>
+					</div>
+					<div class=" row" id="location-location-row" style="padding-top:7px;">
+						<div id="location-location-label" class="label">Location</div>
+						<span class="value">
+							<input type="text" name="locationPopUp" id="locationPopUp" class="field10" style="width:139px;">
+						</span>
+					</div>
+					<div class=" row" id="location-location-row" style="padding-top:7px;">
+						<div id="location-location-label" class="label">Radius</div>
+						<span class="value">
+							<select name="loc_radius" id="loc_radius" class="field10" style="width:147px;">
+								<option value="1">1 Kilometres</option>
+								<option value="2">2 Kilometres</option>
+								<option value="5">5 Kilometres</option>
+								<option value="10">10 Kilometres</option>
+								<option value="20">20 Kilometres</option>
+								<option value="50">50 Kilometres</option>
+								<option value="100">100 Kilometres</option>
+								<option value="200" selected="">200 Kilometres</option>
+							</select>
+						</span>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer clearfix" style="padding-left:85px;padding-top:15px;">
+			<!--<input type="submit" value="Set Location" onclick="javascript:chngloc();" > -->
+			<input type="image" src="http://www.pigiame.co.ke/images/search.jpg" name="B1" value="Set Location" onclick="javascript:chngloc();">
+			
+		</div>
+	</div>
+	</form>
+</div>
+
+<script>
+	$(document).ready(function() {
+		$(".set_location").fancybox({
+			'transitionIn': 'elastic',
+            'transitionIn': 'none'
+		});
+		
+	});
+	
+	function chngloc() {
+		locationbox  = document.getElementById('locationPopUp').value;
+		country  = document.getElementById('country_popup_drpdwn').value;
+		loc_radius  = document.getElementById('loc_radius').value;
+		
+		document.getElementById('locationBox').value = locationbox;
+		document.getElementById('country_popup').value = country;
+		document.getElementById('location_radius').value = loc_radius;
+		
+		// document.set_location_form.country_popup_drpdwn.value=bb;
+		
+		document.location_form.submit();
+	}
+</script>
+
+<form id="location_form" name="location_form" method="post">
+				<input type="hidden" name="locationBox" id="locationBox">
+				<input type="hidden" name="country_popup" id="country_popup">
+				<input type="hidden" name="location_radius" id="location_radius">
+</form>
+
+<div style="display: none">
+	<div id="mydiv">
+		<div style="width:650px;">&nbsp;</div>
+			<form method="post" name="signin" id="signin" action="http://www.pigiame.co.ke/user.php?action=user_login">
+			<input type="hidden" name="action" value="user_login">
+			<input type="hidden" name="site_path" id="site_path" value="http://www.pigiame.co.ke">
+			
+			<table id="my" width="425" align="center" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+				<td align="center" class="gray49">Sign in</td>
+			</tr>
+
+			<tr>
+				<td align="center" class="gray13"><strong>Sign into your pigiame Accountss</strong></td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+				<td>
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td width="5"><img src="http://www.pigiame.co.ke/images/bbtl.gif" width="5" height="5" alt=""></td>
+					<td class="bbt"><img src="http://www.pigiame.co.ke/images/dot.gif" width="1" height="1" alt=""></td>
+					<td width="5"><img src="http://www.pigiame.co.ke/images/bbtr.gif" width="5" height="5" alt=""></td>
+				</tr>
+				<tr>
+					<td class="bbl"><img src="http://www.pigiame.co.ke/images/dot.gif" width="1" height="1" alt=""></td>
+					<td class="bbmid">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td align="center"><a id="fb-auth" href="javascript:void(0);" name="fb-auth"><img src="http://www.pigiame.co.ke/images/signin_fb.gif" width="223" height="42" alt=""></a></td>
+					</tr>
+					<tr>
+						<td>&nbsp;<div class="orimg"><img src="http://www.pigiame.co.ke/images/or.gif" width="425" height="44" alt=""></div></td>
+					</tr>
+					<tr>
+						<td><img src="http://www.pigiame.co.ke/images/dot.gif" width="1" height="55" alt=""></td>
+					</tr>
+					<tr>
+						<td>
+						<table width="90%" align="center" border="0" cellspacing="0" cellpadding="0">
+						<tbody><tr>
+							<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td width="7"><img src="http://www.pigiame.co.ke/images/einlft.gif" width="7" height="36" alt=""></td>
+								<td class="einbg">
+									<input class="inemailicon" type="text" name="email" placeholder="Email Address">
+								</td>
+								<td width="7"><img src="http://www.pigiame.co.ke/images/einrgt.gif" width="7" height="36" alt=""></td>
+							</tr>
+							</tbody></table>
+							</td>
+						</tr>
+						<tr>
+							<td>&nbsp;</td>
+						</tr>
+						<tr>
+							<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td width="7">
+									<img src="http://www.pigiame.co.ke/images/einlft.gif" width="7" height="36" alt="">
+								</td>
+								<td class="einbg">
+									<input class="inpassicon" type="password" maxlength="15" name="password" value="" placeholder="Password">
+								</td>
+								<td width="7">
+									<img src="http://www.pigiame.co.ke/images/einrgt.gif" width="7" height="36" alt="">
+								</td>
+							</tr>
+							</tbody></table>
+							</td>
+						</tr>
+						<tr>
+							<td>&nbsp;</td>
+						</tr>
+						<tr>
+							<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td width="20"><input type="checkbox" value="1" name="remember_me"></td>
+								<td>Keep me logged in for two weeks</td>
+							</tr>
+							</tbody></table>
+							</td>
+						</tr>
+						<tr>
+							<td>&nbsp;</td>
+						</tr>
+						<tr>
+							<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td width="140">
+									<a href="javascript:void(0);" onclick="userlogin();">	<img src="http://www.pigiame.co.ke/images/sign_in.gif" border="0"></a>
+								</td>
+								<td>
+									<a href="http://www.pigiame.co.ke/user.php?action=user_remind" class="bluelink15"><strong>Forget password?</strong></a></td>
+							</tr>
+							</tbody></table>
+							</td>
+						</tr>
+						</tbody></table>
+						</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+					</tbody></table>
+				</td>
+				<td class="bbr"><img src="http://www.pigiame.co.ke/images/dot.gif" width="1" height="1" alt=""></td>
+				</tr>
+				<tr>
+					<td><img src="http://www.pigiame.co.ke/images/bbbl.gif" width="5" height="5" alt=""></td>
+					<td class="bbb"><img src="http://www.pigiame.co.ke/images/dot.gif" width="1" height="1" alt=""></td>
+					<td><img src="http://www.pigiame.co.ke/images/bbbr.gif" width="5" height="5" alt=""></td>
+				</tr>
+				</tbody></table>
+				</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+				<td>
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td width="5"><img src="http://www.pigiame.co.ke/images/bbtl.gif" width="5" height="5" alt=""></td>
+					<td class="bbt"><img src="http://www.pigiame.co.ke/images/dot.gif" width="1" height="1" alt=""></td>
+					<td width="5"><img src="http://www.pigiame.co.ke/images/bbtr.gif" width="5" height="5" alt=""></td>
+				</tr>
+				<tr>
+					<td class="bbl"><img src="http://www.pigiame.co.ke/images/dot.gif" width="1" height="1" alt=""></td>
+					<td class="bbmid">
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td class="newtxt"><strong>New to pigiame? <a href="http://www.pigiame.co.ke/user.php">Sign up here</a> to join</strong></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td class="bbr"><img src="http://www.pigiame.co.ke/images/dot.gif" width="1" height="1" alt=""></td>
+				</tr>
+				<tr>
+					<td><img src="http://www.pigiame.co.ke/images/bbbl.gif" width="5" height="5" alt=""></td>
+					<td class="bbb"><img src="http://www.pigiame.co.ke/images/dot.gif" width="1" height="1" alt=""></td>
+					<td><img src="http://www.pigiame.co.ke/images/bbbr.gif" width="5" height="5" alt=""></td>
+				</tr>
+				</tbody></table>
+				</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+			</tr>
+			</tbody></table>
+			</form>
+			
+			<form id="cat_filter" name="cat_filter" method="post" action="">
+				<input type="hidden" name="category_ids" id="category_ids">
+				
+			</form>
+
+			<form id="list_page_view" name="list_page_view" method="post">
+				<input type="hidden" name="page_view_type" id="page_view_type">
+			</form>
+
+<script>
+function show(n) {
+	$('#fb-comments'+n).toggle();
+}
+
+function userlogin() {
+	var data	=	$('#signin').serialize();
+	$.ajax({
+		type: "POST",
+		url: $('#site_path').val()+'/user.php',
+		data: data,
+		success: function(msg) {
+			var response	=	eval('('+msg+')');
+			if(response['status']	==	1) {
+				window.location	=$('#site_path').val();
+			}
+			else {
+				$('#mydiv').prepend(response['message']);
+			}
+		}
+	});
+}
+</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+		//$('#mydiv').hide();
+        $(".mydiv").fancybox({
+			'transitionIn': 'elastic',
+			'transitionOut': 'none',				
+        });
+		
+		
+			$(".testtest").fancybox({
+				'transitionIn': 'elastic',
+				'transitionOut': 'none',
+				'autoSize'   : true		
+			});
+		
+		
+		
+	});
+	
+	var button;
+    var userInfo;
+            
+    window.fbAsyncInit = function() {
+        FB.init({ appId: '453047388039398', //change the appId to your appId
+                status: true, 
+                cookie: true,
+                xfbml: true,
+                oauth: true});
+
+				//  showLoader(true);
+               
+				function updateButton(response) {
+					//FB.logout();
+                    button       =   document.getElementById('fb-auth');
+                    userInfo     =   document.getElementById('user-info');
+					                   
+                    if (response.authResponse) {					
+						createCookie('facebook_token',response.authResponse.accessToken,.04); 
+						if (chkLogin(response.authResponse.accessToken)) {
+							//alert('login using site');
+						}
+						else {
+						//	FB.logout();
+							//return false;
+						}
+					
+                        //user is already logged in and connected
+                        FB.api('/me', function(info) {                           
+							createCookie('facebook_token',response.authResponse.accessToken,.04); 
+							//login(response, info);
+                        });
+                    } else {
+					    //user is not connected to your app or logged out
+						//button.innerHTML = 'Login';
+                        button.onclick = function() {
+                            showLoader(true);
+                            FB.login(function(response) {
+								if (response.authResponse) {
+                                    FB.api('/me', function(info) {
+										createCookie('facebook_token',response.authResponse.accessToken,.04);
+								        login(response, info);
+                                    });	   
+                                } else {
+                                    //user cancelled login or did not grant authorization
+                                    showLoader(false);
+                                }
+                            }, {scope:'email,user_birthday,status_update,publish_stream,user_about_me'});  	
+                        }
+                    }
+                }
+                // run once with current status and whenever the status changes
+				              
+                FB.getLoginStatus(updateButton);
+                FB.Event.subscribe('auth.statusChange', updateButton);	
+	};
+    
+	(function() {
+        var e = document.createElement('script'); e.async = true;
+        e.src = document.location.protocol 
+                + '//connect.facebook.net/en_US/all.js';
+        document.getElementById('fb-root').appendChild(e);
+    }());
+            
+            
+	function login(response, info){
+		if (response.authResponse) {
+			var accessToken       =   response.authResponse.accessToken;
+			var facebook_token	=	readCookie('facebook_token');
+			if(accessToken == facebook_token){
+				facebookLogin(info);
+			}
+		}
+	}
+        
+	function logout(response){
+		userInfo.innerHTML                             =   "";
+		document.getElementById('debug').innerHTML     =   "";
+		document.getElementById('other').style.display =   "none";
+		showLoader(false);
+	}
+
+	//stream publish method
+	function streamPublish(name, description, hrefTitle, hrefLink, userPrompt){
+		showLoader(true);
+		FB.ui(
+		{
+			method: 'stream.publish',
+			message: '',
+			attachment: {
+				name: name,
+				caption: '',
+				description: (description),
+				href: hrefLink
+			},
+			action_links: [
+				{ text: hrefTitle, href: hrefLink }
+			],
+			user_prompt_message: userPrompt
+		},
+		function(response) {
+			showLoader(false);
+		});
+	}
+	
+	function showStream(){
+		FB.api('/me', function(response) {
+			//console.log(response.id);
+			streamPublish(response.name, 'I like the articles of Thinkdiff.net', 'hrefTitle', 'http://192.168.10.137/gold_classifieds', "Share pigiame");
+		});
+	}
+
+	function share(url){
+		showLoader(true);
+		var share = {
+			method: 'stream.share',
+			u: url
+		};
+
+		FB.ui(share, function(response) { 
+			showLoader(false);
+			console.log(response); 
+		});
+	}
+            
+	function showLoader(status){
+		if (status)
+			document.getElementById('loader').style.display = 'block';
+		else
+			document.getElementById('loader').style.display = 'none';
+	}
+    
+	$(function(){
+			
+		$('#btnNext').click(function(){
+			showLoader(false);		
+			$.ajax({
+				url: "/account/newaccountviafacebook",
+				type:"POST",
+				data: {'acct_type':$('#select_acct_type').val()},
+				success:function(response){
+					if(response == 'success') {
+						window.location.reload();
+					}
+					else {
+						alert(response);
+					}
+				}
+			});	
+		});		
+	});
+	   
+	function chk_validation()
+	{
+		document.getElementById('loginMsg_null').innerHTML="";
+		var bool=true;
+		var element_focus='';
+		
+		if (document.getElementById('username').value==""){			
+			document.getElementById('error_username').innerHTML="Please enter your user name";
+			if(element_focus=='') {
+				element_focus	=	'username';
+			}
+			bool=false;
+		}
+		else {
+			document.getElementById('error_username').innerHTML="";
+		}
+		
+		if (document.getElementById('password').value==""){			
+			document.getElementById('error_password').innerHTML="Please enter password";
+			if(element_focus=='') {
+				element_focus	=	'password';
+			}
+			bool=false;
+		}
+		else {
+			document.getElementById('error_password').innerHTML="";
+		}
+		return bool;
+	}
+	
+	function facebookLogin(data)
+	{		
+		$.ajax({
+				url: WEBSITE_URL+"/facebook_login.php",
+				type:"POST",
+				data: data,  
+				sync:false,
+				success:function(response){
+					var res	=	eval('('+response+')');
+					if(res['status']==1) {
+						//eraseCookie('facebook_token');
+						window.location.reload();
+					}
+					else {
+						alert(response);
+					}
+				}
+		});	
+	} 
+
+	$(function(){
+		
+	//$("#best_match").hide();
+	$("#best_match_div").hide();
+	//$("#child_cats").hide();
+	
+		
+	});
+	
+	function show_best_match()
+	{
+	var data = $("#best_match").html();
+	//alert(data);
+	$("#best_match_div").html(data);
+	$("#best_match_div").slideToggle();
+	
+	}
+	
+		function show_child_cats()
+	{
+	var p_data = $("#sub_cats").html();
+	
+	$("#child_cats").html(p_data);
+	$("#child_cats").slideToggle();
+	
+	}
+		   
+</script>
+	</div>
+</div>
+
+
+<!--FOOTER-->
+    <div class="clr"></div>
+	</div>
+
+    <div id="pgm-footerwrap">
+    	<div class="pgm-footer sitewidth">
+       	  <div class="cols col1">
+            	<h3>pigiame</h3>
+                  <ul>
+                  	<li><a href="http://www.pigiame.co.ke/stay_safe.php">Stay Safe</a></li>
+                    <li><a href="http://www.pigiame.co.ke/user.php">Advertising on pigiame</a></li>
+                    <li><a href="http://www.pigiame.co.ke/issue.php">Report an issue on pigiame</a></li>
+                  </ul>
+          </div>
+            <div class="cols col2">
+            	<h3>business users</h3>
+				<a href="http://www.pigiame.co.ke/accommodation-travel/"> Accommodation &amp; Travel</a>
+ <br><a href="http://www.pigiame.co.ke/community/"> Community</a>
+ <br><a href="http://www.pigiame.co.ke/events/"> Events</a>
+ <br><a href="http://www.pigiame.co.ke/forsale/"> For Sale</a>
+ <br><a href="http://www.pigiame.co.ke/jobs/"> Jobs</a>
+ <br><a href="http://www.pigiame.co.ke/motorvehicles/"> Motor Vehicles</a>
+ <br>          </div>
+            <div class="cols col3">
+            	<h3>newsletter sign up</h3>
+                <p>sign up to receive the latest updates on pigiame</p>				
+				<form action="http://www.pigiame.co.ke/newsletter.php" method="post" id="newsletter" name="newsletter">
+                	<input type="text" class="subscribe inputbox" name="email" id="email"><br>
+					<input type="button" value="subscribe" class="subscribe submitBtn" onclick="javascript:submitform();">
+					<input type="hidden" name="subscribe_cat" value="#%parent%#">
+				</form>		
+            </div>
+            <div class="clr"></div>
+            <div class="footermenu">
+            	<ul>
+                	<li><a href="http://www.pigiame.co.ke/help.php"><span>Help</span></a></li>
+                    <li><a href="#contact_box0" class="testtest"><span>Contact us</span></a></li>
+            	    <li><a href="http://www.pigiame.co.ke/about.php"><span>About pigiame</span></a></li>
+            	    <li><a href="http://www.pigiame.co.ke/user.php?action=ad_create#%submit_ad_c%#"><span>Business advertising</span></a></li>
+            	    <li><a href="http://www.pigiame.co.ke/privacy.php"><span>Privacy policy</span></a></li>
+            	    <li><a href="http://www.pigiame.co.ke/terms_of_use.php"><span>Terms of use</span> </a></li>
+            	    <li><a href="http://www.pigiame.co.ke/sitemap.php"><span>Site map</span></a></li>
+            	</ul>
+            </div>
+        </div>
+    </div>
+    <!--END FOOTER-->
+
+</body></html>
