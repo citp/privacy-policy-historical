@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insiderpages.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610021957id_/http%3A//www.insiderpages.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insiderpages.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207023504id_/http%3A//www.insiderpages.com/legal/privacy) for the most accurate reproduction.*
 
 # Insider Pages Privacy Policy
 
