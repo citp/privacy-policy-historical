@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southeasttexas.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526023425id_/http%3A//southeasttexas.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southeasttexas.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207063107id_/http%3A//southeasttexas.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # southeasttexas.com - Privacy Policy
 
