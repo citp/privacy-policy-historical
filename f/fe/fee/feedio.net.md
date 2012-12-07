@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedio.net privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608082438id_/http%3A//funny-pictures.feedio.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedio.net privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207111436id_/http%3A//funny-pictures.feedio.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Funny Pictures | Funny Photos | Funny Images
 
