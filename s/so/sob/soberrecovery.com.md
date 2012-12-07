@@ -1,16 +1,38 @@
-> *The following text is extracted and transformed from the soberrecovery.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210055939id_/http%3A//www.soberrecovery.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soberrecovery.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207131833id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Dwww.soberrecovery.com) for the most accurate reproduction.*
 
-# Untitled Document
+# Privacy Policy
 
-**Privacy Policy**
+## Privacy Policy Highlights
 
+Internet Brands, Inc. and its subsidiaries operate websites, provide services through mobile and other applications, and develop software. We govern these with a single privacy policy. This notice provides highlights of our full [Privacy Policy](https://web.archive.org/web/20121207131833id_/http://www.internetbrands.com/privacy/privacy-main.html). It briefly describes the collection and use of information when you use or interact with our branded websites, services, and software, operating under different branded names. Also visit our [FAQ page](https://web.archive.org/web/20121207131833id_/http://www.internetbrands.com/privacy/privacy-faq.html) for answers to common questions.
+
+  * ### Personal Information
+
+We collect personal information for various business purposes when you interact with us, such as providing you with a subscription, processing your order, responding to requests for service or assistance, creating and improving our products and services, suggesting additional or different products or services, and protecting our rights and property. We collect information about you in two basic ways. First, we receive information directly from you. Second, through use of cookies and other technologies, we keep track of your interactions.
+
+  * ### Your Choices
+
+    * You can stop receiving promotional emails from us by following the instructions in the email you receive.
+    * You may cancel your registration or deactivate your account, or update your preferences at any time.
+    * You can manage cookies using your browser controls.
+    * You can [opt out](https://web.archive.org/web/20121207131833id_/http://www.internetbrands.com/privacy/privacy-main.html#section4) of the use of certain cookies.
+    * Individual products or services may offer additional controls or preferences.
+  * ### Uses of Information
+
+Your information is used to fulfill your requests and communicate with you, operate, support and improve our sites, products and services, conduct internal research, and personalize the content, products, services and advertisements offered to you.
+
+  * ### How to Contact Us
+
+    * Use our Privacy [Contact form](https://web.archive.org/web/20121207131833id_/http://www.internetbrands.com/privacy/privacy-contact-form.php), or write to us at the address below.
   
-When you register, we require you to provide certain demographic details. We keep that information in a secure database, and place a "cookie" on your computer's hard drive, so that we can recognize you whenever you come to the site. We use information to make your experience better - to tailor our service according to your likes and tastes. We will occasionally send you emails keeping you updated about changes, new features, special member offers etc. 
 
-**Our Promise**
+    * Privacy Office
+    * Internet Brands, Inc.
+    * 909 N. Sepulveda Blvd., 11th Floor
+    * El Segundo, CA 90245 U.S.A.
+  * ### Information Sharing
 
-  
-We will never share or sell your personal information with anyone else, unless we have your explicit permission to do so. And except for use in tailoring our site to your needs and interests, we will never use any information about you in any way except in aggregate (i.e., when we tell a potential business partner that "x percent of our audience is made up of women"). And we always give you an option of whether or not you want to receive any information about offers and promotions from us. 
+We do not sell, rent or provide your personal information to third parties that are unaffiliated with Internet Brands. Your personal information is shared with third parties with your consent, except in circumstances where the law requires it to be shared.
 
-soberrecovery.com  
+
 
