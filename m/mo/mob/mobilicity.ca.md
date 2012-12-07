@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mobilicity.ca privacy policy that was archived on 2012-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120328101136id_/http%3A//mobilicity.ca/uploads/pdfs/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilicity.ca privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207012607id_/http%3A//mobilicity.ca/media/files/documents/Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # 
 
-                                   Privacy Policy
+                                  Privacy Policy
 This agreement is strictly confidential and proprietary to Data & Audio-Visual Enterprises Wireless Inc.
 “Mobilicity” and the logo are trademarks of Data & Audio-Visual Enterprises Wireless Inc. Distribution, copy
 or any other use of this agreement and/or the trademarks without the written consent of Data & Audio-Visual
@@ -14,10 +14,11 @@ PRIVACY POLICY
 INFORMATION WE COLLECT
 Data & Audio-Visual Enterprises Wireless Inc. and its affiliates ("Mobilicity"), have adopted a
 privacy policy that limits what Mobilicity can do with customer’s Personal Information. Personal
-Information includes information about an identifiable individual other than the name and address,
-such as credit card information, information collected through our website or other information we
-may collect from you from time to time. If you are applying to come and work with us, your
-resume and references would also be included as Personal Information.
+Information includes information about an identifiable individual other than the name, address,
+email and Mobilicity phone number, such as credit card information, information collected through
+our website or other information we may collect from you from time to time. If you are applying to
+come and work with us, your resume and references would also be included as Personal
+Information.
 USE OF YOUR PERSONAL INFORMATION
 Mobilicity may use or collect Personal Information about you to help us provide services to you,
 such as to respond to your requests, verify your identity, provide services to you, process
@@ -27,7 +28,7 @@ information regarding our products or services, develop or enhance our products 
 manage and develop our business and operations or generally maintain our relationship with you.
 We may also use information you provide us, including information about your personal
 preferences to provide you with personalized messages and promotions for products and
-services. We may select the messages and promotions you receive based the information you
+services. We may select the messages and promotions you receive based on the information you
 have provided to us and your previous responses and other communications with us. We may
 also use your call usage patterns and the other information you have provided to us to determine
 the number and frequency of the messages we send to you.
@@ -76,4 +77,4 @@ Please contact us by mailing your concerns to us at 101 Exchange Avenue, Vaughan
 Canada L4K 5R6 Attention: Privacy or emailing us at privacy@mobilicity.ca if you have any
 questions or concerns about handling your Personal Information.
 Our privacy policy may change from time to time, so please check with us periodically.
-Proprietary and Confidential                                                                 2
+Proprietary and Confidential                                                                  2
