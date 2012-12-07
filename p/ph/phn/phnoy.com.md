@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phnoy.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504020932id_/http%3A//www.phnoy.com/2010/10/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phnoy.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207084447id_/http%3A//www.phnoy.com/2010/10/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ Phnoy - Pinoy TV Online
 
