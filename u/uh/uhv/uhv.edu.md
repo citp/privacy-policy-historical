@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhv.edu privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606054454id_/http%3A//www.uhv.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhv.edu privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207072121id_/http%3A//www.uhv.edu/privacy.aspx) for the most accurate reproduction.*
 
 # University of Houston-Victoria | Privacy Policy
 
@@ -14,4 +14,4 @@ For site management functions, information is collected for analysis and statist
 
 We use log analysis tools to create summary statistics, which are used for purposes such as assessing what information is of most interest, determining technical design specifications, and identifying system performance or problem areas.
 
-## [UHV Web Policy](https://web.archive.org/web/20120606054454id_/http%3A//www.uhv.edu/it/Web_guidelines/web_policies.aspx)
+## [UHV Web Policy](https://web.archive.org/web/20121207072121id_/http%3A//www.uhv.edu/it/Web_guidelines/web_policies.aspx)
