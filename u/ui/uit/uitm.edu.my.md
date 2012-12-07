@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the uitm.edu.my privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608043335id_/http%3A//www.uitm.edu.my/index.php/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uitm.edu.my privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207092640id_/http%3A//www.uitm.edu.my/index.php/en/privacy-statement) for the most accurate reproduction.*
 
-# Universiti Teknologi MARA (UiTM) Official Website - Privacy Statement
+# Official Portal of Universiti Teknologi MARA (UiTM) - Privacy Statement
+
+Friday, 7th December 2012 
 
 ### **Privacy Policy**
 
