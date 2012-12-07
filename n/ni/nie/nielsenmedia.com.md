@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the nielsenmedia.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205181718id_/http%3A//www.nielsen.com/us/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nielsenmedia.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207063627id_/http%3A//nielsen.com/us/en/privacy-policy.html) for the most accurate reproduction.*
 
-# Nielsen | Privacy Policy
+# Privacy Policy
 
-[](https://web.archive.org/us/en/privacy-policy/privacy-print.html)[](mailto:nielsencommunications@nielsen.com?subject=Nielsen%20Privacy%20Policy)
+[](https://web.archive.org/us/en/privacy-policy/privacy-print.html)[](mailto:nielsencookieoptout@nielsen.com?subject=Nielsen%20Privacy%20Policy)
 
-**Effective Date: September 15, 2010**
+**Effective Date: August 7, 2012**
 
 This privacy notice covers the collection and use of information for this website, <http://www.nielsen.com/us/en/> (“this website” or “we”). This website is owned by The Nielsen Company.
 
-## About The Nielsen Company
+## About Nielsen
 
-The Nielsen Company (NYSE: NLSN) is a global information and measurement company with leading market positions in marketing and consumer information, television and other media measurement, online intelligence, mobile measurement, trade shows and related assets. The company has a presence in approximately 100 countries, with headquarters in New York, USA. For more information please visit [www.nielsen.com](http://www.nielsen.com/).
+Nielsen (NYSE: NLSN) is a global information and measurement company with leading market positions in marketing and consumer information, television and other media measurement, online intelligence, mobile measurement, trade shows and related assets. The company has a presence in approximately 100 countries, with headquarters in New York, USA. For more information please visit [www.nielsen.com](http://www.nielsen.com/).
 
 ## What information we collect and how we use it
 
@@ -20,7 +20,7 @@ We ask those that seek a career at Nielsen to complete an application and provid
 
 ## Cookies and Web beacons
 
-To keep track of your choice of language and home page preference, we place a cookie on your computer. A cookie is a small amount of data, which often includes an anonymous unique identifier, sent to your browser from a website's computers and stored on your computer's hard drive. Our “preference” cookie expires after thirty (30) days. We also use a small piece of code (sometimes referred to as “1x1 clear pixel,” “Web beacon” or “clear GIF”) placed in the pages of our website to help us gather additional information about which parts of the site receive the most visitors and other user traffic patterns, and enable us to administer the site. We also use cookies to understand your Internet usage, including other websites that you visit and, occasionally, your exposure to certain Internet advertisements as you surf the Web. To opt out of this explicitly, please [click here](http://server-us.imrworldwide.com/cgi-bin/o?oo=total&tu=http://www.netratings.com/privacy_opt.jsp?section=leg_opt%26opt=2). If you decide that you want your web surfing to be tracked, please [click here](http://server-us.imrworldwide.com/cgi-bin/o?oo=cancel&tu=http://www.netratings.com/privacy_opt.jsp?section=leg_opt). 
+To keep track of your choice of language and home page preference, we place a cookie on your computer. A cookie is a small amount of data, which often includes an anonymous unique identifier, sent to your browser from a website's computers and stored on your computer's hard drive. Our “preference” cookie expires after thirty (30) days. We also use a small piece of code (sometimes referred to as “1x1 clear pixel,” “Web beacon” or “clear GIF”) placed in the pages of our website to help us gather additional information about which parts of the site receive the most visitors and other user traffic patterns, and enable us to administer the site. We also use cookies to understand your Internet usage, including other websites that you visit and, occasionally, your exposure to certain Internet advertisements as you surf the Web. To opt out of this explicitly, please [click here](http://server-us.imrworldwide.com/cgi-bin/o?oo=total&tu=http://www.nielsen.com/content/corporate/policy/en/cookie-policy.html). 
 
 No personally-identifiable information is contained in our cookies or transmitted through our Web beacons.
 
@@ -32,7 +32,7 @@ From time to time, and notwithstanding any other provision of this Notice, we ma
 
 ## Children
 
-This site is not directed at children under the age of 13 and does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that this site has collected the personally-identifiable information of a child under the age of 13, please contact [nielsencookieoptout@nielsen.com](mailto:nielsencookieoptout@nielsen.com) and we will use our best efforts to remove the information from our records.
+This site is not directed at children under the age of 13 and does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that this site has collected the personally-identifiable information of a child under the age of 13, please [contact us](http://www.nielsen.com/us/en/campaigns/privacy-policy-opt-out.html) and we will use our best efforts to remove the information from our records.
 
 ## Access to your information
 
@@ -40,9 +40,9 @@ You may contact us if at any time you would like to see the personally identifia
 
 ## Data storage, transfers and security
 
-We may store the personal details we hold about you for as long as needed, which may be indefinitely. We may store this information in the United States or we may transfer it to any other country. The data protection laws in countries to which personal data are transferred may or may not provide a level of protection equivalent to the laws in your home country. Wherever we hold the data, we will apply the terms of this Notice and any applicable data protection law. We maintain certain procedures to protect the confidentiality, security and integrity of personally identifiable information while it is controlled by us. However, the storage and communication of personal data cannot always be completely secure. Also, we cannot and do not guarantee that data transferred to third parties in accordance with this Notice will be protected against intentional or accidental misuse or loss.
+We may store the personal details we hold about you for as long as needed, for the purposes described in this policy, and in accordance with law. Your information may be stored in the United States or elsewhere but in any event will be stored using administrative, managerial and technical measures to protect its confidentiality. Please remember that storage and communication of personal data cannot always be one-hundred percent secure.
 
-Please contact us if you have questions or wish to take any action with respect to information to which this Notice applies. You can reach us by sending an email to [nielsencookieoptout@nielsen.com](mailto:nielsencookieoptout@nielsen.com).
+Please [contact us](http://www.nielsen.com/us/en/campaigns/privacy-policy-opt-out.html) if you have questions or wish to take any action with respect to information to which this Notice applies.
 
 ## We may change this Notice and our data collection and management practices.
 
