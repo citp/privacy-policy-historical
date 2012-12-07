@@ -1,100 +1,115 @@
-> *The following text is extracted and transformed from the raceroster.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raceroster.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207151659id_/http%3A//raceroster.com/privacy_policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Race Roster – Event Management Platform » Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+As of May 30, 2012.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Welcome to Fast North Corp., operating as Race Roster (“Company”, “we”, “us” and/or “our”).  Race Roster is designed to help users across North America manage, market, and increase revenue to their event. Our systems make it easy for Directors to manage their events, and event Participants to share the events they are attending with people they know. We do this through our websites and domains, the services available on or through our websites and domains or otherwise provided by us, and the software available on or through our websites and domains or otherwise provided by us (including any future mobile applications that may developed alongside raceroster.com) (collectively, the “Services”).
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+## **PRIVACY POLICY:**
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+This Privacy Policy sets forth our policy with respect to information, including personally identifiable information (“Personal Data”), that is collected from users of and/or visitors to the Services (including through those users’ and visitors’ agents) (“you” or “your”), including (i) registered users who are event managers and planners (“Managers”), (ii) users who want to purchase event entry, register for or donate to events (whether free or paid) listed by Managers on the Services (“Registrants”), and (iii) other non-Managers users or visitors to the Services (“other non-managers”).
 
-**Information Collection and Use**
+We take the privacy of your Personal Data and other information very seriously. Because of that, we have created this Privacy Policy. Please read this Privacy Policy as it includes important information regarding your Personal Data and other important information.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+If you have any questions or concerns, please do not hesitate to [contact us](http://raceroster.com/contact-us/).
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**CONSENT:  ** **By using the Services or allowing someone to use the Services on your behalf, you are consenting to our collection, use, disclosure, transfer and storage in accordance with this Privacy Policy of any Personal Data or other information received by us as a result of such use.**
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**Information We Collect:**
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+When you interact with us through the Services, we may collect Personal Data and other information from you or someone on your behalf, as further described below: ** **
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**1\. Personal Data:**
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**Managers:** We collect Personal Data from you when you voluntarily provide such information to the Services, such as when you register for access to the Services as a Manager, contact us with inquiries, or use certain Services. The Personal Data we may collect includes without limitation your name, address, email address and other personally identifiable information. In some cases we may collect your credit card information (e.g., your credit card number and expiration date, billing address, etc.), some of which may constitute Personal Data, to secure certain payments. In addition, if you use our payment processing services, we will collect financial information from you (e.g., your bank account information or an address to send checks) as necessary to facilitate payments and information required for tax purposes (e.g., your taxpayer identification number).
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Registrants and other non-managers:** We collect Personal Data from you when you voluntarily provide such information to the Services (including event registration pages within the Services), such as when you register for access to the Services (whether as a Manager or otherwise), register for an event as a Registrant, contact us with inquiries, respond to one of our surveys or use certain parts of the Services. The Personal Data we may collect includes without limitation your name, address, email address, zip or postal code and other personally identifiable information. If you register for a paid event, we will collect financial information from you (e.g., your credit card number and expiration date, billing address, etc.) some of which may constitute Personal Data. In addition, Managers can set up event registration pages to collect virtually any information from Registrants in connection with registration for a Manager’s event listed on the Services. If a Registrant voluntarily provides that information in connection with registration for an event or otherwise, it will be available to us and will be held by us in accordance with this Privacy Policy. In addition, such information will be delivered to the Manager of the applicable event in accordance with “Our Disclosure of Information That We Collect: Manager” below.
 
-**Security**
+**Privacy Policy Links:** We make an effort to provide a link to this Privacy Policy in the footer of every page on our websites, including those pages on which Personal Data is collected, and to make it available in all of our software.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**2\. Non-Personal Data:**
 
-**Updating Your Information**
+**Non-Identifiable Data:** When you interact with the Services, we collect certain personally non-identifiable information (“Non-Personal Data”). The Non-Personal Data we collect includes without limitation Internet Protocol (IP) addresses, Internet browser type, other characteristics of your device and software, domain names of your Internet Service Provider, your approximate geographic location, a record of your usage of the Services, the time of your usage and aggregated Personal Data that cannot be used to specifically identify you. Such information, which is collected passively using various technologies, cannot, in and of itself, be used to specifically identify you. We also collect Non-Personal Data (including, without limitation, of the type set forth above) from third parties. The information we collect from third parties may be combined with the information we collect.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**Cookies and Other Session Identifiers:** In operating the Services, we use a technology called “cookies.” A cookie is a piece of information that is placed on your browser when you access the Services. Our cookies help provide additional functionality to the Services and help us analyze Service usage more accurately. For instance, our Services may set a cookie on your browser that allows you to access the Services without needing to remember and then enter a password more than once during a visit. These cookies may be used to tailor content (including advertising) you see on the Services as well as other Internet sites that you may visit in the future. Cookies may be session cookies (i.e., last only for one browser session) or persistent cookies (i.e., continue in your browser until they are deleted or expire).Through your web browser’s option settings you may be able (i) to receive notifications when you are receiving new cookies, (ii) to disable cookies or (iii) to delete cookies. Please refer to your web browser’s help section for information on how to do this. We recommend that you leave cookies turned on because they allow you to take advantage of some of the features of the Services. In addition to the types of cookies described above, we use local shared objects, also known as “Flash cookies,” and HTML 5 Local Storage for various purposes, including for fraud prevention and to display content (both on and off the Services) based upon what you view on the Services. Local shared objects and HTML 5 Local Storage are different from cookies described above. Cookie management tools provided by your browser may not remove local shared objects or HTML 5 Local Storage.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**Aggregated Personal Data:** In an ongoing effort to better understand and serve the users of the Services, we often conduct research on our customer demographics, interests and behavior based on Personal Data and other information that we have collected. This research may be compiled and analyzed on an aggregate basis and this aggregate information does not identify you personally and therefore is considered and treated as Non-Personal Data under this Privacy Policy.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**Our Use of Information That We Collect:**
 
-      iii.      You may call us at: (480) 505-8800
+**1\. Personal Data:**
 
-       iv.      You may fax us at: (480) 505-8844
+We use the Personal Data we collect in a manner that is consistent with this Privacy Policy. We may use the Personal Data as follows:
 
-**Sending Emails**
+**          Specific Reason:** If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem and will respond to the email address from which the contact came.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+**          Access and Use:** If you provide Personal Data in order to obtain access to or use of the Services or any functionality thereof, we will use your Personal Data to provide you with access to or use of the Services or functionality and to monitor your use of such Services or functionality. For instance, if you supply payment information (e.g., bank account or credit card information) to the Services for the purpose of registering as a Registrant or processing payments as a Manager we will use that information to facilitate such purchase or process such payments.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+**          Internal Business Purposes:** We may use your Personal Data for internal business purposes including without limitation to help us improve the content and functionality of the Services, to better understand our users, to improve the Services, to protect against, identify or address fraudulent activities, to enforce our Terms of Service, to manage your account and provide you with customer service, and to generally manage the Services and our business.
 
-**Compliance with Laws and Law Enforcement**
+**          Marketing:** We may use your Personal Data to contact you in the future for our marketing and advertising purposes, including without limitation to inform you about services or events we believe might be of interest to you, to develop promotional or marketing materials and provide those materials to you, and to display content and advertising on or off the Services that we believe might be of relevance to you. In particular, Managers should note that we may use information we receive or collect regarding Registrants (including without limitation via a Manager’s event registration page) in accordance with the terms of this Privacy Policy, including in the manner set forth above.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**          Manager Emails:** We allow Managers to use our email system to contact Registrants for their current and past events, so you may receive emails from our system that originate with such Managers.
 
-**Third Party Service Providers**
+If we intend to use any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected or we will obtain your consent subsequent to such collection but prior to such use.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+**2\. Non-Personal Data:**
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Because Non-Personal Data cannot be used to personally identify you, we may use non-personal data for any lawful purpose.
 
-**Supplementation of Information**
+**Our Disclosure of Information That We Collect:**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+**1\. Personal Data:**
 
-**Contests/Surveys**
+We will not sell your Personal Data to third parties, including third party advertisers. There are, however, certain circumstances in which we may disclose, transfer or share your Personal Data with certain third parties without further notice to you, as set forth below:
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+**Business Transfers:** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. You acknowledge and agree that any successor to or acquiror of the Company (or its assets) will continue to have the right to use your Personal Data and other information in accordance with the terms of this Privacy Policy.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+**Subsidiaries and Affiliates:** We may also share your Personal Data with our subsidiaries and/or affiliates for purposes consistent with this Privacy Policy. Our subsidiaries and affiliates will be bound to maintain that Personal Data in accordance with this Privacy Policy.
 
-**Tell-A-Friend**
+**Agents, Consultants and Related Third Parties:** We, like many businesses, sometimes engage other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we engage another company to perform such functions, we may provide them with information, including Personal Data, in connection with their performance of such functions.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+**Managers:** When you register for or donate to an event on the Services, you consent to our providing your Personal Data to the Managers of such event. These Managers are not bound to treat your Personal Data in accordance with this Privacy Policy. You agree that we are not responsible for the actions of these Managers with respect to your Personal Data. It is important that you review the applicable policies of the Managers of an event before providing Personal Data or other information in connection with that event.
 
-**What Happens to my Personal Information if I Opt Out?**
+**Legal Requirements:** We may disclose your Personal Data if required to do so by law (including, without limitation responding to a subpoena or request from law enforcement, court or government agency) or in the good faith belief that such action is necessary (i) to comply with a legal obligation, (ii) to protect or defend our rights, interests or property or that of other customers or users, (iii) to act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) to protect against legal liability.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+**2\. Non-Personal Data:**
 
-**Transfer of Data Abroad**
+Because Non-Personal Data cannot be used to personally identify you, we may disclose, transfer or share Non-Personal Data for any lawful purpose.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+**Your Choices:**
 
-**Changes in Our Practices**
+You have several choices available when it comes to your Personal Data:
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+**Limit the Personal Data You Provide:** You can use the Services without providing any Personal Data or with limiting the Personal Data you provide. If you choose not to provide any Personal Data or limit the Personal Data you provide, you may not be able to use certain functionality of the Services. For instance, in order to open an account/register for your events your name and email address is required
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+**Opt Out:** You can “opt out” of receiving Company newsletter emails by following the prompts on the newsletter to unsubscribe. In the event a Manager uses our system to email you, you will be able to “opt out” of receiving those communications as well. Please note that if you unsubscribe from receiving a particular Manager’s emails, you will no longer receive emails from the particular Manager that are sent through our system (but you may still receive emails sent by that Manager through means other than our system), however, you will still receive Company communications and communications from other Managers whose events you have attended or are registered to attend or who have otherwise obtained your email address. Likewise, if you unsubscribe from our communications you will continue to receive communications from Managers. So you may have to unsubscribe from multiple emails before you stop receiving all communications. You can also unsubscribe from receiving all Manager emails sent through our system. It may take up to 24 hours for us to process an unsubscribe request. Note that you cannot unsubscribe from update communications about the Services. You can stop receiving Service communications only by contacting us at <http://raceroster.com/contact-us/> and closing your account. By electing to stop receiving all communications from us or through our system you will no longer receive any updates on your account or on events you are registered to attend or have previously attended, including communications regarding refunds. We do not recommend that you do this unless you plan to no longer use the Services, are not currently registered for an event, are not currently organizing an event and will have no need to receive further communications from us or through our system. Even after you opt out of all communications, we will retain your Personal Data and Non-Personal Data in accordance with this Privacy Policy, however, we will no longer use it to contact you. However, Managers who have received your Personal Data in accordance with this Privacy Policy may still use that Personal Data to contact you in accordance with their own privacy policies, but they may not use our system to do so.
 
-**Contacting Our Site**
+**Exclusions:**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+This Privacy Policy does not apply to any Personal Data collected by us other than Personal Data collected by us through the Services. This Privacy Policy shall not apply to any unsolicited information you provide to us or another user or visitor through the Services or through any other means. This includes, but is not limited to, information posted to any public areas of the Services, such as bulletin boards, any ideas for new products or modifications to existing products, claim or demand letters, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and we shall be free to reproduce, use, disclose, distribute and exploit such Unsolicited Information without limitation or attribution.
 
-* * *
+**Children:**
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+We do not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data through the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to us through the Services, please [contact us](http://raceroster.com/contact-us-2/), and we will endeavor to delete that information from our databases.
+
+**Links to Other Web Sites:**
+
+This Privacy Policy applies only to the Services. The Services may contain links to other websites not operated or controlled by us (the “Third Party Sites”). The policies and procedures we describe here do not apply to the Third Party Sites. The links from the Services do not imply that we endorse or have reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+
+**Storage and Security:**
+
+We may store Personal Data itself or such information may be included in databases owned and maintained by our affiliates, agents or service providers. We take what we believe to be reasonable steps to protect the Personal Data provided via the Services from loss, misuse, unauthorized access, inadvertent disclosure, alteration, and destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send to us via e-mail. Please keep this in mind when disclosing any Personal Data via the Internet.
+
+**International Privacy Laws:**
+
+If you are visiting our website from outside Canada, please be aware that you are sending information (including Personal Data) to Canada where we keep our servers. We will hold and process your Personal Data and Non-Personal Data in accordance with privacy laws in the Canada and this Privacy Policy. Please note that privacy laws in Canada may not be the same as, and in some cases may be less protective than, the privacy laws in your country.
+
+**Changes to Company’s Privacy Policy:**
+
+The Services and our business may change from time to time. As a result, at times it may be necessary for us to make changes to this Privacy Policy. We reserve the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+
+**Access to Information; Contacting Company:**
+
+To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services. Please also feel free to contact us if you have any questions about this Privacy Policy or our information practices. Please communicate any questions or concerns via email on our “[Contact Us](http://raceroster.com/contact-us/)” page.
