@@ -1,77 +1,98 @@
-> *The following text is extracted and transformed from the primothemes.com privacy policy that was archived on 2012-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120109034838id_/http%3A//www.primothemes.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primothemes.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207074353id_/http%3A//www.s2member.com/privacy) for the most accurate reproduction.*
 
-# Our Privacy Policy « PriMoThemes.com
+# s2Member® | Privacy Policy
 
-PriMoThemes.com ( owned & operated by WebSharks, Inc. ) has created this statement in order to demonstrate our firm commitment to privacy. The following statement discloses all of our information gathering and dissemination practices.
+###### What Information Do We Collect?
 
-###### User / Customer Definitions
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. Any data we request that is not required will be specified as voluntary or optional.
 
-"User" means any person who establishes or accesses connection to WebSharks, Inc. "Customer" or "Member" means any person gaining additional or paid access to products & services provided by WebSharks, Inc.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, credit card information or domain name. You may, however, visit our site anonymously.
 
-###### Children's Privacy
+Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the "Do we use cookies?" section below, for information about cookies, and how we use them.
 
-WebSharks is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children's online activities and interests. WebSharks does not knowingly collect information from children under the age of 13; nor do we target our web sites, products and/or services to children under the age of 13.
+###### What Do We Use Your Information For?
 
-###### Third Parties
+Any of the information we collect from you may be used in one of the following ways:
 
-We have never shared our Customers' names with third parties; unless, a user has specifically requested to receive special offers or promotions with an advertiser found on our web site; or, if a user creates a public profile specifically for the purpose of being shared within an online community hosted or owned by WebSharks, Inc. Customer information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without the consent of the Customer, other than for the express purpose of delivering the purchased product or service requested by the Customer. We value your business and we respect your privacy.
+  * To personalize your experience (your information helps us to better respond to your individual needs).
+  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you).
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs).
+  * To administer a contest, promotion, survey, support assistance, or another site feature.
+  * To process transactions. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
+  * To send periodic emails. The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
+  * Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-###### Community Profiles
 
-Information submitted through forms for the purpose of creating an online public profile may be shared publicly; depending on the privacy settings specified by the user, from within each community that each profile was created. WebSharks will never share a public profile in any manner that is not consistent with the privacy settings specified by the user that created the profile.
 
-###### Public Postings / Blogs
+###### How Do We Protect Your Information?
 
-WebSharks provides hosting services for blogs and/or web sites that are available for public viewing. If you, the user, decide to post blog entries or make other information available through hosted pages, services, profiles, photo albums, or other public areas; WebSharks will not be held responsible for whom this information is viewed by, or how it is used by the public.
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order, or access your personal information. These security measures include, but are not limited to: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely, and PCI Scanning to actively protect our servers from hackers and other vulnerabilities.
 
-###### No Spyware / No Adware
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway provider's database, only to be accessible by those authorized with special access rights to such systems, and who are required to keep the information confidential. After a transaction, your billing information (credit card numbers, etc.) will NOT be stored on our servers.
 
-None of the software available from WebSharks contains any form of spyware or adware. Software from third parties that WebSharks may sometimes provide links for, is not within the control of WebSharks. Therefore, third party software, may or may not contain forms of adware or spyware. We ask that you carefully read all license agreements related to any software product that you intend to download.
+###### Do We Use Cookies?
 
-###### Data Collected
+Yes (cookies are small files that a site, or its service provider, transfer to your computer's hard drive through a web browser (if you allow), which enables the site's or service provider's systems to recognize your browser and capture and remember certain information.
 
-Your IP address is used to gather broad demographic information. In addition, we use cookies and 1x1 pixels. Cookies and 1x1 pixels are used to deliver better services, provide account management, and targeted marketing messages to you, the web surfer. These tools are used to collect anonymous data, and in some instances where personally-identifiable information has been provided by a user; to provide account services, and/or to provide better/more relevant messages to that user.
+###### Do We Disclose Any Information To Outside Parties?
 
-###### Registration Forms
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
-Our site registration forms require our users to enter their email address, contact info, and sometimes personally identifiable information such as: email address, first name, last name, address, city, state, phone, date of birth, and postal/zip code. We use data provided through registration forms to send the user information about our company, create online community profiles, and to provide (or sell) various subscription services and/or other products.
+###### Third Party Links
 
-###### Network Security
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-WebSharks has put in place physical, electronic and managerial procedures to safeguard the information that is collected. Various security technologies have been implemented to ensure that external parties cannot access or modify Users' personal information on the WebSharks Network. Specifically, Secure Sockets Layer (SSL) encryption is used on specific Web pages to safeguard online purchase transactions. SSL technology is the industry standard protocol for secure, Web-based communications.
+###### California Online Privacy Protection Act Compliance
 
-###### Financial Information
+Because we value your privacy we have taken the necessary precautions to be in compliance with OPPA (the California Online Privacy Protection Act). We therefore will not distribute your personal information to outside parties without your consent.
 
-Customer payment information (credit cards, social security numbers, financials, etc.) are all processed securely through the PayPal® (Website Payments Pro) service. WebSharks does not store any Customer financial information on it's own servers, OR in it's own databases; regardless of whether you enter your financial information at WebSharks or directly through PayPal®. For more information about PayPal® and their privacy policies, please visit: ( www.paypal.com ).
+###### Children’s Online Privacy Protection Act Compliance
 
-###### Liability
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-Our sites contain links and advertisements for various other sites. WebSharks is not responsible for the privacy practices or the content of such Web sites. In addition, WebSharks offers services that provide access to online communities hosted by WebSharks. If you provide information for a public profile that is shared within one or all of these communities, WebSharks will not be held responsible for how this information is used by others who view such profiles.
+###### CAN-SPAM Compliance (USA Federal Act Of 2003)
 
-###### Third-Party Hosting
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
 
-WebSharks provides hosted services which allow other WebSharks users to create their own blogs and/or websites. These hosted areas, which are operated by other WebSharks users ( or third-parties, or non-WebSharks sites ), are constantly reviewed for misuse. Because these areas are operated by other WebSharks users, any information submitted through any forms associated with these blogs or websites is not within our control. Therefore, any information you submit through pages or files which are hosted by non-WebSharks sites, or other areas operated by third-parties; is not subject to the terms of this privacy statement.
+###### Online Privacy Policy Only
 
-###### Cookies
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-WebSharks uses cookies to track whether or not visitors have seen or used our sites, products, and services. Cookies are also used for advertising and tracking of advertising campaigns. In some cases, cookies may be used to store account identification information, or customized user settings and preferences for sites belonging to WebSharks. Some cookies may contain personally identifiable information.
+###### Contact Information
 
-###### Abuse
+If there are any questions regarding this Privacy Policy, you may contact our parent company: [WebSharks™](http://www.websharks-inc.com/).
 
-If someone abuses our system, we may disclose their IP address and any pertinent information we have about them to law enforcement agencies or other organizations involved in apprehending that person. In addition, WebSharks reserves to the right to work directly with law enforcement agencies that subpoena WebSharks for information related to any criminal investigation.
+###### Contacting s2Member®
 
-###### Opt-Out
+WebSharks, Inc.  
+Attn: s2Member®  
+4132 Atlanta Hwy  
+Office Suite #110-117  
+Loganville, GA  30052  
 
-You may opt-out of all the services, tools, products, and/or software that WebSharks provides at any time you wish. To opt-out of COOKIES, please disable COOKIES on your browser. To opt-out or delete all of your accounts, email, profiles, and/or other memberships or subscriptions associated with WebSharks; please contact us in writing ( or via email ); with a request for termination of such services.
 
-###### Backups
+###### Privacy Laws & Initiatives
 
-Daily backup information is stored on secure devices maintained by WebSharks. If you decide to opt-out of any or all of the services offered by WebSharks; any information that was deleted, may remain on backup for a period not to exceed 30 days. After 30 days, any and all information that is stored on backup will have been permanently deleted as well.
+We pledge to you, our customer, that we have made a dedicated effort to bring our Privacy Policy in line with the following important privacy laws and initiatives:
 
-###### Other Divisions Of WebSharks
+  * FTC Fair Information Practice Principles (FIPs)
+  * California Online Privacy Protection Act (OPPA)
+  * Children’s Online Privacy Protection Act (COPPA)
+  * USA Federal (CAN-SPAM) Act of 2003
+  * Privacy Alliance (OPA)
 
-Other sites and services powered by WebSharks ( are separate divisions of WebSharks, Inc ) and have their own privacy policy as well as terms & conditions of use; specifically related to the products and/or services they provde. Please read the legal section within any site powered by WebSharks for further details.
 
-###### Contacting WebSharks, Inc.
 
-If you have any questions about this privacy statement, the practices of our company, or your dealings with our company, you can contact support using: ( [websharks-group@googlegroups.com](http://www.primothemes.com/support/contact/) ). Or write to: WebSharks, Inc P.O. Box 1409 Loganville, GA 30052 USA.
+###### Additional Policies (Included Herein By Direct Reference)
+
+See also: [s2Member's Support Policy](http://www.s2member.com/support/) and [s2Member's Terms & Conditions](http://www.s2member.com/terms/)
+
+###### Your Consent To This Policy
+
+By using our site, you consent to our Privacy Policy.
+
+###### Future Changes / Modifications
+
+s2Member® reserves the right to change or modify our Privacy Policy with no prior notice. If we decide to change our Privacy Policy, we will post those changes on this page, and/or update the modification date below. Policy changes will apply only to information collected after the date of the change.
+
+This policy was last modified on: Jan 5th 2012.
