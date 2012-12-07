@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketscript.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609053820id_/http%3A//company.ticketscript.com/eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketscript.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207170657id_/http%3A//company.ticketscript.com/eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - ticketscript
 
