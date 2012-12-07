@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the kereta.info privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125201244id_/http%3A//kereta.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kereta.info privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207125418id_/http%3A//kereta.info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy Malaysia review modified bodykit KERETA
 
-I respect your privacy and I am committed to safeguarding your privacy while online at my site [www.kereta.info](http://www.kereta.info/) . The following discloses the information gathering and dissemination practices for this Web site.
+**Written** by on Saturday, January 10, 2009 | Comments Off
+
+**Categories:** [KDI](http://kereta.info/category/kdi/ "View all posts in KDI")
+
+### Privacy Policy
+
+* I respect your privacy and I am committed to safeguarding your privacy while online at my site [www.kereta.info](http://www.kereta.info/) . The following discloses the information gathering and dissemination practices for this Web site.
 
 Log Files  
 Like most standard Web site servers, I use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
@@ -22,4 +28,4 @@ I use outside ad companies to display ads on my site. These ads may contain cook
 Contact Information  
 If users have any questions or suggestions regarding my privacy policy, please contact me by filling up the contact form by clicking our “contact us” button.
 
-#### Related car facts
+#### Lagi info kereta Malaysia yang best:
