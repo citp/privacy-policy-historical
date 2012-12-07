@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the compgroups.net privacy policy that was archived on 2012-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120407141137id_/http%3A//compgroups.net/site%7Eprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compgroups.net privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207211326id_/http%3A//compgroups.net/site%7Eprivacy) for the most accurate reproduction.*
 
-# Privacy
+# COMPGROUPS.NET Privacy Policy
 
-#####  Privacy Policy
+####  Privacy Policy
 
 COMPGROUPS.NET is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
