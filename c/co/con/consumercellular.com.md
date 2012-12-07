@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumercellular.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604005341id_/http%3A//www.consumercellular.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumercellular.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207201620id_/http%3A//www.consumercellular.com/Home/Privacy) for the most accurate reproduction.*
 
 # Privacy and Security - Consumer Cellular
 
@@ -14,7 +14,9 @@ We are the sole owners of the information collected on this site. We only have a
 
 We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order or process your credit approval. 
 
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. 
+
+When contacting us via email, or the 'Contact Us' smart-form, please do not include Account Numbers, Credit Card Numbers, Social Security Numbers or any other identification numbers, aside from phone numbers and/or cell phone numbers. Thank you. 
 
 ##  Your Access to and Control Over Information.
 
