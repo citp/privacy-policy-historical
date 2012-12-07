@@ -1,26 +1,14 @@
-> *The following text is extracted and transformed from the 1form.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510073544id_/https%3A//www.1form.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1form.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207134014id_/https%3A//www.1form.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 1Form
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.1form.com.au&sealid=101)
-
 1Form Online Pty Ltd  
-ABN: 53 046 052 456  
+ABN: 16 130 816 894  
 Studio 6, 249-251 Chapel St  
 Prahran, Victoria AUS 3181  
-Phone: 1300  738 966
+Contact: [Click here to contact us](https://web.archive.org/contact-form/contact-us-direct)
 
-Last updated on 27th February 2012
-
-#### Introduction
-
-1form.com.au is committed to privacy legislation in the way it collects, uses, secures and discloses personal information.
-
-1Form Online Pty Ltd is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.1form.com.au. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact our privacy officer David Mitchell at [tenantenquiries@1form.com.au](mailto:tenantenquiries@1form.com.au). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com](http://watchdog.truste.com/pvr.php?page=complaint&url=)
-
-TRUSTe will then serve as a liaison with us to resolve your concerns.
+Last updated on 26 September 2012
 
 #### The information we collect
 
