@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the amung.us privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231234229id_/http%3A//whos.amung.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amung.us privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209004509id_/http%3A//whos.amung.us/legal/privacy) for the most accurate reproduction.*
 
-# whos.amung.us - privacy policy
+# whos.amung.us - legal - privacy policy
+
+(This statement is only available in our official website language of English.) 
 
 Our Commitment to Your Privacy 
 
@@ -40,3 +42,5 @@ By using this website and/or our services you agree to this privacy policy and a
 whos.amung.us Inc. may update this privacy policy at any time. The date of last change will be posted on this page alongside the modified privacy policy. 
 
 This privacy policy was last updated: August 15, 2011. 
+
+ 
