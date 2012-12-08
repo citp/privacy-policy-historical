@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the racinguk.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608034912id_/http%3A//www.racinguk.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racinguk.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208015112id_/http%3A//www.racinguk.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Racing UK
+# None
+
+## Privacy Policy
 
 The [www.racinguk.tv](http://www.racinguk.tv/) website and all pages within it (collectively the "Website"), is owned and operated by Racing UK Limited ("us", "our", "we"). We are committed to protecting the privacy of users of this Website. This Privacy Policy explains what information we may collect about you, how we will use it and the steps that we will take to ensure that such information is kept secure.  
 This Website may have links to other websites. Third party websites should have their own privacy policies and we recommend that you read such policies to find out how your personal details are protected. We are not responsible for the content or the privacy policies of these third party websites.  
@@ -50,3 +52,5 @@ Like many other websites, this Website uses cookies as they enable us to identif
 **8\. General**
 
 Nothing in this Privacy Policy shall restrict or exclude any liability that we have to any party which cannot be excluded by law. This Privacy Policy shall be governed by English law and the courts of England and Wales and shall have exclusive jurisdiction over any disputes arising in relation to this Privacy Policy and this Website.
+
+Any purchase for Live Video made in our iOS app for iPhone, iPad or iPod Touch made through Apple’s in-app auto-renewable subscription is handled by Apple and no financial details are passed to Racing UK. Please read our FAQs about how to subscribe, costs of subscription and how to unsubscribe from the Live Racing UK Video service for iPhone, iPad and iPhone Touch. <http://www.racinguk.com/about-us/terms-and-conditions>
