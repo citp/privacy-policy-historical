@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the lightingshowplace.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609080954id_/http%3A//www.lightingshowplace.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingshowplace.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208145051id_/http%3A//www.lightingshowplace.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
 # Security & Privacy
 
-LightingShowplace.com is a website of Build.com, Inc. Our corporate website can be [viewed here](http://corp.improvementdirect.com/).
-
 Our postal address is:  
-282 Convair St.  
+282 Convair Ave.  
 Chico, CA 95973
 
 We can be reached online through our online Customer Service center. We can be contacted by phone at (800) 375-3410, which is our customer service call center.
@@ -34,7 +32,7 @@ Cookies are alphanumeric identifiers that we transfer to your computer's hard dr
 
 ## Emails and Newsletters
 
-Because we value your right to privacy, we do not sell or otherwise share your contact information to unrelated third parties. Lighting Showplace and our Network of Stores use email as one of the primary methods of communicating with our customers. The emails we send may be related to a variety of issues, including:
+Because we value your right to privacy, we do not sell or otherwise share your contact information to unrelated third parties. Lighting Showplace uses email as one of the primary methods of communicating with our customers. The emails we send may be related to a variety of issues, including:
 
   * A direct response to an inquiry,
   * Communication concerning an order (receipt, shipping confirmation, etc), or
@@ -59,4 +57,4 @@ Information about our customers is an important part of our business, and we are
 
 If you choose to visit LightingShowplace.com, your visit and any dispute over privacy is subject to this notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at LightingShowplace.com, please send a thorough description to our Customer Service team and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. Please check our website frequently to see recent changes.
 
-**Copyright © 2000-2009 Build.com, Inc. All Rights Reserved.**
+**Copyright © 2000-2012 LightingShowplace.com, Inc. All Rights Reserved.**
