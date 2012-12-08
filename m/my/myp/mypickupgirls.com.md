@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypickupgirls.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524062231id_/http%3A//mypickupgirls.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypickupgirls.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208211144id_/http%3A//mypickupgirls.com/privacy.html) for the most accurate reproduction.*
 
 # CUSTODIAN OF RECORDS - U.S.C. TITLE 18, SECTION 2257 COMPLIANCE
 
