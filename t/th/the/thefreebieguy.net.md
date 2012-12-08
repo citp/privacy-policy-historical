@@ -1,37 +1,81 @@
-> *The following text is extracted and transformed from the thefreebieguy.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611215835id_/http%3A//www.thefreebieguy.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefreebieguy.net privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208134217id_/http%3A//www.becomeablogger.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Become A Blogger
 
-**The Freebie Guy - Privacy Policy**
+We are strongly committed to protecting your privacy and providing a safe online experience for all of our users while offering the highest quality user experience.
 
- **1\. General:**  
-The Freebie Guy is committed to protecting your privacy when you visit The Freebie Guy or use its services ("Services") as further outlined in this policy. As a condition of using the Services of The Freebie Guy, you agree to provide The Freebie Guy with certain personal information. This information includes, but not limited to: full name, postal address, phone number and email address as well as your computer's unique IP address (if any) and demographic information (e.g., zip code, postal code, hometown, gender, and age as well as IP addresses that are not unique to your computer). Please note that nowhere on the Site do we knowingly collect contact information or financial information from children under the age of 14. Please review this privacy policy periodically as we may update it from time to time. This privacy policy was last revised on June 8, 2008. Each time you visit The Freebie Guy, use the Services, or provide us with information, you are accepting the practices described in this privacy policy at that time. You agree that by using the Site you are expressly anite you are expressly and affirmatively consenting to our use and disclosure of the information that you provide, and consenting to receive emails, as described below in this privacy policy.
+By using http://www.becomeablogger.com (the “Website”), or its subdomains, and related domains or sales pages (also designated as the “Website”) you agree to the terms of this Privacy Policy. Because we gather certain types of information about and from you, we believe it is important that you understand our collection and use of this information. This Privacy Policy discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please read the complete Privacy Policy below, as well as our Terms & Conditions, and contact us if you have any questions.
 
- **2\. Changes to Privacy Policy:**  
-This policy may be revised over time as new features are added to the Site or as we incorporate suggestions from our users. If we are going to use or disclose your personally identifiable information in a manner materially different from that stated at the time we collected the information, you will have a choice as to whether or not we use or disclose your information in this new manner. We will also post a notification that the Privacy Policy has been amended prominently on our Web site so that you can always review what information we gather, how we might use that information, and under which conditions we will disclose it to anyone.
+#### WHAT INFORMATION DO WE COLLECT ABOUT YOU?
 
- **3\. How Your Information is Used:**  
-If you register with the Site, you will provide us with an email address where we may contact you for the purposes described in this paragraph. Contacting you for Offers and Promotions: You agree, in consideration for the use of the Services provided by The Freebie Guy, to allow The Freebie Guy to use your personal information to send you marketing and promotional materials. The Freebie Guy may also send you marketing and promotional materials that promote third party products. The Freebie Guy will not rent or sell your personal information for use by third parties. These materials may include, but are not limited to: newsletters providing you with additional information on how to use the Services, and promotional offers for goods and services from The Freebie Guy or third parties. Use of Demographic Information: The Freebie Guy may use your demographic information to perform business analyses or to tailor the Site and communications to your interests. We may share anonymous, aggregated demographic information with advertisers and other third parties so that they can tailor their advertisements and communications to the appropriate audience. Any time that we are allowed under this privacy policy to share your contact information. We may also share your demographic information along with it.
+You can visit our Website, read materials, and browse the Website’s contents without giving us any personally identifiable information. In order to provide you with the most efficient and enhanced personalized service and attention, and to accommodate certain requests which you make, we request information about you in certain circumstances and collect certain information automatically.
 
- **4\. Disclosure to Governmental Entities:**  
-The Freebie Guy may disclose specific contact information when we determine that such disclosure is necessary to comply with law, to cooperate with or seek assistance from law enforcement or to protect the interests or safety of The Freebie Guy or other visitors to the site or users of the Services. Also, your contact information may be passed on to a third party in the event of a merger, acquisition, consolidation, divestiture, or a bankruptcy of The Freebie Guy.
+#### Information You Volunteer
 
- **5\. Use of Cookies and Other Site Tracking Data**  
-Cookies: A "cookie" is a small file that we save on your computer's hard drive that contains non-personal information. These cookies help to give you faster access to pages you have already visited. They also allow you to personalize your pages, and optimize your experience at our sites. We also use cookies to help us figure out how many people visit our sites, which of our web pages they visit, and how long they stay there. This information helps us figure out which of our web features are highly successful and which sites might need improvement. You can disable cookies on your computer by indicating this in the preferences or options menus in your browser. Most browsers accept cookies automatically, but allow you to disable them. Disabling cookies may prevent you from properly using the Services or accessing the site. Session IDs: "Session IDs" allow us to identify a particular user across multiple web page requests. This Session ID is maintained within your cookie file, where possible. If cookies are not enabled, or if The user's internet browser program does not support cookies then The Freebie Guy will place the Session ID in the requested web page. This allows the end user to avoid having to continually re-enter Certain information such as account name and password for every web page request. This Session ID expires whenever the user closes their internet browser.  
-Web Site Tracking, Reporting: Many of our web pages also contain special electronic images (called a "single-pixel gif" or "gifs") that allow us to gather only non-personally identifiable traffic statistics and other aggregate information about visitors to our sites. The Freebie Guy (through itself or third parties) uses this technology to collect and accumulate anonymous data that helps us understand and analyze the experience of people visiting our web sites and, along with other information you provide, customize your future visits and improve our web sites. For example, we capture data on the type of browser used, operating system software (e.g. Windows 95 vs. 98 or Macintosh), cookie preferences (whether the user has them turned on or off), and search engine keywords (what key words did a visitor use to get to our site). We also record number of visits,  
-paths taken, and time spent on sites and pages within The Freebie Guy's web sites. Please keep in mind that none of this information is personally identifiable and that we only distribute this information to internal staff at The Freebie Guy.   
-IP Address: Each time you visit the Site, we automatically collect your IP address and the web page from which you came. In order to administer and optimize the Site for you and to diagnose problems with our Site, we use your IP address to help identify you and to gather broad demographic information about you.  
-Banner Ads: The Services may include the use of ad banner partners for the serving and/or targeting of ads, promotions, and other marketing messages. These ads may be provided, in some cases, by a third party ad service provider. The ad service provider may place or utilize their own unique cookie on your browser, and may use non personally identifiable information about your visit to our sites, such as the number of times you have viewed the ad. The Freebie Guy is not responsible for the collection of these cookies and is not responsible for the actions of the ad service providers.  
-The Freebie Guy does not sponsor, endorse or guarantee any products or services advertised by third parties on its site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here:  
-http://networkadvertising.org/consumer/opt_out.asp
+We collect personally identifiable information that you enter on the Website or otherwise volunteer to us (such as your name, e-mail address, credit card number, home address, phone number, and/or similar information), when you contact us to, among other things, make purchases or request information. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future experiences for you, improving our operations, and communicating with you.
 
- **6\. Information from Other Sites**  
-The Freebie Guy may place links to other web sites operated by other parties and from time to time may include information and links to third party web sites in our promotional email. Some of these other web sites contain our brand names and trademarks and other intellectual property that we own; others do not. When you click on these links and visit these other web sites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other web sites or these other web sites' business practices, and that this privacy policy does not apply to these other web sites. Consequently, the operators of these other web sites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Site. We encourage you to review their privacy policies and remind you that we will not be responsible for their actions.
+#### Information Collected Automatically
 
- **7\. Non-US Users**  
-If you are not a resident of the United States, you understand and agree that The Freebie Guy stores and processes your information on computers located in the United States, and by providing any data to The Freebie Guy, you consent to the transfer of such information to the United States.
+We receive and store certain types of information whenever you interact with us. For example, like many web sites, we use “cookies” and we obtain certain types of information when your web browser accesses our Website or advertisements and other content served by us or on our behalf on other web sites. We may also automatically collect your Internet Protocol and referring web site addresses, browser type and domain name. This information helps facilitate your online experience on our Website. We use “cookies” to track usage patterns on our Website and to control the display of ads, as well as to offer other functionalities. You can turn off cookies, but that will affect your online experience. Please see below for more detail on cookies.
 
- **8\. How to Contact Us**  
-If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us at:  
-Email: Leslie@TheFreebieGuy.com  
-Tel: (256) 280 4176 
+#### WHAT DO WE DO WITH COLLECTED INFORMATION?
+
+We use collected information to evaluate and administer our Website, fulfill your requests, respond to any future problems, such as difficulties in navigating our Website or accessing certain features, and to gauge user trends.
+
+As in any transaction, when you purchase products or make a donation by credit card, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, date, total cost and other information necessary to process the transaction. We will not otherwise provide any personal data to your credit card company without your permission. We and our technical and fulfillment agents, partners and consultants follow carefully proscribed procedures to safeguard credit card data in connection with your transactions and adhere to certain legal requirements.
+
+#### HOW DO WE SHARE PERSONAL INFORMATION?
+
+Personal information is available to us and the technical and fulfillment agents, partners and consultants who make our Website available to you. Anonymous information is available to our affiliates, sponsors and partners.
+
+Website hosting firms, technical and database consultants, advertising agencies, order processing partners, and other third parties may have access to personally identifiable information in the course of making our Website and its contents available. All companies working for and with us must comply with our privacy policies, and are not permitted to sell your information to third parties or to use it except as authorized by us and you, or as permitted or required by law.
+
+We reserve the right to use or disclose any information without notice or consent for the following purposes: as needed to satisfy any law, regulation or legal request; to conduct investigations of consumer complaints or possible breaches of law; to protect the integrity of our Website and our property; to protect the safety of our visitors or others; to fulfill your requests; or to cooperate in any legal investigation.
+
+#### HOW DO WE USE COOKIES?
+
+Your web browser offers so-called “cookies” which, if you allow their use, store small amounts of data on your computer when you visit a web site. Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. However, cookies assist us in tracking which of our features you like best and make it easier to use our Website. You have the ability to accept or decline cookies by modifying your browser. Our Website is viewable even if you disable the cookie function on your browser. However, if you disable cookies, some advanced and customized features or offerings will not be available to you.
+
+#### HOW DOES CUSTOMER SERVICE USE YOUR PERSONAL INFORMATION?
+
+Some services may offer support and technical assistance through customer service centers via telephone, online chat, or e-mail. Whenever you communicate with customer service, you do so with the understanding that an operator may view and make changes to the information in your User Account in order to provide the assistance that you need.
+
+#### HOW CAN YOU CONTROL YOUR PERSONAL INFORMATION?
+
+You may unsubscribe to any of our online e-mail updates by following the unsubscribe instructions in the body of any e-mail message. We will take commercially reasonable steps to implement your opt-out requests promptly; but you may still receive promotional information from us by mail for up to 60 days due to printing and mailing schedules, and up to 10 days for e-mail. You may also continue to receive information from those third parties to whom your information was previously disclosed.
+
+#### SECURITY OF YOUR PERSONAL INFORMATION
+
+We incorporate standard industry practices internally and with our service providers, which we believe suits the degree of sensitivity of the information involved to maintain the security of your personal information and to avoid its disclosure except as described in this Privacy Policy.
+
+Although we have implemented systems and procedures to secure the data maintained by us, security during Internet transmissions can never be assured. Our policy is to limit access to personal data to those employees or agents with a specific need to access or retrieve this information. We store data on multiple service systems, in controlled environments. To maintain security, we conduct internal reviews of our security measures on a regular basis.
+
+#### VISITORS OUTSIDE THE UNITED STATES
+
+Our Website and the servers that make this Website available worldwide are located in the United States. The Internet laws in the United States govern all matters relating to this Website. Any information you provide in subscribing to our Website or registering or ordering at our Website will be transferred to the United States. By visiting our Website and submitting information, you authorize this transfer, processing and use.
+
+#### YOUR CALIFORNIA PRIVACY RIGHTS
+
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal information we share with third parties or corporate affiliates for those third parties or corporate affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: . In your request, please specify that you want a “Your California Privacy Rights Notice”. Please allow at least 30 days for a response.
+
+#### CHANGES TO OUR PRIVACY POLICY
+
+We will occasionally update this Privacy Policy as necessary to protect our users and to comply with a changing environment. We recommend that you check the Privacy Policy when you visit our Website to be sure that you are aware of and understand our current policy. If we make material changes to this policy, or in how we use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change. We will not make any retroactive material changes in how we handle previously collected personal information unless you allow us to do so, or unless we are legally required to do so, and in such a case we will e-mail registered Website visitors information on material changes to this Privacy Policy.
+
+#### Conditions of Use, Notices, and Revisions
+
+If you choose to visit our Website, your visit and any dispute over privacy is subject to this Notice and our Terms & Conditions, including limitations on damages, resolution of disputes, and application of the law of the State of California. If you have any concern about privacy at our Website, please contact us with a thorough description, and we will try to resolve it. As our business changes, our Privacy Policy and Terms & Conditions may change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Website frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We will not materially change our policies and practices to make them less protective of personal information collected in the past without the consent of affected user.
+
+#### CHILDREN’S PRIVACY
+
+We are strongly committed to protecting the safety and privacy of children who visit our Website. We do not knowingly collect personal information online from children under 13 and have adopted techniques to ensure compliance with this Privacy Policy and the Children’s Online Privacy Protection Act of 1998 (“COPPA”). COPPA and its accompanying regulations under United States federal law protect the privacy of children using the Internet. Our Website includes content that we believe to be unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their children about online safety and to monitor their children’s use of the Internet.
+
+#### CONTACT INFORMATION
+
+If you have any questions about this Privacy Policy or our privacy practices, please e-mail us at support (at) becomeablogger.com. Please include the URL of the Website involved in your request.
+
+Or you can contact us by mail at:
+
+Become A Blogger  
+P.O. Box 32  
+Berrien Springs, MI 49103
