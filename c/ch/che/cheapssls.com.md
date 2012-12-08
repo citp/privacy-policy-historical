@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapssls.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602032217id_/http%3A//www.cheapssls.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapssls.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208073715id_/http%3A//www.cheapssls.com/privacy-policy.html) for the most accurate reproduction.*
 
 # CheapSSLs.com Privacy Policy (TRUSTe Compliant)
 
