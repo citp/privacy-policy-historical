@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hull.ac.uk privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512051628id_/http%3A//www2.hull.ac.uk/pageelements/footer/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hull.ac.uk privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208134848id_/http%3A//www.hull.ac.uk/page_elements/footer/privacy_and_ookies.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - University of Hull
+# Privacy and Cookies - University of Hull
 
 ## Privacy Policy
 
@@ -44,7 +44,19 @@ To find out more information about cookies, visit:
 
 [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
-### 4\. Google Analytics
+## 4\. How we use Cookies
+
+We may use cookies to store information about your membership to parts of our site, or to enable you to log in to online resources.  This might include blogs, portals, forums, or protected content.  The information is stored to enable you to use these resources, and to remember your log in details between sessions.  If you clear your cookies, you may need to login to these parts of the website each time you visit.
+
+**Hobsons**
+
+The University has a relationship with Hobsons Plc (Hobsons), any URLs beginning with
+
+<https://hull.hobsons.co.uk/> are hosted by Hobsons as part of this relationship:
+
+[ A list of the Cookies used by Hobsons](http://www.hobsons.com/europe/cookies.php?utm_campaign=EU%20MKTG%20050812%20EU%20Cookies%20Compliance%20Notification&utm_medium=email&utm_source=Eloqua#3) for the processing of information on these pages can be found here.
+
+**Google Analytics**
 
 This website uses Google Analytics, a web analytics service provided by Google, Inc.. Google Analytics uses ‘cookies’, which are text files placed on your computer. Google Analytics allows the university to look at how visitors are using the site with the aim of improving visitor’s experience.
 
@@ -70,4 +82,4 @@ Our Site provides links to other sites. We are not responsible for their data pr
 
 * * *
 
-_Page last updated by Marketing Dept on 5/2/2012_
+_Page last updated by Marketing Dept on 6/27/2012_
