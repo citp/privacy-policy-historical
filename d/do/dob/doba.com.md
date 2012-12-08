@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doba.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603002430id_/http%3A//www.doba.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doba.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208145624id_/http%3A//www.doba.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Doba
 
