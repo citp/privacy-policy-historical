@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaytubevideos.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607230430id_/http%3A//www.gaytubevideos.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaytubevideos.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208101928id_/http%3A//www.gaytubevideos.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
