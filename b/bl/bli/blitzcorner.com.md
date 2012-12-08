@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blitzcorner.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607030549id_/http%3A//www.blitzcorner.com/data/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blitzcorner.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208055201id_/http%3A//www.blitzcorner.com/data/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blitzcorner
 
