@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rewardli.com privacy policy that was archived on 2012-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120119150549id_/http%3A//www.rewardli.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardli.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208131015id_/http%3A//www.rewardli.com/privacy) for the most accurate reproduction.*
 
-# Rewardli - Group Deals for Small Businesses
+# Rewardli - small business perks, discounts, and deals
 
 This Privacy Policy governs the manner in which Rewardli collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.rewardli.com](http://www.rewardli.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Rewardli.
 
