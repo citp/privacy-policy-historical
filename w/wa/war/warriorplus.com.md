@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warriorplus.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504010846id_/http%3A//www.warriorplus.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warriorplus.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208062449id_/http%3A//www.warriorplus.com/legal/privacy.php) for the most accurate reproduction.*
 
 # WarriorPlus
 
