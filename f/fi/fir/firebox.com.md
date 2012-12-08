@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firebox.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624051926id_/http%3A//www.firebox.com/admin/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firebox.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208170502id_/http%3A//www.firebox.com/admin/privacy%3Fvia%3Dfooter) for the most accurate reproduction.*
 
 # Firebox.com Privacy Policy
 
