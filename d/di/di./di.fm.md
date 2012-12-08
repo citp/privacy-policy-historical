@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the di.fm privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629091226id_/http%3A//www.di.fm/member/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the di.fm privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208092250id_/http%3A//www.di.fm/member/privacy) for the most accurate reproduction.*
 
 # Digitally Imported - addictive electronic music
 
