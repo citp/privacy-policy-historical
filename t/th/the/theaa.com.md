@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619232842id_/http%3A//www.theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208082333id_/http%3A//www.theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy | AA
 
@@ -144,22 +144,22 @@ We use cookies to ensure you get the most from your visit. They improve your exp
 
 Rest assured that the cookies we use do not store personal details, such as payment card numbers. Here are the main types of cookies and what they do:
 
-**1)  ** **Strictly necessary**  
+**1.  ** **Strictly necessary**  
  **In brief** These cookies enable you to get the information or service you’ve asked for. They’re essential – without them, some services may not work.
 
 **For example** We use these cookies to enable you to use shopping baskets, which remember your choices and enable you to buy.
 
-**2)  ** **Performance cookies**  
+**2.  ** **Performance cookies**  
  **In brief** These cookies collect information about the pages you visit, where you go most often and whether you see error messages. The information is only used to ensure a website works well.
 
 **For example** We gather information to diagnose problems and issues. We then use it to make improvements and fix errors.
 
-**3)    Functional cookies**  
+**3\. Functional cookies**  
  **In brief** These cookies remember choices you’ve made to personalise the site. They may remember where you are so you can get tailored information, or remember changes you have made to help you browse, such as increasing the text size.
 
 **For example** If you ask for services based on your location, we sometimes store a cookie so that next time you visit you won’t have to tell us again.
 
-**4)    Targeting or advertising cookies**  
+**4\. Targeting or advertising cookies**  
  **In brief** These cookies collect anonymous information about your browsing habits which are then used to make advertising relevant to you. They remember if you have visited a website and share this information with advertisers.
 
 **For example** We limit advertising to certain sections of the website. These services are provided by our carefully selected and monitored partners, and we are committed to ensuring any information is used appropriately.
@@ -181,7 +181,7 @@ If cookies are disabled on your device you will still be able to use most of thi
 How you manage your cookies depends on your browser. To find out which browser you use:
 
   * **PC** : open your browser and go to the **Help** menu and then click on the **About** option.
-  * **Apple Mac** : open your browser and go to the **Apple** menu and then click on the **About** option.
+  * **Apple Macintosh** : open your browser and go to the **Apple** menu and then click on the **About** option.
   * **Mobile device** : check your settings.
 
 
