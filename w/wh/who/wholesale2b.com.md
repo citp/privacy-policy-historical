@@ -1,46 +1,81 @@
-> *The following text is extracted and transformed from the wholesale2b.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522220916id_/http%3A//www.wholesale2b.com/index.php/marketing/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesale2b.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208082933id_/http%3A//www.wholesale2b.com/wholesale2b-privacy-policy.html) for the most accurate reproduction.*
 
-# Wholesale2b.com - Inventory for your dropshiping needs
+# Wholesale2b Testomonials
 
-LAST UPDATED ON WEDNESDAY, NOVEMBER 10th, 2008 
+[Contact Us](http://www.wholesale2b.com/members.php/visitor/login) | [Member Login](http://www.wholesale2b.com/members.php) [](https://web.archive.org/web/20121208082933id_/http%3A//www.wholesale2b.com/index.html)
 
-The privacy of those who visit our Web site is of primary concern to us. Your personal privacy and the security of your personal data are a primary concern to us. To better protect your privacy, we provide you with this policy page where we disclose and explain our online information practices. This page can be found by clicking on the Privacy Policy link available on the links located in the footer of our home page.   
-If you have questions or concerns regarding this statement, you should first contact our management team by clicking on the contact us link. 
+  * [Dropship eBay Plan  
+ _Push products to eBay_](https://web.archive.org/web/20121208082933id_/http%3A//www.wholesale2b.com/dropship-ebay-plan.html)
+  * [Dropship Website Plan  
+ _Get your own turnkey website_](https://web.archive.org/web/20121208082933id_/http%3A//www.wholesale2b.com/dropship-website-plan.html)
+  * [Dropship Datafeed Plan  
+ _CSV, Excel, Images, Amazon, Google_](https://web.archive.org/web/20121208082933id_/http%3A//www.wholesale2b.com/dropship-datafeed-plan.html)
+  * [Dropship Products  
+ _Sample Dropship Products_](https://web.archive.org/web/20121208082933id_/http%3A//www.wholesale2b.com/dropship-products.html)
 
-Use of Information 
 
-When you register with our website, we ask for your full name, address, telephone number and credit card information so we can process your order. None of this information is shared with outside parties other than companies we employ to perform functions on our behalf, to which limited data is given in order to provide you with optional marketing assistance. We also use this information to process your orders, conduct account verifications, and to communicate with you about the status of your orders. We will use your contact information to contact you should we have a problem with processing an order. 
 
-We also use your email address to send you special notifications regarding new products, new releases as well as occasional scheduled downtimes for maintenance purposes. 
+Wholesale2b Privacy Policy
 
-We reserves the right to disclose your name, street address, city, state, zip code, country, phone number and email address as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud or other unlawful activity. Specifically, this includes exchanging such information with other companies and organizations for collection of unpaid funds, law enforcement agencies and other third parties to enforce laws, intellectual property and other rights. 
+Our privacy policy was last updated on August 3rd 2012..
 
-You may not opt out of our service-related announcements and for our new products and feature announcements. For instance, if our service is temporarily suspended for maintenance, we might send you an email. You may also receive an email when we deploy a new version with new features. 
+This Privacy Policy governs the manner in which Wholesale2b.com collects, uses, maintains and discloses information collected from users (each, a "User") of the www.wholesale2b.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Wholesale2b.com. 
 
-We use PayPal to facilitate our order/payment processing as well as Authorize.net to process payments through Visa and Master Card. If you choose the PayPal method of payment, then you will be automatically transferred to PayPal's site in the case of PayPal payments. Please be aware that their privacy policy governs the use and collection of the information and is shared back with us to fulfill the order. If you choose the credit card method of payment, then you will be redirected to our secure page under the domain name dsdsecure.com where we will capture your name, address and credit card information. Your credit card information will be transmitted to our merchant account provider to verify that your information is accurate, which is referred to as an AVS check. We will not store your credit card information and your order will be processed after the AVS check is positive. The page on which you will enter our credit card information will be hosted under the domain name dsdsecure.com and will be using a secure socket layer (SSL) which encrypts all your credit card information. This will ensure complete privacy of your credit card information and will not use your information for their own marketing purpose.
+Personal identification information 
 
-Cookies 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
 
-Cookies are small pieces of data that are stored on your hard drive. As you browse our website, cookies might be placed on your computer hard drive to maintain certain information about your current session. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. Third party cookies will be used for the purpose of supporting the LIVE CHAT only and they will not be tied to any of your personal identifiable information. 
+Non-personal identification information 
 
-Security and Access 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
 
-Our website takes every possible precaution to protect our member’s personal information. During the transmission of your payment information, we use a secure server which uses secure socket layer technology (SSL), which encrypts all of your payment information. This will ensure complete privacy of your data. The secure pages involve the signup form, the profile page where you can update your personal information, the shopping cart and the final payment page on which you will enter your credit card information. We will not store your credit card information and we will not initiate any automatic charges to your credit card. 
+Web browser cookies 
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
 
-Correcting and updating your personal information 
+How we use collected information 
 
-All your personal information can be accessed and updated from the profile page. This page will be accessible to you only from the member’s login area. Any changes made to your personal information will trigger the system to change the status of your membership to “unverified”. You will be required to confirm your billing address once more in order to dropship merchandise to addresses different from your billing address. 
+Wholesale2b.com may collect and use Users personal information for the following purposes: 
 
-If you prefer to remove your information, simply cancel your membership and your account will be removed from our system. You can cancel your membership at anytime by sending us a cancellation request through our online ticketing system by clicking on the CONTACT US link located at the top of the website OR you can simply ignore the renewal notice once the 12 months are over and your account will automatically be closed. 
+\- To improve customer service  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.  
+\- To process payments  
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.  
+\- To send periodic emails  
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-Third party links to other websites 
+How we protect your information 
 
-Our Web site may have links to other Web sites on the Internet that are not owned or controlled by our company. We are not responsible for the privacy policies or the content of these Web sites, nor does this mean that we endorse them in any way. 
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. 
 
-Changes in this Privacy Statement 
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. 
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+Sharing your personal information 
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission. 
+
+Third party websites 
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies. 
+
+Advertising 
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. 
+
+Changes to this privacy policy 
+
+Wholesale2b.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+
+Your acceptance of these terms 
+
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
+
+Contacting us 
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at support@wholesale2b.com. 
+
+You may use our online ticketing system should you have any questions regarding our privacy policy. support@wholesale2b.com 
+
+This document was last updated on August 04, 2012 
+
+Privacy policy created by Generate Privacy Policy 
