@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binweevils.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628175840id_/http%3A//binweevils.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binweevils.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208111806id_/http%3A//binweevils.com/privacy.php) for the most accurate reproduction.*
 
 # Bin Weevils
 
@@ -61,6 +61,6 @@ If you have any questions, comments or concerns regarding our privacy policy and
 Alternatively you can write to: 
 
 Bin Weevils Limited  
-131-151 Great Tichfield Street  
+42 Upper Berkeley Street  
 London   
-W1W 5BB
+W1H 5QJ
