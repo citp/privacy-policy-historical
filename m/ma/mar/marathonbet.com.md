@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marathonbet.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613041717id_/http%3A//www.marathonbet.com/en/help/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marathonbet.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208144757id_/http%3A//help.marathonbet.com/en/privacy_policy) for the most accurate reproduction.*
 
-# Marathon Online Sportsbook - Privacy Policy
+# Privacy Policy - online bookmaker MARATHON
 
 ## Use of Information
 
