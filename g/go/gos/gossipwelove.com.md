@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gossipwelove.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618011541id_/http%3A//www.gossipwelove.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossipwelove.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208160812id_/http%3A//www.gossipwelove.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy ~ Gossipwelove.com
+# Privacy Policy ~ Gossipwelove
 
 This Privacy Policy applies only to Gossipwelove.com (however accessed and/or used, whether via personal computers, mobile devices, or otherwise), or other interactive features[](http://theybf.com/index.php/disclaimer/privacy-policy/#) that are accessible or downloadable through Gossipwelove.com and that post a link to this Privacy Policy (collectively, the “Web Site”). This Privacy Policy only covers information collected at the Web Site, and does not cover any information collected at any other Web Sites or offline by Company (unless specifically stated). The purpose of this Privacy Policy is to disclose to you what information we may collect on the Web Site, how this site operates, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you may have regarding our collection, use, and disclosure of such information.
 
