@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remixcomps.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609222345id_/http%3A//www.remixcomps.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remixcomps.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208170636id_/http%3A//www.remixcomps.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Remix Comps
 
