@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maheshkukreja.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515071326id_/http%3A//www.maheshkukreja.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maheshkukreja.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209004231id_/http%3A//www.maheshkukreja.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,6 +32,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 #### Incoming search terms:
 
-  * www google mahesh com
+  * SHARE TWEET CONTACT ME PRIVACY POLICY
+  * Sites based on mahesh
 
 
