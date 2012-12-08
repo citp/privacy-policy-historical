@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primeabgb.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205010412id_/http%3A//www.primeabgb.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D56%26Itemid%3D64) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primeabgb.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208024147id_/http%3A//primeabgb.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D56%26Itemid%3D64) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -177,10 +177,11 @@ By using the Site, you consent to the collection and use of the information you 
   
 You Can Contact Us at:
 
-**Prime ABGB Pvt. Ltd.**  
-Unit no.16, Laxmi Building Compound,  
-390, Lamington Road, Opp. Swastik Cenema,  
-Grant Road (East), Mumbai: 400 004.  
+**Prime ABGB Pvt Ltd  
+** Simlim Square, 106-109,  
+1st Floor, D.B. Marg, Lamington Road,  
+Grant Road East, Mumbai: 400 007.  
+Tel: +91-22-23896600, 23855500, 6740 2000.  
 E-mail: [support@primeabgb.com](mailto:support@primeabgb.com)   
   
   
