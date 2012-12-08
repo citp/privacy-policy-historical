@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trygames.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610042857id_/http%3A//www.trygames.com/privacy/aff%3Dtrygames) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trygames.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208134838id_/http%3A//www.trygames.com/privacy/aff%3Dtrygames) for the most accurate reproduction.*
 
 # Trygames.com Privacy
 
