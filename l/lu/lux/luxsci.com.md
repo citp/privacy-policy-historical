@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509111024id_/http%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208063303id_/http%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | LuxSci
 
-Version 2012.02.15
+Version 2012.05.11
 
 Lux Scientiae, Incorporated has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for this website and our services in general. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here in this policy, by email, or by means of a notice on our LuxSci FYI Blog. 
 
@@ -10,7 +10,7 @@ Lux Scientiae, Incorporated has created this privacy statement in order to demon
 
 Lux Scientiae has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at "Lux Scientiae, PO Box 326, Westwood, MA 02090" or by sending email to "privacy-officer at Luxsci.com". If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-Lux Scientiae complies with the U.S. . E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the from European Union member countries. Lux Scientiae has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Lux Scientiae's certification, please visit <http://www.export.gov/safeharbor/>. 
+Lux Scientiae complies with the U.S.—EU Safe Harbor Framework and the U.S.—Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the EU member countries and Switzerland. Lux Scientiae has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Lux Scientiae's certification, please visit <http://www.export.gov/safeharbor/>. 
 
 ## General usage:
 
@@ -68,11 +68,11 @@ We follow generally accepted industry standards to protect the personally identi
 
 ## Tell-A-Friend
 
-If you choose to use our referral service to email a friend about our site, we will ask you for your friend.s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Lux Scientiae stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+If you choose to use our referral service to email a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Lux Scientiae stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
 ## Links to Other Sites
 
-If you click on a link to a third party site, you will leave the Lux Scientiae site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as Lux Scientiae. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to an Lux Scientiae site, you should read that site.s privacy statement before providing any personally identifiable information. 
+If you click on a link to a third party site, you will leave the Lux Scientiae site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as Lux Scientiae. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to an Lux Scientiae site, you should read that site's privacy statement before providing any personally identifiable information. 
 
 ## Updating/Accessing/Amending/Correcting Personally Identifiable Information
 
