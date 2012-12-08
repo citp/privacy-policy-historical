@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solvemedia.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626101750id_/http%3A//www.solvemedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solvemedia.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208082946id_/http%3A//solvemedia.com/privacy.html) for the most accurate reproduction.*
 
 # Solve Media
 
