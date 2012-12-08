@@ -1,97 +1,105 @@
-> *The following text is extracted and transformed from the gethalls.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513153448id_/http%3A//gethalls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gethalls.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208052620id_/http%3A//brands.nabisco.com/MiscContent/privacy_policy.aspx) for the most accurate reproduction.*
 
-# HALLS® - Privacy Policy
+# Mondelēz International
 
-|   | **COMPANY:**      Cadbury Adams USA LLC (the “Company” or “we”)  
-**COMPANY LOCATION:** 389 Interpace Parkway, Parsippany, NJ  07054  
-**JURISDICTION:**   State of New Jersey, USA  
-**  
-CONTACT US:**   | **Address:** | Cadbury Adams USA Privacy Policy, c/o Cadbury Schweppes Americas   
-Beverages Consumer Relations, P.O. Box 869077, Plano, TX  75086-9077  
----|---  
-**Telephone:** | 1-800-524-2854  
-**E-Mail:** | [privacypolicy@cs-americas.com](mailto:privacypolicy@cs-americas.com)  
-(please refer to Cadbury Adams USA in subject line) ****  
+|  |  |   
+---|---|---  
+Effective Date: 10/01/2012  
+**MONDELĒZ INTERNATIONAL Privacy Notice**  
+This website is owned and operated by Mondelēz International, we recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information. We’ve prepared this website Privacy Notice to address those concerns. This notice relates only to information collected through this website.  
   
-****Last Updated:** September 20, 2005
+  * Information We Collect
+    * Personally-Identifiable Information
+      * Registration
+      * Contests, Sweepstakes and Games
+  
 
-We respect your privacy. This Privacy Policy outlines the information we collect and how we use it. This Policy applies solely to information collected through this Site and not other sources. 
+      * Newsletters
+      * “Contact Us” Link
+      * Send To A Friend
+      * Other Site Features
+      * Questionnaires and Surveys
+    * Aggregate and Non-Personal Information
+      * Cookies
+      * Web Beacons
+  * How We Use Personally-Identifiable Information
+  * How We Share Personally-Identifiable Information
+  * Links To Other Websites
+  * Your Choices
+  * Children's Privacy
+  * How We Protect Personally-Identifiable Information
+  * Updates To This Privacy Notice
+  * How To Contact Us
 
-**
+  
+**_Information We Collect_**  
+| _**Personally-Identifiable Information ******_  
+| On our website, we collect certain personally-identifiable information about our online visitors. Personally-identifiable information relates to an individual consumer - for example, name, address, telephone number and e-mail address. You may provide personally-identifiable information, for example, by registering on our site or by entering a promotion. We don’t require you to register or provide personally-identifiable information to view our site or play our games. But if you register, you may use certain additional features like “My Scoreboard.” Also, the more detailed the information you provide in the registration section of the website, the better you may customize your website experience. Here are the ways we collect personally-identifiable information.  
+_**Registration**_  
+To take full advantage of all our offerings, you may choose to register on our site. In the registration process, we request certain information (such as your name and e-mail address) so we can provide you with the communications you request and customize our contacts with you. We also may use the registration information you provide for other purposes to which you consent.  
+_**Contests, Sweepstakes and Games**_  
+Our site contains notices of contests, sweepstakes and games we are conducting, which you may enter electronically in some cases. We use the information you provide to conduct the promotion (for example, to contact you if you’re a winner). We won’t use the information you provide to enter the promotion for any other purpose unless you’ve agreed otherwise.  
+_**Newsletters**_  
+When you ask us to send you newsletters by e-mail, you may provide us with certain information like your e-mail address so we can fulfill your request.  
+_**"Contact Us" Link**_  
+If you e-mail us through the “Contact Us” link on this site, we ask you for information such as your first name and e-mail address so we can respond to your questions and comments. You may choose to provide additional information as well.  
+_**Send To A Friend**_  
+We may give you the opportunity to tell your friends about new features on our website. If you take advantage of our Send To A Friend option, we may ask you for your friend’s and your first name and e-mail address. We use the information you provide only to send the e-mail you requested we forward. We may use information about you in other ways, however, if you’ve given us permission to do so.  
+_**Other Site Features**_  
+We offer visitors to our website various features for their enjoyment, which we change from time to time. We may ask you to submit certain personally-identifiable information so we can provide you with these features.  
+_**Questionnaires and Surveys**_  
+We occasionally ask visitors to our website to complete online surveys and opinion polls about their activities, attitudes and interests. These surveys help us understand the needs of our visitors. We do not keep any personally-identifiable information about you in connection with your participation in a website survey unless you specifically agree to provide this information.  
+_**Aggregate and Non-Personal Information**_  
+| We collect certain aggregate and non-personal information when you visit our website. Aggregate and non-personal information does not relate to a single, identifiable visitor. It tells us such things as how many users visited our site, the pages accessed and the recipes viewed. By collecting this information, we learn how to best tailor our website to our visitors. We collect this information either through “cookie” technology or with “web beacons,” as explained below.   
+_**Cookies**_  
+Like many companies, we use “cookies” on our website. Cookies are bits of text that are placed on your computer’s hard drive when you visit certain websites. Cookies may enhance your online experience by saving your preferences while you are visiting a particular site. 
 
-****CONDITIONAL USE OF THIS SITE**.**     
-Your access to and use of this website and its contents (the “ **Site** ”) is subject to the terms and conditions of this Privacy Policy (“ **Privacy** **Policy** ” or “ **Policy** ”), and all applicable laws.   By accessing and using this Site, you (the “ **User** ” or “ **you** ”) accept and agree to these without any limitation or qualification. 
+When you visit our website, cookies are placed on your computer. We use cookies to tell us, for example, whether you’ve visited us before or if you’re a new visitor and to help us identify site features and recipes in which you may have the greatest interest. We collect this information to enhance your experience on our website.
 
-**TERMS OF USE.**     
-Your use of this Site is also subject to the Terms of Use ****posted on this Site (“ **Terms of Use** ”). 
+The “help” portion of the toolbar on most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Remember, though, without cookies, you may not be able to take full advantage of all of Mondelēz International website features.  
+  
+_**Web Beacons**_  
+Certain pages on our site contain “web beacons” (also known as Internet tags, pixel tags and clear GIFs). These web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party.  
+**_How We Use Personally-Identifiable Information_**  
+We may use the information you provide to contact you from time to time. For example, we may (i) send you promotional materials and other communications you request, (ii) respond to your comments or questions, or (iii) contact you if needed while processing a product or service you requested through our website. We also may use the information you provide to contact you for your opinions on Mondelēz International products or the website.
 
-**COLLECTION OF YOUR PERSONAL INFORMATION.**  
-We collect personal information about you (i.e. information which may identify you in some way, such as your name, address, age, other contact details such as telephone number, email address etc. and passwords) through this website only when you voluntarily submit it. This may be when you register on the website, request information, submit comments or participate in some game, promotion, survey or other feature of the website. Providing personal information is up to you. If you do not want your personal information collected, please do not submit it.
+We also use personally-identifiable information about you to improve our website features and content and to analyze website usage. In addition, we use personally-identifiable information for market research purposes if you give us permission to do so.  
+  
+**_How We Share Personally-Identifiable Information_**  
+Except as described below, we don’t sell, transfer or otherwise disclose to third parties the personally-identifiable information we collect on this website without your prior consent. We disclose information where we think it’s necessary to investigate or prevent an actual or suspected crime or injury to ourselves or others or where disclosure is required by law. We also may disclose information in response to a request from law enforcement authorities or other government officials. We also disclose information to third parties we retain to perform services on our behalf. For example, we hire service providers to help us run promotions, fulfill orders you may place and provide customer service. These service providers may have access to personally-identifiable information about our website visitors if it is needed to perform their functions for Mondelēz International, but they are not authorized by Mondelēz International to use the information for their own marketing purposes.
 
-**USE OF YOUR PERSONAL INFORMATION.**  
-We may use your personal information as follows:
+On our website, we may conduct joint promotions with other companies. We may share with our promotional partners (and their service providers) certain personally-identifiable information as necessary to conduct the promotion. We will not share this information with our promotional partners for any other purpose unless you tell us it’s ok to do so.
 
-  * To respond to your questions and requests, to provide you with access to certain areas and features and to communicate with you about your activities on this website. 
-  * To share it with our Related Parties as required to perform functions on our behalf in connection with the Site (such as delivery of merchandise, administration of the website or promotions or other features on it, marketing, data analysis or customer services).  To do so, it may be necessary for us to transmit your personal information to outside the above Jurisdiction and you agree to this transfer.  Further use or disclosure of the information by them for other purposes is not permitted. 
-  * To provide you with product information or promotional and other offers from us or our Related Parties.   
-**  
-*** However, at the point of collection of your information we will provide you either an “opt in” or “opt-out” mechanism depending on the requirements of the Site’s Jurisdiction and the Site.   An “opt-in” mechanism will provide you the opportunity to positively indicate that you would like or do not object to our sending you such further communications and we will not send you any unless you have “opted-in”.  An “opt-out” mechanism will provide you the opportunity to indicate that you do not want us to send you such further communications, and if you “opt-out” we will not send you any.  
-**  
-*** Either way, opting-in or opting-out will be up to you and, in addition, if you do not want us to use your personal information for a particular purpose or disclose it to a third party, you may “opt out” at any time by contacting us as provided above.  
-**  
-*** Specific opt-outs may also be provided at the point of collection or along with the communications to you.  
-**  
-*** Please note though, by opting-out, you may not be able to participate in certain activities on the Site.    
+We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through this website in a manner that is consistent with this Privacy Notice.  
+  
+**_Links To Other Websites_**  
+This website may contain links to other websites. We provide these links solely for your convenience and information. Different websites have different privacy practices. You should always check the privacy notice of the specific site you’re visiting to understand the privacy practices associated with that site.  
+**_Your Choices_**  
+You can change your preferences for follow-up contacts by Mondelēz International. If you’re registered with this site, you can change the information you’ve provided to us in the registration section of the site. If you prefer, you can cancel your registration altogether. [E-mail](http://mdlz.custhelp.com/) us if you wish to take this action.   
+**_Children's Privacy_**  
+This website may appeal to kids under 13. Our conduct on the website is governed by federal law and regulations that address children’s online privacy, as well as by the guidelines of the Children’s Advertising Review Unit (CARU), a part of the Council of Better Business Bureaus.
 
-  * For other purposes set out when your information is collected or in any additional terms and conditions applicable to the particular feature of the Site. 
-  * For disclosures required by law, regulation or court order.
-  * For the purpose of or in connection with legal proceedings or necessary for establishing, defending or exercising legal rights. 
-  * In an emergency to protect the health or safety of Site users or the general public or in the interests of national security.
+We do not knowingly collect personally-identifiable information from kids under 13 on our website, except as permitted by legal requirements and the CARU guidelines. We sometimes offer promotions on our website, such as contests, sweepstakes and games. We may permit a child to enter certain promotions by submitting the parent’s (not the child’s) e-mail address. If the child wins, we contact the parent for further information needed for any prize delivery. Unless the parent has explicitly consented, we do not (i) use the child’s or the parent’s personal information for any purpose other than to complete the promotion or (ii) share the information with third parties except as described above in this Privacy Notice. We do not retain the child’s personally-identifiable information in our database unless the parent has given us permission to do so.
 
+We permit children under the age of 13 to contact us through the website “Contact Us” link with questions or comments. We request only the child’s first name and e-mail address and use that information solely to respond directly to the child on a one-time basis. We do not use the information to recontact the child and we delete the child’s personal information from our database after responding to the child’s inquiry.
 
+Upon proper identification, a parent may review any personal information we have collected from his or her child if we still have the information in our database. The parent also may request that the child’s information be deleted from our database and may refuse to permit further collection or use of the child’s information. If you are a parent and wish to exercise these rights, please contact us as described below.   
+  
+**_How We Protect Personally-Identifiable Information_**  
+The security of personally-identifiable information is important to us. We maintain administrative, technical and physical safeguards to protect against unauthorized use, disclosure, alteration or destruction of the personally-identifiable information we collect on this website.  
+**_Updates To This Privacy Notice_**  
+We may change or update portions of this Privacy Notice at any time. Please check back from time to time so you are aware of any changes or updates to the notice. We will indicate the notice’s effective date on the first page of the notice.  
+**_How To Contact Us_**  
+If you have any questions about this Privacy Notice, you can contact us at:
 
-Except as provided in herein, we will not provide any of your personal information to any third parties without your specific consent. 
+Mondelēz Consumer Relations  
+Post Office Box Y  
+Wilkes-Barre, PA 18703  
+1-855-535-5948  
+(9 a.m. - 6 p.m. Eastern Time, Monday through Friday, excluding holidays.)
 
-**CHECKING YOUR PERSONAL INFORMATION.**     
-If you wish to verify, correct, or update any of your personal information collected through this Site, contact us at the above “Contact” address, telephone number or e-mail. 
+[E-mail us ](http://mdlz.custhelp.com/)
 
-**CHILDREN.**  
-We take the protection of children’s privacy seriously.   We operate this website in compliance with all applicable law in the above Jurisdiction.  Children under 13 years of age should have a parent/guardian’s consent before providing any personal information to the website.   We will not, as provided by applicable law, require or request children under this age to provide more personal information than is reasonably necessary to participate in the applicable activity on the Site.  If we determine upon collection that a user is under this age, we will not use or maintain his/her personal information without the parent/guardian’s consent.  Without such consent, though, the child may not be able to participate in certain activities.  However, in certain circumstances, we may maintain and use such information (in accordance with the rest of this Policy and applicable law) in order to notify and obtain consent from the parent/guardian and for certain safety, security, liability and other purposes permitted under applicable law.  A parent/ guardian can review, remove, change or refuse further collection or use of their child’s personal information by contacting us as provided above (include child’s name, address and e-mail address).
+We would be happy to answer your questions or hear your concerns.
 
-**COLLECTION OF ADDITIONAL INFORMATION.**  
-Occasionally, when you connect to our Site we may use "cookie" technology and IP addresses to automatically collect certain technical non-personally identifiable information. This might include the your type of Internet Browser or computer, the domain name of your Internet Service Provider, number of page visits and the character and duration of such visits.  We also track the number of visitors to our website in an aggregate form.  Personally identifiable information is not extracted in this process. This information helps us keep our website fresh and interesting to our visitors and tailor content to a visitor's interests. We may discloser certain non-personally identifiable information to potential partners, advertisers (who may use this information to provide advertisements tailored to your interests) or other third parties, but we will not disclose any personally identifiable information, except as provided in this Policy.  Also, we may allow third parties that serve advertisements on our Site (including our promotion partners) to place and access cookies on your computer, but they will not be able to access our cookies.  The use of cookies by such third parties are not subject to our Policy, but are subject to their own respective privacy policies. You may set your computer browser to disable cookies or to alert you when cookies are being sent. If you disable cookies, we may be unable to optimize your visit to our website and certain features may not be available. 
-
-**SECURITY OF YOUR INFORMATION.**  
-We use certain reasonable security measures to help protect information you send to this Site.  However, we cannot guarantee the security of such information.   To the fullest extent permitted by law, we disclaim all liability and responsibility for any Damages you may suffer due to any loss, unauthorized access, misuse or alteration of any information you submit to this website.
-
-**OTHER SITES.**     
-This Site may contain links to other web sites that we do not own or operate.  We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies.  Downloading material from certain sites may risk infringing intellectual property rights or introducing viruses into your system.  You should note when you leave this Site and read the privacy policies and terms of these other sites.  You should also independently assess the authenticity of any website which appears or claims that it is one of our sites (including those linked to through an email).
-
-**OTHER**
-
-**Jurisdiction.**   We control and operate the Site from the above Company Location (regardless of where hosting servers are located).  All matters relating to the Site are governed by the laws of the above Jurisdiction, without reference to conflict or choice of law principles.  You agree that jurisdiction and venue for any legal proceeding relating to the Site shall be in appropriate courts located in the above Jurisdiction.  We do not warrant or imply that the Site or materials on it are appropriate for use outside of the above Country.  The information set forth in this Site concerning any products or services is applicable only in the Jurisdiction, and these products or services may not be available in all locations.  If you are located outside of this Country, you are solely responsible for compliance with any applicable local laws.
-
-**Transfer of assets.    **During the course of our business, we may sell or purchase assets.  If another entity acquires us or all or substantially all of our assets, personally and non-personally identifiable information we have collected about the users of the Site may be transferred to such entity.  Also, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties.
-
-**Severability.**  If for any reason, any provision herein is found void or unenforceable, it will be severed to the extent void or unenforceable and the remaining provisions will continue in full force and effect.
-
-**Definitions/Interpretation.   **As used herein:
-
-“ **Damages** ” means any and all direct, special, indirect, consequential or punitive loss or other damages of any kind (whether in contract, including fundamental breach, tort, including negligence, or otherwise).
-
-“ **including** ” means “including, but not limited to”.
-
-“ **materials sent to the Site** ” (and “materials you send to the Site” and other like terms) means anything emailed, uploaded, posted or otherwise transmitted or sent to the Site (whether information, text, material, data or code or other) by you or another user.
-
-“ **Related Parties** ” means all of our parent, subsidiary and affiliated companies, Site Developers and other promotional partners.
-
- “ **Site Developer** ” means any party involved in creating, producing, delivering or maintaining the Site.
-
-“ **use of this Site** ” (and “using” and other like terms) means “any and all use of the Site of any kind whatsoever, including access to, browsing of, reviewing, posting of, transmitting, reviewing, downloading, and other using the Site or any material on the Site.”
-
-**Changes.**   **Please note, we may change information on this Site and/or this Policy, at any time without notice.   You should regularly review this Policy for any changes.  Any changes will be effective immediately upon the posting of the revised Policy on this Site.  By continuing to use the Site, you agree to any changes, and by providing continued access to the Site we are providing you consideration for agreement to such changes.**
-
-**Contact Us.    **If you have any questions or comments regarding this Site, please contact us at the above “Contact” address, telephone number or e-mail.  
-
-
- 
+© Mondelēz International and/or its affiliate(s). 
