@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ezgoal.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629205528id_/http%3A//www.ezgoal.com/house/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezgoal.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208091337id_/http%3A//www.ezgoal.com/house/privacy.asp) for the most accurate reproduction.*
 
-# Computer software free downloads and software reviews @ EZGoal.com
+# EZ Goal Computer Software download free and software reviews
 
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for the EZGoal Network. The "EZGoal Network" includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned or operated by IT Netix Corporation and each of its wholly-owned subsidiaries (collectively the "Site") home page (collectively hereafter "EZGoal"). By accessing the EZGoal Network, you are consenting to the information collection and use practices described in this Privacy Policy. 
 
