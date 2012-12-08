@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitchy.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510101358id_/http%3A//twitchy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitchy.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208121053id_/http%3A//twitchy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Twitchy
 
@@ -46,7 +46,7 @@ We use commercially reasonable measures to put in place appropriate physical, el
 
 **OUR POLICY TOWARD CHILDREN**
 
-Twitchy.com  is not directed to persons under thirteen (13) years of age. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at jesse@twitchy.com. We do not knowingly collect personally identifiable information from children under the age of thirteen (13). If we become aware that a child under thirteen (13) has provided us with personal identifiable information, we will delete such information from our system.
+Twitchy.com  is not directed to persons under thirteen (13) years of age. If a parent or guardian becomes aware that his or her child has provided us with private personally-identifiable information without their consent, he or she should contact us at jesse@twitchy.com. We do not knowingly collect private personally-identifiable information from children under the age of thirteen (13). If we become aware that a child under thirteen (13) has provided us with private personal identifiable information, we will delete such information from our system. (Updated October 9, 2012 to clarify that this policy pertains to private information. It does not pertain to public information knowingly disseminated on the Internet via Twitter or other social media sites.)
 
 **INTERNATIONAL READERS**
 
@@ -58,6 +58,6 @@ In the event you have a privacy complaint or a query with respect to information
 
 **CHANGES TO THIS PRIVACY POLICY**
 
-****This Privacy Policy may be changed periodically. The revised Privacy Policy will be posted to this Site so that you are aware of any changes. Your continued use of twitchy.com constitutes your agreement to this Privacy Policy and any future revisions.
+This Privacy Policy may be changed periodically. The revised Privacy Policy will be posted to this Site so that you are aware of any changes. Your continued use of twitchy.com constitutes your agreement to this Privacy Policy and any future revisions.
 
-**DATE LAST MODIFIED: March 13, 2012**
+**DATE LAST MODIFIED: October 9, 2012**
