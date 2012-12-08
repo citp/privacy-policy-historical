@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vend-o.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602105036id_/http%3A//vend-o.com/en/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vend-o.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208063514id_/http%3A//vend-o.com/en/about-us/privacy) for the most accurate reproduction.*
 
 # Vendo
 
-(Last updated january 3rd, 2011 )
+(Last updated January 3rd, 2011 )
 
 ##  This privacy statement discloses the privacy practices for   
 Vendo Services GmbH [vendoservices.com](http://vendoservices.com/).  
@@ -46,6 +46,6 @@ While we use encryption to protect sensitive information transmitted online, we 
 ####  If you feel that we are not abiding by this privacy policy, you should contact us immediately via email at [ privacy@vendoservices.com ](mailto:privacy@vendoservices.com)   
 
 
-(Last updated january 3rd, 2011 )
+(Last updated January 3rd, 2011 )
 
  
