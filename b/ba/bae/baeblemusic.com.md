@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baeblemusic.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518113116id_/http%3A//www.baeblemusic.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baeblemusic.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208071056id_/http%3A//www.baeblemusic.com/privacy.aspx) for the most accurate reproduction.*
 
 # Baeblemusic.com – Live Music, Music Videos, Music News and Features, Free Music Downloads and Podcasts.
 
@@ -10,9 +10,6 @@ Connect To Baeble
 BAEBLE NEWSLETTER
 
 [](http://feeds.feedburner.com/Baeblemusic)SUBSCRIBE
-
-GET OUR APPS  
-[](http://itunes.apple.com/us/app/baeblemusic/id392961300?mt=8)   [](https://market.android.com/details?id=com.baeblemusic.android)
 
   
 
