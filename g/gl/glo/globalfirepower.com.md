@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalfirepower.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504020942id_/http%3A//www.globalfirepower.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalfirepower.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208055637id_/http%3A//www.globalfirepower.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Global Firepower Privacy Policy
 
