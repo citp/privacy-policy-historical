@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kellysearch.com privacy policy that was archived on 2012-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626035426id_/http%3A//www.kellysearch.com/static/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kellysearch.com privacy policy that was archived on 2012-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121208021942id_/http%3A//www.kellysearch.com/static/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="HeaderPresentationControl1">
 
@@ -23,13 +23,12 @@
 			<meta name="robots" content="noindex,follow">
 			<link rel="STYLESHEET" href="/v2_layout.css" type="text/css" media="Screen">
 			<link rel="STYLESHEET" href="/v2_print.css" type="text/css" media="Print">
-			<script async="" type="text/javascript" src="https://du8783wkf05yr.cloudfront.net/rbi_uk.js"></script><script src="/Scripts/Scripts.js" type="text/javascript"></script>
+			<script src="/Scripts/Scripts.js" type="text/javascript"></script>
 			<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
-	</head>
-<body>
+	<link type="text/css" rel="stylesheet" href="/v2_layout.css" media="screen"></head>
+<body><div id="rbiCookiePolicy_pushDownBoxWrapper"><div id="rbiCookiePolicy_pushDownBox"> <div id="rbiCookiePolicy_siteTitle"><h2>Cookies on the Kellysearch website</h2></div><div id="rbiCookiePolicy_mainInformation"><a onclick="return closeClick();" href="#" id="rbiCookiePolicy_closeBtn">close </a><p>Our website uses cookies, which are small text files that are widely used in order to make websites work more effectively. To continue using our website and consent to the use of cookies, click away from this box or click 'Close'</p><a target="_blank" href="/static/privacypolicy.html" class="popupReadmoreLink">Find out about our cookies and how to change them</a></div></div></div>
     <div id="EuCookieDirectivePresentationControl">
-		<a href="/static/privacypolicy.html" style="font-family:arial; font-size:14px;">Cookie and privacy</a>
 
 	</div>
     <div class="TopBanners">
@@ -227,7 +226,7 @@ List of all products:
 <span><a href="http://www.kellysearch.com/catalogs.aspx">Document Library</a></span>
 
 </div><div class="BottomNavLinks_Float"><span><a href="http://www.rbi.co.uk">© Reed Business Information Limited 2011</a></span>
-<span>Last Updated:&nbsp;6/25/2012</span></div>
+<span>Last Updated:&nbsp;12/7/2012</span></div>
 	</div>
         
         <div id="EpiFooterPresentationControl">
@@ -246,31 +245,330 @@ List of all products:
   var pageTracker = _gat._getTracker("UA-224684-1");
   pageTracker._initData();
   pageTracker._trackPageview();
-  </script>
-	</div>
-        <div id="HitBoxPresentationControl">
-		
-	<!-- No longer Hitbox, now GWA tagging -->
-	<!-- Begin GWA javascript -->
-	<script type="text/javascript">
-	(function(d, t) {
-	var a = d.createElement(t), s = d.getElementsByTagName(t)[0];
-	a.async = 1;
-	a.type = "text/javascript";
-	a.src = location.protocol + "//du8783wkf05yr.cloudfront.net/rbi_uk.js";
-	s.parentNode.insertBefore(a, s);
-	} (document, "script"));
-	</script>
-	<!-- End GWA javascript -->
+  </script><script type="text/javascript" defer="defer">
+(function () {
+	
 
-	</div>
-        <div id="UnicaTagPresentationControl1">
+	// -------------------------------------------------------------------------------
+	// <copyright file="cookiepolicy.js" company="RBI">
+	// Copyright (c) 2012 All Right Reserved Reed Business Information
+	//
+	// THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+	// KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+	// IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+	// PARTICULAR PURPOSE.
+	//
+	// </copyright>
+	// <author>Reed Business Information</author>
+	// <date>2012-07-06</date>
+	// <version>3.0.0</version>
+	// <summary>Contains a basic implementation of RBI cookie policy</summary>
+	// -------------------------------------------------------------------------------
+	
 
-	</div>
-        <div id="RedirectOnErrorPresentationControl">
+	var rbiCookiePolicy = {};
+	
 
-	</div>
-    </div>
+	
+
+	
+
+	/* ------------------------------------------------------------------------
+	Required variables
+	------------------------------------------------------------------------*/
+	
+
+	//settings: please change these
+	rbiCookiePolicy.defaults = {};
+	
+
+	rbiCookiePolicy.defaults.websiteName = 'Kellysearch';
+	
+
+	rbiCookiePolicy.defaults.websitepolicy_link = "/static/privacypolicy.html";
+	
+
+	rbiCookiePolicy.defaults.stylesheet_path = "/v2_layout.css";
+	
+
+	rbiCookiePolicy.defaults.cookieName = "rbi_cookies_accepted";
+	
+
+	rbiCookiePolicy.defaults.cookiePolicyVersion = "v1";
+	
+
+	rbiCookiePolicy.defaults.cookieAge = 18250; //default expiry of 18250 days
+	
+
+	rbiCookiePolicy.defaults.useInlineStyling = false;
+	
+
+	// These will only take effect where inline styling is turned on - otherwise they should be supplied in a css file
+	rbiCookiePolicy.defaults.styling = {}; 
+	rbiCookiePolicy.defaults.styling.textColour = 'white';
+	rbiCookiePolicy.defaults.styling.backgroundColour = '#0177A7';
+	rbiCookiePolicy.defaults.styling.pushDownHeight = '75px';
+	rbiCookiePolicy.defaults.styling.closeButtonImage = '/ksimages/popup_close_btn.gif';
+	//end of styling settings
+	
+
+	
+
+	//You shouldn't need to change these:
+	rbiCookiePolicy.pushDownText = "<p {0}>Our website uses cookies, which are small text files that are widely used in order to make websites work more effectively. To continue using our website and consent to the use of cookies, click away from this box or click 'Close'</p>";
+	
+
+	/*templates: don't expect too much from the formatting function*/
+	rbiCookiePolicy.websiteTextTemplate = '<h2 {1}>Cookies on the {0} website</h2>'
+	
+
+	rbiCookiePolicy.htmlTemplate = '<div id="rbiCookiePolicy_pushDownBoxWrapper" {7}><div id="rbiCookiePolicy_pushDownBox" {0}> <div id="rbiCookiePolicy_siteTitle" {1}>{2}</div><div id="rbiCookiePolicy_mainInformation" {3}><a onclick="return closeClick();" href="#" id="rbiCookiePolicy_closeBtn" {4}>close </a>{5}<a target="_blank" href="{6}" class="popupReadmoreLink" {8}>Find out about our cookies and how to change them</a></div></div></div>'
+	
+
+	rbiCookiePolicy.pushDownObject;
+	
+
+	
+    
+	/* ------------------------------------------------------------------------
+	First point load function.
+	Is triggered when document loads.
+	------------------------------------------------------------------------*/
+	function rbiCookiePolicy_load() {
+	
+    
+		if (!cookieExists()) {
+			if (!rbiCookiePolicy.defaults.useInlineStyling){
+				addStylesheet();
+			}
+	
+    
+			showPushDown();
+			addClickEvents();
+		}
+	}
+	/* ------------------------------------------------------------------------
+	Adds css file to the head of document.
+	------------------------------------------------------------------------*/
+	function addStylesheet() {
+		var headID = document.getElementsByTagName("head")[0];
+		var cssNode = document.createElement('link');
+		cssNode.type = 'text/css';
+		cssNode.rel = 'stylesheet';
+		cssNode.href = rbiCookiePolicy.defaults.stylesheet_path;
+		cssNode.media = 'screen';
+		headID.appendChild(cssNode);
+	}
+	
+
+	/* ------------------------------------------------------------------------
+	Very simple string formatter modified from http://stackoverflow.com/questions/610406/javascript-equivalent-to-printf-string-format/
+	------------------------------------------------------------------------*/
+	function stringFormat() {
+	  var args = arguments;
+	  return args[0].replace(/{(\d+)}/g, function(match, number) { 
+		var argsPosition = 1 + Number(number);
+		return typeof args[argsPosition] != 'undefined'
+		  ? args[argsPosition]
+		  : match
+		;
+	  });
+	};
+	
+
+	/* ------------------------------------------------------------------------
+	Displays the rbi cookie pushDown box.
+	------------------------------------------------------------------------*/
+	function showPushDown() {
+		var mainStyle = '';
+		var titleStyle = '';
+		var mainInformationStyle = '';
+		var closeLinkStyle = '';
+		var informationLinkTarget = rbiCookiePolicy.defaults.websitepolicy_link;
+		var wrapperStyle = '';
+		var titleTextStyle = '';
+		var moreInfoStyle = '';
+		var pushdownTextStyle = '';
+	
+    
+	
+
+		if (rbiCookiePolicy.defaults.useInlineStyling) {
+			mainStyle = stringFormat('style="margin:auto; width: 960px; height: 100%;background-color: {0};color: {0};font-family: Arial, sans-serif, serif;"', rbiCookiePolicy.defaults.styling.textColour);
+			titleStyle = stringFormat('style="float:left;background-color: {0};height: 100%;width: 150px; margin:0"', rbiCookiePolicy.defaults.styling.backgroundColour);
+			mainInformationStyle = stringFormat('style="float:left; background-color: {0};width: 809px;height: 100%; margin:0 0 0 1px; font-size: 12px;"', rbiCookiePolicy.defaults.styling.backgroundColour);
+			closeLinkStyle = stringFormat('style="float: right;margin: 10px;color: {0} !important;text-decoration: none !important;background-image: url(\'{1}\');font-weight: bold;background-position: right 2px;background-repeat: no-repeat;padding-right:15px;"', rbiCookiePolicy.defaults.styling.textColour, rbiCookiePolicy.defaults.styling.closeButtonImage);
+			wrapperStyle = stringFormat('style="width: 100%; background-color: {0}; height: {1}"', rbiCookiePolicy.defaults.styling.backgroundColour, rbiCookiePolicy.defaults.styling.pushDownHeight);
+			titleTextStyle = stringFormat('style="font-size: 14px; margin: 10px; text-align: right;"');
+			moreInfoStyle =  stringFormat('style="float:right;margin-right: 5px; color: {0} !important;font-weight: bold;"', rbiCookiePolicy.defaults.styling.textColour);
+			pushdownTextStyle = 'style="margin:10px"';
+		}
+	
+    
+		var pushdownText = stringFormat(rbiCookiePolicy.pushDownText, pushdownTextStyle);
+		var titleText = stringFormat(rbiCookiePolicy.websiteTextTemplate, rbiCookiePolicy.defaults.websiteName, titleTextStyle);
+	
+    
+		var pushDownHTML = stringFormat(rbiCookiePolicy.htmlTemplate, mainStyle, titleStyle, titleText, mainInformationStyle, closeLinkStyle, pushdownText, informationLinkTarget, wrapperStyle, moreInfoStyle);
+	
+    
+		if (!document.body) {
+			document.write(pushDownHTML);
+		}
+		else {
+		   // document.body.insertBefore(pushDownHTML, document.body.firstElementChild);
+		   document.body.innerHTML = pushDownHTML + document.body.innerHTML;
+		}
+	
+    
+		rbiCookiePolicy_pushDownObject = document.getElementById('rbiCookiePolicy_pushDownBoxWrapper');
+	}
+	
+
+	/* ------------------------------------------------------------------------
+	 Checks if the given element is visible.
+	------------------------------------------------------------------------*/
+	function rbiCookiePolicy_isVisible(obj) 
+	{
+		if (obj == document)
+			return true;
+	
+    
+		if (!obj)
+			return false;
+		if (!obj.parentNode)
+			return false;
+		if (obj.style) {
+			if (obj.style.display == 'none')
+				return false;
+			if (obj.style.visibility == 'hidden')
+				return false;
+		}
+	
+
+		//Try the computed style in a standard way
+		if (window.getComputedStyle) {
+			var style = window.getComputedStyle(obj, "")
+			if (style.display == 'none')
+				return false;
+			if (style.visibility == 'hidden')
+				return false;
+		}
+	
+
+		//Or get the computed style using IE's silly proprietary way
+		var style = obj.currentStyle;
+		if (style) {
+			if (style['display'] == 'none')
+				return false;
+			if (style['visibility'] == 'hidden')
+				return false;
+		}
+	
+    
+		return true;
+	}
+	
+
+	/* ------------------------------------------------------------------------
+	 Checks if the outside of the pushDown has been clicked.
+	------------------------------------------------------------------------*/
+	function addClickEvents() {
+		rbiCookiePolicy_pushDownObject.onclick = function(event) {
+			var event = event || window.event;
+			if (event.stopPropagation) {
+				event.stopPropagation();
+			} else {
+				window.event.cancelBubble = true;
+			}
+		}
+		var clickEvent = function() {
+			if (rbiCookiePolicy_isVisible(rbiCookiePolicy_pushDownObject)) {
+				rbiCookiePolicy_pushDownObject.style.display = 'none';
+				createCookie(rbiCookiePolicy.defaults.cookieName, rbiCookiePolicy.defaults.cookiePolicyVersion, rbiCookiePolicy.defaults.cookieAge);
+			}
+		};
+	
+
+		document.onclick = clickEvent;
+		document.getElementById('rbiCookiePolicy_closeBtn').onclick = clickEvent
+	
+
+	}
+	
+
+	/* ------------------------------------------------------------------------
+	Checks if rbi acceptance cookie already exists and matches the latest 
+	version. Returns true if exists, false if it doesn't.
+	------------------------------------------------------------------------*/
+	function cookieExists() {
+	
+   
+		var cookieValue = readCookie(rbiCookiePolicy.defaults.cookieName);
+	
+    
+		if (!cookieValue)
+			return false;
+	
+    
+		if (cookieValue == rbiCookiePolicy.defaults.cookiePolicyVersion)
+			return true;
+	
+    
+		return false;
+	}
+	
+
+	/* ------------------------------------------------------------------------
+	Creates a cookie with the given name, value and expiry days.
+	------------------------------------------------------------------------*/
+	function createCookie(name, value, days) {
+		var expires = "";
+	
+    
+		if (days) {
+			var date = new Date();
+			date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+			expires = "; expires=" + date.toGMTString();
+		}
+	
+    
+		document.cookie = name + "=" + value + expires + "; path=/";
+	}
+	
+
+	/* ------------------------------------------------------------------------
+	Looks up and returns a cookie based on the given name.
+	------------------------------------------------------------------------*/
+	function readCookie(cName) {
+		var i, x, y, arRcookies = document.cookie.split(";");
+		for (i = 0; i < arRcookies.length; i++) {
+			x = arRcookies[i].substr(0, arRcookies[i].indexOf("="));
+			y = arRcookies[i].substr(arRcookies[i].indexOf("=") + 1);
+			x = x.replace(/^\s+|\s+$/g, "");
+			if (x == cName) {
+				return unescape(y);
+			}
+		}
+	}
+	
+
+	
+
+	//TODO use document.body.insertBefore(p, document.body.firstChild);
+	
+
+	
+
+	// First execution point
+	rbiCookiePolicy_load();
+	
+
+	
+
+	})();
+	
+  </script></div></div>
     <div id="UnicaTagPresentationControl">
 
 	</div>
