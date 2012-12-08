@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affinity.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621144626id_/http%3A//www.affinity.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affinity.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208094329id_/http%3A//www.affinity.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Affinity Advertiser & Publisher Solutions
 
