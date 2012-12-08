@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the capitalfm.co.ke privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516044004id_/http%3A//www.capitalfm.co.ke/%3Fpage_id%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalfm.co.ke privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208101815id_/http%3A//www.capitalfm.co.ke/privacy-policy) for the most accurate reproduction.*
 
-# The Capital Group »» 98.4 Best mix of Music, News, Business, Sports and Entertainment » Privacy Policy
+# Privacy Policy | The Capital Group » 98.4 Best mix of Music, News, Business, Sports and Entertainment
 
 ### The Capital Group
 
