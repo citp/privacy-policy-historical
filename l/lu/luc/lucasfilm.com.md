@@ -1,256 +1,175 @@
-> *The following text is extracted and transformed from the lucasfilm.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628080240id_/http%3A//www.lucasfilm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucasfilm.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208103115id_/http%3A//lucasfilm.com/privacy.html) for the most accurate reproduction.*
 
-# Lucasfilm: | Privacy Policy
+# Lucasfilm: | Lucasfilm Privacy Policy
 
-|  |    
-Privacy Policy
+  
+Lucasfilm Privacy Policy
 
-**Lucas Online**
+Last updated: **August 23, 2012**
 
-**WELCOME!**
+[](https://privacy.truste.com/privacy-seal/Lucasfilm-Ltd-/validation?rid=84ab3a44-621b-4460-b4a5-fa03aac52de1 "TRUSTe online privacy certification")
 
-[](http://www.truste.org/ivalidate.php?companyName=LucasFilm%20Ltd.&sealid=101)
+Lucasfilm values your privacy and we want to ensure your experience with Lucasfilm Ltd. and its affiliates, subsidiaries, and related corporate entities (collectively, "Lucasfilm," "we," or "us") and our websites, mobile applications, and games are as satisfying and safe as possible. We have established this Privacy Policy (this "Policy") to explain how we collect, use and share information. By accepting this Privacy Policy, you expressly consent to the information handling practices described in this Policy.
 
-We are committed to respecting the privacy rights of all visitors to our Web site. This Privacy Policy also explains the choices that you can make about the way your information is collected and used. It is available for you to review on our homepage and at least on every page where we have requested personally identifiable information, including from kids under 13. BY USING THIS WEB SITE, YOU SIGNIFY YOUR ASSENT TO THE TERMS OF THIS PRIVACY POLICY. If you do not agree with any term in this Privacy Policy, do not use this Web site. 
+**TRUSTe Program Compliance**
 
-KIDS: Please check with your parents before entering any information on this or any other Web site. See our **"SPECIAL NOTE TO KIDS"** below. 
+Lucasfilm has been awarded TRUSTe's Web and Children's Privacy Seal signifying that this privacy policy and the practices described in this Policy have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through all websites that this policy appears on, with the exception of mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@lucasfilm.com](mailto:privacy@lucasfilm.com). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-**PARENTS:**
+**Quick Reference:**
 
-We are committed to protecting children's privacy. We developed this Web site to be an enjoyable experience for customers of all ages, including kids under 13. We recognize that some younger children may not understand some of the information contained on this Web site or how this Web site operates. PLEASE BE SURE TO CAUTION YOUR CHILD UNDER 13 AGAINST PROVIDING PERSONALLY IDENTIFIABLE INFORMATION ONLINE PRIOR TO THE WEB SITE OPERATOR OBTAINING YOUR CONSENT. It is our policy not to knowingly collect personally identifiable information from children under 13 without a parent's or guardian's permission. See our "SPECIAL NOTE TO PARENTS OF KIDS UNDER 13" below. 
+1\. Information We Collect  
+2\. How We Use Information  
+3\. When We Disclose Personal Information  
+4\. Third Party Advertising Technologies  
+5\. Children Under 13  
+6\. Your Choices  
+7\. Security   
+8\. Data Integrity and Data Retention  
+9\. Access to Personal Information  
+10\. Third Party Login Functionality  
+11\. Third Party Services and Links  
+12\. International Users & U.S.-EU and U.S.-Swiss Safe Harbor Frameworks  
+13\. California Privacy Rights  
+14\. Changes and Updates to This Policy  
+15\. Contacting Us
 
-Please discuss this Privacy Policy with your children so that they will better understand how to use this Web site and the information they may be asked to provide. We strongly believe that providing our visitors with accurate and adequate notice about the Web site will lead to informed choices and decisions about how to use the Web site, as well as protecting our users' privacy. 
+  
 
-**WHAT INFORMATION DO WE COLLECT?**
 
-Generally, we limit the collection of information to what is known as non-personally identifiable information (e.g., first name, age, state or country). We also collect certain types of personal information such as an email address. This information is collected so that visitors can participate in activities (such as, receiving our e-mail newsletter[s], saving game designs and scores, participating in our question polls). 
+**1\. Information We Collect**
 
-We have many Web sites that contain different activities for you and your family. Some sites are informational only and some collect your personally identifiable information so that you may participate in different activities. The following sites allow children to register following the receipt of parental consent: www.starwars.com and lucasarts.com. 
+In describing our collection, use, and sharing of information in this Policy, we refer to our collection and use of "Personal Information." "Personal Information," as used in this Policy, is personally identifiable information, which is information that directly identifies an individual, such as first and last name, mailing address, email address or other online contact information, or telephone number. We collect Personal Information, as well as non-personally identifiable information on Lucasfilm websites, mobile applications, and games.
 
-In addition, our www.starwars.com site includes a paid membership section, Hyperspace membership, which collects additional personally identifiable information which is not collected for free memberships. Free membership registration requires only the collection of your full name, e-mail address and the creation of a screen name. Hyperspace membership requires the collection of your mailing address and credit/debit card information required for purchasing the membership. Hyperspace members have the ability to participate in activities which free members cannot access, such as special forum participation. 
+We collect Personal Information in two ways. First, we collect information you provide to us in optional, voluntary submissions, such as in registration forms, user profiles, promotional signups, sweepstakes/contest entries, requests for customer service, and resume submissions. Second, some Personal Information may be collected automatically. This is described below in "Passive Data Collection."
 
-In some areas on our Web sites additional personally identifiable information is asked for and collected (for example, full name, mailing address and phone number). This collection is necessary so that our visitors can participate in certain activities, such as online sweepstakes or online promotions. You may not be able to access those areas or participate in such activities without being registered or giving us the necessary personally identifiable information. Whenever we request that you submit such personally identifiable information, we will notify you of our intended use of the information, as more specifically discussed below. PLEASE BE AWARE THAT WE ARE PROHIBITED FROM CONDITIONING A CHILD'S PARTICIPATION IN AN ACTIVITY ON THE CHILD'S DISCLOSING MORE PERSONAL INFORMATION THAN IS REASONABLY NECESSARY TO PARTICIPATE IN THAT ACTIVITY. YOU ARE UNDER NO OBLIGATION TO PROVIDE, AND CAN DECLINE TO PROVIDE, ANY REQUESTED INFORMATION AT ANY TIME. HOWEVER, IF YOU DECLINE TO PROVIDE PERSONAL INFORMATION THAT IS REASONABLY NECESSARY TO PARTICIPATE IN CERTAIN ACTIVITIES, YOU MAY NOT BE ABLE TO PARTICIPATE IN THOSE ACTIVITIES AT THIS WEB SITE. 
+We may also obtain information, including Personal Information, from third party sources. If we directly combine information from third parties with Personal Information that we have collected, we will treat the combined information as Personal Information and handle it in accordance with this Policy. In addition, please note that we may solicit third parties to collect Personal Information on our behalf and in such cases we instruct those third parties to comply with this Policy and all applicable data protection laws.
 
-The types of information collected at this Web site may include: 
+Please be aware that we are prohibited from conditioning a child's participation in any activity on that child disclosing more personal information than is reasonably necessary to participate in that activity. You are under no obligation to provide, and can decline to provide, any requested information at any time. However if you decline to provide personal information that is reasonably necessary to participate in certain activities, you may not be able to participate in those activities on certain websites.
 
-  * Contact information, such as full name, e-mail address and mailing address. 
-  * Financial information and/or Credit/Debit Card data (for, by way of example, online store purchase information or for Hyperspace membership). Personal identifiers, such as screen names and passwords. 
-  * Demographic information, such as date of birth, age, aggregate information, gender, state and country. 
-  * Internet Protocol (IP) Information, such as your IP address and browser type. 
-  * Information collected by or held in "cookies" or collected by web beacons. 
+_Passive Data Collection_
 
+We may receive passively-collected information through a variety of methods including but not limited to: 
 
+**Cookies and Web Beacons.** We may use a variety of methods, including "cookies" and "Web beacons," to collect information. A cookie is a small data file that is transferred to an Internet user's browser by a web server. Cookies are designed to store basic information, such as a user's preferences. A Web beacon (sometimes referred to as a "clear GIF") is a small string of code placed in a web page, email message or other media format in order to gather statistical usage information.
 
-**HOW DO WE USE INFORMATION?:**
+The information that we collect with cookies, Web beacons, and other passive methods may include your IP address, information about how you interact with advertisements and other content, browser type, system type, device type, the content and pages that you access, the date and time you view pages, and the page from which you navigated. 
 
- **Registration:**
+**Click-through URLs.** In some of our email messages, we may use a "click-through URL" linked to content on a website. When you click one of these URLs, you pass through a separate web server before arriving at the destination page. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked in this way, you should not click text or graphic links in the email messages.
 
-Our Web site's registration form requires users to give us contact information, unique identifiers, and demographic information. All registration information is submitted to us on a voluntary basis. We may also ask registered members to tell us how they found out about us. Once you register, we use customer contact information from the registration form to contact you, to send you information about our company and/or to give you updates on products and/or services. You may register on our Web site and choose not to receive information and updates by unchecking the relevant box on the registration form. KIDS, GET YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE YOU REGISTER OR PROVIDE ANY INFORMATION. 
+**Location-Based Services.** We may collect, use, and share (with Lucasfilm partners, service providers and licensees) precise location data, including the real-time location of your mobile or fixed location device. 
 
-**Product Support for LucasArts visitors:**
+**Analytics Tools.** We use analytics tools and other third party technologies to collect non-personal information in the form of various usage and user metrics when you use our online products and services. These tools and technologies collect and analyze certain types of information, including cookies, IP addresses, device and software identifiers, referring and exit URLs, onsite behavior and usage information, game use metrics and statistics, feature use metrics and statistics, usage and purchase history, MAC Address, mobile unique device ID, and other similar information. 
 
-To send an email to LucasArts Entertainment Company LLC's ("LucasArts") Technical Support team regarding a problem you encounter with a LucasArts product, we may ask you to provide our first name and email address in addition to information about the product you are having trouble with. The email you provide to LucasArts for this purpose is used only to respond to the sender's problem and is deleted as soon as the problem has been resolved. 
+The third party analytics companies who collect information on our websites, mobile products and other online products and/or services may combine the information collected with other information they have independently collected from other websites and/or other online or mobile products and services relating to your activities across their network of websites as well as online and/or mobile products and services. Many of these companies collect and use information under their own privacy policies. 
 
-**Tell a Friend Feature:**
+In addition to our use of technologies as described here, we may permit certain third party companies to help us tailor advertising that we think may be of interest to you based on your use of Lucasfilm products and services and to otherwise collect and use data about your use of Lucasfilm products and services. For more information about this practice, please see the "Third Party Advertising Technologies" section below.
 
-Some of our sites provide you with the opportunity to email a web page to another person, whether it is a friend, family member or relative. For this feature of our site to work, we may need to collect your email address and the email address(es) of those to whom you send the web page. The user inputted email addresses in this context are not stored or used for any other purpose other than to send your initial request. 
+**2\. How We Use Information**
 
-**Résumés:**
+Generally, we use Personal Information to establish and enhance our relationship with our users through four main channels: (1) Communication; (2) Optimization; (3) Advertising; and (4) Sharing Features. Below, we provide some specific examples of how we use the Personal Information and other information we collect. 
 
-Some of our sites allow for the online submission of résumés. Personal information collected from résumés is not generally subject to this Privacy Policy; however, the information submitted will be used solely lawfully and in accordance with disclosures agreed to by candidates at the time of submission. If you have previously submitted a résumé and would like to update your personal information please [click here](https://jobs.lucasfilm.com/). If you would like to remove yourself from consideration as a candidate please email us the request at [unconsider@lucasfilm.com](mailto:unconsider@lucasfilm.com). 
+**Communication and Responding to Requests.** We use user information, including Personal Information to provide users with customer support, process transactions, respond to users' requests, send newsletters and updates, send special offers and advertisements, seek your opinions and feedback, and connect users to Lucasfilm products and services, and to products and services of our partners and licensees. 
 
-**Online Promotions:**
+**Optimization.** We use user information, including Personal Information, behavioral metrics, and other non-personally identifiable information to operate, provide, improve, and maintain our sites and services, to develop new products and services, to prevent abuse and fraud, to personalize and display advertisements and other content for you, and for other administrative and internal business purposes. 
 
-We or our advertisers, licensees and/or other business partners may have special online promotions which feature products or services related to our business activities. TO PARTICIPATE IN ANY PROMOTION, YOU MUST BE 13 YEARS OR OLDER (unless otherwise specified by the promotion's rules and regulations). IF YOU ARE UNDER 13 YOU WILL NEED YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE YOU CAN PARTICIPATE IN THIS ACTIVITY. IF YOU ARE 13 OR OLDER BUT NOT AN ADULT YOU WILL NEED YOUR PARENT'S OR GUARDIAN'S CONSENT TO COLLECT YOUR PRIZE OR RECEIVE YOUR BENEFIT. You may be asked to provide an e-mail address or screen name, so that we can let you know if you won a prize. For other promotions, we may request your name and home address in order to send you products or information by regular mail. The specific rules and regulations governing the particular promotion will vary and your participation constitutes your agreement to abide by those rules and regulations. 
+**Advertising.** We use user information, including Personal Information, behavioral metrics, geo-location data, demographic data and marketing preferences to personalize and display advertisements and other content for you.
 
-Certain of these promotions may be co-branded with one of our partners. For example, we may have an online promotion to apply for a credit card offer branded with one of our brands (e.g. Star Wars). In these instances the collection of your personally identifiable information may occur directly by our third-party partner on their Web site. The promotion will state the privacy policy or policies governing the collection of such information. 
+**Sharing Features.** **** We use user information, including Personal Information and any other information you submit directly or through passive means to provide you with various ways to connect and share content (e.g., web content, media, games, special offers, services and other products) with third parties. For example, we may provide you with the opportunity to email a link to certain content to another person. To use this feature, we may require you to provide certain Personal Information including your email address and the email address of each person to whom you send the link. 
 
-**Online Contests and Sweepstakes:**
+We also may allow you to share links to content with users of various third party services (e.g., social networking, search and sharing services). When sharing links using one of these third party services, if you are not already logged in to the third party service, you will need to supply login credentials for it. If you are not a registered user of the third party service, you will need to sign up for it. You are supplying the registration information or login credentials for the third party service directly to that third party, and not to us. By using any of these third party services to share links to content, you permit us to access, use and disclose any information relating to your account on each such third party service (such as your user name and profile information) that is available to us through the third party service, including through its application programming interface (API) pursuant to this Policy.
 
-We or our advertisers, licensees and/or other business partners may sponsor contests or sweepstakes which may be entered online. The specific rules and regulations governing the particular contest or sweepstakes, including the applicable privacy policy, will vary and your participation constitutes your agreement to abide by those rules and regulations. 
+**3\. When We Disclose Personal Information**
 
-**Collecting and Sharing Data:**
+We do not share Personal Information with third parties except in the limited circumstances described in this Policy. 
 
-The following outlines the ways we share your information. We do not share your personally identifiable information in ways other than as described in this Privacy Policy. We sometimes collect information to find out how people found our Web site, which pages they visited, and how long they stayed. In addition, we may aggregate demographic and non-personal information you provide and use such aggregate information to better design our Web site and to improve our marketing strategy and our product offerings. If you are 13 or older, we may share this demographic and non-personal information with our advertisers, licensees and/or other business partners. 
+**Subscription Services.** We may provide you with the option to sign up for third party subscription services, including mailing lists, account registrations and user profiles. In such events, we will seek to obtain your consent at the place where the information is collected, or notify you that third party information collection practices may apply. Each of these promotional partners may have their own privacy policies. We do not control and are not responsible for these other parties, their privacy policies or their use or treatment of your Personal Information or other information. We and our affiliates make no representation regarding how any third parties use, manage, store, treat or maintain your Personal Information or other information and you should therefore carefully review all such third parties' privacy policies. If you consent to receiving communications from any of these third parties, you will need to communicate with them directly if you later decide that you no longer wish to receive their communications. 
 
-We also use third-party service providers to assist in our service offerings. Such providers may include a credit card processing company, an outside shipping agent to fulfill delivery of orders, and an email service provider to facilitate our e-mailings. We will share your personal information with these types of third parties to facilitate functions on our behalf, even if you are under age 13. We require these companies to limit their use of your personally identifiable information to the purpose of fulfilling their services to us. 
+**Service Providers.** We may provide Personal Information to third parties for their use in performing internal business functions (e.g., payment processing, customer service, maintenance, security, data analysis, email transmission, beta testing, or data hosting) on our behalf. Additionally, some third party service providers may collect information, including Personal Information, on our behalf. Whenever possible, we require such third-parties to only collect and use Personal Information in accordance with this Policy, to maintain the confidentiality, security, and integrity of such Personal Information, and for no purpose other than providing us with our requested services. 
 
-In some instances, such as when making a purchase, you may be directed to the service providers Web site to conduct the transaction by entering in your personally identifiable information. Although these pages may have the look and feel of the Lucas Online Web sites, please be aware that you are actually submitting your information directly to that service provider to fulfill your request. 
+**Partners.** When you visit or use a part of any website, mobile application, game or other consumer product that is co-branded or that is a part of a joint promotion involving Lucasfilm and one or more third parties (each a "Co-Branded Party"), you are providing and consenting to provide and are transmitting your Personal Information and other information provided to, or collected, or obtained by Lucasfilm and any Co-Branded Parties involved, to Lucasfilm and each of the Co-Branded Parties without any other notice or further consent. Please note that we do not control any Co-Branded Parties' use or treatment of information you provide to them and you should consult each of their privacy policies or any separate Co-Branded privacy policy posted on or linked from the Co-Branded site to determine your rights with respect to their use and treatment of your information. You will need to communicate with us and each Co-Branded Party directly, as applicable, if you decide you no longer wish to receive communications or if you wish to change any information you have supplied.
 
-Other than as explained in this policy, we may disclose personal information (including the personal information of those under 13) in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to: comply with legal processes; respond to any claims; or, protect the rights, property or personal safety of Lucasfilm Ltd., its subsidiaries and affiliates, our customers or the public. In addition, information about our customers, including, without limitation personal information regarding customers under 13, may be disclosed as part of any bankruptcy, merger, sale, transfer of company assets or acquisition. In the instance of a bankruptcy, merger, sale or transfer of company assets we will attempt to notify you. Please see our "CHANGES" section below. 
+**Legal Requirements.** We may disclose Personal Information if we have a good-faith belief that doing so is required by a subpoena, warrant, or other judicial or administrative order or otherwise required by law. Additionally, we may disclose Personal Information where we, in good faith, deem it appropriate or necessary to prevent violation of the Terms of Use, or our other agreements; take precautions against liability; protect our rights, property, or safety, or those of a partner, any individual or the general public; maintain and protect the security and integrity of our services or infrastructure; protect ourselves and our services from fraudulent, abusive, or unlawful uses; investigate and defend ourselves against third party claims or allegations; or assist government regulatory agencies. 
 
-**Opinions:**
+**Change of Ownership.** Information about our users, including Personal Information, may be disclosed as part of any bankruptcy, merger, sale, transfer of company assets, acquisition, or similar transaction. In the event of such a transaction in which your Personal Information would be transferred to a third party, we will make reasonable efforts to notify you. For example, we will post a notice of the transfer of Personal Information on our website and, if we have your email address, we will send notice of the transfer of Personal Information to that email address.
 
-We may ask for your opinion from time to time. You may send us questions or comments, which may require personal information for a response. However, please note that we have a policy against accepting unsolicited material, so do not submit any unsolicited or unique creative ideas, drawings or other materials, and refer to our policy on unsolicited submissions in our Terms of Use. IF YOU ARE UNDER 13, YOU WILL NEED YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE YOU CAN PROVIDE THIS INFORMATION. 
+**Interactive Features.** If you use a forum, blog, bulletin board, chat room, user commenting features, or other interactive or social features that may be offered through any of our products or services, you should be aware that any Personal Information you submit, display, or publish there is considered publicly available and can be read, collected, used, and disclosed by other users of those features, by us, and other third parties without restriction. To request removal of your personal information from our blog or community forum, contact us at the information provided at the end of this Policy. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-**Mailing lists:**
+**4\. Third Party Advertising Technologies**
 
-Where appropriate and if you are 13 or older, the option to allow us to share certain information with some of our promotional partners may be provided, or the option for you to elect not to have us share certain information may be provided. If you are under 13, we will not share your personal information with third parties. You always have the right to unsubscribe from any mailing lists we may maintain, or to delete personally identifiable electronic information we have collected online about you by going to the Member Services link and following the procedures described there. Parents, you can always ask us to review or delete any of your child's information and you can refuse to permit further collection and use of your child's information at any time by sending us a written request at the Contact Information below. IF YOU ARE UNDER 13, YOU WILL NEED YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE YOU CAN PARTICIPATE IN THIS ACTIVITY. Please see the "Choice/Opt-In/Opt-Out" section below on how you can choose to opt-out of third-party promotional emails if you do not wish to receive them. 
+In addition to using cookies and related technologies as described above, we also may permit certain third party companies to help us tailor advertising that we think may be of interest to users and to collect and use other data about user activities on our services (e.g., to allow them to tailor ads on third party services). These companies may deliver ads that might also place cookies and otherwise track user behavior. These companies may use information about user behavior in order to provide customized advertisements across various services and products. In the course of providing these services, products or placing advertisements, these third party companies may place or recognize a unique cookie on your computer, and may record information to these cookies based upon your activities on any of our websites and on third party websites. Each of these companies uses this cookie information according to their own privacy and security policies. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by going to [http://preferences.truste.com](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-**E-mail and Newsletters:**
+**5\. Children Under 13**
 
-We may offer fully interactive registered email services. We also provide fun and exciting newsletters, such as the Homing Beacon, and the Padawan Post to tell our users about all of our interesting films, licensed products and services. Our newsletters may include links to independently operated Web sites. Although we do not provide any personally identifiable information about kids under 13 to any "independently-operated Web site" (that is, a Web site not owned, controlled and operated by us), such Web Site(s) may solicit personally identifiable information from kids under 13. Please be aware that we don't control and are not responsible for their actions, privacy policy(ies) or terms of use. IF YOU ARE UNDER 13, YOU WILL NEED YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE YOU CAN PARTICIPATE IN EITHER OF THESE ACTIVITIES. 
+We do not knowingly seek or collect Personal Information from users under the age of 13. Users under 13 years of age may set up a Lucasfilm account without submitting any Personal Information. In addition, under certain circumstances for certain products, parents may enable additional functionality (e.g., e-commerce, social, media viewing, gaming) if they choose to link their parental account to the under 13 account. If we determine we have inadvertently gathered Personal Information from a user under the age of 13, we will promptly delete any and all such Personal Information from our records. 
 
-**Forums/Blogs/Bulletin Boards/Chat Rooms:**
+**6\. Your Choices**
 
-If you use a forum, Blog, bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these activities or forums. 
+**Submitting Personal Information.** If you do not want to submit Personal Information that is necessary to provide or use a service or to fulfill your request, you will not be able to access and/or participate in certain Lucasfilm products and services. For example, you will not be able to register for an account with us or participate in certain contests or promotions, or access and/or use certain Lucasfilm product features or online services. In addition, your refusal to submit Personal Information may limit our ability to respond to your customer support inquiry in a timely fashion.
 
-**Purchasing Items:**
+**Editing Personal Information.** You may, at any time, update, correct, or delete certain Personal Information that you have provided to us by updating your preferences on the Account Settings page or by contacting us at the mailing or email address provided at the end of this Policy. 
 
-Purchasing items from various online stores may require the giving of personally identifiable information (such as, name, credit card information). Information collected in this manner will be used consistent with this Privacy Policy. 
+**Marketing Choices.** If you want to remove yourself from individual communications, including marketing promotions, advertisements, updates and email newsletters, simply click the unsubscribe link in the communication or access your Account Settings page when logged in. You also acknowledge and agree that there may be instances where we may elect to notify you about administrative notices regarding your account with us, such as to inform you about changes to our terms, conditions, and policies, that your account may be expiring, or to provide you with other relevant administrative information about your account. Because this information is important to your interaction with us, you may not opt out of receiving these communications.
 
-**Information Collected by Cookies and other Automated Processes:**
+**Account Deletion.** If you submit Personal Information, you may delete your account with us at any time. If you delete your account, your Personal Information and any and all other account related information including but not limited to user profile data, purchasing history, game play data and any other data, credits, or content specifically associated with your account are also permanently deleted. Deletion of your data may take up to 30 days from accessible systems and up to 90 days from backup systems. If you choose to have an account with us in the future, you will have to sign up for a new account as none of the information you previously provided or saved within your account will have been saved. 
 
-We use "cookies" to collect non-personally identifiable information through this Web site. Cookies help us personalize your visit for example by allowing you to use certain features without having to remember passwords or by logging in each time you visit. 
+**7\. Security**
 
-**Cookies:**  
-Cookies are files that web servers place on an Internet user's computer that are designed to store basic information (such as visitor preferences). The use of cookies allows visitors to enjoy more seamless visits and more accurately measures visitor behavior.
+We take reasonable measures, including the implementation and maintenance of physical, electronic, and managerial procedures, in an effort to assure the security, integrity, and accuracy of all Personal Information that we collect. Our efforts include procedures designed to avoid unauthorized access, alteration, misuse or disclosure of Personal Information. 
 
-There are two types of cookies that may be used on our Web site: a persistent cookie and a session cookie.
+If we learn of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Lucasfilm products and services covered by this Policy and providing Personal Information to us, you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your account information and usage. 
 
-**Persistent Cookies:** A persistent cookie gets entered by your web browser into the "Cookies" folder on your computer and remains in this "Cookies" folder after you close your browser. Persistent cookies may be used by your browser on subsequent visits to our Web Site.
+**8\. Data Integrity and Data Retention**
 
-**Session Cookies:** A session cookie is held temporarily in your computer's memory and disappears after you close your browser or shut off your computer.
+We collect and use Personal Information in accordance with this Policy and only for the purposes stated in this Policy and/or at the time we request such Personal Information from our users, or for such purposes to which a user may otherwise consent. We do not use or share our users' Personal Information in a way that is incompatible with the purposes for which such Personal Information was requested and authorized for use by us. We retain Personal Information for no longer than is commercially useful to carry out our business purposes, or as we believe may be legally required. When Personal Information is deleted or updated by you, it may take up to 30 days from accessible systems, and up to 90 days from backup systems, for us to delete such Personal Information.
 
-**Web Beacons:**  
-Our Web site may also use web beacons in conjunction with cookies. web beacons are small strings of code that are placed in a web page, (sometimes referred to as "1x1 clear pixel," "web beacon" or "clear GIF") in the pages of our Web site in order to gather additional statistical site usage information.
+**9\. Access to Personal Information**
 
-**Site and Usage Analytics. Our Use of Persistent Cookies, Session Cookies, web beacons, and related technologies.**
+You may view, correct, or delete the Personal Information Lucasfilm stores about you. Most of your Personal Information may be accessed and corrected by simply logging into your account and accessing your profile. If you wish to obtain a report of the Personal Information Lucasfilm has about you, please send us a written request at the address in the "Contact Us" section of this Policy.
 
-Our Web site may use persistent cookies, web beacons and information collected in our log files (such as Internet Protocol Address, referring URLs, etc.) about your activity at our Web site.  
+**10\. Third Party Login Functionality**
 
+We may permit users with accounts on certain third party services including but not limited to gaming, social networking, search, sharing, and other services delivered by third-parties, to bypass the standard registration process. If you connect through an authorized third party service, you will be able to use your third party login information to log in to your Lucasfilm account or access Lucasfilm content and products. We are not responsible for the sharing, posting, commenting, or other content and information gathering practices of any third party services that may be triggered by using these third party login services. Please review their terms of service and privacy policies carefully before using third party login functionality to access any Lucasfilm content or products.
 
-  * We use this collected information to better understand how our Web site is used, resolve technical problems, and enhance your experience at this site.
-  * Information we may collect using these technologies may include: 
-    * the number of visitors to the Lucas Online Web sites,
-    * which pages are visited,
-    * duration of page views,
-    * advertising click-through metrics,
-    * the location of visitors prior to accessing their Web site, and
-    * details on browsers (including Internet Protocol 'IP' addresses or browser configurations).
-  * We use this information to provide Lucas Online with detailed reports and analyses of the traffic to their Web sites.
-  * Information from these types of cookies and technologies or about Web site usage is not combined with information from any other Web site cookie like those described below that may be used for online behavioral advertising purposes. Except with respect to our e-commerce activities (e.g., on-line purchases), we do not link your non-personally identifiable information in "cookies" with personally identifiable information about you.
+By using any third party services to log in to your Lucasfilm account or access Lucasfilm content and products, you permit us to access, store and use all information related to your third party account that may be accessible to us through the third party service, including through its application programming interface (API), pursuant to this Policy. 
 
+**11\. Third Party Services and Links**
 
+Lucasfilm's content, including games, products, services, newsletters and communications that we send to our users, may contain links to content provided by third-parties. For example, our communications may contain links to third party merchants from whom you may purchase products. To purchase products from these third party merchants, you may be required to provide Personal Information, including your credit card or other payment information. 
 
-**Online Advertisements and Related Technologies (Third-Party Advertising Networks and Partners).**
+Some of our online products and services include social media features, for example widgets, interactive programs or applications that run on such products and services. These features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the particular feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing such features, not by this Policy.
 
-In addition to using cookies and related technologies as described above, we also use certain third-party companies to help us tailor advertising that we think may be of interest to you based on your usage of our Web sites. These companies may place or provide ads (such as banner ads) on this Web site that might also place cookies. These companies may use information (not including your name, address, email address or telephone number) about your visit to our Web site and other Web sites in order to provide advertisements about goods and services on this Web site or on other Web sites which use the services of such third-party companies. In the course of providing these services or placing these ads, these third-party companies may place or recognize a unique "cookie" on your computer and each of these companies uses this cookie information according to their own privacy and security policies. If you would like more information about this practice and to learn your choices about limiting third-party access to such information, including opting-out of online behavioral advertising, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+In connection with some of our products and services we may use or offer services from third parties such as, location-based services. In such instances, we and/or our partners and/or licensees may collect, use, and share precise location data, including the real-time geographic location of your mobile phone or device to provide and improve location-based products and services including but not limited to delivering to you targeted advertising. Third party websites and services are not associated with or authorized by us, unless otherwise specifically indicated by us in this Policy or in communications that we send. We are not responsible for any content appearing on third party websites or for third-parties' privacy or security practices regarding any information, including Personal Information gathered at those third party websites or services. Any Personal Information or other information you provide on third party sites or services, including your contact details and/or geographic location with application providers when you opt in to their location services, and any Personal Information or other information collected by third parties through such third party sites or services, is provided directly to that third party and is subject to its policies governing privacy and security. We encourage you to learn about third parties' privacy and security policies before providing them with Personal Information or other information.
 
-You can find and evaluate information about third-party companies used on this Web site in connection with such automated processes at the end of this Privacy Policy as "Appendix A," and we will keep this list updated or you can access this information by [clicking here](https://web.archive.org/appendix_a.html).
+**12\. International Users & U.S.-EU and U.S.-Swiss Safe Harbor Frameworks**
 
-**Choice/Opt-In/Opt-Out:**
+Lucasfilm products and services are hosted in the United States. If you use Lucasfilm products and services from the European Union, or any other region with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data outside of those jurisdictions to the United States. The United States does not have the same data protection laws as the European Union and other regions. By providing Personal Information under this Policy, you consent to the use of your Personal Information in accordance with this Policy and the transfer of your Personal Information to the United States.
 
-If you are 13 or older, you could receive communications from us or from third parties. In that case, you may: (1) opt-out of receiving communications from us by selecting or deselecting the optional e-mail from us on the "Your Account" page to control the messages you receive from us; and/or (2) opt-in or opt-out of receiving communications from third-party sponsors or promotional partners at the time of registration. If you elect to receive these communications, we will transmit the information that you provide to this third-party. Note, however, that each third-party is governed by a different privacy policy and may have a different method than our Web site to opt-out of future communications. 
+Lucasfilm complies with the U.S.E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries. and Switzerland. Lucasfilm has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Lucasfilm's certification, please visit <http://www.export.gov/safeharbor>.
 
-**IP Address and Machine Type:**
+**13\. California Privacy Rights**
 
-An IP address is a number automatically assigned to your computer whenever you are surfing the Web. Web servers, the computers that "serve up" web pages, automatically identify your computer by its IP address. When you request a page from our Web site, our servers log your IP address. An IP address does not contain personally identifiable information. Except with respect to our e-commerce activities (e.g., on-line purchases), we do not link IP addresses with personally identifiable information. We may use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. We may also collect information about your browser software and/or machine type (e.g., Windows, Mac, Unix, etc.). 
+In addition to the rights set forth in this Privacy Policy, California Civil Code Section 1798.83 permits California residents who are individual consumers or users of Lucasfilm Ltd. Products or services to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us via mail or email at the address identified in the "Contacting Us" section.
 
-**Links:**
+**14\. Changes and Updates to This Policy**
 
-We do present links to the Web sites of other parties. IF YOU ARE UNDER 13, GET YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE LINKING TO OTHER WEB SITES. Independently operated Web sites are not associated with or authorized by us, even if they have links leading to this Web site. We are not responsible for any content appearing on Web sites linked to or from our Web site, or for any personal information gathered at those independently operated Web sites. 
+We may update this Policy from time to time. If we do, we will update the "effective date" at the top of the Policy. If we make material changes to how we use Personal Information, we will attempt to notify you of the change and to give you the opportunity to exercise choice as to how your Personal Information is used. We will post the updated Policy on the affected sites, products and services, and if we have your email address, we will send notice of the update to that email address. 
 
-**Bumper Pages:**
+We encourage you to review this Policy periodically to stay informed about our collection, use and disclosure of Personal Information. Your continued use of any content, games, products or other services covered by this Policy constitutes your agreement to this Policy and any updates.
 
-We sometimes provide a "bumper page" when linking from our Web site to an independently-operated Web site, which lets you know you are going to an independently-operated Web site and reminds children not to give out information online without their parent's permission. 
+**15\. Contacting Us**
 
-**International Visitors and Customers:**
+If you have questions about this Policy, you may contact us at [privacy@lucasfilm.com](mailto:privacy@lucasfilm.com). For specific questions regarding our policy with respect to the privacy of children under the age of 13 on our websites, mobile applications, and games, you may also call us at (415) 623-1313.
 
-This Web site is hosted in the United States. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and by providing your personal data you consent to: 
+You may also write to us at:
 
-  * the use of your personal data for the purposes identified above in accordance with this Privacy Policy; and 
-  * the transfer of your personal data to the United States as indicated above. 
+Lucasfilm Ltd.  
+Privacy Officer  
+Business Affairs  
+P.O. Box 29901   
+San Francisco, CA 94129-0901
 
+If you do not receive acknowledgement of your inquiry or your inquiry has not been addressed satisfactorily, you should then contact the TRUSTe Watchdog Dispute Resolution Program at <http://watchdog.truste.com/pvr.php?page=complaint>.
 
+TRUSTe will serve as a liaison with us to resolve your concerns relating to this Policy or other privacy issues.
 
-**Data Integrity and Security:**
-
-We take reasonable precautions to keep your personal information secure. We have put in place physical, electronic, and managerial procedures to safeguard the confidentiality and integrity of the information we collect. The information is stored on computer servers which are separate from other corporate information and systems. We have and will continue to take reasonable measures to assure the security and accuracy of all information our visitors share with us. Our efforts include procedures designed to avoid any unauthorized access, alteration, misuse or disclosure of personally identifiable information. 
-
-Our Web sites which collect sensitive financial information, such as credit/debit card information use (or our third-party service providers) SSL encryption in the collection and transfer of such information. 
-
-If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this Web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. We may post a notice on our Web site if a security breach occurs. If this happens, you will need a web browser enabling you to view the starwars.com Web site. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us by [clicking here](http://www.starwars.com/webapps/registration/feedback/) to submit your request. 
-
-**CHANGES:**
-
- **Changes in this Privacy Policy:**  
-If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy here and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
-
-We reserve the right to modify this Privacy Policy at any time, so please review it frequently. For registered users, if we make material changes to how we use personally identifiable information we will attempt to notify you by email so that you may make a choice to how your information is used. For children who are registered users, if we desire to change our use of personally identifiable information collected from children under age 13, we will obtain parental consent prior to implementing such changes. If we do not receive such consent we will not use the child's personally identifiably information in the new manner. 
-
-**Your changes:**
-
-This Web site gives users options for changing and modifying information previously provided. If you are a registered visitor, you are welcome to view, change or delete your registration information at any time, or to update the contact information we have for you or to inform us that you do not want to receive new product or other information from us. Simply go to the registration page of this Web site. When the welcome screen appears, you can click on "delete or add" or, if available, you can click the "Update Profile" link to update your information. Kids under 13 cannot change registration information, only the parent or guardian can do that. Parents should follow the procedure that they used to enable their child's registration to review, change, or delete any registration information at any time. Parents, you can always ask us to review or delete any of your child's information and you can refuse to permit further collection or use of your child's information at any time by sending us a written request at the Contact Information below. 
-
-**SPECIAL NOTE TO KIDS:**
-
-If you are under 13 years old, ask your parent or guardian BEFORE giving out any information about yourself, such as your name, age, address or e-mail address. You do not have to give any personal information about yourself. Remember, if you are under 13 you must have your parent or guardian make any changes to information given to us in the past or to update your profile. If you are ever unsure about anything you are seeing on this Web site, ask your parent or guardian for help. If you are 13 years or older, you may have the ability to participate in online contests or sweepstakes, e-mail other users or post messages on portions of this Web site. In the event that you do post messages on this Web site, remember that other users of this Web site may have access to your e-mail address and user name. However, if you participate in online contests, sweepstakes or promotions, you cannot collect any prizes without your parent's or guardian's consent. 
-
-If you are under 13, we may knowingly collect your email address, which is personally identifiable information, with your parent's permission. We currently use your email address information in order to send one or more newsletters to you as approved by your parent(s). In addition, following receipt of your parent's permission we collect your screen name. WE STRONGLY ENCOURAGE YOU TO CREATE A SCREEN NAME WHICH DOES NOT INCLUDE ANY PERSONAL INFORMATION. 
-
-**SPECIAL NOTE TO PARENTS OF KIDS UNDER 13:**
-
-We may collect the online contact information in order to obtain parental consent from parents of kids under 13 and/or to provide parental notice by providing a link to this Privacy Policy wherever we have requested personally identifiable information from kids under 13. If a visitor indicates that he/she is under the age of 13, he/she will be asked to supply a parent's or guardian's e-mail address. In this case, the parent or guardian will receive an e-mail message containing instructions on how to enable the child's registration and until the parent or guardian enables the child's registration, the account is disabled. If we do not receive the parent's or guardian's said consent within a reasonable time, we delete this information from our records. If and when we have obtained consent from a parent, we only ask for and collect from a kid under 13 personally identifiable information that is reasonably necessary for that kid to participate in any given activity online. We also may collect this information to respond to a specific request from a kid under 13. Once we respond to a request from a kid under 13, we may not contact that child again and the information is deleted from our records. We take very seriously the safety of children, especially those under 13 and may also collect this information to protect that safety. If we do collect information to protect the safety of your child, we provide notice to you and we do not use that information for any other purpose. You can always ask us to review or delete any of your child's information and you can refuse to permit further collection or use of your child's information at any time by sending us a written request at the Contact Information below. However, if you ask us to delete your child's information that is necessary to participate in our activities, we may have to ask your child not to participate in our activities. 
-
-We do not currently collect, use or disclose personally identifiable information from kids we know to be under 13 absent parental consent. Prior to permitting an individual to access our message boards, we request his or her age. If an individual identifies himself or herself as being under 13, we do not give him or her ability to publicly post, directly communicate with others, or otherwise distribute, personally identifiable information. 
-
-If you wish to review, correct or delete information that Lucasfilm may have about you or your child, or wish to inform us that you do not permit further collection or use of your child's information, please contact us at the following address: 
-
-> Lucas Online  
->  One Letterman Drive  
->  P.O. Box 29901  
->  San Francisco, CA 94129-0901  
->  Attn: Webmaster  
->  (415) 623-1113  
->  [webmaster@starwars.com](mailto:%20webmaster@starwars.com)
-
-Or [click here](http://www.starwars.com/webapps/registration/feedback/) to submit your question or request online. 
-
-We are a licensee of the TRUSTe Web and Children's Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build trust and confidence in the Internet by promoting the use of fair information practices. As a TRUSTe licensee, we have agreed to disclose our information practices at this Web site and have our privacy practices at this Web site reviewed for compliance by TRUSTe. Because our Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. Our Web site complies with the TRUSTe Children's Privacy Program, which has been approved by the Federal Trade Commission as an authorized safe harbor under the Children's Online Privacy Protection Rule. You can learn more about the TRUSTe Children's Privacy Program by [clicking here](http://www.truste.org/ivalidate.php?companyName=LucasFilm%20Ltd.&sealid=105&ctv_group=Children). 
-
-The TRUSTe Children's Online Privacy Seal Program covers only personally identifiable information that is collected through the Web sites listed below, and does not cover Personal Information that may be collected through software downloaded from this Web site. 
-
-**To What Web sites does this Privacy Policy Apply?**
-
-The terms of this Privacy Policy apply to all information submitted on [www.lucasfilm.com](http://www.lucasfilm.com/) and not to information that may be submitted to us offline. Furthermore, the terms of this Privacy Policy apply to all information submitted to the following Web sites: [www.starwars.com](http://www.starwars.com/), [www.ilm.com](http://www.ilm.com/), [www.lucasfilm.com](http://www.lucasfilm.com/), [www.lucaslearning.com](http://www.lucaslearning.com/) and [www.skywalkersound.com](http://www.skywalkersound.com/). In addition, the terms shall only apply to Web sites owned and operated by Lucasfilm Ltd. or any of its affiliated, subsidiary or related corporate entities or divisions (such as Lucasfilm Ltd., Lucasfilm Entertainment Company Ltd., Lucas Licensing Ltd., Lucas Online, LucasArts, Lucas Learning Ltd., ILM, Skywalker Sound), as well as to some of our selected corporate partners and licensees who have agreed to abide by our Privacy Policy. It does not otherwise apply to any independently operated Web sites, for which separate privacy policies and terms of use shall apply. Finally, this Privacy Policy is intended to protect individuals. 
-
-**CONTACT INFORMATION:**
-
-We hope you have a better understanding of our commitment to protect privacy. If you have any questions or comments about anything in this Privacy Policy, please contact us at the following address: If you wish to review, correct or delete information that Lucasfilm may have about you or your child, or wish to inform us that you do not permit further collection or use of your child's information, please contact us at the following address: 
-
-> Lucas Online  
->  One Letterman Drive  
->  P.O. Box 29901  
->  San Francisco, CA 94129-0901  
->  Attn: Webmaster  
->  (415) 623-1113  
->  [webmaster@starwars.com](mailto:%20webmaster@starwars.com)
-
-Or [click here](http://www.starwars.com/webapps/registration/feedback/) to submit your questions online. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact the TRUSTe Watchdog Dispute Resolution Program at: [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url=).
-
-TRUSTe will serve as a liaison with our Web site to resolve your concerns. For additional information about our Web site, please see our [Terms of Use](https://web.archive.org/terms.html). To see our third-party service providers and/or partners or operators who may collect cookies from this Web site, please view the Privacy Policy: Appendix A, by [clicking here](https://web.archive.org/appendix_a.html).
-
-**Your California Privacy Rights**
-
-In addition to the rights set forth in this Privacy Policy, California Civil Code Section 1798.83 permits California residents who are individual consumers or users of Lucasfilm Ltd. products to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at:
-
-> Lucas Online  
->  One Letterman Drive  
->  P.O. Box 29901  
->  San Francisco, CA 94129-0901  
->  Attn: Webmaster  
->  (415) 623-1113  
->  [webmaster@starwars.com](mailto:webmaster@starwars.com)  
-> 
-
-Please include your name, address, and email address. We will respond via email unless you specifically request a response by postal mail.
-
-Thanks. Have fun! Back to start of Our Privacy Policy.
-
-© 2020 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved.
-
-Effective Date: 01/31/12
-
-|   
----|---|---
+© 2012
