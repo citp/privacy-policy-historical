@@ -1,0 +1,32 @@
+> *The following text is extracted and transformed from the thefunzun.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208090658id_/http%3A//www.thefunzun.com/2012/08/privacy-policy.html) for the most accurate reproduction.*
+
+# Privacy Policy | Love quotes,funny joke pictures & famous quotes
+
+### **Your privacy**
+
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url: http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, thefunzun.com has no access or control over these cookies that may be used by third party advertisers.
+
+**Collection of Personal Information**  
+When visiting thefunzun.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+
+**Facebook:**
+
+As a registered Facebook user, you are also subject to Facebook’s privacy policy. Please check your Facebook account privacy settings for further information. When you first access the App, you will be presented with a Facebook permissions page, which will advise you about the Facebook information you will be sharing with the App and other Facebook users. You can then decide whether or not to share your Facebook information by using the App. If you decide not to grant permission you will not be able to use the App. By granting permission you will be agreeing to share your Facebook user details (including your name, profile picture, gender, networks, user ID and any other information you choose to share according to your Facebook account settings) as well as the user details of your Facebook friends, and information about your use of the App, for example, the articles you are reading. If you choose to post content or other data on the App, for example, by commenting on an article, this can be accessed by all of your Facebook friends. If you decide not to share information with your Facebook friends about a particular article you have accessed you can make your reading private using the “remove from timeline” facility at the top of the article page. To unsubscribe go to our Facebook page and at the top of the article page and select “Remove this application”. Alternatively, remove the App by accessing the application settings in your Facebook account settings. Once you remove the App we no longer have permission to access your Facebook information and your data will be removed from the App.
+
+“This blog is in no way sponsored, endorsed or administered by, or associated with, Facebook”
+
+###  **Changes to this Privacy statement**
+
+The contents of this statement may be altered at any time, at our discretion.
+
+If you have any questions regarding the privacy policy of Funny Pictures Blog, then you may contact us **[here](mailto:mbari333@gmail.com)**
