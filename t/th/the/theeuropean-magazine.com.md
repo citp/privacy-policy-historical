@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610042926id_/http%3A//www.theeuropean-magazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208145021id_/http%3A//www.theeuropean-magazine.com/privacy) for the most accurate reproduction.*
 
-# The Information we collect | The European Magazine - The Opinion Magazine
+# The Information we collect | The European Magazine - The Debate Magazine
 
 ## Privacy
 
