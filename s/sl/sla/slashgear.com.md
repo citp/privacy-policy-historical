@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slashgear.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610042852id_/http%3A//www.slashgear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slashgear.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208164949id_/http%3A//www.slashgear.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SlashGear
 
