@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theamm.org privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603124016id_/http%3A//www.theamm.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theamm.org privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208130810id_/http%3A//www.theamm.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - American Marriage Ministries
 
