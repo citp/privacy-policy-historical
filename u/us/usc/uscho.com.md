@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscho.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610013005id_/http%3A//www.uscho.com/faq/uscho-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscho.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208110222id_/http%3A//www.uscho.com/faq/uscho-privacy-policy) for the most accurate reproduction.*
 
 # USCHO privacy policy :: USCHO.com :: Frequently Asked Questions :: U.S. College Hockey Online
 
