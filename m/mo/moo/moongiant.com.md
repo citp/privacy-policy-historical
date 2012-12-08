@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moongiant.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610053724id_/http%3A//www.moongiant.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moongiant.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208164514id_/http%3A//moongiant.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
