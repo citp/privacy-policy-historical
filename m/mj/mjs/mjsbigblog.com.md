@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mjsbigblog.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603201924id_/http%3A//mjsbigblog.com/idol-appearances/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mjsbigblog.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208084131id_/http%3A//mjsbigblog.com/idol-appearances/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy Statement | mjsbigblog
+
+[](http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.mjsbigblog.com%2Fidol-appearances%2Fprivacy-policy-statement%2F&name=Privacy+Policy+Statement)[](mailto:?subject=Privacy%20Policy%20Statement&body=http://www.mjsbigblog.com/idol-appearances/privacy-policy-statement/)
 
 This is the web site of **mjsbigblog**.
 
