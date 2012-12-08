@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teennick.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626040856id_/http%3A//www.teennick.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teennick.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208091719id_/http%3A//www.teennick.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy/Your California Privacy Rights | TeenNick.com
 
