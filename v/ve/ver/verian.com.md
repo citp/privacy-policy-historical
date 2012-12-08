@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verian.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609100434id_/http%3A//www.verian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verian.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208012629id_/http%3A//www.verian.com/privacy) for the most accurate reproduction.*
 
 # Verian Statement of Privacy « Verian
 
