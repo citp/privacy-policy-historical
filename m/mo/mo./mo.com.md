@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mo.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617160924id_/http%3A//www.mo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mo.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208074457id_/http%3A//www.mo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MO.com on www3
+# Privacy Policy | MO.com on www
 
 **MO.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
