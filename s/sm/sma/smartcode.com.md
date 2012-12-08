@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcode.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615150358id_/http%3A//www.smartcode.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcode.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208080300id_/http%3A//www.smartcode.com/privacy.html) for the most accurate reproduction.*
 
 # Smart Code - Privacy Policy Information
 
@@ -10,10 +10,10 @@ Some technical information is collected automatically on each page in order to g
 
 **The information we collect is used to:**
 
-\- Understand consumers’ needs and provide with a better service  
+\- Understand consumersâ€™ needs and provide with a better service  
 \- Notify consumers about updates to our Web site  
 \- Promote our software resources  
-\- Customize the website according to visitor’s interests
+\- Customize the website according to visitorâ€™s interests
 
 The information collected is not shared with any other organization, nor is any information sold or bartered unless otherwise stated. 
 
@@ -24,7 +24,7 @@ Customers may prevent their information from being used for purposes other than 
 **Third-Party Advertisers**
 
 Our site includes third-party advertising and links to other websites. We do not provide any personally identifiable customer information to these advertisers or third-party websites. Our advertisers will generally store cookies on visitor's computers to record information including which advertisement they followed to reach the advertiser's website, and the date when they visited. Depending on the advertiser, cookies will expire (i.e. be automatically deleted) after different lengths of time.  
-We use Google Adsense to support our site. Ads provided by Google AdSense are targeted to be relevant to the content of the website and / or page they are on (i.e. they get the information from the website contents not the visitors themselves). Google Adsense uses cookies to serve ads on our site. Google’s use of DART cookies enables it to serve ads to the users based on their visit to the current site and to other sites on the Internet. A user may opt out of the use of the DART cookie by visiting [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+We use Google Adsense to support our site. Ads provided by Google AdSense are targeted to be relevant to the content of the website and / or page they are on (i.e. they get the information from the website contents not the visitors themselves). Google Adsense uses cookies to serve ads on our site. Googleâ€™s use of DART cookies enables it to serve ads to the users based on their visit to the current site and to other sites on the Internet. A user may opt out of the use of the DART cookie by visiting [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 **Disclaimer**
 
