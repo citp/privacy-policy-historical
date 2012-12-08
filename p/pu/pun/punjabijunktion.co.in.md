@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punjabijunktion.co.in privacy policy that was archived on 2012-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120105112746id_/http%3A//forum.punjabijunktion.co.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punjabijunktion.co.in privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208030920id_/http%3A//forum.punjabijunktion.co.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Punjabi Junktion
 
@@ -63,4 +63,4 @@ http://forum.punjabijunktion.co.in/sendemail/
 Webcity, PB 141000  
 India  
   
-All times are GMT +5.5. The time now is 04:57 PM. Ad Management plugin by [PJ Tech Staff](http://punjabijunktion.co.in/)
+All times are GMT +5.5. The time now is 08:39 AM. Ad Management plugin by [PJ Tech Staff](http://punjabijunktion.co.in/)
