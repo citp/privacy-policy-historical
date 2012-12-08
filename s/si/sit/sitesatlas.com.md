@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitesatlas.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505031155id_/http%3A//www.sitesatlas.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitesatlas.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208035745id_/http%3A//www.sitesatlas.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - World Sites Atlas
 
@@ -13,5 +13,7 @@ When you click on travel-related text links on our website, you are directed to 
 Our advertising partners, Google and Burst Media, use cookies to serve ads based your prior visits to our website. Google also uses cookies to enables it and its partners to serve ads based on your visit to our site and/or other sites on the Internet. These cookies cannot be used to personally identify you in any way. If you do not want the benefit of cookies, there is a simple procedure to block and manually delete them. Please consult your web browser's Help documentation for more information. For more information about the policies of our advertising partners, please see [Google's privacy policy](http://www.google.com/privacy_ads.html) and the [Burst Media privacy statement](http://www.burstmedia.com/privacy.asp).
 
 Through Google and Burst, we also use third-party advertising companies to serve ads when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [please click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+If you purchase a map from World Sites Atlas, any personal information received will only be used to fill your order. We will not sell or redistribute your information to anyone.
 
 If you have any additional questions about our dedication to consumer privacy, please contact us at [borop@sitesatlas.com](mailto:borop@sitesatlas.com).
