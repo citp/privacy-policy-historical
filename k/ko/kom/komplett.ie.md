@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the komplett.ie privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302150936id_/http%3A//www.komplett.ie/k/k.aspx%3Faction%3Dcustserv%26topic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komplett.ie privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209145641id_/http%3A//www.komplett.ie/komplett/site/service_and_help/privacy_statement/cms.aspx) for the most accurate reproduction.*
 
-# Komplett.ie
+# Komplett.ie – The internetshop in Ireland
 
-[](https://web.archive.org/k/k.asp?action=custserv)  
-**Shopping** | [Payment](https://web.archive.org/k/k.asp?action=custserv&topic=pay#) | [Delivery](https://web.archive.org/k/k.asp?action=custserv&topic=del#) | [Support & returns](https://web.archive.org/k/k.asp?action=custserv&topic=rma#) | [About us](https://web.archive.org/k/k.asp?action=custserv&topic=about#) | [What do we offer?](https://web.archive.org/k/k.asp?action=custserv&topic=offer#) | [Komplett Business](https://web.archive.org/k/k.asp?action=custserv&topic=business#) | 
+[](https://web.archive.org/Komplett/site/Service.aspx)
+
+**Shopping** | [Payment](https://web.archive.org/Komplett/site/service_and_help/payment/cms.aspx) | [Delivery](https://web.archive.org/Komplett/site/service_and_help/delivery/cms.aspx) | [Support & returns](https://web.archive.org/Komplett/site/service_and_help/support_and_returns/cms.aspx) | [About us](https://web.archive.org/Komplett/site/service_and_help/about_us/cms.aspx) | [What do we offer?](https://web.archive.org/Komplett/site/service_and_help/what_do_we_offer/cms.aspx) | 
 
 * * *
 
 The answer to  
 your question not here?  
-Please [contact](https://web.archive.org/k/k.asp?action=custserv&topic=contact)  
+Please [contact](https://web.archive.org/Komplett/site/service_and_help/Contact/cms.aspx#)  
 us. 
 
 * * *
@@ -18,10 +19,10 @@ us.
 
 ### Komplett Privacy Statement
 
-Download this Privacy Statement as a [PDF-file](https://web.archive.org/mlf/pdf/14/privacy_ie_new.pdf) | [Word-file](https://web.archive.org/mlf/pdf/14/privacy_ie_new.doc)
+Download this Privacy Statement as a [PDF-file](http://content.komplett.ie/KB-KOMPIE/documents/terms/privacy_ie_new.pdf) | [Word-file](http://content.komplett.ie/KB-KOMPIE/documents/terms/privacy_ie_new.doc)
 
 This pirvacy statement has been made by:  
-**Company:** Komplett BV  
+**Company:** KBV BV  
 **URL:** www.komplett.ie
 
 Please read the following Privacy Statement to understand how we use and protect your personal data. By using this site, you consent to the collection, use and transfer of your information under the terms of this privacy statement.
@@ -50,7 +51,7 @@ We may use your personal data to contact you, to tell you about important change
 
 Information we collect regarding which categories of products visitors are looking at or searching for, is used to learn what our customers are interested in, so as to improve our assortment of products and offers of products. It is also used to show related products or send you related offers (if you have explicitly consented to this) and also to produce traffic statistics for capacity planning.
 
-Where you have agreed, we may use your personal data to let you know about other products and services which might be of interest to you. This contact may be by post, telephone or fax or email. If you want to stop receiving information about other products and services, you can opt out at any time by contacting us at [service@komplett.ie](mailto:service@komplett.ie) or login to your Komplett [Account](https://web.archive.org/k/account.aspx) and deselect the option that you do not want to receive any information anymore (Login on your account, select ”Edit contact persons” on the bottom of the page, then click your ’Name’ in the blue bar.Finally, on the right side of the screen tick the box underneath the header ”Send information about;”)
+Where you have agreed, we may use your personal data to let you know about other products and services which might be of interest to you. This contact may be by post, telephone or fax or email. If you want to stop receiving information about other products and services, you can opt out at any time by contacting us at [service@komplett.ie](mailto:service@komplett.ie) or login to your Komplett [Account](https://web.archive.org/Komplett/site/SelfService/SelfService.aspx) and deselect the option that you do not want to receive any information anymore (Login on your account, select ?Edit contact persons? on the bottom of the page, then click your ?Name? in the blue bar.Finally, on the right side of the screen tick the box underneath the header ?Send information about;?)
 
 **Disclosure to others**
 
@@ -66,7 +67,7 @@ In order to prevent fraud, to check your identity or prevent money laundering, w
 
 **Cookies**
 
-A cookie is a small file sent to your browser from a Web server and stored on your computer’s hard drive to identify you as the user of the Site. Many internet sites uses cookies. 
+A cookie is a small file sent to your browser from a Web server and stored on your computer?s hard drive to identify you as the user of the Site. Many internet sites uses cookies. 
 
 We use and require a cookie for you to register and place an order. It is possible to view products without using cookies. We also endeavour to create a permanent cookie which will be used to recognise you when you return. This cookie can be deleted by logging off your account.
 
