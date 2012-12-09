@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pantherdb.org privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526133139id_/http%3A//pantherdb.org/terms/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pantherdb.org privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209050720id_/http%3A//www.pantherdb.org/terms/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # PANTHER - Privacy Policy
 
