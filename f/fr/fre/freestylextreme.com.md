@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the freestylextreme.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511151747id_/http%3A//www.freestylextreme.com/uk/Home/Info/Privacy-Policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestylextreme.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209011715id_/http%3A//www.freestylextreme.com/uk/Home/Info/Cookies-and-Privacy-Policy/default.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Freestylextreme
+# Cookies and Privacy Policy | Freestylextreme
+
+FreestyleXtreme use a range of cookies to make our site function and to improve your browsing experience. These cookies store information about your browsing experience, such as the items you have looked at and the item you have added to your basket. You can find a detailed list of all the cookies we use below. 
+
+The cookie settings on this website are set to allow all cookies; this will give you the very best browsing experience. If you continue to browse the site, you are consenting to this.
 
 At FreestyleXtreme we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by website privacy policy provider LegalCentre.co.uk.  
 This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you.   
