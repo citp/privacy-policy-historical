@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtishows.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530222000id_/http%3A//www.mtishows.com/content.asp%3Fid%3D12_0_0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtishows.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209072541id_/http%3A//www.mtishows.com/content.asp%3Fid%3D12_0_0) for the most accurate reproduction.*
 
 # Music Theatre International: Licensing Musical Theater Theatrical Performance Rights and Materials to Schools, Community and Professional Theatres since 1952
 
@@ -42,4 +42,4 @@ For instructions on how you can access the personally identifiable information t
 
 **How to Contact Us**
 
-If you have any questions or concerns about the our online policy for this site or its implementation you may [contact us](https://web.archive.org/web/20120530222000id_/http%3A//www.mtishows.com/content.asp?id=1_1_0).
+If you have any questions or concerns about the our online policy for this site or its implementation you may [contact us](https://web.archive.org/web/20121209072541id_/http%3A//www.mtishows.com/content.asp?id=1_1_0).
