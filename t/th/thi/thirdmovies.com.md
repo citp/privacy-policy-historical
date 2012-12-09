@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thirdmovies.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611013703id_/http%3A//www.thirdmovies.com/legal.php%3F%26pg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirdmovies.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209085028id_/http%3A//www.thirdmovies.com/legal.php%3F%26pg%3Dprivacy) for the most accurate reproduction.*
 
-# ThirdMovies.com - Watch Online and Download over 2,343 Adult Porn Videos
+# ThirdMovies.com - Watch Online and Download over 2,452 Adult Porn Videos
 
 **This Privacy Policy applies to the following websites: (1) www.ThirdMovies.com (collectively, the “Sites”, or individually, a “Site”).**
 
