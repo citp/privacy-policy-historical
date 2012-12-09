@@ -1,45 +1,36 @@
-> *The following text is extracted and transformed from the speedywap.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524015253id_/http%3A//www.speedywap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedywap.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209084737id_/http%3A//speedywap.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | SpeedyWap
+# Privacy Policy
 
-**SpeedyWap** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
+* **Overview**
 
-**Third Party Advertising**  
-We use Google AdSense and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+Thank you for visiting speedywap.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
-**Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+* **What Type of Information We Collect**
 
-**Personal Information**  
-We do not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes.
+The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
 
-**External Links**  
-This site contains links to other sites.  **SpeedyWap** is not responsible for the privacy practices or the content of such Web sites.
+We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
 
-**Our Commitment To Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+* **Uses May Include**
 
-**The Information We Collect:**  
-This notice applies to all information collected or submitted on the **SpeedyWap** **** website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: Name Address, Email address, Phone number, Credit/Debit Card Information (etc.). On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient’s address. In this circumstance, the types of personal information collected are: Name, Address, Phone, Number (etc.)
+  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
+  
 
-**The Way We Use Information:**  
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.  
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.  
-We offer gift-cards by which you can personalize a product you order for another person. Information you provide to us to create a gift-card is only used for that purpose, and it is only disclosed to the person receiving the gift.  
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.  
-You can register with our website if you would like to receive our catalog as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.  
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.  
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
+  
 
-**Our Commitment To Data Security**  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+  * We may share aggregated non-personal information with third parties outside of The Web Site. 
+  
 
-**Our Commitment To Children’s Privacy:**  
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  
 
-**How You Can Access Or Correct Your Information**  
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.  
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+  
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/contact/).
+  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
+  
+
+
+* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance at [aboutads.info](http://www.aboutads.info/).
