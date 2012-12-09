@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voddler.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211024654id_/http%3A//www.voddler.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voddler.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209061849id_/http%3A//www.voddler.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Voddler - Watch films and TV series directly online.
+# Voddler - Watch movies and TV shows when you want with Scandinavia's leading VOD-service.
 
 **1.** ******General  **
 
@@ -52,4 +52,4 @@ Furthermore Voddler Sweden AB may use your personal data for direct marketing pu
 
  ** _This Privacy Policy was last updated 5th October, 2009_**
 
- ** _Voddler Sweden AB, Hangövägen 18, 115 41 Stockholm, Sweden_**
+ ** _Voddler Sweden AB, Hangövägen 19, 115 41 Stockholm, Sweden_**
