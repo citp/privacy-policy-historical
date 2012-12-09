@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ethoswatches.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501033032id_/http%3A//www.ethoswatches.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethoswatches.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209044809id_/http%3A//www.ethoswatches.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
 Thank you for visiting our web site. At Ethos, we are keenly aware of the trust you place in us and our responsibility to protect your privacy. 
 
@@ -27,4 +27,4 @@ By e-mail:  [privacy@ethoswatches.com](mailto:privacy@ethoswatches.com)
 
 By Phone: +91 172 2548223 /4 / 7
 
-_We reserve the right to make changes to this policy. Any changes to this policy will be posted on this page._
+_We reserve the right to make changes to this policy. Any changes to this policy will be posted on this page_
