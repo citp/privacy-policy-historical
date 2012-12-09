@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the travelwireasia.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510035307id_/http%3A//www.travelwireasia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelwireasia.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209233850id_/http%3A//www.travelwireasia.com/dev/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Travel Wire Asia
+# Privacy Policy | Asia Travel Guides, Reviews, Diary, News | Travel Wire Asia
 
 **Consumer Privacy at TravelWire Asia, a Hybrid News Limited venture**
 
-At [TravelWireAsia.com](https://web.archive.org/web/20120510035307id_/http://www.travelwireasia.com/privacy-policy/TravelWireAsia.com) we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on our web site and acknowledge the importance of protecting this information. In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy.
+At [TravelWireAsia.com](http://www.travelwireasia.com/privacy-policy/TravelWireAsia.com) we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on our web site and acknowledge the importance of protecting this information. In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy.
 
-For a summary of our activities visit [www.hybridnewsgroup.com](http://www.hybridnewsgroup.com/).
+For a summary of our activities visit [www.hybridnewsgroup.com](http://www.hybridnewsgroup.com/).
 
 At Hybrid News Limited, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites.
 
@@ -15,8 +15,8 @@ We may collect information that can identify you (”personal information”), s
 We also may collect other types of information in the following ways when you visit our website:
 
   * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users’ movements around our site and understand trends.
-  * We may assign your computer one or more [cookies](http://www.thedailybeast.com/privacy-policy/#cookies) which may collect information to facilitate access to our website and to personalize your online experience.
-  * We may use standard Internet tools, such [web beacons](http://www.thedailybeast.com/privacy-policy/#beacons), which collect information that tracks your use of our website and enables us to customize our services and advertisements.
+  * We may assign your computer one or more [cookies](http://www.thedailybeast.com/privacy-policy/#cookies) which may collect information to facilitate access to our website and to personalize your online experience.
+  * We may use standard Internet tools, such [web beacons](http://www.thedailybeast.com/privacy-policy/#beacons), which collect information that tracks your use of our website and enables us to customize our services and advertisements.
 
 
 
@@ -58,10 +58,10 @@ We may share aggregated, non-personal information in any of the above situations
 You may choose:
 
   * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
-  * To stop receiving promotional e-mails or newsletters from us by sending an e-mail to the contact address at the bottom of this policy or by visiting the [opt out page](http://www.thedailybeast.com/privacy-policy/)
-  * To delete or decline [cookies](http://www.thedailybeast.com/privacy-policy/#cookies) by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
+  * To stop receiving promotional e-mails or newsletters from us by sending an e-mail to the contact address at the bottom of this policy or by visiting the [opt out page](http://www.thedailybeast.com/privacy-policy/)
+  * To delete or decline [cookies](http://www.thedailybeast.com/privacy-policy/#cookies) by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
   * To review and update your personal information by contacting us at the e-mail address below or, if you have an online account on our website, by logging into that account.
-  * To learn about additional choices, click [here](http://www.thedailybeast.com/full-privacy-policy/#choices).
+  * To learn about additional choices, click [here](http://www.thedailybeast.com/full-privacy-policy/#choices).
 
 
 
