@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharefaith.com privacy policy that was archived on 2012-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120201192721id_/http%3A//www.faithclipart.com/fca/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharefaith.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209041637id_/http%3A//www.sharefaith.com/faith/privacyPolicy/view.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,4 +50,4 @@ Questions, Comments, Concerns
 
 If you have any questions or comments about our use of Personal Information, please contact us at [Contact@FaithClipart.com](mailto:Contact@FaithClipart.com). We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information. 
 
-[](https://www.faithclipart.com/fca/register.do)
+[](https://www.sharefaith.com/faith/register.do)
