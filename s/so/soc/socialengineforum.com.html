@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the socialengineforum.com privacy policy that was archived on 2012-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120610133431id_/http%3A//www.socialengineforum.com/index.php%3Fapp%3Dforums%26module%3Dextras%26section%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the socialengineforum.com privacy policy that was archived on 2012-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121209012912id_/http%3A//www.socialengineforum.com/index.php%3Fapp%3Dforums%26module%3Dextras%26section%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Privacy Policy</title>
@@ -9,7 +9,7 @@
 	
 	<!--
 	* @project     Social Engine Forum (Online Community)
-	* @version     12.05.231002 (Stable)
+	* @version     12.11.260939 (Stable)
 	* @author      Coldware Networks Netherland <www.coldware.org>
 	* @copyright   2010-2012 Coldware Networks Netherland
 	* @link        http://www.socialengineforum.com
@@ -25,9 +25,10 @@
 		<script type="text/javascript" src="http://www.socialengineforum.com/public/min/index.php?f=public/js/3rd_party/prototype.js,public/js/3rd_party/scriptaculous/scriptaculous-cache.js,public/js/ipb.js,public/js/ips.quickpm.js,cache/lang_cache/1/ipb.lang.js,public/js/timespan.js" charset="UTF-8"></script>
 		<link rel="alternate feed" type="application/rss+xml" title="New Releases Feed" href="./index.php?app=core&amp;module=global&amp;section=rss&amp;type=forums&amp;id=1">
 
+		<link rel="alternate feed" type="application/rss+xml" title="Announcements" href="./index.php?app=core&amp;module=global&amp;section=rss&amp;type=forums&amp;id=2">
+
 
 	<link type="text/css" href="./chat/css.php" rel="stylesheet" charset="utf-8">
-	<script type="text/javascript" src="./chat/js.php" charset="utf-8"></script>
 	
 	<script type="text/javascript" src="http://rtn.htp.3.sefcdn.net/public/js/3rd_party/jquery/jquery-1.4.2.min.js" charset="utf-8"></script>
 	<script type="text/javascript">
@@ -40,7 +41,7 @@
 				$(this).addClass("active");
 			}).live('mouseleave', 
 			function () {
-				$("ul", this).hide();			
+				$("ul", this).hide();
 				$(this).removeClass("active");
 				$("nav ul li.channel-active ul").show();
 			}
@@ -55,17 +56,17 @@
 				}
 			}, function() {
 				if ($(this).hasClass('fixed')) {
-					$(this).stop(true).fadeTo('slow', 0.5);
+					$(this).stop(true).fadeTo('slow', 0.2);
 				}
 			});
 			$(window).scroll(function() {
-				if ($(window).scrollTop() > 100) {
+				if ($(window).scrollTop() > 110) {
 					if (!controlBar.hasClass('fixed')) {
-						controlBar.addClass('fixed').stop(true).fadeTo('slow', 0.5);
+						controlBar.addClass('fixed').stop(true).fadeTo('slow', 0.2);
 					}
 				} else {
 					if (controlBar.hasClass('fixed')) {
-						controlBar.removeClass('fixed').stop(true).fadeTo('fast', 1, function() {
+						controlBar.removeClass('fixed').stop(true).fadeTo('slow', 1, function() {
 							$(this).css('filter', '');
 						});
 					}
@@ -118,8 +119,12 @@
 	</style>
 	<![endif]-->
 	<style>
-		#content{clear:both;background:#f8f8f8;border:1px solid #cbcbcb;border-top:0;-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;height:100%;width:auto;margin:165px 20px 20px;padding:12px 17px 5px;box-shadow:0 0 15px rgba(0,0,0,1);-moz-box-shadow:0 0 15px rgba(0,0,0,1);-webkit-box-shadow:0 0 15px rgba(0,0,0,1);}
+		#content{clear:both;background:#f8f8f8;border:1px solid #cbcbcb;border-top:0;-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;height:100%;width:940px;margin:170px auto 25px;padding:12px 17px 5px;box-shadow:0 0 15px rgba(0,0,0,1);-moz-box-shadow:0 0 15px rgba(0,0,0,1);-webkit-box-shadow:0 0 15px rgba(0,0,0,1);}
 		#smart_header{width:100%;position:fixed;z-index:100000;display:block;margin:-1px auto 0;}
+		.christmas{z-index:10005;position:relative;}
+		.hat{top:-25px;left:-68px;float:left;margin:0 -128px -128px 0;}
+		.gifts{bottom:-25px;right:-50px;float:right;margin:-96px 0 0 -96px;}
+		
 		body#ipboard_body{background:rgb(62,83,120) url(http://dup.tem.94.sefcdn.net/clean/clouds.png) repeat-x;background-attachment:fixed;background-position:bottom left;margin:0;}
 		
 		#smart_header header .logo{background-image:url(http://cop.log.6.sefcdn.net/logos/normal/logo.png);background-repeat:none;}
@@ -146,7 +151,7 @@
 		ipb.vars['is_supmod']			= parseInt( 0 ),
 		ipb.vars['is_admin']			= parseInt( 0 ),
 		ipb.vars['secure_hash'] 		= '880ea6a14ea49e853634fbdc5015a024';
-		ipb.vars['session_id']			= 'c97064b1c7857367ca8c05515abf9eab';
+		ipb.vars['session_id']			= '081c1bd9f6cfb96e59044220edae8ef8';
 		ipb.vars['can_befriend']		= true;
 		/* ---- cookies ----- */
 		ipb.vars['cookie_id'] 			= '';
@@ -199,7 +204,7 @@
 			<a href="http://www.socialengineforum.com/index.php?/index" class="logo" title="Social Engine Forum"></a>
 			<div id="userbar">
 				<div id="userbar-default">
-					<p>Welcome to the Revamped Social Engine Forum</p>
+					<p>Social Engine Forum Preparing for Christmas...</p>
 					
 					<p id="userbar-options">Hi, You can <a href="http://www.socialengineforum.com/index.php?app=core&amp;module=global&amp;section=register" title="Login to an Account">Create an Account</a> or <a href="http://www.socialengineforum.com/index.php?app=core&amp;module=global&amp;section=login">Login to an Account</a></p>
 					
@@ -320,6 +325,8 @@
 	</div>
 	
 			<div id="content" class="clear">
+			<!-- Christmas Hat Decoration -->
+			<img src="http://dup.tem.94.sefcdn.net/clean/christmas/hat.png" class="christmas hat">
 			
 			<a id="j_content"></a>
 			
@@ -343,7 +350,7 @@
 <li>To process transactions (Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.)</li>
 <li>To send periodic emails (The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.)</li>
 </ul>
-<br><strong>How do we protect your information?</strong> <br><br>We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. <br> <br>We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.<br><br>After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.<br><br><strong>Do we use cookies?</strong> <br><br>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information)<br><br> We use cookies to understand and save your preferences for future visits.<br><br><strong>Do we disclose any information to outside parties?</strong> <br><br>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br><br>
+<br><strong>How do we protect your information?</strong> <br><br>We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. <br> <br>We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.<br><br>After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.<br><br><strong>Do we use cookies?</strong> <br><br>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information)<br><br> We use cookies to understand and save your preferences for future visits.<br><br><strong>Do we disclose any information to outside parties?</strong> <br><br>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br><br>Further more, we use your IP address to get realtime weather (where available) through Yahoo! Weather news. So, your IP address is used to calculate your location and get weather details. But we do not share your information to any other third party for any reason.<br><br>
 <strong>Information removal</strong> <br><br>Unfortunately, we are not removing any membership from the system, maximum we can help you with is, to unsubscribe from emails or blocking yourself from the community (after confirming as the account owner).<br><br>
 <strong>Online Privacy Policy Only</strong> <br><br>This online privacy policy applies only to information collected through our website and not to information collected offline.<br><br><strong>Terms and Conditions</strong> <br><br>Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <a href="http://www.socialengineforum.com/index.php?app=forums&amp;module=extras&amp;section=terms">http://www.socialengineforum.com/index.php?app=forums&amp;module=extras&amp;section=terms</a><br><br><strong>Your Consent</strong> <br><br>By using our site, you consent to our online privacy policy.<br><br><strong>Changes to our Privacy Policy</strong> <br><br>If we decide to change our privacy policy, we will post those changes on this page. <br><br><strong>Contacting Us</strong> <br><br>If there are any questions regarding this privacy policy you may contact us at <a href="mailto:privacy@socialengineforum.com">privacy@socialengineforum.com</a>.<span> </span>
 </div>
@@ -352,6 +359,8 @@
 				<center>All the resources listed here are just for testing purpose and they shouldn't be used at any commercial environment without a valid license.<br>Those are for users who wants to try them before buy. Help the developer to build it better by purchasing them from original authors.</center>
 			</div>
 			<br class="clear">
+			<!-- Christmas Gifts Decoration -->
+			<img src="http://dup.tem.94.sefcdn.net/clean/christmas/gifts.png" class="christmas gifts">
 			</div>
 			<!-- __FOOTER__ -->
 			<!-- /__FOOTER__ -->
@@ -399,20 +408,20 @@
 							</ul>
 						</div>
 						<br>
-						Best View in <a href="http://www.mozilla.com/en-GB/firefox/" target="_blank" rel="external nofollow" class="smart_link">Mozilla Firefox 10+</a> at 1280 X 960 Desktop Resolution with <a href="http://www.microsoft.com/windows/windows-7/default.aspx" target="_blank" rel="external nofollow" class="smart_link">Microsoft Windows 7</a>
+						Best View in <a href="http://www.mozilla.com/en-GB/firefox/" target="_blank" rel="external nofollow" class="smart_link">Mozilla Firefox 16+</a> at 1366 X 768 Desktop Resolution with <a href="http://www.microsoft.com/windows/windows-7/default.aspx" target="_blank" rel="external nofollow" class="smart_link">Microsoft Windows 7</a>
 						<br>
 						Designed using HTML5 &amp; CSS3 with jQuery &amp; Prototype, requires a modern browser
 					</td>
 				</tr>
 				<tr>
 					<td colspan="1" class="smart_block_5">
-						Time Now: Jun 10 2012 07:33 AM
+						Time Now: Dec 08 2012 07:21 PM
 						
 					</td>
 					<td class="smart_block_6">
-					<img src="http://dup.tem.94.sefcdn.net/clean/footer_time.png" alt="Icon" width="16" height="16"> 0.0386 Seconds &nbsp;
+					<img src="http://dup.tem.94.sefcdn.net/clean/footer_time.png" alt="Icon" width="16" height="16"> 0.0778 Seconds &nbsp;
 						<img src="http://dup.tem.94.sefcdn.net/clean/database.png" alt="Icon" width="16" height="16"> 4 Queries &nbsp;
-						<img src="http://dup.tem.94.sefcdn.net/clean/stats_memory.png" alt="Icon" width="16" height="16"> 11.94 MB &nbsp;
+						<img src="http://dup.tem.94.sefcdn.net/clean/stats_memory.png" alt="Icon" width="16" height="16"> 12.02 MB &nbsp;
 						<img src="http://dup.tem.94.sefcdn.net/clean/server.png" alt="Icon" width="16" height="16"> CDN Enabled &nbsp;
 						<img src="http://dup.tem.94.sefcdn.net/clean/compression.png" alt="Icon" width="16" height="16"> GZIP Enabled
 					</td>
@@ -439,15 +448,18 @@
 			
 		</div>
 	
+	
+	<script type="text/javascript" src="./chat/js.php" charset="utf-8"></script>
+	
 	<script type="text/javascript">var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-16899905-1']); _gaq.push(['_setDomainName', '.socialengineforum.com']); _gaq.push(['_setCustomVar', 1, 'VisitorType', 'Guests', 1]); _gaq.push(['_trackPageview']); _gaq.push(['_trackPageLoadTime']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();</script>
 	
 	<!--
 	* @project     Social Engine Forum (Online Community)
-	* @version     12.05.231002 (Stable)
+	* @version     12.11.260939 (Stable)
 	* @author      Coldware Networks Netherland <www.coldware.org>
 	* @copyright   2010-2012 Coldware Networks Netherland
 	* @link        http://www.socialengineforum.com
 	-->
 	
 	
-</body></html>
+<div id="cometchat_flashcontent"></div><div id="cometchat"><div id="cometchat_trayicons"><div id="cometchat_trayicon_notifications_popup" class="cometchat_traypopup" style="display:none"><div class="cometchat_traytitle"><div class="cometchat_name">Notifications</div><div class="cometchat_minimizebox"></div><br clear="all"></div><div class="cometchat_traycontent"><div class="cometchat_traycontenttext" style="height:300px"><div class="cometchat_loading"></div><iframe class="cometchat_iframe" allowtransparency="true" frameborder="0" width="280" height="300" id="cometchat_trayicon_notifications_iframe"></iframe></div></div></div><div id="cometchat_trayicon_chatrooms_popup" class="cometchat_traypopup" style="display:none"><div class="cometchat_traytitle"><div class="cometchat_name">Chatrooms</div><div class="cometchat_minimizebox"></div><br clear="all"></div><div class="cometchat_traycontent"><div class="cometchat_traycontenttext" style="height:300px"><div class="cometchat_loading"></div><iframe class="cometchat_iframe" allowtransparency="true" frameborder="0" width="500" height="300" id="cometchat_trayicon_chatrooms_iframe"></iframe></div></div></div><div id="cometchat_trayicon_translate2_popup" class="cometchat_traypopup" style="display:none"><div class="cometchat_traytitle"><div class="cometchat_name">Translate Page</div><div class="cometchat_minimizebox"></div><br clear="all"></div><div class="cometchat_traycontent"><div class="cometchat_traycontenttext" style="height:300px"><div class="cometchat_loading"></div><iframe class="cometchat_iframe" allowtransparency="true" frameborder="0" width="280" height="300" id="cometchat_trayicon_translate2_iframe"></iframe></div></div></div><div id="cometchat_trayicon_share_popup" class="cometchat_traypopup" style="display:none"><div class="cometchat_traytitle"><div class="cometchat_name">Share This Page</div><div class="cometchat_minimizebox"></div><br clear="all"></div><div class="cometchat_traycontent"><div class="cometchat_traycontenttext" style="height:50px"><div class="cometchat_loading"></div><iframe class="cometchat_iframe" allowtransparency="true" frameborder="0" width="365" height="50" id="cometchat_trayicon_share_iframe"></iframe></div></div></div></div><div id="cometchat_base" style="left: 20px; width: 1326px;"><div id="cometchat_hide" onclick="jqcc.cometchat.hideBar();"></div><div id="cometchat_optionsbutton" class="cometchat_tab cometchat_optionsimages_exclamation" unselectable="on"><div id="cometchat_optionsbutton_icon" class="cometchat_optionsimages" style="display: none;"></div></div><div id="cometchat_trayicons"><div id="cometchat_trayicon_home" class="cometchat_trayicon" unselectable="on"><div class="cometchat_trayiconimage"><img src="chat/modules/home/icon.png"></div></div><div id="cometchat_trayicon_notifications" class="cometchat_trayicon" unselectable="on"><div class="cometchat_trayiconimage"><img src="chat/modules/notifications/icon.png"></div></div><div id="cometchat_trayicon_chatrooms" class="cometchat_trayicon" unselectable="on"><div class="cometchat_trayiconimage"><img src="chat/modules/chatrooms/icon.png"></div></div><div id="cometchat_trayicon_translate2" class="cometchat_trayicon" unselectable="on"><div class="cometchat_trayiconimage"><img src="chat/modules/translate2/icon.png"></div></div><div id="cometchat_trayicon_share" class="cometchat_trayicon" unselectable="on"><div class="cometchat_trayiconimage"><img src="chat/modules/share/icon.png"></div></div><div id="cometchat_trayicon_scrolltotop" class="cometchat_trayicon" unselectable="on"><div class="cometchat_trayiconimage"><img src="chat/modules/scrolltotop/icon.png"></div></div></div><span id="cometchat_userstab" class="cometchat_tab" unselectable="on" style="display: none;"><span id="cometchat_userstab_icon"></span><span id="cometchat_userstab_text">Online Friends (0)</span></span><div id="cometchat_chatbox_right" class="cometchat_chatbox_right_last cometchat_chatbox_lr" style="display: none;"><span class="cometchat_tabtext">0</span><span style="top:-5px;display:none" class="cometchat_tabalertlr">0</span></div><div id="cometchat_chatboxes" unselectable="on" style="width: 0px; display: none;"><div id="cometchat_chatboxes_wide" style=""></div></div><div id="cometchat_chatbox_left" class="cometchat_chatbox_left_last cometchat_chatbox_lr" style="display: none;"><span class="cometchat_tabtext">0</span><span class="cometchat_tabalertlr" style="top:-5px;display:none;">0</span></div></div><div id="cometchat_optionsbutton_popup" class="cometchat_tabpopup" style="display: none; left: 1091px;"><div class="cometchat_userstabtitle"><div class="cometchat_userstabtitletext">Chat Options</div><div class="cometchat_minimizebox"></div><br clear="all"></div><div class="cometchat_tabsubtitle">Configure how this should work!</div><div class="cometchat_tabcontent cometchat_optionstyle"><strong>My Status</strong><br><textarea class="cometchat_statustextarea"></textarea><br><input type="button" class="cometchat_statusbutton" value="Set my status"><br><div class="cometchat_statusinputs"><strong>I am...</strong><br><span class="cometchat_user_available"></span><span class="cometchat_optionsstatus available">Available</span><span class="cometchat_optionsstatus2 cometchat_user_invisible"></span><span class="cometchat_optionsstatus invisible">Invisible</span><div style="clear:both"></div><span class="cometchat_optionsstatus2 cometchat_user_busy"></span><span class="cometchat_optionsstatus busy">Busy</span><span class="cometchat_optionsstatus2 cometchat_user_invisible"></span><span class="cometchat_optionsstatus cometchat_gooffline">Offline</span><br clear="all"></div><div class="cometchat_options_disable"><div><input type="checkbox" id="cometchat_soundnotifications" style="vertical-align: -2px;">&nbsp;Disable sound notifications</div><div style="clear:both"></div><div><input type="checkbox" id="cometchat_popupnotifications" style="vertical-align: -2px;">&nbsp;Disable popup notifications</div></div><a href="javascript:void(0);" onclick="javascript:jqcc.ccblock.blockList();" style="margin-left:5px;margin-top:5px;">Manage blocked users</a></div></div><div id="cometchat_userstab_popup" class="cometchat_tabpopup" style="display: none; left: 1091px;"><div class="cometchat_userstabtitle"><div class="cometchat_userstabtitletext">Online Friends</div><div class="cometchat_minimizebox"></div><br clear="all"></div><div class="cometchat_tabsubtitle" id="cometchat_searchbar"><input type="text" name="cometchat_search" class="cometchat_search cometchat_search_light" id="cometchat_search" value="Find a user"></div><div class="cometchat_tabcontent cometchat_tabstyle"><div id="cometchat_userscontent" unselectable="on"><div id="cometchat_userslist"></div></div></div></div></div><div id="cometchat_hidden"><div id="cometchat_hidden_content"></div></div><div id="cometchat_tooltip"><div class="cometchat_tooltip_content"></div></div></body></html>
