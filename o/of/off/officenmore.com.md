@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the officenmore.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502001624id_/http%3A//www.officenmore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officenmore.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209060333id_/http%3A//www.officenmore.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy and DMCA Notification for Office Supply and Workplace
 
-| | 
+|  | 
 
 * * *
 
@@ -72,7 +72,7 @@ Additionally, as a non-registered user your IP address is usually published with
 
 We highly recommend you chose to participate as a  registered user and do not put contact information directly within your messages. We are not currently accepting posts from unregistered users.
 
-Please note at this time it is required that all users register before they can participate.
+Please note at this time it is required that all users register before they can participate. Users that participated in the past as unregistered uses may register under the same email ad they used in the unregistered manner and be able to delete posts. Users that participated with an invalid email address are unable to do so.
 
 * * *
 
@@ -110,21 +110,61 @@ Emails we might send you**
 
 * * *
 
-  * When you register on our site, we will send you an acknowledgement email with your password. 
-  * When you request your password be resent to you. 
-  * When you specifically subscribe to a notification, ie: to be notified by email when you are sent an internal email. You must have already registered on our site. You can subscribe and unsubscribe to notifications from our member page. 
-  * When you post a new message or reply on our forum. You will be added to the email notification list and be sent an email when someone else makes a reply to that message. When posting your message you can uncheck the box and then you will not be added to the email notification list. Additionally, you can select to subscribe or unsubscribe to the notifications for a specific message by using the link at the bottom of the posting form. The notification emails also include an unsubscribe link.
-  * When you submit a listing to our directory, a guest blog post, question/answer or other section. We may email you telling you your posting has been approved, declined or asking a question about it
-  * If you submit a free banner ad you will be emailed with an acknowledgement / status report. Additionally you may be emailed a weekly statistical report. If you do not wish tor receive these you can delete your advertisement.
-  * Expert pages: when you create an expert page we may email letting you know your page has been approved, declined or making a comment about in the approval process. Additionally, we email you a weekly status report and/or an individual email to help you with the success of your expert page. If you do not wish to receive any such emails you can remove your expert page.
-  * The first time you submit a forum post, note, profile, or other post with a URL included, we may email you information about the most effective self promotional opportunities available to you on our site.
-  * If you submit an entry to our directory, we will email you an acknowledgement and additionally, if there is a change in status, or otherwise to make any update regarding your listing or our directory. If you do not wish to receive such email(s) please delete your directory listing.
-  * If you submit an article, blog post, or press release we may email you an acknowledgement when the submission has been reviewed.
-  * When you submit a classified ad (ie: real estate, rental, and/or car for sale) we may send you an email when your ad has been approved, rejected, if we have any individual comments or suggestions, and up to once a month with  any updates, information, or a request you review your ad for any changes. This refers to classified ads posted within the classified ads section of our website(s), it does not refer to posts made in the forums, blogs, article library, etc. If you do not wish to receive these emails you can delete all your classified ads.
-  * In the case of a problem or we have a suggestion relative to your submission, posting, account or other issue we may individually email you.
-  * If you submit an RSS Feed we will send you relevant emails, ie: that your submission was received (or not), when it is approved, and when new posts have been processed and are ready for you to tag them.
-  * In case you email us with a concern we may email you back.
+  * When you register on our site, we will send you an acknowledgement email with your password.You will be sent separately a "welcome" email.  
 
+  * When you request your password be resent to you. 
+  * General notifications / subscriptions:
+
+
+
+>   * When you register and/or create a profile you are automatically subscribed to " **system messages** ". These are extremely rare and would relate to any significant updates, changes or issues with the site.
+>   * When you register and/or create a profile you are automatically subscribed to " **weekly site update** ". This is a weekly email that updates you on your current status and activity on the site.
+>   * When you post an advertisement you status to receive immediately notification when someone sends you a message via our system will be set.
+> 
+
+>   * When you post a new message or reply on our forum. You will be added to the email notification list and be sent an email when someone else makes a reply to that message. When posting your message you can uncheck the box and then you will not be added to the email notification list. Additionally, you can select to subscribe or unsubscribe to the notifications for a specific message by using the link at the bottom of the posting form. The notification emails also include an unsubscribe link. 
+>   * > When you submit a listing to our directory, a guest blog post, question/answer or other section. We may email you telling you your posting has been approved, declined or asking a question about it
+> 
+>   * > If you submit a free banner ad you will be emailed with an acknowledgement / status report. Additionally you may be emailed a weekly statistical report. If you do not wish tor receive these you can delete your advertisement.
+> 
+>   * > Expert pages: when you create an expert page we may email letting you know your page has been approved, declined or making a comment about in the approval process. Additionally, we email you a weekly status report and/or an individual email to help you with the success of your expert page. If you do not wish to receive any such emails you can remove your expert page.
+> 
+>   * > The first time you submit a forum post, note, profile, or other post with a URL included, we may email you information about the most effective self promotional opportunities available to you on our site.
+> 
+> 
+
+
+  * > If you submit an entry to our directory, we will email you an acknowledgement and additionally, if there is a change in status, or otherwise to make any update regarding your listing or our directory. If you do not wish to receive such email(s) please delete your directory listing.
+
+
+
+
+> If you submit an article, blog post, or press release we may email you an acknowledgement when the submission has been reviewed.
+
+
+
+
+> When you submit a classified ad (ie: real estate, rental, and/or car for sale) we may send you an email when your ad has been approved, rejected, if we have any individual comments or suggestions, and up to once a month with  any updates, information, or a request you review your ad for any changes. This refers to classified ads posted within the classified ads section of our website(s), it does not refer to posts made in the forums, blogs, article library, etc. If you do not wish to receive these emails you can delete all your classified ads.
+
+
+
+
+> In the case of a problem or we have a suggestion relative to your submission, posting, account or other issue we may individually email you.
+
+
+
+
+> If you submit an RSS Feed we will send you relevant emails, ie: that your submission was received (or not), when it is approved, and when new posts have been processed and are ready for you to tag them.
+
+
+
+
+> In case you email us with a concern we may email you back.
+
+> You can enable / disable any notifications / subscriptions via the "User Menu / Notifications" selection or you can disable them via the link provided in all emails sent because of a notification or subscription option.  
+> 
+
+> 
 
 
 If you attempt to participate in any kind of fraudulent activity, or abusive behavior or any activity to attack our servers or network resources any and all information we have or can collect may be shared with anyone we feel is necessary, and/or useful to resolve the problem.
@@ -143,9 +183,13 @@ Before submitting any information, please review the submission form. For exampl
 
 Submissions to our directory or classifieds ads can be deleted by the same user who placed the advertisement. Please use care when making submissions for clients to ensure your client has the login and password to delete entries in the future if they wish.
 
+All of our customer service is "self-service", ie: you login and delete material posted under your account. In the case that you are unwilling or unable (for example, you hired an SEO company to make posts and they used their login information and not yours), we can provide the following limited customer service: Deletion of a specific post or directory entry. You must provide the exact URL of the post on our site, information to show that it is your post, prepayment of US$50 via Western Union (per deletion). Normally within 2 business days of receipt of a scan (or digital photo) of the Western Union receipt, the deletion will be completed.
+
 If you place an order or make use of any website linked to from our website, whether it is an editorial mention with a link, member submission with a link, an advertisement or any other link, you must contact that website directly for any customer service or privacy policy.
 
 If you make a customer service related inquiry on any social networking site, forum, or other publicly accessible website (ie: facebook, twitter,, etc) we may publicly disclose any information we have collected, including but not limited to email addresses, ip addresses, etc in order to respond.
+
+False DMCA requests (ie: requests to delete material you posted yourself, and/or requests with false declarations will be reported to the appropriate authorities).
 
 * * *
 
@@ -217,10 +261,6 @@ To be effective, the notification must be in writing and contain the following i
 4\. your address, telephone number, and email address;   
 5\. a statement that you have a good faith belief that the use by the person you believe has infringed on your copyright is not authorized by the copyright owner, its agent, or the law;   
 6\. your statement, made under penalty of perjury, that the information contained in your notification is accurate, and that you are the copyright owner or are authorized to act on the owner's behalf.
-
-* * *
-
-* * *
 
 * * *  
   
