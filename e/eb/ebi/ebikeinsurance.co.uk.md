@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ebikeinsurance.co.uk privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615173633id_/http%3A//www.ebikeinsurance.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebikeinsurance.co.uk privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209083553id_/http%3A//www.ebikeinsurance.co.uk/privacy.php) for the most accurate reproduction.*
 
 # eBike Insurance - Privacy and Security
 
 . .
 
-## Privacy and security
+## Privacy And Security
 
   * Introduction
   * Collecting Information
@@ -12,6 +12,7 @@
   * Information Security
   * How Your Information Will Be Used
   * Access To Your Information
+  * Cookies
 
 
 
@@ -73,6 +74,37 @@ You can write to us at any time to obtain details of the information we hold abo
       
 
 Please quote your name, postal address and email address along with the details of your requirement. We will take reasonable steps to confirm your identity before providing you with details of any personal information we may hold about you. Therefore we would be grateful if you could provide two forms of identification such as a copy of a passport or driving licence and a copy of a utility bill to confirm address. In accordance with the Data Protection Act, 1998 we are entitled to charge £10 to cover the administration costs involved with this process. Please make cheques payable to “E Insurance Services Limited”.
+
+back to top
+
+## 7\. Cookies
+
+Our web site use a number of different cookies. Here we explain the different type of cookies we use and why we use them. 
+
+#### What is a cookie?
+
+Cookies are small text files placed on your computer by websites or sometimes by emails. They provide useful information to companies, which helps in all sorts of ways. For you, it means you can use our site more efficiently and save you time by not having to re-enter your details each time you visit. They also make sure you receive the most relevant information from us.
+
+There are two main categories of cookies: 
+
+  * Persistent cookies - These cookies stay your computer until they are removed manually or automatically 
+  * Session cookies - These cookies remain on your computer until you close your browser when they are automatically deleted. 
+
+
+
+### Cookies we use and why we use them
+
+#### Essential cookies
+
+Essential cookies are technical cookies that are required for the operation of our sites. Without essential cookies our web site can't operate properly. Essential cookies include, for example, cookies that enable you to log into secure areas. 
+
+#### Performance cookies
+
+Performance cookies allow us to recognise and count the number of visitors to our web site and to see how visitors move around them. This helps us to improve the way our web site works by enabling us to tailor our site to the way visitors use them. The information we collect from performance cookies is aggregated which means that we cannot identify you from it. 
+
+#### Your right to refuse cookies and what happens if you refuse them
+
+You can refuse cookies by activating the relevant setting on your browser. However, if you do so you may not be able to access all or parts of our sites. If you carry on using our sites and do not change your browser settings we will assume you consent to us using cookies as described above. 
 
 back to top
 
