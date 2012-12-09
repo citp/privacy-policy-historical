@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukecigstore.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611041310id_/http%3A//www.ukecigstore.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukecigstore.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209085716id_/http%3A//www.ukecigstore.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,6 +19,8 @@ We may collect, store and use the following kinds of personal information:
  (c)     information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters
 
  (e)     any other information that you choose to send to us;
+
+ (f)     we do not store credit card details nor do we share customer details with any 3rd parties
 
 **(2)       Cookies**
 
