@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myqivana.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607080015id_/http%3A//www.qivana.com/index.php%3Fp_resource%3Dqivana-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myqivana.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209073052id_/http%3A//www.qivana.com/index.php%3Fp_resource%3Dqivana-privacy) for the most accurate reproduction.*
 
 # Qivana - Privacy Policy
 
