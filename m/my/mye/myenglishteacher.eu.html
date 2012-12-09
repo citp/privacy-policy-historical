@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the myenglishteacher.eu privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630133905id_/http%3A//www.myenglishteacher.eu/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myenglishteacher.eu privacy policy that was archived on 2012-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121209225956id_/http%3A//www.myenglishteacher.eu/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>MyEnglishTeacher.eu Adatkezelési nyilatkozata</title>
@@ -218,11 +218,23 @@ var k_push_vars = {
                                                     back = getCookie('location_back');
                                                     if(back!='undefined') {
                                                         back_ende = back.substr(back.length-3);
-                                                        if(back_ende == '/en' || back_ende == '/de' || back_ende == '/hu'); else{
-                                                          window.location.href = back;
-                                                        }
-                                                    }
+
+					// ha a profil oldalon vagyunk, akkor más az ende
+					if ( location.href.indexOf('profile') > 0) {
+
+back_ende = location.href.substr( location.href.length-3 );
+
+}
+
+
+					
+
+                                                if(back_ende == '/en' || back_ende == '/de' || back_ende == '/hu'); else{
+                          
+							window.location.href = back;
                                                 }
+                                            }
+                                        }
                                                 
                                                 
                                                     
@@ -289,11 +301,9 @@ var k_push_vars = {
 
                                                 
 
-<h2 class="old_h1"> </h2>
+<h2 class="old_h1"></h2>
 <!-- lead -->
-            <p class="socials">
-	<span class="label" style="padding:33px 0 0 34px;">Join us on FACEBOOK</span> <a href="http://facebook.com" target="_blank"><img alt="" src="http://www.myenglishteacher.eu/userfiles/images/facebookIcon.png" style="width: 46px; height: 46px; margin-right: 12px;"></a></p>
-
+            
 <!-- description -->
                         
 <div class="hr">&nbsp;</div>
@@ -548,6 +558,11 @@ margin-right: 15px;">
 <!--End Kampyle Feedback Form Button-->
 
 <!-- adatkezelesi_szabalyzat -->
+
+
+
+
+
 
 	
 
