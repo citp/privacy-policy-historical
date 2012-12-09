@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the easyworship.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610065432id_/http%3A//www.easyworship.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyworship.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209233555id_/http%3A//easyworship.com/about/privacy) for the most accurate reproduction.*
 
 # EasyWorship Church Presentation Software / About / Privacy
 
 skip to content
 
-  * [Home](http://www.easyworship.com/)
-  * [EasyWorship 2009](http://www.easyworship.com/easyworship/overview/)
-  * [Media Store ](http://www.easyworship.com/store/)
-    * [Bibles](http://www.easyworship.com/bible/)
-    * [Mini Movies](http://www.easyworship.com/minimovies/)
-    * [Motions](http://www.easyworship.com/motions/)
-    * [Countdowns](http://www.easyworship.com/countdowns/)
-    * [Collections](http://www.easyworship.com/collections/)
-    * [Stills](http://www.easyworship.com/stills/)
-  * [Training](http://www.easyworship.com/easyworship/getstarted/)
-  * [Support](http://www.easyworship.com/support/)
+  * [Home](http://easyworship.com/)
+  * [EasyWorship 2009](http://easyworship.com/easyworship/overview/)
+  * [Media Store ](http://easyworship.com/store/)
+    * [Bibles](http://easyworship.com/bible/)
+    * [Mini Movies](http://easyworship.com/minimovies/)
+    * [Motions](http://easyworship.com/motions/)
+    * [Countdowns](http://easyworship.com/countdowns/)
+    * [Collections](http://easyworship.com/collections/)
+    * [Stills](http://easyworship.com/stills/)
+  * [Training](http://easyworship.com/easyworship/getstarted/)
+  * [Support](http://easyworship.com/support/)
 
 [Back to Support](https://web.archive.org/support/)
 
