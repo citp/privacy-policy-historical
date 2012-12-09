@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the designntrend.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608231828id_/http%3A//www.designntrend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designntrend.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209012326id_/http%3A//www.designntrend.com/privacy-policy) for the most accurate reproduction.*
 
-# Interior, Architecture, Art, Fashion, Jewelery, Photography, Visual Communication, Lifestyle, Car - Design & Trend.com
+# Design & Trend
 
-Last Modified: June 8, 2012
+Last Modified: August 1, 2012
 
 This is the privacy policy ("Privacy Policy") for Designntrend.com ("Site," "we," "us," or "our"). This Privacy Policy is intended to explain our privacy practices and covers the following areas:
 
