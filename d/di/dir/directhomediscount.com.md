@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directhomediscount.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608162743id_/http%3A//clubs.directbuy.com/content/privacy.htm%3Fiframe%3Dtrue%26width%3D100%25%26height%3D100%25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directhomediscount.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209021429id_/http%3A//clubs.directbuy.com/content/privacy.htm%3Fiframe%3Dtrue%26width%3D100%25%26height%3D100%25) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,4 +48,4 @@ This policy is effective as of January 1, 2007.  As we update and expand our se
 
 **Contact Information**
 
-If you have any questions or suggestions regarding our Privacy Policy, please contact us at _DirectBuy@ActiveEmailCompliance.com._
+If you have any questions or suggestions regarding our Privacy Policy, please contact us at _[DirectBuy@ActiveEmailCompliance.com](mailto:DirectBuy@ActiveEmailCompliance.com)._
