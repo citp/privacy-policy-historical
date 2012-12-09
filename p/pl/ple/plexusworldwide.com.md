@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plexusworldwide.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610174410id_/http%3A//www.plexusworldwide.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plexusworldwide.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209083949id_/http%3A//www.plexusworldwide.com/privacy.html) for the most accurate reproduction.*
 
-# Plexus - Home
+# Plexus - Privacy
 
 Plexus Worldwide Inc. respects your individual privacy. This Privacy Policy documents our adherence to the highest industry standards for the protection of your personal information. By visiting this web site ("Site") or using any of the services offered on the Site, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. This Privacy Policy is effective as of October 1, 2011, applies to information collected through the Site and covers the following areas:
 
