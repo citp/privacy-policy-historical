@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialengineforum.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610133431id_/http%3A//www.socialengineforum.com/index.php%3Fapp%3Dforums%26module%3Dextras%26section%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialengineforum.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209012912id_/http%3A//www.socialengineforum.com/index.php%3Fapp%3Dforums%26module%3Dextras%26section%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,6 +37,8 @@ We use cookies to understand and save your preferences for future visits.
  **Do we disclose any information to outside parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+Further more, we use your IP address to get realtime weather (where available) through Yahoo! Weather news. So, your IP address is used to calculate your location and get weather details. But we do not share your information to any other third party for any reason.
 
 **Information removal**
 
