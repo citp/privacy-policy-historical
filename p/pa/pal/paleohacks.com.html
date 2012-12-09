@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the paleohacks.com privacy policy that was archived on 2012-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120602215944id_/http%3A//paleohacks.com/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paleohacks.com privacy policy that was archived on 2012-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121209103901id_/http%3A//paleohacks.com/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
     
@@ -7,7 +7,7 @@
     <meta name="generator" content="StackExchange 0.9 (20100413135304-37b86aed49ad)">
 
     <title>PrivacyPolicy - PaleoHacks.com</title>
-    <link rel="stylesheet" href="/theme/css?highlight=f3950f&amp;foreground=080808&amp;background=ffffff&amp;rev=20100413135304-37b86aed49ad&amp;version=66b89c">
+    <link rel="stylesheet" href="/theme/css?highlight=f3950f&amp;foreground=080808&amp;background=ffffff&amp;rev=20100413135304-37b86aed49ad&amp;version=2948c7">
     <link rel="icon" id="favicon" type="image/png" href="/theme/image/theme.favicon.69ac21">
     <link rel="apple-itouch-icon" href="/apple-touch-icon.png">
     <script async="" type="text/javascript" src="//92906.hittail.com/mlt.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=359130592606"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
@@ -22,6 +22,26 @@
     </script>
     <script type="text/javascript" src="/content/js/master.js?rev=20100413135304-37b86aed49ad"></script>
     
+
+<script type="text/javascript">
+
+$(document).ready( function() {
+   $.getJSON( "http://smart-ip.net/geoip-json?callback=?",
+       function(data){
+              var bannedips=["69.181.72.16","69.248.61.228"];
+              var ip = data.host;
+              var handleips=bannedips.join("|")
+              handleips=new RegExp(handleips, "i")
+
+              if (ip.search(handleips)!=-1){
+                alert("Hi Razwell...")
+                window.location.replace("http://anthonycolpo.com/?p=1088")
+               }
+
+       }
+   );
+});
+</script>
 
 <script type="text/javascript">
 var googletag = googletag || {};
@@ -40,14 +60,13 @@ node.parentNode.insertBefore(gads, node);
 
 <script type="text/javascript">
 googletag.cmd.push(function() {
-googletag.defineSlot('/1026589/PaleoHacks200x200', [200, 200], 'div-gpt-ad-1335252634619-0').addService(googletag.pubads());
-googletag.defineSlot('/1026589/PaleohacksBanner', [728, 90], 'div-gpt-ad-1335252634619-1').addService(googletag.pubads());
-googletag.defineSlot('/1026589/PaleohacksVertical', [160, 600], 'div-gpt-ad-1335252634619-2').addService(googletag.pubads());
+googletag.defineSlot('/1026589/PaleoHacks160x600-2', [160, 600], 'div-gpt-ad-1339049926840-0').addService(googletag.pubads());
+googletag.defineSlot('/1026589/PaleohacksBanner', [728, 90], 'div-gpt-ad-1339049926840-1').addService(googletag.pubads());
+googletag.defineSlot('/1026589/PaleohacksVertical', [160, 600], 'div-gpt-ad-1339049926840-2').addService(googletag.pubads());
 googletag.pubads().enableSingleRequest();
 googletag.enableServices();
 });
 </script>
-
 
 
 
@@ -151,9 +170,9 @@ if(document.location.protocol=='http:'){
 
 <center>
 <!-- PaleohacksBanner -->
-<div id="div-gpt-ad-1335252634619-1" style="width:728px; height:90px;">
+<div id="div-gpt-ad-1339049926840-1" style="width:728px; height:90px;">
 <script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1335252634619-1'); });
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1339049926840-1'); });
 </script>
 </div>
 </center>
