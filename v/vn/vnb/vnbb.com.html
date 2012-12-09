@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vnbb.com privacy policy that was archived on 2012-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503180343id_/http%3A//vnbb.com/PrivacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vnbb.com privacy policy that was archived on 2012-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121209090613id_/http%3A//vnbb.com/PrivacyPolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>
@@ -77,8 +77,20 @@
         java='Yes' ;
     }
     setCookie('java',java,0,'/','.vnbb.com');
-    var pv = history.length;
-    setCookie('pv',pv,0,'/','.vnbb.com');
+//     var pv = history.length;
+//     setCookie('pv',pv,0,'/','.vnbb.com');
+    var cpv = 'pv.' + 'vnbb.com';
+    var pv=getCookie(cpv);
+ 	if (pv!=null && pv!="")
+	{
+		//alert("Page view Count " + pv);
+		var pvi = parseInt(pv) + 1;
+		setCookie(cpv,pvi,0,'/','.vnbb.com');
+	}
+ 	else
+	{   
+ 		setCookie(cpv, 1, 0,'/','.vnbb.com');
+ 	}
     var theScreen = screen.width+' '+screen.height;
     setCookie('screen',theScreen,0,'/','.vnbb.com');
     setCookie('date',(new Date()).getTime(),0,'/','.vnbb.com');
@@ -186,7 +198,7 @@
         
                 <div class="forSaleBox">
                     
-                            <div class="forSale"><a href="http://www.buydomains.com/find-premium-domains/domain-details.jsp?domain=vnbb.com&amp;utm_source=TDFS&amp;utm_medium=sn_affiliate_click&amp;utm_campaign=TDFS_Affiliate_username&amp;traffic_id=SN_AFFILIATE" target="_blank">The domain vnbb.com is for sale. To purchase, call BuyDomains.com at +1 339-222-5147 or 866-836-6791. Click here for more details.</a></div>
+                            <div class="forSale"><a href="http://www.buydomains.com/find-premium-domains/domain-details.jsp?domain=vnbb.com&amp;utm_source=TDFS&amp;utm_medium=sn_affiliate_click&amp;utm_campaign=TDFS_Affiliate_ncchinh&amp;traffic_id=SN_AFFILIATE" target="_blank">The domain vnbb.com is for sale. To purchase, call BuyDomains.com at +1 339-222-5147 or 866-836-6791. Click here for more details.</a></div>
                         
                 </div>
 			
@@ -309,7 +321,7 @@
               
     <br><br>
 
-	<span class="copyright">Copyright © Thu May 03 14:03:43 EDT 2012 vnbb.com. All Rights Reserved.</span>
+	<span class="copyright">Copyright © Sun Dec 09 04:06:12 EST 2012 vnbb.com. All Rights Reserved.</span>
     <br>
           
     
@@ -341,6 +353,24 @@
 
 
 <!-- mon -->
+
+
+<script type="text/javascript">
+    if(top != self)
+	{
+	var url = '/source';
+	
+	$.ajax({
+		type: 'GET',
+	    url: url,
+	    data: ({dref : document.referrer, s : 'iframe'}),
+	    success: function(data) {
+	      
+	    }
+	});
+	document.body.innerHTML = "<body><h1><span style='color:red'>403 Error - Forbidden!</span></h1></body>";
+	}
+</script>
 
 
 </div>
