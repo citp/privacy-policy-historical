@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chrome-wallpapers.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616010902id_/http%3A//chrome-wallpapers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrome-wallpapers.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209012247id_/http%3A//chrome-wallpapers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HD Wallpapers
 
