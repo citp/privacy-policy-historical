@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viporn.net privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606054212id_/http%3A//www.viporn.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viporn.net privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209051806id_/http%3A//www.viporn.net/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
