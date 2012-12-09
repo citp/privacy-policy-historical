@@ -1,0 +1,1747 @@
+<!--The following is the downloaded HTML source of the bolee.com privacy policy that was archived on 2012-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121209130506id_/http%3A//www.bolee.com/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	                    	    	    	    	    <title>Online Classified | Free Local Classified | Bolee.com</title>
+<link rel="shortcut icon" href="http://www.bolee.com/favicon.ico" type="image/x-icon">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="Online Classified | Free Local Classified | Bolee.com">
+<meta name="description" content="Online Classified | Free Local Classified | Bolee.com">
+<meta property="og:title" content="Online Classified | Free Local Classified | Bolee.com"> 
+<meta property="og:description" content="Online Classified | Free Local Classified | Bolee.com"> 
+<meta property="og:image" content="">
+
+<link href="http://www.bolee.com/css/front/top.css" rel="stylesheet" type="text/css">
+<link href="http://www.bolee.com/css/front/bolee.css" rel="stylesheet" type="text/css">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=130787193717240"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.bolee.com/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.bolee.com/js/skinable_tabs.min.js"></script>
+<!--<script src="< ?php echo JS ?>jquery.js" type="text/javascript"></script>-->
+<script type="text/javascript" src="http://www.bolee.com/js/jquery.validate.js"></script>
+<script type="text/javascript" src="http://www.bolee.com/js/additional-methods.js"></script>
+<script type="text/javascript" src="http://www.bolee.com/js/jquery.form.js"></script>
+<script type="text/javascript" src="http://www.bolee.com/js/jquery.notifyBar.js"></script>
+<script type="text/javascript" src="http://www.bolee.com/js/jquery.blockUI.js"></script>
+<script type="text/javascript" src="http://www.bolee.com/js/jquery-autocomplete/jquery.autocomplete.js"></script>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<link rel="stylesheet" href="http://www.bolee.com/js/jquery-autocomplete/jquery.autocomplete.css">
+<link href="http://www.bolee.com/css/front/default.css" rel="stylesheet" type="text/css">
+
+
+
+<script type="text/javascript">
+
+function removeAntiSession(location)
+{
+
+}
+
+
+
+
+$(document).ready(function() {
+    
+    $('#show_section_list').bind('mouseenter', function () {        
+        $("#categories_list").hide();
+        $("#subcategory_list").hide();
+        $("#section_list").stop(true, true).show();
+    });
+    $('#section_list').bind('mouseleave', function () {
+        $("#section_list").hide();
+    });     
+    
+    $('#show_categories_list').bind('mouseenter', function () {
+        $("#section_list").hide();
+        $("#subcategory_list").hide();
+        $("#categories_list").stop(true, true).show();        
+    });
+    $('#categories_list').bind('mouseleave', function () {
+        $("#categories_list").hide();
+    });
+    
+    
+    $('#show_subcategory_list').bind('mouseenter', function () {
+        $("#section_list").hide();
+        $("#categories_list").hide();
+        $("#subcategory_list").stop(true, true).show();
+    });
+    $('#subcategory_list').bind('mouseleave', function () {
+        $("#subcategory_list").hide();
+    });
+    
+    $(document).click(function(event) {
+       $("#section_list").hide();
+       $("#categories_list").hide();
+       $("#subcategory_list").hide();
+    });
+
+});
+
+function show_hide(id)
+{
+    if(id == 1)
+    {
+        $("#account-links").attr('onclick','show_hide("2");');
+        $("#account-action-wrapper-dropdown").show();
+    }    
+    if(id == 2)
+    {
+        $("#account-links").attr('onclick','show_hide("1");');
+        $("#account-action-wrapper-dropdown").hide();
+    }
+    
+}
+function doBlock(message_display)
+{
+
+
+       $.blockUI({ 
+                message: $('#'+message_display+'') , 
+                css: { 
+                border: 'solid 3px #CCC', 
+                padding: '7px',
+                top:'100px',
+                '-moz-box-shadow': '0px -1px 10px 7px #444',
+                '-webkit-box-shadow': '0px -1px 10px 7px #444',
+                'box-shadow':'0px -1px 10px 7px #444', 
+                color: '#333',
+                cursor:'',
+                height:'322px',
+				width: '347px'
+                } 
+            });     
+
+}
+
+function doUnBlock()
+{
+	$.unblockUI(); 
+}
+
+function notify(actmsg)
+{
+	  $.notifyBar({
+		html: actmsg,
+		delay: 1000,
+		animationSpeed: "normal",
+		cls: "success"
+	  });  
+}
+
+function login_popup(text)
+{
+	
+        if(text == 'search')
+        {
+            $('#popup_login_text').html('Sign In to save your search');
+            $('#register_login_text').html('Register to save your search');
+        } 
+        else if(text == 'favourites')
+        {
+            $('#popup_login_text').html('Sign in to save Favorites');
+            $('#register_login_text').html('Register to save Favorites');
+        }
+        else if(text == 'spam')
+        {
+            $('#popup_login_text').html('Sign in to report spam');
+            $('#register_login_text').html('Register to report spam');
+        }
+	
+	$.blockUI({ 
+		message: $('#login_popup') , 
+		css: { 
+		border: 'solid 3px #CCC', 
+		left: '37%',
+		padding: '7px',                
+                '-moz-box-shadow': '0px -1px 10px 7px #444',
+                '-webkit-box-shadow': '0px -1px 10px 7px #444',
+                'box-shadow':'0px -1px 10px 7px #444',
+		top:'25px',		
+		color: '#333',
+		cursor:'',
+		height:'auto',
+		width: '345px',
+		cursor: 'pointer',
+                background: '#FFF'
+		} 
+	}); 
+}
+
+function register_popup()
+{
+	$.blockUI({ 
+		message: $('#fb_reg_pop_up') , 
+		css: { 
+		border: 'solid 3px #CCC', 
+		left: '33%',
+		padding: '7px',
+		top:'25px',
+		'-moz-box-shadow': '0px -1px 10px 7px #444',
+                '-webkit-box-shadow': '0px -1px 10px 7px #444',
+                'box-shadow':'0px -1px 10px 7px #444', 
+		color: '#333',
+		cursor:'',
+		height:'auto',
+		width: '470px',
+		cursor: 'pointer'
+		} 
+	}); 
+}
+
+function email_friends(id)
+{   
+    $.blockUI({ 
+        message: $('#'+id+'') , 
+        css: { 
+        border: 'solid 3px #CCC', 
+        left: '33%',
+        padding: '7px',
+        '-moz-box-shadow': '0px -1px 10px 7px #444',
+        '-webkit-box-shadow': '0px -1px 10px 7px #444',
+        'box-shadow':'0px -1px 10px 7px #444',
+        top:'100px',        
+        color: '#333',
+        cursor:'',
+        height:'380px',
+        width: '485px'
+        } 
+    });  
+}
+
+function reply_toad(id,ad_id,opt)
+{   
+    var logged_in = '';
+    
+    $('#name-'+ad_id).removeClass('error');
+    $('#email-'+ad_id).removeClass('error');
+    $('#mobile-'+ad_id).removeClass('error');
+    $('#message-'+ad_id).removeClass('error');
+    $('#main_error_div_detail').hide(); 
+    
+    if(opt != '')
+    {   
+        // Empty the fields
+        $('#message-'+ad_id).val('');
+        $('#checkbox-'+ad_id).val('');
+        $('#checkbox-'+ad_id).attr("checked", false);
+        
+        if(logged_in == false)
+        {
+                $('#name-'+ad_id).val('');
+                $('#email-'+ad_id).val('');
+                $('#mobile-'+ad_id).val('');
+        }
+		
+        $('#div_msg_'+ad_id).css('display','none');
+        $('#ad_default').css('display','none');
+        $('#image_'+ad_id).css('display','none');
+        $('#quote_'+ad_id).css('display','none');
+        $('#quote_same'+ad_id).css('display','block');
+        $('#chk_same_'+ad_id).css('display','none');
+        $('#heading_'+ad_id).css('display','none');
+        $('#heading_same_'+ad_id).css('display','block');
+        $('#same_send').css('display','block');
+        $('#case').val('2');
+    }
+    else
+    {
+        // Empty the fields
+        $('#message-'+ad_id).val('');
+        $('#checkbox-'+ad_id).val('1');
+        $('#checkbox-'+ad_id).attr("checked", true);
+        
+		if(logged_in == false)
+		{
+			$('#name-'+ad_id).val('');
+			$('#email-'+ad_id).val('');
+			$('#mobile-'+ad_id).val('');
+		}
+		
+        $('#div_msg_'+ad_id).css('display','block');
+        $('#same_send').css('display','none');   
+        $('#image_'+ad_id).css('display','block');
+        $('#quote_same'+ad_id).css('display','none');
+        $('#quote_'+ad_id).css('display','block');
+        $('#chk_same_'+ad_id).css('display','block');
+        $('#heading_same_'+ad_id).css('display','none'); 
+        $('#heading_'+ad_id).css('display','block');
+        $('#ad_default').css('display','block');   
+        $('#case').val('1');
+    }
+    $.blockUI({ 
+        message: $('#'+id+'') , 
+        css: { 
+        border: 'solid 3px #CCC', 
+        left: '33%',
+        padding: '7px',
+        '-moz-box-shadow': '0px -1px 10px 7px #444',
+        '-webkit-box-shadow': '0px -1px 10px 7px #444',
+        'box-shadow':'0px -1px 10px 7px #444',
+        top:'100px',        
+        color: '#333',
+        cursor:'',
+        height:'auto',
+        width: '485px'
+        } 
+    });  
+}
+
+function register_follow(id)
+{    
+    $.blockUI({ 
+        message: $('#'+id+'') , 
+        css: { 
+        border: 'solid 3px #CCC', 
+        padding: '0px',
+        '-moz-box-shadow': '0px -1px 10px 7px #444',
+        '-webkit-box-shadow': '0px -1px 10px 7px #444',
+        'box-shadow':'0px -1px 10px 7px #444',
+        top:'100px',        
+        color: '#333',
+        cursor:'',
+        height:'217px',
+        width: '502px'
+        } 
+    });  
+}
+
+function tab_report_popup()
+{   
+    $.blockUI({ 
+            message: $('#content') , 
+            css: { 
+            border: 'solid 3px #CCC', 
+            left: '33%',
+            padding: '7px',
+            top:'25px',
+            '-moz-box-shadow': '0px -1px 10px 7px #444',
+            '-webkit-box-shadow': '0px -1px 10px 7px #444',
+            'box-shadow':'0px -1px 10px 7px #444', 
+            color: '#333',
+            cursor:'',
+            height:'auto',
+            width: '388px'                        
+            } 
+    }); 
+}
+
+
+function make_tab_report(id)
+{
+    var url = 'http://www.bolee.com/report_tab';
+    $.post(url, {ad_id: id},function(data) {	
+            tab_report_popup(data);
+    });	
+}
+
+function not_report(id)
+{
+    $.blockUI({ 
+            message: $('#'+id) ,  
+            css: { 
+            border: 'solid 3px #CCC', 
+            left: '33%',
+            padding: '7px',
+            top:'100px',
+            '-moz-box-shadow': '0px -1px 10px 7px #444',
+            '-webkit-box-shadow': '0px -1px 10px 7px #444',
+            'box-shadow':'0px -1px 10px 7px #444', 
+            color: '#333',
+            cursor:'',
+            height:'auto',
+            width: '388px'                        
+            } 
+    });	
+}
+
+function tab_report_popup(content)
+{
+    $.blockUI({ 
+            message: $(''+content+'') ,  
+            css: { 
+            border: 'solid 3px #CCC', 
+            left: '33%',
+            padding: '7px',
+            top:'100px',
+            '-moz-box-shadow': '0px -1px 10px 7px #444',
+            '-webkit-box-shadow': '0px -1px 10px 7px #444',
+            'box-shadow':'0px -1px 10px 7px #444', 
+            color: '#333',
+            cursor:'',
+            height:'auto',
+            width: '388px'                        
+            } 
+    }); 
+}
+</script>
+<style>
+   
+    #form_main .tab_container{
+       background: #fff; 
+    }
+    .tbs_selected2{
+        background: #fff;
+    }
+    
+</style>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35712912-1']);
+  _gaq.push(['_setDomainName', 'bolee.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=130787193717240";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div id="main_container">    
+    
+    <div id="top_header_container">
+<a href="http://www.bolee.com/home">
+<div class="bolee_logo"></div>
+</a>
+
+<div class="header_right_container">
+<a href="http://www.bolee.com/ad">
+<div class="post_button"></div>
+</a>
+<div id="top_right_container">
+<ul id="user-controls">
+    
+        <li class="fbsignin" style="margin-top: 9px;">
+            <a id="fb_head" style="cursor: pointer;">
+                <img src="http://www.bolee.com/images/front/images/icons/facebook-icon.gif">
+            </a>
+        </li>
+<!--        <li><a href="< ?php echo site_url('login')?>">Sign In</a></li>-->
+        <li><a id="fb_signin" style="cursor: pointer;">Sign In</a></li>
+        <li><a href="http://www.bolee.com/register">Register</a></li>
+        <li><a href="http://www.bolee.com/login">My Account</a></li>
+    
+        
+
+</ul>
+</div>
+
+<div class="tpmenu"><ul id="tpuser">
+		
+		<li><a href="http://www.bolee.com/home">Home</a></li>
+		<li><a onclick="removeAntiSession('home')" href="http://www.bolee.com/ads/job-vacancies">Jobs</a></li>
+        <li><a onclick="removeAntiSession('home')" href="http://www.bolee.com/ads/real-estate">Property</a></li>
+   		<li><a onclick="removeAntiSession('home')" href="http://www.bolee.com/ads/cars-for-sale">Cars</a></li>
+		<li><a onclick="removeAntiSession('home')" href="http://www.bolee.com/ads/mobile-phones-pdas">Mobile Phones</a></li>
+        <li><a onclick="removeAntiSession('home')" href="http://www.bolee.com/ads/education">Education</a></li>
+
+
+</ul></div>
+<div id="top_search_container">
+
+<div class="top_search_area">
+<div class="select_city">
+<ul id="menu">
+    <li><a href="#" class="ch_cty">Select City</a>
+        <div class="dropdown_4columns"><div class="col_1"><ul><li><a href="http://www.bolee.com/" style=" color:#e4c328;">All Pakistan</a></li><li><a href="http://lahore.bolee.com/">Lahore</a></li><li><a href="http://karachi.bolee.com/">Karachi</a></li><li><a href="http://islamabad.bolee.com/">Islamabad</a></li><li><a href="http://rawalpindi.bolee.com/">Rawalpindi</a></li><li><a href="http://faisalabad.bolee.com/">Faisalabad</a></li><li><a href="http://peshawar.bolee.com/">Peshawar</a></li><li><a href="http://multan.bolee.com/">Multan</a></li><li><a href="http://hyderabad.bolee.com/">Hyderabad</a></li><li><a href="http://sialkot.bolee.com/">Sialkot</a></li><li><a href="http://gujranwala.bolee.com/">Gujranwala</a></li> <li style="margin-left:50px;"></li></ul></div><div class="col_2"><ul><li><a href="http://abbottabad.bolee.com/">Abbottabad</a></li><li><a href="http://attock.bolee.com/">Attock</a></li><li><a href="http://bagh.bolee.com/">Bagh</a></li><li><a href="http://bahawalnagar.bolee.com/">Bahawalnagar</a></li><li><a href="http://bahawalpur.bolee.com/">Bahawalpur</a></li><li><a href="http://dera_ismail_khan.bolee.com/">Dera Ismail Khan</a></li><li><a href="http://burewala.bolee.com/">Burewala</a></li><li><a href="http://chiniot.bolee.com/">Chiniot</a></li><li><a href="http://dera_ghazi_khan.bolee.com/">Dera Ghazi Khan</a></li><li><a href="http://gilgit.bolee.com/">Gilgit</a></li><li><a href="http://gujrat.bolee.com/">Gujrat</a></li> <li style="margin-left:50px;"></li></ul></div><div class="col_2"><ul><li><a href="http://hafizabad.bolee.com/">Hafizabad</a></li><li><a href="http://haripur.bolee.com/">Haripur</a></li><li><a href="http://jhang.bolee.com/">Jhang</a></li><li><a href="http://jhelum.bolee.com/">Jhelum</a></li><li><a href="http://kasur.bolee.com/">Kasur</a></li><li><a href="http://khairpur.bolee.com/">Khairpur</a></li><li><a href="http://khanewal.bolee.com/">Khanewal</a></li><li><a href="http://khushab.bolee.com/">Khushab</a></li><li><a href="http://kohat.bolee.com/">Kohat</a></li><li><a href="http://larkana.bolee.com/">Larkana</a></li><li><a href="http://manshera.bolee.com/">Manshera</a></li> <li style="margin-left:50px;"></li></ul></div><div class="col_2"><ul><li><a href="http://mardan.bolee.com/">Mardan</a></li><li><a href="http://mianwali.bolee.com/">Mianwali</a></li><li><a href="http://mirpur.bolee.com/">Mirpur</a></li><li><a href="http://mirpur_khas.bolee.com/">Mirpur Khas</a></li><li><a href="http://muzaffarabad.bolee.com/">Muzaffarabad</a></li><li><a href="http://muzaffargarh.bolee.com/">Muzaffargarh</a></li><li><a href="http://nawabshah.bolee.com/">Nawabshah</a></li><li><a href="http://nowshera.bolee.com/">Nowshera</a></li><li><a href="http://okara.bolee.com/">Okara</a></li><li><a href="http://quetta.bolee.com/">Quetta</a></li><li><a href="http://rahim_yar_khan.bolee.com/">Rahim Yar Khan</a></li> <li style="margin-left:50px;"></li></ul></div><div class="col_2" style="border-right:none;"><ul><li><a href="http://sadiqabad.bolee.com/">Sadiqabad</a></li><li><a href="http://sahiwal.bolee.com/">Sahiwal</a></li><li><a href="http://sargodha.bolee.com/">Sargodha</a></li><li><a href="http://sheikhupura.bolee.com/">Sheikhupura</a></li><li><a href="http://sukkur.bolee.com/">Sukkur</a></li><li><a href="http://swabi.bolee.com/">Swabi</a></li><li><a href="http://swat.bolee.com/">Swat</a></li><li><a href="http://toba_tek_singh.bolee.com/">Toba Tek Singh</a></li><li><a href="http://wah.bolee.com/">Wah</a></li></ul></div><div style="float:right; margin-right:15px; padding-top:10px;"><input class="orange small awesome " value="More Cities" type="button" onclick="cityUrl()"></div></div>    </li>
+  </ul>
+</div>
+
+
+
+
+
+
+<script type="text/javascript">
+function set_cat(val)
+{
+	$('#cat_name').val(val);
+}
+function cityUrl()
+{
+
+	window.location = 'http://www.bolee.com/cities';
+}
+
+function search_by_text(title,id,url,category_name)
+{
+	if(url == '')
+	{
+		  $('#header_feild').val(title);
+		  $('#cat_name').find('option').remove().end().append('<option value="all" selected="selected">All Categories</option>');
+		  doSearchHeader();
+	}
+	else
+	{
+		$('#header_feild').val(title);
+		$('#cat_name').find('option').remove().end().append('<option value="'+id+'!'+url+'" selected="selected">'+category_name+'</option>');
+		doSearchHeader();
+	}
+}
+
+function search_by_text_detail(title,catid)
+{
+    $.post("http://www.bolee.com/searchBefore", { title: title, category:cat_id },function(data) { 		            
+        $('#header_feild').val(title);
+        $('#cat_name').html(data);                                                
+        doSearchHeader();
+    });        
+}
+
+function doSearchHeader()
+{
+	    removeAntiSession('home');
+		title = $('#header_feild').val();
+		category = $('#cat_name').val();
+		//alert(category);
+		var cat = "";
+		if(category != 'all')
+		{
+			cat = category.split('!');			
+			category = cat[1];                
+		}
+		
+		if(category == 'all')
+		{
+						url = "http://www.bolee.com/ads/all";
+						document.getElementById('search_form').action = url;
+			document.getElementById('search_form').submit();
+		}
+		else
+		{
+			value = category;
+						url = 'http://www.bolee.com/ads/'+value+'';
+						
+			document.getElementById('search_form').action = url;
+			document.getElementById('search_form').submit();		                
+		}
+}
+
+
+
+
+</script>
+
+
+
+
+
+
+
+
+
+<form method="post" id="search_form" name="search_form" action="http://www.bolee.com/ads/all">
+<div class="s_right">
+  <input name="keyword" type="text" class="search_product" id="keyword" value="" placeholder="I am Looking for...">
+  
+  <div style="float:right;"><input type="submit" value="Search" class="button-search big3 awesome"></div>
+</div>    
+</form>
+</div>
+
+</div>
+</div>
+</div>
+
+<script language="javascript">
+
+  $('#header_feild').keypress(function(e) {
+        if(e.which == 13) {
+            jQuery(this).blur();
+        	doSearchHeader();
+		}
+    });
+
+
+
+
+ $(document).ready(function(){
+    $("#keyword").autocomplete('http://www.bolee.com/search_title',{scroll: true, cacheLength:0, selectFirst:false});
+   });
+
+</script>
+
+
+<!-- Div start for login pop up-->
+
+<div id="login_popup" style="display:none">
+    <div id="body_container" style="width: 0px">
+		<script type="text/javascript">
+	jQuery(function($){            
+		$("#login-popup-form").submit(function(e){
+			if ($(this).valid()){					
+				$.post("http://www.bolee.com/login/popup", { 
+					email: $("#p_email").val(), 
+					password: $("#p_password").val() 
+				},
+				function(data) { 
+						if(data > 0 || data == '')
+						{
+							$('#err_msg').css("display","none");
+							$('#err_msg').html('');
+							window.location = "http://www.bolee.com/privacy_policy";																		
+						}
+						else
+						{
+							$('#err_msg').css("display","block");
+							$('#err_msg').html('Username / Password incorrect');
+						}
+				});
+			}
+			return false;
+		});           
+			
+                // password checking or setting rules
+/*                $.validator.addMethod("passwordvalidate", function(value, element) {  
+                            return this.optional(element) || /^[a-zA-Z0-9+_*&^%$#@!~]{3,20}$/i.test(value);  
+                }, "Invalid character.");*/
+     
+		$("#login-popup-form").validate({ 
+			rules: {
+                                    p_email: { required: true },
+                                    p_password: { required: true }
+                                },
+                                messages: {
+                                    p_password: { required: "Password required"},
+                                    p_email: { required: "Username required"}
+                                },
+                                errorElement: "span",
+                                errorPlacement: function(error, element) {
+                                    error.appendTo(element.parent());
+                                }  
+		});
+                // name and username setting rules
+		$.validator.addMethod("specialuser", function(value, element) {  
+				return this.optional(element) || /^[a-zA-Z0-9_]{3,20}$/i.test(value);  
+		}, "Invalid character.");
+		
+		$.validator.addMethod("specialname", function(value, element) {  
+				return this.optional(element) || /^[a-zA-Z0-9 ]{2,30}$/i.test(value);  
+		}, "Invalid character.");
+			
+		$("#register-popup-form").validate({
+			rules: {                
+					pr_un: {
+							required: true,
+							minlength: 3,
+							maxlength: 20,
+							specialuser: true,
+							remote: {
+									url: "http://www.bolee.com/checkDuplicate", 
+									type: "post" , 
+									complete: function(data){                                            
+									}
+							}
+						},
+						pr_pw: {
+								required: true,
+								minlength: 6,
+								maxlength: 15
+						},				
+						pr_email: {
+								required: true,
+								email: true,
+								remote: {
+										url: "http://www.bolee.com/checkDuplicate", 
+										type: "post" , 
+										complete: function(data){
+										}
+				}
+			},	
+						pr_fn: {
+								required: true,
+								minlength: 2,
+								maxlength: 30,
+								specialname: true
+						},
+						pr_city: { 
+							required: true
+						}
+					},
+					messages: {
+							pr_un: { remote: "Username already exists"},
+							pr_email: { remote: "Email address already exists"}
+					},
+					errorElement: "span",
+					errorPlacement: function(error, element) {
+						error.appendTo(element.parent());
+					}
+				}
+			);    
+		});
+        
+        
+function change_poup_tab(id)
+{
+	if(id =='popup_login_tab')
+	{
+            document.getElementById(id).style.display = 'block';
+            document.getElementById('popup_login_chunk').style.display = 'block';
+            document.getElementById('reg_pop_up').style.display = 'none';
+            document.getElementById('popup_register_tab').style.display = 'block';
+            document.getElementById('popup_login_text').style.display = 'block';
+            document.getElementById('register_login_text').style.display = 'none';	
+            $('#popup_login_tab').addClass("tbs_selected2");		
+            $('#popup_register_tab').removeClass("tbs_selected");
+            $('#popup_register_tab').addClass("popup_tbs_gradi2");
+	}
+	if(id == 'popup_register_tab')
+	{
+            document.getElementById(id).style.display = 'block';
+            document.getElementById('reg_pop_up').style.display = 'block';
+            document.getElementById('popup_login_chunk').style.display = 'none';		
+            document.getElementById('popup_login_tab').style.display = 'block';
+            document.getElementById('popup_login_text').style.display = 'none';
+            document.getElementById('register_login_text').style.display = 'block';		
+            $('#popup_register_tab').removeClass("popup_tbs_gradi2");
+            $('#popup_register_tab').addClass("tbs_selected");
+            $('#popup_login_tab').removeClass("tbs_selected2");		
+            $('#popup_login_tab').addClass("popup_tbs_gradi");
+		
+	}
+}
+</script>
+
+<div id="form_main">
+
+	
+    <h4 class="headline p_tit" id="popup_login_text" style="display: block; text-align:left;">Sign In to save your <span id="text_to_page">search</span></h4>
+    <h4 class="headline p_tit" id="register_login_text" style="display: none; text-align:left;">Register to save your search <span id="text_to_page">search</span></h4>                            
+    
+    <a href="javascript:;" onclick="doUnBlock();" style="float:right; margin-right:10px;"><img alt="cross" src="http://www.bolee.com/images/front//images/icons/error_close.gif" style="float: left;"><span>Close</span></a>
+    
+    <div class="pop_tabs">
+        <div class="tbs_selected2" id="popup_login_tab" onclick="change_poup_tab('popup_login_tab');"><a href="javascript:;" style="cursor: pointer;">Sign In</a></div>
+        <div class="popup_tbs_gradi2" id="popup_register_tab" onclick="change_poup_tab('popup_register_tab');"><a href="javascript:;" style="cursor: pointer;">Register</a></div>
+    </div>
+    
+    <div class="tab_container">
+        <div class="tab_content" style="display: block;">
+            
+            <div id="popup_login_chunk" style="display:block;">
+                <form action="http://www.bolee.com/login/popup" id="login-popup-form" style="clear:both" method="post">
+                    <table width="100%" border="0" cellspacing="1" cellpadding="1">
+                    <tbody><tr>
+                        <td height="41" style="text-align:left;">
+                            <h4>Sign in with Facebook</h4>aUse Facebook to sign in to Bolee.com
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="50">
+                            <div class="fb_ic">
+                                <a id="fb_login_popup" title="Bolee Register Using Facebook" class="facebook_signin" style="cursor: pointer;">
+                                    <span class="displace">Webvamp</span>
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="dilin"></td>
+                    </tr>
+                    <tr>
+                        <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td height="25" style="text-align:left;"><h4>Sign In with Bolee.com</h4></td>
+                    </tr>
+                    <tr>
+                        <td class="popup_error" id="err_msg" style="display:none; width:290px;"></td>
+                    </tr>
+                    <tr>
+                        <td style="text-align:left;">Email address / Username</td>
+                    </tr>
+                    <tr>
+                        <td height="30">
+                            <div class="bolee_tooltip_right validation_error" style="float:left">
+                                <input type="text" name="p_email" id="p_email" class="fb_fld2" tabindex="1">
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="text-align:left;">Password <a href="http://www.bolee.com/forgot">Forgot Password?</a></td>
+                    </tr>
+                    <tr>
+                        <td height="30">
+                            <div class="bolee_tooltip_right validation_error" style="float:left">
+                                <input type="password" name="p_password" id="p_password" class="fb_fld2" tabindex="2">
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="10"></td>
+                    </tr>
+                    <tr>
+                        <td style="float:left">  <input class="orange large awesome " value="Sign In Now" type="submit" id="sign_in_now" tabindex="3"></td>
+                    </tr>
+                    </tbody></table>
+                </form>
+            </div>
+        
+            <!-- REGISTER_POPUP HERE-->
+            <div id="reg_pop_up" style="display: none;">                                            
+                <form action="http://www.bolee.com/register_popup" id="register-popup-form" name="register-popup-form" style="clear:both" method="post">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                            <td height="25" style="text-align:left;"><h4>Register Using Facebook</h4></td>
+                        </tr>
+                        <tr>
+                            <td height="50">  
+                                <div class="fb_ic">
+                                    <a id="fb_register_popup" title="Bolee Register Using Facebook" class="regiser_fb" href="#">
+                                        <span class="displace">Webvamp</span>
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                        
+                        <tr><td class="dilin"></td></tr>
+                        <tr><td height="10"></td></tr>
+                        <tr><td height="25" style="text-align:left;"><h4>Register normally</h4></td></tr>
+    
+                        
+                        <tr>
+                            <td style="text-align:left;">Username:</td>
+                        </tr>
+                        <tr>
+                            <td height="30" style="text-align:left;">
+                                <div class="bolee_tooltip_right validation_error">
+                                    <input type="text" id="pr_un" name="pr_un" value="" class="fb_fld2" tabindex="1">
+                                </div>        
+                            </td>
+                        </tr>
+                        <tr><td style="text-align:left;">Email Adderss:</td></tr>
+                        <tr>
+                            <td height="30" style="text-align:left;">
+                                <div class="bolee_tooltip_right validation_error">
+                                    <input type="text" id="pr_email" name="pr_email" value="" class="fb_fld2" tabindex="2">
+                                </div>        
+                            </td>
+                        </tr>
+                        <tr><td style="text-align:left;">Password:</td></tr>
+                        <tr>
+                            <td height="30" style="text-align:left;">
+                                <div class="bolee_tooltip_right validation_error">
+                                    <input type="password" id="pr_pw" name="pr_pw" value="" class="fb_fld2" tabindex="3">
+                                </div>        
+                            </td>
+                        </tr>
+                        <tr><td style="text-align:left;">Full Name:</td></tr>
+                        <tr>
+                            <td height="30" style="text-align:left;">                    
+                                <div class="bolee_tooltip_right validation_error">
+                                    <input type="text" id="pr_fn" name="pr_fn" value="" class="fb_fld2" tabindex="4">	
+                                </div>        
+                            </td>
+                        </tr>
+                        <tr><td style="text-align:left;">City:</td></tr>
+                        <tr>
+                            <td height="30" style="text-align:left;">
+                                <div class="bolee_tooltip_right validation_error">
+                                    <select id="pr_city" class="fb_fld2" name="pr_city" tabindex="5">
+                                        <option value="">- Select One -</option>
+                                        <option value="1">Lahore</option><option value="90">Karachi</option><option value="91">Islamabad</option><option value="92">Rawalpindi</option><option value="93">Faisalabad</option><option value="97">Peshawar</option><option value="95">Multan</option><option value="96">Hyderabad</option><option value="99">Sialkot</option><option value="94">Gujranwala</option><option value="224">Abbottabad</option><option value="103">Attock</option><option value="200">Bagh</option><option value="104">Bahawalnagar</option><option value="105">Bahawalpur</option><option value="232">Dera Ismail Khan</option><option value="109">Burewala</option><option value="111">Chiniot</option><option value="116">Dera Ghazi Khan</option><option value="254">Gilgit</option><option value="123">Gujrat</option><option value="124">Hafizabad</option><option value="234">Haripur</option><option value="130">Jhang</option><option value="131">Jhelum</option><option value="136">Kasur</option><option value="188">Khairpur</option><option value="137">Khanewal</option><option value="141">Khushab</option><option value="236">Kohat</option><option value="189">Larkana</option><option value="241">Manshera</option><option value="242">Mardan</option><option value="149">Mianwali</option><option value="202">Mirpur</option><option value="190">Mirpur Khas</option><option value="203">Muzaffarabad</option><option value="153">Muzaffargarh</option><option value="192">Nawabshah</option><option value="244">Nowshera</option><option value="156">Okara</option><option value="98">Quetta</option><option value="163">Rahim Yar Khan</option><option value="167">Sadiqabad</option><option value="169">Sahiwal</option><option value="100">Sargodha</option><option value="173">Sheikhupura</option><option value="196">Sukkur</option><option value="246">Swabi</option><option value="247">Swat</option><option value="178">Toba Tek Singh</option><option value="180">Wah</option>                                    </select>
+                                </div>       
+                            </td>                    
+                        </tr>
+          
+                        <tr>
+                            <td height="10" style="text-align:left;">
+                                By clicking on Register, you agree to the 
+                                <a href="http://www.bolee.com/terms_of_use">Bolee Terms and Conditions</a> and the <a href="http://www.bolee.com/privacy_policy">Bolee Privacy Policy</a>
+                            </td>
+                        </tr>
+                        <tr><td height="5"></td></tr>
+                        <tr>
+                            <td style="text-align:left;">  
+                                <input class="orange large awesome " value="Register Now" type="submit" tabindex="6">
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </form>
+            </div>
+        </div>
+    </div>
+</div><script type="text/javascript">
+	jQuery(function($){ 
+            document.getElementById('reg_fb_popup').style.display = 'block';
+            document.getElementById('popup_login_fb').style.display = 'none';
+
+                $("#login-fb-form").submit(function(e){
+			if ($(this).valid()){					
+				$.post("http://www.bolee.com/login/popup", { 
+					email: $("#fp_email").val(), 
+					password: $("#fp_password").val() 
+				},
+				function(data) { 
+						if(data > 0 || data == '')
+						{
+							$('#fb_err_msg').css("display","none");
+							$('#fb_err_msg').html('');
+							window.location = "http://www.bolee.com/privacy_policy";																		
+						}
+						else
+						{
+							$('#fb_err_msg').css("display","block");
+							$('#fb_err_msg').html('Username / Password incorrect');
+						}
+				});
+			}
+			return false;
+		});   
+                // password checking or setting rules
+/*                $.validator.addMethod("passwordvalidate", function(value, element) {  
+                    return this.optional(element) || /^[a-zA-Z0-9+_*&^%$#@!~]{3,20}$/i.test(value);  
+                }, "Invalid character.");*/
+     
+                $("#login-fb-form").validate({ 
+			rules: {
+                                fp_email: { required: true },
+                                fp_password: { required: true, passwordvalidate: true }
+                                },
+                                messages: {
+                                    fp_password: { required: "Password required"},
+                                    fp_email: { required: "Username required"}
+                                },
+                                errorElement: "span",
+                                errorPlacement: function(error, element) {
+                                    error.appendTo(element.parent());
+				}  
+		});
+                
+                
+		$("#fb-register-popup-form").submit(function(e){
+			if ($(this).valid()){								
+                            $.post("http://www.bolee.com/fb_register", { 
+                                    pass_word: $("#pass_word").val(), 
+                                    emailaddress: $("#emailaddress").val(),
+                                    firstname: $("#firstname").val(),
+                                    lastname: $("#lastname").val(),
+                                    reg_city: $("#reg_city").val(),
+                                    fb_u_id: $("#fb_u_id").val(),
+                                    checkbox: $("#checkbox").is(':checked'),
+                                    checkbox2: $("#checkbox2").is(':checked')
+                            },
+                            function(data) { 				
+                                if(data != '')
+                                {
+                                        var all_data = data.split('-');
+                                        $('#fb_follow_name_top').html(all_data[0]);
+                                        $('#fb_follow_name').html(all_data[0]);
+                                        $('#fb_follow_email').html(all_data[1]);
+                                        register_follow('register_follow');
+                                }
+                            });
+			}
+			return false;
+		});
+			
+		$("#fb-register-popup-form").validate({
+		rules: {
+                                        pass_word: {
+							required: true,
+							minlength: 6,
+							maxlength: 15,
+                                                        passwordvalidate: true
+					},				
+					emailaddress: {
+							required: true,
+							email: true
+							
+		},	
+					firstname: {
+							required: true,
+							minlength: 2,
+							maxlength: 30,
+							specialname: true
+					},
+					lastname: {
+							required: true,
+							minlength: 2,
+							maxlength: 30,
+							specialname: true
+					},
+					reg_city: {
+						required: true
+					}
+				},
+				messages: {
+						firstname: { required: "Name required"},
+						lastname: { required: "Name required"},
+						pass_word: { required: "Password required"},
+						emailaddress: { required: "Email required"}
+				},
+				errorElement: "span",
+				errorPlacement: function(error, element) {
+					error.appendTo(element.parent());
+				}
+			});
+	});
+
+function change_fb_tab(id)
+{
+	if(id =='by_fb_login_tab')
+	{
+		document.getElementById(id).style.display = 'block';		
+                document.getElementById('by_fb_register_tab').style.display = 'block';
+                
+                document.getElementById('popup_login_fb').style.display = 'block';		                                
+                document.getElementById('tab_signin').style.display = 'block';                
+                
+                document.getElementById('reg_fb_popup').style.display = 'none';
+		document.getElementById('tab_register').style.display = 'none';	
+		
+                $('#by_fb_login_tab').addClass("tbs_selected2");		
+		$('#by_fb_register_tab').removeClass("tbs_selected");
+		$('#by_fb_register_tab').addClass("popup_tbs_gradi2");
+	}
+	if(id == 'by_fb_register_tab')
+	{
+		document.getElementById(id).style.display = 'block';
+		document.getElementById('reg_fb_popup').style.display = 'block';		
+		document.getElementById('by_fb_login_tab').style.display = 'block';
+                document.getElementById('tab_register').style.display = 'block';		
+                
+		document.getElementById('tab_signin').style.display = 'none';
+                document.getElementById('popup_login_fb').style.display = 'none';				
+		
+                $('#by_fb_register_tab').removeClass("popup_tbs_gradi2");
+		$('#by_fb_register_tab').addClass("tbs_selected");
+		$('#by_fb_login_tab').removeClass("tbs_selected2");		
+		$('#by_fb_login_tab').addClass("popup_tbs_gradi");
+		
+	}
+}
+</script>
+
+<div id="fb_reg_pop_up" style="display:none;">
+    <div id="form_main" style="width:470px;">
+    
+          <h4 class="headline fp_tit" id="tab_signin" style="width:430px; text-align:left; display: none;">Sign in to Bolee with your Facebook Account</h4>
+          <h4 class="headline fp_tit" id="tab_register" style="width:430px; text-align:left; display: block;">Register with your Facebook Account</h4>      
+          
+          <a href="javascript:;" onclick="doUnBlock();" style="float:right; margin-right:10px;"><img alt="cross" src="http://www.bolee.com/images/front//images/icons/error_close.gif"><span style="position:relative; top:-3px;">Close</span></a>
+        
+          
+          <div class="pop_tabs">
+            <div class="popup_tbs_gradi" id="by_fb_login_tab" onclick="change_fb_tab('by_fb_login_tab');"><a href="javascript:;" style="cursor: pointer;">Sign In</a></div>
+            <div class="tbs_selected" id="by_fb_register_tab" onclick="change_fb_tab('by_fb_register_tab');"><a href="javascript:;" style="cursor: pointer;">Register</a></div>
+        </div>
+          
+        <div class="tab_container" style="width:469px;">
+              
+              <div class="tab_content" style="display: block;">
+                  
+                  <div id="popup_login_fb" style="display:none;">
+                      <form id="login-fb-form" name="login-fb-form" style="clear:both" method="post">
+                        <table width="100%" border="0" cellspacing="1" cellpadding="1">
+                            <tbody><tr>
+                                <td class="popup_error" id="fb_err_msg" style="display:none; width:290px;"></td>
+                            </tr>                    
+                            <tr>
+                                <td style="text-align:left;">Email address / Username</td>
+                            </tr>
+                            <tr>
+                                <td height="30">
+                                    <div class="bolee_tooltip_right validation_error" style="float:left">
+                                        <input type="text" name="fp_email" id="fp_email" class="fb_fld2" tabindex="1">
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:left;">Password <a href="http://www.bolee.com/forgot">Forgot Password?</a></td>
+                            </tr>
+                            <tr>
+                                <td height="30">
+                                    <div class="bolee_tooltip_right validation_error" style="float:left">
+                                        <input type="password" name="fp_password" id="fp_password" class="fb_fld2" tabindex="2">
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td height="10"></td>
+                            </tr>
+                            <tr>
+                                <td style="float:left">  <input class="orange large awesome " value="Sign In Now" type="submit" id="sign_in_now" tabindex="3"></td>
+                            </tr>
+                        </tbody></table>
+                    </form>
+                </div>
+                  
+                <div id="reg_fb_popup" style="display: block;">    
+                  <form id="fb-register-popup-form" name="fb-register-popup-form" style="clear:both" method="post">
+                      <div id="fb_profile_photo"></div>
+                      <table width="100%" border="0" cellspacing="1" cellpadding="1">
+                        <tbody><tr>
+                            <td height="15"></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align:left;">First Name:</td>
+                        </tr>
+                        <tr>
+                            <td height="30" style="text-align:left;">
+                                    <div class="bolee_tooltip_right validation_error">
+                                    <input type="text" id="firstname" name="firstname" class="fb_fld2" tabindex="1">
+                                    </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="text-align:left;">Last Name:</td>
+                        </tr>
+                        <tr>
+                            <td height="30" style="text-align:left;">
+                                    <div class="bolee_tooltip_right validation_error">
+                                    <input type="text" id="lastname" name="lastname" class="fb_fld2" tabindex="2">
+                                    </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="text-align:left;">Email Address:</td>
+                        </tr>
+                        <tr>
+                            <td height="30" style="text-align:left;">
+                                    <div class="bolee_tooltip_right validation_error">
+                                    <input type="text" id="emailaddress" name="emailaddress" value="" class="fb_fld2" tabindex="3">
+                                    </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="text-align:left;">Password:</td>
+                        </tr>
+                        <tr>
+                            <td height="30" style="text-align:left;">
+                                    <div class="bolee_tooltip_right validation_error">
+                                    <input type="password" id="pass_word" name="pass_word" value="" class="fb_fld2" tabindex="4">
+                                    </div>
+                            </td>
+                        </tr>
+                        <tr>
+                        <td style="text-align:left;">City:</td>
+                        </tr>
+                        <tr>
+                            <td height="30" style="text-align:left;">
+                                <div class="bolee_tooltip_right validation_error">
+                                    <select id="reg_city" class="fb_fld2" name="reg_city" tabindex="5">
+                                        <option value="">- Select One -</option>
+                                        <option value="1">Lahore</option><option value="90">Karachi</option><option value="91">Islamabad</option><option value="92">Rawalpindi</option><option value="93">Faisalabad</option><option value="97">Peshawar</option><option value="95">Multan</option><option value="96">Hyderabad</option><option value="99">Sialkot</option><option value="94">Gujranwala</option><option value="224">Abbottabad</option><option value="103">Attock</option><option value="200">Bagh</option><option value="104">Bahawalnagar</option><option value="105">Bahawalpur</option><option value="232">Dera Ismail Khan</option><option value="109">Burewala</option><option value="111">Chiniot</option><option value="116">Dera Ghazi Khan</option><option value="254">Gilgit</option><option value="123">Gujrat</option><option value="124">Hafizabad</option><option value="234">Haripur</option><option value="130">Jhang</option><option value="131">Jhelum</option><option value="136">Kasur</option><option value="188">Khairpur</option><option value="137">Khanewal</option><option value="141">Khushab</option><option value="236">Kohat</option><option value="189">Larkana</option><option value="241">Manshera</option><option value="242">Mardan</option><option value="149">Mianwali</option><option value="202">Mirpur</option><option value="190">Mirpur Khas</option><option value="203">Muzaffarabad</option><option value="153">Muzaffargarh</option><option value="192">Nawabshah</option><option value="244">Nowshera</option><option value="156">Okara</option><option value="98">Quetta</option><option value="163">Rahim Yar Khan</option><option value="167">Sadiqabad</option><option value="169">Sahiwal</option><option value="100">Sargodha</option><option value="173">Sheikhupura</option><option value="196">Sukkur</option><option value="246">Swabi</option><option value="247">Swat</option><option value="178">Toba Tek Singh</option><option value="180">Wah</option>                                    </select>
+                                </div>       
+                            </td>
+                        </tr>
+                            <tr>
+                                <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tbody><tr>
+                                    <td width="3%" valign="middle" style="text-align:left;"><input name="checkbox" type="checkbox" id="checkbox" checked="checked" tabindex="6"></td>
+
+                                    <td width="97%" valign="middle" style="text-align:left; padding-left:5px;">Allow Bolee to send me updates about the site.</td>
+                                </tr>
+                                <tr>
+                                    <td valign="middle" style="text-align:left;"><input name="checkbox2" type="checkbox" id="checkbox2" checked="checked" tabindex="7"></td>
+                                    <td valign="middle" style="text-align:left; padding-left:5px;">Send me amazing offers and bargains from our advertising partners.</td>
+                                </tr>
+                                </tbody></table></td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:left;">By clicking on Register, you agree to the <a href="http://www.bolee.com/terms_of_use"><br>
+                        Bolee Terms and Conditions</a> and the <a href="http://www.bolee.com/privacy_policy">Bolee Privacy Policy.</a></td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:left;">  <input class="orange large awesome " value="Register Now" type="submit" tabindex="8"></td>
+                            </tr>
+                        </tbody></table>
+                        <input type="hidden" id="fb_u_id" name="fb_u_id" value="">
+                    </form>
+                </div>        
+            </div>    
+        </div>    
+    </div>
+</div>
+
+<!-- FB Follow up popup start -->
+<div id="register_follow" style="display: none;">
+    
+    <div id="fb_int_box">
+        
+        <h4 class="fb_intg_head"><span id="fb_follow_name_top"></span> you are now Connected</h4>
+	
+        <div class="fb_int_user_info">
+            Name: <a href="#"><span id="fb_follow_name"></span></a> | Email: <a href="#"><span id="fb_follow_email"></span></a>
+        </div>
+        
+        <div class="fb_container">
+            
+            <div class="fb_int_heading">Here's what you can should do now!</div>          
+            
+            <div class="fb_op_row">
+                <div class="fb_st1">Sell your stuff for FREE!</div>
+                <div class="fb_st2">Report suspicious ads, feel like a coop!</div>
+            </div>
+            
+            <div class="fb_op_row">
+                <div class="fb_st3">Save your search and get email alerts</div>
+                <div class="fb_st4">Get personalised recommendations</div>
+            </div>
+            
+            <div class="fb_op_row">
+                <div class="fb_st5">Save ads to your watchlist!</div>
+                <div class="fb_st6">Share with friends, sharing is bolee</div>
+            </div>                   
+            
+            <div class="fb_cl_btn">  <input class="orange large awesome " value="Close" type="button" onclick="referesh_page();"></div>
+        </div>
+        
+    </div>
+    
+</div>
+<!-- FB Follow up popup end -->
+    </div>
+</div>
+
+
+<div class="fb-root" id="fb-root"></div>
+<!--<script type="application/javascript" language="javascript">-->
+<script type="text/javascript">
+  // initialize the library with the API key
+  var permsNeeded = ['user_about_me','user_activities','user_birthday','user_hometown','user_interests','user_likes','user_location','user_online_presence','user_photos','user_relationships','user_website','user_work_history','email','read_friendlists','offline_access'];
+
+  FB.init({ apiKey: '130787193717240', 
+				status: true, 
+				cookie: true, 
+				xfbml: true,
+				oauth: true });
+  
+  $('#login').bind('click', function() {		                    
+	  FB.getLoginStatus(handleSessionResponse);                  
+  });
+  
+  $('#fb_head').bind('click', function() {  
+	  FB.getLoginStatus(handleSessionResponse);		  
+  });
+  
+  $('#fb_register').bind('click', function() {
+	  FB.getLoginStatus(handleSessionResponse);		  
+  });
+  
+  $('#fb_login_popup').bind('click', function() {
+	  doUnBlock();
+	  FB.getLoginStatus(handleSessionResponse);		  
+  });
+  
+  $('#fb_register_popup').bind('click', function() {
+	  doUnBlock();
+	  FB.getLoginStatus(handleSessionResponse);		  
+  });
+
+  $('#fb_signin').bind('click', function() {		                    
+	  FB.getLoginStatus(handleSessionResponseforSignin);                  
+  });
+  
+  // handle a session response from any of the auth related calls
+  function handleSessionResponse(response) 
+  {
+	  if (response.status === 'connected') {
+		  userPrivilages(response);			  
+	  }
+	  else if (response.status === 'not_authorized') {
+		  FB.login(userPrivilages);
+	  } else {
+		  FB.login(userPrivilages);
+	  }
+	}
+
+	function userPrivilages(response)
+	{
+	//console.log(response);
+		var uid = response.authResponse.userID; 
+        var uemail = '';
+		var accessToken = response.authResponse.accessToken;        	
+		 FB.api('/me', function(response) {      
+                        //console.log(response.email);                        
+			uemail = response.email;
+			$.post("http://www.bolee.com/fb_login/check", {fb_id:uid, fb_email:uemail},function(data) { 						
+			if(data > 0)
+			{ 
+				FB.api('/me/permissions', function (response) {
+					var permsArray = response.data[0];
+					var permsToPrompt = [];
+					
+					for (var i in permsNeeded) {
+					  if (permsArray[permsNeeded[i]] == null) {
+						permsToPrompt.push(permsNeeded[i]);
+					  }
+					}
+					
+					if (permsToPrompt.length > 1 && permsToPrompt.index !='undefined') {						  
+						promptForPerms(permsToPrompt);
+					} else {
+					  
+					  $.post("http://www.bolee.com/fb_login/login", {fb_id:uid, fb_email:uemail},
+						  function(data) { 						
+							if(data > 0)
+							{
+							   window.location = "http://www.bolee.com/privacy_policy";					
+							}                                                                 
+						});
+					}
+				});
+			}
+			else
+			{ 
+				 FB.api('/me/permissions', function (response) {
+					   
+					   var permsArray = response.data[0];
+						var permsToPrompt = [];
+					
+						for (var i in permsNeeded) {
+						  if (permsArray[permsNeeded[i]] == null) {
+							permsToPrompt.push(permsNeeded[i]);
+						  }
+						}
+					
+						if (permsToPrompt.length > 1 && permsToPrompt.index !='undefined') {				  
+						  RegisterPermissionsOnly(permsNeeded);
+						} else {								
+						  saveUser();
+						}
+				});
+				
+																			
+			}
+		  });
+
+		 });
+	}
+	
+	// Re-prompt user for missing permissions
+	var promptForPerms = function(perms) {
+		FB.login(function(response) {
+                    if (response.authResponse) {
+                            FB.api("/me/permissions", LoginCheckPermissions);
+                    }
+                    else {
+                            FB.login(userPrivilages);
+                    }
+		}, {scope: perms.join(',')});                        
+	};
+	function LoginCheckPermissions(response)
+	{
+		
+		var permsArray = response.data[0];
+		var permsToPrompt = [];
+
+		for (var i in permsNeeded) {
+			if (permsArray[permsNeeded[i]] == null) {
+				permsToPrompt.push(permsNeeded[i]);
+			}
+		}
+
+		if (permsToPrompt.length > 0) {						  
+				promptForPerms(permsToPrompt);
+		}
+		else
+		{
+			FB.api('/me', function(response) {
+				var uid   = response.id;
+                var uemail   = response.email;
+				$.post("http://www.bolee.com/fb_login/login", {fb_id:uid, fb_email:uemail},
+				function(data) { 						
+					if(data > 0)
+					{
+						window.location = "http://www.bolee.com/privacy_policy";					
+					}                                                                 
+				});
+				
+			});
+		}
+	}
+			
+	function RegisterPermissionsOnly(perms)
+	{   
+            FB.login(function(response) {
+            
+                    if (response.authResponse.userID > 0) {
+                            FB.api('/me/permissions', RegisterCheckPermissions);
+                    }
+                    else { 
+                            FB.login(userPrivilages);
+                    }
+            }, {scope: perms.join(',')});                    
+	}
+			
+	function RegisterCheckPermissions(response) 
+	{       
+		var permsArray = response.data[0];		
+		var permsToPrompt = [];
+
+		for (var i in permsNeeded) {
+			if (permsArray[permsNeeded[i]] == null) {
+				permsToPrompt.push(permsNeeded[i]);
+			}
+		}  
+		
+		if (permsToPrompt.length > 1 && permsToPrompt.index !='undefined') {
+                    RegisterPermissionsOnly(permsToPrompt);
+		} else {
+                    saveUser();
+		}
+	}
+	
+	function saveUser()
+	{
+		FB.api('/me', function(response) {
+			var fb_id = response.id;
+			var email   = response.email;
+			var fname = response.first_name;
+			var lname = response.last_name;
+			
+			// For registartion
+			$('#fb_u_id').val(fb_id);
+			$('#firstname').val(fname);
+			$('#lastname').val(lname);
+			$('#emailaddress').val(email);
+			//$('#fb_profile_photo').html('<img src="https://graph.facebook.com/'+fb_id+'/picture?type=normal">');
+			register_popup();                       
+			
+		});
+	}
+			
+	function share_with()
+	{
+			u="http://www.bollee.com/contact/";       					
+			popup('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u),'sharer');			        
+			return false;
+	}       
+		  
+	// Code For Centered popup window
+	function popup(url,title) 
+	{
+
+	var width  = 600;
+
+	var height = 300;
+
+	var left   = (screen.width  - width)/2;
+
+	var top    = (screen.height - height)/2;
+
+	var params = 'width='+width+', height='+height;
+
+	params += ', top='+top+', left='+left;
+
+	params += ', directories=no';
+
+	params += ', location=no';
+
+	params += ', menubar=no';
+
+	params += ', resizable=no';
+
+	params += ', scrollbars=no';
+
+	params += ', status=no';
+
+	params += ', toolbar=no';
+
+	newwin=window.open(url,'windowname5', params);
+
+	if (window.focus) {newwin.focus()}
+
+	return false;
+
+	}
+	
+	function referesh_page()
+	{
+		window.location = "http://www.bolee.com/privacy_policy";
+	}
+        
+        
+        function handleSessionResponseforSignin(response) 
+        {
+	  if (response.status === 'connected') {
+		  userPrivilagesSignin(response);			  
+	  }
+          else
+          {
+                window.location = "http://www.bolee.com/login";
+          }
+	}
+
+	function userPrivilagesSignin(response)
+	{
+            
+            var uid = response.authResponse.userID;
+            var uemail = '';
+            var accessToken = response.authResponse.accessToken;        	
+            
+            FB.api('/me', function(response) 
+            {      			
+				uemail = response.email;
+                $.post("http://www.bolee.com/fb_login/check", {fb_id: uid, fb_email:uemail},function(data) 
+                { 						
+
+				    if(data > 0)
+                    {
+                            /*$.post("< ?php echo site_url('fb_login/login')?>", {fb_id: uid, fb_email:uemail},
+                                function(data) { 						
+                                    if(data > 0)
+                                    {
+                                        window.location = "< ?php echo current_url();?>";					
+                                    }                                                                 
+                            });*/
+							window.location = "http://www.bolee.com/privacy_policy";
+                    }
+                    else
+                    {
+                                window.location = "http://www.bolee.com/login";									
+                    }
+                });
+
+            });
+	}   
+
+function graphStreamPublish()
+{
+    var opts = {
+                method: 'feed',
+                name: 'Facebook Dialogs',
+                link: 'http://developers.facebook.com/docs/reference/dialogs/',
+                picture: 'http://fbrell.com/f8.jpg',
+                caption: 'Reference Documentation',
+                description: 'Dialogs provide a simple, consistent interface for applications to interface with users.',
+                message: 'Facebook Dialogs are easy!'
+            };
+
+            FB.api('/me/feed', 'post', opts, function(response)
+            {
+                if (!response || response.error)
+                {
+                    alert('Posting error occured');
+                }
+                else
+                {
+                    alert('Success - Post ID: ' + response.id);
+                }
+            });
+            
+            
+}
+
+function callback (post_id, exception) {
+ if(post_id) {
+   post_to_my_server(post_id);
+ }
+}
+
+</script>
+
+
+
+
+
+<!-- Div end for login pop up--> 
+
+<!-- Div start for friends email pop up-->
+<!-- Div end for friends email pop up-->
+
+<div id="body_container">
+<div id="ad_container">
+<div id="posting_container">
+<div class="posting_area">
+<div class="inner_heading_box">
+<div class="sub_icon"></div>
+<div class="inner_heading">
+  <h2>Privacy Policy </h2></div>
+</div>
+
+
+<p>&nbsp;</p>
+<p>This Privacy Policy sets out our practices with respect to the collection, use and disclosure of personal information in connection with www.Bolee.com (the Site). This Privacy Policy may be updated by us at any time by posting on the site without any prior notice. Also, this Privacy Statement may be supplemented or modified by agreements entered into between us and an individual from time to time. In this Privacy Statement, personal information means any information about an identifiable individual, including contact and demographic details, not including collective information or information regarding a group in summarized form.</p>
+
+<p>&nbsp;</p>
+<h6>Commitment</h6>
+<p>Your privacy is important to us. We are committed to respecting the privacy of our customers and others and handling your personal information in accordance to the most secure and safest standards. This Privacy Policy explains how we collect, use, store and disclose your personal information.</p>
+
+<p>&nbsp;</p>
+<h6>Collection of Personal Information</h6>
+<p>The Site's registration form requires users to give us contact information (such as name and email address) and demographic information (such as address postal code and age) and other information that is used by us to provide services. We use the customer contact information from the registration form to send the user information that he or she has requested regarding the Site or regarding services offered by us. This Site uses an ad form for customers to place online and/or print ads. One of the express purposes of the Site is to gather contact information provided voluntarily by customers to be published either online or in print, as the case may be, and in connection with items that are for sale by customers. We have no control over who views online or print ads. Contact information provided may be used to contact customers when necessary. We may collect customers financial information (such as account or credit card numbers) to bill the user for products and services, but retain this information only as required to process the transaction and for as long as may be required by law.</p>
+<p>Demographic and profile data is also collected at the Site. We use this data to tailor each visitor's experience at the Site, showing the user content that we think he or she might be interested in, and displaying the content according to the user's preferences.</p>
+<p>Our online surveys ask visitors for contact information (such as email addresses) and demographic information (such as postal code and age). We use contact data from our surveys to send users information about our products and services.</p>
+<p>We may use customer information for additional purposes that may be identified at or before the time that the information is collected. We also use information from customers for accounting and transaction completion purposes.</p>
+<p>We use third-party advertising companies like Google to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information, specifically for Google, <a href="http://www.google.com/policies/privacy/ads/" target="_blank">click here to read the ad serving policy.</a></p>
+
+
+<p>&nbsp;</p>
+<h6>Disclosure of Personal Information</h6>
+<p>We may disclose certain personal information as follows:</p>
+<ol id="about">
+  <li> by publishing ads either online and/or in print, as the case may be,  in connection with items that are for sale by customers</li>
+    <li> to third-party websites and publishers so ads (or the content of the ads)  published on Bolee can also be published on a broader array of venues or  information vehicles,</li>
+    <li> to law enforcement agencies for the purposes of investigating fraud or other  offences, or</li>
+    <li>to legal, financial, and other professional advisors or in connection with  the sale or reorganization of all or part of its business or operations.</li>
+    <li> By having your mobile number listed on Bolee.com, you agree to receive SMS  from users who may wish to contact you through the site.</li>
+
+</ol>
+Except as provided above, we will not use or disclose personal information for  purposes other than those for which it was collected, except with the consent  of the individual or as required or permitted by law.
+
+
+<p>&nbsp;</p>
+<h6>Communications and email tools</h6>
+<p>You agree to receive marketing communications from us unless you tell us that you prefer not to receive such communications. If you don't wish to receive marketing communications from us, simply indicate your preference by following directions provided with the communication. You may not use our site or communication tools to harvest addresses, send spam or otherwise breach our Terms of Use or Privacy Policy. Bolee may automatically scan and manually filter messages sent via our communication tools for malicious activity or prohibited content, but Bolee does not permanently store such messages. Bolee reserves the right to delay replies in cases of suspected fraudulent activity or violations of the<a href="http://www.bolee.com/terms_of_use"> Bolee Terms of Use</a> and/or to refuse to transmit messages. If you use our tools to send content to a friend, Bolee doesn't permanently store your friends' addresses or use or disclose them for marketing purposes. To report spam from other users, please contact <a href="http://www.bolee.com/submit_ticket">customer support.</a></p>
+
+<p>&nbsp;</p>
+<h6>Cookies and IP Addresses</h6>
+<p>We may use your IP address to identify you and your membership, gather broad demographic information about our users, diagnose problems with our server, and administer the Site. The Site uses cookies to keep track of your membership tools and to make sure you do not see the same ad repeatedly. We use cookies to deliver content specific to your interests and to save your password so you do not have to re-enter it each time you visit the Site. We also provide an option to log out should you be using an insecure or publicly shared computer.  A few important things you should know about cookies are that:
+  </p>
+
+  <ol id="about">
+    <li>Bolee offers certain  features that are available only through the use of cookies.</li>
+    <li>Bolee uses cookies to  help identify you and maintain your signed-in status.</li>
+    <li>You are always free to  decline cookies if your browser permits, although doing so may interfere with  your use of some of our sites or services. For more information on your choices  about accepting cookies, consult your browser help function.</li>
+    </ol>
+
+  <p>&nbsp;</p>
+  <p>We use outside ad companies  to display ads on the Site. These ads may contain cookies. While we use cookies  in other parts of the Site, cookies received with banner ads are collected by  our ad companies, and we do not have access to this information. Bolee does not allow these companies to  collect any personal information about you using these cookies.</p>
+  
+  <p>&nbsp;</p>
+<h6>Links</h6>
+<p>This Site contains links to other websites, such as websites providing national search capabilities and information resources designed to inform buyers and sellers about general aspects of property that is being sold. We are not responsible for the privacy practices or the content of such websites. Please ensure you review the privacy policies of the websites that you visit.</p>
+
+<p>&nbsp;</p>
+<h6>Security</h6>
+<p>We protect against the loss, misuse and alteration of personal information with security measures appropriate to the sensitivity of the information, but as you probably know, nothing's perfect, so Bolee makes no guarantees.</p>
+
+<p>&nbsp;</p>
+<h6>Opt-Out</h6>
+<p>
+When appropriate, users of the Site are given the opportunity to (i) opt-out of receiving communications from us, (ii) remove their information from our database, or (iii) elect to no longer receive services from us. If you wish to opt-out of receiving further communications, please contact us.
+</p>
+
+<p>&nbsp;</p>
+<h6>Corrections/Contact</h6>
+<p>
+Users of this Site may contact Bolee to modify or correct any of their personal information that is under our control. An individual may also direct a written complaint regarding compliance with this Privacy Statement to us and, within a reasonable time upon receiving the written complaint, we will conduct an investigation into the matter, and we will take necessary measure/s to rectify the source of the complaint, as appropriate.
+</p>
+
+<p>&nbsp;</p>
+<h6>Contact Us</h6>
+<p>If you have any questions about this Privacy Statement, our privacy practices in connection with this Site, or our collection, use, disclosure, or retention of your personal information in connection with this Site, please contact us by going to the Contact Uspage or sending us an email directly to <a href="mailto: info@bolee.com">info@bolee.com</a></p>
+
+<p>&nbsp;</p>
+
+</div>
+
+
+</div>
+</div>
+
+
+
+</div>
+</div>
+    
+    <div id="footer_container">
+<div class="ftr_img"></div>
+<div class="footer_middle_section">
+ <div class="footer_box">
+   <div class="ftr_heading">Bolee Information</div>
+     <br>
+   
+   <div class="ftr_list">
+	<a href="http://www.bolee.com/about_us" class="ftr">About Us </a><br>
+    <a href="http://www.bolee.com/member_benefits" class="ftr">Member Benefits</a> <br>
+    <a href="http://www.bolee.com/terms_of_use" class="ftr">Terms of Use </a><br>
+    <a href="http://www.bolee.com/privacy_policy" class="ftr">Privacy Policy</a></div>
+      
+      <div class="ftr_list">
+	<a href="http://www.bolee.com/listing_policy" class="ftr">Listing Policy</a><br>
+    <a href="http://www.bolee.com/rules" class="ftr">Rules</a> <br>
+	<a href="http://www.bolee.com/site_map" class="ftr">Sitemap </a><br>
+</div>
+ </div>
+ <div class="fto_divider_line"></div>
+ <div class="footer_box">
+   <div class="ftr_heading">Bolee Support</div>
+     <br>
+   
+   <div class="ftr_list">
+	<a href="http://www.bolee.com/submit_ticket" class="ftr">Contact Us </a><br>
+    <a href="http://www.bolee.com/help_how_to" class="ftr">Help &amp; How to</a> <br>
+    <a href="http://www.bolee.com/online_safety_tips" class="ftr">Online Safety Tips</a><br>
+</div>
+      
+    </div>
+ <div class="fto_divider_line"></div>
+ <div class="footer_box">
+   <div class="ftr_heading">Explore Bolee</div>
+     <br>
+   
+   <div class="ftr_list">
+		<a href="http://www.bolee.com/login" class="ftr">My Account</a><br>
+    <a href="http://www.bolee.com/register" class="ftr">Register</a> <br>
+    <a href="http://www.bolee.com/login" class="ftr">Sign In </a><br>
+	
+    <a href="http://www.bolee.com/ad" class="ftr">Place an ad</a></div>
+      
+    </div>
+ <div class="fto_divider_line"></div>
+ <div class="footer_box">
+      <div class="ftr_heading">Categories</div>
+     <br>
+   
+   <div class="ftr_list">
+	<a href="http://www.bolee.com/ads/for-sale" class="ftr">For Sale</a><br>
+    <a href="http://www.bolee.com/ads/community" class="ftr">Community</a> <br>
+    <a href="http://www.bolee.com/ads/vehicles" class="ftr">Vehicles </a><br>
+    <a href="http://www.bolee.com/ads/real-estate" class="ftr">Real Estate</a></div>
+      
+      <div class="ftr_list">
+	<a href="http://www.bolee.com/ads/education" class="ftr">Education</a><br>
+    <a href="http://www.bolee.com/ads/matrimonial" class="ftr">Matrimonial</a><br>
+    <a href="http://www.bolee.com/ads/job-vacancies" class="ftr">Job Vacancies</a> <br>
+	<a href="http://www.bolee.com/ads/services" class="ftr">Services </a><br>
+</div>
+
+</div>
+</div>
+<div class="copyright_area">
+<div class="copyright_text">
+
+<div class="copy_text">Copyright © 2012 Bolee.com. All rights reserved</div>
+<div id="icon_box">
+
+<a href="http://www.twitter.com/boleecom" target="_blank"><div class="tw_icon"></div></a>
+<a href="https://plus.google.com/112266169918276433985#112266169918276433985/posts" target="_blank"><div class="gp_icon"></div></a>
+<a href="http://www.facebook.com/boleecom" target="_blank"><div class="fb_icon"></div></a>
+
+<div class="fb_area" "="">
+<div class="fb-like" data-href="http://www.bolee.com" data-send="false" data-width="260" data-show-faces="false" data-colorscheme="dark">
+</div>
+</div>
+</div>
+
+
+
+
+</div>
+</div>
+</div></body></html>
