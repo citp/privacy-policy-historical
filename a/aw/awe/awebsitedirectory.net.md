@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the awebsitedirectory.net privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608183750id_/http%3A//awebsitedirectory.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awebsitedirectory.net privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209143706id_/http%3A//awebsitedirectory.net/privacypolicy.php) for the most accurate reproduction.*
 
 # A Website Directory | A FREE SEO Friendly Website Directory - About Us
+
+[](http://www.allinclusiveads.com/index.php?aff=9132)
 
 ### Privacy Policy
 
