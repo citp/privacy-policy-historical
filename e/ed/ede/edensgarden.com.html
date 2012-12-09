@@ -1,0 +1,295 @@
+<!--The following is the downloaded HTML source of the edensgarden.com privacy policy that was archived on 2012-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121209031334id_/http%3A//edensgarden.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head>
+<title>Privacy Policy</title>
+
+
+<base href="http://www.edensgarden.com/">
+
+	<link href="http://www.edensgarden.com/image/data/favicon.png" rel="icon">
+
+
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/eden/stylesheet/stylesheet.css">
+<!--[if lt IE 7]>
+<script type="text/javascript" src="catalog/view/javascript/DD_belatedPNG_0.0.8a-min.js"></script>
+<script>
+	DD_belatedPNG.fix('img, #header .div3 a, #content .left, #content .right, .box .top');
+</script>
+<![endif]-->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<!--<script type="text/javascript" src="catalog/view/javascript/jquery/jquery.bxSlider.min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/jquery.easing.1.3.js"></script>-->
+<!-- thickbox -->
+<script type="text/javascript" src="catalog/view/javascript/jquery/thickbox/thickbox-compressed.js"></script>
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/thickbox/thickbox.css">
+<!-- end thickbox -->
+<script type="text/javascript" src="catalog/view/javascript/jquery/tab.js"></script>
+<!-- end tab -->
+<script type="text/javascript" src="catalog/view/javascript/jquery/returnkeystroke.js"></script>
+<!-- end returnkeystroke -->
+<script type="text/javascript"><!--
+function bookmark(url, title) {
+	if (window.sidebar) { // firefox
+    window.sidebar.addPanel(title, url, "");
+	} else if(window.opera && window.print) { // opera
+		var elem = document.createElement('a');
+		elem.setAttribute('href',url);
+		elem.setAttribute('title',title);
+		elem.setAttribute('rel','sidebar');
+		elem.click();
+	} else if(document.all) {// ie
+   		window.external.AddFavorite(url, title);
+	}
+}
+/*$(function() {
+	// home page sliders
+	$('#slideshow').bxSlider({
+		auto: true,
+		autoHover: true,
+		mode: 'fade',
+		speed: 500
+	});
+});*/
+//--></script>
+</head>
+<body>
+
+<div id="wrapper">
+	<div id="links">
+    	<ul id="small-nav">
+        	
+            
+                                    	<li id="accnt-link"><a href="https://www.edensgarden.com/index.php?route=account/account" id="tab_login">Account</a></li>
+                		            
+            
+           
+           <!-- <li><a href="https://www.edensgarden.com/index.php?route=account/account" id="tab_account">Account</a></li>-->
+            <li id="checkout-cart">
+            
+            
+            
+            <a href="http://www.edensgarden.com/index.php?route=checkout/cart">
+            	(0)
+            	Item(s):            	$0.00                
+            </a>
+            </li>
+            <li id="checkout-link"><a href="https://www.edensgarden.com/index.php?route=checkout/shipping" id="tab_checkout">Checkout</a></li>
+            <li id="contact-us"><a href="index.php?route=information/contact">Contact</a></li>
+        </ul>
+		<h1 id="logo"><a href="http://www.edensgarden.com/index.php?route=common/home">Edens Garden</a></h1>
+    </div>
+    <!-- end links -->
+    
+    <!-- start top -->
+    
+    <div id="top">
+    	<div id="top-content">
+            <div id="searchbox">
+                                    	<input type="text" value="Search:" id="filter_keyword" onclick="this.value = '';" onkeydown="this.style.color = '#000000'" style="color: #999;">
+                                        <a onclick="moduleSearch();" class="button">Go</a> 
+            </div>
+
+        	<p id="shipping-info">FREE SHIPPING <span>on orders over $75</span></p>
+            
+            
+        </div>
+        
+    </div>
+    <!-- end top -->    
+    
+    <!-- start content -->
+    <div id="content-wrap">
+    
+		<div id="content">
+			<div id="breadcrumb">
+        		        			<a href="http://www.edensgarden.com/index.php?route=common/home">Home</a>
+        		        			 › <a href="http://www.edensgarden.com/index.php?route=information/information&amp;information_id=3">Privacy Policy</a>
+        		      		</div>
+<script type="text/javascript"><!-- 
+function getURLVar(urlVarName) {
+	var urlHalves = String(document.location).toLowerCase().split('?');
+	var urlVarValue = '';
+	
+	if (urlHalves[1]) {
+		var urlVars = urlHalves[1].split('&');
+
+		for (var i = 0; i <= (urlVars.length); i++) {
+			if (urlVars[i]) {
+				var urlVarPair = urlVars[i].split('=');
+				
+				if (urlVarPair[0] && urlVarPair[0] == urlVarName.toLowerCase()) {
+					urlVarValue = urlVarPair[1];
+				}
+			}
+		}
+	}
+	
+	return urlVarValue;
+} 
+
+$(document).ready(function() {
+	route = getURLVar('route');
+	
+	if (!route) {
+		$('#tab_home').addClass('selected');
+	} else {
+		part = route.split('/');
+		
+		if (route == 'common/home') {
+			$('#tab_home').addClass('selected');
+		} else if (route == 'account/login') {
+			$('#tab_login').addClass('selected');	
+		} else if (part[0] == 'account') {
+			$('#tab_account').addClass('selected');
+		} else if (route == 'checkout/cart') {
+			$('#tab_cart').addClass('selected');
+		} else if (part[0] == 'checkout') {
+			$('#tab_checkout').addClass('selected');
+		} else {
+			$('#tab_home').addClass('selected');
+		}
+	}
+});
+//--></script>
+<script type="text/javascript"><!--
+$('#searchbox input').keydown(function(e) {
+	if (e.keyCode == 13) {
+		moduleSearch();
+	}
+});
+
+function moduleSearch() {
+	url = 'index.php?route=product/search';
+	
+	var filter_keyword = $('#filter_keyword').attr('value')
+	
+	if (filter_keyword) {
+		url += '&keyword=' + encodeURIComponent(filter_keyword);
+	}
+	
+	var filter_category_id = $('#filter_category_id').attr('value');
+	
+	if (filter_category_id) {
+		url += '&category_id=' + filter_category_id;
+	}
+	
+	location = url;
+}
+//--></script>
+<script type="text/javascript"><!--
+$('.switcher').bind('click', function() {
+	$(this).find('.option').slideToggle('fast');
+});
+$('.switcher').bind('mouseleave', function() {
+	$(this).find('.option').slideUp('fast');
+}); 
+//--></script>
+			<div class="container">
+                <div id="column_left" class="col3a alpha">
+	<h3 class="border-top">Products</h3>
+    	<ul id="cat-list" class="no-bullets">
+           	<li id="green"><a href="essential-oils/single-oils">Single Oils</a></li>
+           	<li id="drk-purple"><a href="essential-oils/synergy-blends">Synergy Blends</a></li>
+            <li id="blue"><a href="essential-oils/organci-oils">Organic Oils</a></li>
+            <li id="purple"><a href="carrier-oils/">Carrier Oils</a></li>
+            <li id="yellow"><a href="gifts-and-sets/">Gifts &amp; Sets</a></li>
+            <li id="red"><a href="gifts-sets-accessories/accessories">Accessories</a></li>
+            <!--<li id="green"><a href="index.php?route=product/category&path=36">Single Oils</a></li>
+           	<li id="drk-purple"><a href="index.php?route=product/category&path=37">Synergy Blends</a></li>
+            <li id="blue"><a href="index.php?route=product/category&path=38">Organic Oils</a></li>
+            <li id="purple"><a href="index.php?route=product/category&path=39">Carrier Oils</a></li>
+            <li id="yellow"><a href="index.php?route=product/category&path=41">Gifts &amp; Sets</a></li>
+            <li id="red"><a href="index.php?route=product/category&path=42">Accessories</a></li>-->
+        </ul>
+
+    	  			<div id="module-cart">
+	<h3 class="border-top">Shopping Cart</h3>
+    <div class="middle">
+                    <p class="center">0 items</p>
+        	</div>
+</div>
+
+<!-- <script type="text/javascript" src="catalog/view/javascript/jquery/ajax_add.js"></script>-->
+
+<script type="text/javascript"><!--
+
+function getUrlParam(name) {
+  var name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+  var regexS = "[\\?&]"+name+"=([^&#]*)";
+  var regex = new RegExp(regexS);
+  var results = regex.exec(window.location.href);
+  if (results == null)
+    return "";
+  else
+    return results[1];
+}
+
+$(document).ready(function () {
+	$('.cart_remove').live('click', function () {
+		if (!confirm('Confirm?')) {
+			return false;
+		}
+		$(this).removeClass('cart_remove').addClass('cart_remove_loading');
+		$.ajax({
+			type: 'post',
+			url: 'index.php?route=module/cart/callback',
+			dataType: 'html',
+			data: 'remove=' + this.id,
+			success: function (html) {
+				$('#module_cart .middle').html(html);
+				if (getUrlParam('route').indexOf('checkout') != -1) {
+					window.location.reload();
+				}
+			}
+		});
+	});
+});
+//--></script>  		  
+</div>
+
+                
+                
+                <div id="main" class="col8 omega">  
+                	<h2>Privacy Policy</h2>
+                    <p>
+	<span style="font-size:14px;">At Edens Garden we are committed to protecting your privacy. We use the information we collect to process orders and to provide you the service you expect.</span></p>
+<h4>
+	<span style="font-size:14px;">What do we do with the information we collect from you?</span></h4>
+<p>
+	<span style="font-size:14px;">In order to process an order, we need to know such details as your name, e-mail address, shipping address, credit card number and expiration date. This information allows us to process and ship your order quickly, with no hiccups.</span></p>
+<p>
+	<span style="font-size:14px;">At Edens Garden your privacy is very important to us. We will never give your name, address or any other information to any other company or individual for their promotional or financial gain. The information you submit is used to help you build and maintain your personal account.</span></p>
+<h4>
+	<span style="font-size:14px;">Emails/ Newsletters</span></h4>
+<p>
+	<span style="font-size:14px;">We may also use the information we collect to notify you about important changes to Edens Garden website, new services and special offers we think you will be interested in. If you would rather not receive this information, just reply to any email you receive from us with the word REMOVE in the subject.</span></p>
+<h4>
+	<span style="font-size:14px;">What do we do to insure your information is kept safe?</span></h4>
+<p>
+	<span style="font-size:14px;">The Edens Garden website utilizes various security measures, including encryption technologies and password protection, to protect the security of your information. This ensures that only you and Edens Garden see any of your personal information.</span></p>
+<p>
+	<span style="font-size:14px;">At Edens Garden we respect your privacy, If you have any questions about this privacy policy, the practices of this site, or your dealings with this website, you can contact us by sending an email to <a href="mailto:info@edensgardenessentials.com"> info@edensgarden.com</a> or fill out our <a href="index.php?route=information/contact">contact form</a>.</span></p>
+<p>
+	<span style="font-size:14px;">This privacy policy is subject to change at any time.</span></p>
+                    
+                </div>
+            </div>
+            <!-- end container -->
+        </div>
+        <!-- end content -->
+        <div class="clearfix">&nbsp;</div>
+    </div>
+	<!-- end content-wrap -->
+    	<!-- start footer -->
+    <div id="footer-wrap">
+    	<div id="footer">
+        	<p class="center"> <a href="http://edensgarden.com/privacy-policy/">Privacy Policy</a>  |  <a href="http://edensgarden.com/terms-of-use/">Terms Of Use</a>  |  <a href="http://www.edensgarden.com/index.php?route=information/contact">Contact Us</a>  |  <a href="http://edensgarden.com/shipping/">Shipping</a> </p>
+        </div>
+    </div>
+</div>
+<!-- end #wrapper -->
+
+
+        </body></html>
