@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7daysindubai.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610005649id_/http%3A//www.7daysindubai.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7daysindubai.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209085437id_/http%3A//www.7daysindubai.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 7 Days Dubai | Privacy Policy
 
