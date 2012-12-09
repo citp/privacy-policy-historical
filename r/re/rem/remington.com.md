@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remington.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621062125id_/http%3A//www.remington.com/pages/our-company/our-company/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remington.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209072308id_/http%3A//www.remington.com/en/pages/our-company/our-company/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - On Line Privacy Policy
 
