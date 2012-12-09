@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the offlinemarketingplrclub.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610181413id_/http%3A//offlinemarketingplrclub.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offlinemarketingplrclub.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209190413id_/http%3A//offlinemarketingplrclub.com/privacy-policy-2) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Offline Marketing PLR Club
 
 PRIVACY POLICY  
 
