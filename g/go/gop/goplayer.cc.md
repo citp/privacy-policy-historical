@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goplayer.cc privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623105206id_/http%3A//goplayer.cc/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goplayer.cc privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209184329id_/http%3A//www.goplayer.cc/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
