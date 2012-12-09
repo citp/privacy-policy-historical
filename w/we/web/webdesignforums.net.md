@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesignforums.net privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610180957id_/http%3A//www.webdesignforums.net/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesignforums.net privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209085534id_/http%3A//www.webdesignforums.net/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WebDesignForums.net
 
