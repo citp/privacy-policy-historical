@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fwmrm.net privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611070906id_/http%3A//www.fwmrm.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwmrm.net privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209051131id_/http%3A//fwmrm.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FreeWheel
 
@@ -72,4 +72,4 @@ Attn:  Webmaster
 
 Or:
 
-privacy@freewheel.tv
+[privacy@freewheel.tv](mailto:privacy@freewheel.tv)
