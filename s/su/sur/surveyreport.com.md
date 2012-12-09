@@ -1,33 +1,68 @@
-> *The following text is extracted and transformed from the surveyreport.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425034040id_/http%3A//surveyreport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyreport.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209201221id_/http%3A//surveyreport.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Paid Survey Tips
+# Survey Report - About Us
 
-Browse >
+#### Privacy Policy
 
-[Home](http://surveyreport.com/ "Browse to: Home") / Privacy Policy 
+* * *
 
-**SurveyReport.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
+This Privacy Policy governs our policies and practices with respect to the personally identifiable information ("Personal Information") and other data that is collected by SurveyReport.com ("SurveyReport", "we", "us" and/or "our") in connection with our website, located at http://SurveyReport.com (the "Site") and our Facebook applications and related services (together with the Site, the "Service(s)").
 
-## Routine Information Collection
+By using our Services you are consenting to our processing of your Personal Information and data as set forth in this Privacy Policy now and as amended. As used herein, "processing" means using or accessing information in any way, including, but not limited to, collecting, storing, deleting, combining and disclosing information. By using our Services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+#### PERSONAL INFORMATION COLLECTED
 
-## Cookies and Web Beacons
+  * When you register an account to become a SurveyReport user (“User”), we collect your name, e-mail, phone number, industry, title/role, and skills.
+  * Regardless of registration, by visiting our Site, we may place cookies on your computer, collect your IP address, browser type, operating system and receive the URLs of site from which you arrive or leave the SurveyReport website.
+  * When you import your contacts using Gmail, Yahoo, Hotmail, Microsoft Exchange or other email/contact services, we receive names and email addresses of your contacts. You can choose to delete these, or have us invite them to your network on SurveyReport. We do not store any usernames or passwords that you choose to give us for 3rd-party contact services.
+  * Registration to SurveyReport requires logging in via either a LinkedIn or Facebook account. This is to verify your identity, as well as access your professional work history. We do not store any usernames or passwords when you login using either of these services, and operate using the API guidelines and rules set forth by these services.
+  * By logging in via Facebook, you must install the SurveyReport Facebook application first. This gives us access to your friends list, your personal profile picture, email, and your work history.
+  * By logging in via LinkedIn, we collect your name, work history, email address and profile pic.
 
-Where necessary, SurveyReport.com uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
-## Controlling Your Privacy
+#### USES OF PERSONAL INFORMATION
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://www.synclastic.com/privacy/browser-configuration/) links may also be useful.
+We use the information you provide to:
 
-## Special Note About Google Advertising
+  * Enable you to share your information and communicate with other Users
+  * Administer your account with us and customize the service we provide to you and other Users
+  * Email you with updates on important account activity
+  * Import or notify your contacts to interact with you
+  * Share key milestones, such as an improvement in your Ranking, with your contacts & friends
+  * Populate your profile with imported information such as picture, work history, name, location etc
+  * Rank and compare you to other Users
+  * Connect you to opportunities by enabling other professionals to find you
+  * Use analytics software to see aggregate trends in how our Users use our Service
+  * Enable you to send and receive ratings and manage your ranking
+  * Allow search engines to find your ratings and reviews
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
 
-## Contact Information
 
-Concerns or questions about this privacy policy can be directed to info@CityGuideMedia.com for further clarification.
+####  WE DO NOT: 
 
-This privacy policy was generated by the [Privacy Policy for WordPress](http://www.synclastic.com/plugins/privacy-policy/) plugin.
+We do not sell, rent, or otherwise provide personally identifiable information to third parties without your consent except where it is necessary to carry out your instructions (to process your payment information, for example) or as required by law. We also provide you with the means to control whether or not your contact information is viewable to other Users through your profile. 
+
+####  YOUR INFORMATION CHOICES
+
+You can:
+
+  * Review, enhance or edit your personal information through your personal profile page; 
+  * Control what information you make available to search engines through your public profile;
+  * Choose whether you wish to login using Facebook or LinkedIn;
+  * Change your settings to control visibility and accessibility through our website;
+  * Tell us to delete your account;
+  * Change how we notify you via email by managing your account settings;
+  * Change how we interact with your contacts & friends by managing your account settings;
+  * Do not abuse the SurveyReport service by using it to spam, abuse, harass, or otherwise violate the User Agreement or Privacy Policy.
+
+
+
+#### SECURITY
+
+Personal information you provide will be secured in accordance with industry standards and technology. Although we will try our best, since the internet is not a 100% secure environment, we cannot ensure or warrant the security of any information you transmit to Us. There is no guarantee that information may not be accessed, copied, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications at all times.
+
+####  HOW TO CONTACT US
+
+If you have questions or comments please send them to us here or contact us at:  
+info@SurveyReport.com
