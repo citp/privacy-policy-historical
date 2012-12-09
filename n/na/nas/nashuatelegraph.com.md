@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the nashuatelegraph.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615073511id_/http%3A//www.nashuatelegraph.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashuatelegraph.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209074015id_/http%3A//www.nashuatelegraph.com/privacypolicy) for the most accurate reproduction.*
 
 # Nashuatelegraph.com: Privacy Policy
 
 ## About Us
 
-## Published: Saturday, November 29, 2003
+**Published: Saturday, November 29, 2003**
 
-**Our Commitment**
-
+**Our Commitment**  
 Telegraph Online, related sites including Get Classifieds! and its owner, Telegraph Publishing Company (collectively, "Telegraph Online"), recognize the importance of protecting the privacy of personally identifiable information collected about you, our customers and prospects. This customer privacy policy is intended to balance our legitimate business interests in collecting and using information against our users' reasonable expectations of privacy. 
 
 **General User Information**
@@ -27,9 +26,6 @@ We use an advertising server developed by a third party to display ads on the si
 **What benefits do I receive from cookies?** Overall, the use of cookies helps to give you a more personalized experience at the site. The information is used to keep our site fresh and relevant to you the user. Cookies also identify you to our server, allowing you to avoid retyping your e-mail address and password each time you access the site.
 
 **May I decline to accept a cookie?** You may decline to accept cookies sent by the site by selecting an option on your browser to reject cookies. However, portions of the site which require registration will not be accessible to you. In such cases, we ask that you register and provide us with basic information on our registration page, or sign in if previously registered. Cookies enable our server to know that you are a registered user, and will eliminate the need for you to log in each time you access our site.
-
-  
-
 
 **IP Addresses:** The Telegraph Online logs IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes and to determine site usage. Your IP address does not contain personal information about you. 
 
