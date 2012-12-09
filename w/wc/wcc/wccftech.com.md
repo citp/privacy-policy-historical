@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wccftech.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610045137id_/http%3A//wccftech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wccftech.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209230228id_/http%3A//wccftech.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wccftech.com
+# Privacy Policy - Wccftech.com
 
 WCCF/WCCFTECH has created this privacy statement in order to demonstrate our firm commitment to personal privacy. The following discloses WCCF/WCCFTECH’s information gathering and dissemination practices for following websites: www.WCCFTECH.com, www.WCCFWORLD.com.
 
