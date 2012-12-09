@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the learnabouttheweb.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606054937id_/http%3A//www.learnabouttheweb.com/learn-about-the-web-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnabouttheweb.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209130737id_/http%3A//www.learnabouttheweb.com/learn-about-the-web-privacy-policy) for the most accurate reproduction.*
 
 # Learn About The Web Privacy Policy | Learn About The Web
-
-[](http://www.learnabouttheweb.com/)
-
-## LEARN HOW TO BUILD PROFITABLE WEBSITES
-
-####  Whether you are a beginner or more experienced, we'll help you design, build, grow and manage the website of your dreams. 
-
-[](http://www.learnabouttheweb.com/) [](http://www.learnabouttheweb.com/)
-
-## Learn About The Web Privacy Policy
 
 [  
 ](http://www.learnabouttheweb.com/learn-about-the-web-privacy-policy/privacy-300x199/)
