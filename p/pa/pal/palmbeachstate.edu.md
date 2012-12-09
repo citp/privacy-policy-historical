@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the palmbeachstate.edu privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520133236id_/http%3A//www.palmbeachstate.edu/x7109.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palmbeachstate.edu privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209125711id_/http%3A//www.palmbeachstate.edu/businesscommunity/internet-privacy-statement.aspx) for the most accurate reproduction.*
 
-# Palm Beach State - Palm Beach State Internet Privacy Statement
+# Palm Beach State - Internet Privacy Statement
 
 Thank you for visiting Palm Beach State College’s Web site. Your privacy is very important to us. We collect no personal information about you when you visit our Web site unless you choose to make such information available to us. 
 
