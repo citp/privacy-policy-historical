@@ -1,21 +1,38 @@
-> *The following text is extracted and transformed from the 3fatchicks.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509055519id_/http%3A//www.3fatchicks.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3fatchicks.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209233403id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dwww.3fatchicks.com) for the most accurate reproduction.*
 
-# 3 Fat Chicks on a Diet Official Website for Weight Loss Support - Privacy Policy
+# Privacy Policy
 
-This is the web site of 3 Fat Chicks on a Diet!. We can be reached via e-mail [Using this form.](http://www.3fatchicks.com/forum/sendmessage.php)
+## Privacy Policy Highlights
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name (ISP), but not the e-mail address.
+Internet Brands, Inc. and its subsidiaries operate websites, provide services through mobile and other applications, and develop software. We govern these with a single privacy policy. This notice provides highlights of our full [Privacy Policy](https://web.archive.org/web/20121209233403id_/http://www.internetbrands.com/privacy/privacy-main.html). It briefly describes the collection and use of information when you use or interact with our branded websites, services, and software, operating under different branded names. Also visit our [FAQ page](https://web.archive.org/web/20121209233403id_/http://www.internetbrands.com/privacy/privacy-faq.html) for answers to common questions.
 
-E-mail addresses are used by our Community section (forum, chat, and reviews) to e-mail login information to the member. We do not share this information with outside parties. We do not use this information to contact any members other than forum login purposes.
+  * ### Personal Information
 
-With respect to contests: We occasionally offer random drawing contests in which we collect e-mail addresses for the purpose of entry and winner notification. These e-mail addresses are not shared with outside parties. We do not use these email addresses to contact entrants for any purpose other than to notify winner of prize. These e-mail addresses are discarded at the end of each contest.
+We collect personal information for various business purposes when you interact with us, such as providing you with a subscription, processing your order, responding to requests for service or assistance, creating and improving our products and services, suggesting additional or different products or services, and protecting our rights and property. We collect information about you in two basic ways. First, we receive information directly from you. Second, through use of cookies and other technologies, we keep track of your interactions.
 
-We do not collect information from our visitors for commercial purposes. We value your privacy.
+  * ### Your Choices
 
-We collect aggregate information on what pages consumers access or visit, but no information on consumers who browse our Web page. The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, not shared with other organizations for commercial purposes.
+    * You can stop receiving promotional emails from us by following the instructions in the email you receive.
+    * You may cancel your registration or deactivate your account, or update your preferences at any time.
+    * You can manage cookies using your browser controls.
+    * You can [opt out](https://web.archive.org/web/20121209233403id_/http://www.internetbrands.com/privacy/privacy-main.html#section4) of the use of certain cookies.
+    * Individual products or services may offer additional controls or preferences.
+  * ### Uses of Information
 
-With respect to cookies: We use cookies to ensure that visitors are not repeatedly sent the same banner ads. We also use cookies within our Community section to hold login information and personal preferences.
+Your information is used to fulfill your requests and communicate with you, operate, support and improve our sites, products and services, conduct internal research, and personalize the content, products, services and advertisements offered to you.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: [**Burst Media,**](http://www.burstmedia.com/release/privacy.asp) [**FastClick,**](http://www.fastclick.com/about/privacy2.html) or visit the Privacy Policies linked on individual advertisers websites.
+  * ### How to Contact Us
 
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. 
+    * Use our Privacy [Contact form](https://web.archive.org/web/20121209233403id_/http://www.internetbrands.com/privacy/privacy-contact-form.php), or write to us at the address below.
+  
+
+    * Privacy Office
+    * Internet Brands, Inc.
+    * 909 N. Sepulveda Blvd., 11th Floor
+    * El Segundo, CA 90245 U.S.A.
+  * ### Information Sharing
+
+We do not sell, rent or provide your personal information to third parties that are unaffiliated with Internet Brands. Your personal information is shared with third parties with your consent, except in circumstances where the law requires it to be shared.
+
+
+
