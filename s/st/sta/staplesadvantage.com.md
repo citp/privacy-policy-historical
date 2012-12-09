@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staplesadvantage.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503204635id_/http%3A//www.staplesadvantage.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staplesadvantage.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209084309id_/http%3A//www.staplesadvantage.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -177,7 +177,7 @@ Fullerton, CA 92834
 
 ### International Considerations and Safe Harbor
 
-Staples is registered with the U.S. Department of Commerce's Safe Harbor Program and adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
+Staples complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Staples has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Staples’s certification, please visit <http://www.export.gov/safeharbor/>
 
 ### For California Residents) Privacy Rights under  
 California Civil Code Sections 1798.83-1798.84
