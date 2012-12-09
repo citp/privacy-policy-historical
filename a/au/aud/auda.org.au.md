@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auda.org.au privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629020746id_/http%3A//www.auda.org.au/policies/auda-2010-02) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auda.org.au privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209234944id_/http%3A//www.auda.org.au/policies/auda-2010-02) for the most accurate reproduction.*
 
 # auDA > auDA Published Policies > Privacy Policy (2010-02)
 
@@ -84,4 +84,4 @@ c) we are permitted or required by law, or it is in the interests of public safe
 
 6.1 auDA reserves the right to revise this policy at any time and those people who volunteer their personal details to auDA are deemed to acknowledge and be bound by this policy and any changes made to it. This is no way affects the protection afforded under the relevant laws, according to which this policy was developed. 
 
-Last Updated: 25/06/2010 14:08
+Last Updated: 25/06/2010 13:08
