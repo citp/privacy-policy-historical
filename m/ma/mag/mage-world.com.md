@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the mage-world.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625015558id_/http%3A//www.mage-world.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mage-world.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209094854id_/http%3A//www.mage-world.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy by MageWorld
 
 ### Privacy Statement
 
-We respect your privacy right. This policy summarizes what personally identifiable information we may collect, and how we might use the information. This policy also describes other important topics relating to your privacy. 
+We respect your privacy rights. This policy summarizes what personally identifiable information we may collect, and how we might use this information. This policy also describes other important topics relating to your privacy. 
 
 ### Information Collection
 
-We will only collect personally identifiable information (such as name, title, company name, address, telephone number, or e-mail address) that you voluntarily provide through our website or e-mail correspondence. We will collect general information (such as the type of browser you use, the files you request, and the IP and country from which you request information) to improve our website and better meet your needs. All of your personal information including credit card information and the ordering process are handled through our 256-bit data encryption Secure Socket Layer (SSL) connection.
+We will only collect personally identifiable information (such as name, title, company name, address, telephone number, or e-mail address) that you voluntarily provide through our website or e-mail correspondence. We also collect general information (such as the type of browser you use, the files you request, and the IP and country from which you request information) to improve our website and better meet your needs. All of your personal information including credit card information and the ordering process are handled through our 256-bit data encryption Secure Socket Layer (SSL) connection.
 
 ### Use of Information
 
-Before we collect any personally identifiable information, we will provide an explanation for the possible use of your data. The information you supply will be used by us to supply you with requested information of the products and services, fulfill your orders and respond to your inquiries. We may also use the information to inform you about new features, products or services if you explicitly instructed us to do so.
+Before we collect any personally identifiable information, we will provide you with an explanation of any possible uses of your data. The information you supply will be used by us to send you any requested information of the products and services, fulfill your orders and respond to your inquiries. We may also use the information to inform you about new features, products or services if you explicitly instructed us to do so.
 
 ### Other Important Information
 
