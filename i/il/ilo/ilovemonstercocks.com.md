@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilovemonstercocks.com privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430074227id_/http%3A//www.ilovemonstercocks.com/MCE/ilmc/0/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovemonstercocks.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209084622id_/http%3A//ilovemonstercocks.com/MCE/ilmc/0/privacy) for the most accurate reproduction.*
 
 # ILoveMonsterCocks.com :: ILoveMonsterCocks.com Privacy Policy
 
