@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightspeedsystems.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512144749id_/http%3A//www.lightspeedsystems.com/about/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightspeedsystems.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209041701id_/http%3A//www.lightspeedsystems.com/about/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy – Lightspeed Systems
 
@@ -22,7 +22,7 @@ Lightspeed Systems gathers information about all users collectively, such as wha
 
 **2\. Student Safety**
 
-Lightspeed Systems, makers of My Big Campus, complies with the Children’s Online Privacy Protection Act (COPPA, see www.ftc.gov/privacy/coppafaqs) to insure the online safety of children. Student accounts on My Big Campus are provided only through a verified educator, school, or educational organization. Educators should obtain parental permission before issuing accounts to students.
+Lightspeed Systems, makers of My Big Campus, complies with the Children’s Online Privacy Protection Act (COPPA, see www.ftc.gov/privacy/coppafaqs.shtm) to insure the online safety of children. Student accounts on My Big Campus are provided only through a verified educator, school, or educational organization. Educators should obtain parental permission before issuing accounts to students.
 
 We meet the following guidelines listed below and agree to:
 
