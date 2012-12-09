@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfmoma.org privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609234753id_/http%3A//www.sfmoma.org/about/about_site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfmoma.org privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209234834id_/http%3A//www.sfmoma.org/about/about_site/privacy_policy) for the most accurate reproduction.*
 
 # SFMOMA | About Us | About SFMOMA | About the Site | SFMOMA Privacy Policy
 
@@ -8,7 +8,7 @@ The San Francisco Museum of Modern Art (" **SFMOMA** ") values the privacy of ou
 
 ### The Information SFMOMA Collects
 
-**User Provided Information:** You may provide to SFMOMA what is generally called "personally identifiable" information when you register on the SFMOMA Website, such as your name, postal mailing address, email address, personal/business/mobile telephone number, billing information, and resume/CV. In addition, SFMOMA may give you the option to provide us with certain demographic and preference information about yourself.
+**User Provided Information:** You may provide to SFMOMA what is generally called "personally identifiable" information (such as your name, postal mailing address, email address, personal/business/mobile telephone number, billing information, and resume/CV) when you register on the SFMOMA Website or through services such as onsite touch-screen kiosks. In addition, SFMOMA may give you the option to provide us with certain demographic and preference information about yourself.
 
 **"Cookies" Information:  ** When you visit the SFMOMA Website, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer.  The use of cookies is common practice and SFMOMA may use both session cookies and persistent cookies.  A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the SFMOMA Website. These persistent types of cookies can be removed.  Each web browser implements different functionality, so please refer to the manuals or technical support resources that are available in conjunction with your web browser to learn the correct way to modify your cookies set-up.  Please note that disabling cookies may prevent you from accessing some of the resources and functionality available via the SFMOMA Website. 
 
@@ -34,7 +34,7 @@ We may share automatically collected and other aggregate non-personally-identifi
 
 Except as otherwise noted in this Privacy Policy, SFMOMA does not share personal information about Users with third parties unless doing so is appropriate to carry out a User’s request, or unless it reasonably believes that doing so is legally required or in SFMOMA's interest in order to protect its property and other legal rights or the property and rights of others.
 
-We do not share personally identifiable information with third-party organizations for their marketing or promotional use: (a) unless we obtain your prior consent, or (b) as part of specific programs or features for which you will have the ability to opt-out.  By way of example, and without limitation, one such program may include sharing your information with [other Bay Area cultural organizations](http://www.theatrebayarea.org/programs/biglist_documents.jsp) through list exchanges designed to pair patrons with organizations whose work might interest them.
+We do not share personally identifiable information with third-party organizations for their marketing or promotional use: (a) unless we obtain your prior consent, or (b) as part of specific programs or features for which you will have the ability to opt-out.  By way of example, and without limitation, one such program may include sharing your information with [other Bay Area cultural organizations](http://www.theatrebayarea.org/Programs/programDocuments/Bay-Area-Big-List-Useful-Documents.cfm) through list exchanges designed to pair patrons with organizations whose work might interest them.
 
 Please see the section entitled “Third Party Service Providers” below which addresses collection and use of your information by third parties (rather than by SFMOMA) to whom you may be redirected from the SFMOMA Website.
 
