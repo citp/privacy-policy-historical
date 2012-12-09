@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531174542id_/http%3A//blogs.alternet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209124903id_/http%3A//www.alternet.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « SoapBox
+# Privacy Policy | Alternet
 
 AlterNet, and our parent organization, the [Independent Media Institute](http://www.alternet.org/about/imi.html), guarantee that we will never, under any circumstances, sell, trade or make public your personal information, unless you designate otherwise. All personal information you provide will remain confidential. In addition, you always will have the option to edit the information provided to us or to have your personal information removed from our records.
 
@@ -47,7 +47,7 @@ Protecting the rights of children is important to us. As a result, we do not col
 AlterNet allows users to opt-out of receiving communications from us and to modify or remove their information from our system. The following options are available to do so:
 
   * Send email to [support@alternet.org](mailto:support@alternet.org);
-  * send mail to: AlterNet, 101 Spear St, Suite 203, San Francisco, CA 94105;
+  * send mail to: AlterNet, 101 Spear St., Ste 230, San Francisco, CA 94105
   * call: 415/284-1420.
 
 
@@ -61,7 +61,7 @@ AlterNet will not use or disclose your personal information without your consent
 If you have any questions about this privacy statement, the practices of this site or your dealings with this website, you can contact:
 
 AlterNet  
-101 Spear St, Suite 203  
+101 Spear St. Ste. 203  
 San Francisco, CA 94105  
 [info@alternet.org](mailto:info@alternet.org)
 
