@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the advicehow.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530063942id_/http%3A//www.advicehow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advicehow.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209035054id_/http%3A//www.advicehow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | VISHY Media on technologies and gadgets
+# Privacy Policy | Advicehow
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
