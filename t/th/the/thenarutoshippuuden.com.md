@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thenarutoshippuuden.com privacy policy that was archived on 2011-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110903172125id_/http%3A//www.thenarutoshippuuden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenarutoshippuuden.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209225939id_/http%3A//www.animeavenue.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Naruto Shippuuden 228
+# Privacy Policy | AnimeAVENUE
 
 This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
 
@@ -22,6 +22,6 @@ We partner with ValueClick to serve ads and/or collect certain information when 
 **Privacy Contact Information**  
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
- _By e-mail: HotNikkels (at) gmail (dot) com_
+ _By e-mail: cobra (at) animeavenue (dot) net_
 
 We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
