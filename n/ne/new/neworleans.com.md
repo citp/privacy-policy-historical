@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neworleans.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523165958id_/http%3A//www.neworleans.com/about-us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neworleans.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209020501id_/http%3A//www.neworleans.com/about-us/privacy.html) for the most accurate reproduction.*
 
 # Privacy & Security | NewOrleans.com
 
