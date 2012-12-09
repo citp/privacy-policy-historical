@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neogaf.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101144720id_/http%3A//www.neogaf.com/forum/showthread.php%3Ft%3D390709) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neogaf.net privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209010855id_/http%3A//www.neogaf.com/forum/showthread.php%3Ft%3D390709) for the most accurate reproduction.*
 
 # Privacy Policy - NeoGAF
 
