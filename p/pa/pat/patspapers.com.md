@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patspapers.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527084606id_/http%3A//www.patspapers.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patspapers.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209085753id_/http%3A//www.patspapers.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pat's Papers
 
@@ -28,4 +28,4 @@ We provide many links to other sites and content. We are not responsible for tha
 There may be exceptions to the confidentiality of your information if we feel we are legally obligated to reveal something, or if you send us threatening or abusive messages.
 
 **CHANGE / QUESTIONS**  
-This privacy policy was updated in March 2009. We reserve the right to change the policy and will post any change on the patspapers.com site. If you have questions or concerns about the privacy policy you may contact us [here](http://www.patspapers.com/contact/).
+This privacy policy was updated in March 2009. We reserve the right to change the policy and will post any change on the patspapers.com site. If you have questions or concerns about the privacy policy you may contact us [here](http://www.patspapers.com/contact).
