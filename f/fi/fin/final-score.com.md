@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the final-score.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605044450id_/http%3A//www.final-score.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the final-score.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209202541id_/http%3A//www.final-score.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
 
-# Final Score - Discount Shoes and Apparel
+# Customer Service - OtherServices - Privacy Policy | Final Score
 
 
 
