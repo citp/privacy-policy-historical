@@ -1,0 +1,540 @@
+<!--The following is the downloaded HTML source of the play2wincasino.com privacy policy that was archived on 2012-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121209042710id_/http%3A//www.play2wincasino.com/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+		<title>At Play2WinCasino your privacy will always be our top priority- rest assure!</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="description" content="You can feel secure when visiting our web site. All your financial transactions will remain undisclosed because your privacy is our top priority!">
+		<meta http-equiv="content-language" content="en">
+						<link type="text/css" rel="stylesheet" href="/styles/styles.css">
+		<link rel="shortcut icon" href="/favicon.ico">
+		<link rel="icon" href="/favicon.ico">
+												<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="/js/jquery.marquee.js"></script>
+		<script type="text/javascript" src="/js/crawler.js"></script><style type="text/css">.marquee{white-space:nowrap;overflow:hidden;visibility:hidden;}#marq_kill_marg_bord{border:none!important;margin:0!important;}</style>
+		<script type="text/javascript" src="/js/jquery.bxSlider.min.js"></script>
+		<script type="text/javascript" src="/js/jcarousellite_1.0.1.pack.js"></script>
+						        <script type="text/javascript">
+        var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-35177926-1']);
+          _gaq.push(['_trackPageview']);
+         
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();         
+        </script>
+	</head>
+
+	<body>
+        	<script language="JavaScript" src="/form_login.js"></script>
+	<script src="/AC_RunActiveContent.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        window.onload = function(){checkLoggedIn('LOGIN','RIVAL_USERNAME',2)};
+    </script>
+
+
+<div id="noDL_swf">
+<script>
+<!--
+AC_FL_RunContent(
+'flashvars', 'casino=Play2Win',
+'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,79,0',
+'width', '1',
+'height', '1',
+'src', 'http://cdn.rivalpowered.com/downloads/clientfiles/common/noDL_logControl',
+'quality', 'high',
+'pluginspage', 'http://www.adobe.com/go/getflashplayer',
+'align', 'middle',
+'play', 'true',
+'loop', 'false',
+'id', 'noDL_logControl',
+'bgcolor', '#869ca7',
+'name', 'noDL_logControl',
+'menu', 'false',
+'allowFullScreen', 'false',
+'allowScriptAccess','always',
+'movie', 'http://cdn.rivalpowered.com/downloads/clientfiles/common/noDL_logControl'
+);
+// -->
+</script>
+</div>		<script type="text/javascript">
+        	var login_messages = new Array();
+        	login_messages['COUNTRY_IP_BLOCKED'] = '';
+        	login_messages['ACCOUNT_LOCKED'] = 'Your account is locked.  Please contact support.';
+        	login_messages['NOT_REG_FOR_REAL'] = 'You are not registered for Real money play. Please register for Real.';
+        	login_messages['COOLOFF'] = 'Your account has been temporarily suspended at your request.';
+        	login_messages['INVALID_USER'] = 'Your user name was not found.';
+        	login_messages['INVALID_PASSWORD'] = 'Your password is not correct.';
+        	login_messages['MAINTENANCE'] = 'The casino is temporarily down for maintenance. Please try back later.';
+        	login_messages['FORGOT_SUCCESS'] = 'Your new password has been emailed to you.';
+        	login_messages['INVALID_EMAIL_SYNTAX'] = 'Invalid email syntax. Please check the email and try again.';
+        	login_messages['Account not found.'] = 'There is no account that matches that email.';
+			function open_login(){
+				$("#quick_login_popup").slideToggle();
+			}
+			function forgot_password_popup(){
+            	if(!$('#forgot_password_popup').is(':data(dialog)')) {
+            		$('#forgot_password_popup').dialog({
+            			autoOpen	: false,
+            			close		: function(event, ui) {},
+            			dialogClass	: 'forgot_password_popup',
+            			draggable	: true,
+            			//height		: 420,
+            			modal		: true,
+            			open		: function(event, ui){},
+            			resizable	: false,
+            			title		: ''
+            		});
+            	}
+            	$('#forgot_password_popup').dialog('open');
+			}
+            function submit_reset_password(){
+				$.post(location.href,$("#forgot_password_form").serialize(),function(data){
+                    $('#forgot_password_popup').dialog('close');
+					if (data=="FORGOT_SUCCESS"){
+                        $("#forgot_success_popup_text").html(login_messages[data]);
+                    	if(!$('#forgot_success_popup').is(':data(dialog)')) {
+                    		$('#forgot_success_popup').dialog({
+                    			autoOpen	: false,
+                    			close		: function(event, ui) {},
+                    			dialogClass	: 'forgot_success_popup',
+                    			draggable	: true,
+                    			//height		: 420,
+                    			modal		: true,
+                    			open		: function(event, ui){},
+                    			resizable	: false,
+                    			title		: ''
+                    		});
+                    	}
+                    	$('#forgot_success_popup').dialog('open');
+					}
+					else {
+                        $("#login_error_popup_text").html(login_messages[data]);
+                    	if(!$('#login_error_popup').is(':data(dialog)')) {
+                    		$('#login_error_popup').dialog({
+                    			autoOpen	: false,
+                    			close		: function(event, ui) {},
+                    			dialogClass	: 'login_error_popup',
+                    			draggable	: true,
+                    			//height		: 420,
+                    			modal		: true,
+                    			open		: function(event, ui){},
+                    			resizable	: false,
+                    			title		: ''
+                    		});
+                    	}
+                    	$('#login_error_popup').dialog('open');
+					}
+                });
+            }
+            function submit_login(){
+				$.post(location.href,$("#quick_login_form").serialize(),function(data){
+					if (data=="SUCCESS"){
+					    location = "/member_cashier";
+	                }
+                    else {
+                        $("#login_error_popup_text").html(login_messages[data]);
+                    	if(!$('#login_error_popup').is(':data(dialog)')) {
+                    		$('#login_error_popup').dialog({
+                    			autoOpen	: false,
+                    			close		: function(event, ui) {},
+                    			dialogClass	: 'login_error_popup',
+                    			draggable	: true,
+                    			//height		: 420,
+                    			modal		: true,
+                    			open		: function(event, ui){},
+                    			resizable	: false,
+                    			title		: ''
+                    		});
+                    	}
+                    	$('#login_error_popup').dialog('open');
+                    }
+				});
+            }
+		</script>
+
+		<div id="forgot_success_popup">
+			<div class="general-popup">
+				<div class="popup_header">
+					<img class="popup_thank_you" src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/popup/thank-you.png">
+					<div class="popup_close_button_top" onclick="$('#forgot_success_popup').dialog('close');"></div>
+				</div>
+				<div class="popup_mid">
+					<div class="popup_mid_text" id="forgot_success_popup_text"></div>
+					<a href="#" onclick="$('#forgot_success_popup').dialog('close');return false;">
+						<img class="popup_close_button" src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/popup/close.png" onmouseover="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/popup/close-hover.png'" onmouseout="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/popup/close.png'">
+					</a>
+				</div>
+			</div>
+        </div>
+		<div id="login_error_popup">
+			<div class="general-popup">
+				<div class="popup_header">
+					<img class="popup_login_failed" src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/popup/login-failed.png">
+					<div class="popup_close_button_top" onclick="$('#login_error_popup').dialog('close');"></div>
+				</div>
+				<div class="popup_mid">
+					<div class="popup_mid_text" id="login_error_popup_text"></div>
+					<a href="#" onclick="$('#login_error_popup').dialog('close');return false;">
+						<img class="popup_close_button" src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/popup/close.png" onmouseover="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/popup/close-hover.png'" onmouseout="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/popup/close.png'">
+					</a>
+				</div>
+			</div>
+        </div>
+		<div id="forgot_password_popup">
+			<img class="popup_retrieve_pass" src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/popup/retrieve-pass.png">
+			<div class="forgot_password_popup_text">
+				Please enter your email address. Your new<br>
+				password will be emailed to the email<br>
+				address in your account profile.
+			</div>
+			<form id="forgot_password_form" name="forgot_password_form" action="" method="post" onsubmit="return false;">
+				<input type="text" class="forgot_password_form_input" name="tx_forgot" value="www@www.com" onclick="this.value=''" onblur="if (this.value=='') this.value='www@www.com';" onfocus="if (this.value=='www@www.com') this.value='';">
+                <input type="hidden" name="submit_forgot">
+				<input type="submit" class="forgot_password_form_button" value="Send" onclick="submit_reset_password();return false;">
+			</form>
+		</div>
+						<div id="ip_bg_wrap">
+					<div id="ip_main_body_wrap">
+						<div id="ip_main_body">
+							<div id="ip_header">
+								<a href="/"><div id="logo"></div></a>
+		
+								<div id="quick_login_popup">
+																			<form id="quick_login_form" action="/member_cashier" method="post" onsubmit="return false;">
+											<input type="text" class="quick_login_form_input" name="tx_username" value="Username" onclick="this.value=''" onblur="if (this.value=='') this.value='Username';" onfocus="if (this.value=='Username') this.value='';">
+											<input type="password" class="quick_login_form_input" name="tx_password" style="margin-bottom: 9px;" value="Password" onclick="this.value=''" onblur="if (this.value=='') this.value='Password';" onfocus="if (this.value=='Password') this.value='';">
+				                            <input type="hidden" name="submit_real">
+											<input type="image" src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/login.png" class="quick_login_form_submit_button" value="" onmouseover="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/login-hover.png'" onmouseout="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/login.png'" onclick="submit_login();return false;">
+											<!--
+											<div class="quick_login_remember_me_wrap">
+												<input type="checkbox" class="quick_login_remember_me" name="remember_me" /> Remember me
+											</div>
+											-->
+										</form>
+										<div class="clear"></div>
+	
+										<div class="registration_links_wrap">
+											<a style="color: red;" href="/register">Register</a> |
+											<a href="javascript:forgot_password_popup();">Forgot password</a>
+										</div>
+										<div class="clear"></div>
+																	</div>
+
+								<div class="sharing_icons_wrap">
+									<!--
+									<img class="sharing_icon" src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/globe.png" />
+									<img class="sharing_icon" src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/fb.png" onmouseover="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/fb-hover.png'" onmouseout="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/fb.png'" />
+									<img class="sharing_icon" src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/gp.png" onmouseover="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/gp-hover.png'" onmouseout="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/gp.png'" />
+									<img class="sharing_icon" src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/tt.png" onmouseover="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/tt-hover.png'" onmouseout="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/tt.png'" />
+									<img class="sharing_icon" src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/tt-30.png" onmouseover="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/rss-hover.png'" onmouseout="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/tt-30.png'" />
+									-->
+
+									<div id="flags">
+			    						<div id="flags_right">
+			                                <div id="chosen_row">
+			                                    <div id="chosen_row_left">
+			                                        <div class="left">English</div>
+			                                        <div class="right"><img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/us.gif" alt="en"></div>
+			                                    </div>
+			                                    <div id="chosen_row_right"></div>
+			                                </div>
+			                                <div id="flags_drop_down">
+			                                    <div class="lang_row" onclick="location='/';">
+			                                        <div class="lang_row_left"></div>
+			                                        <div class="lang_row_mid">
+			                                            <div class="left"><a href="/">English</a></div>
+			                                            <div class="right"><a href="/"><img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/us.gif" alt="English"></a></div>
+			                                        </div>
+			                                        <div class="clear"></div>
+			                                    </div>
+			                                    <div class="lang_row" onclick="location='/fr/';">
+			                                        <div class="lang_row_left"></div>
+			                                        <div class="lang_row_mid">
+			                                            <div class="left"><a href="/fr/">Francais</a></div>
+			                                            <div class="right"><a href="/fr/"><img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/fr.png" alt="Francais"></a></div>
+			                                        </div>
+			                                        <div class="clear"></div>
+			                                    </div>
+			                                    <div class="lang_row" onclick="location='/es/';">
+			                                        <div class="lang_row_left"></div>
+			                                        <div class="lang_row_mid">
+			                                            <div class="left"><a href="/es/">Español</a></div>
+			                                            <div class="right"><a href="/es/"><img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/es.png" alt="Español"></a></div>
+			                                        </div>
+			                                        <div class="clear"></div>
+			                                    </div>
+                                                <!--<div class="lang_row" onclick="location='/it/';">
+			                                        <div class="lang_row_left"></div>
+			                                        <div class="lang_row_mid">
+			                                            <div class="left"><a href="/it/">Italiano</a></div>
+			                                            <div class="right"><a href="/it/"><img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/it.png" alt="Italiano" /></a></div>
+			                                        </div>
+			                                        <div class="clear"></div>
+			                                    </div>-->
+			                                    <!--<div class="lang_row" onclick="location='/de/';">
+			                                        <div class="lang_row_left"></div>
+			                                        <div class="lang_row_mid">
+			                                            <div class="left"><a href="/de/">Deutsch</a></div>
+			                                            <div class="right"><a href="/de/"><img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/de.png" alt="Deutsch" /></a></div>
+			                                        </div>
+			                                        <div class="clear"></div>
+			                                    </div>
+			                                    <div class="lang_row" onclick="location='/nl/';">
+			                                        <div class="lang_row_left"></div>
+			                                        <div class="lang_row_mid">
+			                                            <div class="left"><a href="/nl/">Nederlands</a></div>
+			                                            <div class="right"><a href="/nl/"><img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/nl.png" alt="Nederlands" /></a></div>
+			                                        </div>
+			                                        <div class="clear"></div>
+			                                    </div>-->
+			                                </div>
+			                                <div class="clear"></div>
+			    						</div>
+			    					</div>
+								</div>
+
+								<div id="upper_menu">
+									<a href="/">
+										<div class="upper_menu_item_home">
+											Home
+										</div>
+									</a>
+									<div class="upper_menu_devider"></div>
+									<a href="/download">
+										<div class="upper_menu_item">
+											Download
+										</div>
+									</a>
+									<div class="upper_menu_devider"></div>
+									<a href="/casino_games">
+										<div class="upper_menu_item">
+											Casino Games
+										</div>
+									</a>
+									<div class="upper_menu_devider"></div>
+									<a href="/getting_started">
+										<div class="upper_menu_item">
+											Getting Started
+										</div>
+									</a>
+									<div class="upper_menu_devider"></div>
+									<a href="/promotions">
+										<div class="upper_menu_item">
+											Promotions
+										</div>
+									</a>
+									<div class="upper_menu_devider"></div>
+									<a href="/cashier">
+										<div class="upper_menu_item">
+											Cashier
+										</div>
+									</a>
+									<div class="upper_menu_devider"></div>
+									<a href="/support">
+										<div class="upper_menu_item">
+											Support
+										</div>
+									</a>
+								</div>
+																				<script type="text/javascript">
+									$(document).ready(function(){
+										$('#ip_top_pic').bxSlider({
+											auto: true,
+								    		autoControls: false,
+								    		speed: 2000,
+								    		pause: 4500,
+								    		autoControls : false,
+								    		mode: 'fade' //'vertical', 'fade'
+								    		//easing : 'swing'
+								    	});
+									});
+								</script>
+															<div id="ip_top_pic_wrap">
+									<div id="ip_top_pic">
+																						<a href="/us/christmas"><img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/ip_banners/christmas.jpg" alt="Merry Christmas"></a>
+																															<img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/ip_banners/banner_1.jpg">
+											<img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/ip_banners/macao.jpg">
+											<img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/ip_banners/roulette.jpg">
+											<img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/ip_banners/slots.jpg">
+																			</div>
+									<a href="/download" target="_blank"><img class="ip_free_download" src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/image-free-download.png" onmouseover="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/image-free-download-hover.png'" onmouseout="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/image-free-download.png'"></a>
+									<a href="/casino_games"><img class="ip_play_now" src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/image-play-now.png" onmouseover="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/image-play-now-hover.png'" onmouseout="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/image-play-now.png'"></a>
+								</div>
+								<div class="clear"></div>
+							</div>
+
+							<div id="ip_middle_section">
+													<div id="ip_middle_section_L_column">
+									<div class="ip_title_wrap">
+										<div class="ip_title_border">
+											<img class="ip_title" src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/privacy_policy/privacy_policy-title1.png" alt="Privacy Policy">
+										</div>
+									</div>
+									<div class="download_n_live_help_box_wrap">
+										<a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/28155771/?cmd=file&amp;file=visitorWantsToChat&amp;site=28155771&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1c" target="chat28155771" onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/28155771/?cmd=file&amp;file=visitorWantsToChat&amp;site=28155771&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1c&amp;referrer='+escape(document.location);lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof(lpMTag)!='undefined' &amp;&amp; typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat28155771','width=475,height=400,resizable=yes');return false;">
+											<img class="live_help_button" src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/live-help1.png" onmouseover="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/live-help1-hover.png'" onmouseout="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/live-help1.png'">
+										</a>
+										<div class="download_n_live_help_box">
+											<a href="/download" target="_blank"><img class="ip_free_download" src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/image-free-download.png" onmouseover="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/image-free-download-hover.png'" onmouseout="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/image-free-download.png'"></a>
+											<a href="/casino_games"><img class="ip_play_now" src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/image-play-now.png" onmouseover="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/image-play-now-hover.png'" onmouseout="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/image-play-now.png'"></a>
+										</div>
+									</div>
+									<div class="clear"></div>
+								</div>
+								<div id="ip_middle_section_R_column">
+											<div id="ip_middle_section_menu_short">
+							<div class="ip_middle_section_menu_L">
+
+								<a href="/security">
+									<img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/privacy_policy/security-off.png" alt="Security" onmouseover="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/privacy_policy/security-hover.png'" onmouseout="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/privacy_policy/security-off.png'">
+								</a>
+
+								<img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/privacy_policy/privacy-policy-on.png" alt="Privacy Policy">
+
+							</div>
+							<div class="ip_middle_section_menu_R">
+
+								<a href="/fair_play">
+									<img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/privacy_policy/fair-play-off.png" alt="Fair Play" onmouseover="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/privacy_policy/fair-play-hover.png'" onmouseout="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/privacy_policy/fair-play-off.png'">
+								</a>
+
+								<a href="/fraud_prevention">
+									<img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/privacy_policy/fraud-off.png" alt="Fraud Prevention" onmouseover="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/privacy_policy/fraud-hover.png'" onmouseout="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/privacy_policy/fraud-off.png'">
+								</a>
+
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="ip_middle_section_R_text_container">
+
+							<img src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/privacy_policy/privacy_policy-title2.png">
+							<br><br>
+							<div class="ip_short_subtitle">
+								<strong>YOUR PERSONAL INFORMATION</strong>
+							</div>
+							<div class="ip_text_box">
+								When you register on our website, play any of our games, make a player or customer query, you will be asked for some personal information. This is so because we need that information to be able to identify you from then on. We will be asking for contact information such as your first and last name, address (both home and email), phone number and also your credit card information. You will generally be asked to include your personal information when trying to access a game, receive a promotion, and carry out a financial transaction. However, not all Play2WinCasino web site areas will require this kind of information. Play2win also collects other type of data like information on the amount of visitors, the place where they are located, how long they surf the site, which banners or links they have followed to reach the site, the kind of games they like playing, etc. This type of data will remain anonymous and will not be associated with any individual person. However, we might gather personal data if you have reached our site through an affiliate so as to be able to produce some kind of compensation for such affiliate.  <br><br>
+							</div>
+
+							<div class="ip_short_subtitle">
+								<strong>COOKIES</strong>
+							</div>
+							<div class="ip_text_box">
+								Whenever you register your personal information on our site, we have the right to send to your computer permanent cookies. These cookies consist in small-sized files that are sent to your pc’s hard drive and they are instrumental in keeping records.  These cookies keep track of the advertisements you pressed, which game you’ve played, which links you’ve clicked on that directed you to our site. All this will help us identify you when you visit us the following time. Cookies help us keep a record of your site movements’ history and we’ll be able to offer you tailor-made serviced based on that information. You are not compelled to store cookies sent from our site or any other site, for that matter. However, if you do not accept our cookies, we can refuse access (or just limit it) to our site.    <br><br>
+							</div>
+							<div class="ip_311_subtitle">
+								<strong>HOW IS YOUR INFORMATION USED</strong>
+							</div>
+							<div class="ip_text_box">
+								Once you register, your personal date will be used to: (1) create your Play2WinCasino account, (2) provide you with a Play2WinCasino account number, (3) give you full access to your Play2WinCasino bank transactions, (4) give you access to 24/7 customer support, (5) send you data on other related promotions or products you might find of interest. We might share your personal date with our employers or partners or business agents working for us. We will not disclose your personal information with people or entities not working on our behalf, except if we might find it absolutely necessary to fulfill any of your transactions. If we happen to disclose such data with people who do not work for our company, it will be subject to an express agreement on their behalf not to disclose any of your data and treat it as confidential. They will also have to agree to use your information for the only purpose of carrying out their obligations and duties to our company. In the case of having to perform any kind of business reorganization or going bankrupt, we might find it necessary to sell our assets. In that case, your personal information might be also transferred. Our company might need to use your personal data to get in touch with you in case of changes your account may undergo or to check any financial transaction we might need to validate. We reserve the right to disclose your personal data when it might prove necessary to abide by any regulations or applicable laws, or to enforce the Play2WinCasino <a href="/terms_conditions">Terms and Conditions</a>.<br><br>
+							</div>
+
+							<div class="ip_short_subtitle">
+								<strong>MARKETING NTIFICATIONS</strong>
+							</div>
+							<div class="ip_text_box">
+								Once you have registered, you agree that we are entitled to send you different emails, messages or any type of notification (like phone calls, etc) on contests, special promotions, weekly bonuses, surveys, raffles and newsletters. We are likely to attach to any of these messages a traceable URL or any other type of program so as to check the effectiveness of the messages. These mechanisms help us confirm if you have opened the emails we sent you or if you have responded to our notification. You may request to stop these messages at any time, just by sending us a mail reading the word “Remove”? as part of its subject matter. You may also do so by getting in touch with one of our customer service staff.
+  								<br><br>
+							</div>
+
+							<div class="ip_long_subtitle">
+								<strong>SHARING &amp; CONTROL OF YOUR PERSONAL INFORMATION</strong>
+							</div>
+							<div class="ip_text_box">
+								Under no circumstances will we sell, rent or exploit commercially any of your personal data to a third party. You can always edit and update your personal information by logging into your Play2WinCasino account.
+  								<br><br>
+
+							</div>
+
+							<div class="ip_short_subtitle">
+								<strong>MISCELLANEOUS</strong>
+							</div>
+							<div class="ip_text_box">
+							Privacy Statements may undergo changes. We have the right to modify and change this privacy Statement without any prior notice. Any modification will come into effect as soon as it is posted. From here on, it is your responsibility to review our Privacy Statement to check any modification that could have been made.  Please, contact the following address <a href="mailto:support@play2wincsasino.com">support@play2wincsasino.com</a>. should you have any queries about our Privacy Statement or our information protection practices.     <br><br>
+
+							</div>
+
+							<div class="ip_short_subtitle">
+								<strong>SECURITY</strong>
+							</div>
+							<div class="ip_text_box">
+							At Play2WinCasino we take security policies seriously and that’s why we have devised different measures and rules to protect you from any possible illegal access, disclosure of information, unlawful modification, improper use, illicit destruction or any possible accidental loss of information. Every employee and account managers, who can access and process information, are compelled to comply with our privacy policies.      <br><br>
+
+							</div>
+
+							<div class="ip_long_subtitle">
+								<strong>PROTECTING CHILDREN FROM ONLINE GAMBLING</strong>
+							</div>
+							<div class="ip_text_box">
+								Al Play2WinCasino, we are truly concerned about protecting minors’ security. Minors are not allowed to register, engage in games, or take part in any kind of Play2WinCasino activity. If we detect that an account has been unlawfully registered by a minor, the account will be automatically closed and all personal data will be erased from the Play2WinCasino system. It’s advisable that parents should check the sites children visit and spend time online with them so as to make sure they do not engage in any illegal activity.
+								Please, contact our Customer Support Staff 24/7 should you have any doubts with regards to any of our security policies. Our staff will gladly assist you any time you might need it.  <br><br>
+							</div>
+						</div>
+						<!--<a href="http://play2win.mipo.co.il/dev_html/getting-started.html">
+							<img id="next_step_button" src="http://cdn.rivalpowered.com/content/BestPay/play2win/images/about_us/next-step-button.png" onmouseover="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/about_us/next-step-button-hover.png'" onmouseout="this.src='http://cdn.rivalpowered.com/content/BestPay/play2win/images/about_us/next-step-button.png'" />
+						</a>-->
+						<div class="clear"></div>
+					</div>
+
+							<div class="clear"></div>
+					</div>
+				</div> <!-- here ends the main_body -->
+			</div>
+		</div>
+		<div id="ip_footer_wrap">
+			<div id="ip_footer_shadow">
+				<div id="ip_footer">
+						<div class="footer_text_row">
+						<a href="/about_us">About Us</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="/security">Security</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="/fair_play">Fair Play</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="/responsible_gaming">Responsible Gaming</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="/faq">FAQ</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="/privacy_policy">Privacy Policy</a>&nbsp;&nbsp; | &nbsp;&nbsp; <a href="/terms_conditions">Terms &amp; Conditions</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="/affiliates" target="_blank">Affiliates</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="/sitemap">Sitemap</a>
+					</div>
+					<div class="footer_text_row">
+						Copyright 2012 © Play2Win Casino. All Rights Reserved
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!--<script type="text/javascript">
+		
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-12549728-2']);
+		  _gaq.push(['_trackPageview']);
+		
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		
+		</script>-->
+		<script type="text/javascript">
+			$('#flags').hover(
+			  function () {
+			    $('#flags_drop_down').show();
+			  },
+			  function () {
+		
+			    $('#flags_drop_down').hide();
+			  }
+			);
+		
+								$(window).scroll(function() {
+					    if ($(window).height() < 745 && ($(window).scrollTop() > ($(document).height() - 480 - 200))){
+					       $(".download_n_live_help_box_wrap").css({position:"absolute",top:($(document).height() - 480 - 500) + "px"});
+						}
+						else if($(window).scrollTop() > 480){
+					       $(".download_n_live_help_box_wrap").css({position:"fixed",top:"20px"});
+						}
+					    else if ($(window).scrollTop() < 480)
+					       $(".download_n_live_help_box_wrap").css({position:"absolute",top:"200px"});
+				    });
+					
+		
+		</script>
+
+	
+</body></html>
