@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peopleofwalmart.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603042804id_/http%3A//www.peopleofwalmart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleofwalmart.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209071343id_/http%3A//www.peopleofwalmart.com/privacy-policy) for the most accurate reproduction.*
 
 # Funny Pictures at WalMart Privacy Policy
 
@@ -107,3 +107,9 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 **ARTICLE 15.   European Union and Other Foreign Nations**
 
 15.1        This Website is governed by and operated in accordance with the laws of United States of America and is intended for enjoyment of residents of the United States.  ALA makes no representation that this Website is governed by or operated in accordance with the laws of other nations.  By using this Website and submitting any personal information, visitors from outside of the United States acknowledge the this Website is subject to U.S. law, consent to the transfer of personal data to the U.S., and waive any claims that may arise under their own national laws.
+
+Rating: 1.0/ **10** (1 vote cast)
+
+Rating: **-2** (from 2 votes)
+
+Privacy Policy, 1.0 out of 10 based on 1 rating 
