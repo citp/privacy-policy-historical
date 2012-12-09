@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridge.edu privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603031328id_/http%3A//www.bridge.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridge.edu privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209051533id_/http%3A//www.bridge.edu/privacy-policy) for the most accurate reproduction.*
 
 # Bridge-Linguatec - TEFL Teacher Training, Corporate English Programs, and University Study Abroad
 
