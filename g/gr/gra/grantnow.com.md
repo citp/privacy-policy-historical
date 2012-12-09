@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grantnow.com privacy policy that was archived on 2012-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120426222656id_/http%3A//www.grantnow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grantnow.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209221503id_/http%3A//www.grantnow.com/privacy.php) for the most accurate reproduction.*
 
 # Grant Now - Government and Federal Grants
 
