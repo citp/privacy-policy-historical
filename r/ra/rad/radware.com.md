@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radware.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610210606id_/http%3A//www.radware.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radware.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210170042id_/http%3A//www.radware.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Radware: Privacy Policy
 
