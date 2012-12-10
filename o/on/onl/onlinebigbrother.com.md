@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinebigbrother.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609073320id_/http%3A//www.onlinebigbrother.com/onlinebigbrother-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinebigbrother.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210095206id_/http%3A//www.onlinebigbrother.com/onlinebigbrother-privacy-policy) for the most accurate reproduction.*
 
-# Onlinebigbrother Privacy Policy
+# Onlinebigbrother Privacy Policy Big Brother 15 Spoilers | OnlineBigBrother Live Feed Updates
 
 Privacy Policy for onlinebigbrother.com
 
