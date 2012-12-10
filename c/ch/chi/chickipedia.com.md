@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chickipedia.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617025005id_/http%3A//www.mademan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chickipedia.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210095429id_/http%3A//www.mademan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mademan.com
 
@@ -30,7 +30,7 @@ We maintain archives of our web logs, database, and other systems and informatio
 
 **What do we do with the information we collect?**
 
-**1.** It is used to set up and maintain your MadeMan.com account. If you provide us with your mobile phone information, we may use such information to communicate with you regarding MadeMan.com by SMS, MMS, text message or other electronic means to a mobile device.
+**1.** It is used to set up and maintain your MadeMan.com account. If you provide us with your mobile [phone](http://www.mademan.com/tag/phone/) information, we may use such information to communicate with you regarding MadeMan.com by SMS, MMS, text message or other electronic means to a mobile device.
 
 **2.** Your phone number may be used in the event that our customer service representatives need to contact you and cannot reach you by email.
 
