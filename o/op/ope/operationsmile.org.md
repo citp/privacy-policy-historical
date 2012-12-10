@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the operationsmile.org privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621231137id_/http%3A//www.operationsmile.org/misc/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the operationsmile.org privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210014139id_/http%3A//www.operationsmile.org/misc/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Operation Smile
 
-We recognize that visitors to our site may be concerned about the information they provide to us, and how we treat that information. At Operation Smile, we understand that privacy is a very important issue for visitors to our website and hope we have addressed any concern you may have. This policy may be changed or updated from time to time so please review it periodically to ensure you stay informed of those changes. 
+We recognize that visitors to our site may be concerned about the information they provide to us, and how we treat that information. At Operation Smile, we understand that privacy is a very important issue for visitors to our website and hope we have addressed any concern you may have. This policy may be changed or updated from time to time so please review it periodically to ensure you stay informed of those changes.
 
 If you have any questions about our Privacy Policy, you can contact us at: 
 
@@ -14,7 +14,7 @@ Fax: (757) 321-7660
 
 ### NOTE TO PARENTS AND CHILDREN
 
-Operation Smile is concerned about the protection of online privacy for all our website users. We are particularly respectful of the privacy of our young users. We encourage parents to monitor their children's use of the Internet and to help us protect their privacy by instructing them never to provide personal information on this site or any other without permission. We will never attempt to extract unnecessary information from our users, regardless of age. 
+Operation Smile is concerned about the protection of online privacy for all our website users. We are particularly respectful of the privacy of our young users. We encourage parents to monitor their children's use of the Internet and to help us protect their privacy by instructing them never to provide personal information on this site or any other without permission. We will never attempt to extract unnecessary information from our users, regardless of age.
 
 ### INFORMATION COLLECTION AND USE
 
@@ -28,11 +28,19 @@ We care about the safety and security of your transaction. We use high grade enc
 
 #### Personal Information Security
 
-In addition to maintaining privacy and security controls over information you share with us, Operation Smile works to accurately process your contribution and volunteer information. Operation Smile employs error checking procedures to make certain transactions are processed completely and accurately. As necessary, changes are made to improve our systems. And, independent external and internal audits are conducted to ensure the privacy, security and appropriate processing of your information on our site. During business hours, staff is available to answer questions about your financial donation or personal information at 1-888-OPSMILE (1- 888-677-6453). 
+In addition to maintaining privacy and security controls over information you share with us, Operation Smile works to accurately process your contribution and volunteer information. Operation Smile employs error checking procedures to make certain transactions are processed completely and accurately. As necessary, changes are made to improve our systems. And, independent external and internal audits are conducted to ensure the privacy, security and appropriate processing of your information on our site. During business hours, staff is available to answer questions about your financial donation or personal information at 1-888-OPSMILE (1- 888-677-6453).
 
-**Communications Preferences**
+#### Email Privacy
 
-We strive for accurate, respectful and relevant communications with our donors.  We occasionally exchange donor lists with select nonprofit groups. If you would like to correct or update your personal information, modify your mailing preferences, or if you do not wish to participate in our list exchange activities, please contact our Donor Relations Team at 888-677-6453, Monday - Saturday 8:30 a.m. - 11:00 p.m. EST, Sunday 8:30 a.m. - 5:00 p.m. EST, please [contact us](http://www.operationsmile.org/about_us/contact-us/) or alert us via postal mail at our headquarters.
+We are committed to keeping your email address confidential. Operation Smile complies fully with the federal [CAN-SPAM Act of 2003](http://business.ftc.gov/documents/bus61-can-spam-act-compliance-guide-business). We will not share, sell, rent, lease, swap or authorize any third party to use your email address for any purpose without your permission. We will use your email address solely to communicate information related to Operation Smile and will maintain any information you send via email to us in accordance with applicable federal law.
+
+If you received an email from us, your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving email communications from us, or you have donated to us, purchased from us or otherwise have an existing relationship with us.
+
+We respect your time and attention by controlling the frequency of our emails. However, you may modify your email preferences at any time. Each email sent contains an easy, automated way for you to change your expressed interests, or to cease receiving email from us altogether. If you would like to modify your preferences, simply follow the instructions at the end of any email you receive from us.
+
+#### Communications Preferences
+
+We strive for accurate, respectful and relevant communications with our donors. We occasionally exchange donor lists with select nonprofit groups. If you would like to correct or update your personal information, modify your mailing preferences, or if you do not wish to participate in our list exchange activities, please contact our Donor Relations Team at 888-677-6453, Monday - Saturday 8:30 a.m. - 11:00 p.m. EST, Sunday 8:30 a.m. - 5:00 p.m. EST, please [contact us](http://www.operationsmile.org/about_us/contact-us/) or alert us via postal mail at our headquarters.
 
 ### EXTERNAL LINKS
 
@@ -54,7 +62,7 @@ To measure performance, Google uses small strings of text (known as cookies) tha
 
 If you'd like to know more about how Google handles information gathered from the use of cookies, please read Google's privacy policy (<http://www.google.com/privacy.html>). If you want to disable the use of cookies, you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Be aware, however, that some websites may not function properly if you refuse to accept cookies.
 
-## Copyright Statement
+#### COPYRIGHT STATEMENT
 
 All material on webpages under the domain operationsmile.org is, unless otherwise stated, the property of Operation Smile Inc. These materials are protected by copyright and other intellectual property laws. Information received through this website may be displayed, reformatted, and printed for your personal, noncommercial use only. You may not reproduce or retransmit the materials, in whole or in part, in any manner, without the prior written consent of Operation Smile, Inc. with the following exception only: You may make single copies of the materials available through this website, solely for your personal, noncommercial use, and only if you preserve any copyright or other notices contained in or associated with them. You may not distribute such copies to others, whether or not in electronic form, whether or not for a charge or other consideration, without prior written consent of the owner of the materials. 
 
