@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edrugsearch.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618144153id_/http%3A//www.edrugsearch.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edrugsearch.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210180841id_/http%3A//www.edrugsearch.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,7 +23,7 @@ eDrugSearch.com collects personal information when you register with eDrugSearch
 
 When you register we ask for information such as your name, gender, email address, zip code, etc... Once you register with eDrugSearch.com and sign in to our services, you are not anonymous to us.
 
-eDrugSearch.com automatically receives and records information on our server logs from your browser, including your IP Adresses, and the page you request.
+eDrugSearch.com automatically receives and records information on our server logs from your browser, including your IP, and the page you request.
 
 eDrugSearch.com uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
 
@@ -37,16 +37,20 @@ We may use cookies, for example, to keep track of your preferences and profile i
 
 ##  Third Party Cookies
 
-The use of cookies by our partners, affiliates, tracking utility company, service providers, etc… is covered by our privacy statement. We do have access or control over these cookies. Our pharmacy partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc. 
+The use of cookies (session ID and persistent) by our partners, affiliates, tracking utility company, service providers, etc… is covered by our privacy policy. We do have access or control over these cookies. Our pharmacy partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc. 
+
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do [not] tie the information gathered to our Customers’ or Users’ personal information. 
+
+  
+
 
 ### _Information Sharing and Disclosure_
 
 eDrugSearch.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
-  * We provide the information to trusted partners who work on behalf of or with eDrugSearch.com under confidentiality agreements. These companies may use your personal information to help eDrugSearch.com communicate with you about offers from eDrugSearch.com and our marketing partners. However, these companies do not have any independent right to share this information.
+  * We provide the information to trusted partners who work on behalf of or with eDrugSearch.com under confidentiality agreements. These companies may use your personal information to help eDrugSearch.com communicate with you about offers from eDrugSearch.com and our marketing partners. However, these companies do not have any independent right to share this information. These companies are authorized to use your personal information only as necessary to provide these services to us.
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
   * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of eDrugSearch.com's terms of service, or as otherwise required by law.
-  * eDrugSearch.com displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, men ages 18-24 from a particular geographic area.
   * eDrugSearch.com does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
 
 
@@ -60,9 +64,9 @@ eDrugSearch.com does not rent, sell, or share personal information about you wit
 
 You can edit your eDrugSearch.com Member Account Information, at any time.
 
-## Updating/Accessing/Amending/Correcting Personally Identifiable Information
+## Updating/Accessing/Amending/Correcting Personal Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, amend, delete/remove or deactivate it] by making the change on our member information page [or by emailing our Customer Support at [info@edrugsearch.com](mailto:info@edrugsearch.com) ] or by contacting us by telephone at 210-789-2973 or postal mail at the contact information listed below.
+If your personally information changes, or if you no longer desire our service, you may [correct, update, amend, delete/remove or deactivate it] by making the change on our member information page [or by emailing our Customer Support at [info@edrugsearch.com](mailto:info@edrugsearch.com) ] or by contacting us by telephone at 210-789-2973 or postal mail at the contact information listed below.
 
 We reserve the right to send you certain communications relating to the eDrugSearch.com service, such as service announcements and administrative messages that are considered part of your eDrugSearch.com account, without offering you the opportunity to opt-out of receiving them. If you no longer wish to receive these emails you can cancel your account by contacting the eDrugSearch.com Site Admin at [info@edrugsearch.com](mailto:info@edrugsearch.com) or you can login click on the “Settings” tab and then click “Delete” account; all your account information will be permanently erased from our servers.
 
@@ -92,7 +96,7 @@ When you enter sensitive information (such as personal health information) on ou
 
 ## Data Retention
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@edrugsearch.com](mailto:info@edrugsearch.com).  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@edrugsearch.com](mailto:info@edrugsearch.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ## Changes to this Privacy Policy
 
@@ -100,11 +104,19 @@ eDrugSearch.com may update this policy. We will notify you about significant or 
 
 NOTICE: [Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm) for important information about safe surfing from the Federal Trade Commission. 
 
-Effective Date: September 22, 2011
+Effective Date: August 22, 2012
 
 ## Links to Other Web Sites 
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of eDrugSearch.com. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+Our Site includes links to other Web sites whose privacy practices may differ from those of eDrugSearch.com. If you submit personal information to any of those sites, your information is governed by their privacy policy. We encourage you to carefully read the privacy policy of any Web site you visit.
+
+## Single Sign-On
+
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
+## Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 ## Public Forums 
 
@@ -119,8 +131,8 @@ We use this information to notify contest winners, award prizes, _to monitor sit
 We may use a third party service provider to conduct these surveys or contests; that company is prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice. 
 
 Here is our physical mailing address:   
-2588 SCENIC LOOP RD  
-San Antonio, Texas 78255  
+P.O. Box 1068  
+Spring Branch, Texas 78070  
 (210) 789-2973 
 
 ## Message Board Rules and Regulations
