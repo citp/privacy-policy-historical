@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rssmountain.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611184710id_/http%3A//www.rssmountain.com/privacyandsecurity.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rssmountain.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210120758id_/http%3A//www.rssmountain.com/privacyandsecurity.php) for the most accurate reproduction.*
 
 # RSSMountain - Privacy and Security
 
@@ -13,7 +13,7 @@ RSSMountain.COM®, recognizes and respects the importance of maintaining the pri
 • how we use it, and  
 • the choices you have regarding our use of personal information you have provided.
 
-This Privacy Policy is part of the [Terms of Use](https://web.archive.org/web/20120611184710id_/http%3A//www.rssmountain.com/termsofuse.php), which governs your use of our web site located at www.RSSMountain.COM® or the "Web Site"). The Web Site is owned by RSSMountain.com, Inc. (the "Company"). 
+This Privacy Policy is part of the [Terms of Use](https://web.archive.org/web/20121210120758id_/http%3A//www.rssmountain.com/termsofuse.php), which governs your use of our web site located at www.RSSMountain.COM® or the "Web Site"). The Web Site is owned by RSSMountain.com, Inc. (the "Company"). 
 
 _Note: You must be 18 years or older to use, subscribe or register as a member of RSSMountain.COM®. The Web Site is a general audience site and we do not knowingly collect, maintain or disclose personal information from or about children.  
 _  
