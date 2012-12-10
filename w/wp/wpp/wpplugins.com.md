@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpplugins.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611151624id_/http%3A//wpplugins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpplugins.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210175343id_/http%3A//wpplugins.com/privacy-policy) for the most accurate reproduction.*
 
 # Premium WordPress Plugins at WP Plugins - Privacy Policy
 
