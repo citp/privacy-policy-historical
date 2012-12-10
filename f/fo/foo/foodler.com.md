@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foodler.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531140128id_/http%3A//www.foodler.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodler.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210164921id_/http%3A//www.foodler.com/privacy.do) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Foodler
 
 ## Information Collection
 
@@ -24,7 +24,7 @@ We use "cookies" (small text files stored in your internet browser) to enhance y
 
 ## Security Information
 
-We always use industry standard encryption technologies, such as 128 bit SSL encryption, when transferring and receiving private consumer data on our site. This information can only be translated once it's received by our secure servers. These secure servers help to protect against the loss, misuse or alteration of information that we have collected from you through our Web site.
+We always use industry standard encryption technologies, such as 256-bit SSL encryption, when transferring and receiving private consumer data on our site. This information can only be translated once it's received by our secure servers. These secure servers help to protect against the loss, misuse or alteration of information that we have collected from you through our Web site.
 
 ## Policy Changes
 
