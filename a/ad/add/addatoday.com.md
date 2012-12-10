@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the addatoday.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611040152id_/http%3A//www.addatoday.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addatoday.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210180340id_/http%3A//www.addatoday.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Bollywood Box Office India, Collections, News, Business, Reports, Reviews.
+# PRIVACY POLICY | Addatoday.com
 
 Adda Today respect your privacy and we are committed to safeguarding it while you are online at our site.
 
