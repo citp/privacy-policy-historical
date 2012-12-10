@@ -1,0 +1,207 @@
+<!--The following is the downloaded HTML source of the yesclick.com privacy policy that was archived on 2012-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121210051014id_/http%3A//yesclick.com/privacy_policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <title>YesClick - Largest Pay-Per-Click Search Engine Advertising Network</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+
+    <link rel="stylesheet" type="text/css" href="/new_templates/css/reset.css" media="all">
+    <link rel="stylesheet" type="text/css" href="/new_templates/css/style.css" media="all">
+    <!--[if IE]>
+    <link rel="stylesheet" type="text/css" href="/new_templates/css/style.ie.css" media="all" />
+    <![endif]-->
+	<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" src="js/ui/jquery-ui.js"></script>
+	<script type="text/javascript" src="js/jquery.template.js"></script>
+	<script type="text/javascript" src="js/jquery.validate.js"></script>
+	<script type="text/javascript" src="js/jquery.form.js"></script>
+
+  </head> 
+  <body>
+    <div id="wrapper">
+      <div id="header-wrapper">
+        <div id="header">
+          <a href="/" id="header-logo" title="YES Click"></a>
+
+          <div id="header-information">
+            <div class="block todays-search-volume">
+              <h3>Today's search volume</h3>
+              <ul>
+                <li><strong>Queries:</strong><span id="queries-delivered">300,336,812</span></li>
+                <li><strong>Updated:</strong><span>12/10/2012</span></li>
+              </ul>
+            </div><!-- #header-information .todays-search-volume -->
+            <div class="block choose-your-language">
+              <div align="center">
+                <h3>Contact our experts</h3>
+                <ul>
+                    <li>
+                        <input type="button" name="sign-cont" value="Support: Online" class="button green small" onclick="window.location='/contactus.php'">
+                    </li>
+                </ul>
+                </div>
+            </div><!-- #header-information .choose-your-language -->
+            <script type="text/javascript">
+var login_err_msg = 'Please, fill in your login and password';
+
+function check_login_form() {
+    var fields = $(':input', document.login_form);
+    if (!fields.filter('[name=login]').val() || !fields.filter('[name=pwd]').val()) {
+        alert(login_err_msg);
+        return false;
+    }
+    return true;
+}
+function check_reminder_form() {
+	var fields = $(':input', document.reminder_form);
+    if (!fields.filter('[name=email]').val()) {
+        alert("Enter your Email");
+        return false;
+    }
+    return true;
+}
+function toggle_forms() {
+    $('#login_panel_container:visible').slideToggle('slow', function() {$('#reminder_panel_container').slideToggle('clip');});
+    $('#reminder_panel_container:visible').slideToggle('slow', function() {$('#login_panel_container').slideToggle('clip');});
+}
+function send_check_login() {
+	if (!check_login_form()) {
+		return false;
+	}
+	type = $(':radio[name=type]').filter(':checked').val();
+	if (type == 1) {
+		$('#login_panel_container').attr('action', 'https://publishers.yesclick.com/index.php');
+	} else {
+		$('#login_panel_container').attr('action', 'https://advertisers.yesclick.com/index.php');
+	}
+}
+</script>
+
+<div class="block sign-in">
+    <form name="login_form" id="login_panel_container" method="POST" action="http://publishers.yesclick.com/index.php" onsubmit="return send_check_login()">
+        
+        <div class="row">
+            <div class="left">
+                <h3>Sign in</h3>
+            </div>
+            <div class="right">
+                <input type="button" name="sign-up" value="Registration" class="button green small" onclick="window.location='/signup.php'">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="left">
+                <input type="text" name="login" value="" data-placeholder="Login">
+            </div>
+            <div class="right">
+                <input type="password" name="pwd" value="" data-placeholder="Password">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="left">
+                <label>
+                <input type="radio" name="type" value="0"> Advertiser
+                </label>
+                <label>
+                <input type="radio" name="type" value="1" checked="1"> Publisher
+                </label>
+            </div>
+            <div class="right">
+                <a href="#" onclick="toggle_forms();return false;" id="header-forgot-password">Forgot Password</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="right">
+                <input type="submit" name="sign-in" value="Login" class="button green">
+            </div>
+        </div>
+    </form> 
+    <form name="reminder_form" id="reminder_panel_container" method="POST" action="forgot.php" style="display: none;">
+        <h3 style="float: right;">Enter email you used upon sign up</h3>
+        <div class="row">
+            <div class="right">
+                <input type="text" name="email" value="" data-placeholder="Email">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="right">
+                <label>
+                <input type="radio" name="type" value="Advertiser"> Advertiser
+                </label>
+                <label>
+                <input type="radio" name="type" value="Publisher" checked="1"> Publisher
+                </label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="right">
+                <input type="button" name="sign-up" value="Go Back" class="button green" onclick="toggle_forms();return false;">
+                <input type="submit" name="sign-in" value="Forgot" class="button green" onclick="return check_reminder_form();">
+            </div>
+        </div>
+    </form>
+</div><!-- #header-information .sign-in -->
+            
+          </div><!-- #header-information -->
+                    <ul id="header-navigation">
+            <li><a href="index.php">Home</a></li>
+            <li><a href="advertisers.php">Advertisers</a></li>
+            <li><a href="publishers.php">Publishers</a></li>
+            <li><a href="signup.php">Create Account</a></li>
+            <li><a href="our_advantage.php">Our Advantage</a></li>
+            <li><a href="contactus.php">Contact Us</a></li>
+        </ul> 
+        </div><!-- #header -->
+      </div><!-- #header-wrapper -->
+<div id="content">
+    <div class="span-100">
+    	
+        <h1>Privacy Policy</h1>  
+		 
+		<p class="delimiter">YesClick.com is committed to protecting your privacy. This Privacy Policy explains the type of information YesClick.com collects through its website and what YesClick.com does with it. Please read the following privacy policy carefully before using the YesClick.com website. If you use the YesClick.com website, you will be bound by the terms of this Privacy Policy. This policy may change from time to time so you should check it frequently. YesClick.com does not attempt to determine the identity of any YesClick.com user by analyzing Web usage paths.</p>
+		
+		<p class="delimiter"><b>What Information Do We Collect?</b><br>
+		From time to time we may request that an entity making application for an account with YesClick.com provide us with certain personal information (such as their name, email address, etc.) in connection with various services offered on our site. We do not collect any personal information except when an individual specifically and knowingly provides such information. When we request information, we explain how this information may be used and give you an opportunity to request that the information not be used for those purposes. We also give you an opportunity to opt out of future communications from us.</p>
+		
+		<p class="delimiter"><b>Cookies</b><br>
+		For account management purposes and like most sites, YesClick.com uses cookies. Cookies are data files stored on your computer that identify you as a unique user. Cookies enable us to track user trends, preferences and patterns to better understand our user base and to improve the quality of our service. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. You can visit our site without using cookies.</p>
+		
+		<p class="delimiter"><b>Links to Other Sites</b><br>
+		YesClick.com contains links to other sites. These sites may send their own cookies to users, collect data, or solicit personal information. Since we do not control these sites; we are not responsible or liable for the privacy practices or content of such sites.</p>
+		
+		<p class="delimiter"><b>With Whom Do We Share Information?</b><br>
+		YesClick.com may share non-personal and non-personally identifiable information about our users with advertisers, business partners, sponsors, and other third parties. However, we only divulge aggregate information, such as how often the average user visits YesClick.com. We will not share personally identifiable information with any third party without your express consent. </p>
+		
+		<p class="delimiter"><b>Consent and Changes to this Privacy Statement</b><br>
+		By using our site, you consent to the collection and use of your information as we have outlined in this privacy statement and to our Terms of Service. YesClick.com may decide to change this privacy statement from time to time. When we do, we will post the changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.</p>
+		
+ </div>    
+</div>
+    
+</div><!-- #wrapper -->
+    <div id="footer">
+      <div id="footer-wrapper">
+        <a href="/" id="footer-logo" title="YES Click"></a>
+        <div id="footer-copyright">Copyright © 2004&nbsp;—&nbsp;2012. All Rights Reserved</div>
+        <ul id="footer-navigation">
+            <li><a href="search.php">Our Listing</a></li>
+            <!--<li><a href="our_advantage.php"></a></li>-->
+            <li><a href="faq.php">FAQ</a></li>
+            <li><a href="terms.php">Terms</a></li>
+            <li><a href="privacy_policy.php">Privacy Policy</a></li>
+            <li><a href="contactus.php">Contact Us</a></li>
+            <li><a href="abuse.php">Abuse Form</a></li>
+        </ul><!-- #footer-navigation -->
+      </div><!-- #footer-wrapper -->
+    </div><!-- #footer -->
+
+    <script type="text/javascript">
+      var queries = [300336800, 15];
+    </script>
+    <script type="text/javascript" src="/new_templates/js/jquery-1.8.0.min.js"></script>
+    <script type="text/javascript" src="/new_templates/js/accounting.min.js"></script>
+    <script type="text/javascript" src="/new_templates/js/common.js"></script>
+  
+ </body></html>
