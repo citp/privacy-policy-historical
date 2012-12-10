@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vps6.net privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510040104id_/https%3A//vps6.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vps6.net privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210173237id_/https%3A//vps6.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy \\ VPS6.NET
 
