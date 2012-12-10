@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vesternet.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511215118id_/http%3A//www.vesternet.com/index.php%3FcPath%3D343) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vesternet.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210181616id_/http%3A//www.vesternet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ INFORMATION WE MAY COLLECT FROM YOU
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our site www.zigbee.eu (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Vesternet Limited and when you report a problem with our site.
+  * Information that you provide by filling in forms on our site www.vesternet.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Vesternet Limited and when you report a problem with our site.
   * If you contact us, we may keep a record of that correspondence.
   * Vesternet Limited may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of transactions you carry out through our site and of the fulfilment of your orders.
@@ -38,7 +38,7 @@ You may refuse to accept cookies by activating the setting on your browser which
 
 Please note that our advertisers may also use cookies, over which we have no control. 
 
-****WHERE WE STORE YOUR PERSONAL DATA****
+**WHERE WE STORE YOUR PERSONAL DATA**
 
 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
@@ -46,7 +46,7 @@ Where we have given you (or where you have chosen) a password, which enables you
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-****USES MADE OF THE INFORMATION****
+**USES MADE OF THE INFORMATION**
 
 We use information held about you in the following ways:
 
@@ -66,7 +66,7 @@ If you are a new customer, and where we permit selected third parties to use you
 
 If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the order form).
 
-****DISCLOSURE OF YOUR INFORMATION****
+**DISCLOSURE OF YOUR INFORMATION**
 
 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985.
 
@@ -78,20 +78,20 @@ We may disclose your personal information to third parties:
 
 
 
-****YOUR RIGHTS****
+**YOUR RIGHTS**
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [info@vesternet.com](mailto:info@vesternet.com).
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [info@vesternet.com](mailto:info@vesternet.com).
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-****ACCESS TO INFORMATION****
+**ACCESS TO INFORMATION**
 
 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10.00 to meet our costs in providing you with details of the information we hold about you.
 
-****CHANGES TO OUR PRIVACY POLICY****
+**CHANGES TO OUR PRIVACY POLICY**
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-****CONTACT****
+**CONTACT**
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@vesternet.com](mailto:info@vesternet.com)
