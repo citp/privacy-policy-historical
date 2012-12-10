@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the korea.net privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611082631id_/http%3A//www.korea.net/Others/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the korea.net privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210140750id_/http%3A//www.korea.net/Others/Privacy-Policy) for the most accurate reproduction.*
 
 # Korea.net : The official website of the Republic of Korea
 
-##### · General provisions
+### · General provisions
 
 www.korea.net (hereafter "Korea.net"),operated by the Korean Culture and Information Service (hereafter "KOCIS"),is committed to protecting its members' information proactively,and has established the privacy statement as described below,with which it complies stringently. Korea.net uses the member's personal information to facilitate the use of an optimal service only,and shall not provide it to any third party without the consent of the member,and shall exert its best efforts to protect the member from damages occasioned by information leakage. 
 
 The personal information policy of Korea.net is subject to change according to the relevant laws and regulations,guidelines,or internal operation policies. If any modification is made to the method of handling the members' personal information,Korea.net will notify its members of the change in accordance with the relevant laws and regulations and the service terms of use. 
 
-##### · KOCIS privacy statement is outlined below.
+### · KOCIS privacy statement is outlined below.
 
   * \- Purpose of collecting and using personal information 
   
@@ -44,11 +44,11 @@ The personal information policy of Korea.net is subject to change according to t
   
 
 
-##### 1\. Purpose of Collecting and Using Personal Information 
+### 1\. Purpose of Collecting and Using Personal Information 
 
 Korea.net collects the personal information of its members and uses it in order to provide an optimal service to its members via the website operated by the KOCIS. Korea.net will provide more useful information to its members based on the personal information submitted by them. In addition,Korea.net requests the submission of personal information to enable it to provide effective answers to members' questions. 
 
-##### 2\. Items and Methods of Collecting Personal Information
+### 2\. Items and Methods of Collecting Personal Information
 
 The KOCIS collects the minimum amount of personal information required to conclude and implement the service agreement by using only lawful and fair means. When the KOCIS collects the personally identifiable information of its members,it collects and retains that personal information only in accordance with the regulations of the law and the user's consent.
 
@@ -79,7 +79,7 @@ The KOCIS shall retain the following personal information by agreement with the 
 
 * Any additional information collected from Korea.net online events will be used,subject to agreement by the members or modification of the related section of the Terms of Use. The KOCIS shall not collect any personal information containing details that might violate the basic human rights of the member,except with the member's consent and in accordance with the regulations of the law. 
 
-##### 3\. Providing and Sharing of Personal Information
+### 3\. Providing and Sharing of Personal Information
 
 The KOCIS shall not provide the information submitted by the member to any third party without the member's prior consent or use it for any other purposes.  
 The KOCIS shall obtain the consent of the member regarding the following items,and the member shall have the right to refuse or withdraw from them. 
@@ -112,23 +112,23 @@ The right to access the member's personal information is restricted to the relev
 
 The right to access the member's personal information is restricted to the relevant staff. However,the KOCIS may use the personal information or provide it to a third party that is not included in the prior notice or exceeds or the specified scope without the member's consent in the following exceptional cases.
 
-##### 4\. Members' Rights Concerning Their Personal Information
+### 4\. Members' Rights Concerning Their Personal Information
 
 The KOCIS respects the member's right to own his/her personal information to the maximum extent. 
 
-##### 5\. Retention and Usage Period of Personal Information
+### 5\. Retention and Usage Period of Personal Information
 
 The personal information submitted by the member will be used for service provision from the date of his/her joining the membership to the date of his/her withdrawal from the membership. If the member withdraws from membership or is expelled,his/her personal information will be destroyed immediately. However,even if the member terminates the terms of use and withdraws from the membership,his/her personal information will be retained for a certain period of time in order to cope with a lawsuit or controversy should either arise. At this time,retrieval and use of the retained personal information shall be limited to the specified reason only. 
 
-##### 6\. Technical Measures for Privacy Protection
+### 6\. Technical Measures for Privacy Protection
 
 The KOCIS shall do its best to devise adequate technical management measures to protect against leakage of the member's personal information. The KOCIS does its best to secure stability in handling the member's personal information,in order to ensure that it is not lost,stolen,disclosed,altered,or damaged. To that end,the KOCIS devises technical measures such as a supplementary device that uses the password,a security device that can send personal information safely on the network using an encryption algorithm,an access control device that uses an intrusion blocking system,and other technical devices needed to secure availability. The KOCIS restricts to the minimum possible the number of staff members who can access the member's personal information,and provides continuous training to ensure conformance to this policy and other privacy protection efforts. In addition,every effort is made to prevent illegal information leakages by regularly updating the administrator's password,which is used to access personal information. 
 
-##### 7\. Items Related to Cookie Operation
+### 7\. Items Related to Cookie Operation
 
 The KOCIS uses cookies partially in order to provide a better service by remembering the member when the member visits the site again. A cookie is a small amount of the information sent by the website server of the service provider to the user's computer,which contains information on the visited website and the user's personal information. Cookies identify the user's computer browser but do not identify the user individually. Users can have cookie-handling options by setting the web browser option – accepting all cookies,notifying the user when the cookie is installed,or rejecting all cookies. Specific personal information collected by the KOCIS when users visit Korea.net will not be disclosed to the outside,unless it is processed via a legal procedure in accordance with the relevant laws and regulations. 
 
-##### 8\. Member's Complaints with Regard to the Privacy Statement
+### 8\. Member's Complaints with Regard to the Privacy Statement
 
 The KOCIS promptly handles member's complaints about privacy protection. If a member thinks that the KOCIS has not implemented the privacy statement properly,the member can contact the privacy protection manager at any time. The KOCIS shall resolve the issue as quickly as possible,if a correction should be made. 
 
