@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the michiganfirst.com privacy policy that was archived on 2012-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120528094929id_/http%3A//www.michiganfirst.com/Tools_and_Resources/Security_Center/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the michiganfirst.com privacy policy that was archived on 2012-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121210181744id_/http%3A//michiganfirst.com/Tools_and_Resources/Security_Center/Privacy_Policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="EktronJS" type="text/javascript" src="/WorkArea/java/ektron.js"></script><script id="EktronRegisteredJs" type="text/javascript" src="/workarea/java/ektronJs.ashx?id=EktronFlexMenuJS"></script><script id="EktronXmlJS" type="text/javascript" src="/WorkArea/java/ektron.xml.js"></script><script id="EktronStringJS" type="text/javascript" src="/WorkArea/java/plugins/string/ektron.string.js"></script><script id="EkXBrowser" type="text/javascript" src="/WorkArea/ContentDesigner/ekxbrowser.js"></script><script id="EktronSmartFormJS" type="text/javascript" src="/WorkArea/ContentDesigner/ektron.smartform.js"></script><script id="EktronRegisteredJs2" type="text/javascript" src="/workarea/java/ektronJs.ashx?id=EktronInputLabelJS"></script><link id="EktronRegisteredCss" rel="stylesheet" type="text/css" href="/workarea/csslib/ektronCss.ashx?id=EktronModalCss+EktronSmartFormCss+EktronPageHostCss">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="EktronJS" type="text/javascript" src="/WorkArea/java/ektron.js"></script><script id="EktronRegisteredJs" type="text/javascript" src="/workarea/java/ektronJs.ashx?id=EktronFlexMenuJS"></script><script id="EktronXmlJS" type="text/javascript" src="/WorkArea/java/ektron.xml.js"></script><script id="EktronStringJS" type="text/javascript" src="/WorkArea/java/plugins/string/ektron.string.js"></script><script id="EkXBrowser" type="text/javascript" src="/WorkArea/ContentDesigner/ekxbrowser.js"></script><script id="EktronSmartFormJS" type="text/javascript" src="/WorkArea/ContentDesigner/ektron.smartform.js"></script><link id="EktronRegisteredCss" rel="stylesheet" type="text/css" href="/workarea/csslib/ektronCss.ashx?id=EktronModalCss+EktronSmartFormCss+EktronPageHostCss">
     <!--[if IE]>
      <style type="text/css" media="screen">
           .egNav_headernav li:hover ul li, .egNav_headernav li.sfhover ul li
@@ -15,6 +15,17 @@
             }
      </style>
     <![endif]--> 
+     <style type="text/css" media="screen">
+          #FloatBubbleT
+          {
+              display:none;
+          }
+
+          #FloatBubble
+          {
+              display:none;
+          }
+     </style>
     <title>Privacy Policy</title>
 <meta name="Description" content="The privacy and confidentiality of your personal information is a top priority. We are required by law to provide you with this notice to inform and explain how we collect, use, and safeguard your personal financial information.">
 <title>
@@ -32,20 +43,26 @@
     <link rel="stylesheet" href="/blueprint/print.css" type="text/css" media="print">
 
     <script type="text/javascript">
-        $ektron(document).ready(function()
+        jQuery(document).ready(function()
         {
-            var clearLabels = $ektron("input.clearLabel");
-            clearLabels.inputLabel();
-            var mainMenuItems = $ektron("ul.egNav_GlobalTopNav>li.egDrop");
-            mainMenuItems.each(function(){
-                var subMenuItems = $ektron(this).find("div.middle>ul>li.egDrop");
-                var i=0;
-                subMenuItems.each(function(){
-                    if( (i!=0) && (i%2 == 0))
-                    {
-                        $(this).attr("style", "clear:both;");
-                    }
-                    i++
+
+
+(function(b){var a="ektronInputLabelShown";b.fn.inputLabel=function(d){var c=b.extend({cssClass:b.fn.inputLabel.cssClass,clearInputTrigger:false,e:"focus",force:false,keep:true},d||{});return this.each(function(){var h=b(this);var g=(c.text||false);var e="";var f=function(j){if(j.data){if(j.data.caller){e=j.data.caller}else{e=""}}var k=b.trim(h.val());if(j.type==c.e&&h.hasClass(a)==true){h.removeClass(c.cssClass).removeClass(a);h.val("");if(!c.keep){h.unbind(c.e+" blur",f)}}else{if((e=="__doPostBack"||e=="WebForm_DoPostBackWithOptions")&&h.hasClass(a)==true){h.val("");if(e=="WebForm_DoPostBackWithOptions"){window.setTimeout(function(){h.each(function(l){b(this).addClass(c.cssClass+" "+a).val(g)})},20)}}else{if(j.type=="blur"&&k==""&&c.keep){h.addClass(c.cssClass+" "+a).val(g)}else{if(j.type=="submit"&&h.hasClass(a)){h.val("")}}}}};if(!g){var i=h.attr("id");g=b(this).parents("form").find("label[for="+i+"]").hide().text()}else{if(typeof g!="string"){g=$ektron(g).text()}}g=$ektron.trim(g);if(c.force||h.val()==""){h.addClass(c.cssClass+" "+a).val(g)}h.bind(c.e+" blur",f);h.parents("form").bind("submit",f);if(typeof __doPostBack=="function"){b("*[href*='__doPostBack'], *[onclick*='__doPostBack'], *[onchange*='__doPostBack']").bind("click",{caller:"__doPostBack"},f)}if(typeof WebForm_DoPostBackWithOptions=="function"){b("*[href*='WebForm_DoPostBackWithOptions'], *[onclick*='WebForm_DoPostBackWithOptions'], *[onchange*='WebForm_DoPostBackWithOptions']").bind("click",{caller:"WebForm_DoPostBackWithOptions"},f)}if(c.clearInputTrigger!==false&&c.clearInputTrigger.length>0){b(c.clearInputTrigger).each(function(j){b(this).bind("click",f)})}})};b.fn.inputLabel.cssClass="ektronInputLabel";b.fn.clearInputLabel=function(){if(b(this).hasClass(a)){b(this).val("")}};b.fn.getInputLabelValue=function(){if(b(this).hasClass(a)){return""}else{return b(this).val()}}})($ektron);
+
+            $ektron(document).ready(function() {
+                var clearLabels = $ektron("input.clearLabel");
+                clearLabels.inputLabel();
+                var mainMenuItems = $ektron("ul.egNav_GlobalTopNav>li.egDrop");
+                mainMenuItems.each(function(){
+                    var subMenuItems = $ektron(this).find("div.middle>ul>li.egDrop");
+                    var i=0;
+                    subMenuItems.each(function(){
+                        if( (i!=0) && (i%2 == 0))
+                        {
+                            $(this).attr("style", "clear:both;");
+                        }
+                        i++
+                    });
                 });
             });
         });
@@ -287,7 +304,7 @@
 </tbody>
 </table>
 <p></p>
-<h4>Privacy and Our Web Site </h4>
+<h4>Privacy and Our Website </h4>
 <p>Visitors to Michigan First's websites will remain anonymous prior to logging in or entering information on any forms. We do not collect personal identifying information about visitors to our websites prior to login or form completion. Our servers collect standard non-identifying information about visits to our websites, such as date and time visited, IP address, city, state, and country. This information is used to compile standard statistics on website usage. </p>
 <p>If you have provided identifying information via e-mail or form (e.g., name and address), the information will only be used to communicate with you to handle your request. It will not be sold or transferred to any other parties. We are committed to the security of personal information and make every effort to ensure that whenever possible, all external links follow privacy policies similar to ours. However, if you select an external link from any of our web pages, you are leaving our site pages and we cannot be held responsible for any information that may be gathered externally. Michigan First is not responsible for the content or availability of sites linked to our home page. We take reasonable precautions to assure that any site you link to from our web site respects your right to privacy; however, we cannot guarantee it. Please check sites for certification before submitting confidential information. </p>
 <p>Once you have logged in or begin entering information on a form, we will start collecting information from what you provide to us. Basically, we will gather information as needed to provide the service requested by you. We may also use the information for internal statistical purposes. We will not disclose the information gathered to third parties except as necessary to provide the service requested by you or as required by law.</p>
