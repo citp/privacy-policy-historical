@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelocal.no privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611144931id_/http%3A//www.thelocal.no/page/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelocal.no privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210123514id_/http%3A//www.thelocal.no/page/view/privacy) for the most accurate reproduction.*
 
 # Your privacy on The Local - The Local
 
@@ -13,7 +13,7 @@ Different users will have different levels of interaction with The Local.
 
 You may simply browse our content – read our articles, peruse our galleries, search for jobs, and so on – without actively giving us any information about yourself. You may register your email address so that you can receive our editors’ weekly news roundups, information about new jobs and other updates and offers. Or you may do both of the above and contribute to the content on the site by commenting on articles or participating in forum discussion.
 
-Whichever of these applies to your use of The Local, you should familiarise yourself with the information below and our [terms of use](https://web.archive.org/termsofuse.php).
+Whichever of these applies to your use of The Local, you should familiarise yourself with the information below and our [terms of use](https://web.archive.org/page/view/terms-of-use).
 
 ##  Registration forms and personal data
 
