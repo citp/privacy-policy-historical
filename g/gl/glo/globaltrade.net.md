@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the globaltrade.net privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611014845id_/http%3A//www.globaltrade.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaltrade.net privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210175411id_/http%3A//www.globaltrade.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - GlobalTrade.net
 
-This web site is owned by **GlobalTrade.net SAS**
+## Privacy Policy Statement
 
-Our postal address is  
- **172 Fifth Avenue #118, Brooklyn NY 11217 USA**
+**This web site is owned by GlobalTrade.net SAS  
+Our postal address is:  
+1 Rue de Stockholm, Paris 75008, France **
 
 We can be reached via e-mail [info@globaltrade.net](mailto:info@globaltrade.net)
 
@@ -17,8 +18,7 @@ The email addresses are not shared with other organizations.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-Upon request we provide site visitors with access to all information that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them.
-
+Upon request we provide site visitors with access to all information that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them.  
 Consumers can access this information by e-mailing us at the above address.
 
 Upon request we offer visitors the ability to have inaccuracies corrected in their contact information.
