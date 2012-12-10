@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prize.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607215121id_/http%3A//www.prize.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prize.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210223548id_/http%3A//www.prize.com/privacy) for the most accurate reproduction.*
 
 # Win Cash and Prizes Playing Games - Prize.com
 
@@ -209,7 +209,8 @@ PRIVACY POLICY
     
     Prize, LLC 
     Attn: CALIFORNIA PRIVACY RIGHTS
-    2410 E. 6th Street #3037, Austin, Texas 78702
+    P.O. Box 789
+    Austin, Texas 78767-0789
     
     For all requests, you must put the statement "Your California Privacy Rights" in the body of your request as well as your name, street address, city, state, and zip code. Please note that we will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
     
@@ -237,7 +238,8 @@ PRIVACY POLICY
     
     Prize, LLC 
     Attn: DISCLOSURE OF INFORMATION
-    2410 E. 6th Street #3037, Austin, Texas 78702
+    P.O. Box 789
+    Austin, Texas 78767-0789
     
     Please note that even if you unsubscribe to promotional offers or other marketing messages, we still may need to send you communications relating to your use of the Website, such as a transaction initiated by you or for other legitimate non-marketing reasons. 
     
@@ -269,7 +271,8 @@ PRIVACY POLICY
     
     Prize, LLC 
     Attn: PRIVACY
-    2410 E. 6th Street #3037, Austin, Texas 78702
+    P.O. Box 789
+    Austin, Texas 78767-0789
     
     We are committed to working with you to obtain a fair resolution of any privacy concern. 
     
