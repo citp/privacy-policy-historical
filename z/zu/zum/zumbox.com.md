@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zumbox.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609173557id_/https%3A//www.zumbox.com/zbxCB17726/html/zumbox_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zumbox.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210194521id_/https%3A//www.zumbox.com/zbxCB18880/html/zumbox_privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -28,7 +28,7 @@
 
 ● How are you able to contact us?
 
-1.3 If you have any questions regarding this Privacy Policy, the practices of this Site, or your dealings with us, please contact us by email to [support@zumbox.com](mailto:support@zumbox.com) using the subject title of "Privacy Policy", by phone at 818-707-7400 (and mention that you have a Privacy Policy issue related to the Site) or by mail (either traditional or Zumbox) to 31364 Via Colinas, Suite 103, Westlake Village, CA 91362. Our Lead Customer Support Representative is our designated Privacy Policy consultant and monitors compliance with all international and domestic privacy regulations. 
+1.3 If you have any questions regarding this Privacy Policy, the practices of this Site, or your dealings with us, please contact us by email to [support@zumbox.com](mailto:support@zumbox.com) using the subject title of "Privacy Policy", by phone at 818-707-7400 (and mention that you have a Privacy Policy issue related to the Site) or by mail (either traditional or Zumbox) to 975 Business Center Circle, Thousand Oaks, CA 91320. Our Lead Customer Support Representative is our designated Privacy Policy consultant and monitors compliance with all international and domestic privacy regulations. 
 
 2.               **Information We Collect; How it is Used, and Purposes for Collecting Information**
 
