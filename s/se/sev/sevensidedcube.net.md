@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sevensidedcube.net privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604093437id_/http%3A//www.sevensidedcube.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevensidedcube.net privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210083542id_/http%3A//www.sevensidedcube.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SSC Article Directory
 
