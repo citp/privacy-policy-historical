@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the completecareshop.co.uk privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611115522id_/http%3A//www.completecareshop.co.uk/shop-information/9/your_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the completecareshop.co.uk privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210174505id_/http%3A//www.completecareshop.co.uk/shop-information/9/your_privacy.html) for the most accurate reproduction.*
 
 # Your Privacy | Disability aids | Elderly aids
 
@@ -6,11 +6,11 @@
 
 Items in basket: 0,   Value of basket: £0.00[ ](https://web.archive.org/orderprocess/1/checkout.html)
 
-[](https://web.archive.org/disability-elderly-aid/506/drinking_cup_with_spout_pack_of_2.html)  
-Drinking Cup with Spout - Pack of 2  
-£6.86  
+[](https://web.archive.org/disability-elderly-aid/269/caring_cutlery_spoon.html)  
+Caring Cutlery - Spoon  
+£4.66  
 £3.95  
-[ ](https://web.archive.org/disability-elderly-aid/506/drinking_cup_with_spout_pack_of_2.html)
+[ ](https://web.archive.org/disability-elderly-aid/269/caring_cutlery_spoon.html)
 
 Click here to go back to your Previous Page
 
