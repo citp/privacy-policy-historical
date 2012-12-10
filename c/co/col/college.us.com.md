@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the college.us.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427183200id_/http%3A//www.vantagemedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the college.us.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210150412id_/http%3A//www.vantagemedia.com/privacy.html) for the most accurate reproduction.*
 
 # Vantage Media Privacy Statement
 
@@ -29,30 +29,24 @@ In addition to the data that your browser or Internet session sends us automatic
 **Opt-Out, Your Choices and Changing Information You Provided to Us**  
 You may choose whether or not you receive communications from us as follows: You may also opt out or change or modify information you have previously provided to us by contacting us by doing any one of the following: 
 
-  * Our site provides users the opportunity to opt out of receiving communications from us at the point where we request information about the visitor.
   * Marketing Email Opt-out: Each of our marketing email communications includes an opt-out link. You may click on that link and opt out from receiving marketing email.
   * Refusing Cookies: You can adjust your browser settings to opt out of the use of cookies by having your browser disable cookies. Look for the cookie options in your browser in the Options or Preferences menu.
-  * Opt Out Now: Click here <http://college.us.com/unsubscribe_cuscom.php> to opt out. 
-
-
-
-You may also opt out or change or modify information you have previously provided to us by contacting us by doing any one of the following:
-
+  * Opt Out Now: Click [here](http://edu.collegeuscom.com/7d72f080dbbc02f8031ec1fa1b33c3422adf0714e3642d3ac934235165b0e28f) to opt out. 
   * Send an email to us at: [privacy@vantagemedia.com](mailto:privacy@vantagemedia.com) with a copy to [admin@vantagemedia.com](mailto:admin@vantagemedia.com)
   * Call us at (310) 219-6202
-  * Sending a letter to: Vantage Media, LLC, 2100 Rosecrans Ave., Suite 2000, El Segundo, CA 90245
+  * Send a letter to: Vantage Media, LLC, 2101 Rosecrans Ave., Suite 2000, El Segundo, CA 90245
 
 
 
 **Contacting You**  
-Different advertisers and advertising companies have different methods of following up with you on information requests. Some send brochures in the mail, others reply via email or some may contact you by telephone. By using our service to request information from our advertising clients and advertising partners, you are giving permission to Vantage Media, LLC and these parties (or their partners and vendors) to contact you using the methods of their choice, to fulfill your information request, notwithstanding your possible listing in the National Do-Not-Call Registry. If you do not opt out from receiving communications from us, we reserve the right to contact you in the future to help improve our operations or to introduce new services, such as surveys, to ensure that our advertising clients have followed up with your information requests in a timely manner.
+Different advertisers and advertising companies have different methods of following up with you on information requests. Some send brochures in the mail, others reply via email or some may contact you by telephone. By using our service to request information from our advertising clients and advertising partners, you are giving permission to Vantage Media, LLC and these parties (or their partners and vendors) to contact you using the methods of their choice, notwithstanding your possible listing in the National Do-Not-Call Registry, now or in the future (unless and until you opt-out from receiving communications from us or such partners, as applicable). In addition to commercial messages, we may also contact you to help improve our operations, to introduce new services, to conduct surveys and similar research, or to ensure that our advertising clients have followed up with your information requests in a timely manner.
 
 **Children's Privacy**  
 Vantage Media, LLC websites are not directed at individuals less than sixteen years of age. We do not intend to collect personal information from such individuals. 
 
 **Questions or Comments**   
 We invite you to contact us if you have questions or comments about our Privacy Policy or you want to change the personally identifiable information you have provided to us. You may contact us by:  
-Sending a letter to: Vantage Media, LLC, 2100 Rosecrans Ave., Suite 2000, El Segundo, CA 90245  
+Sending a letter to: Vantage Media, LLC, 2101 Rosecrans Ave., Suite 2000, El Segundo, CA 90245  
 Calling us at (310) 219-6202  
 Emailing us at: [privacy@vantagemedia.com](mailto:privacy@vantagemedia.com) with a copy to [admin@vantagemedia.com](mailto:admin@vantagemedia.com)
 
