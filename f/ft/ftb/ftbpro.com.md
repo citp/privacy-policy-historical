@@ -1,53 +1,189 @@
-> *The following text is extracted and transformed from the ftbpro.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611181738id_/http%3A//www.ftbpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftbpro.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210175322id_/http%3A//www.ftbpro.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - FTBpro
+# - FTBpro
 
-**Information Collection and Use:**    
-FTBpro uses information we collect to analyze how the Service is used, diagnose service or technical problems, maintain security, personalize content, remember information to help you efficiently access your account, monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns, and track User Content and users as necessary to comply with applicable laws.
+**Privacy Policy**
 
- **User-Provided Information:**    
-You provide us information about yourself, such as your name, e-mail address and Facebook profile data, if you register for a member account with the Service. Your name and other information you choose to add to your profile will be available for public viewing on the Service. We may use your email address to send you Service-related notices (including any notices required by law, in lieu of communication by postal mail). You can control receipt of certain Service-related messages on your Settings page. We may also use your contact information to send you marketing messages. If you do not want to receive such messages, you may opt out by following the instructions in the message. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
+ **Last modified on October 11th, 2012.**
 
-You also provide us information in User Content you post to the Service. Your questions, answers, and other contributions on the Service, and metadata about them (such as when you posted them), are publicly viewable on the Service, along with your name (unless the Service permits you to post anonymously). This information may be searched by search engines and be republished elsewhere on the Web in accordance with our Terms of Service.
+ **
 
- **Cookies:**    
-When you visit the Service, we may send one or more "cookies" - small data files - to your computer to uniquely identify your browser and let FTBpro help you log in faster and enhance your navigation through the site. A cookie may convey anonymous information about how you browse the Service to us, but does not collect personal information about you. A persistent cookie remains on your computer after you close your browser so that it can be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+We understand you want to keep your information private, and that you value our emphasis on keeping your information safe and discrete. As a result we have drafted the following privacy policy (the "Policy") which ensures that you are adequately notified as to the ways in which we collect and use your information. This Policy is designed to help you decide whether to use the Service and in what manner, by outlining the restrictions we take upon ourselves in gathering, storing and using your information.
 
- **Log Files:**    
-Log file information is automatically reported by your browser each time you access a web page. When you use the Service, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
+This Policy is incorporated into, subject to and a part of the Service's Terms of Use. If you do not agree to this Policy, you may not and should not use the Service. The definitions in the Service's Terms of Use apply to this Policy unless stated otherwise.
 
- **Clear GIFs Information:**    
-When you use the Service, we may employ clear GIFs (also known as web beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your FTBpro account is collected using these clear GIFs. In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting and make FTBpro better for our users.
+User Content 
 
- **Third Party Services:**    
-FTBpro may use Google Analytics or Mixpanel to help understand use of the Service. Google Analytics and Mixpanel collect the information sent by your browser as part of a web page request, including cookies and your IP address. Google Analytics and Mixpanel also receive this information and their use of it is governed by their Privacy Policies.
+We may store all User Content (as defined in the attached Terms of Use). 
 
- **Personally Identifiable Information:    
-**FTBpro may share your personally identifiable information with third parties for the purpose of providing the Service to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of FTBpro (for instance, on servers or databases co-located with hosting providers).
+We may display your User Content in any part of the Service we see fit, as detailed in the Terms of Use.
 
-As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution.
+If you send us an email we may retain said email and your email address. 
 
-We may share or disclose your information with your consent, such as if you choose to sign on to the Service through a third-party service. We cannot control third parties' use of your information.
+Information Gathered from facebook
 
-FTBpro may disclose your personal information if required to do so by law or subpoena or if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect FTBpro rights or property.
+When you access the Service we receive and store the following information from facebook: Your user ID, profile name, gender, email address, hometown, date of birth, employment history, facebook likes and facebook friends.
 
- **Non-Personally Identifiable Information:**    
-We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain FTBpro services.
+Logs
 
-FTBpro may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on FTBpro. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. FTBpro does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks FTBpro to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. The FTBpro Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
+As most sites do, our systems may automatically record and store technical information regarding the method and nature of your use of the Service including: page requests, actions, use time, platform type, operating system and browser information. This information may only be stored in an aggregated or statistical form and in no way can be attributed to a specific user.
 
- **How We Protect Your Information:**    
-FTBpro uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to FTBpro or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+Cookies
 
-In the event that personal information is compromised as a result of a breach of security, FTBpro will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+Cookies are small pieces of data which are stored on your browser for the sender to read. Please note that you may block and remove our Cookies through your browser and operating system, but this may impair and hinder the Service functionality and availability.
 
- **Your Choices About Your Information:**    
-You may, of course, decline to submit personally identifiable information through the Service, in which case FTBpro may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your account.
+We use cookies to store the following types of information:
 
- **Links to Other Web Sites:**    
-We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies.
+  
 
- **Changes to Our Privacy Policy:**    
-If we change our privacy policies and procedures, we will post those changes on this page to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
-If you have any questions about our practices or this privacy policy, please contact us at care@ftbpro.com
+  * Authentication and Basic Service Provision:
+
+
+
+
+We store information required to enable your access to the Service and to determine you are logged in, for example, your user ID and your current facebook login status. 
+
+Needless to say that your ID information (when decrypted by us) correlates with your personal information stored on our servers, as described in this Privacy Policy. 
+
+  
+
+
+  * Maintenance:
+
+
+
+
+We store information we may require for maintenance and error corrections purposes, for example, your last action on the Service and your last error message. 
+
+  
+
+
+  * Your Convenience:
+
+
+
+
+We store information to make your use of the Service easier and more comfortable, for example, whether you wish certain boxes be checked by default and your preferred language. 
+
+  
+
+
+  * Service Analysis and Research:
+
+
+
+
+We store, in separate cookies which may persist up to a year, information we require to analyze and to improve the service, for example types of layouts and the last page viewed on the Service. 
+
+  
+
+
+  * Performance:
+
+
+
+
+Finally we store information that we can access through our servers for performance purposes, for example, your nickname and country. 
+
+Unless otherwise stated, all information described above is stored in an encrypted state within a single cookie which deletes itself after two weeks without access to the Service. 
+
+Third Party Cookies
+
+We do not place cookies on behalf of any third party or share our cookie information with any third party. 
+
+However, through your use of the Service, you may come in contact with third parties which operate through or on behalf of the Service. Those third parties may use cookies in order to enable them to provide you or us with their services. 
+
+The following third parties may place cookies on your browser (to learn more about those ccookies, follow the attached link):
+
+  
+
+
+  * Google Analytics (<http://www.google.com/intl/en/policies/privacy>)
+
+  * Facebook ([https://www.facebook.com/help/cookies?ref_type=sitefooter](http://www.google.com/intl/en/policies/privacy))
+
+  * Uservoice ([http://www.uservoice.com/privacy/](http://www.google.com/intl/en/policies/privacy))
+
+
+
+
+Information Disclosure and Use
+
+We may use the information we gather and store as described in this Policy solely, or disclose it to third parties, solely to provide, maintain and improve the Service, its quality and design, including without limitation, saving you the trouble of re-entering data and quarries, personalize and customize the Service and generate statistics regarding the Service.
+
+Other than specifically stated in these Terms of Use, we do not share information with any third party. 
+
+We may, by ourselves or through a third party, send you social network or e-mail messages for non-marketing, administrative or customer services purposes. You can control receipt of certain messages through your settings page in the Service.
+
+Any third party to which we disclose information will be bound by this Privacy Policy.
+
+No Obligation to Store Information
+
+Nothing in this Policy is interpreted as an obligation to store information, and we may, at our own discretion, delete or avoid from recording and storing any and all information. 
+
+You shall have no claim against us for deleting information, avoiding from retrieving and storing or not complying with any information request, including court orders and warrant by authorized entities, because the requested information was deleted or not stored by us and is unavailable to us. 
+
+We may store information in locations outside our direct control.
+
+Non-Restricted Information Disclosure
+
+Notwithstanding anything to the contrary stated herein, we may:
+
+  
+
+
+  * Disclose non personally identifiable information to third parties who have an interest in the Service, its functionality and its usage patterns; 
+
+  * Disclose information to third parties as part of a specific program to which you will have the ability to opt-in;
+
+  * Disclose any information if we are required to do so by law or to aid a law enforcement agency in the prevention of a crime;
+
+  * Disclose any information in good faith and to the minimum extent required in legal proceedings to which we are a party, including without limitation, proceedings initiated by us;
+
+  * Disclose any information in good faith and to the minimum extent required to third parties who are requested by us to investigate allegations made against us, to protect the data security, integrity and/or operability of the Service or to protect our rights. 
+
+
+
+
+Removal and Correcting Imformation
+
+If you have any privacy concerns or issues or want us to delete or change information regarding you in the Service, our data storage and other users' smartphones, please follow the guidelines detailed in:
+
+www.FTBPro.com/privacyreport
+
+Information Warranty Disclaimer
+
+Notwithstanding anything else in this Policy, we are not responsible for the accuracy, correctness and security of any of the information we gather, store and disclose to you or to anyone else. 
+
+Third Party Advertisements
+
+We use advertisements to fund the Service, which are placed, served, managed, operated and distributed by third parties (specialized ad industry companies) within the Service.
+
+Aside from non-identifiable information given to them, these third party companies use designated technologies (NOT including cookies) which are not under our control or knowledge, in order to measure, improve and personalize their ad activity and effectiveness. 
+
+Data Security
+
+We place great emphasis on the security and integrity of your information and the data stored in our systems. 
+
+The Service is provided under the best commercially reasonable data security practices, in order to prevent unauthorized access, disclosure, alteration or deletion of any and all information stored in our systems.
+
+You acknowledge, however, that no such effort can completely guarantee the security of the stored data, that breaches of security are still a possibility both regarding our systems and that a data security breach resulting in unauthorized access to your information can occur in third party system (for example, ISP's and hosting services providers). 
+
+As a result, we do NOT warrant or ensure the integrity and security of the data stored in its systems, including without limitation your information. 
+
+We shall notify any user whose information is suspected of being accessed, disclosed, altered or deleted by an unauthorized person, so that he can take appropriate measure to minimize the adverse effect of such a data security breach (Breach Notification). Such Breach Notification will be given in a reasonable time after we learn of said breach, unless we deem, at our sole discretion, that such Notification might hinder and prevent ongoing efforts to detect the source of the breach.
+
+For the avoidance of doubt, a Breach Notification does NOT constitute an admission by us that the breach occurred as a result of malpractice, failure, bad faith or negligence on our behalf or that the breach even occurred in our systems. 
+
+Change of Ownership 
+
+In the event of a change of ownership or control of all or part of the Service, including without limitation through acquisition, merger or sale, we reserve the right to sell all or part of the personal information it stores in its systems.
+
+You acknowledge that in the event of bankruptcy, insolvency or receivership, we may have no control over the use and transfer of your personal information.
+
+Changes to this Privacy Policy
+
+This Policy may be revised from time to time at our sole discretion. The last revision will be reflected in the "Last modified by" heading above. Please visit this page periodically for updates. Continuing to use the Service continues your acceptance of changes.
+
+**
