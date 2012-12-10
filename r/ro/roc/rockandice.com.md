@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rockandice.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213023011id_/http%3A//rockandice.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockandice.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210164638id_/http%3A//www.rockandice.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rock and Ice.com
+# Privacy Policy | ROCK and ICE Magazine - For Climbers By Climbers - Rock Climbing - Ice Climbing - Learn To Climb - Climbing News
 
 This privacy policy sets out how Rock and Ice and Big Stone Publishing uses and protects any information that you give Rock and Ice and/or Big Stone Publishing when you use this website. Rock and Ice and Big Stone Publishing are committed to ensuring that your privacy is protected to the best of our ability. Should we ask you to provide certain information by which you can be identified when using this website you can be assured that it will only be used in accordance with this privacy statement. Rock and Ice/Big Stone Publishing may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 9th of February 2011.
 
@@ -48,3 +48,6 @@ You may choose to restrict the collection or use of your personal information in
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you. A small fee will be payable. If you would like a copy of the information held on you please **contact us.** If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+[< Prev](http://www.rockandice.com/about-us/internship) |    |  [Next >](http://www.rockandice.com/categoryblog/73--advertise-with-rock-and-ice)  
+---|---|---
