@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whattoexpect.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629184408id_/http%3A//www.whattoexpect.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whattoexpect.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211003433id_/http%3A//www.whattoexpect.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy -- Ask Heidi -- WhatToExpect.com
 
@@ -16,7 +16,7 @@ Your Personal Information will be processed by us in the United States.
 
 In addition to this general Policy, each Service may have additional privacy provisions that are specific to the particular Service. These supplemental disclosures are made adjacent to the particular Service at the time we collect the information. These supplemental disclosures also govern the use of your information. 
 
-##  **1\. The Information We Gather**
+## **1\. The Information We Gather**
 
 We collect information about you in the following ways: 
 
