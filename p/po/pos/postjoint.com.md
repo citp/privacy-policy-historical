@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the postjoint.com privacy policy that was archived on 2012-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120316013445id_/http%3A//www.postjoint.com/index.php/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postjoint.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210164240id_/http%3A//www.postjoint.com/privacy) for the most accurate reproduction.*
 
-# Web Traffic Control - Guest blogging made easy
+# PostJoint - Terms of Service
 
 ## Privacy Policy
 
-We respect the privacy of your personal information. This policy sets out how we use any personal information collected from you, or that you provide to us, when using our service. For the purpose of the Data Protection Act 1998 (the Act), the data controller is WTC.
+We respect the privacy of your personal information. This policy sets out how we use any personal information collected from you when using our service. For the purpose of the Data Protection Act 1998 (the Act), the data controller is PostJoint Limited.
 
 #### Information Collection
 
-We collect information about you that you provide by filling in forms on this site. This includes information which you provide when registering to use the WTC service, if you contact us, we may keep a record of that correspondence and when you visit this site (see also under Cookies below). 
+We collect information about you that you provide by filling in forms on this site. This includes information which you provide when registering to use the service, if you contact us, we may keep a record of that correspondence and when you visit this site. 
 
 By using our site you are giving us permission to use your personal information in the ways set out in this Privacy Policy.
 
-We do not store or have access to any of your payment, credit card or bank details. All transactions are processed by our third party payment service from PayPal.
+We do not store or have access to any of your payment, credit card or bank details. All transactions are processed by our third party payment service.
 
 #### Use of your information
 
@@ -20,21 +20,21 @@ We use your information to provide our services to you and to support your relat
 
 #### Marketing
 
-If you choose to opt-in to our newsletter, we will only use your information to send you information about products, services, promotions and events which may be of interest to you.
+We will use your information to send you information about products, services, promotions and events which may be of interest to you.
 
 #### Disclosure of your information
 
-We may disclose your personal information to any member of our corporate group. We may also disclose your personal information to third parties:
+We will never disclose your personal information to third parties, unless:
 
-  * if we sell or buy any business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business or assets;
-  * if our assets are acquired by a third party, in which case personal information held by it about its users and customers will be one of the transferred assets;
-  * if we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of our customers, employees or the general public.
+  * we sell or buy any business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business or assets;
+  * our assets are acquired by a third party, in which case personal information held by it about its users and customers will be one of the transferred assets;
+  * we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our terms of service; or to protect the rights of our customers, employees or the general public.
 
 
 
 #### Security
 
-All personal information you provide to us is stored on secure servers. Where we have given you a password which enables you to access certain areas of this site you are responsible for keeping that password confidential and the password should not be shared with anyone. We may need to transfer your personal information to the USA where our secure servers are located. Rest assured that we will ensure any transfer is subject to contractual provisions that will safeguard your personal information.
+All personal information you provide to us is stored on secure servers. Where we have given you a password which enables you to access certain areas of this site you are responsible for keeping that password confidential and the password should not be shared with anyone. We may need to transfer your personal information to the USA where our secure servers are located.
 
 #### Cookies
 
@@ -46,7 +46,7 @@ This site may contain links to other websites. This privacy policy only applies 
 
 #### Your rights
 
-You have the right to ask us not to use your personal information for marketing purposes. You can exercise this right by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by [ contacting us](http://support.webtrafficcontrol.com/) or writing to WTC, Unit 22 Grenville Workshops, London, N19 4EH, UK.
+You have the right to ask us not to use your personal information for marketing purposes. You can exercise this right by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by [ contacting us](http://support.postjoint.com/) or writing to PostJoint, Unit 22 Grenville Workshops, London, N19 4EH, UK.
 
 #### Access to information
 
@@ -56,4 +56,7 @@ The Data Protection Act gives you rights to access information held about you. Y
 
 Any changes we make to our privacy policy will be posted on this page and where appropriate notified to you by e-mail.
 
-Last updated 14 Dec 2011
+Last updated 27 Sept 2012
+
+  
+
