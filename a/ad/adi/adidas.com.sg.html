@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adidas.com.sg privacy policy that was archived on 2012-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120610011712id_/http%3A//www.adidas.com.sg/pages/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adidas.com.sg privacy policy that was archived on 2012-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121210042003id_/http%3A//www.adidas.com.sg/pages/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class="no-js adi-nonecom" lang="en"><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -7,24 +7,24 @@
         <title>adidas Privacy policy</title>
         <meta name="description" content="">
         <meta name="author" content="">
-        <link rel="stylesheet" href="http://hp.static.adidas.com/brand/platform/css/reset.css?7276">
-        <link rel="stylesheet" href="http://hp.static.adidas.com/brand/platform/css/global.css?7276">
-        <link rel="stylesheet" href="http://hp.static.adidas.com/brand/platform/css/style.css?7276">
-        <link rel="stylesheet" href="http://hp.static.adidas.com/brand/platform/css/jquery.fancybox-1.3.4.css?7276">
-        <script src="http://hp.static.adidas.com/brand/platform/js/libs/modernizr-2.0.6.min.js?7276"></script>
-        <!--[if IE 6]> <link rel="stylesheet" href="http://hp.static.adidas.com/brand/platform/css/style_ie6.css?7276"> <![endif]-->
-        <!--[if IE 7]> <link rel="stylesheet" href="http://hp.static.adidas.com/brand/platform/css/style_ie7.css?7276"> <![endif]-->
-        <!--[if IE 8]> <link rel="stylesheet" href="http://hp.static.adidas.com/brand/platform/css/style_ie8.css?7276"> <![endif]-->
+        <link rel="stylesheet" href="//hp.static.adidas.com/brand/platform/css/reset.css?32.16127">
+        <link rel="stylesheet" href="//hp.static.adidas.com/brand/platform/css/global.css?32.16127">
+        <link rel="stylesheet" href="//hp.static.adidas.com/brand/platform/css/style.css?32.16127">
+        <link rel="stylesheet" href="//hp.static.adidas.com/brand/platform/css/jquery.fancybox-1.3.4.css?32.16127">
+        <script src="//hp.static.adidas.com/brand/platform/js/libs/modernizr-2.0.6.min.js?32.16127"></script>
+        <!--[if IE 6]> <link rel="stylesheet" href="//hp.static.adidas.com/brand/platform/css/style_ie6.css?32.16127"> <![endif]-->
+        <!--[if IE 7]> <link rel="stylesheet" href="//hp.static.adidas.com/brand/platform/css/style_ie7.css?32.16127"> <![endif]-->
+        <!--[if IE 8]> <link rel="stylesheet" href="//hp.static.adidas.com/brand/platform/css/style_ie8.css?32.16127"> <![endif]-->
             </head>
     <body>
         <div class="navigation">
   <div class="topSection">
-    <div class="mainLogo"><a href="/" title="adidas"><img src="http://hp.static.adidas.com/brand/platform//img/global_adidas_logo.gif" alt="adidas" width="170" height="24"></a> </div>
+    <div class="mainLogo"><a href="/" title="adidas"><img src="//hp.static.adidas.com/brand/platform//img/global_adidas_logo.gif" alt="adidas" width="170" height="24"></a> </div>
     <ul class="lang">
       <li class="mainLang"><a href="/country-selector/">Singapore</a></li>
     </ul>
     <div id="topSearch">
-      <form id="search" name="menu_search" action="http://www.adidas.com.sg/search" method="get">
+      <form id="search" name="menu_search" action="/search" method="get">
         <label>
           <input name="query" type="search" class="value query" id="searchfield" value="Search" size="20" maxlength="100" data-placeholder="Search">
           <input type="submit" value="" class="submit">
@@ -33,7 +33,9 @@
       <div class="clear"></div>
     </div>
     <div class="smallNav">
-         <a href="/account/sign-in" class="userSignIn">Sign In</a>
+    
+         <a href="javascript:void(0);" id="sign_up">Subscribe</a>
+     <a href="/account/sign-in" class="userSignIn">Account</a>
      <a href="           /storefinder&#10;    ">Store Finder</a></div>
         <div class="clear"></div>
   </div>
@@ -88,9 +90,7 @@
                                 <li><a href="/outdoor/">OUTDOOR</a></li>
                                 <li><a href="/slvr/">SLVR</a></li>
                                 <li><a href="http://www.y-3.com/sg">Y-3</a></li>
-                                <li><a href="/catalogue/neo-clothing/">Clothing</a></li>
-                                <li><a href="/catalogue/neo-accessories/">Accessories</a></li>
-                                <li><a href="/catalogue/neo-all/">View all NEO Products</a></li>
+                                <li><a href="/neo/">NEO</a></li>
                                 <li><a href="http://www.adidas.com/sg/skateboarding">SKATEBOARDING</a></li>
                                 <li><a href="http://www.adidasgolf.com/">GOLF</a></li>
                                 <li><a href="http://www.adidas.com/bodycare/en">Bodycare</a></li>
@@ -278,7 +278,20 @@
           <a href="/country-selector">Singapore</a>
           </li>
         </ul>
-             <div class="clearfix"></div>
+       <div id="newsletter">
+           <span>Register your email for news and special offers</span>
+           <form method="post" action="" id="newsletterFormSubscribe">
+           <div>
+                   <!--<input type="text" data-placeholder="" maxlength="100" size="20" value="" id="searchfieldbottom" class="value query" name="email" text-changed="0">-->
+           <input type="text" id="searchfieldbottom" class="value query" name="email" text-changed="0" value="enter your email address" size="20" onfocus="this.value = this.value=='enter your email address' ? '' : this.value;" onblur="this.value = this.value == '' ? this.value = 'enter your email address' : this.value; this.value=='enter your email address'">
+                <input type="button" class="submit" value="" name="newsletterSub">
+                <input type="hidden" class="subscribeUrl" value="/plp/newsletter-subscribe">
+                <input type="hidden" class="checkEmailUrl" value="/plp/check-email-url">
+           </div>
+           </form>
+           <div class="clearfix"></div>
+       </div>
+      <div class="clearfix"></div>
     </div>
     <nav>
       <div class="gridFive">
@@ -355,27 +368,32 @@
       </div>
       <div class="clearfix"></div>
   </div>
-</footer>        <script src="http://hp.static.adidas.com/brand/platform/js/libs/jquery-1.7.1.min.js?7276"></script>
-        <script src="http://hp.static.adidas.com/brand/platform/js/libs/jquery.history.js?7276"></script>
-        <script src="http://hp.static.adidas.com/brand/platform/js/navmenu.js?7276"></script>
-        <script src="http://hp.static.adidas.com/brand/platform/js/search.js?7276"></script>
-        <script src="http://hp.static.adidas.com/brand/platform/js/jquery.ui.core.js?7276"></script>
-        <script src="http://hp.static.adidas.com/brand/platform/js/jquery.ui.widget.js?7276"></script>
-        <script src="http://hp.static.adidas.com/brand/platform/js/jquery.ui.tabs.js?7276"></script>
-        <script src="http://hp.static.adidas.com/brand/platform/js/jquery.carousel.min.js?7276"></script>
-        <script src="http://hp.static.adidas.com/brand/platform/js/jquery.fancybox-1.3.4.pack.js?7276"></script>
-        <script src="http://hp.static.adidas.com/brand/platform/js/jquery.threesixty.js?7276"></script>
-        <script type="text/javascript" src="http://hp.static.adidas.com/brand/platform/js/footer-regist-account.js?7276"></script>
+</footer>        <script src="//hp.static.adidas.com/brand/platform/js/libs/jquery-1.7.1.min.js?32.16127"></script>
+        <script src="//hp.static.adidas.com/brand/platform/js/libs/jquery.history.js?32.16127"></script>
+        <script src="//hp.static.adidas.com/brand/platform/js/navmenu.js?32.16127"></script>
+        <script src="//hp.static.adidas.com/brand/platform/js/search.js?32.16127"></script>
+        <script src="//hp.static.adidas.com/brand/platform/js/jquery.ui.core.js?32.16127"></script>
+        <script src="//hp.static.adidas.com/brand/platform/js/jquery.ui.widget.js?32.16127"></script>
+        <script src="//hp.static.adidas.com/brand/platform/js/jquery.ui.tabs.js?32.16127"></script>
+        <script src="//hp.static.adidas.com/brand/platform/js/jquery.carousel.min.js?32.16127"></script>
+        <script src="//hp.static.adidas.com/brand/platform/js/jquery.fancybox-1.3.4.pack.js?32.16127"></script>
+        <script src="//hp.static.adidas.com/brand/platform/js/jquery.threesixty.js?32.16127"></script>
+        <script type="text/javascript" src="//hp.static.adidas.com/brand/platform/js/footer-regist-account.js?32.16127"></script>
         <script type="text/javascript">
             var userInfoUrl = ''+'/account/user-info';
             var myAccountUrl = ''+'/account/my-account';
         </script>
-        <script type="text/javascript" src="http://hp.static.adidas.com/brand/platform/js/userInfo.js?7276"></script>
+        <script type="text/javascript" src="//hp.static.adidas.com/brand/platform/js/userInfo.js?32.16127"></script>
+        <script type="text/javascript">
+            var subscribeTemplate = ''+'/plp/newsletter-subscribe-template';
+            var loadingMessage = "Loading...";
+        </script>
+        <script type="text/javascript" src="//hp.static.adidas.com/brand/platform/js/sign-up.js?32.16127"></script>
         <!--[if IE 6]>
-            <script src="http://hp.static.adidas.com/brand/platform/js/libs/DD_belatedPNG_0.0.8a.js?7276" type="text/javascript"></script>
-            <script src="http://hp.static.adidas.com/brand/platform/js/script_ie6.js?7276" type="text/javascript"></script>
+            <script src="//hp.static.adidas.com/brand/platform/js/libs/DD_belatedPNG_0.0.8a.js?32.16127" type="text/javascript"></script>
+            <script src="//hp.static.adidas.com/brand/platform/js/script_ie6.js?32.16127" type="text/javascript"></script>
         <![endif]-->
-        <!--[if IE 7]> <script src="http://hp.static.adidas.com/brand/platform/js/script_ie7.js?7276" type="text/javascript"></script> <![endif]-->
-        <!--[if IE 8]> <script src="http://hp.static.adidas.com/brand/platform/js/script_ie8.js?7276" type="text/javascript"></script> <![endif]-->
+        <!--[if IE 7]> <script src="//hp.static.adidas.com/brand/platform/js/script_ie7.js?32.16127" type="text/javascript"></script> <![endif]-->
+        <!--[if IE 8]> <script src="//hp.static.adidas.com/brand/platform/js/script_ie8.js?32.16127" type="text/javascript"></script> <![endif]-->
             
 </body></html>
