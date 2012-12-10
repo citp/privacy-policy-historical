@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pond5.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514205224id_/http%3A//www.pond5.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pond5.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210025642id_/http%3A//www.pond5.com/legal/privacy) for the most accurate reproduction.*
 
 # Legal
 
@@ -105,7 +105,7 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact us about this privacy statement by writing or email us at the address below:  
 Pond5 Inc.  
-419 Lafayette St.  
-New York, NY, United States 10003  
+155 Water Street, 6th floor  
+Brooklyn, NY, United States 11201  
 Email: legalpond5com  
 Phone: (646) 233 2155
