@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackicepass.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528145622id_/http%3A//www.blackicepass.com/legal.php%3F%26pg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackicepass.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210183648id_/http%3A//www.blackicepass.com/legal.php%3F%26pg%3Dprivacy) for the most accurate reproduction.*
 
 # Full High Definition Ebony and Interracial Movies - HD Porn Movies from BlackIcePass.com
 
