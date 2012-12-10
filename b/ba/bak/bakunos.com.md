@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakunos.com privacy policy that was archived on 2012-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120414101058id_/http%3A//www.bakunos.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakunos.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210114828id_/http%3A//bakunos.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,4 +33,4 @@ We partner with a limited number of third party behavioral advertising companies
   
 
 
-* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp>.
+* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance at [aboutads.info](http://www.aboutads.info/).
