@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michiganfirst.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528094929id_/http%3A//www.michiganfirst.com/Tools_and_Resources/Security_Center/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michiganfirst.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210181744id_/http%3A//michiganfirst.com/Tools_and_Resources/Security_Center/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,7 +58,7 @@ We also collect your personal information from others, such as credit bureaus, a
   
 We also collect your personal information from others, such as credit bureaus, affiliates, or other companies  
   
-#### Privacy and Our Web Site 
+#### Privacy and Our Website 
 
 Visitors to Michigan First's websites will remain anonymous prior to logging in or entering information on any forms. We do not collect personal identifying information about visitors to our websites prior to login or form completion. Our servers collect standard non-identifying information about visits to our websites, such as date and time visited, IP address, city, state, and country. This information is used to compile standard statistics on website usage. 
 
