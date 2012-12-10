@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the superoffice.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525172504id_/http%3A//www.superoffice.com/Web/Content/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superoffice.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210015322id_/http%3A//www.superoffice.com/Web/Content/Privacy-statement) for the most accurate reproduction.*
 
-# Privacy statement - SuperOffice AS
+# Privacy Policy and Personal Information | SuperOffice
 
 SuperOffice.com” or the “Company” is committed to protecting the privacy of your information. This Privacy Statement describes SuperOffice.com’s information practices
 
