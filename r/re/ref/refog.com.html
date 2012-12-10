@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the refog.com privacy policy that was archived on 2012-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626021416id_/http%3A//www.refog.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the refog.com privacy policy that was archived on 2012-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121210200737id_/http%3A//www.refog.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -45,6 +45,15 @@
 		<![endif]-->
 	</head>
 	<body>
+<script type="text/javascript">
+        if(navigator.userAgent.indexOf("Win")>=0)
+		document.write('<scr'+'ipt type="text/javascript" src="https://s-assets.tp-cdn.com/widgets/bottoms_up_bar/vwid/PD5DYVFW.js"></sc'+'ript>');
+	if(navigator.userAgent.indexOf("Mac")>=0)
+		document.write('<scr'+'ipt type="text/javascript" src="http://s-assets.tp-cdn.com/widgets/bottoms_up_bar/vwid/MLEMLTER.js"></sc'+'ript>');
+</script>
+
+
+
 	
 <script type="text/javascript">
 <!--
@@ -145,6 +154,14 @@ $(document).ready(function(){
   $("li.ddown").hoverIntent(megaConfig)
 
 $("a[rel=registrator]").each(function(){
+   var el = this;
+   _gaq.push(function(){
+   var tracker = _gaq._getAsyncTracker();
+   el.href = tracker._getLinkerUrl(el.href);
+   });
+});
+
+$('a[href*="getrefog.com"]').each(function(){
    var el = this;
    _gaq.push(function(){
    var tracker = _gaq._getAsyncTracker();
