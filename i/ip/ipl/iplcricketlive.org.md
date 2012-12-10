@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iplcricketlive.org privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606162147id_/http%3A//www.iplcricketlive.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplcricketlive.org privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210230526id_/http%3A//www.iplcricketlive.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | IPL Cricket Live, Season 5 IPL Cricket 2012, CLT20, IPL 2012 Schedule, IPL Fixtures, IPL Online, IPL Live, Champions League T20 Live Cricket
+# Privacy Policy | CLT20, Champions League T20 Live Cricket, CLT20 Schedule, CLT20 Live, CLT20 Online, CLT20 2011, CLT20 Matches, CLT20 Results, IPL Cricket Live, IPL 5, IPL 2012
 
 The following Privacy Statement discloses the information gathering and dissemination practices for IPLcricketlive.org
 
