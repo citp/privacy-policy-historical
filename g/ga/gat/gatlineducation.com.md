@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the gatlineducation.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611000306id_/http%3A//www.cengage.com/content/footer/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatlineducation.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211002254id_/http%3A//www.cengage.com/content/footer/privacy_statement.aspx) for the most accurate reproduction.*
 
-# Cengage Learning - Privacy Statement
+# Cengage Learning - Learning solutions, training and educational publishing - Privacy Statement
 
 ##  Privacy Statement
 
 Cengage Learning, Inc., and its subsidiaries and divisions, are committed to protecting the privacy and security of personal information entrusted to us on our websites. This privacy statement explains our online privacy practices. 
+
+* * *
 
 ####  Scope
 
@@ -12,9 +14,13 @@ This privacy statement applies to the Cengage Learning, Inc. (Cengage Learning) 
 
 Additionally, some Cengage Learning websites may provide direct links to various sponsor and marketing partner sites. This privacy statement does not describe the practices of our partners. Before disclosing personal information to any other company's website, you should also read the privacy statement associated with that site. 
 
+* * *
+
 ####  Information That We Collect
 
 When you visit our website, you may provide us with two types of information: (1) personally identifiable information such as contact and other information about your profession or your interests that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the website. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our website's content or services. 
+
+* * *
 
 ####  How We Use Personal Information
 
@@ -32,6 +38,8 @@ We will tailor the materials we provide you based on the information in your pro
 
 If you purchase a product from us (such as a book or newsletter subscription), you may provide us with a credit card number or other payment information. Payment information will only be used for transaction processing. 
 
+* * *
+
 ####  When We Disclose Personal Information
 
 We may also provide any contact information and professional information with our affiliates or, unless you tell us not to, with third parties. For example, like most publishers, we share our subscriber lists with selected business partners so that they may offer you products and services directly. Additionally, we may share any information with third parties as needed to fulfill your requests for information, products or services. 
@@ -42,15 +50,21 @@ _You can also opt-out of receiving marketing emails from us and our partners at 
 
 Please note that we may disclose any information as permitted or required by law, when necessary for health or safety purposes, or to protect our legal rights. For example, we may disclose information about you to our auditors or legal advisors or in response to a subpoena. We may also disclose information about you in connection with the transfer of assets of our businesses. 
 
+* * *
+
 ####  A Special Note About Children
 
 Although parts of the galeschools.com website provide information and activities for students, we do not knowingly collect any personal information about children. Teachers must provide their own personal information in order for students to participate in our online quizzes and contests. 
 
 We encourage parents and teachers to spend time online with children and to monitor their online activities. Please protect your child's privacy by instructing them to never provide personal information on this site or any other, or within any software registration process, without your permission. 
 
+* * *
+
 ####  Information Collected on Behalf of Educational Institutions
 
 Some Cengage Learning companies administer websites that provide course materials and services for educational institutions. Information collected on these websites is only used by Cengage Learning as needed to support the educational institution and provide the services requested by the course instructors. We do not use this information for our own purposes. Most student course records are also protected by the Family and Educational Rights Privacy Act (FERPA). For information on your school's privacy statement and FERPA, please contact that school's administration. 
+
+* * *
 
 ####  Cookies and Website Information
 
@@ -58,21 +72,31 @@ Like most other commercial websites, we use standard "cookie" technology and web
 
 Information gathered through cookies and by our web server logs may include the date and time of visits, the pages viewed, time spent at our website and the websites visited just before and just after our website. This information is collected on an aggregate basis, and also may be associated with your personal information. 
 
+* * *
+
 ####  How Do You Access and/or Modify Your Information or Choices?
 
 If you visit our website and volunteer personally identifiable information, you may access such information at any time by visiting the account information area where you will have the opportunity to revise certain of your personally identifiable information, and to update your preferences regarding what information you want to receive from us, or by clicking on the "Contact Us" link and sending us an email. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. In addition, please be aware that your ability to opt-out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our website. 
+
+* * *
 
 ####  How We Secure Your Information
 
 We have implemented reasonable technical, physical and administrative safeguards to help protect your personal information against unauthorized access or loss. For example, when we ask users to provide payment information (such as credit card number), the data is protected during transmission to us using Secure Sockets Layer (SSL) encryption technology. 
 
+* * *
+
 ####  Information Process in the United Sates
 
 This website may be operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us may be transferred to the United States or other countries in which our businesses are located. We will adequately protect the data in all locations. 
 
+* * *
+
 ####  Changes to Our Policies
 
 This privacy notice is effective as of August 31, 2007. From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this privacy statement. If we make a material change to this statement, we will post and highlight the policy changes, and we will also notify you via email and give you an opportunity to opt-out of the new data uses. 
+
+* * *
 
 ####  Contact Us with Any Questions
 
@@ -85,6 +109,8 @@ Stamford, CT 06902
 
 
 or email us at: [corporatecommunications@cengage.com](mailto:corporatecommunications@cengage.com).
+
+* * *
 
 ####  Privacy and Security Policy Regarding Social Security Numbers and Other Sensitive Personal information
 
