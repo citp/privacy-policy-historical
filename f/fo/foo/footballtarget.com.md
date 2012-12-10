@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the footballtarget.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618100639id_/http%3A//www.footballtarget.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballtarget.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210120739id_/http%3A//www.footballtarget.com/privacy) for the most accurate reproduction.*
 
-# Football target | Privacy - Football target
+# Football Target | Privacy Football Target
 
 What information do we collect? 
 
@@ -8,7 +8,9 @@ We collect information from you when you register on our site, subscribe to our 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+The privacy of our visitors to this site is of extreme importance to us. We allow third-party advertising companies (like Google Adsense) to serve ads when you visit our Web site. Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+Please note that these companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites..
 
 What do we use your information for? 
 
@@ -73,6 +75,3 @@ If there are any questions regarding this privacy policy you may contact us usin
 http://www.footballtarget.com/
 
 footballtarget(@)gmail (dot)com
-
-  
-
