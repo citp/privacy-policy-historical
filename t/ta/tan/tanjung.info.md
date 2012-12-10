@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tanjung.info privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510210406id_/http%3A//www.tanjung.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tanjung.info privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210182942id_/http%3A//www.tanjung.info/privacy.html) for the most accurate reproduction.*
 
-# Nulled Information Full Sharing News Free Download - Tanjung Info
+# Privacy - Tanjung Info
 
 Collection of personal information  
 Personal information on this Site is collected by Tanjung.info.  
