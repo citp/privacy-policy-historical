@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalkiss.com privacy policy that was archived on 2012-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120127222631id_/http%3A//www.totalkiss.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalkiss.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210174327id_/http%3A//www.kissfmuk.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KISS
 
@@ -6,7 +6,7 @@
 
 **Our Commitment To Your Privacy**
 
-Bauer Radio (Bauer) is responsible for the website www.totalkiss.com and is committed to protecting your privacy and security.
+Bauer Radio (Bauer) is responsible for the website [**www.kissfmuk.com**](http://www.kissfmuk.com/) and is committed to protecting your privacy and security.
 
 From time to time we may invite you to supply personal information in order for us to authenticate your identity or to provide you with services (such as access to our subscriber-only services, our bulletin board, email newsletters and competitions). In order to deliver such services, we will need to process and store your personal information and may need to transfer it to the relevant partner(s), to Bauer’s for processing both inside and outside the European Economic Area (EEA). By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information or as provided in this privacy policy.
 
@@ -60,6 +60,6 @@ Any links on the website may take you to third party sites over which we have no
 
 **Feedback, Comments & Suggestions**
 
-If you have any queries about Our Privacy Policy or any queries about the protection of personal information we hold about you, please do not hesitate to contact us. Our address is Kiss Network, Mappin House, 4 Winsley Street, London W1W 8HF or email editor@totalkiss.com
+If you have any queries about Our Privacy Policy or any queries about the protection of personal information we hold about you, please do not hesitate to contact us. Our address is Kiss Network, Mappin House, 4 Winsley Street, London W1W 8HF or email [**editor@kissfmuk.com**](mailto:editor@kissfmuk.com)
 
 If you do not agree with this Privacy Policy you should not submit your personal information on this website.
