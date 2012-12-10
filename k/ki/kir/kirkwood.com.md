@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kirkwood.com privacy policy that was archived on 2012-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120426095122id_/http%3A//www.kirkwood.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirkwood.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210175413id_/http%3A//winter.kirkwood.com/site/privacy) for the most accurate reproduction.*
 
-# Privacy | Kirkwood Mountain Resort
+# Privacy | Kirkwood Mountain Resort Winter
 
 Kirkwood Mountain Resort collects no personally identifiable information about individuals except when specifically and knowingly provided by such individuals.
 
