@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the glam.co.uk privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606082210id_/http%3A//glammedia.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glam.co.uk privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210115721id_/http%3A//glammedia.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Glam Media UK
 
-_Revised September 30, 2011._
+_Revised August 29, 2012._
 
 Glam Media Ltd. (“We”) are committed to protecting and respecting your privacy.
 
@@ -120,3 +120,19 @@ Glam Media UK
 London W1W 8QB __
 
 _[CustomerCare-UK@glam.com](mailto:CustomerCare-UK@glam.com)_
+
+## 
+
+[](http://glammedia.co.uk/wp-content/uploads/2011/09/master.iab_europe.jpg)
+
+## INTERACTIVE ADVERTISING BUREAU EUROPE
+
+The [Interactive Advertising Bureau (IAB) Europe](http://www.iabeurope.eu/public-affairs/oba-framework/self-regulation-framework.aspx) is the trade association of the European digital and interactive marketing industry representing 27 National IABs and Partners across Europe and over 5,500 companies. The IAB Europe exists to Promote the growth of Europe’s interactive advertising markets through events, partnerships and communications activity, to Protect the interests of the industry through an active programme of public affairs, to Prove the value of the market through research and education, and to Professionalise the industry defining standards and practices. The IAB Europe offers consumers an Online Behavioral Advertising (OBA) [opt-out platform](http://www.youronlinechoices.com/uk/your-ad-choices) and provides general information to consumers about privacy tools. Glam Media partners with the IAB Europe and conforms with [Europes’ Online Advertising Industry Self-Regulation Framework](http://www.iabeurope.eu/public-affairs/oba-framework/self-regulation-framework.aspx).
+
+[](http://glammedia.co.uk/wp-content/uploads/2011/09/advertising-options-155.png)
+
+## ADVERTISING OPTION ICON
+
+The Advertising Option Icon [](http://glammedia.co.uk/wp-content/uploads/2011/09/advertising-options-20.png) is designed to provide consumers with enhanced information and choices about how and when data is collected or used to serve ads targeted to them based on their likely interests. The Advertising Option icon is served on or near ads with the accompanying text “AdChoices” as shown below:
+
+[](http://glammedia.co.uk/wp-content/uploads/2011/09/ad-choices-example.jpg)
