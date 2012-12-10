@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zigwheels.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611205435id_/http%3A//www.zigwheels.com/privacypolicy.html%3Fheight%3D550%26width%3D650%3Bmodal%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zigwheels.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210123613id_/http%3A//www.zigwheels.com/privacypolicy.html%3Fheight%3D550%26width%3D650%3Bmodal%3Dfalse) for the most accurate reproduction.*
 
 # 
 
