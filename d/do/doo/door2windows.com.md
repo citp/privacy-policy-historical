@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the door2windows.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611073036id_/http%3A//www.door2windows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the door2windows.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210180910id_/http%3A//www.door2windows.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | door2windows
 
 ### What information do we collect?
 
-We collect information from you when you register on our site or subscribe to our newsletter.
-
-When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+We collect information from you when subscribe to our newsletter.
 
 Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
