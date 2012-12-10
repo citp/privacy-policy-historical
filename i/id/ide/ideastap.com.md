@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideastap.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611165537id_/http%3A//www.ideastap.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideastap.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210120038id_/http%3A//www.ideastap.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -20,6 +20,8 @@ The information collected on the website includes:
 
 We use website analytics to help us measure the effectiveness of our site and how visitors use our site. The type of information we collect includes content viewed, pages, site sections and videos. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors and what kinds of offers our customers like to see.
 
+You can [read our cookie policy here](https://web.archive.org/cookies), including a list of the cookies our site uses. 
+
 Disabling/Enabling Cookies - users have the ability to accept or disable cookies by modifying the settings in their browser. Disabling cookies however may mean that some functionality may be affected. For further directions on how to disable cookies please visit: [www.allaboutcookies.org/manage-cookies/stop-cookies-installed.html](http://www.allaboutcookies.org/manage-cookies/stop-cookies-installed.html).
 
 **1.3.3** E-mail addresses, contact details and/or other details which users voluntarily provide in order to:
@@ -29,7 +31,7 @@ Disabling/Enabling Cookies - users have the ability to accept or disable cookies
   * let you know about other members, groups and services in which you may be interested;
   * inform you about changes and improvements to the website;
   * register for competitions and other premium content;
-  * participate in discussion forums (see below); 
+  * participate in discussion forums (see below);
   * provide content to IdeasTap (see below); and
   * copy IdeasTap notifications and personal messages to your inbox.
 
@@ -45,7 +47,7 @@ If you are under the age of 13, please do not attempt to register with IdeasTap 
 
 We strongly recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet and we encourage parents to teach their children about safe internet use practices. For more information please read our safety page.
 
-## 1.5 Your rights ****
+## 1.5 Your rights
 
 You have the right to access your information held by IdeasTap Ltd and, where necessary, to have it amended. For more details, please contact: IdeasTap Ltd, Woolyard, 54 Bermondsey Street, London SE1 3UD or e-mail at [info@ideastap.com](mailto:info@ideastap.com).
 
