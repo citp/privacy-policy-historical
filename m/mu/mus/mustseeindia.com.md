@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mustseeindia.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603040257id_/http%3A//www.mustseeindia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mustseeindia.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211113622id_/http%3A//www.mustseeindia.com/privacy) for the most accurate reproduction.*
 
 # India Travel Guide, India Tourism & Travel Tips, privacy:Must See India
 
@@ -44,8 +44,6 @@ MSI may offer promotions that are sponsored by or co-sponsored with identified t
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
 **Amendment of this policy**   
-MSI may from time to time amend this policy. When this policy is so amended, the last date of such amendment shall be indicated on this policy under the legend "Revised on ____". In the event the amendment of this policy results in an enlargement of the scope of permitted disclosures of personally identifiable information, we shall obtain your consent before such disclosure. 
+MSI may from time to time amend this policy. The latest version of this policy will reside on this website. In the event the amendment of this policy results in an enlargement of the scope of permitted disclosures of personally identifiable information, we shall obtain your consent before such disclosure. 
 
 If you have questions about our privacy statement or our use of your information, or if you need help changing the information provided to us, please contact us by clicking [here](http://www.mustseeindia.com/contact). 
-
-_Revised on Mar 13, 2009_
