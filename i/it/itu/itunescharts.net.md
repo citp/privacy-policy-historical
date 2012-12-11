@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the itunescharts.net privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514081508id_/http%3A//www.downloadcharts.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itunescharts.net privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211073155id_/http%3A//www.itunescharts.net/privacy-policy) for the most accurate reproduction.*
 
-# DownloadCharts.net: Privacy Policy
+# iTunesCharts.net: Privacy Policy
 
-At DownloadCharts.net we are committed to safeguarding and preserving the privacy of our visitors. 
+At iTunesCharts.net we are committed to safeguarding and preserving the privacy of our visitors. 
 
 This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site. 
 
@@ -63,4 +63,4 @@ In accordance with the Data Protection Act 1998 you have the right to access any
 
 ## Contacting Us
 
-Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at genie@downloadcharts.net. 
+Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at genie@itunescharts.net. 
