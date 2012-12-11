@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hispeedtube.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608152641id_/http%3A//www.hispeedtube.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hispeedtube.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211183420id_/http%3A//www.hispeedtube.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
