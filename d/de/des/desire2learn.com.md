@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desire2learn.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612042403id_/http%3A//www.desire2learn.com/contact/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desire2learn.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212001851id_/http%3A//desire2learn.com/contact/privacy) for the most accurate reproduction.*
 
 # Desire2Learn Incorporated Privacy Statement
 
@@ -6,7 +6,7 @@
 
 We at the Desire2Learn family of companies ("we" or "us") are committed to protecting the privacy of our users.
 
-This Privacy Statement applies to personal information collected (1) at Desire2Learn Web sites and other sites that we own or control that link to this policy ("Desire2Learn Web sites"), (2) for or by Desire2Learn® enterprise offerings that are hosted by Desire2Learn or its service providers, and (3) for or by Desire2Learn consumer offerings. There are two main classes of users of Desire2Learn offerings: enterprise users and consumer users. Enterprise users access offerings by virtue of an agreement that we have with the user's employer, institution (educational or otherwise) or other organization ("Organization"). Consumer users access Desire2Learn offerings by virtue of an agreement directly with us.
+This Privacy Statement applies to personal information collected (1) at Desire2Learn Web sites and other sites that we own or control that link to this policy ("Desire2Learn Web sites"), (2) for or by Desire2Learn enterprise offerings that are hosted by Desire2Learn or its service providers, and (3) for or by Desire2Learn consumer offerings. There are two main classes of users of Desire2Learn offerings: enterprise users and consumer users. Enterprise users access offerings by virtue of an agreement that we have with the user's employer, institution (educational or otherwise) or other organization ("Organization"). Consumer users access Desire2Learn offerings by virtue of an agreement directly with us.
 
 If you are an enterprise user, this statement does not affect the terms of any agreement between you and your Organization. You should read and understand the terms of any privacy statements or policies that you enter into with parties other than us, including your Organization, as those policies may also explain how your personal information is used by those parties.
 
