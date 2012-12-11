@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lebara.co.uk privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614210425id_/http%3A//www.lebara.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lebara.co.uk privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211154354id_/http%3A//www.lebara.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Lebara Mobile - International mobile phone calls & SIM cards
 
@@ -123,8 +123,8 @@ If you are registered with www.lebara.co.uk, any Media Messages you send to an e
 9.2 Users 16 and under  
 If you are aged 16 or under, please get your parent or guardian's permission before providing any personal information. Users without this consent are not allowed to provide us with personal information.   
 9.3 Co-Branded Micro Sites and Third Party Sites  
-Some web pages and Micro Websites included within Lebara’s websites may be co-branded with third party names, logos, or properties. These Micro Websites are operated or maintained by or on behalf of Lebara. While such third parties are sponsors of these web pages or Micro Websites, the third parties do not share in any personally identifiable information collected within those web pages or Micro Websites unless otherwise stated.  
-This policy does not apply to third party sites that you may access via our portals. You should therefore ensure that you are familiar with the applicable third party privacy policy before entering any personal information on a third party site.   
+Some web pages and Micro Websites included within Lebara’s websites may be co-branded with third party names, logos, or properties. These Micro Websites are operated or maintained by or on behalf of Lebara. While such third parties are sponsors of these web pages or Micro Websites, the third parties do not share in any personally identifiable information collected within those web pages or Micro Websites unless otherwise stated. Save for pages hosted by Lebara's payment processor, Mi-Pay Ltd (to whom this policy will apply), this policy does not apply to third party sites that you may access via our portals. You should therefore ensure that you are familiar with the applicable third party privacy policy before entering any personal information on a third party site 
+
 9.4 Non-EEA Use of Information  
 The information you provide to us may be passed to third parties located outside the European Economic Area. Countries outside the European Economic Area do not always have strong data protection laws. However we will always take steps to ensure that your information is used by third parties in accordance with this policy. Additional terms and conditions may be presented when signing up for specific products and services.   
 9.5 Marketing Information from Third Parties  
