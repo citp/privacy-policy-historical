@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ez9articles.appspot.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610131857id_/http%3A//www.ez9articles.appspot.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ez9articles.appspot.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211121856id_/http%3A//www.ez9articles.appspot.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Articles Directory - EZ9
 
