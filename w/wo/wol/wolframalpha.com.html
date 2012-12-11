@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wolframalpha.com privacy policy that was archived on 2012-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120527140408id_/http%3A//www.wolframalpha.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wolframalpha.com privacy policy that was archived on 2012-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121211133426id_/http%3A//www.wolframalpha.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" js"><head>
     <title>Wolfram|Alpha Privacy Policy</title>
@@ -191,6 +191,14 @@ body #pageTitle {
       <p>The personally identifiable information we collect on our website or through our service consists of information you submit to us, including your name, email address, and other personal information that you willingly provide. Because participation in these activities is voluntary, you have a choice whether or not to disclose such information.</p>
       
       <p>In addition to information that you provide to us through forms, we receive non-personally identifiable information whenever you interact with our websites, including your Internet Protocol (IP) address, browser type and version, geographical region, referral URLs, and other data automatically supplied by common web browsers.</p>
+
+	  <h2>What Information Do We Collect from Third-Party Sites?</h2>
+	  
+	  <p>When you use any Wolfram|Alpha application associated with a Third-Party Site ("TPS"), including but not limited to social networking sites such as Facebook, we may collect personally identifiable information about you from the profile you have established at the TPS.</p>
+	  
+	  <p>By authorizing Wolfram|Alpha to access your TPS profile, you are authorizing Wolfram|Alpha to collect, store, and use in accordance with this Privacy Policy any and all information that your privacy settings at the TPS allow Wolfram|Alpha to access through the TPS Application Programming Interface ("API").</p>
+	  
+	  <p>The personally identifiable information Wolfram|Alpha is allowed to access is affected by the privacy settings you have established at the TPS.  Because the linkage between any TPS and Wolfram|Alpha is completely voluntary, and our ability to access your information at the TPS requires that linkage, you have a choice whether or not to disclose such information. </p>
       
       <h2>How Is Your Information Used?</h2>
       
@@ -206,12 +214,21 @@ body #pageTitle {
       
       <p>We may release personally identifying information when we believe release is necessary to comply with lawful court orders. Any collected information associated with your use of the website (personal and non-personal) will be disclosed to government authorities or third parties only pursuant to a lawful request, subpoena, or other process that legally compels disclosure of that information.</p>
       
-      <p>We may also preserve, use, or disclose your information if necessary to enforce our <a href="termsofuse.html">Terms of Use</a> and related agreements; to detect, prevent, or otherwise address fraud, security or technical issues, including high-volume use of the website; to respond to support requests; or to protect the rights, property, or safety of Wolfram|Alpha, our users, or others.</p>
+      <p>We may also preserve, use, or disclose your information if necessary to enforce our&nbsp;<a href="/termsofuse/">Terms of Use</a>&nbsp;and related agreements; to detect, prevent, or otherwise address fraud, security or technical issues, including high-volume use of the website; to respond to support requests; or to protect the rights, property, or safety of Wolfram|Alpha, our users, or others.</p>
       
-      <h2>Cookies</h2>
-      
-      <p>When you visit our website, we, like most websites, send one or more cookies—small anonymous identifiers—to your computer that uniquely identify you to our servers. While we do use cookies for security and fraud investigation purposes, our primary purpose is to enhance your user experience by understanding and remembering your preferences, and by general tracking of our user trends. Most browsers are initially set up to accept cookies, but you can configure your browser to accept all cookies, reject all cookies, or to notify you when a cookie is sent. Please be aware that Wolfram|Alpha may not have full functionality if your browser refuses cookies.</p>
-      
+<a name="cookies"></a>
+<h2>Cookies</h2>
+
+<p>When you visit our website, we, like most websites, send one or more cookies—small anonymous identifiers—to your computer that uniquely identify you to our servers. While we do use cookies for security and fraud investigation purposes, our primary purpose is to enhance your user experience by understanding and remembering your preferences, and by general tracking of our user trends. Most browsers are initially set up to accept cookies, but you can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. Please be aware that Wolfram|Alpha may not have full functionality if your browser refuses cookies. We utilize the following types of cookies:</p>
+
+<p>1) Strictly Necessary Cookies: These cookies are strictly necessary to provide services that you have requested on our website.</p>
+
+<p>2) Functional Cookies: These cookies support and facilitate your use of our website by enabling enhanced and personalized features.</p> 
+
+<p>3) Performance Cookies: These cookies collect information that we utilize to support the measurement of this website.</p>
+
+<p>4) Targeting Cookies: These cookies are used by social sharing services (such as Facebook), and also by various third parties to deliver messaging that may be of value or interest to you. We do not have access to read or write such third-party cookies, nor do we directly control the manner in which they may be used.</p>
+
       <h2>Links to Third-Party Websites</h2>
       
       <p>From time to time, Wolfram|Alpha may contain links to other websites. We do not exercise any control over these websites, and we are not responsible for their privacy practices or content. We encourage all users to read the privacy policies of each and every website visited when following links from the Wolfram|Alpha website. This privacy policy applies solely to information collected by Wolfram|Alpha.</p>
@@ -240,7 +257,7 @@ body #pageTitle {
 </div>
 
 
-<script>if (top !== self) top.location.replace(self.location.href+"unauthorized.html");</script> 
+<script>if (top !== self && top.document.domain != self.document.domain) top.location.replace(self.location.href+"unauthorized.html");</script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
 
 <footer class="common">
@@ -262,7 +279,7 @@ body #pageTitle {
         <li class="noimg">© 2012 Wolfram Alpha LLC—A <a href="http://www.wolfram.com/">Wolfram Research</a> Company</li>
         <li><a href="/termsofuse.html" title="Wolfram|Alpha Terms of Use">Terms</a></li>
         <li><a href="/privacypolicy.html" title="Wolfram|Alpha Privacy Policy">Privacy</a></li>
-        <li><a href="/entities/index/" title="Wolfram|Alpha Entity Index">Entity Index</a></li>
+        <!-- <li><a href="/entities/index/" title="Wolfram|Alpha Entity Index">Entity Index</a></li>  -->
     </ul>
     
 
@@ -338,14 +355,18 @@ body #pageTitle {
 <script>
   lboxBindNotify("#follow .news");
 </script>
+<script src="/Calculate/cookietest.jsp"></script>
 
 
 <script src="/javascript/index.js"></script>
+<script src="/Calculate/javascript/utilities.js"></script>
+<script src="/Calculate/javascript/watrack.js"></script>
 <script src="/Calculate/javascript/auth.js"></script>
 <script>
 $(document).ready(function() {
     $("#header #i").blur();
     queryBoxBlur($("#header #i"));
+    watrack.initDefaults();
 
     $("#header #i").blur(function() {
             queryBoxBlur($(this));
@@ -368,6 +389,20 @@ $(document).ready(function() {
           window.location.href = "/input/?i=" + encodeURIComponent(ctrl.val());
       });
     });
+/*
+    $(".pro-button #userEmail, #signinStatus #userEmail").live("click",function(e){
+      if ($("#authbox").length < 1) {
+        $.get("/input/authstatus.jsp", function(d,s){
+	    var pos = $(this).offset();
+	    $("body").append(d);
+	    $("#authbox").css({
+	      "top" : pos.top + 10,
+	      "left" : pos.left
+	    }).show();
+        });
+      }
+    });
+*/
 
 });
 
