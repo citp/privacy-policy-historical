@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flixster.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629040501id_/http%3A//www.flixster.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixster.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211094123id_/http%3A//www.flixster.com/site/privacy) for the most accurate reproduction.*
 
 # Flixster Privacy Policy
 
@@ -17,7 +17,7 @@ These changes will apply to information you provided to us in the past as well a
 
 Previous version of our Privacy Policy:
 
-[September 9, 2010](https://web.archive.org/misc/copyrightprivacyterms?ver_ppol=20100910&tab=privacy)
+[September 9, 2010](http://community.flixster.com/misc/copyrightprivacyterms?ver_ppol=20100910&tab=privacy)
 
 Thank you for visiting Flixster, including Rotten Tomatoes (together with the other [Warner Bros. Entertainment Group](http://www.warnerbros.com/main/privacy/privacy_list.html) companies, "we" "us", or "our"). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the collection and use of the personal information you submit on Web pages or for services where this policy is posted. If you also have downloaded the Flixster Collections software, please read the Additional Privacy Disclosures for Flixster Collections Software to learn more about the additional information collection practices that are specific to that offering. 
 
