@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whatsappdude.com privacy policy that was archived on 2012-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120416015139id_/http%3A//www.theappsmaker.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsappdude.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211061858id_/http%3A//fb.whatsappdude.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
 
 **What information do we collect?**
   * We collect information from you when you register on our site or fill out a form.
