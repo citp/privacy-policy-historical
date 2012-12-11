@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agcku.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226202036id_/http%3A//agcku.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agcku.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211013012id_/http%3A//agcku.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy | agcku.com
+# privacy policyagcku.com | agcku.com
 
 Data Privacy
 
@@ -22,6 +22,6 @@ Commitment to Data Security
 
 Your personal information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allows you to switch to other mails.
 
-Privacy Contact Information
+Privacy [Contact](http://agcku.com/contact "Contact") Information
 
 If you have questions, concerns or comments about our privacy policy, please contact me
