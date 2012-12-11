@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novascotia.ca privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520030852id_/http%3A//novascotia.ca/cns/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novascotia.ca privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211132151id_/http%3A//novascotia.ca/cns/privacy) for the most accurate reproduction.*
 
 # Communications Nova Scotia Privacy Statement | novascotia.ca
 
@@ -6,7 +6,7 @@ The [Nova Scotia Government Website Privacy Policy Statement](http://novascotia.
 
 ## Google Analytics
 
-Google Analytics, a web analytics service provided by Google Inc., helps to measure traffic patterns to, from, and within the websites. This analytics measurement tool uses session and persistent cookies _and JavaScript code_ to collect standard information and to track visitor behaviour information in an anonymous form. The information generated about your use of the websites is transmitted to Google. No personal, identifying information is used or stored by Google This anonymous information is used to evaluate visitors' use of the websites and to compile statistical reports on site activity. The aggregate data and statistical reports are used to help us make our sites more useful to visitors. 
+Google Analytics, a web analytics service provided by Google Inc., helps to measure traffic patterns to, from, and within the websites. This analytics measurement tool uses session and persistent cookies _and JavaScript code_ to collect standard information and to track visitor behaviour information in an anonymous form. The information generated about your use of the websites is transmitted to Google. No personal, identifying information is used or stored by Google. This anonymous information is used to evaluate visitors' use of the websites and to compile statistical reports on site activity. The aggregate data and statistical reports are used to help us make our sites more useful to visitors. 
 
 If you wish, you may opt out of being tracked by Google Analytics by disabling or refusing the cookies; by disabling JavaScript within your browser; or by using the Google Analytics [Opt-Out Browser Add-On](http://tools.google.com/dlpage/gaoptout?hl=en). You have the ability to decline providing the information by refusing cookies in your browser. However, this may prevent personalized services from being provided and you may not be able to take full advantage of all the features available. 
 
