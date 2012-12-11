@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sixpackfactory.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522212252id_/http%3A//www.sixpackfactory.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixpackfactory.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211083116id_/http%3A//www.sixpackfactory.com/general/privacy-policy) for the most accurate reproduction.*
 
-# Abs Nutrition, Abs Workout Diet, Diet For Six Pack Abs | SixPackFactory.com
-
-[Six Pack Factory](http://www.sixpackfactory.com/)
+# Privacy Policy - SixPackFactory
 
 This Privacy Policy sets out the approach which Sixpackfactory will take in relation to the treatment of Personal Information.
 
@@ -21,9 +19,3 @@ Sixpackfactory may Disclose Personal Information to unrelated third parties to e
 Sixpackfactory will take reasonable steps to ensure that its contracts with third parties include requirements for third parties to comply with the Use and Disclosure requirements of the Privacy Act.
 
 Sixpackfactory may Disclose Personal Information to law enforcement agencies, government agencies, courts or external advisers where permitted or required by law.
-
-#### BEST OF SIX PACK FACTORY
-
-#### Recent comments
-
-#### Join us on Facebook
