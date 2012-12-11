@@ -1,31 +1,27 @@
-> *The following text is extracted and transformed from the global1.com.au privacy policy that was archived on 2012-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120321012208id_/http%3A//www.global1.com.au/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D59%26Itemid%3D81) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the global1.com.au privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211073549id_/http%3A//global1.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy & Security Policy
 
-**GLOBAL1 respects your privacy.**
-
-**PRIVACY ACT 1988**
-
+Privacy & Security Policy   
   
-From December 21st 2001 amendments to the Privacy Act 1988 came into force to deal with the way that companies handle your personal information. GLOBAL1 is covered by the Privacy Act and the 10 National Privacy Principles in the Act.
+Global1Training Pty Ltd (ACN 18 112 642 485) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. By visiting [www.global1training.com](http://global1.com.au/index.php), you are accepting the practices described in this Privacy Notice. Questions regarding this statement should be directed by e-mail to [info@global1training.com](mailto:info@global1training.com). You also contact us at Global1Training Pty Ltd,  Suite 1106, Level 11, 100 William St Woolloomooloo NSW 2011.
 
-In addition, GLOBAL1 has developed a Privacy Policy which ensures that all of our staff are aware of our privacy obligations, and respect the privacy of your personal information.
+### Information Collected
 
-This statement tells you how, in general terms, we approach privacy and the handling of your personal information.
+Global1Training is the sole owner of the information collected on [www.global1training.com](http://global1.com.au/index.php). We will use and manage this privacy information in accordance with all applicable privacy laws in the Commonwealth of Australia and we are bound by the Privacy Act 1988. We will not share your personal information with any organisation outside our organisation.
 
-  
-**How we use and disclose your personal information**
+### Uses of Information
 
-We collect your personal information through completed order and repair request forms in order to provide you with GLOBAL1 products and services, to administer and provide you with repair services and to market our products and services to you. This may include services such as car install, sales dockets, account sales, specific product category sales, warranties and home delivery.
+We collect personal information only if it is relevant and necessary to providing the service or product you have requested from Global1Training Pty Ltd.  
 
-  
-If you make an application for finance in order to purchase one of our products, we will facilitate that request by forwarding your personal information as appropriate, with your consent. You will be provided with a document detailing how we handle your personal information, should you make a hire purchase through us.
 
-  
-We do not generally disclose your personal information to any other person or organization without your consent unless we are required or authorized by law to disclose certain information.
+### Choice/Opt-Out
 
-  
-**You have a right of access to your personal information**
+If you are a newsletter subscriber, you always have the option of no longer receiving them. At the bottom of each newsletter there is an opt-out option. Simply click on “Please click here to unsubscribe”.  
+Notification of Changes
 
-  
-You have a right to access the personal information we collect and hold about you, in accordance with the Privacy Act 1988. If at any time you would like to access this information, or your details change and you would like us to update our information, or you would like more information about how we handle your personal information, please contact our General Manager who acts in the capacity of Privacy Officer at Head Office, 29 South Street, Granville, NSW. A $10 administration fee will be charged for the retrieval of any personal information.
+If our privacy policy and information practices change at some time. Global1Training Pty Ltd will post the policy changes to the global1training.com Web site to notify you of these changes and provide you with the ability to opt out of these new uses.
+
+### Legal Disclaimer
+
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
