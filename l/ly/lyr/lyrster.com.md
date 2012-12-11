@@ -1,41 +1,86 @@
-> *The following text is extracted and transformed from the lyrster.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115220930id_/http%3A//www.lyrster.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyrster.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211105837id_/http%3A//www.lyrster.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Lyrster - Privacy Policy
+# Privacy Policy
 
-[](https://web.archive.org/ "Lyrics Search")
+[ ](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.lyrster.com&sealid=101 "TRUSTe online privacy certification")
 
-This is the web site of Lyrster.com.
+This privacy statement describes how Enough Media collects and uses the personal information you provide on our Web site: Lyrster.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
-We can be reached via e-mail at [contact@lyrster.com](mailto:contact@lyrster.com "Contact email")
+Enough Media has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, Lyrster.com and does not cover information that may be collected though our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
+Attn: Lyrster  
+727 Harrisburg  
+DesMoines, Iowa  
+USA, 50309 
 
-We collect aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit.
+If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor.
+## Collection and Use of Personal Information
 
-With respect to cookies: We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, customize Web page content based on visitors' browser type or other information that the visitor sends.
+We collect your email address when you use our contact us feature. We do not store this information and will only reply to your emails. 
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. 
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+We use this information to 
 
-From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+  * Respond to customer service requests
+  * Respond to your questions and concerns
+  * Improve the content of our Web site
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
-Persons who supply us with their telephone numbers on-line sending us e-mail at the above address. Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
+## Information Sharing
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. 
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses. Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
+We may also disclose your personal information 
 
-Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
+  * as required by law such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * if Enough Media is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * to any other third party with your prior consent to do so.
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-_Updated: 2011-07-12._
+To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. 
+
+## Cookies and Other Tracking Technologies
+
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. 
+
+## Third Party Cookies
+
+The use of cookies by our partners is not covered by our privacy statement. We do not have access or control over these cookies. Our partners use session ID cookies [to make it easier for you to navigate our site, etc.] 
+
+## Links to Other Web Sites
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of Enough Media. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+
+## Data Retention
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [contact@lyrster.com](mailto:contact@lyrster.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+## Security
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. 
+
+## Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
+## Correcting Personally Identifiable Information
+
+Please note that users can not update or delete previously submitted information. If your information (such as your email address) should change, we ask that you re-submit a request. 
+
+## Notification of Privacy Statement Changes
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+You can contact us by writing or emailing us at the address below: 
+
+Attn: Lyrster  
+727 Harrisburg  
+DesMoines, Iowa  
+USA, 50309 
+
+[contact@lyrster.com](mailto:contact@lyrster.com)
