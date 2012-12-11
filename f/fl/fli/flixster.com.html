@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flixster.com privacy policy that was archived on 2012-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629040501id_/http%3A//www.flixster.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flixster.com privacy policy that was archived on 2012-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121211094123id_/http%3A//www.flixster.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" lang="en" xmlns:bax="http://www.flixster.com/baxster"><head>
 	
@@ -9,10 +9,6 @@
 			
 		
 	
-	
-	
-		
-		
 	
 	<link rel="shortcut icon" type="image/ico" href="//static.flixstercdn.com/static/locker/images/favicon.ico">
 	<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
@@ -27,9 +23,6 @@
 	<meta name="msapplication-task" content="name=My Movies;action-uri=http://www.flixster.com/collection/;icon-uri=//static.flixstercdn.com/static/locker/images/favicon.ico">
 	
 	
-	<meta name="msapplication-task" content="name=Claim your complimentary movie from IE9;action-uri=http://www.flixster.com/ie9#pinned;icon-uri=//static.flixstercdn.com/static/locker/images/favicon.ico">
-	
-	
 		
 		
 			
@@ -38,8 +31,8 @@
 			
 			
 			
-			<link rel="stylesheet" type="text/css" href="http://static.flixstercdn.com/assets/v/prod20120628/styles?f=reset.css&amp;f=global.css&amp;f=flixster.css&amp;f=movie/moviePopover.css">
-			<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//static.flixstercdn.com/assets/v/prod20120628/scripts?f=lib/json2.js&amp;f=lib/jquery-1.6.2.js&amp;f=lib/jquery.tmpl.js&amp;f=lib/underscore.js&amp;f=lib/backbone.js&amp;f=quantcast.js" charset="utf-8"></script>
+			<link rel="stylesheet" type="text/css" href="http://static.flixstercdn.com/assets/v/prod20121206a/styles?f=reset.css&amp;f=global.css&amp;f=flixster.css&amp;f=movie/moviePopover.css">
+			<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//static.flixstercdn.com/assets/v/prod20121206a/scripts?f=lib/json2.js&amp;f=lib/jquery-1.8.2.js&amp;f=lib/jquery.tmpl.js&amp;f=lib/underscore.js&amp;f=lib/backbone.js&amp;f=quantcast.js" charset="utf-8"></script>
 		
 	
 	
@@ -63,9 +56,14 @@
 		_gaq.push(['_setAccount', 'UA-5570351-2']);
 		
 		
+        _gaq.push(['_setAllowAnchor', true],
+                ['_setCampNameKey', 'c'],
+                ['_setCampMediumKey', 'm'],
+                ['_setCampSourceKey', 's'],
+                ['_setCampaignCookieTimeout', 0]); 
 		var FLX = {
 			"ad":{ },
-			"release":"prod20120628",
+			"release":"prod20121206a",
 			"startTime":(new Date()).getTime(),
 			"fb":{
 				"appid":"2558160538",
@@ -76,7 +74,9 @@
 
 	
 	
-	
+    
+    
+ 
 	
 	
 
@@ -195,6 +195,7 @@
 
 
 
+
 	
 	
 	
@@ -233,9 +234,9 @@
 			} else {
 			    FLX.allAsyncScriptsReady = [FLX.asyncScriptsReady];
 			}
-			FLX.baxsterInitialized = $.Deferred();
+			FLX.baxsterInitialized = FLX.baxsterInitialized || $.Deferred();
 			$.ajaxSetup({cache: true});   
-			$.getScript('//static.flixstercdn.com/assets/v/prod20120628/scripts?f=app/baxster.js&f=app/views/search.js&f=app/views/hoverable.js&f=app/views/ProfileMenu.js&f=app/views/HoverTip.js&f=app/views/NavBar.js&f=app/views/Ads.js&f=app/views/moviePopover.js').success(FLX.asyncScriptsReady.resolve);
+			$.getScript('//static.flixstercdn.com/assets/v/prod20121206a/scripts?f=app/baxster.js&f=app/views/search.js&f=app/views/hoverable.js&f=app/views/ProfileMenu.js&f=app/views/HoverTip.js&f=app/views/NavBar.js&f=app/views/Ads.js&f=app/views/moviePopover.js').success(FLX.asyncScriptsReady.resolve);
 			
 		})(jQuery);
 		
@@ -261,11 +262,8 @@
 <script type="text/javascript">
 (function($) {
 	
-	var origSetRaw = FB.Cookie.setRaw;
-	FB.Cookie.setRaw = function setRaw(prefix, val, ts, domain) {
-	  domain = domain || 'flixster.com';
-	  origSetRaw(prefix,val,ts,domain);
-	};
+	
+	
 	
 	FB.init({ 
 		appId:'2558160538', 
@@ -290,48 +288,17 @@
 		
 
 
+
+
+
 <header class="header anonymous">
 	<div class="content" style="height:54px;">
-				
+		
 			
 			<a href="http://www.flixster.com/" class="logo fl" target="_top">Flixster</a>
 		
-
-		<nav class="mainNav" bax:view="NavBar">
-		  
-		  	
-		  	<a href="http://www.flixster.com/" accesskey="h" class="store" bax:sub="nav store" target="_top"><span>Home</span></a>
-		  
-		   
-		  	<a href="http://www.flixster.com/collection/" accesskey="m" class="mymovies" bax:sub="nav collection" target="_top"><span>Collection</span></a>
-		  
-		  
-		  <a href="http://www.flixster.com/movies-in-theaters" accesskey="t" class="intheaters" bax:sub="nav theaters" target="_top"><span>In Theaters</span></a>
-		  
-		</nav>
-		
-		<div class="dropdown fr mlm" bax:view="ProfileMenu" bax:template="profileMenu" data-logged-in="false" data-is-canvas="false">
-			
-			
-				<p class="right loggedout" style="color:#fff;">
-					<a href="https://www.flixster.com/login/" style="color:#fff;" class="bold" target="_top">Login</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/register/" style="color:#fff;" class="bold" target="_top">Sign Up</a>
-				</p>
 				
-
-
-
-
-	
-	
-		
-			
-	
-
-	
-			
-		</div>
-		
-		<form class="search fr" method="GET" action="/search/" bax:view="Search" bax:template="searchTemplate">
+		<form class="search inlineBlock" method="GET" action="/search/" bax:view="Search" bax:template="searchTemplate">
 		   <div class="input">
 		     <input name="search" bax:sub="query" accesskey="s" autocomplete="off" class="query animated fast" placeholder="Movies, actors, directors…">       
 		     <input bax:sub="searchbutton" type="submit" class="searchbutton" value="search">
@@ -352,7 +319,31 @@
 	
 
 
+		
+	
 
+        
+		<div class="dropdown fr mlm" bax:view="ProfileMenu" bax:template="profileMenu" data-logged-in="false" data-is-canvas="false" data-cancelled="false">
+			
+			
+				<p class="right loggedout" style="color:#fff;">
+					<a href="https://www.flixster.com/login/" style="color:#fff;" class="bold" target="_top">Login</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/register/" style="color:#fff;" class="bold" target="_top">Sign Up</a>
+				</p>
+				
+
+
+
+
+	
+	
+		
+			
+	
+
+	
+			
+		</div>
+        
 
 	</div>
 </header>
@@ -367,54 +358,16 @@
 				<div class="unit size1of1 pll">
 		        	
 		        	
+		        	
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
     
     
     
     
     
         
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <style type="text/css">
 	#privacy h1 { margin-bottom:5px; }
@@ -438,7 +391,7 @@
 	<p>These changes will apply to information you provided to us in the past as well as to information you provide to us in the future.</p>
 
 	<p>Previous version of our Privacy Policy:</p>
-	<p><a href="/misc/copyrightprivacyterms?ver_ppol=20100910&amp;tab=privacy">September 9, 2010</a></p>
+	<p><a href="http://community.flixster.com/misc/copyrightprivacyterms?ver_ppol=20100910&amp;tab=privacy">September 9, 2010</a></p>
 
 	<p>
 		Thank you for visiting Flixster, including Rotten Tomatoes (together with the other 
@@ -861,17 +814,17 @@
     <div class="unit lastUnit size3of10">
         <a class="fr mls" href="https://market.android.com/details?id=net.flixster.android" target="_blank"><i class="storeButton market "></i></a>
         <a class="fr mrs" href="http://itunes.apple.com/us/app/movies-by-flixster-rotten/id284235722" target="_blank"><i class="storeButton appstore"></i></a>
-        <div class="clearfix"><div class="fr mtm" style="color:#9D9D9D;">In partnership with <a href="http://www.tmz.com" target="_blank" style="color:#9D9D9D;">TMZ.com</a></div></div>
         <ul class="secret right">
        		<li>/site/privacy.auto.jsp</li>
-       		<li>web206.flixster.com (us)</li>
-       		<li>GA:/privacy r: prod20120628</li>
-       		<li>locker-git-desc:WWWRELEASE.2012-06-28.17-46-17</li>
-       		<li>flixster-git-desc:WWWRELEASE.2012-06-28.17-46-17</li>
+       		<li>web208.flixster.com (us)</li>
+       		<li>GA:/privacy r: prod20121206a</li>
+       		<li>locker-git-desc:WWWRELEASE.2012-12-07.11-10-52</li>
+       		<li>flixster-git-desc:WWWRELEASE.2012-12-07.11-10-52</li>
        	</ul>
     </div>
 	</div>
 </footer>
+<style type="text/css">body { background-color:#626262; }</style>
 	
 
 
@@ -906,7 +859,7 @@
 			<div class="line">
 				{{if m.streamable == "true"}}
 					<div class="unit size1of2 phm pvs">
-						<a href="/movie/${m.vanity}/${m.avail.id}/watch/" class="button" style="display:block;"><span class="bold center" style="display:block;"><i class="icon play mrs" />Watch Now</span></a>
+						<a href="/movie/${m.vanity}/${m.rightId}/watch/" class="button" style="display:block;"><span class="bold center" style="display:block;"><i class="icon play mrs" />Watch Now</span></a>
 					</div>
 					{{if m.downloadAvailable == "true"}}
 						{{if m.downloadAllowed == "true"}}
@@ -951,16 +904,7 @@
 			</div>
     </div>
 {{/if}}
-    <div class="popover" id="arrow"></div></script><script id="profileMenu" type="text/x-jquery-tmpl"><div class="mrn hoverable">
-	<div class="pts inlineBlock"><img src="//graph.facebook.com/${userID}/picture" class="profileIcon ras"></div>
-	<h3 style="vertical-align: top; margin-top: 12px;" class="inlineBlock"><a style="color:#fff;" href="/user/me/" class="morelink light"><span bax:sub="name">You</span>&nbsp;</a></h3>
-</div>
-<ul class="dropdownContainer dividerall ras mrn" id="profileDropdown" style="width:136px; margin-top:15px; line-height:24px;">
-	<li class="item hoverable rts"><a accesskey="p" href="/user/me/" target="_top">Profile</a></li>
-	<li class="item hoverable"><a accesskey="a" href="/account/" target="_top">Account</a></li>
-	<li class="item"><a accesskey="?" href="http://flixster.desk.com/" rel="nofollow" target="_blank">Help</a></li>
-	<li class="item hoverable rbs"><a accesskey="o" bax:sub="logout" href="javascript:void(0);">Logout</a></li>
-</ul></script><script id="searchTemplate" type="text/x-jquery-tmpl"><ul class="dividerall man ras searchResults">
+    <div class="popover" id="arrow"></div></script><script id="searchTemplate" type="text/x-jquery-tmpl"><ul class="dividerall man ras searchResults">
 
 <!-- first show movies search results -->
 <li class="heading rts"><h3 class="man pas">Movies</h3></li>
@@ -981,11 +925,8 @@
 <li class="heading"><h3 class="man pas">Actors and Directors</h3></li>
 {{if celebs.length}}
 	{{each(i, celeb) celebs}}
-		<li class="result item media hoverable dividerbottom">
-			<img class="img" width="45" src="${celeb.photo.thumbnail}" />
-			<div class="bd">
-				<h4 class="mbs"><a href="/celebrity/${celeb.vanity}" target="_top">${celeb.name}</a></h4>
-			</div>
+		<li class="result item hoverable dividerbottom">
+			<h4 class="mln"><a href="/celebrity/${celeb.vanity}" target="_top">${celeb.name}</a></h4>
 		</li>
 	{{/each}}
 {{else}}<li class="result media dividerbottom"><p>No actors or directors found</p></li>
@@ -993,7 +934,16 @@
 
 <li class="bold right prs"><a href="javascript:void(0);" bax:sub="viewall">View All Search Results</a></li>
 </ul>
-</script>
+</script><script id="profileMenu" type="text/x-jquery-tmpl"><div class="mrn hoverable">
+	<div class="pts inlineBlock"><img src="//graph.facebook.com/${userID}/picture" class="profileIcon ras"></div>
+	<h3 style="vertical-align: top; margin-top: 12px;" class="inlineBlock"><a style="color:#fff;" href="/user/me/" class="morelink light"><span bax:sub="name">You</span>&nbsp;</a></h3>
+</div>
+<ul class="dropdownContainer dividerall ras mrn" id="profileDropdown" style="width:136px; margin-top:15px; line-height:24px;">
+	<li class="item hoverable rts"><a accesskey="p" href="/user/me/" target="_top">Profile</a></li>
+	<li class="item hoverable"><a accesskey="a" href="/account/" target="_top">Account</a></li>
+	<li class="item"><a accesskey="?" href="http://flixster.desk.com/" rel="nofollow" target="_blank">Help</a></li>
+	<li class="item hoverable rbs"><a accesskey="o" bax:sub="logout" href="javascript:void(0);">Logout</a></li>
+</ul></script>
 <script type="text/javascript" id="baxsterPopulator">
 (function($) {
 	$.when.apply(window,FLX.allAsyncScriptsReady || []).then(function() {
@@ -1041,6 +991,7 @@ FLX.logout = function(redirecturl) {
 	
 	
 	
+    
 	
 	
 		_gaq.push(['_trackPageview' , '/privacy']);
@@ -1065,7 +1016,7 @@ FLX.logout = function(redirecturl) {
 
 
 
-<img style="visibility:hidden;width:0px;height:0px;" src="http://b.scorecardresearch.com/b?c1=2&amp;c2=3002201&amp;c3=3002201&amp;c4=http%3A%2F%2Fwww.flixster.com%2Fsite%2Fprivacy%2F&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fwww.flixster.com%2Fsite%2Fprivacy%2F&amp;c8=Flixster+Privacy+Policy&amp;c9=&amp;c10=&amp;c15=&amp;rn=1340942701060" alt="">
+<img style="visibility:hidden;width:0px;height:0px;" src="http://b.scorecardresearch.com/b?c1=2&amp;c2=3002201&amp;c3=3002201&amp;c4=http%3A%2F%2Fwww.flixster.com%2Fsite%2Fprivacy%2F&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fwww.flixster.com%2Fsite%2Fprivacy%2F&amp;c8=Flixster+Privacy+Policy&amp;c9=http%3A%2F%2Fwww.facebook.com%2Fappcenter%2Fflixster%3Ffb_source%3Dappcenter&amp;c10=&amp;c15=&amp;rn=1355218883183" alt="">
 
 
 <!-- START Nielsen Online SiteCensus V6.0 -->
