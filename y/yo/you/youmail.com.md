@@ -1,17 +1,23 @@
-> *The following text is extracted and transformed from the youmail.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101073730id_/http%3A//www.youmail.com/home/corp/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youmail.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211193748id_/http%3A//www.youmail.com/home/corp/privacy) for the most accurate reproduction.*
 
 # YouMail Privacy Policy
 
-Your privacy is important to YouMail. YouMail is committed to respecting your privacy and the confidentiality of your personal data and communications content. This Privacy Statement is designed to assist you in understanding how YouMail uses and safeguards the information you provide. 
+Your privacy is important to YouMail. 
 
-YouMail collects key information that is necessary to identify you as a unique user, to establish your account, and to allow us to provide our services to you. YouMail **does not** sell or otherwise market information about you! 
+YouMail is committed to respecting your privacy and the confidentiality of your personal data and communications content. This Privacy Statement is designed to assist you in understanding how YouMail uses and safeguards the information you provide. 
 
-YouMail does leverage third party services in some areas as part of our service offering. We will not provide the names, email addresses, or phone numbers to any other third party except our service providers who need to use it in connection with providing the specific YouMail services. 
+YouMail collects key information that is necessary to identify you as a unique user, to establish your account, and to allow us to provide our services to you. This includes your phone number(s), e-mail address, and name, and, if you opt-in, can include information from your address book and your social network connections. 
+
+YouMail leverages third-party services (such as transcription providers, text message gateways, and others) to provide our services to you. YouMail may provide specific information to these parties, solely as is necessary for the purpose of their providing specific services to YouMail. For example, to send you a txt message, we need to provide your mobile number to a text message gateway service. 
 
 YouMail collects and processes, or has third party service providers who collect and process on YouMail's behalf, information about demographics and usage of the services that help guide and carry out YouMail marketing activities. Information usage in this category is general and in no way can be used to identify specific users, phone numbers, or email addresses. 
 
+YouMail does not sell or otherwise market information about you for the purposes of direct marketing to you. However, YouMail reserves the right to provide communications-related information to third parties for specific, limited non-marketing purposes, where YouMail data is part of an on-going "validation" process to improve the quality of these services. For example, YouMail data may be used by service providers to provide more accurate caller ID information on incoming calls. 
+
+YouMail uses third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit [networkadvertising.org](http://networkadvertising.org/). 
+
 E-mail Addresses  
-YouMail respects the privacy of personal e-mail accounts and stores your e-mail addresses as secure information. Your details will not be passed to third parties for their marketing purposes outside of the YouMail Services without your explicit permission. YouMail may use e-mail to send you messages about faults and service issues. YouMail may also use e-mail to keep you up to date with news about the YouMail Software and services. If you do not want to be kept informed in this way by e-mail, please contact YouMail at [support@youmail.com](mailto:support@youmail.com). 
+YouMail respects the privacy of personal e-mail accounts and stores your e-mail addresses as secure information. Your details will not be passed to third parties for their marketing purposes outside of the YouMail Services without your explicit permission. YouMail may use e-mail to send you messages about faults and service issues. YouMail may also use e-mail to keep you up to date with news about the YouMail Software and services. If you do not want to be kept informed in this way by e-mail, please contact YouMail at [support@youmail.com](mailto:support@youmail.com).. 
 
 Telephone Numbers  
 YouMail respects the privacy of personal mobile numbers. Your mobile telephone number is stored as secure information. Your details will not be passed to third parties for their marketing purposes outside of the YouMail Services without your explicit permission. YouMail may use your telephone number to send you messages about service related issues or in instances contact you as a courtesy to ensure your experience is as good as it can be. YouMail may also use your telephone number to keep you up to date with news about the YouMail Software and services. If you do not want to be kept informed in this way by e-mail, please contact YouMail at [support@youmail.com](mailto:support@youmail.com). 
