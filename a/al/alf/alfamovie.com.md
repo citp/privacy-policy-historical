@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alfamovie.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526131259id_/http%3A//www.alfamovie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfamovie.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211024358id_/http%3A//www.alfamovie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Download and Watch movies on AlfaMovie..
 
