@@ -1,0 +1,322 @@
+<!--The following is the downloaded HTML source of the dressup247.com privacy policy that was archived on 2012-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121211070302id_/http%3A//www.dressup247.com/cms/policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://ogp.me/ns/fb#"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Privacy Policy</title>
+
+<link href="http://www.dressup247.com/templates/dressup247/css/combinedCSS.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="http://www.dressup247.com/templates/dressup247/js/function.js"></script>
+
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="http://www.dressup247.com/templates/dressup247/js/pngfix.js"></script>
+<![endif]--> 
+
+<link rel="canonical" href="">
+<script type="text/javascript" src="http://www.dressup247.com/templates/dressup247/js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="http://www.dressup247.com/templates/dressup247/js/banner.js"></script>
+
+<script src="http://www.dressup247.com/templates/dressup247/jss/compressedJS.js"></script>
+<script src="http://www.dressup247.com/templates/dressup247/js/easySlider1.5.js"></script>
+<script type="text/javascript">
+  jQuery.noConflict();
+	jQuery(document).ready(function($){	
+		$("#slider").easySlider({
+			auto: true,   
+			continuous: true,
+			speed:2000
+		});
+	});	
+</script>
+<meta name="description" content="Privacy Policy">
+<meta name="keywords" content="policy">
+<meta name="google-site-verification" content="bMVBUuhBwx5yenxgql432oddRa_f-kNd2dCHEeiNbpg">
+<meta name="y_key" content="c3b7e8228c132ea8"></head><body><input type="hidden" id="gameid_redirect" value="http://www.dressup247.com/cms/policy">
+<script type="text/javascript">
+	var siteurl = "http://www.dressup247.com//";
+	
+</script>
+
+<base href="http://www.dressup247.com/">
+<!-- Share on facebook code starts here-->
+<script type="text/javascript">
+function fbs_click() {
+	u=location.href;
+	t=document.title;
+	
+	var width = 850;
+	var height = 600;
+	
+	var left = parseInt((screen.availWidth/2) - (width/2));
+	var top = parseInt((screen.availHeight/2) - (height/2));
+	
+	var windowFeatures = "width=" + width + ",height=" + height + ",status,resizable,left=" + left + ",top=" + top + "screenX=" + left + ",screenY=" + top;
+	
+	window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer',windowFeatures);
+	return false;
+}
+</script>
+<div id="headerContainer">
+  <div class="logoLft"><a href="http://www.dressup247.com/"><img src="http://www.dressup247.com/templates/dressup247/images/logo.png" alt="" width="226" height="175" border="0"></a></div>
+  <div class="logoRt">
+    <div class="loginMain">
+                  <script type="text/javascript">
+			function login()
+			{
+				var username = document.getElementById('username').value;
+				var password = document.getElementById('password').value;
+				
+				if(document.getElementById('remember').checked==true)
+				{
+				var remember = 1;
+				}
+				else
+				{
+				var remember = 0;
+				}
+				
+				jQuery(document).ready(function($) {
+				$('#login_process').html('<img src="http://www.dressup247.com/templates/dressup247/images/ajax-loading.gif" />');
+				$.ajax({
+				  type: "POST",
+				  url: 'profile.php?a=login_ajax',
+				  data: "username="+username+"&password="+password+"&remember="+remember,
+				  success: function(data) {
+				  data = trim(data);
+					if(data=='0')
+						{
+						$('#login_process').html('<input name="" type="image" src="http://www.dressup247.com/templates/dressup247/images/login.gif" onclick="login();" />');
+						alert("Wrong username or password");
+						return false;
+						}
+					else if(data=='ban')
+						{   
+						$('#login_process').html('<input name="" type="image" src="http://www.dressup247.com/templates/dressup247/images/login.gif" onclick="login();" />');
+						alert("This account has been banned for violating one or more of our Terms of Service.");
+						return false;
+						}
+					else if(data=='ip')
+						{
+						$('#login_process').html('<input name="" type="image" src="http://www.dressup247.com/templates/dressup247/images/login.gif" onclick="login();" />');
+						alert("Your IP is banned from registering");
+						return false;
+						}					
+					else
+						{
+							if(document.getElementById('gameid_redirect').value!="")
+							{
+							  location.href=document.getElementById('gameid_redirect').value;
+							}
+							else
+							{
+								location.href="profile/"+data+"/"+username+".html";
+							}
+						}
+				  }   
+				});
+				});
+			}
+			
+			</script>
+      <div class="loginBg">
+        <div class="signUp">Already a DressUp247.com member?<span>
+                    <a href="profile.php?a=register_process">Sign Up</a>
+                    </span></div>
+        <div class="userLoginmain">
+          <input name="username" id="username" type="text" value="Login Id" class="userLoginFld" onfocus="clearText(this)" onblur="replaceText(this)">
+          <input name="password" id="password" type="password" value="Password" class="userLoginFld" onfocus="clearText(this)" onblur="replaceText(this)">
+          <span id="login_process">
+          <input name="" type="image" src="http://www.dressup247.com/templates/dressup247/images/login.gif" onclick="login();">
+          </span>
+          <div class="clear"></div>
+        </div>
+        <div class="keepMeLogin">
+          <input id="remember" type="checkbox" value="1">
+          Remember me <span><a href="http://www.dressup247.com/forgot_password.php">Forgot login details?</a></span> </div>
+      </div>
+            <div class="clear"></div>
+    </div>
+    <div class="menuMain">
+      <div class="menuLftCone">
+        <div class="menuRtCone">
+          <div class="menuMdlBg">
+            <div class="menuLeft">
+              <ul class="menuLink">
+                <li><a href="http://www.dressup247.com/" class="{$index}">Home</a></li>
+                <li><a href="http://www.dressup247.com/games/1.html" class="{$games}">Games</a></li>
+                                <li><a href="http://www.dressup247.com/members/1.html" class="{$members}">Members</a></li>
+                              </ul>
+            </div>
+            <div class="searchMain_login">
+                            <div class="signupBtn">
+                                <a href="profile.php?a=register_process"><img src="http://www.dressup247.com/templates/dressup247/images/signup_btn.gif" alt=""></a>
+                              </div>
+                            <div class="srhMain">
+                                <div class="srhBigbg">
+                  <div id="cse-search-form" style="width: 100%;">Loading</div>
+                  <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+                  <script type="text/javascript"> 
+  google.load('search', '1', {language : 'en', style : google.loader.themes.BUBBLEGUM});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};
+  
+    var imageSearchOptions = {};
+    imageSearchOptions['layout'] = google.search.ImageSearch.LAYOUT_POPUP;
+    customSearchOptions['enableImageSearch'] = true;
+    customSearchOptions['imageSearchOptions'] = imageSearchOptions;
+  
+    var customSearchControl = new google.search.CustomSearchControl(
+      '008697571615375481088:oqvcqv603wu', customSearchOptions);
+
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.setAutoComplete(true);
+    options.enableSearchboxOnly("http://www.dressup247.com/googlesearch/");
+    customSearchControl.draw('cse-search-form', options);
+  }, true);
+</script>
+ <style type="text/css">
+  input.gsc-input {
+    border-color: #ffffff;
+  }
+  input.gsc-search-button {
+    border-color: #a80077;
+    background-color: #a80077;
+  }
+</style>
+                </div>
+                <div class="clear"></div>
+              </div>
+              <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="clear"></div>
+</div>
+<div id="mdlContainer" style="min-height:500px">
+  <div class="mdlBoxMain">
+    <div align="center"><img src="templates/dressup247/images/mdlbox_tpcone.gif" alt=""></div>
+    <div class="boxMdlbg">
+      <div class="regBlueBoxMain">
+        <div class="redBoxMdlbg" style="min-height:500px;">
+          <p><strong>
+                        </strong></p>
+          <div style="margin-top: 10px; width: 600px; margin-left: auto; margin-right: auto;">
+<h1>Privacy Policy</h1><br><br>
+
+<p>If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at dressup247@gmail.com.</p><br>
+
+<p>At DressUp247.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by DressUp247.com and how it is used.</p><br>
+
+<b>LOG FILES</b><br>
+
+<p>Like many other Web sites, DressUp247.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.</p><br>
+
+<b>COOKIES AND WEB BEACONS</b><br>
+
+<p>DressUp247.com uses cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize web page content based on visitors browser type or other information that the visitor sends via their browser.</p><br>
+
+<b>DOUBLECLICK DART COOKIE</b><br>
+<ul>
+  <li>Google, as a third party vendor, uses cookies to serve ads on DressUp247.com.</li>
+  <li>Google's use of the DART cookie enables it to serve ads to your users based on their visit to DressUp247.com and other sites on the Internet.</li>
+  <li>Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a></li>
+</ul>
+
+<p>Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....... Google Adsense</p><br>
+
+<p>These third-party ad servers or ad networks use technology to the advertisements and links that appear on DressUp247.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.</p><br>
+
+<p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. DressUp247.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p><br>
+
+<p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.</p><br>
+</div>
+
+
+
+
+ </div>
+      </div>
+    </div>
+    <div align="center"><img src="templates/dressup247/images/mdlbox_btmcone.gif" alt=""></div>
+  </div>
+</div>
+
+<div id="footerContainer">
+  <div class="footerMdlMain">
+    <div class="footerAuto">
+      <div class="footerLeft">
+        <div class="footerDressUp">
+          <div class="footerHd">DressUp247.com</div>
+          <div class="footerListLft">
+            <ul class="footerList">
+              <li><a href="http://www.dressup247.com/contact-us/">Contact/Feedback</a></li>
+                            <li><a href="http://www.dressup247.com/cms/policy">
+                Privacy Policy                </a></li>
+                            <li><a href="http://www.dressup247.com/cms/terms-and-conditions">
+                Terms &amp; Conditions                </a></li>
+                          </ul>
+          </div>
+          <div class="footerListLft">
+            <ul class="footerList">
+              <li><a href="#" style="display:none">Sponsorship</a></li>
+              <li><a href="http://www.dressup247.com/submit-games/">Submit Games</a></li>
+            </ul>
+          </div>
+          <div class="clear"></div>
+        </div>
+                <div class="clear"></div>
+      </div>
+      <div class="footerRt">
+        <div class="joinNow"><a href="http://www.dressup247.com/profile.php?a=register_process"><img src="http://www.dressup247.com/templates/dressup247/images/join_now.png" alt="" width="254" height="104" border="0"></a></div>
+        <div class="faceBookIcon"><img src="http://www.dressup247.com/templates/dressup247/images/facebook_hm.png" alt="" border="0" usemap="#Map">
+          <map name="Map" id="Map">
+            <area shape="rect" coords="4,4,45,50" href="http://www.facebook.com/DressUp247/">
+            <area shape="rect" coords="54,5,96,53" href="http://twitter.com/#!/dressup247/">
+            <area shape="rect" coords="106,5,163,55" href="http://www.dressup247.com/rss.php?r=newest&amp;l=10">
+            <area shape="rect" coords="175,23,230,84" href="/cms/policy#top">
+          </map>
+        </div>
+      </div>
+      <div class="clear"></div>
+    </div>
+  </div>
+</div>
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=3245082; 
+var sc_invisible=1; 
+var sc_security="1ab522ed"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost +
+"statcounter.com/counter/counter.js'></"+"script>");</script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="web counter"
+href="http://statcounter.com/free-hit-counter/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/3245082/0/1ab522ed/1/"
+alt="web counter"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<!-- BEGIN CPMSTAR TWO-SIDED SITESKIN CODE -->
+<script type="text/javascript">
+var cpmstar_pid = 39578; // your poolid
+var cpmstar_centerWidth = "984px"; //width IN PIXELS of your center content, e.g. "800px"
+var cpmstar_fixed = "0" ; //fix ads near top of screen: "0" to allow ads to scroll with page
+var cpmstar_leftOffset = "0px" ; //optionally adjust left ad positioning
+var cpmstar_rightOffset = "0px" ; //optionally adjust right ad positioning
+var cpmstar_zIndex = "100" ; //adjust layering of ads vs. other page elements
+var cpmstar_topPos = "0px" ; //optionally shift both ads down from top of page
+var cpmstar_rnd = Math.round(Math.random() * 999999);
+document.write("\x3cscript type='text/javascript' src='//server.cpmstar.com/view.aspx?poolid=" + cpmstar_pid + "&script=1&rnd=" + cpmstar_rnd + "'\x3e\x3c/script\x3e");
+</script><script type="text/javascript" src="//server.cpmstar.com/view.aspx?poolid=39578&amp;script=1&amp;rnd=230596"></script>
+
+
+
+</body></html>
