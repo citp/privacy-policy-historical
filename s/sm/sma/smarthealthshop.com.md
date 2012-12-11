@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarthealthshop.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620000343id_/http%3A//www.smarthealthshop.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarthealthshop.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211045531id_/http%3A//www.smarthealthshop.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
@@ -28,4 +28,10 @@ Send all additional correspondence to: customersupport@smarthealthshop.com
 
 [](https://privacy-policy.truste.com/yahoo-policy/www.smarthealthshop.com "Privacy Policy by TRUSTe")
 
-*Order Today and Take 10% Off Everything! Coupon Code: today10*Bulk Discount: Buy _ANY_ 4 items get 1 FREE with coupon code: buy4get1(place 5 items in cart and enter code at checkout with $100 minimum purchase)
+Additional Agreement from Website User
+
+Portions of http://www.smarthealthshop.com and its sub-domains include dynamic and frequently updated content from a wide range of users and internet protocol addresses.
+
+This includes product reviews, blogs, and forums. All such content is to be used for purposes of individuals' opinions and http://www.smarthealthshop.com does not take liability for the opinions expressed by other content users and does not claim to hold viewpoints in agreement or disagreement with all such users.
+
+Your involvement within reviews, blogs, and forums, is your personal responsibility for not only what is published by you as an individual but by your feelings towards any viewpoints expressed by other individuals as users of this website. Please proceed at your best discretion.
