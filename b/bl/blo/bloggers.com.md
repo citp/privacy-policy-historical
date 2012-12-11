@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggers.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618181002id_/http%3A//bloggers.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggers.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211155014id_/http%3A//bloggers.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy / Bloggers
 
