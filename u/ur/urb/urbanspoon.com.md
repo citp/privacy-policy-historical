@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the urbanspoon.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531031852id_/http%3A//www.urbanspoon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanspoon.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211152604id_/http%3A//www.urbanspoon.com/privacy) for the most accurate reproduction.*
 
 # Urbanspoon Privacy Policy
 
-[Terms of Service](https://web.archive.org/web/20120531031852id_/http%3A//www.urbanspoon.com/tos)
+[Terms of Service](https://web.archive.org/web/20121211152604id_/http%3A//www.urbanspoon.com/tos)
 
 (As of August 30, 2011)
 
