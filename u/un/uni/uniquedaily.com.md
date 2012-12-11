@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniquedaily.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630070144id_/http%3A//uniquedaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniquedaily.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211182234id_/http%3A//uniquedaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UniqueDaily.com
 
