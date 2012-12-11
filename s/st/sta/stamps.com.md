@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stamps.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609221858id_/http%3A//www.stamps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stamps.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211065507id_/http%3A//www.stamps.com/privacy-policy) for the most accurate reproduction.*
 
 # Stamps.com - Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.stamps.com&sealid=101)
 
-Last updated: September 6, 2011
+Last updated: November 20, 2012
 
 Stamps.com takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -19,7 +19,7 @@ What This Privacy Policy Covers
 Information Collection and Use
 
   * Stamps.com collects personal information from you only when you choose to share it with us, such as when you register with Stamps.com, or when you use Stamps.com products or services. Stamps.com may also combine information we have about you with information we receive from business partners or other companies. For instance, we may offer a special promotion or service in conjunction with a business partner if your permission is provided. Our goal is to provide you, the user, with great service and products, and a customer-friendly experience using our service and on our site. This includes online shopping, interactive communications, and many other types of services.
-  * We collect personal information from you as follows: When you register or you order products we ask for information such as your name, email address, home address and contact information. Stamps.com also collects postage service payment information that includes your credit card number, expiration date and billing address. In addition with the Stamps.com PC Postage service, in order to generate valid indicia, Stamps.com collects and records the following information: date and time of transaction, unique transaction ID, amount of postage used in the transaction and recipient ZIP Code. To deliver enhanced security and personalized service, we also collect and record information about your printer and we create a unique code to identify your computer to our systems. To aid in the use of our PC Postage service, we collect your print history to our servers which may include a recipient's name and address. Stamps.com also collects information from the Stamps.com Customer Support and Affiliate Sign-Up forms and such information is used for the purpose for which it was collected, such as to communicate with you regarding your order.
+  * We collect personal information from you as follows: When you register or you order products we ask for information such as your name, email address, phone number, home address and other similar contact information. Stamps.com also collects postage service payment information that includes your credit card number, expiration date and billing address. In addition with the Stamps.com PC Postage service, in order to generate valid indicia, Stamps.com collects and records the following information: date and time of transaction, unique transaction ID, amount of postage used in the transaction and recipient ZIP Code. To deliver enhanced security and personalized service, we also collect and record information about your printer and we create a unique code to identify your computer to our systems. To aid in the use of our PC Postage service, we collect your print history to our servers which may include a recipient's name and address. Stamps.com also collects information from the Stamps.com Customer Support and Affiliate Sign-Up forms and such information is used for the purpose for which it was collected, such as to communicate with you regarding your order.
   * If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Stamps.com does not store this information and it is used for the sole purpose of sending this one-time email.
   * Cookies: Stamps.com automatically receives and records certain non-personal information about your visit through the use of cookies. Cookies are files that your Web browser places on your computer's hard drive. Information collected includes your IP address, your referral source, and the page(s) you request.
   * Generally, we use cookies to: 
@@ -33,13 +33,14 @@ Information Collection and Use
 
 
 
-Information Sharing and Customer Choice
+Information Use Sharing and Customer Choice
 
   * Stamps.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you have requested, or under the following circumstances: 
     * From time to time, Stamps.com participates in marketing and joint technology initiatives with other companies, including websites "powered by" Stamps.com on behalf of other companies. Some of these marketing and joint technology initiatives may require that you share personal information with both Stamps.com and the other companies participating in these initiatives. Stamps.com will provide notice to you of any sharing of your personal information prior to you agreeing to participate in any such initiatives with other companies. If you choose to participate in the initiatives and provide personal information to the other companies, that personal information will be handled according to the privacy policy of those companies which may differ from Stamps.com's policies and practices.
     * Stamps.com may share certain information with carefully selected third parties that will allow them to mail you promotional materials about quality goods and services (including special offers and promotions) that may be of interest to you. The information shared will not include your e-mail address; your phone number; any information related to your postage, mailing activity or postage meter license; or any information related to your customers or address lists. You may contact Stamps.com at any time to request that your information not be shared with such third parties when you register with Stamps.com, or by accessing the opt-out link in any email communication from Stamps.com or by [clicking here](mailto:optout@stamps.com).
     * Stamps.com uses credit card processors to provide services on our behalf. When you use our services, we will share your credit card and payment data as necessary for our credit card processors to provide that service. Stamps.com's credit card processors are prohibited from using your personally identifiable information for any other purpose.
-    * We provide information to trusted partners who work on behalf of or with Stamps.com under confidentiality agreements. These companies may use your personal information to help Stamps.com communicate with you, for example, an e-mail service provider that helps Stamps.com administer e-mails. These companies are acting on behalf of Stamps.com, and may not use or share this information for their own purposes.
+    * We may use information provided to Stamps.com from the customer registration process to contact you if you do not complete the registration to see if you need assistance or are still interested in becoming a customer. You expressly consent that we may contact the phone number or email address provided to Stamps.com for this purpose.
+    * We provide information to trusted partners who work on behalf of or with Stamps.com under confidentiality agreements. These companies may use your personal information to help Stamps.com communicate with you, for example, an e-mail service provider that helps Stamps.com administer e-mails or a third party calling service. These companies are acting on behalf of Stamps.com, and may not use or share this information for their own purposes.
     * Stamps.com is regulated by the United States Postal Service (USPS). As part of the regulatory relationship, Stamps.com collects certain information about you on behalf of the USPS. The USPS also may send us tracking data from their scans of your mail and packages in the mailstream. Our uses for the data include informing you about the status of your mail and packages through options like Delivery Confirmation, fraud detection and aggregating the data to help the USPS and us provide you with better service. To learn more about the USPS's privacy policy, please visit the [USPS Privacy Policy](https://web.archive.org/go?http://www.usps.com/privacypolicy/). To learn more about USPS postage technology, PC Postage® and Stamps.com's relationship with the USPS, please visit the [USPS Postage Solutions](https://web.archive.org/go?https://www.usps.com/business/online-postage.htm) page.  
 Information collected on behalf of USPS is used for their regulatory oversight function and is not used for other purposes.
     * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
@@ -80,8 +81,8 @@ Questions and Suggestions
 
 Stamps.com Inc.  
 Customer Care – Privacy Policy Issues  
-12959 Coral Tree Place  
-Los Angeles, CA 90066-7020  
+1990 E. Grand Ave  
+El Segundo, CA 90245-5013  
 (310) 482-5800
 
 
