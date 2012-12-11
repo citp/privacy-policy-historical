@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleactive.net privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611202648id_/http%3A//articleactive.net/%3Fpage_id%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleactive.net privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211084343id_/http%3A//articleactive.net/%3Fpage_id%3D13) for the most accurate reproduction.*
 
 # Privacy Policy | Article active, Article directory, Submit Article Free, Articles directory update, Articleactive.net, Article active, Article directory,
 
