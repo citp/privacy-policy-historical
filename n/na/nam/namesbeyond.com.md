@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namesbeyond.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510095541id_/http%3A//www.namesbeyond.com/index.php/home/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namesbeyond.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211112001id_/http%3A//www.namesbeyond.com/index.php/home/policy) for the most accurate reproduction.*
 
 # Domain Name Registration Transfer Forwarding Renewal, Web Hosting, Email Services, & Web site Development Solutions
 
@@ -92,8 +92,8 @@ Canada
   
 In the United States:  
 NamesBeyond.com,   
-922 South Woodbourne Road, #122   
-Levittown, PA - 19057-1001  
+115 E. Maple Avenue  
+Langhorne, PA - 19047  
 United States  
   
   |   
