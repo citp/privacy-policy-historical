@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the explainthatstuff.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523224338id_/http%3A//www.explainthatstuff.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explainthatstuff.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211200427id_/http%3A//www.explainthatstuff.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy: Explain that Stuff!
 
 _Last updated: May 19, 2012._
 
-We take privacy issues seriously—everyone says that, but we really do. Here (in plain English) are full details explaining the careful steps we have taken to respect and protect your privacy as you use our website.
+We take privacy issues seriously—and yes everyone says that, but we really do. Here (in plain English) are full details explaining the careful steps we have taken to respect and protect your privacy as you use our website.
 
 ## Web server logs
 
-Like every other website, our site is hosted on a web server (a powerful computer at our service provider) that keeps a log of all the pages and graphics it serves and where it sends them to. This is a basic feature of how web servers work. The information they log is essentially anonymous and statistical: it tells us how many people from Iceland looked at our site last Thursday, but it doesn't tell us anything personal about them. We don't know who those people were, whether they were fishermen or fighter pilots, or what colour socks they were wearing at the time.
+Like every other website, our site is hosted on a web server (a powerful computer at our service provider) that keeps a log of all the pages and graphics it serves and where it sends them to. This isn't some creepy, underhand attempt to track you: it's a basic feature of how web servers work. The information they log is essentially anonymous and statistical: it tells us how many people from Iceland looked at our site last Thursday, but it doesn't tell us anything personal about them. We don't know who those people were, whether they were fishermen or fighter pilots, or what colour socks they were wearing at the time.
 
 The logs don't tell us who you are or where you live—but they do record your IP number (a number that uniquely identifies your Internet connection). They also note what you looked at or downloaded, the operating system and browser you're using, the date and time of your visit, how you came to our site, and so on. Here is an example of one line from our log, recording one hit from one visitor using the (made-up) IP number 12.34.56.78:
 
@@ -72,4 +72,4 @@ For a more general look at privacy issues, you might like to look at the [Electr
 
 ## Let us know
 
-We hope this answers any concerns you may have about privacy and reassures you that we take the issue seriously. If you have any further queries, please don't hesitate to contact us using our [email](https://web.archive.org/web/20120523224338id_/http%3A//www.explainthatstuff.com/cform.php) form.
+We hope this answers any concerns you may have about privacy and reassures you that we take the issue seriously. If you have any further queries, please don't hesitate to contact us using our [email](https://web.archive.org/web/20121211200427id_/http%3A//www.explainthatstuff.com/cform.php) form.
