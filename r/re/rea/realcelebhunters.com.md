@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realcelebhunters.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504003238id_/http%3A//join.realcelebhunters.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realcelebhunters.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211080308id_/http%3A//track.realcelebhunters.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
