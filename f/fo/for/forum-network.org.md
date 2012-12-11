@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forum-network.org privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531080707id_/http%3A//forum-network.org/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forum-network.org privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211064457id_/http%3A//dev.forum-network.org/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Forum Network | Free Online Lectures from PBS and NPR
 
