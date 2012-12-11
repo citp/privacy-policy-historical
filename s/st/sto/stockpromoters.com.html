@@ -1,27 +1,22 @@
-<!--The following is the downloaded HTML source of the stockpromoters.com privacy policy that was archived on 2012-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120507142657id_/http%3A//stockpromoters.com/Stock-Promoters-Privacy-Policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stockpromoters.com privacy policy that was archived on 2012-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121211093456id_/http%3A//stockpromoters.com/Stock-Promoters-Privacy-Policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="stylesheet" type="text/css" href="css/main.css"><link rel="stylesheet" type="text/css" href="css/spage.css"><link rel="stylesheet" type="text/css" href="css/inside.css"><link rel="stylesheet" type="text/css" href="css/quotemedia_module.css"><link rel="stylesheet" type="text/css" href="css/quotemedia_tools.css">
-    <script type="text/javascript" language="javascript" src="js/jquery.js"></script>
-    <script type="text/javascript" language="javascript" src="js/jquery.dropdown.js"></script>
-        <script type="text/javascript" language="javascript" src="js/sp.js"></script>
-    <script type="text/javascript" language="javascript" src="js/crotator.js"></script>
-        <script type="text/javascript" src="../admin/javaScript/jquery-1.4.1.min.js"></script>
-    
-    <script type="text/javascript">
-	function SearchSubmit(pageURL)
-	{
-		document.getElementById(pageURL).submit();
-		
-	}
-    </script>
-     <!-- Add the jQuery Reference Library-->
+<script type="text/javascript" language="javascript" src="js/jquery.js"></script>
+<script type="text/javascript" language="javascript" src="../admin/javaScript/jquery-1.4.1.min.js"></script>
+<script type="text/javascript" language="javascript" src="js/jquery.extend.js"></script>
+<script type="text/javascript" language="javascript" src="js/jquery.dropdown.js"></script>
+<script type="text/javascript" language="javascript" src="js/sp.js"></script>
+<script type="text/javascript" language="javascript" src="js/crotator.js"></script>
+<script type="text/javascript" language="javascript">
+function SearchSubmit(pageURL)
+{
+	document.getElementById(pageURL).submit();
+	
+}
+</script>
 
-    
-    
-     
-    
-    <meta name="description"><meta name="keyword">
+<meta name="description"><meta name="keyword">
 <title>
 	
 </title></head>
@@ -33,31 +28,70 @@
         <!-- Start Header-->
          
          
-<link rel="stylesheet" type="text/css" href="../css/main.css">
-<link rel="stylesheet" type="text/css" href="../css/spage.css">
-<link rel="stylesheet" type="text/css" href="../css/inside.css">
-<link rel="stylesheet" type="text/css" href="../css/quotemedia_module.css">
-<link rel="stylesheet" type="text/css" href="../css/quotemedia_tools.css">
-
-
-
-<script type="text/javascript" language="javascript" src="../js/crotator.js"></script>
-
-<script type="text/javascript" language="javascript" src="../js/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" language="javascript" src="../js/jquery.extend.js"></script>
+<script type="text/javascript" language="javascript" src="../js/modal.popup.js"></script>
 <script type="text/javascript" language="javascript" src="../js/jquery.dropdown.js"></script>
+<script language="javascript" type="text/javascript">
+$(document).ready(function() {
+	var align = 'center';
+	var top = 100;
+	var width = 800;
+	var padding = 10;
+	var backgroundColor = '#FFFFFF';
+	var borderColor = '#333333';
+	var borderWeight = 4;
+	var borderRadius = 5;
+	var fadeOutTime = 300;
+	var disableColor = '#666666';
+	var disableOpacity = 40;
+	var loadingImage = '../images/loading.gif';
+	
+    var source = "";
+    
+    $("a.modal").live("click", function(){ 
+        js_message_id = $(this).attr('id');
+        source = 'GmailMessage.aspx?message_id='+js_message_id;
+        modalPopup(align, top, width, padding, disableColor, disableOpacity, backgroundColor, borderColor, borderWeight, borderRadius, fadeOutTime, source, loadingImage);
+     }); 
+
+    $(document).keyup(function(e) {
+	    if (e.keyCode == 27) {
+		    closePopup(fadeOutTime);
+	    }
+    });
+});
+
+function LoadNewAlert()
+{
+	var align = 'center';
+	var top = 100;
+	var width = 800;
+	var padding = 10;
+	var backgroundColor = '#FFFFFF';
+	var borderColor = '#333333';
+	var borderWeight = 4;
+	var borderRadius = 5;
+	var fadeOutTime = 300;
+	var disableColor = '#666666';
+	var disableOpacity = 40;
+	var loadingImage = '../images/loading.gif';
+
+    modalPopup(align, top, width, padding, disableColor, disableOpacity, backgroundColor, borderColor, borderWeight, borderRadius, fadeOutTime, 'New-Alert-Popup.aspx', loadingImage);
+}
+</script>
 <script type="text/javascript">
-    function Validations() {
-        if (document.getElementById("username").value == '') {
-            alert("Please Provide the UserName");
-            return false;
-        }
-        if (document.getElementById("password").value == '') {
-            alert("Please Provide the Password");
-            return false;
-        }
+function Validations() {
+    if (document.getElementById("username").value == '') {
+        alert("Please Provide the User Name");
+        return false;
+    }
+    if (document.getElementById("password").value == '') {
+        alert("Please Provide the Password");
+        return false;
     }
     
+    document.getElementById("form1").submit();
+}
+
 $(document).ready(function () {
 	$('#h1New').mouseover(function () {
 		$('#menu_pop_newfeature').slideDown('medium');
@@ -70,22 +104,22 @@ $(document).ready(function () {
 
 function link_twitter()
 {
-	alert("Coming Soon!");
-	return false;
+	//alert("Coming Soon!");
+	//return false;
 	
 	mypopWindow = window.open('http://stockpromoters.com/Twitter.aspx','PopWindow','width=400,height=400,resizable=no,menubar=no,toolbar=no');
 	mypopWindow.focus();
 }
 function link_facebook()
 {
-	alert("Coming Soon!");
-	return false;
+	//alert("Coming Soon!");
+	//return false;
 	
-	mypopWindow = window.open('http://stockpromoters.com/Facebook.aspx','PopWindow','width=400,height=400,resizable=no,menubar=no,toolbar=no');
+	mypopWindow = window.open('http://stockpromoters.com/Facebook.aspx','PopWindow','width=760,height=400,resizable=no,menubar=no,toolbar=no');
 	mypopWindow.focus();
 }
 
-function post_to_twitter(js_PromoterPromotionID)
+function post_to_twitter(js_EncodedPromotionMessage, js_PromoterPromotionID)
 {
     if(parseInt(js_PromoterPromotionID) > 0)
     {
@@ -97,31 +131,31 @@ function post_to_twitter(js_PromoterPromotionID)
 	        url        : 'http://stockpromoters.com/TwitterPost.aspx',
 
 	        data        : {
-	        	PromoterPromotionID : js_PromoterPromotionID,
+	        	EncodedPromotionMessage : js_EncodedPromotionMessage,
+	        	PromoterPromotionID : js_PromoterPromotionID
 	        },
 			
 	        success: function(data) {
-	           
-	           $("#TwittIcon-"+js_PromoterPromotionID).attr("src", "/images/post_twitter.png");
-	           
+
 	           if(data == 'SUCCESS') {
-					alert("Successfully Posted!");
+					$("#TwittIcon-"+js_PromoterPromotionID).attr("src", "/images/success.png");
 	           } else {
-					alert(data);
+					$("#TwittIcon-"+js_PromoterPromotionID).attr("src", "/images/fail.png");
 	           }
 	        }
 	    });
     }
     else if(parseInt(js_PromoterPromotionID) < 0)
     {
-        alert("Please login first!");
+        alert('Please login to StockPromoters.com, this enables you to "One-click" post to your Twitter / FB account.');
     }
     else
     {
         alert("Please link your twitter account first!");
     }
 }
-function post_to_facebook(js_PromoterPromotionID)
+
+function post_to_facebook(js_EncodedPromotionMessage, js_PromoterPromotionID)
 {
     if(parseInt(js_PromoterPromotionID) > 0)
     {
@@ -133,28 +167,64 @@ function post_to_facebook(js_PromoterPromotionID)
 	        url        : 'http://stockpromoters.com/FacebookPost.aspx',
 
 	        data        : {
-	        	PromoterPromotionID : js_PromoterPromotionID,
+	        	EncodedPromotionMessage : js_EncodedPromotionMessage,
+	        	PromoterPromotionID : js_PromoterPromotionID
 	        },
 			
 	        success: function(data) {
 	           
-	           $("#FacebookIcon-"+js_PromoterPromotionID).attr("src", "/images/post_facebook.png");
-	           
 	           if(data == 'SUCCESS') {
-					alert("Successfully Posted!");
+					$("#FacebookIcon-"+js_PromoterPromotionID).attr("src", "/images/success.png");
 	           } else {
-					alert(data);
+					$("#FacebookIcon-"+js_PromoterPromotionID).attr("src", "/images/fail.png");
 	           }
 	        }
 	    });
     }
     else if(parseInt(js_PromoterPromotionID) < 0)
     {
-        alert("Please login first!");
+        alert('Please login to StockPromoters.com, this enables you to "One-click" post to your Twitter / FB account.');
     }
     else
     {
         alert("Please link your facebook account first!");
+    }
+}
+
+function post_counter_for_social(js_PassPipeParameter, js_EncodedPromotionMessage, js_PromoterPromotionID)
+{
+    if(parseInt(js_PromoterPromotionID) > 0)
+    {
+	    $("#SocialCounterIcon-"+js_PromoterPromotionID).html("<img src='/images/social-process.gif' border='0' title='Processing. Please Wait!' />");
+	    
+	    $.ajax({
+
+	        type        : "GET",
+	        dataType    : "json",
+	        url        : 'http://stockpromoters.com/SocialCounterPost.aspx',
+
+	        data        : {
+	        	PassPipeParameter : js_PassPipeParameter,
+	        	EncodedPromotionMessage : js_EncodedPromotionMessage,
+	        	PromoterPromotionID : js_PromoterPromotionID
+	        },
+			
+	        success: function(data) {
+	           if(data.message == 'SUCCESS') {
+					$("#SocialCounterIcon-"+js_PromoterPromotionID).html("Voted");
+					$("#SocialCounterIconTotal-"+js_PromoterPromotionID).html(data.TotalCount);
+					$("#SocialCounterIcon-"+js_PromoterPromotionID).removeAttr("onclick");
+	           } else {
+					$("#SocialCounterIcon-"+js_PromoterPromotionID).html("Failed");
+					$("#SocialCounterIconTotal-"+js_PromoterPromotionID).html(data.TotalCount);
+					$("#SocialCounterIcon-"+js_PromoterPromotionID).removeAttr("onclick");
+	           }
+	        }
+	    });
+    }
+    else if(parseInt(js_PromoterPromotionID) <= 0)
+    {
+        alert('Please login to vote!');
     }
 }
 </script>
@@ -168,7 +238,7 @@ function post_to_facebook(js_PromoterPromotionID)
             <li class="followIconFriendfeed"><a href="http://friendfeed.com/stockpromoters" target="_blank">
                 <img src="img/icon_follow.gif" id="ctl00_ContentPlaceHolderyy_Footer1_Img3" alt="Follow us on FriendsFeed"></a></li>
             <li class="topHeaderDate">
-                <span id="ctl00_ContentPlaceHolderyy_Footer1_lblMarketInfo">Mon, May 07, 2012 10:26:59 AM EST, Market closes in 05:33</span></li>
+                <span id="ctl00_ContentPlaceHolderyy_Footer1_lblMarketInfo">Tue, Dec 11, 2012 4:35:01 AM EST, Market opens in 04:54</span></li>
         </ul>
     </div>
     <div id="topHeaderRight">
@@ -203,7 +273,7 @@ function post_to_facebook(js_PromoterPromotionID)
                             
                         </td>
                         <td>
-                             <input id="login" type="submit" value="Login" onclick="return Validations()">
+                             <input id="login" type="image" src="/img/btn_login.gif" onclick="return Validations()">
                         </td>
                         <td>
                             <a href="http://stockpromoters.com/login.aspx" style="color: #44df00; font-family: Arial; font-size: 11px; text-decoration: none;">Lost Password</a>
@@ -232,7 +302,7 @@ function post_to_facebook(js_PromoterPromotionID)
          
         <div id="ctl00_ContentPlaceHolderyy_Footer1_pnlLogout2">
 	
-            <div id="ctl00_ContentPlaceHolderyy_Footer1_headerBanner"><br><a href="http://equitygroups.com" target="_blank"><img src="/images/Advertisers/banners/equitygroups_banner_720_88.png" width="720px" height="88px" runat="server"></a></div>
+            <div id="ctl00_ContentPlaceHolderyy_Footer1_headerBanner"><br><a href="http://www.cohenresearch.com" target="_blank"><img src="/images/Advertisers/banners/CIRGbanner720x88-9-05-11.gif" width="720px" height="88px" runat="server"></a></div>
         
 </div>
     </div>
@@ -256,13 +326,13 @@ function post_to_facebook(js_PromoterPromotionID)
             </li>
             <li><a href="http://stockpromoters.com/Stock-Promotions.aspx">Stock Promotions</a>
                 <ul>
-                    <li><a href="http://stockpromoters.com/Daily Promotions">Daily-Stock-Promotions.aspx</a></li>
+                    <li><a href="http://stockpromoters.com/Daily-Stock-Promotions.aspx">Daily Promotions</a></li>
                     <li><a href="http://stockpromoters.com/First-Time-Stock-Promotions.aspx">First Time Promotions</a></li>
                     <li><a href="http://stockpromoters.com/Real-Time-Stock-Promotions.aspx">Real Time Promotions</a></li>
                     <li><a href="http://stockpromoters.com/Stock-Promotion-Email-Archive.aspx">Stock Promotion Email Archive</a></li>
                     <li><a href="http://stockpromoters.com/View-Stock-Promotions-By-Symbol.aspx">View Promotions by Symbol</a></li>
                     <li><a href="http://stockpromoters.com/View-Promotions-By-Promoter.aspx">View Promotions by Promoter</a></li>
-                    <li><a href="http://stockpromoters.com/Todays-EOD-Promotions.aspx">Todays (EOD) Promotions</a></li>
+                    <li><a href="http://stockpromoters.com/Todays-EOD-Promotions.aspx">Todays End of Day Promotions</a></li>
                 </ul>
             </li>
             <li><a href="http://stockpromoters.com/Stock-Promoters.aspx">Promoters</a>
@@ -280,16 +350,16 @@ function post_to_facebook(js_PromoterPromotionID)
             </li>
             <li><a href="http://stockpromoters.com/PublicCompanies.aspx">Public Companies</a>
                 <ul>
+                  <li><a href="http://stockpromoters.com/View-Companies-Looking-To-Go-Public.aspx">Co's Looking to Go Public (List)</a></li>
                   <li><a href="http://stockpromoters.com/Public-Companies-Seeking-Promotion.aspx">Co's Seeking Promotion (List)</a></li>
-                  <li><a href="http://stockpromoters.com/View-Public-Companies-Seeking-Financing.aspx">Co's Seeking Financing (LIst)</a></li>
-                  <li><a href="http://stockpromoters.com/View-Companies-Looking-To-Go-Public.aspx">Co's Looking to Go Public (LIst)</a></li>
+                  <li><a href="http://stockpromoters.com/View-Public-Companies-Seeking-Financing.aspx">Co's Seeking Financing (List)</a></li>
                   <li><a href="http://stockpromoters.com/Public-Companies-Seeking-Financing.aspx">Add Your Company</a></li>
                 </ul>
             </li>
             <li><a href="http://stockpromoters.com/Contact-Stock-Promoters.aspx">Contact Stock Promoters</a>
-                <ul>
-                    <li style="white-space:nowrap;"><a href="http://stockpromoters.com/submit-general-comments-or-questions.aspx">Submit Your General Questions &amp; Comments</a></li>
-                </ul>
+                <!--<ul>
+                    <li style="white-space:nowrap;"><a href="http://stockpromoters.com/submit-general-comments-or-questions.aspx">Submit Your General Questions & Comments</a></li>
+                </ul>-->
             </li>
         </ul>
     </div>
@@ -369,19 +439,19 @@ function post_to_facebook(js_PromoterPromotionID)
                         StockPromoters.com Live Data Terminal
                     </div>
                     <div style="padding: 5px 0px 0px 0px; width: auto; color: #ccc; width: auto; text-align: center; font-size: 11px;">
-                        <span style="padding: 0px 0px 0px 0px;">Promotions Tracked To Date: <span id="ctl00_Main_ucleftContent_lblPromotions"><b>125622</b></span></span>
+                        <span style="padding: 0px 0px 0px 0px;">Promotions Tracked To Date: <span id="ctl00_Main_ucleftContent_lblPromotions"><b>144154</b></span></span>
                     </div>
                     <div style="padding: 5px 0px 0px 0px; width: auto; color: #ccc; width: auto; text-align: center; font-size: 11px;">
-                        <span style="padding: 0px 0px 0px 0px;">Promoters Tracked: <span id="ctl00_Main_ucleftContent_lblPromoters"><b>1524</b></span></span>
+                        <span style="padding: 0px 0px 0px 0px;">Promoters Tracked: <span id="ctl00_Main_ucleftContent_lblPromoters"><b>1761</b></span></span>
                     </div>
                     <div style="padding: 5px 0px 0px 0px; width: auto; color: #ccc; width: auto; text-align: center; font-size: 11px;">
-                        <span style="padding: 0px 0px 0px 0px;">Companies Looking to go Public: <span id="ctl00_Main_ucleftContent_lblLookingPublic"><b>1</b></span></span>
+                        <span style="padding: 0px 0px 0px 0px;">Companies Looking to go <a href="http://stockpromoters.com/View-Companies-Looking-To-Go-Public.aspx" style="color: #ffcc33; text-decoration:underline;">Public</a>: <span id="ctl00_Main_ucleftContent_lblLookingPublic"><b>3</b></span></span>
                     </div>
                     <div style="padding: 5px 0px 0px 0px; width: auto; color: #ccc; width: auto; text-align: center; font-size: 11px;">
-                        <span style="padding: 0px 0px 0px 0px;">Public&nbsp;Companies&nbsp;Seeking&nbsp;Promotion: <span id="ctl00_Main_ucleftContent_lblSeekingPromotion"><b>4</b></span></span>                        
+                        <span style="padding: 0px 0px 0px 0px;">Public&nbsp;Companies&nbsp;Seeking&nbsp;<a href="http://stockpromoters.com/Public-Companies-Seeking-Promotion.aspx" style="color: #ffcc33; text-decoration:underline;">Promotion</a>: <span id="ctl00_Main_ucleftContent_lblSeekingPromotion"><b>13</b></span></span>                        
                     </div>
                     <div style="padding: 5px 0px 0px 0px; width: auto; color: #ccc; width: auto; text-align: center; font-size: 11px;">
-                        <span style="padding: 0px 0px 0px 0px;">Public&nbsp;Companies&nbsp;Seeking&nbsp;Financing: <span id="ctl00_Main_ucleftContent_lblSeekingFinancing"><b>5</b></span></span>
+                        <span style="padding: 0px 0px 0px 0px;">Public&nbsp;Companies&nbsp;Seeking&nbsp;<a href="http://stockpromoters.com/View-Public-Companies-Seeking-Financing.aspx" style="color: #ffcc33; text-decoration:underline;">Financing</a>: <span id="ctl00_Main_ucleftContent_lblSeekingFinancing"><b>11</b></span></span>
                     </div>
                 </div>
             </div>
@@ -412,12 +482,64 @@ function post_to_facebook(js_PromoterPromotionID)
         
             
                 <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="SNPK">
-			<input name="symbol" type="hidden" value="SNPK" style="display:none">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="USGT">
+			<input name="symbol" type="hidden" value="USGT" style="display:none">
 			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("SNPK")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">SNPK</a>
+                  <a href='javascript:SearchSubmit("USGT")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">USGT</a>
                   <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=SNPK">67&nbsp;newsletters</a> 
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=USGT">42&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="WTCG">
+			<input name="symbol" type="hidden" value="WTCG" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("WTCG")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">WTCG</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=WTCG">46&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="LVVV">
+			<input name="symbol" type="hidden" value="LVVV" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("LVVV")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">LVVV</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=LVVV">39&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="GBEN">
+			<input name="symbol" type="hidden" value="GBEN" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("GBEN")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">GBEN</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=GBEN">111&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="SVEN">
+			<input name="symbol" type="hidden" value="SVEN" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("SVEN")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">SVEN</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=SVEN">39&nbsp;newsletters</a> 
 		</form>
                 </li>
           
@@ -430,7 +552,7 @@ function post_to_facebook(js_PromoterPromotionID)
 			<input name="action" type="hidden" value="showDetailedQuote">
                   <a href='javascript:SearchSubmit("SPOW")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">SPOW</a>
                   <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=SPOW">59&nbsp;newsletters</a> 
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=SPOW">30&nbsp;newsletters</a> 
 		</form>
                 </li>
           
@@ -438,12 +560,12 @@ function post_to_facebook(js_PromoterPromotionID)
         
             
                 <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="RACK">
-			<input name="symbol" type="hidden" value="RACK" style="display:none">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="NANI">
+			<input name="symbol" type="hidden" value="NANI" style="display:none">
 			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("RACK")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">RACK</a>
+                  <a href='javascript:SearchSubmit("NANI")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">NANI</a>
                   <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=RACK">38&nbsp;newsletters</a> 
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=NANI">47&nbsp;newsletters</a> 
 		</form>
                 </li>
           
@@ -451,12 +573,12 @@ function post_to_facebook(js_PromoterPromotionID)
         
             
                 <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="SEFE">
-			<input name="symbol" type="hidden" value="SEFE" style="display:none">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="EKNL">
+			<input name="symbol" type="hidden" value="EKNL" style="display:none">
 			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("SEFE")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">SEFE</a>
+                  <a href='javascript:SearchSubmit("EKNL")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">EKNL</a>
                   <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=SEFE">34&nbsp;newsletters</a> 
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=EKNL">39&nbsp;newsletters</a> 
 		</form>
                 </li>
           
@@ -464,12 +586,12 @@ function post_to_facebook(js_PromoterPromotionID)
         
             
                 <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="AEDC">
-			<input name="symbol" type="hidden" value="AEDC" style="display:none">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="IMNG">
+			<input name="symbol" type="hidden" value="IMNG" style="display:none">
 			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("AEDC")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">AEDC</a>
+                  <a href='javascript:SearchSubmit("IMNG")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">IMNG</a>
                   <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=AEDC">29&nbsp;newsletters</a> 
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=IMNG">33&nbsp;newsletters</a> 
 		</form>
                 </li>
           
@@ -477,12 +599,12 @@ function post_to_facebook(js_PromoterPromotionID)
         
             
                 <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="FROG">
-			<input name="symbol" type="hidden" value="FROG" style="display:none">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="KWBT">
+			<input name="symbol" type="hidden" value="KWBT" style="display:none">
 			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("FROG")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">FROG</a>
+                  <a href='javascript:SearchSubmit("KWBT")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">KWBT</a>
                   <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=FROG">57&nbsp;newsletters</a> 
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=KWBT">23&nbsp;newsletters</a> 
 		</form>
                 </li>
           
@@ -490,12 +612,12 @@ function post_to_facebook(js_PromoterPromotionID)
         
             
                 <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="PTSH">
-			<input name="symbol" type="hidden" value="PTSH" style="display:none">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="GHSE">
+			<input name="symbol" type="hidden" value="GHSE" style="display:none">
 			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("PTSH")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">PTSH</a>
+                  <a href='javascript:SearchSubmit("GHSE")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">GHSE</a>
                   <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=PTSH">31&nbsp;newsletters</a> 
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=GHSE">35&nbsp;newsletters</a> 
 		</form>
                 </li>
           
@@ -503,12 +625,12 @@ function post_to_facebook(js_PromoterPromotionID)
         
             
                 <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="OREO">
-			<input name="symbol" type="hidden" value="OREO" style="display:none">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="LTCH">
+			<input name="symbol" type="hidden" value="LTCH" style="display:none">
 			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("OREO")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">OREO</a>
+                  <a href='javascript:SearchSubmit("LTCH")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">LTCH</a>
                   <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=OREO">35&nbsp;newsletters</a> 
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=LTCH">28&nbsp;newsletters</a> 
 		</form>
                 </li>
           
@@ -516,12 +638,12 @@ function post_to_facebook(js_PromoterPromotionID)
         
             
                 <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="DHSM">
-			<input name="symbol" type="hidden" value="DHSM" style="display:none">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="PBCW">
+			<input name="symbol" type="hidden" value="PBCW" style="display:none">
 			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("DHSM")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">DHSM</a>
+                  <a href='javascript:SearchSubmit("PBCW")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">PBCW</a>
                   <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=DHSM">21&nbsp;newsletters</a> 
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=PBCW">20&nbsp;newsletters</a> 
 		</form>
                 </li>
           
@@ -529,12 +651,12 @@ function post_to_facebook(js_PromoterPromotionID)
         
             
                 <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="MDRM">
-			<input name="symbol" type="hidden" value="MDRM" style="display:none">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="SLTD">
+			<input name="symbol" type="hidden" value="SLTD" style="display:none">
 			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("MDRM")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">MDRM</a>
+                  <a href='javascript:SearchSubmit("SLTD")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">SLTD</a>
                   <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=MDRM">17&nbsp;newsletters</a> 
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=SLTD">16&nbsp;newsletters</a> 
 		</form>
                 </li>
           
@@ -542,116 +664,12 @@ function post_to_facebook(js_PromoterPromotionID)
         
             
                 <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="MELY">
-			<input name="symbol" type="hidden" value="MELY" style="display:none">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="TAON">
+			<input name="symbol" type="hidden" value="TAON" style="display:none">
 			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("MELY")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">MELY</a>
+                  <a href='javascript:SearchSubmit("TAON")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">TAON</a>
                   <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=MELY">14&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="ZNTR">
-			<input name="symbol" type="hidden" value="ZNTR" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("ZNTR")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">ZNTR</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=ZNTR">11&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="LUXR">
-			<input name="symbol" type="hidden" value="LUXR" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("LUXR")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">LUXR</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=LUXR">14&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="RSRS">
-			<input name="symbol" type="hidden" value="RSRS" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("RSRS")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">RSRS</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=RSRS">20&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="STKO">
-			<input name="symbol" type="hidden" value="STKO" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("STKO")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">STKO</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=STKO">30&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="DIGX">
-			<input name="symbol" type="hidden" value="DIGX" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("DIGX")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">DIGX</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=DIGX">23&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="SYNC">
-			<input name="symbol" type="hidden" value="SYNC" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("SYNC")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">SYNC</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=SYNC">10&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="MSEZ">
-			<input name="symbol" type="hidden" value="MSEZ" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("MSEZ")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">MSEZ</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=MSEZ">10&nbsp;newsletters</a> 
-		</form>
-                </li>
-          
-    
-        
-            
-                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
-		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="XCLL">
-			<input name="symbol" type="hidden" value="XCLL" style="display:none">
-			<input name="action" type="hidden" value="showDetailedQuote">
-                  <a href='javascript:SearchSubmit("XCLL")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">XCLL</a>
-                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=XCLL">18&nbsp;newsletters</a> 
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=TAON">23&nbsp;newsletters</a> 
 		</form>
                 </li>
           
@@ -664,7 +682,59 @@ function post_to_facebook(js_PromoterPromotionID)
 			<input name="action" type="hidden" value="showDetailedQuote">
                   <a href='javascript:SearchSubmit("PFNI")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">PFNI</a>
                   <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
-                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=PFNI">9&nbsp;newsletters</a> 
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=PFNI">13&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="GALE">
+			<input name="symbol" type="hidden" value="GALE" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("GALE")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">GALE</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=GALE">11&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="ABBY">
+			<input name="symbol" type="hidden" value="ABBY" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("ABBY")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">ABBY</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=ABBY">18&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="FNRC">
+			<input name="symbol" type="hidden" value="FNRC" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("FNRC")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">FNRC</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=FNRC">13&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="BRZV">
+			<input name="symbol" type="hidden" value="BRZV" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("BRZV")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">BRZV</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=BRZV">17&nbsp;newsletters</a> 
 		</form>
                 </li>
           
@@ -690,7 +760,7 @@ function post_to_facebook(js_PromoterPromotionID)
             <!--<script language="javascript" type="text/javascript" src="http://app.quotemedia.com/quotetools/scalingMarketStats.go?webmasterId=95599&toolWidth=200&statExchange=OTC&stat=pg&htext=OTC+%25+Gainers&statTop=8&cp=off&detailURL=http://stockpromoters.com/Stock_Quote/companydata.asp"></script>-->
             <!--   End of Quotemedia.com Vertical Actives/Gainers/Losers Tool Code   -->
         <!--</div>-->
-        <div id="ctl00_Main_ucleftContent_headerCompanyBanner"><br><br><a href="http://stockpromoters.com/Contact-Stock-Promoters.aspx" target="_blank"><img src="/images/Advertisers/banners/TEST-01.jpg" runat="server"></a></div>
+        <div id="ctl00_Main_ucleftContent_headerCompanyBanner"><br><br><a href="http://www.agent155.com/" target="_blank"><img src="/images/Advertisers/banners/AGMC-SP-BANNER.jpg" runat="server"></a><br><br><a href="http://www.ecco2tech.com" target="_blank"><img src="/images/Advertisers/banners/RVPL-SP-BANNER.jpg" runat="server"></a><br><br><a href="http://www.bluecalypso.com" target="_blank"><img src="/images/Advertisers/banners/BCYP-SP-BANNER.jpg" runat="server"></a></div>
     </div>
 
 
@@ -803,7 +873,6 @@ function post_to_facebook(js_PromoterPromotionID)
             </div>
             <!-- Start Footer -->
             
-<link rel="stylesheet" type="text/css" href="../css/main.css">
 <!-- Developer: TirupathiRao.B -->
 <!-- Created By: JIVA Team -->
 <!-- Date: 23-Dec-2010 -->
@@ -832,7 +901,7 @@ function post_to_facebook(js_PromoterPromotionID)
                     <li><a href="http://stockpromoters.com/Stock-Promotion-Email-Archive.aspx">Stock Promotion Email Archive</a></li>
                     <li><a href="http://stockpromoters.com/View-Stock-Promotions-By-Symbol.aspx">View Promotions by Symbol</a></li>
                     <li><a href="http://stockpromoters.com/View-Promotions-By-Promoter.aspx">View Promotions by Promoter</a></li>
-                    <li><a href="http://stockpromoters.com/Todays-EOD-Promotions.aspx">Todays (EOD) Promotions</a></li>
+                    <li><a href="http://stockpromoters.com/Todays-EOD-Promotions.aspx">Todays End of Day Promotions</a></li>
                 </ul>
             </li>
             <li>
@@ -852,9 +921,9 @@ function post_to_facebook(js_PromoterPromotionID)
             <li>
                 <h6>Public Companies</h6>
                 <ul>
+                    <li><a href="http://stockpromoters.com/View-Companies-Looking-To-Go-Public.aspx">Co's Looking to Go Public (List)</a></li>
                     <li><a href="http://stockpromoters.com/Public-Companies-Seeking-Promotion.aspx">Co's Seeking Promotion (List)</a></li>
                     <li><a href="http://stockpromoters.com/View-Public-Companies-Seeking-Financing.aspx">Co's Seeking Financing (List)</a></li>
-                    <li><a href="http://stockpromoters.com/View-Companies-Looking-To-Go-Public.aspx">Co's Looking to Go Public (List)</a></li>
                     <li><a href="http://stockpromoters.com/Public-Companies-Seeking-Financing.aspx">Add Your Company</a></li>
               </ul>
           </li>
