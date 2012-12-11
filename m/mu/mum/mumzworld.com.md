@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mumzworld.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603034321id_/http%3A//www.mumzworld.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumzworld.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211045751id_/http%3A//www.mumzworld.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,7 +51,7 @@ We share your personally identifiable information with the reputable third parti
 
 We may share non-personally identifiable information, such as your URL or IP address with third party advertisers or third party advertising companies. This information CANNOT be traced to your personal details.
 
-**Your Product reviews**
+**Your Product Reviews**
 
 You can chose to add product reviews and you may be asked to contribute them after purchasing an item, this is an optional rather than obligatory part of being a mumzworld registered user. Your product reviews may be used in mumzworld marketing and/or promotional material and or that of the manufacturer of the reviewed product and/or any of our partner companies who we work with to serve customers. You have the right to have your review removed at any time, in this event you should send our customer service team your request by [email](mailto:support@mumzworld.com). You have the option to can submit reviews anonymously.
 
@@ -79,6 +79,18 @@ By joining and/or using mumzworld, you confirm that you do not consider the stat
 
 **Opting Out**
 
-Mumzworld users are given the option of registering for our newsletter and other news about special offers and deals. If you wish to stop receiving mumzworld news, you can contact our Customer Service team by [email](mailto:support@mumzworld.com) and put UNSUBSCRIBE in the message subject line. We will process your request as soon as we can. In this way you are modifying your mumzworld account settings, rather than cancelling your membership. If you wish to cancel your mumzworld account, please send our Customer Services department an email- with the words ‘Cancel Account’ in the title. Your account will be cancelled and we will delete all personal details that we have stored about you within 28 days. However, we are not responsible for contacting and/ or deleting the personal details about you that we have shared with our trusted partners.
+Mumzworld users are given the option of registering for our newsletter and other news about special offers and deals. If, at any time, you prefer not to receive email marketing information from us please follow the unsubscribe link at the bottom of each email OR contact us at [support@mumzworld.com](mailto:support@mumzworld.com) and instruct us to remove your email address from our database. For us to be able to do so, please include your email address in the body of your email and write "Unsubscribe" in the subject line." We will process your request as soon as we can. In this way you are modifying your mumzworld account settings, rather than cancelling your membership.
 
-*Customer service hours: 9 AM - 7 PM (UAE time)
+If you wish to cancel your mumzworld account, please send our Customer Services department an email - with the words ‘Cancel Account’ in the title. Your account will be cancelled and we will delete all personal details that we have stored about you within 28 days. However, we are not responsible for contacting and/ or deleting the personal details about you that we have shared with our trusted partners.
+
+**Contact Information**
+
+mumzworld.com  
+Dubai Internet City  
+Building 10, Office 306  
+PO Box 500245  
+Dubai UAE
+
+Telephone: +971 4 433 9460
+
+*Office Hours: 9 AM - 7 PM (UAE time)
