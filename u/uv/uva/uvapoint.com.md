@@ -1,100 +1,75 @@
-> *The following text is extracted and transformed from the uvapoint.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uvapoint.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211070403id_/http%3A//www.uvapoint.com/site/privacy_policy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# Recharge,Online Recharge,Prepaid Mobile Recharge,DTH Recharge,Easy Online Mobile Recharge,Mobile Bill Payment. Easy Bill Payment,Quick Heal
 
-**Go Daddy Respects Your Privacy**
+The following are terms of a legal agreement (“Privacy Agreement”) concerning your privacy on this web site (www.uvapoint.com) between you and UvaPoint( Adiv. of ViseshInfotechnics Limited) and its affiliates, successors & assigns. By accessing, browsing and using this site you acknowledges that you have read, understood and agree to be bound by this Privacy Agreement and to comply with all applicable laws and regulations. We have designed this Privacy Policy to explain how we handle personally identifiable information collected from users who register for services and submit information to [www.uvapoint.com](http://www.uvapoint.com/home/index.aspx) through the Internet. If you do not agree to these terms, do not use this site. Read this Privacy Agreement carefully and be aware that UvaPoint( A div. of Visesh Infotechnics Limited) may amend this Privacy Agreement at any time without notice and by posting the amended terms on this site. If you have questions about www.uvapoint.com privacy practices, please contact us at [info@uvapoint.com](mailto:info@uvapoint.com), [care@uvapoint.com. ](mailto:care@uvapoint.com)
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+UVAPOINT PRIVACY PRINCIPLES :  Makes no representations or warranties whatsoever about, and shall not be liable for, the vendor or any such third parties, their products or services, including representations relating to non-infringement of third party intellectual property rights. Any transactions that you may have with such third parties are at your own risk. The products/services shall be subject to vendor's terms and conditions for warranty, service and maintenance, and uvapoint does not accept any responsibility for the same. Uvapoint also does not accept any responsibility for the usage of the products by you. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Uvapoint.com is committed to keep your information confidential and secure and that is why we have designed procedures to ensure your privacy in all facets of our relationship. No matter if you are our Merchant, business partner, franchise, backend user, a consumer, and a customer you are protected, not only by the applicable privacy laws, but, more importantly, commitment of Uvapoint.com to safeguard your privacy and your right to decide how your personal information will be used. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+SCOPE OF PRIVACY POLICY : This Privacy Policy covers treatment of personally identifiable information collected by Uvapoint.com from our Channel Partners , Distributors , retailers and end users who use the Uvapoint services. This Policy also covers the treatment of personally identifiable information that our back end technology service providers / partners may share with us. 
 
-**Information Collection and Use**
+This Policy does not apply to the practices of companies that Uvapoint.com does not own or control or to people that Uvapoint.com does not employ or manage. This Policy is specific to Uvapoint.com and does not apply to other Web sites, links or Internet services that are part of or to be part of the Network of Uvapoint.com. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+What Personally Identifiable Information is Collected by Uvapoint.com ?   
+Uvapoint.com collects and stores information collected from our Channel Partners , Distributors , retailers who use the Uvapoint services, as well as Merchants, business partners, that we have tied-up and acquired in the course of our business and some visitor information regarding usage of this website, such as date and time of day you access our website, browser type, browser language, the Internet Protocol (IP) address of the computer you are using, number of hits, the pages visited, previous/subsequent sites visited and length of user session. Uvapoint.com does not collect any unique information about you (such as your name, e-mail address, etc.) except when you specifically and know Uvapoint.com only provide such information. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+OBJECTIVE :   
+1\. Provide consumers notice of our information practices.  
+2\. Offer consumers choices as to how their information is used beyond the purpose for which the information was provided.  
+3\. Offer consumers reasonable access to their information and an opportunity to correct inaccuracies.  
+4\. Take reasonable steps to protect the security and integrity of personal information.   
+Uvapoint.com respects your privacy and wants to promote trust and confidence on the internet. As such, Uvapoint.com feels it is necessary to disclose to you what information this site collects and tracks and what we do with the information that we collect. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Information security is critical to our business. We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We store information gathered on secure computers. It is important for you to protect against unauthorized access to your Login ID/password and to your computer. Be sure to sign off when finished using a shared computer and otherwise protect the password used to access the services of Uvapoint.com. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Currently, Uvapoint.com collects information of our Channel Partners , Distributors , retailers and end users who use the Uvapointservices, as well as Merchants, business partners, that we have tied-up and acquired in the course of our business. Uvapoint.com asks merchants and customers to supply various personal data when placing an order, such as name and address, mobile number, and E-mail address. Uvapoint.com uses this data only for the purpose of filling an order, or communicating with the customer or Merchants about the status of an order. The data so collected is used in the aggregate to give us demographic information about the entire services of Uvapoint.com in order to improve the said service to you, to perform statistical analysis of the collective characteristics and behaviour of our Merchants, customers/users and visitors, to measure overall patron demographics and interests regarding specific areas of the Uvapoint.com domain and to analyze how and where to use our resources. We use cookies to help us determine which sites users’ link to, and which services merchants and visitors use. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+We also track information like the domain name from which you contact us, the pages you request, the products you buy, the referring site, and the time that you spend on the site. For everyone who visits our website, Sub-Merchant purchase page, we log IP addresses, the type of operating system that your computer uses, and the type of browser software used by you. From the IP address, we can determine the Internet Service Provider and the geographic location of your point of connectivity. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+If you are our Merchant then the personal information you provide - name, address, etc.-allows us to inform you about updates, or changes to the service and to notify you of products and services of Uvapoint.com, its backend service providers and affiliates that we believe may be of interest to you. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+How UVAPOINT.COM USES AND SHARE PERSONALLY-IDENTIFIABLE INFORMATION :  At our website, we will use your personal details and information we obtain from other sources to provide you with our goods and services, for administration and customer services, to analyse your preferences and to ensure that the content, services and advertising we offer are tailored to your needs and interests. Personally identifiable consumer information is also shared with third parties (such as our Merchants, Banks and credit card/prepaid card processors, franchises, business partners, and channel network) service providers, agents to the extent necessary for Uvapoint.com to deliver payment settlement/processing services. Uvapoint.com may also link to a wide variety of other sites/links. We are not responsible for their privacy policies or how they treat information about their users. We may disclose personal data in order to comply with a legal or regulatory obligation. 
 
-**Security**
+If you (i.e. Channel Partners , Distributors , retailers) would like to view the information we have collected from you and your customers or you want to correct your information or the billing/shipping details of your customers or their IP addresses, Please go to login page and log into your account to view the above details and to review your personal information. If you have questions or suggestions, we can be reached by email at [info@uvapoint.com](mailto:info@uvapoint.com), [care@uvapoint.com](mailto:care@uvapoint.com)
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+COOKIES : The information mentioned above is gathered by using cookie. A cookie is a small line of text that is stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifiable information. 
 
-**Updating Your Information**
+We use cookies to collect information about how this site is used. We use this information to improve how our website caters for your needs and to identify any technical problems. Cookies are small bits of data that are stored by your browser. You can accept or decline cookies by modifying the settings of your web browser. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+When you visit our website, we may also log your IP address, a unique identifier for your computer or other access device. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+The internet is worldwide and if you are visiting this site from outside India, your visit will necessarily result in the transfer of information across international borders. By visiting this site and communicating electronically with us you are consenting to these transfers. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+If you provide us with information about another person, you confirm that they have appointed you to act for them, to consent to the processing of their personal data including sensitive personal data and that you have informed them of our identity and the purposes (as set out above) for which their personal data will be processed. 
 
-      iii.      You may call us at: (480) 505-8800
+We link to a wide variety of other sites and we display advertisements from third parties on our site. We are not responsible for the content or privacy policies of these sites and third party advertisers, or for the way in which information about their users is treated. In particular, unless expressly stated, we are not agents for these sites or advertisers nor are we authorized to make representations on their behalf. 
 
-       iv.      You may fax us at: (480) 505-8844
+NOTICE :  When you complete an application form or register on our website, be aware that you are giving Uvapoint.com your personal information and you will not be informed separately. If you decide not to complete the application form or to leave the site altogether, we will not keep any data you have provided. 
 
-**Sending Emails**
+CHOICE :  If we want to collect information about you, you decide which personal data we receive and how we use it. We will only collect personal data for the purposes you approve of and only to the extent necessary for that purpose.In some cases, we may share your data with third parties and affiliates in order to offer you other services. In such cases we respect your right to opt out of such transfer to third parties or affiliates or out of our use of your non-public personal data for purposes other than they were collected for. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+ACCESS :  We respect your privacy rights, particularly your right to access your information. If you ask us, and to the extent provided by local law, we will share with you the personal information we collect and retain about you through our web-sites. We strive to keep your data accurate. Please provide us with any changes or corrections in your information. 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+DATA SECURITY :  Uvapoint.com strive to keep the level of security state-of-the-art at all times and takes steps to protect your personally identifiable information and has adopted generally accepted standards of technology in order to protect your personally identifiable information. We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We store information gathered on secure computers. We use advanced security technology to prevent our computers from being accessed by unauthorized persons.
 
-**Compliance with Laws and Law Enforcement**
+We respond to subpoenas, warrants, or other court orders regarding information that is contained within our access logs concerning any Merchant, business partner, agent, franchise, end users, customer or visitor. We reserve the right to release that information concerning any Merchant, business partner, agent, franchises; user who we believe is in violation of our content guidelines, even without a subpoena, warrant, or other court order. We cooperate with law enforcement agencies in identifying those who use our servers and services for illegal activities. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+We also reserve the right to report any illegal activity by our Merchants, agents, franchises or their customers to law enforcement for prosecution. 
 
-**Third Party Service Providers**
+Please be aware that Uvapoint.com does not control the acts of its Merchants, agents, franchises, customers, users or visitors. All Merchants, customers and visitors should be aware that, when they disclose personal information such as their actual name, store's name, e-mail address, etc. to third parties, the information may be collected and used by others to send that person unsolicited e-mail from other parties, outside of Uvapoint.com. In the event that you encounter any Merchant, agent, franchises, customer of Uvapoint.com or user who is improperly collecting or using information about users, please contact us by emailing at [info@uvapoint.com](mailto:info@uvapoint.com), [care@uvapoint.com](mailto:care@uvapoint.com)
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+This website takes measures to protect its data that contains information related to you. However, as a consideration for viewing this site or interacting with this site in any manner, you waive all claims of any nature against this site concerning the loss, alteration, or misuse of information. You must assume that it is possible for your personal data to be obtained by others, such as "hackers," and used in an inappropriate manner that may cause harm to you and that you agree that Uvapoint.com is not responsible to provide any damages to you. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+ENFORCEMENT : The laws of the India provide for measures to enforce your privacy rights. In addition, if you feel that uvapoint.com this Statement on Privacy in any way, please contact us at info@Uvapoint.com, care@uvapoint.com . 
 
-**Supplementation of Information**
+TRANSFER OF INFORMATION ABROAD :  This site may be viewed anywhere in the world. Personally identifiable information collected by Uvapoint.com through this site may be transferred to offices of Uvapoint.com located all over India and the site viewed by any person outside India. Some destination countries may not have laws that regulate the use and transfer of such information. By using this website and posting information on this site, you voluntarily consent to such transfer of information. 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+DISCLAIMER :  Uvapoint.com cannot ensure that all of your personally identifiable information will never be disclosed in ways not described in this Privacy Policy. For example, we may be required to disclose personally identifiable information to the government or by court order under certain circumstances, or other situations may arise requiring such disclosure. In addition, you authorize us to disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate.
 
-**Contests/Surveys**
+This site contains links to other websites. Uvapoint.com is not responsible for the privacy practices or the content of such Websites. 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+YOUR USE OF OUR WEBSITE MEANS THAT YOU ARE ACCEPT THE PRACTICES SET FORTH IN THIS POLICY. WE RESERVE THE RIGHT TO MAKE CHANGES TO THE POLICY BY POSTING THE NEW VERSION WITH A NEW EFFECTIVE DATE AND YOUR CONTINUED USE INDICATES YOUR AGREEMENT TO THE CHANGES. 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+LATEST UPDATE : This Privacy Policy was last updated on: [ 10th February 2012 ] 
