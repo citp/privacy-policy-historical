@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ballerwives.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502114636id_/http%3A//ballerwives.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ballerwives.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211015742id_/http%3A//ballerwives.com/privacy) for the most accurate reproduction.*
 
 # Privacy | BallerWives.com
 
 ### Privacy Policy
 
-This privacy policy was last modified on June 10, 2009.
+This privacy policy was last modified on May 4th, 2012.
 
 Ballerwives.com (“Company,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Company when you use Ballerwives.com and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.
 
@@ -43,6 +43,10 @@ Except as otherwise described in this privacy statement, Company will not disclo
 **Non-Personally Identifiable Information:** We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Company services.
 
 Company allows other companies, called third-party ad servers or ad networks, to serve advertisements on the Company site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Company. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
+
+As mentioned above:
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.networkadvertising.org/)
 
 Company does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Company to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
 
