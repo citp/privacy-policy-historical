@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 36boutiques.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509132021id_/http%3A//www.36boutiques.com/store/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 36boutiques.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211080041id_/http%3A//www.36boutiques.com/store/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
