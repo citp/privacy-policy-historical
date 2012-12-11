@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jennastube.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607050256id_/http%3A//www.jennastube.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jennastube.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211040931id_/http%3A//www.jennastube.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
