@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paper.li privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605113223id_/http%3A//paper.li/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paper.li privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211081120id_/http%3A//paper.li/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -18,6 +18,8 @@ Globally, we collect and store the data we need to run pertinently the service. 
 
 
 
+
+**Cookies** : Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services. A cookie is a small data file that is transferred to your computer's hard disk. Paper.li may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our services, and to customize and improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies. 
 
 ## How do we use this information and for what purpose?
 
@@ -46,7 +48,7 @@ SmallRivers and its authorized partners shall take appropriate organizational an
 
 Email notification
 
-SmallRivers may send email or Twitter messages to Paper.li Members to notify them of service's updates, new features or any king of information related to the Paper.li service. Paper.li Members can unsubscribe to these notification anytime by using the appropriate tools available in the Paper.li service or by sending an email to [support(at)smallrivers(dot)com](mailto:support@smallrivers.com).
+SmallRivers may send email or Twitter messages to Paper.li Members to notify them of service's updates, new features or any king of information related to the Paper.li service. Paper.li Members can unsubscribe to these notification anytime by using the appropriate tools available in the Paper.li service.
 
 ## Can this privacy statement be modified?
 
@@ -56,7 +58,7 @@ SmallRivers reserves the right to modify the provisions of this Privacy Statemen
 
 You may oppose to the processing by SmallRivers of your personal data. However, in this case, SmallRivers will not be in a position to provide the SmallRivers Service.
 
-You can exercise your right to oppose to the processing detailed in the Privacy Statement by contacting SmallRivers at [support(at)smallrivers(dot)com](mailto:support@smallrivers.com).
+You can exercise your right to oppose to the processing detailed in the Privacy Statement by contacting SmallRivers at [info(at)smallrivers(dot)com](mailto:info@smallrivers.com).
 
 ## How long is your data kept by SmallRivers?
 
@@ -66,6 +68,6 @@ Governing Law
 
 By accessing the Paper.li, you and SmallRivers agree that all matters relating to your access to, or use of, Paper.li shall be governed by and construed in accordance with the laws of Switzerland, without giving effect to any principles of conflicts of law.
 
-If you have any questions or concerns about this Policy or on the Paper.li service, please contact us at: [support(at)smallrivers(dot)com](mailto:support@smallrivers.com).
+If you have any questions or concerns about this Policy or on the Paper.li service, please contact us at: [info(at)smallrivers(dot)com](mailto:info@smallrivers.com).
 
-**Last revised July 28, 2010**
+**Last revised July 18, 2012**
