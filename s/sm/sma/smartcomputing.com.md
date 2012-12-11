@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartcomputing.com privacy policy that was archived on 2012-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120406173811id_/http%3A//www.smartcomputing.com/info/privacy.aspx%3Fguid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcomputing.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211110817id_/http%3A//www.smartcomputing.com/privacy) for the most accurate reproduction.*
 
-# Sandhills Publishing® Privacy Policy at SmartComputing.com
+# Privacy Policy
 
 Sandhills Publishing understands the concerns people have about privacy and safety while using the Internet. This Privacy Policy explains what information we gather from visitors, how we use that information, and the steps we take to protect your privacy. 
 
