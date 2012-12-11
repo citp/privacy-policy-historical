@@ -1,16 +1,20 @@
-> *The following text is extracted and transformed from the realvnc.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510033724id_/http%3A//www.realvnc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realvnc.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211030407id_/http%3A//www.realvnc.com/privacy.html) for the most accurate reproduction.*
 
 # RealVNC - Privacy statement
-
-Home
 
 ### Privacy
 
 RealVNC is committed to protecting the privacy of our users. We will use our best efforts to ensure that the information you give us remains private and is only used for the purposes set out in this policy.
 
-### Use of Cookies
+### Use of cookies
 
-A cookie is a small text file which is automatically issued to your computer when you visit our website. We use cookies to improve the quality of service we provide but we do not personally identify you.
+A cookie is a small text file which is automatically stored on your computer or device when you visit our website. 
+
+We use cookies to improve our quality of service. For example, we use Google Analytics, a popular web analytics service provided by Google, to help us analyze how you navigate and use the site. For more information about Google Analytics and privacy, visit [their website](http://www.google.com/analytics/learn/privacy.html).
+
+We do not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block the cookies set by us, or by any other website, you can do this through your browser’s settings. Consult the Help in your browser for more information about how to do this.
+
+**None of the cookies used on our website collect personally identifiable information about you.**
 
 ### Collection of personal information
 
@@ -20,4 +24,6 @@ Any personal information you submit to our website, for whatever purpose, is hel
 
 ### Links to external websites
 
-RealVNC is not responsible for the content or reliability of the external websites and does not necessarily endorse the views expressed within them.
+RealVNC is not responsible for the content or reliability of external websites and does not necessarily endorse the views expressed within them.
+
+Copyright © 2002-2012 RealVNC Limited. All rights reserved.
