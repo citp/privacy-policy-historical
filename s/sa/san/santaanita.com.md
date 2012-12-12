@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the santaanita.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613182828id_/http%3A//www.santaanita.com/content/electronic-privacy-statement-santa-anita-park) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santaanita.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213005538id_/http%3A//santaanita.com/content/electronic-privacy-statement-santa-anita-park) for the most accurate reproduction.*
 
 # Electronic Privacy Statement for Santa Anita Park | Santa Anita Park
 
