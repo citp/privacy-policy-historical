@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the macon.com privacy policy that was archived on 2012-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615110627id_/http%3A//www.macon.com/privacy_policy%23navlinks%3D%2AHome%3Ami_footer) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the macon.com privacy policy that was archived on 2012-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121213000648id_/http%3A//www.macon.com/privacy_policy%23navlinks%3D%2AHome%3Ami_footer) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
 <title>Macon.com Macon, GA</title>
@@ -21,15 +21,15 @@
    
    // ----- end gomez -----
 //--> 
-</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A212650815643451%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3AMacon%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20120615110627id_%2Fhttp%3A%2F%2Fwww.macon.com%2Fprivacy_policy%2F%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
+</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A268873219523781%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3AMacon%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20121213000648id_%2Fhttp%3A%2F%2Fwww.macon.com%2Fprivacy_policy%2F%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
 
-<link href="/mistatic/cache/stylesheets/d12a9206cffa8c34b8ae5154a0843cb8-min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/mistatic/cache/stylesheets/77af0f0cacdd37fdee502bc00ecafcf7-min.css" media="screen" rel="stylesheet" type="text/css">
 
 <link href="http://media.macon.com/mistatic/stylesheets/print.css" media="print" rel="stylesheet" type="text/css">
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js" type="text/javascript"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js" type="text/javascript"></script>
-
+            <script type="text/javascript" src="http://s.ppjol.net/pp.js">{ 'zone':"hWJEVBVLv9Xq813kepLoq7", 'mode':"meter", 'debug':0 }</script> 
 <script type="text/javascript">
 
 
@@ -59,13 +59,20 @@
 	 2 = display static coupon ad
 	*/
 	miAppControler.prototype.findnsave = 0;
-        miAppControler.prototype.dealsaver = 1;
+  miAppControler.prototype.dealsaver = 1;
 
-        /* Surveywall
-	 0 = disable Google microsurvey  
-         1 = enable Google microsurvey
+    /* Surveywall
+	 0 = disable pass widget  
+     1 = enable pass widget
 	*/  
-        miAppControler.prototype.surveywall = 0;
+    miAppControler.prototype.surveywall = 1;
+
+	/* Paywall
+	 0 = disable paywall
+	 1 = enable paywall for preview & live
+	 2 = enable paywall for preview only
+	*/
+	miAppControler.prototype.paywall = 1;
 
 
 
@@ -79,20 +86,9 @@
 
 </script>
 
-
-<script type="text/javascript">
-var mianalytics = {};
-mianalytics.bizunit = "mac";
-mianalytics.pagelevel = "static";
-mianalytics.contentsource = "";
-mianalytics.taxonomy = "Online|SiteInformation|||";
-mianalytics.channel = "Static";
-</script>
-
-
 <script type="text/javascript">
 var auth_cookie_name = "thetelegraph_user_auth";
-</script><script type="text/javascript" src="/mistatic/cache/javascripts/5a4b1da4cb20a259981d58ff91eb5e12-min.js"></script>
+</script><script type="text/javascript" src="/mistatic/cache/javascripts/8ad584a0720c4582664033b4f50f78bd-min.js"></script>
 
 
 <script type="text/javascript" src="http://media.macon.com/mistats/mianalytics.js"></script>
@@ -108,6 +104,14 @@ var auth_cookie_name = "thetelegraph_user_auth";
     mi.commenting = new mi.Commenting();
     
     mi.commenting.setConf( "accountName", "macon" );
+    
+    
+    var disqus2012cookie = new mi.Cookie(document, 'disqus2012');
+    if(disqus2012cookie.load()){
+            mi.commenting.reset_disqus_config(disqus2012cookie.disqus2012, '1i5FkqMD7y16QPLgKu9m9sfp74FwqrMuUj9ApgoSdMHetzO6vK5CLS4K6EKEON5c');
+    }
+    
+    
     
 </script>
 
@@ -141,20 +145,46 @@ $(document).ready(function() {
 
 
 <script language="JavaScript" type="text/javascript" src="http://media.macon.com/misites/mac/macon.js"></script>
+<!-- site specific file already loaded -->
+<script language="JavaScript" type="text/javascript">
+<!--
+measure_popularity=false;
+mistats.msr = 'MAC|MA';
+
+mistats.pagelevel='misc';
+mistats.pagename='Section: Privacy Policy';
+mistats.version='1.0|';
+mistats.taxonomy='Online|SiteInformation|||';
+mistats.channel='Privacy Policy';
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
+</script>
+
 
 </head>
 
 
-<body class="section" id="section_">
-
-<div class="sbb_wrap">
+<body class="section" id="section_"><div class="sbb_wrap">
     <div class="top_ads">   
-<div class="ad">
-        <div class="advertisement dart_960x30" id="dart_960x30_1">
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=129894523420781?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=129894523420781?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=129894523420781?" border="0" alt="Advertisement"></a></noscript> 
-        </div>
+                
+        
+        <div class="ad">
+        <div class="advertisement dart_960x30" id="dart_960x30_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=657828601109891?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=657828601109891?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=657828601109891?" border="0" alt="Advertisement"></a></noscript>         </div>
 </div>
+
     </div>
 </div>
 
@@ -179,19 +209,21 @@ $(document).ready(function() {
             
 
             <div class="current">
-            <a href="/weather/"><img id="weather_icon" alt="Mostly cloudy" src="http://media.macon.com/mistatic/images/weather/icons/38.png"></a>
+            <a href="/weather/"><img id="weather_icon" alt="Cloudy" src="http://media.macon.com/mistatic/images/weather/icons/07.png"></a>
             </div>
             <div class="temp">
-                <div id="weather_curr_temp" class="current_temp">68°</div>
+                <div id="weather_curr_temp" class="current_temp">46°</div>
                 <div class="weather_alert"><a href="?">Alert!</a></div>
                 <div class="forecast">&nbsp;<a href="/weather/">Forecast</a></div>
             </div>
-        </div><!-- #weather -->            <div class="weather_sponsor" id="dart_150x25_weather_1">
-
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=129894523420781?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=129894523420781?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=129894523420781?" border="0" alt="Advertisement"></a></noscript> 
-
-            </div>    </div><!-- end mast_top -->
+        </div><!-- #weather -->
+            <div class="weather_sponsor" id="dart_150x25_weather_1">
+                
+        
+        <script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=657828601109891?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=657828601109891?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=657828601109891?" border="0" alt="Advertisement"></a></noscript> 
+            </div>
+    </div><!-- end mast_top -->
     <div class="clear"></div>
     
     <div id="mast_main">
@@ -219,7 +251,7 @@ $(document).ready(function() {
         </div>
         <div id="member" class="signin">
             <ul id="services_nav">
-                <li class="first"><a href="/reg-bin/tint.cgi?mode=edit" class="member_button"><script language="javascript">document.write(user_name);</script></a>
+                <li class="first"><a href="/reg-bin/tint.cgi?mode=edit" class="member_button"><script language="javascript">document.write(user_name);</script><span class="down_arrow"></span></a>
                     <ul class="member_options">
                         <li><a href="/reg-bin/tint.cgi?mode=edit">Member Center</a></li>
                         <li><a href="/reg-bin/tint.cgi?mode=logout">Sign out</a></li>
@@ -244,7 +276,7 @@ $(document).ready(function() {
                         </a>
                     </li>
                     
-                    <li>
+                    <li id="search_widget_web_search_choice" style="display: none;">
                         <a id="web_search" href="#">
                             <img src="http://media.macon.com/mistatic/images/search/search_dropdown_yahoo_logo.png">Web Search
                         </a>
@@ -281,25 +313,26 @@ $(document).ready(function() {
 <div id="main_nav">
     <ul>
         <li id="nav_ad">
-
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=129894523420781?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=129894523420781?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=129894523420781?" border="0" alt="Advertisement"></a></noscript> 
-
+                
+        
+        <script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=657828601109891?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=657828601109891?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=657828601109891?" border="0" alt="Advertisement"></a></noscript> 
         </li>
-        <li><a href="/#navlinks=navbar" title="Home Page">Home</a></li>                <li><a href="/news/#navlink=navbar" title="">News</a>
+        <li><a href="/#navlinks=navbar" title="Home Page">Home</a></li>                <li><a href="/news/#navlink=navbar" title="News">News</a>
                                             <ul class="subnav">
-                                                        <li><a href="/latest-news/#navlink=subnav" title="">Latest News</a></li>                                <li><a href="/local-news/#navlink=subnav" title="">Local &amp; State</a></li>                                <li><a href="/houston-peach-news/#navlink=subnav" title="">Houston &amp; Peach</a></li>                                <li><a href="/the-sun-news/#navlink=subnav" title="">The Sun News</a></li>                                <li><a href="/crime-news/#navlink=subnav" title="">Crime</a></li>                                <li><a href="/education-news/#navlink=subnav" title="">Education</a></li>                                <li><a href="/business-news/#navlink=subnav" title="">Business</a></li>                                <li><a href="/nation-news/#navlink=subnav" title="">Nation</a></li>                                <li><a href="/world-news/#navlink=subnav" title="">World</a></li>                                <li><a href="/opinion/#navlink=subnav" title="">Opinion</a></li>                                <li><a href="/weird-news/#navlink=subnav" title="">Weird News</a></li>                        </ul>                </li>                <li><a href="/sports/#navlink=navbar" title="">Sports</a>
+                                                        <li><a href="/latest-news/#navlink=subnav" title="">Latest News</a></li>                                <li><a href="/local-news/#navlink=subnav" title="">Local &amp; State</a></li>                                <li><a href="/houston-peach-news/#navlink=subnav" title="">Houston &amp; Peach</a></li>                                <li><a href="/the-sun-news/#navlink=subnav" title="">The Sun News</a></li>                                <li><a href="/crime-news/#navlink=subnav" title="">Crime</a></li>                                <li><a href="/education-news/#navlink=subnav" title="">Education</a></li>                                <li><a href="/business-news/#navlink=subnav" title="">Business</a></li>                                <li><a href="/nation-news/#navlink=subnav" title="">Nation</a></li>                                <li><a href="/world-news/#navlink=subnav" title="">World</a></li>                                <li><a href="/opinion/#navlink=subnav" title="">Opinion</a></li>                                <li><a href="/weird-news/#navlink=subnav" title="">Weird News</a></li>                        </ul>                </li>                <li><a href="/sports/#navlink=navbar" title="Sports">Sports</a>
                                             <ul class="subnav">
-                                                        <li><a href="/high-school-sports/#navlink=subnav" title="">High School Sports</a></li>                                <li><a href="/university-of-georgia/#navlink=subnav" title="">University of Georgia</a></li>                                <li><a href="/georgia-tech/#navlink=subnav" title="">Georgia Tech</a></li>                                <li><a href="/mercer/#navlink=subnav" title="">Mercer</a></li>                                <li><a href="/sports-columnists/#navlink=subnav" title="">Sports Columnists</a></li>                                <li><a href="/sports-blogs/#navlink=subnav" title="">Sports Blogs</a></li>                                <li><a href="/college-sports/#navlink=subnav" title="">Colleges</a></li>                                <li><a href="/braves/#navlink=subnav" title="">Atlanta Braves</a></li>                                <li><a href="/falcons/#navlink=subnav" title="">Atlanta Falcons</a></li>                                <li><a href="/mlb-pro-baseball/#navlink=subnav" title="">MLB Baseball</a></li>                                <li><a href="/nba-pro-basketball/#navlink=subnav" title="">NBA Basketball</a></li>                                <li><a href="/nfl-pro-football/#navlink=subnav" title="">NFL Football</a></li>                                <li><a href="/auto-racing/#navlink=subnav" title="">Auto Racing</a></li>                                <li><a href="/golf/#navlink=subnav" title="">Golf</a></li>                                <li><a href="/more-sports/#navlink=subnav" title="">More Sports</a></li>                        </ul>                </li>                <li><a href="/living/#navlink=navbar" title="">Living</a>
+                                                        <li><a href="/high-school-sports/#navlink=subnav" title="">High School Sports</a></li>                                <li><a href="/university-of-georgia/#navlink=subnav" title="">University of Georgia</a></li>                                <li><a href="/georgia-tech/#navlink=subnav" title="">Georgia Tech</a></li>                                <li><a href="/mercer/#navlink=subnav" title="">Mercer</a></li>                                <li><a href="/sports-columnists/#navlink=subnav" title="">Sports Columnists</a></li>                                <li><a href="/sports-blogs/#navlink=subnav" title="">Sports Blogs</a></li>                                <li><a href="/college-sports/#navlink=subnav" title="">Colleges</a></li>                                <li><a href="/braves/#navlink=subnav" title="">Atlanta Braves</a></li>                                <li><a href="/falcons/#navlink=subnav" title="">Atlanta Falcons</a></li>                                <li><a href="/mlb-pro-baseball/#navlink=subnav" title="">MLB Baseball</a></li>                                <li><a href="/nba-pro-basketball/#navlink=subnav" title="">NBA Basketball</a></li>                                <li><a href="/nfl-pro-football/#navlink=subnav" title="">NFL Football</a></li>                                <li><a href="/auto-racing/#navlink=subnav" title="">Auto Racing</a></li>                                <li><a href="/golf/#navlink=subnav" title="">Golf</a></li>                                <li><a href="/more-sports/#navlink=subnav" title="">More Sports</a></li>                        </ul>                </li>                <li><a href="/living/#navlink=navbar" title="Living">Living</a>
                                             <ul class="subnav">
-                                                        <li><a href="/mark-ballard/#navlink=subnav" title="">Mark Ballard</a></li>                                <li><a href="http://www.legacy.com/celebration/macon/#navlink=subnav" title="">Celebrations</a></li>                                <li><a href="/family/#navlink=subnav" title="">Family</a></li>                                <li><a href="/food/#navlink=subnav" title="">Food</a></li>                                <li><a href="/health/#navlink=subnav" title="">Health</a></li>                                <li><a href="/home-garden/#navlink=subnav" title="">Home &amp; Garden</a></li>                                <li><a href="/religion/#navlink=subnav" title="">Religion</a></li>                                <li><a href="/teens/#navlink=subnav" title="">Teens</a></li>                                <li><a href="/travel/#navlink=subnav" title="">Travel</a></li>                        </ul>                </li>                <li><a href="/entertainment/#navlink=navbar" title="">Entertainment</a>
+                                                        <li><a href="/mark-ballard/#navlink=subnav" title="">Mark Ballard</a></li>                                <li><a href="http://www.legacy.com/celebration/macon/#navlink=subnav" title="">Celebrations</a></li>                                <li><a href="/explore/#navlink=subnav" title="">Explore</a></li>                                <li><a href="/family/#navlink=subnav" title="">Family</a></li>                                <li><a href="/food/#navlink=subnav" title="">Food</a></li>                                <li><a href="/health/#navlink=subnav" title="">Health</a></li>                                <li><a href="/home-garden/#navlink=subnav" title="">Home &amp; Garden</a></li>                                <li><a href="/religion/#navlink=subnav" title="">Religion</a></li>                                <li><a href="/teens/#navlink=subnav" title="">Teens</a></li>                                <li><a href="/travel/#navlink=subnav" title="">Travel</a></li>                        </ul>                </li>                <li><a href="/entertainment/#navlink=navbar" title="Entertainment">Entertainment</a>
                                             <ul class="subnav">
-                                                        <li><a href="/celebrities/#navlink=subnav" title="">Celebrities</a></li>                                <li><a href="/comics/#navlink=subnav" title="">Comics</a></li>                                <li><a href="/games/#navlink=subnav" title="">Games</a></li>                                <li><a href="/movie-news-reviews/#navlink=subnav" title="">Movies</a></li>                                <li><a href="/music/#navlink=subnav" title="">Music</a></li>                                <li><a href="/restaurants/#navlink=subnav" title="">Dining</a></li>                                <li><a href="/television/#navlink=subnav" title="">Television</a></li>                                <li><a href="http://events.macon.com/#navlink=subnav" title="">Calendars</a></li>                                <li><a href="/horoscopes/#navlink=subnav" title="">Horoscopes</a></li>                        </ul>                </li>                <li><a href="/news-photos/#navlink=navbar" title="">Photos/Videos</a>
+                                                        <li><a href="/celebrities/#navlink=subnav" title="">Celebrities</a></li>                                <li><a href="/comics/#navlink=subnav" title="">Comics</a></li>                                <li><a href="/games/#navlink=subnav" title="">Games</a></li>                                <li><a href="/movie-news-reviews/#navlink=subnav" title="">Movies</a></li>                                <li><a href="/music/#navlink=subnav" title="">Music</a></li>                                <li><a href="/restaurants/#navlink=subnav" title="">Dining</a></li>                                <li><a href="/television/#navlink=subnav" title="">Television</a></li>                                <li><a href="http://events.macon.com/#navlink=subnav" title="">Calendars</a></li>                                <li><a href="/horoscopes/#navlink=subnav" title="">Horoscopes</a></li>                        </ul>                </li>                <li><a href="/news-photos/#navlink=navbar" title="Photos/Videos">Photos/Videos</a>
                                             <ul class="subnav">
-                                                        <li><a href="/news-photos/#navlink=subnav" title="">Local Photos</a></li>                                <li><a href="http://photos.macon.com/#navlink=subnav" title="">Reader Photos</a></li>                                <li><a href="/sports-photos/#navlink=subnav" title="">Sports Photos</a></li>                                <li><a href="/the-sun-news-photos/#navlink=subnav" title="">Sun News Photos</a></li>                                <li><a href="/morning-update-video/#navlink=subnav" title="">Morning Update Video</a></li>                                <li><a href="/news-video/#navlink=subnav" title="">Local News Video</a></li>                        </ul>                </li>                <li><a href="http://www.legacy.com/obituaries/macon/#navlink=navbar" title="">Obituaries</a>
-                                    </li>                <li><a href="http://findnsave.macon.com/#navlink=navbar" title="">Local Deals</a>
+                                                        <li><a href="/news-photos/#navlink=subnav" title="">Local Photos</a></li>                                <li><a href="http://photos.macon.com/#navlink=subnav" title="">Reader Photos</a></li>                                <li><a href="/sports-photos/#navlink=subnav" title="">Sports Photos</a></li>                                <li><a href="/the-sun-news-photos/#navlink=subnav" title="">Sun News Photos</a></li>                                <li><a href="/morning-update-video/#navlink=subnav" title="">Morning Update Video</a></li>                                <li><a href="/news-video/#navlink=subnav" title="">Local News Video</a></li>                        </ul>                </li>                <li><a href="http://www.legacy.com/obituaries/macon/#navlink=navbar" title="Obituaries">Obituaries</a>
+                                    </li>                <li><a href="http://findnsave.macon.com/#navlink=navbar" title="Local Deals">Local Deals</a>
                                             <ul class="subnav">
-                                                        <li><a href="http://findnsave.macon.com/Coupons#navlink=subnav" title="">Grocery Coupons</a></li>                                <li><a href="http://findnsave.macon.com/Local-Ads#navlink=subnav" title="">Local Ads</a></li>                                <li><a href="http://specialsections.macon.com/SS/Tiles.aspx#navlink=subnav" title="">Special Sections</a></li>                                <li><a href="http://findnsave.macon.com/Circulars#navlink=subnav" title="">Store Circulars</a></li>                        </ul>                </li>
+                                                        <li><a href="http://findnsave.macon.com/Coupons#navlink=subnav" title="">Grocery Coupons</a></li>                                <li><a href="http://findnsave.macon.com/Local-Ads#navlink=subnav" title="">Local Ads</a></li>                                <li><a href="http://specialsections.macon.com/SS/Tiles.aspx#navlink=subnav" title="">Special Sections</a></li>                                <li><a href="http://findnsave.macon.com/Circulars#navlink=subnav" title="">Store Circulars</a></li>                        </ul>                </li>                <li><a href="/plus#navlink=navbar" title="Digital Subscription">Digital Subscription</a>
+                                    </li>
     </ul>
 </div>
 
@@ -428,34 +461,37 @@ $(document).ready(function() {
         </div>
         <div id="sidebar" class="grid_4">
                 <div id="sidebar_r1">
-<div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_1">
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=129894523420781?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=129894523420781?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=129894523420781?" border="0" alt="Advertisement"></a></noscript> 
-        </div>
+                
+        
+        <div class="ad">
+        <div class="advertisement dart_300x250" id="dart_300x250_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=657828601109891?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=657828601109891?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.mac00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=657828601109891?" border="0" alt="Advertisement"></a></noscript>         </div>
 </div>
+
 </div>
 <div id="sidebar_r2">
 
 </div>
 <div id="sidebar_r3">
-<div class="ad">
-        <div class="advertisement dart_300x100" id="dart_300x100_1">
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.mac00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=129894523420781?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.mac00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=129894523420781?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.mac00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=129894523420781?" border="0" alt="Advertisement"></a></noscript> 
-        </div>
+                
+        
+        <div class="ad">
+        <div class="advertisement dart_300x100" id="dart_300x100_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.mac00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=657828601109891?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.mac00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=657828601109891?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.mac00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=657828601109891?" border="0" alt="Advertisement"></a></noscript>         </div>
 </div>
+
 </div>
 <div id="sidebar_r4">
 
 </div>
 <div id="sidebar_r5">
-<div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_2">
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.mac00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=129894523420781?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.mac00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=129894523420781?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.mac00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=129894523420781?" border="0" alt="Advertisement"></a></noscript> 
-        </div>
+                
+        
+        <div class="ad">
+        <div class="advertisement dart_300x250" id="dart_300x250_2"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.mac00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=657828601109891?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.mac00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=657828601109891?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.mac00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=657828601109891?" border="0" alt="Advertisement"></a></noscript>         </div>
 </div>
+
 </div>
 
 <div id="sidebar_r6">
@@ -476,30 +512,67 @@ $(document).ready(function() {
 
 <div id="page_footer">
     
-    <section class="widget">
-    <h2 class="heading">Stay Connected</h2>
-    <div id="footer_connect_links">
-        <ul class="connect">
-            
-                    <li><a href="https://subscriberservices.mcclatchy.com/macon/TransactionType.asp#navlink=*stayconnected" class="subscribe" title="Subscriber Services"><span>Subscriber Services</span></a></li>
-                
-                    <li><a href="/apps/#navlink=*stayconnected" class="phone_apps" title="Phone Apps"><span>Phone Apps</span></a></li>
-                
-                    <li><a href="/mobile/#navlink=*stayconnected" class="mobile" title="Mobile Site"><span>Mobile Site</span></a></li>
-                
-                    <li><a href="/rss" class="rss" title="News Feeds"><span>News Feeds</span></a></li>
-                
-                    <li><a href="http://etelegraph.macon.com/#navlink=*stayconnected" class="e_edition" title="e-Edition"><span>e-Edition</span></a></li>
-                
-                    <li><a href="http://www.facebook.com/telegraphGA#navlink=*stayconnected" class="facebook" title="Facebook"><span>Facebook</span></a></li>
-                
-                    <li><a href="http://twitter.com/#!/middlegeorgia#navlink=*stayconnected" class="twitter" title="Twitter"><span>Twitter</span></a></li>
-                
-                    <li><a href="http://www.kobobooks.com/subscriptions/The-Telegraph/p7WMBErTNkG5IT5pdaXXyQ.html#navlink=*stayconnected" class="ereader" title="e-Reader"><span>e-Reader</span></a></li>
-                
-        </ul>
-    </div><!-- /#footer_connect_links -->
-</section>
+    
+<div id="stay_connected">
+    <h2 class="heading"><span class="section_label">Stay Connected</span></h2>
+    
+<div class="item newsletters">
+    <a href="/reg-bin/tint.cgi?mode=edit#newsletters#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Email Newsletters&nbsp;<span>&gt;</span>
+            <div class="description">Manage newsletter subscriptions</div>
+        </div>
+    </a>
+</div>
+
+<div class="item tablets">
+    <a href="/tablet#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Tablets&nbsp;<span>&gt;</span>
+            <div class="description">Apps and services for tablet devices</div>
+        </div>
+    </a>
+</div>
+
+<div class="item mobile">
+    <a href="/mobile#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Mobile&nbsp;<span>&gt;</span>
+            <div class="description">Apps and services for your mobile phone</div>
+        </div>
+    </a>
+</div>
+
+<div class="item social_media">
+    <a href="/social-media#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Social Media&nbsp;<span>&gt;</span>
+            <div class="description">Get updates via Facebook and Twitter</div>
+        </div>
+    </a>
+</div>
+
+<div class="item e_edition">
+    <a href="http://www.macon.com/etelegraph/#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">e-Edition&nbsp;<span>&gt;</span>
+            <div class="description">Your daily paper delivered to your computer</div>
+        </div>
+    </a>
+</div>
+
+<div class="item home_delivery">
+    <a href="https://subscriberservices.mcclatchy.com/macon/TransactionType.asp#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Home Delivery&nbsp;<span>&gt;</span>
+            <div class="description">Manage your home delivery account</div>
+        </div>
+    </a>
+</div>
+
+</div>
+<div class="clear"></div>
+
 	<div id="footer_text_links">
 		<p class="links">
 			
@@ -523,7 +596,7 @@ $(document).ready(function() {
     
     </div><!-- /#footer_partner_links -->
 
-    <div id="copyright">©  www.macon.com and wire service sources. All Rights Reserved.
+    <div id="copyright">© 2012 www.macon.com and wire service sources. All Rights Reserved.
         <a href="http://www.macon.com">http://www.macon.com</a></div>
 
     <a href="/" class="logo" title="Macon.com">
@@ -533,47 +606,21 @@ $(document).ready(function() {
 </div><!-- /#page_footer -->
 
 
-    
-
 <div id="mistatstag" style="display:none;">        
-<!-- SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
 
-<!-- site specific file already loaded -->
-<script language="JavaScript" type="text/javascript" src="http://media.macon.com/mistats/products/pubsys_s_code.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-measure_popularity=false;
-mistats.msr = 'MAC|MA';
-
-mistats.pagelevel='misc';
-mistats.pagename='Section: Privacy Policy';
-mistats.version='1.0|';
-mistats.taxonomy='Online|SiteInformation|||';
-mistats.channel='Privacy Policy';
-
-
-
-
-
-
-
-
-
-
-
-
-
--->
-</script>
-<script language="JavaScript" type="text/javascript" src="http://media.macon.com/mistats/products/pubsys.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://media.macon.com/mistats/finalizestats.js"></script>
-
-<noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmmacon%2F1%2FH.10--NS%2F0%3FpageName%3DSection%3A%20Privacy%20Policy\&server%3Dwww.macon.com\&channel%3DPrivacy%20Policy\&c1%3Dhttp%3A%2F%2Fwww.macon.com%2Fprivacy_policy%2F\&c3%3Dmisc\&c4%3D\&c6%3D%24%7Bmsr%7D\&c28%3D\&h1%3DMAC%7CMACON%7COnline%7CSiteInformation%7C%7C%7C%7CPrivacy%20Policy" height="1" width="1" border="0" alt="" /></noscript>
-<!-- End SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
-</div>
-
+        <!-- SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
+        
+        
+        <script language="JavaScript" type="text/javascript" src="http://media.macon.com/mistats/products/pubsys_s_code.js"></script>
+        <script language="JavaScript" type="text/javascript" src="http://media.macon.com/mistats/products/pubsys.js"></script>
+        <script language="JavaScript" type="text/javascript" src="http://media.macon.com/mistats/finalizestats.js"></script>
+        
+        <noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmmacon%2F1%2FH.10--NS%2F0%3FpageName%3DSection%3A%20Privacy%20Policy\&server%3Dwww.macon.com\&channel%3DPrivacy%20Policy\&c1%3Dhttp%3A%2F%2Fwww.macon.com%2Fprivacy_policy%2F\&c3%3Dmisc\&c4%3D\&c6%3D%24%7Bmsr%7D\&c28%3D\&h1%3DMAC%7CMACON%7COnline%7CSiteInformation%7C%7C%7C%7CPrivacy%20Policy" height="1" width="1" border="0" alt="" /></noscript>
+        <!-- End SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 --></div>
 
 </footer>
+
+
 
 
 
