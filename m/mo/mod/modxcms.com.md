@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modxcms.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613172458id_/http%3A//modx.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modxcms.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212175523id_/http%3A//modx.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MODX
 
