@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613175018id_/http%3A//www.modernhealthcare.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212175038id_/http%3A//www.modernhealthcare.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy and Rules - Healthcare business news and research | Modern Healthcare
+# Privacy Policy and Rules | Modern Healthcare
 
-Modernhealthcare.com is the Web site of _Modern Healthcare_ , a publication of Crain Communications Inc. Our postal address is 360 N. Michigan Avenue, Chicago, IL 60601. We can be reached by e-mail at mheditorial@crain.com or by telephone at 312-649-3173. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions.
+Modernhealthcare.com is the Web site of _Modern Healthcare_ , a publication of Crain Communications Inc. Our postal address is 150 N. Michigan Avenue, Chicago, IL 60601. We can be reached by e-mail at mheditorial@crain.com or by telephone at 312-649-3173. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions.
 
 We have developed this Privacy Policy to advise subscribers and users of our products about our possible uses of information collected by us and to inform you on how to modify your marketing preferences. This Privacy Policy is subject to change. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site and by changing the date on this page noting when the Privacy Policy was last updated. 
 
@@ -28,7 +28,7 @@ We will remove any registrant (and their personal information) from our database
 
 If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc Legal Department at [privacyhelp@crain.com](mailto:privacyhelp@crain.com) or 313-446-6000.
 
-Policy Last Updated: May 8, 2010
+Policy Last Updated: September 26, 2012
 
   
 
