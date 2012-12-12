@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ariix.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613173643id_/http%3A//www.ariix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ariix.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212182642id_/http%3A//www.ariix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ARIIX
 
@@ -43,3 +43,13 @@ ARIIX will make reasonable efforts to ensure that the information is accurate an
 ****THIRD PARTY LINKS****.  ARIIX may at times provide links to other websites. These sites are not controlled by ARIIX and we are not responsible for any content contained on any such website. While we try to link only to sites that share our high standards and respect for privacy, ARIIX is not responsible for the privacy practices employed by other sites. We recommend that you review the privacy and security policies of each website you visit.
 
 **Contact Us.** If you have comments or questions about our privacy policy, please contact us at support@ariix.com or you may reach us by telephone at (801) 813-3000.
+
+#### The Search Terms That Brought You Here:
+
+  * [ariix customer service andrew](http://www.ariix.com/privacy-policy/ "ariix customer service andrew")
+  * [ariix how to change credit card](http://www.ariix.com/privacy-policy/ "ariix how to change credit card")
+  * [ariix ordering](http://www.ariix.com/privacy-policy/ "ariix ordering")
+  * [how do i order for a customer ariix](http://www.ariix.com/privacy-policy/ "how do i order for a customer ariix")
+  * [policy and procedure of ariix](http://www.ariix.com/privacy-policy/ "policy and procedure of ariix")
+
+
