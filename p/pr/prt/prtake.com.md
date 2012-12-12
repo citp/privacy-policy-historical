@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prtake.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614112849id_/http%3A//www.prtake.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prtake.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212194712id_/http%3A//www.prtake.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - PRTake | Press Release Site
 
