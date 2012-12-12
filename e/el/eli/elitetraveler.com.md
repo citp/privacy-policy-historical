@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitetraveler.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503030205id_/http%3A//www.elitetraveler.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitetraveler.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212072031id_/http%3A//www.elitetraveler.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
