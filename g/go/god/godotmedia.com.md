@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the godotmedia.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614051016id_/http%3A//www.godotmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godotmedia.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212075702id_/http%3A//www.godotmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [](https://web.archive.org/ "Home")
 
-_Smart Content for Smart Businesses_
+_Awesome Content for Awesome Businesses_
 
 This privacy policy sets out how Godot Entertainment & Media Pvt Ltd uses and protects any information that you give us when you use this website.
 
