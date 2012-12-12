@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the beemp3.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620002750id_/http%3A//beemp3.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beemp3.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212063852id_/http%3A//beemp3.com/privacy.html) for the most accurate reproduction.*
 
-# Beemp3.com - MP3 Download - DMCA notifications
+# Beemp3.com - MP3 Download - Privacy Policy
+
+## Privacy Policy
 
 Updated November 23, 2011 
 
@@ -11,8 +13,6 @@ We expressly and strictly limit use of the Website to individuals over thirteen 
 ### Data Collected
 
 _Browsing the Website._ You can access the Website without having an account, in which case only your IP address, country of origin and other non-personal information about your computer or device (such as web requests, browser type, browser language, referring URL, operating system and date and time of requests) will be recorded for log file information, aggregated traffic information and in the event that there is any misappropriation of information and/or content. 
-
-_Registering on the Website._ Registration of an account is required for certain features on the Website. We require the following personal information at the time of registration: your username and password (which you generate), e-mail address, IP address and country of origin. Your username and country of origin may become publicly accessible on the Website. 
 
 _Usage Information._ We may record information about your usage of the Website such as your use of the Website, the mp3s you search and listen to, the frequency and size of data transfers and other statistics. If you have registered and are logged in, we may associate that information with your account. 
 
@@ -36,6 +36,8 @@ Your username may be displayed to other users alongside Content you make availab
 
 Any Content that you submit may be redistributed through the internet and other media channels and may be viewed by the general public. 
 
+If you choose to install the eToolKit software (the "Toolbar") offered on the Website you agree that our partner providing this software may collect and store information about your use of the Toolbar, including full URLs for every web page that you view while using the Toolbar. The list of URLs visited by users of the Toolbar to find mp3 files is subsequently passed to us by the partner. Such information may be automatically used for index creation. 
+
 ### Disclosures of Information
 
 We may be required to release certain data to comply with legal obligations or in order to enforce our Terms of Use and other agreements. We may also release certain data to protect the rights, property or safety of us, our users and others. This includes providing information to other companies or organizations like the police or governmental authorities for the purposes of protection against or prosecution of any illegal activity, whether or not it is identified in the Terms of Use. 
@@ -44,8 +46,6 @@ If you upload any illegal material to the Website, we may forward all available 
 
 ### Miscellaneous
 
-If you have an account on the Website and have a password giving you access to certain parts of the Website, you are responsible for keeping the password confidential. Anyone else with your password may access your account and other personal information. 
-
 While we use commercially reasonable physical, managerial and technical safeguards to secure your information, the transmission of information via the internet is not completely secure and we cannot ensure or warrant the security of any information or Content you transmit to us. Any information or Content you transmit to us is done at your own risk. 
 
-You are entitled to access, correct or delete your information on the Website and may request us to do so by contacting us at  , . 
+You are entitled to access, correct or delete your information on the Website and may request us to do so by contacting us at . 
