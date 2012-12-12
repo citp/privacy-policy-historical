@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btips.net privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625055548id_/http%3A//www.btips.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btips.net privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212202547id_/http%3A//www.btips.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blogging Tips - SEO - Making Money
 
