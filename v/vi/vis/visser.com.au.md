@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the visser.com.au privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519154107id_/http%3A//www.visser.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visser.com.au privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212014712id_/http%3A//www.visser.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Visser Labs
 
-\- Updated May 2012
+\- Updated December 2012
 
 This following document sets forth the Privacy Policy for the Visser Labs website, [www.visser.com.au](http://www.visser.com.au/).
 
