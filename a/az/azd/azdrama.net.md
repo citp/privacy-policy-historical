@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azdrama.net privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605060326id_/http%3A//azdrama.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azdrama.net privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212064147id_/http%3A//azdrama.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch online and download free Asian drama, movies, shows
 
