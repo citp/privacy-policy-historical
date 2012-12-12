@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the hacktabs.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613173306id_/http%3A//www.hacktabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hacktabs.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212165906id_/http%3A//www.hacktabs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  
-
 
 Privacy Policy – www.hacktabs.com
 
@@ -25,9 +22,6 @@ www.hacktabs.com does not use cookies.
 
 .:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to www.hacktabs.com and other sites on the Internet.
 
-  
-
-
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….  
@@ -40,6 +34,3 @@ www.hacktabs.com has no access to or control over these cookies that are used by
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.hacktabs.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-  
-
