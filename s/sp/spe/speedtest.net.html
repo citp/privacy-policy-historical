@@ -1,21 +1,99 @@
-<!--The following is the downloaded HTML source of the speedtest.net privacy policy that was archived on 2011-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226174617id_/http%3A//www.speedtest.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the speedtest.net privacy policy that was archived on 2012-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121212064541id_/http%3A//www.speedtest.net/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="description" content="Test your Internet connection bandwidth to locations around the world with this interactive broadband speed test">
 	<meta name="keywords" lang="en" content="ookla, speed, test, speedtest, speed test, bandwidth speed test, internet speed test, broadband speed test, speakeasy, flash, cnet, internet, network, connection, broadband, bandwidth, latency, ping, throughput, download, upload, connection, dsl, adsl, cable, t1, voip, isp, asp, internet, ip, ip address, tcp, ds3">
 	<meta name="ROBOTS" content="NOYDIR">
+	<meta http-equiv="X-UA-Compatible" content="IE=8">
 	<title>Speedtest.net - Privacy Policy</title>
 	<link rel="stylesheet" type="text/css" href="http://c.speedtest.net/css/reset.css" media="screen">
-	<link rel="stylesheet" type="text/css" href="http://c.speedtest.net/css/global.css?v=2011-09-14" media="screen">
+	<link rel="stylesheet" type="text/css" href="http://c.speedtest.net/css/tipTip.css" media="screen">
 	<link rel="stylesheet" type="text/css" href="http://c.speedtest.net/css/layout.css" media="screen">
-	<script type="text/javascript" src="http://c.speedtest.net/javascript/jquery-1.4.2.min.js"></script>
-	<script type="text/javascript" src="http://c.speedtest.net/javascript/functions.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://c.speedtest.net/css/global.css?v=2012-11-23" media="screen">
+	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://c.speedtest.net/javascript/jquery-1.8.0.min.js"></script>
+	<script type="text/javascript" src="http://c.speedtest.net/javascript/jquery.tipTip.js"></script>
+	<script type="text/javascript" src="http://c.speedtest.net/javascript/jquery.placeholder.min.js"></script>
+	<script type="text/javascript" src="http://c.speedtest.net/javascript/functions.js?v=2012-11-23"></script>
 	<!--[if lte IE 6]>
-        <link rel="stylesheet" type="text/css" href="css/ie6.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="css/ie6.css?v=2012-11-23" media="screen" />
 	<![endif]-->
 	
+
+	<script type="text/javascript">
+	
+	  function load_image(src) {
+		var img = document.createElement("img");
+		img.src = src;
+		img.width = 1;
+		img.height = 1;
+		document.body.appendChild(img);
+	  }
+		
+	  var pageLoaded = new Date().getTime();
+	  var testStart = 0;
+	  function gaTracker(params) {
+		if(params.length >= 3 && params[2] == "test_loaded") {
+			var testLoaded = new Date().getTime();
+			_gaq.push(['_trackTiming', 'speedtest', 'testloaded', testLoaded - pageLoaded]);
+		}
+
+		if(params.length >= 3 && params[2] == "test_started") {
+			testStart = new Date().getTime();
+		}
+
+		if(params.length >= 4 && params[2] == "test_complete") {
+			if(testStart > 0) {
+				var testComplete = new Date().getTime();
+				_gaq.push(['_trackTiming', 'speedtest', 'testlength', testComplete - testStart]);
+				testStart = 0;
+			}
+
+			_gaq.push(['_setCustomVar',2,'test_taken',params[3], 2]); // slot=2, test_taken=count, visit
+		}
+		
+		// click tracking
+		if(params.length >= 3 && params[2] != "test_loaded" && params[2] != 'test_started' && params[2] != 'test_complete') {
+		
+			// parse param 3
+			var lp_params = params[2].split(";");
+			
+			if (lp_params.length == 3) {
+				// banner position
+				var bp = lp_params[0];	// banner position L = leaderboard, S = skyscraper, F = flash
+				var id = lp_params[1];	// impression depth
+				var et = lp_params[2];	// vital event type
+			
+				var img_src = "/vital/"+ et + ".png?x=" + bp + ";" + id;
+			
+				load_image(img_src);
+				
+				// reset param 2 so google analytics tracks properly
+				if (bp == 'L') {
+					params[2] = 'leaderboard_click';
+				} else if (bp == 'S') {
+					params[2] = 'skyscraper_click';
+				} else if (bp == 'F') {
+					params[2] = 'endtest_click';
+				}
+			}
+		}
+		
+	    _gaq.push(params);
+	  }
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-389482-3']);
+	  _gaq.push(['_setDomainName', 'speedtest.net']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
 </head>
 <body id="generic" class="">
 
@@ -32,13 +110,15 @@
 <div id="nav">
 <span id="nav-left"></span>
 <ul>
-	<li><a href="/results.php">My Results</a></li>
-<li><a href="/support.php">Support</a></li>
-<li><a href="/user-settings.php">Settings</a></li>
-<li class="last"><a href="/speedwave-control.php">Speed Wave</a></li>
+	<li class="nav-results"><a href="/results.php">My Results</a></li>
+<li class="nav-support"><a href="/support.php">Support</a></li>
+<li class="nav-settings"><a href="/user-settings.php">Settings</a></li>
+<li class="nav-login last"><a class="login-title" href="/user-login.php">Login</a></li>
+
 </ul><span id="nav-right"></span>
 </div><!--/nav-->
 
+<!--
 <div id="lang">
 <span class="current-lang">en</span>
 <ul class="other-lang">
@@ -48,40 +128,34 @@
 	<li><a href="/switch_language.php?lang=fr">FR</a></li>
 	<li><a href="/switch_language.php?lang=id">ID</a></li>
 	<li><a href="/switch_language.php?lang=it">IT</a></li>
+	<li><a href="/switch_language.php?lang=nl">NL</a></li>
 	<li><a href="/switch_language.php?lang=pl">PL</a></li>
 	<li><a href="/switch_language.php?lang=pt">PT</a></li>
 	<li><a href="/switch_language.php?lang=ru">RU</a></li>
 	<li><a href="/switch_language.php?lang=sv">SV</a></li>
 </ul>
 </div>
+-->
 
-<div id="login-menu">
-<span class="login-title">Login</span>
 <div class="login-box">
-<form method="post" action="https://www.speedtest.net/user-login.php">
-<fieldset>
-<input id="action" type="hidden" name="action" value="login">
-<label for="login-email">Email:</label>
-<input id="login-email" type="text" name="email" class="field">
-<label for="login-pw">Password:</label>
-<input id="login-pw" type="password" name="password" class="field">
-
-<div class="pw-help"><input id="remember-me" type="checkbox" name="remember-me">
-<label for="remember-me">Remember Me | </label><a href="/password-reset.php">Forgot Password?</a></div>
-<div id="form-submit-login-menu"><input type="submit" value="Login"></div>
-</fieldset>
-</form>
-
-<div id="login-register">Not a registered user?<br><a href="/user-register.php">CREATE AN ACCOUNT</a>
-
-</div><!--/login-register-->
-
+	<form method="post" action="https://www.speedtest.net/user-login.php">
+		<fieldset>
+			<input id="action" type="hidden" name="action" value="login">
+			<input id="login-email" type="text" name="email" class="field" placeholder="Email">
+			<input id="login-pw" type="password" name="password" class="field" placeholder="Password">
+			<div class="pw-help">
+				<input id="remember-me" type="checkbox" name="remember-me">
+				<label for="remember-me">Remember Me</label><br><a href="/password-reset.php">Forgot Password?</a>
+			</div>
+			<div id="form-submit-login-menu"><input type="submit" value="Login"></div>
+		</fieldset>
+	</form>
 </div><!--/login-box-->
 
-</div><!--/login-menu-->
 
-
-</div><!--/header--><div id="content">
+<div id="createaccount"><a href="/user-register.php">Create Account</a></div>
+</div><!--/header-->
+<div id="content">
 
 <div id="generic-header">
 	<h1>Speedtest.net Privacy Policy</h1>
@@ -148,7 +222,7 @@
 <ul>
 	<li class="footer-title" id="footer-company">Company</li>
 	<li><a href="/about.php">About</a></li>
-	<li><a href="/contact.php">Contact</a></li>
+	<li><a href="/support.php">Contact</a></li>
 	<li><a href="/support.php">Support</a></li>
 	<li><a href="/host.php">Become A Host</a></li>
 </ul>
@@ -164,31 +238,68 @@
 <ul>
 	<li class="footer-title" id="footer-social">Follow</li>
 	<li><a href="/link.php">Link to Us</a></li>
-	<li><a href="http://www.twitter.com/teamookla">Twitter</a></li>
+	<li><a href="http://www.twitter.com/ookla">Twitter</a></li>
 	<li><a href="http://www.facebook.com/teamookla">Facebook</a></li>
 </ul>
 
 <div id="footer-ookla">
 <a href="http://www.ookla.com/"></a>
-<p>Check out the <a href="http://blog.ookla.com/">Ookla Blog</a></p>
+<!-- <p>Check out the <a href="http://blog.ookla.com/">Ookla Blog</a></p> -->
 </div><!--/footer-ookla-->
 
 </div><!--/footer-nav-->
 
-<span id="copyright">© Copyright 2011 Ookla | <a href="/privacy.php">Privacy Policy</a></span>
+<div id="footer-lang">
+	<!-- <strong>en</strong> | -->
+	<a href="/switch_language.php?lang=de">DE</a> |
+	<a href="/switch_language.php?lang=en">EN</a> |
+	<a href="/switch_language.php?lang=es">ES</a> |
+	<a href="/switch_language.php?lang=fr">FR</a> |
+	<a href="/switch_language.php?lang=id">ID</a> |
+	<a href="/switch_language.php?lang=it">IT</a> |
+	<a href="/switch_language.php?lang=nl">NL</a> |
+	<a href="/switch_language.php?lang=pl">PL</a> |
+	<a href="/switch_language.php?lang=pt">PT</a> |
+	<a href="/switch_language.php?lang=ru">RU</a> |
+	<a href="/switch_language.php?lang=sv">SV</a>
+</div>
+
+<span id="copyright"><strong>Accurate, free and powered by Ookla — the global standard in network testing.</strong><br>
+© Copyright 2012 Ookla | <a href="/privacy.php">Privacy Policy</a></span>
+
+<iframe id="iframedl" name="iframedl" frameborder="0"></iframe>
+
 </div><!--/footer-->
 
 
 
+<!-- <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script> -->
 
+<!-- Quantcast Tag -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-389482-3");
-pageTracker._trackPageview();
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-8cnxEy2n0W4mf"
+});
 </script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-8cnxEy2n0W4mf.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
 
 
 </body></html>
