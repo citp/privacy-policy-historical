@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srnnews.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522011601id_/http%3A//srnnews.townhall.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srnnews.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212051743id_/http%3A//srnnews.townhall.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # SRN News
 
