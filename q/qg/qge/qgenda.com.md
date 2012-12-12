@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qgenda.com privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218210153id_/http%3A//www.qgenda.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qgenda.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212031130id_/http%3A//www.qgenda.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Precision Software Privacy Policy P1
+# Privacy Policy P3
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY.**
 
@@ -9,11 +9,11 @@
 **PRIVACY POLICY**  
 **Effective Date: December 1, 2007**
 
-[Click here](https://web.archive.org/web/20110218210153id_/http%3A//www.qgenda.com/Privacy-notice-of-material-change.aspx) for a listing of material modifications to this Privacy Policy and their effective dates.
+[Click here](https://web.archive.org/web/20121212031130id_/http%3A//www.qgenda.com/Privacy-notice-of-material-change.aspx) for a listing of material modifications to this Privacy Policy and their effective dates.
 
 1.         Modification of Privacy Policy.  We reserve the right to modify this Privacy Policy at any time, and without prior notice, by posting an amended Privacy Policy that is always accessible by clicking on the "Privacy Policy" link on this site's home page. Your continued use of this site indicates your acceptance of the amended Privacy Policy.  You should check the Privacy Policy through this link periodically for modifications by clicking on the link provided near the top of the Privacy Policy for a listing of material modifications and their effective dates.  Regarding PII, if any modifications are materially less restrictive on our use or disclosure of the PII previously disclosed by you, we will obtain your consent before implementing such revisions with respect to such information.
 
-2.         Privacy Statement.  Precision Software, Inc.  ("Precision") operates this web site.  All references to "we", "us", "this web site" or "this site" shall be construed to mean Precision.   Precision understands that visitors to this web site are concerned about the privacy of information. The following describes our privacy policy, including our policy regarding information that we collect through this web site.
+2.         Privacy Statement.  QGenda, Inc.  ("QGenda") operates this web site.  All references to "we", "us", "this web site" or "this site" shall be construed to mean QGenda.   QGenda understands that visitors to this web site are concerned about the privacy of information. The following describes our privacy policy, including our policy regarding information that we collect through this web site.
 
 3.         Collection of Anonymous, Passive Information.  As you navigate through this site, certain anonymous information may be passively collected (that is, gathered without your actively providing the information) using various technologies, such as cookies, Internet tags or web beacons, and navigational data collection (log files, server logs, clickstream). For example, as explained in more detail below, your Internet browser automatically transmits to this site some of this anonymous information, such as the URL of the Web site you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using. This site may also collect anonymous information from your computer through cookies and Internet tags or web beacons. You may set your browser to notify you when a cookie is sent or to refuse cookies altogether, but certain features of this site might not work without cookies.
 
@@ -51,9 +51,9 @@ The following is a listing and a brief explanation of passive information collec
 
 12.        Security of PII.  We follow generally accepted industry standards to protect your PII and other sensitive information.  Unfortunately, no data transmission over the Internet or method of data storage can be guaranteed 100% secure.  Therefore, while we strive to protect your personal information by following generally accepted industry standards, we cannot ensure or warrant the absolute security of any information you transmit to us or store at this site.
 
-13.        Making Changes To PII.  Registered users may make changes to their PII by following these instructions: 1) Communicate to Precision through your principal contact person any changes pursuant to the Software ASP License Agreement QGenda.com.  2) The principal contact must provide to Precision in writing or by email the information as depicted herein #20 below. 
+13.        Making Changes To PII.  Registered users may make changes to their PII by following these instructions: 1) Communicate to QGenda through your principal contact person any changes pursuant to the Software ASP License Agreement QGenda.com.  2) The principal contact must provide to QGenda in writing or by email the information as depicted herein #20 below. 
 
-14.        Email From This Site; Opt-Out Rights.  If you supply us with your e-mail address you may receive periodic messages from us with information specific to the site and required for the normal functioning of the site as well as for new products or services or upcoming events. If you prefer not to receive periodic email messages 1) Communicate to opt out with your principal contact person pursuant to the Software ASP License Agreement QGenda.com. 2) The principal contact person must provide to Precision in writing or by email the information as depicted herein #20 below. 
+14.        Email From This Site; Opt-Out Rights.  If you supply us with your e-mail address you may receive periodic messages from us with information specific to the site and required for the normal functioning of the site as well as for new products or services or upcoming events. If you prefer not to receive periodic email messages 1) Communicate to opt out with your principal contact person pursuant to the Software ASP License Agreement QGenda.com. 2) The principal contact person must provide to QGenda in writing or by email the information as depicted herein #20 below. 
 
 15.        Links To Business Partner Sites.  This website may contain links to other websites with whom we have a business relationship.   The privacy practices of these websites are not covered by our privacy policy, and we are not responsible for the privacy practices or the content of these sites.   Additionally, if you register with any of these sites for any purpose or purchase from any of these sites, any information that you provide in the process of registration or purchase, such as your credit card number and other PII, will be transferred to these sites.  These sites have separate data collection, data privacy, and data security policies and practices, and we have no responsibility or liability for these independent policies and practices.  You should be careful to review any privacy policies posted on any of these sites before providing information to them.
 
@@ -67,10 +67,10 @@ The following is a listing and a brief explanation of passive information collec
 
 20.        Contact Us.  If you have any questions regarding this Privacy Policy or your dealings with this web site, please contact us at: 
 
-              Precision Software, Inc.  
+              QGenda, Inc.  
             Two Ravinia Drive  
             Suite 1210  
             Atlanta, GA, 30346  
-            Contact:  Compliance Officer - sales [ at ] precisionsoftware [dot] net   
+            Contact:  Compliance Officer - sales [ at ] QGenda [dot] com   
             Telephone: (770) 399-9945  
-            Facsimile:  (770) 352-9797
+            Facsimile:  (678) 736-8345
