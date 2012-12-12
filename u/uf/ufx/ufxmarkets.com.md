@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ufxmarkets.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629013723id_/http%3A//www.ufxmarkets.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufxmarkets.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212210736id_/http%3A//www.ufxmarkets.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UFXMarkets.com
 
