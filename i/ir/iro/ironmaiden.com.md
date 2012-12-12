@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironmaiden.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613172410id_/http%3A//www.ironmaiden.com/iron-maiden-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironmaiden.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212210750id_/http%3A//www.ironmaiden.com/iron-maiden-privacy-policy.html) for the most accurate reproduction.*
 
 # Iron Maiden - Privacy Policy
 
@@ -32,7 +32,7 @@ Upon request we provide site visitors with access to all information [including 
 
 Consumers can access this information by writing to us at the above address.  
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information.  
-Consumers can have this information corrected by visiting us at [www.ironmaiden.com](https://web.archive.org/web/20120613172410id_/).
+Consumers can have this information corrected by visiting us at [www.ironmaiden.com](https://web.archive.org/web/20121212210750id_/).
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
