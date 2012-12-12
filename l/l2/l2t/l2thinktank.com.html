@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the l2thinktank.com privacy policy that was archived on 2012-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120613171615id_/http%3A//www.l2thinktank.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the l2thinktank.com privacy policy that was archived on 2012-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121212210551id_/http%3A//www.l2thinktank.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US"><head>
 <meta charset="UTF-8">
@@ -25,7 +25,6 @@ L2: A Think Tank for Digital Innovation » Privacy Policy</title>
 <script type="text/javascript" src="/wp-content/themes/l2/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
 <script type="text/javascript" src="/wp-content/themes/l2/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 <script type="text/javascript" src="/wp-content/themes/l2/js/jquery.autocomplete.js"></script>
-<!-- s cript type="text/javascript" src="/wp-content/themes/l2/js/download_vlidate.js"></s cript -->
 <script type="text/javascript" src="/wp-content/themes/l2/js/validate.js"></script>
 <script src="/wp-content/themes/l2/js/jquery.tools.min.js" type="text/javascript"></script>
 <script src="/wp-content/themes/l2/js/tooltip.js" type="text/javascript"></script>
@@ -34,7 +33,7 @@ L2: A Think Tank for Digital Innovation » Privacy Policy</title>
 <script src="/wp-content/themes/l2/js/homeslider.js" type="text/javascript"></script>
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
 <script type="text/javascript">
-	var current_month = 06;
+	var current_month = 12;
 	var current_year = 2012;
 		$(function() {
 			$.ajax({
@@ -95,55 +94,62 @@ L2: A Think Tank for Digital Innovation » Privacy Policy</title>
 
 </script>
 <script type="text/javascript">
-
 $(function () {
-
 $('#fancybox-left').hide();
-
 $('iframe').each(function(){
-
 var url = $(this).attr("src")
-
-$(this).attr("src",url+"?wmode=transparent")
-
+if (url.indexOf("?") >= 0){
+	$(this).attr("src",url+"&wmode=transparent")
+}else{
+	$(this).attr("src",url+"?wmode=transparent")	
+}
 });
-
-
-
 });
 </script>
 
+<!--[if IE]>
+<style>
+#home_footer{
+	margin-top: 0px;
+}
+</style>
+<![endif]-->
 
 
 <script type="text/javascript">
-
 $(function(){
-
 		  $('.downlink').click(function(){
-
 			var downurl = $(this).attr('rel');	
-
 			var curTitle = $(this).attr('title');
-
 			var curID = $(this).attr('name');
-
 			$('.hiddenurl').val(downurl);
-
 			$('.research_current_id').val(curID);
-
 			$('.research_name_current').val(curTitle);
-
 			});
-
 			$('.myaccount_homenav').html('');
-
 		   });
-
 </script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-12281975-1']);
-  _gaq.push(['_trackPageview']);
+  _gaq.push(['_setCustomVar',
+      1,
+      'memberco',
+      'none',
+      2 //session
+   ]);
+  _gaq.push(['_setCustomVar',
+      2,
+      'member_co',
+      'none',
+      3 //page
+   ]);  _gaq.push(['_setCustomVar',
+      3,
+      'page',
+      'Privacy Policy',
+      3 //page
+   ]);
+	_gaq.push(['_trackPageview']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -209,21 +215,57 @@ $(function(){
 <section id="body_container">
   <section class="heading_section">
    <h2>Privacy Policy</h2>
-          </section>
+    		<div class="search_box">
+      <form action="/index.php" method="get">
+        <input type="text" name="s" id="s" value="Search" onblur="if(this.value.length==0) {this.value='Search';}" onclick="if(this.value=='Search') {this.value='';}">
+        <input type="submit" name="" value="" class="btn">
+      </form>
+    </div>
+<!--
+	<br/>
+	<div style="float:right;">
+	  <li >
+	    <h3 style="vertical-align:center";><a href="#form_newsletter_signup" id="form_newsletter_signup_a"><img src="/wp-content/themes/l2/images/email-gray.jpg" > L2 NEWS</a></h3>
+	  </li>
+	</div>
+	-->
+	    <h3 class="widget-title">Social Icon</h3>			
+			<div class="execphpwidget"> <div class="social">
+      <ul>
+        <li><a target="_blank" href="http://www.facebook.com/#!/l2thinktank"><img src="http://www.l2thinktank.com/wp-content/themes/l2/images/icon1.gif" alt=""></a></li>
+        <li><a target="_blank" href="http://twitter.com/#!/L2_ThinkTank"><img src="http://www.l2thinktank.com/wp-content/themes/l2/images/icon2.gif" alt=""></a></li>
+<li><a target="_blank" href="http://www.pinterest.com/l2thinktank"><img src="http://www.l2thinktank.com/wp-content/themes/l2/images/pinterest.jpg" alt=""></a></li>
+        <li><a target="_blank" href="http://www.l2thinktank.com/wp-rss.php"><img src="http://www.l2thinktank.com/wp-content/themes/l2/images/icon3.gif" alt=""></a></li>
+        <li><a target="_blank" href="http://www.youtube.com/user/L2LuxuryLab?feature=mhum"><img src="http://www.l2thinktank.com/wp-content/themes/l2/images/icon4.gif" alt=""></a></li>
+        <li><a target="_blank" href="http://vimeo.com/channels/L2ThinkTank"><img src="http://www.l2thinktank.com/wp-content/themes/l2/images/icon5.gif" alt=""></a></li>
+        <li><a target="_blank" href="http://www.flickr.com/photos/l2thinktank/"><img src="http://www.l2thinktank.com/wp-content/themes/l2/images/icon6.gif" alt=""></a></li>
+      </ul>
+    </div>
+
+</div>
+		  </section>
   <!-- left section -->
   <section class="inner_left_section">
     <nav>
       <ul id="menu-menu" class="menu"><li id="menu-item-17815" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17815"><a href="/">Home</a></li>
-<li id="menu-item-17876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17876"><a href="http://www.l2thinktank.com/intelligence/">Intelligence</a></li>
+<li id="menu-item-17876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17876"><a href="http://www.l2thinktank.com/intelligence/">Intelligence</a>
+<ul class="sub-menu">
+	<li id="menu-item-28669" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28669"><a href="http://www.l2thinktank.com/intelligence/">Member Data</a></li>
+	<li id="menu-item-28668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28668"><a href="http://www.l2thinktank.com/l2-100/">L2 100</a></li>
+</ul>
+</li>
 <li id="menu-item-17875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17875"><a href="http://www.l2thinktank.com/videos/">Videos</a></li>
-<li id="menu-item-17818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17818"><a href="http://www.l2thinktank.com/events/">Events</a></li>
+<li id="menu-item-17818" class="past_event_sub_menu menu-item menu-item-type-post_type menu-item-object-page menu-item-17818"><a href="http://www.l2thinktank.com/events/">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-32424" class="past_event_sub_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-32424"><a href="http://www.l2thinktank.com/wp-content/themes/l2/most_recent_past_event.php">Past Events</a></li>
+</ul>
+</li>
 <li id="menu-item-17830" class="pad menu-item menu-item-type-post_type menu-item-object-page menu-item-17830"><a href="http://www.l2thinktank.com/research/">Research</a></li>
 <li id="menu-item-17829" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17829"><a href="http://www.l2thinktank.com/about/">About L2</a></li>
 <li id="menu-item-17816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17816"><a href="http://www.l2thinktank.com/blog/">Blog</a></li>
 <li id="menu-item-17845" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17845"><a href="http://www.l2thinktank.com/membership/">Membership</a></li>
 <li id="menu-item-17849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17849"><a href="http://www.l2thinktank.com/consulting/">Advisory</a></li>
 <li id="menu-item-19786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19786"><a href="http://www.l2thinktank.com/job-listing/">Prestige Jobs</a></li>
-<li id="menu-item-17817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17817"><a href="http://www.l2thinktank.com/contact/">Contact</a></li>
 <li id="menu-item-17921" class="myaccount_homenav menu-item menu-item-type-post_type menu-item-object-page menu-item-17921"></li>
 </ul>    </nav>
   </section>
@@ -284,19 +326,36 @@ If you sign up for our Daily Digest Email via our Sign Up with L2 form and choos
         <li><a href="/careers">Careers </a></li>
         <li><a href="/contact">Contact</a></li>
         <li class="myaccount_homenav"></li>
+
         <li><a href="/fr"><img src="/wp-content/themes/l2/images/fr_icon.gif" border="0"></a><a href="/it"><img src="/wp-content/themes/l2/images/it_icon.gif" border="0"></a><a href="/"><img src="/wp-content/themes/l2/images/en_icon.gif" border="0"></a></li>
       </ul>
     </div>
     <div class="col1">
       <ul>
         <li><a href="/privacy-policy">Privacy Policy </a></li>
+        <li><a href="/citation-policy">Citation Policy </a></li>
         <li><a href="/terms-of-use">Terms of Use</a></li>
         <li>&nbsp;</li>
+				<li style="vertical-align:top;"><a href="#form_newsletter_signup" id="form_newsletter_signup_a"><img src="/wp-content/themes/l2/images/email-white.png" style="padding-right:5px;"> L2 NEWS</a></li>
         
       </ul>
     </div>
     <div class="col4">
-            <p>This site is protected by copyright and trademark laws under U.S. and International law. All rights reserved. © 2012 L2 Think Tank</p>
+      <h3 class="widget-title">Social Icon</h3>			
+			<div class="execphpwidget"> <div class="social">
+      <ul>
+        <li><a target="_blank" href="http://www.facebook.com/#!/l2thinktank"><img src="http://www.l2thinktank.com/wp-content/themes/l2/images/icon1.gif" alt=""></a></li>
+        <li><a target="_blank" href="http://twitter.com/#!/L2_ThinkTank"><img src="http://www.l2thinktank.com/wp-content/themes/l2/images/icon2.gif" alt=""></a></li>
+<li><a target="_blank" href="http://www.pinterest.com/l2thinktank"><img src="http://www.l2thinktank.com/wp-content/themes/l2/images/pinterest.jpg" alt=""></a></li>
+        <li><a target="_blank" href="http://www.l2thinktank.com/wp-rss.php"><img src="http://www.l2thinktank.com/wp-content/themes/l2/images/icon3.gif" alt=""></a></li>
+        <li><a target="_blank" href="http://www.youtube.com/user/L2LuxuryLab?feature=mhum"><img src="http://www.l2thinktank.com/wp-content/themes/l2/images/icon4.gif" alt=""></a></li>
+        <li><a target="_blank" href="http://vimeo.com/channels/L2ThinkTank"><img src="http://www.l2thinktank.com/wp-content/themes/l2/images/icon5.gif" alt=""></a></li>
+        <li><a target="_blank" href="http://www.flickr.com/photos/l2thinktank/"><img src="http://www.l2thinktank.com/wp-content/themes/l2/images/icon6.gif" alt=""></a></li>
+      </ul>
+    </div>
+
+</div>
+		      <p>This site is protected by copyright and trademark laws under U.S. and International law. All rights reserved. © 2012 L2 Think Tank</p>
     </div>
   </div>
 </footer>
@@ -435,6 +494,63 @@ If you sign up for our Daily Digest Email via our Sign Up with L2 form and choos
   </div>
 </div>
 
+<div style="display:none">
+  <div id="form_newsletter_signup">
+    <section class="contact_popup"> 
+      <section class="event_box">
+        <section class="details">
+          <div id="popup_container">
+            <div id="message_register"></div>
+            <h4>Sign Me Up.</h4>
+            <div class="detail_form">
+              <form action="/wp-content/themes/l2/newsletter_signup.php" method="post" id="form_newsletter_signup" onsubmit="return ValidateNewsletterSignup('form_newsletter_signup');">
+                <fieldset>
+	                <div class="detail_form_list">
+	                  <div class="left_form">
+		                  <div class="contact_box">
+		                    <input id="news_and_events" type="checkbox" class="input_chk" value="News &amp; Events" name="news_and_events" checked="checked">
+		                    <label style="font-weight:bold;">News &amp; Events</label>
+		                    <br>
+		                    <input id="the_week" type="checkbox" class="input_chk" value="The Week" name="the_week" checked="checked">
+		                    <label style="font-weight:bold;">The Week. <i>L2's weekly news recap</i></label><i>
+		                    <br><br>
+		 	                  <hr>
+		  	                <div class="form_blurb">I am interested in events located in:</div>
+		                  </i></div><i>
+		                  <div class="">
+		                    <input id="events_asia" type="checkbox" class="input_chk" value="Asia" name="events_asia">
+		                    <label style="font-weight:bold;">Asia</label>
+		                    <br>
+		                    <input id="events_europe" type="checkbox" class="input_chk" value="Europe" name="events_europe">
+		                    <label style="font-weight:bold;">Europe</label>
+		                    <br>
+		                    <input id="events_us" type="checkbox" class="input_chk" value="U.S." name="events_us">
+		                    <label style="font-weight:bold;">U.S.</label>
+		                  </div>
+		                  <div class="contact_box">
+		                    <div class="field">
+		                      <div class="col1" style="width:100%;">
+				                    <input class="input1 input_stack" type="text" value="First Name*" name="f_name" onblur="if(this.value.length==0) { this.value='First Name*'}" onclick="if(this.value=='First Name*') {this.value='';}">
+				                    <input class="input1 input_stack" type="text" value="Last Name*" name="l_name" onblur="if(this.value.length==0) { this.value='Last Name*'}" onclick="if(this.value=='Last Name*') {this.value='';}">
+				                    <input class="input1 input_stack" type="text" value="Company*" name="company" onblur="if(this.value.length==0) { this.value='Company*'}" onclick="if(this.value=='Company*') {this.value='';}">
+				                    <input class="input1" type="text" value="Email*" name="email" onblur="if(this.value.length==0) { this.value='Email*'}" onclick="if(this.value=='Email*') {this.value='';}">
+				                    <input type="submit" value="SIGN-UP" class="btn form_submit_btn" style="width:110px;margin-top:0;padding-top:0;vertical-align:top;">
+			                    </div>
+		                    </div>
+		                    <input type="hidden" name="redirect_to" id="redirect_to" class="redirect_to" value="/privacy-policy/">
+	                  	</div>
+	                  </i></div><i>
+	                </i></div><i>
+                </i></fieldset><i>
+              
+            </i></form></div><i>
+          </i></div><i>
+        </i></section><i>
+      </i></section><i>
+     </i></section><i>
+  </i></div><i>
+</i></div><i>
+
 <a href="#pop_suc" id="test"></a> 
 <a href="#pop_suc1" id="test1"></a>
 <a href="#job_success_div" id="job_post_success"></a>
@@ -450,4 +566,20 @@ If you sign up for our Daily Digest Email via our Sign Up with L2 form and choos
     <span class="return_home"><a href="/">Return to L2 Home</a></span> </div>
 </div>
 <!-- wrapper ends -->
-<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left" style="display: none;"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1029136293;
+var google_conversion_label = "HkXWCKOr3QMQpb_d6gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1029136293/?value=0&amp;label=HkXWCKOr3QMQpb_d6gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</i><div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left" style="display: none;"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
