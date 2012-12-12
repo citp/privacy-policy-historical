@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tgn.tv privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614141538id_/http%3A//tgn.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgn.tv privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212122604id_/http%3A//tgn.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TGN Social
+# Privacy Policy | TGN Family – Welcome Home!
 
 **What information do we collect?**
 
@@ -53,5 +53,3 @@ By using our site, you consent to our privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
 This policy was last modified on Mar 25, 2011
-
-[](http://addthis.com/bookmark.php?v=250)
