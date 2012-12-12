@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bitstatement.org privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005225800id_/http%3A//bitstatement.net/bit-statement-processing-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitstatement.org privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212020012id_/http%3A//www.bitstatement.net/bit-statement-processing-privacy-policy) for the most accurate reproduction.*
 
-# BIT Statement Processing Privacy Policy
+# BIT - Your Single Source Provider For Document Delivery
 
 ### Privacy Policy
 
