@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the huddle.net privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618072521id_/http%3A//www.huddle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huddle.net privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212175845id_/http%3A//www.huddle.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Huddle.com
+# Huddle Privacy Policy | Huddle.com
 
 **Huddle Privacy Policy**
 
@@ -20,6 +20,7 @@ We may collect and process the following data about you:
 
   * Information that you provide us by completing forms on our sites [www.huddle.com](http://www.huddle.com/) and my.huddle.net (which you may be accessing using a custom domain name eg. myaccount.huddle.net), ( **our sites** ). This includes information provided at the time of registering to use our site or subscribing to our service including contact details such as name, email address and phone number.
   * Information that you upload to, or share through, our site by using our services including profile information or any personal information in data that you upload.
+  * Please note that we have the ability to retain any data that you provide on this website using VeCapture by Ve Interactive, even if you do not complete your [registration/transaction/quote] by clicking submit. Such contact details and data may be used to contact you to enquire why you did not complete your transaction. If you have any questions about this, please email us at team@huddle.com
   * Information that you provide us by completing surveys on our site or as carried out by our approved third parties.
   * If you contact us for customer or technical support, we may keep a record of that correspondence or conversation.
   * Information that you provide us when carrying out transactions through our site including payment details such as credit card information and billing addresses.
