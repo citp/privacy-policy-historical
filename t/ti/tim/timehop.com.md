@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timehop.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517170340id_/http%3A//timehop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timehop.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212053457id_/http%3A//timehop.com/privacy) for the most accurate reproduction.*
 
 # Timehop: What did you do 1 year ago today?
 
