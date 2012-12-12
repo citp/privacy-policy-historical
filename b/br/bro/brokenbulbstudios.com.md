@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brokenbulbstudios.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608035214id_/http%3A//brokenbulbstudios.com/%3Fpage_id%3D234) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokenbulbstudios.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212013837id_/http%3A//brokenbulbstudios.com/%3Fpage_id%3D234) for the most accurate reproduction.*
 
 # Privacy Policy | Broken Bulb Game Studios
 
