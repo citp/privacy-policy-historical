@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dow.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623083743id_/http%3A//www.dow.com/homepage/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dow.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212052858id_/http%3A//www.dow.com/homepage/privacy.htm) for the most accurate reproduction.*
 
 # The Dow Chemical Company Privacy Statement
 
