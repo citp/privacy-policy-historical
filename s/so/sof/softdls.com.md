@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softdls.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613184916id_/http%3A//softdls.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softdls.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212170833id_/http%3A//softdls.com/home/privacy.html) for the most accurate reproduction.*
 
 # softdls.com
 
