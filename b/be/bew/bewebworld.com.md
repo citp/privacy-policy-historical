@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bewebworld.com privacy policy that was archived on 2011-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110804103447id_/http%3A//bewebworld.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bewebworld.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212132941id_/http%3A//bewebworld.com/doc/privacy) for the most accurate reproduction.*
 
 # Privacy - Be Web World | Free Bookmarking , Microblogging
 
