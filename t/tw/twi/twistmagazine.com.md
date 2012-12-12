@@ -1,40 +1,43 @@
-> *The following text is extracted and transformed from the twistmagazine.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613171659id_/http%3A//www.twistmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistmagazine.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212115532id_/http%3A//www.twistmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Twist Magazine
 
-We know that safeguarding your privacy is serious business. Your privacy is very important to us. Please take a moment to read TWIST's policy so that you understand how we collect and use your personal information. As we update and expand our services, this policy might change, so please check it out from time to time. If you have questions about our privacy policy, please E-mail us at [contactus@twistmagazine.com.](mailto:contactus@twistmagazine.com)
+### Last Updated: Wednesday, September 5, 2012
 
-Remember, if you sign up for any of TWIST's services or enter any of our contests or sweepstakes, you agree to the terms of this Policy.
+We know that safeguarding your privacy is serious business. Your privacy is very important to us. Please take a moment to read Twist's policy so that you understand how we collect and use your personal information. As we update and expand our services, this policy might change, so please check it out from time to time. If you have questions about our privacy policy, please E-mail us at [privacypolicy@bauerpublishing.com](mailto:privacypolicy@bauerpublishing.com).
 
-**What types of personal information does twistmagazine.com collect?**
+Remember, if you sign up for any of Twist's services or enter any of our contests or sweepstakes, you agree to the terms of this Policy.
+
+### What types of personal information does twistmagazine.com collect?
 
 We sometimes collect personal information from our users when you sign up for services at twistmagazine.com or enter contests or sweepstakes. Personal information includes your first and last name, home or other address (like your school), telephone number, E-mail address, or any other information that tells another person who you are.
 
 When you use some of the services provided by twistmagazine.com, we ask for some contact information such as your name, address, and E-mail address, and financial information such as a credit card number. We give you notice and provide a link to this Privacy Policy at each location that asks you for personal information.
 
-**twistmagazine.com collects personal information in four ways:**
+### twistmagazine.com collects personal information in four ways:
 
-  * You can subscribe on-line to receive TWIST magazine. We collect your name, address, telephone number, and credit card information so that we can provide your subscription. We use a third-party vendor, Kable Fulfillment Services of Ohio, Inc., to process on-line subscription requests. Kable Fulfillment Services of Ohio, Inc. has access to the personal information we collect to process your subscription. Kable Fulfillment Services of Ohio, Inc. has agreed to use your personal information only for this purpose, to take steps to preserve your privacy and to protect the security of this personal information, and not to sell or disclose the information to any other third party. We do not collect any of this information, however, from readers under the age of 13. If you are under the age of 13, you may subscribe to TWIST by telephone or mail, with credit card information from a parent.
-  * You can subscribe on-line to receive a free on-line newsletter from twistmagazine.com. twistmagazine.com collects only your E-mail address to provide the on-line newsletter. If you are under the age of 13, you must provide the E-mail address of a parent or guardian before you will be able to receive future issues of the on-line newsletter, and twistmagazine.com will notify your parent or guardian of the on-line newsletter subscription and give them the chance to cancel the subscription.
-  * You can open an on-line E-mail account at twistmagazine.com. twistmagazine.com collects only the E-mail address and password you select, and your birthday. We do not monitor or collect information from your E-mail account unless a legal authority requests us to do so, a user interferes with our operations, or a user otherwise violates twistmagazine.com's Terms of Use. If you are under the age of 13, you may open an E-mail account at twistmagazine.com with a parent's prior permission.
-  * You can enter contests or sweepstakes sponsored by twistmagazine.com. Our contests and sweepstakes require a minimal amount of information to register, but we always collect your E-mail address so that we can notify you of the results of the contest. If you are under the age of 13, you must provide the E-mail address of a parent or guardian when entering the contest, and twistmagazine.com will notify the parent or guardian of your contest entry and give them the chance to cancel the entry. twistmagazine.com is prohibited by law from conditioning your participation in a contest or sweepstakes on the disclosure of more personal information than is reasonably necessary to participate.
-  * We do not collect the E-mail addresses of people who write to us via E-mail except to respond to them. Unless we know that we have received the E-mail from a reader who is 13 or over, we will discard the E-mail addresses within 30 days.
-
+  1. You can subscribe on-line to receive Twist magazine. We collect your name, address, telephone number, and credit card information so that we can provide your subscription. We use a third-party vendor, Kable Fulfillment Services of Ohio, Inc., to process on-line subscription requests. Kable Fulfillment Services of Ohio, Inc. has access to the personal information we collect to process your subscription. Kable Fulfillment Services of Ohio, Inc. has agreed to use your personal information only for this purpose, to take steps to preserve your privacy and to protect the security of this personal information, and not to sell or disclose the information to any other third party. We do not collect any of this information, however, from readers under the age of 13. If you are under the age of 13, you may subscribe to Twist by telephone or mail, with credit card information from a parent.
+  2. You can subscribe on-line to receive a free on-line newsletter from twistmagazine.com. twistmagazine.com collects only your E-mail address to provide the on-line newsletter. If you are under the age of 13, you must provide the E-mail address of a parent or guardian before you will be able to receive future issues of the on-line newsletter, and twistmagazine.com will notify your parent or guardian of the on-line newsletter subscription and give them the chance to cancel the subscription.
+  3. You can open an on-line E-mail account at twistmagazine.com. twistmagazine.com collects only the E-mail address and password you select, and your birthday. We do not monitor or collect information from your E-mail account unless a legal authority requests us to do so, a user interferes with our operations, or a user otherwise violates twistmagazine.com's Terms of Use. If you are under the age of 13, you may open an E-mail account at twistmagazine.com with a parent's prior permission.
+  4. You can enter contests or sweepstakes sponsored by twistmagazine.com. Our contests and sweepstakes require a minimal amount of information to register, but we always collect your E-mail address so that we can notify you of the results of the contest. If you are under the age of 13, you must provide the E-mail address of a parent or guardian when entering the contest, and twistmagazine.com will notify the parent or guardian of your contest entry and give them the chance to cancel the entry. twistmagazine.com is prohibited by law from conditioning your participation in a contest or sweepstakes on the disclosure of more personal information than is reasonably necessary to participate.
 
 
-We may also collect other information about you, This is so you can enjoy certain services within the website and be invlved in certain surveys. None of this information can be or is used to identify you personally, however.
+
+We do not collect the E-mail addresses of people who write to us via E-mail except to respond to them. Unless we know that we have received the E-mail from a reader who is 13 or over, we will discard the E-mail addresses within 30 days.
+
+We may also collect other information about you, This is so you can enjoy certain services within the website and be involved in certain surveys. None of this information can be or is used to identify you personally, however. 
 
 You should also be aware that other companies may advertise on our site, and twistmagazine.com may provide links to other websites. These advertisers and sites may collect data or solicit personal information from you. twistmagazine.com does not control these advertisers and sites, and this Privacy Policy does not address the practices of these other companies and sites.
 
-**How does twistmagazine.com use this information?**
+### How does twistmagazine.com use this information?
 
 Our policy about using personal information is simple: Except as described in this Policy, twistmagazine.com will not disclose or sell any of the personal information you provide to any third parties.
 
 twistmagazine.com uses the personal information you provide for recordkeeping purposes, for statistical analysis, to learn about you and your interests, to provide products and services you request, to tell you about other twistmagazine.com services that might interest you, and to notify contests winners.
 
-We may disclose information about our users when we are required to by law, or when we have reason to believe that someone is causing injury to or interfering with our rights or property, other twistmagazine.com users, or anyone else who could be harmed by those activities. 
+We may disclose information about our users when we are required to by law, or when we have reason to believe that someone is causing injury to or interfering with our rights or property, other twistmagazine.com users, or anyone else who could be harmed by those activities.
 
-**What about twistmagazine.com's surveys?**
+### What about twistmagazine.com's surveys?
 
 We want to know what you think. twistmagazine.com surveys and polls are questions we ask to learn more about our readers and their preferences and interests. Any data we collect from a survey is edited before we release it to any third party. When you participate in a survey, you are completely anonymous. We will never ask you for your name, address, or E-mail address to participate in a survey. If you do give us personal information like your name or E-mail address in the survey form where it wasn't supposed to be included, we will delete it before storing the information or releasing it to any third party. We sometimes ask for your zip code only so that we can compare likes and dislikes and attitudes from different areas of our readership.
 
@@ -42,7 +45,7 @@ Sometimes we conduct surveys on behalf of a particular client. Again, any data w
 
 All of our surveys are optional, and there are no prizes or rewards for participating in any twistmagazine.com survey.
 
-**How does twistmagazine.com protect my personal information?**
+### How does twistmagazine.com protect my personal information?
 
 We make every effort to ensure that your information is secure on our system. Only those employees who need access to your information in order to do their jobs are allowed access.
 
@@ -52,7 +55,7 @@ We do not collect personal information for the purpose of credit card transactio
 
 Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to use. You do so at your own risk. You should always be careful and smart about the information you provide on-line. Remember, whenever you voluntarily provide personal information through E-mail, that information can be collected and used by others.
 
-**What are cookies and how does twistmagazine.com use them?**
+### What are cookies and how does twistmagazine.com use them?
 
 Cookies are small pieces of data that are placed on your computer's hard drive when you visit twistmagazine.com. Cookies are standard in the industry; you'll find them at most major websites.
 
@@ -60,42 +63,60 @@ Cookies allow twistmagazine.com to keep track of which areas of our site you hav
 
 twistmagazine.com also may use cookies to help ensure that personal information is not collected from children under 13 without their parents' consent.
 
-**What is an IP address and how does twistmagazine.com use it?**
+### What is an IP address and how does twistmagazine.com use it?
 
 An IP address is a number that's automatically assigned to your computer whenever you're surfing the web - your computer's unique "signature." Web servers automatically identify your computer by its IP address.
 
-When you visit twistmagazine.com, we collect some general information about your computer, including its IP address, the operating system it uses (for example, Windows XP), the browser software it uses (for example, Microsoft Internet Explorer or Firefox), and your Internet service provider (for example, Comcast). This information helps us better understand the people who visit twistmagazine.com. None of this information is linked to "personal information" about individual users - instead, it's information about the general population. As with cookies, your session will be logged, but you remain anonymous to us.
+When you visit twistmagazine.com, we collect some general information about your computer, including its IP address, the operating system it uses (for example, Windows 95), the browser software it uses (for example, Microsoft Internet Explorer or Netscape), and your Internet service provider (for example, AOL). This information helps us better understand the people who visit twistmagazine.com. None of this information is linked to "personal information" about individual users - instead, it's information about the general population. As with cookies, your session will be logged, but you remain anonymous to us.
 
 twistmagazine.com collects this general information to identify the most popular areas on our website and to provide aggregate information to our advertisers to let them know about the number of people who have seen and clicked on their advertisements.
 
-**What about privacy for users under age 13?**
+### Use of non-personal Information
+
+We may share statistical or aggregated non-personal information about our users with advertisers, business partners, sponsors and other third parties. This data is used to customize our Website content and advertising to deliver a better experience to our users.
+
+We may work with third-party advertising companies who may utilize cookies and web beacons, and data collected on this site, to customize advertisements to you on this, as well as on other websites in their networks beyond this website. These companies do not have access to or use your name, address, e-mail address, telephone number or other personally identifiable information; they may, however, anonymously track your Internet usage across this and other websites in their networks. For more information about these advertising companies' privacy policies, including how to opt out from their use of cookies and web beacons to track your use of websites, see [www.networkadvertising.org](http://www.networkadvertising.org/).
+
+**What happens when I link to or from another website?**
+
+You should also be aware that other companies may advertise on our site, and twistmagazine.com may provide links to other websites. These advertisers and sites may collect data or solicit personal information from you. Twistmagazine.com does not control these advertisers and sites, and this Privacy Policy does not address the practices of these other companies and sites. We are not responsible for the actions and privacy policies of third parties and other websites. We encourage you to be aware of when you leave twistmagazine.com and to read the privacy policy of each website that you visit.
+
+### What about privacy for users under age 13?
 
 If you are under 13, you should always ask your parents for permission before sending any personal information to us or to anyone else. You should ask your parent or guardian to read this Privacy Policy and to participate with you in the registration process.
 
-Except as otherwise described in this Policy, we do not knowingly collect or use any personal information from children under age 13 without first notifying and obtaining the express permission of a parent or guardian. Children under 13 cannot subscribe to TWIST magazine on-line; instead, they must subscribe to the magazine by telephone or mail, with credit card information or payment from a parent or guardian. The parent or guardian of children under 13 who subscribe to twistmagazine.com's on-line newsletter will receive notice of the subscription and the opportunity to cancel. Similarly, the parent or guardian of children under 13 who register for any special contest, sweepstakes, or promotion sponsored by twistmagazine.com will receive notice of the child's registration and the opportunity to cancel. Children under 13 who register for contests or sweepstakes and promotional opportunities will also be asked to provide their parent or guardian's E-mail address so that we can notify the parent or guardian if the child is the winner of the contest.
+Except as otherwise described in this Policy, we do not knowingly collect or use any personal information from children under age 13 without first notifying and obtaining the express permission of a parent or guardian. Children under 13 cannot subscribe to Twist magazine on-line; instead, they must subscribe to the magazine by telephone or mail, with credit card information or payment from a parent or guardian. The parent or guardian of children under 13 who subscribe to twistmagazine.com's on-line newsletter will receive notice of the subscription and the opportunity to cancel. Similarly, the parent or guardian of children under 13 who register for any special contest, sweepstakes, or promotion sponsored by twistmagazine.com will receive notice of the child's registration and the opportunity to cancel. Children under 13 who register for contests or sweepstakes and promotional opportunities will also be asked to provide their parent or guardian's E-mail address so that we can notify the parent or guardian if the child is the winner of the contest.
 
-twistmagazine.com does not sell or disclose personal information collected from children under 13 to third parties under any circumstances. 
+twistmagazine.com does not sell or disclose personal information collected from children under 13 to third parties under any circumstances.
 
-**How can a parent or guardian review this personal information collected from children under 13?**
+### How can a parent or guardian review this personal information collected from children under 13?
 
-Parents have the right to review all personal information about children under 13 collected by twistmagazine.com, can ask twistmagazine.com to delete the information, and can refuse to permit twistmagazine.com to collect or use the child's information in the future. If a parent or guardian wishes to review a child's personal information or ask twistmagazine.com to delete that information, they should contact TWIST at the address and telephone number listed below, or send an E-mail request to contactus@twistmagazine.com. We will verify the identity of the parent or guardian before allowing them to review a child's personal information.
+Parents have the right to review all personal information about children under 13 collected by twistmagazine.com, can ask twistmagazine.com to delete the information, and can refuse to permit twistmagazine.com to collect or use the child's information in the future. If a parent or guardian wishes to review a child's personal information or ask twistmagazine.com to delete that information, they should contact Twist at the address and telephone number listed below, or send an E-mail request to [privacypolicy@bauerpublishing.com](mailto:privacypolicy@bauerpublishing.com). We will verify the identity of the parent or guardian before allowing them to review a child's personal information.
 
-**How can you correct or update your information?**
+### How can you correct or update your information?
 
-If you would like to correct or update information that you have previously provided to TWIST.com, you can let us know by sending us an E-mail at [contactus@twistmagazine.com.](mailto:contactus@twistmagazine.com) or mailing a letter to our postal address listed below.
+If you would like to correct or update information that you have previously provided to twistmagazine.com, you can let us know by sending us an E-mail at [privacypolicy@bauerpublishing.com](mailto:privacypolicy@bauerpublishing.com) or mailing a letter to our postal address listed below.
 
-**How can you contact twistmagazine.com?**
+### Your California Privacy Rights
 
-If you have any questions about our privacy policy, the practices of this site, or want to reach us for any other reason, you can contact us at:
+Pursuant to California Civil Code Section 1798.83, you may request the following information, which will be provided to you via either a writing or e-mail free of charge: 
 
-TWIST
+  1. A list of the categories of personal information disclosed by twistmagazine.com to third parties for the third parties' direct marketing purposes during the immediately preceding calendar year and
+  2. The names and addresses of all third parties that received personal information from twistmagazine.com for the third parties' direct marketing purposes during the preceding calendar year and, if the nature of the third parties' business cannot reasonably be determined from the third parties' name, examples of the products or services marketed, if known to twistmagazine.com, sufficient to give you a reasonable indication of the nature of the third parties' business.
 
-270 Sylvan Avenue
 
-Englewood Cliffs, NJ 07632
 
-(201) 569-6699
+Consumer requests for this information should be sent to [privacypolicy@bauerpublishing.com](mailto:privacypolicy@bauerpublishing.com).
+
+### How can you contact twistmagazine.com?
+
+If you have any questions about our privacy policy, you can contact us at:
+
+> Twist Magazine  
+>  270 Sylvan Avenue  
+>  Englewood Cliffs, NJ 07632  
+>  (201) 569-6699
 
 or E-mail us at:
 
-[contactus@twistmagazine.com.](mailto:contactus@twistmagazine.com)
+[privacypolicy@bauerpublishing.com](mailto:privacypolicy@bauerpublishing.com)
