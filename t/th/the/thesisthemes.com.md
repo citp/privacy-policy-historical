@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesisthemes.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614052506id_/http%3A//thesisthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesisthemes.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212180507id_/http%3A//thesisthemes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - ThesisThemes.com Skins
 
 Download quality Thesis skins  
 and feel good about your site.
@@ -35,7 +35,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 ### Follow [@ThesisThemes](http://www.twitter.com/thesisthemes/)  
 on Twitter
 
-  * > We've been busy developing kick-ass skins and haven't had time to tweet! Sorry! 
-
+  * @[Andrew__C](https://twitter.com/Andrew__C) Everything about your custom design will be gone of course - but you can have a standard WordPress static homepage.  — 2 days ago
 
 
