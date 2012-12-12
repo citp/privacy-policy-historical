@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotels.nl privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613171232id_/http%3A//www.hotels.nl/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels.nl privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212201440id_/http%3A//www.hotels.nl/service/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -51,7 +51,7 @@ Hotels.nl reserves the right to obey legal regulations and rules with regard to 
 Traffic data is obtained by:
 
   * Cookies  
-Hotels.nl may use cookies when offering its online services . These are small files, which are stored on the hard disk of your computer. By using these cookies, our website is able to recognise you when you visit the website, Hotels.nl. This way we can ensure that when visiting our website you won't need to continuously fill in the same information. The information stored in a cookie also depends on your own browser settings. Should you have switched off the use of cookies or should you wish to do so, you will still be able to view most parts of the website, Hotels.nl. However, you will NOT be able to make a booking. Hotels.nl is not responsible for erroneous bookings resulting from cookies.
+Hotels.nl may use cookies when offering its online services . These are small files, which are stored on the hard disk of your computer. By using these cookies, our website is able to recognise you when you visit the website, Hotels.nl. This way we can ensure that when visiting our website you won't need to continuously fill in the same information. The information stored in a cookie also depends on your own browser preferences. Should you have switched off the use of cookies or should you wish to do so, you will still be able to view most parts of the website, Hotels.nl. However, you will NOT be able to make a booking. Hotels.nl is not responsible for erroneous bookings resulting from cookies.
   
 
   * Log files  
@@ -61,4 +61,4 @@ We use log files, as most standard website servers do. In these log files we kee
 
 ## General
 
-Hotels.nl reserves the right to change this Privacy Statement at any time. If you have any questions and/or remarks with regard to this statement, please email [am@hotels.nl](mailto:am@hotels.nl)
+Hotels.nl reserves the right to change this Privacy Statement at any time. If you have any questions and/or comments with regards to this statement, please email [am@hotels.nl](mailto:am@hotels.nl)
