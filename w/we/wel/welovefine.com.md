@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the welovefine.com privacy policy that was archived on 2012-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120214045636id_/http%3A//www.welovefine.com/cms.php%3Fid_cms%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welovefine.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212125050id_/http%3A//www.welovefine.com/cms.php%3Fid_cms%3D2) for the most accurate reproduction.*
 
-# Privacy Statement - WeLoveFine Shop!
-
-WE LOVE UPDATES
-
-Sign up and hear about our latest deals and news
+# Privacy Statement - WeLoveFine - for fans by fans
 
 PRIVACY POLICY STATEMENT
 
@@ -41,8 +37,3 @@ Consumers can have this information corrected by sending us e-mail at the above 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
-
-  
-
-
-[](http://www.welovefine.com/nby.php?c=3#/inst&id_lang=1&q=208&c=3&o=n&p=1)
