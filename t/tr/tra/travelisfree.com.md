@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelisfree.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623074826id_/http%3A//travelisfree.com/contact-form/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelisfree.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212092616id_/http%3A//travelisfree.com/contact-form/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Travel Is Free
 
@@ -14,4 +14,4 @@ The TravelisFree.com privacy policy:
 
 \- In regards to the subscription page you can unsubscribe by contacting me at drew@travelisfree.com or by the unsubscribe option you would get in the emails you originally subscribed to.
 
-**Please note** that I, TravelisFree.com has financial relationships with some of the merchants mentioned here.  TravelisFree.com may be compensated if consumers choose to utilize the links located throughout the content on this site and generate sales for the said merchant.
+**Please note** that I, TravelisFree.com have financial relationships with some of the merchants mentioned here.  TravelisFree.com may be compensated if consumers choose to utilize the links located throughout the content on this site and generate sales for the said merchant.
