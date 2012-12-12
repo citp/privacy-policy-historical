@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the qsrinternational.com privacy policy that was archived on 2012-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120522052635id_/http%3A//www.qsrinternational.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qsrinternational.com privacy policy that was archived on 2012-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121212051738id_/http%3A//qsrinternational.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head><title>
 	Privacy Policy
@@ -9,7 +9,7 @@
 
 <script type="text/javascript" src="assets/jquery/jquery-1.4.2.pack.js"></script>
 
-<link rel="stylesheet" href="assets/_misc_style.css" type="text/css"><link rel="stylesheet" href="assets/_basic.css" type="text/css"><link rel="stylesheet" href="assets/lightbox/lightbox.css" type="text/css"><link rel="stylesheet" href="assets/jquery/thickbox/thickbox.css" type="text/css"><link rel="stylesheet" href="assets/jquery/tipsy-0.1.7/tipsy.css" type="text/css">
+<link rel="stylesheet" href="assets/_misc_style.css" type="text/css"><link rel="stylesheet" href="assets/_basic.css" type="text/css"><link rel="stylesheet" href="assets/lightbox/lightbox.css" type="text/css"><link rel="stylesheet" href="assets/jquery/thickbox/thickbox.css" type="text/css"><link rel="stylesheet" href="assets/jquery/tipsy-0.1.7/tipsy.css" type="text/css"><link rel="stylesheet" href="assets/css/google/google_style.css" type="text/css">
 
 <script type="text/javascript" src="assets/jquery/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 <link rel="stylesheet" href="assets/jquery/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
@@ -38,6 +38,18 @@
 <script type="text/javascript" src="assets/jquery/tipsy-0.1.7/jquery.tipsy.js"></script>
 <script src="assets/_misc_javascript.js" type="text/javascript"></script>
 
+
+<!-- Homepage redesign -->
+
+<script type="text/javascript" src="assets/jquery/homepage/allinone_bannerWithPlaylist.js"></script>
+<script type="text/javascript" src="assets/jquery/homepage/jquery-ui-1.8.16.custom.min.js"></script>
+<script type="text/javascript" src="assets/jquery/homepage/jquery.ui.touch-punch.min.js"></script>
+<script type="text/javascript" src="assets/jquery/homepage/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="assets/jquery/homepage/jquery.functions.js"></script>
+
+<link rel="stylesheet" href="assets/css/homepage/default.css" type="text/css">
+
+
 <script type="text/javascript">
 	Cufon.replace
 		('#firstlevel_banner h1, .convert_cufon', { fontFamily: 'Gotham' })
@@ -57,11 +69,11 @@
 	}
 	$(function() {
 		$('.tooltip').tipsy({gravity: 'sw', html: true, opacity: 1});
-		/*$(".r .section h3").each(function(){
-			ImgText = $(this).children("img").attr("alt");
-			$(this).children("img").remove();
-			$(this).html(ImgText);
-		});*/
+//		$(".r .section h3").each(function(){
+//			ImgText = $(this).children("img").attr("alt");
+//			$(this).children("img").remove();
+//			$(this).html(ImgText);
+//		});
 		
 		
 		$("a.fancybox-call").fancybox({
@@ -79,6 +91,19 @@
 	});
 </script>
 
+<!--External webtracking -->
+<meta name="com.silverpop.brandeddomains" content="www.pages04.net,qsrinternational.mkt5276.com">
+
+<script type="text/javascript">
+    if ("https:" == document.location.protocol) {
+        document.write(unescape('%3Cscript src="https://www.sc.pages04.net/lp/static/js/iMAWebCookie.js?654029a9-13ab35c6409-6b01afd6fbb6724a9fe9ac1747b0e3f6&h=www.pages04.net" type="text/javascript"%3E%3C/script%3E'));
+    }
+    else {
+        document.write(unescape('%3Cscript src="http://content.mkt941.com/lp/static/js/iMAWebCookie.js?654029a9-13ab35c6409-6b01afd6fbb6724a9fe9ac1747b0e3f6&h=www.pages04.net" type="text/javascript"%3E%3C/script%3E'));
+    }
+</script><script src="https://www.sc.pages04.net/lp/static/js/iMAWebCookie.js?654029a9-13ab35c6409-6b01afd6fbb6724a9fe9ac1747b0e3f6&amp;h=www.pages04.net" type="text/javascript"></script>
+
+
 
 <meta name="Keywords"><meta name="Description"></head>
 
@@ -87,6 +112,8 @@
 <div class="maincontainer"><div class="maincontainer_int">
 
     
+
+   
 
 	<a name="top"></a>
 	<div id="header">
@@ -108,11 +135,34 @@
 			<div id="ctl00_ctl00_header_divShoppingCartSummary" class="item"><a href="products_shopping-cart_1-myselections.aspx" id="ctl00_ctl00_header_hrefShoppingCartSummary">Shopping Cart</a> (<span id="ctl00_ctl00_header_cnt">0</span> items)</div>
 			<div class="item search">
 				<form action="search.aspx">
-					<div>Search</div>
-					<input type="text" maxlength="512" name="SearchTerm" class="textbox">
+					<div>Search</div>                 
+					<input type="text" maxlength="512" name="SearchTerm" class="textbox" id="topcse">
 					<input type="image" src="assets/header_but_go.gif" alt="Go" class="button">
 				</form>
+                <script src="http://www.google.ca/jsapi" type="text/javascript"></script>
+                <script type="text/javascript">
+                    var sPath = window.location.pathname;
+                    var sPage = sPath.substring(sPath.lastIndexOf('/') + 1);                   
+                    if (!sPage.match("search.aspx")) {                        
+                        google.load('search', '1');
+                        google.setOnLoadCallback(function () {
+                            google.search.CustomSearchControl.attachAutoCompletion(
+                                '001808268298658495002:bxcvcrlnjrq',
+                                document.getElementById('topcse'));
+
+                        });
+                    }
+                    else {
+                        google.setOnLoadCallback(function () {
+                            google.search.CustomSearchControl.attachAutoCompletion(
+                                '001808268298658495002:bxcvcrlnjrq',
+                                document.getElementById('topcse'));
+
+                        });
+                    }
+                </script>
 			</div>
+            
 		</div>
 	</div>
 	
@@ -137,7 +187,7 @@
 	</script>
 
     <form name="aspnetForm" method="post" action="/privacy-policy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDczMzI3NTY3D2QWAmYPZBYCZg9kFgYCAQ9kFgQCBQ8WAh4HY29udGVudGRkAgYPFgIfAGRkAgMPZBYCZg9kFhACAQ9kFgICAg8PFgIeBFRleHQFATBkZAICDxUKAAAAAAAAAAAAAGQCAw8WAh4HVmlzaWJsZWgWAmYPFQkAAAAAAAAAAABkAgQPFgIfAmgWAmYPFQYAAAAAAABkAgUPFgIfAmgWAmYPFQgAAAAAAAAAAGQCBg8WAh8CaBYCZg8VAgAAZAIHDxYCHwJoFgJmDxUFAAAAAABkAggPFgIfAmgWAmYPFQQAAAAAZAIFD2QWBAIBD2QWAgIBD2QWAgIBD2QWAgIBDw8WAh8BBQ5Qcml2YWN5IFBvbGljeWRkAgMPZBYGAgEPZBYEAgEPZBYCAgEPZBYEZg9kFgZmD2QWBGYPFQEAZAIBDxYCHgtfIUl0ZW1Db3VudAL/////D2QCAQ9kFgRmDxUBAGQCAQ8WAh8DAv////8PZAICD2QWBGYPFQEAZAIBDxYCHwMC/////w9kAgEPZBYCZg8WAh8DAv////8PZAIDD2QWAmYPZBYCZg9kFgYCAQ8WBB4DYWx0BQEgHgNzcmMFVy9JbWFnZVJlc291cmNlSGFuZGxlci5hc2h4L0h0bWxUZXh0RnJhZ21lbnRzL1RpdGxlSW1hZ2VGaWxlLzUyNi8tLS9Db21wYW55LWJyb2NodXJlLmdpZmQCAw9kFgICAQ8PFgIfAQWCAjxwPldhbnQgdG8ga25vdyBtb3JlIGFib3V0IFFTUj8gUmVhZCBvdXIgY29tcGFueSBicm9jaHVyZS48L3A+DQo8cD4mbmJzcDs8L3A+DQo8dWwgc3R5bGU9Im1hcmdpbi1ib3R0b206IDBweCI+DQogICAgPGxpPjxhIHRhcmdldD0iX2JsYW5rIiBocmVmPSJGaWxlUmVzb3VyY2VIYW5kbGVyLmFzaHgvUmVsYXRlZERvY3VtZW50cy9Eb2N1bWVudEZpbGUvNDk5L1FTUl9Db21wYW55X0Jyb2NodXJlLnBkZiI+RG93bmxvYWQgUERGPC9hPjwvbGk+DQo8L3VsPmRkAgUPFgIfAmhkAgMPZBYEAgEPDxYCHwFlZGQCAw8PFgIfAQXjJjxkaXYgY2xhc3M9InNlY3Rpb24iPg0KPGgzIGNsYXNzPSJzZWN0aW9udGl0bGUiPkhvdyBpcyB5b3VyIGluZm9ybWF0aW9uIGNvbGxlY3RlZD88L2gzPg0KPHA+V2hlbiB5b3UgdmlzaXQgb3VyIHdlYnNpdGUsIG91ciBzZXJ2ZXIgbG9ncyB0aGUgZm9sbG93aW5nIGluZm9ybWF0aW9uOjwvcD4NCjx1bCBjbGFzcz0iY29udGVudGxpc3QgYnJlYWtiZWxvd3NtYWxsIj4NCiAgICA8bGk+VGhlIHR5cGUgb2YgYnJvd3NlciBhbmQgb3BlcmF0aW5nIHN5c3RlbSB5b3UgYXJlIHVzaW5nLjwvbGk+DQogICAgPGxpPlRoZSBhZGRyZXNzIG9mIGFueSByZWZlcnJpbmcgd2Vic2l0ZSBvciBzZWFyY2ggZW5naW5lLjwvbGk+DQogICAgPGxpPllvdXIgY29tcHV0ZXIncyBJUCAoSW50ZXJuZXQgUHJvdG9jb2wpIGFkZHJlc3MgKGEgbnVtYmVyIHdoaWNoIGlzIHVuaXF1ZSB0byB0aGUgbWFjaGluZSB0aHJvdWdoIHdoaWNoIHlvdSBhcmUgY29ubmVjdGVkIHRvIHRoZSBJbnRlcm5ldCkuPC9saT4NCjwvdWw+DQo8cD5UaGlzIGluZm9ybWF0aW9uIGlzIHByb3ZpZGVkIGJ5IHlvdXIgYnJvd3NlciBhbmQgaXMgc3RvcmVkIGZvciBzdGF0aXN0aWNhbCBwdXJwb3Nlcy4gV2UgdXNlIGl0IGZvciB3ZWJzaXRlIHRyYWZmaWMgYW5hbHlzaXMgYW5kIHN5c3RlbSBhZG1pbmlzdHJhdGlvbiBwdXJwb3NlcyBvbmx5LiBObyBhdHRlbXB0IHdpbGwgYmUgbWFkZSB0byBpZGVudGlmeSB1c2VycyBvciB0aGVpciBicm93c2luZyBhY3Rpdml0aWVzLjwvcD4NCjwvZGl2Pg0KPGRpdiBjbGFzcz0ic2VjdGlvbiI+DQo8aDMgY2xhc3M9InNlY3Rpb250aXRsZSI+UGVyc29uYWwgaW5mb3JtYXRpb248L2gzPg0KPHA+SW4gc29tZSBpbnN0YW5jZXMgd2Ugd2lsbCBhc2sgeW91IGZvciBpbmZvcm1hdGlvbiB0aGF0IGlkZW50aWZpZXMgeW91IG9yIGFsbG93cyB1cyB0byBjb250YWN0IHlvdS4gVGhpcyBtaWdodCBvY2N1ciwgZm9yIGV4YW1wbGUsIGluIHRoZSBmb2xsb3dpbmcgY29udGV4dHM6PC9wPg0KPHVsIGNsYXNzPSJjb250ZW50bGlzdCBicmVha2JlbG93Ij4NCiAgICA8bGk+VHJpYWwgc29mdHdhcmUgb3Igc2VydmljZSBwYWNrIGRvd25sb2Fkcy48L2xpPg0KICAgIDxsaT5QdXJjaGFzaW5nIFFTUiBwcm9kdWN0cyBhbmQgc2VydmljZXMgb25saW5lLjwvbGk+DQogICAgPGxpPlByb2R1Y3QgYWN0aXZhdGlvbi48L2xpPg0KICAgIDxsaT5QYXJ0aWNpcGF0aW9uIGluIFFTUiB0cmFpbmluZyBhbmQgZXZlbnRzLjwvbGk+DQogICAgPGxpPk5ld3NsZXR0ZXIgc3Vic2NyaXB0aW9ucy48L2xpPg0KICAgIDxsaT5RU1IgRm9ydW0gcmVnaXN0cmF0aW9ucy48L2xpPg0KICAgIDxsaT5Db21wbGV0aW9uIG9mIGEgJ015IEZlZWRiYWNrJyBmb3JtLjwvbGk+DQogICAgPGxpPkFwcGx5aW5nIHRvIGJlY29tZSBhIHRyYWluZXIgb3IgY29uc3VsdGFudC48L2xpPg0KICAgIDxsaT5SZXF1ZXN0aW5nIHRvIGJlIGNvbnRhY3RlZCB2aWEgYSBjb250YWN0IGZvcm0uPC9saT4NCiAgICA8bGk+UHJvZHVjdCBpbmZvcm1hdGlvbiByZXF1ZXN0cyBieSBwaG9uZSwgZmF4IG9yIGVtYWlsLjwvbGk+DQogICAgPGxpPkFza2luZyBmb3Igc3VwcG9ydCB2aWEgdGhlIHN1cHBvcnQgcmVxdWVzdCBmb3JtLjwvbGk+DQo8L3VsPg0KPC9kaXY+DQo8ZGl2IGNsYXNzPSJzZWN0aW9uIj4NCjxoMyBjbGFzcz0ic2VjdGlvbnRpdGxlIj5XaGF0IHBlcnNvbmFsIGluZm9ybWF0aW9uIGRvIHdlIGNvbGxlY3Q/PC9oMz4NCjxwPllvdSBtYXkgYmUgcmVxdWlyZWQgdG8gcHJvdmlkZSBhbGwgb3Igc29tZSBvZiB0aGUgZm9sbG93aW5nIGluZm9ybWF0aW9uIGRlcGVuZGluZyBvbiB0aGUgdHlwZSBvZiByZXF1ZXN0IG9yIHRyYW5zYWN0aW9uOjwvcD4NCjx1bCBjbGFzcz0iY29udGVudGxpc3QgYnJlYWtiZWxvd3NtYWxsIj4NCiAgICA8bGk+TmFtZS48L2xpPg0KICAgIDxsaT5Qb3NpdGlvbi48L2xpPg0KICAgIDxsaT5EZXBhcnRtZW50LjwvbGk+DQogICAgPGxpPk9yZ2FuaXphdGlvbi48L2xpPg0KICAgIDxsaT5QaG9uZSBudW1iZXIuPC9saT4NCiAgICA8bGk+TWFpbGluZyBvciBiaWxsaW5nIGFkZHJlc3MuPC9saT4NCiAgICA8bGk+RW1haWwuPC9saT4NCiAgICA8bGk+U29mdHdhcmUgbGljZW5zZSBrZXkuPC9saT4NCiAgICA8bGk+VXNlciBwYXJ0aWN1bGFycyBlLmcuIGluZHVzdHJ5IHR5cGUsIHRvcGljcyBvZiBpbnRlcmVzdCBldGMuPC9saT4NCiAgICA8bGk+Q3JlZGl0IGNhcmQgZGV0YWlscy48L2xpPg0KICAgIDxsaT5TdHVkZW50IGlkZW50aWZpY2F0aW9uIG51bWJlci48L2xpPg0KPC91bD4NCjwvZGl2Pg0KPGRpdiBjbGFzcz0ic2VjdGlvbiI+DQo8aDMgY2xhc3M9InNlY3Rpb250aXRsZSI+SG93IHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gaXMgdXNlZDwvaDM+DQo8cD5XZSB3aWxsIHVzZSB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uIHRvIHByb3ZpZGUgdGhlIHNlcnZpY2UocyksIGluZm9ybWF0aW9uIG9yIHByb2R1Y3RzIHlvdSBoYXZlIHJlcXVlc3RlZCBvciB0byBjYXJyeSBvdXQgdGhlIHRyYW5zYWN0aW9uKHMpIHlvdSBoYXZlIGF1dGhvcml6ZWQuIFdoZXJlIG5lY2Vzc2FyeSB3ZSBkaXNjbG9zZSB0aGlzIGluZm9ybWF0aW9uIHRvIGF1dGhvcml6ZWQgUVNSIHBhcnRuZXJzIHRvIHVuZGVydGFrZSB0aGlzIGFjdGl2aXR5IG9uIG91ciBiZWhhbGYuIFlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gbWF5IGFsc28gYmUgdXNlZCBzbyB0aGF0IHdlIGNhbiBiZXR0ZXIgdGFpbG9yIG91ciBzZXJ2aWNlcyB0byB5b3VyIG5lZWRzIG9yIGRldGVybWluZSB5b3VyIGxldmVsIG9mIHNhdGlzZmFjdGlvbiB3aXRoIG91ciBzZXJ2aWNlcy48L3A+DQo8L2Rpdj4NCjxkaXYgY2xhc3M9InNlY3Rpb24iPg0KPGgzIGNsYXNzPSJzZWN0aW9udGl0bGUiPlByb3RlY3RpbmcgeW91ciBwcml2YWN5PC9oMz4NCjxwPldlIG1heSBzaGFyZSB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uIHdpdGggYW4gYXV0aG9yaXplZCBRU1IgcGFydG5lciwgd2hvIGlzIGluIHlvdXIgZ2VvZ3JhcGhpYyByZWdpb24gb3Igc3BlYWtzIHlvdXIgbGFuZ3VhZ2UsIHRvIGVuc3VyZSB0aGF0IHlvdSBoYXZlIHRoZSBiZXN0IHJlc291cmNlcyBhbmQmbmJzcDtpbmZvcm1hdGlvbiBhdmFpbGFibGUgdG8gc2VydmljZSB5b3VyIG5lZWRzLiBPY2Nhc2lvbmFsbHksIHdlIG1heSBjb2xsZWN0LCB1c2Ugb3IgZGlzY2xvc2UgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiB0byBhIHRoaXJkIHBhcnR5IGZvciB0aGUgcHVycG9zZSBvZiBmYWNpbGl0YXRpbmcgdGhlIGRpc3RyaWJ1dGlvbiBvZiBjdXN0b21lciBzYXRpc2ZhY3Rpb24gc3VydmV5cyB0byB5b3UuIFdoZXJlIHRoaXMgaXMgdGhlIGNhc2UsIHdlIHdpbGwgb25seSBkbyBzbyBhZnRlciBmaXJzdCBvYnRhaW5pbmcgeW91ciBwZXJtaXNzaW9uLjwvcD4NCjxwPldlIHByb3RlY3QgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiBieSB1c2luZyBTU0wgZW5jcnlwdGlvbiB0byBjb2xsZWN0IHlvdXIgZGV0YWlscyBhbmQgcHJvY2VzcyBvbmxpbmUgcGF5bWVudCB0cmFuc2FjdGlvbnMuIE9ubGluZSBvcmRlcnMgYXJlIHRyYW5zYWN0ZWQgdmlhIGEgc2VjdXJlIHNlcnZlciBhbmQgYWxsIHRoZSBpbmZvcm1hdGlvbiBpcyBlbmNyeXB0ZWQgYmVmb3JlIGl0IGlzIHBhc3NlZCBvbiB0byBRU1IuPC9wPg0KPC9kaXY+DQo8ZGl2IGNsYXNzPSJzZWN0aW9uIj4NCjxoMyBjbGFzcz0ic2VjdGlvbnRpdGxlIj5Ib3cgdG8gY2hlY2sgb3IgYW1lbmQgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbjwvaDM+DQo8cD5JZiB5b3Ugd291bGQgbGlrZSB0byBhY2Nlc3MgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiwgeW91IGNhbjo8L3A+DQo8dWwgY2xhc3M9ImNvbnRlbnRsaXN0IGJyZWFrYmVsb3dzbWFsbCI+DQogICAgPGxpPldyaXRlIHRvOiBDdXN0b21lciBTZXJ2aWNlcywgUVNSIEludGVybmF0aW9uYWwsIDJuZCBGbG9vciwgNjUxIERvbmNhc3RlciBSb2FkLCBEb25jYXN0ZXIsIFZpY3RvcmlhIDMxMDgsIEF1c3RyYWxpYTs8L2xpPg0KICAgIDxsaT5FbWFpbDogPGEgaHJlZj0ibWFpbHRvOmluZm9AcXNyaW50ZXJuYXRpb25hbC5jb20iPmluZm9AcXNyaW50ZXJuYXRpb25hbC5jb208L2E+OyBvcjwvbGk+DQogICAgPGxpPkNhbGwgUVNSIG9uOiArNjEgMyA5ODQwIDExMDAuPC9saT4NCjwvdWw+DQo8cD5Zb3UnbGwgbmVlZCB0byBwcm92aWRlIGEgZm9ybSBvZiBpZGVudGlmaWNhdGlvbiBiZWZvcmUgYWNjZXNzaW5nIHlvdXIgZGV0YWlscy48L3A+DQo8L2Rpdj4NCjxkaXYgY2xhc3M9InNlY3Rpb24iPg0KPGgzIGNsYXNzPSJzZWN0aW9udGl0bGUiPkhvdyB0byB1bnN1YnNjcmliZSBmcm9tIFFTUiBjb21tdW5pY2F0aW9uczwvaDM+DQo8cD5JZiB5b3UgZG9uJ3Qgd2FudCB0byBiZSBjb250YWN0ZWQgYnkgdXMgYWJvdXQgUVNSIHNvZnR3YXJlLCBxdWFsaXRhdGl2ZSByZXNlYXJjaCBvciBvdGhlciBwcm9tb3Rpb25zIGFuZCBldmVudHMsIHBsZWFzZTo8L3A+DQo8dWwgY2xhc3M9ImNvbnRlbnRsaXN0IGJyZWFrYmVsb3dzbWFsbCI+DQogICAgPGxpPldyaXRlIHRvOiBDdXN0b21lciBTZXJ2aWNlcywgUVNSIEludGVybmF0aW9uYWwsIDJuZCBGbG9vciwgNjUxIERvbmNhc3RlciBSb2FkLCBEb25jYXN0ZXIsIFZpY3RvcmlhIDMxMDgsIEF1c3RyYWxpYTs8L2xpPg0KICAgIDxsaT5FbWFpbDogPGEgaHJlZj0ibWFpbHRvOmluZm9AcXNyaW50ZXJuYXRpb25hbC5jb20iPmluZm9AcXNyaW50ZXJuYXRpb25hbC5jb208L2E+OyBvcjwvbGk+DQogICAgPGxpPkNhbGwgUVNSIG9uOiArNjEgMyA5ODQwIDExMDAuPC9saT4NCjwvdWw+DQo8cD5RU1IgSW50ZXJuYXRpb25hbCBpcyBjb21taXR0ZWQgdG8gdGhlIHJlc3BvbnNpYmxlIHVzZSBvZiB5b3VyIHBlcnNvbmFsIGRldGFpbHMsIGFuZCBjb21wbGllcyB3aXRoIHRoZSBBdXN0cmFsaWFuIEZlZGVyYWwgUHJpdmFjeSBBY3QgMTk4OC48L3A+DQo8L2Rpdj5kZAIFD2QWAgIBD2QWBmYPZBYCAgEPFgIfAwIEFghmD2QWBGYPFQMAIXByb2R1Y3RzX2ZyZWUtdHJpYWwtc29mdHdhcmUuYXNweABkAgEPDxYCHwEFHURvd25sb2FkIGZyZWUgdHJpYWwgc29mdHdhcmUgZGQCAQ9kFgRmDxUDABxzdXBwb3J0X2dldHRpbmctc3RhcnRlZC5hc3B4AGQCAQ8PFgIfAQUZR2V0dGluZyBzdGFydGVkIHJlc291cmNlc2RkAgIPZBYEZg8VAwAbc29sdXRpb25zX3Rlc3RpbW9uaWFscy5hc3B4AGQCAQ8PFgIfAQURUmVhZCB0ZXN0aW1vbmlhbHNkZAIDD2QWBGYPFQMAE25ld3Nfd2hhdHMtbmV3LmFzcHgAZAIBDw8WAh8BBQpXaGF0J3MgbmV3ZGQCAQ9kFgYCAQ8WBB8EBQEgHwUFVi9JbWFnZVJlc291cmNlSGFuZGxlci5hc2h4L0h0bWxUZXh0RnJhZ21lbnRzL1RpdGxlSW1hZ2VGaWxlLzQ0Ni8tLS9JbmZvcm1hdGlvbi1mb3IuZ2lmZAIDD2QWAgIBDw8WAh8BBcwBPHVsPg0KICAgIDxsaT48YSBocmVmPSJzb2x1dGlvbnNfZWR1Y2F0aW9uLmFzcHgiPkVkdWNhdGlvbjwvYT48L2xpPg0KICAgIDxsaT48YSBocmVmPSJzb2x1dGlvbnNfY29tbWVyY2lhbC5hc3B4Ij5Db21tZXJjaWFsPC9hPjwvbGk+DQogICAgPGxpPjxhIGhyZWY9InNvbHV0aW9uc19nb3Zlcm5tZW50LmFzcHgiPkdvdmVybm1lbnQ8L2E+PC9saT4NCjwvdWw+ZGQCBQ8WAh8CaGQCAg9kFgYCAQ8WBB8EBQEgHwUFUS9JbWFnZVJlc291cmNlSGFuZGxlci5hc2h4L0h0bWxUZXh0RnJhZ21lbnRzL1RpdGxlSW1hZ2VGaWxlLzQzNC8tLS9Db250YWN0LXVzLmdpZmQCAw9kFgICAQ8PFgIfAQVuPHA+SGF2ZSBhIHF1ZXN0aW9uPyZuYnNwOzwvcD4NCjx1bD4NCiAgICA8bGk+PGEgaHJlZj0iY29udGFjdC5hc3B4Ij5Db250YWN0IFFTUjwvYT48L2xpPg0KPC91bD4NCjxwPiZuYnNwOzwvcD5kZAIFDxYCHwJoZGQ64Yvj+NoyErZ0Sje2lqO/kLXYRA==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDczMzI3NTY3D2QWAmYPZBYCZg9kFgYCAQ9kFgQCBQ8WAh4HY29udGVudGRkAgYPFgIfAGRkAgMPZBYCZg9kFhACAQ9kFgICAg8PFgIeBFRleHQFATBkZAICDxUKAAAAAAAAAAAAAGQCAw8WAh4HVmlzaWJsZWgWAmYPFQkAAAAAAAAAAABkAgQPFgIfAmgWAmYPFQUAAAAAAGQCBQ8WAh8CaBYCZg8VCAAAAAAAAAAAZAIGDxYCHwJoFgJmDxUCAABkAgcPFgIfAmgWAmYPFQUAAAAAAGQCCA8WAh8CaBYCZg8VBAAAAABkAgUPZBYEAgEPZBYCAgEPZBYCAgEPZBYCAgEPDxYCHwEFDlByaXZhY3kgUG9saWN5ZGQCAw9kFgYCAQ9kFgQCAQ9kFgICAQ9kFgRmD2QWBmYPZBYEZg8VAQBkAgEPFgIeC18hSXRlbUNvdW50Av////8PZAIBD2QWBGYPFQEAZAIBDxYCHwMC/////w9kAgIPZBYEZg8VAQBkAgEPFgIfAwL/////D2QCAQ9kFgJmDxYCHwMC/////w9kAgMPZBYCZg9kFgJmD2QWBgIBDxYEHgNhbHQFASAeA3NyYwVXL0ltYWdlUmVzb3VyY2VIYW5kbGVyLmFzaHgvSHRtbFRleHRGcmFnbWVudHMvVGl0bGVJbWFnZUZpbGUvOTc4Ly0tL0NvbXBhbnktYnJvY2h1cmUuZ2lmZAIDD2QWAgIBDw8WAh8BBfMBPHA+V2FudCB0byBrbm93IG1vcmUgYWJvdXQgUVNSPyBSZWFkIG91ciBjb21wYW55IGJyb2NodXJlLjwvcD4NCjx1bCBzdHlsZT0ibWFyZ2luLWJvdHRvbTogMHB4Ij4NCiAgICA8bGk+PGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9IkZpbGVSZXNvdXJjZUhhbmRsZXIuYXNoeC9SZWxhdGVkRG9jdW1lbnRzL0RvY3VtZW50RmlsZS80OTkvUVNSX0NvbXBhbnlfQnJvY2h1cmUucGRmIj5Eb3dubG9hZCBQREY8L2E+PC9saT4NCjwvdWw+ZGQCBQ8WAh8CaGQCAw9kFgQCAQ8PFgIfAWVkZAIDDw8WAh8BBdw2PGRpdiBjbGFzcz0ic2VjdGlvbiI+DQo8aDMgY2xhc3M9InNlY3Rpb250aXRsZSI+V2hhdCBpbmZvcm1hdGlvbiBkb2VzIFFTUiBJbnRlcm5hdGlvbmFsIGNvbGxlY3QgZnJvbSBjdXN0b21lcnMgYW5kIHdlYnNpdGUgdmlzaXRvcnMsIGFuZCBob3cgaXMgaXQgdXNlZD88L2gzPg0KPHA+SW4gc29tZSBjaXJjdW1zdGFuY2VzIHdlIG1heSBhc2sgeW91IGZvciBpbmZvcm1hdGlvbiB0aGF0IGlkZW50aWZpZXMgeW91IGFuZCBhbGxvd3MgdXMgdG8gcHJvdmlkZSB0aGUgcHJvZHVjdCwgc2VydmljZSBvciBpbmZvcm1hdGlvbiB5b3UgaGF2ZSByZXF1ZXN0ZWQuIFdlIG1heSBhc2sgZm9yIHRoaXMgaW5mb3JtYXRpb24sIGZvciBleGFtcGxlLCB3aGVuIHlvdTo8L3A+DQo8dWwgY2xhc3M9ImNvbnRlbnRsaXN0IGJyZWFrYmVsb3dzbWFsbCI+DQogICAgPGxpPkRvd25sb2FkIHRyaWFsIHNvZnR3YXJlIG9yIHNlcnZpY2UgcGFja3M8L2xpPg0KICAgIDxsaT5QdXJjaGFzZSBRU1IgcHJvZHVjdHMgYW5kIHNlcnZpY2VzPC9saT4NCiAgICA8bGk+QWN0aXZhdGUgUVNSIHNvZnR3YXJlIHByb2R1Y3RzPC9saT4NCiAgICA8bGk+UmVnaXN0ZXIgZm9yIFFTUiB0cmFpbmluZyBvciBldmVudHM8L2xpPg0KICAgIDxsaT5TdWJzY3JpYmUgdG8gdGhlIFFTUiBOZXdzbGV0dGVyPC9saT4NCjwvdWw+DQo8cD5EZXBlbmRpbmcgb24gdGhlIHR5cGUgb2YgcmVxdWVzdCBvciB0cmFuc2FjdGlvbiwgeW91IG1heSBiZSBhc2tlZCB0byBwcm92aWRlIGluZm9ybWF0aW9uIHN1Y2ggYXMgeW91ciBuYW1lLCBjb250YWN0IGRldGFpbHMsIHNvZnR3YXJlIGxpY2Vuc2Uga2V5IGFuZC9vciBjcmVkaXQgY2FyZCBkZXRhaWxzLjwvcD4NCjxwPldlIHdpbGwgdXNlIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gdG8gcHJvdmlkZSB0aGUgc2VydmljZShzKSwgaW5mb3JtYXRpb24gb3IgcHJvZHVjdHMgeW91IGhhdmUgcmVxdWVzdGVkIG9yIHRvIGNhcnJ5IG91dCB0aGUgdHJhbnNhY3Rpb24ocykgeW91IGhhdmUgYXV0aG9yaXplZC4gV2hlcmUgbmVjZXNzYXJ5IHdlIGRpc2Nsb3NlIHRoaXMgaW5mb3JtYXRpb24gdG8gYXV0aG9yaXplZCBRU1IgcGFydG5lcnMgdG8gdW5kZXJ0YWtlIHRoaXMgYWN0aXZpdHkgb24gb3VyIGJlaGFsZi4gWW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiBtYXkgYWxzbyBiZSB1c2VkIHNvIHRoYXQgd2UgY2FuIGJldHRlciB0YWlsb3Igb3VyIHByb2R1Y3RzIGFuZCBzZXJ2aWNlcyB0byB5b3VyIG5lZWRzIG9yIGRldGVybWluZSB5b3VyIGxldmVsIG9mIHNhdGlzZmFjdGlvbiB3aXRoIG91ciBzZXJ2aWNlcy48L3A+DQo8cD5JbiBzb21lIGNpcmN1bXN0YW5jZXMsIHdlIG1heSBhbHNvIGNvbGxlY3Qgb3RoZXIgaW5mb3JtYXRpb24gdGhhdCBhbGxvd3MgdXMgdG8gaW1wcm92ZSBvdXIgc29mdHdhcmUgb3Igc2VydmljZXMgdG8gYmV0dGVyIG1lZXQgeW91ciBuZWVkczo8L3A+DQo8dWwgY2xhc3M9ImNvbnRlbnRsaXN0IGJyZWFrYmVsb3dzbWFsbCI+DQogICAgPGxpPldoZW4geW91IHZpc2l0IG91ciB3ZWJzaXRlLCB3ZSBjb2xsZWN0IGluZm9ybWF0aW9uIHN1Y2ggYXMgdGhlIHR5cGUgb2Ygd2ViIGJyb3dzZXIgYW5kIG9wZXJhdGluZyBzeXN0ZW0geW91IGFyZSB1c2luZywgdGhlIGFkZHJlc3Mgb2YgYW55IHJlZmVycmluZyB3ZWJzaXRlIG9yIHNlYXJjaCBlbmdpbmUsIG9yIHlvdXIgY29tcHV0ZXImcnNxdW87cyBJUCAoSW50ZXJuZXQgUHJvdG9jb2wpIGFkZHJlc3MgKGEgbnVtYmVyIHdoaWNoIGlzIHVuaXF1ZSB0byB0aGUgbWFjaGluZSB0aHJvdWdoIHdoaWNoIHlvdSBhcmUgY29ubmVjdGVkIHRvIHRoZSBJbnRlcm5ldCkuIFRoaXMgaW5mb3JtYXRpb24gaXMgcHJvdmlkZWQgYnkgeW91ciB3ZWIgYnJvd3NlciBhbmQgaXMgc3RvcmVkIGZvciBzdGF0aXN0aWNhbCBwdXJwb3Nlcy4gV2UgdXNlIGl0IGZvciB3ZWJzaXRlIHRyYWZmaWMgYW5hbHlzaXMgYW5kIHN5c3RlbSBhZG1pbmlzdHJhdGlvbiBwdXJwb3NlcyBvbmx5LiBObyBhdHRlbXB0IHdpbGwgYmUgbWFkZSB0byBpZGVudGlmeSB1c2VycyBvciB0aGVpciBicm93c2luZyBhY3Rpdml0aWVzLjwvbGk+DQogICAgPGxpPlNvbWUgUVNSIHNvZnR3YXJlIHByb2R1Y3RzIGdpdmUgeW91IHRoZSBvcHRpb24gdG8gcGFydGljaXBhdGUgaW4gYSAmbGRxdW87Y3VzdG9tZXIgZXhwZXJpZW5jZSBpbXByb3ZlbWVudCBwcm9ncmFtJnJkcXVvOyBvciByZXBvcnQgc29mdHdhcmUgZXJyb3JzIHRvIFFTUi4gWW91IG1heSBvcHQgaW4gb3Igb3V0IG9mIHRoZXNlIGNhcGFiaWxpdGllcy4gUmVmZXIgdG8geW91ciBzb2Z0d2FyZSZyc3F1bztzIEhlbHAgZG9jdW1lbnRhdGlvbiBmb3IgZnVydGhlciBkZXRhaWxzLiBXaGVyZSB5b3Ugb3B0IGluLCBRU1IgbWF5IGNvbGxlY3QgaW5mb3JtYXRpb24gc3VjaCBhcyBob3cgZnJlcXVlbnRseSBwYXJ0aWN1bGFyIHNvZnR3YXJlIGZlYXR1cmVzIGFyZSB1c2VkLCBvciBkZXRhaWxzIG9mIHNvZnR3YXJlIGVycm9ycyB0aGF0IG9jY3VyLiBUaGlzIGluZm9ybWF0aW9uIHdpbGwgbm90IGluY2x1ZGUgYW55IHBlcnNvbmFsIGRldGFpbHMgYWJvdXQgeW91IG9yIGFueSBkZXRhaWxzIG9mIHRoZSBkYXRhIHlvdSBhcmUgd29ya2luZyB3aXRoLCBhbmQgd2lsbCBiZSB1c2VkIGZvciB0aGUgc29sZSBwdXJwb3NlIG9mIGltcHJvdmluZyBvdXIgc29mdHdhcmUgcHJvZHVjdHMuPC9saT4NCiAgICA8bGk+RnJvbSB0aW1lIHRvIHRpbWUgd2UgbWF5IGNvbmR1Y3Qgc3VydmV5cyBhbmQgYmV0YSB0ZXN0aW5nIHByb2dyYW1zIHRvIGJldHRlciB1bmRlcnN0YW5kIHlvdXIgbmVlZHMgYW5kIHlvdXIgb3BpbmlvbnMgYWJvdXQgb3VyIHNvZnR3YXJlIGFuZCBzZXJ2aWNlcy48L2xpPg0KICAgIDxsaT5XaGVuIHlvdSByZXF1ZXN0IHN1cHBvcnQgZnJvbSBRU1IsIHdlIG1heSBhc2sgeW91IHRvIHNlbmQgdXMgY29waWVzIG9mIGNlcnRhaW4gZG9jdW1lbnRzIG9yIHByb2plY3RzIGluIG9yZGVyIHRvIGRpYWdub3NlIHlvdXIgcHJvYmxlbS4gSWYgeW91IGNob29zZSB0byBkbyBzbywgdGhlc2UgZG9jdW1lbnRzIGFuZCBwcm9qZWN0cyB3aWxsIGJlIHNlY3VyZWx5IGtlcHQgYXQgUVNSIHByZW1pc2VzLCB3ZSB3aWxsIHRha2UgcmVhc29uYWJsZSBzdGVwcyB0byBkZXN0cm95IHRoZW0gd2hlbiB0aGUgcHJvYmxlbSBpcyByZXNvbHZlZCwgYW5kIHRoZSBpbmZvcm1hdGlvbiBjb250YWluZWQgaW4gdGhlbSB3aWxsIG5vdCBiZSBkaXNjbG9zZWQgdG8gdGhpcmQgcGFydGllcy48L2xpPg0KPC91bD4NCjxwPlFTUiBJbnRlcm5hdGlvbmFsIGlzIGNvbW1pdHRlZCB0byB0aGUgcmVzcG9uc2libGUgdXNlIG9mIHlvdXIgcGVyc29uYWwgZGV0YWlscywgYW5kIGNvbXBsaWVzIHdpdGggdGhlIEF1c3RyYWxpYW4gRmVkZXJhbCBQcml2YWN5IEFjdCAxOTg4LjwvcD4NCjwvZGl2Pg0KPGRpdiBjbGFzcz0ic2VjdGlvbiI+DQo8aDMgY2xhc3M9InNlY3Rpb250aXRsZSI+V2hhdCBpbmZvcm1hdGlvbiBpcyBub3QgY29sbGVjdGVkIGJ5IFFTUiBJbnRlcm5hdGlvbmFsPzwvaDM+DQo8cD5RU1IgZG9lcyBub3QgY29sbGVjdCBhbnkgZGV0YWlscyBvZiB0aGUgZGF0YSB5b3UgYXJlIHdvcmtpbmcgd2l0aCB3aGVuIHlvdSB1c2Ugb3VyIHNvZnR3YXJlIHByb2R1Y3RzLiBUaGlzIGluY2x1ZGVzIGFueSBkYXRhIHRoYXQgeW91IGNyZWF0ZSwgaW1wb3J0IG9yIGNhcHR1cmUgdXNpbmcgTlZpdm8sIE5DYXB0dXJlLCBYU2lnaHQgb3IgTlVEKklTVC4gVGhpcyBkYXRhIGlzIHN0b3JlZCBvbmx5IGluIHRoZSBwcm9qZWN0cyBvciBmaWxlcyB0aGF0IHlvdSBkaXJlY3QgdGhlIHNvZnR3YXJlIHRvIHNhdmUgdGhlIGRhdGEgdG8uPC9wPg0KPHA+SW4gcGFydGljdWxhciwgTkNhcHR1cmUgKGEgUVNSIHNvZnR3YXJlIHByb2R1Y3QgZm9yIGNhcHR1cmluZyBkYXRhIGZyb20gcmVzb3VyY2VzIHN1Y2ggYXMgd2ViIHBhZ2VzIGFuZCBzb2NpYWwgbWVkaWEgc2l0ZXMpIHN0b3JlcyB0aGUgZGF0YSB5b3UgY2FwdHVyZSBvbmx5IGluIHRoZSBmaWxlcyB5b3UgY3JlYXRlLjwvcD4NCjxwPldoZW4gdXNpbmcgTkNhcHR1cmUgdG8gY2FwdHVyZSBkYXRhIGZyb20gc29jaWFsIG1lZGlhIHNpdGVzIChzdWNoIGFzIEZhY2Vib29rLCBUd2l0dGVyIG9yIExpbmtlZEluKSwgeW91IG1heSBiZSBhc2tlZCBieSB0aGUgc29jaWFsIG1lZGlhIHNpdGUgd2hldGhlciB5b3Ugd2lzaCB0byBncmFudCBOQ2FwdHVyZSBwZXJtaXNzaW9uIHRvIGNvbGxlY3QgcGFydGljdWxhciBraW5kcyBvZiBkYXRhLiBDaG9vc2luZyB0byBncmFudCB0aGVzZSBwZXJtaXNzaW9ucyB0byBOQ2FwdHVyZTo8L3A+DQo8dWwgY2xhc3M9ImNvbnRlbnRsaXN0IGJyZWFrYmVsb3dzbWFsbCI+DQogICAgPGxpPkRvZXMgbm90IGFsbG93IE5DYXB0dXJlIHRvIGNhcHR1cmUgYW55IGRhdGEgdGhhdCB5b3UsIGFzIGEgdXNlciBvZiB0aGF0IHNvY2lhbCBtZWRpYSBzaXRlLCBkbyBub3QgeW91cnNlbGYgaGF2ZSBhY2Nlc3MgdG88L2xpPg0KICAgIDxsaT5Eb2VzIG5vdCBjYXVzZSBOQ2FwdHVyZSB0byBzZW5kIGFueSBjYXB0dXJlZCBkYXRhIHRvIFFTUjwvbGk+DQo8L3VsPg0KPHA+V2hlbiB5b3UgaW1wb3J0IHNvY2lhbCBtZWRpYSBkYXRhIGNhcHR1cmVkIHVzaW5nIE5DYXB0dXJlIGludG8gTlZpdm8sIHlvdSBoYXZlIHRoZSBvcHRpb24gdG8gZXhjbHVkZSBzb21lIHVud2FudGVkIGluZm9ybWF0aW9uIChzdWNoIGFzIGluZGl2aWR1YWxzJnJzcXVvOyBhZ2UsIGdlbmRlciBvciByZWxpZ2lvbikuIFJlZmVyIHRvIHRoZSBIZWxwIGRvY3VtZW50YXRpb24gaW4gTkNhcHR1cmUgYW5kIE5WaXZvIGZvciBmdXJ0aGVyIGRldGFpbHMuPC9wPg0KPC9kaXY+DQo8ZGl2IGNsYXNzPSJzZWN0aW9uIj4NCjxoMyBjbGFzcz0ic2VjdGlvbnRpdGxlIj5XaXRoIHdob20gbWF5IFFTUiBJbnRlcm5hdGlvbmFsIHNoYXJlIHRoZSBpbmZvcm1hdGlvbiBpdCBjb2xsZWN0cz88L2gzPg0KPHA+V2UgbWF5IHNoYXJlIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gd2l0aCBhbiBhdXRob3JpemVkIFFTUiBwYXJ0bmVyLCB3aG8gaXMgaW4geW91ciBnZW9ncmFwaGljIHJlZ2lvbiBvciBzcGVha3MgeW91ciBsYW5ndWFnZSwgdG8gZW5zdXJlIHRoYXQgeW91IGhhdmUgdGhlIGJlc3QgcmVzb3VyY2VzIGFuZCBpbmZvcm1hdGlvbiBhdmFpbGFibGUgdG8gc2VydmljZSB5b3VyIG5lZWRzLiBPY2Nhc2lvbmFsbHksIHdlIG1heSBjb2xsZWN0LCB1c2Ugb3IgZGlzY2xvc2UgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiB0byBhIHRoaXJkIHBhcnR5IGZvciB0aGUgcHVycG9zZSBvZiBmYWNpbGl0YXRpbmcgdGhlIGRpc3RyaWJ1dGlvbiBvZiBjdXN0b21lciBzYXRpc2ZhY3Rpb24gc3VydmV5cyB0byB5b3UuIFdoZXJlIHRoaXMgaXMgdGhlIGNhc2UsIHdlIHdpbGwgb25seSBkbyBzbyBhZnRlciBmaXJzdCBvYnRhaW5pbmcgeW91ciBwZXJtaXNzaW9uLjwvcD4NCjwvZGl2Pg0KPGRpdiBjbGFzcz0ic2VjdGlvbiI+DQo8aDMgY2xhc3M9InNlY3Rpb250aXRsZSI+SG93IGRvZXMgUVNSIEludGVybmF0aW9uYWwgcHJvdGVjdCBjdXN0b21lciBpbmZvcm1hdGlvbj88L2gzPg0KPHA+V2UgcHJvdGVjdCB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uIGJ5IHVzaW5nIFNTTCBlbmNyeXB0aW9uIHRvIGNvbGxlY3QgeW91ciBkZXRhaWxzIGFuZCBwcm9jZXNzIG9ubGluZSBwYXltZW50IHRyYW5zYWN0aW9ucy4gT25saW5lIG9yZGVycyBhcmUgdHJhbnNhY3RlZCB2aWEgYSBzZWN1cmUgc2VydmVyIGFuZCBhbGwgdGhlIGluZm9ybWF0aW9uIGlzIGVuY3J5cHRlZCBiZWZvcmUgaXQgaXMgcGFzc2VkIG9uIHRvIFFTUi48L3A+DQo8L2Rpdj4NCjxkaXYgY2xhc3M9InNlY3Rpb24iPg0KPGgzIGNsYXNzPSJzZWN0aW9udGl0bGUiPkhvdyBjYW4gSSBjaGVjayBvciBhbWVuZCBteSBwZXJzb25hbCBpbmZvcm1hdGlvbj88L2gzPg0KPHA+SWYgeW91IHdvdWxkIGxpa2UgdG8gYWNjZXNzIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24sIHlvdSBjYW46PC9wPg0KPHVsIGNsYXNzPSJjb250ZW50bGlzdCBicmVha2JlbG93c21hbGwiPg0KICAgIDxsaT5Xcml0ZSB0bzogQ3VzdG9tZXIgU2VydmljZXMsIFFTUiBJbnRlcm5hdGlvbmFsLCAybmQgRmxvb3IsIDY1MSBEb25jYXN0ZXIgUm9hZCwgRG9uY2FzdGVyLCBWaWN0b3JpYSAzMTA4LCBBdXN0cmFsaWE7PC9saT4NCiAgICA8bGk+RW1haWw6IDxhIGhyZWY9Im1haWx0bzppbmZvQHFzcmludGVybmF0aW9uYWwuY29tIj5pbmZvQHFzcmludGVybmF0aW9uYWwuY29tPC9hPjsgb3I8L2xpPg0KICAgIDxsaT5DYWxsIFFTUiBvbjogKzYxIDMgOTg0MCAxMTAwLjxiciAvPg0KICAgIDxiciAvPg0KICAgIFlvdSdsbCBuZWVkIHRvIHByb3ZpZGUgYSBmb3JtIG9mIGlkZW50aWZpY2F0aW9uIGJlZm9yZSBhY2Nlc3NpbmcgeW91ciBkZXRhaWxzLjwvbGk+DQo8L3VsPg0KPC9kaXY+DQo8ZGl2IGNsYXNzPSJzZWN0aW9uIj4NCjxoMyBjbGFzcz0ic2VjdGlvbnRpdGxlIj5Ib3cmbmJzcDtjYW4gSSZuYnNwO3Vuc3Vic2NyaWJlIGZyb20gUVNSIGNvbW11bmljYXRpb25zPzwvaDM+DQo8cD5JZiB5b3UgZG9uJ3Qgd2FudCB0byBiZSBjb250YWN0ZWQgYnkgdXMgYWJvdXQgUVNSIHNvZnR3YXJlLCBxdWFsaXRhdGl2ZSByZXNlYXJjaCBvciBvdGhlciBwcm9tb3Rpb25zIGFuZCBldmVudHMsIHBsZWFzZTo8L3A+DQo8dWwgY2xhc3M9ImNvbnRlbnRsaXN0IGJyZWFrYmVsb3dzbWFsbCI+DQogICAgPGxpPldyaXRlIHRvOiBDdXN0b21lciBTZXJ2aWNlcywgUVNSIEludGVybmF0aW9uYWwsIDJuZCBGbG9vciwgNjUxIERvbmNhc3RlciBSb2FkLCBEb25jYXN0ZXIsIFZpY3RvcmlhIDMxMDgsIEF1c3RyYWxpYTs8L2xpPg0KICAgIDxsaT5FbWFpbDogPGEgaHJlZj0ibWFpbHRvOmluZm9AcXNyaW50ZXJuYXRpb25hbC5jb20iPmluZm9AcXNyaW50ZXJuYXRpb25hbC5jb208L2E+OyBvcjwvbGk+DQogICAgPGxpPkNhbGwgUVNSIG9uOiArNjEgMyA5ODQwIDExMDAuPC9saT4NCjwvdWw+DQo8L2Rpdj5kZAIFD2QWAgIBD2QWBmYPZBYCAgEPFgIfAwIEFghmD2QWBGYPFQMAIXByb2R1Y3RzX2ZyZWUtdHJpYWwtc29mdHdhcmUuYXNweABkAgEPDxYCHwEFHURvd25sb2FkIGZyZWUgdHJpYWwgc29mdHdhcmUgZGQCAQ9kFgRmDxUDABxzdXBwb3J0X2dldHRpbmctc3RhcnRlZC5hc3B4AGQCAQ8PFgIfAQUZR2V0dGluZyBzdGFydGVkIHJlc291cmNlc2RkAgIPZBYEZg8VAwAbc29sdXRpb25zX3Rlc3RpbW9uaWFscy5hc3B4AGQCAQ8PFgIfAQURUmVhZCB0ZXN0aW1vbmlhbHNkZAIDD2QWBGYPFQMAE25ld3Nfd2hhdHMtbmV3LmFzcHgAZAIBDw8WAh8BBQpXaGF0J3MgbmV3ZGQCAQ9kFgYCAQ8WBB8EBQEgHwUFVi9JbWFnZVJlc291cmNlSGFuZGxlci5hc2h4L0h0bWxUZXh0RnJhZ21lbnRzL1RpdGxlSW1hZ2VGaWxlLzQ0Ni8tLS9JbmZvcm1hdGlvbi1mb3IuZ2lmZAIDD2QWAgIBDw8WAh8BBcwBPHVsPg0KICAgIDxsaT48YSBocmVmPSJzb2x1dGlvbnNfZWR1Y2F0aW9uLmFzcHgiPkVkdWNhdGlvbjwvYT48L2xpPg0KICAgIDxsaT48YSBocmVmPSJzb2x1dGlvbnNfY29tbWVyY2lhbC5hc3B4Ij5Db21tZXJjaWFsPC9hPjwvbGk+DQogICAgPGxpPjxhIGhyZWY9InNvbHV0aW9uc19nb3Zlcm5tZW50LmFzcHgiPkdvdmVybm1lbnQ8L2E+PC9saT4NCjwvdWw+ZGQCBQ8WAh8CaGQCAg9kFgYCAQ8WBB8EBQEgHwUFUS9JbWFnZVJlc291cmNlSGFuZGxlci5hc2h4L0h0bWxUZXh0RnJhZ21lbnRzL1RpdGxlSW1hZ2VGaWxlLzk2NS8tLS9Db250YWN0LXVzLmdpZmQCAw9kFgICAQ8PFgIfAQV0PHA+SGF2ZSBhIHF1ZXN0aW9uPyZuYnNwOzwvcD4NCjx1bD48YnIgLz4NCiAgICA8bGk+PGEgaHJlZj0iY29udGFjdC5hc3B4Ij5Db250YWN0IFFTUjwvYT48L2xpPg0KPC91bD4NCjxwPiZuYnNwOzwvcD5kZAIFDxYCHwJoZGTHJOEgaHPcovwwJFU4RfVBxFKsTQ==">
     
         
 
@@ -163,23 +213,17 @@
 			<div class="l">
 				 
 					
-
-
-    <div id="navigation_third">
-
-        
-
-    </div>
-
+<div id="navigation_third">
+    
+</div>
 
 					
 
 <div class="section">
-	<h3><img src="/ImageResourceHandler.ashx/HtmlTextFragments/TitleImageFile/526/--/Company-brochure.gif" bindid="TitleImageFile" binder="HTMLBinder" alt=" " title=""></h3>
+	<h3><img src="/ImageResourceHandler.ashx/HtmlTextFragments/TitleImageFile/978/--/Company-brochure.gif" bindid="TitleImageFile" binder="HTMLBinder" alt=" " title=""></h3>
 
 	<div id="ctl00_ctl00_BaseContent_leftPanel_leftSideModules_ctl00_NoImageDiv" class="c">
         <p class="breakbelow"><span bindid="Content" binder="HTMLBinder"></span></p><p>Want to know more about QSR? Read our company brochure.</p>
-<p>&nbsp;</p>
 <ul style="margin-bottom: 0px">
     <li><a target="_blank" href="FileResourceHandler.ashx/RelatedDocuments/DocumentFile/499/QSR_Company_Brochure.pdf">Download PDF</a></li>
 </ul><p></p>
@@ -203,77 +247,64 @@
         <p class="subintro"><span binder="PageContentBinder" bindid="Overview"></span></p>
 
 		<span binder="PageContentBinder" bindid="Content1"><div class="section">
-<h3 class="sectiontitle">How is your information collected?</h3>
-<p>When you visit our website, our server logs the following information:</p>
+<h3 class="sectiontitle">What information does QSR International collect from customers and website visitors, and how is it used?</h3>
+<p>In some circumstances we may ask you for information that identifies you and allows us to provide the product, service or information you have requested. We may ask for this information, for example, when you:</p>
 <ul class="contentlist breakbelowsmall">
-    <li>The type of browser and operating system you are using.</li>
-    <li>The address of any referring website or search engine.</li>
-    <li>Your computer's IP (Internet Protocol) address (a number which is unique to the machine through which you are connected to the Internet).</li>
+    <li>Download trial software or service packs</li>
+    <li>Purchase QSR products and services</li>
+    <li>Activate QSR software products</li>
+    <li>Register for QSR training or events</li>
+    <li>Subscribe to the QSR Newsletter</li>
 </ul>
-<p>This information is provided by your browser and is stored for statistical purposes. We use it for website traffic analysis and system administration purposes only. No attempt will be made to identify users or their browsing activities.</p>
-</div>
-<div class="section">
-<h3 class="sectiontitle">Personal information</h3>
-<p>In some instances we will ask you for information that identifies you or allows us to contact you. This might occur, for example, in the following contexts:</p>
-<ul class="contentlist breakbelow">
-    <li>Trial software or service pack downloads.</li>
-    <li>Purchasing QSR products and services online.</li>
-    <li>Product activation.</li>
-    <li>Participation in QSR training and events.</li>
-    <li>Newsletter subscriptions.</li>
-    <li>QSR Forum registrations.</li>
-    <li>Completion of a 'My Feedback' form.</li>
-    <li>Applying to become a trainer or consultant.</li>
-    <li>Requesting to be contacted via a contact form.</li>
-    <li>Product information requests by phone, fax or email.</li>
-    <li>Asking for support via the support request form.</li>
-</ul>
-</div>
-<div class="section">
-<h3 class="sectiontitle">What personal information do we collect?</h3>
-<p>You may be required to provide all or some of the following information depending on the type of request or transaction:</p>
+<p>Depending on the type of request or transaction, you may be asked to provide information such as your name, contact details, software license key and/or credit card details.</p>
+<p>We will use your personal information to provide the service(s), information or products you have requested or to carry out the transaction(s) you have authorized. Where necessary we disclose this information to authorized QSR partners to undertake this activity on our behalf. Your personal information may also be used so that we can better tailor our products and services to your needs or determine your level of satisfaction with our services.</p>
+<p>In some circumstances, we may also collect other information that allows us to improve our software or services to better meet your needs:</p>
 <ul class="contentlist breakbelowsmall">
-    <li>Name.</li>
-    <li>Position.</li>
-    <li>Department.</li>
-    <li>Organization.</li>
-    <li>Phone number.</li>
-    <li>Mailing or billing address.</li>
-    <li>Email.</li>
-    <li>Software license key.</li>
-    <li>User particulars e.g. industry type, topics of interest etc.</li>
-    <li>Credit card details.</li>
-    <li>Student identification number.</li>
+    <li>When you visit our website, we collect information such as the type of web browser and operating system you are using, the address of any referring website or search engine, or your computer’s IP (Internet Protocol) address (a number which is unique to the machine through which you are connected to the Internet). This information is provided by your web browser and is stored for statistical purposes. We use it for website traffic analysis and system administration purposes only. No attempt will be made to identify users or their browsing activities.</li>
+    <li>Some QSR software products give you the option to participate in a “customer experience improvement program” or report software errors to QSR. You may opt in or out of these capabilities. Refer to your software’s Help documentation for further details. Where you opt in, QSR may collect information such as how frequently particular software features are used, or details of software errors that occur. This information will not include any personal details about you or any details of the data you are working with, and will be used for the sole purpose of improving our software products.</li>
+    <li>From time to time we may conduct surveys and beta testing programs to better understand your needs and your opinions about our software and services.</li>
+    <li>When you request support from QSR, we may ask you to send us copies of certain documents or projects in order to diagnose your problem. If you choose to do so, these documents and projects will be securely kept at QSR premises, we will take reasonable steps to destroy them when the problem is resolved, and the information contained in them will not be disclosed to third parties.</li>
 </ul>
+<p>QSR International is committed to the responsible use of your personal details, and complies with the Australian Federal Privacy Act 1988.</p>
 </div>
 <div class="section">
-<h3 class="sectiontitle">How your personal information is used</h3>
-<p>We will use your personal information to provide the service(s), information or products you have requested or to carry out the transaction(s) you have authorized. Where necessary we disclose this information to authorized QSR partners to undertake this activity on our behalf. Your personal information may also be used so that we can better tailor our services to your needs or determine your level of satisfaction with our services.</p>
+<h3 class="sectiontitle">What information is not collected by QSR International?</h3>
+<p>QSR does not collect any details of the data you are working with when you use our software products. This includes any data that you create, import or capture using NVivo, NCapture, XSight or NUD*IST. This data is stored only in the projects or files that you direct the software to save the data to.</p>
+<p>In particular, NCapture (a QSR software product for capturing data from resources such as web pages and social media sites) stores the data you capture only in the files you create.</p>
+<p>When using NCapture to capture data from social media sites (such as Facebook, Twitter or LinkedIn), you may be asked by the social media site whether you wish to grant NCapture permission to collect particular kinds of data. Choosing to grant these permissions to NCapture:</p>
+<ul class="contentlist breakbelowsmall">
+    <li>Does not allow NCapture to capture any data that you, as a user of that social media site, do not yourself have access to</li>
+    <li>Does not cause NCapture to send any captured data to QSR</li>
+</ul>
+<p>When you import social media data captured using NCapture into NVivo, you have the option to exclude some unwanted information (such as individuals’ age, gender or religion). Refer to the Help documentation in NCapture and NVivo for further details.</p>
 </div>
 <div class="section">
-<h3 class="sectiontitle">Protecting your privacy</h3>
-<p>We may share your personal information with an authorized QSR partner, who is in your geographic region or speaks your language, to ensure that you have the best resources and&nbsp;information available to service your needs. Occasionally, we may collect, use or disclose your personal information to a third party for the purpose of facilitating the distribution of customer satisfaction surveys to you. Where this is the case, we will only do so after first obtaining your permission.</p>
+<h3 class="sectiontitle">With whom may QSR International share the information it collects?</h3>
+<p>We may share your personal information with an authorized QSR partner, who is in your geographic region or speaks your language, to ensure that you have the best resources and information available to service your needs. Occasionally, we may collect, use or disclose your personal information to a third party for the purpose of facilitating the distribution of customer satisfaction surveys to you. Where this is the case, we will only do so after first obtaining your permission.</p>
+</div>
+<div class="section">
+<h3 class="sectiontitle">How does QSR International protect customer information?</h3>
 <p>We protect your personal information by using SSL encryption to collect your details and process online payment transactions. Online orders are transacted via a secure server and all the information is encrypted before it is passed on to QSR.</p>
 </div>
 <div class="section">
-<h3 class="sectiontitle">How to check or amend your personal information</h3>
+<h3 class="sectiontitle">How can I check or amend my personal information?</h3>
 <p>If you would like to access your personal information, you can:</p>
 <ul class="contentlist breakbelowsmall">
     <li>Write to: Customer Services, QSR International, 2nd Floor, 651 Doncaster Road, Doncaster, Victoria 3108, Australia;</li>
     <li>Email: <a href="mailto:info@qsrinternational.com">info@qsrinternational.com</a>; or</li>
-    <li>Call QSR on: +61 3 9840 1100.</li>
+    <li>Call QSR on: +61 3 9840 1100.<br>
+    <br>
+    You'll need to provide a form of identification before accessing your details.</li>
 </ul>
-<p>You'll need to provide a form of identification before accessing your details.</p>
 </div>
 <div class="section">
-<h3 class="sectiontitle">How to unsubscribe from QSR communications</h3>
+<h3 class="sectiontitle">How&nbsp;can I&nbsp;unsubscribe from QSR communications?</h3>
 <p>If you don't want to be contacted by us about QSR software, qualitative research or other promotions and events, please:</p>
 <ul class="contentlist breakbelowsmall">
     <li>Write to: Customer Services, QSR International, 2nd Floor, 651 Doncaster Road, Doncaster, Victoria 3108, Australia;</li>
     <li>Email: <a href="mailto:info@qsrinternational.com">info@qsrinternational.com</a>; or</li>
     <li>Call QSR on: +61 3 9840 1100.</li>
 </ul>
-<p>QSR International is committed to the responsible use of your personal details, and complies with the Australian Federal Privacy Act 1988.</p>
 </div></span>
 
 	</div>
@@ -343,11 +374,11 @@
 <div class="clear">&nbsp;</div>
 
 <div class="section">
-	<h3><img src="/ImageResourceHandler.ashx/HtmlTextFragments/TitleImageFile/434/--/Contact-us.gif" bindid="TitleImageFile" binder="HTMLBinder" alt=" " title=""></h3>
+	<h3><img src="/ImageResourceHandler.ashx/HtmlTextFragments/TitleImageFile/965/--/Contact-us.gif" bindid="TitleImageFile" binder="HTMLBinder" alt=" " title=""></h3>
 
 	<div id="ctl00_ctl00_BaseContent_rightSideModules_ctl02_NoImageDiv" class="c">
         <p class="breakbelow"><span bindid="Content" binder="HTMLBinder"></span></p><p>Have a question?&nbsp;</p>
-<ul>
+<ul><br>
     <li><a href="contact.aspx">Contact QSR</a></li>
 </ul>
 <p>&nbsp;</p><p></p>
@@ -378,7 +409,7 @@
 
     <div id="footer">
 	<div class="l">
-		<div class="first item">© QSR International Pty Ltd 2011</div>
+		<div class="first item">© QSR International Pty Ltd 2012</div>
 		<div class="item"><a href="http://www.dtdigital.com.au/" target="_blank">website by DTDigital</a></div>
 	</div>
 	<div class="r">
