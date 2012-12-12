@@ -1,39 +1,71 @@
-> *The following text is extracted and transformed from the amourvert.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524031129id_/http%3A//www.amourvert.com/pages.php%3Fpageid%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amourvert.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212175500id_/http%3A//www.amourvert.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-Your Privacy on AmourVert.com
+**PRIVACY POLICY**
 
-This policy covers how Amour Vert treats personal information that Amour Vert collects and receives, including information related to your past use of Amour Vert products. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of companies that Amour Vert does not own or control, or to people that Amour Vert does not employ or manage.
+This Privacy Policy was last updated on June 2nd , 2012.
 
-Collecting Information
+**Our Policy :**
 
-Amour Vert collects personal information when you register with Amour Vert, when you use Amour Vert products, when you visit Amour Vert pages or the pages of certain Amour Vert partners, and when you enter promotions or sweepstakes. Amour Vert may combine information about you that we have with information we obtain from business partners or other companies. When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with Amour Vert and sign in to our services, you are not anonymous to us. Amour Vert automatically receives and records information on our server logs from your browser, including your IP address, Amour Vert cookie information, and the page you request. Amour Vert uses information for the following general purposes: to customize the content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+Welcome to the web site (the “ **Site** ”) of Amour Vert, Inc. (“ **Amour Vert** ”, “we”, “us” and/or “our”). This Site is operated by Amour Vert and has been created to provide information about our company and its creative collaboration services   (the “ **Services** ”) to our users (“you”, “your”). This Privacy Policy sets forth Amour Vert’s policy with respect to information including personally identifiable data (“ **Personal Data** ”) and other information that is collected from Site visitors and users of the Services.
 
-Cookies
+**Information We Collect :**
 
-Amour Vert may set and access Amour Vert 'cookies' on your computer. Amour Vert lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one.
+When you interact with us through the Site or the Services, we may collect Personal Data and other information from you, as further described below:
 
-Your Information
+**                 Personal Data That You Provide Through the Site: **We collect Personal Data from you when you voluntarily provide such information such as when you register for access to the Services, use certain Services, contact us with inquiries or respond to one of our surveys. Wherever Amour Vert collects Personal Data we make an effort to provide a link to this Privacy Policy.
 
-You can edit your Amour Vert account information at any time. We reserve the right to send you certain communications relating to the Amour Vert service, such as service announcements, administrative messages and the Amour Vert Newsletter, that are considered part of your Amour Vert account, without offering you the opportunity to opt-out of receiving them. You can delete your account by contacting Amour Vert.
+**By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Amour Vert and the authorized third parties referred to herein located in the United States.**
 
-Confidentiality and Security
+**Non-Identifiable or Aggregated Data _:_** When you interact with Amour Vert through the Site or Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Amour Vert may store such information itself or such information may be included in databases owned and maintained by Amour Vert affiliates, agents or service providers. This Site may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, the domain names of our visitors' Internet service providers, and how our users use and interact with the Amour Vert Service.  Also, in an ongoing effort to better understand and serve the users of the Services, Amour Vert often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis.  Amour Vert may share this non-identifiable and aggregate data with its affiliates, agents and business partners, but this type of non-identifiable and aggregate information does not identify you personally. Amour Vert may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
 
-We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
+                In operating this Site, we may also use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Site gives to your browser when you access the Site. Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Site without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site’s features.
 
-Protecting Your Information
+**Our Use of Your Personal Data and Other Information :**
 
-Amour Vert does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+Amour Vert uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. Amour Vert and its subsidiaries and affiliates (the “Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Site to help us improve the content and functionality of the Site, to better understand our users and to improve the Services. Amour Vert and its Related Companies may use this information to communicate with you regarding the Services or to tell you about services we believe will be of interest to you. If we do so, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. Note however that as user of the Service you cannot opt-out of some administrative communications that are reasonably necessary to the Service, such as billing or service notifications.  In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
 
-We provide the information to trusted partners who work on behalf of or with Amour Vert under confidentiality agreements. These companies may use your personal information to help Amour Vert communicate with you about offers from Amour Vert and our marketing partners.
+If Amour Vert intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
 
-We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
+**Our Disclosure of Your Personal Data and Other Information :**
 
-We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Amour Vert' terms of use, or as otherwise required by law.
+Amour Vert is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:
 
-We transfer information about you if Amour Vert is acquired by or merged with another company. In this event, Amour Vert will notify you before information about you is transferred and becomes subject to a different privacy policy.
+**                 Business Transfers:** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. 
 
-Policy Updates
+**                 Related Companies: **We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.
 
-Amour Vert may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Amour Vert account or by placing a prominent notice on our site.
+                **Agents, Consultants and Related Third Parties:** Amour Vert, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.         
+
+**                 Legal Requirements: **Amour Vert may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Amour Vert, (iii) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (iv) protect against legal liability.
+
+**Your Choices :**
+
+You can use the Site without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain Services.
+
+**Exclusions :**
+
+This Privacy Policy does not apply to any Personal Data collected by Amour Vert other than Personal Data collected through the Site or Services. This Privacy Policy shall not apply to any unsolicited information you provide to Amour Vert through this Site or through any other means. This includes, but is not limited to, information posted to any public areas of the Site, such as bulletin boards (collectively, “Public Areas”), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and Amour Vert shall be free to reproduce, use, disclose, distribute and exploit such Unsolicited Information without limitation or attribution. ****
+
+**Children :**
+
+Amour Vert does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Site. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on this Site without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Amour Vert through this Site, please contact us, and we will endeavor to delete that information from our databases.
+
+This Privacy Policy applies only to the Site. This Site may contain links to other web sites not operated or controlled by Amour Vert (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from this Site do not imply that Amour Vert endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+
+**Integrating Third Party Services within the Services** :
+
+One of the special features of the Service is that it allows you to enable various online third party services, such as social media and networking services, (“Third Party Services”) to be directly integrated into your Amour Vert experience. By directly integrating these services, we make your online experiences richer, and more personalized. To take advantage of this feature, we will ask you to provide us your username and password for the relevant Third Party Services. By enabling such Third Party Services, you are allowing us to pass your log-in information to these service providers for this purpose. When you add a Third Party Service account to the Service, we will collect your login information and other relevant information necessary to enable the Service to access that Third Party Service and your data contained within that Third Party Service.  However, please remember that the manner in which Third Party Services use, store and disclose your information is governed solely by the policies of such third parties, and Amour Vert shall have no liability or responsibility for the privacy practices or other actions of any Third Party Service that may be enabled within the Service.
+
+Amour Vert takes reasonable steps to protect the Personal Data provided via the Site from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet, email or other electronic transmission is ever fully secure or error free, so you should take special care in deciding what information you send to us in this way.
+
+Your access to and use of this Site is subject to the **Terms of Service. **
+
+The Site and our business may change from time to time. As a result, at times it may be necessary for Amour Vert to make changes to this Privacy Policy. Amour Vert reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+
+To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via this Site or Services.
+
+Please also feel free to contact us if you have any questions about Amour Vert’s Privacy Policy or the information practices of this Site.
+
+You may contact us as follows: info@amourvert.com
