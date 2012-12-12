@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the citymax.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621223943id_/http%3A//www.citymax.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citymax.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212070329id_/http%3A//www.citymax.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Website Builder Privacy Policy – Build Your Own Website with CityMax.com
+# CityMax.com Privacy Policy
 
 CityMax is committed to protecting the privacy of each of its users. We want you to feel free to express yourself within your web pages (within legal limitations) and we are committed to allowing you to feel secure in your own private environment, putting you in control of what you share. 
-
-## CityMax.com Privacy Policy 
 
 CityMax values the privacy of visitors to its site. This Privacy Policy describes the type of information we collect from you, and what we do with that information. The privacy policy shall be accepted as part of the Terms of Service. 
 
@@ -34,7 +32,7 @@ We use cookies to determine whether you are logged on to our site, to maintain y
 
 How to get more information? 
 
-If you have any questions about this Privacy Policy, you may contact us through either the email support feature in your website (log in at "CityMax", go to "help", "ask at question to support", "other") or through the email help feature on the CityMax home page (go to the help link, "ask a question"). Or by mail to 313 - 1 Alexander Street, Vancouver, BC V6A 1B2 Canada. 
+If you have any questions about this Privacy Policy, you may contact us through either the email support feature in your website (log in at "CityMax", go to "help", "ask at question to support", "other") or through the email help feature on the CityMax home page (go to the help link, "ask a question"). Or by mail to PO Box 12043 555 West Hastings Street, Vancouver, BC V6B 4N4 Canada. 
 
 General
 
