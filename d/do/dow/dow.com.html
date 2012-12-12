@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dow.com privacy policy that was archived on 2012-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623083743id_/http%3A//www.dow.com/homepage/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dow.com privacy policy that was archived on 2012-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121212052858id_/http%3A//www.dow.com/homepage/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
   
@@ -17,18 +17,29 @@
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/default.js"></script>
 
 
-	<script>!window.jQuery && document.write('<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"><\/script>');</script><script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write('<script src="/scripts/jquery-1.7.1.min.js "><\/script>');</script><script src="/scripts/jquery-1.7.1.min.js "></script>
+<script type="text/javascript" src="/scripts/jquery-1.7.1.min.js"></script>
+
+
+	<script>!window.jQuery && document.write('<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"><\/script>');</script>
+  <script>!window.jQuery && document.write('<script src="/scripts/jquery-1.8.0.min.js"><\/script>');</script>
 	<script>!window.jQuery && document.write('<script src="/scripts/jquery.js"><\/script>');</script>
+
+<script type="text/javascript" src="/scripts/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/scripts/jquery.lavalamp-1.3.5.min.js"></script>
+
 
 
 
 <script type="text/javascript" language="javascript">
-$(document).ready(function(){
+$(function() {
+	//Setup / Init Lavalamp
+	$('.dropdown li').addClass('noLava');
+	var selected = $('.main-nav-hnav-table-selected').addClass('selectedLava').length;
+	if(!selected) var lavalamp = { homeLeft:-1,homeHeight:18,returnHome:true };
+	$('.main-nav > ul').lavaLamp(lavalamp || {});
+	
 	var searchBox2 = $("#search-box-text");
-	
 	if(searchBox2.attr("value") == "") searchBox2.addClass("searchboxbg");
-	
 	searchBox2.focus(function(){
 		$(this).removeClass("searchboxbg")
 	});
@@ -43,14 +54,12 @@ var winsize="toolbar=no,width=700,height=600";
 
 function deli()
 {
-
 window.open('http://del.icio.us/post?v=4&noui&jump=close&url='+myloc+'&title='+mytitle , 'delicious','winsize'); 
 return false;
 }
 
 function digg()
 {
-
 window.open('http://digg.com/remote-submit?url=' + myloc + '&title=' + mytitle + '&media=NEWS&topic=BUSINESS_FINANCE', 'digg','winsize');
 return false;
 }
@@ -83,7 +92,6 @@ function preload(){
 	for(i=0;i<args.length;i++){IMAGE_PRELOAD.push(args[i])}
 }
 </script>
-
 
   <script type="text/javascript">
 
@@ -125,6 +133,8 @@ function preload(){
 
 </script>
 
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-509acd6f61c6eec4">// Corporate Default</script>
+
 </head><body>
 <div class="container">
 <div class="main">
@@ -132,40 +142,14 @@ function preload(){
 	<!-- Dow Diamond -->
 	<a href="http://www.dow.com"><img src="/images/corporate2012/corporate_elements/dow-logo.png" alt="The Dow Chemical Company Logo" border="0" class="header-logo"></a>		
 	<!-- Social Media Icons -->
-<script>  
- var myloc=location.href;  
- var mytitle=document.title;  
- var winsize="toolbar=no,width=700,height=600";  
-  
- function face()  
- {  
- window.open('http://www.facebook.com/pages/The-Dow-Chemical-Company/171697336181460','winsize');  
- return false;  
- }  
-  
- function twit()  
- {  
- window.open('http://www.twitter.com/DowChemical','winsize');  
- return false;  
- }  
-  
- function linkin()  {
- window.open('http://www.linkedin.com/company/2562','winsize');  
- return false;  
- }  
-  
- function utube() {
- window.open('http://www.youtube.com/dowchemicalcompany','winsize');  
- return false;  
- }  
- </script>  
-	
 	<div class="social">
-		<a href="/social/" class="socdisplay">Social Display</a>
-		<a href="#" class="youtube" onclick="utube()">YouTube</a>
-		<a href="#" class="linkedin" onclick="linkin()">LinkedIn</a>
-		<a href="#" class="twitter" onclick="twit()">Twitter</a>
-		<a href="#" class="facebook" onclick="face()">Facebook</a>
+		<!-- <a href="http://www.dow.com/social/" class="socdisplay">Social Display</a> -->
+		<a href="http://www.youtube.com/dowchemicalcompany" class="youtube" target="_blank">YouTube</a>
+		<a href="http://www.linkedin.com/company/2562" class="linkedin" target="_blank">LinkedIn</a>
+		<a href="https://twitter.com/DowChemical" class="twitter" target="_blank">Twitter</a>
+		<a href="http://www.facebook.com/pages/The-Dow-Chemical-Company/171697336181460" target="_blank" class="facebook">Facebook</a>
+		<a href="http://pinterest.com/dowchemical/" target="_blank" class="pinterest">Pinterest</a>
+		<a href="https://plus.google.com/103155547656737587215/" target="_blank" class="google">Google+</a>
 	</div>
 
 	<!-- Search Bar -->
@@ -191,32 +175,33 @@ function preload(){
 	</form>
 </div>
 <div class="main-nav">
-<ul>
+<ul style="position: relative;"><li class="backLava" style="position: absolute; display: block; margin: 0px; padding: 0px; left: 186.016px; top: 2px; width: 69px; height: 25px;"><div class="leftLava"></div><div class="bottomLava"></div><div class="cornerLava"></div></li>
 <li class="main-nav-hnav-table-unselected"><a href="/solutions/">Solutions</a></li>
 <li class="main-nav-hnav-table-unselected"><a href="/products/">Products</a></li>
-<li class="main-nav-hnav-table-selected"><a href="/company/">Company</a>
-<div class="dropdown" style="height:150px">
+<li class="main-nav-hnav-table-selected selectedLava"><a href="/company/">Company</a>
+<div class="dropdown" style="height:173px">
 <ul class="left-dd">
-	<li><a href="/solutionism/">Solutionism</a></li>
-	<li><a href="/energy/">Energy</a></li>
-	<li><a href="/company/discoverdow/">Discover Dow</a></li>
-	<li><a href="/company/sponsorship/">Initiatives &amp; Sponsorships</a></li>
-	<li><a href="/company/beliefs/">Beliefs &amp; Culture</a></li>
-	<li><a href="/company/business/">Working with Dow</a></li>
-	<li><a href="/company/supplier/">Supplier Information</a></li>
+	<li class="noLava"><a href="/solutionism/">Solutionism</a></li>
+	<li class="noLava"><a href="/energy/">Energy</a></li>
+	<li class="noLava"><a href="/company/discoverdow/">Discover Dow</a></li>
+	<li class="noLava"><a href="/company/sponsorship/">Initiatives &amp; Sponsorships</a></li>
+	<li class="noLava"><a href="/olympicpartnership/">Worldwide Olympic Partner</a></li>
+	<li class="noLava"><a href="/company/beliefs/">Beliefs &amp; Culture</a></li>
+	<li class="noLava"><a href="/company/business/">Working with Dow</a></li>
+	<li class="noLava"><a href="/company/supplier/">Supplier Information</a></li>
 </ul>
 <ul class="right-dd link-arrow">
-	<li>
+	<li class="noLava">
 		<a href="/sustainability/"><img src="/images/corporate2012/dropdown/dd_sustainability.png" alt="Sustainability">
 		<span>Sustainability</span>
 		</a>
 	</li>
-	<li>
+	<li class="noLava">
 		<a href="/education/"><img src="/images/corporate2012/dropdown/dd_education.png" alt="Education">
 		<span>Education</span>
 		</a>
 	</li>
-	<li>
+	<li style="margin-right:0" class="noLava">
 		<a href="/innovation/"><img src="/images/corporate2012/dropdown/dd_innovation.png" alt="Innovation">
 		<span>Innovation</span>
 		</a>
@@ -514,7 +499,7 @@ Code of Business Conduct, please contact the Dow <a href="http://www.dow.com/abo
  
  
 <div style="margin-bottom:4px;" class="ir-homepage-b-newsbox">
-	<p><span class="link-redarrow"><a style="text-decoration:none;" href="http://www.dow.com/hu/">The Human Element</a></span></p>
+	<p><span class="link-redarrow">The Human Element</span></p>
 	<p><span class="link-redarrow"><a style="text-decoration:none;" href="http://www.dow.com/financial/joint_venture/">Joint Ventures & Subsidiaries</a></span></p>
 		<p><span class="link-redarrow"><a style="text-decoration:none;" href="http://www.dow.com/worldwide/index.htm">Locations</a></span></p>
 </div>
@@ -574,6 +559,7 @@ Code of Business Conduct, please contact the Dow <a href="http://www.dow.com/abo
 //DO NOT USE IMAGE_PRELOAD - Instead use preload(url)
 (function(imgs){for(i=0;i<imgs.length;i++){var img = new Image();img.src = imgs[i]}})(IMAGE_PRELOAD);
 </script>
+<script type="text/javascript" src="/scripts/corporate_addthis.js"></script>
 </div>
 
 
