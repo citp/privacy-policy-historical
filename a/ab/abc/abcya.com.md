@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcya.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628050727id_/http%3A//www.abcya.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcya.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212022311id_/http%3A//www.abcya.com/privacy.htm) for the most accurate reproduction.*
 
 # ABCya! Privacy Policy
 
