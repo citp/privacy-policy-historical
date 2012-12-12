@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditscore.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611222248id_/http%3A//www.creditscore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditscore.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212020420id_/http%3A//www.creditscore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CreditScore
 
@@ -9,7 +9,7 @@
 |   
 ---  
   
-_Last Revised: 1/14/2010_
+_Last Revised: 8/30/2012_
 
 ConsumerInfo.com, Inc. ("we" or "us") wants you to be familiar with what information we collect about you, how the information is being used and what choices you have regarding the collection and use of the information. This Privacy Policy (the "Policy") describes our practices in connection with information that we collect through our websites (collectively, the "Site"). Please take a moment to review this Policy and feel free to contact us with any questions at 1-877-297-7793.
 
@@ -26,6 +26,7 @@ _**Personal information.**_ We may collect the following types of personal infor
   * When you make a purchase through the Site, we may collect your credit card number or other payment account number, billing address and other information related to such purchase (collectively, **"Payment Information"** ) from you.
   * Other information we collect, such as city of birth and mother's maiden name, is used to verify your identity in the event you forget your login information required for our online products.
   * Information you provide us through customer service correspondence and general feedback.
+  * Video content you choose to submit to us, such as commentary about our products and services, testimonials, or other similar content you share through video.
 
 
 
