@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuffieldhealth.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623193615id_/http%3A//www.nuffieldhealth.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuffieldhealth.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212073338id_/http%3A//www.nuffieldhealth.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Nuffield Health
 
@@ -52,7 +52,7 @@ These cookies allow the website to remember choices you make (such as your user 
 
 These cookies are used to remember customer selections that change the way the site behaves or looks. It might also include cookies that are used to deliver a specific function, but where that function includes cookies used for behavioural/targeted advertising networks they must be included in category 4 as well as this category.
 
-Nuffield Health collects these types of cookies by functional use in clause 2.1 . By using nuffieldhealth.com you agree that we can place these types of cookies on your device
+Nuffield Health collects these types of cookies by functional use in clause 2.1. By using nuffieldhealth.com you agree that we can place these types of cookies on your device
 
 * * *
 
@@ -172,11 +172,11 @@ Our website may contain links to other websites which are outside of our control
 
 At any time you can request a copy of the information that we hold about you, including copies of your medical records (where relevant), by contacting:
 
-Data Protection Officer   
-40-44 Coombe Road  
-New Malden  
-Surrey  
-KT3 4QF
+**Data Protection Officer  **  
+ **40-44 Coombe Road**  
+ **New Malden**  
+ **Surrey**  
+ **KT3 4QF**
 
 If your details change or are incorrect please let us know.
 
@@ -192,10 +192,10 @@ We keep our privacy policy under regular review and as a result it may be amende
 
 If you have any questions in relation to our privacy policy please contact:
 
-Group Information Governance Manager  
-40-44 Coombe Road  
-New Malden  
-Surrey  
-KT3 4QF
+**Group Information Governance Manager**  
+ **40-44 Coombe Road**  
+ **New Malden**  
+ **Surrey**  
+ **KT3 4QF**
 
 This privacy policy should be read in conjunction with the [Nuffield Health website Terms and Conditions](https://web.archive.org/terms-and-conditions/ "Terms & Conditions").
