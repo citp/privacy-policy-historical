@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613234338id_/http%3A//www.powerarchiver.com/powerarchiver-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213004722id_/http%3A//www.powerarchiver.com/powerarchiver-privacy) for the most accurate reproduction.*
 
-# PowerArchiver – Privacy Policy | PowerArchiver
+# PowerArchiver – Privacy Policy | PowerArchiver – ZIP for Windows
 
 ### ConeXware Privacy Policy
 
@@ -58,9 +58,9 @@ ConeXware takes appropriate security measures to protect against unauthorized ac
 
 ### Updating Your Information
 
-To the extent that you do provide us with Personal Information, ConeXware wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting ConeXware should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may [contact us](https://web.archive.org/contact/) via e-mail with updates and corrections to your Personal Information.
+To the extent that you do provide us with Personal Information, ConeXware wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting ConeXware should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may [contact us](https://web.archive.org/?page_id=77) via e-mail with updates and corrections to your Personal Information.
 
-If you wish to request access to, or review your Personal Information please [contact us](https://web.archive.org/contact/) via e-mail.
+If you wish to request access to, or review your Personal Information please [contact us](https://web.archive.org/?page_id=77) via e-mail.
 
 ### Children’s Privacy
 
@@ -68,7 +68,7 @@ ConeXware’s Web sites and products are not structured to attract children. Acc
 
 ### Commitment to Privacy
 
-Protecting your privacy online is an evolving area, and ConeXware is committed to meeting these demands. For more information about our practices regarding specific information or services that are not covered in this Privacy Policy, please [contact us](https://web.archive.org/contact/).
+Protecting your privacy online is an evolving area, and ConeXware is committed to meeting these demands. For more information about our practices regarding specific information or services that are not covered in this Privacy Policy, please [contact us](https://web.archive.org/?page_id=77).
 
 ### U.S.-EU Safe Harbor Framework
 
