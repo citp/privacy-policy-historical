@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the moreover.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613211440id_/http%3A//www.moreover.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moreover.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212182935id_/http%3A//www.moreover.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Moreover Technologies
 
-###  **Moreover Technologies, Inc. Privacy Policy**
+### **Moreover Technologies, Inc. Privacy Policy**
 
 ####  _Last revised: 2/20/2012_
 
-Thank you for visiting [www.moreover.com](https://web.archive.org/web/20120613211440id_/http%3A/) (the “ **Website** ”). We value and respect your privacy, and this privacy policy (the “ **Privacy Policy** ”) is designed to assist you in understanding how we collect, use, and protect any information you may provide to us. Our Terms of Use available at [ **[http://www.moreover.com/terms-and-conditions](https://web.archive.org/terms-and-conditions)** ] ** ** describe the terms and conditions governing your access to and use of the Website and are incorporated herein by reference and form an essential part of the Privacy Policy. **Your use of the Website, and continued use of the Website following any changes to the Privacy Policy, signifies your consent to be legally bound by both the terms and conditions of the Privacy Policy and those set forth in our Terms of Use. If you do not agree to the terms of the Privacy Policy, please do not use the Website or provide any information to us.**
+Thank you for visiting [www.moreover.com](https://web.archive.org/web/20121212182935id_/http%3A/) (the “ **Website** ”). We value and respect your privacy, and this privacy policy (the “ **Privacy Policy** ”) is designed to assist you in understanding how we collect, use, and protect any information you may provide to us. Our Terms of Use available at [ **<http://moreover.com/general/terms-use-policy.html]> **describe the terms and conditions governing your access to and use of the Website and are incorporated herein by reference and form an essential part of the Privacy Policy. **Your use of the Website, and continued use of the Website following any changes to the Privacy Policy, signifies your consent to be legally bound by both the terms and conditions of the Privacy Policy and those set forth in our Terms of Use. If you do not agree to the terms of the Privacy Policy, please do not use the Website or provide any information to us.**
 
 #####  The Information We Collect
 
@@ -40,7 +40,7 @@ Our Website may contain links to other websites (such as those of our publishing
 
 #####  CHILDREN’S PRIVACY
 
-The Website is not directed to, and we do not knowingly collect Personal Information from, children under the age of 13. We recommend that parents actively participate in their children’s use of the Internet. If you are under 13 years of age, please do not use or access the Website at any time or in any manner. If you believe that you may have information regarding a person under 13 that you believe to have registered an account with, or otherwise provided Personal Information via, the Website, please contact us at [legal@moreover.com](mailto:legal@moreover.com).
+The Website is not directed to, and we do not knowingly collect Personal Information from, children under the age of 13. We recommend that parents actively participate in their children’s use of the Internet. If you are under 13 years of age, please do not use or access the Website at any time or in any manner. If you believe that you may have information regarding a person under 13 that you believe to have registered an account with, or otherwise provided Personal Information via, the Website, please contact us at legal [at] moreover [dot] com.
 
 #####  SECURITY PROCEDURES
 
