@@ -1,422 +1,867 @@
-<!--The following is the downloaded HTML source of the canada.com privacy policy that was archived on 2010-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100627235040id_/http%3A//www.canwestglobal.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the canada.com privacy policy that was archived on 2012-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121212010017id_/http%3A//o.canada.com/2012/08/10/privacy-statement) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- HEAD OPENER HERE --><!-- ABOVE LINE IS CRITICAL CODE AND PAGE HEADERS IMPORT SAME FOR ALL PAGES --><!-- DEFINE ANY PAGE ATTRIBUTES IN FOLLOWING BLOCK --><!-- DEFING ALL PAGE ATTRIBUTES IN ABOVE BLOCK --><!-- STANDARD HEADER  BELOW, SAME FOR ALL PAGES --><!-- END HEAD OPENER --><head>
-
-<script lang="JavaScript">
-  var DOMType;
-
-  function Initialize()
-  {
-    if (document.all)
-    {
-      DOMType = 'MS';
-      oLastPanel = document.all['NewspaperDivision'];
-      oLastDivision = document.all['Blank'];
-      oLastButton = document.all['DisplayAdsButton'];
-    }
-    else if (document.getElementById)
-    {
-      DOMType = 'W3C';
-      oLastPanel = document.getElementById('NewspaperDivision');
-      oLastDivision = document.getElementById('Blank');
-      oLastButton = document.getElementById('DisplayAdsButton');
-    }
-    else if (document.layers)
-    {
-      DOMType = 'NS4';
-      oLastPanel = document.layers['NewspaperDivision'];
-      oLastDivision = document.layers['Blank'];
-      oLastButton = document.layers['DisplayAdsButton'];
-    }
-    else
-    {
-      DOMType = 'None';
-    }
-  }
-
-  function ToggleMenuItem(strMenuName, iMenuLevel)
-  {
-    var oMenuItem, oCloseMenuItem, oMenuBottomBar, oCloseMenuBottomBar;
-    var strCloseMenuName, strParentMenuName;
-    var bKeepGoing;
-    var i, iLength;
-	var strMenuBottomBar, strCloseMenuBottomBar;
-	
-	strMenuBottomBar = strMenuName + '_Bottom'
-
-    if (DOMType == "MS")
-    {
-      oMenuItem = document.all[strMenuName];
-      oMenuBottomBar = document.all[strMenuBottomBar];
-    }
-    else if (DOMType == "W3C")
-    {
-      oMenuItem = document.getElementById(strMenuName);
-      oMenuBottomBar = document.getElementById(strMenuBottomBar);
-    }
-    else if (DOMType == "NS4")
-    {
-      oMenuItem = document.layers[strMenuName];
-      oMenuBottomBar = document.layers[strMenuBottomBar];
-    }
-
-    if (oMenuItem.style.display == "inline")
-    {
-      oMenuItem.style.display = "none";
-      if (oMenuBottomBar)
-	  {
-		  oMenuBottomBar.style.display = "inline";
-	  }
-    }
-    else
-    {
-
-      iLength = strMenuName.length - 1;
-      bFound = false;
-      i = iLength
-      while (i > 0 && !bFound)
-      {
-        i = i - 1
-        if (strMenuName.charAt(i) == '_')
-        {
-          strParentMenuName = strMenuName.substr(0, i + 1)
-          bFound = true;;
-        }
-      }
-
-      i = 0
-      bKeepGoing = true;
-      while (bKeepGoing)
-      {
-        strCloseMenuName = strParentMenuName + i
-		strCloseMenuBottomBar = strCloseMenuName + '_Bottom';
-        if (DOMType == "MS")
-        {
-          oCloseMenuItem = document.all[strCloseMenuName];
-          oCloseMenuBottomBar = document.all[strCloseMenuBottomBar];
-        }
-        else if (DOMType == "W3C")
-        {
-          oCloseMenuItem = document.getElementById(strCloseMenuName);
-		  oCloseMenuBottomBar = document.getElementById(strCloseMenuBottomBar);
-
-        }
-        else if (DOMType == "NS4")
-        {
-          oCloseMenuItem = document.layers[strCloseMenuName];
-          oCloseMenuBottomBar = document.layers[strCloseMenuBottomBar];
-        }
-
-        if (oCloseMenuItem != null)
-        {
-          oCloseMenuItem.style.display = "none";
-          if (oCloseMenuBottomBar)
-         {
-            oCloseMenuBottomBar.style.display = "inline";
-          }
-          i += 1;
-        }
-        else
-        {
-          bKeepGoing = false;
-        }
-      }
-      oMenuItem.style.display = "inline";
-      if (oMenuBottomBar)
-     {
-        oMenuBottomBar.style.display = "none";
-      }
-    }
-  }
-
-  Initialize();
+<!DOCTYPE html><html lang="en"><!--
+	generated in 0.733 seconds
+	70454 bytes batcached for 300 seconds
+--><head>
+	<title>  Privacy statement | canada.com</title>
+	<link rel="shortcut icon" href="http://s2.wp.com/wp-content/themes/vip/postmedia-canadadotcom/favicon.ico?m=1340791264g">
+			<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="http://r-login.wordpress.com/remote-login.php?action=js&amp;host=o.canada.com&amp;id=36965205&amp;t=1355274017&amp;back=o.canada.com%2F2012%2F08%2F10%2Fprivacy-statement%2F" type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="alternate" type="application/rss+xml" title="canada.com » Privacy&nbsp;statement Comments Feed" href="http://o.canada.com/2012/08/10/privacy-statement/feed/">
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
 </script>
+<link rel="stylesheet" id="all-css-0" href="http://s0.wp.com/_static/??-eJylzt0KwjAMBeAXsoZtDnYjPkuW1jWzfyztpm9vFfRGBMGr5OI7J4EtKQ7kijYCs0C2TJcxXt/LnkR2UBXFkE3I4ItKrkwcBFKUrM4OeQHJN2c+bLbG196V09N6oxkVYUCNOmaKHmoCSJPyyOGPeGG1Gax++fVfiwuH6TW/nbYHmFwc0T3AyR+bru+brh3aYb4DB6V0ig==" type="text/css" media="all">
+<script type="text/javascript">
+/* <![CDATA[ */
+var Postmedia = {"Urls":{"home_url":"http:\/\/o.canada.com","stylesheet_directory_uri":"http:\/\/s2.wp.com\/wp-content\/themes\/vip\/postmedia-canadadotcom","ajaxurl":"http:\/\/o.canada.com\/wp-admin\/admin-ajax.php"},"Properties":{"domain":"","userAgents":["mozilla","msie","webkit","ipad"],"mobileAgents":["iphone","ipod","android"],"isMobile":false,"isIpad":false,"isModal":false},"adConfig":{"site":"ccn_news.com","msite":"ccn.m","networkCode":"7010","keys":{"nk":"ccn","pr":"ccn","ck":"news","page":"story","cinf":["canada-com","information-privacy"],"aid":91123,"author":"thecanadadotcom"},"zone":"news\/story"},"Facebook":{"pageId":"380186209696","appId":"295961116800"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://s1.wp.com/_static/??/wp-includes/js/jquery/jquery.js,/wp-content/themes/vip/postmedia-canadadotcom/js/cdc-main-min.js?m=1354137473j"></script>
+<link rel="stylesheet" id="all-css-0" href="http://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1343991657g" type="text/css" media="all">
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='http://s2.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563g&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://postmediacanadadotcom.wordpress.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://postmediacanadadotcom.wordpress.com/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="About&nbsp;us" href="http://o.canada.com/2012/08/10/who-we-are/">
+<link rel="next" title="Contact&nbsp;us" href="http://o.canada.com/2012/08/10/contact-us/">
+<meta name="generator" content="WordPress.com">
+<link rel="canonical" href="http://o.canada.com/2012/08/10/privacy-statement/">
+<link rel="shortlink" href="http://wp.me/p2v6kZ-nHJ">
+<link rel="alternate" type="application/json+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fo.canada.com%2F2012%2F08%2F10%2Fprivacy-statement%2F&amp;for=wpcom-auto-discovery"><link rel="alternate" type="application/xml+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fo.canada.com%2F2012%2F08%2F10%2Fprivacy-statement%2F&amp;for=wpcom-auto-discovery"><link rel="openid.server" href="http://postmediacanadadotcom.wordpress.com/?openidserver=1">
+<link rel="openid.delegate" href="http://postmediacanadadotcom.wordpress.com/">
+<link rel="search" type="application/opensearchdescription+xml" href="http://o.canada.com/osd.xml" title="canada.com">
+<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com">
+		<style>
+		/* <![CDATA[ */
+		/* Block: reblog */
+		
+		.reblog-from img                   { margin: 0 10px 0 0; vertical-align: middle; padding: 0; border: 0; }
+		.reblogger-note img.avatar         { float: left; padding: 0; border: 0; }
+		.reblogger-note-content            { margin: 0 0 20px; }
+		.reblog-post .wpcom-enhanced-excerpt-content { border-left: 3px solid #eee; padding-left: 15px; }
+		.reblog-post ul.thumb-list         { display: block; list-style: none; margin: 2px 0; padding: 0; clear: both; }
+		.reblog-post ul.thumb-list li      { display: inline; margin: 0; padding: 0 1px; border: 0; }
+		.reblog-post ul.thumb-list li a    { margin: 0; padding: 0; border: 0; }
+		.reblog-post ul.thumb-list li img  { margin: 0; padding: 0; border: 0; }
+		
+		.reblog-post .wpcom-enhanced-excerpt { clear: both; }
+		
+		.reblog-post .wpcom-enhanced-excerpt address,
+		.reblog-post .wpcom-enhanced-excerpt li,
+		.reblog-post .wpcom-enhanced-excerpt h1,
+		.reblog-post .wpcom-enhanced-excerpt h2,
+		.reblog-post .wpcom-enhanced-excerpt h3,
+		.reblog-post .wpcom-enhanced-excerpt h4,
+		.reblog-post .wpcom-enhanced-excerpt h5,
+		.reblog-post .wpcom-enhanced-excerpt h6,
+		.reblog-post .wpcom-enhanced-excerpt p { font-size: 100% !important; }
+		
+		.reblog-post .wpcom-enhanced-excerpt blockquote,
+		.reblog-post .wpcom-enhanced-excerpt pre,
+		.reblog-post .wpcom-enhanced-excerpt code,
+		.reblog-post .wpcom-enhanced-excerpt q { font-size: 98% !important; }
+		
 
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-  <title>Canwest - Privacy Statement</title>
-  <meta name="keywords" content="index,follow,advertising,canwest,media,sales,search,mediaworks,planning,buying,corporate,broadcast,research,online,digital,marketing,print">
-  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+		/* ]]> */		
+		</style>
+				<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+		<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+		<meta name="DC.language" scheme="RFC1766" content="en">
+		<meta name="DC.coverage" content="World">
+		<meta name="DC.type" content="Text">
+		<meta name="DC.format" content="text/html">
+		<meta name="DC.date.created" content="2012-08-10T21:26:20-04:00">
+		<meta name="DC.date.issued" content="2012-08-10">
+		<meta name="DC.date.modified" content="2012-11-21T15:42:37-04:00">
+		<meta name="DC.date.valid" content="2012-11-21T15:42:37-04:00">
+		<meta name="DC.title" content="Privacy statement – canada.com">
+		<meta name="DC.creator" content=". All Rights Reserved.">
+		<meta name="DC.publisher" content=" 2012. All Rights Reserved.">
+		<meta name="DC.rights" content=" 2012. All Rights Reserved.">
+		<meta name="DC.identifier" content="http://o.canada.com/2012/08/10/privacy-statement/">
+		<meta name="DC.subject" content="canada.com,Information Privacy">
+		<meta name="DC.description" content="">
+		<meta name="DC.source" content="http://o.canada.com">
+			<meta name="title" content="Privacy statement | canada.com">
+		<meta name="description" content="">
+		<meta name="keywords" content="canada.com,Information Privacy">
+		<meta name="author" content="">
+		<meta name="copyright" content="Copyright  2012. All Rights Reserved.">
+		<meta http-equiv="charset" content="UTF-8">
+		<link rel="index" title="canada.com" href="http://o.canada.com">
+			<!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, target-densitydpi=medium-dpi">
+			<!-- Alternative -->
+		<link rel="alternate" type="application/rss+xml" title="Privacy statement   RSS Feed" href="http://o.canada.com/category/uncategorized/feed/">
+		<link rel="alternate" type="application/atom+xml" title="Atom Feed" href="http://o.canada.com/feed/atom/">
+	<meta name="application-name" content="canada.com"><meta name="msapplication-window" content="width=device-width;height=device-height"><meta name="msapplication-tooltip" content="Join the discussion"><meta name="msapplication-task" content="name=Subscribe;action-uri=http://o.canada.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0d83cac5bab29b7050bd98037aa8f58f?s=16"><!-- Facebook Opengraph meta tags -->
+<meta property="fb:app_id" content="295961116800">
+<meta property="fb:page_id" content="380186209696">
+<meta property="fb:admins" content="100002625504753">
+<meta property="og:site_name" content="canada.com">
+	<meta property="og:title" content="Privacy&nbsp;statement">
+<meta property="og:description" content="">
+<meta property="og:type" content="article">
 
-<link href="/css/all.css" rel="stylesheet" type="text/css" media="all">
-<link href="/css/menu.css" rel="stylesheet" type="text/css" title="stylesheet">
-<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/style/ie6.css" media="screen"/><![endif]-->
-<script src="/js/global-navbar.js" type="text/javascript"></script>
-<!-- HEAD OPENER HERE -->
+	<!--[if lte IE 9]>
+		<link href="http://s2.wp.com/wp-content/themes/vip/postmedia-canadadotcom/css/cdc-main.css?m=1351272614g" type="text/css" rel="stylesheet" />
+		<link href="http://s2.wp.com/wp-content/themes/vip/postmedia-canadadotcom/css/cdc-ui-ie-fontface.css?m=1340989635g" type="text/css" rel="stylesheet" />
+		<link href="http://s2.wp.com/wp-content/themes/vip/postmedia-canadadotcom/css/cdc-ie.css?m=1343316719g" type="text/css" rel="stylesheet" />
 
-<!-- STANDARD HEADER ABOVE, SAME FOR ALL PAGES -->
-<!-- ANY ADDITIONAL INSTRUCTIONS YOU WANT IN THE HEAD TAG PUT BETWEEN THIS AND THE NEXT COMMENT TAG -->
+		<script src="http://s2.wp.com/wp-content/themes/vip/postmedia-canadadotcom/js/respond/respond.min.js?m=1341000669g"></script>
 
-
-<!-- ANY ADDITIONAL ISNRUCTIONS CONTENT YOU WANT IN THE HEAD TAG PUT PETWEEN THIS AND THE PREVIOUS COMMENT TAG --> 
-<!--
-	6 Different headers are available for choice header on standard pages.  Key is as follows:
-		enlightenHeader.asp 		- blue: advertisiing section
-		enlightenHeader1.asp		- Blue: careers section
-		informHeader0.asp		- green: theCompany section
-		informHeader1.asp		- green: inVestors Section
-		informHeader2.asp		- green: newsRoom Section
-		entertainHeader0.asp		- orange: theBusiness Section		
--->
-
-<!-- CHOICE HEADER OPTIONS ARE DETAILED ABOVE  -->
-<!-- END HEAD OPENER -->
-<!-- ARRRR, LEFT NAV & HEADER IS BELOW ME -->
-
-
-
+		<link href="http://s2.wp.com/wp-content/themes/vip/postmedia-canadadotcom/js/respond/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+				<link href="http://o.canada.com/wp-content/themes/vip/postmedia-canadadotcom/js/respond/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+		<script src="http://o.canada.com/wp-content/themes/vip/postmedia-canadadotcom/js/respond/respond.proxy.js"></script>
+	<![endif]-->
+	<!--[if IE 7]>
+		<link href="http://s2.wp.com/wp-content/themes/vip/postmedia-canadadotcom/css/cdc-ie7.css?m=1340989635g" type="text/css" rel="stylesheet" />
+	<![endif]-->
 </head>
+<body class="single single-post postid-91123 single-format-standard story highlander-enabled highlander-light">
+	<div id="fb-root"></div>
+	<div class="cdc-page story" useragent="">
 
-
-<body>
-
-  <div id="main">
-    <div id="header" class="corporatesmall">
-      <a class="logo" href="/default.asp">Canwest</a>
-      <div class="form">
-        <form name="yider_form" action="/search/search.asp" method="post">
-          <div>
-            <input name="yider" type="text" class="input" size="30" value="">
-            <input type="image" class="btn" src="/images/go_button.png" onmouseover="this.src='/images/go_button_over.png'" onmouseout="this.src='/images/go_button.png'">
-          </div>
-        </form>
-      </div>
-      <div id="main_nav">	  
-        <ul class="top-nav">
-<noindex>
-  <div class="nospider">
-          <li><a href="/about/default.asp"><span class="first">ABOUT US</span><span class="right">&nbsp;</span></a></li>
-
-          <li><a href="/brands/default.asp"><span>OUR BRANDS</span><span class="right">&nbsp;</span></a></li>
-          <li><a href="/investors/default.asp"><span>INVESTORS</span><span class="right">&nbsp;</span></a></li>
-          <li><a href="/media/default.asp"><span>MEDIA</span><span class="right">&nbsp;</span></a></li>
-          <li><a href="/careers/default.asp"><span>CAREERS</span><span class="right">&nbsp;</span></a></li>
-          <li><a href="/advertising/index.asp"><span>ADVERTISING</span><span class="last">&nbsp;</span></a>
-  </li></div>
-</noindex>
-
-
-
-          
-        </ul>
-      </div>
-
-      <div id="top_subnav">
-
-      </div>
-
-      <div id="flyout_space" style="width:585px">
-        <div id="menu1Container"> 
-          <div id="menu1Content" class="menu">
-            <ul>
-              <li><a href="/brands/broadcast.asp">BROADCAST</a></li>
-              <li><a href="/brands/publishing.asp">PUBLISHING</a></li>
-              <li><a href="/brands/advertising.asp">INTERNATIONAL</a></li>
-            </ul>
-          </div>
-        </div>
-      </div> 				
-      <div class="image" style="clear:left;"></div>
-      <div class="background"></div>
-    </div>
+		<!-- *** header placeholder *** -->
+		<!-- "Header Begins NOTE: "nav-button" are interfaces for sliding the left and right panels-->
+        <header>
+            	<!-- Leaderboard Ad -->
+	<div class="leader-board target-self">
+				<div id="div-dart-ad-1" class="ad" data-mobile="false">
+			<script type="text/javascript">
+			Postmedia.AdServer.Write({
+				id:"div-dart-ad-1",
+				size:"banner",
+				keys:{ "dcopt" : "ist", "loc": "top" },
+				mobile: false
+			});
+			</script>
+		</div>
+        <div id="div-gpt-ad-1" class="ad" data-mobile="true">
+			<script type="text/javascript">
+			Postmedia.AdServer.Write({
+				id:"div-gpt-ad-1",
+				size:"banner",
+				keys:{ "dcopt" : "ist", "loc": "top" },
+				mobile: true
+			});
+			</script>
+		</div>
 		
+	</div>
 
-		
-		<div id="content">
-			<div id="left-column">
-<br>
-			</div>
-			
-			<div id="rigth-column">			  
-				<div class="text">
-<br>
+            <div class="header-body">
+                <div id="menu-header-button" class="menu-header-button nav-button" rel="left" dep="main-menu"></div>
+                <a class="logo" href="http://o.canada.com"></a>
+                <div id="right-rail-header-button" class="right-rail-header-button nav-button" rel="right" dep="right-rail"></div>
+                <div id="right-rail-search-button" class="right-rail-search-button nav-button" rel="left" dep="main-menu"></div>
+				<div class="search-box">
+					<form role="search" method="get" id="searchform" class="slide" action="http://o.canada.com">
+						<input type="text" id="search-1" name="s" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}" value="Search">
+						<button></button>
+					</form>
+				</div>
+            </div>
+        </header>
+		<!-- "Header Ends" -->
+		<!-- /*** header placeholder *** -->
 
+		<div class="body-holder">
 
-<!-- LEFT NAV & HEADER IS ABOVE ME -->		
-<!-- CONTENT STARTS HERE -->
-
-<!-- CHOICE HEADER OPTION IS LOADED ABOVE  -->
-
-<!-- 
-	All content exists inside a table cell.  Before the content is an open table  cell 
-	with valign="top" and no other attributes.  You may put whatever you please in the content including 
-	open a table immediately as this may give you greater control. 
-	
-	Depending on the wether you have left navigation or not you will have 942 pixels width wise without 
-	navigation and 752 pixels if navigation is required. 
--->
-<!-- content starts here -->   
-
-					<h1>Customer Privacy Statement</h1>
-
-<p>
-<a href="privacy_fr.asp">Version français</a>
-</p>
-					
+			<div class="cdc-body">
 
 				
-<p>
-<strong>OUR COMMITMENT TO PRIVACY</strong><br>
-Canwest Global Communications Corp. and its subsidiaries (each, a "Canwest  Company") are committed to controlling the collection, use and disclosure  of the personal information provided by its customers. This Privacy Statement  is a simplified version of the Canwest Privacy Policy adopted by each of the  Canwest Companies to ensure the accuracy, confidentiality and integrity of your  personal information. The Canwest Privacy Policy is modeled after the Canadian  Standards Association Model Code for the Protection of Personal Information and  is compliant with federal and provincial privacy laws including the federal  Personal Information Protection and Electronic Documents Act. A summary of the  ten principles of fair information practices adopted in the Canwest Privacy  Policy is included at the end of this Privacy Statement. A complete copy of the  Canwest Privacy Policy is available on request by contacting your local Privacy  Compliance Officer or on the Canwest website at <a href="http://www.canwestglobal.com">www.canwestglobal.com</a>. <br>
-</p>
+<nav class="overscroll main navigation" id="main-menu">
 
-<p>
-<strong>A SINGLE POLICY</strong><br>
-Any time you do business with a Canwest Company, or with anyone acting as an  agent on our behalf, you are protected by the rights and safeguards contained  in the Canwest Privacy Policy. <a href="http://www.canwest.com/pdf/PrivacyPolicyFINAL.pdf">Click here</a> to download the full Canwest  Privacy Policy in pdf format. <br>
-</p>
-<p>
-<strong>WHAT IS PERSONAL  INFORMATION?</strong><br>
-"Personal information" is personally identifiable information such as  your name, residential address and e-mail address and includes information  about your product and service subscriptions and usage, credit information and  billing records, service and recorded complaints. <br><br>
-Personal information is  collected by the Canwest Companies only when you specifically and knowingly  choose to provide it us such as when you subscribe to a Canwest publication,  enter a Canwest promotion or choose to receive information, products or  services from a Canwest Company. <br><br>
-We may also receive  personal information from our business partners and other third parties  provided that such third parties confirm to us that they have obtained your  consent to the disclosure of your personal information. <br><br>
-Publicly available  information, such as a public directory listing of your name, address,  telephone number and electronic address, is not considered personal  information.
-</p>
-<p>
-<strong>COLLECTION AND USE OF  PERSONAL INFORMATION</strong><br>
-The Canwest Companies collect and use your personal information primarily for  the purpose of providing you with the products and services you have requested  from us, including the daily delivery of news and related content through Canwest  television, print and online properties. <br><br>
-Your personal information  is used to communicate with you about your account and to provide you with  information related to other Canwest publications and services. If you  indicated that you were interested in receiving offers or information from  selected Canwest sponsors or advertisers, your personal information would also  be used to contact you or to send you e-mail materials and other mailings about  products and services that might be of interest to you. You always have the  option, however, to tell us not to share your personal information with other  Canwest Companies or to exclude you from offers for other products or services. <br><br>
-If you enter a contest or  other promotion offered by a Canwest Company or on a Canwest website, your  personal information will be used to administer the promotion, including the  use of your name and selected other information for the purposes of contacting,  announcing and promoting the winners of the promotion. <br><br>
-The Canwest Companies may  also contact you from time to time to conduct market research and surveys in an  effort to continually improve our product and service offerings. Unless you  specifically authorize us to release your personal information, or release is  required or permitted by law, the Canwest Companies will not sell, lease or  trade your personal information to other third parties. <br><br>
-Anonymous or  "non-personal" information gathered by the Canwest Companies through  our websites may be used for technical, research and analytical purposes.  Information collected through surveys, existing files and public archives may  be used by the Canwest Companies to analyze their markets and to develop or  enhance service offerings. <br><br>
-Canwest Companies will  only ask for information about you that we need and will only ask for it when  we need it. When we ask you for the information, we will explain to you why we  need it and what we are going to do with it. <br><br>
-We will seek your prior  consent to the collection, use and disclosure of the information as required by  applicable privacy legislation. Subject to legal and contractual requirements,  you can refuse to consent to our collection, use or disclosure of information  about you. You may also withdraw your consent to any further collection, use or  disclosure of information about you at any time by giving us reasonable notice.  If our intended disclosures or uses of information change, we will notify you  accordingly. <br><br>
-Your personal information  will not be used for any other purpose without your consent.
-</p>
-<p>
-<strong>DISCLOSURE</strong><br>
-To enable us to more efficiently provide the products and services you have  requested from us, the Canwest Companies may share your personal information  with other Canwest Companies and with selected third parties who are acting on  our behalf as our agents, suppliers or service providers. Such third party  service providers are provided only with such information as is necessary in  the circumstances (i.e. your residential address may be disclosed to our  distributors and carriers for the purpose of delivering your daily newspaper  subscription). Information provided to third parties may be used only for the  purpose stipulated and is subject to strict terms of confidentiality. <br>
-</p>
-<p>
-<strong>USE OF COOKIES</strong><br>
-The Canwest Companies  use a browser feature called a "cookie" to collect information  anonymously and track user patterns on Canwest websites. A cookie is a small  text file that is placed on your hard disk by a website. "Cookies"  contain a unique identification number that identifies your browser, but not  you, to our computers each time you visit one of our websites. Cookies tell us  which pages of our websites are visited and by how many people. Cookies may be  placed, and anonymous user traffic data collected, by a Canwest Company or a  third party who provides services to a Canwest Company. <br><br>
-The use of cookies is an  industry standard and many major browsers are initially set up to accept them.  You can reset your browser to either refuse to accept all cookies or to notify  you when you have received a cookie. However, if you refuse to accept cookies,  you may not be able to use some of the features available on our websites.
-</p>
-<p>
-<strong>ACCURACY</strong><br>
-Canwest Companies will try to ensure that information about you is accurate,  complete and up-to-date. However, please inform the Canwest Company to whom you  provided your information of any change of name, address or other information.  In the event you have questions about the accuracy of factual information we  have collected about you, you will have access to that information in order to  verify and update it. If we have disclosed inaccurate information about you to  a third party, we will be pleased to contact the third party in order to  correct the information. <br>
-</p>
-<p>
-<strong>SECURITY</strong><br>
-The Canwest Companies are committed to protecting your privacy. Security  measures, such as locked cabinets, restricted access and the use of passwords  and firewalls have been adopted to protect your personal information against  loss or theft, as well as unauthorized access, disclosure, copying, use or  modification. Our employees have been trained to respect your privacy at all  times and those employees with access to your personal information shall use  your personal information strictly in accordance with the Canwest Privacy  Policy and the laws applicable to each specific business. <br>
-</p>
-<p>
-<strong>ACCESS</strong><br>
-If you have any questions about the collection, use or disclosure of your  personal information by a Canwest Company, or if you simply want to know  whether we have any of your personal information on file, you may contact your  local Privacy Compliance Officer. Except in limited circumstances, as  specifically provided by applicable privacy legislation, the Canwest Companies  can tell you whether they hold personal information about you. They can tell  you the source of the information, allow you access to your personal  information and find an account of the use that has been made or is being made  of the information and the third parties to which it has been disclosed. <br><br>
-The Canwest Companies  will only refuse access to information about you in those circumstances  permitted or required by applicable privacy legislation. If a Canwest Company  refuses access to you, it will provide you with the reasons for its refusal  upon request. Exceptions may include information that contains references to  other individuals, information that cannot be disclosed for legal, security or  commercial proprietary reasons, and information that is subject to  solicitor-client or litigation privilege. The Canwest Companies will respond to  your requests for access in accordance with applicable privacy legislation.
-</p>
-<p>
-<strong>QUESTIONS OR CONCERNS</strong><br>
-If you have any questions or concerns about the personal information about you  held by a Canwest Company or about the compliance by a Canwest Company with the  Canwest Privacy Policy, please contact your local Privacy Compliance Officer.  Contact information for your local Privacy Compliance Officer may be found on  our website or by contacting any one of the Canwest Companies. <br><br>
-Each Canwest Company has  procedures in place to receive and respond to complaints or inquiries about its  handling of personal information. They will describe the complaint procedures  to anyone who makes inquiries or lodges complaints. <br><br>
-If you are not satisfied  with the response from your local Privacy Compliance Officer after making a  complaint, you may have recourse to additional remedies under applicable  privacy legislation. For further information, please contact the federal  Privacy Commissioner or your provincial Privacy Commissioner, as applicable.  Contact information is available on our website or by contacting any one of the  Canwest Companies.
-</p>
-<p>
-<strong>TEN PRINCIPLES OF FAIR  INFORMATION PRACTICES</strong><br>
-</p>
-<p>
-</p><p><strong>PRINCIPLE 1 -- ACCOUNTABILITY</strong> Each Canwest Company is responsible for  the personal information under its control and shall designate one or more  individuals who shall be accountable for the company's compliance with the  procedures and principles set out in the Canwest Privacy Policy.</p>
-<p><strong>PRINCIPLE 2 --  IDENTIFYING PURPOSE </strong>Each Canwest Company will identify the purpose for which personal  information is collected at or before the time the information is collected.  The purposes for which information is collected, used or disclosed by a Canwest  Company must be those that a reasonable person would consider are appropriate  in the circumstances.</p>
-<p><strong>PRINCIPLE 3 -- CONSENT </strong>The knowledge and consent  of the individual are required for the collection, use or disclosure of  personal information, except where consent is not required by privacy  legislation as, for example, where the collection, use or disclosure of  personal information is solely for journalistic, artistic or literary purposes.</p>
-<p><strong>PRINCIPLE 4 -- LIMITING  COLLECTION </strong>The Canwest Companies shall limit the collection of personal  information to that which is necessary for the purposes identified by the company.  Personal information shall be collected by fair and lawful means.</p>
-<p><strong>PRINCIPLE 5 -- LIMITING  USE, DISCLOSURE AND RETENTION</strong> Personal information shall not be used or  disclosed for purposes other than those for which it was collected, except with  the consent of the individual or as required by law. Personal information shall  be retained only as long as necessary for the fulfillment of the purposes for  which it was collected.</p>
-<p><strong>PRINCIPLE 6 -- ACCURACY </strong>Personal information  shall be as accurate, complete and up-to-date as is necessary for the purposes  for which it is to be used.</p>
-<p><strong>PRINCIPLE 7-- SAFEGUARDS</strong> Personal information  shall be protected by security safeguards appropriate to the sensitivity of the  information.</p>
-<p><strong>PRINCIPLE 8 -- OPENNESS</strong> The Canwest Companies  shall make readily available to its customers and employees specific  information about its policies and practices relating to the management of  personal information.</p>
-<p><strong>PRINCIPLE 9 -- INDIVIDUAL  ACCESS </strong>Upon  request, an individual shall be informed of the existence, use and disclosure  of his or her personal information and shall be given access to that  information except where a Canwest Company is permitted or required by law not  to disclose personal information to the individual customer or employee. An individual  customer or employee shall be able to challenge the accuracy and completeness  of the information disclosed to him or her and have it amended as appropriate.</p>
-<p><strong>PRINCIPLE 10 --  CHALLENGING COMPLIANCE</strong> An individual customer or employee shall be able to address a  challenge concerning compliance with the principles in the Canwest Privacy  Policy to his or her designated Privacy Compliance Officer.</p>
-
-<p>
-<strong>THE CANWEST COMPANIES</strong> <br>
-To contact the privacy  officers click the appropriate link below:
-</p>
-<ul>
-  <li><a href="mailto:VicTPrivacyOfficer@TC.canwest.com">Victoria Times Colonist</a> </li>
-  <li><a href="mailto:PNGPrivacyOfficer@png.canwest.com">Pacific Newspaper Group</a> </li>
-  <li><a href="mailto:LMPPrivacyOfficer@Van.net">Lower Mainland Publishing</a> </li>
-  <li><a href="mailto:NanaimoPrivacyOfficer@nanaimodailynews.com">Nanaimo Daily News</a> </li>
-  <li><a href="mailto:VancouverCHANPrivacyOfficer@globaltv.ca">Global BC (CHAN)</a> </li>
-  <li><a href="mailto:Pofficer@theherald.canwest.com">Calgary Herald</a> </li>
-  <li><a href="mailto:EdmJournalPrivacyOfficer@thejournal.canwest.com">Edmonton Journal</a> </li>
-  <li><a href="mailto:CITVPrivacyOfficer@globaltv.ca">Global Alberta</a> </li>
-  <li><a href="mailto:StarPhoenixPrivacyOfficer@SP.Canwest.com">The StarPhoenix, Saskatoon</a> </li>
-  <li><a href="mailto:LeaderPostPrivacyOfficer@Canwest.com">Regina Leader Post</a> </li>
-  <li><a href="mailto:CFSKPrivacyOfficer@globaltv.ca">Global Saskatoon (CFSK)</a> </li>
-  <li><a href="mailto:CFREPrivacyOfficer@globaltv.ca">Global Regina (CFRE)</a> </li>
-  <li><a href="mailto:CorporatePrivacyOfficer@canwest.com">Corporate</a> </li>
-  <li><a href="mailto:CKNDPrivacyOfficer@globaltv.ca">Global Winnipeg (CKND)</a> </li>
-  <li><a href="mailto:CWBSPrivacyOfficer@canwest.com">Canwest Business Services</a> </li>
-  <li><a href="mailto:ReachCanadaPrivacyOfficer@reachcanada.com">Reach Canada</a> </li>
-  <li><a href="mailto:NationalPostPrivacyOfficer@nationalpost.com">National Post</a> </li>
-  <li><a href="mailto:CIIIPrivacyOfficer@globaltv.ca">Global Toronto (CIII)</a> </li>
-  <li><a href="mailto:CMSTorontoPrivacyOfficer@canwestsales.ca">Sales and Marketing</a> </li>
-  <li><a href="mailto:CanwestInteractivePrivacyOfficer@canwest.com">Canwest Digital Media</a> </li>
-  <li><a href="mailto:CanwestPublicationsPrivacyOfficer@canwest.com">Canwest Publishing</a> </li>
-  <li><a href="mailto:CITGPrivacyOfficer@canwest.com">CITG</a> </li>
-  <li><a href="mailto:WindsorStarPrivacyOfficer@TheStar.canwest.com">Windsor Star</a> </li>
-  <li><a href="mailto:OttawaCitizenPrivacyOfficer@thecitizen.canwest.com">Ottawa Citizen</a> </li>
-  <li><a href="mailto:MontrealGazettePrivacyOfficer@thegazette.canwest.com">Montreal Gazette</a> </li>
-  <li><a href="mailto:CKMIQuebecPrivacyOfficer@globaltv.ca">Global Quebec (CKMI)</a> </li>
-  <li><a href="mailto:CIHFPrivacyOfficer@globaltv.ca">Global Martimes (CIHF)</a></li>
-</ul>
+	<ul id="menu-left_nav" class="menu">
+			<li class="search-item">
+				<div class="search-box">
+					<form role="search" method="get" id="searchform" action="http://o.canada.com">
+						<input type="text" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}" value="Search" name="s" id="search-2">
+						<button></button>
+					</form>
 				</div>
-			</div>
+			</li>
+			<li class="home">
+				<a href="http://o.canada.com" title="Join the discussion">Home</a>
+			</li>
+			<li><a href="http://o.canada.com/discussions/">Discussions</a><ul class="discussions"><li><a class="health" href="http://o.canada.com/discussions/health/" title="Health" rel="bookmark">Health</a></li><li><a class="news" href="http://o.canada.com/discussions/department-of-national-defence/" title="Department of National&nbsp;Defence" rel="bookmark">Department of National Defence</a></li><li><a class="entertainment" href="http://o.canada.com/discussions/battle-of-2012/" title="Battle of&nbsp;2012" rel="bookmark">Battle of 2012</a></li><li><a class="sports" href="http://o.canada.com/discussions/nfl/" title="NFL" rel="bookmark">NFL</a></li><li><a class="sports" href="http://o.canada.com/discussions/nhlpa/" title="NHL vs.&nbsp;NHLPA" rel="bookmark">NHL vs. NHLPA</a></li><li><a class="sports" href="http://o.canada.com/discussions/toronto-raptors/" title="Toronto&nbsp;Raptors" rel="bookmark">Toronto Raptors</a></li><li><a class="entertainment" href="http://o.canada.com/discussions/best-music-of-2012/" title="Best Music of&nbsp;2012" rel="bookmark">Best Music of 2012</a></li><li><a class="technology" href="http://o.canada.com/discussions/environmental-funding/" title="Environment" rel="bookmark">Environment</a></li><li><a class="life" href="http://o.canada.com/discussions/holiday-recipes/" title="Holiday&nbsp;recipes" rel="bookmark">Holiday recipes</a></li><li><a class="news" href="http://o.canada.com/discussions/ikea-monkey/" title="Ikea&nbsp;Monkey" rel="bookmark">Ikea Monkey</a></li></ul><a class="seeall" href="http://o.canada.com/discussions/">See all</a></li>
+		<li id="menu-item-154841" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154841"><a href="http://www.canada.com/life/theholidayguide12/Gallery+Gifts+Girl/7634145/story.html">Gifts for the ‘It’ Girl</a></li>
+<li id="menu-item-64939" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64939"><a href="http://www.canada.com/news/index.html">Classic Edition</a>
+<ul class="sub-menu">
+	<li id="menu-item-66409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66409"><a href="http://www.canada.com/news/index.html">News</a></li>
+	<li id="menu-item-64941" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64941"><a href="http://www.canada.com/business/index.html">Business</a></li>
+	<li id="menu-item-64942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64942"><a href="http://www.canada.com/sports/index.html">Sports</a></li>
+	<li id="menu-item-64943" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64943"><a href="http://www.canada.com/entertainment/index.html">Entertainment</a></li>
+	<li id="menu-item-64944" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64944"><a href="http://www.canada.com/life/index.html">Lifestyle</a></li>
+	<li id="menu-item-64945" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64945"><a href="http://www.canada.com/health/index.html">Health</a></li>
+	<li id="menu-item-64946" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64946"><a href="http://www.canada.com/travel/index.html">Travel</a></li>
+	<li id="menu-item-64947" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64947"><a href="http://www.canada.com/technology/index.html">Technology</a></li>
+	<li id="menu-item-64948" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64948"><a href="http://www.canada.com/shop/index.html">Shopping</a></li>
+	<li id="menu-item-64949" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64949"><a href="http://www.workopolis.com/jobsearch/whitelabel/nationalpost/home">Jobs</a></li>
+	<li id="menu-item-64950" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64950"><a href="http://www.driving.ca/index.html">Cars</a></li>
+	<li id="menu-item-64951" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64951"><a href="http://www.househunting.ca/index.html?branding=default">Homes</a></li>
+	<li id="menu-item-64952" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64952"><a href="http://www.legacy.com/obituaries/remembering/">Remembering</a></li>
+</ul>
+</li>
+<li id="menu-item-64935" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64935"><a href="/authors">Voices</a>
+<ul class="sub-menu">
+	<li id="menu-item-98438" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98438"><a href="/author/andrewcoyne/">Andrew Coyne</a></li>
+	<li id="menu-item-65965" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65965"><a href="/author/barthurnp/">Bruce Arthur</a></li>
+	<li id="menu-item-108324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108324"><a href="/author/katherinemonkcanadacom/">Katherine Monk</a></li>
+	<li id="menu-item-105171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105171"><a href="/author/loriisber/">Lori Isber</a></li>
+	<li id="menu-item-108321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108321"><a href="/author/fisherrmatthew/">Matthew Fisher</a></li>
+	<li id="menu-item-88793" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-88793"><a href="/author/mistyharris/">Misty Harris</a></li>
+	<li id="menu-item-64960" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64960"><a href="/author/mikedentandt/">Michael Den Tandt</a></li>
+	<li id="menu-item-122713" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-122713"><a href="/author/rebstevensoncanada/">Reb Stevenson</a></li>
+	<li id="menu-item-127640" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127640"><a href="/author/williammarsden/">William Marsden</a></li>
+</ul>
+</li>
+<li><a href="#">Weather</a>
+					<div id="weatherWidget" class="weather_page">
+						<div class="weather_content">
+							<div class="location clear">
+								<div class="location_select">
+									<select id="dlstWeatherRegion" onchange="Postmedia.Weather.GetCities(this.value, false)">
+										<option value="">Select a Region</option>
+										<option value="ab">Alberta</option>
+										<option value="bc">British Columbia</option>
+										<option value="mb">Manitoba</option>
+										<option value="nb">New Brunswick</option>
+										<option value="nl">Newfoundland</option>
+										<option value="ns">Nova Scotia</option>
+										<option value="nu">Nunavut</option>
+										<option value="nw">Northwest Territories</option>
+										<option value="on">Ontario</option>
+										<option value="pe">Prince Edward Island</option>
+										<option value="qc">Quebec</option>
+										<option value="sk">Saskatchewan</option>
+										<option value="yk">Yukon</option>
+									</select>
+								</div>
+								<div class="location_select">
+									<select id="dlstWeatherCities" onchange="Postmedia.Weather.GetSelectedWeather(this.value)">
+										<option value="">Select a City</option>
+									</select>
+								</div>
+								<button class="locate_me" onclick="Postmedia.Weather.GeoCode()">Locate me</button>
+								<div class="location_name">
+								</div>
+							</div>
+							<div class="clear">
+							</div>
+							<div class="weather_body">
+								<div class="weather_forecast current">
+									<div class="weather_icon">
+									</div>
+									<div class="forecast">
+									</div>
+									<div class="description">
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					</li></ul>
+</nav>
+
+<div class="content main">
+
+	<article>
+		
+		
+<div class="hero page-section">
+
+	<div class="item featured">
+
+		<div class="headline">
+				<div class="comment-count-bubble uncategorized">
+					<span id="fb-comment-count-50c7d7214897d" class="fb-comment-count" data-url="http://o.canada.com/2012/08/10/privacy-statement/"></span>					<div class="triangle"></div>
+				</div>
+			<h2>Privacy&nbsp;statement</h2>
 		</div>
-				<div id="footer">
-			<ul class="footer-nav">
-				<li class="first">&nbsp;</li>
-				<li><a href="/default.asp">Home</a></li>
-				<li><a href="/terms.asp">Terms</a></li>
-				<li><a href="/contact_us.asp">Contact Us</a></li>
-				<li><a href="/privacy.asp">Privacy Statement</a></li>
-				<li><a href="/copyright.asp">Copyright</a></li>
-			</ul>
-			<span>All rights reserved 2009 Canwest Global Communications Corp</span>
+
+		<div id="story-image" class="news-image">
+					</div>
+
+				<div class="story-feature-caption">
+			<p></p>
+					</div>
+		
+	</div>
+
+	<div class="clear"></div>
+
+</div>
+
+
+
+		
+<div class="story-social-bar bottom-bar">
+	<div class="share-bar">
+        <button class="make-comment">comment</button>
+
+		<div class="splitter"></div>
+
+	    <div id="social-buttons-91123" class="social-buttons" data-shared="false" data-url="http://o.canada.com/2012/08/10/privacy-statement/" data-title="Privacy&nbsp;statement" data-layout="button_count" data-all="true" "=""><div class="facebook-like"></div><div class="google-plusone social-button"></div><div class="twitter-share social-button"></div><a href="mailto:?subject=Privacy statement&amp;body=I want to share a story with you from canada.com: &quot;Privacy statement&quot; (See the full text at http://o.canada.com/2012/08/10/privacy-statement/ )" class="email-share social-button">Email</a></div>	</div>
+</div>
+<div class="clear"></div>
+
+		<div class="story-content">
+
+			
+	<div class="author-info">
+
+		<div class="item">
+
+						<br class="clear">
+
+			<span class="author-image circle-mask">
+				<div class="layer-mask"></div>
+				<img alt="" src="http://0.gravatar.com/avatar/667a7be8f7dac99264c9c09695c5a6a2?s=96&amp;d=identicon&amp;r=G" class="avatar avatar-96" height="96" width="96">			</span>
+
+				 
+			<div class="story-credit-updated">Published: August 10, 2012, 9:26 pm</div>
+			<div class="story-credit-updated">Updated: 20 days ago</div>
 
 		</div>
-<!--
-    Site Catalyst files are split into channels as follows:
-        Filename                              Channel Name              Directories to include in the channel
-        standardFooter0.asp       - Print                                 -/advertising/print
-        standardFooter1.asp       - TV and Radio                -/advertising/Broadcast
-                                                                                                   -/advertising/index.asp
-        standardFooter2.asp       - Online                             -/advertising/interactive
-        standardFooter3.asp       - Marketing Ventures    -/advertising/marketingVentures
-        standardFooter4.asp       - Research                         -/advertising/research
-        standardFooter5.asp       - Corporate                      -/theCompany
-                                                                                                    -/theBusiness
-                                                                                                    -/newsroom
-                                                                                                    -/investors
-                                                                                                    -/careers
-                                                                                                    -/search
-                                                                                                    -/
-        starndardFooter6.asp      - Promotions                    -/Promotions
--->
 
-<!-- SiteCatalyst code version: G.7.
-Copyright 1997-2004 Omniture, Inc. More info available at
-http://www.omniture.com --><script language="JavaScript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
+	</div>
+				<!-- Big Box Ad -->
+	<div class="big-box-ad target-self">
+		<div id="div-dart-ad-2" class="ad" data-mobile="false">
+			<script type="text/javascript">
+			Postmedia.AdServer.Write({
+				id:"div-dart-ad-2",
+				size:[[300, 250], [300, 251]],
+				keys:{ "loc": "top" },
+				mobile: false
+			});
+			</script>
+		</div>
+        <div id="div-gpt-ad-2" class="ad" data-mobile="true">
+			<script type="text/javascript">
+			Postmedia.AdServer.Write({
+				id: "div-gpt-ad-2",
+				size: "boxbanner",
+				keys:{ "loc": "top" },
+				mobile: true
+			});
+			</script>
+		</div>
+	</div>
 
-var s_pageName="/privacy.asp"
-var s_server="www.canwestglobal.com"
-var s_channel="General"
-var s_pageType=""
-var s_prop1=""
-var s_prop2=""
-var s_prop3=""
-var s_prop4=""
-var s_prop5=""
 
-/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
-//--></script><script language="JavaScript" src="/includes/siteCatalyst/s_code_remote.js"></script>
+			<div class="wp-the-content">
+			<p><a href="http://www.canada.com/aboutus/privacy_fr.html">Version français</a></p>
+<div></div>
+<p>Postmedia Network Canada Corp. and its affiliated and subsidiary entities, including Postmedia Network Inc. (“Postmedia Network”, “we” or “us”) is committed to protecting your privacy and safeguarding your personal information. This Privacy Statement describes how we may collect, use and disclose personal information. This Privacy Statement applies to any personal information we collect or receive about you, from any source. However, it does not apply to personal information that we collect, use or disclose for journalistic purposes.</p>
+<p>By submitting your personal information, subscribing to our services or products or using our websites, you signify your agreement to the terms and conditions of this Privacy Statement. Please check back periodically as this Privacy Statement may be amended from time-to-time and applies to all Postmedia Network divisions in Canada.</p>
+<p>WHAT IS PERSONAL INFORMATION?</p>
+<p>‘Personal information’ means information about an identifiable individual. Examples of personal information that we may collect, use and disclose include your contact information (name, address, phone number or email address), your billing information (credit card number or banking information), and other information that you may provide to us. Personal information does not include publicly available information or your business contact information.</p>
+<p>WHAT PERSONAL INFORMATION DO WE COLLECT? TO WHOM DO WE DISCLOSE PERSONAL INFORMATION?</p>
+<p>In most cases, we will collect personal information directly from you when you purchase or interact with us about a product or service that we offer or provide (for example, when you subscribe to a newspaper or when you email us or contact us through our website). Occasionally, we may collect personal information from a third party based on your consent or as otherwise permitted by law.</p>
+<p>We identify the purposes for which we may collect, use and disclose your personal information at the time that we collect such information. Such purposes include providing and delivering products or services to you, responding to your inquiries, and internal business purposes such as administering or improving our website. We obtain your consent for such purposes at or before the time that we collect, use or disclose your personal information, except where permitted or required by law.</p>
+<p>Postmedia Network’s divisions and affiliates may share personal information with each other in order to fulfill the purposes that you have consented to. We may also share your personal information with third party service providers as necessary for them to provide services on our behalf. Some service providers may be located outside of Canada where personal information may be subject to the laws of those jurisdictions.</p>
+<p>We may disclose personal information to a potential purchaser in connection with the sale of some or all of the business of Postmedia Network, or as otherwise permitted or required by law.</p>
+<p>HOW DO WE RETAIN AND SAFEGUARD YOUR PERSONAL INFORMATION?</p>
+<p>We retain personal information for as long as necessary to fulfill the purposes for which it was collected and as permitted or required by law. We have implemented physical, organizational, contractual and technological security measures to protect your personal information from loss or theft, and unauthorized access, disclosure, copying, use or modification.</p>
+<p>HOW DO WE MONITOR OUR WEBSITES?</p>
+<p>Our websites may place and access cookies when you visit our websites. A cookie is a small data file that websites commonly write to your computer. A cookie file contains information that can identify you each time you visit the website. Our websites use cookies as a way to measure website activity and traffic patterns. We may use third-party vendors and advertising networks to serve advertisements on our websites. Such third parties may place and access cookies on your browser, including for the purpose of delivering tailored advertisements to you. That activity is subject to such third-parties’ policies and terms. You may choose to set your computer to reject cookies if you desire. However, if you refuse to accept cookies, you may not be able to use some of the features available on our websites.</p>
+<p>From time to time, we collect certain usage information from our servers that relates to the use of our websites. We use this information to improve our website, for example by enhancing pages or features that are visited frequently, and on occasion we may share this information with our affiliates or other third party companies to provide them with an indication of the amount of interest in our website for advertising purposes and to help us plan for technical improvements.</p>
+<p>HOW CAN YOU ACCESS YOUR PERSONAL INFORMATION?</p>
+<p>We will make available to you any personal information that we have collected, used or disclosed, upon your written request, to the extent permitted by law. We will attempt to respond to your written request within thirty (30) days. We will advise you in writing if we cannot meet your request within this time limit.</p>
+<p>CONTACT US</p>
+<p>Our Privacy Officers are accountable for our compliance with this Privacy Statement and applicable privacy law. All comments, questions, concerns or complaints regarding your personal information should be forwarded to our Privacy Officers as follows:</p>
+<p>BY EMAIL:</p>
+<p>Western Canada (Times Colonist, The Vancouver Sun, The Province, Calgary Herald, Edmonton Journal):<a href="mailto:WesternPrivacyOfficer@postmedia.com">WesternPrivacyOfficer@postmedia.com</a></p>
+<div></div>
+<p>Eastern Canada (Leader-Post, StarPhoenix, National Post, Ottawa Citizen, The Windsor Star, The Gazette):<a href="mailto:EasternPrivacyOfficer@postmedia.com">EasternPrivacyOfficer@postmedia.com</a></p>
+<div></div>
+<p>Digital Media (canada.com, Infomart.ca):&nbsp;<a href="mailto:PDPrivacyOfficer@postmedia.com">PDPrivacyOfficer@postmedia.com</a></p>
+<div></div>
+<p>Corporate:&nbsp;<a href="mailto:CorporatePrivacyOfficer@postmedia.com">CorporatePrivacyOfficer@postmedia.com</a></p>
+<p>IN WRITING:</p>
+<p>Chief Privacy Officer<br>
+1450 Don Mills Road<br>
+Toronto, Ontario M3B 2X7</p>
+<div></div>
+<p>Updated: January 10, 2012</p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"></div>			</div>
 
-<!-- End SiteCatalyst code version: G.7. -->
+			
+			
+	<p>
+		
+		</p><div class="story-copyright">
+						<a href="http://twitter.com/canadacomnews">twitter.com/canadacomnews</a>
+		
+			© COPYRIGHT - POSTMEDIA NEWS
+		</div>
 
+		<div class="report-error">
+			<a href="mailto:Canada.ComHelp@Postmedia.com?Subject=o.canada.com report an error&amp;Body=Privacy statement: http://o.canada.com/2012/08/10/privacy-statement/">
+			<div class="circle"></div>Report An Error</a>
+		</div>
+	<p></p>
+
+	
+	<div class="story-social-bar bottom-bar">
+        <div class="share-bar">
+		    <button class="make-comment">comment</button>
+			<div class="splitter"></div>
+		    <div id="social-buttons-91123" class="social-buttons" data-shared="false" data-url="http://o.canada.com/2012/08/10/privacy-statement/" data-title="Privacy&nbsp;statement" data-layout="button_count" data-all="true" "=""><div class="facebook-like"></div><div class="google-plusone social-button"></div><div class="twitter-share social-button"></div><a href="mailto:?subject=Privacy statement&amp;body=I want to share a story with you from canada.com: &quot;Privacy statement&quot; (See the full text at http://o.canada.com/2012/08/10/privacy-statement/ )" class="email-share social-button">Email</a></div>        </div>
+	</div>
+
+	<div class="story-tags">
+
+		<div class="tag-title">Tags in this story</div>
+
+		<div class="tags">
+			<a href="http://o.canada.com/tag/canada-com/" rel="tag">canada.com</a>, <a href="http://o.canada.com/tag/information-privacy/" rel="tag">Information Privacy</a>		</div>
+
+	</div>
+
+			<div class="clear"></div>
+		</div><!--.story-content-->
+
+	</article>
+
+	<hr class="gray">
+
+	<div class="related-stories page-section two-column-pattern" id="related">
+
+
+		
+<div class="item first">
+
+		<h4>Related Stories</h4>
+	<ul><li><div class="headline"><a href="http://o.canada.com/2012/08/10/contact-us/">Contact&nbsp;us</a></div><div class="clear"></div><br></li><li><div class="news-image-medium"><a href="http://o.canada.com/2012/12/09/after-the-crossfire-pacquiao-vs-marquez-iv/" class="txt"><noscript data-large="http://postmediacanadadotcom.files.wordpress.com/2012/12/aptopix_pacquiao_marquez_boxing_25255367.jpg?w=120&amp;h=80&amp;crop=1" data-medium="http://postmediacanadadotcom.files.wordpress.com/2012/12/aptopix_pacquiao_marquez_boxing_25255367.jpg?w=120&amp;h=80&amp;crop=1" data-small="http://postmediacanadadotcom.files.wordpress.com/2012/12/aptopix_pacquiao_marquez_boxing_25255367.jpg?w=100&amp;h=67&amp;crop=1" data-alt="Juan Manuel Marquez, from Mexico, left, celebrates after knocking out Manny Pacquiao, from the Philippines, in the sixth round of their WBO world welterweight fight Saturday, Dec. 8, 2012, in Las Vegas. Referee Kenny Bayless tends to Pacquiao at right."><img src="http://postmediacanadadotcom.files.wordpress.com/2012/12/aptopix_pacquiao_marquez_boxing_25255367.jpg?w=120&amp;h=80&amp;crop=1" alt="Juan Manuel Marquez, from Mexico, left, celebrates after knocking out Manny Pacquiao, from the Philippines, in the sixth round of their WBO world welterweight fight Saturday, Dec. 8, 2012, in Las Vegas. Referee Kenny Bayless tends to Pacquiao at right." /></noscript></a></div><div class="headline"><a href="http://o.canada.com/2012/12/09/after-the-crossfire-pacquiao-vs-marquez-iv/">After The Crossfire – UPDATED – Pacquiao vs Marquez&nbsp;IV</a></div><div class="clear"></div><br></li><li><div class="headline"><a href=""></a></div><div class="clear"></div><br></li><li><div class="headline"><a href="http://o.canada.com/2012/11/19/creepy-smartphone-apps-could-be-used-by-criminals-to-track-you-down/">‘Creepy’ smartphone apps could be used by criminals to track you&nbsp;down</a></div><div class="clear"></div><br></li></ul>
+	
+	<h4>Latest Stories</h4>
+	<ul><li><div class="news-image-medium"><a href="http://o.canada.com/2012/12/11/despite-complaints-of-late-arrivals-high-prices-canada-post-says-it-delivers/" class="txt"><noscript data-large="http://postmediacanadadotcom.files.wordpress.com/2012/11/canada_post-e1354220254188.jpg?w=120&amp;h=80&amp;crop=1" data-medium="http://postmediacanadadotcom.files.wordpress.com/2012/11/canada_post-e1354220254188.jpg?w=120&amp;h=80&amp;crop=1" data-small="http://postmediacanadadotcom.files.wordpress.com/2012/11/canada_post-e1354220254188.jpg?w=100&amp;h=67&amp;crop=1" data-alt="An overturned mailbox"><img src="http://postmediacanadadotcom.files.wordpress.com/2012/11/canada_post-e1354220254188.jpg?w=120&amp;h=80&amp;crop=1" alt="An overturned mailbox" /></noscript></a></div><div class="headline"><a href="http://o.canada.com/2012/12/11/despite-complaints-of-late-arrivals-high-prices-canada-post-says-it-delivers/">Despite complaints of late arrivals, high prices, Canada Post says it&nbsp;delivers</a></div><div class="clear"></div><br></li><li><div class="news-image-medium"><a href="http://o.canada.com/2012/12/11/valve-is-entering-the-video-game-console-wars-with-the-steam-box/" class="txt"><noscript data-large="http://postmediacanadadotcom.files.wordpress.com/2012/12/streambigpicture.jpg?w=120&amp;h=80&amp;crop=1" data-medium="http://postmediacanadadotcom.files.wordpress.com/2012/12/streambigpicture.jpg?w=120&amp;h=80&amp;crop=1" data-small="http://postmediacanadadotcom.files.wordpress.com/2012/12/streambigpicture.jpg?w=100&amp;h=67&amp;crop=1" data-alt="it seems Steam's Big Picture mode was just the beginning. The company is getting ready to launch a full-fledged console."><img src="http://postmediacanadadotcom.files.wordpress.com/2012/12/streambigpicture.jpg?w=120&amp;h=80&amp;crop=1" alt="it seems Steam&#039;s Big Picture mode was just the beginning. The company is getting ready to launch a full-fledged console." /></noscript></a></div><div class="headline"><a href="http://o.canada.com/2012/12/11/valve-is-entering-the-video-game-console-wars-with-the-steam-box/">Valve is entering the video game console wars with the Steam&nbsp;Box</a></div><div class="clear"></div><br></li><li><div class="news-image-medium"><a href="http://o.canada.com/2012/12/11/movie-review-the-end-of-time/" class="txt"><noscript data-large="http://postmediacanadadotcom.files.wordpress.com/2012/12/end_of_time.jpg?w=120&amp;h=80&amp;crop=1" data-medium="http://postmediacanadadotcom.files.wordpress.com/2012/12/end_of_time.jpg?w=120&amp;h=80&amp;crop=1" data-small="http://postmediacanadadotcom.files.wordpress.com/2012/12/end_of_time.jpg?w=100&amp;h=67&amp;crop=1" data-alt="The End of Time"><img src="http://postmediacanadadotcom.files.wordpress.com/2012/12/end_of_time.jpg?w=120&amp;h=80&amp;crop=1" alt="The End of Time" /></noscript></a></div><div class="headline"><a href="http://o.canada.com/2012/12/11/movie-review-the-end-of-time/">Movie Review: The End of&nbsp;Time</a></div><div class="clear"></div><br></li><li><div class="news-image-medium"><a href="http://o.canada.com/2012/12/11/raptors-using-bargnani-as-trade-bait/" class="txt"><noscript data-large="http://postmediacanadadotcom.files.wordpress.com/2012/12/156345916_24960729-e1355266671836.jpg?w=120&amp;h=80&amp;crop=1" data-medium="http://postmediacanadadotcom.files.wordpress.com/2012/12/156345916_24960729-e1355266671836.jpg?w=120&amp;h=80&amp;crop=1" data-small="http://postmediacanadadotcom.files.wordpress.com/2012/12/156345916_24960729-e1355266671836.jpg?w=100&amp;h=67&amp;crop=1" data-alt="&quot;I play basketball, not rebound-ball.&quot;"><img src="http://postmediacanadadotcom.files.wordpress.com/2012/12/156345916_24960729-e1355266671836.jpg?w=120&amp;h=80&amp;crop=1" alt="&quot;I play basketball, not rebound-ball.&quot;" /></noscript></a></div><div class="headline"><a href="http://o.canada.com/2012/12/11/raptors-using-bargnani-as-trade-bait/">Raptors using Bargnani as trade&nbsp;bait</a></div><div class="clear"></div><br></li></ul>
+
+	<a href="http://o.canada.com/search/allposts/?discussions=false" class="more-link">More Stories</a>
+
+</div>
+
+
+		<div class="item last">
+
+				<!-- Big Box Ad -->
+	<div class="big-box-ad target-self">
+
+		<div id="div-dart-ad-3" class="ad" data-mobile="false">
+			<script type="text/javascript">
+			Postmedia.AdServer.Write({
+				id:"div-dart-ad-3",
+				size:[[300, 250], [300, 252]],
+				keys:{ "loc": "bot" },
+				mobile: false
+			});
+			</script>
+		</div>
+        <div id="div-gpt-ad-3" class="ad" data-mobile="true">
+			<script type="text/javascript">
+			Postmedia.AdServer.Write({
+				id: "div-gpt-ad-3",
+				size: "boxbanner",
+				keys:{ "loc": "bot" },
+				mobile: true
+			});
+			</script>
+		</div>
 
 	</div>
 
 
+				<h4>Most Viewed Stories</h4>
+	<ul>
+	<li><div class="news-image-medium"><a href="http://o.canada.com/2012/12/10/new-arrested-development-season-to-air-in-canada-netflix-confirms/" class="txt"><noscript data-large="http://postmediacanadadotcom.files.wordpress.com/2012/12/reg_1024-adevelopment-mh_-082412.jpg?w=120&amp;h=80&amp;crop=1" data-medium="http://postmediacanadadotcom.files.wordpress.com/2012/12/reg_1024-adevelopment-mh_-082412.jpg?w=120&amp;h=80&amp;crop=1" data-small="http://postmediacanadadotcom.files.wordpress.com/2012/12/reg_1024-adevelopment-mh_-082412.jpg?w=100&amp;h=67&amp;crop=1" data-alt="Arrested Development "><img src="http://postmediacanadadotcom.files.wordpress.com/2012/12/reg_1024-adevelopment-mh_-082412.jpg?w=120&amp;h=80&amp;crop=1" alt="Arrested Development " /></noscript></a></div><div class="headline"><a href="http://o.canada.com/2012/12/10/new-arrested-development-season-to-air-in-canada-netflix-confirms/">New Arrested Development season to air in Canada, Netflix&nbsp;confirms</a></div><div class="clear"></div><br></li>
+<li><div class="news-image-medium"><a href="http://o.canada.com/2012/12/11/average-federal-worker-costs-114000-budget-watchdog/" class="txt"><noscript data-large="http://postmediacanadadotcom.files.wordpress.com/2012/07/parliament1.jpg?w=120&amp;h=80&amp;crop=1" data-medium="http://postmediacanadadotcom.files.wordpress.com/2012/07/parliament1.jpg?w=120&amp;h=80&amp;crop=1" data-small="http://postmediacanadadotcom.files.wordpress.com/2012/07/parliament1.jpg?w=100&amp;h=67&amp;crop=1" data-alt=""><img src="http://postmediacanadadotcom.files.wordpress.com/2012/07/parliament1.jpg?w=120&amp;h=80&amp;crop=1" alt="" /></noscript></a></div><div class="headline"><a href="http://o.canada.com/2012/12/11/average-federal-worker-costs-114000-budget-watchdog/">Average federal worker costs $114,000: Budget&nbsp;watchdog</a></div><div class="clear"></div><br></li>
+<li><div class="news-image-medium"><a href="http://o.canada.com/2012/12/10/miley-cyrus-lets-her-boobs-hang-out-while-hanging-out-with-naked-boobs/" class="txt"><noscript data-large="http://postmediacanadadotcom.files.wordpress.com/2012/12/121210_mileycyrus.jpg?w=120&amp;h=80&amp;crop=1" data-medium="http://postmediacanadadotcom.files.wordpress.com/2012/12/121210_mileycyrus.jpg?w=120&amp;h=80&amp;crop=1" data-small="http://postmediacanadadotcom.files.wordpress.com/2012/12/121210_mileycyrus.jpg?w=100&amp;h=67&amp;crop=1" data-alt=""><img src="http://postmediacanadadotcom.files.wordpress.com/2012/12/121210_mileycyrus.jpg?w=120&amp;h=80&amp;crop=1" alt="" /></noscript></a></div><div class="headline"><a href="http://o.canada.com/2012/12/10/miley-cyrus-lets-her-boobs-hang-out-while-hanging-out-with-naked-boobs/">Miley Cyrus lets her boobs hang out while hanging out with nude&nbsp;boobs</a></div><div class="clear"></div><br></li>
+<li><div class="news-image-medium"><a href="http://o.canada.com/2012/12/10/smart-not-cheap-free-shipping-wednesday-for-online-shoppers/" class="txt"><noscript data-large="http://postmediacanadadotcom.files.wordpress.com/2012/12/online_giftpurchase1.jpg?w=120&amp;h=80&amp;crop=1" data-medium="http://postmediacanadadotcom.files.wordpress.com/2012/12/online_giftpurchase1.jpg?w=120&amp;h=80&amp;crop=1" data-small="http://postmediacanadadotcom.files.wordpress.com/2012/12/online_giftpurchase1.jpg?w=100&amp;h=67&amp;crop=1" data-alt="<i>(ZINQ Stock/Fotolia.com)</i>"><img src="http://postmediacanadadotcom.files.wordpress.com/2012/12/online_giftpurchase1.jpg?w=120&amp;h=80&amp;crop=1" alt="&lt;i&gt;(ZINQ Stock/Fotolia.com)&lt;/i&gt;" /></noscript></a></div><div class="headline"><a href="http://o.canada.com/2012/12/10/smart-not-cheap-free-shipping-wednesday-for-online-shoppers/">Smart Not Cheap: Free shipping Wednesday for online&nbsp;shoppers</a></div><div class="clear"></div><br></li>
+<li><div class="news-image-medium"><a href="http://o.canada.com/2012/12/10/rihanna-shares-nsfw-photos-after-chris-brown-twitter-rant/" class="txt"><noscript data-large="http://postmediacanadadotcom.files.wordpress.com/2012/12/121012_rihanna.jpg?w=120&amp;h=80&amp;crop=1" data-medium="http://postmediacanadadotcom.files.wordpress.com/2012/12/121012_rihanna.jpg?w=120&amp;h=80&amp;crop=1" data-small="http://postmediacanadadotcom.files.wordpress.com/2012/12/121012_rihanna.jpg?w=100&amp;h=67&amp;crop=1" data-alt=""><img src="http://postmediacanadadotcom.files.wordpress.com/2012/12/121012_rihanna.jpg?w=120&amp;h=80&amp;crop=1" alt="" /></noscript></a></div><div class="headline"><a href="http://o.canada.com/2012/12/10/rihanna-shares-nsfw-photos-after-chris-brown-twitter-rant/">Rihanna shares NSFW photos after Chris Brown Twitter&nbsp;rant</a></div><div class="clear"></div><br></li>
+<li><div class="news-image-medium"><a href="http://o.canada.com/2012/10/08/thousands-of-canadians-are-accessing-u-s-netflix/" class="txt"><noscript data-large="http://postmediacanadadotcom.files.wordpress.com/2012/10/usnetflix-e1349892768915.png?w=120&amp;h=80&amp;crop=1" data-medium="http://postmediacanadadotcom.files.wordpress.com/2012/10/usnetflix-e1349892768915.png?w=120&amp;h=80&amp;crop=1" data-small="http://postmediacanadadotcom.files.wordpress.com/2012/10/usnetflix-e1349892768915.png?w=100&amp;h=67&amp;crop=1" data-alt=""><img src="http://postmediacanadadotcom.files.wordpress.com/2012/10/usnetflix-e1349892768915.png?w=120&amp;h=80&amp;crop=1" alt="" /></noscript></a></div><div class="headline"><a href="http://o.canada.com/2012/10/08/thousands-of-canadians-are-accessing-u-s-netflix/">Thousands of Canadians are accessing U.S&nbsp;Netflix</a></div><div class="clear"></div><br></li>
+	</ul>
 
+		</div>
+
+		<div class="clear"></div>
+
+	</div><!-- eof #faceoff.related-stories -->
+
+	<script language="javascript">
+if(jQuery( window ).width() > 760){
+
+	google_ad_client   = 'ca-pub-1718995873402338';
+	google_ad_output   = 'js';
+	google_max_num_ads = '3';
+	google_hints       = 'news';
+	google_safe        = 'high';
+	google_kw_color    = '#000000';
+	google_ad_channel  = 'canada-news-story';
+	google_adtest = 'on';
+	google_feedback = 'on';
+
+    function google_ad_request_done(google_ads) {
+
+		if( google_ads.length > 0 ){
+
+			document.write('<div class="google-ads"><a href="' + google_info.feedback_url + '" target="_blank"><h4>Ads by Google</h4></a>');
+			for(i = 0; i < google_ads.length; ++i) {
+				document.write( '<div class="item"> <h6>' + google_ads[i].line1 + '</h6> <p>' + google_ads[i].line2 );
+				document.write( '<a target="_blank" href="' + google_ads[i].url + '"' + 'onmouseout="window.status=\'\'"' + 'onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\';return true;">' + google_ads[i].visible_url + '</a></p></div>');
+			}
+			document.write('<div class="clear"></div></div>');
+
+		}else{
+			console.log("no Google Ads returned " + google_ads);
+		}
+    }
+    document.write('<scr' + 'ipt type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></scr' + 'ipt>');
+}
+</script>
+
+		<div class="inside-canada-com page-section" id="inside-canada-com">
+
+		<h4>Inside Canada.com</h4>
+
+		<button class="slider-button previous" rel="left" id="inside-canada-com-previous"></button>
+
+		<div class="slider" id="inside-canada-com-slider">
+
+			<div class="slider-body">
+
+				<figure><a href="http://www.canada.com/life/theholidayguide12/Gallery+sultry+gifts/7681108/story.html" title="Gallery: Ten sultry gifts for&nbsp;her"><img src="http://www.canada.com/7681192.bin?size=140x95" alt="Gallery: Ten sultry gifts for&nbsp;her"></a><figcaption><a href="http://www.canada.com/life/theholidayguide12/Gallery+sultry+gifts/7681108/story.html" title="Gallery: Ten sultry gifts for&nbsp;her">Gallery: Ten sultry gifts for&nbsp;her</a></figcaption></figure><figure><a href="http://o.canada.com/2012/12/10/smart-not-cheap-free-shipping-wednesday-for-online-shoppers/" title="Smart Not Cheap: Free shipping Wednesday for online&nbsp;shoppers"><img src="http://www.canada.com/7677493.bin?size=140x95" alt="Smart Not Cheap: Free shipping Wednesday for online&nbsp;shoppers"></a><figcaption><a href="http://o.canada.com/2012/12/10/smart-not-cheap-free-shipping-wednesday-for-online-shoppers/" title="Smart Not Cheap: Free shipping Wednesday for online&nbsp;shoppers">Smart Not Cheap: Free shipping Wednesday for online&nbsp;shoppers</a></figcaption></figure><figure><a href="http://o.canada.com/2012/12/11/ingredient-of-the-week-eggs/" title="Ingredient of the week:&nbsp;eggs"><img src="http://www.canada.com/7681296.bin?size=140x95" alt="Ingredient of the week:&nbsp;eggs"></a><figcaption><a href="http://o.canada.com/2012/12/11/ingredient-of-the-week-eggs/" title="Ingredient of the week:&nbsp;eggs">Ingredient of the week:&nbsp;eggs</a></figcaption></figure><figure><a href="http://www.canada.com/life/theholidayguide12/food-drink/Gallery+Days+Holiday+Cookies/7667395/story.html" title="Gallery: 12 Days of Holiday&nbsp;Cookies"><img src="http://www.canada.com/7609886.bin?size=140x95" alt="Gallery: 12 Days of Holiday&nbsp;Cookies"></a><figcaption><a href="http://www.canada.com/life/theholidayguide12/food-drink/Gallery+Days+Holiday+Cookies/7667395/story.html" title="Gallery: 12 Days of Holiday&nbsp;Cookies">Gallery: 12 Days of Holiday&nbsp;Cookies</a></figcaption></figure><figure><a href="http://blogs.driving.ca/2012/12/11/cars-in-the-style-of-steve-buscemi/" title="Cars in the style of… Steve&nbsp;Buscemi"><img src="http://www.canada.com/7681892.bin?size=140x95" alt="Cars in the style of… Steve&nbsp;Buscemi"></a><figcaption><a href="http://blogs.driving.ca/2012/12/11/cars-in-the-style-of-steve-buscemi/" title="Cars in the style of… Steve&nbsp;Buscemi">Cars in the style of… Steve&nbsp;Buscemi</a></figcaption></figure><figure><a href="http://www.househunting.ca/buying-homes/gallery+mansion+Wayne+Gretzky+listed/7681384/story.html" title="Gallery: Mansion built for Wayne Gretzky listed —&nbsp;US$14.995M"><img src="http://www.canada.com/7681442.bin?size=140x95" alt="Gallery: Mansion built for Wayne Gretzky listed —&nbsp;US$14.995M"></a><figcaption><a href="http://www.househunting.ca/buying-homes/gallery+mansion+Wayne+Gretzky+listed/7681384/story.html" title="Gallery: Mansion built for Wayne Gretzky listed —&nbsp;US$14.995M">Gallery: Mansion built for Wayne Gretzky listed —&nbsp;US$14.995M</a></figcaption></figure><figure><a href="http://www.canada.com/travel/Houston+Bayport+boon+Canadian+cruisers/7644136/story.html" title="Houston’s Bayport a boon for Canadian&nbsp;cruisers"><img src="http://www.canada.com/7644261.bin?size=140x95" alt="Houston’s Bayport a boon for Canadian&nbsp;cruisers"></a><figcaption><a href="http://www.canada.com/travel/Houston+Bayport+boon+Canadian+cruisers/7644136/story.html" title="Houston’s Bayport a boon for Canadian&nbsp;cruisers">Houston’s Bayport a boon for Canadian&nbsp;cruisers</a></figcaption></figure><figure><a href="http://www.canada.com/health/Girl+home+holidays+after+bone+marrow+transplant+cures+rare+mutation/7677791/story.html" title="Girl home for holidays after bone marrow transplant cures rare&nbsp;mutation"><img src="http://www.canada.com/7677859.bin?size=140x95" alt="Girl home for holidays after bone marrow transplant cures rare&nbsp;mutation"></a><figcaption><a href="http://www.canada.com/health/Girl+home+holidays+after+bone+marrow+transplant+cures+rare+mutation/7677791/story.html" title="Girl home for holidays after bone marrow transplant cures rare&nbsp;mutation">Girl home for holidays after bone marrow transplant cures rare&nbsp;mutation</a></figcaption></figure><figure><a href="http://www.canada.com/life/theholidayguide12/Gallery+most+memorable+toys+from/5784558/story.html" title="Gallery: Ten most memorable toys from the&nbsp;’80s"><img src="http://www.canada.com/5784803.bin?size=140x95" alt="Gallery: Ten most memorable toys from the&nbsp;’80s"></a><figcaption><a href="http://www.canada.com/life/theholidayguide12/Gallery+most+memorable+toys+from/5784558/story.html" title="Gallery: Ten most memorable toys from the&nbsp;’80s">Gallery: Ten most memorable toys from the&nbsp;’80s</a></figcaption></figure><figure><a href="http://www.canada.com/travel/travel-shots/index.html" title="Show us your Travel&nbsp;Shots"><img src="http://www.canada.com/6910990.bin?size=140x95" alt="Show us your Travel&nbsp;Shots"></a><figcaption><a href="http://www.canada.com/travel/travel-shots/index.html" title="Show us your Travel&nbsp;Shots">Show us your Travel&nbsp;Shots</a></figcaption></figure>
+			</div>
+
+		</div>
+
+		<button class="slider-button next" rel="right" id="inside-canada-com-next"></button>
+
+		<div class="clear"></div>
+
+	</div>
+
+	<div class="clear"></div>
+
+</div>
+
+
+	<!-- "Right Rail Begins NOTE: Below is a sample of a vertical multi-row widget. Please note the placements of "first" and "last" classes. It alternates to facilite proper margin placement as well as proper positioning once browser is resized. Your rows are defined by "items" in this instance.-->
+
+	<aside class="overscroll main" id="right-rail">
+
+		<section id="activity-on-this-story" class="activity-on-this-story">
+
+			<h4>COMMENTS</h4>
+			<h5>Privacy&nbsp;statement</h5>
+
+			
+		</section>
+
+		
+	<section id="topComments" class="top-comments">
+	
+		<div class="fb-comments" data-shared="false" data-href="http://o.canada.com/2012/08/10/privacy-statement/" data-num-posts="5" data-width="260"></div>	
+		<div class="clear"></div>
+	
+	</section><!-- #topComments -->
+		
+	<section id="twitter" class="twitter">
+	
+		<h4>Related Tweets</h4>
+
+		<script>jQuery(function() {Postmedia.Twitter.Init("http://search.twitter.com/search.json?lang=en&q=%23%40thecanadacom&page=1","5","false")});</script>	
+	</section><!-- #twitter -->
+
+	
+	</aside><!-- #right-rail -->
+    </div><!-- end .body -->
+
+</div><!-- end body holder -->
+
+<footer>
+    <label>
+        <h3>Our Network</h3>
+    </label>
+<section class="about-us odd">
+
+        <h4>About Us</h4>
+
+        <ul id="menu-footer_about_us" class="menu"><li id="menu-item-64896" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64896"><a href="http://o.canada.com/2012/08/10/who-we-are/">Who We Are</a></li>
+<li id="menu-item-64907" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64907"><a href="http://o.canada.com/2012/08/10/contact-us/">Contact Us</a></li>
+<li id="menu-item-89548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89548"><a href="http://wp.me/p2v6kZ-nig">Facebook Commenting FAQs</a></li>
+<li id="menu-item-64906" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64906"><a href="http://www.postmedia.com/advertising/">Advertise with Us</a></li>
+<li id="menu-item-65886" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65886"><a href="http://www.canada.com/newsletter/signup/index.html">Subscribe To Our Newsletters</a></li>
+<li id="menu-item-64897" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-64897"><a href="http://o.canada.com/2012/08/10/privacy-statement/">Privacy Statement</a></li>
+<li id="menu-item-62967" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62967"><a href="http://www.canada.com/aboutus/termsofservice.html">Terms</a></li>
+<li id="menu-item-64904" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64904"><a href="http://www.canada.com/aboutus/copyright.html">Copyright &amp; Permissions</a></li>
+</ul>
+    </section>
+    <section class="partner-sites even">
+
+        <h4>Partner Sites</h4>
+
+        <ul id="menu-footer_partner_sites" class="menu"><li id="menu-item-62996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62996"><a href="http://www.driving.ca">Driving.ca</a></li>
+<li id="menu-item-154847" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154847"><a href="http://www.canada.com/life/theholidayguide12/index.html">Holiday Guide 2012</a></li>
+<li id="menu-item-64933" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64933"><a href="http://www.faceoff.com/index.html">Faceoff.com</a></li>
+<li id="menu-item-64934" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64934"><a href="http://www.canada.com/onlinetv">Postmedia Online TV</a></li>
+</ul>
+    </section>
+    <section class="featured-sites odd">
+
+        <h4>Featured Sites</h4>
+
+        <ul id="menu-footer_featured_sites" class="menu"><li id="menu-item-98738" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98738"><a href="http://portsandbows.com">Ports and Bows</a></li>
+<li id="menu-item-64908" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64908"><a href="http://www.canada.com/life/theholidayguide12/Canadians+expected+spend+cent+more+this+holiday+than+last/7518454/story.html">Holiday Gifts for Guys</a></li>
+<li id="menu-item-64913" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64913"><a href="http://www.driving.ca/microsites/2012preview/index.html">2012 New Car Preview</a></li>
+<li id="menu-item-62976" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62976"><a href="http://blogs.canada.com/category/channels/driving/">Driving Blog</a></li>
+<li id="menu-item-62973" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62973"><a href="http://www.dose.ca/special_coverage/awardshowhq/index.html">Award Shows</a></li>
+<li id="menu-item-62975" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62975"><a href="http://o.canada.com/discussions/canadas-newsmaker-of-the-year/">Canda’s Newsmaker of the Year</a></li>
+</ul>    </section>
+    <section class="newspapers even">
+
+        <h4>Newspapers</h4>
+
+        <ul id="menu-footer_newspapers" class="menu"><li id="menu-item-64922" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64922"><a href="http://www.nationalpost.com/index.html">The National Post</a></li>
+<li id="menu-item-64923" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64923"><a href="http://www.theprovince.com/index.html">The Province</a></li>
+<li id="menu-item-64924" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64924"><a href="http://www.vancouversun.com/index.html">Vancouver Sun</a></li>
+<li id="menu-item-64925" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64925"><a href="http://www.edmontonjournal.com/index.html">Edmonton Journal</a></li>
+<li id="menu-item-64926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64926"><a href="http://www.calgaryherald.com/index.html">Calgary Herald</a></li>
+<li id="menu-item-64927" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64927"><a href="http://www.leaderpost.com/index.html">Regina Leader-Post</a></li>
+<li id="menu-item-64928" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64928"><a href="http://www.thestarphoenix.com/index.html">Saskatoon StarPhoenix</a></li>
+<li id="menu-item-65363" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65363"><a href="http://www.windsorstar.com/index.html">Windsor Star</a></li>
+<li id="menu-item-62994" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62994"><a href="http://www.ottawacitizen.com/index.html">Ottawa Citizen</a></li>
+<li id="menu-item-64931" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64931"><a href="http://www.montrealgazette.com/index.html">Montreal Gazette</a></li>
+</ul>
+    </section>
+
+    <section class="marketplace odd">
+
+        <h4>Marketplace</h4>
+
+        <ul id="menu-footer_marketplace" class="menu"><li id="menu-item-62978" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62978"><a href="http://www.canada.com/shop/index.html">Shopping</a></li>
+<li id="menu-item-64915" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64915"><a href="http://www.workopolis.com/jobsearch/whitelabel/nationalpost/home">Jobs</a></li>
+<li id="menu-item-64916" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64916"><a href="http://www.driving.ca/index.html">Cars</a></li>
+<li id="menu-item-64917" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64917"><a href="http://www.househunting.ca/index.html?branding=default">Homes</a></li>
+<li id="menu-item-64918" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64918"><a href="http://www.legacy.com/obituaries/remembering/">Remembering</a></li>
+<li id="menu-item-64919" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64919"><a href="http://canadaclassifieds.oodle.com/">Classifieds</a></li>
+<li id="menu-item-64920" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64920"><a href="http://www.flyercity.ca/?p=canada&amp;locale=en&amp;utm_source=fm&amp;utm_medium=fm_48&amp;utm_term=more&amp;utm_campaign=wishabi_1_0">Flyer City</a></li>
+<li id="menu-item-80975" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-80975"><a href="http://www.infomart.com">Infomart</a></li>
+</ul>
+    </section>
+    <div class="clear"></div>
+    <div class="subfooter">
+        <div class="search-box">
+            <div class="search-link">
+            	search
+            	<div id="footer-search-button" class="footer-search-button nav-button" rel="left" dep="main-menu"></div>
+            </div>
+            <div class="search-txtbox">
+        		<form role="search" method="get" id="searchform" class="slide" action="http://o.canada.com">
+					<input type="text" id="search-3" name="s" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}" value="Search">
+					<button></button>
+				</form>
+            </div>
+        </div>
+        <div class="group-right">
+            <div class="splitter first"></div>
+            <a href="http://www.canada.com/aboutus/sitemap.html?layer=true&amp;returnurl=http%3A%2F%2Fwww.canada.com%2Fmembers%2Fedit-profile.html" class="manage-subscriptions">Manage Subscriptions</a>
+            <div class="splitter last"></div>
+
+            
+	<div class="social-media">
+
+		<span>follow us</span>
+
+		<a href="http://www.canada.com/aboutus/sitemap.html" target="_blank" class="rss" title="rss"></a>
+		<a href="http://www.facebook.com/canada.com" target="_blank" class="facebook" title="facebook"></a>
+		<a href="https://twitter.com/#!/thecanadacom" target="_blank" class="twitter" title="twitter"></a>
+		<a href="https://plus.google.com/103522559669112616048" target="_blank" class="google" title="google plus"></a>
+		<a href="http://pinterest.com/canadalifestyle/" target="_blank" class="pinterest" title="pinterest"></a>
+
+	</div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="powered-by">
+		<a href="http://www.canada.com/aboutus/sitemap.html" class="site-map">site map</a>
+		<div class="splitter"></div>
+		<div class="legal">
+			© 2012 <a href="http://www.postmedia.com">Postmedia Network Inc.</a> All rights reserved. Unauthorized distribution, transmission or republication strictly prohibited.
+		</div>
+		<div class="splitter"></div>
+		<div class="powered-by-wp">
+			<a href="http://vip.wordpress.com/" rel="generator nofollow" class="powered-by-wpcom"><img src="http://s0.wp.com/wp-content/themes/vip/plugins/vip-do-not-include-on-wpcom/vip-powered-wpcom/images/vip-powered-wpcom-light-small.png?m=1262037983g" width="166" height="26"></a>		</div>
+		<div class="splitter"></div>
+		<a href="#top" class="back-to-top">Back to Top</a>
+		<div class="clear"></div>
+	</div>
+	<div class="powered-by small">
+		<div class="clear">
+			<a href="http://www.canada.com/aboutus/sitemap.html" class="site-map">site map</a>
+			<div class="splitter"></div>
+			<a href="#" class="back-to-top">Back to Top</a>
+		</div>
+		<div class="clear">
+			<div class="legal">
+				© 2012 <a href="http://www.postmedia.com">Postmedia Network Inc.</a> All rights reserved. Unauthorized distribution, transmission or republication strictly prohibited.
+			</div>
+			<div class="powered-by-wp clear">
+				<a href="http://vip.wordpress.com/" rel="generator nofollow" class="powered-by-wpcom"><img src="http://s0.wp.com/wp-content/themes/vip/plugins/vip-do-not-include-on-wpcom/vip-powered-wpcom/images/vip-powered-wpcom-light-small.png?m=1262037983g" width="166" height="26"></a>			</div>
+		</div>
+	</div>
+	<div class="clear"></div>
+</footer>
+</div>
+
+<script type="text/javascript">
+var _qevents = _qevents || [], wpcomQuantcastData = {"qacct":"p-18-mFEk4J448M","labels":",language.en,type.wpcom,posttag.canada-com,posttag.information-privacy,vip.postmediacanadadotcom"};
+function wpcomQuantcastPixel( labels, options ) {
+	var i, defaults = wpcomQuantcastData, data = { event: 'ajax' };
+
+	labels  = labels  || '';
+	options = options || {};
+
+	if ( typeof labels != 'string' )
+		options = labels;
+
+	for ( i in defaults ) {
+		data[i] = defaults[i];
+	}
+
+	for ( i in options ) {
+		data[i] = options[i];
+	}
+
+	if ( data.labels ) {
+		data.labels += ',' + labels;
+	} else {
+		data.labels = labels;
+	}
+
+	_qevents.push( data );
+};
+(function() {var elem = document.createElement('script');elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";elem.async = true;elem.type = "text/javascript";var scpt = document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem, scpt);  })();
+_qevents.push( wpcomQuantcastData );
+</script>
+<noscript><div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-18-mFEk4J448M.gif?labels=%2Clanguage.en%2Ctype.wpcom%2Cposttag.canada-com%2Cposttag.information-privacy%2Cvip.postmediacanadadotcom" height="1" width="1" alt="" /></div></noscript>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+jQuery('a[href^="http://"]').filter(function() {
+	if(jQuery(this).parents('.target-self').length == 0) {
+		return jQuery(this);
+	}
+}).each(function() {
+	var a = new RegExp('/' + window.location.host + '/');
+	if(!a.test(this.href)) {
+		jQuery(this).attr('target', '_blank');
+	}
+});
+
+<!-- /// LOAD CHARTBEAT /// -->
+var _sf_async_config={};
+
+/** CONFIGURATION START **/
+_sf_async_config.uid = 34988;
+_sf_async_config.domain = 'postmedia.com';
+_sf_async_config.sections = 'o.canada.com';
+_sf_async_config.authors = 'Canada.com';
+
+/** CONFIGURATION END **/
+( function(){
+	function loadChartbeat() {
+		window._sf_endpt=(new Date()).getTime();
+		var e = document.createElement('script');
+		e.setAttribute('language', 'javascript');
+		e.setAttribute('type', 'text/javascript');
+		e.setAttribute('src',
+		   (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+		   'js/chartbeat.js');
+		document.body.appendChild(e);
+	}
+	var oldonload = window.onload;
+	window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+<!-- /// END CHARTBEAT /// -->
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35592751-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+			<div style="display:none">
+	<div class="grofile-hash-map-667a7be8f7dac99264c9c09695c5a6a2">
+	</div>
+	</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"http:\/\/postmediacanadadotcom.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"http:\/\/postmediacanadadotcom.wordpress.com\/wp-login.php?action=logout&_wpnonce=e7102a9e22","homeURL":"http:\/\/o.canada.com\/","postID":"91123","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://s1.wp.com/wp-content/mu-plugins/highlander-comments/script.js?m=1352785702g"></script>
+<link rel="stylesheet" id="all-css-0" href="http://s1.wp.com/wp-content/themes/vip/postmedia-canadadotcom/css/cdc-ui-weather.css?m=1341514682g" type="text/css" media="all">
+<script type="text/javascript">
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/postmediacanadadotcom.wordpress.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif","closeImage":"http:\/\/postmediacanadadotcom.wordpress.com\/wp-includes\/js\/thickbox\/tb-close.png"};
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/postmediacanadadotcom.wordpress.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif","closeImage":"http:\/\/postmediacanadadotcom.wordpress.com\/wp-includes\/js\/thickbox\/tb-close.png"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://s1.wp.com/_static/??-eJydjEEOwjAMBD9ECAgaiQPiLca2FKdNHBG39Pmkh/KA3laamfXf6lCLcTGfmideBLmu59ROviMpOM3EbWMWBce3rv+xS3tvkXNXF6m+arPMJOAQChCQGmreXpDQNUWB6XAOs0X99PyVn9fbcA9DCJdH+gFnAEqy"></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="http://s.stats.wordpress.com/w.js?21" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({'blog':'36965205','v':'wpcom','tz':'-5','user_id':'0','post':'91123','subd':'postmediacanadadotcom'});
+function st_vt() {var x=document.createElement("img");x.src="http://stats.wordpress.com/g.gif?blog=36965205&v=wpcomvt&tz=-5&user_id=0&post=91123&subd=postmediacanadadotcom&rand="+Math.random();}
+ex_go({'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTc/MUhXW11WSmgua2VGeE9FLFBLcmt0a1I9Nm1idzFaMkl1fDhyR2t1SmgvLHglWW51VFBVbi8uWUg3b1VrMzhIeSthUVgvMyZnWiVoX3lNLCtxLmEmaXd8Y1AxZmlyJS5nRCs5Mzl6RmkzeHg5OWUzdUIyMW5VemZMU09iLmFTXXVUNk1jS3clbk04Q3lNfj9mTFc2ejRSLltxSGZHMGxBZmRud3hCL0VvSE1sakU0eXEuVGVsPzBEcA=='});
+addLoadEvent(function(){linktracker_init('36965205',91123);});
+	</script>
+<noscript><img src="http://stats.wordpress.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
 
 </body></html>
