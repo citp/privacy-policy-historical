@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oncontracting.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524121314id_/http%3A//www.oncontracting.com/pg/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oncontracting.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213004402id_/http%3A//www.oncontracting.com/pg/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - OnContracting
+# Privacy Policy - OnContracting - Discover the best IT contract jobs in Seattle
 
 **PRIVACY POLICY**
 
@@ -17,6 +17,8 @@ The types of Personal Information collected may include your full name, website 
 In addition to the Personal Information mentioned, we may ask you to provide certain other information such as general demographic information, including age, gender, ZIP code, preferences, and interests.  The information we gather from our users enables us to personalize and improve the OnContracting Service.   
 
 We may receive and store any information you enter on the Website or provide to us in any other way.  The Personal Information you provide may be used for providing attribution to comments you post, to operate and improve the Website, and to better deliver the OnContracting Service.  
+
+If you do not want us to collect your personal information, please do not provide it to us.
 
 **Information from Social Networking Websites**
 
@@ -44,13 +46,37 @@ In some cases, we may choose to buy or sell assets.  In these types of transact
 
 OnContracting may access and/or disclose personal information about you or your account without your prior consent if OnContracting has a good faith belief that such action is necessary to: (i) comply with legal process or other legal requirements of any governmental authority; (ii) protect and defend the rights or property of OnContracting (including the enforcement of our agreements); (iii) enforce the Terms of Use, which can be accessed at  _[www.oncontracting.com/terms/](http://www.oncontracting.com/terms/)_ (v) operate or conduct maintenance and repair of the Services or equipment as authorized by law; or (vi) act in urgent circumstances to protect the personal safety of users of OnContracting Services or members of the public.
 
+OnContracting may also share your personal information for the following reasons
+
+  * To allow job seekers to post resumes;
+  * To allow recruiters to post job openings and search resumes. These jobs will be listed and indexed in our Web Site as well as search engines, which may be searchable either directly or indirectly by job seekers, other registered users, and corporations;
+  * To allow other recruiters to contact you online via the Web Site;
+  * To enable you to contact us and provide feedback, and to enable us to respond to your comments and requests for assistance;
+  * To improve our marketing and advertising efforts;
+  * To provide you with our own and third-party product and content offerings that may interest you including newsletters, surveys and career advice;
+  * To enable you to use the “Forward this to a Friend” and “Referral” features;
+  * To enable unaffiliated third-party service providers, agents, or independent contractors to help us maintain our Web Site and to provide any other administrative service to us (including, but not limited to, hosting our web servers, providing market research analysis, processing credit card payments, providing customer service, analyzing data, and providing marketing assistance);
+  * To affiliates, strategic partners, agents, third party marketers or other unaffiliated parties who are offering products or services that we believe may be of interest to you or who require your personally identifiable information for research, administrative and/or internal business purposes. These parties may use your personally identifiable information to contact you with an offer or advertisement related to a product or service, or they may use such information for their own research, administration or business purposes. If you do not want us to share your personally identifiable information in this manner, please do not provide us with this information;
+  * To third parties as part of any corporate reorganization process including, but not limited to, mergers, acquisitions, and sales of all or substantially all of our assets;
+  * To send account statements and invoices to users;
+  * To enforce or apply any of the terms of our user agreements;
+  * To protect and defend our rights and property, and to act in urgent circumstances to protect the personal safety of our users;
+  * To contact you about Web Site updates, informational and service-related communications, including important security updates;
+  * To generate internal reports about the use of our Web Site;
+  * To publish the jobs in third party job feed sites;
+  * To post jobs and upload resumes received through E-Mails, XML Feeds, and APIs.
+
+
+
+Even your resume or corporate profile from our web site is removed, there will be residual information that will remain within our databases, logs, and other records. The residual information will not be used for commercial purposes. However, Corp-Corp.com reserves the right, to re-contact former users of our web site.
+
 **Security and Protection of Personal Information**
 
-We maintain reasonable standards of security and confidentiality and store Personal Information collected in a database.  However, while we employ reasonable standards of security, no security system is impenetrable.   For most internet sites, it is possible that third parties may unlawfully intercept or access transmissions you submit.  As such, OnContracting cannot guarantee the security of our database, nor can we guarantee that information you supply won’t be intercepted while being transmitted to OnContracting over the internet.  We recommend that you do not disclose your password or confirmation number (as applicable) to anyone.
+We maintain reasonable standards of security and confidentiality and store Personal Information collected in a database.  However, while we employ reasonable standards of security, no security system is impenetrable.   For most internet sites, it is possible that third parties may unlawfully intercept or access transmissions you submit or create accounts that give them access to this information.  As such, OnContracting cannot guarantee the security of our database, nor can we guarantee that information you supply won’t be intercepted while being transmitted to OnContracting over the internet.  We recommend that you do not disclose your password or confirmation number (as applicable) to anyone. We also recommend you do not share information that is not necessary for example your personal address, phone number, other details as most communication can be done via messages in the system and/or by email.
 
 **E-mail Communications**
 
-Upon registration for events and/or services provided by OnContracting, we may send you daily or weekly e-mails.  If you do not want to receive e-mail or other mail from us, please notify us by [e-mail](mailto:info@oncontracting.com) and include sufficient information for us to identify your account, including your name, email address and the specifics of your request. However, after you unsubscribe to cease receiving e-mails, OnContracting may still contact you via e-mail for administrative or informational purposes, including messages regarding the administration of your account and/or any services or events to which you have registered.
+Upon registration for events and/or services provided by OnContracting, we may send you daily or weekly e-mails.  If you do not want to receive e-mail or other mail from us, please change your settings in the website. However, after you unsubscribe to cease receiving e-mails, OnContracting may still contact you via e-mail for administrative or informational purposes, including messages regarding the administration of your account and/or any services or events to which you have registered.
 
 **Advertisements Displayed by Third Parties**
 
@@ -58,7 +84,7 @@ OnContracting may allow third-party ad serving companies, including ad networks,
 
 **Changes to this Privacy Policy  **
 
-OnContracting retains the discretion to amend or modify this Privacy Policy from time to time, in its sole discretion.  Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected.  If we make changes in the way we use your Personal Information, we will notify you by posting an announcement on the Website, and such changes shall be effective immediately upon posting.  You agree to review this Privacy Policy periodically to ensure that you are aware of any changes.  Your continued access or use of the Website and/or the OnContracting Service shall be deemed your conclusive acceptance of any amendments and/or modifications.
+OnContracting retains the discretion to amend or modify this Privacy Policy from time to time, in its sole discretion.  Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected.  If we make changes in the way we use your Personal Information such changes shall be effective immediately upon posting.  You agree to review this Privacy Policy periodically to ensure that you are aware of any changes.  Your continued access or use of the Website and/or the OnContracting Service shall be deemed your conclusive acceptance of any amendments and/or modifications.
 
 **Questions or Comments Regarding this Privacy Policy**
 
