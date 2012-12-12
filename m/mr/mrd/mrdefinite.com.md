@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrdefinite.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630071021id_/http%3A//mrdefinite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrdefinite.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212181253id_/http%3A//mrdefinite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
