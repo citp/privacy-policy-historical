@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurocarparts.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510181845id_/http%3A//www.eurocarparts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocarparts.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212031429id_/http%3A//www.eurocarparts.com/privacy-policy) for the most accurate reproduction.*
 
 # Euro Car Parts Privacy Policy| Car Parts | Car Accessories | Car Tools
 
@@ -14,9 +14,10 @@ For the purpose of the Data Protection Act 1998 (the Act), the data controller i
     1. 1.1 We may collect and process the following data about you: 
       1. 1.1.1 Information that you provide by filling in forms on our site www.eurocarparts.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, purchasing goods, posting material or requesting further services. We may also ask you for information when you report a problem with our site.
       2. 1.1.2 If you contact us, we may keep a record of that correspondence.
-      3. 1.1.3 We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-      4. 1.1.4 Details of transactions you carry out through our site and of the fulfilment of your orders.
-      5. 1.1.5 Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+      3. 1.1.3 Please note that we record and monitor telephone conversations that we have with you. The sole purpose of any recording is for training and quality control purposes. Under the Data Protection Act 1998 any personal or confidential information disclosed shall not be made available to any third party (unless required by law to do so) or used for marketing purposes. Recorded conversations are deleted one month after the recording was made.
+      4. 1.1.4 We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+      5. 1.1.5 Details of transactions you carry out through our site and of the fulfilment of your orders.
+      6. 1.1.6 Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
   2. **IP ADDRESSES AND COOKIES**
     1. 2.1 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
     2. 2.2 For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us: 
@@ -25,7 +26,8 @@ For the purpose of the Data Protection Act 1998 (the Act), the data controller i
       3. 2.2.3 To speed up your searches.
       4. 2.2.4 To recognise you when you return to our site.
     3. 2.3 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
-    4. 2.4 Please note that our advertisers may also use cookies, over which we have no control.
+    4. 2.4 Please note that our advertisers may also use cookies, over which we have no control
+    5. 2.5 ECP use a service called VeCapture by Ve Interactive to save the contents of your basket when you haven’t completed a transaction. If you quit the ECP website without placing an order VeCapture will remember the items you added to your basket and send you an email with a reminder plus similar offers and products. We do this to make sure your shopping experience is as hassle free as possible. If you do not want to receive marketing emails in the future, please click on the unsubscribe link at the bottom of the email you have received.
   3. **WHERE WE STORE YOUR PERSONAL DATA**
     1. 3.1 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
     2. 3.2 All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
@@ -59,6 +61,3 @@ For the purpose of the Data Protection Act 1998 (the Act), the data controller i
     1. 9.1 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Euro Car Parts Limited of Euro House, Fulton Road, Wembley Industrial Estate, Wembley, Middlesex, HA9 0TF.
 
 
-
-Euro Car Parts are proud to receive:  
-4.4 (*****) rating based on 90 reviews, ratings and recommendations from our customers on pricing, value, quality and service for our car parts purchased online.
