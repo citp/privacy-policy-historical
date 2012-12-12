@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplia.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605225802id_/http%3A//www.aplia.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplia.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212053442id_/http%3A//aplia.com/privacy.jsp) for the most accurate reproduction.*
 
 # Aplia :: Aplia Privacy Notice
 
@@ -69,6 +69,6 @@ Your Consent
 By using our website, you consent to the collection and use of this information in the manner we describe.
 
 How to Contact Us  
-Should you have other questions or concerns about these privacy policies, please send us an e-mail at [privacy@aplia.com](mailto:privacy@aplia.com).
+Should you have other questions or concerns about these privacy policies, please send us an e-mail at [corporatecommunications@cengage.com](mailto:corporatecommunications@cengage.com).
 
 Updated: September, 2007
