@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iqtell.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613172654id_/http%3A//iqtell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iqtell.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212180718id_/http%3A//iqtell.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | IQTELL's Productivity App, Everything In One Place
+# Privacy Policy « IQTELL's Productivity App, Everything In One Place
 
 [](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.iqtell.com/seal_m "Validate TRUSTe privacy certification")
 
@@ -67,4 +67,4 @@ IQTELL stores its servers in a highly secure server environment with 24/7 monito
 
 If we decide to change our privacy policy, we will post those changes on this page, and notify our users, so that our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will always use information in accordance with the privacy policy under which the information was collected.
 
-If you have any questions about our Privacy Policy, please email us at [privacy.policy@iqtell.com](mailto:privacy.policy@iqtell.com) or contact us via postal mail at 2477 route 516, Old Bridge, NJ 08857.
+If you have any questions about our Privacy Policy, please email us at [privacy.policy@iqtell.com](mailto:privacy.policy@iqtell.com) or contact us via postal mail at 2477 Route 516, Old Bridge, NJ 08857.
