@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhbabyandchild.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623032811id_/http%3A//www.rhbabyandchild.com/customer-service/privacy-policy.jsp%3Flink%3Dbotnav_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhbabyandchild.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212011115id_/http%3A//www.rhbabyandchild.com/customer-service/privacy-policy.jsp%3Fcm_sp%3Dglobal_footer_store-_-privacy_policy-_-NA%26link%3Dbotnav_privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Restoration Hardware Baby & Child
 
