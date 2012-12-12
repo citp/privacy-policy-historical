@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thediplomat.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614114840id_/http%3A//thediplomat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thediplomat.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212132210id_/http%3A//thediplomat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Diplomat
+# - The Diplomat
 
 The Diplomat is fully committed to protecting your privacy. This privacy statement explains The Diplomat’s data collection and use practices for the magazine. By accessing The Diplomat, you are consenting to the information collection and use practices described in this privacy statement.
 
@@ -57,7 +57,7 @@ We may occasionally update this privacy statement. When we do, we will also revi
 The Diplomat welcomes your comments regarding this privacy statement. If you believe that The Diplomat has not adhered to this privacy statement, please contact us by email at [info@the-diplomat.com](mailto:info@the-diplomat.com) or via mail at the address provided below, and we will use reasonable efforts to promptly determine and remedy any problem.
 
 The Diplomat  
-9F West Co Bldg.,1-9-6 Ebisu-Nishi  
-Shibuya-ku  
-Tokyo 150-0021  
+701 Ebisu MF Bldg.  
+4-6-1 Ebisu, Shibuya-ku,  
+Tokyo 150-0013  
 Japan
