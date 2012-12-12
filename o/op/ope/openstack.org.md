@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the openstack.org privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625031811id_/http%3A//openstack.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openstack.org privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212073154id_/http%3A//www.openstack.org/privacy) for the most accurate reproduction.*
 
 # OpenStack Privacy Policy » OpenStack Open Source Cloud Computing Software
 
-OpenStack, LLC (“OpenStack”) respects your privacy and is committed to protect the privacy and confidentiality of personal data we collect when you use the website located at http://www.openstack.org (the “Website”). This Privacy Policy describes the ways we collect information from and about you, and what we do with the information, so that you may decide whether or not to provide information to us.
+OpenStack, LLC (OpenStack) respects your privacy and is committed to protect the privacy and confidentiality of personal data we collect when you use the website located at http://www.openstack.org (the Website). This Privacy Policy describes the ways we collect information from and about you, and what we do with the information, so that you may decide whether or not to provide information to us.
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE SITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS AND CONDITIONS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS SET FORTH BELOW, YOU MAY NOT USE THE SITE.
 
 ## 1\. SCOPE OF THIS PRIVACY POLICY
 
-This Privacy Policy applies to all information (including, personal information) collected through the Website. For purposes of this Privacy Policy, the term “visitor” includes visitors to the Website, whether you upload information to the Website, download it, or are merely visiting the Website; the term “personal information” means information that identifies you personally, either alone or in combination with other information available to us. Personal information does not include "aggregate" information, which is data we collect about the use of the Website, or about a group or category of products, services or users, from which individual identities or other personal information has been removed. This policy in no way restricts or limits our collection and use of aggregate information, and we may share aggregate data about our users with third parties for various purposes. You can choose not to provide certain information when using the Website but then you might not be able to take advantage of many of its features.
+This Privacy Policy applies to all information (including, personal information) collected through the Website. For purposes of this Privacy Policy, the term visitor includes visitors to the Website, whether you upload information to the Website, download it, or are merely visiting the Website; the term personal information means information that identifies you personally, either alone or in combination with other information available to us. Personal information does not include "aggregate" information, which is data we collect about the use of the Website, or about a group or category of products, services or users, from which individual identities or other personal information has been removed. This policy in no way restricts or limits our collection and use of aggregate information, and we may share aggregate data about our users with third parties for various purposes. You can choose not to provide certain information when using the Website but then you might not be able to take advantage of many of its features.
 
-This Privacy Policy is part of and incorporated into OpenStack’s Website Terms of Use, http://www.openstack.org/website-terms-of-use.
+This Privacy Policy is part of and incorporated into OpenStacks Website Terms of Use, http://www.openstack.org/website-terms-of-use.
 
 ## 2\. WHAT INFORMATION DO WE COLLECT?
 
@@ -20,11 +20,11 @@ Personal information may be collected in a number of ways when you visit the Web
 
 ### Passive Collection of Information
 
-When you visit the Website, some information may be automatically collected. For example, it is standard for your Web browser to automatically send information to every Web site you visit including ours. Such information includes your computer's Internet Protocol (“IP”) address, access times, browser type and language, and referring Web site addresses. We may also collect information about your usage and activity on the Site.
+When you visit the Website, some information may be automatically collected. For example, it is standard for your Web browser to automatically send information to every Web site you visit including ours. Such information includes your computer's Internet Protocol (IP) address, access times, browser type and language, and referring Web site addresses. We may also collect information about your usage and activity on the Site.
 
 ### Online Mediums Reminder
 
-Chat rooms, forums, blogs and/or news groups (“Online Mediums”) may be available to the OpenStack community. Any information that you disclose in the Online Mediums becomes public information. Please exercise caution when deciding to disclose any personal identifiable information. We reserve the right to remove or edit any posting that we find is vulgar or inappropriate.
+Chat rooms, forums, blogs and/or news groups (Online Mediums) may be available to the OpenStack community. Any information that you disclose in the Online Mediums becomes public information. Please exercise caution when deciding to disclose any personal identifiable information. We reserve the right to remove or edit any posting that we find is vulgar or inappropriate.
 
 ### Web Visit
 
@@ -54,7 +54,7 @@ We may provide links to third-party websites for your convenience and informatio
 
 We will not intentionally collect or maintain, and do not want you to provide, any information regarding your medical or health condition, race or ethnic origin, political opinions, religious or philosophical beliefs or other sensitive information.
 
-### Children’s Online Privacy Protection
+### Childrens Online Privacy Protection
 
 Our services are not designed for or directed to children under the age of 13, and we will not intentionally collect or maintain information about anyone under the age of 13.
 
@@ -64,7 +64,7 @@ Contact and other Personal Information. We use visitor information to send infor
 
 We use web visit information to measure interest in and develop our web pages and marketing plans, customize the content you view on your web visits based on your activity on past visits, and administer our Website.
 
-  * We use the visitors’ IP address to help diagnose problems with our servers, and to administer our Websites.
+  * We use the visitors IP address to help diagnose problems with our servers, and to administer our Websites.
   * We use cookies to help us recognize visitors as unique visitors (just a number) when they return to our websites. For example, if there are 1,000 visits to our website on a certain day, we can use cookies to discover how many of those visits were made via the same browser (same visitor). We may also use the cookie to discover whether a certain visitor has visited our site more than once, and the source for each visit. We also use cookies to: allow us to tailor content or advertisements to match your preferred interest; avoid showing visitors the same advertisements repeatedly; compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our Website (we cannot identify visitors personally in this way); count the number of anonymous users of our sites.
   * We use web beacons to count the number of times that our advertisements and web-based email content are viewed. We combine web beacon information with cookies to track activity on our website originating from advertisements and web-based email content.
 
