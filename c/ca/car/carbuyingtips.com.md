@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbuyingtips.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607222111id_/http%3A//www.carbuyingtips.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbuyingtips.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212232425id_/http%3A//www.carbuyingtips.com/privacy.htm) for the most accurate reproduction.*
 
 # CarBuyingTips.com Privacy Policy
 
@@ -6,7 +6,7 @@ Privacy Policy Statement
 
 This is the web site of **[CarBuyingTips.com](http://www.carbuyingtips.com/)**.
 
-We can be reached via e-mail at **[www.caruyingtips.com/email.htm](http://www.carbuyingtips.com/email.htm)**.
+We can be reached via e-mail at **[www.carbuyingtips.com/email.htm](http://www.carbuyingtips.com/email.htm)**.
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name and IP address, but not the e-mail address.
 
@@ -19,3 +19,5 @@ With respect to cookies: We do set cookies but they are only used to remember th
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. Each advertiser has their own privacy privacy that can be viewed on their web site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above email address.
+
+Copyright © 1996-2020 ConsumerNet, Inc. CarBuyingTips.com® is a registered trademark of ConsumerNet, Inc.
