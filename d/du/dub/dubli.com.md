@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dubli.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625020744id_/http%3A//us.dubli.com/info/12-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubli.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212074304id_/http%3A//us.dubli.com/info/12-Privacy) for the most accurate reproduction.*
 
-# Privacy Statement » DubLi
+# Privacy » DubLi
 
 Effective Date: March 22, 2012 
 
