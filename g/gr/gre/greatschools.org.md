@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatschools.org privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630074651id_/http%3A//www.greatschools.org/privacy/%3Fstate%3DCA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatschools.org privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212191509id_/http%3A//www.greatschools.org/privacy/%3Fstate%3DCA) for the most accurate reproduction.*
 
 # GreatSchools.org Privacy Statement
 
@@ -44,9 +44,9 @@ Users who no longer wish to receive our newsletters or other communications can 
 
 ##### User Surveys
 
-From time to time, we request information from users and newsletter subscribers via surveys. Participation in these surveys is voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as ZIP code, grade level). Contact information may be used to notify winners and award prizes. 
+From time to time, we request information from users and newsletter subscribers via surveys. Participation in these surveys is voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name, phone number, and address), and demographic information (such as ZIP code and child's grade level). Contact information may be used to notify winners and award prizes. 
 
-Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. The information you provide in response to survey questions may be shared, but only in the aggregate or anonymously, with advertisers and partners, unless we notify you otherwise at the time of collection. Responses are not tied to personally identifiable information.
+Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. The information you provide in response to survey questions may be shared, but only in the aggregate or anonymously, with advertisers and partners, unless we notify you otherwise at the time of collection.
 
 ##### Email Referral Service
 
