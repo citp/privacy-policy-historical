@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techtutshub.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628050018id_/http%3A//techtutshub.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techtutshub.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212044123id_/http%3A//techtutshub.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy-How to Blog
+# Privacy Policy
 
 [](http://2.bp.blogspot.com/-VoLm10su5AM/TygvN1I1aJI/AAAAAAAAASg/lYc2FVGJzVo/s1600/Techtutshub+privacy+Policy.PNG)
 
@@ -8,9 +8,15 @@ At [ **Techtutshub**](http://www.techtutshub.com/ "Techtutshub") ** ** the  *
 
 This Privacy Policy is reviewed and revised from time to time. You will want to revisit it regularly. Your use of this site, in any and all forms, constitutes an acceptance of this **_Privacy Policy_.**
 
-####  Note: the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
+  
 
-###  **Log Files**
+
+> **Note:** The privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
+
+  
+
+
+###  Log Files
 
 We use log files like many other websites. The information in the log files include:
 
@@ -28,11 +34,13 @@ We use log files like many other websites. The information in the log files incl
 
 All of this information is not linked to anything that is personally identifiable.
 
-###  **Cookies.**
+###  Cookies.
 
 **www.techtutshub.com**  does not use cookies.
 
-**www.techtutshubcom**  has no access to or control over these cookies that are used by third-party advertisers.
+**www.techtutshubcom**  has no access to or control over these cookies that are used by third-party advertisers.  
+  
+
 
 ###  Distribution of Information.
 
@@ -44,13 +52,19 @@ We may share information with governmental agencies or other companies assisting
 
 
 
-###  Childrens Online Privacy Protection Act Compliance
+###  Childrens Online Privacy Protection Act Compliance.
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least  **13 years old or older.**
 
-###  **Commitment to Data Security.**
+###  Commitment to Data Security.
 
 Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
+
+###  Our License Details
+
+[](http://creativecommons.org/licenses/by/3.0/deed.en_US)  
+Techtutshub by [Hammad Baig](http://www.techtutshub.com/) is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US).  
+Based on a work at <http://www.techtutshub.com/>.
 
 ###  Privacy Contact Information.
 
@@ -58,4 +72,4 @@ Users might be asked to subscribe to our newsletter by providing  email address
 
 If you have any  **Questions, Concerns, or Comments**  about our privacy policy you may contact us using the information below:  
 E-mail:  **w** **eb** **master@techtutshub.com**   – [ **Contact Us**](http://techtutshub.com/p/contact-us.html "Contact Us")    
-Last Updated: June 17 , 2012
+Last Updated: August 7 , 2012
