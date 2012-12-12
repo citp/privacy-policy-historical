@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewtrackers.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629134358id_/http%3A//www.reviewtrackers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewtrackers.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212083536id_/http%3A//www.reviewtrackers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Review Trackers
 
@@ -16,6 +16,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 **How we use collected information**  
 Review Trackers collects and uses Users personal information for the following purposes:
 
+  * To Report Industry Trends – We may anonymize information from reviews that we aggregate for you as well as your User information in order to report industry trends and further analysis to other Users.
   * To personalize user experience- We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
   * To improve our Site- We continually strive to improve our website offerings based on the information and feedback we receive from you.
   * To improve customer service- Your information helps us to more effectively respond to your customer service requests and support needs.
@@ -51,11 +52,10 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 **Contacting us**  
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Review Trackers  
-ReviewTrackers.com  
+Review Trackers, Inc.  
 411 Walnut Street, Suite 8863  
 Green Cove Springs, FL 32043  
 (866) 854-7670  
-info@reviewtrackers.com
+info (at) reviewtrackers.com
 
-This document was last updated on February 12, 2012
+This document was last updated on August 14, 2012
