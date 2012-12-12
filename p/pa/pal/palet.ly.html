@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the palet.ly privacy policy that was archived on 2012-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523153912id_/http%3A//palet.ly/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the palet.ly privacy policy that was archived on 2012-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121213002052id_/http%3A//palet.ly/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link rel="icon" href="http://palet.ly/Images/favIcon.png" type="image/x-icon">
@@ -10,8 +10,9 @@
 <!-- end of meta content -->
 
 <!-- start of title tag -->
-<title>Inspired Shopping</title><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var serverPath='http://palet.ly/'</script>
+<title>Like a look?  Make it yours!</title><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var serverPath='http://palet.ly/'</script>
 
+<!-- <link type="text/css" rel="stylesheet" href="http://palet.ly/css/jquery.loadmask.css" />-->
 <link type="text/css" rel="stylesheet" href="http://palet.ly/css/newCss.css">
 <link type="text/css" rel="stylesheet" href="http://palet.ly/module/shop/css/shop.css">
 <link type="text/css" href="http://palet.ly/jquery/ui/datePicker/css/custom-theme/jquery-ui-1.8.16.datePicker.css" rel="stylesheet">
@@ -24,6 +25,7 @@
 <script type="text/javascript" src="http://palet.ly/jquery/jquery.cookies.2.2.0.min.js"></script>
 <script type="text/javascript" src="http://palet.ly/jquery/ui/datePicker/js/jquery-ui-datePicker.min.js"></script>
 <script type="text/javascript" src="http://s.skimresources.com/js/29143X869385.skimlinks.js"></script>
+<!-- <script type="text/javascript" src="http://palet.ly/jquery/jquery.loadmask.js"></script> -->
 
 <!-- include js files for scrollbar -->
 
@@ -126,11 +128,11 @@ $(document).ready(function(){
 	</div>
 	<ul class="main-menu">
 		<li id="home"><a href="http://palet.ly/Home">Home</a></li>
-					<li id="explore"><a href="http://palet.ly/Palets/Culture">explore</a></li>
+					<li id="explore"><a href="http://palet.ly/Palets/Color">explore</a></li>
 					<li id="create"><a href="http://palet.ly/createPaletShop.php">create</a></li>
 					<li id="shop"><a href="http://palet.ly/Shop/Fashion">shop</a></li><a href="http://palet.ly/Shop/Fashion">
 					</a><li id="community"><a href="http://palet.ly/Shop/Fashion"></a><a href="http://palet.ly/community.php">community</a></li>
-					<li id="trends" class="last"><a href="http://palet.ly/Trends/Decor">trends</a></li>		<!-- <li id="explore"><a class="selected" href="http://palet.ly/Home">explore</a></li>
+					<li id="trends" class="last"><a href="http://palet.ly/Trends/Nature">trends</a></li>		<!-- <li id="explore"><a class="selected" href="http://palet.ly/Home">explore</a></li>
 		<li id="create"><a href="http://palet.ly/createPaletShop.php">create</a></li>
 		<li id="shop"><a href="http://palet.ly/shop.php?shopCatId=1">shop</span></li>
 		<li id="community"><a href="http://palet.ly/community.php">community</a></li>
@@ -203,7 +205,7 @@ $(document).ready(function(){
 			<div class="dropDown">
 				<ul class="ddMenu">
                                     <li><a href="http://palet.ly/paletShops.php?shopCatId=1">Looks</a></li>
-                                    <li class="last"><a href="http://palet.ly/Palets/Decor">Palets</a></li>
+                                    <li class="last"><a href="http://palet.ly/Palets/Mood">Palets</a></li>
 								
 				</ul>
 			</div>
@@ -1049,16 +1051,16 @@ $(document).ready(function(){
         <div class="dropDownPointer"></div>
         <div class="dropDown">
                 <ul class="ddMenu">
-                    <li onclick="getColorMatches(this,'A')">Dresses</li>
-                    <li onclick="getColorMatches(this,'B')">Tops</li>
-                    <li onclick="getColorMatches(this,'D')">Pants</li>
-                    <li onclick="getColorMatches(this,'C')">Shoes</li>
-                    <li onclick="getColorMatches(this,'I')">Bags</li>
-                    <li onclick="getColorMatches(this,'E')">Headgear</li>
-                    <li onclick="getColorMatches(this,'F')">Watch</li>
-                    <li onclick="getColorMatches(this,'G')">Jewelry</li>
-                    <li onclick="getColorMatches(this,'J')">Sunglasses</li>
-                    <li onclick="getColorMatches(this,'K')">Accesories</li>
+                    <li onclick="callgetColorMatchesCheck(this,'A')">Dresses</li>
+                    <li onclick="callgetColorMatchesCheck(this,'B')">Tops</li>
+                    <li onclick="callgetColorMatchesCheck(this,'D')">Pants</li>
+                    <li onclick="callgetColorMatchesCheck(this,'C')">Shoes</li>
+                    <li onclick="callgetColorMatchesCheck(this,'I')">Bags</li>
+                    <li onclick="callgetColorMatchesCheck(this,'E')">Headgear</li>
+                    <li onclick="callgetColorMatchesCheck(this,'F')">Watch</li>
+                    <li onclick="callgetColorMatchesCheck(this,'G')">Jewelry</li>
+                    <li onclick="callgetColorMatchesCheck(this,'J')">Sunglasses</li>
+                    <li onclick="callgetColorMatchesCheck(this,'K')">Accesories</li>
 
                 </ul>
         </div>
