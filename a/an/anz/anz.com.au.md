@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the anz.com.au privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523192445id_/https%3A//anz.com.au/auxiliary/help/help/website-security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anz.com.au privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212193416id_/http%3A//anz.com.au/auxiliary/help/help/website-security-privacy) for the most accurate reproduction.*
 
 # ANZ Web Site Security and Privacy Statement | ANZ
 
-  * About this Security and Privacy Statement
+  * About this Security and privacy statement
   * Security of information
   * Information collected
   * Collection of IP addresses
   * Advertising and tracking
   * Cookies
-  * How we handle Email
-  * Use and Disclosure of Information
-  * Acceptance and Changes to Security and Privacy Statement
+  * How we handle email
+  * Use and disclosure of information
+  * Acceptance and changes to Security and privacy statement
 
 
 
-**About this Security and Privacy Statement**
+**About this Security and Privacy statement**
 
 This Security and Privacy Statement applies to this website which is operated by Australia and New Zealand Banking Group Limited 
 
@@ -54,6 +54,10 @@ If you use any of the tools such as the budget planner or home loan calculator w
 
 If you decide to complete an online application form or online survey, the information that you enter into the online form or survey will only be collected by ANZ if you submit your online application or survey. If at any stage you cancel your application or log out prior to submitting your application or survey, the information you have entered up to that point will be automatically deleted. You can suspend and save online applications. If you suspend or save your application, for example because you wish to complete it at another time, the information that you have entered will be retained in our systems so that you may recover the information when you resume your application. You may only recover this information within 30 days. After this time, the information is deleted. Online applications that have been suspended or saved will not be viewed by us and are not processed by us.
 
+ANZ uses Liveperson Inc. to deliver its live chat facility.  This facility is intended to be for the benefit of users wishing to make inquiries about a banking product in the Australian market.  If you decide to participate in a live chat, Liveperson Inc., on behalf of ANZ, collects, stores, uses and discloses any personal information that you provide for quality assurance purposes and to allow ANZ to follow up with you in relation to your inquiry.  Liveperson Inc. is required under its arrangements with ANZ to maintain the privacy and confidentiality of that personal information.
+
+ANZ will not ask you to disclose sensitive information (as defined by law) during a live chat, but if you elect to provide sensitive information it will also be captured and stored.  Sensitive information, as defined by law, is any information about a person’s racial or ethnic origin, political opinion, membership of a political association, religious beliefs or affiliations, philosophical beliefs, membership of a professional or trade association, membership of a trade union, sexual preferences or practices, criminal record or health information.
+
 The ANZ website also contains links to the websites of third party providers of goods and services ("Third Party websites"). If you have accessed Third Party websites through the ANZ website and if those third parties collect information about you, ANZ may also collect or have access to that information as part of our arrangements with those third parties.
 
 Where you access a Third Party website from the ANZ website, cookie information, information about your preferences or other information you have provided about yourself may be shared between us and the third party. You cannot usually be identified from the information that is shared; if you can be identified from this information, we will seek your consent before sharing such information.
@@ -70,7 +74,7 @@ For instance, ANZ collects and stores your IP address when you log into ANZ Inte
 
 Back to top
 
-**Advertising and Tracking**
+**Advertising and tracking**
 
 ANZ uses Doubleclick International Asia BV to deliver its online advertising where ANZ banner advertisements are placed on Third Party websites ('Advertising Company').
 
@@ -131,7 +135,7 @@ You may still be able to use some information-only pages even if you do not acce
 
 Back to top
 
-**How we Handle Email**
+**How we handle email**
 
 We will preserve the content of any e-mail that you send us, if we believe that we have a legal requirement to do so. Your e-mail message content may be monitored by our ANZ employees for security issues including where e-mail abuse is suspected; our response to you may be monitored for quality assurance issues.
 
