@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shell.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623055832id_/http%3A//www.shell.com/home/content/footer/about_this_site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shell.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212115713id_/http%3A//www.shell.com/home/content/footer/about_this_site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Global
 
