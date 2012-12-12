@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therange.co.uk privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613235950id_/http%3A//www.therange.co.uk/fcp/content/privacy_policy/content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therange.co.uk privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213005309id_/http%3A//www.therange.co.uk/fcp/content/privacy_policy/content) for the most accurate reproduction.*
 
 # The Range - Privacy Policy
 
