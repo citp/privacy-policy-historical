@@ -1,97 +1,126 @@
-> *The following text is extracted and transformed from the egames.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530065557id_/http%3A//www.egames.com/privacy%2Bstatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egames.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212214406id_/http%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
 
-# Games - Download Free Online Games! | eGames: Support > Legal Terms & Conditions > PRIVACY STATEMENT
+# Privacy Policy | Big Fish Games, Inc.
 
-**_PRIVACY STATEMENT_**
+Last modified: September 8, 2011
 
-eGames has created this Privacy Policy in order to demonstrate our commitment to the privacy rights of our online users and to the purchasers of our products. At eGames, we strive to help our users protect their privacy while using our products and services. This Privacy Policy contains information about our website, our products, and the games and web applications offered by eGames and accessed through this website and third party websites (collectively, the “Services”). This Privacy Policy provides information about: what personally identifiable information of yours is collected; what organization is collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; and how you can correct any inaccuracies in the information. Please note that this policy relates only to eGames.com and eGames games or applications created by eGames and available through third party websites. This policy does not apply to websites or products developed and/or maintained by other companies to which we link or which provide services to our website. By using the Services, you agree to the collection and use of your personal information as outlined in this Privacy Policy, as this Privacy Policy may be amended from time to time. You should visit this page periodically to review any changes to the Privacy Policy.
+We at Big Fish Games have created this Privacy Policy to demonstrate our commitment to your privacy. The following discloses our information gathering and dissemination practices. **By accessing and/or using this Big Fish Games Web site or any Big Fish Games product or service available on or through this web site (each, a " **Big Fish Games Offering** "), you are accepting the practices described in this Privacy Policy.**
 
-Information Collected
+## INFORMATION THAT WE MAY COLLECT
 
-Examples of the information we collect and analyze while you use our Services, make a purchase, or register on our site include:
+### Personally Identifiable Information:
 
-1\. Internet protocol (IP) address used to connect your computer to the Internet;  
-2\. Login;  
-3\. E-mail address;  
-4\. Password;  
-5\. Computer and connection information such as browser type and version, operating system, and platform;  
-6\. Purchase history, which we sometimes aggregate with similar information from other customers to create features such as top sellers;  
-7\. Tull Uniform Resource Locator (URL) clickstream to, through, and from our website, including date and time;  
-8\. Cookie number;  
-9\. eGames social game(s) username and/or ID number, messages, invites  
-10\. Facebook: Facebook username, first name and last name, Facebook ID e-mail address, game statistics (e.g. high scores, username within game, progress within game), ID, gender, profile picture, locale, list of friends, messages within game to other users, and invites;  
-11\. Products you viewed or searched for; and  
-12\. When you install any of the eGames games or applications, we may collect and record the information you provide us voluntarily through the social networking website you use to access the Services in accordance with the terms and conditions of the social network website.
+We may collect the following information when you sign up with a Big Fish Games Offering:
 
-During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+  * First name, last name, e-mail address, mailing address, phone number
+  * credit or debit card information, or other payment details, depending on your form of payment.
 
-If you are purchasing a product on our website, the type of personal information collected includes: your name, zip code, email address, phone number, age and credit card information.
 
-If you register to become a member of our website, the information that we collect includes your name, email address, and the country where you reside. Once you register as a user on our website, we will keep your purchase history, favorite games information, reviews you provide and your navigational history. When you become a registered user, you can choose to receive email notices about upcoming products and promotions from eGames by checking the box on the registration form. Information you submit when completing our online registration form will not be used for this purpose unless you indicate that you wish to receive such additional information when you fill out the registration form. We use the information from the registration form to better design our website, create better products, bring to market products that consumers are looking for, and, to the extent you have agreed, to send email messages notifying you of product news, special offers and promotions.
 
-What Organizations Collect Information
+### IP Address:
 
-When you purchase a product online or become a registered user of our website, you are providing the information identified above to eGames. We have also contracted with some third party entities to provide certain webhosting and transactional services for our website. They include: 1) The Planet, a host service which provides a software download hosting service, server space and bandwidth availability; and 2) Authorize.net, a credit card processing service. 3) Facebook, a social network which provides a platform for our game social (s) and is the Facebook credit processor for our social game(s). The host service maintains a secure database of customer information, including name, email address and zip code, but excluding any credit card information. The credit card processor utilizes a customer's credit card information to process debits or credits to the customer's credit card account as necessary. The entities whose servers handle these transactions maintain security measures designed to protect against the loss, misuse and alteration of your user data under their control. They use physical, electronic, and procedural safeguards to protect any personally identifiable data stored on their computers. Only authorized employees have access to the information you provide us. For more information about the privacy practices of the Planet, please visit http://planethost.org/faq.htm; for Authorize.net, please visit www.authorize.net/company/privacy/; for Facebook, please visit http://www.facebook.com/about/privacy/.
+When a user accesses a Big Fish Games Offering, we may collect the IP address that requested the display of such Big Fish Games Offering.
 
-eGames stores information about site visitors and players on the Joyen cloud located in the United States.
+### Sign Up and Survey information:
 
-The Way Your Information Is Used
+Any information you provide to us, and any information you choose to share about yourself as part of your use of any Big Fish Games Offering, will be stored as entered.
 
-The information you provide about yourself when purchasing a product is used by eGames and the third-party credit card processing service to complete that order. Customers who buy products from the eGames website are shopping on a secure server, which encrypts all of the customers personal information including name, email address and credit card number. Encryption is used to block access and use of this information in an unauthorized manner. The eGames shopping cart uses Secure Socket Layers. This means that the data being sent to the eGames server from your browser is encrypted using high-level encryption technology.
+### Cookies:
 
-The information you provide about yourself when becoming a registered user is used to analyze website traffic, to aggregate and analyze demographic information about visitors to our website, and for other business purposes, such as product development and marketing, advertising on our website, and business transactions with third parties.
+Cookies are alphanumeric identifiers that we and our service providers may transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as storage of items in your shopping cart between visits and personalized Big Fish Games advertisements on other Web sites.
 
-The information you provide eGames while using eGames Services may be used on global high score boards; to manage your account; to facilitate access to the Services; and to contact users about updates, offers and other promotional matters.
+### Other Information Collected:
 
-Who Your Information is Shared With
+We may receive a confirmation when you open e-mail from Big Fish Games, if your computer supports such capabilities. The Web browser or client software that you use to access Big Fish Games Offerings may transmit certain geographic information and information regarding the capabilities or features of your computer and/or software to us. We may also track other types of information, such as what games users download and install, any download errors, what games users purchase, how long our users have been participating in any Big Fish Games Offerings, the last time a user accessed a Big Fish Games Offering, user behavior, gameplay, and whether a user has won any of our games, sweepstakes, contests or other promotions featured on a Big Fish Games Offering.
 
-When you become a registered user of our website, the information you provide -- email address, username, zip code, gender and birth date -- allows eGames to send you information that may be of interest to users of our site, including special offers, news and updates that relate directly to your specific interests. As part of the registration process, we give you the opportunity to decline to receive any of these communications from us.  
-The data collected is used in the aggregate to give eGames demographic information about the entire audience registering to use the eGames wesbite. eGames uses this information to better understand that audience and to improve our offerings to our customers. We may also disclose this aggregated information to unaffiliated third parties (companies that are not owned or controlled by us) for various business purposes, including advertising, marketing and joint business efforts for related and unrelated products and services. Your game statistics will be shared with other users. 
+### Social Networking Sites:
 
-The information you provide when you purchase a product online is used to complete the transaction. Your personally identifiable information provided during the purchasing process is not shared with third parties, although aggregated demographic and purchasing information may be shared with third parties for advertising, marketing and other business purposes.
+If you access one of our social games ("Social Games"), Big Fish Games may receive information about your social networking site profile, including without limitation your first, last and user names, and social networking site profile ID and icon, in accordance with the terms of such social networking site.
 
-What choices are available to you regarding collection, use and distribution of the information?
+If you use a Social Game via your social network page or use a Social Game on someone else's page, we may record information regarding the use of that Social Game, and we may collect other information that is visible on your social network page in accordance with the relevant terms of use associated with that social networking site.
 
-Users may opt out of receiving future notifications about new products and features by not checking the box at the bottom of the registration form. This option allows users to become a registered user without receiving promotional information. If you do not want the information that you provide on the user registration form to be shared with third parties, do not become a registered user of our website.
+If you invite new members into your Social Games network or send messages through Social Games, we may collect and maintain on secure servers the information associated with those messages, including email addresses and content.
 
-How You Can Access or Correct Your Information
+## SECURITY OF COLLECTED INFORMATION
 
-You can access and change the information that we collect from you online during the registration process by going to the registration page, signing in with your password, and revising the information in the registration form.
+Big Fish Games takes all reasonable precautions to safeguard the privacy of your data. All data that we collect is stored on one or more secure database servers that cannot be accessed from outside our corporate network. Outside of our network, the only access to this data is that provided through the Big Fish Games Offerings. Through the Big Fish Games Offerings, access to personal information is completely controlled by user-defined e-mail addresses and passwords. Within our company, access to data is secured through a private user ID and password known only to personnel who have a need to know such information to perform their essential job functions. All employees of Big Fish Games are legally bound by a nondisclosure agreement that prevents the disclosure of any corporate or customer information to other parties.
 
-Cookies
+## USE OF COLLECTED INFORMATION
 
-Cookies are pieces of information in the form of a small text file that a Website transfers to an individual's hard drive. The cookie transmits information back to the server that placed it, and most times can only be read by that server. Cookies can make Web-surfing easier for website visitors by saving the users preferences while at our site.
+We may use your username, e-mail address, and password to uniquely identify you as a user on a Big Fish Games Offering. We may use or display your username for the purposes of rankings, competitions or sweepstakes, chat identification, and/or game high scores.
 
-The use of cookies is an industry standard -- you'll find them at most major Web sites. By showing how and when visitors use a site, cookies help us see which areas of our website are popular and which are not. Many improvements and updates to the site are based on the data collected by cookies such as the total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide services better tailored to our users needs.
+Subject to the terms of this Privacy Policy, we may use your contact information to process our newsletters and/or e-mail campaigns. Your contact information will allow us to notify you about new features, enhancements, resolution of site problems, handle and/or route your customer support questions and issues, and inform you of upgrade opportunities, sweepstakes, contests, prizes, and/or special events.
 
-We have two primary uses for cookies. First, we use them to specify unique preferences. Secondly, we use cookies to track website user trends and patterns. This helps us to better understand and improve areas of our website. You may also get cookies from third-party advertisers. eGames does not control these cookies. The use of advertising cookies sent by third-party servers is standard in the Internet industry.
+If our "Tell a friend" feature is available within a particular Big Fish Games Offering and you choose to participate in it, your e-mail and IP addresses will be shared with the person to whom you send a game to using this feature. We may also use an IP address to exercise our ability to restrict access to the site by users who have violated our Terms of Service.
 
-Most Internet browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. If you take affirmative steps to decline cookies, it will not impair your ability to browse our website, but you will not be able to become a registered user, download trials of products or purchase products online unless cookies are accepted.
+We use cookies to enhance your online experience. The information in cookies enables us to run our affiliate programs and provide you with personalized Big Fish Games advertisements on other Web sites; enables you to automatically sign in when you access a Big Fish Games Offering; and offers other operational site activities.
 
-Use of IP Addresses
+We may use other identifying information collected to calculate aggregate statistics about our user community or for security purposes.
 
-An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers -- the computers that "serve up" Web pages to your computer- automatically identify your computer by its IP address. eGames collects IP addresses for the purpose of tracking visitors usage of our site. We do not link IP addresses to any personally identifiable information, which means that a user's session will be logged, but the user remains anonymous to us. Personally identifiable information includes name, address, phone number and email address.
+If you access a Social Game, we may use your social networking site profile ID to link your social networking site account with your activities within the Social Game. We may use your social networking site first, last and user names and icon to identify you to the social networking site account you've linked to your activities within the Social Game, as well as for the purposes of rankings, competitions, sweepstakes, game high scores and/or identification to your social network.
 
-Third Party Advertising
+If you access a Social Game and provide us with another person's contact information for purposes of delivering information through a Social Game, we may use this information to contact and, if necessary, remind that person that she or he has been invited to join a Social Game or received content through a Social Game. All invitees are provided with the option not to receive further invitations from Big Fish Games.
 
-eGames may use third-party online advertising on its Services to display advertisements. These third-party advertising services would be responsible for maintaining and displaying the advertisements you may see on our Services. Fox Networks serves ads on our Services and collects information about user interaction with those ads - information that cannot identify a particular person.
+## SHARING INFORMATION
 
-These services typically use cookies to collect data from browsers to aggregate statistical information. This includes IP addresses, browser types, operating systems, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding viewing of advertisements. These services do not, and cannot, collect personally identifiable information about visitors to our website, such as email address, name, phone number and street address.
+We share customer information only as described below, and with subsidiaries of Big Fish Games that follow practices at least as protective as those described in this Privacy Policy.
 
-Childrens Guidelines
+### Third Party Service Providers:
 
-eGames encourages parents and guardians to spend time online with their children and to participate in the activities offered by our Services. No information should be submitted to or posted at eGames.com by customers under 13 years of age without the consent of their parent or guardian. All customers under the age of 13 are required to have a parent register online for them. We currently do not knowingly collect personally identifiable information from anyone under the age of 13.
+We will not share your information with any third parties, except that we may disclose your personal information to third parties who perform services for us, such as credit card processing, prize fulfillment, delivering packages, sending postal mail, analyzing data, providing search results and links (including paid listings and links), and providing marketing assistance, including serving ads on our behalf on third party Web sites. Those third parties have access to your information only as necessary to perform their functions, and for no other purposes.
 
-Links to Other Sites
+### Business Transfers:
 
-Users should be aware that when they are at eGames.com, they could be directed to other sites that are beyond our control. There are links to other sites from eGames web pages and Services that take you outside our Services. For example, if you "click" on a banner advertisement, the "click" takes you off the eGames site. This includes links to advertisers, website traffic auditing services, e-commerce service providers and co-branding partners. These other sites may send their own cookies to users, collect data, or solicit personal information. The eGames privacy policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond the control of eGames.
+As Big Fish Games continues to grow, we might sell or buy certain subsidiaries and/or business units. In such transactions, customer information is generally one of the transferred assets, but would remain subject to the protections described in this Privacy Policy (unless you consent otherwise). Also, in the unlikely event that Big Fish Games or substantially all of its assets are acquired, customer information would in most cases be one of the transferred assets.
 
-Your Consent
+### Protection of Big Fish Games and Others:
 
-By using our Services, you consent to this Privacy Policy. If you do not agree to this policy, please do not use our Services.
+We may also disclose your information if there is a violation of the [Terms of Use](http://www.bigfishgames.com/company/terms.html) or other agreements; if we have a good faith belief that the law requires it; or if needed to protect the rights, property or safety of Big Fish Games, our customers or others. This includes exchanging information with entities for fraud protection and credit risk reduction.
 
-Changes to this Policy
+### With Your Consent:
 
-Here at eGames, we continuously work to expand and improve the eGames Services. When new features are added, we will incorporate the information collection and use practices stated in the policy. As our Services evolve, we may revise this policy, so please check back frequently.
+Apart from what is described above, you will receive notice when information about you might otherwise go to third parties, and you will have an opportunity to choose not to share that information.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this web site, please contact us at webmaster@egames.com.
+## YOUR CHOICES
+
+### Opt-Out:
+
+With the exception of our Social Games, when you create a customer account with a Big Fish Games Offering, you are automatically registered to receive one or more of our e- newsletters, even if you previously opted out of receiving newsletters at the time you downloaded any game for free trial play. At any time, you may opt-out of receiving these newsletters by selecting the " **unsubscribe** " link at the bottom of any newsletter. We treat each Big Fish Games Offering individually, so if you are receiving mailings from more than one area of our website, if you want to unsubscribe you must do so with respect to each such area individually.
+
+### Opt-In:
+
+If you access a Social Game, you will have the option to receive one or more of our Social Games e-newsletters. If you elect to receive any of such newsletters, you may at any time opt-out of receiving them by selecting the " **unsubscribe** " link at the bottom of the newsletter.
+
+### Cookies:
+
+The Help portion of the toolbar on most Web browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, and how to entirely disable cookies. In addition, if any of our third party service providers that present you with personalized Big Fish Games advertisements on other Web sites is a member of the Network Advertising Initiative, you may opt out of such third party's ad-serving cookies through this link: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). However, because cookies allow you to take advantage of some of Big Fish Games Offerings' essential features, we recommend that you leave cookies turned on. For example, you may not be able make purchases on Big Fish Games Offerings without having cookies turned on.
+
+### Contact Us:
+
+To review, modify or remove the information you have provided to us, or to contact us with any questions or complaints, please e-mail us at [privacy@bigfishgames.com](mailto:privacy@bigfishgames.com) or write to us at: Big Fish Games Privacy Policy Department, 333 Elliott Avenue West, Suite 200, Seattle, WA 98119 USA.
+
+## LINKS TO THIRD-PARTY SITES
+
+Web sites that link to or from a Big Fish Games Offering may collect personal information about you. If you access our Social Games, this includes, without limitation, any social networking sites that you participate in. Most content offered through Social Games is served or hosted by other Web sites. This Big Fish Games Privacy Policy does not apply to, and cannot control the activities of, those Web sites.
+
+## CHAT & MESSAGING
+
+Big Fish Games Offerings may operate message boards and/or chat areas where users can exchange ideas and communicate with each other. When posting to a message board or chat area, the information is being made publicly available in an online environment. Any information posted is the sole responsibility of the individual user.
+
+## CHILDREN
+
+We at Big Fish Games do not offer products for purchase by children, and we do not knowingly collect personal information from children. If you are under 13, you may use and access the Big Fish Games Offerings only with the involvement of a parent or guardian.
+
+Big Fish Games respects the privacy of parents and children and is committed to complying with the Children's Online Privacy Protection Act. If a parent believes that his or her child has submitted personal information to Big Fish Games, he or she can contact us via e-mail at [privacy@bigfishgames.com](mailto:privacy@bigfishgames.com) or postal mail at the address listed below. We will promptly delete the information upon learning that it relates to a child under the age of 13. We recognize the importance of safeguarding the privacy of children and encourage parents to check and monitor their children's use of online activities regularly.
+
+## SAFE HARBOR PROGRAM
+
+Big Fish Games participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce's [Safe Harbor Web site](http://www.export.gov/safeharbor/). To contact Big Fish Games directly about the Safe Harbor program, please e-mail us at [](mailto:safeharbor@bigfishgames.com)[safeharbor@bigfishgames.com](mailto:safeharbor@bigfishgames.com).
+
+## AGREEMENT WITH BIG FISH GAMES POLICIES
+
+By accessing and/or using any of the Big Fish Games Offerings, you signify your understanding of and agreement with this Privacy Policy, and to our [Terms of Use](http://www.bigfishgames.com/company/terms.html). If you do not agree with our policies, please do not access or use any Big Fish Games Offerings.
+
+## CHANGES TO PRIVACY POLICY
+
+We may modify this Privacy Policy from time to time. When we post changes to this Privacy Policy, we will revise the "last modified" date at the top of this page. We encourage you to periodically review this Privacy Policy to be informed of how Big Fish Games protects your information.
