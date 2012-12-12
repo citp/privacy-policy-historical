@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the whosampled.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613174528id_/http%3A//www.whosampled.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whosampled.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212122539id_/http%3A//www.whosampled.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WhoSampled
 
 This Privacy Policy sets out the basis on which any personal data collected through WhoSampled.com and related apps (the " **Service** "), or that you provide to the Service, will be processed. Please read this policy carefully before you use the Service.
 
-For the purpose of the Data Protection Act 1998 (" **Act** "), the data controller is Whosampled.com Limited (" **we** " or " **us** ") of Nena House, Ground B, 77-79 Great Eastern Street, London EC2A 3HU.
+For the purpose of the Data Protection Act 1998 (" **Act** "), the data controller is WhoSampled.com Limited (" **we** " or " **us** ") of The Salisbury, 5th Floor (744-750), Salisbury House, Finsbury Circus, London EC2M 5QQ, United Kingdom.
 
 **Information we may collect from you**  
 We may collect and process the following data about you:
@@ -78,4 +78,4 @@ Please note that this Privacy Policy may change from time to time. We expect the
 **Contact**  
 Questions, comments and requests regarding this Privacy Policy are welcomed and should be sent via [our contact form](https://web.archive.org/contact/ask/).
 
-Last updated: May 20, 2012 
+Last updated: October 25, 2012 
