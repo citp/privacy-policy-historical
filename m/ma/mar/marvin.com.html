@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the marvin.com privacy policy that was archived on 2012-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505212302id_/http%3A//www.marvin.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marvin.com privacy policy that was archived on 2012-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121213063938id_/http%3A//www.marvin.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/jquery-1.6.1.min.js"></script>
 <script type="text/javascript" src="/scripts/shared.js"></script>
@@ -8,7 +8,7 @@
 <script type="text/javascript" src="/scripts/swfobject.1.5.js"></script>
 <script type="text/javascript" src="/scripts/swfobject.js"></script>
 <script type="text/javascript" src="/scripts/nav.js"></script>
-<script language="javascript" src="/../Scripts/imageHoverOver.js" type="text/javascript"></script></head><body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0"><div id="trailimageid" style="position:absolute;visibility:hidden;left:0px;top:-1000px;width:1px;height:1px;border:1px solid #888888;background:white;"><img id="ttimg"></div>
+<script language="javascript" src="/../Scripts/imageHoverOver.js" type="text/javascript"></script></head><body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" class="privacy"><div id="trailimageid" style="position:absolute;visibility:hidden;left:0px;top:-1000px;width:1px;height:1px;border:1px solid #888888;background:white;"><img id="ttimg"></div>
 <!--google maps-->
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
 <script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAA0KPX42E6miLvAE4W2hhFNhTgYWD6i_8ezAid1hyJzDOXLgBEjBStmAblGiyjOB11-CqkfO9AWyjghQ"></script>
@@ -23,40 +23,51 @@
         return ret;
     }
     function geocode(address, city, state, postalCode, range, geocodeProvider, url) {
+//console ? console.log(this):''; 
         if ((address.length + city.length + state.length + postalCode.length) == 0) {
+//console ? console.log('no address'):''; 
             window.location = url;
             return false;
         };
         if (postalCode.length == 0 && (state.length == 0 && city.length == 0 || state.length != 0 && city.length == 0 || city.length != 0 && state.length == 0)) {
+//console ? console.log('no city, state, zip'):''; 
             alert('Enter a city and state/province or zip/postal code');
             return false;
         };
         if (postalCode.length != 0 && !postalCode.match(/^\d{5}-\d{4}$|^\d{5}$|^[A-Z]\d[A-Z] \d[A-Z]\d$/)) {
+//console ? console.log('no zip') : ''; 
             alert('Enter a valid postal code');
             return false;
         };
         if (window.location.host.split('.')[0].match(/^commercial$/)) {
+//console ? console.log('commercial - do not geocode') : ''; 
             geocodeProvider = 'None';
         };
         switch (geocodeProvider) {
             case 'Google':
+//console ? console.log('geocode - google - ' + postalCode) : ''; 
                 var addr = address + ' ' + city + ' ' + state + ' ' + postalCode;
-                window.status = 'searching ' + addr
+                //window.status = 'searching ' + addr
                 var geocoder = new google.maps.Geocoder();
                 geocoder.geocode({ 'address': addr.trim() }, function(results, status) {
+//console ? console.log('geocode - google - status - ' + status) : '';                 
                     if (status == google.maps.GeocoderStatus.OK) {
+//console ? console.log('geocode - google - navigate - ' + url + '&p1=' + address + '&p2=' + city + '&p3=' + state + '&p4=' + postalCode + '&p5=' + range + '&p6=' + locatorSearchAttributes() + '&ll=' + results[0].geometry.location) : ''; 
                         window.location = url + '&p1=' + address + '&p2=' + city + '&p3=' + state + '&p4=' + postalCode + '&p5=' + range + '&p6=' + locatorSearchAttributes() + '&ll=' + results[0].geometry.location;
                     } else {
-                        //alert("Geocode was not successful for the following reason: " + status);
+                    //alert("Geocode was not successful for the following reason: " + status);
+//console ? console.log('geocode - google - err - ' + status) : '';                         
                         window.location = url;
                     }
                 });
                 geocoder = null;
                 break;
             case 'MapPoint':
+//console ? console.log('geocode - mappoint') : ''; 
                 window.location = url + '&p1=' + address + '&p2=' + city + '&p3=' + state + '&p4=' + postalCode + '&p5=' + range + '&p6=' + locatorSearchAttributes();
                 break;
             case 'None':
+//console ? console.log('commercial') : '';             
                 window.location = url + '&p1=' + address + '&p2=' + city + '&p3=' + state + '&p4=' + postalCode + '&p5=' + range + '&p6=' + locatorSearchAttributes();
                 break;        
         };
@@ -93,10 +104,10 @@
 	
 	
 	<div id="JavaScriptDebug"></div>
-	<form name="form" method="post" action="/privacy/" id="form">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTI5ODA4NDgxM2RkS81qqKFfKG0Bl6WOl88Jn72sOV4=">
+	<form method="post" action="/privacy/" id="form">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTExODkwMzcwNGRkiZ8AVzO5+LbcxJZXXZcnn93zGGg=">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAKqy5TkCAK+8tLNAgKYkt3/BgLAwZeLC1qYUffiAd/tznOaHehoTRWDCsXY">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAKE0a3KDgK+8tLNAgKYkt3/BgLAwZeLC9d2jqhBdfBoegYxP/Pn7SK/puWh">
 	
 	<!-- added by KevenR 3/20/2012 needs to be added once, and within the form-->
 
@@ -329,12 +340,12 @@
 <div id="main-nav-section">
 <div id="main-nav">
 <ul>
-<li id="main-nav-windows-item"><a class="main-nav-windows" href="/windows/"><img src="/images/2011/nav/spacer.gif" alt="Transparent Image" border="0"></a></li>
-<li id="main-nav-doors-item"><a class="main-nav-doors" href="/patio-doors/"><img src="/images/2011/nav/spacer.gif" alt="Transparent Image" border="0"></a></li>
-<li id="main-nav-about-item"><a class="main-nav-about" href="/benefits-features/"><img src="/images/2011/nav/spacer.gif" alt="Transparent Image" border="0"></a></li>
-<li id="main-nav-planning-item"><a class="main-nav-planning" href="/new-construction-remodeling/"><img src="/images/2011/nav/spacer.gif" alt="Transparent Image" border="0"></a></li>
-<li id="main-nav-inspiration-item"><a class="main-nav-inspiration" href="/window-door-ideas/"><img src="/images/2011/nav/spacer.gif" alt="Transparent Image" border="0"></a></li>
-<li id="main-nav-support-item"><a class="main-nav-support" href="/windows-and-doors/"><img src="/images/2011/nav/spacer.gif" alt="Transparent Image" border="0"></a></li>
+<li id="main-nav-windows-item"><a class="main-nav-windows" href="/../?page=Windows"><img src="/images/2011/nav/spacer.gif" alt="Transparent Image"></a></li>
+<li id="main-nav-doors-item"><a class="main-nav-doors" href="/../?page=patio-doors"><img src="/images/2011/nav/spacer.gif" alt="Transparent Image"></a></li>
+<li id="main-nav-about-item"><a class="main-nav-about" href="/../?page=benefits-features"><img src="/images/2011/nav/spacer.gif" alt="Transparent Image"></a></li>
+<li id="main-nav-planning-item"><a class="main-nav-planning" href="/../?page=new-construction-remodeling"><img src="/images/2011/nav/spacer.gif" alt="Transparent Image"></a></li>
+<li id="main-nav-inspiration-item"><a class="main-nav-inspiration" href="/../?page=window-door-ideas"><img src="/images/2011/nav/spacer.gif" alt="Transparent Image"></a></li>
+<li id="main-nav-support-item"><a class="main-nav-support" href="/windows-and-doors/"><img src="/images/2011/nav/spacer.gif" alt="Transparent Image"></a></li>
 <li id="main-nav-role-item"><a href="http://pros.marvin.com/" class="main-nav-role">For Professionals</a></li>
 </ul>
 </div>
@@ -375,7 +386,8 @@
 <li><a href="/benefits-features/green-building-windows-doors/">Energy Efficiency</a></li>
 <li><a href="/benefits-features/marvin-brands/">Our Brands</a></li>
 <li><a href="/benefits-features/about-marvin/">About Marvin</a></li>
-<li><a href="/benefits-features/my-marvin-experience/">My Marvin Experience</a></li>
+<li><a href="/benefits-features/smart-performance/">Smart Performance</a></li>
+<li><a href="/benefits-features/coastal-complete-solutions/">Coastal Complete</a></li>
 </ul>
 </div>
 
@@ -394,6 +406,7 @@
 <li><a href="/window-door-ideas/Style-Index/">Style Index</a></li>
 <li><a href="/window-door-ideas/window-gallery/">Gallery</a></li>
 <li><a href="/window-door-ideas/case-studies/">Case Studies</a></li>
+<li><a href="/window-door-ideas/mluxe-blog/">MLuxe Blog</a></li>
 </ul>
 </div>
 
@@ -467,7 +480,9 @@ var switchTo5x = false;
 <style type="text/css">
     #sharethis
     {
-        width:81px;
+        /* width:81px; */
+        width: 102px;
+        line-height:normal;
     }
     .st_twitter_custom
     {
@@ -484,6 +499,7 @@ var switchTo5x = false;
         display:inline-block;
         height:22px;
         width:21px;
+        vertical-align: top;
     }
     .st_email_custom
     {
@@ -500,7 +516,23 @@ var switchTo5x = false;
         display:inline-block;
         height:22px;
         width:21px;
+        vertical-align: top;
     }
+    .mwd-pinterest
+    {
+        background: url("/images/2011/header/pinterest.gif") no-repeat scroll left top transparent;
+        cursor:pointer;
+        display:inline-block;
+        height:22px;
+        width:21px;
+        vertical-align: top;
+    }
+    .mwd-pinterest a img
+    {
+        border-style: none;
+        border-width: 0px;
+    }
+
     .mwd-close
     {
         /*background-image:url("http://w.sharethis.com/share4x/images/sprite_main_2.gif");*/
@@ -519,9 +551,9 @@ var switchTo5x = false;
     }
 </style>
 <div id="sharethis" class="">
-    <span class="mwd-enews-request" displaytext="Request eNewsletter"></span><span class="st_twitter_custom" displaytext="Tweet"></span><span class="st_facebook_custom" displaytext="Facebook"></span><span class="st_email_custom" displaytext="Email"></span><span class="st_sharethis" displaytext="Share" style="display:none"></span>    
+<span class="mwd-enews-request" displaytext="Request eNewsletter"></span><span class="st_facebook_custom" displaytext="Facebook"></span><span class="mwd-pinterest"><a href="/redirect/?refer=http://pinterest.com/marvinwindows" target="_blank"><img src="/images/2011/header/pinterest.gif" height="17" width="17" alt="Pinterest"></a></span><span class="st_twitter_custom" displaytext="Tweet"></span><span class="st_email_custom" displaytext="Email"></span><span class="st_sharethis" displaytext="Share" style="display:none"></span>    
 </div>
-<script>
+<script type="text/javascript">
     /* eNewsletter */
     $(function() {
 
@@ -790,8 +822,8 @@ var switchTo5x = false;
 <div id="feed-title">
 <img src="/images/2011/footer/feed.gif" width="69" height="18" alt="FEED"></div>
 <div id="feed-content">
-<h2><a href="/redirect/?refer=http://www.facebook.com/MarvinWindows/posts/306486452760491" target="_blank">Cottage Renovation: Another great project from the myMarvin Remodeler's Gallery</a></h2>
-Cottage Renovation: Another great project from the myMarvin Remodeler's Gallery<br><br>  <br>myMarvin Remodelers Gallery – Project Gallery<br>www.marvin.com<br>See before and after photos ...
+<h2><a href="/redirect/?refer=http://www.facebook.com/MarvinWindows/posts/305000722935141" target="_blank">Houzz.com's Lisa Frederick shares some great advice for pulling off the single-c...</a></h2>
+Houzz.com's Lisa Frederick shares some great advice for pulling off the single-color look -- without being boring.<br><br>  <br>Does your home feel monotonous? Try going ...
 
 </div>
 </div>
@@ -802,17 +834,19 @@ Cottage Renovation: Another great project from the myMarvin Remodeler's Gallery<
         <div id="footer-social-menu">
         <a onclick="_gaq.push(['_trackEvent', 'Global', 'Facebook', 'Share']);" href="/redirect/?refer=http://www.facebook.com/pages/Marvin-Windows-and-Doors/27904187128" target="_blank" title="Marvin Windows on Facebook">
         <img src="/images/2011/footer/facebook_over.gif" width="32" height="32" alt="Marvin Windows on Facebook"></a>
+        <a onclick="_gaq.push(['_trackEvent', 'Global', 'Pinterest', 'Share']);" href="/redirect/?refer=http://pinterest.com/marvinwindows" target="_blank" title="Marvin Windows on Pinterest">
+        <img src="/images/2011/footer/pinterest.gif" width="32" height="32" alt="Marvin Windows on Pinterest"></a>
         <a onclick="_gaq.push(['_trackEvent', 'Global', 'Twitter', 'Share']);" href="/redirect/?refer=http://twitter.com/marvinwindows" target="_blank" title="Marvin Windows on Twitter">
         <img src="/images/2011/footer/twitter_over.gif" width="32" height="32" alt="Marvin Windows on Twitter"></a>
+        <br>
         <a onclick="_gaq.push(['_trackEvent', 'Global', 'YouTube', 'Share']);" href="/redirect/?refer=http://www.youtube.com/marvindotcom" target="_blank" title="Marvin Windows on YouTube">
         <img src="/images/2011/footer/youTube_over.gif" width="32" height="32" alt="Marvin Windows on YouTube"></a>
-        <br>
         <a onclick="_gaq.push(['_trackEvent', 'Global', 'Flickr', 'Share']);" href="/redirect/?refer=http://www.flickr.com/photos/marvinwindows" target="_blank" title="Marvin Windows on Flickr">
         <img src="/images/2011/footer/flickr_over.gif" width="32" height="32" alt="Marvin Windows on Flickr"></a>
-        <a onclick="_gaq.push(['_trackEvent', 'Global', 'LinkedIn', 'Share']);" href="/redirect/?refer=http://www.linkedin.com/companies/22534/Marvin%20Windows%20and%20Doors" target="_blank" title="Marvin Windows on LinkedIn">
-        <img src="/images/2011/footer/linkedIn_over.gif" width="32" height="32" alt="Marvin Windows on LinkedIn"></a>
         <a onclick="_gaq.push(['_trackEvent', 'myMarvin', 'mLux', 'Click']);" href="/redirect/?refer=http://marvinblog.com/" target="_blank" title="MLuxe Blog">
         <img src="/images/2011/footer/icon_mluxe_over.gif" width="32" height="32" alt="MLuxe Blog"></a>
+        <!-- <a onclick="_gaq.push(['_trackEvent', 'Global', 'LinkedIn', 'Share']);" href="?page=redirect&amp;refer=http://www.linkedin.com/companies/22534/Marvin%20Windows%20and%20Doors" target="_blank" title="Marvin Windows on LinkedIn">
+        <img src="/images/2011/footer/linkedIn_over.gif" width="32" height="32" alt="Marvin Windows on LinkedIn" /></a> -->
         </div>
         </div>
         <div id="footer-menu">
