@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onthecity.org privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611081601id_/http%3A//www.onthecity.org/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthecity.org privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213151109id_/http%3A//www.onthecity.org/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The City | Real Life. Together.
 
@@ -37,7 +37,7 @@
 
 
 
-ACS Technologies is committed to protecting your privacy and keeping all of your data secure. Our privacy and security policy covers all corporate and divisional information gathering and dissemination practices. ACS Technologies will not release, sell, or rent the personally identifiable information of its clients or prospects. Privacy and security of our client’s data is paramount to us, and we comply with all United States state and federal privacy and security laws. This policy is subject to change from time to time so please check back periodically.
+ACS Technologies Group, Inc.'s privacy and security policy covers all corporate and divisional information gathering and dissemination practices. THIS POLICY IS SUBJECT TO CHANGE FROM TIME TO TIME SO PLEASE CHECK BACK PERIODICALLY. ACS Technologies will not release, sell, or rent the personally identifiable information of its clients or prospects. We comply with all United States state and federal privacy and security laws.
 
   1. ###  Hosted & Web-Based Services
 
@@ -80,7 +80,7 @@ ACS Technologies provides their clients with the means for maintaining an up-to-
 
 ####  Security
 
-At ACS Technologies, security is our utmost concern when dealing with the Internet and especially when transferring personal files and sensitive information. Without security in every aspect of ACS Technologies services, our own business and reputation would be in jeopardy. That is why we have taken substantial precautions to ensure the security of your data not only while in transit to the server, but also while stored on the server. The following are overviews of the ways in which you are protected:
+The following are overviews of ACS Technologies; security protection measures in place:
 
 #####  Account and Data Protection
 
@@ -88,7 +88,7 @@ At ACS Technologies, security is our utmost concern when dealing with the Intern
     * Individual account usernames are unique.
     * Access to your account is limited to key support individuals and all change requests are logged.
     * On occasion, clients who use ACS Technologies services may ask support individuals to retrieve their data from the server for purposes of supporting the services. While we strive to serve our clients in the most efficient way possible, security measures are taken into consideration. In these cases, clients must provide documented authorization approving these requests. Support individuals may use the username and password to retrieve the data.
-    * As representatives of ACS Technologies, Support individuals are bound to the services Service Agreement and the ACS Technologies Privacy and Security Policy. When Support individuals leave the employment of ACS Technologies, immediate measures are taken so that they cannot access any ACS Technologies computer systems.
+    * As representatives of ACS Technologies, Support individuals are bound to the services Service Agreement and the ACS Technologies Privacy and Security Policy. When support individuals leave the employment of ACS Technologies, immediate measures are taken so that they cannot access any ACS Technologies computer systems.
 
 #####  Network Protection
 
@@ -116,6 +116,10 @@ ACS Technologies collects certain information (such as name, email address, phon
 At any time, you can choose to opt-out of these promotional emails by following the opt-out instructions at the bottom of the email you no longer wish to receive. You can also call Support at 1.800.669.2509 and request to be removed from all promotional communications or pick and chose which types you still want to receive such as support, training or product development announcements.
 
 Opt-out does not apply to the receipt of mandatory service communications that are considered part of certain ACS Technologies services, which you may receive periodically unless you cancel the service.
+
+  4. ###  Governing Laws
+
+**This Privacy Policy and your rights and ACS Technologies' responsibilities hereunder are governed by the laws of the State of South Carolina** and federal United States law, as may be applicable to disputes solely between South Carolina State residents concerning subject matter located entirely within the State of South Carolina. In the event of any dispute involving this Privacy Policy, you agree to submit to personal and exclusive jurisdiction of the state and federal courts located in the State South Carolina, Florence County.
 
 
 
