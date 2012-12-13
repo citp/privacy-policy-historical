@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seo-scoop.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604163121id_/http%3A//www.searchenginepeople.com/about/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-scoop.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213015624id_/http%3A//www.searchenginepeople.com/about/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy | Search Engine People | Toronto
 
@@ -7,6 +7,9 @@ Share  [](http://www.addthis.com/bookmark.php?v=250&username=senginepeople)
 **What information do we collect?**
 
 We collect information from you when you register on our site, subscribe to our newsletter or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your name, e-mail address or phone number. You may, however, visit our site anonymously.
+
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to improve service.  
+You can choose to disable the Service at [http://www.clicktale.net/disable.html](http://www.clicktale.net/disable.html)
 
 **What do we use your information for?**
 
@@ -26,7 +29,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 **Do we use cookies?**
 
-We do use cookies on our site. Cookies are small pieces of information that some websites store on your computer's hard drive when you visit them. Like many other sites, searchenginepeople.com and other third party services or partners on our site may use cookies to identify visitors. To learn more, consult the privacy policies of our third party partners. Most browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis. 
+We do use cookies on our site. Cookies are small pieces of information that some websites store on your computer's hard drive when you visit them. Like many other sites, searchenginepeople.com and other third party services or partners on our site may use cookies to identify visitors. To learn more, consult the privacy policies of our third party partners. Most browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis.
 
 **Do we disclose any information to outside parties?**
 
@@ -48,9 +51,9 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy, you may contact us using the information below:
 
-Search Engine People Inc.   
-100 Westney Road South   
-Ajax, Ontario L1S 7H3   
-Canada   
-contact@searchenginepeople.com   
+Search Engine People Inc.  
+100 Westney Road South  
+Ajax, Ontario L1S 7H3  
+Canada  
+contact@searchenginepeople.com  
 905-426-9340
