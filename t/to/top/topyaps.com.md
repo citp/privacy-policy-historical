@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the topyaps.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617234347id_/http%3A//www.topyaps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topyaps.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213115355id_/http%3A//topyaps.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TopYaps - Top ten lists
+# Privacy Policy | TopYaps
 
 ## **Privacy Policy of TOPYAPS.COM:**
 
-Thank you for giving your precious time to TopYaps, a website running under the network of [D Techmonkey Solutions Pvt. Ltd](http://www.techmonkey.in/). We highly apprise your backup and readership and respects your privacy with high values. Right here on TopYaps, we are committed to protect the significant personal informations you provide us while visiting this website. Our intention is to enhance the potential of our legalize business interests by implementing those maxims in the privacy policy, which manifestly describes the spirit to protect your sensible prospects of privacy. However, this privacy policy can be updated any time and TopYaps encourage you to check back this page often so that you can keep yourself familiar with our latest versions and terms.
+Thank you for giving your precious time to TopYaps, a website running under the network of [D Techmonkey Solutions Pvt. Ltd](http://www.techmonkey.in/). We highly apprise your backup and readership and respect your privacy with high values. Right here on TopYaps, we are committed to protect the significant personal informations you provide us while visiting this website. Our intention is to enhance the potential of our legalize business interests by implementing those maxims, which manifestly describe the spirit to protect your sensible prospects of privacy. However, this privacy policy can be updated any time and TopYaps encourages you to check back this page often so that you can keep yourself familiar with our latest versions and terms.
 
 **(A) Range:**
 
@@ -15,7 +15,7 @@ This privacy policy is applicable only for the TopYaps and can’t be applied on
 
 **(B.1) – Direct information:**
 
-In order to visit this website directly, you’re not asked to provide your personal details but TopYaps may ask you about these details whenever you approach to our site functions. You should have to provide these informations while accessing our certain services, features, contents and while your direct contact with TopYaps:
+In order to visit this website directly, you’re not asked to provide your personal details but TopYaps may ask you about these details whenever you approach to our site functions. You have to provide these informations while accessing our certain services, features, contents and while your direct contact with TopYaps:
 
   * Personal details: name, email, contact number and postal address.
   * Your username and password.
@@ -25,7 +25,7 @@ In order to visit this website directly, you’re not asked to provide your pers
 
 **(B.2) – Information Collected By Our Server:**
 
-Whenever you interact with Topyaps, our server automatically collects these informations:
+Whenever you interact with TopYaps, our server automatically collects these informations:
 
   * Your browser type and language.
   * Internet Protocol (IP) address.
@@ -62,7 +62,7 @@ We may access your these personal details from our network partners (social netw
 
 To protect your information is our biggest concern and that’s why we provide your personal details to our network partners under certain circumstances with strict policies. The sharing policy is executed within following points :
 
-  * We may hire a third party for maneuvering the technicalities of website but these tasks are performed under strict vigilance of our crew. Absolutely on our behalf.
+  * We may hire a third party to maneuver the technicalities of website but these tasks are performed under strict vigilance of our crew. Absolutely on our behalf!
   * However, third parties help us in developing services of your interest but we DO NOT provide them your contact information.
   * If you’re directly involved in the public affairs of TopYaps (i.e. comments), then only your user name, url and gravatar image (if registered) will be visible to the third party.
   * In case, if website is acquired by other company then we will properly notify you before exchanging your information.
@@ -70,29 +70,29 @@ To protect your information is our biggest concern and that’s why we provide y
 
 
 
-**(E) – Your Participation in Third-Party Services:**
+**(E) – Your Participation in Third-Party Services:**  
+  
+
 
 We open-heartedly provide the chance to customize your experience on the Internet and moreover, we appreciate you for building interaction with third parties (such as Twitter and Facebook). The cosmic benefits of this relationship building process are:
 
-  * Let us say, you are a mutual member of TopYaps and Facebook. Here in this case, Facebook, our network partner can share your data with us and we can easily track down that how many of your friends are involved in our site activities. Also, we can suggest your other friends to be a follower or friend of  TopYaps.
+  * Let us say, you are a mutual member of TopYaps and Facebook. Here in this case, Facebook — our network partner, can share your data with us and we can easily track down that how many of your friends are involved in our site activities. Also, we can suggest your other friends to be a follower or friend of  TopYaps.
   * From the wide list of our network partners, you can choose any of them to be their followers, according to your preference.
-  * If you are sharing our content with any friend of yours, then we can suggest him/her to join our website. No doubt, it is the biggest service which you are offering us. TopYaps will be higly obliged for this generous deed, initiated by your side.
+  * If you are sharing our content with any friend of yours, then we can suggest him/her to join our website. No doubt, it is the biggest service which you are offering us. TopYaps will be highly obliged for this generous deed, initiated by your side.
 
 
 
-**(F) – User Conduct:**  
-  
-
+**(F) – User Conduct:**
 
 As a user of TopYaps, your most significant contribution is to participate in comment section. For your kind information, we never delete comments based on critical, political and ideological nature. You, yourself, are responsible for posting comments on TopYaps and witnessing its further consequences. Once a comment is posted, we will not remove it by any request. We respect your rights and preserve these points:
 
   * Avoid yourself from engaging in personal attacks.
-  * TopYaps will delete those comments that are based on the nature of sexism, abusive, racism, vulgarity and spammy.
-  * Respect the views and emotions of other users. TopYaps reserve the right to delete any article that might be found exceedingly offensive.
+  * TopYaps will delete those comments that are based on the nature of sexism, abusiveness, racism, vulgarity and spammy.
+  * Respect the views and emotions of other users. TopYaps reserves the right to delete any article that might be found exceedingly offensive.
   * We can’t tolerate deception. Our team will easily separate the defaming tactic from constructive debates.
   * In order to keep the article alive, please avoid off-topic comments.
   * Your intelligent discussions will be highly appreciated by our community.
-  * TopYaps reserve the right to delete any account for no reason at all (we will do it only after receiving allegations from authorities and third parties).
+  * TopYaps reserves the right to delete any account for no reason at all (we will do it only after receiving allegations from authorities and third parties).
   * Do not cloak yourself.
 
 
