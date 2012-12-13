@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the nist.gov privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608070855id_/http%3A//www.nist.gov/public_affairs/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nist.gov privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213091049id_/http%3A//www.nist.gov/public_affairs/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement/SecurityNotice/Accessibility Statement
 
-[](http://www.addthis.com/bookmark.php?v=250&pub=usnistgov)
-
+[*](http://www.nist.gov/public_affairs/disclaimer.cfm) |  [](http://www.addthis.com/bookmark.php?v=300&pub=usnistgov)  
+---|---  
+  
 **Cookie disclaimer:** “Cookies” are small bits of text that are either used for the duration of a session (“session cookies”) or saved on a user’s hard drive in order to identify that user, or information about that user, the next time the user logs on the a Web site (“persistent cookies”). NIST does not use persistent cookies or any other persistent tracking technology. However, for some videos that are visible on www.nist.gov, a "persistent cookie" is set by third party providers when you click to play a video. These videos are identified with a link to a cookie disclaimer under the video and are used by the third party provider to collect statistics on the number of unique Web visitors viewing specific videos. A waiver has been issued by the White House Counsel's office to allow for the use of these types of persistent cookies by third parties on the White House Web site and NIST is following the White House example by providing an alternative method for viewing these videos. If you would like to view a video without the use of persistent cookies, click on the link that reads "download mp4." If you experience any difficulties, please [contact us](mailto:DOwebmaster@nist.gov).
 
 Currently, we are using session cookies as part of a Web customer satisfaction survey we are conducting in collaboration with ForeSee Results. The sole purpose of the session cookies is to cause the survey to be displayed to a small percentage of our Web site visitors as they leave the NIST Web site. NIST does not retain any information collected by these session cookies. Session cookies are automatically deleted at the end of a session, that is, when you close your browser. Additional privacy information related to the survey is available from a link on the survey itself.
