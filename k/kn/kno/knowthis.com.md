@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the knowthis.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628213728id_/http%3A//www.knowthis.com/information/general/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowthis.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213011251id_/http%3A//www.knowthis.com/information/general/privacy-statement) for the most accurate reproduction.*
 
-# Privacy - KnowThis.com: Marketing Tutorials, News, How-to and More
+# Privacy - KnowThis.com
 
-##  Privacy
+##  Privacy 
 
-_May 17, 2010_
+_June 7, 2012_
 
   
 The following discloses the information gathering and dissemination practices for KnowThis.com, a service operated by KnowThis LLC ("KnowThis.com"). KnowThis.com is strongly committed to maintaining the high standards of privacy for all users of our service.
@@ -34,4 +34,4 @@ Additionally, KnowThis.com provides advertisements that are distributed by adver
 
   
 **CONTACT INFORMATION**   
-If you have any questions about this privacy statement, please contact us.
+If you have any questions about this privacy statement, please [contact us](http://knowthis.com/information/general/contact-us/).
