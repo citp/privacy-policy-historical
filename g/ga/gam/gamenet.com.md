@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the gamenet.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608234321id_/http%3A//www.gamenet.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamenet.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213223703id_/http%3A//www.gamenet.com/privacypolicy) for the most accurate reproduction.*
 
-# GameNet Newsletter Survey
+# GameNet Privacy Policy
 
-**_GAMENET PRIVACY POLICY_**
+**_GAMENET & GEEKBEACH PRIVACY POLICY_**
 
 IMPORTANT: By submitting personal data to us you agree that it may be processed by us in the manner described below.
 
 If you have any questions about this privacy policy please contact us at **info@gamenet.com**.
 
-GAMENET LIMITED ("We") are committed to protecting and respecting your privacy whilst providing an educational and enjoyable gaming experience. We do not target our website or our games to under 13 year olds, but do take measures to help protect those that use our site who are under 13. For example, we do not retain personal information or permit to register those who are known to us to be under 13.
+GAMENET LIMITED and GEEK BEACH ("We") are committed to protecting and respecting your privacy whilst providing an educational and enjoyable gaming experience. We do not target our website or our games to under 13 year olds, but do take measures to help protect those that use our site who are under 13. For example, we do not retain personal information or permit to register those who are known to us to be under 13.
 
 **_Introduction to Privacy Policy_**
 
@@ -64,7 +64,7 @@ We will hold your Personal Data within our systems for no longer than is reasona
 
 The employees who have access to Personal Data have been trained to handle such data properly and in accordance with our security protocols. Although we cannot guarantee against any loss, misuse, unauthorised disclosure, alteration or destruction of data, we take all reasonable steps to prevent this from happening.
 
-Your data may be transferred to a third party if Gamenet Limited or substantially all of its assets are acquired by that third party, in which case personal data held by it about its customers will be one of the transferred assets.
+Your data may be transferred to a third party if Gamenet Limited of Geek Beach or substantially all of its assets are acquired by that third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
 **_Data Access and Corrections_**
 
