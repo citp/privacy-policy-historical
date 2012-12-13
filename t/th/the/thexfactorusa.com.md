@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thexfactorusa.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614174853id_/http%3A//www.thexfactorusa.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thexfactorusa.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213060707id_/http%3A//www.thexfactorusa.com/privacy) for the most accurate reproduction.*
 
-# The Official Site of THE X FACTOR USA
+# 
 
 \------------------------
 
@@ -34,7 +34,7 @@ Most browsers are initially set to accept cookies, but you can change your setti
 
 **Third Parties.** To improve the quality of our services, THE X FACTOR may supplement the information we collect with information we obtain from third parties. If you access a THE X FACTOR Service through a third party connection or log-in, we may also collect Third Party Information and Content. 
 
-**Collection of Payment Information by a Third Party.** If you elect to purchase a product or service in connection with THE X FACTOR Services you will be required to provide your payment information which may include your credit card information, billing address or other payment information, full name, phone number and shipping address (collectively, "Payment Information") in order to purchase such product or service. You acknowledge and agree that this Privacy Policy will not apply to any Payment Information that you provide to any independent third party company on THE X FACTOR Services and that all payment obligations related to such purchase shall be governed solely by the applicable independent third party company's privacy policy. You further acknowledge and agree that THE X FACTOR will have no liability for or control over such independent third party company's use or protection of your Payment Information. You should check the privacy policy of the independent third party company‘s website to determine how it will handle any Payment Information it collects from you and/or processes. You acknowledge and agree that in the event that such independent third party company experiences a data breach that compromises or otherwise affects your Payment Information, THE X FACTOR shall in no way be responsible or liable to you for such breach. You should contact the applicable independent third party company regarding any such data breach. 
+**Collection of Payment Information by a Third Party.** If you elect to purchase a product or service in connection with THE X FACTOR Services you will be required to provide your payment information which may include your credit card information, billing address or other payment information, full name, phone number and shipping address (collectively, "Payment Information") in order to purchase such product or service. You acknowledge and agree that this Privacy Policy will not apply to any Payment Information that you provide to any independent third party company on THE X FACTOR Services and that all payment obligations related to such purchase shall be governed solely by the applicable independent third party company's privacy policy. You further acknowledge and agree that THE X FACTOR will have no liability for or control over such independent third party company's use or protection of your Payment Information. You should check the privacy policy of the independent third party company's website to determine how it will handle any Payment Information it collects from you and/or processes. You acknowledge and agree that in the event that such independent third party company experiences a data breach that compromises or otherwise affects your Payment Information, THE X FACTOR shall in no way be responsible or liable to you for such breach. You should contact the applicable independent third party company regarding any such data breach. 
 
 **3\. NOTICE & CHOICE**
 
@@ -80,7 +80,7 @@ The X Factor uses reasonable administrative, technical, personnel and physical m
 
 You may cancel your account by clicking on "delete your account" and may unsubscribe to The X Factor newsletter by clicking the "unsubscribe" link at the bottom of the newsletter e-mail. Remember that even after you cancel your account, copies of some information that is publicly viewable may remain viewable in circumstances where, for example, you have commented on content on The X Factor Services or if another person copied, stored or shared your information. We may also retain backup information related to your account on our servers for some time after cancellation for fraud detection or to comply with applicable law or our internal security policies. 
 
-If you would like to stop receiving messages from us on your mobile phone, please reply to the message with "STOP." You may also contact your wireless carrier for additional information on receiving or stopping mobile messages. 
+If you would like to stop receiving messages from us on your mobile phone, please reply to the message with "STOP." You may also contact your wireless carrier for additional information on receiving or stopping mobile messages.
 
 **7\. CONTACT US**
 
