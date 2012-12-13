@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditcardfinder.com.au privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607060853id_/http%3A//www.creditcardfinder.com.au/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcardfinder.com.au privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213084044id_/http%3A//www.creditcardfinder.com.au/terms-of-use) for the most accurate reproduction.*
 
 # Terms of Use, Disclaimer & Privacy Policy | Credit Card Finder
 
@@ -42,13 +42,11 @@
 
 1.  Comparisons are not intended to be comprehensive of the market of available products and the not all providers in the market will always be included in our comparisons.
 
-2.  Where advertisements appear on this site they should not be taken as ranking or referencing any particular product above another in terms of its suitability for your use.
+2.  Where advertisements appear on this site they should not be taken as ranking or referencing any particular product above another in terms of its suitability for your use. Where terms such as “Top”, “Best”, “”, “Editor’s Choice” and other terms indicating a selection of products but are in a no particular order, these terms are not based on objective criteria and may not apply in relation to your personal circumstances. 
 
 3.  Financial products compared do not compare all features that may be relevant to you in your choices about which product to utilise.
 
-4.  Where terms such as “Top”, “Best”, “Featured”, “Editor’s Choice” and other terms indicating a ranking of products in a preferential order, these terms are not based on objective criteria and may not apply in relation to your personal circumstances. 
-
-5.  Where it is stated on this site that we have analysed offers in the market, the process of analysis is restricted to the information subsequently disclosed and may not be suitable for your personal circumstances.
+4.  Where it is stated on this site that we have analysed offers in the market, the process of analysis is restricted to the information subsequently disclosed and may not be suitable for your personal circumstances.
 
 **Disclosure**
 
