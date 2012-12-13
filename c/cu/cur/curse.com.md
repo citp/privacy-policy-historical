@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the curse.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628075622id_/http%3A//www.curse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curse.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213235734id_/http%3A//www.curse.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Curse
 
-**CURSE, INC. PRIVACY POLICY**
+**CURSE, INC. & CURSE, LTD. PRIVACY POLICY**
 
-_Last updated May 15, 2012_
+_Last updated October 2, 2012_
 
 **_Our Privacy Commitment_**
 
-Welcome to Curse!  Curse, Inc. (“ ** _Curse,_** ” “ ** _we,_** ” “ ** _us_** ” or “ ** _our_** ”) is committed to respecting the privacy rights and concerns of all users of the Curse www.curse.com websites where this Privacy Policy is posted (the “ ** _Site(s)_** ”) (we refer to the Site(s), the services and software made available through the Site(s), collectively, as the “ ** _Curse Features_** ”).  As such, we have established and implemented this Privacy Policy to inform visitors to the Site(s) and users of the Curse Features how we use and protect the information we collect through the Site(s).  By visiting the Site(s) or using any of the Curse Features, you consent to Curse’ collection, use, storage, deletion and disclosure of information relating to you as set forth in this Privacy Policy.  This Privacy Policy is effective as of the date set forth above and is only applicable to the Site(s) and not to any other website that you may be able to access from the Site(s) which may have its own data collection and use practices and policies.
+Welcome to Curse!  Curse, Inc. & Curse, Ltd. (“ ** _Curse,_** ” “ ** _we,_** ” “ ** _us_** ” or “ ** _our_** ”) is committed to respecting the privacy rights and concerns of all users of the Curse www.curse.com websites where this Privacy Policy is posted (the “ ** _Site(s)_** ”) (we refer to the Site(s), the services and software made available through the Site(s), collectively, as the “ ** _Curse Features_** ”).  As such, we have established and implemented this Privacy Policy to inform visitors to the Site(s) and users of the Curse Features how we use and protect the information we collect through the Site(s).  By visiting the Site(s) or using any of the Curse Features, you consent to Curse’ collection, use, storage, deletion and disclosure of information relating to you as set forth in this Privacy Policy.  This Privacy Policy is effective as of the date set forth above and is only applicable to the Site(s) and not to any other website that you may be able to access from the Site(s) which may have its own data collection and use practices and policies.
 
 This policy answers the following questions:
 
