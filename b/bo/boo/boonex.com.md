@@ -1,35 +1,43 @@
-> *The following text is extracted and transformed from the boonex.com privacy policy that was archived on 2009-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090126223136id_/http%3A//www.boonex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boonex.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213221038id_/http%3A//www.boonex.com/privacy) for the most accurate reproduction.*
 
-# BoonEx :: Privacy Policy
+# BoonEx Community - Privacy Policy
 
-The passage below is aimed to listing and explaining BoonEx privacy policy. Using BoonEx site and services, including but not limited to forums and chats, you thus agree to this privacy policy terms and conditions.
+##  Introduction
 
-**Intro**
+This document outlines BoonEx position on collecting personal information of BoonEx products and services users, clients and registered community members.
 
-To be able to provide you with services you are applying for, sometimes we need to collect your personal data. This can happen when you register at our support forums or when buying or downloading our products. Beside this, we collect some non personal information for the purposes of observation. The privacy policy explains when we need to take such information, what kind of information it is, how it is used, security of your information and third party issues.
+Short summaries ("Recaps") are added after each section as a short explanation for your convenience. Recaps are not legally binding.
 
-**When and what information is collected**
+##  Collecting Information
 
-When you are going to use our products (generate free or order ad free licenses we need to receive your personal data, which includes but not limited to full name and email address, to be able to provide you with services or products you are requesting. We also need credit card number to pass it to our e-commerce provider (see also Third party paragraph). In the purpose of statistic collection and analysis we may collect some non-personal information, which includes but not limited to OS type, browser, referral.
+We collect personal information that is relevant to the purpose of our services. This information allows us to provide you with secure, efficient experience and adequate customer support. We collect information through registration process and other website forms that you may choose not to submit. User profiles may be filled with extended personal information as per your own choice. All the submitted information is stored. Some of the submitted information is openly displayed on BoonEx websites. We also collect and store some automatic information, such as IP addresses and browser logs for the purpose of tracking website statistics. 
 
-BoonEx site uses cookies to store information on your local computer. These cookies do not contain any of the information you have entered while registering or making payments; they serve only to improve your viewing pleasure. The e-mail address is used only for confirming your registration details and password (and for sending new passwords should you forget your current one).
+When you purchase something from BoonEx or receive technical assistance, you may be asked to provide additional information, such as payment details, server access details or other personally identifying details. This information is gathered only for the purpose of provision of adequate service. Submission of such information is optional, but refusal to provide it may hinder the possibility to deliver products or services.
 
-**Use of information**
+###  _Recap: **We collect some information from you. Servers collect some browsing logs from you. We only do this to provide better service.**_
 
-BoonEx obliges itself to use all the information collected from visitors and members solely to be able to provide specific services or products, inform on events happening in BoonEx Unity, or in statistics purposes. No commercial use, selling or giving to any third party, except as additionally stated here, is anticipated.
+##  Collecting E-mails
 
-**Security**
+We will never disclose your E-mail address, provided during registration to any third party without your explicit permission. You may choose to remain anonymous in your communication with other members by using BoonE internal mailing system. For your convenience, "Premium" members may receive your personal E-mail address along with internal message. You may opt-in to not show your personal e-mail address or not sent messages to "Premium" members.
 
-BoonEx Pty Ltd. obliges itself to apply maximum efforts to guard the security of information provided. BoonEx takes no responsibility of such information becoming available to the third party in the result of unauthorized access or such taking place beyond our control. Nevertheless the visitors shall understand that by posting personal information on forums and providing it publicly they do it at their own risk. BoonEx holds no responsibility for misuse of such private information by other users of forums. 
+###  _Recap: **We collect your E-mail address, but we keep it private.**_
 
-**Third party**
+##  Sharing and Using Information
 
-BoonEx has the right to pass some of personal information to the third party if it is necessary for providing services or products requested. It includes, but not limited to an e-commerce provider of BoonEx. As soon as the information is given to this third party it is a subject to the third party privacy policy and BoonEx bares no responsibility on the breach of third party's privacy policy. On the privacy policy of paypal please visit [this link](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside).
+Your public profile information is available on BoonEx websites. Your personal E-mail address and password are stored securely and are not visible to other members without your permission. Only BoonEx employees and community administrators may have access to your E-mail address.
 
-**Amendments**
+We will contact you and will request your consent when your personal information is to be shared with third parties or used for a purpose incompatible with the purpose for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
 
-BoonEx Pty Ltd. retains the right to amend any part of this privacy policy and include necessary additions. Yet BoonEx Pty Ltd. obliges itself to inform visitors on such changes via BoonEx site, by posting there amended and augmented version.
+###  _Recap: **We use your information to contact your and to display your public profile.**_
 
-**Contacting Us**
+##  Securing Information
 
-Should you have any questions or inquiries concerning BoonEx privacy policy, the treatment of information you provide, or your business with BoonEx Pty Ltd., feel free to send them to marketing@boonex.com 
+Your BoonEx account information is protected by an encrypted password for your privacy and security. BoonEx doesn't have access to non-encrypted version of your password, however we still can access your other account information, when required for administration purposes. It is your responsibility to keep your account password safe. 
+
+### _Recap: **We don't know your password, but we can access your account information. Keep your password safe and it will keep your account safe.**_
+
+##  Privacy Policy Changes
+
+BoonEx may amend this Privacy Policy from time to time, at its sole discretion. BoonEx encourages users to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+###  _Recap: **Keep an eye on this policy. It may change.**_
