@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the comparecards.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620150148id_/http%3A//www.comparecards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparecards.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213211838id_/http%3A//www.comparecards.com/privacy-policy) for the most accurate reproduction.*
 
 # CompareCards.com Website Privacy Policy
 
-**Updated: January 16, 2011**
+**Updated: August 1, 2012**
 
 CompareCards.com is committed to protecting the privacy of its users. The following overview has been prepared to inform you of our privacy policy.
 
@@ -11,6 +11,10 @@ To the extent that you affirmatively provide personally identifiable information
 CompareCards.com may utilize cookies to enable you to save voluntarily lists of types of credit cards or for other purposes to enhance useability of the website. However, CompareCards.com does not utilize cookies on our website to obtain any personally identifiable information about our users. CompareCards.com cannot represent the same for external or third party websites to which you are linked from CompareCards.com. Please review such third parties respective privacy policies to determine whether they utilize cookies.
 
 CompareCards.com reserves the right to change its privacy policy and statement in the future to comply with applicable law or otherwise. Any changes will be posted on this webpage.
+
+CompareCards.com uses one or more companies to place advertisements for our products and services and those of third parties on our Site and third-party sites.  Cookies and other technologies such as Web beacons or tags are used to measure the effectiveness of our ads and to determine the display of content and advertising to you based on your interests both on our site , as well as on third-party sites where you may visit.  To support this interest based advertising solution, we, and companies who we have contracted with, may use anonymous information about your visits to our and other Web sites. The information collected and used by this process is always anonymous, and does not enable any third-party to identify you individually. “
+
+Although it is our hope that you find the display of advertising to you based on your anonymous interests valuable, if you would prefer not to participate in the services offered through these solutions, you can always opt-out of this activity by visiting the Network Advertising Initiative (NAI) website by clicking [http://www.networkadvertising.org/choices/#completed](http://www.networkadvertising.org/choices/#completed)
 
 We encourage you to take adequate precautions to protect your personally identifiable information, both on and off the Internet. To learn more, visit [Onguard Online](http://onguardonline.gov/index.html) from the U.S. government.
 
