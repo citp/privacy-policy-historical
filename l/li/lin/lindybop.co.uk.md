@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lindybop.co.uk privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610203122id_/http%3A//www.lindybop.co.uk/privacy-policy-3-w.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindybop.co.uk privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213194903id_/http%3A//www.lindybop.co.uk/privacy-policy-3-w.asp) for the most accurate reproduction.*
 
 # Lindy Bop Privacy Policy
 
