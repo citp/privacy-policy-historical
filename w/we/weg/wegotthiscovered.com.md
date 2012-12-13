@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wegotthiscovered.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609222018id_/http%3A//wegotthiscovered.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegotthiscovered.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213121224id_/http%3A//wegotthiscovered.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | We Got This Covered
-
-[](http://wegotthiscovered.com/privacy-policy/attachment/privacy-policy-2/)
+# Privacy Policy
 
 This is the web site of  _We Got This Covered_.
 
