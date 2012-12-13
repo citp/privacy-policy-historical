@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the indiegala.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509065210id_/http%3A//indiegala.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiegala.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213033157id_/http%3A//www.indiegala.com/privacy) for the most accurate reproduction.*
 
 # The Indie Gala - Set your price. Donate. Play!
 
-Effective Date: December 5th, 2011 
+| 
+
+Privacy Policy 
+
+  
+Effective Date: December 5th, 2011   
+
 
 Your privacy is important, so INDIEGALA, SRL. ("INDIEGALA," "we," "us," or "our") has created the following Privacy Policy to let you know what information we collect when you visit the Service, why we collect it and how it is used. This Privacy Policy explains the data collection and use practices of the Service; it does not apply to other online or offline INDIEGALA sites, products or services. The terms "you," "your," and "yours" refer to the customer/purchaser utilizing our Service. This Privacy Policy is governed by our Terms and Conditions. By using the Service, you consent to the data practices prescribed in this statement. We may periodically make changes to this Privacy Policy that we will include on this page. It is your responsibility to review this Privacy Policy and remain informed about any changes to it, so we encourage you to visit this page often. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms and Conditions. 
 
@@ -47,3 +53,5 @@ By using this Service, you agree to this Privacy Policy. This is our entire and 
 **Contacting INDIEGALA.**
 
 If you have any questions about this Privacy Policy or the privacy practices of INDIEGALA, please contact us by emailing support@indiegala.com.
+
+| 
