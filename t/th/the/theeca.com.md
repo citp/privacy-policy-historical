@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeca.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506234428id_/http%3A//theeca.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeca.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213041836id_/http%3A//www.theeca.com/privacy_policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Entertainment Consumers Association (ECA)
 
