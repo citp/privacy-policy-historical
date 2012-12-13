@@ -1,146 +1,1074 @@
-<!--The following is the downloaded HTML source of the luxuryretreats.com privacy policy that was archived on 2012-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618184941id_/http%3A//www.luxuryretreats.com/content/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the luxuryretreats.com privacy policy that was archived on 2012-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121213062527id_/http%3A//www.luxuryretreats.com/content/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=8"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=8"><link rel="Shortcut Icon" href="/favicon.ico"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=8">
 <meta name="description" content="Luxury Retreats International Website Privacy Policy. Luxury Retreats is an elite villa rental broker for destinations worldwide.">
 <meta name="keywords" content="luxury villas, villa rental, rental villa, villa rentals, vacation villa, villas for rent, luxury villas for rent, luxury rental villa, vacation villas, luxury vacation rental, private villa, luxury beach rentals, luxury rental properties, luxury villa rentals, luxury caribbean">
 <title>
 	Luxury Retreats: Privacy Policy - Villa Rentals Specialists
-</title>
-<!--<link rel="icon" href="http://www.luxuryretreats.com/images/lri.ico" type="image/x-icon" />-->
-<link href="/CSS/reset.css" rel="stylesheet" type="text/css"><link href="/CSS/common.v1.32.css" rel="stylesheet" type="text/css"><link href="/CSS/about-us.v1.3.css" rel="stylesheet" type="text/css">
-
+</title><link href="/CSS/reset.css" rel="stylesheet" type="text/css"><link href="/css/dialog/jquery-ui.css" rel="stylesheet" type="text/css"><link href="/CSS/common.v1.32.css" rel="stylesheet" type="text/css"><link href="/CSS/about-us.v1.3.css" rel="stylesheet" type="text/css">
+<!-- Auto Complete //-->
+    <link href="/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+     <script src="/js/dialog/jquery.min.js" type="text/javascript"></script>
+    <script src="/js/dialog/jquery-ui.min.js" type="text/javascript"></script>
  <!-- Start Common JQuery //-->
-<script type="text/javascript" src="/js/common/jquery-1.2.6.js"></script>
 
+     
+
+    <script type="text/javascript" src="/js/common/lri.web.ss.dat.parameters.v1.182.js"></script>
+   <script type="text/javascript" src="/js/common/lri.web.dat.villas.v1.201.js"></script>
 <script type="text/javascript" src="/js/SWFobject/swfobject.js"></script>
 <script type="text/javascript" src="/js/SWFobject/AC_RunActiveContent.js"></script>
 
  <script type="text/javascript">
-var LRINamespace =
+     var LRINamespace =
 {
-    register : function(_Name)
-    {
+    register: function (_Name) {
         var return_status = 0;
         var chk = false;
         var cob = "";
         var spc = _Name.split(".");
-        for(var i = 0; i<spc.length; i++)
-        {
-            try
-            {
-                if(cob!=""){cob+=".";}
-                cob+=spc[i];
+        for (var i = 0; i < spc.length; i++) {
+            try {
+                if (cob != "") { cob += "."; }
+                cob += spc[i];
                 chk = this.exists(cob);
-                if(!chk){this.create(cob);}
-//                if(chk){throw "Namespace: " + _Name + " is already defined."; }
+                if (!chk) { this.create(cob); }
+
             }
-            catch(err)
-            {
-            
-                //return_status = -1;
+            catch (err) {
+
                 alert(err);
             }
 
-            
+
         }
-//        try
-//        {
-//            if(chk){throw "Namespace: " + _Name + " is already defined."; }
-//        }
-//        catch(err)
-//        {
-//            return_status = -1;
-//            //alert(err);
-//        }
     },
 
-    create : function(_Src)
-    {
+    create: function (_Src) {
         eval("window." + _Src + " = new Object();");
     },
 
-    exists : function(_Src)
-    {
+    exists: function (_Src) {
         eval("var NE = false; try{if(" + _Src + "){NE = true;}else{NE = false;}}catch(err){NE=false;}");
         return NE;
     }
 };
 </script>
+
+<script type="text/javascript" language="javascript">
+    function CloseMasterDiv() {
+        $('#ctl00_popup').hide();
+        $('#ctl00_ctl00_popup').hide();
+
+    }
+    $(document).ready(function () {
+
+
+        $("#overlayVilla").click(function (e) {
+
+            if (String(e.target.innerHTML).indexOf('HideMainDiv') > -1) {
+                $('#ctl00_popup').hide();
+                $('#ctl00_ctl00_popup').hide();
+            }
+        });
+
+
+
+    });
+
+</script>
+
+   
+   
+
+
+
+
 </head>
 <body>
-    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIBD2QWAgIDD2QWAgIBDxYCHgRUZXh0BaYsPGxpPjxhIHRpdGxlPSJIb21lIiBocmVmPSIvaW5kZXguYXNweCI+SG9tZTwvYT48L2xpPjxsaSBjbGFzcz0iZGVzdGluYXRpb25zLW1lbnUiPjxhIHRpdGxlPSJEZXN0aW5hdGlvbnMiIGhyZWY9Ii9kZXN0aW5hdGlvbnMvaW5kZXguYXNweCI+RGVzdGluYXRpb25zIOKWvDwvYT48ZGl2IGNsYXNzPSdjb250YWluZXInPjxkaXYgY2xhc3M9J2Rlc3RpbmF0aW9uc0JveCc+PGRpdiBjbGFzcz0nZGVzdGluYXRpb25zJz48YSBocmVmPScvZGVzdGluYXRpb25zL05vcnRoLUFtZXJpY2EvQ2FuYWRhJz5DYW5hZGE8L2E+PGRpdiBjbGFzcz0nZGVzdGluYXRpb25TdWInPjx1bD48bGk+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9Ob3J0aC1BbWVyaWNhL0NhbmFkYS9CQy9XaGlzdGxlcic+V2hpc3RsZXIgKEJDKTwvYT48L2xpPjwvdWw+PC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0nZGVzdGluYXRpb25zJz48YSBocmVmPScvZGVzdGluYXRpb25zL0NhcmliYmVhbic+Q2FyaWJiZWFuPC9hPjxkaXYgY2xhc3M9J2Rlc3RpbmF0aW9uU3ViJz48dWw+PGxpPjxhIGhyZWY9Jy9kZXN0aW5hdGlvbnMvQ2FyaWJiZWFuL0FuZ3VpbGxhJz5Bbmd1aWxsYTwvYT48L2xpPjxsaT48YSBocmVmPScvZGVzdGluYXRpb25zL0NhcmliYmVhbi9CYWhhbWFzJz5CYWhhbWFzPC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy9kZXN0aW5hdGlvbnMvQ2FyaWJiZWFuL0JhcmJhZG9zJz5CYXJiYWRvczwvYT48L2xpPjxsaT48YSBocmVmPScvZGVzdGluYXRpb25zL0NhcmliYmVhbi9Eb21pbmljYW4tUmVwdWJsaWMnPkRvbWluaWNhbiBSZXB1YmxpYzwvYT48L2xpPjxsaT48YSBocmVmPScvZGVzdGluYXRpb25zL0NhcmliYmVhbi9HcmVuYWRhJz5HcmVuYWRhPC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy9kZXN0aW5hdGlvbnMvQ2FyaWJiZWFuL0phbWFpY2EnPkphbWFpY2E8L2E+PC9saT48bGk+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9DYXJpYmJlYW4vTmV2aXMnPk5ldmlzPC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy9kZXN0aW5hdGlvbnMvQ2FyaWJiZWFuL1N0LUJhcnRzJz5TdC4gQmFydHM8L2E+PC9saT48bGk+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9DYXJpYmJlYW4vU3QtQ3JvaXgnPlN0LiBDcm9peDwvYT48L2xpPjxsaT48YSBocmVmPScvZGVzdGluYXRpb25zL0NhcmliYmVhbi9TdC1Kb2huJz5TdC4gSm9objwvYT48L2xpPjxsaT48YSBocmVmPScvZGVzdGluYXRpb25zL0NhcmliYmVhbi9TdC1MdWNpYSc+U3QuIEx1Y2lhPC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy9kZXN0aW5hdGlvbnMvQ2FyaWJiZWFuL1N0LU1hcnRpbic+U3QuIE1hcnRpbjwvYT48L2xpPjxsaT48YSBocmVmPScvZGVzdGluYXRpb25zL0NhcmliYmVhbi9TdC1UaG9tYXMnPlN0LiBUaG9tYXM8L2E+PC9saT48bGk+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9DYXJpYmJlYW4vVG9ydG9sYSc+VG9ydG9sYTwvYT48L2xpPjxsaT48YSBocmVmPScvZGVzdGluYXRpb25zL0NhcmliYmVhbi9UdXJrcy1DYWljb3MnPlR1cmtzIGFuZCBDYWljb3M8L2E+PC9saT48bGk+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9DYXJpYmJlYW4vVmlyZ2luLUdvcmRhJz5WaXJnaW4gR29yZGE8L2E+PC9saT48L3VsPjwvZGl2PjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9J2Rlc3RpbmF0aW9uc0JveCc+PGRpdiBjbGFzcz0nZGVzdGluYXRpb25zJz48YSBocmVmPScvZGVzdGluYXRpb25zL0NlbnRyYWwtQW1lcmljYSc+Q2VudHJhbCBBbWVyaWNhPC9hPjxkaXYgY2xhc3M9J2Rlc3RpbmF0aW9uU3ViJz48dWw+PGxpPjxhIGhyZWY9Jy9kZXN0aW5hdGlvbnMvQ2VudHJhbC1BbWVyaWNhL0JlbGl6ZSc+QmVsaXplPC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy9kZXN0aW5hdGlvbnMvQ2VudHJhbC1BbWVyaWNhL0Nvc3RhLVJpY2EnPkNvc3RhIFJpY2E8L2E+PC9saT48L3VsPjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9J2Rlc3RpbmF0aW9ucyc+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9FdXJvcGUvRnJhbmNlJz5GcmFuY2U8L2E+PGRpdiBjbGFzcz0nZGVzdGluYXRpb25TdWInPjx1bD48bGk+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9ldXJvcGUvZnJhbmNlL2ZyZW5jaC1yaXZpZXJhJz5GcmVuY2ggUml2aWVyYTwvYT48L2xpPjxsaT48YSBocmVmPScvZGVzdGluYXRpb25zL2V1cm9wZS9mcmFuY2UvcHJvdmVuY2UnPlByb3ZlbmNlPC9hPjwvbGk+PC91bD48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSdkZXN0aW5hdGlvbnMnPjxhIGhyZWY9Jy9kZXN0aW5hdGlvbnMvRXVyb3BlL0dyZWVjZSc+R3JlZWNlPC9hPjxkaXYgY2xhc3M9J2Rlc3RpbmF0aW9uU3ViJz48dWw+PGxpPjxhIGhyZWY9Jy9kZXN0aW5hdGlvbnMvRXVyb3BlL0dyZWVjZS9DcmV0ZSc+Q3JldGU8L2E+PC9saT48bGk+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9FdXJvcGUvR3JlZWNlL015a29ub3MnPk15a29ub3M8L2E+PC9saT48bGk+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9FdXJvcGUvR3JlZWNlL1NhbnRvcmluaSc+U2FudG9yaW5pPC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy9kZXN0aW5hdGlvbnMvRXVyb3BlL0dyZWVjZS96YWt5bnRob3MnPlpha3ludGhvczwvYT48L2xpPjwvdWw+PC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0nZGVzdGluYXRpb25zJz48YSBocmVmPScvZGVzdGluYXRpb25zL05vcnRoLUFtZXJpY2EvSGF3YWlpJz5IYXdhaWk8L2E+PGRpdiBjbGFzcz0nZGVzdGluYXRpb25TdWInPjx1bD48bGk+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9ub3J0aC1hbWVyaWNhL2hhd2FpaS9iaWctaXNsYW5kJz5CaWcgSXNsYW5kPC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy9kZXN0aW5hdGlvbnMvTm9ydGgtQW1lcmljYS9IYXdhaWkvS2F1YWknPkthdWFpPC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy9kZXN0aW5hdGlvbnMvbm9ydGgtYW1lcmljYS9oYXdhaWkvbWF1aSc+TWF1aTwvYT48L2xpPjxsaT48YSBocmVmPScvZGVzdGluYXRpb25zL05vcnRoLUFtZXJpY2EvSGF3YWlpL09haHUnPk9haHU8L2E+PC9saT48L3VsPjwvZGl2PjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9J2Rlc3RpbmF0aW9uc0JveCc+PGRpdiBjbGFzcz0nZGVzdGluYXRpb25zJz48YSBocmVmPScvZGVzdGluYXRpb25zL0V1cm9wZS9JdGFseSc+SXRhbHk8L2E+PGRpdiBjbGFzcz0nZGVzdGluYXRpb25TdWInPjx1bD48bGk+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9ldXJvcGUvaXRhbHkvYW1hbGZpLWNvYXN0Jz5BbWFsZmkgQ29hc3Q8L2E+PC9saT48bGk+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9FdXJvcGUvSXRhbHkvU2FyZGluaWEnPlNhcmRpbmlhPC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy9kZXN0aW5hdGlvbnMvRXVyb3BlL0l0YWx5L1R1c2NhbnknPlR1c2Nhbnk8L2E+PC9saT48bGk+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9FdXJvcGUvSXRhbHkvVW1icmlhJz5VbWJyaWE8L2E+PC9saT48L3VsPjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9J2Rlc3RpbmF0aW9ucyc+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9Ob3J0aC1BbWVyaWNhL01leGljbyc+TWV4aWNvPC9hPjxkaXYgY2xhc3M9J2Rlc3RpbmF0aW9uU3ViJz48dWw+PGxpPjxhIGhyZWY9Jy9kZXN0aW5hdGlvbnMvTm9ydGgtQW1lcmljYS9NZXhpY28vQ2Fiby1TYW4tTHVjYXMnPkNhYm8gU2FuIEx1Y2FzPC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy9kZXN0aW5hdGlvbnMvTm9ydGgtQW1lcmljYS9NZXhpY28vUHVlcnRvLVZhbGxhcnRhJz5QdWVydG8gVmFsbGFydGE8L2E+PC9saT48bGk+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9Ob3J0aC1BbWVyaWNhL01leGljby9wdW50YS1taXRhJz5QdW50YSBNaXRhPC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy9kZXN0aW5hdGlvbnMvTm9ydGgtQW1lcmljYS9NZXhpY28vUml2aWVyYS1NYXlhJz5SaXZpZXJhIE1heWE8L2E+PC9saT48L3VsPjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9J2Rlc3RpbmF0aW9ucyc+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9BZnJpY2EvU291dGgtQWZyaWNhJz5Tb3V0aCBBZnJpY2E8L2E+PGRpdiBjbGFzcz0nZGVzdGluYXRpb25TdWInPjx1bD48bGk+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9BZnJpY2EvU291dGgtQWZyaWNhL0NhcGUtVG93bic+Q2FwZSBUb3duPC9hPjwvbGk+PC91bD48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSdkZXN0aW5hdGlvbnMnPjxhIGhyZWY9Jy9kZXN0aW5hdGlvbnMvRXVyb3BlL1NwYWluJz5TcGFpbjwvYT48ZGl2IGNsYXNzPSdkZXN0aW5hdGlvblN1Yic+PHVsPjxsaT48YSBocmVmPScvZGVzdGluYXRpb25zL2V1cm9wZS9zcGFpbi9iYXJjZWxvbmEnPkJhcmNlbG9uYTwvYT48L2xpPjxsaT48YSBocmVmPScvZGVzdGluYXRpb25zL2V1cm9wZS9zcGFpbi9jb3N0YS1icmF2YSc+Q29zdGEgQnJhdmE8L2E+PC9saT48bGk+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9ldXJvcGUvc3BhaW4vbWFyYmVsbGEnPk1hcmJlbGxhPC9hPjwvbGk+PC91bD48L2Rpdj48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSdkZXN0aW5hdGlvbnNCb3gnPjxkaXYgY2xhc3M9J2Rlc3RpbmF0aW9ucyc+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9Bc2lhL1RoYWlsYW5kJz5UaGFpbGFuZDwvYT48ZGl2IGNsYXNzPSdkZXN0aW5hdGlvblN1Yic+PHVsPjxsaT48YSBocmVmPScvZGVzdGluYXRpb25zL0FzaWEvVGhhaWxhbmQva29oLXNhbXVpJz5Lb2ggU2FtdWk8L2E+PC9saT48bGk+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9Bc2lhL1RoYWlsYW5kL1BodWtldCc+UGh1a2V0PC9hPjwvbGk+PC91bD48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSdkZXN0aW5hdGlvbnMnPjxhIGhyZWY9Jy9kZXN0aW5hdGlvbnMvTm9ydGgtQW1lcmljYS9Vbml0ZWQtU3RhdGVzJz5Vbml0ZWQgU3RhdGVzPC9hPjxkaXYgY2xhc3M9J2Rlc3RpbmF0aW9uU3ViJz48dWw+PGxpPjxhIGhyZWY9Jy9kZXN0aW5hdGlvbnMvTm9ydGgtQW1lcmljYS9Vbml0ZWQtU3RhdGVzL0NhbGlmb3JuaWEnPkNhbGlmb3JuaWE8L2E+PC9saT48bGk+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9Ob3J0aC1BbWVyaWNhL1VuaXRlZC1TdGF0ZXMvQ29sb3JhZG8nPkNvbG9yYWRvPC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy9kZXN0aW5hdGlvbnMvTm9ydGgtQW1lcmljYS9Vbml0ZWQtU3RhdGVzL0Zsb3JpZGEnPkZsb3JpZGE8L2E+PC9saT48bGk+PGEgaHJlZj0nL2Rlc3RpbmF0aW9ucy9ub3J0aC1hbWVyaWNhL3VuaXRlZC1zdGF0ZXMvdXRhaCc+VXRhaDwvYT48L2xpPjwvdWw+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9saT48bGk+PGEgdGl0bGU9IkNvbmNpZXJnZSBTZXJ2aWNlcyIgaHJlZj0iL2d1ZXN0LXNlcnZpY2VzL2luZGV4LmFzcHgiPkNvbmNpZXJnZTwvYT48L2xpPjxsaT48YSB0aXRsZT0iVmFjYXRpb24gSWRlYXMiIGhyZWY9Ii92YWNhdGlvbi10aGVtZXMvaW5kZXguYXNweCI+VmFjYXRpb24gSWRlYXM8L2E+PC9saT48bGk+PGEgdGl0bGU9IldoYXQgaXMgYSBWaWxsYSBSZW50YWw/IiBocmVmPSIgL3ZpbGxhcy9yZW50YWxzL3Byb2Nlc3MuYXNweCI+V2hhdCBpcyBhIFZpbGxhIFJlbnRhbD88L2E+PC9saT48bGk+PGEgdGl0bGU9IlJlYWwgRXN0YXRlIiBocmVmPSJodHRwOi8vd3d3Lmx1eHVyeXJldHJlYXRzcmVhbGVzdGF0ZS5jb20iIHRhcmdldD0iX2JsYW5rIj5SZWFsIEVzdGF0ZTwvYT48L2xpPjxsaT48YSB0aXRsZT0iQWJvdXQgVXMiIGlkPSJhY3RpdmUiIGhyZWY9Ii9jb250ZW50L2Fib3V0LmFzcHgiPkFib3V0IFVzPC9hPjwvbGk+ZGS0BQyOUHje+isfniE6JZ1Cklst4w==">
-
-
-<script src="/ScriptResource.axd?d=u9LyDFq8Bog26zKNNlWX6TOaDgP2mQpmooxpfUfPIwOG3Tvd5l7c0zDuIrPAUSQz38dbT5cbIZQ135C8ud5mZzOU865SSuQ-gTJ0GRyxB2Q1&amp;t=633701353161062602" type="text/javascript"></script>
+   
     
     <div>
-	<div id="wrap">
+	
+    <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+
+
+<script src="/ScriptResource.axd?d=u9LyDFq8Bog26zKNNlWX6TOaDgP2mQpmooxpfUfPIwOG3Tvd5l7c0zDuIrPAUSQz38dbT5cbIZQ135C8ud5mZzOU865SSuQ-gTJ0GRyxB2Q1&amp;t=633701353161062602" type="text/javascript"></script> 
 	<!-- HEADER START -->
 	
 
-
-<link href="/css/MenuHeaderDropDown.css" rel="stylesheet" type="text/css">
+<link href="css/StyleSheet.css" rel="stylesheet" type="text/css">
+<link href="css/jquery-ui-1.css" rel="stylesheet" type="text/css">
+<script src="js/jQuery/jquery-1.7.1.js" type="text/javascript"></script>
+<script src="js/effect/jquery.effects.core.js" type="text/javascript"></script>
+<script src="js/effect/jquery.effects.blind.js" type="text/javascript"></script>
 
 <script language="JavaScript">
     document.cookie = "cookie_test=0;expires=01-01-2000";
     document.cookie = "cookie_test=1";
     if (document.cookie.indexOf("cookie_test=1") < 0) document.write('<div style="width:963px; text-align:center; font-size:x-large; font-weight:bolder; color:#ffffff; margin-left:3px; padding:10px; background-color: #404040;">This site functions best when you have cookies enabled in your browser.</div>'); 
 </script>
+<script type="text/javascript">
+    $(document).ready(function ($) {
 
+
+        var first = window.location.pathname;
+        first = first.split('/')[1];
+
+        if (first.substr(0, 5) == 'index' || first.substr(0, 5) == 'Index' || first == "") {
+          
+            $("#browse").hide();
+
+        }
+        else if (window.location.href.indexOf("Search") > 0 || window.location.href.indexOf("search") > 0 || window.location.href.indexOf("villa-page") > 0) {
+        
+            $("#browse").hide();
+            $("#footer").show();
+        }
+        else {
+
+            $("#browse").show();
+            $("#footer").show(); 
+
+            var pathArray = window.location.pathname.split('/');
+            var firstLevelLocation = pathArray[0];
+           
+            $("#browse").unbind("click");
+            $("#browse").bind("mouseover", function () { showDiv(); });
+            $("#browse").bind("mouseout", function () { hideDiv(); });
+          
+        }
+        
+        function showDiv() {
+            $('#destinationDIV').css('display', 'block');
+        }
+        function hideDiv() {
+            $('#destinationDIV').css('display', 'none');
+        }
+               
+        $('.toplink li').hover(
+
+			function () {
+
+			    $(this).children('.submenu').css('display', 'block');
+
+			},
+			function () {
+			    var str = "";
+			    str = String($('#iframeId').contents().find('#txtEmail').val());
+			    if (str != "EMAIL SIGNUP") {
+			        $(this).children('.submenu').css('display', 'block');
+			    }
+			    else {
+			        str = "";
+			        $(this).children('.submenu').css('display', 'none');
+			    }
+
+
+			});
+
+            
+       
+        $('a#aGurantee').click(function () {
+           
+            ShowDialogG(true);
+           
+             e.preventDefault();
+        });
+
+        function ShowDialogG(modal) {
+            $("#overlayG").show();
+            $("#dialogG").fadeIn(300);
+
+            if (modal) {
+                $("#overlayG").unbind("click");
+                $('#dvGurantee').scrollTo(0, 0);
+            }
+            else {
+                $("#overlayG").click(function (e) {
+                    HideDialogG();
+                });
+            }
+        }
+
+        function HideDialogG() {
+            $("#overlayG").hide();
+            $("#dialogG").fadeOut(300);
+        }
+
+
+       
+        $("#btnCloseG").click(function (e) {
+            HideDialogG();
+            e.preventDefault();
+        });
+
+        $('#imgclose').click(function () {
+
+
+            HideDialogG();
+            e.preventDefault();
+        });
+
+        // Cancel the mouseup event in the popup for Gurantee 
+        $("#dvGurantee").mouseup(function () {
+            return false
+        });
+        // Bind mouseup event to all the document
+        $(document).mouseup(function (e) {
+            // Check if the click is outside the popup
+            if ($(e.target).parents("#dvGurantee").length == 0 && !$(e.target).is("#dvGurantee")) {
+               
+                HideDialogG();
+            }
+        });
+        //end
+
+    });
+    jQuery(document).scroll(function () { jQuery('.ac_results').hide(); });
+
+
+  
+</script>
 <noscript>
     <div style="width: 963px; text-align: center; font-size: x-large; font-weight: bolder;
         color: #ffffff; margin-left: 3px; padding: 10px; background-color: #404040;">
         This site functions best when you have JavaScript enabled in your browser.
     </div>
 </noscript>
-<div id="header">
-    <div id="header-main">
-        <div id="header-logo">
-            <a href="/index.aspx" title="Luxury Retreats Villa Rentals">
-                <img src="/images/luxuryretreats-logo.jpg" alt="Luxury Retreats Villa Rentals"></a>
+<div class="container">
+    <div class="topbar">
+        <div class="logo">
+            <a href="/index.aspx"></a>
         </div>
-        <div id="header-right">
-            <div id="header-number">
-                <div class="header-phone">
-                    <a href="http://fr.luxuryretreats.com" rel="nofollow">Français</a><br>
-                    International:+1 514-393-8844 | North America: 1-877-993-0100</div>
-            </div>
-            <div id="header-menu">
-                <ul id="mainmenu">
-                    <li><a title="Home" href="/index.aspx">Home</a></li><li class="destinations-menu"><a title="Destinations" href="/destinations/index.aspx">Destinations ▼</a><div class="container"><div class="destinationsBox"><div class="destinations"><a href="/destinations/North-America/Canada">Canada</a><div class="destinationSub"><ul><li><a href="/destinations/North-America/Canada/BC/Whistler">Whistler (BC)</a></li></ul></div></div><div class="destinations"><a href="/destinations/Caribbean">Caribbean</a><div class="destinationSub"><ul><li><a href="/destinations/Caribbean/Anguilla">Anguilla</a></li><li><a href="/destinations/Caribbean/Bahamas">Bahamas</a></li><li><a href="/destinations/Caribbean/Barbados">Barbados</a></li><li><a href="/destinations/Caribbean/Dominican-Republic">Dominican Republic</a></li><li><a href="/destinations/Caribbean/Grenada">Grenada</a></li><li><a href="/destinations/Caribbean/Jamaica">Jamaica</a></li><li><a href="/destinations/Caribbean/Nevis">Nevis</a></li><li><a href="/destinations/Caribbean/St-Barts">St. Barts</a></li><li><a href="/destinations/Caribbean/St-Croix">St. Croix</a></li><li><a href="/destinations/Caribbean/St-John">St. John</a></li><li><a href="/destinations/Caribbean/St-Lucia">St. Lucia</a></li><li><a href="/destinations/Caribbean/St-Martin">St. Martin</a></li><li><a href="/destinations/Caribbean/St-Thomas">St. Thomas</a></li><li><a href="/destinations/Caribbean/Tortola">Tortola</a></li><li><a href="/destinations/Caribbean/Turks-Caicos">Turks and Caicos</a></li><li><a href="/destinations/Caribbean/Virgin-Gorda">Virgin Gorda</a></li></ul></div></div></div><div class="destinationsBox"><div class="destinations"><a href="/destinations/Central-America">Central America</a><div class="destinationSub"><ul><li><a href="/destinations/Central-America/Belize">Belize</a></li><li><a href="/destinations/Central-America/Costa-Rica">Costa Rica</a></li></ul></div></div><div class="destinations"><a href="/destinations/Europe/France">France</a><div class="destinationSub"><ul><li><a href="/destinations/europe/france/french-riviera">French Riviera</a></li><li><a href="/destinations/europe/france/provence">Provence</a></li></ul></div></div><div class="destinations"><a href="/destinations/Europe/Greece">Greece</a><div class="destinationSub"><ul><li><a href="/destinations/Europe/Greece/Crete">Crete</a></li><li><a href="/destinations/Europe/Greece/Mykonos">Mykonos</a></li><li><a href="/destinations/Europe/Greece/Santorini">Santorini</a></li><li><a href="/destinations/Europe/Greece/zakynthos">Zakynthos</a></li></ul></div></div><div class="destinations"><a href="/destinations/North-America/Hawaii">Hawaii</a><div class="destinationSub"><ul><li><a href="/destinations/north-america/hawaii/big-island">Big Island</a></li><li><a href="/destinations/North-America/Hawaii/Kauai">Kauai</a></li><li><a href="/destinations/north-america/hawaii/maui">Maui</a></li><li><a href="/destinations/North-America/Hawaii/Oahu">Oahu</a></li></ul></div></div></div><div class="destinationsBox"><div class="destinations"><a href="/destinations/Europe/Italy">Italy</a><div class="destinationSub"><ul><li><a href="/destinations/europe/italy/amalfi-coast">Amalfi Coast</a></li><li><a href="/destinations/Europe/Italy/Sardinia">Sardinia</a></li><li><a href="/destinations/Europe/Italy/Tuscany">Tuscany</a></li><li><a href="/destinations/Europe/Italy/Umbria">Umbria</a></li></ul></div></div><div class="destinations"><a href="/destinations/North-America/Mexico">Mexico</a><div class="destinationSub"><ul><li><a href="/destinations/North-America/Mexico/Cabo-San-Lucas">Cabo San Lucas</a></li><li><a href="/destinations/North-America/Mexico/Puerto-Vallarta">Puerto Vallarta</a></li><li><a href="/destinations/North-America/Mexico/punta-mita">Punta Mita</a></li><li><a href="/destinations/North-America/Mexico/Riviera-Maya">Riviera Maya</a></li></ul></div></div><div class="destinations"><a href="/destinations/Africa/South-Africa">South Africa</a><div class="destinationSub"><ul><li><a href="/destinations/Africa/South-Africa/Cape-Town">Cape Town</a></li></ul></div></div><div class="destinations"><a href="/destinations/Europe/Spain">Spain</a><div class="destinationSub"><ul><li><a href="/destinations/europe/spain/barcelona">Barcelona</a></li><li><a href="/destinations/europe/spain/costa-brava">Costa Brava</a></li><li><a href="/destinations/europe/spain/marbella">Marbella</a></li></ul></div></div></div><div class="destinationsBox"><div class="destinations"><a href="/destinations/Asia/Thailand">Thailand</a><div class="destinationSub"><ul><li><a href="/destinations/Asia/Thailand/koh-samui">Koh Samui</a></li><li><a href="/destinations/Asia/Thailand/Phuket">Phuket</a></li></ul></div></div><div class="destinations"><a href="/destinations/North-America/United-States">United States</a><div class="destinationSub"><ul><li><a href="/destinations/North-America/United-States/California">California</a></li><li><a href="/destinations/North-America/United-States/Colorado">Colorado</a></li><li><a href="/destinations/North-America/United-States/Florida">Florida</a></li><li><a href="/destinations/north-america/united-states/utah">Utah</a></li></ul></div></div></div></div></li><li><a title="Concierge Services" href="/guest-services/index.aspx">Concierge</a></li><li><a title="Vacation Ideas" href="/vacation-themes/index.aspx">Vacation Ideas</a></li><li><a title="What is a Villa Rental?" href=" /villas/rentals/process.aspx">What is a Villa Rental?</a></li><li><a title="Real Estate" href="http://www.luxuryretreatsrealestate.com" target="_blank">Real Estate</a></li><li><a title="About Us" id="active" href="/content/about.aspx">About Us</a></li>
+        <div class="toplink">
+            <ul>
+                <li><a href="#">Social</a>
+                    <div class="social submenu">
+                        <div class="socail_set">
+                            <h2>
+                                LATEST BLOG POSTS</h2>
+                            <ul>
+                                <li><a href="http://blog.luxuryretreats.com/2012/08/villas-in-st-martin/" target="_blank">My Week in St. Martin</a></li>
+                                <li><a href="http://blog.luxuryretreats.com/2012/08/insiders-guide-a-girls-getaway-in-cabo/" target="_blank">A Girls' Getaway in Cabo </a></li>
+                                <li><a href="http://blog.luxuryretreats.com/2012/08/luxurious-maui-villas/" target="_blank">Maui's Most Luxurious Villas</a></li>
+                                <li><a href="http://blog.luxuryretreats.com/2012/07/10-things-to-do-before-you-leave-maui/" target="_blank">Top 10 Things to Do in Maui</a></li>
+                            </ul>
+                        </div>
+                       
+                        <div class="socail_set">
+                            <div class="social_link">
+                                <h4 style="color: White; font-size: 12px;">
+                                    SEE WHAT'S NEW ON</h4>
+                                <br>
+                                <a href="http://facebook.luxuryretreats.com/" class="fb" target="_blank"></a><a href="http://twitter.com/luxuryretreats" class="tw" target="_blank"></a><a href="http://www.linkedin.com/company/luxury-retreats" class="in" target="_blank">
+                                    </a><a href="http://pinterest.com/luxuryretreats/ " class="p" target="_blank"></a><a href="https://plus.google.com/u/0/b/118390395278942462427/118390395278942462427/posts " class="gp" target="_blank"></a> <a href="http://feeds.feedburner.com/LuxuryRetreatsBlog" class="rss" target="_blank"></a>
+                            </div>
+                        </div>
+                        <div class="subscribe">
+                            <h4 style="color: White; font-size: 12px;">
+                                GET THE LATEST ON LUXURY</h4>
+                            <iframe width="220" frameborder="0" id="iframeId" height="50" src="/iframeEmail.htm" style="background-color:#000;"></iframe>
+                        </div>
+                    </div>
+                </li>
+                <li><a href="#">About</a>
+                    <div class="about submenu">
+                        <div class="abt_top">
+                            <ul>
+                               
+                                <li><a href="/content/About.aspx">About Us</a></li>
+                                <li><a href="/careers">Careers</a></li>
+                                <li><a href="/villas/rentals/faq.aspx">FAQ</a></li>
+                                <li><a href="http://news.luxuryretreats.com/subscription/subscribe.asp">Newsletter</a></li>
+                            </ul>
+                        </div>
+                        <div class="abt_btm">
+                            <ul>
+                                
+                                <li><a href="/content/PrivacyandTerms.aspx">Privacy &amp; Terms</a></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                
+                <li>
+                    <a title="Villa Directory" href="#">Villa Directory</a><div class="location_dir submenu "><div class="col"><div class="countryset"><h2><a href="/destinations/Asia/bali">Bali</a></h2><ul></ul></div><div class="countryset"><h2><a href="/destinations/North-America/Canada">Canada</a></h2><ul><li><a href="/destinations/North-America/Canada/BC/Whistler">Whistler (BC)</a></li></ul></div><div class="countryset"><h2><a href="/destinations/Caribbean">Caribbean</a></h2><ul><li><a href="/destinations/Caribbean/Anguilla">Anguilla</a></li><li><a href="/destinations/Caribbean/Bahamas">Bahamas</a></li><li><a href="/destinations/Caribbean/Barbados">Barbados</a></li><li><a href="/destinations/Caribbean/Dominican-Republic">Dominican Republic</a></li><li><a href="/destinations/Caribbean/Grenada">Grenada</a></li><li><a href="/destinations/Caribbean/Jamaica">Jamaica</a></li><li><a href="/destinations/Caribbean/Nevis">Nevis</a></li><li><a href="/destinations/Caribbean/St-Barts">St. Barts</a></li><li><a href="/destinations/Caribbean/St-Croix">St. Croix</a></li><li><a href="/destinations/Caribbean/St-John">St. John</a></li><li><a href="/destinations/Caribbean/St-Lucia">St. Lucia</a></li><li><a href="/destinations/Caribbean/St-Martin">St. Martin</a></li><li><a href="/destinations/Caribbean/St-Thomas">St. Thomas</a></li><li><a href="/destinations/Caribbean/Tortola">Tortola</a></li><li><a href="/destinations/Caribbean/Turks-Caicos">Turks and Caicos</a></li><li><a href="/destinations/Caribbean/Virgin-Gorda">Virgin Gorda</a></li></ul></div></div><div class="col"><div class="countryset"><h2><a href="/destinations/Central-America">Central America</a></h2><ul><li><a href="/destinations/Central-America/Belize">Belize</a></li><li><a href="/destinations/Central-America/Costa-Rica">Costa Rica</a></li></ul></div><div class="countryset"><h2><a href="/destinations/Europe/France">France</a></h2><ul><li><a href="/destinations/europe/france/french-alps">French Alps</a></li><li><a href="/destinations/europe/france/french-riviera">French Riviera</a></li><li><a href="/destinations/europe/france/provence">Provence</a></li></ul></div><div class="countryset"><h2><a href="/destinations/Europe/Greece">Greece</a></h2><ul><li><a href="/destinations/Europe/Greece/Crete">Crete</a></li><li><a href="/destinations/Europe/Greece/Mykonos">Mykonos</a></li><li><a href="/destinations/Europe/Greece/Santorini">Santorini</a></li><li><a href="/destinations/Europe/Greece/zakynthos">Zakynthos</a></li></ul></div><div class="countryset"><h2><a href="/destinations/North-America/Hawaii">Hawaii</a></h2><ul><li><a href="/destinations/north-america/hawaii/big-island">Big Island</a></li><li><a href="/destinations/North-America/Hawaii/Kauai">Kauai</a></li><li><a href="/destinations/north-america/hawaii/maui">Maui</a></li><li><a href="/destinations/North-America/Hawaii/Oahu">Oahu</a></li></ul></div></div><div class="col"><div class="countryset"><h2><a href="/destinations/Europe/Italy">Italy</a></h2><ul><li><a href="/destinations/europe/italy/amalfi-coast">Amalfi Coast</a></li><li><a href="/destinations/Europe/Italy/Sardinia">Sardinia</a></li><li><a href="/destinations/Europe/Italy/Tuscany">Tuscany</a></li><li><a href="/destinations/Europe/Italy/Umbria">Umbria</a></li></ul></div><div class="countryset"><h2><a href="/destinations/North-America/Mexico">Mexico</a></h2><ul><li><a href="/destinations/North-America/Mexico/Cabo-San-Lucas">Cabo San Lucas</a></li><li><a href="/destinations/North-America/Mexico/Puerto-Vallarta">Puerto Vallarta</a></li><li><a href="/destinations/North-America/Mexico/punta-mita">Punta Mita</a></li><li><a href="/destinations/North-America/Mexico/Riviera-Maya">Riviera Maya</a></li></ul></div><div class="countryset"><h2><a href="/destinations/Africa/South-Africa">South Africa</a></h2><ul><li><a href="/destinations/Africa/South-Africa/Cape-Town">Cape Town</a></li></ul></div><div class="countryset"><h2><a href="/destinations/Europe/Spain">Spain</a></h2><ul><li><a href="/destinations/europe/spain/barcelona">Barcelona</a></li><li><a href="/destinations/europe/spain/costa-brava">Costa Brava</a></li><li><a href="/destinations/europe/spain/marbella">Marbella</a></li></ul></div></div><div class="col"><div class="countryset"><h2><a href="/destinations/Asia/Thailand">Thailand</a></h2><ul><li><a href="/destinations/Asia/Thailand/koh-samui">Koh Samui</a></li><li><a href="/destinations/Asia/Thailand/Phuket">Phuket</a></li></ul></div><div class="countryset"><h2><a href="/destinations/North-America/United-States">United States</a></h2><ul><li><a href="/destinations/North-America/United-States/California">California</a></li><li><a href="/destinations/North-America/United-States/Colorado">Colorado</a></li><li><a href="/destinations/North-America/United-States/Florida">Florida</a></li><li><a href="/destinations/north-america/united-states/utah">Utah</a></li></ul></div></div></div>
+                </li>
+                <li class="last"><a href="#" class="contact">Contact</a>
+                    <div class="contact_submenu submenu">
+                        <p>
+                            Our Villa Specialists know their villas<br>
+                            and are always happy to chat.
+                        </p>
+                        <p>
+                            Speak with a Villa Specialist now:
+                        </p>
+                        <p>
+                            International: <span>+1 514<span>-393-8844</span></span><br>
+                            North America: <span>1<span>-</span>877-993-0100</span><br>
+                            London (UK): <span>0207 1019 219</span></p>
+                        <p>
+                            <u><a href="mailto:sales@luxuryretreats.com">sales@luxuryretreats.com</a></u><br>
+                            Looking for another department?</p>
+                        <p>
+                            <u><a href="/content/media/contact.aspx">Contact Luxury Retreats</a></u><br>
+                        </p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="clear">
+    </div>
+</div>
+<div class="navigation">
+    <div class="container">
+        <div class="navlink">
+            
+            
+ <script src="js/dialog/jquery.min.js" type="text/javascript"></script>
+<script src="js/dialog/jquery-ui.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+    function OpenDivFromMaster() {
+      
+      
+        $('#ctl00_popup').show();
+        $('#ctl00_ctl00_popup').show();
+        $('#favListDiv').show();
+        $('#thkDiv').hide();
+        $('#ctl00_ctl00_myfavlist_validateFName').val('*First Name');
+        $('#ctl00_ctl00_myfavlist_validateLName').val('Last Name');
+        $('#ctl00_ctl00_myfavlist_emailid').val('*Email');
+        $('#ctl00_ctl00_myfavlist_validateTel').val('Phone Number');
+        $('#ctl00_ctl00_myfavlist_VillaPageAjax1M_txtDepartDate').val('check in (mm/dd/yy)');
+        $('#ctl00_ctl00_myfavlist_VillaPageCtrlAjax1M_txtReturnDate').val('check out (mm/dd/yy)');
+        $('#ctl00_ctl00_myfavlist_Comments').val('optional: Comments/requirements');
+        $('#ctl00_ctl00_myfavlist_Ext').val('Ext');
+        $('#telephoneCode').val('Country Telephone Code');
+
+
+        $('#ctl00_myfavlist_validateFName').val('*First Name');
+        $('#ctl00_myfavlist_validateLName').val('Last Name');
+        $('#ctl00_myfavlist_emailid').val('*Email');
+        $('#ctl00_myfavlist_validateTel').val('Phone Number');
+        $('#ctl00_myfavlist_VillaPageAjax1M_txtDepartDate').val('check in (mm/dd/yy)');
+        $('#ctl00_myfavlist_VillaPageCtrlAjax1M_txtReturnDate').val('check out (mm/dd/yy)');
+        $('#ctl00_myfavlist_Comments').val('optional: Comments/requirements');
+        $('#ctl00_myfavlist_Ext').val('Ext');
+        $('#telephoneCode').val('Country Telephone Code');
+
+        
+
+    }
+    
+</script>
+
+<div class="searchbar">
+    <ul>
+        <li><a id="aGurantee" href="#" class="guranteeAnchor">THE LUXURY STANDARD</a></li>
+        <li class="villa"><a id="ctl00_header_AutocompleteCtrl1_pop" title="View My Wishlist" onclick="OpenDivFromMaster()" class="openpopup" style="cursor:pointer">MY WISHLIST(<span id="ctl00_header_AutocompleteCtrl1_lbl1" class="ValueLabel">0</span>)</a></li>
+          
+    </ul>
+    
+</div>
+
+            <div class="leftlink">
+                <ul>
+                    <li id="browse" style="display: none;"><a href="#" class="goNext"></a>
+                        <div id="destinationDIV" class="desti_list" style="display:none;"><ul class="desti_sumenu innerpg"><li><a href="/Search.aspx?DestinationsIDs=25&amp;BedMin=1&amp;BedMax=50&amp;PriceMax=999999999&amp;PriceMin=0&amp;CurrencySelector=1&amp;flg=1&amp;jfx=1&amp;nav=147" id="25" level="level1" rowcount="1">Austria</a></li><li><a href="/Search.aspx?DestinationsIDs=18&amp;BedMin=1&amp;BedMax=50&amp;PriceMax=999999999&amp;PriceMin=0&amp;CurrencySelector=1&amp;flg=1&amp;jfx=1&amp;nav=147" id="18" level="level1" rowcount="1">Bali</a></li><li><a href="/Search.aspx?DestinationsIDs=14&amp;BedMin=1&amp;BedMax=50&amp;PriceMax=999999999&amp;PriceMin=0&amp;CurrencySelector=1&amp;flg=1&amp;jfx=1&amp;nav=147" id="14" level="level1" rowcount="1">Canada</a></li><li><a href="/Search.aspx?DestinationsIDs=5&amp;BedMin=1&amp;BedMax=50&amp;PriceMax=999999999&amp;PriceMin=0&amp;CurrencySelector=1&amp;flg=1&amp;jfx=1&amp;nav=147" id="5" level="level1" rowcount="17">Caribbean</a></li><li><a href="/Search.aspx?DestinationsIDs=6&amp;BedMin=1&amp;BedMax=50&amp;PriceMax=999999999&amp;PriceMin=0&amp;CurrencySelector=1&amp;flg=1&amp;jfx=1&amp;nav=147" id="6" level="level1" rowcount="2">Central America</a></li><li><a href="/Search.aspx?DestinationsIDs=7&amp;BedMin=1&amp;BedMax=50&amp;PriceMax=999999999&amp;PriceMin=0&amp;CurrencySelector=1&amp;flg=1&amp;jfx=1&amp;nav=147" id="7" level="level1" rowcount="4">France</a></li><li><a href="/Search.aspx?DestinationsIDs=11&amp;BedMin=1&amp;BedMax=50&amp;PriceMax=999999999&amp;PriceMin=0&amp;CurrencySelector=1&amp;flg=1&amp;jfx=1&amp;nav=147" id="11" level="level1" rowcount="5">Greece</a></li><li><a href="/Search.aspx?DestinationsIDs=3&amp;BedMin=1&amp;BedMax=50&amp;PriceMax=999999999&amp;PriceMin=0&amp;CurrencySelector=1&amp;flg=1&amp;jfx=1&amp;nav=147" id="3" level="level1" rowcount="4">Hawaii</a></li><li><a href="/Search.aspx?DestinationsIDs=8&amp;BedMin=1&amp;BedMax=50&amp;PriceMax=999999999&amp;PriceMin=0&amp;CurrencySelector=1&amp;flg=1&amp;jfx=1&amp;nav=147" id="8" level="level1" rowcount="5">Italy</a></li><li><a href="/Search.aspx?DestinationsIDs=4&amp;BedMin=1&amp;BedMax=50&amp;PriceMax=999999999&amp;PriceMin=0&amp;CurrencySelector=1&amp;flg=1&amp;jfx=1&amp;nav=147" id="4" level="level1" rowcount="4">Mexico</a></li><li><a href="/Search.aspx?DestinationsIDs=17&amp;BedMin=1&amp;BedMax=50&amp;PriceMax=999999999&amp;PriceMin=0&amp;CurrencySelector=1&amp;flg=1&amp;jfx=1&amp;nav=147" id="17" level="level1" rowcount="2">South Africa</a></li><li><a href="/Search.aspx?DestinationsIDs=12&amp;BedMin=1&amp;BedMax=50&amp;PriceMax=999999999&amp;PriceMin=0&amp;CurrencySelector=1&amp;flg=1&amp;jfx=1&amp;nav=147" id="12" level="level1" rowcount="4">Spain</a></li><li><a href="/Search.aspx?DestinationsIDs=16&amp;BedMin=1&amp;BedMax=50&amp;PriceMax=999999999&amp;PriceMin=0&amp;CurrencySelector=1&amp;flg=1&amp;jfx=1&amp;nav=147" id="16" level="level1" rowcount="1">Switzerland</a></li><li><a href="/Search.aspx?DestinationsIDs=22&amp;BedMin=1&amp;BedMax=50&amp;PriceMax=999999999&amp;PriceMin=0&amp;CurrencySelector=1&amp;flg=1&amp;jfx=1&amp;nav=147" id="22" level="level1" rowcount="2">Thailand</a></li><li><a href="/Search.aspx?DestinationsIDs=1&amp;BedMin=1&amp;BedMax=50&amp;PriceMax=999999999&amp;PriceMin=0&amp;CurrencySelector=1&amp;flg=1&amp;jfx=1&amp;nav=147" id="1" level="level1" rowcount="5">United States</a></li></ul><ul class="btmNav"><li><a href="/vacation-themes/index.aspx">Vacation Ideas</a></li><li class="last"><a href="/content/promotions/top20/TopPromotions_2.aspx?groupID=1">Top Promotions</a></li></ul></div>
+                        
+                    </li>
                 </ul>
             </div>
+            <div class="clear">
+            </div>
         </div>
+    </div>
+    <div class="clear">
     </div>
 </div>
 
-    <!-- HEADER END -->   
-		<div id="maincontainer">
-		
-
-<div id="maincontainer-font" style="">
-    <div id="bCrumbFav">
-        <div id="bcrumbs">
-            <a href="about.aspx" title="About us">About Us</a> / Privacy Policy
-            
+   <div id="outputG">
+    </div>
+    <div id="overlayG" class="web_dialog_overlay1">
+    </div>
+    <div id="dialogG" class="web_dialog1">
+<div id="dvGurantee" class="gurantee">
+    <a href="#" id="btnCloseG" class="close_sendmail">CLOSE</a>
+    <input id="hdnpromise" type="hidden" value="0">
+    <div class="">
+        <div class="lux_std">
+            <h1>
+                <img src="/images/luxury_experience.png" alt=""><br>
+               
+                <em>We all look forward to that next vacation, the one that reminds us what's really important: being together and discovering life again. The Luxury Retreats experience is unique in that our global team and partners not only hand-pick and inspect every villa to ensure you get the absolute best, we provide each guest with the complimentary concierge services of a dedicated team you can trust.</em></h1>
+           
+            <div class="threebox">
+                 <div class="box">
+                    <p style="display: none">
+                        <span class="small">promise #1</span></p>
+                    <h4 class="bkline">
+                       <img src="/images/inspectionvillas.png" alt="">
+                       
+                        </h4>
+                  
+                    <p>
+                        Renting a villa on other websites can be scary. Who's seen them? Who's actually been there? We’re different from the others. Our global team of 150+ travel enthusiasts &amp; partners hand-pick and personally inspect every villa. Yes this means we don’t offer hundreds of thousands of villas, but you can rest assured that the ones we do offer are the very best.</p>
+                </div>
+                <div class="box center">
+                    <p style="display: none">
+                        <span class="small">promise #2</span></p>
+                    <h4 class="bkline">
+                      <img src="/images/dedicated.png" alt="">
+                       </h4>
+                   
+                    <p>
+                       Interested in a private wine tour in Tuscany? 
+Or a world-renowned celebrity chef for your special event? Our <b>dedicated concierge</b> team will gladly help you personalize your villa rental experience. Guests are only limited by their imagination!
+                    </p>
+                    <p>Need help finding the right villa for your family? No problem, our friendly, <b>well-traveled villa specialists</b> are always happy to chat.</p>
+                </div>
+                <div class="box">
+                    <p style="display: none">
+                        <span class="small">promise #3</span></p>
+                    <h4 class="bkline">
+                        <img src="/images/membershipfee.png" alt="">
+                       </h4>
+                   
+                    <p>
+                       For the past 13 years, Luxury Retreats has been carefully building a global team of travel professionals who are dedicated to you, our guest.
+                       From our hand-picked, personally inspected villas, to our knowledgeable villa specialists and complimentary concierge services, we believe our guests deserve the best, all without a membership fee.</p>
+                </div>
+                <div class="clear">
+                </div>
+            </div>
+        </div>
+        <div class="clear">
         </div>
     </div>
-    <div id="lnkFavorite" class="sprites"><a class="sprite-star" onclick="javascript:OpenFavorites();"><span>0</span> villas in your favorites </a></div>
+    <div class="btmimg">
+        <img src="/images/btm_text.png" alt="">
+       
+    </div>
+    <div style="margin-top: 0px; text-align: center; margin-top:-35px;">
+        <img id="imgclose" alt="close" style="cursor: pointer;" src="/images/close_btn.png">
+    </div>
+    
+    <div class="clear">
+    </div>
+</div>
+</div>
 
-    <script type="text/javascript" language="javascript">
-        function OpenFavorites() {
-            var newwindow = window.open('/content/Favorites.aspx', 'Favorites', 'toobar=0, menubar=0, location=0, height=665, width=835');
-            newwindow.focus();
+    <!-- HEADER END  modified form tag to peform email subscribe submit-->
+     
+     
+      
+            <div id="ctl00_popup" align="center" style="padding-top: 2px;
+                display: none;">
+	
+                <input type="hidden" name="ctl00$hdnValue" id="ctl00_hdnValue">
+                
+
+<script src="js/jQuery/js144.js" type="text/javascript"></script>
+<script src="js/jQuery/js186t.js" type="text/javascript"></script>
+
+<style type="text/css">
+    #ui-datepicker-div
+    {
+        z-index: 100008;
+    }
+      
+   
+    .lt_filter .ui-widget-header .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default
+    {
+        background: none no-repeat scroll 0 0 transparent !important;
+        border: 0 none !important;
+        height: 12px;
+        width: 12px;
+    }
+</style>
+
+<script type="text/javascript">
+
+    $(function () {
+
+        var date = new Date();
+        var currentMonth = date.getMonth();
+        var currentDate = date.getDate();
+        var currentYear = date.getFullYear();
+
+        $('#ctl00_myfavlist_VillaPageAjax1M_txtDepartDate').datepicker({
+            minDate: new Date(currentYear, currentMonth, currentDate)
+        });
+
+        $('#ctl00_myfavlist_VillaPageCtrlAjax1M_txtReturnDate').datepicker({
+            minDate: new Date(currentYear, currentMonth, currentDate)
+        });
+    });
+
+
+    function chooseText(ctl) {
+
+        var opt = ctl.options[ctl.selectedIndex];
+
+        document.getElementById("telephoneCode").value = opt.text;
+    }
+
+    var $jQ = jQuery.noConflict();
+
+
+    function getselectionValue(inputCtl) {
+        document.getElementById("validateCC").selectedValue = inputCtl.value;
+    }
+
+
+    function ValidatorOnSubmit1() {
+        var emailReg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+        if (document.getElementById('ctl00_myfavlist_validateFName').value == "" || document.getElementById('ctl00_myfavlist_validateFName').value == "*First Name") {
+            alert("please enter First Name");
+            (document.getElementById('ctl00_myfavlist_validateFName').focus());
+            return false;
         }
-    </script>
 
+        if (document.getElementById('ctl00_myfavlist_validateLName').value == "" || document.getElementById('ctl00_myfavlist_validateLName').value == "Last Name") {
+            document.getElementById('ctl00_myfavlist_validateLName').value = "";
+        }
+
+
+
+        if (document.getElementById('ctl00_myfavlist_validateCC').options[0].selected) {
+            
+            document.getElementById('ctl00_myfavlist_validateCC').value = "";
+        }
+
+        if (document.getElementById('ctl00_myfavlist_emailid').value == "" || document.getElementById('ctl00_myfavlist_emailid').value == "*Email") {
+            if (document.getElementById('ctl00_myfavlist_validateTel').value == "" || document.getElementById('ctl00_myfavlist_validateTel').value == "Phone Number") {
+                alert("please enter Email or Phone Number");
+                document.getElementById('ctl00_myfavlist_validateTel').focus();
+                return false;
+            }
+            else {
+                document.getElementById('ctl00_myfavlist_emailid').value = "";
+            }
+        }
+
+        else if (document.getElementById('ctl00_myfavlist_validateTel').value == "" || document.getElementById('ctl00_myfavlist_validateTel').value == "Phone Number") {
+           if (document.getElementById('ctl00_myfavlist_emailid').value == "" || document.getElementById('ctl00_myfavlist_emailid').value == "*Email") {
+                alert('Please enter Email.');
+                document.getElementById('ctl00_myfavlist_emailid').focus();
+                return false;
+            }
+            else
+               document.getElementById('ctl00_myfavlist_emailid').value == "";
+        }
+
+        if (document.getElementById('ctl00_myfavlist_validateTel').value == "" || document.getElementById('ctl00_myfavlist_validateTel').value == "Phone Number") {
+
+            document.getElementById('ctl00_myfavlist_validateTel').value = "";
+        }
+                
+
+        if (document.getElementById('ctl00_myfavlist_VillaPageAjax1M_txtDepartDate').value == "" || document.getElementById('ctl00_myfavlist_VillaPageAjax1M_txtDepartDate').value == 'check in (mm/dd/yy)') {
+
+            document.getElementById('ctl00_myfavlist_VillaPageAjax1M_txtDepartDate').value = "";
+        }
+
+
+
+        if (document.getElementById('ctl00_myfavlist_VillaPageCtrlAjax1M_txtReturnDate').value == "" || document.getElementById('ctl00_myfavlist_VillaPageCtrlAjax1M_txtReturnDate').value == 'check out (mm/dd/yy)') {
+
+            document.getElementById('ctl00_myfavlist_VillaPageCtrlAjax1M_txtReturnDate').value = "";
+        }
+
+
+        if (document.getElementById('ctl00_myfavlist_VillaPageCtrlAjax1M_txtReturnDate').value != "" && document.getElementById('ctl00_myfavlist_VillaPageCtrlAjax1M_txtReturnDate').value != 'check out (mm/dd/yy)') {
+            var startDate = (document.getElementById('ctl00_myfavlist_VillaPageAjax1M_txtDepartDate').value);
+            var endDate = (document.getElementById('ctl00_myfavlist_VillaPageCtrlAjax1M_txtReturnDate').value);
+            if (startDate > endDate) {
+                alert("Return Date should be greater than Depart Date");
+                document.getElementById('ctl00_myfavlist_VillaPageCtrlAjax1M_txtReturnDate').focus();
+                return false;
+            }
+
+        }
+
+        return true;
+
+    }
+
+    var emailReg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+    function valEmailFav() {
+        if (!emailReg.test($("#ctl00_myfavlist_emailid").val())) {
+            alert('Please enter a valid Email address.');
+            $("#ctl00_myfavlist_emailid").val('*Email');
+            return false;
+        }
+    }
+    
+
+    function showThkDiv() {
+        
+        $('#favListDiv').hide();
+        $('#ctl00_popup').show();
+        $('#ctl00_ctl00_popup').show();
+
+    }
+    
+</script>
+<div id="ctl00_myfavlist_pnlFavorites">
+		
+    <input type="hidden" name="ctl00$myfavlist$hid_FavoritePostBack" id="ctl00_myfavlist_hid_FavoritePostBack" value="0">
+    <input type="hidden" name="ctl00$myfavlist$hdnVillaID" id="ctl00_myfavlist_hdnVillaID">
+    <input type="submit" name="ctl00$myfavlist$btnHidden" value="" id="ctl00_myfavlist_btnHidden" style="display: none">
+    <input type="hidden" name="ctl00$myfavlist$hdnRemoveVillaId" id="ctl00_myfavlist_hdnRemoveVillaId">
+    <input type="submit" name="ctl00$myfavlist$btnRemove" value="" id="ctl00_myfavlist_btnRemove" style="display: none">
+    <div class="overlayVilla" id="overlayVilla">
+        <p id="HideMainDiv" style="display: none">
+        </p>
+        <div class="clspopup shortlist" id="favListDiv">
+            <a class="close" style="cursor: pointer" onclick="CloseMasterDiv()" id="close_btn">CLOSE</a>
+            
+            <div class="lt_container">
+                <div class="popup_topinfo">
+                    <h1>
+                        My Wishlist</h1>
+                    <p>
+                        <strong>Found a favorite?</strong> Fill in your details and a villa specialist will
+                        get right back to you with availability.</p>
+                    <div class="clear">
+                    </div>
+                </div>
+                <div class="popup_form">
+                    <h2>
+                        contact information</h2>
+                    <div class="userdtl">
+                        <p>
+                            <input name="ctl00$myfavlist$validateFName" type="text" id="ctl00_myfavlist_validateFName" value="*First Name" tabindex="1" class="inputbox large" onfocus="if(this.value == '*First Name'){ this.value='';}" onblur="if(this.value==''){this.value='*First Name';}"><span class="inquire-error" id="validationFNameMsg" controltovalidate="validateFName" errormessage="Field is required" display="Dynamic" style="color: Red; display: none;"> Please enter your First Name</span>
+                            <input name="ctl00$myfavlist$validateLName" type="text" id="ctl00_myfavlist_validateLName" value="Last Name" class="inputbox large last" tabindex="2" onblur="if(this.value==''){this.value='Last Name';}" onfocus="if(this.value == 'Last Name'){ this.value='';}">
+                            <span class="inquire-error" id="validationLNameMsg" controltovalidate="validateLName" errormessage="Field is required" display="Dynamic" style="color: Red; display: none;">
+                                Please enter your Last Name</span>
+                            </p><p>
+                                <span class="selectbox">                                   
+                                    <input type="text" value="Country Telephone Code" class="large" id="telephoneCode">
+                                    <select name="ctl00$myfavlist$validateCC" id="ctl00_myfavlist_validateCC" class="test" tabindex="3">
+			<option selected="selected" value="">Country Telephone Code</option>
+			<option value="1">United States (+1)</option>
+			<option value="1">Canada (+1)</option>
+			<option value="44">United Kingdom (+44)</option>
+			<option value="49">Germany (+49)</option>
+			<option value="33">France (+33)</option>
+			<option value="93">Afghanistan (+93)</option>
+			<option value="355">Albania (+355)</option>
+			<option value="213">Algeria (+213)</option>
+			<option value="684">American Samoa (+684)</option>
+			<option value="376">Andorra (+376)</option>
+			<option value="244">Angola (+244)</option>
+			<option value="1">Anguilla (+1)</option>
+			<option value="1">Antigua (+1)</option>
+			<option value="54">Argentina (+54)</option>
+			<option value="374">Armenia (+374)</option>
+			<option value="297">Aruba (+297)</option>
+			<option value="247">Ascension Island (+247)</option>
+			<option value="61">Ausatralia (+61)</option>
+			<option value="672">Australian External Terr. (+672)</option>
+			<option value="430">Austria (+430)</option>
+			<option value="994">Azerbaijan (+994)</option>
+			<option value="284">British Virgin Island (+284)</option>
+			<option value="1">Bahamas (+1)</option>
+			<option value="973">Bahrain (+973)</option>
+			<option value="880">Bangladesh (+880)</option>
+			<option value="1">Barbados (+1)</option>
+			<option value="375">Belarus (+375)</option>
+			<option value="32">Belgium (+32)</option>
+			<option value="501">Belize (+501)</option>
+			<option value="229">Benin (+229)</option>
+			<option value="1">Bermuda (+1)</option>
+			<option value="975">Bhutan (+975)</option>
+			<option value="591">Bolivia (+591)</option>
+			<option value="387">Bosnia (+387)</option>
+			<option value="267">Botswana (+267)</option>
+			<option value="226">Bourkina Fasso (+226)</option>
+			<option value="550">Brazil (+550)</option>
+			<option value="673">Brunei (+673)</option>
+			<option value="359">Bulgaria (+359)</option>
+			<option value="257">Burundi (+257)</option>
+			<option value="855">Cambodia (+855)</option>
+			<option value="237">Cameroon (+237)</option>
+			<option value="1">Canada (+1)</option>
+			<option value="238">Cape Verde (+238)</option>
+			<option value="1">Cayman Islands (+1)</option>
+			<option value="236">Central African Rep. (+236)</option>
+			<option value="235">Chad Republic (+235)</option>
+			<option value="56">Chile (+56)</option>
+			<option value="86">China (+86)</option>
+			<option value="57">Colombia (+57)</option>
+			<option value="269">Comoros (+269)</option>
+			<option value="243">Congo Dem. Republic (+243)</option>
+			<option value="242">Congo Republic (+242)</option>
+			<option value="682">Cook Islands (+682)</option>
+			<option value="506">Costa Rica (+506)</option>
+			<option value="385">Croatia (+385)</option>
+			<option value="53">Cuba (+53)</option>
+			<option value="357">Cyprus (+357)</option>
+			<option value="420">Czech Republic (+420)</option>
+			<option value="45">Denmark (+45)</option>
+			<option value="246">Diego Garcia (+246)</option>
+			<option value="253">Djibouti (+253)</option>
+			<option value="1">Dominica (+1)</option>
+			<option value="1">Dominican Republic (+1)</option>
+			<option value="593">Ecuador (+593)</option>
+			<option value="20">Egypt (+20)</option>
+			<option value="503">El Salvador (+503)</option>
+			<option value="240">Equatorial Guinea (+240)</option>
+			<option value="291">Eritrea (+291)</option>
+			<option value="372">Estonia (+372)</option>
+			<option value="251">Ethiopia (+251)</option>
+			<option value="500">Falkland Islands (+500)</option>
+			<option value="298">Faroe Islands (+298)</option>
+			<option value="679">Fiji (+679)</option>
+			<option value="358">Finland (+358)</option>
+			<option value="596">French Antilles (+596)</option>
+			<option value="594">French Guiana (+594)</option>
+			<option value="689">French Polynesia (+689)</option>
+			<option value="241">Gabon (+241)</option>
+			<option value="220">Gambia (+220)</option>
+			<option value="995">Georgia (+995)</option>
+			<option value="233">Ghana (+233)</option>
+			<option value="350">Gibraltar (+350)</option>
+			<option value="30">Greece (+30)</option>
+			<option value="299">Greenland (+299)</option>
+			<option value="473">Grenada (+473)</option>
+			<option value="590">Guadeloupe (+590)</option>
+			<option value="53">Guantanamo (+53)</option>
+			<option value="502">Guatemala (+502)</option>
+			<option value="224">Guinea (+224)</option>
+			<option value="245">Guinea-Bissau (+245)</option>
+			<option value="592">Guyana (+592)</option>
+			<option value="509">Haiti (+509)</option>
+			<option value="504">Honduras (+504)</option>
+			<option value="852">Hong Kong (+852)</option>
+			<option value="36">Hungary (+36)</option>
+			<option value="354">Iceland (+354)</option>
+			<option value="91">India (+91)</option>
+			<option value="62">Indonesia (+62)</option>
+			<option value="98">Iran (+98)</option>
+			<option value="964">Iraq (+964)</option>
+			<option value="353">Ireland (+353)</option>
+			<option value="972">Israel (+972)</option>
+			<option value="39">Italy (+39)</option>
+			<option value="225">Ivory Coast (+225)</option>
+			<option value="1">Jamaica (+1)</option>
+			<option value="81">Japan (+81)</option>
+			<option value="962">Jordan (+962)</option>
+			<option value="7">Kazakhstan (+7)</option>
+			<option value="254">Kenya (+254)</option>
+			<option value="686">Kiribati (+686)</option>
+			<option value="850">Korea (North) (+850)</option>
+			<option value="82">Korea (South) (+82)</option>
+			<option value="965">Kuwait (+965)</option>
+			<option value="7">Kyrghyzstan (+7)</option>
+			<option value="856">Laos (+856)</option>
+			<option value="371">Latvia (+371)</option>
+			<option value="961">Lebanon (+961)</option>
+			<option value="266">Lesotho (+266)</option>
+			<option value="231">Liberia (+231)</option>
+			<option value="218">Libya (+218)</option>
+			<option value="370">Lithuania (+370)</option>
+			<option value="352">Luxembourg (+352)</option>
+			<option value="853">Macao (+853)</option>
+			<option value="389">Macedonia (+389)</option>
+			<option value="261">Madagascar (+261)</option>
+			<option value="265">Malawi (+265)</option>
+			<option value="60">Malaysia (+60)</option>
+			<option value="960">Maldives Rep. (+960)</option>
+			<option value="223">Mali Rep. (+223)</option>
+			<option value="356">Malta Rep. (+356)</option>
+			<option value="692">Marshall Islands (+692)</option>
+			<option value="222">Mauritania (+222)</option>
+			<option value="230">Mauritius (+230)</option>
+			<option value="269">Mayotte (+269)</option>
+			<option value="52">Mexico (+52)</option>
+			<option value="691">Micronesia (+691)</option>
+			<option value="373">Moldova (+373)</option>
+			<option value="377">Monaco (+377)</option>
+			<option value="976">Mongolia (+976)</option>
+			<option value="1">Montserrat (+1)</option>
+			<option value="212">Morocco (+212)</option>
+			<option value="258">Mozambique (+258)</option>
+			<option value="95">Myanmar (+95)</option>
+			<option value="264">Namibia (+264)</option>
+			<option value="674">Nauru (+674)</option>
+			<option value="97">Nepal (+977)</option>
+			<option value="31">Netherlands (+31)</option>
+			<option value="599">Netherlands Antilles (+599)</option>
+			<option value="687">New Caledonia (+687)</option>
+			<option value="64">New Zealand (+64)</option>
+			<option value="505">Nicaragua (+505)</option>
+			<option value="227">Niger Rep. (+227)</option>
+			<option value="234">Nigeria (+234)</option>
+			<option value="683">Niue (+683)</option>
+			<option value="470">Norway (+470)</option>
+			<option value="871">Ocean Atlantic East (+871)</option>
+			<option value="874">Ocean Atlantic West (+874)</option>
+			<option value="873">Ocean Indian (+873)</option>
+			<option value="872">Ocean Pacific (+872)</option>
+			<option value="968">Oman (+968)</option>
+			<option value="92">Pakistan (+92)</option>
+			<option value="680">Palau (+680)</option>
+			<option value="507">Panama (+507)</option>
+			<option value="675">Papua New Guinea (+675)</option>
+			<option value="595">Paraguay (+595)</option>
+			<option value="51">Peru (+51)</option>
+			<option value="63">Philippines (+63)</option>
+			<option value="480">Poland (+480)</option>
+			<option value="351">Portugal (+351)</option>
+			<option value="974">Qatar (+974)</option>
+			<option value="262">Reunion Islands (+262)</option>
+			<option value="40">Romania (+40)</option>
+			<option value="7">Russian Fed. (+7)</option>
+			<option value="250">Rwanda (+250)</option>
+			<option value="670">Saipan (+670)</option>
+			<option value="378">San Marino (+378)</option>
+			<option value="239">Sao Tome (+239)</option>
+			<option value="966">Saudi Arabia (+966)</option>
+			<option value="221">Senegal (+221)</option>
+			<option value="248">Seychelles (+248)</option>
+			<option value="232">Sierra Leone (+232)</option>
+			<option value="65">Singapore (+65)</option>
+			<option value="421">Slovakia (+421)</option>
+			<option value="386">Slovenia (+386)</option>
+			<option value="677">Solomon Islands (+677)</option>
+			<option value="252">Somalia (+252)</option>
+			<option value="27">South Africa (+27)</option>
+			<option value="34">Spain (+34)</option>
+			<option value="94">Sri Lanka (+94)</option>
+			<option value="290">St. Helena (+290)</option>
+			<option value="1">St. Kitts And Nevis (+1)</option>
+			<option value="1">St. Lucia (+1)</option>
+			<option value="508">St. Pierre (+508)</option>
+			<option value="1">St. Vincent And The Grenadines (+1)</option>
+			<option value="249">Sudan (+249)</option>
+			<option value="597">Suriname (+597)</option>
+			<option value="268">Swaziland (+268)</option>
+			<option value="46">Sweden (+46)</option>
+			<option value="41">Switzerland (+41)</option>
+			<option value="963">Syrian Arabrep (+963)</option>
+			<option value="886">Taiwan (+886)</option>
+			<option value="7">Tajikistan (+7)</option>
+			<option value="255">Tanzania (+255)</option>
+			<option value="66">Thailand (+66)</option>
+			<option value="228">Togo (+228)</option>
+			<option value="690">Tokelau (+690)</option>
+			<option value="676">Tonga (+676)</option>
+			<option value="1">Trinidad (+1)</option>
+			<option value="216">Tunisia (+216)</option>
+			<option value="900">Turkey (+900)</option>
+			<option value="933">Turkmenistan (+933)</option>
+			<option value="649">Turks &amp; Caicos (+649)</option>
+			<option value="688">Tuvalu (+688)</option>
+			<option value="256">Uganda (+256)</option>
+			<option value="380">Ukraine (+380)</option>
+			<option value="971">United Arab Emirates (+971)</option>
+			<option value="598">Uruguay (+598)</option>
+			<option value="7">Uzbekistan (+7)</option>
+			<option value="678">Vanuatu (+678)</option>
+			<option value="58">Venezuela (+58)</option>
+			<option value="84">Vietnam (+84)</option>
+			<option value="681">Wallis And Futuna Islands (+681)</option>
+			<option value="685">Western Samoa (+685)</option>
+			<option value="967">Yemen (+967)</option>
+			<option value="381">Yugoslavia (+381)</option>
+			<option value="260">Zambia (+260)</option>
+			<option value="263">Zimbabwe (+263)</option>
+		</select><span id="validationCCMsg" class="inquire-error" controltovalidate="validateCC" display="Dynamic" errormessage="Field is required" style="color: Red; display: none;">Please
+                                        choose a Country code</span> </span>
+                                <input name="ctl00$myfavlist$validateTel" type="text" id="ctl00_myfavlist_validateTel" value="Phone Number" tabindex="4" onkeypress="return isNumberInput(this, event);" class="inputbox small" onfocus="if(this.value == 'Phone Number'){ this.value='';}" onblur="if(this.value==''){this.value='Phone Number';}">
+                                <span id="validationTelMsg" class="inquire-error" controltovalidate="validateTel" display="Dynamic" errormessage="Field is required" style="color: Red; display: none;">
+                                    Please enter a phone number</span> <span id="validationTelError" class="inquire-error" controltovalidate="validateTel" display="Dynamic" errormessage="Field is required" style="color: Red; display: none;">Please enter a valid phone number</span>
+                                <input name="ctl00$myfavlist$Ext" type="text" id="ctl00_myfavlist_Ext" value="Ext" tabindex="5" class="inputbox vsmall last" onkeypress="return isNumberInput(this, event);" onblur="if(this.value==''){this.value='Ext';}" onfocus="if(this.value == 'Ext'){ this.value='';}">
+                                </p><p>
+                                    <input name="ctl00$myfavlist$emailid" type="text" id="ctl00_myfavlist_emailid" value="*Email" tabindex="6" class="inputbox large" onblur="valEmailFav();" onfocus="if(this.value == '*Email'){ this.value='';}">
+                                    <span id="emaile" class="inquire-error" controltovalidate="emailid" display="Dynamic" errormessage="The email is invalid" style="color: Red; display: none;">Invalid email
+                                        address entered</span> <span id="emailr" class="inquire-error" controltovalidate="emailid" display="Dynamic" errormessage="Email is required" style="color: Red; display: none;">
+                                            Please enter your Email</span>
+                                    </p><p>
+                                        
+                                        <input name="ctl00$myfavlist$VillaPageAjax1M_txtDepartDate" type="text" value="check in (mm/dd/yy)" id="ctl00_myfavlist_VillaPageAjax1M_txtDepartDate" tabindex="7" class="inputbox large">
+                                        <input name="ctl00$myfavlist$VillaPageCtrlAjax1M_txtReturnDate" type="text" value="check out (mm/dd/yy)" id="ctl00_myfavlist_VillaPageCtrlAjax1M_txtReturnDate" tabindex="8" class="inputbox large last">
+                                    </p>
+                                    <p>
+                                        <textarea name="ctl00$myfavlist$Comments" id="ctl00_myfavlist_Comments" tabindex="9" class="txtarea" cols="0" onfocus="if(this.value == this.defaultValue){ this.value='';}" onblur="if(this.value==''){this.value=this.defaultValue;}" rows="0">optional: Comments/requirements</textarea></p>
+                                    <p class="center_btn">
+                                        <input type="submit" name="ctl00$myfavlist$imgbtnSubmit" value="request availability" onclick="javascript:return ValidatorOnSubmit1();" id="ctl00_myfavlist_imgbtnSubmit" tabindex="10" class="mainbtn">
+                                       
+                                        <img id="Img1" src="/images/pleasewait-button.jpg" alt="Please Wait ..." style="display: none;">
+                                    </p>
+                                    <div class="clear">
+                                    </div>
+                                    <input type="hidden" id="hid_FavoriteElqSiteID" name="elqSiteID" value="2588"><input type="hidden" id="hid_FavoriteElqFormName" name="elqFormName" value="favoritesFormProd-1311370440619"><input type="hidden" id="hid_FavoriteElqCustomerGUID" name="elqCustomerGUID" value=""><input type="hidden" id="hid_FavoriteElqCookieWrite" name="elqCookieWrite" value="0"><input type="hidden" name="ctl00$myfavlist$shid_FavoriteElqSiteID" id="ctl00_myfavlist_shid_FavoriteElqSiteID">
+                                    <input type="hidden" name="ctl00$myfavlist$shid_FavoriteElqFormName" id="ctl00_myfavlist_shid_FavoriteElqFormName">
+                                    <input type="hidden" name="ctl00$myfavlist$shid_FavoriteElqCustomerGUID" id="ctl00_myfavlist_shid_FavoriteElqCustomerGUID">
+                                    <input type="hidden" name="ctl00$myfavlist$shid_FavoriteElqCookieWrite" id="ctl00_myfavlist_shid_FavoriteElqCookieWrite">
+                                    <script language="javascript" type="text/javascript">
+                                        var DEPARTDATE = document.getElementById("VillaPageCtrlAjax1_txtDepartDate");
+                                        var RETURNDATE = document.getElementById("VillaPageCtrlAjax1M_txtReturnDate");
+                                        var FAVORITEPB = 'ctl00_myfavlist_hid_FavoritePostBack';
+                                        var SUBBTN = 'ctl00_myfavlist_imgbtnSubmit';
+                                    </script>
+                    </div>
+                    <div class="clear">
+                    </div>
+                </div>
+            </div>
+            <div class="rt_container">
+                <div id="ctl00_myfavlist_UpdatePanel1">
+			
+                        <div id="favorites-results">
+                            <div>
+				<table title="Your Favorite List" class="abc" cellspacing="0" border="0" id="ctl00_myfavlist_grvFavorites" width="100%">
+					<tbody><tr>
+						<td>You have no favorites listed.</td>
+					</tr>
+				</tbody></table>
+			</div>
+                            <input type="hidden" name="ctl00$myfavlist$hid_favoriteVillaList" id="ctl00_myfavlist_hid_favoriteVillaList">
+                        </div>
+                    
+		</div>
+                <p>
+                    <a id="ctl00_myfavlist_removeAllbtn" class="rmeove nomaring" href="javascript:__doPostBack('ctl00$myfavlist$removeAllbtn','')">Remove All</a>
+                </p>
+            </div>
+            <div class="clear">
+            </div>
+        </div>
+       
+    </div>
+
+	</div>
+<input type="hidden" name="ctl00$myfavlist$hd1" id="ctl00_myfavlist_hd1">
+<script type="text/javascript" language="javascript">
+   
+
+    //--- Depart Date -- Inquire Section
+    function ValidateDepartDate() {
+        //Empty the validation message warning box
+        $jQ('#WarningDepartDate').html("").show();
+        $jQ('#WarningReturnDate').html("").show();
+
+      
+        var departDate = new Date(document.getElementById("VillaPageAjax1M_txtDepartDate").value);
+        alert(departDate);
+        var returnDateVal = document.getElementById("VillaPageCtrlAjax1M_txtReturnDate").value;
+        var returnDate = new Date(returnDateVal);
+      
+        //fix
+        var todayDate = new Date();
+        var newdayDate = new Date();
+        var month;
+        var day;
+        todayDate = new Date((todayDate.getMonth() + 1) + "/" + todayDate.getDate() + "/" + todayDate.getFullYear());
+        newdayDate = new Date((departDate.getMonth() + 1) + "/" + departDate.getDate() + "/" + departDate.getFullYear());
+        if (newdayDate >= todayDate) {
+            if (departDate >= returnDate || returnDate == "NaN" || returnDate == "Invalid Date" || returnDateVal == 'MM/DD/YYYY') {
+                month = (departDate.getMonth() + 1);
+                day = departDate.getDate();
+
+                if (day < 10) {
+                    day = "0" + day;
+                }
+                if (month < 10) {
+                    month = "0" + month;
+                }
+
+                departDate.setDate(departDate.getDate() + 7);
+                month = (departDate.getMonth() + 1);
+                day = departDate.getDate();
+
+                if (day < 10) {
+                    day = "0" + day;
+                }
+                if (month < 10) {
+                    month = "0" + month;
+                }
+                document.getElementById("VillaPageCtrlAjax1M_txtReturnDate").value = month + "/" + day + "/" + departDate.getFullYear();
+                //fix
+                              
+            }
+            else {
+             
+            }
+        }
+        else {
+            document.getElementById("VillaPageAjax1M_txtDepartDate").value = "MM/DD/YYYY";
+           
+            $jQ('#WarningDepartDate').html("You can not choose a depart date before today").show();
+        }
+    }
+
+    //--- Return Date -- Inquire Section
+    function ValidateReturnDate() {
+        //thisCalendar.hide();
+       
+        $jQ('#WarningDepartDate').html("").show();
+        $jQ('#WarningReturnDate').html("").show();
+
+        var departDateVal = document.getElementById("VillaPageAjax1M_txtDepartDate").value;
+        var departDate = new Date(departDateVal);
+       
+        var returnDate = new Date(document.getElementById("VillaPageCtrlAjax1M_txtReturnDate").value);
+
+        var todayDate = new Date();
+        var compareReturnDate = new Date();
+        var compareDepartDate = new Date();
+        todayDate = new Date((todayDate.getMonth() + 1) + "/" + todayDate.getDate() + "/" + todayDate.getFullYear());
+        compareReturnDate = new Date((returnDate.getMonth() + 1) + "/" + returnDate.getDate() + "/" + returnDate.getFullYear());
+        compareDepartDate = new Date((departDate.getMonth() + 1) + "/" + departDate.getDate() + "/" + departDate.getFullYear());
+
+        if (compareReturnDate >= todayDate) {
+            if (compareReturnDate <= compareDepartDate || departDate == "NaN" || departDate == "Invalid Date" || departDateVal == 'MM/DD/YYYY') {
+              
+                document.getElementById("VillaPageCtrlAjax1M_txtReturnDate").value = "MM/DD/YYYY";
+                $jQ('#WarningReturnDate').html("You can not choose a return date before the depart date").show();
+            }
+        }
+        else {
+            document.getElementById("VillaPageCtrlAjax1M_txtReturnDate").value = "MM/DD/YYYY";
+           
+            $jQ('#WarningReturnDate').html("You can not choose a return date before today").show();
+        }
+    }
+</script>
+<script>
+    function TransferEloquaData() {
+        document.getElementById("ctl00_myfavlist_shid_FavoriteElqSiteID").value = document.getElementById("hid_FavoriteElqSiteID").value;
+        document.getElementById("ctl00_myfavlist_shid_FavoriteElqFormName").value = document.getElementById("hid_FavoriteElqFormName").value;
+        document.getElementById("ctl00_myfavlist_shid_FavoriteElqCustomerGUID").value = document.getElementById("hid_FavoriteElqCustomerGUID").value;
+        document.getElementById("ctl00_myfavlist_shid_FavoriteElqCookieWrite").value = document.getElementById("hid_FavoriteElqCookieWrite").value;
+
+    }
+
+</script>
+
+
+               
+            
 </div>
-  
+            <div class="inner_cnt">
+        <div class="container maincnt">
+		<div id="maincontainer">
+	
 		
 <div id="maincontainer-pic" class="clearfix"><img src="/images/about-us/Privacy.jpg" alt="Your privacy is important to us, both on vacation and long after you get home - Andreea Grigore"></div>  	
-        <div id="maincontainer-content">
+        <div id="maincontainer-content" class="rt_cnt setwidth">
             <div id="maincontainer-title-aboutus"><h1>Privacy</h1></div>
             <div id="maincontainer-text-aboutus">
             	<p>Luxury Retreats International Inc. ("Luxury Retreats") takes your privacy seriously. We make it a priority to secure and protect the confidentiality of the personally identifiable information that you provide to us. This policy explains the type of personal information we gather when you use www.luxuryretreats.com or our affiliated websites (collectively, the "Site") and when you provide us information by other means, including by email and telephone.</p>
@@ -181,15 +1109,15 @@ Revised September 1, 2008.<br>
                 <li><a href="/content/bios.aspx">Management Team&nbsp;</a></li>
                 <li><a href="/content/board.aspx">Board of Directors&nbsp;</a></li>
                 <!--<li><a href="/content/history.aspx">History &amp; Timeline</a></li>-->
-                <li><a href="/content/partners.aspx">Our Partners&nbsp;</a></li>
+              
                 <li><a href="/content/travel-consultants/index.aspx">Travel Consultants&nbsp;</a></li>
-                <li><a href="/content/corporate.aspx">Corporate Identity&nbsp;</a></li>
-                <li><a href="/content/news.aspx">News&nbsp;</a></li> 
+               
+                <li><a href="/content/news.aspx">Press&nbsp;</a></li> 
                 <li><a href="http://news.luxuryretreats.com/Subscription/subscribe.asp">Newsletter&nbsp;</a></li> 
                 <li><a href="/content/media/contact.aspx">Contact Us&nbsp;</a></li>
                 <li><a href="/careers">Careers&nbsp;</a></li>
-                <li><a href="/content/terms.aspx">Terms of Use&nbsp;</a></li>
-                <li><a href="/content/privacy.aspx">Privacy Policy&nbsp;</a></li>
+                <li><a href="/content/PrivacyandTerms.aspx">Privacy &amp; Terms&nbsp;</a></li>
+               
                 <!--<li><a onclick="switchMenu('about-us-career');" style="cursor: hand;" href="#about">Careers</a>
                 	<div id="about-us-career" style="width:215px;">
                     <ul>
@@ -211,86 +1139,13 @@ Revised September 1, 2008.<br>
 
 <div id="backtotop"><div class="sprites"><a href="#" class="sprite-back-to-top" title="back to top"></a></div></div>  
 		</div>
-	</div> 
-	<div id="shadow-bottom"></div>    
-	
-<div id="footer" class="clearfix">
-    <div id="footer-links">
-        <div style="float: left">
-            © 2012 Luxury Retreats. All rights reserved</div>
-        <div style="float: right;">
-            <a href="/content/about.aspx">About Us</a> | <a href="/content/travel-consultants/index.aspx">Travel Consultants</a> | <a href="/sitemap.aspx" title="Villa Rentals Destinations">
-                Sitemap</a> | <a href="/yachts/index.aspx" title="Yacht Rentals">Yachts</a>
-            | <a href="/villas/rentals/faq.aspx" title="FAQ">FAQ</a> | <a href="/content/media/contact.aspx" title="Contact Us">Contact Us</a> | <a href="/content/terms.aspx" title="Terms">Terms</a>
-            | <a href="/content/privacy.aspx" title="Privacy">Privacy</a></div>
+<div class="clear">
+            </div>
+        </div>
     </div>
-    <div class="footer-alphabet"><strong>Luxury Vacation Rentals Directory:</strong><ul><li><a href="/villa-rentals/A.html">A</a></li><li><a href="/villa-rentals/B.html">B</a></li><li><a href="/villa-rentals/C.html">C</a></li><li><a href="/villa-rentals/D.html">D</a></li><li><a href="/villa-rentals/F.html">F</a></li><li><a href="/villa-rentals/G.html">G</a></li><li><a href="/villa-rentals/J.html">J</a></li><li><a href="/villa-rentals/K.html">K</a></li><li><a href="/villa-rentals/L.html">L</a></li><li><a href="/villa-rentals/M.html">M</a></li><li><a href="/villa-rentals/N.html">N</a></li><li><a href="/villa-rentals/O.html">O</a></li><li><a href="/villa-rentals/P.html">P</a></li><li><a href="/villa-rentals/R.html">R</a></li><li><a href="/villa-rentals/S.html">S</a></li><li><a href="/villa-rentals/T.html">T</a></li><li><a href="/villa-rentals/U.html">U</a></li><li><a href="/villa-rentals/V.html">V</a></li><li><a href="/villa-rentals/W.html">W</a></li><li><a href="/villa-rentals/Z.html">Z</a></li></ul></div> 
-     <div id="footer-destinations">  
-       	<h5>Popular Destinations</h5>
-        <ul>
-			<li><a href="/villa-rentals/hawaii/luxury-maui-villa-rentals.html">Maui Vacation Rentals</a></li>
-			<li><a href="/villa-rentals/italy/luxury-tuscany-villa-rentals.html">Tuscany Rentals</a></li>
-			<li><a href="/villa-rentals/caribbean/luxury-st-martin-villa-rentals.html">St. Martin Rentals</a></li>
-			<li><a href="/villa-rentals/hawaii/luxury-big-island-villa-rentals.html">Big Island Vacation Home Rentals</a></li>
-			<li><a href="/villa-rentals/caribbean/luxury-barbados-villa-rentals.html">Rentals Barbados</a></li>
-			<li><a href="/villa-rentals/caribbean/luxury-turks-and-caicos-villa-rentals.html">Turks and Caicos Villas</a></li>
-			<li><a href="/villa-rentals/france/luxury-french-riviera-villa-rentals.html">French Riviera Rentals</a></li>
-			<li><a href="/villa-rentals/caribbean/luxury-jamaica-villa-rentals.html">Villas Jamaica</a></li>
-		</ul>
-     </div>
-     <div id="blog-post-footer">
-      	<h5>Latest Blog Posts</h5>
         
-<ul>
-	
-		<li><a target="_blank" href="http://blog.luxuryretreats.com/2012/06/villas-in-turks-and-caicos-have-it-all/?src=LRI">Villas in Turks and Caicos Have it All!</a></li>
-	
-		<li><a target="_blank" href="http://blog.luxuryretreats.com/2012/06/fun-with-dad/?src=LRI">Fun with Dad</a></li>
-	
-		<li><a target="_blank" href="http://blog.luxuryretreats.com/2012/06/the-great-american-summer/?src=LRI">The Great American Summer</a></li>
-	
-		<li><a target="_blank" href="http://blog.luxuryretreats.com/2012/06/villas-in-palm-springs/?src=LRI">An Insider’s Guide to Coachella and Villas in Palm Springs</a></li>
-	
-</ul>
-       
-     </div>
-     <div id="contact">
-       	<h5>Contact Us</h5>
-    	<div>
-            <p>If you prefer to speak to a villa specialist, please call us now.</p>
-            <ul>
-              	<li>International:+1 514-393-8844</li>
-                <li>London (UK): 0207 1019 219</li>
-                <li>North America: 1-877-993-0100</li>
-            </ul>
-        </div>
-     </div>
-     <div id="newsletter">
-       	<h5>Newsletter Subscription</h5>
-        <div>
-           	<p>Subscribe to our free newsletter and get updates on our newest luxury villas plus insider info on promotions and tips on luxury vacation rentals.</p>
-            <a href="http://news.luxuryretreats.com/Subscription/subscribe.asp" target="_blank" rel="nofollow"><img src="/images/button-subscribe.jpg" width="103" height="32" alt="Subscribe"></a>
-        </div>
-     </div>
-     <div id="feedback">
-       	<h5>Your Feedback Matters</h5>
-        <div>
-            <p>If you prefer to speak to a villa specialist, please call us now.</p>
-            <img class="footer-contactus-gif" alt="Contact us" src="/images/feedback-icon.gif"> <u><a title="contact us" href="/content/media/contact.aspx" rel="nofollow">Send us your comments and suggestions</a></u>
-        </div>
-     </div>
-     <div id="partners">
-       	<h5>Our Partners &amp; Associations</h5>
-        <div>
-            <p>Some of Luxury Retreats' valued partners and associations include:</p>
-            <!--<a class="sprite-bbb" href="http://www.bbbonline.org/cks.asp?id=1070627102943240" target="_blank" title="BBB" rel="nofollow"></a>--><a class="sprite-aaa" href="/content/partners.aspx" title="AAA" rel="nofollow"></a><a class="sprite-asta" href="/content/partners.aspx" title="ASTA" rel="nofollow"></a>  
-        </div>          
-     </div>        
-</div>
-    <!-- ITracker //-->
-    <script type="text/javascript" src="/tracking/iTracker.min.js"></script>        
-    </div>
-    
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="QnywKWajxxWuYOcp7ec5wDgn3saLgzI8w6T0ieQ20WjY0QHLgKflqzUlvZ/Ysd94jZNphEi+1LHMbalPbq5T+d78B9EDEQkPGHTX9xODpleqYmgUn202nzWG8GXfg5tar65P5EoTJV74spw9gfz+zNUKWQS8T/Z+/uZs17Ml/+aPDbI0dHZFX+xoxf10pwIzwwevb/IDY1tC9iauDxBd8Q==">
 
 <script type="text/javascript">
 //<![CDATA[
@@ -298,46 +1153,108 @@ Sys.Application.initialize();
 //]]>
 </script>
 </form>
+	
+	
+	
+
+<div class="mainfooter">
+    <div class="container">
+        <div id="footer" class="footer" style="display: none;">
+            <div class="rt_ftr">
+                <div class="search">
+                    <input type="text" value="Villa Name or ID #" class="inputbox" id="suggest1" onblur="if(this.value==''){this.value='Villa Name or ID #';}" onfocus="if(this.value == 'Villa Name or ID #'){ this.value='';}">
+                    <input type="button" value="" class="search_btn"><input type="hidden" id="TEST">
+                </div>
+                <a href="http://fr.luxuryretreats.com" class="version">Version Française</a>
+            </div>
+            Copyright ©&nbsp;2012 Luxury Retreats. All rights reserved.
+        </div>
+        <div class="clear"></div>
+        <div class="rt_bnr_txt" id="logoreadmore" style="display: none">
+            <div class="rtbanner_dtl" id="logoTextDiv">
+                <ul class="lispacing">
+                    <li>Hand-Picked, Personally Inspected Villas</li>
+                    <li>Dedicated Concierge</li>
+                    <li>No Membership Fees</li>
+                </ul>
+            </div>
+            <a href="#" class="readmore">Read More</a>
+        </div>
+
+
+        
+        <div class="rt_bnr_txt" id="Slide3Text" style="display: none">
+            <div class="rtSlide3_txt" id="Slide3TextDiv"></div>
+        </div>
+    </div>
+</div>
+<!-- ITracker //-->
+<script type="text/javascript" src="/tracking/iTracker.min.js"></script>
+        
+    
+
+    <script type="text/javascript" src="/js/jQuery/common/jquery.treeview.min.js"></script>
+
+    <!-- Cookies //-->
+
+    <script type="text/javascript" src="/js/jquery.cookie.js"></script>
+
+    <script type="text/javascript" src="/js/jQuery/autocomplete/jquery.autocomplete.js"></script>
+
+    <script src="/js/updatefavorites.js" type="text/javascript"></script>
+
+    <!-- SIDE SEARCH INCLUDES //-->
+
+       <script type="text/javascript" src="/js/common/lri.web.ss.srchbyvilla.v1.2.js"></script>
+
+    <script type="text/javascript">
+        var $jQ = jQuery.noConflict();
+    </script>
+
+    <!-- WORLD DESTINATIONS //-->
+
+    <script type="text/javascript" src="/js/common/lri.web.worldDest.v1.js"></script>
+
+    <!-- FOR SEARCH AND MINISEARCH //-->
+
+    <script type="text/javascript" src="/js/common/lri.web.srch.v1.7.js"></script>
+
+    <script type="text/javascript" src="/js/common/lri.web.srch.v1.8.js"></script>
+    <!-- PROMOTIONS //-->
+
+    <script type="text/javascript" src="/js/common/lri.web.promotions.v1.js"></script>
+
+    <!-- URL Utili //-->
+    <script type="text/javascript" src="js/common/jquery.ba-url.js"></script>
+    <!-- JQ INIT //-->
+   
+
+    <script type="text/javascript">
+
+    var d = new Date();
+    var start = d.getTime();
+    $jQ(document).ready(function(){
+   
+         
+    LRI.WEB.SRCHBYVILLA.readyJQ();
+           
+    LRI.WEB.WORLDDEST.readyJQ();
+   
+    LRI.WEB.PROMO.readyJQ();
+	//
+    //
+});
+    </script>
+
+    <!-- END OF JQ INIT //-->
+
+    </div>
+   
         <script type="text/javascript">
-var $jQ = jQuery.noConflict();
+            var $jQ = jQuery.noConflict();
     </script>
-    <script type="text/javascript" language="javascript">
-//Refresh Favorite Count
-LRINamespace.register("LRI.WEB.FAV");
-    LRI.WEB.FAV.updateCnt = function(cnt)
-    {
-        var plural = "s";
-        if (cnt == 1) {plural="";}
-        if(cnt > 0 && cnt != "")
-        {
-            //alert($jQ("#lnkFavorite"));
-            //$jQ("#lnkFavorite").show;
-            $jQ("#lnkFavorite").html('<a class="sprite-star" onclick="javascript:OpenFavorites();"><span>' + cnt + '</span> villa'+plural+' in your favorite'+plural+' </a>');
-        }
-        else
-        {
-        //alert("trying to hide");
-            //$jQ("#lnkFavorite").hide;
-            //$jQ("#lnkFavorite").html("");
-            cnt=0;
-            $jQ("#lnkFavorite").html('<a class="sprite-star" onclick="javascript:OpenFavorites();"><span>' + cnt + '</span> villas in your favorite'+plural+' </a>');
-        }
-    }
-LRI.WEB.FAV.updateCnt();
-    </script>
-    <!-- fix: 080917 -->
-    <!-- Google Analytics Starts -->
-    <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-    <script type="text/javascript">
-    var pageTracker = _gat._getTracker("UA-534503-3");
-    pageTracker._trackPageview();
-    </script>
-    <!-- Google Analytics End -->    
-<script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=2588&amp;ref2=elqNone&amp;tzo=0&amp;ms=181" border="0" width="1" height="1"></layer>
+    
+
 
 
 
