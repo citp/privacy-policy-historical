@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carblogindia.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630021134id_/http%3A//www.carblogindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carblogindia.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213092654id_/http%3A//www.carblogindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | CarBlogIndia - All About Automobiles
 
