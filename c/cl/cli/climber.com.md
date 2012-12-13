@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the climber.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510115550id_/http%3A//www.climber.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climber.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213094319id_/http%3A//www.climber.com/privacy) for the most accurate reproduction.*
 
 # Climber.com
 
