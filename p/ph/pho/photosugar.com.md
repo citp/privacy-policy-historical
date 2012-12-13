@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photosugar.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511191046id_/http%3A//www.photosugar.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photosugar.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213015429id_/http%3A//www.photosugar.com/info/privacy) for the most accurate reproduction.*
 
-# PhotoSugar: the ultimate photo feed
+# PhotoSugar: Privacy Policy
 
 Last updated: April 20, 2012
 
@@ -10,7 +10,7 @@ Thank you for visiting PhotoSugar's official website. This Privacy Policy is wri
 
 ## Personal Information We Collect
 
-In order for you to register with us, you must provide us with your name, e-mail address, and Facebook information. We will not disclose any information that you provide to us except in accordance with the provisions of this Privacy Policy.
+In order for you to register with us, you must provide us with your name, e-mail address, and Facebook or Twitter information. We will not disclose any information that you provide to us except in accordance with the provisions of this Privacy Policy.
 
 ## Non-Personal Information We Collect
 
@@ -32,9 +32,9 @@ In order to distinguish you from other users' especially other users on the same
 
 ## Third Party Websites
 
-We may link to third party websites, including Facebook using APIs, from our own website. We have no control over, and are not responsible for, these third party websites or their use of your personal information. We recommend that you review their privacy policies and other agreements governing your use of their website.
+We may link to third party websites, including Facebook or Twitter using APIs, from our own website. We have no control over, and are not responsible for, these third party websites or their use of your personal information. We recommend that you review their privacy policies and other agreements governing your use of their website.
 
-We will also extract information from Facebook about you, and you consent to our use of your Facebook information in order to provide our service to you.
+We will also extract information from Facebook and Twitter about you, and you consent to our use of your information in order to provide our service to you.
 
 ## Third Party Access to Your Information
 
@@ -48,7 +48,7 @@ We may disclose your information to a third party where we believe, in good fait
 
 We use SSL certificates to help secure our website. However, we make no representations as to the security or privacy of your information. It is in our interest to keep our website secure, but we recommend that you use anti-virus software, firewalls, and other precautions to protect yourself from security threats.
 
-Please keep in mind that we are a separate website from Facebook and you must ensure your security on both sites in order to keep your information secure. Any comments about your privacy or security relating to your Facebook account should be directed to Facebook rather than us.
+Please keep in mind that we are a separate website from Facebook, Twitter and any other photo service websites we aggregate, and you must ensure your security on each site in order to keep your information secure. Any comments about your privacy or security relating to your photo service account(s) should be directed to the photo service rather than us.
 
 ## California Online Privacy Protection Act
 
