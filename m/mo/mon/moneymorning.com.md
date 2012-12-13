@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneymorning.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621010035id_/http%3A//www.moneymorning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymorning.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213173154id_/http%3A//www.moneymorning.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Money Morning
+# Privacy Statement – Money Morning - Only the News You Can Profit From
 
 _Money Morning_ takes individual privacy very seriously. We are also aware of the threats to your security and privacy on the Internet. Please take a few moments to review the steps that _Money Morning_ takes to ensure your privacy and security while giving you the best possible customer service as you use our web sites.
 
@@ -8,7 +8,7 @@ _Money Morning_ takes individual privacy very seriously. We are also aware of th
 
 We require that all e-mails promoting MoneyMorning.com or its products are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and Web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.
 
-If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department (customerservice@moneymorning.com). We will immediately investigate all allegations made related to unsolicited messages.
+If you feel you've been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department ([customerservice@MoneyMorningInfo.com](mailto:customerservice@moneymorninginfo.com)). We will immediately investigate all allegations made related to unsolicited messages.
 
 **Cookies**
 
@@ -30,7 +30,7 @@ In other words, any data you send us is encrypted, so in the unlikely event a ha
 
 _Money Morning_ does not sell or rent your name to anyone. That means that only authorized employees of _Money Morning_ ever have access to any information you submit. We may use your name and address to send you information on other _Money Morning_ products that may suit your interests. And, although we disagree with it, we must turn over any pertinent information to any law enforcement agency that takes the proper steps to require it. 
 
-If at any time you wish to be removed from our mailing list, please [click here](mailto:customerservice@moneymorning.com) to contact our customer service department.
+If at any time you wish to be removed from our mailing list, please [click here](mailto:customerservice@moneymorninginfo.com) to contact our customer service department.
 
 **E-mail**
 
@@ -38,4 +38,4 @@ If you subscribe to _The Money Morning E-Letter_ , your name and e-mail address 
 
 Any e-mail you send to _Money Morning_ is completely confidential. We will not add your name to our e-mail list without your permission. For security reasons, if your inquiry is about one of your subscriptions, we may ask you to submit some additional information only to verify your identity. Remember, in this case we are only asking you to confirm information you have already given us.
 
-You can unsubscribe from _Money Morning_ emails at any time by clicking the unsubscribe button at the bottom of any _Money Morning_ email or by calling us at 1-888-384-8339; international callers can telephone us at +1-410-230-1200.
+You can unsubscribe from _Money Morning_ emails at any time by clicking the unsubscribe button at the bottom of any _Money Morning_ email or by calling us at 1-888-384-8339; international callers can telephone us at +1-630-820-5053.
