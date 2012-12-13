@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backyardgardener.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503232108id_/http%3A//backyardgardener.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backyardgardener.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213011901id_/http%3A//backyardgardener.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Backyardgardener, LLC
 
@@ -6,8 +6,8 @@ Privacy Policy Statement
 This is the web site of Backyardgardener, LLC.
 
 Our postal address is   
-P.O. Box 23598  
-Federal Way, WA 98093-0598
+1825 56TH ST NE  
+Tacoma, WA 98422
 
 We can be reached via e-mail at [support[at]backyardgardener.com](mailto:support@backyardgardener.com)
 
@@ -41,5 +41,7 @@ Upon request we offer visitors the ability to have inaccuracies corrected in con
 Consumers can have this information corrected by sending us e-mail at the above address.
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+
+ **Children:** We do not knowingly collect information from children under the age of 13 and feel strongly about protecting the rights and privacy of children. As such, we do not collect or use any personal information from children we know to be under the age of 13, and will remove personally identifying information about such minors from our system. We are compliant with the Children's Online Privacy Protection Act (COPPA) of 1998. See this page for more information: [http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm](http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm)
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at [http://www.ftc.gov/ftc/complaint.htm](http://www.ftc.gov/ftc/complaint.htm) or We are here to help.  Honestly, it's a simple website managed by one person..
