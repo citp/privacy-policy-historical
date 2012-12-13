@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japantimes.co.jp privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606204509id_/http%3A//www.japantimes.co.jp/info/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japantimes.co.jp privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213095621id_/http%3A//www.japantimes.co.jp/info/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Japan Times Online
 
@@ -8,7 +8,7 @@
 ---|---|---  
 |  |  | 
 
-##### English | [Japanese](https://web.archive.org/web/20120606204509id_/http%3A//www.japantimes.co.jp/info/policy_ja.html)  
+##### English | [Japanese](https://web.archive.org/web/20121213095621id_/http%3A//www.japantimes.co.jp/info/policy_ja.html)  
   
 ---  
   
