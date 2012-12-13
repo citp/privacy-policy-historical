@@ -1,28 +1,31 @@
-> *The following text is extracted and transformed from the appirio.com privacy policy that was archived on 2012-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120403132503id_/http%3A//www.appirio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appirio.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213042526id_/http%3A//www.appirio.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Appirio
+# Privacy Policy: Appirio
 
-[](http://www.truste.org/pvr.php?page=validate&url=www.appirio.com&sealid=101)[Appirio Inc](https://lad.truste.org:8443/index.php?obj=company&op=show&id=135007) ("Appirio") is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.appirio.com ("Site") and personally identifiable information about users of our services and products ("Services") . Because this Site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+[](https://privacy.truste.com/privacy-seal/Appirio-Inc/validation?rid=8f5bcc44-bbcc-4021-8104-1c889c1a5710 "TRUSTe European Safe Harbor
+certification")
 
-If you have questions or concerns regarding this statement, you should first contact [security@appirio.com](mailto:security@appirio.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url= TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url=%20TRUSTe) will then serve as a liaison with us to resolve your concerns.
+Appirio Inc ("Appirio") has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [www.appirio.com](http://www.appirio.com/) and does not cover information that may be collected behind the log in on our website.
 
-Upon request and within 30 days, Appirio will grant individuals reasonable access to personal information that it holds about them. In addition, Appirio will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. Please contact [security@appirio.com](mailto:security@appirio.com) to change your personal information gathered on the Site. 
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [security@appirio.com](mailto:security@appirio.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+
+This privacy statement covers the Web site [www.appirio.com](http://www.appirio.com/) ("Site") and personally identifiable information about users of our services and products ("Services") . Because this Site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 **Dispute Resolution**
 
-[Appirio Inc.](https://lad.truste.org:8443/index.php?obj=company&op=show&id=135007) participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <http://www.truste.com/consumers/watchdog_complaint.php>, fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 2nd Street 2nd Floor, San Francisco, CA, USA 94105. 
+Appirio Inc. participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <http://www.truste.com/consumers/watchdog_complaint.php>, fax at 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact-us).
 
-If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://www.truste.com/consumers/watchdog_complaint.php> or request this information from TRUSTe at any of the addresses listed above. 
+If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://www.truste.com/products-and-services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
 
-The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities. Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a hosted online OnBoarding software customer or partner for whom Appirio processes data should be addressed to that customer or partner. 
+Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a hosted online OnBoarding software customer or partner for whom Appirio processes data should be addressed to that customer or partner.
 
 **Safe Harbor**
 
-Appirio follows the Safe Harbor Principles published by the United States Department of Commerce (the “Principles”) with respect to the transfer of personal data from the European Union to the United States of America. This Privacy Policy details certain policies implemented throughout Appirio implementing the Principles and governing Appirio's use of personally identifiable information provided to Appirio via this Site and through our services. If there is any conflict between the policies in this Privacy Policy and the Principles, the Principles will govern. 
+Appirio Inc complies with the U.S.—E.U. Safe Harbor framework and the U.S.—Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. [Participant] has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view [Participant’s] certification, please visit <http://www.export.gov/safeharbor/>.
 
 **Privacy Policy Updates**
 
-Due to the Internet's rapidly evolving nature, Appirio may need to make material changes to this policy or update this Privacy Policy from time to time. If so, Appirio will post its updated Privacy Policy on our homepage with a prominent material change notice. If any modification is unacceptable to you, you shall cease using this Site. If you do not cease using this Site, you will be deemed to have accepted the change. 
+Due to the Internet's rapidly evolving nature, Appirio may need to make material changes to this policy or update this Privacy Policy from time to time. If so, Appirio will post its updated Privacy Policy on our homepage with a prominent material change notice or notify you by email (sent to the e-mail address specified in your account) prior to the to the change becoming effective. If any modification is unacceptable to you, you shall cease using this Site. If you do not cease using this Site, you will be deemed to have accepted the change.
 
 **Information Collection, Use, Choices and Data Integrity**
 
@@ -44,7 +47,7 @@ We use third-party tracking services that uses cookies to track non-personally i
 
 **Testimonials**
 
-We post testimonials on our web site which contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If you want to remove your personal information that is being displayed on our website under public pages please send your request to [security@appirio.com](mailto:security@appirio.com). 
+We post testimonials on our web site which contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If you want to remove your personally identifiable information that is being displayed on our website under public pages please send your request to [security@appirio.com](mailto:security@appirio.com).
 
 **Clear Gifs (Web Beacons/Web Bugs)**
 
@@ -52,11 +55,15 @@ We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs),
 
 **Blogs, Forums and Chartrooms**
 
-If you use a bulletin board, blog, or chat room on this Site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
+If you use a bulletin board, blog, or chat room on this Site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at [security@appirio.com](mailto:security@appirio.com). In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
 
-**Aggregate Information**
+**Aggregate Informations**
 
-The Site may track the total number of visitors to our Site, IP addresses, the number of visitors to each page of our Site and items clicked on our Site. Additionally, when we provide our Services to you, we may track aggregate and anonymous data that you provide to use to provide our Services to benchmark and improve our Services and ensure you are complying with the terms of your license from us. We may use this data in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to diagnose server problems, analyze trends, administer and improve the Site, track users' movement, and gather broad demographic information for aggregate use. 
+The Site may track the total number of visitors to our Site, IP addresses, the number of visitors to each page of our Site and items clicked on our Site. Additionally, when we provide our Services to you, we may track aggregate and anonymous data that you provide to use to provide our Services to benchmark and improve our Services and ensure you are complying with the terms of your license from us. We may use this data in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to diagnose server problems, analyze trends, administer and improve the Site, track users' movement, and gather broad demographic information for aggregate use.
+
+**Behavioral Targeting / Re-Targeting**
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking Here](mailto:remove@appirio.com). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 **Onward Transfer**
 
@@ -66,7 +73,7 @@ As part of our provision of Services to you, you may request us to publish your 
 
 Other people will be able to view such data if such data is published on third party websites. 
 
-We will also disclose your personally identifiable information and the aggregate information if we reasonably believe we are required to do so by law, court order, warrant, subpoena, legal process or regulation or in cooperation with any governmental investigation. We may transfer your personally identifiable information and the aggregate information to a successor entity upon a merger, consolidation or other corporate reorganization in which Appirio participates or to a purchaser of all or substantially all of Appirio's assets to which this Site relates. 
+We will also disclose your personally identifiable information and the aggregate information if we reasonably believe we are required to do so by law, court order, warrant, subpoena, legal process or regulation or in cooperation with any governmental investigation. We may transfer your personally identifiable information and the aggregate information to a successor entity upon a merger, consolidation or other corporate reorganization in which Appirio participates or to a purchaser of all or substantially all of Appirio's assets to which this Site relates. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information.
 
 **Children's Privacy**
 
@@ -74,13 +81,15 @@ Appirio recognizes the privacy interests of children and we encourage parents an
 
 **Access**
 
-You may correct, amend or delete your personally identifiable information that Appirio stores, except where the burden or expense to Appirio of providing access would be disproportionate to the risks to your privacy or where the legitimate rights of persons other than you would be violated. Please email [security@appirio.com](mailto:security@appirio.com) to correct, amend or delete your personally identifiable information. 
+You may correct, amend or delete your personally identifiable information that Appirio stores, except where the burden or expense to Appirio of providing access would be disproportionate to the risks to your privacy or where the legitimate rights of persons other than you would be violated. Please email [security@appirio.com](mailto:security@appirio.com) to correct, amend or delete your personally identifiable information.
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Links to Third Party Sites**
 
 The Site may provide links to other Web sites or resources over which Appirio does not have control ("External Web Sites"). Such links do not constitute an endorsement by Appirio of those External Web Sites. You acknowledge that Appirio is providing these links to you only as a convenience, and further agree that Appirio is not responsible for the content of such External Web Sites. Your use of External Web Sites and any products purchased on such External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites. 
 
-The Appirio Knowledge Base is powered by Salesforce.com. No personal information is gathered on these pages. 
+The Appirio Knowledge Base is powered by Salesforce.com. No personally identifiable information is gathered on these pages.
 
 **Security**
 
@@ -88,7 +97,7 @@ We may employ procedural and technological security measures that are reasonably
 
 **Widget**
 
-This Site uses the “Add This” widget where personal information is collected in the form of the invite-a-friend feature. This feature is used to send a one time invite to the third party email address you entered through the widget. The personal information entered on this widget is subject to the privacy policy of the “Add This” widget. Appirio shares no responsibility in regards to the personal information entered through the widget. 
+This Site uses the "Add This" widget where personally identifiable information is collected in the form of the invite-a-friend feature. This feature is used to send a one time invite to the third party email address you entered through the widget. The personally identifiable information entered on this widget is subject to the privacy policy of the “Add This” widget. Appirio shares no responsibility in regards to the personally identifiable information entered through the widget.
 
 You can also import email contacts using this widget. The widget will import email addresses from various email service providers into your account. Once the email addresses are imported you must manually click on each email you address you wish to send a communication to. 
 
@@ -96,10 +105,10 @@ You can also import email contacts using this widget. The widget will import ema
 
 If you have any questions regarding this Privacy Policy please contact us via email at [security@appirio.com](mailto:security@appirio.com) or at: 
 
-2207 Bridgepoint Parkway  
-Suite 300  
-San Mateo, CA 94404  
-Tel: (650) 268-9911  
+760 Market Street  
+11th Floor  
+San Francisco, CA 94102  
+Tel: (415) 268-9911  
 Toll Free: (888) 680-SaaS (7227)
 
-Effective Date 10/06/2009 
+Effective Date 12/06/2012
