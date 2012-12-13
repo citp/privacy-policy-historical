@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the metrolinktrains.com privacy policy that was archived on 2012-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120624024918id_/http%3A//www.metrolinktrains.com/help/page/title/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the metrolinktrains.com privacy policy that was archived on 2012-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121213151021id_/http%3A//metrolinktrains.com/help/page/title/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy | Metrolink</title>
@@ -40,8 +40,12 @@
 	<div id="nav">
 		<div id="logo-overlay" onclick="window.location='/'"></div>
 				<div id="user-status">
-			<a id="user-status-mymetrolink" href="" onclick="utils.login();return false;" class="strong">My Metrolink</a><br>
-			&nbsp;&nbsp;<a id="user-status-login" href="" onclick="utils.login();return false;"><strong>Login</strong></a>&nbsp;&nbsp;&nbsp;<a id="user-status-register" href="/mymetrolink/register.html"><strong>Register</strong></a>
+			<a id="user-status-mymetrolink" class="user-title user-title-logged-out" href="" onclick="utils.login();return false;"><span>My Metrolink</span></a>
+			<div class="user-sublinks">
+				<a id="user-status-login" href="" onclick="utils.login();return false;">Login</a>
+				<span class="divider">|</span>
+				<a id="user-status-register" href="/mymetrolink/register.html">Register</a>
+			</div>
 		</div>
 				<script type="text/javascript">
 			$(document).ready(function(){
@@ -54,9 +58,7 @@
 				}
 			});
 		</script>
-		<div id="search"><form action="/home/search.html" method="POST"><input type="text" name="keyword" id="keyword" placeholder="Search"><input type="image" src="/images/btn_search_go.png"></form><div class="clear-both"> </div></div>
 		<div id="social-links">
-			<span id="metro-updates"><a href="#subscribetoupdates" class="updates-lightbox">Sign up for Metrolink Updates</a></span>
                         <a href="#subscribetoupdates" class="updates-lightbox"><img src="/images/icon_share_email.png"></a>
 			<a href="http://www.facebook.com/Metrolink" target="blank"><img src="/images/icon_share_facebook.png"></a>
 			<a href="http://twitter.com/#!/Metrolink" target="_blank"><img src="/images/icon_share_twitter.png"></a>
@@ -163,6 +165,7 @@
  
 			</div>
 		</div>
+		<div id="search"><form action="/home/search.html" method="POST"><input type="submit" value="" id="searchSubmit"><input type="text" name="keyword" id="keyword" placeholder="Search"><!--<input type="image" src="/images/btn_search_go.png" />--></form><div class="clear-both"> </div></div>
 		<div class="clear-both"> </div>
 		<div id="nav-items">
 			<div class="nav-item" id="nav-home"><a id="nav-home-image" href="/home/"><img src="/images/btn_nav_home_up.png"></a></div>
@@ -191,6 +194,7 @@
 						<li><a href="/howtoride/page/title/transitconnections">Transit Connections</a></li>
 						<li><a href="/howtoride/page/title/airportconnections">Airport Connections</a></li>
 						<li><a href="/howtoride/destinations">Destinations</a></li>
+						<li><a href="/howtoride/page/title/weekends">Weekends</a></li>
 						<li><a href="/howtoride/page/title/safetyandsecurity">Safety &amp; Security</a></li>
 						<li><a href="/howtoride/page/title/accessibility">Accessibility</a></li>
 						<li><a href="/howtoride/page/title/onboardinfo">On Board Information</a></li>
@@ -506,6 +510,7 @@ $('#share-on-twitter').click(function() {
 			<li><a href="#">Metrolink Store</a></li>
 			-->
 			<li><a href="/agency/page/title/our_trains">Our Trains</a></li>
+                        <li><a href="/agency/page/title/ptc">PTC</a></li>
 			<li><a href="/agency/page/title/innovations">Innovations</a></li>
 
 		</ul>
