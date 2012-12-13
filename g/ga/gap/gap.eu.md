@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gap.eu privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613175106id_/http%3A//www.gap.eu/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gap.eu privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213034446id_/http%3A//www.gap.eu/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
 
 # Privacy Policy | Gap
 
-_Last Revised February 24, 2012_
+_Last Revised May 24, 2012_
 
 Gap Inc. and our affiliates and subsidiaries in the U.S. and the European Union, including GPS (Great Britain) Limited, Gap Europe Limited, Gap Netherlands B.V., Gap (France) SAS, Gap Stores (Ireland) Limited and Gap (Italy) SRL (collectively, "Gap Companies") and our brands, including Gap, Banana Republic, and other Gap Inc. brands (collectively, our "brands") value our customers and respect your privacy. We collect information about you in our stores and through our websites connected to this policy in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions.
 
@@ -153,8 +153,7 @@ _Email_ :[custserv@gap.eu](mailto:custserv@gap.eu)
 _Telephone_ :
 
 Calling within the UK 0800 368 0674  
-Calling international: + 1 614 744 3997 (you must first dial the applicable International Dialing Prefix, then 1)  
-Note: International calling rates will apply.
+Calling international: click [here](https://web.archive.org/customerService/info.do?cid=7843) for phone numbers outside of the UK.
 
 _Post_ :
 
@@ -165,7 +164,7 @@ Rugby, Warwickshire,
 CV23 0BR  
 United Kingdom
 
-_Voor het laatst herzien op 28 oktober 2010_
+_Voor het laatst herzien op 24 mei 2012_
 
 Bij Gap Inc. en onze filialen en dochterondernemingen in de VS en de Europese Unie, inclusief GPS (Groot-Britannië) Limited, Gap Europe Limited, Gap Netherlands B.V., Gap (France) SAS, en Gap Stores (Ierland) Limited (collectief aangeduid met de naam "Gap Bedrijven") en onze merken, waaronder Gap, Banana Republic en andere merken van Gap Inc. (collectief aangeduid als onze "merken"), waarderen we onze klanten en respecteren we uw privacy. In onze winkels en op onze website verzamelen wij informatie over u die verband houdt met dit beleid; dit doen we om uw koopervaring te verbeteren en u berichten te sturen over producten, diensten, wedstrijden en aanbiedingen. 
 
@@ -298,8 +297,7 @@ _E-mail_ : [uk_queries@gap.com](mailto:uk_queries@gap.com)
 _Telefoon_ : 
 
 Bellen binnen het Verenigd Koninkrijk 0800 368 0674  
-Internationale oproepen: + 1 614 744 3997 (u moet eerst de juiste internationale toegangscode bellen en daarna 1)  
-Opmerking: internationale beltarieven zijn van toepassing. 
+Internationale oproepen: klik [hier](https://web.archive.org/customerService/info.do?cid=7843) voor telefoonnummers buiten het Verenigd Koninkrijk.
 
 _Post_ : 
 
@@ -310,9 +308,7 @@ Rugby, Warwickshire,
 CV23 0BR  
 United Kingdom 
 
-terug naar boven
-
-_Letzte Aktualisierung am 09.03.12_
+_Letzte Aktualisierung am 24. Mai 2012_
 
 Gap Inc. und unsere verbundenen Unternehmen und Tochtergesellschaften in den USA und der Europäischen Union, einschließlich GPS (Great Britain) Limited, Gap Europe Limited, Gap Netherlands B.V., Gap (France) SAS und Gap Stores (Ireland) Limited (gemeinsam bezeichnet als die „Gap Unternehmen“) und unsere Marken, einschließlich Gap, Banana Republic und sonstige Gap Inc. Marken (gemeinsam bezeichnet als unsere „Marken“) schätzen unsere Kunden und respektieren ihre Privatsphäre. Wir erfassen im Rahmen der vorliegenden Datenschutzerklärung Informationen über Sie in unseren Geschäften und über unsere Websites, um Ihr Einkaufserlebnis zu verbessern und um Sie über Produkte, Dienstleistungen, Wettbewerbe und Angebote zu informieren.
 
@@ -455,8 +451,7 @@ _E-Mail:[uk_queries@gap.com](mailto:uk_queries@gap.com)_
 _Telefon:_
 
 Anrufe aus Großbritannien: 0800 368 0673  
-Anrufe aus dem Ausland: +1 614 744 3997 (wählen Sie zuerst die jeweilige internationale Vorwahl und dann 1)  
-Hinweis: Bei Anrufen aus dem Ausland fallen internationale Gesprächsgebühren an.
+Aufruf international: Klicken Sie [hier](https://web.archive.org/customerService/info.do?cid=7843) für Telefonnummern außerhalb des Vereinigten Königreichs.
 
 _Per Post:_
 
@@ -467,11 +462,9 @@ Rugby, Warwickshire,
 CV23 0BR  
 Großbritannien
 
-Zurück zum Seitenanfang
-
 ## Política de privacidad
 
-_Última revisión: 09.03.2012_
+_Última revisión: 24 de mayo 2012_
 
 En Gap Inc. y en nuestras filiales y subsidiarias de Estados Unidos y la Unión Europea, incluidas GPS (Gran Bretaña) Limited, Gap Europe Limited, Gap Netherlands B.V., Gap (Francia) SAS y Gap Stores (Irlanda) Limited (en su conjunto, "empresas Gap") y nuestras marcas, incluidas Gap, Banana Republic, y otras marcas de Gap Inc. (en su conjunto, nuestras "marcas") valoramos a nuestros clientes y respetamos su privacidad. La información que recogemos de los clientes en nuestras tiendas y a través de nuestros sitios web en relación con esta política nos sirve para mejorar su experiencia de compra y la comunicación que podamos establecer con usted para informarle sobre productos, servicios, concursos y promociones. 
 
@@ -614,8 +607,7 @@ _Correo electrónico:[uk_queries@gap.com](mailto:uk_queries@gap.com)_
 _Teléfono:_
 
 Llamada desde Reino Unido 0800 368 0674  
-Llamada internacional: + 1 614 744 3997 (deberá marcar primero el prefijo de marcado internacional pertinente, y después, el 1)  
-Nota: Se aplicarán las tarifas de llamada internacional. 
+Llamada internacional: haga clic [aquí](https://web.archive.org/customerService/info.do?cid=7843) para números de teléfono fuera del Reino Unido. 
 
 _Correo_ : 
 
@@ -625,5 +617,3 @@ Castle Mound Way
 Rugby, Warwickshire,  
 CV23 0BR   
 Reino Unido 
-
-volver al principio
