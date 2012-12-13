@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moenormangolf.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613205949id_/http%3A//moenormangolf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moenormangolf.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213153624id_/http%3A//moenormangolf.com/privacy-policy) for the most accurate reproduction.*
 
 # Moe Norman Golf - Privacy Policy
 
-This Privacy Policy governs the manner in which Graves Golf Academy collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.MoeNormanGolf.com](https://web.archive.org/web/20120613205949id_/http://moenormangolf.com/privacy-policy/www.MoeNormanGolf.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Graves Golf Academy.
+This Privacy Policy governs the manner in which Graves Golf Academy collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.MoeNormanGolf.com](https://web.archive.org/web/20121213153624id_/http://moenormangolf.com/privacy-policy/www.MoeNormanGolf.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Graves Golf Academy.
 
 **Personal identification information**
 
@@ -14,7 +14,7 @@ We may collect non-personal identification information about Users whenever they
 
 **Web browser cookies**
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 **How we use collected information**
 
@@ -59,13 +59,13 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Third party websites**
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
 **Advertising**
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-**Compliance with children's online privacy protection act**
+**Compliance with children’s online privacy protection act**
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
@@ -81,8 +81,8 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[Graves Golf Academy](https://web.archive.org/web/20120613205949id_/http://moenormangolf.com/privacy-policy/www.MoeNormanGolf.com)  
-[www.MoeNormanGolf.com](https://web.archive.org/web/20120613205949id_/http://moenormangolf.com/privacy-policy/www.MoeNormanGolf.com)
+[Graves Golf Academy](https://web.archive.org/web/20121213153624id_/http://moenormangolf.com/privacy-policy/www.MoeNormanGolf.com)  
+[www.MoeNormanGolf.com](https://web.archive.org/web/20121213153624id_/http://moenormangolf.com/privacy-policy/www.MoeNormanGolf.com)
 
 12716 Cobblestone Parkway  
 Oklahoma City, OK 73142  
