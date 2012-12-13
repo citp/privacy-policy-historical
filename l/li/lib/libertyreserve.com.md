@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the libertyreserve.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619064139id_/http%3A//www.libertyreserve.com/en/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertyreserve.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213122300id_/http%3A//www.libertyreserve.com/en/home/privacypolicy) for the most accurate reproduction.*
 
 # Liberty Reserve – largest payment processor and money transfer system. Liberty Reserve serves millions since 2002 - Privacy Policy
 
 ## 1\. Privacy Statement
 
-At Liberty Reserve S.A. we are committed to protecting your privacy. We also want to make sure that you are always aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. This Privacy Policy outlines such information practices and describes the way Liberty Reserve handles your personal identifiable information and data. All information entered into or collected through [www.libertyreserve.com](http://www.libertyreserve.com/) will be treated accordingly with this policy.
+At Liberty Reserve we are committed to protecting your privacy. We also want to make sure that you are always aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. This Privacy Policy outlines such information practices and describes the way Liberty Reserve handles your personal identifiable information and data. All information entered into or collected through [www.libertyreserve.com](http://www.libertyreserve.com/) will be treated accordingly with this policy.
 
 ## 2\. TRUSTe Program
 
@@ -18,7 +18,7 @@ This privacy policy covers the website [www.libertyreserve.com](http://www.liber
 
 ## 4\. Contact Information
 
-If you have any questions, concerns or complaints regarding our Privacy Policy or Liberty Reserve´s information practices, please [contact us](https://www.libertyreserve.com/EN/contactus). You can also send us mail to 920-6155 Condominio Empresarial Forum I, Santa Ana, Pozos, San José, Costa Rica or send us fax at +506 2582 0942.
+If you have any questions, concerns or complaints regarding our Privacy Policy or Liberty Reserve´s information practices, please [contact us](https://www.libertyreserve.com/en/contactus).
 
 If such questions, concerns or complaints are not acknowledged and addressed to your satisfaction, please contact TRUSTe.
 
@@ -34,7 +34,7 @@ This personal identifiable information is not supplemented with information from
 
 Said personal identifiable information is used by Liberty Reserve only to provide the electronic transfer service and fill customer’s orders. Then, when such orders are taken out, users are notified based on the personally identifiable information provided by them. This information is also used to tailor the website to the person to whom the information pertains; to send customers strictly administrative messages in the event a problem with their account arises, and to provide customer-service in response to their inquiries.
 
-All personally identifiable information provided by users is retained for no longer than it is necessary to (i) fulfill the purpose for which it was collected and (ii) comply with Costa Rican laws and regulations. Under said laws and regulations we must keep such information from the moment users open an account to 5 years after they close it.
+All personally identifiable information provided by users is retained for no longer than it is necessary (i) to fulfill the purpose for which it was collected and (ii) comply with internationally accepted laws and regulations. Under said laws and regulations we must keep such information from the moment users open an account to 5 years after they close it.
 
 ### 5.2. Cookies Information
 
@@ -52,7 +52,7 @@ The information stored in Log Files is used to examine traffic patterns within o
 
 ### 5.4. Usage of Information
 
-Liberty Reserve S.A. is the sole owner of both the information provided by the users during the registration process and the one collected through cookies and file logs.
+Liberty Reserve is the sole owner of both the information provided by the users during the registration process and the one collected through cookies and file logs.
 
 ### 5.5. Information and Third Parties
 
@@ -74,7 +74,7 @@ Out of respect for our users we neither send promotional/marketing materials nor
 
 ### 6.2. Service Announcements and Opt/outs
 
-On rare occasions it is necessary to send out a strictly service-related announcement as indicated in Section 5.4 of this Privacy Policy. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications because they are not promotional in nature. However, they can deactivate their account by sending a request via [contact us](https://www.libertyreserve.com/EN/contactus) form. Those users who request the deactivation of their accounts will receive a confirmation email within the next 48 hours and will be effectively removed from the list of users to whom these communications are sent.
+On rare occasions it is necessary to send out a strictly service-related announcement as indicated in Section 5.4 of this Privacy Policy. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications because they are not promotional in nature. However, they can deactivate their account by sending a request via [contact us](https://www.libertyreserve.com/en/contactus) form. Those users who request the deactivation of their accounts will receive a confirmation email within the next 48 hours and will be effectively removed from the list of users to whom these communications are sent.
 
 ### 6.3. Customer Service
 
@@ -96,7 +96,7 @@ Users have the opportunity to share personally identifiable information placed i
 
 Users are able to correct material inaccuracies in their personally identifiable information at any time. To make those corrections user can visit the Personal Information page placed within their Liberty Reserve Account. However, users shall consider that both dates of birth and email addresses are subject to special procedures.
 
-This information cannot be changed by users themselves. For security reasons, users willing to update their email addresses shall send a request through the [contact us](https://www.libertyreserve.com/EN/contactus) form provided in our site. Then, a support agent will request users to provide us with the following: date of birth, current e-mail address and the new e-mail address. Dates of birth, in turn, cannot be changed for compliance reasons. They can be corrected though, but only if the user remembers the date entered when filling the registration form and requests the correction through the [contact us](https://www.libertyreserve.com/EN/contactus) form provided in our site. Otherwise, users will be required to open a new account and use a correct date of birth as stated in the [FAQ Section](https://web.archive.org/EN/help/faq) of our website.
+This information cannot be changed by users themselves. For security reasons, users willing to update their email addresses shall send a request through the [contact us](https://www.libertyreserve.com/en/contactus) form provided in our site. Then, a support agent will request users to provide us with the following: date of birth, current e-mail address and the new e-mail address. Dates of birth, in turn, cannot be changed for compliance reasons. They can be corrected though, but only if the user remembers the date entered when filling the registration form and requests the correction through the [contact us](https://www.libertyreserve.com/en/contactus) form provided in our site. Otherwise, users will be required to open a new account and use a correct date of birth as stated in the [FAQ Section](https://web.archive.org/en/help/faq) of our website.
 
 ## 10\. Security
 
@@ -118,7 +118,7 @@ This website may contain links to other websites which are outside our control a
 
 In this policy:
 
-  1. "We", "us" "our" or "Liberty Reserve" means Liberty Reserve, S.A, a Costa Rican corporation.
+  1. "We", "us" "our" or "Liberty Reserve" means Liberty Reserve website, corporation, support unit and management.
   2. "you" means you, the person using our services, or visiting our website.
   3. "Service" means the electronic money service that allows user to send and receive payments online.
   4. “Website”, or “site” means [www.libertyreserve.com](http://www.libertyreserve.com/).
