@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the funkykit.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613175637id_/http%3A//funkykit.com/about-us.html%3Fstart%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funkykit.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213044139id_/http%3A//www.funkykit.com/about-us.html%3Fstart%3D4) for the most accurate reproduction.*
 
 # About Us - Funky Kit
 
-|  | Article Index  
+| Article Index  
 ---  
 [About Us](http://www.funkykit.com/about-us.html)  
 [Meet the Team](http://www.funkykit.com/about-us.html?start=1)  
