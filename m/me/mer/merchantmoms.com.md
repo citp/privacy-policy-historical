@@ -1,77 +1,77 @@
-> *The following text is extracted and transformed from the merchantmoms.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517143839id_/http%3A//merchantmoms.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchantmoms.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213084650id_/http%3A//merchantmoms.com/privacy-policy.php) for the most accurate reproduction.*
 
-# MerchantMoms.com
+# Privacy Policy - Our policy regarding your privacy
 
-## Privacy Statement for Merchant Moms
+Your privacy is very important to us, below explains the information we collect from you, what we do with that information and our information security policy.
 
-**Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of Merchant Moms's sites and services, we feel you should understand Merchant Moms's policies surrounding the collection and use of that information. This privacy statement discloses what information we gather, how we use it, and how to correct or change it.**
+### Your Information
 
-**Information Gathered by Merchant Moms**
+When you sign up for any of our services we will ask you to provide contact information for your convenience as well as legal reasons. This will include name, home address, e-mail addresses and payment details (credit or debit card and PayPal). If you need support our staff may need to know information to solve the problem such as operating system, browser software and editing software. When you visit this website we do record certain information using Google Analytics such as your location, browser version, ip address, screen resolution, operating system and flash support. This is so we can continue to provide the most convenient web site for all our visitors. Our website is protected by a Secure Sockets Layer (SSL) and verified by Equifax. This helps prevent eavesdropping on our website, just look for the padlock.
 
-For visitors to our Web site, subscribers to our newsletters, and clients and prospective clients of our service (collectively referred to as a "User" or "Users"), we log standard technical information such as your IP address. We use this information to help diagnose problems with our service, and to administer our Web site. For example, your IP address may be used to help identify you and your account information and to gather broad demographic information. 
+### How Your Information Is Used
 
-Our site uses cookies to keep track of your account. We also use cookies to deliver content specific to you. 
+We will use your personal identifiable information in the following ways. 
 
-Merchant Moms requires registration for services, our web site may contain order forms for other products and services or online surveys. In order to provide our services to you, we may ask you for contact information (like name and email address), financial information (like account and/or credit card numbers), and demographic information (like zip code and age). 
+\- For payment purposes and to provide convenient and targeted support.
 
-**Merchant Moms's Use of Information**
+\- To contact you and announce special offers, general announcements and news. Please note you can opt out of receiving these emails at anytime by following the instructions at the bottom of the e-mail.
 
-We may use your contact information to send you information about our company or our advertisers, however, you may opt-out of receiving such mailings (see the Client Prospects and Subscribers sections below). We use financial information to bill you for products and services. Demographic and profile data is also collected at our site. We use this data to tailor your experience at our site, to deliver content that we think you might be interested in, and to display the content according to your preferences. We may share aggregate information about our users with third parties, such as advertisers. 
+\- To improve our service and the marketing of our service. This could include using your demographic location to improve targeting of our website and customise your visit.
 
-Merchant Moms may also disclose your personal information, the contents of your communications, and/or your contact and financial information if required to do so by law, or with your consent, or in the good faith belief that such action is necessary: 
+We will **NEVER** provide your personally identifiable information to any persons other than A law enforcement or regulatory agency at their request, third parties who provide services on our behalf such as payment processing, only if they agree not to miss use this information.
 
-  1. to conform to the edicts of the law or comply with a legal process served on Merchant Moms;
-  2. to protect and defend the rights or property of Merchant Moms or others; or
-  3. to assist, under exigent circumstances, in the investigation of securities law violations or other investigations.
+**We do not under any circumstances apart from the above give away or sell your information to any third parties.**
 
+Your personal information is **safe with us** , your information is safely encrypted using SSI. Our service is not available to anyone under the age of 13, never will we intentionally maintain information about anyone under the age of 13.
 
+### Cookies
 
-It is possible that as we continue to develop our business, Merchant Moms might be acquired. In such a transaction, your information may be transferred to the acquiring entity. 
+A cookie is a small text file that is stored on a users computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time much like the cookie used for our affiliate program. You can remove persistent cookies by following directions provided in your Internet browsers 'help' file. We set a persistent cookie to store your passwords, so you do not have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but you will be asked to enter your username and password again every time you closed your browser or your session has timed out.
 
-**Advertisers and Other Third Parties**
+### Log Files
 
-This site contains links to other sites. Merchant Moms is not responsible for the privacy practices or the content of such Web sites. 
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information to prevent and block abusers to keep using our services such as members who violates our terms of service. We use a third-party tracking service that uses cookies and log files to track non-personally identifiable information about visitors to our site in the aggregate of usage and volume statistics to determine how our users navigate through our website and to know how many users are using our services demographically. We use the information you provide about yourself or others to complete the transaction for which it is intended. This may include administering a service such as registration, email, forum, etc., or contacting you if you have indicated your permission to do so by agreeing to accept further notification and service announcement from us on your member profile page. You can choose to opt-out from receiving any further notification from your member profile page. We do not share this information with outside parties.
 
-We use third party ad companys to display some ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by the third party ad company, and we do not have access to this information. The privacy practices of companies who provide services or ads through our site are not covered by this Privacy Statement. Please contact those companies directly for more information about their privacy practices. 
+### Surveys
 
-**Changes to Our Policies**
+Upon using our free services, you may be requested to participate in our periodic internal surveys that are conducted by MerchantMoms, Inc. to determine your personal interests. These surveys are strictly voluntary. The data collected through these surveys will only be used to improve our products and services and will never be sold to any third parties.
 
-Merchant Moms's Privacy Statement may change from time to time. If we make any substantive changes to our policies, we will notify you by sending e-mail to the address provided by you, or by posting notice of changes to this Web site. Your use of the site after the changes constitutes your agreement with regard to information collected from you in the past and in the future. 
+### Communications From The Site
 
-**Security**
+When we receive email, we use return email addresses to reply with the information requested. Such addresses are not used for any other purpose and are not shared with outside parties. When supplying contact information to MerchantMoms, Inc. you can indicate your preference if you would like to be contacted to receive information and updates about our services by logging in to your MerchantMoms, Inc. account, going to your member profile page and choose not to receive any further notification emails from us or other information pertaining to MerchantMoms, Inc.. Information you submit to us will not be used for this purpose unless you indicate this as your preference. When supplying contact information to MerchantMoms, Inc. you can indicate your preference on your members profile page to participate in the MerchantMoms, Inc. newsletter. You will receive a confirmation email from us when placing an order on our site and paying through PayPal.
 
-This site has industry standard security measures in place to protect against the loss, misuse or alteration of the information under our control, but we cannot guarantee complete security. 
+### Newsletter
 
-**Use by Minors Prohibited**
+We provide you the opportunity to 'opt-in' and 'opt-out' of our newsletter at any time. Our newsletter is sent every month so it will certainly contain allot of useful information and any offers we may have. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them at any time.
 
-Merchant Moms is not intended for and should not be used by anyone under the age of 18. Merchant Moms complies with the Children's Online Privacy Protection Act and does not permit registration or use by anyone under the age of 13. 
+### Information Sharing and Disclosure
 
-**International Users**
+We collect information from our website visitors using [Google Analytics](http://www.google.com/analytics/). We use this information to better design our Web site and services. This information is never shared with any third party. We do not link aggregate user data with personally identifiable information.
 
-If you are an international User, by registering with Merchant Moms or by using our service, you agree that we may collect, use, and transfer your information as described in this Privacy Statement. If you reside in the European Union or other jurisdictions that provide access rights under law, you may access your information or have it corrected or updated in accordance with applicable law by contacting us. 
+### Personally Identifiable Information
 
-**Clients**
+MerchantMoms, Inc. does not share, sell, rent, or trade personally identifiable information with third parties. We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described within this privacy policy without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-Clients who have registered in order to use our services can change or update their account information and preferences by: 
+### How You Can Access /Correct Your Information
 
-  1. Visiting [your account page](https://web.archive.org/web/20080517143839id_/http%3A//welcome.php) or
-  2. [Creating a support ticket via our helpdesk](http://merchantmoms.com/helpdesk.php?subaction=helpdesk). 
+You can access all your personally identifiable information that we collect by logging into your password-protected MerchantMoms, Inc. account and selecting to update your 'My Details' We use this procedure to better safeguard your information. You can also correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
+### Specific Terms and Conditions
 
+MerchantMoms, Inc. considers email transmitted via our service to be the private correspondence between the sender and recipient. We will not monitor, edit or disclose the contents of a user`s private communications, except as required by law, to comply with legal process, if necessary to enforce the Service Agreement, to respond to claims that such contents violate the rights of third-parties, or to protect the rights or property of MerchantMoms, Inc.. By using the service you agree that technical processing of email communications is and may be required to send and receive messages, to conform to the technical requirements of connecting networks, to conform to the limitations of the Service, or to conform to other, similar technical requirements. By using the service you acknowledge and agree that MerchantMoms, Inc. do not endorse the content of any user communications and are not responsible or liable for any unlawful, harassing, libelous, privacy invading, abusive, threatening, harmful, vulgar, obscene, tortuous, or otherwise objectionable content, or content that infringes or may infringe the intellectual property or other rights of another.
 
-**Client Prospects**
+### Legal Disclaimer
 
-From time to time we will email client prospects whom we have reason to believe might be interested in our services because of their involvement in the public relations, investor relations, or related fields. Prospects can opt-out of future communications simply by replying to the email and indicating their preference. 
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
 
-**Subscribers**
+### Security
 
-We provide subscribers to our email newsletters with the opportunity to opt-out of receiving promotional communications at the point when we request your information. After they have signed up, subscribers can change their preferences regarding promotional communications, can subscribe to and/or unsubscribe from any of our email newsletters, and can modify other registration information previously provided to us by: 
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however we have taken every step possible to make your information safe. This website is protected by Secure Sockets Layer (SSL) to protect your information. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-  1. Visiting [your account page](https://web.archive.org/web/20080517143839id_/http%3A//welcome.php) or
-  2. Using the link provided at the bottom of any email newsletter we send to you.
+### Links To Other Sites
 
+This Web site contains links to other sites that are not owned or controlled by MerchantMoms, Inc.. Please be aware that we, MerchantMoms, Inc. are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.
 
+### Changes To This Privacy Statement
 
-**Contacting the Web Site**
-
-If you have any questions about this Privacy Statement, the practices of Merchant Moms, or your dealings with this Web site, you can contact us at the postal address, phone number, fax number, or email address listed below. 
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. For more information please do not hesitate to send your questions via our [contact form](http://merchantmoms.com/contact.php).
