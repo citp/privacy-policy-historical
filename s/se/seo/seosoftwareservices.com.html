@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the seosoftwareservices.com privacy policy that was archived on 2012-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524211341id_/http%3A//www.seosoftwareservices.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seosoftwareservices.com privacy policy that was archived on 2012-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121213171708id_/http%3A//seosoftwareservices.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,179 +12,282 @@
 <meta name="keywords" content="Privacy Policies, seo,seo services india,seo company india ">
 <meta name="description" content="seosoftwareservices Privacy Policy top SEO Company offering seo services, Search Engine optimization Web Site Design and web development .">
 
-
 <link href="css/style.css" rel="stylesheet" type="text/css">
 <link rel="Shortcut Icon" href="images/logo-icon.gif">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-
 <style type="text/css">
-
 #myslideshow{ margin-left:15px;}
-
+.error{ color:red;}
+#floatdiv1{
+position:fixed; 
+width: 121px; 
+height: 57px; 
+TOP: 50%; 
+right: 5px; 
+z-index:100;
+}
 </style>
+<!--[if lte IE 7]>
+<style>
+#floatdiv1{
+position:absolute; 
+width: 121px; 
+height: 57px; 
+TOP: 50%; 
+right: 5px; 
+z-index:100;
+}
+</style>
+<![endif]-->
 
-<script src="js/translucentslideshow.js" type="text/javascript"></script>
-
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery_slide.js"></script>
 <script type="text/javascript">
-
-var translideshow1=new translideshow({
-	wrapperid: "myslideshow", //ID of blank DIV on page to house Slideshow
-	dimensions: [176, 201], //width/height of gallery in pixels. Should reflect dimensions of largest image
-	imagearray: [
-		["images/portfolio/2.jpg"], //["image_path", "optional_link", "optional_target"]
-		["images/portfolio/3.jpg"],
-		["images/portfolio/4.jpg"],
-		["images/portfolio/5.jpg"], 
-		["images/portfolio/6.jpg"],
-		["images/portfolio/7.jpg"] //<--no trailing comma after very last image element!
-	],
-	displaymode: {type:'auto', pause:2000, cycles:800, pauseonmouseover:true},
-	orientation: "h", //Valid values: "h" or "v"
-	persist: true, //remember last viewed slide and recall within same session?
-	slideduration: 400 //transition duration (milliseconds)
-})
-
+$(document).ready(function() {
+    $('.slideshow').cycle({
+		fx: 'scrollUp' // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+	});
+    $('.slideshow2').cycle({
+		fx: 'fade' 
+	});	
+});
 </script>
 
 
-<!-- Js start here for tabbing -->
+<link href="SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
+<link href="SpryAssets/SpryMenuBarVertical.css" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" href="css/scroller.css" type="text/css"> 
-<link rel="stylesheet" href="css/articleScroller.css" type="text/css">
 
-<script language="javascript" type="text/javascript">AC_FL_RunContent = 0;</script>
-<!--<script src="video/AC_RunActiveContent.js" language="javascript"></script>-->
-
-<script type="text/javascript" src="js/jsfunction.js"></script>
-<!--Sliding JS and CSS-->
-<script src="js/jquery-1.2.6.js" type="text/javascript"></script>
-<script src="js/jquery.scrollTo-1.3.3.js" type="text/javascript"></script>
-<script src="js/jquery.localscroll-1.2.5.js" type="text/javascript" charset="utf-8"></script>
-<script src="js/jquery.serialScroll-1.2.1.js" type="text/javascript" charset="utf-8"></script>
-<!-- file for codaslider -->
-<script src="js/light/coda-slider.js" type="text/javascript" charset="utf-8"></script>
-<!-- end include file for codaslider -->
-
-<script type="text/javascript" src="js/js-1.js"></script>
-<!--End of Sliding JS and CSS-->
-<script type="text/javascript" src="js/SprySlidingPanels.js">// for Cirtification</script>
-<!--js for colapsible contact fort-->
-<script type="text/javascript" src="js/slideshow2.js">// for Meet us at</script>
-<script type="text/javascript" src="js/jsscroll.js">// for Meet us at</script>
 
 <!--Js close here for tabbing-->
+<script type="text/javascript" src="js/jquery.validate.js"></script>
 
-<script type="text/javascript" src="js/form-validation.js">// for Meet us at</script>
+
+
+
+<script type="text/javascript">
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+</script>
+<!-- Place this tag where you want the +1 button to render -->
+<!--<g:plusone annotation="inline"></g:plusone>-->
+
+<!-- Place this render call where appropriate -->
+<script type="text/javascript">
+ // (function() {
+    //var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    //po.src = 'https://apis.google.com/js/plusone.js';
+    //var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+ // });
+</script>
+
+
+
 </head>
+<body><div>
 
-<body>
-<table width="1000" border="0" cellspacing="0" cellpadding="0" align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" align="center" style="background-color:white; padding:0px; ">
   <tbody><tr>
     <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-              <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <td><table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none !important;">
+          <tbody><tr>
+            <td><table width="100%" border="0" cellspacing="0" cellpadding="0" class="borderTable">
               <tbody><tr>
-                <td width="36%" align="left" valign="middle"><h1><a href="http://www.seosoftwareservices.com" title="SEO India, SEO Services India, SEO Company India, SEO Expert India,SEO Firm India" target="_blank"><img src="images/logo.jpg" alt="SEO India, SEO Services India, SEO Company India, SEO Expert India,SEO Firm India" width="361" height="75" vspace="5" border="0"></a></h1></td>
-                <td width="21%" align="center" valign="middle"><a href="free-seo-analysis.html"><img src="images/request-anyalysis.gif" alt="" width="85" height="85" border="0"></a></td>
-                <td width="3%" align="center" valign="middle"><div style="position: absolute; width: 121px; height: 57px; top: 380px; left: 700px; z-index: 100;" id="floatdiv"> <a href="request-a-quote.html" rel="nofollow" target="_self"><img border="0" alt="SEO SERVICES QUOTATION" src="images/request.png" width="89" height="99"></a></div>
-  <script type="text/javascript" src="js/floating.js"></script></td>
+                <td width="36%" align="left" valign="middle"><h1><a href="http://www.seosoftwareservices.com" title="SEO India, SEO Company India" target="_blank"><img src="images/logo.jpg" alt="SEO India,SEO Company India" width="361" height="75" vspace="5" border="0"></a></h1></td>
+                <td width="21%" align="center" valign="middle"><a href="free-seo-analysis.html" rel="nofollow"><img src="images/request-anyalysis.gif" alt="" width="85" height="85" border="0"></a></td>
+                <td width="3%" align="center" valign="middle"><div id="floatdiv1"><a href="request-a-quote.html" rel="nofollow" target="_self"><img border="0" alt="SEO SERVICES QUOTATION" src="images/request.png" width="89" height="99"></a></div>
+  </td>
                 <td width="19%" align="center" valign="middle"><div align="center" id="VolusionLiveChat"><a href="http://www.volusion.com/livechat_software.asp"><img src="images/live-support.gif" alt="" width="155" height="40" border="0"></a></div><script defer="" type="text/javascript" src="https://livechat.volusion.com/script.aspx?id=701423"></script></td>
                 <td width="21%" align="center" valign="middle"><img src="images/phone.jpg" alt="" width="216" height="63" border="0" usemap="#Map"></td>
               </tr>
             </tbody></table></td>
-            </tr>
-            <tr>
-              <td class="navigation_bg"><ul id="MenuBar2" class="MenuBarHorizontal">
-                  <li><a href="index.html" title="seo company home" class="active">Home</a> </li>
-                <li><a href="seo_packages.html" title="SEO Packages India">SEO Packages</a></li>
-                <li><a href="smo.html" title="SMO Packages India">SMO Packages</a></li>
-                <li><a href="ppc_services.html" title="PPC Services India">PPC Services</a> </li>
-                <li><a href="website_designing_company_india.html" title="Website Designing India">Website Designing</a></li>
-                <li><a href="web_development.html" title="Web Development India">Web Development</a></li>
-                <li><a href="internet_mark.html" title="Internet Marketing India">Internet Marketing</a></li>
-                <li class="nobg"><a href="contactus.php">Contact us</a></li>
+          </tr>
+          <tr>
+            <td class="navigation_bg"><ul id="MenuBar2" class="MenuBarHorizontal">
+			
+ <li><a href="index.html" title="seo company India" class="">Home</a> </li>
+<li><a href="seo_packages.html" title="SEO Packages India" class="">SEO Packages</a></li>
+<li><a href="smo.html" title="SMO Packages India" class="">SMO Packages</a></li>
+<li><a href="ppc_services.html" title="PPC Services India" class="">PPC Services</a> </li>
+<li><a href="website_designing_company_india.html" title="Website Designing India" class="">Website Designing</a></li>
+<li><a href="web_development.html" title="Web Development India" class="">Web Development</a></li>
+<li><a href="internet_mark.html" title="Internet Marketing India" class="">Internet Marketing</a></li>
+<li class="nobg"><a href="contactus.php" class="">Contact us</a></li>
               </ul></td>
-            </tr>
-            <tr>
-              <td class="banner">&nbsp;</td>
-            </tr>
+          </tr>
+          <tr>
+            <td class="banner2" style="padding:0px; border:0px !important;"> 
+<img src="images/banner.jpg">
+</td>
+          </tr>
         </tbody></table></td>
       </tr>
       <tr>
-        <td align="right"><table width="98%" border="0" cellspacing="0" cellpadding="0">
+        <td align="left">
+		
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" class="borderTable">
           <tbody><tr>
-            <td width="213" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td>&nbsp;</td>
-              </tr>
+            <td width="213" valign="top">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr><td>&nbsp;</td></tr>
               <tr>
-                <td class="left"><h2>Seo Company India</h2>
-                    <ul>
-                      <li><a href="seoservices.html" title="SEO Services India">SEO Services</a></li>
-                      <li><a href="linkbuilding.html" title="LINK BUILDING India">Link Polularity Building</a></li>
-                      <li><a href="contentwriting.html" title="Content Writing India">SEO Content Writing</a></li>
-                      <li><a href="websubmission.html" title="Directory Submission India">Web Directory Submission</a></li>
-                      <li><a href="rsssubmission.html" title="BLOG &amp;RSS SUBMISSION India">Blog &amp; RSS Submission</a></li>
-                    </ul></td>
+                <td class="left sideBox"><h2>Seo Company India</h2>
+				<ul>
+				  <li><a href="seoservices.html" title="SEO Services India">SEO Services</a></li>
+				  <li><a href="linkbuilding.html" title="LINK BUILDING India">Link Polularity Building</a></li>
+				  <li><a href="contentwriting.html" title="Content Writing India">SEO Content Writing</a></li>
+				  <li><a href="websubmission.html" title="Directory Submission India">Directory Submission</a></li>
+				  <li><a href="rsssubmission.html" title="BLOG &amp;RSS SUBMISSION India">Blog &amp; RSS Submission</a></li>
+				</ul>
+			</td>
               </tr>
               <tr>
                 <td></td>
               </tr>
               <tr>
-                <td class="left"><h2>SEO Company ONLINE</h2>
-                    <ul>
-                      <li><a href="aboutus.html" title="Seo Company India">About us </a></li>
-                      <li><a href="software_india.html" title="Software Development India">Why Software</a></li>
-                      <li><a href="careers.html" title="Careers Seo Company India">India Careers</a></li>
-                      <li><a href="contactus.php" title="Contact Seo Company India">Contact Us</a></li>
-                    </ul></td>
+			  
+<td class="sideBox"><h2>Our Valuable Clients</h2>
+<div class="slideshow2" style="border: 0px solid; margin: 6px auto 5px; text-align: center; position: relative; width: 23px; height: 16px;">
+<a href="#" style="position: absolute; top: 0px; left: 0px; display: block; z-index: 7; opacity: 1;"><img src="client/client1.png" alt="1" align="center"></a>
+<a href="#" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 5; opacity: 0;"><img src="client/client2.png" alt="2" align="center"></a>
+<a href="#" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 4; opacity: 0;"><img src="client/client3.png" alt="3" align="center"></a>
+<a href="#" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 3; opacity: 0;"><img src="client/client4.png" alt="4" align="center"></a>
+<a href="#" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 2; opacity: 0;"><img src="client/client5.png" alt="5" align="center"></a>
+<a href="#" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 1; opacity: 0;"><img src="client/client6.png" alt="6" align="center"></a>
+</div>
+</td>
               </tr>
               <tr>
-                <td class="left"><h2>Our Portfolio</h2>
-                    <div id="myslideshow"></div>
-                  <p class="left" align="right"><a href="portfolio.html"><strong>more"</strong></a></p></td>
-              </tr>
+               <td class="sideBox"><h2>Our Portfolio</h2>
+<div class="slideshow" style="border: 0px solid; margin: 6px auto 5px; text-align: center; position: relative; width: 190px; height: 201px; overflow: hidden;">
+<a href="#" style="position: absolute; top: 0px; left: 0px; display: block; z-index: 13; opacity: 1;"><img src="thumb/thumb1_big.jpg" height="201" width="190" border="0" align="center"></a>
+<a href="#" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 11;"><img src="thumb/thumb2_big.jpg" height="201" width="190" border="0" align="center"></a>
+<a href="#" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 10;"><img src="thumb/thumb3_big.jpg" height="201" width="190" border="0" align="center"></a>
+<a href="#" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 9;"><img src="thumb/thumb4_big.jpg" height="201" width="190" border="0" align="center"></a>
+<a href="#" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 8;"><img src="thumb/thumb5_big.jpg" height="201" width="190" border="0" align="center"></a>
+<a href="#" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 7;"><img src="thumb/thumb6_big.jpg" height="201" width="190" border="0" align="center"></a>
+<a href="#" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 6;"><img src="thumb/thumb7_big.jpg" height="201" width="190" border="0" align="center"></a>
+<a href="#" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 5;"><img src="thumb/thumb8_big.jpg" height="201" width="190" border="0" align="center"></a>
+<a href="#" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 4;"><img src="thumb/thumb9_big.jpg" height="201" width="190" border="0" align="center"></a>
+<a href="#" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 3;"><img src="thumb/thumb10_big.jpg" height="201" width="190" border="0" align="center"></a>
+<a href="#" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 2;"><img src="thumb/thumb11_big.jpg" height="201" width="190" border="0" align="center"></a>
+<a href="#" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 1;"><img src="thumb/thumb12_big.jpg" height="201" width="190" border="0" align="center"></a>
+	</div>
+    <p class="left" align="right"><a href="web-development-portfolio.html" rel="nofollow"><strong>More&gt;&gt;</strong></a></p><br>
+    <link rel="stylesheet" type="text/css" href="css/testimonialrotator.css">
+ 	<script src="js/testimonialrotator.js" type="text/javascript"></script>
+	</td>
+    </tr>
+	<tr>
+<td class="sideBox"><h2>Client Testimonial</h2>	
+	<div class="testimonialrotator" style="height: 130px;">
+		<div class="testimonial" style="position: absolute;">
+		<span>"While handing over     your website for optimization to this company, you are handing it over     to someone who has expertise in the web marketing industry...."</span>
+		<div class="the-author">Austin Pasciak</div>
+		</div>
+
+		<div class="testimonial">
+		<span>"After One month 2500 extra back links are already done and i keep getting some more. Very good service, detailled report, and good customer support.That Excellent!"</span>
+		<div class="the-author">Joseph Smith</div>
+		</div>
+
+		<div class="testimonial">
+		<span>"We have received good returns on the investments we have made on online promotions thanks to the expert services offered by <b> SSS Technology </b> SEO team " </span>
+		<div class="the-author">Michael Doug</div>
+		</div>
+		<div style="clear:both"></div>
+	</div>
+	
+	<p class="left" align="right" style="margin-top:15px;"><a href="client_testimonials.html" rel="nofollow"><strong>More&gt;&gt;</strong></a></p><br>
+  <script>
+	$(document).ready(function($){
+      $(".testimonialrotator").testimonialrotator({
+			settings_slideshowTime:5
+			});
+});
+	</script>	
+	</td>
+	</tr>
+	
               <tr>
                 <td class="left" align="center"><h2>Request a Quote</h2>
-                    <form action="querymail.php" method="post" name="newform" id="newform" onsubmit="return checkFormData();">
-                      <table width="90%" border="0" cellspacing="0" cellpadding="0">
-                        <tbody><tr>
-                          <td height="10"></td>
-                        </tr>
-                        <tr>
-                          <td><input gtbfieldid="1" name="contact_person" class="input" value="Your Full Name..." onblur="if(this.value=='') this.value='Your Full Name...';" onfocus="if(this.value=='Your Full Name...') this.value='';" type="text"></td>
-                        </tr>
-                        <tr>
-                          <td><input gtbfieldid="2" name="telephone" class="input" value="Your Telephone..." onblur="if(this.value=='') this.value='Your Telephone...';" onfocus="if(this.value=='Your Telephone...') this.value='';" type="text"></td>
-                        </tr>
-                        <tr>
-                          <td><input gtbfieldid="2" name="email" class="input" value="Your Email Id..." onblur="if(this.value=='') this.value='Your Email Id...';" onfocus="if(this.value=='Your Email Id...') this.value='';" type="text"></td>
-                        </tr>
-                        <tr>
-                          <td><textarea name="message1" rows="5" class="input" id="message1" onfocus="if(this.value=='Message'){this.value=''};" onblur="if(this.value==''){this.value='Message'};">Message</textarea></td>
-                        </tr>
-                        <tr>
-                          <td height="10"></td>
-                        </tr>
-                        <tr>
-                          <td align="center"><label>
-                            <input value="Submit" class="submit" type="submit" name="Submit">
-                            <input type="hidden" name="send1" value="send1">
-                          </label></td>
-                        </tr>
-                        <tr>
-                          <td align="center">&nbsp;</td>
-                        </tr>
-                      </tbody></table>
-                    </form></td>
+               <form action="querymail.php" method="post" name="newform" id="newform" onsubmit="return checkFormData();">
+			   <table width="90%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td><input name="contact_person" class="input" value="Your Full Name..." onblur="if(this.value=='') this.value='Your Full Name...';" onfocus="if(this.value=='Your Full Name...') this.value='';" type="text"></td>
+  </tr>
+  <tr>
+    <td><input name="telephone" class="input" value="Your Telephone..." onblur="if(this.value=='') this.value='Your Telephone...';" onfocus="if(this.value=='Your Telephone...') this.value='';" type="text"></td>
+  </tr>
+    <tr>
+    <td><input name="email" class="input" value="Your Email Id..." onblur="if(this.value=='') this.value='Your Email Id...';" onfocus="if(this.value=='Your Email Id...') this.value='';" type="text"></td>
+  </tr>
+
+  <tr>
+    <td><textarea name="message1" rows="5" class="input" id="message1" onfocus="if(this.value=='Message'){this.value=''};" onblur="if(this.value==''){this.value='Message'};">Message</textarea></td>
+  </tr>
+  <tr>
+     <td height="10"></td>
+  </tr>
+  <tr>
+    <td align="center"><label>
+    <input value="Submit" class="submit" type="submit" name="Submit"><input type="hidden" name="send1" value="send1">
+    </label></td>
+  </tr>
+
+
+
+
+  <tr>
+               <td class="left">
+               <p align="center"><a href="#" rel="nofollow"><img src="images/payment_methods.jpg" alt="" width="128" height="128" border="0"></a></p>
+                 
+          </td>
+
+ </tr>
+           
+</tbody></table>
+               </form>
+
+               </td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
               </tr>
-            </tbody></table></td>
-            <td width="760" valign="top" align="right"><table width="731" border="0" cellspacing="0" cellpadding="0">
+            </tbody></table>
+<!--End-sdiebar-->
+			
+			</td>
+			
+            <td width="770" valign="top" align="right" style="padding-right:8px;">
+						<!--start-content-->
+			<table width="97%" align="right" border="0" cellspacing="0" cellpadding="0">
+
             <tbody><tr></tr>
               <tr>                            </tr>
               <tr>
@@ -209,26 +312,24 @@ It is our sole discretion to amend this privacy policy at any  point of time. Ho
               <tr>
                 <td>&nbsp;</td>
               </tr>
-            </tbody></table></td>
+            </tbody></table>						</td>
           </tr>
         </tbody></table></td>
       </tr>
       <tr>
         <td class="footer"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="52%"><a href="aboutus.html" title="Seo Company India">About Us</a> :: <a href="privacy.html" title="Privacy Seo Company India">Privacy Policy</a> :: <a href="sitemap.html" title="Sitemap Seo Company India">Sitemap</a> :: <a href="resources.html" title="Resouraces Seo Company India">Resources</a> :: <a href="contactus.php" title="Contact Seo Company India">Contact Us</a> :: <a href="seoindia/" title="Blog Seo Company India">Blog</a>::<a href="http://www.seoindiacompany.in" title="SEO India" target="_blank">SEO India</a><br>
-                <a href="http://www.seosoftwareservices.com" title="SEO India" target="_blank">SEO India</a> :: <a href="seoservices.html" title="SEO Services India" target="_blank">SEO Services India</a> :: <a href="http://www.seosoftwareservices.com" title="SEO Company India" target="_blank">SEO Company India</a> :: <a href="web_development.html" title="PHP Development India" target="_blank"> PHP Development India</a> :: <a href="ppc_services.html" title="PPC Services India" target="_blank">PPC Services India</a><br>
-                <a href="internet_mark.html" title="Internet Marketing India" target="_blank">Internet Marketing India</a> :: <a href="linkbuilding.html" title="Link Building India" target="_blank">Link Building India</a> :: <a href="http://www.seosoftwareservices.com/" title="SEO Services India" target="_blank">SEO Services India</a></td>
+           <tbody><tr>
+            <td width="52%"><a href="aboutus.html" rel="nofollow" title="Seo Company India">About Us</a> :: <a href="privacy.html" rel="nofollow" title="Seo Company India Privacy">Privacy Policy</a> :: <a href="sitemap.html" title="Seo Company India Sitemap">Sitemap</a> :: <a href="resources.html" title="Resouraces Seo Company India">Resources</a> :: <a href="contactus.php" rel="nofollow" title="Contact Seo Company India">Contact Us</a> :: <a href="http://www.seosoftwareservices.com/seoindia/" title="Blog Seo Company India">SEO Blog</a>::<a href="http://www.seoindiacompany.in" title="SEO India" target="_blank">SEO India</a><br>
+                <a href="http://www.seosoftwareservices.com" title="SEO India" target="_blank">SEO India</a> :: <a href="seoservices.html" title="SEO Services India" target="_blank">SEO Services India</a> :: <a href="http://www.seosoftwareservices.com" title="SEO Company India" target="_blank">SEO Company India</a> :: <a href="web_development.html" title="Web Development India" target="_blank"> WEB Development India</a> :: <a href="ppc_services.html" title="PPC Services India" target="_blank">PPC Services India</a><br>
+                <a href="internet_mark.html" title="Internet Marketing India" target="_blank">Internet Marketing India</a> :: <a href="linkbuilding.html" title="Link Building India" target="_blank">Link Building India</a>:: <a href="http://www.seosoftwareservices.com/contentwriting.html" title="Content Writing India" target="_blank">Content Writing India</a></td>
             <td width="48%" align="right">Search Engine Optimization Company- SEO Software Services India<br>
-              Copyright © 2008-09 SEO Software Services India. All rights reserved<br>
-              Powered By <a href="http://www.seosoftwareservices.com" title="SEO Company India, SEO India" target="_blank">seosoftwareservices.com</a></td>
-          </tr>
-        </tbody></table></td>
+              Copyright © 2008-2012 SEO Software Services India. All rights reserved<br>
+              Powered By <a href="http://www.seosoftwareservices.com" title="SEO Company India, SEO India" target="_blank">SSS Technology</a></td>
+          </tr>   </tbody></table></td>
       </tr>
     </tbody></table></td>
   </tr>
 </tbody></table>
-
 <script type="text/javascript">
 <!--
 var MenuBar2 = new Spry.Widget.MenuBar("MenuBar2", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
@@ -239,5 +340,7 @@ var MenuBar2 = new Spry.Widget.MenuBar("MenuBar2", {imgDown:"SpryAssets/SpryMenu
   <area shape="rect" coords="4,2,216,30" href="mailto:sales@seosoftwareservices.com">
 <area shape="rect" coords="7,36,120,62" href="http://www.skype.com/intl/en/home">
 </map>
+</div>
+
 
 </body></html>
