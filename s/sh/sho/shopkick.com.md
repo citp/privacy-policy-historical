@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shopkick.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504112456id_/http%3A//shopkick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopkick.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213060750id_/http%3A//www.shopkick.com/privacy-policy) for the most accurate reproduction.*
 
 # shopkick | privacy policy
 
-[](https://web.archive.org/web/20120504112456id_/http%3A//shopkick.com/index)
+[](https://web.archive.org/web/20121213060750id_/http%3A//www.shopkick.com/index)
 
-At shopkick, Inc., we are very focused on making the shopkick experience a great one for you. We have great respect for your personal privacy — this concern is at the heart of our company. In order to provide a useful service to you when you are shopping, though, we need data from you; otherwise we cannot give useful offers and ways to earn rewards, which match the environment or location you are in, and that match the preferences you have. Our commitment to you is that whenever we collect and process data from you, we will do so with your and the other shopkick users’ benefit in mind, either for immediate benefit or for longer-term benefit, by making the shopkick experience better and better for you. In this document, we provide our Privacy Policy to you to inform you in more detail of our policies and procedures regarding the collection, use, and disclosure of the information that we collect and receive from users of our Services. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service <http://www.shopkick.com/terms-of-service.html>. This Privacy Policy applies to information that is provided or collected through all the Services provided by shopkick, Inc.
+At shopkick, Inc., we are very focused on making the shopkick experience a great one for you. We have great respect for your personal privacy — this concern is at the heart of our company. In order to provide a useful service to you when you are shopping, though, we need data from you; otherwise we cannot give useful offers and ways to earn rewards, which match the environment or location you are in, and that match the preferences you have. Our commitment to you is that whenever we collect and process data from you, we will do so with your and the other shopkick users’ benefit in mind, either for immediate benefit or for longer-term benefit, by making the shopkick experience better and better for you. In this document, we provide our Privacy Policy to you to inform you in more detail of our policies and procedures regarding the collection, use, and disclosure of the information that we collect and receive from users of our Services. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service <http://www.shopkick.com/terms-of-service.html>. This Privacy Policy applies to information that is provided or collected through all the Services provided by shopkick, Inc.
 
 ### What Information Do We Collect?
 
@@ -14,7 +14,7 @@ When you sign up for your Account or use our Services (either on your mobile pho
 
 Personal Information You May Provide To Us
 
-When you use our Services, we may ask that you provide us with some personally identifiable information—information about you that can be used to contact or identify you, and information on your use or potential use of the Services and related services ( _“Personal Information”_ ). Personal Information that we might collect may include things like your name, mobile phone number, other phone numbers, email address, home address, and, if you elect to share this information with us, store loyalty card numbers for our Affiliated Partners’ (as defined below) stores and other stores, and, where useful for your use of the service, credit card, debit card or store card information. Personal Information may also include other information you supply to us concerning your preferences and interests expressed in the course of using the Services.
+When you use our Services, we may ask that you provide us with some personally identifiable information—information about you that can be used to contact or identify you, and information on your use or potential use of the Services and related services ( _“Personal Information”_ ).Personal Information that we might collect may include things like your name, mobile phone number, other phone numbers, email address, home address, and, if you elect to share this information with us, store loyalty card numbers for our Affiliated Partners’ (as defined below) stores and other stores, and, where useful for your use of the service, credit card, debit card or store card information. Personal Information may also include other information you supply to us concerning your preferences and interests expressed in the course of using the Services.
 
 Information About You We May Obtain Through Other Sources
 
@@ -32,7 +32,7 @@ The terms “using” and “processing” information, as used in this policy, 
 
 Personal Information
 
-We use Personal Information only for the following purposes: (i) to administer the Services, (ii) to provide, improve and optimize the Services, (iii) to personalize your experience, (iv) to provide you with software updates and/or product announcements, (v) to better understand users' needs and interests, and (vi) to provide you with further information and offers from us that we believe you may find useful or interesting, such as targeted advertising and promotional campaigns.
+We use Personal Information only for the following purposes: (i) to administer the Services, (ii) to provide, improve and optimize the Services, (iii) to personalize your experience, (iv) to provide you with software updates and/or product announcements, (v) to better understand users’ needs and interests, and (vi) to provide you with further information and offers from us that we believe you may find useful or interesting, such as targeted advertising and promotional campaigns.
 
 We may match data from your transactions with Affiliated Partners and/or the content information with our usage data in a personally identifiable form in order to perform accounting reconciliation and/or provide targeted offers and/or rewards or discounts to you; but to protect your privacy, our Affiliated Partners and shopkick will perform this matching in a protected environment that does not allow our Affiliated Partners to gain Personal Information you have not opted in to disclose to them, unless you choose to identify yourself at the Affiliated Partner’s store as a shopkick user to use an offer or redeem a reward (e.g., by telling the store’s cashier your cell phone number, or by using a loyalty account that has been linked to your shopkick account). By enabling an Affiliate Partner to identify you as a shopkick user, you are allowing them to identify and store that transaction as a shopkick-related transaction along with your shopkick identifier.
 
@@ -74,11 +74,11 @@ You may review, update, correct or delete your Personal Information in your regi
 
 We employ administrative and electronic measures designed to safeguard and protect your information from unauthorized access and disclosure. In addition, we will delete information after it is no longer useful for providing the Services.
 
-We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Services in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Services in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system..
 
 ### International Transfer
 
-Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. Our Privacy Policy and its protection for you still applies there. If you are located outside the United States and choose to provide information to us, shopkick may transfer your Personal Information to the United States and processes it there. Your submission of such information represents your agreement to that transfer.
+Your information may be transferred to  — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. Our Privacy Policy and its protection for you still applies there. If you are located outside the United States and choose to provide information to us, shopkick may transfer your Personal Information to the United States and processes it there. Your submission of such information represents your agreement to that transfer.
 
 ### Links to Other Sites
 
@@ -94,8 +94,10 @@ By using any part of the Services, you agree to the current Privacy Policy and T
 
 ### How Can I Contact shopkick?
 
-We are always trying to make shopkick's Services better. If you have any questions about this Privacy Policy, please contact us at [myprivacy@shopkick.com](mailto:myprivacy@shopkick.com).
+We are always trying to make shopkick’s Services better. If you have any questions about this Privacy Policy, please contact us at [myprivacy@shopkick.com](mailto:myprivacy@shopkick.com). Our office is located at 558 Waverley St #200, Palo Alto, CA 94301. Phone: (650) 763 8727.
+
+If you would like to change your email unsubscribe setting, please follow this link <http://app.shopkick.com/shopkick/v1/user/show_email_unsubscribe>.
 
 We hope you will enjoy using shopkick.
 
-Last Updated: October 19, 2011
+Last Updated: December 07, 2012
