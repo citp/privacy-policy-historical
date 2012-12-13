@@ -1,12 +1,27 @@
-> *The following text is extracted and transformed from the liteforex.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622094717id_/http%3A//www.liteforex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liteforex.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213062645id_/http%3A//www.liteforex.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LiteForex
 
-  * [LiteForex](https://web.archive.org/)
-→
-  * [Privacy Policy](https://web.archive.org/privacy/)
+[](http://www.liteforex.com/)
+
+  * [Client's Profile](https://secure.liteforex.com/)
+  * Live Chat 
 
 
+
+[](http://www.liteforex.com/company/awards/100-world-finance)
+
+LiteForex respects each individual's right to privacy
+
+[ Opentrading account ](https://secure.liteforex.com/profile/register)
+* [About us](https://web.archive.org/company/)
+* [Our history](https://web.archive.org/company/history/)
+* [Mission](https://web.archive.org/company/mission/)
+* [Advantages](https://web.archive.org/company/advantages/)
+* [Аchievements](https://web.archive.org/company/achievements/)
+* [Company news](https://web.archive.org/trading/company-news/)
+* [Career](https://web.archive.org/career/)
+* [Contacts](https://web.archive.org/contacts/)
 
 LiteForex respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients as well as our current clients.
 
