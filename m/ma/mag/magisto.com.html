@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the magisto.com privacy policy that was archived on 2012-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615121857id_/http%3A//www.magisto.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the magisto.com privacy policy that was archived on 2012-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121213015416id_/http%3A//www.magisto.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8"> 
@@ -9,7 +9,7 @@
 <link rel="shortcut icon" href="/media/images/favicon2.ico" type="image/vnd.microsoft.icon">
 <link rel="icon" href="/media/images/favicon2.ico" type="image/x-icon">
 
-<link rel="stylesheet" type="text/css" href="/media/css/global.css?ver=17">
+<link rel="stylesheet" type="text/css" href="/media/css/global.css?ver=21">
 
 <meta name="description" content="Magisto - Privacy Policy">
 
@@ -29,10 +29,12 @@ h2 {
 }
 </style>
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="http://drrrhyhe9lfip.cloudfront.net/media/js/jquery-1.5.1.min.js"></script>
-<script src="http://drrrhyhe9lfip.cloudfront.net/media/js/jquery.simplemodal.1.4.1.min.js"></script>
 
-<script src="/media/js/global2.js?ver=16"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="http://drrrhyhe9lfip.cloudfront.net/media/js/jquery-1.5.1.min.js"></script>
+
+<script src="http://drrrhyhe9lfip.cloudfront.net/media/js/jquery.simplemodal.1.4.3.min.js"></script>
+
+<script src="/media/js/global2.js?ver=20"></script>
 
 
 
@@ -41,9 +43,14 @@ h2 {
 
 <body>
 
-   
-    
-   
+		
+			 
+					 
+			
+	
+	    
+	   
+
    
    
    <div id="bgdiv">
@@ -92,11 +99,14 @@ h2 {
 		});
 	
 		function onLoginboxFBLogin() {
+			/* tmp use redirect */
+			//document.location.href = 'http://www.facebook.com/dialog/oauth?client_id=192161334139408&scope=email,user_about_me,publish_actions&redirect_uri=' + encodeURIComponent('http://www.magisto.com/privacy');	
+					
 			FB.login(function(response) {
 				  if (response.authResponse) {
 				  	$('#lform form').append("<input type='hidden' id='method' name='method' value='FB' />").submit();
 				  }
-			}, {scope:'email,user_about_me,publish_actions'});			
+			}, {scope:'email,user_about_me,publish_actions'});					
 		}
 		
 		function show_login(state, do_focus) {
@@ -108,13 +118,17 @@ h2 {
 		}
 		
 		function toggle_login() {
+			if ($("#header_sign_in_link").hasClass("si_active")) 
+				$("#header_sign_in_link").removeClass("si_active").addClass('si_inactive')
+			else 
+				$("#header_sign_in_link").removeClass("si_inactive").addClass("si_active")
 			show_login(!$('#lform_wrapper').hasClass('lform_bck'), true);
 		}
 		
 		
 		function openPopupWindow(openid) {
-  	      write_cookie("next", "/privacy", 0.2, "/", ".www.magisto.com");
-          window.open('/login/google-hybrid/', 'openid_popup', 'width=790,height=580,resizable=yes');
+  	      write_cookie("next", "", 0.2, "/", ".www.magisto.com");
+          window.open('/login/google/', 'openid_popup', 'width=890,height=580,resizable=yes');
         }
 		function handleOpenIDResponse(next, error) {
 	        if (error != "") {
@@ -126,19 +140,45 @@ h2 {
 		        window.location.replace(next)
 	    }
 	</script>
+	<style type="text/css">
+		#header_action_links {float:right; margin-right:20px;margin-top:8px;}
+		.header_action_separator { font-size:22px; color: #18639a; font-weight:normal; display:block; float:left; width:40px; text-align:center;}
+		.header_action_link { font-size:16px; font-weight:bold; color: #18639a; display:block; float:left;}
+		.header_action_link:hover { text-decoration:underline;}
+		#header_sign_in_link { cursor:pointer; display:block; position:relative; left:10px; float:right; margin-left:6px; font-weight:bold; border-radius: 4px; -moz-border-radius:4px; -webkit-border-radius:4px; behavior: url(/media/css/PIE.htc);}
+		.si_inactive { background-color:#27649d; color:#ffffff;}
+		.si_active { background-color:#ffffff; color:#27649d;} 
+		
+	</style>
 	
-	<div id="login_hdr">Already a user? <a href="javascript:toggle_login()"><span style="font-weight:bold;color:#17649a;margin-left:12px;">Sign in</span></a></div>
+	<div id="login_hdr">
+	    <div id="header_sign_in">
+	        <div id="header_sign_in_link" class="si_inactive" onclick="toggle_login()"><div style="width:80px;height:26px; padding-top:4px;text-align:center">Sign in</div></div>
+	    </div>
+	    <div id="header_action_links">
+    	    <a class="header_action_link" href="/featured-videos">Popular</a><span class="header_action_separator">/</span>
+    	     
+	    	    
+	    	    <a class="header_action_link" href="/account/signup?next=http%3A//www.magisto.com/privacy">Create account</a>
+	    	        	    
+	    	
+	    </div>
+	</div>
+	<!--  <div id="login_hdr">Already a user? <a href="javascript:toggle_login()" ><span style="font-weight:bold;color:#17649a;margin-left:12px;">Sign in</span></a></div>-->
 	
 	<div id="lform" style="display:none">
 	  <form id="llform" action="/auth" method="post">
-		    <input type="hidden" name="csrfmiddlewaretoken" value="738a82ee1e93b9e883117b8f61da6322">
-		    <input type="hidden" name="next" value="/privacy">
-		    
-		    
+		    <input type="hidden" name="csrfmiddlewaretoken" value="c6583da1c9b61e5b7a38996f44731bb6">
+		     
+		    	
+		    		<input type="hidden" name="next" value="http://www.magisto.com/privacy">
+		    	  
+		    		    
+		    		    
 	       <div class="inner" style="border-right:1px solid #bfbfbf">
 	          <div class="lform_title">Log in via</div>
-				<a href="javascript:onLoginboxFBLogin()" class="ex_login_btn" style="background-image:url(/media/images/login_fb_new.png);margin-bottom:12px;"></a>
-	            <a href="javascript:openPopupWindow();" class="ex_login_btn" style="background-image:url(/media/images/login_gl_new.png);"></a>
+				<a href="javascript:onLoginboxFBLogin()" class="ex_login_btn" style="background-image:url(/media/images/connect/fb.png);margin-bottom:8px;"></a>
+	            <a href="javascript:openPopupWindow();" class="ex_login_btn" style="background-image:url(/media/images/connect/gplus.png);"></a>
 	            <div id="login_ex_error" class="error" style="margin-top:10px;display:none;">Error authenticating</div>
 	       </div>
 	       <div class="inner">
@@ -451,12 +491,13 @@ changes in advance.</span><p></p>
     <div id="footer_wrapper">
 	    <div id="footer">
 	    	<a href="/" class="logo_ftr"></a>
-	    	<span class="trademark">® 2012 Magisto, LLC</span>
+	    	<span class="trademark">® 2012 SightEra Technologies Ltd.</span>
 	    	<div id="footer_tools">
 	    		<a href="/privacy" onclick="track_event('footer','privacy','')">Privacy</a>
 	    		<a href="/tos" onclick="track_event('footer','terms','')">Terms</a>
 	    		<a href="/about" onclick="track_event('footer','about','')">About</a>
 	    		<a href="http://blog.magisto.com" onclick="track_event('footer','blog','')">Blog</a>
+	    		<a href="http://developers.magisto.com" onclick="track_event('footer','developer','')">Developers</a>
 	    		<a href="#" onclick="track_event('footer','feedback','');return feedback_open()">Feedback</a>
 	    		<a href="/faq" onclick="track_event('footer','faq','')">FAQ</a>
 	    		<a href="/videoarticles" onclick="track_event('footer','resources','')">Tips</a>
@@ -470,6 +511,10 @@ changes in advance.</span><p></p>
    
    
    </div>
+
+
+
+
 
 
 
@@ -496,6 +541,7 @@ changes in advance.</span><p></p>
 
 
 var _static_url = 'http://drrrhyhe9lfip.cloudfront.net/media/';
+var _is_mobile = false;
 
 </script>
 
