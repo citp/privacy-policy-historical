@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ino.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629112631id_/http%3A//www.ino.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ino.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213213759id_/http%3A//www.ino.com/help/privacy.html) for the most accurate reproduction.*
 
 # INO.com Help - Privacy Policy
 
@@ -15,25 +15,3 @@ Where custom portfolio services are concerned, the use of cookies may also be us
 With e-mail, we will only add you to one of our e-mail lists if you have requested it. In addition, all of INO.com's e-mail services are accompanied by a simple-to-use facility for unsubscribing. You may click the unsubscribe link at the bottom of any e-mail. This will take you to a page where you can remove yourself from any or all subscribed lists. We will attempt to process this request within 24 business hours. You may also manage your subscriptions at <http://www.ino.com/email/>. 
 
 We are committed to serve you in a discreet and professional manner.
-
-[](http://www.facebook.com/pages/Shady-Side-MD/INOcom-Inc/90042128944) [](http://twitter.com/marketclub) [](http://www.youtube.com/user/marketclub)
-
-  * [Pulse](http://www.ino.com/)
-  * [Markets](http://quotes.ino.com/)
-  * [News](http://news.ino.com/)
-  * [Showcase](http://showcase.ino.com/)
-  * [Blog](http://club.ino.com/trading/)
-  * [Help](http://www.ino.com/help/)
-  * [Contact Us](http://www.ino.com/help/contact.html)
-  * [Usage Agreement](http://www.ino.com/help/copyright.html)
-  * [Privacy Policy](http://www.ino.com/help/privacy.html)
-
-
-
-© Copyright 1995–2020 INO.com, Inc. All Rights Reserved. 
-
-U.S. Government Required Disclaimer - Commodity Futures Trading Commission Futures and Options trading has large potential rewards, but also large potential risk. You must be aware of the risks and be willing to accept them in order to invest in the futures and options markets. Don't trade with money you can't afford to lose. This is neither a solicitation nor an offer to Buy/Sell futures or options. No representation is being made that any account will or is likely to achieve profits or losses similar to those discussed on this web site. The past performance of any trading system or methodology is not necessarily indicative of future results.
-
-CFTC RULE 4.41 - HYPOTHETICAL OR SIMULATED PERFORMANCE RESULTS HAVE CERTAIN LIMITATIONS. UNLIKE AN ACTUAL PERFORMANCE RECORD, SIMULATED RESULTS DO NOT REPRESENT ACTUAL TRADING. ALSO, SINCE THE TRADES HAVE NOT BEEN EXECUTED, THE RESULTS MAY HAVE UNDER-OR-OVER COMPENSATED FOR THE IMPACT, IF ANY, OF CERTAIN MARKET FACTORS, SUCH AS LACK OF LIQUIDITY. SIMULATED TRADING PROGRAMS IN GENERAL ARE ALSO SUBJECT TO THE FACT THAT THEY ARE DESIGNED WITH THE BENEFIT OF HINDSIGHT. NO REPRESENTATION IS BEING MADE THAT ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PROFIT OR LOSSES SIMILAR TO THOSE SHOWN.
-
-All trades, patterns, charts, systems, etc., discussed in this advertisement and the product materials are for illustrative purposes only and not to be construed as specific advisory recommendations. All ideas and material presented are entirely those of the author and do not necessarily reflect those of the publisher or INO.com. No system or methodology has ever been developed that can guarantee profits or ensure freedom from losses. No representation or implication is being made that using the MarketClub methodology or system will generate profits or ensure freedom from losses. The testimonials and examples used herein are exceptional results, which do not apply to the average member, and are not intended to represent or guarantee that anyone will achieve the same or similar results. Each individual's success depends on his or her background, dedication, desire, and motivation. 
