@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etrailer.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622101907id_/http%3A//www.etrailer.com/faq-ordering.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etrailer.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214005356id_/http%3A//www.etrailer.com/faq-ordering.aspx%23privacy) for the most accurate reproduction.*
 
 # Ordering Information | etrailer.com
 
@@ -20,9 +20,9 @@ We accept payment by Visa, MasterCard, Discover, American Express, and ATM/Debit
 
 ### Satisfaction Guarantee
 
-Within 60 days of receipt of your shipment, you may return any new, unused item for a full product refund. No questions. Simply contact our Customer Service team for a return authorization number. They will give you instructions on packaging your return and the best address to send your package for quick processing of your shipment. Items covered by our risk free guarantee never have a restocking fee unless the complete item is not returned or it has been used.
+Within 60 days of receipt of your shipment, you may return any new, unused item for a full product refund. No questions. Simply contact our Customer Service team for a return authorization number. They will give you instructions on packaging your return and the best address to send your package for quick processing of your shipment. Items covered by our risk free guarantee never have a restocking fee unless the complete item is not returned.
 
-If your shipment arrives and is missing any parts, no problem. Just contact us within 5 days of the receipt of the order. We will have the replacement items shipped to you from the quickest source available, using the same expedited shipping method you used for your original order.
+If your shipment arrives and is missing any parts please let us know. Just contact us within 5 days of the receipt of the order and we will have the missing parts shipped to you from the quickest source available. Our customer service associate will discuss the delivery time frame with you.
 
 Please note that we cannot exchange items. Simply place a new order for the items you would like. When the original order is returned a credit will be issued for the items.
 
@@ -33,14 +33,14 @@ You can also cancel unshipped items. Contact our Customer Service team at 800-29
 
 ### Problems or Questions?
 
-If you have any problems with your order, please don't hesitate to [Contact Us](https://web.archive.org/web/20120622101907id_/http%3A//contact.aspx) online or toll free at 800-298-8924.
+If you have any problems with your order, please don't hesitate to [Contact Us](https://web.archive.org/web/20121214005356id_/http%3A//contact.aspx) online or toll free at 800-298-8924.
 
   
 
 
 ### Refunds
 
-We will notify you via e-mail of your refund once we have received and processed the returned item. Please allow 14 business days from the date we receive your shipment for the processing of your shipment and the credit back to your account that was used for the original purchase. Actual shipping and handling charges will be deducted from the product credit unless the return is a result of our error.
+Please allow 14 business days from the date we receive your shipment for the processing of your shipment and the credit back to your account that was used for the original purchase. Actual shipping and handling charges will be deducted from the product credit unless the return is a result of our error. Once completed the return will show as part of your order history which can be viewed [here](http://www.etrailer.com/tracking.aspx).
 
   
 
@@ -89,7 +89,7 @@ We use cookies as a way to provide you with better service. Cookies personalize 
 
 We use our huge buying power to offer the lowest prices. If you have found a lower advertised price with the same item in stock, we would like to know about it. For your help, we will refund you 110% of the difference in the delivered price (cost of product plus shipping/handling charges). This offer is valid on the identical product and model number. We can not honor competitor close-outs, liquidations, rebates, free-with-purchase offers or auctions.
 
-Simply [contact us](https://web.archive.org/web/20120622101907id_/http%3A//contact.aspx). Include your order number and a link to the website where you have found the lower priced in-stock item. We will issue a credit to the card that was used for your purchase for 110% of the difference in the delivered price.
+Simply [contact us](https://web.archive.org/web/20121214005356id_/http%3A//contact.aspx). Include your order number and a link to the website where you have found the lower priced in-stock item. We will issue a credit to the card that was used for your purchase for 110% of the difference in the delivered price.
 
 You must order from etrailer.com in order to qualify for the price match. Also, the request must be within 30 days of order.
 
@@ -101,7 +101,7 @@ It is not just a pledge. It's a promise.™
 
 ## Privacy Policy
 
-etrailer.com is committed to protecting your privacy. The information we collect is to ensure secure ordering and to provide a more personalized shopping experience. You can help us protect your privacy by not sharing your user name or password with anyone. If you have any concerns, comments or complaints, be sure to [contact us](https://web.archive.org/web/20120622101907id_/http%3A//contact.aspx).
+etrailer.com is committed to protecting your privacy. The information we collect is to ensure secure ordering and to provide a more personalized shopping experience. You can help us protect your privacy by not sharing your user name or password with anyone. If you have any concerns, comments or complaints, be sure to [contact us](https://web.archive.org/web/20121214005356id_/http%3A//contact.aspx).
 
   
 
