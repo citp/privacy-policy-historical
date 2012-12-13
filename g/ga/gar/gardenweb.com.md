@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardenweb.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615014840id_/http%3A//www.ivillage.com/about/0%2C%2Cqqzh%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardenweb.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213070901id_/http%3A//www.ivillage.com/privacy-policy/8-a-257153) for the most accurate reproduction.*
 
 # Privacy Policy - iVillage
 
