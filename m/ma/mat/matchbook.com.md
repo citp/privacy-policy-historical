@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matchbook.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615121630id_/http%3A//www.matchbook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matchbook.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213153321id_/https%3A//www.matchbook.com/privacy-policy) for the most accurate reproduction.*
 
 # Matchbook Betting Exchange - Our Privacy Policy
 
@@ -42,13 +42,11 @@ Matchbook will use your Personal Information to:
 
 If you do not wish to receive future marketing, promotional or sales material from Matchbook, you may contact us to opt-out from this type of communication.
 
-Matchbook will also retain such information as is necessary to investigate any suspected or actual criminal activity or, in respect of any events listed on Matchbook, any threat, perceived or otherwise, to the integrity of that event and/or breaches of the rules as laid down by the relevant governing body.
+Matchbook may also pass on your Personal Information to trusted third parties in order to assist us with the purposes listed above. Such disclosures to trusted third parties enables us to provide you with the best user experience on our site and shall not be used for the purposes of marketing other goods or services to you. Although we cannot accept responsibility for the actions of third parties, ouor trusted third parties have strict policies regarding the safeguarding and use of personal information and we have obtained written assurances about their use of your Personal Information.
 
-**Confidentiality**
+Matchbook will also retain such information as is necessary to investigate any suspected or actual criminal activity or, in respect of any events listed on Matchbook, any threat, perceived or otherwise, to the integrity of that event and/or breaches of the rules as laid down by the relevant governing body. We reserve the right to pass on any information to any public, regulatory, sporting or other relevant authority as may be required in order to carry out any investigation and prosecution into such matters.
 
-We will not disclose your Personal Information to commercial third parties, unless retained to process your Personal Information for the purposes listed above, where such processing will be governed by a contract in the form required by law. Where required by law, your Personal Information may also be disclosed to government, regulatory or enforcement authorities.
-
-Additionally, your Personal Information may be disclosed to sporting or regulatory bodies, with whom we have agreements in place, to assist in policing the integrity or enforcing the rules of a sport or game and/or prevention and detection of crime.
+**Security and Encryption**
 
 Your Personal Information will be held on secure servers and all transactions are encrypted using secure socket layer (SSL) advanced encryption technology up to 128-bit encryption. 
 
