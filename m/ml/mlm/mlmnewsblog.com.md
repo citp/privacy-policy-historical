@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the mlmnewsblog.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614114647id_/http%3A//www.mlmnewsblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmnewsblog.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213062341id_/http%3A//www.mlmnewsblog.com/privacy-policy) for the most accurate reproduction.*
 
-# MLMNewblog.com Privacy Policy | MLMNewsBlog.com
+# Privacy Policy • MLMNewsBlog.com
 
-**What information do we collect?** We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.
-
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or MLMNewsBlog @ GMAIL.Com. You may, however, visit our site anonymously.
-
-**What do we use your information for?**
+**What information do we collect?** We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or support@mlmnewsblog.Com. You may, however, visit our site anonymously. **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways:
 
@@ -61,7 +57,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://MLMNewsBlog.com](http://mlmnewsblog.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.MLMNewsBlog.com](http://mlmnewsblog.com/)
 
 **Your Consent**
 
@@ -75,7 +71,10 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://MLMNewsBlog.com  
+http://www.MLMNewsBlog.com
+
 New Delhi, New Delhi 110060  
 India  
 mlmnewsblog@gmail.com
+
+**DISCLAIMER:** We do not own or promote any programs listed here. The information provided here is for your own use. Some programs, investments, any listings or free/paid advertisements here may be illegal depending on your country’s laws. We do not recommend you spend what you cannot afford to lose.
