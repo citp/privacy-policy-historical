@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desktop-documentaries.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602100429id_/http%3A//www.desktop-documentaries.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktop-documentaries.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213100209id_/http%3A//www.desktop-documentaries.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,6 +62,3 @@ If you do not agree to Desktop-Documentaries.com Privacy Policy as posted here o
 Your use of this site indicates acceptance of this privacy policy. 
 
 [Return to **Desktop Documentaries** from **Privacy Policy**](http://www.desktop-documentaries.com/)
-
-  
-
