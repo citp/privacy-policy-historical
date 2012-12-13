@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the zabasearch.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629103142id_/http%3A//www.zabasearch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zabasearch.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213194128id_/http%3A//www.zabasearch.com/privacy.php) for the most accurate reproduction.*
 
 # ZabaSearch - Privacy
 
-[](https://www.truerep.com/partner-offer-1.html?refer=8093)
-
 **PRIVACY POLICY**
 
-**January 23, 2012**
+**December 5, 2012**
 
 Zabasearch is dedicated to providing you with the best people search experience possible. In addition to this, we seek to provide you with the ability to report scammers and telemarketers. Zabasearch is committed to protecting your privacy and your personal information. The privacy policy listed below explains our information practices so that you may better understand how your information is being used before you choose to share it with us. This policy also discloses what types of information we gather, track and share with other parties.
 
 #### Your Personal Information and Zabasearch
 
-You are free to visit our site at anytime without ever providing us with any personal information about yourself. However, in some situations, you may choose to share personal information with us or on our site. For example, you may register with our site, provide us with a contact information for communication purposes, or you may choose to provide personal information in one of our user forums. If you share your information with us but indicate that you do not want us to use that information for anything further than fulfilling your request, we will respect that request. If you choose to share personal information about another individual, we will assume that you have their permission to share or distribute such information. 
+You are free to visit our site at anytime without ever providing us with any personal information about yourself. However, in some situations, you may choose to share personal information with us or on our site. For example, you may register with our site, authorize us to collect information from your social media account(s) such as Facebook, provide us with your contact information for communication purposes, or you may choose to provide personal information in one of our user forums. If you share your information with us but indicate that you do not want us to use that information for anything further than fulfilling your request, we will respect that request. If you choose to share personal information about another individual, we will assume that you have their permission to share or distribute such information. We will use your information you provide to us or authorize us to collect from your social media account(s) to provide useful products and services to our and our affiliates' users, and to enhance your experience on Zabasearch by providing targeted search results and advertising. 
 
 #### Registration
 
@@ -20,8 +18,12 @@ We offer users the option to register on our site. During this registration proc
 
 #### User Forums
 
-We provide users with the opportunity to share their own personal experiences and information with other Zabasearch users by the following means:     **ï¿½   Creating a Zabasphere**  
-    **ï¿½   Leaving Zabasearch messages**  
+We provide users with the opportunity to share their own personal experiences and information with other Zabasearch users by the following means:  
+
+
+  * Creating a Zabasphere
+  * Leaving Zabasearch messages
+
   
 If you choose to provide information in any of these user forums, please be aware that any personally identifiable information can be collected, read and used by other users and third parties. This information can be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to share on these forums. 
 
@@ -31,7 +33,7 @@ In some cases, you may see links or advertisements about information and data av
 
 #### Cookies and Other Online Technologies
 
-We sometimes collect non-personally-identifiable information from visitors to the site. We do this in order to provide our users with a better experience and service. For instance, we may keep track of the domains from which people visit our site and their activity within our site. This is done using cookies to ensure that the visitorï¿½s identity remains anonymous. A cookie is a piece of data that we send to your browser. This is then stored on your computer as an anonymous tag or identifier. It is possible to identify your computer from this information, but not you personally. You may choose to set your browser to notify you when receiving cookies or to turn off cookies altogether. However, if you disallow cookies, keep in mind that some websites may not work properly. 
+We sometimes collect non-personally-identifiable information from visitors to the site. We do this in order to provide our users with a better experience and service. For instance, we may keep track of the domains from which people visit our site and their activity within our site. This is done using cookies to ensure that the visitor's identity remains anonymous. A cookie is a piece of data that we send to your browser. This is then stored on your computer as an anonymous tag or identifier. It is possible to identify your computer from this information, but not you personally. You may choose to set your browser to notify you when receiving cookies or to turn off cookies altogether. However, if you disallow cookies, keep in mind that some websites may not work properly. 
 
 #### Log Files
 
