@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markettrendsignal.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618143128id_/http%3A//www.markettrendsignal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markettrendsignal.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213124604id_/http%3A//www.markettrendsignal.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy-Policy - Market Trend Signal
 
@@ -33,7 +33,7 @@ How We Use Consumer PII
 
 Market Trend Signal will use consumer PII collected on this site to contact the consumer in response to consumer-initiated inquiries, to provide services requested by the consumer, to alert consumers to changes in services or features, and to provide consumers with requested information regarding Market Trend Signal or our services. Market Trend Signal may share this PII with service providers who assist us with our marketing efforts, but those service providers will not use this PII for their own marketing purposes and are prohibited by contract from sharing this PII with any party other than Market Trend Signal. These businesses may include, but are not limited to: providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation services.
 
-Market Trend Signal will not sell, rent, or lease PII collected on this site to third-party marketers.
+Market Trend Signal will not sell PII collected on this site to third-party marketers.
 
 Market Trend Signal may use data-enhancement providers to augment data provided to us by consumers on this site. Data-enhancement providers will not use the data for any purpose other than to provide the enhancement information to Market Trend Signal, and are prohibited by contract from sharing that PII with any party other than Market Trend Signal. Market Trend Signal may, in order to provide the highest level of service, use data collected through another Market Trend Signal property to enhance the data we collect on this site.
 
