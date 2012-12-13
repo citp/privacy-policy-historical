@@ -1,27 +1,41 @@
-> *The following text is extracted and transformed from the academictips.org privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622162202id_/http%3A//www.academictips.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academictips.org privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213042818id_/http%3A//www.academictips.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AcademicTips.org
 
-[Home](https://web.archive.org/web/20120622162202id_/http%3A//www.academictips.org/index.html) : Privacy Policy
+[Home](https://web.archive.org/web/20121213042818id_/http%3A//www.academictips.org/index.html) : Privacy Policy
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+Dear Friends! Thank you for visiting AcademicTips.org. Your privacy is very important. Here is information on what types of personal information we receive and collect when you visit this website, and how we safeguard your information.
 
-**Google Adsense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+We created this Privacy Policy to give you confidence as you visit and use the site.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Googleâ€™s own privacy policies.
+1\. Blog Notifications
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, academictips.org has no access or control over these cookies that may be used by third party advertisers.
+Our blog has features to notify you of new blog posts and new comments. If you subscribe to any of those features, we collect your email address so that we can send you the notifications.
 
-**Collection of Personal Information**  
-When visiting academictips.org, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+We do not sale or disclose your email address to any third parties. Besides from new posts and comments notifications, we do not send you any other types of emails.
 
-**Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+Unsubscribe: In the event you would like to unsubscribe, please follow the following instructions: 
 
-**Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion.
+\- Locate one of our notification emails  
+\- Locate and click on the Manage Subscription link at the bottom  
+\- Check our site, choose Unfollow then Save Changes
 
-If you have any questions regarding the privacy policy of academictips.org then you may contact us at khaisanggroup@gmail.com
+2\. Traffic Data
+
+The IP address used to access the site will be logged along with the dates and times of access. This information is used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Recorded IP addresses are not linked to personally identifiable information.
+
+3\. Google Ads
+
+This website uses Google advertisements. Google uses technology such as cookies and web beacons to collect information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: http://www.google.com/privacy_ads.html
+
+4\. Links to Other Websites
+
+From time to time, we may provide links to other websites we do not own so you can learn more about the topics. We do not have control and we are not responsible for the privacy practices of such websites.
+
+5\. Your Consent
+
+By using our website, you consent to the collection and use of information by AcademicTips as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect and how we use it.
+
+_Last revision: December 06 2012_
 
 AcademicTips.org, since December 1999.
