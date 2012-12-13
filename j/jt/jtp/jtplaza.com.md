@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the jtplaza.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610090030id_/http%3A//www.jtplaza.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jtplaza.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213080651id_/http%3A//www.jtplaza.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Online shopping | Indian Sarees | Designer suits | Online Saree Shopping
 
-  * [](http://www.jtplaza.com/index.php?main_page=advanced_search_result&inc_subcat=1&pfrom=0&pto=500&sort=3a/)Rs0 - Rs500
-  * [](http://www.jtplaza.com/index.php?main_page=advanced_search_result&inc_subcat=1&pfrom=500&pto=1500&sort=3a/)Rs500 - Rs1,500
-  * [](http://www.jtplaza.com/index.php?main_page=advanced_search_result&inc_subcat=1&pfrom=1500&pto=3000&sort=3a/)Rs1,500 - Rs3,000
-  * [](http://www.jtplaza.com/index.php?main_page=advanced_search_result&inc_subcat=1&pfrom=3000&pto=4500&sort=3a/)Rs3,000 - Rs4,500
-  * [](http://www.jtplaza.com/index.php?main_page=advanced_search_result&inc_subcat=1&pfrom=4500&pto=6000&sort=3a/)Rs4,500 - Rs6,000
-  * [](http://www.jtplaza.com/index.php?main_page=advanced_search_result&inc_subcat=1&pfrom=6000&sort=3a/)Rs6,000 and above
+  * [ ](http://www.jtplaza.com/index.php?main_page=advanced_search_result&inc_subcat=1&pfrom=0&pto=500&sort=3a/)Rs0 - Rs500
+  * [ ](http://www.jtplaza.com/index.php?main_page=advanced_search_result&inc_subcat=1&pfrom=500&pto=1500&sort=3a/)Rs500 - Rs1,500
+  * [ ](http://www.jtplaza.com/index.php?main_page=advanced_search_result&inc_subcat=1&pfrom=1500&pto=3000&sort=3a/)Rs1,500 - Rs3,000
+  * [ ](http://www.jtplaza.com/index.php?main_page=advanced_search_result&inc_subcat=1&pfrom=3000&pto=4500&sort=3a/)Rs3,000 - Rs4,500
+  * [ ](http://www.jtplaza.com/index.php?main_page=advanced_search_result&inc_subcat=1&pfrom=4500&pto=6000&sort=3a/)Rs4,500 - Rs6,000
+  * [ ](http://www.jtplaza.com/index.php?main_page=advanced_search_result&inc_subcat=1&pfrom=6000&sort=3a/)Rs6,000 and above
 
 
 
