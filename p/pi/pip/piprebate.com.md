@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the piprebate.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613223556id_/http%3A//www.piprebate.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piprebate.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213190028id_/http%3A//piprebate.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - PipRebate.com
+# Privacy Policy | Rebate Forex | PipRebate.com
 
 ** WHAT INFORMATION DO WE COLLECT?**  
 We collect information from you when you register on our site, subscribe to our newsletter or respond to a survey.When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or bank details or Moneybookers account details, information of Forex product purchases through PipRebate.com website, your trading account details at currency exchage brokers. You may, however, visit our site anonymously.
