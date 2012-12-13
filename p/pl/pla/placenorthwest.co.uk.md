@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the placenorthwest.co.uk privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613172123id_/http%3A//www.placenorthwest.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placenorthwest.co.uk privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213110210id_/http%3A//www.placenorthwest.co.uk/privacy.html) for the most accurate reproduction.*
 
 # > Privacy Policy - Place North West
 
 We are committed to protecting and respecting your privacy and this policy (together with our [terms of use](https://web.archive.org/terms.html) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), PMU Publishing Limited, Granite Buildings, 6 Stanley Street, Liverpool L1 6AF is the data controller.
+For the purpose of the Data Protection Act 1998 (the Act), Paul Unger, 80 Blythswood Street, Liverpool L7 7DG is the data controller.
 
 ## Information We May Collect From You
 
