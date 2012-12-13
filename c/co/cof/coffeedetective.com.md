@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the coffeedetective.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625104508id_/http%3A//www.coffeedetective.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeedetective.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213131935id_/http%3A//www.coffeedetective.com/privacy.html) for the most accurate reproduction.*
 
 # Coffee Detective Privacy Policy and Contact Information
 
-|  |   |   
   
+
+
 ## About Coffee Detective – our privacy policy and contact information.
 
 If you sign up for the [Coffee Detective Newsletter](http://www.coffeedetective.com/coffee-detective-newsletter.html), we do ask you for your first name and your email address. That information remains secure and private. We will never share, trade or in any way disclose that information to anyone else.
@@ -26,22 +27,6 @@ Montreal North
 Quebec H1G 1A3  
 Canada. 
 
-  
-
-
-### New! Comments
-
-Have your say about what you just read! Leave me a comment in the box below. | **Share this page:  **| | | |   
+**Share this page:  **| | | |   
 ---|---|---|---|---  
-| | |   
-  
-© Copyright 2006-2011. CoffeeDetective.com. All rights reserved.  
-No reproduction permitted without permission.  
-  
-Follow me on Google+[](https://plus.google.com/u/0/b/102308336313031215217/102308336313031215217/posts)
-
-[](http://pinterest.com/coffeedetective/)
-
- **Sign Up for The  
-Coffee Detective  
-Newsletter.**
+| | | 
