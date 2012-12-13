@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bambuser.com privacy policy that was archived on 2012-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501062938id_/http%3A//bambuser.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bambuser.com privacy policy that was archived on 2012-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121213015504id_/http%3A//bambuser.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -63,14 +63,14 @@
 
 	
 	<div id="page"><div id="page-inner">
-								<div id="header"><div id="header-inner" class="clear-block ">
+								<div id="header"><div id="header-inner" class="clear-block christmas-header">
 
 				<a href="/"><img id="logo" src="http://static.bambuser.com/themes/b4/images/b4/bambuser-logo.png" alt="Bambuser - show the world" title="Bambuser - show the world"></a>
 
 				<div id="top-search">
 					<form action="/search/bambuser_search" method="post" id="search-form" class="search-form">
-						<input type="text" maxlength="255" name="keys" id="edit-keys" value="Search" size="20" class="form-text" onblur="setTimeout('closeResults()',2000); if (this.value == '') {this.value = '';}" onfocus="if (this.value == 'Search') {this.value = '';}">
-												<input class="top-search-submit" type="image" name="op" value="Search" src="http://static.bambuser.com/themes/b4/images/b4/search/search-submit-button.png" alt="Submit button">
+						<input type="text" maxlength="255" name="keys" id="edit-keys" value="Search" size="20" class="form-text search-form-text-input" onblur="if (this.value == '') {this.value = 'Search';}" onfocus="if (this.value == 'Search') {this.value = '';}">
+						<input class="top-search-submit search-submit-button" type="submit" name="op" value="" alt="Submit button">
 
 												<input type="hidden" name="form_id" id="edit-search-form" value="search_form">
 					</form>
@@ -81,10 +81,16 @@
 						<a href="/broadcasts">Broadcasts</a>
 					</li>
 					<li>
+						<a href="/tag">Tags</a>
+					</li>
+					<li>
 						<a href="/users">Users</a>
 					</li>
-					<li class="last">
+					<li>
 						<a href="/groups-events">Events</a>
+					</li>
+					<li class="premium last">
+						<a href="/premium">Premium</a>
 					</li>
 				</ul>
 				
@@ -98,36 +104,7 @@
 											<li id="sign-up" style="height:25px;" class="">
 							<a href="/signup">Sign up</a>
 						</li>
-						<script type="text/javascript">
-							b_fb.on_init(function() {
-								FB.getLoginStatus(function(response) {
-									if (response.status == "connected") {
-										FB.api("/me", function(response) {
-											b_log("fb me response")
-											b_log(response)
-											// Show Facebook avatar and name instead of Sign up button.
-											if (response.name != undefined) {
-												var fb_badge_html = '<a href="' + check_plain(response.link) + '"';
-												fb_badge_html += ' title="' + check_plain(response.name) + '"';
-												fb_badge_html += ' style="padding-top:0px;">';
-												fb_badge_html += '<img style="width=25px;height:25px;vertical-align:middle;margin-right:3px;"';
-												fb_badge_html += ' src="https://graph.facebook.com/' + check_plain(response.id) + '/picture"/>'
-												fb_badge_html += check_plain(response.first_name)
-												fb_badge_html += '</a>';
-												$("#sign-up").html(fb_badge_html)
-											}
-										});
-									}
-								});
-								FB.Event.subscribe("auth.authResponseChange", function(response) {
-									b_log("Facebook status changed to " + response.status);
-									// If status changed to unknown, place back Sign up button.
-									if (response.status == "unknown") {
-										$("#sign-up").html("<a href=\"/signup\">Sign up</a>");
-									}
-								});
-							});
-						</script>
+
 										<li class="last">
 												<a href="/user?destination=privacy">Log in <img onclick="window.location='/user?connect=fb'; return false;" style="margin-left: 10px; " src="http://static.bambuser.com/r/img/webservices/facebook-tiny-button.png" width="12" height="12" title="Log in with Facebook" alt="Log in with Facebook"></a>
 											</li>
@@ -268,7 +245,7 @@ Sweden</p>
 </div>
 <div class="form-item">
  <label for="edit-cid">Category <span class="form-required" title="This field is required.">*</span></label>
- <select name="cid" class="form-select required" id="edit-cid"><option value="1" selected="selected">Contact Bambuser crew</option><option value="5">Sales inquiry</option><option value="6">API access request</option><option value="2">Bug report: mobile</option><option value="3">Bug report: webcam</option><option value="4">Bug report: other</option></select>
+ <select name="cid" class="form-select required" id="edit-cid"><option value="1" selected="selected">Contact Bambuser crew</option><option value="5">Sales inquiry</option><option value="7">Press inquiry</option><option value="6">API access request</option><option value="2">Bug report: mobile</option><option value="3">Bug report: webcam</option><option value="4">Bug report: other</option></select>
 </div>
 <div class="form-item">
  <label for="edit-message">Message <span class="form-required" title="This field is required.">*</span></label>
@@ -280,7 +257,11 @@ Sweden</p>
  <label for="edit-bc-message">Message </label>
  <textarea cols="60" rows="5" name="bc_message" id="edit-bc-message" class="form-textarea resizable"></textarea>
 </div>
-<input type="hidden" name="bc_ts" id="edit-bc-ts" value="1335853778">
+<div class="form-item">
+ <label for="edit-bc-message2">Message 2 </label>
+ <textarea cols="60" rows="5" name="bc_message2" id="edit-bc-message2" class="form-textarea resizable">sveninge says hi</textarea>
+</div>
+<input type="hidden" name="bc_ts" id="edit-bc-ts" value="1355363708">
 </fieldset>
 
 </div></form>
@@ -292,12 +273,74 @@ Sweden</p>
 <span id="comet-url" title="http://misc00.bambuser.com:3333/"></span></div>
 	</div></div> <!-- /#page-inner, /#page -->
 
+
+	<script type="text/javascript">
+			b_fb.init(function() {
+			FB.getLoginStatus(function(response) {
+				if (response.status == "connected") {
+					FB.api("/me", function(response) {
+						b_log("fb me response")
+						b_log(response)
+						// Show Facebook avatar and name instead of Sign up button.
+						if (response.name != undefined) {
+							var fb_badge_html = '<a href="/fb/start/' + check_plain(response.id) + '"';
+							fb_badge_html += ' title="' + check_plain(response.name) + '"';
+							fb_badge_html += ' style="padding-top:0px;">';
+							fb_badge_html += '<img style="width:25px;height:25px;vertical-align:middle;margin-right:3px;"';
+							fb_badge_html += ' src="https://graph.facebook.com/' + check_plain(response.id) + '/picture"/>'
+							fb_badge_html += check_plain(response.first_name)
+							fb_badge_html += '</a>';
+							$("#sign-up").html(fb_badge_html)
+						}
+					});
+				}
+			});
+			FB.Event.subscribe("auth.authResponseChange", function(response) {
+				b_log("Facebook status changed to " + response.status);
+				// If status changed to unknown, place back Sign up button.
+				if (response.status == "unknown") {
+					$("#sign-up").html("<a href=\"/signup\">Sign up</a>");
+				}
+			});
+		});
+		</script>
+
 		<script type="text/javascript">
+	$(document).ready(function() {
+		// Premium promotion overlay is shown once every 30 days for visitors not logged in as Premium users.
+		if ( $.cookie('premium-promotion-overlay') == null && !$('body').hasClass('section-premium')) {
+			setTimeout(createPremiumOverlay, 1000);
+			$.cookie('premium-promotion-overlay', 'seen', { expires: 30*24*60, path: '/' });
+		}
+
+		function createPremiumOverlay() {
+			var content = '<div id="premium-promotion-overlay">';
+			content += '<a href="/premium">';
+			content += '<img src="/themes/b4/images/b4/bambuser-premium-promotion.png" alt="Bambuser Premium" />';
+			content += '<h3>Bambuser Premium</h3>';
+			content += '<p>For companies and commercial use</p>';
+			content += '</a>';
+			content += '</div>';
+
+			// Dialog size and position.
+			var params = new Array();
+			params['width'] = 408;
+			params['vertical_offset'] = 10; // vertical offset in px
+			params['fade_in'] = true;
+			$("#menu-a > li.premium > a").b_overlay(content, params);
+		}
+	});
+	</script>
+	
+				<script type="text/javascript">
 		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-2765745-1']);
-		_gaq.push(['_setDomainName', '.bambuser.com']);
-					_gaq.push(['_setCustomVar', 1, 'User Logged In', 'No', 3]);
-				_gaq.push(['_trackPageview']);
+
+					_gaq.push(['_setAccount', 'UA-2765745-1']);
+			_gaq.push(['_setDomainName', '.bambuser.com']);
+							_gaq.push(['_setCustomVar', 1, 'User Logged In', 'No', 3]);
+						_gaq.push(['_trackPageview']);
+		
+		
 		(function() {
 			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
