@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopruche.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606090807id_/http%3A//shopruche.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopruche.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213031113id_/http%3A//shopruche.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Terms Of Service | Ruche
 
@@ -51,7 +51,7 @@ We believe your preference in how and when you are contacted is key to your sati
   * 1\. If you have an online account at one of our websites, you may be able to log on and change or update your account or contact information. Check the site for further information or use the Contact Us form on the site for any further requests.
   * 2\. You may unsubscribe to any of our online e-mail promotions, updates, or newsletters by following the unsubscribe instructions in the body of any e-mail message. Or you may log into your account online and change or update your email subscription preference.
   * 3\. If you do not wish to have your personal information shared with third parties or with other entities in the Ruche, Inc family, please send us your opt out subscription request us by visiting our website and clicking Contact Us.
-  * 4\. You also may write to us directly if you wish to: (a) ask that we not share your personal information with third parties; (b) update your contact or personal information; or (c) request that we cease sending you promotional or other information via mail or e-mail. Such written requests should be sent to Ruche, Inc., 201 W Truslow Ave Fullerton, CA 92832, attn: General Counsel. In those instances, we will retain your information in a "do not promote" file in our database, and you will receive no further communications from us.
+  * 4\. You also may write to us directly if you wish to: (a) ask that we not share your personal information with third parties; (b) update your contact or personal information; or (c) request that we cease sending you promotional or other information via mail or e-mail. Such written requests should be sent to Ruche, Inc., 131 N Gilbert St Fullerton, CA 92832, attn: General Counsel. In those instances, we will retain your information in a "do not promote" file in our database, and you will receive no further communications from us.
   * 5\. You may also contact us at info@shopruche.com for any questions, concerns, or requests regarding our privacy policy or the handling of your personal information. We will implement your email opt-out request within 10 business days of receiving the opt-out request. If you requested to opt out of our emails by regular mail, we will implement your opt-out request within a commercially reasonable time. 
 
 
@@ -85,7 +85,7 @@ If you have any questions, concerns, or clever anecdotes about this Privacy Poli
 Or you can contact us by mail at: 
 
 Ruche, Inc.  
-201 W Truslow Ave  
-Fullerton, CA 92832  
+131 N Gilbert St  
+Fullerton, CA 92833  
 Attn: General Counsel   
 Last Update July 1, 2011
