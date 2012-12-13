@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flightcentre.com.au privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902042946id_/http%3A//www.flightcentre.com.au/footer/misc/pages/links/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightcentre.com.au privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213153149id_/http%3A//www.flightcentre.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# privacy
 
 This Privacy Policy ("Policy") explains in general terms how Flight Centre Limited ACN 003 377 188 and its various brands, including but not limited to Flight Centre, Escape Travel, Student Flights, Travel Associates, Cruiseabout and Quickbeds.com (collectively referred to in this document as "Flight Centre","we" "our" or "us") protects the privacy of your personal information. We are firmly committed to protecting the privacy and confidentiality of personal information and maintain robust physical, electronic and procedural safeguards to protect personal information in our care.
 
@@ -20,7 +20,7 @@ We are required by law to obtain your consent to the collection of sensitive inf
 
 ## When we act as agent
 
-When we sell products and services to you, we usually do so as agent for the wholesaler or provider of those products and services. This means that we usually collect personal information about you, both for our internal purposes, and on behalf of the parties for whom we act as agent, for their internal purposes. Accordingly, the consent you provide under this statement to the collection of personal information by us, applies equally to the parties whose products and services we sell. For example, if you purchase a Qantas flight from us, then under this policy you will have consented to your personal information being used by us, being provided to Qantas to enable your flight to be booked and being used by Qantas for Qantas’ purposes.  
+When we sell products and services to you, we usually do so as agent for the wholesaler or provider of those products and services. This means that we usually collect personal information about you, both for our internal purposes, and on behalf of the parties for whom we act as agent, for their internal purposes. Accordingly, the consent you provide under this statement to the collection of personal information by us, applies equally to the parties whose products and services we sell. For example, if you purchase a Qantas flight from us, then under this policy you will have consented to your personal information being used by us, being provided to Qantas to enable your flight to be booked and being used by Qantas for Qantas purposes.  
 We act as agent for many hundreds of companies, so it is not possible for us to set out in this statement exactly how each of these companies will use your personal information, but we are happy to provide more specific information to you if you email your query to us at [customer.feedback@flightcentre.com](mailto:customer.feedback@flightcentre.com "Feedback")
 
 ## How do we use personal information?
@@ -36,7 +36,7 @@ We may use and disclose your personal information for the purposes for which it 
   * Involving you in market research gauging customer satisfaction and seeking feedback regarding our relationship with you;    
   * To facilitate your participation in loyalty programs;    
   * To analyse trends in sales and travel destinations;    
-  * For marketing activities; and    
+  * For marketing activities including but not limited to mail-outs, e-newsletters and sms notifications;    
   * Internal accounting and administration.  
 
 
