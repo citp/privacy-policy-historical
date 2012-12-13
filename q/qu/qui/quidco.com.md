@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quidco.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620093418id_/http%3A//www.quidco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quidco.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213061530id_/http%3A//www.quidco.com/privacy-policy) for the most accurate reproduction.*
 
 # Quidco Privacy Policy
 
@@ -18,11 +18,9 @@ When you join Quidco your personal data will be collected, processed, stored and
 
 ## The information we collect
 
-**Personal data** : When you first sign-up for the Quidco Service, we ask for your name and email address and other personal information including your choice of payment method, whether PayPal or BACS. In addition we usually also capture your IP address. Other personal information about you is then optional to provide.
+**Personal data** : When you first sign-up for the Quidco Service, we ask for your name and email address and other personal information including details of your choice of Cashback Receipt Method, whether PayPal, a credit card or bank account. In addition we usually also capture your IP address. Other personal information about you is then optional to provide.
 
-**Sensitive personal data** : In some instances, we may also ask you for sensitive personal information, for instance when obtaining and comparing insurance quotations from a retailer. This personal data may include information on your racial or ethnic origin, physical or mental health or condition, allegations of criminality, criminal convictions, or sentences for convictions. It will be provided only with your explicit consent, including as to the retailer(s) with whom it will be shared (such as a provider of insurance quotations).
-
-We will retain your personal data for as long as is permitted for legal, regulatory, taxation and fraud prevention purposes.
+**Sensitive personal data** : In some instances, we may also ask you for sensitive personal information, for instance when obtaining and comparing insurance quotations from a retailer. This personal data may include information on your racial or ethnic origin, physical or mental health or condition, allegations of criminality, criminal convictions, or sentences for convictions. It will be provided only with your explicit consent, including as to the retailer(s) with whom it will be shared (such as a provider of insurance quotations). We will retain your personal data for as long as is permitted for legal, regulatory, taxation and fraud prevention purposes.
 
   
 
@@ -74,7 +72,15 @@ We like to understand our Account Holders interests as well as we can, in order 
 
 We will use the information they provide to us to target more accurately the offers that are made to you through the Quidco Service.
 
-We also put the information we gather about Account Holders together in an aggregated and anonymous manner (so that your identity and personal data are not accessible) and (a) use it for internal management purposes, and (b) share it with current or prospective retailers, as it really helps in negotiating better cashback rates.
+We also put the information we gather about Account Holders together in an aggregated and anonymous manner (so that your identity and personal data are not accessible) and (a) use it for internal management purposes, (b) share it with current or prospective retailers and (c) use it to target offers that are made to Account Holders through the Quidco Service. This type of information includes, for example, usage of an Account Holder's Cashback Receipt Method, such as the types of product that the individual Account Holder purchases and the value of those purchases.
+
+In addition, Quidco will also share data with trusted 3rd parties to enable our instore program to correctly track your activity and cashback:
+
+  * By registering the number of your credit card and/or debit card and/or charge card ("Identifier Card Numbers") in the Quidco Programme, you hereby authorise us to disclose your Identifier Card Numbers to 'Reward' (meaning Sports Loyalty Card Limited trading as 'Reward', Registered in England No: 4158111. Registered Office: Lion House, Red Lion Street, London WC1R 4GB), to retailers or their suppliers (even if you never use the Identifier Card Numbers with one or more of those retailers) to identify and calculate any entitlement to cashback that you might have and otherwise as appropriate in accordance with the terms of our Privacy Policy and acknowledge that we and 'Reward' on our behalf, will collect any and all information from any retailer, merchant acquirer, credit card processor, issuing bank, or any other available source with respect to the purchases made using your Identifier Card Numbers. You represent that with respect of each Identifier Card Number that you have provided that you are entitled to register that card number and receive information about the transactions effected using such card.
+  * You may only register a maximum of 15 Identifier Card Numbers per Member's account, however this may include cards belonging to other members of your household/family providing that they have consented to the registration of their Identifier Card Number(s) to assist you to collect cashback. We may request that you provide written evidence of such consent at any time. If we are not satisfied that all Identifier Card Numbers are included with the holder's consent we reserve the right to de-register any or all Identifier Card Numbers on your account.
+  * Each Identifier Card Number may only be registered at any one time to one service in the world through which cards are used as identifiers for the purpose of crediting rewards (whether cashback, points or other kinds of rewards) when shopping with designated retailers. In the event of more than one attempted registration of the same Identifier Card Number the last registration will prevail and previous registrations will be automatically de-registered.
+
+
 
 Your personal data may be disclosed if we, or an entity processing your data on our behalf, are compelled to do so by law, or receive a valid, legally-compliant request for its disclosure.
 
@@ -90,6 +96,7 @@ Access to your Account is password-protected for your privacy and security. Whil
   * Keep your password or other access information secret.
   * Ensure no-one else uses Quidco while your machine is "signed in" to the Quidco site.
   * Make sure you sign out from your Account when not using it.
+  * Ensure that only you have access to the details of your Cashback Receipt Method, such as Paypal or a credit card or bank account, which are intended to be kept secret.
 
   
 
@@ -98,7 +105,7 @@ Access to your Account is password-protected for your privacy and security. Whil
 
 We like to keep in touch with our Account Holders so after you have signed up to Quidco we'll send you information about products or services provided by us or our partners that we think will be of interest to you.
 
-Of course we know lots of emails can be annoying so we try to keep ours to a minimum. However, if you feel you're getting too many or would like more you can change the settings in your Account at any time. Each communication gives you the opportunity to opt-out of receiving similar future communications. You can review, change or correct your identity and email address information by signing into your Account and going to the settings tab.
+Of course we know lots of emails can be annoying so we try to keep ours to a minimum. However, if you feel you're getting too many or would like more you can change the settings in your Account at any time. We have a one click unsubscribe policy, and each communication gives you the opportunity to opt-out of receiving similar future communications using a link at the bottom of the email. You can also review, change or correct your identity and email address information by signing into your Account and going to the settings tab.
 
 Please note there are some communications that are an integral part of the Quidco Service and cannot be opted-out of. These communications cover, amongst other things, changes to the Quidco Service and your actual or potential transactions with retailers. They can be brought to an end by de-registering your Account.
 
@@ -123,9 +130,9 @@ This Privacy Policy is correct as of 01/11/2011. Any changes to it will be made 
 
 ## Registered details
 
-Maple Syrup Media Ltd. is a company registered in England and Wales, under company registration number 05498276 and having its registered address as First Floor, Emerson Street Studios, 4-8 Emerson Street, London, SE1 9DU. Registered under the Data Protection Act. Registration No. Z9450695
+Maple Syrup Media Ltd. is a company registered in England and Wales, under company registration number 05498276 and having its registered address as First Floor, 4th Floor, 76-80 Great Eastern Street, London, EC2A 3JL. Registered under the Data Protection Act. Registration No. Z9450695
 
 If you have any further questions about this privacy policy you can contact Quidco on the details below.
 
-Part First Floor, Emerson Street Studios, 4-8 Emerson Street, London, SE1 9DU.  
+4th Floor, 76-80 Great Eastern Street, London, EC2A 3JL.  
 E: members@quidco.com
