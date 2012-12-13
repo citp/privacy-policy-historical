@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playseat.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613184922id_/http%3A//www.playseat.com/playseats-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playseat.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213171855id_/http%3A//www.playseat.com/playseats-privacy-policy) for the most accurate reproduction.*
 
-# Privacy | playseats
+# Privacy | Playseat
 
 Ordering Playseats products Online is designed to be as simple as possible, while allowing maximum security and privacy for all your details.
 
@@ -59,7 +59,7 @@ The Playseats Shop never sells personal or anonymous information to third partie
 
 ### FEEDBACK AND COMPLAINTS HANDLING PROCEDURE
 
-The Playseats Shop welcomes [feedback](https://web.archive.org/shop/index.php/contacts "playseats contact") and attends to all complaints promptly. Please write to us using the contact information presented on this page [http://www.playseat.com/shop/index.php/contacts](https://web.archive.org/shop/index.php/contacts "playseats contact").
+The Playseats Shop welcomes [feedback](http://www.playseat.com/shop/eu/wl/contacts "playseats contact") and attends to all complaints promptly. Please write to us using the contact information presented on this page [http://www.playseat.com/shop/index.php/contacts](http://www.playseat.com/shop/eu/wl/contacts "playseats contact").
 
 ### PEACE OF MIND
 
