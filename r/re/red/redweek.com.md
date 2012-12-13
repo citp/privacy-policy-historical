@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the redweek.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512221215id_/http%3A//www.redweek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redweek.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213165249id_/http%3A//www.redweek.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Version 2 (Posted April 20, 2007) 
+Version 3 (Posted August 15, 2012) 
 
 We have created this privacy policy to demonstrate our commitment to the privacy of our users. The following discloses our information gathering and usage practices. 
 
@@ -22,7 +22,7 @@ We use Secure Sockets Layer (SSL) software to secure the transmission of your cr
 
   3. **Conditions of contact by RedWeek.com**
 
-As a registered RedWeek.com user, you'll receive our monthly e-mail newsletter and any other subscriptions you request. Additionally, you may receive e-mails associated with your activities on the site (password requests, posting expiration notices, renewal notices, etc.). If you participate in the RedWeek Exchange Program, e-mails associated with your exchange activity may come from our partner company. You will not receive non-activity related e-mails from this partner. 
+As a registered RedWeek.com user, you'll receive our monthly e-mail newsletter and any other subscriptions you request. You may opt out of these non-transactional messages at any time through [Your Account](https://web.archive.org/account/ "View your account") page on RedWeek.com. If you require assistance, you may contact us by e-mail at [support@redweek.com](mailto:support@redweek.com), by phone at (425) 458-4440 ext. 9, or by U.S. mail us at P.O. Box 992293, Redding, CA, 96099-2293. You may also receive e-mails associated with your activities on the site (password requests, posting expiration notices, renewal notices, etc.). These transactional e-mails are related to your activity on the site and my not be opted out of. If you participate in the RedWeek Exchange Program, e-mails associated with your exchange activity may come from our partner company. You will not receive non-activity related e-mails from this partner. 
 
   4. **Advertising and third party links**
 
