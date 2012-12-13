@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615212626id_/http%3A//www.irs.gov/privacy/index.html%3Fportlet%3D111) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213151807id_/http%3A//www.irs.gov/uac/IRS-Privacy-Policy) for the most accurate reproduction.*
 
 # IRS Privacy Policy
 
-[Para ver esta página en español haga clic aquí](https://web.archive.org/espanol/article/0,,id=154309,00.html).
+[Para ver esta página en español haga clic aquí](https://web.archive.org/Spanish/La-Pol%C3%ADtica-de-Confidencialidad-del-IRS).
 
 **IRS Privacy Policy  
 ****Your Privacy Right** **s  
 IRS Office of Privacy  
-[Access to Privacy Impact Assessments](https://web.archive.org/privacy/article/0,,id=225712,00.html)  
-[Statistical Information](https://web.archive.org/privacy/article/0,,id=225714,00.html)  
-[Security](https://web.archive.org/privacy/article/0,,id=225716,00.html)  
+[Access to Privacy Impact Assessments](https://web.archive.org/uac/Access-to-Privacy-Impact-Assessments)  
+[Statistical Information](https://web.archive.org/uac/Statistical-Information-on-IRS.gov)  
+[Security](https://web.archive.org/uac/Security-on-the-IRS.gov-Website)  
 [If You Send Us Information Online  
-](https://web.archive.org/privacy/article/0,,id=225718,00.html)[Customer Surveys  
-](https://web.archive.org/privacy/article/0,,id=225719,00.html)****[Cookies](https://web.archive.org/privacy/article/0,,id=225791,00.html)  
-[Links to Other Sites](https://web.archive.org/privacy/article/0,,id=225792,00.html)**
+](https://web.archive.org/uac/If-You-Send-Us-Information-Online)[Customer Surveys  
+](https://web.archive.org/uac/Customer-Surveys)****[Cookies](https://web.archive.org/uac/Cookies-on-IRS.gov)  
+[Links to Other Sites](https://web.archive.org/uac/Links-to-Other-Websites)**
 
 * * *
 
@@ -27,7 +27,7 @@ We will not collect personal information about you just because you visit this I
 
 ### Your Privacy Rights
 
-The IRS is committed to protecting the privacy rights of America's taxpayers. These rights are protected by the [Internal Revenue Code](https://web.archive.org/app/scripts/exit.jsp?dest=http%3A%2F%2Ffrwebgate.access.gpo.gov%2Fcgi-bin%2Fget-cfr.cgi%3FTITLE%3D26%26PART%3D601%26SECTION%3D702%26TYPE%3DTEXT), the [Privacy Act of 1974](https://web.archive.org/app/scripts/exit.jsp?dest=http%3A%2F%2Fwww.law.cornell.edu%2Fuscode%2Fhtml%2Fuscode05%2Fusc_sec_05_00000552---a000-.html), the [Freedom of Information Act](https://web.archive.org/foia/article/0,,id=110348,00.html), and IRS policies and practices. For more information about these laws, visit the [IRS Electronic Freedom of Information Act Reading Room](https://web.archive.org/foia/index.html).
+The IRS is committed to protecting the privacy rights of America's taxpayers. These rights are protected by the [Internal Revenue Code](http://frwebgate.access.gpo.gov/cgi-bin/get-cfr.cgi?TITLE=26&PART=601&SECTION=702&TYPE=TEXT), the [Privacy Act of 1974](http://www.law.cornell.edu/uscode/html/uscode05/usc_sec_05_00000552---a000-.html), the [Freedom of Information Act](https://web.archive.org/uac/IRS-Freedom-of-Information), and IRS policies and practices. For more information about these laws, visit the [IRS Electronic Freedom of Information Act Reading Room](https://web.archive.org/uac/IRS-Freedom-of-Information).
 
 * * *
 
@@ -36,7 +36,7 @@ The IRS is committed to protecting the privacy rights of America's taxpayers. Th
 The Internal Revenue Service's Privacy Office ensures that your personal information is protected whenever you visit the IRS website. If you have any questions or comments regarding the IRS's website privacy policy, please contact us at the address below.
 
 Director, [Office of Privacy, Governmental Liaison and Disclosure  
-](https://web.archive.org/irs/article/0,,id=183728,00.html)Internal Revenue Service  
+](https://web.archive.org/uac/Office-of-Privacy,-Governmental-Liaison-and-Disclosure)Internal Revenue Service  
 Room 7050 OS:P  
 1111 Constitution Ave. NW  
 Washington, DC 20224
@@ -45,6 +45,8 @@ BEFORE YOU WRITE, note that we cannot assist you with any type of tax matter. Ou
 
 * * *
 
-_**PLEASE NOTE:**_ Do not respond to unsolicited e-mails that claim to come from the IRS, or any e-mail from an unknown party asking you to submit personal, tax, or financial data. The IRS does not use email to request this type of information. [Forward](https://web.archive.org/privacy/article/0,,id=179820,00.html) suspicious e-mails to: [phishing@irs.gov](mailto:phishing@irs.gov) .
+_**PLEASE NOTE:**_ Do not respond to unsolicited e-mails that claim to come from the IRS, or any e-mail from an unknown party asking you to submit personal, tax, or financial data. The IRS does not use email to request this type of information. [Forward](https://web.archive.org/uac/Report-Phishing) suspicious e-mails to: [phishing@irs.gov](mailto:phishing@irs.gov) .
 
 For more information contact the Treasury Inspector General for Tax Administration (TIGTA) at 800-366-4484 or visit the [TIGTA website](http://www.treas.gov/tigta).
+
+Page Last Reviewed or Updated: 2012-08-23
