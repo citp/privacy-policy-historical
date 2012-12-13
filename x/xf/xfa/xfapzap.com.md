@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the xfapzap.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427084505id_/http%3A//xfapzap.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xfapzap.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213101126id_/http%3A//xfapzap.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This document details important information regarding the use and disclosure of User Data collected on xfapzap.com The security of your Data is very important to  xfapzap.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
 
-This site expressly and strictly limits its membership and/or **viewing privileges to adults 18 years of age** and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
+This site expressly and strictly limits its membership and/or  **viewing privileges to adults 18 years of age**  and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
 
 DATA COLLECTED
 
   * **Personal Information:**
     * Non-Registered users can watch videos without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content.
     * Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
-  * **Content Uploaded to the site:** Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
-  * **Cookies:** When you visit pornoeye.com, we may send one or more cookies to your computer that uniquely identifies your browser session. pornoeye.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
-  * **Log File Information:** When you visit pornoeye.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
-  * **Emails:** If you contact us, we may keep a record of that correspondence.
+  * **Content Uploaded to the site:**  Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
+  * **Cookies:**  When you visit pornoeye.com, we may send one or more cookies to your computer that uniquely identifies your browser session. pornoeye.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
+  * **Log File Information:**  When you visit pornoeye.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
+  * **Emails:  **If you contact us, we may keep a record of that correspondence.
 
 
 
@@ -39,7 +39,7 @@ DATA COLLECTED
 
 **SECURITY**
 
-Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.   
+Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.   
 Unfortunately, the transmission of information via the Internet is not completely secure. pornoeye.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to pornoeye.com and you do so at your own risk.
 
 **YOUR RIGHTS**
