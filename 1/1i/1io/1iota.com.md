@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1iota.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506045111id_/http%3A//www.1iota.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1iota.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213153643id_/http%3A//1iota.com/member/media/Company/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 1iota
 
@@ -56,11 +56,9 @@ A cookie is a small text file that is stored on a user’s computer for record-k
 
 ### Contact Info
 
-JKL/ 1iota Productions LLC  
-6834 Hollywood Blvd.  
+1iota Productions LLC  
+6565 Sunset Blvd. Suite 517  
 Hollywood, CA 90028  
-phone: (866) 66-1iota  
-(phone lines open 12-4pm weekdays)  
 [support@1iota.com](mailto:support@1iota.com)
 
-(last updated on 08/23/2005)
+(last updated on 08/3/2012)
