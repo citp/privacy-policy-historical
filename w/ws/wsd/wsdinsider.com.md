@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsdinsider.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601203418id_/http%3A//wsdinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsdinsider.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213063932id_/http%3A//wsdinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – WSD Insider
 
@@ -34,3 +34,21 @@ Policy against advertising our website using unsolicited email messages
 We require that all e-mails promoting WSDinsider.com or its products are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and Web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.
 
 If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department at: [ **CustomerService@WSDInsiderInfo.com**](mailto:CustomerService@WSDInsiderInfo.com?subject=). We will immediately investigate all allegations made related to unsolicited messages.
+
+Or write us at:
+
+WSD Insider  
+Attn: Member Services  
+105 West Monument Street  
+Baltimore, MD 21201
+
+**How to Unsubscribe From   _WSD Insider_**
+
+To unsubscribe from  _WSD Inisider emails_ , simply click the “Manage your Subscription” link located at the bottom of an email from WSD Inisder.
+
+Or write us at:
+
+WSD Insider  
+Attn: Member Services  
+105 West Monument Street  
+Baltimore, MD 21201
