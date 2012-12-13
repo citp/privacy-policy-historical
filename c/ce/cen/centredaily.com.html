@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the centredaily.com privacy policy that was archived on 2012-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120519145704id_/http%3A//www.centredaily.com/privacy_policy%23navlinks%3D%2AHome%3Ami_footer) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the centredaily.com privacy policy that was archived on 2012-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121213151142id_/http%3A//www.centredaily.com/privacy_policy%23navlinks%3D%2AHome%3Ami_footer) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
 <title>CentreDaily.com State College, PA</title>
@@ -21,15 +21,15 @@
    
    // ----- end gomez -----
 //--> 
-</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A234417795347180%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3AState%20College%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20120519145704id_%2Fhttp%253A%2F%2Fwww.centredaily.com%2Fprivacy_policy%2523navlinks%253D%252AHome%253Ami_footer%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
+</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A101455178158927%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3AState%20College%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20121213151142id_%2Fhttp%253A%2F%2Fwww.centredaily.com%2Fprivacy_policy%2523navlinks%253D%252AHome%253Ami_footer%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
 
-<link href="/mistatic/cache/stylesheets/0ceeeeb20ead29af95d966958bf99e8f-min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/mistatic/cache/stylesheets/bc61ef6c51321ff7d2ccada0209688f0-min.css" media="screen" rel="stylesheet" type="text/css">
 
 <link href="http://media.centredaily.com/mistatic/stylesheets/print.css" media="print" rel="stylesheet" type="text/css">
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js" type="text/javascript"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js" type="text/javascript"></script>
-
+            <script type="text/javascript" src="http://s.ppjol.net/pp.js">{ 'zone':"nt5aYK3-l3wMYOQpDfA50s", 'mode':"meter", 'debug':0 }</script> 
 <script type="text/javascript">
 
 
@@ -61,6 +61,19 @@
 	miAppControler.prototype.findnsave = 0;
   miAppControler.prototype.dealsaver = 1;
 
+    /* Surveywall
+	 0 = disable pass widget  
+     1 = enable pass widget
+	*/  
+    miAppControler.prototype.surveywall = 1;
+
+	/* Paywall
+	 0 = disable paywall
+	 1 = enable paywall for preview & live
+	 2 = enable paywall for preview only
+	*/
+	miAppControler.prototype.paywall = 1;
+
 
 
         var pageInfo = {'version':1.0};
@@ -73,20 +86,9 @@
 
 </script>
 
-
-<script type="text/javascript">
-var mianalytics = {};
-mianalytics.bizunit = "cdt";
-mianalytics.pagelevel = "static";
-mianalytics.contentsource = "";
-mianalytics.taxonomy = "Online|SiteInformation|||";
-mianalytics.channel = "Static";
-</script>
-
-
 <script type="text/javascript">
 var auth_cookie_name = "centredailytimes_user_auth";
-</script><script type="text/javascript" src="/mistatic/cache/javascripts/1386c93302454ed6bf10ebae34cbafbc-min.js"></script>
+</script><script type="text/javascript" src="/mistatic/cache/javascripts/8ad584a0720c4582664033b4f50f78bd-min.js"></script>
 
 
 <script type="text/javascript" src="http://media.centredaily.com/mistats/mianalytics.js"></script>
@@ -102,6 +104,14 @@ var auth_cookie_name = "centredailytimes_user_auth";
     mi.commenting = new mi.Commenting();
     
     mi.commenting.setConf( "accountName", "centredaily" );
+    
+    
+    var disqus2012cookie = new mi.Cookie(document, 'disqus2012');
+    if(disqus2012cookie.load()){
+            mi.commenting.reset_disqus_config(disqus2012cookie.disqus2012, '1i5FkqMD7y16QPLgKu9m9sfp74FwqrMuUj9ApgoSdMHetzO6vK5CLS4K6EKEON5c');
+    }
+    
+    
     
 </script>
 
@@ -135,20 +145,46 @@ $(document).ready(function() {
 
 
 <script language="JavaScript" type="text/javascript" src="http://media.centredaily.com/misites/cdt/centredaily.js"></script>
+<!-- site specific file already loaded -->
+<script language="JavaScript" type="text/javascript">
+<!--
+measure_popularity=false;
+mistats.msr = 'CDT|SC';
+
+mistats.pagelevel='misc';
+mistats.pagename='Section: Privacy Policy';
+mistats.version='1.0|';
+mistats.taxonomy='Online|SiteInformation|||';
+mistats.channel='Privacy Policy';
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
+</script>
+
 
 </head>
 
 
-<body class="section" id="section_">
-
-<div class="sbb_wrap">
+<body class="section" id="section_"><div class="sbb_wrap">
     <div class="top_ads">   
-<div class="ad">
-        <div class="advertisement dart_960x30" id="dart_960x30_1">
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=196181443058876?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=196181443058876?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=196181443058876?" border="0" alt="Advertisement"></a></noscript> 
-        </div>
+                
+        
+        <div class="ad">
+        <div class="advertisement dart_960x30" id="dart_960x30_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=500737839354247?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=500737839354247?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=500737839354247?" border="0" alt="Advertisement"></a></noscript>         </div>
 </div>
+
     </div>
 </div>
 
@@ -169,20 +205,25 @@ $(document).ready(function() {
         </ul>
         
         <div id="weather">
+
+            
+
             <div class="current">
-            <a href="/weather/"><img id="weather_icon" alt=""></a>
+            <a href="/weather/"><img id="weather_icon" alt="Sunny" src="http://media.centredaily.com/mistatic/images/weather/icons/01.png"></a>
             </div>
             <div class="temp">
-                <div id="weather_curr_temp" class="current_temp"></div>
+                <div id="weather_curr_temp" class="current_temp">25°</div>
                 <div class="weather_alert"><a href="?">Alert!</a></div>
                 <div class="forecast">&nbsp;<a href="/weather/">Forecast</a></div>
             </div>
-        </div><!-- #weather -->            <div class="weather_sponsor" id="dart_150x25_weather_1">
-
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=196181443058876?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=196181443058876?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=196181443058876?" border="0" alt="Advertisement"></a></noscript> 
-
-            </div>    </div><!-- end mast_top -->
+        </div><!-- #weather -->
+            <div class="weather_sponsor" id="dart_150x25_weather_1">
+                
+        
+        <script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=500737839354247?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=500737839354247?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=500737839354247?" border="0" alt="Advertisement"></a></noscript> 
+            </div>
+    </div><!-- end mast_top -->
     <div class="clear"></div>
     
     <div id="mast_main">
@@ -210,7 +251,7 @@ $(document).ready(function() {
         </div>
         <div id="member" class="signin">
             <ul id="services_nav">
-                <li class="first"><a href="/reg-bin/tint.cgi?mode=edit" class="member_button"><script language="javascript">document.write(user_name);</script></a>
+                <li class="first"><a href="/reg-bin/tint.cgi?mode=edit" class="member_button"><script language="javascript">document.write(user_name);</script><span class="down_arrow"></span></a>
                     <ul class="member_options">
                         <li><a href="/reg-bin/tint.cgi?mode=edit">Member Center</a></li>
                         <li><a href="/reg-bin/tint.cgi?mode=logout">Sign out</a></li>
@@ -235,7 +276,7 @@ $(document).ready(function() {
                         </a>
                     </li>
                     
-                    <li>
+                    <li id="search_widget_web_search_choice" style="display: none;">
                         <a id="web_search" href="#">
                             <img src="http://media.centredaily.com/mistatic/images/search/search_dropdown_yahoo_logo.png">Web Search
                         </a>
@@ -272,10 +313,10 @@ $(document).ready(function() {
 <div id="main_nav">
     <ul>
         <li id="nav_ad">
-
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=196181443058876?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=196181443058876?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=196181443058876?" border="0" alt="Advertisement"></a></noscript> 
-
+                
+        
+        <script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=500737839354247?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=500737839354247?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=500737839354247?" border="0" alt="Advertisement"></a></noscript> 
         </li>
         <li><a href="/#navlinks=navbar" title="Home Page">Home</a></li>                <li><a href="/news/#navlink=navbar" title="News">News</a>
                                             <ul class="subnav">
@@ -283,11 +324,11 @@ $(document).ready(function() {
                                             <ul class="subnav">
                                                         <li><a href="/college-sports/#navlink=subnav" title="">College</a></li>                                <li><a href="/sports-columnists/#navlink=subnav" title="">Columnists</a></li>                                <li><a href="/golf/#navlink=subnav" title="">Golf</a></li>                                <li><a href="/high-school-sports/#navlink=subnav" title="">High School</a></li>                                <li><a href="/MLB/#navlink=subnav" title="">MLB</a></li>                                <li><a href="/motorsports/#navlink=subnav" title="">Motorsports</a></li>                                <li><a href="/NFL/#navlink=subnav" title="">NFL</a></li>                                <li><a href="/NHL/#navlink=subnav" title="">NHL</a></li>                                <li><a href="/outdoors/#navlink=subnav" title="">Outdoors</a></li>                                <li><a href="/spikes/#navlink=subnav" title="">State College Spikes</a></li>                                <li><a href="/penn-state-sports/#navlink=subnav" title="">Penn State Sports</a></li>                                <li><a href="/penn-state-football/#navlink=subnav" title="">PSU Football</a></li>                                <li><a href="/penn-state-basketball/#navlink=subnav" title="">PSU Basketball</a></li>                                <li><a href="/penn-state-baseball/#navlink=subnav" title="">PSU Baseball</a></li>                                <li><a href="/penn-state-hockey/#navlink=subnav" title="">PSU Hockey</a></li>                                <li><a href="/penn-state-softball#navlink=subnav" title="">PSU Softball</a></li>                                <li><a href="/penn-state-soccer#navlink=subnav" title="">PSU Soccer</a></li>                                <li><a href="/penn-state-volleyball#navlink=subnav" title="">PSU Volleyball</a></li>                                <li><a href="/penn-state-wrestling#navlink=subnav" title="">PSU Wrestling</a></li>                                <li><a href="/other-sports/#navlink=subnav" title="">Other Sports</a></li>                        </ul>                </li>                <li><a href="/sandusky/#navlink=navbar" title="Penn State Scandal">Sandusky Scandal</a>
                                             <ul class="subnav">
-                                                        <li><a href="/sandusky-scandal-commentary#navlink=subnav" title="">Commentary</a></li>                                <li><a href="/sandusky-scandal-national#navlink=subnav" title="">National Coverage</a></li>                                <li><a href="/sandusky-scandal-photos#navlink=subnav" title="">Photo Gallery</a></li>                                <li><a href="/penn-state-trustees#navlink=subnav" title="">Penn State Trustees</a></li>                        </ul>                </li>                <li><a href="/living/#navlink=navbar" title="Living">Living</a>
+                                                        <li><a href="/jerry-sandusky-trial#navlink=subnav" title="">Sandusky Trial</a></li>                                <li><a href="/sandusky-scandal-commentary#navlink=subnav" title="">Commentary</a></li>                                <li><a href="/sandusky-scandal-national#navlink=subnav" title="">National Coverage</a></li>                                <li><a href="/sandusky-scandal-photos#navlink=subnav" title="">Photo Gallery</a></li>                                <li><a href="/penn-state-trustees#navlink=subnav" title="">Penn State Trustees</a></li>                        </ul>                </li>                <li><a href="/living/#navlink=navbar" title="Living">Living</a>
                                             <ul class="subnav">
                                                         <li><a href="/comics/#navlink=subnav" title="">Comics</a></li>                                <li><a href="/arts/#navlink=subnav" title="">Community Arts Centre</a></li>                                <li><a href="/entertainment/#navlink=subnav" title="">Entertainment</a></li>                                <li><a href="/family-pages/#navlink=subnav" title="">Family Pages</a></li>                                <li><a href="/features/#navlink=subnav" title="">Features</a></li>                                <li><a href="/good-life/#navlink=subnav" title="">Good Life</a></li>                                <li><a href="/weekender/#navlink=subnav" title="">Weekender</a></li>                        </ul>                </li>                <li><a href="/opinion/#navlink=navbar" title="Opinion">Opinion</a>
                                             <ul class="subnav">
-                                                        <li><a href="/opinion/blogs/#navlink=subnav" title="">Blogs</a></li>                                <li><a href="/focus-harrisburg/#navlink=subnav" title="">Focus Harrisburg</a></li>                                <li><a href="/letters-to-the-editor/#navlink=subnav" title="">Letters to the Editor</a></li>                        </ul>                </li>                <li><a href="http://www.legacy.com/obituaries/centredaily/#navlink=navbar" title="Obituaries">Obituaries</a>
+                                                        <li><a href="/opinion/blogs/#navlink=subnav" title="">Blogs</a></li>                                <li><a href="/letters-to-the-editor/#navlink=subnav" title="">Letters to the Editor</a></li>                                <li><a href="/submit-letter/#navlink=subnav" title="">Submit a Letter</a></li>                        </ul>                </li>                <li><a href="http://www.legacy.com/obituaries/centredaily/#navlink=navbar" title="Obituaries">Obituaries</a>
                                             <ul class="subnav">
                                                         <li><a href="/death-notices#navlink=subnav" title="">Death Notices</a></li>                                <li><a href="http://www.legacy.com/obituaries/centredaily/#navlink=subnav" title="">Today's Obituaries</a></li>                        </ul>                </li>                <li><a href="http://findnsave.centredaily.com/#navlink=navbar" title="CentreDaily.com Newspaper Ads">Local Deals</a>
                                             <ul class="subnav">
@@ -420,34 +461,37 @@ $(document).ready(function() {
         </div>
         <div id="sidebar" class="grid_4">
                 <div id="sidebar_r1">
-<div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_1">
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=196181443058876?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=196181443058876?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=196181443058876?" border="0" alt="Advertisement"></a></noscript> 
-        </div>
+                
+        
+        <div class="ad">
+        <div class="advertisement dart_300x250" id="dart_300x250_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=500737839354247?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=500737839354247?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.cdt00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=500737839354247?" border="0" alt="Advertisement"></a></noscript>         </div>
 </div>
+
 </div>
 <div id="sidebar_r2">
 
 </div>
 <div id="sidebar_r3">
-<div class="ad">
-        <div class="advertisement dart_300x100" id="dart_300x100_1">
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.cdt00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=196181443058876?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.cdt00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=196181443058876?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.cdt00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=196181443058876?" border="0" alt="Advertisement"></a></noscript> 
-        </div>
+                
+        
+        <div class="ad">
+        <div class="advertisement dart_300x100" id="dart_300x100_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.cdt00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=500737839354247?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.cdt00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=500737839354247?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.cdt00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=500737839354247?" border="0" alt="Advertisement"></a></noscript>         </div>
 </div>
+
 </div>
 <div id="sidebar_r4">
 
 </div>
 <div id="sidebar_r5">
-<div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_2">
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.cdt00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=196181443058876?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.cdt00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=196181443058876?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.cdt00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=196181443058876?" border="0" alt="Advertisement"></a></noscript> 
-        </div>
+                
+        
+        <div class="ad">
+        <div class="advertisement dart_300x250" id="dart_300x250_2"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.cdt00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=500737839354247?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.cdt00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=500737839354247?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.cdt00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=500737839354247?" border="0" alt="Advertisement"></a></noscript>         </div>
 </div>
+
 </div>
 
 <div id="sidebar_r6">
@@ -468,32 +512,67 @@ $(document).ready(function() {
 
 <div id="page_footer">
     
-    <section class="widget">
-    <h2 class="heading">Stay Connected</h2>
-    <div id="footer_connect_links">
-        <ul class="connect">
-            
-                    <li><a href="http://www.cdtsubscribe.com/#navlink=*stayconnected" class="subscribe" title="Subscriber Services"><span>Subscriber Services</span></a></li>
-                
-                    <li><a href="/phone_apps" class="phone_apps" title="Phone Apps"><span>Phone Apps</span></a></li>
-                
-                    <li><a href="/mobile/#navlink=*stayconected" class="mobile" title="Mobile Site"><span>Mobile Site</span></a></li>
-                
-                    <li><a href="/rss/#navlink=*stayconnected" class="rss" title="News Feeds"><span>News Feeds</span></a></li>
-                
-                    <li><a href="http://ecdt.centredaily.com/#navlink=*stayconnected" class="e_edition" title="E-Edition"><span>E-Edition</span></a></li>
-                
-                    <li><a href="http://www.facebook.com/centredaily#navlink=*stayconnected" class="facebook" title="Facebook"><span>Facebook</span></a></li>
-                
-                    <li><a href="http://twitter.com/centredailycom#navlink=*stayconnected" class="twitter" title="Twitter"><span>Twitter</span></a></li>
-                
-                    <li><a href="http://www.kobobooks.com/subscriptions/Centre-Daily-Times/TE4p_G7Dbk2D9uIWQNLGoQ.html#navlink=*stayconnected" class="ereader" title="e-Reader"><span>e-Reader</span></a></li>
-                
-                    <li><a href="http://cdt.vrvm.com/cb/773/subscribe.html#navlink=*stayconnected" class="text_alerts" title="Text Alerts"><span>Text Alerts</span></a></li>
-                
-        </ul>
-    </div><!-- /#footer_connect_links -->
-</section>
+    
+<div id="stay_connected">
+    <h2 class="heading"><span class="section_label">Stay Connected</span></h2>
+    
+<div class="item newsletters">
+    <a href="/reg-bin/tint.cgi?mode=edit#newsletters#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Email Newsletters&nbsp;<span>&gt;</span>
+            <div class="description">Manage newsletter subscriptions</div>
+        </div>
+    </a>
+</div>
+
+<div class="item tablets">
+    <a href="/tablet#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Tablets&nbsp;<span>&gt;</span>
+            <div class="description">Apps and services for tablet devices</div>
+        </div>
+    </a>
+</div>
+
+<div class="item mobile">
+    <a href="/mobile#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Mobile&nbsp;<span>&gt;</span>
+            <div class="description">Apps and services for your mobile phone</div>
+        </div>
+    </a>
+</div>
+
+<div class="item social_media">
+    <a href="/social-media#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Social Media&nbsp;<span>&gt;</span>
+            <div class="description">Get updates via Facebook and Twitter</div>
+        </div>
+    </a>
+</div>
+
+<div class="item e_edition">
+    <a href="https://ecdt.centredaily.com/#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">e-Edition&nbsp;<span>&gt;</span>
+            <div class="description">Your daily paper delivered to your computer</div>
+        </div>
+    </a>
+</div>
+
+<div class="item home_delivery">
+    <a href="http://www.cdtsubscribe.com/#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Home Delivery&nbsp;<span>&gt;</span>
+            <div class="description">Manage your home delivery account</div>
+        </div>
+    </a>
+</div>
+
+</div>
+<div class="clear"></div>
+
 	<div id="footer_text_links">
 		<p class="links">
 			
@@ -519,55 +598,31 @@ $(document).ready(function() {
     
     </div><!-- /#footer_partner_links -->
 
-    <div id="copyright">©  www.centredaily.com and wire service sources. All Rights Reserved.
+    <div id="copyright">© 2012 www.centredaily.com and wire service sources. All Rights Reserved.
         <a href="http://www.centredaily.com">http://www.centredaily.com</a></div>
 
     <a href="/" class="logo" title="CentreDaily.com">
         <img alt="CentreDaily.com" src="/mistatic/images/logo/CentreDailyTimes_footer.png">
     </a>
 
-        
-
-<div id="mistatstag" style="display:none;">        
-<!-- SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
-
-<!-- site specific file already loaded -->
-<script language="JavaScript" type="text/javascript" src="http://media.centredaily.com/mistats/products/pubsys_s_code.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-measure_popularity=false;
-mistats.msr = 'CDT|SC';
-
-mistats.pagelevel='misc';
-mistats.pagename='Section: Privacy Policy';
-mistats.version='1.0|';
-mistats.taxonomy='Online|SiteInformation|||';
-mistats.channel='Privacy Policy';
-
-
-
-
-
-
-
-
-
-
-
-
-
--->
-</script>
-<script language="JavaScript" type="text/javascript" src="http://media.centredaily.com/mistats/products/pubsys.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://media.centredaily.com/mistats/finalizestats.js"></script>
-
-<noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmstatecollege%2F1%2FH.10--NS%2F0%3FpageName%3DSection%3A%20Privacy%20Policy\&server%3Dwww.centredaily.com\&channel%3DPrivacy%20Policy\&c1%3Dhttp%3A%2F%2Fwww.centredaily.com%2Fprivacy_policy\&c3%3Dmisc\&c4%3D\&c6%3D%24%7Bmsr%7D\&c28%3D\&h1%3DCDT%7CCENTREDAILY%7COnline%7CSiteInformation%7C%7C%7C%7CPrivacy%20Policy" height="1" width="1" border="0" alt="" /></noscript>
-<!-- End SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
-</div>
-
 </div><!-- /#page_footer -->
 
+
+<div id="mistatstag" style="display:none;">        
+
+        <!-- SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
+        
+        
+        <script language="JavaScript" type="text/javascript" src="http://media.centredaily.com/mistats/products/pubsys_s_code.js"></script>
+        <script language="JavaScript" type="text/javascript" src="http://media.centredaily.com/mistats/products/pubsys.js"></script>
+        <script language="JavaScript" type="text/javascript" src="http://media.centredaily.com/mistats/finalizestats.js"></script>
+        
+        <noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmstatecollege%2F1%2FH.10--NS%2F0%3FpageName%3DSection%3A%20Privacy%20Policy\&server%3Dwww.centredaily.com\&channel%3DPrivacy%20Policy\&c1%3Dhttp%3A%2F%2Fwww.centredaily.com%2Fprivacy_policy\&c3%3Dmisc\&c4%3D\&c6%3D%24%7Bmsr%7D\&c28%3D\&h1%3DCDT%7CCENTREDAILY%7COnline%7CSiteInformation%7C%7C%7C%7CPrivacy%20Policy" height="1" width="1" border="0" alt="" /></noscript>
+        <!-- End SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 --></div>
+
 </footer>
+
+
 
 
 
