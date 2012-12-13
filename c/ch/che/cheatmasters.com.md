@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatmasters.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627200041id_/http%3A//www.cheatmasters.com/privacycm.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatmasters.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213083307id_/http%3A//www.cheatmasters.com/privacycm.php) for the most accurate reproduction.*
 
 # Cheat Masters: cheats, walkthroughs, cheat codes, unlockables, & hints!
 
