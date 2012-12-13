@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the screenslam.com privacy policy that was archived on 2012-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614003251id_/http%3A//screenslam.com/page.php%3Fpid%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the screenslam.com privacy policy that was archived on 2012-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121213131619id_/http%3A//www.screenslam.com/page.php%3Fpid%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -42,8 +42,9 @@
 		</script>
         <div id="blog-switch">
         	<ul>
-           		<li class="videos-link selected"><a href="/index2.php">VIDEOS</a></li>
-                <li class="blog-link"><a href="/blog/">BLOG</a></li>
+        	         <!-- "hiding the /blog/ directory in url using .htaccess mod rewrite. do not change these href's without updating .htacess too" -->
+                    	<li class="blog-link"><a href="/">BLOG</a></li>
+			<li class="videos-link selected"><a href="/exclusivevideos/">EXCLUSIVE VIDEOS</a></li>
             </ul>
         </div>
 </div>
@@ -55,20 +56,47 @@
 <form action="search.php" method="get">
 <div class="box navigation">
 
+
+
 <ul>
-	<li class="first-nav" onclick="parent.location='index2.php'"><a href="index2.php">HOME</a></li>
-	<li onclick="parent.location='category.php?cid=features'"><a href="category.php?cid=features">FEATURES</a></li>
-	<li onclick="parent.location='category.php?cid=laughs'"><a href="category.php?cid=laughs">LAUGHS</a></li>
-	<li onclick="parent.location='category.php?cid=redcarpet'"><a href="category.php?cid=redcarpet">RED CARPET</a></li>
-	<li onclick="parent.location='category.php?cid=interviews'"><a href="category.php?cid=interviews">INTERVIEWS</a></li>
-	<li onclick="parent.location='category.php?cid=behindscenes'"><a href="category.php?cid=behindscenes">BEHIND THE SCENES</a></li>
-	<li onclick="parent.location='category.php?cid=extras'"><a href="category.php?cid=extras">EXTRAS</a></li>
-	<li onclick="parent.location='trailers.php'"><a href="trailers.php">TRAILERS</a></li>
+	<li class="first-nav" onclick="parent.location='/exclusivevideos/index.php'"><a href="/exclusivevideos/index.php">HOME</a></li>
+	
+	<li onclick="parent.location='/exclusivevideos/category.php?cid=premieres'"><a href="/exclusivevideos/category.php?cid=premieres">PREMIERES</a></li>
+	
+	<li onclick="parent.location='/exclusivevideos/category.php?cid=interviews'"><a href="/exclusivevideos/category.php?cid=interviews">INTERVIEWS</a></li>
+	
+	<li onclick="parent.location='/exclusivevideos/category.php?cid=festivals'"><a href="/exclusivevideos/category.php?cid=festivals">FESTIVALS</a></li>
+	
+	<li onclick="parent.location='/exclusivevideos/category.php?cid=awards'"><a href="/exclusivevideos/category.php?cid=awards">AWARDS</a></li>
+	
+	
+	<li onclick="parent.location='/exclusivevideos/category.php?cid=behindscenes'"><a href="/exclusivevideos/category.php?cid=behindscenes">ON SET</a></li>
+	
+	
+<!--	<li onClick="parent.location='trailers.php'"><a href="trailers.php">TRAILERS</a></li> -->
+	
 	<li class="search" id="search-select">
 	<a id="search-select"><input name="key" type="text" id="top-search"></a>
 
 	</li>
 </ul>
+
+<!--
+<ul>
+	<li class="first-nav" onClick="parent.location='index2.php'"><a href="index2.php">HOME</a></li>
+	<li onClick="parent.location='category.php?cid=features'"><a href="category.php?cid=features">FEATURES</a></li>
+	<li onClick="parent.location='category.php?cid=laughs'"><a href="category.php?cid=laughs">LAUGHS</a></li>
+	<li onClick="parent.location='category.php?cid=redcarpet'"><a href="category.php?cid=redcarpet">RED CARPET</a></li>
+	<li onClick="parent.location='category.php?cid=interviews'"><a href="category.php?cid=interviews">INTERVIEWS</a></li>
+	<li onClick="parent.location='category.php?cid=behindscenes'"><a href="category.php?cid=behindscenes">BEHIND THE SCENES</a></li>
+	<li onClick="parent.location='category.php?cid=extras'"><a href="category.php?cid=extras">EXTRAS</a></li>
+	<li onClick="parent.location='trailers.php'"><a href="trailers.php">TRAILERS</a></li>
+	<li class="search" id="search-select">
+	<a id="search-select"><input name="key" type="text" id="top-search" /></a>
+
+	</li>
+</ul>
+-->
 	<hr>
 </div>
 
@@ -80,7 +108,7 @@
 </form>
 
 <script type="text/javascript">
-// What is $(document).ready ? See: http://flowplayer.org/tools/documentation/basics.html#document_ready
+
 $(document).ready(function() {
 
 $('#search-select').click(function() {
@@ -146,19 +174,21 @@ We use non-identifying and aggregate information to better design our website an
 
 <div class="column small right">
 
-<div class="box plain" style="overflow:hidden;" background-color:red;="">
-		<script type="text/javascript"><!--
+    <!--
+	<div class="box plain" style="overflow:hidden;" background-color:red;>
+		<script type="text/javascript">
 			google_ad_client = "pub-2692924094887856";
 			/* Square Banner */
 			google_ad_slot = "4759560405";
 			google_ad_width = 300;
 			google_ad_height = 250;
-			//-->
+			
 		</script>
-		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+		<script type="text/javascript"
+			src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 		</script>
 	</div>
-	
+	-->
 	<div class="box right social-widget" style="width:283px; margin-top:-4px;height:48px;padding-top:5px;padding-bottom:1px;padding-left:5px;padding-right:5px;">
 		<img src="images/followus.png" style="float:left;" alt="Follow Us!">
 	<a href="http://screenslam.tumblr.com" target="_blank"><img src="images/tumblr_48.png" height="48px" alt="Follow us on Tumblr!"></a>
@@ -166,20 +196,21 @@ We use non-identifying and aggregate information to better design our website an
 		<a href="http://twitter.com/screenslam" target="_blank"><img src="images/twitter_48.png" height="48px" alt="Follow us on Twitter!"></a>
 			<a href="http://www.facebook.com/pages/Screenslam/152999188075199" target="_blank"><img src="images/facebook_48.png" height="48px" alt="Follow us on Facebook!"></a>
 	</div>
-	
+	<!--
 		<div class="box plain" style="height:250px;">
-		<a href="http://itunes.apple.com/us/app/id449311150?mt=8" target="_blank"><img src="images/image.jpg"></a>
-		<!-- script type="text/javascript"><!--
+		<a href="http://itunes.apple.com/us/app/id449311150?mt=8" target="_blank"><img src="images/image.jpg" /></a>
+		<script type="text/javascript">
 			google_ad_client = "pub-2692924094887856";
 			/* Square Banner */
 			google_ad_slot = "4759560405";
 			google_ad_width = 300;
 			google_ad_height = 250;
-			//-->
-		
-		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			
 		</script>
-	</div>
+		<script type="text/javascript"
+			src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+		</script 
+	</div>-->
 	
 	
 	
@@ -214,7 +245,9 @@ We use non-identifying and aggregate information to better design our website an
 	
 	<span>Copyright © 2012 Zap Entertainment Corp. All Rights Reserved.</span>
 </div>
-	
+
+<!-- YouTube Monetization script -->
+<script type="text/javascript" src="http://www.heavy.com/yt/replace.php?pid=screenslam&amp;footer=true"></script>
 	
 	<script type="text/javascript">
 
