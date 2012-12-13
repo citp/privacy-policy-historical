@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashloaded.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601020938id_/http%3A//www.flashloaded.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashloaded.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213095236id_/http%3A//flashloaded.com/disclaimer) for the most accurate reproduction.*
 
 # Flashloaded - Disclaimer and Privacy Policy
 
