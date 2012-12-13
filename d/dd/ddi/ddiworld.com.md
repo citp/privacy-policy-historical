@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddiworld.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614012037id_/http%3A//www.ddiworld.com/privacy/default%3Fid%3Den-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddiworld.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213062906id_/http%3A//www.ddiworld.com/privacy/default%3Fid%3Den-us) for the most accurate reproduction.*
 
 # Talent Management Expert | Development Dimensions International's Privacy Statement in English | DDI
 
@@ -9,7 +9,7 @@ This Privacy Statement is effective as of February 15, 2012.
 
 Development Dimensions International (DDI) designed and manages the site you are viewing. DDI provides a range of Internet-based tools to support the corporate Human Resources function.
 
-DDI has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacyofficer@ddiworld.com. If you are not satisfied with our response you can [contact TRUSTe here](http://feedback-form.truste.com/watchdog/request)
+DDI has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacyofficer@ddiworld.com. If you are not satisfied with our response you can [contact TRUSTe here](http://feedback-form.truste.com/watchdog/request), the TRUSTe certification applies to the websites listed below in Appendix A.
 
 DDI complies with the U.S. – E.U. Safe Harbor Framework and the U.S. Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. DDI has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view DDI’s certification, please visit <http://www.export.gov/safeharbor/>
 
@@ -29,6 +29,7 @@ Third Party Intermediaries and Service Providers
 Business Transitions  
 Choice/Opt-out  
 Links  
+Social Media Features  
 Security  
 Acceptable Use  
 Correcting/Updating/Deleting/Deactivating PII  
@@ -126,7 +127,12 @@ Users who provide information requested by the Sites, or who continue to use the
 
 Sites can contain links to other sites. Please be aware that DDI is not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our Sites and to read the Privacy Statements of each and every Web Site that collects personally identifiable information.
 
-This Privacy Statement applies solely to information collected by the Sites.
+This Privacy Statement applies solely to information collected by the Sites.  
+ 
+
+## Social Media Features
+
+Our Web site includes Social Media Features, such as the Facebook and Linkedin button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
 ## Security
 
@@ -246,11 +252,7 @@ Some of our third party business service providers (e.g., aggregate traffic anal
 
 Our third party business service provider does not associate a user's search activity with his/her ad click history. The information collected is only in aggregate form and is not tied to any personal information.  Users who don't want to participate in tracking activities can not accept this cookie by setting their Internet browser user preferences.  These users will simply not be included in our conversion tracking statistics.
 
-Third Parties, with whom we partner to provide certain features on our site, use Flash cookies to collect and store information.
-
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored.  Cookie management tools provided by your browser will not remove Flash cookies.  To learn how to manage privacy and storage settings for Flash cookies click here:
-
-<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
 This Privacy Statement covers the use of cookies by the Sites and does not cover the use of cookies by any third parties.
 
