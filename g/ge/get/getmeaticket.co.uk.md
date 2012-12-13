@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmeaticket.co.uk privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628063822id_/http%3A//www2.getmeaticket.co.uk/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmeaticket.co.uk privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213091814id_/http%3A//www.getmeaticket.co.uk/page/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Get Me A Ticket
 
