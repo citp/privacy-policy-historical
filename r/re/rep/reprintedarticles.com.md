@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reprintedarticles.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522124508id_/http%3A//reprintedarticles.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reprintedarticles.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213065104id_/http%3A//reprintedarticles.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Reprinted Articles
 
