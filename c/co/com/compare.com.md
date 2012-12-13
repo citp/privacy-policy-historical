@@ -1,54 +1,113 @@
-> *The following text is extracted and transformed from the compare.com privacy policy that was archived on 2012-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120429123534id_/http%3A//www.compare.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compare.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213082843id_/http%3A//www.compare.com/t/privacy) for the most accurate reproduction.*
 
-# COMPARE.COM -- Privacy Policy
+# Privacy Policy — Compare.com
 
-Privacy Policy
+## Compare.com Privacy Policy
 
-November 18th, 2005 
+#### Last Updated: May 18, 2012
+
+As a user of this website ("Site") or the services ("Services") provided by Compare.com, this Privacy Policy is intended to describe for you:
+
+  * the information we collect about you,
+  * how that information may be used,
+  * with whom it may be shared,
+  * how you may access the information you provide us, and
+  * your choices about such uses and disclosures.
+
+
+
+We encourage you to read this Privacy Policy carefully before using the Site or Services or transacting business with us. If you have questions or concerns regarding this Privacy Policy, please contact us via email or mail using the contact information provided below.
+
+#### Information Collection
+
+We may collect personal information such as your name, mailing address, e-mail address and phone number, as well as other information. When you provide personal information through the Site, the information may be sent to our servers located in the United States and other countries around the world.  We may collect and store any information that you enter into the Site or provide to us in some other manner.
 
   
-This Privacy Policy explains our policy regarding the collection, use and disclosure of your personal information. As we update and expand our services, this policy may change, so please refer back to it periodically. By accessing our Web site or using our services, you consent to our information practices. 
+_**Third Party List Information.**_   We may also obtain both personal and non-personal information about you from third party data gathering sources.  We may match this third-party collected information with the personal information that you provide to us.
 
-**Collection and Use of Information**  
-Personal information means information that can be used to identify and contact you, specifically your name, postal delivery address, e-mail address, payment method (e.g., credit card or debit card) and telephone number, as well as other information when such information is combined with your personal information. 
+  
+_**Cookies, Web Beacons, and Other Information Collection Technology.**_   We and our business partners, such as advertisers, may use various technologies to collect information from your computer and about your activities on the Site. For example, we and our business partners may collect and store non-personally identifying information through technologies such as cookies, log files, clear gifs (also known as web beacons), and other technologies to help determine user viewing preferences for advertising and other purposes.
 
-When you register or re-register at our Web site, we may ask you to supply us with personal information so that we can provide, enhance and personalize our services and marketing efforts. For similar reasons, we may supplement the personal information you provide with publicly available information about you. We use this personal information to process your registration, your orders and your payments, and to communicate with you on these and other topics. We also use your e-mail address to send you newsletters, as well as messages about Compare.com special offers, promotional announcements and consumer surveys. Occasionally, we may send these materials to you via postal mail, using the shipping address provided. Our mailers that contain the DVDs may also contain promotional items or advertisements. 
+    *  _Log Files._ Technical information from your browser may be automatically collected when you visit the Site. This information includes your IP address, your browser type, operating system, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
 
-We keep track of your interactions with us, including but not limited to your site activity and correspondence. We use this information for such purposes as providing recommendations on movies we think will be enjoyable, personalizing the site to better reflect particular interests, helping us quickly and efficiently respond to inquiries and requests and otherwise enhancing our service offering for our customers. We also provide analyses of our users in the aggregate to prospective partners, advertisers and other third parties. 
 
-While using the Compare.com service and Web site, you will have opportunities to post reviews or other personal information in public forums. Please understand that when you post such information, it is made public and is not subject to this policy. 
+    * _Cookies._ A cookie is a piece of data stored on a user’s browser that tracks non-personal information about the user. When using the Site, we may assign your computer one or more cookies which enable us to improve the quality of our Service, to customize your experience, and for other purposes. Cookies allow us to automatically collect information about your browser or device activity on the Site, such as the web pages you visit, the links or advertisements you click, or the other actions you conduct while using the Site. Most browsers automatically accept cookies, but you can usually modify your browser setting to disable cookies. If you choose to disable cookies, you will still be able to access the Site, but you may not be able to use all of the interactive features we offer. Additional information on cookies can be found at: <http://www.microsoft.com/info/cookies.htm>.
 
-**Links to Other Sites**  
-The Compare.com Web site contains links to sites operated by third parties whose policies regarding the handling of personal information may differ from ours. While we endeavor to associate with reputable sites, Compare.com cannot be responsible for the information handling practices of these other sites. 
 
-**Children**  
-You must be 18 years of age or older to subscribe to the Compare.com service. While individuals under the age of 18 may utilize the service, they may do so only with the involvement of a parent or legal guardian and subject to our Terms of Use. While Compare.com does distribute products that may be watched by children, we do not intentionally seek to collect information from individuals 13 years of age and younger nor do we knowingly collect personal information from children under 13 through the service. 
+    * _Web Beacons._ We, or our advertisers, may use standard Internet technology such as web beacons, clear gifs, pixels, and other similar technologies, to gather aggregate information about your browser or device activity on the Site. We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. We use such web beacons to gauge the effectiveness of our marketing efforts and the quality of the Site, and for other purposes.
 
-**Cookies and Other Technology**  
-As you browse the Compare.com site, cookies are placed on your computer's hard drive. (Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive for record keeping purposes.) In general, cookies can make the Web more useful by storing information about your preferences on a particular site. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. If your browser is set to not accept cookies, you will not be able to use the Compare.com site or service. 
 
-In addition to cookies, we use other technologies, including pixel tags, to gather information on how our users interact with our site and to otherwise help us efficiently operate and monitor our site and service. These technologies, show us, for example, popular pages, conversion rates, click-throughs and other information that can be used to improve, operate and monitor our site and our service. Third parties, including consultants we engage and online advertisers, may also use this technology to perform similar services for us as well as to assess their own advertising or services. 
+    * _Information collected by third-parties._ We and our business partners, such as advertisers, may use technologies, such as cookies and pixels, to collect information about users who view or interact with these advertisements and connect to other websites. This information allows us and our business partners to deliver customized advertisements and gauge their effectiveness. Please note that we do not have access to or control over third parties’ cookies used on the Site, and this policy does not govern the use of cookies by these third parties. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative (NAI) and/or participants of the Digital Advertising Alliance (DAA), which offer a single location to opt out of ad customization from their respective participating companies at <http://www.networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/choices/>.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
-**Disclosure of Personal Information**  
-Except as otherwise disclosed to you, we will not sell, rent or disclose your personal information to third parties without notifying you of our intent to share the personal information in advance and giving you an opportunity to prevent your personal information from being shared. 
 
-We use other companies, agents or contractors to perform services on our behalf. For example, we have partnered with other companies to personalize and optimize our Web pages, collect debts, analyze and enhance data, including customers' interaction with our site, and process consumer surveys. 
+_**Sponsor or Link Websites.**_   Links or sponsor websites may be presented in a manner that allows us to keep track of whether the links or sponsor sites have been used. We use this information to improve the quality of the Site, to keep track of advertising, and to customize your online experience. We are not responsible for the privacy practices of other websites.
 
-From time to time, we may partner with companies whose products we believe will interest our users. In conjunction with these partners, we may send promotional announcements and/or serve web-based advertisements to our customers on their behalf. You can go to the Email Subscriptions page under Your Account and request that your name be excluded from these mailings for our marketing partners. In addition, we may offer joint promotions or programs that, in order for participation, will require personal information be shared with third parties. In such instances, you will be provided with notice of the sharing prior to your decision to participate. 
+#### Information Use and Sharing
 
-Compare.com also reserves the right to disclose personal information when we reasonably believe disclosure is required by law, if we reasonably believe disclosure is necessary to establish or exercise legal rights, or in situations involving potential threats to physical safety. In the event that Compare.com is acquired by or merged with a third party, we reserve the right, to sell or otherwise transfer the personal information we have collected as part of that transaction provided that such third party continues to honor our privacy policy. 
+PLEASE NOTE THAT WE MAY USE THE INFORMATION THAT WE COLLECT ON THE SITE, AND IN THE COURSE OF PROVIDING THE SERVICES, FOR ANY PURPOSE IN OUR SOLE DISCRETION. We may match any of the information we gather to any personally identifying information or other information we have obtained from or about you to improve the content of the Site and Services for you. Examples of some of the ways we use or share information that we collect about you include, but are not limited to, the following:
 
-**Security**  
-Compare.com takes information security very seriously and uses reasonable administrative, technical and managerial measures to protect your personal information from unauthorized access. For example, we utilize Secure Sockets Layering, an industry-standard protocol for certain of your transmissions to us, in order to encrypt the personal information that you send to us through the registration and sign up process. We store your email address and payment method information in an encrypted form. 
+  * providing you with products or services, including the display of customized content, advertising, and services;
+  * providing technical or customer support;
+  * performing research and analysis to gauge use of or interest in products, services, or content offered on the Site, and to develop new services;
+  * responding to your requests and inquires;
+  * communicating with you by e-mail about products or services that may be of interest to you;
+  * enforcing our terms and conditions, or otherwise managing our business;
+  * performing functions as otherwise described to you at the time of collection.
 
-You are responsible for maintaining the confidentiality of your account information and for restricting access to your computer or mobile device through which you access your Compare.com account. Users of public or shared computers or unprotected mobile devices should log out at the completion of each visit to the Compare.com Web site. 
 
-Unfortunately, no security system can be guaranteed to be 100% secure. Accordingly, we cannot guarantee the security of your personal information and cannot assume liability for improper access to it. By using this Web site, or providing personal information to us through any means, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this site. 
 
-**Changes to This Policy**  
-As we update and expand our services, we may make changes to this policy. You should check back for updates to this policy from time to time. If the changes result in materially less protection for your personal information than that provided in this policy, we will make reasonable efforts to contact you and obtain your consent to the changes. Like our Terms of Use, of which this policy is a part, your use of the Compare.com Web site or continued use of our service after our efforts to contact you means that you agree to be bound by such changes. 
+_**Communications From This Website.**_   Unless you have opted out of these features where available, we may use your information in a variety of ways to communicate with you, such as through email, newsletters, RSS feeds, service announcements, or for customer service.
 
-**Contact**  
-If you have questions concerning your account, please contact Customer Service. If you have questions concerning this privacy policy, please contact privacy@compare.com. 
+  
+_**Personal Information.**_ Unless you have opted out where available, we may rent, sell, or share any of your information, personal or otherwise, with third parties, including without limitation for the following purposes:
+
+    * Service providers: We may share your personal information, alone or in combination with non-personal information, with third party service providers in connection with the Services we provide or your request for customer service on the Site. These service providers may include entities such as credit bureaus, financial institutions, marketing and customer services firms, credit card payment processors, as well as companies that support contests, sweepstakes, surveys, or other features offered through the Site, or that provide business analysis or website support. These service providers may have access to personal information needed to perform their functions, which may include using the information to contact you.
+
+
+    * Business partners: Business partners: When you express interest in promotions offered through the Site or our Services, we may share your personal information, alone or in combination with non-personal information, with the relevant business partners or affiliates to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular offer or program, you authorize us to provide your personal information address and other information to that business so that they may contact you
+
+
+    * Third parties for business reasons: _Third parties for business reasons: In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy._
+
+
+    * _Third parties for legal process: In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from any law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us in our sole discretion. In addition, we may disclose your information when we believe it is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce the Site terms of use or other agreements or policies._
+
+
+
+_**Aggregated and Non-Personal Information.**_ We may rent, sell, or share aggregated demographic information not specifically identifiable to you, and other non-personal information we collect, with any third parties for any reason, including to develop and deliver customized advertising, and to conduct general business analysis. We may combine non-personal information we collect with additional non-personal information collected from other sources. For example, we may tell our advertisers the number of visitors to the Site and the most popular features or Services accessed.
+
+  
+Please note that our Privacy Policy does not cover any third party's use or handling of your information once it is shared. Rather, the privacy policies of the various third parties will govern. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
+
+  
+_**Links**_. This Site contains links to other websites, including through advertisements. We are not responsible for the privacy practices of third party linked websites, even if this Site frames the linked third party website. We encourage you to be aware of when you leave the Site and to review the privacy statements of each and every website that you visit that collects personally identifiable information. This Privacy Policy applies solely to information we collect.
+
+#### Choice/Opt-Out
+
+We give our users the opportunity to “opt-out” of having their personal information used for purposes not directly related to the Site at the point where we ask for the information, including the sharing of personal information with third parties for their own marketing purposes. Please be aware that this may result in our not being able to provide certain services to you that require us to share information with third parties. If you choose to receive communications from us but later wish to discontinue receiving communications or our Services, you can opt-out by contacting us via email or mail using the contact information provided below.
+
+  
+Please note that opting out of receipt of promotional e-mail communications will only affect future activities or communications from us. If we have already provided your information to a third party before you have changed your preferences or updated your information, you will have to change your preferences directly with that third party. To opt-out of communications from our third party business partners, please contact them directly.
+
+#### Visitors Outside the United States
+
+This Privacy Policy is intended to cover collection of information on the Site from residents of the United States. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. If you are visiting the Site from outside the United States, you acknowledge and agree that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. By using our Services, you acknowledge and agree that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
+
+#### User-Generated Content
+
+The Site enables users to post information about themselves, comments, reviews, pictures, videos and other user-created content. Please remember that any information that you post on the Site becomes public information and exercise caution when deciding to disclose your contact, financial, or other information in a submission. We cannot prevent such information from being used in a manner that may violate this Privacy Policy, the law, or your personal privacy and safety.
+
+#### Privacy Policy Changes
+
+This Privacy Policy may be updated from time to time. You should visit this page frequently to review any such updates.
+
+#### General Contact: 
+
+Compare.com  
+Attn:  Privacy  
+17 West 18th Street, 8th Floor  
+New York, NY 10011  
+privacy@compare.com
+
+[Terms of Use](https://web.archive.org/t/terms)
