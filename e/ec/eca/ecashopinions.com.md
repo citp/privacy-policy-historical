@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecashopinions.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628220417id_/http%3A//www.ecashopinions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecashopinions.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213194349id_/http%3A//www.ecashopinions.com/privacy.html) for the most accurate reproduction.*
 
 # eCashOpinions.com - Get Paid To Take Surveys!
 
@@ -34,4 +34,4 @@ You may also mail your concerns to us at the following address:
 Holland, MI, 49423  
 United States
 
-Please note that the content of this page can change without prior notice. This Privacy Policy was last updated on 03-21-12. Copyright © 2010 [NoSpamZone.biz](https://web.archive.org/web/20120628220417id_/http%3A//www.ecashopinions.com/NoSpamZone.biz), and licensed for use by the owner of this website at [eCashOpinions](http://ecashopinions.com/). All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner. 
+Please note that the content of this page can change without prior notice. This Privacy Policy was last updated on 03-21-12. Copyright © 2010 [NoSpamZone.biz](https://web.archive.org/web/20121213194349id_/http%3A//www.ecashopinions.com/NoSpamZone.biz), and licensed for use by the owner of this website at [eCashOpinions](http://ecashopinions.com/). All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner. 
