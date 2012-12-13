@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-vectors.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615125033id_/http%3A//free-vectors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-vectors.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213120337id_/http%3A//free-vectors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -25,3 +25,5 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 Google’s use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.
 
 As a user, you may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+ 
