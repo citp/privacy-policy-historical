@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trinidadjob.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601025428id_/http%3A//www.trinidadjob.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D81%3Aprivacy-policy%26catid%3D31) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trinidadjob.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213174422id_/http%3A//www.trinidadjob.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D81%3Aprivacy-policy%26catid%3D31) for the most accurate reproduction.*
 
 # Privacy Policy
 
