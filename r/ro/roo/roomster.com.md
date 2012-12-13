@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the roomster.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626070457id_/http%3A//www.roomster.com/info/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomster.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213144253id_/https%3A//www.roomster.com/info/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Roommate search service, roommate finder, roommates wanted.
 
-Privacy Policy 
+## Privacy Policy
 
 Protecting your privacy is critical to Roomster. We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent. 
 
 This privacy policy describes how we collect and use your data. If you have any questions or comments regarding Roomster's privacy policy or its enforcement, please contact us at [privacy@roomster.com](mailto:privacy@roomster.com)
+
+  
+
 
   1. ABOUT ROOMSTER. Roomster is an online apartment, roommate and subletting community that connects people with apartments with help from their friends. Members create their own profiles, and those profiles are then shown to their network of friends.
   2. INFORMATION WE COLLECT. Roomster collects information our users submit to us such as their name and e-mail address to allow us to identify users and notify them of changes or updates to our service. We also collect personal information submitted by our users in filling out their profile on the service such as gender, state of residence, occupation, interests, etc. We collect this personal information when our users: (a) sign up as a member; (b) make changes to their member profile information; and (c) send e-mail messages, forms, or other information to us via Roomster. Members may choose to provide additional information beyond their basic profile for their personal and professional profiles. Providing additional information beyond what is required at registration is entirely optional, but enables our users to better identify each other and more effectively connect and interact with their network.
@@ -32,5 +35,3 @@ Email address and full name are used when a user invites a friend via email to j
   16. ORGANIZATION COLLECTING INFORMATION. Roomster Corp. owns and operates the Roomster.com domain. You may contact Roomster at [privacy@roomster.com](mailto:privacy@roomster.com)
 
 
-
-| 
