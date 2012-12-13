@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autobargainsusa.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614002841id_/http%3A//www.autobargainsusa.com/Shrd/Docs/Privacy.aspx%3FType%3DAutos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobargainsusa.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213105815id_/http%3A//www.autobargainsusa.com/Shrd/Docs/Privacy.aspx%3FType%3DAutos) for the most accurate reproduction.*
 
 # Your Privacy Rights Summarized
 
@@ -6,25 +6,31 @@
 
 **Your Privacy Rights Summarized**
 
-**Auto Bargains USA [hereinafter referred to as “Company”, “us” or “we”] collects personal information about you and distributes that information to provide with services and products you request on this website.   In addition, we distribute that information to others to provide you with other products and services. This summary and the full policy below describes how information is collected and distributed and your choices with respect to your personal information. Please review our full *Privacy Policy* for detailed information on our information and privacy practices.**
+**Auto Bargains USA [hereinafter referred to as “Company”, “us” or “we”] collects personal information about you and distributes that information to provide you with services and products you request on this website.   In addition, we distribute that information to others to provide you with other products and services. This summary and the full policy below describes how information is collected and distributed and your choices with respect to your personal information. Please review our Full Privacy Policy for detailed information on our information and privacy practices.**
 
 ## Information We Collect and Retain Summarized
 
-We collect your personal information and demographic information you choose to provide us. We also collect information about how you use our site and the areas of our site that you visit. We may also acquire information about you from third parties in order to further personalize your experience. The resulting logs that we create contain information necessary for us to analyze the use of resources, troubleshoot problems, and improve our services. We also use cookies and web beacons for tracking payments from you and to third parties.
+We collect your personal information and demographic information you choose to provide us. We also collect information about how you use our site and the areas of our site that you visit. We may also acquire information about you from third parties in order to further personalize your experience. The resulting logs that we create contain information necessary for us to analyze the use of resources, troubleshoot problems, and improve our services. We also use cookies and web beacons for tracking activity between you and to third parties.
 
-## How Your Information is Used
+## Information Others Collect and Retain Summarized
 
-Information you provide us upon registration for services and products listed on our site, post in public areas of the site, or placed in a searchable database will be accessed, used, and stored by others around the world. We use commercially reasonable practices to provide a safe, secure environment by limiting access to our database to authorized persons with whom we are in a contractual relationship, but cannot guarantee that unauthorized parties will not gain access. We also cannot control how authorized persons store or transfer information downloaded from the database, so you should ensure that you do not post sensitive information to our Site.
+We may allow third party advertising companies or ad networks to display advertisements on our websites. We do not provide personal information to these companies. These companies may use trackng tools, such as cookies or web beacons, to collect information about computers used to visit our websites or view/interact with their advertisements. Some of these companies may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies.
+
+## How Your Information is Used Summarized
+
+Information you provide us upon visiting our website and/or registration for services and products listed on our site, post in public areas of the site, or placed in a searchable database will be accessed, used, and stored by others around the world. We use commercially reasonable practices to provide a safe, secure environment by limiting access to our database to authorized persons with whom we are in a contractual relationship, but cannot guarantee that unauthorized parties will not gain access. We also cannot control how authorized persons store or transfer information downloaded from the database, so you should ensure that you do not post sensitive information to our Site.
 
 We use the information we collect about you to deliver the products and services we offer, and to operate and improve our site. Our services may include the display of personalized content and advertising. We may use your information to contact you about site updates, conduct surveys, or informational and service-related communications, including important security updates. 
 
-## Disclosure of Information to Others
+Others may use the Information, including cookies and web beacons, you provide us upon visiting our website to target advertisements to you across the web. These companies may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies. 
+
+## Disclosure of Information to Others Summarized
 
 We share your information with third parties who deliver the products and services you have requested. These third parties may not use your information for any purpose other than assisting us in providing those products and services.  
 
 We may also use your information to contact you about other products or services available from third parties.  We may also share your information with third parties who may contact you about their products or services.  We also share information where legally required. Information collected on our Sites is stored in whole or in part in the United States, and therefore subject to U.S. law. Finally, we may disclose and transfer information if our business is sold or acquired.
 
-## Your Choices About Your Information
+## Your Choices About Your Information Summarized
 
 You may delete the personal information you submit to us at any time by notifying us at [unsubscribe@AutoBargainsUSA.com](mailto:unsubscribe@AutoBargainsUSA.com). When you request us to delete your personal information, it will be deleted, but we will retain logs, demographic and statistical information about you and keep an archival copy of your information in an anonymous form. If your personal information was previously accessed by others or transferred to others using our Site, we are unable to delete the information from their systems. 
 
@@ -36,7 +42,7 @@ You may also turn off cookies through your web browser.  However, this may affe
 
 ## How to Contact Us
 
-You may contact us for questions or concerns about our privacy practices by emailing us at privacy@AutoBargainsUSA.com or write to us at: 
+You may contact us for questions or concerns about our privacy practices by emailing us at [privacy@AutoBargainsUSA.com](mailto:privacy@AutoBargainsUSA.com) or write to us at: 
 
 Auto Bargains USA
 
@@ -54,13 +60,13 @@ By registering or using this site, you explicitly accept, without limitation or 
 
 This policy applies to this website and regulates the processing of information relating to you and grants both us and you various rights with respect to your personal data.  It describes what type of information we collect; how we use that information and to whom we can provide that information.  It also informs you of how to notify us to stop using your information. Our company is located in the United States.  You may be located in a country that has laws which are more restrictive about the collection and use of your personal information.  However, by using our site, you agree to waive the more restrictive laws and agree to be governed by the laws of the United States. 
 
-This Site may also posts links to other web sites over which we have no control. As such, we are not responsible for the privacy policies or practices of other web sites when you choose to link from this site. We encourage you to review the privacy policies of those other web sites so you can understand how they collect, use and share your information. 
+This Site may also post links to other web sites over which we have no control. As such, we are not responsible for the privacy policies or practices of other web sites when you choose to link from this site. We encourage you to review the privacy policies of those other web sites so you can understand how they collect, use and share your information. 
 
 We also do not control the data use practices of those persons or entities who may access your information on this site for the purposes of providing the service or product you have requested or third party Ad Networks and other third parties with whom we work to serve you personalized ads on our site. We encourage you to review the privacy policies and opt-out choices of those third parties so you can understand how they collect, use and share your information.
 
 ## Information We Collect and Retain
 
-We collect the following general types of information about you when you visit and use our Site: personal information, demographic information, behavioral information, and indirect information. Sometimes we collect combinations of these types of information.  
+We collect the following general types of information about you when you visit and use our Site: personal information, demographic information, behavioral information, indirect information and Web Technology Information. Sometimes we collect combinations of these types of information.  
 
 __Personal information__ is information that can be used to identify you, or any other individual to whom the information may relate, personally. We do not collect personal information unless you choose to provide it to us. Some examples of personal information that we collect in some areas of our Site, depending on the services you use and local law, are: 
 
@@ -79,13 +85,17 @@ __Demographic information__ is information that may or may not be unique to you 
 
 __Behavioral information__ __ is information pertaining to how you use our site, the areas of our site that you visit, what services you access, and information about your computer hardware and software including your IP address, geographic location, browser preference, operating system type, domain names, times that you access the internet and other website you have been referred to us through. This information is necessary for analyzing the use of resources, troubleshooting problems, preventing fraud, and improving our services and products. 
 
-__Third party information__ is information that we acquire from a third party which may include personal, demographic, behavioral and indirect information.  We obtain this information so that we can personalize the advertising to you shown our site.   
+__Indirect information__ is information that we acquire from a third party which may include personal, demographic, behavioral and indirect information.  We obtain this information so that we can personalize the advertising to you shown our site.   
 
 __Web Technology information__ is information we automatically collect from you when you open one of our emails or visit our site.  This includes information collected from the use of cookies, web beacons or java script. 
 
 __No Information Collected from Children.__   Company will never knowingly collect any Personal Information about children under the age of 13.  If Company obtains actual knowledge that it has collected Personal Information about a child under the age of 13, that information will be immediately deleted from its database.  Because it does not collect such information, Company has no such information to use or to disclose to third parties. 
 
 __Credit Card Information and Bank Account Information.__   Company may, in certain instances, collect credit card numbers, bank account information and related information when an individual places an order on Company’s Website. When the credit card or bank account information is submitted to Company, such information is encrypted and is protected with SSL encryption software. Company will use the credit card information or bank account information for purposes of processing and completing the transaction you requested on the Website, and the credit card information or bank account information will be disclosed to third parties as necessary to complete the requested purchase transaction. 
+
+## Information Others Collect and Retain
+
+We may allow third party advertising companies or ad networks to display advertisements on our websites. We do not provide personal information to these companies. These companies may use trackng tools, such as cookies, to collect information about computers used to visit our websites or view/interact with their advertisements. Some of these companies may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies.  
 
 ## Use of Cookies, Web Beacons, and Java Script
 
@@ -125,7 +135,7 @@ We disclose to third parties throughout the world your personal information, com
 
 __Product and Service Delivery.__ _    _ We may share your information with third parties who help us in the delivery the products and services you have requested. We disclose information to companies and individuals we employ to perform technical functions on our behalf. Examples include third parties who host our website, analyze our data, provide marketing assistance, process credit card payments, and provide customer service. These companies and individuals may not share that information with any other third party or use that data for any other purpose. 
 
-__Third Party Products and Services__. We may disclose such information to third parties to provide you with information about the opportunities, products or services of third parties.  We use the data and data logs we have about you, including interests and preferences you have expressed, to determine whether you might be interested in the opportunities, products or services of a particular third party. This type of marketing may be in the form of email offers or mobile offers sent to by third parties or telemarketing calls from third parties. 
+__Third Party Products and Services__. We may disclose such information to third parties to provide you with information about the opportunities, products or services of third parties.  We use the data and data logs we have about you, including interests and preferences you have expressed, to determine whether you might be interested in the opportunities, products or services of a particular third party. This type of marketing may be in the form of email offers, display advertising by us or third parties, mobile offers sent by third parties or telemarketing calls from third parties. 
 
 __Anonymous information__ _._ _  _We also share aggregated anonymous information about you and other persons using our Site with third parties so that they can understand the kinds of visitors to the Site and how those visitors use the Sites.  This includes demographic information and behavioral information.
 
@@ -179,4 +189,4 @@ However, under the law, a business is not required to provide the above-describe
 
 As stated in this policy, you have agreed to allow us to share information with third parties for their direct marketing purposes until you remove your information and thus, agreement for such disclosure. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt in to such use when you provide personally identifiable information on one of our sites or contact us via email to remove your information from our database. Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
 
-California customers may request further information about our compliance with this law by e-mailing privacy@AutoBargainsUSA.com. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address.
+California customers may request further information about our compliance with this law by e-mailing [privacy@AutoBargainsUSA.com](mailto:privacy@AutoBargainsUSA.com). Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address.
