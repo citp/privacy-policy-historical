@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uread.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604062341id_/http%3A//www.uread.com/help.aspx%3F%23policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uread.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213093811id_/http%3A//www.uread.com/help.aspx%3F%23policy) for the most accurate reproduction.*
 
 # uRead.com: Buy Books Online: Bookstore in India: Highest Discount
 
@@ -127,7 +127,7 @@ Phone : +91-11-43501212
 
 In case of cheque payments, orders will be processed only after clearance of the cheque. We accept cheques which are payable "at par" at New Delhi. Do make sure that your book is NOT shown as Out of Stock on uRead.com before you send us your payment. 
 
-If the value of your order is less that $1.8, add $0.54 as shipping charges. We will process your order upon receiving your payment and your book will be couriered to you, or sent by Government Registered Post if there is no Courier Service operational in your area. 
+If the value of your order is less that $1.84, add $0.55 as shipping charges. We will process your order upon receiving your payment and your book will be couriered to you, or sent by Government Registered Post if there is no Courier Service operational in your area. 
 
 Enclose a covering letter with the name and author of the book, **your Shipping Address, Phone Number and Email Address.** Kindly also send us an email informing us that you have sent your DD/Cheque. It will help us process your order quicker. 
 
@@ -213,7 +213,7 @@ Couldn't find the information you needed? Please ask on [ contact@uRead.com](mai
 
 ##  How much are the shipping charges?
 
-URead.com provides free shipping on all books to all locations in India if your total order amount is more than $1.8. Otherwise $0.54 is charged as shipping charge. 
+URead.com provides free shipping on all books to all locations in India if your total order amount is more than $1.84. Otherwise $0.55 is charged as shipping charge. 
 
 International shipping rates are calculated based on the product and the shipping location. These rates are made available during checkout once you enter the delivery address. 
 
@@ -256,13 +256,25 @@ The most current summary for all your orders is always available in "My Account"
 
 ###  Returns
 
-##  What do I do in case I receive a defective/damaged book from URead.com?
+##  What do I do in case I receive a defective/damaged book from uRead.com?
 
-If something is wrong with the books being shipped by URead.com, we certainly want to help you. If a book ordered by you on URead.com is delivered to you in a damaged/defective condition, please email to us on [returns@uRead.com](mailto:returns@uRead.com) for a replacement. If the book is not available in stock, you would be also eligible for an immediate refund. We will also have the defective/damaged book picked up from you at no extra cost. 
+We follow strict quality controls for packaging and shipping to our customers. If something is wrong with the books being shipped by uRead.com, we certainly want to help you. 
+
+**_India_**  
+If a book ordered by you on uRead is delivered to you in a damaged/defective condition, please email the pictures of the same at the time of opening the packet on [returns@uread.com](mailto:returns@uread.com) for a replacement and send the damaged book back to us. On receipt of the book, we’ll immediately send you the replacement copy and also compensate you for the costs incurred in sending the same to our office. If the book is not available in stock, you would be also eligible for an immediate refund. 
+
+**_International_**  
+In an exceptional case of you receiving a damaged / defective book, please do email the pictures at the time of opening the packet on [returns@uread.com](mailto:returns@uread.com) and we’ll take up on a case to case basis. 
 
 ##  How can I return a product ordered from uRead.com?
 
-To provide you a worry free shopping experience on URead.com, we offer you a No Questions Asked Return Policy. Within 7 days of receiving your shipment, you may return any unopened book(s) in its original packaging, for a refund (excluding shipping costs). 
+To provide you a worry free shopping experience on uRead.com, we offer you a No Questions Asked Return Policy. 
+
+**_India_**  
+In case you don’t require the book(s) ordered by you, please notify us about the same on [returns@uread.com](mailto:returns@uread.com) within 48 hours of receiving your shipment. You may return any unopened book(s) in its original packaging, for a refund or Gift Certificate for the amount. However, in this case, we’ll not be able to compensate the Shipping costs incurred by you. 
+
+**_International_**  
+We do not offer Returns on International shipments. 
 
 ###  URead.com Privacy Policy
 
