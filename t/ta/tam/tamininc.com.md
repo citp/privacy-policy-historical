@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tamininc.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527105147id_/http%3A//www.tamininc.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamininc.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213104917id_/http%3A//www.tamininc.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Tamin Inc - Privacy Policy
+# Tamin Inc - Building Brands Online - Privacy Policy
 
-Tamininc.com  Privacy Policy
+TaminInc.com Privacy Policy
 
-(Updated December 15th, 2010)
+(Updated December 4thth, 2012)
 
 TaminInc.com ("TaminInc.com") respects the privacy of its customers and the visitors and users of its websites.
 
@@ -70,7 +70,7 @@ We may disclose your Personal Information if we believe in good faith that such 
   
 **Your Choices Regarding Your Personal Information**
 
-Should you decide to stop receiving e-mail communications or newsletters from us, you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail. If at any time you wish to subscribe to any communications from us, you may do so by contacting us at **[info@tamininc.com](mailto:info@tamininc.com)** Despite your indicated e-mail preferences, we may send you e-mail regarding updates to legal notices applicable to the account you created with us. From time to time, we may contact you by telephone to offer you products or services which we believe may be valuable to you. Should you prefer not to receive such calls, please advise the representative who contacts you or contact customer care. Our websites are not designed for minors under the age of 18. We do not intentionally gather Personal Information about visitors who are under the age of 18.
+Should you decide to stop receiving e-mail communications or newsletters from us, you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail. If at any time you wish to subscribe to any communications from us, you may do so by contacting us at **[](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy50642%20=%20'info'%20+%20'@';%20addy50642%20=%20addy50642%20+%20'tamininc'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy50642%20+%20'\\'%3E'\);%20document.write\(addy50642\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E) [info@tamininc.com](mailto:info@tamininc.com)** Despite your indicated e-mail preferences, we may send you e-mail regarding updates to legal notices applicable to the account you created with us. From time to time, we may contact you by telephone to offer you products or services which we believe may be valuable to you. Should you prefer not to receive such calls, please advise the representative who contacts you or contact customer care. Our websites are not designed for minors under the age of 18. We do not intentionally gather Personal Information about visitors who are under the age of 18.
 
   
 **Links to Other Sites**
@@ -97,4 +97,10 @@ This Privacy Policy is subject to occasional revision, and if we make any change
 
 **Choice of Law**
 
-If you choose to visit Tamininc.com's website or use our products or services, any dispute over privacy is subject to this Privacy Policy as governed by the laws of the State of South Dakota.
+If you choose to visit Tamininc.com website or use our products or services, any dispute over privacy is subject to this Privacy Policy as governed by the laws of the State of New Jersey.
+
+## 
+
+## 
+
+## 
