@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the raven-seo-tools.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619050131id_/http%3A//raventools.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raven-seo-tools.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213121114id_/http%3A//raventools.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Raven Internet Marketing Tools
 
 ### AUGUST 1, 2008
 
-At Raven we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Raven Internet Marketing Tools or its subsidiaries or affiliated companies (collectively, Raven’s "services"). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information, which are accessible from the navigation bar to the left of this notice.
+At Raven we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Raven Internet Marketing Tools or its subsidiaries or affiliated companies (collectively, Raven’s “services”). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information, which are accessible from the navigation bar to the left of this notice.
 
 Raven adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce’s safe harbor program.
 
@@ -15,19 +15,12 @@ If you have any questions about this Policy, please feel free to contact us thro
 We offer a number of services that do not require you to register for an account or provide any personal information to us, such as Raven Search. In order to provide our full range of services, we may collect the following types of information:
 
   * **Information you provide** – When you sign up for a Raven Account or other Raven service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services we also request credit card or other payment account information which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from other Raven services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
-
   * **Raven cookies** – When you visit Raven, we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Raven features and services may not function properly if your cookies are disabled.
-
   * **Log information** – When you use Raven services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
-
   * **User communications** – When you send email or other communication to Raven, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
-
   * **Affiliated sites** – We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to Raven in order to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
-
   * **Links** – Raven may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. For more information about links and redirected URLs, please see our FAQs.
-
   * **Other sites** – This Privacy Policy applies to web sites and services that are owned and operated by Raven. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
-
 
 
 
