@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the youmoron.org privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609010858id_/http%3A//www.youmoron.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youmoron.org privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213040411id_/http%3A//youmoron.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | YouMoron - Join the FUN!
+# Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us at youmoronwebsite@gmail.com
+If you require any more information or have any questions about our privacy policy, please feel free to contact us at contact@youmoron.org
 
 At www.YouMoron.org, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by [www.YouMoron.org](http://www.youmoron.org/) and how it is used.
 
