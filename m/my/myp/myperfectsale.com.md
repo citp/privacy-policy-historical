@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myperfectsale.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513051815id_/http%3A//www.myperfectsale.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myperfectsale.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213053850id_/http%3A//www.myperfectsale.com/page/Privacy) for the most accurate reproduction.*
 
 # Privacy - MyPerfectSale.com
 
-**My Perfect Sale Privacy Policy**
+MyPerfectSale Privacy Policy
 
 We at  **Sugar Publishing, Inc.**  (“Sugar,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy.  **By visiting or using the Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**  Any capitalized terms used herein without definition shall have the meaning given to them in the Sugar Terms of Use found here: http://www.sugarinc.com/tos.
 
