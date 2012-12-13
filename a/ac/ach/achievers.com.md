@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the achievers.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604211401id_/http%3A//www.achievers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achievers.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213152445id_/http%3A//www.achievers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Achievers: Employee Recognition Programs & Global Rewards Solutions
+# Privacy Policy
 
 This Privacy Policy governs the manner in which Achievers Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.achievers.com](http://www.achievers.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Achievers Inc.
 
@@ -46,10 +46,9 @@ If you have any questions about this Privacy Policy, the practices of this site,
 Achievers  
 [http://www.achievers.com](http://www.achievers.com/)
 
-181 Fremont Street  
-San Francisco, CA  
-94105  
-1.888.622.3343  
+23 Geary Street, Suite 600  
+San Francisco, CA 94108  
+1.866.264.7627.  
 [info@achievers.com](mailto:info@achievers.com)
 
 This document was last updated on September 18, 2011
