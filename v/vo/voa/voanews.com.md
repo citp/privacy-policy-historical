@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voanews.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112355id_/http%3A//www.voanews.com/info/terms_of_use_privacy_policy/1363.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voanews.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213171102id_/http%3A//www.voanews.com/info/terms_of_use_privacy_policy/1363.html) for the most accurate reproduction.*
 
 # Terms of Use/Privacy Policy - VOA News
 
