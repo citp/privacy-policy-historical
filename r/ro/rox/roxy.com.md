@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roxy.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615173556id_/http%3A//www.roxy.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roxy.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215001909id_/http%3A//www.roxy.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_txt) for the most accurate reproduction.*
 
 # Roxy : Help Desk
 
