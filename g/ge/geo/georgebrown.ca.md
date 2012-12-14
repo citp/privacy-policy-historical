@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the georgebrown.ca privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604002211id_/http%3A//www.georgebrown.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgebrown.ca privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214033748id_/http%3A//www.georgebrown.ca/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
