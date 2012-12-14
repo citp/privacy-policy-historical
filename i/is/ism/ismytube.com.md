@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ismytube.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504193450id_/http%3A//www.ismytube.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ismytube.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215003600id_/http%3A//www.ismytube.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - IsMyTube.Com
 
 This document details important information regarding the use and disclosure of User Data collected on IsMyTube.Com
 
@@ -48,4 +48,4 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 **YOUR RIGHTS**
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at admin@IsMyTube.Com.
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at contact form.
