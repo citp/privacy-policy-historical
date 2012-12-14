@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storeyourboard.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603141049id_/http%3A//www.storeyourboard.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storeyourboard.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214015605id_/http%3A//www.storeyourboard.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacypolicy
 
@@ -133,9 +133,9 @@ You can contact us about this privacy statement by writing or email us at the ad
 
 StoreYourBoard.com
 
-6641 Pioneer Drive
+536 Pantops Center #361
 
-Macungie PA 18062
+Charlottesville VA 22911
 
 Email: _support@storeyourboard.com_
 
