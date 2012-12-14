@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629040749id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214121455id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.*
 
 # Stardock Corporation - Privacy
 
@@ -77,7 +77,7 @@ Security
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Credit card information for orders is secured via industry standard 128-bit SSL encryption. 
 
-In addition, our MyColors products may prompt you for additional opt-in decisions during check out through our online store.  These questions will default to opting-out of additional promotional communications from our affiliates, however customers may choose to receive promotional e-mails at their discretion. 
+In addition, some products may prompt you for additional opt-in decisions during check out through our online store.  These questions will default to opting-out of additional promotional communications from our affiliates, however customers may choose to receive promotional e-mails at their discretion. 
 
 Data Quality/Access
 
