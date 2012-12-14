@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stardock.com privacy policy that was archived on 2012-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629040749id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stardock.com privacy policy that was archived on 2012-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121214121455id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -38,24 +38,18 @@
 
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/browser.js"></script>
 
-
-
-
-
 	<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-73966-2']);
+	_gaq.push(['_setDomainName', 'stardock.com']);
+	_gaq.push(['_trackPageview']);
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-73966-2']);
-  _gaq.push(['_setDomainName', 'stardock.com']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	</script>
 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
 <link href="/css/style_metro.css" rel="stylesheet" type="text/css">
@@ -75,7 +69,7 @@
 
 	<!-- START HEADER -->
 		<div class="header">
-			<a href="http://www.stardock.com/"><img src="http://www.stardock.com/images/stardock-logo.png" alt="Stardock.com" border="0"></a>
+			<a href="http://www.stardock.com/?from=header"><img src="http://www.stardock.com/images/stardock-logo.png" alt="Stardock.com" border="0"></a>
 			<a class="account" href="https://store.stardock.com/myaccount">Login</a>
 		</div>
 		<!-- END HEADER -->
@@ -86,16 +80,16 @@
 				<li class="site_sel_text">
 					Software
 					<div class="dropdown transparent">
-						<a href="/products/">For Individuals</a>
-						<a href="/corporatesolutions">For Businesses</a>
+						<a href="/products/?from=nav">For Individuals</a>
+						<a href="/corporatesolutions/?from=nav">For Businesses</a>
 					</div>
 				</li>
 				<li>|</li>
-				<li><a href="http://www.stardock.com/games" class="games_link">Games</a></li>
+				<li><a href="http://www.stardock.com/games/?from=nav" class="games_link">Games</a></li>
 				<li>|</li>
 				<li><a href="http://forums.stardock.com" class="forums_link">Forums</a></li>
 				<li>|</li>
-				<li><a href="http://www.stardock.com/support" class="support_link">Support</a></li>
+				<li><a href="http://www.stardock.com/support/?from=nav" class="support_link">Support</a></li>
 				<li>|</li>
 				<li><a href="https://store.stardock.com/" class="Store_link">Store</a></li>
 			</ul>
@@ -104,6 +98,17 @@
 				<input type="text" id="search" name="q" value="Looking for something specific?">
 				<a href="http://www.stardock.com/search.asp" id="mag_submit"><img src="/images/search-magnifier.png" border="0" alt="Search"></a>
 			</form>
+			<script type="text/javascript">
+				$(document).ready(function(){
+			
+					$('#search').focus( function() {
+						$(this).attr('value', '');
+					});
+					$('#search').blur( function() {
+						$(this).attr('value', 'Looking for something specific?');
+					});
+				});
+			</script>
 			
 				<img src="/images/social-sites.png" alt="social links" usemap="#socialmap" class="social">
 			
@@ -244,7 +249,7 @@
 <br><br>
 
 <div id="data">
-	In addition, our MyColors products may prompt you for additional opt-in decisions during check out through our online store.&nbsp; These questions will default to opting-out of additional promotional communications from our affiliates, however customers may choose to receive promotional e-mails at their discretion.
+	In addition, some products may prompt you for additional opt-in decisions during check out through our online store.&nbsp; These questions will default to opting-out of additional promotional communications from our affiliates, however customers may choose to receive promotional e-mails at their discretion.
 	<br><br>
 	<div class="title underline">Data Quality/Access</div>
 	This site gives users the following options for changing and modifying information previously provided:
