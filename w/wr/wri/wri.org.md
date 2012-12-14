@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wri.org privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628102429id_/http%3A//community.wri.org/NetCommunity/Page.aspx%3Fpid%3D303) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wri.org privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214165439id_/http%3A//community.wri.org/NetCommunity/Page.aspx%3Fpid%3D303) for the most accurate reproduction.*
 
 # WRI Community: Privacy Policy - World Resources Institute
 
