@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the innity.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610080543id_/http%3A//www.innity.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innity.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214185259id_/http%3A//www.innity.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Innity - The All Engaging Media Network
+# Innity - Privacy & Policy
 
 This privacy policy applies to all of the products and services offered by INNITY or its subsidiaries or affiliated companies.
 
