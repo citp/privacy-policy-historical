@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the neuroleadership.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510072730id_/http%3A//www.neuroleadership.com/global/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neuroleadership.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214141312id_/http%3A//www.neuroleadership.com/global/content/privacy) for the most accurate reproduction.*
 
 # NeuroLeadership Group : GLOBAL : Privacy
 
-| 
-
-Privacy   
+|  |  Privacy   
 
 
 **Information Collected and Used**
@@ -40,9 +38,35 @@ This privacy policy is effective as of March 1, 2012. By using our website and i
  **Questions**
 
 If you have any questions about this privacy policy, e-mail them to support@neuroleadership.com.  
+  
+  
+---  
+  
+Enquiries   
+If you would like to learn more, please contact us. 
 
-
-|  NeuroLeadership news   
+|    |  Company:   
+|         |  Preferred contact method: Phone (Business hours)Phone (After hours)Email  
+---|---|---|---  
+  |  First Name:   
+  
+Last Name:   
+|    |  Subscribe to NeuroLeadership Group newsletters Corporate programsCoach Credential programs  
+Short courses/Open programsSCARF solutions  
+  |  Phone:   
+  
+Email:   
+|    |  Comments or questions:   
+  
+  |  Country:   
+|     
+  |    
+|     
+  
+  
+  
+  
+NeuroLeadership news   
 
 
 |  Sign up for email  
