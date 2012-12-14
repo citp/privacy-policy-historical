@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the bmwusa.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225040852id_/http%3A//www.bmwusa.com/Standard/Content/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmwusa.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214053650id_/http%3A//www.bmwusa.com/Standard/Content/PrivacyPolicy) for the most accurate reproduction.*
 
 # Overview - BMW - BMW North America
 
-Last updated 6/04/2007
+Last updated 9/19/2012
+
+[Learn more](https://web.archive.org/Standard/Content/ContactUs/FraudWarning.aspx)
 
 **Our Promise to You  
 **We appreciate the trust you place in BMW and would not want to jeopardize your trust in any way. We respect your privacy and are committed to protecting the security of your personal information. Rest assured that we will not rent or sell your personal information to anyone.
@@ -28,5 +30,8 @@ We maintain physical, electronic and procedural safeguards designed to protect p
 
 **Questions and Comments**  
 Please feel free to send your privacy-related comments or questions to [privacy@bmwusa.com](mailto:privacy@bmwusa.com) or write: BMW of North America, Privacy Office, PO Box 1227, Westwood NJ 07675-1227. You may also call Customer Relations at 800-831-1117, Prompt 'Customer Service Vehicle.'
+
+**Platform Use Restrictions**  
+You may use the Content only for your own non-commercial use to participate in the Platform or to place an order or purchase BMW products. You agree not to change or delete any ownership notices from materials downloaded or printedfrom the Platform. You agree not to modify, copy, translate, broadcast, perform, display, distribute, frame, reproduce, republish, download, display, post, transmit or sell any Intellectual Property or Content appearing on the Platform, including User Generated Content (defined below), without BMW's prior written consent, unless it is your own User Generated Content that you legally post on the Platform. You agree not to use any data mining, robots, scraping or similar data gathering methods. Nothing in these Terms of Use shall be interpreted as granting any license of intellectual property rights to you.
 
 Thank you for your continued interest in BMW. 
