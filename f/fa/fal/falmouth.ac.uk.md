@@ -1,90 +1,54 @@
-> *The following text is extracted and transformed from the falmouth.ac.uk privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611013636id_/http%3A//www.falmouth.ac.uk/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D2519%26Itemid%3D1107) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the falmouth.ac.uk privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214165900id_/http%3A//www.falmouth.ac.uk/1774/menu/online-privacy-statement-4460.html) for the most accurate reproduction.*
 
-# Privacy Policy | Information, Website, Personal, Privacy | University College Falmouth - University College Falmouth
+# Online privacy statement - University College Falmouth
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. 
+##  Introduction
 
-## What information do we collect?
+University College Falmouth is committed to protecting your privacy. We have a legal duty under the Data Protection Act to prevent your information falling into the wrong hands. We must also ensure that the data we hold is accurate, adequate, relevant and not excessive. 
 
-We may collect, store and use the following kinds of personal data: 
+##  Obtaining personal data 
 
-  1. information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type, referral source, length of visit and number of page views);
-  2. information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services
-  3. information that you provide to us for the purpose of registering with us;
-  4. information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters
-  5. any other information that you choose to send to us;
+We take great care to make sure that no-one can intercept personal information about you. Any personal data that we may ask you to provide via an online form will be held and processed in accordance with the requirements of the 1998 Data Protection Act and used for the purpose indicated. For example, if we ask you to submit personal data, such as an email or postal address or a telephone number, you should find a clear statement of: 
 
-
-
-## Cookies
-
-A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
-
-We use cookies on this website.  A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
-
-We use session cookies to keep track of you whilst you navigate the website; and persistent cookies to enable our website to recognise you when you visit. Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date. 
-
-We use Google Analytics to analyse the use of this website.  Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers.  The information generated relating to our website is used to create reports about the use of the website. Google will store this information.  Google's privacy policy is available at: <http://www.google.com/privacypolicy.html>. 
-
-Most browsers allow you to refuse to accept cookies.  (For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector.)  This will, however, have a negative impact upon the usability of many websites, including this one. 
-
-##  Using your personal data 
-
-Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website. 
-
-We may use your personal information to: 
-
-  1. administer the website;
-  2. improve your browsing experience by personalising the website;
-  3. enable your use of the services available on the website;
-  4. send to you goods purchased via the website, and supply to you services purchased via the website;
-  5. send statements and invoices to you, and collect payments from you;
-  6. send you general (non-marketing) commercial communications;
-  7. send you email notifications which you have specifically requested;
-  8. send to you our newsletter and other marketing communications relating to our business which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications by emailing web.content@falmouth.ac.uk)
-  9. deal with enquiries and complaints made by or about you relating to the website; 
+  * What data will be held 
+  * The purpose for which the data will be held 
+  * Whether any of the data will be disclosed to any third party, and if so, to whom 
 
 
 
-We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing. 
+If you subsequently choose to submit any personal data, you are thereby giving your consent for that data to be held and processed for the stated purpose(s). If you find that such a statement is not available, or if you feel that it is unclear or inadequate, please contact the [web team](mailto:web.content@falmouth.ac.uk?subject=Website%20Enquiry). 
 
-##  Disclosures 
+Your information will not be used for any other purpose without your permission and will not be kept for longer than necessary. If you are concerned about providing your personal information online, we can arrange alternative means for you to do this. Please contact the [web team](mailto:web.content@falmouth.ac.uk?subject=Website%20Enquiry). 
 
-We may disclose information about you to insofar as reasonably necessary for the purposes as set out in this privacy policy. 
+##  Processing and disclosure of personal data 
 
-In addition, we may disclose information about you: 
+We need to process information about our staff and students for administrative, academic and health and safety reasons in order to operate efficiently. We will only process and disclose personal data in accordance with our registration under the Data Protection Act. 
 
-  1. to the extent that we are required to do so by law;
-  2. in connection with any legal proceedings or prospective legal proceedings;
-  3. in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and 
-
-
-
-Except as provided in this privacy policy, we will not provide your information to third parties. 
+We will not, without your express consent, provide your personal information to any third parties for the purpose of direct marketing. 
 
 ##  International data transfers 
 
-Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy. 
+University College Falmouth will not release personal data to any country or territory outside of the European Economic Area (EEA) unless that country or territory ensures an adequate level of protection to data subjects, except where the transfer of staff or student personal data to institutions outside of the EEA for the purpose of study, employment or placement is required. You expressly agree to such transfers of personal information. 
 
-If you are in the European Economic Area (EEA), information which you provide may be transferred to countries which do not have data protection laws equivalent to those in force in the EEA. 
+##  Contacting you 
 
-You expressly agree to such transfers of personal information. 
-
-##  Security of your personal data 
-
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
-
-Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet. 
-
-You are responsible for keeping your password and user details confidential. 
-
-##  Policy amendments 
-
-We may update this privacy policy from time-to-time by posting a new version on our website.  You should check this page occasionally to ensure you are happy with any changes. 
+University College Falmouth may distribute its own promotional material, or that of other organisations, which it believes may be of interest to you. You have the right to instruct us not to process your personal data for marketing purposes by email to the [web team](mailto:web.content@falmouth.ac.uk?subject=Website%20Enquiry) at any time. (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.) 
 
 ##  Your rights 
 
-You may instruct us not to process your personal data for marketing purposes by email  to [web.content@falmouth.ac.uk](mailto:web.content@falmouth.ac.uk) at any time.  (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.) 
+You have the right to a copy of all the information we hold about you (apart from a very few things which we may be obliged to withhold because they concern other people as well as you). 
+
+To obtain a copy, please ask for a Subject Request Form from the Data Protection Officer at the following address: 
+
+Data Protection Officer  
+University College Falmouth  
+Woodlane  
+Falmouth  
+TR11 4RH 
+
+Email: [qst@falmouth.ac.uk](mailto:qst@falmouth.ac.uk?subject=Data%20Subject%20REquest%20Form)
+
+Currently we do not charge for this although we are permitted by law to charge up to £10 per request.  We aim to reply as promptly as we can and, in any case, within the legal maximum of 40 days. 
 
 ##  Third party websites 
 
@@ -92,14 +56,26 @@ The website contains links to other websites. We are not responsible for the pri
 
 ##  Updating information 
 
-Please let us know if the personal information which we hold about you needs to be corrected or updated. 
+Please let us know if the personal information we hold about you needs to be corrected or updated, by contacting the Data Protection Officer (contact details above). 
 
-##  Contact 
+##  Contacting us 
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [web.content@falmouth.ac.uk](mailto:web.content@falmouth.ac.uk) or by post to Web Content Manager, University College Falmouth, Woodlane, Falmouth, Cornwall UK TR11 4RH. 
+If you have any comments or questions about the accuracy of information on this site please contact the [web team](mailto:web.content@falmouth.ac.uk?subject=Website%20Enquiry). 
 
-[Download Privacy Policy as a Word document](http://www.falmouth.ac.uk/downloads/ucf_privacy_policy.doc "Download Privacy Policy as a Word document"). 
+##  Cookie policy 
 
-This privacy policy is based on a template created and distributed by [www.website-law.co.uk](http://www.website-law.co.uk/ "Information on web law "). 
+Every computer has its own individual IP address, identifying it in the same way as a telephone number identifies your phone line. 
+
+We collect IP addresses only for the purposes of system administration and to audit the use of our site. We do not link IP addresses to anything personally identifiable. This means that while your use of the website will be logged you will remain anonymous to us. 
+
+Our [Website Cookie Policy](http://www.falmouth.ac.uk/1774/menu/website-cookie-policy-4459.html) includes the list of cookies we use on the main website, www.falmouth.ac.uk, and our key subsites. 
+
+###  Use of cookies 
+
+A cookie refers to a text file which is stored on a user's hard drive and is used to identify that user when they revisit a website. A common use of cookies is to store information entered into a form so it does not need to be re-entered on subsequent visits. We use cookies on our site and when you visit our site we will ask you to choose to accept or decline our cookies. 
+
+Most web browsers automatically accept cookies, but you can modify your browser setting to decline cookies if you prefer. You should be aware however, that if you choose to decline cookies, certain functions or features on our website may not work correctly. 
+
+You can find out more about cookies, how they're used and how you can opt out of using them at: [www.allaboutcookies.org](http://www.allaboutcookies.org/ "All About Cookies website")
 
 Copyright © 2011 University College Falmouth. All Rights Reserved. 
