@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the col3neg.com.lk privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615160140id_/http%3A//www.col3neg.com.lk/%3Fnav%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the col3neg.com.lk privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214165304id_/http%3A//www.col3neg.com.lk/%3Fnav%3Dprivacy) for the most accurate reproduction.*
 
-# col3neg Welcome to col3neg.com.lk |col 3 |col3neg original |col3
+# col3 | col3neg | Welcome to col3neg.com.lk |col3 |col3neg original |col3
 
 **What information do we collect?**
 
