@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollarade.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616024429id_/http%3A//www.dollarade.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarade.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214062256id_/http%3A//www.dollarade.com/privacy.php) for the most accurate reproduction.*
 
 # Dollarade.com - Privacy Policy
 
