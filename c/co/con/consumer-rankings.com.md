@@ -1,107 +1,127 @@
-> *The following text is extracted and transformed from the consumer-rankings.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615212738id_/http%3A//www.consumer-rankings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumer-rankings.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214163617id_/http%3A//www.consumer-rankings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Consumer-Rankings
 
 [](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.consumer-rankings.com/seal_m "Validate TRUSTe privacy certification")
 
-This privacy statement describes how our Web site [www.consumer-rankings.com](http://www.consumer-rankings.com/) collects and uses personal information. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how our Web site [www.consumer-rankings.com](https://web.archive.org/) collects and uses personal information. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-[www.consumer-rankings.com](http://www.consumer-rankings.com/) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [contact@consumer-rankings.com](mailto:contact@consumer-rankings.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
+[www.consumer-rankings.com](https://web.archive.org/) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [contact@consumer-rankings.com](mailto:contact@consumer-rankings.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-### Collection and Use of Personal Information
+Consumer-Rankings.com  
+855 N. Douglas St.  
+El Segundo, CA 90245
 
-We collect the following personal information from you
+At Consumer-Rankings.com we take our ethical responsibilities and your privacy seriously by recognizing that your privacy is important. We have a strong commitment to providing excellent service to all our customers and visitors of this Web Site, including respecting your concerns about privacy. This Privacy Policy discloses how we collect personal information, the types of personal information we receive and collect, our use of current and former consumer information, as well as the steps that we take to safeguard your information. If you use this site you explicitly agree to the terms and conditions of the Consumer-Rankings.com Privacy Policy in effect at the time of your use. If you do not agree to this policy, please do not use the Consumer-Rankings.com site. We hope that this disclosure will help increase your confidence in our website and enhance your experience on the Internet. Therefore, in compliance with industry standards and regulations enforced typically by federal and state governments, we abide by the following Privacy Policy.
 
-  * Contact Information such as name and email address
-  * Reviews (permission to post reviews containing personal information received prior to posting on our Web site)
+### Information Collection and Use
 
+This Privacy Policy applies to consumers that have signed up ("Consumers") on this website ("Web Site") or any web site owned by the owner of Consumer-Rankings.com.  In addition, the owner of Consumer-Rankings.com owns several other domain names that point to this site, and we will from time to time add new sites that may or may not be listed in this Privacy Policy. Please note that this pledge applies only to sites maintained by the owner of Consumer-Rankings.com and not to web sites maintained by other companies or organizations to which we link. In addition, this policy applies only to information collected by Consumer-Rankings.com online, not offline. We may share the personal information that you supply to us with other third party businesses to bring selected retail opportunities to our Consumers via direct mail, email and telemarketing. These third party businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing. You can browse the Consumer-Rankings.com web site at anytime without revealing any personal information about yourself. There are, however, several areas on our web site where we collect personal information from you on a voluntary basis. Personal information is information about you that is personally identifiable, such as your name, address, email address, or phone number that is not otherwise publicly available ("Consumer PII" or "PII"). This information helps us serve you better by enabling us:
 
+(1) to process and fulfill your requests for products and services  
+(2) to solicit your opinions and other feedback  
+(3) to conduct research  
+(4) to customize the advertising and content you see  
+(5) to provide anonymous reporting for internal and external clients
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+We may collect personal information at the following times:  
+(1) when you register to receive communications from this website or any website owned by the owner of Consumer-Rankings.com.  
+(2) when you seek information or apply for products and services offered through this website or any website owned by the owner of Consumer-Rankings.com.  
+(3) when you enter promotions or sweepstakes offered by this website or any website owned by the owner of Consumer-Rankings.com.  
+(4) when you provide personal information to us through feedback, survey, or other forms hosted on this site or any website owned by the owner of Consumer-Rankings.com.  
+(5) when you apply for a job with Consumer-Rankings.com.
 
-We use this information to
+In addition, we may receive information about you from other sources, such as service providers and unaffiliated third party marketing companies, for tracking purposes. We may add the information we receive about you to your existing account. Like other web sites, we also automatically receive and record certain types of information every time you visit us. We use "cookies" and the other information to enhance your experience and present you with personalized offers. Likewise, we use third-party advertising companies to distribute and track advertisements appearing on our web site. These companies may employ cookies and action tags to measure advertising effectiveness.
 
-  * Respond to customer service requests
-  * Respond to your questions and concerns
-  * Post reviews
-  * Allow you to post blog comments
-  * Improve our Web site and marketing efforts
+### Legal Protection
 
+We reserve the right to disclose your Consumer PII, as required, to comply with the law, applicable regulations, governmental and quasi-governmental requests, judicial proceedings, court orders, or legal process, and will establish or exercise our legal rights and defend against legal claims at our discretion. We will share, without notice to you, all information we possess in response to court orders, subpoenas and to comply with government investigations. At our discretion we will share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Consumer-Rankings.com's Terms of Use or as otherwise required by law.
 
+### Use and Sharing of Your Personally Identifiable Information
 
-### Choice/Opt-Out
+CONSUMER-RANKINGS.COM RESERVES THE RIGHT TO, AND WILL, SELL OR TRANSFER YOUR PERSONAL INFORMATION TO THIRD PARTIES FOR ANY PURPOSE IN ITS SOLE DISCRETION. This includes sharing Consumer PII with Consumer-Rankings.com partners, sponsors, advertisers, service providers and marketers lookup and reference services and any other entities that Consumer-Rankings.com believes are able to provide Consumers with special offers and opportunities. Consumer-Rankings.com prohibits the sale or transfer of Consumer PII to non-affiliated entities for their use without giving you the opportunity to opt-out. Although Consumer-Rankings.com advises everyone who receives Consumer PII from Consumer-Rankings.com to support this Privacy Policy, Consumer-Rankings.com has no control over such party's information handling practices and is not responsible for any failure of such party to adhere to this Privacy Policy.
 
-At this time, we do not send marketing emails. The only communication you would receive from [www.consumer-rankings.com](http://www.consumer-rankings.com/) are transactional or service related such as a confirmation email after a review posting. You may not opt-out of these service related emails. If you have any questions, please contact us at [contact@consumer-rankings.com](mailto:contact@consumer-rankings.com).
+Additionally, Consumer-Rankings.com may share Consumer PII in aggregate, non-personal form, with select companies that wish to reach a particular Consumer target audience (e.g., female Consumers between the ages of 25-35, who have an average household income of over $50,000.00). This information will allow these entities to provide relevant offers to specific Consumers.
 
-Information Obtained from Third Parties
+Finally, Consumer-Rankings.com may disclose Consumer PII in order to: (1) comply with applicable laws; (2) respond to governmental inquiries; (3) comply with valid legal process; or (4) protect the rights or property of Consumer-Rankings.com, the Network Sites or other Consumers of this Site.
 
-We purchase marketing data about our customers from third parties and combine it with information we already have about you, to create more tailored advertising and products.
+By registering and using this Web Site, Consumers acknowledge that the processing of their Consumer PII for the purposes described above may involve the transfer of such PII from within the United States of America ("USA") to countries outside the USA whose data protection regulation may not be as stringent as that within the USA.
 
-### Information Sharing
+When you request quotes or request to be contacted through Consumer-Rankings.com or our other sites that we operate, you are authorizing us to share information with our business partners who will contact you by (i) phone, including without limitation any prerecorded telephone call to any telephone number including without limitation any wireless telephone number, which could result in charges to you, (ii) SMS text message, (iii) email, or (iv) mail. We may also contact you through any of the above means. If you do not want further communication from them or us, please notify the person or entity that contacts you directly. We reserve the right to make changes in this policy at any time.
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement and we do not share your personal information with third parties for their own marketing purposes. We do not sell your personal information to third parties.
+### Business Transfer
 
-We may also disclose your personal information
+As with any other business, it is possible that Consumer-Rankings.com in the future could merge with or be acquired by another company. If such an acquisition occurs, the successor company will have access to the information maintained by Consumer-Rankings.com, including customer account information. Any successor company will continue to be bound by this Privacy Policy.
 
-  * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, to any other third party with your prior consent to do so.
+### Minors
 
+You must be at least 18 years old to use this web site. We do not knowingly collect, use, or disclose personal information about visitors under 18 years of age. If you are under 18 years of age, you may not use the services offered on our web site unless they are used with the consent, permission and supervision of your parents or guardians.
 
+### Cookies and IP Addresses
 
-### Cookies and Other Tracking Technologies
+To serve you more efficiently and effectively, we use "cookies" technology. A cookie is a piece of data stored on the user's hard drive that contains information about the user. Cookies are not way linked to Consumer PII. Once the user closes their browser, a cookie typically terminates. Cookies enable a web site to "personalize" itself for each user and reduce the time it takes for pages to load on your computer. In order to optimize your experience, cookies also help with the collection of customer tracking data. We may also capture customer tracking data on some of our partner's web sites, related to activity involved with the completion of offers listed on our web site. This information is used to monitor the performance of our partners. If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited. We also keep track of Internet Protocol (IP) addresses and may disclose your IP address during the course and scope of our business. An IP Address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.
 
-We may use cookies, for example, to keep track of your preference. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+Some of our non-affiliated business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This Privacy Policy covers the use of our cookies only and does not cover the use of cookies by any advertisers.
 
-We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
+### Clear Gifs
 
-Web beacons
+We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movement of Web users. Clear gifs are not tied to users' personal information. We also use clear gifs in our HTML-based emails to let us know which emails the recipients have opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of these emails, please see the Opt-out section within any email you receive from us or unsubscribe from our homepage by clicking here.
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns. We do not tie the information gathered in web beacons to our customers' personally identifiable information.
+### Opting-Out
 
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+We offer you choices when we ask for personal information, whenever reasonably possible. We provide you the opportunity to "opt-out" of having your personally identifiable information used for certain purposes, when we ask for this information. You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result.
 
-### Flash LSOs
+If you no longer wish to receive newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing or calling us per the information contained on our contact page. You may continue to receive email communications from us up to ten (10) business days from the time we receive your unsubscribe request. Please note that Consumer-Rankings.com can only control its own mailing list and policies. Third party advertisers that maintain their own mailing lists may send communications that advertise our services, and you may need to contact these parties directly in order to stop receiving their communications. Although Consumer-Rankings.com only supports permission-based emails, Consumer-Rankings.com does not obligate itself to restrict third parties advertising Consumer-Rankings.com beyond that which is required by applicable law.
 
-We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
+### Advertisements & Pop Up Windows
 
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118](http://www.macromedia.com/support/documentation/en/flashplayer/help/%20settings_manager.html#117118)
+On occasion, you may receive advertisements for Consumer-Rankings.com from third parties. These advertisements are served by the third party web site that you have visited or directly from this website or any site owned by the owner of Consumer-Rankings.com. In addition, such advertisements may be placed by third party ad servers or ad networks. We maintain relationships with a number of the third party ad networks currently operating. You may find more information at the web site of either the individual ad network or the network advertising initiative. Your relationships, transactions and any opt-out requests with any such third party are governed by the specific policy such third party has, and not those of Consumer-Rankings.com.
 
-Links to Other Web Sites
+### Third Party Links
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of our Company. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+This Privacy Policy applies to all information that you provide to Consumer-Rankings.com.  However, when you visit web sites to which Consumer-Rankings.com provides a link, keep in mind you will be interacting with a third party that operates under its own privacy and security policies, and terms of use. If you choose to obtain certain services through a third party site, the data collected by the third party is governed by that third party's privacy policy. A third party site will also have its own policy regarding the use of cookies and clear gifs. We encourage you to review the privacy policies and terms of use of any other service provider from whom you request services.
 
-### Security
+If Consumer-Rankings.com receives personal information from a third party unrelated to any service offered on our site, the use and disclosure of such information is governed by the agreement (if any) between Consumer-Rankings.com and such third party.
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+### Framing
 
-If you have any questions about security on our Web site, you can contact us at [contact@consumer-rankings.com](mailto:contact@consumer-rankings.com)
+In some cases, we may require the use third party vendors, outside companies, to operate portions of the Consumer-Rankings.com web site and/or to provide certain services including clerical, information processing and shipping services. Although the particular section of the web site may have a similar appearance as the Consumer-Rankings.com site, information submitted through these outside third parties are subject to this Privacy Policy unless otherwise stated.
 
-### Additional Policy Information
+When you sign up for our services, we will share only as much information as is necessary for the provision of those services. We require that all third parties, hired by Consumer-Rankings.com, comply with our Privacy Policy in order to keep your information safe and secure. These third parties are prohibited from using or sharing your personally identifiable information for any purpose other than the job they were hired to do.
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [contact@consumer-rankings.com](mailto:contact@consumer-rankings.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+### Updating Your Information
 
-Correcting and Updating Your Personal Information
+If you want to access or update the personal information you submitted to Consumer-Rankings.com please e-mail us at [customerservice@Consumer-Rankings.com](mailto:customerservice@Consumer-Rankings.com) or write us at the following address.
 
-To review and update your personal information to ensure it is accurate, contact us at [contact@consumer-rankings.com](mailto:contact@consumer-rankings.com) .
+Consumer-Rankings.com Attn: Customer Care  
+855 N. Douglas St.  
+El Segundo, CA 90245
 
-Notification of Privacy Statement Changes
+### Questions and Suggestions
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+If you have any questions, concerns or suggestions about our Privacy Policy, you may contact us:
 
-### Data Retention:
+(1) By sending an email to: [customerservice@Consumer-Rankings.com](mailto:customerservice@Consumer-Rankings.com)  
+(2) By sending a letter to:
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at contact@consumer-rankings.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Consumer-Rankings.com  
+855 N. Douglas St.  
+El Segundo, CA 90245
 
-### Contact Information
+### Changes to this Privacy Policy
 
-You can contact us about this privacy statement by writing or email us at the address below:
+Consumer-Rankings.com reserves the right to update or modify this privacy statement at any time and without notice. We will not jeopardize your privacy. The provisions contained in this privacy statement supersede all previous notices or policies regarding our privacy practices with respect to this site. Any and all changes will be made here, to this privacy statement. If you do not agree with the changes to how your information will be used, please do not continue to use this web site
 
-Media Boost LTD  
-[www.consumer-rankings.com](http://www.consumer-rankings.com/)  
-1 Waters Park Dr, Suite 110  
-San Mateo, CA, United States 94403  
-Email: [contact@consumer-rankings.com](mailto:contact@consumer-rankings.com)  
-Phone: 888-762-6678
+We encourage you to check our site frequently to see the current privacy statement and to be informed of how we are committed to protecting your information and providing you with improved content on our website in order to enhance your online experience. Upon any material changes to the policy statement, we will post those changes to this privacy statement, the homepage, and/or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Our Privacy Policy will indicate the date it was last updated. Your continued use of our site will signify your acceptance of the changes to our Privacy Policy.
 
-###### This policy is effective as of and was last updated on June 17, 2011.
+### Your California Privacy Rights
+
+CALIFORNIA RESIDENTS PRIVACY RIGHTS Companies that collect personally identifiable information ("PII") from California residents and disclose such information to Third Parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having their information shared with Third Parties. We have elected the second option and you may request that your PII not be shared with Third Parties by sending your request, including your full name, email address and postal address to: [privacy@Consumer-Rankings.com](mailto:privacy@Consumer-Rankings.com), or by mail to California Privacy Information c/o Consumer-Rankings.com, 855 N. Douglas St., El Segundo, CA 90245. In accordance with California Civil Code Sec. 1798.83, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210 or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov).
+
+For more information on how your personally identifiable information is collected and used, please read our complete Privacy Policy.
+
+PLEASE PRINT AND RETAIN A COPY OF THIS AGREEMENT FOR YOUR RECORDS.
+
+LAST UPDATED 04-15-2011
+
+Copyright © Consumer-Rankings.com, 2012 All Rights Reserved.
