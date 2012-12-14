@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the pennyauctionwatch.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626073916id_/http%3A//www.pennyauctionwatch.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennyauctionwatch.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214092305id_/http%3A//www.pennyauctionwatch.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & Terms - Penny Auction Watch®
+# Privacy Policy & Terms – Penny Auction Watch®
+
+**Warning** : Missing argument 2 for wpdb::prepare(), called in /home/pennyauc/public_html/wp-content/plugins/sharebar/sharebar.php on line 112 and defined in **/home/pennyauc/public_html/wp-includes/wp-db.php** on line **990**
+
+**Warning** : Missing argument 2 for wpdb::prepare(), called in /home/pennyauc/public_html/wp-content/plugins/sharebar/sharebar.php on line 124 and defined in **/home/pennyauc/public_html/wp-includes/wp-db.php** on line **990**
 
 This is the web site of **Penny Auction Watch**. **  
 ** We can be reached via e-mail at admin[at]pennyauctionwatch[dot]com
