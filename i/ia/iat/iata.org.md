@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iata.org privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605163953id_/http%3A//www.iata.org/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iata.org privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214194716id_/http%3A//www.iata.org/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,7 +55,7 @@ Although we use all reasonable means to ensure that the information you provide 
 
 Non-personal data is aggregated for reporting about IATA websites usability, performance and effectiveness. It is used to improve the customer experience, usability and site content. 
 
-**7\. Who we share your information with**
+### 7\. Who we share your information with 
 
 IATA will not sell, rent or lease your personal information to others. IATA will not share your personal information with third parties except in responding to your requests for products or services. Your permission will be requested when you submit your information. IATA shares customer information across IATA-owned business entities and companies working on our behalf, but only as described in Section 6 "How we use your information". 
 
@@ -65,7 +65,7 @@ IATA will not share personal information with any other third parties without yo
 
 Circumstances may arise where, whether for strategic or other business reasons, IATA decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or receiving it from sellers. It is IATA’s practice to seek appropriate protection for information in these types of transactions. 
 
-**8\. Your choices**
+### 8\. Your choices 
 
 IATA gives you the choice of receiving a variety of information that complements our products and services. You can subscribe to receive certain product and service specific information and IATA-wide marketing communications. IATA-wide communications may include new product information, special offers, or an invitation to participate in market research, etc. We give you a choice regarding delivery of IATA-wide communications by postal mail, fax, e-mail and telephone. 
 
@@ -78,28 +78,24 @@ You can make or change your choices at the data collection point or through IATA
 
 > **Online** : You can make your choice regarding these communications by using the IATA customer registration tools, as applicable, to set your privacy preferences (available in the English language only). 
 
-    * If you have never registered with the IATA customer registration tools, [create your privacy preferences](https://web.archive.org/ps/optin); 
-    * If you have registered with the IATA customer registration tool in the past, you may [edit your privacy preference](https://web.archive.org/ps/optin)s on the IATA customer registration tool (requires a user ID and password). 
+**Offline:** Please specify your privacy preferences by writing to IATA at [imc@iata.org](mailto:imc@iata.org). Be sure to provide your name, e-mail and postal address in all correspondence. 
 
-
-
-> **Offline:** Please specify your privacy preferences by writing to IATA at [imc@iata.org](mailto:imc@iata.org). Be sure to provide your name, e-mail and postal address in all correspondence. 
-
-**Subscription services**  
+> **Subscription services**  
 To opt-out of receiving communications you have expressly requested (such as e-mail newsletters, updates, etc.), use any of the following methods: 
 
   * Select the e-mail "opt-out" or "unsubscribe" link, or follow the opt-out instructions included in each subscription communication; 
   * Return to the web page(s) where you originally registered your preferences and follow the opt-out instructions; 
   * Write to IATA - be sure to provide your name, e-mail and postal address, and relevant information about your IATA subscriptions and registrations: 
-    * IATA e-Marketing services, MACS  
+
+
+
+IATA e-Marketing services, MACS  
 800 Place Victoria  
 PO Box 113  
 Montreal - H4Z 1M1  
 Quebec - Canada  
 Fax: +1 514 874 9632   
 E-mail: [imc@iata.org](mailto:imc@iata.org)
-
-
 
 ### 10\. Your information and third-party companies
 
@@ -128,11 +124,9 @@ If there are updates to the terms of IATA’s online Privacy Policy, we will pos
 
 We value your opinions. If you have comments or questions about our Privacy Policy, please email us at [privacy@iata.org](mailto:privacy@iata.org) or write to us at the following address: 
 
-  * IATA Legal Services  
+IATA Legal Services  
 800 Place Victoria  
 PO Box 113  
 Montreal - H4Z 1M1  
 Quebec - Canada  
 Fax: +1 514-874-1789
-
-
