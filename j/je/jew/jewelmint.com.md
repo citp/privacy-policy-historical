@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewelmint.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625055609id_/http%3A//www.jewelmint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewelmint.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214202051id_/http%3A//www.jewelmint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JewelMint
 
