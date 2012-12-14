@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelmath.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606023424id_/http%3A//www.travelmath.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmath.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214120617id_/http%3A//www.travelmath.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of TravelMath.com
 
