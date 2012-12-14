@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momentive.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521105618id_/http%3A//www.momentive.com/about_us.aspx%3Fid%3D302) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momentive.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214073854id_/http%3A//www.momentive.com/about_us.aspx%3Fid%3D302) for the most accurate reproduction.*
 
 # Momentive.com - Momentive Specialty Chemicals Privacy Policy
 
