@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bea.gov privacy policy that was archived on 2012-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503065202id_/http%3A//bea.gov/about/Privacy_Statement.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bea.gov privacy policy that was archived on 2012-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121214164957id_/http%3A//www.bea.gov/about/Privacy_Statement.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en-US"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=7.5">
@@ -8,6 +8,9 @@
 <meta name="DC.title" content="Bureau of Economic Analysis">
 <meta name="DC.creator" content="US Department of Commerce, BEA, Bureau of Economic Analysis">
 <meta name="DC.language" scheme="DCTERMS.RFC4646" content="EN-US">
+
+<meta property="og:image" content="http://www.bea.gov/_images/social/bea_icon_social.png">
+
 
 <link rel="stylesheet" type="text/css" href="/_css/reset_global.css">
 <link rel="stylesheet" type="text/css" href="/_css/bea_new.css">
@@ -52,7 +55,9 @@
 
 <body class="about">
 
-<div id="header"> <a href="/index.htm"></a></div>
+<div id="header">
+<a class="doc_link" href="http://www.commerce.gov"></a>
+<a href="/index.htm"></a></div>
 <cfinclude template="/_includes/header_tabs_main.ssi">
 	<div id="topTabs">
 		<ul>
@@ -126,7 +131,27 @@
 			<div id="sidebarRight">
 				<div class="title_right"><label for="search_textfield">Search:</label></div>
 				<div class="clear"><img src="/_images/alt/top_right.jpg" alt=" "></div>
-				<div id="search_fieldset"><form action="/search/index.cfm" method="post" class="search_form" id="search_form">
+				<div id="search_fieldset">		<form accept-charset="UTF-8" action="http://search.bea.gov/search" method="get" class="search_form" id="search_form" style="float:right;">
+			<div class="search_wrapper">
+				<div class="search_textBox">
+					<input autocomplete="off" class="search_input_text" id="search_textfield" name="query" type="text">
+				</div>
+				<div class="search_submitButton">
+					<input name="commit" type="submit" value="Go" class="search_input_buttom" id="search_submit">
+				</div>
+			</div>
+	<div class="searchLinks"><a href="http://search.bea.gov/search/advanced?affiliate=u.s.bureauofeconomicanalysis&amp;enable_highlighting=true&amp;m=false&amp;page=1&amp;per_page=10">Advanced</a> | <a href="/faq">FAQ</a> | <a href="/azindex/index.htm">A-Z Index</a></div>
+			<input name="utf8" type="hidden" value="✓">
+			<input id="affiliate" name="affiliate" type="hidden" value="u.s.bureauofeconomicanalysis">
+		</form>
+	<div class="clear"></div>
+
+
+<ul><li><a style="background-image: url(/_images/bullet_information.png);background-position: left 12px;" href="/about/BEAciting.htm">Guidelines for Citing BEA Information <span class="alert_normal">New!</span></a></li></ul>
+
+
+		
+<!--<form action="/search/index.cfm" method="post" class="search_form" id="search_form">
 	<div class="search_wrapper">
 		<div class="search_textBox">
 			<input type="text" name="query" class="search_input_text" id="search_textfield">
@@ -137,7 +162,7 @@
 	</div>
 	<div class="searchLinks"><a href="/search/?advanced=1">Advanced</a> | <a href="/faq">FAQ</a> | <a href="/azindex/index.htm">A-Z Index</a></div>
 </form>
-</div>
+--></div>
 				<!-- DO NOT MODIFY ABOVE -->
 
 		<!--
@@ -241,6 +266,7 @@
 							<li class="title">More</li>
 							<li><a href="/about/director.htm">Director's Page</a></li>
 							<li><a href="/agency/exhibit_schedule.htm">Conferences</a></li>
+							<li><a href="/about/BEAciting.htm">Guidelines for Citing BEA Information</a></li>
 						</ul>
 					</div>
 				</div>
