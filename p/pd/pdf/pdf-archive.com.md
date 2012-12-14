@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdf-archive.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614235540id_/http%3A//www.pdf-archive.com/pdf-archive-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdf-archive.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214011330id_/http%3A//www.pdf-archive.com/pdf-archive-privacy-policy.php) for the most accurate reproduction.*
 
 # PDF-Archive.com Privacy Policy | PDF Archive PDF Hosting
 
