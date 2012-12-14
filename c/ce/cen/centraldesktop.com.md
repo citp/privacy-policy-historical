@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the centraldesktop.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624073121id_/http%3A//www.centraldesktop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centraldesktop.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214014648id_/http%3A//www.centraldesktop.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Central Desktop
 
-Central Desktop, Inc. ("Central Desktop") values your privacy. Central Desktop has created this Privacy Policy to demonstrate our commitment to protecting your privacy and to disclose our information and privacy practices for www.centraldesktop.com and its services. We reserve the right to change this Policy and will notify you of such changes via email or our website. If you have questions or concerns regarding this Privacy Policy, you may contact us at .
+Central Desktop, Inc. ("Central Desktop") values your privacy. Central Desktop has created this Privacy Policy to demonstrate our commitment to protecting your privacy and to disclose our information and privacy practices for www.centraldesktop.com and its services. We reserve the right to change this Policy and will notify you of such changes via email or our website. You should check this page occasionally to ensure you are statisfied with any changes. If you have questions or concerns regarding this Privacy Policy, you may contact us at [privacy@centraldesktop.com](mailto:privacy@centraldesktop.com).
 
 Information We Collect  
 Central Desktop collects personal information from customers who register with our services. When customers register with our services, we require a username, password, email address, first and last name, zip code, country and time zone location and billing information such as billing address and credit card number. We may also ask customers to provide additional personal information such as company name, title, education institution and other company and personal details that the customer may opt out of by not entering data when asked. We use the customer registration information to authenticate users and provide access to Central Desktop. We also use the email addresses used in the registration information to communicate with our users. From time to time, Central Desktop may contact you via email or phone to notify you of changes to its services, maintenance notifications, information about Central Desktop and promotional materials from Central Desktop. We may also send you offers on behalf of third-party partners. Users can opt out of promotional and offer emails at anytime. 
@@ -11,7 +11,7 @@ Central Desktop collects and logs aggregate user statistics and website traffic 
 
 Central Desktop may disclose aggregated user statistics (for example, 50% of Central Desktop customers use the service daily) in order to describe our services to prospective partners, advertisers, affiliates and other third parties for lawful purposes. Central Desktop will never disclose such data on an individual or identifiable basis to third parties except when we must comply with laws that require such disclosure to law enforcement authorities or other government third party officials such as subpoenas.
 
-You may deactivate your Central Desktop account and delete your personally identifiable information at any time by contacting us at clearly indicating that you wish to deactivate and delete such information. 
+You may deactivate your Central Desktop account and delete your personally identifiable information at any time by contacting us at [support@centraldesktop.com](mailto:support@centraldesktop.com) clearly indicating that you wish to deactivate and delete such information. 
 
 In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA) Central Desktop does not intentionally collect personally identifiable information from nor solicit children under the age of thirteen (13) years of age.
 
@@ -34,7 +34,15 @@ Central Desktop stores its servers in a highly secure server environment with 24
 
 We cannot guarantee the security of your data while it is being transmitted over the Internet and through servers that are out of our control. We strive to protect your personal information but Central Desktop cannot ensure or warrant the security of any information you transmit to our website or services. Any data transmissions you make over the internet are done so at your own risk. Once we receive the data transmission, we make our best efforts to ensure its security and privacy on our systems. 
 
-Further Questions  
-If you have further questions about our Privacy Policy, email us at or via mail at Central Desktop, Inc., 129 N Hill Ave #202, Pasadena, CA 91106 USA.
+Safe Harbor  
+[ We self-certify compliance with  
+](http://www.export.gov/safeharbor) Central Desktop complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Central Desktop has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
 
-Last Updated: Jan 22, 2011
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Central Desktop commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Central Desktop at: [privacy@centraldesktop.com](mailto:privacy@centraldesktop.com)
+
+Central Desktop has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Central Desktop, please visit the BBB EU SAFE HARBOR web site at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
+
+Further Questions  
+If you have further questions about our Privacy Policy, email us at [privacy@centraldesktop.com](mailto:privacy@centraldesktop.com) or via mail at Central Desktop, Inc., 129 N Hill Ave #202, Pasadena, CA 91106 USA.
+
+Last Updated: Nov 27, 2012
