@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloomberg.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628170004id_/http%3A//www.bloomberg.com/notices/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomberg.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214153108id_/http%3A//www.bloomberg.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bloomberg
 
@@ -24,7 +24,7 @@ BLP, its designated service providers, or third-party advertisers or their adver
 
 BLP adheres to the industry’s Self-Regulatory Principles for Online Behavioral Advertising located [here](http://www.aboutads.info/principles). To "opt out" of advertising cookies placed by participating companies in the Self-Regulatory Program for Online Behavioral Advertising, and thereby limit the tracking of your online activity and the targeted advertising you receive, please [click here](http://www.aboutads.info/). To "opt out" of advertising cookies placed by the Network Advertising Initiative’s ("NAI") online behavioral advertising member networks, and thereby limit the tracking of your online activity and the targeted advertising you receive, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). Note that even if you opt out of cookies placed by such member networks and participating companies, you will still receive online advertising. 
 
-BLP’s designated service providers assist BLP with advertisement display functions and related analytics for this Web site. For a list of these designated service providers and more information about their anonymous information collection and use practices, please [click here](https://web.archive.org/ad_sp).
+BLP’s designated service providers assist BLP with advertisement display functions and related analytics for this Web site. For a list of these designated service providers and more information about their anonymous information collection and use practices, please [click here](https://login.bloomberg.com/ad_sp).
 
 ### Disclosure of Personal Information and Other Information
 
