@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesvillas.co.uk privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504005219id_/http%3A//www.jamesvillas.co.uk/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesvillas.co.uk privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214140608id_/http%3A//www.jamesvillas.co.uk/privacypolicy.cfm) for the most accurate reproduction.*
 
 # James Villa Holidays Privacy Policy
 
@@ -27,15 +27,13 @@ The information you provide may be used in a number of ways, for example:
 In order to provide you with the products and services that we offer we may share your information with: 
 
 • other members of our group of companies and their service providers (see also section 5);   
-• owners of holiday cottages, holiday parks and boatyards (if you are making a holiday accommodation booking );   
-• individuals who may be renting accommodation from you (if you are a holiday accommodation owner);   
 • credit/debit card companies;   
 • our preferred insurance provider(s) (if you purchase the personal travel insurance policy we offer); and   
-• other third parties who we may need to work with to fulfil travel plans on your behalf, for example, resorts, holiday parks, management companies, owner's associations, airlines, ferry companies, cruise companies and other suppliers. 
+• other third parties who we may need to work with to fulfil travel plans on your behalf, for example, resorts, management companies, owner's associations, airlines, villa owners and other suppliers. 
 
 If you agree, we may also pass on your information for the purposes of conducting a credit check. 
 
-We may also pass on your information to our group of companies and selected third parties so that they may offer you their products and services. 
+We may also pass on your information to our group of companies and selected third parties so that they may offer you their products and services or in connection with any marketing initiatives we have in place with third parties.
 
 **5\. How do you manage my information?  
 ** We may from time to time appoint other members of our group of companies, or third party service providers, to help us manage efficient systems within the business. Some of these systems may for operational reasons be located in countries overseas. We will only transfer your information to service providers who help manage our systems, or overseas, where we are satisfied that adequate levels of protection are in place to protect the integrity and security of any information being processed and compliance with applicable privacy laws. 
