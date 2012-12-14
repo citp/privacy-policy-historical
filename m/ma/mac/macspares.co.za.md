@@ -1,121 +1,62 @@
-> *The following text is extracted and transformed from the macspares.co.za privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321175708id_/http%3A//www.macspares.co.za/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macspares.co.za privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214202830id_/http%3A//www.macspares.co.za/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : MacSpares | Wholesale spare parts, Supplying Africa by E commerce
+# Privacy Notice : MacSpares | Wholesale spare parts, Supplying Africa by E-Commerce
 
-At Macspares.co.za, your privacy is our priority. We are committed to protecting your privacy at all times, in all situations. The information we collect about you when you become a member is used to process your orders and to provide a more personalized experience on our site. Our site uses a 128 bit encrypted SSL to increase the security of our customer’s information. Macspares.co.za does not guarantee complete security on stored information, however, we have installed and applied our encrypted pages and installed our SSL certificate to prevent stolen information.
+**What information do we collect?**    
+We collect information from you when you register on our site, place an order or subscribe to our newsletter.
 
-**_
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information
 
-How Do We Use the Information We Collect?
+ **What do we use your information for?**    
+Any of the information we collect from you may be used in one of the following ways:
 
-_**
+ 
+To personalize your experience (your information helps us to better respond to your individual needs)
 
-When you become an macspares.co.za member, we ask you to fill out a form that requests your name, address and e-mail address as well as some demographic information such as gender and date of birth.
+ 
+To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-macspares.co.za will NOT share data with trusted partners to help us perform statistical analysis.
+To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
 
-Your name and address information is used solely to process orders unless your prior consent is given. Without your consent, this information will NEVER be sold, given, rented or traded to others for purposes other than order fulfillment.
+To send periodic emails  
+The email address you provide for order processing, will only be used  to send you information and updates pertaining to your order.
 
-Your demographic information (gender, date of birth, etc.) will be used for several security purposes, to ensure you are who you say you are and in fact you are paying with your credit cards and not someone using your stolen credit cards.
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
 
-**_
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-Our Use of Log Files
+How do we protect your information?  
+We implement a variety of security measures to maintain the safety of your personal information when you place an order
 
-_**
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-When you visit our site we automatically log your IP address, your browser type and your access times. We utilize this information to conduct site performance evaluations, to see where visitors are coming from and to keep track of click stream data (the screens our users visit on our site). This data helps us to determine what content our members find most appealing so that we can maximize your enjoyment of the site. Log files are not tied to personally identifiable information.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-**_
+Do we use cookies?  
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-Site Security
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits,  and keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-_**
+Do we disclose any information to outside parties?  
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-All macspares.co.za employees take your personal information very seriously. All employees must learn and obey our security policies. Access to member personal information is limited to key management personnel and our member services department. The information is ID and password protected and our Web security is reviewed on a monthly basis. We have also installed and implied our site with a 128 bit encryption SSL.
+Third party links  
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**_
+Childrens Online Privacy Protection Act Compliance  
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-Correcting/Updating Your Personal Information
+Online Privacy Policy Only  
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-_**
+Your Consent
 
-After becoming an macspares.co.za subscriber you may correct/update your personal information by clicking on the 'My Account' link at the top of any page, entering your ID, password and birth date when prompted and clicking the Edit Information button. The changes you make will be reflected in our databases instantly. If you wish to deactivate your account, you may contact our member services group through the 'My Account' section, or the 'Contact Us' section.
+By using our site, you consent to our privacy policy.
 
-**_
+Changes to our Privacy Policy
 
-Links To Other Sites
+If we decide to change our privacy policy, we will post those changes on this page.
 
-_**
-
-This Web site contains links to other Web sites. Please note that when you click on one of these links, you may be leaving the macspares.co.za site and entering another Web site. These sites may independently collect or request information about you and we encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.
-
-**_
-
-Communication
-
-_**
-
-From time to time we may send out email messages alerting you that products are available, to remind you about providing feedback or for promotional offers. In addition, you will receive communication from us:
-
-  1. If you contact us for a particular reason,
-  2. To receive your orders
-  3. We need to contact you for administrative purposes such as winning a contest.
-
-
-
-Administrative e-mails will not contain promotional materials. If you choose to receive our News Letters, they will contain promotional materials from macspares.co.za
-
-**_
-
-Legal Disclaimer
-
-_**
-
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site
-
-**_
-
-Supplementation
-
-_**
-
-We may correct or supplement your address information with standardized postal representation in order to ensure that your orders are delivered. We do this since we want to make sure that our members receive the order and to lower costs associated with our programs.
-
-**_
-
-Contests
-
-_**
-
-Periodically, contests are run on our site. Sometimes contests are sponsored by our customers. To enter these contests you need only to enter your ID and password and your guess. At the time of entry, you may decide if you wish to have your first name and state posted on our site if you are the winner. Winner’s names are NEVER shared with our customers without their consent.
-
-**_
-
-Our Use of Cookies
-
-_**
-
-Cookies are pieces of information that your browser stores on your computer's hard drive which identify you when you enter. The ability to select samples on our site is not cookie-driven. We may use session cookies to provide a seamless experience on the site and to combine with our log files so that we can understand our site traffic and analyze our demographic information in aggregate form. If you have set your browser to reject cookies, our site will not identify you when you enter and you will need to manually type in your ID and password.
-
-**_
-
-Your Feedback is Always Welcome
-
-_**
-
-We welcome your comments and questions about our privacy policy - or anything else you might want to talk about.
-
-To contact us use this e-mail address: _macadmin@macspares.co.za_
-
- __
-
-Or you can reach us via:
-
-****
-
-**E-mail** at _jamesc@macspares.co.za_
-
- __ ****
-
-**Phone** +27 11 665 4990
+(This policy was last changed on 30/8/2012)
