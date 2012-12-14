@@ -1,6 +1,30 @@
-> *The following text is extracted and transformed from the concertvault.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101132518id_/http%3A//www.wolfgangsvault.com/memorabilia/support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concertvault.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214085447id_/http%3A//www.wolfgangsvault.com/concerts/support/privacy-policy.html) for the most accurate reproduction.*
 
-# Wolfgang's Vault Privacy Policy
+# Wolfgang's Vault Privacy Policy - wolfgangsvault.com
+
+Classic Rock
+
+ _Channels_
+
+  *   * **Rock**
+  *  __
+  * **Blues**
+  *  __
+  * **Jazz**
+  *  __
+  * **Country**
+  *  __
+  * **Folk & Bluegrass**
+  *  __
+  * **Indie**
+  *  __
+  * **Interviews**
+  *  __
+  * **Video**
+
+
+
+ **Classic Rock** __
 
 We are committed to protecting your personal security and privacy, and we appreciate your trust that we will do so. By collecting such information at our website we strongly believe that we can significantly improve our level of customer service and make your future visits to our website more worthwhile. 
 
