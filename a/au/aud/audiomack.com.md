@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiomack.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513220140id_/http%3A//www.audiomack.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiomack.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214122155id_/http%3A//www.audiomack.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AudioMack
 
@@ -8,11 +8,17 @@ AudioMack may modify the Agreement which will become effective immediately upon 
 
 Any Content uploaded by you to AudioMack becomes published Content and is not considered personally identifiable information subject to this Privacy Policy.
 
+  
+
+
 ## Internet Protocall (IP) Addresses and Cookies
 
 AudioMack uses IP addresses to measure, analyze, and identify usage and trends, administer the website and collect information for its databases.
 
 A cookie is a piece of data stored on your hard drive containing information about you. Cookies identify you for our database, but provide no information other than that which you have already provided AudioMack. You may reject or delete the cookie, however, you may not be able to access your uploaded files if you have not already created an account. Cookies also can enable AudioMack to track and target your interests to enhance your experience on our website.
+
+  
+
 
 ## User Information
 
@@ -25,6 +31,9 @@ We will not rent, sell or share your personal information with third parties. We
 Third-party websites, services, or advertising linked to AudioMack are not covered by this Privacy Policy. These websites or services may collect personally or non-personally identifiable information about you and place a cookie on your browser. AudioMack is not responsible for the privacy practices of the third-party websites, advertisers, or companies. You are solely responsible for safeguarding and protecting the secrecy of your password.
 
 AudioMack is not responsible if you volunteer personal information online that is accessible to the public. By submitting such information, you assume the risks and sole liability arising as a result of such information being displayed.
+
+  
+
 
 ## General
 
