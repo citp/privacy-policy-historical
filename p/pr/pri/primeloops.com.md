@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the primeloops.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606084701id_/http%3A//www.primeloops.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primeloops.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214222446id_/http%3A//primeloops.com/privacy-policy) for the most accurate reproduction.*
 
-# Prime Loops | Privacy Policy Page
+# Privacy Policy
 
-  
 1\. This Privacy Policy sets out how we will treat the personal information which you provide to us while using the website located at www.primeloops.com (the "Site") and/or the services provided from it (the "Services"). You are deemed to accept the terms of this Privacy Policy on your first use of the Site. We may change this Privacy Policy from time to time and such changes shall be effective from the date and time the revised Privacy Policy is posted on the Site. The Site, together with all its content is owned or controlled by Sound Nation Limited, of Morrell Business Centre, 98 Curtain Road, London EC2A 3AF, United Kingdom.
 
 2\. To provide the Site and the Services, it is necessary for us to hold and process certain personal information. We take reasonable care in keeping this information secure and preventing any unauthorised access or unlawful use of it. All personal information is processed by us in accordance with applicable data protection legislation.
@@ -21,7 +20,3 @@
 6\. If you do not want us to retain or use your personal information in any way, please do not provide the data to us or, if you have already provided personal information and wish to withdraw your consent, please contact us at info@primeloops.com or by post at: Sound Nation Limited, of Morrell Business Centre, 98 Curtain Road, London EC2A 3AF, United Kingdom.
 
 7\. If you have any queries about this Privacy Policy or wish to resume receiving information which you may have previously opted-out of receiving, please contact us at please contact us at info@primeloops.com or by post at: Sound Nation Limited, of Morrell Business Centre, 98 Curtain Road, London EC2A 3AF, United Kingdom.
-
-© 2012 Prime Loops. All rights reserved. 
-
-[](http://www.addthis.com/bookmark.php?v=250&username=primeloops)
