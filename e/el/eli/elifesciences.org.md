@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the elifesciences.org privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611034011id_/http%3A//www.elifesciences.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elifesciences.org privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214102114id_/http%3A//www.elifesciences.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | eLife | The new funder-researcher collaboration and open-access journal for outstanding advancements in life and biomedical research
 
 If you have questions about deleting or correcting your personal data please [contact us](http://www.elifesciences.org/contact/).
 
-eLife Sciences Publications, Ltd. (“ **eLife** ”) operates a Web site at elifesciences.org. It is eLife’s policy to respect your privacy regarding any information we may collect while operating our Web sites.
+eLife Sciences Publications, Ltd. (“ **eLife** ”) operates a Web site at [elifesciences.org](http://www.elifesciences.org/). It is eLife’s policy to respect your privacy regarding any information we may collect while operating our Web sites.
 
 **Website visitors**
 
@@ -28,9 +28,13 @@ eLife discloses potentially personally identifying and personally identifying in
 
 A cookie is a string of information that a Web site stores on a visitor’s computer, and that the visitor’s browser provides to the Web site each time the visitor returns. eLife uses cookies to help eLife identify and track visitors, their usage of eLife Web site, and their Web site access preferences. eLife visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using eLife’s Web sites, with the drawback that certain features of eLife’s Web sites may not function properly without the aid of cookies.
 
+You can modify your browser settings to notify you each time a cookie is sent to it and you can decide whether or not to accept. Alternatively, you can set your browser to refuse all cookies. Cookies that have already been set can be deleted at any time using your browser settings.
+
+The independent website at [**www.aboutcookies.org**](http://www.aboutcookies.org/) contains comprehensive information on how to modify your browser settings.
+
 **Business transfers**
 
-If eLife, or substantially all of its assets, were acquired, or in the unlikely event that eLife goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of eLife may continue to use your personal information as set forth in this policy.
+If eLife, or substantially all of its assets, were acquired, or in the unlikely event that eLife goes out of business or enters bankruptcy, user information will be one of the assets that is likely to be transferred to, or acquired by, a third party. You acknowledge that such transfers may occur, and you consent to eLife’s transferring your user information to any acquirer of eLife and their continuing to use your personal information as set forth in this policy.
 
 **Privacy policy changes**
 
@@ -40,6 +44,7 @@ _First published March 30, 2012._
 
 Change log:
 
+  * Added para’s 2-3 on cookies (5 Dec, 12)
   * Removed section on advertisers (3 Apr, 12)
 
 
