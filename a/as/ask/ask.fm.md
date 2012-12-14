@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ask.fm privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225194713id_/http%3A//ask.fm/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ask.fm privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214123325id_/http%3A//ask.fm/about/privacy) for the most accurate reproduction.*
 
 # Ask.fm
 
