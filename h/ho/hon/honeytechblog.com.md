@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the honeytechblog.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615041701id_/http%3A//www.honeytechblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honeytechblog.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215000730id_/http%3A//www.honeytechblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Honeytech Blog
+# Privacy Policy
 
 Honeytech Blog is a technology portal of Tutorials, How to, Tips and Guides of Internet Tools, Social Media, Blogging , WordPress, Open Source and Ways to make money online.  
 We have more than **1300 posts** which also provides regular source of updates via Emails and Rss feeds. We are serious on protecting your private data. We have more than 5000 registered members with their personal information safe with us. We assured you that it will only be used to support your relationship with Honeytech Blog. This privacy policy is intended for all users of Honeytechblog.com.
