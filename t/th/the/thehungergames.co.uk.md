@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the thehungergames.co.uk privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214153026id_/http%3A//www.scholastic.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehungergames.co.uk privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214063322id_/http%3A//www.scholastic.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Our Privacy Policy - Scholastic UK - Children's Books, Book Clubs, Book Fairs and Teacher Resources
 
-## SCHOLASTIC.CO.UK   
-PRIVACY POLICY
+**We use cookies on our websites! To find out more about how we use cookies, go to[www.scholastic.co.uk/cookies](https://web.archive.org/web/20121214063322id_/http://www.scholastic.co.uk/cookies).**
 
 Please read the following Privacy Policy (“Privacy Policy”) carefully before submitting any details via www.scholastic.co.uk (the “Website”).
 
