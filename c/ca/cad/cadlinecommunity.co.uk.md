@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cadlinecommunity.co.uk privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614023516id_/http%3A//www.cadlinecommunity.co.uk/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadlinecommunity.co.uk privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214140111id_/http%3A//www.cadlinecommunity.co.uk/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -104,12 +104,29 @@ CADline Limited may, from time to time, employ the services of other parties for
 
 10\. **Cookies**
 
-10.1 CADline Limited may set and access Cookies on your computer. A Cookie is a small file that resides on your computer’s hard drive and often contains an anonymous unique identifier and is accessible only by the web site that placed it there, not any other sites.
+10.1 CADline Limited set and access Cookies on your computer. A Cookie is a small file that resides on your computer’s hard drive and often contains an anonymous unique identifier and is accessible only by the web site that placed it there, not any other sites.
 
 10.2 You may delete Cookies, however you may lose any information that enables you to access the Web Site more quickly.
 
 10.3 You can choose to enable or disable Cookies in your web browser. By default, your browser will accept Cookies, however this can be altered. For further details please consult the help menu in your browser. Disabling Cookies may prevent you from using the full range of Services available on the Web Site.
 
-11\. **Changes to this Policy**
+10.4 The International Chambers of Commerce (ICC) define four categories of Cookie that are used on the Internet as follows:
 
-CADline Limited reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Web Site and you are deemed to have accepted the terms of the Policy on your first use of the Web Site following the alterations.
+**Category 1: Strictly Necessary Cookies**  
+These cookies are essential in order to enable you to use the website. They enable us to provide services you have specifically asked for.
+
+**Category 2: Performance Cookies**  
+These cookies collect information about how visitors use a website, for instance which pages visitors go to most often.  These cookies don’t collect information that identifies a visitor. The data collected is aggregated and therefore anonymous. It is only used to improve how a website works.
+
+**Category 3: Functionality Cookies**  
+These cookies allow the website to remember choices you make (such as your user name or language) in order to improve the user experience.
+
+These cookies are not used on our website.
+
+**Category 4: Targeting Cookies or Advertising Cookies**  
+These cookies collect information about your browsing habits in order to deliver adverts more relevant to you and your interests.
+
+These cookies are not used on our website.
+
+**Reset Cookie Preferences**  
+By clicking on the button below, you can reset/clear your cookie preferences.
