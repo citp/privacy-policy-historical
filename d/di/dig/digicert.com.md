@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digicert.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625124550id_/http%3A//www.digicert.com/digicert-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digicert.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214035136id_/http%3A//www.digicert.com/digicert-privacy-policy.htm) for the most accurate reproduction.*
 
 # DigiCert SSL Certificate Authority | Security | Privacy Policy
 
@@ -8,11 +8,11 @@
 
 Introduction
 
-DigiCert, Inc. is committed to protecting the privacy of its customers and website visitors. As a result, DigiCert has developed this privacy policy to inform its website visitors and customers about DigiCert's practices regarding data collection and use. 
+DigiCert, Inc. is committed to protecting the privacy of its customers and website visitors. As a result, DigiCert has developed this privacy policy to inform its website visitors and customers about DigiCert's practices regarding data collection and use.
 
 Non-Personal Information
 
-DigiCert, like most website operators, uses cookies and web beacons to automatically gather, analyze, and store non-personal information about website visitors. Non-personal information may include the visitor's IP address, browser type, ISP, referring page, operating system, date/time, and clickstream data. DigiCert uses third-party software to assist in collecting and analyzing this information. This information is used to improve DigiCert's service and enhance the experience of DigiCert's website visitors. Automatically collected non-personal information is not linked to personally identifiable information. 
+DigiCert, like most website operators, uses cookies and web beacons to automatically gather, analyze, and store non-personal information about website visitors. Non-personal information may include the visitor's IP address, browser type, ISP, referring page, operating system, date/time, and clickstream data. DigiCert uses third-party software to assist in collecting and analyzing this information. This information is used to improve DigiCert's service and enhance the experience of DigiCert's website visitors. Automatically collected non-personal information is not linked to personally identifiable information. Visit our [Online Cookies and Privacy](http://www.digicert.com/digicert-cookie-policy.htm) page for a list of cookies used on the DigiCert website.
 
 Personal Information
 
@@ -62,9 +62,9 @@ The security of personal information is of the utmost importance to DigiCert. Di
 
 DigiCert follows generally accepted industry standards to protect personal information during transmission and storage. Unfortunately, no method of transmission over the Internet or electronic storage is 100% secure. While DigiCert strives to use commercially acceptable standards to protect personal information, DigiCert cannot guarantee absolute security.
 
-Safe Harbor
+Safe Harbor Compliance
 
-DigiCert adheres to the EU-Swiss Safe Harbor Framework and the Privacy Principles of Notice, Choice, Onward Transfer, Access, Security, Data Integrity, and Enforcement and the Frequently Asked Questions issued by the U.S. Department of Commerce, see <http://www.export.gov/safeharbor>, (the “Safe Harbor Principles”). DigiCert is subject to the jurisdiction of the Federal Trade Commission of the United States, and our failure to comply with this Privacy Policy or the Safe Harbor Principles is actionable under Section 5 of the Federal Trade Commission Act.
+DigiCert complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce, including the Privacy Principles of Notice, Choice, Onward Transfer, Access, Security, Data Integrity, and Enforcement and the Frequently Asked Questions (the “Safe Harbor Frameworks”). DigiCert is subject to the jurisdiction of the Federal Trade Commission of the United States, and our failure to comply with this Privacy Policy or the Safe Harbor Frameworks is actionable under Section 5 of the Federal Trade Commission Act.
 
 TRUSTe Licensee Statement
 
