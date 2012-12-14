@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the holeinthedonut.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618204807id_/http%3A//www.holeinthedonut.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holeinthedonut.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214190906id_/http%3A//www.holeinthedonut.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure, Privacy Policy | Hole In The Donut Cultural Travel
+
+Twitter Facebook StumbleUpon Google+ Pin It Share [](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fholeinthedonut.com%2Fdisclosure%2F&media=http://holeinthedonut.com/wp-content/uploads/2009/12/disclosure-badge.jpg) LinkedIn
 
 **DISCLOSURE:**
 
 Hole In The Donut is a personal blog written and edited by Barbara Ann Weibel. For questions about this blog, please contact me at donutmaster (at) holeinthedonut (dot) com.
 
-[](http://holeinthedonut.com/wp-content/uploads/2009/12/disclosure-badge.jpg)
+[](http://holeinthedonut.com/wp-content/uploads/2009/12/disclosure-badge.jpg?9d7bd4)
 
 I disclose
 
@@ -22,7 +24,7 @@ This blog does contain content which might present a conflict of interest. This 
 
 This disclosure policy is valid from 23 December 2009
 
-**PRIVACY POLICY:**
+ **PRIVACY POLICY:**
 
 Any personal information you provide, including your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of Hole In The Donut.
 
@@ -35,3 +37,5 @@ A “cookie” is a small data text file that is placed in your browser and allo
 In order to test the usability of the Hole In The Donut’s design and layout, software may be used which captures the mouse clicks and movements of visitors.  While the visitor’s IP address may be available through these programs, it is not used for any reason, nor is any more specific, identifying information provided.
 
 Hole In The Donut cannot guarantee the security of any information that you transmit and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition other Internet sites or services that may be accessible through Hole In The Donut have separate and independent data and privacy practices, and therefore we disclaim any responsibility or liability for their policies or actions. ****
+
+Twitter Facebook StumbleUpon Google+ Pin It Share [](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fholeinthedonut.com%2Fdisclosure%2F&media=http://holeinthedonut.com/wp-content/uploads/2009/12/disclosure-badge.jpg) LinkedIn
