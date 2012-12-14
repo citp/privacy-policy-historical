@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glocktalk.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615212721id_/http%3A//www.glocktalk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glocktalk.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214061346id_/http%3A//www.glocktalk.com/privacy.php) for the most accurate reproduction.*
 
 # Glock Pistols - Glock Pistol | Glock Talk - Privacy Policy
 
@@ -96,20 +96,20 @@ Bingham Farms, MI 48025
   
 
 
-**Members:** 166,257 
+**Members:** 175,173 
 
-**Threads:** 726,138 
+**Threads:** 753,756 
 
-**Posts:** 9,865,940 
+**Posts:** 10,467,757 
 
 **Welcome our newest member:  
-Vermy **
+Arkansas **
 
-**Users Currently Online:** 1,440  
-470 Members  
-970 Guests
+**Users Currently Online:** 1,416  
+510 Members  
+906 Guests
 
 **Most users ever online:** 5,723   
 Apr 16, 2009 at 11:36   
   
-All times are GMT -6. The time now is 15:27.
+All times are GMT -6. The time now is 00:13.
