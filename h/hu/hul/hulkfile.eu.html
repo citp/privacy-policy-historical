@@ -1,0 +1,475 @@
+<!--The following is the downloaded HTML source of the hulkfile.eu privacy policy that was archived on 2012-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121214034118id_/http%3A//hulkfile.eu/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!--<Title>Hulkfile - Rock solid cloud storage service</Title>-->
+<title>Hulkfile - Rock solid cloud storage service</title>
+<link rel="stylesheet" type="text/css" href="/main.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript" charset="UTF-8" src="/jquery-1.4.2.min.js"></script>
+<script language="JavaScript" type="text/javascript" charset="UTF-8" src="/xupload.js"></script>
+<!--script language="JavaScript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script-->
+<meta http-equiv="Content-Type" content="text-html; charset=UTF-8">
+<meta name="description" content="Hulkfile - Rock solid cloud storage service">
+<meta name="keywords" content="file upload,share files,free upload">
+
+<meta property="og:image" content="http://hulkfile.eu/images/style/main/logo.gif">
+
+    <link href="/bootstyle/css/bootstrap.min.css" rel="stylesheet">
+   <link href="/bootstyle/css/bootstrap.css" rel="stylesheet">
+    <script src="/bootstyle//js/bootstrap.min.js"></script>
+    <script src="/bootstyle//js/bootstrap.js"></script>
+</head>
+<body>
+
+
+<!--- LANG --->
+<!---
+<div style="position:absolute; z-index:10; top:-1px; left:50%;">
+<div style="position:absolute; z-index:10; left:470px;">
+
+<div id="lang">
+<ul>
+<li class="top"><a href="http://hulkfile.eu/?op=change_lang&lang=english"><span class="trf trf-english"></span>English</a></li>
+
+<li><a href="http://hulkfile.eu/?op=change_lang&lang=french"><span class="trf trf-french"></span>French</a></li>
+
+<li><a href="http://hulkfile.eu/?op=change_lang&lang=arabic"><span class="trf trf-arabic"></span>Arabic</a></li>
+
+<!--img src="http://hulkfile.eu/images/flag-.gif" alt=" language"-->
+
+
+
+
+
+
+<!--- /LANG/ --->
+
+
+
+
+<table border="0" width="965" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="306">
+		<a href="/" title="Hulkfile"><img border="0" src="/images/style/main/logo.gif" width="306" height="89"></a></td>
+		<td width="659">
+		
+
+		&nbsp;</td>
+		<td width="500">
+		
+		<script type="text/javascript">
+		$('#signupbg').hide();
+		$('#loginbg').hide();
+		$(document).ready(function(){
+			//alert ('HELLO');
+			
+			
+			$('#signupbg').hide();
+			$('#signup').click(function(){
+                $('#signupbg').css('display','table');
+				$('#signupbg').fadeIn(500);
+				return false;
+			});
+			
+			
+			$('#loginbg').hide();
+			$('#login').click(function(){
+                $('#loginbg').css('display','table');
+				$('#loginbg').fadeIn(500);
+				return false;
+			});
+			
+			
+			//$('#signupbg').click(function(){$('#signupbg').fadeOut(500);});
+			$('#close_sign').click(function(){
+				$('#signupbg').fadeOut(500);
+				
+			});
+			
+			$('#close_log').click(function(){
+				$('#loginbg').fadeOut(500);
+				
+			});
+			
+			
+			
+			$('.premium').click(function(){
+			
+			
+			});
+			
+		});
+		</script>
+		
+		
+		
+		<!-- START not Logged in -->
+		
+		
+		
+		<!-- Sign Up Div -->
+		<div id="signupbg" style="display:none; position:absolute; z-index:4; width:100%; height:100%; padding:0; margin:0; top:0px; left:0px; background:url(/images/style/signup/bg.png);">
+		<div id="signupform" style="position:absolute; z-index:5; left:40%; top:200px; background:#fff; border:4px solid #252525; -moz-border-radius: 15px; border-radius: 15px;
+		-moz-box-shadow: 4px 4px 6px #5c5c5c; -webkit-box-shadow: 4px 4px 6px #5c5c5c; box-shadow: 4px 4px 6px #5c5c5c; width:400px;">
+		
+		<div id="close_sign" style="position:absolute; z-index:5; bottom:5px; top:-8px; left:-8px; cursor:pointer;"><img title="close" src="/images/style/close.png" border="0"></div>	
+		<br>
+
+<div class="rrd_popup">
+
+
+<div align="centeR">
+<h3 style="margin:0;">User Registration</h3>
+</div>
+
+
+<form method="POST" onsubmit="return CheckForm(this)">
+
+<input type="hidden" name="op" value="register_save">
+
+<input type="hidden" name="rand" value="">
+
+<table>
+
+<tbody><tr><td align="right"><b>Username</b></td><td><input type="text" id="username" name="usr_login" value=""></td></tr>
+
+<tr><td align="right"><b>E-mail</b></td><td><input type="text" name="usr_email" value=""></td></tr>
+
+<tr><td align="right"><b>Password</b></td><td><input type="password" name="usr_password" value=""></td></tr>
+
+<tr><td align="right"><b>Retype Password</b></td><td><input type="password" name="usr_password2" value=""></td></tr>
+
+
+
+
+
+<tr><td colspan="2" align="center"><input type="submit" class="btn btn-success" value=" Submit "></td></tr>
+
+</tbody></table>
+
+</form>
+
+</div>
+
+<br><br>
+
+
+
+<script>
+
+function  CheckForm(f)
+
+{
+
+    var err=Array();
+
+    if(f.usr_login.value.length<4)err.push("* Login must be at least 4 letters long");
+
+    if(f.usr_login.value.length>32)err.push("* Login must be less than 32 letters long");
+
+    if(!f.usr_login.value.match(/^([a-zA-Z0-9_\-])+$/))err.push("* Invalid Login format");
+
+    if(f.usr_password.value.length<4)err.push("* Password should be at least 4 letters long");
+
+    if(f.usr_password.value.length>32)err.push("* Password should be less than 32 letters long");
+
+    if( !f.usr_email.value.match(/^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/) )err.push("* Valid e-mail required");
+
+    if(f.usr_password.value.length!=f.usr_password2.value.length)err.push("* Passwords do not match");
+
+    if(err.length>0){alert( 'Please fix errors below:\n\n'+err.join('\n') );return false;}
+
+}
+
+</script>
+		</div>
+		</div>
+
+
+		<!-- Login Div -->
+		<div id="loginbg" style="display:none; position:absolute; z-index:4; width:100%; height:100%; padding:0; margin:0; top:0px; left:0px; background:url(/images/style/signup/bg.png);">
+		<div id="loginform" style="position:absolute; z-index:5; left:40%; top:200px; background:#fff; border:4px solid #252525; -moz-border-radius: 15px; border-radius: 15px;
+		-moz-box-shadow: 4px 4px 6px #5c5c5c; -webkit-box-shadow: 4px 4px 6px #5c5c5c; box-shadow: 4px 4px 6px #5c5c5c;">
+		
+		<div id="close_log" style="position:absolute; z-index:5; bottom:5px; top:-8px; left:-8px; cursor:pointer;"><img title="close" src="/images/style/close.png" border="0"></div>	
+		<br>
+
+
+
+<div class="rrd_popup">
+
+<div align="center">
+
+<h3 style="margin:0;">User Login</h3>
+
+
+
+<form method="POST" action="http://hulkfile.eu/" name="FL">
+
+<input type="hidden" name="op" value="login">
+
+<input type="hidden" name="redirect" value="">
+
+<table>
+
+<tbody><tr>
+
+<td>Username:</td><td><input type="text" name="login" value=""></td>
+
+</tr>
+
+<tr>
+
+<td>Password:</td><td><input type="password" name="password"></td>
+
+</tr>
+
+</tbody></table>
+
+
+
+<input type="submit" class="btn btn-success" value="Submit">
+
+</form>
+
+
+
+</div></div>
+
+<br><br>
+
+<script>
+
+
+
+document.FL.login.focus();
+
+
+
+</script>
+		</div>
+		</div>
+		
+		
+		
+		
+		<div style="position:absolute; z-index:2; top:25px; left:50%;">
+		<div style="position:absolute; z-index:3; left:250px;">
+		<table border="0" cellspacing="0" cellpadding="8">
+			<tbody><tr>
+				<td>
+				<p align="center"></p><div class="btn btn-success" id="signup" style="width:80px; padding:4px 2px 4px 2px;"><i class="icon-plus icon-white"></i> Sign Up</div></td>
+				<td width="4"><p align="center"><img src="/images/style/main/button-separator.gif" border="0"></p></td>
+				<td>
+				<p align="center"></p><div class="btn btn-inverse" id="login" style="width:80px; padding:4px 2px 4px 2px;"><i class="icon-user icon-white"></i> Login</div></td>
+				<!---<td width="4"><p align="center"><img src="/images/style/main/button-separator.gif" border="0" /></td>
+				<td>
+				<p align="center"><input alt="Upgrade" onclick="javascript:window.location='/premium.html'"  type="submit" class="premium" value="Go premium" name="B1" /></td>
+				<td width="4"><p align="center"><img src="/images/style/main/button-separator.gif" border="0" /></td>
+				 <td><span style="color:red; position:absolute; top:-5px; right:8px;"><b>Updated !</b></span>
+				<p align="center"><input onclick="javascript:window.location='/makemoney.html'"  type="submit" class="mkmoney" value="Affiliate" name="B1" /></td> --->
+			</tr>
+		</tbody></table>
+		</div></div>
+		
+		<!-- END not Logged in -->
+		
+		
+		
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3">
+		<img border="0" src="/images/style/main/separator.gif" width="959" height="13"></td>
+	</tr>
+</tbody></table>
+
+
+
+<!--Ads here-->
+
+
+
+
+
+
+<!--
+
+-->
+
+
+
+
+
+
+
+
+<br>
+
+
+
+<div style="width:900px;">
+<div align="center">
+	<table border="0" width="900" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td>
+			<div width="850" style="width: 886px; height: 824px">
+<div style="text-align:left;width:886px;height:795px">
+	<h3><font size="6">Privacy Policy</font></h3>
+	<p>By using the Site, you signify your assent to our privacy policy. If you 
+	do not agree with any of the terms of this policy, please do not use our 
+	Site. We reserve the right to change this policy at any time, and will post 
+	any changes to this policy when they go into effect.<br>
+	<br>
+	<b>Ad-Serving</b><br>
+	We use third-party advertising companies to serve ads when you visit our 
+	website. These companies may use information (not including your name, 
+	address, email address, or telephone number) about your visits to this and 
+	other websites in order to provide advertisements about goods and services 
+	of interest to you. If you would like more information about this practice 
+	and to know your choices about not having this information used by these 
+	companies, <a href="http://www.networkadvertising.org/">click here</a>.</p>
+	<p>* Google, as a third party vendor, uses cookies to serve ads on our site.<br>
+	* Google's use of the <a href="http://www.doubleclick.com/privacy/faq.aspx">
+	DART cookie</a> enables it to serve ads based on your visit to our sites and 
+	other sites on the Internet.<br>
+	* You may opt out of the use of the DART cookie by visiting the
+	<a href="http://www.google.com/privacy_ads.html">Google ad and content 
+	network privacy policy</a>.<br>
+&nbsp;</p>
+	<p>Information That We Collect and What We Do With the Collected Information<br>
+	There are situations when using our Web site when we may need personal 
+	information from you. By "personal information" we mean information that is 
+	uniquely identified to you, such as your email address, IP address, password 
+	and user name. We may disclose in aggregate form our statistical analyses or 
+	demographics of users to third parties, such as advertisers or potential 
+	advertisers. Those disclosures do not include personal information. 
+	Duckfile.net might use information collected in connection with your 
+	participation in interactive activities, including account registration, for 
+	its own internal purposes, such as (by way of illustration) to respond to 
+	inquiries, to enforce the Terms of Use, or to defend itself in the event of 
+	litigation. We use your IP address to help diagnose problems with our 
+	server, and to administer our Web site. We also can use the IP address to 
+	verify the identity of perpetrators of illegal activity.</p>
+	<p>Other Disclosures to Third Parties - subpoenas, court and government 
+	orders, our attorneys.<br>
+	Duckfile.net will not distribute or sell any of your personal information to 
+	third parties. However, by using this site's services, you assume the risk 
+	that a court or government agency may order Duckfile.net to disclose your 
+	submission and/or personally identifying information about you, or that a 
+	litigant, a court, a grand jury, or government agency may subpoena that 
+	information. We do not disclose the identities of ours users unless we are 
+	legally required to do so. If a governmental agency (for example, law 
+	enforcement agencies, US Attorneys' offices or similar governmental 
+	agencies) sends us a subpoena, we will comply with it. We will attempt to 
+	notify you of such a subpoena or other legal process by sending a notice by 
+	electronic mail to the most recent e-mail address you have provided to us. 
+	The notice will include basic information concerning the subpoena, court 
+	order, or legal process (i.e., name of lawsuit, case number, place of 
+	filing, party issuing subpoena, the court where the subpoena was issued, 
+	contact information, deadline by which we plan to comply with the process, 
+	etc.). Duckfile.net may need to consult its own attorneys. In doing so, 
+	Duckfile.net may disclose personal information to its attorneys.</p>
+	<p><b>Cookies</b><br>
+	There is a technology called "cookies" which can be used to provide you with 
+	tailored information from a Web site. A cookie is an element of data that a 
+	Web site can send to your browser, which may then store it on your system. 
+	Some Duckfile.net pages use cookies so that we can better serve you when you 
+	visit and then return to our site. We use cookies to deliver information 
+	specific to your interests and to save your password so you don't have to 
+	re-enter it each time you visit certain areas of our Web site.</p></div>
+<p>&nbsp;</p>
+
+</div></td>
+		</tr>
+	</tbody></table>
+</div>
+
+</div>
+
+
+
+
+
+
+<!-- FOOTER -->
+<br>
+<table border="0" width="950" cellspacing="0" cellpadding="2" background="/images/style/main/footer.png" height="110">
+	<tbody><tr>
+		<td>
+		<table border="0" width="100%" cellspacing="0" cellpadding="2">
+			<tbody><tr>
+				<td width="220"><div style="position:relative; height:100px;"><div style="position:absolute; bottom:0px; left:10px;"><a href="http://www.instantssl.com">
+				<img src="https://www.instantssl.com/ssl-certificate-images/support/comodo_secure_76x26_transp.png" alt="SSL" style="border: 0px;"></a></div></div>
+				</td>
+				<td>
+				<div align="left">
+				<table border="0" width="712" cellspacing="0" cellpadding="2">
+					<tbody><tr>
+						<td align="left" width="154">
+						<p align="left"><u><b>Legal</b></u><br>
+						<a href="/dmca.html" style="text-decoration:none;">Copyright (DMCA)</a><br>
+						<a href="/tos.html" style="text-decoration:none;">Terms of service</a><br>
+						<a href="/privacy.html" style="text-decoration:none;">Privacy Policy</a><br>
+						<a href="/abuse.html">Abuse</a></p></td>
+						<td align="left" width="4" background="/images/style/footer-separator.png">&nbsp;</td>
+						<td align="left" width="133"><u><b>Contact</b></u><br>
+						<a href="/support/open.php" target="_blank" style="text-decoration:none;">contact us</a><br>
+						<a href="/?op=news" style="text-decoration:none;">our news</a><br>
+						<a href="#" style="text-decoration:none;" onclick="alert('Coming Soon ...');">@hulkfile</a><br>
+						<a href="http://hulkfile.eu/?op=forgot_pass">Recover Password?</a>
+						</td>
+						<td align="left" width="4" background="/images/style/footer-separator.png">&nbsp;</td>
+						<td align="left"><u><b>Help !</b></u><br>
+						<a href="/faq.html" style="text-decoration:none;">FAQ</a><br>
+						<a href="/support" target="_blank" style="text-decoration:none;">HelpDesk</a><br>
+						<a href="/premium.html" alt="Upgrade to Professional Account" style="text-decoration:none;">Upgrade to 
+						Pro</a>
+						<br><a href="/cholders.html" alt="For Copyright Holders" style="color:green;text-decoration:none;">Copyright Holder ?</a> 
+						<!---<a href="/makemoney.html" alt="Make money" style="text-decoration:none;">Make Money</a><br>
+						<a title="Promo Banners" alt="Banners/Buttons" href="/banners.html">Banners/Buttons</a></td> --->
+						</td><td align="left" width="4" background="/images/style/footer-separator.png">&nbsp;</td>
+						<td align="left" width="255"><u><b>Links</b></u><br>
+						<!--- <a href="/login.html" alt="Login" style="text-decoration:none;">Login</a><br> --->
+						<a href="/?op=registration" alt="Register" style="text-decoration:none;">SignUp</a><br>
+						<a href="/" alt="Upload Files" style="text-decoration: none">
+						Upload Files</a><br><br>
+						© 2011 Hulkfile, All Rights Reserved</td>
+					</tr>
+				</tbody></table>
+				</div>
+				</td>
+			</tr>
+		</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-30792786-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+<!-- Histats.com  START (hidden counter)-->
+<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script><script src="http://s10.histats.com/js15.js" type="text/javascript"></script>
+<a href="http://www.histats.com" target="_blank" title="site stats"><script type="text/javascript">
+try {Histats.start(1,1883039,4,0,0,0,"");
+Histats.track_hits();} catch(err){};
+</script></a>
+<noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?1883039&101" alt="site stats" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+
+
+</body></html>
