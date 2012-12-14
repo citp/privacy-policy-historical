@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the deviceanywhere.com privacy policy that was archived on 2012-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120121221142id_/http%3A//www.deviceanywhere.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deviceanywhere.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214090716id_/http%3A//www.keynotedeviceanywhere.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Keynote DeviceAnywhere - Mobile Application Testing Platform - Privacy Policy
+
+Privacy Policy
 
 This Privacy Policy  
 Keynote DeviceAnywhere™ Inc. respects the privacy of all of its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains our treatment of your Personal Information collected in connection with your activities either on or related to this website referencing this Privacy Policy or related to use of Keynote DeviceAnywhere products and services. This Privacy Policy also explains how you can ask questions and make suggestions about our privacy practices and review and update your personal information.
@@ -47,9 +49,10 @@ If you receive marketing or similar e-mail messages from us and wish to opt out 
 Contact Us  
 For any question, concerns, or comments about this Privacy Policy, or for more information, please contact us directly at
 
-Keynote DeviceAnywhere.  
-1730 South Amphlett Blvd. Suite 300  
-San Mateo, CA 94402  
-Tel: 888.675.8612
+777 Mariners Island Blvd, Suite 250  
+San Mateo, CA 94404, USA  
+Tel: +1.650-403-2450  
+Toll Free (US Only): +1.877.338.4230  
+Fax: +1.650.240.3885
 
 Top
