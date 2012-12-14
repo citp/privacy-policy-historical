@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the skymall.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611054053id_/http%3A//www.skymall.com/shopping/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skymall.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214105159id_/http%3A//www.skymall.com/shopping/privacy.htm) for the most accurate reproduction.*
 
 # SkyMall - Customer Service - Your Privacy: Guaranteed
 
 |  |   
 |  |   
 ---  
-  | Customer Service   [Home](https://web.archive.org/web/20120611054053id_/http%3A//www.skymall.com/shopping/homepage.htm) : [Customer Service](https://web.archive.org/web/20120611054053id_/http%3A//www.skymall.com/shopping/custsvc.htm) : [Your Privacy](https://web.archive.org/web/20120611054053id_/http%3A//www.skymall.com/shopping/privacy.htm?name=Your%20Privacy&link=privacy.htm)  
+  | Customer Service   [Home](https://web.archive.org/web/20121214105159id_/http%3A//www.skymall.com/shopping/homepage.htm) : [Customer Service](https://web.archive.org/web/20121214105159id_/http%3A//www.skymall.com/shopping/custsvc.htm) : [Your Privacy](https://web.archive.org/web/20121214105159id_/http%3A//www.skymall.com/shopping/privacy.htm?name=Your%20Privacy&link=privacy.htm)  
   | We're here to help. Can't find what you need? Just give us a call at 1-800-Sky-Mall (1-800-759-6255)   
 |  |  |   
 ---  
