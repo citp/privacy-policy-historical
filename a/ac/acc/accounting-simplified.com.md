@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the accounting-simplified.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502003706id_/http%3A//accounting-simplified.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accounting-simplified.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214225450id_/http%3A//accounting-simplified.com/privacy.html) for the most accurate reproduction.*
 
-# Accounting-Simplified: Free Financial Accounting study resources
+# Privacy
 
 At www.accounting-simplified.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.accounting-simplified.com and how it is used.
 
