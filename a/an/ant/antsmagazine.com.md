@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antsmagazine.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630000439id_/http%3A//www.antsmagazine.com/antsmagazinecom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antsmagazine.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214165004id_/http%3A//www.antsmagazine.com/antsmagazinecom-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AntsMagazine.Com
 
