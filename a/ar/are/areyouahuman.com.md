@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the areyouahuman.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509130002id_/http%3A//areyouahuman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areyouahuman.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214223027id_/http%3A//areyouahuman.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy | are you a human | the captcha alternative
+# Privacy Policy | Are You a Human
 
-Personal identification information
+### Personal identification information
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
@@ -63,6 +63,6 @@ Detroit, MI 48226
 313-451-4790  
 humans@areyouahuman.com
 
-_This document was last updated on September 13, 2011_
+_This document was last updated on September 24, 2012_
 
 Privacy policy created by [www.generateprivacypolicy.com](http://www.generateprivacypolicy.com/ "Generate Privacy Policy")
