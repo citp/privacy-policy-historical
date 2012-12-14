@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amasty.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603081348id_/http%3A//amasty.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amasty.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214163709id_/http%3A//amasty.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,31 +62,30 @@ This privacy statement is based on a precedent created by [employmentlawcontract
 
 Investing in our extensions, you get a lot of great bonuses such as additional revenue, better customer satisfaction and saved time absolutely for free! 
 
-[](http://twitter.com/AmastyTeam)
-
-[](http://www.youtube.com/user/AmastyTeam)
-
+  
   
 
 
-> I had been waiting for an extension similar to Custom Stock Status for a while. This extension is a must have is you want to communicate delivery information efficiently to your customers. Thank you for this very good extension and premium customer support!
+> This product is amazing!!!.. With my store having 3000 products, this extension helps save me so much time!!. My favorite feature is the multi-way selection. Thanks again!
 
-\- Emmanuel  
-www.zenlap.com
-
-> I'm well pleased with the "Favorites" extension. It works exactly as described and having a "Demo" on their site to try out was very helpful. My copy installed without a hitch and Alex was very helpful changing a few things around. Definitely worth the price! I will buy from them again!
-
-\- billybjr  
+\- edz8386   
 Magento Connect
 
-> Amazing! works just as advertised.   
->  I had an issue that wasn't related to the extension and once support guided me how to apply the proper sales rule condition, I was able to setup my multiple coupons scenario perfectly.   
->  highly recommend.
+> Simple extension, work very fine!! Easy install, and perfect integration with magento. 
+> 
+> Great support by Alex!!, very fast!! Thanks 
+> 
+> Highly recommended. 
 
-\- dizmarkie  
+\- Fabbiolone   
 Magento Connect
 
-> Fantastic module, and excellent support. We had some issues with the initial install but Alex at Amasty had us up and going within a business day. Will definitely buy from again, and I strongly recommend this module to anyone who needs it! 
+> Good script, allowing to bulk generating coupons in seconds. flexible and only one on market that allow coupon tracking. can't wait for another version to allowing for example TWO WAY tracking - referral customer
 
-\- sesellis  
-Magento Connect
+\- Tomke  
+innovation
+
+> It does exactly what it says and well worth the price, additionally the support team are really helpful. Great job!
+
+\- Andrew  
+Web Designer
