@@ -1,55 +1,46 @@
-> *The following text is extracted and transformed from the primelocation.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410193856id_/http%3A//www.primelocation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primelocation.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214200408id_/http%3A//www.primelocation.com/privacy) for the most accurate reproduction.*
 
-# privacy policy | Primelocation.com
+# PrimeLocation Privacy policy | PrimeLocation
 
-This privacy policy applies only to this website (Primelocation.com). If you do not accept this privacy policy, you must not use this Site.
+## Our commitment to you
 
-#### Collection of Personal Information
+PrimeLocation.com is operated by Zoopla Property Group Limited. Zoopla Property Group Limited respects your privacy and is committed to protecting personal information collected from you through our website. This privacy policy governs the way we collect and use information, and by using the services on our website ('Services') you agree to be bound by this policy. All references within this policy to 'we/us/our' refer to Zoopla Property Group Limited.
 
-We collect personal information from you (such as name, address, telephone number and email address) when you complete registration or enquiry forms or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it. 
+## Information we collect
 
-#### Collection of Other Information
+When you use the Services you will have the option to provide us with personal information, such as your email address, so that we may keep you informed.
 
-In addition to personal information, we may collect information about you automatically when you visit the Site. The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor traffic on the Site. A cookie is a small text file that is placed on your computer's hard drive by your web browser when you first visit the Site. The cookie allows us to identify your computer and find out details about your last visit. Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, we cannot guarantee that your experience with the Site will be as quick or responsive as if you do receive cookies. 
+When visiting our website, we may place one or more cookies (a small file that is stored by your browser to recognise you and store your preferences) on your computer. This helps us to improve our Services by personalising information you may want. You may adjust the settings on your browser to refuse cookies but some of the Services may not work if you do so. We may also log information from your computer including the existence of cookies, your IP address and information about your browser program in order to allow us to diagnose problems, administer and track your usage of the Services.
 
-The information collected by cookies and web beacons is not personally identifiable. It includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Site and geographical location. 
+## How we use information
 
-#### Use of Your Information 
+We use the information we collect to provide the Services and to communicate with you. We may disclose information (including personal information) to other companies in our group (<http://www.dmgt.co.uk/footer/dmgt>) and may use and share, within the group, information that we learn from your interactions with us. We will only share your personal information outside our group in the following circumstances:
 
-By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which shall include (without limitation): 
-
-  * Personalising your visits to the Site and developing the design and style of the Site to improve the services provided to you 
-  * Informing you about the latest changes to the Site, or products, services or promotional offers that you might find interesting 
-  * Communicating (and personalising such communication) with you 
-  * Informing you if you have been successful in any Site competitions or promotions 
-  * Compiling customer reviews 
-  * Conducting market research 
-  * Carrying out statistical, technical and logistical analysis
+  * When you have consented or directed us to share the information.
+  * With service providers or affiliate companies who perform services on our behalf.
+  * In order to satisfy any requirement under the law or to protect our rights or prevent any concerns relating to fraud or security.
+  * In the event of a merger or sale of all or part of our business whereby personal information may be transferred as an asset of the business.
 
 
 
-#### Sharing Your Personal Information
+We may share with third parties aggregate information or information that does not personally identify you.
 
-By using the Site, you agree that we may disclose your personal information to any company within the Daily Mail and General Trust plc group of companies.
+## Communicating with you
 
-Subject to obtaining your consent, we may also supply personal information about you to third parties.
+If you prefer not to receive emails about our Services, you may opt out of such communications by following the instructions at the bottom of any of our emails, or by amending your preferences in [myPrimeLocation](https://web.archive.org/myaccount/).
 
-We reserve the right to disclose your personal information to comply with applicable laws and government or regulatory bodies’ lawful requests for information. 
+## Third parties
 
-We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business. 
+We use third parties to serve advertisements on our website and these third parties may use cookies or other means to help measure the effectiveness of their advertisements. Our website may also include links to other unrelated websites and/or contact forms to other unrelated parties which may collect personal information. Our privacy policy does not extend to these third parties or other websites and we recommend that users refer directly to these parties regarding their privacy policies before supplying personal details to these companies.
 
-#### Safeguards and Security
+## Safety and security
 
-No data transmission over the internet can be entirely secure, so we do not guarantee the security of your personal information and/or use of the Site. However, we use reasonable endeavours to protect the security of your personal information from unauthorised access or use by using encryption technology. In addition to these safeguards, your personal information is protected in the UK by the Data Protection Act 1998. This provides that the information which we hold about you should be processed fairly and lawfully, should be accurate, relevant and not excessive, not be retained for longer than is necessary and, if applicable, be kept up to date. For more information on the Data Protection Act 1998 and your related rights please see [www.ico.gov.uk](http://www.ico.gov.uk/). 
+Personal information is processed and stored in our databases and we have taken reasonable steps to secure and protect the information under our control, including establishing processes to prevent unauthorized access or disclosure of this information. However, whilst we make every effort to ensure the security of your information, we are unable to guarantee the protection of the information from misuse, accidental disclosure or unauthorised acts by others. Information provided by you may be stored or processed outside the United Kingdom.
 
-#### Accessing Your Personal Information
+## Changes to Privacy Policy
 
-If you wish to review or receive copies of the personal information we hold about you, or have any other queries please write to us (including full details of your request) at:
+We reserve the right to change this privacy policy at any time without prior notice to you. Any changes will be posted on our website and become effective at the time of posting. In the event that material changes are made that affect the use or disclosure of your personal information, we will make reasonable efforts to notify you of these changes.
 
-Data Protection Team  
-The Digital Property Group Limited  
-Northcliffe House  
-2 Derry Street  
-London W8 5TT
+If you have any questions or comments about our privacy policy, please [Contact us](https://web.archive.org/contact/).
 
-We may charge a small administration fee in relation to fulfilling a request for access to personal information.
+This policy was last updated on 28th September, 2012
