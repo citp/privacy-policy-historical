@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schuh.co.uk privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611045700id_/http%3A//www.schuh.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schuh.co.uk privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214184645id_/http%3A//www.schuh.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Schuh
 
@@ -22,11 +22,11 @@ When you place an order we need to collect your name, address, e-mail and teleph
 
 This information may be provided to third party service providers for the purpose of processing your offer to purchase the goods.
 
-We may use your e-mail address to provide you with information on products, services, promotions and special offers where you have indicated that this is acceptable by checking the box on the ‘Delivery details page.
+We may use your e-mail address to provide you with information on products, services, promotions and special offers where you have indicated that this is acceptable by placing an order therefore agreeing with our terms and conditions.
 
 If you supply your email address without placing an order, we may pass your email to a third party organisation in order to offer you the opportunity to purchase from us. Your email address will not be used for any other purpose and will not be held on file by ourselves or any third parties after the reason for collecting it has lapsed.
 
-Should you wish to stop recieving emails from schuh, you can unsubscribe using the 'unsubscribe' link at the bottom of the emails, by changing your update preferences in the 'My Details' section of 'My Account' at www.schuh.co.uk, or by emailing whatsnew@schuh.co.uk with your unsubscribe request. 
+Should you wish to stop receiving emails from schuh, you can unsubscribe using the 'unsubscribe' link at the bottom of the emails, by changing your update preferences in the 'My Details' section of 'My Account' at www.schuh.co.uk, or by emailing whatsnew@schuh.co.uk with your unsubscribe request. 
 
 #### Third parties
 
@@ -82,7 +82,7 @@ Helpful, Non-Intrusive cookies
 ---  
 Cookie Name | Function | Duration  
 schuhGeo | Allows us to ascertain the customers current location | 100 years  
-schuhMobile | Allows us to determain if the customer has chosen to view the mobile site or full site | 100 years  
+schuhMobile | Allows us to determine if the customer has chosen to view the mobile site or full site | 100 years  
 schuhRecentlyViewed | Allows the customer to see their recently viewed products | 1 day  
 searchCount | Allows us to capture useful information on how many results a customers search returns, to better improve the search facility. | 1 minute  
 affiliateTrackingCookie | If you’ve ever used an affiliate during your purchase at Schuh, this cookie will remember the affiliate. | 30 days  
