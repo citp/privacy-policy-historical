@@ -1,249 +1,98 @@
-> *The following text is extracted and transformed from the publicaster.com privacy policy that was archived on 2012-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120214160347id_/http%3A//www.blueskyfactory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicaster.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214011723id_/http%3A//www.whatcounts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy
 
-### Blue Sky Factory Privacy Policy: Our Commitment To You
+## What This Privacy Policy Covers
 
-We understand the importance of privacy in today’s world. Blue Sky Factory is committed to protecting the privacy of our website visitors and clients. This Privacy Policy discloses our privacy practices and expresses our commitment to keeping you informed of the information we collect and how it is used. This Policy applies to all personal information we handle in connection with our website. For more information on Blue Sky Factory’s Website Privacy Policy, please see our Website Privacy Policy.
+This policy covers how WhatCounts, Inc., an Atlanta corporation (“WhatCounts,” “we,” “us,” or “our”), and all of its affiliated websites, products and services, including, without limitation, www.whatcounts.com and WhatCounts (collectively, the “WhatCounts Sites, Products and Services”), treat personal information that the WhatCounts Sites, Products and Services collect and receive. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. Please note that any posting made while using the WhatCounts Sites, Products and Services is not considered “personal information” and is not considered the type of information protected by a privacy policy.
 
-Blue Sky Factory abides by the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. For more information on how Blue Sky Factory implements our Safe Harbor Privacy Policy, please see our Safe Harbor Privacy Policy.
+### Information We Gather
 
-We uphold the highest industry standards in online privacy and permission marketing. For more information on how Blue Sky Factory enforces permission [email marketing](http://www.whatcounts.com/) with our clients, please see our Anti-spam Policy.
+The WhatCounts Sites, Products and Services may collect personal information (such as your name, email address) when you register with them or use the particular products. We collect this information in order to register you for our services and to communicate to you for service related reasons.
 
-### Table of Contents
+The WhatCounts Sites, Products and Services may automatically receive and record information on our server logs from your browser, including your IP address, cookies, and the pages you request.
 
-**Web Site Privacy**
+The WhatCounts Sites, Products and Services use information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, research, and anonymous reporting. We will not sell, share or rent your information with any third parties unless as otherwise disclosed in this privacy statement.
 
-  * Notice
-  * Choice Opt-in
-  * Security and Data Integrity
-  * Privacy
-  * Information Tracked
-  * Cookies
-  * Links to other Websites
-  * Notification of Changes
-  * Dispute Resolution
-  * Our Commitment To Children’s Privacy
-  * Anti-Spam Policy
-  * Permission Marketing Policy
-  * Clients Agreement
-  * Frequently Asked Questions
-  * Contact Information
+### IP Address
 
+The WhatCounts Sites, Products and Services may occasionally obtain IP addresses from users depending upon how you access our web sites. IP addresses, browser and session information may be used for various purposes, including to:
 
+  * Diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.
+  * Estimate the total number of users visiting WhatCounts’ web sites from specific geographical regions.
+  * Help determine which users have access privileges to certain content, services or resources that we offer.
+  * Monitor and prevent fraud and abuse.
 
-**Blue Sky Factory Safe Harbor Policy**
 
-  * Introduction
-  * Definition
-  * Principles
-  * Notice
-  * Choice
-  * Onward Transfers
-  * Data Security
-  * Data Integrity
-  * Access
-  * Enforcement
-  * Amendments
-  * Information Subject to Other Policies
-  * Contact Information
 
+### Cookies
 
+A cookie is a small amount of data, which often includes a unique identifier that is sent to your web browser from a web site’s computers and stored on your computer’s hard drive. These data are associated with your web browser and are often stored in an area that you can inspect, modify and delete. You can also control whether your browser allows cookies to be set from the WhatCounts web sites or platform.
 
-### Web Site Privacy
+If you reject all cookies, you may not be able to use the WhatCounts Sites, Products and Services that require you to “sign in,” and you may not be able to take full advantage of all offerings. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set.
 
-**Notice**
+The WhatCounts Sites, Products and Services use their own cookies for a number of purposes, including to:
 
-Blue Sky Factory is a leading provider of products and services designed for online marketing communications. Our core business is the planning, development, and implementation of email and other online strategies for a broad range of clientele. The information we collect without your specific consent is limited to anonymous information that cannot be associated directly with your identity. This type of information is limited to IP address to help diagnose problems with our server and to administer our website, and we also may track browser types to help us understand our visitors’ needs related to our website design. We will only collect information from you if you choose to provide the information for the purposes of receiving information from us. If you opt-in to receiving information from Blue Sky Factory, we will collect your name, company, and email address.
+  * Require you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
+  * Keep track of preferences you specify while you are using the WhatCounts Sites, Products and Services.
+  * Estimate and report our total audience size and traffic.
+  * Conduct research to improve the content and services provided on the WhatCounts Sites, Products and Services.
 
-Back to top
 
-**Choice Opt-in**
 
-You will always have the ability to opt-out of receiving marketing communication from Blue Sky Factory and have your personal information and details removed upon request. Our members and their subscribers are given the opportunity to “opt-in” to having their information used for purposes not directly related to our site at the point where we ask for the information. Users of our site will always be notified if their information is being collected by any outside parties. We do this to ensure that our users can make an informed choice as to whether or not they should proceed with services that require an outside party. To opt out of our customers’ marketing communications, please see our anti-spam policy, which is included for your reference in this Privacy Policy.
+### Web Beacons
 
-Back to top
+This site uses web beacons and other, related, tracking mechanisms to aid us in analyzing traffic to our site. We primarily utilize analytic tools provided to us by Google but may also enlist resources from other vendors. These tools give us a high-level overview of traffic patterns but do not reveal to us user-identifiable information.
 
-**Security and Data Integrity**
+### Information Use, Sharing and Disclosure
 
-Blue Sky Factory’s website uses security measures to protect against the loss, misuse, alteration, and destruction of the information under our control. We store the information in a database in a secure environment at our data center. Blue Sky Factory will make every effort to ensure that data under our control is accurate, complete, and current. If you have questions or concerns about your personal information, please contact us at the address listed below or by sending an email to customerservice@blueskyfactory.com. Please include your email address with your correspondence. We cannot change client proprietary information supplied to us without the express authorization of the client.
+The WhatCounts Sites, Products and Services do not share personal information we learn about you from your use of the web sites, products and services with others except as described in this policy. We do not share your information with unrelated third parties for their direct marketing purposes.
 
-Back to top
+The WhatCounts Sites, Products and Services may use or share your personal information where it is necessary to complete a transaction, to operate or improve the WhatCounts Sites, Products and Services, to do something that you have asked us to do, or tell you of products and services that we think may be of interest.
 
-**Privacy**
+Where you are contacted with an offer or service based on information you have shared with any WhatCounts Site, Product and/or Service, we will do our best to provide you with an opportunity to opt-out of receiving such further communications at the time you are contacted, however, in connection with any of our paid products and services (i.e., products or services that you license or use for a fee), we reserve the right to send you certain communications relating to those products and services, such as service announcements and administrative messages that are considered part of your WhatCounts account, without offering you the opportunity to opt-out of receiving them. If you decide to opt-out of receiving our promotional communications such as the WhatCounts Newsletter, you may send us an email at support@whatcounts.com to unsubscribe.
 
-The information we collect for our marketing purposes is never shared with third parties without your consent. At no time will information that we collect from you be used for any purpose that is incompatible with the purpose for which it was originally collected or subsequently authorized by you through the exercise of an opt-in for that purpose. We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your requesting information.
+The WhatCounts Sites, Products and Services may share personally identifiable information about you under the following circumstances:
 
-Back to top
+In the course of operating our business it may be necessary or appropriate for us to provide access to your personal information to others such as our service providers, contractors and select vendors so that we can operate the WhatCounts Sites, Products and Services and our business. Where practical, we seek to obtain confidentiality agreements that are consistent with this policy and that limit others’ use or disclosure of the information you have shared.
 
-**Information Tracked**
+We may share your personal information to respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights or, defend against legal claims and if in our judgment in such circumstances disclosure is required or appropriate.
 
-At times we will use your IP address to help diagnose problems with our server and to administer our web site. We also may track browser types to help us understand our visitors’ needs related to our web site design. There is an optional section of our web site where input forms require your name, company, and e-mail address. This form provides the ability to opt-in to receiving future emails of any sort from Blue Sky Factory. If you opt-in to receiving email communications from us, then we may send information to you on our products or services.
+We may share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our various terms of use, or as otherwise required by law.
 
-Back to top
+As we continue to develop our business, we may also buy or sell all or part of our business. In such transactions, personally identifiable information you have shared with us is generally one of the business assets that will be transferred. The transferred personally identifiable information will remain subject to the promises made in this privacy policy or subsequent policies to which you have consented. In these circumstances we will notify you of this business transition 30 days prior to the transaction taking place.
 
-**Cookies**
+If you use participate on our blog, linked through this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by others, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information, such as your email address, that you may choose to submit through blog submissions and comments and encourage you to refrain from revealing those details.
 
-Client-side cookies are used to verify the log-in status of customers using products or services linked directly with our website. Usage of a cookie is in no way linked to any personally identifiable information while on our site. If a user rejects the cookie, they may still use our site; however, the user may not be able to access all areas of our site.
+### Safe Harbor Data Privacy Notice
 
-Back to top
+WhatCounts Inc. complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. WhatCounts Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view WhatCounts’ certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor/)
 
-**Links to other Websites**
+### Changes to this Privacy Policy
 
-Blue Sky Factory is not responsible for the privacy practices or the content of any other web sites to which we link. We suggest that you review the privacy practices of websites that you visit before you consent to providing personal information.
+WhatCounts may revise, modify or update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your particular WhatCounts account or by placing a prominent notice on our site.
 
-Back to top
+### Confidentiality and Security
 
-**Notification of Changes**
+No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make efforts to ensure security on our systems. We use physical, electronic, and procedural safeguards to protect personal information about you. Your account information is password-protected.
 
-Blue Sky Factory will notify its members and users via email if we make any changes to our Privacy Policy. Any new policy will be posted on our site at least one week prior to its taking effect. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will provide clear, unambiguous, and conspicuous notice by notifying users by way of an email message and we will post it to our Privacy Policy. Users will always have a choice as to whether or not we may use their information for a different purpose. Blue Sky Factory reserves the right to amend this policy at any time. Any changes to this policy will be posted to this page as soon as reasonably possible. If we amend the policy, the new policy will apply to personal information previously collected. We suggest that you review this policy on a periodic basis to view any changes. Use of the Blue Sky Factory website constitutes acceptance of this policy.
+If WhatCounts learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using the WhatCounts Sites, Products and Services or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at privacy@whatcounts.com.
 
-Back to top
+### Changing your Preferences and Personal Information
 
-**Dispute Resolution**
+You can edit your account information with an applicable WhatCounts Site, Product and Service at any time. Most personal information you may provide is entirely optional.
 
-Any questions or concerns regarding the use or disclosure of personal information should be directed to our abuse department at the address below. Blue Sky Factory will investigate and attempt to resolve complaints and disputes regarding use or disclosure of personal information in accordance with the principles contained in this policy. Blue Sky Factory has also agreed to participate in the dispute resolution procedures of the European Data Protection Authorities to resolve disputes pursuant to the Safe Harbor principles.
+You can delete your applicable account by contacting WhatCounts’ support team through email at support@whatcounts.com; however, please note that some personal information, primarily your contact information, may remain in our records to the extent necessary to protect our legal interests or document compliance with regulatory requirements. The easiest way to access your information for the purpose of updating it is to visit your profile page.
 
-Back to top
+### Contacting WhatCounts
 
-**Our Commitment To Children’s Privacy**
+If you have a privacy concern regarding any WhatCounts Site, Product or Service, or this policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a feedback form or you can write to us by email at privacy@whatcounts.com. Alternatively, we can be reached at our postal mail address:
 
-Protecting the privacy of children is especially important to Blue Sky Factory. For that reason, Blue Sky Factory does not knowingly collect information from children under the age of 13 and does not target its websites to children under 13. We encourage parents and guardians to take an active role in their children’s online activities and interests.
+WhatCounts, Inc.  
+3630 Peachtree Road, Suite 900  
+Atlanta, GA 30326  
+Attention: Privacy Officer
 
-Back to top
+If you object to any sharing of your personal information that may be permitted under this policy, you may do so by writing us at the above address. We will take reasonable steps to accommodate your requests as they relate to our business practices. In some instances, honoring your requests may interfere with or preclude your ability to use the WhatCounts Sites, Products and Services or may require us to terminate our relationship with you.
 
-### Anti-Spam Policy
-
-Blue Sky Factory is an electronic mail service provider that provides web-based software enabling organizations of all sizes to send permission-based emails to their subscribers. Blue Sky Factory believes, practices, and requires our clients to practice only permission-based email marketing. Our clients certify that they will only use our software to send emails to customers and prospects that have directly consented to receive email from them (“opt-in”).
-
-Back to top
-
-**Permission Marketing Policy**
-
-Blue Sky Factory provides web-based software enabling organizations of all sizes to send permission-based emails to their subscribers. Blue Sky Factory believes in and practices only permission-based email marketing. Our client members may only use our software to send emails to customers and prospects that have agreed to receive email from them (opt-in), and are forbidden to transmit unsolicited commercial email (spam) via our system.
-
-Back to top
-
-**Clients Agreement**
-
-Our clients agree not to use our system to send unsolicited email. For any opt-in list of email addresses used in our system, clients agree to provide Blue Sky Factory with the source of the email addresses, the method used to capture the data, and verification of the consent to receive emails from such client. We also encourage our members to respect their customers’ time and attention by controlling the frequency of mailings to individual email addresses. Our clients certify that they will not use rented or purchased lists, email append lists, or any other list that contains email addresses captured in any other method than opt-in. The use of opt-out lists is prohibited in our system. Blue Sky Factory retains the right to review client lists and emails to verify that clients are abiding by the privacy and permission policies set forth herein. We will enforce our policy without exception. However, our clients are ultimately responsible for compliance with our policies.
-
-Back to top
-
-**Frequently Asked Questions**
-
-Why did you receive an email from our system? If you received an email from us, it is because one of our clients used the Blue Sky Factory software system to send you an email. Our clients certify that all email addresses used in our system are opt-in names that have given permission to the client to send them email. We promise to keep your email address secure and private and will not use it for other purposes. How do I get off an email list? Each email sent through the Blue Sky Factory system contains a link that allows subscribers to unsubscribe from receiving emails from the sender. Each email sent contains an easy and automated way for you to unsubscribe. If you have received an unwanted email sent by the Blue Sky Factory system, please forward a copy of the email with your comments to abuse@blueskyfactory.com. Will your information ever be shared, sold, or rented? We will never share, sell, or rent individual personal information without your explicit permission, unless ordered by a court of law. Information submitted to us is only available to employees responsible for managing this data.
-
-Back to top  
-  
-
-
-### Contact Information
-
-If you have any questions please contact us at:
-
-Blue Sky Factory  
-40 E. Cross Street  
-Baltimore, MD 21230  
-Attn: Compliance Department  
-Email: compliance@blueskyfactory.com  
-Phone: 410.230.0061  
-Fax: 410.727.2502  
-Toll Free: 866.216.BLUE (2583)  
-Effective date: January 1, 2008
-
-Back to top
-
-### Blue Sky Factory Safe Harbor Policy
-
-**Introduction**
-
-Blue Sky Factory, Inc. (the “Company”) is an industry-leading [email service provider](http://www.whatcounts.com/) based in Baltimore, MD. Founded in 2001, for the past 9 years we have been assisting our clients with a combination of both service and technology solutions that help them maximize the email marketing channel. Blue Sky Factory provides both full service and self service email marketing solutions to our global client base of over 600. Our leading web based platform. Protecting consumer privacy is important to the Company. The Company and its affiliated United States subsidiaries (hereinafter collectively referred to as the “Company,” “we,” “us” or “our”) adhere to the Safe Harbor Agreement concerning the transfer of personal data from the European Union (“EU”) to the United States of America. Accordingly, we follow the Safe Harbor Principles published by the U.S. Department of Commerce (the “Principles”) with respect to all such data. If there is any conflict between the policies in this Privacy Policy and the Principles, the Principles shall govern. This Privacy Policy outlines our general policy and practices for implementing the Principles, including the types of information we gather, how we use it, and the notice and choice affected individuals have regarding our use of and their ability to correct that information. This Privacy Policy applies to all personal information received by the Company whether in electronic, paper, or verbal format.
-
-Back to top
-
-**Definitions**
-
-“Personal Information” or “Information” means information that:
-
-is transferred from the EU to the United States is recorded in any form is about, or pertains to a specific individual can be linked to that individual “Sensitive Personal Information” means personal information that reveals race, ethnic origin, sexual orientation, political opinions, religious or philosophical beliefs, trade union membership or that concerns an individual’s health.
-
-Back to top  
-  
-
-
-### Principles
-
-**Notice**
-
-Company shall inform an individual of the purpose for which it collects and uses the Personal Information and the types of non-agent third parties to which the Company discloses or may disclose that Information. Company shall provide the individual with the choice and means for limiting the use and disclosure of their Personal Information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal Information to the Company, or as soon as practicable thereafter, and in any event before the Company uses or discloses the Information for a purpose other than for which it was originally collected.
-
-Back to top
-
-**Choice**
-
-The Company will offer individuals the opportunity to choose (opt out) whether their Personal Information is:
-
-to be disclosed to a third party or to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual For Sensitive Personal Information, the Company will give individuals the opportunity to affirmatively or explicitly (opt out) consent to the disclosure of the information provided to the Company for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. Company shall treat Sensitive Personal Information received from an individual the same as the individual would treat and identify it as Sensitive Personal Information.
-
-Back to top
-
-**Onward Transfers**
-
-Prior to disclosing Personal Information provided by individuals to the Company to a third party, Company shall notify the individual of such disclosure and allow the individual the choice (opt out) of such disclosure. Company shall ensure that any third party for which Personal Information may be disclosed subscribes to the Principles or are subject to law providing the same level of privacy protection as is required by the Principles and agree in writing to provide an adequate level of privacy protection.
-
-Back to top
-
-**Data Security**
-
-Company shall take reasonable steps to protect the Information provided to the Company by the individuals from loss, misuse and unauthorized access, disclosure, alteration and destruction. Company has put in place appropriate physical, electronic and managerial procedures to safeguard and secure the Information from loss, misuse, unauthorized access or disclosure, alteration or destruction. Company cannot guarantee the security of Information on or transmitted via the Internet.
-
-Back to top
-
-**Data Integrity**
-
-Company shall only process Personal Information in a way that is compatible with and relevant for the purpose for which it was collected or authorized by the individual. To the extent necessary for those purposes, Company shall take reasonable steps to ensure that Personal Information is accurate, complete, current and reliable for its intended use.
-
-Back to top
-
-**Access**
-
-Company shall allow an individual access to their Personal Information and allow the individual to correct, amend or delete inaccurate information, except where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in the case in question or where the rights of persons other than the individual would be violated.
-
-Back to top
-
-**Enforcement**
-
-Company uses a self-assessment approach to assure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Principles. We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personal Information in accordance with the Principles.
-
-If a complaint or dispute cannot be resolved through our internal process, we agree to dispute resolution using (an independent resource mechanism) as a third party resolution provider.
-
-Back to top
-
-**Amendments**
-
-This privacy policy may be amended from time to time consistent with the requirements of the Safe Harbor. We will post any revised policy on this website. If we amend the notice, the new notice will apply to personal information previously collected only insofar as the rights of the individual affected are not reduced. So long as we assert that we adhere to the Safe Harbor Principles, we will only amend this notice in a manner that is consistent with the Safe Harbor Principles.
-
-Back to top
-
-**Information Subject to Other Policies**
-
-The Company is committed to following the Principles for all Personal Information within the scope of the Safe Harbor Agreement. However, certain information is subject to policies of the Company that may differ in some respects from the general policies set forth in this privacy policy. Information relating to present or former Company personnel is subject to our policies concerning personnel data privacy, which are provided to each new employee and available to former Company personnel upon request. Information obtained from or relating to clients or former clients is further subject to the terms of any contractual commitment related to the privacy and disclosure notices made to the client, any agreements or contractual obligations with the client, and/or any applicable laws and professional standards.
-
-Back to top
-
-**Contact Information**
-
-Questions, comments or complaints regarding the Company’s Safe Harbor Policy or data collection and processing practices can be mailed or emailed to:
-
-Blue Sky Factory  
-40 E. Cross Street  
-Baltimore, MD 21230  
-Attn: Compliance Department  
-Email: compliance@blueskyfactory.com  
-Phone: 410.230.0061  
-Fax: 410.727.2502  
-Toll Free: 866.216.BLUE (2583  
-Effective date: January 1, 2008
-
-Back to top
+Effective Date: March 15, 2010.
