@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoebaloo.nl privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625172119id_/http%3A//www.shoebaloo.nl/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoebaloo.nl privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214075755id_/http%3A//www.shoebaloo.nl/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy statement - SHOEBALOO
 
