@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adata-group.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629182710id_/http%3A//www.adata-group.com/index.php%3Faction%3Daa_main%26page%3Daa_privacy%26lan%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adata-group.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214220640id_/http%3A//www.adata-group.com/index.php%3Faction%3Daa_main%26page%3Daa_privacy%26lan%3Dus) for the most accurate reproduction.*
 
-# Privacy, Welcome to ADATA
+# ADATA Technology - the leading provider of DRAM modules, USB Flash drive, External Storage, Memory cards, solid state drives, cloud computing and data storage solutions.
 
 ADATA is committed to protecting the privacy of visitors to our website, and of all customers who purchase our products. "ADATA" refers to ADATA Technology Co., Ltd. and its subsidiaries and affiliates.   
 The Privacy Policy (the "Policy") below is intended to aid understanding of what personal information is collected and how that information is used. By using ADATA’s website and/or by submitting personal information to ADATA, you express your agreement to the processing of your personal information in the manner provided in the Policy. If you do not agree with the Policy, please cease using ADATA’s website or providing ADATA with your personal information. 
