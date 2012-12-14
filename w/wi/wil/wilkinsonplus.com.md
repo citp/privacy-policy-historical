@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilkinsonplus.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610023620id_/http%3A//www.wilkinsonplus.com/generic/privacy-policy/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilkinsonplus.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214011613id_/https%3A//www.wilkinsonplus.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Help & Information Guide WilkinsonPlus
 
@@ -78,3 +78,5 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 
 [ Back to top ]
+
+[](http://www.wilkinsonplus.com/page/help_index/)
