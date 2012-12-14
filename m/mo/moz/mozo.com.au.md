@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mozo.com.au privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619022549id_/http%3A//mozo.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozo.com.au privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214043322id_/http%3A//mozo.com.au/privacy) for the most accurate reproduction.*
 
 # Mozo Privacy Policy - Mozo
 
@@ -17,7 +17,7 @@ We collect personal information from you on the following areas of the website. 
   * When you register with us and use the features available once you are registered.
   * When you opt in to receive news, alerts, surveys and special offers from us.
   * When you provide us with feedback or complete one of our user surveys.
-  * When you complete inquiry referral forms that facilitate third party providers, selected by you, subsequently contacting you.
+  * When you complete inquiry referral forms that facilitate Mozo or third party providers, selected by you, contacting you.
   * Mozo will collect personal information only by lawful and fair means and not in an unreasonably intrusive way.
 
 
@@ -64,7 +64,7 @@ Mozo provides you with links from our site to other third party sites. Once you 
 
 ## Inquiry referral forms
 
-Mozo will disclose your personal information to third party providers if you complete an inquiry referral form requesting such a service. Once we disclose your personal information to a third party we are no longer responsible for the conduct or practices of those third party providers, as they are not under our control. When you contacted by a third party you should check the applicable privacy policy of that third party. 
+Mozo will disclose your personal information to third party providers if you complete an inquiry referral form requesting such a service or if requested by you. Once we disclose your personal information to a third party we are no longer responsible for the conduct or practices of those third party providers, as they are not under our control. When you contacted by a third party you should check the applicable privacy policy of that third party. 
 
 ## How you can contact us
 
