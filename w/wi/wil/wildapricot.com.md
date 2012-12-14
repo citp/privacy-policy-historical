@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wildapricot.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519083357id_/http%3A//www.wildapricot.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildapricot.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214164838id_/http%3A//www.wildapricot.com/privacypolicy) for the most accurate reproduction.*
 
 # Integrated, Web-based Association Membership Management Solution: Free Trial!
 
-**Last updated: December 14, 2009**
+**Last updated: October 15, 2012**
 
-This is the privacy policy that applies to this Site and our services. We have a firm commitment to safeguarding the privacy of our customers' personal information. Personal information is information about an identifiable individual. Publicly available information, such as a public directory listing of your name, address, telephone number, or electronic address, is not considered to be personal information.
+This is the privacy policy that applies to this Site and our services. Wild Apricot Inc. has a firm commitment to safeguarding the privacy of our customers' personal information. Personal information is information about an identifiable individual. Publicly available information, such as a public directory listing of your name, address, telephone number, or electronic address, is not considered to be personal information.
 
 ### COLLECTION, USE AND DISCLOSURE OF PERSONAL INFORMATION
 
@@ -26,7 +26,9 @@ Please note that we are not responsible for the privacy practices of our custome
 
 ### COOKIES
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. Cookies are required to use our service. We use cookies to record user session information.
+A cookie is a small amount of data – typically stored as text file – that is placed on your computer or other device when you visit a particular website. Cookies do not store personal information about you, just information identifying your device. 
+
+To access Wild Apricot sites as an administrator or a member, you need to enable cookies within your browser settings. For more information, see [Wild Apricot's Cookies policy](http://help.wildapricot.com/display/DOC/Cookies+policy).
 
 ### SECURITY
 
@@ -43,6 +45,10 @@ By using this Site, you agree that you permit the collection, use and disclosure
 ### LINKS TO OTHER SITES
 
 This Site may contain links to other sites. We are not responsible for the privacy practices or the content of such other Web sites.
+
+### OPT-OUT ANY TIME
+
+If you choose to sign up for our newsletter or any other communication from us, you can change your communication preferences or unsubscribe from future mailings by clicking the preferences or unsubscribe links at the bottom of the email. If you would like to opt-out by other means, you can do so at any time by emailing support@wildapricot.com, calling 1-877-493-6090, or writing to Wild Apricot Inc., 144 Front Street West, Suite 725, Toronto, Ontario, M5J 2L7, Canada.
 
 ### QUESTIONS
 
