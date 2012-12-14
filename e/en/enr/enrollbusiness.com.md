@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enrollbusiness.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615212716id_/http%3A//us.enrollbusiness.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enrollbusiness.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214164957id_/http%3A//us.enrollbusiness.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - EnrollBusiness
 
@@ -16,7 +16,7 @@ At Enrollbusiness.com we recognize the importance of your privacy.
 
 #### Information Sharing
 
-We do not share your information with third party withour your consent. At the same time, we also believe that access, use, preservation or disclosure of such information to (1) satisfy any applicable law and regulations, (2) Enforce applicable Terms of service including potential violation, (3) detect, prevent or otherwise address fraud, security or technical issues. 
+We do not share your information with third party without your consent. At the same time, we also believe that access, use, preservation or disclosure of such information to (1) satisfy any applicable law and regulations, (2) Enforce applicable Terms of service including potential violation, (3) detect, prevent or otherwise address fraud, security or technical issues. 
 
 #### Information Security
 
