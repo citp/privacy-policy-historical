@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchmovieslinksonline.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616015748id_/http%3A//www.watchmovieslinksonline.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchmovieslinksonline.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214233409id_/http%3A//www.watchmovieslinksonline.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - watchmovieslinksonline.com
 
