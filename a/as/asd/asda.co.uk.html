@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the asda.co.uk privacy policy that was archived on 2012-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629124218id_/http%3A//www.asda.co.uk/help/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asda.co.uk privacy policy that was archived on 2012-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121214152026id_/http%3A//www.asda.co.uk/help/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta name="author" content="ASDA">
@@ -25,16 +25,21 @@
 
 <title>ASDA Website - Privacy Policy</title>
 
+<script type="text/javascript">
+function promopopup(url)
+{
+window.open (url, "promowindow","scrollbars=yes,width=500,height=300");
+}
+</script>
 <script src="../javascript/jquery.min.js" type="text/javascript"></script>
 <script src="../javascript/jquery.cycle.all.js" type="text/javascript"></script>
 <script src="../javascript/jquery.easing.1.3.js" type="text/javascript"></script>
 <script src="../javascript/portfolio.js" type="text/javascript"></script>
-<script src="../javascript/homeactionsNew.js" type="text/javascript"></script>
 <script src="../javascript/jquery.hoverIntent.minified.js" type="text/javascript"></script>
 <script type="text/javascript">
 $(document).ready(function() {
         function megaHoverOver(){
-                $(this).find(".sub").stop().fadeTo('fast', 1).show();
+                $(this).find(".subRight, .sub").stop().fadeTo('fast', 1).show();
                         
                 //Calculate width of all ul's
                 (function($) { 
@@ -58,135 +63,36 @@ $(document).ready(function() {
                                 }
                         });
                         //Set width
-                        $(this).find(".sub").css({'width' :biggestRow});
+                        $(this).find(".subRight, .sub").css({'width' :biggestRow});
                         $(this).find(".row:last").css({'margin':'0'});
                         
                 } else { //If row does not exist...
                         
                         $(this).calcSubWidth();
                         //Set Width
-                        $(this).find(".sub").css({'width' : rowWidth});
+                        $(this).find(".subRight, .sub").css({'width' : rowWidth});
                         
                 }
         }       
         function megaHoverOut(){ 
-          $(this).find(".sub").stop().fadeTo('fast', 0, function() {
+          $(this).find(".subRight, .sub").stop().fadeTo('fast', 0, function() {
                   $(this).hide(); 
           });
         }
         var config = {    
                  sensitivity: 2, // number = sensitivity threshold (must be 1 or higher)    
-                 interval: 100, // number = milliseconds for onMouseOver polling interval    
+                 interval: 20, // number = milliseconds for onMouseOver polling interval    
                  over: megaHoverOver, // function = onMouseOver callback (REQUIRED)    
-                 timeout: 500, // number = milliseconds delay before onMouseOut    
+                 timeout: 10, // number = milliseconds delay before onMouseOut    
                  out: megaHoverOut // function = onMouseOut callback (REQUIRED)    
         };
-        $("ul#topnav li .sub").css({'opacity':'0'});
+        $("ul#topnav li .subRight, ul#topnav li .sub").css({'opacity':'0'});
         $("ul#topnav li").hoverIntent(config);
-});
-
-(function () {
-        $.fn.infiniteCarousel = function () {
-                function repeat(str, n) {
-                        return new Array( n + 1 ).join(str);
-                }
-
-                return this.each(function () {
-                // magic!
-                        var $wrapper = $('> div', this).css('overflow', 'hidden'),
-                                $slider = $wrapper.find('> ul').width(9999),
-                                $items = $slider.find('> li'),
-                                $single = $items.filter(':first'),
-
-                                singleWidth = $single.outerWidth(),
-                                visible = Math.ceil($wrapper.innerWidth() / singleWidth),
-                                currentPage = 1,
-                                pages = Math.ceil($items.length / visible);
-
-/* TASKS */
-// 1. pad the pages with empty element if required
-                        if ($items.length % visible != 0) {
-                                // pad
-                                $slider.append(repeat('<li class="empty" />', visible - ($items.length % visible)));
-                                $items = $slider.find('> li');
-                        }
-
-// 2. create the carousel padding on left and right (cloned)
-                        $items.filter(':first').before($items.slice(-visible).clone().addClass('cloned'));
-                        $items.filter(':last').after($items.slice(0, visible).clone().addClass('cloned'));
-                        $items = $slider.find('> li');
-
-// 3. reset scroll
-                        $wrapper.scrollLeft(singleWidth * visible);
-
-// 4. paging function
-                        function gotoPage(page) {
-                                var dir = page < currentPage ? -1 : 1,
-                                        n = Math.abs(currentPage - page),
-                                        left = singleWidth * dir * visible * n;
-
-                                $wrapper.filter(':not(:animated)').animate({
-                                        scrollLeft : '+=' + left
-                                }, 500, function () {
-                                        // if page == last page - then reset position
-                                        if (page > pages) {
-                                        $wrapper.scrollLeft(singleWidth * visible);
-                                                page = 1;
-                                        } else if (page == 0) {
-                                                page = pages;
-                                                $wrapper.scrollLeft(singleWidth * visible * pages);
-                                        }
-
-                                        currentPage = page;
-                                });
-                        }
-
-// 5. insert the back and forward link
-                        $wrapper.after('<a href="#" class="arrow back" title="Click here to go back">&lt;back</a><a href="#" class="arrow forward" title="Click here to go forward">forward&gt;</a>');
-
-// 6. bind the back and forward links
-                        $('a.back', this).click(function () {
-                                gotoPage(currentPage - 1);
-                                return false;
-                        });
-
-                        $('a.forward', this).click(function () {
-                                gotoPage(currentPage + 1);
-                                return false;
-                        });
-
-                        $(this).bind('goto', function (event, page) {
-                                gotoPage(page);
-                        });
-
-                        // THIS IS NEW CODE FOR THE AUTOMATIC INFINITE CAROUSEL
-                        $(this).bind('next', function () {
-                                gotoPage(currentPage + 1);
-                        });
-                });
-        };
-})(jQuery);
-
-$(document).ready(function () {
-        // THIS IS NEW CODE FOR THE AUTOMATIC INFINITE CAROUSEL
-        var autoscrolling = true;
-
-        $('.infiniteCarousel').infiniteCarousel().mouseover(function () {
-                autoscrolling = false;
-        }).mouseout(function () {
-                autoscrolling = true;
-        });
-
-        setInterval(function () {
-                if (autoscrolling) {
-                        $('.infiniteCarousel').trigger('next');
-                }
-        }, 6000);
 });
 </script>
 </head>
 
-<body class="">
+<body>
 <script language="JavaScript" type="text/javascript" src="../javascript/s_code.js"></script>
 <script language="JavaScript" type="text/javascript"><!--
 s.pageName="ASDA.com : Privacy Policy"
@@ -261,7 +167,7 @@ var s_code=s.t();if(s_code)document.write(s_code)//-->
         Our main uses of your information are explained above which in general is to process your orders, as well as to help us understand your needs and provide you with a better service.  Your account may be used to store information about your previous purchases, personal preferences and shopping lists.  But you should also be aware of the following uses:
         </p>
         <p>
-        <strong>Marketing</strong> – we or our Partners  may use the information we collect to inform you, by letter, phone, SMS, email or otherwise, about special offers and products and services that we think may be of interest to you and we may tell you about other organisations' products and services.  We will tell you about this when we collect your information and <strong>if you do not wish to receive these communications, please let us know</strong>.  You can change your mind at any time by going to the account facilities available on the website (where available) or by contacting our Data Protection Officer at <a href="mailto:dataprotection@asda.co.uk">dataprotection@asda.co.uk</a>.  You can also unsubscribe following the instructions that we will include in any communication, such as email or text, we send to you.
+        <strong>Marketing</strong> – we or our Partners  may use the information we collect to inform you, by letter, phone, SMS, email or otherwise, about special offers and products and services that we think may be of interest to you and we may tell you about other organisations' products and services.  We will tell you about this when we collect your information and <strong>if you do not wish to receive these communications, please let us know</strong>.  You can change your mind at any time by going to the account facilities available on the website (where available) or by contacting our Data Protection Officer at <a href="mailto:dataprotection@asda.co.uk" onclick="s_objectID=&quot;mailto:dataprotection@asda.co.uk_1&quot;;return this.s_oc?this.s_oc(e):true">dataprotection@asda.co.uk</a>.  You can also unsubscribe following the instructions that we will include in any communication, such as email or text, we send to you.
         </p>
         <p>
         <strong>Customer care and correspondence</strong> - as part of our customer care procedures, we may follow-up, either by letter, phone, SMS email or otherwise with customers who have purchased goods or services from our website or who have posted comments about ASDA on the internet, for example to resolve a complaint or to ask for a testimonial.
@@ -327,37 +233,6 @@ var s_code=s.t();if(s_code)document.write(s_code)//-->
                 <br>
                 You can refuse cookies by activating the relevant setting on your browser. However, if you do so you may not be able to access all or parts of our sites. If you carry on using our sites and do not change your browser settings we will assume you consent to us using cookies as described above.
                 </p>
-                <!--
-                <p>
-        A cookie is a small piece of text that a website may place on your computer's hard drive.
-        <br />
-        We use cookies to:
-        </p>
-        <ol>
-                <li>operate online ordering (cookies are needed to browse, apply and purchase);</li>
-            <li>greet you personally and speed up your log-in when you come back to the site and to remember your previous orders; </li>
-            <li>help us look at web traffic to allow us to improve your experience; and</li>
-            <li>make sure of the security and authenticity of registered users.</li>
-                </ol>                        
-                <p>
-        You may set up your web browser to notify you of cookie placement requests or decline cookies completely (although declining them may prevent you from being able to use the website properly or at all). How to do this is explained below.
-        </p>
-        <p>
-        We may look at cookies stored on your computer when you visit our website in future or when you open an email from us.  We are able to do this by including web beacons (also known as clear GIFS or web bugs) in our emails and on our website.  Our web beacons do not store information on your computer but, by speaking with our cookies on your computer, they can tell us when you have opened emails from us and what pages you look at.
-        </p>
-        <p>
-        We may also use third party web analytics services (for example Google Analytics, a popular web analytics service provided by Google, Inc.) to help us look at how users use the site.  The service provider may be based outside the UK but your information will only be used for the purpose of looking at your use of our website, putting together reports on website activity and providing other services connected with website activity and internet usage.  The service provider may also let third parties have this information where required to do so by law, or where such third party provides the information on the service provider's behalf.  The service provider will not associate your IP address with any other data held by them. 
-        </p>
-        <p>
-        If you have Adobe Flash installed on your computer (most computers do) and you use our audio or video players, the web analytics service may try to store some additional data on your computer.  This data is known as a Local Shared Object or Flash cookie.  This helps us look at the popularity of our media files.  We can count the total number of times each file is played, how many people watch videos right to the end and how many people give up half way through.  Adobe's website explains how to control Flash cookies on your computer.
-        </p>
-          <p>
-          You may come across Asda adverts and content while you are on other websites. For these adverts, and if your computer is set to allow cookies, our third party provider will use software that can set a cookie through your browser to enable us to monitor whether you see the adverts, click on them and buy from our website. Some of this information is personal but none of it is sensitive. We collect this so we can make our adverts relevant to you based on your past visits to websites. We only share this information within Asda. If you would prefer not to receive or see this content on the websites you visit or to exercise your choice about the collection, use and sharing of this information with us, please visit the <a href="http://www.criteo.com/en/privacy-policy" target="_blank" title="Click here for more information about Criteo">Criteo website</a>. Criteo adheres to the <a href="http://www.youronlinechoices.com/" target="_blank" title="Click here for more information about IAB Good Practice Principles">IAB Good Practice Principles</a>.
-          </p>
-        <p>
-        <strong>Turning cookies and web beacons off</strong> - If you want to delete any cookies or web beacons that are already on your computer or stop future cookies or web beacons, please go to the instructions for your file management software or look at <a href="http://www.AboutCookies.org" target="_blank" title="Click here for more information about Cookies">www.AboutCookies.org</a>.  Please remember that cookies are needed to browse, add to trolley and checkout.
-        </p>
-                -->
         <h2><strong>Who We Share The Information With</strong></h2>
                 <p>
         We will not sell, distribute or lease your personal information to third parties (other than our Partners) unless you say we can or are required by law. We may need to disclose your information to process and fulfil your order, to provide services you request, for internal business analysis purposes, for marketing, for the purposes of fraud prevention, or if ASDA itself, or any of our business is bought or sold.
@@ -427,257 +302,220 @@ var s_code=s.t();if(s_code)document.write(s_code)//-->
         </p>
         <h2><strong>Feedback</strong></h2>
                 <p>
-        We want to make sure we're giving you the information about privacy and security that you want - let us know what you think. If you have any feedback, questions or concerns, please <a href="http://your.asda.com/section-contact-asda">contact us.</a>
+        We want to make sure we're giving you the information about privacy and security that you want - let us know what you think. If you have any feedback, questions or concerns, please <a href="http://your.asda.com/section-contact-asda" onclick="s_objectID=&quot;http://your.asda.com/section-contact-asda_1&quot;;return this.s_oc?this.s_oc(e):true">contact us.</a>
         </p>
         </div>
         </div>
         <!--Footer-->
-    
-        <div id="footerpanel">
+    <div id="footerpanel">
                 <div class="clear">
                         <h6>About us</h6>
                         <p>
-                        <a href="http://storelocator.asda.com" onclick="javascript: pageTracker._trackPageview('/aboutus/aboutUsStoreLocator');">Store locator,</a> <a href="http://your.asda.com" onclick="javascript: pageTracker._trackPageview('/aboutus/aboutUsCorporate');">Corporate,</a> <a href="http://www.asda.jobs" onclick="javascript: pageTracker._trackPageview('/aboutus/aboutUsCareers');">Careers,</a> <a href="http://your.asda.com/community" onclick="javascript: pageTracker._trackPageview('/aboutus/aboutUsCommunity');">Community</a>                 </p>
+                        <a href="http://storelocator.asda.com" onclick="s_objectID=&quot;http://storelocator.asda.com/_1&quot;;return this.s_oc?this.s_oc(e):true">Store locator,</a> <a href="http://your.asda.com" onclick="s_objectID=&quot;http://your.asda.com/_1&quot;;return this.s_oc?this.s_oc(e):true">Corporate,</a> <a href="http://www.asda.jobs" onclick="s_objectID=&quot;http://www.asda.jobs/_1&quot;;return this.s_oc?this.s_oc(e):true">Careers</a>
+                        </p>
                 </div>
                 <div class="clear">
                         <h6>Help</h6>
                         <p>
-                        <a href="http://your.asda.com/section-contact-asda" onclick="javascript: pageTracker._trackPageview('/help/helpReturnsExchanges');">Returns &amp; Exchanges</a>                 </p>
+                        <a href="/help/privacy-policy.html" onclick="s_objectID=&quot;https://web.archive.org/help/privacy-policy.html_1&quot;;return this.s_oc?this.s_oc(e):true">Privacy Policy</a>, <a href="http://your.asda.com/section-contact-asda" onclick="s_objectID=&quot;http://your.asda.com/section-contact-asda_2&quot;;return this.s_oc?this.s_oc(e):true">Returns &amp; Exchanges</a> , <a href="http://your.asda.com/section-contact-asda" onclick="s_objectID=&quot;http://your.asda.com/section-contact-asda_3&quot;;return this.s_oc?this.s_oc(e):true">Contact us</a>
+                        </p>
                 </div>
                 <div class="clear">
-                        <h6>Stay in touch</h6>
+                        <h6>Your Asda</h6>
                         <p>
-                        <a href="http://your.asda.com/section-contact-asda" onclick="javascript: pageTracker._trackPageview('/stayintouch/stayInTouchContactUs');">Contact us</a>, <a href="http://www.twitter.com/asda" onclick="javascript: pageTracker._trackPageview('/stayintouch/stayInTouchTwitter');">Follow Asda on Twitter</a>                        </p>
+                        <a href="http://www.twitter.com/asda" onclick="s_objectID=&quot;http://www.twitter.com/asda_1&quot;;return this.s_oc?this.s_oc(e):true">Twitter</a>, <a href="http://www.facebook.com/asda" onclick="s_objectID=&quot;http://www.facebook.com/asda_1&quot;;return this.s_oc?this.s_oc(e):true">Facebook</a> 
+                        </p>
                 </div>
         </div>
         <div id="symed_bot">
                 <img src="../images/saving-you-money.gif" alt="ASDA - saving you money everyday" width="543" height="35">
         </div>
-        </div>
-        <div id="menuoverlay">
-                <div id="menuoverlaycontent">           </div>
-        </div>
-        <div id="pgHead">
-                <div id="pgLogo">
-                        <img src="../images/asda-logo.gif" id="asdaLogo" alt="Asda Logo" width="183" height="72">
-                        <script>$("body").removeClass("noscript");</script>
-                        <div class="atoz">
-                        <img src="../images/findIt.gif" alt="Find it" width="61" height="26">
-                        <img src="../images/aToZ.gif" class="ab" onclick="javascript:showatoz();" alt="View an A-Z list of Asda.com" width="149" height="26">                 </div>
+        <p class="cookiesWarning">
+                Our site uses cookies. To find out what cookies we use and why we use them <a href="help/privacy-policy.html#cookies" onclick="s_objectID=&quot;https://web.archive.org/web/20121214152026id_/http%3A//www.asda.co.uk/help/help/privacy-policy.ht_1&quot;;return this.s_oc?this.s_oc(e):true">click here</a>. If you carry on using our site we will assume you consent to us using cookies in this way.  
+    </p>
+</div>
+<div id="pgHead">
+             <div id="pgLogo">
+                <img src="../images/asda-logo.gif" id="asdaLogo" alt="Asda Logo" width="183" height="72">
+                <div id="pgInfoHead">
+                    <p>
+                    <a href="/help/privacy-policy.html" onclick="s_objectID=&quot;https://web.archive.org/help/privacy-policy.html_2&quot;;return this.s_oc?this.s_oc(e):true">Privacy &amp; Cookies</a> | <a href="http://your.asda.com/contact-us" onclick="s_objectID=&quot;http://your.asda.com/contact-us_1&quot;;return this.s_oc?this.s_oc(e):true">Help</a> | <a href="http://storelocator.asda.com" onclick="s_objectID=&quot;http://storelocator.asda.com/_2&quot;;return this.s_oc?this.s_oc(e):true">Store Locator &amp; Opening Times</a> | <a href="http://www.asda.jobs/" onclick="s_objectID=&quot;http://www.asda.jobs/_2&quot;;return this.s_oc?this.s_oc(e):true">Jobs</a> | <a href="/asda-fm.html" onclick="s_objectID=&quot;https://web.archive.org/asda-fm.html_1&quot;;return this.s_oc?this.s_oc(e):true">ASDA fm</a>
+                    </p>
                 </div>
-                <div id="pgMenu">
-
-                                <ul id="topnav">
-                        <li id="menuHome">
-                                        <a class="mHome on">Home</a>                            </li>
-
-                                                <li id="menuGroceries">
-                                <a href="http://groceries.asda.com" onclick="javascript: pageTracker._trackPageview('/outgoing/original/groceries/subGroceriesTabHead');" class="mGroceries">Groceries</a>
-
-                                <div class="sub" style="opacity: 0;">
-                                <ul>
-
-                                <li><a href="http://groceries.asda.com" onclick="javascript: pageTracker._trackPageview('/outgoing/original/groceries/subTakeALook');">Take A Look</a></li>
-                                <li><a href="https://groceries.asda.com/asda-estore/register/signincontainer.jsp" onclick="javascript: pageTracker._trackPageview('/outgoing/original/groceries/subSignin');">Sign in</a></li>
-
-                                <li><a href="http://groceries.asda.com/asda-estore/register/checkpostcodecontainer.jsp" onclick="javascript: pageTracker._trackPageview('/outgoing/original/groceries/subRegisternow');">Register now</a></li>
-                                <li><a href="http://www.asda.com/priceguarantee" onclick="javascript: pageTracker._trackPageview('/outgoing/original/groceries/subApg');">Price Guarantee</a></li>
-
-                                <li><a href="http://groceries.asda.com/asda-estore/specialoffers/specialofferscontainer.jsp?aisleid=so-aisle&amp;departmentid=so-department" onclick="javascript: pageTracker._trackPageview('/outgoing/original/groceries/subSpecialoffers');">Special offers</a></li>
-
-                                <!--<li><a href="http://www.asda.com/wine/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/groceries/asdawine');">Asda Wine &amp; Champagne</a></li>-->
-
-                                <li><a href="http://groceries.asda.com/asda-estore/catalog/sectionpagecontainer.jsp?departmentid=1214921923714" onclick="javascript: pageTracker._trackPageview('/outgoing/original/groceries/subNewIdeas');">New &amp; Ideas</a></li>
-
-                                <li class="btmLink"><a href="http://groceries.asda.com/asda-estore/banneroffers/banneroffercontainer.jsp?listId=1215003925580" onclick="javascript: pageTracker._trackPageview('/outgoing/original/groceries/theCookBook');">The Cook Book</a></li>
-                                </ul>
-
-                          </div>
-                          </li>
-                        <li id="menuHG">
-
-                                        <a href="http://direct.asda.com" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subDirectTabHead');" class="mHG">Asda Direct</a>
-                                        <div class="sub" style="opacity: 0;">
-
-                                        <ul>
-                        <li><a href="http://direct.asda.com/Asda-Electricals/40,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subElectricals');">Electricals</a></li>
-
-                        <li><a href="http://direct.asda.com/Home-Appliances/401,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subHomeAppliances');">Home Appliances</a></li>
-                        <li><a href="http://direct.asda.com/Asda-Furniture/30,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subFurniture');">Furniture</a></li>
-                        <li><a href="http://direct.asda.com/Asda-Home/20,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subHomegarden');">Home</a></li>
-                        <li><a href="http://direct.asda.com/asda-toys/50,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subToys');">Toys</a></li>
-                        <li><a href="http://direct.asda.com/asda-babyshop/60,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subBabyshop');">Baby</a></li>
-                        <li><a href="http://direct.asda.com/Asda-Sports-+-Leisure/80,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subSportsandleisure');">Sports &amp; Leisure</a></li>
-
-                        <li><a href="http://direct.asda.com/asda-jewellery/90,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subJewelleryandgifts');">Jewellery &amp; Watches</a></li>     
-                        <!--<li><a href="http://direct.asda.com/Fragrance/1901,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subFragrance');">Fragrance</a></li>-->
-
-                        <li><a href="http://direct.asda.com/Gifts-Party/190,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subGiftsAndParty');">Gifts &amp; Party</a></li>
-                        <li><a href="http://direct.asda.com/Offers-Events/100,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subOffersAndEvents');">Offers &amp; Events</a></li>
-
-                        <li class="btmLink"><a href="http://direct.asda.com/Clearance/120,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subClearance');">Clearance</a></li>
-                                        </ul>
-                        </div>
-
-                                </li>
-                        <li id="menuEnts">
-                                        <a href="http://direct.asda.com/Music-Video-Games/37,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subEnts');" class="mEnts">Entertainment</a>
-                                        <div class="sub" style="opacity: 0;">
-
-                                        <ul>
-                                                                <li><a href="http://direct.asda.com/Music/3701,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subCDs');">Music</a></li>
-                                <li><a href="http://direct.asda.com/Video/3703,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subVideo');">Video</a></li>
-                        <li><a href="http://direct.asda.com/Games/3702,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subGames');">Games</a></li>
-                        <li><a href="http://direct.asda.com/DVD/370303,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/dvds');">DVDs</a></li>
-                        <li class="btmLink"><a href="http://direct.asda.com/Blu-Ray/370301,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/bluray');">Blu-ray</a></li>
-
-                                        </ul>
-
-                      </div>
-                                </li>
-                        <li id="menuGeorge">
-                                        <a href="http://direct.asda.com/george/clothing/10,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subGeorge');" class="mGeorge">George</a>
-                                        <div class="sub" style="opacity: 0;">
-                                        <ul>
-                                        <li><a class="redMenu" href="http://direct.asda.com/george/sale/09,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subGeorgesale');">George Sale</a></li>
-
-                                                <li><a href="http://direct.asda.com/george/women-s-clothing/01,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subWomensClothing');">Womens Clothing</a></li>
-
-                                                <li><a href="http://direct.asda.com/george/men-s-clothing/04,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subMensClothing');">Mens Clothing</a></li>
-                                                <li><a href="http://direct.asda.com/george/kid-s-clothing/03,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subKidsClothing');">Kids Clothing</a></li>
-                                                <li><a href="http://direct.asda.com/george/shoes/05,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subShoes');">Shoes</a></li>
-                                                <li><a href="http://direct.asda.com/george/baby-clothes/07,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subBabyClothes');">Baby Clothes</a></li>
-
-                                                <li><a href="http://direct.asda.com/george/women-s-clothing/lingerie/01357,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subLingerie');">Lingerie</a></li>
-
-                                        <li><a href="http://direct.asda.com/george/school-uniform/010,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subSchooluniform');">School Uniform</a></li>
-
-                                        <li><a href="http://www.facebook.com/GeorgeatAsdaOfficial" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subGeorgeFB');">George on Facebook</a></li>
-                                        <li class="btmLink"><a href="http://georgestyle.george.com/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subGeorgeblog');">George Blog</a></li>
-                                        </ul>
-
-                          </div>
-
-                                  </li>
-                                  <li id="menuBK">
-
-                                        <span class="mBK">
-                    <a href="http://direct.asda.com/asda-babyshop/60,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subBabyshop');">Baby</a> <a>&amp; Kids</a>
-
-                    </span>
-                    <div class="sub" style="opacity: 0;">
-
-                                        <ul>
-                                                <li><a href="http://direct.asda.com/asda-babyshop/60,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subBabyshop');">Baby Shop</a></li>
-
-                        <li><a href="http://direct.asda.com/Travel-Pushchairs/601,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subTravelPushchairs');">Travel &amp; Pushchairs</a></li>
-                        <li><a href="http://direct.asda.com/Nursery-Furniture/604,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subNurseryFurniture');">Nursery Furniture</a></li>
-
-                                                <li><a href="http://direct.asda.com/george/baby-clothes/07,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subBabyClothes');">Baby Clothes</a></li>
-
-                        <li><a href="http://direct.asda.com/george/kid-s-clothing/03,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subKidsClothing');">Kids Clothing</a></li>
-                        <li><a href="http://direct.asda.com/george/school-uniform/010,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subSchooluniform');">School Uniform</a></li>
-
-                                                <li><a href="http://direct.asda.com/asda-toys/50,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subBabyClub');">Toys</a></li>
-                        <li class="btmLink"><a href="http://babyclub.asda.com/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subBabyClub');">Baby Club</a></li>
-
-                                        </ul>
-
+                <form id="form1" name="form1" method="get" action="http://storelocator.asda.com/search">
+                <fieldset>
+                    <legend id="storetitle">
+                    <a href="http://storelocator.asda.com" onclick="s_objectID=&quot;http://storelocator.asda.com/_3&quot;;return this.s_oc?this.s_oc(e):true">Store Locator &amp; Opening Times</a>
+                    </legend>
+                    <div class="form1Row">
+                    <label for="quicksearch" class="hide">Locate an Asda store near you</label>
+                    <input type="text" name="qs" id="quicksearch" class="txt" maxlength="1024" value="postcode / town" onblur="if (this.value=='') this.value = 'postcode / town'" onfocus="if (this.value=='postcode / town') this.value = ''">
+                    <input type="image" alt="Look up store" name="imageField" id="imageField" class="submit" src="../images/pgTButLookUp.jpg" value="">
                     </div>
-
-                                  </li>
-                         <li id="menuGF">
-                     <span class="mGF">
-
-                     <a href="http://www.asda-gifts.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subGiftstabhead');">Gifts,</a> <a href="http://www.asda-photo.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subPhotostabhead');">Photos</a> <a href="http://www.asda-flowers.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subFlowerstabhead');">&amp; Flowers</a>
-
-                     </span> 
-                                        <div class="sub" style="opacity: 0;">
-
-                                        <ul>
-                                                <li><a href="http://www.asda-flowers.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subFlowers');">Flowers</a></li>
-
-                                                <li><a href="http://www.asda-photo.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subPhoto');">Photo Prints &amp; Gifts</a></li>
-                                                <li><a href="http://direct.asda.com/asda-jewellery/90,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/jewelleryandgifts');">Jewellery &amp; Watches</a></li>
-
-                        <li><a href="http://direct.asda.com/Gifts-Party/190,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/giftsandparty');">Gifts &amp; Party</a></li>
-
-                                                <li><a href="http://www.asda-gifts.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subGifts');">Gift Experiences</a></li>
-
-                        <li class="btmLink"><a href="http://www.asda-cards.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subCards');">Personalised Cards</a></li>
-                                        </ul>
-                    </div>
-
-                                </li>
-                        <li id="menuTH">
-                                        <a href="http://www.asda-travel.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subTravel');" class="mTH">Travel &amp; Holiday</a>
-
-                    <div class="sub" style="opacity: 0;">
-                        <ul class="mTHRight">
-                                                <li><a href="http://www.asda-travel.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subTravelHolidays');">Book Travel &amp; Holidays</a></li>
-
-                                                <li><a href="http://www.asdafinance.com/travel/travel-insurance/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subTravelInsurance');">Travel Insurance</a></li>
-                        <li><a href="http://www.asdafinance.com/travel/travel-money/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subtravelMoney');">Travel Money</a></li>                      
-                        <li class="btmLink"><a href="http://www.asdafinance.com/motoring/breakdown-cover/european-cover/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subEuropeanCarCover');">European Breakdown Cover</a></li>
-
-                                        </ul>
-                        </div>
-                </li>
-                                <li id="menuHP">
-
-                                        <a href="http://groceries.asda.com/asda-estore/catalog/sectionpagecontainer.jsp?departmentid=1214921923791" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subHealthBeauty');" class="mHP">Health &amp; Beauty</a>
-                    <div class="sub" style="opacity: 0;">
-                                        <ul class="mHPRight">
-
-                                                <li><a href="http://www.asda-contactlenses.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subContactLenses');">Contact Lenses</a></li>
-                                                <!--<li><a href="http://www.asda-pharmacy.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subPharmacy');">Pharmacy</a></li>-->
-                                                <li><a href="http://groceries.asda.com/asda-estore/banneroffers/banneroffercontainer.jsp?listId=1214950155659" onclick="javascript: pageTracker._trackPageview('/outgoing/original/groceries/subColdFlu');">Cold &amp; Flu</a></li>
-
-                        <li><a href="http://direct.asda.com/Fragrance/1901,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subFragrance');">Fragrance</a></li>
-                        <li class="btmLink"><a href="http://www.asda-gifts.co.uk/Category/Id/11500/Name/Top_Pampering_Gifts" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subPampering');">Pampering Gifts</a></li>                       
-                                        </ul>
-
-                  </div>
-                                </li>
-                                <li id="menuFS">
-                                        <a href="http://www.asdafinance.com/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subFinancialServices');" class="mFS">Financial Services</a>
-
+                </fieldset>
+                </form>
+                <script type="text/javascript">
+                //<![CDATA[
+                    $('#form1').submit(function() {
+                    this.action = 'http://storelocator.asda.com/';
+                    });
+                //]]>
+                </script>
+            </div>
+            <div id="pgMenu">
+                <ul id="topnav">
+                    <li id="menuHome">
+                    <a class="mHome on">Home</a>
+                    </li>
+                    <li id="menuGroceries">
+                        <a href="http://groceries.asda.com/asda-estore/home/homecontainer.jsp?cmpid=ahc-_-ghs-_-asdacom-dsk-_-homepage-_-sub_title&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=sub_title&amp;utm_content=homepage&amp;utm_campaign=ghs" class="mGroceries" onclick="s_objectID=&quot;http://groceries.asda.com/asda-estore/home/homecontainer.jsp?cmpid=ahc-_-ghs-_-asdacom-dsk-_-home_1&quot;;return this.s_oc?this.s_oc(e):true">Groceries</a>
                         <div class="sub" style="opacity: 0;">
-                                        <ul class="mFSRight">
-                                                <li><a href="http://www.asdafinance.com/credit-cards-loans/credit-card/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subCreditCard');">Credit Card</a></li>
-
-                                                <li><a href="http://www.asdacards.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subChristmasSavingsCard');">Gift Cards</a></li>
-
-                                                <li><a href="http://www.asdafinance.com/insurance/breakdown/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subBreakdownCover');">Breakdown Cover</a></li>
-                                                <li class="btmLink"><a href="http://www.asdafinance.com/at-home/gas-and-electricity/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subGasElectricity');">Gas &amp; Electricity</a></li>
-
-                                        </ul>
-                </div>
-                                </li>
-
-                        <li id="menuIns">
-                                        <a href="http://www.asdafinance.com/insurance/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subInsurance');" class="mIns">Insurance</a>
-
-                                <div class="sub" style="opacity: 0;">
-                                        <ul class="mInsRight">
-
-                                                <li><a href="http://www.asdafinance.com/insurance/travel-insurance/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subTravelInsurance');">Travel Insurance</a></li>
-                                                <li><a href="http://www.asdafinance.com/insurance/home-insurance/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subHomeInsurance');">Home Insurance</a></li>
-                                                <li><a href="http://www.asdafinance.com/insurance/pet-insurance/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subPetInsurance');">Pet Insurance</a></li>
-
-                        <li><a href="http://www.asdafinance.com/insurance/over-50s/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/over50s');">Over 50s Life Cover</a></li>                            
-                                                <li><a href="http://www.asdafinance.com/insurance/life-insurance/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subLifeInsurance');">Life Insurance</a></li>
-
-                                                <li class="btmLink"><a href="http://www.asdafinance.com/insurance/car-insurance/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subCarInsurance');">Car Insurance</a></li>
-
-                                        </ul>
-                 </div>
-                                 </li>
-                          </ul>
-
+                            <ul>
+                                <li><a href="http://shop.asda.com/online-groceries/?cmpid=ahc-_-sho-_-asdacom-dsk-_-homepage-_-sub_howto" onclick="s_objectID=&quot;http://shop.asda.com/online-groceries/?cmpid=ahc-_-sho-_-asdacom-dsk-_-homepage-_-sub_howto_1&quot;;return this.s_oc?this.s_oc(e):true">How to Shop</a></li>
+                                <li><a href="http://groceries.asda.com/asda-estore/home/homecontainer.jsp?cmpid=ahc-_-ghs-_-asdacom-dsk-_-homepage-_-sub_look&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=sub_look&amp;utm_content=homepage&amp;utm_campaign=ghs" onclick="s_objectID=&quot;http://groceries.asda.com/asda-estore/home/homecontainer.jsp?cmpid=ahc-_-ghs-_-asdacom-dsk-_-home_2&quot;;return this.s_oc?this.s_oc(e):true">Take A Look</a></li>
+                                <li><a href="https://groceries.asda.com/asda-estore/register/signincontainer.jsp?cmpid=ahc-_-ghs-_-asdacom-dsk-_-homepage-_-sub_signin&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=sub_look&amp;utm_content=homepage&amp;utm_campaign=ghs" onclick="s_objectID=&quot;https://groceries.asda.com/asda-estore/register/signincontainer.jsp?cmpid=ahc-_-ghs-_-asdacom-dsk_1&quot;;return this.s_oc?this.s_oc(e):true">Sign in</a></li>
+                                <li><a href="http://groceries.asda.com/asda-estore/register/checkpostcodecontainer.jsp?cmpid=ahc-_-ghs-asdacom-dsk-_-homepage-_-sub_register&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=sub_register&amp;utm_content=homepage&amp;utm_campaign=ghs" onclick="s_objectID=&quot;http://groceries.asda.com/asda-estore/register/checkpostcodecontainer.jsp?cmpid=ahc-_-ghs-asdacom_1&quot;;return this.s_oc?this.s_oc(e):true">Register now</a></li>
+                                <li><a href="http://shop.asda.com/asda-price-guarantee/?cmpid=ahc-_-sho-_-asdacom-dsk-_-homepage-_-sub_apg" onclick="s_objectID=&quot;http://shop.asda.com/asda-price-guarantee/?cmpid=ahc-_-sho-_-asdacom-dsk-_-homepage-_-sub_apg_1&quot;;return this.s_oc?this.s_oc(e):true">Price Guarantee</a></li>
+                                <li><a href="http://groceries.asda.com/asda-estore/catalog/sectionpagecontainer.jsp?departmentid=1214921923747&amp;cmpid=ahc-_-ghs-_-asdacom-dsk-_-homepage-_-table_wine&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=table_wine&amp;utm_content=homepage&amp;utm_campaign=ghs" onclick="s_objectID=&quot;http://groceries.asda.com/asda-estore/catalog/sectionpagecontainer.jsp?departmentid=1214921923747_1&quot;;return this.s_oc?this.s_oc(e):true">Wine</a></li>
+                                <li><a href="http://groceries.asda.com/asda-estore/specialoffers/specialofferscontainer.jsp?aisleid=so-aisle&amp;departmentid=so-department&amp;cmpid=ahc-_-ghs-_-asdacom-dsk-_-homepage-_-sub_special_offers&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=sub_special_offers&amp;utm_content=homepage&amp;utm_campaign=ghs" onclick="s_objectID=&quot;http://groceries.asda.com/asda-estore/specialoffers/specialofferscontainer.jsp?aisleid=so-aisle&amp;d_1&quot;;return this.s_oc?this.s_oc(e):true">Special offers</a></li>
+                                <li><a href="http://groceries.asda.com/asda-estore/banneroffers/banneroffercontainer.jsp?listId=1215003925580&amp;cmpid=ahc-_-ghs-_-asdacom-dsk-_-homepage-_-sub_cookbook&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=sub_cookbook&amp;utm_content=homepage&amp;utm_campaign=ghs" onclick="s_objectID=&quot;http://groceries.asda.com/asda-estore/banneroffers/banneroffercontainer.jsp?listId=1215003925580&amp;_1&quot;;return this.s_oc?this.s_oc(e):true">The Cook Book</a></li>
+                                <li><a href="http://groceries.asda.com/asda-estore/banneroffers/banneroffercontainer.jsp?listId=1215025028381&amp;cmpid=ahc-_-ghs-_-asdacom-dsk-_-homepage-_-sub_magazine&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=sub_magazine&amp;utm_content=homepage&amp;utm_campaign=ghs" onclick="s_objectID=&quot;http://groceries.asda.com/asda-estore/banneroffers/banneroffercontainer.jsp?listId=1215025028381&amp;_1&quot;;return this.s_oc?this.s_oc(e):true">Asda Magazine</a></li>
+                                <li class="btmLink"><a href="http://groceries.asda.com/asda-estore/banneroffers/banneroffercontainer.jsp?listId=1215021518913&amp;cmpid=ahc-_-ghs-_-asdacom-dsk-_-homepage-_-shop-b2b-_-sub_business&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=sub_business&amp;utm_content=homepage&amp;utm_campaign=ghs" onclick="s_objectID=&quot;http://groceries.asda.com/asda-estore/banneroffers/banneroffercontainer.jsp?listId=1215021518913&amp;_1&quot;;return this.s_oc?this.s_oc(e):true">Asda Business</a></li>
+                            </ul>
                         </div>
-                </div>
-        </div>
+                    </li>
+
+                    <li id="menuHG">
+
+                        <a href="http://direct.asda.com/?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ad-title&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-ad-title" class="mHG" onclick="s_objectID=&quot;http://direct.asda.com/?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ad-title&amp;utm_cont_1&quot;;return this.s_oc?this.s_oc(e):true">Asda Direct</a>
+                        <div class="sub" style="opacity: 0;">
+                            <ul>
+                                <li><a href="http://direct.asda.com/Asda-Electricals/40,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ad-electricals&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-ad-electricals" onclick="s_objectID=&quot;http://direct.asda.com/Asda-Electricals/40,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=inte_1&quot;;return this.s_oc?this.s_oc(e):true">Electricals</a></li>
+                                <li><a href="http://direct.asda.com/Home-Appliances/401,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ad-homeappliances&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-ad-homeappliances" onclick="s_objectID=&quot;http://direct.asda.com/Home-Appliances/401,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=inte_1&quot;;return this.s_oc?this.s_oc(e):true">Home Appliances</a></li>
+                                <li><a href="http://direct.asda.com/Music-Video-Games-Books/37,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ad-ents&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-ad-ents" onclick="s_objectID=&quot;http://direct.asda.com/Music-Video-Games-Books/37,default,sc.html?utm_source=asdacom-dsk&amp;utm_medi_1&quot;;return this.s_oc?this.s_oc(e):true">Music, Video, Games &amp; Books</a></li>
+                                <li><a href="http://direct.asda.com/Asda-Furniture/30,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ad-furniture&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-ad-furniture" onclick="s_objectID=&quot;http://direct.asda.com/Asda-Furniture/30,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=intern_1&quot;;return this.s_oc?this.s_oc(e):true">Furniture</a></li>
+                                <li><a href="http://direct.asda.com/Asda-Home/20,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ad-home&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-ad-home" onclick="s_objectID=&quot;http://direct.asda.com/Asda-Home/20,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;ut_1&quot;;return this.s_oc?this.s_oc(e):true">Home</a></li>
+                                <li><a href="http://direct.asda.com/asda-outdoor/130,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ad-outdoor&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-ad-outdoor" onclick="s_objectID=&quot;http://direct.asda.com/asda-outdoor/130,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=interna_1&quot;;return this.s_oc?this.s_oc(e):true">Outdoor, DIY &amp; Motor</a></li>
+                                <li><a href="http://direct.asda.com/asda-toys/50,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ad-toys&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-ad-toys" onclick="s_objectID=&quot;http://direct.asda.com/asda-toys/50,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;ut_1&quot;;return this.s_oc?this.s_oc(e):true">Toys</a></li>
+                                <li><a href="http://direct.asda.com/asda-babyshop/60,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ad-babyshop&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-ad-babyshop" onclick="s_objectID=&quot;http://direct.asda.com/asda-babyshop/60,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=interna_1&quot;;return this.s_oc?this.s_oc(e):true">Baby</a></li>
+                                <li><a href="http://direct.asda.com/Asda-Sports-+-Leisure/80,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ad-sportsLeisure&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-ad-sportsLeisure" onclick="s_objectID=&quot;http://direct.asda.com/Asda-Sports-+-Leisure/80,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium_1&quot;;return this.s_oc?this.s_oc(e):true">Sports &amp; Leisure</a></li>
+                                <li><a href="http://direct.asda.com/Gifts-Party/190,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ad-giftsParty&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-ad-giftsParty" onclick="s_objectID=&quot;http://direct.asda.com/Gifts-Party/190,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal_1&quot;;return this.s_oc?this.s_oc(e):true">Gifts &amp; Party</a></li>
+                                <li><a href="http://direct.asda.com/Offers-Events/100,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ad-offersEvents&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-ad-offersEvents" onclick="s_objectID=&quot;http://direct.asda.com/Offers-Events/100,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=intern_1&quot;;return this.s_oc?this.s_oc(e):true">Offers &amp; Events</a></li>
+                                <li class="btmLink"><a href="http://direct.asda.com/george/halloween-costumes/D17,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ad-&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-ad-" onclick="s_objectID=&quot;http://direct.asda.com/george/halloween-costumes/D17,default,sc.html?utm_source=asdacom-dsk&amp;utm_m_1&quot;;return this.s_oc?this.s_oc(e):true">Halloween</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li id="menuFS">
+                        <a href="http://money.asda.com/?cmpid=ahc-mon-home-sub_title" class="mFS" onclick="s_objectID=&quot;http://money.asda.com/?cmpid=ahc-mon-home-sub_title_1&quot;;return this.s_oc?this.s_oc(e):true">Asda Money</a>
+                        <div class="sub" style="opacity: 0;">
+                            <ul class="mFSRight">
+                                <li><a href="http://money.asda.com/credit-cards/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-credit-card&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=credit-card&amp;utm_content=homepage&amp;utm_campaign=mon" onclick="s_objectID=&quot;http://money.asda.com/credit-cards/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-credit-card&amp;utm_so_1&quot;;return this.s_oc?this.s_oc(e):true">Credit Card</a></li>
+                                <li><a href="http://money.asda.com/car-insurance/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-car&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=car&amp;utm_content=homepage&amp;utm_campaign=mon" onclick="s_objectID=&quot;http://money.asda.com/car-insurance/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-car&amp;utm_source=as_1&quot;;return this.s_oc?this.s_oc(e):true">Car Insurance</a></li>
+                                <li><a href="http://money.asda.com/over-50s-life-insurance/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-over50s&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=over50s&amp;utm_content=homepage&amp;utm_campaign=mon" onclick="s_objectID=&quot;http://money.asda.com/over-50s-life-insurance/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-over50s_1&quot;;return this.s_oc?this.s_oc(e):true">Over 50s Life Cover</a></li>
+                                <li><a href="http://money.asda.com/life-insurance/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-life&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=life&amp;utm_content=homepage&amp;utm_campaign=mon" onclick="s_objectID=&quot;http://money.asda.com/life-insurance/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-life&amp;utm_source=_1&quot;;return this.s_oc?this.s_oc(e):true">Life Insurance</a></li>
+                                <li><a href="http://money.asda.com/travel-insurance/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-travel-insurance&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=travel-insurance&amp;utm_content=homepage&amp;utm_campaign=mon" onclick="s_objectID=&quot;http://money.asda.com/travel-insurance/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-travel-insuran_1&quot;;return this.s_oc?this.s_oc(e):true">Travel Insurance</a></li>
+                                <li><a href="http://money.asda.com/travel-money/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-travel-money&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=travel-money&amp;utm_content=homepage&amp;utm_campaign=mon" onclick="s_objectID=&quot;http://money.asda.com/travel-money/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-travel-money&amp;utm_s_1&quot;;return this.s_oc?this.s_oc(e):true">Travel Money</a></li>
+                                <li><a href="http://money.asda.com/breakdown-cover/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-breakdown&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=breakdown&amp;utm_content=homepage&amp;utm_campaign=mon" onclick="s_objectID=&quot;http://money.asda.com/breakdown-cover/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-breakdown&amp;utm_s_1&quot;;return this.s_oc?this.s_oc(e):true">Breakdown Cover</a></li>
+                                <li><a href="http://money.asda.com/pet-insurance/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-pet&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=pet&amp;utm_content=homepage&amp;utm_campaign=mon" onclick="s_objectID=&quot;http://money.asda.com/pet-insurance/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-pet&amp;utm_source=as_1&quot;;return this.s_oc?this.s_oc(e):true">Pet Insurance</a></li>
+                                <li><a href="http://money.asda.com/home-insurance/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-home&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=home&amp;utm_content=homepage&amp;utm_campaign=mon" onclick="s_objectID=&quot;http://money.asda.com/home-insurance/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-home&amp;utm_source=_1&quot;;return this.s_oc?this.s_oc(e):true">Home Insurance</a></li>
+                                <li><a href="http://money.asda.com/energy-comparison/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-energy&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=energy&amp;utm_content=homepage&amp;utm_campaign=mon" onclick="s_objectID=&quot;http://money.asda.com/energy-comparison/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-energy&amp;utm_so_1&quot;;return this.s_oc?this.s_oc(e):true">Energy Compare</a></li>
+                                <li><a href="http://www.asdacards.co.uk/" onclick="s_objectID=&quot;http://www.asdacards.co.uk/_1&quot;;return this.s_oc?this.s_oc(e):true">Gift Cards</a></li>
+                                <li class="btmLink"><a href="http://groceries.asda.com/asda-estore/banneroffers/banneroffercontainer.jsp?listId=1215022197108&amp;cmpid=ahc-_-ghs-_-asdacom-dsk-_-homepage-_-sub-shop-b2b&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=sub-shop-b2b&amp;utm_content=shop-b2b&amp;utm_campaign=ghs" onclick="s_objectID=&quot;http://groceries.asda.com/asda-estore/banneroffers/banneroffercontainer.jsp?listId=1215022197108&amp;_1&quot;;return this.s_oc?this.s_oc(e):true">Trade Card</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li id="menuEnts">
+                        <a href="http://direct.asda.com/Music-Video-Games-Books/37,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ents-title&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-ents-title" onclick="s_objectID=&quot;http://direct.asda.com/Music-Video-Games-Books/37,default,sc.html?utm_source=asdacom-dsk&amp;utm_medi_2&quot;;return this.s_oc?this.s_oc(e):true">Entertainment</a>
+                        <div class="sub" style="opacity: 0;">
+                            <ul>
+                                <li><a href="http://direct.asda.com/Games-Consoles-Bundles/370200,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ents-consoles&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-ents-consoles" onclick="s_objectID=&quot;http://direct.asda.com/Games-Consoles-Bundles/370200,default,sc.html?utm_source=asdacom-dsk&amp;utm_m_1&quot;;return this.s_oc?this.s_oc(e):true">Consoles</a></li>
+                                <li><a href="http://direct.asda.com/Music/3701,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ents-music&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-ents-music" onclick="s_objectID=&quot;http://direct.asda.com/Music/3701,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm__1&quot;;return this.s_oc?this.s_oc(e):true">Music</a></li>
+                                <li><a href="http://direct.asda.com/Video/3703,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ents-video&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-ents-video" onclick="s_objectID=&quot;http://direct.asda.com/Video/3703,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm__1&quot;;return this.s_oc?this.s_oc(e):true">Video</a></li>
+                                <li><a href="http://direct.asda.com/Games/3702,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ents-games&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-ents-games" onclick="s_objectID=&quot;http://direct.asda.com/Games/3702,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm__1&quot;;return this.s_oc?this.s_oc(e):true">Games</a></li>
+                                <li><a href="http://direct.asda.com/Books/3706,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ents-books&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-ents-books" onclick="s_objectID=&quot;http://direct.asda.com/Books/3706,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm__1&quot;;return this.s_oc?this.s_oc(e):true">Books</a></li>
+                                <li><a href="http://direct.asda.com/DVD/370303,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ents-dvd&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-ents-dvd" onclick="s_objectID=&quot;http://direct.asda.com/DVD/370303,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm__1&quot;;return this.s_oc?this.s_oc(e):true">DVDs</a></li>
+                                <li class="btmLink"><a href="http://direct.asda.com/Blu-Ray/370301,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-ents-bluRay&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-ents-bluRay" onclick="s_objectID=&quot;http://direct.asda.com/Blu-Ray/370301,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;_1&quot;;return this.s_oc?this.s_oc(e):true">Blu-ray</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li id="menuGeorge">
+                        <a href="http://direct.asda.com/george/clothing/10,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-geor-title&amp;utm_content=geor-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-geor-_-homepage-_-nav-geor-title" class="mGeorge" onclick="s_objectID=&quot;http://direct.asda.com/george/clothing/10,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=inter_1&quot;;return this.s_oc?this.s_oc(e):true">George Clothing</a>
+                        <div class="sub" style="opacity: 0;">
+                            <ul>
+                                <li><a href="http://direct.asda.com/george/women-s/D1,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-geor-womens&amp;utm_content=geor-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-geor-_-homepage-_-nav-geor-womens" onclick="s_objectID=&quot;http://direct.asda.com/george/women-s/D1,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=intern_1&quot;;return this.s_oc?this.s_oc(e):true">Women’s Clothing</a></li>
+                                <li><a href="http://direct.asda.com/george/womens/dresses/D1M1G20C1,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-geor-dresses&amp;utm_content=geor-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-geor-_-homepage-_-nav-geor-dresses" onclick="s_objectID=&quot;http://direct.asda.com/george/womens/dresses/D1M1G20C1,default,sc.html?utm_source=asdacom-dsk&amp;utm_1&quot;;return this.s_oc?this.s_oc(e):true">Dresses</a></li>  
+                                <li><a href="http://direct.asda.com/george/mens/D2,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-geor-mens&amp;utm_content=geor-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-geor-_-homepage-_-nav-geor-mens" onclick="s_objectID=&quot;http://direct.asda.com/george/mens/D2,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;_1&quot;;return this.s_oc?this.s_oc(e):true">Men’s Clothing</a></li>
+                                <li><a href="http://direct.asda.com/george/boys/D3,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-geor-boys&amp;utm_content=geor-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-geor-_-homepage-_-nav-geor-boys" onclick="s_objectID=&quot;http://direct.asda.com/george/boys/D3,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;_1&quot;;return this.s_oc?this.s_oc(e):true">Boys Clothing</a></li>
+                                <li><a href="http://direct.asda.com/george/girls/D4,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-geor-girls&amp;utm_content=geor-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-geor-_-homepage-_-nav-geor-girls" onclick="s_objectID=&quot;http://direct.asda.com/george/girls/D4,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal_1&quot;;return this.s_oc?this.s_oc(e):true">Girls Clothing</a></li>
+                                <li><a href="http://direct.asda.com/george/baby/D5,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-geor-baby&amp;utm_content=geor-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-geor-_-homepage-_-nav-geor-baby" onclick="s_objectID=&quot;http://direct.asda.com/george/baby/D5,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;_1&quot;;return this.s_oc?this.s_oc(e):true">Baby Clothing</a></li>
+                                <li><a href="http://direct.asda.com/george/school/D10,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-geor-schoolUniform&amp;utm_content=geor-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-geor-_-homepage-_-nav-geor-schoolUniform" onclick="s_objectID=&quot;http://direct.asda.com/george/school/D10,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=intern_1&quot;;return this.s_oc?this.s_oc(e):true">School Uniform</a></li>
+                                <li><a href="http://direct.asda.com/george/shoes/D13,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=table-geor-shoes&amp;utm_content=geor-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-geor-_-homepage-_-table-geor-shoes" onclick="s_objectID=&quot;http://direct.asda.com/george/shoes/D13,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=interna_1&quot;;return this.s_oc?this.s_oc(e):true">Shoes</a></li>
+                                                                <li><a href="http://direct.asda.com/george/halloween-costumes/D17,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=table-geor-halloween&amp;utm_content=geor-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-geor-_-homepage-_-table-geor-halloween" onclick="s_objectID=&quot;http://direct.asda.com/george/halloween-costumes/D17,default,sc.html?utm_source=asdacom-dsk&amp;utm_m_2&quot;;return this.s_oc?this.s_oc(e):true">Halloween</a></li>
+                                                                <li class="btmLink"><a href="http://direct.asda.com/george/clearance/D7,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-geor-clearance&amp;utm_content=geor-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-geor-_-homepage-_-nav-geor-clearance" onclick="s_objectID=&quot;http://direct.asda.com/george/clearance/D7,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=inte_1&quot;;return this.s_oc?this.s_oc(e):true">George Sale</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li id="menuBK">
+                        <span class="mBK">
+                        <a href="http://direct.asda.com/asda-babyshop/60,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-baby-title&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-baby-title" onclick="s_objectID=&quot;http://direct.asda.com/asda-babyshop/60,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=interna_2&quot;;return this.s_oc?this.s_oc(e):true">Baby</a>
+                        </span>
+                        <div class="sub" style="opacity: 0;">
+                            <ul>
+                                <li><a href="http://direct.asda.com/asda-babyshop/60,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-baby-babyshop&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-baby-babyshop" onclick="s_objectID=&quot;http://direct.asda.com/asda-babyshop/60,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=interna_3&quot;;return this.s_oc?this.s_oc(e):true">Baby Shop</a></li>
+                                <li><a href="http://direct.asda.com/Travel-Pushchairs/601,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-baby-pushchairs&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-baby-pushchairs" onclick="s_objectID=&quot;http://direct.asda.com/Travel-Pushchairs/601,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=in_1&quot;;return this.s_oc?this.s_oc(e):true">Travel &amp; Pushchairs</a></li>
+                                <li><a href="http://direct.asda.com/Nursery-Furniture/604,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-baby-furniture&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-baby-furniture" onclick="s_objectID=&quot;http://direct.asda.com/Nursery-Furniture/604,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=in_1&quot;;return this.s_oc?this.s_oc(e):true">Nursery Furniture</a></li>
+                                <li><a href="http://direct.asda.com/george/baby/D5,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-baby-baby&amp;utm_content=geor-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-geor-_-homepage-_-nav-baby-baby" onclick="s_objectID=&quot;http://direct.asda.com/george/baby/D5,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;_2&quot;;return this.s_oc?this.s_oc(e):true">Baby Clothing</a></li>
+                                <li><a href="http://direct.asda.com/george/boys/D3,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-baby-boys&amp;utm_content=geor-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-geor-_-homepage-_-nav-baby-boys" onclick="s_objectID=&quot;http://direct.asda.com/george/boys/D3,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;_2&quot;;return this.s_oc?this.s_oc(e):true">Boys Clothing</a></li>
+                                <li><a href="http://direct.asda.com/george/girls/D4,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-baby-girls&amp;utm_content=geor-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-geor-_-homepage-_-nav-baby-girls" onclick="s_objectID=&quot;http://direct.asda.com/george/girls/D4,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal_2&quot;;return this.s_oc?this.s_oc(e):true">Girls Clothing</a></li>
+                                <li><a href="http://direct.asda.com/george/school/D10,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-baby-schoolUniform&amp;utm_content=geor-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-geor-_-homepage-_-nav-baby-schoolUniform" onclick="s_objectID=&quot;http://direct.asda.com/george/school/D10,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=intern_2&quot;;return this.s_oc?this.s_oc(e):true">School Uniforms</a></li>
+                                <li><a href="http://direct.asda.com/asda-toys/50,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-baby-toys&amp;utm_content=ad-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-ad-_-homepage-_-nav-baby-toys" onclick="s_objectID=&quot;http://direct.asda.com/asda-toys/50,default,sc.html?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;ut_2&quot;;return this.s_oc?this.s_oc(e):true">Toys</a></li>
+                                <li><a href="http://babyclub.asda.com/" onclick="s_objectID=&quot;http://babyclub.asda.com/_1&quot;;return this.s_oc?this.s_oc(e):true">Baby &amp; Toddler Club</a></li>
+                                <li class="btmLink"><a href="http://www.asda-gifts.co.uk/Category/Id/2033/Name/Gifts_for_Kids" onclick="s_objectID=&quot;http://www.asda-gifts.co.uk/Category/Id/2033/Name/Gifts_for_Kids_1&quot;;return this.s_oc?this.s_oc(e):true">Kids Gift Experiences</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li id="menuGF">
+                        <a href="http://www.asda-gifts.co.uk/?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-gifts-title&amp;utm_content=buagi-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-buagi-_-homepage-_-nav-gifts-title" onclick="s_objectID=&quot;http://www.asda-gifts.co.uk/?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-gifts-title&amp;_1&quot;;return this.s_oc?this.s_oc(e):true">Gifts</a>
+                        <div class="sub" style="opacity: 0;">
+                        <ul>
+                            <li><a href="http://asdacards.co.uk/" onclick="s_objectID=&quot;http://asdacards.co.uk/_1&quot;;return this.s_oc?this.s_oc(e):true">Gift Cards</a></li>
+                            <li class="btmLink"><a href="http://www.asda-gifts.co.uk/?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-gifts-gifts&amp;utm_content=buagi-homepage&amp;utm_campaign=internal&amp;cm_mmc=internal-asdacom-dsk-_-buagi-_-homepage-_-nav-gifts-gifts" onclick="s_objectID=&quot;http://www.asda-gifts.co.uk/?utm_source=asdacom-dsk&amp;utm_medium=internal&amp;utm_term=nav-gifts-gifts&amp;_1&quot;;return this.s_oc?this.s_oc(e):true">Gift Experiences</a></li>
+                        </ul>
+                        </div>
+                    </li>
+                    <li id="menuGF">
+                        <a href="http://www.asda-photo.co.uk/" onclick="s_objectID=&quot;http://www.asda-photo.co.uk/_1&quot;;return this.s_oc?this.s_oc(e):true">Photos</a>
+                    </li>
+                    <li id="menuGF">
+                        <a href="http://www.asda-flowers.co.uk/" onclick="s_objectID=&quot;http://www.asda-flowers.co.uk/_1&quot;;return this.s_oc?this.s_oc(e):true">Flowers</a>
+                    </li>
+                    <li id="menuTH">
+                        <a href="http://www.asda-travel.co.uk/" class="mTH" onclick="s_objectID=&quot;http://www.asda-travel.co.uk/_1&quot;;return this.s_oc?this.s_oc(e):true">Travel &amp; Holidays</a>
+                        <div class="sub" style="opacity: 0;">
+                            <ul class="mTHRight">
+                                <li><a href="http://www.asda-travel.co.uk/" onclick="s_objectID=&quot;http://www.asda-travel.co.uk/_2&quot;;return this.s_oc?this.s_oc(e):true">Book Travel &amp; Holidays</a></li>
+                                <li><a href="http://money.asda.com/travel-insurance/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-travel-insurance&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=travel-insurance&amp;utm_content=homepage&amp;utm_campaign=mon" onclick="s_objectID=&quot;http://money.asda.com/travel-insurance/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-travel-insuran_2&quot;;return this.s_oc?this.s_oc(e):true">Travel Insurance</a></li>
+                                <li class="btmLink"><a href="http://money.asda.com/travel-money/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-travel-money&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=travel-money&amp;utm_content=homepage&amp;utm_campaign=mon" onclick="s_objectID=&quot;http://money.asda.com/travel-money/?cmpid=ahc-_-mon-_-asdacom-dsk-_-homepage-_-travel-money&amp;utm_s_2&quot;;return this.s_oc?this.s_oc(e):true">Travel Money</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li id="menuHP">
+                        <a href="http://groceries.asda.com/asda-estore/catalog/sectionpagecontainer.jsp?departmentid=1214921923791&amp;cmpid=ahc-_-ghs-_-asdacom-dsk-_-homepage-_-sub_healthBeauty&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=sub_healthBeauty&amp;utm_content=homepage&amp;utm_campaign=ghs" class="mHP" onclick="s_objectID=&quot;http://groceries.asda.com/asda-estore/catalog/sectionpagecontainer.jsp?departmentid=1214921923791_1&quot;;return this.s_oc?this.s_oc(e):true">Health &amp; Beauty</a>
+                        <div class="sub" style="opacity: 0;">
+                            <ul class="mHPRight">
+                                <li><a href="http://groceries.asda.com/asda-estore/catalog/sectionpagecontainer.jsp?aisleid=1214921924606&amp;departmentid=1214921923791&amp;cmpid=ahc-_-ghs-_-asdacom-dsk-_-homepage-_-sub-fragrance&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=sub-fragrance&amp;utm_content=homepage&amp;utm_campaign=ghs" onclick="s_objectID=&quot;http://groceries.asda.com/asda-estore/catalog/sectionpagecontainer.jsp?aisleid=1214921924606&amp;depa_1&quot;;return this.s_oc?this.s_oc(e):true">Fragrance</a></li>
+                                <li><a href="http://groceries.asda.com/asda-estore/catalog/sectionpagecontainer.jsp?aisleid=1214921925337&amp;departmentid=1214921923791&amp;cmpid=ahc-_-ghs-_-asdacom-dsk-_-homepage-_-sub-mens-toiletries&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=sub-mens-toiletries&amp;utm_content=homepage&amp;utm_campaign=ghs" onclick="s_objectID=&quot;http://groceries.asda.com/asda-estore/catalog/sectionpagecontainer.jsp?aisleid=1214921925337&amp;depa_1&quot;;return this.s_oc?this.s_oc(e):true">Mens Toiletries</a></li>
+                                <li><a href="http://groceries.asda.com/asda-estore/catalog/sectionpagecontainer.jsp?aisleid=1214921924232&amp;departmentid=1214921923791&amp;cmpid=ahc-_-ghs-_-asdacom-dsk-_-homepage-_-sub-cosmetics&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=sub-cosmetics&amp;utm_content=homepage&amp;utm_campaign=ghs" onclick="s_objectID=&quot;http://groceries.asda.com/asda-estore/catalog/sectionpagecontainer.jsp?aisleid=1214921924232&amp;depa_1&quot;;return this.s_oc?this.s_oc(e):true">Cosmetics</a></li>
+                                <li><a href="http://groceries.asda.com/asda-estore/catalog/sectionpagecontainer.jsp?aisleid=1214921924334&amp;departmentid=1214921923791&amp;cmpid=ahc-_-ghs-_-asdacom-dsk-_-homepage-_-sub-dental&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=sub-dental&amp;utm_content=homepage&amp;utm_campaign=ghs" onclick="s_objectID=&quot;http://groceries.asda.com/asda-estore/catalog/sectionpagecontainer.jsp?aisleid=1214921924334&amp;depa_1&quot;;return this.s_oc?this.s_oc(e):true">Dental Care</a></li>
+                                <li><a href="http://groceries.asda.com/asda-estore/catalog/sectionpagecontainer.jsp?aisleid=1214921925031&amp;departmentid=1214921923791&amp;cmpid=ahc-_-ghs-_-asdacom-dsk-_-homepage-_-sub&amp;utm_source=asdacom-dsk&amp;utm_medium=ahc&amp;utm_term=sub-hair-care&amp;utm_content=homepage&amp;utm_campaign=ghs" onclick="s_objectID=&quot;http://groceries.asda.com/asda-estore/catalog/sectionpagecontainer.jsp?aisleid=1214921925031&amp;depa_1&quot;;return this.s_oc?this.s_oc(e):true">Hair Care</a></li>
+                                <li class="btmLink"><a href="http://www.asda-contactlenses.co.uk/" onclick="s_objectID=&quot;http://www.asda-contactlenses.co.uk/_1&quot;;return this.s_oc?this.s_oc(e):true">Contact Lenses</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>                                      
+        </div>              
+    </div>
 
 
 <!--Start Google Analytics-->
@@ -691,22 +529,6 @@ var pageTracker = _gat._getTracker("UA-2423686-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 <!--End Google Analytics-->
-
-<!--Start Razorfish Tag-->
-<script type="text/javascript">document.write('<s'+'cript language="JavaScript" src="http://view.atdmt.com/jaction/asda_com_homepage_Corp_1_New25"></s'+'cript>')</script><script language="JavaScript" src="http://view.atdmt.com/jaction/asda_com_homepage_Corp_1_New25"></script>
-<noscript>
-<iframe src="http://view.atdmt.com/iaction/asda_com_homepage_Corp_1_New25" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-</noscript>
-<!--End Razorfish Tag-->
-
-<!--Start Post Load Content-->
-<script language="javascript" src="javascript/post-load-content.js"></script>
-<!--End Post Load Content-->
-
-<!--Start Crimtan Tag-->
-<img width="1" height="1" border="0" vspace="0" hspace="0" src="http://p.ctasnet.com/partners/universal/in?pid=1417&amp;t=i">
-<script src="http://p.ctasnet.com/partners/universal/in?pid=10219" type="text/javascript" language="JavaScript"></script>
-<!--End Crimtan Tag-->
 
 
 </body></html>
