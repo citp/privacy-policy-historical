@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bafta.org privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627035919id_/http%3A//www.bafta.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bafta.org privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214132729id_/http%3A//www.bafta.org/privacy.html) for the most accurate reproduction.*
 
 # BAFTA Privacy
 
@@ -152,4 +152,4 @@ We work with the following companies in maintaining and improving our website, a
 
 ### the OTHER media Limited
 
-the OTHER media provide build and hosting services to ZSL and help us to maintain the software that runs our website. They provide us with reporting statistics where required, and will serve cookies on our behalf to enable any site personalisation and log in functionality.
+the OTHER media provide build and hosting services to BAFTA and help us to maintain the software that runs our website. They provide us with reporting statistics where required, and will serve cookies on our behalf to enable any site personalisation and log in functionality.
