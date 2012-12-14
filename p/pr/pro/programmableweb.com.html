@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the programmableweb.com privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630233431id_/http%3A//www.programmableweb.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the programmableweb.com privacy policy that was archived on 2012-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121214213243id_/http%3A//www.programmableweb.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>ProgrammableWeb: Privacy</title>
 
-<link rel="stylesheet" type="text/css" href="/css/pwmaster43.css?v=59">
+<link rel="stylesheet" type="text/css" href="/css/pwmaster43a.css?v=59">
 <link rel="stylesheet" type="text/css" href="/css/thickbox.css?1" media="screen">
 <!--[if IE 8]>
 <link rel="stylesheet" type="text/css" href="/css/ie8.css?2" />
@@ -20,7 +20,7 @@
 </script>
 <script type="text/javascript">
   var pageTracker = _gat._getTracker("UA-208396-1");
-  pageTracker._setVar('versionB');
+  pageTracker._setVar('versionA');
 
   pageTracker._setAllowAnchor(true);
   pageTracker._trackPageview();
@@ -29,6 +29,17 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 <script type="text/javascript" src="/js/thickbox.js?1"></script>
 <script type="text/javascript" src="/pwjsutils.js?7"></script>
+<script type="text/javascript" src="/js/superfish.js"></script><script type="text/javascript">  
+ 
+    $(document).ready(function(){ 
+        $("ul.sf-menu").superfish({ 
+		speed:  50,
+		dropShadows: true,
+		animation: {height:'show'}
+        }); 
+    }); 
+ 
+</script>
 
 <meta name="keywords" content="mashups, API, APIs, Web 2.0, code, open, SDK, web services, Programmable Web">
         <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
@@ -61,24 +72,76 @@ GA_googleFillSlotWithSize("ca-pub-6849360352586529", "site_leaderboard", 728, 90
 			<span>Hot APIs »</span><a href="/api/twitter">Twitter</a><a href="/api/youtube">YouTube</a><a href="/api/facebook">Facebook</a><a href="/api/google-maps">Google Maps</a><a href="/api/flickr">Flickr</a><a href="/api/linkedin">LinkedIn</a><a href="/apis/directory/1?sort=mashups">More »</a>
 		</div>
 		<div class="span-12 last">
-			<span>Latest news</span><a href="http://blog.programmableweb.com/2012/06/30/50-apis-used-in-7-days-last-fm-foursquare-and-dropbox/">50 APIs Used in 7 Days: Last.fm, Foursquare and Dropbox</a>
+			<span>Latest news</span><a href="http://blog.programmableweb.com/2012/12/14/moxies-engage-turns-facebook-fans-into-customers/">Moxie's Engage+ Turns Facebook Fans into Customers</a>
 		</div>
 	</div>
 	<div class="span-24">
-		<div class="navMain">			<div class="span-16"><ul>
+		<div class="navMain">			<div class="span-16"><ul id="pw-menu-1" class="sf-menu sf-navbar clearfix">
 				<li><a href="/">Home</a>
+					<ul class="menu">
+					<li class="first"><a href="/">PW Home</a></li>
+					<li class="last"><a href="/tour">Tour</a></li>
+					</ul>
 				</li>
 				<li><a href="http://blog.programmableweb.com/">API News</a>
+					<ul class="menu">
+					<li class="first"><a href="http://blog.programmableweb.com/">Blog Home</a></li>
+					<li><a href="http://blog.programmableweb.com//category/popular/">Recent Popular News</a></li>
+					<li><a href="http://blog.programmableweb.com//category/alltimepopular/">All Time Popular</a></li>
+					<li class="last"><a href="http://blog.programmableweb.com//category/featured/">Featured Articles</a></li>
+					</ul>
 				</li>
-				<li><a href="/apis">API Directory</a></li>
-				<li><a href="/mashups">Mashups</a></li>
-				<li><a href="/members">Community</a></li>
-				<li><a href="/code">How-to</a></li>
+				<li><a href="/apis">API Directory</a>
+					<ul class="menu">
+					<li class="first"><a href="/apis">API Dashboard</a></li>
+					<li><a href="/apis/directory">API Directory</a></li>
+					<li><a href="/apis/directory/1?sort=date">Newest APIs</a></li>
+					<li><a href="/apis/directory/1?sort=mashups">Most Popular APIs</a></li>
+					<li><a href="/apis/directory/1?sort=category">APIs By Category</a></li>
+					<li><a href="/scorecard">API Scorecard</a></li>
+					<li class="last"><a href="/addapi">Add an API</a></li>
+					</ul>
+				</li>
+				<li><a href="/mashups">Mashups</a>
+					<ul class="menu">
+					<li class="first"><a href="/mashups">Mashup Dashboard</a></li>
+					<li><a href="/mashups/directory">Mashup Directory</a></li>
+					<li><a href="/mashups/directory/1?sort=date">Newest Mashups</a></li>
+					<li><a href="/popular">Most Popular Mashups</a></li>
+					<li><a href="/mashup-tag-cloud">Mashup Tag Cloud</a></li>
+					<li><a href="/random">Random Mashup</a></li>
+					<li class="last"><a href="/share">Add a Mashup</a></li>
+					</ul>
+				</li>
+				<li><a href="/members">Community</a>
+					<ul class="menu">
+					<li class="first"><a href="/members">Dev Dashboard</a></li>
+					<li><a href="/members/directory">Community Directory</a></li>
+					<li><a href="/forum">Forum</a></li>
+					<li class="last"><a href="/map/">Member Map</a></li>
+					</ul>
+				</li>
+				<li><a href="/code">How-to</a>
+					<ul class="menu">
+					<li class="first"><a href="/code">Code Dashboard</a></li>
+					<li><a href="/howto">How-to Guide</a></li>
+					<li><a href="/reference">Reference</a></li>
+					<li><a href="/contests">Contests</a></li>
+					<li class="last"><a href="/faq">FAQ</a></li>
+					</ul>
+				</li>
+				<!--<li><a href="/contests">Contests</a>
+					<ul class="menu">
+					<li class="first"><a href="/code">Code Dashboard</a></li>
+					<li><a href="/contests">Contests</a></li>
+					</ul>
+				</li>-->
 				<!-- <li><a href="/markets" onclick="showDiv('topics_div'); return false;">API Topics</a></li> -->
-				<li><a href="/contests">Contests</a></li>
+				<!-- <li class="nochild"><a href="/contests">Contests</a></li> -->
 				<!---->
 			</ul></div>
-			<div class="subscribeicon span-8 last"><span>Subscribe:</span> <a href="http://feeds2.feedburner.com/ProgrammableWeb" title="Subscribe to ProgrammableWeb">RSS</a><a href="http://feedburner.google.com/fb/a/mailverify?uri=ProgrammableWeb&amp;loc=en_US" title="Sign-up for ProgrammableWeb Email Newsletter" class="email">Email</a><a href="http://twitter.com/programmableweb" title="Follow ProgrammableWeb on Twitter" class="t">Twitter</a><a href="http://www.facebook.com/pages/ProgrammableWeb/113029690931" title="Become a ProgrammableWeb Fan on Facebook" class="f">Facebook</a></div></div>
+			<div class="subscribeicon span-8 last"><span>Subscribe:</span> <a href="http://feeds2.feedburner.com/ProgrammableWeb" title="Subscribe to ProgrammableWeb">RSS</a><a href="http://feedburner.google.com/fb/a/mailverify?uri=ProgrammableWeb&amp;loc=en_US" title="Sign-up for ProgrammableWeb Email Newsletter" class="email">Email</a><a href="http://twitter.com/programmableweb" title="Follow ProgrammableWeb on Twitter" class="t">Twitter</a><a href="http://www.facebook.com/pages/ProgrammableWeb/113029690931" title="Become a ProgrammableWeb Fan on Facebook" class="f">Facebook</a>
+</div></div>
 	</div>
 	<div class="span-24"><div class="navSub">
 		<ul><li><span style="padding:1px 8px 2px 8px; display:inline-block;">&nbsp;</span></li></ul>
@@ -107,21 +170,22 @@ GA_googleFillSlotWithSize("ca-pub-6849360352586529", "top_right_1", 300, 50);
 </script>        <script type="text/javascript">
 GA_googleFillSlotWithSize("ca-pub-6849360352586529", "top_right_4", 300, 70);
 </script>        <script type="text/javascript">
-GA_googleFillSlotWithSize("ca-pub-6849360352586529", "top_right_6", 300, 70);
+GA_googleFillSlotWithSize("ca-pub-6849360352586529", "top_right_5", 300, 70);
 </script>        <script type="text/javascript">
 GA_googleFillSlotWithSize("ca-pub-6849360352586529", "top_right_3", 300, 70);
 </script>        <script type="text/javascript">
-GA_googleFillSlotWithSize("ca-pub-6849360352586529", "top_right_5", 300, 70);
+GA_googleFillSlotWithSize("ca-pub-6849360352586529", "top_right_2", 300, 70);
 </script></div>
                 <div class="spon125">        <script type="text/javascript">
-GA_googleFillSlotWithSize("ca-pub-6849360352586529", "square_A3", 125, 125);
-</script>        <script type="text/javascript">
-GA_googleFillSlotWithSize("ca-pub-6849360352586529", "square_A4", 125, 125);
-</script>        <script type="text/javascript">
 GA_googleFillSlotWithSize("ca-pub-6849360352586529", "square_B2", 125, 125);
+</script>        <script type="text/javascript">
+GA_googleFillSlotWithSize("ca-pub-6849360352586529", "square_A1", 125, 125);
+</script>        <script type="text/javascript">
+GA_googleFillSlotWithSize("ca-pub-6849360352586529", "square_A3", 125, 125);
 </script><p class="aCenter small quiet">
                 <a href="/sponsor" class="noDec">Become a ProgrammableWeb Sponsor</a>
             </p></div>
+                
                 			<div class="twitList">
 				<div id="bird"><img src="http://www.programmableweb.com/images/mini_twitter.png"></div>
 				<h3>Follow the PW team on Twitter</h3>
@@ -149,7 +213,6 @@ GA_googleFillSlotWithSize("ca-pub-6849360352586529", "square_B2", 125, 125);
 					</div>
 				</div>
 			</div>
-                
                 <script language="javascript" type="text/javascript">
 var pc1;
 $(function() {
@@ -165,18 +228,18 @@ $(function() {
 <style>
 .sideCol	li.btdash	{margin:0 0 0 20px; padding:0px; list-style:url(/images/basic_bullet.png);}
 </style>
-<![endif]--><ul class="arrow"><li><a href="http://blog.programmableweb.com/2012/06/13/the-new-api-apps-partners-income/" title="Click to read the whole story...">The New API: Apps, Partners, Income</a></li><li><a href="http://blog.programmableweb.com/2012/05/22/6000-apis-its-business-its-social-and-its-happening-quickly/" title="Click to read the whole story...">6,000 APIs: It's Business, It's Social and It's Happening Quickly</a></li><li><a href="http://blog.programmableweb.com/2012/02/06/5000-apis-facebook-google-and-twitter-are-changing-the-web/" title="Click to read the whole story...">5,000 APIs: Facebook, Google and Twitter Are Changing the Web</a></li><li><a href="http://blog.programmableweb.com/2012/02/02/jobseekers-invited-to-apply-via-api/" title="Click to read the whole story...">Jobseekers Invited to "Apply Via API"</a></li><li><a href="http://blog.programmableweb.com/2012/01/04/over-2000-apis-added-in-2011-social-telephony-open-government/" title="Click to read the whole story...">Over 2,000 APIs Added in 2011: Social, Telephony, Open Government</a></li><li><a href="http://blog.programmableweb.com/2011/10/03/4000-web-apis-whats-hot-and-whats-next/" title="Click to read the whole story...">4,000 Web APIs: What's Hot and What's Next?</a></li><li><a href="http://blog.programmableweb.com/2011/05/25/1-in-5-apis-say-bye-xml/" title="Click to read the whole story...">1 in 5 APIs Say "Bye XML"</a></li><li><a href="http://blog.programmableweb.com/2011/05/25/who-belongs-to-the-api-billionaires-club/" title="Click to read the whole story...">Who Belongs to the API Billionaires Club?</a></li><li><a href="http://blog.programmableweb.com/2011/03/08/3000-web-apis/" title="Click to read the whole story...">3,000 Web APIs: Trends From a Quickly Growing Directory</a></li><li><a href="http://blog.programmableweb.com/2011/01/03/api-growth-doubles-in-2010-social-and-mobile-are-trends/" title="Click to read the whole story...">API Growth Doubles in 2010, Social and Mobile Are Trends</a></li></ul><p></p><a href="http://blog.programmableweb.com/category/popular/" title="More popular news" class="more">More popular news</a><p></p>
+<![endif]--><ul class="arrow"><li><a href="http://blog.programmableweb.com/2012/11/26/8000-apis-rise-of-the-enterprise/" title="Click to read the whole story...">8,000 APIs: Rise of the Enterprise</a></li><li><a href="http://blog.programmableweb.com/2012/09/14/this-is-not-the-craigslist-api-youre-looking-for/" title="Click to read the whole story...">This is Not the Craigslist API You're Looking For</a></li><li><a href="http://blog.programmableweb.com/2012/08/28/google-weather-api-never-supported-finally-disconnected/" title="Click to read the whole story...">Google Weather API</a></li><li><a href="http://blog.programmableweb.com/2012/08/23/7000-apis-twice-as-many-as-this-time-last-year/" title="Click to read the whole story...">7,000 APIs: Twice as Many as This Time Last Year</a></li><li><a href="http://blog.programmableweb.com/2012/08/03/top-10-api-worst-practices/" title="Click to read the whole story...">Top 10 API Worst Practices</a></li><li><a href="http://blog.programmableweb.com/2012/07/30/predict-the-future-with-google-prediction-api/" title="Click to read the whole story...">Predict the future with Google Prediction API </a></li><li><a href="http://blog.programmableweb.com/2012/07/19/what-makes-a-great-api-the-five-keys/" title="Click to read the whole story...">What Makes a Great API? The Five Keys</a></li><li><a href="http://blog.programmableweb.com/2012/06/13/the-new-api-apps-partners-income/" title="Click to read the whole story...">The New API: Apps, Partners, Income</a></li><li><a href="http://blog.programmableweb.com/2012/05/22/6000-apis-its-business-its-social-and-its-happening-quickly/" title="Click to read the whole story...">6,000 APIs: It's Business, It's Social and It's Happening Quickly</a></li><li><a href="http://blog.programmableweb.com/2012/03/01/23-alternatives-to-google-maps/" title="Click to read the whole story...">23 Google Maps Alternatives</a></li></ul><p></p><a href="http://blog.programmableweb.com/category/popular/" title="More popular news" class="more">More popular news</a><p></p>
         </div>
         <div id="pt-2" class="inside">
-        <ul class="arrow"><li><a href="/api/google-maps" title="&nbsp;">Google Maps (21 mashups)</a></li><li><a href="/api/twitter" title="&nbsp;">Twitter (19 mashups)</a></li><li><a href="/api/facebook" title="&nbsp;">Facebook (13 mashups)</a></li><li><a href="/api/youtube" title="&nbsp;">YouTube (11 mashups)</a></li><li><a href="/api/bing" title="&nbsp;">Bing (8 mashups)</a></li><li><a href="/api/flickr" title="&nbsp;">Flickr (8 mashups)</a></li><li><a href="/api/buzzdata" title="&nbsp;">BuzzData (5 mashups)</a></li><li><a href="/api/amazon-s3" title="&nbsp;">Amazon S3 (4 mashups)</a></li><li><a href="/api/twilio" title="&nbsp;">Twilio (4 mashups)</a></li><li><a href="/api/yahoo-search" title="&nbsp;">Yahoo Search (4 mashups)</a></li></ul>
+        <ul class="arrow"><li><a href="/api/google-maps" title="&nbsp;">Google Maps (21 mashups)</a></li><li><a href="/api/facebook" title="&nbsp;">Facebook (13 mashups)</a></li><li><a href="/api/twitter" title="&nbsp;">Twitter (10 mashups)</a></li><li><a href="/api/youtube" title="&nbsp;">YouTube (7 mashups)</a></li><li><a href="/api/facebook-graph" title="&nbsp;">Facebook Graph (7 mashups)</a></li><li><a href="/api/instagram" title="&nbsp;">Instagram (6 mashups)</a></li><li><a href="/api/your-mapper" title="&nbsp;">Your Mapper  (6 mashups)</a></li><li><a href="/api/amazon-product-advertising" title="&nbsp;">Amazon Product Advertising (3 mashups)</a></li><li><a href="/api/musicbrainz" title="&nbsp;">MusicBrainz (3 mashups)</a></li><li><a href="/api/last.fm" title="&nbsp;">Last.fm (2 mashups)</a></li></ul>
         Most new mashups last 60 days
         </div>
         <div id="pt-3" class="inside">
-        <ul class="arrow"><li><a href="/mashup/mapsavings.com/popnew">MapSavings.com</a></li><li><a href="/mashup/best-city-in-the-world/popnew">Best City In The World</a></li><li><a href="/mashup/world-livability/popnew">World Livability</a></li><li><a href="/mashup/awesome-cities-map/popnew">Awesome Cities Map</a></li><li><a href="/mashup/choose-your-best-city/popnew">Choose Your Best City</a></li><li><a href="/mashup/best-city-selector/popnew">Best City Selector</a></li><li><a href="/mashup/twendr/popnew">TwendR</a></li><li><a href="/mashup/crime-near-you/popnew">Crime Near You</a></li><li><a href="/mashup/moredeets/popnew">MoreDeets</a></li><li><a href="/mashup/file2cart/popnew">File2Cart</a></li></ul>
+        <ul class="arrow"><li><a href="/mashup/open-city-agora/popnew">Open City Agora</a></li><li><a href="/mashup/gif-spinner/popnew">GIF Spinner</a></li><li><a href="/mashup/youzeek/popnew">YOUZEEK</a></li><li><a href="/mashup/in1.com/popnew">in1.com</a></li><li><a href="/mashup/webklang-instant-harmony/popnew">webklang instant harmony</a></li><li><a href="/mashup/similarkind/popnew">similarkind</a></li><li><a href="/mashup/ukbirdcount/popnew">UKBirdCount</a></li><li><a href="/mashup/piesync-power-of-highrise-in-google-apps/popnew">PieSync - Power of Highrise in Google Apps</a></li><li><a href="/mashup/wishmindr/popnew">WishMindr</a></li><li><a href="/mashup/azcentral.com-2012-voters-guide/popnew">azcentral.com 2012 Voters Guide</a></li></ul>
         </div>
 </div><!-- end linkBox pc-1 -->
 	<!-- [PopularTabs, 86400] -->
-<!-- Cached page saved 06/30/2012 00:40:03 -->
+<!-- Cached page saved 12/14/2012 00:40:03 -->
 
 				<div class="r125 mT15"></div>
 				<br>&nbsp;
@@ -186,10 +249,10 @@ $(function() {
 	<div class="bgBlue shadow padTB15"><div class="ffeatured">
 		<ul class="clearfix">
 		<li class="text title">Featured APIs</li>
-		<li><a href="/api/ip-commerce"><img src="/images/apis/at2428.png"></a></li>
 		<li><a href="/api/aculab-cloud"><img src="/images/apis/at3754.png"></a></li>
-		<li><a href="/api/docusign-enterprise"><img src="/images/apis/at737.png"></a></li>
 		<li><a href="/api/constantcontact"><img src="/images/apis/at1280.png"></a></li>
+		<li><a href="/api/twilio"><img src="/images/apis/at1330.png"></a></li>
+		<li><a href="/api/vantiv-solution-builder"><img src="/images/apis/at3493.png"></a></li>
 		<li class="text small quiet"><a href="/sponsor">Get your API featured</a></li>
 		</ul>
 	</div></div>
@@ -200,7 +263,7 @@ $(function() {
 		<div class="span-3"><dl><dt>Mashups</dt><dd><a href="/mashups">Dashboard</a></dd><dd><a href="/mashups/directory">Directory</a></dd><dd><a href="/mashup-tag-cloud">Tag cloud</a></dd></dl></div>
 		<div class="span-3"><dl><dt>APIs</dt><dd><a href="/apis">Dashboard</a></dd><dd><a href="/apis/directory">API Directory</a></dd><dd><a href="/scorecard">API Scorecard</a></dd><dd><a href="/addapi">Add an API</a></dd></dl></div>
 		<div class="span-3"><dl><dt>Topics</dt><dd><a href="/markets">Dashboard</a></dd><dd><a href="/government">Government</a></dd><dd><a href="/mapping">Mapping</a></dd><dd><a href="/telephony">Mobile-Telephony</a></dd><dd><a href="/music">Music</a></dd><dd><a href="/photo">Photo</a></dd><dd><a href="/shopping">Shopping</a></dd><dd><a href="/social">Social</a></dd><dd><a href="/video">Video</a></dd></dl></div>
-		<div class="span-3"><dl><dt>Code</dt><dd><a href="/code">Dashboard</a></dd><dd><a href="/howto">How-To Guide</a></dd>
+		<div class="span-3"><dl><dt>How-To</dt><dd><a href="/code">Dashboard</a></dd><dd><a href="/howto">How-To Guide</a></dd>
 		<!--<dd><a href="/contests">Contests</a></dd><dd><a href="/reference">Reference</a></dd>-->
 		</dl></div>
 		<div class="span-3"><dl><dt>Members</dt><dd><a href="/members">Dashboard</a></dd><dd><a href="/members/directory">Directory</a></dd><dd><a href="/forum">Forum</a></dd><dd><a href="/map/">Member Map</a></dd></dl></div>
