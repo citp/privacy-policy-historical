@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabscout.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615173939id_/http%3A//www.tabscout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabscout.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214082754id_/http%3A//www.tabscout.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TabScout
 
@@ -16,6 +16,7 @@
     
     
     By using our Web site, you consent to the collection and use of this information by TabScout.com.
+    At some point TabScout may share information with selected partners who work with us to deliver services.
     If we decide to change our privacy policy, we will post the changes on this page so that you are
     always aware of what information we collect, how we use it, and under what circumstances we disclose it.
     Currently, TabScout.com may provide aggregate statistics about our traffic patterns, and related 
@@ -23,6 +24,12 @@
     identifying information.
     
     
+    
+    Newsletter Anti-Spam Policy tolerates only permission-based email. In addition, users always have the opportunity
+    to opt-out or change preferences via a link in the footer of all non-transactional email messages.
+    These options are made available when you sign-up for our email lists and in email messages delivered from our company.
+    Alternatively, you may email us. If you believe that you have received an unsolicited commercial email from Newsletter
+    on behalf of any of our customers, you may report it to us.
     
     **Modification of Privacy Policy**
     
