@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the justthejob.co.za privacy policy that was archived on 2012-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614234242id_/http%3A//www.justthejob.co.za/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the justthejob.co.za privacy policy that was archived on 2012-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121214014537id_/http%3A//www.justthejob.co.za/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>privacy policy</title>
@@ -160,313 +160,14 @@ pageTracker._trackPageview();
 <td width="92%"><a href=""><img src="/images/big/283916105.jpg" border="0"></a></td>
 <td width="8%" align="right" valign="bottom" style="padding-right:5px">
 <div id="banner" style="margin-left:0px;width:800px"></div>
-<script language="JavaScript" type="text/javascript">
-<!--
-//v1.7
-// Flash Player Version Detection
-// Detect Client Browser type
-// Copyright 2005-2008 Adobe Systems Incorporated.  All rights reserved.
-var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
-var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
-var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
-function ControlVersion()
-{
-	var version;
-	var axo;
-	var e;
-	// NOTE : new ActiveXObject(strFoo) throws an exception if strFoo isn't in the registry
-	try {
-		// version will be set for 7.X or greater players
-		axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7");
-		version = axo.GetVariable("$version");
-	} catch (e) {
-	}
-	if (!version)
-	{
-		try {
-			// version will be set for 6.X players only
-			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");
-			
-			// installed player is some revision of 6.0
-			// GetVariable("$version") crashes for versions 6.0.22 through 6.0.29,
-			// so we have to be careful. 
-			
-			// default to the first public version
-			version = "WIN 6,0,21,0";
-			// throws if AllowScripAccess does not exist (introduced in 6.0r47)		
-			axo.AllowScriptAccess = "always";
-			// safe to call for 6.0r47 or greater
-			version = axo.GetVariable("$version");
-		} catch (e) {
-		}
-	}
-	if (!version)
-	{
-		try {
-			// version will be set for 4.X or 5.X player
-			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
-			version = axo.GetVariable("$version");
-		} catch (e) {
-		}
-	}
-	if (!version)
-	{
-		try {
-			// version will be set for 3.X player
-			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
-			version = "WIN 3,0,18,0";
-		} catch (e) {
-		}
-	}
-	if (!version)
-	{
-		try {
-			// version will be set for 2.X player
-			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash");
-			version = "WIN 2,0,0,11";
-		} catch (e) {
-			version = -1;
-		}
-	}
-	
-	return version;
-}
-// JavaScript helper required to detect Flash Player PlugIn version information
-function GetSwfVer(){
-	// NS/Opera version >= 3 check for Flash plugin in plugin array
-	var flashVer = -1;
-	
-	if (navigator.plugins != null && navigator.plugins.length > 0) {
-		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
-			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
-			var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
-			var descArray = flashDescription.split(" ");
-			var tempArrayMajor = descArray[2].split(".");			
-			var versionMajor = tempArrayMajor[0];
-			var versionMinor = tempArrayMajor[1];
-			var versionRevision = descArray[3];
-			if (versionRevision == "") {
-				versionRevision = descArray[4];
-			}
-			if (versionRevision[0] == "d") {
-				versionRevision = versionRevision.substring(1);
-			} else if (versionRevision[0] == "r") {
-				versionRevision = versionRevision.substring(1);
-				if (versionRevision.indexOf("d") > 0) {
-					versionRevision = versionRevision.substring(0, versionRevision.indexOf("d"));
-				}
-			}
-			var flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
-		}
-	}
-	// MSN/WebTV 2.6 supports Flash 4
-	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
-	// WebTV 2.5 supports Flash 3
-	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
-	// older WebTV supports Flash 2
-	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
-	else if ( isIE && isWin && !isOpera ) {
-		flashVer = ControlVersion();
-	}	
-	return flashVer;
-}
-// When called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
-function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision)
-{
-	versionStr = GetSwfVer();
-	if (versionStr == -1 ) {
-		return false;
-	} else if (versionStr != 0) {
-		if(isIE && isWin && !isOpera) {
-			// Given "WIN 2,0,0,11"
-			tempArray         = versionStr.split(" "); 	// ["WIN", "2,0,0,11"]
-			tempString        = tempArray[1];			// "2,0,0,11"
-			versionArray      = tempString.split(",");	// ['2', '0', '0', '11']
-		} else {
-			versionArray      = versionStr.split(".");
-		}
-		var versionMajor      = versionArray[0];
-		var versionMinor      = versionArray[1];
-		var versionRevision   = versionArray[2];
-        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
-		if (versionMajor > parseFloat(reqMajorVer)) {
-			return true;
-		} else if (versionMajor == parseFloat(reqMajorVer)) {
-			if (versionMinor > parseFloat(reqMinorVer))
-				return true;
-			else if (versionMinor == parseFloat(reqMinorVer)) {
-				if (versionRevision >= parseFloat(reqRevision))
-					return true;
-			}
-		}
-		return false;
-	}
-}
-function AC_AddExtension(src, ext)
-{
-  if (src.indexOf('?') != -1)
-    return src.replace(/?/, ext+'?'); 
-  else
-    return src + ext;
-}
-function AC_Generateobj(objAttrs, params, embedAttrs) 
-{ 
-  var str = '';
-  if (isIE && isWin && !isOpera)
-  {
-    str += '<object ';
-    for (var i in objAttrs)
-    {
-      str += i + '="' + objAttrs[i] + '" ';
-    }
-    str += '>';
-    for (var i in params)
-    {
-      str += '<param name="' + i + '" value="' + params[i] + '" /> ';
-    }
-    str += '</object>';
-  }
-  else
-  {
-    str += '<embed ';
-    for (var i in embedAttrs)
-    {
-      str += i + '="' + embedAttrs[i] + '" ';
-    }
-    str += '> </embed>';
-  }
-  document.write(str);
-}
-function AC_FL_RunContent(){
-  var ret = 
-    AC_GetArgs
-    (  arguments, ".swf", "movie", "clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
-     , "application/x-shockwave-flash"
-    );
-  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
-}
-function AC_SW_RunContent(){
-  var ret = 
-    AC_GetArgs
-    (  arguments, ".dcr", "src", "clsid:166B1BCA-3F9C-11CF-8075-444553540000"
-     , null
-    );
-  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
-}
-function AC_GetArgs(args, ext, srcParamName, classid, mimeType){
-  var ret = new Object();
-  ret.embedAttrs = new Object();
-  ret.params = new Object();
-  ret.objAttrs = new Object();
-  for (var i=0; i < args.length; i=i+2){
-    var currArg = args[i].toLowerCase();    
-    switch (currArg){	
-      case "classid":
-        break;
-      case "pluginspage":
-        ret.embedAttrs[args[i]] = args[i+1];
-        break;
-      case "src":
-      case "movie":	
-        args[i+1] = AC_AddExtension(args[i+1], ext);
-        ret.embedAttrs["src"] = args[i+1];
-        ret.params[srcParamName] = args[i+1];
-        break;
-      case "onafterupdate":
-      case "onbeforeupdate":
-      case "onblur":
-      case "oncellchange":
-      case "onclick":
-      case "ondblclick":
-      case "ondrag":
-      case "ondragend":
-      case "ondragenter":
-      case "ondragleave":
-      case "ondragover":
-      case "ondrop":
-      case "onfinish":
-      case "onfocus":
-      case "onhelp":
-      case "onmousedown":
-      case "onmouseup":
-      case "onmouseover":
-      case "onmousemove":
-      case "onmouseout":
-      case "onkeypress":
-      case "onkeydown":
-      case "onkeyup":
-      case "onload":
-      case "onlosecapture":
-      case "onpropertychange":
-      case "onreadystatechange":
-      case "onrowsdelete":
-      case "onrowenter":
-      case "onrowexit":
-      case "onrowsinserted":
-      case "onstart":
-      case "onscroll":
-      case "onbeforeeditfocus":
-      case "onactivate":
-      case "onbeforedeactivate":
-      case "ondeactivate":
-      case "type":
-      case "codebase":
-      case "id":
-        ret.objAttrs[args[i]] = args[i+1];
-        break;
-      case "width":
-      case "height":
-      case "align":
-      case "vspace": 
-      case "hspace":
-      case "class":
-      case "title":
-      case "accesskey":
-      case "name":
-      case "tabindex":
-        ret.embedAttrs[args[i]] = ret.objAttrs[args[i]] = args[i+1];
-        break;
-      default:
-        ret.embedAttrs[args[i]] = ret.params[args[i]] = args[i+1];
-    }
-  }
-  ret.objAttrs["classid"] = classid;
-  if (mimeType) ret.embedAttrs["type"] = mimeType;
-  return ret;
-}
-// -->
-</script>  <!--url's used in the movie-->
-<p>&nbsp;</p>
-<!--text used in the movie--> <!-- saved from url=(0013)about:internet --> <script language="JavaScript" type="text/javascript">
-	AC_FL_RunContent(
-		'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0',
-		'width', '800',
-		'height', '124',
-		'src', 'http://www.justthejob.co.za/banner ad',
-		'quality', 'high',
-		'pluginspage', 'http://www.adobe.com/go/getflashplayer',
-		'align', 'middle',
-		'play', 'true',
-		'loop', 'true',
-		'scale', 'showall',
-		'wmode', 'window',
-		'devicefont', 'false',
-		'id', 'banner ad',
-		'bgcolor', '#ffffff',
-		'name', 'banner ad',
-		'menu', 'true',
-		'allowFullScreen', 'false',
-		'allowScriptAccess','sameDomain',
-		'movie', 'banner ad',
-		'salign', ''
-		); //end AC code
-</script><embed width="800" height="124" src="banner ad.swf" quality="high" pluginspage="http://www.adobe.com/go/getflashplayer" align="middle" play="true" loop="true" scale="showall" wmode="window" devicefont="false" bgcolor="#ffffff" name="banner ad" menu="true" allowfullscreen="false" allowscriptaccess="sameDomain" salign="" type="application/x-shockwave-flash">  <noscript>
-	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="800" height="124" id="banner ad" align="middle">
-	<param name="allowScriptAccess" value="sameDomain" />
-	<param name="allowFullScreen" value="false" />
-	<param name="movie" value="http://www.justthejob.co.za/banner ad.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" />	<embed src="http://www.justthejob.co.za/banner ad.swf" quality="high" bgcolor="#ffffff" width="800" height="124" name="banner ad" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer" />
-	</object>
-</noscript>
+<script><!--
+google_ad_client = "ca-pub-3379090624280097";
+/* top */
+google_ad_slot = "5614098142";
+google_ad_width = 728;
+google_ad_height = 90;
+//--> </script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
 
 
 </td>
@@ -483,14 +184,15 @@ function AC_GetArgs(args, ext, srcParamName, classid, mimeType){
 	<td valign="middle" class="navigation" align="center">
 		<a href="http://www.justthejob.co.za">Home</a> |
 		<a href="/jobseekers.html">Jobseekers</a> |
-		
-		<a href="/employers.html">Employers</a> |
+        <a href="/cv.php">CV Writing</a> |
+        <a href="/jobseekers/trainingpreview.php ">How to Apply for a Job</a> |
 		<a href="http://www.justthejob.co.za/educators.php">Education and Training</a> |
-		<a href="/cv.php">CV Writing</a> |
+		<a href="/employers.html">Employers</a> |
+		
+		
 		
 		<!-- <a href="/start-you-own-business.php">Start Your Own Business</a> | -->
 		<a href="/faq.html">FAQ</a> |
-		<a href="/blog" target="_blank">Blog</a> |
 		<a href="/contact.html">Contact</a></td>
 </tr>
 </tbody></table>
@@ -575,92 +277,92 @@ window.onload=initializemarquee
     
 <table width="100%" border="0" cellspacing="0" cellpadding="2">
 <tbody><tr>
-<td align="left" colspan="2"><b><a href="/info_jobid_94178.html">Java Developer</a></b>
+<td align="left" colspan="2"><b><a href="/info_jobid_138740.html">Area Manager/s</a></b>
 <small>
-<br><b>Hours:</b> Monday - Friday<br><b>Job Location:</b>
-Johannesburg, South Africa<br>
-<b>Salary:</b> Market Related</small> 
+<br><b>Hours:</b> <br><b>Job Location:</b>
+West Coast, South Africa<br>
+<b>Salary:</b> market related</small> 
 <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
 </td>
 </tr>
 <tr>
-<td align="left" colspan="2"><b><a href="/info_jobid_94177.html">Customer service/ orders</a></b>
+<td align="left" colspan="2"><b><a href="/info_jobid_138739.html">Lecturer: Mathematics</a></b>
 <small>
-<br><b>Hours:</b> Monday - Friday<br><b>Job Location:</b>
-Johannesburg, South Africa<br>
-<b>Salary:</b> R15000 Per Month</small> 
+<br><b>Hours:</b> <br><b>Job Location:</b>
+Western Cape, South Africa<br>
+<b>Salary:</b> market related</small> 
 <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
 </td>
 </tr>
 <tr>
-<td align="left" colspan="2"><b><a href="/info_jobid_94176.html">Courier &amp; Road Freight Sales Executive</a></b>
+<td align="left" colspan="2"><b><a href="/info_jobid_138738.html">Project Engineer</a></b>
 <small>
-<br><b>Hours:</b> Monday - Friday<br><b>Job Location:</b>
-Durban, South Africa<br>
-<b>Salary:</b> R21000 - R23000 Per Month</small> 
+<br><b>Hours:</b> <br><b>Job Location:</b>
+Western Cape, South Africa<br>
+<b>Salary:</b> R650k + neg</small> 
 <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
 </td>
 </tr>
 <tr>
-<td align="left" colspan="2"><b><a href="/info_jobid_94175.html">Sales Executive C &amp; F</a></b>
+<td align="left" colspan="2"><b><a href="/info_jobid_138737.html">Lecturer: Fitting &amp; Turning</a></b>
 <small>
-<br><b>Hours:</b> Monday - Friday<br><b>Job Location:</b>
-Johannesburg, South Africa<br>
-<b>Salary:</b> R20000 - R30000 Per Month</small> 
+<br><b>Hours:</b> <br><b>Job Location:</b>
+Western Cape, South Africa<br>
+<b>Salary:</b> market related</small> 
 <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
 </td>
 </tr>
 <tr>
-<td align="left" colspan="2"><b><a href="/info_jobid_94174.html">Road Freight Import Controller</a></b>
+<td align="left" colspan="2"><b><a href="/info_jobid_138736.html">Data Monitor</a></b>
 <small>
-<br><b>Hours:</b> Monday - Friday<br><b>Job Location:</b>
-Durban, South Africa<br>
-<b>Salary:</b> R20000 - R25000 Per Month</small> 
+<br><b>Hours:</b> <br><b>Job Location:</b>
+West Coast, South Africa<br>
+<b>Salary:</b> market related</small> 
 <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
 </td>
 </tr>
 <tr>
-<td align="left" colspan="2"><b><a href="/info_jobid_94173.html">Forwarding Manager</a></b>
+<td align="left" colspan="2"><b><a href="/info_jobid_138735.html">Plant Engineer</a></b>
 <small>
-<br><b>Hours:</b> Monday - Friday<br><b>Job Location:</b>
-Durban, South Africa<br>
-<b>Salary:</b> Negotiable</small> 
+<br><b>Hours:</b> <br><b>Job Location:</b>
+Western Cape, South Africa<br>
+<b>Salary:</b> R650k + neg</small> 
 <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
 </td>
 </tr>
 <tr>
-<td align="left" colspan="2"><b><a href="/info_jobid_94172.html">Solutions Manager</a></b>
+<td align="left" colspan="2"><b><a href="/info_jobid_138734.html">Lecturer: Electrical</a></b>
 <small>
-<br><b>Hours:</b> Monday - Friday<br><b>Job Location:</b>
-Gauteng, South Africa<br>
-<b>Salary:</b> Negotiable</small> 
+<br><b>Hours:</b> <br><b>Job Location:</b>
+Western Cape, South Africa<br>
+<b>Salary:</b> market related</small> 
 <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
 </td>
 </tr>
 <tr>
-<td align="left" colspan="2"><b><a href="/info_jobid_94171.html">Route Controller</a></b>
+<td align="left" colspan="2"><b><a href="/info_jobid_138733.html">Central Planner</a></b>
 <small>
-<br><b>Hours:</b> Monday - Friday<br><b>Job Location:</b>
-Benoni, South Africa<br>
-<b>Salary:</b> R15000 - R18000 Per Year</small> 
+<br><b>Hours:</b> <br><b>Job Location:</b>
+Montague Gardens, South Africa<br>
+<b>Salary:</b> market related</small> 
 <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
 </td>
 </tr>
 <tr>
-<td align="left" colspan="2"><b><a href="/info_jobid_94170.html">Estimator (Imports/Exports) </a></b>
+<td align="left" colspan="2"><b><a href="/info_jobid_138732.html">E-learning Developer</a></b>
 <small>
-<br><b>Hours:</b> Monday - Friday<br><b>Job Location:</b>
-Johannesburg, South Africa<br>
-<b>Salary:</b> Negotiable</small> 
+<br><b>Hours:</b> <br><b>Job Location:</b>
+Western Cape, South Africa<br>
+<b>Salary:</b> market related</small> 
 <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
 </td>
 </tr>
 <tr>
-<td align="left" colspan="2"><b><a href="/info_jobid_94169.html">Outbound Manager</a></b>
+<td align="left" colspan="2"><b><a href="/info_jobid_138731.html">Accounting Clerk</a></b>
 <small>
-<br><b>Hours:</b> Monday - Friday<br><b>Job Location:</b>
-Gauteng, South Africa<br>
-<b>Salary:</b> Negotiable</small> 
+<br><b>Hours:</b> <br><b>Job Location:</b>
+Cape Town, South Africa<br>
+<b>Salary:</b> negotiable</small> 
 <hr style="background-color: rgb(204, 204, 204);" width="100%" size="1" noshade="noshade" color="#cccccc">
 </td>
 </tr>
@@ -894,7 +596,7 @@ google_ad_height = 200;
 	//-->
 </script> <script type="text/javascript" src="http://static.uk.addynamo.com/ad/js/deliverAds.js"></script></td></tr></tbody></table>
 <table width="100%" border="0">
-<tbody><tr><td align="center"><p><a href="mailto:dalene@justthejob.co.za?subject=Advertise in Educator Section - enquiry"><img src="http://www.justthejob.co.za/banner/63.jpg" alt="Education institutions and  training providers advertise in Just the Job Educator's section"></a></p></td></tr></tbody></table>
+</table>
 <table width="100%" border="0">
 <tbody><tr><td align="center"><script type="text/javascript"><!--
 google_ad_client = "ca-pub-3379090624280097";
@@ -904,7 +606,7 @@ google_ad_width = 160;
 google_ad_height = 600;
 //-->
 </script> <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></td></tr></tbody></table>
+</script></td></tr><tr><td align="center"><p><a href="mailto:dalene@justthejob.co.za?subject=Advertise in Educator Section - enquiry"><img alt="Education institutions and  training providers advertise in Just the Job Educator's section" src="http://www.justthejob.co.za/banner/63.jpg"></a></p></td></tr></tbody></table>
 
 <table width="100%" cellpadding="0" cellspacing="0">
 
