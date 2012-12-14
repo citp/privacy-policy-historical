@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randstadusa.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630182716id_/http%3A//www.randstadusa.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randstadusa.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214182229id_/http%3A//www.randstadusa.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -55,4 +55,4 @@ Randstad will keep your personal information as long as we believe we may need i
 Job seekers may review and update, or remove, their job seeker profile directly from the website from time to time. You may also contact us and ask to see your job seeker profile and choices, and you may advise us of any changes or inaccuracies in such profile and choices and we will update or correct as appropriate. 
 
 **Contacting Randstad  
-**If you have any questions, comments or concerns regarding this Privacy Policy, please [contact us](https://web.archive.org/aboutRandstad/contactus.aspx "contact us"). 
+**If you have any questions, comments or concerns regarding this Privacy Policy, please [contact us](https://web.archive.org/about-randstad/contact-us "contact us"). 
