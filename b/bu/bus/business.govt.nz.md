@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business.govt.nz privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515024123id_/http%3A//www.business.govt.nz/resolveUid/79188347f5fe4c72e9d60be3b4e5df17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.govt.nz privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214071850id_/http%3A//www.business.govt.nz/resolveuid/070cbbd2a6cfe632882a9b72fde8cc5a) for the most accurate reproduction.*
 
 # Privacy | Business.govt.nz
 
@@ -9,12 +9,19 @@ Any identifiable personal information collected by Business.govt.nz through this
 We use web measurement tools to collect statistical information about your visit. We use this information to help us understand how people are using Business.govt.nz and to improve the site. These tools do not identify the individuals using the site. We can see a record of what people do on the site, but not who they are. The information we collect includes:
 
   * Your top level domain name, for example .co.nz
+
   * The search terms you use
+
   * The pages you visit on the site and the links you select
+
   * The date, time and duration of your visit
+
   * The site you visited before arriving at business.govt.nz
+
   * Your operating system, for example Windows XP, Mac OS
+
   * The type of internet browser you are using to view business.govt.nz, for example Internet Explorer.
+
 
 
 
@@ -24,7 +31,7 @@ This site also uses Google Analytics, a web analytics service provided by Google
 
  **Business.govt.nz calendar**
 
-Please note that the Business.govt.nz calendar is a service provided by Trumba Corporation ("Trumba" - [www.trumba.com](http://www.trumba.com/)). If you choose to use the Event Actions function in the calendar, for example to subscribe to a calendar, request calendar reminders, or download calendar information, you may be prompted by Trumba to provide personal information such as your name and email address. Personal information provided to Trumba is subject to the Trumba Privacy Policy and Terms of Use.
+Please note that the Business.govt.nz calendar is a service provided by Trumba Corporation ("Trumba" - [www.trumba.com](http://www.trumba.com/)). If you choose to use the Event Actions function in the calendar, for example to subscribe to a calendar, request calendar reminders, or download calendar information, you may be prompted by Trumba to provide personal information such as your name and email address. Personal information provided to Trumba is subject to the Trumba Privacy Policy and Terms of Use.
 
 The Trumba Privacy Policy can be viewed at:
 
@@ -36,4 +43,8 @@ The Trumba Terms and Conditions of Use can be viewed at:
 
 When you use Trumba Events Actions you consent to the Trumba Privacy Policy and Terms and Conditions of Use.
 
-[Contact us](https://www.business.govt.nz/help-support/contact-business.govt.nz) if you have an enquiry or concern about our privacy policy
+ **Search Results**
+
+Business.govt.nz provides visitors the opportunity to search the New Zealand Companies Register through a web service, with results displayed on the Business.govt.nz website. Public information held on the Companies Register includes director and shareholder names and addresses which may appear on Business.govt.nz as the result of a search.
+
+[Contact us](https://www.business.govt.nz/help-support/contact-business.govt.nz) if you have an enquiry or concern about our privacy policy.
