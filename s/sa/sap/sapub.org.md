@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sapub.org privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604045341id_/http%3A//www.sapub.org/journal/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sapub.org privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214092241id_/http%3A//www.sapub.org/journal/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Scientific & Academic Publishing: Privacy policy
 
@@ -23,3 +23,5 @@ We take every reasonable measure necessary and continue to make high-quality saf
 We reserve the right to change this policy at any time. Please check this page periodically for updates and changes. This policy is effective on May 20, 2012.
 
 If you believe any of the information we have about you is incomplete or incorrect, please contact us. We will promptly correct any inaccurate information. If you have any questions or comments regarding this Privacy Policy or our privacy practices, please contact us at [service@sapub.org](mailto:service@sapub.org)
+
+Just enter your email address below,we will share with you the latest information of journals published by SAP. Plus,you can easily unsubscribe at any time, and we'll never share your email address with anyone.
