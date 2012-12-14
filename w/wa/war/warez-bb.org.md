@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warez-bb.org privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510211021id_/http%3A//www.warez-bb.org/profile.php%3Fmode%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warez-bb.org privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214024712id_/http%3A//www.warez-bb.org/profile.php%3Fmode%3Dpp) for the most accurate reproduction.*
 
 # :: Warez-BB.org
 
@@ -62,5 +62,22 @@
 > 
 > For any questions or inquiries about our privacy policy, you can contact us at privacy(at)warez-bb(dot)org
 > 
-> _*Cookie  
->  A cookie is a small file that a Web server sends to your browser. It is normally used to assign your computer a unique identification and securely store information: identity of the user, passwords, preferences, online profiles. It is stored on the hard drive of your computer. You can refuse to have cookies delivered by Warez-BB sites by changing the settings of your browser. Cookies installed in your computer can come from many Internet sites. To protect the confidentiality of data, your browser allows Web sites to access cookies they themselves have sent, not to those that others have sent. _
+> _*Cookie
+> 
+> A cookie is a small file that a Web server sends to your browser. It is normally used to assign your computer a unique identification and securely store information: identity of the user, passwords, preferences, online profiles. It is stored on the hard drive of your computer. You can refuse to have cookies delivered by Warez-BB sites by changing the settings of your browser. Cookies installed in your computer can come from many Internet sites. To protect the confidentiality of data, your browser allows Web sites to access cookies they themselves have sent, not to those that others have sent.
+> 
+> In order to be granted access to the Service, you hereby accept to be subject to the cookie files and other beacons we serve here. The complete list of cookie files as well as the function they perform is listed below.
+> 
+> _WBB_data | Contains encrypted session data, which is used for authentication.  
+>  _WBB_sid | Contains session id, which is used for authorization.  
+>  _WBB_f_all | Contains information, which is used to manage forums accessed during the session - this is used by board features such as "Mark all forums read" and it affects display and markup.  
+>  _WBB_f | Forum tracking for managing new topics, posts, search requests, etc.  
+>  _WBB_t | Topic tracking for managing new topics, posts, search requests, etc.  
+>  _WBB_t | Topic tracking for managing new topics, posts, search requests, etc.  
+>  _WBB_cats | Stores your last preferences on whether categories should be collapsed or not on homepage.  
+>  _WBB_footer | Stores your last preferences on whether footer should be collapsed or not.  
+>  PHPSESSID | Used to indentify you on the board for the duration your browser is open.
+> 
+> However, if you do wish to disable submission of our cookie files then please follow the instructions on www.aboutcookies.org. If you do so, you may nevertheless find that certain sections of the Service do not work properly.
+> 
+> _
