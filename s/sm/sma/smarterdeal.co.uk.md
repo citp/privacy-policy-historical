@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarterdeal.co.uk privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623101535id_/http%3A//www.smarterdeal.co.uk/smart/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarterdeal.co.uk privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214021246id_/http%3A//www.smarterdeal.co.uk/smart/privacy_policy.jsp) for the most accurate reproduction.*
 
 # SmarterDeal - Privacy Policy
 
