@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weartv.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616134337id_/http%3A//weartv.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weartv.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214232107id_/http%3A//www.weartv.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
 
 # WEAR ABC 3 :: Privacy Policy
 
@@ -29,3 +29,15 @@ All personal information collected by this Website may be disclosed as required 
 **Linked Sites**
 
 The Website allows certain advertisements/postings which include links to other sites. The Station has no control over such other sites and is not responsible for any content on such linked sites or for the use by such other sites of any information collected by those sites.
+
+## Forecast
+
+**Today:  **Mostly sunny early in the morning becoming mostly cloudy. Highs in the lower 60s. East winds 5 to 10 mph.   
+**Tonight:** Mostly cloudy. Patchy fog after midnight. Lows in the lower 50s. Southeast winds 5 to 10 mph inland...southeast 10 to 15 mph along the coast. 
+
+**The weekend:** Saturday mostly cloudy. Patchy fog in the morning. Highs in the lower 70s. Southeast winds 5 to 10 mph becoming south 10 to 15 mph in the afternoon.   
+**Sunday:** Cloudy. Chance of showers and slight chance of thunderstorms. Highs in the lower 70s. Inland...south winds 5 to 10 mph becoming 10 to 15 mph in the afternoon. Along the coast... South winds 10 to 15 mph. Chance of precipitation 50 percent. 
+
+[](http://www.weartv.com/newsroom/wx/)
+
+IE6 Float Fix
