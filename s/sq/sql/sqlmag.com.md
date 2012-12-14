@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sqlmag.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623184403id_/http%3A//www.penton.com/PrivacyStatementSH.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmag.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214010533id_/http%3A//www.penton.com/PrivacyStatementSH.aspx) for the most accurate reproduction.*
 
 # Safe Harbor Privacy Statement
 
 ### Summary
 
-This policy covers customer information gathered by Penton Media, Inc.’s Information Technology Group and its divisions. We are committed to protecting the privacy of all those who provide us with personal information while using our products, websites, events, and services. In general, we only collect personal information about you when you provide it. We collect personal information to provide products and services that customers request, including fulfilling print and digital subscriptions, delivery of email newsletters, downloadable content, managing and hosting events, and related customer service.
+This policy covers customer information gathered by Penton Media, Inc.’s Technology Group and its divisions. We are committed to protecting the privacy of all those who provide us with personal information while using our products, websites, events, and services. In general, we only collect personal information about you when you provide it. We collect personal information to provide products and services that customers request, including fulfilling print and digital subscriptions, delivery of email newsletters, downloadable content, managing and hosting events, and related customer service.
 
 We may use personal information to contact you ourselves, or on behalf of carefully chosen partners, to offer you additional products or services (including announcements about new products, subscription products, featured editorial content, co-sponsored products, events, special sales and promotions, and more) that we believe would interest you. We may also share your information with other business units within Penton Media, Inc. for these same purposes. We allow you to opt-out of communications from us and from sharing with third parties. If you opt-out, we will not contact you or share your information.
 
@@ -18,24 +18,20 @@ This section is asummary of the main features of our privacy policy. The comple
 
  **A.  What this Privacy Policy Covers**
 
-This policy covers customer information gathered by Penton Media, Inc.’s Information Technology Group and its divisions. When we say “we”, we mean “Penton Media, Inc.’s Information Technology Group.” Businesses included in this group include Windows IT Pro, Windows IT Pro Community,SQL Server, System iNetwork, Office and SharePoint Pro, Win Dev Pro, Connected Home, and other Penton Media businesses that link to this policy. Penton Media, Inc. businesses that do not link to this privacy policy are covered by a different privacy policy. Please see the privacy policy link on those sites for their privacy policy.
+This policy covers customer information gathered by Penton Media, Inc.’s Technology Group and its divisions. When we say “we”, we mean “Penton Media, Inc.’s Technology Group.” Businesses included in this group include Windows IT Pro, Windows IT Pro Community,SQL Server Pro, Power IT Pro, IProDeveloper, SharePoint Pro, Dev Pro, and other Penton Media businesses that link to this policy. Penton Media, Inc. businesses that do not link to this privacy policy are covered by a different privacy policy. Please see the privacy policy link on those sites for their privacy policy.
 
-This policy describes our privacy practices for both online and offline activities including but not limited to our print and digital publications, websites, in-person and online events, email newsletters, and all other products and services of Penton Media, Inc.’s Information Technology Group.  By using any of our websites, you consent to our use and disclosure of your personal information as described in our privacy policy.
+This policy describes our privacy practices for both online and offline activities including but not limited to our print and digital publications, websites, in-person and online events, email newsletters, and all other products and services of Penton Media, Inc.’s Technology Group. By using any of our websites, you consent to our use and disclosure of your personal information as described in our privacy policy.  By using any of our websites, you consent to our use and disclosure of your personal information as described in our privacy policy.
 
 The websites covered by this policy, include but are not limited to:
 
-  * Windows IT Pro (windowsitpro.com) 
-  * SQL Server Magazine (sqlmag.com)  
- 
-  * Office and SharePoint Pro (officesharepointpro.com) 
-  * Connected Home Magazine (connectedhomemag.com) 
-  * IT Library (windowsitlibrary.com) 
-  * ITTV (ittv.net)  
- 
-  * Windows SuperSite (winsupersite.com) 
-  * Win Dev Pro (windevpro.com) 
-  * System iNetwork (www.systeminetwork.com) 
-  * Any Penton Media, Inc.’s Information Technology Group website that links to this policy 
+  * Windows IT Pro (windowsitpro.com)
+  * SQL Server Pro (sqlmag.com)
+  * SharePoint Pro (sharepointpro.com)
+  * Windows SuperSite (winsupersite.com)
+  * Dev Pro (devpro.com)
+  * IPro Developer (iprodeveloper.com)
+  * Power IT Pro (poweritpro.com)
+  * Any Penton Media, Inc.’s Technology Group website that links to this policy
 
 
 
@@ -43,13 +39,13 @@ The websites covered by this policy, include but are not limited to:
 
 We are committed to protecting the privacy of all those who provide us with personal information while using our products, websites, events, and services.
 
-At Penton Media, Inc.’s Information Technology Group, our privacy policy is based on Fair Information Practices (FIPs), a set of internationally recognized principles that address the privacy of information about individuals. The principles of FIPs are at the core of many laws and policies addressing privacy and data protection matters. This policy reflects our implementation of FIPs.
+At Penton Media, Inc.’s Technology Group, our privacy policy is based on Fair Information Practices (FIPs), a set of internationally recognized principles that address the privacy of information about individuals. The principles of FIPs are at the core of many laws and policies addressing privacy and data protection matters. This policy reflects our implementation of FIPs.
 
-This policy is long because addressing privacy in an international business environment is complicated and because Penton Media, Inc.’s Information Technology Group and its divisions have relationships with different categories of individuals, including subscribers, customers, registrants, website visitors, and others. We offer many different products and services on the Internet and otherwise to meet the needs and interests of our customers. Explaining it all takes time and space.
+This policy is long because addressing privacy in an international business environment is complicated and because Penton Media, Inc.’s Technology Group and its divisions have relationships with different categories of individuals, including subscribers, customers, registrants, website visitors, and others. We offer many different products and services on the Internet and otherwise to meet the needs and interests of our customers. Explaining it all takes time and space.
 
 **C.   Safe Harbor Privacy Statement**
 
-For personal information about our customers subject to EU data protection laws that we receive from Member States of the European Union, we have committed to handling such personal information in accordance with the Safe Harbor Principles. Penton Media Inc.’s Information Technology Group’s Safe Harbor certification can be found at [http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe harbor list](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe%20harbor%20list). Additional information about the Safe Harbor program is available at the U.S. Department of Commerce's website at <http://www.export.gov/safeharbor>.   
+For personal information about our customers subject to EU data protection laws that we receive from Member States of the European Union, we have committed to handling such personal information in accordance with the Safe Harbor Principles. Penton Media Inc.’s Technology Group’s Safe Harbor certification can be found at [http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe harbor list](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe%20harbor%20list). Additional information about the Safe Harbor program is available at the U.S. Department of Commerce's website at <http://www.export.gov/safeharbor>.   
 
 We process customer information in our facilities in the United States. All customer information subject to this privacy policy is collected in the United States, obtained through websites in the United States, or obtained in other countries and transferred to the United States. Regardless where it originated, all customer data subject to this policy receives the same level of privacy protection as described in this policy statement.
 
@@ -61,9 +57,9 @@ Our websites are not intended for use by children under the age of 13. We do no
 
 **A.  General** 
 
-This privacy policy describes the processing of most personal information by Penton Media, Inc.’s Information Technology Group and its divisions.   This policy covers personal information about subscribers, customers, registrants, website visitors, and others.
+This privacy policy describes the processing of most personal information by Penton Media, Inc.’s Technology Group and its divisions.   This policy covers personal information about subscribers, customers, registrants, website visitors, and others.
 
-Penton Media, Inc.’s Information Technology Group and its divisions revised its privacy policy in 2007 as part of its certification for the Safe Harbor program. This policy supersedes other privacy policies used by Penton Media, Inc.’s Information Technology Group. While this policy is considerably longer than the policies that it replaces, we did not make any major changes in the way that we process personal information. We still respect the privacy of those whose personal information we process. We still offer opt-outs to our customers and other data subjects, and we still honor requests by those who do not want to hear from us. The new policy includes considerably more detail about how we use and disclose personal information, about the purposes of processing, and about our relationships with other companies we partner with or use to help us carry out our personal information processing.
+Penton Media, Inc.’s Technology Group and its divisions revised its privacy policy in 2007 as part of its certification for the Safe Harbor program. This policy supersedes other privacy policies used by Penton Media, Inc.’s Technology Group. While this policy is considerably longer than the policies that it replaces, we did not make any major changes in the way that we process personal information. We still respect the privacy of those whose personal information we process. We still offer opt-outs to our customers and other data subjects, and we still honor requests by those who do not want to hear from us. The new policy includes considerably more detail about how we use and disclose personal information, about the purposes of processing, and about our relationships with other companies we partner with or use to help us carry out our personal information processing.
 
 **B.   Privacy Policy Changes and Updates**
 
@@ -79,36 +75,36 @@ We collect personal information about customers by lawful and fair means, and in
 
 Subscribe to or receive items including, but not limited to the following:
 
-  * a publication (whether paid or free) either directly through us or through another company, such as a subscription agency 
-  * an email newsletter (whether paid or free) 
+  * a publication (whether paid or free) either directly through us or through another company, such as a subscription agency
+  * an email newsletter (whether paid or free)
   * a digital magazine “(whether paid or free)”
 
 
 
 Register for:
 
-  * a website, webcast, trade show, roadshow, program, or other event that we produceor sponsor (with or without partners) 
+  * a website, webcast, trade show, roadshow, program, or other event that we produce or sponsor (with or without partners)
   * memberships or online products (such as eBook, whitepaper, etc.)  
-  * a contest 
-  * your member profile, which you create 
+  * a contest
+  * your member profile, which you create
 
 
 
 Use our websites or other means to purchase or place an order for (paid or otherwise) a product or service, such as:
 
-  * A book, CD, DVD, calendar, etc. 
-  * A magazine subscription 
-  * A podcast or similar digital content 
-  * Elearning classes and materials 
+  * A book, CD, DVD, calendar, etc.
+  * A magazine subscription
+  * A podcast or similar digital content
+  * Elearning classes and materials
 
 
 
 Visit or participate in:
 
-  * open forums or other public discussions that we host or sponsor 
-  * our websites 
-  * surveys, user panels, focus groups 
-  * any of our site services, including but not limited to services like our Resource Directory, “Email a Friend”, “Post a Comment”, “Site Feedback”, “Comments and Suggestions”, “Report Bugs” and any others 
+  * open forums or other public discussions that we host or sponsor
+  * our websites
+  * surveys, user panels, focus groups
+  * any of our site services, including but not limited to services like our Resource Directory, “Email a Friend”, “Post a Comment”, “Site Feedback”, “Comments and Suggestions”, “Report Bugs” and any others
 
 
 
@@ -122,10 +118,10 @@ We also obtain some information about customers from third parties. We use the 
 
  We collect: 
 
-  * Your contact information including your name, physical address, mailing address, email address, and phone and fax numbers. 
-  * Your demographic and survey information: Job function, title, topics of interest, purchasing plans, responses to surveys solicited online and offline, and information solicited through online registration forms. 
-  * Your history as our customer, including your order and payment history, email and websites usage, promotional history and response. 
-  * All content posted in public areas (including but not limited to online forums, comments on blog posts or articles, and other community areas) is publicly available and viewable. In order to maintain standards for online conduct in public areas we sponsor, we will remove an inappropriate posting when we find it. 
+  * Your contact information including your name, physical address, mailing address, email address, and phone and fax numbers.
+  * Your demographic and survey information: Job function, title, topics of interest, purchasing plans, responses to surveys solicited online and offline, and information solicited through online registration forms.
+  * Your history as our customer, including your order and payment history, email and websites usage, promotional history and response.
+  * All content posted in public areas (including but not limited to online forums, comments on blog posts or articles, and other community areas) is publicly available and viewable. In order to maintain standards for online conduct in public areas we sponsor, we will remove an inappropriate posting when we find it.
 
 
 
@@ -181,7 +177,7 @@ Many of our products and offerings, including events, are with other companies w
 
 **iii)  Other Uses and Disclosures**
 
-In addition, we reserve the right to use ordisclose personalinformation to protect the security or integrity of our website or online service; to take precautions against liability; to respond to judicial process; and to the extent permitted by law, to provide information to law enforcement agencies or for an investigation on a matter related to public safety; and to comply with applicable laws, government requests and court orders.
+In addition, we reserve the right to use or disclose personal information to protect the security or integrity of our website or online service; to take precautions against liability; to respond to judicial process; and to the extent permitted by law, to provide information to law enforcement agencies or for an investigation on a matter related to public safety; and to comply with applicable laws, government requests and court orders.
 
 In the event of corporate business activities such as mergers, acquisitions, divestitures, or bankruptcy, personal information may be used or disclosed in connection with those activities. We will also make any disclosures required by law. If we discover a security breach, we may disclose personal information about customers to those companies (such as credit card companies or credit bureaus) or government agencies who we believe can take action to prevent, minimize, or remedy any harm from the breach. 
 
@@ -193,8 +189,8 @@ In general, we process personal information so that it is not used or disclosed 
 
 We offer users the opportunity to opt-out of
 
-  * being contacted by us. You can choose not to be contacted by telephone, fax, or email. 
-  * disclosures that we might make to third parties, such as through the rental of customer lists. 
+  * being contacted by us. You can choose not to be contacted by telephone, fax, or email.
+  * disclosures that we might make to third parties, such as through the rental of customer lists.
 
 
 
@@ -231,7 +227,7 @@ When we share personal information with third parties we hire to help us with ou
 
 **VIII.   Accountability**
 
-Penton Media, Inc.’s Information Technology Group is responsible for writing this policy and for compliance with it. The person in the company who is primarily responsible for oversight and compliance is the Privacy Officer. Anyone who has a question, comment, or complaint about this privacy policy should contact the Privacy Officer:
+Penton Media, Inc.’s Technology Group is responsible for writing this policy and for compliance with it. The person in the company who is primarily responsible for oversight and compliance is the Privacy Officer. Anyone who has a question, comment, or complaint about this privacy policy should contact the Privacy Officer:
 
                         Privacy Officer  
                         Penton Media, Inc.,  
