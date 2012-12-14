@@ -1,29 +1,6 @@
-> *The following text is extracted and transformed from the disneyclips.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503152010id_/http%3A//www.disneyclips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneyclips.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215003857id_/http%3A//www.disneyclips.com/privacy.html) for the most accurate reproduction.*
 
 # Disneyclips.com - Privacy Policy
-
-|  | 
-
-| | 
-
-[*Disney's World of Wonders](http://www.disneyclips.com/indexdww.html)  
-[*Banners](http://www.disneyclips.com/linktous.html)  
-[*Site Map](http://www.disneyclips.com/sitemap.html)  
-[*Shop Disney](http://www.disneyclips.com/imagesnewb6/disneystore.html)  
-[*Terms of use](http://www.disneyclips.com/termsofuse.html)  
-[*Privacy Policy](http://www.disneyclips.com/privacy.html)  
-  
----|---  
-  
-  
-  
-  
-| 
-
-| 
-
-  
-_**Privacy Policy**_
 
 This page was last updated on March 16th 2009.
 
@@ -41,22 +18,3 @@ Information about your IP address, as well as the type of browser and operating 
 Disneyclips.com is not responsible for the content or privacy policies of websites visited through links from this website.
 
 Please be advised that this privacy policy may be changed in the future. Return to this page to see any changes made. 
-
-|  | 
-
-Magical Movies
-
-| |  **Lady and the Tramp**  
----  
-[](http://www.amazon.com/exec/obidos/ASIN/B0061QD7ZM/disneysworldofwo)| |  [  
-Exquisite animation!](http://www.amazon.com/exec/obidos/ASIN/B0036TGT3E/disneysworldofwo)  
----|---|---  
-[](http://www.amazon.com/exec/obidos/ASIN/B0061QD7ZM/disneysworldofwo)  
-  
-  
-Updates
-
-February 1st 2012  
-47 new cliparts, featuring Disney Cuties, Daisy, Valentine's Day, Alice in Wonderland, Tangled, Donald, Mickey, Minnie, Football, Lady and the Tramp, Goofy, Cinderella and The Little Mermaid, plus 41 new coloring pages.  
-  
-| 
