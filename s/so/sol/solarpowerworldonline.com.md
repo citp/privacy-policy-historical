@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the solarpowerworldonline.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629031545id_/http%3A//www.solarpowerworldonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarpowerworldonline.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214154303id_/http%3A//www.solarpowerworldonline.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Solar Power World
+# Privacy Policy
 
-### Privacy Policy
-
-WTWH Media LLC (“WTWH”, “we”, or “us”) is committed to ensuring the privacy of our users. The following is our privacy policy and we hope it clarifies how WTWH processes and uses certain information collected via the Windpower Engineering website. By using our Site, you consent to the terms of this Policy.
+WTWH Media LLC (“WTWH”, “we”, or “us”) is committed to ensuring the privacy of our users. The following is our privacy policy and we hope it clarifies how WTWH processes and uses certain information collected via the Solar Power World website. By using our Site, you consent to the terms of this Policy.
 
  **Information Collection When you visit our Site**  
 Some information is also automatically collected, such as your computer’s Internet Protocol (IP) address, operating system and browser type and the time and date of your visit. This information is collected through the use of “cookies.” Cookies are small files that are stored on your computer by a Web site to give you a unique identification.
@@ -41,7 +39,7 @@ In addition, information about our users, including personally identifiable info
 Our Site contains links to other Web sites. Links from our Site to other sites or content are provided for your convenience only, and we do not have control over the content or privacy and security practices and policies of such third parties or other sites. Any personal information you provide on linked pages is provided directly to that third party and is subject to that third party’s privacy policy. We encourage you to learn about their privacy and security practices and policies before providing them with personal information. In the case of a link to a Design World Network site, this privacy policy is applicable.
 
  **How to Contact Us**  
-If you have any questions or concerns about the WTWH online policy for the Windpower Engineering website or its implementation you may contact us at privacy@designworldonline.com.
+If you have any questions or concerns about the WTWH online policy for the Solar Power World website or its implementation you may contact us at privacy@designworldonline.com.
 
  **Updates & Effective**  
 Date From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
