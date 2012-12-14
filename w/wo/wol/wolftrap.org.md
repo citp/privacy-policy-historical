@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolftrap.org privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630152031id_/http%3A//www.wolftrap.org/Home/global/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolftrap.org privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214235006id_/http%3A//www.wolftrap.org/Home/global/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
