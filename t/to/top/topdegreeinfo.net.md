@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topdegreeinfo.net privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123045540id_/http%3A//www.topdegreeinfo.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdegreeinfo.net privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214062101id_/http%3A//topdegreeinfo.net/privacy.htm) for the most accurate reproduction.*
 
 # Email List Privacy Policy
 
