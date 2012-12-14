@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifecare.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614112246id_/http%3A//www.lifecare.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifecare.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214033141id_/http%3A//www.lifecare.com/privacy-policy.html) for the most accurate reproduction.*
 
 # LifeCare | Privacy Policy
 
@@ -31,7 +31,7 @@ USES OF COOKIES
 LifeCare provides you with the opportunity to volunteer personal information while interacting with the many features of our site. In addition, visitor information may be collected automatically as you navigate through our sites. Personal and/or visitor information can be anything that identifies you or your accounts. These "cookies" of information may be used by us to help us manage the site and provide functionality to you, but we do not use this information for direct marketing or solicitation of business and do not provide this information to third parties except as required by law. LifeCare leverages session cookies only. These are not permanent cookies and are removed from when your browser closes or your computer is powered off. 
 
 CORRECTING AND REMOVING YOUR INFORMATION  
-f you would like to correct any personal information you have provided to us or request that we remove your information from our records, e-mail us at help@lifecare.com with the correction or a request for a more secure way to communicate with us. 
+If you would like to correct any personal information you have provided to us or request that we remove your information from our records, e-mail us at help@lifecare.com with the correction or a request for a more secure way to communicate with us. 
 
 INTRUSION DETECTION  
 For site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual. 
