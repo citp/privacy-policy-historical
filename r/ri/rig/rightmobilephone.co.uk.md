@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rightmobilephone.co.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501140922id_/http%3A//www.rightmobilephone.co.uk/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightmobilephone.co.uk privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214011709id_/http%3A//www.rightmobilephone.co.uk/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - rightmobilephone.co.uk
 
 ## Our commitment to your privacy
 
-**right** **mobilephone.co.uk** (the "Website") is owned and operated by TRG Online Ltd ("We") a registered company in England & Wales No. 6353916 with registered address: Communications House, 26 York Street, London, W1U 6PZ.
+**right** **mobilephone.co.uk** (the "Website") is owned and operated by TRG Online Ltd ("We") a registered company in England & Wales No. 6353916 with registered address: Communications House, 26 York Street, London, W1U 6PZ. Data Protection Act 1998 - TRG Online Ltd (Rightmobilephone.co.uk) Registration number Z1404291.
 
 We respect your privacy and is of the utmost importance to us. We want to make your online visit a satisfying and safe experience.
 
