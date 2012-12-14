@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fieldnation.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521110606id_/http%3A//www.fieldnation.com/tech_reg/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fieldnation.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214123322id_/https%3A//www.fieldnation.com/tech_reg/PrivacyPolicy.php) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy - Field Nation
 
 **Thank you for visiting fieldnation.com, a FieldNation, LLC site (the "Web Site"). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used on this Web Site.**
 
