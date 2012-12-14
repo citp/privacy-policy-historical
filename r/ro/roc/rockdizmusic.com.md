@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rockdizmusic.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530191035id_/http%3A//rockdizmusic.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockdizmusic.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215003640id_/http%3A//rockdizmusic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - RockDizMusic.com - Your Music Remedy | RockDizMusic.com - Your Music Remedy
+# Privacy Policy | RockDizMusic
 
 RockDizMusic.com is committed to protecting your privacy online. We will not rent, sell or share your personal information with third parties, except when required by law.
 
