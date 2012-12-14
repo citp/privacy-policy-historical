@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biomedcentral.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623002642id_/http%3A//www.biomedcentral.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biomedcentral.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214200921id_/http%3A//www.biomedcentral.com/about/privacy) for the most accurate reproduction.*
 
 # BioMed Central | Privacy
 
@@ -34,7 +34,7 @@ Articles on BioMed Central will be published electronically immediately upon acc
 
 ## How does this privacy policy relate to authors of research articles published through BioMed Central
 
-Publishing a scientific manuscript is inherently a public (as opposed to anonymous) process. The name and email address of all authors of a BioMed Central manuscript will be available to users of BioMed Central. These details are made available in this way purely to facilitate scientific communication. Collecting these email addresses for commercial use is not permitted, nor will BioMed Central itself send unsolicited email to authors, unless it directly concerns the paper they have published on BioMed Central.
+Publishing a scientific manuscript is inherently a public (as opposed to anonymous) process. The name and email address of all authors of a BioMed Central manuscript will be available to users of BioMed Central. These details are made available in this way purely to facilitate scientific communication. Collecting these email addresses for commercial use is not permitted, nor will BioMed Central itself send unsolicited email to authors, unless it directly concerns the article that they have published on BioMed Central and/or the journal in which the article was published.
 
 ## Legal responsibilities
 
@@ -43,3 +43,8 @@ BioMed Central reserves the right to disclose members' personal information if r
 ## Who should I contact if I have any questions or concerns about my privacy?
 
 If you have any questions or concerns about your privacy and BioMed Central please contact our [customer services](mailto:info@biomedcentral.com) team.
+
+#### Search information pages
+
+[Advertisement](http://www.biomedcentral.com/advertisers/digital_advertising)
+    
