@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the girlsguideto.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630233843id_/http%3A//girlsguideto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsguideto.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214055430id_/http%3A//girlsguideto.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | GirlsGuideTo
+# GirlsGuideTo
 
-GirlsGuideTo.com is an Entitled Brands, Inc. property. Our postal address is:
+GirlsGuideTo.com is an Entitled Labs, Inc. property. Our postal address is:
 
-**210 33rd St A  
-Newport Beach CA 92663**
+**30 West 3rd Street  
+Cincinnati, OH 45202**
 
 We can be reached via e-mail at [contact@entitledbrands.com](mailto:james@entitledlabs.com)
 
@@ -24,5 +24,3 @@ From time to time, we may use customer information for new, unanticipated uses n
 Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
 
 Consumers can have this information corrected by visiting us at <http://girlsguideto.com/contact>
-
-**You must be a member to post comments and access all of our other great features. Please click the Facebook Button below to login or sign up.**
