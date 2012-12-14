@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paulwriter.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614121806id_/http%3A//www.paulwriter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulwriter.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214013833id_/http%3A//paulwriter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - paulwriter
+# Privacy Policy - Paul Writer | Paul Writer
 
 A **privacy policy** states how you will respect the privacy of your website users. It says what information you will gather, how you will use it and how you will keep it secure.
 
