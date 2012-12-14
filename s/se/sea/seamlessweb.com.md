@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the seamlessweb.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618081941id_/http%3A//www.seamless.com/business/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seamlessweb.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214140959id_/http%3A//www.seamless.com/business/privacy.html) for the most accurate reproduction.*
 
 # Seamless : Privacy Policy
 
 **Last updated: November 28, 2011**
 
-**Privacy Policy**
-
 We, Seamless North America, LLC (" **Seamless** "), are concerned about privacy issues and want you to be familiar with how we collect, use and disclose Personally Identifiable Information (as defined below). This Privacy Policy describes our practices in connection with Personally Identifiable Information that we collect through the site from which you are accessing this policy (the " **Site** "). This Privacy Policy does not address the collection, use or disclosure of information by any of our affiliates or by third parties.
 
 By using the Site, you agree to the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, please do not use the Site. We reserve the right to change this Privacy Policy without prior notice. You can determine when this Privacy Policy was last revised by referring to the "LAST UPDATED" legend at the top of this page. Any changes to our Privacy Policy will become effective upon our posting of the revised Privacy Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Privacy Policy then in effect.
 
-For individuals in the UK, you should be aware that we abide by the Safe Harbor framework agreed to by the U.S. Department of Commerce and the European Union (EU) with respect to Personally Identifiable Information collected by Seamless Europe, Limited and transferred to us in the United States. Please review our [Safe Harbor Privacy Policy](https://web.archive.org/web/20120618081941id_/http%3A//www.seamless.com/business/privacySafeHarbor.html) for further information.
+For individuals in the UK, you should be aware that we abide by the Safe Harbor framework agreed to by the U.S. Department of Commerce and the European Union (EU) with respect to Personally Identifiable Information collected by Seamless Europe, Limited and transferred to us in the United States. Please review our [Safe Harbor Privacy Policy](https://web.archive.org/web/20121214140959id_/http%3A//www.seamless.com/business/privacySafeHarbor.html) for further information.
 
-**1\. What Types of Information Do We Collect From You?**
+## 1\. What Types of Information Do We Collect From You?
 
 **Personally Identifiable Information** (or " **PII** ") is information that identifies you as an individual. In order for you to take advantage of particular opportunities provided through the Site (for example, to use for the services offered on the Site), we may require that you furnish PII. We collect PII from you, such as your name, postal address, telephone number, e-mail address, credit card number or other payment account number (including the three (3) or four (4) digit validation code for your credit card), when you voluntarily provide it to us or when your employer provides any such PII to us.
 
@@ -20,7 +18,7 @@ For individuals in the UK, you should be aware that we abide by the Safe Harbor 
 
 **IP Addresses** are the Internet Protocol addresses of the computers that you are using. Your IP Address is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). This number is identified and logged automatically in our server log files whenever users visit the Site, along with the time(s) of such visit(s) and the page(s) that were visited. Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites.
 
-**2\. How Do We Use Information Collected From You?**
+## 2\. How Do We Use Information Collected From You?
 
 **Personally Identifiable Information**. We may use PII:
 
@@ -39,7 +37,9 @@ For individuals in the UK, you should be aware that we abide by the Safe Harbor 
 
 **IP Addresses**. We use IP addresses for purposes such as calculating Site usage levels, helping diagnose server problems, and administering the Site. We may also use and disclose IP Addresses for all the purposes for which we use and disclose PII. Please note that we treat IP Addresses, server log files and related information as Non-PII, except where we are required to do otherwise under applicable law.
 
-**3\. How Is Personally Identifiable Information Disclosed?** We may disclose PII:
+## 3\. How Is Personally Identifiable Information Disclosed?
+
+We may disclose PII:
 
   * to our affiliates [Seamless Europe, Limited](http://www.seamlessuk.co.uk/) and [ARAMARK Corporation](http://www.aramark.com/) so that they may use such PII for the purposes described in this Privacy Policy. Seamless is the party responsible for the management of the jointly-used PII.
   * to our third party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, e-mail delivery services, credit card processing and other similar services to enable them to provide services.
@@ -51,7 +51,7 @@ For individuals in the UK, you should be aware that we abide by the Safe Harbor 
 
 
 
-**4\. Other Important Notices Regarding Our Privacy Practices.**
+## 4\. Other Important Notices Regarding Our Privacy Practices.
 
 **Forums and Profiles**. We may make available through the Site services (for example, message boards, chat functionality, "profile pages" and blogs, among other services) to which you are able to post information and materials. Please note that any information you disclose through such services becomes public information, and may be available to visitors to the Site and to the general public. We urge you to exercise discretion and caution when deciding to disclose your PII, or any other information, on the Site. WE ARE NOT RESPONSIBLE FOR THE USE OF ANY PII YOU VOLUNTARILY DISCLOSE THROUGH THE SITE.
 
@@ -59,7 +59,7 @@ For individuals in the UK, you should be aware that we abide by the Safe Harbor 
 
 **Security**. We use reasonable organizational, technical and administrative measures to protect PII under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. Please do not send us sensitive information through email. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), you must immediately notify us of the problem by contacting us in accordance with the "Contacting Us" section below (note that if you choose to notify us via physical mail, this will delay the time it takes for us to respond to the problem).
 
-**Opt-Out**. If you change your mind, and no longer wish to receive marketing-related e-mails from us on a going-forward basis, you may opt-out of receiving such marketing-related e-mails or from such sharing by adjusting your preferences in the "My Account" section of the Site.
+**Unsubscribe**. If you do not wish to receive marketing-related emails from us, you may unsubscribe from receiving them by clicking on the “unsubscribe” link at the bottom of the email.
 
 **Changing or Suppressing PII**. If you would like to review, correct, update, suppress or otherwise limit our use of your PII that has been previously provided to us, you may do so by adjusting your preferences in the "My Account" section of the Site. We may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed. Finally, we are not responsible for removing or suppressing information from the databases of third parties with whom we have already shared your PII, or limiting their use of your PII.
 
