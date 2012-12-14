@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cycleworld.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530010722id_/http%3A//www.cycleworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cycleworld.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214201914id_/http%3A//www.cycleworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Cycle World Privacy Policy – Cycle World
 
 **Bonnier Corporation Privacy Policy**
 
-_This policy was last updated on October 4, 2010._
+ _This policy was last updated on October 4, 2010._
 
 At Bonnier Corporation, your privacy is important to us.  This Privacy Policy applies to all of the products, services, and websites offered by Bonnier Corporation and its subsidiaries or affiliated companies (collectively, “Bonnier”).
 
@@ -12,7 +12,7 @@ To better protect your privacy, we provide this notice explaining our privacy pr
 
 Bonnier adheres to the U.S. Department of Commerce Safe Harbor framework and the privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement.  For more information on the framework, please visit the [Safe Harbor website](http://www.export.gov/safeharbor/doc_safeharbor_index.asp).
 
-**Note: For questions related to your magazine subscription, please visit our  ** **Customer Service web site** **  or email ** **field &stream@emailcustomerservice.com** **.**
+ **Note: For questions related to your magazine subscription, please visit our  ** **Customer Service web site** **  or email ** **field &stream@emailcustomerservice.com** **.**
 
 If you have any questions about this Privacy Policy, please write to us [via e-mail](mailto:privacy@bonniercorp.com) at[privacy@bonniercorp.com](mailto:privacy@bonniercorp.com), or via postal mail at:
 
@@ -21,7 +21,7 @@ Bonnier Corporation
 460 N. Orlando Avenue, Suite 200  
 Winter Park, FL 32789
 
-**An overview of the information that Bonnier may collect**
+ **An overview of the information that Bonnier may collect**
 
 You are able to take advantage of many Bonnier products, services, and websites without providing any information that personally identifies you.  We only collect personally-identifying information when you voluntarily submit it to us.
 
@@ -57,7 +57,7 @@ Bonnier websites sometimes may offer contests, sweepstakes, or promotions that a
 
 Some of our websites contain links to other sites.  By clicking on these links, you will leave the website operated by Bonnier and this Privacy Policy will no longer apply.  These other sites’ information practices may be different than ours.  You should consult the other sites’ privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
 
-**How we use the information we collect**
+ **How we use the information we collect**
 
 We use the personally-identifying information that you provide us to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs, or services that we believe may be of interest to you.  We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests, when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.
 
@@ -79,7 +79,7 @@ Bonnier will only share your sensitive personal information with outside compani
 
 We may also use, transfer, sell, and share aggregated, anonymous data about our users for any legal purpose, such as analyzing usage trends and seeking compatible advertisers and partners.  In no event will this aggregated data contain any information that could be used to identify individual users of our products or services.
 
-**How we protect the safety and integrity of the information we collect**
+ **How we protect the safety and integrity of the information we collect**
 
 We take appropriate physical, electronic, and procedural measures to safeguard and protect your personal information.  We use a variety of security measures, including encryption and authentication, to maintain the confidentiality of your personal information.  We store your personal information on systems behind firewalls that are only accessible to a limited number of persons, each of whom is required to keep the information confidential.  We also take appropriate measures to secure the transmission of sensitive personal information from your computer to the Company’s computers.  When you transmit sensitive personal information to us, like credit card information, we offer the use of a secure connection to our servers.  To the extent you select the secure connection method or your browser supports such functionality, all credit card account information that you supply is transmitted via Secure Socket Layer (SSL) technology.  Regardless of these measures, no system connected to the Internet or data transmission sent over the Internet can be guaranteed to be 100% secure.  We will provide notice if we become aware of any security breach that may affect any sensitive personal information pertaining to you that we have stored on our systems.
 
@@ -93,9 +93,9 @@ In some limited circumstances, such as to resolve disputes, troubleshoot problem
 
 We only use the information we collect for purposes consistent with this policy.  If we propose to use your personal information for purposes beyond that explained in this policy, we will provide appropriate notice before doing so and we will provide you with the means to opt out of those uses.  We will not use your sensitive personal information for any purposes other than those described in this Policy unless we have obtained your consent.
 
-**Your privacy options**
+ **Your privacy options**
 
-**If you prefer not to receive communications from other companies** , you may choose to remove yourself from any lists that we provide to third parties for marketing purposes by [emailing us](mailto:emailoptout@bonniercorp.com?subject=Third-Party%20Opt%20Out) at emailoptout@bonniercorp.com.  You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
+ **If you prefer not to receive communications from other companies** , you may choose to remove yourself from any lists that we provide to third parties for marketing purposes by [emailing us](mailto:emailoptout@bonniercorp.com?subject=Third-Party%20Opt%20Out) at emailoptout@bonniercorp.com.  You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
 
 We only want to communicate with you if you want to hear from us.   **If you prefer not to be contacted at all** , you may opt out of receiving any communications from us at any time by [notifying us](mailto:emailoptout@bonniercorp.com?subject=Opt%20Out%20of%20All%20Communications) at emailoptout@bonniercorp.com.  You may also notify us by sending mail to the following address:
 
@@ -106,7 +106,7 @@ Winter Park, FL  32789
 
 In your request, please tell us what communications you would like to opt out of, what means we have been using to contact you (such as your e-mail or postal address), the date of your request, and a way to contact you in case we need to personally contact you in an effort to comply with your request.  We reserve the right to send you certain communications, such as technical alerts, without offering you the opportunity to opt out of receiving them.
 
-**Enforcement and Compliance with this Privacy Policy**
+ **Enforcement and Compliance with this Privacy Policy**
 
 We take our Privacy Policy seriously and we regularly review our own compliance with this Policy.  If you have any questions or concerns about this Policy, or if you think that we have used your personal information in a manner inconsistent with this Policy, please contact us at:
 
@@ -116,3 +116,5 @@ Bonnier Corporation
 Winter Park, FL 32789
 
 If we receive a complaint from you, we will contact you in an attempt to address your concerns.  If we are not able to resolve a complaint, we will participate in the appropriate independent recourse mechanism as necessary.
+
+[Read Full Post](http://www.cycleworld.com/privacy-policy/) | [Comments(0)](http://www.cycleworld.com/privacy-policy/#comments)
