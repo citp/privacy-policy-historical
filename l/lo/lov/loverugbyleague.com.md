@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loverugbyleague.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616033032id_/http%3A//www.loverugbyleague.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loverugbyleague.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215174213id_/http%3A//loverugbyleague.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Love Rugby League
+# Privacy Policy
 
 Love Rugby League values the contributions of our users and we strive to provide them with a platform that they are comfortable using.
 
