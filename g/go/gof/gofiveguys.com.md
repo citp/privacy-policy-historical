@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gofiveguys.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615161524id_/http%3A//gofiveguys.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofiveguys.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215113319id_/http%3A//gofiveguys.com/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-OLO ("Go Five Guys", "us" or "we") respects the privacy of visitors to our Sites and registrants of our Services. This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information you submit to use through our Sites. Any capitalized term used but not defined in this Privacy Policy shall have the meaning given in the Go Five Guys User Agreement.
+OLO ("Go Five Guys", "us" or "we") respects the privacy of visitors to our Sites and registrants of our Services. This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information you submit to use through our Sites. Any capitalized term used but not defined in this Privacy Policy shall have the meaning given in the Go Five Guys User Agreement. 
 
 Go Five Guys provides certain websites, including the websites available at the domain name http://gofiveguys.com (each, a "Site") and certain services made available to registered users of the Sites ("Services"). By submitting any information through a Site or registering for any Services, you acknowledge and agree that Go Five Guys may process (i.e., collect, use, etc.) your Personal Information as described in this Privacy Policy. 
 
@@ -60,7 +60,7 @@ Even though Go Five Guys has taken significant steps to ensure that your Persona
 
 **ADVERTISING**
 
-Go Five Guys displays retargeted ads to our site prospects across the Internet. We collect non-personally identifiable information about your visits to our Website, through the use of a pixel tag, which is industry standard technology used by most major web sites. No Personally Identifiable Information is collected during in this process. If you do not want Go Five Guys to collect this information, you may opt out of this service. Opting out will not in any ways affect your use of our site. To opt-out of retargeting, please click [here](http://www.networkadvertising.org/managing/opt_out.asp).
+Go Five Guys displays retargeted ads to our site prospects across the Internet. We collect non-personally identifiable information about your visits to our Website, through the use of a pixel tag, which is industry standard technology used by most major web sites. No Personally Identifiable Information is collected during in this process. If you do not want Go Five Guys to collect this information, you may opt out of this service. Opting out will not in any ways affect your use of our site. To opt-out of retargeting, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **PRIVACY POLICY UPDATES**
 
@@ -68,9 +68,9 @@ This Privacy Policy is subject to revision, and if we make any substantial chang
 
 **CONTACT US**
 
-You may contact the Privacy Officer to access, correct or delete your Personal Information. If necessary, the Privacy Officer will contact another employee to assist in completing your requested task.
+You may contact the Privacy Officer to access, correct or delete your Personal Information. If necessary, the Privacy Officer will contact another employee to assist in completing your requested task. 
 
-If you have any questions or complaints, please contact the Privacy Officer. The Privacy Officer can be reached by telephone at: (212) 260-0895 or 1-888-411-6626; by Facsimile at: (212) 656-1671; by email at: [support@olo.com](mailto:support@olo.com); or by mail at:
+If you have any questions or complaints, please contact the Privacy Officer. The Privacy Officer can be reached by telephone at: (212) 260-0895 or 1-888-411-6626; by Facsimile at: (212) 656-1671; by email at: [support@olo.com](mailto:support@olo.com); or by mail at: 
 
 > OLO  
 >  19 Fulton Street  
@@ -78,6 +78,6 @@ If you have any questions or complaints, please contact the Privacy Officer. The
 >  New York, NY 10038 USA  
 >  Attn: Privacy Officer 
 
-We will address your concern and attempt to resolve any problem.
+We will address your concern and attempt to resolve any problem. 
 
-Effective Date: September 4, 2008
+Effective Date: September 4, 2008 
