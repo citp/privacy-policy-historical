@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibelieve.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501123656id_/http%3A//www.crosswalk.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibelieve.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215113521id_/http%3A//www.ibelieve.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Jesus Christ, Bible Study Tools, Online Christian Living Resources
+# Christian Women - Blogs, Devotions, Bible Study & Inspiration
 
 **Privacy Policy**  
 **Last Updated:** November 3, 2007
