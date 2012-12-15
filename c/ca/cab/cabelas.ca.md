@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabelas.ca privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516123757id_/http%3A//www.cabelas.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabelas.ca privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215164220id_/http%3A//www.cabelas.ca/privacy_policy) for the most accurate reproduction.*
 
 # Cabelas Canada - Privacy Policy
 
@@ -10,9 +10,7 @@ Save on Overstocks, Special Buys and Discounted Items
 
 [](https://web.archive.org/bargain_cave/ "Bargain Cave")
 
-[](https://www.bbb.org/online/consumer/cks.aspx?id=110120111743&utm_source=site&utm_medium=hpl&utm_campaign=bbb)
-
-[](https://www.mcafeesecure.com/RatingVerify?ref=67.192.190.207 "McAfee Secure Site")
+[](https://www.mcafeesecure.com/RatingVerify?ref=72.32.19.227 "McAfee Secure Site")
 
 | 
 
@@ -147,16 +145,14 @@ We reserve the right to modify this Privacy Statement at any time, so please rev
 
 [](https://web.archive.org/signupforemail/)
 
-[](https://web.archive.org/36245/12/120508/120508.html)
+[](https://web.archive.org/36245/12/121127/121127.html)
 
 Since 1961, it has been our ongoing mission to provide outdoor enthusiasts with the finest quality gear and the highest level of customer service in the industry.   
 
 
 [](https://web.archive.org/customer_service/)
 
-Not sure what to buy? Many outdoor enthusiasts prefer to select their own equipment.
-
-Cabela's Canada Gift Cards are available in various card styles and denominations.  Order yours today!
+Not sure what to buy? Many outdoor enthusiasts prefer to select their own equipment. Cabela's Canada Gift Cards are available in various card styles and denominations. Order yours today!
 
 [](https://web.archive.org/gift_certificates/)
 
