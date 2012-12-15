@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nazuka.net privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605113018id_/http%3A//nazuka.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nazuka.net privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215234223id_/http%3A//nazuka.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy of free hosting service :: nazuka.net
 
@@ -8,7 +8,7 @@
 
 We collect information from you when you register on our site.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. Using our website you agree to support our social network. You may, however, visit our site anonymously.
 
 **What do we use your information for?**
 
