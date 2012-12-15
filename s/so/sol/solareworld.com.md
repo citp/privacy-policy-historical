@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solareworld.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607084458id_/http%3A//www.solareworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solareworld.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215033150id_/http%3A//www.solareworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Solar Energy World | MD, DC, NJ
 
