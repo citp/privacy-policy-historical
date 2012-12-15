@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketresearch.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610084517id_/http%3A//www.marketresearch.com/corporate/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketresearch.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215055824id_/http%3A//www.marketresearch.com/corporate/privacypolicy.asp) for the most accurate reproduction.*
 
 # MarketResearch.com Privacy Policy
 
@@ -73,13 +73,13 @@ MarketResearch.com is committed to protecting the security of your personal info
 **Contact Information**
 
 If users have any questions or suggestions regarding our privacy policy, please contact:   
-[Gregg Kellett](mailto:gkellett@marketresearch.com)   
+[Will Gray](mailto:wgray@marketresearch.com)   
 Online Marketing Manager   
 MarketResearch.com, Inc.   
 11200 Rockville Pike, Suite 504   
 Rockville, MD 20852   
-Phone: 240-747-3008   
+Phone: 240-747-3000   
 Fax: 240.747.3004   
 Web site URL: 
 
-[http://www.marketresearch.com/corporate/aboutus/contactus.asp](http://www.marketresearch.com/corporate/aboutus/contactus.asp?SID=45256429-544108740-584908329)
+[http://www.marketresearch.com/corporate/aboutus/contactus.asp](http://www.marketresearch.com/corporate/aboutus/contactus.asp?SID=32446347-560338249-545850050)
