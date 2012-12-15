@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acura.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625145927id_/http%3A//www.acura.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acura.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215220256id_/http%3A//www.acura.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Acura.com
 
