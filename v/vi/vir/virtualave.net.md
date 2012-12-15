@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualave.net privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515143925id_/http%3A//www.virtualave.net/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualave.net privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215021851id_/http%3A//www.virtualave.net/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # VirtualAvenue's Privacy Policy
 
@@ -62,7 +62,7 @@ To ensure you receive the information you need to manage your account and protec
 
   
 
-  17. **Where to Direct Questions About VirtualAvenue's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, VirtualAvenue, 70 Blanchard Road 3rd Floor, Burlington, MA 01803 or support@virtualave-inc.com.
+  17. **Where to Direct Questions About VirtualAvenue's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, VirtualAvenue, 10 Corporate Dr. Suite 300, Burlington, MA 01803 or support@virtualave-inc.com.
   
 
   18. **Unsubscribe**
@@ -80,4 +80,4 @@ Please note: VirtualAvenue reserves the right to send you email communications t
 
 
 
-This file was last modified May 3, 2012. [View comparison version.](https://web.archive.org/web/20120515143925id_/http%3A//www.virtualave.net/legal/legal_privacy.bml?showchanges=1)
+This file was last modified December 10, 2012. [View comparison version.](https://web.archive.org/web/20121215021851id_/http%3A//www.virtualave.net/legal/legal_privacy.bml?showchanges=1)
