@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spicytec.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603075354id_/http%3A//www.spicytec.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicytec.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215095415id_/http%3A//www.spicytec.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# SpicyTec: Privacy Policy
+# Spicytec: Policy
 
 **The  <http://www.spicytec.com/> Privacy Statement**
 
@@ -41,7 +41,7 @@ Our industry-standard traffic reporting records IP addresses, Internet service p
 
 **Legal proceedings**
 
-We will make every effort to preserve user privacy but [http://www.spicytec.com](http://www.tuvie.com/) may need to disclose information when required by law.
+We will make every effort to preserve user privacy but [http://www.spicytec.com](http://www.spicytec.com/) may need to disclose information when required by law.
 
 **Business Transitions**
 
