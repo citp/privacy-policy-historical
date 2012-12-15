@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miniwebtool.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616202540id_/http%3A//www.miniwebtool.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miniwebtool.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215165715id_/http%3A//www.miniwebtool.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
