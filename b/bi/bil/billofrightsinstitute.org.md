@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billofrightsinstitute.org privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616081550id_/http%3A//billofrightsinstitute.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billofrightsinstitute.org privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215112039id_/http%3A//billofrightsinstitute.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Bill of Rights Institute: Privacy Policy
 
