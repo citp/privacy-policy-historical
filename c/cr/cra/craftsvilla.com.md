@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftsvilla.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227034801id_/http%3A//craftsvilla.com/index.php/privacy-policy-craftsvilla) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftsvilla.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215165512id_/http%3A//www.craftsvilla.com/privacy-policy-craftsvilla) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ No use or Services available on this Website are directed towards children.  Cr
 
  **USE OF INFORMATION COLLECTED  **
 
-CartLane owns all the information collected via the Website.  As applicable, the information collected by Craftsvilla shall be used to contact you about the Website and Website related news and Services available on the Website; monitor and improve the Website; calculate the number of visitors to the Website and to know the geographical locations of the visitors; update you on all the special offers available on the Website and provide you with a better shopping experience.  
+CraftsVilla owns all the information collected via the Website.  As applicable, the information collected by Craftsvilla shall be used to contact you about the Website and Website related news and Services available on the Website; monitor and improve the Website; calculate the number of visitors to the Website and to know the geographical locations of the visitors; update you on all the special offers available on the Website and provide you with a better shopping experience.  
 
 Please note that when you place an order, some of your Personal Information will be passed on to the others who shall need to have access to some Personal Information like courier companies, credit card processing companies, vendors etc. to enable them and Craftsvilla perform their duties and fulfill your order requirements.  
 
