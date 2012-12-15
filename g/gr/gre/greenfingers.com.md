@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507194057id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fid%3D1287) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215194628id_/http%3A//greenfingers.com/articledisplay.asp%3Fid%3D1287) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -87,6 +87,19 @@ Please read on for more details about our privacy policy.
 ---  
 | To be notified of exclusive offers  
  **Follow Us On:** | [](http://www.facebook.com/greenfingerscom) |  | [](http://twitter.com/greenfingerscom) |   
+  
+OUR DEAL OF THE WEEK   
+---  
+HURRY THESE DEALS DON’T LAST LONG!   
+  
+[](https://web.archive.org/superstore/product.asp?dept_id=200710&pf_id=LS8429D "Christmas Tree Storage Bag") SAVE   
+36%  
+  
+---  
+| Usual Price 10.99 |  This Week Only  
+6.99  
+---|---  
+  
   
 The UK's favourite   
 online garden store  
