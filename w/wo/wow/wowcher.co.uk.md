@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wowcher.co.uk privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602014410id_/http%3A//www.wowcher.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowcher.co.uk privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215143709id_/http%3A//www.wowcher.co.uk/a/privacypolicy.html) for the most accurate reproduction.*
 
-# Wowcher | Save up to 80% on deals where you live
+# Wowcher | Privacy Policy
 
 ## Privacy & Cookies Policy 
 
