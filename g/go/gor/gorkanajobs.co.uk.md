@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gorkanajobs.co.uk privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616011549id_/http%3A//www.gorkanajobs.co.uk/staticpages/40/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorkanajobs.co.uk privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215143711id_/http%3A//www.gorkanajobs.co.uk/staticpages/40/privacy-policy) for the most accurate reproduction.*
 
 # GorkanaJobs.com | Privacy Policy
 
