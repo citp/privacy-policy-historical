@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mtherald.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614091701id_/http%3A//mtherald.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtherald.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215035355id_/http%3A//mtherald.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For MTHerald.com
 
 ### Privacy Policy for MTHerald.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/contact/ "contact the author of MT Herald").
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://mtherald.com/contact/ "contact the author of MT Herald").
 
 At MTHerald.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by MTHerald.com and how it is used.
 
