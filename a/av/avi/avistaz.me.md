@@ -1,24 +1,23 @@
-> *The following text is extracted and transformed from the avistaz.me privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606035502id_/http%3A//www.avistaz.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avistaz.me privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215021818id_/http%3A//www.avistaz.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AvistaZ Asian Movies, Music and TV Drama Torrents
+# Privacy Policy - AvistaZ Asian Movies, Music and TV Drama Reviews
 
-**AvistaZ Blog is a collection of Asian Entertainment blog written by its members.**
+**Privacy Policy**
 
-we can be emailed at **info@avistaz.com**
+**Your Privacy**
 
-For each visitor to our Web page, our Web server automatically recognizes information of  
-your browser, IP address, City/State/Country.
+AvistaZ.me is committed to protecting your privacy. AvistaZ.me does not sell, trade or rent your personal information to other companies. AvistaZ.me will not collect any personal information about you except when you specifically and knowingly provide such information.
 
-We collect your IP address, domain name, etc for visitor log and email address if you communicate with us.
+By using our Web site, you consent to the collection and use of this information by AvistaZ.com. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, AvistaZ.com may provide aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor.
+**Third Party Advertising**
 
-With respect to cookies: We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, customize Web page content based on visitors’ browser type or other information that the visitor sends.
+We use Adsense, Adbrite and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
-**Ad Servers:** To try and bring you offers that are of interest to you, we have relationships with other companies like AdBrite ([www.adbrite.com](http://www.adbrite.com/)) and ShoppingAds ([shoppingads.com](http://shoppingads.com/)) that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and click stream information. For further information, consult the privacy policy of: AdBrite (<http://www.adbrite.com/mb/privacy.php>) and ShoppingAds (<http://shoppingads.com/privacy/>)
+**Third Party Cookies**
 
-**Third-party vendors also serve ads on this site.**
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie”? on your browser.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above email address.
+**Modification of Privacy Policy**
 
-## AvistaZ does not allow uploading files involving child exploitation and users involved in such file transfers will be permanently removed from AvistaZ and email address of the uploader will be reported to National Center for Missing & Exploited Children’s CyberTipline.
+AvistaZ.me reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates.
