@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gregorysherl.com privacy policy that was archived on 2012-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120125130910id_/http%3A//gregorysherl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gregorysherl.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215045636id_/http%3A//gregorysherl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy WOW➜ Gregory Sherl
 
