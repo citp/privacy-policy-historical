@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richersounds.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618163347id_/http%3A//www.richersounds.com/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richersounds.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215023506id_/http%3A//www.richersounds.com/information/privacy) for the most accurate reproduction.*
 
 # Richer Sounds - The UK's Hi-Fi, Home Cinema & Flat Panel TV Specialists!
 
