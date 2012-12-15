@@ -1,28 +1,32 @@
-> *The following text is extracted and transformed from the faayda.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508032918id_/http%3A//blog.faayda.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faayda.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215071249id_/http%3A//www.faayda.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | faayda.com | The Job Blog
+# About | Search all Jobs in India
 
-Faayda.com is committed to protecting the privacy of our users. We want to provide a safe, secure user experience. We will use our best efforts to ensure that the information you submit to us remains private, and is used only for the purposes specified 
+###  Privacy Policy of Faayda.com 
 
-**Privacy Policy Updates**  
-Due to the Internet’s rapidly evolving nature, Faayda.com may need to update this Privacy Policy from time to time. If so, Faayda.com will post its updated Privacy Policy on our Site located at www.faayda.com . We encourage you to review this Privacy Policy regularly for any changes. Your continued use of this Site will be subject to the then-current Privacy Policy. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@faayda.com. 
 
-**Information Collection and Use**  
-You can generally visit our Site without revealing any personally identifiable information about yourself. However, in certain sections of this Site, to use certain services, we may require you to create an account, or we may invite you to submit questions or comments or request information, subscribe to a newsletter, participate in surveys, questionnaires or contests, or message boards. Due to the nature of some of these activities, we may ask that you complete and submit an online form with personally identifiable information such as your name, username, email address, contact information, employment information. We may use your personally identifiable information to deliver certain services, products or information you have requested, verify your authority to enter certain password protected areas of the Site, send you notices for services that you have used or that may be of interest to you, and improve the content and general administration of the Site. We may receive your personally identifiable information from our partners that provide us with third-party services so that we can customize and improve the services that we may provide to you. Additionally, if you have elected to reveal your email address to other registered members, they will have access to and be able to use your email address. 
+At www.faayda.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.faayda.com and how it is used. 
 
-Personal data submitted by users will be used for the sole purpose of assisting the Job Seeker to find appropriate employment. Users can have their personal data removed from Faayda.com at any time by emailing info@faayda.com 
+**Log Files**  
+Like many other Web sites, www.faayda.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-**Cookies**  
-We may use small text files called cookies to improve overall Site experience. A cookie is a piece of data stored on the user’s hard drive containing information about the user. Cookies generally do not permit us to personally identify you. 
+**Cookies and Web Beacons**  
+www.faayda.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-**Aggregate Information**  
-The Site may track the total number of visitors to our Site, the number of visitors to each page of our Site, IP addresses, External Web Sites linked to, search terms and the domain names of our users’ Internet Service Providers, and we may analyze these data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We also may collect aggregate labor statistics from public records. Such aggregate information is not linked to any personal information that can identify any individual person. We may use such aggregate information to analyze trends, administer the Site, track users’ movement, and gather broad demographic information for aggregate use. 
+**DoubleClick DART Cookie**
 
-**Disclosure**  
-Disclosure of Personal Information. Although we may disclose aggregated information about the use of our site, that information does not contain Personal Information. We do not disclose Personal Information to third parties in the normal course of operations. Under certain circumstances, however, we could be legally obligated to disclose information to the government or other third parties and if Faayda.com becomes part of another organization, that organization will possess the Personal Information collected by Faayda.com and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy. 
+.:: Google, as a third party vendor, uses cookies to serve ads on www.faayda.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to www.faayda.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
-**Security**  
-Faayda.com has implemented and follows industry standard measures to protect against unauthorized access to and unlawful interception or processing of Personal Information. However, no internet site can fully eliminate security risks. 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense 
 
-**Links to Third Party Sites**  
-The Site may provide links to other Web sites or resources over which Faayda.com does not have control (“External Web Sites”). Such links do not constitute an endorsement by Faayda.com of those External Web Sites. You acknowledge that Faayda.com is providing these links to you only as a convenience, and further agree that Faayda.com is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites. If you have questions about this Privacy Policy, please contact us
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.faayda.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+
+www.faayda.com has no access to or control over these cookies that are used by third-party advertisers. 
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.faayda.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
