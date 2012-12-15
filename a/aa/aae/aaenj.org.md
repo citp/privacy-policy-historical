@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aaenj.org privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608051721id_/http%3A//www.aaenj.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaenj.org privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215034504id_/http%3A//aaenj.org/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - www.aaenj.org
+# Privacy Policy - aaenj.org
 
-Privacy Policy for www.aaenj.org 
+Privacy Policy for aaenj.org 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at faheem@faheem.in. 
 
