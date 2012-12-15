@@ -1,127 +1,82 @@
-> *The following text is extracted and transformed from the thecloud.net privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616140240id_/http%3A//www.thecloud.net/wifi/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecloud.net privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215154944id_/http%3A//www.thecloud.net/wifi/privacy) for the most accurate reproduction.*
 
-# Privacy | The Cloud
+# Privacy Policy, The Cloud
 
-## How do we collect information about you?
+This privacy notice applies to the way we, The Cloud, use your personal information. The Cloud is a British Sky Broadcasting Group company.
 
-We may collect personal information from you when you register to use the services provided on our website.
+Any member of the British Sky Broadcasting group may use and share, within that group, the information you provide and other information it holds about you for the purposes set out below.
 
-## What information do we collect?
+**Cookies Notice**
 
-We may collect the following information: Your name; e-mail address; organisation name; phone numbers; technical details on your computer or access device; time and date of access; location of access Your billing information, transaction and credit card information Information regarding your personal or professional interests, demographics, experiences with the Services and contact preferences in order to provide you with further correspondence about our products and services.
+When you create or log in to an online account you agree to our privacy and cookies notice. Otherwise, by continuing to use our websites or mobile services you agree to the use of cookies as described in this notice.
 
-## What do we do with the information we gather?
+**Privacy Notice**
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: Internal record keeping We may use the information to improve our products and services We may use the information to manage the security of our services Our representatives may follow up, by e-mail, or mail, to people as part of our customer care procedures From time to time, we may use your information to contact you for market research purposes. We may contact you by e-mail, or mail, unless you have registered with the appropriate Preference Service If you wish to cease receiving e-mail updates, then please e-mail us at [cloud.terms@bskyb.com](mailto:cloud.terms@bskyb.com)[](mailto:webmaster@thecloud.net)
+The following is information we may hold about you.
 
-## E-mail marketing
-
-Unless you have registered with the appropriate Preference Service, we would like to provide you by e-mail with information about new products, promotions, special offers and other information which we think you may find interesting. However, we appreciate that e-mail "spam" has become a problem in recent years. If you are a customer or you have previously asked us for information on our products, we may send you information on our range of products by e-mail, unless you have asked us not to do so.
-
-If the reason you have given us personal information is to receive e-mail information from us, we will continue to provide this information by e-mail unless you ask us not to do so. Otherwise, when you provide us with personal information, we will ask you whether or not you are happy for us to send you this kind of information by e-mail.  
-If you decide at any time that you no longer wish to receive marketing e-mails from us, please contact:
-
-Data Protection Compliance Officer  
-Third Floor,  
-Victoria Square,  
-St. Albans AL1 3TF  
-or: [cloud.terms@bskyb.com](mailto:cloud.terms@bskyb.com)[](mailto:webmaster@thecloud.net)
-
-What if you think we have incorrect information or you would like a copy of the information we hold about you? We will provide details of any personal information held about you upon request. A small fee will be payable. If you would like a copy of the information held on you please write to:
-
-Data Protection Compliance Officer  
-Third Floor,  
-Victoria Square,  
-St. Albans AL1 3TF  
-or: [cloud.terms@bskyb.com](mailto:cloud.terms@bskyb.com)[](mailto:webmaster@thecloud.net)
-
-If you believe that any information we are holding on you is incorrect or incomplete, please e-mail us as soon as possible at [cloud.terms@bskyb.com](mailto:cloud.terms@bskyb.com)[](mailto:webmaster@thecloud.net). We will correct or update any information which is found to be incorrect as soon as possible.
-
-Who We Share the Information With And Your Choices  
-When you use this website and have not advised us to the contrary, you are agreeing that we may use your personal information for the purposes set out in this statement. We will not sell, distribute or lease your personal information to third parties other than our subsidiaries, parent company, subsidiary of our parent company, or a purchaser or potential purchaser of our business unless we have your permission or are required by law.
-
-This process may include sending personal information outside of the European Economic Area and, if necessary, across international borders. The data protection laws in these countries may not be as extensive as in the European Economic Area. However, we have taken appropriate steps to ensure the same level of protection for the processing carried out in these countries as within the European Economic Area.
-
-## Other Websites
-
-Our website may contain links to enable you to visit other web sites of interest easily. We do not have any control over that other web site. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such websites and such websites are not governed by this Privacy Policy. You should exercise caution and look at the privacy statement or policy applicable to the web site in question.
-
-## How We Use Cookies
-
-You should be aware that when you use our websites, mobile sites, or mobile apps, we may collect information by using 'cookies'. 
-
-If you'd like to learn how to manage these cookies and 'opt in' and 'out' of different types,  [ please see our cookies and privacy FAQs.](http://www.sky.com/helpcentre/broadband/security-centre/cookies-and-your-privacy/index.html)
-
-**What are cookies and how do they work?**
-
-Cookies are small bits of text that are downloaded to your computer or mobile device when you visit a website. Your browser sends these cookies back to the website every time you visit the site again, so it can recognise you and can then tailor what you see on the screen.   
- 
-
-**What do you use cookies for?**
-
-Cookies are an important part of the internet. They make using websites much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into four main groups.   
- 
-
-**Cookies that are needed to provide the service you have asked for**
-
-Some cookies are essential so you can move around the website and use its features. Without these cookies, services you've asked for can't be provided. These cookies don't gather information about you that could be used for marketing or remembering where you've been on the internet. 
-
-Here are some examples of essential cookies.
-
-  * Keeping you logged in during your visit; without cookies you might have to log in on every page you go to.
-  * When you add something to the online shopping basket, cookies make sure it's still there when you get to the checkout.
-  * Some are session cookies which make it possible to navigate through the website smoothly. However these are automatically deleted after you close your web browser.
+  * Information you have given us, including on our websites.
+  * Information about our services you've used.
+  * Information provided by other companies who have your permission to share information about you.
+  * Information we collect using cookies stored on your device. For more information on cookies and how to manage them, please see our section on 'Cookies'.
+  * Your IP address (this is a number that identifies a specific network device on the internet and is needed for your device to communicate with websites).
+  * Technical details about your computer or access device.
+  * The times and dates of your access to our service.
+  * The locations of your access to our service.
 
 
 
-**  
-Improving your browsing experience**
+**How we may use your information**
 
-These cookies allow the website to remember choices you make, such as your language or region and they provide improved features. 
+As well as using your information to provide you with the services you have asked for and to generally manage your account and the traffic across our network, we may also use your information in the following ways:
 
-Here are a few examples of just some of the ways that cookies are used to improve your experience on our websites.
-
-  * Remembering your preferences and settings, including marketing preferences.
-  * Remembering if you've filled in a survey, so you're not asked to do it again.
-  * Remembering if you've been to the site before. If you are a first-time user, you might see different content to a regular user.
-  * Restricting the number of times you're shown a particular advertisment. This is sometimes called 'frequency capping'.
-  * Showing you information that's relevant to products of ours that you have.
-  * Enabling social media components, like Facebook or Twitter.
-  * Showing 'related article' links that are relevant to the page you're looking at.
-  * Remembering a location you've entered such as weather forecasts.
+  * We may monitor and improve our services and websites.
+  * We may use it for market research.
+  * We may also need to use it to pass to others so we can keep to any legal or regulatory requirements, to protect or enforce our rights or the rights of any third party, in the detection and prevention of fraud and other crimes, and for the purpose of protecting national security.
+  * We may pass your information to anyone who takes over our business for them to use for the purposes set out in this privacy notice.
 
 
 
-**  
-Analytics**
+And unless you've asked us not to, we may:
 
-We like to keep track of what pages and links are popular and which ones don't get used so much to help us keep our sites relevant and up to date. It's also very useful to be able to identify trends of how people navigate (find their way through) our sites and if they get 'error messages' from web pages. 
-
-This group of cookies, often called 'analytics cookies' are used to gather this information. These cookies don't collect information that identifies you. The information collected is anonymous and is grouped with the information from everyone else's cookies. We can then see the overall patterns of usage rather than any one person's activity. Analytics cookies only record activity on the site you are on and they are only used to improve how a website works. 
-
-Some of our websites and some of the emails you might get from us also contain small invisible images known as 'web beacons' or 'tracking pixels'. These are used to count the number of times the page or email has been viewed and allows us to measure the effectiveness of its marketing and emails. These web beacons are anonymous and don't contain or collect any information that identifies you. 
-
-We also use 'affiliate' cookies. Some of our web pages will contain promotional links to other companies' sites. If you follow one of these links and then register with or buy something from that other site, a cookie is sometimes used to tell that other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral. This works using a cookie. 
-
-[ Learn how to manage your analytics cookies.](http://www.sky.com/helpcentre/broadband/security-centre/cookies-and-your-privacy/#analyticsoptout)
-
-  
-**Showing advertising that is relevant to your interests**
-
-We sell space on some of our sites to advertisers. The resulting adverts often contain cookies. The advertiser uses the browsing information collected from these cookies to:   
- 
-
-  1. restrict the number of times you see the same ad (frequency capping); and
-  2. help show other ads that are relevant to you while you're on our websites. This is often called online behavioural advertising (OBA). OBA is a way of using information about your web-browsing activity, collected by using cookies, to group you with other users into interest groups and show you advertisements based on those interests. The OBA data collected from cookies you get when you're on our sites is only used to show relevant ads on our sites, not on other websites.
+  * send you direct marketing (this may include communications by post, telephone, email or SMS) about Cloud's, Sky's and our business partners' products and services, events and special offers, including for a reasonable time after you stop being our customer.
+  * provide adverts to you on our websites based on other websites you may have visited (online behavioural advertising). For more information, see the [ section on cookies](http://help.sky.com/security/privacy/privacy-and-cookies-notice#tab-1).
 
 
 
-Sometimes our websites contain ads for our own Sky products. These ads use cookies in the same way as described above. 
+**Your preferences**
 
-So how does OBA work? Let's look at an example. Imagine you visit a website about travel. That website shows an advert and with that advert you receive a cookie. Imagine you then visit one of our websites which has an advert from the same advertiser you saw on the travel site. The advertiser will give you a new version of the cookie you received on the travel site. The advertiser can then use that cookie to recognise that you've previously been to a travel site and show you a relevant ad. 
+Marketing
 
-Although the OBA data collected uses your browsing activity to understand your interests, the data is anonymous and isn't linked to you as a person. Even if you log in to our websites, the OBA data is still not linked to you or your your Sky profile or subscription. 
+You can opt out of receiving marketing from the Cloud in the following ways:
 
-Neither we, nor the companies who show ads on our sites sell data collected from cookies to any other organisations. 
+  * by writing to: Data Protection Compliance Officer, Third Floor, Victoria Square, St Albans, Al1 3TF;
+  * by emailing us at: [wifisupport@bskyb.com](mailto:wifisupport@bskyb.com).; or
+  * by changing your settings in your Cloud account [ https://service.thecloud.net/service-platform/account/profile/](https://service.thecloud.net/service-platform/account/profile/)
 
-[ It's easy to opt out of behavioural advertising and manage your cookies if you want to.](http://www.sky.com/helpcentre/broadband/security-centre/cookies-and-your-privacy/#optout)
+
+
+You can also click on the 'unsubscribe' link in direct marketing emails from us.
+
+  * Any opt-in provided to us is separate from any marketing preferences you may have given to Sky and any of its Affiliates.
+  * If you are a Sky broadband customer and you wish to opt-out of marketing from Sky you can opt out by calling Sky on 08442 414141 or via your MySky account. You can also click on the 'unsubscribe' link in direct marketing emails.
+  * Online advertising
+
+
+
+If you do not want to receive online behavioural advertising, or do not want any information processed using cookies, please see the [ section on cookies](http://help.sky.com/security/privacy/privacy-and-cookies-notice#tab-1).
+
+**Contacting us**
+
+If you have any questions or comments about this privacy notice or if you want a copy of the information we hold about you, send your request to:
+
+Customer Relations  
+Sky Subscriber Services Ltd  
+PO Box 43  
+Livingston  
+West Lothian
+
+EH54 7DD
+
+or [dp@bskyb.com](mailto:dp@bskyb.com)
+
+Please make sure you tell us about any updates, amendments and corrections to your information by contacting us at  [ wifisupport@bskyb.com](file:///C:/Users/toweymat/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.Outlook/IKQ6TDRQ/wifisupport@bskyb.com).
