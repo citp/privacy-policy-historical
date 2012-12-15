@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rezlive.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613192758id_/http%3A//www.rezlive.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rezlive.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215153034id_/http%3A//rezlive.com/privacy_policy.php) for the most accurate reproduction.*
 
 # RezLive.com - Global Reservation System by Travel Designer India Pvt Ltd
 
