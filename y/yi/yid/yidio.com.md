@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yidio.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629164810id_/http%3A//www.yidio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yidio.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215050345id_/http%3A//www.yidio.com/privacy) for the most accurate reproduction.*
 
 # Yidio Privacy Policy
 
@@ -57,11 +57,14 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 **How to Contact Us**
 
-If you have any questions or concerns about Yidio's Privacy Policy or its implementation, you may contact us by going to the following link: <http://www.yidio.com/contact>.  
-You may opt out of Yidio Emails here:: <http://www.yidio.com/user_alerts.php>.
+If you have any questions or concerns about Yidio's Privacy Policy or its implementation, you may contact us by going to the following link: <http://www.yidio.com/contact>.
+
+**Opt Out Policy**
+
+If, at any time after registering for information, you change your mind about receiving information from us or about the use of information volunteered by you, you can change that at any time. You may opt out of Yidio Emails by clicking at the bottom of all emails or visiting here and removing to your choice: <http://www.yidio.com/user_alerts.php>.
 
 **Changes to this Privacy Policy and Additional Information**
 
 We may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to Yidio's information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from Yidio, as well as for special features and services not described in this Policy that may be introduced in the future.
 
-Last Updated:October 5, 2011 
+Last Updated:Feb 5, 2012 
