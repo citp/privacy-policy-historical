@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thecut.com privacy policy that was archived on 2012-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615161735id_/http%3A//nymag.com/newyork/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thecut.com privacy policy that was archived on 2012-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121215133253id_/http%3A//nymag.com/newyork/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -28,18 +28,21 @@
 
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/48740834.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="//cdn.optimizely.com/js/48740834.js"></script>
 
 <script type="text/javascript">
-	var date = 'June 15, 2012 12:17:35';
+	var date = 'December 15, 2012 08:32:52';
 	var currDate=new Date(date);
 	if(document.location.search.match("firebug-lite"))
 		document.write("<scr"+"ipt src='https://getfirebug.com/firebug-lite.js'></scr"+"ipt>");
 </script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-<script type="text/javascript">
-    if (typeof jQuery === 'undefined') document.write("<scr"+"ipt src='/scripts/jquery-1.4.2.min.js'></scr"+"ipt>");
-</script><script src="/scripts/jquery-1.4.2.min.js"></script>
+<script src="//cache.nymag.com/scripts/modernizr/2.0.6/modernizr.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script>
+    if (typeof jQuery === 'undefined') {
+	document.write("<script src=\"http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.2.min.js\"><\/script>");
+    }
+</script><script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="http://cache.nymag.com/scripts/jquery-ui-1.8.2.custom.min.js"></script>
 
 <script type="text/javascript" src="http://cache.nymag.com/scripts/ad_manager.js"></script>
@@ -56,79 +59,104 @@ Backplane.expectMessagesWithin(4);
 <script type="text/javascript" src="http://cache.nymag.com/js/2/scripts.js"></script>
 
 <script type="text/javascript" src="http://cache.nymag.com/js/2/clickability.js"></script>
+<script type="text/javascript" src="http://cache.nymag.com/js/2/popup.js"></script>
 
 
 <script type="text/javascript" src="http://use.typekit.com/uam8hyd.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-<style type="text/css">
-	.wf-loading .elderkin .texty-content h1 {visibility: hidden;}
-</style>
 
 
 </head>
 <body id="www-newyorkmag-com" class="aboutus ad-column-180 text-sizer">
+<div id="wrap-wrap">
 <div id="wrap">
+
 <div id="brand">
 
 
 	<div id="mast">
-		<div id="utilities" class="fb_notconnected">
-			<div class="main">
-				<ul class="global">   
-					<li class="top the-magazine"><a id="nav-mag" class="top" href="http://nymag.com/includes/tableofcontents.htm">The Magazine</a>
-						<div id="sub_nav_mag"></div>							
-					</li>
-					<li class="top"><a id="nav-blogs" class="top" href="/daily/">Blogs</a>
-						<div id="sub_nav_blogs"></div>
-					</li>
-					<li class="last top"><a id="nav-video" class="top" href="http://videos.nymag.com">Video</a>
-						<div id="sub_nav_video"></div>
-					</li>
-								
-				</ul><!-- /end .global -->
-				<p class="wx"><a title="Click for the five-day forecast" href="http://nymag.com/weather/">Mostly Sunny 75°
-<!-- weather update: Fri Jun 15 12:15:05 EDT 2012 -->
- »&nbsp;5-day</a></p> 
-			
-			</div><!-- /end .main -->
-			        <dl class="membership" id="logged_in_bar" style="display:none;">
-                <dt> </dt>
-						<dd>
-                                <ul>
-									<li class="first mynewyork"><a id="nav-mynewyork" class="top" href="http://my.nymag.com/"><span id="mynewyork-wrp">Welcome, <cite id="user_name">UserName</cite> <span class="fbpic"></span></span></a>
-										<div id="sub_nav_mynewyork"></div>   
-									</li>
+	<div id="fb-root"></div>
+<script>
 
-									<li class="fb_login">
-										<a href="https://secure.nymag.com/accountcenter/login.cgi" class="login-lightbox"><b>Sign In</b> with <b>Facebook</b></a>
-									</li>
+//----------- facebook sdk
+  	(function(d){
+    	var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     	if (d.getElementById(id)) {return;}
+     	js = d.createElement('script'); js.id = id; js.async = true;
+     	js.src = "//connect.facebook.net/en_US/all.js";
+     	ref.parentNode.insertBefore(js, ref);
+   	}(document));
+   	
+window.fbAsyncInit = function() {
+    FB.init({
+    	  appId      : '120608177953522', // App ID
+//	      channelUrl : '/includes/components/mast/utilities/fb_channel.html', // Channel File
+    	  status     : true, // check login status
+	      cookie     : true, // enable cookies to allow the server to access the session
+    	  xfbml      : true,  // parse XFBML
+    	  logging      : true
+	    });
+    
+    };
 
-									<li class="logout"><a href="https://secure.nymag.com/accountcenter/logout.cgi">Log Out</a></li>                                
-									<!-- <li><a href="#">Profile</a></li>-->
-                                </ul>
-                       </dd>
-		</dl>
-        <dl class="membership" id="logged_out_bar">
-			<dt class="fb_login"> 
- 				<a href="https://secure.nymag.com/accountcenter/login.cgi" class="login-lightbox"><b>Sign In</b> with <b>Facebook</b></a>
- 			</dt>  
-         
-			<dd>
-                <ul>
-					<li class="first"><a href="https://secure.nymag.com/accountcenter/login.cgi" class="login-lightbox"><b>Sign In</b> with <b>NYMag</b></a></li>
-					<li><a href="https://secure.nymag.com/registration/" class="register-lightbox">Register</a></li>
-                </ul>
-       		</dd>             
+</script> 
 
-        </dl><!-- /end .membership -->
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<div id="utilities" class="fb_notconnected">
+		<div class="main">
+			<ul class="global">
+				<li class="home"><a href="/index.htm">nymag.com</a></li>
+				<li class="top the-magazine">
+					<a id="nav-mag" class="top" href="/includes/tableofcontents.htm">The Magazine</a>
+					<a id="nav-mag-hover" ahref="#">The Magazine</a>
+					<div id="sub_nav_mag"></div>							
+				</li>
+				<li><a href="/daily/intelligencer/">Daily Intelligencer</a></li>					
+				<li><a href="http://www.vulture.com">Vulture</a></li>
+				<li><a href="/thecut/">The Cut</a></li>				
+				<li class="last"><a href="http://newyork.grubstreet.com/">Grub Street</a></li>												
+			</ul><!-- /end .global -->	
+		  </div><!-- /end .main -->
+			 <div class="login-social-wrap">
+		    <div class="navSocial">
+		    	<ul class="navSocial-list">
+					<li class="facebook navSocial-list-item">
+						<div class="fb-like-container">
+							<div class="fb-like" data-href="http://www.facebook.com/NewYorkmag" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="arial"></div>
+						</div>
+					</li>
+					<li class="twitter navSocial-list-item last">
+						<a href="https://twitter.com/NYMag" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false"></a>
+					</li>
+				</ul>
+			</div>    
+		    <div id="logged_in_bar" class="membership" style="display:none;"> 
+		        <ul>
+					<li class="mynewyork"><a id="nav-mynewyork" class="top" href="http://my.nymag.com"><span id="mynewyork-wrp"><cite id="user_name">UserName</cite> <span class="fbpic"></span></span></a>
+						<div id="sub_nav_mynewyork"></div>   
+					</li>				                               
+		        </ul>	
+		    </div> 
+		    <div id="logged_out_bar" class="membership" style="display:none;"> 
+				<ul>
+					<li>
+						<a class="login-lightbox" href="/accountcenter/login.cgi">Log In</a>
+					</li>
+					<li class="register last">
+						<a class="register-lightbox" href="/registration/">Register</a>
+					</li>		            
+				</ul>        
+		    </div>
+	    </div>
+
 		<script type="text/javascript">
 			if (!(typeof initMembership === "undefined")){
 				initMembership();
 			} 
 		</script>
 
-		</div><!-- /end #utilities -->
- 
+	</div><!-- /end #utilities -->
  
  
  
@@ -179,7 +207,7 @@ Backplane.expectMessagesWithin(4);
 				
 			</div><!-- /end .sub -->
 		</li>
-		<li id="nav-fash" class="top"><a class="top" href="/fashion/?f=fashion">Fashion</a>
+		<li id="nav-fash" class="top"><a class="top" href="/thecut/">Fashion</a>
 			<div class="sub" id="sub_nav_fash">
 				
 			</div><!-- /end .sub -->
@@ -196,8 +224,8 @@ Backplane.expectMessagesWithin(4);
 	<div id="nav-secondary">
 
 		<ul id="subscribe-today" class="subscribe">
-			<li><i style="font-family:Georgia,serif;font-weight:normal;color:#252525;">New York: </i><a href="http://nymag.com/redirects/circ_subscribe/orderform.html" target="_blank"><b>Subscribe Today</b></a></li>
-			<li class="last"><a href="http://nymag.com/redirects/circ_gifts/gift-A.html" target="_blank">Give a Gift</a></li>
+			<li><i style="font-family:Georgia,serif;font-weight:normal;color:#252525;">New York: </i><a href="/redirects/circ_subscribe/orderform.html" target="_blank"><b>Subscribe Today</b></a></li>
+			<li class="last"><a href="/redirects/circ_gifts/gift-A.html" target="_blank">Give a Gift</a></li>
 		</ul>
 
 		<ul class="nav">
@@ -221,10 +249,10 @@ Backplane.expectMessagesWithin(4);
 						
 					</div>
 				</li>
-				<li><a id="nav-design" class="no-subnav" href="http://nymag.com/homedesign/">Design<i></i></a></li>
+				<li><a id="nav-design" class="no-subnav" href="/homedesign/">Design<i></i></a></li>
 				<li><a id="nav-weddings" class="no-subnav" href="/weddings/">Weddings<i></i></a></li>												
 				<li><a id="nav-bestdocs" class="no-subnav" href="/bestdoctors/">Best Doctors<i></i></a>	</li>															
-				<li><a id="nav-dating" class="no-subnav" href="http://nymag.howaboutwe.com/?source=nym_nav">Dating<i></i></a></li>
+				<li><a id="nav-dating" class="no-subnav" href="http://nymag.howaboutwe.com/">Dating<i></i></a></li>
 				<li class="top last"><a id="nav-bony" class="top" href="/bestofny/"><b>Best of <abbr title="New York">NY</abbr></b><i></i></a>
 					<div id="sub_nav_bony">
 						
@@ -512,11 +540,10 @@ The Sites contain links, sometimes in the form of ads or links to other sites, s
 					<div class="content single">
 						<div class="review">
 							<ul>
-								<li><a href="http://nymag.com/newsletters/">Newletters</a></li>
+								<li><a href="http://nymag.com/newsletters/">Newsletters</a></li>
 								<li><a href="http://nymag.com/sitemap/">Site Index</a></li>
 								<li><a href="http://nymag.com/newyork/privacy/">Privacy Policy</a></li>
 								<li><a href="http://nymag.com/newyork/terms/">Terms of Use</a></li>
-								<li><a href="http://nymag.com/mobile/">Mobile Services</a></li>
 								<li><a href="http://nymag.com/newyork/contestrules/">Contest Rules and Regulations</a></li>
 
 							</ul>
@@ -552,7 +579,7 @@ The Sites contain links, sometimes in the form of ads or links to other sites, s
 						<div class="row columns-2">
 							<div class="column col-1">
 
-								<a href="/includes/tableofcontents.htm"><img src="http://images.nymag.com/nymag/toc/NYM-1220-CovNews.jpg" alt="Current Issue"></a>
+								<a href="/includes/tableofcontents.htm"><img src="http://images.nymag.com/nymag/toc/20121210_rtlnycvr_150.jpeg" alt="Current Issue"></a>
 
 							</div>
 
@@ -560,7 +587,7 @@ The Sites contain links, sometimes in the form of ads or links to other sites, s
 								<h6>Subscribe to <cite>New York</cite></h6>
 								<ul class="nav">
 									<li id="sub-view-contents"><a href="/includes/tableofcontents.htm">View Contents</a></li>
-									<li id="sub-order-issue"><a href="http://nym.shopviapcd.com/cart/p-22690.htm">Order Issue</a></li>
+									<li id="sub-order-issue"><a href="http://nym.shopviapcd.com/cart/p-22712.htm">Order Issue</a></li>
 									<li id="sub-cover-gallery"><a href="/nymag/toc/2012/index.html">Cover Gallery</a></li>
 									<li id="sub-customer-service"><a href="https://secure.palmcoastd.com/pcd/eServ?iServ=MDM5MjEzOTI0MQ==">Customer Service</a></li>
 								</ul>
@@ -672,6 +699,8 @@ nymag.dcads.loadWriteCapture();
 </script>
  	
 	</div>
+
+</div>
 </div>
 		<div id="tracking">
   
@@ -679,16 +708,7 @@ nymag.dcads.loadWriteCapture();
    <!--  analytics dc -->
   <script type="text/javascript" src="http://cache.nymag.com/scripts/analytics.js"></script> 
   <noscript><div><a href="http://www.omniture.com" title="Web Analytics"><img src="http://nymcom.112.2O7.net/b/ss/nymcom/1/H.14--NS/0" height="1" width="1" alt=""/></a></div></noscript> 
- </div> <!-- closes #tracking-omniture --> 
-  
- <div id="tracking-quantcast"> 
-  <!-- Start Quantcast tag --> 
-  <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script> 
-  <script type="text/javascript">_qacct="p-52tlJ-QdbVwC-";quantserve();</script> 
-  <noscript><div><a href="http://www.quantcast.com/p-52tlJ-QdbVwC-"><img src="http://pixel.quantserve.com/pixel/p-52tlJ-QdbVwC-.gif" style="display: none;" height="1" width="1" alt="Quantcast"/></a></div></noscript> 
-  <!-- End Quantcast tag --> 
- </div> <!-- closes #tracking-quantcast -->
-
+ </div> <!-- closes #tracking-omniture -->
 
 <!-- START Nielsen Online SiteCensus V6.0 - COPYRIGHT 2010 Nielsen Online --> 
 <script type="text/javascript"> 
@@ -729,7 +749,15 @@ nymag.dcads.loadWriteCapture();
     var _sf_async_config={};
     /** CONFIGURATION START **/
     _sf_async_config.uid = 19989;
-    _sf_async_config.domain = 'nymag.com';
+
+    if(location.host.match('dev') || location.host.match('qa') || location.host.match('stg')){
+        _sf_async_config.domain = 'test.nymag.com';
+    } else {
+        _sf_async_config.domain = 'nymag.com';
+    }
+
+    _sf_async_config.path = window.location.pathname;
+    
     _sf_async_config.sections = "";
     
     var doc_type = document.getElementsByName("document_type");
