@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the transfermarkt.co.uk privacy policy that was archived on 2012-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120604162036id_/http%3A//www.transfermarkt.co.uk/en/information/datenschutz/intern.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the transfermarkt.co.uk privacy policy that was archived on 2012-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121215083444id_/http%3A//www.transfermarkt.co.uk/en/information/datenschutz/intern.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 			
@@ -12,18 +12,21 @@
 	<meta name="google-site-verification" content="2jE8XNYkx62Aq01u7SyWEtHkBMOj7QDV2tiACI6tJzg">
 	<meta name="description" content="">
 	<link href="https://plus.google.com/108514882054634416819" rel="publisher">
+<link rel="search" title="transfermarkt.co.uk" href="http://static.transfermarkt.net/static/downloads/specials/transfermarkt_co.uk.xml" type="application/opensearchdescription+xml">
 	<link rel="image_src" type="image/png" href="http://static.transfermarkt.net/img/logo.png">
 	<meta property="fb:admins" content="1825500939,1289701991,100001215771843,100002280345866">
 
 
 
 
-	<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/style.css?v=110">
-	<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/style_neu_test.css?v=5">
+
+	<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/style.css?v=149">
+	
+	
 	<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/style_inline.css?v=1">
-	<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/custom/jquery.css">
+	<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/custom/jquery.css?v=2">
 	<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/jquery.tooltip.css">
-	<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/style_sprites.css?v=10">
+	<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/style_sprites.css?v=19">
 	
  <!--[if IE 8]>
 	<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/style_ie8.css" />
@@ -43,6 +46,17 @@
 		.formular label.error {margin-left:10px;width:270px;color:red;padding-left:20px;background:url('http://static.transfermarkt.net/static/images/icons/denied.gif') no-repeat left top;}
 		.formular label.accept {background:url('http://static.transfermarkt.net/static/images/icons/accept.gif') no-repeat left top;}
 		#newsletter_topics label.error {display:none;margin-left:103px;}
+
+		#TLDinfo {
+			float: left;
+			margin: 0 0 30px 50px;
+			border-radius: 0;
+			-moz-border-radius: 0;
+			-webkit-border-radius: 0;	
+			box-shadow: 8px 8px 15px #666;
+			-moz-box-shadow: 8px 8px 15px #666;
+			-webkit-box-shadow: 8px 8px 15px #666;
+		}
 	</style>
 
 
@@ -54,12 +68,14 @@
 
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.transfermarkt.net/static/js/gcc/jq_20120120.js?_sn=1"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/de_DE/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.transfermarkt.net/static/js/gcc/jq_20120120.js?_sn=1"></script>
 <script type="text/javascript" src="http://static.transfermarkt.net/static/js/min/jquery.bxSlider.min.js"></script>
 <script type="text/javascript" src="http://static.transfermarkt.net/static/js/min/jquery.hoverIntent.min.js"></script>
 <script type="text/javascript" src="http://static.transfermarkt.net/static/js/developer/jquery.personPopup.js"></script>
-
-<script type="text/javascript" src="http://static.transfermarkt.net/static/js/developer/tmfunc.js?_sn=000000022"></script>
+<script type="text/javascript" src="http://static.transfermarkt.net/static/js/developer/jquery.tablePopup.js"></script>
+<script type="text/javascript" src="http://static.transfermarkt.net/static/js/jquery.datepicker/jquery.ui.datepicker-de.js"></script>
+<script type="text/javascript" src="http://static.transfermarkt.net/static/js/jquery.datepicker/jquery.ui.datepicker-en.js"></script>
+<script type="text/javascript" src="/static/js/developer/tmfunc.js?_sn=000000049"></script>
 <script type="text/javascript">
 <!--
 	setGlobalStdVars("en", "", "", "0", "", "");
@@ -74,17 +90,67 @@
 
 
 
+
+
+
+
 <script type="text/javascript">
 
-	function toggleContainerCookie(ele,cName) {
+	function toggleContainerCookie(ele,cName,drag) {
 		$(ele).toggle();
-		if($(ele).css('display') == 'block') {$.setCookie(cName, '1', {duration: 10, path: '/', domain: '', secure: false});}
-		else {$.setCookie(cName, '0', {duration: 10, path: '/', domain: '', secure: false});}
+		if($(ele).css('display') == 'block') {
+			$.setCookie(cName, '1', {duration: 10, path: '/', domain: '', secure: false});
+			if(drag == 1) {
+				dragContainer(ele);
+			}
+		} else {
+			$.setCookie(cName, '0', {duration: 10, path: '/', domain: '', secure: false});
+			if(drag == 1) {
+				var nameX = ele + '_X';
+				var nameY = ele + '_Y';
+
+				$.setCookie(nameX, '0', {duration: 10, path: '/', domain: '', secure: false});
+				$.setCookie(nameY, '0', {duration: 10, path: '/', domain: '', secure: false});
+			}
+		}
 	}
 	function prepareCookieContainer(ele,cName) {
 		var value = $.readCookie(cName);
-		if (value == 1) { $(ele).show(); }
+		if (value == 1) { 
+			$(ele).show();
+			var nameX = ele + '_X';
+			var nameY = ele + '_Y';
+			if($.readCookie(nameX) > '0' && $.readCookie(nameY) > '0') {
+				$(ele).offset({top:$.readCookie(nameY),left:$.readCookie(nameX)});
+			}
+			dragContainer(ele,cName);
+		}
 	}
+
+	function dragContainer(ele,cName) {
+		if(cName != '') {
+			$.setCookie(cName, '1', {duration: 10, path: '/', domain: '', secure: false});
+		}
+		$(ele).draggable({
+			handle: "p.hl_startseite",
+			stop: function(event,ui) {
+				var offsetXPos = parseInt( ui.offset.left );
+				var offsetYPos = parseInt( ui.offset.top );
+				//alert($(this).index()+"\nDrag stopped!\n\nOffset: (" + offsetXPos + ", " + offsetYPos + ")\n");
+
+				var nameX = ele + '_X';
+				var nameY = ele + '_Y';
+
+				//alert(ui.toSource());
+
+				$.setCookie(nameX, offsetXPos, {duration: 10, path: '/', domain: '', secure: false});
+				$.setCookie(nameY, offsetYPos, {duration: 10, path: '/', domain: '', secure: false});
+				//$(ele).css(position, 'fixed');
+		    }
+		});
+	}
+		
+	
 
 </script>
 <!-- Dieses Tag in den Head-Bereich oder direkt vor dem schließenden Body-Tag einfügen -->
@@ -108,7 +174,18 @@
 
 </head>
 <body>
-<div class="dn"><img src="http://static.transfermarkt.net/start.gif?_ts=1338826835" width="1" height="1" alt="" title=""></div>
+<div id="fb-root"></div>
+
+<script type="text/javascript">(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/de_DE/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div class="dn"><img src="http://static.transfermarkt.net/start.gif?_ts=1355560483" width="1" height="1" alt="" title=""></div>
 
 
 
@@ -235,12 +312,14 @@ GA_googleFetchAds();
 				<div id="footer">
 				<div class="footerstrich"></div>
 				<a href="#top">Up</a><br><br>
-				<a href="http://www.transfermarkt.de">Transfermarkt.de</a> |
-				<a href="http://www.transfermarkt.tv">Transfermarkt.tv</a> |
-				<a href="http://www.transfermarkt.at">Transfermarkt.at</a> |
-				<a href="http://www.transfermarkt.ch">Transfermarkt.ch</a> |
-				<a href="http://www.transfermarkt.it">Transfermarkt.it</a> |
-				<a href="http://www.transfermarkt.com.tr">Transfermarkt.com.tr</a> |
+				<a href="http://www.transfermarkt.de">Transfermarkt.de</a> &nbsp; | &nbsp;
+				<a href="http://www.transfermarkt.tv">Transfermarkt.tv</a> &nbsp; | &nbsp;
+				<a href="http://www.transfermarkt.at">Transfermarkt.at</a> &nbsp; | &nbsp;
+				<a href="http://www.transfermarkt.ch">Transfermarkt.ch</a> &nbsp; | &nbsp;
+				<a href="http://www.transfermarkt.it">Transfermarkt.it</a> &nbsp; | &nbsp;
+				<a href="http://www.transfermarkt.com.tr">Transfermarkt.com.tr</a> &nbsp; <br>
+				<a href="http://www.transfermarkt.pl">Transfermarkt.pl</a> &nbsp; | &nbsp;
+				<a href="http://www.transfermarkt.es">Transfermarkt.es</a>&nbsp; | &nbsp;
 				<a href="http://www.transfermarkt.co.uk">Transfermarkt.co.uk</a><br><br>
 				<a href="http://www.transfermarkt.co.uk" target="_blank">© 2000 - 2012 Transfermarkt</a> |
 				<a href="/en/information/impressum/intern.html" rel="nofollow">Legal notice</a> |
@@ -257,7 +336,7 @@ GA_googleFetchAds();
 				<div class="fl shortlinks">
 					<p class="vb"><img src="http://static.transfermarkt.net/img/rss.png" alt="RSS">&nbsp;<a href="http://www.transfermarkt.co.uk/static/rss/AktuelleNewsCO.UK.rss">RSS</a></p>
 										<p class="vb"><img src="http://static.transfermarkt.net/img/chef.png" alt="Chef">&nbsp;<a href="http://www.basisrecherche.de" target="_blank">Chef</a></p>
-																	<p class="vb"><a href="/de/information/datenschutz/intern.html" title="German"><img src="http://static.transfermarkt.net/img/de.jpg" alt="German"></a><a href="/it/information/datenschutz/intern.html" title="Italian" style="margin-left:6px;"><img src="http://static.transfermarkt.net/img/it.jpg" alt="Italian"></a></p>
+																	<p class="vb"><a href="/de/information/datenschutz/intern.html" title="German"><img src="http://static.transfermarkt.net/img/de.jpg" alt="German"></a></p>
 															</div>
 				<div id="userspace" class="fr">
 				
@@ -279,7 +358,8 @@ GA_googleFetchAds();
 				<a href="/en/?from=top_navi">Home page</a>
 				<a href="/en/news/news/datum.html?from=top_navi">News</a>
 								<a href="/en/2010/startseite/wettbewerbeCO-UK.html?from=top_navi">Competitions</a>
-								<a href="/en/default/startseite/statistiken.html?from=top_navi">Statistics</a>
+												<a href="/en/default/startseite/statistiken.html?from=top_navi">Statistics</a>
+								
 								<a href="/en/transfers/startseite-km/transfers.html?from=top_navi">Transfers</a>
 								<a href="/en/fussball/foren/uebersicht.html?from=top_navi">forum</a>
 				<a href="/en/liveticker/livetickeruebersicht/ticker.html?from=top_navi">live</a>
@@ -314,6 +394,8 @@ prepareForumForAjax();
 			width:250,minChars:3,selectFirst:false,			extraParams:{from:'quicksearch'			}
 		});
 	$(document).personPopup();
+$(document).tablePopup();
+
 
 	$('a.track_me').click(function() {
 		var var_link = encodeURIComponent($(this).attr("href"));
@@ -394,22 +476,23 @@ prepareForumForAjax();
 			
 
 	
-<script type="text/javascript">
-<!--
-var IVW="http://transfer.ivwbox.de/cgi-bin/ivw/CP/int_unternehmen;comment";
-document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" alt=\"szmtag\" name=\"szmimages\" />");
-//-->
-</script><img src="http://transfer.ivwbox.de/cgi-bin/ivw/CP/int_unternehmen;comment?r=&amp;d=8297.959861331128" width="1" height="1" alt="szmtag" name="szmimages">
-<noscript>
-<img src="http://transfer.ivwbox.de/cgi-bin/ivw/CP/int_unternehmen;comment" width="1" height="1" alt="szmtag" />
-</noscript>
-<!-- /SZM -->
+	<script type="text/javascript">
+	<!--
+	var IVW="http://transfer.ivwbox.de/cgi-bin/ivw/CP/co-uk_int_unternehmen;comment";
+	document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" alt=\"szmtag\" name=\"szmimages\" />");
+	//-->
+	</script><img src="http://transfer.ivwbox.de/cgi-bin/ivw/CP/co-uk_int_unternehmen;comment?r=&amp;d=50544.09608406043" width="1" height="1" alt="szmtag" name="szmimages">
+	<noscript>
+	<img src="http://transfer.ivwbox.de/cgi-bin/ivw/CP/co-uk_int_unternehmen;comment" width="1" height="1" alt="szmtag" />
+	</noscript>
+	<!-- /SZM -->
+	
 		
 		
 <script type="text/javascript">
 <!--
 function ReloadPixelImages() {
-	_gaq.push(['_trackPageview']);
+	_gaq.push(['_trackPageview', "/jsContent" + window.location.pathname]);
 }
 // -->
 </script>
