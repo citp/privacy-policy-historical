@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journallive.co.uk privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615161421id_/http%3A//www.journallive.co.uk/sitemap/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journallive.co.uk privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215121554id_/http%3A//www.journallive.co.uk/sitemap/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JournalLive
 
