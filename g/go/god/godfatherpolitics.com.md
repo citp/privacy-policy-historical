@@ -1,21 +1,20 @@
-> *The following text is extracted and transformed from the godfatherpolitics.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615160950id_/http%3A//godfatherpolitics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godfatherpolitics.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215115921id_/http%3A//godfatherpolitics.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Godfather Politics
+# Privacy
 
-[  
-](http://godfatherpolitics.com/privacy/ "Privacy")**Privacy Policy for www.godfatherpolitics.com**
+**Privacy Policy for www.godfatherpolitics.com**
 
 At www.godfatherpolitics.com the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.godfatherpolitics.com and how it is used.
 
-**Log Files**
+ **Log Files**
 
 Like many other Web sites, www.godfatherpolitics.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons**
+ **Cookies and Web Beacons**
 
 www.godfatherpolitics.com may use cookies.
 
-_DoubleClick DART Cookie_
+ _DoubleClick DART Cookie_
 
   * Google, as a third party vendor, uses cookies to serve ads on www.godfatherpolitics.com.
   * Google’s use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx "DART cookie FAQ") enables it to serve ads to users based on their visit to www.godfatherpolitics.com and other sites on the Internet.
@@ -32,3 +31,8 @@ www.godfatherpolitics.com has no access to or control over these cookies that ar
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.godfatherpolitics.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+[](http://www.printfriendly.com/print/v2?url=http://godfatherpolitics.com/privacy/)
+
+  
+
