@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maricopa.gov privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630101841id_/http%3A//maricopa.gov/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maricopa.gov privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215041352id_/http%3A//www.maricopa.gov/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # Disclaimers/Statements
 
