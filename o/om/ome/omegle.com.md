@@ -1,0 +1,57 @@
+> *The following text is extracted and transformed from the omegle.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215072401id_/http%3A//omegle.com/static/privacy.html) for the most accurate reproduction.*
+
+# Omegle privacy policy
+
+## Privacy policy
+
+**Effective date:** 2012-11-27
+
+This document is here to inform you about the privacy practices of the Omegle chat service ("Omegle", owned by Leif K-Brooks), which are designed to protect your privacy to the maximum reasonable extent. By making use of Omegle, you accept these practices. This document may be updated from time to time. When changes are made, the effective date at the top will be changed. This date is also noted on Omegle's home page.
+
+### Chat privacy
+
+Chat messages will be screened by an automated system for spam. In general, messages are not stored, but when a message is flagged as spam, it is stored indefinitely, along with the sender's IP address. Select messages may be read by a human being to improve Omegle's anti-spam software, or for other quality control purposes.
+
+Omegle keeps a record of the IP addresses involved in every chat. This means that when you start a chat on Omegle, your IP address will be recorded on Omegle's servers, alongside the IP address of the user you are connected to. These records are intended to be used for the purpose of law enforcement, but may also be used to track spammers, and others who pose harm to the site, or violate its rules; or analyzed in aggregate to produce statistical data (e.g., average number of chats started at different times of day). These records are stored for approximately 120 days.
+
+Webcam images may be captured from Omegle video chats, uploaded to Omegle's servers, and monitored for misbehavior. Captured images may also be stored and used to improve Omegle's monitoring process. Currently, monitoring is only in a testing phase; but even when it is fully implemented, it will not be perfect, and you may still encounter misbehaving users in video chat.
+
+At the end of an Omegle chat, users are given an option to save the chat's log and share the link. Understand that **strangers can potentially tell other people anything you tell them** —whether by sharing the log, or just by repeating what you said—and be careful what information you reveal to them.
+
+When a user saves an Omegle log, the chat's text is sent from the user's computer to Omegle's server, where it is converted to an image, lovingly given a one-of-a-kind arborial background, and saved indefinitely under a unique, arbitrarily-assigned ID. The IP addesses of the users who participated in the chat are not specifically stored with the log; however, the IP address of anyone who views the log will be saved for the purpose of maintaining a unique view counter, and that typically includes the chat user who saved the log.
+
+The records Omegle keeps about your chats may be shared with third parties for the purpose of law enforcement; to monitor and enforce compliance with Omegle's rules; or to improve Omegle's monitoring and enforcement processes.
+
+### Information made available to other chat users
+
+In an Omegle text chat, only the following information is made available to other chat users:
+
+  * The list of interests (potentially including Facebook likes, if opted in) shared in common by you and the stranger, if applicable.
+  * Anything you say in the chat.
+
+
+
+Omegle video chat requires a direct connection to be made between your computer and the other user's computer. To do this, it is necessary to make your IP address available to the other user's computer, although it is not shown to the other user by Omegle's interface. This is a necessary part of how any P2P video chat system functions. If you are not comfortable with this, use text mode (or spy mode) instead.
+
+### Use of cookies
+
+Omegle uses cookies to save your preferences, including but not limited to the interests you add, as well as to store various non-personally-identifying technical information about your computer system (such as the capabilities it supports).
+
+Third party advertising vendors, including Google AdSense, use cookies to track information about the pages you visit, so that they can show you more appropriate ads. The cookie used by Google AdSense is called the DoubleClick DART cookie, and Google provides a way to [opt out of being tracked by DART](http://www.google.com/policies/privacy/ads/#toc-optout). You may also [opt out of the tracking cookies used by many (but not necessarily all) other third-party ad vendors](http://www.networkadvertising.org/managing/opt_out.asp).
+
+Omegle uses Google Analytics to track non-personally-identifying statistical information about site usage. Google provides a [browser add-on to opt out of Google Analytics](http://tools.google.com/dlpage/gaoptout?hl=en).
+
+### Facebook integration
+
+Omegle can optionally be linked with a Facebook account to enable certain features. Currently, Facebook integration is used for the following purposes:
+
+  * Omegle can use the list of items you have liked on Facebook to match you with other users.
+  * Omegle provides an option for publishing a chat log to your Facebook account.
+
+
+
+The Facebook API allows Omegle to access other information about you, such as your name and other personal details. However, Omegle does **not** share, save, or make any use of this information.
+
+Omegle does not share personal information about you with Facebook, except in order to perform actions you explicitly initiate. Use of Facebook is subject to [Facebook's privacy policy](https://www.facebook.com/about/privacy/).
+
+[Back to Omegle](http://omegle.com/)
