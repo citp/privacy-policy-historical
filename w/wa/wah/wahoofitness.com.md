@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wahoofitness.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616221131id_/http%3A//www.wahoofitness.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wahoofitness.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215110102id_/http%3A//www.wahoofitness.com/privacy.asp) for the most accurate reproduction.*
 
 # WahooFitness Privacy Policy: Wahoo Fitness – Connecting iPhones to Fitness- ANT+ and Bluetooth Smart sensors for running and cycling, such as heart rate monitors, speed and cadence and stride sensors
 
