@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emachines.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525025441id_/http%3A//www.emachines.com/ec/en/US/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emachines.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215070930id_/http%3A//www.emachines.com/ec/en/US/content/privacy) for the most accurate reproduction.*
 
 # Privacy
 
