@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the billingsgazette.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511153450id_/http%3A//billingsgazette.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billingsgazette.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215043808id_/http%3A//billingsgazette.com/privacy) for the most accurate reproduction.*
 
-# Privacy : The Billings Gazette - Montana & Wyoming News
+# Privacy
 
 Welcome to the web sites of the Billings Gazette. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites and how that information is used and safeguarded. 
 
