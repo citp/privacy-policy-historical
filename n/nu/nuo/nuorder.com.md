@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuorder.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610050155id_/http%3A//nuorder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuorder.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215214512id_/http%3A//www.nuorder.com/privacy) for the most accurate reproduction.*
 
 # Privacy | NuORDER
 
@@ -6,7 +6,7 @@
 
 YOUR PRIVACY RIGHTS
 
-Effective Date: April 20, 2011 - V2.0
+Effective Date: September 1, 2012 - V2.1
 
 PLEASE READ. YOUR USE OF THIS WEBSITE IS SUBJECT TO THE FOLLOWING PRIVACY POLICY AND THE WEBSITE [TERMS AND CONDITIONS](https://web.archive.org/terms).
 
@@ -35,7 +35,7 @@ X. Cookies and Related Technology
 
 XI. Not Intended for Persons Under 18
 
-XII. Use, Disclosure, and Sharing of Information 
+XII. Use, Disclosure, and Sharing of Information
 
 a. Non-Personally Identifiable Information 
 
@@ -55,7 +55,7 @@ XVII. Notification of Changes
 
 I. Notice
 
-The "Website" refers to the websites at [www.nuorder.com](https://web.archive.org/), [www.nuorder.com](https://web.archive.org/), their subdomains, and related domains. This Website is owned or operated by State of Tomorrow, LLC and/or its subsidiary companies in the United States of America (collectively the "COMPANY"). This privacy policy ("Privacy Policy") applies to information that you provide to COMPANY or is collected about you via this Website and/or by your use of services (collectively, the "Services") that may be provided by this Website or by the Company via some other means, including as set forth below and as defined in the applicable [TERMS AND CONDITIONS](https://web.archive.org/terms) (which may also be found under the link labeled "Terms" on the Website) or other terms.
+The "Website" refers to the websites at [www.notjustalookbook.com](http://www.notjustalookbook.com/), [www.nuorder.com](https://web.archive.org/), their subdomains, and related domains. This Website is owned or operated by State of Tomorrow, LLC and/or its subsidiary companies in the United States of America (collectively the "COMPANY"). This privacy policy ("Privacy Policy") applies to information that you provide to COMPANY or is collected about you via this Website and/or by your use of services (collectively, the "Services") that may be provided by this Website or by the Company via some other means, including as set forth below and as defined in the applicable [TERMS AND CONDITIONS](https://web.archive.org/terms) (which may also be found under the link labeled "Terms" on the Website) or other terms.
 
 This Privacy Policy is intended to provide you notice of COMPANY's information management practices, including the types of information gathered, how it is used and safeguarded, and the degree to which you may control the maintenance and sharing of your information. Your use of any COMPANY Service or Website constitutes acceptance of and agreed to this Privacy Policy and any other applicable terms. This Privacy Policy is part of and incorporated by reference into the [TERMS AND CONDITIONS](https://web.archive.org/terms) for this Website. Certain terms used herein are defined in the Terms and Conditions.
 
@@ -71,7 +71,7 @@ When you create a User Account or accept one, you are agreeing to be subscribed 
 
 IV. User Accounts.
 
-In order to use our Services, you will need to register and create, or otherwise accept, a user account ("User Account"). Note that when you log into a User Account, you are agreeing to be bound by this Privacy Policy and the [TERMS AND CONDITIONS](https://web.archive.org/terms), and are also "accepting" your User Account.There may or may not be a cost to create a User Account. You may be asked to choose a user name, screen name, or member name (each, a "User Name") and password. You may also be asked to provide certain personally identifiable information and other information about yourself, such as your first and last name, company name, billing and shipping address, telephone number, and e-mail address. The Website allows you to update certain information when you are logging in.
+In order to use our Services, you will need to register and create, or otherwise accept, a user account ("User Account"). Note that when you log into a User Account, you are agreeing to be bound by this Privacy Policy and the [TERMS AND CONDITIONS](https://web.archive.org/terms), and are also "accepting" your User Account. There may or may not be a cost to create a User Account. You may be asked to choose a user name, screen name, or member name (each, a "User Name") and password. You may also be asked to provide certain personally identifiable information and other information about yourself, such as your first and last name, company name, billing and shipping address, telephone number, and e-mail address. The Website allows you to update certain information when you are logging in.
 
 This Privacy Policy does not apply to any information you may disclose publicly in such Services. In some instances, you may choose to create a "Public Profile" that will be available to others on the Internet. Public Profiles are managed entirely by you, and you are solely responsible for your Public Profile's content and its "public" or "private" status. The Company bears no responsibility for any action or policies of any third parties who collect any information that users may disclose in user forums or other public areas of this Website. You are also responsible for maintaining and updating the registration information in your User Account with current and complete information.
 
@@ -113,7 +113,7 @@ In many cases, COMPANY will automatically collect certain non-personally identif
 
 X. Cookies and Related Technology.
 
-This Website's pages or e-mail messages may contain cookies, web beacons (also known as clear gifs), or similar technologies as they become available. Cookies are information files that this Website may place on your computer to provide extended functionality. The COMPANY may use cookies for a number of purposes, such as tracking usage patterns on the Website, measuring the effectiveness of advertising, limiting multiple responses and registrations, facilitating your ability to navigate the Website and as part of a verification or screening process. Most browsers are initially set up to accept cookies. Most browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You should refer to your browser instructions, "Help" screen, or similar such resource to learn more about how to manage cookies and possibly reset your browser to refuse all cookies or to indicate when a cookie is being sent by indicating this in the preferences, options, or similar such menu in your browser. However, it is possible that some parts of this Website will not operate correctly if you disable cookies and you may not be able to take advantage of some of this Website's features. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.
+This Website's pages or e-mail messages may contain cookies, web beacons (also known as clear gifs), or similar technologies as they become available. Cookies are information files that this Website may place on your computer to provide extended functionality. The COMPANY may use cookies for a number of purposes, such as tracking usage patterns on the Website, measuring the effectiveness of advertising, limiting multiple responses and registrations, facilitating your ability to navigate the Website, providing advertising to you about our products and services or those of third parties on the Website or other websites, and/or as part of a verification or screening process. Most browsers are initially set up to accept cookies. Most browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You should refer to your browser instructions, "Help" screen, or similar such resource to learn more about how to manage cookies and possibly reset your browser to refuse all cookies or to indicate when a cookie is being sent by indicating this in the preferences, options, or similar such menu in your browser. However, it is possible that some parts of this Website will not operate correctly if you disable cookies and you may not be able to take advantage of some of this Website's features. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.
 
 The COMPANY's web pages may include advertisements for third parties and their products, and those third-party advertisements may include a cookie or web beacon served by the third party. The COMPANY does not control cookies in such third party ads, and visitors are encouraged to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. The COMPANY's Privacy Policy does not cover the use of information collected from you by third party ad servers. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
