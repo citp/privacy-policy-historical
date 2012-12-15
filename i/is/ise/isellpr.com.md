@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isellpr.com privacy policy that was archived on 2012-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120122014607id_/https%3A//secure.trust-guard.com/Privacy-Policy/policies/isellprcom.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isellpr.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215071810id_/https%3A//secure.trust-guard.com/Privacy-Policy/policies/isellprcom.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
