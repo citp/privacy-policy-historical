@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616013105id_/http%3A//www.searchforancestors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215114008id_/http%3A//www.searchforancestors.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement at Ancestor Search
 
@@ -45,6 +45,10 @@ If you have any questions about this privacy statement, the practices of this si
   
        **It's Easy to Get Started!**
 *   [**Build your family tree**](http://www.searchforancestors.com/link.php?m=buildatree) online for FREE! Ancestry.com will use what you enter to find more about your family's ancestors. 
+*   [Ancestry.com](http://www.anrdoezrs.net/click-703401-10456885?sid=columnancestryn)   
+The largest collection of historic records and family trees. 
+*   [Free Trial](http://www.anrdoezrs.net/click-703401-10459767?sid=columnftn)   
+All Access Ancestry.com 14 day free trial. You'll be amazed what you can find! 
 *   [Free Ancestry Databases](http://www.searchforancestors.com/ancestryfreebies.html)   
 Free Ancestry.com databases listed by location and popularity.   
   
