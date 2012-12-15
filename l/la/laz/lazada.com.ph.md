@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lazada.com.ph privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601065225id_/http%3A//www.lazada.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazada.com.ph privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215034943id_/http%3A//www.lazada.com.ph/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Online Shopping in the Philippines| lazada.com.ph
+# Online Shopping - Privacy Policy | Online Shopping in the Philippines| lazada.com.ph
 
 LAZADA ("Company," "we," "our," "us") understands that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the LAZADA, and any further linked pages, features, content, or application services offered from time to time by Company in connection therewith (collectively, the "Website"), or using any of our services, you recognize and accept the practices and policies stated in this Privacy Policy.
 
