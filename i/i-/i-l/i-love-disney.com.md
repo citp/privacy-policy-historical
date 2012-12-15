@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-love-disney.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504001011id_/http%3A//i-love-disney.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-love-disney.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215071655id_/http%3A//i-love-disney.com/info/privacy.php) for the most accurate reproduction.*
 
 # I-Love-Disney.com Privacy Policy
 
@@ -34,7 +34,7 @@ If a user's personally identifiable information changes (such as your email), or
 
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. 
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [email@I-Love-Disney.com](mailto:email@I-Love-Disney.com)
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at emailATI-Love-Disney.com 
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
 
