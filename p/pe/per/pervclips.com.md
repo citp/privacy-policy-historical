@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pervclips.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504092103id_/http%3A//pervclips.com/tube/1251.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pervclips.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215135932id_/http%3A//pervclips.com/tube/1251.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Porn tube
 
