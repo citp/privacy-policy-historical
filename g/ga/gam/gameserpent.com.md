@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameserpent.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507222856id_/http%3A//gameserpent.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameserpent.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215205749id_/http%3A//gameserpent.com/privacypolicy) for the most accurate reproduction.*
 
 # Free Games to play GameSerpent.com
 
@@ -17,6 +17,11 @@ Nick name and email information is used to login and submit high scores for game
 
 **Cookie/Tracking Technology**  
 This site may use cookies and other tracking technology depending on the features offered. Cookies and other tracking technology are useful for determining information such as browser type and operating system or tracking the number of visitors to the site as well as help provide an understanding of how our visitors use the site. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. We do not share cookie tracking information or any of your personal information with third parties. We do not store Cookie information. 
+
+**Cookies & 3rd Party Advertisements**  
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **Distribution of Information**  
 As previously stated, Nick name and email information is used to login and submit high scores for games and is used to protect the security or liability of the site or to respond to law enforcement, if necessary, and does not use it for any other purpose. The information you provide is only used to fulfill your specific request to access this site and is not shared with anyone unless weare legally required to do so. We may share information with governmental or law enforcement agencies. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these agencies for marketing purposes.
