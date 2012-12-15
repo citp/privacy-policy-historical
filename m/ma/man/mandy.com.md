@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mandy.com privacy policy that was archived on 2012-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120204204501id_/http%3A//www.mandy.com/1/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandy.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215103437id_/http%3A//www.mandy.com/1/privacypolicy.cfm) for the most accurate reproduction.*
 
-# Refund Policy and Contact details - mandy.com / Lighthouse Internet
+# Privacy Policy and Contact details - mandy.com / Lighthouse Internet
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. 
 
@@ -20,17 +20,22 @@ We may collect, store and use the following kinds of personal data:
 
 **(2) Cookies**
 
-A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser; 
+Cookies are small text files that websites set on your computer to give you a better browsing experience. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
 
+**Cookies set by mandy.com**  
 We may use both 'session' cookies and 'persistent' cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website. We will use the persistent cookies to enable our website to recognise you when you visit. 
 
 Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date. 
 
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html. 
+**Cookies set by third parties**  
+We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at:  
+http://www.google.com/privacypolicy.html. 
 
 Our advertisers/payment services providers may also send you cookies. 
 
 We publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: http://www.google.com/ads/preferences/. You can opt-out of the Adsense partner network cookie at: http://www.google.com/privacy_ads.html. However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin. 
+
+Social Media: we use these cookies to enable visitors to our website share links to webpages, articles, products and functionality that they like via Facebook, Twitter and Google+. 
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking 'Tools', 'Internet Options', 'Privacy', and selecting 'Block all cookies' using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one. 
 
@@ -121,4 +126,4 @@ POST: Oasis Business Centre, 85-87 Bayham Street, London NW1 0AG, England
 TEL: +44(0)207 424 7817  
 EMAIL: office (at) mandy.com 
 
-June 2009 
+June 2012 
