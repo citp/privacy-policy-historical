@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the eveningflavors.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615155358id_/http%3A//eveningflavors.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eveningflavors.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215115238id_/http%3A//eveningflavors.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Bangalore Restaurants, Pubs, Parties Guide from eveningflavors.com
+
+**For Booking and Info Call :** **080 - 40894999**
+
+[](https://web.archive.org/)
+
+**Plan and book your dining and partying venue**
 
 EveningFlavors.com  takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -106,3 +112,5 @@ Questions or Suggestions
 
   
 
+
+© 2009-10 Evening Flavors. All rights reserved. 
