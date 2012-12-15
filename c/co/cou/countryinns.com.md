@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countryinns.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510131045id_/http%3A//www.countryinns.com/section/privacy.home/privacy.sidemenus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countryinns.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215040543id_/http%3A//www.countryinns.com/section/privacy.home/privacy.sidemenus) for the most accurate reproduction.*
 
 # Guest Privacy Policy
 
