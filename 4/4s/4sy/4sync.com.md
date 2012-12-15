@@ -1,67 +1,111 @@
-> *The following text is extracted and transformed from the 4sync.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609005917id_/http%3A//www.4sync.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4sync.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215035410id_/http%3A//www.4sync.com/privacy.jsp) for the most accurate reproduction.*
 
 # 4sync - Privacy
 
-4Sync is the official trademark of New IT Solutions LTD. Your use of the www.4Sync.com site is governed by 4Sync Terms of Use and this Privacy Policy. The purpose of this Privacy Policy is to disclose what services we provide, how the information you store at 4Sync may be used, and how such information is both protected and made available on our Web site. 
+## 4sync  
+PRIVACY POLICY  
+Last Revised: June 20, 2012
 
-This privacy policy may change from time to time, so you are encouraged to check the page regularly. New IT Solutions LTD will operate this Web site according to the Privacy Policy that is posted at the time.
+This privacy policy (" **Policy** ") explains how personally identifiable information is collected, used and disclosed by 4sync Inc. (" **we** " or " **us** ") with respect to your access and use of 4sync's online file storage and sharing service located at [www.4sync.com](http://www.4sync.com/), (the " **Service** ") and our mobile applications ("Apps" or "App"), so you can make an informed decision about using the Service.
 
-## Information we Receive When you Register
+We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to review this Policy from time-to-time to make sure that you understand how any personally identifiable information you provide to us or collected about you will be used.
 
-New IT Solutions LTD stores your E-mail and Password you create for yourself when you register with 4Sync and First and Last Names if they are indicated in the User Profile. We also use your IP address for internal purposes (for covering the download limitation and user sessions).
+4sync Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@4Sync.com](mailto:support@4Sync.com) or [www.4sync.com](http://www.4sync.com/), 745 Distel Dr., Los Altos, CA 94022. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe certification does not cover information that may be collected through software downloaded from the site.
 
-## Your Virtual Drive
+## What Is Personal Information?
 
-When you upload your files to the 4Sync server, we will provide you with a unique URL to download your file. 4Sync will not provide this URL to any other person or entity, but will provide your file to any web browser requesting your unique URL. 4Sync has the right to review your file contents for violations of our Terms of Use. If 4Sync determines your files are in violation of 4Sync Terms of Use we will ban your account and will attempt to contact you. We reserve the right to cancel your account and files from our systems.
+As used in this Policy, the term "personally identifiable information" means information that specifically identifies an individual (such as a name, user name or e-mail address), or information about that individual that is directly linked to information that specifically identifies an individual. Personally identifiable information does not include "aggregate" information, which is data we collect about the use of the Service or about a group or category of services or users, from which individual identities or other personally identifiable information has been removed. This Policy in no way restricts or limits our collection and use of aggregate information.
 
-4Sync will not attempt to access your files at any time unless explicitly instructed to do so by you. We do not own the contents of your virtual drive. 4Sync will only have access to your files for purposes of troubleshooting. When 4Sync receives your files, we will store them in your virtual drive. We will allow your files to be downloaded according to your security settings. 4Sync has extensive security measures in place to protect your files while stored on our servers and we will prosecute any attempt to access this information without authorization.
+## What Information Do We Collect?
 
-## Web-Server Log and Cookies
+Active Collection: We collect information from you in various ways when you use the Service and Apps. For example, we collect information: (i) that you voluntarily provide to us (such as when you send us an email); and (ii) to which you provide us access. Such information may include personal information, such as your name, email address, date of birth, social network data and performance related data. When using our Apps we will collect information such as device type, operating system type and version. Personal and demographic information may also be collected if you provide such information in connection with posting data, providing access to your online groups and other activities in connection with the Service.
 
-New IT Solutions LTD collects information about the areas and pages of the 4Sync website you visit. We also collect information such as your operating system, browser version and the size of your screen. We analyze this data to determine what is of interest to our users as a group, and thereby improve our website. This information is collected in the form of the usual web server logs and cookies. 4Sync also collects this information to make the website viewable and useful for the majority of our clients. 
+We do not ask you for, access or track any location based information from your mobile device at any time while downloading or using our Mobile Apps or services.
 
-Our website utilizes a non-persistent cookie to track your session with our web site. This is an encrypted number, generated when you visit any site that supports sessions. This is a session cookie. It helps 4Sync track your sessions and store persistent information to make your visit to our site smoother. This cookie is saved permanently on your PC. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging into our system a little easier. At no time are cookies used to track where you have been either before or after your visit to our website. No other website can access any information about you from the cookies we may store on your local computer. We do not share cookies or any other type of information with any other companies. 
+Passive Collection: When you use the Service and our Apps, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring website, and your activity on the Service. We may also automatically collect certain logistical information in server logs, including information about how you use various features of the Service and information about the number, frequency and length of each session.
 
-## Access to your information
+We may also automatically collect certain information through the use of "cookies" when you use the Service. Cookies are small data files stored on your hard drive at the request of a website. Among other things, cookies help us to improve the Service and your experience. If we link cookies to any personally identifiable information, we will treat this information as personally identifiable information. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, if you choose to remove or reject cookies, this could affect certain features or services made available via the Service.
 
-You have the right to access, upload and download your files and access and correct your personal information at any time. You may also grant access to your drive to other persons through folder sharing or providing the download link to your audience.
+The use of cookies by our partners is not covered by our privacy statement. We do not have access or control over these cookies.
 
-If for some reason you cannot access your virtual drive on the 4Sync or you want to change other information you provided to us, please contact us at [support@4Sync.com](mailto:support@4Sync.com).
+We may use Web beacons or similar technology on the Service and in our Apps. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. Web beacons are small, invisible graphic images that may be used on the Service or in emails relating to the Service to collect certain information and monitor user activity on the Service, such as to count visits, understand usage effectiveness and to tell if an email has been opened and acted upon. Such technologies are used to collect aggregate statistics related to usage of the Service and do not collect personally identifiable information.
 
-## How we protect your information
+Personally identifiable information will be stored on secured servers, and we may store and process personally identifiable information in the United States and other countries.
 
-Any information collected and processed with New IT Solutions LTD is treated with the utmost confidentiality. New IT Solutions LTD will not sell or rent out any personal information gathered from clients. We will make no public release of any personal information that is collected through our proprietary file sharing tool. All client-specific information gathered through New IT Solutions LTD will be the property of the user. To prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use of information, we have put into place physical, electronic and managerial procedures to safeguard the information that we collect online. We use encryption when collecting or transferring data.
+## How Do We Use the Personally Identifiable Information We Collect? 
 
-Automated and scheduled backups for premium users make the service considerably more reliable. Daily copying of the information will help you avoid any unpleasant consequences.
+We use personally identifiable information collected through the Service and Apps for the purposes described in this Policy or elsewhere on the Service or in the Apps. For example, we may use personally identifiable information we collect:
 
-On-site security includes closed circuit video monitoring, alarmed doors with secure card-key access, monitored 24x7. 
+  * to process and complete any transactions in connection with the Service and Apps;
+  * to request feedback and to otherwise contact you about your use of the Service and Apps;
+  * to respond to your emails, questions, comments, requests and complaints, and to provide customer service;
+  * to monitor and analyze Service and App usage and trends;
+  * to personalize and improve the Service or Apps, and our users' experiences with the Service and Apps (such as providing content or features that match interests), and to increase the Service's or Apps' functionality and user friendliness;
+  * to send you confirmations, updates, security alerts, additional information about our products and services and support and administrative messages, and otherwise facilitate your use of, and our administration and operation of, the Service or Apps. When sending marketing information about our services or products, we will only use your email address used during registration; we will not use other email addresses you may have provided to us, for instance in a feedback form, to send marketing emails;
+  * to notify you about important changes to the Service and Apps.
 
-## E-mail non-disclosure
 
-Our system stores your e-mail addresses on our server in a secured location. These e-mail addresses are kept on the server for granting access to the account. These addresses are yours, not the property of 4Sync.
 
-4Sync Customer Support team may examine these lists as well as the account files for support and troubleshooting purposes. They also may examine the files stored by the users in case of abuse reporting. 
+## What Personally Identifiable Information Do We Share With Third-Parties?
 
-4Sync will never use or sell these e-mail addresses and files to anyone; any attempt to access your e-mail addresses without your authorization will be prosecuted. 
+We will not knowingly share the personally identifiable information we collect from you through the Service or Apps with third-parties, except as described in this Policy or on the Service or Apps. For example, we may share personally identifiable information as follows:
 
-We will only use your email to send the service and support letters. You may address the [support team](mailto:support@4Sync.com) with any questions and problems. We will make sure to process your request as soon as possible. 
+  * with vendors, consultants, and other service providers such as a credit card processing company to bill you for services, a forum provider for hosting our public forums, and an email service provider to send out emails on our behalf (" **Service Providers** "). When you sign up for our services we will share your personal information only as necessary for the third party to provide that service.;
+  * when you give us your consent to do so, including if we notify you on the Service or Apps that the information you provide will be shared in a particular manner and you provide such information;
+  * in an aggregated or anonymized form that does not directly identify you;
+  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or to respond to lawful requests or legal authorities including, but not limited to, responding to lawful subpoenas, warrants, or court orders;
+  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to protect the rights, property, or safety of 4sync Inc., our users, our employees, copyright owners, third-parties or the public including, but not limited to, protecting 4sync Inc. or our users from fraudulent, abusive, inappropriate, or unlawful use of the Service or Apps;
+  * to enforce or apply this Policy, the Terms, or our other policies or agreements;
+  * in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personally identifiable information may be disclosed or transferred as one of the business assets of 4sync Inc.
 
-## Anti SPAM Policy
 
-The e-mail information we collect is never sold, rented out, leased, traded, swapped, marketed, exchanged, bartered, distributed, or disclosed in any way. 4Sync and its users agree to never initiate any SPAM emailing. 
 
-## Third Party Web Sites
+You understand that when you use the Service, information you provide via the Service, information you grant access to by using the Service, as well as any information you share with individuals through the Service, will be available to other users and in some cases may be publicly available.
 
-The 4Sync website may contain links to Internet sites and services that are maintained by third parties. These sites may have privacy and security policies that are different from those followed by New IT Solutions LTD. New IT Solutions LTD has no control over these sites and is not responsible or liable for the policies and practices followed by such third parties. When you visit any site outside www.4Sync.com this Privacy Policy is no longer valid, while the Privacy Policy of the current site you are visiting comes into force.
+We are not responsible for the actions of Service Providers or other third-parties, nor are we responsible for any additional information you provide directly to any other users or third-parties, and we encourage you to become familiar with third-party privacy practices before disclosing information directly to any such third-parties. Nothing herein restricts the sharing of aggregated or anonymized information, which may be shared with third-parties without your consent.
 
-If you have gigs of music and are afraid of losing them, your kids are future inventors and start their career with your PC, so that after their experiments you can't find your docs there... 4Sync solves those problems. Be sure, that 4Sync takes care about the backup copy. Simplicity is secure with 4Sync.
+## Access to Personally Identifiable Information
 
-## The Feedback Form
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update or delete it by making the change on our member information page or by emailing our Customer Support at [support@4Sync.com](mailto:support@4Sync.com). We will respond to your request to access within 30 days.
 
-The Feedback Form is an online tool that allows you to report violations of 4Sync Services privacy statements and specific privacy concerns pertaining to 4Sync.com. 
+If you wish to request the deletion of an unauthorized profile you may contact us at [support@4Sync.com](mailto:support@4Sync.com).
 
-To access feedback form use the Feedback link at the top right of the screen of our web service.
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-## Contact Us
+## Tell-A-Friend
 
-If you have any questions or comments about our Privacy Policy, please contact us at [support@4Sync.com](mailto:support@4Sync.com).
+If you choose to use our referral service to tell a friend about our Service, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. 4sync Inc. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+
+## Open Blogs
+
+We may offer publicly accessible blogs through our Service. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@4Sync.com](mailto:support@4Sync.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+## Links to Other Websites
+
+The Service may contain links to other websites. Any personally identifiable information you provide on the linked pages is provided directly to that third- party and is subject to that third-party's privacy policy. This Policy does not apply to such linked websites, and we are not responsible for the content or privacy and security practices and policies of these websites or any other websites that are linked to/from the Service. We encourage you to learn about their privacy and security practices and policies before providing them with personally identifiable information.
+
+## What Steps Do We Take To Protect Your Information Online?
+
+We take reasonable measures to protect your personally identifiable information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can guarantee against any interception or any other type of misuse. To assist with the protection of personally identifiable information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Service and Apps by any person using your password. Please advise us immediately if you believe your password has been misused. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@4Sync.com](mailto:support@4Sync.com).
+
+## Advertising
+
+We partner with a third party ad network to display advertising within our Apps. Our ad network partner uses Web beacons and log files to collect non-personally identifiable information about your activities on our Apps to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
+## Facebook Connect
+
+You can log in to our Service (or link your App to your social network) using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
+## Social Media Features and Widgets
+
+Our Service includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share This button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+## What Choices Do You Have Regarding the Use of Your Information?
+
+You may "opt out" of receiving marketing or promotional emails from us by following the instructions in those emails. You may also opt out of such marketing emails by following the instructions within such emails or emailing us at [support@4Sync.com](mailto:support@4Sync.com). You may also log into your account and make the appropriate selections in the "communications" tab in the "settings" menu. If you opt out, we may still send you non-promotional emails, such as emails about your account or our ongoing business relations.
+
+## Questions?
+
+If you have any questions about this Policy, please contact us at [support@4Sync.com](mailto:support@4Sync.com) or via postal mail at [www.4sync.com](http://www.4sync.com/), 745 Distel Dr., Los Altos, CA 94022.
+
+[ ](https://privacy.truste.com/privacy-seal/New-It-Solutions-LTD-/validation?rid=02b5d674-662b-4fff-8284-cb08d1345af4 "TRUSTe online privacy certification")
