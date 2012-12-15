@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rakeback.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617043857id_/http%3A//www.rakeback.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rakeback.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215155424id_/http%3A//www.rakeback.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ Rakeback.com does not rent, sell, or share personal information about you with o
 
 ## Cookies
 
-Rakeback.com may set and access Rakeback.com cookies on your computer.
+Rakeback.com may set and access Rakeback.com cookies on your computer. A HTTP cookie is a small piece of data sent from our website and stored in your web browser while you are browsing our website. Read more about [cookies in Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie). If you wish to opt-out of cookies/tracking, please set cookies off in your Internet browser.
 
 ## Confidentiality and Security
 
