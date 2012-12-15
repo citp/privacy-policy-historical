@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunglassesshop.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616222102id_/http%3A//us.sunglassesshop.com/help-and-about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunglassesshop.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215110342id_/http%3A//us.sunglassesshop.com/help-and-about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : Sunglasses Shop Privacy Information : Shop For Sunglasses
 
@@ -56,29 +56,29 @@ SS1 1JE
 
 ## What's New From Ray-Ban
 
-  * [](http://us.sunglassesshop.com/ray-ban/3491/silver-00311/36179.aspx "Ray-Ban 3491 Silver 003/11")
+  * [](http://us.sunglassesshop.com/ray-ban/4125/matte-transparent-mirrored-brown-64669/37908.aspx "Ray-Ban 4125 Matte Transparent Mirrored Brown 646/69")
 
-$134.56
+$185.91
 
-  * [](http://us.sunglassesshop.com/ray-ban/4180/black-60171/36177.aspx "Ray-Ban 4180 Black 601/71")
+  * [](http://us.sunglassesshop.com/ray-ban/4173/opal-grey-60069a-polarised/37907.aspx "Ray-Ban 4173 Opal Grey 60069a Polarised")
 
-$207.39
+$254.24
 
-  * [](http://us.sunglassesshop.com/ray-ban/4181/shiny-blue-62932/36176.aspx "Ray-Ban 4181 Shiny Blue 629/32")
+  * [](http://us.sunglassesshop.com/ray-ban/4125/matte-transparent-mirrored-green-64619/37905.aspx "Ray-Ban 4125 Matte Transparent Mirrored Green 646/19")
 
-$164.64
+$185.91
 
-  * [](http://us.sunglassesshop.com/ray-ban/4181/black-6019a-polarised/36169.aspx "Ray-Ban 4181 Black 601/9A Polarised")
+  * [](http://us.sunglassesshop.com/ray-ban/4189/shiny-blue-600513/37837.aspx "Ray-Ban 4189 Shiny Blue 600513")
 
-$194.72
+$147.78
 
-  * [](http://us.sunglassesshop.com/ray-ban/4176/grey-87640/35976.aspx "Ray-Ban 4176 Grey 876/40")
+  * [](http://us.sunglassesshop.com/ray-ban/4184/black-crystal-6019a-polarised/37836.aspx "Ray-Ban 4184 Black Crystal 601/9a Polarised")
 
-$147.23
+$235.17
 
-  * [](http://us.sunglassesshop.com/ray-ban/shooter/black-002/35917.aspx "Ray-Ban 3138 Black 002")
+  * [](http://us.sunglassesshop.com/ray-ban/4188/blue-600513/37752.aspx "Ray-Ban 4188 Blue 600513")
 
-$170.97
+$147.78
 
 
 
