@@ -1,109 +1,82 @@
-> *The following text is extracted and transformed from the twinspires.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120145618id_/http%3A//www.twinspires.com/content/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinspires.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215150120id_/http%3A//churchilldownsincorporated.com/our_company/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy & Security | twinspires
+# Privacy Policy | Churchill Downs Incorporated
 
-### Churchill Downs Technology Initiatives Company, which is doing business as TwinSpires ("TWINSPIRES", "we" or "us") respect your privacy.
+**Churchill Downs Incorporated and its subsidiary companies CDI ("CDI", "we" or "us") respect your privacy.**
 
-This Privacy Policy explains how we protect your privacy and the confidentiality of the information that you provide to us when you use the TWINSPIRES website and related services
+**This Privacy Policy explains how we protect your privacy and the confidentiality of the information that you provide to us when you use CDI's websites and related products and services**
 
- **BY USING THIS SITE, YOU AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THE PRIVACY POLICY, THEN DO NOT USE THIS SITE.**
+**BY USING THIS WEBSITE, YOU AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THE PRIVACY POLICY, THEN DO NOT USE THIS SITE.**
 
-### Personal Information (which you provide to us)  
+**Personal Information (which you provide to us)**  
+You may register or open an account with CDI on any CDI managed website if you are at least eighteen (18) years old, (older in some jurisdictions for account wagering).
 
+CDI may collect some or all of the following "Personal Information" voluntarily provided by you during certain site registration and account funding processes:
 
-You may open an account with TWINSPIRES if you are at least eighteen (18) years old, (twenty-one (21) in some jurisdictions).   
-If you are of legal age, then please be aware that TWINSPIRES collects and analyzes the following "Personal Information" provided by you during site registration and account funding:
+• Your Name, Address, Date of Birth, phone number and email address  
+• Your Social Security Number   
+• Your bank and credit card account number   
+CDI does not give out your Personal Information to any third party for uses not described as normal business operations.
 
-  * Your Social security number
-  * Your Name, Address, Date of Birth
-  * Your wagering history (identified by your account number and name)
-  * Your bank and credit card account numbers
-  * Purchases made by you on our site
+**Other Information (which we collect about you)**  
+CDI may collect the following other Information about you when you interact with our online services:
 
+• Your computer IP address, and browser history on our sites   
+• Your e-mail address  
+• Information volunteered by you, such as survey information and/or site registrations, user id and passwords   
+• Purchases made by you on our site(s)  
+• Your wagering activity (identified by your account number and name)
 
+**How We Use this Information**  
+We may use your Personal Information to fulfill the purpose for which you provide it to us, including, but not limited to verifying your identity, to fulfill your wagering activity or process purchases made on our websites.
 
-TWINSPIRES may ask you for your phone number for account verification and for special, account safety circumstances. TWINSPIRES does not give out your Personal Information to any third party for uses not described as normal business operations. 
+CDI reserves the right to use your Personal Information in order to ensure that wagering activity on our sites meets various state and federal laws and other statutory requirements. In addition, from time to time we may use your Personal Information to contact you regarding promotions and marketing offers and other purposes which are generally limited to our services. Personal and other information may be disclosed to judicial or other government agencies in response to warrants, subpoenas or other governmental orders. You are hereby advised that in the event of a criminal investigation by state or federal authorities or regulatory inquiry, you waive any and all rights to account holder information and data in CDI's possession, and you specifically authorize CDI to disclose said data and information to law enforcement authorities. In this situation, you agree to release Churchill Downs Incorporated and its affiliated companies from any and all liability related to such disclosure, to the fullest extent permissible by law.
 
-### Other Information (which we collect about you)  
+From time to time, CDI may share information we collect about you with third parties, in an aggregate and confidential form only, in order to assist with marketing or other normal business activities. We contractually require these companies to use your personal information only to provide a particular product or service to you or us, and do not authorize them to use your personal information for any other reason.
 
+**Data Integrity**  
+CDI processes personal information only for the purposes for which it was collected and in accordance with this privacy policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this policy. We take reasonable steps to ensure that the personal information we process is accurate, complete and current, but we depend on our users to update or correct their personal information whenever necessary.
 
-TWINSPIRES collects and analyzes the following Other Information about you when you interact with our online services:
+All information collected by CDI remains the exclusive property of CDI.
 
-  * Your domain name, IP address, and click stream history on our site
-  * Cookies on your computer placed there by TWINSPIRES and by our business partners 
-  * Your e-mail address if you post messages on the TWINSPIRES forums, communicate with TWINSPIRES via e-mail, post messages within TWINSPIRES chat areas, and otherwise interact with TWINSPIRES via email.
-  * Information about the pages you access or visit on our sites, 
-  * Information volunteered by you, such as survey information and/or site registrations. 
-  * Network traffic, in order to identify unauthorized use attempts to upload or change information, or otherwise cause damage or conduct criminal activity.
+**Public Postings (Forums, Chat Rooms, Message Boards)**  
+Please note that information you post in a chat room, a message board, a forum or another public posting area on our websites can be viewed by anyone with internet access. Please do not disclose personal information in public posting areas. CDI is not responsible for a third party's use of information which you post in a public area.
 
+**Children's Guidelines**  
+None of CDI's websites is directed to children under the age of thirteen (13) and we will not knowingly collect or use any information from any person identified as being under the age of thirteen (13).
 
+**Third-Party Sites**  
+CDI includes links to other websites whose privacy practices we do not control. Information you provide on another website is governed by the privacy policy of the operator of that site. These websites may have privacy policies and practices that differ from ours.
 
-### How We Use this Information  
+We may use third-party advertisers to serve advertisements on CDI websites. Our advertisers may use cookies, web beacons and other technologies to, among other things, to enable our advertisers to monitor the ads you have viewed on our site.
 
+**What We Do To Protect Your Privacy**  
+To ensure site security and network performance, CDI monitors all inbound and outbound network traffic in order to identify unauthorized attempts to upload and change information, or otherwise cause damage or conduct criminal activity. Unauthorized attempts to upload or change information or otherwise cause damage to our services are strictly prohibited and shall be punishable under applicable state or federal law. Please be advised, however, that the Internet and various networking communication mediums are not secure, unless explicitly stated as such, and may be subject to interception or loss which is beyond the control of CDI.
 
-We may use your Personal Information to fulfill the purpose for which you provide it to us, including, but not limited to verifying your identity and to fulfill your wagering activity.
+We use SSL encryption to protect your personal information during certain of your online interactions with us. We utilize procedures to protect confidential information off-line, as well. We restrict access to your Personal Information to employees who need the information to perform a specific task for you or us. Our employees use password-protected log-ins to access CDI's computer servers to protect against unauthorized access, acquisition, destruction, use, modification or disclosure of information. The servers which hold personally identifiable information are maintained in a locked, secure hosting environment.
 
-TWINSPIRES reserves the right to use your Personal Information in order to ensure that wagering activity on our site meets various state and federal laws and other statutory requirements. In addition, from time to time we may use your Personal Information to offer promotions and marketing offers to you; to assist you in enrolling in games, contests and promotions; to personalize your interactions within our site(s); and other uses which are generally limited to the use of our services. No Personal Information is shared with non-affiliated third parties without your written consent.
+**Ability to Access Personal Information**  
+Any questions you may have regarding our Privacy Policy, the accuracy of your personal or non-personal information, or the use of your personal or non-personal information, or any requests that we correct, update, or remove your information in our databases, should be done so by contacting us through this website or by sending a letter with your name, address and telephone number to the following address:
 
-Personal Information may be disclosed to judicial or other government agencies in response to warrants, subpoenas or other governmental orders. Other possible circumstances may include, but are not limited to, (i) your request or authorization of such a disclosure in connection with the sale, assignment, license or other transfer of TWINSPIRES, (ii) to protect our rights, (iii) to protect the property or safety of the rights of our employees or others, and (iv) where needed for corporate audits or to investigate or respond to a complaint or security threat. You are hereby advised that in the event of a criminal investigation by state or federal authorities or regulatory inquiry pursuant to TWINSPIRES licenses, you waive any and all rights to account holder information and data in TWINSPIRES' possession, and you specifically authorize TWINSPIRES to disclose said data and information to law enforcement authorities. In this situation, you agree to release Churchill Downs Incorporated and its affiliated companies from any and all liability related to such disclosure, to the fullest extent permissible by law.
-
-From time to time, TWINSPIRES may share Other Information we collect about you with third parties, in an aggregate and confidential form only, in order to assist with marketing or other business activities, including but not limited to, credit card payments, prevention of fraud, credit risk reduction or in compliance with OFAC. We would contractually require these companies to use your personal information only to provide a particular product or service to you or us, and do not authorize them to use your personal information for any other reason. All information collected by TWINSPIRES remains the exclusive property of TWINSPIRES.
-
-### Public Postings (Forums, Chat Rooms, Message Boards)
-
-Please note that information you post in a chat room, a message board, a forum or another public posting area can be viewed by anyone with internet access. Please use caution when disclosing personal information in public posting areas like these. TWINSPIRES is not responsible for a third party's use of information which you post in a public area.
-
-### Children's Guidelines 
-
-You must be at least eighteen (18) and in some instances twenty-one (21) to sign up for a TWINSPIRES account. The TWINSPIRES website is not directed to children under the age of thirteen (13) and we will not knowingly collect or use any information from any person identified as being under the age of thirteen (13). 
-
-### Third-Party Sites
-
-TWINSPIRES includes links to other websites whose privacy practices we do not control. Information you provide on another website is governed by the privacy policy of the operator of that site. These websites may have privacy policies and practices that differ from ours.
-
-### Third-Party Advertisers
-
-We may use third-party advertisers to serve advertisements on TWINSPIRES websites. Our advertisers may use cookies, web beacons and other technologies to, among other things, to enable our advertisers to monitor the ads you have viewed on our site.
-
-### Third Party Policy 
-
-By signing up at TWINSPIRES, customers are giving permission to disclose contact information to third parties.   
-
-
-### What We Do To Protect Your Privacy  
-
-
-To ensure site security and network performance, TWINSPIRES monitors all inbound and outbound network traffic in order to identify unauthorized attempts to upload and change information, or otherwise cause damage or conduct criminal activity. Unauthorized attempts to upload or change information or otherwise cause damage to this service are strictly prohibited and shall be punishable under applicable state or federal law. 
-
-We use SSL encryption to protect sensitive information during your online interactions with TWINSPIRES. We utilize procedures to protect confidential information off-line, as well. Generally, we restrict access to your Personal Information to employees who need the information to perform a specific task for you. Our employees use password-protected screen-savers to protect against loss when they leave their desk. The servers which hold personally identifiable information are maintained in a locked, secure hosting environment.
-
-### Ability to Access Personal Information
-
-Any questions you may have regarding our Privacy Policy, the accuracy of your personal or non-personal information, or the use of your personal or non-personal information, or any requests that we correct, update, or remove your information in our databases, should be done so by following these steps:
-
-Send a letter with your name, address, telephone number, and photocopy of your driver's license to the following address:
-
-TWINSPIRES Information Request  
+CDI Information Request  
 P.O. Box 8510  
 Lexington, Kentucky 40533
 
-A TWINSPIRES representative will follow up by mail or phone with you.
+A CDI representative will follow up by mail or phone with you.
 
-### Opt-Out Policy for TWINSPIRES Solicitations
+**Opt-Out Policy for CDI Solicitations**  
+You may opt out of receiving advertising and general information e-mails from CDI that are not associated with your account by contacting the CDI Webmaster and specifying that you want to opt out, or unsubscribe, to receiving advertising and general information emails from CDI.
 
-You may opt out of receiving advertising and general information e-mails from TWINSPIRES that are not associated with your account by contacting TWINSPIRES Player Services and specifying that you want to opt out, or unsubscribe, to receiving advertising and general information emails from TWINSPIRES. 
+**Contacting the Web Site**  
+If you have any questions about this privacy statement, you may contact:
 
-### Contacting the Web Site 
+Webmaster  
+Churchill Downs Incorporated  
+700 Central Avenue  
+Louisville, KY 40208  
+Telephone: 502/636-4400, or toll free 800/283-3729
 
-If you have any questions about this privacy statement you may contact:
+Email: [webmaster@kyderby.com ](mailto:webmaster@kyderby.com)
 
-TWINSPIRES  
-P.O. Box 8510  
-Lexington, Kentucky 40533  
-Telephone: 1-877-SPIRES-1 (1-877-774-7371)
-
-Email: [player.services@twinspires.com](mailto:player.services@twinspires.com)
-
-### Changes
-
-This Privacy Policy is effective as of July 25th, 2008. TWINSPIRES reserves the right to change this Privacy Policy at any time. Any material changes to this Privacy Policy will be mailed to the physical address of our players currently on file.
+**Changes**  
+This Privacy Policy is effective as of May, 2010. CDI reserves the right to change this Privacy Policy at any time. Any significant changes to this Privacy Policy will be noted as such on this website and emailed to our customers on file.
