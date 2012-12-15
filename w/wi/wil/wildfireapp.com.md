@@ -1,42 +1,40 @@
-> *The following text is extracted and transformed from the wildfireapp.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620045034id_/http%3A//www.wildfireapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildfireapp.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215194145id_/http%3A//www.wildfireapp.com/privacy) for the most accurate reproduction.*
 
 # Wildfire
 
-_Last Updated: May 9, 2012_
+_Last Updated: October 26, 2012_
 
-Your privacy is important to Wildfire Interactive, Inc. ("Wildfire"). This privacy policy ("Policy") applies to the Wildfire Web sites ("Sites"). This Policy explains how your personal information is collected, used, and disclosed by Wildfire. 
+Your privacy is important to Wildfire Interactive, Inc. ("Wildfire"). This privacy policy ("Policy") applies to the Wildfire Web sites ("Sites"). This Policy explains how your personal information is collected, used, and disclosed by Wildfire.
 
-Wildfire Interactive, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@WildfireApp.com](mailto:privacy@WildfireApp.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this website, www.wildfireapp.com and does not cover information that may be collected through Applications. 
+We also make services and technology available to our customers that allow them to promote their brands and products to consumers (“Applications”). If we collect information (including personal information) through our Applications for a customer, we may store and process that information for the customer. This Policy does not apply to the collection of information through our Applications. To learn about how a Wildfire customer uses the information it collects through our Applications, please see its privacy policy.
 
-[](https://privacy.truste.com/privacy-seal/Wildfire-Interactive-Inc-/validation?rid=6e60873c-cd6e-41f5-b554-70ecaf68423e "TRUSTe online privacy certification")
+Wildfire Interactive, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@wildfireapp.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this website, [www.wildfireapp.com](http://www.wildfireapp.com/) and does not cover information that may be collected through Applications.
 
-[](http://export.gov/safeharbor/)
-
-Wildfire Interactive, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Wildfire Interactive, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Wildfire Interactive, Inc.’s certification, please visit [http://www.export.gov/safeharbor/](https://web.archive.org/privacy)
+Wildfire Interactive, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Wildfire Interactive, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Wildfire Interactive, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 ## Personal Information Collected
 
-We collect information from you in various ways when you use our Sites and Applications. We may collect personal information you directly provide on our Sites. In addition, we may collect personal information from you as a user of our Applications. Information we may collect includes name and email address, and phone number. 
+We collect information from you in various ways when you use our Sites. We may collect personal information you directly provide on our Sites. Information we may collect includes name and email address, and phone number.
 
-In addition, when you visit our Sites some information may be automatically collected. For example, it is standard for your Web browser to automatically send information to every Web site you visit including ours. That information includes your computer's Internet Protocol (IP) address, access times, browser type and language, and referring Web site addresses. We may also collect information about your computer's operating system and information about your usage and activity on our Sites. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user-base as a whole. 
+In addition, when you visit our Sites some information may be automatically collected. For example, it is standard for your Web browser to automatically send information to every Web site you visit including ours. That information includes your computer's Internet Protocol (IP) address, access times, browser type and language, and referring Web site addresses. We may also collect information about your computer's operating system and information about your usage and activity on our Sites. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user-base as a whole.
 
-### Cookies
+## Cookies
 
-We may automatically collect certain information through the use of "cookies." Cookies are small data files that are stored on your hard drive by a Web site. Among other things, the use of cookies helps us to improve our Sites and your experience. We use cookies to see which areas and features are most popular, to count the number of computers accessing our Sites, to personalize your experience, and to remember your preferences. 
+We may automatically collect certain information through the use of "cookies." Cookies are small data files that are stored on your hard drive by a Web site. Among other things, the use of cookies helps us to improve our Sites and your experience. We use cookies to see which areas and features are most popular, to count the number of computers accessing our Sites, to personalize your experience, and to remember your preferences.
 
-We link the information we store in cookies to any personally identifiable information you submit while on our site. If your browser is set not to accept cookies or if you reject a cookie, you may not be able to access certain features or services of our Sites. The use of cookies by our service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our service providers use session ID cookies to collect data in order to enable us to provide a better user experience. 
+We link the information we store in cookies to any personally identifiable information you submit while on our site. If your browser is set not to accept cookies or if you reject a cookie, you may not be able to access certain features or services of our Sites. The use of cookies by our service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our service providers use session ID cookies to collect data in order to enable us to provide a better user experience.
 
-### Web Beacons
+##  Web Beacons 
 
 We and our third party partners use Web beacons that help us better manage content on our site by informing us what content is effective. Web beacons, also known as gifs, are electronic images that may be used on our Sites or in our emails. A Web beacon may be used on our Web pages to collect information, deliver cookies, count visits, understand usage and campaign effectiveness, or in our emails to tell if an email has been opened and acted upon. We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications. 
 
 ## Use Of Personal Information We Collect
 
-We use your personal information to provide you with services, to operate and improve our Sites and Applications, to send you messages, and for other purposes described in this Policy or disclosed to you on our Sites or in connection with our services. For example, we may use the information we collect from you on our Sites and Applications: 
+We use your personal information to provide you with services, to operate and improve our Sites , to send you messages, and for other purposes described in this Policy or disclosed to you on our Sites or in connection with our services. For example, we may use the information we collect from you on our Sites: 
 
   * to register for an account with us to build an application;
   * to apply to become a partner;
-  * to personalize and improve your experience on our Sites and with our Applications;
+  * to personalize and improve your experience on our Sites;
   * to respond to comments and questions and provide customer service;
   * to deliver service messages and other services and content you request and to send information related to accounts and services, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;
   * to send you information about new promotions, products, and services offered by Wildfire and our selected partners; and
@@ -50,8 +48,6 @@ Wildfire may store and process personal information in the United States and oth
 
 We use third parties such as a credit card processing company to bill you for services, an email service provider to send out emails on our behalf, a company to provide our forums and an employment resources company to process your job applications. When you sign up for our services, we will share the personal information you provide only as necessary for the third party to provide that service.
 
-Unless you opt for our white label campaign option or you are a Qualified Partner, Wildfire will co-own data that may include your name, email address, phone number and birth date. If we co-own your personal data all campaign entry forms will have a Wildfire mailing list Opt-In. We may use aggregate data collected for internal analysis purposes.
-
 We do not share your personal information with third parties other than as described above and as follows: 
 
   * with third party vendors, consultants and other service providers ("Service Providers") who are working on our behalf and need access to your information to carry out their work for us;
@@ -62,48 +58,40 @@ We do not share your personal information with third parties other than as descr
 
 ## SECURITY OF YOUR PERSONAL INFORMATION
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
 
 Wildfire takes reasonable security measures to protect your personal information to prevent loss, misuse, unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that despite our efforts, no security measures are impenetrable. 
 
-If you use a password on our Site, you are responsible for keeping it confidential. Do not share it with any other person. If you believe your password has been misused, please advise us immediately. 
-
-## Choices About Use Of Your Information
-
-You may "opt-out" of receiving promotional emails from Wildfire by following the instructions in those emails. You may also send requests relating to promotional messages and your permission for sharing information with third parties for their marketing purposes by emailing [privacy@WildfireApp.com](mailto:privacy@WildfireApp.com). Opt-out requests will not apply to transactional service messages, including messages about your current Wildfire account and services. 
-
-You may also choose to remove the Application from your Facebook account by clicking on "Settings" in the toolbar and selecting "Application Settings" from the drop-down menu. Click the "x" next to the Application's name, then click "remove" again to confirm the deletion. 
+If you use a password on our Site, you are responsible for keeping it confidential. Do not share it with any other person. If you believe your password has been misused, please advise us immediately.
 
 ## Updating And Accessing Your Personal Information
 
-If your personal information changes, we invite you to correct or update your information as soon as possible. You can request changes or access to your information by emailing [privacy@WildfireApp.com](mailto:privacy@WildfireApp.com). 
-
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account, request that we no longer use your information to provide you services or delete your personal information, contact us at [privacy@WildfireApp.com](mailto:privacy@WildfireApp.com). We will respond to your request to have your personal information deleted within 30 days. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+If your personal information changes, we invite you to correct or update your information as soon as possible. You can request changes or access to your information by emailing privacy@wildfireapp.com. We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account, request that we no longer use your information to provide you services or delete your personal information, contact us at privacy@wildfireapp.com. We will respond to your request to have your personal information deleted within 30 days. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## Links To Other Sites
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Wildfire. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+Our Site includes links to other Web sites whose privacy practices may differ from those of Wildfire. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
 ## Forward To A Friend
 
-If you choose to use our referral service to forward one of our newsletters to a friend, we will ask you for your friend’s name and email address. We will automatically forward your friend the email as requested by you. Wildfire stores this information for the sole purpose of sending this one-time email and your friend's email address will only be used to forward this email to them, and will never be available to anyone else. If you wish to request that your personal information no longer be used to receive these emails you may opt out of receiving these emails by clicking the unsubscribe link at the bottom of the email. 
+If you choose to use our referral service to forward one of our newsletters to a friend, we will ask you for your friend’s name and email address. We will automatically forward your friend the email as requested by you. Wildfire stores this information for the sole purpose of sending this one-time email and your friend's email address will only be used to forward this email to them, and will never be available to anyone else. If you wish to request that your personal information no longer be used to receive these emails you may opt out of receiving these emails by clicking the unsubscribe link at the bottom of the email.
 
 ## Testimonials
 
-We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to request that your testimonial be removed you may do so by emailing us at [privacy@WildfireApp.com](mailto:privacy@WildfireApp.com). 
+We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to request that your testimonial be removed you may do so by emailing us at privacy@wildfireapp.com.
 
 ## Public Forums
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@WildfireApp.com](mailto:privacy@WildfireApp.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at privacy@wildfireapp.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ## Social Media Features
 
-Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 ## Changes To This Policy
 
-Wildfire may change this Policy from time to time. If we make any changes to this Policy, we will change the "Last Updated" date above. If there are material changes to this policy, we will notify you by email (sent to the e-mail address specified in your account). We encourage you to review this Policy whenever you visit our Sites or use our Applications to understand how your personal information is used. 
+Wildfire may change this Policy from time to time. If we make any changes to this Policy, we will change the "Last Updated" date above. If there are material changes to this policy, we will notify you by email (sent to the e-mail address specified in your account). We encourage you to review this Policy whenever you visit our Sites to understand how your personal information is used.
 
 ## Questions About This Policy
 
-If you have any questions about this Policy, please contact us at [privacy@WildfireApp.com](mailto:privacy@WildfireApp.com) or Wildfire Interactive, Inc., c/o Legal Dept., 1600 Seaport Blvd. Suite #500, Redwood City, CA 94063. 
+If you have any questions about this Policy, please contact us at privacy@wildfireapp.com 
