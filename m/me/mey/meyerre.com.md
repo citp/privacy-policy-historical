@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meyerre.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501095416id_/http%3A//www.meyerre.com/company/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meyerre.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215010216id_/http%3A//www.meyerre.com/company/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Meyer Real Estate Company Privacy Policy | Website Use of Information Privacy Statement | Meyer Real Estate
+# Company Privacy Policy | Website Use of Information Privacy Statement | SH Enterprises
 
 ## Website Privacy Statement
 
@@ -10,12 +10,16 @@
 
 
 
-## Information Collected by Meyer Real Estate
+## Information Collected
 
-  * Meyer Real Estate collects information about users during registration, inquiry and participation in certain activities on our web site, including contests and surveys.
+  * This website collects information about users during registration, inquiry and participation in certain activities, including contests and surveys.
   * Such information may include your name, address, telephone number, credit card information and email address. 
   * We may also use “cookies” and similar technology to obtain information about your visits to our sites. 
   * We automatically receive and record information on our server logs from your browser, including your IP address, our cookie information and the pages you request.
+  * Third party vendors, including Google, show our ads on sites on the internet.
+  * Third party vendors, including Google, use cookies to serve ads based on your prior visits to our websites.
+  * You may opt out of Google’s use of cookies by visiting the Google advertising opt-out page. <https://www.google.com/settings/ads/onweb/> <http://www.google.com/policies/privacy/ads/>
+  * You may also opt out of a third party vendor’s use of cookies by visiting the Network Advertising Initiative opt out page <http://www.networkadvertising.org/choices/> or by installing a browser add-on <https://tools.google.com/dlpage/gaoptout>
 
 
 
@@ -36,6 +40,6 @@
 
 ## Contact Information
 
-  * If you have any questions about this privacy statement, the practices of this site or your business interactions with Meyer Real Estate, please feel free to contact us [PublicRelations@MeyerRE.com](mailto:PublicRelations@MeyerRE.com) or 800-213-9544.
+  * If you have any questions about this privacy statement or the practices of this website, please feel free to contact us at [PublicRelations@MeyerRE.com](mailto:PublicRelations@MeyerRE.com) or 800-213-9544.
 
 
