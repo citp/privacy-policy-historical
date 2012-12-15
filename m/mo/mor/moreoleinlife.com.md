@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moreoleinlife.com privacy policy that was archived on 2012-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120124043103id_/http%3A//www.joseole.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moreoleinlife.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215121210id_/http%3A//www.joseole.com/privacy-policy) for the most accurate reproduction.*
 
-# José Olé — Privacy Policy
+# Privacy Policy - JOSÉ OLÉ® brand
 
 Windsor Foods cares about your privacy. This Privacy Policy outlines the type of Personal Information that is collected by Windsor Foods from consumers and how we use and protect it. This Policy also tells you what to do if you do not want your Personal Information used for marketing purposes and how you can change information that you have already provided to us. This Policy applies to this website and to Windsor Foods’ collection of data through printed promotional materials, such as sweepstakes entry forms, coupons or other mail-in offers, and telephone calls to Windsor Foods’ consumer services department. It does not apply to banners, sweepstakes or promotions sponsored by third parties in which Windsor Foods may participate.
 
