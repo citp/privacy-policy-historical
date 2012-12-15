@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hersheys.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518005836id_/http%3A//www.thehersheycompany.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hersheys.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215014544id_/http%3A//www.thehersheycompany.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# HERSHEY'S | Privacy Policy
+# The Hershey Company | Privacy Policy
 
 ## Welcome to The Hershey Company Internet web sites!
 
@@ -37,21 +37,21 @@ For example:
 
   * **Questions** : On some pages our visitors can submit comments or ask questions. The only personally identifiable information that we collect is the sender's e-mail address. We do not save any personally identifiable information associated with comments, and we only save e-mail addresses associated with questions in order to respond to those questions.
 
-  *  **E-Cards** : Visitors to some of our pages can send electronic cards by providing the name and  e-mail address for the sender and recipient. The information provided cannot be viewed by Hershey. The information is used only to allow the sender and recipient to view the e-card and is then automatically deleted.
+  * **E-Cards** : Visitors to some of our pages can send electronic cards by providing the name and  e-mail address for the sender and recipient. The information provided cannot be viewed by Hershey. The information is used only to allow the sender and recipient to view the e-card and is then automatically deleted.
 
-  *  **Promotions & Sweepstakes**: We frequently offer promotions and sweepstakes on our pages. In order to enter a promotion and/or sweepstake or to access certain web site content, we might require you to register online. All visitors under the age of 13 must gain permission from a parent or guardian prior to completing their online registration. During the registration process, we collect information necessary for prize fulfillment and will not share this information with any third party companies unless it is for prize fulfillment purposes. If you win a prize, additional information may be collected offline for tax and prize fulfillment purposes. Your online registration may be used across our web sites to enter multiple promotions and/or sweepstakes or to access certain content. The first initial, last name, hometown and state of all winners will be included on a Winners List. The Winners List will be provided upon request and as required by law. Information required for tax purposes, the Winner's List or other information required by law is kept as required by law. We also may use the email address that you provide to send you promotional offers if you opt in.
+  * **Promotions & Sweepstakes**: We frequently offer promotions and sweepstakes on our pages. In order to enter a promotion and/or sweepstake or to access certain web site content, we might require you to register online. All visitors under the age of 13 must gain permission from a parent or guardian prior to completing their online registration. During the registration process, we collect information necessary for prize fulfillment and will not share this information with any third party companies unless it is for prize fulfillment purposes. If you win a prize, additional information may be collected offline for tax and prize fulfillment purposes. Your online registration may be used across our web sites to enter multiple promotions and/or sweepstakes or to access certain content. The first initial, last name, hometown and state of all winners will be included on a Winners List. The Winners List will be provided upon request and as required by law. Information required for tax purposes, the Winner's List or other information required by law is kept as required by law. We also may use the email address that you provide to send you promotional offers if you opt in.
 
-  *  **Coupons** : Sometimes we offer coupons by mail to web visitors who provide us with their name and mailing address __ The information provided may also be used to facilitate that same visitor's entry into a sweepstakes or contest so that the consumer does not have to repeatedly enter the same information.
+  * **Coupons** : Sometimes we offer coupons by mail to web visitors who provide us with their name and mailing address The information provided may also be used to facilitate that same visitor's entry into a sweepstakes or contest so that the consumer does not have to repeatedly enter the same information.
 
-  *  **Tell-a-Friend** : We may give you the ability to tell your friends about features on our websites. In order to use this Tell-A-Friend feature, we ask you to provide your friends' first names and e-mail addresses. We also ask that you provide your first name and e-mail address. The name and e-mail address of your friend is used only to send the notification to your friend. We do not keep your friends' e-mail addresses or use them for any other purposes. We do not keep your e-mail address or use it for any other purposes. If your friends have "opted out" of communications from our company's e-mail at least 72 hours or more before your send-a-friend email, they will not receive a notification through the Tell-A-Friend feature.
+  * **Tell-a-Friend** : We may give you the ability to tell your friends about features on our websites. In order to use this Tell-A-Friend feature, we ask you to provide your friends' first names and e-mail addresses. We also ask that you provide your first name and e-mail address. The name and e-mail address of your friend is used only to send the notification to your friend. We do not keep your friends' e-mail addresses or use them for any other purposes. We do not keep your e-mail address or use it for any other purposes. If your friends have "opted out" of communications from our company's e-mail at least 72 hours or more before your send-a-friend email, they will not receive a notification through the Tell-A-Friend feature.
 
-  *  **E-mail Newsletters** : If you are over the age of 13, some of our pages permit you to register to receive e-mail newsletters or updates in the future by providing your e-mail address. Any e-mail you receive from Hershey will allow you to change your preference or "unsubscribe" from this informational service at any time. At the bottom of each promotional email, there is a link stating "Click here to change or remove your subscription". Clicking that link will lead to a page where you can immediately remove your subscription.
+  * **E-mail Newsletters** : If you are over the age of 13, some of our pages permit you to register to receive e-mail newsletters or updates in the future by providing your e-mail address. Any e-mail you receive from Hershey will allow you to change your preference or "unsubscribe" from this informational service at any time. At the bottom of each promotional email, there is a link stating "Click here to change or remove your subscription". Clicking that link will lead to a page where you can immediately remove your subscription.
 
-  *  **Job Applications:** We will use the information submitted in on-line job applications for the sole purpose of filling the specific position applied for by the applicant. After this position is filled, we will retain the information submitted for the period of time required by applicable law. During this retention period, the application will be considered inactive, and the applicant will be considered for other positions only if he/she submits an additional application for those specific positions. We will not release information submitted in on-line job applications to third parties except to appropriate governmental authorities when such release is required by law.
+  * **Job Applications:** We will use the information submitted in on-line job applications for the sole purpose of filling the specific position applied for by the applicant. After this position is filled, we will retain the information submitted for the period of time required by applicable law. During this retention period, the application will be considered inactive, and the applicant will be considered for other positions only if he/she submits an additional application for those specific positions. We will not release information submitted in on-line job applications to third parties except to appropriate governmental authorities when such release is required by law.
 
-  *  **Auctions:** Visitors to some of our web sites can participate in on-line auctions. We only collect information which is required for participation in the auction and delivery of merchandise to auction winners. All personally identifiable information submitted is used for the purpose of the auction. The same information may also be used to facilitate that same visitor's entry into a sweepstakes or contest so that the consumer does not have to repeatedly enter the same information.
+  * **Auctions:** Visitors to some of our web sites can participate in on-line auctions. We only collect information which is required for participation in the auction and delivery of merchandise to auction winners. All personally identifiable information submitted is used for the purpose of the auction. The same information may also be used to facilitate that same visitor's entry into a sweepstakes or contest so that the consumer does not have to repeatedly enter the same information.
 
-  *  **Other Features:** There may be other features available on our web sites which may require some personally identifiable information to use the feature. We only use the personally identifiable information to provide the feature.
+  * **Other Features:** There may be other features available on our web sites which may require some personally identifiable information to use the feature. We only use the personally identifiable information to provide the feature.
 
 
 
@@ -87,20 +87,20 @@ Our sites have been designed primarily for our adult consumers to enjoy, but the
 The Hershey Company  
 Consumer Relations  
 100 Crystal A Drive  
-Hershey, PA 17033
+Hershey, PA 17033 
 
 Phone Toll Free 1-800-468-1714, or  
-**Contact us Online:**  
+ **Contact us Online:**  
 [Online Form](https://web.archive.org/contact-us.aspx)
 
 
 
 
- **NOTICE: Visit** [**http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html**](https://web.archive.org/bumper.asp?url=http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html "http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html") **for information from the Federal Trade Commission about protecting children's privacy on-line.**
+**NOTICE: Visit** [**http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html**](https://web.archive.org/bumper.asp?url=http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html "http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html") **for information from the Federal Trade Commission about protecting children's privacy on-line.**
 
 ## How You Can Access Or Correct Your Information
 
-If it has not already automatically been deleted as explained above, you may review your or your child's personally identifiable information, have it deleted and withdraw permission for its continued use by Hershey by [Contacting Us Online](https://web.archive.org/contact-us.aspx). To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. In addition to this, all sweepstakes and www.hersheyskitchens.com websites let you edit your information online within that website.
+If it has not already automatically been deleted as explained above, you may review your or your child's personally identifiable information, have it deleted and withdraw permission for its continued use by Hershey by [ Contacting Us Online](https://web.archive.org/contact-us.aspx). To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. In addition to this, all sweepstakes and www.hersheyskitchens.com websites let you edit your information online within that website.
 
 ## This Privacy Policy Is For Our On-line Consumers
 
@@ -114,20 +114,20 @@ Our policy is to link only to other sites which are appropriate for visitors to 
 
 Should you have other questions or concerns about our privacy policy, please don't hesitate to [Contact us Online](https://web.archive.org/contact-us.aspx). You may also write to us at Public Relations Department, The Hershey Company, PO Box 810, 100 Crystal A Drive, Hershey, PA 17033 or call us at 1-800-468-1714.
 
-## Dagoba - How To Contact Us
+## Dagoba chocolate - How To Contact Us
 
-Should you have other questions or concerns about our privacy policy, please don't hesitate to [Contact us Online](http://www.dagobachocolate.com/contact-us.asp). You may also write to us at Public Relations Department, The Hershey Company, PO Box 810, 100 Crystal A Drive, Hershey, PA 17033 or call us at 1-800-468-1714.
+Should you have other questions or concerns about our privacy policy, please don't hesitate to [Contact us Online](https://web.archive.org/contact-us.aspx). You may also write to us at Public Relations Department, The Hershey Company, PO Box 810, 100 Crystal A Drive, Hershey, PA 17033 or call us at 1-800-468-1714.
 
 ## Scharffen Berger - How To Contact Us
 
-Should you have other questions or concerns about our privacy policy, please don't hesitate to [Contact us Online](http://www.scharffenberger.com/contact-us.asp). You may also write to us at Public Relations Department, The Hershey Company, PO Box 810, 100 Crystal A Drive, Hershey, PA 17033 or call us at 1-800-468-1714.
+Should you have other questions or concerns about our privacy policy, please don't hesitate to [Contact us Online](http://www.scharffenberger.com/contact/form/). You may also write to us at Public Relations Department, The Hershey Company, PO Box 810, 100 Crystal A Drive, Hershey, PA 17033 or call us at 1-800-468-1714.
 
 ## Mauna Loa - How To Contact Us
 
- _Should you have other questions or concerns about our privacy policy, please don't hesitate to[Contact us Online](http://www.maunaloa.com/contact/contact-us.asp). _You may also write to us at Public Relations Department, The Hershey Company, PO Box 810, 100 Crystal A Drive, Hershey, PA 17033 or call us at 1-800-468-1714._ _
+Should you have other questions or concerns about our privacy policy, please don't hesitate to [ Contact us Online](http://www.maunaloa.com/contact/contact-us.asp). You may also write to us at Public Relations Department, The Hershey Company, PO Box 810, 100 Crystal A Drive, Hershey, PA 17033 or call us at 1-800-468-1714.
 
-__\- Your Friends at The Hershey Company_ Copyright © The Hershey Company
+\- Your Friends at The Hershey Company 
+
+Copyright © The Hershey Company
 
 **Effective:** June 7, 2010
-
-_
