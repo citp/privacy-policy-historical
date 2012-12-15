@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixorial.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617034739id_/http%3A//www.pixorial.com/pixorial/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixorial.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215131708id_/http%3A//www.pixorial.com/pixorial/privacy_policy) for the most accurate reproduction.*
 
 # Pixorial - Privacy Policy
 
@@ -40,7 +40,7 @@ We may obtain additional information about you from personal or third party webs
 
 ### Information We Do Not Collect
 
-Pixorial does not knowingly collect or maintain any personal information from children under the age of 13. No part of the Site is intended or designed for the purpose of attracting any person under the age of 13. If you are under the age of 13, do not use the Site. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under age 13, please contact us at [privacy[at]pixorial.com](https://web.archive.org/web/20120617034739id_/http%3A//www.pixorial.com/pixorial/\[email\]privacy\[at\]pixorial\[dot\]com?subject=Privacy%20Policy). 
+Pixorial does not knowingly collect or maintain any personal information from children under the age of 13. No part of the Site is intended or designed for the purpose of attracting any person under the age of 13. If you are under the age of 13, do not use the Site. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under age 13, please contact us at [privacy[at]pixorial.com](https://web.archive.org/web/20121215131708id_/http%3A//www.pixorial.com/pixorial/\[email\]privacy\[at\]pixorial\[dot\]com?subject=Privacy%20Policy). 
 
   
   
@@ -120,7 +120,7 @@ If you are a registered user, you can review and update your member profile, inc
 
 ### Our E-mail Policy 
 
-When you sign up for an account with us, you may receive periodic marketing communications from us, such as promotions, product and service updates and email newsletters. If you do not want to receive these communications, you may opt-out by configuring your ÒEmail preferencesÓ under account information, or by emailing us at [unsubscribe[at]pixorial.com](https://web.archive.org/web/20120617034739id_/http%3A//www.pixorial.com/pixorial/\[email\]unsubscribe\[at\]pixorial\[dot\]com?subject=Unsubscribe). We do not use the email or mailing addresses of your distribution contacts for marketing purposes. 
+When you sign up for an account with us, you may receive periodic marketing communications from us, such as promotions, product and service updates and email newsletters. If you do not want to receive these communications, you may opt-out by configuring your ÒEmail preferencesÓ under account information, or by emailing us at [unsubscribe[at]pixorial.com](https://web.archive.org/web/20121215131708id_/http%3A//www.pixorial.com/pixorial/\[email\]unsubscribe\[at\]pixorial\[dot\]com?subject=Unsubscribe). We do not use the email or mailing addresses of your distribution contacts for marketing purposes. 
 
 We do not use the email or mailing addresses of your distribution contacts for marketing purposes.  
 
@@ -154,7 +154,7 @@ Pixorial reserves the right to modify this Privacy Policy at any time without no
 
 ### Contact Us 
 
-If you have questions or concerns about this Privacy Policy or the way your personal information is being handled, please contact us by e-mail at [privacy[at]pixorial.com](https://web.archive.org/web/20120617034739id_/http%3A//www.pixorial.com/pixorial/\[email\]privacy\[at\]pixorial\[dot\]com) or by regular mail at: 
+If you have questions or concerns about this Privacy Policy or the way your personal information is being handled, please contact us by e-mail at [privacy[at]pixorial.com](https://web.archive.org/web/20121215131708id_/http%3A//www.pixorial.com/pixorial/\[email\]privacy\[at\]pixorial\[dot\]com) or by regular mail at: 
 
 Pixorial, Inc.   
 7670 S. Chester St, Unit 100    
