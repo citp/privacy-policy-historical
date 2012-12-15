@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 20somethingfinance.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620045100id_/http%3A//20somethingfinance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20somethingfinance.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215150737id_/http%3A//20somethingfinance.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -55,6 +55,6 @@ EXCEPTIONAL CIRCUMSTANCES.** In addition to the above circumstance, we may discl
 
 **TERMS OF SERVICE:** For the 20somethingfinance.com terms of service, [click here](http://20somethingfinance.com/terms-of-use/).
 
-**CONTACT:** If you have any questions, please contact us via the 20somethingfinance.com [contact form](http://20somethingfinance.com/contact/).
+**CONTACT:** If you have any questions, please contact us via the 20somethingfinance.com contact form.
 
 **LAST UPDATED:** February 2, 2010
