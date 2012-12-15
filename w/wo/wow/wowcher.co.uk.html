@@ -1,21 +1,18 @@
-<!--The following is the downloaded HTML source of the wowcher.co.uk privacy policy that was archived on 2012-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120602014410id_/http%3A//www.wowcher.co.uk/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wowcher.co.uk privacy policy that was archived on 2012-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121215143709id_/http%3A//www.wowcher.co.uk/a/privacypolicy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- 2.0-NORTHCLIFFE-PROD-SPRINT-27, build 1124 (Wed May 30 2012 13:58), node 8183:wowweba1, env prod --><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- 1.1-WOWCHER-PROD-38, build 802 (Wed Dec 12 2012 15:32), node tomcat6:ip-10-226-33-229, env prod --><head>
         <title>
-				Wowcher | Save up to 80% on deals where you live</title>
+				Wowcher | Privacy Policy  </title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <!--  http://www.wowcher.co.uk site 275849 channelId   stime: 02-Jun-2012 2:44-->
-<meta name="description" content="Sign up to our daily emails and be the first to hear about great deals for you">
-<meta name="robots" content="noodp">
-	<link rel="shortcut icon" href="/images/dod/favicon.ico">
+        <link rel="shortcut icon" href="/images/dod/favicon.ico">
 	<link rel="apple-touch-icon" href="/images/dod/apple-touch-icon.png">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/dod-minified-1124.css">
-		<link rel="stylesheet" type="text/css" media="print" href="/css/dod/print.css">
-<!--[if gte IE 9]><link rel="stylesheet" type="text/css" media="screen" href="/css/dod/ie9.css" /><![endif]-->
-<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/css/dod/ie8.css" /><![endif]-->
-<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/css/dod/ie7.css" /><![endif]-->
-<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/css/dod/ie6.css" /><![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="/css/dod-original-minified-802.css">
+		<link rel="stylesheet" type="text/css" media="print" href="/css/dod-original/print.css">
+<!--[if gte IE 9]><link rel="stylesheet" type="text/css" media="screen" href="/css/dod-original/ie9.css" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/css/dod-original/ie8.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/css/dod-original/ie7.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/css/dod-original/ie6.css" /><![endif]-->
 
 <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/5371.js" async="" type="text/javascript"></script><script type="text/javascript">
 	//<![CDATA[
@@ -23,7 +20,7 @@
 	//]]>
 </script><style type="text/css">.js-hide { display: none; } .js-show { display: block; }</style><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 
-<script type="text/javascript" src="/js/dod-minified-1124.js"></script>
+<script type="text/javascript" src="/js/dod-original-minified-802.js"></script>
 		
 <script type="text/javascript">
 		try {
@@ -53,6 +50,12 @@
 		dod : true,
 		sitePath : "national-deal"
 	};
+	
+	
+	$.cookie('dod-cookie-support-test', 'cookie-supported');
+	var cookieSupport = $.cookie('dod-cookie-support-test') == 'cookie-supported';
+	$.cookie('dod-cookie-support-test', null);
+	
 	var chosenHome = $.cookie("dod-chosen-home");
 	if (location.pathname=="/deals" || location.pathname=="/deals/") {
 		
@@ -82,7 +85,7 @@
 		if(chosenHome == null) {
 			var parts = location.pathname.split("/");
 			// get the location from urls like /*deals/<location>/....
-			if(parts.length > 2 && parts[1].indexOf("deals") != 1) { 
+			if(parts.length > 2 && parts[1].match(/deals/)) { 
 				chosenHome = parts[2];
 				$.cookie('dod-chosen-home', chosenHome, {domain : DOD.getRootDomain(), path : "/", expires: 365});
 			}
@@ -139,21 +142,47 @@
     <body id="wbody">
 		<div id="pageBG" class="full-width-bg">
 	    	<div id="dodsite" class="dodsite cld ">
-				<div id="right-header">
+				<!--  Start override wowcher top menu item links and capture categoryName code -->
+<script type="text/javascript">
+	DOD.Locations.setSelectedCategoryName('');
+
+	$("#wow-header-menu").ready(function() { 
+		var chosenHome = $.cookie("dod-chosen-home");
+		if (chosenHome != null) {
+			$("#left-nav").find('a').each(function() {
+				var hrefLink = $(this).attr('href');
+				var parts = hrefLink.split("/");
+				if (parts[2] != chosenHome && (parts[1]=="deals" || parts[1]=="moredeals" || parts[1]=="recentdeals")) {
+					parts[2] = chosenHome;
+					var newLink = '';
+					for (var j=0; j < parts.length; j++) {
+						newLink = newLink + parts[j] + '/';
+					}
+					if ((newLink.substring(newLink.length -1)) == "/") {
+						newLink = newLink.substring(0, (newLink.length -1));
+					}
+					$(this).attr('href',newLink);
+				}
+			});
+		}
+	});
+</script>
+<!--  Finish override wowcher top menu item links and capture categoryName code --><div id="wow-header-menu" class="right-header">
 		  <div class="header-nav rnd-b fnt-12 cld">
 			<ul id="left-nav">
 			   <li class="first"><a href="/deals/london" title="Current deal">Current deal</a></li>
-	           <li><a href="/moredeals/london" title="More deals">More deals</a></li>
-			   <li><a href="/recentdeals/london" title="Previous deals">Previous deals</a></li>
-	           <li class="static"><a href="/deals/london/wowGo" title="Wow Go!">Wow Go!</a></li>
-	           <li class="static"><a href="/deals/london/home-garden" title="Home and Garden">Home and Garden</a></li>
-	           <li class="static"><a href="/deals/london/female" title="Female">Female</a></li>
-	           <li class="static"><a href="/deals/london/electronics" title="Electronics">Electronics</a></li>
-	           </ul>
+			   <li><a href="/moredeals/london" title="More deals">More deals</a></li>
+			   <li class="static"><a href="/deals/london/xmas" title="Christmas">Christmas</a></li>
+				  <li class="static"><a href="/deals/london/wowGo" title="Wow Go!">Wow Go!</a></li>
+				  <li class="static"><a href="/deals/london/home-garden" title="Home and Garden">Home and Garden</a></li>
+				  <li class="static"><a href="/deals/london/female" title="Female">Female</a></li>
+				  <li class="static"><a href="/deals/london/electronics" title="Electronics">Electronics</a></li>
+				  <li><a href="/recentdeals/london" title="Previous deals">Previous deals</a></li>
+			</ul>
 			<ul id="right-nav">
-				<li class="first"><a href="/register" id="js-register-link" title="Join">Join</a></li>
-				<li class="first js-hide"><a href="/myaccount/vouchers" title="View your account">My Details</a></li>
-				<li><a href="/login?redirectPath=/privacypolicy.html" id="js-login-link" title="Login">Login</a></li>
+				<li class="first"><a href="/register?d=a" id="js-register-link" title="Join">Join</a></li>
+				<li class="first js-hide"><a href="/myaccount/vouchers?d=a" title="View your account">My Details</a></li>
+				<li><a href="/login?redirectPath=/a/privacypolicy.html&amp;d=a" id="js-login-link" title="Login">Login</a></li>				
 				<li class="js-hide"><a href="/logout" title="Logout">Logout</a></li>
 			</ul>
 		  </div>
@@ -216,8 +245,12 @@
 		</noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.21. -->	<div id="left-header">
 	<a class="logo" href="/" title="Wowcher">Wowcher</a>
-			<div id="left-header-content">
-	<h3 id="site-location" class="location">London</h3>
+			<script type="text/javascript">
+	DOD.displayedLocation.siteName = 'London';
+	DOD.displayedLocation.sitePath = 'london';
+</script>
+<div id="left-header-content" style="display:none">
+		<h3 id="site-location" class="location">London</h3>
 		<script type="text/javascript">
 			DOD.has("locations");
 		</script>
@@ -226,63 +259,62 @@
 			</div>
 		<div id="dod-locations" class="dis-n fnt-12">
 		    <ul class="cld rnd5">
-		    	<li city="aberdeen"><a id="locations-list-link-aberdeen" href="javascript:void(0);">Aberdeen</a></li>
-		    			<li city="bath"><a id="locations-list-link-bath" href="javascript:void(0);">Bath</a></li>
-		    			<li city="belfast"><a id="locations-list-link-belfast" href="javascript:void(0);">Belfast</a></li>
-		    			<li city="birmingham"><a id="locations-list-link-birmingham" href="javascript:void(0);">Birmingham</a></li>
-		    			<li city="blackpool"><a id="locations-list-link-blackpool" href="javascript:void(0);">Blackpool</a></li>
-		    			<li city="bournemouth"><a id="locations-list-link-bournemouth" href="javascript:void(0);">Bournemouth</a></li>
-		    			<li city="bradford"><a id="locations-list-link-bradford" href="javascript:void(0);">Bradford</a></li>
-		    			<li city="brighton"><a id="locations-list-link-brighton" href="javascript:void(0);">Brighton</a></li>
-		    			<li city="bristol"><a id="locations-list-link-bristol" href="javascript:void(0);">Bristol</a></li>
-		    			<li city="cambridge"><a id="locations-list-link-cambridge" href="javascript:void(0);">Cambridge</a></li>
-		    			<li city="cardiff"><a id="locations-list-link-cardiff" href="javascript:void(0);">Cardiff</a></li>
-		    			<li city="cornwall"><a id="locations-list-link-cornwall" href="javascript:void(0);">Cornwall</a></li>
-		    			<li city="coventry"><a id="locations-list-link-coventry" href="javascript:void(0);">Coventry</a></li>
-		    			<li city="derby"><a id="locations-list-link-derby" href="javascript:void(0);">Derby</a></li>
-		    			<li city="dublin"><a id="locations-list-link-dublin" href="javascript:void(0);">Dublin</a></li>
-		    			<li city="edinburgh"><a id="locations-list-link-edinburgh" href="javascript:void(0);">Edinburgh</a></li>
-		    			<li city="essex"><a id="locations-list-link-essex" href="javascript:void(0);">Essex</a></li>
-		    			<li city="exeter"><a id="locations-list-link-exeter" href="javascript:void(0);">Exeter</a></li>
-		    			<li city="glasgow"><a id="locations-list-link-glasgow" href="javascript:void(0);">Glasgow</a></li>
-		    			<li city="gloucestershire"><a id="locations-list-link-gloucestershire" href="javascript:void(0);">Gloucestershire</a></li>
-		    			<li city="grimsby"><a id="locations-list-link-grimsby" href="javascript:void(0);">Grimsby</a></li>
-		    			<li city="hull-and-east-riding"><a id="locations-list-link-hull-and-east-riding" href="javascript:void(0);">Hull and East Riding</a></li>
-		    			<li city="ipswich"><a id="locations-list-link-ipswich" href="javascript:void(0);">Ipswich</a></li>
-		    			<li city="kent"><a id="locations-list-link-kent" href="javascript:void(0);">Kent</a></li>
-		    			<li city="leeds"><a id="locations-list-link-leeds" href="javascript:void(0);">Leeds</a></li>
-		    			<li city="leicester"><a id="locations-list-link-leicester" href="javascript:void(0);">Leicester</a></li>
-		    			<li city="lincolnshire"><a id="locations-list-link-lincolnshire" href="javascript:void(0);">Lincolnshire</a></li>
-		    			<li city="liverpool"><a id="locations-list-link-liverpool" href="javascript:void(0);">Liverpool</a></li>
-		    			<li class="selected-loc" city="london"><a id="locations-list-link-london" href="javascript:void(0);">London</a></li>
-		    			<li city="london-east"><a id="locations-list-link-london-east" href="javascript:void(0);">London East</a></li>
-		    			<li city="london-north"><a id="locations-list-link-london-north" href="javascript:void(0);">London North</a></li>
-		    			<li city="london-south"><a id="locations-list-link-london-south" href="javascript:void(0);">London South</a></li>
-		    			<li city="london-west"><a id="locations-list-link-london-west" href="javascript:void(0);">London West</a></li>
-		    			<li city="manchester"><a id="locations-list-link-manchester" href="javascript:void(0);">Manchester</a></li>
-		    			<li city="milton-keynes"><a id="locations-list-link-milton-keynes" href="javascript:void(0);">Milton Keynes</a></li>
-		    			<li city="national-deal"><a id="locations-list-link-national-deal" href="javascript:void(0);">National Deal</a></li>
-		    			<li city="newcastle"><a id="locations-list-link-newcastle" href="javascript:void(0);">Newcastle</a></li>
-		    			<li city="northampton"><a id="locations-list-link-northampton" href="javascript:void(0);">Northampton</a></li>
-		    			<li city="norwich"><a id="locations-list-link-norwich" href="javascript:void(0);">Norwich</a></li>
-		    			<li city="nottingham"><a id="locations-list-link-nottingham" href="javascript:void(0);">Nottingham</a></li>
-		    			<li city="oxford"><a id="locations-list-link-oxford" href="javascript:void(0);">Oxford</a></li>
-		    			<li city="peterborough"><a id="locations-list-link-peterborough" href="javascript:void(0);">Peterborough</a></li>
-		    			<li city="plymouth"><a id="locations-list-link-plymouth" href="javascript:void(0);">Plymouth</a></li>
-		    			<li city="portsmouth"><a id="locations-list-link-portsmouth" href="javascript:void(0);">Portsmouth</a></li>
-		    			<li city="preston"><a id="locations-list-link-preston" href="javascript:void(0);">Preston</a></li>
-		    			<li city="reading"><a id="locations-list-link-reading" href="javascript:void(0);">Reading</a></li>
-		    			<li city="sheffield"><a id="locations-list-link-sheffield" href="javascript:void(0);">Sheffield</a></li>
-		    			<li city="southampton"><a id="locations-list-link-southampton" href="javascript:void(0);">Southampton</a></li>
-		    			<li city="stoke-on-trent"><a id="locations-list-link-stoke-on-trent" href="javascript:void(0);">Stoke-on-Trent</a></li>
-		    			<li city="surrey"><a id="locations-list-link-surrey" href="javascript:void(0);">Surrey</a></li>
-		    			<li city="swansea"><a id="locations-list-link-swansea" href="javascript:void(0);">Swansea</a></li>
-		    			<li city="travel"><a id="locations-list-link-travel" href="javascript:void(0);">Travel</a></li>
-		    			<li city="wolverhampton"><a id="locations-list-link-wolverhampton" href="javascript:void(0);">Wolverhampton</a></li>
-		    			<li city="york"><a id="locations-list-link-york" href="javascript:void(0);">York</a></li>
+		    	<li class="" city="aberdeen"><a id="locations-list-link-aberdeen" href="javascript:void(0);">Aberdeen</a></li>
+		    			<li class="" city="bath"><a id="locations-list-link-bath" href="javascript:void(0);">Bath</a></li>
+		    			<li class="" city="belfast"><a id="locations-list-link-belfast" href="javascript:void(0);">Belfast</a></li>
+		    			<li class="" city="birmingham"><a id="locations-list-link-birmingham" href="javascript:void(0);">Birmingham</a></li>
+		    			<li class="" city="blackpool"><a id="locations-list-link-blackpool" href="javascript:void(0);">Blackpool</a></li>
+		    			<li class="" city="bournemouth"><a id="locations-list-link-bournemouth" href="javascript:void(0);">Bournemouth</a></li>
+		    			<li class="" city="bradford"><a id="locations-list-link-bradford" href="javascript:void(0);">Bradford</a></li>
+		    			<li class="" city="brighton"><a id="locations-list-link-brighton" href="javascript:void(0);">Brighton</a></li>
+		    			<li class="" city="bristol"><a id="locations-list-link-bristol" href="javascript:void(0);">Bristol</a></li>
+		    			<li class="" city="cambridge"><a id="locations-list-link-cambridge" href="javascript:void(0);">Cambridge</a></li>
+		    			<li class="" city="cardiff"><a id="locations-list-link-cardiff" href="javascript:void(0);">Cardiff</a></li>
+		    			<li class="" city="cornwall"><a id="locations-list-link-cornwall" href="javascript:void(0);">Cornwall</a></li>
+		    			<li class="" city="coventry"><a id="locations-list-link-coventry" href="javascript:void(0);">Coventry</a></li>
+		    			<li class="" city="derby"><a id="locations-list-link-derby" href="javascript:void(0);">Derby</a></li>
+		    			<li class="" city="dublin"><a id="locations-list-link-dublin" href="javascript:void(0);">Dublin</a></li>
+		    			<li class="" city="edinburgh"><a id="locations-list-link-edinburgh" href="javascript:void(0);">Edinburgh</a></li>
+		    			<li class="" city="essex"><a id="locations-list-link-essex" href="javascript:void(0);">Essex</a></li>
+		    			<li class="" city="exeter"><a id="locations-list-link-exeter" href="javascript:void(0);">Exeter</a></li>
+		    			<li class="" city="glasgow"><a id="locations-list-link-glasgow" href="javascript:void(0);">Glasgow</a></li>
+		    			<li class="" city="gloucestershire"><a id="locations-list-link-gloucestershire" href="javascript:void(0);">Gloucestershire</a></li>
+		    			<li class="" city="grimsby"><a id="locations-list-link-grimsby" href="javascript:void(0);">Grimsby</a></li>
+		    			<li class="" city="hull-and-east-riding"><a id="locations-list-link-hull-and-east-riding" href="javascript:void(0);">Hull and East Riding</a></li>
+		    			<li class="" city="ipswich"><a id="locations-list-link-ipswich" href="javascript:void(0);">Ipswich</a></li>
+		    			<li class="" city="kent"><a id="locations-list-link-kent" href="javascript:void(0);">Kent</a></li>
+		    			<li class="" city="leeds"><a id="locations-list-link-leeds" href="javascript:void(0);">Leeds</a></li>
+		    			<li class="" city="leicester"><a id="locations-list-link-leicester" href="javascript:void(0);">Leicester</a></li>
+		    			<li class="" city="lincolnshire"><a id="locations-list-link-lincolnshire" href="javascript:void(0);">Lincolnshire</a></li>
+		    			<li class="" city="liverpool"><a id="locations-list-link-liverpool" href="javascript:void(0);">Liverpool</a></li>
+		    			<li class="selected-loc " city="london"><a id="locations-list-link-london" href="javascript:void(0);">London</a></li>
+		    			<li class="" city="london-east"><a id="locations-list-link-london-east" href="javascript:void(0);">London East</a></li>
+		    			<li class="" city="london-north"><a id="locations-list-link-london-north" href="javascript:void(0);">London North</a></li>
+		    			<li class="" city="london-south"><a id="locations-list-link-london-south" href="javascript:void(0);">London South</a></li>
+		    			<li class="" city="london-west"><a id="locations-list-link-london-west" href="javascript:void(0);">London West</a></li>
+		    			<li class="" city="manchester"><a id="locations-list-link-manchester" href="javascript:void(0);">Manchester</a></li>
+		    			<li class="" city="milton-keynes"><a id="locations-list-link-milton-keynes" href="javascript:void(0);">Milton Keynes</a></li>
+		    			<li class="" city="national-deal"><a id="locations-list-link-national-deal" href="javascript:void(0);">National Deal</a></li>
+		    			<li class="" city="newcastle"><a id="locations-list-link-newcastle" href="javascript:void(0);">Newcastle</a></li>
+		    			<li class="" city="northampton"><a id="locations-list-link-northampton" href="javascript:void(0);">Northampton</a></li>
+		    			<li class="" city="norwich"><a id="locations-list-link-norwich" href="javascript:void(0);">Norwich</a></li>
+		    			<li class="" city="nottingham"><a id="locations-list-link-nottingham" href="javascript:void(0);">Nottingham</a></li>
+		    			<li class="" city="oxford"><a id="locations-list-link-oxford" href="javascript:void(0);">Oxford</a></li>
+		    			<li class="" city="peterborough"><a id="locations-list-link-peterborough" href="javascript:void(0);">Peterborough</a></li>
+		    			<li class="" city="plymouth"><a id="locations-list-link-plymouth" href="javascript:void(0);">Plymouth</a></li>
+		    			<li class="" city="portsmouth"><a id="locations-list-link-portsmouth" href="javascript:void(0);">Portsmouth</a></li>
+		    			<li class="" city="preston"><a id="locations-list-link-preston" href="javascript:void(0);">Preston</a></li>
+		    			<li class="" city="reading"><a id="locations-list-link-reading" href="javascript:void(0);">Reading</a></li>
+		    			<li class="" city="sheffield"><a id="locations-list-link-sheffield" href="javascript:void(0);">Sheffield</a></li>
+		    			<li class="" city="southampton"><a id="locations-list-link-southampton" href="javascript:void(0);">Southampton</a></li>
+		    			<li class="" city="stoke-on-trent"><a id="locations-list-link-stoke-on-trent" href="javascript:void(0);">Stoke-on-Trent</a></li>
+		    			<li class="" city="surrey"><a id="locations-list-link-surrey" href="javascript:void(0);">Surrey</a></li>
+		    			<li class="" city="swansea"><a id="locations-list-link-swansea" href="javascript:void(0);">Swansea</a></li>
+		    			<li class="" city="wolverhampton"><a id="locations-list-link-wolverhampton" href="javascript:void(0);">Wolverhampton</a></li>
+		    			<li class="" city="york"><a id="locations-list-link-york" href="javascript:void(0);">York</a></li>
 		    			</ul>
 	    </div>
-	</div></div>
+</div></div>
 <div class="col-l-content"> 
 		<script type="text/javascript">
 	 DOD.has('subscription');
@@ -291,7 +323,7 @@
   <h3 id="signup-location" class="section-header fnt-18">Sign up for London</h3>
   <div class="grad-box m20-b rnd">
 	 <div class="grad-white-box box-shadow">
-	    <form id="subscription">
+	    <form id="subscription" qaspageid="minilightbox">
 	    	<script type="text/javascript">
 	    		//below variable is used in DOD_subscription.js file
 			   var isUserSubscribed = new Boolean().valueOf();
@@ -322,7 +354,7 @@ DOD.has("facebookLike", {"appendToId": "facebook", "IFRAME": DOD.isIE6 });
   <div class="grad-box m20-b rnd">
      <p class="col-l-contactus-header theme-bg-color">Interested in promoting your business with Wowcher?</p>
 	 <div class="grad-white-box box-shadow" id="col-l-contactus-content">
-        <p>If you're itching to place a deal on Wowcher, or just want to create more exposure for your business, get in touch with our Wowcher team now... <a href="/workwithus.html" title="Find out more">find out more</a></p>
+        <p>If you're itching to place a deal on Wowcher, or just want to create more exposure for your business, get in touch with our Wowcher team now... <a href="/a/workwithus.html" title="Find out more">find out more</a></p>
         <h4>Contact us:</h4>
 <ul class="contacts">
 	<li class="email fnt-12"><a href="mailto:sales@wowcher.co.uk">sales@wowcher.co.uk</a></li>
@@ -331,20 +363,20 @@ DOD.has("facebookLike", {"appendToId": "facebook", "IFRAME": DOD.isIE6 });
  <div class="grad-box m20-b rnd">	
 	 <div class="grad-white-box box-shadow fnt-12">		
 	  <ul class="categories">  
-		<li><a title="Attractions" href="/attractions.html">Attractions</a></li>
-		<li><a title="Days Out" href="/daysout.html">Days Out</a></li>
-		<li><a title="Fitness and Dance Classes" href="/fitnessanddance.html">Fitness and Dance Classes</a></li>
-		<li><a title="Hairdressers" href="/hairdressers.html">Hairdressers</a></li>
-		<li><a title="Health and Beauty" href="/healthandbeauty.html">Health and Beauty</a></li>
-		<li><a title="Home and Garden" href="/homeandgarden.html">Home and Garden</a></li>
-		<li><a title="Hotels and Travel" href="/hotelsandtravel.html">Hotels and Travel</a></li>
-		<li><a title="IT and Telecoms" href="itandtelecoms.html">IT and Telecoms</a></li>
-		<li><a title="Photography" href="/photography.html">Photography</a></li>
-		<li><a title="Pubs, Bars and Clubs" href="/pubsbarsclubs.html">Pubs, Bars and Clubs</a></li>
-		<li><a title="Restaurants" href="/restaurants.html">Restaurants</a></li>
-		<li><a title="Shopping" href="/shopping.html">Shopping</a></li>
-		<li><a title="Sport and Leisure" href="/sportandleisure.html">Sport and Leisure</a></li>
-		<li><a title="Takeaways" href="/takeaways.html">Takeaways</a></li>
+		<li><a title="Attractions" href="/a/attractions.html">Attractions</a></li>
+		<li><a title="Days Out" href="/a/daysout.html">Days Out</a></li>
+		<li><a title="Fitness and Dance Classes" href="/a/fitnessanddance.html">Fitness and Dance Classes</a></li>
+		<li><a title="Hairdressers" href="/a/hairdressers.html">Hairdressers</a></li>
+		<li><a title="Health and Beauty" href="/a/healthandbeauty.html">Health and Beauty</a></li>
+		<li><a title="Home and Garden" href="/a/homeandgarden.html">Home and Garden</a></li>
+		<li><a title="Hotels and Travel" href="/a/hotelsandtravel.html">Hotels and Travel</a></li>
+		<li><a title="IT and Telecoms" href="/a/itandtelecoms.html">IT and Telecoms</a></li>
+		<li><a title="Photography" href="/a/photography.html">Photography</a></li>
+		<li><a title="Pubs, Bars and Clubs" href="/a/pubsbarsclubs.html">Pubs, Bars and Clubs</a></li>
+		<li><a title="Restaurants" href="/a/restaurants.html">Restaurants</a></li>
+		<li><a title="Shopping" href="/a/shopping.html">Shopping</a></li>
+		<li><a title="Sport and Leisure" href="/a/sportandleisure.html">Sport and Leisure</a></li>
+		<li><a title="Takeaways" href="/a/takeaways.html">Takeaways</a></li>
 	 </ul>	
 	 </div>
  </div> </div>
@@ -462,31 +494,33 @@ Separate tools are also available for managing local shared objects or ‘Flash 
 	<div id="first-list">
 		<h3>Company info</h3>
 		<ul class="fnt-12">
-		   <li><a href="/aboutus.html" title="About us">About us</a></li>
-		   <li><a href="/contactus.html" title="Contact us">Contact us</a></li>
-		   <li><a href="/termsofuse.html" title="Terms of use">Terms of use</a></li>
-		   <li><a href="/privacypolicy.html" title="Privacy &amp; Cookies Policy">Privacy &amp; Cookies Policy</a></li>
-		   <li><a href="/e-commerceterms.html" title="E-commerce terms">E-commerce terms</a></li>
+		   <li><a href="/a/aboutus.html" title="About us">About us</a></li>
+		   <li><a href="/a/contact.html" title="Contact us">Contact us</a></li>
+		   <li><a href="/a/termsofuse.html" title="Terms of use">Terms of use</a></li>
+		   <li><a href="/a/privacypolicy.html" title="Privacy &amp; Cookies Policy">Privacy &amp; Cookies Policy</a>
+		   <a class="cookie-info" title="Your Online Choices" target="_blank" href="http://www.youronlinechoices.com/uk/"></a>
+		   </li>
+		   <li><a href="/a/e-commerceterms.html" title="E-commerce terms">E-commerce terms</a></li>
 		</ul>
 	</div>
 	<div id="second-list">
 		<h3>For businesses</h3>
 		<ul class="fnt-12">
-		   <li><a href="/whyusewowcher.html" title="Why use Wowcher?">Why use Wowcher?</a></li>
-		   <li><a href="/getfeatured.html" title="Get featured">Get featured</a></li>
-		   <li><a href="/businessfaq.html" title="Business FAQ">Business FAQ</a></li>
-		   <li><a href="/login?redirectPath=/myaccount/merchant" id="js-merchant-link" title="Merchant Area">Merchant Area</a></li>
+		   <li><a href="/a/whyusewowcher.html" title="Why use Wowcher?">Why use Wowcher?</a></li>
+		   <li><a href="/a/getfeatured.html" title="Get featured">Get featured</a></li>
+		   <li><a href="/a/businessfaq.html" title="Business FAQ">Business FAQ</a></li>
+		   <li><a href="/login?redirectPath=/myaccount/merchant%3Fd%3Da&amp;d=a" id="js-merchant-link" title="Merchant Area">Merchant Area</a></li>
 		</ul>
 	</div>
 	<div id="third-list">
 	   <div class="flt-r">
 		 <h3>Wowcher</h3>
 		 <ul class="fnt-12">
-		   <li><a href="/howwowcherworks.html" title="How Wowcher works">How Wowcher works</a></li>
-		   <li><a href="/faq.html" title="FAQ">FAQ</a></li>
-		   <li><a href="/suggestabusiness.html" title="Suggest a business">Suggest a business</a></li>
-		   <li><a href="/gotawowcheridea.html" title="Got a Wowcher idea?">Got a Wowcher idea?</a></li>
-		   <li><a href="/tvadverts.html" title="See our TV Ads">See our TV Ads</a></li>
+		   <li><a href="/a/howwowcherworks.html" title="How Wowcher works">How Wowcher works</a></li>
+		   <li><a href="/a/faq.html" title="FAQ">FAQ</a></li>
+		   <li><a href="/a/suggestabusiness.html" title="Suggest a business">Suggest a business</a></li>
+		   <li><a href="/a/gotawowcheridea.html" title="Got a Wowcher idea?">Got a Wowcher idea?</a></li>
+		   <li><a href="/a/tvadverts.html" title="See our TV Ads">See our TV Ads</a></li>
 		 </ul>
 		</div>
 	</div>
