@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521202902id_/http%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215101614id_/http%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Bayer
 
@@ -38,6 +38,50 @@ Cookies are small text files that are stored in the visitor's local browser cach
 
 Most browsers are set-up to accept these Cookies automatically. In addition, you can deactivate the storing of cookies or adjust your browser to inform you before the Cookie is stored on your computer.
 
+## Cookies used on this website
+
+Name
+
+| 
+
+Purpose
+
+| 
+
+Lifespan  
+  
+---|---|---  
+  
+ASP.NET_SessionId
+
+| 
+
+The anonymous identification of a session (website visit) for technical purposes only. No personal data is collected.
+
+| 
+
+Duration of the session: the cookie is deleted when the browser is closed.   
+  
+bayerdePublikationen_ShoppingCart
+
+| 
+
+Shopping cart for publication orders
+
+| 
+
+1 day  
+  
+WT_FPC
+
+| 
+
+The anonymous identification of a visit for statistical analysis in order to optimize the website. No personal data is collected.
+
+| 
+
+30 days  
+  
 ## Security
 
 Bayer uses technical and organizational security precautions to protect your data from manipulation, loss, destruction or access by unauthorized persons. Any personal data that is provided to Bayer by you will be encrypted in transit to prevent its possible misuse by third parties. Our security procedures are continuously revised based on new technological developments.
