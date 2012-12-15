@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the halpertbeesly.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615145047id_/http%3A//www.nbc.com/Footer/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halpertbeesly.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215155233id_/http%3A//www.nbc.com/Footer/Privacy) for the most accurate reproduction.*
 
-# NBC.com - Privacy Policy - NBC Official Site
+# NBC.com | Privacy Policy | NBC
 
 **This Privacy Policy was last updated on August 14, 2007.**
 
