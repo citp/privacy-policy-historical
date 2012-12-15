@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontier.co.uk privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613172322id_/http%3A//www.frontier.co.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontier.co.uk privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215111025id_/http%3A//www.frontier.co.uk/legal/privacy) for the most accurate reproduction.*
 
 # Legal - Frontier Developments
 
