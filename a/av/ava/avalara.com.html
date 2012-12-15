@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the avalara.com privacy policy that was archived on 2012-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120527071953id_/http%3A//www.avalara.com/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the avalara.com privacy policy that was archived on 2012-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121215233021id_/http%3A//www.avalara.com/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Header"><title>
 	Privacy Policy for Avalara.com
-</title><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="X-UA-Compatible" content="IE=9"><meta property="og:image" content="http://www.avalara.com/_imgs/avalara_bubble_mobile.png"><meta property="og:title"><meta property="og:url"> 
+</title><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="X-UA-Compatible" content="IE=9"><meta property="og:image" content="http://www.avalara.com/_imgs/avalara_bubble_mobile.png"><meta property="og:title"><meta property="og:url">
         <script type="text/javascript" async="" src="/elqNow/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/avalara/scripts/jquery-1.6.3.min.js"></script>
         <script type="text/javascript" src="https://use.typekit.com/laf3zld.js"></script>
         <script type="text/javascript">            try { Typekit.load(); } catch (e) { }</script>
@@ -58,7 +58,64 @@
         data_ga_property: 'UA-194202-1'
     };
     </script>
+     <script type="text/javascript" src="http://api.demandbase.com/autocomplete/widget.js"></script>        
+    <script type="text/javascript">
+        demandInfo = {};
+        ip_company = new Array();
+        var updateFields = false;
+        sourceType = 'none';
+
+        var contactApp = function (data) {
+            if (person = data.person) {
+                PostDemandObj(person, 'person');
+            }
+            if (ip_company.company_name) {
+                PostDemandObj(ip_company, 'ip');
+            }
+            if (pick = data.pick) {
+                PostDemandObj(pick, 'autoComplete');
+                if (updateFields) {
+                    jQuery('#tbAddress').val(data.pick.street_address);
+                    jQuery('#tbPhone').val(data.pick.phone);
+                    jQuery('#tbCity').val(data.pick.city);
+                    jQuery('#tbZip').val(data.pick.zip);
+                    jQuery('#ddlCountry').val(data.pick.country);
+                    jQuery('#ddlState').val(data.pick.state);
+
+                }
+            }
+            if (input_match = data.input_match) {
+                PostDemandObj(input_match, 'companyMatch');
+            }
+        };
+        function PostDemandObj(demandObj, sourceType) {
+            demandInfo[sourceType] = demandObj;
+
+            if (sourceType == 'person') {
+                demandInfo['primary'] = demandObj;
+            } else if (sourceType == 'autoComplete' && demandInfo['person'] == null) {
+                demandInfo['primary'] = demandObj;
+                //alert(demandInfo['primary']['company_name'] + demandInfo['autoComplete']['company_name']);
+            } else if (sourceType == 'ip' && demandInfo['person'] == null && demandInfo['autoComplete'] == null) {
+                demandInfo['primary'] = demandObj;
+            } else {
+                demandInfo['primary'] = demandObj;
+            }
+            if (jQuery('#demandB') != 'undefined') {
+                var updateVariable = JSON.stringify(demandInfo);
+                jQuery('#demandB').val(updateVariable);
+            }
+        }
         
+        var demandbase_parse = function (company) {
+            ip_company = company;
+            PostDemandObj(ip_company, 'ip');
+        };
+
+        
+    </script> 
+    <script type="text/javascript" src="http://api.demandbase.com/api/v2/ip.json?key=cd808af9a6cd45b79325add273c57c77afb5f89b&amp;callback=demandbase_parse"></script>
+	    
 	<link href="App_Themes/CorporateSite/Dialogs.css" type="text/css" rel="stylesheet"><link href="App_Themes/CorporateSite/ECommerce.css" type="text/css" rel="stylesheet"></head>
 	
 <body lang="en">
@@ -131,9 +188,9 @@
         </div>
 
 <form name="aspnetForm" method="post" action="/privacypolicy.aspx?aliaspath=%2favaspecialpages%2fprivacypolicy" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQ3Mjk2OTU3Ng9kFgJmD2QWAmYPZBYGAgEPDxYCHgtOYXZpZ2F0ZVVybAUgL2F2YXJhdGVzbm93L2F2YXJhdGVyZWdpc3RyYXRpb25kZAICDxYCHgdWaXNpYmxlaGQCBA9kFghmDw8WCh4URGVmYXVsdFBhZ2VBbGlhc1BhdGgFAS8eDVBhZ2VBbGlhc3BhdGgFHi9hdmFzcGVjaWFscGFnZXMvcHJpdmFjeXBvbGljeR4IU2l0ZU5hbWUFB0F2YWxhcmEeC0N1bHR1cmVDb2RlBQVlbi1VUx4ZQ29tYmluZVdpdGhEZWZhdWx0Q3VsdHVyZWhkZAICDxYCHgRUZXh0BUA8YSBpZD0nbG9naW5MaW5rJyBocmVmPSdodHRwczovL3d3dy5hdmFsYXJhLmNvbS9sb2dpbic+TG9naW48L2E+ZAIDDw8WAh8BaGRkAgUPZBYGAgEPZBYEAgEPDxYEHwAFAS8fBwUESG9tZWRkAgMPDxYEHwAFDi9wcml2YWN5cG9saWN5HwcFDlBSSVZBQ1kgUE9MSUNZZGQCAw9kFjgCAQ8WAh8BaGQCAw8PFgIfAWhkZAIFD2QWAgIDDw9kFgIeC3BsYWNlaG9sZGVyBQlGdWxsIE5hbWVkAgcPDxYEHghDc3NDbGFzcwUKZG91YmxlbGluZR4EXyFTQgICZBYEAgEPDxYCHgdFbmFibGVkaGRkAgMPDxYCHwFoFgIfCAUJSm9iIFRpdGxlZAIJD2QWAgIFDw9kFgIfCAUNRW1haWwgQWRkcmVzc2QCCw8PFgIfAWhkFgQCAw8PZBYCHwgFCFBhc3N3b3JkZAIHDw9kFgIfCAUPVmVyaWZ5IFBhc3N3b3JkZAINDw8WBB8JBQpkb3VibGVsaW5lHwoCAmQWBAIBDw8WAh8LaGRkAgMPD2QWAh8IBRJQaG9uZSB4eHgteHh4LXh4eHhkAg8PZBYEAgEPDxYCHwtoZGQCAw8PFgIfAWgWAh8IBRNNb2JpbGUgeHh4LXh4eC14eHh4ZAIRD2QWAgIDDw9kFgIfCAUHQ29tcGFueWQCEw8PFgQfCQUKc2luZ2xlbGluZR8KAgJkFgQCAQ8PFgIfC2hkZAIDDw9kFgIfCAUIWmlwIGNvZGVkAhUPDxYCHwFoZGQCFw8PFgIfAWhkFgwCAQ8PFgIfB2VkZAIDDxAPZBYCHgdvbmNsaWNrBUNTaG93SW5wdXQoJyNjdGwwMF9jdGwwMF9wbGNNYXN0ZXJNYWluX0NvbnRhY3RVc19jcm1TZWxlY3QnLCBmYWxzZSk7ZGRkAgUPEA9kFgIfDAVJU2hvd0lucHV0KCcjY3RsMDBfY3RsMDBfcGxjTWFzdGVyTWFpbl9Db250YWN0VXNfZWNvbW1lcmNlU2VsZWN0JywgZmFsc2UpO2RkZAIHDxAPZBYCHwwFSVNob3dJbnB1dCgnI2N0bDAwX2N0bDAwX3BsY01hc3Rlck1haW5fQ29udGFjdFVzX2ZpbmFuY2lhbFNlbGVjdCcsIGZhbHNlKTtkZGQCCQ8QD2QWAh8MBURTaG93SW5wdXQoJyNjdGwwMF9jdGwwMF9wbGNNYXN0ZXJNYWluX0NvbnRhY3RVc19tY29tU2VsZWN0JywgZmFsc2UpO2RkZAILDxAPZBYCHwwFQ1Nob3dJbnB1dCgnI2N0bDAwX2N0bDAwX3BsY01hc3Rlck1haW5fQ29udGFjdFVzX3Bvc1NlbGVjdCcsIGZhbHNlKTtkZGQCGQ8PFgYfCQUKc2luZ2xlbGluZR8KAgIfAWhkFgQCAg8PFgIfC2hkZAIEDxYCHgVjbGFzcwUMaW5wdXRTZWN0aW9uFgQCAQ8QD2QWAh4Ib25DaGFuZ2UFJlNob3dPdGhlcih0aGlzLCAnI3RiRVJQT3RoZXJEaXNwbGF5Jyk7ZBYBZmQCAw8PZBYCHwgFEllvdXIgRmluYW5jaWFsIEFwcGQCGw8PFgQfCQUKc2luZ2xlbGluZR8KAgJkFgICAw8QZGQWAWZkAh0PDxYEHwkFCnNpbmdsZWxpbmUfCgICZBYEAgMPEA9kFgIfDAVfRWNvbW1lcmNlVmFsaWRhdGlvbigpO1Nob3dJbnB1dCgnI2N0bDAwX2N0bDAwX3BsY01hc3Rlck1haW5fQ29udGFjdFVzX2Vjb21tZXJjZVNlbGVjdCcsIGZhbHNlKTtkZGQCBQ8WAh8NBRtpbnB1dFNlY3Rpb24gaGlkZGVuUXVlc3Rpb24WBAIDDxAPZBYCHw4FKFNob3dPdGhlcih0aGlzLCAnI3RiRWNvbW1PdGhlckRpc3BsYXknKTtkFgFmZAIFDw9kFgIfCAUOWW91ciBFY29tbWVyY2VkAh8PZBYEAgMPEA9kFgIfDAVDU2hvd0lucHV0KCcjY3RsMDBfY3RsMDBfcGxjTWFzdGVyTWFpbl9Db250YWN0VXNfY3JtU2VsZWN0JywgZmFsc2UpO2RkZAIFDxYCHw0FG2lucHV0U2VjdGlvbiBoaWRkZW5RdWVzdGlvbhYEAgMPEA9kFgIfDgUmU2hvd090aGVyKHRoaXMsICcjdGJDUk1PdGhlckRpc3BsYXknKTtkFgFmZAIFDw9kFgIfCAUIWW91ciBDUk1kAiEPZBYEAgMPEA9kFgIfDAVEU2hvd0lucHV0KCcjY3RsMDBfY3RsMDBfcGxjTWFzdGVyTWFpbl9Db250YWN0VXNfbWNvbVNlbGVjdCcsIGZhbHNlKTtkZGQCBQ8WAh8NBRtpbnB1dFNlY3Rpb24gaGlkZGVuUXVlc3Rpb24WBAIDDxAPZBYCHw4FKVNob3dPdGhlcih0aGlzLCAnI3RiTW9iaWxlT3RoZXJEaXNwbGF5Jyk7ZBYBZmQCBQ8PZBYCHwgFFFlvdXIgTW9iaWxlIHNvbHV0aW9uZAIjD2QWBAIDDxAPZBYCHwwFQ1Nob3dJbnB1dCgnI2N0bDAwX2N0bDAwX3BsY01hc3Rlck1haW5fQ29udGFjdFVzX3Bvc1NlbGVjdCcsIGZhbHNlKTtkZGQCBQ8WAh8NBRtpbnB1dFNlY3Rpb24gaGlkZGVuUXVlc3Rpb24WBAIDDxAPZBYCHw4FJlNob3dPdGhlcih0aGlzLCAnI3RiUE9TT3RoZXJEaXNwbGF5Jyk7ZBYBZmQCBQ8PZBYCHwgFCFlvdXIgUE9TZAIlD2QWAgIDDxBkZBYBZmQCJw8PFgYfCQUKc2luZ2xlbGluZR8KAgIfAWhkFgICAw8QZGQWAWZkAikPZBYCAgEPEGRkFgBkAisPDxYGHwkFCnNpbmdsZWxpbmUfCgICHwFoZBYCAgMPEGRkFgFmZAIvDw8WAh8BaGRkAjEPDxYCHwFoZBYCAgEPDxYCHwdlZGQCMw9kFgICAw8PZBYCHwgFFkFkZGl0aW9uYWwgSW5mb3JtYXRpb25kAj8PDxYGHwcFCkNvbnRhY3QgVXMfCQUUc3VibWl0IGJ1dHRvblN1Ym1pdF8fCgICZGQCQw8PFgIfAWhkFggCAQ8PFgIfAAVybWFpbHRvOiZzdWJqZWN0PXdlYmluYXImYm9keT1Zb3UgbWF5IGJlIGludGVyZXN0ZWQgaW4gYXR0ZW5kaW5nIHRoaXMgd2ViaW5hciBodHRwOi8vd3d3LmF2YWxhcmEuY29tLy9wcml2YWN5cG9saWN5ZGQCAw8PFgIfAAUXaHR0cDovL3d3dy5saW5rZWRpbi5jb21kZAIFDxYCHwcF3QE8c2NyaXB0IHNyYz0naHR0cDovL3BsYXRmb3JtLnR3aXR0ZXIuY29tL3dpZGdldHMuanMnIHR5cGU9J3RleHQvamF2YXNjcmlwdCc+PC9zY3JpcHQ+PGEgaHJlZj0naHR0cDovL3R3aXR0ZXIuY29tL3NoYXJlP3VybD1odHRwJTNhJTJmJTJmd3d3LmF2YWxhcmEuY29tJTJmJTJmcHJpdmFjeXBvbGljeSZjb3VudD1ub25lJyBjbGFzcz0ndHdpdHRlci1zaGFyZS1idXR0b24nPlR3ZWV0PC9hPmQCBw8WAh8HBdQBPGRpdiBpZD0nZmItcm9vdCc+PC9kaXY+PHNjcmlwdCBzcmM9J2h0dHA6Ly9jb25uZWN0LmZhY2Vib29rLm5ldC9lbl9VUy9hbGwuanMjeGZibWw9MSc+PC9zY3JpcHQ+PGZiOmxpa2UgaHJlZj0naHR0cDovL3d3dy5hdmFsYXJhLmNvbS8vcHJpdmFjeXBvbGljeScgc2VuZD0nZmFsc2UnIHdpZHRoPScxMDAnIHNob3dfZmFjZXM9J2ZhbHNlJyBmb250PScnPjwvZmI6bGlrZT5kAk0PFgIfBwWpATxpbnB1dCB0eXBlPSdoaWRkZW4nIG5hbWU9J2VscUZvcm1OYW1lJyB2YWx1ZT0nJyAvPjxpbnB1dCB0eXBlPSdoaWRkZW4nIG5hbWU9J2VscVNpdGVJRCcgdmFsdWU9JzcwNicvPjxpbnB1dCB0eXBlPSdoaWRkZW4nIG5hbWU9J2VscUN1c3RvbWVyR1VJRCcgaWQ9J2VscUN1c3RvbWVyR1VJRCcgLz5kAgcPZBYEAgEPDxYCHwFoZGQCCQ9kFgICAQ9kFgJmD2QWAgIFDw8WAh4NT25DbGllbnRDbGljawV7X19kb1Bvc3RCYWNrKCdjdGwwMCRjdGwwMCRwbGNNYXN0ZXJNYWluJHBsY01haW4kU2VhcmNoRGlhbG9nMiRidG5TZWFyY2gnLCdjdGwwMF9jdGwwMF9wbGNNYXN0ZXJNYWluX3BsY01haW5fU2VhcmNoRGlhbG9nMicpZGRk">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQ3Mjk2OTU3Ng9kFgJmD2QWAmYPZBYGAgEPDxYCHgtOYXZpZ2F0ZVVybAUgL2F2YXJhdGVzbm93L2F2YXJhdGVyZWdpc3RyYXRpb25kZAICDxYCHgdWaXNpYmxlaGQCBA9kFghmDw8WCh4URGVmYXVsdFBhZ2VBbGlhc1BhdGgFAS8eDVBhZ2VBbGlhc3BhdGgFHi9hdmFzcGVjaWFscGFnZXMvcHJpdmFjeXBvbGljeR4IU2l0ZU5hbWUFB0F2YWxhcmEeC0N1bHR1cmVDb2RlBQVlbi1VUx4ZQ29tYmluZVdpdGhEZWZhdWx0Q3VsdHVyZWhkZAICDxYCHgRUZXh0BUA8YSBpZD0nbG9naW5MaW5rJyBocmVmPSdodHRwczovL3d3dy5hdmFsYXJhLmNvbS9sb2dpbic+TG9naW48L2E+ZAIDDw8WAh8BaGRkAgUPZBYGAgEPZBYEAgEPDxYEHwAFAS8fBwUESG9tZWRkAgMPDxYEHwAFDi9wcml2YWN5cG9saWN5HwcFDlBSSVZBQ1kgUE9MSUNZZGQCAw9kFjwCAQ8WAh8BaGQCAw8PFgIfAWhkZAIFD2QWAgIDDw9kFgIeC3BsYWNlaG9sZGVyBQlGdWxsIE5hbWVkAgcPDxYEHghDc3NDbGFzcwUKZG91YmxlbGluZR4EXyFTQgICZBYEAgEPDxYCHgdFbmFibGVkaGRkAgMPDxYCHwFoFgIfCAUJSm9iIFRpdGxlZAIJD2QWAgIFDw9kFgIfCAUNRW1haWwgQWRkcmVzc2QCCw8PFgIfAWhkFgQCAw8PZBYCHwgFCFBhc3N3b3JkZAIHDw9kFgIfCAUPVmVyaWZ5IFBhc3N3b3JkZAINDw8WBB8JBQpkb3VibGVsaW5lHwoCAmQWBAIBDw8WAh8LaGRkAgQPD2QWAh8IBRJQaG9uZSB4eHgteHh4LXh4eHhkAg8PZBYEAgEPDxYCHwtoZGQCAw8PFgIfAWgWAh8IBRNNb2JpbGUgeHh4LXh4eC14eHh4ZAIRD2QWAgIDDw9kFgIfCAUHQ29tcGFueWQCEw8PFgQfCQUKc2luZ2xlbGluZR8KAgJkFgQCAQ8PFgIfC2hkZAIDDw9kFgIfCAUIWmlwIGNvZGVkAhUPDxYCHwFoZGQCFw8PFgIfAWhkFgwCAQ8PFgIfB2VkZAIDDxAPZBYCHgdvbmNsaWNrBUNTaG93SW5wdXQoJyNjdGwwMF9jdGwwMF9wbGNNYXN0ZXJNYWluX0NvbnRhY3RVc19jcm1TZWxlY3QnLCBmYWxzZSk7ZGRkAgUPEA9kFgIfDAVJU2hvd0lucHV0KCcjY3RsMDBfY3RsMDBfcGxjTWFzdGVyTWFpbl9Db250YWN0VXNfZWNvbW1lcmNlU2VsZWN0JywgZmFsc2UpO2RkZAIHDxAPZBYCHwwFSVNob3dJbnB1dCgnI2N0bDAwX2N0bDAwX3BsY01hc3Rlck1haW5fQ29udGFjdFVzX2ZpbmFuY2lhbFNlbGVjdCcsIGZhbHNlKTtkZGQCCQ8QD2QWAh8MBURTaG93SW5wdXQoJyNjdGwwMF9jdGwwMF9wbGNNYXN0ZXJNYWluX0NvbnRhY3RVc19tY29tU2VsZWN0JywgZmFsc2UpO2RkZAILDxAPZBYCHwwFQ1Nob3dJbnB1dCgnI2N0bDAwX2N0bDAwX3BsY01hc3Rlck1haW5fQ29udGFjdFVzX3Bvc1NlbGVjdCcsIGZhbHNlKTtkZGQCGQ8PFgYfCQUKc2luZ2xlbGluZR8KAgIfAWhkFgQCAg8PFgIfC2hkZAIEDxYCHgVjbGFzcwUMaW5wdXRTZWN0aW9uFgQCAQ8QD2QWAh4Ib25DaGFuZ2UFJlNob3dPdGhlcih0aGlzLCAnI3RiRVJQT3RoZXJEaXNwbGF5Jyk7ZBYBZmQCAw8PZBYCHwgFEllvdXIgRmluYW5jaWFsIEFwcGQCGw8PFgQfCQUKc2luZ2xlbGluZR8KAgJkFgICAw8QZGQWAWZkAh0PDxYEHwkFCnNpbmdsZWxpbmUfCgICZBYEAgMPEA9kFgIfDAVfRWNvbW1lcmNlVmFsaWRhdGlvbigpO1Nob3dJbnB1dCgnI2N0bDAwX2N0bDAwX3BsY01hc3Rlck1haW5fQ29udGFjdFVzX2Vjb21tZXJjZVNlbGVjdCcsIGZhbHNlKTtkZGQCBQ8WAh8NBRtpbnB1dFNlY3Rpb24gaGlkZGVuUXVlc3Rpb24WBAIDDxAPZBYCHw4FKFNob3dPdGhlcih0aGlzLCAnI3RiRWNvbW1PdGhlckRpc3BsYXknKTtkFgFmZAIFDw9kFgIfCAUOWW91ciBFY29tbWVyY2VkAh8PDxYEHwkFCnNpbmdsZWxpbmUfCgICZBYCAgUPEGRkFgFmZAIhD2QWBAIDDxAPZBYCHwwFQ1Nob3dJbnB1dCgnI2N0bDAwX2N0bDAwX3BsY01hc3Rlck1haW5fQ29udGFjdFVzX2NybVNlbGVjdCcsIGZhbHNlKTtkZGQCBQ8WAh8NBRtpbnB1dFNlY3Rpb24gaGlkZGVuUXVlc3Rpb24WBAIDDxAPZBYCHw4FJlNob3dPdGhlcih0aGlzLCAnI3RiQ1JNT3RoZXJEaXNwbGF5Jyk7ZBYBZmQCBQ8PZBYCHwgFCFlvdXIgQ1JNZAIjD2QWBAIDDxAPZBYCHwwFRFNob3dJbnB1dCgnI2N0bDAwX2N0bDAwX3BsY01hc3Rlck1haW5fQ29udGFjdFVzX21jb21TZWxlY3QnLCBmYWxzZSk7ZGRkAgUPFgIfDQUbaW5wdXRTZWN0aW9uIGhpZGRlblF1ZXN0aW9uFgQCAw8QD2QWAh8OBSlTaG93T3RoZXIodGhpcywgJyN0Yk1vYmlsZU90aGVyRGlzcGxheScpO2QWAWZkAgUPD2QWAh8IBRRZb3VyIE1vYmlsZSBzb2x1dGlvbmQCJQ9kFgQCAw8QD2QWAh8MBUNTaG93SW5wdXQoJyNjdGwwMF9jdGwwMF9wbGNNYXN0ZXJNYWluX0NvbnRhY3RVc19wb3NTZWxlY3QnLCBmYWxzZSk7ZGRkAgUPFgIfDQUbaW5wdXRTZWN0aW9uIGhpZGRlblF1ZXN0aW9uFgQCAw8QD2QWAh8OBSZTaG93T3RoZXIodGhpcywgJyN0YlBPU090aGVyRGlzcGxheScpO2QWAWZkAgUPD2QWAh8IBQhZb3VyIFBPU2QCJw9kFgICAw8QZGQWAGQCKQ8PFgYfCQUKc2luZ2xlbGluZR8KAgIfAWhkFgICAw8QZGQWAWZkAisPZBYCAgEPEGRkFgBkAi0PDxYGHwkFCnNpbmdsZWxpbmUfCgICHwFoZBYCAgMPEGRkFgFmZAIxDw8WAh8BaGRkAjMPDxYCHwFoZBYCAgEPDxYCHwdlZGQCNQ9kFgICAw8PZBYCHwgFFkFkZGl0aW9uYWwgSW5mb3JtYXRpb25kAkEPDxYGHwcFCkNvbnRhY3QgVXMfCQUUc3VibWl0IGJ1dHRvblN1Ym1pdF8fCgICZGQCRQ8PFgIfAWhkFggCAQ8PFgIfAAVybWFpbHRvOiZzdWJqZWN0PXdlYmluYXImYm9keT1Zb3UgbWF5IGJlIGludGVyZXN0ZWQgaW4gYXR0ZW5kaW5nIHRoaXMgd2ViaW5hciBodHRwOi8vd3d3LmF2YWxhcmEuY29tLy9wcml2YWN5cG9saWN5ZGQCAw8PFgIfAAUXaHR0cDovL3d3dy5saW5rZWRpbi5jb21kZAIFDxYCHwcF3QE8c2NyaXB0IHNyYz0naHR0cDovL3BsYXRmb3JtLnR3aXR0ZXIuY29tL3dpZGdldHMuanMnIHR5cGU9J3RleHQvamF2YXNjcmlwdCc+PC9zY3JpcHQ+PGEgaHJlZj0naHR0cDovL3R3aXR0ZXIuY29tL3NoYXJlP3VybD1odHRwJTNhJTJmJTJmd3d3LmF2YWxhcmEuY29tJTJmJTJmcHJpdmFjeXBvbGljeSZjb3VudD1ub25lJyBjbGFzcz0ndHdpdHRlci1zaGFyZS1idXR0b24nPlR3ZWV0PC9hPmQCBw8WAh8HBdQBPGRpdiBpZD0nZmItcm9vdCc+PC9kaXY+PHNjcmlwdCBzcmM9J2h0dHA6Ly9jb25uZWN0LmZhY2Vib29rLm5ldC9lbl9VUy9hbGwuanMjeGZibWw9MSc+PC9zY3JpcHQ+PGZiOmxpa2UgaHJlZj0naHR0cDovL3d3dy5hdmFsYXJhLmNvbS8vcHJpdmFjeXBvbGljeScgc2VuZD0nZmFsc2UnIHdpZHRoPScxMDAnIHNob3dfZmFjZXM9J2ZhbHNlJyBmb250PScnPjwvZmI6bGlrZT5kAk8PFgIfBwUzPGlucHV0IHR5cGU9J2hpZGRlbicgbmFtZT0nZWxxRm9ybU5hbWUnIHZhbHVlPScnIC8+ZAJRDxYCHwcF2wE8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+alF1ZXJ5KGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbigpIHsgJCgnLmlucHV0U2VjdGlvbicpLmNsaWNrKGZ1bmN0aW9uICgpIHsgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX2N0bDAwX3BsY01hc3Rlck1haW5fQ29udGFjdFVzX1RleHRCb3hTdG9yZU5hbWUnKS52YWx1ZSA9ICdKRUg5M3dHJzt9KTt9KTs8L3NjcmlwdD5kAgcPZBYEAgEPDxYCHwFoZGQCCQ9kFgICAQ9kFgJmD2QWAgIFDw8WAh4NT25DbGllbnRDbGljawV7X19kb1Bvc3RCYWNrKCdjdGwwMCRjdGwwMCRwbGNNYXN0ZXJNYWluJHBsY01haW4kU2VhcmNoRGlhbG9nMiRidG5TZWFyY2gnLCdjdGwwMF9jdGwwMF9wbGNNYXN0ZXJNYWluX3BsY01haW5fU2VhcmNoRGlhbG9nMicpZGRk">
 
-<div><input type="hidden" name="lng" id="lng" value="en-US">
+<script type="text/javascript">var storeName = 'JEH93wG';</script><div><input type="hidden" name="lng" id="lng" value="en-US">
 </div>
 <script src="/ScriptResource.axd?d=UZd7uOr-6aE2yNxKBhsUKX4J-ZBHQJUAc-ZRtbpxmwFPRYghHTxp6bPoet_WC_XWZjqbZl6H9r8JSTZWCLMKE1n33PsCZbCCvr4GEX-8uAmoSQcq-KY5FCptVTQ61eK1X8bYGIRoFac4RIG1g25_nf5FsZo50USdDcCdOC3mVI98QEYGSlEX0ASAQirDOWAN0&amp;t=4edbeeee" type="text/javascript"></script>
 <script type="text/javascript">
@@ -142,7 +199,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 //]]>
 </script>
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAL0yN6vCQKy/vnzCAKYgJSgDgL1po/IAgLNxLzpCgLr3/WBBwKhm5DsCAKkk6a4BQ==">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCQKk1IG7AwKy/vnzCAKYgJSgDgL1po/IAgLNxLzpCgLr3/WBBwKhm5DsCAKkk6a4BQKPptKYBg==">
 
     <div id="ctl00_ctl00_CMSPageManager1">
 
@@ -168,9 +225,9 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 		    <div class="menu">
 		        <div class="nav">
 	<ul class="CMSListMenuUL" id="menuElem">
-		<li class="CMSListMenuLI"><a href="/products" class="CMSListMenuLink">Products</a></li>
-		<li class="CMSListMenuLI"><a href="/partners" class="CMSListMenuLink">Partners</a></li>
 		<li class="CMSListMenuLI"><a href="/About" class="CMSListMenuLink">About</a></li>
+		<li class="CMSListMenuLI"><a href="/partners" class="CMSListMenuLink">Partners</a></li>
+		<li class="CMSListMenuLI"><a href="/products" class="CMSListMenuLink">Products</a></li>
 		<li class="CMSListMenuLI"><a href="/resources" class="CMSListMenuLink">Resources</a></li>
 	</ul>
 
@@ -212,7 +269,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         }
         return isValid;
     }
-
+    
 </script>
 
 
@@ -243,7 +300,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 					
 					</div>
                 <div class="inputSection">
-                    <input name="ctl00$ctl00$plcMasterMain$ContactUs$tbEmail" type="text" id="ctl00_ctl00_plcMasterMain_ContactUs_tbEmail" class="w201p" placeholder="Email Address"><span class="RequiredField">*</span>
+                    <input name="ctl00$ctl00$plcMasterMain$ContactUs$tbEmail" type="text" id="tbEmail" class="w201p" placeholder="Email Address"><span class="RequiredField">*</span>
                 </div>
             
 </div>  
@@ -258,7 +315,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <div class="label">
 				</div>
                 <div class="inputSection">
-                <input name="ctl00$ctl00$plcMasterMain$ContactUs$tbCompany" type="text" id="ctl00_ctl00_plcMasterMain_ContactUs_tbCompany" class="w201p" placeholder="Company"><span class="RequiredField">*</span>
+                <input name="ctl00$ctl00$plcMasterMain$ContactUs$tbCompany" type="text" id="tbCompany" class="w201p" placeholder="Company"><span class="RequiredField">*</span>
                 </div>
             
 </div>
@@ -275,6 +332,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 			
             
 
+
+            
 			
 
 			
@@ -304,7 +363,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
             <div class="singleline keyInfo">		
 				<div><span id="ctl00_ctl00_plcMasterMain_ContactUs_LabelStore"></span></div>
-                <input name="ctl00$ctl00$plcMasterMain$ContactUs$TextBoxStoreName" type="text" value="KY133" id="ctl00_ctl00_plcMasterMain_ContactUs_TextBoxStoreName">
+                <input name="ctl00$ctl00$plcMasterMain$ContactUs$TextBoxStoreName" type="text" id="ctl00_ctl00_plcMasterMain_ContactUs_TextBoxStoreName">
 			</div>
 
             <div class="singleline">
@@ -335,12 +394,41 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 	<div style="text-align:center;">
 		
 	</div>  
-  <input type="hidden" name="elqFormName" value=""><input type="hidden" name="elqSiteID" value="706"><input type="hidden" name="elqCustomerGUID" id="elqCustomerGUID">  
+  <input type="hidden" name="elqFormName" value="">  
+  <script type="text/javascript">jQuery(document).ready(function() { $('.inputSection').click(function () { document.getElementById('ctl00_ctl00_plcMasterMain_ContactUs_TextBoxStoreName').value = 'JEH93wG';});});</script>
+    <input type="hidden" name="ctl00$ctl00$plcMasterMain$ContactUs$demandB" id="demandB">
+    <script type="text/javascript" language="Javascript">
+        function SetElqContent() {
 
-    
+            if (FirstLookup) {
+                //LOOKUP B:  Eloqua Contact/DataCard/Prospect/Company Data Lookup from Email Address
+                var ea = GetElqContentPersonalizationValue(VisitorUniqueField);
+                var fullName = GetElqContentPersonalizationValue('V_ElqFirstName') + ' ' + GetElqContentPersonalizationValue('V_ElqLastName');
+                var companyname = GetElqContentPersonalizationValue('V_ElqCompanyName');
+                //jQuery('#tbFullName').val(fullName);
+                //jQuery('#tbEmail').val(ea);
+                //jQuery('#tbCompany').val(companyname);
+                //_elqQ.push(['elqDataLookup', escape(webLookupId), '<' + PrimaryUniqueField + '>' + ea + '</' + PrimaryUniqueField + '>']);
+                //FirstLookup = false;
+//                jQuery('input[placeholder],textarea[placeholder]').unplaceholder();
+//                jQuery('input[placeholder],textarea[placeholder]').placeholder();
+            }
+       
+
+        }
+
+          
+        Demandbase.CompanyAutocomplete.widget({
+            company: "tbCompany", // attach autocomplete to input field with id = company
+            email: "tbEmail",   // attach autocomplete to input field with id = email
+            key: "cd808af9a6cd45b79325add273c57c77afb5f89b",     // add your demandbase key here
+            callback: contactApp  // the callback to call.
+              });
+    </script> 
 </div>
-<div id="contactinfo">
-</div>
+
+
+
 
 
 </div>
@@ -538,14 +626,7 @@ If you have any questions about this privacy statement, Avalara's information pr
     
 
     </div>
-    
         <!--End page-->
-
-	
-
-
-
-
 <div id="footWrap"> <!--Footer-->
 
             
@@ -574,7 +655,7 @@ If you have any questions about this privacy statement, Avalara's information pr
 		<li class="CMSListMenuLI"><a href="/products/avatax/calc" class="CMSListMenuLink">AvaTax Calc</a></li>
 		<li class="CMSListMenuLI"><a href="/products/avatax/certs" class="CMSListMenuLink">AvaTax Certs</a></li>
 		<li class="CMSListMenuLI"><a href="/products/avatax/returns" class="CMSListMenuLink">AvaTax Returns</a></li>
-		<li class="CMSListMenuLI"><a href="/products/sdk/sdk-free-trial" class="CMSListMenuLink">API Free Trial</a></li>
+		<li class="CMSListMenuLI"><a href="http://developer.avalara.com" class="CMSListMenuLink">API Free Trial</a></li>
 	</ul>
 
 						
@@ -588,6 +669,7 @@ If you have any questions about this privacy statement, Avalara's information pr
 	<ul class="CMSListMenuUL" id="CMSFtMenu2">
 		<li class="CMSListMenuLI"><a href="/products/integrations/e-commerce" class="CMSListMenuLink">Ecommerce</a></li>
 		<li class="CMSListMenuLI"><a href="/products/integrations/accounting" class="CMSListMenuLink">Accounting</a></li>
+		<li class="CMSListMenuLI"><a href="/products/integrations/mobile" class="CMSListMenuLink">Mobile</a></li>
 		<li class="CMSListMenuLI"><a href="/point-of-sale-pos" class="CMSListMenuLink">POS</a></li>
 	</ul>
 
@@ -629,24 +711,46 @@ If you have any questions about this privacy statement, Avalara's information pr
 		</div>
 	</div> <!--End footer-->
 </div> <!--End footWrap-->
-    <input type="hidden" name="elqCustomerGUID" value="">
-    <input type="hidden" name="elqCookieWrite" value="0">     
+    <input type="hidden" id="elqCustomerGUID" name="elqCustomerGUID" value="">
+    <input type="hidden" id="elqCookieWrite" name="elqCookieWrite" value="0">
 </form>
+ <script type="text/javascript" language="Javascript">
+     var FirstLookup = true;
+     var dataLookupId = '9f34c0592b4d4b87870cf03560246b93';
+     var webLookupId = 'd1b4ebcc833f44709a055d92a3a11c09';
+     var VisitorUniqueField = "V_ElqEmailAddress";
+     var PrimaryUniqueField = "C_EmailAddress"; 				
+</script>
 <script type="text/javascript" src="//cdn.optimizely.com/js/16139229.js"></script>
 <script type="text/javascript" language="javascript" src="/elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="javascript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=706&amp;ref2=elqNone&amp;tzo=0&amp;ms=441" border="0" width="1" height="1"></layer>
-<script type="text/javascript" language="JavaScript" src="/elqNow/elqScr.js"></script><script type="text/javascript" language="JavaScript" src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=70&amp;siteid=706&amp;ref=https://web.archive.org/web/20120527071953id_/http%3A//www.avalara.com/PrivacyPolicy&amp;ms=544"></script>
+<script type="text/javascript" language="javascript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=706&amp;ref2=elqNone&amp;tzo=0&amp;ms=239" border="0" width="1" height="1"></layer>
+<script type="text/javascript" language="JavaScript" src="/elqNow/elqScr.js"></script><script type="text/javascript" language="JavaScript" src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=70&amp;siteid=706&amp;ref=https://web.archive.org/web/20121215233021id_/http%3A//www.avalara.com/PrivacyPolicy&amp;ms=239"></script>
 <script type="text/javascript" language="JavaScript"><!--    //
     var elqPPS = '70';
     window.onload = initPage;
     function initPage() {
-        if (this.GetElqCustomerGUID)
-            jQuery("#elqCustomerGUID").value = GetElqCustomerGUID();
+        if (this.GetElqCustomerGUID) {
+            try {
+                jQuery("#elqCustomerGUID").val(GetElqCustomerGUID());
+            } catch(e) {
+
+            } 
+            
+        }
+        
     }
 
-    
-        </script>
-</div>
+    jQuery(document).ready(function () {
+        try {
 
+            jQuery('input[placeholder],textarea[placeholder]').placeholder();
+        } catch (e) {
+
+        }
+
+    });
+</script>
+</div>
+ 
 
 </body></html>
