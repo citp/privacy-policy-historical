@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the d3db.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505043408id_/http%3A//d3db.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d3db.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215161915id_/http%3A//d3db.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Diablo 3 Database
+# Privacy Policy - Diablo 3 Database (D3DB)
 
 The D3DB website is maintained by [ZAM Network](http://www.zam.com/), LLC. Protecting your **privacy** is important to us, and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically. 
 
