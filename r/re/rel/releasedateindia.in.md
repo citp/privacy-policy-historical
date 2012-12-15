@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the releasedateindia.in privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623034748id_/http%3A//releasedateindia.in/disclaimer-of-releasedateindia-in) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the releasedateindia.in privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215034417id_/http%3A//releasedateindia.in/disclaimer-of-releasedateindia-in) for the most accurate reproduction.*
 
 # Disclaimer Of ReleaseDateIndia.in
 
