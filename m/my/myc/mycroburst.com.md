@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycroburst.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624133833id_/http%3A//www.mycroburst.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycroburst.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215151115id_/http%3A//www.mycroburst.com/privacy_policy) for the most accurate reproduction.*
 
 # MycroBurst » Leader in Graphic, Web and Logo Design Contests
 
@@ -91,7 +91,7 @@ We will give you the opportunity to choose your privacy preferences regarding th
 
 The testimonials posted on our Web site are only posted with the expressed permission of the individual or company who provided that testimonial. 
 
-Credit card information is used only for payment processing and fraud prevention. Credit card information and other sensitive personal information required to process a credit decision is not used for any other purpose by our financial services providers or LDG and will not be kept longer than necessary for providing the services, unless you ask us to retain your credit card information for future purchases. 
+Credit card information is used only for payment processing and fraud prevention. Credit card information and other sensitive personal information required to process a credit decision is not used for any other purpose by our financial services providers or LDG and will not be kept longer than necessary for providing the services, unless you ask us to retain your credit card information for future purchases.. 
 
 **4\. How we share your information**
 
@@ -156,6 +156,8 @@ LDG strives to keep your personal information accurately recorded. We have imple
 
 LDG takes seriously the trust you place in us. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, LDG utilizes appropriate physical, technical and administrative procedures to safeguard the information we collect. 
 
+Keeping your personal information secure
+
 When collecting or transferring sensitive information such as credit card information we use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. The personal information you provide us is stored on computer systems located in controlled facilities which have limited access. When we transmit highly confidential information (such as credit card number or password) over the internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
 
 Credit card numbers are used only for processing payments and are not used for other purposes. As part of real-time payment processing, LDG subscribes to a fraud management service. This service gives you and LDG an extra level of security to guard against credit card fraud and to protect your financial data. 
@@ -169,7 +171,7 @@ If we change our privacy statement, we will post the revised statement here, wit
 We value your opinions. If you have comments or questions about our privacy statement, please send them to the LDG Privacy Office or write to us at the following address:   
 LDG Privacy Mailbox  
 370 E. Maple Avenue   
-Suite 304  
+Suite 307  
 Langhorne, PA 19047  
 USA  
 
