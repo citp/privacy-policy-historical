@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaprwire.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615172451id_/http%3A//www.indiaprwire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaprwire.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215110403id_/http%3A//www.indiaprwire.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IndiaPRwire.com
 
