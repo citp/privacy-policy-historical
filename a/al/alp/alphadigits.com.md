@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphadigits.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527122033id_/http%3A//alphadigits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphadigits.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215081748id_/http%3A//alphadigits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AlphaDigits
 
