@@ -1,126 +1,53 @@
-> *The following text is extracted and transformed from the scientist.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406142146id_/http%3A//www.mail.com/mailcom/privacypolicy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scientist.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215091318id_/http%3A//scientist.com/%23privaryPolicyDialog) for the most accurate reproduction.*
 
-# Privacy Policy
+# Scientist.com
 
-[](https://web.archive.org/?dest=start_welcome)
+## Privacy Policy
 
-|   
----  
-|  | 
+Our policy governs the collection of personal and business information through the WorldAccelerator.com website and program (the "Website"), mobile applications, and/or our platform and services (collectively the "World Accelerator Program"). This policy describes the types of information we may collect from visitors and how that information is used. Please read this policy carefully before providing us with any information. If you have questions about this policy, please contact us.
 
-| [](https://www.truste.org/validate/4596)The TRUSTe seal verifies that Mail.com is a member of the TRUSTe Program and the company and this privacy statement are in compliance with TRUSTe's privacy principles.  
----  
-| 
+The policy was last updated as of the date below and this represents the current policy in effect and governing all personal information collected both before and after this date (see below section Changes to this Privacy Policy).
 
-**About TRUSTe**  
-  
----  
-  
-When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of what personally identifiable information of yours is collected; the organization collecting the information; how the information is used, and with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; the kind of security procedures that are in place to protect the loss, misuse or alteration of information under the Web site's control; and how you can correct any inaccuracies in the information.
+### INFORMATION WE COLLECT
 
-Questions regarding this statement should be directed to Mail.com by e-mail to [privacydirector@corp.mail.com](mailto:privacydirector@corp.mail.com). If Mail.com has not responded to your inquiry within five business days of your inquiry or your inquiry has not been satisfactorily addressed, please contact [ TRUSTe](http://www.truste.org/).  
-  
-* * *
+Applicants interested in applying must agree to our Application Rules before submitting their ideas which state that teams that submit a business idea understand that ideas submitted are not confidential and may be published by World Accelerator for visitors to vote on and comment. Multiple people may have the same idea and ideas may be thought of or implemented by someone else. World Accelerator is looking for ideas and the best teams to implement them. While we are requesting your ideas and why you are the right team to implement them, we request that information that you deem as proprietary should not be submitted.
 
-   
-  
-**Mail.com's Privacy Policy**  
-  
-|    
----  
-When you **register** for an account:  
-   
-| 
+#### Unregistered users
 
-**_We Will:_**
+If you do not register, then the information we collect from you is limited. We log your IP address in order to help diagnose problems with our services and track usage statistics. Your IP address may vary each time you visit, or it may be the same. We may log other non-personal information such as the type of internet browser that you use or your connection speed. It would be extremely difficult for us to identify you through your IP address, browser type, or other non-personal information that we collect and we make no attempt to do so. If you reach us by clicking on a link or advertisement on another website, we may log that information.
 
-|   | 
+We may place a small "cookie" file on your computer's hard drive. A cookie may contain information that allows us to track your path through our Website and to determine whether you have visited us before. You may elect not to accept cookies by changing settings in your browser; however, by not accepting cookies some or all of the functions of the Website may not work for you. Unless you register with us, the cookie contains no personally identifiable information. We may use cookies to help us understand how visitors use our Website and to help us to improve. We also compile this information and use it in the aggregate to determine common themes and trends among our visitors. From time to time our Website also may run usability testing to help us improve the functions of our Website for all users. This may include recording random tests that track users' actions and movements on specific pages of our Website. Our tests are contained to our Website and we do not track users' behavior on other websites. 
 
-**_We Won't:_**  
-  
----|---|---  
-  
-1.  Collect personally identifiable (e.g. name, address) and demographic (e.g. age, gender) information about you. We will use the demographic data to post ads (appealing to your demographic) on our Web site when you log in.
+#### Registered users
 
-2.  Provide industry-standard security to protect your personal information while it is in our possession. If you use your credit card to pay for premium services, then your credit card information will be encrypted using SSL technology and will be stored on secure servers.
+Registered Users are users that sign up at our Website. You can register to take advantage of personalization features as well as enhanced services that we offer. If you choose to register with us, in addition to information that we collect above we may collect personal information including, but not limited to names, birthdates, relationships, addresses, email addresses, user names and passwords and other contact information. Also you will be able to add text, comments, files, images, audio, video or other personal materials (collectively "Content") to certain areas of our Website and to participate with more of our site features. The information we collect may vary, but we only collect the information that you manually supply to us or otherwise authorize us to collect. We may store all or some of that information in a cookie file on your hard drive, so that our system will recognize you each time you visit. In that way, we can save your preferences between visits and present you with a customized experience each time you visit. If you reach our Website through one of our partners and you choose to register with us, we may be required to give our partner your registration information.
 
-3.  Give you access to review and edit your personal and demographic information while it is in our possession. If you already have an account with us, [Click Here](http://www.mail.com/) to change your information now.
+#### Billing Information
 
-4.  Send you service announcements notifying you of any new products or updates to the service. We may use your alternate e-mail address and home address to ensure that you receive important information about your account or information you have requested.
+Financial information including credit card and bank account information, and other such billing information are passed directly to the stated payment processor and are not stored on our servers unless you authorize such storage.
 
-5.  Give you the choice of "opting in" to receive third party mailings.
+### HOW WE USE THE PERSONAL INFORMATION WE COLLECT
 
-6.  Make it easy for you to unsubscribe from any Mail.com-owned mailing list by following directions at the bottom of any e-mail that you receive from us.    
-*(unless it is vital to the operation of your account).
+We use personal information to provide you with a custom and personal experience at our Website. Registering also allows you to log in to our Website to personalize your experience and gain access to information you may have stored during previous use of our Website. We may use your personal information to periodically contact you with news or important information, to provide you with other information or invitations related to our Wesite, and to request your feedback. In addition to these periodic updates, we may email you additional marketing materials that you have requested or that we believe would be of interest to you based upon information you've provided. These marketing materials might include opt-in newsletters and partner offers. You may opt-out of any or all marketing communications in any commercial e-mail we send or at any time (opt-out links are provided in all marketing-related emails and any fax or mail correspondence we send you will also include opt-out instructions). You may not opt-out of service messages or standard service newsletters or announcements; however, if you wish to not receive such communications you may cancel your account.
 
-7.  Bundle information to better design our Web site and to share with our advertisers and partners. This aggregate information cannot be used to learn anything about any particular individual.
+We may also use certain information that you provide in order to present you with advertising and offers that you may find interesting. This benefits both of us. It benefits us because advertising helps pay the bills, and we can charge our advertisers more if they know that their ads will be seen by somebody more likely to find it useful. It benefits you because you see advertising that is more likely to be interesting to you and because it permits us to offer you a broader range of free services. 
 
-|   | 
+### DISCLOSURE OF YOUR PERSONAL INFORMATION
 
-1.  Send you unsolicited commercial e-mail (spam).
+We may share some of your personal information with third-parties engaged in providing services to us where the sharing of information is necessary to provide our services. We also may share your information in connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, and in the unlikely event of bankruptcy. We require all such parties to agree to privacy requirements at least as stringent as our privacy requirements, to use any such personal data solely for the purpose of providing the specified services to us, and to comply with applicable laws.
 
-2.  Do the following, without your explicit permission; 
+We may also share personal information that is de-identified and compiled in aggregated summaries with third parties who may utilize such information for purposes, including but not limited to, data analysis and analytics purposes.
 
-  1. Share your personal information or demographic data
-  2. Give anyone access to your e-mail, **or**
-  3. Open or read messages in your account:
+We must cooperate with legal authorities, and may in some circumstances be required to disclose personally identifiable information in response to requests from law enforcement authorities, or in response to a subpoena or other legal process. We can turn over information about you if we believe we must in order to prevent a violation of the law, and by accepting this policy, you consent to our doing so, in our sole discretion. You also consent to our disclosing information about you in the course of legal proceedings if we are legally required to do so, if we reasonably believe that doing so may mitigate our liability, or if doing so will assist us in enforcing our legal rights. 
 
-unless, we believe, in good faith, that such release is necessary to: 
+#### Except in the specific situations described HEREIN, we will not disclose, share, rent, or sell the personal information you provide to us with any third party.
 
-  1. Comply with the law
-  2. Enforce or apply the terms of our user agreement, **or**
-  3. Protect the rights, property, or safety of Mail.com, our users, or the public.
+Applicants interested in applying must agree to our Application Rules before submitting their ideas which state that teams that submit a business idea understand that ideas submitted are not confidential and may be published by World Accelerator for visitors to vote on and comment. Multiple people may have the same idea and ideas may be thought of or implemented by someone else. World Accelerator is looking for ideas and the best teams to implement them. While we are requesting your ideas and why you are the right team to implement them, we request that information that you deem as proprietary should not be submitted.
 
-We may also transfer personally identifiable information to a buyer of all or part of our business.
+### SECURITY OF YOUR PERSONAL INFORMATION
 
-3.  Share any data with outside parties that would identify a specific user.
+We use commercially reasonable efforts to implement all generally accepted, industry-standard best practices for the protection of personal information. However, no website or platform is entirely secure, and we cannot guarantee that your personal information will not be intercepted or accessed by others. While we have taken commercially reasonable precautions to protect the personal information that you provide to us, you should exercise discretion in what you provide to us, as there is always a risk that our Website or platform may be compromised via a malicious attack, a system failure, a human error, or another vulnerability, which could result in the disclosure of personal information to third parties. Any third parties that we share personal information with will be solely responsible for securing any personal information that they receive from us. All such personal information will be protected in accordance with such third parties' security practices and procedures then in-effect.
 
-4.  Knowingly collect information from children under the age of 13. [Click here](http://www.ftc.gov/ogc/coppa1.htm) for more information.
+### CHANGES TO THIS PRIVACY POLICY
 
-5.  Contact you via e-mail or any other method to ask you for your password. Do not share your password with anyone; you should only enter it directly into our Web site.
-
-6.  Contact you via e-mail or any other method to ask you for your credit card information. You should only enter this information directly into our Web site.
-
-7.  Materially change how we use your personally identifiable information without placing a prominent notice on our Web site first.  
-  
-  |   |    
-  
-* * *  
-  
----  
-_**Cookies**_ : Our Web site uses cookies for the purpose of identifying you uniquely. This allows us to pre-populate your e-mail address on the login page and to distinguish between your mail session and that of the many other people using our service. Cookies also ensure that you view relevant ad banners on our Web site when you log in. Our web-based mail service will not function unless your browser is set to accept cookies.  
-  
-* * *  
-  
-_**Links**_ : Be aware that when you click on ad banners, you may be redirected to other sites not operated by Mail.com. You are responsible for information that you provide to these sites. We recommend that you review the privacy policy of any site that requests personal information.   
-** Note that this policy does not cover the privacy practices of these linked sites.  
-  
-* * *  
-  
-_**General Information Collected**_ : When visiting our site, some general information is collected including: IP address (your computer's unique signature) Operating system (e.g., Windows 95) Browser software (e.g., Microsoft Internet Explorer, Netscape) Internet Service Provider (e.g., Earthlink, Verizon).
-
-The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit Mail.com. In addition, like many other sites with paid advertising, we disclose some of this aggregate information to advertisers to inform them of the number of people who have seen and clicked on their advertisements.  
-  
-* * *  
-  
-_**[DoubleClick](http://www.doubleclick.com/)**_ : We do **not** provide DoubleClick with any of your personal or demographic information. We are able to post ad banners targeting your demographic by matching your data with the demographic the ad banner is targeting. It is important to note that these ads may contain cookies. To find out more about how DoubleClick manages privacy in conjunction with serving ads go to [ Click here](http://www.doubleclick.com/us/corporate/privacy/).  
-  
-* * *  
-  
-_**Third Party Service Providers** :_ Agents of Mail.com may occasionally process individual user data.  However, they are not allowed to use this information for any other purpose. All individual user data is owned and controlled by Mail.com.  
-  
-* * *  
-  
-Questions? For any questions or comments concerning Mail.com's privacy policy, please write to [privacydirector@corp.mail.com](mailto:privacydirector@corp.mail.com)
-
-If you need to contact us, do not reply to an e-mail that you have received unless you are sure that it is going to the above address, or any address with the domain corp.mail.com or staff.mail.com.
-
-Last updated 11/23/00  
-  
-  
-
-
-© 2000 Mail.com, Inc. All rights reserved.
-
-  
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+We reserve the right to change this policy should we deem it advisable to do so. We will always post the latest date indicating the most current policy in effect. Any update will automatically apply so we encourage you to review. If we make material changes that will affect personal information we have already collected from you, we will make reasonable efforts to notify you of the changes and give you the opportunity to amend or cancel your registration. We take your privacy seriously; please don't hesitate to contact us with any questions or concerns you may have.
