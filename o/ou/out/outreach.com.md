@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outreach.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522154214id_/http%3A//www.outreach.com/print/article.aspx%3Farticle_name%3Da-privacypolicy%26N%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outreach.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215210942id_/http%3A//www.outreach.com/print/article.aspx%3Farticle_name%3Da-privacypolicy%26N%3D41) for the most accurate reproduction.*
 
 # 2010 Privacy Policy
 
