@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stewpig.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615161521id_/http%3A//www.stewpig.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stewpig.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215122133id_/http%3A//www.stewpig.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stewpig.com | Pig Your Way Through A Gazillion Cool Pictures Everyday!
 
