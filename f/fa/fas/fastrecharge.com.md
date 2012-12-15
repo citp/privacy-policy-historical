@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fastrecharge.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616161006id_/http%3A//www.fastrecharge.com/content.aspx%3FIMSG%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastrecharge.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215224726id_/http%3A//www.fastrecharge.com/content.aspx%3FIMSG%3Dprivacy) for the most accurate reproduction.*
 
-# FASTRECHARGE.COM Terms and Condition, Declaimer, Refund Policy, Free Online Prepaid Mobile Recharge ,Top Up, Vilidity and special recharge website
+# FASTRECHARGE.COM :: Privacy policy
 
 FastRecharge is committed to protecting the privacy of your personal information. This privacy policy applies solely to information collected by the Site. This Privacy Policy is incorporated into and subject to the terms of the Site's Terms and Conditions. If you do not agree to the terms of this Privacy Policy, You must discontinue using the services on this Site and terminate you registration. By using or accessing the Site, You expressly and impliedly accept the practices described in this Privacy Policy.
 
