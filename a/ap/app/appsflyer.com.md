@@ -1,55 +1,59 @@
-> *The following text is extracted and transformed from the appsflyer.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616073554id_/http%3A//www.appsflyer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsflyer.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215050742id_/http%3A//www.appsflyer.com/privacy-policy) for the most accurate reproduction.*
 
 # Mobile Apps Marketing analytics & Tracking | Privacy Policy
 
-Last modified: Dec 31, 2011
+AppsFlyer provides a software development kit which allows the tracking of mobile application use, installations and downloads. This privacy policy explains how we make use of data and information received from our customers that integrate our software development kit with their mobile application (“ **Customers** ”) and the end-users of those Customers (“ **End Users** ”). If not specifically defined herein, capitalized terms have the meaning given to them in the AppsFlyer Terms and Conditions, which is available at [www.appsflyer.com/privacy-policy](https://web.archive.org/web/20121215050742id_/http://www.appsflyer.com/privacy-policy/www.appsflyer.com/privacy-policy)
 
-AppsFlyer, Ltd. (AppsFlyer) is committed to maintaining the privacy of your personal information when you visit our website, download and use AppsFlyer applications, and app download environments. This Privacy Policy describes how we treat the personal information received about you on this website and application.
+We respect the right to privacy of Customers and End Users. Your ability to make informed choices about the use of your information is important to us. This privacy statement explains our policy regarding the collection, use, disclosure and protection of any information we receive.
 
-**Links to Other Content** **  
-** We frequently make content or services from other websites available to you from links located on our websites or within our applications. These other websites are not subject to this Privacy Policy, and AppsFlyer has no control over how such websites may use the personal information collected on those sites. We recommend that you review the privacy policy at each such website to determine how that site protects your privacy.
+**Information We Collect**
 
-**AppsFlyer Websites and Applications** **  
-** When you use certain features of our website and applications, we may collect personally identifiable information from you that may include your email address and mobile phone number.
+In order to receive the AppsFlyer Services, Customers will be required to register and provide us with certain information, including information that can be used to personally identify Customers. It is your voluntary decision whether to provide us with any such personal information, but if you refuse to provide such information we may not be able to register you to receive our Services.
 
-We automatically collect IP addresses, website usage and application usage information from you when you visit our website or use our applications. When you use AppsFlyer application, we may also collect your mobile device fingerprints. AppsFlyer cannot use the fingerprints to identify you personally; this information helps us evaluate how our visitors use our websites and applications, and permits us to enhance those sites and applications.
+In addition, Customers that use our Services to track the use of their mobile application will provide us with information regarding the characteristics and activities of their End Users, including information regarding downloads and installations of such mobile application and any information regarding in-app purchases. We do not intentionally collect any information that may personally identify any End Users.
 
-We may use the information collected about you in the following ways:
+**How we Use Information**
 
-  * For the purposes for which you specifically provided the information including, for example, to send email/SMS alerts that you have requested.
-  * To provide advertisers and other third parties with aggregate information about our user base and its usage patterns.
-  * To allow us to personalize the content and advertising that you and others see based on personal characteristics or preferences.
+We will not share Personal Information provided to us except when required by law, regulation, subpoena or court order. We may use Personal Information internally – for example, to help diagnose problems with our servers, or to improve the Services and make AppsFlyer more useful. We will retain Personal Information regarding a Customer for as long as the applicable Customer account is active or as is necessary for us to provide Services. By “Personal Information” we mean any information that can be directly associated with a specific person or entity such as a name, address, telephone number, e-mail address, or information about activities directly linked to such person.
 
+By analyzing the information we collect (including regarding End Users) we compile certain analytics regarding the use of our Customer’s mobile applications. We provide such analytics to our Customers. Analytics do not contain the Personal Information of any End User.
 
+In addition, by analyzing all information we receive, we may compile aggregate information across a variety of mobile applications and Customers (“ **Aggregate Information** ”). **** Aggregate Information is anonymous and we will not link Aggregate Information to any Personal Information. Aggregate Information helps understand trends and customer needs so that new products and services can be considered and so existing products and services can be tailored to customer desires. We may share such Aggregate Information with our partners, without restriction, on commercial terms that we can determine in our sole discretion.
 
-We may combine the information that we collect from you from AppsFlyer websites and applications with information that you provide to us in connection with your use of our other products, services and websites.
+**How we Protect Information**
 
-We use third-party network advertisers, to deliver ads to you on our behalf. These network advertisers may be supplied with or have access to your personally identifiable information solely for the purpose of providing these services to us or on our behalf.
+We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We encrypt sensitive information using secure socket layer technology (SSL).
 
-Except as specifically set forth in this Privacy Policy, we will not share your personally identifiable information outside of AppsFlyer, Ltd.
+We will make reasonable commercial efforts to delete any information provided to us by a Customer upon the receipt of a written request by such Customer. We cannot restore information that we have deleted.
 
-We may disclose and use personally identifiable information to resolve disputes, troubleshoot problems, enforce our Terms of Service (for example, when necessary to protect our or a third party’s intellectual property or proprietary rights), or to alert you to changes in our policies or agreements that may affect your use of our application and websites. We may also disclose personally identifiable information when we, in our sole discretion, believe it is necessary or appropriate, in connection with a sale or transfer of some or all of our assets in the application or website, or when we, in good faith, believe that the law requires us to do so.
+**Other Uses or Transfer of Your Information**
 
-**AppsFlyer Mobile Apps Installation Tracking** **  
-** When you click on a Client ad or application link delivered by AppsFlyer, AppsFlyer servers receive and store information associsate dwith the click ir event, such as device fingerprints, cookie, IP, UA etc’ . AppsFlyer cannot use the data to identify you personally, but it does enable us to collect information about the kind of mobile device you use, the operating system for your mobile device, the applications you download from AppsFlyer Publishers, when, how, and how often you use those applications.
+Notwithstanding anything to the contrary herein, we will fully cooperate with any law enforcement authorities or court order requesting or directing us to disclose the identity, behavior or digital content of any user suspected to have engaged in illegal or infringing behavior.
 
-We use your information about Client applications you download to report on the number of unique users who click through AppsFlyer ads, and the number of those users who download AppsFlyer Client applications as a result of those ads.
+In providing the Services, we may use subcontractors that are located in countries other than your own, and send them information we receive. For example, we may send your information to any countries outside the United States or the European Economic Area. All our subcontractors will be subject to non-disclosure and non-use obligations. Nevertheless, some countries may have levels of protection of personal and other information which are not as high as in your country of residence or business.
 
-We also use your information associated with your device fingerprints over time (e.g., the applications you download, when and how you use those applications, and any publisher-provided demographic data) to enhance our services and to select AppsFlyer ads that are most likely to be of interest to you.
+Notwithstanding anything to the contrary herein, we may transfer data we have collected if we sell our business or part of it.
 
-**Cookies** **  
-** Some of the advertisers and Web analytics firms used on our site may place “tracking cookies” on your computer. These are small text files that can tell such companies what you are doing online, even though they usually don’t record your name or other personally identifiable information. These cookies are used by these companies to try and match ads to a user’s interests. They are used all over the Web. AppsFlyer may place cookies on your computer and/or mobile device, in addition to any placed by advertisers.
+**End User Opt-Out Provision**
 
-You can change the preferences or settings in your Web browser to control cookies. The Help menu on the menu bar of most browsers will tell you how. In some cases, you can choose to accept cookies from the primary site, but block them from third parties. In others, you can block cookies from specific advertisers, or clear out all cookies.
+Your End Users can opt-out of AppsFlyer Analytics tracking by clicking the link <http://www.appsflyer.com/opt-out> or by emailing privacy@appsflyer.com
 
-**Children’s Privacy** **  
-** AppsFlyer does not knowingly collect information from children under 13.
+The opt-out is specific to AppsFlyer activities and does not affect the activities of other ad networks or analytics providers that you use. If an End User opts-out, AppsFlyer will stop tracking data for that device going forward. The AppsFlyer Analytics tracking will stop across all applications.
 
-**Security** **  
-** The personally identifiable information we collect about you is stored in limited access servers. We will maintain safeguards to protect the security of these servers and your personally identifiable information.
+**Cookies**
 
-**Transfer to the U.S. or other countries**  
-Your information may be stored and processed in the United States or any other country where AppsFlyer has facilities, and by using our website or application, you consent to the transfer of information outside of your country.
+A cookie is a small piece of text that is sent to a browser. The browser provides this piece of text to the originating server when the visitor returns.  AppsFlyer uses cookies to help implement its tarcking technology. AppsFlyer does not store any Personal Information in cookies. Most Web browsers are initially configured to accept cookies, but you can change this setting so your browser either refuses all cookies or informs you when a cookie is being sent. Also, you are free to delete any existing cookies at any time. Please note that some features of AppsFlyer may not function properly when cookies are disabled or removed.
 
-**Changes to this Privacy Policy** **  
-** When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site that the policy has been updated and by changing the date on this page noting when the policy was last updated.
+**Use of AppsFlyer by Children**
+
+AppsFlyer does not knowingly collect personally identifiable information from children under the age of 18, and you must be 18 years of age or older in order to establish an account for AppsFlyer. In the event you become aware that an individual under the age of 18 has enrolled, please advise us immediately. __
+
+**Changes**
+
+AppsFlyer may update this Privacy Policy from time to time – we encourage you to review it periodically.
+
+**Comments and Questions**
+
+If you have any comments or questions about our privacy policy, please contact us at [contact@appsflyer.com](mailto:contact@appsflyer.com) or +1-800-616-2818 **__**
+
+_Last updated: August 7, 2012_
