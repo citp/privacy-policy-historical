@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartbeat.my privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625135507id_/http%3A//heartbeat.my/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartbeat.my privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215193740id_/http%3A//heartbeat.my/policy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
