@@ -1,6 +1,23 @@
-> *The following text is extracted and transformed from the radioaustralia.net.au privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627173647id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioaustralia.net.au privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215120822id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.*
 
 # ABC Online: Privacy Policy
+
+  
+
+
+  1. Collection Of Information
+  2. Use Of Anonymous Information
+  3. Use Of Personal Information
+  4. Cookies
+  5. Disclosure
+  6. No Sale Of Personal Information
+  7. Interacting with ABC Online
+  8. Access And Correction: Personal Data
+  9. Security
+  10. Complaints About Privacy
+  11. Changes to ABC Online Privacy Policy
+
+
 
 ABC Online is strongly committed to protecting your privacy while interacting with our content, products and services. We want to provide a safe and secure environment for you and your children.
 
@@ -12,7 +29,7 @@ This policy applies only to ABC Online and not to other companies' or organisati
 
 Please note that the ABC Shop has additional information about how it deals with privacy and personal information you provide ABC Online when dealing with the ABC Shop. Please visit the ABC Shop's [privacy and security page](http://abcshop.com.au/help/privacy.shtm).
 
-## Collection of information
+## 1\. Collection Of Information
 
 Information is collected from you primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked to provide information such as your name, email address or information about what you like and do not like. It is entirely your choice whether to respond to these questions or not.
 
@@ -24,15 +41,15 @@ Sometimes, we may specifically ask for personal information about you when you s
 
 How much of your personal information that you choose to disclose to ABC Online is completely up to you. The only way we know something about you personally is if you provide it to us, for example when you take part in a discussion forum or enter one of the competitions on our websites.
 
-## Use of anonymous information
+## 2\. Use Of Anonymous Information
 
 ABC Online automatically gathers anonymous information to monitor the use of ABC Online like the numbers and frequency of visitors to ABC Online and its areas, very much like television ratings that tell the networks how many people tuned in to a program. We only use such data in the aggregate. This collective data helps us determine how much our audiences use parts of the site, so we can improve ABC Online to assure that it is as appealing as we can make it for as many users as possible. ABC Online may publish or provide this aggregate data to other people or organisations including [Nielsen Online](http://www.nielsen-online.com/corp.jsp?section=leg_prs&nav=1).
 
-##  Use of personal information
+## 3\. Use Of Personal Information
 
 ABC Online will only use the personal information you have chosen to provide us for the purpose for which you provided it. ABC Online will not use it for any other purpose without your consent.
 
-## Cookies
+## 4\. Cookies
 
 For information about cookies on ABC Online see [this page](http://www.abc.net.au/about/cookies.htm).
 
@@ -41,15 +58,15 @@ The ABC Shop site currently uses cookies. For more information about how the ABC
   
 
 
-## Disclosure
+## 5\. Disclosure
 
 There will be occasions where it will be necessary for the ABC to disclose your personal information to third parties. The ABC may be required by law to disclose the information, or the ABC may be required to disclose your personal information to third parties to provide the service you have requested, for example, if you purchase products online from the ABC Shop, the ABC will need to disclose your personal information to third parties in order to bill and deliver your products. However, the disclosure will only be made where it is necessary to fulfil the purpose for which you disclosed your personal information. Otherwise than stated above, we do not disclose personal information that you may give us, such as your name, address, email address or telephone number, to any organisation or person outside the ABC **unless you have authorised us to do so**. For example, when you contribute to an online forum you may want to publish your name and email address.
 
-## No sale of personal information
+## 6\. No Sale Of Personal Information
 
 Under no circumstances will ABC Online sell or receive payment for licensing or disclosing your personal information.
 
-## Interacting with ABC Online
+## 7\. Interacting with ABC Online
 
 There are many interactive features on ABC Online that you can contribute to. These include: Guestbooks, Forums, Event Diaries, Reviews, Recipes, Online Voting, Community, Mailing Lists and Email.
 
@@ -59,20 +76,20 @@ Note that whenever you post personal information in publicly accessible places, 
 
 Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any personal information. Be responsible whenever you are online.
 
-## Access and correction: personal data
+## 8\. Access And Correction: Personal Data
 
 If ABC Online holds your personal information the ABC will where possible provide you with access to the information. The ABC will take reasonable steps to correct the information so that it is accurate, complete and up to date.
 
-## Security
+## 9\. Security
 
 The ABC operates secure data networks that are designed to protect your privacy and security. The ABC Shop has its own [Security and Privacy Issues document](http://www.abcshop.com.au/help/privacy.shtm).
 
-## Complaints about privacy
+## 10\. Complaints About Privacy
 
 If you have any complaints relating to online privacy issues on our websites, please [notify](http://www.abc.net.au/contact/) ABC Online. While the ABC accepts no liability for any material or links posted to the service, we will investigate all complaints.
 
-## Changes to ABC Online privacy policy
+## 11\. Changes to ABC Online Privacy Policy
 
 If we decide to change the ABC Online Privacy Policy, we will post those changes here.
 
-2 Dec 2011 - added reference and link to Nielsen Online under 'Use of anonymous information'.
+2 Dec 2011 - added reference and link to Nielsen Online under 'Use Of Anonymous Information'.
