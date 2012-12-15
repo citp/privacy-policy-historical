@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youradchoices.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603064737id_/http%3A//www.youradchoices.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youradchoices.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215032654id_/http%3A//www.youradchoices.com/privacy.aspx) for the most accurate reproduction.*
 
 # Your AdChoices - How interest based advertising finds you
 
@@ -33,6 +33,8 @@ We may use the information we collect from you:
 ######  Analytics Services
 
 We use Google Analytics to better understand how visitors interact with our site. This service provides non-personally identifiable data including but not limited to data on where visitors came from, what actions they took on our site, and where visitors went when they left this site. We use this information to improve your experience when visiting our site. Please click [here](http://www.google.com/intl/en/analytics/privacyoverview.html) to learn more about this service and how to opt out of data collection by Google Analytics.
+
+In connection with public awareness campaigns supporting this educational site, we may also use other analytics services to measure the effectiveness of these campaigns in the aggregate (for example, measuring the overall effectiveness of different types of sites that refer visitors to our site). 
 
 ######  Sharing information with third parties
 
