@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the zivame.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503232714id_/http%3A//www.zivame.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zivame.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215021734id_/http%3A//www.zivame.com/privacy_policy) for the most accurate reproduction.*
 
 # Zivame Privacy Policy
 
 **Privacy Policy Statement**
 
-This is the web site of **actoserba active retail Private Limited.**
+This is the web site of **actoserba active wholesale Private Limited.**
 
 Our Internet address is:  
  **http://www.zivame.com**
 
 Our postal address is:   
- **#48, 1st Cross, Domlur,Bengaluru 560071**
+ **1st Floor, 590, 12th Main, HAL 2nd Stage, Indiranagar, Bengaluru 560038**
 
 We can be reached via e-mail at [info@zivame.com](mailto:info@barenecessities.com)   
-Or you can reach us by telephone at +9180 25350716
+Or you can reach us by telephone at +9180 6568 2283 / 85
 
 **COLLECTION AND USE OF INFORMATION:**
 
-actoserba active retail Private Limited is committed to protecting your privacy.
+actoserba active wholesale Private Limited is committed to protecting your privacy.
 
 For each visitor to our website, our web server automatically recognizes non-personally identifiable information only,  _e.g._ , the IP address, domain type, browser version, and service provider. Persons who supply us with their address, telephone number and/or email may be contacted by us with information regarding orders they have placed or regarding other operational information. We also store information volunteered by you that you may elect to provide to us when you register or update your account, enter a contest, participate in a survey, shop online, or make a purchase.
 
