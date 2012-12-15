@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the intelius.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628105002id_/http%3A//www.intelius.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelius.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215073841id_/http%3A//www.intelius.com/privacy.php) for the most accurate reproduction.*
 
-# People Search & Directory Services Powered By Intelius
+# Marriage Records: Instant Marriage/Divorce Records | Intelius
 
-Effective December 2011
+Effective July 2012
 
 Intelius respects your right to privacy and we are committed to protecting it. This statement discloses the information practices for the web pages associated with the domain www.intelius.com (the "Website"), including what type of personal information we gather and track, how we use this personal information, and with whom we share the personal information. 
 
 Intelius has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
-If you have questions or concerns regarding this Policy, you should first contact our Chief Privacy Officer, at privacy@Intelius.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns. The TRUSTe program only covers information that is collected through this website, and does not cover information that may be collected through any software downloaded from this Web site.
+If you have questions or concerns regarding this Policy, you should first contact our Chief Privacy Officer, at [privacy@intelius.com](mailto:privacy@intelius.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns. The TRUSTe program only covers information that is collected through this website, and does not cover information that may be collected through any software downloaded from this Web site.
 
 Personal Information
 
@@ -74,11 +74,15 @@ Access to your Account
 
 If you would like to update your personal information in your account such as your name, address or email address, you can do so by logging into your account and updating your personal information. 
 
-If you wish to cancel your account or request that we no longer use your information to provide you services contact us at privacy@Intelius.com.
+If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@intelius.com](mailto:privacy@intelius.com).
 
-Intelius Screening Solutions
+Children
 
-In connection with an authorized employment or tenant screening of an applicant, we collect personally identifiable information about the applicant. We use this information only for the purpose of performing the authorized screening, and conduct such screening in accordance with the Fair Credit Reporting Act. We do not use this information for any other purpose.
+This website is not intended for children under the age of 13. We do not knowingly publish information for anyone under the age of 13. If you know of anyone under the age of 13 whose information is published on our website, or have other concerns about children's privacy, please send an email to our Chief Privacy Officer at [privacy@intelius.com](mailto:privacy@intelius.com).
+
+Talentwise
+
+In connection with an authorized employment or tenant screening of an applicant, we collect—through our affiliate Talentwise Solutions LLC—personally identifiable information about the applicant. We use this information only for the purpose of performing the authorized screening, and conduct such screening in accordance with the Fair Credit Reporting Act. We do not use this information for any other purpose.
 
 Information Security
 
@@ -88,7 +92,7 @@ We follow generally accepted industry standards to protect the personal informat
 
 Enforcement
 
-We regularly review our compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy to us by sending an email to our Chief Privacy Officer at privacy@Intelius.com or by writing us at Privacy c/o Intelius Inc., 500 108th AVE NE, 22nd Floor, Bellevue, WA 98004. It is our policy to contact the complaining user regarding his or her concerns. 
+We regularly review our compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy to us by sending an email to our Chief Privacy Officer at [privacy@intelius.com](mailto:privacy@intelius.com) or by writing us at Privacy c/o Intelius, 500 108th AVE NE, 22nd Floor, Bellevue, WA 98004. It is our policy to contact the complaining user regarding his or her concerns. 
 
 Changes to this Policy
 
