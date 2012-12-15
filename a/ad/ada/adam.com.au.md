@@ -1,10 +1,30 @@
-> *The following text is extracted and transformed from the adam.com.au privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212215726id_/http%3A//www.adam.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adam.com.au privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215032058id_/http%3A//www.adam.com.au/legal%3Fprivacy) for the most accurate reproduction.*
 
-# Adam Internet Privacy
+# Legal | Adam Internet
 
-## Privacy
+## Copyright Infringement
 
-###  Collection Statement 
+Designated Copyright Infringement Representative
+
+Adam Internet views the infringement of third party intellectual property rights (including copyright infringement) as a very serious matter. Adam Internet's [Standard Form of Agreement](https://web.archive.org/web/20121215032058id_/http%3A//www.adam.com.au/legal_docs/pdf/Standard%20Form%20of%20Agreement%20-%20Adam%20Internet%20Pty%20Ltd.pdf) and [Acceptable Use Policy](https://web.archive.org/web/20121215032058id_/http%3A//www.adam.com.au/legal_docs/pdf/Adam%20Internet%20-%20Acceptable%20Use%20Policy.pdf) provides that account holders must not use Adam Internet's network or services for any unlawful purposes, including copyright infringement.
+
+If an account holder uses Adam Internet's network or systems to infringe copyright, this may constitute a breach of Adam Internet's Standard Form of Agreement which may allow Adam Internet to suspend or terminate an account holder's service. Adam Internet has adopted a "repeat infringer policy" in accordance with section 116AH(1) of the Copyright Act 1968 and reserves the right to suspend or terminate its subscribers' accounts in accordance with such policy.
+
+This page contains contact information for Adam Internet's designated copyright infringement representative under the Copyright Regulations 1968 (Cth).
+
+All correspondence sent to Adam Internet in relation to the notification of alleged copyright infringement occurring on Adam Internet's network should be addressed to Adam Internet's Copyright Infringement Officer.
+
+**Title:** Copyright Infringement Officer
+
+**Address:** GPO Box 121, Adelaide, 5001
+
+**Email Address:** [copyright.infringement@adam.com.au](mailto:copyright.infringement@adam.com.au)
+
+**Facsimile:** (08) 8231 0223
+
+## Privacy Statement
+
+**Collection Statement**
 
 Adam Internet is committed to providing you with the highest levels of customer service. This includes protecting your privacy. From 21 December 2001, we are bound by new sections of the Commonwealth Privacy Act 1988, which set out a number of principles concerning the protection of your personal information. 
 
@@ -80,16 +100,18 @@ Adam Internet takes all reasonable precautions to ensure that the personal infor
 
 
 
-If you wish to access or modify personal information which you have provided, please send an email using the Contact Us page on the adam.com.au website.
+If you wish to access or modify personal information which you have provided, please send an email using the Contact Us page on the www.adam.com.au website.
 
 You can access your personal information  
-You have a right to access your personal information, subject to some exceptions allowed by law. If you would like to do so, please let us know by sending an email using the Contact Us page on the adam.com.au website. You may be required to put your request in writing for security reasons. Adam Internet reserves the right to charge a fee for searching for and providing access to your information.
+You have a right to access your personal information, subject to some exceptions allowed by law. If you would like to do so, please let us know by sending an email using the Contact Us page on the www.adam.com.au website. You may be required to put your request in writing for security reasons. Adam Internet reserves the right to charge a fee for searching for and providing access to your information.
 
 **Security of your information**
 
 We take reasonable steps to ensure that your personal information is stored securely. Transmissions sent to or from our websites are routinely monitored for quality control and systems administration. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information from misuse, loss and unauthorised access, we cannot guarantee the security of any information you transmit to us or receive from our online products or services. These activities are conducted at your own risk. Once we receive your transmission, we make our best effort to ensure its security. 
 
 Credit card information is among the most important data we collect. Adam Internet operates secure servers to minimise the risk of unauthorised use of such information. Credit card information that is transmitted via our private network and is not open to transmission via the Internet. For obvious reasons, please do not send credit card information through unsecured email.
+
+Our website may, from time to time, contain links to third party sites. To the extent permitted by law, we are not responsible or liable for, and give no warranty in respect of, any third party website or the goods and services offered on any third party website. We do, however, welcome your feedback or suggestions concerning them. Third party websites are not subject to our privacy standards so you should review the privacy policy and any other relevant notice that appears on a third party website.
 
 **Childrens' privacy**
 
@@ -107,7 +129,7 @@ Ultimately, you are solely responsible for maintaining the secrecy of your usern
 
 If you have any questions in relation to privacy, please contact us on 08 8423 4000 between 9.00 am and 5.30 pm, Monday to Friday. Alternatively, you can:
 
-  * use the Contact Us page on the adam.com.au website to send your questions and comments via email; or 
+  * use the Contact Us page on the www.adam.com.au website to send your questions and comments via email; or 
   * write to our General Manager, at GPO Box 121, Adelaide, SA 5001. 
 
 
