@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebelscum.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527164502id_/http%3A//www.rebelscum.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebelscum.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215035424id_/http%3A//www.rebelscum.com/privacy.asp) for the most accurate reproduction.*
 
 # Rebelscum.com: PRIVACY POLICY
 
