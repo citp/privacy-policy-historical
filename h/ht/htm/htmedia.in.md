@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmedia.in privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602064741id_/http%3A//www.htmedia.in/Privacy.aspx%3FPage%3DPage-HTMedia-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmedia.in privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215111846id_/http%3A//www.htmedia.in/Privacy.aspx%3FPage%3DPage-HTMedia-Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -90,4 +90,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
   
 
 
-If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20120602064741id_/http%3A//www.htmedia.in/ContactUs.aspx?Page=Page-HTMedia-ContactUs)
+If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20121215111846id_/http%3A//www.htmedia.in/ContactUs.aspx?Page=Page-HTMedia-ContactUs)
