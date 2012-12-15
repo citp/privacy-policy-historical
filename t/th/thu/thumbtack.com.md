@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the thumbtack.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628194932id_/http%3A//www.thumbtack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumbtack.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215071558id_/http%3A//www.thumbtack.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Thumbtack
 
 This Privacy Policy was last updated: June 18, 2012  
 This Privacy Policy is effective as of: January 15, 2009 This Privacy Policy describes how we handle your personal information, and the measures we take to protect it and use it responsibly.
 
-Thumbtack, Inc. ("Thumbtack") is committed to protecting the privacy of your information. We recognize that privacy is of utmost importance. This Privacy Policy details certain policies implemented throughout Thumbtack governing Thumbtack's use of personal data collected through Thumbtack's website located at [www.thumbtack.com](https://web.archive.org/web/20120628194932id_/http%3A//www.thumbtack.com/www.thumbtack.com) (the "Website") and the services provided by Thumbtack on the Website ("Services"). The Privacy Policy describes how we handle your personal information in connection with your use, and our operation, of the Website and Services, including the kind of personally identifiable information that we gather and how it is used and disclosed.
+Thumbtack, Inc. ("Thumbtack") is committed to protecting the privacy of your information. We recognize that privacy is of utmost importance. This Privacy Policy details certain policies implemented throughout Thumbtack governing Thumbtack's use of personal data collected through Thumbtack's website located at [www.thumbtack.com](http://www.thumbtack.com/) (the "Website") and the services provided by Thumbtack on the Website ("Services"). The Privacy Policy describes how we handle your personal information in connection with your use, and our operation, of the Website and Services, including the kind of personally identifiable information that we gather and how it is used and disclosed.
 
 If you have any questions or comments about the Privacy Policy, please contact us at [support@thumbtack.com](mailto:support@thumbtack.com). Let us know if you have any questions or comments about this Privacy Policy.
 
@@ -47,7 +47,7 @@ We collect your personal information to better understand your needs and to prov
     1. Register you to use our Services;
     2. Verify your authority to enter our Website;
     3. Internal record keeping; 
-    4. To share with Paypal or other third party payment gateways in connection with Website and/or Thumbtack's products and Services;
+    4. To share with PayPal or other third party payment gateways in connection with Website and/or Thumbtack's products and Services;
     5. To improve the Website's content and general administration Website, our products and services, and to provide the services and customer support that you have requested;
     6. To periodically send promotional emails to the email address you provide regarding new products from Thumbtack, special offers from Thumbtack or other information about Thumbtack that we think you may find interesting;
     7. To contact you, via email, telephone, facsimile or mail, to deliver certain services or information you have requested or for Thumbtack's market research purposes, including, but not limited to, the customization of the Website according to your interests; 
