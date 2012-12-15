@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explosm.net privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616135817id_/http%3A//www.explosm.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explosm.net privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215152509id_/http%3A//www.explosm.net/privacy) for the most accurate reproduction.*
 
 # Explosm.net - Home of Cyanide & Happiness
 
