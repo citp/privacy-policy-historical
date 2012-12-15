@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630203155id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215032307id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - NowInStock.net
 
@@ -10,6 +10,7 @@ NowInStock.net rarely uses cookies. When cookies are implemented by NowInStock.n
 
   * **NowInStock.net:**
     * User information cookies - these allow you to remain logged into our account management system. Since you are only signing up with an email address, this is the only information that is ever accessible to us. For TXT alerts, we need to store your phone number so we can direct TXT message to you. We NEVER share your information with anyone, ever, PERIOD.
+    * Deal Promotion cookie - We use a cookie to track the the Deals you promote on NowInStock.net within our [deals section](http://www.nowinstock.net/deals/) of the site. This allows use to show you which deals you have already promoted.
   * **Analytics** : 
     * **Google Analytics** \- this is the web analytics service which NowInStock.net uses to monitor visitors to our site and how users interact with NowInStock.net. No personal information is ever stored or trapped by NowInStock.net in regards to analytics. Google only stores anonymous data. To learn more about Google Analytics privacy, please visit: <http://www.google.com/analytics/learn/privacy.html>
   * **Social Widgets** : 
@@ -91,4 +92,4 @@ We continually add new products, let us know if you have any you would like to s
 
 #### Testimonials
 
-"Wow.Thanks so much for helping me get what I needed under the tree. This is the first year I used this service but it won't be my last. This is the place to connect with for hot Christmas items. Thanks!!!" -Aubrey
+"Merry Christmas to NowInStock.net and to my kids. Thanks to your website I was able to purchase 2 Leappad's in pink from Amazon Prime with no tax/shipping and 1 green for my son and 1 for my nephew! I am thrilled. I have been going in circles since Thanksgiving and am amazed that I got 4 of them within 2 days of each other and they will be here by Christmas!! Thank you!" -Janis
