@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the paksoldiers.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626121646id_/http%3A//www.paksoldiers.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paksoldiers.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215012304id_/http%3A//www.paksoldiers.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | PakSoldiers
+# Privacy Policy - PakSoldiers | PakSoldiers
 
 **Personally Provided Information  
 **
 
-You do not have to give us personal information to visit Paksoldiers.com. If you choose to provide us with additional information through an e-mail message, comments, etc. We will only maintain the information as long as needed to respond to your question, inquiry, or to fulfill the stated purpose of the communication. Except for authorized law enforcement investigations, we do not give, share, sell or transfer any personal information to a third party.
+You do not have to give your personal information to visit Paksoldiers.com. If you choose to provide us with additional information through an e-mail message, comment, etc., we will only maintain the information as long as needed to respond to your question, inquiry, or to fulfill the stated purpose of the communication. Except for authorized law enforcement investigations, we do not give, share, sell or transfer any personal information to a third party.
 
 **» Website Traffic Analysis Software  
 **
@@ -31,6 +31,4 @@ http://www.google.com/privacy_ads.html
 
 Our web sites contain links to other sites. PakSoldiers.com is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personal information.
 
-Note: This Page can get updated any time, without an prior noitce, so keep checking back.
-
-Last updated: October 15, 2011
+Last updated: October 12, 2012
