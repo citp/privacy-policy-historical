@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zingerbug.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623063226id_/http%3A//www.zingerbug.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zingerbug.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215075557id_/http%3A//www.zingerbug.com/privacy.htm) for the most accurate reproduction.*
 
 # ZingerBug.com Privacy Policy
 
@@ -27,7 +27,7 @@ Popular Links Horizontal Menu
 
 Upcoming Holidays Horizontal Menu
 
-_**Upcoming Holidays**_     [Armed Forces Day - 5/19](http://www.zingerbug.com/holidays/ArmedForces/index.htm)    [Memorial Day - 5/28](http://www.zingerbug.com/holidays/MemorialDay/index.htm)   [Flag Day - 6/14](http://www.zingerbug.com/holidays/FlagDay/index.htm)   [Fathers Day - 6/17](http://www.zingerbug.com/holidays/FathersDay/index.htm)    [Juneteenth - 6/19](http://www.zingerbug.com/holidays/juneteenth/index.htm)    [Summer](http://www.zingerbug.com/holidays/summer/index.htm)    [4th of July](http://www.zingerbug.com/holidays/July4/index.htm)  
+_**Upcoming Holidays**_     [Hanukkah - 12/8-12/16](http://www.zingerbug.com/holidays/Hanukkah/index.htm)    [Winter](http://www.zingerbug.com/holidays/winter/index.htm)    [Christmas - 12/25](http://www.zingerbug.com/holidays/christmas/index.htm)    [ New Year's Eve & Day- 12/31-1/1](http://www.zingerbug.com/holidays/NewYear/index.htm)    [ Martin Luther King Jr. Day - 1/21](http://www.zingerbug.com/holidays/MLKDay/index.htm)  
   
 Bookmark Us! (Ctrl+D)  Top Menu
 
