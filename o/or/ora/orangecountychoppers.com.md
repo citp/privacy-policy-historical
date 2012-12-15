@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orangecountychoppers.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501114430id_/http%3A//shop.orangecountychoppers.com/companyInfo/index.cfm%3FcontentID%3D3669D7DC-9539-A3E1-A1629BE85F82CDBA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orangecountychoppers.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215111658id_/http%3A//shop.orangecountychoppers.com/companyInfo/index.cfm%3FcontentID%3D3669D7DC-9539-A3E1-A1629BE85F82CDBA) for the most accurate reproduction.*
 
 # Orange County Choppers: Shop Now for official OCC apparel, collectible bikes and accessories or just check in to see what's new with the Teutuls.
 
