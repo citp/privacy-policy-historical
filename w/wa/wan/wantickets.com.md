@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wantickets.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506213036id_/http%3A//www.wantickets.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wantickets.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216160947id_/http%3A//www.wantickets.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Wantickets United States - United States Wantickets Events
+# Wantickets New York - New York Wantickets Events
 
 PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING THE WANTICKETS.COM, WEBSITE (the "Site"). 
 
