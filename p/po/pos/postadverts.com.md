@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postadverts.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617115330id_/http%3A//www.postadverts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postadverts.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216021809id_/http%3A//www.postadverts.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
