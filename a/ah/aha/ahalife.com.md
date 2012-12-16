@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the ahalife.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514102451id_/http%3A//www.ahalife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahalife.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216152650id_/http%3A//www.ahalife.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AHAlife
 
 Thank you for visiting Ahalife.com.  Ahalife Holdings Inc. ("AHAlife," "we" or "us"), is committed to keeping our customers informed about how we use the information we gather from you through the use of our website (the "Site").  Our commitment to you as a valued customer is to provide you with an exciting, safe and personalized experience.  As part of this commitment to you, we have created this privacy policy to inform you about how we collect, use and share your personal information.  In addition, we explain the steps we take to secure your personal information.  By visiting Ahalife.com, you accept the practices described in this Privacy Policy (the "Policy").  If you do not agree to this Policy, please do not use the Site.
 
-  _ **What Information Does AHAlife Collect and Use?**_  
+ 
+
+ _ **What Information Does AHAlife Collect and Use?**_  
 Our primary goal in collecting information is to provide our visitors with an easy, efficient, and customized online experience.   
 In order to better provide you with products and services, our Site collects the following types of information:   
 _Cookies:_ Cookies are pieces of data assigned by a web server that uniquely identify the browser on your PC. Websites typically use temporary cookies called "session" cookies to ensure that you are recognized when you move from page to page within one site and that any information you have entered is remembered. For example, if an e-commerce site did not use session cookies then items placed in a shopping basket would disappear by the time you reach the checkout. Websites also use "persistent" cookies to enable a website to remember you on subsequent visits, speeding up or enhancing your experience of services offered, and allowing us to better customize our services for you.  AHAlife attempts to install both persistent and session cookies when a user arrives at our Site. Users have the option to accept or disable cookies at any time through their browsers. Visit the "help" portion of your toolbar for more information. If you block or refuse to accept cookies, or delete cookies between visits to the site, you may not be able to access or use certain features or functions of our Site.  
