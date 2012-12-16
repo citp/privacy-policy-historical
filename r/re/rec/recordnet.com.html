@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the recordnet.com privacy policy that was archived on 2012-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617144827id_/http%3A//www.recordnet.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the recordnet.com privacy policy that was archived on 2012-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121216184521id_/http%3A//www.recordnet.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	  <title>Recordnet.com  | San Joaquin County News, Jobs, Cars, Real Estate and more</title>
@@ -22,15 +22,20 @@
     <script language="JavaScript" src="http://static.djlmgdigital.com/corp/global/scripts/querystring.js" type="text/javascript"></script>
     <link rel="apple-touch-icon" href="http://static.djlmgdigital.com/tsr/recordnet/graphics/apple-touch-icon.png"> 
     <link rel="Shortcut Icon" href="http://static.djlmgdigital.com/tsr/recordnet/graphics/favicon.ico" type="image/x-icon">
-    <link href="http://static.djlmgdigital.com/tsr/recordnet/styles/global.css?3" rel="stylesheet" type="text/css" media="all">
+    <link href="http://static.djlmgdigital.com/tsr/recordnet/styles/global.css?2012b" rel="stylesheet" type="text/css" media="all">
     <link href="http://static.djlmgdigital.com/tsr/recordnet/udm-resources/udm-style.css" rel="stylesheet" type="text/css" media="all">
 		<script type="text/javascript" src="http://static.djlmgdigital.com/tsr/recordnet/udm-resources/udm-custom.js"></script>
 		<script type="text/javascript" src="http://static.djlmgdigital.com/tsr/recordnet/scripts/udm-control.js"></script>	 		 	
 		<script type="text/javascript" src="http://static.djlmgdigital.com/corp/global/scripts/animatedcollapse.js"></script>
-		<script type="text/javascript" src="http://static.djlmgdigital.com/tsr/global/scripts/weather_current.js"></script>
+		<script type="text/javascript" src="http://www.recordnet.com/static/s3/global/scripts/weather_current.js"></script>
 		<meta name="category-facet" content="">
 		<script type="text/javascript" src="http://static.djlmgdigital.com/corp/global/scripts/jquery.min.js"></script>
 		<script type="text/javascript" src="http://static.djlmgdigital.com/corp/global/scripts/jcarousellite.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$('ul li.premium a:first-child, .vidList .premium, a.premium').prepend('<img src="http://static.djlmgdigital.com/corp/global/graphics/icons/21x10key.png" border="0" alt="Premium Content" class="premiumIcon">&nbsp;');
+			});	
+		</script>
     
 		<style type="text/css">
 			.Title {font-size:1.3em;color:#043d63;}
@@ -41,7 +46,7 @@
 		<script language="JavaScript" src="http://static.djlmgdigital.com/tsr/recordnet/scripts/oas.js" type="text/javascript"></script>	
 		<script language="JavaScript" type="text/javascript">
 			<!--
-				OAS_SET_PARMS("www.tsr.com/infocenter/all", "Middle,x59", "")
+				OAS_SET_PARMS("www.tsr.com/infocenter/all", "Middle,Top", "")
 			//-->
 		</script>
 		<script type="text/javascript" language="JavaScript1.1">
@@ -97,6 +102,10 @@
 		s_code_obj.prop14=	"";
 		
 	}
+	var welcomeMsgViewed = "";
+	var userSingleSale = "";
+	var userStoriesViewed = "";
+	var returnurl = "%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm";
 </script>
 
 
@@ -129,17 +138,9 @@
 		}
 		
 		function YYYYMM() {
-	    var ymnow = new Date;
-	    var rv = ymnow.getFullYear() * 100 + ymnow.getMonth() + 1;
-	    return rv;
-		}
-		
-		function toggleMiniLogin() {
-			var mlfrm=document.getElementById('miniLogin');
-			mlfrm.style.display=(mlfrm.style.display=='block')?'none':'block';
-			if (mlfrm.style.display=='block') {
-				document.getElementById('user').focus();
-			}
+	    		var ymnow = new Date;
+	    		var rv = ymnow.getFullYear() * 100 + ymnow.getMonth() + 1;
+	    		return rv;
 		}
 		
 		YAHOO.util.Event.onDOMReady(function() { 
@@ -193,66 +194,102 @@
 				});
 			}
 		});
-				
+		function toggleMiniLogin() {
+			var mobileFull = YAHOO.util.Cookie.get("sitePref");
+
+			if (mobileFull == "full")
+			{
+				window.location.href = "/apps/pbcs.dll/misc?url=/misc/mobile/login.pbs&returnurl=%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm&cid=lb_login"
+			}
+			else
+			{
+				//not a mobile user viewing full site
+				var mlfrm=document.getElementById('miniLogin');
+				mlfrm.style.display=(mlfrm.style.display=='block')?'none':'block';
+				if (mlfrm.style.display=='block') {
+					document.getElementById('user').focus();
+				}
+			}
+		}						
 	</script>
 
 <div id="loginBar" class="loggedOut">
 <div class="noindex">
 
-	<div id="loginBarLeft"><a href="/subscribe" title="Subscribe">Welcome to Recordnet.com.  Get Started</a></div>
-	<div id="loginBarCenter">
-		<span class="loginBarCenterTop"><a href="/subscribe" title="Subscription Offers">Subscribe Today. See our Special Offers.</a></span>
-		<span class="loginBarCenterBot"><a href="http://services.esanjoaquin.com/reader-services/subscribe/email-alerts/" class="norm">Sign up for Off the Clock | Your FREE Monthly Email Newsletter</a></span>
-	</div>
-	<div id="loginBarRight"><a href="/apps/pbcs.dll/misc?url=/misc/login.pbs&amp;returnurl=%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm&amp;returndest=" title="Log In" onclick="this.blur();toggleMiniLogin();return false;">Log In</a> | <a href="/register" title="Register">Register</a> | <a href="/subscribe" title="Subscribe">Subscribe</a></div>
-	<div id="miniLogin" style="display:none;">
-		<a href="#" onclick="toggleMiniLogin();return false;" title="close login panel">x</a>
-		<form action="/apps/pbcs.dll/misc?url=/misc/login.pbs&amp;returnurl=%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm" method="post" name="login_form" id="login_form">
-			<label for="username">Username *</label>
-			<input type="text" name="user" value="" id="user" maxlength="64" class="text">
-			<span style="font-size:.9em;color:#666; font-weight:normal;margin-bottom:5px;">(usually your email address)</span>
-			<label for="pass">Password *</label>
-			<input type="password" name="pw" value="" id="pw" maxlength="64" class="text" onkeydown="return submitOnEnter(event);">
-			<div class="ctl submit">
-				<input type="image" class="subButton" name="loginSubButton" id="loginSubButton" src="http://static.djlmgdigital.com/tsr/recordnet/graphics/paywall/btn_login.gif" value="">
-			</div>
-		</form>
-		<div class="miniLoginFooter">
-			<a href="/apps/pbcs.dll/misc?url=/misc/forgotPassword.pbs" title="Forgot Password">Forgot Password</a> | <a href="/subscribe" title="Sign Up">Need an Account?</a>
-		</div>
-	</div>
-
-
 	<div id="networkNav">
 		<div id="networkNavLeft">
-			<div class="brand1"><a href="http://www.recordnet.com">&nbsp;</a></div>
-			<div class="brand2"><a href="http://www.valleyhomefinder.com">&nbsp;</a></div>
-			<div class="brand3"><a href="http://www.valleyautofinder.com">&nbsp;</a></div>
-			<div class="brand4"><a href="http://www.valleyjobfinder.com">&nbsp;</a></div>
-			<div class="brand5"><a href="http://www.valleymarketplace.com">&nbsp;</a></div>
-			<div class="brand6"><a href="http://www.esanjoaquin.com/">&nbsp;</a></div>
+			<div class="brand1"><a href="http://www.recordnet.com/apps/pbcs.dll/frontpage?cid=bb1_home">&nbsp;</a></div>
+			<div class="brand2"><a href="http://www.valleyhomefinder.com/?cid=bb2_homes">&nbsp;</a></div>
+			<div class="brand3"><a href="http://www.valleyautofinder.com/apps/pbcs.dll/section?Category=CARS10&amp;cid=bb3_cars">&nbsp;</a></div>
+			<div class="brand4"><a href="http://www.valleyjobfinder.com/?cid=bb4_jobs">&nbsp;</a></div>
+			<div class="brand5"><a href="http://www.recordnet.com/apps/pbcs.dll/section?category=market&amp;cid=bb5_market">&nbsp;</a></div>
+			<div class="brand6"><a href="http://esanjoaquin.com/sp?aff=1&amp;cid=bb6_localsearch">&nbsp;</a></div>
 			<div class="brandMore" onmouseout="document.getElementById('brandMoreDrop').style.display='none';" onmouseover="document.getElementById('brandMoreDrop').style.display='block';">
-				<a href="/apps/pbcs.dll/misc?url=/static/siteMap.htm">&nbsp;</a>
+				<a href="/apps/pbcs.dll/misc?url=/static/siteMap.htm&amp;cid=bb7_more">&nbsp;</a>
 				<ul class="brandMoreDrop" id="brandMoreDrop" style="display:none;">
-					<li><a href="http://www.sanjoaquinlifestyles.com" title="San Joaquin Lifestyles">San Joaquin Lifestyles</a></li>
-					<li><a href="http://www.sanjoaquinwoman.com" title="San Joaquin Woman">San Joaquin Woman</a></li>
-					<li><a href="http://brides.recordnet.com" title="San Joaquin Bride &amp; Groom">San Joaquin Bride &amp; Groom</a></li>
-					<li><a href="http://www.valleyhomefinder.com/magazines.php" title="Valley Home Finder Magazine">Valley Home Finder Magazine</a></li>
-					<li><a href="http://bestof.recordnet.com" title="Best of San Joaquin">Best of San Joaquin</a></li>
-					<li><a href="http://bestof.recordnet.com" title="Best of Lodi">Best of Lodi</a></li>
-					<li><a href="http://blogs.esanjoaquin.com" title="esanjoaquin.com/Blogs">eSanJoaquin.com/Blogs</a></li>
+					<li><a href="http://www.sanjoaquinlifestyles.com?cid=bb8_moreLifestyles" title="San Joaquin Lifestyles">San Joaquin Lifestyles</a></li>
+					<li><a href="http://www.sanjoaquinwoman.com/?cid=bb9_moreSJwoman" title="San Joaquin Woman">San Joaquin Woman</a></li>
+					<li><a href="http://brides.recordnet.com/?cid=bb10_moreBride" title="San Joaquin Bride &amp; Groom">San Joaquin Bride &amp; Groom</a></li>
+					<li><a href="http://www.valleyhomefinder.com/magazines.php?cid=bb11_moreHomemag" title="Valley Home Finder Magazine">Valley Home Finder Magazine</a></li>
+					<li><a href="http://bestof.recordnet.com?cid=bb12_moreBestJoaquin" title="Best of San Joaquin">Best of San Joaquin</a></li>
+					<li><a href="http://bestof.recordnet.com?cid=bb13_moreBestLodi" title="Best of Lodi">Best of Lodi</a></li>
+					<li><a href="http://blogs.esanjoaquin.com?cid=bb14_moreBlogs" title="esanjoaquin.com/Blogs">eSanJoaquin.com/Blogs</a></li>
 				</ul>
 			</div>
 		</div>
 		<div id="networkNavRight">
 			<form id="form_southcoast" method="post" onsubmit="return submitSearch(search_news.value);">
 				  	<input class="input_text" type="text" name="search_news" id="search_news" value="Search Recordnet.com" onfocus="if(this.value=='Search Recordnet.com'){this.value='';}" onblur="if(this.value==''){this.value='Search Recordnet.com';}">
-				  	<input class="input_search" name="submit" type="image" value="Search" id="search_news_submit" src="http://static.djlmgdigital.com/tsr/recordnet/graphics/searchSubmit.gif">
+				  	<input class="input_search" name="submit" type="image" value="Search" id="search_news_submit" src="http://static.djlmgdigital.com/tsr/recordnet/graphics/2012-searchSubmit.gif">
 			</form>
 		</div>
 	</div>
 </div>
+</div>	
+<div id="loginBarBtm" class="loggedOut">
+<div class="noindex">
+	<div id="subscriberBar">
+
+		<div id="loginBarLeft">
+			
+				<a href="/apps/pbcs.dll/misc?url=/misc/login.pbs&amp;returnurl=%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm&amp;cid=lb_login" title="Log In" onclick="this.blur();toggleMiniLogin();return false;" class="loginBtn"></a>
+				<div class="btmLinks">
+					<span class="key">0 of 3 Premium Clicks used this month</span>
+				</div>
+			
+		</div>
+	
+		<div id="loginBarRight">
+			
+			
+				<div class="subscribe"><a href="/apps/pbcs.dll/misc?url=/static/premiumContent/initialOffer.html&amp;cid=lb_subscribe" title="Subscribe">SUBSCRIBE</a></div>
+				<span class="txtLinks">
+					<a href="/apps/pbcs.dll/misc?url=/misc/register.pbs&amp;cid=lb_register" title="Register">Register</a>
+				</span>	
+			
+		</div>
+		
+		<div id="miniLogin" style="display:none;">
+			<a href="#" onclick="toggleMiniLogin();return false;" title="close login panel">x</a>
+			<form action="/apps/pbcs.dll/misc?url=/misc/login.pbs&amp;returnurl=%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm&amp;cid=lb_login" method="post" name="login_form" id="login_form">
+				<label for="username">Username *</label>
+				<input type="text" name="user" value="" id="user" maxlength="64" class="text">
+				<span style="font-size:.9em;color:#333; font-weight:normal;margin-bottom:5px;">(usually your email address)</span>
+				<label for="pass">Password *</label>
+				<input type="password" name="pw" value="" id="pw" maxlength="64" class="text" onkeydown="return submitOnEnter(event);">
+				<div class="ctl submit">
+					<input type="image" class="subButton" name="loginSubButton" id="loginSubButton" src="http://static.djlmgdigital.com/tsr/recordnet/graphics/paywall/btn_login.gif" value="">
+				</div>
+			</form>
+			<div class="miniLoginFooter">
+				<a href="/apps/pbcs.dll/misc?url=/misc/forgotPassword.pbs&amp;cid=lb_forgotpw" title="Forgot Password">Forgot Password</a> | <a href="/subscribe" title="Sign Up">Need an Account?</a>
+			</div>
+		</div>
+
+	</div>
 </div>
+</div>	
+
 <div id="sCode">
 	<script language="JavaScript" type="text/javascript"><!--
 		setProp(s); 	
@@ -261,32 +298,39 @@
 <div id="outerWrapper">
 	<div id="webSite">
 	 	<div id="mastHead">
-   	<div class="noindex">
-    	<div id="mastImg" style="position: relative;">
-	    	<div id="mLogo"><a href="http://www.recordnet.com">&nbsp;</a></div>
-				<div id="mRight">
-	     		<div class="weather">
-	<div class="date">June 17, 2012</div>
-	<script type="text/javascript">
-		if (wcurrent.dailyforecast.Icon)
-		document.writeln("<img src=\"http://static.djlmgdigital.com/tsr/recordnet/graphics/weather/medium/" + wcurrent.dailyforecast.Icon.replace(/jpg/, "gif") + "\" alt=\"weather\" class=\"wImg\"/>");
-		if (wcurrent.dailyforecast.TemperatureF)	
-		document.writeln("<div class=\"currTemp\">" + wcurrent.dailyforecast.TemperatureF + "\&#176;<\/div>");												
-	</script>
-	<div class="weatherLinks">
-	 <a href="/apps/pbcs.dll/section?Category=A_NEWS20">Weather</a> | <a href="/apps/pbcs.dll/misc?url=/static/traffic.htm">Traffic</a>
-	</div>
-</div> 
-	     		<div class="x59">
+	<div class="noindex">
+		<div id="header">
+			<div class="mastBar">
+				<a href="/" title="Recordnet.com" id="mastHead">&nbsp;</a>
+				<div id="mastWeather">
+					<div id="mastWeatherLeft">
+						<div class="todaysDate">Sunday, December 16, 2012</div>
+						<div id="weathPredict">
+							<div class="currTemp">               
+								<script type="text/javascript">
+									document.writeln("<img src=\"http://static.djlmgdigital.com/corp/global/graphics/weather/small/" + wcurrent.dailyforecast.Icon.replace(/jpg/, "gif") + "\" alt=\"weather\" class=\"wImg\"\">");
+								</script>
+							
+								<script type="text/javascript">
+					                	document.writeln(Math.round(wcurrent.dailyforecast.TemperatureF) + "&#176;");
+								</script>	
+							</div>
+							<div class="weatherLinks">
+								<a href="/apps/pbcs.dll/section?category=A_NEWS20" title="Click here for more weather details.">Forecast | Radar</a>
+							</div>
+						</div>
+					</div>												
+				</div>
+				<div id="Top">
 					<script language="JavaScript" type="text/javascript">
 					<!--
-						OAS_AD('x59');
+						OAS_AD('Top');
 					//-->
 					</script>
-				</div>        		
-	     	</div>
-    	</div>
-    	<script type="text/javascript" src="http://static.djlmgdigital.com/tsr/recordnet/udm-resources/udm-dom.js"></script>
+				</div>
+			</div>
+		</div>	
+		<script type="text/javascript" src="http://static.djlmgdigital.com/tsr/recordnet/udm-resources/udm-dom.js"></script>
 <div id="topNav">
 	<ul id="udm" class="udm">
 		<li><a id="homeNav" href="http://www.recordnet.com">HOME</a></li>
@@ -433,6 +477,9 @@
 			  </li>
 			  <li>
 			    <a href="http://www.recordnet.com/apps/pbcs.dll/section?Category=A_LIFE06" title="Celebrations">10 Questions</a>
+			  </li>
+			  <li>
+			    <a href="http://www.recordnet.com/apps/pbcs.dll/section?Category=A_LIFE13" title="Fashion">Fashion</a>
 			  </li>		  		  		 
 			</ul>
 		</li>
@@ -541,7 +588,7 @@
 			    <a href="http://www.recordnet.com/apps/pbcs.dll/section?Category=A_INTERACT" title="Interaction Home">myRecord Home</a>
 			  </li>
 				<li>
-			    <a href="http://www.recordnet.com/apps/pbcs.dll/misc?url=/static/forms/tipForm.htm" title="Submit News">Reader submissions</a>
+			    <a href="http://services.esanjoaquin.com/reader-services/submissions/" title="Submit News">Reader submissions</a>
 					 <ul>
 					  <li>
 					    <a href="http://services.esanjoaquin.com/reader-services/submissions/story-idea/" title="Submit News">Submit News</a>
@@ -634,8 +681,8 @@
 </div>
 <div id="menuTrigger" style="display:none"></div>
 <script language="javascript" type="text/javascript">if(menuID!=''){navURHere(menuID);}</script>
-    </div>
 	</div>
+</div>
 		<div id="divSect">
 	 		<div id="bdyLeft">
 				<div class="bdyCol1">
@@ -773,13 +820,13 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
 <div class="bdyTitle"><a href="/apps/pbcs.dll/section?Category=A_NEWS02">Crime</a></div>
 	<ul>
 <li class="premium"> 
-	<a href="/apps/pbcs.dll/article?AID=/20120617/A_NEWS/206170320">Two drown in Delta after boat capsizes</a>
+	<a href="/apps/pbcs.dll/article?AID=/20121216/A_NEWS02/212160308">Man stabbed to death</a>
 </li>
 <li class="premium"> 
-	<a href="/apps/pbcs.dll/article?AID=/20120617/A_NEWS02/120619887">Fire at triplex displaces 6, baby</a>
+	<a href="/apps/pbcs.dll/article?AID=/20121216/A_NEWS/121219925">Man robbed after dropping $100 bill</a>
 </li>
 <li class="premium"> 
-	<a href="/apps/pbcs.dll/article?AID=/20120617/A_NEWS0201/206170321">911 calls -- Published June 17, 2012</a>
+	<a href="/apps/pbcs.dll/article?AID=/20121216/A_NEWS/121219924">Parolee held after break-in, threats</a>
 </li>
 	</ul>
 	<div class="moreInfoDiv">
@@ -793,13 +840,13 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
 <div class="bdyTitle"><a href="/apps/pbcs.dll/section?Category=A_NEWS03">Government</a></div>
 	<ul>
 <li class="premium"> 
-	<a href="/apps/pbcs.dll/article?AID=/20120616/A_NEWS/206160314">Ex-assemblyman, city manager disagree on fixes to Stockton's finances</a>
+	<a href="/apps/pbcs.dll/article?AID=/20121216/A_NEWS/212160316">Silva still has plans to hold second job as he takes mayoral reins</a>
 </li>
-<li> 
-	<a href="/apps/pbcs.dll/article?AID=/20120615/A_NEWS/120619903">California lawmakers pass budget on $15.7B deficit (UPDATED: 2:09 p.m.)</a>
+<li class="premium"> 
+	<a href="/apps/pbcs.dll/article?AID=/20121215/A_NEWS/212150317">Creditor cites police to fight bankruptcy</a>
 </li>
-<li> 
-	<a href="/apps/pbcs.dll/article?AID=/20120615/A_NEWS/120619905">Former state lawmaker calls for bold moves to fix Stockton’s finances</a>
+<li class="premium"> 
+	<a href="/apps/pbcs.dll/article?AID=/20121215/A_NEWS/212150319">Field for District 5 council seat set</a>
 </li>
 	</ul>
 	<div class="moreInfoDiv">
@@ -813,13 +860,13 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
 <div class="bdyTitle"><a href="/apps/pbcs.dll/section?Category=A_NEWS04">Education</a></div>
 	<ul>
 <li class="premium"> 
-	<a href="/apps/pbcs.dll/article?AID=/20120617/A_NEWS/206170317">SUSD ski clubs on front line in effort to diversify slopes</a>
+	<a href="/apps/pbcs.dll/article?AID=/20121215/A_NEWS/212150316">In wake of tragedy, S.J. campuses take fresh look at security</a>
+</li>
+<li> 
+	<a href="/apps/pbcs.dll/article?AID=/20121214/A_NEWS/121219935">UC suspends new logo after protest </a>
 </li>
 <li class="premium"> 
-	<a href="/apps/pbcs.dll/article?AID=/20120617/A_NEWS/206170324">Beautiful sight to behold</a>
-</li>
-<li class="premium"> 
-	<a href="/apps/pbcs.dll/article?AID=/20120616/A_NEWS/206160320">Toliver packs up after more than three decades at SUSD</a>
+	<a href="/apps/pbcs.dll/article?AID=/20121214/A_NEWS/212140310">Lowder seeking peace in SUSD</a>
 </li>
 	</ul>
 	<div class="moreInfoDiv">
@@ -837,7 +884,7 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
  		<div class="columnistName"><a href="/apps/pbcs.dll/section?Category=A_NEWS0803">Michael Fitzgerald</a></div>
  		<div style="margin:0;padding:0;">Metro Columnist</div>
  		<div class="singleBox ">
-	<a href="/apps/pbcs.dll/article?AID=/20120615/A_NEWS0803/206150315">Fat levees deserve closer study as option for Delta</a>
+	<a href="/apps/pbcs.dll/article?AID=/20121216/A_NEWS0803/212160309" class="premium">Ice-towing idea doesn't hold water</a>
 </div>
  	</div>
 
@@ -846,7 +893,7 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
  		<div class="columnistName"><a href="/apps/pbcs.dll/section?Category=A_LIFE1203">Clifford Oto</a></div>
  		<div style="margin:0;padding:0;">Record Photographer</div>
  		<div class="singleBox ">
-	<a href="/apps/pbcs.dll/article?AID=/20120611/A_LIFE1203/206110305">In a flash: Fill lighting can help even in bright sunlight</a>
+	<a href="/apps/pbcs.dll/article?AID=/20121210/A_LIFE1203/212080308" class="premium">Capturing Brubeck took jazzlike improvisation</a>
 </div>
  	</div>
 
@@ -857,18 +904,18 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
 			</div>
 		<ul>
 			<li class="photoPromoLI">
-	<a href="/apps/pbcs.dll/gallery?Site=SR&amp;Date=20120614&amp;Category=A_SPORTS&amp;ArtNo=614009999&amp;Ref=PH&amp;Presentation=desktop">
-		<img class="photoImg" src="/apps/pbcsi.dll/bilde?Site=SR&amp;Date=20120614&amp;Category=A_SPORTS&amp;ArtNo=614009999&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=110&amp;MaxH=75" alt="Matt Cain's perfect game">
+	<a href="/apps/pbcs.dll/gallery?Site=SR&amp;Date=20121213&amp;Category=A_LIFE06&amp;ArtNo=121309999&amp;Ref=PH&amp;Presentation=desktop">
+		<img class="photoImg" src="/apps/pbcsi.dll/bilde?Site=SR&amp;Date=20121213&amp;Category=A_LIFE06&amp;ArtNo=121309999&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=110&amp;MaxH=75" alt="myRecord: December 2012">
 	</a>
-	<a class="photoPromoTitle" href="/apps/pbcs.dll/gallery?Site=SR&amp;Date=20120614&amp;Category=A_SPORTS&amp;ArtNo=614009999&amp;Ref=PH&amp;Presentation=desktop">
-		Matt Cain's perfect game
+	<a class="photoPromoTitle" href="/apps/pbcs.dll/gallery?Site=SR&amp;Date=20121213&amp;Category=A_LIFE06&amp;ArtNo=121309999&amp;Ref=PH&amp;Presentation=desktop">
+		myRecord: December 2012
 	</a>
 </li><li class="photoPromoLI">
-	<a href="/apps/pbcs.dll/gallery?Site=SR&amp;Date=20120614&amp;Category=A_LIFE&amp;ArtNo=613009998&amp;Ref=PH&amp;Presentation=desktop">
-		<img class="photoImg" src="/apps/pbcsi.dll/bilde?Site=SR&amp;Date=20120614&amp;Category=A_LIFE&amp;ArtNo=613009998&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=110&amp;MaxH=75" alt="Flag Day 2012">
+	<a href="/apps/pbcs.dll/gallery?Site=SR&amp;Date=20121210&amp;Category=A_NEWS&amp;ArtNo=121009854&amp;Ref=PH&amp;Presentation=desktop">
+		<img class="photoImg" src="/apps/pbcsi.dll/bilde?Site=SR&amp;Date=20121210&amp;Category=A_NEWS&amp;ArtNo=121009854&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=110&amp;MaxH=75" alt="Week in Photos: Dec. 4-10">
 	</a>
-	<a class="photoPromoTitle" href="/apps/pbcs.dll/gallery?Site=SR&amp;Date=20120614&amp;Category=A_LIFE&amp;ArtNo=613009998&amp;Ref=PH&amp;Presentation=desktop">
-		Flag Day 2012
+	<a class="photoPromoTitle" href="/apps/pbcs.dll/gallery?Site=SR&amp;Date=20121210&amp;Category=A_NEWS&amp;ArtNo=121009854&amp;Ref=PH&amp;Presentation=desktop">
+		<img src="http://static.djlmgdigital.com/corp/global/graphics/icons/21x10key.png" class="premiumIcon"> Week in Photos: Dec. 4-10
 	</a>
 </li>
 		</ul>
@@ -989,109 +1036,109 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
 		<div id="ctl00_djCpnW_Panel" class="djCpnW_Panel"> 
    
            <div class="djCpnW_Head">
-                 <a href="http://esanjoaquin.com/sp?aff=3" id="ctl00_djCpnW_Repeater_ctl00_djCpnW_Total" class="djCpnW_Total" target="_blank">79 Coupons Online Today</a>
+                 <a href="http://esanjoaquin.com/sp?aff=3" id="ctl00_djCpnW_Repeater_ctl00_djCpnW_Total" class="djCpnW_Total" target="_blank">48 Coupons Online Today</a>
                  <a href="http://esanjoaquin.com/sp?aff=3" id="ctl00_djCpnW_Repeater_ctl00_djCpnW_More" class="djCpnW_More" target="_blank">More &gt;&gt;</a>
            </div>       
            <ul class="djCpnW_Results">
            
              <li>
-                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=706&amp;siteId=172689" id="ctl00_djCpnW_Repeater_ctl01_djCpnW_Title" class="djCpnW_Title" rel="external">1/2 OFF First 4 Months of Storage!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">American Self Storage-Stockton</span>    
-             </li>
-             
-             <li>
-                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=548&amp;siteId=205419" id="ctl00_djCpnW_Repeater_ctl02_djCpnW_Title" class="djCpnW_Title" rel="external">3 Hour Body Massage ~ ONLY $109*</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Angel Relax Center</span>    
-             </li>
-             
-             <li>
-                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=427&amp;siteId=254163" id="ctl00_djCpnW_Repeater_ctl03_djCpnW_Title" class="djCpnW_Title" rel="external">Dr. Prescribed Appetite Suppressant</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Carma Weight Loss</span>    
-             </li>
-             
-             <li>
-                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=709&amp;siteId=784" id="ctl00_djCpnW_Repeater_ctl04_djCpnW_Title" class="djCpnW_Title" rel="external">$3.00 OFF Full Service Car Wash!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Ellis Car Wash</span>    
-             </li>
-             
-             <li>
-                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=699&amp;siteId=19427" id="ctl00_djCpnW_Repeater_ctl05_djCpnW_Title" class="djCpnW_Title" rel="external">Happy Hour, All Night, Every Night, Le Bistro!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Le Bistro</span>    
-             </li>
-             
-             <li>
-                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=280&amp;siteId=253979" id="ctl00_djCpnW_Repeater_ctl06_djCpnW_Title" class="djCpnW_Title" rel="external">$20 OFF RedWing Boots or Shoes!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Red Wing Shoe Store</span>    
-             </li>
-             
-             <li>
-                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=595&amp;siteId=271098" id="ctl00_djCpnW_Repeater_ctl07_djCpnW_Title" class="djCpnW_Title" rel="external">Up to 1 Month FREE*</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Stor Kwik</span>    
-             </li>
-             
-             <li>
-                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=667&amp;siteId=277512" id="ctl00_djCpnW_Repeater_ctl08_djCpnW_Title" class="djCpnW_Title" rel="external">Service Special at Brannon Tire!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Brannon Tires</span>    
-             </li>
-             
-             <li>
-                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=345&amp;siteId=19427" id="ctl00_djCpnW_Repeater_ctl09_djCpnW_Title" class="djCpnW_Title" rel="external">Beer $3, Wine $5 - Happy Hour Le Bistro!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Le Bistro</span>    
-             </li>
-             
-             <li>
-                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=554&amp;siteId=173510" id="ctl00_djCpnW_Repeater_ctl10_djCpnW_Title" class="djCpnW_Title" rel="external">$10 OFF Pet Grooming!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Barking Lot</span>    
-             </li>
-             
-             <li>
-                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=303&amp;siteId=119330" id="ctl00_djCpnW_Repeater_ctl11_djCpnW_Title" class="djCpnW_Title" rel="external">25% OFF Most Services</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Fremont Veterinary Clinic</span>    
-             </li>
-             
-             <li>
-                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=685&amp;siteId=268772" id="ctl00_djCpnW_Repeater_ctl12_djCpnW_Title" class="djCpnW_Title" rel="external">Donate with us for the BEST tax break!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">All Bay Vehicle Donations</span>    
-             </li>
-             
-             <li>
-                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=711&amp;siteId=784" id="ctl00_djCpnW_Repeater_ctl13_djCpnW_Title" class="djCpnW_Title" rel="external">$3.00 OFF Full Service Car Wash!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Ellis Car Wash</span>    
-             </li>
-             
-             <li>
-                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=690&amp;siteId=175105" id="ctl00_djCpnW_Repeater_ctl14_djCpnW_Title" class="djCpnW_Title" rel="external">Super Special Oil Change. $7 OFF!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Speedee Oil Change &amp; Tune Up</span>    
-             </li>
-             
-             <li>
-                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=389&amp;siteId=21945" id="ctl00_djCpnW_Repeater_ctl15_djCpnW_Title" class="djCpnW_Title" rel="external">Only $29.95 for June special!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Cabral Motors</span>    
-             </li>
-             
-             <li>
-                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=692&amp;siteId=16747" id="ctl00_djCpnW_Repeater_ctl16_djCpnW_Title" class="djCpnW_Title" rel="external">Full Nail Set Specials!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Happiness Nails &amp; Spa</span>    
-             </li>
-             
-             <li>
-                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=537&amp;siteId=268347" id="ctl00_djCpnW_Repeater_ctl17_djCpnW_Title" class="djCpnW_Title" rel="external">Buy 1 Entree (at Regular Price) and get your 2nd Entree (of equal or lesser price) 1/2 Price!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Scooter's</span>    
-             </li>
-             
-             <li>
-                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=567&amp;siteId=253979" id="ctl00_djCpnW_Repeater_ctl18_djCpnW_Title" class="djCpnW_Title" rel="external">$20 OFF! Red Wing Shoes or Boots</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Red Wing Shoe Store</span>    
-             </li>
-             
-             <li>
-                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=547&amp;siteId=205419" id="ctl00_djCpnW_Repeater_ctl19_djCpnW_Title" class="djCpnW_Title" rel="external">Purchase a TEN HOUR Foot n' Body Massage</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Angel Relax Center</span>    
-             </li>
-             
-             <li>
-                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=513&amp;siteId=24279" id="ctl00_djCpnW_Repeater_ctl20_djCpnW_Title" class="djCpnW_Title" rel="external">Carpet Your Home for Only $1495!</a>
+                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=815&amp;siteId=24279" id="ctl00_djCpnW_Repeater_ctl01_djCpnW_Title" class="djCpnW_Title" rel="external">Carpet Starting at 99c per sq. ft!</a>
                   <span class="djCpnW_Business" id="djCpnW_Business">Joe Lents Abbey Carpet &amp; Floor</span>    
+             </li>
+             
+             <li>
+                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=793&amp;siteId=389049" id="ctl00_djCpnW_Repeater_ctl02_djCpnW_Title" class="djCpnW_Title" rel="external">56% Off Bikini IPL Laser Hair Removal</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Manasra</span>    
+             </li>
+             
+             <li>
+                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=502&amp;siteId=262677" id="ctl00_djCpnW_Repeater_ctl03_djCpnW_Title" class="djCpnW_Title" rel="external">GET AN ADDITIONAL PUMPKIN PIE WITH EVERY HOLIDAY DINNER ORDER</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Marina Marketplace</span>    
+             </li>
+             
+             <li>
+                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=461&amp;siteId=110281" id="ctl00_djCpnW_Repeater_ctl04_djCpnW_Title" class="djCpnW_Title" rel="external">$500 Free Gas Insert Pipe Kit from Mendota</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Ben's Appliance - Kitchen Design Center</span>    
+             </li>
+             
+             <li>
+                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=842&amp;siteId=4251" id="ctl00_djCpnW_Repeater_ctl05_djCpnW_Title" class="djCpnW_Title" rel="external">10.00 OFF Video Tape Duplication</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Ulmer Photo</span>    
+             </li>
+             
+             <li>
+                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=841&amp;siteId=4251" id="ctl00_djCpnW_Repeater_ctl06_djCpnW_Title" class="djCpnW_Title" rel="external">Greeting Cards</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Ulmer Photo</span>    
+             </li>
+             
+             <li>
+                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=590&amp;siteId=26896" id="ctl00_djCpnW_Repeater_ctl07_djCpnW_Title" class="djCpnW_Title" rel="external">Quality Home Improvement Services! Visit Us Today!</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Crystal Clear Quality Home Improvement</span>    
+             </li>
+             
+             <li>
+                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=803&amp;siteId=389049" id="ctl00_djCpnW_Repeater_ctl08_djCpnW_Title" class="djCpnW_Title" rel="external">Hot Stone Facial Only $60</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Manasra</span>    
+             </li>
+             
+             <li>
+                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=434&amp;siteId=173800" id="ctl00_djCpnW_Repeater_ctl09_djCpnW_Title" class="djCpnW_Title" rel="external">Near East-Rice Pilaf &amp; 2 Couscous mixes 8-12oz Reg. $2.79 NOW $1.99</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Podesto's Market &amp; Deli</span>    
+             </li>
+             
+             <li>
+                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=789&amp;siteId=174618" id="ctl00_djCpnW_Repeater_ctl10_djCpnW_Title" class="djCpnW_Title" rel="external">New Move-In Specials!</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Villa De La Paix</span>    
+             </li>
+             
+             <li>
+                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=788&amp;siteId=174618" id="ctl00_djCpnW_Repeater_ctl11_djCpnW_Title" class="djCpnW_Title" rel="external">1st &amp; Last Month Rent FREE!</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Villa De La Paix</span>    
+             </li>
+             
+             <li>
+                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=771&amp;siteId=183625" id="ctl00_djCpnW_Repeater_ctl12_djCpnW_Title" class="djCpnW_Title" rel="external">Sterling Silver Charms From $25 at Spectator-Lodi</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Spectator</span>    
+             </li>
+             
+             <li>
+                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=550&amp;siteId=268352" id="ctl00_djCpnW_Repeater_ctl13_djCpnW_Title" class="djCpnW_Title" rel="external">25% OFF SERVICE</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">VINCE HARO &amp; Sons Yard Work &amp; Hauling</span>    
+             </li>
+             
+             <li>
+                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=702&amp;siteId=177586" id="ctl00_djCpnW_Repeater_ctl14_djCpnW_Title" class="djCpnW_Title" rel="external">$5 OFF Laptop or Netbook Batteries</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Batteries Plus</span>    
+             </li>
+             
+             <li>
+                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=801&amp;siteId=389049" id="ctl00_djCpnW_Repeater_ctl15_djCpnW_Title" class="djCpnW_Title" rel="external">Juvederm Ultra Plus XC Sale 40% Off! $330 For 1 Syringe</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Manasra</span>    
+             </li>
+             
+             <li>
+                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=797&amp;siteId=389049" id="ctl00_djCpnW_Repeater_ctl16_djCpnW_Title" class="djCpnW_Title" rel="external">Glycolic &amp; Enzyme Resurfacing Only $89</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Manasra</span>    
+             </li>
+             
+             <li>
+                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=795&amp;siteId=389049" id="ctl00_djCpnW_Repeater_ctl17_djCpnW_Title" class="djCpnW_Title" rel="external">40% Off Full Back IPL Laser Hair Removal</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Manasra</span>    
+             </li>
+             
+             <li>
+                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=806&amp;siteId=389049" id="ctl00_djCpnW_Repeater_ctl18_djCpnW_Title" class="djCpnW_Title" rel="external">Only $39 Pore Minimizing Facial</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Manasra</span>    
+             </li>
+             
+             <li>
+                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=433&amp;siteId=173800" id="ctl00_djCpnW_Repeater_ctl19_djCpnW_Title" class="djCpnW_Title" rel="external">Fancy Feast Cat Food 3oz Reg. $.79c NOW $.59c</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Podesto's Market &amp; Deli</span>    
+             </li>
+             
+             <li>
+                  <a href="http://esanjoaquin.com/sp?p=/includes/print_coupon&amp;adSiteId=560&amp;siteId=262677" id="ctl00_djCpnW_Repeater_ctl20_djCpnW_Title" class="djCpnW_Title" rel="external">FREE 16ct. Freshly Baked Cookies</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Marina Marketplace</span>    
              </li>
          
             </ul>   
@@ -1104,7 +1151,7 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
                         var rnd = Math.floor(Math.random() * chs.length);
                         str += chs.substring(rnd,rnd+1);}
                         var myImg = new Image();
-                        myImg.src = 'http:\/\/lsl' + 'metrics.djlmgdigital.com\/images\/coupon' + 'counter.gif?r=SR&w=172689:706,205419:548,254163:427,784:709,19427:699,253979:280,271098:595,277512:667,19427:345,173510:554,119330:303,268772:685,784:711,175105:690,21945:389,16747:692,268347:537,253979:567,205419:547,24279:513&b='+str;                                       
+                        myImg.src = 'http:\/\/lsl' + 'metrics.djlmgdigital.com\/images\/coupon' + 'counter.gif?r=SR&w=24279:815,389049:793,262677:502,110281:461,4251:842,4251:841,26896:590,389049:803,173800:434,174618:789,174618:788,183625:771,268352:550,177586:702,389049:801,389049:797,389049:795,389049:806,173800:433,262677:560&b='+str;                                       
                     </script>
                 
             
