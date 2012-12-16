@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the girlsnotbrides.org privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605084829id_/http%3A//girlsnotbrides.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsnotbrides.org privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216181524id_/http%3A//girlsnotbrides.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Girls Not Brides
-
-## Privacy policy
+# Girls Not Brides
 
 Preservation of your privacy is important to the Elders Foundation and we are committed to letting you know how we use your personal information and using it responsibly. This privacy policy (“the Privacy Policy”) should be read in conjunction with the [www.girlsnotbrides.org](http://www.girlsnotbrides.org/ "Girls not Brides") Website Terms and Conditions.
 
