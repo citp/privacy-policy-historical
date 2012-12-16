@@ -1,0 +1,458 @@
+<!--The following is the downloaded HTML source of the visualead.com privacy policy that was archived on 2012-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121216040211id_/http%3A//www.visualead.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Visualead - About Privacy | Design with QR Codes | Visualead</title>
+<meta name="keywords" content="QR design, QR Code design, QRcode design, custom QR, custom QR code, custom qrcode, customize qr code">
+<meta name="description" content="Visualead Privacy terms - Turn any design into a QR Code, it's quick &amp; easy, and Free">
+<meta name="author" content="Visualead Ltd.">
+<link rel="canonical" href="http://www.visualead.com/privacy-policy">
+<meta name="og:type" content="article">
+<meta name="og:title" content="Visualead - About Privacy | Design with QR Codes | Visualead">
+<meta name="og:url" content="http://www.visualead.com/privacy-policy">
+<meta name="og:description" content="Visualead Privacy terms - Turn any design into a QR Code, it's quick &amp; easy, and Free">
+<meta name="og:site_name" content="Visualead – About Privacy">
+<meta name="og:image" content="http://www.visualead.com/img/twitter_qr_code_design.png">
+
+
+<link href="http://www.visualead.com/favicon.ico" type="image/x-icon" rel="icon"><link href="http://www.visualead.com/favicon.ico" type="image/x-icon" rel="shortcut icon">
+	<link rel="stylesheet" type="text/css" href="/js/fancybox/jquery.fancybox-1.3.4.css">
+	<link rel="stylesheet" type="text/css" href="/css/style.css?v2.6">
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Satisfy">
+<meta name="viewport" content="width=1024">
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/style-IE7.css" /><![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="/css/style-IE8.css" /><![endif]-->
+
+	<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.21/jquery-ui.js"></script>
+	<script type="text/javascript" src="/js/hoverIntent.js"></script>
+	<script type="text/javascript" src="/js/masonry.js"></script>
+	<script type="text/javascript" src="/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+	<script type="text/javascript" src="/js/fancybox/jquery.easing-1.3.pack.js"></script>
+	<script type="text/javascript" src="/js/Jcrop/jcrop.js"></script>
+	<script type="text/javascript" src="/js/colorpicker/js/colorpicker.js"></script>
+	<script type="text/javascript" src="/js/jquery_rotate_min.js"></script>
+	<script type="text/javascript" src="/js/jquery.placeholder.js"></script>
+	<script type="text/javascript" src="/js/jquery.validate.js"></script>
+	<script type="text/javascript" src="/js/jquery.filedrop.js"></script>
+	<script type="text/javascript" src="/js/visualslider.jquery.js?v1.0"></script>
+	<script type="text/javascript" src="/js/jquery.lazyload.js"></script>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+    //alert(window.name);
+    //if(window.name == ''){
+        //window has no name so we give it a name
+      //  window.name = 1355630531;
+      //  $.cookie('vis_win_name',window.name);
+    //}
+
+    function show_sub(){
+		$(this).find('ul').fadeIn();	
+	}
+	function hide_sub(){
+		$(this).find('ul').fadeOut();	
+	}
+
+	
+    $('#feed_boxes').masonry({
+		itemSelector : '.feed_box',
+   		columnWidth : 238,
+		isAnimated: true
+	});
+
+    $('#gallery_feed_boxes').masonry({
+        itemSelector : '.gallery_feed_box',
+        columnWidth : 190,
+        isAnimated: true
+    });
+	//190
+	$('img.lazy_image').lazyload({ 
+   		skip_invisible : false,
+		effect : 'fadeIn'
+	});
+
+
+	
+	$('input, password').placeholder();
+
+	
+	/*$('#sign_up_submit').click(function(){
+		if(!$('#UserTermsOfService').is(':checked')){	
+			alert('Please agree to the Terms.');
+			return false;	
+		}
+	});*/
+
+	$('#sign_in').fancybox({
+		'overlayColor': '#000',
+		'autoDimensions': false,
+		'width': '550',
+		'height': '500'
+	})
+
+
+   /* $('.google_login').click(function(){
+        if($('#sign_up_holder').is(':visible')){
+           if(!$('#UserTermsOfService').is(':checked')){
+               alert('Please agree to the Visualead Terms.');
+               return false;
+           }
+        }
+    });*/
+
+	
+	$('#sign_up_switch').click(function(){
+		$('#log_in_holder').hide();
+		$('#sign_up_holder').show();
+			});
+	
+	$('#log_in_switch').click(function(){
+		$('#sign_up_holder').hide();
+		$('#log_in_holder').show();
+			});
+	
+	
+	$('#slider_holder').visualslider({
+		'auto' : true,
+		'delay': 6000,
+		'slider_height' : 540,
+		'hover_pause' : false
+	});
+	
+	$('#call_to_action_button button').click(function(){
+		//return false;
+		var current_slider_id = $('#slider_holder .active').attr('id');
+		_gaq.push(['_trackEvent', 'Home', 'Home_CTA_'+current_slider_id+'_Clicked', current_slider_id]);
+	})
+	
+	$('.my_slider_prev').click(function(){
+		var current_slider = $('.active').attr('id');
+		_gaq.push(['_trackEvent', 'Home', 'Home_image_'+current_slider+'_shown', current_slider]);
+	});
+	
+	$('.my_slider_next').click(function(){
+		var current_slider = $('.active').attr('id');
+		_gaq.push(['_trackEvent', 'Home', 'Home_image_'+current_slider+'_shown', current_slider]);
+	});
+
+    setInterval(remove_loading_gif, 3000);
+    function remove_loading_gif(){
+        $('.feed_box_image').each(function(){
+            $(this).css({
+                'background' : '#ccc'
+            });
+            //alert($(this).attr('src'));
+        });
+    }
+	
+		
+	
+});
+	
+</script>
+</head>
+
+<body>
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "f1c939dc-2eec-486f-9013-2fef02da1a27"}); </script>
+
+<!-- start google analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33564887-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- end google anlytics -->
+
+<!-- start facebook --> 
+<div id="fb-root"></div>
+<script type="text/javascript">
+$(document).ready(function(){
+	(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=370352696317998";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+});
+
+</script>
+<!-- end facebook -->
+
+<div class="navigation"><div id="nav_holder" class="added_bg">
+<div id="logo">
+            <a href="/" title="Visual QR Code Generator homepage"><img src="/img/visual_qr_code/visualead_logo.png" height="64" width="223" alt="Visualead - Custom QR Code generator" title="Visual QR Code Generator"></a>        </div>         <div id="main_nav">
+        	<ul>
+   <li><a href="/qr-code-generator/select">Create</a></li>
+      <li><a href="/explore-qr-code-designs">Explore</a></li>
+   <li><a href="/features">Features</a></li>
+  <li class="no_border"><a href="/qr-code-tutorial">QR Tutorials</a></li> 
+   <!-- <li><a href="/about-us">About</a></li>-->
+   <!-- <li class="no_border"><a href="http://www.visualead.com/blog/">Blog</a></li>-->
+
+       <!--<ul class="sub_menu">
+           <li><a href="#">Blog</a></li>
+           <li><a href="#">About</a></li>
+       </ul> -->
+   
+<!-- <li class="no_border"><a href="#">Premium</a></li> -->
+</ul>
+        </div>
+
+
+
+<div class="hidden preload" style="position: absolute; overflow: hidden; left: -9999px; top: -9999px; height: 1px; width: 1px;">
+<img src="/img/login_body_bg.png" alt=""></div>
+<div id="members" class="memners_class">
+  <div class="members_box">
+  	
+    <a href="#login_pop_up" id="sign_in">Log in/Create account</a>
+  </div>
+</div>
+<div id="login_outer_holder">
+<div id="login_pop_up">
+    <div class="socila_logon">
+             <div class="members_heading">Log in with one click</div>
+        <div class="login_buttons" style="margin-left: 33px;"><a href="/users/auth_login/facebook" class="facebook_login">Login with Facebook</a></div>
+                <div class="login_buttons"><a href="/users/auth_login/google" class="google_login" target="_self">Login with Google</a></div>
+    </div>
+<div id="login">
+   <div id="login_center">
+      <div id="log_in_holder">
+   <div class="members_heading">Or, Log in with us <span style="font-family: Tahoma, Geneva, sans-serif; font-size: 14px;">(</span><a href="#" id="sign_up_switch">Create an account</a><span style="font-family: Tahoma, Geneva, sans-serif; font-size: 14px;">)</span></div>
+   <form action="/users/login_from_site_front_page" id="UserViewForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div>  
+   <div class="input text required"><input name="data[User][email]" id="login_email" placeholder="Email" maxlength="250" type="text"></div><div class="input password required"><input name="data[User][password]" id="login_password" placeholder="Password" type="password"></div><input type="hidden" name="data[User][front_page_log_in]" value="1" id="UserFrontPageLogIn"><div style="font-size: 10px; position: absolute; margin-left: 38px; margin-top: 5px;"><a id="forgot_password" href="/users/password_reset_email">Forgot your password?</a></div><div class="input checkbox"><input type="hidden" name="data[User][remember_me]" id="remembr_me_" value="0"><input type="checkbox" name="data[User][remember_me]" id="remembr_me" checked="checked" value="1"></div><div class="input submit"><div class="submit"><input id="login_submit" class="new_button" type="submit" value="Log in"></div></div>    <label for="remember_me" id="remember_me_label">Remember me</label>
+    <br><label id="terms_of_service_label">* By creating an account or logging in you agree to our <a href="/terms-of-use" target="_blank" style="font-size: 12px;">Terms of Use</a></label>        <!-- <input name="remember_me" id="remembr_me" type="checkbox" value="" checked />
+         
+         <input type="submit" id="login_submit" name="login_submit" value="" /> -->
+	</form>      
+      <!-- <div class="new_account"><a id="sign_up_switch" href="#">Create an account</a></div> -->
+      </div>
+      <div id="sign_up_holder">
+
+            <div class="members_heading">Or, Create an account <span style="font-family: Tahoma, Geneva, sans-serif; font-size: 14px;">(</span><a href="#" id="log_in_switch">Log in</a><span style="font-family: Tahoma, Geneva, sans-serif; font-size: 14px;">)</span></div>
+   <form action="/users/add_from_site" id="UserViewForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div>  
+   <div class="input text required"><input name="data[User][email]" id="login_email" placeholder="Email" maxlength="250" type="text"></div><div class="input password required"><input name="data[User][password]" id="login_password" placeholder="Password" type="password"></div><div class="input submit"><div class="submit"><input id="sign_up_submit" class="new_button" type="submit" value="Create account"></div></div><label id="terms_of_service_label">* By creating an account or logging in you agree to our <a href="/terms-of-use" target="_blank" style="font-size: 12px;">Terms of Use</a></label><input type="hidden" name="data[User][front_page_sign_up]" value="1" id="UserFrontPageSignUp"></form>        <!-- <input type="submit" id="login_submit" name="login_submit" value="" /> -->
+      
+      </div>
+   </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div id="outwrapper">
+
+
+<div id="wrapper" class="search_wrapper ">
+
+	
+    <div id="content_wrapper" class="no_bg_img  ">
+    
+    
+    
+    
+            <div style="margin-left: 50px; margin-top: 30px;">
+<div class="posts"><h1>
+	PRIVACY POLICY</h1>
+<p>
+	Visualead PRIVACY POLICY<br>
+	IMPORTANT: BY USING THE SERVICES (AS DEFINED BELOW) YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE COLLECTED, USED, PROCESSED AND SHARED BY Visualead IN THE MANNER AND FOR THE PURPOSES DESCRIBED IN THE FOLLOWING PRIVACY POLICY.<br>
+	IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS SET FORTH HEREIN DO NOT USE THE Visualead ON-LINE SERVICE.<br>
+	At Visualead Ltd. (“Visualead” and/or "We"), we recognize that privacy is important. This Policy applies to all of the software, services, content, information, tools, features and functionality located on this Site and/or offered by Visualead (collectively, the "Services") and covers how personal information that Visualead collects and receives is treated.<br>
+	If you have any questions about this Policy, please feel free to contact us at:&nbsp; privacy@visualead.com<br>
+	Information We Collect and How We Use It:<br>
+	In order to provide our Services, we may collect the following types of information:<br>
+	Information You Provide - When you sign up and/or use the Services, we ask you for registration information including without limitation: user name, password and contact information.<br>
+	Personal Information - We process your personal information only for provision of the Services and the purposes set forth herein. We ask only for data that is adequate, relevant and not excessive for those purposes.<br>
+	Aggregate Information - When you use our Services, we automatically receive and record aggregate information including, without limitation, in respect of :&nbsp; (i) account activities, your users' activities with regards to scanning your barcodes; (ii) documents and browser, including your cookie information, software and hardware attributes. Visualead uses all of the information that we collect to understand the usage trends and preferences of our users and their users, to improve the way the Site works and looks, to inform customers about statistic information regarding users' exposure to the Services and to create new features and functionality<br>
+	Document Download- We may download/store cache content you created or uploaded to our Site on our servers for the sole purpose of obtaining the functionality of the Service.<br>
+	Cookies - When you use our Site, we may send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user information. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Services may not function properly if your cookies are disabled. Visualead&nbsp; may use “Automatically Collected” information and “Cookies” information to:&nbsp; (a) automatically update the Service on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access; (c) monitor aggregate site usage metrics such as total number of visitors and pages accessed; (d) provide such metrics to users as they pertain to such user’s uploaded content; and (e) track your entries, submissions, and status in any promotions or other activities<br>
+	User Communications - When you send email or other communication to Visualead, we may retain those communications in order to process your inquiries, respond to your requests and improve our Services.<br>
+	Links - Links to other sites may be provided by Visualead as a convenience to our customers. Visualead is not responsible for the privacy practices of other sites. This privacy statement applies solely to information collected by us.<br>
+	Children – If you are a child under the age of 18, you must obtain parental consent prior to using our Service. Visualead will not knowingly contact or engage with children under the age of 18 without said parental consent. If you have reason to believe that a child has provided us with their personal information, please contact us at the address given above and we will endeavor to delete that information from our databases.<br>
+	Maintenance- Visualead uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Site as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act. &nbsp;<br>
+	eMail- We may use your email address, without further consent, for administrative communications such as notifying you of major Site updates, for customer service purposes, to address copyright infringement or defamation issues, or to contact you regarding any content that you have posted to or downloaded from the Site.<br>
+	Data Retention- You agree that Visualead may retain (but shall have no obligation to retain) your data for a limited reasonable period after your trial or license has been terminated, expired, or otherwise lapsed, for the sole purpose of enabling you to renew your license to the Services shortly thereafter.<br>
+	<br>
+	Purpose and Choice:<br>
+	If we use your personal information in a manner different than the purpose of the Services, then we will ask for your consent prior to such use. &nbsp;<br>
+	You can decline to submit personal information, in which case Visualead may not be able to provide you with Services.<br>
+	Information Sharing:<br>
+	Visualead only shares personal information with other companies or individuals in the each of following limited circumstances:<br>
+	We have obtained your consent.<br>
+	We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf solely for the purpose of providing the Services. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures.<br>
+	We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable agreements and/or their terms, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Visualead, its users or the public as required or permitted by law.<br>
+	If we become involved in a merger, acquisition, or any form of sale of some or all of our assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.<br>
+	Please contact us at the above address for any additional questions about the management or use of personal data.<br>
+	Sensitive Information &amp; Information about third parties:<br>
+	You may not post, transmit or publish through the Services any information about third parties without having their explicit consent. You may not post, transmit or publish through the Services any sensitive information, whether the information is yours or another's'.<br>
+	Privacy Settings:<br>
+	Choosing to make your information and content public is exactly what it sounds like: anyone, including people off of Visualead, will be able to see it.<br>
+	Choosing to make your information public also means that this information and content:<br>
+	Can be associated with you (i.e., your name, profile picture, Visualead profile, User ID, etc.);<br>
+	In case you included in your content links to your social media accounts, your information and content can be associated with you and any information about you which is published on the said accounts;<br>
+	Can show up when someone does a search on Visualead or on a public search engine.<br>
+	Information Security:<br>
+	We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.<br>
+	We strive to maintain the reliability, accuracy, completeness and currency of personal information that we collect and to protect the privacy and security of our customers. We keep your personal information only for as long as reasonably necessary for the purposes for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements.<br>
+	We have reasonable physical, electronic, and procedural security measures and safeguards to protect personal information. Our servers and our databases are protected by industry standard security technology, such as industry standard firewalls and password protection.<br>
+	Although we cannot guarantee against any loss, misuse, unauthorized disclosure, alteration or destruction of data, we try to prevent such unfortunate occurrences.<br>
+	Please contact us at the above address for any additional questions about our information security or the protection of personal data.<br>
+	Accessing and Updating Personal Information<br>
+	You agree to provide true, accurate, complete and current information. For your protection you agree not to share your registration information (including your user name and password) with any third party for any purpose and you are aware that the said information is under your sole responsibility. You are solely responsible for protecting the information on your computer and such as by installing anti-virus software, updating your applications, password protecting your files, and not permitting third party access to your computer.<br>
+	Upon receipt of your written request and enough information to permit us to identify your personal information, we will disclose to you the information we hold about you. We will also correct, amend or delete any personal information that is inaccurate and notify any third party recipients of the necessary changes.<br>
+	We do not charge for complying with a correction request, however, for all other requests, we may charge a small fee to cover its costs. Requests to delete personal information are subject to any applicable legal and ethical reporting or document retention obligations imposed on Visualead.<br>
+	We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical, or for which access is not otherwise required.<br>
+	Please contact us at the above address for any additional questions or to access and update personal information.<br>
+	Enforcement:<br>
+	Visualead regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or our treatment of personal information by contacting us as provided above. When we receive formal written complaints it is Visualead's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal information that cannot be resolved between Visualead and an individual.<br>
+	Changes to this Privacy Policy:<br>
+	Visualead may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site. We will ask for your consent for material changes (i.e. using personal information for entirely different purposes than those herein or transfer of information to third parties other than in the manner set forth herein).<br>
+	Questions:<br>
+	If you have any questions about this Privacy Policy or concerns about the way we process your personal information, please contact us at privacy@visualead.com<br>
+	Terms of Use:<br>
+	Our <a href="/terms-of-use">Terms of Use</a> apply to this Privacy Policy.</p>
+</div></div>        <div class="clear_both"></div>
+    </div>
+</div>
+<div id="footer">
+<div id="infooter">
+   <div class="social_holder">
+	<h3>40036 QR Code designs created with overall 356156 Scans</h3>
+        	<div class="facebook_holder">
+            	<div class="fb-like-box" data-href="http://www.facebook.com/visualead" data-width="366" data-height="185" data-show-faces="true" data-stream="false" data-border_color="#f1f1f1" data-header="false"></div>
+            </div>
+            <div class="twitter_holder">
+            	<div class="twitter_widget">
+                	<div class="twitter_link">
+
+                <a href="http://www.twitter.com/visualead"><img src="/img/twitter_link_with_text.png" width="200" height="73" alt="Follow us on twitter"></a>
+                        </div>
+                        <div class="twitter_feed">
+                        <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+						<script>
+							new TWTR.Widget({
+ 								version: 2,
+  								type: 'profile',
+  								rpp: 1,
+  								interval: 30000,
+  								width: 300,
+  								height: 300,
+  								theme: {
+    								shell: {
+      								background: '#ffffff',
+      								color: '#9296a4'
+    							},
+    							tweets: {
+      								background: '#fafafa',
+      								color: '#b1b4c0',
+      								links: '#9296a7'
+    								}
+  								},
+  								features: {
+    								scrollbar: false,
+    								loop: false,
+   									live: false,
+    								behavior: 'all'
+  								}
+								}).render().setUser('visualead').start();
+							</script>
+                           
+                    </div>
+                
+            </div>
+        </div>
+        
+        
+<div id="home_page_social">
+<!-- Place this tag where you want the +1 button to render -->
+<g:plusone size="medium" annotation="none"></g:plusone>
+
+<!-- Place this render call where appropriate -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/FollowCompany" data-id="2602981" data-counter="none"></script>
+<a href="https://twitter.com/visualead" class="twitter-follow-button" data-show-count="false">Follow @visualead</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+    <div class="clear_both"></div>
+</div>
+      
+     	<div id="footer_mailing_list">
+        	<div class="mailing_list_text">Get email updates:</div>
+            <form action="/subscriptions/add" id="SubscriptionAddForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div><div class="input text required"><input name="data[Subscription][name]" id="mailing_name" placeholder="Your name" maxlength="250" type="text"></div><div class="input text required"><input name="data[Subscription][email]" id="mailing_email" placeholder="Email address" maxlength="250" type="text"></div><div class="submit"><input type="submit" value="Subscribe"></div></form>        </div>
+         <div id="footer_menus">
+           <ul class="first_menu">
+            	<li><a href="/about-us">About</a></li>
+                <li><a href="/contact">Contact</a></li>
+               <li><a href="/media-kit">Media Kit</a></li>
+                <li><a href="/FAQ">FAQ</a></li>
+                <li><a href="/terms-of-use">Terms Of Use</a></li>
+                <li><a href="/privacy-policy">Privacy Policy</a></li>
+
+            </ul>
+            <ul>
+            	<!-- <li><a href="#">Blog</a></li> -->
+                <li><a href="https://www.facebook.com/visualead">Facebook</a></li>
+                <li><a href="https://www.twitter.com/visualead">Twitter</a></li>
+                <li><a href="https://plus.google.com/u/0/b/107767813642938920194/107767813642938920194">Google+</a></li>
+				<li><a href="https://pinterest.com/visualead/">Pinterest</a></li>
+            </ul>
+            <ul>
+             				<li><a href="/qr-code-generator/select">Create</a></li>
+				<li><a href="/explore-qr-code-designs">Explore</a></li>
+                <li><a href="http://www.visualead.com/blog/">Blog</a></li>
+                <li><a href="/site_map">Site Map</a></li>
+                <li><a href="/api">API</a></li>
+            </ul>			
+          	
+        </div>
+        <div id="footer_social">
+        	<div class="follow_us">
+            	
+                <img src="/img/new_look_img/follow_us.png" width="122" height="33" alt="Follow Us">            </div>
+            <div class="social_icons">
+            	<div class="social_icon"><a href="https://www.facebook.com/visualead" class="facebook"></a></div>
+                <div class="social_icon"><a href="https://www.twitter.com/visualead" class="twitter"></a></div>
+                <!-- <div class="social_icon"><a class="be" href="#"></a></div> -->
+                <div class="social_icon"><a href="http://www.linkedin.com/company/visualead" class="linkedin"></a></div>
+                <div class="social_icon"><a href="/contact" class="mail"></a></div>
+            </div>
+        </div>
+    </div>   <div class="clear_both"></div>
+   <div id="copyright">
+    	Copyright 2012 Visualead all rights reserved | QR Code is a registered trademark of DENSO WAVE INCORPORATED
+    </div>
+   </div>
+    
+
+</div><!-- ClickTale Bottom part -->
+<!-- ClickTale end of Bottom part -->
+
+
+</body></html>
