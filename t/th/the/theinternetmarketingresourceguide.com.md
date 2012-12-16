@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinternetmarketingresourceguide.com privacy policy that was archived on 2012-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120104063238id_/http%3A//theinternetmarketingresourceguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinternetmarketingresourceguide.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216012450id_/http%3A//theinternetmarketingresourceguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
