@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the compareandsave.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531032904id_/http%3A//www.compareandsave.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compareandsave.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217003200id_/http%3A//www.compareandsave.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Compare and Save
+# Privacy Policy | compareandsave.com
 
 [Home](https://web.archive.org/) / Privacy Policy
 
