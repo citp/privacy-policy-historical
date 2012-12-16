@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curata.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519054619id_/http%3A//www.curata.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curata.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216152948id_/http%3A//www.hivefire.com/privacy) for the most accurate reproduction.*
 
 # Content Curation Company: Privacy Policy - Curata
 
@@ -52,4 +52,4 @@ This Privacy Policy applies to services that are owned and operated by us.  It 
 
 We reserve the right to modify the provisions of this Privacy Policy if deemed necessary. We will inform you of these changes by publishing the revised Privacy Policy at www.hivefire.com/privacy.  The revised Privacy Policy shall become effective within thirty (30) days of such publishing, unless you expressly accept the revised statement earlier by clicking on the accept button.  You agree that the express acceptance by you, or your continued use of the Service after the notice period of thirty (30) days, shall constitute your acceptance of the Privacy Policy.
 
-If you would like to exercise your right to view, correct, complete or remove your Personal Data, please contact us at privacy@hivefire.com. Upon verification of your identity, we will attempt to quickly fulfill your request, provided we will not act contrary to applicable legislation by fulfilling your request.
+If you would like to exercise your right to view, correct, complete or remove your Personal Data, please contact us at privacy@curata.com. Upon verification of your identity, we will attempt to quickly fulfill your request, provided we will not act contrary to applicable legislation by fulfilling your request.
