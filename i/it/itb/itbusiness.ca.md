@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itbusiness.ca privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615161433id_/http%3A//www.itbusiness.ca/it/client/en/Home/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itbusiness.ca privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216124552id_/http%3A//www.itbusiness.ca/it/client/en/Home/Privacy.asp) for the most accurate reproduction.*
 
 # IT Business - Business Advantage through Technology
 
@@ -91,7 +91,7 @@ When you access some sections of ITBusiness.com or advertisements, we may store 
 
 **1X1 PIXEL TAGS**
 
-This site uses clear gifs pixel tags or other technologies to help manage our on-line advertising. These technologies may be in use in a number of locations throughout the site, and work in association with cookies. The information we collect and share through this technology is not personally identifiable. For more information about our ad-serving company or for your choices about not having this anonymous information used, please click here [www.doubleclick.net](https://web.archive.org/web/20120615161433id_/http%3A//www.itbusiness.ca/it/client/en/Home/www.doubleclick.net)
+This site uses clear gifs pixel tags or other technologies to help manage our on-line advertising. These technologies may be in use in a number of locations throughout the site, and work in association with cookies. The information we collect and share through this technology is not personally identifiable. For more information about our ad-serving company or for your choices about not having this anonymous information used, please click here [www.doubleclick.net](https://web.archive.org/web/20121216124552id_/http%3A//www.itbusiness.ca/it/client/en/Home/www.doubleclick.net)
 
 **LINKS TO NON-IT WORLD CANADA WEB SITES**
 
