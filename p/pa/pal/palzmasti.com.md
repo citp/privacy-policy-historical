@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the palzmasti.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509203123id_/http%3A//palzmasti.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palzmasti.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216183435id_/http%3A//palzmasti.org/privacy_policy.php) for the most accurate reproduction.*
 
-# PalzMasti
+# Palzmasti : Bollywood Hot Actress, Wallpaper, Jokes, Games, Screesavers, E-cards and Event Gallery
 
 ### Forum Privacy and  
   
@@ -8,9 +8,9 @@ Last Updated: 5th September 2009
   
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at vb:raw palzmasti@gmail.com.
 
-The privacy of our visitors to http://palzmasti.com is important to us.
+The privacy of our visitors to http://palzmasti.org is important to us.
 
-At PalzMasti, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit http://palzmasti.com, and how we safeguard your information. We never sell your personal information to third parties. 
+At Palzmasti : Bollywood Hot Actress, Wallpaper, Jokes, Games, Screesavers, E-cards and Event Gallery, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit http://palzmasti.org, and how we safeguard your information. We never sell your personal information to third parties. 
 
 ## Google Adsense 3rd Party Cookie Info
 
@@ -20,7 +20,7 @@ At PalzMasti, we recognize that privacy of your personal information is importan
 
 
 
-As with most other websites, http://palzmasti.com collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+As with most other websites, http://palzmasti.org collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
 ## Forum Privacy Policy 
 
@@ -37,7 +37,7 @@ As with most other websites, http://palzmasti.com collect and use the data conta
 
 Registration is not necessary for the public to use this Web site. However, members must register in order to gain access to adding threads to the Web site. During registration, you must complete the registration form and create a user name and password. During registration you are required to give us contact information. We use this information to contact you about the services on our site in which you have expressed interest.
 
-http://palzmasti.com is the sole owner of the information collected on this Web site.
+http://palzmasti.org is the sole owner of the information collected on this Web site.
 
 **Changes in this Privacy Statement**  
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  
