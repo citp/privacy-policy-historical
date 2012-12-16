@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zombieroomie.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618164723id_/http%3A//www.zombieroomie.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zombieroomie.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216124353id_/http%3A//www.zombieroomie.com/privacypolicy) for the most accurate reproduction.*
 
 # Zombie Roomie - Privacy Policy
 
