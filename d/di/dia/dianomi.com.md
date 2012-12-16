@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dianomi.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530002634id_/http%3A//www.dianomioffers.co.uk/legal/privacy.epl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dianomi.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216133756id_/http%3A//www.dianomioffers.co.uk/legal/privacy.epl) for the most accurate reproduction.*
 
-# Dianomi Limited - Privacy Policy
+# Privacy Policy - dianomi - intelligent customer acquisition
 
 Your privacy is important to us. To better protect your privacy, this notice explains our information practices and the choices you can make about the way your information is collected and used by Dianomi Ltd. ("Dianomi") on and through the Dianomi website and the services offered on the Dianomi website (the "Website" ) 
 
