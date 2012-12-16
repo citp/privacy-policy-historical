@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ala.org privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601233743id_/http%3A//www.ala.org/ala/footer/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ala.org privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216020036id_/http%3A//www.ala.org/privacypolicy) for the most accurate reproduction.*
 
-# ALA | Privacy Policy
+# ALA Privacy Policy | American Library Association
 
 _(April 3, 2003; revised to remove links to former content management system, September 18, 2008)_
 
@@ -20,10 +20,10 @@ Any credit card information you provide for goods or services is secure and used
 
 During your visit, as you browse through the web site, read pages, or download information, we will automatically gather and store certain information about your visit but not about you. This information does not identify you personally. We automatically collect and store only the following information about the visit:
 
-  1. The Internet domain (for example, "xcompany.com," if a private Internet access account, or "aschool.edu," if connected from a university) and IP address (the number that is automatically assigned to a computer whenever it is surfing the web) from which access to our web site is gained; 
-  2. The type of browser and operating system used to access our site; 
-  3. The date and time of access to our site; 
-  4. The pages visited and the length of time visited; and 
+  1. The Internet domain (for example, "xcompany.com," if a private Internet access account, or "aschool.edu," if connected from a university) and IP address (the number that is automatically assigned to a computer whenever it is surfing the web) from which access to our web site is gained;
+  2. The type of browser and operating system used to access our site;
+  3. The date and time of access to our site;
+  4. The pages visited and the length of time visited; and
   5. The address of the website from which the initial visit was launched, if any.
 
 
