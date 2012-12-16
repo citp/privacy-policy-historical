@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digdang.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618005738id_/http%3A//www.digdang.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digdang.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216163257id_/http%3A//www.digdang.com/privacy) for the most accurate reproduction.*
 
 # Dig Dang Privacy Policy - Dig Dang!
 
