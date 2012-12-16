@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palacecinemas.com.au privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618144600id_/http%3A//www.palacecinemas.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palacecinemas.com.au privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216174701id_/http%3A//www.palacecinemas.com.au/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Palace Cinemas | Share our passion.
 
@@ -154,12 +154,17 @@ If Palace does withhold Personal Information, Palace will provide written reason
 
 Palace may from time to time employ subcontractors to provide services to it. In these situations, Personal Information may be collected about those subcontractors. This Privacy Policy applies equally to those subcontractors.
 
-**10\. WHO TO CONTACT**
+**10\. SECURITY POLICY**
 
-**11\. MODIFICATIONS TO THIS DOCUMENT**
+Palace When purchasing from Palace Cinemas your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology. 128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard. If you have any questions regarding our security policy, please contact Palace Cinemas (see 11. WHO TO CONTACT)   
+
+
+**11\. WHO TO CONTACT**
+
+**12\. MODIFICATIONS TO THIS DOCUMENT**
 
 Palace may modify this Privacy Policy and the way it handles Personal Information at any time in its sole discretion.
 
-**12\. FURTHER INFORMATION**
+**13\. FURTHER INFORMATION**
 
 Further information on privacy can be obtained from the Privacy Commissioner at [www.privacy.gov.au](http://www.privacy.gov.au/)
