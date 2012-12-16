@@ -1,0 +1,7 @@
+> *The following text is extracted and transformed from the iheartbudgets.net privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216165208id_/http%3A//www.iheartbudgets.net/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy - iHeartBudgets
+
+**Personal Information Collected on this Website** No personally-identifiable information is collected on this website from persons that browse our website. The only personally-identifiable information collected on this website is gathered in our comment area, where fields are provided so that you can provide your name and email address to leave a comment. We collect this information so that we can respond to the comments or questions that you post.
+
+**Anonymous Information Collected on this Website** We record anonymous data. Most of the information that we collect from this website is anonymous information, such as the pages you visit. Other anonymous data we may collect might include the name of your internet service provider, the website that you used to link to our site, the websites that you visit from our site, and your IP address. The data is used for statistical purposes, but you, as the individual user, remain anonymous. We use this anonymous information to help improve the content of this site and to compile aggregate statistics about individuals using our site for internal market research purposes.
