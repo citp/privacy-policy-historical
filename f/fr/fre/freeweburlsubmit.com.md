@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeweburlsubmit.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617145046id_/http%3A//www.freeweburlsubmit.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeweburlsubmit.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216171836id_/http%3A//www.freeweburlsubmit.com/privacypolicy) for the most accurate reproduction.*
 
 # Submit Free Web Url - Privacy Policy
 
