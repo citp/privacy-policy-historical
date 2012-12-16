@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the faxo.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520040555id_/http%3A//faxo.com/faxo/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faxo.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216164229id_/http%3A//faxo.com/privacy) for the most accurate reproduction.*
 
-# Faxo - Privacy Policy
+# Faxo
 
 Last modified: April 10, 2008 
 
@@ -10,7 +10,7 @@ Faxo respects the privacy of its users. Its Privacy Policy applies to all produc
 
 Faxo is registered with the U.S. Department of Commerce’s safe harbor program and abides by its principles of notice, choice, onward transfer, data integrity, security, access and enforcement. 
 
-We hope you will take time to read this policy. Please contact us if you have any questions or comments [here](http://faxo.com/faxo/Contact/) . 
+We hope you will take time to read this policy. Please contact us if you have any questions or comments [here](https://web.archive.org/faxo) . 
 
 ## Personal Data
 
@@ -65,4 +65,4 @@ This Privacy Policy will change, evolving over time. However, your rights as a F
 
 ## Policy Enforcement
 
-A regular review of Faxo’s policy compliance will be made. If you have suggestions or complaints, contact us [here](http://faxo.com/faxo/Contact/). Complaining users will be contacted regarding concerns. In the situation where a complaint can not be resolved, appropriate regulatory authorities will be utilized. 
+A regular review of Faxo’s policy compliance will be made. If you have suggestions or complaints, contact us [here](https://web.archive.org/faxo). Complaining users will be contacted regarding concerns. In the situation where a complaint can not be resolved, appropriate regulatory authorities will be utilized. 
