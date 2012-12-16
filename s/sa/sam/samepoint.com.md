@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the samepoint.com privacy policy that was archived on 2012-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120320014006id_/http%3A//www.samepoint.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samepoint.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216055141id_/http%3A//www.samepoint.com/help/privacy) for the most accurate reproduction.*
 
-# Samepoint Social Conversation Search Privacy Policy
+# Samepoint Search | Reputation Management Social Media Search - Privacy Policy
 
-  
 Samepoint LLC. has adopted this privacy policy in order to ensure users of our commitment and dedication to privacy. The following privacy guidelines apply to the website "Samepoint.com" (Site). Samepoint LLC. respects your right to privacy. We invite you to visit our site to search or browse the site without revealing who you are or registering with us. However, if you choose to give us personal information via the Internet that we may need, it is our intent to let you know how we will use such information. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will endeavor to respect your wishes. 
 
 **Registration**
 
-Registration is not required to gain access to the Site. However, there are sections of the website which do require a password, some examples include call detail demos and account information.
+Registration is not required to gain access to the Site. However, there are sections of the website which do require a password.
 
 **Collection of IP addresses and the use of "Cookies"**
 
@@ -29,7 +28,7 @@ This Site is intended for adult use only. It is not intended for children, and w
 
 **Contact**
 
-If you have any questions about this Site, please email the webmaster at webteam@Samepoint.com.com
+If you have any questions about this Site, please email the webmaster at learn@Samepoint.com
 
 **Nature of Data on the Internet**
 
