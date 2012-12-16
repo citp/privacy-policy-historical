@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the chapter7.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513135911id_/http%3A//www.chapter7.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chapter7.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216175255id_/http%3A//www.chapter7.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Chapter 7 Bankruptcy
+# Chapter7.com Privacy Policy for this Bankruptcy Website
 
 ## Last Updated: August 2011
+
+This is the privacy policy for [the Chapter7.com website](http://www.chapter7.com/ "Chapter 7 Bankruptcy Home Page").
 
 All of the information we obtain about you is stored securely on our servers and we use it only to identify the sponsoring lawyers or law firms in your geographical area and to connect you with them, as described in our [Terms and Conditions](http://www.chapter7.com/terms-conditions/) to you, to allow sponsoring lawyers or law firms to evaluate your case and provide legal services to you and to provide ongoing communications to you in furtherance of these legal services, and as set forth below. Except as set forth below, we will not share your personal information with anyone else without your permission. Any third party to whom we provide your information must agree to keep your information confidential and not to share it with any other third party without your permission. We describe our information collection and disclosure practices in greater detail below.
 
@@ -26,9 +28,9 @@ All of the information we obtain about you is stored securely on our servers and
 
   * to identify the sponsoring lawyers or law firms in your geographical area and to connect you with them, as described in our [Terms and Conditions](http://www.chapter7.com/terms-conditions/)
   * to allow sponsoring lawyers or law firms to evaluate your case and provide legal services to you
-  * to provide ongoing communications to you in furtherance of these legal services and to share 
+  * to provide ongoing communications to you in furtherance of these legal services and to share
   * information and offers that we think may interest you
-  * to perform research on access to and consumption of legal services, and 
+  * to perform research on access to and consumption of legal services, and
   * to evaluate your experience on our site and make improvements to it.
 
 
