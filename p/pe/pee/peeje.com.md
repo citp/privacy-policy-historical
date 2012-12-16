@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the peeje.com privacy policy that was archived on 2012-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120328214639id_/http%3A//www.peeje.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peeje.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216012710id_/http%3A//www.peejeshare.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  * [](http://www.peeje.com/)
+  * [](http://www.peejeshare.com/)
 
 
 
