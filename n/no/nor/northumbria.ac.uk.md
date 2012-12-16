@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northumbria.ac.uk privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617143006id_/http%3A//www.northumbria.ac.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northumbria.ac.uk privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216014409id_/http%3A//www.northumbria.ac.uk/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Northumbria University, Newcastle UK
 
