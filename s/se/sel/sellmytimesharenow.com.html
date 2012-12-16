@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sellmytimesharenow.com privacy policy that was archived on 2012-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618014231id_/http%3A//www.sellmytimesharenow.com/main/index/content/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sellmytimesharenow.com privacy policy that was archived on 2012-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121216182051id_/http%3A//www.sellmytimesharenow.com/main/index/content/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>timeshare resales and rentals, buy and sell timeshare fast and easy</title>
@@ -13,10 +13,9 @@
 <link rel="SHORTCUT ICON" href="http://www.sellmytimesharenow.com/favicon.ico">
 
 <style type="text/css">
- <!-- @import url("http://www.sellmytimesharenow.com/main-new.css"); -->
-        
-                
-
+ <!-- @import url("http://www.sellmytimesharenow.com/main-new.css?v=1350067514"); -->
+                        
+    
 </style>
 <link href="http://www.sellmytimesharenow.com/print.css" media="print" type="text/css" rel="stylesheet">
 
@@ -45,19 +44,20 @@ $('#Wrapper').ready( function()
 	$('li.MainNavLink, li.MainNavLinkFirst, li.MainNavLinkLast').each( function()
 	{
 		var uWidth = $(this).width();
-		var uHeight = $(this).height();
+		var uHeight = $(this).parents('div:first').height();
 		var mWidth = $(this).children('ul.MenuList').width();
 		
 		$(this).hover( function() {
 			var pos = $(this).position();
 			var uLeft = pos.left;
 			var uTop = pos.top;
-			$(this).children('ul.MenuList').css({'width' : mWidth, 'left' : uLeft, 'top' : (uTop + uHeight)});
-			$(this).children('ul.MenuList').show();
+			$(this).children('div.MenuList').css({'width' : mWidth, 'left' : uLeft, 'top' : (uTop + uHeight)});
+			$(this).children('div.MenuList').show();
+			
 			$(this).addClass('MainNavActive');
 		},function(){
-			$(this).children('ul.MenuList').hide();
-			$(this).removeClass('MainNavActive');	
+			$(this).children('div.MenuList').hide();
+			$(this).removeClass('MainNavActive');
 		});
 		
 	});
@@ -70,15 +70,66 @@ $('#Wrapper').ready( function()
 <a name="top"></a>
 <div id="Wrapper">
  <div id="Header">
-    <div class="headerPhone">
-    	Call Toll Free: <span class="tollFreePhone">1-877-815-4227</span><br>
-		<span class="internationalPhone">International: 1-603-516-0200</span>        
-    </div>
-  	<a href=""><img src="images/template-new/header-sellmytimesharenow-logo.png" alt="SellMyTimeshareNOW"></a>
+  	<div class="headerPhone">
+	Call Toll Free: <span class="tollFreePhone">1-877-815-4227</span><br>
+	<span class="internationalPhone">International: 1-603-516-0200</span>
+</div>
+  	<a href=""><img src="images/template-new/header-sellmytimesharenow-logo.png" alt="SellMyTimeshareNOW" style="height: 96px; padding:0px; margin:0px;"></a>
   <div id="MainNav">
 		
     <ul id="MainNavLinksList">
-    	<li id="SearchBox"><div id="topNavSearch">
+        <li class="MainNavLink">
+        	Find A Timeshare
+            <div class="MenuList">
+            	<ul>
+                    <li><a href="timeshare/All+Timeshare/vacation/">Search All Timeshares</a></li>
+                    <li><a href="timeshares/index/content/searchsell/">Timeshares for Sale</a></li>
+                    <li><a href="timeshares/index/content/searchrent/">Timeshare Rentals</a></li>
+                    <li><a href="last-minute-timeshare-rentals/">Last-Minute Timeshare Rentals</a></li>
+                    <li><a href="resorts/">Timeshare Resorts</a></li>
+                    <li><a href="timeshares/">Browse by Destination</a></li>
+                    <li><a href="locate-ad/">Search by Ad Number</a></li>
+               </ul>
+            </div>
+        </li>
+        <li class="MainNavLink">
+        	Resources
+            <div class="MenuList">
+            	<ul>
+                    <li><a href="resources/index/content/timeshare/">Timeshares</a></li>
+                    <li><a href="resources/index/content/calendar/">Timeshare Calendar</a></li>
+                    <li><a href="timeshares/index/content/buyerfaq/">Timeshare Resales</a></li>
+                </ul>
+            </div>
+        </li>
+        <li class="MainNavLink">
+        	Sell Your Timeshare
+            <div class="MenuList">
+            	<ul>
+                    <li><a href="owners/index/content/selltime/">Sell Timeshare</a></li>
+                    <li><a href="owners/index/content/renttime/">Rent Your Timeshare</a></li>
+                    <li><a href="owners/index/content/marketsell/">What's My Timeshare Worth?</a></li>
+                    <li><a href="owners/index/content/buyeroffers/">Live Feed of Offers</a></li>
+                    <li><a href="owners/index/content/about/">Timeshare Sales</a></li>
+                    <li><a href="owners/index/content/forsellers/">About Our Services</a></li>
+                    <li><a href="owners/index/content/sellerfaq/">Frequently Asked Questions</a></li>
+                </ul>
+           </div>
+        </li>
+        <li class="MainNavLinkLast">
+        	About Us
+            <div class="MenuList">
+            	<ul>
+                    <li><a href="company/">About SellMyTimeshareNow</a></li>
+                    <li><a href="company/index/content/careers/">Careers at SellMyTimeshareNow</a></li>
+                    <li><a href="services-for-resorts/">Services for Resorts</a></li>
+                    <li><a href="media/">Press Center</a></li>
+                    <li><a href="contact/">Contact Us</a></li>
+                </ul>
+           </div>
+            
+        </li>
+        <li id="SearchBox"><div id="topNavSearch">
     <form name="topNavSearchForm" id="topNavSearchForm" action="timeshare/" method="get">
         <input type="text" name="query" id="topNavSearchBox" autocomplete="off" value="Search Resorts, Locations, Keywords" style="color:#999;">
         <input type="submit" value="" class="topNavSearchButton">
@@ -86,49 +137,7 @@ $('#Wrapper').ready( function()
         <div id="topNavAutoComplete">
         </div>
     </form>
-</div></li>
-        <li class="MainNavLink">
-        	<a href="timeshares/" class="MainNavLinkItem">Buyers &amp; Renters</a>
-            <ul class="MenuList">
-            	<li class="SubMenu">
-                	<ul class="SubList">
-            			<li><a href="timeshares/index/content/searchsell/">Search Timeshares for Sale</a></li>
-            			<li><a href="timeshares/index/content/searchrent/">Search Timeshares for Rent</a></li>
-            			<li><a href="timeshares/united-states/">US Timeshare</a></li>
-						<li><a href="resources/index/content/International_Timeshare/">International Timeshare</a></li>
-						<li><a href="resorts/">Timeshare Resorts</a></li>
-                    </ul>
-                    <ul class="SubList">
-						<li><a href="resources/index/content/timeshare/">Timeshares</a></li>
-						<li><a href="resources/index/content/calendar/">Timeshare Calendar</a></li>
-						<li><a href="resources/index/content/timeshare_exchange_companies/">Timeshare Exchange</a></li>
-						<li><a href="timeshares/index/content/buyerfaq/">Timeshare Resale FAQ</a></li>
-						<li><a href="timeshares/index/content/featuredads/">View Featured Ads</a></li>
-					</ul>
-        		</li>
-           </ul>
-        </li>
-    	<li class="MainNavLink">
-        	<a href="owners/" class="MainNavLinkItem">Timeshare Owners</a>
-            <ul class="MenuList">
-            	<li><a href="owners/index/content/selltime/">Sell Your Timeshare</a></li>
-            	<li><a href="owners/index/content/renttime/">Rent Your Timeshare</a></li>
-            	<li><a href="owners/index/content/marketsell/">Find Timeshare Resale Values</a></li>
-               	<li><a href="owners/index/content/sellerfaq/">Timeshare Seller FAQ</a></li>
-            	<li><a href="owners/index/content/forsellers/">About Timeshare Resellers</a></li>
-            	<li><a href="owners/index/content/buyeroffers/">View Buyer Offers</a></li>
-            	<li><a href="owners/index/content/about/">Timeshare Sales</a></li>
-            </ul>
-        </li>
-        <li class="MainNavLinkLast">
-        	<a href="company/" class="MainNavLinkItem">Company Info</a>
-            <ul class="MenuList">
-            	<li><a href="contact/">Contact Us</a></li>
-                <li><a href="company/index/content/careers/">Careers</a></li>
-                <li><a href="media/">Media Center</a></li>
-            </ul>
-        </li>
-    </ul>	
+</div></li>    </ul>	
   </div>
  </div>
 
@@ -200,7 +209,8 @@ $('#Wrapper').ready( function()
     
     <h2>The Information We Collect and Use</h2>
     <p>In general, SMTN uses the information we receive from you, whether personal, demographic, or technical, primarily to deliver Services and to operate and create a positive user experience on the Web Site. The information we collect includes:</p>
-	<p><strong>Your Personal Information.</strong> In some areas of our Web Site, you may be asked to provide "Personal Information," meaning any information that is unique to you, including identifying information such as your name, address, e-mail address, telephone number, and your credit card information if you are reserving a Timeshare or purchasing any of our Services. We may use your Personal Information to communicate with you by e-mail or other methods, to seek your input regarding products and services, and to inform you of new opportunities or promotional offers. By choosing to provide us with Personal Information, you are consenting to the use of that information in accordance with the policies and practices described in this Privacy Statement.</p>
+    
+	<p><strong>Your Personal Information.</strong> In some areas of our Web Site, you may be asked to provide "Personal Information," meaning any information that is unique to you, including identifying information such as your name, address, e-mail address, telephone number, and your credit card information if you are reserving a Timeshare or purchasing any of our Services. We may use your Personal Information to communicate with you by e-mail or other methods, to seek your input regarding products and services, to refer your inquiry to similar or identical property advertisers, and to inform you of new opportunities or promotional offers. By choosing to provide us with Personal Information, you are consenting to the use of that information in accordance with the policies and practices described in this Privacy Statement.</p>
 	<p>In some areas of the Web Site, such as our online forum and in Ads, users of the Web Site (such as yourself) provide the content that they would like to post. Our policy in these situations is to refuse to post Personal Information; however, we cannot be responsible for Personal Information or other identifying information that you may choose to include in your forum posting or Ad.</p>
 	<p><strong>Your IP Address.</strong> Like most web sites, we receive certain information about your use of the Web Site, such as what areas you visit and what services you access. We gather information about your computer hardware and software, such as your Internet Protocol ("IP") address and browser type. An IP address is a number that is automatically assigned to your computer when you use the Internet. We may use IP addresses to help diagnose problems with our server, administer our Web site, analyze trends, track users' movements, gather broad demographic information for aggregate use in order for us to improve the Web Site, and in general, to provide you the functionality that you see on the Web Site.</p>
 	<p><strong>Cookies.</strong> Another common practice SMTN follows is the use of cookies. A cookie is a piece of text that attaches to your computer's hard drive, that can store and sometimes track information on how you make use of a web site. Cookies do not run any programs or deliver viruses to your computer. One of the primary purposes of a cookie is to save you time. Cookies store and recall data that you have previously provided on our Web Site, so that you don't need to retype that data every time you return to the Web Site. We also use the data gathered by cookies to improve the quality of the site and our services to you. Cookies do not provide any information about you, personally.</p>
@@ -245,68 +255,11 @@ $('#Wrapper').ready( function()
   <div id="RightContent">
 
  </div>
- <div class="TopPad" style="height: 0px;">&nbsp;</div>
+<div class="TopPad" style="height: 0px;">&nbsp;</div>
 
  <div id="Footer">
-<div id="FooterContent">
-	<div class="footer-fade-small">
-    	<h3>Find Timeshares</h3>
-        <a href="timeshares/index/content/searchsell/">Timeshares For Sale</a>
-        <a href="timeshares/index/content/searchrent/">Timeshares For Rent</a>
-        <a href="timeshares/united-states/">US Timeshare</a>
-        <a href="resources/index/content/International_Timeshare/">International Timeshare</a>
-        <a href="resorts/">List of Timeshare Companies</a>
-        <a href="timeshares/index/content/pet-friendly-timeshares/">Pet Friendly Resorts</a>
-        <a href="timeshares/index/content/wheelchair-accessible-resorts/">Wheelchair Accessible Resorts</a>
-    </div>
-    <div class="footer-fade-small">
-    	<h3>Buyer/Renter Resources</h3>
-        <a href="resources/index/content/timeshare/">Intro to Timeshares</a>
-        <a href="timeshares/index/content/buyerfaq/">Timeshare Buyer FAQ</a>
-        <a href="resources/index/content/calendar/">Timeshare Calendar</a>
-        <a href="timeshares/index/content/glossary/">Timeshare Glossary</a>
-        <a href="resources/index/content/timeshare_exchange_companies/">Timeshare Exchange Companies</a>
-        <a href="http://www.thetimeshareauthority.com/" target="_blank">Timeshare News</a>
-        <a href="timeshares/index/content/featuredads/">View Featured Ads</a>
-    </div>
-    <div class="footer-fade-small">
-    	<h3>Owner/Seller Resources</h3>
-        <a href="owners/index/content/marketsell/">Timeshare Market Value Survey</a>
-        <a href="owners/index/content/sellerfaq/">Timeshare Seller FAQ</a>
-        <a href="owners/index/content/forsellers/">Critical Seller Information</a>
-        <a href="owners/index/content/donate/">Donate Your Timeshare</a>
-        <a href="owners/index/content/testimonials/">View Advertiser Testimonials</a>
-        <a href="owners/index/content/buyeroffers/">View a Live Feed of Offers</a>
-    </div><br style="clear: both;">
-    
-    <div class="footer-fade-small">
-    	<h3>Timeshare Advertising</h3>
-        <a href="owners/index/content/selltime/">Sell Timeshare</a>
-		<a href="owners/index/content/renttime/">Rent Timeshare</a>
-    </div>
-    <div class="footer-fade-large">
-    	<h3>Site Info</h3>
-        <div class="LeftColumn">
-            <a href="contact/">Contact Us</a>
-            <a href="company/">Company Info</a>
-            <a href="media/">Media Center</a>
-            <a href="main/index/content/privacy/">Privacy Policy</a>
-        </div>
-        <div class="RightColumn">
-            <a href="main/index/content/terms/">Terms of Use</a>
-            <a href="http://extremetracking.com/open?login=smtn1" target="_blank">Site Traffic Data</a>
-            <a href="main/index/content/sitemap/">Site Map</a>
-        </div>
-    </div>
-	
-</div>
-
-<div id="FooterPartners">
-	<h3>Our Partners &amp; Affiliations</h3>
-    
-    <a href="http://www.chicagotitletimeshare.com/index.php?option=com_content&amp;view=article&amp;id=58&amp;Itemid=60" target="_blank"><img src="images/template-new/homepage/Chicago-Title.png" alt=""></a>
-    <img src="images/template-new/homepage/Inc-5000.png" alt="">
-    <!--ValidatedSite.com Seal Code Start (v.1)-->
+    <div style="float: left; width: 15%;">
+        <!--ValidatedSite.com Seal Code Start (v.1)-->
         <!--Site: http://www.sellmytimesharenow.com-->
         <script language="JavaScript" type="text/javascript">
         <!--
@@ -314,47 +267,58 @@ $('#Wrapper').ready( function()
         else {document.write('<scr' + 'ipt language="JavaScript" src="http://seal.validatedsite.com/seal.aspx?siteid=50474&st=1"><\/scr' + 'ipt>');}
         //-->
         </script><script language="JavaScript" src="https://secure.validatedsite.com/seal/seal.aspx?siteid=50474&amp;st=1"></script>
-    <!--ValidatedSite.com Seal Code End (v.1)--><br style="clear:both;">
-    <a href="http://www.arda.org/arda/home.aspx" target="_blank"><img src="images/template-new/homepage/ARDA.png" alt=""></a>
-    <div id="eXTReMe">
-        <a href="http://extremetracking.com/open?login=smtn1">
-        <img src="http://t1.extreme-dm.com/i.gif" height="38" width="41" id="EXim" alt="eXTReMe Tracker"></a>
-        <script type="text/javascript"><!--
-        var EXlogin='smtn1' // Login
-        var EXvsrv='s11' // VServer
-        EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
-        EXb=EXs.colorDepth:EXb=EXs.pixelDepth;
-        navigator.javaEnabled()==1?EXjv="y":EXjv="n";
-        EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
-        EXd.write("<img src=http://e2.extreme-dm.com",
-        "/"+EXvsrv+".g?login="+EXlogin+"&amp;",
-        "jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
-        "l="+escape(EXd.referrer)+" height=1 width=1 style=\"display:none;\">");//-->
-        </script><img src="http://e2.extreme-dm.com/s11.g?login=smtn1&amp;jv=n&amp;j=y&amp;srw=800&amp;srb=24&amp;l=" height="1" width="1" style="display:none;"><noscript><div id="neXTReMe"><img height="1" width="1" alt=""
-        src="http://e2.extreme-dm.com/s11.g?login=smtn1&amp;j=n&amp;jv=n" style="display:none;" />
-        </div></noscript>
-	</div>
-    <a href="http://www.crda.com/" target="_blank"><img src="images/template-new/homepage/CRDA.png" alt=""></a>
-    <br style="clear:both;">
-    <a href="http://www.timesharebrokerservices.com/" target="_blank">Timeshare Broker Services</a>
-    <a href="http://www.chicagotitletimeshare.com/index.php?option=com_content&amp;view=article&amp;id=58&amp;Itemid=60" target="_blank">Chicago Title Timeshare</a>
-    <a href="http://www.prosper.com/prm/smtn.html" target="_blank">Prosper.com</a>
-    
-    <br style="clear:both;">
-    <a href="http://www.facebook.com/SellMyTimeshareNOW">SellMyTimeshareNOW On Facebook</a>
-    <a href="http://twitter.com/#!/vacationhotdeal">SellMyTimeshareNOW On Twitter</a>
-</div>
+    </div>
+    <div style="float: left; width: 70%;">
+        <!--ValidatedSite.com Seal Code End (v.1)-->
+    	<a href="contact/">Contact Us</a>
+        <a href="company/">About Us</a>
+        <a href="media/">Press Center</a>
+        <a href="main/index/content/privacy/">Privacy Policy</a>
+        <a href="main/index/content/terms/">Terms of Service</a>
+        <a href="main/index/content/sitemap/">Site Map</a>
+        
+        <br style="clear: both;">
+        
+        <img src="images/template-new/new-homepage/arda-footer.jpg" alt="American Resort Development Association" title="Proud Member of ARDA">
+        <img src="images/template-new/new-homepage/crda-footer.jpg" alt="Canadian Resort Development Association" title="Proud Member of CRDA">
+        <img src="images/template-new/new-homepage/chicago-footer.jpg" alt="Chicago Title Timeshare" title="In Affiliation with Chicago Title Timeshare">
+        <img src="images/template-new/new-homepage/inc-footer.jpg" alt="Inc. 5000" title="SellMyTimeshareNow is an Inc. 5000 company.">
 
- </div>
+    </div>
+    <div style="float: left; width: 15%;">       
+        <div id="eXTReMe">
+            <a href="http://extremetracking.com/open?login=smtn1">
+            <img src="http://t1.extreme-dm.com/i.gif" height="38" width="41" id="EXim" alt="eXTReMe Tracker"></a>
+            <script type="text/javascript"><!--
+            var EXlogin='smtn1' // Login
+            var EXvsrv='s11' // VServer
+            EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+            EXb=EXs.colorDepth:EXb=EXs.pixelDepth;
+            navigator.javaEnabled()==1?EXjv="y":EXjv="n";
+            EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+            EXd.write("<img src=http://e2.extreme-dm.com",
+            "/"+EXvsrv+".g?login="+EXlogin+"&amp;",
+            "jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
+            "l="+escape(EXd.referrer)+" height=1 width=1 style=\"display:none;\">");//-->
+            </script><img src="http://e2.extreme-dm.com/s11.g?login=smtn1&amp;jv=n&amp;j=y&amp;srw=800&amp;srb=24&amp;l=" height="1" width="1" style="display:none;"><noscript><div id="neXTReMe"><img height="1" width="1" alt=""
+            src="http://e2.extreme-dm.com/s11.g?login=smtn1&amp;j=n&amp;jv=n" style="display:none;" />
+            </div></noscript>
+        </div> 
+     </div>  
+     
+     <br style="clear: both;">
+     <span style="font-size: .9em; color: #FFF;">© 2003-2012 SellMyTimeshareNOW.com - Vacation HotDeal Companies, Inc. - All Rights Reserved.</span>
+   </div>
+
 </div>
 
 <script type="text/javascript" language="javascript">var root = "http://www.sellmytimesharenow.com/";</script>
-<script src="js/autocomplete.js" type="text/javascript" language="javascript"></script>
-<script src="js/resortautocomplete.js" type="text/javascript" language="javascript"></script>
-<script src="js/validate.js" type="text/javascript" language="javascript"></script>
-<script src="js/jquery-ui.js" type="text/javascript" language="javascript"></script>
-<script src="js/date-picker.js" type="text/javascript" language="javascript"></script>
-<script src="js/onPageLoad.js" type="text/javascript" language="javascript"></script><script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script><script src="js/googlemap.js" type="text/javascript" language="javascript"></script>
+<script src="js/autocomplete.js?v=1355259675" type="text/javascript" language="javascript"></script>
+<script src="js/resortautocomplete.js?v=1333997489" type="text/javascript" language="javascript"></script>
+<script src="js/validate.js?v=1343938367" type="text/javascript" language="javascript"></script>
+<script src="js/jquery-ui.js?v=1333997488" type="text/javascript" language="javascript"></script>
+<script src="js/date-picker.js?v=1333997487" type="text/javascript" language="javascript"></script>
+<script src="js/onPageLoad.js?v=1354632927" type="text/javascript" language="javascript"></script><script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script><script src="js/googlemap.js?v=1333997487" type="text/javascript" language="javascript"></script>
 
 
 
