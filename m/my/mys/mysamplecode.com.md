@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mysamplecode.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618032505id_/http%3A//www.mysamplecode.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysamplecode.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216164340id_/http%3A//www.mysamplecode.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Google Search...
 
 At [http://www.mysamplecode.com](http://www.mysamplecode.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [http://www.mysamplecode.com](http://www.mysamplecode.com/) and how it is used. 
 
@@ -25,7 +27,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 We do not share personal information with third-parties nor do we store information we collect about your visit to this blog for use other than to analyze content performance through the use of cookies, which you can turn off at anytime by modifying your Internet browser's settings. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. We are not responsible for the republishing of the content found on this blog on other Web sites or media without our permission. This privacy policy is subject to change without notice. 
 
-  
-
-
-**Did you find this article helpful?** _I'd appreciate it if you'd take the time to recommend us to your friends._
+Did you find this article helpful? **Share it!**
