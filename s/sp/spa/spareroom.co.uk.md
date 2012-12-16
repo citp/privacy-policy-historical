@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spareroom.co.uk privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606044046id_/http%3A//www.spareroom.co.uk/content/default/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spareroom.co.uk privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216190115id_/http%3A//www.spareroom.co.uk/content/default/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,7 +58,7 @@ If we change our privacy policy, we will post those changes on our web site so m
 
 ### Payments
 
-Payment for advertisements & Early Bird access is done so via a secure server provided by WorldPay, part of the Royal Bank of Scotland Group. No actual credit card information is processed, nor stored on our server. We are a Safe Buy accredited website.
+Payment for advertisements & Early Bird access is done so via a secure server provided by WorldPay. No actual credit card information is processed, nor stored on our server. We are a Safe Buy accredited website.
 
 Advertisers can remove and update their advertisements whenever they wish.
 
