@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the chewy.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506015805id_/http%3A//www.mrchewy.com/app/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chewy.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216032635id_/http%3A//www.chewy.com/app/content/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | MrChewy.com
+# Privacy Policy | Chewy.com
 
 ## Your privacy is important to us.
 
-This privacy policy outlines the types of personal information that is received and collected by www.mrchewy.com and how the information is used. As always, should you have any questions, give us a call. 
+This privacy policy outlines the types of personal information that is received and collected by www.chewy.com and how the information is used. As always, should you have any questions, give us a call. 
 
 #### Information Collection
 
-We collect information from you in different ways on www.mrchewy.com. We use this information to help make the website easier to use, quickly find information and products, customize content that is most important to you, and keep you up-to-date on new information, products, and services. 
+We collect information from you in different ways on www.chewy.com. We use this information to help make the website easier to use, quickly find information and products, customize content that is most important to you, and keep you up-to-date on new information, products, and services. 
 
 #### Cookies
 
@@ -28,9 +28,12 @@ As with most web sites, our servers automatically recognize the Internet URL fro
 
 **External Use:** We will never sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone except that: 
 
-  * In order to deliver products to you, we have to share some information. We partner with third parties such as the FedEx and other premium shipping companies to ship products, to ensure delivery, and also to get feedback, improve the quality of our services, and measure and improve the quality of the service of the third party. 
-  * In order to help you buy product and provide customer service, we must provide your credit card information to financial services corporation such as credit card processors and issuers. All communications with these companies are done through state-of-the-art data encryption to protect your information. 
-  * As required by law, we may disclose information in response to requests from law enforcement officials, subpoenas, a court order, or by other requirements such information by law. We will also release personal information to protect our legal rights, or to protect ourselves and others (for instance, we may share information to help reduce the risk of fraud). 
+  * In order to deliver products to you, we have to share some information. We partner with third parties such as the FedEx and other premium shipping companies to ship products, to ensure delivery, and also to get feedback, improve the quality of our services, and measure and improve the quality of the service of the third party.
+
+  * In order to help you buy product and provide customer service, we must provide your credit card information to financial services corporation such as credit card processors and issuers. All communications with these companies are done through state-of-the-art data encryption to protect your information.
+
+  * As required by law, we may disclose information in response to requests from law enforcement officials, subpoenas, a court order, or by other requirements such information by law. We will also release personal information to protect our legal rights, or to protect ourselves and others (for instance, we may share information to help reduce the risk of fraud).
+
 
 
 
@@ -42,6 +45,6 @@ If you wish to opt-out of any marketing communications or make corrections to in
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-> **MrChewy.com**  
->  1-800-672-4399  
->  [service@mrchewy.com](mailto:service@mrchewy.com)
+**Chewy.com**  
+1-800-67-CHEWY (672-4399)  
+[service@chewy.com](mailto:service@chewy.com)
