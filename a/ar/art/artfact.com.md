@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502195815id_/http%3A//www.artfact.com/agreements/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216042439id_/http%3A//www.artfact.com/agreements/privacy.cfm) for the most accurate reproduction.*
 
 # Bidder & Subscriber Privacy Policy | Artfact
 
