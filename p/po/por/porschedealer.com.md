@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porschedealer.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617044301id_/http%3A//www.porsche.com/usa/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porschedealer.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216155620id_/http%3A//www.porsche.com/usa/privacy-policy) for the most accurate reproduction.*
 
 # Internet Privacy Policy - HOME - Dr. Ing. h.c. F. Porsche AG
 
@@ -10,7 +10,7 @@ This Privacy Policy applies only to websites operated by or on behalf of Porsche
 
 Some of the Sites may contain links to the websites of other Porsche companies or to the websites of third parties. Porsche is not responsible and has no liability for the privacy policies or practices of those websites. We recommend that you review the privacy policies of each website you visit.
 
-The Sites are designed for consumers located exclusively in the United States of America. If you are located outside the United States, please return to [www.porsche.com]() and use the drop down box to find the website for users in your location, but please do not use the Sites, as the Sites’ personal information practices and the terms of this Privacy Policy may or may not comply with foreign law.
+The Sites are designed for consumers located exclusively in the United States of America. If you are located outside the United States, please return to [www.porsche.com](https://web.archive.org/) and use the drop down box to find the website for users in your location, but please do not use the Sites, as the Sites’ personal information practices and the terms of this Privacy Policy may or may not comply with foreign law.
 
 As used in this Privacy Policy, “personal information” means information that may be used to identify a specific individual, or that is about an identifiable individual, such as name, e-mail address, phone number or credit card number. “Aggregate information” refers to combined demographic information which has been derived from personal information but which cannot be used to identify any individual or that is not about an identifiable individual.
 
