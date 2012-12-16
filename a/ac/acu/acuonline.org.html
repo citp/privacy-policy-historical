@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the acuonline.org privacy policy that was archived on 2012-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120608140506id_/http%3A//www.acuonline.org/home/privacy%3Fvhelp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the acuonline.org privacy policy that was archived on 2012-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121217003227id_/http%3A//www.acuonline.org/home/privacy%3Fvhelp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 	          <title>Associated Credit Union - 			Privacy
 			</title>
+<meta name="apple-itunes-app" content="app-id=402775463">
 <meta name="description" content="Associated Credit Union, located in metro Atlanta, is a full-service financial institution with competitive loans and mortgages, account services, member benefits and robust online services. Anyone can join. 28 Atlanta offices and 4 Augusta offices.">
 
 <script type="text/javascript">
@@ -23,10 +24,29 @@ var noBackToTop = ""=="true"? true: false;
 
 
 
-		<script src="/home/diFiles/skins/default/js/jquery.js" type="text/javascript"></script>
+<!--<script src="/home/diFiles/skins/default/js/jquery.js" type="text/javascript"></script>-->
+<script src="/mstinc/js/jquery-1_7_2.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+if (typeof MstIncGlobal != "object") var MstIncGlobal = {};
+MstIncGlobal.USP = {
+"converted_to_usp": true, // do not change
+"ib_url": "https://www.acuonline.org/onlineserv/HB", // only change if FI doesn't have https://www.acuonline.org/onlineserv/HB set in template_head.vm
+// format - https://www.fidomain.com/onlineserv/HB
+"demo_script_url": "/mstinc/web/usp/demo.js", // no need to change for WC sites
+"custom_callback": function(){
+// add code to swap out things like User ID label text / image
+$('.uspDemo,.noUsp').show();
+} // end custom_callback()
+}; // End USP config object declaration
+</script>
+
 		<script src="/home/diFiles/skins/default/js/jquery.DIMenus.js" type="text/javascript"></script>
 		<script src="/home/diFiles/skins/default/js/_script.js" type="text/javascript"></script>
-		<script src="/home/diFiles/skins/default/js/png.js" type="text/javascript"></script>
+		<!--<script src="/home/diFiles/skins/default/js/png.js" type="text/javascript"></script>-->
+		<!-- DI Global Include File please do not remove -->
+		<script type="text/javascript" src="/mstinc/web/js/global.js">/* */</script>
+		<!-- DI Global Include File please do not remove -->
 		
 
 		
@@ -34,6 +54,8 @@ var noBackToTop = ""=="true"? true: false;
 		@import url("/home/fiFiles/static/css/fi_styles.css");
 		@import url("/home/diFiles/skins/default/css/_styles.css");
 		@import url("/home/diFiles/skins/default/css/menu.css");	</style>
+	
+	
 	</head>
 	<body>
 
@@ -71,7 +93,7 @@ var noBackToTop = ""=="true"? true: false;
 	
 	<div class="pNav">
 		<ul class="clearfix">
-																													<li class="parentMenu" id="membership"><a href="/home/membership" class="rollover" onmouseout="window.status=''; return true;" onmouseover="window.status='Membership'; return true;"><img src="/home/diFiles/skins/default/images/nav_membership_off.gif" alt="Membership" name="img_membership" id="membership"></a></li>
+																																		<li class="parentMenu" id="membership"><a href="/home/membership" class="rollover" onmouseout="window.status=''; return true;" onmouseover="window.status='Membership'; return true;"><img src="/home/diFiles/skins/default/images/nav_membership_off.gif" alt="Membership" name="img_membership" id="membership"></a></li>
 				<li><img src="/home/diFiles/skins/default/images/pnav_pipe.gif" width="26" height="52" alt=""></li>
 																	<li class="parentMenu" id="products"><a href="/home/products" class="rollover" onmouseout="window.status=''; return true;" onmouseover="window.status='Products'; return true;"><img src="/home/diFiles/skins/default/images/nav_products_off.gif" alt="Products" name="img_products" id="products"></a></li>
 				<li><img src="/home/diFiles/skins/default/images/pnav_pipe.gif" width="26" height="52" alt=""></li>
@@ -161,7 +183,7 @@ Where You Can Request To Opt Out</h2>
 							<div class="loginLinksBack">
 								<ul>
 									<li class="firstLi"><a href="/home/home?enroll">New User</a></li>
-									<li><a href="/home/home?demo">Demo</a></li>
+									<li style="display:none;" class="uspDemo"><a href="/home/home?demo">Demo</a></li>
 									<li class="lastLi"><a href="/home/services/online">More Info</a></li>
 								</ul>
 							</div><!-- loginLinks -->
@@ -191,7 +213,7 @@ Where You Can Request To Opt Out</h2>
 		
 		<div class="footBack">
 			<div class="footL">
-					<a href="http://www.ncua.gov/" onclick="return displayThirdPartyAlert(1, this)"><img src="/home/diFiles/skins/default/images/logo_ncua.gif" width="351" height="35" alt="Your savings federally insured to at least $250,000 and backed by the full faith and credit of the United States Government. National Credit Union Administration, a U.S. Government Agency."></a><a href="http://www.hud.gov/" onclick="return displayThirdPartyAlert(1, this)"><img src="/home/diFiles/skins/default/images/logo_ehl.gif" width="40" height="35" alt="Equal Housing Lender"></a><a href="http://ifs.intuit.com/" onclick="return displayThirdPartyAlert(1,this);"><img src="/mstinc/web/images/logo_91x22.png" width="91" height="22" border="0" alt=""></a>
+					<a href="http://www.ncua.gov/" onclick="return displayThirdPartyAlert(1, this)"><img src="/home/diFiles/skins/default/images/logo_ncua.gif" width="71" height="35" alt="Your savings federally insured to at least $250,000 and backed by the full faith and credit of the United States Government. National Credit Union Administration, a U.S. Government Agency."></a><a href="http://www.hud.gov/" onclick="return displayThirdPartyAlert(1, this)"><img src="/home/diFiles/skins/default/images/logo_ehl.gif" width="40" height="41" alt="Equal Opportunity Lender"></a><a href="http://ifs.intuit.com/" onclick="return displayThirdPartyAlert(1,this);"><img src="/mstinc/web/images/logo_91x22.png" width="91" height="22" border="0" alt="Intuit Financial Services"></a>
 			</div><!-- footL -->
 			<div class="footR">
 				<a href="/home/sitemap">Site Map</a>&nbsp; | &nbsp;<a href="/home/privacy">Privacy</a>&nbsp; | &nbsp;<a href="https://www.acuonline.org/bridge/disclosures/ib/disclose.html" target="_blank">Disclosures</a>&nbsp; | &nbsp;<a href="/home/security">Security</a>&nbsp; | &nbsp;<a href="http://service.liveperson.net/hc/s-74617893/cmd/kbresource/kb-719782673623908430/front_page!PAGETYPE" target="_blank">Help</a>
@@ -236,7 +258,7 @@ Where You Can Request To Opt Out</h2>
 
 
 
-														<div class="subMenu" id="menu_membership">
+																	<div class="subMenu" id="menu_membership">
 			<ul>
 																									<li><a class="level_one" href="/home/membership/whatis">What is a Credit Union?</a>
 									</li>
@@ -259,7 +281,11 @@ Where You Can Request To Opt Out</h2>
 		</div>
 							<div class="subMenu" id="menu_products">
 			<ul>
-																									<li><a class="level_one" href="/home/products/checking">Checking Accounts</a>
+																									<li><a class="level_one" href="/home/products/low_cost_mortgage_loans">Low Cost Mortgage Loans</a>
+									</li>
+																											<li><a class="level_one" href="/home/products/scorecard_sweepstakes">You Could Win Big By Using Your Check Or Credit Card</a>
+									</li>
+																											<li><a class="level_one" href="/home/products/checking">Checking Accounts</a>
 									</li>
 																											<li><a class="level_one" href="/home/products/savings">Savings Accounts</a>
 									</li>
@@ -274,8 +300,6 @@ Where You Can Request To Opt Out</h2>
 																											<li><a class="level_one" href="/home/products/iras">IRAs &amp; Education Accounts</a>
 									</li>
 																											<li><a class="level_one" href="/home/products/student_loans">Student Loans</a>
-									</li>
-																											<li><a class="level_one" href="/home/products/green">Green Loans</a>
 									</li>
 																											<li><a class="level_one" href="/home/products/mortgage">Mortgage Loans</a>
 									</li>
@@ -294,17 +318,15 @@ Where You Can Request To Opt Out</h2>
 		</div>
 							<div class="subMenu" id="menu_services">
 			<ul>
-																									<li><a class="level_one" href="/home/services/travel">Traveling Tips</a>
+																									<li><a class="level_one" href="/home/services/godirect">Time To Go Direct</a>
+									</li>
+																											<li><a class="level_one" href="/home/services/extendedautowarranty">Extended Auto Warranty</a>
+									</li>
+																											<li><a class="level_one" href="/home/services/reel">ACU Member Rewards</a>
 									</li>
 																											<li><a class="level_one" href="/home/services/ezdeposit">EZDeposit</a>
 									</li>
 																											<li><a class="level_one" href="/home/services/switchagent">SwitchAgent</a>
-									</li>
-																											<li><a class="level_one" href="/home/services/identitysecure">IdentitySecure</a>
-									</li>
-																											<li><a class="level_one" href="/home/services/reel">ACU Member Rewards</a>
-									</li>
-																											<li><a class="level_one" href="/home/services/csra">ACU &amp; CSRA News &amp; Events</a>
 									</li>
 																											<li><a class="level_one" href="/home/services/askadam">Auto Question? Ask Adam!</a>
 									</li>
@@ -314,10 +336,10 @@ Where You Can Request To Opt Out</h2>
 									</li>
 																											<li><a class="level_one" href="/home/services/teleteller">The Tele Teller</a>
 														</li>
-																											<li><a class="level_one" href="/home/services/online">Online &amp; Mobile Banking Services</a>
-														</li>
 																											<li><a class="level_one" href="javascript:target_blank('http://www.cucarfinders.com/')"> CU Car Finders</a>
 									</li>
+																											<li><a class="level_one" href="/home/services/online">Online &amp; Mobile Banking Services</a>
+														</li>
 																											<li><a class="level_one" href="/home/services/giftcard">Gift &amp; Reloadable Visa Debit Cards</a>
 									</li>
 																											<li><a class="level_one" href="/home/services/wires">Wires &amp; Transfers</a>
@@ -411,6 +433,7 @@ Where You Can Request To Opt Out</h2>
 			<td valign="top">
 				<ol style="margin:0;padding:0 0 0 30px;">
 																		<li style="margin:0;padding:0;"><a href="https://www.acuonline.org/home/home?vhelp">Home</a></li>
+																								<li style="margin:0;padding:0;"><a href="https://www.acuonline.org/home/preview?vhelp">Home</a></li>
 																								<li style="margin:0;padding:0;"><a href="https://www.acuonline.org/home/rates_xml?vhelp">Rates</a></li>
 																								<li style="margin:0;padding:0;"><a href="/home/site?vhelp">Site</a></li>
 																								<li style="margin:0;padding:0;"><a href="/home/membership?vhelp">Membership</a></li>
@@ -483,9 +506,9 @@ Where You Can Request To Opt Out</h2>
 		<tr class="tablecontent1"><td>$editContentLink</td><td>https://wcadmin.diginsite.com/wcAdmin/contentEdit/begin.do</td></tr>
 		<tr class="tablecontent2"><td>$showEditLinks</td><td>true</td></tr>
 		<tr class="tablecontent1"><td colspan="2"><strong>Navigation</strong></td></tr>
-		<tr class="tablecontent2"><td>$navItems</td><td>[Ljava.lang.Object;@4e4ffbcf</td></tr>
-		<tr class="tablecontent1"><td>$selectedNav</td><td>[com.diginsite.product.webcenter.web.NavItem@651cfb33]</td></tr>
-		<tr class="tablecontent2"><td>$selectItem</td><td>com.diginsite.product.webcenter.web.NavItem@651cfb33</td></tr>
+		<tr class="tablecontent2"><td>$navItems</td><td>[Ljava.lang.Object;@18849ce4</td></tr>
+		<tr class="tablecontent1"><td>$selectedNav</td><td>[com.diginsite.product.webcenter.web.NavItem@88729bf]</td></tr>
+		<tr class="tablecontent2"><td>$selectItem</td><td>com.diginsite.product.webcenter.web.NavItem@88729bf</td></tr>
 		<tr class="tablecontent1"><td>$contentPage</td><td>privacy.vm</td></tr>
 	</tbody></table>
 	<br>
