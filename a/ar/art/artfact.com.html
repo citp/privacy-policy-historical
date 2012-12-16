@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the artfact.com privacy policy that was archived on 2012-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120502195815id_/http%3A//www.artfact.com/agreements/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the artfact.com privacy policy that was archived on 2012-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121216042439id_/http%3A//www.artfact.com/agreements/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	
@@ -34,22 +34,28 @@
 	</script>
 	
 	
-			<link rel="stylesheet" type="text/css" href="/styles/www.css?x=27">
+			<link rel="stylesheet" type="text/css" href="/styles/www_4.05_.css">
 		
-		<link rel="stylesheet" type="text/css" href="/styles/rdHome.css?x=8">
-			<!--<link rel="stylesheet" type="text/css" href="/styles/rdHome.min.css?x=9" />-->
+		<link rel="stylesheet" type="text/css" href="/styles/rdHome_4.05_.css">
+			<!--<link rel="stylesheet" type="text/css" href="/styles/rdHome.min_4.05_.css" />-->
 		<!--[if gte IE 7]>
-			<link rel="stylesheet" type="text/css" href="/styles/ie7.css?x=7" />
+			<link rel="stylesheet" type="text/css" href="/styles/ie7_4.05_.css" />
 		<![endif]-->
 		<!--[if lt IE 7]>
-			<link rel="stylesheet" type="text/css" href="/styles/ie6.css?x=6" />
+			<link rel="stylesheet" type="text/css" href="/styles/ie6_4.05_.css" />
 		<![endif]-->
 		<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
 	
 	<script type="text/javascript" src="/lib/afjs/jquery-1.5.2.min.js"></script>
 	<script type="text/javascript">var J = jQuery.noConflict();</script>
 
-	<script type="text/javascript" src="/lib/afjs/custom.js?x=1"></script>
+	<script type="text/javascript">
+		var 	isLoggedIn_slider = false;
+	</script>
+	<script type="text/javascript" src="/lib/afjs/custom_4.05_.js"></script>
+	
+
+
 
 	
 	
@@ -58,25 +64,48 @@
 	</script>
 	
 	<!--[if IE 6]>
-		<script type="text/javascript" src="/lib/afjs/IE6_images.js"></script>
+		<script type="text/javascript" src="/lib/afjs/IE6_images_4.05_.js"></script>
 	<![endif]-->
-	
 	<link rel="alternate" type="application/rss+xml" title="Artfact.com Upcoming Auctions" href="http://www.artfact.com/rss-upcoming-auctions.xml">
-	
-	<link rel="stylesheet" href="/styles/print.css" type="text/css" media="print">
-	
+	<link rel="stylesheet" href="/styles/print_4.05_.css" type="text/css" media="print">
+		
 </head>
 
 	<body>
 
 <div id="container2">
+	
+	<div id="overlayWrapper" style="display:none; z-index:2;">
+		<div id="sliderOverlay"></div>
+	</div>
+	<div id="sliderEmailCapture">
+		<div class="closeBtn">
+			
+		</div> 
+
+		<p class="sliderEmailHeader">Auctions in your inbox!</p>
+		<p class="secondHeader">Get notified about the latest local and online auctions.</p>
+
+		<fieldset id="sliderEmailForm">
+			<input id="sliderCapture" class="defaultText email_user" name="Email Address" type="text" title="enter email address">
+			<input id="companyRefSlider" type="hidden" name="companyRef" value="1">
+			<input id="sliderSubmit" src="/wwwImages/GoButton.jpg" class="submitBtn" type="submit" value="">
+		</fieldset>
+		
+		<div class="emailCapSecContainer" style="display:none"><p class="emailCapSec"></p></div>
+		<div class="clear1"></div>
+		<p id="slidePolicy" class="privacy">We value your privacy! <a target="_blank" href="/agreements/privacy.cfm">Click here</a> to read our policies.</p>
+
+	</div>
+	
+
 	<div id="container-inner" class="clearfix">
 		<!-- header -->
 			<div id="header">
 				<h1 id="logo"><a href="http://www.artfact.com"><span>Artfact: Bid online in live auctions - Antique, Collectible &amp; Estate Auctions</span></a></h1>
 				<a name="top"></a>
 				
-					<div id="banner-ad"><iframe src="http://www.artfact.com/burst/headTop.cfm?adVersion=NLI" id="adframetop" width="728" height="90" scrolling="no" frameborder="0"></iframe></div>
+					<div id="banner-ad"></div>
 				
 			</div>
 		<!-- END header -->
@@ -84,7 +113,7 @@
 		
 				<div id="loginWrapper">
 					<div id="loginPanel">
-						<a href="javascript:void(0);" class="nowhere panel_button closer">X</a>
+						<a href="#" class="nowhere panel_button closer">X</a>
 						
 							
 								<form id="loginInfo" action="https://secure.artfact.com/signin/signIn.a.cfm" method="post">
@@ -96,7 +125,7 @@
 										<label>Password:</label>
 										<input type="password" id="password" class="passwordOld" name="password" value="">
 									</fieldset>
-									<a href="javascript:void(0);" alt="Forgot Password" id="forgotpassword" class="button left2 nowhere">Forgot Password</a>
+									<a href="#" alt="Forgot Password" id="forgotpassword" class="button left2 nowhere">Forgot Password</a>
 									<input type="submit" value="Login" id="loginbtn" class="submit right2">
 									<input type="hidden" name="goto" value="/agreements/privacy.cfm">
 									<input type="hidden" name="gotoSec" value="false">
@@ -108,7 +137,7 @@
 										<fieldset>
 											<input type="text" class="emailOld" name="mbrEmail" id="email" value="">
 										</fieldset>
-										<a href="javascript:void(0);" id="cancelForgotPwd" class="button nowhere">Cancel</a>
+										<a href="#" id="cancelForgotPwd" class="button nowhere">Cancel</a>
 										<input type="submit" name="sendForgotPwd" id="sendForgotPwd" value="Send" class="submit right2">	
 									</form>								
 								</div>
@@ -132,9 +161,9 @@
 						
 				<!-- Float these links right -->
 						
-								<li id="panel_button" class="f-right"><a class="big login nowhere" href="javascript:void(0);">Login</a></li>						
+								<li id="panel_button" class="f-right"><a class="big login nowhere">Login</a></li>						
 							
-								<li class="f-right"><a href="https://secure.artfact.com/services/userInfo.cfm?type=register" class="big">Join <img src="/wwwImages/sticker-free.png" alt="Join Free!" class="freesticker"></a></li>
+								<li class="f-right"><a href="https://secure.artfact.com/services/userInfo.cfm?type=register" class="big">Create Account <img src="/wwwImages/sticker-free.png" alt="Join Free!" class="freesticker"></a></li>
 							
 							<!-- <li id="joinsticker"><a href="https://secure.artfact.com/services/userInfo.cfm?type=register"><img src="/wwwImages/sticker-joinfree.png" alt="Join Free!" /></a></li> -->
 						
@@ -171,10 +200,10 @@
 			
 			
 				<div id="rightcol">
-					
+					<a href="javascript:openindex();" id="learnToBid"><img src="/wwwImages/btnLearnBid-Artfact.png" alt="Learn how to bid"></a>
 					
 						<br>
-						<div id="placeholder2" class="place-holder"><iframe src="http://www.artfact.com/burst/headRight.cfm?adVersion=NLI&amp;charNum=65" width="160" height="600" scrolling="no" frameborder="0"></iframe><br>&nbsp;<br><iframe src="http://www.artfact.com/burst/headRight.cfm?adVersion=NLI&amp;charNum=66" width="160" height="600" scrolling="no" frameborder="0"></iframe><br>&nbsp;<br><iframe src="http://www.artfact.com/burst/headRight.cfm?adVersion=NLI&amp;charNum=67" width="160" height="600" scrolling="no" frameborder="0"></iframe><br>&nbsp;<br></div>
+						<div id="placeholder2" class="place-holder"></div>
 					
 				</div>
 			
@@ -693,7 +722,7 @@ mso-bidi-font-size:10.0pt;font-family:Verdana;color:#000033"><!--[if !supportEmp
 								
 									<li><a href="http://www.artfact.com/?filterCategoryRef=SN06I92UXA">Asian Ceramics &amp; Works of Art Auctions</a></li>
 								
-									<li><a href="http://www.artfact.com/?filterCategoryRef=4V19IKE39A">Books, Maps &amp; Manuscripts Auctions</a></li>
+									<li><a href="http://www.artfact.com/?filterCategoryRef=J5PGOR8RAZ">Autographs Auctions</a></li>
 								
 									<li><a href="http://www.artfact.com/?filterCategoryRef=ET2N4AT11F">Ceramics &amp; Pottery Auctions</a></li>
 								
@@ -701,7 +730,7 @@ mso-bidi-font-size:10.0pt;font-family:Verdana;color:#000033"><!--[if !supportEmp
 								
 									<li><a href="http://www.artfact.com/?filterCategoryRef=SSADM5PDL5">Coins, Medals, Monies &amp; Notes Auctions</a></li>
 								
-									<li><a href="http://www.artfact.com/?filterCategoryRef=8RA3GB6FWF">Ephemera, Cards, Documents Auctions</a></li>
+									<li><a href="http://www.artfact.com/?filterCategoryRef=OQO01MZVPQ">Entertainment Memorabilia Auctions</a></li>
 								
 									<li><a href="http://www.artfact.com/?filterCategoryRef=GPI4WFSDTE">General Collectibles Auctions</a></li>
 								
@@ -711,15 +740,15 @@ mso-bidi-font-size:10.0pt;font-family:Verdana;color:#000033"><!--[if !supportEmp
 								
 									<li><a href="http://www.artfact.com/?filterCategoryRef=A4FKXXE3RQ">Glass Auctions</a></li>
 								
-									<li><a href="http://www.artfact.com/?filterCategoryRef=77XL1D8362">Guns &amp; Militaria Auctions</a></li>
-								
 									<li><a href="http://www.artfact.com/?filterCategoryRef=1GO1XYQ22C">Jewelry Auctions</a></li>
 								
 									<li><a href="http://www.artfact.com/?filterCategoryRef=Y4YDHAXYM6">Porcelain Auctions</a></li>
 								
-									<li><a href="http://www.artfact.com/?filterCategoryRef=5ZZ5EOVHXB">Prints Auctions</a></li>
-								
 									<li><a href="http://www.artfact.com/?filterCategoryRef=AF14022FJQ">Silver &amp; Vertu Auctions</a></li>
+								
+									<li><a href="http://www.artfact.com/?filterCategoryRef=FKAJ7AFLJ9">Sports Memorabilia Auctions</a></li>
+								
+									<li><a href="http://www.artfact.com/?filterCategoryRef=7T8IO8MA6T">Toys &amp; Games Auctions</a></li>
 								
 							</ul>
 						</div><!-- END hplists -->
@@ -728,10 +757,10 @@ mso-bidi-font-size:10.0pt;font-family:Verdana;color:#000033"><!--[if !supportEmp
 							<input id="companyRef" type="hidden" name="companyRef" value="1">
 							<ul>
 								<li><h2>Sign Up For Free Email Updates</h2></li>
-								<li class="errormsg" style="display: none;"></li>
-								<li><fieldset><input type="text" name="mbrEmailAddress" id="ntSignUp-Email" value="Email Address" maxlength="64"><input value="Sign Up" type="submit" class="submit"></fieldset></li>
+								<li class="errormsg"></li>
+								<li><fieldset><input type="text" name="mbrEmailAddress" id="ntSignUp-Email" value="Email Address" maxlength="64"><input value="Sign Up" type="submit" id="footerSubmit" class="submit"></fieldset></li>
 							</ul>
-							<p style="display: none;">
+							<p>
 								Thank you!<br>Why not <a href="https://secure.artfact.com/services/userInfo.cfm?type=newsletter" alt="Register for Free">register</a> for a<br>FREE account today?
 							</p>
  						</div> 
@@ -741,7 +770,7 @@ mso-bidi-font-size:10.0pt;font-family:Verdana;color:#000033"><!--[if !supportEmp
 						<div id="footer-social">
 						    <ul>
 						        <li>
-						            <a href="http://itunes.apple.com/us/app/artfact-live-auctions/id340245009?mt=8" target="_blank" alt="Click to get the Artfact iPhone App from the Apple Store" title="Click to get the Artfact iPhone App from the Apple Store">Get the App <span class="app">&nbsp;</span></a>
+						            <a href="http://itunes.apple.com/us/app/artfact-live-auctions/id340245009?mt=8" target="_blank" alt="Click to get the Artfact iPhone App from the Apple Store" title="Click to get the Artfact iPhone App from the Apple Store">Get Our Free iPhone App<span class="app">&nbsp;</span></a>
 						        </li>
 						        <li>
 									<div class="social-icons">
@@ -752,14 +781,18 @@ mso-bidi-font-size:10.0pt;font-family:Verdana;color:#000033"><!--[if !supportEmp
 									</div>
 								</li>
 						        <li>
-									<a href="http://www.artfact.com/artfact/contact.cfm">Need Help?<span class="help">&nbsp;</span></a>
+						        	<div class="needHelp">
+										<a href="http://www.artfact.com/artfact/contact.cfm">Need Help?<span class="help">&nbsp;</span></a>
+									</div>
+								</li>
+                                <li>
+								    <a id="learnToBid" alt="Learn How to Bid Online" title="Learn How to Bid Online" href="javascript:openindex();">Learn How to Bid Online <span class="bid-demo">&nbsp;</span></a>
 						        </li>
-
 							</ul>
 						</div>
 						<!-- End Footer Top Bar -->
 						<div id="footerContent" class="clearfix">
-							<div id="helpfulLinks" class="footerBox column firstBox" style="height: 366px; overflow: auto;">
+							<div id="helpfulLinks" class="footerBox column firstBox">
 								<h4>For Bidders</h4>
 								<ul>
 								
@@ -779,7 +812,7 @@ mso-bidi-font-size:10.0pt;font-family:Verdana;color:#000033"><!--[if !supportEmp
 										<li><a href="http://www.artfact.com/artfact/linktous.cfm" class="footerLink">Link to Us</a></li>
 									</ul>
 							</div>
-							<div class="footerBox column" style="height: 366px; overflow: auto;">
+							<div class="footerBox column">
 								<h4>Research Tools</h4>
 									<ul>
 										<li><a href="http://www.artfact.com/catalog/advancedSearch.cfm?srchScope=p" class="footerLink">Search Past Auctions</a></li>
@@ -802,13 +835,13 @@ mso-bidi-font-size:10.0pt;font-family:Verdana;color:#000033"><!--[if !supportEmp
 										
 									</ul>
 							</div>
-							<div class="footerBox column" style="height: 366px; overflow: auto;">	
+							<div class="footerBox column">	
 								
 									<h4>Quick Links</h4>
 									<ul>
 										<li><a href="http://www.artfact.com/artfact/jobs.cfm" class="footerLink"><img src="/wwwImages/jobStar.png" style="margin: 0 0 -3px; position: relative;"> We're Hiring!</a></li>
-										<li><a href="http://www.artfact.com/artfact/about.cfm" class="footerLink">About Artfact</a></li>									
-										<li><a href="http://www.artfact.com/artfact/whatsNews.cfm" class="footerLink">Artfact News</a></li>
+										<li><a href="http://www.artfact.com/artfact/about.cfm" class="footerLink">About Artfact</a></li>
+										<li><a href="http://info.artfact.com/artfactpressroom/" class="footerLink">Artfact News</a></li>
 										<li><a href="http://www.artfact.com/artfact/help.cfm" class="footerLink">FAQ/Help</a></li>
 										<li><a href="http://www.artfact.com/artfact/feedback.cfm" class="footerLink">Feedback</a></li>
 										<li><a href="http://www.artfact.com/artfact/contact.cfm" class="footerLink">Contact Us</a></li>	
@@ -822,7 +855,7 @@ mso-bidi-font-size:10.0pt;font-family:Verdana;color:#000033"><!--[if !supportEmp
 									</ul>
 								
 							</div>
-							<div class="footerBox column lastBox" style="height: 366px; overflow: auto;">
+							<div class="footerBox column lastBox">
 								<h4>Copyright &amp; Usage</h4>
 								<p>
 									All content, images, and intellectual property on this site protected by digital watermark technology. Digital copying of images strictly prohibited; violators will be pursued and prosecuted to the full extent of the law including the Digital Millennium Copyright Act.
@@ -949,5 +982,10 @@ var google_conversion_value = 0;
 </noscript>
 		
 <br clear="all">
+
+
+
+
+
 	
  </body></html>
