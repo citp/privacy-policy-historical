@@ -1,78 +1,104 @@
-> *The following text is extracted and transformed from the firstforwomen.com privacy policy that was archived on 2003-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030202195204id_/http%3A//ffwmarket.com/rules/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstforwomen.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216171703id_/http%3A//www.firstforwomen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | First for Women
 
-**Privacy Policy**
+Last Updated November 14, 2012
 
-This statement discloses the privacy practices for First for Women's website ([http://www.ffwmarket.com](http://www.ffwmarket.com/)), a website maintained by The Magazine Consultancy, Inc., 500 Fifth Avenue, New York, NY 10110.
+### firstforwomen.com Privacy Policy
 
-For questions regarding this statement, send an email to us at [FFWwebmaster@tmagusa.com](mailto:FFWwebmaster@tmagusa.com), write "Privacy Policy" in the subject line, and indicate your question in the message area.
+We know that safeguarding your privacy is serious business. Your privacy is very important to us. Please take a moment to read this privacy policy so that you understand how we collect, use and disclose information about you. As we update and expand our services, this policy might change, so please check it out from time to time. If we update this privacy policy, the “last updated” line above will be revised. If you have questions about our privacy policy, please e-mail us at [privacypolicy@bauerpublishing.com](mailto:privacypolicy@bauerpublishing.com)
 
-_**Brief Summary**_
+ **Your continued use of firstforwomen.com (the “Website”) or submission of any information to us is consent to this Privacy Policy and the firstforwomen.com Terms of Use. If you do not agree to these terms, please do not use our website.**
 
-This site collects no personally identifying information about individuals except when specifically and knowingly provided by such individuals. You can browse our site without entering any personal information and therefore remain anonymous during your visit. 
+### Your California Privacy Rights
 
-  1. Your personally identifying information will not be transferred or sold to any third party unless otherwise stated at time of collection.
-  2. Information entered on sweepstakes and contest Entry Forms is shared with the advertiser(s) or sponsor(s) of that particular event.
-  3. Information entered in Membership Registration Forms, in participation of Reader Polls and Panels, and other specific events may have disclosure terms and provisions that override this Privacy Statement, in which case those terms and provisions would be clearly stated prior to your providing such information.
-  4. Non-identifying and aggregate information is used for improving our website and for marketing purposes.
-  5. While we request that third parties with whom we have agreements follow appropriate privacy policies, we do not bear any responsibility for any actions or policies of third parties.
-  6. You can have personally identifying information removed from our database by sending an e-mail request to us at [FFWwebmaster@tmagusa.com](mailto:FFWwebmaster@tmagusa.com) and writing "Privacy Policy" in the subject line and "Delete me from database" in the message area.
+Pursuant to California Civil Code Section 1798.83, you may request the following information, which will be provided to you via either a writing or e-mail free of charge: (1) a list of the categories of personal information disclosed by firstforwomen.com to third parties for the third parties’ direct marketing purposes during the immediately preceding calendar year and (2) the names and addresses of all third parties that received personal information from firstforwomen.com for the third parties’ direct marketing purposes during the preceding calendar year and, if the nature of the third parties’ business cannot reasonably be determined from the third parties’ name, examples of the products or services marketed, if known to firstforwomen.com, sufficient to give you a reasonable indication of the nature of the third parties’ business.
+
+Consumer requests for this information should be sent to [privacypolicy@bauerpublishing.com](mailto:privacypolicy@bauerpublishing.com).
+
+### What types of personal information does firstforwomen.com collect?
+
+We may collect Personal Information from you when you sign up for services at firstforwomen.com, enter contests or sweepstakes, contact us via e-mail, and in other instances where you provide us with personal information. Personal Information includes data such as your first and last name, residence address, telephone number, e-mail address, or any other information that would allow someone to identify you.
+
+Some examples where you provide Personal Information to us include:
+
+  1. If you subscribe to a free newsletter or to receive notification of special offers from firstforwomen.com;
+
+  2. If you enter contests or sweepstakes sponsored by firstforwomen.com or featured on our Website; or
+
+  3. If you respond to surveys.
 
 
 
-_**How We Collect Information**_
 
-This site collects no personally identifying information except when you specifically and knowingly provide it. You can browse our site without entering any personal information and therefore remain anonymous during your visit.
+### What is firstforwomen.com's policy for children under the age of 13?
 
-The membership web site logs IP addresses and browser types, but we do not link IP addresses to anything personally identifiable. This means that a user’s session will be tracked, but the user will be anonymous.
+firstforwomen.com is not intended for children’s use. If you are under the age of 13, please exit this Website and do not provide us with any Personal Information. firstforwomen.com does not knowingly accept collect Personal Information from children under 13, as doing so is restricted by the Children's Online Privacy Protection Act ("COPPA"). For more information on COPPA, please refer to the Federal Trade Commission website.
 
-To serve your needs and interests better, we collect and store statistics and other information about the online activities of our visitors on an aggregated (collective) basis.
+### How does firstforwomen.com use this Personal Information?
 
-In those instances where we do collect personally identifiable information, you have the option of choosing to reveal it to us. Examples of when you voluntarily submit this kind of information include when you answer our polls, enter sweepstakes or contests, fill out the Member Registration page, send us feedback or post in chat rooms or message boards.
+Personal Information may be used for marketing and promotional purposes by firstforwomen.com and its parent companies, subsidiaries and affiliates. We also may rent, sell or otherwise disclose your Personal Information to advertisers, sponsors, business partners and other third parties for their use.
 
-In the event of a complaint, we may also receive personally identifiable information about you from other parties in our network or from other users or third parties who may communicate information to us about you in relation to that complaint.
+### Third-party Agents
 
-_**Contests, Sweepstakes & Advertiser Promotions**_
+We occasionally have third party agents and partners that perform functions on our behalf, such as marketing, analytics, or fraud protection. These entities have access to the Personal Information needed to perform their functions and are contractually obligated to maintain the confidentiality and security of that personal information.
 
-Personal information is collected on our web site on Entry Forms for contests, sweepstakes and other promotions. All information entered on these Entry Forms is shared with the advertiser(s) and sponsor(s) of the particular event.
+### Emergency Situations
 
-_**Membership Registration Form**_
+We may also use or disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on firstforwomen.com; (b) protect and defend our rights or property, the Website or our users; (c) enforce the Website’s Terms of Use; and (d) act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or the users of the Website or the public.
 
-We encourage visitors to register as a Member. Our Member registration form asks users for name, email address, preferences, and various types of demographic information.
+### Does firstforwomen.com collect non-personal information?
 
-Benefits of Membership include the convenience of having your basic identification information pre-filled in on sweepstakes and contest entry forms, and the ability to enter promotions or enjoy offers that are for Members Only.
+firstforwomen.com also collects anonymous information about your navigation of our Website, as described below.
 
-As a registered Member, your name and email address are used to update you via email newsletters on new First for Women magazine issues and articles, new contests and sweepstakes, and special offers. If you would rather not receive email newsletters from us, but would still like to register, please indicate your preference by marking the appropriate box presented on the registration form.
+### What are cookies and how does firstforwomen.com use them?
 
-Occasionally, we like to present you with special offers from our partners. This involves sharing your information with them so they can send you the offer. If you prefer, you can choose that your information not be shared with our partners by indicating your preference on the registration form.
+Cookies are small pieces of data that are placed on your computer's hard drive when you visit firstforwomen.com. Cookies are standard in the industry; you'll find them at most major websites. Cookies allow firstforwomen.com to keep track of which areas of our site you have visited, how long you spend on a particular page and sites that have referred you to firstforwomen.com, to track your preferences and interests, and to personalize your experience at firstforwomen.com.
 
-Preferences and demographic information are used to help us improve our services. The more we know about you, the better we can serve you.
+### What is an IP address and how does firstforwomen.com use it?
 
-_**How We Use and Disclose Your Information**_
+An IP address is a number that's automatically assigned to your computer whenever you're surfing the web - your computer's unique "signature." Web servers automatically identify your computer by its IP address. When you visit firstforwomen.com, we collect some general information about your computer, including its IP address, the operating system it uses (for example, Windows XP), the browser software it uses (for example, Microsoft Internet Explorer), and your Internet service provider (for example, AOL). This information helps us better understand the people who visit firstforwomen.com.
 
-As a general practice, we do not sell your personally identifiable information to third parties. So, for example, we do not sell your email addresses or your name and personal demographic information to mass marketers.
+firstforwomen.com collects this general information to identify the most popular areas on our website and to provide aggregate information to our advertisers to let them know about the number of people who have seen and clicked on their advertisements.
 
-In some situations, we share your personally identifiable information with third parties who provide services to our network in order to enhance the functionality available to you as part of the network, and to provide you with new products and services such as email and Member pages.
+### What are web beacons and how does firstforwomen.com use them?
 
-_**Controlling or Changing Your Information**_
+firstforwomen.com may contain tiny electronic images known as web beacons. We may use web beacons to assist us in delivering cookies on the Website and to allow us to count users who have visited those pages. We may include web beacons in promotional email messages to determine whether messages have been opened and acted upon.
 
-You can access and update your personal information and email preferences by going to the Membership Registration area of the website and following the instructions on that page. You may also email us at [FFWwebmaster@tmagusa.com](mailto:FFWwebmaster@tmagusa.com) to request a copy of your current information and to indicate updates to that information.
+### Use of non-personal Information
 
-_**Cookies and Other Tracking Methods**_
+We may share statistical or aggregated non-personal information about our users with advertisers, business partners, sponsors and other third parties. This data is used to customize our Website content and advertising to deliver a better experience to our users.
 
-Cookies are small pieces of information stored on your hard drive, not on our site. We may use cookies or, in a limited number of cases, IP addresses for a number of reasons. First, cookies allow you to store your password without having to constantly re-enter it. Second, cookies can also help us to tailor a Web site or a marketing message to better match your needs and interests. Third, cookies allow us to better understand how users use our site, which in turn helps us focus our resources on features that are most popular with our users. You are always free to decline our cookies if your browser permits, but some parts of our site may not work properly if you do.
+We may work with third-party advertising companies who may utilize cookies and web beacons, and data collected on this site, to customize advertisements to you on this, as well as on other websites in their networks beyond this website. These companies do not have access to or use your name, address, e-mail address, telephone number or other personally identifiable information; they may, however, anonymously track your Internet usage across this and other websites in their networks. For more information about these advertising companies' privacy policies, including how to opt out from their use of cookies and web beacons to track your use of websites, see [www.networkadvertising.org](http://www.networkadvertising.org/).
 
-**Note:** We may place advertising on our site that originates from outside advertisers and/or advertising agencies. In some cases, if you click on or view these ads, the advertiser may assign a cookie. First for Women's website does not control these cookies.
+### What happens when I link to or from another website?
 
-_**Other Sites**_
+You should also be aware that other companies may advertise on our site, and firstforwomen.com may provide links to other websites. These advertisers and sites may collect data or solicit personal information from you. firstforwomen.com does not control these advertisers and sites, and this Privacy Policy does not address the practices of these other companies and sites. We are not responsible for the actions and privacy policies of third parties and other websites. We encourage you to be aware of when you leave firstforwomen.com and to read the privacy policy of each website that you visit.
 
-When you click on a link to another website from First for Women website, you have left our website. Our privacy policy does not extend to sites outside of the First for Women website.
+### How does firstforwomen.com protect my Personal Information?
 
-_**Security**_
+We strive to ensure that your information is secure on our system. Only those employees who need access to your information in order to do their jobs are allowed access. firstforwomen.com sometimes asks for your credit card information in order to provide you with goods or services that you request. This information is securely stored on our computers (also called "servers"). While we use all reasonable efforts to safeguard the confidentiality of your information, we will have no liability for disclosure of any information obtained due to errors in transmission or the unauthorized acts of third parties. No data storage system or transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us. You do so at your own risk.
 
-We use industry-standard efforts to safeguard the confidentiality of your personal identifiable information, such as firewalls and Secure Socket Layers where appropriate. However, "perfect security" does not exist on the Internet.
+### Governing Law/Assignment
 
-We hope this policy clarifies our procedures regarding your personal information.
+firstforwomen.com is published in the United States and is intended for users from the United States. U.S. law will govern in any and all disputes, including privacy or defamation issues or otherwise.
 
-**Close this window to return to previous page.**
+We may change our ownership or corporate organization while providing the Website. As a result, please be aware that we may transfer your information to another company with which we have merged. Under such circumstances to the extent possible firstforwomen.com would require the acquiring party to follow the practices described in this privacy policy, as it may be amended from time to time.
+
+### Will firstforwomen.com update this policy?
+
+We also reserve the right to change or update this policy, or any other policy or practice, at any time, with reasonable notice to users of this Website.
+
+### How can you correct or update your Personal Information?
+
+If you would like to correct or update Personal Information you previously provided to firstforwomen.com, you can let us know by sending us an e-mail at [privacypolicy@bauerpublishing.com](mailto:privacypolicy@bauerpublishing.com) or mailing a letter to our postal address listed below.
+
+### How can you contact firstforwomen.com?
+
+If you have any questions about our Privacy Policy, you can contact us at:
+
+> First For Women  
+> 270 Sylvan Avenue  
+> Englewood Cliffs, NJ 07632  
+> [privacypolicy@bauerpublishing.com](mailto:privacypolicy@bauerpublishing.com)  
+> (201) 569-6699
