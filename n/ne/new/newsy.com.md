@@ -1,21 +1,17 @@
-> *The following text is extracted and transformed from the newsy.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617152246id_/http%3A//www.newsy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsy.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216152836id_/http%3A//www.newsy.com/privacy) for the most accurate reproduction.*
 
 # Newsy | Privacy Policy | Multisource Video News Analysis
 
-## NEWSY.COM PRIVACY STATEMENT
-
 Thank you for visiting NEWSY.COM. Your privacy is important to us. To better protect your privacy, we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used at this site. 
 
-The Information We Collect
-
+**The Information We Collect**  
 At our site, you can maintain a profile, vote in polls or otherwise express an opinion, subscribe to our online newsletters, or participate in our online discussions. The types of personally identifiable information that may be collected include: name, address, and e-mail address. 
 
 Only persons who provide us with the requested personally identifiable information will be able to participate in the site's activities and offerings. 
 
 We also may collect certain non-personally identifiable information when you visit our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). 
 
-How We Use the Information
-
+**How We Use the Information**  
 We may use the information you provide about yourself to fulfill your requests or to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. 
 
 We sometimes use this information to communicate with you, such as to fulfill a request by you for an online newsletter, or to contact you about your account with us. 
@@ -32,8 +28,7 @@ We may on occasion combine information we receive online with outside records to
 
 Finally, we will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
 
-Cookies & Web Beacons
-
+**Cookies & Web Beacons**  
 To enhance your experience with our site, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
 
 We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use other areas of our site. We also may use cookies to offer you products, programs, or services. 
@@ -48,12 +43,10 @@ Our site sometimes may offer content (e.g., contests, sweepstakes, or promotions
 
 From time to time we may use a reputable third party to present or serve the advertisements that you may see on our Web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy statement. 
 
-Our Commitment to Security
-
+**Our Commitment to Security**  
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
 
-How You can Access or Correct Information
-
+**How You can Access or Correct Information**  
 Access to personally identifiable information that is collected from our sites may be accessible for a limited period of time from the point of collection. For example, if you created a password-protected account within our site, you can access that account to review the information you provided. 
 
 You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, e-mail address and the password you use for said service. 
@@ -64,8 +57,7 @@ Newsy.com
 904 Elm St., Suite 208   
 Columbia, MO 65201 
 
-Updates & Effective Date
-
+**Updates & Effective Date**  
 From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. 
 
 The Privacy Statement posted on this site was updated on or about October 27, 2008.
