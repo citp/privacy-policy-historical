@@ -1,27 +1,118 @@
-> *The following text is extracted and transformed from the alienware.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514193648id_/http%3A//www.alienware.com/sub_pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienware.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216025529id_/http%3A//www.dell.com/content/topics/global.aspx/policy/en/policy%3Fc%3Dus%26cs%3D%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
 
-# Alienware: Learn More About Our Privacy Policy
+# Dell Terms of Sale, License Agreements & Policies | Dell
 
-The Alienware Website ([www.alienware.com](http://www.alienware.com/)) is maintained by Alienware Corporation. Protecting your privacy is important to Alienware, and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically.
+Privacy Statement Regarding Customer and Online User Information
 
-  1. **Scope of the Privacy Policy.** This Privacy Policy applies only to the collection and use of information collected online on the Alienware Website. Other websites that may be affiliated with Alienware may have different privacy policies.
-  2. **Information.** We may collect your personally identifiable information (“Personal Information”) when you visit the Alienware Website. Personal Information, however, is not collected on this website unless you choose to provide it to us. When making inquiries, ordering a product or requesting service information, participating in certain promotional activities, completing surveys, and generally corresponding with us, we may ask for certain Personal Information, including, for example, your name, mailing address, phone number and email address. If you are on a part of our website that requires you to provide your Personal Information, it will be clear what Personal Information we are requesting. We may also collect other information that is provided to us by your web browser. This may include the browser you used to come to our website, the Uniform Resource Locator (“URL”) of the website that you just visited before visiting our website, which pages on our website you visit, any search terms you entered, which URL you go to next, and your Internet Protocol (“IP”) address.
-  3. **Use of your information.** Information is collected and used in various ways that will help us better serve our customers and visitors to our website, including those below.
-    1. **Browsing.** Information collected while browsing through our website. This information is collected to help run our site more efficiently, to gather broad demographic information, to monitor the level of activity on our site, and to evaluate the effectiveness of advertising and promotion.
-    2. **Product Inquiries, Placing Orders, Customer Service & Technical Support.** Information collected when you contact Alienware about our product and service offerings. This information is necessary to identify your products or systems, understand the configuration of the products, diagnose your questions, and provide solutions.
-    3. **Online surveys and polling.** Information collected you volunteer to complete surveys or participate in polls. Surveying and polling is extremely important to us as we use this information to improve our product and service offerings. 
-    4. **Promotional activities.** When you enter a contest or other promotion, we may ask you for information such as your name, address and e-mail address to administer the program or activity, to send you promotional e-mails, notify winners and make the winners’ list publicly available in compliance with laws which may apply to such activities.
-    5. **Newsletters and promotional e-mails.** As a service to our customers, we may e-mail you newsletters, promotional information and other information, using your Personal Information collected online. These e-mails will only be sent to you if you have agreed to receive them or if you have the right to opt out from further receiving them. 
-    6. **Contact information:** If you contact us, we may keep a record of your correspondence or comments, including any information therein. We use this information to help us provide better service.
-    7. **Sharing your Personal Information.** Unless we have your permission to do otherwise, we will share the Personal Information you provide online only with Alienware subsidiaries or with entities that provide services to Alienware or are business partners of Alienware, and only for legitimate purposes including those described herein. Personal Information we collect online is used for responding to inquiries, processing orders, keeping you informed about your order status, for statistical purposes, for improving our site and its performance, for developing better products and services, to serve advertisements, contests, surveys and promotions, and to notify you of products or special offers that may be of interest to you. Alienware (or part of it) or its related entities could merge with or be acquired by another business entity or their respective assets could be acquired. Should such a combination or acquisition occur, you should expect that Alienware would share some or all of your Personal Information to continue serving you and other users of our website. Occasionally, we may be required by law enforcement or judicial authorities to provide your Personal Information to the appropriate authorities. We will disclose your Personal Information if required by law, upon receipt of a court order or subpoena, or to cooperate with a law enforcement investigation. We reserve the right to report to law enforcement authorities any activities that we, in good faith, believe to be unlawful.
-    8. **Use of cookies and web beacons.**
-      1. **Cookies.** A “cookie” is a small data file that a website can send to your browser, which may then be stored on your system. We use cookies to better serve you when you return to our site. Some of our web pages may send cookies when you visit our site, make purchases, respond to online surveys or promotions, participate in a contest, or request information. Accepting the cookies used on our site enables our web server to identify your system by reading the cookie that has been stored on your system, but our web server cannot identify you unless you enter your Personal Information. Cookies that are placed when visiting our site cannot be used to obtain your Personal Information at another site. The information collected online permits us to analyze traffic patterns on our site. This can enable us over time to provide users with a better experience on our site by improving the content and making it easier to use. Depending on the browser used, you can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it, and you can also set your browser to turn off cookies. However, if you do so, some areas of this site may not function properly, or you will be required to re-enter your Personal Information to use an area of this site.
-      2. **Web Beacons.** We may also use web beacon technologies to better tailor the site to provide better customer service. A web beacon is a single pixel .GIF that allows a website to count users who have visited that page or access certain cookies. These web beacons may be placed on specific pages across this website. When a visitor accesses these pages, an anonymous notice of that visit is generated which may be processed by us or by our vendors. These web beacons work in conjunction with cookies. If you don’t want to associate your anonymous cookie information with your visits to these pages, depending on the browser used, you can set your browser to turn off cookies.
-  4. **Children’s privacy.** If you are under the age of 18, please make sure that you provide your Personal Information only after obtaining your parental consent. 
-  5. **Protecting your Personal Information.** While Alienware does not guarantee that unauthorized access will never occur, Alienware does take care in maintaining the security of your Personal Information and in preventing unauthorized access to it.
-  6. **Links to other Websites.** Parts of our site contain links to our subsidiaries and third-party websites for your convenience and information. If you use these links, you will leave Alienware’s website. When you access these other sites, even ones that may contain the Alienware mark, please understand that we do not control the content and are not responsible for the privacy practices of that website. We suggest that you carefully review the privacy policies of each website you visit. This Online Privacy Statement does not cover the information practices of those websites linked to our site. These other sites may send their own cookies to users, collect data, or solicit Personal Information.
-  7. **Changes to this Statement.** Alienware reserves the right to change this Online Privacy Statement at any time. Any such changes will be posted in this Privacy Statement. 
-  8. **Applicable laws.** Alienware will protect your Personal Information in accordance with the laws of the United States and the state of Florida.
-  9. **Contact us.** Please contact the webmaster through the “Contact Us” section if you have any questions or comments about the above. 
+The Privacy Statement Regarding Customer and Online User Information applies to Dell Inc. and its worldwide corporate affiliates ("we" or "our"), but not to those Dell corporate affiliates that have published their own privacy and security statements. This privacy statement also does not apply to the websites of our business partners or to any other third parties, even if their websites are linked to our website. We recommend you review the privacy statements of the other parties with whom you interact.
+
+This privacy statement governs personal information we collect from our customers and online from our website users ("you"), through Dell products, services, software, websites, contacts, or our relationship with you. Please refer to your warranty statements and Dell's Return Policy for policies that apply to information contained on hard drives returned to Dell.
+
+For the purposes of this privacy statement, "corporate affiliates" means any entity or joint venture that is wholly or partially owned or controlled by Dell Inc. "Business partners" means any subcontractor, vendor or other entity with whom we have an ongoing business relationship to provide products, services, or information. "Personal information" means information which identifies you, such as your name, telephone number, and email address.
+
+Information We Collect
+
+We may ask you to provide personal information when you 
+
+  * Use our website;
+  * Request quotes, services, support, or information;
+  * Place orders for products or services;
+  * Apply for credit card or financing;
+  * Participate in surveys, sweepstakes, or other promotional activities;
+  * Subscribe to newsletters, promotional emails, or other materials;
+  * Apply for a job, submit your resume/CV, or create a candidate profile; or
+  * Contact us.
 
 
+
+Information we may request includes your email address, name, home address, and telephone number. If you make a purchase, we may ask for your credit card number and billing information. We may also ask for your Social Security number and other data to process your credit or financing request. Job applicants may be requested to provide information such as educational background, employment experience, and job interest. We may also collect demographic information, such as your business or company information, age, gender, interests, preferences and favorites. Forms that you may fill in will indicate whether information requested is mandatory or voluntary.
+
+We may collect information about your visits to our websites, including the pages you view, the links and ads you click, search terms you enter, and other actions you take in connection with the Dell websites and services. We may also collect certain information from the browser you used to come to our website, such as your Internet Protocol (IP) address, browser type and language, access times, the Uniform Resource Locator (URL) of the website that referred you to our website and to which URL you browse away from our site if you click on a link on our site.
+
+In order to offer you a more consistent and personalized experience in your interactions with Dell, information collected through one source may be combined with information obtained through other Dell resources. We may also supplement the information we collect with information obtained from other parties.
+
+Some Dell services may be co-branded and offered in conjunction with another company. If you register for or use such services, both Dell and the other company may receive information collected in conjunction with the co-branded services, and may use the information according to each company's privacy statement and other agreements with you.
+
+How We Use Personal Information
+
+Dell uses your personal information to: 
+
+  * Deliver the services and support, or carry out, the transactions you have requested;
+  * Send communications to you, such as product safety information, your transactions status (for example, order confirmations), information about products and services available from Dell and its corporate affiliates, promotional offers, and surveys;
+  * Customize, analyze, and improve our products, services (including the content and advertisements on our website), technologies, communications and relationship with you;
+  * Enforce our conditions of sale, website terms and/or separate contracts (if applicable) with you;
+  * Prevent fraud and other prohibited or illegal activities;
+  * Protect the security or integrity of the website, our business, or our products or services; or
+  * Otherwise, as disclosed to you at the point of collection.
+
+
+
+Personal information collected may be stored and processed in the United States or any other country in which Dell or its corporate affiliates, subsidiaries or agents maintain facilities, and by using Dell products and services (including our website), you consent to any such transfer of information outside of your country.
+
+Disclosing Personal Information
+
+We may share your personal information with corporate affiliates to carry out transactions you request or to make our business or that of our corporate affiliates more responsive to your needs. We may also disclose your personal information in connection with law enforcement, fraud prevention, or other legal action; as required by law or regulation; or if Dell reasonably believes it is necessary to protect Dell, its customers, or the public.
+
+In addition, we may share your personal information with business partners that help Dell carry out transactions you request or that help Dell to customize, analyze, and/or improve our communication or relationship with you, and then only with business partners who share Dell's commitment to protecting your personal information. Except as described above, we will not disclose your personal information to third parties for their own marketing purposes unless you have provided consent.
+
+How You Can Access Your Information
+
+Dell wants to help you keep your personal information accurate. To view or edit your personal information that has been stored online in your Dell 'My Account,' please visit the My Account / Premier Account sections of the dell.com website. For the security of your account, you will be required to sign in with your login ID and password.
+
+Selecting Your Communication Preferences
+
+You may choose to receive or not receive marketing communications from Dell by indicating your preferences. Opportunities to select your preferences include the following: 
+
+  * The My Account / Premier Account sections on Dell.com allow you to choose whether you wish to receive marketing communications from Dell.com, and to subscribe or unsubscribe to newsletters about our products and services; and
+  * At any point you can also visit our [List Removal Page](https://ecomm.dell.com/GSC/ListRemoval/Index?returnPath=www.dell.com/content/topics/global.aspx/policy/en/country_specific&s=gen&~section=023&c=us&l=en) and request to be removed from our advertising and marketing lists (catalogs, telephone, faxes, and email);
+  * At the time you save a cart while shopping online, you can choose to receive email reminders;
+  * Any marketing by Dell, or any third parties on behalf of Dell, will be conducted in accordance with applicable laws.
+
+
+
+Please allow up to 10 business days for your email preferences to take effect.
+
+Because some promotions, such as direct mail catalogs, are developed in advance, you may sometimes receive solicitations after we receive your preference request.
+
+How We Secure Your Personal Information
+
+Dell is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure, such as encryption, passwords, physical security, etc. While we strive to protect your personal information, Dell cannot ensure or warrant that the personal information or private communications you transmit to us will always remain private, and you do so at your own risk. For more information about our security measures, please click [here](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=006). 
+
+If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone you should always log out before leaving a site or service to protect access to your information from subsequent users.
+
+We will not require you to transmit your SSN on the Internet unless the connection is secure or the SSN is encrypted, or require you to transmit your SSN to access a website without requiring additional authentication.
+
+Collection and Use of Children's Personal Information
+
+Dell takes children's privacy seriously. We do not knowingly collect personal information from children under the age of 13 through our websites.
+
+If you are under 18 years of age, please do not submit any personal information through our websites without the express consent and participation of a parent or guardian.
+
+How We and Our Partners Use Cookies and Web Beacons
+
+Click [here](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=001) for information about how we and our partners use cookies and web beacons to customize content and to tailor advertisements and email you receive.
+
+Third-Party Websites and Services
+
+Please be aware that other websites that may be accessed through our website may collect personally identifiable information about you. The information practices of those third-party websites linked to Dell.com are not covered by this privacy statement. We generally use the "" symbol to mark links that go to third party sites.
+
+Please be aware that, in providing services on Dell's behalf, our business partners may collect personal information about you. 
+
+Changes to Our Privacy Statement Regarding Customer and Online User Information
+
+We will occasionally update this privacy statement. If we make changes to the Privacy Statement Regarding Customer and Online User Information or make any material changes to how Dell will use your personal information, we will revise the Privacy Statement to reflect such changes and revise the statement's effective date, included at the end of this section. We encourage you to periodically review this statement to be informed of how Dell is protecting your personal information. 
+
+Contacting Us
+
+If you would like to contact us for any reason regarding our privacy practices, please write to us at the following address:
+
+Dell Inc.  
+Attention: Privacy  
+One Dell Way  
+Round Rock, Texas 78682  
+USA  
+
+
+You may also email us at [privacy@dell.com](mailto:privacy@dell.com).
+
+ **Privacy Statement Regarding Customer and Online User Information Effective Date: December 30, 2010.**
