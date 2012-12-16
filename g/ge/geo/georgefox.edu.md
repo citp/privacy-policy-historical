@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the georgefox.edu privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617041051id_/http%3A//www.georgefox.edu/legal/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgefox.edu privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216153643id_/http%3A//www.georgefox.edu/legal/index.html) for the most accurate reproduction.*
 
 # Legal and Privacy Information for George Fox University
 
@@ -11,7 +11,7 @@ You may view, copy, print, and use content contained on the George Fox Universit
 
 
 
-The logo of George Fox University may not be used in any electronic or printed publications without the express written permission of George Fox University's [Office of Marketing  Communications](https://web.archive.org/web/20120617041051id_/http%3A//www.georgefox.edu/offices/communications/index.html).
+The logo of George Fox University may not be used in any electronic or printed publications without the express written permission of George Fox University's [Office of Marketing  Communications](https://web.archive.org/web/20121216153643id_/http%3A//www.georgefox.edu/offices/communications/index.html).
 
 The information on this website is descriptive only and is not to be construed as a legal contract.
 
@@ -21,7 +21,7 @@ Reference herein to any specific products, process, publication, or service does
 
 The George Fox University website contains links to other websites on the Internet. George Fox University is not responsible for the content or privacy policies of those sites.
 
-To maintain the uniformity and integrity of this website, any George Fox University departments or programs that wish to have independent pages on the website must be approved on a case-by-case basis. Contact the [Webmaster](mailto:webmaster@georgefox.edu "email address") for more information.
+To maintain the uniformity and integrity of this website, any George Fox University departments or programs that wish to have independent pages on the website must be approved on a case-by-case basis. Contact the [Webmaster](mailto:webmaster@georgefox.edu) for more information.
 
 **Cookies**  
 Cookies are used to track and understand visitor interactions with the [georgefox.edu](http://georgefox.edu/) site to provide better functionality and improve service. Cookies are text files placed on your computer's browser to collect non-personally identifiable information such as computer IP address, pages browsed, date and time of visit, browser type, computer operating system, connection speeds, and links used to enter or leave the Web site. Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. 
@@ -43,4 +43,4 @@ Information submitted on this website is maintained on a private secure server a
 From time to time, the website requests information from users via surveys. Participation in these surveys is completely voluntary and the user has a choice whether or not to provide this information. Information requested may include contact information (such as name and address), demographic information (such as zip code, age level), and any other information deemed by the university to be relevant to it and/or its academic programs.
 
 **Contact Us**  
-Please direct questions or comments to the [Webmaster](mailto:webmaster@georgefox.edu "email address").
+Please direct questions or comments to the [Webmaster](mailto:webmaster@georgefox.edu).
