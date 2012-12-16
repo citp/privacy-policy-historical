@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skinnymoose.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512050826id_/http%3A//www.skinnymoose.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnymoose.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216163357id_/http%3A//www.skinnymoose.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Skinny Moose
+# Privacy Policy
 
 **Privacy Policy**  
 Effective January 15, 2011
