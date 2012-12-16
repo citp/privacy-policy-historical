@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the layads.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229044438id_/http%3A//www.layads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layads.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216050110id_/http%3A//www.layads.com/privacy-policy) for the most accurate reproduction.*
 
 # Publish Online Advertising in India | Privacy Policy
-
-PRIVACY POLICY
 
 Layads.com Privacy Policy : 
 
@@ -10,7 +8,7 @@ Layads.com privacy describes how we handle personal information. We utilize safe
 
 Information Collection : 
 
-Information posted on Layads.com is available to all. If you choose to share the Personal information you are agreeing for the transfer and storage of information you provided with us. The Information we collect and store would be of email address and physical contact information and also computer sign on data and also statistics on various page views along with IP Information which includes IP address and weblog information . 
+Information posted on layads.com is available to all. If you choose to share the Personal information you are agreeing for the transfer and storage of information you provided with us. The Information we collect and store would be of email address and physical contact information and also computer sign on data and also statistics on various page views along with IP Information which includes IP address and weblog information. 
 
 Usage of Services : 
 
@@ -26,4 +24,4 @@ Some of our business partners use cookies on our site. We have no access to or c
 
 Disclosure of Information : 
 
-Layads.com do not sell or rent your personal data to anyone. The personal data you provide us is saved in a secure environment and is kept in our records. Information collected is stored in a single database, accessible only by Layads.com members. We employ reasonable and current security methods and technologies in order to prevent unauthorized access, maintain data accuracy, and ensure correct use of information. We reserve the right to release information about our users in order to comply with the law. We may also release personal data to enforce or apply the terms and conditions of our services, or to protect the rights, property or safety or our websites, our users, or the general public. For any inquiries contact [support@layads.com](mailto:support@layads.com)
+layads.com do not sell or rent your personal data to anyone. The personal data you provide us is saved in a secure environment and is kept in our records. Information collected is stored in a single database, accessible only by layads.com members. We employ reasonable and current security methods and technologies in order to prevent unauthorized access, maintain data accuracy, and ensure correct use of information. We reserve the right to release information about our users in order to comply with the law. We may also release personal data to enforce or apply the terms and conditions of our services, or to protect the rights, property or safety or our websites, our users, or the general public. For any inquiries contact [support@layads.com](mailto:support@layads.com)
