@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the univariety.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617070633id_/http%3A//www.univariety.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the univariety.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216203210id_/http%3A//www.univariety.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Univariety
 
 **_Introduction:_**
 
-International Education Gateway ('IEG') is a Singapore based organization which believes in the necessity of Global exposure in today's higher education. With offices in Singapore, India and UK currently, IEG strives to work with institutions and students who believe in the power of Global Opportunities. Opportunities come in many shapes and sizes; there can be a large opportunity in accessing the "Best Fitting" university & course for the individual versus just going by some popular names which don't fit the needs. Or say, the face to face interactions at a young age with a learned professor from a foreign country can result in broadening of horizons for the student and result in opening up of many opportunities. At IEG, we believe that many gateways can be opened up if resources are pooled in hence we enable partnerships between like minded institutes around the world.
+Univariety.com is a product of International Education Gateway ('IEG') which is a Singapore based organization (Authroised collection agent for India - College Street Education Technologies Pvt. Ltd.) and believes in the necessity of Global exposure in today's higher education. With offices in Singapore, India and UK currently, IEG strives to work with institutions and students who believe in the power of Global Opportunities. Opportunities come in many shapes and sizes; there can be a large opportunity in accessing the "Best Fitting" university & course for the individual versus just going by some popular names which don't fit the needs. Or say, the face to face interactions at a young age with a learned professor from a foreign country can result in broadening of horizons for the student and result in opening up of many opportunities. At IEG, we believe that many gateways can be opened up if resources are pooled in hence we enable partnerships between like minded institutes around the world.
 
 **_Use of Cookies:_**
 
@@ -14,7 +14,7 @@ Information gathered through cookies and by our web server logs may include the 
 **_Security:_**
 
 International Education Gateway Pte. Ltd. has security measures in place to help protect against the loss, misuse and/or unauthorized alteration of the information you provide to us or that we collect. You are the only user authorized to update your profile, unless you provide your password information to another party. We will assume that anyone who has the required login information and password for your account is you, so please keep this information confidential.  
-            International Education Gateway Pte. Ltd. helps protect personally identifiable information by utilizing both online and offline security methods, including firewalls, passwords and restricted physical access to the servers where your information is stored. Our staff is trained to comply with our security procedures, are bound by confidentiality and our security procedures are reviewed and revised periodically.
+International Education Gateway Pte. Ltd. helps protect personally identifiable information by utilizing both online and offline security methods, including firewalls, passwords and restricted physical access to the servers where your information is stored. Our staff is trained to comply with our security procedures, are bound by confidentiality and our security procedures are reviewed and revised periodically.
 
 **_Changes to the Privacy Policy:_**
 
@@ -40,9 +40,10 @@ International Education Gateway Pte. Ltd. reserves the right to update this Priv
 
 International Education Gateway Pte. Ltd.  Provides information created both by International Education Gateway Pte. Ltd, and by third parties. While our site strives to provide accurate advice, International Education Gateway Pte. Ltd.  Does not make any warranty regarding the accuracy, reliability or use of any information provided on this site.
 
-**_You’re Consent:_**
+**_You're Consent:_**
 
-By using this Web site, you consent to the terms of our Online Privacy Policy and to International Education Gateway's processing of Personal Information for the purposes mentioned above.  
+By using this Web site, you consent to the terms of our Online Privacy Policy and to International Education Gateway's processing of Personal Information for the purposes mentioned above.
+
 **_Contact Information:_**
 
 International Education Gateway Pte. Ltd. welcomes your comments regarding this privacy statement at the contact address given at the website. Should there be any concerns about contravention of this Privacy Policy, International Education Gateway Pte. Ltd will employ all commercially reasonable efforts to address the same.
