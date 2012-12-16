@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vonage.co.uk privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614085428id_/http%3A//www.vonage.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vonage.co.uk privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216235458id_/http%3A//www.vonage.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Vonage UK
 
@@ -103,15 +103,21 @@ You may withdraw consent at any time, subject to legal or contractual restrictio
 
 #### 5\. Cookies Policy
 
-The Site uses a feature of Internet web browsers called a cookie, which is a file that is sent to your browser from the Site's computers and stored on your computer's hard drive. A cookie assigns a unique identification code to your computer. On this Site, the following types of cookie are used:
+The Site uses a feature of Internet web browsers called a cookie, which is a file that is sent to your browser from the Site's computers and stored on your computer's hard drive. A cookie assigns a unique identification code to your computer.
+
+Cookies are used to track and maintain continuity of web sessions such as the subscription process or your viewing of your call details. They also help us track visitors, conduct research, allow you to back click to earlier registration pages viewed by you and improve our content and services.
+
+Vonage's cookies do not collect Personal Information other than the IP address from which you are accessing the Site which may be considered Personal Information. Vonage only collects Personal Information if you knowingly and willingly provide such information.
+
+On this Site, the following types of cookie are used:
 
 Session cookies: these cookies are temporary and will be removed from your computer when you leave the Site.
 
 Persistent cookies: these cookies remain on your computer until you either delete them or they expire.
 
-Cookies are used to track and maintain continuity of web sessions such as the subscription process or your viewing of your call details. They also help us track visitors, conduct research, allow you to back click to earlier registration pages viewed by you and improve our content and services.
+Third Party cookies: these cookies are set by companies and websites that help us make Vonage offers and promotions that we feel will be of more interest to you. These third party companies and websites are trusted and their cookies only collect anonymous data. These cookies cannot be used to find out your identity.
 
-Vonage's cookies do not collect Personal Information other than the IP address from which you are accessing the Site which may be considered Personal Information. Vonage only collects Personal Information if you knowingly and willingly provide such information.
+When you visit third party websites, we strongly recommend that you read their applicable terms and cookie policies before using any third party website.
 
 For a list of the main cookies used on the Site [click here](https://web.archive.org/privacy/cookies-list/).
 
