@@ -1,108 +1,138 @@
-> *The following text is extracted and transformed from the vodafone.co.uk privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629234132id_/http%3A//www.vodafone.co.uk/vodafone-uk/about-this-site/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.co.uk privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216061259id_/http%3A//www.vodafone.co.uk/about-this-site/our-privacy-policy/index.htm) for the most accurate reproduction.*
 
-# About this site - Privacy policy - Vodafone
+# Privacy policy - Vodafone
 
-## Introduction
+## How we use your information
 
-Our privacy policy explains how we collect, use, share and protect your personal information. If we update this policy, we will post any changes on our website so that you’ll always know how your personal information is being used or shared.
-
-###   
-1\. How we’re collecting your personal information
-
-a. We collect your personal information when you:
-
-  * buy a product or service from us (including buying products online, over the phone and in a retail store or other retail outlet);
-  * register for a specific product or service (such as registering your name and address details for a pay-as-you-go phone or setting up an email account with us);
-  * subscribe to newsletters, alerts or other services from us;
-  * ask us for more information about a product or service or contact us with a question or complaint;
-  * respond to a competition, prize draw or survey;
-  * use our network and other Vodafone products or services; or
-  * visit or browse our website or other Vodafone Group websites.
+Our privacy policy explains how we collect, use, share and protect your personal information. If we update this policy, we’ll post any changes on our website.
 
 
 
-b. We may also collect information about you from other organisations if this is appropriate, including fraud-prevention agencies, business directories and credit-reference agencies.
 
-c. We may use cookies (small text files stored in your browser) and other techniques, such as web beacons (small, clear picture files used to follow your movements on our website), to collect information about how you use our websites, and web-related products and services. This allows us to customise our website for you so that it is relevant to your interests and needs. We may use a persistent cookie (a cookie that stays linked to your browser) to record your details so that we can recognise you if you visit our website again. (See Section 3 on ‘Using your personal information’ for more details on how we use information we collect using these cookies.) You can choose to refuse cookies or you can set your browser to let you know each time that a website tries to set a cookie. For more information about cookies (including information on how to turn them off) please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+### Collecting your personal information
 
-### 2 What personal information we’re collecting
+We can get your personal information when you:
 
-a. The information we collect about you will depend on the Vodafone products and services you use and subscribe to. The information we collect includes, but is not limited to, the following.
-
-  * Your name, address, phone number, date of birth and email address.
-  * Credit or debit-card information, information about your bank account number and sort code or other banking information.
-  * Your preferences for particular products, services or lifestyle activities when you tell us what they are or when we assume what they are based on how you use our products and services.
-  * Your contact with us, such as: a note or recording of a call you make to one of our contact centres; an email or letter you send to us; and other records of any contact you have with us.
-  * Your account information, such as: dates of payment owed and received; top-up information; the subscription services you use; and any other information to do with your account.
-
-
-
-b. We will also collect information about how you use our products and services, such as:
-
-  * the phone numbers that you call or send messages to (or the phone numbers that you receive these calls and messages from);
-  * the date, time and length of the calls and messages you send or receive through our network and your approximate location at the time these communications take place;
-  * the level of service you receive, for example network faults and other network events which may affect our network services;
-  * your website browsing information (which includes information about the websites you visit and information about your browsing and how you use our website or other Vodafone Group websites whether through your mobile or a PC); and
-  * the date, time and length of your internet browsing and your approximate location at the time of browsing.
+  * Buy a product or service from us (including buying products online, over the phone and in a retail store or other retail outlet)
+  * Register for a specific product or service (such as registering your name and address details for a Pay as you go phone or setting up an email account with us)
+  * Subscribe to newsletters, alerts or other services from us
+  * Ask us for more information about a product or service, or contact us with a question or complaint
+  * Take part in a competition, prize draw or survey
+  * Use our network and other Vodafone products or services
+  * Visit or browse our website or other Vodafone Group websites
 
 
 
-### 3 Using your personal information
-
-a. We may use and analyse your information to:
-
-  * carry out a credit check if you are applying for a contract for airtime services and to assess your application (see more details about our [credit-checking process](https://web.archive.org/vodafone-uk/about-this-site/privacy-policy/credit-checking/index.htm));
-  * process the goods and services that you have bought from us and keep you updated with the progress of your order;
-  * keep you informed generally about new products and services unless you do not want to receive our marketing messages;
-  * provide the relevant service or product to you, which includes other services not included in your agreement with us and services that use information about where you are when using your mobile equipment (location information), and to contact you with service-related messages about changes to the service or product;
-  * contact you with offers or promotions based on how you use our products and services, including your calling and messaging activities, location information and browsing information (unless you have asked us not to contact you – see Section 2 on ‘Collecting your personal information’ for more details);
-  * bill you for using our products or services or to take the appropriate amount of credit from you;
-  * respond to any questions or concerns that you may have about using our network, products or services;
-  * let you know about products and services offered by other companies (including offers and discounts that we have specially negotiated for our customers) that we think may interest you, if you have chosen to receive this information;
-  * protect our network and to manage the volume of calls, texts and other use of our network (for example, we identify peak periods of use so that we can try and make sure that the network can handle the volume at those times;
-  * understand how our different customers use our network, products and services so we can develop more interesting and relevant products and services for our customers, as well as personalise the products and services we offer you;
-  * carry out research and statistical analysis and monitor customer use of our network, products and services on an anonymous or personalised basis;
-  * prevent and detect fraud or other crimes and recover debts or trace those who owe us money;
+We may also collect information about you from other organisations, if this is appropriate. These include fraud-prevention agencies, business directories and credit reference agencies.
 
 
 
-b. The location information that we use will be your approximate location based on the nearest mobile cell site. As a result, it will change as you move around with your mobile phone.
 
-c. We will store your information for as long as we have to by law. If there is no legal requirement, we will only store your information for as long as we need it.
+### Understanding what you want
 
-### 4 Sharing your personal information
+We might also use cookies (small text files stored in your browser) and other techniques such as web beacons (small, clear picture files used to follow your movements on our website). These collect information that tells us how you use our websites, web-related products and services.
 
-a. We may share information about you with:
+This, in turn, helps us make our website relevant to your interests and needs. We may use a persistent cookie (a cookie that stays linked to your browser) to record your details so we can recognise you if you visit our website again. See the next section for more details.
 
-  * companies in the Vodafone Group (Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital);
-  * partners or agents who are involved in delivering the products and services you have ordered or used;
-  * credit-reference agencies, fraud-prevention agencies, business-scoring agencies or other credit-scoring agencies;
-  * debt-collection agencies or other debt-recovery organisations;
-  * law-enforcement agencies, regulatory organisations, courts or other public authorities if we have to or are authorised to by law; or
-  * emergency services (if you make an emergency call), including your approximate location.
+You can choose to refuse cookies, or set your browser to let you know each time a website tries to set a cookie. You can[ get more information about cookies](http://www.allaboutcookies.org/) including information on how to turn them off.
+
+  * [About the cookies we use on this site](https://web.archive.org/about-this-site/our-privacy-policy/privacy-and-cookies/index.htm)
 
 
 
-b. We will release information if it is reasonable for the purpose of protecting us against fraud, defending our rights or property or to protect the interests of our customers.
+### The personal information we collect
 
-c. If we are reorganised or are sold to another organisation, we may transfer any personal information we hold about you to that organisation.
+The information we collect about you depends on the Vodafone products and services you use and subscribe to. It includes (but isn’t limited to) the following:
 
-d. We may need to transfer your information to other group companies or service providers in countries outside of the EEA (European Economic Area). This may happen if our servers or suppliers and service providers are based outside of the EEA or if you use our services and products while visiting countries outside the EEA. 
+  * Your name, address, phone number, date of birth and email address
+  * Credit or debit card information, information about your bank account number and sort code or other banking information
+  * Your preferences for particular products, services or lifestyle activities when you tell us what they are – or when we assume what they are, depending on how you use our products and services
+  * Your contact with us – such as a note or recording of a call you make to one of our contact centres, an email or letter you send to us or other records of any contact you have with us
+  * Your account information – such as dates of payment owed and received, TopUp information, the subscription services you use or any other information related to your account
 
-e. We may share your information with partner organisations we have chosen carefully so that they might contact you about their products and services if you have agreed to this. 
 
-### 5 Security
 
-a. We have specialised security teams who are constantly reviewing and improving our measures to protect your personal information from unauthorised access, accidental loss or destruction. 
+We’ll also get information on how you use our products and services, such as:
 
-b. If we have a contract with another organisation to provide a service on our behalf, we will make sure they have appropriate security measures and only process your information as we have authorised. Those organisations will not be entitled to use your personal information for their own purposes. If necessary, our security teams check these organisations to make sure that they are meeting the security requirements we have set.
+  * The phone numbers that you call or send messages to (or the phone numbers that you receive these calls and messages from)
+  * The date, time and length of the calls and messages you send or receive through our network, and your approximate location at the time these communications take place
+  * The level of service you receive – for example, network faults and other network events which may affect our network services
+  * Your website browsing information (which includes information about the websites you visit, and about how you use our website or other Vodafone Group websites on your mobile or a PC
+  * The date, time and length of your internet browsing, and your approximate location at the time of browsing
 
-c. Communications over the internet, such as emails, are not secure unless they have been encrypted. Your communications may go through a number of countries before being delivered - this is the nature of the internet. We cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.
 
-### 6 Your privacy rights
 
-You can write to us at any time to get a copy of the personal information we hold about you. You can do this by filling in this [application form](https://web.archive.org/consumer/groups/public/documents/webcontent/vf052779.pdf) and sending it to the address on the form. We will charge you £10 to cover the cost of providing this information.
 
-If you believe we are holding inaccurate information about you, please contact our customer services team (through the ‘Contact Us’ page on our website) so we can correct it.
+### Using your personal information
 
-If you no longer want to receive marketing messages from us, please tell us by contacting our customer services team and you will be ‘opted out’. (You can contact customer services through the ‘[Contact Us](https://web.archive.org/vodafone-uk/contact-us/index.htm)’ page on our website.) You can choose to opt out of all marketing communications or to opt out of marketing in one of several ways (such as email, text, phone or post).
+We may use and analyse your information to:
+
+  * Carry out a credit check if you’re applying for a contract for airtime services and to assess your application. See more details about our [credit-checking process](https://web.archive.org/about-this-site/our-privacy-policy/credit-checking/index.htm)
+  * Process the goods and services you’ve bought from us, and keep you updated with your order progress
+  * Keep you informed generally about new products and services (unless you don’t want to receive our marketing messages)
+  * Provide the relevant service or product to you. This includes other services not included in your agreement with us, and services that use information about where you are when using your mobile equipment (location information) and to contact you with messages about changes to the service or product
+  * Contact you with offers or promotions based on how you use our products and services. These include your calling and messaging activities, location information and browsing information (unless you’ve asked us not to contact you – see Section 2 on ‘Collecting your personal information’ for more details)
+  * Bill you for using our products or services, or to take the appropriate amount of credit from you
+  * Respond to any questions or concerns you may have about using our network, products or services
+  * Let you know about other companies' products and services (including offers and discounts we’ve specially negotiated for our customers) we think may interest you, if you’ve chosen to receive this information
+  * Protect our network and manage the volume of calls, texts and other use of our network. For example, we identify peak periods of use so we can try and ensure the network can handle the volume at those times
+  * Understand how you use our network, products and services. That way, we can develop more interesting and relevant products and services, as well as personalising the products and services we offer you
+  * Carry out research and statistical analysis to monitor how customers use our network, products and services on an anonymous or personal basis
+  * Prevent and detect fraud or other crimes, recover debts or trace those who owe us money
+
+
+
+The information we use will be your approximate location, based on the nearest mobile cell site. As a result, this will change as you move around with your mobile phone.
+
+We’ll store your information for as long as we have to by law. If there’s no legal requirement, we’ll only store it for as long as we need it.
+
+
+
+
+### Sharing your personal information
+
+We may share information about you with:
+
+  * Companies in the Vodafone Group (Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital)
+  * Partners or agents involved in delivering the products and services you’ve ordered or used
+  * Credit reference, fraud prevention or business scoring agencies, or other credit scoring agencies
+  * Debt collection agencies or other debt recovery organisations
+  * Law enforcement agencies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law
+  * Emergency services (if you make an emergency call), including your approximate location
+
+
+
+We’ll release information if it’s reasonable for the purpose of protecting us against fraud, defending our rights or property, or to protect the interests of our customers.
+
+If we’re reorganised or sold to another organisation, we may transfer any personal information we hold about you to that organisation.
+
+We may need to transfer your information to other group companies or service providers in countries outside the EEA (European Economic Area). This may happen if our servers or suppliers and service providers are based outside the EEA, or if you use our services and products while visiting countries outside this area.
+
+We may also share your information with partner organisations we’ve chosen carefully, so they can contact you about their products and services if you’ve agreed to this.
+
+
+
+
+### Keeping your personal information secure
+
+We have specialised security teams who constantly review and improve our measures to protect your personal information from unauthorised access, accidental loss or destruction.
+
+If we have a contract with another organisation to provide a service on our behalf, we’ll make sure they have appropriate security measures and only process your information in the way we’ve authorised. These organisations won’t be entitled to use your personal information for their own purposes. If necessary, our security teams will check them to make sure they meet the security requirements we’ve set.
+
+Communications over the internet (such as emails) aren’t secure unless they’ve been encrypted. Your communications may go through a number of countries before being delivered – as this is the nature of the internet. We can’t accept responsibility for any unauthorised access or loss of personal information that’s beyond our control.
+
+
+
+
+### Your privacy rights
+
+You can write to us at any time to get a copy of the personal information we hold about you. You can do this by filling in this [application form](http://www.vodafone.co.uk/cs/groups/public/documents/webcontent/vftst031658.pdf) and sending it to the address on the form. There’s a charge of £10 to cover the cost of providing this information.
+
+If you believe we’re holding inaccurate information about you, please contact our customer services team (through the ‘Contact Us’ page on our website) so we can correct it.
+
+If you no longer want to receive marketing messages from us, please contact our customer services team and you’ll be ‘opted out’. (You can get in touch with customer services through the [Contact Us](http://help.vodafone.co.uk/system/selfservice.controller?CONFIGURATION=1000&PARTITION_ID=1&CMD=STARTPAGE&USERTYPE=1&LANGUAGE=en&COUNTRY=us&requestedPage=ContactUs) page on our site.)
+
+You can choose to opt out of all marketing communications or to opt out of marketing in one of several ways (such as email, text, phone or post).
+
+
+
