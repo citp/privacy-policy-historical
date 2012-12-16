@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dc.gov privacy policy that was archived on 2012-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501213052id_/http%3A//dc.gov/DC/About%2BDC.Gov/Privacy%2Band%2BSecurity) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dc.gov privacy policy that was archived on 2012-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121216055312id_/http%3A//dc.gov/DC/About%2BDC.Gov/Privacy%2Band%2BSecurity) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	
@@ -149,7 +149,7 @@
                 </div>
                 <div class="subHeader">
                     <div class="dcSearchBar">
-                            <form action="javascript:submitForm()" method="get" id="gs" name="gs">					
+                            <form action="http://google.dc.gov/search" method="get" id="gs" name="gs">					
                                 <fieldset>
                                     <table cellspacing="0">
                                         <tbody><tr>
@@ -170,25 +170,32 @@
                                             </td>
                 
                                             <td>
-                                    
-						
-						
-						<script type="text/JavaScript">
-							function submitForm(){
-							if(!document.gs.emb[0].checked)
-							  document.gs.site.value="about dc.gov";
-							document.gs.action="http://google.dc.gov/search";
-							document.gs.submit();
-							}
-						</script>
+                                   
                                         
                                         <div class="site-filter dcSearchFilter"> 
                                             <div class="inner_site-filter">
                                                 <table>
 													<tbody><tr>
-														<td><input id="radio_all" class="filter-radio" type="radio" value="0" name="emb" title="DC.gov"></td>
+														<td>
+														
+														 
+						
+						
+						<script type="text/JavaScript">
+							function submitForm(){
+							document.gs.submit();
+							}
+							
+							function setSiteFilter(){
+							if(!document.gs.emb[0].checked)
+							  document.gs.site.value="about dc.gov";
+							  else document.gs.site.value="";
+							}
+						</script>
+														
+														<input id="radio_all" class="filter-radio" type="radio" value="0" name="emb" title="DC.gov" onclick="setSiteFilter()"></td>
 														<td>DC.gov&nbsp; </td>
-														<td><input id="site_search" class="filter-radio" type="radio" checked="checked" value="1" name="emb" title="About DC.Gov"></td>
+														<td><input id="site_search" class="filter-radio" type="radio" checked="checked" value="1" name="emb" title="About DC.Gov" onclick="setSiteFilter()"></td>
 														<td>&nbsp;About DC.Gov</td>
 													</tr>
 												</tbody></table>
@@ -208,7 +215,7 @@
                                     <li class="dcDivider">|</li>
                                     <li><a href="https://service.govdelivery.com/service/multi_subscribe.html?code=DCWASH&amp;partner_id=441&amp;mailsender=default" title="Subscribe to Emails">Subscribe to Emails</a></li>
                                     <li class="dcDivider">|</li>
-                                    <li><a href="http://app.dc.gov/agencies/index.asp" title="Agency Directory">Agency Directory</a></li>
+                                    <li><a href="http://directory.dc.gov" title="Agency Directory">Agency Directory</a></li>
                                     <li class="dcDivider">|</li>
                                     <li><a href="http://311.dc.gov/" title="311 Online">311 Online</a></li>
                                     <li class="dcDivider">|</li>
@@ -416,7 +423,7 @@
 		
 	<li class="dcTopNav_item" onmouseover="DC.topNav.doImageOver(this)" onmouseout="DC.topNav.doImageOut(this)">
 	
-		<a href="/DC/Mayor/About+the+Mayor/News+Room/Press+Releases" title="Media"><img src="/staticfiles/img/topnav/mediaVer2.jpg" alt="Media"></a>
+		<a href="http://mayor.dc.gov/newsroom" title="Media"><img src="/staticfiles/img/topnav/mediaVer2.jpg" alt="Media"></a>
 			
           </li>
 
@@ -431,6 +438,10 @@
 		
 		 </li>
 	
+
+       
+
+
 
        
 
@@ -1139,7 +1150,7 @@ document.getElementById('divTranslations').innerHTML='';
 									<table width="100%" cellspacing="2" cellpadding="2" border="0">
 										<tbody>
 											<tr valign="top">
-												<td width="50%" class="sharePopup"><a target="_blank" title="Bookmark on del.icio.us" rel="nofollow" href="http://delicious.com/save?url=http://ddot.dc.gov/DC/About+DC.Gov/Privacy+and+Security?title=Privacy+and+Security&amp;commonDetailLandingBean=contentDetailBean&amp;title=Privacy and Security"><img border="0" alt="Bookmark on del.icio.us" src="/staticfiles/img/social_media_icons/delicious.png">Delicious</a><br><a target="_blank" title="Submit to Digg" rel="nofollow" href="http://digg.com/submit?url=http://ddot.dc.gov/DC/About+DC.Gov/Privacy+and+Security?title=Privacy+and+Security&amp;commonDetailLandingBean=contentDetailBean&amp;title=Privacy and Security"><img border="0" alt="Submit to Digg" src="/staticfiles/img/social_media_icons/digg.png">Digg</a><br><a target="_blank" title="Share on Facebook" rel="nofollow" href="http://www.facebook.com/share.php?u=http://ddot.dc.gov/DC/About+DC.Gov/Privacy+and+Security?title=Privacy+and+Security&amp;commonDetailLandingBean=contentDetailBean"><img border="0" alt="Share on Facebook" src="/staticfiles/img/social_media_icons/facebook.png">Facebook</a><br><a title="Add to Favorites" href="javascript:bookmarksite('/DC/About+DC.Gov/Privacy+and+Security?title=Privacy+and+Security&amp;commonDetailLandingBean=contentDetailBean', 'http://ddot.dc.gov/DC/About+DC.Gov/Privacy+and+Security?title=Privacy+and+Security&amp;commonDetailLandingBean=contentDetailBean')"><img border="0" alt="Add to Favorites" src="/staticfiles/img/social_media_icons/favorites.png">Favorites</a><br><a target="_blank" title="Bookmark on Google" rel="nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http://ddot.dc.gov/DC/About+DC.Gov/Privacy+and+Security?title=Privacy+and+Security&amp;commonDetailLandingBean=contentDetailBean"><img border="0" alt="Bookmark on Google" src="/staticfiles/img/social_media_icons/google.png">Google</a></td><td></td><td width="50%" class="sharePopup"><a target="_blank" title="Myspace" rel="nofollow" href="http://www.myspace.com/index.cfm?fuseaction=postto&amp;t=Privacy and Security&amp;u=http://ddot.dc.gov/DC/About+DC.Gov/Privacy+and+Security?title=Privacy+and+Security&amp;commonDetailLandingBean=contentDetailBean&amp;l="><img border="0" alt="Myspace" src="/staticfiles/img/social_media_icons/myspace.png">Myspace</a><br><a target="_blank" title="Submit to Reddit" rel="nofollow" href="http://reddit.com/submit?url=http://ddot.dc.gov/DC/About+DC.Gov/Privacy+and+Security?title=Privacy+and+Security&amp;commonDetailLandingBean=contentDetailBean"><img border="0" alt="Submit to Reddit" src="/staticfiles/img/social_media_icons/reddit.png">Reddit</a><br><a target="_blank" title="Stumble It!" rel="nofollow" href="http://www.stumbleupon.com/submit?url=http://ddot.dc.gov/DC/About+DC.Gov/Privacy+and+Security?title=Privacy+and+Security&amp;commonDetailLandingBean=contentDetailBean&amp;title=Privacy and Security"><img border="0" alt="Stumble It!" src="/staticfiles/img/social_media_icons/stumble.png">StumbleUpon</a><br><a target="_blank" title="Tweet About It!" rel="nofollow" href="http://twitter.com/home?status=Privacy and Securityhttp://ddot.dc.gov/DC/About+DC.Gov/Privacy+and+Security?title=Privacy+and+Security&amp;commonDetailLandingBean=contentDetailBean"><img border="0" alt="Tweet About It!" src="/staticfiles/img/social_media_icons/twitter.png">Twitter</a></td>
+												<td width="50%" class="sharePopup"><a target="_blank" title="Bookmark on del.icio.us" rel="nofollow" href="http://delicious.com/save?url=http://dc.gov/DC/About+DC.Gov/Privacy+and+Security?commonDetailLandingBean=contentDetailBean&amp;title=Privacy and Security"><img border="0" alt="Bookmark on del.icio.us" src="/staticfiles/img/social_media_icons/delicious.png">Delicious</a><br><a target="_blank" title="Submit to Digg" rel="nofollow" href="http://digg.com/submit?url=http://dc.gov/DC/About+DC.Gov/Privacy+and+Security?commonDetailLandingBean=contentDetailBean&amp;title=Privacy and Security"><img border="0" alt="Submit to Digg" src="/staticfiles/img/social_media_icons/digg.png">Digg</a><br><a target="_blank" title="Share on Facebook" rel="nofollow" href="http://www.facebook.com/share.php?u=http://dc.gov/DC/About+DC.Gov/Privacy+and+Security?commonDetailLandingBean=contentDetailBean"><img border="0" alt="Share on Facebook" src="/staticfiles/img/social_media_icons/facebook.png">Facebook</a><br><a title="Add to Favorites" href="javascript:bookmarksite('/DC/About+DC.Gov/Privacy+and+Security?commonDetailLandingBean=contentDetailBean', 'http://dc.gov/DC/About+DC.Gov/Privacy+and+Security?commonDetailLandingBean=contentDetailBean')"><img border="0" alt="Add to Favorites" src="/staticfiles/img/social_media_icons/favorites.png">Favorites</a><br><a target="_blank" title="Bookmark on Google" rel="nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http://dc.gov/DC/About+DC.Gov/Privacy+and+Security?commonDetailLandingBean=contentDetailBean"><img border="0" alt="Bookmark on Google" src="/staticfiles/img/social_media_icons/google.png">Google</a></td><td></td><td width="50%" class="sharePopup"><a target="_blank" title="Myspace" rel="nofollow" href="http://www.myspace.com/index.cfm?fuseaction=postto&amp;t=Privacy and Security&amp;u=http://dc.gov/DC/About+DC.Gov/Privacy+and+Security?commonDetailLandingBean=contentDetailBean&amp;l="><img border="0" alt="Myspace" src="/staticfiles/img/social_media_icons/myspace.png">Myspace</a><br><a target="_blank" title="Submit to Reddit" rel="nofollow" href="http://reddit.com/submit?url=http://dc.gov/DC/About+DC.Gov/Privacy+and+Security?commonDetailLandingBean=contentDetailBean"><img border="0" alt="Submit to Reddit" src="/staticfiles/img/social_media_icons/reddit.png">Reddit</a><br><a target="_blank" title="Stumble It!" rel="nofollow" href="http://www.stumbleupon.com/submit?url=http://dc.gov/DC/About+DC.Gov/Privacy+and+Security?commonDetailLandingBean=contentDetailBean&amp;title=Privacy and Security"><img border="0" alt="Stumble It!" src="/staticfiles/img/social_media_icons/stumble.png">StumbleUpon</a><br><a target="_blank" title="Tweet About It!" rel="nofollow" href="http://twitter.com/home?status=Privacy and Securityhttp://dc.gov/DC/About+DC.Gov/Privacy+and+Security?commonDetailLandingBean=contentDetailBean"><img border="0" alt="Tweet About It!" src="/staticfiles/img/social_media_icons/twitter.png">Twitter</a></td>
 
 											</tr>
 										</tbody>
@@ -1428,7 +1439,7 @@ document.getElementById('dpmAgency').innerHTML='';
         				 <a target="_blank" href="http://census.dc.gov" title="Census">Census</a></li>
         				 
         				 <li>
-        				 <a target="_blank" href="http://dchr.dc.gov/dcop/cwp/view,a,1222,q,530365,dcopNav,|31656|.asp&#10;" title="DC Jobs">DC Jobs</a></li>
+        				 <a target="_blank" href="http://dchr.dc.gov/page/careers&#10;" title="DC Jobs">DC Jobs</a></li>
         				 
         				 <li>
         				 <a target="_blank" href="http://ocp.dc.gov" title="DC Procurement">DC Procurement</a></li>
@@ -1459,7 +1470,7 @@ document.getElementById('dpmAgency').innerHTML='';
         				 <a target="_blank" href="http://mayor.dc.gov/" title="Mayor's Office">Mayor's Office</a></li>
         				 
         				 <li>
-        				 <a target="_blank" href="http://app.dc.gov/agencies/index.asp" title="DC Agencies">DC Agencies</a></li>
+        				 <a target="_blank" href="http://directory.dc.gov" title="DC Agencies">DC Agencies</a></li>
         				 
         				 <li>
         				 <a target="_blank" href="http://www.dccouncil.washington.dc.us/" title="DC Council">DC Council</a></li>
@@ -1471,9 +1482,6 @@ document.getElementById('dpmAgency').innerHTML='';
         				 <a target="_blank" href="http://mayor.dc.gov/page/cabinet" title="District Appointees">District Appointees</a></li>
         				 
         				 <li>
-        				 <a target="_blank" href="http://capstat.oca.dc.gov/" title="CapStat">CapStat</a></li>
-        				 
-        				 <li>
         				 <a target="_blank" href="http://dc.gov/DC/Government/DC+Courts+&amp;+Laws" title="Courts">Courts</a></li>
         				 
         				 <li>
@@ -1481,6 +1489,9 @@ document.getElementById('dpmAgency').innerHTML='';
         				 
         				 <li>
         				 <a target="_blank" href="http://statehood.dc.gov" title="DC Statehood">DC Statehood</a></li>
+        				 
+        				 <li>
+        				 <a target="_blank" href="http://m.dc.gov" title="Mobile Site">Mobile Site</a></li>
         				 
         				 </ul>
         				 </span>
@@ -1505,7 +1516,7 @@ document.getElementById('dpmAgency').innerHTML='';
         				 <a target="_blank" href="http://feedback.dc.gov/" title="Send Feedback">Send Feedback</a></li>
         				 
         				 <li>
-        				 <a target="_blank" href="http://app.dc.gov/agencies/agency_search.asp?portal_link=fc" title="Search Telephone Directory">Search Telephone Directory</a></li>
+        				 <a target="_blank" href="http://directory.dc.gov" title="Search Telephone Directory">Search Telephone Directory</a></li>
         				 
         				 <li>
         				 <a target="_blank" href="http://311.dc.gov" title="Submit Service Requests">Submit Service Requests</a></li>
