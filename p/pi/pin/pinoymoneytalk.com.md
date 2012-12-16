@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinoymoneytalk.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617023750id_/http%3A//www.pinoymoneytalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoymoneytalk.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216222326id_/http%3A//www.pinoymoneytalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : PinoyMoneyTalk.com – Make Money Online, Stocks, Forex, Mutual Funds Philippines
 
