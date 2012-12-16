@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the featurepics.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628102936id_/http%3A//www.featurepics.com/HelpCenter/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the featurepics.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216074036id_/http%3A//www.featurepics.com/HelpCenter/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # FeaturePics.com - stock photography : royalty free, rights-managed photos. Privacy Policy.
 
