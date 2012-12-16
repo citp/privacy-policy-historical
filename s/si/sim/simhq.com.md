@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simhq.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505000416id_/http%3A//www.simhq.com/_aboutus/aboutus.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simhq.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216132846id_/http%3A//www.simhq.com/_aboutus/aboutus.html%23privacy) for the most accurate reproduction.*
 
 # SimHQ History - Wasn’t the site once owned by....?
 
@@ -201,16 +201,6 @@ Frequently Asked Questions
 >  Account: SimHQ
 > 
 > Click the "Personal" tab, then select _"This money is being sent as",_ then click on the _"Other"_ button.
-
-**What else can I do to support SimHQ?**
-
-> Purchase a book, video, or other product through our [Library](https://web.archive.org/web/20120505000416id_/http%3A//www.simhq.com/_library/library.html). A small percentage of the [Amazon](http://www.amazon.com/) sales help maintain the site's costs.
-> 
-> Supporting our advertisers’ banner ads and letting them know you appreciate their supporting SimHQ.
-> 
-> Buy some goodies from our [CafeExpress](http://www.cafepress.com/1181643252) store. We make $1 USD on each item sold.
-> 
-> You can also support us by recommending us to a friend, and by visiting the site yourself! That helps our traffic numbers which in turn helps us to sell advertising to offset costs.
 
 **Wasn’t the site once owned by....?**
 
