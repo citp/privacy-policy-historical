@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpogd.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505025650id_/http%3A//www.mpogd.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpogd.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216030415id_/http%3A//www.mpogd.com/privacy.asp) for the most accurate reproduction.*
 
 # Multiplayer Online Games Directory / Privacy Policy
 
