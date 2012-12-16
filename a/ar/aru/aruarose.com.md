@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aruarose.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617154439id_/http%3A//aruarose.com/index.php%3Fact%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aruarose.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216164319id_/http%3A//www.aruarose.com/index.php%3Fact%3Dprivacy) for the most accurate reproduction.*
 
 # ROSE Online - AruaROSE: The Official ROSE Online Free To Play 3D Fantasy MMORPG
 
@@ -22,7 +22,7 @@ All personal information held by us is tied to a single Account Name chosen by t
 
 ##### Opt-Out
 
-By providing us with your personal Email Address, you are automatically agreeing to receive regular emails that we choose to send to all Accounts we hold. Players are able to opt-out from receiving these in the [My Account](http://www.aruarose.com/index.php?act=members&code=account "My Account") section of the website. 
+We may use your email address to send you newsletters from time to time to let you know of anything important, such as events and updates. We'll also use your email address to contact you regarding your account. Receiving newsletters is completely voluntary and you can opt-out from receiving these in [My Account](http://www.aruarose.com/index.php?act=members&code=account "My Account") where you will be immediately removed from our mailing list. 
 
 ##### Cookies
 
