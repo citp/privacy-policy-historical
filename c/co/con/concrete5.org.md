@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concrete5.org privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615120225id_/http%3A//www.concrete5.org/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concrete5.org privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216014413id_/http%3A//www.concrete5.org/legal/privacy-policy) for the most accurate reproduction.*
 
 # concrete5 :: concrete5.org Privacy Policy
 
