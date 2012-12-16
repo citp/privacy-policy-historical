@@ -1,0 +1,219 @@
+<!--The following is the downloaded HTML source of the scriptcorp.com privacy policy that was archived on 2012-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121216042445id_/http%3A//www.scriptcorp.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <title>Privacy Policy</title>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="keywords" content="">
+  <meta name="description" content="">
+ <meta name="google-site-verification" content="vUp-JWYOM0ByBQoFKHomrhk4S5wUiXOk0BkxHhJ3uyg">
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.scriptcorp.com/lib/js/jquery.js"></script>
+
+      
+    
+<script type="text/javascript">
+
+$(document).ready(function(){  
+    $("#cat_drop_down").ready(function() { 
+        $.get("ajax.php?act=generate_category_drop_down&id="+$("#cat_drop_down_init_val").html()+"&name="+$("#cat_drop_down_name").html(), function(data){
+          $("#cat_drop_down").html(data);
+        });
+    });  
+    $("#cat_drop_down").change(function() { 
+        $.get("ajax.php?act=generate_category_drop_down&id="+$("#cat_drop_down :selected").val()+"&name="+$("#cat_drop_down_name").html(), function(data){
+          $("#cat_drop_down").html(data);
+        });
+    });  
+  });   
+</script>
+  
+	  
+  
+  <link href="http://www.scriptcorp.com/templates/komet/style.css" rel="stylesheet" type="text/css">
+  <link href="http://www.scriptcorp.com/templates/komet/indexu.css" rel="stylesheet" type="text/css">
+  <link href="http://www.scriptcorp.com/templates/komet/button.css" rel="stylesheet" type="text/css">
+
+  <!-- google one plus -->
+  <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+  
+  <base href="http://www.scriptcorp.com/">
+</head>
+
+<body>
+
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div><script>
+    function Get_Cookie( name ) {
+      var start = document.cookie.indexOf( name + "=" );
+      var len = start + name.length + 1;
+
+      if ( ( !start ) &&
+      ( name != document.cookie.substring( 0, name.length ) ) )
+      {
+        return null;
+      }
+
+      if ( start == -1 ) return null;
+
+      var end = document.cookie.indexOf( ";", len );
+
+      if ( end == -1 ) end = document.cookie.length;
+
+      return unescape( document.cookie.substring( len, end ) );
+    }
+
+    function Delete_Cookie( name, path, domain ) {
+      if ( Get_Cookie( name ) ) document.cookie = name + "=" +
+      ( ( path ) ? ";path=" + path : "") +
+      ( ( domain ) ? ";domain=" + domain : "" ) +
+      ";expires=Thu, 01-Jan-1970 00:00:01 GMT";
+    }
+
+    
+    function logoutFacebookUser() {
+      Delete_Cookie('U_AUTHENTICATED','','');
+      Delete_Cookie('USERNAME','','');
+      Delete_Cookie('PASSWORD','','');
+
+      FB.logout(function(response) {
+        window.location.reload();
+      });
+    }
+    
+    function fbActionConnect() {
+      FB.login(function(response) {
+        if (response.authResponse) {
+          window.location = "./fbconnect.php";
+        }
+      }, {scope:'read_stream,publish_stream,manage_pages,email'});
+    }
+      
+      window.fbAsyncInit = function() {FB.init({appId: 122227701271608, status: true, cookie: true, xfbml: true, oauth: true});};(function() {var e = document.createElement('script'); e.async = true;e.src = document.location.protocol +'//connect.facebook.net/en_US/all.js';document.getElementById('fb-root').appendChild(e);}());</script>
+
+        <div id="top">
+            <div id="logo"><a href="http://www.scriptcorp.com" title="Return to Scriptcorp Home Page"><img src="http://www.scriptcorp.com/templates/komet/media/images/logo.png" alt="Scriptcorp Logo"></a></div>
+          
+            
+           
+            
+                               <div id="banner">
+            <script type="text/javascript"><!--
+google_ad_client = "ca-pub-0407554197567944";
+/* script728x90 */
+google_ad_slot = "5089252233";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+   </div>
+                          
+            
+        </div>
+      
+            <ul class="semiopaquemenu">
+<ul id="main_menu" class=""><li><a rel="" href=".">Home</a></li><li><a rel="" href="add.php">Submit Your Listing</a></li><li><a rel="" href="register.php">Sign Up</a></li><li><a rel="" href="request_new_category.php">Request New Category</a></li><li><a rel="" href="login.php">Login</a></li><li><a rel="" href="power_search.php">Search</a></li><li><a rel="" href="contact.php">Contact Us</a></li><li><a rel="" href="usercp/">My Account</a></li></ul></ul>
+<div class="bottombar"></div>
+ 
+     
+        <div class="clear"></div>
+        <div id="search">
+            <div id="searchLeft"></div>
+            <div id="searchMid">
+                 <form method="get" action="search.php">
+                    <div id="iptSearch">
+                        <input type="text" name="q" id="q" size="20" class="input_text" style="height:16px;width:220px;">	
+                        
+                         
+                    </div>
+                    <div class="fl">
+                        <input alt="Search Submit" value="Go" src="http://www.scriptcorp.com/templates/komet//media/images/search.png" style="border:0px; padding:0px;" type="image">
+                    </div>
+                    <div id="hotkey">&nbsp;&nbsp;<a href="power_search.php" style="color:#0071BB;text-decoration:underline">Advanced search</a> &nbsp;|&nbsp;<span>Hot Tags:</span><span><a href="tag/email-marketing-software">Email Marketing Software</a></span> <span><a href="tag/software">Software</a></span> <span><a href="tag/email">email</a></span>  </div><div style="float:right; padding-right:5px;"><a href="add.php"><img src="http://www.scriptcorp.com/templates/komet//media/images/add.png" alt="add free listing" height="35" border="0"></a></div>
+                </form>
+            </div>
+              <div id="searchRight"></div>
+        </div>
+        <div class="clear"></div>
+        <div id="wrapper">
+               <div id="content" class="clearfix">	
+            
+              
+			 
+			 
+<div id="colLeft">
+<div id="topbar">
+   			  </div>
+			  
+			  <div class="content_box_full"><h3>Privacy Policy</h3><p></p><p><strong>Scriptcorp.com&nbsp;</strong>created this privacy statement to illustrate our company commitment to privacy. The following discloses the information collecting and cookies for Scriptcorp.com.</p>
+<p><strong>Collecting of Personally-Identifying Information<br> </strong>When a visitor joins Scriptcorp.com as our member, certain personality-identifying information is requested. For example, username, email address, website name and website URL. Scriptcorp.com collects such information just to fulfill the purpose of visitor's interaction and shall never sell or trade such information with others. Scriptcorp.com discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Scriptcorp.com believes in good faith that disclosure is reasonably necessary to protect the property or rights of www.Scriptcorp.com, third parties, or the public at large. Visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.</p>
+<p><strong>Cookies</strong>&nbsp;<br> A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Scriptcorp.com uses cookies to help Scriptcorp.com identify and track visitors, their usage of www.get-simple.info website, and their website access preferences. Visitors can set browsers to refuse cookies place on their computers, but certain features of Scriptcorp.com may not function properly without the aid of cookies.</p>
+<p><strong>Ads</strong>&nbsp;<br> Advertising partners may set cookies when their ads appeared on Scriptcorp.com to allow ad server to recognize your computer. The aim of these cookies is to illustrate targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Scriptcorp.com and does not cover the use of cookies by any advertisers.</p>
+<p><strong>Security</strong>&nbsp;<br> To protect the loss, misuse and alteration of information under our control, log file access is restricted to system administrators only once stored on Scriptcorp.com server.</p>
+<p><strong>Contact Information</strong>&nbsp;<br> If you have any questions about this privacy statement, please contact us at admin(at)Scriptcorp.com.</p><p></p></div>        
+			</div>
+            
+            
+    <div id="colRight">
+            
+   <div class="side_title_300">
+         Main Categories 
+              </div>
+
+<div class="side_box">
+        <ul>
+          <li><a href="hosted-apps">Hosted Apps</a></li><li><a href="mobile-apps">Mobile Apps</a></li><li><a href="plugins">Plugins</a></li><li><a href="scripts">Scripts</a></li><li><a href="seo-agencies">Seo Agencies</a></li><li><a href="theme-designs">Theme Designs</a></li><li><a href="tools-softwares">Tools &amp; Softwares</a></li><li><a href="web-agencies">Web Agencies</a></li><li><a href="web-hosting">Web Hosting</a></li>        </ul>
+        
+ <div class="clear"></div>
+      </div>
+      <div class="side_bottom_300"></div>
+        
+            <div class="clear"></div>
+      
+    <script type="text/javascript"><!--
+google_ad_client = "ca-pub-0407554197567944";
+/* scripti250250 */
+google_ad_slot = "6565985438";
+google_ad_width = 250;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><br>        
+			</div>   </div> </div>      <div class="clear"> </div>
+               
+			
+
+        
+        <div class="clear"> </div>
+       
+                <div class="bottombar"></div>
+        <div id="copyright">
+            <div id="cInner">
+                <div id="cContent">
+                    <div id="cIcon"><img src="http://www.scriptcorp.com/templates/komet//media/images/logo.png" alt="Scriptcorp Logo" width="48" height="48"></div>
+                    <div id="cLeft">
+                        <div id="footmenu"><span><a href="#">Get Help</a></span> <span>|</span> <span><a href="/privacy-policy">Privacy Policy</a></span> <span>|</span> <span><a href="/terms-of-uses">Terms of Use</a></span> <span>|</span> <span><a href="/contact">Make a Suggestion</a></span> <span>|</span> <span><a href="#">Advertise with Us</a></span> <span>|</span> <span><a href="/contact">Contact Us</a></span> </div>
+                        <div> Copyright © 2010-2012 ©ScriptCorp.</div>
+                    </div>
+                    <div id="cRight"><a href="http://www.twitter.com/scriptcorp" title="Follow me on Twitter" target="_blank"><img src="http://www.scriptcorp.com/templates/komet//media/images/twitter_icon.gif" alt="Follow me on Twitter" width="96" height="23" border="0"></a> <a href="http://www.facebook.com/scriptcorp" title="Find us on Facebook" target="_blank"><img src="http://www.scriptcorp.com/templates/komet//media/images/facebook_icon.gif" width="99" height="23" alt="Facebook"></a></div>
+                </div>
+            </div>
+        </div>
+       <script src="http://www.scriptcorp.com/click.js.php"></script>
+       <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-12248727-11']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+
+</script>
+    
+</body></html>
