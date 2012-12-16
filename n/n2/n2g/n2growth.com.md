@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the n2growth.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624113408id_/http%3A//www.n2growth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n2growth.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217005404id_/http%3A//www.n2growth.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
+
+**Information Collection and Use**
 
 N2growth ("N2") registration forms request certain contact and profile information (same as user name, e-mail address, profession, and so forth). The requested information is required in order to receive N2 services. The required information is clearly marked as such on the registration page. N2 tracks the open-rates of our HTML e-mails and certain click behavior from those e-mails to help us identify which portions of our newsletters are most popular with our readers. N2 uses this information in the following limited ways:
 
