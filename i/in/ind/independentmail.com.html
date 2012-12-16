@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the independentmail.com privacy policy that was archived on 2012-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617181316id_/http%3A//www.independentmail.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the independentmail.com privacy policy that was archived on 2012-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121216182811id_/http%3A//www.independentmail.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:nitro="http://www.bunchball.com/nitro"><!--
   
@@ -85,35 +85,16 @@
                 if( ind1 == -1 ) ind1 = zagi.length - 1;
                 return zagi.substring( ind + zagiName.length + 1, ind1 ) ;
             }
-            // SITE-LEVEL PARAMETERS
-            yld_mgr = {};
-            yld_mgr.pub_id="22811199396";
-            yld_mgr.site_name="Anderson Independent Mail";
-            yld_mgr.container_type="js";//Hardcoded
-
-            //OPTIONAL PARAMETERS THAT DESCRIBE THE TARGETED CONTENT 
-            // <class 'django.models.flatpages.FlatPage'>
-            /* /privacy/ - Privacy Policy */
-            yld_mgr.content_topic_id_list=[ "20201501"]; 
-            // [Business (NPC)]
-            // yld_mgr.site_section_name_list=[]; // this view is not mapped to yahoo's SiteSectionTaxonomy
-            yld_mgr.content_lang="en-US"; //Hardcoded
-
-
-            //OPTIONAL DISABLE CONTENT SEND 
-            yld_mgr.disable_content_send="0"; 
- 
             //OPTIONAL PARAMETERS FOR GEOGRAPHIC TARGETING 
             var zip = ReadZagi( 'zip_code' );
-            if( zip ) { yld_mgr.user_zip = zip ; }
             var city = ReadZagi( 'city' ) ;
-            if( city ) { yld_mgr.user_city = city ; }
             var state = ReadZagi( 'state' ) ;
-            if( state ) { yld_mgr.user_state = state ; }
             
             //OPTIONAL PARAMETERS FOR DEMOGRAPHIC TARGETING 
-            var age = ReadZagi( 'age' ) ;
+            var gender = ReadZagi( 'gender' )=='M'?'m':ReadZagi('gender')=='F'?'f':''
+
             function AgeToRange( years_old ) {
+                if( isNaN( years_old ) ) { return '' ; }
                 if( years_old < 13 ) { return "" ; }
                 else if( years_old < 18 ) { return "13-17" ; }
                 else if( years_old < 21 ) { return "18-20" ; }
@@ -126,34 +107,32 @@
                 else if( years_old < 55 ) { return "50-54" ; }
                 else if( years_old < 60 ) { return "55-59" ; }
                 else if( years_old < 65 ) { return "60-64" ; }
-                else if( years_old < 100 ){ return "65-100" ; }
-                return "100+" ;
+                return "65plus" ;
             }
-            var gender = ReadZagi( 'gender' )=='M'?'Male':ReadZagi('gender')=='F'?'Female':''
-            if( gender ) yld_mgr.user_gender = gender ;
-            if( age ) yld_mgr.user_age = AgeToRange( age ) ;
+            var age_range = AgeToRange( ReadZagi( 'age' ) ) ;
+
             function IncToRange( inc ) {
                 var idx = 0 ;
                 var numstr = '' ;
-                for( idx = 0; idx < inc.length; idx ++ ) 
+                for( idx = 0; idx < inc.length && inc[idx]!='+'; idx ++ ) 
                     if( ! isNaN( parseInt(inc[idx]) ) ) numstr += inc[idx] ;
                 inc = parseInt( numstr ) ;
                 if( isNaN( inc ) ) { return '' ; }
-                else if( inc <= 24999 ) { return '1-24999' ; }
+                else if( inc <= 24999 ) { return 'less25000' ; }
                 else if( inc <= 34999 ) { return '25000-34999' ; }
                 else if( inc <= 49999 ) { return '35000-49999' ; }
                 else if( inc <= 74999 ) { return '50000-74999' ; }
                 else if( inc <= 99999 ) { return '75000-99999' ; }
                 else if( inc <=149999 ) { return '100000-149999' ; }
                 else if( inc <=249999 ) { return '150000-249999' ; }
-                else if( inc >=250000 ) { return '250000-' ; }
+                else if( inc >=250000 ) { return '250000plus' ; }
             }
             var inc_range = IncToRange( ReadZagi( 'income' ) ) ;
-            if( inc_range ) yld_mgr.user_income=inc_range ;
 
-
-            // define the slots
-            yld_mgr.slots = {} ;
+            var _demo_params = '' ;
+            if( age_range ) _demo_params +=';age=' + age_range ;
+            if( gender ) _demo_params += ';gender=' + gender ;
+            if( inc_range ) _demo_params += ';income=' + inc_range ;
             
 //--> </script>
 <!-- End ad manager -->
@@ -166,124 +145,35 @@
 	
 			
 			<!-- stage register_ad_pos -->
-			<script type="text/javascript"><!--
-            yld_mgr.slots.SUPERSTITIAL = {};
-             
-            //REQUIRED PARAMETERS 
-            yld_mgr.slots.SUPERSTITIAL.request_type="ac"; // ac=ad call, bc=beacon call, fc=forecast call
-            yld_mgr.slots.SUPERSTITIAL.ad_size_list=["720x300", "720x90"  ]; // SUPERSTITIAL
-
-            //OPTIONAL PARAMETERS THAT DESCRIBE THE AD 
-            yld_mgr.slots.SUPERSTITIAL.ad_delivery_mode="ipatf"; // pos = above; ipatf = above the fold, ipbtf = below the fold, ipstf = spans the fold
-            yld_mgr.slots.SUPERSTITIAL.clk_dest="_blank"; //Hardcoded
-            yld_mgr.slots.SUPERSTITIAL.ad_output_encoding="utf-8"; //Hardcoded
-            // no custom categories
-            // yld_mgr.slots.SUPERSTITIAL.content_type_list=[]; // this view not mapped to a yahoo content type
-
-        
-            //--> </script> 
-			<script type="text/javascript"><!--
-            yld_mgr.slots.BIGBOX_1 = {};
-             
-            //REQUIRED PARAMETERS 
-            yld_mgr.slots.BIGBOX_1.request_type="ac"; // ac=ad call, bc=beacon call, fc=forecast call
-            yld_mgr.slots.BIGBOX_1.ad_size_list=["300x250"  ]; // BIGBOX
-
-            //OPTIONAL PARAMETERS THAT DESCRIBE THE AD 
-            yld_mgr.slots.BIGBOX_1.ad_delivery_mode="ipatf"; // pos = above; ipatf = above the fold, ipbtf = below the fold, ipstf = spans the fold
-            yld_mgr.slots.BIGBOX_1.clk_dest="_blank"; //Hardcoded
-            yld_mgr.slots.BIGBOX_1.ad_output_encoding="utf-8"; //Hardcoded
-            // no custom categories
-            // yld_mgr.slots.BIGBOX_1.content_type_list=[]; // this view not mapped to a yahoo content type
-
-        
-            //--> </script> 
+			<!-- registered SUPERSTITIAL ad in position above, slot SUPERSTITIAL -->
+			<!-- registered BIGBOX ad in position above, slot BIGBOX_1 -->
 
 			
 	
 	
-				<script type="text/javascript"><!--
-            yld_mgr.slots.BIGBOX_2 = {};
-             
-            //REQUIRED PARAMETERS 
-            yld_mgr.slots.BIGBOX_2.request_type="ac"; // ac=ad call, bc=beacon call, fc=forecast call
-            yld_mgr.slots.BIGBOX_2.ad_size_list=["300x250"  ]; // BIGBOX
-
-            //OPTIONAL PARAMETERS THAT DESCRIBE THE AD 
-            yld_mgr.slots.BIGBOX_2.ad_delivery_mode="ipbtf"; // pos = below; ipatf = above the fold, ipbtf = below the fold, ipstf = spans the fold
-            yld_mgr.slots.BIGBOX_2.clk_dest="_blank"; //Hardcoded
-            yld_mgr.slots.BIGBOX_2.ad_output_encoding="utf-8"; //Hardcoded
-            // no custom categories
-            // yld_mgr.slots.BIGBOX_2.content_type_list=[]; // this view not mapped to a yahoo content type
-
-        
-            //--> </script> 			
+				<!-- registered BIGBOX ad in position below, slot BIGBOX_2 -->			
 			
 
 
-			<script type="text/javascript"><!--
-            yld_mgr.slots.WEATHER_SPONSOR = {};
-             
-            //REQUIRED PARAMETERS 
-            yld_mgr.slots.WEATHER_SPONSOR.request_type="ac"; // ac=ad call, bc=beacon call, fc=forecast call
-            yld_mgr.slots.WEATHER_SPONSOR.ad_size_list=["120x30"  ]; // WEATHER_SPONSOR
-
-            //OPTIONAL PARAMETERS THAT DESCRIBE THE AD 
-            yld_mgr.slots.WEATHER_SPONSOR.ad_delivery_mode="ipbtf"; // pos = below; ipatf = above the fold, ipbtf = below the fold, ipstf = spans the fold
-            yld_mgr.slots.WEATHER_SPONSOR.clk_dest="_blank"; //Hardcoded
-            yld_mgr.slots.WEATHER_SPONSOR.ad_output_encoding="utf-8"; //Hardcoded
-            // no custom categories
-            // yld_mgr.slots.WEATHER_SPONSOR.content_type_list=[]; // this view not mapped to a yahoo content type
-
-        
-            //--> </script> 
-			<script type="text/javascript"><!--
-            yld_mgr.slots.SEARCH_RESULTS_SPONSOR_1 = {};
-             
-            //REQUIRED PARAMETERS 
-            yld_mgr.slots.SEARCH_RESULTS_SPONSOR_1.request_type="ac"; // ac=ad call, bc=beacon call, fc=forecast call
-            yld_mgr.slots.SEARCH_RESULTS_SPONSOR_1.ad_size_list=["120x30"  ]; // SEARCH_RESULTS_SPONSOR
-
-            //OPTIONAL PARAMETERS THAT DESCRIBE THE AD 
-            yld_mgr.slots.SEARCH_RESULTS_SPONSOR_1.ad_delivery_mode="ipatf"; // pos = above; ipatf = above the fold, ipbtf = below the fold, ipstf = spans the fold
-            yld_mgr.slots.SEARCH_RESULTS_SPONSOR_1.clk_dest="_blank"; //Hardcoded
-            yld_mgr.slots.SEARCH_RESULTS_SPONSOR_1.ad_output_encoding="utf-8"; //Hardcoded
-            // no custom categories
-            // yld_mgr.slots.SEARCH_RESULTS_SPONSOR_1.content_type_list=[]; // this view not mapped to a yahoo content type
-
-        
-            //--> </script> 
+			<!-- registered WEATHER_SPONSOR ad in position below, slot WEATHER_SPONSOR -->
+			<!-- registered SEARCH_RESULTS_SPONSOR ad in position above, slot SEARCH_RESULTS_SPONSOR_1 -->
 			
 			<!-- End register_ad_pos -->
 		
 	
-	<script type="text/javascript"><!--
-            yld_mgr.slots.LEADERBOARD_1 = {};
-             
-            //REQUIRED PARAMETERS 
-            yld_mgr.slots.LEADERBOARD_1.request_type="ac"; // ac=ad call, bc=beacon call, fc=forecast call
-            yld_mgr.slots.LEADERBOARD_1.ad_size_list=["728x90"  ]; // LEADERBOARD
-
-            //OPTIONAL PARAMETERS THAT DESCRIBE THE AD 
-            yld_mgr.slots.LEADERBOARD_1.ad_delivery_mode="ipatf"; // pos = above; ipatf = above the fold, ipbtf = below the fold, ipstf = spans the fold
-            yld_mgr.slots.LEADERBOARD_1.clk_dest="_blank"; //Hardcoded
-            yld_mgr.slots.LEADERBOARD_1.ad_output_encoding="utf-8"; //Hardcoded
-            // no custom categories
-            // yld_mgr.slots.LEADERBOARD_1.content_type_list=[]; // this view not mapped to a yahoo content type
-
-        
-            //--> </script> 
+	<!-- registered LEADERBOARD ad in position above, slot LEADERBOARD_1 -->
 
 
 		
 
-		<script type="text/javascript" src="http://e.yieldmanager.net/script.js"></script>
+		
 	
 	
 	
 	<!-- META -->
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<meta name="author" content="Anderson Independent Mail and Anderson Independent Mail">
+    <!-- fb requires author as meta property instead of meta name and now it is a 'profile' type, not a string -->
+	<!-- <meta property="author" content="Anderson Independent Mail and Anderson Independent Mail" /> -->
 	<meta name="description" content="
 	Privacy Policy news and information. Anderson Independent Mail brings you the most current Privacy Policy news and information available.
 	">
@@ -369,14 +259,18 @@
 <script type="text/javascript" src="http://apptap.scripps.com/apptap3?site=AIM&amp;app=djeff&amp;path=/privacy&amp;title=privacy-policy&amp;topic=Business+%28NPC%29"></script><script type="text/javascript">apptap();</script>
 
 <script type="text/javascript">document.body.className += " hasJS"</script>
-	
-
-
 
 	
 
+
+
 	
-	<div class="adtag" id="SUPERSTITIAL"><script>yld_mgr.place_ad_here("SUPERSTITIAL");</script> </div>
+
+	
+	<div class="adtag" id="SUPERSTITIAL"><script language="JavaScript">
+        // slotname: SUPERSTITIAL
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=1;sz=720x300;ord=11790200;dcopt=ist;pos=above' + _demo_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=1;sz=720x300;ord=11790200;dcopt=ist;pos=above" type="text/javascript"></script></div>
 
 
 <div id="advertising_wrapper" class="default ggnoads">
@@ -387,7 +281,10 @@
 			
 		
 			<div id="leaderboard">
-				<div class="adtag" id="LEADERBOARD_1"><script>yld_mgr.place_ad_here("LEADERBOARD_1");</script> </div>
+				<div class="adtag" id="LEADERBOARD_1"><script language="JavaScript">
+        // slotname: LEADERBOARD_1
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=6;sz=728x90;ord=66457025;pos=above' + _demo_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=6;sz=728x90;ord=66457025;pos=above" type="text/javascript"></script></div>
 			</div> <!-- end #leaderboard -->
 		
 		</div> <!-- end #advertising -->
@@ -550,17 +447,12 @@
 				<li><a href="/news/sports/professional/football/" title="Professional Football">Pro Football</a></li>				
 				<li><a href="/news/sports/high-school/football/" title="High School Football">High School Football</a>
 					<ul class="tertiary_nav">
-						<li><a href="/news/sports/high-school/football/all/" title="High School Football">All Stories</a></li>
-						<li><a href="/news/sports/high-school/football/abbeville/" title="Abbeville High School">Abbeville</a></li>
-						<li><a href="/news/sports/high-school/football/belton-honea-path/" title="Belton-Honea Path High School">Belton-Honea Path</a></li>
-						<li><a href="/news/sports/high-school/football/calhoun/" title="Calhoun High School">Calhoun</a></li>
+						<li><a href="/news/sports/high-school/football/all/" title="High School Football">All Stories</a></li>						
+						<li><a href="/news/sports/high-school/football/belton-honea-path/" title="Belton-Honea Path High School">Belton-Honea Path</a></li>					
 						<li><a href="/news/sports/high-school/football/crescent/" title="Crescent High School">Crescent</a></li>
 						<li><a href="/news/sports/high-school/football/daniel/" title="D.W. Daniel High School">DW Daniel</a></li>
-						<li><a href="/news/sports/high-school/football/dixie/" title="Dixie High School">Dixie</a></li>
 						<li><a href="/news/sports/high-school/football/elberton/" title="Elbert County High School">Elbert County</a></li>
 						<li><a href="/news/sports/high-school/football/franklin/" title="Franklin High School">Franklin</a></li>
-						<li><a href="/news/sports/high-school/football/greenwood/" title="Greenwood High School">Greenwood</a></li>
-						<li><a href="/news/sports/high-school/football/habersham/" title="Habersham High School">Habersham</a></li>
 						<li><a href="/news/sports/high-school/football/hanna/" title="T.L. Hanna High School">T.L. Hanna</a></li>
 						<li><a href="/news/sports/high-school/football/hart/" title="Hart County High School">Hart County</a></li>
 						<li><a href="/news/sports/high-school/football/liberty/" title="Liberty High School">Liberty</a></li>
@@ -588,8 +480,7 @@
 				<li><a href="/news/sports/professional/golf/" title="Professional Golf">Golf</a></li>				
 				<li><a href="/news/sports/columnists/" title="Columnists">Columnists</a>
 					<ul class="tertiary_nav">
-						<li><a href="http://www.orangeandwhite.com/news/columns/greg-wallace/" title="Greg Wallace">Greg Wallace</a></li>
-						<li><a href="/news/sports/columnists/paul-strelow/" title="Paul Strelow">Paul Strelow</a></li>					
+						<li><a href="http://www.orangeandwhite.com/news/columns/greg-wallace/" title="Greg Wallace">Greg Wallace</a></li>				
 						<li><a href="/news/sports/columnists/brad-senkiw/" title="Brad Senkiw">Brad Senkiw</a></li>
 						<li><a href="/news/sports/columnists/scott-adamson/" title="Scott Adamson">Scott Adamson</a></li>
 					</ul>
@@ -637,14 +528,7 @@
 					</ul>
 				</li>
 				<li><a href="/news/entertainment/movies/" title="Movies">Movies</a></li>
-				<li><a href="/news/entertainment/music/" title="Music">Music</a>
-					<ul class="tertiary_nav">
-						<li><a href="/bands/" title="Anderson Bands">Anderson Bands</a></li>
-						<li><a href="/places/venues/" title="Anderson Venues">Anderson Venues</a></li>
-						<li><a href="/dl/mp3/" title="mp3s">mp3s</a></li>
-						<li><a href="/dl/radio/" title="Anderson Independent Mail Radio">Anderson Radio</a></li>
-					</ul>
-				</li>
+				<li><a href="/news/entertainment/music/" title="Music">Music</a></li>
 				<li><a href="/news/entertainment/nightlife/" title="Nightlife">Nightlife</a></li>
 				<li><a href="/news/entertainment/technology/" title="Technology">Technology</a></li>
 				<li><a href="/news/entertainment/television/" title="Television">Television</a></li>
@@ -796,9 +680,11 @@
 
 		
 		
+ 		
 		
-		
+
 		<div id="content_wrapper" class="clear">
+
 			
 		
 		<div id="primary_content">
@@ -915,9 +801,14 @@ We will respond to your request and, if applicable and appropriate, make the req
 			<div id="secondary_content" class="ggnoads">
 				
 					
+				
+					
 						<div class="bigbox_wrapper clear">
 	<div class="bigbox">
-		<div class="adtag" id="BIGBOX_1"><script>yld_mgr.place_ad_here("BIGBOX_1");</script> </div>
+		<div class="adtag" id="BIGBOX_1"><script language="JavaScript">
+        // slotname: BIGBOX_1
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=2;sz=300x250;ord=47900974;pos=above' + _demo_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=2;sz=300x250;ord=47900974;pos=above" type="text/javascript"></script></div>
 	</div> <!-- end .bigbox -->
 </div> <!-- end .bigbox_wrapper -->
 						
@@ -969,28 +860,28 @@ We will respond to your request and, if applicable and appropriate, make the req
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2012/jun/16/anderson-county-council-agenda-makes-no-mention-pr/?partner=popular" title="The Anderson County Council will gather Tuesday for its first regular meeting since a state grand jury announced that it had stopped investigating Joey Preston’s contract buyout and had found no crime" rel="nofollow">Anderson County Council agenda makes no mention of Preston lawsuit</a>
-					<span class="date">Published 6/16/2012 at 2:21 p.m.</span> <a href="/news/2012/jun/16/anderson-county-council-agenda-makes-no-mention-pr/?partner=popular#comments" class="comment_count" rel="nofollow">29 comments</a>
+					<a href="/news/2012/dec/14/tearful-obama-calls-action-after-shooting/?partner=popular" title="Obama called for 'meaningful action' to prevent such shootings but did not say what it should be" rel="nofollow">Tearful Obama calls for action after shooting </a>
+					<span class="date">Published 12/14/2012 at 5:27 p.m.</span> <a href="/news/2012/dec/14/tearful-obama-calls-action-after-shooting/?partner=popular#comments" class="comment_count" rel="nofollow">44 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/16/authorities-respond-plane-crash-anderson-region/?partner=popular" title="Pilot is OK, officials say" rel="nofollow">Authorities respond to plane crash at Anderson Regional Airport</a>
-					<span class="date">Published 6/16/2012 at 2:13 p.m.</span> <a href="/news/2012/jun/16/authorities-respond-plane-crash-anderson-region/?partner=popular#comments" class="comment_count" rel="nofollow">1 comment</a>
+					<a href="/news/2012/dec/15/secretary-state-faints-sustains-concussion/?partner=popular" title="Clinton, who skipped an overseas trip this past week because of a stomach virus, sustained a concussion after fainting, State Department said " rel="nofollow">Secretary of state faints, sustains concussion</a>
+					<span class="date">Updated 12/15/2012 at 9:04 p.m.</span> <a href="/news/2012/dec/15/secretary-state-faints-sustains-concussion/?partner=popular#comments" class="comment_count" rel="nofollow">6 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/16/pilot-walks-away-plane-crash-anderson/?partner=popular" title="Pilot John Hornbeck was unhurt after his single-engine biplane crashed moments after taking off Saturday afternoon" rel="nofollow">Pilot walks away from plane crash in Anderson</a>
-					<span class="date">Published 6/16/2012 at 7:32 p.m.</span> <a href="/news/2012/jun/16/pilot-walks-away-plane-crash-anderson/?partner=popular#comments" class="comment_count" rel="nofollow">0 comments</a>
+					<a href="/news/2012/dec/15/conn-gunman-broke-shot-some-victims-twice/?partner=popular" title="The gunman behind the Connecticut elementary school massacre stormed into the building and shot 20 children at least twice with a high-powered rifle" rel="nofollow">Conn. gunman broke in, shot some victims twice</a>
+					<span class="date">Published 12/15/2012 at 10:25 p.m.</span> <a href="/news/2012/dec/15/conn-gunman-broke-shot-some-victims-twice/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/14/grand-jury-halts-preston-investigation/?partner=popular" title="Concludes no crimes committed for 2008 buyout of contract" rel="nofollow">Grand jury halts Preston investigation </a>
-					<span class="date">Updated 6/14/2012 at 10:00 p.m.</span> <a href="/news/2012/jun/14/grand-jury-halts-preston-investigation/?partner=popular#comments" class="comment_count" rel="nofollow">97 comments</a>
+					<a href="/news/2012/dec/15/west-union-facing-mysterious-bill-discrepancy/?partner=popular" title="There’s a water mystery in one Upstate town, and it’s costing property owners" rel="nofollow">West Union facing mysterious water bill discrepancy</a>
+					<span class="date">Published 12/15/2012 at 4:55 p.m.</span> <a href="/news/2012/dec/15/west-union-facing-mysterious-bill-discrepancy/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/15/six-upstate-residents-plead-guilty-in-33-million/?partner=popular" title="Six people from South Carolina have pleaded guilty in federal court to charges of cigarette smuggling in several states. " rel="nofollow">Six Upstate residents plead guilty in $33 million illegal cigarette ring </a>
-					<span class="date">Published 6/15/2012 at 7:08 p.m.</span> <a href="/news/2012/jun/15/six-upstate-residents-plead-guilty-in-33-million/?partner=popular#comments" class="comment_count" rel="nofollow">12 comments</a>
+					<a href="/news/2012/dec/15/bikers-donate-12000-to-brighter-christmas-fund/?partner=popular" title="Sometimes, Santa Claus and his elves come dressed in leather and riding on a pack of Harleys" rel="nofollow">Bikers donate $12,000 to Brighter Christmas Fund </a>
+					<span class="date">Published 12/15/2012 at 8:01 p.m.</span> <a href="/news/2012/dec/15/bikers-donate-12000-to-brighter-christmas-fund/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
 				</li>
 			
 		</ul>
@@ -1002,15 +893,15 @@ We will respond to your request and, if applicable and appropriate, make the req
 			
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2012/jun/17/fathers-day-car-show/?partner=popular" title="Father's Day Car Show " rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2012/06/17/620120616175626003_t90_70.JPG" width="90" alt="Father's Day Car Show "> Father's Day Car Show </a>
+					<a href="/photos/galleries/2012/dec/15/wreaths-laid-at-veterans-cemetery/?partner=popular" title="Wreaths laid at veterans cemetery " rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2012/12/15/1420121215175549002_t90_70.JPG" width="90" alt="Wreaths laid at veterans cemetery "> Wreaths laid at veterans cemetery </a>
 				</div> <!-- end .bucket_media_item -->
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2012/jun/16/airport-crash/?partner=popular" title="Airport crash " rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2012/06/16/520120616135418003_t90_70.JPG" width="90" alt="Airport crash "> Airport crash </a>
+					<a href="/photos/galleries/2007/dec/23/denver-downs-parade/?partner=popular" title="Denver Downs Christmas Parade" rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2007/12/23/1224DDParade253_t90_70.jpg" width="90" alt="Denver Downs Christmas Parade"> Denver Downs Christmas Parade</a>
 				</div> <!-- end .bucket_media_item -->
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2012/jun/15/summer-job-at-the-pool/?partner=popular" title="Summer job at the pool " rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2012/06/15/520120615154121001_t90_70.JPG" width="90" alt="Summer job at the pool "> Summer job at the pool </a>
+					<a href="/photos/galleries/2012/dec/14/photo-gallery-on-december-14-2012-at-221025/?partner=popular" title="Anderson University graduation" rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2012/12/14/420121214190236003_t90_70.JPG" width="90" alt="Anderson University graduation"> Anderson University graduation</a>
 				</div> <!-- end .bucket_media_item -->
 			
 
@@ -1024,28 +915,28 @@ We will respond to your request and, if applicable and appropriate, make the req
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2012/jun/14/grand-jury-halts-preston-investigation/?partner=popular" title="Concludes no crimes committed for 2008 buyout of contract" rel="nofollow">Grand jury halts Preston investigation </a>
-					<span class="date">Published 6/14/2012 at 10:38 a.m.</span> <a href="/news/2012/jun/14/grand-jury-halts-preston-investigation/?partner=popular#comments" class="comment_count" rel="nofollow">97 comments</a>
+					<a href="/news/2012/dec/14/tearful-obama-calls-action-after-shooting/?partner=popular" title="Obama called for 'meaningful action' to prevent such shootings but did not say what it should be" rel="nofollow">Tearful Obama calls for action after shooting </a>
+					<span class="date">Published 12/14/2012 at 5:27 p.m.</span> <a href="/news/2012/dec/14/tearful-obama-calls-action-after-shooting/?partner=popular#comments" class="comment_count" rel="nofollow">44 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/14/county-leaders-mum-on-how-grand-jury-report-will/?partner=popular" title="Anderson County leaders either don't know or aren't saying how a state grand jury's decision this week to stop investigating Joey Preston's contract buyout will affect a lawsuit aimed at reclaiming his $1.1 million severance package. " rel="nofollow"> County leaders mum on how grand jury report will affect severance-pay case </a>
-					<span class="date">Published 6/14/2012 at 8:52 p.m.</span> <a href="/news/2012/jun/14/county-leaders-mum-on-how-grand-jury-report-will/?partner=popular#comments" class="comment_count" rel="nofollow">61 comments</a>
+					<a href="/news/2012/dec/13/19-arrested-including-11-clemson-university-studen/?partner=popular" title="Marijuana, guns, fake-ID printer seized by officers" rel="nofollow">19 arrested, including 11 Clemson University students</a>
+					<span class="date">Published 12/13/2012 at 1:09 p.m.</span> <a href="/news/2012/dec/13/19-arrested-including-11-clemson-university-studen/?partner=popular#comments" class="comment_count" rel="nofollow">24 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/15/obama-policy-spare-many-youths-deportation/?partner=popular" title="The policy change will affect as many as 800,000 immigrants who have lived in fear of deportation" rel="nofollow">Obama policy to spare many from deportation  </a>
-					<span class="date">Published 6/15/2012 at 3:31 p.m.</span> <a href="/news/2012/jun/15/obama-policy-spare-many-youths-deportation/?partner=popular#comments" class="comment_count" rel="nofollow">32 comments</a>
+					<a href="/news/2012/dec/12/michigan-becomes-right--work-state-despite-protest/?partner=popular" title="Republicans have converted Michigan from a seemingly impregnable fortress of organized labor into a right-to-work state" rel="nofollow">Michigan becomes right-to-work state despite protests</a>
+					<span class="date">Published 12/12/2012 at 5:10 a.m.</span> <a href="/news/2012/dec/12/michigan-becomes-right--work-state-despite-protest/?partner=popular#comments" class="comment_count" rel="nofollow">73 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/16/anderson-county-council-agenda-makes-no-mention-pr/?partner=popular" title="The Anderson County Council will gather Tuesday for its first regular meeting since a state grand jury announced that it had stopped investigating Joey Preston’s contract buyout and had found no crime" rel="nofollow">Anderson County Council agenda makes no mention of Preston lawsuit</a>
-					<span class="date">Published 6/16/2012 at 2:21 p.m.</span> <a href="/news/2012/jun/16/anderson-county-council-agenda-makes-no-mention-pr/?partner=popular#comments" class="comment_count" rel="nofollow">29 comments</a>
+					<a href="/news/2012/dec/14/official-gunman-killed-conn-school-shooting/?partner=popular" title="A man opened fire Friday inside the Connecticut elementary school Friday killing 26 people, including 20 children" rel="nofollow">Man kills 26 at Conn. school, including 20 kids</a>
+					<span class="date">Published 12/14/2012 at 12:55 p.m.</span> <a href="/news/2012/dec/14/official-gunman-killed-conn-school-shooting/?partner=popular#comments" class="comment_count" rel="nofollow">21 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/14/county-official-details-plans-for-new-ball-and/?partner=popular" title="Two additional ball fields and a dog park would be built near the Civic Center of Anderson under plans that an Anderson County official outlined Thursday night. " rel="nofollow">County official details plans for new ball fields and dog park near civic center </a>
-					<span class="date">Published 6/14/2012 at 10:32 p.m.</span> <a href="/news/2012/jun/14/county-official-details-plans-for-new-ball-and/?partner=popular#comments" class="comment_count" rel="nofollow">29 comments</a>
+					<a href="/news/2012/dec/14/bill-would-boost-annual-salaries-of-sc-to-50000/?partner=popular" title="A proposal to dramatically increase the salaries of state lawmakers is among scores of bills that were pre-filed this week in anticipation of the South Carolina General Assembly's coming session. " rel="nofollow">Bill would boost annual salaries of S.C. legislators to $50,000 </a>
+					<span class="date">Published 12/14/2012 at 7:37 p.m.</span> <a href="/news/2012/dec/14/bill-would-boost-annual-salaries-of-sc-to-50000/?partner=popular#comments" class="comment_count" rel="nofollow">20 comments</a>
 				</li>
 			
 		</ul>
@@ -1057,28 +948,28 @@ We will respond to your request and, if applicable and appropriate, make the req
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2012/jun/12/anmed-health-extends-reach-into-georgia-market/?partner=popular" title="AnMed Health is expanding its presence in northeast Georgia with the announcement Tuesday of two major partnerships in the cities of Elberton and Hartwell. " rel="nofollow">AnMed Health extends reach into Georgia market  </a>
-					<span class="date">Published 6/12/2012 at 4:40 p.m.</span> <a href="/news/2012/jun/12/anmed-health-extends-reach-into-georgia-market/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
+					<a href="/news/2012/dec/08/one-killed-armed-robbery-pickens-county/?partner=popular" title="23-year-old electrical engineering student was pronounced dead at the scene." rel="nofollow">Clemson student killed in Central armed robbery </a>
+					<span class="date">Published 12/8/2012 at 10:28 p.m.</span> <a href="/news/2012/dec/08/one-killed-armed-robbery-pickens-county/?partner=popular#comments" class="comment_count" rel="nofollow">10 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/12/aim-all-area-boys-soccer-team/?partner=popular" title="Walhalla's Carlos Aguilar, Pendleton's Noah Barend highlight all-area team " rel="nofollow">AIM All-Area Boys Soccer Team </a>
-					<span class="date">Published 6/12/2012 at 4:00 a.m.</span> <a href="/news/2012/jun/12/aim-all-area-boys-soccer-team/?partner=popular#comments" class="comment_count" rel="nofollow">0 comments</a>
+					<a href="/news/2012/dec/09/clemson-student-23-killed-in-central-home/?partner=popular" title="The Pickens County Sheriff's Office is looking for three men possibly connected to a random home invasion that left an electrical engineering dead Saturday night. " rel="nofollow">Clemson student, 23, killed in Central home invasion </a>
+					<span class="date">Published 12/9/2012 at 9:20 p.m.</span> <a href="/news/2012/dec/09/clemson-student-23-killed-in-central-home/?partner=popular#comments" class="comment_count" rel="nofollow">14 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/11/parents-call-for-district-4-school-to-resign/?partner=popular" title=" A capacity crowd of 75 attended an Anderson County District 4 school board meeting Monday night and those who spoke demanded that the district superintendent resign. " rel="nofollow">Parents call for District 4 school superintendent to resign </a>
-					<span class="date">Published 6/11/2012 at 9:40 p.m.</span> <a href="/news/2012/jun/11/parents-call-for-district-4-school-to-resign/?partner=popular#comments" class="comment_count" rel="nofollow">34 comments</a>
+					<a href="/news/2012/dec/13/19-arrested-including-11-clemson-university-studen/?partner=popular" title="Marijuana, guns, fake-ID printer seized by officers" rel="nofollow">19 arrested, including 11 Clemson University students</a>
+					<span class="date">Published 12/13/2012 at 1:09 p.m.</span> <a href="/news/2012/dec/13/19-arrested-including-11-clemson-university-studen/?partner=popular#comments" class="comment_count" rel="nofollow">24 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/14/grand-jury-halts-preston-investigation/?partner=popular" title="Concludes no crimes committed for 2008 buyout of contract" rel="nofollow">Grand jury halts Preston investigation </a>
-					<span class="date">Published 6/14/2012 at 10:38 a.m.</span> <a href="/news/2012/jun/14/grand-jury-halts-preston-investigation/?partner=popular#comments" class="comment_count" rel="nofollow">97 comments</a>
+					<a href="/news/2012/dec/11/after-71-years-downtown-mortuary-to-change-hands/?partner=popular" title="The old post office in downtown Anderson, home to the Sullivan-King Mortuary since 1941, will soon take on a new tenant, " rel="nofollow">After 71 years, downtown mortuary to change hands </a>
+					<span class="date">Published 12/11/2012 at 8:58 p.m.</span> <a href="/news/2012/dec/11/after-71-years-downtown-mortuary-to-change-hands/?partner=popular#comments" class="comment_count" rel="nofollow">9 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/11/chemical-company-to-open-new-plant-in-anderson/?partner=popular" title="A company that provides chemicals for the paperboard and packaging industries announced Tuesday that it is establishing a new plant in Anderson County." rel="nofollow">Chemical company opens new plant in Anderson County </a>
-					<span class="date">Published 6/11/2012 at 6:32 p.m.</span> <a href="/news/2012/jun/11/chemical-company-to-open-new-plant-in-anderson/?partner=popular#comments" class="comment_count" rel="nofollow">4 comments</a>
+					<a href="/news/2012/dec/10/pickens-sheriffs-office-subdivision-where-was/?partner=popular" title=" Pickens County sheriff's investigators arrested three men Monday and charged them with a home invasion that resulted in the death of a Clemson University student. " rel="nofollow">Investigators arrest three men in deadly Central home invasion; fourth suspect remains at large </a>
+					<span class="date">Published 12/10/2012 at 7:25 p.m.</span> <a href="/news/2012/dec/10/pickens-sheriffs-office-subdivision-where-was/?partner=popular#comments" class="comment_count" rel="nofollow">7 comments</a>
 				</li>
 			
 		</ul>
@@ -1088,6 +979,8 @@ We will respond to your request and, if applicable and appropriate, make the req
 </div><!-- end #most_popular -->
 
 
+
+					
 					
 					
 					
@@ -1117,20 +1010,20 @@ We will respond to your request and, if applicable and appropriate, make the req
 		<div class="sidebar_current_weather clear">
 	
 			<div id="sidebar_current_icon">
-				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/1_170.png" width="120px" alt="Fair">
+				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/48_170.png" width="120px" alt="Fog/Mist">
 			</div> <!-- end #radar -->
 	
 			<div id="sidebar_current_weather">
 				<span class="current_temp_label">Currently</span>
-				<span class="current_temp">79<span class="current_temp_degree">°</span></span>
-				<span class="current_conditions">Fair</span>
+				<span class="current_temp">55<span class="current_temp_degree">°</span></span>
+				<span class="current_conditions">Fog/Mist</span>
 				<span class="current_wind">Wind: Calm</span>
 			</div> <!-- end #current_conditions -->
 	
 			<div id="sidebar_hi_low">
 				<span class="today_temp_label">Today</span>
-				<span class="hi_temp">82<span class="current_temp_degree">°</span></span>
-				<span class="lo_temp">64<span class="current_temp_degree">°</span></span>
+				<span class="hi_temp">62<span class="current_temp_degree">°</span></span>
+				<span class="lo_temp">52<span class="current_temp_degree">°</span></span>
 			</div> <!-- end #hi_low -->
 			
 		</div> <!-- end #weather -->
@@ -1140,48 +1033,48 @@ We will respond to your request and, if applicable and appropriate, make the req
 	<div id="sidebar_weather_3day" class="bucket_secondary preventFOUC">
 		<div id="sidebar_weather_forecast_3day" class="clear">
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Mon</div><div class="sidebar_weather_day">02:00 AM</div>
-				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/35_100.png" alt="Partly Cloudy">
-				<div class="sidebar_forecast_conditions">Partly Cloudy</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">66°</span></div>
+				<div class="sidebar_weather_day">Mon</div><div class="sidebar_weather_day">01:00 AM</div>
+				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/40_100.png" alt="Mostly Cloudy Showers">
+				<div class="sidebar_forecast_conditions">Mostly Cloudy Showers</div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">54°</span></div>
 			</div>
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Mon</div><div class="sidebar_weather_day">02:00 PM</div>
-				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/3_100.png" alt="Partly Sunny">
-				<div class="sidebar_forecast_conditions">Partly Sunny</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">85°</span></div>
+				<div class="sidebar_weather_day">Mon</div><div class="sidebar_weather_day">01:00 PM</div>
+				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/15_100.png" alt="Thunderstorms">
+				<div class="sidebar_forecast_conditions">Thunderstorms</div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">63°</span></div>
 			</div><!-- End sidebar_forecast_day -->
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Tue</div><div class="sidebar_weather_day">02:00 AM</div>
+				<div class="sidebar_weather_day">Tue</div><div class="sidebar_weather_day">01:00 AM</div>
 				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/35_100.png" alt="Partly Cloudy">
 				<div class="sidebar_forecast_conditions">Partly Cloudy</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">67°</span></div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">49°</span></div>
 			</div><!-- End sidebar_forecast_day -->
 			<div class="clear"></div>
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding">
-						<p>Feels Like: 66°</p>
-						<p>Humidity: 84%</p>
-						<p>Precip: 6%</p>
+						<p>Feels Like: 54°</p>
+						<p>Humidity: 100%</p>
+						<p>Precip: 81%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding">
-						<p>Feels Like: 85°</p>
-						<p>Humidity: 41%</p>
-						<p>Precip: 7%</p>
+						<p>Feels Like: 63°</p>
+						<p>Humidity: 84%</p>
+						<p>Precip: 84%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding last">
-						<p>Feels Like: 67°</p>
-						<p>Humidity: 87%</p>
-						<p>Precip: 8%</p>
+						<p>Feels Like: 49°</p>
+						<p>Humidity: 100%</p>
+						<p>Precip: 19%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
@@ -1253,7 +1146,10 @@ We will respond to your request and, if applicable and appropriate, make the req
 	<div class="sidebar_more_link sidebar_more_link_weather">
 		<div class="sidebar_weather_ad_rule"></div>
 		<div id="sidebar_weather_ad">
-			<div class="adtag" id="WEATHER_SPONSOR"><script>yld_mgr.place_ad_here("WEATHER_SPONSOR");</script> </div>
+			<div class="adtag" id="WEATHER_SPONSOR"><script language="JavaScript">
+        // slotname: WEATHER_SPONSOR
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=4;sz=120x30;ord=38587982;pos=below' + _demo_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=4;sz=120x30;ord=38587982;pos=below" type="text/javascript"></script></div>
 		</div>
 		<a href="/weather/" title="More Anderson Weather">More Weather »</a>
 	</div>
@@ -1280,7 +1176,10 @@ We will respond to your request and, if applicable and appropriate, make the req
 					
 						<div class="bigbox_wrapper clear">
 	<div class="bigbox">
-		<div class="adtag" id="BIGBOX_2"><script>yld_mgr.place_ad_here("BIGBOX_2");</script> </div>
+		<div class="adtag" id="BIGBOX_2"><script language="JavaScript">
+        // slotname: BIGBOX_2
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=3;sz=300x250;ord=99491326;pos=below' + _demo_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=3;sz=300x250;ord=99491326;pos=below" type="text/javascript"></script></div>
 	</div> <!-- end .bigbox -->
 </div> <!-- end .bigbox_wrapper -->
 
@@ -1296,6 +1195,7 @@ We will respond to your request and, if applicable and appropriate, make the req
 			</div> <!-- end #secondary_content -->
 		
 		
+
 
 		</div><!-- end #content_wrapper -->
 		
@@ -1353,6 +1253,12 @@ We will respond to your request and, if applicable and appropriate, make the req
 				<li id="carousel_page1">
 					
 					<div class="skybox">
+						<a href="http://www.independentmail.com/brighter_christmas_fund/" title="BCF"><img src="http://web.independentmail.com/skybox/images/BrighterChristmasFund.jpg" width="120" height="107" alt="BCF"></a>
+<h4><a href="http://www.independentmail.com/brighter_christmas_fund/" title="BCF">Brighter Christmas Fund</a></h4>
+<p><a href="http://www.independentmail.com/brighter_christmas_fund/" title="BCF">Helping Upstate families have a better holiday! </a></p>
+					</div> <!-- end .skybox -->
+					
+					<div class="skybox">
 						<a href="http://www.independentmail.com/apps/" title="Apps!"><img src="http://web.independentmail.com/skybox/images/APPS.jpg" width="120" height="107" alt="Apps"></a>
 <h4><a href="http://www.independentmail.com/apps/" title="Apps">Mobile Apps</a></h4>
 <p><a href="http://www.independentmail.com/apps/" title="Apps">Get news on your smart phone! Check out our apps for iPhone, Android and more</a></p>
@@ -1360,9 +1266,19 @@ We will respond to your request and, if applicable and appropriate, make the req
 					</div> <!-- end .skybox -->
 					
 					<div class="skybox">
-						<a href="http://www.independentmail.com/bestofbe/" title="Best of Be"><img src="http://web.independentmail.com/skybox/images/BE_BEST_2012.jpg" width="120" height="107" alt="Best of Be"></a>
-<h4><a href="http://www.independentmail.com/bestofbe/" title="Best of Be">Best of Be 2012</a></h4>
-<p><a href="http://www.independentmail.com/bestofbe/" title="Best of Be">Vote for your favorite places to eat, shop and just have fun! </a></p>
+						<a href="http://www.rdpdeals.com/index.php?client=5B0B9B" title="Reader Rewards"><img src="http://web.independentmail.com/skybox/images/rewards.jpg" width="120" height="107" alt="Rewards"></a>
+<h4><a href="http://www.rdpdeals.com/index.php?client=5B0B9B" title="Rewards">Reader Rewards</a></h4>
+<p><a href="http://www.rdpdeals.com/index.php?client=5B0B9B" title="Apps">Let your subscription give back. Get discounts and perks at local businesses!</a></p>
+					</div> <!-- end .skybox -->
+					
+				</li><!-- End carousel_page1 -->
+			
+				<li id="carousel_page2">
+					
+					<div class="skybox">
+						<a href="http://independentmail.sc.newsmemory.com/special.php?date=20120713" title="Need 2 Know 2012"><img src="http://web.independentmail.com/skybox/images/n2ksky.jpg" width="120" height="107" alt="Need 2 Know 2012"></a>
+<h4><a href="http://independentmail.sc.newsmemory.com/special.php?date=20120713" title="Rewards">Need 2 Know</a></h4>
+<p><a href="http://independentmail.sc.newsmemory.com/special.php?date=20120713" title="Need 2 Know 2012">A guide to what you need to know about the Anderson area</a></p>
 					</div> <!-- end .skybox -->
 					
 					<div class="skybox">
@@ -1371,9 +1287,21 @@ We will respond to your request and, if applicable and appropriate, make the req
 <p><a href="/gasprices/" title="Lowest Upstate gas prices">Find the cheapest fuel where you live</a></p>
 					</div> <!-- end .skybox -->
 					
-				</li><!-- End carousel_page1 -->
+					<div class="skybox">
+						<a href="http://www.gofridayfootball.com/" title="Reader Rewards"><img src="http://web.independentmail.com/skybox/images/GFF_1.jpg" width="120" height="107" alt="Rewards"></a>
+<h4><a href="http://www.gofridayfootball.com/" title="Rewards">Football Fanatics!</a></h4>
+<p><a href="http://www.gofridayfootball.com/" title="Apps">Check out the latest on your favorite high school teams at GoFridayFootball.com</a></p>
+					</div> <!-- end .skybox -->
+					
+				</li><!-- End carousel_page2 -->
 			
-				<li id="carousel_page2">
+				<li id="carousel_page3">
+					
+					<div class="skybox">
+						<a href="http://www.independentmail.com/midnight-flight-results/2012/" title="Midnight Flight"><img src="http://media.independentmail.com/media/img/photos/2012/09/01/midnightflight12sky.jpg" width="120" height="107" alt="Midnight Flight"></a>
+<h4><a href="http://www.independentmail.com/midnight-flight-results/2012/" title="Best of Be">Midnight Flight</a></h4>
+<p><a href="http://www.independentmail.com/midnight-flight-results/2012/" title="Midnight Flight">Check out our searchable list of the full race results here!</a></p>
+					</div> <!-- end .skybox -->
 					
 					<div class="skybox">
 						<a href="http://twitter.com/independentmail"><img src="http://web.independentmail.com/skybox/images/TWITTER.jpg" width="120" height="107" alt="Twitter"></a>
@@ -1382,26 +1310,14 @@ We will respond to your request and, if applicable and appropriate, make the req
 					</div> <!-- end .skybox -->
 					
 					<div class="skybox">
-						<a href="http://www.independentmail.com/news/blogs/steve-quam/" title="Pedaling for Parkinsons"><img src="http://web.independentmail.com/skybox/images/QUAM.jpg" width="120" height="107" alt="Pedaling for Parkinsons"></a>
-<h4><a href="http://www.independentmail.com/news/blogs/steve-quam/" title="Lowest Upstate gas prices">Pedaling for Parkinson's</a></h4>
-<p><a href="http://www.independentmail.com/news/blogs/steve-quam/" title="Pedaling for Parkinsons">Read Steve Quam's weekly blog here!</a></p>
-					</div> <!-- end .skybox -->
-					
-					<div class="skybox">
-						<a href="http://www.independentmail.com/summercamps/" title="Summer Camps"><img src="http://web.independentmail.com/skybox/images/CAMPS.jpg" width="120" height="107" alt="Summer Camps"></a>
-<h4><a href="http://www.independentmail.com/summercamps/" title="Summer Camps">Looking for some summer fun?</a></h4>
-<p><a href="http://www.independentmail.com/summercamps/" title="Summer Camps">Check out our list of summer camps in the Upstate!</a></p>
-					</div> <!-- end .skybox -->
-					
-				</li><!-- End carousel_page2 -->
-			
-				<li id="carousel_page3">
-					
-					<div class="skybox">
 						<a href="http://www.independentmail.com/lakehartwell/" title="Lake Hartwell"><img src="http://web.independentmail.com/skybox/images/skybox.jpg" width="120" height="107" alt="Lake Hartwell"></a>
 <h4><a href="http://www.independentmail.com/lakehartwell/" title="Lake Hartwell">Lake Hartwell's 50th</a></h4>
 <p><a href="http://www.independentmail.com/lakehartwell/" title="Lake Hartwell">See stories, a list of events and historic photos here! </a></p>
 					</div> <!-- end .skybox -->
+					
+				</li><!-- End carousel_page3 -->
+			
+				<li id="carousel_page4">
 					
 					<div class="skybox">
 						<a href="http://www.independentmail.com/civilwar/" title="Civil War"><img src="http://web.independentmail.com/skybox/images/civilwar.jpg" width="120" height="107" alt="Civil War"></a>
@@ -1415,20 +1331,12 @@ We will respond to your request and, if applicable and appropriate, make the req
 <p><a href="http://www.orangeandwhite.com/" title="All Tigers Sports. All the time.">Find our Clemson Tigers coverage at our new website: OrangeandWhite.com</a></p>
 					</div> <!-- end .skybox -->
 					
-				</li><!-- End carousel_page3 -->
-			
-				<li id="carousel_page4">
-					
 					<div class="skybox">
 						<a href="http://ushare.independentmail.com/" title="Share Your Photos!"><img src="http://web.independentmail.com/skybox/images/USHARE1.jpg" width="120" height="107" alt="Snow pics"></a>
 <h4><a href="http://ushare.independentmail.com/" title="Snow pics">Share Your Photos!</a></h4>
 <p><a href="http://ushare.independentmail.com/" title="Snow pics">Text or upload your best shots here</a></p>
-					</div> <!-- end .skybox -->
-					
-					<div class="skybox">
-						<a href="http://www.rdpdeals.com/index.php?client=5B0B9B" title="Reader Rewards"><img src="http://web.independentmail.com/skybox/images/rewards.jpg" width="120" height="107" alt="Rewards"></a>
-<h4><a href="http://www.rdpdeals.com/index.php?client=5B0B9B" title="Rewards">Reader Rewards</a></h4>
-<p><a href="http://www.rdpdeals.com/index.php?client=5B0B9B" title="Apps">Let your subscription give back. Get discounts and perks at local businesses!</a></p>
+
+
 					</div> <!-- end .skybox -->
 					
 				</li><!-- End carousel_page4 -->
@@ -1657,6 +1565,7 @@ We will respond to your request and, if applicable and appropriate, make the req
 	<script type="text/javascript" src="http://media.independentmail.com/corp_assets/asphalt/js/swfobject-2.2.js"></script>
 	<script type="text/javascript">jSING.videoPlayer.embedPlayers();</script>
 	
+
 
 
 
