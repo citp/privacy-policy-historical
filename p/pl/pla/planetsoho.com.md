@@ -1,0 +1,65 @@
+> *The following text is extracted and transformed from the planetsoho.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216070436id_/http%3A//planetsoho.com/about-us/privacy-policy) for the most accurate reproduction.*
+
+# PlanetSoho.com | Privacy Policy
+
+[SohoOS](http://www.planetsoho.com/)
+
+  * [Log In](https://www.sohoos.com/welcome/login)
+  * |
+  * [Sign Up](https://www.sohoos.com/welcome/signup)
+
+
+
+  *   *  
+  * ## Privacy Policy
+
+
+
+
+### PlanetSoho.com Privacy Policy
+
+Thank you for visiting PlanetSoho.com's ("Planet Soho") Internet web site ("Site") located at the URL www.PlanetSoho.com. This Privacy Policy details certain policies implemented throughout Planet Soho governing the use of personally identifiable information about users of our Site and users of services available through this Site (the "Services"). 
+
+**Privacy Policy Updates**  
+Due to the Internet's rapidly evolving nature, and to attempt to make the user experience better and for other aesthetic and business reasons Planet Soho may update this Privacy Policy from time to time. If so, Planet Soho will post its updated Privacy Policy on our Site located at www.PlanetSoho.com and we may send registered users an email, so you are always aware of what information, including personally identifiable information, we may collect and how we may use this information. If any modification is unacceptable to you, you shall cease using this Site and the Services. If you do not cease using this Site and the Services, you will be deemed to have accepted the change(s). 
+
+**Information Collection and Use**  
+You can generally visit our Site without revealing any personally identifiable information about yourself. However, in certain sections of this Site and when you use our Services, including as a subscriber, we may invite you to contact us with questions or comments or request information, provide or upload documents and other content, contact us with feedback, participate in surveys, questionnaires or contests, recommend or rate content, or complete a registration form. Due to the nature of some of these activities, we may collect personally identifiable information that you submit in your profile, such as your email address, gender, logo, phone number, postal address, city and occupation. We may also collect additional personally identifiable information that you voluntarily include in your business profile or your business card or transmit with your communications to us. If you are a registered user, you may be able to send a request to add friends to your Planet Soho account and we will send messages and collect their personally identifiable information so that you can contact them. We may use your personally identifiable information to register you to use our Site and Services, deliver certain services, provide notices regarding services or services you have purchased or licensed, and verify your authority to enter our Site, and to contact you, including by email or telephone. We may use your email address and telephone number to contact you, without further consent, for administrative communications, to address copyright infringement or defamation or other violations of Terms of Service issues, or to contact you regarding your membership, subscription, or any content that you have posted to or downloaded from the Site. We may use and disclose your information if we believe, in good faith, that it is appropriate or necessary: to take precautions against liability; to protect Planet Soho from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Site; or to protect the rights, property, or personal safety of Planet Soho, our Users, or others. 
+
+**Cookies**   
+When you use or access the Planet Soho Site we may use small text files containing a string of alphanumeric characters called cookies to improve overall Site experience, among other things. A cookie is a piece of data stored on the user's hard drive containing information about the user. Cookies generally do not permit us to personally identify you. Planet Soho may use both session cookies and persistent cookies. A session cookie generally disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Planet Soho site or other web sites. Persistent cookies can generally be removed by you. Please review your web browser "Help" file to learn the proper way to modify your cookie settings and to remove cookies. We may also use web beacons on our site and in emails that we send to you. We may collect information regarding pages visited, searches performed, actions made. 
+
+***Automatically Collected Information:***  
+When you access the Site or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology, including server logs. This "automatically collected" information may include Internet Protocol address ("IP Address"), a unique device or user ID, version of software installed, system type, browser used, the content and pages that you access on the Site, the dates and times that you visit the Site, actions that you made and items that you clicked on. Like most Web sites, our servers automatically record the page requests made when you visit our sites. These "server logs" typically include your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
+
+**Aggregate Information**   
+The Site may track the total number of visitors to our Site, the number of visitors to each page of our Site, browser type, and IP addresses, and we may analyze this data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to analyze trends, administer the Site, track users' movement, and gather broad demographic information for aggregate use. 
+
+**Disclosure**   
+We will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or in cooperation with any governmental investigation, including upon receipt of what we believe may be a valid subpoena, whether issued by a Court that has jurisdiction over Planet Soho or not. (Please note that Planet Soho reserves the right to assert that only the courts in the United States and Israel have jurisdiction, and subpoenas from outside those jurisdictions must be "domesticated," though we are not obligated to do so.) We will not sell your personally identifiable information to any company or organization; however, we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which Planet Soho participates or to a purchaser of all or substantially all of Planet Soho's assets to which this Site relates. 
+
+**Profile Information**   
+You may choose to add personal information which may include any details you seem fit on your personalized business page. This will be visible to other users on Planet Soho as well as to anyone visiting the site. Under no circumstances will Planet Soho give away any of your payment information. We do not keep credit card details or payment details. 
+
+**Planet Soho Users**   
+We will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or in cooperation with any governmental investigation. We will not sell your personally identifiable information to any company or organization except we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which Planet Soho participates or to a purchaser of all or substantially all of Planet Soho's assets to which this Site relates. 
+
+**Links to Third Party Sites**   
+Planet Soho provides links to third party sites when it comes to additional services that require payment. These sites include a billing collection company located at www.avangate.com, that allows users to purchase credit that can be used in Planet Soho services. All collection of moneys is made through Avangate. Their privacy policy is located at:   
+<http://www.avangate.com/online-payment-solutions/privacy.php>
+
+**Security**  
+We may employ procedural and technological security measures that are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. Planet Soho may use encryption, password protection, and other security measures to help prevent unauthorized access to your personally identifiable information. 
+
+YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES. WE CANNOT, HOWEVER, ENSURE OR WARRANT THE SECURITY OF ANY INFORMATION YOU TRANSMIT TO US, AND YOU DO SO AT YOUR OWN RISK. ONCE WE RECEIVE YOUR TRANSMISSION OF INFORMATION, WE MAKE COMMERCIALLY REASONABLE EFFORTS TO ENSURE THE SECURITY OF OUR SYSTEMS. HOWEVER, PLEASE NOTE THAT THIS IS NOT A GUARANTEE THAT SUCH INFORMATION MAY NOT BE ACCESSED, DISCLOSED, ALTERED, OR DESTROYED BY BREACH OF ANY OF OUR PHYSICAL, TECHNICAL, OR MANAGERIAL SAFEGUARDS. IF WE LEARN OF A SECURITY SYSTEMS BREACH, THEN WE MAY ATTEMPT TO NOTIFY YOU ELECTRONICALLY SO THAT YOU CAN TAKE APPROPRIATE PROTECTIVE STEPS. WE MAY POST A NOTICE ON THE SITE IF A SECURITY BREACH OCCURS. DEPENDING ON WHERE YOU LIVE, YOU MAY HAVE A LEGAL RIGHT TO RECEIVE NOTICE OF A SECURITY BREACH IN WRITING. 
+
+If you have any questions regarding this Privacy Policy please contact us via email at [privacy@planetsoho.com](mailto:privacy@planetsoho.com). 
+
+This Privacy Policy was last updated: December 10, 2012  
+This Privacy Policy is effective as of: December 10, 2012 
+
+  * Read enough?
+  * [Sign Up](https://www.sohoos.com/welcome/signup?src=HomePage)
+  * [Or learn more about us](http://www.planetsoho.com/about-us/the-company/?src=HomePage)
+
+
