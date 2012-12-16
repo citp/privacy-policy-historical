@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the genealogybank.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505155614id_/http%3A//www.genealogybank.com/gbnk/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genealogybank.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216011047id_/http%3A//www.genealogybank.com/gbnk/information/privacy_policy/index.html) for the most accurate reproduction.*
 
-# GenealogyBank.com - Privacy Policy
+# Privacy Policy - GenealogyBank
 
 **This Privacy Policy discloses the general privacy practices for web sites owned and/or operated by NewsBank, Inc., NewsBank Media Services, Inc. and their affiliated companies (collectively, "NewsBank"). It does not apply to any information that may be obtained offline. Any changes to this policy will be posted on this page with an updated "effective date" posted at the end of this policy.**
 
