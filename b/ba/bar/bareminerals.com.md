@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bareminerals.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613174912id_/http%3A//www.bareescentuals.com/on/demandware.store/Sites-BareEscentuals-Site/default/SubmitPromoForm-GenericError%3Fcid%3DCA_BE_PRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bareminerals.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216223028id_/http%3A//www.bareescentuals.com/on/demandware.store/Sites-BareEscentuals-Site/default/SubmitPromoForm-GenericError%3Fcid%3DCA_BE_PRIVACY_POLICY) for the most accurate reproduction.*
 
-# Sites-BareEscentuals-Site
+# Privacy Policy | Customer Service | bareMinerals
 
 If we change our practices, we will post the changes in the summary below (as necessary) and in our  _full Privacy Policy_.  For material changes, we may notify you and obtain your prior consent.  Not all of the statements in the summary below may be relevant to you.  Click on any link for additional information. 
 
