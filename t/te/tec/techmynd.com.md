@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techmynd.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617151522id_/http%3A//www.techmynd.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techmynd.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216152205id_/http%3A//www.techmynd.com/policy) for the most accurate reproduction.*
 
 # Privacy and Ads Policy - TechMynd
 
@@ -34,9 +34,9 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 ## Ads Networks
 
-TechMynd serves ads mainly using services from [Reduxmedia](http://www.reduxmedia.com/), [Valueclick Media](http://valueclickmedia.com/), [Infolinks](http://www.infolinks.com/), [buysellads](http://buysellads.com/) and [Adside](http://www.adside.com/), [Afterdownload](http://www.afterdownload.com/) but not each or all. We may use any of these ads serving networks or cease to use any of these anytime. Please visit those websites if you want to know more about “how they serve ads?”, their privacy policy or terms.
+TechMynd serves ads mainly using services from Reduxmedia, [Valueclick Media](http://valueclickmedia.com/), [Infolinks](http://www.infolinks.com/), [buysellads](http://buysellads.com/), Adside, [Afterdownload](http://www.afterdownload.com/), [VigLink](http://www.viglink.com/?vgref=135485) ([Opt-Out from using VigLink](http://www.viglink.com/support/optout)) but not each or all. We may use any of these ads serving networks or cease to use any of these anytime. Please visit those websites if you want to know more about “how they serve ads?”, their privacy policy or terms.
 
-Users can visit the above ad serving networks to opt out of cookies if they need. Further more we clearly mention **sponsored links** or **advertisements** above all ads.
+Users can visit the above ad serving networks to opt out of cookies if they need. Further more we try to mention **sponsored links** or **advertisements** where possible.
 
 ## Contact Information
 
