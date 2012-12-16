@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wnem.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502144722id_/http%3A//www.wnem.com/story/18990/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnem.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216155409id_/http%3A//www.wnem.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - WNEM TV 5
 
