@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpari.co.uk privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608064938id_/http%3A//www.alpari.co.uk/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpari.co.uk privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216092732id_/http%3A//www.alpari.co.uk/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Alpari (UK)
 
@@ -52,4 +52,4 @@ The Data Protection Act gives you various rights about your Personal Data, such 
 
 ### Queries
 
-If you have privacy questions which are not answered by this Privacy Policy or any other concerns about how we use your personal data, please write to us ([info@alpari.co.uk](mailto:info@alpari.co.uk)) or contact us +44 (0)20 7426 2900.
+If you have privacy questions which are not answered by this Privacy Policy or any other concerns about how we use your personal data, please write to us ([info@alpari.co.uk](mailto:info@alpari.co.uk)) or contact us +44 (0)20 7426 2900 (Mon-Fri 07:00-22:00 UK time).
