@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the american-giant.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610100336id_/https%3A//www.american-giant.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the american-giant.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216034354id_/https%3A//www.american-giant.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | American Giant
 
