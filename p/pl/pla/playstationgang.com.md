@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playstationgang.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616052504id_/http%3A//playstationgang.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playstationgang.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216162926id_/http%3A//playstationgang.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Playstation | Playstation
+# Privacy Policy | Playstation
 
 The following Privacy Policy summarizes the various ways that PLAYSTATIONGANG , treats the information You provide, either directly or indirectly, while accessing any website owned or controlled by PLAYSTATIONGANG. Please read this statement carefully before using or accessing our Websites, since your use of and/or registration on any aspect of our Website will constitute your agreement to this Privacy Policy. If you cannot agree with the terms and conditions of this Privacy Policy, please do not use our Website. Also, please be aware that our Privacy Policy does not cover information collected elsewhere, including without limitation sites linked to from our Website, cookies placed on you computer by third party advertisers on our site, or third parties providing services to our Website.Â This privacy statement covers the use of cookies by In
 
