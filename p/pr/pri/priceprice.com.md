@@ -1,100 +1,144 @@
-> *The following text is extracted and transformed from the priceprice.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceprice.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216122556id_/http%3A//ph.priceprice.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Priceprice.com - Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+Kakaku.com, Inc. (hereinafter the “Company”) operates a wide variety of information provision services in accordance with its corporate philosophy of “continuing to create new, user-oriented purchase support services.”  The Company has instituted a privacy management system, and hereby stipulates the privacy policy set out below for the purpose of protecting and proper handling of personal information received from users through the different services the Company operates. The Company makes this policy known to all officers and employees serving the Company, and will endeavor to properly protect personal information in accordance with this policy.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+The Company reserves the right at any time and at its sole discretion to update this Privacy Policy. Be sure to return to this page periodically to review the most current version of the Privacy Policy. Your continued access or use of the Company’s website (the “Website”) signifies your acceptance of the updated or modified Privacy Policy.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+1\. Establishment of the privacy protection management system  
+The Company will maintain a management system for the protection of personal information received in the course of its business activities. ****
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+2\. Acquisition, use and provision of personal information  
+When obtaining personal information in the course of its business, the Company will inform the user of (i) the type of personal information sought, (ii) the purpose(s) for which such personal information is sought and (iii) the intended recipients of the processed personal data. The Company will handle such personal data in an appropriate manner. The Company prohibits the use of personal information without statutory grounds for any purpose other than those specified, and implements measures for enforcing this prohibition. 
 
-**Information Collection and Use**
+3\. Compliance with laws, regulations and norms  
+The Company will comply with laws and regulations, guidelines set up by the national government and other norms pertaining to the handling of personal information, and will harmonize its privacy management rules with these laws, regulations, guidelines and other norms. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+4\. Implementation of security controls  
+While no Website can guarantee 100% security, the Company has implemented appropriate administrative, technical, and physical security procedures to help protect the personal information the Users provide to us.  To ensure the accuracy and security of personal information, the Company controls access to, and implements restrictions on the taking out of, personal information from the Company’s premises .  The Company has adopted measures  to prevent unauthorized access to personal information, using reasonable measures commensurate with the presumed risks in an effort to prevent any personal information from being leaked, lost or damaged. The Company will regularly review and adjust these security measures.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+5\. Disclosure of personal information and response to complaints and inquiries  
+If a user, in accordance with the procedures announced by the Company and in connection with the user’s own personal information, makes a request for the disclosure, correction, addition, deletion, discontinuation of use or provision of the information, or makes a complaint or inquiry , the Company will carry out proper user identification and respond promptly to the matter.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+6\. Formulation, implementation, maintenance and continuous enhancement of the personal information management system  
+The Company makes **** its employees aware of the importance of personal information protection. The Company shall formulate a personal information management system on the proper use and adequate protection of personal information, and shall implement, monitor, maintain and continuously enhance it in a consistent manner.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Established on June 1, 2004  
+Revised on May 1, 2008  
+Minoru Tanaka  
+President and Representative Director  
+Kakaku.com, Inc.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+* For any complaint or inquiry regarding personal information received by the Company, please use the following e-mail address or postal address. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Privacy Committee Office, Kakaku.com, Inc.  
+E-mail: [support@priceprice.com](mailto:support@priceprice.com)   
+Postal Address: Ebisu i-Mark Gate (Daikanyama Digital Gate Building)  
+3-5-7 Ebisu Minami, Shibuya-ku, Tokyo 150-0022 Japan
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Handling of Personal Information  
+Public Announcement of Matters under the Act on the Protection of Personal Information
 
-**Security**
+The following matters are hereby announced publicly in accordance with the Act on the Protection of Personal Information (hereinafter,the “ Act”).
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+1\. Business operator handling personal information (pursuant to item (i), paragraph (1), Article 24 of the Act)  
+Kakaku.com, Inc.  
+Contact: Privacy Committee Office E-mail: [support@priceprice.com](mailto:support@priceprice.com)
 
-**Updating Your Information**
+2\. Matters pertaining to the public announcement of the purpose of utilization of personal information (pursuant to paragraph (1), Article 18of the Act) and matters to be placed in an accessible condition for the person concerned with the retained personal data (pursuant to paragraph (1), Article 24 of the Act) 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+No.  
+Type of personal information  
+Purpose of use
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+(1) Information on customers:  
+Personal identification for the login process, distribution of information via e-mail magazine and other formats, provision of services through the Websites, response to inquiries from customers, and use as materials for the preparation of statistical data and the development of the Company’s new services after processing into a form in which the individual cannot be identified
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+(2) Information acquired through business activities and from information available to the public:  
+Business activities, credit management and business communications 
 
-      iii.      You may call us at: (480) 505-8800
+(3) Information on shareholders:  
+Dispatch of investor relations information, business communications and responses to inquiries 
 
-       iv.      You may fax us at: (480) 505-8844
+(4) Information on entrants in prize draws and campaigns:  
+Communications with entrants and the dispatch of prizes 
 
-**Sending Emails**
+(5) Information on employees (including temporary workers, part-time workers and retired employees):  
+Business communications and personnel management 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+(6) Information on job applicants:  
+Screening for recruitment by the Company and its subsidiaries, communications with applicants and entry procedures for successful applicants 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+3\. Matters pertaining to the provision of personal information to a third party (pursuant to paragraph (1) of Article 23 of the Act)  
+The Company shall place the personal information acquired under proper control and shall not provide any personal information to any third party without the consent of the person concerned, except in the following cases:   
+\- Cases where the provision of personal data is based on law or regulation  
+\- Cases where the provision of personal data is necessary for the protection of the life, body or property of an individual and where it is difficult to obtain the person’s consent   
+\- Cases where the provision of personal data is particularly necessary for improving public health or promoting the sound growth of children, and where it is difficult to obtain the consent of the person  
+\- Cases where the provision of personal data is necessary for cooperating with a state organization, a local government, or an individual or business operator assigned to execute the affairs prescribed by law or regulation and where obtaining the consent of the person is likely to impede the execution of the affairs 
 
-**Compliance with Laws and Law Enforcement**
+4\. Procedures to meet requests for notice of the purpose of use, for disclosure, correction, addition, deletion and discontinuation of use, and for erasure or discontinuation of provision of personal information subject to disclosure (hereinafter “Certain Requests”) (pursuant to item (iii), paragraph (1) of Article 24, and Articles 29 and 30 of the Act) ****
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+(1) Address for filing Certain Requests   
+To file Certain Requests, please fill in the application form designated by the Company with the necessary information and send it by mail to:  
+Privacy Committee Office  
+Kakaku.com, Inc.Ebisu i-Mark Gate (Daikanyama Digital Gate Building),  
+3-5-7 Ebisu Minami, Shibuya-ku, Tokyo 150-0022 Japan
 
-**Third Party Service Providers**
+(2) Documents and forms to be submitted for filing Certain Requests  
+Please supply the documents specified in A and B below.  
+A. An application form for Certain Requests regarding personal information (please request the application form by an e-mail to [support@priceprice.com](mailto:support@priceprice.com))  
+Print out the form and fill in the required information.  
+B. A document for personal identification (such as a photocopy of the applicant’s driving license, passport, student identification card and health insurance certificate) 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+(Filing Certain Requests by proxy)  
+When filing Certain Requests by proxy, please enclose the documents specified below in addition to those specified in A and B above. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+(Filing with a letter of proxy)   
+i) A copy of the letter of proxy (please request the application form by an e-mail to [support@priceprice.com](mailto:support@priceprice.com))  
+This copy must bear the signature and registered seal of the person associated with the personal information.   
+ii) A copy of the certificate of seal registration  
+iii) A document for personal identification of the proxy (such as a photocopy of the proxy’s driving license, passport and health insurance certificate)
 
-**Supplementation of Information**
+(Filing by legal representative)  
+i) A document certifying that the legal representative has the authority of statutory representation (such as an abstract of the family register)  
+ii) A personal identification document of the legal representative (such as a photocopy of his or her driving license, passport and health insurance certificate)
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+(3) Fee concerning Certain Requests  
+No fee is required for a request for notification of the purpose of use pursuant to paragraph (2) of Article 24 of the Act or a request for disclosure under paragraph (1) of Article 25 of the Act. 
 
-**Contests/Surveys**
+(4) Method of responding to Certain Requests  
+The Company will respond in writing to the applicant’s address as specified on the application form.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+(5) Purpose of utilization of personal information acquired from Certain Requests  
+The Company will use personal information acquired through requests for investigation for the application process, personal identification, response to applications and other purposes to the extent necessary.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+5\. Conditions for rejection of Certain Requests (pursuant to paragraph (2) of Article 24 and Articles 25, 26 and 27 of the Act)  
+The Company might not meet Certain Requests in the following cases. In this event, the Company will respond accordingly.  
+(1) Cases in which the applicant or his or her due proxy cannot be identified  
+(2) Cases in which there is any deficiency in the documents submitted  
+(3) Cases in which the statutory requirements for Certain Requests are not met  
+(4) Cases in which it is statutorily unnecessary to meet Certain Requests
 
-**Tell-A-Friend**
+6\. Contact details for complaints (pursuant to item (iv), paragraph (1) of Article 24 of the Act, Article 5 of the Order for Enforcement of the Act, and Article 31 of the Act)   
+The Company’s contact for complaints  
+Privacy Committee Office  
+Kakaku.com, Inc.  
+E-mail: [support@priceprice.com](mailto:support@priceprice.com)   
+Ebisu i-Mark Gate (Daikanyama Digital Gate Building)  
+3-5-7 Ebisu Minami, Shibuya-ku, Tokyo 150-0022 Japan
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Contact us at the above e-mail address and postal address.
 
-**What Happens to my Personal Information if I Opt Out?**
+* The Company will not accept any request submitted in person. 
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Name of the authorized personal information protection organization handling complaints for the Company, and contact details for complaints
 
-**Transfer of Data Abroad**
+Personal Information Protection Consultation Service Office  
+PrivacyMark Promotion Center   
+Japan Institute for Promotion of Digital Economy and Community (JIPDEC)  
+Kikai Shinko Kaikan Building, 3-5-8 Shiba Koen, Minato-ku, Tokyo, 105-0011 Japan   
+Phone: 0120-700779   
+* The phone number shown above is NOT for inquiries regarding the Company’s services.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Page Top
