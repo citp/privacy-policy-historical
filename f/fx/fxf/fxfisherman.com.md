@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxfisherman.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617022540id_/http%3A//www.fxfisherman.com/forex/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxfisherman.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216014553id_/http%3A//www.fxfisherman.com/forex/privacy-policy) for the most accurate reproduction.*
 
 # Forex Trading | MetaTrader Indicators and Expert Advisors - Privacy Policy
 
