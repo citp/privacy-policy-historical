@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the notableapp.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625195544id_/https%3A//www.notableapp.com/privacy_policy_terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notableapp.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216164950id_/http%3A//www.notableapp.com/privacy) for the most accurate reproduction.*
 
-# Notable | Better Webpages Through Faster Iterations, Website Screenshot Feedback
+# Notable - Better Interfaces Through Faster Iterations
+
+### Notable Website Privacy Policy
 
 We understand that your privacy is of the utmost importance to you. www.notableapp.com is committed to protecting the privacy and confidential information of those who register. The effective date of this privacy policy is April 16th, 2012.
 
 ### Your Personal Information
-
-* * *
 
 When you sign up with us, www.notableapp.com logs you in automatically using your email address. This makes it easier for you as you don’t have to create and remember a login identifier. The use of your email address for login also allows www.notableapp.com the chance to email you a new password in case you forget or lose your old one.
 
@@ -33,9 +33,3 @@ Our Web pages may contain links to other sites. We do not necessarily share pers
 To the extent that you do provide us with personal information, we wish to maintain accurate personal information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting us should you need to review, update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your personal information by email to support@notableapp.com and we will make reasonable efforts to incorporate the changes in your personal information that we hold as soon as practicable
 
 By using this Web site, you consent to the terms of our Privacy Policy. www.notableapp.com reserves the right to modify this privacy statement at any time. If there are material changes to this statement on how www.notableapp.com will use your personal information, we will prominently post these changes prior to implementing them. If you use our website after we post these changes, this indicates your acceptance of them. Regardless of later updates, we will follow the privacy practices described in this privacy statement at the time you provided us with your information.
-
-### Questions
-
-* * *
-
-Any questions about this Privacy Policy should be addressed to [support@notableapp.com.](mailto:support@notableapp.com)
