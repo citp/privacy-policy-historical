@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copypress.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618065425id_/http%3A//www.copypress.com/%3Fpage_id%3D1300) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copypress.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217171239id_/http%3A//www.copypress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CopyPress
 
