@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighthub.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211052052id_/http%3A//www.brighthub.com/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighthub.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217010118id_/http%3A//www.brighthub.com/content/privacy.aspx) for the most accurate reproduction.*
 
 # Bright Hub Privacy Policy
 
@@ -22,7 +22,7 @@ Most browsers are initially set up to accept cookies. Although no personally ide
 
 Network Advertising Alliance— an association of advertising networks, data exchanges, and marketing analytics services providers provides information to consumers about internet advertising practices. Click [here](http://www.networkadvertising.org/index.asp) to learn more about the practice of collecting and using non-personally identifiable information and the choices you have about these tools.
 
-Advertising Option Program— an online behavioral advertising industry self regulatory program. Click [here](http://www.aboutads.info/choices/\])
+Advertising Option Program— an online behavioral advertising industry self regulatory program. Click [here](http://www.aboutads.info/choices/)
 
 Yahoo Analytics—  Click [here](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html)
 
