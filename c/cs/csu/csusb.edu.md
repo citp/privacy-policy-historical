@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the csusb.edu privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501205302id_/http%3A//www.csusb.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csusb.edu privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217041137id_/http%3A//www.csusb.edu/privacySecurityNotice.html) for the most accurate reproduction.*
 
-# CSUSB - Privacy and Security Notice
+# Privacy and Security Notice - California State Univesity, San Bernardino
 
 Thank you for visiting California State University, San Bernardino's (CSUSB) website and reviewing our privacy and security notice. We remind you that if you follow a link to a site outside of CSUSB's web site, you are subject to the policies of the new site.
 
@@ -38,4 +38,4 @@ Electronically submitted information is maintained and destroyed according to th
 
 For site security purposes and to ensure that this service remains available to all users, this Government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Anyone using this system expressly consents to such monitoring and is advised that if such monitoring reveals evidence of possible abuse or criminal activity, such evidence may be provided to appropriate law enforcement officials. Unauthorized attempts to upload or change information on this server are strictly prohibited and may be punishable by law, including the Computer Fraud and Abuse Act of 1986, the National Information Infrastructure Protection Act of 1996, and California Penal Code.
 
-Reference: [United States Department of Justice](http://www.usdoj.gov/)
+Reference: [United States Department of Justice](http://www.usdoj.gov/)
