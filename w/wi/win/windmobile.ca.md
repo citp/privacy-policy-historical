@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windmobile.ca privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621083022id_/http%3A//windmobile.ca/en/pages/windprivacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windmobile.ca privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217093317id_/http%3A//windmobile.ca/en/pages/windprivacypolicy.aspx) for the most accurate reproduction.*
 
 # WIND Mobile | Privacy Policy
 
@@ -50,7 +50,7 @@ We will only use your Personal Information for the purposes for which it was col
 
 **Disclosure of Information**
 
-WIND Mobile will disclose Personal Information it collects to independent contractors of WIND Mobile, subsidiaries and affiliates of WIND Mobile, consultants, business associates, authorized retailers, suppliers, service providers (including other communication service providers) and credit and collection agencies, if and to the extent the disclosure will enable that party to perform a function related to one of the purposes described above. 
+WIND Mobile will disclose Personal Information it collects to independent contractors of WIND Mobile, subsidiaries and affiliates of WIND Mobile, consultants, business associates, authorized retailers, dealers, suppliers, service providers (including other communication service providers) and credit and collection agencies, if and to the extent the disclosure will enable that party to perform a function related to one of the purposes described above. 
 
 Some service providers may be located in other jurisdictions that do not have privacy legislation similar to that found in Canada, and information in such jurisdictions may be accessed pursuant to the laws of those countries. 
 
@@ -78,6 +78,10 @@ However, we may not be able to offer you some of our services or functions of ou
 
 Marketing communications will only be sent to you if you elect to receive them when you register on our website or when you sign up for our services. You may opt out of receiving marketing communications at any time by selecting the “unsubscribe” option (in the case of e-mail communications), visiting our website or contacting our call centre. 
 
+**Links to other sites**
+
+Our website contains links to other third-party websites and online services. If you choose to visit another website or online service by clicking on a link, you will be directed to that third party’s website or online service. The fact that we may link with a website or online service is not an endorsement of their privacy policy or information security policies or practices. We do not exercise control over these third parties and they may place their own cookies or other files on your computer and collect data or solicit Personal Information from you. Other sites and online services follow different rules regarding the collection, use and/or disclosure of Personal Information. We encourage you to read the privacy policies or statements of the other websites or online services you visit before providing any information or using such websites or services.
+
 **Contacting Us**
 
 If you have concerns or enquiries regarding your Personal Information or this Privacy Policy, please contact us through our website or call centre. If required, our customer service representatives will be happy to refer the matter to our Chief Privacy Officer. You may also contact our Chief Privacy Officer in writing at the following address: 
@@ -93,3 +97,5 @@ Suite 710, PO Box 114
 Toronto, ON M5J 1A7 
 
 Canada 
+
+or by email to [privacyofficer@windmobile.ca](mailto://privacyofficer@windmobile.ca).
