@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subaru.ca privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618043425id_/http%3A//www.subaru.ca/Content/7907/Media/en-ca/LegalText/Corporate/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subaru.ca privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217031102id_/http%3A//www.subaru.ca/Content/7907/Media/en-ca/LegalText/Corporate/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Subaru Canada, Inc.
 
@@ -6,7 +6,7 @@ OUR PRIVACY COMMITMENT
 Subaru Canada, Inc. (“Subaru”) values its relationship with you, our existing or potential customers, suppliers, employment applicants, dealers and partners, and is committed to maintaining the security, confidentiality and privacy of your personal information. Subaru has developed a **Personal Information Privacy Policy** incorporating the principles set out below, to reflect its on-going commitment to you. Subaru has ensured that its Privacy Policy is in compliance with Canadian privacy laws which apply to the collection, use and disclosure of personal information. 
 
   
-**“Personal Information”** as used in this Privacy Policy means information about an identifiable individual. This Privacy Policy does not apply to the collection, use or disclosure of business contact information (for example the name, title, business address and telephone number of an employee of an organization), to Subaru’s employees, or in part to certain publicly available information.
+**“Personal Information”** as used in this Privacy Policy means information about an identifiable individual. This Privacy Policy does not apply to the collection, use or disclosure of business contact information (for example the name, title, business address and telephone number of an employee of an organization), to Subaru’s employees, or in part to certain publicly available information
 
 Accountability for Subaru’s compliance with its Privacy Policy rests with Subaru’s _[Privacy Officer](http://privacy.mysubaru.ca/)_ , even though other individuals within Subaru may have responsibility for management of personal information or may be delegated to act on behalf of the Privacy Officer.
 
@@ -16,26 +16,32 @@ Subaru will be responsible for personal information in its possession or custody
 In general, Subaru has collected, and will continue to collect, use and disclose personal information for purposes authorized or required by law, as well as for the following purposes:
 
   * to maintain accurate customer records to satisfy legal and industry-wide regulatory obligations (for example, notification of service campaigns and recalls)
-  * to fulfil individual customer service and warranty-related needs 
-  * to establish and maintain communications with you relating to our existing, past or future relationships, and our products and services, including responding to your inquiries
-  * to conduct surveys which help Subaru identify ways to better manage its business and provide products and services 
-  * to distribute _Six Star Review, The Magazine for Canadian Subaru Owners_ and similar Subaru magazines and publications
-  * to provide you with information about products and services related to the maintenance of your vehicle and new product offerings 
-  * to allow you to participate in Subaru vehicle test drives 
-  * to receive communications from Subaru about special offers made jointly with C.A.R.Efully selected industry partners (all correspondence of this nature is conducted or directly managed by Subaru)
-  * to share some of your information under strictly limited and confidential circumstances with our affiliates, dealers, representatives, suppliers and Subaru business partners such as the Canadian Automobile Association (CAA) who assist us in providing products and services and allow us to more effectively carry on our business 
-  * to establish, administer and document training, development and educational requirements and programs 
-  * to establish, administer and document incentive programs 
-  * to evaluate potential suppliers and their staff, make decisions about entering into product and/or supply relationships with them, and to monitor, assess and address these relationships 
-  * to evaluate potential dealers and their staff, make decisions about entering into dealer relationships with them, and to monitor, assess and address these relationships 
+  * to manage and fulfil individual customer service and warranty-related needs
+  * to comply with regulatory requirements
+  * to make annual filings and reports with regulatory bodies, shareholders and creditors
+  * to establish and maintain communications with you relating to our existing, past or future relationships, and our products, merchandise and services, including responding to your inquiries
+  * to conduct surveys which help Subaru and its dealers identify ways to better manage their businesses and provide products and services
+  * to distribute Six Star Review, The Magazine for Canadian Subaru Owners and similar Subaru magazines and publications 
+  * to provide you with information about products and services related to the maintenance of your vehicle and new product offerings
+  * to promote the sale of Subaru vehicles, merchandise and related services
+  * to analyse the operations of dealers, suppliers and business partners
+  * to allow you to participate in Subaru vehicle test drives
+  * to provide you with communications from Subaru about special offers made jointly with carefully selected industry partners (all correspondence of this nature is conducted or directly managed by Subaru)
+  * to share some of your information under strictly limited and confidential circumstances with our affiliates, dealers, representatives, suppliers and Subaru business partners such as the Canadian Automobile Association (CAA) who assist us in providing products and services and allow us to more effectively carry on our business
+  * to establish, administer and document training, development and educational requirements and programs
+  * to establish, administer and document incentive programs
+  * to evaluate potential suppliers and their staff, make decisions about entering into product and/or supply relationships with them, and to monitor, assess and address these relationships
+  * to evaluate potential dealers and their staff, make decisions about entering into dealer relationships with them, and to monitor, assess and address these relationships
   * to evaluate potential partners and/or co-suppliers and their staff, make decisions about entering into relationships with them, and to monitor, assess and address these relationships
-  * to evaluate potential employees and make decisions about hiring (including employment history, reference checks, academic history and medical evaluations) 
-  * to implement and manage security programs and internal controls (including computer monitoring and video surveillance) 
+  * to implement and manage security programs and internal controls (including computer monitoring and video surveillance)
   * to protect Subaru, and its customers, suppliers, dealers and partners, from theft, fraud and similar risks
+  * to assist dealers in carrying on their business and related products and services, such as warranty and non-warranty services for vehicles, vehicle parts, extended warranty arrangements and financing of vehicle purchases
 
 
 
 Unless applicable privacy laws provide otherwise, Subaru will make a reasonable effort to specify the identified purposes in a readily understandable way to the individual from whom the personal information is being collected, either at the time of collection or after collection but before its use or disclosure.
+
+Subaru may transmit personal information to the United States for some of the purposes described above.
 
   
 The way in which Subaru obtains your consent to collecting, using or disclosing your personal information will vary depending upon its sensitivity. An individual can withdraw consent at any time, subject to legal or contractual restrictions, by giving to Subaru reasonable notice. In appropriate cases, Subaru will inform individuals of any implications of withdrawing consent. Subaru will not, as a condition of the supply of services, require an individual to consent to the collection, use, or disclosure of personal information beyond that required to fulfil the specified purposes.
