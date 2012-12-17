@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilivid.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619234345id_/http%3A//www.ilivid.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilivid.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217091027id_/http%3A//ilivid.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | iLivid.com
 
@@ -34,8 +34,8 @@ From time to time, iLivid may revise this Policy. iLivid will post the revised P
 
 **Change or Removal of Information**
 
-If a user's e-mail address changes or you wish you remove your e-mail address, you can contact us at: [support@iLivid.com](mailto:support@iLivid.com) with the request or by contacting us at the contact information listed below.
+If a user's e-mail address changes or you wish you remove your e-mail address, you can contact us at: [support@ilivid.com](mailto:support@ilivid.com) with the request or by contacting us at the contact information listed below.
 
 **Contact Information**
 
-Please direct all questions in connection with this Policy via e-mail to [privacy@iLivid.com](mailto:privacy@iLivid.com) or by writing to iLivid, Attention: Privacy Policy Officer, 40 Kimonos St. 3095, Limassol, Cyprus.
+Please direct all questions in connection with this Policy via e-mail to [privacy@ilivid.com](mailto:privacy@ilivid.com) or by writing to iLivid, Attention: Privacy Policy Officer, 40 Kimonos St. 3095, Limassol, Cyprus.
