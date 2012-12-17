@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbeacon.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512061738id_/http%3A//www.redbeacon.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbeacon.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217195014id_/http%3A//www.redbeacon.com/about/privacy) for the most accurate reproduction.*
 
 # Redbeacon - Privacy Policy
 
@@ -8,7 +8,7 @@ Red Beacon, Inc. ("Redbeacon", "we" or "us") provides this Privacy Policy to inf
 
 By using our Applications you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing" means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the U.S., your personally identifiable information will be transferred to the U.S., and processed and stored there under U.S. privacy standards. By visiting our Applications and providing information to us, you consent to such transfer to, and processing in, the U.S. 
 
-If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at support [at] redbeacon.com. 
+If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at support@redbeacon.com. 
 
 ## Information Collection and Use
 
@@ -24,7 +24,7 @@ If you contact us by email through the Applications, we may keep a record of you
 
 **Survey.** We may also collect information if you participate in surveys conducted by or on behalf of us or our partner companies, including but not limited to questionnaires, telephone interview and/or discussion groups, and otherwise providing general information about the Redbeacon service.
 
- **Anonymous Data.** We may create Anonymous Data records from information collected from you (such as information contained in a Service Request) by excluding information (such as your name) that make the data personally identifiable to you. "Anonymous Data" means data that is not associated with or linked to your personal information; Anonymous Data does not permit the identification of individual persons. We reserve the right to use and disclose Anonymous Data to third parties in our discretion. 
+ **Anonymous Data.** We may create Anonymous Data records from information collected from you (such as information contained in a Service Request) by excluding information (such as your full name) that make the data personally identifiable to you. "Anonymous Data" means data that is not associated with or linked to your personal information; Anonymous Data does not permit the identification of individual persons. We reserve the right to use and disclose Anonymous Data to third parties in our discretion. 
 
 ### Use of Contact Information.
 
@@ -60,7 +60,7 @@ Circumstance under which we may share your personal information:
 
 **To Provide Information to Consumers.** If you are a registered Service Provider, we may share your personal information with Consumers requesting services through Redbeacon. Sharing this information with Consumers helps them to assess Service Provider quality and select the Service Provider to perform the service they need done. The information we share is generally the information in your Skill Profile, with the exception of your address, contact phone number, mobile phone number, and email address. In addition, we share the Quote you submitted on the Service Request and any additional information you choose to provide to the Consumer such as appointment start times, private notes, and questions about the Service Request. If you Quote on a job and your Quote is selected by the Consumer, Redbeacon will then, and only then, share your address, contact phone number, and email address with the Consumer in order to facilitate communication about the scheduled job. 
 
-**To Provide Information to Partner Companies.** We may enter into agreements with one or more partner companies pursuant to which we provide a partner company with a URL and a user registration page co-branded with, or private labeled by, the partner company, and the partner company distributes and promotes the URL to its customers. A partner company may want to access personally identifiable information that we collect from its customers. As a result, if you register on our Website or other Application through a partner company, or if you are directed to or access our Website or Application or their features (such as but not limited to an embedded widget) through a partner company, we may provide your personally identifiable information to the partner company. Because we do not control the privacy practices of our partner company, you should read and understand its privacy policies.
+**To Provide Information to Partner Companies.** We may enter into agreements with one or more partner companies pursuant to which we provide a partner company with a URL and a user registration page co-branded with, or private labeled by, the partner company, and the partner company distributes and promotes the URL to its customers. A partner company may want to access personally identifiable information that we collect from its customers. As a result, if you register on our Website or other Application through a partner company, or if you are directed to or access our Website, Application or their features (such as but not limited to an embedded widget) through a partner company, we may provide your personally identifiable information to the partner company. Because we do not control the privacy practices of our partner company, you should read and understand its privacy policies.
 
  **To Facilitate Redbeacon's Use of Third-Party Services.** We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, direct marketing campaigns and User credit card information storage. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data. 
 
@@ -87,9 +87,5 @@ Our Applications contains links to other websites. The fact that we link to a we
 ## Children
 
 The Applications are not directed to persons under 18. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without the parent or guardian's consent, he or she should contact us at support [at] redbeacon.com. We do not knowingly collect personally identifiable information from minors under 18. If we become aware that a minor under 18 has provided us with personal identifiable information, we will use reasonable commercial efforts to promptly delete such information from our files. 
-
-## EU Safe Harbor
-
-Our Website, Appplications and Company are in compliance with the European Union Safe Harbor privacy principles. Redbeacon notified the U.S. Department of Commerce on May 5, 2010 that we adhere to the Safe Harbor privacy principles developed by the Department of Commerce in coordination with the European Commission. 
 
 If you have any additional questions or concerns about this Policy, or wish to opt-out of any specific provision, please feel free to contact us any time through this website or at Privacy Matters, c/o Red Beacon, Inc., 107 South B Street, Suite 220, San Mateo, CA 94401, USA. 
