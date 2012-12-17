@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the pmemory.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625003715id_/http%3A//www.pmemory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmemory.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217054703id_/http%3A//www.pmemory.com/privacy-policy) for the most accurate reproduction.*
 
-# Memorization techniques, Memory development, Improve your Memory, Mnemonics, Memory strategies, Memory improvement, Brain power, Memory skills, Memory Loss
+# Memory improvement, Memory development, Improve your Memory, Mnemonics, Brain power, Memory skills, Memorization techniques, Memory Loss, Memory strategies
+
+Type your question here:
+
+Your Email:
+
+| 
 
 What information does School Of Phenomenal Memory collect from our users and how do we collect it?
 
@@ -24,4 +30,6 @@ All of the newsletters that are sent to you by School Of Phenomenal Memory inclu
 
 If you have any questions or concerns regarding our privacy policy please direct them [HERE](http://pmemory.com/contacts/).
 
-You may also contact us [HERE](http://pmemory.com/contacts/).
+You may also contact us [HERE](http://pmemory.com/contacts/).  
+  
+---|---
