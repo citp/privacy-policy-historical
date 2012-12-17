@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the answerbag.co.uk privacy policy that was archived on 2011-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110719224740id_/http%3A//www.answerbag.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answerbag.co.uk privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217195616id_/http%3A//www.answerbag.com/privacy) for the most accurate reproduction.*
 
 # Answerbag
 
@@ -91,7 +91,7 @@ Information relating to our programs is not necessarily maintained in a retrieva
     3. **Identity Theft**. If you believe that you are a victim of identity theft entitled by law to request information from us, write us at our Legal Notice address (see the next section of this Policy) and we will let you know what additional information you must provide to us. After we have received that information, we will supply without charge the information legally required to be disclosed that we then have, subject to applicable law and reserving all of our rights and defenses.>
   11. ## CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY.
 
-For customer service matters (including questions relating to this Policy), you may email us at [admin@answerbag.com](mailto:admin@answerbag.com). To send us a legal notice, mail it by certified mail (return receipt requested) to: Legal Department, 15801 NE 24th St. Bellevue, WA 98008. When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and sending you an email to the email address that we have on record for you.
+For customer service matters (including questions relating to this Policy), you may email us at [admin@answerbag.com](mailto:admin@answerbag.com). To send us a legal notice, mail it by certified mail (return receipt requested) to: Legal Department, 5808 Lake Washington Blvd., Suite 300, Kirkland, WA 98033. When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and sending you an email to the email address that we have on record for you.
 
 
 
