@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flirtandsex.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618121704id_/http%3A//www.flirtandsex.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirtandsex.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217160229id_/http%3A//www.flirtandsex.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Live Cams | Webcam Sex Video Chat | Flirt and Sex with these Single Girls at FlirtandSex
+# Live Cams | Webcam Video Chat | Flirt and Sex with these Single Girls
 
 __**S U M M A R Y :**__
 
