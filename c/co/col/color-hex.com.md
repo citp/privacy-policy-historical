@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the color-hex.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508065049id_/http%3A//www.color-hex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the color-hex.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217022943id_/http%3A//www.color-hex.com/privacy.php) for the most accurate reproduction.*
 
-# Color-hex Privacy
+# Privacy Policy Color-Hex.com
 
-  
   
 
 
@@ -26,6 +25,3 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 \- Google, as a third party vendor, uses cookies to serve ads on color-hex.com  
 \- Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 \- Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
-
-  
-
