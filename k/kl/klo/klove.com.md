@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the klove.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512032502id_/http%3A//www.klove.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klove.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217064107id_/http%3A//www.klove.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Positive Encouraging K-LOVE
 
-**K-LOVE is committed to safeguarding individual and corporate privacy on our website; we operate under a strict set of privacy principles:**
+**K-LOVE is committed to safeguarding individual and corporate privacy on our website; we operate under a strict set of privacy principles:**  
 
   * The only information K-LOVE obtains about visitors to its website is information voluntarily supplied by visitors. 
   * In cases when K-LOVE may need personal information to provide visitors with services tailored especially for them, or to inform them about new features or services, visitors are explicitly asked for that information. 
@@ -15,20 +15,6 @@
 
 
 
+  
 **How to Reach Us:**   
-If you ever feel that this site is not following the privacy policy we have described here, please [contact K-LOVE](https://web.archive.org/About/Contact.aspx) . We will make every reasonable effort to find and promptly correct the problem. 
-
-[](https://web.archive.org/contact/business-team-members.aspx)
-
-[](https://web.archive.org/contests/mobile-app.aspx)
-
-* * *
-
-[](https://web.archive.org/ministry/support-k-love/)
-
-  * K-LOVE is listener supported with minimal interruptions. 
-  * God is changing lives through Christian radio - thanks for sharing the vision!
-
-
-
-[Donate Now »](https://secure.klove.com/signin.aspx?returnurl=checkoutexpress.aspx&ici=donate-rt-bnr_rt-bnr)
+If you ever feel that this site is not following the privacy policy we have described here, please [contact K-LOVE](http://www.klove.com/About/Contact.aspx) . We will make every reasonable effort to find and promptly correct the problem. 
