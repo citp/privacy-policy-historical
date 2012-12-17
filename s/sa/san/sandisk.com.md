@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616053213id_/http%3A//www.sandisk.com/about-sandisk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217195000id_/http%3A//www.sandisk.com/about-sandisk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,9 @@
 
 **Last updated June 24, 2010.**
 
-SanDisk respects your privacy, and is committed to providing you with a positive experience on our website and in your other interactions with us.  This privacy policy explains our practices for handling personal information on- and off-line.  If you provide us with personal information, we will treat it as outlined in this policy.
+SanDisk respects your privacy, and is committed to providing you with a positive experience on our website and in your other interactions with us. This privacy policy explains our practices for handling personal information on- and off-line. If you provide us with personal information, we will treat it as outlined in this policy.
 
-This policy applies to the SanDisk corporate websites and SanDisk web properties linking to or otherwise displaying this policy (the "SanDisk Sites" or "Sites"), and is applicable worldwide.  We encourage you to read this privacy policy and those of all websites you visit.  The policy that applies to any SanDisk branded or controlled website is always the policy that appears in the footer of each website.
+This policy applies to the SanDisk corporate websites and SanDisk web properties linking to or otherwise displaying this policy (the "SanDisk Sites" or "Sites"), and is applicable worldwide. We encourage you to read this privacy policy and those of all websites you visit. The policy that applies to any SanDisk branded or controlled website is always the policy that appears in the footer of each website.
 
 ECOMMERCE NOTICE: The online SanDisk Store is operated by our ecommerce vendor, who is the merchant of record in regard to online sales. This vendor's terms of sale and privacy policy apply when you make online purchases through the SanDisk Store. Links to the privacy policy and terms of sale applicable to you are at the bottom of the Shopping Cart page and at Checkout.
 
@@ -16,19 +16,19 @@ ECOMMERCE NOTICE: The online SanDisk Store is operated by our ecommerce vendor, 
 
 Please click [here](https://web.archive.org/about-sandisk/privacy-policy/faq) to see our frequently asked questions about privacy page. Click on the links below to go to a specific section of the privacy policy.
 
-  * Privacy policy updates 
-  * Information we collect 
-  * Cookies, web beacons and other technologies we use 
-  * Use of personal information 
-  * Sharing personal information 
-  * How to access and update your personal information 
-  * Security of personal information 
-  * Data retention 
-  * Links to other websites and social media platforms 
-  * Children and privacy 
-  * Transfer of personal information, Safe Harbor 
-  * International and other notices 
-  * Contact us with comments or questions 
+  * Privacy policy updates
+  * Information we collect
+  * Cookies, web beacons and other technologies we use
+  * Use of personal information
+  * Sharing personal information
+  * How to access and update your personal information
+  * Security of personal information
+  * Data retention
+  * Links to other websites and social media platforms
+  * Children and privacy
+  * Transfer of personal information, Safe Harbor
+  * International and other notices
+  * Contact us with comments or questions
 
 
 
@@ -69,7 +69,7 @@ We will not collect any personal information from you if you have not given us t
 
 Our primary purpose in collecting personal information is to provide you with a positive and customized experience with us. You agree that we may use your personal information:
 
-  * To deliver a product or provide a service you have requested; 
+  * To deliver a product or provide a service you have requested;
   * To provide you with product registration, technical and customer support;
   * To administer promotions you enter such as a contest or sweepstakes;
   * To allow your participation in activities, such as online discussion groups, communities, and surveys;
@@ -105,12 +105,12 @@ Please remember that any information you choose to disclose in public areas of t
 
 We want to be sure the personal information we keep for you is up to date and accurate. We will take reasonable steps to ensure that any personal information you have submitted through the Sites is accurate, complete and up to date. You have the right under applicable data protection laws to access the personal information that SanDisk keeps for you, on request to SanDisk, except in certain limited circumstances (for example, where an applicable law requires us to deny such access). You can use the links immediately below or contact us by email or mail (see the "Contact Us" section at the end of this policy for details) to request access to your personal information.
 
-  * UNSUBSCRIBE: To unsubscribe from SanDisk promotional communications, click [here](http://kb.sandisk.com/ci/documents/detail/2/unsub-us "Unsubscribe Link"). 
-  * UPDATE PREFERENCES: Update your SanDisk communications preferences any time online [here](https://reg.cheetahmail.com/regp?aid=445516089&n=400 "Update Profile"). 
-  * "MY SANDISK" PRODUCT REGISTRATION: To update or change contact information you provided in connection with product registration or customer support through the My SanDisk feature, you can click [here](http://kb.sandisk.com/app/home "SanDisk Support"). (If this feature is not available in your country, the link may not be active.)
-  * WAKE UP YOUR PHONE: To update your marketing preferences on WakeUpYourPhone.com, you will need to log in to your account. Log in here. Once you are logged in, go to your profile and you can update your marketing preferences, change your profile, or delete your account.
-  * ECOMMERCE: As noted above, the SanDisk Store is operated by our ecommerce vendor, who is the merchant of record in regard to online sales. This vendor's terms of sale and privacy policy apply when you make online purchases through the SanDisk Store. Links to the privacy policy and terms of sale applicable to you are at the bottom of the Shopping Cart page and at Checkout. To update or change information you provided when purchasing SanDisk products online through the SanDisk Store you can contact our ecommerce vendor [here](http://corporate.digitalriver.com/store/driv/Corp/sectionName.company/subSectionName.corpPolicies/page.corpPolicies).  (If this feature is not available in your country, the link may not be active.)
-  * OTHER INQUIRIES: If these links do not address your access needs, you can email us at one of the email addresses in the [Contact us](mailto:privacy@sandisk.com)  section below. Please include your contact information, the name of the SanDisk Site, communication or other service about which you are contacting us, and a detailed description of your specific request.
+  * UNSUBSCRIBE: To unsubscribe from SanDisk promotional communications, click [here](http://kb.sandisk.com/ci/documents/detail/2/unsub-us "Unsubscribe Link").
+  * UPDATE PREFERENCES: Update your SanDisk communications preferences any time online [here](https://reg.cheetahmail.com/regp?aid=445516089&n=400 "Update Profile").
+  * "MY SANDISK" PRODUCT REGISTRATION: To update or change contact information you provided in connection with product registration or customer support through the My SanDisk feature, you can click [here](http://kb.sandisk.com/app/home "SanDisk Support"). (If this feature is not available in your country, the link may not be active.)
+  * WAKE UP YOUR PHONE: To update your marketing preferences on WakeUpYourPhone.com, you will need to log in to your account. Log in here. Once you are logged in, go to your profile and you can update your marketing preferences, change your profile, or delete your account.
+  * ECOMMERCE: As noted above, the SanDisk Store is operated by our ecommerce vendor, who is the merchant of record in regard to online sales. This vendor's terms of sale and privacy policy apply when you make online purchases through the SanDisk Store. Links to the privacy policy and terms of sale applicable to you are at the bottom of the Shopping Cart page and at Checkout. To update or change information you provided when purchasing SanDisk products online through the SanDisk Store you can contact our ecommerce vendor [here](http://corporate.digitalriver.com/store/driv/Corp/sectionName.company/subSectionName.corpPolicies/page.corpPolicies). (If this feature is not available in your country, the link may not be active.)
+  * OTHER INQUIRIES: If these links do not address your access needs, you can email us at one of the email addresses in the [Contact us](mailto:privacy@sandisk.com) section below. Please include your contact information, the name of the SanDisk Site, communication or other service about which you are contacting us, and a detailed description of your specific request.
 
 
 
@@ -140,7 +140,7 @@ We may transfer your personal information to SanDisk Corporation in the US or to
 
 **If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your personal information to the United States to SanDisk Corporation and to other countries where the SanDisk Group Companies operate, whose privacy laws may be less strict. By providing your personal information you consent to that transfer.**
 
-SanDisk participates in the U.S. Department of Commerce's Safe Harbor principles for online, off-line and manually processed personal information. For more information about the Safe Harbor program, click [here](http://www.export.gov/safeharbor "Safe Harbor") .
+SanDisk participates in the U.S. Department of Commerce's Safe Harbor principles for online, off-line and manually processed personal information. For more information about the Safe Harbor program, click [here](http://www.export.gov/safeharbor "Safe Harbor") .
 
 **International and other notices**
 
