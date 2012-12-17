@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the potbelly.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526110508id_/http%3A//www.potbelly.com/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the potbelly.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217174051id_/http%3A//potbelly.com/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Potbelly Sandwich Shop - Good Vibes. Great Sandwiches.
+# Privacy Policy - Potbelly Sandwich Shop
 
 ##  Privacy Notice 
 
@@ -42,7 +42,11 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 ## How to Contact Us
 
-If you have any questions or concerns about the Potbelly online policy for this site, its implementation or your personal information, you may contact us at privacy@potbelly.com. Changes in Our Privacy Policy We may change our policy from time to time. Please check our policy frequently for changes.
+If you have any questions or concerns about the Potbelly online policy for this site, its implementation or your personal information, you may contact us at [privacy@potbelly.com](mailto:privacy@potbelly.com).
+
+## Changes in Our Privacy Policy
+
+We may change our policy from time to time. Please check our policy frequently for changes.
 
 ## Gift Card Return Policy
 
