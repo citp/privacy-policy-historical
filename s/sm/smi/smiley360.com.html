@@ -1,0 +1,594 @@
+<!--The following is the downloaded HTML source of the smiley360.com privacy policy that was archived on 2012-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121217162134id_/http%3A//smiley360.com/privacy.cfm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>smiley360.com—Be Heard. Be Happy.</title>
+<link href="styles/siteStyle.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+@font-face {
+ font-family: GothamLight;
+ src: url(GothamHTF-Light.eot) /* EOT file for IE */
+}
+@font-face {
+ font-family: GothamLight;
+ src: url(GothamHTF-Light.ttf) /* TTF file for CSS3 browsers */
+}
+</style>
+<script type="text/javascript" src="js/jquery-latest.js"></script>
+<!--[if lt IE 7.]>
+<script defer="" type="text/javascript" src="scripts/pngfix.js"></script>
+<![endif]-->
+
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+
+<body>
+  <div id="divWrapper" class="clearfix">
+    
+<script type="text/javascript"> 
+/*<![CDATA[*//*---->*/
+	var curr_lb_div; 
+	var is_modal = false; 
+	
+	function getElementsByClass(searchClass,node,tag) {
+	var classElements = new Array();
+	if ( node == null )
+		node = document;
+	if ( tag == null )
+		tag = '*';
+	var els = node.getElementsByTagName(tag);
+	var elsLen = els.length;
+	var pattern = new RegExp('(^|\\\\s)'+searchClass+'(\\\\s|$)');
+	for (i = 0, j = 0; i < elsLen; i++) {
+		if ( pattern.test(els[i].className) ) {
+			classElements[j] = els[i];
+			j++;
+		}
+	}
+	return classElements;
+}
+	
+	function checkEmail(sEmail) {
+      if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(sEmail)){
+        return (true)
+      } else {
+	    return false;
+	  }
+	}
+	 
+	function ShowLightBoxPW(lb_div, isModal,content) 
+	{ 
+	    var oPop = document.getElementById("dialogContentPW");
+		var oContent = document.getElementById(content);
+		oPop.innerHTML = oContent.innerHTML;
+			
+	    document.getElementById(lb_div).style.display='block'; 
+	    document.getElementById('fadePW').style.display='block'; 
+	    curr_lb_div = lb_div; 
+	    if (isModal) 
+	        is_modal = true; 
+	    else is_modal = false; 
+	} 
+	 
+	function HideLightBoxPW() 
+	{ 
+	    var oPop = document.getElementById("dialogContentPW");
+		oPop.innerHTML = "";
+	    if (document.getElementById(curr_lb_div)) 
+	    { 
+	         document.getElementById(curr_lb_div).style.display='none'; 
+	         document.getElementById('fadePW').style.display='none'; 
+	         curr_lb_div = ''; 
+	    } 
+	}
+
+	function getPassword() {
+		var email = document.forms[2].m_email.value;
+		var chkAddress = checkEmail(email);
+		var myNode = document.getElementById('dialogContentPW');
+		if(chkAddress==false){
+		  var myError= getElementsByClass('passError',myNode,'P');
+		  if ( myError[0].hasChildNodes() ){
+		    while ( myError[0].childNodes.length >= 1 ){
+			  myError[0].removeChild( myError[0].firstChild );
+			} 
+	      }
+
+		  var tNode = document.createTextNode('You must enter an email address in the format of name@domain.com.');
+		  myError[0].appendChild(tNode);
+		  myError[0].style.display="block";
+		
+		} else {
+		
+		$.ajax({
+			type: "get",
+			url: "cfcs/member.cfc",
+			data: {
+				method: "getForgotPassword",
+				email:email
+			},
+			dataType: "json",
+			success: function(data) {
+				if(data == 1) {
+					$("#dialogContentPW").html('Thank you. Your password reminder email was sent.');
+				} else {
+					$("#dialogContentPW").html('Oops. The email address you entered was not found in our member accounts. Try again, or contact us for assistance.')
+				}
+		}});
+	  }
+	}
+	
+	/*$(document).ready(function(){
+		$("#forgotPassword").validate({							 
+			rules: {
+				member_email: {
+					required: true,
+					email: true
+				}
+			},
+			messages: {
+				member_email: {
+					required: "A valid email address is required.",
+					email: "Your email address must be in the format of name@domain.com."
+				}
+			}	
+		});
+	});
+
+	$(document).ready(function() {
+	  //$("#forgotPassword").validate();
+	  //document.forms[2].validate();
+	});
+	*/
+/*--*//*]]>*/
+</script>
+
+<div id="divHeader">
+  
+  <h1><a href="http://smiley360.com/index.cfm" style="display: block; height: 100%; width: 100%;">smiley360.com—Be Heard. Be Happy.</a></h1>
+  <div id="divSML">
+    <p><a href="https://twitter.com/Smiley360" target="_blank"><img src="images/followTwitter.jpg" height="26" width="57" alt="Follow us on twitter" style="margin-bottom: 3px;"></a></p>
+    <p><iframe src="//www.facebook.com/plugins/like.php?href=http://www.facebook.com/Smiley360&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowtransparency="true"></iframe></p>
+  </div>
+  
+    <div id="divLogin">
+      
+      <form action="/privacy.cfm?ref=privacy.cfm&amp;" id="formLogin" method="post">
+      
+        <p id="pUser">
+          <label for="username">smiley360.com username</label>
+          <input id="username" name="username" type="text" tabindex="1"><br>
+          <input type="checkbox" name="remember_me" value="1" tabindex="3"> Remember Me
+        </p>
+        
+        <p id="pPass">
+          <label for="password">Password</label>
+          <input id="password" name="password" type="password" tabindex="2"><br>
+          <a href="#" id="forgot-password" onclick="ShowLightBoxPW('dialog-boxPW', false, 'recoverPassword'); return false;">Forgot your password?</a>
+        </p>
+        
+        
+        <input name="login" value="login" type="hidden">
+        <p id="pLogin">
+          <input type="image" src="images/buttonLogin.jpg" id="loginBtn" name="loginBtn">
+        </p>
+        <!-- Facebook Connect Login Button -->
+        <p id="fLogin">
+          <fb:login-button v="2" data-scope="publish_stream,email,offline_access" onlogin="doneFB()"><fb:intl>Connect with Facebook</fb:intl></fb:login-button> 
+        </p>
+        <!-- END Facebook Connect Login Button -->
+      </form>
+    </div>
+    <div id="recoverPassword" style="display:none;">
+      <h4 style="text-align: center; margin: 15px 0; font-size: 21px; color: #0054a5;">Recover
+        Password</h4>
+      <form class="formProfile" id="forgotPassword">
+        <div>
+          <label style="width: 150px; margin-top: 7px;">Enter your email:</label>
+          <input type="text" class="required email" id="m_email" name="m_email">
+          <div style="clear: both; height: 1px;">&nbsp;</div>
+        </div>
+        <p class="passError" style="display: none;"></p>
+        <p style="text-align: center; clear: both; margin-top: 15px; padding: 0;">
+          <input type="button" style="float: none !important;" value="Get Password" class="submitButton" onclick="getPassword()">
+        </p>
+      </form>
+    </div>
+    <!-- FB CONNECT SPECIFIC CODE USED FOR PROCESSING LOGINS-->
+	 <div id="fb-root"></div>
+      <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            appId      : '125617113558',
+            status     : true, 
+            cookie     : true,
+            xfbml      : true,
+            oauth      : true,
+          });
+        };
+        (function(d){
+           var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+           js = d.createElement('script'); js.id = id; js.async = true;
+           js.src = "//connect.facebook.net/en_US/all.js";
+           d.getElementsByTagName('head')[0].appendChild(js);
+         }(document));
+      </script>
+    <script>
+		function requestFBPerms(){
+		
+			var myPermissions = "publish_stream,email,offline_access"; 
+			facebook_prompt_permission(myPermissions,doneFB);
+		}
+		function doneFB(result){
+			window.location="fbxfer.php?a=auth";
+		}
+	</script>    
+    <!-- END FB CONNECT SPECIFIC CODE -->
+    <div id="fadePW" class="LB-black-overlay" onclick="if (!is_modal) HideLightBoxPW(); return false;"></div>
+    <div id="dialog-boxPW" class="LB-white-content" style="background-color: transparent; border: 0 !important; width: 500px !important; height: 280px !important; top: 50% !important; left: 50% !important; margin-top: -140px !important; margin-left: -250px !important; margin-right: 0 !important;">
+      <div style="height: 22px; width: 500px; background: url(images/lightbox-top.png) no-repeat top left;"></div>
+      <div style=" background: url(images/lightbox-mid.png) repeat-y top left; padding: 0 20px;">
+        <div style="background-color: #fff; padding: 10px; width: 440px;">
+          <p style="text-align: right; padding-right: 10px; margin: 0;"><a href="##" onclick="HideLightBoxPW(); return false;">Close</a></p>
+          <div id="dialogContentPW" style="height: 200px;">
+            <p>&nbsp;</p>
+            <input id="xx" value="123">
+          </div>
+        </div>
+      </div>
+      <div style="height: 22px; width: 500px; background: url(images/lightbox-bottom.png) no-repeat top left;"></div>
+    </div>
+    <div id="passwordConfirmation" style="display: none;">
+      <!-- Email found -->
+      <p>A password reminder was sent to your email address.</p>
+      <!-- Email nit found -->
+      <p>The email address you provided was not found in our member list. Please
+        check your entry and try again, or <a href="http://smiley360.com/contactUs.cfm">contact us</a> if
+        you need help.</p>
+      <p><img src="images/closeButton.jpg" height="29" width="82" alt="Close" onclick="HideLightBoxPW(); $('#divLogin').toggle(); return false;" style="cursor: pointer;"></p>
+    </div>
+    
+    
+    <ul id="ulTopNav">
+    	
+		<li id="liTopNav01"><a href="http://smiley360.com/whySmilely.cfm">Why smiley360.com?</a></li>
+		<li id="liTopNav02"><a href="https://smiley360.com/signup.cfm">Become a smiley360.com? Member</a></li>
+		<li id="liTopNav03"><a href="http://smiley360.com/hotbrands.php">Smiley360 Connect</a></li>
+		<li id="liTopNav05"><a href="http://smiley360.com/faq.cfm">FAQ</a></li>
+		
+		
+    </ul>
+    
+  <!--[if !IE]>Close divLogin<![endif]-->
+</div>
+
+    <!--[if !IE]>Close divHeader<![endif]-->
+    
+    <div id="divMain">
+      <!--[if !IE]> *********   B E G I N    C O N T E N T   M A N A G E D   S E C T I O N   *********<![endif]-->
+      <div id="divLevel2Wide" class="clearfix">
+        <h1 class="h1L2Headline">Privacy</h1>
+        
+        <div id="divL2MainWide" class="clearfix">
+          
+          <h2 style="margin-top:12px; font-size: 19px; color: #0081C7;">smiley360.com Privacy Policy</h2>
+<p>smiley360.com ("we" or "us") recognizes the importance of respecting
+  the privacy of those who visit this web site. Our web site makes it easy to
+  share information with your friends and people around you. This Privacy Policy
+  describes how we collect and use your information and gives you choices as
+  to how we use it. We suggest that you review this Privacy Policy periodically
+  as we may update it from time to time. This Privacy Policy was last revised
+  on November 12, 2009.</p>
+<h3>Privacy &amp; Public Profile</h3>
+<p>At present, a PUBLIC PROFILE page exists, but is reserved for future use.
+  smiley360.com does not allow you to share any profile information except your USERNAME
+  at the smiley360.com web site. You choose what information you put in your public
+  profile, and it is not required to use the web site.</p>
+<h3>Safe Use of smiley360.com</h3>
+<p>smiley360.com wants to provide a site where people can interact safely with their
+  friends and the people around them. To that end, smiley360.com has safety and privacy
+  controls to ensure that users share information only with those they wish to. <br>
+  We do not knowingly collect or solicit personal information from anyone under
+  the age of 13 or knowingly allow such persons to register. If you are under
+  13, please do not attempt to register for smiley360.com or send any information
+  about yourself to us, including your name, address, telephone number, or email
+  address. No one under age 13 may provide any personal information to or on
+  smiley360.com. In the event that we learn that we have collected personal information
+  from a child under age 13 without verification of parental consent, we will
+  delete that information as quickly as possible. If you believe that we might
+  have any information from or about a child under 13, please contact us at <a href="mailto:member.support@smiley360.com">member.support@smiley360.com</a><br>
+  In addition, parents of children 13 years and older should consider whether
+  their child should be supervised during the child's use of our site. We recommend
+  that minors 13 years of age or older ask their parents for permission before
+  sending any information about themselves to anyone over the Internet.<br>
+  Despite our best efforts to ensure a safe site, we cannot guarantee that the
+  site is entirely free of illegal, offensive, pornographic or otherwise inappropriate
+  material, or that its members will not encounter inappropriate or illegal conduct
+  from other members. Consequently, you may encounter such content and conduct.
+  You can help us by notifying us of any nudity, pornography, harassment or unwelcome
+  contact by clicking on the "Report" link located on pages throughout
+  the site. We will use our best efforts to review reports made through this
+  site reporting tool within 24 hours and remove any content that is deemed to
+  have violated the Terms of Service. If warranted we will also disable the access
+  of the user responsible for posting the abusive content. Where complaints about
+  nudity, pornography, harassment or unwelcome contact are made by independent
+  email to <a href="mailto:member.support@smiley360.com">member.support@smiley360.com</a> , we will acknowledge
+  receipt of the complaint and begin to address it within 24 hours. We will respond
+  to the reporter within 72 hours of receiving the email complaint to inform
+  them of the steps we have taken to address it.<br>
+  <a href="mailto:member.support@smiley360.com">Click here</a> to contact us regarding our handling
+  procedures. Please note that if you have not previously made a complaint to
+  us you should not use this link. We are solely responsible for complaint handling,
+  and you should address all complaints or reports of abuse directly to us using
+  the procedures described on this page.</p>
+<h3>What do we collect</h3>
+<p>Every time you visit our Web site, our Web server automatically collects the
+  following non-personally identifiable information: your Internet service provider's
+  address, the referring URL and, information on the pages you access on our
+  site.<br>
+  We also collect personally identifiable information that you provide, such
+  as information you provide when you register on our site, for example, your
+  name, your email address, your telephone number, your address, your gender,
+  schools attended and any other personal or preference information that you
+  provide to us.<br>
+  When you use our site, you may set up your personal profile, form relationships,
+  send messages, perform searches and queries, form groups, set up events, add
+  applications, and transmit information through various channels. We collect
+  this information so that we can provide you the service and offer personalized
+  features. In most cases, we retain it so that, for instance, you can return
+  to view prior messages you have sent or easily see your friend list. When you
+  update information, we usually keep a backup copy of the prior version for
+  a reasonable period of time to enable reversion to the prior version of that
+  information.<br>
+  We may also collect information about you from other sources, such as newspapers,
+  blogs, instant messaging services, and other users of our service through the
+  operation of the service in order to provide you with more useful information
+  and a more personalized experience.<br>
+  By using the smiley360.com web site, you are consenting to have your personal data
+  transferred to and processed in the United States.</p>
+<h3>What Are Cookies</h3>
+<p>Most Internet sites, including ours, collect data about visitors through the
+  use of "cookies". Cookies are small software programs that help sites
+  recognize repeat visitors by assigning a random number to each desktop for
+  tracking content preferences and traffic patterns. Cookies may be used to  "connect" your
+  computer to information stored in a separate location. At the smiley360.com web
+  site, we use cookies to connect your computer with the information we store
+  for you in our database. Some examples of this information include items added
+  to your shopping cart and user specific information on pages accessed and previous
+  visits to our site. Your information is stored in a safe and secure database.
+  Through cookies we may also: alert you to new products that we think might
+  be of interest to you when you return to our site; record past activity at
+  our site in order to provide you better service when you return to our site;
+  or, customize Web page content based on your browser type or other information
+  that you send us.<br>
+  We do not use cookies to store any of your personal or financial information
+  on your computer. <br>
+  To learn more about how to set your browser to accept cookies, <a href="JavaScript:newwindow('cookie_popup.asp')">Click
+  here</a>. </p>
+<p><strong>How Do We Use Your Information?</strong><br>
+  When you register with smiley360.com, you create your own profile and privacy settings.
+    Your profile information, as well as your name, email and photo, are displayed
+    to people in the networks specified in your privacy settings to enable you
+    to connect with people on smiley360.com. Profile information is used by smiley360.com
+    primarily to be presented back to and edited by you when you access the service
+    and to be presented to others permitted to view that information by your
+    privacy settings. In some cases where your privacy settings permit it, other
+    smiley360.com users may be able to supplement your profile.<br>
+  Profile information you submit to smiley360.com will be available to users of smiley360.com
+  who belong to at least one of the networks you allow to access the information
+  through your privacy settings (e.g., school, geography, friends of friends).
+  Your name, network names, and profile picture thumbnail will be available in
+  search results across the smiley360.com network and those limited pieces of information
+  may be made available to third party search engines. This is primarily so your
+  friends can find you and send a friend request. People who see your name in
+  searches, however, will not be able to access your profile information unless
+  they have a relationship to you (friend, friend of friend, member of your networks,
+  etc.) that allows such access based on your privacy settings.<br>
+  We may use information about you that we collect from other sources, including
+  but not limited to newspapers and Internet sources such as blogs and instant
+  messaging services, to supplement your profile. Where such information is used,
+  we will allow you to specify in your privacy settings that you do not want
+  this to be done or to take other actions that limit the connection of this
+  information to your profile.<br>
+  We may use information in your profile without identifying you as an individual
+  to third parties. We do this for purposes such as aggregating how many people
+  in a network like certain products and personalizing advertisements and promotions. <br>
+  Additionally, the information we collect is used: </p>
+<ul style="list-style:disc;">
+  <li>to generally improve the content and layout of our Web site </li>
+  <li>to improve the content and layout of our Web site for individual visitors </li>
+  <li>to notify you about updates to our Web site </li>
+  <li>to contact you for marketing purposes </li>
+  <li>for internal review </li>
+</ul>
+<p>When you supply us with personal information, and indicate your consent to
+  receive promotional information, the information you provide will be added
+  to our customer file. You may receive periodic mailings from us. If you do
+  not want to receive such mailings from us, then please email us for information
+  on where to contact us to remove yourself from our contact list.<br>
+  We may send you e-mail with information on new products. If you do not wish
+  to receive such e-mail in the future, please email us for information on where
+  to contact us to remove yourself from our e-mail list. We reserve the right
+  to send you notices about your account even if you opt out of all voluntary
+  email notifications.<br>
+  We may also send you service-related announcements from time to time through
+  the general operation of the service. For instance, if someone in your network
+  sends you a new message you may receive an email alerting you to that fact.</p>
+<h2>Sharing Your Information with Third Parties</h2>
+<p>Our site and your privacy settings allow you to make informed choices about
+  who has access to your information. We do not provide contact information to
+  third party marketers without your permission. We share your information with
+  third parties only in limited circumstances where we believe such sharing is
+  1) reasonably necessary to offer the service, 2) legally required or, 3) permitted
+  by you. <br>
+  In the event that there is a change in control of smiley360.com or, if all, or substantially
+  all, of the assets of smiley360.com are sold to a third party, we may transfer the
+  information on our customer file to the third party. This information may include
+  your name, mailing address and email address among other information. Please
+  know that if such a transfer takes place, the third party acquiring the information
+  will be advised of your preferences about how we use your information. After
+  the transfer takes place, use of your information is subject to the Privacy
+  Policy of the third party that acquires it. The acquiring company may continue
+  to operate the smiley360.com website, if so, you should check this Privacy Policy
+  periodically to determine how the acquiring entity will use your information. <br>
+  We may share information with governmental agencies or other companies assisting
+  us in fraud prevention or investigation. We may do so when: (1) permitted or
+  required by law; or, (2) trying to protect against or prevent actual or potential
+  fraud or unauthorized transactions; or, (3) investigating fraud which has already
+  taken place. The information is not provided to these companies for marketing
+  purposes. <br>
+  When you use our site, certain information you post or share with third parties
+  (e.g., a friend or someone in your network), such as personal information,
+  comments, messages, photos, videos, listings or other information, may be shared
+  with other users in accordance with the privacy settings you select. All such
+  sharing of information is done at your own risk. Please keep in mind that if
+  you disclose personal information in your profile or when posting comments,
+  messages, photos, videos, listings or other items, this information may become
+  publicly available.</p>
+<h2>Links</h2>
+<p>Our site may contain links to other websites. We are of course not responsible
+  for the privacy practices of other web sites. We encourage our users to be
+  aware when they leave our site to read the privacy statements of each and every
+  web site that collects personally identifiable information. This Privacy Policy
+  applies solely to information collected by smiley360.com.</p>
+<h2>Third Party Advertising</h2>
+<p>Third parties advertise on our site. They automatically receive your IP address
+  when this happens. These third party advertisers may also download cookies
+  to your computer, or use other technologies such as JavaScript and "web
+  beacons" (also known as "1x1 gifs") to measure the effectiveness
+  of their ads and to personalize advertising content. Doing this allows the
+  advertising network to recognize your computer each time they send you an advertisement
+  in order to measure the effectiveness of their ads and to personalize advertising
+  content. In this way, they may compile information about where individuals
+  using your computer or browser saw their advertisements and determine which
+  advertisements are clicked. smiley360.com does not have access to or control of
+  the cookies that may be placed by the third party advertisers. Third party
+  advertisers have no access to your contact information stored on smiley360.com unless
+  you choose to share it with them.<br>
+  This privacy policy covers the use of cookies by smiley360.com iand does not cover
+  the use of cookies or other tracking technologies by any of its advertisers.</p>
+<p><strong>How can you update your information? </strong><br>
+  We will provide you access to the following information:</p>
+<ul>
+  <li>financial information (such as credit card account information) </li>
+  <li>unique identifier information (customer number or password) </li>
+  <li>transaction information (dates on which you made purchases, amounts and
+    types of purchases) </li>
+  <li>contact information (name, address, phone number) </li>
+</ul>
+<p>We will evaluate each request and reply in an appropriate manner and form
+  of communication that ensures the security of the information you have requested.</p>
+<p><strong>How do you know your information is secure? </strong><br>
+  When you see either a solid key icon or a locked padlock icon at the lower
+    portion of your browser window, then your site is secured through Secure
+    Sockets Layer. We use industry-standard encryption technologies when transferring
+    and receiving your information on our site. If you do not see one of these
+    icons, please contact your Internet service provider. When we transfer and
+    receive certain types of sensitive information such as financial information,
+    we will redirect you to a secure server and notify you through a pop-up screen
+    on our site. <br>
+  We have appropriate security measures in place in our facilities to protect
+  against the loss, misuse or alteration of information that we have collected
+  from you at our site so you can feel comfortable and secure. </p>
+<p>Please note that e-mail is not encrypted and is not considered a secure means
+  of transmitting credit card numbers. </p>
+<p><strong>Changes to this Privacy Policy Statement</strong><br>
+  From time to time, we may use the information you provide us for new, unanticipated
+    uses not previously addressed in our Privacy Policy. If our information practices
+    change at some time in the future we will post the policy changes on the
+    privacy page of our Web site to notify you of these changes. You should check
+    our Web site periodically for more information on how we use the data we
+    collect.<br>
+  If there is a material change in the manner we use data we collect, we will
+  update this Privacy Policy to reflect these changes. </p>
+<p><strong>Conflict In Terms</strong><br>
+  It is our goal to make our privacy practices easy to understand. We have created
+    this easy-to-read Privacy Policy with that goal in mind. Some browsers utilize
+    privacy enhancing technology to translate our Privacy Policy into a computer
+    readable format and then translate it back into human readable format for
+    you to read. This translation back into human readable format is often referred
+    to as a "Policy Summary". To the extent that this Policy Summary
+    is inconsistent with, fails to address or addresses an issue not raised in,
+    our Privacy Policy, you should rely on our Privacy Policy as it is the controlling
+    authority.</p>
+<p><strong>Contact Us</strong><br>
+  To contact us for any reason, including a request to be added or taken off
+    a list, or if you have any concerns or questions, please Click here. Please
+    note: When you contact us, provide your name and address exactly as it appears
+    on correspondence you have received from us. <br>
+  <a href="mailto:member.support@smiley360.com">Email us </a> to change your e-mail address
+  or to unsubscribe from smiley360.com e-mail.<br>
+  If you feel that this site is not following its stated information privacy
+  policy, you may contact us at the above address(es) or phone number or email
+  address.</p>
+<br style="clear: both;">
+<p><strong>Governing Law</strong></p>
+<p>This privacy policy is governed by the laws of the State of New Jersey, without
+  regard to its choice of law rule and without regard to the location of any
+  user. Any dispute arising in connection with this policy must be filed in the
+  state or federal courts located in New Jersey. </p>
+<p><strong>Change in Policy</strong></p>
+<p>We reserve the right to revise, amend, change or update this privacy policy.
+  For significant changes to this policy, we will notify you either by placing
+  a prominent notice on the home page of our site or by sending you a notification.
+  We encourage you to review this policy periodically to stay informed about
+  our use of the information we collect. We will indicate near the top of this
+  page the date this policy was last revised. Your continued use of the site
+  after we have revised this policy constitutes your agreement to the revised
+  version. </p>
+
+        </div>
+        <!--[if !IE]>Close divL2Main<![endif]-->
+        <div id="divL2BottomWide"></div>
+      </div><!--[if !IE]>Close divLevel2<![endif]-->
+     
+      <!--[if !IE]> *******   E N D   O F    C O N T E N T   M A N A G E D   S E C T I O N   *******<![endif]-->
+  <div id="divFooter" class="clearfix">
+<ul id="ulBottomButtons">
+  <li><a href="http://smiley360.com/"><img src="images/icon-01.jpg" height="30" width="31" alt="smiley360.com" border="0"></a></li>
+  <li><a href="http://www.facebook.com"><img src="images/icon-02.jpg" height="30" width="30" alt="Facebook" border="0"></a></li>
+  <li><a href="http://www.myspace.com"><img src="images/icon-03.jpg" height="30" width="30" alt="MySpace" border="0"></a></li>
+  <li><a href="http://www.youtube.com"><img src="images/icon-04.jpg" height="30" width="30" alt="YouTube" border="0"></a></li>
+  <li><a href="http://www.stumbleupon.com"><img src="images/icon-05.jpg" height="30" width="30" alt="StumbleUpon" border="0"></a></li>
+  <li><a href="http://www.delicious.com"><img src="images/icon-06.jpg" height="30" width="30" alt="del.icio.us" border="0"></a></li>
+  <li><a href="http://digg.com"><img src="images/icon-07.jpg" height="30" width="30" alt="Digg" border="0"></a></li>
+  <li><img src="images/icon-08.jpg" height="30" width="30" alt="RSS feeds" border="0"></li>
+  <li><a href="http://friendfeed.com"><img src="images/icon-09.jpg" height="30" width="30" alt="FriendFeed" border="0"></a></li>
+  <li><a href="http://www.friendster.com"><img src="images/icon-10.jpg" height="30" width="30" alt="Friendster" border="0"></a></li>
+  <li><a href="http://www.diigo.com"><img src="images/icon-11.jpg" height="30" width="30" alt="diigo.com" border="0"></a></li>
+  <li><a href="http://www.google.com"><img src="images/icon-12.jpg" height="30" width="30" alt="Google" border="0"></a></li>
+  <li><a href="http://www.last.fm"><img src="images/icon-13.jpg" height="30" width="30" alt="last.fm" border="0"></a></li>
+  <li><a href="http://www.linkedin.com"><img src="images/icon-14.jpg" height="30" width="30" alt="LinkedIn" border="0"></a></li>
+  <li><a href="http://www.livejournal.com"><img src="images/icon-15.jpg" height="30" width="30" alt="Live Journal" border="0"></a></li>
+  <li><a href="http://netvibes.com"><img src="images/icon-16.jpg" height="30" width="30" alt="NetVibes" border="0"></a></li>
+  <li><a href="http://technorati.com"><img src="images/icon-17.jpg" height="30" width="30" alt="Technorati" border="0"></a></li>
+  <li><a href="http://www.bebo.com"><img src="images/icon-18.jpg" height="30" width="30" alt="BeBo" border="0"></a></li>
+  <li><a href="http://vimeo.com"><img src="images/icon-19.jpg" height="30" width="30" alt="Vimeo" border="0"></a></li>
+  <li><a href="http://wordpress.com"><img src="images/icon-20.jpg" height="30" width="30" alt="WordPress" border="0"></a></li>
+  <li><a href="http://www.mixx.com"><img src="images/icon-21.jpg" height="30" width="30" alt="Mixx" border="0"></a></li>
+  <li><a href="http://www.blogger.com"><img src="images/icon-22.jpg" height="30" width="30" alt="Blogger.com" border="0"></a></li>
+  <li><a href="http://www.reddit.com"><img src="images/icon-23.jpg" height="30" width="30" alt="Reddit" border="0"></a></li>
+  <li><a href="http://www.yahoo.com"><img src="images/icon-24.jpg" height="30" width="30" alt="Yahoo" border="0"></a></li>
+  <li><a href="http://www.yelp.com"><img src="images/icon-25.jpg" height="30" width="30" alt="Yelp" border="0"></a></li>
+</ul>
+<h6 id="h6SML"><a href="http://www.socialmedia-link.com" target="_blank">sml—social media link</a></h6>
+<div id="divFooterBottom">
+  <ul id="ulBottomNav">
+    
+	
+    <li><a href="http://smiley360.com/contactUs.cfm">Contact Us</a></li>
+    <li><a href="http://smiley360.com/privacy.cfm">Privacy</a></li>
+    <li><a href="http://smiley360.com/terms.cfm">Terms</a></li>
+	
+  </ul>
+  <p>SML · 263 West 38th Street, 8th Floor · New York, NY 10018 · <a href="mailto:member.support@smiley360.com" style="color: #3D7EBE;">member.support@smiley360.com</a></p>
+</div><!--[if !IE]>Close divFooterBottom<![endif]-->    
+</div>
+
+        </div><!--[if !IE]>Close divFooterBottom<![endif]-->    
+      </div><!--[if !IE]>Close divFooter<![endif]-->
+    <!--[if !IE]>Close divMain<![endif]-->
+  <!--[if !IE]>Close divWrapper<![endif]-->
+
+
+</body></html>
