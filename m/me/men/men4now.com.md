@@ -1,97 +1,69 @@
-> *The following text is extracted and transformed from the men4now.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616082657id_/http%3A//men4now.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the men4now.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217204151id_/http%3A//men4now.com/Privacy.php) for the most accurate reproduction.*
 
 # Men4Now.com - Gay Sex Personals, Dating & Chat for Gay Men into Sex
 
-Men4Now.com, a division of Full Throttle Limite UK is firmly committed to ensuring your privacy. The following discloses our information gathering and dissemination practices for this website. 
+---  
+Privacy Policy  
+  
+for Solstice Group, Inc. d/b/a www.Men4Now.com  
+  
+Effective Date: July 23, 2012  
+  
+Last Modified: July 23, 2012  
+  
+  1. **General**
+    1. The operative parties referred to in this policy are Company and You, the User of this site.
+      1. Solstice Group, Inc. is the publisher and operator of the website(s) listed at the beginning of this Policy. Hereinafter, Solstice Group, Inc, shall be referred to as .Company.. When first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to Company. Additionally, when the terms .the Site. or .Site. are used, these terms refer to the website(s) listed at the beginning of this Policy. 
+      2. You, the User . As the User of this Site, this Policy will refer to the User as .You. or through any applicable second-person pronouns, such as .Yours,. etc. Hereinafter, the User of the Site shall be referred to in applicable second-person pronouns.
+    2. This Privacy Policy describes how we use information received about You when You visit Our Site or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the Site. 
+  2. **Revisions to this Policy**
 
-The protection of your privacy is very important to us. We have adopted and we are committed to the following practices to safeguard the confidentiality of your personal information. We will notify all registered users via email of any material change to this privacy policy. From time to time, changes to this privacy policy will also be communicated on the Privacy Policy page of this site, for instance for minor changes not affecting your personal information. 
+We reserve the right to revise, amend, or modify this Policy and Our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the .refresh. button on Your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the .last modified. date remains unchanged after You have clicked the .refresh. button on Your browser, You may presume that no changes have been made since the last reading of the Policy. A changed .last modified. date indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting.
 
-##### What information we gather automatically from visitors.
+  3.  **Personal Information that We Collect**
 
-We use your IP address (the series of numbers associated with your individual computer) and access times to help us maintain our site and identify problems with our server. Your IP address is not tied to personally identifiable information or personally revealing information while on our site 
+Visitors to Our Site and services will have multiple manners of interactivity with Us. Depending upon Your level of interaction, We will collect different information about You. The User designations below apply to this Policy only, and the type of information collected is as follows:
 
-We do use cookies to identify traffic that comes through advertising and to facilitate a more user friendly experience. Cookies are small pieces of information that a web site places on your computer's hard drive so we know it's you when you (login name only) visit. This helps us to create a personalized experience for you when you visit our site. The use of cookies is a very common practice on the Internet. If you are uncomfortable with this, you can disable all cookies through your browser settings. Your enjoyment of our site won't be affected if you have set your browser to reject cookies. 
+    1. Browsers - Browsers are visitors to the Site who never enter into any active data collection pages. Browsers may, however, have limited access to content uploaded by Members. Any information gathered from Browsers is also gathered from Members. This information is restricted to IP address, browser information, and other session data. 
+    2. Members - Members are those Users who interact with Our services in a way which requires registration. Members are required to provide a valid e-mail address, username, geographic location, and various physical descriptions and/or preferences.
+  4. **How We Collect Information from You**
+    1. Passive Collection. We use cookies to collect information about You in order to enhance Your experience on the Site. The information collected includes, but is not limited to, Your User IP address, browser information, and other session data. 
+    2. Active Collection. We collect information from You when You complete the registration form to sign up for Your membership on Our Site or upon actively opting-in to participate in a specific Site feature, this information will be used to generate an automatic Member account. Providing any additional information for Your Member account is optional. Locations for data collection are registration or personal account pages, but We reserve the right to add additional information collection portals. 
+  5. **How We Use Your Information**
+    1. The primary use for Your information is to provide You with services You have requested. We also use Your information to deliver customized services to You. Non-personal and aggregate information, such as that collected passively is used in order to customize Our marketing efforts or to customize the use of Our Site for an aggregate group of customers. We also use Your information for market research purposes in order to increase Your (and other Users.) experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes. All such information is not shared with any third parties, without Your consent, unless required by operation of law. 
+    2. When You provide certain optional account information, or enable Site features that require specific opt-in agreement, You should consider all such information to be public, and accessible by anyone unless otherwise stated. For example, should You choose to enable Our Site.s global positioning services, You understand that Your information may be made public via Our Site and its Services. 
+    3. You are aware that even if You choose not to make public any personally identifying information via Your account or specific Site features, You should understand that there is a possibility that You may still be identified through the information You provided. You understand that using this Site places You in control of all of the public information related to your membership, and You are fully responsible for any consequences arising out of such information You choose to publish or make known via Our Site and Services.
+  6. **Special Cases.**
 
-##### What information we will ask you for.
+It is Our policy not to use or share the personal information about Browsers or Members in ways unrelated to those described in this Policy without also providing You an opportunity to opt out or otherwise prohibit such unrelated uses. However, We may disclose personal information, or information regarding Your use of the services or Site(s) accessible through Our services, for any reason if, in Our sole discretion, We believe that it is reasonable to do so, including:
 
-When you register to use any Men4Now.com service you will be asked for some general identifying information which will enable us to provide you with this individualized service. We gather contact information (like your email address), demographic information (like your age, city, etc.) and information about your physical characteristics and sexual preferences (like your body type, the scenes you're into, etc.). If you choose to upgrade to a pay membership, you will also be required to provide your mailing address. We will never share, rent or sell any contact information or information regarding your physical characteristics or sexual preferences to anyone without your prior consent. 
+    1. To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, governmental, or legal requests for such information;
+    2. To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms & Conditions or other User policies;
+    3. To operate Our services properly;
+    4. To protect ourselves, Our Members, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if We are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process. 
+    5. We may cooperate with law enforcement authorities seeking information about Our end users to the extent required by applicable law. We may cooperate with private party litigants, governmental administrative or regulatory agencies if We are legally advised to do so. Examples of such cooperation include but are not limited to, lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process. 
+    6. Anyone who violates Our Anti-Spam Policy may have their personal information made public. If there is any investigation on any unlawful spamming, or any use of bulk e-mail in order to promote Your User account, or any use of bulk e-mail in any manner that leads back to Our Site, or any one of Our Sites, We will cooperate with any and all parties completely and freely in order to see that Your bulk e-mail activities stop.
+  7. **Transmittals from Us**
+    1. We may send You periodic announcements or notifications from us via email and/or SMS messaging. Such communications may include updates regarding your account, communications from other Users, and details of Our existing and new programs. You may opt out of these announcements by contacting privacy@men4now.com, or by clicking the opt-out link at the bottom of these emails. If You opt out of these marketing emails, You may still receive system notices and other information that is specifically related to administrative maintenance of Your account. 
+    2. If You provide Your information to Us, use the Site, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law.
+  8. **Public Areas.**
 
-We may share some demographic information for our own research purposes with our professional advisors or consultants, however the information shared will be limited to non-personally identifying information shared under cover of a confidentiality agreement. 
+Any information provided in a forum, instant message, commentary area, profile, or other related service should be considered to be public information. We do not, cannot, and will not act to maintain the privacy of any information that You provide in any such forum or medium.
 
-During the sign-up process, you will create your user identity, which will include a username, personal profile, ad copy and photo. You will be asked for some personal, but non-identifying, information to complete your personal profile (i.e. height, body type, race, scenes you're into etc). This information is not linked in any way to personally identifiable information such that other members are able to see. 
+  9.  **Our Commitment to Data Security.**
 
-We no not link the information we store in cookies to any personally indentifiable information you submit while on our site. 
+We take measures to protect the transmission of all sensitive user information. We make every effort to ensure the integrity and security of Our network and systems by storing Your User information on a secured database. Nevertheless, We cannot guarantee that Our security measures will prevent third-party .hackers. from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals, We are unable to guarantee that Our security is one hundred percent (100%) breach-proof. You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures. 
 
-##### How this information will be used and who has access to it. 
+  10. **How to Access or Modify Your Information.**
 
-The specific information we collect is not shared with other organizations and we will never release or share any personally identifiable information to an external organization without your prior consent or unless required to do so by operation of law. 
+We may offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, please refer to Your account settings page.
 
-Your non-personally identifying demographic, physical characteristic and sexual preference information is used to personalize your experience, allow other members to find you through a search, and to compose your personal profile -- which is associated with the user identity you have created. Only members that you grant access will be able to view your non-personally identifying demographic, physical characteristic and sexual preference information (with the exception of your age and where you prefer to meet). You grant another members access to this private (but not personally identifiable) information by: 1) responding to that member's ad, or 2) adding that member to your hottie list. Your contact information will not be disclosed by us in these instances. Users take the initiative if they feel it is appropriate to share their personal information. Correspondence through answering ads and the like is done through anonymous re-mailer. Your personal email is not disclosed through this process. 
+  11.  **Where to Direct Questions About Our Privacy Policy.**
 
-We may use your contact information to send you valuable information and notices of promotions or special events in your area . this information will only be sent to you if you have opted-in to receive such information. Our site provides you with the opportunity to opt-in to receiving different types of communications from us (including a weekly eNewsletter) during the registration process. Your contact information is never available to other members or organizations. 
+If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [privacy@men4now.com](mailto:privacy@men4now.com).
 
-It is our policy to respect the privacy of others; however, we will disclose information about you if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to: (i) comply with the legal process; (ii) enforce this Agreement; (iii) respond to claims that any information or materials transmitted to our web site violates the rights of third-parties; or (iv) to protect the rights, property or personal safety of you, Company, its Content Providers, others, and the public. 
 
-Notwithstanding anything else in this Privacy Policy statement, you may be required to disclose personally identifiable information to an independent, third-party entity or service in order to verify your age and eligibility requirements before using the services on this site or becoming a member or user. 
-
-##### Can I change the information I have already given you? 
-
-You can always verify, change or request the removal of any person information we have collected and change your registration information by selecting the "My Account tab. You may also request changes to your information by emailing us at: questions@men4now.com. 
-
-##### Surveys and Contests
-
-From time-to-time our site requests information from users via surveys and contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include additional contact information. Contact information will be used to notify winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
-
-##### Special Offers
-
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on new features, services, special deals, and a newsletter if they have opted to receive such communication at registration. Users may always later opt-out of receiving these communications by replying to the unsubcribe link contained at the bottom of each email message. 
-
-##### Do you monitor online behavior? 
-
-Our members communicate with each other through chat / instant messages and on-site mail. While we do not, as a rule, moderate or monitor member's private exchanges, we reserve the right to do so if we suspect users of being under 18 or of using our service for the purpose of solicitation or any other violation of our service agreement. Member submissions that appear on the public area of the site are strictly moderated and, if necessary, we reserve the right to edit, delete or not use any communication on a public area of the site or delete such users profile. 
-
-If you use a bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
-
-##### Advertisers 
-
-When you inquire about advertising opportunities on our site, you will be asked for contact information and information related to your advertising objectives. This information will be used to provide you with the business information you are seeking. Your information is only shared with internal staff and the external ad representation agencies that sell media space on the site, on our behalf. These agencies are not allowed to use your business contact information for secondary purposes. 
-
-##### Contact Form 
-
-When you use the Contact Us form on our site, you will be asked for contact information and the subject of your inquiry. This information will be used to provide you with a response to the request you are seeking. Your information is only shared with our internal staff. 
-
-##### Links
-
-Men4Now.com may contain links to other sites not affiliated with Men4Now.com. Please note that these other sites may have privacy policies that differ from those of Men4Now.com. We have no control over any personal information that you provide to these sites. 
-
-##### Affiliates
-
-When you register to become an Affiliate of our site, you will be asked for contact information and information related to your site. Your information will only be used by internal staff and will never be shared with anyone external to the company without your consent, unless required to by operation of law. Your information will be used to secure your approval as an Affiliate, to facilitate communication between our two sites and to send you payment, based on your site's performance. 
-
-##### Agents
-
-We use outside credit card processing companies, including CCBill.com and Paycom.net, to bill you for services. These companies will collect and store personally identifiable information about you. Information will not be shared with other third parties. 
-
-##### Service Providers
-
-We may use other third parties to provide you with services on our site. 
-
-All third parties are prohibited from using your personally identifiable information for any other purpose other than that expressely indicated. 
-
-##### Choice/Opt-Out
-
-Users who no longer wish to receive our newsletter or other promotional materials from our site may opt-out of receiving these communications by replying to unsubcribe link found at the bottom of the email. 
-
-##### Security
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.If you have any questions about security on our Web site, you can send email us at questions@men4now.com. 
-
-##### Changes in this Privacy Policy
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
-
-##### Contacting us for privacy issues ONLY.
-
-Please email us at: questions@men4now.com 
-
-Postal Address: F Throttle Ltd. DBA Full Throttle UK Ltd. 20-22 Bedford Road London, WC1R 4JSp>Privacy policy last updated: January 13th, 2011 
+  
+   
+  
+Copyright 2001 - 2012 F Throttle Ltd. DBA Full Throttle UK Ltd. 20-22 Bedford Road, London WC1R 4JS, United Kingdom
