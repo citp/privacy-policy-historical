@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the britishgas.co.uk privacy policy that was archived on 2012-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531135219id_/http%3A//www.britishgas.co.uk/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the britishgas.co.uk privacy policy that was archived on 2012-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121217061926id_/http%3A//www.britishgas.co.uk/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--[if lt IE 7 ]> <html class="no-js ie6"> <![endif]--><!--[if IE 7 ]>    <html class="no-js ie7"> <![endif]--><!--[if IE 8 ]>    <html class="no-js ie8"> <![endif]--><!--[if (gte IE 9)|!(IE)]><!--><!--<![endif]--><head>
  
@@ -90,12 +90,14 @@ function overWriteCookie(newEmail) {
 
 
  
+
+
+
 <body>
 <div id="main-cont">
 
-<script type="text/javascript">
-    var tempJq = jQuery;
-</script>
+
+<script type="text/javascript"> var tempJq = jQuery; </script>
 <div class="clickstreamcloud">
 <script type="text/javascript">
 CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]},{"p":"/etc/clientlibs/foundation/shared.js","c":[]},{"p":"/libs/cq/personalization/clientlib.js","c":[]},{"p":"/apps/cq/personalization/clientlib.js","c":[]},{"p":"/libs/cq/personalization/clientlib/themes/default.css","c":[]},{"p":"/libs/cq/personalization/clientlib/ie6/themes/default.css","c":["ie6"]}],false);
@@ -109,14 +111,12 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 
 <div id="clickstreamcloud-gui"></div></div>
 
-<script type="text/javascript">
-    var jQuery = tempJq;
-    var $ = tempJq;
-</script>
+<script type="text/javascript"> var jQuery = tempJq; var $ = tempJq; </script>
 
 
 
  
+
 
 
  
@@ -135,13 +135,15 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
         </div>
             <div class="header-right fright">
                 <div class="welcome-msg fleft">
+                    
             <div class="fleft">
                 <a href="/business" title="Go to our Business site"><span class="tertiary-link">Go to our Business site</span></a>
             </div>
-
+                    
            <div id="logoutMsg" class="logout fright"></div>
 
         </div>
+        
                <div class="topnav fleft">
             <ul class="fright">
                   <li class="first"><a href="/about-us.html" title="About Us">About us</a></li>
@@ -152,16 +154,142 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
            
            
             
+              <div class="siteSearch globalSiteSearch">
+ 
+
+<div class="siteSearchJourney parsys globalSiteSearch">
+  
+
+
+<script>
+var currentsearchform="#site-search-form56e47a3b-69ff-499c-8b98-3fecbd7e3c0d";
+</script>
+<div class="topsrch fleft">
+    <form role="search" id="site-search-form56e47a3b-69ff-499c-8b98-3fecbd7e3c0d">
+        <input type="text" name="site_search" class="site_search srchbox fleft ac_input" id="site-search-input56e47a3b-69ff-499c-8b98-3fecbd7e3c0d" title="Search" value="Search" autocomplete="off">
+        <input type="image" class="fleft site-search-submit" alt="Search" title="Search" src="/etc/designs/centrica/bgas/images/btn-search-input.png" id="site-search-submit56e47a3b-69ff-499c-8b98-3fecbd7e3c0d">
+        <input id="uri" type="hidden" name="uri" value="/SiteSearch/">
+    </form>          
+</div>
+
+ 
+
+ <script type="text/javascript">
+       var arrayofjson =[];
+       var siteSearchURL ="";
+       var searchindex;
+       var searchText;
+       if(siteSerchValues==undefined)
+       var siteSerchValues=[];
+       $(document).ready(function(){
+           searchindex=$(".site_search").index($(currentsearchform+" .site_search"));
+          
+        $(".site-search-submit").click(function(e){
+        	e.preventDefault();
+        	searchText = $(this).prev('.site_search').val();
+            sitesearchResult(searchText);
+           
+        });
+    
+     
+       $('.site_search').keypress(function(e){
+            if(e.which==13) {
+                e.preventDefault();
+                searchText = $(this).val();
+                sitesearchResult(searchText);
+                return false;
+              
+            }
+        });
+
+
+       $('.site_search').click(function(e){
+           if ($(this).val()=='Search') {
+                $(this).val('');
+            }
+       });
+
+
+       $('.site_search').focus(function(e){
+           if ($(this).val()=='Search') {
+               $(this).val('').css("color","black" );
+               } 
+           return false;
+       });
+
+
+       $('.site_search').blur(function(e){
+           if ($(this).val()=='') {
+               $(this).val('Search').css("color","#999999" );
+               return false;
+              }
+       });
+       
+       });
+       
+       function sitesearchResult(searchString) {
+            var uri = $("#uri").val();
+			searchString = replaceAll(searchString," ","+");
+			searchString = uri + "?q=" + searchString;
+			siteSearchURL="";
+			siteSearchURL =  siteSearchURL + searchString;
+			window.location.href=siteSearchURL ;         
+        }
+    
+     function replaceAll(source,findString,replaceString){
+        var temp = source;
+        if(source != null && source != "undefined") {
+        var index = temp.indexOf(findString);
+          while(index != -1){
+              temp = temp.replace(findString,replaceString);
+              index = temp.indexOf(findString);
+          }
+          return temp;
+          }
+      }
+
+
+     var dd=0;
+    
+     var url = "/content/sysadmin/britishgas/sitesearch/_jcr_content.infinity.json";
+    $.ajaxSetup({ async: false });
+    $.getJSON(url, function(data) {
+         $.each(data, function(i, node) {
+             if(i.match(/^sitesearch*/)){
+                 $.each(node, function(j, childnode) {
+                     if(j=="authoradds"){
+                         if(typeof(childnode)=="object"){
+                             for(k=0;k<childnode.length;k++)
+                                 arrayofjson[dd++]=(childnode[k]);
+                         }
+                         else
+                             arrayofjson[dd++]=(childnode);
+                     }
+                 });
+             }
+         });
+         var searchindex=$(".site_search").index($(currentsearchform+" .site_search"));
+         siteSerchValues[searchindex]=arrayofjson;
+         
+    });
+
+    $(document).ready(function() {
+		$("body").removeAttr("onload");
+	});
+
+
+</script>
+         
+
+
+</div>
+
+</div>
+
             
-                <div class="topsrch fright">
-					<form action="/Site-Search/" method="post" role="search" id="site-search-form">
-						<input type="text" onclick="if (this.value=='Search'){this.value='';} " onfocus="if (this.value=='Search'){this.value='';this.style.color='black';} return false; " onblur="if (this.value==''){this.value='Search';this.style.color='#999999';return false;}" value="Search" title="Search" id="site-search-input" class="srchbox fleft ac_input" name="site_search" autocomplete="off">
-						<input type="image" alt="Search" title="Search" src="/etc/designs/centrica/bgas/images/btn-search-input.png" id="site-search-submit" onclick="return checkValidSearch(this.form.elements[&quot;site_search&quot;].value);">
-					</form>
-				</div>
             
            
-           
+          
             
            
            <div class="megamenu">
@@ -180,7 +308,7 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 <ul>
 <li role="presentation"><a href="/GetAQuote/" role="menuitem" tabindex="-1">Get a quote</a></li>
 <li role="presentation"><a href="/products-and-services/gas-and-electricity/our-energy-tariffs.html" role="menuitem" tabindex="-1">Our tariffs</a></li>
-<li role="presentation"><a href="/products-and-services/gas-and-electricity/best-deal-for-you.html" role="menuitem" tabindex="-1">Best deal for you</a></li>
+<li role="presentation"><a href="/products-and-services/gas-and-electricity/better-deal-for-you.html" role="menuitem" tabindex="-1">Better deal for you</a></li>
 <li role="presentation"><a href="/products-and-services/gas-and-electricity/energysmart.html" role="menuitem" tabindex="-1">EnergySmart™</a></li>
 <li role="presentation"><a href="/products-and-services/gas-and-electricity/new-gas-supplies.html" role="menuitem" tabindex="-1">New gas supplies</a></li>
 <li role="presentation"><a href="/products-and-services/gas-and-electricity/the-warm-home-discount.html" role="menuitem" tabindex="-1">Warm Home Discount Scheme</a></li>
@@ -206,7 +334,7 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 <div class="mega-column-content">
 <h3><a href="/products-and-services/plumbing-and-drains.html" role="menuitem" tabindex="-1">Plumbing &amp; drains </a></h3>
 <ul>
-<li role="presentation"><a href="/ViewQuoteDetails/coverPlumbingAndDrains/" role="menuitem" tabindex="-1">Plumbing &amp; drains cover</a></li>
+<li role="presentation"><a href="/products-and-services/plumbing-and-drains/plumbing-and-drains-cover.html" role="menuitem" tabindex="-1">Plumbing &amp; drains cover</a></li>
 <li role="presentation"><a href="/products-and-services/plumbing-and-drains/get-a-repair-quote.html" role="menuitem" tabindex="-1">One off plumbing &amp; drains repair</a></li>
 </ul>
 </div></div>
@@ -217,8 +345,8 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 <div class="mega-column-content">
 <h3><a href="/products-and-services/home-electrics.html" role="menuitem" tabindex="-1">Home electrics</a></h3>
 <ul>
-<li role="presentation"><a href="/ViewQuoteDetails/coverHomeElectrics/" role="menuitem" tabindex="-1">Home electrical cover</a></li>
-<li role="presentation"><a href="/products-and-services/home-electrics/one-off-electrical-repair.html" role="menuitem" tabindex="-1">One off electrical repairs</a></li>
+<li role="presentation"><a href="/products-and-services/home-electrics/home-electrical-cover.html" role="menuitem" tabindex="-1">Home electrical cover</a></li>
+<li role="presentation"><a href="/products-and-services/home-electrics/one-off-electrical-appliance-repairs.html" role="menuitem" tabindex="-1">One off electrical and appliance repairs</a></li>
 <li role="presentation"><a href="/products-and-services/home-electrics/electricial-home-improvements.html" role="menuitem" tabindex="-1">Improvements</a></li>
 </ul>
 </div></div>
@@ -234,11 +362,10 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
  
 <div class="mega-column">
 <div class="mega-column-content">
-<h3><a href="/products-and-services/landlord-services.html" role="menuitem" tabindex="-1">Landlord services</a></h3>
+<h3><a href="/products-and-services/landlord-services.html" role="menuitem" tabindex="-1">Landlords</a></h3>
 <ul>
-<li role="presentation"><a href="/products-and-services/landlord-services/gas-safety-checks.html" role="menuitem" tabindex="-1">Gas safety check (CP12)</a></li>
-<li role="presentation"><a href="/products-and-services/landlord-services/landlord-offers.html" role="menuitem" tabindex="-1">Landlord offers</a></li>
-<li role="presentation"><a href="/products-and-services/landlord-services/information-for-landlord.html" role="menuitem" tabindex="-1">Information for landlords</a></li>
+<li role="presentation"><a href="/products-and-services/landlord-services/gas-safety-checks.html" role="menuitem" tabindex="-1">Gas safety certificate</a></li>
+<li role="presentation"><a href="/products-and-services/landlord-services/landlord-offers.html" role="menuitem" tabindex="-1">Landlord services</a></li>
 </ul>
 </div></div>
  
@@ -250,7 +377,6 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 <ul>
 <li role="presentation"><a href="/products-and-services/energy-saving/home-insulation.html" role="menuitem" tabindex="-1">Home insulation</a></li>
 <li role="presentation"><a href="/products-and-services/energy-saving/energy-savers-store.html" role="menuitem" tabindex="-1">Energy savers store</a></li>
-<li role="presentation"><a href="/products-and-services/energy-saving/energyshare.html" role="menuitem" tabindex="-1">energyshare </a></li>
 <li role="presentation"><a href="/products-and-services/energy-saving/electric-vehicles.html" role="menuitem" tabindex="-1">Electric vehicles</a></li>
 </ul>
 </div></div>
@@ -290,13 +416,6 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 </ul>
 </div></div>
  
-<div class="mega-column">
-<div class="mega-column-content last-mega-column-content">
-<h3><a href="/products-and-services/price-announcement.html" role="menuitem" tabindex="-1">Price announcement</a></h3>
-<ul>
-<li role="presentation"><a href="/products-and-services/price-announcement/what-it-means-for-you.html" role="menuitem" tabindex="-1">What it means for you</a></li>
-</ul>
-</div></div>
 </div></div></li></ul></li>
 <li role="presentation" class="menuheading"><a class="menubar-link sf-with-ul" href="/smarter-living.html" role="menuitem" tabindex="-1">Smarter living<span class="sf-sub-indicator"> »</span></a>
 <ul class="mega-menu" role="menu" style="display: none; visibility: hidden;"><li class="mega-menu-list"><div class="mega-wrapper">
@@ -309,7 +428,8 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 <li role="presentation"><a href="/smarter-living/save-energy/best-deal-for-you.html" role="menuitem" tabindex="-1">Best deal for you</a></li>
 <li role="presentation"><a href="/smarter-living/save-energy/energy-saving-tips.html" role="menuitem" tabindex="-1">Energy saving tips</a></li>
 <li role="presentation"><a href="/smarter-living/save-energy/energy-savers-report.html" role="menuitem" tabindex="-1">Energy savers report</a></li>
-<li role="presentation"><a href="/smarter-living/save-energy/home-energy-survey.html" role="menuitem" tabindex="-1">Home energy plan</a></li>
+<li role="presentation"><a href="/smarter-living/save-energy/green-streets.html" role="menuitem" tabindex="-1">Green Streets</a></li>
+<li role="presentation"><a href="/smarter-living/save-energy/green-deal.html" role="menuitem" tabindex="-1">Green Deal</a></li>
 </ul>
 </div></div>
  
@@ -317,7 +437,7 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 <div class="mega-column-content">
 <h3><a href="/smarter-living/control-energy.html" role="menuitem" tabindex="-1">Control energy</a></h3>
 <ul>
-<li role="presentation"><a href="/smarter-living/control-energy/smart-meters.html" role="menuitem" tabindex="-1">Smart meter switch</a></li>
+<li role="presentation"><a href="/smarter-living/control-energy/smart-meters.html" role="menuitem" tabindex="-1">Smart meter upgrade</a></li>
 </ul>
 </div></div>
  
@@ -327,19 +447,26 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 </div></div>
  
 <div class="mega-column">
-<div class="mega-column-content last-mega-column-content">
+<div class="mega-column-content">
 <h3><a href="/smarter-living/travel.html" role="menuitem" tabindex="-1">Travel smarter</a></h3>
+</div></div>
+ 
+</div>
+<div class="mega-column-new">
+<div class="mega-column">
+<div class="mega-column-content">
+<h3><a href="/smarter-living/smart-homes.html" role="menuitem" tabindex="-1">Homes are about to get smarter</a></h3>
+</div></div>
+ 
+<div class="mega-column">
+<div class="mega-column-content last-mega-column-content">
+<h3><a href="/smarter-living/smart-technology-reviews.html" role="menuitem" tabindex="-1">User reviews - Smarter Homes</a></h3>
 </div></div>
 </div></div></li></ul></li>
 <li role="presentation" class="menuheading"><a class="menubar-link sf-with-ul" href="/HelpAndAdvice/LookUp/" role="menuitem" tabindex="-1">Help &amp; advice<span class="sf-sub-indicator"> »</span></a>
 <ul class="mega-menu" role="menu" style="display: none; visibility: hidden;"><li class="mega-menu-list"><div class="mega-wrapper">
  
 <div class="mega-column-new">
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/Help_Advice/ContactUs/" role="menuitem" tabindex="-1">Contact us</a></h3>
-</div></div>
- 
 <div class="mega-column">
 <div class="mega-column-content">
 <h3><a href="/HelpAndAdvice/LookUp/?SXI=14,CASE=283,USETEMPLATE=sublanding_1.tem" role="menuitem" tabindex="-1">Bills &amp; payments</a></h3>
@@ -373,7 +500,6 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 <ul>
 <li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=16,CASE=4304,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Tariffs</a></li>
 <li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=16,CASE=5125,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">EnergySmart™</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=16,CASE=2075,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">energyshare</a></li>
 </ul>
 </div></div>
  
@@ -433,13 +559,22 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 </div>
 <div class="mega-column-new">
 <div class="mega-column">
-<div class="mega-column-content last-mega-column-content">
+<div class="mega-column-content">
 <h3><a href="/Help_Advice/ContactUs/" role="menuitem" tabindex="-1">Contact us</a></h3>
 <ul>
 <li role="presentation"><a href="/Help_Advice/ContactUs/" role="menuitem" tabindex="-1">Ways to contact us</a></li>
 <li role="presentation"><a href="/help-and-advice/contactus-personal-details/emergency-numbers.html" role="menuitem" tabindex="-1">Emergency numbers</a></li>
 <li role="presentation"><a href="/help-and-advice/contactus-personal-details/contact-us.html" role="menuitem" tabindex="-1">Contact telephone numbers</a></li>
-<li role="presentation"><a href="/help-and-advice/contactus-personal-details/complaints.html" role="menuitem" tabindex="-1">Make a complaint</a></li>
+<li role="presentation"><a href="/help-and-advice/contactus-personal-details/did-we-call-you.html" role="menuitem" tabindex="-1">Did we call you?</a></li>
+</ul>
+</div></div>
+ 
+<div class="mega-column">
+<div class="mega-column-content last-mega-column-content">
+<h3><a href="/help-and-advice/contactus-personal-details/complaints.html" role="menuitem" tabindex="-1">Complaints</a></h3>
+<ul>
+<li role="presentation"><a href="/help-and-advice/contactus-personal-details/complaints.html" role="menuitem" tabindex="-1">Make a Complaint </a></li>
+<li role="presentation"><a href="/help-and-advice/contactus-personal-details/complaints-performance.html" role="menuitem" tabindex="-1">Complaints performance</a></li>
 </ul>
 </div></div>
 </div></div></li></ul></li>
@@ -473,9 +608,9 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 <li role="presentation"><a href="/youraccount/discover/you-are-in-control-with-direct-debit.html" role="menuitem" tabindex="-1">Direct Debit</a></li>
 <li role="presentation"><a href="/youraccount/discover/book-an-engineer.html" role="menuitem" tabindex="-1">Book an engineer visit</a></li>
 <li role="presentation"><a href="/HomeMove/Home-Move-Services/" role="menuitem" tabindex="-1">Moving home</a></li>
-<li role="presentation"><a href="/youraccount/discover/app.html" role="menuitem" tabindex="-1">Smartphone App</a></li>
 <li role="presentation"><a href="/youraccount/discover/home-energy-top-up-service.html" role="menuitem" tabindex="-1">Home Energy Top Up</a></li>
 <li role="presentation"><a href="/youraccount/discover/monitor-consumption.html" role="menuitem" tabindex="-1">Monitor consumption</a></li>
+<li role="presentation"><a href="/youraccount/discover/your-bill.html" role="menuitem" tabindex="-1">Your bill</a></li>
 </ul>
 </div></div>
 </div></div></li></ul></li>
@@ -513,118 +648,11 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
      </div>  
         
           
-
-    <div class="page basepage session_timeout sessionTimeout">
- 
-<script>
-
-initiateSessionCounter();
-
-var secs;
-var sessionTimeOutForm; 
-function initiateSessionCounter(){
-    var sessionTimer = setTimeout("initiate()", 1140000);
-}
-
-function initiate() {	
-    openModal('timeoutoverlay-content', 'overlay', true);
-    document.getElementById('stopTimer').value = "false";
-    countLastMinute(60);
-}
-
-function countLastMinute(seconds) {
-    var secondsArray;
-    var secsString;
-    if (seconds != null && seconds != undefined){
-        if (seconds == 60) {
-            secs = seconds;
-        }
-    }
-    
-    secs--;
-    
-    if(secs == -1) {
-        secs=0;
-    } 
-   
-    document.getElementById('disp').innerHTML = secs;
-    
-    if(secs == 0 && document.sessionTimeOutForm.stopTimer.value == "false") {
-        parent.location = "/Logout/Logout-Session-Succesful/";
-    } else {
-        if (document.sessionTimeOutForm.stopTimer.value == "false") {
-            sessionTimeOutForm = setTimeout("countLastMinute()", 1000);
-        }
-    }
-}
-
-function redo11()
-{
-var secs=0;
-
-    if(secs == 0)
-    {
-        parent.location = "/Logout/Logout-Succesful/"; // redirects to specified page once timer ends
-    }
-}
-
-function stayLoggedIn() {
-    keepSessionAlive();
-    stopTimer();
-    initiateSessionCounter();
-    closeDialog('timeoutoverlay-content');
-}
-
-function stopTimer() {
-    document.getElementById('stopTimer').value = "true";
-}
-
-function keepSessionAlive()
-{
-    var xmlhttp=false;
-     try {
-      xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");
-     } catch (e) {
-      try {
-       xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
-      } catch (E) {
-       xmlhttp = false;
-      }
-     }
-    if (!xmlhttp && typeof XMLHttpRequest!='undefined') {
-        try {
-            xmlhttp = new XMLHttpRequest();
-        } catch (e) {
-            xmlhttp=false;
-        }
-    }
-    if (!xmlhttp && window.createRequest) {
-        try {
-            xmlhttp = window.createRequest();
-        } catch (e) {
-            xmlhttp=false;
-        }
-    }
-
-     xmlhttp.open("POST", "/OnlineCustomer/jsp/SessionAlive.jsp",true);
-
-     xmlhttp.onreadystatechange=function() {
-
-      if (xmlhttp.readyState==4) {
-      }
-     }
-     xmlhttp.send(null)
-}
-</script>
-<div id="sessiontimeOutOverlay" class="displaynone">
-         
-    </div>
- </div>
-
-
-</div> 
+  </div> 
 
 <!-- Header Ends-->
+
+
 <div id="content-body">
     <div class="content-wrapper">
 	    
@@ -633,10 +661,12 @@ function keepSessionAlive()
 <div id="primary-wrapper">
     
     <div id="content-wrapper-main">
-    <div class="title">
+    
+	
+		<div class="title">
  <h1 id="h1">British Gas website privacy policy</h1></div>
 
-    
+	
     <div class="parsys hero-panel"></div>
 
 
@@ -784,7 +814,7 @@ PO Box 491<br>
 Leeds<br>
 LS3 1WZ<br>
 Phone: 0870 060 1414<br>
-Website: <a href="http://www.callcredit.co.uk/" target="_blank"><b>www.callcredit.co.uk</b><sup> <img src="/etc/designs/centrica/bgas/images/external-link.gif" title="this link will open in a new window" role="presentation"></sup></a><br>
+Website: <a href="http://www.callcredit.co.uk/" target="_blank"><b>www.callcredit.co.uk</b><sup><img src="/etc/designs/centrica/bgas/images/external-link.gif" title="this link will open in a new window" role="presentation"></sup></a><br>
 </p>
 <p><br>
 Experian<br>
@@ -793,7 +823,7 @@ PO Box 8000<br>
 Nottingham<br>
 NG80 7WF<br>
 Phone: 0870 241 6212<br>
-Website: <a href="http://www.experian.co.uk/" target="_blank"><b>www.experian.co.uk</b><sup> <img src="/etc/designs/centrica/bgas/images/external-link.gif" title="this link will open in a new window" role="presentation"></sup></a><br>
+Website: <a href="http://www.experian.co.uk/" target="_blank"><b>www.experian.co.uk</b><sup><img src="/etc/designs/centrica/bgas/images/external-link.gif" title="this link will open in a new window" role="presentation"></sup></a><br>
 </p>
 <p><br>
 Equifax Plc<br>
@@ -802,11 +832,11 @@ PO Box 1140<br>
 Bradford<br>
 BD1 5US<br>
 Phone: 0844 335 0550<br>
-Website: <a href="http://www.equifax.co.uk/" target="_blank"><b>www.myequifax.co.uk</b><sup> <img src="/etc/designs/centrica/bgas/images/external-link.gif" title="this link will open in a new window" role="presentation"></sup></a></p>
+Website: <a href="http://www.equifax.co.uk/" target="_blank"><b>www.myequifax.co.uk</b><sup><img src="/etc/designs/centrica/bgas/images/external-link.gif" title="this link will open in a new window" role="presentation"></sup></a></p>
 <p>&nbsp;</p>
 <p>4&nbsp; If you give us information on behalf of someone else, you confirm you have given them the information set out in this document, and that they have given permission for us to use their personal information in the way we have described in clause 10. If you give us sensitive information about yourself or other people (such as health details or details of any criminal convictions of members of your household), you agree (and confirm that the person the information is about has agreed) that we can use this information in the way set out in this document.</p>
 <p>&nbsp;</p>
-<p>5 You are entitled to have a copy of the information we hold on you and to have any inaccurate information corrected. We may charge a small fee for providing a copy of any information we hold about you. For more information about this please contact our Privacy Unit at Lakeside West, 30 The Causeway, Staines, TW18 3BY. Or you can email <a target="_blank" href="mailto:CentricaDataProtection@Centrica.com"><b>CentricaDataProtection@Centrica.com</b>.<sup> <img src="/etc/designs/centrica/bgas/images/external-link.gif" title="this link will open in a new window" role="presentation"></sup></a><br>
+<p>5 You are entitled to have a copy of the information we hold on you and to have any inaccurate information corrected. We may charge a small fee for providing a copy of any information we hold about you. For more information about this please contact our Privacy Unit at Lakeside West, 30 The Causeway, Staines, TW18 3BY. Or you can email <a target="_blank" href="mailto:CentricaDataProtection@Centrica.com"><b>CentricaDataProtection@Centrica.com</b>.<sup><img src="/etc/designs/centrica/bgas/images/external-link.gif" title="this link will open in a new window" role="presentation"></sup></a><br>
 <br>
 </p>
 
@@ -938,10 +968,17 @@ If you do not want us to use cookies in your browser, you can set your browser t
                 </div>
             
             
+			
+			
+            
+            
+    
             
             
             
 			
+              
+        
          
 </div>
 </div></div>
@@ -959,7 +996,12 @@ If you do not want us to use cookies in your browser, you can set your browser t
     </div>
 </div>
 
+
  
+    
+ 
+
+
 
 <!--Footer Starts-->
 <div id="footer" role="contentinfo">
@@ -968,21 +1010,25 @@ If you do not want us to use cookies in your browser, you can set your browser t
     
     <div class="ft-links fleft">
         <ul>
-           <li><a href="/products-and-services/gas-and-electricity.html">Energy</a></li>
+           <li><a href="/products-and-services/gas-and-electricity.html">Energy - Gas &amp; electricity</a></li>
 <li><a href="/products-and-services/gas-and-electricity/our-energy-tariffs.html">Dual Fuel</a></li>
-<li><a href="/products-and-services/boilers-and-central-heating.html">Boiler &amp; Heating repairs</a></li>
+<li><a href="/products-and-services/boilers-and-central-heating.html">Boilers</a></li>
 <li><a href="/products-and-services/boilers-and-central-heating/cover.html">Boiler cover</a></li>
 <li><a href="/products-and-services/boilers-and-central-heating/cover/homecare.html">HomeCare</a></li>
-<li><a href="/products-and-services/boilers-and-central-heating/one-off-boiler-repairs.html">Boiler repairs </a></li>
-<li><a href="/products-and-services/boilers-and-central-heating/new-boilers.html">Boilers</a></li>
-<li><a href="/products-and-services/boilers-and-central-heating/new-boilers/boiler-and-heating-range.html">Cheap boilers</a></li>
-<li><a href="http://www.britishgas.co.uk/business/products-and-services/business-gas.html">Business Gas</a></li>
-<li><a href="http://www.britishgas.co.uk/business/products-and-services/business-electricity.html">Business Electricity</a></li>
+<li><a href="/products-and-services/boilers-and-central-heating/one-off-boiler-repairs.html">Boiler repair</a></li>
+<li><a href="/products-and-services/boilers-and-central-heating/boiler-service-and-safety-checks.html">Boiler servicing &amp; maintenance</a></li>
+<li><a href="/smarter-living/control-energy/smart-meters.html">Smart meters</a></li>
+<li><a href="http://www.britishgas.co.uk/business/gas/">Business Gas</a></li>
+<li><a href="http://www.britishgas.co.uk/business/electricity/">Business Electricity</a></li>
 
         </ul>
     </div>
     <div class="cb"></div>
+    <!-- PRB 9412 Starts -->
+    <div class="section separator">
     <div class="divider-1"></div>
+    <div>
+    <!-- PRB 9412 Ends -->
     <div class="ft-links fleft">
         <ul>
            <li><a href="/terms-and-conditions.html">Terms &amp; conditions</a></li>
@@ -1008,15 +1054,21 @@ If you do not want us to use cookies in your browser, you can set your browser t
         </div>
         <div class="cb"></div>
         <p class="copyrights"> © British Gas 2012 </p>
+		
     </div>
     </div>
    	 
     	<div id="fixme-bottom">
     		<a href="javascript:websiteFeedbackPopup();"><img class="fright" src="/content/dam/british-gas/global/feedback.gif" alt="feedback on our website" title="feedback on our website"></a>
 </div>
+
 </div>
 
 <!--Footer Ends-->
+
+
+
+
 </div>
 
  
@@ -1024,7 +1076,7 @@ If you do not want us to use cookies in your browser, you can set your browser t
 
 
 <script src="/etc/designs/centrica/bgas/scripts/jquery-ui-1.8.11.custom.min.js" type="text/javascript"></script>
-<script src="/etc/designs/centrica/scripts/bg_jcarousellite_1.0.1.pack.js" type="text/javascript"></script>
+<script src="/etc/designs/centrica/scripts/bg_jcarousellite_1.0.2.pack.js" type="text/javascript"></script>
 <script src="/etc/designs/centrica/scripts/jquery-search.js" type="text/javascript"></script>
 <script src="/etc/designs/centrica/scripts/jquery-autocomplete.js" type="text/javascript"></script>
 <script src="/etc/designs/centrica/scripts/jquery-csv.js" type="text/javascript"></script>
@@ -1045,6 +1097,7 @@ If you do not want us to use cookies in your browser, you can set your browser t
  
 
  
+
 <script>
     $(document).ready(function(){
         displayLogoutMsg();
@@ -1074,7 +1127,7 @@ If you do not want us to use cookies in your browser, you can set your browser t
 <!--
 More detailed timing info is available by uncommenting some code in the timing.jsp component
 Timing chart URL:
-http://chart.apis.google.com/chart?chtt=privacy-policy.html+%2871ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,71,0,71&chxr=0,0,71&chd=t:5,8,52,53,54,55,55,57,57,58,58,58,59,59,60,60,60,63,63,63,64,64,64,65,65,65,66,66,67,67,68,68|1,43,0,0,0,0,11,0,1,0,0,1,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,5,4,4,2,2&chly=clickstreamcloud.jsp|megamenu.jsp|breadcrumb.jsp|sessionTimeout.jsp|title.jsp|parsys.jsp|parsys.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|parsys.jsp|panelcontainer.jsp|reference.jsp|textimage.jsp|parsys.jsp&chs=600x500
+http://chart.apis.google.com/chart?chtt=privacy-policy.html+%28166ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,166,0,166&chxr=0,0,166&chd=t:11,16,17,20,119,121,124,125,131,132,133,134,135,136,137,138,139,140,145,146,147,148,149,150,151,152,153,154,155,156,158,159,160|1,2,1,97,1,1,0,29,1,1,1,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,0,0,11,10,8,7,6&chly=clickstreamcloud.jsp|globalSiteSearch.jsp|siteSearchJourney.jsp|megamenu.jsp|breadcrumb.jsp|title.jsp|parsys.jsp|parsys.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|parsys.jsp|reference.jsp|panelcontainer.jsp|parsys.jsp|textimage.jsp&chs=600x500
 -->
 
 
@@ -1089,23 +1142,4 @@ document.write(unescape("%3Cscript src='" + stHost + "sitetagger.co.uk/" + stAcc
 
 
 
-<div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-timeoutoverlay-content" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-timeoutoverlay-content">&nbsp;</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="timeoutoverlay-content" class="modalDialog ui-dialog-content ui-widget-content">
-       <form name="sessionTimeOutForm" class="session-logout fleft">
-            <h2>Secure connection: You are about to be logged out</h2>
-            <input type="hidden" value="false" id="stopTimer" name="stopTimer">
-            <div class="intro-content">
-                <p>
-                    Your account has been securely logged in but left inactive for a while, so we'll be logging you out shortly for security.
-                </p>
-            </div>
-            <div class="shadow-divider"></div>
-            <div class="fleft logout-time">
-               <p class="fleft">You will be logged out in: </p><span id="disp" class="fleft">50</span> <p class="fleft">seconds</p>
-            </div>
-            <div class="cb"></div> 
-            <div class="fleft btn-input">
-                <a title="Keep me logged in" class="fleft" href="javascript:stayLoggedIn();"><img src="/etc/designs/centrica/bgas/images/keep-me-loggedin.png" alt="Keep me logged in"></a>                
-                <span><a title="Logout" href="javascript:redo11();">Logout</a> </span>
-            </div>
-        </form>
-       </div></div></body></html>
+</div></div></body></html>
