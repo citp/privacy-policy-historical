@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmosmagazine.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619020943id_/http%3A//www.cosmosmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmosmagazine.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217033938id_/http%3A//www.cosmosmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy | COSMOS magazine
 
@@ -48,7 +48,7 @@ If you have any questions about this privacy policy, any privacy related dealing
 
 Privacy Officer  
 COSMOS magazine  
-Luna Media Pty Ltd  
+Cosmos Media Pty Ltd  
 Level 1, 49 Shepherd Street  
 CHIPPENDALE NSW 2008
 
