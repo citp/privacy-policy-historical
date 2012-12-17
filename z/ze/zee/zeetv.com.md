@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeetv.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618021415id_/http%3A//www.zeetv.com/aboutus/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeetv.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217025139id_/http%3A//www.zeetv.com/aboutus/privacy-policy.html) for the most accurate reproduction.*
 
 # Zee TV Official Website: Zee TV Shows, Zee TV Serials Online, Videos - zeetv.com
 
