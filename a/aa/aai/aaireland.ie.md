@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the aaireland.ie privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603121617id_/http%3A//www.aaireland.ie/AA/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaireland.ie privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217060600id_/http%3A//www.aaireland.ie/AA/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # AA Ireland | Data Protection & Privacy Policy | AA Ireland
 
-## Committed to protecting your privacy
-
-"AA" means the AA group of companies including AA Ireland Limited and its subsidiary and holding companies. A list of the companies within the AA Group can be obtained from the The Secretary, AA Ireland Ltd, 56 Drury Street, Dublin 2.
+"AA" means the AA group of companies including AA Ireland Limited and its subsidiary and holding companies. AA Ireland Limited trading as AA Insurance is part of ACROMAS Holdings Ltd. A list of the companies within the AA Group can be obtained from The Secretary, AA Ireland Ltd, 56 Drury Street, Dublin 2.
 
 AA (We) are committed to protecting your privacy. We comply with the principles of the Data Protection Acts 1988 and 2003 and aim to maintain consistently high levels of best practice in our processing of personal and/or sensitive personal data.
 
@@ -14,23 +12,31 @@ We use the information we receive from you to provide goods and/or services that
 
 We store all the information you provide us, including information provided via forms you complete on our website, and information which we may collect from your browsing. Our server, in common with nearly all web servers, logs each page that is downloaded from the site.
 
-Examples of how we may personalise information might include preparing an insurance quote for you.
+Any new information you provide us may be used to update an existing record we hold for you. If you provide a work email address we will not be responsible for third parties having access to any communications we send.
+
+To help us prevent fraud and money laundering, your details may be submitted to fraud prevention agencies and other organisations where your records may be searched. We will also conduct a search with a credit reference bureau to assist us in providing a quote, and to check which payment options we can make available to you. A copy of this search will be left on your credit file but will not affect your credit score. Where we are providing a motor insurance quotation this search will be noted on your credit file and may be reflected in your credit score.
+
+Examples of how we may personalise information might include preparing an insurance quote for you, or notifying you when we will be delivering certain products in your area.
+
+If you apply for other financial services and/or products, a check of your details with fraud prevention agencies may be necessary. The precise nature of these processes is explained fully when you apply.
+
+We make outbound phone calls for a number of reasons relating to our many products, including breakdown cover and insurance. We are fully committed to the regulations set out by the Central Bank of Ireland and other relevant legislation and follow strict processes to ensure we comply with them.
 
 Third parties may deliver some of our products to you or provide all or part of the service requested by you. In these instances, whilst the information you provide will be disclosed to them, it will only be used for the administration of the service provided (including for example claims processing), underwriting and pricing purposes as appropriate, testing, and to maintain management information for business analysis.
 
+When you enter a contest or other promotional feature, we may ask for your name, address, phone numbers and email address so we can administer the contest and notify winners. Occasionally, we may also use the information we collect to notify you by post, phone, mobile phone, email and SMS about new or existing AA Group services, products and special offers we think you'll find valuable.
+
+We may use sensitive personal data collected in respect of one product to market another appropriate product to you. We may use sensitive personal data collected in respect of one product to market another appropriate product to you.
+
 We ask for your home, mobile telephone number, and email address to enable us to contact you in relation to an enquiry you have made, to contact you about relevant products or services which we offer, to contact you if there is a problem with your order, or there is another genuine reason for doing so. If you provide us with credit or debit card details in order to pay for a service or product, we will keep such details secure and ensure that the details are only used further with your consent and/or for the purposes of any appropriate refunds.
 
-When you enter a contest or other promotional feature, we may ask for your name, address, telephone numbers and email address so we can administer the contest and notify winners.
-
-## Other Product and Services
-
-Occasionally, we may also use the information we collect to notify you by post, telephone, mobile telephone, email and/or SMS about new or existing AA services, products and special offers we think you"ll find valuable.
-
-Generally by providing the requested data you consent to AA using that data for administrative purposes and for informing you of other products and services by post, SMS, telephone, mobile telephone and/or email. We may also use the information we collect to occasionally notify you about important functionality changes to the website.
+Generally by providing the requested data you consent to The AA using that data for administrative purposes and for informing you of other products and services by letter, SMS, phone and/or email. We may also use the information we collect to occasionally notify you about important functionality changes to the website
 
 ## Opt Out
 
 Each time you receive marketing information or a message, you have the option to decline to receive further marketing information from us. This is known as an "opt-out". If you wish to exercise the opt-out, write to The Data Protection Officer, AA Ireland Ltd, 56 Drury Street, Dublin 2, email us at aadataprotection@aaireland.ie or telephone us at 1800 72 74 76. If you have more than one address or email address please make sure to notify any changes to your preferences for each address or email address you have registered with us.
+
+If you have more than one address or email address please make sure to notify any changes to your preferences for each address or email address you have registered with us.
 
 ## Data Protection
 
@@ -47,148 +53,256 @@ If we provide information to a third party (either a provider of a product or se
 
 In addition, we will restrict the information disclosed to the absolute minimum necessary, for example, to provide the product or service.
 
-Our own security procedures mean that we may occasionally have to request proof of Identity.
+Our own security procedures mean that we may occasionally have to request proof of Identity or check your presence on the electoral roll.
 
-In the event of telephone calls from you, we also reserve the right to ask security questions (which we in our sole discretion deem appropriate), in order to satisfy ourselves that you are who you say you are. Telephone calls may be recorded for the purposes of training and customer service.
+In the event of telephone calls from you, we also reserve the right to ask security questions (which we in our sole discretion deem appropriate), in order to satisfy ourselves that you are who you say you are. All Telephone calls, both inbound and outbound, are recorded and may be monitored for the purposes of training, quality purposes and to verify information and help prevent and detect fraud.
 
-## Your consent
+If you contact us electronically we may collect your electronic identifier, eg Internet protocol (IP) address or phone number supplied by your service provider. This is to identify any repeat website visits, fraudulent behaviour or mystery shoppers using our websites.
 
-Before you provide any data to us, we will endeavour to make it clear why we need it. Sometimes we may need sensitive personal data (examples might be past medical history or motoring convictions). When this is required we will obtain your consent first. Otherwise, by providing us with information, either orally or written, or by using our website, you consent to the collection, use and processing of this information by AA as set out herein including to provide and send you information about their services.
+Before you provide any data to us we will endeavour to make it clear why we need it. Sometimes we may need sensitive personal data (examples may be past medical history or motoring convictions). When this is required we will obtain your consent first. Otherwise, by providing us with information, either orally or written, or by using our website, you consent to the collection, use and processing of this information by AA Ireland to provide and send you information about their services.
 
-Subsequent to your purchase of a product or service, we may enter into an arrangement for that service to be provided by a new third party. If this happens, the terms and conditions of your contract with us will provide that you consent to the transfer and processing of personal and/or sensitive personal data to the new provider, subject to the requirement of the Data Protection Acts 1988 and 2003 and associated regulations.
+A customer may properly give their spouse's or partner's consent over the phone or via the website providing the customer confirms they have permission to do so. If the consent is written, the spouse must independently endorse such consent.
+
+We will always use every reasonable effort to ensure sufficient protections are in place to safeguard your personal information.
+
+Subsequent to your purchase of a product or service, we may enter into an arrangement for that service to be provided by a new third party. If this happens, the terms and conditions of your contract with us will provide that you consent to the transfer and processing of personal and/or sensitive personal data to the new provider, subject to the requirement of the Data Protection Acts 1988 and 2003 and associated regulations. 
 
 If you are an AA member/customer, you consent to the AA keeping you up to date about AA member/customer benefits and savings available from time to time under which, as part of the benefit of being a member/customer, the AA will, through its magazine, email or otherwise, give you information and details of any discounts or offers it may negotiate from time to time on behalf of its members and customers.
 
-## How we use cookies
+**Cookies**
 
-Cookies are text files, which identify your computer to our server. AA will automatically issue your computer with a cookie whenever you register on our website, (or possibly when you browse), in order to track traffic flows and to additionally make our website easier for you to use
+From offers and promotions to sound and video, the aim of this site is to be interesting, helpful and informative. We’re keen to find out what you like and dislike – your feedback plays a key role in helping us improve this site. We use many techniques to follow your use of the site and provide you with a customised experience. The main and best-known technique is by using what are known as 'cookies'.
 
-Cookies themselves only record which areas of the site have been visited by the computer in question, and for how long. You have the opportunity to set your computers to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time.
+**What are cookies?** Cookies are small data files that a website will put on your device, which in turn sends information back to the website. They cannot affect your device, but they do collect information that can be used to enhance the site. For example, a cookie can remember the items that you have placed into your shopping basket, or it can ensure you get the offer you requested. These are known as ‘session’ cookies, which expire as soon as you leave the site.
 
-Selecting not to receive cookies can mean that certain services cannot then be provided. It is worth noting that some of the third parties present on our Website may also issue cookies.
+Other cookies can tell us if you come back. These are ‘persistent cookies’, which often expire after a period of time. They will remain on your device until you delete them. We use them to help customise the site – to do things such as display relevant information based on your visit.
 
-## How to accept cookies
+Some cookies enable sites to work, while others help us learn about what people are browsing for.
 
-## Netscape Communicator 8.0
+**How we use cookies**
 
-  * From the Tools menu, select Options, and then open the Site Controls panel 
-  * On the Sites List tab, select the Master Setting (trust level) want to change 
-  * In the Web Features section, the default setting is "Allow cookies," but you can change this 
+We use cookies to ensure you get the most from your visit. They improve your experience of the site because certain features work best with cookies. Feedback and information from the cookies can also help make the site better. By visiting this site, you agree to our use of cookies and other technologies.
 
+Rest assured that the cookies we use do not store personal details, such as payment card numbers. Here are the main types of cookies and what they do:
 
+**1) Strictly necessary**   
+**In brief:** These cookies enable you to get the information or service you’ve asked for. They’re essential – without them, some services may not work.
 
-## Internet Explorer 6.0 and 8.0
+**For example** , We use these cookies to enable you to use shopping baskets, which remember your choices and enable you to buy.
 
-  * Choose Tools, then 
-  * Internet Options 
-  * Click the Privacy tab 
-  * Move the slider to select the level of privacy you prefer, or click on "Advanced" for customised settings
+**2) Performance cookies**   
+**In brief:** These cookies collect information about the pages you visit, where you go most often and whether you see error messages. The information is only used to ensure a website works well.
 
+**For example** , We gather information to diagnose problems and issues. We then use it to make improvements and fix errors.
 
+**3) Functional cookies**   
+**In brief:** These cookies remember choices you’ve made to personalise the site. They may remember where you are so you can get tailored information, or remember changes you have made to help you browse, such as increasing the text size.
 
-## Internet Explorer 7.0
+**For example,** If you ask for services based on your location, we sometimes store a cookie so that next time you visit you won’t have to tell us again.
 
-  * Choose Tools, then 
-  * Internet Options 
-  * Click the Privacy tab 
-  * Then Cookies 
-  * Move the slider to select the level of privacy you prefer, or click on "Advanced" for customised settings
+**4) Targeting or advertising cookies**   
+**In brief:** These cookies collect anonymous information about your browsing habits which are then used to make advertising relevant to you. They remember if you have visited a website and share this information with advertisers.
 
+**For example** , We limit advertising to certain sections of the website. These services are provided by our carefully selected and monitored partners, and we are committed to ensuring any information is used appropriately.
 
+**Links to other sites**
 
-## Firefox 1.0, 2.0 and 3.0
+We often link off to other sites to help provide you with extra information or services. For example, to make it easy for you to share information with your family and friends, we provide links to Twitter, Facebook and other popular social media or book-marking sites.
 
-  * Choose Tools, then 
-  * Options 
-  * Click the "Privacy" icon 
-  * Within the "Cookies" section of the tab, tick the check box which states "Accept cookies from sites"
+But remember, these sites may use cookies that we do not control. So be sure to check how they use your information.
 
+**How you can control cookies**
 
+If cookies are disabled on your device you will still be able to use most of this site. However it may limit what you can do.
 
-## Safari 2.0 (Apple Macintosh)
+How you manage your cookies depends on your browser. To find out which browser you use:
 
-  * Click on the Safari menu 
-  * Click on Preferences 
-  * Select the Security Tab 
-  * There is a cookie section that allows you to block or accept cookies
-
-
-
-## How to delete cookies
-
-* * *
-
-**Important:** To remove cookies, follow the steps in this section. Do not try to edit the cookies file on your computer.
-
-## Netscape Communicator 8.0
-
-  * From the Tools menu, select Options, and then open the Privacy panel 
-  * In the Privacy panel, display the Cookies category (double-click on it if it"s not already open) 
-  * Click the View Cookies button. The Stored Cookies window opens with a list of all the cookies stored on your computer 
-  * Select one or more cookies and click Remove Cookie, or click Remove All Cookies
+  * **PC** : open your browser and go to the **Help** menu and then click on the **About** option.
+  * **Apple Mac** : open your browser and go to the **Apple** menu and then click on the **About** option.
+  * **Mobile device** : check your settings.
 
 
 
-## Internet Explorer 6.0
+If you would prefer to restrict or block cookies and/or delete any you may already have, then follow the how-to guide, which covers the most popular browsers, below:
 
-  * In Internet Explorer, on the Tools menu, click Internet Options 
-  * On the General tab, click Settings, and then click View files 
-  * Select the cookie you want to delete, and then, on the File menu, click Delete
-
-
-
-## Internet Explorer 7.0
-
-  * In Internet Explorer, click the Tools button, and then click Internet Options 
-  * On the General tab, under Browsing history, click Settings 
-  * Click the View files button 
-  * Click the Name column heading to sort all the files alphabetically, and then scroll down until you see files that begin with the prefix Cookie:. All cookies will have that prefix, and they usually contain the name of the website that created the cookie 
-  * Right-click the cookie you want to delete, click Delete, and then click Yes 
-  * Close the window that contains the list of files, and then click OK twice to return to Internet Explorer
+  * [How to accept cookies](http://www.theaa.com/termsandconditions/privacy_policy.html#Howtoacceptcookies)
+  * [How to view cookies](http://www.allaboutcookies.org/manage-cookies/)
+  * [How to delete cookies](http://www.theaa.com/termsandconditions/privacy_policy.html#Howtodeletecookies)
 
 
 
-## Firefox 1.0, 2.0 and 3.0
+If you would like to know more about cookies you can visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) which explains in detail how they can work and can be managed.
 
-  * In Firefox, click the Tools button, and then click on Options 
-  * Now click on the Privacy tab and click on Show Cookies Button 
-  * To remove a cookie from the list, select it and click Remove Cookie 
-  * To remove a site"s cookies, select the site and click Remove Cookie(s) 
-  * To remove all cookies, click Remove All Cookies
+**How to accept cookies**
 
+**Internet Explorer 6.0**
 
+1\. From the menu choose **Tools**   
+2\. Then **Internet Options**   
+3\. Click the **Privacy** tab   
+4\. Move the slider to select the level of privacy you prefer, or click **Advanced** for customised settings
 
-## Safari 2.0 (Apple Macintosh)
+**Internet Explorer 7.0 and 8.0**
 
-  * Click on the Safari menu 
-  * Click on Preferences 
-  * Select the Security Tab 
-  * Click the show cookies button 
-  * Select an individual cookie from the list and click the remove button 
-  * Or to delete all cookies click, remove all
+1\. From the menu choose **Tools**   
+2\. Then **Internet Options**   
+3\. On the **General** tab, under **Browsing History** click **Settings**   
+4\. Move the slider to select the level of privacy you prefer, or click **Sites** or **Advanced** for customised settings
 
+**FireFox 1.0, 2.0 and 3.0**
 
+1\. From the menu choose **Tools**   
+2\. Then **Options**  
+3\. Click the **Privacy** icon and then **Show cookies**   
+4\. Tick the check box for **Accept cookies from sites  
+** 5\. To allow third party cookies tick **Accept third party cookies**
 
-If you are not using any of the above browsers, then you should select "cookies" in the "Help" function for information on where to find your cookie folder.
+**FireFox up to 11.0**
 
-## Disclosure of information to third parties
+1\. From the menu choose **Tools**   
+2\. Then **Options**  
+3\. Click the **Privacy** icon  
+4\. In History, set **Firefox will:** to **Use custom settings for history**  
+5\. Tick the check box **Accept cookies from sites** to enable cookies, and uncheck it to disable them
 
-As previously mentioned AA does not sell, trade or rent your information and will never disclose information about you to third parties, except to fulfil your specific orders for a product or information in the event that third parties deliver the relevant service. For example, if you take out an insurance policy provided by a third party, they will need your details in order to administer the policy and process any claims. Other circumstances where we are operationally or contractually obliged to pass on your information may be where third parties administer part or all of the service, underwriting, for pricing purposes, testing, and to maintain management information for business analysis.
+**Chrome**
 
-We may of course be obliged at law to pass on your information to the Gardaí or any other statutory authority.
+1\. From the browser menu choose the **Spanner** icon   
+2\. Then **Setting**  
+3\. Click **Under the Bonnet**  
+4\. In **Privacy** click **Content settings**  
+5\. In **Cookies** choose the radio button **Allow local data to be set**
 
-## Amendment and retention of information
+**Safari 5.0 (Apple Macintosh and PC Windows)**
+
+1\. From the menu choose **Safari**   
+2\. Then **Preferences**   
+3\. Click the **Security** icon and then **Show cookies**   
+4\. Choose to accept cookies **Always** or **Only from sites I visit**
+
+**Safari 5.1 (Apple Macintosh)**
+
+1\. From the menu choose **Safari**   
+2\. Then **Preferences**   
+3\. Click the **Privacy** icon  
+4\. For the option **Block cookies:** choose **Never** or else **From third parties and advertisers**
+
+**Safari 5.1.5 (PC Windows)**
+
+1\. From the browser menu choose the **Cog wheel** icon   
+2\. Then **Preferences**   
+3\. Click the **Privacy** icon  
+4\. For the option **Block cookies:** choose **Never** or else **From third parties and advertisers**
+
+**How to delete cookies**
+
+To remove cookies follow the steps in this section. Do not try to edit the cookies file on your computer.
+
+**Internet Explorer 6.0**
+
+1\. From the menu choose **Tools**   
+2\. Then **Internet Options**   
+3\. On the **General** tab click **Settings** , then **View Files**   
+4\. Select a cookie and click **Delete**
+
+**Internet Explorer 7.0 and 8.0**
+
+1\. From the menu choose **Tools**   
+2\. Then **Internet Options**   
+3\. On the **General** tab, under Browsing **history** click **Settings**   
+4\. Click **View files**   
+5\. Click the **Name** column heading to alphabetically sort the files   
+6\. Scroll down to files that begin with the prefix **cookie:** – all cookies have this prefix, and they usually contain the name of the website that created the cookie   
+7\. **Right-click** to delete a cookie you want to remove   
+8\. Close the window, then click **OK** twice to return to the browser window
+
+**FireFox 1.0, 2.0 and 3.0**
+
+1\. From the menu choose **Tools**   
+2\. Then **Options**   
+3\. Click the **Privacy** icon and then **Show Cookies**   
+4\. Select a site from the list and click **Remove Cookie(s)**   
+5\. To remove all sites click **Remove All Cookies**
+
+**FireFox up to 11.0**
+
+1\. From the menu choose **Tools**   
+2\. Then **Options**   
+3\. Click the **Privacy** icon  
+4\. In History, click **remove individual cookies**   
+5\. Select a site from the list and click **Remove Cookie**
+
+**Chrome**
+
+1\. From the browser menu choose the **Spanner** icon   
+2\. Then **Settings**   
+3\. Click **Under the Bonnet**   
+4\. In **Privacy** click **Content settings**  
+5\. In **Cookies** click the button **All cookies and site data**  
+6\. Select a site from the list and click **X**
+
+**Safari 5.0 (Apple Macintosh)**
+
+1\. From the menu choose **Safari**   
+2\. Then **Preferences**   
+3\. Click the **Security** icon and then **Show Cookies**   
+4\. Select a cookie from the list and click **Remove**   
+5\. To delete all cookies click **Remove All**
+
+**Safari 5.1 (Apple Macintosh)**
+
+1\. From the menu choose **Safari**   
+2\. Then **Preferences**   
+3\. Click the **Privacy** icon and then **Details**   
+4\. Select a cookie from the list and click **Remove**   
+5\. To delete all cookies click **Remove All**
+
+**Safari 5.0 (PC Windows)**
+
+1\. From the menu choose **Edit**   
+2\. Then **Preferences**   
+3\. Click the **Security** icon and then **Show Cookies**   
+4\. Select a cookie from the list and click the **Remove** button   
+5\. To delete all cookies click **Remove All**
+
+**Safari 5.1.5 (PC Windows)**
+
+1\. From the browser menu choose the **Cog wheel** icon   
+2\. Then **Preferences**   
+3\. Click the **Privacy** icon and then **Details**   
+4\. Select a cookie from the list and click **Remove**   
+5\. To delete all cookies click **Remove All**
+
+If you are not using any of the above browsers, then select 'cookies' in the 'Help' function for information on where to find your cookie folder.
+
+**Disclosure of information to third parties**
+
+As previously mentioned, the AA does not sell, trade or rent your information, and will never disclose information about you to third parties, except to fulfil your specific orders for a product or information in the event that third parties deliver the relevant service. If you take out an insurance policy provided by a third party, they will need your details in order to administer the policy and process any claims. Other circumstances where we are operationally or contractually obliged to pass on your information may be where third parties administer part or all of the service, underwriting, for pricing purposes, testing, and to maintain management information for business analysis.
+
+We may of course be obliged at law to pass on your information to the police or any other statutory authority.
+
+**Employees and employees' spouses or partners**
+
+Personal and/or sensitive personal data of an AA employee and his or her spouse or partner who take out a product and/or service with the AA may be shared to any group company of the AA for the purpose of operation of the product or service or for administrative reasons (including but not limited to claim administration, which may be assisted by the employee's department personnel). By accepting or purchasing the product or service the employee and his or her spouse or partner provide the necessary consent for this transfer of data.
+
+##  Amendment and retention of information
 
 Please advise us in writing at the address/details provided above as to any changes in your circumstances. Obviously it is preferable for us to retain up to date information. We will amend details as required. We are however obliged and permitted by law and regulation to retain certain types of data for a minimum period of time. The minimum period of time tends to be for six years but can be longer if the statute or regulation requires.
 
-## Subject access requests
+##  Subject access requests
 
 You have a statutory right of access to accessible personal data that we hold about you. In order to exercise this right, your application must be in writing for security reasons. Please write to The Secretary, AA Ireland Ltd, 56 Drury Street, Dublin 2. Please refer to the information you wish to see giving dates if possible, and enclose your cheque for €6.35 payable to AA Ireland Limited. We will not administer Subject Access Requests by a third party unless accompanied by a written authority of the individual who is the subject of the request.
 
-## Changes to our Privacy Policy
+**Your choice of information**
 
-If we decide to change our Privacy Policy, we will update all relevant documentation and post any changes onto our websites so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
+You may change the type of material sent to you at any time. The AA allows you to select which products you wish to receive information about, and to cancel any previous expressions of interest in particular areas. If you wish to take advantage of this, please write to The Secretary, AA Ireland Ltd, 56 Drury Street, Dublin 2
 
-## Tell us what you think
+**Changes to our privacy policy**
+
+If we decide to change our privacy policy, we will update all relevant documentation and post any changes on our websites so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+**Tell us what you think**
+
+The AA welcome your questions and comments about privacy.
 
 AA welcomes your questions and comments about privacy. Please write to The Secretary, AA Ireland Ltd, 56 Drury Street, Dublin 2.
