@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrsc.org privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103005833id_/http%3A//www.nrsc.org/donation-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrsc.org privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217041330id_/http%3A//www.nrsc.org/privacy-donation-policy) for the most accurate reproduction.*
 
 # Privacy & Donation Policy
 
@@ -10,13 +10,13 @@ This contribution is made from my own funds with a personal credit card, and not
 
 Contributions are not deductible for federal income tax purposes. Funds received in response to this solicitation will be subject to federal contribution limits.
 
- **NRSC Donation Refund and Cancellation Policy**
+**NRSC Donation Refund and Cancellation Policy**
 
 All donations are final. Refunds and cancellations will be given at the discretion of the administration. An administration charge will be deducted from any refunds made in order to cover the cost of processing the donation.
 
 If you believe that an error has been made in connection with your online donation, contact us at [donations@nrsc.org](mailto:donations@nrsc.org) This e-mail address is being protected from spambots. You need JavaScript enabled to view it . We will endeavor to work with you to correct any such error.
 
- **NRSC Donation Shipping & Handling Policy**
+**NRSC Donation Shipping & Handling Policy**
 
 All donation confirmations will be sent via email. It is your responsibility to provide a correct and valid email address.
 
@@ -38,6 +38,6 @@ Under no circumstances will the NRSC sell your information to commercial entitie
 
 Our site may contain links to other Web sites and servers. The NRSC does not bear responsibility for privacy policies or content on linked Web sites. Accordingly, you also agree and acknowledge that the NRSC will not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance of any such content, services on or through any such site or resource or goods. We encourage you to read the privacy statements on each website you visit. The NRSC provides links to original articles written and maintained by third parties. These links are provided as a convenience and do not imply a claim of ownership in that content.
 
-Should you wish to opt-out of receiving these emails, an unsubscribe link is included in every e-mail. If your link is not working properly, or you wish to communicate your desire to opt-out directly to us, please email info@nrsc.org This e-mail address is being protected from spambots. You need JavaScript enabled to view it with “Unsubscribe” in the subject line.
+Should you wish to opt-out of receiving these emails, an unsubscribe link is included in every e-mail. If your link is not working properly, or you wish to communicate your desire to opt-out directly to us, please email info@nrsc.org.
 
 While we do not intend to make any changes to this privacy policy we do reserve the right to do so. If any changes to this privacy policy are made, then the date that the revised or updated policy is posted to our site will appear at the bottom of the page.
