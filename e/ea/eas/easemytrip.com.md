@@ -1,17 +1,24 @@
-> *The following text is extracted and transformed from the easemytrip.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616201159id_/http%3A//www.easemytrip.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easemytrip.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217024545id_/http%3A//www.easemytrip.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Cheap Air Tickets India,Cheap Air Ticket India,Discount Air Tickets India,Cheap International Airline Tickets,International Cheap Air Fare,Cheap Air Tickets to India
+# Privacy Policy - EaseMyTrip.com
 
-Easy Trip Planners Pvt. Ltd. (Easemytrip.com) respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We assure you that we follow appropriate standards when it comes to protecting your privacy on our web portal.
+**Privacy Policy** **  
+**  
 
-In general, you can visit our website without telling us or without revealing any personal information about yourself. We track the Internet address of the domains from which people visit our website and analyze these data for trends and statistics, but the individual user remains anonymous.
 
-Some of our website pages use "cookies" so that we can serve you best customized information when you return to our site. Cookies are identifiers which a web site can send to your browser to keep on your computer to facilitate your next visit to our site. You can set your browser to notify you when you sent a cookie, its giving you the option to decide whether you accept it or not.  All the information we collect and analyze is used to improve our service to you.
+We, through EaseMyTrip.com a reputed travel portal of India, respect the privacy of our clients. Our 'Privacy Policy' is intended to supply the users a trust associated with the usage and protection of their personal information collected by us. This personal information is comprised of their names, mailing addresses, contact numbers, e-mail IDs, credit card numbers, and several other personal details. Being a trusted name of travel and tourism industry, EaseMyTrip.com does not indulge into revealing the personal information of its clients for any reason. 
 
-There are times when we may collect personal information from you such as name, address or telephone number. It is our intent to inform you before we do that and to tell you what we intend to do with the information. Generally, you will have the option not to provide the information, and in the future you will be able to "opt out" of certain uses of the information. If you don’t want to provide information, you can still visit the Easy Trip Planners Pvt. Ltd. website, but you may be unable to access certain options, offers and services.
+In general, you can visit our website without providing your personal information like mobile no or Email-id. Instead of tracking individual members interpret; we enhance the performance of our each page. In this way, we provide better services to them without knowing their identity. 
 
-Easy Trip Planners Pvt. Ltd. will not sell, trade or disclose to third parties any information comes from the registration for, or use of, any online service (including names and addresses) without the consent of the user or customer (except as required by subpoena, search warrant, or other legal process or in the case of imminent physical harm to the user or others). Easy Trip Planners Pvt. Ltd. will provide suppliers to access the information for purposes of confirming your registration and providing you with benefits you are entitled to.
+In some special cases, we share the personal information of our clients with other companies/parties/people. These cases may include: 
 
-Easy Trip Planners Pvt. Ltd. will take some appropriate steps, that will protect the information which you have share with us. We have implemented modern technology and security features and strict policy guidelines to safeguard the privacy of your personally identifiable information from unauthorized access and improper use or disclosure. Easy Trip Planners Pvt. Ltd. will continue to enhance our security procedures as new technology becomes available.
+  * We are completely allowed to share their information.
+  * To make the products & services available what they demand.
+  * On the demand of any government agency/authority or officer or
+  * To follow the legal notices.
 
-When you register with easemytrip.com, we will contact you from time to time provide information’s about offers, products/services, packages, etc that we believe may benefit you. To know more about EaseMyTrip.com, you can email us on: support@easemytrip.com[support@easemytrip.com](mailto:support@easemytrip.com)
+
+
+The privacy policy of EaseMyTrip.com may vary in various specific cases; it depends on the requirements and situation. However, we make sure that the privacy of our clients do not disclose except some special circumstances. 
+
+EaseMyTrip.com takes some admiring initiatives to protect the information of its users. Using modern technology, several security measures and strict policy guidelines, we protect your privacy and prevent from its unauthorized access or any discloser. 
