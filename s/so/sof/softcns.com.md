@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the softcns.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511080012id_/http%3A//www.softcns.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softcns.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217031731id_/http%3A//www.softcns.com/info/privacy.asp) for the most accurate reproduction.*
 
-# SoftCns.com Privacy policy
+# SoftCns.com Privacy Policy
 
-Offer over 20,000 discount software coupon codes; Save over $50,000 for our customers in past 3 month! 
-
-**[Home](http://www.softcns.com/) > **
+[Home](http://www.softcns.com/) > Privacy policy
 
 Softcns.com is so serious to regard the privacy of our visitors and customers. We just gather certain types of information of our users. This privacy policy will make you known what types of information we gather, how we use it, and what measure of the security is.
 
@@ -18,6 +16,6 @@ Softcns.com may use cookies, and that is just in order to help our users ease th
 
 Softcns.com has a proper security measure of Security. It protects the users from the loss, misuse and alteration of the information under our control. Use of software author names, addresses and any other personal information is used only in our announcements and is not released to third parties nor do we send any mail to the return addresses offering or soliciting any services.
 
-Softcns.com contains links to other sites such as vendor site. Softcns.com makes no guarantees regarding their content or practices, and is not responsible for the privacy practices or the content of such Websites. 
+Softcns.com contains links to other sites such as vendor site. Softcns.com makes no guarantees regarding their content or practices, and is not responsible for the privacy practices or the content of such Websites.
 
 [](https://certs.websiteprotection.com/sealws/?sealId=4df08135-2ab0-4a91-be14-56b00a0607d7&pop=true)
