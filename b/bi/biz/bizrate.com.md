@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bizrate.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625102917id_/http%3A//about.bizrate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizrate.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217073706id_/http%3A//about.bizrate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - About Bizrate
 
 ### Shopzilla, Inc. Privacy Policy
 
-Effective Date & Last Modified March 22, 2012.
+Effective Date & Last Modified October 25, 2012.
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING OUR WEBSITES OR SERVICES. BY ACCESSING OR USING OUR WEBSITE OR OUR SERVICES (OTHER THAN TO READ THIS PRIVACY POLICY FOR THE FIRST TIME), YOU AGREE TO THIS PRIVACY POLICY. 
 
@@ -16,7 +16,7 @@ Shopzilla, Inc. ("Shopzilla") operates online shopping websites, including Shopz
 
 **SUMMARY OF KEY PRINCIPLES **
 
-We thought it would be helpful to set out briefly the key ways in which we use your information and how we seek to protect privacy.  Of course, you should read the terms of our full Privacy Policy.
+We thought it would be helpful to set out briefly the key ways in which we use your information and how we seek to protect privacy.  Of course, you should read the terms of our full Privacy Policy. **  **
 
   * We typically collect two kinds of information about you: (a) information that you provide that personally identifies you (e.g., full name or phone number); and (b) information that does not personally identify you (e.g., your IP address or type of browser);
   * This information is transmitted to, held and processed by us in the United States of America;
@@ -48,13 +48,14 @@ We collect two kinds of information related to you: (a) Personally Identifiable 
 
 We may disclose PII and Non-PII to:
 
- (1) our third party service providers who perform functions on our behalf in connection with the operation of the Sites or Services e.g., providers who host and manage data, process credit card orders, deliver our merchandise, etc;  
+(1) our third party service providers who perform functions on our behalf in connection with the operation of the Sites or Services e.g., providers who host and manage data, process credit card orders, deliver our merchandise, etc;  
 
-(2) participating sponsors to a program or promotion you enter through our Sites or Services; 
+ (2) participating sponsors to a program or promotion you enter through our Sites or Services; 
 
 (3)our parent company, subsidiaries or other affiliated companies (“ affiliated companies”) for operational, marketing and promotional purposes; 
 
-(4) co-promotional partners and others with whom we have marketing or other relationships ;
+(4) co-promotional partners and others with whom we have marketing or other relationships ;   
+
 
 (5) participating merchants where you consent at the time you submit PII to us when using the interactive features of our Sites such as surveys and reviews concerning our participating merchants; and
 
@@ -112,4 +113,6 @@ This Privacy Policy may change from time to time to reflect our changing busines
 This Privacy Policy and our [Terms of Use](http://about.shopzilla.com/user-agreement) , both  as posted on our Websites and through our Services, contain all of the material terms of regarding your use of our Websites and Services.   No summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post it to our Websites and Services.
 
   
-**© 2011 Shopzilla, Inc. **
+**© 2012 Shopzilla, Inc. **
+
+12200 W. Olympic Blvd, Suite 300, CA 90064 | help@bizrate.com | 310.571.1235
