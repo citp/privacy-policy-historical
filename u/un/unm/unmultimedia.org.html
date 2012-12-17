@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the unmultimedia.org privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630010713id_/http%3A//www.unmultimedia.org/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the unmultimedia.org privacy policy that was archived on 2012-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121217184812id_/http%3A//www.unmultimedia.org/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>United Nations Multimedia, Radio, Photo and Television</title>
@@ -234,7 +234,8 @@
 
 		.untv_radio_spotlight {
 			margin: 1.25em 0 0 0;
-			min-height: 21.875em ;	
+			/* min-height: 21.875em ; */
+			min-height: 35.875em;
 		}
 
 		.untv_spotlight ul li, .radio_spotlight ul li {
@@ -292,7 +293,7 @@
 
 		.loading {
 			background-color: transparent;
-		        /*background-image: url(http://216.33.110.21/en/photo/loader1.gif);*/
+		        background-image: url(http://216.33.110.21/en/photo/loader1.gif);
 		        background-repeat: no-repeat;
 			background-position: center center;
 			height: 8.75em;
@@ -310,6 +311,73 @@
 
 	</style>
 
+       <script type="text/javascript" src="http://www.unmultimedia.org/GUI/app/jsc/UNPHOTO_v2.0_livecalls.js"> </script>
+        <script type="text/javascript" src="http://www.unmultimedia.org//GUI/app/jsc/UNPHOTO_v2.0_main.js"> </script>
+
+
+
+<script type="text/javascript">
+
+<!--
+if(window.XMLHttpRequest && !(window.ActiveXObject)) {
+
+        try {
+                xHRObject = new XMLHttpRequest();
+        } catch(e) {
+                xHRObject = false;
+        }
+
+} else if(window.ActiveXObject) {
+
+        try {
+                xHRObject = new ActiveXObject("Msxml2.XMLHTTP");
+        } catch(e) {
+                try {
+                        xHRObject = new ActiveXObject("Microsoft.XMLHTTP");
+                } catch(e) {
+                        xHRObject = false;
+                }
+        }
+
+}
+
+function sendSplashRequest(mkey, key, query, r) {
+
+	xHRObject.open("GET", "/photo/unmultimedia_slideshow.jsp?mkey=" + mkey + "&key=" + key + "&r=" + r + "&query=" + query , true);
+
+	xHRObject.onreadystatechange = getSplashData;
+
+	xHRObject.send(null);
+
+}
+
+
+
+function getSplashData() {
+
+	if (xHRObject.readyState == 4 && xHRObject.status == 200) {
+
+		var serverText = xHRObject.responseText;
+
+		document.getElementById('spotlightJ').innerHTML = serverText;
+
+	} else {
+
+		document.getElementById('spotlightJ').innerHTML = '<div class="loading"></div>';	
+
+	}
+
+}
+
+
+
+
+-->
+</script>
+
+
+
+
 </head>
 
 <body class="en">
@@ -318,7 +386,8 @@
 	
 		<!-- skip navigation -->
 		<div class="invisible">
-			<a href="#content">Skip navigation</a>
+			<a href="#content">Skip navigation
+</a>
 		</div>
 
 		<h1 class="invisible"></h1>
@@ -390,6 +459,15 @@
 		
 		<div id="sideNav">
 
+
+                        <h2 class="browseheader">
+                               	News 
+                        </h2>
+
+                        <ul class="browse">
+                                <li><a href="http://www.un.org/news/">UN News Centre</a></li>
+                        </ul>
+
                         <h2 class="browseheader">
                                 Photo
                         </h2>
@@ -413,11 +491,12 @@
                         </h2>
 
                         <ul class="browse">
-				<li><a href="http://www.un.org/webcast/">Webcast</a></li>
+				<li><a href="http://www.unmultimedia.org/tv/webcast/">Webcast</a></li>
                                 <li><a href="http://www.unmultimedia.org/tv/unifeed/">UNifeed</a></li>
-                                <li><a href="http://www.un.org/av/unfamily/unia.html">UN in Action</a></li>
-                                <li><a href="http://www.un.org/av/unfamily/21stcentury.html">21st Century</a></li>
-                                <li><a href="http://www.un.org/av/unfamily/yir2009.html">Year in Review</a></li>
+                                <li><a href="http://www.unmultimedia.org/tv/unia/">UN in Action</a></li>
+                                <li><a href="http://www.unmultimedia.org/tv/21stcentury/">21st Century</a></li>
+				<li><a href="http://www.unmultimedia.org/tv/blog/">Diaries from the Field</a></li>
+                                <li><a href="http://www.unmultimedia.org/tv/webcast/2011/12/un-year-in-review-2011.html">Year in Review</a></li>
                                 <li><a href="http://www.unmultimedia.org/tv/spots/">TV Spots</a></li>
                         </ul>
 
@@ -436,7 +515,7 @@
                         </h2>
 
                         <ul class="browse">
-
+				<li><a href="http://twitter.com/UNmultimedia">UN Multimedia Twitter</a></li>
                                 <li><a href="http://www.flickr.com/photos/un_photo/">UN Photo Flickr</a></li>
                                 <li><a href="http://twitter.com/UN_Photo">UN Photo Twitter</a></li>
                                 <li><a href="http://www.facebook.com/pages/United-Nations-Photo/118157316540">UN Photo Facebook</a></li>
@@ -453,7 +532,7 @@
 
                         <ul class="browse" id="services">
                                 <li><a href="about.html">Information for Broadcasters</a></li>
-                                <li><a href="http://www.un.org/av/unfamily/contacts.htm">Contact Us</a></li>
+                                <li><a href="http://www.unmultimedia.org/contact-us.html">Contact Us</a></li>
                         </ul>
 
 
@@ -461,13 +540,18 @@
 		
 		<div id="content">
 
-			<div class="photo_header">
-				<div class="title">United Nations' Privacy Notice</div>
-			</div>
 
-			<p>
-				By accessing this site, certain information about the User, such as Internet protocol (IP) addresses, navigation through the Site, the software used and the time spent, along with other similar information, will be stored on United Nations servers. These will not specifically identify the User. The information will be used internally only for web site traffic analysis. If the User provides unique identifying information, such as name, address and other information on forms stored on this Site, such information will be used only for statistical purposes and will not be published for general access. The United Nations, however, assumes no responsibility for the security of this information.
-			</p>
+
+
+
+
+				
+	<p>
+		By accessing this site, certain information about the User, such as Internet protocol (IP) addresses, navigation through the Site, the software used and the time spent, along with other similar information, will be stored on United Nations servers. These will not specifically identify the User. The information will be used internally only for web site traffic analysis. If the User provides unique identifying information, such as name, address and other information on forms stored on this Site, such information will be used only for statistical purposes and will not be published for general access. The United Nations, however, assumes no responsibility for the security of this information.
+	</p>
+
+
+
 
 		</div>
 
@@ -475,7 +559,7 @@
 
 			<ul>
 				<li>
-					<a href="http://www.un.org/av/unfamily/contacts.htm">
+					<a href="http://www.unmultimedia.org/contact-us.html">
 						Contact Us
 					</a>
 				</li>
