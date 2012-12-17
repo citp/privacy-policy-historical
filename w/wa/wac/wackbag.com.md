@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wackbag.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619172309id_/http%3A//www.wackbag.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wackbag.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217171047id_/http%3A//www.wackbag.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -17,17 +17,13 @@ The information we collect is used for internal review and is then discarded.
 
 With respect to cookies: We use cookies to store visitors preferences.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address or visiting [the UserCP](https://web.archive.org/profile.php?do=editoptions) and un-check the option to 'receive e-mail from administrators'.
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address or visiting [the UserCP](https://web.archive.org/account/contact-details) and un-check the option to 'receive site mailings'.
 
 With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically, we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address. 
-
-Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries).
-
-Consumers can access this information by e-mail us at the above address or sending a private message to the Staff. 
 
 Upon request we offer visitors the ability to have inaccuracies corrected in communications that the consumer/visitor has directed to the site.
 
