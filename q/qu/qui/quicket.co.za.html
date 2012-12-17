@@ -1,59 +1,36 @@
-<!--The following is the downloaded HTML source of the quicket.co.za privacy policy that was archived on 2012-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618184440id_/http%3A//www.quicket.co.za/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quicket.co.za privacy policy that was archived on 2012-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121217191439id_/http%3A//www.quicket.co.za/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head><meta charset="utf-8">
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width"><title>
+	Privacy Policy | Quicket
+</title><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"><link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+    <!-- Included CSS Files -->
+    
+    <link rel="stylesheet" href="//d8x8xc8zwewj4.cloudfront.net/includes/site/stylesheets/cached/cached_css.css"><link rel="Stylesheet" href="//d8x8xc8zwewj4.cloudfront.net/includes/jqueryui/jquery-ui-1.8.23.custom.css"><link rel="Stylesheet" href="//d8x8xc8zwewj4.cloudfront.net/includes/fancybox/jquery.fancybox.css">
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="/includes/foundation/stylesheets/ie.css" />
+  <![endif]-->
+    
+    <link rel="Stylesheet" href="//d8x8xc8zwewj4.cloudfront.net/includes/site/stylesheets/Site.css">
+    
+
+    <!--[if lt IE 7]>
+	<style type="text/css">
+		#wrapcontainer {display:table;height:100%}
+	</style>
+<![endif]-->
+
+    
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//d8x8xc8zwewj4.cloudfront.net/includes/site/javascript/cached/cached_js.js"></script>
+    
+    <!-- IE Fix for HTML5 Tags -->
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
     
     
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-	Quicket - Privacy Policy
-</title><meta property="fb:page_id" content="203195039742896"><link rel="stylesheet" type="text/css" href="/styles/cached_css.css?r=3D5BE1CF1796BF7EFE903DEFD772FF2D"><script type="text/javascript" async="" src="https://oggchat2.icoa.com/js/oggwindow.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/cached_js.js?r=798EDAF338C5C475460A9DC5BCA04B8A"></script><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <script type="text/javascript">
-        $(document).ready(function () {
-            $(".error-message").click(function () { $(this).fadeOut("slow"); });
-            $(".success-message").click(function () { $(this).fadeOut("slow"); });
-            $('.default-value').each(function () {
-                var default_value = $(this).attr("quicketDefault");
-                if (this.value == "") {
-                    this.value = default_value;
-                }
-                $(this).focus(function () {
-                    if (this.value == default_value) {
-                        this.value = '';
-                    }
-                });
-                $(this).blur(function () {
-                    if (this.value == '') {
-                        this.value = default_value;
-                    }
-                });
-            });
-
-            
-        });
-
-        var logoutFacebook = function () {
-            FB.logout();
-        };
-
-        function DisplayHideValidator(val) {
-            if (val.isValid) { $("#ErrorMessageWrapper").fadeOut("slow"); }
-            else { ValidationSummaryOnSubmit(); $("#ErrorMessageWrapper").fadeIn("slow"); }
-        }
-    </script>
-    <style type="text/css">
-        .error-message ul li{text-align:center;}
-    </style>
-    
-    
-<style type="text/css">
-    .privacy-policy{}
-    .privacy-policy p{text-align:justify;}
-    
-    
-    h3{font-size:16px;font-weight:bold;margin-bottom:10px;}
-
-</style>
-
 
     <script type="text/javascript">
 
@@ -69,558 +46,482 @@
 
     </script>
 </head>
-<body>
-    <div id="fb-root">
-    <script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
-    <script type="text/javascript">
-        var facebookLoggedIn = false;
-        
-        window.fbAsyncInit = function () {
-            
-            FB.init({ appId: '176333702418869',
-                status: true,
-                cookie: true,
-                xfbml: true,
-                oauth: true
-            });
-            $(window).triggerHandler('fbAsyncInit')            
-            var button = $("#fb-auth");
-            button.show();
-            var fbLoading = $("#fb-loading");
-            button.unbind('click');
-            
-            button.click(function(e){
-                fbLoading.show();
-                button.hide();
-                FB.getLoginStatus(function(response){
-                    if (response.authResponse){
-                        //User logged in, just redirect
-                        FB.api('/me', function (response) {
-                            
-                            FB.api('/me?fields=third_party_id',function(rr){
-                                
-                                quicket.FacebookLogin(response.username, response.first_name, response.gender, response.last_name, response.id, response.email,rr.third_party_id, function (r) {
-                                    facebookLoggedIn = true;   
-                                    fbLoading.hide();
-                                    button.show();
-                                    if (typeof window.initInvites == 'function') {
-                                        initInvites(true);
-                                    }       
-                                    if (r == "Created New User")
-                                    {
-                                       _gaq.push(['_trackEvent', 'Registration', 'Click', '']);
-                                    }    
-                                    if (r == "emailexists")
-                                    {
-                                        alert("Cannot login with or register Facebook, your email address already exists on our system, please sign in using Quickets signin process");                                        
-                                        return;
-                                    }
-                                     
-                                });
-                            });
-                        });
-                        
-                    }
-                    else
-                    {
-                        //User either loggedin and not connected or both, logout
-                        logoutFacebook();
-                        FB.login(function (response) {
-                            if (response.authResponse) {
-                                FB.api('/me', function (response) {
-                                    console.log(response);
-                                    FB.api('/me?fields=third_party_id',function(rr){
-                                        
-                                        quicket.FacebookLogin(response.username, response.first_name, response.gender, response.last_name, response.id, response.email,rr.third_party_id, function (r) {
-                                            facebookLoggedIn = true;   
-                                            fbLoading.hide();
-                                            button.show();                             
-                                            if (typeof window.initInvites == 'function') {
-                                                initInvites(true);
-                                            }
-                                            if (r == "Created New User")
-                                            {
-                                                _gaq.push(['_trackEvent', 'Registration', 'Click', '']);
-                                            }  
-                                            if (r == "emailexists")
-                                            {
-                                                alert("Cannot login or register with Facebook, your email address already exists on our system, please sign in using Quickets signin process.");
-                                                return;
-                                            }
-                                             
-                                        
-                                        });
-                                    });
-                                });
-                                
-                            } else {
-                                //user cancelled login or did not grant authorization
-                                facebookLoggedIn = false;
-                                fbLoading.hide();
-                                button.show();
-                            }
-                        }, { scope: 'email,publish_stream' });
-                    } 
-                });
-                });
-        };
-    </script>
-    <form method="post" action="privacy-policy.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAmYPZBYCAgEPZBYaAgcPFgIeBWNsYXNzBQRsb2dvZAINDxYCHgtfIUl0ZW1Db3VudAIGFgxmD2QWAgIBDw8WAh4EVGV4dAVOPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cucXVpY2tldC5jby56YS9ob3ctaXQtd29ya3MuYXNweCI+aG93IGl0IHdvcmtzPC9hPjwvbGk+ZGQCAQ9kFgICAQ8PFgIfAgVPPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cucXVpY2tldC5jby56YS9saXN0cHJvZHVjdHMuYXNweCI+YnJvd3NlIGV2ZW50czwvYT48L2xpPmRkAgIPZBYCAgEPDxYCHwIFVzxsaT48YSBocmVmPSJodHRwOi8vd3d3LnF1aWNrZXQuY28uemEvYWNjb3VudC9ldmVudHMvY3JlYXRlLmFzcHgiPmNyZWF0ZSBldmVudDwvYT48L2xpPmRkAgMPZBYCAgEPDxYCHwIFTjxsaT48YSBocmVmPSJodHRwOi8vd3d3LnF1aWNrZXQuY28uemEvcXVpY2tldC1zZWN1cml0eS5hc3B4Ij5zZWN1cml0eTwvYT48L2xpPmRkAgQPZBYCAgEPDxYCHwIFPjxsaT48YSBocmVmPSJodHRwOi8vd3d3LnF1aWNrZXQuY28uemEvZmVlcy5hc3B4Ij5mZWVzPC9hPjwvbGk+ZGQCBQ9kFgICAQ8PFgIfAgVUPGxpIGNsYXNzPSJyaWdodCI+PGEgaHJlZj0iaHR0cDovL3d3dy5xdWlja2V0LmNvLnphL2NvbnRhY3R1cy5hc3B4Ij5jb250YWN0PC9hPjwvbGk+ZGQCEQ8PFgIeC05hdmlnYXRlVXJsBRlodHRwOi8vd3d3LnF1aWNrZXQuY28uemEvZGQCEw8PFgIfAwUqaHR0cDovL3d3dy5xdWlja2V0LmNvLnphL2hvdy1pdC13b3Jrcy5hc3B4ZGQCFQ8PFgIfAwUiaHR0cDovL3d3dy5xdWlja2V0LmNvLnphL2ZlZXMuYXNweGRkAhcPDxYCHwMFJ2h0dHA6Ly93d3cucXVpY2tldC5jby56YS9jb250YWN0dXMuYXNweGRkAhkPDxYCHwMFM2h0dHA6Ly93d3cucXVpY2tldC5jby56YS9hY2NvdW50L2V2ZW50cy9jcmVhdGUuYXNweGRkAhsPDxYCHwMFKmh0dHA6Ly93d3cucXVpY2tldC5jby56YS9saXN0cHJvZHVjdHMuYXNweGRkAh0PDxYCHwMFJmh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9RdWlja2V0LmNvLnphZGQCHw8PFgIfAwUhaHR0cHM6Ly93d3cudHdpdHRlci5jb20vUXVpY2tldHNhZGQCIQ8PFgIfAwUuaHR0cDovL3d3dy5xdWlja2V0LmNvLnphL3F1aWNrZXQtc2VjdXJpdHkuYXNweGRkAiMPDxYCHwMFLGh0dHA6Ly93d3cucXVpY2tldC5jby56YS9wcml2YWN5LXBvbGljeS5hc3B4ZGQCJQ8PFgIfAwUyaHR0cDovL3d3dy5xdWlja2V0LmNvLnphL3Rlcm1zLWFuZC1jb25kaXRpb25zLmFzcHhkZGTBc4AbCjXhRY5eBwMggTMosVJE7w==">
-
-    <div id="ErrorMessageWrapper" class="error-message" style="display: none;">
-        <span id="ErrorMessage"></span>
-    </div>
+<body>    
     
-    <div id="SuccessMessageWrapper" class="success-message" style="display: none;">
-        <span id="SuccessMessage"></span>
-    </div>
-    <div class="bodywrap">
-        <div id="bgheader">
-            <div id="header">
-                <div id="divLogo" class="logo">
-                    <a href="/">Quicket</a></div>
-                <div class="caption">
-                    <h2>
-                        The best way to sell tickets and
-                        <br>
-                        promote your event online.</h2>
+    <form method="post" action="privacy-policy.aspx" id="theform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODk5OTg5MTY2D2QWAmYPZBYCZg9kFgICBQ9kFgICAQ9kFgRmDxYCHgRUZXh0BU48YSBocmVmPSJodHRwOi8vd3d3LnF1aWNrZXQuY28uemEvYWNjb3VudC9hdXRoZW50aWNhdGlvbi9sb2dpbi5hc3B4Ij5Mb2dpbjwvYT5kAgMPFgIeB1Zpc2libGVoZGRF+ltZkhFFqEs8dpm4bXFIORhKBg==">
+
+    
+    <div id="wrapcontainer">
+        <div id="headercontainer">
+            <div class="row">
+                <div class="four columns mobile-two">
+                    <a href="/" class="track-click" data-ga-category="HomePage" data-ga-action="MasterPage" data-ga-label="Logo" id="headerlogo">
+                        <img src="//d8x8xc8zwewj4.cloudfront.net/content/images/master/logo.png">
+                    </a>
                 </div>
-                <div class="actionbuttonsmall buttons actionbuttonnoshadow">
-                    
-                            <div class="lightgreen floatl">
-                                
-                                    <a onclick="_gaq.push(['_trackEvent', 'SignUp', 'MasterPage', 'Button']);" href="/account/register.aspx?returnurl=http%3a%2f%2fwww.quicket.co.za%2fprivacy-policy.aspx">register</a>
-                                
+                <div class="eight columns mobile-two text-right">
+                    <div class="row">
+                        <div class="twelve columns">
+                            <div class="right hide-for-small" id="loginlink">
+                                <a href="http://www.quicket.co.za/account/authentication/login.aspx">Login</a>
                             </div>
-                            <div class="darkgreen floatl" style="margin-left: 10px;">
-                                
-                                <a href="/account/login.aspx?returnurl=http%3a%2f%2fwww.quicket.co.za%2fprivacy-policy.aspx" onclick="_gaq.push(['_trackEvent', 'Login', 'MasterPage', 'Button']);logoutFacebook();">login</a>
-                                
-                            </div>
-                        
-                    <div class="clear h10">
+                        </div>
                     </div>
-                    
+                    <div class="row navrow">
+                        <div class="twelve columns">
+                            <ul class="nav-bar mainnav">
+                                <li class="enditem hide-for-small">
+                                    <a id="Body_lnkContact" class="track-click" data-ga-category="ContactPage" data-ga-action="MasterPage" data-ga-label="Menu" href="http://www.quicket.co.za/contactus.aspx"><span>Contact</span></a></li>
+                                <li id="Body_liNotLoggedIn" class="hide-for-small">
+                                    <a id="Body_lnkCreateEvent" class="track-click" data-ga-category="CreateEvent" data-ga-action="MasterPage" data-ga-label="Menu" href="http://www.quicket.co.za/account/events/create/step1.aspx"><span>Create event</span></a></li>
+                                
+                                <li class="hide-for-small">
+                                    <a id="Body_lnkPricing" class="track-click" data-ga-category="FeesPage" data-ga-action="MasterPage" data-ga-label="Menu" href="http://www.quicket.co.za/fees.aspx"><span>Pricing</span></a></li>
+                                <li class="hide-for-midsmall-down">
+                                    <a id="Body_lnkFeatures" class="track-click" data-ga-category="HowItWorksPage" data-ga-action="MasterPage" data-ga-label="Menu" href="http://www.quicket.co.za/how-it-works.aspx"><span>How it works</span></a></li>
+                                <li>
+                                    <a id="Body_lnkViewEvents" class="hide-for-small" data-ga-category="EventList" data-ga-action="MasterPage" data-ga-label="Menu" href="http://www.quicket.co.za/events/south-africa/"><span>View events</span></a>
+                                    <a data-ga-category="EventList" data-ga-action="MasterPage" data-ga-label="MenuMobile" href="http://www.quicket.co.za/events/south-africa/" class="white button radius medium show-for-small track-click" style="color:#333">Find events</a>
+                                    </li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-        <!-- header -->
-        <div id="bgnavbar">
-            <div id="navbar">
-                <ul>
-                    
-                            <span id="rptrMenu_lblLnk_0"><li><a href="http://www.quicket.co.za/how-it-works.aspx">how it works</a></li></span>
-                        
-                            <span id="rptrMenu_lblLnk_1"><li><a href="http://www.quicket.co.za/listproducts.aspx">browse events</a></li></span>
-                        
-                            <span id="rptrMenu_lblLnk_2"><li><a href="http://www.quicket.co.za/account/events/create.aspx">create event</a></li></span>
-                        
-                            <span id="rptrMenu_lblLnk_3"><li><a href="http://www.quicket.co.za/quicket-security.aspx">security</a></li></span>
-                        
-                            <span id="rptrMenu_lblLnk_4"><li><a href="http://www.quicket.co.za/fees.aspx">fees</a></li></span>
-                        
-                            <span id="rptrMenu_lblLnk_5"><li class="right"><a href="http://www.quicket.co.za/contactus.aspx">contact</a></li></span>
-                        
-                </ul>
+        <div id="maincontainer">            
+            
+    <div class="pageHeader">
+        <div class="row">
+            <div class="twelve columns">
+                <h1>
+                    Quicket Privacy Policy</h1>
             </div>
-        </div>
-        <!-- navbar -->
-        <div id="wrapper">
-            <div id="content">
-                <div class="clear h25">
-                </div>
-                    
-
-    
-<div class="privacy-policy">
-    <h1>Quicket Privacy Policy:</h1> <p>
-
-Welcome to the www.Quicket.co.za website (including all webpages, subdomains and
-subparts therein contained, the "Site") of Munyhub Online Ticketing (Pty) Ltd t/a Quicket
-("Quicket", "we", "us" and/or "our"). The Site has been created (i) to provide information
-about Quicket, (ii) to provide customized online event management, registration and ticketing
-services (the "Quicket Services"), and (iii) to provide information about events listed on the
-Site.
-<br><br>
-This Privacy Policy sets forth Quicket's policy with respect to information, including
-personally identifiable information ("Personal Data"), that is collected from Site users and
-visitors (including through those users' and visitors' agents) ("you" or "your"), including (i)
-registered users who are event organizers and planners ("Organizers"), (ii) registered users
-who want to purchase tickets to, register for or donate to events (whether free or paid) listed
-by Organizers on the Site ("Buyers"), and (iii) other non-Organizer users or visitors to the
-Site ("other non-Organizers").
-<br><br>
-Quicket takes the privacy of your Personal Data and other information seriously. Because of
-that, Quicket has created this Privacy Policy. Please read this Privacy Policy as it includes
-important information regarding your Personal Data and other information.
-<br><br>
-If you have any questions or concerns, please do not hesitate to contact us by using the
-following link: http://www.quicket.co.za/contactus.aspx.
-</p>
-<h2>Consent:</h2><p>
-
-By using the Site or allowing someone to use the Site on your behalf, you are consenting to
-our collection, use, disclosure, transfer and storage in accordance with this Privacy Policy of
-any Personal Data or other information received by Quicket as a result of such use.
-</p>
-<h2>Information We Collect:</h2><p>
-
-When you interact with us through the Site, we may collect Personal Data and other
-information from you, as further described below:
-</p>
-<h3>1. Personal Data:</h3>
-<p>
-Organizers: We collect Personal Data from you when you voluntarily provide such
-information on the Site, such as when you register for access to the Quicket Services as an
-Organizer, contact us with inquiries, respond to one of our surveys or use certain Quicket
-Services. The Personal Data we collect includes without limitation your name, email address
-and other personally identifiable information. In addition, if you use our payment processing
-services, we will collect financial information from you (e.g., your bank account information)
-as necessary to facilitate payments.
-<br><br>
-Buyers and other non-Organizers: We collect Personal Data from you when you
-voluntarily provide such information on the Site (including event registration pages within
-<br><br>
-the Site), such as when you register for access to the Quicket Services (whether as an
-Organizer or otherwise), register for an event as a Buyer, contact us with inquiries, respond
-to one of our surveys or use certain Quicket Services. The Personal Data we collect includes
-without limitation your name, email address and other personally identifiable information.
-If you register for a paid event, we will collect financial information from you (e.g., your
-credit card number and expiration date, billing address, etc) some of which may constitute
-Personal Data.
-<br><br>
-Privacy Policy Links: We make an effort to provide a link to this Privacy Policy in the footer
-of every page on the Site, including those pages on which Personal Data is collected.
-</p>
-<h3>2. Non-Personal Data:</h3>
-<p>
-Non-Identifiable Data: When you interact with the Site, we collect certain personally non-
-identifiable information ("Non-Personal Data"). The Non-Personal Data we collect includes
-without limitation Internet Protocol (IP) addresses, domain names of your Internet Service
-Provider, your approximate geographic location, a record of the Site pages that you visit, the
-time of your visits and aggregated Personal Data that cannot be used to specifically identify
-you. Such information, which is collected passively using various technologies is strictly for
-statistical purposes and cannot, in and of itself, be used to specifically identify you.
-<br><br>
-Cookies: In operating the Site, we use a technology called "cookies." A cookie is a piece of
-information that the computer that hosts our Site gives to your browser when you access the
-Site. Our cookies help provide additional functionality to the Site and help us analyse Site
-usage more accurately. For instance, our Site may set a cookie on your browser that allows
-you to access the Site without needing to remember and then enter a password more than
-once during a visit to the Site. These cookies may be used to tailor content you see on the
-Site as well as other sites that you may visit in the future. Through your web browser's option
-settings you may be able (i) to receive notifications when you are receiving new cookies, (ii)
-to disable cookies or (iii) to delete cookies. Please refer to your web browser's help section
-for information on how to do this. We recommend that you leave cookies turned on because
-they allow you to take advantage of some of the Site's features.
-<br><br>
-Aggregated Personal Data: In an on-going effort to better understand and serve the
-users of the Site and Quicket Services, Quicket often conducts research on its customer
-demographics, interests and behaviour based on Personal Data and other information that
-we have collected. This research may be compiled and analysed on an aggregate basis
-and this aggregate information is strictly for statistical purposes and does not identify you
-personally and therefore is considered and treated as Non-Personal Data under this Privacy
-Policy.
-</p>
-<h2>Our Use of Information That We Collect:</h2>
-
-<h3>1. Personal Data:</h3>
-<p>
-Quicket uses the Personal Data we collect in a manner that is consistent with this Privacy
-Policy. Quicket may use the Personal Data as follows:
-</p><ul>
-<li>Specific Reason: If you provide Personal Data for a certain reason, we may use the
-Personal Data in connection with the reason for which it was provided. For instance, if you
-contact us by e-mail, we will use the Personal Data you provide to answer your question or
-resolve your problem and will respond to the email address from which the contact came.
-</li>
-<li>Access and Use: If you provide Personal Data in order to obtain access to or use of the
-Site or Quicket Services or any functionality thereof, we will use your Personal Data to
-provide you with access to or use of such services or functionality and to monitor your use
-of such services or functionality. For instance, if you supply payment information (e.g., bank
-account or credit card information) to the Site for the purpose of purchasing tickets as a
-Buyer or processing payments as an Organizer, Quicket will use that information to facilitate
-such purchase or process such payments.</li>
-
-<li>Internal Business Purposes: Quicket may use your Personal Data for internal business
-purposes including without limitation to help us improve the content and functionality of the
-Site, to better understand our users, to improve the Quicket Services, to protect against,
-identify or address fraudulent activities, to enforce our Terms of Service, to manage your
-account and provide you with customer service, and to generally manage the Site, Quicket
-Services and our business.</li>
-
-<li>Marketing: Quicket may use your Personal Data to contact you in future marketing and
-advertising purposes, including without limitation to inform you about services or events
-we believe might be of interest to you, to develop promotional or marketing materials and
-provide those materials to you, and to display content and advertising on the Site that we
-believe might be of relevance to you. In particular, Organizers should note that Quicket may
-use information it receives or collects regarding Buyers (including without limitation via an
-Organizer's event registration page) in accordance with the terms of this Privacy Policy,
-including in the manner set forth above.</li>
-</ul>
-If Quicket intends on using any Personal Data in any manner that is not consistent with this
-Privacy Policy, you will be informed of such anticipated use prior to or at the time at which
-the Personal Data is collected.
-<p></p>
-<h3>2. Non-Personal Data:</h3>
-<p>
-Because Non-Personal Data cannot be used to personally identify you, Quicket may use
-such information for any lawful purpose.
-</p>
-<h2>Our Disclosure of Information That We Collect:</h2>
-
-<h3>1. Personal Data:</h3>
-<p>
-Quicket is not in the business of selling your Personal Data. We consider this information to
-be a vital part of our relationship with you. Therefore, Quicket will not sell your Personal Data
-to third parties, including third party advertisers. There are, however, certain circumstances
-in which we may disclose, transfer or share your Personal Data with certain third parties
-without your consent, as set forth below:
-<br><br>
-Business Transfers: As we develop our business, we might sell or buy businesses or
-assets. In the event of a corporate sale, merger, reorganization, dissolution or similar
-event, Personal Data may be part of the transferred assets. Subsidiaries and Affiliates:
-We may also share your Personal Data with our subsidiaries and/or affiliates for purposes
-consistent with this Privacy Policy. Our subsidiaries and affiliates will be bound to maintain
-that Personal Data in accordance with this Privacy Policy.
-<br><br>
-Agents, Consultants and Related Third Parties: Quicket, like many businesses,
-sometimes engages other companies to perform certain business-related functions.
-Examples of such functions include mailing information, ticket fulfilment, maintaining
-databases and processing payments. When we engage another company to perform such
-functions, we may provide them with information, including Personal Data, in connection with
-their performance of such functions.
-<br><br>
-Organizers: When you purchase tickets to, register for or donate to an event on our Site,
-you consent to our providing your Personal Data to the Organizers of such event. These
-Organizers are not bound to treat your Personal Data in accordance with this Privacy Policy.
-You agree that Quicket is not responsible for the actions of these Organizers with respect to
-your Personal Data. It is important that you review the applicable policies of the Organizers
-of an event before providing Personal Data or other information in connection with that
-event.
-<br><br>
-Legal Requirements: Quicket may disclose your Personal Data if required to do so by law
-(including, without limitation responding to a subpoena or request from law enforcement,
-court or government agency) or in the good faith belief that such action is necessary (i) to
-comply with a legal obligation, (ii) to protect and defend the rights or property of Quicket,
-(iii) to act in urgent circumstances to protect the personal safety of users of the Site or the
-public, or (iv) to protect against legal liability.
-</p>
-<h3>2. Non-Personal Data:</h3>
-<p>
-Because Non-Personal Data cannot be used to personally identify you, Quicket may
-disclose, transfer or share Non-Personal Data for any lawful purpose.
-</p>
-<h2>Your Choices:</h2><p>
-
-You have several choices available when it comes to your Personal Data:
-<br><br>
-Limit the Personal Data You Provide: You can use the Site without providing any Personal
-Data or with limiting the Personal Data you provide. If you choose not to provide any
-Personal Data or limit the Personal Data you provide, you may not be able to use certain
-Site functionality and/or Quicket Services. For instance, in order to open a Quicket account
-or to buy or sell tickets, your name and email address will be required.
-<br><br>
-Opt Out: You can "opt out" of receiving Quicket newsletter emails by clicking on
-the "unsubscribe" link in newsletter emails. It may take up to 24 hours for us to process
-<br><br>
-an unsubscribe request. Note that you cannot unsubscribe from Quicket Service
-communications via the Site. You can stop receiving Quicket Service communications only
-by contacting us at http://www.Quicket.co.za/contactus.aspx and closing your account. Even
-after you opt out of all communications, Quicket will retain your Personal Data and Non-
-Personal Data in accordance with this Privacy Policy, however, we will no longer use it to
-contact you. Organizers who have received your Personal Data in accordance with this
-Privacy Policy may continue to use that Personal Data to contact you in accordance with
-their own privacy policies, but they may not use Quicket's system to do so.
-</p>
-<h2>Exclusions:</h2><p>
-This Privacy Policy does not apply to any Personal Data collected by Quicket other
-than Personal Data collected through the Site. This Privacy Policy shall not apply to any
-unsolicited information you provide to Quicket or another user or visitor through the Site
-or through any other means. This includes, but is not limited to, information posted to any
-public areas of the Site, such as bulletin boards, any ideas for new products or modifications
-to existing products, claim or demand letters, and other unsolicited submissions
-(collectively, "Unsolicited Information"). All Unsolicited Information shall be deemed to be
-non-confidential and Quicket shall be free to reproduce, use, disclose, distribute and exploit
-such Unsolicited Information without limitation or attribution.
-</p>
-<h2>Children:</h2><p>
-Quicket does not knowingly collect Personal Data from children under the age of 18. If you
-are under the age of 18, please do not submit any Personal Data through the Site. We
-encourage parents and legal guardians to monitor their children's Internet usage and to help
-enforce our Privacy Policy by instructing their children never to provide Personal Data on
-the Site without their permission. If you have reason to believe that a child under the age of
-18 has provided Personal Data to Quicket through the Site, please contact us and we will
-endeavour to delete that information from our databases.
-</p>
-<h2>Links to Other Web Sites:</h2><p>
-This Privacy Policy applies only to the Site. The Site may contain links to other websites not
-operated or controlled by Quicket (the "Third Party Sites"). The policies and procedures we
-described here do not apply to the Third Party Sites. The links from the Site do not imply that
-Quicket endorses or has reviewed the Third Party Sites. We suggest contacting those sites
-directly for information on their privacy policies.
-</p>
-<h2>Storage and Security:</h2><p>
-Quicket may store Personal Data itself or such information may be included in databases
-owned and maintained by affiliates, agents or service providers. Quicket takes what it
-believes to be reasonable steps to protect the Personal Data provided via the Site from loss,
-misuse, unauthorized access, inadvertent disclosure, alteration, and destruction. However,
-no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent
-to or from the Site may not be secure. You should, at all times, take special care in deciding
-on the information you send to us via e-mail. Please keep this in mind when disclosing any
-Personal Data via the Internet.
-</p>
-<h2>Privacy Laws:</h2><p>
-
-Use of the Site and Quicket Services are subject to the laws of the Republic of South Africa
-and this Privacy Policy.
-</p>
-<h2>Other Terms and Conditions:</h2><p>
-Your access to and use of the Site is subject to our Terms and Conditions.
-</p>
-<h2>Changes to Quicket's Privacy Policy:</h2><p>
-The Site and our business may change from time to time. As a result, at times it may be
-necessary for Quicket to make changes to this Privacy Policy. Quicket reserves the right to
-update or modify this Privacy Policy at any time and from time to time without prior notice to
-you. Please review this policy periodically, and especially before you provide any Personal
-Data. This Privacy Policy was last updated on the date indicated above. Your continued use
-of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement
-with the terms of such revised Privacy Policy.
-</p>
-<h2>Access to Information; Contacting Company:</h2><p>
-To keep your Personal Data accurate, current, and complete, please contact us as specified
-below. We will take reasonable steps to update or correct Personal Data in our possession
-that you have previously submitted via the Site. Please also feel free to contact us if you
-have any questions about Quicket's Privacy Policy or the information practices of the Site.
-You may contact us at the following address: http://www.Quicket.co.za/contactus.aspx.
-</p>
-</div>
-
-
-                <div class="clear">
-                </div>
-            </div>
-            <!-- content -->
-            <div class="clear h50">
-            </div>
-        </div>
-        <!-- wrapper -->
-        <div class="push">
         </div>
     </div>
-    <div class="clear">
+    <div class="row">
+        <div class="twelve columns textpage">
+            <p>
+                Welcome to the www.Quicket.co.za website (including all webpages, subdomains and
+                subparts therein contained, the "Site") of Munyhub Online Ticketing (Pty) Ltd t/a
+                Quicket ("Quicket", "we", "us" and/or "our"). The Site has been created (i) to provide
+                information about Quicket, (ii) to provide customized online event management, registration
+                and ticketing services (the "Quicket Services"), and (iii) to provide information
+                about events listed on the Site.
+                <br>
+                <br>
+                This Privacy Policy sets forth Quicket's policy with respect to information, including
+                personally identifiable information ("Personal Data"), that is collected from Site
+                users and visitors (including through those users' and visitors' agents) ("you"
+                or "your"), including (i) registered users who are event organizers and planners
+                ("Organizers"), (ii) registered users who want to purchase tickets to, register
+                for or donate to events (whether free or paid) listed by Organizers on the Site
+                ("Buyers"), and (iii) other non-Organizer users or visitors to the Site ("other
+                non-Organizers").
+                <br>
+                <br>
+                Quicket takes the privacy of your Personal Data and other information seriously.
+                Because of that, Quicket has created this Privacy Policy. Please read this Privacy
+                Policy as it includes important information regarding your Personal Data and other
+                information.
+                <br>
+                <br>
+                If you have any questions or concerns, please do not hesitate to contact us by using
+                the following link: http://www.quicket.co.za/contactus.aspx.
+            </p>
+            <h2>
+                Consent:</h2>
+            <p>
+                By using the Site or allowing someone to use the Site on your behalf, you are consenting
+                to our collection, use, disclosure, transfer and storage in accordance with this
+                Privacy Policy of any Personal Data or other information received by Quicket as
+                a result of such use.
+            </p>
+            <h2>
+                Information We Collect:</h2>
+            <p>
+                When you interact with us through the Site, we may collect Personal Data and other
+                information from you, as further described below:
+            </p>
+            <h3>
+                1. Personal Data:</h3>
+            <p>
+                Organizers: We collect Personal Data from you when you voluntarily provide such
+                information on the Site, such as when you register for access to the Quicket Services
+                as an Organizer, contact us with inquiries, respond to one of our surveys or use
+                certain Quicket Services. The Personal Data we collect includes without limitation
+                your name, email address and other personally identifiable information. In addition,
+                if you use our payment processing services, we will collect financial information
+                from you (e.g., your bank account information) as necessary to facilitate payments.
+                <br>
+                <br>
+                Buyers and other non-Organizers: We collect Personal Data from you when you voluntarily
+                provide such information on the Site (including event registration pages within
+                <br>
+                <br>
+                the Site), such as when you register for access to the Quicket Services (whether
+                as an Organizer or otherwise), register for an event as a Buyer, contact us with
+                inquiries, respond to one of our surveys or use certain Quicket Services. The Personal
+                Data we collect includes without limitation your name, email address and other personally
+                identifiable information. If you register for a paid event, we will collect financial
+                information from you (e.g., your credit card number and expiration date, billing
+                address, etc) some of which may constitute Personal Data.
+                <br>
+                <br>
+                Privacy Policy Links: We make an effort to provide a link to this Privacy Policy
+                in the footer of every page on the Site, including those pages on which Personal
+                Data is collected.
+            </p>
+            <h3>
+                2. Non-Personal Data:</h3>
+            <p>
+                Non-Identifiable Data: When you interact with the Site, we collect certain personally
+                non- identifiable information ("Non-Personal Data"). The Non-Personal Data we collect
+                includes without limitation Internet Protocol (IP) addresses, domain names of your
+                Internet Service Provider, your approximate geographic location, a record of the
+                Site pages that you visit, the time of your visits and aggregated Personal Data
+                that cannot be used to specifically identify you. Such information, which is collected
+                passively using various technologies is strictly for statistical purposes and cannot,
+                in and of itself, be used to specifically identify you.
+                <br>
+                <br>
+                Cookies: In operating the Site, we use a technology called "cookies." A cookie is
+                a piece of information that the computer that hosts our Site gives to your browser
+                when you access the Site. Our cookies help provide additional functionality to the
+                Site and help us analyse Site usage more accurately. For instance, our Site may
+                set a cookie on your browser that allows you to access the Site without needing
+                to remember and then enter a password more than once during a visit to the Site.
+                These cookies may be used to tailor content you see on the Site as well as other
+                sites that you may visit in the future. Through your web browser's option settings
+                you may be able (i) to receive notifications when you are receiving new cookies,
+                (ii) to disable cookies or (iii) to delete cookies. Please refer to your web browser's
+                help section for information on how to do this. We recommend that you leave cookies
+                turned on because they allow you to take advantage of some of the Site's features.
+                <br>
+                <br>
+                Aggregated Personal Data: In an on-going effort to better understand and serve the
+                users of the Site and Quicket Services, Quicket often conducts research on its customer
+                demographics, interests and behaviour based on Personal Data and other information
+                that we have collected. This research may be compiled and analysed on an aggregate
+                basis and this aggregate information is strictly for statistical purposes and does
+                not identify you personally and therefore is considered and treated as Non-Personal
+                Data under this Privacy Policy.
+            </p>
+            <h2>
+                Our Use of Information That We Collect:</h2>
+            <h3>
+                1. Personal Data:</h3>
+            <p>
+                Quicket uses the Personal Data we collect in a manner that is consistent with this
+                Privacy Policy. Quicket may use the Personal Data as follows:
+                </p><ul>
+                    <li>Specific Reason: If you provide Personal Data for a certain reason, we may use the
+                        Personal Data in connection with the reason for which it was provided. For instance,
+                        if you contact us by e-mail, we will use the Personal Data you provide to answer
+                        your question or resolve your problem and will respond to the email address from
+                        which the contact came. </li>
+                    <li>Access and Use: If you provide Personal Data in order to obtain access to or use
+                        of the Site or Quicket Services or any functionality thereof, we will use your Personal
+                        Data to provide you with access to or use of such services or functionality and
+                        to monitor your use of such services or functionality. For instance, if you supply
+                        payment information (e.g., bank account or credit card information) to the Site
+                        for the purpose of purchasing tickets as a Buyer or processing payments as an Organizer,
+                        Quicket will use that information to facilitate such purchase or process such payments.</li>
+                    <li>Internal Business Purposes: Quicket may use your Personal Data for internal business
+                        purposes including without limitation to help us improve the content and functionality
+                        of the Site, to better understand our users, to improve the Quicket Services, to
+                        protect against, identify or address fraudulent activities, to enforce our Terms
+                        of Service, to manage your account and provide you with customer service, and to
+                        generally manage the Site, Quicket Services and our business.</li>
+                    <li>Marketing: Quicket may use your Personal Data to contact you in future marketing
+                        and advertising purposes, including without limitation to inform you about services
+                        or events we believe might be of interest to you, to develop promotional or marketing
+                        materials and provide those materials to you, and to display content and advertising
+                        on the Site that we believe might be of relevance to you. In particular, Organizers
+                        should note that Quicket may use information it receives or collects regarding Buyers
+                        (including without limitation via an Organizer's event registration page) in accordance
+                        with the terms of this Privacy Policy, including in the manner set forth above.</li>
+                </ul>
+                If Quicket intends on using any Personal Data in any manner that is not consistent
+                with this Privacy Policy, you will be informed of such anticipated use prior to
+                or at the time at which the Personal Data is collected.
+            <p></p>
+            <h3>
+                2. Non-Personal Data:</h3>
+            <p>
+                Because Non-Personal Data cannot be used to personally identify you, Quicket may
+                use such information for any lawful purpose.
+            </p>
+            <h2>
+                Our Disclosure of Information That We Collect:</h2>
+            <h3>
+                1. Personal Data:</h3>
+            <p>
+                Quicket is not in the business of selling your Personal Data. We consider this information
+                to be a vital part of our relationship with you. Therefore, Quicket will not sell
+                your Personal Data to third parties, including third party advertisers. There are,
+                however, certain circumstances in which we may disclose, transfer or share your
+                Personal Data with certain third parties without your consent, as set forth below:
+                <br>
+                <br>
+                Business Transfers: As we develop our business, we might sell or buy businesses
+                or assets. In the event of a corporate sale, merger, reorganization, dissolution
+                or similar event, Personal Data may be part of the transferred assets. Subsidiaries
+                and Affiliates: We may also share your Personal Data with our subsidiaries and/or
+                affiliates for purposes consistent with this Privacy Policy. Our subsidiaries and
+                affiliates will be bound to maintain that Personal Data in accordance with this
+                Privacy Policy.
+                <br>
+                <br>
+                Agents, Consultants and Related Third Parties: Quicket, like many businesses, sometimes
+                engages other companies to perform certain business-related functions. Examples
+                of such functions include mailing information, ticket fulfilment, maintaining databases
+                and processing payments. When we engage another company to perform such functions,
+                we may provide them with information, including Personal Data, in connection with
+                their performance of such functions.
+                <br>
+                <br>
+                Organizers: When you purchase tickets to, register for or donate to an event on
+                our Site, you consent to our providing your Personal Data to the Organizers of such
+                event. These Organizers are not bound to treat your Personal Data in accordance
+                with this Privacy Policy. You agree that Quicket is not responsible for the actions
+                of these Organizers with respect to your Personal Data. It is important that you
+                review the applicable policies of the Organizers of an event before providing Personal
+                Data or other information in connection with that event.
+                <br>
+                <br>
+                Legal Requirements: Quicket may disclose your Personal Data if required to do so
+                by law (including, without limitation responding to a subpoena or request from law
+                enforcement, court or government agency) or in the good faith belief that such action
+                is necessary (i) to comply with a legal obligation, (ii) to protect and defend the
+                rights or property of Quicket, (iii) to act in urgent circumstances to protect the
+                personal safety of users of the Site or the public, or (iv) to protect against legal
+                liability.
+            </p>
+            <h3>
+                2. Non-Personal Data:</h3>
+            <p>
+                Because Non-Personal Data cannot be used to personally identify you, Quicket may
+                disclose, transfer or share Non-Personal Data for any lawful purpose.
+            </p>
+            <h2>
+                Your Choices:</h2>
+            <p>
+                You have several choices available when it comes to your Personal Data:
+                <br>
+                <br>
+                Limit the Personal Data You Provide: You can use the Site without providing any
+                Personal Data or with limiting the Personal Data you provide. If you choose not
+                to provide any Personal Data or limit the Personal Data you provide, you may not
+                be able to use certain Site functionality and/or Quicket Services. For instance,
+                in order to open a Quicket account or to buy or sell tickets, your name and email
+                address will be required.
+                <br>
+                <br>
+                Opt Out: You can "opt out" of receiving Quicket newsletter emails by clicking on
+                the "unsubscribe" link in newsletter emails. It may take up to 24 hours for us to
+                process
+                <br>
+                <br>
+                an unsubscribe request. Note that you cannot unsubscribe from Quicket Service communications
+                via the Site. You can stop receiving Quicket Service communications only by contacting
+                us at http://www.Quicket.co.za/contactus.aspx and closing your account. Even after
+                you opt out of all communications, Quicket will retain your Personal Data and Non-
+                Personal Data in accordance with this Privacy Policy, however, we will no longer
+                use it to contact you. Organizers who have received your Personal Data in accordance
+                with this Privacy Policy may continue to use that Personal Data to contact you in
+                accordance with their own privacy policies, but they may not use Quicket's system
+                to do so.
+            </p>
+            <h2>
+                Exclusions:</h2>
+            <p>
+                This Privacy Policy does not apply to any Personal Data collected by Quicket other
+                than Personal Data collected through the Site. This Privacy Policy shall not apply
+                to any unsolicited information you provide to Quicket or another user or visitor
+                through the Site or through any other means. This includes, but is not limited to,
+                information posted to any public areas of the Site, such as bulletin boards, any
+                ideas for new products or modifications to existing products, claim or demand letters,
+                and other unsolicited submissions (collectively, "Unsolicited Information"). All
+                Unsolicited Information shall be deemed to be non-confidential and Quicket shall
+                be free to reproduce, use, disclose, distribute and exploit such Unsolicited Information
+                without limitation or attribution.
+            </p>
+            <h2>
+                Children:</h2>
+            <p>
+                Quicket does not knowingly collect Personal Data from children under the age of
+                18. If you are under the age of 18, please do not submit any Personal Data through
+                the Site. We encourage parents and legal guardians to monitor their children's Internet
+                usage and to help enforce our Privacy Policy by instructing their children never
+                to provide Personal Data on the Site without their permission. If you have reason
+                to believe that a child under the age of 18 has provided Personal Data to Quicket
+                through the Site, please contact us and we will endeavour to delete that information
+                from our databases.
+            </p>
+            <h2>
+                Links to Other Web Sites:</h2>
+            <p>
+                This Privacy Policy applies only to the Site. The Site may contain links to other
+                websites not operated or controlled by Quicket (the "Third Party Sites"). The policies
+                and procedures we described here do not apply to the Third Party Sites. The links
+                from the Site do not imply that Quicket endorses or has reviewed the Third Party
+                Sites. We suggest contacting those sites directly for information on their privacy
+                policies.
+            </p>
+            <h2>
+                Storage and Security:</h2>
+            <p>
+                Quicket may store Personal Data itself or such information may be included in databases
+                owned and maintained by affiliates, agents or service providers. Quicket takes what
+                it believes to be reasonable steps to protect the Personal Data provided via the
+                Site from loss, misuse, unauthorized access, inadvertent disclosure, alteration,
+                and destruction. However, no Internet or e-mail transmission is ever fully secure
+                or error free. In particular, e-mail sent to or from the Site may not be secure.
+                You should, at all times, take special care in deciding on the information you send
+                to us via e-mail. Please keep this in mind when disclosing any Personal Data via
+                the Internet.
+            </p>
+            <h2>
+                Privacy Laws:</h2>
+            <p>
+                Use of the Site and Quicket Services are subject to the laws of the Republic of
+                South Africa and this Privacy Policy.
+            </p>
+            <h2>
+                Other Terms and Conditions:</h2>
+            <p>
+                Your access to and use of the Site is subject to our Terms and Conditions.
+            </p>
+            <h2>
+                Changes to Quicket's Privacy Policy:</h2>
+            <p>
+                The Site and our business may change from time to time. As a result, at times it
+                may be necessary for Quicket to make changes to this Privacy Policy. Quicket reserves
+                the right to update or modify this Privacy Policy at any time and from time to time
+                without prior notice to you. Please review this policy periodically, and especially
+                before you provide any Personal Data. This Privacy Policy was last updated on the
+                date indicated above. Your continued use of the Site after any changes or revisions
+                to this Privacy Policy shall indicate your agreement with the terms of such revised
+                Privacy Policy.
+            </p>
+            <h2>
+                Access to Information; Contacting Company:</h2>
+            <p>
+                To keep your Personal Data accurate, current, and complete, please contact us as
+                specified below. We will take reasonable steps to update or correct Personal Data
+                in our possession that you have previously submitted via the Site. Please also feel
+                free to contact us if you have any questions about Quicket's Privacy Policy or the
+                information practices of the Site. You may contact us at the following address:
+                http://www.Quicket.co.za/contactus.aspx.
+            </p>
+        </div>
+    </div>
+
+        </div>
     </div>
     <div id="footer">
-        <div class="bottomlinks">
-            <div class="payment">
-                <div class="icon">
-                    <img src="/images/secure_logos.png">
+        <div class="row footerpad">
+            <div class="nine columns mobile-two">
+                <div class="row">
+                    <div class="three columns mobile-four">
+                        <h6>
+                            NAVIGATE</h6>
+                        <ul>
+                            <li><a id="Body_lnkHome" class="track-click" data-ga-category="HomePage" data-ga-action="MasterPage" data-ga-label="Footer" href="/">Home</a></li>                            
+                            <li><a id="Body_lnkHowItWorks" class="track-click" data-ga-category="HowItWorks" data-ga-action="MasterPage" data-ga-label="Footer" href="http://www.quicket.co.za/how-it-works.aspx">How it works</a></li>
+                            <li><a id="Body_lnkFees" class="track-click" data-ga-category="FeesPage" data-ga-action="MasterPage" data-ga-label="Footer" href="http://www.quicket.co.za/fees.aspx">Fees</a></li>
+                            <li><a id="Body_lnkContact2" class="track-click" data-ga-category="ContactPage" data-ga-action="MasterPage" data-ga-label="Footer" href="http://www.quicket.co.za/contactus.aspx">Contact</a></li>
+                            <li class="show-for-small">
+                                <a href="http://www.quicket.co.za/terms-and-conditions.aspx">Terms</a></li>
+                        </ul>
+                    </div>
+                    <div class="three columns mobile-two hide-for-small">
+                        <h6>
+                            EVENTS</h6>
+                        <ul>
+                            <li><a id="Body_lnkFindEvents" class="track-click" data-ga-category="EventList" data-ga-action="MasterPage" data-ga-label="Footer" href="http://www.quicket.co.za/events/south-africa/">Find events</a></li>
+                            <li><a id="Body_lnkCreateEventFooter" class="track-click" data-ga-category="CreateEvent" data-ga-action="MasterPage" data-ga-label="Footer" href="http://www.quicket.co.za/account/events/create/step1.aspx">Create an event</a></li>
+                        </ul>
+                    </div>
+                    <div class="three columns hide-for-small">
+                        <h6>
+                            NETWORK</h6>
+                        <ul>
+                            <li><a id="Body_lnkFacebook" class="track-click" data-ga-category="Facebook" data-ga-action="MasterPage" data-ga-label="Footer" href="https://www.facebook.com/Quicket.co.za" target="_blank">Facebook</a></li>
+                            <li><a id="Body_lnkTwitter" class="track-click" data-ga-category="Twitter" data-ga-action="MasterPage" data-ga-label="Footer" href="http://www.twitter.com/quicketsa" target="_blank">Twitter</a></li>
+                            <li><a id="Body_lnkLinkedIn" class="track-click" data-ga-category="LinkedIn" data-ga-action="MasterPage" data-ga-label="Footer" href="http://www.linkedin.com/company/2350818" target="_blank">LinkedIn</a></li>
+                        </ul>
+                    </div>
+                    <div class="three columns hide-for-small">
+                        <h6>
+                            LEGAL</h6>
+                        <ul>
+                            <li><a id="Body_lnkSecurity" class="track-click" data-ga-category="SecurityPage" data-ga-action="MasterPage" data-ga-label="Footer" href="http://www.quicket.co.za/quicket-security.aspx">Quicket Security</a></li>
+                            <li><a id="Body_lnkPrivacy" href="http://www.quicket.co.za/privacy-policy.aspx">Privacy Policy</a></li>
+                            <li><a id="Body_lnkTerms" href="http://www.quicket.co.za/terms-and-conditions.aspx">Terms</a></li>
+                        </ul>
+                    </div>
                 </div>
-                <p>
-                    <span>You are safe with us</span>
-                    <br>
-                    All data is 128bit encrypted</p>
             </div>
-            <div class="clear h10">
-            </div>
-            <div class="set">
-                <h4>
-                    NAVIGATE</h4>
-                <ul>
-                    <li>
-                        <a id="lnkFooterHome" href="http://www.quicket.co.za/">Home</a></li>
-                    <li>
-                        <a id="lnkFooterHowItWorks" href="http://www.quicket.co.za/how-it-works.aspx">How it works</a></li>
-                </ul>
-                <ul class="sub">
-                    <li>
-                        <a id="lnkFooterFees" href="http://www.quicket.co.za/fees.aspx">Fees</a></li>
-                    <li>
-                        <a id="lnkFooterContactUs" href="http://www.quicket.co.za/contactus.aspx">Contact us</a></li>
-                </ul>
-            </div>
-            <div class="set">
-                <h4>
-                    EVENTS</h4>
-                <ul>
-                    <li>
-                        <a id="lnkFooterCreateEvent" href="http://www.quicket.co.za/account/events/create.aspx">Create an event</a></li>
-                        <li>
-                        <a id="lnkFooterViewEvents" href="http://www.quicket.co.za/listproducts.aspx">View events</a></li>
-                </ul>
-            </div>
-            <div class="set">
-                <h4>
-                    NETWORK</h4>
-                <ul>
-                    <li>
-                        <a id="lnkFooterFacebook" href="https://www.facebook.com/Quicket.co.za" target="_blank">Facebook</a></li>
-                    <li>
-                        <a id="lnkFooterTwitter" href="https://www.twitter.com/Quicketsa" target="_blank">Twitter</a></li>
-                </ul>
-            </div>
-            <div class="set right">
-                <h4>
-                    LEGAL</h4>
-                <ul>
-                    <li>
-                        <a id="lnkFooterSecurity" href="http://www.quicket.co.za/quicket-security.aspx">Quicket Security</a></li>
-                    <li>
-                        <a id="lnkFooterPrivacyPolicy" href="http://www.quicket.co.za/privacy-policy.aspx">Privacy Policy</a></li>
-                    <li>
-                        <a id="lnkFooterTerms" href="http://www.quicket.co.za/terms-and-conditions.aspx">Terms</a></li>
-                </ul>
+            <div class="three columns mobile-two">
+                <img src="//d8x8xc8zwewj4.cloudfront.net/content/images/master/trust.png">
+                <p><b>You are safe with us.</b><br>All data is 128bit encrypted.</p>
+                
             </div>
         </div>
     </div>
-    <!-- footer -->
+
     
+    
+    
+
     <script type="text/javascript">
-        (function () {
-            var e = document.createElement('script'); e.async = true;
-            e.src = document.location.protocol
-    + '//connect.facebook.net/en_US/all.js';
-            document.getElementById('fb-root').appendChild(e);
-        } ());
+
+        function ValidatorUpdateDisplay(val) {
+            var input = $('#' + val.controltovalidate);
+            var valid = CheckValidatorsForControl(input.get(0));
+            if (valid) {
+                $('#' + val.controltovalidate).removeClass("error");
+                if (val.isvalid)
+                    $(val).hide();
+                else
+                    $(val).show();
+                return;
+            }
+            else {
+                $('#' + val.controltovalidate).addClass("error");
+                if (!val.isvalid)
+                    $(val).show();
+                else
+                    $(val).hide();
+                $(window).trigger("resize");
+                return;
+            }
+        }
+        function CheckValidatorsForControl(control) {            
+            for (var i = 0; i < control.Validators.length; i++) {
+                if (!control.Validators[i].isvalid) {
+                    return false;
+                }
+            }
+            return true;
+        }
     </script>
-    <!-- OggChat Tab Button : Contact Us for Help Customizing -->
-<div id="oggchat"></div>
-<div id="oggwindowholder"><span style="display:none"></span></div>
-<script type="text/javascript">
-    var page = {/*Modify or uncomment the variables below to customize*/
-        'tab_align': 'bottom', /*Fixed location of Tab Button, valid values are top, bottom, left, right*/
-        'tab_margin_right': '45px', /*When tab is top or bottom, the right margin*/
-        //'tab_margin_left':'45px',/*When tab is top or bottom, the left margin*/
-        //'tab_margin_top':'45px',/*When tab is left or right, the top margin*/
-        //'tab_margin_bottom':'45px',/*When tab is left or right, the bottom margin*/
-        'popup_margin_right': '40px', /*The right margin of popup chat window*/
-        'popup_margin_bottom': '30px', /*The top margin of popup chat window*/
-        //'popup_margin_top':'30px',/*The top margin of popup chat window*/
-        'tab_bg_color': '#F8971D', /*Tab Background Color*/
-        'tab_hover_color': '#F46329', /*Tab Hover Color*/
-        'website': 'www.quicket.co.za', /*Your Domain Name*/
-        //'i' : 'custom',/*Uncomment this to use your custom uploaded image buttons for the tabs*/
-        'p': '0', /*Proactive Chat Timer in Seconds*/
-        'online_text': 'Need Help? Click to Chat', /*Custom Text to display in tab when online*/
-        'offline_text': 'Offline - Leave a message', /*Custom Text to display in tab when offline*/
-        'font_family': 'Verdana', /*When using text, font to use*/
-        'font_size': '10pt', /*When using custom text, font size*/
-        'font_color': '#FFFFFF', /*When using custom text, font color*/
-        'host': 'oggchat2.icoa.com',
-        'cid': 'c08f0112333fef64013340aac6580053',
-        'act': 'c08f0112333fef64013340aac5a70051'
-    };
-    (function () {
-        function oggchat() {
-            var base = (("https:" == document.location.protocol) ? "https://oggchat2.icoa.com" : "http://oggchat2.icoa.com");
-            var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = base + '/js/oggwindow.js';
-            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
-        };
-        if (window.attachEvent) window.attachEvent('onload', oggchat); else window.addEventListener('load', oggchat, false);
-    })();
-</script>
+
     </form>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            
+            $(".lightbox").fancybox();
+            $('.track-click').gaTrackEventUnobtrusive({
+                useEvent:true,
+                useLabel:true,
+                event: 'click'
+            });
+        });
+    </script>
 
 
 </body></html>
