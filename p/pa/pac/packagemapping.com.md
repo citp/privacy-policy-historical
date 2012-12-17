@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the packagemapping.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506054712id_/http%3A//www.packagemapping.com/privacy_notice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packagemapping.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217085414id_/http%3A//packagemapping.com/privacy_notice.htm) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -65,7 +65,7 @@ Any personally identifiable information is never made available for commercial u
 
 **Our Policy Towards Children**
 
-The Site is not directed to persons under 18\. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should [contact us](https://web.archive.org/web/20120506054712id_/http%3A//www.packagemapping.com/contact_info.htm "Contact Us"). We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable information, we will delete such information from our files.
+The Site is not directed to persons under 18\. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should [contact us](https://web.archive.org/web/20121217085414id_/http%3A//packagemapping.com/contact_info.htm "Contact Us"). We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable information, we will delete such information from our files.
 
 **__**
 
@@ -109,4 +109,4 @@ _****_**_Contact Information_**
 > 
 > **Webmaster**  
 >  PackageMapping.com  
->  [Click here for contact information](https://web.archive.org/web/20120506054712id_/http%3A//www.packagemapping.com/contact_info.htm)
+>  [Click here for contact information](https://web.archive.org/web/20121217085414id_/http%3A//packagemapping.com/contact_info.htm)
