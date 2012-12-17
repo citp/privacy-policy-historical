@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weeklyplus.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629095559id_/http%3A//www.weeklyplus.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklyplus.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217091345id_/http%3A//www.weeklyplus.com/legal/privacy.php) for the most accurate reproduction.*
 
 # WeeklyPlus.com Privacy Policy
 
@@ -8,7 +8,7 @@ This Privacy Policy discloses the privacy practices for the WeeklyPlus.com websi
 
 ### PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.
 
-WeeklyPlus, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 1600 Stout St. 4th Floor, Denver, CO 80202 If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
+WeeklyPlus, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 110 16th St. Suite 406, Denver, CO 80202 If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
 The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It's important to WeeklyPlus.com to help our customers retain their privacy when they take advantage of all the Internet has to offer.
 
@@ -119,7 +119,7 @@ Your friend may contact us at service@weeklyplus.com to request that we remove t
 
 **Corporate Address**  
 WeeklyPlus, LLC  
-1600 Stout St. 4th Floor  
+110 16th St. Suite 406  
 Denver, CO 80202  
 800-520-6920
 
