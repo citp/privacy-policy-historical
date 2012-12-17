@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellcomecollection.org privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618020749id_/http%3A//www.wellcomecollection.org/about-this-site/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellcomecollection.org privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217065508id_/http%3A//www.wellcomecollection.org/about-this-site/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Wellcome Collection
 
@@ -14,7 +14,7 @@ We process personal data in connection with our charitable mission to foster and
 
 Information that you supply in connection with the provision of a service or a grant application and any funding arising from it will be treated in confidence and in accordance with the principles of the Data Protection Act. Details about how personal information provided as part of a grant application and any subsequent award is used, are given on the grant application forms.
 
-You may be asked for personal information if you want to take advantage of specific services we offer, such as when completing a publication subscription form, Library joining or enquiry form, arranging Library appointments or in connection with Wellcome Collection activities. We will use the personal information you provide to deliver the services you have told us you wish to take part in or to send you information that you have requested and may offer you the opportunity to receive additional information about our activities or those of our partners and service providers. You may opt out of this at any time by contacting us.
+You may be asked for personal information if you want to take advantage of specific services we offer, such as when completing a publication subscription form, Library joining or enquiry form, arranging Library appointments or in connection with Wellcome Collection activities. We will use the personal information you provide to administer our relationship with you and deliver the services you have told us you wish to take part in or to send you information that you have requested and may offer you the opportunity to receive additional information about our activities or those of our partners and service providers. You may opt out of this at any time by contacting us.
 
 ## Surveys
 
@@ -30,7 +30,7 @@ When you log into this site your computer will automatically be issued with a co
 
 The Trust also uses cookies to gather non-personal statistical information about visitors to our sites, such as the number of visits to pages, the amount of time spent viewing a page, the path taken by visitors to a particular page and other general information. The Trust uses this information to improve our websites.
 
-You have the opportunity to set your computer to accept all cookies, to notify you when a cookie is issued, or choose not to receive cookies at any time. The last of these options may prevent you from accessing all functions of this site. [Find out more about our use of cookies](https://web.archive.org/about-this-site/use-of-cookies.aspx).
+You have the opportunity to set your computer to accept all cookies, to notify you when a cookie is issued, or choose not to receive cookies at any time. The last of these options may prevent you from accessing all functions of this site. [Find out more about our use of cookies](http://policy.cookiereports.com/528d78ff.html).
 
 ## How do we protect personal information?
 
