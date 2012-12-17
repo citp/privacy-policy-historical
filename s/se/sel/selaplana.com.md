@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selaplana.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617130613id_/http%3A//www.selaplana.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selaplana.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217202315id_/http%3A//www.selaplana.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SELaplana
 
@@ -37,6 +37,10 @@ You should assume we have motivation for linking to everything on this page and 
 You should come up with your own thoughts and opinions and not trust everything you read on the Internet.
 
 -S.E.Laplana
+
+### Incoming Visitors
+
+  * PrivacyPolicy-SELaplana
 
 ****
 
