@@ -1,34 +1,80 @@
-<!--The following is the downloaded HTML source of the color-hex.com privacy policy that was archived on 2012-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508065049id_/http%3A//www.color-hex.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the color-hex.com privacy policy that was archived on 2012-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121217022943id_/http%3A//www.color-hex.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<link rel="stylesheet" type="text/css" href="/style.css">
-<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<!DOCTYPE html><html lang="en"><head>
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 
-<meta name="description" content="Color hex privacy">
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <!-- html5.js for IE less than 9 -->
+    <!--[if lt IE 9]>
+            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 
-<title>Color-hex Privacy</title>
+    <!-- css3-mediaqueries.js for IE less than 9 -->
+    <!--[if lt IE 9]>
+            <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="/stylesheets/skeleton.css">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/layout.css">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/spectrum.css">
+    
+    <script type="text/javascript" src="/js/jquery-1.8.2.min.js"></script>
+    <script type="text/javascript" src="/js/bootstrap-dropdown.js"></script>
+    <script type="text/javascript" src="/js/spectrum.js"></script>
+    <script type="text/javascript" src="/comments.js"></script>
+    
+    <script>
+    $(document).ready(function() {
 
-</head>
+        $("#colorpick").spectrum({
+            showInitial: true, 
+            showInput: true, 
+            showButtons: false, 
+            preferredFormat: "hex",
+            move: function(color) {
+            var selectedcolor = color.toHexString();
+            $("#selectedhex").html(selectedcolor);
+}
+        });
+        });
+        </script><title>Privacy Policy Color-Hex.com</title>
 
-
+</head> 
 <body>
-
-<div id="contents">
-
+<div class="topdiv">
+<div class="container">
+        
+<div class="three columns">
+<a href="http://www.color-hex.com/" title="Color hex">
+    <img src="/logo.png" alt="Color Hex"></a>  
+</div>
+        
+<div class="five columns">
 <form action="/colorinfo.php" id="colorinfo">
-#<input name="color" maxlength="6" title="Type color code here">
-<input type="submit" value="Get color info">  <br>
-<span>6 or 3 digit color hex code</span>
-</form>	
+    <span id="selectedhex">#</span> <input type="text" name="color" id="colorpick" value="#" title="Click to select color hex from color picker" style="display: none;"><div class="sp-replacer sp-light"><div class="sp-preview"><div class="sp-preview-inner" style="background-color: rgb(0, 0, 0);"></div></div><div class="sp-dd">▼</div></div>
+<input type="submit" value="Get color info" class="btn btn-success">  <br>
 
+</form>
+        </div>
+    
+    <div class="eight columns">
+        
+                <ul class="loginmenu">
+                
+                    <li><a href="/user/login.php" title="Login">Login</a></li>
+                    <li><a href="/user/register.php" title="Register to color-hex">Register</a></li>
+                    <li><a href="/user/add-palette.php" title="Add Color Palette">Add Color Palette</a></li>
+                    <li><a href="http://www.color-hex.com/color-palettes/" title="Color Palettes">Latest Palettes</a></li>
+            </ul>  
+            </div>
 
-<div id="breadcrumb">
-<a href="http://www.color-hex.com/" title="Color hex">Color Hex Home »</a>  
-<b>Privacy</b>
-</div>		
-<br>
+        </div>
+</div>
+    <div class="container maindiv white">
+        <div class="sixteen columns">
 
 
 <h1>Privacy Policy for color-hex.com</h1>
@@ -78,17 +124,22 @@ This could include the inability to login to services or programs, such as loggi
 
 
 
+ </div>
+</div>
+    
+<div class="container  white">
 
-<br>
-
-
+        <div class="sixteen columns" id="footer">
+            © 2010-2012 www.color-hex.com | <a href="/privacy.php" title="Privacy">Privacy</a> 
+<a href="/abbreviations.php" title="Color Abbreviations">Color Abbreviations</a>
+ | <a href="/credits.php" title="Credits">Credits</a>  | <a href="/contact.php" title="Contact">Contact</a> <br>
+<a href="https://market.android.com/details?id=com.colorhex" rel="nofollow" title="Download Color Hex Android App Free">
+        <img src="/marketlogo.png" alt="android app on market"></a>
+        </div>
 </div>
 
-	<div id="footer">
-		©2010 color-hex.com
-	</div>	
 
-  <script type="text/javascript">
+<script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -99,5 +150,4 @@ pageTracker._trackPageview();
 } catch(err) {}</script>
 
 
-
-                                    </body></html>
+<div class="sp-container sp-light sp-buttons-disabled sp-palette-disabled" style="display: none;"><div class="sp-palette-container"><div class="sp-palette sp-thumb sp-cf"></div></div><div class="sp-picker-container"><div class="sp-top sp-cf"><div class="sp-fill"></div><div class="sp-top-inner"><div class="sp-color" style="background-color: rgb(255, 0, 0);"><div class="sp-sat"><div class="sp-val"><div class="sp-dragger" style="top: 0px; left: 0px;"></div></div></div></div><div class="sp-hue"><div class="sp-slider" style="top: 0px;"></div></div></div><div class="sp-alpha"><div class="sp-alpha-inner"><div class="sp-alpha-handle" style="left: 0px;"></div></div></div></div><div class="sp-input-container sp-cf"><input class="sp-input" type="text" spellcheck="false"></div><div class="sp-initial sp-thumb sp-cf"><div class="sp-cf sp-palette-row-initial"><span title="#000" data-color="rgb(0, 0, 0)" class="sp-thumb-el sp-thumb-dark"><span class="sp-thumb-inner" style="background-color:rgb(0, 0, 0);"></span></span><span title="#000" data-color="rgb(0, 0, 0)" class="sp-thumb-el sp-thumb-dark sp-thumb-active"><span class="sp-thumb-inner" style="background-color:rgb(0, 0, 0);"></span></span></div></div><div class="sp-button-container sp-cf"><a class="sp-cancel" href="#">cancel</a><button class="sp-choose">choose</button></div></div></div></body></html>
