@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dhgate.com privacy policy that was archived on 2012-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120509230335id_/http%3A//help.dhgate.com/help/buyer_about_usen.php%3Fcatpid%3Dg4) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dhgate.com privacy policy that was archived on 2012-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121217034638id_/http%3A//help.dhgate.com/help/buyer_about_usen.php%3Fcatpid%3Dg4) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta content="China Wholesale Marketplace for you to buy wholesale lots direct from China at factory prices." name="description">
@@ -7,183 +7,145 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta content="MSHTML 6.00.2900.3020" name="GENERATOR">
 <title>DHgate - China Wholesale Marketplace - About Us</title>
-<link href="http://image.dhgate.com/dhs/fob/css/about/about201108.css" rel="stylesheet" type="text/css">
+<link href="http://www.dhresource.com/dhs/fob/css/about/about990.css" rel="stylesheet" type="text/css">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" src="http://image.dhgate.com/b/help/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" src="http://www.dhresource.com/dhs/fob/js/common/lib.js"></script>
 
 
 
 </head>
 <body>
-<!-- 
-<script type="text/javascript" src="http://image.dhgate.com/2010/public/js/headerglobal201108.js"></script>
- -->
-<script type="text/javascript" src="http://image.dhgate.com/dhs/fob/js/global/headerglobal201108.js"></script>
+
+<script type="text/javascript" src="http://www.dhresource.com/dhs/fob/js/global/global-v1.js"></script>
 <!-- 张永军 2011-08-23 --> 
 <script type="text/javascript">
-document.domain = 'dhgate.com';
+document.domain = 'dhgate.com'; 
 $(document).ready(function(){
-  //Categories();
-	  
-//    var head_categories = new HeaderCategories();
-//    var head_community = new HeaderCategories({iButton:"community",iContent:"community_lists",leftpx:1});     
-///   var helpit_lists = new HeaderCategories({iButton:"helpit",iContent:"helpit_lists",leftpx:1});
-//	$("ul.sf-menu").superfish({delay:0}); 
-//    serchboxval();
-	searchInputDefaultText();
-	var DH_Header_Other_Entrance = new headerOtherEntrance({ triggerEle: [ 'community', 'help' ], listEle: [ 'communityLists', 'helpLists' ], hoverClass: [ 'community-hover', 'help-hover' ] });
-	var DH_Search_Category = new searchSimulationSelect({ url: 'http://www.dhgate.com/wholesale/cate.do', reverseCatalog: [ [ 'Backpacks', 150101 ], [ '∟Handbags &amp; Bags', 1501 ], [ '∟Bags , Shoes &amp; Accessories', 15 ] ] });
-	var DH_Show_Common_Directory = new showCommonDirectory({ url: 'http://www.dhgate.com/common/navilist.jsp' });
-	searchkeyEnter('searchkey');
-    
-    if(typeof(signstate) != "undefined"){
-        $("#naviinfo").prepend(signstate);
+    var DH_tnDropDown = new tnDropDown();
+    var DH_Search_Category = new searchSimulationSelect({ url: 'http://www.dhgate.com/wholesale/cate.do' });
+    var DH_Show_Common_Directory = new showCommonDirectory({ url: 'http://www.dhgate.com/product/productplus.do?act=getNewProductCategory&isblank=true' });
+    searchheadersuggest();
+    $('#searchBarButton').click(function(){headsearch();});
+    searchkeyEnter('searchkey');
+    searchkeyChange();
+    topNavShowCN();
+    topNavShowEN();
+
+
+
+    if(typeof(signstate) != "undefined" && signstate != "" ){
+        $("#topNavL").html('');
+        $("#topNavL").prepend(signstate);
         }
-    if(typeof(selleren)!='undefined'){
-        $("#naviinfo").append(selleren);
-     }
 
-    if(typeof(selleren)=='undefined' || '' == selleren){
-        $("#question").append('<span class="shu">|</span><a onclick="openCSIMChatFrame();dh_chat();return false;" href="#" class="customerlink">Online Customer Service</a>');
-    }
-    var cartHtml = "Cart &nbsp;<span>" + iBacketItemsNumber + "</span>&nbsp;item(s)";
-    
-    $("#cartcnt").html(cartHtml);
 
-    
+
+    $("#cartcnt").html(iBacketItemsNumber);
+
 });
 </script>
 
 
-<script type="text/javascript">
-function headsearch(){
-    var searchkey=$("#searchkey").val();
- //   var catalog=$("select[name='catalog']").val();
-    var catalog=$("input[name='catalog']").val();
-    if($.trim(searchkey)=="" || $.trim(searchkey)=="Search Products"){
-        $("#searchkey").val("");
-        if(catalog=="" || catalog=="999"){
-            alert("Please input a keyword.");
-            return false;
-        }else{
-            $("#searchForm").attr("action","http://search.dhgate.com/dirlist.do");
-            $("#searchForm").submit();
-            return false;
-        }
-    }
-    $("#searchForm").submit();
-    return false;
-}
-function doheadsearch(){  
-    var inputStr = document.getElementById("searchkey").value;
-  		for( i=0; i<inputStr.length; i++){     
-      		if( inputStr.charCodeAt(i) >255 ){   //是否为汉字
-            	alert("Please input the information in English ONLY.");  
-           	 	$("#searchkey").val(''); 
-       			return true;                     
-        	}  
-		}
-	headsearch();
-    return   false;   
-}
-</script> 
+
 <script type="text/javascript" src="http://www.dhgate.com/common/cart/forpersate.do?act=LiveHelpName"></script>
 <script language="javascript" src="http://www.dhgate.com/common/validforPHP.jsp"></script>
 
-<!-- 
-<div id="community_lists" style="top:19px;left:967px;">
-	<span>
-    	<a href="http://www.dhgate.com/!forums">DHgate Forums</a>
-    	<a href="http://blog.dhgate.com/">DHgate Blog</a>
-        <a href="http://www.facebook.com/dhgate" rel="nofollow">DHgate Facebook</a>
-    </span>
-</div>
-<div id="helpit_lists">
-    <span>
-         <a href="http://help.dhgate.com/help/buyerhelpen.php" rel="nofollow">Help Center</a>
-         <a href="http://www.dhgate.com/csmsg/leavemsg.do" rel="nofollow">Message DHgate</a>
-	</span>
-</div>
- -->
-<div style="width:950px; margin:auto; position:relative;">
-  <div id="header">
-  
-  <!-- 张永军 2011-08-23 -->
-  <div class="header">
-    <div class="logo"><a href="http://www.dhgate.com/">DHgate Homepage</a></div>
-	<div class="logo-summary">Fast Trading Marketplace</div>
-	<div class="take"><p><strong>New to DHgate?</strong></p><p><a href="http://www.dhgate.com/starterguide.html" rel="nofollow">Take a quick tour now</a></p></div>
-    
-<div class="info">
-    <p id="naviinfo"><a href="http://www.dhgate.com/myaccount/index.do" rel="nofollow">My DHgate</a><a href="javascript:void(0);" id="community">Community</a><a href="http://help.dhgate.com/help/buyerhelpen.php" rel="nofollow" id="help">Help</a><a href="http://seller.dhgate.com" class="last">Seller Home</a></p>
-    
-        <ul id="communityLists">
-            <li><a href="http://www.dhgate.com/!forums" rel="nofollow">DHgate Forums</a></li><li><a href="http://blog.dhgate.com/" rel="nofollow">DHgate Blog</a></li><li><a href="http://www.facebook.com/dhgate" rel="nofollow">DHgate Facebook</a></li>
-        </ul>
-        <ul id="helpLists">
-            <li><a href="http://help.dhgate.com/help/buyerhelpen.php" rel="nofollow">Help Center</a></li><li><a href="http://www.dhgate.com/csmsg/leavemsg.do" rel="nofollow">Message DHgate</a></li>
-        </ul>
-</div>
-<div class="icoprotection"><a rel="nofollow" href="http://www.dhgate.com/protection.html">DHgate Buyer Protection</a></div>
-</div>
+<!-- header start -->
+<div id="pageT">
+        <div id="topNav" class="top-nav">
+            <div class="top-nav-l">
+                <ul id="topNavL" class="clearfix">
+                    <li class="tnl-wel">Welcome to DHgate!</li>
+                    <li class="tnl-joinFree"><a href="https://secure.dhgate.com/usr/register.do" rel="nofollow">Join Free</a></li>
+                    <li class="tn-split"></li>
+                    <li><a href="https://secure.dhgate.com/usr/signin.do" rel="nofollow">Sign in</a></li>
+                </ul>
+            </div>
+            <div class="top-nav-r">
+                <ul id="topNavR_EN" class="clearfix">
+                    <li><a rel="nofollow" href="http://www.dhgate.com/myaccount/index.do">My DHgate</a></li>
+                    <li class="tn-split"></li>
+                    <li id="tnCommunity" class="tn-community"><a rel="nofollow" href="http://www.dhgate.com/!forums">Community</a></li>
+                    <li class="tn-split"></li>
+                    <li id="tnHelp" class="tn-help"><a rel="nofollow" href="http://help.dhgate.com/help/buyerhelpen.php">Help</a></li>
+                    <li class="tn-split"></li>
+                    <li><a rel="nofollow" href="http://www.dhgate.com/vip-club/vip-club-home.html">VIP Club</a></li>
+                    <li class="tn-split"></li>
+                    <li id="tnLanguage" class="tn-language"><a rel="nofollow" href="http://www.dhgate.com/">English</a></li>
+                </ul>
+                <div id="topNavR_CN" class="top-nav-r-cn"></div>
+            </div>
+            <div id="tnCommunityList" class="tn-community-list">
+                <ul>
+                    <li><a rel="nofollow" href="http://www.dhgate.com/!forums">DHgate Forums</a></li>
+                    <li><a rel="nofollow" href="http://blog.dhgate.com/">DHgate Blog</a></li>
+                    <li><a rel="nofollow" href="http://www.facebook.com/dhgate">DHgate Facebook</a></li>
+                </ul>
+            </div>
+            <div id="tnHelpList" class="tn-help-list">
 
+                <ul>
+                    <li><a rel="nofollow" href="http://help.dhgate.com/help/buyerhelpen.php">Help Center</a></li>
+                    <li><a rel="nofollow" href="http://www.dhgate.com/csmsg/leavemsg.do">Message DHgate</a></li>
+                </ul>
+            </div>
+            <div id="tnLanguageList" class="tn-language-list">
+                <ul>
+                    <li><a rel="nofollow" href="http://ru.dhgate.com/#mh">Русский</a></li>
+                    <li><a rel="nofollow" href="http://pt.dhgate.com/#mh">Português</a></li>
+                </ul>
+           </div>
+        </div>
 
- <!--    <div class="question" id="question">Help us improve DHgate <a href="http://www.dhgate.com/myaccount/suggest/suggest.do">Click here!</a></div>
-   -->  
-    <div div="" class="search-bar">
-      <form action="http://www.dhgate.com/wholesale/presearch.do#search" autocomplete="off" method="get" name="searchForm" id="searchForm" onsubmit="javascript:doheadsearch();return false;">
-        <input type="hidden" name="act" value="search">
-     <!--   <strong>Search</strong>--> 
-    <div class="search-bar-autocomplete"><input type="text" value="" id="searchkey" name="searchkey" class="search-bar-keyword"></div>
-    <div id="catalogBox" class="search-select-box">
-        <input id="catalog" type="text" value="All Categories" readonly="true">
-        <input id="catalogId" type="hidden" name="catalog" value="">
-        <div id="arrow" class="drop-down-default"></div>
-        <div id="catalogListBox" class="search-category"></div>
-    </div>
-    
-        <input class="search-bar-button" type="button" value="" name="button" onclick="javascript:doheadsearch();">
-        <a id="advancedSearchLink" class="search-bar-advanced" href="http://www.dhgate.com/wholesale/searchAd.do?method=searchAd" rel="nofollow">Advanced Search</a>
-        <a id="cartcnt" class="search-bar-cart" href="http://www.dhgate.com/cart/cart.do" rel="nofollow">Cart <span>0</span> item(s)</a>
-      </form>
-    </div>
-    	<!-- 
-  	<div id="main_nav"> <span>
-    <a class="all" id="all" href="#">Top Wholesale Categories</a>
-    <a href="http://www.dhgate.com/promotion/all/new-year-channel.html#nhpa-head" style="vertical-align:middle;">New Year Sale</a>
-    <a href="http://www.dhgate.com/promo/seller-guarantee-services.html" class="thisguarantee">Guaranteed Products</a>
-    <a href="http://www.dhgate.com/what-s-new.html" class="whatisnew">What's New</a>
-    <a href="http://www.dhgate.com/usa-uk-in-stock.html" class="thisusau">Stock in US/UK</a><a href="http://www.dhgate.com/catalog/buy-home.htm" class="thispromo">Promotions</a>
-    <a rel="nofollow" href="http://www.dhgate.com/wholesale-product-reviews.html">Top-Rated Products</a>
+        <div class="header">
+            <div class="logo"><a href="http://www.dhgate.com/">DHgate Wholesale Homepage</a></div>
+            <div class="ftm-tit">Fast Trading Marketplace</div>
+            <form id="searchForm" action="http://www.dhgate.com/wholesale/search.do#search" autocomplete="off" method="get" name="searchForm">
+                <input type="hidden" name="act" value="search">
+                <input id="suggestsearch" type="hidden" name="sus" value="">
+                <div class="search-bar-autocomplete">
+                    <div class="search-bar-keyword"><input type="text" value="" id="searchkey" name="searchkey"></div>
+                </div>
+                <div id="catalogBox" class="search-select-box">
+                    <div id="catalogWarp" class="catalog-Warp">
+                        <span id="catalog" class="catalog-content">All Categories</span>
+                        <span class="catalog-arrow"></span>
+                    </div>
+                    <input id="catalogId" type="hidden" name="catalog" value="">
+                    <div class="search-category" id="catalogListBox"></div>
+                </div>
+                <input id="searchBarButton" class="search-bar-button" type="button" value="Search" name="button">
+            </form>
+            <div class="cart-warp"><a class="cart-inner" href="http://www.dhgate.com/cart/cart.do" rel="nofollow"><span id="cartcnt" class="cart-sum">0</span><span class="cart-tit">Cart</span></a></div>
+        </div>
 
-    </span> </div>
-     -->
-    
-    
-    <div class="main-entrance">
-    <div class="main-entrance-lp">
+        <div class="main-entrance">
+            <div class="main-entrance-lp">
     <ul>
-	    		<li class="goldli"><a title="Factory Products &amp; Prices on Tablet PC and Home Garden, Direct Sale by DHgate" href="http://gold.dhgate.com/" rel="nofollow"><span class="g">G</span><span>old</span> Zone</a></li>
-      		<li class=""><a title="" href="http://www.dhgate.com/promotion/all/summer-sale.html" rel="">Summer Sale</a></li>
-      		<li class="thisspring"><a title="" href="http://www.dhgate.com/what-s-new.html" rel="nofollow">What's New</a></li>
-      		<li class="thiswedding"><a title="" href="http://www.dhgate.com/promotion/all/wedding-prom-channel.html" rel="nofollow">Wedding &amp; Prom</a></li>
-      		<li class="thiselectronics"><a title="" href="http://www.dhgate.com/promotion/all/electronics-channel.html" rel="nofollow">Electronics</a></li>
-      		<li class="thispromo"><a title="" href="http://www.dhgate.com/catalog/buy-home.htm#new" rel="nofollow">Promotions</a></li>
-      		<li class="thismobile"><a title="" href="http://www.dhgate.com/promotion/all/computer-stock-in-us-au-ca.html" rel="nofollow">Stock in US/UK/AU</a></li>
-  </ul>
-     <!--#include virtual="http://www.dhgate.com/global/navin_prod.shtml" -->
-<!--  (这里是公共调用的导航文件，http://www.dhgate.com/global/navin_prod.shtml http://www.dhgate.com/global/navio_prod.shtml)-->
-    </div>
-    <div class="all-categories">
-        <a id="allCategoriesAction" class="all" href="http://www.dhgate.com/all-categories/index.html">All Categories</a>
-        <div id="directoryWarp"></div>
-    </div>
-</div>
-    
-    
-  </div>
-</div>
+        <li class="goldli"><a href="http://gold.dhgate.com/" title="Bulk buy at factory direct prices on quality wholesale Computer and Home &amp; Garden items. Order fulfillment by DHgate Sourcing" rel="nofollow"><span class="g">G</span><span>old</span> Zone</a></li>
+        <li class="main-entrance-split"></li>
+    <li class=""><a href="http://www.dhgate.com/promotion/all/customize-electronics.html" rel="nofollow">Customize Products</a></li>
+        <li class="main-entrance-split"></li>
+    <li class=""><a href="http://www.dhgate.com/promotion/all/brand-zone.html" rel="nofollow">Brand Zone</a></li>
+        <li class="main-entrance-split"></li>
+    <li class=""><a href="http://www.dhgate.com/promotion/all/electronics-channel.html" rel="nofollow">Electronics</a></li>
+        <li class="main-entrance-split"></li>
+    <li class=""><a href="http://www.dhgate.com/catalog/buy-home.htm" rel="nofollow">Promotions</a></li>
+        <li class="main-entrance-split"></li>
+    <li class="pro-color"><a href="http://www.dhgate.com/wholesale/dcp.do?act=previewdcp&amp;catalogid=D42" rel="nofollow">Xmas Supplies</a></li>
+    </ul>     <!--#include virtual="http://www.dhgate.com/global/navigation.shtml" -->
 
+            </div>
+            <div class="main-entrance-categories">
+            <a id="allCategoriesAction" rel="nofollow" href="http://www.dhgate.com/all-categories/index.html">ALL CATEGORIES</a>
+
+            <div id="navBrowseFylout" class="nav_browse_flyout">
+            </div>
+            </div>
+            <div class="main-entrance-protection"><a href="http://www.dhgate.com/protection.html" rel="nofollow">Buyer Protection PLUS</a></div>
+        </div>
+    </div>
+<!-- header end -->
 <div id="content">
 <div id="now"><a href="http://www.dhgate.com">Home</a> &gt; <strong>About Us</strong></div>
 <div id="left">
@@ -262,31 +224,10 @@ function doheadsearch(){
 <div class="right_bottom"></div>
 </div>
 </div>
-<!-- SiteCatalyst code version: H.23.3.
-Copyright 1996-2011 Adobe, Inc. All Rights Reserved -->
-<script language="JavaScript" type="text/javascript" src="http://image.dhgate.com/s_code.js"></script>
-<script language="JavaScript" type="text/javascript"><!--
-s.pageName='en:about-us:security and privacy' //Pagetitle in lowercase
-s.prop1='dhgate.com'
-s.prop2='about-us'
-s.prop3='security and privacy' //Pagetitle in lowercase
-s.prop6='about'
-s.prop7='en'
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)   
-s.trackingServer='beacon.dhgate.com';
-s.trackingServerSecure='sbeacon.dhgate.com';
-//--></script> 
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script>
-<noscript><img src='http://dhgate.122.2o7.net/b/ss/dhgatetest/1/H.23.3--NS/0'
-height='1' width='1' border='0' alt='' /></noscript><!--/DO NOT REMOVE/--> 
-<!-- End SiteCatalyst code version: H.23.3. --> 
-
-<div style=" margin:0 auto; width:950px;"><iframe scrolling="no" frameborder="0" width="950" height="150" src="http://www.dhgate.com/footer_help.html"></iframe></div>
+<!-- omniture -->
+<div style=" margin:0 auto; width:990px;"><iframe scrolling="no" frameborder="0" width="990" height="97" src="http://www.dhgate.com/footer_help990.html"></iframe></div>
 ﻿<div id="footer">
-     <div id="bottom_nav">        <p class="feedbacklink">Help improve your experience on DHgate.com, <a onclick="$(this).attr({ href: 'http://ued.dhgate.com/dhsurvey/index.php?sid=67525&amp;lang=en' + '&amp;dhsurveybuyerid=' + getCookie('b2b_nick_n') });" target="_blank" rel="nofollow" href="http://ued.dhgate.com/dhsurvey/index.php?sid=67525&amp;lang=en">tell us what you think</a> or <a href="http://www.dhgate.com/usr/buyerexper.do" target="_blank" rel="nofollow">join our Customer Experience Improvement Program now.</a></p>        <div class="h-line1"></div>		<p class="payico"></p>        <p class="verico"><a href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.DHGATE.COM&amp;lang=en" target="_blank"></a></p>        <p>        	        <a style="margin:0" href="http://www.dhgate.com/" rel="nofollow">Home</a> |        	        <a style="margin:0" href="http://www.dhgate.com/myaccount/index.do" rel="nofollow">Your Account</a> |        	        <a style="margin:0" href="http://help.dhgate.com/help/buyerhelpen.php" rel="nofollow">Help</a> |        	        <a style="margin:0" href="http://gold.dhgate.com/">Gold Zone</a> |        	        <a style="margin:0" href="http://www.dhgate.com/sitemap/index.html">Sitemap Index</a> |        	        <a style="margin:0" href="http://www.dhgate.com/sitemap/top-wholesale-search-keywords.html">Top Searches</a> |        	        <a style="margin:0" href="http://www.dhgate.com/sitemap/top-wholesale-products.html">Top Products</a> |        	        <a style="margin:0" href="http://www.dhgate.com/free-shipping.html">Free Shipping</a> |        	        <a style="margin:0" href="http://help.dhgate.com/help/buyer_about_usen.php" rel="nofollow">About Us</a> |        	        <a style="margin:0" href="http://help.dhgate.com/help/buyer_about_usen.php?catpid=g4" rel="nofollow">Security &amp; Privacy</a> |        	         <a href="http://help.dhgate.com/help/buyer_about_usen.php?catpid=g7" rel="nofollow">Terms of Use</a>         	        </p>        <p><a href="http://pt.dhgate.com">Portuguese</a> | <a href="http://fr.dhgate.com">French</a> | <a href="http://es.dhgate.com">Spanish</a> | <a href="http://de.dhgate.com">German</a> | <a href="http://ru.dhgate.com">Russian</a> | <a href="http://it.dhgate.com">Italian</a> | <a href="http://ja.dhgate.com">Japanese</a></p>        <p>Copyright Notice © 2004 - 2012 DHgate.com  All rights reserved.</p>   </div>    
+     <div id="bottom_nav">        <p class="feedbacklink">Help improve your experience on DHgate.com, <a href="http://www.dhgate.com/usr/buyerexper.do" target="_blank" rel="nofollow">join our Customer Experience Improvement Program now.</a></p>        <div class="h-line1"></div><div class="footerTop">    <ul>        <li class="master"></li>        <li class="visa"></li>        <li class="master2"></li>        <li class="peal"></li>        <li class="eps"></li>        <li class="sofort"></li>        <li class="western"></li>        <li class="bank"></li>        <li class="ver"><a href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.DHGATE.COM&amp;lang=en" target="_blank" rel="nofollow"></a></li>        <li class="pci"><a href="https://sealserver.trustwave.com/compliance/cert.php?code=y2cj3BctHJraa6RNVX2dadOFpDGVM8&amp;style=normal&amp;size=105x54&amp;language=en" target="_blank" rel="nofollow"></a></li>    </ul></div>        <p>        	        <a style="margin:0" href="http://www.dhgate.com/" rel="nofollow">Home</a> |        	        <a style="margin:0" href="http://www.dhgate.com/myaccount/index.do" rel="nofollow">Your Account</a> |        	        <a style="margin:0" href="http://help.dhgate.com/help/buyerhelpen.php" rel="nofollow">Help</a> |        	        <a style="margin:0" href="http://gold.dhgate.com/">Gold Zone</a> |        	        <a style="margin:0" href="http://www.dhgate.com/sitemap/index.html">Sitemap Index</a> |        	        <a style="margin:0" href="http://www.dhgate.com/sitemap/top-wholesale-search-keywords.html">Top Searches</a> |        	        <a style="margin:0" href="http://www.dhgate.com/sitemap/top-wholesale-products.html">Top Products</a> |        	        <a style="margin:0" href="http://www.dhgate.com/free-shipping.html">Free Shipping</a> |        	        <a style="margin:0" href="http://help.dhgate.com/help/buyer_about_usen.php" rel="nofollow">About Us</a> |        	        <a style="margin:0" href="http://help.dhgate.com/help/buyer_about_usen.php?catpid=g4" rel="nofollow">Security &amp; Privacy</a> |        	         <a href="http://help.dhgate.com/help/buyer_about_usen.php?catpid=g7" rel="nofollow">Terms of Use</a>         	        </p>        <p>Copyright Notice © 2004 - 2012 DHgate.com  All rights reserved.</p>   </div>    
 </div>
 <script type="text/javascript">
 var _gaq = _gaq || [];
