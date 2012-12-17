@@ -1,25 +1,34 @@
-> *The following text is extracted and transformed from the software4students.co.uk privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521071353id_/http%3A//www.software4students.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the software4students.co.uk privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217055544id_/http%3A//software4students.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Notice | Student discounted software | Discounted Microsoft Office for Students
+# Privacy Policy - Software4Students
 
-| 
+## **PRIVACY AND CONFIDENTIALITY STATEMENT**
 
-Software4Students acknowledges that we gather a lot of information about our members. We see this as a great responsibility and have prepared this statement to demonstrate our commitment to keeping all information gathered about our members absolutely confidential. 
+Software4Students acknowledges that we gather a lot of information about our members. We see this as a great responsibility and have prepared this statement to demonstrate our commitment to keeping all information gathered about our members absolutely confidential.
 
-Software4Students holds information on members in accordance with the provisions of the Data Protection Act 1998, and will adhere to any other relevant future legislation in this area. Under this legislation, members can obtain a copy of all information which Software4Students has on its databases in relation to them. Members wishing to obtain such information should contact _[ support@Software4Students.co.uk](mailto:support@software4students.co.uk)_. 
+### DATA PROTECTION ACT
 
-Software4Students only holds and uses personal information to provide additional service to our members. These services include, but are not restricted to; making delivery easier by holding default details for delivery, issuing reminders and gift suggestions for birthdays and other occasions, and tailoring bargain notices and other portal content to members individual preferences. To this end, information collected on members will only be made available to portal retailers and the portal itself and will not be disclosed to any third party without prior consent being obtained from the member or members concerned. 
+Software4Students holds information on members in accordance with the provisions of the Data Protection Act 1998, and will adhere to any other relevant future legislation in this area. Under this legislation, members can obtain a copy of all information which Software4Students has on its databases in relation to them. Members wishing to obtain such information should contact [support@Software4Students.co.uk](mailto:support@software4students.co.uk).
 
-Information shall be retained by Software4Students for the duration of an individual's membership. Membership is for an indefinite period but may be terminated at the members request by contacting Software4Students at [ support@Software4Students.co.uk](mailto:support@software4students.co.uk). 
+### USE OF INFORMATION
 
-This site may from time to time make available, chat rooms, forums, message boards, and similar media for members to express views and ideas. It should be noted that information posted to these areas becomes public information and Software4Students advises that no personal details should be disclosed in such areas. 
+Software4Students only holds and uses personal information to provide additional service to our members. These services include, but are not restricted to; making delivery easier by holding default details for delivery, issuing reminders and gift suggestions for birthdays and other occasions, and tailoring bargain notices and other portal content to members individual preferences. To this end, information collected on members will only be made available to portal retailers and the portal itself and will not be disclosed to any third party without prior consent being obtained from the member or members concerned.
 
-We have tried to anticipate any queries you may have in relation to the area of privacy and confidentiality. Common questions are answered in our Frequently Asked Questions sections. If this statement fails to address any issue you may have in this are, please contact the helpdesk at [ support@Software4Students.co.uk ](mailto:support@software4students.co.uk)for further details. 
+### MEMBERSHIP DURATION
 
-If you want to express a view directly to Software4Students then please email us at [ info@Software4Students.co.uk ](mailto:info@software4students.co.uk)  
+Information shall be retained by Software4Students for the duration of an individual's membership. Membership is for an indefinite period but may be terminated at the members request by contacting Software4Students at [support@Software4Students.co.uk](mailto:support@software4students.co.uk).
+
+### PUBLIC FORUM
+
+This site may from time to time make available, chat rooms, forums, message boards, and similar media for members to express views and ideas. It should be noted that information posted to these areas becomes public information and Software4Students advises that no personal details should be disclosed in such areas.
+
+### QUESTIONS AND ANSWERS
+
+We have tried to anticipate any queries you may have in relation to the area of privacy and confidentiality. Common questions are answered in our Frequently Asked Questions sections. If this statement fails to address any issue you may have in this are, please contact the helpdesk at [support@Software4Students.co.uk](mailto:support@software4students.co.uk) for further details.
+
+### FEEDBACK
+
+If you want to express a view directly to Software4Students then please email us at [info@Software4Students.co.uk](mailto:info@software4students.co.uk)
+
   
----|---  
-  
-Discount software for sale, available to students and family members in United Kingdom.  
-No student card, student e-mail address or student id required for Microsoft products. Just login, pick your cheap software and checkout!  
-Reviews, screenshots and product advice for Microsoft Student Office in our educational software information directory.
+
