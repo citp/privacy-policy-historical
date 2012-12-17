@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the analmovieclub.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602214730id_/http%3A//ww2.analmovieclub.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analmovieclub.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217034143id_/http%3A//track.analmovieclub.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
