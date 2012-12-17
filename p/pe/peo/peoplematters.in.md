@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the peoplematters.in privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615152101id_/http%3A//www.peoplematters.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplematters.in privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218001212id_/http%3A//peoplematters.in/privacy-policy) for the most accurate reproduction.*
 
-# None
+# People Matters - Strategic Human Resource Management, Leadership & Management, HR Magazine India
 
-Friday, June 15, 2012 | [Home](http://peoplematters.in/) › Privacy Policy 
+Tuesday, December 18, 2012 | [Home](http://peoplematters.in/)› Privacy Policy 
 
 ## People Matters Online Privacy Policy
 
