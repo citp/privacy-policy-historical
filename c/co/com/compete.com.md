@@ -1,112 +1,113 @@
-> *The following text is extracted and transformed from the compete.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129080638id_/http%3A//www.compete.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compete.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217053844id_/http%3A//www.compete.com/privacy) for the most accurate reproduction.*
 
-# Home: Privacy | Compete
+# Privacy | Compete
 
-Last modified: June 15, 2010
+## Privacy 
 
-This Privacy Policy (the "policy") outlines the types of personally-identifiable information ("personal information") we receive and collect when you use Compete's services available through the Compete web site located at [www.compete.com](http://www.compete.com/) (the "Services"), as well as some of the steps we take to safeguard your personal information.
+### Privacy Policy
 
-Compete uses personal information collected through the Services for the purposes of:
+Last updated: December 13, 2012
 
-  * Providing our products and services to users, including the display of customized content, identification and authentication, and contact;
-  * Auditing, research and analysis in order to maintain, protect and improve our services;
-  * Ensuring the technical functioning of our network; and
-  * Developing new services.
+Note: This policy will go into affect on January 15, 2013.  The current Compete corporate privacy policy is located [here](http://www.competeinc.com/privacy/). The current Compete PRO privacy policy is located [here](https://web.archive.org/us/about/privacy/compete-pro-privacy-agreement/).
+
+Compete helps the world’s top brands improve their marketing based insights from the online behavior of millions of consumers. Leading advertisers, agencies and publishers rely on research and analysis from Compete to help create engaging online experiences and highly effective advertising campaigns.
+
+This privacy policy applies solely to the Web site pages located at www.compete.com, the Web site pages at success.compete.com, and the Compete PRO Web application located at app.compete.com (collectively the “Site”). It does not apply to any other products or services provided by Compete or any other party, including Compete’s Consumer Input service (to access the Consumer Input Privacy Policy, [click here](http://consumerinput.com/privacy/)). The practices on such other services may vary from the practices on this Site. For the privacy practices of other Compete web sites, products or services, please review the privacy policy available on such other web sites, products or services.
+
+**Global Dispute Resolution**
+
+  
+
+
+Compete participates in the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce. Compete complies with the U.S.– E.U. Safe Harbor framework and the U.S.- Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Compete has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Compete’s certification, please visit <http://www.export.gov/safeharbor/>.
+
+[](https://privacy.truste.com/privacy-seal/Compete,-Inc--\(WPP\)/validation?rid=146c065a-e726-4dd8-a1df-4343264d1e47 "TRUSTe European Safe Harbor certification")
+
+Compete has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information while on www.compete.com. The TRUSTe program does not cover information that may be collected through downloadable software, through our Compete PRO Web App, or within our services on other sites. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@compete.com](mailto:support@compete.com). If you are not satisfied with our response you can [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint) here or see the other contact details below.
+
+As part of our participation in the Safe Harbor program, we have agreed to TRUSTe’s dispute resolution service for disputes relating to our compliance with the Safe Harbor Framework. If you have any complaints regarding our compliance with the Safe Harbor Framework you should first contact us at [support@compete.com](mailto:support@compete.com). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [clicking here](http://watchdog.truste.com/pvr.php?page=complaint), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact-us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, [click here](http://www.truste.com/about-TRUSTe/contact-us) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+
+**Information Collection**
+
+Compete collects personally identifiable information from our users of this Site in certain sections of the Site, such as our Contact Us forms, Webinar sign-up forms, and Whitepaper download forms. We also collect personally identifiable information from users who sign up for and access our Free Site Analytics reports and the Compete PRO service. Typically the information collected is name, company, email address, and phone number.
+
+If you subscribe to the Compete PRO service, we may also collect your credit card number and billing address for payment purposes.
+
+If you submit a resume or otherwise seek employment with Compete, we may collect your employment and professional history.
+
+We also collect non-personally identifiable information via various tracking utilities, as described below.
+
+**Information Use**
+
+We will use this information in a manner consistent with the following examples.
+
+  * For those users who provide an email address and phone number, we may communicate with you in response to your inquiries, to provide the services you request, to provide you information about Compete’s products and services and to add you to our newsletter and marketing lists.
+  * If you are inquiring about employment with Compete, we may use and disclose your information to services like background-checking vendors in consideration of your application.
+  * We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service or marketing resources. These companies are authorized to use your personal information only as necessary to provide these services to us.
+  * We may send you service-related announcements.
+  * We may also disclose your personally identifiable information as required by law, such as to comply with a subpoena, or similar legal process or when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+  * Your personally identifiable information may be transferred if Compete is involved in a merger, acquisition, or sale of all or a portion of its assets. Aside from such situations, Compete will not transfer your personally identifiable information to third parties.
 
 
 
-**Questions & Answers:**
+Personally identifiable information which you voluntarily disclose online in a publicly accessible blog, chat room, social media platform or other open forum, may be viewed and used by others without any restrictions. We may associate your name and website with your comments on our blog, but we are unable to control uses of your personally identifiable information by other users who see your information, and by using such services you assume the risk that the personally identifiable information provided by you may be viewed and used by third parties for any number of purposes.
 
-**Who is Compete?**
+**Opt-Out**
 
-Compete, a unit of Kantar Media, delivers digital intelligence that helps the world’s top brands improve their marketing based on the online behavior of millions of consumers. Compete’s products and services are fueled by the largest integrated online consumer behavior and survey panel in the industry. Digital insights are interpreted by analytical experts in the automotive, financial services, media, mobile, online, retail, telecom and travel markets to deliver data and recommendations to create effective online experiences and highly profitable advertising campaigns. Compete's services are supported by industry-leading data management and technology. Our consumer and industry data is drawn from numerous sources and comprises the largest continuous consumer behavior database in the industry. Our proprietary data methodologies and patent-pending technology aggregate, transform and normalize this data and ensure it is representative of the entire US online marketplace.
+If you no longer wish to receive email communications from Compete as described above, you may opt-out by following the directions that are included in each email communication. You may also contact us at [support@compete.com](mailto:support@compete.com) for assistance.
 
-Compete processes personal information only for the purposes for which it was collected and in accordance with this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+**Links to Other Sites**
 
-**What information do we collect at this website?**
+If you visit a third party website that is linked to or from this Site, you should read that site’s privacy policy before providing any personally identifiable information. We are not responsible for the practices of such third party websites, and a link to such website is not an endorsement by Compete of such website’s privacy practices, products or services.
 
-At **compete.com** , we offer a number of services that do not require you to register for an account or provide any personal information to us, such as Compete Site Profiles and Comparison. However, some of our Services will require the provision of certain personal information. In order to provide our full range of services, we may collect the following types of information:
+**Tracking Utilities**
 
-**Information you provide**
+**Log Files** : As is true of most Web sites, we gather certain information automatically and store it in log files. This information is related to the use of this Site and services and includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-When you sign up for a MyCompete account or other Compete services or promotions that requires registration, we sometimes ask you for personal information (such as your e-mail address and an account password). For certain services, such as our premium offerings, we also request credit card or other payment account information which will be maintained by third party merchant(s) or payment processor(s) in encrypted form on secure servers. We may combine the information you submit under your account with information from other Compete services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
+We use this information to analyze trends, to administer the Site, to track users’ movements around the Site and to gather demographic information about our user base as a whole.
 
-MyCompete member e-mail addresses are used to contact members regarding service updates, confirmations, opt-in surveys and select partner offers. If you would like to opt-out of these e-mails, please see the Opt-out section within e-mails you receive from us or manage your e-mail subscriptions by signing into MyCompete by clicking [here](https://app.compete.com/account-settings). You may also contact us using the contact information listed below. If you elect to opt-out of further communications, such opt-out will apply only to marketing messages and not to communications regarding service updates and similar matters.
+**Cookies** : We may collect certain non-personally identifiable information in part through the use of a web technology called a “cookie.” We use both session ID cookies and persistent cookies to make it easier for you to navigate our Site, to tailor your exposure to certain content on our site, and for storing your preferences.
 
-Compete Blog e-mail updates are administered by a 3rd party service provider. E-mail addresses provided to them via the automated form on the blog are used solely for the purpose of sending you blog alerts.
+Cookies are small text files that are saved to your computer using your web browser, which allows websites to recognize you and store preferences and other information if you return to the website using the same computer and browser. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time.
 
-If you choose to use our referral service to tell a friend that you think Compete.com might be of interest to them, we will ask you for your friend's name and e-mail address. We will automatically send your friend a one-time e-mail inviting him or her to visit the site. We store this information for the sole purpose of sending this one-time e-mail. We have no intention of annoying you or your friends. Your friend may contact us to request that we remove this information from our database. Please be judicious when providing friends' contact information to our service and do not provide us with such information unless you have your friends' consent to do so.
+You can remove persistent cookies by following directions provided in your Internet browser’s “help” file, or click here for more information on cookies.
 
-When you contact us via our Contact form, send e-mail or other communication to Compete, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+**Web Beacons** : We, and our third party tracking utility companies, employ a software technology called web beacons to track the online movements of our site users.
 
-**Cookies, Beacons and Site Logging**
+We also use Web beacons in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see the “Opt-out” section above.
 
-To serve you faster and with better quality, we use "cookies" technology. Cookies are small bits of code, usually stored on a user's computer hard drive, which enable a Website to "personalize" itself for each user. We generally use cookies to reduce the time it takes for pages to load on your computer and to assist with customer tracking. Customer tracking (or "click-stream") data collected by us is used to optimize your experience by learning whether or not you successfully used Compete.com. Cookies are not tied to your personal information.
+Web Beacons are tiny graphics or snippets of javascript with unique identifiers, similar in function to cookies, and are embedded invisibly on Web pages. Web beacons may set cookies or interact with cookies on user’s computers.
 
-We employ a software technology called clear gifs (a.k.a. Web Beacons) that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movement of Web users. Clear gifs are not tied to users' personally identifiable information. We also use clear gifs in our HTML-based e-mails to let us know which e-mails the recipients have opened. This allows us to gauge the effectiveness of certain communications.
+**Security**
 
-When you use Compete services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+We have put in place reasonable administrative, technical, and physical safeguards to protect against unauthorized access to the information we collect. However, no security measures are 100% impenetrable and we cannot guarantee against all potential security breaches. Moreover, the transmission of information over the Internet is not inherently secure, and we are not responsible for the transmission of information over networks that we do not control. Your use of our Site demonstrates your assumption of these risks.
 
-**What information does our technology collect?**
+**Data Retention**
 
-When you download Compete software, including the Compete Toolbar, you will be given the option of enabling click-sharing. Should you opt-in to click-sharing you will begin to anonymously share the addresses of the web pages you visit online.
+We will retain the information described above for as long as the information has value to us, or as long as is necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, whichever is longer. If you wish to request that we no longer use your personally identifiable information to provide you services or information, please contact us at [support@compete.com](mailto:support@compete.com).
 
-Using the small piece of software you download, we collect information related to your website visitation and internet usage. We use this information, in anonymous or aggregated fashion, to help our clients understand what sites, products, and services our members interact with. The small piece of software uses a proprietary rules engine to search through all URLs (internet site addresses), before transmitting them to its database, to strip out any such personally identifiable information. If any personal information, for ex. something you may have typed into a field on a page, inadvertently collected by the software, we make every commercially viable effort to purge our database of that information promptly. In any event, we do not disclose the contents of such information stored in our databases - so we will not release or use this information anyway.
+**Data Access**
 
-As a member of the compete.com community you are assigned a randomly generated user ID ensuring your anonymity. The only contact information associated with your user ID is your registration e-mail, which we only use to send you service updates and other requested communications that you have signed up to receive from us.
+For those users for whom we have email and other personally identifiable information, you may correct, update or remove your contact information by contacting us at [support@compete.com](mailto:support@compete.com). We will respond to all such requests within 30 days.
 
-To calculate more robust metrics for our users, we also license URL and demographic data (age, gender, household income, geographical location, etc.) from multiple sources including ISPs and ASPs. We honor the privacy of our Members and the privacy policies of our licensors and do not knowingly collect or license personally identifiable information from members or licensors. Again, Compete aggregates data on multiple users before supplying any data, thereby ensuring an individual's privacy.
+**Changes in this Privacy Policy**
 
-Compete may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our services. 
+If we are going to use your previously collected personally identifiable information in a manner materially different from that stated in our privacy policy at the time of collection, you will be notified via email or via a prominent notice on the Site prior to the change becoming effective. You will have a choice as to whether or not we use your information in this different manner and instructions for how to make that choice will be included in the notification.
 
-We may use a 3rd party partner for database or software application services (such as customer support, email or survey and for purposes of data quality, data cleansing . In addition, we may occasionally supplement information panel members provide us with public information (such as demographic information, ownership information or similar) available through third parties. In all cases, we ensure your privacy by having these third parties sign a written, legally binding agreement stipulating that they will not share our data with any outside party and that any individual identifying information is to be used solely for the purpose of matching records or providing the agreed upon database service. This Policy applies to all information that you provide to Compete.com. However, when you visit websites to which Compete.com links, keep in mind you will be interacting with a third party that operates under its own privacy and security policy. If you choose to obtain certain services through a third party site, the data collected by the third party is governed by that third party's privacy policy. A third party site will also have its own policy regarding the use of cookies and clear gifs. We encourage you to review the privacy policies of any other service provider from whom you request services. 
+If we make any non-material changes to our privacy practices that do not affect information already stored in our database or for future collection, we will post a prominent notice on our Site notifying our users that there is a change and pointing them to the revised privacy policy.
 
-**Are there any other third parties with whom we share your information?**
+**United State of America**
 
-Compete.com only shares personal information with individuals outside of Compete as disclosed in the compete.com Privacy Policy and in the following limited circumstances:
+Our servers are maintained in the United States of America. By using the Site, you freely and specifically give us your consent to export your personally identifiable information to the USA and to store and use it in the USA as specified in this privacy policy. You understand that our data is subject to lawful requests by the courts or law enforcement authorities in the United States.
 
-We have a good faith belief that access, use, preservation or disclosure of information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, (d) protect against imminent harm to the rights, property or safety of Compete, its users or the public as required or permitted by law, (e) allow service providers and/or vendors to fulfill Services for you on behalf of Compete or (f) pursuant to an acquisition, merger, sale of assets or other business transfer.
+**Terms and Conditions**
 
-**What is our policy regarding children's privacy?**
+Use of this Site is governed by, and subject to, the Terms and Conditions contained at <http://www.compete.com/us/about/terms/>. This privacy policy is incorporated into such terms. Your use, or access, of the Site constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE.
 
-You must be at least 13 years old to use the Compete services. We do not knowingly collect or use personal information about visitors under 13 years of age. If you are under 13 years of age, you can use the services offered on our website only in conjunction with your parents or guardians.
-
-**What security measures do we have in place to ensure that your data is kept securely?**
-
-We take reasonable security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of personal information. These measures include internal reviews of our data collection, storage and processing practices and security practices.
-
-We restrict access to personal information to Compete employees, contractors and agents who need to know that information in order to operate, develop or improve our services. We take reasonable efforts to ensure all parties comply with confidentiality obligations.
-
-We store all personal information on our servers in the United States of America.
-
-**How would we inform you if our privacy practices change?**
-
-Please note that this policy may change from time to time. We will post any policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, e-mail notification of policy changes). By using our services, you signify your assent to the Compete.com Privacy Statement. Our Privacy Statement will indicate the date it was last updated. Your continued use of our site will signify your acceptance of the changes to our policy. 
-
-For the Compete Consumer Input privacy policy, see [www.consumerinput.com/privacy](http://www.consumerinput.com/privacy).
-
-For the general Compete privacy policy, see [www.competeinc.com/privacy](http://www.competeinc.com/privacy).
-
-**How may I update, correct or delete information you have about me?**
-
-To update your compete.com profile, change your e-mail address, or be removed from the compete.com mailing list, [click here](https://app.compete.com/).
-
-**How may I contact you?**
-
-If you have any questions related to compete.com, please [contact us](http://www.compete.com/contact) or write to us at:
-
-Compete Inc.  
-Four Copley Place, Suite 700  
-Boston, MA 02116 USA  
-Attention: Member Services 
-
-**Privacy and Dispute Resolution**
-
-Compete participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet or by fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://watchdog.truste.com/pvr.php?page=complaint> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. 
-
-If you have questions related to privacy, please contact us at [privacy@compete.com](mailto:privacy@compete.com) or by writing to us at: 
+If you have questions related to privacy, please contact us at [privacy@compete.com](mailto:privacy@compete.com) or write to us at:
 
 Privacy Officer  
-Compete Inc.  
-Four Copley Place, Suite 700  
-Boston, MA 02116 
+Compete, Inc.  
+501 Boylston Street  
+Suite 6101  
+Boston, MA 02116
