@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psdreview.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619140931id_/http%3A//psdreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psdreview.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217162457id_/http%3A//psdreview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PSDreview
 
@@ -12,4 +12,4 @@ We use data contained in log files which includes information about your IP addr
 
 We use cookies to store information of your preferences while you visit our website. We also use third party advertisements to support this website which also collects information about your IP, ISP and browser.
 
-Google uses cookies as a third part vendor to serve ads on your site. Google’s DART cookies serve ads to users and users are free to opt out the use of DART cookies by visiting [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Google uses cookies as a third part vendor to serve ads on your site. Google’s DART cookies serve ads to users and users are free to opt out the use of DART cookies by visiting [Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/).
