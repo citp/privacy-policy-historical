@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the shiftplanning.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603150935id_/http%3A//www.shiftplanning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiftplanning.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217040112id_/http%3A//www.shiftplanning.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ShiftPlanning.com
-
-[](http://www.shiftplanning.com/)
 
 ShiftPlanning© takes your privacy seriously. We have developed the following Privacy Policy for your protection.
 
@@ -24,7 +22,7 @@ Most browsers are initially set up to accept cookies. If you prefer, you can res
 
 ## IP Addresses 
 
-We collect and analyize traffic on our Website by keeping track of the IP addresses of our visitors. An IP address is a unique number assigned to your computer when you are using your browser on the Internet. We log this information so that we can monitor things like the number of visitors visiting the Website; however, we do not link your IP address to any personally identifying information.
+We collect and analyze traffic on our Website by keeping track of the IP addresses of our visitors. An IP address is a unique number assigned to your computer when you are using your browser on the Internet. We log this information so that we can monitor things like the number of visitors visiting the Website; however, we do not link your IP address to any personally identifying information.
 
 ## Personalizing Your Experience on the Website 
 
@@ -32,7 +30,7 @@ We try to personalize your experience on our Website by tracking shift requests,
 
 ## Information Gathered From Members 
 
-If you elect to purchase a product on a ShiftPlanning© owned website, you will be required to provide us with certain personal information, including your name, e-mail address, credit card number, expiration date, and billing address (this required information is subject to change from time to time). There may also be opportunities for you to provide us with additional information regarding your preferences and interests. This information, however, is not required and is completely optional on your part. Additional data may be collected from you based upon certain services you elect to utilize on our Website. By obtaining this information, we can provide our users with specific content and advertising in which they might be interested. None of this information is required to use our service or to become a user; however, the omission of certain types of data will limit the value of your use of these features. If you become a user of our Website or from one of our affialted Website, we may share your registration information with the affiliates.
+If you elect to purchase a product on a ShiftPlanning© owned website, you will be required to provide us with certain personal information, including your name, e-mail address, credit card number, expiration date, and billing address (this required information is subject to change from time to time). There may also be opportunities for you to provide us with additional information regarding your preferences and interests. This information, however, is not required and is completely optional on your part. Additional data may be collected from you based upon certain services you elect to utilize on our Website. By obtaining this information, we can provide our users with specific content and advertising in which they might be interested. None of this information is required to use our service or to become a user; however, the omission of certain types of data will limit the value of your use of these features. If you become a user of our Website or from one of our affiliated Website, we may share your registration information with the affiliates.
 
 ## Uses of Personal Information 
 
@@ -81,7 +79,7 @@ In the event that ShiftPlannning© and/or its units or subsidiaries are ever sol
 
 ## Data Security 
 
-When you place orders for purchased products or access your payment information, we use an advanced encryption technology known as Secure Socket Layer (SSL) to protect the storage and transfer of your data from unauthorized parties. While on a secure page, such as our registration form, a lock or key icon appears on the bottom of your web browser. In addition to our online security efforts, we take reasonable steps to protect your personal data offline, as well. All of your information, not just the sensitive information mentioned above, is restricted in our offices. Our main servers are operated from a dedicated Internet hosting facility with state-of-the-art physical security features, including smoke detection and fire suppression systems, motion sensors, and 24x7 secured access, as well as video camera surveillance and security breach alarms. If you have any questions about the security at our websites, you can send an email to .
+When you place orders for purchased products or access your payment information, we use an advanced encryption technology known as Secure Socket Layer (SSL) to protect the storage and transfer of your data from unauthorized parties. While on a secure page, such as our registration form, a lock or key icon appears on the bottom of your web browser. In addition to our online security efforts, we take reasonable steps to protect your personal data offline, as well. All of your information, not just the sensitive information mentioned above, is restricted in our offices. Our main servers are operated from a dedicated Internet hosting facility with state-of-the-art physical security features, including smoke detection and fire suppression systems, motion sensors, and 24/7 secured access, as well as video camera surveillance and security breach alarms. If you have any questions about the security at our websites, you can send an email to .
 
 ## Changes to the Privacy Policy 
 
@@ -104,3 +102,32 @@ Anytime you visit a chat room or post a message to an online bulletin board, you
 If you have questions or concerns regarding this Policy, you should email ShiftPlanning Customer Service at .
 
 ### Last Revised: January 27th, 2010
+
+## GET STARTED NOW
+
+30 Day Free Trial. No Credit Card Required.
+
+close 
+
+Enter your Full Name  
+---  
+Enter Valid E-Mail Address  
+Enter Valid Phone Number  
+Enter your Business Name  
+Enter desired URL  
+  
+By clicking "Create my ShiftPlanning Account" you agree to the [Terms of Service](https://web.archive.org/terms/) and [Privacy Policy](https://web.archive.org/privacy/). 
+
+## LIVE CHAT DEMO REQUEST!
+
+Please provide information below.
+
+close 
+
+Enter your Full Name  
+---  
+Enter your E-Mail  
+Enter your Phone Number  
+Enter your Business Name  
+Enter Industry  
+Enter Number of Employees
