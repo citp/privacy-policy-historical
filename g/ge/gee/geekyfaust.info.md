@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geekyfaust.info privacy policy that was archived on 2012-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120330212424id_/http%3A//geekyfaust.info/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekyfaust.info privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217044016id_/http%3A//geekyfaust.info/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GeekyFaust | Philippines, Technology, Tips and Reviews Blog
+# Privacy Policy | GeekyFaust | Philippines, Gadget Reviews, Technology News
 
 **Introduction and Terms**
 
