@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gameyeeeah.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613204945id_/http%3A//r4-3.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameyeeeah.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217011017id_/http%3A//r4-3.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice : R4i SDHC 3DS | R4i Gold 3DS | Acekard 2i | EZFlash | Supercard DSTWO / DSonei, R4-3
+# Privacy Notice : R4 Card | R4i SDHC | R4i Gold | R4i 3DS | Acekard 2i | EZFlash | Supercard DSTWO / DSonei, R4-3
 
 ## SHARING INFORMATION
 
@@ -17,9 +17,3 @@ What other kind of information do we collect? We use a commonly known file calle
 Like most other websites, we monitor the aggregate (how many people) traffic statistics on our website. This is done in order to provide our customers with better and more efficient service. These general statistics do NOT personally identify our customers and site visitors.
 
 We use affiliate software to track where potential customers are coming from so that the affiliate site may be paid as a result. This software logs computer ID as a security precaution.
-
-## PARTNERSHIP
-
-International Users Should Use Paypal as the faster way to get the orders processed. Shipping and Billing address must match with the address on Paypal Account.
-
-[multi game card](http://nintendo-super-multi-games-card.com/) cf_ipcf_cymy_ip174.129.228.67
