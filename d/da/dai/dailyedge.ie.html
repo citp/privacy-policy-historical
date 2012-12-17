@@ -1,0 +1,1378 @@
+<!--The following is the downloaded HTML source of the dailyedge.ie privacy policy that was archived on 2012-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121217171545id_/http%3A//www.thejournal.ie/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" js"><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>TheJournal.ie - Read, Share and Shape the News</title>
+        <link rel="stylesheet" type="text/css" href="http://static.jrnl.ie/desktop/css/main.20121211.css">
+        <link href="http://static.jrnl.ie/desktop/i/thejournal/favicon.ico" type="image/x-icon" rel="icon">
+        <link href="http://static.jrnl.ie/desktop/i/thejournal/favicon.ico" type="image/x-icon" rel="shortcut icon">
+    	<link href="http://static.jrnl.ie/desktop/i/thejournal/apple-touch-icon.png" rel="apple-touch-icon">
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    document.documentElement.className+=' js';
+    var ajaxurl = 'http://www.thejournal.ie/ajax.php';
+    var stats_url = 'http://www.thejournal.ie/statsscript.php';
+    var current_url = 'www.thejournal.ie/privacy/';
+    var load_time = '2012-12-17 17:15:10';
+    var current_post_id = 0;
+    var current_post_permalink = '';
+    var stats_key = "ecf7903edf8d9fa96e9af8b783563b44";
+    var wp_logged_in = false;
+    var current_title = "";
+    
+    window.jrnl_social_connected = false;
+
+    var _sf_startpt=(new Date()).getTime()
+    
+    var app_cookie_domain = '.thejournal.ie';
+    var session_domain = "http://www.thejournal.ie";
+</script>
+<script type="text/javascript">
+    document.domain = "thejournal.ie";
+    window.on_front = false;
+                window.authenticator = '';
+    window.login_expires = 1513530910;
+    window.users_token = '';
+    
+                window.fbAsyncInit = function() {
+                FB.init({appId: "116141121768215", status: true, cookie: true,
+                xfbml: true});
+                FB.Event.subscribe('edge.create', function(response){
+                    // Log like
+                    socialReader.like(response);
+                });
+                                        sync_with_server();
+                                    };
+            (function(d){
+                var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+                js = d.createElement('script'); js.id = id; js.async = true;
+                js.src = "//connect.facebook.net/en_US/all.js";
+                d.getElementsByTagName('head')[0].appendChild(js);
+            }(document));
+                window.email_permission = false;
+        window.share_permission = false;
+            var jrnl_social_window = null;
+        function jrnl_social_login(service, submit_comment) {
+            var link = '';
+            if(service == 'twitter')
+            {
+                link = "http://www.thejournal.ie/utils/login/twitter/?";
+                if(submit_comment)
+                {
+                    link = link + "&comment=1";
+                }
+            }
+            else if(service == 'facebook')
+            {
+                // Facebook link is a bit messier - need to bounce through popup
+                link = "http://www.thejournal.ie/utils/login/facebook/?url=https%3A%2F%2Fwww.facebook.com%2Fdialog%2Foauth%3Fdisplay%3Dpopup%26client_id%3D116141121768215%26scope%3D" + get_fb_perm_string() + "%26redirect_uri%3Dhttp%3A%2F%2Fwww.thejournal.ie%2Futils%2Flogin%2Ffacebook%2F";
+                // Are we submitting after log-in?
+                if(submit_comment)
+                {
+                    link = link + "?comment=1";
+                }
+            }
+
+            if ( jrnl_social_window != null && !jrnl_social_window.closed )
+                jrnl_social_window.close();
+
+            jrnl_social_window = window.open(
+                link,
+                'jrnl_social_window',
+                'status,scrollbars,location,resizable,width=600,height=350'
+            )
+            jrnl_social_window.focus();
+
+            return false;
+        }
+</script>        <link rel="alternate" type="application/rss+xml" title="TheJournal.ie » Feed" href="/feed/">
+        <link rel="alternate" type="application/rss+xml" title="TheJournal.ie » Comments Feed" href="/comments/feed/">
+                
+        <script type="text/javascript" src="http://static.jrnl.ie/desktop/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://static.jrnl.ie/desktop/js/json2.js"></script>
+<script type="text/javascript" src="http://static.jrnl.ie/desktop/js/init.20120803.js"></script>
+<script type="text/javascript" src="http://static.jrnl.ie/desktop/js/auth.20120711.js"></script>
+<script type="text/javascript" src="http://static.jrnl.ie/desktop/js/jquery.cookie.20120613.js"></script>
+<script type="text/javascript" src="http://static.jrnl.ie/desktop/js/jquery.lazyload.min.js"></script>
+<script type="text/javascript" src="http://static.jrnl.ie/desktop/js/app-download-prompt-v3.20120613.js"></script>
+
+        <meta name="description" content="Read, share and shape the news on TheJournal.ie - Breaking Irish and International News">
+        <meta name="keywords" content="news, irish news, breaking news, irish politics, business, sports, entertainment, news blog, ireland, irish">
+<meta name="fb:app_id" content="116141121768215">
+<meta property="og:type" content="website">
+<meta property="og:title" content="TheJournal.ie">
+<meta property="og:url" content="http://www.thejournal.ie">
+<meta property="og:image" content="http://graph.facebook.com/137576076262825/picture?type=large">
+<meta property="og:site_name" content="TheJournal.ie">
+        <!-- IE9 Pinning -->
+        <meta name="application-name" content="TheJournal">
+        <meta name="msapplication-tooltip" content="TheJournal.ie - Read, Share and Shape the news">
+        <meta name="msapplication-starturl" content="http://www.thejournal.ie/">
+        <meta name="msapplication-task" content="name=The 9 at 9;action-uri=http://www.thejournal.ie/9at9;icon-uri=http://static.jrnl.ie/desktop/i/thejournal/favicon.ico">
+        <meta name="msapplication-task" content="name=The Score;action-uri=http://thescore.thejournal.ie/;icon-uri=http://static.jrnl.ie/desktop/i/thescore/favicon.ico">
+        <meta name="msapplication-task" content="name=Business Etc;action-uri=http://businessetc.thejournal.ie/;icon-uri=http://static.jrnl.ie/desktop/i/businessetc/favicon.ico">
+        <meta name="msapplication-task" content="name=The Daily Edge;action-uri=http://thedailyedge.thejournal.ie/;icon-uri=http://static.jrnl.ie/desktop/i/thedailyedge/favicon.ico">
+        <meta name="msapplication-task" content="name=Irish News;action-uri=http://www.thejournal.ie/category/living/;icon-uri=http://static.jrnl.ie/desktop/i/thejournal/favicon.ico">
+        <!-- /IE9 Pinning -->
+    </head>
+    
+    <!--[if IE 6]><body class="ie ie6 ie-lt8"><![endif]--> 
+    <!--[if IE 7]><body class="ie ie7 ie-lt8"><![endif]-->
+    <!--[if IE 8]><body class="ie ie8"><![endif]-->
+    <!--[if gte IE 9]><body class="ie9up"><![endif]-->
+    <!--[if !IE]><!-->
+    <body class="nie">
+    <!--<![endif]-->
+        <div id="fb-root"></div>
+        
+<center class="header_leaderboard">
+    <script language="javascript">
+        if (window.adgroupid == undefined) {
+             window.adgroupid = Math.round(Math.random()* 1000);
+        }
+        document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|809|3552725|0|225|ADTECH;cookie=info;loc=100;target=_blank;kvtopics=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+        /*]]>*/
+        </script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|809|3552725|0|225|ADTECH;cookie=info;loc=100;target=_blank;kvtopics=;grp=78;misc=1580484082422"></script><noscript><a href='http://adserver.adtech.de/adlink|3.0|809|3552725|0|225|ADTECH;loc=300;key=' target='_blank'><img src='http://adserver.adtech.de/adserv|3.0|809|3552725|0|225|ADTECH;cookie=info;loc=300;kvtopics=' border='0' width='' height=''></a></noscript></center>
+
+
+        <div class="masthead content">
+            <ul class="publications">
+                <li class="main">
+        <div>
+            <a href="http://www.thejournal.ie">
+                <img src="http://static.jrnl.ie/desktop/i/thejournal/logo.png" width="256" height="46">
+            </a>
+        </div>
+    </li>
+    <li class="businessETC"><a href="http://businessetc.thejournal.ie">TheJournal.ie</a></li><li class="theScore"><a href="http://thescore.thejournal.ie">TheJournal.ie</a></li><li class="theDailyEdge"><a href="http://thedailyedge.thejournal.ie">TheJournal.ie</a></li>                <li class="search">
+                    <form action="http://www.thejournal.ie/submit.php" method="get" class="searchForm" id="searchForm">
+                        <input type="text" name="st" id="search">
+                        <label for="search">Search site</label>
+                        <button type="submit" class="icon iconSearch">Search</button>
+                    </form>
+                </li>
+            </ul>
+            <div class="today">
+                <span class="weather">
+                    <a title="Times of clouds and sun" href="http://www.thejournal.ie/weather/">
+                        Dublin: 7 °C
+                    </a>
+                    <img style="margin-left:8px" src="http://static.jrnl.ie/desktop/i/weather-icons/xsmall/18.png" width="25" height="25">
+                </span>
+                <span class="date">Monday 17 December, 2012</span>
+                <span class="user-icon" id="user-icons">    
+                <a href="/user/" id="user_icon_box"><span id="user_icon_img"></span><span class="user-name" id="user_icon_name"></span></a>                </span>
+            </div>
+        </div>
+        <div class="mainContainer content">
+            <div class="container navigation">
+                <ul class="menu tablecell">
+                                            <li><a href="http://www.thejournal.ie" class="homepage active icon iconHomepage">Homepage</a></li>
+                    <li><a class="" href="http://www.thejournal.ie/category/irish/">Irish</a></li><li><a class="" href="http://www.thejournal.ie/category/international/">International</a></li><li><a class="" href="http://www.thejournal.ie/category/science/">Science</a></li><li><a class="" href="http://www.thejournal.ie/category/environment/">Environment</a></li><li><a class="" href="http://www.thejournal.ie/category/living/">Living</a></li><li><a class="" href="http://www.thejournal.ie/category/culture/">Culture</a></li><li><a href="http://jobs.thejournal.ie" class="advertsIcon">Adverts.ie Jobs</a></li>                </ul>
+                                    <div class="navigationTrendingTags">
+                        <strong>Trending:</strong>
+                        <ul class="tablecell">
+                                                            <li>
+                                    <a href="http://www.thejournal.ie/love-hate/news/" class="tag">love hate</a>
+                                </li>
+                                                                <li>
+                                    <a href="http://www.thejournal.ie/sandy-hook/news/" class="tag">sandy hook</a>
+                                </li>
+                                                        </ul>
+                    </div>
+                                    <a href="#feed-popup" class="rss icon iconRss lightboxTrigger" title="Subscribe to RSS feed">RSS</a>
+            </div>
+            <div class="mainContent container">
+
+<div class="river span-8">
+
+<div class="post postMain">
+    <h1>Privacy</h1>
+
+<div class="text">
+<h3>Introduction</h3>
+<p>Your privacy is important to us and this privacy statement sets out how Journal Media Ltd. collects, uses and protects any information you give us when you use TheJournal.ie. If you give us any information by which you can be identified when using TheJournal.ie then we will use it only in accordance with this privacy statement.</p>
+<p>We may change this privacy statement from time to time. When we do we will notify you of the changes by adding an “updated” icon next to the Privacy link on the front page of the site for two weeks from the date of the change. By continuing to use the site you agree to these changes.</p>
+<h3>Children under the age of 13</h3>
+<p>TheJournal.ie is not directed at children younger than 13 years of age and is offered only to users who are 13 or older. Children below 13 may not register with TheJournal.ie. We do not knowingly collect information from or about children below the age of 13. If we discover that we have collected personal information from a child below the age of 13 we will delete that information as soon as possible. If you believe we might have any information from or about a child under 13, please contact us at privacy@thejournal.ie.</p>
+<h3>Persons aged 13 to 17</h3>
+<p>We recommend that young people aged 13 to 17 ask their parents or legal guardians for permission before using TheJournal.ie or sending any information about themselves to anyone over the Internet.</p>
+<h3>What we collect</h3>
+<p>We collect the following information:</p><ul><li>Information which you supply on registration or as part of your profile;</li><li> Information which you provide in relation to any payment;</li><li> Information which you post on TheJournal.ie;</li><li> Information which you otherwise provide to us (for example by email or private message); and</li><li> Information relating to your use of TheJournal.ie generally. This may include, for example login and logout times and polls you’ve voted on.</li></ul>
+<p>Technical details in connection with visits to this website are logged for our statistical purposes. The technical details logged include:</p><ul><li>The IP address of each visitor and the domain of the internet service provider;</li><li> The previous website address from which a visitor reached us, including any search terms used;</li><li> “Clickstream” data which shows the traffic of visitors around TheJournal.ie (for example showing which stories have been read and which links have been clicked); and</li><li> The type of web browser used by a visitor.</li></ul>
+<p>We also use outside providers for web-site statistics. Please note that to provide statistics these use visitors’ IP addresses but do not have access to users’ usernames or email addresses. The primary provider we use is Google Analytics. You can find further information on the information which it collects at <a href="http://www.google.com/analytics/">http://www.google.com/analytics/</a>.</p>
+<h3>Cookies</h3>
+<p>TheJournal.ie uses cookies to improve your experience and to provide services and advertising. In particular, cookies are used to keep a record of your preferences and to keep you logged in between visits if you so choose. We also use temporary session cookies which enable a visitor’s web browser to remember which pages on this website have already been visited.</p>
+<h3>External providers</h3>
+<p>From time to time we may partner with an external provider to provide other services, for example we may ask an external company to carry out a survey or to run a competition. If any personal information is required you will be advised beforehand.</p>
+<h3>What we do with the information we collect</h3>
+<p>We require this information for the operation of TheJournal.ie, to understand your needs and provide you with a better service. In particular, we may use or disclose your information for the following reasons:</p><ul><li>We may use this information for our administration, record keeping and in connection with any payment;</li><li> We may use this information, with your permission only, to contact you for marketing purposes;</li><li> We may transfer this information to any sister site of TheJournal.ie where necessary for the operation of that site;</li><li> We may use this information for technical processing and to address technical problems or service complaints;</li><li> We may use this information to deal with cases of illegal activity, abuse or harassment;</li><li> We may transfer this information to enable an external auditor to verify our traffic figures;</li><li> We may disclose this information where required by law to do so;</li><li> We may disclose this information to law enforcement, government officials or courts where we believe that disclosure is necessary and proportionate; and</li><li> We may disclose this information where we believe that disclosure is necessary and proportionate for the protection of the legitimate interests of ourselves or of a third party.</li></ul>
+<p>We will not otherwise disclose, sell or distribute your information to any third party without your permission.</p>
+<h3>Anonymous and aggregated data</h3>
+<p>We may aggregate data in an anonymous manner for disclosure to advertisers or business associates for promotion and marketing purposes. By way of example, we may disclose to an advertiser the number of unique visitors in a daily period or the percentage age groups of our members. No personally identifiable information will be disclosed.</p>
+<h3>Information you post</h3>
+<p>Any personal information which you volunteer in your public profile or which you post as a message will be available worldwide to anyone with access to the website.</p>
+<p>Please do not post any information you are not happy to leave up indefinitely. We recommend you do not post your name, address, telephone number, email address or anything else that may lead someone to identify you if this is something you are uncomfortable with.</p>
+<p>Please note that certain information (such as photographs) which you may choose to provide might reveal your gender, ethnic origin, nationality, religion and/or sexual orientation.</p>
+<h3>Anonymous / pseudonymous users</h3>
+<p>You are free (if you wish) to choose a username which does not reflect your real name. However please be aware that we cannot guarantee that others will not be able to determine your identity.</p>
+<h3>Controlling your personal information</h3>
+<p>You may request details of personal information which we hold about you or rectify any personal information which is incorrect or incomplete under the Data Protection Acts 1988-2003.</p>
+<p>If you would like a copy of the information held on you please email us at <a href="mailto:privacy@thejournal.ie">privacy@thejournal.ie</a>. If you are a registered user please supply details of your username and email address which you supplied when registering. Please note that to protect your privacy we may require further information to verify your identity.</p>
+<p>If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at <a href="mailto:privacy@thejournal.ie">privacy@thejournal.ie</a>. We will promptly correct any information found to be incorrect.</p>
+<p>If someone else has posted your personal information on TheJournal.ie without your permission and you would like it removed please contact us at <a href="mailto:privacy@thejournal.ie">privacy@thejournal.ie</a>.</p>
+<h3>Security</h3>
+<p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p>
+<h3>Confidential Sources</h3>
+<p>Users may wish from time to time to pass information to our writers on a confidential basis. Please note that while we take the privacy of confidential sources seriously, we may not always be able to guarantee absolute confidentiality if, for example, we are compelled by a court order to reveal the identity of a source. If you wish to pass information to us in complete security you may wish to use some of the methods described in the Reporters Without Borders Handbook for Bloggers and Cyber-Dissidents.</p>
+<h3>Glossary of technical terms used</h3>
+<p>Web browser</p>
+<p>The piece of software you use to read web pages. Examples are Microsoft Internet Explorer, Firefox, Safari and Opera.</p>
+<p>IP address</p>
+<p>The identifying details for your computer (or your internet company’s computer), expressed in “internet protocol” code (for example 192.168.72.34). Every computer connected to the web has a unique IP address, although the address may not be the same every time a connection is made.</p>
+<p>Cookies</p>
+<p>Small pieces of information, stored in simple text files, placed on your computer by a web site.</p></div>
+
+</div> <!-- EO post -->
+
+
+</div> <!-- EO river -->
+<!-- Sidebar -->
+<div class="sidebar span-4 last">
+<div class="advert">
+<script language="javascript">
+        if (window.adgroupid == undefined) {
+             window.adgroupid = Math.round(Math.random()* 1000);
+        }
+        document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|809|3325661|0|170|ADTECH;cookie=info;loc=100;target=_blank;kvtopics=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+        /*]]>*/
+        </script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|809|3325661|0|170|ADTECH;cookie=info;loc=100;target=_blank;kvtopics=;grp=78;misc=1580484082440"></script><noscript><a href='http://adserver.adtech.de/adlink|3.0|809|3325661|0|170|ADTECH;loc=300;key=' target='_blank'><img src='http://adserver.adtech.de/adserv|3.0|809|3325661|0|170|ADTECH;cookie=info;loc=300;kvtopics=' border='0' width='' height=''></a></noscript></div>
+<div id="text-17" class="widget widget_text">
+    <div class="sectionSeparator widget-facebook-box">
+        <div class="textwidget">
+        <div id="facebooklikebox"></div>
+<script type="text/javascript">
+var FBiframe='<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fthejournal.ie&amp;width=310&amp;connections=10&amp;stream=false&amp;header=false&amp;height=250" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:310px; height:250px;" allowtransparency="true"></iframe>'// Deferred load of the Facebook like box
+$(document).ready(function() { 
+    $('#facebooklikebox').append(FBiframe);
+}
+);
+
+</script>
+        </div>
+    </div>
+</div>
+<a href="http://itunes.apple.com/us/app/thejournal-ie/id409359491?mt=8" title="Download the TheJournal.ie for the iPhone, iPad and iPod" class="button buttoniPhoneDownload">Download the TheJournal.ie for the iPhone, iPad and iPod</a>
+<div class="widget widgetFromOtherPublication widgetBusinessETC">
+    <div class="sectionSeparator">
+        <h3><a href="http://businessetc.thejournal.ie/">From BusinessEtc</a></h3>
+    </div>
+    <div class="widgetContent">
+            <!-- Post from other publication -->
+        <div class="post postMini postMiniLandscape">
+            <div class="img">
+                <a href="http://businessetc.thejournal.ie/prize-bond-jackpot-to-fall-719235-Dec2012/"><img src="http://s3.jrnl.ie/media/2012/12/10102006-prizebonds-millionth-prize-2-290x80.jpg" alt="Prize Bond prizes to fall as cost of borrowing goes down" height="80" width="290"></a>
+                <a href="http://businessetc.thejournal.ie/austerity/news/" class="tag">
+                    Austerity                </a>
+            </div>
+            <div class="text">
+                <h4><a href="http://businessetc.thejournal.ie/prize-bond-jackpot-to-fall-719235-Dec2012/">Prize Bond prizes to fall as cost of borrowing goes down</a></h4>
+            </div>
+        </div>
+        <!-- /Post from other publication -->
+
+            <!-- Mini post -->
+        <div class="post postMini">
+            <div class="img">
+            <a href="http://businessetc.thejournal.ie/isme-government-dissatisfaction-survey-718264-Dec2012/">
+                <img src="http://s0.jrnl.ie/media/2012/12/enda-kenny-european-council-80x50.jpg" alt="SMEs remain broadly dissatisfied with Government performance – survey" height="50" width="80">
+            </a>
+            </div>
+            <div class="text">
+                <a href="http://businessetc.thejournal.ie/satisfaction/news/" class="tag">
+                    Satisfaction                </a>
+                <h5>
+                    <a href="http://businessetc.thejournal.ie/isme-government-dissatisfaction-survey-718264-Dec2012/">
+                        SMEs remain broadly dissatisfied with Government performance – survey                    </a>
+                </h5>
+            </div>
+        </div>
+        <!-- /Mini post -->    
+            <!-- Mini post -->
+        <div class="post postMini">
+            <div class="img">
+            <a href="http://businessetc.thejournal.ie/taxi-routes-length-law-719071-Dec2012/">
+                <img src="http://s3.jrnl.ie/media/2012/12/3102012-new-taxi-signs-80x50.jpg" alt="Taxis will have to take shortest route under proposed laws" height="50" width="80">
+            </a>
+            </div>
+            <div class="text">
+                <a href="http://businessetc.thejournal.ie/taxi/news/" class="tag">
+                    Taxi                </a>
+                <h5>
+                    <a href="http://businessetc.thejournal.ie/taxi-routes-length-law-719071-Dec2012/">
+                        Taxis will have to take shortest route under proposed laws                    </a>
+                </h5>
+            </div>
+        </div>
+        <!-- /Mini post -->    
+        </div>
+</div>
+<div id="trendingArticles" class="tabs ui-tabs ui-widget ui-widget-content ui-corner-all">
+    <!-- Tabs -->
+    <ul class="sectionSeparator tabMenu ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
+        <li><a title="Most Popular" href="#tabMostPopular">Most Popular</a></li>
+        <li><a title="Most Commented" href="#tabMostCommented">Most Commented</a></li>
+    </ul>
+    <!-- /Tabs -->
+
+    <!-- Most popular -->
+    <div id="tabMostPopular" class="widget tabPanel">
+        <div class="sectionSeparator"><h3>Most Popular</h3></div>
+        <div class="widgetContent">
+            <div class="definition">Most viewed articles in the past 24 hours</div>
+            <!-- Mini post -->
+                            <div class="post postMini">
+                    <div class="img">
+                        <a href="http://thedailyedge.thejournal.ie/letters-to-santa-715275-Dec2012/">
+                            <img src="http://s3.jrnl.ie/media/2012/12/magma666-3-80x50.jpg" class="attachment-listings_1" width="80" height="50" <="" a="">
+                    </a></div><a href="http://thedailyedge.thejournal.ie/letters-to-santa-715275-Dec2012/">
+                    </a><div class="text"><a href="http://thedailyedge.thejournal.ie/letters-to-santa-715275-Dec2012/">
+                        </a><a href="/north-pole/news/" class="tag">
+                            North Pole                        </a>
+                        <h5>
+                            <a href="http://thedailyedge.thejournal.ie/letters-to-santa-715275-Dec2012/">
+                                23 unbearably cute letters to Santa from children                            </a>
+                        </h5>
+                    </div>
+                </div>
+                                <div class="post postMini">
+                    <div class="img">
+                        <a href="http://www.thejournal.ie/social-protection-party-718745-Dec2012/">
+                            <img src="http://s1.jrnl.ie/media/2012/12/5122012-budget-day-2-80x50.jpg" class="attachment-listings_1" width="80" height="50" <="" a="">
+                    </a></div><a href="http://www.thejournal.ie/social-protection-party-718745-Dec2012/">
+                    </a><div class="text"><a href="http://www.thejournal.ie/social-protection-party-718745-Dec2012/">
+                        </a><a href="/party/news/" class="tag">
+                            Party                        </a>
+                        <h5>
+                            <a href="http://www.thejournal.ie/social-protection-party-718745-Dec2012/">
+                                Burton’s Social Protection department spend €5k of public money on party                             </a>
+                        </h5>
+                    </div>
+                </div>
+                                <div class="post postMini">
+                    <div class="img">
+                        <a href="http://thescore.thejournal.ie/live-saracens-v-munster-heineken-cup-718417-Dec2012/">
+                            <img src="http://s3.jrnl.ie/media/2012/12/doug-howlett-scores-a-try-16122012-80x50.jpg" class="attachment-listings_1" width="80" height="50" <="" a="">
+                    </a></div><a href="http://thescore.thejournal.ie/live-saracens-v-munster-heineken-cup-718417-Dec2012/">
+                    </a><div class="text"><a href="http://thescore.thejournal.ie/live-saracens-v-munster-heineken-cup-718417-Dec2012/">
+                        </a><a href="/liveblog/news/" class="tag">
+                            Liveblog                        </a>
+                        <h5>
+                            <a href="http://thescore.thejournal.ie/live-saracens-v-munster-heineken-cup-718417-Dec2012/">
+                                As it happened: Saracens v Munster, Heineken Cup                            </a>
+                        </h5>
+                    </div>
+                </div>
+                                <div class="post postMini">
+                    <div class="img">
+                        <a href="http://www.thejournal.ie/readme/drugs-1960s-dublin-716243-Dec2012/">
+                            <img src="http://s0.jrnl.ie/media/2012/12/pot-through-the-years-3-80x50.jpg" class="attachment-listings_1" width="80" height="50" <="" a="">
+                    </a></div><a href="http://www.thejournal.ie/readme/drugs-1960s-dublin-716243-Dec2012/">
+                    </a><div class="text"><a href="http://www.thejournal.ie/readme/drugs-1960s-dublin-716243-Dec2012/">
+                        </a><a href="/opinion/news/" class="tag">
+                            Opinion                        </a>
+                        <h5>
+                            <a href="http://www.thejournal.ie/readme/drugs-1960s-dublin-716243-Dec2012/">
+                                Column: How Ireland’s modern drug scene began in 1960s Dublin                            </a>
+                        </h5>
+                    </div>
+                </div>
+                                <div class="post postMini">
+                    <div class="img">
+                        <a href="http://www.thejournal.ie/elephants-drink-vodka-in-siberia-718199-Dec2012/">
+                            <img src="http://s2.jrnl.ie/media/2012/12/shutterstock-elephant-80x50.jpg" class="attachment-listings_1" width="80" height="50" <="" a="">
+                    </a></div><a href="http://www.thejournal.ie/elephants-drink-vodka-in-siberia-718199-Dec2012/">
+                    </a><div class="text"><a href="http://www.thejournal.ie/elephants-drink-vodka-in-siberia-718199-Dec2012/">
+                        </a><a href="/creative/news/" class="tag">
+                            Creative                        </a>
+                        <h5>
+                            <a href="http://www.thejournal.ie/elephants-drink-vodka-in-siberia-718199-Dec2012/">
+                                Elephants survive a stay in Siberia… thanks to two cases of vodka                            </a>
+                        </h5>
+                    </div>
+                </div>
+                            <!-- /Mini post -->
+        </div>
+    </div>
+    <!-- /Most popular -->
+
+
+    <!-- Most commented -->
+    <div id="tabMostCommented" class="widget tabPanel">
+        <div class="sectionSeparator"><h3>Most Commented</h3></div>
+        <div class="widgetContent">
+            <div class="definition">Most commented articles in the past 3 days</div>
+            <!-- Mini post -->
+                            <div class="post postMini">
+                                            <div class="img">
+                            <a href="http://www.thejournal.ie/poll-ireland-discrimination-problem-715057-Dec2012/">
+                                <img src="http://s2.jrnl.ie/media/2012/12/shutterstock-indian-man-woman-80x50.jpg" class="attachment-listings_1" width="80" height="50" <="" a="">
+                        </a></div><a href="http://www.thejournal.ie/poll-ireland-discrimination-problem-715057-Dec2012/">
+                                            </a><div class="text"><a href="http://www.thejournal.ie/poll-ireland-discrimination-problem-715057-Dec2012/">
+                        </a><a href="/your-say/news/" class="tag">
+                            Your Say                        </a>
+                        <h5>
+                            <a href="http://www.thejournal.ie/poll-ireland-discrimination-problem-715057-Dec2012/">
+                                Poll: Does Ireland have a discrimination problem?                            </a>
+                        </h5>
+                    </div>
+                </div>
+                                <div class="post postMini">
+                                            <div class="img">
+                            <a href="http://www.thejournal.ie/erin-gallaghers-teenage-sister-found-dead-last-night-713763-Dec2012/">
+                                <img src="http://s3.jrnl.ie/media/2012/12/erin-gallaghers-teenage-sister-found-dead-last-night-3-80x50.jpg" class="attachment-listings_1" width="80" height="50" <="" a="">
+                        </a></div><a href="http://www.thejournal.ie/erin-gallaghers-teenage-sister-found-dead-last-night-713763-Dec2012/">
+                                            </a><div class="text"><a href="http://www.thejournal.ie/erin-gallaghers-teenage-sister-found-dead-last-night-713763-Dec2012/">
+                        </a><a href="/rip/news/" class="tag">
+                            RIP                        </a>
+                        <h5>
+                            <a href="http://www.thejournal.ie/erin-gallaghers-teenage-sister-found-dead-last-night-713763-Dec2012/">
+                                Erin Gallagher’s teenage sister found dead last night                            </a>
+                        </h5>
+                    </div>
+                </div>
+                                <div class="post postMini">
+                                            <div class="img">
+                            <a href="http://www.thejournal.ie/social-protection-party-718745-Dec2012/">
+                                <img src="http://s1.jrnl.ie/media/2012/12/5122012-budget-day-2-80x50.jpg" class="attachment-listings_1" width="80" height="50" <="" a="">
+                        </a></div><a href="http://www.thejournal.ie/social-protection-party-718745-Dec2012/">
+                                            </a><div class="text"><a href="http://www.thejournal.ie/social-protection-party-718745-Dec2012/">
+                        </a><a href="/party/news/" class="tag">
+                            Party                        </a>
+                        <h5>
+                            <a href="http://www.thejournal.ie/social-protection-party-718745-Dec2012/">
+                                Burton’s Social Protection department spend €5k of public money on party                             </a>
+                        </h5>
+                    </div>
+                </div>
+                                <div class="post postMini">
+                                            <div class="img">
+                            <a href="http://www.thejournal.ie/connecticut-shooting-newtown-716292-Dec2012/">
+                                <img src="http://s0.jrnl.ie/media/2012/12/connecticut-school-shooting-80x50.jpg" class="attachment-listings_1" width="80" height="50" <="" a="">
+                        </a></div><a href="http://www.thejournal.ie/connecticut-shooting-newtown-716292-Dec2012/">
+                                            </a><div class="text"><a href="http://www.thejournal.ie/connecticut-shooting-newtown-716292-Dec2012/">
+                        </a><a href="/children/news/" class="tag">
+                            Children                        </a>
+                        <h5>
+                            <a href="http://www.thejournal.ie/connecticut-shooting-newtown-716292-Dec2012/">
+                                Connecticut school shooting: Reports say ’18 children among 27 dead’                            </a>
+                        </h5>
+                    </div>
+                </div>
+                                <div class="post postMini">
+                                            <div class="img">
+                            <a href="http://www.thejournal.ie/connecticut-shooting-20-children-716908-Dec2012/">
+                                <img src="http://s0.jrnl.ie/media/2012/12/aptopix-connecticut-school-shooting-80x50.jpg" class="attachment-listings_1" width="80" height="50" <="" a="">
+                        </a></div><a href="http://www.thejournal.ie/connecticut-shooting-20-children-716908-Dec2012/">
+                                            </a><div class="text"><a href="http://www.thejournal.ie/connecticut-shooting-20-children-716908-Dec2012/">
+                        </a><a href="/shooting/news/" class="tag">
+                            Shooting                        </a>
+                        <h5>
+                            <a href="http://www.thejournal.ie/connecticut-shooting-20-children-716908-Dec2012/">
+                                Police confirm 20 children killed in Connecticut shooting                            </a>
+                        </h5>
+                    </div>
+                </div>
+                            <!-- /Mini post -->    
+        </div>
+    </div>
+    <!-- /Most commented -->
+</div>
+<div class="widget widgetFromOtherPublication widgetTheDailyEdge">
+    <div class="sectionSeparator">
+        <h3><a href="http://thedailyedge.thejournal.ie/">From The Daily Edge</a></h3>
+    </div>
+    <div class="widgetContent">
+            <!-- Post from other publication -->
+        <div class="post postMini postMiniLandscape">
+            <div class="img">
+                <a href="http://thedailyedge.thejournal.ie/last-nights-lovehate-killings-prayers-and-mini-macaws-719170-Dec2012/"><img src="http://s2.jrnl.ie/media/2012/12/dazzler2-290x80.png" alt="Love/Hate season finale: Killings, prayers and mini macaws" height="80" width="290"></a>
+                <a href="http://thedailyedge.thejournal.ie/love-hate/news/" class="tag">
+                    love hate                </a>
+            </div>
+            <div class="text">
+                <h4><a href="http://thedailyedge.thejournal.ie/last-nights-lovehate-killings-prayers-and-mini-macaws-719170-Dec2012/">Love/Hate season finale: Killings, prayers and mini macaws</a></h4>
+            </div>
+        </div>
+        <!-- /Post from other publication -->
+
+            <!-- Mini post -->
+        <div class="post postMini">
+            <div class="img">
+            <a href="http://thedailyedge.thejournal.ie/letters-to-santa-715275-Dec2012/">
+                <img src="http://s3.jrnl.ie/media/2012/12/magma666-3-80x50.jpg" alt="23 unbearably cute letters to Santa from children" height="50" width="80">
+            </a>
+            </div>
+            <div class="text">
+                <a href="http://thedailyedge.thejournal.ie/north-pole/news/" class="tag">
+                    North Pole                </a>
+                <h5>
+                    <a href="http://thedailyedge.thejournal.ie/letters-to-santa-715275-Dec2012/">
+                        23 unbearably cute letters to Santa from children                    </a>
+                </h5>
+            </div>
+        </div>
+        <!-- /Mini post -->    
+            <!-- Mini post -->
+        <div class="post postMini">
+            <div class="img">
+            <a href="http://thedailyedge.thejournal.ie/retro-christmas-gifts-719169-Dec2012/">
+                <img src="http://s0.jrnl.ie/media/2012/12/nes-80x50.jpg" alt="9 retro Christmas gifts we all wanted " height="50" width="80">
+            </a>
+            </div>
+            <div class="text">
+                <a href="http://thedailyedge.thejournal.ie/thats-gift/news/" class="tag">
+                    that's gift                </a>
+                <h5>
+                    <a href="http://thedailyedge.thejournal.ie/retro-christmas-gifts-719169-Dec2012/">
+                        9 retro Christmas gifts we all wanted                     </a>
+                </h5>
+            </div>
+        </div>
+        <!-- /Mini post -->    
+        </div>
+</div>
+<a href="https://market.android.com/details?id=com.distilledmedia.thejournal" title="Download the TheJournal.ie Android App" class="button buttonAndroidDownload">Download the TheJournal.ie Android App</a>
+<div class="widget widgetFromOtherPublication widgetTheScore">
+    <div class="sectionSeparator">
+        <h3><a href="http://thescore.thejournal.ie/">From The Score</a></h3>
+    </div>
+    <div class="widgetContent">
+            <!-- Post from other publication -->
+        <div class="post postMini postMiniLandscape">
+            <div class="img">
+                <a href="http://thescore.thejournal.ie/kenny-dalglish-sells-the-first-copy-of-hillsborough-single-719655-Dec2012/"><img src="http://s1.jrnl.ie/media/2012/12/the-justice-collective-he-aint-heavy-launch-liverpool-2-290x80.jpg" alt="Kenny Dalglish sells the first copy of Hillsborough single" height="80" width="290"></a>
+                <a href="http://thescore.thejournal.ie/jft96/news/" class="tag">
+                    JFT96                </a>
+            </div>
+            <div class="text">
+                <h4><a href="http://thescore.thejournal.ie/kenny-dalglish-sells-the-first-copy-of-hillsborough-single-719655-Dec2012/">Kenny Dalglish sells the first copy of Hillsborough single</a></h4>
+            </div>
+        </div>
+        <!-- /Post from other publication -->
+
+            <!-- Mini post -->
+        <div class="post postMini">
+            <div class="img">
+            <a href="http://thescore.thejournal.ie/the-bbc-pays-its-tribute-to-paidi-ose-719177-Dec2012/">
+                <img src="http://s3.jrnl.ie/media/2012/12/paidibbc-2-80x50.jpg" alt="The BBC pays its tribute to Páidí Ó Sé" height="50" width="80">
+            </a>
+            </div>
+            <div class="text">
+                <a href="http://thescore.thejournal.ie/spoty/news/" class="tag">
+                    SPOTY                </a>
+                <h5>
+                    <a href="http://thescore.thejournal.ie/the-bbc-pays-its-tribute-to-paidi-ose-719177-Dec2012/">
+                        The BBC pays its tribute to Páidí Ó Sé                    </a>
+                </h5>
+            </div>
+        </div>
+        <!-- /Mini post -->    
+            <!-- Mini post -->
+        <div class="post postMini">
+            <div class="img">
+            <a href="http://thescore.thejournal.ie/sideline-cut-as-gaa-approves-reduction-in-non-playing-numbers-719308-Dec2012/">
+                <img src="http://s1.jrnl.ie/media/2012/12/liam-oneill-12122012-80x50.jpg" alt="Sideline cut as GAA approves reduction in non-playing numbers" height="50" width="80">
+            </a>
+            </div>
+            <div class="text">
+                <a href="http://thescore.thejournal.ie/new-rules/news/" class="tag">
+                    New Rules                </a>
+                <h5>
+                    <a href="http://thescore.thejournal.ie/sideline-cut-as-gaa-approves-reduction-in-non-playing-numbers-719308-Dec2012/">
+                        Sideline cut as GAA approves reduction in non-playing numbers                    </a>
+                </h5>
+            </div>
+        </div>
+        <!-- /Mini post -->    
+        </div>
+</div>
+<!-- Follow Us -->
+
+<div class="widget widgetFollowUs">
+    <div class="sectionSeparator"><h3>Follow us</h3></div>
+    <div class="widgetContent">
+        <ul class="tablecell">
+            <li><a href="http://www.facebook.com/thejournal.ie" title="Follow us on Facebook"><span class="icon iconFacebookLarge"></span>Facebook</a></li>
+            <li><a href="http://twitter.com/thejournal_ie" title="Follow us on Twitter"><span class="icon iconTwitterLarge"></span>Twitter</a></li>
+            <li><a href="#feed-popup" class="lightboxTrigger" title="Subscribe to RSS feed"><span class="icon iconRSSLarge"></span>RSS</a></li>
+
+        </ul>
+    </div>
+</div>
+<!-- /Follow Us -->
+</div>
+<!-- /Sidebar -->    <!-- Latest Opinions -->
+    <div class="trendingTags span-12" id="footer">
+        <div class="sectionSeparator">
+            <h3>Trending Opinions</h3>
+        </div>
+                <div class="footer_lo">
+            <table>
+                <tbody><tr>
+                    <td class="footer_lo_avatar">
+                        <a href="http://www.thejournal.ie/author/lisa-mcinerney/"><img src="http://s0.jrnl.ie/media/2011/10/LisaMcInerney-133x133.jpg" alt="Lisa McInerney" width="60" height="60" class="footer_lo_avatar"></a>
+                    </td>
+                    <td class="footer_lo_article">
+                        <a href="http://www.thejournal.ie/readme/lisa-mcinerney-dont-feed-the-grinch-christmas-is-meant-to-be-over-the-top-715254-Dec2012/" class="article">Lisa McInerney: Don’t feed the Grinch – Christmas is meant to be over the top</a><br>
+                        <a href="http://www.thejournal.ie/author/lisa-mcinerney/" class="author">Lisa McInerney</a>
+                    </td>
+                </tr>
+            </tbody></table>
+            <div class="footer_lo footer_lo_2nd_row">
+                <a class="excerpt" href="http://www.thejournal.ie/readme/lisa-mcinerney-dont-feed-the-grinch-christmas-is-meant-to-be-over-the-top-715254-Dec2012/">We overspend, not because we’re greedy or worried we’ll be ostracised if we don’t, but because we love how generosity feels.</a>
+            </div>
+        </div>
+                <div class="footer_lo">
+            <table>
+                <tbody><tr>
+                    <td class="footer_lo_avatar">
+                        <a href="http://www.thejournal.ie/author/sam-mcgrath/"><img src="http://s3.jrnl.ie/media/2012/12/sam-mcgrath-hd.png" alt="Sam McGrath" width="60" height="60" class="footer_lo_avatar"></a>
+                    </td>
+                    <td class="footer_lo_article">
+                        <a href="http://www.thejournal.ie/readme/drugs-1960s-dublin-716243-Dec2012/" class="article">Column: How Ireland’s modern drug scene began in 1960s Dublin</a><br>
+                        <a href="http://www.thejournal.ie/author/sam-mcgrath/" class="author">Sam McGrath</a>
+                    </td>
+                </tr>
+            </tbody></table>
+            <div class="footer_lo footer_lo_2nd_row">
+                <a class="excerpt" href="http://www.thejournal.ie/readme/drugs-1960s-dublin-716243-Dec2012/">In 1964, a man became the first in Ireland to be arrested on drugs charges, writes Sam McGrath. Here’s what happened next…</a>
+            </div>
+        </div>
+                <div class="footer_lo">
+            <table>
+                <tbody><tr>
+                    <td class="footer_lo_avatar">
+                        <a href="http://www.thejournal.ie/author/michael-d.-higgins/"><img src="http://s3.jrnl.ie/media/2012/12/mdhheadshot1-133x133.jpg" alt="Michael D. Higgins" width="60" height="60" class="footer_lo_avatar"></a>
+                    </td>
+                    <td class="footer_lo_article">
+                        <a href="http://www.thejournal.ie/readme/read-me-president-higgins-message-for-christmas-and-new-year-718202-Dec2012/" class="article">Read Me: President Higgins’ message for Christmas and New Year</a><br>
+                        <a href="http://www.thejournal.ie/author/michael-d.-higgins/" class="author">Michael D. Higgins</a>
+                    </td>
+                </tr>
+            </tbody></table>
+            <div class="footer_lo footer_lo_2nd_row">
+                <a class="excerpt" href="http://www.thejournal.ie/readme/read-me-president-higgins-message-for-christmas-and-new-year-718202-Dec2012/">The President of Ireland offers his best wishes to the people of Ireland and the Irish family, “wherever they may be”.</a>
+            </div>
+        </div>
+            </div>
+    <!-- /Latest Opinions -->
+    <!-- Most popular today -->
+    <div class="trendingTags span-12">
+        <div class="sectionSeparator">
+			<h3>Most Popular Today</h3>
+		</div>
+                <div class="footer_mp">
+            <a href="http://www.thejournal.ie">
+                <img src="http://static.jrnl.ie/desktop/i/thejournal-trending.png" alt="thejournal logo" id="footer_mp_section_thejournal">
+            </a>
+                            <table>
+                    <tbody><tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thejournal">
+                                1                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://www.thejournal.ie/the-9-at-9-monday-88-719027-Dec2012/">The 9 at 9: Monday</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthejournal"></span>
+                                    <span class="footer_thejournal">7,954</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthejournal"></span>
+                                    <span class="footer_thejournal">7</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody></table>
+                            <table>
+                    <tbody><tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thejournal">
+                                2                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://www.thejournal.ie/poll-travelled-with-driver-alcohol-limit-719133-Dec2012/">Poll: Have you ever travelled with an over-the-limit driver?</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthejournal"></span>
+                                    <span class="footer_thejournal">6,381</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthejournal"></span>
+                                    <span class="footer_thejournal">42</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody></table>
+                            <table>
+                    <tbody><tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thejournal">
+                                3                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://www.thejournal.ie/peadar-toibin-x-case-vote-719085-Dec2012/">Sinn Féin strips Peadar Toibín of committee chairmanship over X Case vote</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthejournal"></span>
+                                    <span class="footer_thejournal">5,926</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthejournal"></span>
+                                    <span class="footer_thejournal">60</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody></table>
+                    </div>
+                <div class="footer_mp">
+            <a href="http://businessetc.thejournal.ie">
+                <img src="http://static.jrnl.ie/desktop/i/businessetc-trending.png" alt="businessetc logo" id="footer_mp_section_businessetc">
+            </a>
+                            <table>
+                    <tbody><tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="businessetc">
+                                1                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://businessetc.thejournal.ie/taxi-routes-length-law-719071-Dec2012/">Taxis will have to take shortest route under proposed laws</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsbusinessetc"></span>
+                                    <span class="footer_businessetc">9,169</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsbusinessetc"></span>
+                                    <span class="footer_businessetc">56</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody></table>
+                            <table>
+                    <tbody><tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="businessetc">
+                                2                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://businessetc.thejournal.ie/prize-bond-jackpot-to-fall-719235-Dec2012/">Prize Bond prizes to fall as cost of borrowing goes down</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsbusinessetc"></span>
+                                    <span class="footer_businessetc">5,725</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsbusinessetc"></span>
+                                    <span class="footer_businessetc">42</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody></table>
+                            <table>
+                    <tbody><tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="businessetc">
+                                3                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://businessetc.thejournal.ie/isme-government-dissatisfaction-survey-718264-Dec2012/">SMEs remain broadly dissatisfied with Government performance – survey</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsbusinessetc"></span>
+                                    <span class="footer_businessetc">2,357</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsbusinessetc"></span>
+                                    <span class="footer_businessetc">16</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody></table>
+                    </div>
+                <div class="footer_mp">
+            <a href="http://thescore.thejournal.ie">
+                <img src="http://static.jrnl.ie/desktop/i/thescore-trending.png" alt="thescore logo" id="footer_mp_section_thescore">
+            </a>
+                            <table>
+                    <tbody><tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thescore">
+                                1                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://thescore.thejournal.ie/the-bbc-pays-its-tribute-to-paidi-ose-719177-Dec2012/">The BBC pays its tribute to Páidí Ó Sé</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthescore"></span>
+                                    <span class="footer_thescore">10,794</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthescore"></span>
+                                    <span class="footer_thescore">11</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody></table>
+                            <table>
+                    <tbody><tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thescore">
+                                2                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://thescore.thejournal.ie/pilkington-i-will-be-happy-to-play-for-ireland-719117-Dec2012/">Pilkington: I will be happy to play for Ireland</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthescore"></span>
+                                    <span class="footer_thescore">7,489</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthescore"></span>
+                                    <span class="footer_thescore">29</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody></table>
+                            <table>
+                    <tbody><tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thescore">
+                                3                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://thescore.thejournal.ie/kenny-dalglish-sells-the-first-copy-of-hillsborough-single-719655-Dec2012/">Kenny Dalglish sells the first copy of Hillsborough single</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthescore"></span>
+                                    <span class="footer_thescore">2,797</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthescore"></span>
+                                    <span class="footer_thescore">11</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody></table>
+                    </div>
+                <div class="footer_mp">
+            <a href="http://thedailyedge.thejournal.ie">
+                <img src="http://static.jrnl.ie/desktop/i/thedailyedge-trending.png" alt="thedailyedge logo" id="footer_mp_section_thedailyedge">
+            </a>
+                            <table>
+                    <tbody><tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thedailyedge">
+                                1                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://thedailyedge.thejournal.ie/last-nights-lovehate-killings-prayers-and-mini-macaws-719170-Dec2012/">Love/Hate season finale: Killings, prayers and mini macaws</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthedailyedge"></span>
+                                    <span class="footer_thedailyedge">16,605</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthedailyedge"></span>
+                                    <span class="footer_thedailyedge">64</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody></table>
+                            <table>
+                    <tbody><tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thedailyedge">
+                                2                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://thedailyedge.thejournal.ie/retro-christmas-gifts-719169-Dec2012/">9 retro Christmas gifts we all wanted </a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthedailyedge"></span>
+                                    <span class="footer_thedailyedge">9,650</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthedailyedge"></span>
+                                    <span class="footer_thedailyedge">54</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody></table>
+                            <table>
+                    <tbody><tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thedailyedge">
+                                3                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://thedailyedge.thejournal.ie/video-the-best-possible-way-to-clear-snow-from-a-roof-719395-Dec2012/">VIDEO: The best possible way to clear snow from a roof</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthedailyedge"></span>
+                                    <span class="footer_thedailyedge">5,336</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthedailyedge"></span>
+                                    <span class="footer_thedailyedge">11</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody></table>
+                    </div>
+                </div>
+        <!-- /Most popular today -->
+    <!-- Trending Tags -->
+    <div class="trendingTags span-12">
+        <div class="sectionSeparator">
+            <h3>Trending Tags</h3>
+        </div>
+                        <div class="footer_tn">
+                    <div class="footer_tn_tag">
+                    <div id="arrows" style="float:right;position:relative;right:0px;"><span class="icon iconDoubleUp"></span></div>
+                        <a href="http://www.thejournal.ie/love-hate/news/" class="tag_link">LOVE HATE</a>
+                    </div>
+                                            <a href="http://thedailyedge.thejournal.ie/last-nights-lovehate-killings-prayers-and-mini-macaws-719170-Dec2012/">
+                            <img src="http://s3.jrnl.ie/media/2012/12/dazzler2-150x100.png" alt="Love/Hate season finale: Killings, prayers and mini macaws" width="130" height="80" class="footer_tn_article_img">
+                        </a>
+                                                <div class="footer_tn_article">
+                                <a href="http://thedailyedge.thejournal.ie/last-nights-lovehate-killings-prayers-and-mini-macaws-719170-Dec2012/">
+                                    Love/Hate season finale: Killings, prayers and mini macaws                                </a>
+                            </div>
+                                                        <div class="footer_tn_article">
+                                <a href="http://thedailyedge.thejournal.ie/love-hate-parody-twitter-713838-Dec2012/">
+                                    Love/Hate parody Twitter accounts: Your essential guide                                </a>
+                            </div>
+                                                        <div class="footer_tn_article last">
+                                <a href="http://www.thejournal.ie/late-christmas-shoppers-shortages-712417-Dec2012/">
+                                    Late shoppers may be penalised as stores run low on toys and tablets                                </a>
+                            </div>
+                                            </div>
+                                <div class="footer_tn">
+                    <div class="footer_tn_tag">
+                    <div id="arrows" style="float:right;position:relative;right:0px;"><span class="icon iconDoubleUp"></span></div>
+                        <a href="http://www.thejournal.ie/sandy-hook/news/" class="tag_link">SANDY HOOK</a>
+                    </div>
+                                            <a href="http://www.thejournal.ie/barack-obama-newtown-719032-Dec2012/">
+                            <img src="http://s3.jrnl.ie/media/2012/12/barack-obama-newtown-150x100.jpg" alt="Obama tells Newtown: &amp;#8220;We will have to change&amp;#8221;" width="130" height="80" class="footer_tn_article_img">
+                        </a>
+                                                <div class="footer_tn_article last">
+                                <a href="http://www.thejournal.ie/barack-obama-newtown-719032-Dec2012/">
+                                    Obama tells Newtown: “We will have to change”                                </a>
+                            </div>
+                                            </div>
+                                <div class="footer_tn">
+                    <div class="footer_tn_tag">
+                    <div id="arrows" style="float:right;position:relative;right:0px;"><span class="icon iconUp"></span></div>
+                        <a href="http://www.thejournal.ie/gardai/news/" class="tag_link">GARDAí</a>
+                    </div>
+                                            <a href="http://www.thejournal.ie/segway-gardai-police-720052-Dec2012/">
+                            <img src="http://s3.jrnl.ie/media/2012/12/gardai-segways-5-150x100.jpg" alt="Hi Ho Segway Pic of the Day" width="130" height="80" class="footer_tn_article_img">
+                        </a>
+                                                <div class="footer_tn_article">
+                                <a href="http://www.thejournal.ie/segway-gardai-police-720052-Dec2012/">
+                                    Hi Ho Segway Pic of the Day                                </a>
+                            </div>
+                                                        <div class="footer_tn_article">
+                                <a href="http://www.thejournal.ie/patrick-cremin-missing-2-719328-Dec2012/">
+                                    Gardaí renew appeal for 75-year-old missing from Dublin                                </a>
+                            </div>
+                                                        <div class="footer_tn_article last">
+                                <a href="http://www.thejournal.ie/readme/drugs-1960s-dublin-716243-Dec2012/">
+                                    Column: How Ireland’s modern drug scene began in 1960s Dublin                                </a>
+                            </div>
+                                            </div>
+                                <div class="footer_tn">
+                    <div class="footer_tn_tag">
+                    <div id="arrows" style="float:right;position:relative;right:0px;"><span class="icon iconUp"></span></div>
+                        <a href="http://www.thejournal.ie/barack-obama/news/" class="tag_link">BARACK OBAMA</a>
+                    </div>
+                                            <a href="http://www.thejournal.ie/obama-to-visit-newtown-718173-Dec2012/">
+                            <img src="http://s2.jrnl.ie/media/2012/12/obama-connecticut-school-shooting-4-150x100.jpg" alt="Obama due to attend interfaith vigil for Newtown victims" width="130" height="80" class="footer_tn_article_img">
+                        </a>
+                                                <div class="footer_tn_article">
+                                <a href="http://www.thejournal.ie/obama-to-visit-newtown-718173-Dec2012/">
+                                    Obama due to attend interfaith vigil for Newtown victims                                </a>
+                            </div>
+                                                        <div class="footer_tn_article">
+                                <a href="http://www.thejournal.ie/names-of-newtown-shooting-victims-718130-Dec2012/">
+                                    Named: The 27 victims of the Newtown, Connecticut shootings                                </a>
+                            </div>
+                                                        <div class="footer_tn_article last">
+                                <a href="http://www.thejournal.ie/obama-connecticut-newtown-school-shooting-717351-Dec2012/">
+                                    Connecticut school shooter ‘forced his way in’                                </a>
+                            </div>
+                                            </div>
+                                <div class="footer_tn">
+                    <div class="footer_tn_tag">
+                    <div id="arrows" style="float:right;position:relative;right:0px;"><span class="icon iconUp"></span></div>
+                        <a href="http://www.thejournal.ie/shooting/news/" class="tag_link">SHOOTING</a>
+                    </div>
+                                            <a href="http://www.thejournal.ie/connecticut-shooting-social-media-718629-Dec2012/">
+                            <img src="http://s1.jrnl.ie/media/2012/12/connecticut-school-shooting-23-150x100.jpg" alt="Connecticut police: People are posing online as school shooter" width="130" height="80" class="footer_tn_article_img">
+                        </a>
+                                                <div class="footer_tn_article">
+                                <a href="http://www.thejournal.ie/connecticut-shooting-social-media-718629-Dec2012/">
+                                    Connecticut police: People are posing online as school shooter                                </a>
+                            </div>
+                                                        <div class="footer_tn_article">
+                                <a href="http://www.thejournal.ie/eveninx-fix-connecticut-shooting-siptu-hoax-call-717352-Dec2012/">
+                                    The Evening Fix…now with added festive lunges                                </a>
+                            </div>
+                                                        <div class="footer_tn_article last">
+                                <a href="http://www.thejournal.ie/shooting-alabama-hospital-717817-Dec2012/">
+                                    Gunman wounds 3 at Alabama hospital                                </a>
+                            </div>
+                                            </div>
+                                <div class="footer_tn last">
+                    <div class="footer_tn_tag">
+                    <div id="arrows" style="float:right;position:relative;right:0px;"><span class="icon iconUp"></span></div>
+                        <a href="http://www.thejournal.ie/usa/news/" class="tag_link">USA</a>
+                    </div>
+                                            <a href="http://www.thejournal.ie/harvard-test-logic-intuition-daniel-kahneman-714669-Dec2012/">
+                            <img src="http://s1.jrnl.ie/media/2012/12/ball-2-150x100.jpg" alt="A simple logic question that most Harvard students get wrong" width="130" height="80" class="footer_tn_article_img">
+                        </a>
+                                                <div class="footer_tn_article">
+                                <a href="http://www.thejournal.ie/harvard-test-logic-intuition-daniel-kahneman-714669-Dec2012/">
+                                    A simple logic question that most Harvard students get wrong                                </a>
+                            </div>
+                                                        <div class="footer_tn_article">
+                                <a href="http://www.thejournal.ie/james-larkin-deportation-1923-710632-Dec2012/">
+                                    1923 docs reveal Britain’s fears over James Larkin’s return to Ireland                                </a>
+                            </div>
+                                                        <div class="footer_tn_article last">
+                                <a href="http://www.thejournal.ie/sympathy-over-us-school-shooting-stretches-globe-717099-Dec2012/">
+                                    Sympathy over US school shooting stretches globe                                 </a>
+                            </div>
+                                            </div>
+                        </div>
+        
+    </div>
+    <!-- /Trending Tags -->
+        <!-- /Main content -->
+
+        <!-- Footer -->
+        <div class="footer background">
+            <div class="span-2">
+                <h3 class="border">About Us</h3>
+                <ul>
+                    <li><a href="http://www.thejournal.ie/about-us/">About Us</a></li>
+                    <li><a href="http://jobs.thejournal.ie/jobs/thejournal/">We're Hiring!</a></li>            
+                    <li><a href="http://www.thejournal.ie/contact/">Contact Us</a></li>
+                    <li><a href="http://www.thejournal.ie/advertising/">Advertising</a></li>
+                </ul>
+            </div>
+            <div class="span-2">
+                <h3 class="border">Follow Us</h3>
+                <ul>
+                    <li><a href="http://twitter.com/thejournal_ie">Twitter</a></li>
+                    <li><a href="http://www.facebook.com/thejournal.ie">Facebook</a></li>
+                </ul>
+            </div>
+            <div class="span-2">
+                <h3 class="border">Corrections</h3>
+                <ul>
+                    <li><a class="lightboxTrigger" href="#ReportContent" title="Corrections">Report Content</a></li>
+                    
+                </ul>
+            </div>
+            <div class="span-2">
+                <h3 class="border">Policies</h3>
+                <ul>
+                    <li><a href="http://www.thejournal.ie/terms/" title="Terms of Use">Terms of Use</a></li>
+                    <li><a href="http://www.thejournal.ie/privacy/" title="Privacy Policy">Privacy Policy</a></li>
+                    <li><a href="http://www.thejournal.ie/cookies-policy/" title="Cookies Policy">Cookies Policy</a></li>
+                    <li><a href="http://www.thejournal.ie/comments-policy/" title="Comments Policy">Comments Policy</a><!--<span class="icon iconUpdated"></span>--></li>
+                    <li><a href="http://www.thejournal.ie/copyright-policy/" title="Copyright Policy">Copyright Policy</a></li>
+                </ul>
+            </div>
+            <div class="copyright span-4 last">
+                <strong>Content copyright © Journal Media Ltd. 2012</strong>
+                Registered in Dublin, registration number: 483623.
+                Registered office: 3rd floor, Latin Hall, Golden Lane, Dublin 8.
+            </div>
+            <div class="legal border span-12">
+            <p>Please note that TheJournal.ie uses cookies to improve your experience and to provide services and advertising. For more information on cookies please refer to our <a href="http://www.thejournal.ie/cookies-policy">cookies policy</a>.</p>
+            <p>News images provided by <a href="http://www.pressassociation.com/images.html">Press Association</a> and <a href="http://www.photocallireland.com/">Photocall Ireland</a> unless otherwise stated. Irish sport images provided by <a href="http://www.inpho.ie">Inpho Photography</a> unless otherwise stated. Wire service provided by <a href="http://www.thejournal.ie/terms/?c=1#ap">Associated Press</a>.</p>
+
+            <p>Journal Media does not control and is not responsible for user created content, posts, comments, submissions or preferences. Users are reminded that they are fully responsible for their own created content and their own posts, comments and submissions and fully and effectively warrant and indemnify Journal Media in relation to such content and their ability to make such content, posts, comments and submissions available. Journal Media does not control and is not responsible for the content of external websites.</p>
+
+            <p class="switcher"><a href="http://www.thejournal.ie/privacy/?switcher=touch" rel="nofollow">Switch to Mobile Site</a></p>
+            <p class="distilled">Sites:
+                <a href="http://www.thejournal.ie/">TheJournal.ie</a> |
+                <a href="http://businessetc.thejournal.ie/">BusinessETC.ie</a> |
+                <a href="http://thescore.thejournal.ie/">TheScore.ie</a> |
+                <a href="http://thedailyedge.thejournal.ie/">TheDailyEdge.ie</a> |
+                <a href="http://www.boards.ie/">Boards.ie</a> |
+                <a href="http://www.adverts.ie/">Adverts.ie</a> |
+                <a href="http://www.daft.ie/">Daft.ie</a> 
+            </p>
+
+                <!-- Begin comScore Tag -->
+                <script type="text/javascript">
+                   document.write(unescape("%3Cscript src='" +
+                (document.location.protocol == "https:" ? "https://sb" : "http://b") +
+                ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+                </script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
+
+                <script type="text/javascript">
+
+                COMSCORE.beacon({
+                   c1:2,
+                   c2:6770180,
+                   c3:"",
+                   c4:"www.thejournal.ie",
+                   c5:"",
+                   c6:"",
+                   c15:""
+                 });
+                </script>
+                <noscript>
+                    <p><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6770180&amp;c3=&amp;c4=www.thejournal.ie&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" alt="" /></p>
+                </noscript>
+                <!-- End comScore Tag -->    
+            </div>
+
+        </div>
+
+        <!-- /Footer -->
+
+        </div>
+        <!-- /Main container -->
+
+        <!-- Lightboxes -->
+        <div class="lightboxes">
+
+<div id="SubmitNews" class="submitNews lightbox">
+
+	<form action="http://www.thejournal.ie/ajax.php" method="post" enctype="multipart/form-data" id="SubmitNewsForm" target="SubmitNewsFrame">
+		<input type="hidden" name="action" value="tip_post">
+		<input type="hidden" name="current_post_id" id="current_post_id" value="TheJournal.ie">
+		<h1 class="form-element border" id="share_tip_title">Blow the whistle or share a story</h1>
+		<div class="form-element form-link border submitImage">
+			<div class="upAddLinks">
+				<a href="#uploadImage">Upload an image</a><!-- |
+				<a href="#addImage">Add image URL</a>--><p></p>
+			</div>
+			<div class="actionField" id="uploadImage">
+				<label for="uploadImage">Upload an image</label>
+				<input type="file" id="uploadImage" name="image_upload">
+				<a href="#uploadImage" class="cancel">cancel</a>
+			</div>
+			<div class="actionField" id="addImage">
+				<label for="addImage">Add an image URL</label>
+				<input type="text" id="addImage" name="image_url">
+				<a href="#addImage" class="cancel">cancel</a>
+			</div>
+		</div>
+		<div class="form-element form-link border submitVideo">
+			<div class="upAddLinks">
+				<a href="#uploadVideo">Upload a video</a> |
+				<a href="#addVideo">Add YouTube video</a>
+			</div>
+			<div class="actionField" id="uploadVideo">
+				<label for="uploadVideo">Upload a video</label>
+				<input type="file" id="uploadVideo" name="video_upload">
+				<a href="#uploadVideo" class="cancel">cancel</a>
+			</div>
+			<div class="actionField" id="addVideo">
+				<label for="addVideo">YouTube Address (URL):</label>
+				<input type="text" id="addVideo" name="video_url">
+				<a href="#addVideo" class="cancel">cancel</a>
+			</div>
+		</div>
+		<div class="form-element border yourStory clearfix">
+			<textarea name="story" id="story"></textarea>
+            <label for="email_tip" id="email_tip_label">Your email (optional)</label>
+			<input type="text" name="email_tip" id="email_tip">
+			<button class="buttonSubmit" type="submit">Submit</button>
+			<img src="http://static.jrnl.ie/desktop/i/loading.gif" width="16" height="16" class="loading" alt="One moment...">
+		</div>
+	</form>
+	<p class="notice">Alternatively, you can email us at: <a href="mailto:tips@thejournal.ie">tips@thejournal.ie</a></p>
+
+	<iframe name="SubmitNewsFrame" id="SubmitNewsFrame"></iframe>
+
+</div>
+
+<div id="CommentLogIn" class="lightbox">
+	<h1 class="border">Please log in to comment</h1>
+	<div class="login-buttons clearfix">
+        <div id="alt-login-methods">
+            <p>
+                <span>
+                    <span class="facebook_connect_button label" id="" onclick="jrnl_social_login('facebook', true)">
+                        <img src="http://static.jrnl.ie/desktop/i/fb-login.png" width="169" height="22">
+                    </span>
+                </span>
+            </p>
+            <p>
+                <span class="twitter_connect_button label" id="" onclick="jrnl_social_login('twitter', true)">
+                    <img width="151" height="24" border="0" src="http://static.jrnl.ie/desktop/i/tw-login.png">
+                </span>
+            </p>
+            <p>
+            <img id="main_page_login" class="login_loading_throb" src="http://static.jrnl.ie/desktop/i/loading.gif">
+            </p>
+        </div>
+	</div>
+</div>
+
+<div id="SubmitNewsLogIn" class="lightbox">
+	<h1 class="border">Please log in</h1>
+	<div class="login-buttons clearfix">
+        <div id="alt-login-methods">
+            <p>
+                <span>
+                    <span class="facebook_connect_button label" id="" onclick="jrnl_social_login('facebook', false)">
+                        <img src="http://static.jrnl.ie/desktop/i/fb-login.png" width="169" height="22">
+                    </span>
+                </span>
+            </p>
+            <p>
+                <span class="twitter_connect_button label" id="" onclick="jrnl_social_login('twitter', false)">
+                    <img width="151" height="24" border="0" src="http://static.jrnl.ie/desktop/i/tw-login.png">
+                </span>
+            </p>
+            <p>
+            <img id="main_page_login" class="login_loading_throb" src="http://static.jrnl.ie/desktop/i/loading.gif">
+            </p>
+        </div>
+	</div>
+</div>
+
+<div id="feed-popup" class="lightbox">
+
+	<h1 class="border">RSS feeds available here:</h1>
+
+	<div class="feedlist border">
+    <p class="rss"><a href="/feed/">TheJournal.ie Latest News Feed</a></p>	</div>
+
+</div>
+
+<div id="ReportContent" class="lightbox reportContent">
+	<form id="report-content-popup-form" method="post">
+		<input type="hidden" name="current_page" value="http://www.thejournal.ie/privacy/">
+		<input type="hidden" name="action" value="post_report_content_form">
+		<h1 class="form-element border">Report an error, omission or problem:</h1>
+
+		<div class="form-element message">
+			<div id="AlertAuthorMessage" class="field">
+				<label for="AlertAuthorMessage">Message:</label>
+				<textarea name="message" id="AlertAuthorMessage"></textarea>
+			</div>
+		</div>
+
+		<div class="form-element">
+			<label for="yourEmail">Your Email (optional)</label>
+			<input type="text" class="text" id="yourEmail" name="email-from">
+		</div>
+
+		<div class="clearfix">
+			<button class="buttonSubmit" type="submit">Submit</button>
+			<img src="http://static.jrnl.ie/desktop/i/loading.gif" width="16" height="16" class="loading" alt="One moment...">
+		</div>
+		
+	</form>
+</div>
+<div id="EmailAlert" class="lightbox emailAlert">
+	<form id="create-email-alert-form" method="post">
+		<input type="hidden" name="current_page" value="http://www.thejournal.ie/privacy/">
+		<input type="hidden" name="action" value="post_create_email_alert_form">
+		<h1 class="form-element border">Create Email Alert</h1>
+        <p>Create an email alert based on the current article</p>
+
+		<div class="form-element">
+			<label for="alertEmailAddress">Email Address</label>
+			<input type="text" class="text" id="alertEmailAddress" name="email-address">
+		</div>
+        
+		<div class="form-element">
+			<input type="radio" class="radio emailAlert" id="alertFrequencyDaily" name="alert-frequency" value="daily" checked="checked">
+            <label for="alertFrequencyDaily" class="emailAlert">One email every morning</label>
+			<input type="radio" class="radio emailAlert" id="alertFrequencyInstantly" name="alert-frequency" value="instantly">
+            <label for="alertFrequencyInstantly" class="emailAlert">As soon as new articles come online</label>
+		</div>
+        
+        <input type="hidden" name="ip-address" value="10.226.39.96">
+        <input type="hidden" name="feed-url" value="/topic//feed">
+        <input type="hidden" name="feed-description" value="Articles related to ">
+
+		<div class="clearfix">
+			<button class="buttonSubmit" type="submit">Submit</button>
+			<img src="http://static.jrnl.ie/desktop/i/loading.gif" width="16" height="16" class="loading" alt="One moment...">
+		</div>
+		
+	</form>
+</div>
+
+<div id="Thanks" class="lightbox">
+	<h1 id="thanks-message" style="color:#cc0000"></h1>
+</div>
+
+	
+	<div id="FacebookEdition" class="lightbox facebookEdition">
+
+			<h1><i>TheJournal.ie</i> Facebook Edition</h1>
+			
+			<div class="form-element message" style="font-size:12px; line-height:15px">
+
+			<ul style="font-size:14px; line-height:15px">
+				<li>Share stories with your friends and family easily</li>
+				<li>Comment without having to login</li>
+				<li>More features coming soon...</li>
+			</ul>
+			<br><br>
+			
+			<p style="text-align:center; margin-top:10px"><a href="#" class="sfc_login_button"><img src="" width="277" height="38"></a></p>
+			</div>
+	</div>
+
+</div>
+        <!-- /Lightboxes -->
+
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.0/jquery-ui.min.js"></script>
+
+        <script type="text/javascript">
+            var _ac = 'thejournal.ie';
+            var _sid = '234604';
+            var _un = 'thejournal.ie';
+            var _pa = '76af0b4d8a69839c0d361c0862fd0ed8';
+        </script>
+
+        <script src="http://static.getclicky.com/js" type="text/javascript"></script>
+        <script type="text/javascript">clicky.init(232538);</script>
+        <noscript><p><img alt="" width="1" height="1" src="http://in.getclicky.com/232538ns.gif" /></p></noscript>
+                <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-17456403-1']);
+            _gaq.push(['_setDomainName', 'thejournal.ie']);
+            _gaq.push(['_setAllowLinker', true]);
+            _gaq.push(['_setSiteSpeedSampleRate', 10]);
+            _gaq.push(['_trackPageview']
+                , ['b._setAccount', 'UA-28511705-2']
+                , ['b._trackPageview']
+            );
+
+
+            (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    
+
+</body></html>
