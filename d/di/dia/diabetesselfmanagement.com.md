@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabetesselfmanagement.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603002006id_/http%3A//www.diabetesselfmanagement.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetesselfmanagement.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217015424id_/http%3A//www.diabetesselfmanagement.com/Privacy) for the most accurate reproduction.*
 
 # Diabetes Self-Management Web Site Privacy Policy :: Diabetes Self-Management
 
