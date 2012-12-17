@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the csuglobal.edu privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603034309id_/http%3A//csuglobal.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csuglobal.edu privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217011511id_/http%3A//csuglobal.edu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy at Colorado State University - Global Campus
 
 **Commitment to Individual Privacy  **
 
@@ -19,6 +19,8 @@ CSU-Global also complies with the Family Educational Rights and Privacy Act (FER
 It is CSU-Global's policy to collect the least amount of personally identifiable information required to fulfill its required duties and responsibilities, to complete a particular transaction, or as required by law. This policy applies to the collection of all personally identifiable information, regardless of the source or medium.
 
 For site administration functions, information, other than personal information linked to a particular individual, is collected for analysis and statistical purposes of website navigation. This information is used to help diagnose problems, assess what information is of most interest, determine technical design specifications, identify system performance and/or problem areas, and other administration functions. You may choose whether or not to provide personal information to CSU-Global via the Internet. If you choose not to provide the personal information we request, you can still visit most of the CSU-Global website, but may not be able to access certain options, offers, and services that involve our interaction with you. 
+
+If you provide personal information through CSU-Global's website or an affiliate website, CSU-Global will contact you regarding educational opportunities. Any charges incurred by receiving these communications will be the sole responsibility of the recipient. At any time, you may choose to be removed from our contact lists by following the instructions included with the communication or by emailing us at [](mailto:Admissions@CSUGlobal.edu.)[Admissions@CSUGlobal.edu](mailto:Admissions@CSUGlobal.edu). To stop receiving text messages, respond to our text with the word STOP.
 
 **Security  **
 
