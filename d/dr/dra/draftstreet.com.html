@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the draftstreet.com privacy policy that was archived on 2012-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120520233417id_/http%3A//www.draftstreet.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the draftstreet.com privacy policy that was archived on 2012-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121217023801id_/http%3A//www.draftstreet.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	Fantasy Sports Money Leagues, Win Cash and Prizes Today
@@ -25,7 +25,7 @@
 	var _TM = 'DraftStreet';
 	var _CLP = 'http://chat.draftstreet.com/';
 	</script>
-    <script type="text/javascript" src="/global.js?revision1715"></script>
+    <script type="text/javascript" src="/global.js?revision1722"></script>
 <!--    <script src="https://www.google.com/jsapi"></script>
 	<script>
 	    google.load('jquery', '1.4.1');
@@ -243,7 +243,7 @@
                 _UserService.LogOut(logoutdone,logoutfailed);
             });
             
-            if(_state == 'AZ' || _state == 'IA' || _state == 'LA' || _state == 'MD' || _state == 'MT' || _state == 'PR' || _state == 'VT' || _state == 'QC')
+            if(_state == 'AZ' || _state == 'IA' || _state == 'LA' || _state == 'MT' || _state == 'PR' || _state == 'VT' || _state == 'QC')
             {
                 disablebuttons();
             }
@@ -263,7 +263,7 @@
                     
                     params = 'deposit';
                                             
-                    window.location = 'https://www.draftstreet.com/Cashier.aspx?do=' + params; 
+                    window.location = 'https://www.draftstreet.com/Deposit.aspx'; 
                                         
                     return false;
                 });
@@ -401,6 +401,7 @@
         function sendemailcomplete() { }
         
         function logoutdone() {
+            $.cookie("ds-uid", "", { expires: -1 });
             window.location = CONFIG.PATHS.WEB + 'default.aspx';
         }
         
@@ -472,10 +473,7 @@
                 if (animate)
                     $('#side-chat')
                         .show(
-                            'slide', 
-                            {direction: 'left'}, 
-                            350,
-                            function() {
+                            'slow',function() {
                                 $('#a-hide-chat').show();
                             });
                 else
@@ -491,10 +489,7 @@
                 if (animate)
                     $('#side-chat')
                         .hide(
-                            'slide', 
-                            {direction: 'left'}, 
-                            350,
-                            function() {
+                            'slow',function() {
                                 $('#a-show-chat').show();
                             });
                 else
@@ -759,7 +754,7 @@ New York, NY 10001
 	            </div>
 	            
 	            <div class="footer_logos"></div>
-	            <div class="bannedstates_text"><br>*RESIDENTS OF STATES OF ARIZONA, IOWA, LOUISIANA, MARYLAND, MONTANA, PUERTO RICO, VERMONT AND WHERE OTHERWISE PROHIBITED BY LAW MAY ONLY PARTICIPATE IN THE FREE CONTESTS AND SHALL NOT BE ELIGIBLE TO WIN ANY CASH PRIZES OR REWARD POINTS<br>&nbsp;<br></div>
+	            <div class="bannedstates_text"><br>*RESIDENTS OF STATES OF ARIZONA, IOWA, LOUISIANA, MONTANA, PUERTO RICO, VERMONT AND WHERE OTHERWISE PROHIBITED BY LAW MAY ONLY PARTICIPATE IN THE FREE CONTESTS AND SHALL NOT BE ELIGIBLE TO WIN ANY CASH PRIZES OR REWARD POINTS<br>&nbsp;<br></div>
 	        </div>
         	
     	</div>
@@ -812,16 +807,16 @@ New York, NY 10001
                         <td id="join-freeroll-ends" class="attr-value"></td>
                     </tr>
                     <tr class="alt">
-                        <td class="attr-name">Entries Submitted:</td>
-                        <td id="join-freeroll-entries" class="attr-value"></td>
+                        <td class="attr-name">Entry Fee:</td>
+                        <td id="join-freeroll-entry-fee" class="attr-value"></td>
                     </tr>
                     <tr id="join-freeroll-max-per-row">
                         <td class="attr-name">Max Entries per User:</td>
                         <td id="join-freeroll-max-per" class="attr-value"></td>
                     </tr>
-                    <tr class="alt">
-                        <td class="attr-name">Entry Fee:</td>
-                        <td id="join-freeroll-entry-fee" class="attr-value"></td>
+                    <tr class="alt" id="join-freeroll-entries-row">
+                        <td class="attr-name">Entries Submitted:</td>
+                        <td id="join-freeroll-entries" class="attr-value"></td>
                     </tr>
                 </tbody></table>
             </div>
@@ -984,7 +979,7 @@ New York, NY 10001
                         <td style="min-width: 45px;">Fee</td>
                         <td>Duration</td>
                         <td>Format</td>
-                        <td>Players</td>
+                        <td id="td-join-players-congrats-header">Players</td>
                         <td>1st Game</td>
                         <td style="border-right-style: none;">Prize Pool</td>
                     </tr>
@@ -1074,8 +1069,13 @@ Sys.Application.initialize();
 <input type="image" id="paypalsubmit" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form></div>
+<!-- Segment Pixel - Draft Street Retargeting - DO NOT MODIFY -->
+<img src="http://ib.adnxs.com/seg?add=302146&amp;t=2" width="1" height="1">
+<!-- End of Segment Pixel -->
+<div id="adnxspxl"></div>
 
 <!-- GA -->
+<!-- WEB 05 -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
