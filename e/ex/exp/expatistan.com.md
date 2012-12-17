@@ -1,32 +1,80 @@
-> *The following text is extracted and transformed from the expatistan.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501065527id_/http%3A//www.expatistan.com/tos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatistan.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217035806id_/http%3A//www.expatistan.com/tos) for the most accurate reproduction.*
 
 # Cost of Living
 
-Expatistan gathers and organizes data provided voluntarily by its users in a collaborative manner. The structure of the the web site allows anyone with an Internet connection to alter its content. Please be advised that nothing found here has necessarily been reviewed by people with the expertise required to provide you with complete, accurate or reliable information.
+### (1) Introduction
 
-### No guarantee of accuracy
+This disclaimer governs your use of our website; by using our website, you accept this disclaimer in full. If you disagree with any part of this disclaimer, you must not use our website. 
+
+Our website uses cookies. By using our website and agreeing to the terms of this disclaimer, you consent to our use of cookies in accordance with the terms of our privacy policy. 
+
+Our website gathers and organizes data provided voluntarily by its users in a collaborative manner. The structure of the the web site allows anyone with an Internet connection to alter its content. Please be advised that nothing found here has necessarily been reviewed by people with the expertise required to provide you with complete, accurate or reliable information. 
+
+### (2) Credit
+
+This document was created using an [SEQ Legal](http://www.seqlegal.com/free-legal-documents/website-disclaimer) template and the disclaimer [used by Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:General_disclaimer). 
+
+### (3) Intellectual property rights
+
+Unless otherwise stated, we or our licensors own the intellectual property rights in the website and material on the website. Subject to the licence below, all these intellectual property rights are reserved. 
+
+### (4) Licence to use website
+
+You may view, download for caching purposes only, and print pages or reports from the website for your own personal use, subject to the restrictions below. 
+
+You must not: 
+
+  * (a) republish material from this website (including republication on another website);
+  * (b) sell, rent or otherwise sub-license material from the website;
+  * (c) show any material from the website in public;
+  * (d) reproduce, duplicate, copy or otherwise exploit material on our website for a commercial purpose; or
+  * (e) edit or otherwise modify any material on the website.
+
+
+
+### (5) No guarantee of accuracy
 
 **Expatistan cannot guarantee the validity of the information found here.** The prices and cost of living of any city may recently have been changed, or altered, or we may not have enough accurate data for that city, or someone may have provided erroneous or misleading information. That is not to say that you will not find valuable and accurate information in Expatistan; much of the time you will. But while we try to make sure that the information on this website is correct, we can not guarantee its completeness or accuracy. We can not commit ourselves either to ensuring that the website remains available or that the material on the website is kept up-to-date. 
 
-### No review
+### (6) No review
 
 Expatistan's information is not actively reviewed by anyone; while users may correct errors or provide accurate information that may rule out previous, erroneous data, there is no guarantee that the information will be accurate. Therefore, the information provided here is without any implied warranty of fitness for any purpose or use whatsoever.
 
 **None of the contributors, sponsors, administrators, or anyone else connected with Expatistan in any way whatsoever can be responsible for the appearance of any inaccurate or libelous information or for your use of the information contained in or linked from these web pages.**
 
-### No contract; limited license
+No one at Expatistan is responsible should someone change, edit, modify or remove any information that you may post on Expatistan or any of its associated projects. 
 
-Please make sure that you understand that the information provided here is being provided freely, and that no kind of agreement or contract is created between you and the owners or users of this site, the owners of the servers upon which it is housed, the individual Expatistan contributors, any project administrators, sysops or anyone else who is in _any way connected_ with this web page subject to your claims against them directly.
+### (7) Limitation and exclusion of warranties and liability
 
-No one at Expatistan is responsible should someone change, edit, modify or remove any information that you may post on Expatistan or any of its associated projects.
+Whilst we endeavour to ensure that the information on this website is correct, we do not warrant its completeness or accuracy; nor do we commit to ensuring that the website remains available or that the material on the website is kept up-to-date. 
 
-### Not professional advice
+To the maximum extent permitted by applicable law we exclude all representations, warranties and conditions relating to this website and the use of this website (including, without limitation, any warranties implied by law of satisfactory quality, fitness for purpose and/or the use of reasonable care and skill). 
 
-If you need specific advice about prices and cost of living in different cities, please seek a professional who is licensed or knowledgeable in that area.
+Nothing in this disclaimer will: (a) limit or exclude our or your liability for death or personal injury resulting from negligence; (b) limit or exclude our or your liability for fraud or fraudulent misrepresentation; (c) limit any of our or your liabilities in any way that is not permitted under applicable law; or (d) exclude any of our or your liabilities that may not be excluded under applicable law. 
+
+The limitations and exclusions of liability set out in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer or in relation to the subject matter of this disclaimer, including liabilities arising in contract, in tort (including negligence) and for breach of statutory duty. 
+
+To the extent that the website and the information and services on the website are provided free-of-charge, we will not be liable for any loss or damage of any nature. 
+
+We will not be liable to you in respect of any losses arising out of any event or events beyond our reasonable control. 
+
+We will not be liable to you in respect of any business losses, including (without limitation) loss of or damage to profits, income, revenue, use, production, anticipated savings, business, contracts, commercial opportunities or goodwill. 
+
+We will not be liable to you in respect of any special, indirect or consequential loss or damage. 
+
+### (8) Variation
+
+We may revise this disclaimer from time-to-time. The revised disclaimer will apply to the use of our website from the date of the publication of the revised disclaimer on our website. Please check this page regularly to ensure you are familiar with the current version. 
+
+### (7) Entire agreement
+
+This disclaimer, together with our privacy policy and our reports disclaimer (if you have purchased a paid report from us), constitutes the entire agreement between you and us in relation to your use of our website, and supersedes all previous agreements in respect of your use of this website. 
+
+### (8) Law and jurisdiction
+
+This disclaimer will be governed by and construed in accordance with Czech law, and any disputes relating to this disclaimer will be subject to the exclusive jurisdiction of the courts of the Czech Republic. 
 
 You can contact us by email to [Contact](mailto:gerardo@expatistan.com). 
-
-This website dislaimer is based on the one [used by Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:General_disclaimer) and on a template created by [Template-contracts.co.uk](http://www.template-contracts.co.uk/) and distributed by [www.website-law.co.uk](http://www.website-law.co.uk/). 
 
 Expatistan gathers and organizes data provided voluntarily by its users in a collaborative manner. The structure of the the web site allows anyone with an Internet connection to alter its content and submit information. In general, this Policy only applies to private information stored or held by Expatistan which is not publicly available. 
 
