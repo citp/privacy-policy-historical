@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanblinds.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617111942id_/http%3A//www1.americanblinds.com/control/infopage%3Fpage%3Dsecurity.html%26master%3Dresourcecenter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanblinds.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217051414id_/http%3A//www.americanblinds.com/control/infopage%3Fpage%3Dsecurity.html%26master%3Dresourcecenter) for the most accurate reproduction.*
 
 # Privacy and Security | American Blinds and Wallpaper
 
