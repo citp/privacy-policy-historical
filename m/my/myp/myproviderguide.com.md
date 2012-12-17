@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myproviderguide.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619084923id_/http%3A//www.myproviderguide.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myproviderguide.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217160506id_/http%3A//www.myproviderguide.com/page/privacy.html) for the most accurate reproduction.*
 
 # Privacy - My Provider Guide
 
@@ -18,26 +18,26 @@ To prevent unauthorized access, to maintain data accuracy, and ensure the correc
 
 ## Latest Discussion Board Posts [](https://web.archive.org/discussions)
 
-**Posted By: _parisdivine_** on 06/17 at 5:44 pm 
+**Posted By: _adx1979_** on 12/17 at 12:38 am 
 
-**[Last minute cancellations](https://web.archive.org/discussions/viewtopic.php?p=1733#p1733) **
+**[Escorts do you need a REAL website?](https://web.archive.org/discussions/viewtopic.php?p=2118#p2118) **
 
-_Realizing that this is not an exacting science, and things happen... What to do about last minute cancellations? Iam a very low volume entertainer, who entertains more often outcall than in. Can we avoid cancellation expenses without causing i..._
+_Hello there and how are you. My name is Alex and the nature of my inquiry is to ask you for a quote for a preexisting entertainment site (hence) an escort agency AKA Torontogfecompanions (hence) The site URL is http://www.torontogfecompanions.co..._
 
-**Posted By: _nyoriental_** on 06/16 at 1:33 am 
+**Posted By: _adx1979_** on 12/17 at 12:15 am 
 
-**[Hot Real Asian Playmate Models-Come have a taste!](https://web.archive.org/discussions/viewtopic.php?p=1732#p1732) **
+**[* * * One-Week Website Special - Respond by June 5th! * * *](https://web.archive.org/discussions/viewtopic.php?p=2117#p2117) **
 
-_Hi gentlemen, This is Lucy, what you all have been waiting for all natural, 23 yrs old Asian hottie. I will pamper, spoil and comfort you. Your time with me will be special, cozy, and un-rushed You'll definitely be impressed by my intelligen..._
+_Hello there and how are you. My name is Alex and the nature of my inquiry is to ask you for a quote for a preexisting entertainment site (hence) an escort agency AKA Torontogfecompanions (hence) The site URL is http://www.torontogfecompanions.co..._
 
-**Posted By: _destinydelight1_** on 06/13 at 12:11 pm 
+**Posted By: _adx1979_** on 12/16 at 11:58 pm 
 
-**[Have you ever tried to make your own vagina at home? ;)](https://web.archive.org/discussions/viewtopic.php?p=1731#p1731) **
+**[$250 Complete - All-In-One Website Package (must see!)](https://web.archive.org/discussions/viewtopic.php?p=2116#p2116) **
 
-_Lol funny can admire human creativity http://dld.bz/b5dBP_
+_Hello there and how are you. My name is Alex and the nature of my inquiry is to ask you for a quote for a preexisting entertainment site (hence) an escort agency AKA Torontogfecompanions (hence) The site URL is http://www.torontogfecompanions.co..._
 
-**Posted By: _monagirl_** on 06/11 at 3:55 pm 
+**Posted By: _adx1979_** on 12/16 at 11:55 pm 
 
-**[Hi I am Mona Independent escort in Delhi](https://web.archive.org/discussions/viewtopic.php?p=1730#p1730) **
+**[Escorts? Want more bookings? Check this out!](https://web.archive.org/discussions/viewtopic.php?p=2115#p2115) **
 
-_Delhi escort services, educated open-minded and full cooperative college escort girl, model escorts, Airhostesses, Asian escorts, Punjabi, Russian escorts, slim or busty housewife escorts in India, Sexy aunties and beautiful Independent escort in ..._
+_Hello there and how are you. My name is Alex and the nature of my inquiry is to ask you for a quote for a preexisting entertainment site (hence) an escort agency AKA Torontogfecompanions (hence) The site URL is http://www.torontogfecompanions.co..._
