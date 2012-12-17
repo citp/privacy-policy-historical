@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promotionworld.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613203307id_/http%3A//www.devstart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promotionworld.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217101744id_/http%3A//www.devstart.com/privacy.html) for the most accurate reproduction.*
 
 # DevStart.com - The Web Developers Resource Center | Privacy Policy
 
