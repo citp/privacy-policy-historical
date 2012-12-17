@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britishgas.co.uk privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531135219id_/http%3A//www.britishgas.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishgas.co.uk privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217061926id_/http%3A//www.britishgas.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - British Gas
 
@@ -112,7 +112,7 @@ PO Box 491
 Leeds  
 LS3 1WZ  
 Phone: 0870 060 1414  
-Website: [**www.callcredit.co.uk** ](http://www.callcredit.co.uk/)  
+Website: [**www.callcredit.co.uk**](http://www.callcredit.co.uk/)  
 
 
   
@@ -122,7 +122,7 @@ PO Box 8000
 Nottingham  
 NG80 7WF  
 Phone: 0870 241 6212  
-Website: [**www.experian.co.uk** ](http://www.experian.co.uk/)  
+Website: [**www.experian.co.uk**](http://www.experian.co.uk/)  
 
 
   
@@ -132,11 +132,11 @@ PO Box 1140
 Bradford  
 BD1 5US  
 Phone: 0844 335 0550  
-Website: [**www.myequifax.co.uk** ](http://www.equifax.co.uk/)
+Website: [**www.myequifax.co.uk**](http://www.equifax.co.uk/)
 
 4  If you give us information on behalf of someone else, you confirm you have given them the information set out in this document, and that they have given permission for us to use their personal information in the way we have described in clause 10. If you give us sensitive information about yourself or other people (such as health details or details of any criminal convictions of members of your household), you agree (and confirm that the person the information is about has agreed) that we can use this information in the way set out in this document.
 
-5 You are entitled to have a copy of the information we hold on you and to have any inaccurate information corrected. We may charge a small fee for providing a copy of any information we hold about you. For more information about this please contact our Privacy Unit at Lakeside West, 30 The Causeway, Staines, TW18 3BY. Or you can email [**CentricaDataProtection@Centrica.com**. ](mailto:CentricaDataProtection@Centrica.com)
+5 You are entitled to have a copy of the information we hold on you and to have any inaccurate information corrected. We may charge a small fee for providing a copy of any information we hold about you. For more information about this please contact our Privacy Unit at Lakeside West, 30 The Causeway, Staines, TW18 3BY. Or you can email [**CentricaDataProtection@Centrica.com**.](mailto:CentricaDataProtection@Centrica.com)
 
 #### 4\. Protecting your information
 
