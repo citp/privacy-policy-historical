@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the internships.com privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630111154id_/http%3A//www.internships.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the internships.com privacy policy that was archived on 2012-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121217043511id_/http%3A//www.internships.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=8"><title>
 	
@@ -14,7 +14,7 @@
     
     <meta name="description" content="Information about the privacy policy at internships.com.">
     
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/static/js/m/jquery-1.3.2.min.js?v=1152074" type="text/javascript"></script><script src="/static/js/m/jq.js?v=1152074" type="text/javascript"></script><script src="/static/js/m/ext-all.js?v=1152074" type="text/javascript"></script><script src="/static/js/m/extjs.js?v=1152074" type="text/javascript"></script><script src="/static/js/m/comp.js?v=1152074" type="text/javascript"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/u/ga_debug.js"></script><script src="/static/js/m/jquery-1.3.2.min.js?v=1151816" type="text/javascript"></script><script src="/static/js/m/jq.js?v=1151816" type="text/javascript"></script><script src="/static/js/m/ext-all.js?v=1151816" type="text/javascript"></script><script src="/static/js/m/extjs.js?v=1151816" type="text/javascript"></script><script src="/static/js/m/comp.js?v=1151816" type="text/javascript"></script>
 <!-- components -->
 <script type="text/javascript" src="https://connect.facebook.net/en_US/all.js"></script>
 <script type="text/javascript">
@@ -47,7 +47,7 @@ var pg = new Internships.Page();
         }
     </style>
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script><script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=54953240"></script></head>
-<body id="Body" class="general Unknown_00 Unknown">
+<body id="Body" class="general Mozilla_50 Mozilla">
     
     <input type="password" style="display: none;">
     <div class="page-wrapper">
@@ -77,10 +77,13 @@ var pg = new Internships.Page();
           <div id="fb-root"></div>
           
     <div id="fbm_email_reg"></div>
-      
+ 
         <script type="text/javascript">
             var viewmodel = {"Intern":{"EntityType":"Intern","EntityId":0,"FirstName":null,"LastName":null,"Phone":null,"PhoneType":null,"GradYear":null,"GraduationYear":null,"IsTopOfPile":false,"IsPublic":false,"IsContactInfoPublic":false,"SchoolId":null,"School":null,"Scholarship":null,"MajorId":null,"Slug":null,"Status":null,"FullName":" ","ShortName":" .","DisplayName":" ","IsCertified":false,"Addresses":[],"Certifications":[],"Assessments":[],"FirstAddress":null},"Email":null,"Password":null,"RefCode":null,"Address":{"PostalCode":null,"PostalCodeId":null,"Latitude":0.0,"Longitude":0.0,"City":null,"CityId":0,"StateAbbreviation":null,"State":null,"StateId":null,"EntityId":0,"EntityType":"None","Address":null,"LocationId":null,"CountryId":0,"IsVirtual":null},"Notifications":null,"HowdYouHear":null,"SMS":{"InternDataId":0,"InternId":0,"Carrier":0,"MobileNumber":null,"IsSmartPhone":false,"Category":"SmsNotifications","DeliveryMetrics":null},"HowdYouHearOther":null,"SchoolOther":null,"SchoolOtherLoc":null};
+            
+            $(window).load(function(){
             FB.init({ appId: '118877491477539', status: true, cookie: true, xfbml: true, oauth: true });
+            });
             /* -- not going to auto login 
             FB.getLoginStatus(function(response) {
                 console.log(response);
@@ -122,6 +125,10 @@ var pg = new Internships.Page();
             
             window.doFBConnect = function(resp)
             {
+                var getUpdates = false;
+                if($('#fb_signup_updates:checked').length > 0){
+                    getUpdates = true;
+                }
                $.ajax({
                     url: '/Account/FBConnect/',
                     type: 'POST',
@@ -131,7 +138,8 @@ var pg = new Internships.Page();
                         lastName: resp.last_name,
                         email: resp.email,
                         loc: resp.location ? resp.location.name : '',
-                        fbid: resp.id
+                        fbid: resp.id,
+                        getUpdates: getUpdates
                     },
                     success: function(result){
                         if (result.success == true) {
@@ -279,8 +287,8 @@ var pg = new Internships.Page();
     
     <ul class="global-account">
     
-    <li><fb:login-button onlogin="window.onFBLogin();" scope="email"></fb:login-button></li>
-        
+      
+            <li><img id="fb_signup_global" style="cursor:pointer;" src="https://idc-content.s3.amazonaws.com/site/images/fblogin.png" alt="Sign Up using facebook"></li>
             <li><a href="/student/join" rel="nofollow">Sign Up for Free!</a></li>
             <li class="sep">&nbsp;</li>
             <li>
@@ -321,6 +329,17 @@ var pg = new Internships.Page();
             Ext.getCmp('idc-global-signin').populateForm();
         }
         Ext.Msg.minWidth = 350;
+        $("#fb_signup_global").click(function(){
+            FB.login(function(response) {
+                if (response.authResponse) {
+                    onFBLogin(response);
+                } 
+                else {
+                    //no session
+                }
+            },{scope : 'email'});
+        });
+        
     });
     
 </script>
@@ -335,9 +354,6 @@ var pg = new Internships.Page();
         <li><a class="students" rel="nofollow" href="/student/home">Students</a></li>
             <li><a class="employers" href="/employer">Employers</a></li>
             <li><a class="educators" href="/educator">Educators</a></li>
-        
-        <li><a class="answers" href="http://answers.internships.com">Answers</a></li>
-            
             </ul>
         <div class="">
             <div class="nav-bar-general nav-bar rc-3">&nbsp;</div>
@@ -489,7 +505,6 @@ var pg = new Internships.Page();
             <li><a href="/interncoach">Intern Coach Articles </a></li>
             <li><a href="/widget/postings">Internships Widget</a></li>
             <li><a href="/landing/become-an-affiliate">Affiliate Program</a></li>
-            <li><a href="http://answers.internships.com">Internship Questions</a></li>
              </ul>
     </div>
     <div class="span-4">
@@ -576,11 +591,12 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-12797415-1']);
       _gaq.push(['_setDomainName', '.internships.com']);
-      _gaq.push(['_trackPageview']);
-
+      
+         _gaq.push(['_trackPageview']);
+      
       (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/u/ga_debug.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
 
@@ -606,7 +622,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
         })('internships.com');
     </script>
 
-    <script type="text/javascript" id="ki_loader" src="https://s3.amazonaws.com/j.kissinsights.com/2.0/sites/internships.com.js?201206300448"></script>
+    <script type="text/javascript" id="ki_loader" src="https://s3.amazonaws.com/j.kissinsights.com/2.0/sites/internships.com.js?201212160845"></script>
 
     <script type="text/javascript" charset="utf-8">
         KI.identify('');
