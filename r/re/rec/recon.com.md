@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recon.com privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424221800id_/http%3A//www.recon.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recon.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217010026id_/http%3A//www.recon.com/privacy.aspx) for the most accurate reproduction.*
 
 # Recon - Photo profiles for gay men
 
