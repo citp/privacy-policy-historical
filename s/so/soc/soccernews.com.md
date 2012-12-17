@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soccernews.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619052106id_/http%3A//www.soccernews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccernews.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217171423id_/http%3A//www.soccernews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Soccer News
 
@@ -48,7 +48,9 @@ We may use your IP address to help diagnose any problems with our server or to a
  **How We Use Cookies**  
 We collect non-personal information and data through the standard operation of our servers or through the use of cookies. Cookies are small text files a web site used to recognize repeat users, facilitate your ongoing access to and use of the site, track usage, follow site behavior and compile aggregate data that will allow content improvements and targeted advertising. Cookies are not programs that come onto a your system and damage files. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. Cookies can help you for example by delivering content specific to your interests, or to save your password so you don’t have to re-enter it each time you visit our site. Our sites employ the services of an outside companies to serve and appropriately target online advertisements and track site usage. To do this, their software collects anonymous data through the use of cookies. Users should be aware that we cannot control the use of cookies or the resulting information by advertisers or third parties hosting data for us. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide the user with certain features (e.g. customized delivery of information) available on our web sites.
 
- **Links to Other Sites**  
+You can learn more about cookies and privacy by clicking on the link: <http://www.youronlinechoices.com/>
+
+**Links to Other Sites**  
 Our site contains links to other sites outside of our control. We are not responsible for the content or privacy practices of such websites.
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
