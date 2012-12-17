@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adfactornetwork.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616101833id_/http%3A//adfactornetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adfactornetwork.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217024425id_/http%3A//adfactornetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AdFactor
 
