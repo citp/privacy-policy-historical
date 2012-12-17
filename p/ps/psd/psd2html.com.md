@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psd2html.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616125632id_/http%3A//www.psd2html.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psd2html.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217214450id_/http%3A//www.psd2html.com/privacy-policy.html) for the most accurate reproduction.*
 
 # PSD to HTML Service Privacy Policy - P2H / PSD2HTML®
 
