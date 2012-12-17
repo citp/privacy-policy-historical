@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2cmarts.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227122209id_/http%3A//www.b2cmarts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2cmarts.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217012424id_/http%3A//www.b2cmarts.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Laptop Accessories Store
 
