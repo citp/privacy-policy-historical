@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the answerbag.co.uk privacy policy that was archived on 2011-07-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110719224740id_/http%3A//www.answerbag.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the answerbag.co.uk privacy policy that was archived on 2012-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121217195616id_/http%3A//www.answerbag.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
         <title>  Answerbag</title>
@@ -20,7 +20,7 @@
         
 <meta property="og:type" content="article">
 <meta property="og:title" content="">
-<meta property="og:url" content="http://www.answerbag.co.uk/privacy">
+<meta property="og:url" content="http://www.answerbag.com/privacy">
 <meta property="og:image" content="http://i.abimg.net/ui/images/icons/icon_set2b_q.png">
 <meta property="og:description" content="">
 <meta property="fb:admins" content="100000495146580,100000337386305,100000227392052">
@@ -49,29 +49,34 @@
         			 
 
              
-		        <link href="http://i.abimg.net/css?k=1311099174a" type="text/css" rel="stylesheet">
+		        <link href="http://i.abimg.net/css?k=1355713765a" type="text/css" rel="stylesheet">
 		        
-                    <link href="http://i.abimg.net/ui/stylesheets/pages/footer-pages.css?j=1311099174a" type="text/css" rel="stylesheet">
+                    <link href="http://i.abimg.net/ui/stylesheets/pages/footer-pages.css?j=1355713765a" type="text/css" rel="stylesheet">
                 
                 
 		<!-- IE Specific Stylesheets : start -->
 		<!--[if IE 9]>
-			<link rel="stylesheet" href="http://i.abimg.net/ui/stylesheets/ie9.css?j=1311099174a" type="text/css" media="screen" />
+			<link rel="stylesheet" href="http://i.abimg.net/ui/stylesheets/ie9.css?j=1355713765a" type="text/css" media="screen" />
 		<![endif]-->
 		<!--[if IE 8]>
-			<link rel="stylesheet" href="http://i.abimg.net/ui/stylesheets/ie8.css?j=1311099174a" type="text/css" media="screen" />
+			<link rel="stylesheet" href="http://i.abimg.net/ui/stylesheets/ie8.css?j=1355713765a" type="text/css" media="screen" />
 		<![endif]-->
 		<!--[if lte IE 7]>
-			<link rel="stylesheet" href="http://i.abimg.net/ui/stylesheets/ie7.css?j=1311099174a" type="text/css" media="screen" />
+			<link rel="stylesheet" href="http://i.abimg.net/ui/stylesheets/ie7.css?j=1355713765a" type="text/css" media="screen" />
 		<![endif]-->
 		<!--[if lte IE 6]>
-			<link rel="stylesheet" href="http://i.abimg.net/ui/stylesheets/ie6.css?j=1311099174a" type="text/css" media="screen" />
+			<link rel="stylesheet" href="http://i.abimg.net/ui/stylesheets/ie6.css?j=1355713765a" type="text/css" media="screen" />
 		<![endif]-->
 		<!-- IE Specific Stylesheets : end -->
         
-				<script src="http://ui.abimg.net/js/min/prototaculous.min.js?k=1311099174a" type="text/javascript"></script>
+				<script src="http://ui.abimg.net/js/min/prototaculous.min.js?k=1355713765a" type="text/javascript"></script>
 				<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-				<script src="http://ui.abimg.net/js/min/answerbag.min.js?k=1311099174a" type="text/javascript"></script>
+		<script src="http://ui.abimg.net/ui/scripts/jquery.tools.min.js" type="text/javascript"></script>
+		<script src="http://ui.abimg.net/ui/scripts/template.js" type="text/javascript"></script>
+
+        
+		<script src="//cdn.optimizely.com/js/1617017.js"></script>
+				<script src="http://ui.abimg.net/js/min/answerbag.min.js?k=1355713765a" type="text/javascript"></script>
 		
 		
 		<script type="text/javascript">
@@ -98,33 +103,33 @@
 
 				window.fb_login_now = function(show_confirmation) {
 					FB.login(function(response) {
-						if (response.session && response.perms) {
-							$.ajax({
-								url: '/ajax/facebook_auth',
-								type: 'POST',
-								dataType: 'json',
-								data: { perms: response.perms },
-								success: function(json) {
-									if (typeof json == 'string') { // error string
-										AB.dialog('error?error='+escape(json));
-										return;
-									}
+						if (response.authResponse) {
+                            $.ajax({
+                                url: '/ajax/facebook_auth',
+                                type: 'POST',
+                                dataType: 'json',
+                                data: { perms: 'email' },
+                                success: function(json) {
+                                    if (typeof json == 'string') { // error string
+                                        AB.dialog('error?error='+escape(json));
+                                        return;
+                                    }
 
-									AB.user_id = json.user_id;
+                                    AB.user_id = json.user_id;
 
-									if (json.new_account) {
-										AB.dialog('login/registered/facebook');
-									} else if (show_confirmation) {
-										AB.dialog('login/logged-in');
-									} else {
-										AB.onLogin();
-									}
-								}
-							});
+                                    if (json.new_account) {
+                                        AB.dialog('login/registered/facebook');
+                                    } else if (show_confirmation) {
+                                        AB.dialog('login/logged-in');
+                                    } else {
+                                        AB.onLogin();
+                                    }
+                                }
+                            });
 						} else if(show_confirmation) {
 							AB.dialog('login?error='+escape('You must authorize Answerbag to login with Facebook.'));
 						}
-					}, { perms:'email' });
+					}, { scope:'email' });
 					return false;
 				};
 
@@ -215,25 +220,28 @@
 		</script><script src="https://a248.e.akamai.net/demdex.download.akamai.com/dm/28/demdex.js" type="text/javascript"></script>
 		<!-- End Demdex Tag Insertion Manager -->
 		
-    </head>
-    
-    <body id="Template2a">
-		<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+
 		<script>
+jQuery(document).ready(function() {
+//jQuery('body').append('<div id="fb-root"></div>');
+//			jQuery.getScript(document.location.protocol + '//connect.facebook.net/en_US/all.js');
+
 			window.fbAsyncInit = function() {
 				(function($) {
 					// code using $ for jquery
-					AB.XD = $.extend(true, { }, FB.XD);
+                    if (typeof FB.XD  !== 'undefined') {
+					    AB.XD = $.extend(true, { }, FB.XD);
 
-					FB.XD.recv = function(data) {
-						if (data.match(/type=dismissEdgeCommentDialog/)) {
-							var cb = data.match(/cb=([0-9a-f]+)/i);
-							cb = cb[1];
-							var href = $('iframe[src*='+cb+']').parent().parent().attr('href');
-							// [AL] Disabling Universal Like since conflicts with regular likes
-							// window.universal_like(href);
-						}
-						AB.XD.recv(data);
+                        FB.XD.recv = function(data) {
+                            if (data.match(/type=dismissEdgeCommentDialog/)) {
+                                var cb = data.match(/cb=([0-9a-f]+)/i);
+                                cb = cb[1];
+                                var href = $('iframe[src*='+cb+']').parent().parent().attr('href');
+                                // [AL] Disabling Universal Like since conflicts with regular likes
+                                // window.universal_like(href);
+                            }
+                            AB.XD.recv(data);
+                        }
 					}
 				})(jQuery);
 
@@ -246,7 +254,7 @@
 				});
 								FB.Event.subscribe('edge.create', function (href, widget) {
 					new Ajax.Request('/ajax/ajax_request?type=fblike&url=' + href);
-				});  				
+				});
 								// trigger our own like when a facebook like is activated
 				/* [AL] Disabling Universal Like since conflicts with regular likes
 				(function($) {
@@ -275,9 +283,21 @@
 				e.async = true;
 				document.getElementById('fb-root').appendChild(e);
 			}());
+
+
+
+		});
+
 		</script>
+    </head>
+
+    <body id="Template2a">
+    <div id="fb-root"></div>
+
+
     
-        
+
+
 
         <!-- Header : start -->
 
@@ -541,7 +561,7 @@ We collect any information you enter on the Site or give us in any other way (su
             </li>
             <li>
                 <h2 class="Title5d">CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY.</h2>
-                <p>For customer service matters (including questions relating to this Policy), you may email us at <a href="mailto:admin@answerbag.com">admin@answerbag.com</a>. To send us a legal notice, mail it by certified mail (return receipt requested) to: Legal Department, 15801 NE 24th St. Bellevue, WA 98008. When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and sending you an email to the email address that we have on record for you.</p>
+                <p>For customer service matters (including questions relating to this Policy), you may email us at <a href="mailto:admin@answerbag.com">admin@answerbag.com</a>. To send us a legal notice, mail it by certified mail (return receipt requested) to: Legal Department, 5808 Lake Washington Blvd., Suite 300, Kirkland, WA 98033. When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and sending you an email to the email address that we have on record for you.</p>
             </li>
         </ol>
 
@@ -592,7 +612,7 @@ We collect any information you enter on the Site or give us in any other way (su
                     <li class="latestTweets">
                         <dl>
                             <dt class="Heading2a SectionTitle">Latest Tweet</dt>
-                            <dd class="tweet">What is the very worst thing you can do in an interview? <a href="http://t.co/yLt956F" rel="nofollow">http://t.co/yLt956F</a></dd>
+                            <dd class="tweet"></dd>
                             <dd>
                                 <div class="TwitterFollowUsV2">
                                     <p class="Title5a"><a href="http://twitter.com/AnswerBag">Follow Answerbag on Twitter!</a></p>
@@ -612,9 +632,9 @@ We collect any information you enter on the Site or give us in any other way (su
             <div class="Frame">
                 <div class="copyright Note FLC">
                     <p>		<script type="text/javascript">
-			var html_compressed = '<span>Copyright &copy; 2003-2011</span>';
+			var html_compressed = '<span>Copyright &copy; 2003-2012</span>';
 			document.write(html_compressed);
-		</script><span>Copyright © 2003-2011</span> Answerbag</p>
+		</script><span>Copyright © 2003-2012</span> Answerbag</p>
                     <ul>
                         <li><a href="/category/adult_569/">AB4Adults</a></li>
                         <li><a href="http://www.answerbag.co.uk/">Answerbag UK</a></li>
@@ -626,14 +646,14 @@ We collect any information you enter on the Site or give us in any other way (su
         
         <!-- SubFooter : end --> 
 
+    
                         
             	
             
     
-    
 
     <script type="text/javascript">request_google_ads();</script>
-				
+
     <!-- OPTIMOST GLOBAL MODULE AND COUNTER CODE -->
     <script type="text/javascript">
 		jQuery.noConflict()(function ($){
@@ -692,6 +712,7 @@ We collect any information you enter on the Site or give us in any other way (su
      
 	
 
+
     <script type="text/javascript">tyntVariables = { "ap":"Read more: " };</script>
     <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=a2UaPsAgSr35ldadbi-bpO&amp;st=1"></script>
 
@@ -700,6 +721,127 @@ We collect any information you enter on the Site or give us in any other way (su
 	
     <!-- This resolves a Facebook bug with IE8: 'FB.HiddenContainer.get()' is null or not an object -->
     <div id="FB_HiddenIFrameContainer" style="display:none; position:absolute; left:-100px; top:-100px; width:0px; height: 0px;"></div>   
-    <div id="FB_HiddenContainer" style="display:none; position:absolute; left:-100px; top:-100px; width:0px; height: 0px;"></div> 
+    <div id="FB_HiddenContainer" style="display:none; position:absolute; left:-100px; top:-100px; width:0px; height: 0px;"></div>
+
     
+    <style type="text/css">
+        /* way the hell off screen */
+        .scrollbar-measure {
+            width: 100px;
+            height: 100px;
+            overflow: scroll;
+            position: absolute;
+            top: -9999px;
+        }
+    </style>
+    <div id="AdMarvel" style="position: fixed; bottom: 0; overflow: hidden; width: 350px; height: 50px; text-align: center; margin: 0; z-index: 100000; border: solid 0px #000000; background-color: transparent; display: none;">
+        <script type="text/javascript">
+            function resizeAd()
+            {
+                // Create the measurement node
+                var scrollDiv = document.createElement("div");
+                scrollDiv.className = "scrollbar-measure";
+                document.body.appendChild(scrollDiv);
+
+                // Get the scrollbar width
+                var scrollbarWidth = scrollDiv.offsetWidth - scrollDiv.clientWidth;
+                // console.warn(scrollbarWidth); // Mac:  15
+
+                // Delete the DIV
+                document.body.removeChild(scrollDiv);
+
+                var clientWidth = 0;
+                var screenWidth = 0;
+                if( typeof( window.innerWidth ) == 'number' ) {
+                    //Non-IE
+                    screenWidth = window.innerWidth;
+                    clientWidth = document.documentElement.clientWidth;
+                } else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+                    //IE 6+ in 'standards compliant mode'
+                    screenWidth = document.documentElement.clientWidth;
+                    clientWidth = document.documentElement.clientWidth;
+                } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+                    //IE 4 compatible
+                    screenWidth = document.body.clientWidth;
+                    clientWidth = document.body.clientWidth;
+                }
+
+                var scale = (screenWidth-scrollbarWidth) / 350;
+                var leftOffset = Math.floor(screenWidth / 2) - 190;
+                var bottomOffset = Math.floor((50 * scale) / 2) - 25;
+
+                jQuery('#AdMarvel').css('margin-left',leftOffset + 'px');
+                jQuery('#AdMarvel').css('transform','scale(' + scale + ',' + scale + ')');
+                jQuery('#AdMarvel').css('-ms-transform','scale(' + scale + ',' + scale + ')'); /* IE 9 */
+                jQuery('#AdMarvel').css('-moz-transform','scale(' + scale + ',' + scale + ')'); /* Firefox */
+                jQuery('#AdMarvel').css('-webkit-transform','scale(' + scale + ',' + scale + ')'); /* Safari and Chrome */
+                jQuery('#AdMarvel').css('-o-transform:','scale(' + scale + ',' + scale + ')'); /* Opera */
+                jQuery('#AdMarvel').css('margin-bottom', bottomOffset + 'px');
+            }
+
+            function AdMarvelInit()
+            {
+                var AdMarvel = {
+                    encode : function (string) {
+                        return escape(this._utf8_encode(string));
+                    },
+
+                    _utf8_encode : function (string) {
+                        string = string.replace(/\r\n/g,"\n");
+                        var utftext = "";
+
+                        for (var n = 0; n < string.length; n++) {
+
+                            var c = string.charCodeAt(n);
+
+                            if (c < 128) {
+                                utftext += String.fromCharCode(c);
+                            }
+                            else if((c > 127) && (c < 2048)) {
+                                utftext += String.fromCharCode((c >> 6) | 192);
+                                utftext += String.fromCharCode((c & 63) | 128);
+                            }
+                            else {
+                                utftext += String.fromCharCode((c >> 12) | 224);
+                                utftext += String.fromCharCode(((c >> 6) & 63) | 128);
+                                utftext += String.fromCharCode((c & 63) | 128);
+                            }
+                        }
+                        return utftext;
+                    }
+                }
+
+                var partnerId = "d6be43944c067f30";
+                var siteId = "33535";
+
+                jQuery('#AdMarvel').css('display','');
+                var m3_u = 'http://ads.admarvel.com/fam/javascriptGetAd.php';
+                var m3_r = Math.floor(Math.random()*99999999999);
+                document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+                document.write ("?partner_id=" + partnerId);
+                document.write ('&amp;site_id=' + siteId);
+                //document.write ('&amp;target_params=' + targetparams_str);
+                document.write ('&amp;version=1.5');
+                document.write ('&amp;language=javascript');
+                document.write ('&amp;format=wap');
+                document.write ('&amp;cb=' + m3_r);
+                document.write ("'><\/scr"+"ipt>");
+
+                resizeAd();
+                setInterval(function() { resizeAd(); }, 12);
+            }
+
+            // var userAgent = "Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16";
+            // var userAgent = "Mozilla/5.0 (Linux; U; Android 2.1; en-us; Nexus One Build/ERD62) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17";
+            (function(a) {
+                if (/(Mobile)/i.test(a))
+                {
+                    // AdMarvelInit();
+                }
+            })(navigator.userAgent || navigator.vendor || window.opera);
+        </script>
+    </div>
+    
+    
+
 </body></html>
