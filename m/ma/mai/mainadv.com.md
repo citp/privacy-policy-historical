@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mainadv.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626182458id_/http%3A//www.mainadv.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainadv.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217093423id_/http%3A//www.mainadv.com/privacy_policy.php) for the most accurate reproduction.*
 
 # MainADV
 
-Privacy Policy
+Privacy Policy | [(click here for italian version)](https://web.archive.org/web/20121217093423id_/http%3A//www.mainadv.com/privacy_policy_it.php)
 
 mainADV SRL is firmly committed to protecting the privacy of Internet users and fostering user confidence in the Internet, Internet advertising and direct marketing.  
 We continually evaluate innovative ways to protect online user privacy while also offering our clients the ability to own and use information regarding their interactions with their customers.  
@@ -38,7 +38,7 @@ We may disclose a user's information to third parties when we reasonably believe
 User Choice  
 We use technology, which includes cookies, in the delivery of our Services. We believe that the use of these tools enables us and our advertiser clients to provide users with a more meaningful web experience.  
 You may at all times adjust your computer's web browser settings to refuse all cookies, but by doing so you may not be able to use certain features on the websites you visit or take full advantage of all the website offerings and interest based advertising. You can remove cookies by following directions provided in your Internet browser's "help" file.  
-You may also simply opt out of receiving interest-based advertising by clicking [here](https://web.archive.org/web/20120626182458id_/http%3A//www.mainadv.com/privacy_policy.php?del=1).  
+You may also simply opt out of receiving interest-based advertising by clicking [here](https://web.archive.org/web/20121217093423id_/http%3A//www.mainadv.com/privacy_policy.php?del=1).  
 Our opt-out cookies are programmed to expire ten years after they are initially issued. If you buy a new computer, upgrade or change Web browsers or delete this "opt-out" cookie, you will need to perform this opt-out process again. In order for the opt-out to work, your browser must be set to accept 3rd party cookies. Opting out does not necessarily delete or replace all cookies from our domain. 
 
 Data Retention  
@@ -65,6 +65,6 @@ Transfer of Data upon Change of Control
 In the event that another company acquires all or substantially all of the assets of our business through a consolidation, merger, asset purchase, or other transaction, we reserve the right to transfer all data (including any personally identifiable information a user may have provided through the "contact us" page) that is in our possession or under our control to such acquiring party. 
 
 Questions or Comments about this Privacy Policy  
-If you have questions or concerns regarding this statement, you should first contact us through email. You can address your general questions and comments by e-mail to info@mainadv.com or by mail: mainADV SRL, Via Marco Polo 9, 65126 Pescara, Italy Attn: Legal Department 
+If you have questions or concerns regarding this statement, you should first contact us through email. You can address your general questions and comments by e-mail to info@mainadv.com or by mail: mainADV SRL, Via Nicola Fabrizi, n°38, 65126 Pescara, Italy Attn: Legal Department 
 
 |   | 
