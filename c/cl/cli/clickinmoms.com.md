@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the clickinmoms.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613204844id_/http%3A//www.clickinmoms.com/forums/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickinmoms.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218013434id_/http%3A//www.clickinmoms.com/forums/privacypolicy.php) for the most accurate reproduction.*
 
-# Clickinmoms - Privacy Policy
+# Clickin Moms | Digital Photography Forum for Women in Photography - Privacy Policy
 
   
 
 
-When accessing our website, Clickinmoms will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
+When accessing our website, Clickin Moms | Digital Photography Forum for Women in Photography will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
 When you sign up for a membership with Clickin Moms, purchase a product, register for a course, claim a prize, participate in a poll, or otherwise engage in a transaction or board activity, we may collect a variety of information, including but not limited to your name, occupation, website, mailing address, time zone, phone number, email address, and contact preferences. Credit card transactions made through Paypal do not result in the transmission of your financial data to us.
 
@@ -27,13 +27,13 @@ The information collected is also used for statistical purposes. We may use soft
 
 p>
 
-The information collected is for statistical purposes. Clickinmoms may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+The information collected is for statistical purposes. Clickin Moms | Digital Photography Forum for Women in Photography may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
 
-For site security purposes and to ensure that this service remains available to all users, Clickinmoms uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+For site security purposes and to ensure that this service remains available to all users, Clickin Moms | Digital Photography Forum for Women in Photography uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
 If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message.
 
-Clickinmoms will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
+Clickin Moms | Digital Photography Forum for Women in Photography will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
 
 Cookies
 
