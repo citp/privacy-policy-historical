@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xxx.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619171853id_/http%3A//www.xxx.com/privacy-policy/%23read) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxx.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218034836id_/http%3A//www.xxx.com/privacy-policy/%23read) for the most accurate reproduction.*
 
-# XXX.com - 100% Free Sex Enterntainment
+# XXX.com - Privacy Policy
 
 XXX.com respects your privacy. This policy explains how XXX.com will treat information that it may obtain from you as you make use of the XXX.com site. The owners and operators of XXX.com ("XXX") provide the XXX.com site, the XXX Blog, XXX Radio, and all services provided through them (the "Service") subject to the terms of this Privacy Policy. By using the Service, you accept and agree to this Privacy Policy. 
 
