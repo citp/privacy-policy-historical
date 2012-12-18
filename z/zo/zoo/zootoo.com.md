@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zootoo.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619191538id_/http%3A//www.zootoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zootoo.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218074841id_/http%3A//www.zootoo.com/privacy) for the most accurate reproduction.*
 
 # Zootoo Privacy Policy
 
