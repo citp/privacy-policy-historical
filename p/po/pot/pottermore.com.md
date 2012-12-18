@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pottermore.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608011306id_/http%3A//www.pottermore.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pottermore.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218060832id_/http%3A//www.pottermore.com/en/privacy) for the most accurate reproduction.*
 
-# Pottermore: Privacy Policy
+# Pottermore: Privacy and Cookies Policy ("Privacy Policy")
 
-This privacy policy (“Privacy Policy”) contains 15 sections. You can view each section by selecting the links below:
+This Privacy Policy contains 15 sections. You can view each section by selecting the links below:
 
 ### 1 Introduction
 
@@ -164,15 +164,31 @@ Legal requests:
 
 7.3 We also use watermarking technology to help us combat hacking, piracy and the unauthorised use of books sold through the Pottermore Shop. This involves the use of code numbers to help us to identify individual copies of a book. We may use such watermarking technology to identify items purchased through your Pottermore Shop Account to help us investigate and protect against hacking, piracy, unauthorised use and any other behaviour that may be in breach of our Terms or applicable laws.
 
-### 8 Cookies
-
-Cookies and log files
+### 8 Cookies and similar technologies
 
 8.1 While on Pottermore, certain information is automatically logged about how you are using Pottermore to analyse performance and usage of Pottermore. This information may include the URL of the website which linked you to Pottermore, your IP address and the pages you visit while on Pottermore. The IP address indicates the location of your computer on the internet. 
 
-8.2 Like many online services we use a feature called a cookie, which is a small data file that is sent to your browser from a web server and stored on your device’s hard drive. References in this Privacy Policy to cookies also include other means of automatically accessing or storing information on your device. Some of the cookies we use are necessary for the functioning of Pottermore. For example, we use ‘session cookies’ to keep track of your internet session whilst on the Pottermore Shop which, for instance, allows us to remember the items you add to your list of intended purchases. We also use cookies (and other automatically tracked information) to help you move around and enjoy the interactive features on Pottermore.com more easily and to remember (at your request) your login details for subsequent visits. We use ‘analytics cookies’ (such as Google Analytics cookies) to keep track of our users’ browsing activity whilst on Pottermore. This helps us to understand how our users use Pottermore so that we can improve it. The information that we collect through such analytics cookies is aggregated and anonymous, so it does not identify you as an individual user. If you have come to Pottermore through one of our Partners, we may use an ‘affiliate cookie’ to help us recognise which Partner helped you to find us. Some of the cookies we use may be sent to your device as soon as you visit Pottermore. By agreeing to our [Terms](https://web.archive.org/en/terms), you are providing your consent for us to use cookies in these ways but you can delete any of these cookies at any time if you wish. Please see our [Help](https://www.pottermore.com/en/help) pages for guidance on how to do so. Please note, if you delete certain cookies, this may limit your use of Pottermore.com and the Pottermore Shop (but this does not apply to analytics cookies and affiliate cookies). 
+8.2 Like many online services we use a feature called a “cookie”, which is a small data file that is sent to your browser from a web server and stored on your device’s hard drive. References to cookies also include other means of automatically accessing or storing information on your device. Cookies enable us to identify your device when you have logged in. We use cookies that are strictly necessary for the functioning of Pottermore. For example, we use ‘session cookies’ to keep track of your internet session whilst on the Pottermore Shop which, for instance, allows us to remember the items you add to your list of intended purchases in your shopping basket.
 
-8.3 You can delete cookies from your hard drive at any time. You can set your internet browser so that it will not allow cookies to be stored on your device. This may reduce the functionality of Pottermore and may mean that certain features or content on Pottermore will not be available to you. Further information on how to prevent cookies from being stored on your device can be found at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) under the 'manage cookies' section. Alternatively, you can access further information by going to the help menu within your internet browser. To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
+You can find out more about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+
+Without these strictly necessary cookies the online services that you have asked for cannot be provided. We also use cookies (and other automatically tracked information) to help you move around and enjoy the interactive features on Pottermore.com more easily and to remember settings to improve your visit (at your request) such as your site language preferences or whether you want to be signed in automatically next time you visit. We also use cookies to help improve the performance of Pottermore and to provide you with a better user experience. We use ‘analytics cookies’ (such as Google Analytics cookies) to keep track of our users’ browsing activity whilst on Pottermore. The information that we collect through such analytics cookies is aggregated and anonymous and is only used to help us improve how our website works and to understand what interests our users by showing us, for example, which pages you visit.
+
+The information does not identify you as an individual user. If you have come to Pottermore through one of our Partners, we may use an ‘affiliate cookie’ to help us recognise which Partner helped you to find us. We also use online behavioural advertising cookies to work out what advertising might be most relevant to you based on the areas you look at on our site. These cookies look at your IP address to provide information about where you are located. We also allow third party marketing, analytics and other service providers to collect information about your browsing activities and to provide tailored advertising. Third-party targeted advertising cookies collect information about your browsing activity across multiple websites and online services in order to provide you with relevant advertisements on our websites and online services and the websites and online services of third parties. Ad networks may share this information with the advertisers using their network. The information collected using these cookies does not identify you personally. 
+
+We use cookies to give you the very best experience on Pottermore and to allow you to make use of all the site features. If you visit Pottermore without changing your cookie settings the cookies we use will be sent to your device. By continuing to use Pottermore you are providing your consent for us to use cookies in these ways but you can delete any of these cookies at any time if you wish (as set out below). Please also see our Help pages for guidance on how to do so. Please note, if you delete certain cookies, this may limit your use of Pottermore.com and the Pottermore Shop (but this does not apply to analytics cookies and affiliate cookies).
+
+8.3 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies, or you can modify your browser so that it notifies you when cookies are sent to it.
+
+You can check whether these settings are currently enabled on your computer - or find out how to change your current settings - here:
+
+Unless you do this, cookies will be issued when you use our site, but you can delete them via your browser at any time. If you do not accept cookies or decide to delete them you will still be able to access and use the site but you will lose some features and functionality. For example, you won’t be able to remain signed-in if you disable cookies. 
+
+If you wish to restrict or block web browser cookies which are set on your device then you can do this by going to the help menu within your internet browser. Alternatively, you may wish to visit the “manage cookies” section on [www.allaboutcookies.org](http://www.allaboutcookies.org/), which contains comprehensive information on how to prevent cookies from being stored on your device. 
+
+To opt out of being tracked by Google Analytics across all websites visit: [tools.google.com/dlpage/gaoptout/](http://tools.google.com/dlpage/gaoptout/)
+
+You are advised to read the privacy policy of external sites before disclosing any personal information.
 
 ### 9 Links
 
