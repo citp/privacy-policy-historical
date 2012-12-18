@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magelo.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617043859id_/http%3A//www.magelo.com/en/privacy_policy.jspa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magelo.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218061306id_/http%3A//www.magelo.com/en/privacy_policy.jspa) for the most accurate reproduction.*
 
-# Privacy policy - Magelo
+# Privacy policy - EQ - Magelo
 
 The intent of this privacy policy is to detail: 
 
