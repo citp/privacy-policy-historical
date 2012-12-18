@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619183115id_/http%3A//www.trialpay.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218032008id_/http%3A//www.trialpay.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # TrialPay: Privacy Policy
 
@@ -40,4 +40,4 @@ TrialPay lets other companies that show offers on some of our pages set and acce
 
 **Contact Us.** TrialPay may update this policy at any time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your TrialPay account or by placing a prominent notice on our site.
 
-If you have any questions about this Privacy Policy, please write to us at Privacy Concerns, c/o TrialPay Inc., 303 Bryant Street, 2nd Floor, Mountain View, CA 94041.
+If you have any questions about this Privacy Policy, please write to us at Privacy Concerns, c/o TrialPay Inc., 975 S. California Ave., Ste 200 Palo Alto, CA 94304
