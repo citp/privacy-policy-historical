@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the worldfree4u.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624052636id_/http%3A//worldfree4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldfree4u.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219005820id_/http%3A//worldfree4u.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Of Worldfree4u.com
+
+## **Privacy Policy**
 
   
 **At ‘worldfree4u.com’ we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use ‘worldfree4u.com’, and how we safeguard your information.**
