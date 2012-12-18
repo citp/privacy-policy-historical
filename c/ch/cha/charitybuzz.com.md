@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charitybuzz.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509192017id_/http%3A//www.charitybuzz.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charitybuzz.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218024723id_/http%3A//www.charitybuzz.com/privacy_policy) for the most accurate reproduction.*
 
 # charitybuzz | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Personally Identifiable Information (PII) is data that can be used to uniquely identify or contact a single person.
 
-You may be asked to provide your personal information anytime you are in contact with Charitybuzz. Our company may share this personal information with affiliate or partnering non profits and corporations consistent with this Privacy Policy. Charitybuzz may also combine it with other information to provide and improve our products, advertisement services, content and customer service.
+You may be asked to provide your personal information anytime you are in contact with Charitybuzz. Our company may share this personal information with affiliate or partnering non profits and corporations consistent with this Privacy Policy. Charitybuzz may also combine it with other information to provide and improve our products, advertisement services, content and custo mer service.
 
 Here are some examples of the types of personal information Charitybuzz may collect and how we may use it.
 
@@ -40,6 +40,8 @@ If we do combine non-personally identifying information with personally identify
 ### Cookies and Other Technologies
 
 Charitybuzz's website, online services, interactive applications, and advertisements may use "cookies" and other technologies such as pixel tags and web traffic and meta-tags. These technologies help us understand user behavior, tell us which parts of our website people have visited, and facilitate and measure the effectiveness of advertisements and web searches. We treat information collected by cookies and other technologies as non-personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
+
+The use of cookies by our [partners, affiliates, tracking utility company, service providers] is/is not covered by our privacy statement. We do/do not have access or control over these cookies. Our [partners, affiliates, tracking utility company, service providers] use session ID cookies [to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.] 
 
 Charitybuzz utilizes cookies and other technologies in mobile advertising services to control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. If you do not want to receive ads with this level of relevance on your mobile device, you can opt out by emailing [unsubscribe@Charitybuzz.com](mailto:unsubscribe@Charitybuzz.com) from the address you wish to have opted out.
 
@@ -99,19 +101,19 @@ Charitybuzz websites, products, applications, and services may contain links to 
 
 ### Widgets
 
-Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
+Our website includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
 
 ### Facebook Connect or other OpenID provider
 
-You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this website to your profile page to share with others within your network.
 
 ### Testimonials/Comments/Reviews
 
-We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
+We post customer testimonials/comments/reviews on our website which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
 
 ### Blogs
 
-If you use our blog on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+If you use our blog on this website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
 ### International Users
 
@@ -127,6 +129,4 @@ We may update this privacy statement to reflect changes to our information pract
 
 ### Privacy Questions
 
-If you have questions or concerns about Charitybuzz's Privacy Policy or data processing, please contact us at 437 Fifth Avenue, 11th Floor New York, NY 10016. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <http://watchdog.truste.com/pvr.php?page=complaint>, by mail at WatchDog Complaints, TRUSTe, 55 Second Street, Suite 2, San Francisco, CA, USA 94104, by phone at 415-520-3400, or by fax at 415-520-3420. If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
-
- 
+If you have questions or concerns regarding Charitybuzz's Privacy Policy or data processing, please contact us at 437 Fifth Avenue, 11th Floor New York, NY 10016. If contacting us does not resolve your complaint you may raise your complaint with TRUSTe by Internet [here](http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html), or by fax at 415-520-3420 or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact_us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, [click here](http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. 
