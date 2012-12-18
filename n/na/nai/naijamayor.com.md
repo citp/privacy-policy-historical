@@ -1,85 +1,60 @@
-> *The following text is extracted and transformed from the naijamayor.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206203921id_/http%3A//www.ipage.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijamayor.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218071757id_/http%3A//naijamayor.com/privacy-policy) for the most accurate reproduction.*
 
-# iPage's Privacy Policy
+# Privacy Policy | NIGERIA ENTERTAINMENT | Top Nigeria Entertainment Site
 
-Your privacy is very important to iPage Hosting ("iPage"). We want to make your experience using our services and on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools and opportunities with complete confidence.
+It is our policy to respect the privacy of the people who access and use our network of websites, including the site you linked from (the “Site”) and the services we provide to you on the Site (Naijamayor.com).  This Privacy Policy applies to information that you provide to us through the Site and our Services, and when you access, download or use any information, services, products or content appearing on the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site.
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how iPage collects information from all end users of iPage's Internet services (the "Services") - those who access some of our Services but do not have accounts ("Visitors") as well as those who pay a service fee to subscribe to the Service ("Users") - what we do with the information we collect, and the choices Visitors and Users have concerning the collection and use of such information. iPage requests that you read this Privacy Policy carefully.
+**What information do we collect?**
 
-  1. **Introduction.** iPage collects information in different ways from Visitors and Users who access the various parts of our Services and the network of Web sites accessible through our Services. We use this information primarily to provide a customized experience as You use our Services and, generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required or permitted by law or other special cases described below.
-  
+We (Naijamayor.com) collect information from you when you subscribe to our newsletter or contact us, as appropriate, you may be asked to enter your: name, e-mail address. You may, however, visit our site anonymously.
 
-  2. **Registration and Account Information.** Users are asked to provide certain personal information when they sign up for our Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. Users are asked to complete an online form that collects information about demographics, product usage and preferences, along with other information that will help us improve our products and services. The personal information collected from Users through these forms is used to manage each User's account (such as for billing purposes) and provide Users with information about services that may be of interest to them. This information is not shared with third parties, unless specifically stated otherwise or in special circumstances. However, in instances where iPage and a partner jointly promote the Services, iPage may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion. In this instance, personal information may not be used by the partner for any other purpose. iPage may also generate non-identifying and aggregate profiles from personal information Users provide during registration (such as the total number, but not the names, of Users). As explained in more detail below, we may in certain instances use this aggregated and non-identifying information to sell advertisements that appear on the Services.
-  
+**What do we use your information for?**
 
-  3. **Domain Registration.** In certain jurisdictions, domain name registration information legally has to be available to the public. Where domain name registration information is available to the public, anyone can access it through "WHOIS" searches. The WHOIS database is a publicly accessible database that lists the domain name and contact information of each registrant. The domain name registration you provide is hosted by us to the public. At times, our Users may receive solicitations that result from searches of the publicly available WHOIS database conducted by other companies or individuals. However, the solicitation and/or SPAM they receive does not in any way come from iPage. 
-  
+Any of the information we collect from you may be used in one of the following ways:
 
-  4. **iPage Partners and Sponsors.** Some products and services are offered to Visitors and Users in conjunction with a partner (e.g., domain registration and for joint promotions, as described in paragraph 2 above). To provide Visitors and Users with some of these products and services, the partner may need to collect and maintain personal information. In these instances, we will provide such data collected or transferred to our Partners and Sponsors. Additionally, many iPage Users have co-branded pages that are co-sponsored by non-affiliated partners. iPage will share non-identifying and aggregate information (except as described above), but not personally identifiable information of individual Users, with such partners in order to administer the co-branded products or services offered.
-  
+_To send periodic  emails_  
+The email address you provide, will only be used to send you information and updates. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-  5. **Online Shopping.** At some Web sites that you access through links on iPage, you can purchase products and services or register to receive materials, such as a catalog or new product updates. In many cases, you may be asked to provide contact information, such as your name, address, e-mail address, phone number, and credit/debit card information. If you complete an order for a Web site or service that is not provided by iPage, iPage has no control over the third parties' use of any personal information you provide when placing such an order and therefore we have no responsibility or liability for the manner in which the organizations that operate such linked web sites may collect, use or disclose, secure and otherwise treat your personal information. Except as provided herein, we will not provide any of your personal information to these third parties without your consent. We provide links to these Web sites as a convenience to the User. Please exercise care when visiting linked Web sites. The linked Web sites have separate and independent privacy statements, notices and terms of use which we recommend you read carefully. If you order products directly from iPage, we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order.
-  
+**Cookies?**
 
-  6. **Online Advertisements.** iPage does not share personally identifiable information about its individual Visitors or Users with advertisers. iPage may display online advertisements and may share aggregated and non-identifying information about our Visitors and Users collected through the registration process, as well as through online surveys and promotions with these advertisers. Additionally, in some instances, we use this aggregated and non-identifying information to deliver tailored advertisements. For instance, an advertiser tells us the audience they want to reach (for example, males between 25 and 55 years of age) and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display the advertisement to the intended audience.
-  
+We may uses cookies on certain pages of our service. Cookies are small pieces of information that your Web browser places on your computers hard drive. Cookies can help us personalize our Web site and provide information that is targeted to the interests of individual Users so you don’t see the same advertisements repeatedly.
 
-  7. **Responses to E-mail Inquiries.** When Visitors or Users send e-mail inquiries to iPage, the return e-mail address (and other personal information provided in the inquiry) is used to answer the e-mail inquiry we receive. iPage does not use the return e-mail address for any other purpose and does not share the return e-mail address with any third party.
-  
+We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our site Naijamayor.com.
 
-  8. **Voluntary Customer Surveys.** We may periodically conduct both business and individual customer surveys. We encourage our Users to participate in these surveys because they provide us with important information that helps us to improve the types of services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary. We take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other iPage Users to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties. Unless otherwise noted in the survey invitation or the survey itself, Users have the option of completing surveys anonymously or providing us with contact information. We may use the contact information to follow up with Users based on the answers they provide. We may also contact you to highlight the changes we have made in response to feedback. 
-  
+**Childrens Online Privacy Protection**
 
-  9. **Service Providers.** We may transfer (or otherwise make available) your personal information to our affiliates and other third parties who provide services on our behalf. For example, as discussed above, we may use service providers to authorize and process payments, administer surveys, and run our promotions. Your personal information may be maintained and processed by our affiliates and other third party service providers in the US or other jurisdictions. Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose personal information for their own marketing or other purposes. 
-  
+We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age.  If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact [mayorbosspromo@gmail.com](https://web.archive.org/web/20121218071757id_/http://naijamayor.com/privacy-policy/mayorbosspromo@gmail.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
-  10. **Sale of Business.** We may transfer your personal information as an asset in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of iPage as part of a corporate reorganization or stock sale or other change in corporate control.
-  
+We recommend that minors over the age of 13 ask a parent or guardian for permission before sending any information about themselves to anyone over the Internet.
 
-  11. **Special Cases.** It is iPage's policy not to use or share the personal information about Visitors of Users in ways unrelated to the ones described above without your consent. However, iPage, or our service providers, may disclose personal information about Visitors or Users, or information regarding your use of the Services or Web sites accessible through our Services, for any reason, in our sole discretion to comply with US, Canadian or other laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests or demands for such information; in response to a search warrant or other legally valid inquiry or order; to an investigative body in the case of a breach of an agreement or contravention of law; to disclose information that is necessary to identify, contact, or bring legal action against someone who, for example, may be violating our Acceptable Use Policy or other user policies; to operate the Services properly; to protect iPage and our Users; or as otherwise permitted or required by law.
-  
+### LINKS TO OTHER SITES
 
-  12. **"Cookies" and How iPage Uses Them.** A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. iPage may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.. These cookies do not enable third parties to access any of your User information. You may set your Web browser to notify you when you receive a cookie. However, if you decide not to accept cookies, you may not be able to take advantage of all of the features of our Web site. Additionally, be aware that if you visit non-iPage Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies. Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. In addition, iPage utilizes cookies to track referrals from internal and external affiliates, as well as advertising campaigns.
-  
+Our site and Services may contain links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
 
-  13. **ipage.com Statistics.** We use information gathered from our site statistics (for example, User IP addresses) to help diagnose problems with our servers, and to administer our Web site. We also gather broad demographic information from this data to help us improve our site and make your browsing and purchasing experience more enjoyable. 
-  
+This policy was last modified on July 2012
 
-  14. **Public Forums.** Please remember that any information you may disclose in our User Directory, Spotlights/case studies, testimonials, Forums, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
-  
+**Contacting Us**
 
-  15. **iPage's Commitment to Data Security.** We have implemented measures designed to protect personal information in our custody and control. We maintain reasonable administrative, technical and physical safeguards in an effort to protect against unauthorized access, use, modification and disclosure of personal information in our custody and control. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personally identifiable information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this site cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party, despite our best efforts. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Your online access to certain personal information may be protected with a password you select. We strongly recommend that you do not disclose your password to anyone. We will never ask you for your password in any unsolicited communication (such as letters, phone calls or email messages).
+### [mayorbosspromo@gmail.com](https://web.archive.org/web/20121218071757id_/http://naijamayor.com/privacy-policy/mayorbosspromo@gmail.com)  
+skype: mayor boss  
+Facebook: mayorboss  
+Twitter: nigeriahiphop
 
-Data related to the services will be maintained in the US. We have personal information retention processes designed to retain personal information of our customers for no longer than necessary for the purposes stated above or to otherwise meet legal requirements.
+Feel Free, Share! with Your Friends
 
-  
-
-  16. **How to Access or Modify Your Information.** You have the right to access, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections of inaccuracies in your personal information we have in our custody or control by accessing your personal profile in your account or by contacting support via email, phone or online chat.. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to their personal information records. 
-
-To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your Control Panel. Alternatively, you can contact iPage Support by phone or through our online support form.
-
-  
-
-  17. **Where to Direct Questions About iPage's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, iPage Hosting, 70 Blanchard Rd 3rd Floor, Burlington, MA 01803 or support@ipage-inc.com.
-  
-
-  18. **Choice/Opt-Out**
-
-When you become a User of iPage, You are automatically subscribed to receive notices about Your account, e-mail newsletters and news of special promotions offered through iPage and/or in conjunction with partners.
-
-To unsubscribe from iPage newsletters and promotional mailings, please update your preferences with our subscription settings tool or e-mail us at iPage Support. If you would like to cancel a iPage membership completely, please contact iPage Support through our online support form.
-
-During the registration process, you are provided with the opportunity to opt out of receiving marketing and promotional communications from iPage and our partners that are not directly related to the services we provide. iPage, its affiliates or partners may use the information associated with your account to contact you with these special offers.
-
-Please note: iPage reserves the right to send e-mail communications relating directly to their accounts to all active members.
-
-  
-
-  19. **Revisions to This Policy.** iPage reserves the right to revise, amend, or modify this policy, and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the Terms of Service.
-  
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fnaijamayor.com%2Fprivacy-policy%2F%20 "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fnaijamayor.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
+  * [](http://www.tumblr.com/share?v=3&u=http%3A%2F%2Fnaijamayor.com%2Fprivacy-policy%2F&t=Privacy%20Policy&s=It%20is%20our%20policy%20to%20respect%20the%20privacy%20of%20the%20people%20who%20access%20and%20use%20our%20network%20of%20websites%2C%20including%20the%20site%20you%20linked%20from%20%28the%20%E2%80%9CSite%E2%80%9D%29%20and%20the%20services%20we%20provide%20to%20you%20on%20the%20Site%20%28Naijamayor.com%29.%20%C2%A0This%20Privacy%20Policy%20applies%20to%20in "Tumblr")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fnaijamayor.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fnaijamayor.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fnaijamayor.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=It%20is%20our%20policy%20to%20respect%20the%20privacy%20of%20the%20people%20who%20access%20and%20use%20our%20network%20of%20websites%2C%20including%20the%20site%20you%20linked%20from%20%28the%20%E2%80%9CSite%E2%80%9D%29%20and%20the%20services%20we%20provide%20to%20you%20on%20the%20Site%20%28Naijamayor.com%29.%20%C2%A0This%20Privacy%20Policy%20applies%20to%20in "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fnaijamayor.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fnaijamayor.com%2Fprivacy-policy%2F&srcTitle=NIGERIA+ENTERTAINMENT+%7C+Top+Nigeria+Entertainment+Site+Nigeria+Entertainment%2C+Nigeria+Music%2C+Hip+Hop%2C+Highlife%2C+Afrobeat%2C++Images%2C+Videos%2C+Lifestyle%2C+Nollywood%2C+Gossip "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fnaijamayor.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=NIGERIA+ENTERTAINMENT+%7C+Top+Nigeria+Entertainment+Site+Nigeria+Entertainment%2C+Nigeria+Music%2C+Hip+Hop%2C+Highlife%2C+Afrobeat%2C++Images%2C+Videos%2C+Lifestyle%2C+Nollywood%2C+Gossip&summary=It%20is%20our%20policy%20to%20respect%20the%20privacy%20of%20the%20people%20who%20access%20and%20use%20our%20network%20of%20websites%2C%20including%20the%20site%20you%20linked%20from%20%28the%20%E2%80%9CSite%E2%80%9D%29%20and%20the%20services%20we%20provide%20to%20you%20on%20the%20Site%20%28Naijamayor.com%29.%20%C2%A0This%20Privacy%20Policy%20applies%20to%20in "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fnaijamayor.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
+  * More
 
 
 
-This file was last modified June 14, 2011.
+**Do you have a story for publication? Please email it to mayorbosspromo@gmail.com** **Like & Get Update on Facebook Now **
