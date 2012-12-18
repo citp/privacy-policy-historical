@@ -1,77 +1,215 @@
-<!--The following is the downloaded HTML source of the datasheetarchive.com privacy policy that was archived on 2012-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120520160038id_/http%3A//www.datasheetarchive.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the datasheetarchive.com privacy policy that was archived on 2012-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121218044023id_/http%3A//www.datasheetarchive.com/about.html%23privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8">
 <title>Advertising Cookie, Datasheet Collection, and Privacy Policies | Datasheet Archive</title>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<meta http-equiv="content-language" content="en">
-<link href="http://www.datasheetarchive.com/css/stylesheet.css" rel="stylesheet" type="text/css" media="all">
+<meta name="description" content="The policies of the Datasheet Archive - Datasheet Search Engine">
+<meta name="keywords" content="">
+<link href="http://www.datasheetarchive.com/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://www.datasheetarchive.com/css/findchips.css" rel="stylesheet" type="text/css" media="all">
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.datasheetarchive.com/css/ie7.css">
+<![endif]--> 
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.datasheetarchive.com/js/scripts.js"></script>
+<script type="text/javascript" src="http://www.datasheetarchive.com/js/jquery.featureList-1.0.0.js"></script>
+<script type="text/javascript" src="http://www.datasheetarchive.com/js/bsn.AutoSuggest_c_2.0.js"></script>
+<script type="text/javascript" src="http://www.datasheetarchive.com/js/css3-mediaqueries.js"></script>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+  $('#tabs li a').featureList({
+  output : '.slide',
+  start_item : 0
+  });
+ });
+</script>
+
+<script type="text/javascript">
+  $(document).ready(function ($) {
+  $.fn.vAlign = function() {
+  return this.each(function(i){
+  var ah = $(this).height();
+  var ph = $(this).parent().height();
+  var mh = Math.ceil((ph-ah) / 2);
+  $(this).css('margin-top', mh);
+  });
+ };
+  $('#tabs li a p').vAlign();
+ });
+</script>
+
+<script type="text/javascript">
+ $(document).ready(function() {
+ $('.results-img').hover(function() {
+ var thumbnail = $(this).next().find("a").attr("rel");
+  $(this).next().find("a").html(' <img src=" ' + thumbnail + ' " alt="loading..."> ')
+  $(this).next().show()
+ }, function() {
+  $(this).next().hide()
+ })
+  $('.details').click(function() {
+   var thumbnail2 = $(this).children().eq(1).find('.details-img').find('a').attr("rel")
+  $('.details-box').hide();
+  $(this).children().find('.details-box').show();
+  $(this).children().eq(1).find('.details-img').find('a').html(' <img src=" ' + thumbnail2 + ' " alt="loading..."> ')
+    })
+     $(".close").click( function (e) {
+   e.stopPropagation();
+  $('.details-box').hide();
+ });
+ var widthSize = $(window).width();
+ $(".details-box").css({ 'width' : widthSize });
+})
+
+// Preload images
+ image1 = new Image();
+ image1.src = "http://www.datasheetarchive.com/images/search-button-on.png";
+ image2 = new Image();
+ image2.src = "http://www.datasheetarchive.com/images/link-hover.jpg";
+ image3 = new Image();
+ image3.src = "http://www.datasheetarchive.com/images/ul_corner_tl.png";
+ image4 = new Image();
+ image4.src = "http://www.datasheetarchive.com/images/ul_corner_tr.png";
+</script>
+
+<script>
+ document.createElement('header');
+ document.createElement('footer');
+</script>
+
+<script type="text/javascript">
+function post_to_url(path, params, method) {
+ method = method || "post";
+ var form = document.createElement("form");
+ form.setAttribute("method", method);
+ form.setAttribute("action", path);
+
+for(var key in params) {
+ if(params.hasOwnProperty(key)) {
+  var hiddenField = document.createElement("input");
+  hiddenField.setAttribute("type", "hidden");
+  hiddenField.setAttribute("name", key);
+  hiddenField.setAttribute("value", params[key]);
+  form.appendChild(hiddenField);
+ }
+}
+  document.body.appendChild(form);
+ form.submit();
+return false;
+}
+</script>
 </head>
 
 <body>
+<header>
+<div id="top">
+ <p id="toptext"><b>NEW DATABASE</b> - 350 MILLION DATASHEETS FROM 8500 MANUFACTURERS</p>
+ <ul class="main">
+  <li><a href="http://www.datasheetarchive.com/datasheet/" title="Search Helper">Search Helper</a></li>
+  <li class="dropmenu">Toolbox
+   <ul class="drop">
+    <li><a href="http://www.datasheetarchive.com/buy/" title="Buy Parts ">Buy Parts</a></li>
+    <li><a href="http://www.datasheetarchive.com/samples/" title="Browse Free Samples">Free Samples</a></li>
+    <li><a href="http://www.datasheetarchive.com/datasheet/Q-pdf.html" title="Browse our parts database">Browse Parts</a></li>
+    <li><a href="http://www.datasheetarchive.com/manufacturers/" title="Browse manufacturers">Browse Manufacturers</a></li>
+    <li><a href="http://www.datasheetarchive.com/packages/" title="Component Packages &amp; Case Outlines">Packages</a></li>
+    <li><a href="http://www.datasheetarchive.com/photos/104.html" title="Component Photo Archive">Photo Archive</a></li>
+    <li><a href="http://www.datasheetarchive.com/integrated-circuit-logos/" title="Component Manufacturer Logos">Manufacturer Logos</a></li>
+    <li><a href="http://www.datasheetarchive.com/upload/" title="Upload datasheets &amp; application notes">Upload Datasheets</a></li>
+    <li><a href="http://www.datasheetarchive.com/promotions/655.html" title="Browse Latest Parts">Latest Parts</a></li>
+    <li><a href="http://www.datasheetarchive.com/video/hitachi-semiconductor.html" title="Electronics Videos">Electronics Videos</a></li>
+   </ul>
+  </li>
+ <li class="dropmenu language">Language
+  <ul class="drop">
+  <li><a href="http://www.datasheetarchive.com/" title="Datasheet Archive">English</a></li>
+  </ul>
+ </li>
+ </ul>
+</div>
+<div id="search-container">
+ <h1><a href="http://www.datasheetarchive.com/" title="Datasheet Archive"><img src="http://www.datasheetarchive.com/images/logo.png" alt="Datasheet Archive - Datasheet Search Engine"></a></h1>
+  <div id="button-holder"><a href="http://www.datasheetarchive.com/eea/" title="New! - Extended Electronics Archive"><img src="http://www.datasheetarchive.com/images/eea.gif" border="0" alt="Extended Electronics Archive"></a></div> 
 
-<table width="100%" class="topline">
- <tbody><tr>
-  <td align="left" nowrap="">The <a href="http://www.datasheetarchive.com/" title="Datasheet Archive">Datasheet Archive</a> - 100 Million Datasheets from 7500 Manufacturers.</td>
-  <td align="center" nowrap="">&nbsp;</td>
-  <td align="right" nowrap="">&nbsp;</td>
- </tr>
+<div id="search">
+ <form name="searchForm" method="post" action="http://www.datasheetarchive.com/">
+  <input type="text" id="searchbox" name="q" autocomplete="off" onkeypress="if(event.keyCode==13) {javascript:form.submit();}" value="">
+  <input type="submit" id="searchbutton" value="">
+<p>Part Number (<a href="http://www.datasheetarchive.com/lm324n-datasheet.html">lm324n</a>), Description (<a href="http://www.datasheetarchive.com/connector%20sma%20905-datasheet.html">connector sma 905</a>), or Parameters</p>
+   </form>
+  </div>
+ </div>
 
-</tbody></table>
-<br><br>
+<p align="center"><iframe src="http://search.supplyframe.com/partner/2/ipo950/" frameborder="0" marginheight="0" marginwidth="0" height="170" width="970" scrolling="NO"></iframe></p>
 
-<form name="searchForm" method="post" action="http://www.datasheetarchive.com/">
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
- <tbody><tr>
-   <td align="center" width="250" valign="top"><a href="http://www.datasheetarchive.com/" title="Datasheet Search Engine"><img border="0" src="http://www.datasheetarchive.com/img/chips.gif" alt="Datasheet Search Engine"></a></td>
-   <td align="left" valign="top" nowrap=""><input class="formTextS" style="width:525px;" name="q" value="">&nbsp;&nbsp;<input id="sbmt" type="submit" value=" " title="Search 100 Million Datasheets"><br>&nbsp;<br>Part # or Description: • 5V RS232 Driver • 2SC5066* • "Real Time Clock" • "USB connector" • "blue led" 5mm • 10 watt zener diode • 2N3055* motorola<br>&nbsp;<br><font color="red">Search Tip:</font> Try entering the part number only. Include a wildcard (eg. lm317* or 1n4148*)</td>
-
- </tr>
-</tbody></table>
-</form>
-
+</header>
+<div id="pdx_search">
 <p>&nbsp;</p>
-
-<table border="0" width="100%">
-<tbody><tr>
- <td width="2%">&nbsp;</td>
- <td width="81%">
-
-<p><a href="http://www.datasheetarchive.com/" title="Datasheet Archive">Home</a></p><b>Privacy Policy</b><hr size="1">
-
-<p>At the Datasheet Archive, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of information we collect and how it is used.</p>
-
-<b>Log Files</b><hr size="1">
-<p>Like many other Web sites, The Datasheet Archive makes use of log files. The information inside the log files includes IP addresses, type of browser, Internet Service Provider (ISP), date &amp; time stamp, and referring pages. IP addresses, and other such information are not linked to any information that is personally identifiable.</p>
-
-<b>Cookies</b><hr size="1">
-<p>Our website uses cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.</p>
-
-<b>Google and the DoubleClick DART cookie</b><hr size="1">
-<p>We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.google.com/privacy_ads.html" target="_blank">click here</a>.</p>
-
+<p>&nbsp;</p>
+<span class="header">Search Term Help</span><a id="search"></a>
+<p>Follow these search tips to improve your search results.</p>
+<p>&nbsp;</p>
 <ul>
-<li>Google, as a third party vendor, uses cookies to serve ads on your site.</li>
-<li>Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.</li>
+<li>Try removing the suffix. For example LM317 rather than LM317DCY, or IDT72V36110L7 rather than IDT72V36110L7-5PFG.<br>&nbsp;</li>
+<li>Do NOT include a space in the part number. For example search TDA2050 rather than TDA 2050.<br>&nbsp;</li>
+<li>Getting too many irrelevant results? Add the manufacturer name to your search terms. For example "texas instruments max232" instead of max232.<br>&nbsp;</li>
+<li>Wildcards are automatic in most searches. SN*LS04 would return SN54LS04 and SN74LS04 in fulltext results.<br>&nbsp;</li>
+<li>Some part numbers begin with µ (For example NEC Electronics µPD Series). Try µPD, PD, and uPD.<br>&nbsp;</li>
+<li>Search only a single part number. BC109 instead of BC108/BC109.<br>&nbsp;</li>
+<li>Make sure you have entered the correct prefix. For example Japanese transistors often omit the leading "2S" (C1384 being 2SC1384, A1015 being 2SA1015).<br>&nbsp;</li>
+<li>Parts with many different parameters (such as crystals, or capacitors) often do not have individual datasheets. They have part numbering guides. For example a philips capacitor 222231190112 may be found by searching for "2222 capacitor philips" or "2222 capacitors philips guide".<br>&nbsp;</li>
+<li>Try our <a href="http://www.datasheetarchive.com/datasheet/" title="Search term helper">Search Term Helper</a>.</li>
+</ul>
+<p>&nbsp;</p>
+<span class="header">Privacy Policy</span>
+<p>At the Datasheet Archive, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of information we collect and how it is used.</p>
+<p>&nbsp;</p>
+<span class="headersm">Log Files</span>
+<p>Like many other Web sites, The Datasheet Archive makes use of log files. The information inside the log files includes IP addresses, type of browser, Internet Service Provider (ISP), date &amp; time stamp, and referring pages. IP addresses, and other such information are not linked to any information that is personally identifiable.</p>
+<p>&nbsp;</p>
+<span class="headersm">Cookies</span>
+<p>Our website uses cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.</p>
+<p>&nbsp;</p>
+<span class="headersm">Google and the DoubleClick DART cookie</span>
+<p>We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.google.com/privacy_ads.html" target="_blank">click here</a>.</p>
+<p>&nbsp;</p>
+<ul>
+<li>Google, as a third party vendor, uses cookies to serve ads on your site.<br>&nbsp;</li>
+<li>Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.<br>&nbsp;</li>
 <li>Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html" target="_blank">Google ad and content network privacy policy</a>.</li>
 </ul>
-
-<b>Feedback &amp; Questions</b><hr size="1">
-<p>If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at<br>privacy<img src="http://www.datasheetarchive.com/img/atsymbol.gif" border="0" alt="@">datasheetarchive.com.</p>
-
 <p>&nbsp;</p>
+<span class="headersm">Feedback &amp; Questions</span>
+<p>If you require any more information or have any questions about our privacy policy, please feel free to contact us.</p><p><img src="http://www.datasheetarchive.com/images/contact_us.png" alt="Contact Us"></p>
+<p>&nbsp;</p>
+<span class="header">Disclaimer</span><a id="disclaimer"></a>
+<p>The information presented on this site is for suggestion purposes only. We recommend that you review the component datasheet to confirm the device functionality, pinout, and performance for your application. The Datasheet Archive is not responsible for any incorrect or incomplete information.</p>
+<p>&nbsp;</p>
+<p>The use of this website is at your sole risk. It is provided on an "as is" and "as available" basis. The Datasheet Archive and its affiliates, employees, agents, and partners expressly disclaim all warranties of any kind.</p>
+<p>&nbsp;</p>
+<p>The Datasheet Archive and its affiliates, employees, agents, and partners make no warranties that (i) the website will meet your requirements, (ii) the website will be uninterrupted, secure, or error-free, (iii) the results obtained from this website will be accurate and reliable, (iv) the quality of any products, services, information or other material obtained by you through our site will meet your expectations.</p>
+<p>&nbsp;</p>
+<p>Any material downloaded or otherwise obtained through the use of this website is accessed at your own discretion and risk. You will be solely responsible for any damage to your computer system or loss of data that results from the download of any such material.</p>
+<p>&nbsp;</p>
+</div>
+<p>&nbsp;</p>
+<footer>
+ <ul>
+  <li><a href="http://www.datasheetarchive.com/">Home</a></li>
+  <li><a href="http://www.datasheetarchive.com/about.html#search">Search help</a></li>
+  <li><a href="http://www.datasheetarchive.com/about.html#privacy">Privacy Policy</a></li>
+  <li><a href="http://www.datasheetarchive.com/about.html#disclaimer">Disclaimer</a></li>
+ </ul>
+ <p id="copy">© 2012 Datasheet Archive</p>
+</footer>
 
-<p><a href="http://www.datasheetarchive.com/search-syntax.html" title="Search Syntax - How to find a datasheet.">Search Syntax</a> | <a href="http://www.datasheetarchive.com/privacy.html" title="Privacy Policy">Privacy Policy</a> | <a href="http://www.datasheetarchive.com/disclaimer.html" title="Disclaimer">Disclaimer</a><br>© 2012 Datasheet Archive</p>
-
- </td>
- <td width="17%">&nbsp;</td>
-</tr>
-</tbody></table>
-
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript">
 
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-17276743-1']);
+  _gaq.push(['_setAccount', 'UA-32515981-1']);
+  _gaq.push(['_setDomainName', 'datasheetarchive.com']);
   _gaq.push(['_trackPageview']);
 
   (function() {
@@ -81,31 +219,12 @@
   })();
 
 </script>
-
-<!-- Quantcast Tag -->
 <script type="text/javascript">
-var _qevents = _qevents || [];
-
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
-
-_qevents.push({
-qacct:"p-f6zWwOKtE-iBg"
-});
+ var options = {
+  script:"http://www.datasheetarchive.com/suggestions.php?",
+  varname:"input"
+ };
+ var as_xml = new AutoSuggest('searchbox', options);
 </script>
-
-<noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-f6zWwOKtE-iBg.gif" border="0" height="1" width="1" alt="Quantcast"/>
-</div>
-</noscript>
-<!-- End Quantcast tag -->
-
 
 </body></html>
