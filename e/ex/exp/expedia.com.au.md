@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia.com.au privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618091032id_/http%3A//www.expedia.com.au/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.com.au privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218135851id_/http%3A//www.expedia.com.au/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.*
 
 # Expedia Privacy Pledge
 
@@ -65,7 +65,7 @@ We may share your information with the following entities:
 
 ·                     Referring websites. If you were referred to this website from another site (for example, through a link you clicked on another site that directed you to this one), we may share some information about you with that referring website. We have not placed limitations on the referring websites’ use of your personal information and we encourage you to review the privacy policies of any website that referred you here. 
 
-·                     Companies within our corporate family. We may share your personal information with our parent company and corporate affiliates, including Hotels.com, L.P.; TripAdvisor LLC; and Venere Net S.p.A. This sharing enables us to provide you with information about products and services, both travel-related and other, which might interest you. To the extent that our corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They will also comply with applicable laws governing the transmission of commercial electronic communications and, at a minimum, give you an opportunity in any commercial electronic message they send to choose not to receive such commercial electronic messages in the future. 
+·                     Companies within our corporate family. We may share your personal information with our parent company and corporate affiliates, including Hotels.com, L.P.; Hotwire, Inc; and Venere Net S.p.A. This sharing enables us to provide you with information about products and services, both travel-related and other, which might interest you. To the extent that our corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They will also comply with applicable laws governing the transmission of commercial electronic communications and, at a minimum, give you an opportunity in any commercial electronic message they send to choose not to receive such commercial electronic messages in the future. 
 
 ·                     Government and Law Enforcement Agencies.  We may be required to disclose your personal information to law enforcement agencies and governments around the world for security, customs and immigration purposes. For example, under U.S. Law, the U.S. Department of Homeland Security Bureau of Customs and Border Protection requires that certain travel and reservation information relating to people travelling to or via the U.S.A, known as Passenger Name Record or PNR data, be provided to it prior to arrival in, or departure from, the U.S.A.   
 
@@ -151,6 +151,6 @@ We may update this Privacy Policy in the future. We will notify you about materi
 If you have questions about this Privacy Policy (or your travel planning or purchases), please email us using our [customer service and feedback form](mailto:help@support.expedia.com.au).   
 
 
-This Privacy Policy is effective as of July 15, 2010. 
+This Privacy Policy is effective as of June 19, 2012. 
 
 Expedia, Inc., 333 108th Ave. NE, Bellevue, WA 98004 USA 
