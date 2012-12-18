@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiziwig.eu privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620111436id_/http%3A//www.wiziwig.tv/privacystatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiziwig.eu privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218194110id_/http%3A//www.wiziwig.tv/privacystatement.php) for the most accurate reproduction.*
 
 # Wiziwig.tv | Free live sports streams | Football, MLB, NBA, NHL and more...
 
