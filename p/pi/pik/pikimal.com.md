@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the pikimal.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502144957id_/http%3A//pikimal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pikimal.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218235411id_/http%3A//pikimal.com/terms/privacy/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pikimal
 
 ## Pikimal Privacy Policy
 
-Last updated August 9th, 2010
+Last updated June 1st, 2012
 
-Pikimal Inc. operates the web site hosted at www.Pikimal.com (the "Site") and related services (the "Services") to offer an open repository of data shared by the world, made easy for anyone to mix, mash, and re-use. Pikimal values the privacy of the users, subscribers, publishers, members, and others who visit the Site or Services (collectively or individually, "Users"). By using the Site or Services, you expressly consent to the information handling practices described in this notice. This Privacy Notice is incorporated into and is subject to the Pikimal Terms of Service. Your use of the Site and Services and any personal information you provide through the Site and Services are subject at all time to this Privacy Notice and the [Terms of Service](https://web.archive.org/web/20120502144957id_/http%3A//terms).
+WebKite provides the functionality for the web site hosted at [www.Pikimal.com](https://web.archive.org/) (the "Site") and related services (the "Services") to enable our clients to easily build data-driven sites, to build an understanding of language, and to create fact and data-drive web-sites which enable people to make better decisions. WebKite values the privacy of the users, subscribers, publishers members, and others who visit the Site of Services (collectively or individually, "Users"). In the normal course of business these facts may be shared, without limitation, with the licensee of WebKite and the operator of this site. By using the Site or Services, you expressly consent to the information handling practices described in this notice. This Privacy Notice is subject to the Pikimal Terms of Service. Your use of the Site and Services are subject at all times to this Privacy Notice and the [Terms of Service](https://web.archive.org/terms/of/use).
 
 ## The Information Pikimal Collects
 
-In order to use the Site or Services, users must register with the site and in the process we may collect certain user-provided, personally identifiable information including name and email address. Our server logs automatically collect information, such as your IP address, pages you access, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.
+In order to use the Site or Services, users may register with the site and in the process we may collect certain user-provided, personally identifiable information including name and email address. Our server logs automatically collect information, such as your IP address, pages you access, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.
 
 We may assign your computer one or more cookies which may collect information to facilitate access to our website and to personalize your online experience. We may use standard Internet tools, such web beacons, which collect information that tracks your use of our website and enables us to customize our services and advertisements.
 
@@ -62,7 +62,7 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 ## Our Commitment to Data Security
 
-Pikimal uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Pikimal, and you do so at your own risk. Once we receive your transmission of information, Pikimal makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If Pikimal learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Pikimal may post a notice on the Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you can [notify us](https://web.archive.org/web/20120502144957id_/http%3A//contact).
+Pikimal uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Pikimal, and you do so at your own risk. Once we receive your transmission of information, Pikimal makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If Pikimal learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Pikimal may post a notice on the Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you can [notify us](https://web.archive.org/pages/contact).
 
 ## Our Commitment to Children's Privacy
 
@@ -76,10 +76,8 @@ For Users visiting the Site or Services from the European Economic Area or other
 
 In the event that Pikimal is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of that merger, acquisition, sale, or other change of control.
 
-## Changes and Updates to this Privacy Notice
-
 This Privacy Notice may be revised periodically without further notice to you and this will be reflected by a last modified date above. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received that personal information. Your continued use of the Site or Services constitutes your agreement to this Privacy Notice and any future revisions. For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will make reasonable efforts to notify you and obtain your consent before implementing revisions with respect to such information.
 
 ## Pikimal Contact Information
 
-Please contact Pikimal LLC with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices at: Pikimal LLC, 700 River Avenue, Suite 214, Pittsburgh, PA, 15222 or by email. We will respond to your inquiry within 45 days of its receipt.
+Please contact Pikimal LLC with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices at: Pikimal, 700 River Ave, Suite 440, Pittsburgh, PA, 15212 or by email. We will respond to your inquiry within 45 days of its receipt.
