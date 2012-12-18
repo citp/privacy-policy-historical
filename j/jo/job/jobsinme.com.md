@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsinme.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620065756id_/http%3A//www.jobsinme.com/misc/page.aspx%3Fpagenum%3D44) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsinme.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218193423id_/http%3A//www.jobsinme.com/misc/page.aspx%3Fpagenum%3D44) for the most accurate reproduction.*
 
 # Privacy Statement | JobsInME.com
 
