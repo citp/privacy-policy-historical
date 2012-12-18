@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beforeitsnews.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523052915id_/http%3A//beforeitsnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beforeitsnews.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218140253id_/http%3A//beforeitsnews.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Before It's News
+# Privacy policy
 
 Thank you for visiting BeforeItsNews.com, a division of Before It's News Inc., a California LLC. ("BIN," "we, "our" or "us"). BIN respects your privacy and is committed to protecting the privacy of any personally identifiable information that we may collect from you as you use this web site. This notice describes our privacy policies. By accessing, using or registering at BeforeItsNews.com you are confirming your agreement to our privacy policies as described in this Privacy Policy. You also should review our [Terms of Service ](https://web.archive.org/terms/)for more information about the policies governing your use of this web site.
 
