@@ -1,17 +1,43 @@
-> *The following text is extracted and transformed from the land-of-web.com privacy policy that was archived on 2011-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110126002740id_/http%3A//www.land-of-web.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the land-of-web.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218174319id_/http%3A//www.land-of-web.com/privacy-policy) for the most accurate reproduction.*
 
-# Land-of-web » Privacy
+# Privacy Policy
 
-The privacy of our visitors to **land-of-web.com** is important to us. At **land-of-web.com** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit **land-of-web.com** , and how we safeguard your information. We never sell your personal information to third parties.
+Land-of-web.com (“website” or “site” or “we” or “us”) is committed to protecting your privacy. This document tells you about our online collection and use of data. By using this site, you understand and agree to the terms of this privacy policy.
 
-#### Log Files
+**Collection of Your Personal Information**
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocal) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+We use web stat services to track the location, browser, operating system and screen resolution of our visitors i.e. information that the visitor sends via their browser. We use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit. We use this data only to operate and improve our website. We do not collect private information about each individual.
 
-#### Cookies and Web Beacons
+Email addresses and names are only provided by the user voluntarily through the commenting process or via e-mail communications.
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+We can use your personal information to communicate with you. We may send emails, any marketing communications materials, newsletters etc to inform you of new services, products or other information. 
 
-We also use third party advertisements on **land-of-web.com** to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+We do not share your personal information with any outside parties.
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+**Advertising Partners**
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partner is Google Adsense, so take a look on its privacy policy.
+
+The third-party ad servers or ad networks may collect tracking information in a different manner than is set out in this document and use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site.
+
+We won`t be responsible for any errors or omissions contained within any 3rd party advertisement. You access any third-party websites at your own risk.
+
+We have no access to or control over these cookies that are used by third-party advertisers.
+
+If you wish to disable cookies, you may do so through your individual browser options.
+
+**Publishing Policy**
+
+In order to generate extra income to our website we may choose to use affiliate links and/or sponsored posts.
+
+We do not participate in any kind of partner-linking system.
+
+We respect the rights of authors, designers and developer that is why we always provide a backlinks to respective owners.
+
+**Copyright**
+
+Content may not be reproduced, distributed, translated, displayed, posted, communicated or used in any way without the received permission from the land-of-web.com.
+
+**Contact Information**
+
+if you have any concerns, questions or require any more information about our privacy policy, please feel free to contact us by email at birchnataly@gmail.com.
