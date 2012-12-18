@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strangecosmos.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611050446id_/http%3A//www.strangecosmos.com/static/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strangecosmos.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218013042id_/http%3A//www.strangecosmos.com/static/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,3 +73,7 @@ Information gathered on our website is stored within StrangeCosmos.com controlle
 CHANGES TO THIS PRIVACY STATEMENT 
 
 If we change our privacy policy at some point in the future, we will post the changes before they take effect. If at any point we decide to use personally identifying information in a manner different from what was stated at the time the information was collected, we will notify you and give you an opportunity to opt out of the proposed use. 
+
+DISCLAIMER
+
+All the pictures, videos and games shown on StrangeCosmos.com are the property of their respective owners. All the pictures, videos and games contained on any StrangeCosmos Family sites (see list on all sides and site bottom) were collected from different public sources, including different websites, considered to be in public domain. Images posted are believed to be posted within our rights according to the U.S. Copyright Fair Use Act (title 17, U.S. Code.) StrangeCosmos.com does not claim to own exclusive rights on all images and videos published. All sources we use to create our articles are and will be credited with a proper link back. However, we are hosting a lot of uncredited material from unknown authors we received via mails, from friends and our readers. If you own copyrights to some material such as images or data and you want us to remove it from our pages, contact us using the Contact Us Tab via the link at the top Navigation bar to claim your ownership and we will either credit you and your website, or if you wish â€“ completely remove the content. 
