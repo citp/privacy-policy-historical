@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simpli.fi privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607025559id_/http%3A//www.simpli.fi/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpli.fi privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218104237id_/http%3A//www.simpli.fi/privacy-policy) for the most accurate reproduction.*
 
-# Simpli.fi Site Privacy Policy « « Simpli.fi Search Retargeting Platform Simpli.fi Search Retargeting Platform
+# Simpli.fi Site Privacy Policy «
 
 [](https://privacy.truste.com/privacy-seal/Simpli-fi-Holdings-Inc-/validation?rid=9ed34f52-b553-4ed2-b83d-484c05173b21 "TRUSTe online privacy certification")
 
