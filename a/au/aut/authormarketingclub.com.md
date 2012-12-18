@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the authormarketingclub.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620151457id_/http%3A//authormarketingclub.com/members/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authormarketingclub.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219000503id_/http%3A//authormarketingclub.com/members/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Author Marketing ClubAuthor Marketing Club
+# Privacy Policy | Author Marketing Club
 
 Company
 
