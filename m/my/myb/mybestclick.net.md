@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the mybestclick.net privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528123837id_/http%3A//mybestclick.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybestclick.net privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218195127id_/http%3A//mybestclick.net/privacy.php) for the most accurate reproduction.*
 
-# Mybestclick Quality Pay Per Click service and search engine - PPC
+# Mybestclick - Pay Per Click advertising network - PPC
 
-### Privacy Policy
-
-**MyBestClick** is the sole owner of the information collected on this website. We will not sell, share, or rent this information to any third parties in ways different from what is disclosed in this statement. MyBestClick collects information from its Advertisers and Traffic Partners (the "Clients") as well as from Internet users who initiate keyword searches from sites operated by our Traffic Partners (the "Internet Users") at several different points on our website.
+**Client Information Collection and Use** MyBestClick is the sole owner of the information collected on this website. We will not sell, share, or rent this information to any third parties in ways different from what is disclosed in this statement. MyBestClick collects information from its Advertisers and Traffic Partners (the "Clients") as well as from Internet users who initiate keyword searches from sites operated by our Traffic Partners (the "Internet Users") at several different points on our website.
 
 **Client Registration** In order to become an Advertiser and Traffic Partner, a user must first complete our online registration form. During registration, a user is required to provide their contact information (including name, email address, physical address and telephone number).
 
@@ -25,6 +23,3 @@
 **www.mybestclick.net**
 
 We have the right to change our privacy policy at any time. If we do so, we will post those changes in this section of our website so that our Clients are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose such information. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify Clients by email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
-
-  
-
