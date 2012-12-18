@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zerve.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525084605id_/https%3A//www.zerve.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerve.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218163933id_/https%3A//www.zerve.com/privacy) for the most accurate reproduction.*
 
 # Zerve Privacy Policy
 
@@ -58,6 +58,8 @@ Our primary purpose in collecting personal information is to provide you with a 
 >   * If you post User Content on the Site, we will collect that information you provide to us. For more information about User Content, see the Terms of Use.
 >   * If you send us personal correspondence, such as emails or letters, or contact us, including using the Zerve phone call center, we may collect such information in a file specific to you. We retain this information as necessary to provide, among others, customer support and troubleshoot problems as permitted by law.
 >   * If you are a seller on Zerve, we also collect other users’ comments about you in our feedback area.
+>   * If you complete a form on the Site, including any form that requests you report inaccurate information on the Site or suggest a listing for an Activity, we will collect the information you submit within the form
+>   * If you ask us to send information to an operator of an Unaffiliated Activity (as defined in the Terms of Use), we will collect the information you ask us to send and disclose the information to the operator in accordance with your request 
 > 
 
 > 
