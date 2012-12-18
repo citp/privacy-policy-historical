@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kris-stewart.org privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619174615id_/http%3A//www.flaunt.nu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kris-stewart.org privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218194746id_/http%3A//www.flaunt.nu/privacy-policy) for the most accurate reproduction.*
 
 # Flaunt Network // Your #1 Free Fansite Hosting Since 2009!
 
