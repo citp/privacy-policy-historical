@@ -1,44 +1,50 @@
-> *The following text is extracted and transformed from the truesupplier.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620071012id_/http%3A//www.truesupplier.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truesupplier.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218234955id_/http%3A//www.truesupplier.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
-# Help zone :: Truesupplier - Blackberry Accessories,iPhone Accessories & HTC Accessories wholesale Co.
+# Help zone :: Truesupplier - Blackberry Accessories,iPhone Accessories,Galaxy Accessories & HTC Accessories wholesale Co.
 
 | [](http://www.truesupplier.com/) |  |   
 ---  
 CALL US: +86-755-8884-7001   International: +86-755-8884-6981   |   
   
-[](http://www.truesupplier.com/ad_banner_click.php?banner_id=468&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=iphone+4+4s+metal+bumper) [](http://www.truesupplier.com/ad_banner_click.php?banner_id=453&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=9900+LCD+assembly) [](http://www.truesupplier.com/ad_banner_click.php?banner_id=465&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=transparent+waterdrop)   
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=470&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=Apple+iPhone+4S+Battery+Cover+with+Diamond+Logo) [](http://www.truesupplier.com/ad_banner_click.php?banner_id=443&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=Apple+iphone+4+Diamond+Home+Menu+Button+Key) [](http://www.truesupplier.com/ad_banner_click.php?banner_id=448&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=OEM+9900+KEYBOARD)   
   
   
 
 
-| Hi there service was excelent. Shipping was quick and was very happy with regular mail didn\'t pay extra tax. Also product was excellent. I wouldn\'t shop anywhere else. Good thing I found you guys when I was shopping around. I\'m going to do some enterprising get around show off the quality products yo others and maybe shop again for sure in the future. Thank you  
+| SUPERFAST SHIPPING , AS ADVERTISE. VERY SATISFIED A+++++   
 ---  
-Lochnes76   
+wintech   
   
 * * *  
   
-I always use this trader for any of my blackberry needs. Have to say one of the most trusted seller on the web and goods always turn up as described. :)  
-Deepak  
-(NIWA)   
+I received my order in only 7 days and I am from Puerto Rico. FAST SERVICE. Love it &#9829; :)  
+Viviana   
   
 * * *  
   
-Happy to use your service. Received the product in India dot on the 15th Day...excellent.   
-I have ordered again hope to get the product within the schedule time.   
-EXCELLENT SERVICE!!!!!  
-Arunasish  
-(Business)   
+I accidently ordered the top part of blackberry for the first time in my life and realized that it's almost impossible for me to replace it safely at home. So i needed to cancel the order and because of the time difference I had to wait a long time for the live support to open and even though it was a little slow I canceled the order just fine and glad that I was able to. Thank you so much for your kindness Elaine :)  
+Gun Hee Park   
   
 * * *  
   
-[**Write Your Own Testimonial**](https://web.archive.org/web/20120620071012id_/http%3A//www.truesupplier.com/testimonials.php?mode=new_form)  
+[**Write Your Own Testimonial**](https://web.archive.org/web/20121218234955id_/http%3A//www.truesupplier.com/testimonials.php?mode=new_form)  
   
   
-[](http://www.truesupplier.com/ad_banner_click.php?banner_id=418&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=iphone+4+gold+and+black+side+buttons)
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=459&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=9900+angel+devil+silicone+case)
 
 [](http://www.truesupplier.com/ad_banner_click.php?banner_id=471&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=Apple+iPhone+4S+Battery+Cover+With+Protruding+Diamond+Logo)
 
-[Truesupplier - Blackberry Accessories,iPhone Accessories & HTC Accessories wholesale Co.](http://www.truesupplier.com/) :: [Help zone](https://web.archive.org/web/20120620071012id_/http%3A//www.truesupplier.com/help.php) | Privacy statement  
+[Truesupplier - Blackberry Accessories,iPhone Accessories,Galaxy Accessories & HTC Accessories wholesale Co.](http://www.truesupplier.com/) :: [Help zone](https://web.archive.org/web/20121218234955id_/http%3A//www.truesupplier.com/help.php)
+
+|  New special offers are available!  |   |    
+---|---|---  
+  
+* * *
+
+   
+  
+  
+Privacy statement  
 ---  
   
 Thank you for accessing the web site ("Site") of truesupplier.com, Inc. ("truesupplier.com," that's us). We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
@@ -115,7 +121,7 @@ Truesupplier.com
   
 
 
-[](http://www.truesupplier.com/ad_banner_click.php?banner_id=435&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=Apple+iPad+2+Leather+case+cover+pouch+cayman)
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=389&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=iphone+hard+case+cover+with+holder)
 
-[](http://www.truesupplier.com/ad_banner_click.php?banner_id=364&banner_redirect=http://www.truesupplier.com/apple-iphone-4-genuine-leather-case-covers-voodo-product-black-pr-25449.html)   
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=472&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=iphone+4s+lcd+assembly)   
 
