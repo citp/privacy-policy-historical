@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alfredapp.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621093325id_/http%3A//www.campaignmonitor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfredapp.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218100036id_/http%3A//www.campaignmonitor.com/privacy) for the most accurate reproduction.*
 
 # The Campaign Monitor Privacy Policy | Campaign Monitor
 
@@ -14,7 +14,7 @@ Your email address is used to only send you information that you have requested.
 
 ### Subscriber Lists, Campaign Content and Campaign Reports
 
-Campaign Monitor ensures that all subscriber lists, email content and reports remain private and confidential. Campaign Monitor may scan the content of your campaigns to ensure it complies with our [Terms of Use](https://web.archive.org/web/20120621093325id_/http%3A//www.campaignmonitor.com/%3Cbr%20/%3E%3Cb%3ENotice%3C/b%3E:%20%20Undefined%20index:%20Legal%20in%20%3Cb%3E/home/campaignmonitor.com/htdocs/privacy/index.php%3C/b%3E%20on%20line%20%3Cb%3E15%3C/b%3E%3Cbr%20/%3E) — to protect against defamatory, inaccurate, abusive, obscene, profane, or threatening material that is racially or ethnically offensive. Campaign Monitor will not sell, rent, loan or invite external access to a customer’s contact lists. Nor will Campaign Monitor themselves use customer’s contact lists for any purpose.
+Campaign Monitor ensures that all subscriber lists, email content and reports remain private and confidential. Campaign Monitor may scan the content of your campaigns to ensure it complies with our [Terms of Use](http://www.campaignmonitor.com/terms/) — to protect against defamatory, inaccurate, abusive, obscene, profane, or threatening material that is racially or ethnically offensive. Campaign Monitor will not sell, rent, loan or invite external access to a customer’s contact lists. Nor will Campaign Monitor themselves use customer’s contact lists for any purpose.
 
 ### Communications from the Site
 
