@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dimox.net privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626121406id_/http%3A//dimox.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimox.net privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218024128id_/http%3A//dimox.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Ultimate Web Development (CSS, HTML, jQuery, WordPress) - Dimox.net
 
