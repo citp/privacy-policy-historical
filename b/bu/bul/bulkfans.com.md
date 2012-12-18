@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulkfans.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629235018id_/http%3A//www.bulkfans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulkfans.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218161247id_/http%3A//www.bulkfans.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bulk Facebook Fans
 
