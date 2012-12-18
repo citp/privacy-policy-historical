@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creative-culinary.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618170000id_/http%3A//www.creative-culinary.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creative-culinary.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218235049id_/http%3A//www.creative-culinary.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Recipes & Photos - Creative Culinary - A Denver, Colorado Food & Cocktail Blog
+# Privacy Policy — Creative Culinary :: Food & Cocktail Recipes - A Denver, Colorado Food & Cocktail Blog
 
 ## General Statement About Privacy on Creative Culinary
 
@@ -8,7 +8,7 @@ Creative Culinary is committed to maintaining the privacy and protection of your
 
 **Information Collected When Leaving Comments:**
 
-When you leave comments on Creative Culinary, you have the option of providing your name, blog or website url, or other information. This information becomes a permanent part of the website when you provide it with a comment, and can be seen by other visitors to the site.
+When you leave comments on Creative Culinary, you have the option of providing your name, blog or website URL, or other information. This information becomes a permanent part of the website when you provide it with a comment, and can be seen by other visitors to the site. Your email is required but is not displayed and is never used or sold to third party vendors.
 
 **Information Collected Through Tracking Software**
 
@@ -16,7 +16,7 @@ All websites which collect traffic data have the ability to monitor visitor info
 
 **Information Collected by Third Party Advertisers:**
 
-Vino Luci Styles uses third party advertising companies to serve ads when you visit the website. These companies may use information (NOT including your name, address, e-mail address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://networkadvertising.org/).
 
 **Information Collected by Google AdSense:**
 
@@ -32,4 +32,5 @@ General Mills is very sensitive to the privacy concerns of visitors to all of th
 
 We reserve the right to update or change this privacy policy at any time. Any such change, modification, or addition to the privacy policy on Creative Culinary will become effective immediately upon posting on the site.
 
-_Last updated May 15, 2011_
+_Last updated July 31, 2012  
+_
