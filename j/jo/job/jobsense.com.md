@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsense.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605140615id_/http%3A//www.jobsense.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsense.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218050744id_/http%3A//www.jobsense.com/privacy.html) for the most accurate reproduction.*
 
 # JobSense.com | Privacy Policy
 
