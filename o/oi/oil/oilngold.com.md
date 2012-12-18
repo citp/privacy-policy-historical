@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oilngold.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620070231id_/http%3A//www.oilngold.com/general/information/privacy-policy-200808281387) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oilngold.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218193639id_/http%3A//www.oilngold.com/general/information/privacy-policy-200808281387) for the most accurate reproduction.*
 
 # Privacy Policy
 
