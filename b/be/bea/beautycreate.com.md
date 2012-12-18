@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautycreate.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624030414id_/http%3A//www.beautycreate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautycreate.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218075448id_/http%3A//www.beautycreate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy « Women's Health: Health, Fitness, Weight Loss, Healthy Recipes & Beauty
 
@@ -14,12 +14,12 @@ At other places in this site, we ask for your feedback, opinion or suggestions, 
 
 One last area in which we ask for your name is on bulletin boards or forums–places on the site where you can participate in a discussion of a particular subject by posting written comments which are then entirely public. We ask for a name simply so that other people reading a string of comments will be able to determine which comments come from the same person. You may, therefore, provide a nickname or alias, if you prefer, so that your identity is not disclosed. You should be aware that if you do voluntarily disclose personal information (e.g. user name, e-mail address) on the bulletin boards or forums, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. If you choose to participate anonymously, you should remember that you are still legally liable for the material you post, including claims of libel, invasion of privacy and copyright infringement.
 
-  * [Victoria Secret Model Candice Loses her Job for Being Too Thin](http://www.beautycreate.com/victoria-secret-model-candice-loses-her-job-for-being-too-thin/)
-  * [What are the Kleine-Levin Syndrome Symptoms?](http://www.beautycreate.com/what-are-the-kleine-levin-syndrome-symptoms/)
-  * [Taking care of your body in natural way](http://www.beautycreate.com/taking-care-of-your-body-in-natural-way-2/)
-  * [Egyptian Red Lentil Soup](http://www.beautycreate.com/egyptian-red-lentil-soup/)
-  * [How Can I Lose Weight Fast](http://www.beautycreate.com/how-can-i-lose-weight-fast/)
-  * [What Important Factors Older Women Should Take in to Account to Look and Feel Younger](http://www.beautycreate.com/what-important-factors-older-women-should-take-in-to-account-to-look-and-feel-younger/)
-  * [Flapper Fringe](http://www.beautycreate.com/flapper-fringe/)
+  * [Funky Chicken With Sesame Noodles](http://www.beautycreate.com/funky-chicken-with-sesame-noodles/)
+  * [Heavy Metal](http://www.beautycreate.com/heavy-metal/)
+  * [Christian Yoga](http://www.beautycreate.com/christian-yoga/)
+  * [2011 Style Trend: Glitter Dresses](http://www.beautycreate.com/2011-style-trend-glitter-dresses/)
+  * [Cropped Pants](http://www.beautycreate.com/cropped-pants/)
+  * [Can a Girl Get Pregnant on Her Period?](http://www.beautycreate.com/can-a-girl-get-pregnant-on-her-period/)
+  * [Laying The Foundation – Laying The Foundation For Makeup](http://www.beautycreate.com/laying-the-foundation-laying-the-foundation-for-makeup/)
 
 
