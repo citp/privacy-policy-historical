@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alsde.edu privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509002025id_/http%3A//www.alsde.edu/home/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alsde.edu privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218215000id_/http%3A//www.alsde.edu/home/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # ALSDE: Privacy Policy
 
