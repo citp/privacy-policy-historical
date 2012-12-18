@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tanoth.co.uk privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619193014id_/http%3A//agb.gameforge.de/index.php%3Flang%3Den%26art%3Ddatenschutz%26f_text%3DDCBB96%26f_text_hover%3DDCBB96%26f_text_h%3DDCBB96%26f_text_hr%3DDCBB96%26f_text_hrbg%3DDCBB96%26f_text_hrborder%3DDCBB96%26f_text_font%3Dtahoma%26f_bg%3D000000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tanoth.co.uk privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218155107id_/http%3A//agb.gameforge.de/index.php%3Flang%3Den%26art%3Ddatenschutz%26f_text%3DDCBB96%26f_text_hover%3DDCBB96%26f_text_h%3DDCBB96%26f_text_hr%3DDCBB96%26f_text_hrbg%3DDCBB96%26f_text_hrborder%3DDCBB96%26f_text_font%3Dtahoma%26f_bg%3D000000) for the most accurate reproduction.*
 
 # Gameforge
 
