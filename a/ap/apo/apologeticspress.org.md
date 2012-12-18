@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apologeticspress.org privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616013826id_/http%3A//www.apologeticspress.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apologeticspress.org privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218214415id_/http%3A//www.apologeticspress.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
