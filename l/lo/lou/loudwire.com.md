@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the loudwire.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511174130id_/http%3A//loudwire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loudwire.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218050848id_/http%3A//loudwire.com/privacy) for the most accurate reproduction.*
 
-# Rock Music News - Loudwire
+# Loudwire
 
 ### About LOUDWIRE.COM
 
-This Privacy Policy is an integral part of the agreement between Townsquare Media, LLC ("Townsquare" or "we" or "us") and each visitor or registered user, as the case may be (each, a "user" or "you") concerning the use of the websites, including this website, owned, controlled, operated or hosted (whether now or in the future) by Townsquare and/or its corporate affiliates, including but not limited to LOUDWIRE.COM (collectively the "Websites"). The other integral part of this agreement is the Townsquare Terms of Use (link here). All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be defined in the [Terms of Use](https://web.archive.org/terms). If you have any questions concerning this Privacy Policy, please email us at .
+This Privacy Policy is an integral part of the agreement between Townsquare Media, LLC ("Townsquare" or "we" or "us") and each visitor or registered user, as the case may be (each, a "user" or "you") concerning the use of the websites, including this website, owned, controlled, operated or hosted (whether now or in the future) by Townsquare and/or its corporate affiliates, including but not limited to LOUDWIRE.COM (collectively the "Websites"). The other integral part of this agreement is the Townsquare [Terms of Use](https://web.archive.org/terms). All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be defined in the [Terms of Use](https://web.archive.org/terms). If you have any questions concerning this Privacy Policy, please email us at .
 
 ### Information Collection and Use by the Websites
 
