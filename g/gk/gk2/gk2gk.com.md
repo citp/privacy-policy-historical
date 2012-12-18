@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gk2gk.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625024422id_/http%3A//www.gk2gk.com/gk2gkprivacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gk2gk.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218071631id_/http%3A//www.gk2gk.com/gk2gkprivacypolicy.aspx) for the most accurate reproduction.*
 
 # Geek 2 Geek Privacy Policy
 
