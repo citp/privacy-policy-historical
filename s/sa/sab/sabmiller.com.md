@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabmiller.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616063444id_/http%3A//www.sabmiller.com/index.asp%3Fpageid%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabmiller.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218095217id_/http%3A//www.sabmiller.com/index.asp%3Fpageid%3D13) for the most accurate reproduction.*
 
 # SABMiller - Services - Privacy & cookies
 
