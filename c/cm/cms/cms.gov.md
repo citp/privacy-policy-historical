@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cms.gov privacy policy that was archived on 2012-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120403105654id_/http%3A//www.cms.gov/AboutWebsite/02_Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cms.gov privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218175340id_/http%3A//cms.gov/About-CMS/Agency-Information/Aboutwebsite/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Web Policies & Important Links
+# Privacy Policy | Centers for Medicare & Medicaid Services
 
 The Office of Management and Budget Memo [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](http://www.whitehouse.gov/omb/asset.aspx?AssetId=2774) allows Federal agencies to use session and persistent cookies. When visiting CMS websites, a small text file called a "cookie" may be placed on a user's computer. This allows CMS to collect non-PII (personally identifiable information) data while the user is navigating through the website. CMS uses two types of cookies on its websites:
 
@@ -47,22 +47,3 @@ CMS does not disclose, give, sell or transfer any personal information about vis
 CMS websites are maintained by the U.S. Government. It is protected by various provisions of Title 18, U.S. Code. Violations of Title 18 are subject to criminal prosecution in federal court. For site security purposes and to ensure that this service remains available to all users, CMS employs software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual.
 
 Some information originally collected by CMS through traditional paper systems can now be submitted electronically to CMS, i.e., electronic commerce transactions and information updates about eligibility benefits. Electronically submitted information is maintained and destroyed pursuant to the Federal Records Act, and in some cases may be subject to the Privacy Act. If information that a user submits is to be used in a Privacy Act system of records, there will be a Privacy Act Notice provided.
-
-|  **Downloads**  
----  
-  
-There are no Downloads  
-  
- **Related Links Inside CMS**  
-  
-There are no Related Links Inside CMS  
-  
- **Related Links Outside CMS**| [](https://web.archive.org/goodbye.asp)  
-  
-There are no Related Links Outside CMS  
-  
-  
-**Page Last Modified: 05/13/2011 12:17:18 PM**  
-[Help with File Formats and Plug-Ins](https://web.archive.org/help/default.asp)
-
-[Submit Feedback](http://questions.cms.hhs.gov/app/ask/p/749,1022)
