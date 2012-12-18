@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the harrispollonline.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629111752id_/http%3A//www.harrispollonline.com/PrivacyPolicy/tabid/1754/language/en-US/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrispollonline.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218104225id_/http%3A//www.harrispollonline.com/PrivacyPolicy/tabid/1754/language/en-US/Default.aspx) for the most accurate reproduction.*
 
 # Harris Poll Online: Privacy Policy
 
-_Updated and Effective as of: June 12, 2012_
+_Updated and Effective as of: July 24, 2012_
 
 [](http://www.truste.org/ivalidate.php?companyName=Harrisinteractive.com&sealid=102)
 
@@ -10,7 +10,7 @@ Harris Interactive Inc. (collectively with its affiliates, subsidiaries and divi
 
 You acknowledge your consent to this Privacy Policy if you:
 
-  1. Use any of the following websites: [www.harrisinteractive.com](http://www.harrisinteractive.com/), [www.harrispollonline.com](http://www.harrispollonline.com/), and [engage.harrisinteractive.com](http://engage.harrisinteractive.com/) (our "Websites"), 
+  1. Use any of the following websites: [www.harrisinteractive.com](http://www.harrisinteractive.com/), www.harrispollonline.com, and [engage.harrisinteractive.com](http://engage.harrisinteractive.com/) (our "Websites"), 
   2. Become a member (a "Panel Member") of any of the panels created, maintained, or operated by us, such as the Harris Poll OnlineSM panel or the Research LifestreamingSM panel (our "Panels"), or 
   3. Participate in market research activities, including questionnaires, surveys, and online focus groups, offered, provided, hosted, or administered by us (collectively, "Research Activities"). 
 
@@ -18,7 +18,7 @@ You acknowledge your consent to this Privacy Policy if you:
 
 Harris Interactive Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us [here](https://surveyhelp.hpolsurveys.com/support/?ls=HIR). If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint)
 
-We also participate in the Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union (the "Framework"). Information about the U.S. Department of Commerce Safe Harbor certification can be found at [www.export.gov/safeharbor](http://www.export.gov/safeharbor). Our compliance with the Framework may be limited in certain cases to the extent necessary to meet national security, public interest, or law enforcement requirements.
+We also participate in and adhere to the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland (the "Frameworks"). Information about the Safe Harbor program can be found at [www.export.gov/safeharbor](http://www.export.gov/safeharbor). Our compliance with the Frameworks may be limited in certain cases to the extent necessary to meet national security, public interest, or law enforcement requirements.
 
 #### What is Personal Information?
 
@@ -76,7 +76,9 @@ For Panel Members, not only is it important that you be able to correct or updat
 
 #### What Is Our Opt-Out Policy?
 
-For Panel Members, you may terminate your membership in a Panel by filling out a request on the Member Services section [here](https://web.archive.org/Unsubscribe/tabid/1784/language/en-US/Default.aspx). For Panel Members of the Harris Poll OnlineSM Panel, you also may terminate your membership in such Panel by filling out a request on the Member Services section at [www.harrispollonline.com](http://www.harrispollonline.com/). If you opt-out of any of our Panels, we will retain your information in our "unsubscribe" database for that Panel to ensure that we do not send you emails in the future inviting you to participate in Research Activities involving that Panel.
+For Panel Members, you may terminate your membership in a Panel by filling out a request on the Member Services section [here](https://web.archive.org/Unsubscribe/tabid/1784/language/en-US/Default.aspx). For Panel Members of the Harris Poll OnlineSM Panel, you also may terminate your membership in such Panel by filling out a request on the Member Services section at www.harrispollonline.com. If you opt-out of any of our Panels, we will retain your information in our "unsubscribe" database for that Panel to ensure that we do not send you emails in the future inviting you to participate in Research Activities involving that Panel.
+
+For Non-Panel Participants and Site Users, if you would like to be removed from our contact list, please contact us [here](https://surveyhelp.hpolsurveys.com/support/?ls=HIR).
 
 #### What Safeguards Have We Implemented To Help Ensure The Security Of Your Information?
 
