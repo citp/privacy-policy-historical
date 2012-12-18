@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 100dayloans.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614225846id_/http%3A//www.100dayloans.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100dayloans.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218195504id_/http%3A//www.100dayloans.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 100DayLoans :: Fast One Hour Loans :: Pay Day Advance Loans :: Cash Loans ::
 
@@ -54,7 +54,7 @@ Acquisition Media analyzes Traffic Data and information gathered using Cookies a
 
 • Disclosure to Lenders. Acquisition Media refers consumers to lenders who provide short-term loans. Acquisition Media discloses Personal Information to Lenders, who use your Personal Information to identify you, to confirm facts about you, to deliver financial products and services to you, to help assess requests for financial products and services, and as necessary to service your loan. 
 
-• Marketing Communications. Acquisition Media provides your Personal Information to third parties, so that they may contact you directly, online and offline, with information about additional products and services ("Marketing Communications"). You may opt-out of having your Personal Information provided to third parties for the purpose of Marketing Communications by clicking here and following the opt-out instructions. Even after opting-out, you may continue to receive Marketing Communications from third parties to whom Acquisition Media has already has provided your Personal Information. You will be responsible for contacting those third parties directly to request that you receive no further Marketing Communications. 
+• Marketing Communications. Acquisition Media provides your Personal Information to third parties, so that they may contact you directly, online and offline, with information about additional products and services ("Marketing Communications"). You may opt-out of having your Personal Information provided to third parties for the purpose of Marketing Communications by clicking [here](http://www.optout-blgl.net/o-lglb-z69-85f36b03ce05b78e6817e53113984b02) and following the opt-out instructions. Even after opting-out, you may continue to receive Marketing Communications from third parties to whom Acquisition Media has already has provided your Personal Information. You will be responsible for contacting those third parties directly to request that you receive no further Marketing Communications. 
 
 • Disclosure in Connection with Services. Acquisition Media discloses Personal Information to those who help it provide Services, including those who perform technical, administrative and data processing tasks such as ad serving (see Section 2(d), above), email management, hosting, billing, fulfillment, and data storage and security. 
 
@@ -64,7 +64,7 @@ Acquisition Media analyzes Traffic Data and information gathered using Cookies a
 
   **5\. YOUR CALIFORNIA PRIVACY RIGHTS**
 
-Under California's "Shine the Light" law (CA Civil Code § 1798.83), California residents who provide personal information to businesses in obtaining products or services for personal, family or household use are entitled to either: (1) a list detailing the categories of information shared and the entities to which such information was provided; or (2) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. Acquisition Media has elected the second option. To opt-out of having your information shared with third parties, click here and follow the opt-out instructions. 
+Under California's "Shine the Light" law (CA Civil Code § 1798.83), California residents who provide personal information to businesses in obtaining products or services for personal, family or household use are entitled to either: (1) a list detailing the categories of information shared and the entities to which such information was provided; or (2) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. Acquisition Media has elected the second option. To opt-out of having your information shared with third parties, [click here](http://www.optout-blgl.net/o-lglb-z69-85f36b03ce05b78e6817e53113984b02) and follow the opt-out instructions. 
 
   **6\. SECURITY OF PERSONAL INFORMATION**
 
@@ -72,7 +72,7 @@ The security of your personal information is important to us; Acquisition Media 
 
   **7\. EMAIL COMMUNICATIONS; MARKETING COMMUNICATIONS**
 
-By completing an application through the Website, you consent to receive certain administrative email communications from Acquisition Media. You also consent to receive periodic online and offline marketing communications from Acquisition Media. You may opt-out of receiving Acquisition Media marketing communications at any time by clicking here and following the opt-out instructions. 
+By completing an application through the Website, you consent to receive certain administrative email communications from Acquisition Media. You also consent to receive periodic online and offline marketing communications from Acquisition Media. You may opt-out of receiving Acquisition Media marketing communications at any time by clicking [here](http://www.optout-blgl.net/o-lglb-z69-85f36b03ce05b78e6817e53113984b02) and following the opt-out instructions. 
 
   **8\. USER ABILITY TO ACCESS, UPDATE, AND CORRECT PERSONAL INFORMATION**
 
