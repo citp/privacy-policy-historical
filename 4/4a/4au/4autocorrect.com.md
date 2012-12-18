@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 4autocorrect.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618164106id_/http%3A//www.4autocorrect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4autocorrect.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218040048id_/http%3A//www.4autocorrect.com/privacy) for the most accurate reproduction.*
 
-# 4AutoCorrect.Com - Funny Pictures, Epic Fails, Funny Shots, iPhone Autocorrects, Awkward Texts, LOL Photos, 4AutoCorrect.Com, Hilarious, Animal LOLs, Troll Comics, Gags, Cartoon
+# Privacy Policy - 4AutoCorrect.Com
+
+* * *
 
 4AutoCorrect.Com respects the privacy concerns of the users of its Internet Sites ("Sites"), and has created this privacy statement to explain what information we gather from your visit to our Sites, and how such information may be used. 
 
