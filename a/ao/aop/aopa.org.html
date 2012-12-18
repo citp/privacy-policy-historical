@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aopa.org privacy policy that was archived on 2012-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531093447id_/http%3A//www.aopa.org/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aopa.org privacy policy that was archived on 2012-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121218054710id_/http%3A//www.aopa.org/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -11,16 +11,46 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   
     
-	<script src="/includes/scripts/addLoadEvent.js" type="text/javascript"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/includes/scripts/addLoadEvent.js" type="text/javascript"></script>
 	<script src="/aifp/launch_aifp.js" type="text/javascript"></script>
 	<script src="/includes/scripts/launchWebApp.js"></script>
-    
+     
 
+    <script type="text/javascript">
+	(function(){
+  // if firefox 3.5+, hide content till load (or 3 seconds) to prevent FOUT
+  var d = document, e = d.documentElement, s = d.createElement('style');
+  if (e.style.MozTransform === ''){ // gecko 1.9.1 inference
+    s.textContent = 'body{visibility:hidden}';
+    var r = document.getElementsByTagName('script')[0];
+    r.parentNode.insertBefore(s, r);
+    function f(){ s.parentNode && s.parentNode.removeChild(s); }
+    addEventListener('load',f,false);
+    setTimeout(f,3000); 
+  }
+})();
+	</script>
+	
+
+    
 	<link rel="stylesheet" href="/includes/styles/init.css" type="text/css">
 	<style type="text/css">
 		@import url("/includes/styles/global.css");
 		
 	</style>
+    
+    
+    
+        
+   
+     
+
+
+ <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,700italic,700,500italic,500,400italic,300italic,300" rel="stylesheet" type="text/css">
+ 
+  <link href="http://fonts.googleapis.com/css?family=Vollkorn:400,400italic,700,700italic" rel="stylesheet" type="text/css">
+
+
 
 	<link rel="icon" type="image/ico" href="/favicon.ico">
 	<link rel="alternate stylesheet" href="/includes/styles/articles-md.css" type="text/css" media="screen" title="M">
@@ -28,8 +58,12 @@
 	
 	
 	<link rel="stylesheet" href="/includes/styles/print.css" type="text/css" media="print">
-	
-	
+
+    <script src="/includes/scripts/jquery.js"></script>
+   
+    
+    
+
 	<!--[if IE 6]>
 	<link rel="stylesheet" href="/includes/styles/ie6.css" type="text/css" />
 	<script type="text/javascript" src="/includes/scripts/hover.js"></script>
@@ -48,14 +82,80 @@
 <script type="text/javascript">
 var myInbox = {
 	homeAirport: '',
-	boolASNHomeVol: 1,
+	boolASNHomeVol: '1',
 	JSONAces: {},
 	weatherProxy: 'http://www.aopa.org/weatheraero/',
-	boolMemberAlert: false,
+	boolMemberAlert: 'false',
 	strUsername: '',
 	strMemberText: '',
 	strTxSection: 'footer'
 };
+</script>
+
+<!-- OpenX header script -->
+
+<script type="text/javascript" src="http://ox-d.aopa.org/w/1.0/jstag"></script>
+
+<script type="text/javascript">
+	// Set up reference to OX object.
+	var OX_ad = new OX();
+
+	// Add ad units and/or ad unit group IDs.
+	
+	OX_ad.addPage("12238");
+	
+
+	// This is the ad unit for the AOPA_Oshkosh Page_160x600
+	OX_ad.addAdUnit("260378");
+	// This is the ad unit for the AOPA_Oshkosh Sponsor Logo_297x96        
+	OX_ad.addAdUnit("260443");
+	// This is the ad unit for the AOPA_Lead-Generation_Widget
+	OX_ad.addAdUnit("260362");
+	
+	// SR8537; BWH This is the ad unit for the AOPA_Pushdown_970x90, 1020x90
+    OX_ad.addAdUnit("259394");
+
+
+	
+	// This is the ad unit for the AOPA_Widget 1_300x250	
+	OX_ad.addAdUnit("248989");	
+	// This is the ad unit for the AOPA_Widget 2_300x250
+	OX_ad.addAdUnit("249000");
+	// This is the ad unit for the AOPA_Widget 3_300x250
+	OX_ad.addAdUnit("249003");
+	
+	// SR 7309; BT
+	// This is the ad unit for the AOPA_Widget 4_300x250    
+	OX_ad.addAdUnit("271387");    
+	// This is the ad unit for the AOPA_Widget 5_300x250
+	OX_ad.addAdUnit("271388");
+	// This is the ad unit for the AOPA_Widget 6_300x250
+	OX_ad.addAdUnit("271389");
+	// This is the ad unit for the AOPA_Widget 7_300x250
+	OX_ad.addAdUnit("271477");
+	
+	
+	// Add custom variables or other parameters you want to set for this
+	// ad reqeust *before* calling fetchAds.
+	OX_ad.addVariable("tx.section","footer");
+	OX_ad.addVariable("tx.subsection","");
+	OX_ad.addVariable("tx.subsection2","");
+
+	// Add variables from Personalization
+	OX_ad.addVariable("ps.ftfree", "0");
+	OX_ad.addVariable("ps.member", "0");
+	OX_ad.addVariable("ps.port", "");
+	OX_ad.addVariable("ps.aar", "0");
+	
+	OX_ad.addVariable("ps.expires", "");
+	
+	OX_ad.addVariable("ps.homeairport", "");
+
+	// This is the *last* thing you do once the details about your ad
+	// request has been defined. This actually makes an HTTP request to
+	// return the ads, so all attributes about the ad reqeust need to be
+	// defined here.
+	OX_ad.fetchAds();
 </script>
 
 
@@ -93,6 +193,82 @@ var myInbox = {
   <div id="page">
     
       
+
+<div id="notificationsWrapper">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><!--_End notificationsWrapper-->
+
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28068417-1']);
+_gaq.push(['_setDomainName', 'aopa.org']);
+_gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+	
+    
     
     <script type="text/javascript" language="JavaScript">
 function aopastore()
@@ -101,161 +277,393 @@ function aopastore()
 }
 </script>
 
+
+<div id="aopaSitesWrapper">
+    <div id="aopaSites">
+	<ul>
+    	
+       	<li><a href="http://www.aopa.org/index.html">AOPA.org</a></li>
+        <li><a href="http://www.aopa.org/foundation/" target="_blank">AOPA Foundation</a></li>
+        <li><a href="http://www.aopaia.com" target="_blank">AOPA Insurance Services</a>  </li> 
+        <li><a href="http://www.aopa.org/aopalive/" target="_blank">AOPA Live ™</a></li>    
+        <li><a href="http://www.aopa.org/summit/" target="_blank">AOPA Aviation Summit</a></li>
+        <li><a href="http://flighttraining.aopa.org" target="_blank">Flight Training</a></li>
+        <li><a href="http://www.aopa.org/letsgoflying/" target="_blank">Let’s Go Flying!</a></li>
+        <li><a href="http://myft.aopa.org" target="_blank">My Flight Training</a></li>     
+        <li><a href="http://www.iaopa.org">IAOPA</a></li>
+        
+    </ul>
+</div>
+</div><!--End aopaSitesWrapper-->
+<!--End aopaSites-->
+
+<!--top Navigation-->
+<div id="topNavWrapper">
+	<div id="topNavigation">
+    
+    
+
+<ul>
+
+        <li class="join"><a href="http://www.aopa.org/join/index.cfm?SA=AddressForm&amp;WT.svl=JoinNavMembership">Join AOPA</a> </li>
+        
+    	<li><a href="http://www.aopa.org/apps/myaopamembership/">My Membership</a></li>
+       
+
+        <li class="about-us"><a href="http://www.aopa.org/info/">About AOPA</a>
+        	
+        
+        </li>
+        <li><a href="http://www.aopa.org/forms/foundation/donation.cfm">Donate</a></li>  
+        
+
+  </ul> 
+    
+   		<div id="navLogIn"> 
+	
+  
+
+<form action="https://www.aopa.org/login/index.cfm?method=validate&amp;WT.svl=LogBoxLogin" method="post" id="log">
+                                   <label id="logIn" for="logIn">Log in to AOPA: </label>
+                                    <label for="username">Username</label>
+                                    <input id="username" class="field" name="username" type="text" size="30" onblur="this.value=!this.value?'':this.value;" onfocus="this.select()" onclick="this.value='';">
+                                    <label for="password">Password</label>
+                                    <input class="field" value="" id="password" name="password" type="password" size="30" onfocus="this.select()" onclick="">
+                                    <input name="submit" id="login" type="submit" value="Submit">
+                                  
+                                    <input name="source" type="hidden" value="secondary">
+                                    <input name="requestUri" type="hidden" value="/privacy_policy.html">
+                                    
+                                </form>
+
+
+
+
+
+</div> 
+
+
+
+
+
+	</div>
+    
+    </div><!--End Top Navigation Bar-->
+    
     
     <div id="header">
-        <div id="branding" class="replace"><a href="/" title="AOPA Home"><span>AOPA</span></a></div>
+        <div id="branding"><a href="/index.html" title="AOPA Home"><span>AOPA</span></a></div>
         <form id="search" action="http://www.aopa.org/search/searchresults.cfm" method="get">
-            <label><a href="/join/index.cfm?SA=AddressForm&amp;WT.svl=JoinNavHeader&amp;priority=K710JICON"><img src="/images/global/j-icon.gif" alt="Join AOPA" title="Join AOPA"></a></label>
-            <label><a href="/apps/myaopamembership/"><img src="/images/global/m-icon.gif" alt="Manage My Membership" title="Manage My Membership"></a></label>
-            <label><a onclick="aopastore();" href="http://www.aopastore.com" target="_blank"><img src="/images/global/store-icon.gif" alt="AOPA Store" title="AOPA Store"></a></label>
-            <input name="q" id="q" type="text" size="15" class="text goog">
-            <input name="go" id="go" type="image" value="Go" src="/images/btn/search2.gif" class="image">
-        </form>
-        <ul id="nav-headernew">
-            <li class="nav-foundation first">
-                <a href="http://www.aopa.org/foundation/index.html"><span></span>AOPA Foundation</a>
-                <ul class="sub-nav">
-                    <li><a href="http://www.aopa.org/foundation/about.html">About AOPA Foundation</a></li>
-                    <li><a href="http://www.aopa.org/forms/foundation/donation.cfm">Donate Now</a></li>
-                    <li><a href="http://www.aopa.org/foundation/philanthropy.html">Philanthropic Giving Levels</a></li>
-                    <li><a href="http://aopa.giftlegacy.com/" target="_blank">Planned Giving</a></li>
-        
-                    <li><a href="http://www.aopa.org/foundation/credentials.html">Foundation Credentials</a></li>
-                </ul>
-            </li>
             
-            <li class="nav-asf">
-                <a href="http://www.aopa.org/asf/"><span></span>Air Safety Institute</a>
-                <ul class="sub-nav">
-                    <li><a href="http://www.aopa.org/asf/online_courses/">Interactive Courses</a></li>
-                    <li><a href="http://www.aopa.org/asf/accident_data/">Accident Analysis</a></li>
-                    <li><a href="http://www.aopa.org/asf/asfquiz/quizzes.cfm?SA=Quizzes&amp;QuizId=Feature">Safety Quiz</a></li>
-                    <li><a href="http://www.aopa.org/asf/pilotstories/index.html">Real Pilot Stories</a></li>
-                    <li><a href="http://www.aopa.org/asf/webinars/">Webinars</a></li>
-                    <li><a href="http://www.aopa.org/asf/seminars/index.cfm">Safety Seminars</a></li>
-                    <li><a href="http://www.aopa.org/asf/psa/">Pilot Safety Announcements (PSAs)</a></li>
-                    <li><a href="http://www.aopa.org/asf/firc/index.html">CFI Renewal</a></li>
-                    <li><a href="http://www.aopa.org/asf/hotspot/">Safety Spotlight</a></li>
-                    <li><a href="http://www.aopa.org/asf/publications/">Safety Publications/Articles</a></li>
-                    <li><a href="http://www.aopa.org/forms/asf/donation.cfm">Support ASI</a></li>
-                    <li><a href="http://www.aopa.org/asf/osc/transcript.cfm?WT.svl=LogBoxOSCTrans">View Your ASI Course Transcript</a></li>
-                </ul>
-            </li>
-            <li class="nav-publications">
-                <a href="http://www.aopa.org/publications/"><span></span>AOPA Publications</a>
-                <ul class="sub-nav">
-                    <li><a href="http://www.aopa.org/pilot/">AOPA Pilot Magazine</a></li>
-                    <li><a href="http://flighttraining.aopa.org/magazine/">Flight Training Magazine</a></li>
-                    <li><a href="http://www.aopa.org/digitaleditions/">AOPA Digital Editions</a></li>
-                    <li><a href="http://www.aopa.org/members/files/pilot/epilot/">AOPA ePilot</a></li>
-                    <li><a href="http://www.aopa.org/ebrief/">Aviation eBrief</a></li>
-                </ul>
-            </li>
-            <li class="nav-about"><a href="http://www.aopa.org/info/"><span></span>About AOPA</a>
-              <ul class="sub-nav">
-                <li><a href="http://www.aopa.org/prez/">President's Page</a></li>
-                <li><a href="http://www.aopa.org/info/governance.html">AOPA Governance</a></li>
-                <li><a href="http://www.aopa.org/info/history.html">History and Mission of AOPA  </a></li>
-                <li><a href="http://www.aopa.org/info/manage.html">Meet the AOPA Management Team</a></li>
-                <li><a href="http://www.aopa.org/info/hqtour/">Headquarters Tour</a></li>
-                <li><a href="http://www.aopa.org/info/jobs/">Career Opportunities</a></li>
-                <li><a href="http://www.aopa.org/info/links.html">Other AOPA Organizations</a></li>
-                <li><a href="http://www.aopa.org/join/?WT.svl=JoinNavHeader">Join AOPA</a></li>
-                <li><a href="http://www.aopa.org/newsroom/">Newsroom</a></li>
-                <li><a href="http://www.aopa.org/whatsnew/stats/statistics.html">General Aviation Information and Statistics </a></li>
-                <li><a href="http://www.aopa.org/inforequest.html">Contact Us    </a></li>
-              </ul>
-            </li>
-        </ul>
+            <input name="q" id="q" type="text" size="15" title="Search" value="Search" class="text" onblur="this.value=!this.value?'Name':this.value;" onfocus="this.select()" onclick="this.value='';">
+            <input name="go" id="go" type="image" class="searchBtn">
+        </form>
+        
         
     </div>
     
     
     <div id="wrapper">
       
-        
+        <script type="text/javascript" src="/includes/scripts/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript">
+        jQuery.noConflict();
+		jQuery(document).ready(function(){
+			jQuery('#nav-main ul').hide();
+			jQuery('#nav-main li').hoverIntent({
+				over: makeTall, 
+				timeout: 500, 
+				out: makeShort
+			});
+		}); // close document.ready
+
+		function makeTall(){  $(this).children('ul').show("fast");}
+		function makeShort(){ $(this).children('ul').hide("fast");}
+	</script>
+
+
+
     <ul id="nav-main" class="clear">
+
         <li class="nav-flightplan"><a href="http://www.aopa.org/flightplanning/"><span></span>Flight Planning</a>
         
-        <ul>
-                            <li class="one"><a href="http://www.aopa.org/wx/" onclick="launchWebApp('http://www.aopa.org/wx/', 'wx'); return false">Weather</a></li>
-                            <li><a href="http://www.aopa.org/airports/">AOPA<br>Airports</a></li>
-                            <li class="one"><a href="http://www.aopa.org/flightplanning/flyq/phone.html">FlyQ</a></li>
-                            <li class="one"><a href="http://www.aopa.org/aifp/" onclick="launchWebApp('http://www.aopa.org/aifp/', 'aifp', true); return false">Flight Planner</a></li>
-                            <li><a href="http://flash.aopa.org/asf/flightrisk/">ASI Flight Risk<br>Evaluator</a></li>
-                            <li><a href="http://www.aopa.org/security.html">GA <br>Security</a></li>
-                            <li class="one"><a href="http://www.aopa.org/tfr/">TFRs</a></li>
-                            <li><a href="http://www.aopa.org/members/files/handbook/index.html">Pilot<br>Handbook</a></li>
-                            <li><a href="http://www.aopa.org/members/pic/">Pilot Information<br>Center</a></li>
-                            <li><a href="http://www.aopa.org/members/pic/medical/">Medical Certification<br>Assistance</a></li>
-                            <li><a href="http://www.aopa.org/members/pic/intl">International<br>Flying</a></li>
+        <ul id="nav-flight-planning-column-1" style="display: none;">
+             <li><a href="http://www.aopa.org/wx/" onclick="launchWebApp('http://www.aopa.org/wx/', 'wx'); return false">Weather</a></li>
+             <li><a href="http://www.aopa.org/airports/">AOPA Airports</a></li>
+                 <li class="subList"><a href="http://www.aopa.org/publications/airports/">AOPA Airports Printed Directory</a></li>
+             <li><a href="http://www.aopa.org/aifp/" onclick="launchWebApp('http://www.aopa.org/aifp/', 'aifp', true); return false">Flight Planner</a></li>
+             <li><a href="http://www.aopa.org/flightplanning/flyq/index.html">FlyQ</a></li>
+             <li><a href="http://www.aopa.org/tfr/">TFRs</a></li>
+             <li><a href="http://flash.aopa.org/asf/flightrisk/">ASI Flight Risk Evaluator</a></li>	
+             <li><a href="http://www.aopa.org/members/pic/intl">International Flying</a></li>
+             	<li class="subList"><a href="http://www.aopa.org/members/pic/intl/alaska/">Alaska</a></li>
+             	<li class="subList"><a href="http://www.aopa.org/members/pic/intl/bahamas">Bahamas</a></li>
+              	<li class="subList"><a href="http://www.aopa.org/members/pic/intl/canada/">Canada</a></li>
+              	<li class="subList"><a href="http://www.aopa.org/members/pic/intl/mexico/">Mexico</a></li>
+             	<li class="subList"><a href="http://www.aopa.org/members/pic/intl/eAPISFAQs.html">eAPIS FAQs</a></li>
+            
+             </ul>
+             <ul id="nav-flight-planning-column-2" style="display: none;">
+             <li><a href="http://www.aopa.org/members/pic/">Pilot Information Center (PIC)</a></li>
+             	<li class="subList"><a href="http://www.aopa.org/members/pic/library/publications.html">AOPA Subject Reports</a></li>
+            	<li class="subList"><a href="http://www.aopa.org/members/pic/answers/">Answers for Pilots</a></li>
+            	<li class="subList"><a href="http://www.aopa.org/members/pic/webinars.html">Webinars</a></li>
+            	<li class="subList"><a href="http://www.aopa.org/members/pic/faapilots/">FAA/Government Publications</a></li>
+            	<li class="subList"><a href="http://www.aopa.org/members/pic/library/industry.html">Industry Contact Information</a></li>
+            	<li class="subList"><a href="http://www.aopa.org/info/hqtour/avteam.html">Meet the PIC Staff</a></li>
+             
+             <li><a href="http://www.aopa.org/members/pic/medical/">Medical Certification Assistance</a></li>
+             	<li class="subList"><a href="http://www.aopa.org/members/pic/medical/faameds/">Medication Database</a></li>
+             	<li class="subList"><a href="http://www.aopa.org/members/databases/medical/index.cfm">Find an AME</a></li>
+             	<li class="subList"><a href="http://www.aopa.org/members/pic/medical/turbomedical/">Turbo Medical</a></li>
+             	<li class="subList"><a href="http://www.aopa.org/members/pic/library/picforms.html#medical">Medical Forms</a></li>
+             	<li class="subList"><a href="http://pilot-protection-services.aopa.org/">AOPA Pilot Protection Services</a></li>
+			<li><a href="http://www.aopa.org/security.html">GA Security</a></li>
                         </ul>
         
         </li>
+        
+        
+        
         <li class="nav-ownership"><a href="http://www.aopa.org/aircraft/"><span></span>Aircraft &amp; Ownership</a>
         
-            <ul>
-                            <li><a href="http://www.aopa.org/members/pic/ownership">Aircraft Ownership<br>Information</a></li>
-                            <li><a href="http://www.aopa.org/members/pic/aircraftreviews/">Aircraft Reviews<br>and Specs</a></li>
-                            <li><a href="http://www.aopa.org/aircraftpartnership/">Aircraft Partnership<br>Program</a></li>
-                            <li class="one"><a href="http://www.aopa.org/classifieds/">Aviation Classifieds</a></li>
-                            <li class="one"><a href="http://www.aopa.org/members/vref/">Aircraft Valuation</a></li>
-                            <li><a href="http://www.aopa.org/members/pic/faapilots/">FAA Info<br>for Owners</a></li>
-                            <li class="one"><a href="http://www.aopa.org/frugalflier/">Frugal Flier</a></li>
-                        </ul>
+            <ul id="nav-ownership-column-1" style="display: none;">
+ 				<li><a href="http://www.aopa.org/members/pic/ownership">Aircraft Ownership Information</a></li>
+                <li class="subList"><a href="http://www.aopa.org/members/files/topics/airworthiness.html">AOPA’s Guide to Aircraft Airworthiness</a></li>
+				<li class="subList"><a href="http://www.aopa.org/members/pic/ac/buy_sell.html">Buying or Selling an Aircraft</a></li>
+				<li class="subList"><a href="http://www.aopa.org/members/files/guides/multiple.html">Co-Ownership</a></li>
+				<li class="subList"><a href="http://www.aopa.org/members/pic/ac/flyingclubs/">Flying Clubs</a></li>
+                <li class="subList"><a href="http://www.aopa.org/CAPComm/flyingclubs/flyingclubfinder/">Flying Club Finder</a></li>
+				<li class="subList"><a href="http://www.aopa.org/members/pic/ac/insurance.html">Aircraft Insurance</a></li>
+                <li class="subList"><a href="http://www.aopa.org/members/pic/ac/inspections.html">Aircraft Inspections</a></li>
+				<li class="subList"><a href="http://www.aopa.org/members/pic/ac/maintenance.html">Aircraft Maintenance</a></li>
+				<li class="subList"><a href="http://www.aopa.org/members/pic/library/publications.html">AOPA Subject Reports</a></li>
+				<li class="subList"><a href="http://www.aopa.org/members/pic/library/industry.html">Industry Contact Information</a></li>
+
+                <li><a href="http://www.aopa.org/members/pic/aircraftreviews/">Aircraft Reviews and Specs</a></li>
+                 <li><a href="http://ap.aopa.org/" target="_blank">Aircraft Partnership Program</a></li>
+                 <li><a href="http://www.aopa.org/classifieds/">Aviation Classifieds</a></li>
+                 <li><a href="http://www.aopa.org/members/vref/">Aircraft Valuation</a></li>
+                 <li><a href="http://www.aopa.org/members/pic/faapilots/">FAA Info for Owners</a></li>
+                  <li><a href="http://www.aopa.org/frugalflier/">Frugal Flier</a></li>
+				                      
+			</ul>
         
         </li>
         
-        <li class="nav-govtadvocacy"><a href="http://www.aopa.org/advocacy/"><span></span>Government Advocacy</a>
         
-        <ul>
+        
+         
+        <li class="nav-advocacy"><a href="http://www.aopa.org/advocacy/"><span></span>Advocacy</a>
+        
+        <ul id="nav-advocacy-column-1" style="display: none;">
     
-                            <li><a href="http://www.aopa.org/advocacy/capitolhill/">Capitol Hill<br>News</a></li>
-                            <li><a href="http://www.aopa.org/whatsnew/regulatory/">Regulatory/Certification<br>Policy</a></li>
-                            <li><a href="http://www.aopa.org/whatsnew/air_traffic/">Air Traffic<br>Services/Technology</a></li>
-                            <li><a href="http://www.aopa.org/advocacy/security/">Security and<br>Borders</a></li>
-                            <li><a href="http://www.aopa.org/advocacy/airports/">Airports and State<br>Advocacy</a></li>
-                            <li><a href="http://www.aopa.org/info/comres4u.html">Advocacy<br>Resources</a></li>
-                            <li><a href="http://www.aopa.org/asn/">Airport Support<br>Network</a></li>
-                            <li><a href="http://www.aopa.org/airportwatch/">Airport<br>Watch</a></li>
-                            <li class="one"><a href="http://www.aopa.org/members/pac/">PAC</a></li>
-                        </ul>
+        	 <li><a href="http://www.aopa.org/advocacy/capitolhill/">Capitol Hill News</a></li>
+			<li><a href="http://www.aopa.org/whatsnew/regulatory/">Regulatory/Certification Policy</a></li>
+				<li class="subList"><a href="http://www.aopa.org/sportpilot/">Sport Pilot and Light Sport Aircraft</a></li>
+				<li class="subList"><a href="http://www.aopa.org/tsa_rule/">AOPA’s Guide to TSA’s AFT/CVR</a></li>
+			<li><a href="http://www.aopa.org/whatsnew/air_traffic/">Air Traffic Services/Technology</a></li>
+			<li><a href="http://www.aopa.org/advocacy/security/">Security and Borders</a></li>
+			<li><a href="http://www.aopa.org/advocacy/airports/">Airports and State Advocacy</a></li>
+				<li class="subList"><a href="http://www.aopa.org/advocacy/airports/region/alaska.html">Alaska</a></li>
+				<li class="subList"><a href="http://www.aopa.org/advocacy/airports/region/southwest.html">Central Southwest</a></li>
+				<li class="subList"><a href="http://www.aopa.org/advocacy/airports/region/eastern.html">Eastern</a></li>
+				<li class="subList"><a href="http://www.aopa.org/advocacy/airports/region/greatlakes.html">Great Lakes</a></li>
+				<li class="subList"><a href="http://www.aopa.org/advocacy/airports/region/northwest.html">Northwest Mountain</a></li>
+				<li class="subList"><a href="http://www.aopa.org/advocacy/airports/region/southern.html">Southern</a></li>
+				<li class="subList"><a href="http://www.aopa.org/advocacy/airports/region/pacific.html">Western Pacific</a></li>
+		</ul>
+		<ul id="nav-advocacy-column-2" style="display: none;">
+			<li><a href="http://www.aopa.org/info/comres4u.html">Advocacy Resources</a></li>
+			<li><a href="http://www.aopa.org/asn/">Airport Support Network</a></li>
+				<li class="subList"><a href="http://www.aopa.org/asn/whatis.html">What is the ASN?</a></li>
+				<li class="subList"><a href="http://www.aopa.org/asn/asnform.cfm">Volunteer Now</a></li>
+				<li class="subList"><a href="http://www.aopa.org/asn/getv.html">Search for Volunteers</a></li>
+				<li class="subList"><a href="http://www.aopa.org/asn/volunteers/index.html">Volunteers-Only Section</a></li>
+				<li class="subList"><a href="http://www.aopa.org/info/comres4u.html">ASN Resources</a></li>
+				<li class="subList"><a href="mailto:asn@aopa.org?subject=Question About Airport Support Network">Contact the ASN</a></li>
+			<li><a href="http://www.aopa.org/airportwatch/">Airport Watch</a></li>
+				<li class="subList"><a href="http://www.aopa.org/airportwatch/lockup.html">Lock Up</a></li>
+				<li class="subList"><a href="http://www.aopa.org/airportwatch/lookout.html">Look Out</a></li>
+				<li class="subList"><a href="http://www.aopa.org/security.html">Security Resources</a></li>
+			<li><a href="http://www.aopa.org/members/pac/">PAC</a></li>
+       	</ul>
     
         
         </li>
-        
+      
         <li class="nav-training"><a href="http://www.aopa.org/training/"><span></span>Training &amp; Safety</a>
-        
-        <ul>
-                            <li class="one"><a href="http://www.aopa.org/learntofly/index.html">Learn to Fly</a></li>
-                            <li><a href="http://www.aopa.org/ftinitiative/">Flight Training<br>Initiative</a></li>
-                            <li><a href="http://www.aopa.org/training/current/">Current<br>Student Pilots</a></li>
-                            <li><a href="http://www.aopa.org/members/files/guides/getback.html">Get Back <br>into Flying</a></li>
-                            <li><a href="http://www.aopa.org/members/pic/training/endorsements.html">Advanced Flight<br>Training</a></li>
-                            <li><a href="http://www.aopa.org/learntofly/school/index.cfm">Find a <br>Flight School</a></li>
-                            <li class="one"><a href="http://www.aopa.org/careerpilot/index.html">Career Pilot</a></li>
-                            <li class="one"><a href="http://www.aopa.org/path/">Youth Education</a></li>
-                            <li><a href="http://www.aopa.org/asf/">Air Safety<br>Institute</a></li>
-                        </ul>
-        
+   
+        <ul id="nav-training-column-1" style="display: none;">
+         	<li><a href="http://www.aopa.org/learntofly/index.html">Learn to Fly</a></li>
+           		<li class="subList"><a href="http://www.aopa.org/learntofly/startfly/sixlist.html">Six Steps to Starting Your Journey</a></li>
+				<li class="subList"><a href="http://www.aopa.org/learntofly/findcfi/index.html">Finding a Flight Instructor</a></li>
+				<li class="subList"><a href="http://www.aopa.org/learntofly/startfly/chooseschool.html">Choosing a Flight School</a></li>
+            <li><a href="http://www.aopa.org/letsgoflying/ready/choose/search.cfm">Find a Flight School</a></li>
+            <li><a href="http://www.aopa.org/letsgoflying/ready/choose/cfisearch.cfm">Find a Flight Instructor</a></li>
+            <li><a href="http://www.aopa.org/training/current/">Current Student Pilots</a></li>
+            	<li class="subList"><a href="http://www.aopa.org/training/current/#page=page-2">Pre-Solo</a></li>
+				<li class="subList"><a href="http://www.aopa.org/training/current/#page=page-3">Solo</a></li>
+				<li class="subList"><a href="http://www.aopa.org/training/current/#page=page-4">Maneuvers</a></li>
+            	<li class="subList"><a href="http://www.aopa.org/training/current/#page=page-5">Cross-Country</a></li>
+				<li class="subList"><a href="http://www.aopa.org/training/current/#page=page-6">Test Preparation</a></li>             
+            </ul>
+            
+            <ul id="nav-training-column-2" style="display: none;">    
+            <li><a href="http://www.aopa.org/members/pic/training/endorsements.html">Advanced Flight Training</a></li>
+            	<li class="subList"><a href="http://www.aopa.org/members/files/topics/ratings.html">Ratings and Endorsements</a></li>
+				<li class="subList"><a href="http://www.aopa.org/members/files/topics/transitioning.html">Transitioning to High Performance Aircraft</a></li>
+				<li class="subList"><a href="http://www.aopa.org/members/files/topics/turbine.html">Transitioning to Turbine Aircraft</a></li>
+            	<li class="subList"><a href="http://www.aopa.org/members/files/topics/sic.html">Second In Command Type Rating</a></li>
+            <li><a href="http://www.aopa.org/members/files/guides/getback.html">Get Back into Flying</a></li>
+				<li class="subList"><a href="http://www.aopa.org/members/files/guides/resuming-the-journey.html">Resuming the Journey</a></li>
+             <li><a href="http://www.aopa.org/careerpilot/index.html">Career Pilot</a></li>
+             	<li class="subList"><a href="http://www.aopa.org/careerpilot/career_development.html">Career Development</a></li>
+				<li class="subList"><a href="http://www.aopa.org/careerpilot/professional_training.html">Professional Training</a></li>
+				<li class="subList"><a href="http://www.aopa.org/careerpilot/turbine_aircraft_technology.html">Turbine Aircraft Technology</a></li>
+            	<li class="subList"><a href="http://www.aopa.org/careerpilot/career_success_stories.html">Career Success Stories</a></li>
+                <li class="subList"><a href="http://www.aopa.org/careerpilot/industry_news.html">Industry News</a></li>
+            </ul>
+            <ul id="nav-training-column-3" style="display: none;"> 
+            <li><a href="http://www.aopa.org/CAPComm/">Center to Advance the Pilot Community (CAPComm)</a></li>
+                <li class="subList"><a href="http://www.aopa.org/ftinitiative/">Flight Training Initiative</a></li>
+                <li class="subList"><a href="http://www.aopa.org/members/pic/ac/flyingclubs/">Flying Clubs</a></li>
+                <li class="subList"><a href="http://www.aopa.org/CAPComm/flyingclubs/flyingclubfinder/">Flying Club Finder</a></li>
+            <li><a href="http://www.aopa.org/training/youth/">Aviation Resources for Youth</a></li>
+                <li class="subList"><a href="http://www.aopa.org/av8rs/">AV8RS - the future of aviation</a></li>
+             	<li class="subList"><a href="http://www.aopa.org/path/">Pilot and Teacher Handbook (PATH)</a></li>
+            <li><a href="http://www.aopa.org/summit/">AOPA Aviation Summit</a></li>
+            	<li class="subList"><a href="http://www.aopa.org/summit/schedule/schedule.cfm">Schedule of Events</a></li>
+			<li><a href="http://www.aopa.org/asf/">Air Safety Institute</a></li>
+          </ul>
+
         </li>
-        <li class="nav-membership"><a href="http://www.aopa.org/membership/"><span></span>Membership Services</a>
         
-        <ul>
-                            <li><a href="http://www.aopa.org/join/?WT.svl=JoinNavMain">Join<br>AOPA</a></li>
-                            <li><a href="http://www.aopa.org/apps/renew/?WT.svl=RenewNavMain">Renew Your<br>Membership</a></li>
-                            <li><a href="http://www.aopa.org/join/options.cfm">Membership<br>Options</a></li>
-                            <li><a href="http://www.aopa.org/apps/myaopamembership/">Manage My<br>Membership</a></li>
-                            <li><a href="http://www.aopa.org/join/benefits.html">Member<br>Benefits</a></li>
-                            <li><a href="http://www.aopa.org/members/pic/medical/">Medical Certification<br>Assistance</a></li>
-                            <li><a href="http://www.aopa.org/info/certified/">Member<br>Products</a></li>
-                            <li><a href="http://www.aopa.org/lifestyles/">AOPA Lifestyles<br>Member Discounts</a></li>
-                            <li><a href="http://www.aopa.org/summit/">AOPA Aviation<br>Summit</a></li>
-                            <li><a href="http://www.aopa.org/pilot/calendar/">Aviation<br>Events</a></li>
-                        </ul>
-    
         
-        </li>
+         <li class="nav-membership"><a href="http://www.aopa.org/membership/"><span></span>Membership Services</a>
+         <ul id="nav-membership-column-1" style="display: none;">
+            <li><a href="http://www.aopa.org/join/?WT.svl=JoinNavMain">Join AOPA</a></li>
+            <li><a href="http://www.aopa.org/apps/renew/?WT.svl=RenewNavMain">Renew Your Membership</a></li>
+            <li><a href="http://www.aopa.org/apps/myaopamembership/">Manage My Membership</a></li>
+            <li><a href="http://www.aopa.org/join/benefits.html">Member Benefits</a></li>
+            <li><a href="http://www.aopa.org/join/benefits.html#Options">Membership Options</a></li>			
+            	<li class="subList"><a href="http://www.aopa.org/apps/aar/">Automatic Annual Renewal</a></li>
+                <li class="subList"><a href="http://www.aopa.org//join/aopaplus.html">Plus Membership</a></li>
+				<li class="subList"><a href="http://www.aopa.org/giftJoin/family.cfm">Family Membership</a></li>
+				<li class="subList"><a href="http://www.aopa.org/giftJoin/gift.cfm">Gift Membership</a></li>
+                <li class="subList"><a href="https://flighttraining.aopa.org/apps/student/studentregister1.cfm" target="_blank">6-Month Free Student Trial Membership</a></li>
+                <li class="subList"><a href="http://www.aopa.org//military1" target="_blank">Military Membership</a></li>
+                <li class="subList"><a href="http://www.aopa.org//av8rs" target="_blank">AV8RS Youth Membership</a></li>
+            	<li class="subList"><a href="http://www.aopa.org/foundation/support.html#life" target="_blank">AOPA Life Member Program</a></li>
+
+           </ul>
+            
+             <ul id="nav-membership-column-2" style="display: none;">
+             <li><a href="http://www.aopa.org/info/certified/insurance.html">Insurance Services</a></li>
+           		<li class="subList"><a href="http://insurance.aopa.org/aviation/owners-insurance" target="_blank">Aircraft Owners Insurance</a></li>
+				<li class="subList"><a href="http://insurance.aopa.org/aviation/non-owned-insurance" target="_blank">Non-Owned Aircraft Insurance</a></li>
+				<li class="subList"><a href="http://insurance.aopa.org/aviation/cfi-insurance" target="_blank">CFI Insurance</a></li>
+            	<li class="subList"><a href="http://insurance.aopa.org/life/group-term-life" target="_blank">Term Life Insurance</a></li>
+                <li class="subList"><a href="http://insurance.aopa.org/life/ad-d" target="_blank">AD&amp;D Insurance</a></li>
+				<li class="subList"><a href="http://insurance.aopa.org/life/emergency-assistance-plus" target="_blank">Emergency Assistance Plus</a></li>
+             <li><a href="http://www.aopa.org/info/certified/pilot.html">Pilot Services</a></li>
+                <li class="subList"><a href="http://www.aopa.org/info/certified/cars.html">Rental Cars</a></li>
+                <li class="subList"><a href="http://pilot-protection-services.aopa.org" target="_blank">AOPA Pilot Protection Services</a></li>
+                <li class="subList"><a href="http://www.aopa.org/members/pic/medical/">Medical Certification Assistance</a></li>
+                <li class="subList"><a href="http://lifelinescreening.com/AOPA" target="_blank">Life Line Screening</a></li>
+                <li class="subList"><a href="http://ap.aopa.org/" target="_blank">Aircraft Partnership Program</a></li>
+				
+            </ul>
+             <ul id="nav-membership-column-3" style="display: none;">
+
+              <li><a href="http://www.aopa.org/info/certified/financial.html">Financial Services</a></li> 
+                <li class="subList"><a href="https://www.applyonlinenow.com/USCCapp/Ctl/entry?sc=VABC4M&amp;mboxSession=1332340330609-868041" target="_blank">Cash Rewards Card</a></li>
+				<li class="subList"><a href="http://www.aopa.org/info/certified/afp/">Aircraft Financing</a></li>
+            	<li class="subList"><a href="http://www.aerospacereports.com/services" target="_blank">AOPA Title Services</a></li>
+				<li class="subList"><a href="https://www.bankofamerica.com/myexpression_banking/productInfo.do?affinity=10880&amp;segmentid=SPIN" target="_blank">Deposit Program</a></li>
+				<li class="subList"><a href="http://partners.bankofamerica.com/aopa/aopanew?directMail=true&amp;sc=UABKEE&amp;AFFINITYGROUPID=10880&amp;CH_BAG=CHDY&amp;state=DE&amp;RequestTimeout=300&amp;KTC=false&amp;checkCardArt=AIROWNPILO0000001&amp;AFFINITYPRIORITYCODE=HA14862" target="_blank">Checking &amp; Savings</a></li>
+                
+              <li><a href="http://www.aopa.org/info/certified/#memberDiscounts">Shopping &amp; Discounts</a></li>  
+                <li class="subList"><a href="http://www.aopa.org/lifestyles/">AOPA Lifestyles Member Discounts</a></li>
+				<li class="subList"><a href="http://www.aopa.org/publications/airports/">AOPA Airports Printed Directory</a></li>
+                <li class="subList"><a href="http://www.aopa.org/publications/aopagallery/">AOPA Photo Gallery Store</a></li>
+                <li class="subList"><a href="http://www.sportys.com/AOPAStore" target="_blank">AOPA Insignia Merchandise</a></li>
+                
+             <li><a href="http://www.aopa.org/sweeps/">Sweepstakes</a></li>
+             <li><a href="http://forums.aopa.org/">AOPA Member Forums</a></li>
+         </ul>
+         
+
+         
+         </li>
+         <li class="nav-air-safety-institute"><a href="http://www.aopa.org/asf/"><span></span>Air Safety Institute</a>
+         <ul id="nav-air-safety-institute-column-1" style="display: none;">
+         	 <li><a href="http://www.aopa.org/asf/online_courses/">Interactive Courses</a></li>
+            <li><a href="http://www.aopa.org/asf/accident_data/">Accident Analysis</a></li>
+            	<li class="subList"><a href="http://www.aopa.org/asf/ntsb/">Accident Database</a></li>
+                <li class="subList"><a href="http://www.aopa.org/asf/accident_data/searches.html">Popular Database Searches</a></li>
+				<li class="subList"><a href="http://www.aopa.org/asf/ntsb/maps.cfm">Interactive Accident Maps</a></li>
+            	<li class="subList"><a href="http://www.aopa.org/asf/epilot_acc/">Featured Accidents</a></li>
+                <li class="subList"><a href="http://www.aopa.org/asf/publications/nall.html">Nall Report</a></li>
+				<li class="subList"><a href="http://www.aopa.org/asf/publications/topics/">Special Reports</a></li>
+				<li class="subList"><a href="http://www.aopa.org/asf/accident_stats.html">Accident Statistics</a></li>
+             <li><a href="http://www.aopa.org/asf/asfquiz/quizzes.cfm?SA=Quizzes&amp;QuizId=Feature">Safety Quiz</a></li>
+            	<li class="subList"><a href="http://www.aopa.org/asf/asfquiz/quizzes.cfm?SA=Quizzes&amp;QuizId=Feature">Previous Quizzes</a></li>
+            </ul>
+             <ul id="nav-air-safety-institute-column-2" style="display: none;">
+
+            <li><a href="http://www.aopa.org/asf/pilotstories/index.html">Real Pilot Stories</a></li>
+            	<li class="subList"><a href="http://www.aopa.org/asf/pilotstories/share.cfm">Share your Story</a></li>
+            
+            <li><a href="http://www.aopa.org/asf/webcasts/">Webcasts</a></li>
+            <li><a href="http://www.aopa.org/asf/webinars/">Webinars</a></li>
+            <li><a href="http://www.aopa.org/asf/seminars/index.cfm">Safety Seminars</a></li>
+            	<li class="subList"><a href="http://www.aopa.org/asf/seminars//seminar.cfm?FA=SS&amp;SA=ShowForm">Seminar Schedule</a></li>
+                <li class="subList"><a href="http://www.aopa.org/asf/seminars/safetycasts/">SafetyCasts</a></li>
+           
+            <li><a href="http://www.aopa.org/asf/firc/index.html">CFI Renewal</a></li>	
+            	<li class="subList"><a href="http://www.aopa.org/asf/firc/idxfirc.html">In-Person</a></li>
+                <li class="subList"><a href="http://www.aopa.org/asf/firc/cfi_renewal_online.html">Online</a></li>
+            
+
+         </ul>
+         <ul id="nav-air-safety-institute-column-3" style="display: none;">
+          	<li><a href="http://www.aopa.org/asf/psa/">Pilot Safety Announcements (PSAs)</a></li>
+
+            <li><a href="http://www.aopa.org/asf/hotspot/">Safety Spotlight</a></li>
+            <li><a href="http://www.aopa.org/asf/publications/">Safety Publications/Articles</a></li>
+            	<li class="subList"><a href="http://www.aopa.org/asf/publications/advisors.html">Safety Advisors</a></li>
+                <li class="subList"><a href="http://www.aopa.org/asf/publications/safety_briefs.html">Safety Briefs</a></li>
+                <li class="subList"><a href="http://www.aopa.org/asf/publications/topics/">Special Reports</a></li>
+                <li class="subList"><a href="http://www.aopa.org/asf/publications/flashcards/">Flash Cards</a></li>
+                <li><a href="http://www.aopa.org/asf/video/safety-videos.html">Safety Videos</a></li>
+            <li><a href="http://www.aopa.org/asf/osc/transcript.cfm">View Your ASI Course Transcript</a></li>
+            <li><a href="http://www.aopa.org/forms/foundation/donation.cfm">Support the AOPA Foundation</a></li>
+         </ul> 
+         
+</li><li class="nav-publications"><a href="http://www.aopa.org/publications/"><span></span>Publications</a>
+         <ul id="nav-publications-column-1" style="display: none;">
+          <li><a href="/aopalive/">AOPA Live</a></li>
+          <li class="subList"><a href="/aopalive/this-week/">AOPA Live This Week</a></li>
+         	  <li><a href="http://www.aopa.org/pilot/">AOPA Pilot Magazine</a></li>
+              	<li class="subList"><a href="http://www.aopa.org/pilot/cover.html">Current Issue</a></li>
+                <li class="subList"><a href="http://www.aopa.org/pilot/multimedia02.html">Multimedia Features</a></li>
+                <li class="subList"><a href="http://www.aopa.org/members/files/pilot/issue_index.html">Archives by Issue</a></li>
+                <li class="subList"><a href="http://www.aopa.org/members/files/pilot/category_index.html">Archives by Category</a></li>
+                <li class="subList"><a href="http://www.aopa.org/pilot/buyers_guides.html">Buyer’s Guides</a></li>
+                <li class="subList"><a href="http://www.aopa.org/publications/aopagallery/">AOPA Photo Gallery Store</a></li>
+                <li class="subList"><a href="http://www.aopa.org/pilot/adindex/adindex.cfm">Advertiser Index</a></li>
+              <li><a href="http://www.aopa.org/pilot/turbine/">AOPA Pilot Turbine Edition</a></li>
+              <li><a href="http://flighttraining.aopa.org/magazine/" target="_blank">Flight Training Magazine</a></li>
+              <li><a href="http://www.aopa.org/digitaleditions/">AOPA Digital Editions</a></li>
+              <li><a href="http://www.aopa.org/members/files/pilot/epilot/">AOPA ePilot</a></li>
+                  <li class="subList"><a href="http://www.aopa.org/pilot/calendar/">Aviation Events Calendar</a></li> 
+              <li><a href="http://www.aopa.org/ebrief/">Aviation eBrief</a></li>
+			  <li><a href="http://www.aopa.org/publications/airports/">AOPA Airports Printed Directory</a></li>
+			  <li><a href="http://www.aopa.org/publications/ebooks/">AOPA eBooks</a></li>
+              <li><a href="http://www.aopaadvertising.org" target="_blank">AOPA Advertising</a></li>
+         </ul>  
+                  </li>
     </ul>
     
     <!-- / main navigation -->
@@ -307,107 +715,120 @@ function aopastore()
 	</div>
 	
 	
-
-	<div id="local">
-	
-		
-		<ul id="nav-section">
-	
-						<li><a href="http://www.aopa.org/special/newsroom/">For Reporters</a> 
-			
-			
-			</li>
-			
-	
-						<li><a href="http://www.aopa.org/privacy_policy.html">Our Privacy Policy</a> 
-			
-			
-			</li>
-			
-	
-						<li><a href="http://www.aopa.org/sitemap.html">Site Map</a> 
-			
-			
-			</li>
-			
-	
-						<li><a href="http://www.aopa.org/terms.html">Terms of Use</a> 
-			
-			
-			</li>
-			
-	
-						<li><a href="http://www.aopa.org/join/?WT.svl=JoinRenewFooter">Join/Renew</a> 
-			
-			
-			</li>
-			
-	 
-	</ul>
-	
-
-	</div>
-	
-
-<!-- /local -->
-				
-
 	
 </div>
 
         
           
-        
-        <div id="secondary">
-            
-                    
-                        <div class="login">
-                            <h5 class="memberlogin"><div class="member">Denotes members-only content</div></h5>
-                            <div class="login-detail">
-                                <a href="https://www.aopa.org/login/index.cfm?secure=true&amp;WT.svl=LogBoxLogin"><img class="memberloginbtn" src="/images/btn/btn_memlogin.gif" width="164" height="25" border="0"></a><br>
-                                <a href="http://www.aopa.org/join/benefits.html?WT.svl=LogBoxFAQ"><img class="memberloginbtn" src="/images/btn/btn_join.gif" width="164" height="25" border="0"></a>
-                            </div> <!-- login detail -->
-                        </div> <!-- login -->
-                    
-        
-        </div>
+
+<div id="secondary300" class="grid_4">
+
+   
     
-        <!-- /secondary -->
-	
+   
+
+   
+    
+    
+    <div class="sideBar300ad">
+		<script type="text/javascript">
+	        OX_ad.showAdUnit("248989");
+        </script>
+    </div>
+    
+    <div class="sideBar300ad_paid">
+		<script type="text/javascript">
+	        OX_ad.showAdUnit("14166");
+        </script>
+    </div>
+    
+    <div class="sideBar300ad_paid">
+		<script type="text/javascript">
+            OX_ad.showAdUnit("161838");
+        </script>
+    </div>
+    
+    <div class="sideBar300ad_paid">
+		<div align="center">
+		<script type="text/javascript">
+    		OX_ad.showAdUnit("260378");
+		</script>
+       </div>
+    </div> 
+     
+    <div class="sideBar300ad">
+		<script type="text/javascript">
+	        OX_ad.showAdUnit("249000");
+        </script>
+    </div>
+    
+    <div class="sideBar300ad">
+		<script type="text/javascript">
+	        OX_ad.showAdUnit("249003");
+        </script>
+    </div>
+    
+    <div class="sideBar300ad">
+		<script type="text/javascript">
+	        OX_ad.showAdUnit("271387");
+        </script>
+    </div>
+    
+    <div class="sideBar300ad">
+		<script type="text/javascript">
+	        OX_ad.showAdUnit("271388");
+        </script>
+    </div>
+    
+    <div class="sideBar300ad">
+		<script type="text/javascript">
+	        OX_ad.showAdUnit("271389");
+        </script>
+    </div>
+    
+    <div class="sideBar300ad">
+		<script type="text/javascript">
+	        OX_ad.showAdUnit("271477");
+        </script>
+    </div>
+    
+    
+    
+
+</div>
+
+
+
+<div class="leaderBoard">
+<script type="text/javascript">
+	OX_ad.showAdUnit("183266");
+</script>
+</div>
+
         
       </div>
     </div>
     
       
-
-	<div id="footer" class="clear">
-		
-		<img src="/images/global/aopa_logo.gif" alt="AOPA">
-
-
-		
-		
-		<div id="cc_footerad">
-			
-			<a href="http://fiacardservicesgroup.tt.omtrdc.net/m2/fiacardservicesgroup/ubox/page?mbox=adboxRedirector&amp;mboxDefault=http%3A//www.applyonlinenow.com/uscc/error.html?error_code=1001&amp;tagname=Prof-AOPA-WP-MC-CCBug" target="_blank"><img src="/images/global/cc_footer.gif" alt="AOPA MasterCard"></a>
-			
-		</div>
-		
+<div id="footer">
+	<div id="footerNav">
+    
+	<ul>
 	
-		<div class="vcard clear">
-			<div class="first">© <span class="org fn">Aircraft Owners and Pilots Association</span></div>
-			<div class="adr">
-				<span class="street-address">421 Aviation Way</span>
-				<span class="place">
-					<span class="locality">Frederick,</span> <span class="region">MD</span> <span class="postal-code">21701</span>
-				</span>
-			</div>
-			<div class="tel"><abbr class="type" title="phone">Phone</abbr> <span class="value">800/872-2672</span></div>
-			<div class="tel"><abbr class="type" title="fax">Fax</abbr> <span class="value">301/695-2375</span></div>
-		</div>
-         
-		<ul id="nav-footer" class="clear">
-			<li class="first"><a href="http://www.aopa.org/newsroom/">Newsroom</a></li>
+	<li><a href="http://www.aopa.org/flightplanning/">Flight Planning</a></li>
+	<li><a href="http://www.aopa.org/aircraft/">Aircraft &amp; Ownership</a></li>
+	<li><a href="http://www.aopa.org/advocacy/">Advocacy</a></li>
+	<li><a href="http://www.aopa.org/training/">Training &amp; Safety</a></li>
+	<li><a href="http://www.aopa.org/membership/">Membership</a></li>
+    <li><a href="http://www.aopa.org/asf/">ASI</a></li>
+	<li class="last"><a href="http://www.aopa.org/publications/">Publications</a></li>
+	</ul>
+	</div>
+
+
+	<div id="footerLinks" class="clear">     
+	<ul>
+		<li><a href="http://www.aopa.org/newsroom/">Newsroom</a></li>
 			<li><a href="http://www.aopaadvertising.org" target="_blank">Advertisers</a></li>
             <li><a href="http://www.aopa.org/info/governance.html">Governance</a></li>
 			<li><a href="http://www.aopa.org/privacy_policy.html">Privacy Policy</a></li>
@@ -417,9 +838,30 @@ function aopastore()
 			<li><a href="http://www.aopa.org/join/benefits.html?WT.svl=JoinRenewFooter">Join/Renew</a></li>
 		    <li><a href="http://www.aopa.org/inforequest.html">Contact Us</a></li>
 			<li><a href="http://www.aopa.org/mast.html">Masthead</a></li>
-		</ul>
+            <li><a href="http://www.aopa.org/info/partnership/partnership.html">Strategic Partnerships</a></li>
+            </ul>
 		
-        	
+        </div>
+        
+
+  
+	<div id="footerLower" class="clear">
+		<div class="footerLogo"><a href="/">AOPA Home page</a></div>
+        
+        <div id="footerInfo">
+			<li>© Aircraft Owners and Pilots Association</li>
+			<li>421 Aviation Way</li>
+			<li>Frederick, MD 21701</li>
+			<li>Phone 800-872-2672</li>
+			<li>Fax 301-695-2375</li>
+		</div>
+</div>
+
+
+
+		
+		    
+
 	</div>
    
 	<!-- / footer -->
@@ -445,7 +887,8 @@ function aopastore()
 	
 <!-- END OF SmartSource Data Collector  TAG -->	
 
-
+	
+	
 <!-- SiteCatalyst code version: H.23.3.
 Copyright 1996-2011 Adobe, Inc. All Rights Reserved
 More info available at http://www.omniture.com -->
@@ -472,6 +915,28 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.23.3. -->
 
+
+	<!-- ***  Google Analytics Conversion Code  *** -->
+	<script language="JavaScript" type="text/javascript">
+	<!--
+	var google_conversion_id = 952174742;
+	var google_conversion_language = "en_US";
+	var google_conversion_format = "1";
+	var google_conversion_color = "ffffff";
+	var google_conversion_label = "d9yKCOKVnwQQlpGExgM";
+	var google_conversion_value = "0";
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	
+	//-->
+	</script>
+	<script language="JavaScript" src="//www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+	<img height="1" width="1" border="0" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/952174742/?label=d9yKCOKVnwQQlpGExgM&script=0"/>
+	</noscript>
+
+	<!-- ^^^ Google Analytics Conversion Code ^^^ -->
 
     
   </div>
