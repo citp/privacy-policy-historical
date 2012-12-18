@@ -1,152 +1,97 @@
-> *The following text is extracted and transformed from the asdk12.org privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514175605id_/http%3A//www.asdk12.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asdk12.org privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218125936id_/http%3A//asdk12.org/privacy) for the most accurate reproduction.*
 
-# Anchorage School District General Information
+# Privacy & Terms of Use - ASD Online - The website of the Anchorage School District
 
-Information Collected and How it is Used | Personal Information |  How Personal Information is Used |  Rules for Sending Comments | Security | Cookies | Notification of Changes | Links | Contact Us | Definitions
+## Educating All Students for Success in Life
 
-#### [PDF version](https://web.archive.org/web/20120514175605id_/http%3A//www.asdk12.org/privacy.pdf) [ ](http://www.adobe.com/products/acrobat/readstep.html) | [Text version](https://web.archive.org/web/20120514175605id_/http%3A//www.asdk12.org/privacy.txt)
+[](https://web.archive.org/)
 
-## Information Collected and How it is Used
-
-> If you do nothing during your visit but browse or download information, we collect and store the following information about your visit:
-> 
->     * The Internet Protocol Address and domain name used but not the e-mail address 
->     * The type of browser and operating system you used 
->     * The date and time you visited the site 
->     * The web pages or services you accessed at this site 
->     * The web site you visited prior to coming to this site
-> 
-
-> 
-> This information is automatically collected and is used to improve the content of our web services and to help us understand how people are using our services. These logs are not personally identifiable and we make no attempt to link them to individuals.
-
-back to top
-
-## Personal Information
-
-> We don't collect any personal information unless you voluntarily provide it by sending us e-mail, participating in a survey, or completing an on-line form. You may choose not to contact us by e-mail, participate in a survey or to provide any personal information using an online form. Your choice to not participate in these activities will not impair your ability to browse the organization's web site and read or download any information provided on the site.
-> 
-> Types of personal information that are requested on this site through online forms include:
-> 
->     * Your name 
->     * Your e-mail address 
->     * Your phone number 
->     * Your role in our community (i.e. parent, student, district employee, other, etc.) 
->     * Other information volunteered in response to a survey
-> 
+  * [Home](https://web.archive.org/)
+  
+  * [Old home page](http://www.asdk12.org/index.asp)
+  
+  * [Site index](https://web.archive.org/siteindex/)
+  
+  * [myASD](http://www.asdk12.org/myasd/login.asp)
 
 
-back to top
 
-## How Personal Information is used
+  * [schools](https://web.archive.org/aboutschools/)
+  * [departments](https://web.archive.org/depts/)
+  * [school board](https://web.archive.org/school_board/)
+  * [zangle](https://web.archive.org/zangle/)
+  * [parents](https://web.archive.org/parents/)
+  * [students](https://web.archive.org/students/)
+  * [employees](https://web.archive.org/employees/)
 
-> ### E-mail
->
->> If you send an e-mail to us, it will be forwarded to those individuals (employees, school board members) necessary to address that e-mail. E-mail is recognized as written communication and is considered public record. If a request for public information is submitted to the district, any information contained in that e-mail, including the address, could be released.
->> 
->> If you choose to provide personal information about yourself in that e-mail, we will use the information only to respond properly to your request or to fulfill the stated purpose of the communication. We will not disclose any personal information you decide to provide us, unless disclosure is required by state law or school board policy ([School Board Policy 823.51 "Availability of Records"](https://web.archive.org/School_Board/Policy/800policy.asp#823.5)). We do not share, disclose or sell e-mail addresses to other organizations.
->> 
->> Please also keep in mind that e-mail is not necessarily secure against third party interception. If your communication is very sensitive or includes personal information, you may want to contact us by postal mail or telephone instead.
-> 
-> ### Forms
->
->> If you use one of our public comment forms your name, contact information, and comments may be subject to public disclosure. They will be considered written communication and could be released subject to the guidelines outlined in [ School Board Policy 823.51 "Availability of Records."](https://web.archive.org/School_Board/Policy/800policy.asp#823.5)
->> 
->> Phone numbers and emails collected through these forms are used only by members of the board and school district employees to respond to your comments. We do not share, disclose or sell e-mail addresses or phone numbers to other organizations.
-> 
-> ### E-mail Lists
->
->> The information we collect when you subscribe to one of our e-mail lists is used solely to administer these lists and is not shared, disclosed or sold to other organizations.
 
-back to top
 
-## Rules for Sending Comments
+## Website Privacy Statement and Terms of Use
 
-> The Board shall not hear any complaints against pupils or District employees unless such complaints have been heard by the superintendent through proper channels, including the Citizens Complaint process. Exceptions to this policy include negotiated agreements, which may have overriding appeals language, and civil or legal appeals, which supersede School Board authority. 
+### Terms of Use
 
-back to top
+#### Disclaimer
 
-## Security
+Individual users of the Anchorage School District's computer networks are responsible for their behavior and communications over these networks. All users must comply with district standards and read the [Internet & Electronic Communications Guidelines](http://www.asdk12.org/forms/uploads/InternetGuidelines.pdf "Internet & Electronic Communications Guidelines").
 
-> The Anchorage School District takes every precaution to protect our user's information. If you are a member of one of our e-mail lists, your subscription information will be stored in a secure database solely for our use in sending the announcements. 
+This website is intended to provide general information only. Although efforts are made to maintain the accuracy of the information on this website, the Anchorage School District does not guarantee the accuracy of the information. Before relying on any policy or regulation contained on this website, please contact ASD personnel to ensure sure you have the most recent version.
 
-back to top
+This website and the information contained within is provided “as is,” and ASD makes no express or implied representation or warranty regarding the information contained on this website. ASD provides no warranty that this website or information contained within will be error-free or will meet any particular criteria of performance or quality. ASD expressly disclaims all implied warranties, including, without limitation, warranties of merchantability, title, fitness for a particular purpose, non-infringement, compatibility, security, and accuracy. ASD is not responsible for any viruses which may result from your access to this website.
 
-## Cookies
+#### Links to other sites
 
-> Certain features of the Anchorage School District's web site require that your browser accept cookies. If you have chosen to turn off cookies in your browser, you will not have access to these particular features of the ASD web site, but it will not affect your use of the site otherwise. 
-> 
-> Currently the only pages that use cookies are the new myASD pages. The cookie is created only if you log in to myASD, and it will not affect your use of anything outside of the myASD pages. 
-> 
-> These pages use what is known as a "session cookie" so that the server can keep track of you while you use the myASD service. When you log out of myASD or quit your browser, the cookie is destroyed and nothing permanent is left on your machine. If you go to a different web site without logging out of myASD or without quitting your browser, the myASD session cookie will still be on your machine, but it will not be readable or usable by any other web site. 
-> 
-> _This section was updated August 16, 2001_
+There may be websites linked to and from this site that are operated or created by or for organizations outside of the Anchorage School District. Those organizations are solely responsible for the operation and information found on their respective websites. The linking to or from this site does not imply on the part of ASD any endorsement or guarantee of any of the organizations or information found on their respective websites.
 
-back to top
+#### Social media sites
 
-## Notification of Changes
+ASD, or any of its schools, departments or programs may use social media sites hosted outside of ASD’s network. Examples might include Facebook or Twitter. Official use of these sites will follow the [Internet and Electronic Communications Guidelines](http://www.asdk12.org/forms/uploads/InternetGuidelines.pdf "Internet and Electronic Communications Guidelines") and the [Social Media Guidelines](http://www.asdk12.org/forms/uploads/SocialMediaGuidelines.pdf "Social Media Guidelines"). All participants are expected to treat each other with respect. Further terms include:
 
-> Any changes to this privacy statement will be posted on our homepage.
+  * Comments will be deleted that contain vulgar or abusive language; pornography; personal attacks of any kind; offensive terms that target specific ethnic or racial groups or incite violence; election campaigning for political office or ballot proposition. Comments that violate the site’s Terms of Use, are spam, clearly “off topic,” divulge personal student or staff information, or that promote services or products also will be deleted.
+  * Links to other Internet sites are not endorsed by ASD and use of any copyrighted materials found on those linked sites must be granted from the sponsor of that site.
+  * ASD is not responsible for user-generated content and the opinions expressed in that content do not necessarily reflect those of ASD.
 
-back to top
 
-## Links
 
-> This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of other sites and when you link to these other sites the Anchorage School District's privacy statement no longer applies. We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information.
+#### Email
 
-back to top
+ASD email is a tool for business and school communication and is not to be used to promote political, religious or commercial activities or ideas. Both employees and members of the public are responsible for using this resource in an efficient, effective, ethical and lawful manner. All emails sent to an ASD address should follow the same code of conduct expected in any other form of written or face-to-face communication. Failure to follow these guidelines may result in the loss of access to ASD email accounts.
 
-## Contact Us
+Email is not necessarily secure against third-party interception. While you should feel free to contact ASD personnel by email, please do not send any confidential or private information by email. ASD assumes no responsibility for the loss or disclosure of confidential or private information that you transmit to ASD via this website or by email. If your communication is very sensitive or includes personal information, you may want to use postal mail or telephone to contact us.
 
-> You may contact the Anchorage School District as follows:
->
->> > Anchorage School District  
->  5530 E Northern Lights Blvd  
->  Anchorage, AK 99504-3135  
->  Telephone: 907-742-4000
-> 
-> [Contact information for members of Anchorage School Board ](https://web.archive.org/School_Board/Members.asp) can be found on our web site.
-> 
-> The Anchorage School District standard for e-mail addresses is lastname_firstname@asdk12.org. If you need assistance, please contact the Webmaster at [webmaster@asdk12.org](mailto:webmaster@asdk12.org).
->
->> **_Please note:_** Anchorage School District e-mail is a tool for business and school communication.  Public users are responsible for using this resource in an efficient, effective, ethical and lawful manner. All e-mails sent to the Anchorage School District should follow the same code of conduct expected in any other form of written communication or face-to-face business and school communication.  Please limit your e-mail to official school business.  Failure to follow these guidelines may result in the loss of access to Anchorage School District e-mail accounts. 
-> 
-> To offer comments about the web site or about the information presented in this privacy statement:
->
->> > Webmaster  
->  Anchorage School District  
->  5530 E Northern Lights Blvd  
->  Anchorage, AK 99504-3135   
->  Telephone: 907-742-4193  
->  Fax: 907-742-4175  
->  [webmaster@asdk12.org](mailto:webmaster@asdk12.org)
-> 
-> _This section was updated May 7, 2007._
+Emails may be forwarded to other individuals necessary to address the message. Email is recognized as written communication and as such is considered public record. If a request for public information is submitted to the district, any information contained in emails, including the email address, may be released.
 
-back to top
+### Privacy Statement
 
-## Definitions
+#### Personal information
 
-> **Cookies** are a small text file that a web site can place on your computer's hard drive in order, for example, to collect information about your activities on the site. The cookie transmits this information back to the web site's computer, which generally speaking, is the only computer that can read it. If you want to know when a cookie is being sent or prevent it from happening, you can set your browser to warn you when a web site attempts to place a cookie on your computer.
-> 
-> **Domain Name** identifies one or more IP addresses. For example: aol.com or gci.net
-> 
-> **Internet Protocol (IP) Address** is a numerical identifier assigned either to your Internet service provider or directly to your computer. It is used to direct Internet traffic to you.
-> 
-> **Personal information** is information about a natural person that is readily identifiable to that specific individual. Personal information includes such things as an individual's name, address, and phone number. A domain name or Internet Protocol address is not considered personal information.
+The Anchorage School District is committed to protecting your privacy and will collect no personal information about you unless you choose to provide that information to us through an online form, participate in a survey or contact us by email. You may decide whether you want to participate in these activities or not. Typically, personal information that is requested through these means includes:
 
-back to top
+  * Your name
+  * Your email address
+  * Your phone number
+  * Your role in our community
+  * Other information volunteered in response to a survey
 
-_This privacy statement was:  
-  Implemented March 23, 2001  
-  "Cookies" section updated August 16, 2001_  
-_  "Contact Us" section updated May 7, 2007 _
 
-* * *
 
-[Privacy Policy](http://www.asdk12.org/privacy.asp) | Copyright © 2000-2012  
-| [](http://www.asdk12.org/) | Anchorage School District   
-5530 E Northern Lights Blvd   
-Anchorage, Alaska 99504-3135  
-907-742-4000  
----|---|---
+ASD does not give, sell or transfer personal information to a third party. Your personal information is shared only with those individuals necessary to respond to your request or to fulfill the stated purpose of communication. We will not disclose any personal information unless disclosure is required by state law or school board policy (Anchorage School Board Policy 825 Public Records).
+
+#### Cookies
+
+Certain features of ASD’s website require that your browser accept cookies. Cookies are a small text file that can be stored in a Web browser and can be used to collect information about activities on the site or whether a visitor is logged in to a service, for example. You can disable cookies by adjusting settings in your browser but this may affect the functionality of some features of the website such as Zangle, AppliTrack, myASD and others.
+
+This website uses Google Analytics which also uses cookies to help analyze how visitors in general use the site. They do not collect personal data about visitors to the ASD website. More information about [how Google Analytics uses cookies](http://www.google.com/policies/privacy/ads/#toc-analytics) can be found on Google’s website. Types of information that may be collected include:
+
+  * Internet protocol address and domain name
+  * Type of browser and operating system
+  * Date and time of visit to the site
+  * Web pages or services you accessed
+  * The website you visited prior to coming to this site
+
+
+
+#### Security
+
+ASD takes every precaution to protect student and user information. Our site is built on a well-respected Web application platform and is protected against unauthorized activity by robust hardware and software security systems. ASD Security Procedures are outlined in the [Internet and Electronic Communications Guidelines](http://www.asdk12.org/forms/uploads/InternetGuidelines.pdf "Internet and Electronic Communications Guidelines").
+
+#### Contact us
