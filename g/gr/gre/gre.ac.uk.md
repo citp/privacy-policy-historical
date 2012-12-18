@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gre.ac.uk privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602124211id_/http%3A//www2.gre.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gre.ac.uk privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218062947id_/http%3A//www.gre.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies - University of Greenwich - University of Greenwich
 
