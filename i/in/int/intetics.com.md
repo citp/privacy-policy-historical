@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the intetics.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617120217id_/http%3A//www.intetics.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intetics.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218042726id_/http%3A//www.intetics.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement « Intetics Co.
+# Privacy Statement | Intetics Co.
 
 We build your trust and confidence with Intetics by promoting the use of fair information practices. We are committed to your privacy and are disclosing our information practices in this company statement.
 
