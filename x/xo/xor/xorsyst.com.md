@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xorsyst.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611073102id_/http%3A//xorsyst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xorsyst.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218023135id_/http%3A//xorsyst.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy / TOS
 
 This is the web site of **Louis Ponder**.  
 Our postal address is  
@@ -29,6 +29,10 @@ Customers may prevent their information from being used for purposes other than 
 
 Consumers can access this information by e-mail us at the above address.Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+Views, comments, opinions, statements and other content posted on these Pages are not necessarily those of xorsyst.com.
+
+This website may contain links to third party websites. xorsyst.com is not responsible for the condition or content of those websites. The links are provided solely for convenience and do not indicate, expressly or impliedly, any endorsement of the websites or the products or services provided in them.
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
 
 Popularity: 2% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
