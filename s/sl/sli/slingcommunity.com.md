@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slingcommunity.com privacy policy that was archived on 2010-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100706161959id_/http%3A//www.slingbox.com/get/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slingcommunity.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218050023id_/http%3A//www.slingbox.com/get/privacy-policy) for the most accurate reproduction.*
 
 # Slingbox.com - Privacy Policy
 
