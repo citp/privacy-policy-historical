@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cowboylyrics.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509142542id_/http%3A//www.cowboylyrics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cowboylyrics.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218054325id_/http%3A//www.cowboylyrics.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Country Lyrics and Tabs Source #1 - CowboyLyrics.com
 
@@ -43,4 +43,4 @@ or other reproduction. One of these specified conditions is that the photocopy o
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20120509142542id_/http%3A//www.cowboylyrics.com/contact.html).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20121218054325id_/http%3A//www.cowboylyrics.com/contact.html).
