@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildguns.co.uk privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602045330id_/http%3A//agb.gameforge.de/index.php%3Flang%3Den%26art%3Ddatenschutz%26f_text%3D000e52%26f_text_hover%3Dffff66%26f_text_h%3D000e52%26f_text_hr%3D000e52%26f_text_hrbg%3D000e52%26f_text_hrborder%3D000e52%26f_text_font%3Dtahoma%252C%2Barial%252C%2Bhelvetica%252C%2Bsans-serif%26f_bg%3Dffbd55) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildguns.co.uk privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218175656id_/http%3A//agb.gameforge.de/index.php%3Flang%3Den%26art%3Ddatenschutz%26f_text%3D000e52%26f_text_hover%3Dffff66%26f_text_h%3D000e52%26f_text_hr%3D000e52%26f_text_hrbg%3D000e52%26f_text_hrborder%3D000e52%26f_text_font%3Dtahoma%252C%2Barial%252C%2Bhelvetica%252C%2Bsans-serif%26f_bg%3Dffbd55) for the most accurate reproduction.*
 
 # Gameforge
 
