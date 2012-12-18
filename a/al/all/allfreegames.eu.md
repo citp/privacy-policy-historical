@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreegames.eu privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616020642id_/http%3A//www.allfreegames.eu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreegames.eu privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218023634id_/http%3A//www.allfreegames.eu/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: All Free Games
 
@@ -12,62 +12,69 @@
 
 |   
 ---  
-Games played today: [**897**](https://web.archive.org/web/20120616020642id_/http%3A//www.allfreegames.eu/games-played-today.html)  
+Games played today: [**662**](https://web.archive.org/web/20121218023634id_/http%3A//www.allfreegames.eu/games-played-today.html)  
 |  | 
 
-[](https://web.archive.org/web/20120616020642id_/http%3A//www.allfreegames.eu/free-online-games-play-Airport+Madness+3-14599.html)
+[](https://web.archive.org/web/20121218023634id_/http%3A//www.allfreegames.eu/free-online-games-play-Speed+Racers-18959.html)
 
-| [_**Airport Madness 3**_](https://web.archive.org/web/20120616020642id_/http%3A//www.allfreegames.eu/free-online-games-play-Airport+Madness+3-14599.html "Airport Madness 3 :: Play online or download now \(21 times played today\)")  
-Be in charge of airplanes traffic at the airport - give orders to aircrafts when to land, when to ta...  
+| [_**Speed Racers**_](https://web.archive.org/web/20121218023634id_/http%3A//www.allfreegames.eu/free-online-games-play-Speed+Racers-18959.html "Speed Racers :: Play online or download now \(13 times played today\)")  
+Take part in races against professionals. Collect all prizes and try to avoid the oil leeks because...  
 ---|---  
 | 
 
-[](https://web.archive.org/web/20120616020642id_/http%3A//www.allfreegames.eu/free-online-games-play-Mighty+Guy+2-10007.html)
+[](https://web.archive.org/web/20121218023634id_/http%3A//www.allfreegames.eu/free-online-games-play-Stewie+Bike-19220.html)
 
-| [_**Mighty Guy 2**_](https://web.archive.org/web/20120616020642id_/http%3A//www.allfreegames.eu/free-online-games-play-Mighty+Guy+2-10007.html "Mighty Guy 2 :: Play online or download now \(13 times played today\)")  
+| [_**Stewie Bike**_](https://web.archive.org/web/20121218023634id_/http%3A//www.allfreegames.eu/free-online-games-play-Stewie+Bike-19220.html "Stewie Bike :: Play online or download now \(11 times played today\)")  
+Driving a bicycle this hard business. Especially, if you go on mountain road on high speed. Overcome...  
+---|---  
+| 
+
+[](https://web.archive.org/web/20121218023634id_/http%3A//www.allfreegames.eu/free-online-games-play-Peakart-20184.html)
+
+| [_**Peakart**_](https://web.archive.org/web/20121218023634id_/http%3A//www.allfreegames.eu/free-online-games-play-Peakart-20184.html "Peakart :: Play online or download now \(6 times played today\)")  
+The difficult line waits for you. Show the skill of driver and win this race.  
+---|---  
+| 
+
+[](https://web.archive.org/web/20121218023634id_/http%3A//www.allfreegames.eu/free-online-games-play-Exodus+-15710.html)
+
+| [_**Exodus**_](https://web.archive.org/web/20121218023634id_/http%3A//www.allfreegames.eu/free-online-games-play-Exodus+-15710.html "Exodus  :: Play online or download now \(6 times played today\)")  
+In 2465 aliens have destroyed Earth and about 3.000.000 of survivors has been launched to the Space ...  
+---|---  
+| 
+
+[](https://web.archive.org/web/20121218023634id_/http%3A//www.allfreegames.eu/free-online-games-play-Find+Words-21417.html)
+
+| [_**Find Words**_](https://web.archive.org/web/20121218023634id_/http%3A//www.allfreegames.eu/free-online-games-play-Find+Words-21417.html "Find Words :: Play online or download now \(5 times played today\)")  
+Find all the words in the word list on the left in the grid. Time is limited.  
+---|---  
+| 
+
+[](https://web.archive.org/web/20121218023634id_/http%3A//www.allfreegames.eu/free-online-games-play-Mighty+Guy+2-10007.html)
+
+| [_**Mighty Guy 2**_](https://web.archive.org/web/20121218023634id_/http%3A//www.allfreegames.eu/free-online-games-play-Mighty+Guy+2-10007.html "Mighty Guy 2 :: Play online or download now \(5 times played today\)")  
 Continue the Mighty Guy adventure by guiding him over the sea and vulcano. A great sequel in the pla...  
 ---|---  
 | 
 
-[](https://web.archive.org/web/20120616020642id_/http%3A//www.allfreegames.eu/free-online-games-play-Little+Samurai-20891.html)
+[](https://web.archive.org/web/20121218023634id_/http%3A//www.allfreegames.eu/free-online-games-play-Driving+Test-8f599b36a513cb7f922b8ab6e71bfb68.html)
 
-| [_**Little Samurai**_](https://web.archive.org/web/20120616020642id_/http%3A//www.allfreegames.eu/free-online-games-play-Little+Samurai-20891.html "Little Samurai :: Play online or download now \(10 times played today\)")  
-Help the Samurai to solve puzzles and to overcome a difficult way.  
+| [_**Driving Test**_](https://web.archive.org/web/20121218023634id_/http%3A//www.allfreegames.eu/free-online-games-play-Driving+Test-8f599b36a513cb7f922b8ab6e71bfb68.html "Driving Test :: Play online or download now \(5 times played today\)")  
+Take your driving test! This flash game is a tutorial to prepare you for a difficult driving exam...  
 ---|---  
 | 
 
-[](https://web.archive.org/web/20120616020642id_/http%3A//www.allfreegames.eu/free-online-games-play-Cartoon+Mahjong-13502.html)
+[](https://web.archive.org/web/20121218023634id_/http%3A//www.allfreegames.eu/free-online-games-play-QWOP-15645.html)
 
-| [_**Cartoon Mahjong**_](https://web.archive.org/web/20120616020642id_/http%3A//www.allfreegames.eu/free-online-games-play-Cartoon+Mahjong-13502.html "Cartoon Mahjong :: Play online or download now \(10 times played today\)")  
-A popular Mahjong game. You should find the identical tiles and click them to remove from the playin...  
+| [_**QWOP**_](https://web.archive.org/web/20121218023634id_/http%3A//www.allfreegames.eu/free-online-games-play-QWOP-15645.html "QWOP :: Play online or download now \(4 times played today\)")  
+Very funny - and at the same time quite an annoying game. It virtually makes me crazy. I could only ...  
 ---|---  
 | 
 
-[](https://web.archive.org/web/20120616020642id_/http%3A//www.allfreegames.eu/free-online-games-play-Johnny+Finder+2-20362.html)
+[](https://web.archive.org/web/20121218023634id_/http%3A//www.allfreegames.eu/free-online-games-play-Medieval+Wars-15456.html)
 
-| [_**Johnny Finder 2**_](https://web.archive.org/web/20120616020642id_/http%3A//www.allfreegames.eu/free-online-games-play-Johnny+Finder+2-20362.html "Johnny Finder 2 :: Play online or download now \(8 times played today\)")  
-You should get back the crystal skull that was stolen from the secret chamber of musee du louvre.   
----|---  
-| 
-
-[](https://web.archive.org/web/20120616020642id_/http%3A//www.allfreegames.eu/free-online-games-play-Free+Tetris-17168.html)
-
-| [_**Free Tetris**_](https://web.archive.org/web/20120616020642id_/http%3A//www.allfreegames.eu/free-online-games-play-Free+Tetris-17168.html "Free Tetris :: Play online or download now \(8 times played today\)")  
-Play this totally free tetris game. Choose level of hardness and place the shapes to make a line and...  
----|---  
-| 
-
-[](https://web.archive.org/web/20120616020642id_/http%3A//www.allfreegames.eu/free-online-games-play-Pinocchio+Jigsaw-aba95d2118c52aeec5d4406a03188cd3.html)
-
-| [_**Pinocchio Jigsaw**_](https://web.archive.org/web/20120616020642id_/http%3A//www.allfreegames.eu/free-online-games-play-Pinocchio+Jigsaw-aba95d2118c52aeec5d4406a03188cd3.html "Pinocchio Jigsaw :: Play online or download now \(7 times played today\)")  
-Ultra Quality Jigsaw with Pinocchio in 49 pieces. Drag and drop the pieces to fit them together.  
----|---  
-| 
-
-[](https://web.archive.org/web/20120616020642id_/http%3A//www.allfreegames.eu/free-online-games-play-Chromatica-11446.html)
-
-| [_**Chromatica**_](https://web.archive.org/web/20120616020642id_/http%3A//www.allfreegames.eu/free-online-games-play-Chromatica-11446.html "Chromatica :: Play online or download now \(6 times played today\)")  
-A lines type game. You shoudl match identical objects and align them to burn out and gain points. Do...  
+| [_**Medieval Wars**_](https://web.archive.org/web/20121218023634id_/http%3A//www.allfreegames.eu/free-online-games-play-Medieval+Wars-15456.html "Medieval Wars :: Play online or download now \(4 times played today\)")  
+Very nice turn-based strategy flash game. Conquer lands that will bring you more soldiers and defeat...  
 ---|---  
   
 | 
@@ -80,4 +87,4 @@ We use third-party advertising companies to serve ads when you visit our website
 • Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 • Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-We supply free online browser based games for free. The games on this website are property of their respective owners. If we are hosting one of your games and you wish to have it removed please [contact us](https://web.archive.org/web/20120616020642id_/http%3A//www.allfreegames.eu/contactus.php) and we will remove it. 
+We supply free online browser based games for free. The games on this website are property of their respective owners. If we are hosting one of your games and you wish to have it removed please [contact us](https://web.archive.org/web/20121218023634id_/http%3A//www.allfreegames.eu/contactus.php) and we will remove it. 
