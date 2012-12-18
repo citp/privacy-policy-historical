@@ -1,21 +1,53 @@
-> *The following text is extracted and transformed from the onlinemba.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617135619id_/http%3A//www.onlinemba.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemba.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218152700id_/http%3A//www.onlinemba.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | OnlineMBA
+# Privacy Policy – Online MBA.com
 
 ## Privacy Policy
 
-OnlineMBA takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+The following privacy statement depicts OnlineMBA.com’s collection and utilization process of personal information you provide to us. 
 
-## Routine Information Collection
+#### Personal Information Collection and Utilization 
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+While you use OnlineMBA.com services, we maintain the right to collect personal information from you as follows: 
 
-## Cookies and Web Beacons
+  * Contact Information; for example, your full name, contact phone number, email address 
+  * Demographic information; for example, your education background, zip code, probable graduation date 
 
-Where necessary, OnlineMBA uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
-## Controlling Your Privacy
+As is true of most websites, we maintain the right to collect information concerning your computer; for example, your browser service, IP address, referring/exit pages, and operating system. 
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
+With this information we act to: 
+
+  * Locate and make available online college degree programs and related information that matches your career aspirations, education goals, and online education search requirements. 
+  * Send you school information you have requested 
+  * Reply to customer service requests 
+  * Send you a relevant newsletter 
+  * Send you relevant marketing communications 
+  * Reply to your concerns and questions 
+  * Evaluate our Web OnlineMBA.com, marketing efforts, and business needs for future improvement
+  * Research and analysis our market, business, etc.
+
+
+
+#### Opt-Out Option
+
+If you wish to opt-out of receiving marketing information from us, find and follow our unsubscribe instructions included in our email communications to you.
+
+#### Information Sharing 
+
+The ways we emit your personal information to third parties are compliant with that which is described in this privacy statement. Under no circumstance will OnlineMBA.com sell acquired personal information to third parties for their disparate marketing purposes. In certain circumstances, we may provide your personal information to companies that provide OnlineMBA.com with business administration services; for instance, our email delivery service. 
+
+Additionally, the act of providing OnlineMBA.com with your personal information serves as you making an “inquiry” to and permitting us , our affiliates, and our third party marketing partners and/or vendors to contact you. This act also grants us and our affiliates permission to contact you via telephone for a limited time, regardless of your submission to a state or federal Do Not Call list as your inquiry is a legal exception to all Do Not Call stipulations.ÿ
+
+We also maintain the right to release your submitted personal information when OnlineMBA.com merges, procures, or sells all or a percentage of its assets to a third party with your prior consent, and is required by law, such as in the case of a court order, to disclose said information when we consider, in good faith, such a disclosure is necessary to protect our constitutional rights, yours or another’s safety, probe fraud/fraudulent events, or adhere to a government request.
+
+#### Privacy Statement Changes Notification 
+
+If changes in our information procedures are made, we may renew this privacy statement to reflect them. We suggest that you check this privacy policy occasionally to ensure your understanding of it is up-to-date. 
+
+#### Contacting OnlineMBA.com 
+
+Please send us all questions or concerns with respect to this privacy policy through our contact form.
+
+Effective date: August 18, 2012 
