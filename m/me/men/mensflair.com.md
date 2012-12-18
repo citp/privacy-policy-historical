@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mensflair.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618173946id_/http%3A//www.mensflair.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensflair.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219005448id_/http%3A//www.mensflair.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Men's Flair
 
@@ -21,5 +21,11 @@ Mensflair.com uses this information to provide you with the service you have req
 _Who sees this information?_
 
 We do not sell or rent e-mail addresses or your any other personally identifying information obtained through Mensflair.com website to any other organization. We have put in place appropriate procedures to safeguard and help prevent unauthorized access for misuse of information that we have collected from you. Database containing personally identifying information may be provided only for the purpose of cooperating with police investigations or other legal proceedings when we are legaly required to provide access to our database.
+
+_DoubleClick DART Cookie_
+
+.:: Google, as a third party vendor, uses cookies to serve ads on www.mensflair.com.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.mensflair.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
 If you have any questions or concerns about the Mensflair.com Policy you may contact us [here](http://www.mensflair.com/contact/).
