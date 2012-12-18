@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cedars-sinai.edu privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614154643id_/http%3A//cedars-sinai.edu/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedars-sinai.edu privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218021100id_/http%3A//www.cedars-sinai.edu/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Cedars-Sinai Privacy Policy
 
