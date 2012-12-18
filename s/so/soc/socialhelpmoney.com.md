@@ -1,25 +1,80 @@
-> *The following text is extracted and transformed from the socialhelpmoney.com privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901053905id_/http%3A//socialhelpmoney.com/privacy.php%3Fref%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialhelpmoney.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218190824id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# SocialHelpMoney
+# HugeDomains.com - Privacy Policy
 
-**Privacy Policy**
+[Home](http://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-> Protecting your privacy is important to us. We hope the following statement will help you understand how the SocialHelpMoney collects, uses and safeguards the personal information you provide to us on our site.
+**What information do we collect?**
 
-> **Names & Email Addresses & Other Personal Information Collected Online**  
->  When consumers browse our Web site, we may collect their information when they have filled out one of our forms or have contacted us? Personal information that is collected would be submitted by the consumer in regards to receiving a free report or participating in a survey. Personal information would also be collected from consumers who order from our website and it would also be collected from individuals who participate in our affiliate program.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-> **Your Collected Information Is Protected**  
->  Any personal information that is collected online through our website is always kept private. At no time will your personal information ever be shared, sold or viewed by a third party at anytime. We value your privacy and have taken measures to assure that your information remains private.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-> **Receiving Communications From Our Website**  
->  When personal information is collected from our website, the individual who has entered their information is agreeing to receive emails from our website from time to time. These emails may contain specials, newsletters, free reports, free giveaways, etc. When receiving these emails, the individual understands that they have granted us permission to send such emails when they have filled out our online forms, have purchased from us or have become a reseller of our website.
+**What do we use your information for?**
 
-> **Questions Regarding Our Privacy Policy**  
->  If a member has a question regarding our privacy policy or wants further information about our privacy policy, they may contact me by [email us](https://web.archive.org/web/20100901053905id_/http%3A//socialhelpmoney.com/sendmail.php?ref=) for an immediate response. Please indicate in the subject line if it is a question or concern and describe it completely in the text body of the email. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-> **How We Protect Your Information Online**  
->  When and individual fills out a form on or website or participates in our program, their personal information which is collected is stored directly to the servers database. All databases are secured and password protected assuring your information remains secure. When placing an order on our website with payment, all orders are process through SSL secured web pages through Alertpay payment gateway. 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-> **Changes Made To Our Privacy Policy**  
->  From time to time, we make changes to our privacy policy. All changes to our privacy policy will be posted here, and it is the consumer's responsibility to frequently check our privacy policy for such changes.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
+
+• To process transactions
+
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+
+• To send periodic emails
+
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ http://www.HugeDomains.com](http://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](http://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
