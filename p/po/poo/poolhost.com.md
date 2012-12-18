@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poolhost.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524111539id_/http%3A//www.poolhost.com/index.asp%3Fpage%3Dprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolhost.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218041103id_/http%3A//poolhost.com/index.asp%3Fpage%3Dprivacy.asp) for the most accurate reproduction.*
 
 # Manage NFL Pro Football, March Madness, College Bowl Office Pools for free - PoolHost.com
 
@@ -97,7 +97,7 @@ USA
 admin@poolhost.com  
 
 
-[Home](https://web.archive.org/web/20120524111539id_/http%3A//www.poolhost.com/index.asp?page=welcome.asp) - [Contact PoolHost.com](https://web.archive.org/web/20120524111539id_/http%3A//www.poolhost.com/index.asp?page=contact.asp) - [Help](https://web.archive.org/web/20120524111539id_/http%3A//www.poolhost.com/index.asp?page=help.asp) - [Links](https://web.archive.org/web/20120524111539id_/http%3A//www.poolhost.com/index.asp?page=links.asp) - [Blog](https://web.archive.org/blog) - [Privacy Statement](https://web.archive.org/web/20120524111539id_/http%3A//www.poolhost.com/index.asp?page=privacy.asp) - [Terms of Use](https://web.archive.org/web/20120524111539id_/http%3A//www.poolhost.com/index.asp?page=tos.asp) - [Menu List](https://web.archive.org/web/20120524111539id_/http%3A//www.poolhost.com/index.asp?page=menulist.asp)| copyright - © 2002-2012 PoolHost.com Inc. - All rights reserved.  
+[Home](https://web.archive.org/web/20121218041103id_/http%3A//poolhost.com/index.asp?page=welcome.asp) - [Contact PoolHost.com](https://web.archive.org/web/20121218041103id_/http%3A//poolhost.com/index.asp?page=contact.asp) - [Help](https://web.archive.org/web/20121218041103id_/http%3A//poolhost.com/index.asp?page=help.asp) - [Links](https://web.archive.org/web/20121218041103id_/http%3A//poolhost.com/index.asp?page=links.asp) - [Blog](https://web.archive.org/blog) - [Privacy Statement](https://web.archive.org/web/20121218041103id_/http%3A//poolhost.com/index.asp?page=privacy.asp) - [Terms of Use](https://web.archive.org/web/20121218041103id_/http%3A//poolhost.com/index.asp?page=tos.asp) - [Menu List](https://web.archive.org/web/20121218041103id_/http%3A//poolhost.com/index.asp?page=menulist.asp)| copyright - © 2002-2012 PoolHost.com Inc. - All rights reserved.  
 FOR ENTERTAINMENT USE ONLY  
 ---  
-Server 0 - Switching OFF 
+Server 2 - Switching ON 
