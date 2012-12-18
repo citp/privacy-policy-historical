@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuteoverload.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601012641id_/http%3A//cuteoverload.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuteoverload.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218012509id_/http%3A//cuteoverload.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Cute Overload
 
@@ -6,7 +6,7 @@ Privaceh! Policeh!
 
 Let’s get this party started:
 
-This privacy policy applies to transactions and activities in which you engage and data gathered only on the Cute Overload web site “http://www.cuteoverload.com” (the “Site”). This privacy policy does not apply to any other web site or to any offline contact between you and Cute Overload. Please review this privacy policy periodically because we modify it from time to time. Each time you visit this Site or provide us with information through the Site, by doing so you are accepting practices described in the privacy policy in effect at that time.
+This privacy policy applies to transactions and activities in which you engage and data gathered only on the Cute Overload web site “[http://www.cuteoverload.com&#8221](http://www.cuteoverload.com%26/#8221); (the “Site”). This privacy policy does not apply to any other web site or to any offline contact between you and Cute Overload. Please review this privacy policy periodically because we modify it from time to time. Each time you visit this Site or provide us with information through the Site, by doing so you are accepting practices described in the privacy policy in effect at that time.
 
 You are also accepting our [Terms of Use](https://web.archive.org/page/terms/) (they are also really cute). We limit use of the Site to adults who are at least 13 years of age and we do not knowingly collect any information from persons under the age of 13. If we learn that a submission or post is by a person under the age of 13, we will remove the material.
 
