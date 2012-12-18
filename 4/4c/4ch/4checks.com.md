@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4checks.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618155141id_/http%3A//www.4checks.com/service/service.aspx%3FpageCode%3D54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4checks.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218042954id_/http%3A//www.4checks.com/service/service.aspx%3FpageCode%3D54) for the most accurate reproduction.*
 
 # Privacy Policy Details & More for 4checks.com
 
@@ -10,8 +10,8 @@ Styles Checks™, Check Gallery®, Identity Checks™, Artistic Checks®, LifeCh
 Our web address is: http://www.4checks.com
 
 Our postal address is:  
-P.O. Box 548  
-Little Rock, AR  72203-0548
+P.O. Box 40000  
+Colorado Springs, CO  80935-4000
 
 We can be reached via e-mail at info@4checks.com  
 or you can reach us by telephone at 866-923-0451
