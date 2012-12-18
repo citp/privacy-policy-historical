@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thegraciouspantry.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622233246id_/http%3A//www.thegraciouspantry.com/privacy-statment) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegraciouspantry.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218233322id_/http%3A//www.thegraciouspantry.com/privacy-statment) for the most accurate reproduction.*
 
 # Privacy Policy Statement
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.thegraciouspantry.com%2Fprivacy-statment%2F&media=&description=Privacy%20Policy%20Statement)
 
 This is the web site of The Gracious Pantry.
 
@@ -51,3 +53,5 @@ When The Gracious Pantry transfers and receives certain types of sensitive info
 All purchases made through The Gracious Pantry shopping cart are processed through a shopping cart hosted at Mal’s eCommerce, and all payments are processed through PayPal.
 
 If you feel that this site is not following its stated information policy, you may contact The Gracious Pantry at the above email or phone number.
+
+[](http://www.printfriendly.com/print/v2?url=http://www.thegraciouspantry.com/privacy-statment/)
