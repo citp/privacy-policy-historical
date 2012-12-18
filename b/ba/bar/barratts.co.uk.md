@@ -1,6 +1,32 @@
-> *The following text is extracted and transformed from the barratts.co.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625130643id_/http%3A//www.barratts.co.uk/en/info/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barratts.co.uk privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218085542id_/http%3A//www.barratts.co.uk/en/info/Privacy-Policy) for the most accurate reproduction.*
 
 # Welcome - Barratts Shoes
+
+## What are cookies?
+
+Cookies are small files which are stored on your computer. They are designed to hold a modest amount of data specific to a particular client and website, and can be accessed either by the web server or the client computer. This allows us to deliver a page tailored for you, or the page itself can contain some script which is aware of the data in the cookie and so is able to carry information from one visit to the website (or related site) to the next.
+
+If cookies aren't enabled on your computer, it will mean that your shopping experience on our website will be limited to browsing and researching; you won't be able to add products to your basket and buy them.
+
+  
+
+
+## Why are we explaining all this?
+
+The European Union passed the 'Privacy and Electronic Communications Directive' which states that websites must provide clear information about how they use cookies and give users means to not have cookies saved on their computer unless they are strictly necessary for the functioning of the website.
+
+  
+
+
+## So how do we use cookies?
+
+When you visit our website, we will place a session cookie called 'JSESSIONID' on your computer which enables the shopping basket and other core functions of the website to function correctly along with WC_SESSION_ESTABLISHED, WC_ACTIVEPOINTER, WC_AUTHENTICATION_, WC_USERACTIVITY, We feel these cookies are strictly necessary for the website to function fully, without them the website doesn't work properly.
+
+We use Coremetrics to monitor our website. You may see cookies 'cmRS', 'cmTPSet', '90223163_clogin' or '90223163_clogin' from our website. This software helps us take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and shopping times. That information helps us to improve the website and your shopping experience, and to make our marketing campaigns relevant.
+
+We use Google Analytics to monitor our websites. Google Analytics aggregates information which means that you can not be identified individually but we can see, for example, which categories of shoes on the website are the most popular or if there is a problem with the basket or checkout process. Google Analytics will place a small number of cookies on your computer with expiry dates ranging from half an hour to 18 months - all these cookies will begin "__utm" and will be from our website. 
+
+If you'd like to learn more about cookies in general and how to manage them, visit aboutcookies.org (opens in a new window).
 
 Barratts is committed to protecting the privacy of the personal information you provide us on our website. We believe it is important for you to know what information we collect and how we treat the information you share with us. The following policy will explain how your personal information will be treated as you use our website and its features. 'Personal Information' includes your name, physical address, e-mail address(es), telephone numbers, credit card information and other similar information that you provide to us. We do not sell your Personal Information.
 
