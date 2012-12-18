@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the empoweringparents.com privacy policy that was archived on 2012-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120606200921id_/http%3A//www.empoweringparents.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the empoweringparents.com privacy policy that was archived on 2012-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121218113249id_/http%3A//www.empoweringparents.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -22,7 +22,6 @@
 </head>
 
 <body>
-<script type="text/javascript"> var WRInitTime=(new Date()).getTime(); </script>
 <table cellpadding="0" cellspacing="0" width="980" align="center"><tbody><tr>
 <td><div id="wrapper">
 	<table cellpadding="0" cellspacing="0" width="940">
@@ -31,6 +30,7 @@
 	<td><!--Header starts here-->
     <div id="fb-root"></div>
 <script src="http://www.empoweringparents.com/js/jquery-1.4.3.min.js"></script>
+<script src="http://www.empoweringparents.com/js/mbox.js"></script>
 <script src="https:////connect.facebook.net/en_US/all.js"></script>
  <script>
       window.fbAsyncInit = function() {
@@ -102,21 +102,38 @@
 		obj = document.getElementById(did);
 		obj.style.position = "absolute";
 		obj.style.display = "";
-//		obj.style.left = posx + 2 + 'px';
-//		obj.style.top = posy + 8 + 'px';
+	//	obj.style.left = posx + 2 + 'px';
+	//	obj.style.top = posy + 8 + 'px';
 		obj.style.zindex = "50";
 		
-		if(did=='roadblock-popup'){
-		pageTracker._trackEvent('Roadblockshown', 'display');
-		}
-		
-		if(did=='popup1'){
-		pageTracker._trackEvent('PPPshown', 'display');
-		}
-		
-		
+	 var popupnorm = parent.document.getElementById("popup-n");
+	 var popuphold = parent.document.getElementById("popup-h");
+	 
+	// var popupnorm = (ie) ? document.all("popup-n") : document.getElementById("popup-n");
+	// var popuphold = (ie) ? document.all("popup-h") : document.getElementById("popup-h");
+
+
+     var visiblenorm = isVisible(popupnorm);
+	 var visiblehold = isVisible(popuphold);
+	 
+	  if(visiblenorm) {
+	 	 pageTracker._trackEvent('pppshownC', 'display');
+	   } 
+   	  if(visiblehold) {
+		 pageTracker._trackEvent('pppshownH', 'display');
+  	   } 
 		
 	}
+	
+	function isVisible(elem) 
+	{
+ 		 var cmpstyle = ('getComputedStyle' in window)? window.getComputedStyle(elem,null):elem.currentStyle;
+		 if (cmpstyle.visibility != 'hidden' && cmpstyle.display != 'none') {
+   			 return true;
+  			}
+  		return false;
+	}
+	
 	function hideAll()
 	{
 		obj1 = document.getElementById('popup1');
@@ -125,8 +142,8 @@
 		obj2 = document.getElementById('popup2');
 		obj2.style.display = "none";
 		
-		obj3 = document.getElementById('roadblock-popup');
-		obj3.style.display = "none";
+		//obj3 = document.getElementById('roadblock-popup');
+		//obj3.style.display = "none";
 		
 
 	}
@@ -152,12 +169,13 @@
 	<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1070721917/?label=yw9HCPfihAIQ_dbH_gM&amp;guid=ON&amp;script=0"/>
 	</div>
 	</noscript>
+  
+    
 
- <script type="text/javascript" src="//www.hellobar.com/hellobar.js"></script>
+<script type="text/javascript" src="//www.hellobar.com/hellobar.js"></script>
 <script type="text/javascript">
 new HelloBar(37139,49764);
 </script>
-
 	<div id="header01">
     	<table cellpadding="0" cellspacing="0" width="940" height="152"><tbody><tr>
         <td height="101" valign="top">
@@ -166,7 +184,7 @@ new HelloBar(37139,49764);
             	  <!--DWLayoutTable-->
             	  <tbody><tr>
                 <td width="936" height="101" valign="top">
-                	<div class="head_logopart"><a href="http://www.empoweringparents.com/index.php"><img src="../images/ep_logo_header.jpg" width="431" height="75" border="0" alt="Effective Parenting Articles, Child Behavior Help, Parenting Difficult Children and Teens"></a></div>
+                	<div class="head_logopart"><a href="http://www.empoweringparents.com/index.php"><img src="http://www.empoweringparents.com/images/ep_logo_header.jpg" width="431" height="75" border="0" alt="Effective Parenting Articles, Child Behavior Help, Parenting Difficult Children and Teens"></a></div>
                	  <div class="head_iparenting"></div>                </td>
                 </tr></tbody></table>
           </div>
@@ -184,13 +202,13 @@ new HelloBar(37139,49764);
 
        		<ul>
             	<li class="hot_topics">Hot Topics</li>
+		        <li><a href="http://www.empoweringparents.com/parenting-inspiration-quotes-and-tips/">Parenting Quotes</a></li> 
 				<li><a href="http://www.empoweringparents.com/category-Bullying.php">Bullying</a></li> 
                 <li><a href="http://www.empoweringparents.com/free-downloadable-charts/">Behavior Charts</a></li>
 			    <li><a href="http://www.empoweringparents.com/category-Disrespect.php">Disrespect</a></li>
                 <li><a href="http://www.empoweringparents.com/category-Adult-Children.php">Adult Children </a></li>
-                <li><a href="http://www.empoweringparents.com/category-Anxiety-And-Depression.php">Anxiety</a></li>
-                <li><a href="http://www.empoweringparents.com/category-Stealing.php" class="Stealing">Stealing</a></li>
-            </ul>
+                <li><a href="http://www.empoweringparents.com/category-Anxiety-And-Depression.php" class="Stealing">Anxiety</a></li>
+           </ul>
 
         <div class="clrfix"></div>
         </div>
@@ -260,18 +278,20 @@ new HelloBar(37139,49764);
 <script language="javascript">
 function vaidateSubmitEmail(value)
 {
-     
-	if(value=='popup1')   
-	var form1	=	document.SubmitEmail;
+    
+	if(value=='normal')   
+	var form1	=	document.SubmitEmail_normal;
 	
-	if(value=='roadblock')
-	var form1	=	document.SubmitEmail_roadblock;
+	if(value=='holiday')
+	var form1	=	document.SubmitEmail_holiday;
 	
     var popup_type=value; 	
-	if(form1.control_COLUMN28.value=='')
+	
+	
+	if(form1.FirstName.value=='')
 	{
 		alert("Please Enter Your First Name");
-		form1.control_COLUMN28.focus;
+		form1.FirstName.focus;
 		return  false;
 	}
 	
@@ -287,24 +307,22 @@ function vaidateSubmitEmail(value)
 		alert("Please Enter Correct E-Mail");
 		return false;
 	}
-	
-	
 
-    if(popup_type=='popup1'){
+   // if(popup_type=='popup1'){
     var futdate = new Date()		//Get the current time and date
     var expdate = futdate.getTime()  //Get the milliseconds since Jan 1, 1970
     expdate += 3600*1000  //expires in 1 hour(milliseconds)
     futdate.setTime(expdate)
     document.cookie = 'popupThank1=2;expires=+ futdate.toGMTString()';
-	}
+	//}
 	
-    if(popup_type=='roadblock'){
-    var futdate = new Date()		//Get the current time and date
-    var expdate = futdate.getTime()  //Get the milliseconds since Jan 1, 1970
-    expdate += 3600*1000  //expires in 1 hour(milliseconds)
-    futdate.setTime(expdate)
-    document.cookie = 'roadblock_thank_1=2;expires=+ futdate.toGMTString()';
-	}
+  //  if(popup_type=='roadblock'){
+  //  var futdate = new Date()		//Get the current time and date
+ //   var expdate = futdate.getTime()  //Get the milliseconds since Jan 1, 1970
+  //  expdate += 3600*1000  //expires in 1 hour(milliseconds)
+  //  futdate.setTime(expdate)
+  //  document.cookie = 'roadblock_thank_1=2;expires=+ futdate.toGMTString()';
+  //}
  	
     return ConversionCount();
  	return true;
@@ -325,115 +343,62 @@ function vaidateSubmitEmail(value)
 
 
 
-<!-- ClickTaleExcludeBlock -->
 
 
 
-<div id="popup1" style="width:630px; height:auto; display:none; z-index:50; position:absolute; padding-bottom:0px; left:320px; top:50px;">
-<div style="background:url(http://www.empoweringparents.com/images/ep_popup_shadow.png) no-repeat top center; padding-top:19px; padding-left:23px; padding-right:21px;"> 
+<!-- PPP Normal Popup -->
+<!--<link href="css/ppp_holiday_popup.css" rel="stylesheet" type="text/css" />-->
+<div class="mboxDefault"> 
+<link href="css/ppp_normal_popup.css" rel="stylesheet" type="text/css">
+</div>
+<script type="text/javascript">
+mboxCreate('EP_pppMbox');
+</script>
+
+<div id="popup1" style="display:none;">
+<!-- PPP Normal Popup -->
+<div id="popup-n" class="ppp-normal" style="display:none;">
+<div class="popup-shadow-div"> 
+   
+<form name="SubmitEmail_normal" method="post" action="http://www.pages04.net/legacypublishing/ppp/Form" onsubmit="pageTracker._trackEvent('PPP-Control', 'Signup'); return vaidateSubmitEmail('normal');">  
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="popup-content-table">     
+<tbody><tr><td valign="top"><table cellpadding="0" cellspacing="0" align="center" border="0" class="popup-content-table1">       
+ <!--DWLayoutTable-->      
+<tbody><tr><td colspan="2" valign="top"><img src="http://www.empoweringparents.com/images/ep_popup_header_new.gif" alt="Empowering Parents" width="586" height="89" border="0" usemap="#Map"></td></tr><tr><td colspan="2" align="center"><div class="popup-row2"><p>Struggling with your child's behavior?</p><p class="row2-heading">Get your free <span class="textcolor-blue">Personal Parenting Plan</span> now!</p><p class="row2-subline">It takes only a few seconds, and you'll get help right away with your child's behavior.</p></div></td></tr><tr><td colspan="2" valign="top" align="center"><div class="popup-row3"><p class="row3-boldtitle" align="left"><strong>Please answer the following questions:</strong></p>      <table cellpadding="0" cellspacing="0" width="100%" class="popup-content-table2"><tbody><tr><td width="455" align="left">Has your child been diagnosed with ADD or ADHD? </td><td width="50"><input type="radio" name="PPP1_ADD" id="control_COLUMN170" label="Has your child Been diagnosed with ADD or ADHD?" value="Yes"><strong>Yes</strong></td><td width="45"><input type="radio" name="PPP1_ADD" id="control_COLUMN170" label="Has your child Been diagnosed with ADD or ADHD?" value="No"><strong>No</strong></td></tr><tr><td align="left">Has your child been diagnosed with ODD or does he have oppositional, defiant behavior? </td><td><input type="radio" name="PPP2_ODD" id="control_COLUMN171" label="Has your child been diagnosed with ODD or have oppositional, defiant behavior?" value="Yes"><strong>Yes</strong></td><td><input type="radio" name="PPP2_ODD" id="control_COLUMN171" label="Has your child been diagnosed with ODD or have oppositional, defiant behavior?" value="No"><strong>No</strong></td></tr><tr><td align="left">Has your child faced serious disciplinary action at school?</td><td><input type="radio" name="PPP3_SchoolDiscipline" id="control_COLUMN172" label="Has your child faced serious disciplinary action at school (ssuspension, expulsion, etc.)" value="Yes"><strong>Yes</strong></td><td><input type="radio" name="PPP3_SchoolDiscipline" id="control_COLUMN172" label="Has your child faced serious disciplinary action at school (ssuspension, expulsion, etc.)" value="No"><strong>No</strong></td></tr><tr><td align="left">Has your child been caught drinking or using drugs? </td><td><input type="radio" name="PPP4_DrinkingDrugs" id="control_COLUMN173" label="Has your child been caught drinking or using drugs?" value="Yes"><strong>Yes</strong></td><td><input type="radio" name="PPP4_DrinkingDrugs" id="control_COLUMN173" label="Has your child been caught drinking or using drugs?" value="No"><strong>No</strong></td></tr><tr><td align="left">Do you have problems with angry outbursts or explosive behavior?</td><td><input type="radio" name="PPP5_AngryOutbursts" id="control_COLUMN174" label="Do you have problems with angry outbursts or explosive behavior?" value="Yes"><strong>Yes</strong></td><td><input type="radio" name="PPP5_AngryOutbursts" id="control_COLUMN174" label="Do you have problems with angry outbursts or explosive behavior?" value="No"><strong>No</strong></td></tr><tr><td align="left">Is your child disrespectful or verbally abusive to you and others? </td><td><input type="radio" name="PPP6_Disrespectful" id="control_COLUMN175" label="Is your child disrespectful or verbally abusive to you and others?" value="Yes"><strong>Yes</strong></td><td><input type="radio" name="PPP6_Disrespectful" id="control_COLUMN175" label="Is your child disrespectful or verbally abusive to you and others?" value="No"><strong>No</strong></td></tr><tr><td align="left">Has your child ever hit you or someone else or destroyed property? </td><td><input type="radio" name="PPP7_Violent" id="control_COLUMN176" label="Has your child ever hit you or someone else or destroyed property?" value="Yes"><strong>Yes</strong></td><td><input type="radio" name="PPP7_Violent" id="control_COLUMN176" label="Has your child ever hit you or someone else or destroyed property?" value="No"><strong>No</strong></td></tr><tr><td align="left">Does your child ignore disciplinary efforts and consequences? </td><td><input type="radio" name="PPP8_Consequences" id="control_COLUMN177" label="Does your child ignore disciplinary efforts and consequences?" value="Yes"><strong>Yes</strong></td><td><input type="radio" name="PPP8_Consequences" id="control_COLUMN177" label="Does your child ignore disciplinary efforts and consequences?" value="No"><strong>No</strong></td></tr></tbody></table></div></td></tr><tr class="popup-row4"><td width="264" valign="top" bgcolor="#FFFFFF" class="row4-td1"><span>*</span>First Name<br><input type="text" name="FirstName" id="control_COLUMN28" label="First Name" class="textInput defaultText"></td><td width="262" bgcolor="#FFFFFF" valign="top" class="row4-td2"><span>*</span>Your email<br><input type="text" name="Email" id="control_Email" label="Email" class="textInput defaultText"></td></tr><tr class="popup-row5"><td colspan="2" align="center" valign="top" bgcolor="#FFFFFF"><p style="margin:0px; color:#a73033; padding-left:22px;" align="left">*Required</p><p align="center">We'll email your <span class="textcolor-blue"><strong>Personal Parenting Plan</strong></span> to you immediately.</p><input type="hidden" name="LatestLeadSourceChannel" id="control_COLUMN147" value="internet"><input type="hidden" name="LatestLeadSourceCreative" id="control_COLUMN151" value="PPP-Control"><input type="hidden" name="Permission" id="control_COLUMN158" value="Yes"><input type="hidden" name="formSourceName" value="StandardForm"><input type="image" src="../images/ep_popup_submit_btn.gif" alt="Submit"><input type="hidden" name="Submit" value="Action1"></td></tr></tbody></table></td></tr></tbody></table></form><map name="Map" id="Map"><area shape="rect" coords="492,7,577,29" href="#" onclick="hideAll();"></map></div><div class="popup-bottomshadow"></div></div>
+<!-- PPP Normal popup Ends-->
+
+<!-- PPP Holiday Popup -->
+<div id="popup-h" class="ppp-holiday" style="display:none;">
+<div class="popup-shadow-div1">
+<div class="holiday-ribbon-top-left"></div>
+<div class="holiday-ribbon-bottom-right"></div>
 
  
-   
-<form name="SubmitEmail" method="post" action="http://www.pages04.net/legacypublishing/ppp/Form" onsubmit="pageTracker._trackEvent('PPP', 'Signup'); return vaidateSubmitEmail('popup1');">  
-<table width="100%" border="0" align="center" style="font-family:Arial, Verdana, Helvetica, sans-serif; font-size: 13px; color:#000000;" cellpadding="0" cellspacing="0">     
- <tbody><tr> <td valign="top"><table cellpadding="0" cellspacing="0" align="center" border="0" style="font-family:Arial, Verdana, Helvetica, sans-serif; font-size: 13px; color:#000000; background:#FFF;">       
+<form name="SubmitEmail_holiday" method="post" action="http://www.pages04.net/legacypublishing/ppp/Form" onsubmit="pageTracker._trackEvent('PPP-Holiday', 'Signup'); return vaidateSubmitEmail('holiday');">  
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="popup-content-table">     
+<tbody><tr><td valign="top"><table cellpadding="0" cellspacing="0" align="center" border="0" class="popup-content-table1">       
  <!--DWLayoutTable-->      
-  <tbody><tr><td colspan="2" valign="top">   <img src="http://www.empoweringparents.com/images/ep_popup_header_new.gif" alt="Empowering Parents" width="586" height="89" border="0" usemap="#Map"></td>    </tr>    <tr>    <td colspan="2" align="center">    <div style="border-bottom:1px solid #4c86b4; width:543px; margin:0px auto;">    <p style="text-align:center; font-size:16px; margin:10px 0px;">Struggling with your child's behavior?</p>    <p style="text-align:center; font-size:18px; margin:10px 0px;">Get your free <span style="color:#4c86b4;">Personal Parenting Plan</span> now!</p>    <p style="font-style:italic; text-align:center; margin:10px 0px;">It takes only a few seconds, and you'll get help right away with your child's behavior.</p>    </div>    </td>    </tr>    <tr>      <td colspan="2" valign="top" align="center">      <div style="border-bottom:1px solid #4c86b4; width:543px; margin:0px auto 10px auto; padding:20px 0px 20px 0px;">      <p align="left" style="line-height:15px; color:#000000; margin:0px;"><strong>Please answer the following questions:</strong></p>      <table cellpadding="0" cellspacing="0" width="100%" style="font-family:Arial, Verdana, Helvetica, sans-serif; font-size: 11px; color:#000000;">      <tbody><tr>      <td width="455" align="left">Has your child been diagnosed with ADD or ADHD? </td><td width="50"><input type="radio" name="PPP1_ADD" id="control_COLUMN170" label="Has your child Been diagnosed with ADD or ADHD?" value="Yes">        <strong>Yes</strong></td><td width="45"><input type="radio" name="PPP1_ADD" id="control_COLUMN170" label="Has your child Been diagnosed with ADD or ADHD?" value="No">          <strong>No</strong></td>      </tr>      <tr>      <td align="left">Has your child been diagnosed with ODD or does he have oppositional, defiant behavior? </td><td><input type="radio" name="PPP2_ODD" id="control_COLUMN171" label="Has your child been diagnosed with ODD or have oppositional, defiant behavior?" value="Yes">        <strong>Yes</strong></td><td><input type="radio" name="PPP2_ODD" id="control_COLUMN171" label="Has your child been diagnosed with ODD or have oppositional, defiant behavior?" value="No">          <strong>No</strong></td>      </tr>      <tr>      <td align="left">Has your child faced serious disciplinary action at school?</td><td><input type="radio" name="PPP3_SchoolDiscipline" id="control_COLUMN172" label="Has your child faced serious disciplinary action at school (ssuspension, expulsion, etc.)" value="Yes">        <strong>Yes</strong></td><td><input type="radio" name="PPP3_SchoolDiscipline" id="control_COLUMN172" label="Has your child faced serious disciplinary action at school (ssuspension, expulsion, etc.)" value="No">          <strong>No</strong></td>      </tr>      <tr>      <td align="left">Has your child been caught drinking or using drugs? </td><td><input type="radio" name="PPP4_DrinkingDrugs" id="control_COLUMN173" label="Has your child been caught drinking or using drugs?" value="Yes">        <strong>Yes</strong></td><td><input type="radio" name="PPP4_DrinkingDrugs" id="control_COLUMN173" label="Has your child been caught drinking or using drugs?" value="No">          <strong>No</strong></td>      </tr>      <tr>      <td align="left">Do you have problems with angry outbursts or explosive behavior?</td><td><input type="radio" name="PPP5_AngryOutbursts" id="control_COLUMN174" label="Do you have problems with angry outbursts or explosive behavior?" value="Yes">        <strong>Yes</strong></td><td><input type="radio" name="PPP5_AngryOutbursts" id="control_COLUMN174" label="Do you have problems with angry outbursts or explosive behavior?" value="No">          <strong>No</strong></td>      </tr>      <tr>      <td align="left">Is your child disrespectful or verbally abusive to you and others? </td><td><input type="radio" name="PPP6_Disrespectful" id="control_COLUMN175" label="Is your child disrespectful or verbally abusive to you and others?" value="Yes">        <strong>Yes</strong></td><td><input type="radio" name="PPP6_Disrespectful" id="control_COLUMN175" label="Is your child disrespectful or verbally abusive to you and others?" value="No">          <strong>No</strong></td>      </tr>      <tr>      <td align="left">Has your child ever hit you or someone else or destroyed property? </td><td><input type="radio" name="PPP7_Violent" id="control_COLUMN176" label="Has your child ever hit you or someone else or destroyed property?" value="Yes">        <strong>Yes</strong></td><td><input type="radio" name="PPP7_Violent" id="control_COLUMN176" label="Has your child ever hit you or someone else or destroyed property?" value="No">          <strong>No</strong></td>      </tr>      <tr>      <td align="left">Does your child ignore disciplinary efforts and consequences? </td><td><input type="radio" name="PPP8_Consequences" id="control_COLUMN177" label="Does your child ignore disciplinary efforts and consequences?" value="Yes">        <strong>Yes</strong></td><td><input type="radio" name="PPP8_Consequences" id="control_COLUMN177" label="Does your child ignore disciplinary efforts and consequences?" value="No">          <strong>No</strong></td>      </tr>      </tbody></table>            </div>    </td></tr>  <tr>  <td width="264" valign="top" bgcolor="#FFFFFF" style="font-family: Arial, Helvetica, sans-serif; font-size:13px; color:#000; padding-left:22px;"><span style="color:#a73033;">*</span>First Name    <br>    <input type="text" name="FirstName" id="control_COLUMN28" label="First Name" class="textInput defaultText" style="width:222px; height:24px; border-bottom:1px #b5b3b6 solid; border-left:1px #b5b3b6 solid; border-right:1px #b5b3b6 solid; border-top:1px #727071 solid; line-height:24px;"></td>    <td width="262" style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:13px; color:#000;" bgcolor="#FFFFFF" valign="top"><span style="color:#a73033;">*</span>Your email    <br>    <input type="text" name="Email" id="control_Email" label="Email" class="textInput defaultText" style="width:222px; height:24px; border-bottom:1px #b5b3b6 solid; border-left:1px #b5b3b6 solid; border-right:1px #b5b3b6 solid; border-top:1px #727071 solid; line-height:24px;"></td>  </tr>    <tr>      <td colspan="2" align="center" valign="top" style="padding-bottom:13px; padding-top:3px;" bgcolor="#FFFFFF">            <p style="margin:0px; color:#a73033; padding-left:22px;" align="left">*Required</p>      <p align="center">We'll email your <span style="color:#4c86b4;"><strong>Personal Parenting Plan</strong></span> to you immediately.</p>            <input type="hidden" name="LatestLeadSourceChannel" id="control_COLUMN147" value="internet">          <input type="hidden" name="LatestLeadSourceCreative" id="control_COLUMN151" value="ppp-classic"><input type="hidden" name="Permission" id="control_COLUMN158" value="Yes"><input type="hidden" name="formSourceName" value="StandardForm">  <input type="image" src="../images/ep_popup_submit_btn.gif" alt="Submit">          <input type="hidden" name="Submit" value="Action1">   </td>    </tr></tbody></table></td></tr>  </tbody></table>  </form>  <map name="Map" id="Map"><area shape="rect" coords="492,7,577,29" href="#" onclick="hideAll();"></map>  </div>  <div style="background:url(http://www.empoweringparents.com/images/ep_popup_shadow.png) no-repeat bottom center; height:20px;"></div>  </div>
+<tbody><tr><td colspan="2" valign="top"><img src="http://www.empoweringparents.com/images/ep_popup_header_new.gif" alt="Empowering Parents" width="586" height="89" border="0" usemap="#Map"></td></tr><tr><td colspan="2" align="center"><div class="popup-row2"><p>Struggling with your child's behavior?</p><p class="row2-heading">Get your free <span class="textcolor-blue">Personal Parenting Plan</span> now!</p><p class="row2-subline">It takes only a few seconds, and you'll get help right away with your child's behavior.</p></div></td></tr><tr><td colspan="2" valign="top" align="center"><div class="popup-row3"><p class="row3-boldtitle" align="left"><strong>Please answer the following questions:</strong></p>      <table cellpadding="0" cellspacing="0" width="100%" class="popup-content-table2"><tbody><tr><td width="455" align="left">Has your child been diagnosed with ADD or ADHD? </td><td width="50"><input type="radio" name="PPP1_ADD" id="control_COLUMN170" label="Has your child Been diagnosed with ADD or ADHD?" value="Yes"><strong>Yes</strong></td><td width="45"><input type="radio" name="PPP1_ADD" id="control_COLUMN170" label="Has your child Been diagnosed with ADD or ADHD?" value="No"><strong>No</strong></td></tr><tr><td align="left">Has your child been diagnosed with ODD or does he have oppositional, defiant behavior? </td><td><input type="radio" name="PPP2_ODD" id="control_COLUMN171" label="Has your child been diagnosed with ODD or have oppositional, defiant behavior?" value="Yes"><strong>Yes</strong></td><td><input type="radio" name="PPP2_ODD" id="control_COLUMN171" label="Has your child been diagnosed with ODD or have oppositional, defiant behavior?" value="No"><strong>No</strong></td></tr><tr><td align="left">Has your child faced serious disciplinary action at school?</td><td><input type="radio" name="PPP3_SchoolDiscipline" id="control_COLUMN172" label="Has your child faced serious disciplinary action at school (ssuspension, expulsion, etc.)" value="Yes"><strong>Yes</strong></td><td><input type="radio" name="PPP3_SchoolDiscipline" id="control_COLUMN172" label="Has your child faced serious disciplinary action at school (ssuspension, expulsion, etc.)" value="No"><strong>No</strong></td></tr><tr><td align="left">Has your child been caught drinking or using drugs? </td><td><input type="radio" name="PPP4_DrinkingDrugs" id="control_COLUMN173" label="Has your child been caught drinking or using drugs?" value="Yes"><strong>Yes</strong></td><td><input type="radio" name="PPP4_DrinkingDrugs" id="control_COLUMN173" label="Has your child been caught drinking or using drugs?" value="No"><strong>No</strong></td></tr><tr><td align="left">Do you have problems with angry outbursts or explosive behavior?</td><td><input type="radio" name="PPP5_AngryOutbursts" id="control_COLUMN174" label="Do you have problems with angry outbursts or explosive behavior?" value="Yes"><strong>Yes</strong></td><td><input type="radio" name="PPP5_AngryOutbursts" id="control_COLUMN174" label="Do you have problems with angry outbursts or explosive behavior?" value="No"><strong>No</strong></td></tr><tr><td align="left">Is your child disrespectful or verbally abusive to you and others? </td><td><input type="radio" name="PPP6_Disrespectful" id="control_COLUMN175" label="Is your child disrespectful or verbally abusive to you and others?" value="Yes"><strong>Yes</strong></td><td><input type="radio" name="PPP6_Disrespectful" id="control_COLUMN175" label="Is your child disrespectful or verbally abusive to you and others?" value="No"><strong>No</strong></td></tr><tr><td align="left">Has your child ever hit you or someone else or destroyed property? </td><td><input type="radio" name="PPP7_Violent" id="control_COLUMN176" label="Has your child ever hit you or someone else or destroyed property?" value="Yes"><strong>Yes</strong></td><td><input type="radio" name="PPP7_Violent" id="control_COLUMN176" label="Has your child ever hit you or someone else or destroyed property?" value="No"><strong>No</strong></td></tr><tr><td align="left">Does your child ignore disciplinary efforts and consequences? </td><td><input type="radio" name="PPP8_Consequences" id="control_COLUMN177" label="Does your child ignore disciplinary efforts and consequences?" value="Yes"><strong>Yes</strong></td><td><input type="radio" name="PPP8_Consequences" id="control_COLUMN177" label="Does your child ignore disciplinary efforts and consequences?" value="No"><strong>No</strong></td></tr></tbody></table></div></td></tr><tr class="popup-row4"><td width="264" valign="top" bgcolor="#FFFFFF" class="row4-td1"><span>*</span>First Name<br><input type="text" name="FirstName" id="control_COLUMN28" label="First Name" class="textInput defaultText"></td><td width="262" bgcolor="#FFFFFF" valign="top" class="row4-td2"><span>*</span>Your email<br><input type="text" name="Email" id="control_Email" label="Email" class="textInput defaultText"></td></tr><tr class="popup-row5"><td colspan="2" align="center" valign="top" bgcolor="#FFFFFF"><p style="margin:0px; color:#a73033; padding-left:22px;" align="left">*Required</p><p align="center">We'll email your <span class="textcolor-blue"><strong>Personal Parenting Plan</strong></span> to you immediately.</p><input type="hidden" name="LatestLeadSourceChannel" id="control_COLUMN147" value="internet"><input type="hidden" name="LatestLeadSourceCreative" id="control_COLUMN151" value="ppp-Holiday"><input type="hidden" name="Permission" id="control_COLUMN158" value="Yes"><input type="hidden" name="formSourceName" value="StandardForm"><input type="image" src="../images/ep_popup_submit_btn.gif" alt="Submit"><input type="hidden" name="Submit" value="Action1"></td></tr></tbody></table></td></tr></tbody></table></form><map name="Map" id="Map"><area shape="rect" coords="492,7,577,29" href="#" onclick="hideAll();"></map></div><div class="popup-bottomshadow"></div></div>
+<!-- PPP Holiday POPUP Ends-->
 
-<!--</noscript>-->
-
-
-
-
-<!-- ROADBLOCK POPUP Starts -->
-
-<div id="roadblock-popup" style="background:url(http://www.empoweringparents.com/images/ppp_fadebg_v02.png) repeat scroll 0 0; display:none; z-index:9999; position:absolute; padding-bottom:0px; left:0px; top:0px; width:100%; height:100%;">
-    <table cellpadding="0" cellspacing="0" width="813" align="center"><tbody><tr>
-    <td>
-    <div style="background:url(http://www.empoweringparents.com/images/ppp_bgTop_v02.png) no-repeat scroll 0 0; width:813px; margin:80px auto; padding-top:3px;">
-    <div style="background:url(http://www.empoweringparents.com/images/ppp_bgBottom_v021.png) no-repeat scroll left bottom; padding-bottom:12px;">
-       
-    <form name="SubmitEmail_roadblock" method="post" action="http://www.pages04.net/legacypublishing/roadblock/Form" onsubmit="pageTracker._trackEvent('Roadblockvisit2', 'Signup'); return vaidateSubmitEmail('roadblock');">  
-      <div style="width:801px; margin-left:3px; position:relative; background:#fff;">
-    <div style="position:absolute; z-index:99999; right:-15px; top:-15px;"><a href="#" onclick="hideAll();"><img src="http://www.empoweringparents.com/images/ppp_closeBtn_v02.png" alt="Close" width="34" height="35" border="0" usemap="#Map"></a><map name="Map" id="Map"><area shape="circle" coords="15,15,12" href="#" onclick="hideAll();"></map>
-    </div>
-        <div style="padding:12px 19px 10px 19px; font-family:Helvetica, Arial, sans-serif; font-size:12px;">
-        <div style="width:290px; padding-top:6px; color:#666666; float:left;">
-    
-            <p style="margin-top:0px;"><img src="http://www.empoweringparents.com/images/ppp_ephead_v02.gif" width="286" height="55" alt="Empowering Parents" border="0"></p>
-            
-            <div style="padding-left:24px;">
-            <h1 style="color:#4c86b4; font-size:24px; font-weight:bold; margin:0px;">Help us to keep all <br>of our content free!</h1>
-            <p style="line-height:20px; font-size:16px; margin:1.3em 0px;">Sign in for free using your first name and email address.</p>
-            
-            <p style="margin:0px 0px 0.4em 0px;"><label style="height:25px; display:inline-block; line-height:25px;">First Name:</label> <input type="text" name="FirstName" id="control_COLUMN28" label="First Name" style="width:165px; border:1px solid #666; padding:2px; height:19px;"></p>
-            <p style="margin:0px 0px 1em 0px;"><label style="height:25px; display:inline-block; line-height:25px;">Email:</label> <input type="text" name="Email" id="control_Email" label="Email" class="textInput defaultText" style="width:165px; border:1px solid #666; margin-left:29px; padding:2px; height:19px;"></p>
-    
-            
-            <p style="margin:0px 0px 1em 0px;">After signing in, you'll also join over 250,000 parents who receive our free weekly <em>Empowering Parents</em> newsletter!</p>
-            
-            <p style="margin:0px 0px 1em 0px;">
-             <input type="hidden" name="LatestLeadSourceChannel" id="control_COLUMN147" value="internet">
-             <input type="hidden" name="LatestLeadSourceCreative" id="control_COLUMN151" value="Roadblockvisit2">
-             <input type="hidden" name="Permission" id="control_COLUMN158" value="Yes">
-             <input type="hidden" name="formSourceName" value="StandardForm">
-    
-             <input type="image" name="input" src="http://www.empoweringparents.com/images/ppp_signinBtn_v02.gif" value="">
-             <input type="hidden" name="Submit" value="Action1">
-            </p>
-          </div>
-            
-        </div>
-        <div style="float:left; width:241px; padding-top:18px; margin-left:8px;"><img src="http://www.empoweringparents.com/images/ppp_artcopy_v02.gif" width="238" height="339" alt="" border="0"></div>
-        <div style="width:215px; float:left; padding-top:18px; margin-left:8px;">
-            <h2 style="margin-top:0em; font-size:16px; font-weight:bold; color:#4c86b4; margin-bottom:0.3em;">Free Content Includes:</h2>
-    
-            <ul style="padding-left:15px; margin:0px;">
-                <li style="margin-bottom:0.5em;">New articles each week from our panel of parenting experts. </li>
-                <li style="margin-bottom:0.5em;">An archive featuring hundreds of parenting articles. </li>
-                <li style="margin-bottom:0.5em;"> Hundreds of blog posts from parenting experts and real parents, like you!</li>
-                <li style="margin-bottom:0.5em;">Monthly parenting polls.</li>
-                <li style="margin-bottom:0.5em;">Podcasts and One Minute Transformations from James Lehman, MSW, creator of <em>The Total Transformation Program</em>, and other parenting experts. </li>
-    
-                <li style="margin-bottom:0.5em;">An <em>Empowering Parents</em> Facebook community with thousands of parents sharing parenting advice.</li>
-                <li style="margin-bottom:0em;">Free weekly <em>Empowering Parents</em> email newsletter. </li>
-            </ul>
-        </div>
-        <div style="clear:both;"></div>
-    
-      </div>
-    </div>
-    </form>
-    </div>
-    </div>
-    </td></tr>
-    </tbody></table>
 </div>
-<!-- ROADBLOCK POPUP Ends -->
-
-
-
-
-
-
 
 
 
 <!-- ClickTaleExcludeBlock -->
-<div id="popup2" style="width:570px; display:none; z-index:9999; position:absolute; height:auto; left:320px; top:50px;">
-<div style="background:url(http://www.empoweringparents.com/images/aj_bg_new.png) no-repeat top center; padding-top:26px;">
+<div id="popup2" class="popup-message" style="display:none;">
+<div class="popup-shadow-div">
 <table width="570" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
   <td valign="top"><table width="526" cellpadding="0" cellspacing="0" align="center" border="0"><tbody><tr><td valign="top" bgcolor="#FFFFFF">
-	
-		<img src="http://www.empoweringparents.com/images/EP_Email_PopUp_V2_Header.jpg" alt="Empowering Parents" width="526" height="139" border="0" usemap="#Map3"></td>
+<img src="http://www.empoweringparents.com/images/EP_Email_PopUp_V2_Header.jpg" alt="Empowering Parents" width="526" height="139" border="0" usemap="#Map3"></td>
   </tr>
-  <tr>
+  <tr class="popup-row2">
     <td height="105" align="left" valign="middle" bgcolor="#FFFFFF">
-<div style="padding:0px; background-image:http://www.empoweringparents.com/images/ep_screenshot.jpg; background-repeat:no-repeat; font-family: Arial, Verdana, Helvetica, sans-serif; font-size:12px; color:#000;" align="center">Thank you for signing up.</div>
+<p class="thxmsg">Thank you for signing up.</p>
 
-<div style="margin-top:25px;">
-<table width="200" cellspacing="0" cellpadding="0" align="center" style="font-family: Arial, Verdana, Helvetica, sans-serif;"><tbody><tr>
+<div>
+<table width="200" cellspacing="0" cellpadding="0" align="center"><tbody><tr>
   <td align="center">
   <a target="_blank" style="line-height:16px;font-size:12px" href="http://www.facebook.com/ParentingAdvice"><img width="16" height="16" border="0" align="absbottom" alt="Facebook Icon" src="http://www.empoweringparents.com/images/fbook_pop_symbol.jpg"></a>&nbsp;<a target="_blank" style="line-height:16px;font-size:12px" href="http://www.facebook.com/ParentingAdvice">Facebook</a></td><td align="center">
   
@@ -446,9 +411,12 @@ function vaidateSubmitEmail(value)
 </tbody></table></td></tr></tbody></table>
 <map name="Map3" id="Map3"><area shape="rect" coords="439,2,524,33" href="#" onclick="hideAll();"></map>
 </div>
-<div style="background:url(http://www.empoweringparents.com/images/aj_bg_new.png) no-repeat bottom center; height:18px;"></div>
+<div class="popup-bottomshadow"></div>
 </div>
+ 
 <!-- EndClickTaleExcludeBlock -->
+
+
 
 <script type="text/javascript">
 if(document.location.protocol=='http:'){
@@ -513,10 +481,10 @@ function validateForm()
 		<input type="hidden" name="Submit" value="Submit">
        					    <input type="hidden" name="LatestLeadSourceChannel" id="control_COLUMN147" value="internet">
 							<input type="hidden" name="LatestLeadSourceCreative" id="control_COLUMN151" value="ep-signup">
-							<input type="hidden" name="LatestLeadSourceDate" id="control_COLUMN150" value="06/06/2012">
- 							<input type="hidden" name="PermanentSegment" id="control_COLUMN103" value="2">
+							<input type="hidden" name="LatestLeadSourceDate" id="control_COLUMN150" value="12/18/2012">
+ 							<input type="hidden" name="PermanentSegment" id="control_COLUMN103" value="41">
 							<input type="hidden" name="Permission" id="control_COLUMN158" value="Yes">
-							<input type="hidden" name="PermissionDate" id="control_COLUMN159" value="06/06/2012">
+							<input type="hidden" name="PermissionDate" id="control_COLUMN159" value="12/18/2012">
 							<input type="hidden" name="formSourceName" value="Form"> 
 		</form></td>
 	</tr>
@@ -526,11 +494,11 @@ function validateForm()
 	</tbody></table>
 	
 	
-	<!--"https://store.empoweringparents.com/consequences.html?utm_medium=leftnavad&amp;utm_source=privacy&amp;utm_content=free&amp;utm_campaign=&amp;dsource=ep&amp;referringURL=none"-->
+	<!--"https://store.empoweringparents.com/consequences.html?utm_medium=leftnavad&amp;utm_source=ep&amp;utm_content=free&amp;utm_campaign=&amp;dsource=ep&amp;referringURL=none"-->
 	<table cellpadding="0" cellspacing="0" width="200" style="margin-bottom:10px">	
 	<tbody><tr>
     <td height="240" valign="top"> 
-    	<div class="sponsored_box" align="center"><h1>Sponsored Link</h1><a href="https://store.empoweringparents.com/two-parents-one-plan.html?utm_medium=sponsoredlink&amp;utm_source=privacy&amp;utm_content=parentingstyle&amp;dsource=ep&amp;referringURL=none" rel="nofollow" target="_blank"><img src="http://www.empoweringparents.com/images/EP_SPONSORAD_TPOP.jpg" width="200" border="0" height="240"></a></div>          
+    	<div class="sponsored_box" align="center"><h1>Sponsored Link</h1><a href="https://store.empoweringparents.com/getting-through-to-your-child/?utm_medium=sponsoredlink&amp;utm_source=ep&amp;utm_content=cursing&amp;dsource=ep&amp;referringURL=none" rel="nofollow" target="_blank"><img src="http://www.empoweringparents.com/images/EP_SPONSORAD_GTYC.jpg" width="200" border="0" height="240"></a></div>          
     </td>
     </tr>
     </tbody></table>
@@ -558,9 +526,9 @@ function validateForm()
 	  	
 	<div class="article_txt">
 <ul>
-    			<li><a href="http://www.empoweringparents.com/blog/adhd-add/is-adhd-behavioral-therapy-more-effective-than-drugs-in-the-long-run/" rel="bookmark" title="Permanent Link to Calm Parenting Secret: “How Do You Do It?”">Is ADHD Behavioral Therapy More Effective Than Drugs in the Long Run?</a></li>
-						<li><a href="http://www.empoweringparents.com/blog/health-nutrition-safety/nervous-wreck-when-my-baby-had-cochlear-implant-surgery/" rel="bookmark" title="Permanent Link to Calm Parenting Secret: “How Do You Do It?”">Nervous Wreck: When My Baby Had Cochlear Implant Surgery</a></li>
-						<li><a href="http://www.empoweringparents.com/blog/bullying/how-i-was-bullied-and-got-through-it-and-why-i-believe-it-gets-better/" rel="bookmark" title="Permanent Link to Calm Parenting Secret: “How Do You Do It?”">How I Was Bullied and Got Through It -- and Why I Believe "It Gets Better"</a></li>
+    			<li><a href="http://www.empoweringparents.com/blog/communication/connecticut-school-shooting-talking-with-your-kids-about-tragedy/" rel="bookmark" title="Permanent Link to Calm Parenting Secret: “How Do You Do It?”">Connecticut School Shooting: Talking With Your Kids About Tragedy</a></li>
+						<li><a href="http://www.empoweringparents.com/blog/uncategorized/congratulations-to-our-2012-ep-contest-winners/" rel="bookmark" title="Permanent Link to Calm Parenting Secret: “How Do You Do It?”">Your Best Advice: Congratulations to Our 2012 EP Contest Winners!</a></li>
+						<li><a href="http://www.empoweringparents.com/blog/communication/hurricane-sandy-helping-displaced-kids-deal-with-anxiety-depression/" rel="bookmark" title="Permanent Link to Calm Parenting Secret: “How Do You Do It?”">After the Storm: Displaced Kids Still Struggling with Anxiety and Displacement </a></li>
 					
 </ul>
 </div>
@@ -573,7 +541,7 @@ function validateForm()
 	<!--DWLayoutTable-->
 
     <tbody><tr>
-    <td><a href="http://www.empoweringparents.com/omtdetails.php?id=16"><img src="http://www.empoweringparents.com/email_templates/images/podcast_february2012.jpg" alt="Establish a Complaint Time" border="0" width="201" height="203"></a></td>
+    <td><a href="http://www.empoweringparents.com/omtdetails.php?id=13"><img src="http://www.empoweringparents.com/images/september_podcast_2012.jpg" alt="Keep Your Child's Eyes on the Prize" border="0" width="201" height="203"></a></td>
     </tr>
     <tr>
     <td>
@@ -616,8 +584,6 @@ function validateForm()
                     <p><strong>Non-Personally-Identifiable  Information</strong><br>
                       We may collect  non-personally-identifiable information about your computer and navigation  patterns.&nbsp; When you visit our sites, our  systems may automatically note your Internet Protocol (IP) address, your  computer’s operating system, the browser you use for Internet access, and the  specific web pages visited during your connection.&nbsp; We may also track data such as the total number of visits to the  Web Site, and the number of visitors to each page of the Web Site.&nbsp; </p>
                     <p>We may use  non-personally-identifiable information to determine which pages you visit, and  in what order your visit them, in order to help us improve our sites.&nbsp; We may also use non-personally-identifiable  information in aggregate form for system maintenance and to better understand  how our visitors use our site and services so that we can make them  better.&nbsp; We may share statistical or  demographic information in aggregate form with third parties for marketing or  research purposes.&nbsp; This aggregate data  will not contain any personal information.</p>
-                    <p><b>ClickTale</b><br>
-						This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see <a href="http://www.clicktale.com/privacy_service.aspx" target="_blank">Privacy Policy</a> for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to improve and develop our website in order to provide an effective and efficient service for our customers. You can choose to disable the Service <a href="http://www.clicktale.net/disable.html" target="_blank">here</a>.					</p>
                     <p><strong>Children’s Privacy</strong><br>
                       This Web Site is intended for  adults.&nbsp; We do not knowingly collect  personal information from children under the age of 13.&nbsp; However, if the parent or guardian of a  child under 13 believes that the child has provided us with personal  information, the parent or guardian of that child should contact us if they  want this information deleted from our files.&nbsp;  If we otherwise obtain knowledge that we have personal information about  a child under 13 in its files, we will delete that information from our  existing files so that it is not in retrievable form.</p>
                     <h4>DATA SECURITY </h4>
@@ -659,8 +625,16 @@ function validateForm()
                     <td><table cellpadding="0" cellspacing="0" width="200">
                   <!--DWLayoutTable-->
                     <tbody><tr>
-                    <td valign="top" align="center">					 <a href="http://www.thetotaltransformation.com?utm_medium=epmainad&amp;utm_source=privacy&amp;utm_content=ttstopbacktalk&amp;dsource=ep&amp;referringURL=none" rel="nofollow" target="_blank"><img src="http://www.empoweringparents.com/images/ad/54_TT_Stop_Back-Talk_Site_V2.jpg" border="0" width="198" height="330px" alt="stop back talk"></a>
-					  </td>
+                    <td valign="top" align="center">
+					 <a href="http://www.thetotaltransformation.com/?mbox_cross_domain_tracker&amp;utm_medium=epmainad&amp;utm_source=eparticle&amp;utm_content=ttbootcampfree&amp;dsource=ep&amp;referringURL=none" rel="nofollow" target="_blank">
+    <div class="mboxDefault">                 
+                     <img src="http://www.empoweringparents.com/images/ad/61_TT_Bootcamp_Site_V2.jpg" border="0" width="198" height="330px" alt="Teen Bootcamp Alternative"> 
+ </div>
+<script type="text/javascript">
+mboxCreate('EP_mainadMbox');
+</script>                    
+                     </a>
+					 </td>
                   </tr></tbody></table><br></td>
                   </tr>
                   <tr>
@@ -672,7 +646,7 @@ function validateForm()
               </div></td>
             </tr>
              <tr>
-                <td height="209" valign="top"><div><a href="http://www.surveymonkey.com/s/MTN8TN9" rel="nofollow"><img src="http://www.empoweringparents.com/email_templates/images/poll_April2012.jpg" alt="Does Your Child Have a Diagnosis?" width="201" height="203" border="0"></a></div></td>
+                <td height="209" valign="top"><div><a href="http://www.surveymonkey.com/s/YDMKCBM" rel="nofollow"><img src="http://www.empoweringparents.com/images/september_poll_2012.jpg" alt="Homework Battles? Tell Us How You handle It" width="201" height="203" border="0"></a></div></td>
               </tr>
 				
             </tbody></table>
@@ -697,7 +671,8 @@ function validateForm()
 	<li><a href="http://www.empoweringparents.com/tellafriend.php">Tell a Friend</a></li><br>
 	<li><a href="http://www.empoweringparents.com/manage_subscription.php" rel="nofollow">Manage my Subscription </a></li>|
 	<!--<li><a href="http://www.empoweringparents.com/manage_subscription.php" rel="nofollow">Unsubscribe Here </a></li>|-->
-	<li><a href="http://www.empoweringparents.com/whitelist.php" rel="nofollow">Whitelisting EP</a></li>
+	<li><a href="http://www.empoweringparents.com/whitelist.php" rel="nofollow">Whitelisting EP </a></li>|
+    <li>1-866-620-1288</li>
   </ul>
 </div>
 
@@ -740,7 +715,6 @@ pageTracker._trackPageLoadTime();
     </tr></tbody></table>
 </div></td>
 </tr></tbody></table>
-<div id="ClickTaleDiv" style="display: none;"></div> <script type="text/javascript"> if(document.location.protocol!='https:') document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRb6.js'%20type='text/javascript'%3E%3C/script%3E")); </script> <script type="text/javascript"> if(typeof ClickTale=='function') ClickTale(10812,0.24,"www03"); </script>
 
 
 
