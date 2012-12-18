@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineshoes.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624023748id_/http%3A//www.onlineshoes.com/PopupDetail/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineshoes.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218011737id_/http%3A//www.onlineshoes.com/PopupDetail/PrivacyPolicy) for the most accurate reproduction.*
 
 # OnlineShoes.com Privacy Policy
 
