@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the poweruphosting.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620064941id_/http%3A//poweruphosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poweruphosting.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218193202id_/http%3A//poweruphosting.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Web Hosting USA | Cheapest Web Hosting | Low Cost Web Hosting – PowerUpHosting.com
+# Privacy Policy - PowerUpHosting.com
 
 This is the web site of Power Up Hosting.com (poweruphosting.com)
 
