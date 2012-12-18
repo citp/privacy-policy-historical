@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kunocreative.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620144619id_/http%3A//www.kunocreative.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kunocreative.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218100957id_/http%3A//www.kunocreative.com/about/privacy) for the most accurate reproduction.*
 
 # Inbound Marketing Agency Privacy Policy
 
@@ -23,6 +23,14 @@ We offer you choices when we ask for personal information, whenever reasonably p
 ### Our Customers
 
 Our subscription based service sometimes includes hosting customers' web sites that were built using KunoCMS or other content management systems. Kuno Creative Group is not responsible for posting and/or enforcing our customers' privacy policies. Our [terms and conditions](https://web.archive.org/termsandconditions/ "terms and conditions") explicitly define our relationship, responsibilities, and liabilities with respect to privacy and security. While we are in no way responsible or liable for the collection and use of personal information by our customers from their Web sites or during application of our inbound marketing services, we will make every reasonable effort to ensure that our customers post and enforce their privacy policies.
+
+### California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+### Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 If you have additional questions, please contact us at:
 
