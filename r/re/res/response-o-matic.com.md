@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the response-o-matic.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629021727id_/http%3A//www.response-o-matic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the response-o-matic.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218054808id_/http%3A//www.response-o-matic.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Response-o-matic
 
-[](https://web.archive.org/sys/user/signup)
+[](https://web.archive.org/features.html)
 
 ##  Privacy Policy
 
