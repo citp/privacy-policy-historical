@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eye4software.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625183402id_/http%3A//www.eye4software.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eye4software.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218082403id_/http%3A//www.eye4software.com/privacy) for the most accurate reproduction.*
 
 # GPS Software - Eye4Software B.V. - Privacy Policy
 
