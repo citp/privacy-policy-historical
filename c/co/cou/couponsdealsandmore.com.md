@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponsdealsandmore.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619064628id_/http%3A//couponsdealsandmore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsdealsandmore.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218135643id_/http%3A//couponsdealsandmore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Coupons, Deals and More
 
@@ -15,3 +15,7 @@ We do use cookies to store information, such as your personal preferences when y
 We also use third party advertisements on http://couponsdealsandmore.com/ to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+* * *
+
+[](http://feeds2.feedburner.com/CouponsDealsAndMore) [](http://www.facebook.com/pages/Coupons-Deals-and-More/297347401988) [](http://twitter.com/couponsdealsand) [](http://eepurl.com/A20J)[](https://plus.google.com/b/101641443342425582898/)
