@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the proxfree.com privacy policy that was archived on 2012-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120528085311id_/http%3A//www.proxfree.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the proxfree.com privacy policy that was archived on 2012-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121218153256id_/http%3A//www.proxfree.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -41,35 +41,16 @@ $(function(){
 </script>
 <script type="text/javascript">
 function fillpfserverDropdown(){ 
-addOption(document.main_submission.pfserverDropdown, "http://na.proxfree.com/request.php?do=go", "North America");
-addOption(document.main_submission.pfserverDropdown, "http://eu.proxfree.com/request.php?do=go", "Europe");
+addOption(document.main_submission.pfserverDropdown, "http://.proxfree.com/request.php?do=go", "");
+addOption(document.main_submission.pfserverDropdown, "http://.proxfree.com/request.php?do=go", "");
 }
 
 function SelectpfipDropdown(){
 removeAllOptions(document.main_submission.pfipDropdown);
 
-if(document.main_submission.pfserverDropdown.value == 'http://na.proxfree.com/request.php?do=go'){
-addOption(document.main_submission.pfipDropdown,"default", "United States (Texas) Fastest");
-addOption(document.main_submission.pfipDropdown,"US-IL", "United States (Illinois) 23 ms");
-addOption(document.main_submission.pfipDropdown,"US-AZ", "United States () 26 ms");
-addOption(document.main_submission.pfipDropdown,"US-FL", "United States (Florida) 30 ms");
-addOption(document.main_submission.pfipDropdown,"US-IL2", "United States (Illinois 2) 41 ms");
-addOption(document.main_submission.pfipDropdown,"US-NY2", "United States (New York 2) 43 ms");
-addOption(document.main_submission.pfipDropdown,"GB-Lan", "United Kingdom (Lancaster) 126 ms");
-addOption(document.main_submission.pfipDropdown,"FR-Rou", "France (Roubaix) 128 ms");
+if(document.main_submission.pfserverDropdown.value == 'http://.proxfree.com/request.php?do=go'){
 }
-if(document.main_submission.pfserverDropdown.value == 'http://eu.proxfree.com/request.php?do=go'){
-addOption(document.main_submission.pfipDropdown,"default", "France (Roubaix) Fastest");
-addOption(document.main_submission.pfipDropdown,"NL-Rot", "Netherlands (Rotterdam) 7 ms");
-addOption(document.main_submission.pfipDropdown,"US-IL", "United States (Illinois) 97 ms");
-addOption(document.main_submission.pfipDropdown,"US-MO", "United States (Missouri) 105 ms");
-addOption(document.main_submission.pfipDropdown,"US-FL", " (Florida) 108 ms");
-addOption(document.main_submission.pfipDropdown,"US-NY", "United States (New York) 108 ms");
-addOption(document.main_submission.pfipDropdown,"US-TX", "United States (Texas) 120 ms");
-addOption(document.main_submission.pfipDropdown,"US-DE", "United States (Delaware) 146 ms");
-addOption(document.main_submission.pfipDropdown,"US-TX2", "United States (Texas 2) 147 ms");
-addOption(document.main_submission.pfipDropdown,"US-NY2", "United States (New York 2) 153 ms");
-addOption(document.main_submission.pfipDropdown,"US-CA", "United States (California) 617 ms");
+if(document.main_submission.pfserverDropdown.value == 'http://.proxfree.com/request.php?do=go'){
 }
 
 }
