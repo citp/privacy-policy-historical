@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifilm.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508054523id_/http%3A//info.break.com/break/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifilm.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218010446id_/http%3A//info.break.com/break/html/privacy.html) for the most accurate reproduction.*
 
 # Break.com Privacy Policy
 
