@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sameip.org privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620002532id_/http%3A//sameip.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sameip.org privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218025013id_/http%3A//sameip.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SameIP.org
+
+[ ](http://www.anrdoezrs.net/n6122p-85-7NRXSVTPQNPOWQPUWS)
 
 The privacy of our visitors to sameip.org is important to us.
 
