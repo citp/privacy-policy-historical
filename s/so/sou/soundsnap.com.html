@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the soundsnap.com privacy policy that was archived on 2012-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120616104136id_/http%3A//www.soundsnap.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the soundsnap.com privacy policy that was archived on 2012-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121218033106id_/http%3A//www.soundsnap.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <title>Privacy Policy Sounds </title>
 
-<script type="text/javascript" src="/themes/soundsnap2/assets/combined6.js"></script>
+<script type="text/javascript" src="/themes/soundsnap2/assets/combined7.js"></script>
 <script type="text/javascript" src="/themes/soundsnap2/assets/jquery.cookie.js"></script>
 
 
@@ -51,6 +51,43 @@
 <link rel="image_src" href="/themes/soundsnap2">  
   
   
+
+<script language="javascript">
+
+function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+
+    $j(document).ready(function() {
+  		if (readCookie('stereobot') == 'done') {		
+		} else {	
+	     tb_show("HAI","#TB_inline?height=270&amp;width=750&amp;inlineId=stereobox&amp;modal=false",null);
+		 $j('.stereoclose').click(function() { tb_remove(); });
+		 $j('#TB_window').addClass('stereoclean');
+		 $j('#TB_closeWindowButton').html('');
+		 createCookie ('stereobot','done',25);
+		}
+    });
+</script>  
+    
 </head>
 
 <body>
@@ -107,6 +144,9 @@
         <tbody><tr>
           <td class="rollovers left-side">
             <a href="/browse"><img src="/themes/soundsnap2/assets/new/sounds-off.gif" class="rollover" width="82" height="30" border="0"></a>
+          </td>
+          <td class="rollovers">
+            <a href="http://www.stereobot.com"><img src="/themes/soundsnap2/assets/new/stereobot-off.gif" class="rollover" width="82" height="30" border="0"></a>
           </td>
           <td class="rollovers">
             <a href="/products"><img src="/themes/soundsnap2/assets/new/pricing-off.gif" class="rollover" width="82" height="30" border="0"></a>
@@ -213,7 +253,7 @@ SoundSnap uses submitted and collected information to improve the quality and de
             </tr>
             <tr>
               <td colspan="2">
-                © Copyright 2008 - 2012 Soundsnap
+                <a href="http://www.audiomicro.com/royalty-free-music" target="_blank">Royalty Free Music</a>  | © Copyright 2008 - 2012 Soundsnap
               </td>
             </tr>
           </tbody></table>
@@ -221,6 +261,14 @@ SoundSnap uses submitted and collected information to improve the quality and de
       </div>
     </div>
   </div>
+  
+  <a href="http://www.stereobot.com" target="_blank" alt="Production Music" title="Production Music"><div id="stereobot_connect" onmouseover="$j(this).animate({right: '+=10', opacity: '1'}, 150);" onmouseout="$j(this).animate({right: '-=10', opacity: '.4'}, 150);"></div></a>
+
+
+  <div id="stereobox" style="display:none;"><div class="stereobox"><a href="http://www.stereobot.com" class="box1"></a><a href="#" class="stereoclose box2"></a></div></div>  
+
+  
+  
   <script type="text/javascript">
 // Break up the http(s) so Chrome does not match against this enven through the URL is NEVER actually created as http!!!! Silly Chrome
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http" + "://www.");
@@ -234,4 +282,4 @@ pageTracker._trackPageview();
 </script>
 
 
-</body></html>
+<div id="TB_overlay" class="TB_overlayBG"></div><div id="TB_window" class="stereoclean"></div><div id="TB_load"><img src="https://web.archive.org/modules/contrib/crg/login_popup/assets/loadingAnimation.gif"></div></body></html>
