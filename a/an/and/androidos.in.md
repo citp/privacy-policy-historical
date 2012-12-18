@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidos.in privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613204748id_/http%3A//androidos.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidos.in privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218024329id_/http%3A//www.androidos.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AndroidOS.in
 
