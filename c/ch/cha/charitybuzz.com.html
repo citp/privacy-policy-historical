@@ -1,8 +1,7 @@
-<!--The following is the downloaded HTML source of the charitybuzz.com privacy policy that was archived on 2012-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120509192017id_/http%3A//www.charitybuzz.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the charitybuzz.com privacy policy that was archived on 2012-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121218024723id_/http%3A//www.charitybuzz.com/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script async="" src="https://d1ros97qkrwjf5.cloudfront.net/32/eum/rum.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>var NREUMQ=[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-  <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" wf-loading"><head><script type="text/javascript" async="" src="https://ak.sail-horizon.com/horizon/v1.js"></script><script src="//use.typekit.net/tzi2ozj.js" type="text/javascript" async=""></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
   <link rel="shortcut icon" href="/favicon.ico">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="description" content="Online charity auctions with celebrities and luxury brands. Bid to live your dreams and make a difference. 100% of net proceeds benefit nonprofits.">
@@ -11,57 +10,126 @@
   <meta name="medium" content="blog">
 
   <title>charitybuzz | Privacy Policy</title>
-  
-
-  <link href="http://assets1.charitybuzz.com/assets/65f8da4e1/stylesheets/common_packaged.css" media="screen" rel="stylesheet" type="text/css">  <script src="http://assets1.charitybuzz.com/assets/a3017bf2c/javascripts/common_packaged.js" type="text/javascript"></script>
-  
-  
-  
-
-        <link href="http://assets2.charitybuzz.com/assets/7c6e3fa40/stylesheets/privacy_policy.css" media="screen" rel="stylesheet" type="text/css">
 
 
+
+  <link href="http://assets3.charitybuzz.com/assets/582938b57/stylesheets/common_packaged.css" media="screen" rel="stylesheet" type="text/css">  <script src="http://assets3.charitybuzz.com/assets/493c7d76a/javascripts/common_packaged.js" type="text/javascript"></script>
+  <!-- Added temporarily until cdn fix is pushed  -->
+
+
+  
+        <link href="http://assets3.charitybuzz.com/assets/bb5bbb64d/stylesheets/privacy_policy.css" media="screen" rel="stylesheet" type="text/css">
+
+
+
+  <script type="text/javascript"> 
+    // BELOW IS THE PRIMARY GA TRACKING FOR THE PRODUCTION SITE
+  var _gaq = _gaq || []; 
+  _gaq.push(['_setAccount', 'UA-497484-2']); // THIS IS THE ACCURATE GA ACCOUNT NUMBER BE CAREFUL OF THIS NUMBER
+  _gaq.push(['_setDomainName', 'charitybuzz.com']);
+  _gaq.push(['_setCustomVar', 1, 'Area', '',3]);
+  _gaq.push(['_setCustomVar', 2, 'Category', '',3]);
+  _gaq.push(['_setCustomVar', 3, 'Organisation', '',3]);
+  _gaq.push(['_trackPageview']); 
+
+  (function() { 
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
+  })();
+
+  // below is necessary for twitter
+
+    window.twttr = (function (d,s,id) {
+      var t, js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+      js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+      return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+    }(document, "script", "twitter-wjs"));
+
+  function trackTwitter(intent_event) {
+    if (intent_event) {
+      var opt_target;
+      if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+            opt_target = extractParamFromUri(intent_event.target.src, 'url');
+      }
+      _gaq.push(['_trackSocial', 'twitter', 'tweet', opt_target]);
+    }
+  }
+
+  //Wrap event bindings - Wait for async js to load
+  twttr.ready(function (twttr) {
+    //event bindings
+    twttr.events.bind('tweet', trackTwitter);
+  });
+
+	function extractParamFromUri(uri, paramName) {
+	  if (!uri) {
+	    return;
+	  }
+	  var regex = new RegExp('[\\?&#]' + paramName + '=([^&#]*)');
+	  var params = regex.exec(uri);
+	  if (params != null) {
+	    return unescape(params[1]);
+	  }
+	  return;
+	}
+
+	// end of twitter
+
+	function trackNewsletterSignup() {
+		 _gaq.push(['_trackEvent', 'newsletter', 'signup', 'success']);
+	}
+</script>  
+
+
+  <script type="text/javascript">
+  // For select-a-charity GA
+    $(document).ready(function() {
+      $(".sac-styler").change(function(event) {
+        var label = $('select.sac-styler option:selected').text();
+        var path = $('select.sac-styler option:selected').val();
+        _gaq.push(['_trackEvent', 'sac', 'sac-selection', label]);
+        window.location.href = path;
+      })
+    });
+
+    </script>
+<!-- Required to bypass cdn svg isuse -->
+ <style type="text/css">
+  @font-face {
+  font-family: "FontAwesome";
+  src: url('/fontawesome/font/fontawesome-webfont.eot');
+  src: url('/fontawesome/font/fontawesome-webfont.eot?#iefix') format('eot'), 
+  url('/fontawesome/font/fontawesome-webfont.woff') format('woff'), 
+  url('/fontawesome/font/fontawesome-webfont.ttf') format('truetype'), 
+  url('/fontawesome/font/fontawesome-webfont.svg#FontAwesome') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+ </style>
 </head>
-<body>
-
+<body data-env="production">
+  <div id="fb-root"></div>
   <div id="container" class="clearfix">
+
     
-	  
-	  
-		
-		<div class="clear"></div>
+
+    <div class="clear"></div>
     <div class="clearfix" id="header">
   <!-- =====================================================
           Log In
   ====================================================== -->
   <div id="logIn">
-    
 
-    
+      <a onclick="showBox('logIn-form');" href="javascript:void(0);" class="cssButton btnLogin">Log in</a>
+      <a href="/registration" class="cssButton btnSizeMd btnRegister">Register</a>
 
-    <div class="clear"><!-- --></div>
-
-    
-      <a href="/registration" class="bu-register rbutton"><span>Register to bid</span></a>
-      <a onclick="showBox('logIn-form');" href="javascript:void(0);" class="bu-logIn rbutton"><span>Log in</span></a>
-
-      <!--
-      <p class="selectLanguage">
-        
-          Inglese
-        
-        <span>|</span> 
-        
-          <a href="http://www.charitybuzz.com/">Italiano</a>
-        
-      </p>
-      -->
-
-      <form action="https://www.charitybuzz.com/account/login" class="clearfix" id="logIn-form" method="post">
-    	<a onclick="hideBox('logIn-form');" href="javascript:void(0);" class="bu-close">Cancel</a>
-      <div class="clear"><!-- --></div>
-        <input id="return_to" name="return_to" type="hidden">
-      	<h4 style="margin-right: -50px"><img alt="Account log-in" src="http://assets2.charitybuzz.com/assets/5bda1f184/images/account/account_login.png"></h4>
+      <form accept-charset="UTF-8" action="https://www.charitybuzz.com/account/login" class="clearfix" id="logIn-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="C60tkiLmvTM8YWkp2nGc+UB2vru0rHdGH9nnhqAAl+s="></div>
+        <a onclick="hideBox('logIn-form');" href="javascript:void(0);"><i class="icon-remove-sign closeLoginSlideout"> &nbsp;</i></a>
+        <div class="clear"><!-- --></div>
+        <input id="return_to" name="return_to" type="hidden" value="">
+      	<h4 class="html_headers_black" style="margin: -13px 0 20px 0;font-size: 26px;">Account Login </h4>
         <div class="clear"><!-- --></div>
       	<label for="loginEmail">Email Address:</label>
         <input type="text" value="" id="loginEmail" name="email_primary" class="textbox">
@@ -69,25 +137,26 @@
         <label for="loginPass">Password:</label>
         <input type="password" id="loginPass" name="password" class="textbox">
         <div class="clear"><!-- --></div>
-        <button class="submit" type="submit">Submit</button>
+        <button class="cssButton btnActLogin" type="Log In">Log In</button>
         <div class="clear"><!-- --></div>
         <a href="/account/reset_password" class="forgot">Forgot Password?</a>
         <div class="clear"><!-- --></div>
-        <div style="text-align: center;"><img alt="or" src="http://assets2.charitybuzz.com/assets/4257ae8c7/images/account/or_registration.png" style="margin-top:10px; margin-bottom: 5px">
-        <a href="/auth/facebook"><img alt="Log in via Facebook" src="http://assets0.charitybuzz.com/assets/3c8d2c3de/images/account/fb-connect.png"></a></div>
+        <div style="text-align: center;"><img alt="or" src="http://assets3.charitybuzz.com/assets/4257ae8c7/images/account/or_registration.png" style="margin-top:10px; margin-bottom: 5px">
+        <a href="http://www.charitybuzz.com/auth/facebook"><img alt="Log in via Facebook" src="http://assets3.charitybuzz.com/assets/3c8d2c3de/images/account/fb-connect.png"></a></div>
         <div class="clear"><!-- --></div>
-      </form>
-    
-<div class="clear"><!-- --></div>
- <form id="searchFormHead" action="/search">
- 	<input type="submit" class="submitBtn rbutton" value=""><input type="text" class="textbox jq_watermark" name="keywords" autocomplete="off" title="enter keyword(s) or item #"> <span style="line-height:23px;">Search &nbsp;</span>
- </form>
-  </div><!-- /logIn --> 
-<div id="newsletter-signUp-Box">
-     <div id="newsletter-signUp">	
+</form>
+    <div class="clear"><!-- --></div>
+
+    <form id="searchFormHead" action="/search" name="searchForm">
+      <a href="javascript: submitSearchform()" style="float:right;font-size: 23px;margin-top: 2px;margin-left: 5px;"><i class="icon-search">&nbsp;</i> </a>
+      <input type="text" class="textbox jq_watermark" name="keywords" autocomplete="off" title="enter keyword(s) or item #"> <span style="line-height:23px;">Search &nbsp;</span>
+    </form>
+  </div><!-- /logIn -->
+  <div id="newsletter-signUp-Box">
+    <div id="newsletter-signUp">
 	    <a onclick="hideBox('newsletter-signUp-Box');" href="javascript:void(0);" class="bu-close" style="height:23px; float:right; text-indent:-100em; overflow:hidden; display:block; width:1px; margin-right:285px;">Cancel</a>
-	<div class="clear"><!-- --></div>
-	       <script type="text/javascript" charset="utf-8">
+      <div class="clear"><!-- --></div>
+	      <script type="text/javascript" charset="utf-8">
   jQuery(function($) {
 	$('#newsletter-signUp-foot').live('submit', function() {
       // submit the form
@@ -100,8 +169,10 @@
 	        	})
             
 //            _gaq.push(['_trackEvent', 'newsletter', 'signup', emailAddr, 1]);
-        var pageTracker=_gat._getTracker("UA-497484-2");
-        pageTracker._trackEvent('newsletter', 'signup', 'success', 0);
+        // var pageTracker=_gat._getTracker("UA-497484-2");
+        // pageTracker._trackEvent('newsletter', 'signup', 'success', 0);
+
+         _gaq.push(['_trackEvent', 'newsletter', 'signup', 'success', 0]);
 
         setTimeout(wasteTime(), 100);
 			},
@@ -118,85 +189,83 @@ function wasteTime() {
 </script>
 
 <form id="newsletter-signUp-foot" action="/signup/create" method="post" name="newsletter-signUp" class="newsletter-signUp">
-  
     <input type="hidden" name="source" value="buzz">
     <input type="text" title="Email address" value="" id="email" name="email_address" class="textbox jq_watermark">
-	  
-  		<label for="email">Subscribe to our newsletter</label>
-		
-		
+        <label for="email">Subscribe to our newsletter</label>
+
     <div class="clear"><!-- --></div>
     <input type="submit" style="padding:0px; margin:0px; height:23px; float:right; padding-right:10px; border:0px; background-color:transparent; text-decoration:underline; color:#B31200; cursor:pointer;" value="Submit">
-  	
   <div class="clear"><!-- --></div>
   
-  
 </form>
-	  </div>
-
+    </div>
 	</div>
 
-  <!-- =====================================================
-          charitybuzz logo
-  ====================================================== -->
   <h1>
-    <a href="http://www.charitybuzz.com/">
-      
-        <img alt="charitybuzz - Do good, live well" height="58" src="http://assets3.charitybuzz.com/assets/b7d78dfed/images/header/logo-charitybuzz-red.png" width="464">
-      
-    </a>
+    <a href="http://www.charitybuzz.com/"><img alt="Charitybuzz Logo" height="67" src="http://assets3.charitybuzz.com/assets/1745b5038/images/logo-high-res-retina-holiday.png" width="470"></a>
+    <!-- display standard logo after dec 25.2012 -->
   </h1>
 </div>
 
 
+
+
+
+
+
+
+    
+
     <!-- =====================================================
-    		PAGE
-    ======================================================= -->        
-  	<div id="page">
+        PAGE
+    ======================================================= -->
+    <div id="page">
       <div class="tl"><div class="tr"><div class="br"><div class="bl">
-      	<div class="boxContent clearfix">
+        <div class="boxContent clearfix">
 
 
 
-  			<!-- =====================================================
-  					Nav
-  			====================================================== -->
-  			<ul id="nav" class="clearfix">
-  				<li id="nav-homeb">	 	<a href="/" id="home-link"><span>Home</span></a></li>
+          	<!-- =====================================================
+			Nav
+	====================================================== -->
+	<ul id="nav2" class="clearfix">
+	  <li class="newtextnav"> <a href="/" alt="Home">Home </a></li>
+    <li class="newtextnav"> <a href="/auctions" alt="Auction">Auctions </a></li>
+    <li class="newtextnav"> <a href="http://charitybuzz.tumblr.com/" target="_blank" alt="Auction">Blog </a></li>
+    <li class="newtextnav"> <a href="/testimonials" alt="Testimonials">Testimonials </a></li>
+    <li class="newtextnav"> <a href="/contact_us" alt="Contact Us">Contact Us </a></li>
+    <li class="newtextnav" style="border:0" alt="Dream Big"> <a href="/dogooddreambig">Dream Big <sup>NEW</sup></a></li>
+	</ul><!-- /nav -->  <ul id="sprite-social">
+<li><a href="http://www.facebook.com/pages/charitybuzz/16001862036?ref=ts" class="fb" target="_blank"><span>Facebook</span></a></li>
+<li><a href="http://www.twitter.com/charitybuzz" class="tw" target="_blank"><span>twitter</span></a></li>
+<li><a href="http://www.youtube.com/user/charitybuzz" class="yt" target="_blank"><span>youtube</span></a></li>
+<li><a href="http://charitybuzz.tumblr.com/" class="tm" target="_blank"><span>tumblr</span></a></li>
+<li><form id="emailsubscribe" action="/signup/create" method="post" name="newsletter-signUp">
+<input type="hidden" name="source" value="buzz">	
+<input type="text" class="subscribeemails required email" value="Join mailing list" placeholder="Join mailing list" onfocus="clearContents(this);" name="email_address" autocomplete="off"><input type="submit" value="+" class="NewEmailSubBtn" onclick="trackNewsletterSignup();"> </form></li>
 
-  				<li id="nav-auctionsb">	<a href="/auctions"><span>Auctions</span></a></li>
-  				<!-- <li id="nav-eventsb"> 	<a href="/events"><span>Events</span></a></li> -->
-  				<li id="nav-blogb">  	<a href="http://charitybuzz.tumblr.com/" target="_blank"><span>Blog</span></a></li>
-  				<!-- <li id="nav-blogb">  	<a href="http://blog.charitybuzz.com/charityBlog/"><span>Blog</span></a></li> -->
-					<li id="nav-testimonialsb">   	<a href="/testimonials"><span>Testimonials</span></a></li>
-					<li id="nav-contactb">	<a href="/contact_us"><span>Contact Us</span></a></li>
-					<!--<li id="nav-holiday">	<a href="/holidaygifts"><span>Holiday Gifts</span></a></li>-->
+</ul>
 
 
-  			</ul><!-- /nav -->
 
+      <div id="page-inner"><div class="tl"><div class="tr"><div class="clearfix">
 
-            <ul id="social">
-            <li class="words">Subscribe </li>
-	            <li class="em"><a onclick="showBox('newsletter-signUp-Box');" href="javascript:void(0);" id="em"><span>email</span></a></li>
-            <li class="words">Follow us</li>
-            <li><a href="http://www.facebook.com/pages/charitybuzz/16001862036?ref=ts" id="fb" target="_blank"><span>Facebook</span></a></li>
-            <li><a href="http://www.twitter.com/charitybuzz" id="tw" target="_blank"><span>twitter</span></a></li>
-            <li><a href="http://www.youtube.com/user/charitybuzz" id="yt" target="_blank"><span>youtube</span></a></li>
-            <li><a href="http://charitybuzz.tumblr.com/" id="tm" target="_blank"><span>tumblr</span></a></li>
-            </ul>
-     
-      
-			<div id="page-inner"><div class="tl"><div class="tr"><div class="clearfix">
-      
-	  
-	  
             <!-- ================
-          	      Sidebar
-          	========================= -->
-          	<div id="sidebar">
-          	  
-                <!-- =====================================================
+                  Sidebar
+            ========================= -->
+            <div id="sidebar">
+                  <script type="text/javascript">
+  (function() {
+    var config = {
+      kitId: 'tzi2ozj',
+      scriptTimeout: 3000
+    };
+    var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/(\s|^)wf-loading(\s|$)/g," ");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script"),d=false;tk.src='//use.typekit.net/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(d||a&&a!="complete"&&a!="loaded")return;d=true;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)
+  })();
+</script>
+
+
+<!-- =====================================================
       Featured
 ====================================================== -->
 <div id="nav-featured">
@@ -212,865 +281,739 @@ function wasteTime() {
     <!-- <h3><a href="#">Browse by Category</a></h3> -->
     <ul class="browse-list">
       
-        
-          
-  <li id="category-14">
+            <li id="category-95" class="category-95">
+    <a href="/categories/95/catalog_items">
+      Holiday Gift Guide
+      <nobr><span class="auctionCount">(121)</span></nobr>
+</a>      <ul>
+            <li id="category-101" class="category-101">
+    <a href="/categories/101/catalog_items">
+      12 Days of Giving
+      <nobr><span class="auctionCount">(6)</span></nobr>
+</a>  </li>
+
+            <li id="category-96" class="category-96">
+    <a href="/categories/96/catalog_items">
+      For Him
+      <nobr><span class="auctionCount">(21)</span></nobr>
+</a>  </li>
+
+            <li id="category-97" class="category-97">
+    <a href="/categories/97/catalog_items">
+      For Her
+      <nobr><span class="auctionCount">(22)</span></nobr>
+</a>  </li>
+
+            <li id="category-98" class="category-98">
+    <a href="/categories/98/catalog_items">
+      For The Family
+      <nobr><span class="auctionCount">(30)</span></nobr>
+</a>  </li>
+
+            <li id="category-99" class="category-99">
+    <a href="/categories/99/catalog_items">
+      Little Luxuries
+      <nobr><span class="auctionCount">(16)</span></nobr>
+</a>  </li>
+
+            <li id="category-100" class="category-100">
+    <a href="/categories/100/catalog_items">
+      Living Large
+      <nobr><span class="auctionCount">(34)</span></nobr>
+</a>  </li>
+
+        <li class="menu-subbottom last">
+          <a href="/categories/95/catalog_items">
+            view all
+</a>        </li>
+      </ul>
+  </li>
+
+            <li id="category-14" class="category-14">
     <a href="/categories/14/catalog_items">
       Celebrity
-      <nobr><span class="auctionCount">(187)</span></nobr>    
-    </a>
-    
-      <ul>
-        
-          
-  <li id="category-15">
+      <nobr><span class="auctionCount">(87)</span></nobr>
+</a>      <ul>
+            <li id="category-15" class="category-15">
     <a href="/categories/15/catalog_items">
       Meet &amp; Greet
-      <nobr><span class="auctionCount">(129)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(41)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-16">
+            <li id="category-16" class="category-16">
     <a href="/categories/16/catalog_items">
       One-on-One
-      <nobr><span class="auctionCount">(72)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(41)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-17">
+            <li id="category-17" class="category-17">
     <a href="/categories/17/catalog_items">
       Set Visits
-      <nobr><span class="auctionCount">(31)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(13)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-18">
+            <li id="category-18" class="category-18">
     <a href="/categories/18/catalog_items">
       Walk-Ons
-      <nobr><span class="auctionCount">(1)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(1)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-19">
+            <li id="category-19" class="category-19">
     <a href="/categories/19/catalog_items">
       Awards Shows &amp; Events
-      <nobr><span class="auctionCount">(5)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(7)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-20">
+            <li id="category-20" class="category-20">
     <a href="/categories/20/catalog_items">
       Virtual Experiences
-      <nobr><span class="auctionCount">(5)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(5)</span></nobr>
+</a>  </li>
 
-        
         <li class="menu-subbottom last">
           <a href="/categories/14/catalog_items">
             view all
-          </a>
-        </li>
+</a>        </li>
       </ul>
-    
   </li>
 
-        
-          
-  <li id="category-21">
+            <li id="category-21" class="category-21">
     <a href="/categories/21/catalog_items">
       Entertainment
-      <nobr><span class="auctionCount">(286)</span></nobr>    
-    </a>
-    
-      <ul>
-        
-          
-  <li id="category-22">
+      <nobr><span class="auctionCount">(158)</span></nobr>
+</a>      <ul>
+            <li id="category-22" class="category-22">
     <a href="/categories/22/catalog_items">
       Set Visits
-      <nobr><span class="auctionCount">(72)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(42)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-23">
+            <li id="category-23" class="category-23">
     <a href="/categories/23/catalog_items">
       Walk-Ons &amp; Auditions
-      <nobr><span class="auctionCount">(14)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(5)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-24">
+            <li id="category-24" class="category-24">
     <a href="/categories/24/catalog_items">
       In the Audience
-      <nobr><span class="auctionCount">(119)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(72)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-25">
+            <li id="category-25" class="category-25">
     <a href="/categories/25/catalog_items">
       Premieres &amp; Screenings
-      <nobr><span class="auctionCount">(15)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(7)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-26">
+            <li id="category-26" class="category-26">
     <a href="/categories/26/catalog_items">
       Broadway &amp; Theatre
-      <nobr><span class="auctionCount">(68)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(21)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-88">
+            <li id="category-88" class="category-88">
     <a href="/categories/88/catalog_items">
       Awards Shows &amp; Events
-      <nobr><span class="auctionCount">(31)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(20)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-27">
+            <li id="category-27" class="category-27">
     <a href="/categories/27/catalog_items">
       Children &amp; Teens
-      <nobr><span class="auctionCount">(23)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(11)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-28">
+            <li id="category-28" class="category-28">
     <a href="/categories/28/catalog_items">
       Memorabilia
-      <nobr><span class="auctionCount">(41)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(34)</span></nobr>
+</a>  </li>
 
-        
         <li class="menu-subbottom last">
           <a href="/categories/21/catalog_items">
             view all
-          </a>
-        </li>
+</a>        </li>
       </ul>
-    
   </li>
 
-        
-          
-  <li id="category-29">
+            <li id="category-29" class="category-29">
     <a href="/categories/29/catalog_items">
       Music
-      <nobr><span class="auctionCount">(152)</span></nobr>    
-    </a>
-    
-      <ul>
-        
-          
-  <li id="category-30">
+      <nobr><span class="auctionCount">(102)</span></nobr>
+</a>      <ul>
+            <li id="category-30" class="category-30">
     <a href="/categories/30/catalog_items">
       Concerts &amp; Events
-      <nobr><span class="auctionCount">(126)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(48)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-31">
+            <li id="category-31" class="category-31">
     <a href="/categories/31/catalog_items">
       Meet the Artist
-      <nobr><span class="auctionCount">(97)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(28)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-32">
+            <li id="category-32" class="category-32">
     <a href="/categories/32/catalog_items">
       Guitars &amp; Instruments
-      <nobr><span class="auctionCount">(11)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(33)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-33">
+            <li id="category-33" class="category-33">
     <a href="/categories/33/catalog_items">
       Memorabilia
-      <nobr><span class="auctionCount">(37)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(45)</span></nobr>
+</a>  </li>
 
-        
         <li class="menu-subbottom last">
           <a href="/categories/29/catalog_items">
             view all
-          </a>
-        </li>
+</a>        </li>
       </ul>
-    
   </li>
 
-        
-          
-  <li id="category-34">
+            <li id="category-34" class="category-34">
     <a href="/categories/34/catalog_items">
       Travel
-      <nobr><span class="auctionCount">(119)</span></nobr>    
-    </a>
-    
-      <ul>
-        
-          
-  <li id="category-35">
+      <nobr><span class="auctionCount">(127)</span></nobr>
+</a>      <ul>
+            <li id="category-35" class="category-35">
     <a href="/categories/35/catalog_items">
       North America
-      <nobr><span class="auctionCount">(74)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(55)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-36">
+            <li id="category-36" class="category-36">
     <a href="/categories/36/catalog_items">
       Caribbean
-      <nobr><span class="auctionCount">(15)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(23)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-91">
+            <li id="category-91" class="category-91">
     <a href="/categories/91/catalog_items">
       Mexico &amp; Central America
-      <nobr><span class="auctionCount">(8)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(12)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-37">
+            <li id="category-37" class="category-37">
     <a href="/categories/37/catalog_items">
       South America
-      <nobr><span class="auctionCount">(6)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(18)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-38">
+            <li id="category-38" class="category-38">
     <a href="/categories/38/catalog_items">
       Europe &amp; UK
-      <nobr><span class="auctionCount">(17)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(5)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-39">
+            <li id="category-39" class="category-39">
     <a href="/categories/39/catalog_items">
       Africa
-      <nobr><span class="auctionCount">(7)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(8)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-40">
+            <li id="category-40" class="category-40">
     <a href="/categories/40/catalog_items">
       Asia &amp; the Mid East
-      <nobr><span class="auctionCount">(7)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(10)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-41">
+            <li id="category-41" class="category-41">
     <a href="/categories/41/catalog_items">
       Australia, Pacific
-      <nobr><span class="auctionCount">(7)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(6)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-42">
+            <li id="category-42" class="category-42">
     <a href="/categories/42/catalog_items">
       Private Residence
-      <nobr><span class="auctionCount">(5)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(7)</span></nobr>
+</a>  </li>
 
-        
-          
-        
-          
-  <li id="category-44">
+            <li id="category-43" class="category-43">
+    <a href="/categories/43/catalog_items">
+      Eco-Adventures
+      <nobr><span class="auctionCount">(35)</span></nobr>
+</a>  </li>
+
+            <li id="category-44" class="category-44">
     <a href="/categories/44/catalog_items">
       Spa &amp; Wellness
-      <nobr><span class="auctionCount">(7)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(6)</span></nobr>
+</a>  </li>
 
-        
         <li class="menu-subbottom last">
           <a href="/categories/34/catalog_items">
             view all
-          </a>
-        </li>
+</a>        </li>
       </ul>
-    
   </li>
 
-        
-          
-  <li id="category-45">
+            <li id="category-45" class="category-45">
     <a href="/categories/45/catalog_items">
       Sports
-      <nobr><span class="auctionCount">(184)</span></nobr>    
-    </a>
-    
-      <ul>
-        
-          
-  <li id="category-46">
+      <nobr><span class="auctionCount">(88)</span></nobr>
+</a>      <ul>
+            <li id="category-46" class="category-46">
     <a href="/categories/46/catalog_items">
       Tickets &amp; Events
-      <nobr><span class="auctionCount">(109)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(27)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-47">
+            <li id="category-47" class="category-47">
     <a href="/categories/47/catalog_items">
       Exclusive Access
-      <nobr><span class="auctionCount">(96)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(32)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-48">
+            <li id="category-48" class="category-48">
     <a href="/categories/48/catalog_items">
       Football
-      <nobr><span class="auctionCount">(41)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(8)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-49">
+            <li id="category-49" class="category-49">
     <a href="/categories/49/catalog_items">
       Baseball
-      <nobr><span class="auctionCount">(48)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(22)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-50">
+            <li id="category-50" class="category-50">
     <a href="/categories/50/catalog_items">
       Basketball
-      <nobr><span class="auctionCount">(17)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(15)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-51">
+            <li id="category-51" class="category-51">
     <a href="/categories/51/catalog_items">
       Golf
-      <nobr><span class="auctionCount">(27)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(12)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-52">
+            <li id="category-92" class="category-92">
+    <a href="/categories/92/catalog_items">
+      Boxing
+      <nobr><span class="auctionCount">(12)</span></nobr>
+</a>  </li>
+
+            <li id="category-52" class="category-52">
     <a href="/categories/52/catalog_items">
       Tennis
-      <nobr><span class="auctionCount">(6)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(2)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-54">
+            <li id="category-54" class="category-54">
     <a href="/categories/54/catalog_items">
       Memorabilia
-      <nobr><span class="auctionCount">(21)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(23)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-89">
+            <li id="category-89" class="category-89">
     <a href="/categories/89/catalog_items">
       NASCAR
-      <nobr><span class="auctionCount">(2)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(1)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-90">
+            <li id="category-90" class="category-90">
     <a href="/categories/90/catalog_items">
       Motor Sports
-      <nobr><span class="auctionCount">(4)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(2)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-53">
+            <li id="category-53" class="category-53">
     <a href="/categories/53/catalog_items">
       Other Sports
-      <nobr><span class="auctionCount">(32)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(22)</span></nobr>
+</a>  </li>
 
-        
         <li class="menu-subbottom last">
           <a href="/categories/45/catalog_items">
             view all
-          </a>
-        </li>
+</a>        </li>
       </ul>
-    
   </li>
 
-        
-          
-  <li id="category-55">
+            <li id="category-55" class="category-55">
     <a href="/categories/55/catalog_items">
       Fashion
-      <nobr><span class="auctionCount">(120)</span></nobr>    
-    </a>
-    
-      <ul>
-        
-          
-  <li id="category-56">
+      <nobr><span class="auctionCount">(59)</span></nobr>
+</a>      <ul>
+            <li id="category-56" class="category-56">
     <a href="/categories/56/catalog_items">
       Apparel
-      <nobr><span class="auctionCount">(32)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(7)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-57">
+            <li id="category-57" class="category-57">
     <a href="/categories/57/catalog_items">
       Jewelry
-      <nobr><span class="auctionCount">(21)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(19)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-58">
+            <li id="category-58" class="category-58">
     <a href="/categories/58/catalog_items">
       Timepieces
-      <nobr><span class="auctionCount">(6)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(3)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-59">
+            <li id="category-59" class="category-59">
     <a href="/categories/59/catalog_items">
       Accessories
-      <nobr><span class="auctionCount">(45)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(14)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-60">
+            <li id="category-60" class="category-60">
     <a href="/categories/60/catalog_items">
       Fashion Shows
-      <nobr><span class="auctionCount">(11)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(7)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-61">
+            <li id="category-61" class="category-61">
     <a href="/categories/61/catalog_items">
       Behind the Scenes
-      <nobr><span class="auctionCount">(15)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(11)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-62">
+            <li id="category-62" class="category-62">
     <a href="/categories/62/catalog_items">
       Shopping Sprees
-      <nobr><span class="auctionCount">(17)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(4)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-63">
+            <li id="category-63" class="category-63">
     <a href="/categories/63/catalog_items">
       For Men
-      <nobr><span class="auctionCount">(2)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(2)</span></nobr>
+</a>  </li>
 
-        
         <li class="menu-subbottom last">
           <a href="/categories/55/catalog_items">
             view all
-          </a>
-        </li>
+</a>        </li>
       </ul>
-    
   </li>
 
-        
-          
-  <li id="category-64">
+            <li id="category-64" class="category-64">
     <a href="/categories/64/catalog_items">
       Merchandise
-      <nobr><span class="auctionCount">(16)</span></nobr>    
-    </a>
-    
-      <ul>
-        
-          
-        
-          
-  <li id="category-66">
+      <nobr><span class="auctionCount">(43)</span></nobr>
+</a>      <ul>
+            <li id="category-65" class="category-65">
+    <a href="/categories/65/catalog_items">
+      Vehicles
+      <nobr><span class="auctionCount">(5)</span></nobr>
+</a>  </li>
+
+            <li id="category-66" class="category-66">
     <a href="/categories/66/catalog_items">
       Electronics
-      <nobr><span class="auctionCount">(2)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(6)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-67">
+            <li id="category-67" class="category-67">
     <a href="/categories/67/catalog_items">
       For Home
-      <nobr><span class="auctionCount">(12)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(24)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-68">
+            <li id="category-68" class="category-68">
     <a href="/categories/68/catalog_items">
       For Children
-      <nobr><span class="auctionCount">(4)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(21)</span></nobr>
+</a>  </li>
 
-        
           
-        
         <li class="menu-subbottom last">
           <a href="/categories/64/catalog_items">
             view all
-          </a>
-        </li>
+</a>        </li>
       </ul>
-    
   </li>
 
-        
-          
-  <li id="category-70">
+            <li id="category-70" class="category-70">
     <a href="/categories/70/catalog_items">
       Business Experiences
-      <nobr><span class="auctionCount">(91)</span></nobr>    
-    </a>
-    
-      <ul>
-        
-          
-  <li id="category-71">
+      <nobr><span class="auctionCount">(60)</span></nobr>
+</a>      <ul>
+            <li id="category-71" class="category-71">
     <a href="/categories/71/catalog_items">
       Internships
-      <nobr><span class="auctionCount">(23)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(18)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-72">
+            <li id="category-72" class="category-72">
     <a href="/categories/72/catalog_items">
       Executive One-on-One
-      <nobr><span class="auctionCount">(41)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(20)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-73">
+            <li id="category-73" class="category-73">
     <a href="/categories/73/catalog_items">
       Professional Consultations
-      <nobr><span class="auctionCount">(39)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(27)</span></nobr>
+</a>  </li>
 
-        
+            <li id="category-93" class="category-93">
+    <a href="/categories/93/catalog_items">
+      Behind the Scenes
+      <nobr><span class="auctionCount">(10)</span></nobr>
+</a>  </li>
+
+            <li id="category-94" class="category-94">
+    <a href="/categories/94/catalog_items">
+      Politicos
+      <nobr><span class="auctionCount">(1)</span></nobr>
+</a>  </li>
+
         <li class="menu-subbottom last">
           <a href="/categories/70/catalog_items">
             view all
-          </a>
-        </li>
+</a>        </li>
       </ul>
-    
   </li>
 
-        
-          
-  <li id="category-74">
+            <li id="category-74" class="category-74">
     <a href="/categories/74/catalog_items">
       Art &amp; Collectibles
-      <nobr><span class="auctionCount">(61)</span></nobr>    
-    </a>
-    
-      <ul>
-        
-          
-  <li id="category-75">
+      <nobr><span class="auctionCount">(45)</span></nobr>
+</a>      <ul>
+            <li id="category-75" class="category-75">
     <a href="/categories/75/catalog_items">
       Artwork
-      <nobr><span class="auctionCount">(32)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(26)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-76">
+            <li id="category-76" class="category-76">
     <a href="/categories/76/catalog_items">
       Photography
-      <nobr><span class="auctionCount">(23)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(20)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-77">
+            <li id="category-77" class="category-77">
     <a href="/categories/77/catalog_items">
       Posters &amp; Memorabilia
-      <nobr><span class="auctionCount">(10)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(5)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-78">
+            <li id="category-78" class="category-78">
     <a href="/categories/78/catalog_items">
       Behind the Scenes
-      <nobr><span class="auctionCount">(14)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(4)</span></nobr>
+</a>  </li>
 
-        
         <li class="menu-subbottom last">
           <a href="/categories/74/catalog_items">
             view all
-          </a>
-        </li>
+</a>        </li>
       </ul>
-    
   </li>
 
-        
-          
-  <li id="category-79">
+            <li id="category-79" class="category-79">
     <a href="/categories/79/catalog_items">
       Food
-      <nobr><span class="auctionCount">(57)</span></nobr>    
-    </a>
-    
-      <ul>
-        
-          
-  <li id="category-80">
+      <nobr><span class="auctionCount">(31)</span></nobr>
+</a>      <ul>
+            <li id="category-80" class="category-80">
     <a href="/categories/80/catalog_items">
       Celebrity Chefs
-      <nobr><span class="auctionCount">(10)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(5)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-81">
+            <li id="category-81" class="category-81">
     <a href="/categories/81/catalog_items">
       Fine Dining
-      <nobr><span class="auctionCount">(31)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(14)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-82">
+            <li id="category-82" class="category-82">
     <a href="/categories/82/catalog_items">
       Cooking
-      <nobr><span class="auctionCount">(9)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(3)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-83">
+            <li id="category-83" class="category-83">
     <a href="/categories/83/catalog_items">
       Wine, Spirits &amp; Food
-      <nobr><span class="auctionCount">(27)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(15)</span></nobr>
+</a>  </li>
 
-        
         <li class="menu-subbottom last">
           <a href="/categories/79/catalog_items">
             view all
-          </a>
-        </li>
+</a>        </li>
       </ul>
-    
   </li>
 
-        
-          
-  <li id="category-84">
+            <li id="category-84" class="category-84">
     <a href="/categories/84/catalog_items">
       Wellness &amp; Beauty
-      <nobr><span class="auctionCount">(49)</span></nobr>    
-    </a>
-    
-      <ul>
-        
-          
-  <li id="category-85">
+      <nobr><span class="auctionCount">(22)</span></nobr>
+</a>      <ul>
+            <li id="category-85" class="category-85">
     <a href="/categories/85/catalog_items">
       Makeovers
-      <nobr><span class="auctionCount">(15)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(4)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-86">
+            <li id="category-86" class="category-86">
     <a href="/categories/86/catalog_items">
       Spa &amp; Skincare
-      <nobr><span class="auctionCount">(28)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(8)</span></nobr>
+</a>  </li>
 
-        
-          
-  <li id="category-87">
+            <li id="category-87" class="category-87">
     <a href="/categories/87/catalog_items">
       Nutrition &amp; Well Being
-      <nobr><span class="auctionCount">(15)</span></nobr>    
-    </a>
-    
-  </li>
+      <nobr><span class="auctionCount">(13)</span></nobr>
+</a>  </li>
 
-        
         <li class="menu-subbottom last">
           <a href="/categories/84/catalog_items">
             view all
-          </a>
-        </li>
+</a>        </li>
       </ul>
-    
   </li>
 
-        
       
-  <li class="viewAll"><a href="/catalog_items">view all</a></li>
+  <li class="viewAll"><a href="/catalog_items?ref=reset">view all</a></li>
     </ul>
+      
+      	 <!-- =====================================================
+             select-a-charity-wrapper
+      ====================================================== -->
+
+      <div id="select-a-charity-wrapper">
+    		<select class="sac-styler" style="width:170px;">
+					<option value="#">Select a Charity</option>
+					    <option value="/support/1585"> United States Intercollegiate Boxing Association</option>
+					    <option value="/support/RED">(RED)</option>
+					    <option value="/support/abilitree">Abilitree</option>
+					    <option value="/support/616">ACE New York</option>
+					    <option value="/support/aclu">ACLU of Southern California</option>
+					    <option value="/support/aliforneycenter">Ali Forney Center</option>
+					    <option value="/support/artnewyork">Alliance of Resident Theatres/New York</option>
+					    <option value="/support/1148">Alonzo Mourning Charities</option>
+					    <option value="/support/487">American Red Cross</option>
+					    <option value="/support/382">Autism Speaks</option>
+					    <option value="/support/BFHHF">Barkann Family Healing Hearts Foundation</option>
+					    <option value="/support/BarnesFoundation">Barnes Foundation</option>
+					    <option value="/support/Bellewood">Bellewood Home for Children</option>
+					    <option value="/support/690">Blue Ocean Institute</option>
+					    <option value="/support/BootCampaign">Boot Campaign</option>
+					    <option value="/support/crest">Center for Responsible Travel (CREST)</option>
+					    <option value="/support/ChildrenMendingHearts">Children Mending Hearts</option>
+					    <option value="/support/ChildrenoftheCaribbean">Children of the Caribbean Foundation</option>
+					    <option value="/support/CHF">Children's Health Fund</option>
+					    <option value="/support/1394">Choices in Childbirth</option>
+					    <option value="/support/chrisevert">Chris Evert Pro-Celebrity Tennis Classic</option>
+					    <option value="/support/ComcastSpectacor">Comcast-Spectacor Charities</option>
+					    <option value="/support/1414">Common Ground Foundation</option>
+					    <option value="/support/costaverde">Costa Verde International School</option>
+					    <option value="/support/Shannon">Daniel P. Ryan Foundation in Support of Hope Shines for Shannon</option>
+					    <option value="/support/978">David Lynch Foundation </option>
+					    <option value="/support/1114">Death Penalty Focus</option>
+					    <option value="/support/1609">Dignity U Wear</option>
+					    <option value="/support/EcotourismAustralia">Ecotourism Australia</option>
+					    <option value="/support/419">Elton John AIDS Foundation</option>
+					    <option value="/support/13">Gabrielle's Angel Foundation -- The Angel Ball</option>
+					    <option value="/support/GPP">Global Poverty Project</option>
+					    <option value="/support/256">GLSEN</option>
+					    <option value="/support/630">Habitat for Humanity of Greater Los Angeles</option>
+					    <option value="/support/496">Human Rights Campaign</option>
+					    <option value="/support/tennisfame">International Tennis Hall of Fame</option>
+					    <option value="/support/1634">Irish Autism Action</option>
+					    <option value="/support/JaneGoodallInstitute">Jane Goodall Institute</option>
+					    <option value="/support/348">Jayni &amp; Chevy Chase's GREEN Community Schools Initiative</option>
+					    <option value="/support/jetblue">JetBlue Bid for Good Benefitting KaBOOM! and PBS KIDS</option>
+					    <option value="/support/JohnnyDamonFoundation">Johnny Damon Foundation</option>
+					    <option value="/support/1447">La Jolla Playhouse</option>
+					    <option value="/support/LAspromise">LA's Promise</option>
+					    <option value="/support/laguardia">LaGuardia High School of Music, Art and the Performing Arts</option>
+					    <option value="/support/lambdalegal">LAMBDA Legal</option>
+					    <option value="/support/levittla">Levitt Pavilion MacArthur Park Los Angeles</option>
+					    <option value="/support/LCT">Lincoln Center Theater</option>
+					    <option value="/support/lbbc">Living Beyond Breast Cancer</option>
+					    <option value="/support/552">Love Heals</option>
+					    <option value="/support/1627">Lustgarten Foundation for Pancreatic Cancer</option>
+					    <option value="/support/32">Mayor's Fund to Advance New York City</option>
+					    <option value="/support/MonaFoundation">Mona Foundation</option>
+					    <option value="/support/661">MUSE Film and Television</option>
+					    <option value="/support/MusicandArtsUSA">Music and Arts USA</option>
+					    <option value="/support/123">Music for Relief</option>
+					    <option value="/support/moc">Musicians On Call</option>
+					    <option value="/support/1128">National Breast Cancer Coalition Fund</option>
+					    <option value="/support/1464">National Kidney Foundation</option>
+					    <option value="/support/AffiniaManhattan">New York Restoration Project</option>
+					    <option value="/support/43">New York Stage and Film</option>
+					    <option value="/support/nobully">No Bully</option>
+					    <option value="/support/NOH8">NOH8 Campaign</option>
+					    <option value="/support/nff">Noreen Fraser Foundation via Variety Foundation</option>
+					    <option value="/support/14">North Shore Animal League America</option>
+					    <option value="/support/NCPGA">Northern California PGA Foundation</option>
+					    <option value="/support/NYWCA">NYWCA – Charitable Giving Efforts</option>
+					    <option value="/support/OlMaloFoundation">Ol Malo Foundation</option>
+					    <option value="/support/pop">Pencils of Promise</option>
+					    <option value="/support/pointfoundation">Point Foundation</option>
+					    <option value="/support/Barbie">Project Angel Food</option>
+					    <option value="/support/1467">Prospect Park Alliance</option>
+					    <option value="/support/RisingStars">Rising Stars of America</option>
+					    <option value="/support/robinhood">Robin Hood Foundation</option>
+					    <option value="/support/1587">Rock School Fund</option>
+					    <option value="/support/rmhcsc">Ronald McDonald House Charities of Southern California</option>
+					    <option value="/support/rosiestheaterkids">Rosie's Theater Kids</option>
+					    <option value="/support/rossschool">Ross School</option>
+					    <option value="/support/71">Rush Philanthropic Arts Foundation</option>
+					    <option value="/support/samohi">SAMOHI Orchestras</option>
+					    <option value="/support/1520">Sea Save Foundation</option>
+					    <option value="/support/shineglobal">Shine Global</option>
+					    <option value="/support/skidmore">Skidmore College</option>
+					    <option value="/support/SportsSpectacular">Sports Spectacular, supporting the Medical Genetics Institute at Cedars-Sinai</option>
+					    <option value="/support/sweetrelief">Sweet Relief Eastern Musicians Fund</option>
+					    <option value="/support/779">Telluride Academy</option>
+					    <option value="/support/TexasBookFestival">Texas Book Festival</option>
+					    <option value="/support/actorsfund">The Actors Fund</option>
+					    <option value="/support/babydragon">The Baby Dragon Fund</option>
+					    <option value="/support/227">The Brent Shapiro Foundation</option>
+					    <option value="/support/524">The Broadway Dreams Foundation</option>
+					    <option value="/support/fashionforsandyrelief">The CFDA &amp; &lt;em&gt;Vogue's&lt;/em&gt; Fashion for Sandy Relief Initiative</option>
+					    <option value="/support/CreativeCoalition">The Creative Coalition</option>
+					    <option value="/support/douglaswatt">The Douglas Watt Family Fund for the Performing Arts</option>
+					    <option value="/support/FEED">The FEED NYC Relief Fund</option>
+					    <option value="/support/felix">The Felix Organization</option>
+					    <option value="/support/gardenofdreams">The Garden of Dreams Foundation</option>
+					    <option value="/support/713">The GRAMMY Foundation</option>
+					    <option value="/support/hsus">The Humane Society of the United States</option>
+					    <option value="/support/596">The Mulligan Project</option>
+					    <option value="/support/781">The MusiCares Foundation&lt;sup&gt;®&lt;/sup&gt;</option>
+					    <option value="/support/91">The New York Coalition for Healthy School Food</option>
+					    <option value="/support/19">The RFK Center for Justice and Human Rights</option>
+					    <option value="/support/1097">The Rose Home</option>
+					    <option value="/support/1">The Samuel Waxman Cancer Research Foundation</option>
+					    <option value="/support/thetrevorproject">The Trevor Project</option>
+					    <option value="/support/vidiots">The Vidiots Foundation</option>
+					    <option value="/support/495">The Young Storytellers Foundation</option>
+					    <option value="/support/1631">THON</option>
+					    <option value="/support/115">Tibet House US</option>
+					    <option value="/support/tolucabaseball">Toluca Baseball</option>
+					    <option value="/support/1632">Trepany House</option>
+					    <option value="/support/106">True Colors Fund</option>
+					    <option value="/support/UKRO">University Kidney Research Organization</option>
+					    <option value="/support/WWA">Walking With Anthony</option>
+					    <option value="/support/whyhunger">WhyHunger</option>
+					    <option value="/support/WCBSFM">WhyHunger courtesy of 101.1 WCBS-FM</option>
+					    <option value="/support/WINS">WhyHunger courtesy of 1010 WINS</option>
+					    <option value="/support/SiriusXM">WhyHunger courtesy of SiriusXM</option>
+					    <option value="/support/WFAN">WhyHunger courtesy of Sports Radio 66 WFAN</option>
+					    <option value="/support/WCBS880">WhyHunger courtesy of WCBS Newsradio 880</option>
+					    <option value="/support/WFF">Woodstock Film Festival</option>
+					    <option value="/support/wwf">World Wildlife Fund</option>
+					    <option value="/support/wpt">WPT Foundation™</option>
+				</select>			
+      
+			</div><!-- select-a-charity-wrapper end  -->
+
   </div>
                  
 </div>
@@ -1093,36 +1036,30 @@ function wasteTime() {
  <div class="clear"><!-- --></div>
 
               
-          	   
-	  
-	  
-          	</div>
-          	<!-- end sidebar -->
-		
-        		 <!-- ================
-        		      main content
-        		========================= -->
-        		<div id="mainRight">
-        		  
 
 
+            </div>
+            <!-- end sidebar -->
+
+             <!-- ================
+                  main content
+            ========================= -->
+            <div id="mainRight">
+              
 
 <!-- =====================================================
 		Content Header
 ====================================================== -->
 <div id="contentHd" class="clearfix">
 
-	<h2 class="with-seals">
-	  <img alt="Privacy Policy" src="http://assets3.charitybuzz.com/assets/508edbee1/images/header/privacy_policy.png">
-	  <div class="seals">
-      <a href="http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.charitybuzz.com/seal_s" target="_blank" title="Validate TRUSTe privacy certification"><img alt="Validate TRUSTe privacy certification" src="http://privacy-policy.truste.com/certified-seal/ctv/en/www.charitybuzz.com/seal_s.png"></a>
-    </div>
+	<h2 class="with-seals html_headers_black font-size28"> Privacy Policy
+	   
+	  <span class="effectiveDate">Effective Date: 05.11.10</span>
 	</h2>
 	
-	<p>Your privacy is extremely important to Charitybuzz. We have developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and if you have any questions please direct them to <a href="mailto:privacy@charitybuzz.com">privacy@charitybuzz.com</a></p>
+	<p>Your privacy is extremely important to Charitybuzz. We have developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information on this website www.charitybuzz.com. Please take a moment to familiarize yourself with our privacy practices and if you have any questions please direct them to <a href="mailto:privacy@charitybuzz.com">privacy@charitybuzz.com</a></p>
 
-<p>Charitybuzz has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as 
-  an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:privacy@charitybuzz.com">privacy@charitybuzz.com</a>.  If you are not satisfied with our response you can contact TRUSTe <a href="http://watchdog.truste.com/pvr.php?page=complaint">here</a>.</p>
+<p>Charitybuzz has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this website, www.charitybuzz.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:privacy@charitybuzz.com">privacy@charitybuzz.com</a>.  If you are not satisfied with our response you can contact TRUSTe <a href="http://watchdog.truste.com/pvr.php?page=complaint">here</a>.</p>
 </div><!-- /contentHd -->
 
 
@@ -1135,7 +1072,7 @@ function wasteTime() {
 	 
 	<p>Personally Identifiable Information (PII) is data that can be used to uniquely identify or contact a single person.</p>
 	
-	<p>You may be asked to provide your personal information anytime you are in contact with Charitybuzz. Our company may share this personal information with affiliate or partnering non profits and corporations consistent with this Privacy Policy. Charitybuzz may also combine it with other information to provide and improve our products, advertisement services, content and customer service.</p>
+	<p>You may be asked to provide your personal information anytime you are in contact with Charitybuzz. Our company may share this personal information with affiliate or partnering non profits and corporations consistent with this Privacy Policy. Charitybuzz may also combine it with other information to provide and improve our products, advertisement services, content and custo  mer service.</p>
 	
 	<p>Here are some examples of the types of personal information Charitybuzz may collect and how we may use it.</p> 
 
@@ -1174,6 +1111,8 @@ function wasteTime() {
 	
 	<p>Charitybuzz's website, online services, interactive applications, and advertisements may use "cookies" and other technologies such as pixel tags and web traffic and meta-tags. These technologies help us understand user behavior, tell us which parts of our website people have visited, and facilitate and measure the effectiveness of advertisements and web searches. We treat information collected by cookies and other technologies as non-personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.</p>
 
+<p>The use of cookies by our [partners, affiliates, tracking utility company, service providers] is/is not covered by our privacy statement.  We do/do not have access or control over these cookies.  Our [partners, affiliates, tracking utility company, service providers] use session ID cookies [to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.]  </p>
+  
 	<p>Charitybuzz utilizes cookies and other technologies in mobile advertising services to control the number of times you see a given	ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. If you do not want to receive ads with this level of relevance on your mobile device, you can opt out by emailing <a href="mailto:unsubscribe@Charitybuzz.com">unsubscribe@Charitybuzz.com</a> from the address you wish to have opted out.</p>
 
 	<p>If you opt out, you will not receive the newsletters or mobile ads. This unsubscribe option applies only to Charitybuzz advertising services and does not affect interest-based advertising from other advertising networks.</p>
@@ -1241,19 +1180,19 @@ function wasteTime() {
 	
 	<h3>Widgets</h3>
 	
-	<p>Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc).  Personal information, such as your email address, may be collected through the Widget.  Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.</p>
+	<p>Our website includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc).  Personal information, such as your email address, may be collected through the Widget.  Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.</p>
 	
 	<h3>Facebook Connect or other OpenID provider</h3>
 	
-	<p>You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.</p>
+	<p>You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this website to your profile page to share with others within your network.</p>
 	
 	<h3>Testimonials/Comments/Reviews</h3>
 	
-	<p>We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information.  We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.</p>
+	<p>We post customer testimonials/comments/reviews on our website which may contain personally identifiable information.  We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.</p>
 	
 	<h3>Blogs</h3>
 	
-	<p>If you use our blog on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  We are not responsible for the personally identifiable information you choose to submit in these forums.</p>
+	<p>If you use our blog on this website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  We are not responsible for the personally identifiable information you choose to submit in these forums.</p>
 	
 	<h3>International Users</h3> 
 	
@@ -1271,31 +1210,30 @@ function wasteTime() {
 	
 	<h3>Privacy Questions</h3> 
 	
-	<p>If you have questions or concerns about Charitybuzz's Privacy Policy or data processing, please contact us at 437 Fifth Avenue, 11th Floor New York, NY 10016. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <a href="http://watchdog.truste.com/pvr.php?page=complaint">http://watchdog.truste.com/pvr.php?page=complaint</a>, by mail at WatchDog Complaints, TRUSTe, 55 Second Street, Suite 2, San Francisco, CA, USA 94104, by phone at 415-520-3400, or by fax at 415-520-3420.  If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <a href="http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html">http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.</p>&nbsp;
+			<p>If you have questions or concerns regarding Charitybuzz's Privacy Policy or data processing, please contact us at 437 Fifth Avenue, 11th Floor New York, NY 10016. If contacting us does not resolve your complaint you may raise your complaint with TRUSTe by Internet <a href="http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html" target="_blank">here</a>, or by fax at 415-520-3420 or mail to TRUSTe Safe Harbor Compliance Dept., <a href="http://www.truste.com/about-TRUSTe/contact_us" target="_blank">click for mailing address</a>.  If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, <a href="http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html" target="_blank">click here</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.	</p>
+			
 
 
 
 
 </div><!-- /privacyPolicy -->
 
-        		</div>
-        		<!-- end main -->
-      		
+            </div>
+            <!-- end main -->
 
-      		<div class="clear"><!-- --></div>
-	  
-      	  
-	  
-      		<div class="clear"><!-- --></div>
+          <div class="clear"><!-- --></div>
 
-    	 </div> </div></div></div>
+          
+
+          <div class="clear"><!-- --></div>
+
+       </div> </div></div></div>
 
 
         <!-- /lowerSection -->
 
 
-        
-<div class="clearfix" id="footer">
+        <div class="clearfix" id="footer">
   <div class="br"><div class="bl">
     <div class="boxContent clearfix">
 
@@ -1303,10 +1241,11 @@ function wasteTime() {
 
         <h5>Charitybuzz 101</h5>
         <ul>
+          <li><a href="http://donations.charitybuzz.com" target="_blank">Want to Donate?</a></li>
           <li><a href="/about_us">About Us</a></li>
           <li><a href="/management">Management Team</a></li>
           <li><a href="/faqs">FAQs</a></li>
-          <li>&nbsp;</li>
+          
         </ul>
       </div><!-- /col -->
 
@@ -1331,12 +1270,13 @@ function wasteTime() {
         <ul>
           <li><a href="/contact_us">General Contact</a></li>
           <li><a href="/new_partners">Partnership Inquiries</a></li>
+          
         </ul>
       </div><!-- /col -->
 		
       <div class="clear"><!-- --></div>
 
-		<div id="newsletter-signUp" style="padding-bottom:15px; margin-right:-10px; margin-top:-35px;">
+		<div id="newsletter-signUp" style=" margin-right:-10px; margin-top:-35px;">
 		       <script type="text/javascript" charset="utf-8">
   jQuery(function($) {
 	$('#newsletter-signUp-foot').live('submit', function() {
@@ -1350,8 +1290,10 @@ function wasteTime() {
 	        	})
             
 //            _gaq.push(['_trackEvent', 'newsletter', 'signup', emailAddr, 1]);
-        var pageTracker=_gat._getTracker("UA-497484-2");
-        pageTracker._trackEvent('newsletter', 'signup', 'success', 0);
+        // var pageTracker=_gat._getTracker("UA-497484-2");
+        // pageTracker._trackEvent('newsletter', 'signup', 'success', 0);
+
+         _gaq.push(['_trackEvent', 'newsletter', 'signup', 'success', 0]);
 
         setTimeout(wasteTime(), 100);
 			},
@@ -1368,18 +1310,13 @@ function wasteTime() {
 </script>
 
 <form id="newsletter-signUp-foot" action="/signup/create" method="post" name="newsletter-signUp" class="newsletter-signUp">
-  
     <input type="hidden" name="source" value="buzz">
     <input type="text" title="Email address" value="" id="email" name="email_address" class="textbox jq_watermark">
-	  
-  		<label for="email">Subscribe to our newsletter</label>
-		
-		
+        <label for="email">Subscribe to our newsletter</label>
+
     <div class="clear"><!-- --></div>
     <input type="submit" style="padding:0px; margin:0px; height:23px; float:right; padding-right:10px; border:0px; background-color:transparent; text-decoration:underline; color:#B31200; cursor:pointer;" value="Submit">
-  	
   <div class="clear"><!-- --></div>
-  
   
 </form>
 		     <div class="clear"><!-- --></div>
@@ -1387,759 +1324,21 @@ function wasteTime() {
 		
       <div class="clear"><!-- --></div>
 
-      <div id="nav-find">
-  <h6><a href="#" class="rbutton"><span>Find a Charity</span></a></h6>
-	<ul id="nav-causes" style="display: none">
-    
-  		<li class="cols3 col1">
-  		  <ul>
-  			
-  			  <li>
-  				<a href="/support/aclu">
-  				  ACLU of Southern California
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/513">
-  				  American Cancer Society
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/824">
-  				  American-Italian Cancer Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/Badgerdog">
-  				  Badgerdog Literary Publishing, Inc.
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/1227">
-  				  Beverly Hills Education Foundation 
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/1238">
-  				  BookEnds
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/BEF">
-  				  Boomer Esiason Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/bafta">
-  				  British Academy of Film and Television Arts, Los Angeles
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/BroadwayDreamFoundation">
-  				  Broadway Dream Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/CampdelCorazon">
-  				  Camp del Corazon
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/831">
-  				  Children's Cancer &amp; Blood Foundation 
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/107">
-  				  Children's Dream Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/1305">
-  				  Children’s Craniofacial Association
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/GreyGooseDerby">
-  				  Churchill Downs Incorporated Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/605">
-  				  Communities In Schools
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/28">
-  				  Do Something
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/eaglecondor">
-  				  Eagle Condor Humanitarian
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/equalitynow">
-  				  Equality Now
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/AdoptionInstitute">
-  				  Evan B. Donaldson Adoption Institute
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/1214">
-  				  Evolutionary Leaders
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/1260">
-  				  Foundation Rwanda
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/13">
-  				  Gabrielle's Angel Foundation -- The Angel Ball
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/795">
-  				  GBCHealth
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/1272">
-  				  Girls Who Rock
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/742">
-  				  Global Kids, Inc.
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/256">
-  				  GLSEN
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/883">
-  				  GO Project
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/GOSH">
-  				  Great Ormond Street Hospital for Children
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/630">
-  				  Habitat for Humanity of Greater Los Angeles
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/HealthyBeginnings">
-  				  Healthy Beginnings
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/1087">
-  				  Hearing Health Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/hss">
-  				  Henry Street Settlement
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/1234">
-  				  Hide and Seek Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/Hollygrove">
-  				  Hollygrove
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/HPCC">
-  				  Hollywood Presbyterian Children's Center
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/817">
-  				  j.k. livin Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/JAJF">
-  				  Jack &amp; Jill Late Stage Cancer Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/JazzFoundation">
-  				  Jazz Foundation of America
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/JazzReach">
-  				  JazzReach, Inc.
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/98">
-  				  JDRF
-  				</a>
-  			  </li>
-  			
-  		  </ul>
-  		</li>
-	  
-  		<li class="cols3 col2">
-  		  <ul>
-  			
-  			  <li>
-  				<a href="/support/53">
-  				  Jenesse Center
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/ps85q">
-  				  Judge Charles J. Vallone School - P.S. 85
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/1255">
-  				  Julian Bond Professorship in Civil Rights and Social Justice
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/184">
-  				  Kidney &amp; Urology Foundation of America
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/918">
-  				  Kisses for Kyle
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/kittybungalow">
-  				  Kitty Bungalow Charm School for Wayward Cats
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/265">
-  				  L.A. Gay &amp; Lesbian Center
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/laguardia">
-  				  LaGuardia High School of Music, Art and the Performing Arts
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/learningforlife">
-  				  Learning for Life Fund
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/lls">
-  				  Leukemia &amp; Lymphoma Society
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/lifebeat">
-  				  Lifebeat
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/1322">
-  				  Lincoln Center Education
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/LiveOutLoud">
-  				  Live Out Loud
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/552">
-  				  Love Heals
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/494">
-  				  Maddie's Corner
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/MLBPAA">
-  				  Major League Baseball Players Alumni Association
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/MMCF">
-  				  Mammoth Mountain Community Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/166">
-  				  Martha Stewart Center for Living at Mount Sinai
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/813">
-  				  Melrose Elementary School
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/mercycollege">
-  				  Mercy College
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/164">
-  				  MUSE School
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/1154">
-  				  Museo de Arte de Ponce
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/1296">
-  				  Music Center
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/123">
-  				  Music for Relief
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/moc">
-  				  Musicians On Call
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/NationalMinorityAIDSCouncil">
-  				  National Minority AIDS Council
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/njhof">
-  				  New Jersey Hall of Fame
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/236">
-  				  New York Women in Communications Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/1316">
-  				  NewYork-Presbyterian Hospital
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/noreenfraserfoundation">
-  				  Noreen Fraser Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/nothingbutnets">
-  				  Nothing But Nets
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/obakkifoundation">
-  				  Obakki Foundation 
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/oceana">
-  				  Oceana
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/onestepahead">
-  				  One Step Ahead Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/ocrf">
-  				  Ovarian Cancer Research Fund
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/1259">
-  				  PENCIL Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/pvpef">
-  				  Peninsula Education Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/happyhearts">
-  				  Petra Nemcova's Happy Hearts Fund
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/991">
-  				  Plastic Pollution Coalition
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/phipal">
-  				  Police Athletic League of Philadelphia
-  				</a>
-  			  </li>
-  			
-  		  </ul>
-  		</li>
-	  
-  		<li class="cols3 col3">
-  		  <ul>
-  			
-  			  <li>
-  				<a href="/support/199">
-  				  Project Angel Food
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/1190">
-  				  Promise Project
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/ps9">
-  				  PS 9
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/310">
-  				  Reach Out and Read of Greater New York
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/resort2kindness">
-  				  Resort 2 Kindness
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/581">
-  				  RFK Foundation of Europe
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/rfkyoungleaders">
-  				  RFK Young Leaders
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/RichardAbruzzo">
-  				  Richard Abruzzo Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/ShareOurStrength">
-  				  Share Our Strength
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/shotatlife">
-  				  Shot@Life
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/StAnnsSchool">
-  				  St. Ann's School
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/Stlukes">
-  				  St. Luke's School
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/stepupwomen">
-  				  Step Up Women's Network
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/gaynor">
-  				  Stephen Gaynor School
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/sweetrelief">
-  				  Sweet Relief Musicians Fund
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/thecenterfoundation">
-  				  The Center Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/1290">
-  				  The Christie's Charity
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/TheCommonGood">
-  				  The Common Good
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/FEED">
-  				  The FEED Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/1230">
-  				  The Fragrance Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/66">
-  				  The Kristen Ann Carr Fund
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/RoryKoslow">
-  				  The Leukemia &amp; Lymphoma Society
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/MaribelFoundation">
-  				  The Maribel Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/1199">
-  				  The Moth
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/826">
-  				  The Nancy Davis Foundation for Multiple Sclerosis
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/newyorkpops">
-  				  The New York Pops
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/redribbon">
-  				  The Red Ribbon Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/19">
-  				  The RFK Center for Justice and Human Rights
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/560">
-  				  The Salk School of Science
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/905">
-  				  The Stevenson School 
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/tjmartell">
-  				  TJ Martell Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/transportgroup">
-  				  Transport Group Theatre Company
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/tulane">
-  				  Tulane University
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/1179">
-  				  U.S. Olympic Committee
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/1292">
-  				  Urban Stages
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/1221">
-  				  WFUV
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/war">
-  				  Women At Risk
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/WCF">
-  				  World Childhood Foundation
-  				</a>
-  			  </li>
-  			
-  			  <li>
-  				<a href="/support/YouthRenewalFund">
-  				  Youth Renewal Fund
-  				</a>
-  			  </li>
-  			
-  		  </ul>
-  		</li>
-	        
-	</ul>    
-</div>
-<!-- /nav-find -->
 
-      
       <div class="seals">
         <p>
-          © 2011 Charitybuzz Inc. All rights reserved. &nbsp; | &nbsp; <a href="/privacy_policy">Privacy Policy</a>
+          © 2012 Charitybuzz Inc. All rights reserved. &nbsp; | &nbsp; <a href="/privacy_policy">Privacy Policy</a>
         </p>
         <div id="thawteseal" title="Click to Verify - This site chose Thawte SSL for secure e-commerce and confidential communications.">
           <div>
             <script type="text/javascript" src="https://seal.thawte.com/getthawteseal?host_name=www.charitybuzz.com&amp;size=M&amp;lang=en"></script>
           </div>        
         </div>
-        <div id="trusteseal">
-          <a href="http://privacy-policy.truste.com/click-with-confidence/wps/en/www.charitybuzz.com/seal_m" target="_blank" title="TRUSTe online privacy certification"><img alt="TRUSTe online privacy certification" src="http://privacy-policy.truste.com/certified-seal/wps/en/www.charitybuzz.com/seal_m.png"></a>
-          <a href="http://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.charitybuzz.com/seal_m" target="_blank" title="TRUSTe European Safe Harbor certification"><img alt="TRUSTe European Safe Harbor certification" src="http://privacy-policy.truste.com/certified-seal/eusafe/en/www.charitybuzz.com/seal_m.png"></a>
+        <div id="trusteseal"> 
+<div id="2b8c8212-b6dc-43af-9da3-dd71708a5ee4"> 
+<script type="text/javascript" src="https://privacy-policy.truste.com/privacy-seal/Charitybuzz/asc?rid=2b8c8212-b6dc-43af-9da3-dd71708a5ee4"> </script>
+<a href="https://privacy.truste.com/privacy-seal/Charitybuzz/validation?rid=6e6f47c6-ea01-4a3a-8ae5-add2e84d7272" title="TRUSTe certification" target="_blank"><img style="border: none" src="https://privacy-policy.truste.com/privacy-seal/Charitybuzz/seal?rid=6e6f47c6-ea01-4a3a-8ae5-add2e84d7272" alt="TRUSTe certification"></a>
+</div><!--  end 2b8c8212-b6dc-43af-9da3-dd71708a5ee4  -->
         </div>
         <div class="clear"></div>
       </div>
@@ -2153,14 +1352,13 @@ function wasteTime() {
 
 
 
-    	</div><!-- /boxContent -->
+      </div><!-- /boxContent -->
     </div></div></div></div>
 
     <div class="clear"><!-- --></div>
-	</div><!-- /page -->
-	<div class="clear"><!-- --></div>
-  
-  <!-- =====================================================
+  </div><!-- /page -->
+  <div class="clear"><!-- --></div>
+    <!-- =====================================================
           AdSense
   ====================================================== -->
 	<div id="adSense">
@@ -2173,52 +1371,46 @@ function wasteTime() {
 			google_ad_height = 90; 
 			//-->
 		</script>
-		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"> 
+		<script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js"> 
 		</script>	
 	</div><!-- /adSense -->
 
-
   </div><!-- /container -->
-
-  
-    <script type="text/javascript">
-     var _gaq = _gaq || [];
-     _gaq.push(['_setAccount', 'UA-497484-2']);
-     _gaq.push(['_setDomainName', '.charitybuzz.com']);
-     _gaq.push(['_setCustomVar', 1, 'Area', '',3]);
-     _gaq.push(['_setCustomVar', 2, 'Category', '',3]);
-     _gaq.push(['_setCustomVar', 3, 'Organisation', '',3]);
-     _gaq.push(['_trackPageview']);
-
-     (function() {
-       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-     })();
-    </script>
-    
-
-
-
+  <!-- Sailthru Horizon -->
   <script type="text/javascript">
-    var _sf_async_config={uid:4796,domain:"charitybuzz.com"};
-    (function(){
-      function loadChartbeat() {
-        window._sf_endpt=(new Date()).getTime();
-        var e = document.createElement('script');
-        e.setAttribute('language', 'javascript');
-        e.setAttribute('type', 'text/javascript');
-        e.setAttribute('src',
-                       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
-                       "static.chartbeat.com/js/chartbeat.js");
-        document.body.appendChild(e);
-      }
-      var oldonload = window.onload;
-      window.onload = (typeof window.onload != 'function') ?
-        loadChartbeat : function() { oldonload(); loadChartbeat(); };
-    })();
+      (function() {
+          function loadHorizon() {
+              var s = document.createElement('script');
+              s.type = 'text/javascript';
+              s.async = true;
+              s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+              var x = document.getElementsByTagName('script')[0];
+              x.parentNode.insertBefore(s, x);
+          }
+          loadHorizon();
+          var oldOnLoad = window.onload;
+          window.onload = function() {
+              if (typeof oldOnLoad === 'function') {
+                  oldOnLoad();
+              }
+              Sailthru.setup({
+                  domain: 'horizon.charitybuzz.com'
+              });
+          };
+      })();
   </script>
 
-<script>(function(){var d=document;var e=d.createElement("script");e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/32/eum/rum.js";var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(e,s);})();NREUMQ.push(["nrf2","beacon-1.newrelic.com","77ac77156b",5645,"ellbR0pZCl1TRx1DB15TRhxIRA9HV1ZLbBZWWlxQQQ==",0,54,new Date().getTime()])</script>
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";
+e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
+  "d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","77ac77156b",5645,"ellbR0pZCl1TRx1DB15TRhxIRA9HV1ZLbBZWWlxQQQ==",0,356,new Date().getTime(),"","","","",""]);</script>
 
-<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
