@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jinkosolar.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529205839id_/http%3A//www.jinkosolar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jinkosolar.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218042145id_/http%3A//www.jinkosolar.com/privacy.html) for the most accurate reproduction.*
 
 # Jinko Solar | Your Best Supplier of Modules,Cells & Wafers
 
-[Home](https://web.archive.org/web/20120529205839id_/http%3A//www.jinkosolar.com/index.html) > Privacy Policy
+[Home](https://web.archive.org/web/20121218042145id_/http%3A//www.jinkosolar.com/index.html) > Privacy Policy
 
 Privacy Policy
 
@@ -33,26 +33,26 @@ Please check this privacy policy periodically to inform yourself of any changes.
 
 Upcoming Events
 
-[](https://web.archive.org/web/20120529205839id_/http%3A//www.jinkosolar.com/event.html)
+[](https://web.archive.org/web/20121218042145id_/http%3A//www.jinkosolar.com/event.html)
 
 Come and meet our professionals and find out what is new in solar market for yourself.
 
-[Read more](https://web.archive.org/web/20120529205839id_/http%3A//www.jinkosolar.com/event.html)
+[Read more](https://web.archive.org/web/20121218042145id_/http%3A//www.jinkosolar.com/event.html)
 
 High Quality Products
 
 Success stories 
 
-[ ](https://web.archive.org/web/20120529205839id_/http%3A//www.jinkosolar.com/projectslist.html)
+[ ](https://web.archive.org/web/20121218042145id_/http%3A//www.jinkosolar.com/projectslist.html)
 
 Our high efficiency modules are widely applied in different types of projects covering Utility Scale, Commercial, and Residential
 
-[Read more](https://web.archive.org/web/20120529205839id_/http%3A//www.jinkosolar.com/projectslist.html)
+[Read more](https://web.archive.org/web/20121218042145id_/http%3A//www.jinkosolar.com/projectslist.html)
 
 Global Network
 
-[](https://web.archive.org/web/20120529205839id_/http%3A//www.jinkosolar.com/contact.html)
+[](https://web.archive.org/web/20121218042145id_/http%3A//www.jinkosolar.com/contact.html)
 
 We have an international presence by establishing representative offices in Europe, US and Asia Pacific, and logistics warehouses in Europe
 
-[Read more](https://web.archive.org/web/20120529205839id_/http%3A//www.jinkosolar.com/contact.html)
+[Read more](https://web.archive.org/web/20121218042145id_/http%3A//www.jinkosolar.com/contact.html)
