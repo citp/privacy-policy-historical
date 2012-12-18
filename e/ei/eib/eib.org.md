@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eib.org privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512023438id_/http%3A//www.eib.org/infocentre/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eib.org privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218052321id_/http%3A//www.eib.org/infocentre/privacy.htm) for the most accurate reproduction.*
 
 # Privacy and data protection
 
@@ -53,4 +53,4 @@ Many web pages on EIB Web Sites have a "Contact" button, which activates your e-
   If you have any questions about the processing of your e-mail and related personal data, do not hesitate to include them in your message.
 
  **Data protection**  
-In the context of the implementation of Regulation (EC) 45/2001 concerning the protection of individuals with regard to the processing of personal data by Community institutions and bodies, the Management Committee of the European Investment Bank adopted 10 September 2009, [implementing rules concerning the Bank’s Data Protection Officer (DPO)](https://web.archive.org/about/publications/data-protection-implementing-rules.htm). These rules clarify the tasks and responsibilities of the DPO, as well as the role of data controllers and the rights of data subjects.
+In the context of the implementation of Regulation (EC) 45/2001 concerning the protection of individuals with regard to the processing of personal data by Community institutions and bodies, the Management Committee of the European Investment Bank adopted 10 September 2009, [implementing rules concerning the Bank’s Data Protection Officer (DPO)](https://web.archive.org/infocentre/publications/all/data-protection-implementing-rules.htm). These rules clarify the tasks and responsibilities of the DPO, as well as the role of data controllers and the rights of data subjects.
