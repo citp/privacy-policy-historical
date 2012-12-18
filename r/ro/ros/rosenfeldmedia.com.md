@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rosenfeldmedia.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620065315id_/http%3A//www.rosenfeldmedia.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosenfeldmedia.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218193408id_/http%3A//rosenfeldmedia.com/privacypolicy) for the most accurate reproduction.*
 
 # Rosenfeld Media | Privacy Policy
 
-_This policy covers both[www.rosenfeldmedia.com](http://www.rosenfeldmedia.com/) and [www.uxzeitgeist.com](http://www.uxzeitgeist.com/)_
+_This policy covers both[http://rosenfeldmedia.com](http://rosenfeldmedia.com/) and [www.uxzeitgeist.com](http://www.uxzeitgeist.com/)_
 
 ### Thank you for visiting our web sites!
 
@@ -17,7 +17,7 @@ lou [at] rosenfeldmedia.com
 
 ### Your acceptance of our privacy policy.
 
-By using www.rosenfeldmedia.com and www.uxzeitgeist.com, you agree to the collection and use by Rosenfeld Media, LLC of your personal information (PI) as described in this policy. If we make any significant changes to this policy, we will notify you by email, or by posting a notice of such changes on the site. This policy does not apply to the practices of companies that Rosenfeld Media, LLC does not own or control and whose materials, content, goods, or services are accessed through the site.
+By using rosenfeldmedia.com and www.uxzeitgeist.com, you agree to the collection and use by Rosenfeld Media, LLC of your personal information (PI) as described in this policy. If we make any significant changes to this policy, we will notify you by email, or by posting a notice of such changes on the site. This policy does not apply to the practices of companies that Rosenfeld Media, LLC does not own or control and whose materials, content, goods, or services are accessed through the site.
 
 ### What we collect about you that is personally identifiable.
 
