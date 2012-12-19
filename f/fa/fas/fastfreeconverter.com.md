@@ -1,0 +1,32 @@
+> *The following text is extracted and transformed from the fastfreeconverter.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219030554id_/http%3A//www.fastfreeconverter.com/privacy.php) for the most accurate reproduction.*
+
+# Privacy Policy
+
+Privacy Policy 
+
+The Company is committed to protecting your privacy in addition to continually developing technology that will provide you with the most up to date resources for optimal planting and the most accurate harvesting times. The Policy of Privacy as outlined herein is applicable to the Company, the web page, its content and materials thereof, and its visitors and customers, in addition to the collection and governing of data. In interacting with the Company web page, you consent to adhere to this Privacy Policy and any and all data practices as outlined within this document. 
+
+Collection of Personal Information   
+Certain types of personally identifiable information may and will be automatically collected by the Company in regards to both your computer hardware and software. Such personally identifiable information may include: browser type, your Internet Protocol (IP) address, domain names, referring web page addresses and times of access. The aforementioned information that is collected by the Company is used by such to operate the service, maintain the quality thereof, as well as provide general usage statistics of the Company web page for the purposes of improvement. 
+
+The Company consistently keeps track of any web pages and sections that are visited by our customers within the Company, such that the Company may determine which of its services are of greatest interest. Such data can and will be used to provide customers with content that of which is customized to their needs in addition to advertising to the customers which have also been customized to cater to the customers' needs based upon their behavior on the web page. The Company can and will access the web log analysis software on its server as well as retain the reports for internal usage; in no way will the Company ever use the aforementioned reports with the intention of personally identifying any individual, unless it is in the event of deliberate misconduct and misuse of any of our systems or services. 
+
+The Company will never, in any way, disclose the email addresses of our customers; such identities are always kept confidential and are never sold to any third parties, such as bulk email advertisers. 
+
+The Company will never, in any way, disclose other such personal information, nor make it available to the public, including postal mail addresses, phone numbers, or any other such information that of which is gathered in the duration of business transactions with our customers. In the event that English Law requires the Company to disclose any personal information or that the Company feels it is with good faith that such an action would be of necessity, the Company will disclose such information without providing any notice, under the conditions that it is necessary to: (a) abide by any edits of the law or to abide by any other such legal process that of which is served on the Company or its web page; (b) both protect and defend either the rights or the property of the Company; and (c) act under exigent circumstances such that the Company can protect the personal safety of either the users of the Company or the public. 
+
+Usage of Cookies   
+The Company web page may and will utilize “cookies” for the purposes of personalizing your experience in interaction. A cookie is defined to be a text file which is placed onto your hard drive by a web page serve. A cookie cannot be used to either deliver viruses nor is it capable of running programs without your prior consent. A cookie is uniquely assigned solely to you and is only able to be read by an online server within the domain that of which assigned you the cookie. 
+
+Cookies primarily serve as convenience to the user, intending to save them time. Its purpose is to inform a web server whether or not you have returned to a specific web page. For example, should you personalize any of the pages on the Company web page or choose to register on such, a cookie will help the Company web page in remembering specific information on any subsequent visits until the cookie is cleared. 
+
+You are given the ability to either accept or decline cookies. The majority of web browsers will be set to automatically accept cookies, though this can be modified such that the browser declines any cookies in the event that this is preferred. In the event that you choose to decline any cookies, you may be unable to fully experience any of the interactive features that of which the Company services or its web page offer. 
+
+Security of your Personal Information   
+The Company will always secure any provided personal information from any unauthorized access, usage or disclosure. The Company will always secure any such provided personal information on servers that of which are within a controlled, secure environment and are protected from any outside or otherwise unauthorized access, usage or disclosure. 
+
+External Links   
+The Company will provide external links to various other web pages. In no way is the Company responsible for the content and security of any such web page, nor can control the content and security thereof, once you have left the Company web page. The Company is not responsible for the damage or loss of data resulting from any downloaded software, on or off of its web page. You are well advised to, and are responsible to, use a virus scanner for any program downloaded from any such web page prior to installation. 
+
+Contact Information   
+The Company is always welcome to any comments in regards to this Policy of Privacy. In the event that you feel the Company has failed to adhere to this document, please feel free to contact us. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
