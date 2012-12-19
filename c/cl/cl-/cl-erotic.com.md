@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cl-erotic.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603212926id_/http%3A//cl-cash.com/legalprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cl-erotic.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219023000id_/http%3A//cl-cash.com/legalprivacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
