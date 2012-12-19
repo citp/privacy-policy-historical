@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffet.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620085906id_/http%3A//www.buffet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffet.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219213756id_/http%3A//www.buffet.com/privacy-policy) for the most accurate reproduction.*
 
 # Welcome to Buffets, Inc., the Best Buffet in America | Buffet.comBuffets, Inc. Privacy Policy | Buffet.com
 
