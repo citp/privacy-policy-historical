@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zalando.co.uk privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626075616id_/http%3A//www.zalando.co.uk/zalando-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalando.co.uk privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219120606id_/http%3A//www.zalando.co.uk/zalando-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ZALANDO.CO.UK
 
@@ -6,7 +6,7 @@
 
 Zalando Limited is a company registered in England and Wales with number 07535599 and registered address at 31-35 Kirby Street, London, EC1N 8TE, United Kingdom. Zalando Limited acts as an “Agent” or “Service Provider” for Zalando GmbH (“We”, “us” or “our”) and is a company wholly owned by Zalando GmbH. Zalando GmbH is a company registered in Germany with the district court of Charlottenburg, Berlin under number HRB112394B whose registered office is Sonnenburger Str. 73, 10437 Berlin, Germany ( **“we”** , **“us”** or **“our”** ). We operate www.zalando.co.uk (the “Site”). In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site. 
 
-If you have any comments or suggestions, we would be pleased to receive them at our Agent’s UK address or by emailing us at service@zalando.co.uk. Alternatively you may call us on 0800 028 0077 – this telephone number will be open to receive calls between 9 am and 8 pm on Monday to Friday. 
+If you have any comments or suggestions, we would be pleased to receive them at our Agent’s UK address or by emailing us at service@zalando.co.uk. Alternatively you may call us on 0800 028 0077 – this telephone number will be open to receive calls between 8 am and 8 pm on Monday to Friday. 
 
 Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you. 
 
@@ -72,27 +72,77 @@ If you are logged into Facebook, your visit can be assigned to your Facebook acc
 
 If you are a Facebook member and do not want Facebook to connect the data concerning your visit to our website with your member data already stored by Facebook, please log off Facebook before entering our website. You can also block Facebook social Plugins by using add-ons for your browser, like the “Facebook Blocker”. 
 
-For information on the purpose and scope of data collection by Facebook and how it is processed and used, as well as your rights in this respect and settings options for protecting your privacy please visit [ Facebook’s privacy policy](http://www.facebook.com/about/privacy/). 
+For information on the purpose and scope of data collection by Facebook and how it is processed and used, as well as your rights in this respect and settings options for protecting your privacy please visit [Facebook’s privacy policy](http://www.facebook.com/about/privacy/). 
 
-#### 2\. Cookies
+####  2\. Cookies
 
-The acceptance of cookies is not a requirement for visiting the Site. However we would like to point out that the use of the ‘basket’ functionality on the Site and ordering is only possible with the activation of cookies. Cookies are tiny text files which identify your computer to our server as a unique user when you visit certain pages on the Site and they are stored by your Internet browser on your computer's hard drive. Cookies can be used to recognise your Internet Protocol address, saving you time while you are on, or want to enter, the Site. We only use cookies for your convenience in using the Site (for example to remember who you are when you want to amend your shopping cart without having to re-enter your email address) and not for obtaining or using any other information about you (for example targeted advertising). Your browser can be set to not accept cookies, but this would restrict your use of the Site. Please accept our assurance that our use of cookies does not contain any personal or private details and are free from viruses. If you want to find out more information about cookies, go to http://www.allaboutcookies.org or to find out about removing them from your browser, go to http://www.allaboutcookies.org/manage-cookies/index.html. 
+It is not necessary to accept cookies to visit our website. However, if you would like to place an order or add an item to your shopping basket, you will need to set your browser to accept cookies so you can use the shopping basket and checkout functions. 
+
+What are Cookies? 
+
+Cookies and flash cookies are small files that are saved on your data carrier which store specific information about your preferred settings and any other data that our system needs when interacting with your browser. There are two different kinds of cookies: session cookies, which are deleted the moment you quit your browser; and temporary/permanent cookies, which are stored on your data carrier for a longer period of time or, in some cases, permanently. Cookies help us to tailor our website to suit you and to reflect your tastes and your browsing habits. They also allow us to save any information you have entered so you don’t have to enter it all again the next time you visit. 
+
+What kind of cookies do Zalando use? 
+
+Most of the cookies we use are session cookies which are deleted at the end of your browser session. We use these to allow you to use our shopping basket function across more than page of our site, for example. We do use some cookies that remain on your computer after you have quit your browser. This kind of cookie enables our system to recognise that you’ve visited our website before and to remember which settings and products you preferred. These temporary/permanent cookies have a lifespan of around one month to ten years, after which they will be automatically deleted. These cookies allow us to collect and analyse data to come up with strategies to improve our website. This makes our website easier for our customers to use and helps us to provide you with personal recommendation of products you may like. Our aim is to offer you a fun, easy shopping experience on a website that is tailored to your tastes. 
+
+What kind of information is stored in cookies? 
+
+The cookies used by Zalando are never used to store any personal information. Therefore our cookies cannot be traced back to an individual user. Once a cookie is activated, it is given an ID number, which is solely used for internal reference and cannot be used to identify the user or access any personal information, such as your name or IP address. The anonymised information we receive from the cookies allows us to assess which pages of our site are visited the most and see which products were most popular etc. 
+
+What is on-site targeting? 
+
+The Zalando website gathers information that could be useful in tailoring our adverts and online offer to our customers. This information is not used to identify you as a user; it is solely used for the optimization of our website. Information collected by our cookies is not stored with our customer’s personal information or order information, it is only used to provide our users with adverts and/or notification of offers and services that are suited to their individual tastes, using click stream analysis (e.g. adverts for reduced trainers if a customer has been browsing our sports shoe selection). Our goal is to provide you with a shopping experience suited to your tastes and shopping preferences. 
+
+Do Zalando use third party cookies? 
+
+Cookies from specific business partners are allowed by Zalando for the purpose of tailoring their adverts to your tastes and browsing habits, so cookies from some of our partners may be stored on your computer when you visit our site. These cookies are temporary/permanent cookies, which will be automatically deleted from your computer at the end of their lifespan (14 days to 10 years). As with our cookies, these third party cookies do not collect any personal information. The data stored is collected at certain times, allowing these companies to see which products have been viewed most frequently but this is done completely anonymously under randomly designated user ID numbers. Therefore, this data will never be pooled with any personal information you have given Zalando. Third party cookies have the sole purpose of allowing our partners to advertise products that may interest you. 
+
+Re-targeting 
+
+Our website uses retargeting, which allows us to make our online offer more interesting for you. Retargeting technology means we can advertise recently viewed and related products on our partners’ websites, meaning our adverts, even on other companies’ sites, are relevant to what you would like to see. We do this by analyzing user behavior from data collected by our cookies. Even this kind of information is anonymous, with no personal information being stored and no user profiles. 
+
+**Declaration of Consent**
+
+**I hereby give permission for my user information to be stored on cookie files. I also allow these files to remain on my computer after I have ended my browser session so they may be used upon my next visit to the website. I reserve the right to retract this permission by changing my browser setting to refuse cookies.**
+
+How can I prevent cookies from being stored on my computer? 
+
+You can change the settings in your browser to ask for your permission every time a cookie tries to access your computer. If you would like to accept Zalando cookies but block our partners’ cookies, you can set your browser to block third party cookies. 
+
+Usually, your browser’s help section will provide information on how to change your cookie settings. 
+
+We recommend only changing the browser setting for your profile on shared computers. 
+
+You can find detailed information on how to change your browser settings by clicking [here](http://media.ztat.net/media/agb/GB/2012-07-27_Extra_Cookies_Section.pdf). 
+
+If you want to find out more information about cookies, go to http://www.allaboutcookies.org. 
 
 The Site uses technology from Webtrekk GmbH (www.webtrekk.de) through which data is collected and stored for marketing and optimisation purposes and data use profiles are prepared under a pseudonym. Cookies may be used for this. The cookies enable recognition of the Internet browser. The data collected with the Webtrekk-technologies is not used, without separate authorisation by the person concerned, to personally identify the visitors to this website and is not collated with personal data on the pseudonym holder. The permission for data recording and storage may at any time be cancelled with on-going effect. 
 
 This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies, which are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
 
-To ensure the tailored design and optimum performance of this website, solutions and technologies by econda GmbH (www.econda.de) not only collect and store anonymized data, but also utilize this data to compile usage profiles by means of pseudonyms. Cookies can be used for this purpose which make it possible for an Internet browser to be recognized. Without the express consent of a visitor, however, usage profiles will not be stored together with data pertaining to the pseudonymous visitor. IP addresses, in particular, are rendered indecipherable immediately after receipt, which makes it impossible to match a usage profile with an IP address. Visitors to this website can opt out here — at any time — of the collecting and storing of their data. (Note: please refer to the following link for opting out: http://www.econda.de/econda/datenschutz/widerruf-datenspeicherung.html) 
+To ensure the tailored design and optimum performance of this website, solutions and technologies by econda GmbH (www.econda.de) not only collect and store anonymised data, but also utilise this data to compile usage profiles by means of pseudonyms. Cookies can be used for this purpose which make it possible for an Internet browser to be recognised. Without the express consent of a visitor, however, usage profiles will not be stored together with data pertaining to the pseudonymous visitor. IP addresses, in particular, are rendered indecipherable immediately after receipt, which makes it impossible to match a usage profile with an IP address. Visitors to this website can opt out here — at any time — of the collecting and storing of their data. (Note: please refer to the following link for opting out: http://www.econda.de/en/econda/data-protection/revocation-of-data-storage.html) 
 
-#### 3\. Security
+####  3\. Log Information
+
+Every time you visit Zalando, information is sent from your browser to our server log files, where it will be saved. The information transferred includes: time and date or visit to our site, which pages were viewed, IP address, URL of site that referred you to Zalando, how much information has been stored and which browser you have been using. 
+
+Once we have all this information, all IP addresses are deleted or anonymised. Anonymisation means that your IP address is changed in such a way that they either cannot be linked with the original user or can only be linked through extensive research. 
+
+The anonymous information stored in this log file is then used to improve the shopping experience on the Zalando website by making our navigation more user-friendly, finding errors quickly and directing our server’s capacity to where it is needed most. For example, this information allows us to work out our busiest times and plan enough server power for those times to keep our site running as quickly as possible. 
+
+**I hereby give my permission for Zalando to analyse and use protocol data to develop and optimize their online shop.**
+
+####  4\. Security
 
 We have in place appropriate technical and security measures to prevent unauthorised or unlawful access to or accidental loss of or destruction or damage to your information. When we collect data through the Site, we collect your personal details on a secure server. We use firewalls on our servers. When we collect payment card details electronically, we use encryption by using Secure Socket Layer (SSL) coding. Whilst we are unable to guarantee 100% security, this makes it hard for a hacker to decrypt your details. You are strongly recommended not to send full credit or debit card details in unencrypted electronic communications with us. We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of your information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. You are responsible for protecting against unauthorised access to your password and to your computer. 
 
-#### 4\. Consent
+####  5\. Consent
 
 By submitting data to us or our agent or using the Site, you consent to our use of your data in the manner set out in this Privacy Policy including the services provided by Experian to verify your identity. To do so Experian may check the details you supply against any particulars on a database (public or otherwise) to which they have access. They may also use your details in the future to assist other companies for verification purposes. A record of the search will be retained. 
 
-#### 5\. Your rights
+####  6\. Your rights
 
 If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes. Please contact us by mail at [service@zalando.co.uk](mailto:service@zalando.co.uk) or Zalando Ltd., 31-35 Kirby Street, London, EC1N 8TE. 
 
