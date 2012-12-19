@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the personalmba.com privacy policy that was archived on 2012-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120222072204id_/http%3A//personalmba.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalmba.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219070159id_/http%3A//personalmba.com/privacy-policy) for the most accurate reproduction.*
 
-# Personal MBA Privacy Policy
+# Privacy Policy - The Personal MBA
 
 This website is owned and operated by [Worldly Wisdom Ventures LLC](http://worldlywisdomventures.com/).
 
-**Our postal address is:**  
-The Personal MBA   
+Our postal address is:
+
+Worldly Wisdom Ventures LLC  
 123 N. College Ave, Suite 200  
 Fort Collins, CO 80524
 
-We can be reached via e-mail at privacy [at] personalmba.com or you can reach us by telephone at +1-970-480-7622.
+We can be reached via e-mail at privacy [at] worldlywisdomventures.com or you can reach us by telephone at +1-970-484-1512.
 
-For each visitor to our web page, our web server automatically recognizes the consumer's domain name and e-mail address (where possible).
+For each visitor to our web page, our web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
 
 We collect the domain name and e-mail address (where possible) of visitors to our web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, payment information (e.g., credit card number and billing address).
 
@@ -21,7 +22,7 @@ With respect to cookies: We use cookies to store visitors preferences, record se
 
 We do not share e-mail addresses or other personally identifiable information with third-party companies.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address or choosing to "unsubscribe" via links provided at the end of each email.
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address or choosing to “unsubscribe” via links provided at the end of each email.
 
 If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above. Please provide us with your exact name and address.
 
