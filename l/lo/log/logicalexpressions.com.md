@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514101453id_/http%3A//logicalexpressions.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219101557id_/http%3A//www.logicalexpressions.com/Privacy.htm) for the most accurate reproduction.*
 
 # Logical Expressions Privacy Policy
 
 **Check out what readers  
 say about our writing...**
 
-#114"Thank you for sharing how to create business cards using Word. I've been struggling to create a simple business card for myself for some time. Really appreciate it!"\- A.A.
+#149"This article was excellent! I also find excel challenging on a good day! Your instructions were easy to follow and painless! Thanks so much."\- G.L.
 
 | 
 
@@ -14,7 +14,7 @@ say about our writing...**
 At Logical Expressions, we know that you value your privacy, so we want you to know that your personal information is completely confidential. This privacy policy applies not only to our main Logical Expressions site ([http://www.logicalexpressions.com](http://www.logicalexpressions.com/)), but also to the other sites we produce, including (but not limited to):
 
   * The LEI Store - [http://shop.logicalexpressions.com](http://shop.logicalexpressions.com/)
-  * LEI Forum & Blog - [http://forum.logicalexpressions.com](http://forum.logicalexpressions.com/) & [http://blog.logicalexpressions.com](http://blog.logicalexpressions.com/)
+  * LEI Blog -[http://blog.logicalexpressions.com](http://blog.logicalexpressions.com/)
   * IdeaWeaver Software - [ http://www.ideaweaversoftware.com](http://www.ideaweaversoftware.com/)
   * Self-Publishers Online Conference - [http://www.SelfPublishersOnlineConference.com](http://www.selfpublishersonlineconference.com/)
   * Self Pub U - [http://www.SelfPubU.com](http://www.selfpubu.com/)
@@ -33,6 +33,7 @@ At Logical Expressions, we know that you value your privacy, so we want you to k
   * Publishize (book) - [http://www.publishize.com](http://www.publishize.com/)
   * Logical Tips Series (books) - [http://www.logicalguides.com](http://www.logicalguides.com/)
   * Funds to the Rescue (book) - [http://www.fundstotherescue.com](http://www.fundstotherescue.com/)
+  * Publicity to the Rescue (book) - [http://www.publicitytotherescue.com](http://www.publicitytotherescue.com/)
 
 
 
@@ -74,18 +75,15 @@ If you feel that we are not abiding by this privacy policy or if you have any qu
 Logical Expressions, Inc.  
 311 Fox Glen Road  
 Sandpoint, Idaho 83864  
-Phone: 208-265-3636
 
-[Click to contact us by email](https://web.archive.org/web/20120514101453id_/http%3A//logicalexpressions.com/contact.asp)
+
+[Click to contact us by email](https://web.archive.org/web/20121219101557id_/http%3A//www.logicalexpressions.com/contact.asp)
 
 | 
 
-#### Read Articles   
-from   
-The Book Consultant!
+#### Read Our Articles
 
-[Check out our latest articles](http://www.thebookconsultant.com/)   
-to learn how to profitably publish books.
+[Check out our latest articles](https://web.archive.org/web/20121219101557id_/http%3A//www.logicalexpressions.com/articles.htm).
 
 * * *
 
