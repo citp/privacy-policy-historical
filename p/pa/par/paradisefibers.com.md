@@ -1,28 +1,9 @@
-> *The following text is extracted and transformed from the paradisefibers.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120024341id_/http%3A//www.paradisefibers.net/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paradisefibers.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219131635id_/http%3A//www.paradisefibers.com/paradise_fibers_privacy_policy) for the most accurate reproduction.*
 
-# Terms: Privacy
+# Privacy Policy Paradise Fibers
 
-**Privacy Policy**
+Even though we are family owned and operated we do have to have the legal stuff and here it lies below.  We never sell or give out any customer information, never, ever as we hate SPAM as much as you do.  Please feel free to call or email anytime if you have questions or comments, we appreciate your feedback and business.
 
-**What information do we collect?**
-
-  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
-  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
-  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
-  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
-
-  
- **How do we use your information?**
-
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
-
-  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To allow us to better service you in responding to your customer service requests.
-  * To quickly process your transactions.
-  * To administer a contest, promotion, survey or other site feature.
-  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
-
-  
  **How do we protect visitor information?**
 
 We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
@@ -65,7 +46,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20111120024341id_/http%3A//www.paradisefibers.net/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
