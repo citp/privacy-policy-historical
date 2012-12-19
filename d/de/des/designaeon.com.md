@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designaeon.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619034805id_/http%3A//www.designaeon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designaeon.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219014713id_/http%3A//www.designaeon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Design Aeon
 
@@ -17,10 +17,3 @@ We also visualize third party advertisements on [Design Aeon](http://www.design
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, it can affect your ability to interact with our site as well as other websites and it may include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless, you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
-
-#### Incoming search terms:
-
-  * [check aeon policies](http://www.designaeon.com/privacy-policy/ "check aeon policies")
-  * [policy of aeon](http://www.designaeon.com/privacy-policy/ "policy of aeon")
-
-
