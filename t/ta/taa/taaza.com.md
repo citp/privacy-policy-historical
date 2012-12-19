@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taaza.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601235422id_/http%3A//ads.taaza.com/privacy_policy_popup.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taaza.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219220626id_/http%3A//www.wohho.com/privacy_policy_popup.php) for the most accurate reproduction.*
 
 # 
 
