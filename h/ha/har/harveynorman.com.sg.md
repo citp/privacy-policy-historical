@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harveynorman.com.sg privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619172907id_/http%3A//www.harveynorman.com.sg/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveynorman.com.sg privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219070919id_/http%3A//harveynorman.com.sg/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ This Privacy Policy is applicable to Pertama Merchandising Pte. Ltd. (trading as
 
 This Privacy Policy explains how we manage your personal information that we collect about you. Please read this Privacy Policy before using the website at [www.harveynorman.com.sg](http://www.harveynorman.com.sg/) (the "Website") or before you submit any personal information to us.
 
-By using the Website, you are accepting the practices described in this Privacy Policy. This Privacy Policy is incorporated into, forms part of and is subject to the [Terms and Conditions](http://203.142.17.225/terms-and-conditions.html) of the Website. Your use of this Website and any personal information you provide on the Website remains subject to the terms of this Privacy Policy and [Terms and Conditions](http://203.142.17.225/terms-and-conditions.html). In particular, you must be of the age of majority in order to use the Website. By using our Website, you are confirming that you meet the minimum age requirement.
+By using the Website, you are accepting the practices described in this Privacy Policy. This Privacy Policy is incorporated into, forms part of and is subject to the [Terms and Conditions](https://web.archive.org/terms-and-conditions.html) of the Website. Your use of this Website and any personal information you provide on the Website remains subject to the terms of this Privacy Policy and [Terms and Conditions](https://web.archive.org/terms-and-conditions.html). In particular, you must be of the age of majority in order to use the Website. By using our Website, you are confirming that you meet the minimum age requirement.
 
 You are encouraged to review this Privacy Policy whenever you visit the Website to make sure that you understand how any personal information you provide will be used.
 
@@ -67,7 +67,7 @@ We and our third party service providers take reasonable steps to destroy or per
 
 **Accuracy and Access to Personal Information**
 
-We take reasonable steps to ensure that the information we hold about you is accurate, complete and up-to-date. To assist us to do this, please provide us with the correct information and inform us if your details change. You may update your details at any time by [contacting us](http://203.142.17.225/contact-harveynorman.html/).
+We take reasonable steps to ensure that the information we hold about you is accurate, complete and up-to-date. To assist us to do this, please provide us with the correct information and inform us if your details change. You may update your details at any time by [contacting us](https://web.archive.org/contact-harveynorman.html/).
 
 **Linked Sites**
 
@@ -83,8 +83,8 @@ From time to time it may be necessary for us to review and revise this Privacy P
 
 **Direct Marketing**
 
-You consent for your personal information to be included in a database for use in direct marketing by us and our related entities or our third party contractors. If you do not wish to receive marketing material from us, you can opt-out or unsubscribe, by [contacting us](http://203.142.17.225/contact-harveynorman.html/). All emails, SMS and newsletters from this Website allow you to opt-out of further mailings by clicking on the link or responding “unsubscribe”.
+You consent for your personal information to be included in a database for use in direct marketing by us and our related entities or our third party contractors. If you do not wish to receive marketing material from us, you can opt-out or unsubscribe, by [contacting us](https://web.archive.org/contact-harveynorman.html/). All emails, SMS and newsletters from this Website allow you to opt-out of further mailings by clicking on the link or responding “unsubscribe”.
 
 **Interpretation**
 
-All defined terms in this Privacy Policy shall have the same meaning in this Privacy Policy as is given to those terms in the [Terms and Conditions](http://203.142.17.225/terms-and-conditions.html) of this Website.
+All defined terms in this Privacy Policy shall have the same meaning in this Privacy Policy as is given to those terms in the [Terms and Conditions](https://web.archive.org/terms-and-conditions.html) of this Website.
