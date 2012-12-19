@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartwebby.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620200725id_/http%3A//www.smartwebby.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartwebby.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219133652id_/http%3A//www.smartwebby.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # SmartWebby.com Privacy Policy
 
@@ -52,4 +52,4 @@ If your personally identifiable information changes (such as zip code, phone, em
 
 ### Contact Information 
 
-If you have any questions or suggestions regarding our privacy policy, please contact us using our [customer service](https://web.archive.org/web/20120620200725id_/http%3A//www.smartwebby.com/contactus.asp) input form. 
+If you have any questions or suggestions regarding our privacy policy, please contact us using our [customer service](https://web.archive.org/web/20121219133652id_/http%3A//www.smartwebby.com/contactus.asp) input form. 
