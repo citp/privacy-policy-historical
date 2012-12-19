@@ -1,25 +1,22 @@
-<!--The following is the downloaded HTML source of the descriptionari.com privacy policy that was archived on 2012-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620220821id_/http%3A//www.descriptionari.com/our/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the descriptionari.com privacy policy that was archived on 2012-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121219081415id_/http%3A//www.descriptionari.com/our/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" prefix="og: http://ogp.me/ns#"><head>
 <meta charset="utf-8">
 <title>Descriptionari</title>
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <meta name="description" content="Descriptionari Privacy Statement">
 <meta name="author" content="descriptionari.com">
 <meta name="robots" content="noindex">
-<link href="/min/,qg=css.pagespeed.ce.dFJ5kNyRPN.css" rel="stylesheet">
+<link href="/min/?g=css" rel="stylesheet">
 <link rel="shortcut icon" href="/images/favicon.ico">
-<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
-<link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-114x114.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 </head>
 <body>
 <div class="topbar">
 <div class="container">
-<div class="navbar">
+<div class="navbar navbar-inverse">
 <div class="navbar-inner">
 <div class="container">
 <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
@@ -31,32 +28,21 @@
 <div class="span6">
 <a class="brand" href="/"><h1>Descriptionar<span style="color:#FFA50A;">i</span><small><br> — Let's Describe Our World</small></h1></a>
 </div>
-<div class="span5">
-<form id="loginform" action="/login.php" method="post" class="clearfix error form-horizontal">
-<div class="span4 top-padding5">
-<input id="username" name="username" class="input-small" type="text" placeholder="Username" required="">
-<input id="password" name="password" class="input-small" type="password" placeholder="Password" required="">
-<input id="remember" name="remember" type="checkbox" value="1"> <label style="display:inline" for="remember"><span class="remember">remember</span></label>
-<input class="btn btn-warning" type="submit" value="Log In">
-</div>
-<div class="span4 bottom-padding5">
-<a class="join-link" href="/us/join/">join</a>
-<a class="forgotten-link" href="/my/password/">forgotten?</a>
-</div>
-<div class="span1">
-<input name="returnto" type="hidden" value="/our/privacypolicy/">
-</div>
-</form>
+<div class="span1 pull-right login-buttons">
+<fb:login-button autologoutlink="true" class="fb-login-button top-bar-login-btn"></fb:login-button>
+<iframe src="/server/google_login/" class="google_login" scrolling="no"></iframe>
+<a id="top-bar-login-descriptionari" class="top-bar-icon-login icon-login-descriptionari top-bar-login-btn" title="Login using Descriptionari">Log In</a>
 </div>
 </div>
 <div class="row nav-collapse">
 <div class="span7">
 <ul class="nav">
 <li><a href="/">Home</a></li>
-<li><a class="important-text" href="/us/join/">Join</a></li>
+<li><a id="top-bar-join-descriptionari" class="important-text" href="#">Join</a></li>
 <li><a href="/whatsnew/">Whats New</a></li>
 <li><a href="http://www.descriptionarijunior.com">Descriptionari Junior</a></li>
 <li><a href="/index/a">Theme Index</a></li>
+<li><a id="bountywords-link" href="/us/bountywords/" class="important-text">Bounty Words</a></li>
 </ul>
 </div>
 </div>
@@ -68,8 +54,8 @@
 <div class="container">
 <noscript>
 <div class="alert alert-error">
-<a class=close>&times;</a>
-<h3 class=text-align-center>Your Descriptionari experience would be enhanced if you enable javascript in your browser settings.</h3>
+<a class="close">&times;</a>
+<h3 class="text-align-center">Your Descriptionari experience would be enhanced if you enable javascript in your browser settings.</h3>
 </div>
 </noscript>
 <div class="content">
@@ -124,15 +110,79 @@
 ⋅ <a href="/our/siteguidelines/">Guidelines</a>
 </td></tr>
 </tbody></table>
+<div class="modal fade" id="sign-in-needed-dlg">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+<h3 class="title">You’ll need to login or register to do that</h3>
+</div>
+<div class="modal-body">
+<div id="not-logged-in-carousel" class="carousel slide">
+<div class="carousel-inner">
+<div class="item active">
+<div class="text-align-center" style="height:200px">
+<form class="form-inline">
+<h4 id="login-needed-login-title">Login</h4>
+<fb:login-button class="fb-login-button"></fb:login-button>
+<a id="google-login-dlg-btn" class="form-icon-login icon-login-google" title="Login using Google" href="https://accounts.google.com/o/oauth2/auth?response_type=code&amp;redirect_uri=http%3A%2F%2Fwww.descriptionari.com%2Fserver%2Fgoogleoauth2callback%2F&amp;client_id=187193762190.apps.googleusercontent.com&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me&amp;access_type=online&amp;approval_prompt=auto&amp;state=643608897">Log In</a>
+<a id="login-descriptionari" class="form-icon-login icon-login-descriptionari" title="Login using Descriptionari">Log In</a>
+</form>
+<br>
+<h4>— OR —</h4>
+<form class="form-inline">
+<h4>Create a Descriptionari account</h4>
+<a id="reg-descriptionari" class="form-icon-login icon-login-descriptionari" data-slide="next" href="/us/join/" title="Create a Descriptionari account">Create</a>
+</form>
+</div>
+</div>
+<div class="item">
+<div style="height:200px">
+<form id="loginform" action="/login.php" method="post" class="form-horizontal span4 top-padding40">
+<div class="control-group">
+<label class="control-label" for="username">Username</label>
+<div class="controls">
+<input id="username" name="username" class="input-small" type="text" placeholder="Username" required="">
+<span class="help-inline"><span class="nothing-to-see-here">nothing</span></span>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="password">Password</label>
+<div class="controls">
+<input id="password" name="password" class="input-small" type="password" placeholder="Password" required="">
+<span class="help-inline"><a class="forgotten-link" href="/my/password/">forgotten?</a></span>
+</div>
+</div>
+<div class="control-group">
+<div class="controls">
+<label class="checkbox">
+<input id="remember" name="remember" type="checkbox" value="1"> remember
+</label>
+<button class="btn btn-small btn-primary" type="submit">Login</button>
+</div>
+</div>
+<input name="returnto" type="hidden" value="/our/privacypolicy/">
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<button class="btn btn-small back" aria-hidden="true">Back</button>
+<button class="btn btn-small" data-dismiss="modal" aria-hidden="true">Close</button>
+</div>
+</div>
+<div id="fb-root"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script>window.fbAsyncInit=function(){FB.init({appId:'256835654438209',cookie:true,xfbml:true,oauth:true});FB.Event.subscribe('auth.login',function(response){window.location.reload();});FB.Event.subscribe('auth.logout',function(response){window.location.replace('/me/logout/');});};(function(){var e=document.createElement('script');e.async=true;e.src=document.location.protocol+'//connect.facebook.net/en_US/all.js';document.getElementById('fb-root').appendChild(e);}());</script>
 </footer>
 </div> <!-- /container -->
 <!-- HTML5 shim, for IE6-8 support of HTML elements -->
 <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://www.google.com/jsapi?key=ABQIAAAA7xDdKAjMhe-ePotJBqY3HRRjjZFn9lpi0fRXgOYoClSmuJlwEBRVUYp0OBmI-O5piJ3-2YkM7gHjFQ" type="text/javascript"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
-<script src="/min/,qg=js.pagespeed.jm.UoP5vaLZTP.js" type="text/javascript"></script>
+<script src="https://www.google.com/jsapi?key=ABQIAAAA7xDdKAjMhe-ePotJBqY3HRRjjZFn9lpi0fRXgOYoClSmuJlwEBRVUYp0OBmI-O5piJ3-2YkM7gHjFQ" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" type="text/javascript"></script>
+<script src="/min/?g=js" type="text/javascript"></script>
+<script src="/min/?g=js-login" type="text/javascript"></script>
 <script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-25513771-2']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
 
 
