@@ -1,24 +1,9 @@
-> *The following text is extracted and transformed from the readyhosting.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617105708id_/http%3A//www.readyhosting.com/about/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyhosting.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219170729id_/http%3A//www.readyhosting.com/about/privacy.bml) for the most accurate reproduction.*
 
 # ReadyHosting's Privacy Policy
 
-|  |  |   [Terms of Service](https://web.archive.org/legal/index.bml)  
----|---  
-|     [User Agreement](https://web.archive.org/legal/legal_useragreement.bml)  
-|     [Acceptable Use Policy](https://web.archive.org/legal/legal_aup.bml)  
-|     [Domain Registration Agreement](https://web.archive.org/legal/legal_domain.bml)  
-|     [Anti-Spam Policy](https://web.archive.org/legal/legal_antispam.bml)  
-|     [Privacy Policy](https://web.archive.org/legal/legal_privacy.bml)  
-|     [Domain Name Dispute & Copyright Claims](https://web.archive.org/legal/legal_copyrightclaims.bml)  
-|     [Civil Subpoena Policy](https://web.archive.org/legal/legal_subpoena.bml)  
-|     [Digital Millennium Copyright Act](https://web.archive.org/legal/legal_dmca.bml)  
-|     [Unavailability of Current Registrant Form](https://web.archive.org/legal/pdf/UnavailabilityofRegistrant_31.pdf)  
-|     [Web Site Development Agreement](https://web.archive.org/legal/legal_website_agree.bml)  
-|     [SEO Agreement](https://web.archive.org/legal/legal_seoagreement.bml)  
-|     [Affiliate Agreement](https://web.archive.org/affiliate/affiliateagreement.bml)  
-|     [Referral Program Agreement](https://web.archive.org/referral/referral_tos.bml)  
-  
-
+|    
+| 
 
 Your privacy is very important to ReadyHosting ("ReadyHosting"). We want to make your experience using our services and on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools and opportunities with complete confidence.
 
@@ -80,7 +65,7 @@ To ensure you receive the information you need to manage your account and protec
 
   
 
-  17. **Where to Direct Questions About ReadyHosting's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, ReadyHosting, 70 Blanchard Road 3rd Floor, Burlington, MA 01803 or support@readyhosting-inc.com.
+  17. **Where to Direct Questions About ReadyHosting's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, ReadyHosting, 10 Corporate Dr. Suite 300, Burlington, MA 01803 or support@readyhosting-inc.com.
   
 
   18. **Unsubscribe**
@@ -98,4 +83,6 @@ Please note: ReadyHosting reserves the right to send you email communications th
 
 
 
-This file was last modified May 3, 2012. [View comparison version.](https://web.archive.org/web/20120617105708id_/http://www.readyhosting.com/legal/legal_privacy.bml?showchanges=1)
+This file was last modified December 10, 2012. [View comparison version.](https://web.archive.org/web/20121219170729id_/http://www.readyhosting.com/legal/legal_privacy.bml?showchanges=1)  
+  
+---|---
