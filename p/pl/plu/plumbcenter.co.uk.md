@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plumbcenter.co.uk privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620095646id_/http%3A//www.plumbcenter.co.uk/en/info/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumbcenter.co.uk privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219141938id_/http%3A//www.plumbcenter.co.uk/en/info/security-and-privacy) for the most accurate reproduction.*
 
-# Security & Privacy | Plumb Center
+# Security Privacy & Cookies | Plumb Center
 
-## Security & Privacy Policy
+## Security Privacy & Cookies Policy
 
 This Privacy Policy regulates the use by Wolseley UK of the information you provide when using the Plumb Center website. It is to be read in conjunction with the terms and conditions of use of the site.
 
@@ -70,9 +70,49 @@ E-mail: [rachel.see@wolseley.co.uk ](mailto:rachel.see@wolseley.co.uk)
 
 ### Cookies:
 
-A cookie is a piece of text which asks permission to be placed on your computer’s hard drive. Once you agree (or your browser agrees automatically if you have set it up in that way), your browser adds that text in a small file. A cookie helps analyse web traffic or lets web site operators know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. For example, when you visit an electronic store, a cookie makes it easier to shop, by allowing you to place things into a shopping basket; the basket itself is not a cookie; the cookie is placed on your hard drive and keeps track of your basket versus others in use at the same time. 
+#### Whats is a Cookie?
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our web site in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Denial of a traffic log cookie may prevent you from using the web site. Overall, cookies help us provide you with a better web site, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. This practice is strictly enforced. We know that people have concerns about cookies, but we believe that the benefit that you and Wolseley UK gain from their proper use is worthwhile. You may set up your web browser (Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests or decline cookies completely (although declining them may prevent you from being able to use the web site properly or at all). You can delete the files that contain cookies – those files are stored as part of your Internet browser. 
+A cookie is a small text file stored on your computer when you visit certain web pages. A cookie helps analyse web traffic or lets web site operators know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. Cookies do not contain personally identifiable information such as your home address, telephone number or credit card details. By using our website, you are agreeing to our Privacy and Cookies Policies and consent to the use of cookies by us as described in these policies. 
+
+#### What cookies do we use?
+
+You can find more information about the individual cookies we use and the purposes for which we use them in the table below. We use the following terminology: 
+
+  * Session cookies – only last for the duration of your browsing session on the website. Your web browser would normally delete these when you close the browser. 
+  * Persistent cookies – these last longer than the browser session e.g. if you log into a website and then return to the website some days later, the website knows who you are and displays a welcome message to you. Persistent cookies enable this to happen.
+  * First party cookies – these are set by us 
+  * Third party cookies – you may notice some cookies that aren't related to us. If you go on to a web page that contains embedded content, for example from YouTube, you may be sent cookies from these websites. We don't control the setting of these cookies, so we suggest you check the third-party websites for more information about their cookies and how to manage them.
+
+**Cookie Name** | **Description and Purpose** | **Session / Persistent** | **First / Third Party**  
+---|---|---|---  
+WC_SESSION_ESTABLISHED | This cookie is created on the first request processed by WebSphere Commerce runtime. For example, a non-cache request | Session | First Party  
+WC_ACTIVEPOINTER | This cookie contains the value of the store ID of the session. This value is used to select the store to execute the command, if one is not specified on the URL. | Session | First Party  
+WC_USERACTIVITY_ID | This is a user session cookie that flows between the browser and server over both SSL or non-SSL connection. It is used for user identification over non-SSL connections. It contains user session values such as login timeout, session identifier, etc. | Session | First Party  
+WC_GENERIC_ACTIVITYDATA | This cookie only exists if it is a generic user (-1002) session. This cookie stores the session values such as storeid, langid, contracts, etc. | Session | First Party  
+WC_AUTHENTICATION_ID | WebSphere Commerce uses a secure authentication cookie to manage authentication data. An authentication cookie flows only over SSL, and has a timestamped signature for increased security. This cookie is used to authenticate the user over SSL-connections. | Session | First Party  
+JSessionID | Default Java/JSP cookie that is created/sent when session is created | Session | First Party  
+Apache | Default Apache cookie set by the HTTP server | Session | First Party  
+WC_PERSISTENT | This cookie is used to persist user ID, language ID, and currency for each store ID visited in the session. Multiple sets of identifiers can exist if the user visits more than one store | Session | First Party  
+ltpatoken2 | WebSphere Commerce generates the Lightweight Third Party Authentication (LTPA) cookie, where it can be used by other WebSphere Application Server applications. This enables WebSphere Commerce to be the authentication engine.  
+In a single sign-on (SSO) scenario, an HTTP cookie is used to propagate a user's authentication information to disparate Web servers relieving the user from entering authentication information for every new client-server session (assuming basic authentication) | Session | First Party  
+WC_timeoffset | Stores the time off set timeoffset between browser time and GMT | Session | First Party  
+Brochure Request php_sessionID | Browsers automatically set this when a user visits the site – website visits are inherently disconnected so a site is only able to gauge that user has been to page before [be it two seconds or two months] by the information sent in the browser  request | Session | First Party  
+_utma | Used by Google analytics. Stores each user's amount of visits, and the time of the first visit, the previous visit, and the current visit | Persistent | Third Party  
+_utmb | Used by Google analytics. Are used to check approximately how long you stay on a site: when a visit starts, and approximately ends | Persistent | Third Party  
+_utmc | Used by Google analytics. Are used to check approximately how long you stay on a site: when a visit starts, and approximately ends | Persistent | Third Party  
+_utmz | Used by Google analytics. Stores where a visitor came from (search engine, search keyword, link) | Persistent | Third Party  
+  
+
+
+#### Managing your cookies
+
+You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. You can delete cookies stored in your browser by using a function in your browser. Whilst this does not mean you won’t collect cookies in the future, it gives you freedom to delete your cookies after you have been online.
+
+To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+
+To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>. 
+
+Please note that Wolseley is not responsible for the content of external websites.
 
 ### Links:
 
