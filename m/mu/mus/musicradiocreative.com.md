@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicradiocreative.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602064824id_/http%3A//www.musicradiocreative.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicradiocreative.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219011037id_/http%3A//www.musicradiocreative.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,9 @@
 
 Protecting your personal details on our website.
 
-Last updated: 11 February 2012
+Please note this website requires cookies in order to function correctly, they do not store any specific information about you personally. Read more about our use of cookies [here](http://www.musicradiocreative.com/privacy#cookies).
+
+Last updated: 26 May 2012
 
 Music Radio Creative (Registered number 5473283), whose registered office is at 3 Scotts Way, Tunbridge Wells, Kent, TN2 5RG, United Kingdom, knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes our privacy policy and forms part of our website terms and conditions ("Website Terms").
 
