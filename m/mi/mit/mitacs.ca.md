@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mitacs.ca privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511040506id_/https%3A//www.mitacs.ca/resources-faculty/policies-forms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitacs.ca privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219010631id_/https%3A//www.mitacs.ca/resources-faculty/policies-forms/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mitacs
+# Privacy Policy | Mitacs – Inspiring innovation in Canada
 
 ### Scope & Application
 
@@ -167,3 +167,40 @@ University of British Columbia
 Vancouver, BC, V6T 1Z3  
 Email: privacy@mitacs.ca  
 Phone: 604- 822- 9189
+
+## Accelerate drop-down (Eng)
+
+Canada’s premiere research internship program providing interns with the opportunity to transfer their skills from theory to real-world application, while companies gain a competitive advantage by accessing high-quality research expertise.
+
+###### [Past Research Projects](https://web.archive.org/accelerate/research "Accelerate Research Projects")
+
+###### [Apply Now](https://web.archive.org/accelerate/apply-now)
+
+## Elevate drop-down (Eng)
+
+Provides a foundation of cutting-edge research, business, entrepreneurship and scientific management skills to newly-minted PhDs while giving companies access to a highly qualified uniquely trained pool of talent.
+
+###### [Past Research Projects](https://web.archive.org/elevate/research "Elevate Research Projects")
+
+###### [Apply Now](https://web.archive.org/elevate/how-to-apply)
+
+## Globalink drop-down (Eng)
+
+Introduces Canada as a world-leading research and innovation destination to top undergraduate students from around the world.
+
+###### [Past Research Projects](https://web.archive.org/globalink/research "Globalink Research Projects")
+
+## Enterprise drop-down (Eng) 
+
+Enterprise is a comprehensive, career-development program that gives graduates of science, technology, engineering and math the opportunity to build their business skills through an intense program of mentorship and work experience with small and medium-sized companies.
+
+## Step drop-down (Eng)
+
+Canada’s only comprehensive program providing business-ready skills to up-and-coming researchers. Step trains graduate students and postdoctoral fellows in essential interpersonal, project management and entrepreneurial skills required for them to succeed in their future career.
+
+## Outreach drop-down (Eng)
+
+Making science and mathematics compelling for future researchers – our children – through initiatives such as the nationally-recognized theatrical production, Math Out Loud, and online quiz game, MathAmaze.
+
+  
+
