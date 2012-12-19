@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academicdresshire.co.nz privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617194644id_/http%3A//www.academicdresshire.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicdresshire.co.nz privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219033150id_/http%3A//www.academicdresshire.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy
 
