@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overallsite.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506014930id_/http%3A//www.overallsite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overallsite.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219130610id_/http%3A//www.overallsite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Overallsite
 
@@ -65,7 +65,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.overallsite.com/contact/ "contact us").  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.  
 [http://overallsite.com](http://overallsite.com/)  
 #817, Street No, 05, Tilak Nagar,  
 Ludhiana – 141008,  
