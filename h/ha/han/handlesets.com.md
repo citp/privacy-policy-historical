@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handlesets.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620075309id_/http%3A//www.handlesets.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handlesets.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219144305id_/http%3A//www.handlesets.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
 # Handlesets.com: Security & Privacy
 
@@ -62,4 +62,4 @@ If you choose to visit Handlesets.com, your visit and any dispute over privacy i
 
 Build.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and European Commission. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor Web site](http://export.gov/safeharbor/) or view our [Safe Harbor Privacy Policy](https://web.archive.org/index.cfm?page=help:safeharborprivacypolicy)
 
-**Copyright © 2000-2010 Build.com, Inc. All Rights Reserved.**
+**Copyright © 2000-2012 Build.com, Inc. All Rights Reserved.**
