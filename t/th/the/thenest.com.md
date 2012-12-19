@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenest.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620221135id_/http%3A//www.thenest.com/global/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenest.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219144040id_/http%3A//www.thenest.com/global/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Your Privacy Rights
 
