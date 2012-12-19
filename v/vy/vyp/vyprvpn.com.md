@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vyprvpn.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630004039id_/http%3A//www.goldenfrog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vyprvpn.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219053017id_/http%3A//www.goldenfrog.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Golden Frog
 
@@ -33,3 +33,7 @@ Golden Frog collects personally identifiable information from end users only thr
 ## How Golden Frog Uses Information Collected From www.goldenfrog.com:
 
 Golden Frog does _not_ use personally identifiable information collected through our Web site to contact users regarding products and services offered by Golden Frog. We do _not_ share a member's personally identifiable information with affiliates, independent contractors, business partners or outside entities for marketing purposes or otherwise. We hold your data private.
+
+## U.S.-EU Safe Harbor Framework
+
+Golden Frog complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Golden Frog has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Golden Frog's certification, please visit <http://www.export.gov/safeharbor/>
