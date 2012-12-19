@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5linx.net privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615120107id_/http%3A//5linx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5linx.net privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219015630id_/http%3A//5linx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « «
 
@@ -48,7 +48,7 @@ Subject to certain security requirements, 5LINX® will do its best to honor requ
 
 ###### Children’s Privacy Policy
 
-5LINX® does not sell products or services for purchase by children. 5LINX® does not knowingly solicit or collect PII from children or teenagers under the age of eighteen. If you believe that a minor has disclosed PII to 5LINX®, please click here to report this to us.
+5LINX® does not sell products or services for purchase by children. 5LINX® does not knowingly solicit or collect PII from children or teenagers under the age of eighteen. If you believe that a minor has disclosed PII to 5LINX®, please [click here](mailto:fieldoperations@5LINX.com) to report this to us.
 
 ###### 5LINX® Spam Policy
 
