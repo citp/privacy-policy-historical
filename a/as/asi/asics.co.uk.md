@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the asics.co.uk privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620065411id_/http%3A//www.asics.co.uk/about/myasics/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asics.co.uk privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219070932id_/http%3A//www.asics.co.uk/about/myasics/privacy) for the most accurate reproduction.*
 
 # My ASICS | Privacy policy
 
 ### About us
 
-This privacy statement applies to the websites (“Sites”) operated by ASICS Europe B.V. (“ASICS Europe”, “we”, “our” and “us”) Kruisweg 567 (2132 NA) in Hoofddorp, The Netherlands to the processing of personal information by ASICS Europe as contemplated in this privacy policy Any reference to “you” or “your” means you, the user.
+This privacy statement applies to the websites (“Sites”) operated by ASICS Europe B.V. (“ASICS Europe”, “we”, “our” and “us”) Taurausavenue 125 (2132 LS) in Hoofddorp, The Netherlands to the processing of personal information by ASICS Europe as contemplated in this privacy policy Any reference to “you” or “your” means you, the user.
 
 ASICS Europe respects your privacy and is committed to protecting the personal information you share with us. This statement describes how we collect and use your personal information that we may collect about you trough the Sites and from our communications with you. The Sites are hosted on various servers within the European Economic Area.
 
