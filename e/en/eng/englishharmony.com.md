@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the englishharmony.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620071736id_/http%3A//englishharmony.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishharmony.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219050608id_/http%3A//englishharmony.com/privacy-statement) for the most accurate reproduction.*
 
-# English Harmony Privacy Policy | English Harmony | Improve Spoken English
+# English Harmony Privacy Policy | English Harmony
 
 **Privacy Policy**
 
