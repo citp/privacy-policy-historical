@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the jamplay.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604070633id_/http%3A//www.jamplay.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamplay.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219133112id_/http%3A//www.jamplay.com/company/privacy-policy) for the most accurate reproduction.*
 
 # JamPlay.com Privacy Policy
 
 ### Effective Date: September 13th, 2011
 
-[](https://privacy-policy.truste.com/click-with-confidence/wps/en/www.jamplay.com/seal_l)
+[](https://privacy.truste.com/privacy-seal/JamPlay,-LLC/validation?rid=9a22254d-a942-4725-8b3b-3263adaffa54 "TRUSTe online privacy certification")
 
 ### Information about our Organization and Web site
 
-Modern information and communication technologies play a fundamental role in the activities of an organization like JamPlay LLC ("JamPlay"). We are based in the United States, and our principal activity distributing guitar lessons via online videos and teaching tools. Our privacy policy covers JamPlay, LLC the www.JamPlay.com website.
+Modern information and communication technologies play a fundamental role in the activities of an organization like JamPlay LLC ("JamPlay"). We are based in the United States, and our principal activity distributing guitar lessons via online videos and teaching tools. Our privacy policy covers JamPlay, LLC the www.JamPlay.com website. This privacy policy describes how JamPlay, LLC collects and uses the personal data you provide on our web site: http://www.jamplay.com. It also describes the choices available to you regarding our use of your personal data and how you can access and update this information.
 
-JamPlay has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://watchdog.truste.com/pvr.php?page=complaint) including transparency, accountability and choice regarding the collection and use of your personal data. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+JamPlay has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://watchdog.truste.com/pvr.php?page=complaint) including transparency, accountability and choice regarding the collection and use of your personal data. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, http://www.jamplay.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us at 1-877-999-4526 or support@jamplay.com. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
 
@@ -46,7 +46,7 @@ We automatically log personal data by means such as programming or we link infor
 
 
 
-We use cookies to store personal data or we link information stored in cookies with personal data about specific individuals. We do so for the following purposes: 
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies to store personal data or we link information stored in cookies with personal data about specific individuals. We do so for the following purposes: 
 
   * Technical administration of the Web site
   * Research and development
@@ -54,17 +54,17 @@ We use cookies to store personal data or we link information stored in cookies w
 
 
 
-We use a third-party tracking service Google Analytics that uses cookies to track non-personally identifiable information about visitors on our site. We track **all** usage (including, but not limited to: pages visited, time on site, browser information, geographic location) to improve the user experience.
+We use a third-party tracking service Google Analytics that uses cookies and web beacons/pixels to track non-personal data about visitors on our site. We track **all** usage (including, but not limited to: pages visited, time on site, browser information, geographic location) to improve the user experience.
 
-The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site. 
+The use of cookies and web beacons/pixels by our partners, affiliates, tracking utility company, service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site. 
 
 ### Data Collection and Purpose Specification
 
 We collect the personal data that you may volunteer while using our services. 
 
   * We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations.
-  * We may provide your personal information to companies, such as PayPal, that provide services to help us with our business activities such as billing or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
-  * We use your personal data to provide services to you. We also use this data to send updates to our sites and marketing communications. You can opt out of receiving promotional email by following the directions included in emails or by using your account settings page. We will share your personal data with third parties only in the ways that are described in this privacy statement.
+  * We may provide your personal data to companies, such as PayPal, that provide services to help us with our business activities such as billing or offering customer service. These companies are authorized to use your personal data only as necessary to provide these services to us.
+  * We use your personal data to provide services to you. We also use this data to send updates to our sites and marketing communications. You can opt out of receiving promotional email by following the directions included in emails or by using your account settings page. We will share your personal data with third parties only in the ways that are described in this privacy policy.
   * We do not sell your personal data to third parties.
   * If we wish to use your personal data for a new purpose, we offer you the means to consent to this new purpose: by indicating in a box at the point on the site where personal data is collected.
 
@@ -88,15 +88,19 @@ We do not disclose your personal data to our subsidiaries or other organizations
 
 ### Testimonials
 
-With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us.
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you want to update or delete your testimonial, please [contact us](https://web.archive.org/customers/contact).
 
 ### Links to Other Web Sites
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of JamPlay. If you submit personal data to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+Our Site includes links to other Web sites whose privacy practices may differ from those of JamPlay. If you submit personal data to any of those sites, your information is governed by their privacy policy. We encourage you to carefully read the privacy policy of any Web site you visit.
 
 ### Public Forums
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal data from our blog or community forum, please contact us. In some cases, we may not be able to remove your personal data, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal data from our blog or community forum, please [contact us](https://web.archive.org/customers/contact). In some cases, we may not be able to remove your personal data, in which case we will let you know if we are unable to do so and why.
+
+### Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
 ### Confidentiality / Security
 
@@ -106,7 +110,7 @@ We follow generally accepted standards to protect the personal data submitted to
 
 All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data.
 
-We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation.
+We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law such as to comply with a subpoena or other regulation. When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
 ### Privacy Compliance
 
@@ -124,13 +128,13 @@ If JamPlay LLC is involved in a merger, acquisition, or sale of all or a portion
 
 ### Privacy Support
 
-If you wish to access your personal data, delete, or have an enquiry about our privacy policy, please contact us:
+If you wish to access your personal data, update, delete, or have an enquiry about our privacy policy, please contact us:
 
   * sending an email to support@jamplay.com
   * calling us at 1-877-999-4526
 
 
 
-### Notification of Privacy Statement Changes
+### Notification of Privacy Policy Changes
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
