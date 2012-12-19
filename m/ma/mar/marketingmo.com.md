@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the marketingmo.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620080204id_/http%3A//www.marketingmo.com/privacy-policy-and-security-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingmo.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219134721id_/http%3A//www.marketingmo.com/privacy-policy-and-security-statement) for the most accurate reproduction.*
 
-# Marketing M.O. Privacy Policy | Marketing M.O.
+# Marketing MO Privacy Policy | Marketing MO
 
 We understand that you care how information about you is stored and shared. In order to provide a safe, secure experience, we will make every effort to ensure that the information you give us remains private, and is used for the purposes described below.
 
 ## What information do we gather?
 
-The Marketing M.O. gathers collective information about our website visitors. An example of such is the number of visitors to the site, which areas of the site are visited most often and what services are most valued. We use this aggregated and anonymous data to help us determine how we can create a better overall experience for our visitors.
+The Marketing MO gathers collective information about our website visitors. An example of such is the number of visitors to the site, which areas of the site are visited most often and what services are most valued. We use this aggregated and anonymous data to help us determine how we can create a better overall experience for our visitors.
 
-We receive and store certain types of information whenever users interact with us. For example, we use “cookies” to help us provide a more personalized experience. To help us make emails more useful and interesting, we may receive a confirmation when you open an email from Marketing M.O. if your computer supports such capabilities.
+We receive and store certain types of information whenever users interact with us. For example, we use “cookies” to help us provide a more personalized experience. To help us make emails more useful and interesting, we may receive a confirmation when you open an email from Marketing MO if your computer supports such capabilities.
 
 The rest of the information we collect is the information you provide to us to utilize our product and services.
 
@@ -30,7 +30,7 @@ Our site contains links to other web sites. While we link to sites, references a
 
 ## Opt-out
 
-Marketing M.O. provides members with the opportunity to opt-out of receiving communications from us.
+Marketing MO provides members with the opportunity to opt-out of receiving communications from us.
 
 ## Contact information
 
@@ -39,6 +39,6 @@ If you have any questions about our services or privacy statement, contact:
 **Moderandi Inc.**  
 11260 N 92nd St Ste 1066  
 Scottsdale, Arizona 85260  
-P (480) 219-9695  
-F (866) 454-7924  
+P (480) 219-9695
+
 [Click here to send an email](mailto:hello@marketingmo.com)
