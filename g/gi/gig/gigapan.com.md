@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigapan.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628045628id_/http%3A//www.gigapan.com/cms/about/usage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigapan.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219154901id_/http%3A//www.gigapan.com/cms/about/usage) for the most accurate reproduction.*
 
 # GigaPan: About: Press & Media Coverage, Articles, Videos, Reviews, Our Policies, About GigaPan, Clients & Partners
 
@@ -80,7 +80,7 @@ From time to time, GigaPan may change its Privacy Policy. If we make any changes
     14. 15.14 “ **Site Visitors** ” means casual visitors to our Site who do not participate in the Services.
     15. 15.15 “ **Registered Members** ” means the panoramic photographers and panoramic photography fans who are registered with the GigaPan Site.
   15. **Contact Us** If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Website, please contact us at:  
-[support@GigaPan.com ****](mailto:support@GigaPan.com)
+[support@GigaPan.com](mailto:support@GigaPan.com)
   16. **Effective Date** The effective date of this Privacy Policy is 9/28/2011.
 
 
