@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the internap.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513153018id_/http%3A//www.internap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internap.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219010044id_/http%3A//www.internap.com/privacy-policy) for the most accurate reproduction.*
 
-# Internap Privacy Policy
+# Internap Global Hosting Company Privacy Policy — Internap
 
 ## Internap – IT Infrastructure solutions provider featuring enterprise IP, CDN, colocation, managed hosting and cloud services
 
@@ -52,31 +52,24 @@ Internap maintains its databases and systems in accordance with industry standar
 
 ### Enforcement
 
-Internap complies with the U.S. – EU Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Internap has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>. In compliance with the Safe Harbor Principles, Internap commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Internap at:
+Internap complies with the U.S. – EU Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Internap has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
 
-John Maggard  
+In compliance with the Safe Harbor Principles, Internap commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Internap at:
+
+Greta Van  
 VP Audit and Compliance  
 Internap Network Services Corp.  
 One Ravinia Drive, Suite 1300  
 Atlanta, GA 30346  
-[jmaggard@internap.com](mailto:%6A%6D%61%67%67%61%72%64%40%69%6E%74%65%72%6E%61%70%2E%63%6F%6D)
+[privacyinfo@internap.com](mailto:privacyinfo@internap.com)
 
-Internap has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Internap, you may contact:
+Internap has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Internap, please visit the BBB EU Safe Harbor website at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/european-dispute-resolution/consumer/) for more information and to file a complaint.
 
-**Council of Better Business Bureaus, Inc.**  
-BBB EU Safe Harbor  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: [www.us.bbb.org](http://www.us.bbb.org/)  
-Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
-
-### Changes to Policy 
+### Changes to Policy
 
 If Internap decides to change its privacy policies and practices, Internap will post those changes to our Privacy Policy on our website in advance of the changes taking effect, so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner materially different from that stated at the time it was collected, we will notify users. Users will have a choice as to whether or not we use their information in this different manner from that point forward. We will continue to be able to use information in accordance with the Privacy Policy under which the information was collected or, if you have given consent, under the modified Privacy Policy.
 
-May 2011  
-
+May 2012
 
   
 [](http://www.bbb.org/atlanta/business-reviews/internet-services/internap-network-service-in-atlanta-ga-6009293#bbblogo "Internap Network Service Corp., Internet Services, Atlanta, GA")
