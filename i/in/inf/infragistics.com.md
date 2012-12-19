@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the infragistics.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630173558id_/http%3A//www.infragistics.com/about-us/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infragistics.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219215712id_/http%3A//www.infragistics.com/legal/privacy) for the most accurate reproduction.*
 
-# Infragistics | Privacy Statement
+# Infragistics - Privacy Statement
+
+## Online Privacy
 
 You take online privacy seriously, and so does Infragistics. It's our way of sustaining your trust in Infragistics as well as in our products and services.
 
@@ -12,14 +14,13 @@ In general, you can visit Infragistics on the World Wide Web without telling us 
 
 Infragistics.com may ask you to register and provide information that personally identifies you, such as name, e-mail address, mailing address or phone number ("Personal Information"). This will occur in certain circumstances, including for example, when you download trial software, sign up for newsletter services, download patches, purchase software, register software, or join a limited-access premium service. We use your Personal Information for three primary purposes:
 
-  1. To enable you to find or gain access to information, software or services on our web site.
-  2. To help us personalize the content or navigational choices presented to you in order to make your future experiences on our web site as efficient as possible.
-  3. To allow us to inform you of product updates and upgrades, special offers, new services and products, as well as updated information that may be especially pertinent to you.  
-Infragistics, Inc. ("Infragistics") will not provide your name, e-mail address, mailing address, phone number, or any other Personal Information to any third parties except for Authorized Resellers. We may, from time to time, select other companies with pertinent information or products we think might be appropriate for you, and send you that information on behalf of that third party. To accomplish that, we would not disclose your Personal Information to them.
+  * Collect, analyze, segment; identify metrics; and build reports that rely on popular analytic tools and services.
+  * Creation of online marketing dashboards that depict key metrics related to traffic information, conversion rates, online customer behavior / experience, etc.
+  * Integrate analytic insights to drive recommendations across multiple platforms and programs.
 
 
 
-If you do not desire us to send you information on third party products, do not check the appropriate check box requesting us to do so. Similarly, if you don't want Infragistics to send you e-mail or postal mail regarding Infragistics' products, services, or special offers, do not check the appropriate check boxes requesting us to do so. Notwithstanding this email opt-out, if you register or download a trial of Infragistics software or services, Infragistics may contact you by email for a limited period to communicate with you on the progress of your trial.
+If you don't want Infragistics to send you e-mail or postal mail regarding Infragistics' products, services, or special offers, do not check the appropriate check boxes requesting us to do so. Notwithstanding this email opt-out, if you register or download a trial of Infragistics software or services, Infragistics may contact you by email for a limited period to communicate with you on the progress of your trial.
 
 ## Online Registration
 
@@ -40,6 +41,3 @@ We also store specific information if you enter a contest that enables us to tra
 Infragistics reserves the right to alter our privacy principles as business needs require. Any alterations to these principles will be posted on our web site in a timely manner.
 
 Please feel free to contact the webmaster with any questions, comments, or problems that might arise.
-
-  
-
