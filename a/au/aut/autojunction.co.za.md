@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autojunction.co.za privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511144048id_/http%3A//www.autojunction.co.za/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autojunction.co.za privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219145221id_/http%3A//www.autojunction.co.za/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AutoJunction | Better Cars. More Often.
+# Privacy Policy | AutoJunction
 
 **Privacy Policy**
 
@@ -30,7 +30,7 @@
 **1.  Introduction **
 
 [www.careerjunction.co.za](http://www.careerjunction.co.za/) is an online placement solution that works as an intermediary between Recruiters and CareerSeekers.  
-[www.autojunction.co.za](http://www.autojunction.co.za/) is an online auto advertising and lead generation solution that works as an intermediary between Seekers, Dealers, Buyers and Sellers of vehicles.  
+[www.autojunction.co.za](https://web.archive.org/) is an online auto advertising and lead generation solution that works as an intermediary between Seekers, Dealers, Buyers and Sellers of vehicles.  
 [www.propertyjunction.co.za](http://www.propertyjunction.co.za/) is an online property advertising and lead generation solution that works as an intermediary between Seekers, Agents, Buyers, Developers and Sellers of properties.
 
 **2\. Definitions**
@@ -39,7 +39,7 @@ Auto-, Property and Junction are divisions of CareerJunction and form part of th
 The Company as referred to herein as "CareerJunction" refers to CareerJunction and any of its divisions, including but not limited to:
 
   * [www.careerjunction.co.za](http://www.careerjunction.co.za/)
-  * [www.autojunction.co.za](http://www.autojunction.co.za/)
+  * [www.autojunction.co.za](https://web.archive.org/)
   * [www.propertyjunction.co.za](http://www.propertyjunction.co.za/)
   * [www.junction.co.za](http://www.junction.co.za/)
 
