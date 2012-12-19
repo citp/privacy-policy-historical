@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teachmyass.com privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424174915id_/http%3A//teachmyass.com/%3Fref%3D%26%26page%3D_free_privacy%26itemcnt%3D%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachmyass.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219191548id_/http%3A//teachmyass.com/%3Fref%3D%26%26page%3D_free_privacy%26itemcnt%3D%26) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy
 
 Privacy Policy
 
