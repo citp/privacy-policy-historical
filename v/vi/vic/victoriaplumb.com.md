@@ -1,6 +1,21 @@
-> *The following text is extracted and transformed from the victoriaplumb.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611030241id_/http%3A//www.victoriaplumb.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victoriaplumb.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219050313id_/http%3A//www.victoriaplumb.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://www.victoriaplumb.com/)
+
+UK call centre: **0844 804 48 48**
+
+call us today 8am to 9pm
+
+  * [**BROCHURE** REQUEST](http://www.victoriaplumb.com/brochure_request/index.php)
+  * [**NEXT DAY** DELIVERY](http://www.victoriaplumb.com/del_info.html#nextday)
+  * [**FINANCE** AVAILABLE](http://www.victoriaplumb.com/finance/)
+  * [**TRADE** ACCOUNTS](http://www.victoriaplumb.com/trade/)
+  * 
+
+
+[Home](http://www.victoriaplumb.com/ "Victoria Plumb Home") > **Privacy Policy**
 
 Victoria Plumb is unequivocally committed to respecting the privacy rights of visitors to its website.
 
@@ -8,7 +23,7 @@ This policy statement is designed to give a clear explanation of how Victoria Pl
 
 By definition, personal Information includes any recorded information that identifies you personally which is inclusive of things such as your name, address or email address.
 
-Unless clearly stated in this Privacy Policy, Victoria Plumb will not make public, rent or sell your personal information to any third party unrelated to us without your prior permission, other than as required by law.
+Unless clearly stated in this Privacy Policy, Victoria Plumb and the Walker Group will not make public, rent or sell your personal information to any third party unrelated to us without your prior permission, other than as required by law.
 
 ##  THE PERSONAL INFORMATION WE COLLECT
 
@@ -24,7 +39,7 @@ We require this information to understand your needs and provide you with a bett
   * Processing your order
   * For registration purposes if you open an account
   * Internal record keeping
-  * Sending promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided
+  * Sending promotional emails from Victoria Plumb and other Walker Group companies about new products, special offers or other information which we think you may find interesting using the email address which you have provided. The Walker Group companies include Victoria Plumb, MFI, Land of Leather and Focus Do-It-All
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests
 
 
@@ -33,11 +48,46 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ##  HOW WE USE COOKIES
 
-We use cookies to be more efficient. We can learn what information is important to our visitors, and what isn't. We can discard Web pages you don't use, and focus our efforts on information you need. We only use this information for statistical analysis purposes and then the data is removed from the system.
+**What are cookies?**
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+Cookies are small text files that are stored on your PC, phone or other web enabled device when you visit the Victoria Plumb website. They are not harmful and do not contain any confidential information such as your home address, date of birth or credit card details.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+Cookies are an essential part of how our site works. Some of these cookies are required by our site to enable you to transact whilst other cookies enable us to give you an enhanced, personalised web experience.
+
+By using our site, you also consent to the use of these cookies. Cookies are used on our site for the following reasons:
+
+  * To allow you to securely sign in to your Victoria Plumb  Account, so that you can use "My Account" features such as order information, making payments and receive on-site offers.
+  * To store the content of your online shopping bag whilst you browse the site and to complete an order.
+  * To record the areas of the website that you have visited, products you have viewed and time spent browsing, as well as the products you purchased. We use this information to help make the website more user friendly, develop our site design and to continuously improve the quality of the service we provide.
+  * To distribute visitors to our site evenly across platforms to ensure the content is served at the fastest possible speed.
+
+
+
+We also offer you the facility to share your experience on our site through social sites such as facebook and twitter. By using these features, you are also consenting to allow cookies from these providers. More information about how these providers use cookies can be found at their websites.
+
+**Are cookies safe?**
+
+Yes. The information stored in cookies is safe and anonymous. They do not contain any information which could personally identify you and your account security is never compromised. You can find more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). For a video about cookies visit [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies).
+
+**Can I turn off cookies?**
+
+Victoria Plumb uses cookies to ensure that we provide the best possible standard of service to our online customers. However, as part of our privacy and security policy, we require your consent to use them.
+
+To withdraw your consent, or if you want to be notified each time a cookie is about to be used, you should amend the settings provided in your web browser to prevent us from storing cookies on your computer's hard drive. For information on how to disable cookies, please consult the "Help" tab of your browser via the menu bar.
+
+It must be noted that if you choose not to consent to the use of cookies, your experience of our site will be severely impaired and many integral aspects of the site, including (but not limited to) adding items to your shopping bag and accessing your account, will not work at all.
+
+Our use of advertisement tracking
+
+We also allow selected third parties who participate with us in marketing programmes to place cookies when you visit our site. These cookies enable us to monitor which adverts you see and click on to get to our site. We currently use two companies for this and you can see their privacy policies at the following addresses:
+
+Adwords:<http://www.google.com/policies/privacy/ads/>
+
+Criteo: <http://www.criteo.com/us/privacy-policy>
+
+These cookies are as safe as the ones used whilst you browse our site and neither of these third parties collects any personal data from which they would be able to identify individual customers.
+
+We are not responsible for the content or privacy policies of third parties or other websites.
 
 ##  YOUR RIGHTS
 
