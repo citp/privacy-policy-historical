@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the panelplace.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614001242id_/http%3A//www.panelplace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panelplace.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219070545id_/http%3A//www.panelplace.com/privacy.php) for the most accurate reproduction.*
 
-# PanelPlace - Maximize Your Survey Earnings
+# PanelPlace: Home of Paid Survey | Privacy Policy
 
   
 _(Last updated: 7 Aug 2008)_
 
-PanelPlace is operated by YourSay.com (established since 1997) who has paid many of its 400,000+ members globally. We work only with reputable research companies worldwide to bring you surveys that REALLY pay.
+PanelPlace works only with reputable research companies worldwide to bring you surveys that REALLY pay.
 
 **Your privacy is important**
 
