@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icelolly.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507223745id_/http%3A//www.icelolly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icelolly.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219062653id_/http%3A//www.icelolly.com/privacy-policy) for the most accurate reproduction.*
 
-# Cheap Holidays | Cheap Holiday Deals | Cheap Holiday Offers | icelolly
+# Cheap Holidays | Cheap Holiday Deals | Low Cost Holidays | icelolly
 
 Icelolly Marketing Limited ("We") are committed to protecting and respecting your privacy. 
 
