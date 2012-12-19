@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podcastawards.com privacy policy that was archived on 2012-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120315211156id_/http%3A//www.podcastawards.com/index.php%3Foption%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podcastawards.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219191753id_/http%3A//podcastawards.com/index.php%3Foption%3Dprivacy) for the most accurate reproduction.*
 
 # PodCastAwards.com
 
