@@ -1,29 +1,42 @@
-> *The following text is extracted and transformed from the backlinksphilippines.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518094233id_/http%3A//www.backlinksphilippines.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinksphilippines.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219135135id_/http%3A//backlinksphilippines.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Backlinks Philippines
+# Privacy Policy
 
-**Your Privacy**
+BacklinksPhilippines.com  is committed to user privacy in its products and services.  This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our [Backlinks Philippines](http://www.backlinksphilippines.com/ "Groom Wedding Speech") homepage and at every point where personally identifiable information may be requested.
+This policy covers BacklinksPhilippines.com corporate web site.  BacklinksPhilippines.com encourages you to read this privacy policy and those of all web sites you visit. Below is a summary of BacklinksPhilippines.com online privacy policy.
 
-**Google Adsense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by [Google](http://www.google.com/ "Google") enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+### Types and uses of personal information
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+  * Customer Feedback and Support. 
+    * Provides a mechanism for requesting information from BacklinksPhilippines.com.  Also used to tell us how we can improve our products, services and site designs.
+  * Email Correspondence. 
+    * Used to raise and respond to issues and inquiries of all types. Also used to distribute information about BacklinksPhilippines.com our products, and services.
+  * Event Registration. 
+    * Provides a mechanism for requesting information from you to register in special events.  
+We will only use your personal information in the ways specified when it was collected. We will not subsequently change the way in which we use your personal information, unless you consent to the new usage.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, this website has no access or control over these cookies that may be used by third party advertisers.
 
-**Our Commitment To Childrens Privacy**  
-Protecting the privacy of the very young is especially important. For that reason, this website will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.  
-Under our Terms of Service, children under 18 are not allowed to access our service.
 
-**Collection of Personal Information**  
-When visiting this website, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+#### Security Measures
 
-**Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+We protect the personal information you share with us. For example, if you make an online purchase with us, we encrypt your credit card number. Access to your personal information is limited to people who need it to do their job.
 
-**Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion.
+Authorized third party agents may also need access to some of your personal information.  
+For example, if we need to dispatch something to you, we must share your name and address with a courier company. We provide third parties with only the minimum amount of information needed to complete the requested service or transaction. We do not otherwise share your personal information with third parties, unless you have granted us permission to do so.
 
-If you have any questions regarding the privacy policy you may contact us.
+### Data Retention
+
+BacklinksPhilippines.com will not retain your personal information longer than is necessary for the purposes for which it was collected.
+
+### Linked Web Sites
+
+We provide links to third party sites.  Since we do not control these Web sites, we encourage you to review the privacy policies posted on these (and all) third party sites.
+
+### Children’s Privacy
+
+We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems.
+
+### Cookies
+
+The BacklinksPhilippines.com web site uses cookies. Cookies help us to provide you with targeted information by measuring which Web site areas are of greatest interest. BacklinksPhilippines.com also uses cookies when you register for certain Web promotions. In this situation, a cookie will store useful information that enables our Web site to remember you when you return. BacklinksPhilippines.com can only read cookies from BacklinksPhilippines.com Web sites. If you choose to disable cookies in your browser, you can still access most of our Web sites. Some Web sites will not allow you to complete certain activities if cookies are disabled. For example, our consumer e-commerce site uses session cookies and persistent cookies to process transactions. If you do not accept cookies, the associated shopping bag will not work and you would not be able to order.
