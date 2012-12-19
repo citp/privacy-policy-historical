@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the fabric.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620074235id_/http%3A//www.fabric.com/SitePages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabric.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219142405id_/http%3A//www.fabric.com/SitePages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Fabric - Store
 
-| [](http://www.fabric.com/Index.aspx)
+Our Customer Service operating hours for today has changed. Our business hours for today are 8:30am to 3:30pm EST.   
+We will resume our normal business hours of 8:30am to 5:30pm EST tomorrow, Dec. 20th.   
+Thank you and Happy Holidays from Fabric.com! 
 
-The Place To Go When You Sew
+Free Shipping on orders $35+ 
 
-|   
----|---  
-  
+U.S. only, no coupon necessary
+
 Last Updated: April 29, 2011. To see what's changed, [click here](http://privacyinfo.fabric.com/). 
 
   
@@ -104,6 +105,3 @@ Examples of information we receive from other sources include updated delivery a
 ## **Information You Can Access**
 
 Examples of information you can access easily at Fabric.com include up-to-date information regarding recent orders; personally identifiable information (including profile and address book – available to registered customers only); payment settings (including credit card information and coupons); e-mail preferences; and sewing preferences.
-
-[Powered By:  
-](http://www.blinedigital.com/)
