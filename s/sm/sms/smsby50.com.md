@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsby50.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505040022id_/http%3A//www.smsby50.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsby50.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219104117id_/http%3A//smsby50.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # SMS Audio - Privacy Policy
 
