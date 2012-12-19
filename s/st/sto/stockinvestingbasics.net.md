@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockinvestingbasics.net privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620160023id_/http%3A//stockinvestingbasics.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockinvestingbasics.net privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219232225id_/http%3A//stockinvestingbasics.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stock Investing Basics
 
@@ -11,7 +11,7 @@ You are here: [Home](http://stockinvestingbasics.net/) / Privacy Policy
 
 Your privacy is important to us at Relevad Corporation. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-This site allows third-party companies to serve ads and/or collect certain anonymous information when you and other Internet users visit. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this site and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](https://web.archive.org/web/20120620160023id_/http%3A//stockinvestingbasics.net/networkadvertising.org) .
+This site allows third-party companies to serve ads and/or collect certain anonymous information when you and other Internet users visit. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this site and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
 
 #### Pubmatic Cookie
 
