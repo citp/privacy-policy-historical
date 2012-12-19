@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the goldenfrog.com privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630004039id_/https%3A//www.goldenfrog.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goldenfrog.com privacy policy that was archived on 2012-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121219053017id_/http%3A//www.goldenfrog.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><link href="https://www.goldenfrog.com/privacy" rel="canonical"><link type="text/css" rel="stylesheet" href="/css/gf-main.css"><link type="text/css" rel="stylesheet" href="/css/screen.css"><link href="/images/favicon.png" type="image/png" rel="icon"><link rel="publisher" href="https://plus.google.com/112623333013473542200"><link href="https://www.goldenfrog.com/BR" hreflang="pt" rel="alternate"><link href="https://www.goldenfrog.com/CN" hreflang="zh" rel="alternate"><link href="https://www.goldenfrog.com/DE" hreflang="de" rel="alternate"><link href="https://www.goldenfrog.com/ES" hreflang="es" rel="alternate"><link href="https://www.goldenfrog.com/FR" hreflang="fr" rel="alternate"><link href="https://www.goldenfrog.com/NL" hreflang="nl" rel="alternate"><link title="Blog RSS Feed" type="application/rss+xml" href="/blog/feed" rel="alternate"><link type="text/css" rel="stylesheet" href="/css/chat.css"><link href="/css/langs/en_US.css" type="text/css" rel="stylesheet">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" style="" class=" js flexbox rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent boxsizing mediaqueries lastchild pointerevents cssresize placeholder formvalidation"><head><link href="https://www.goldenfrog.com/privacy" rel="canonical"><link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:400,300,700"><link type="text/css" rel="stylesheet" href="/css/gf-main.css"><link type="text/css" rel="stylesheet" href="/css/screen.css"><link href="/images/favicon.png" type="image/png" rel="icon"><link rel="publisher" href="https://plus.google.com/112623333013473542200"><link href="https://www.goldenfrog.com/BR" hreflang="pt" rel="alternate"><link href="https://www.goldenfrog.com/CN" hreflang="zh" rel="alternate"><link href="https://www.goldenfrog.com/DE" hreflang="de" rel="alternate"><link href="https://www.goldenfrog.com/ES" hreflang="es" rel="alternate"><link href="https://www.goldenfrog.com/FR" hreflang="fr" rel="alternate"><link href="https://www.goldenfrog.com/NL" hreflang="nl" rel="alternate"><link title="Blog RSS Feed" type="application/rss+xml" href="http://www.goldenfrog.com/blog/feed" rel="alternate"><link type="text/css" rel="stylesheet" href="/css/chat.css"><link href="/css/langs/en_US.css" type="text/css" rel="stylesheet">
     
     
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    
     
     
     <!--[if IE]><link href="/css/ie.css" type="text/css" rel="stylesheet" /><![endif]-->
@@ -20,10 +21,10 @@
     
 
     
+    <script src="/js/modernizr.custom.min.js" type="text/javascript"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
     <script src="/js/jquery/cookie.js" type="text/javascript"></script>
     <script src="/js/gf-utils.js" type="text/javascript"></script>
-    <script src="/js/tracking-cookie.js" type="text/javascript"></script>
     <script src="https://use.typekit.com/tpa1tbx.js" type="text/javascript"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
     
@@ -40,7 +41,7 @@
     'dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&a='+_vis_opt_account_id+'&url='
     +encodeURIComponent(document.URL)+'&random='+Math.random()+'" type="text/javascript">' + '<\/s' + 'cript>');
     // ]]>
-    </script><script src="https://dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&amp;a=7076&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20120630004039id_%2Fhttps%253A%2F%2Fwww.goldenfrog.com%2Fprivacy&amp;random=0.42508674067815977" type="text/javascript"></script>
+    </script><script src="https://dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&amp;a=7076&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20121219053017id_%2Fhttp%253A%2F%2Fwww.goldenfrog.com%2Fprivacy&amp;random=0.7400469544077626" type="text/javascript"></script>
     
     <script type="text/javascript">
     // <![CDATA[
@@ -61,9 +62,11 @@
   
     <script type="text/javascript">
     //<![CDATA[
-      pages_for_chat = ['/support', '/account'];
-      pages_for_chat_suggest = ['/support'];
+      pages_for_chat = ['/support', '/controlpanel', '/account'];
+      pages_for_chat_suggest = [];
       is_special_page_for_chat = false;
+      if ( window.location.href.search('dev8') != -1 )
+        chat_skill = 'Development';
       if (typeof chat_skill == 'undefined')
         chat_skill = 'Golden Frog - General';
     //]]>
@@ -86,35 +89,42 @@
     
   
 
-  <div id="chat-container" style="display:none">
+  <div id="chat-container" class="chat-inactive" style="display:none">
     <span id="chat-toggle">
       <a class="active">Live Chat With Support
         <span>&nbsp;<dfn>Minimize<q></q></dfn></span>
       </a>
-      <a class="inactive" href="#">Live Chat is Offline
+      <a class="inactive">Live Chat is Offline
         <span></span>
       </a>
-      <a id="chat-end" href="#">&nbsp;<dfn>Close chat<q></q></dfn></a>
+      <a id="chat-end">&nbsp;<dfn>Close chat<q></q></dfn></a>
     </span>
     <div id="chat-box">
       <div id="chat-splash" class="chat-placeholder" style="display: none">
         <div id="chat-intro" style="display: none">
           <h3>Welcome to Golden Frog Live Chat!</h3>
+          <h3 class="alt">Chat with a Support representative</h3>
           <p>To begin chatting with a live support operator, simply click the chat button below.</p>
           <a id="chat-begin" href="#" class="cta-landing-1 blue small"><span>Begin Chat</span></a>
         </div>
-        <form id="chat-survey" method="post" style="display: none" action="/post">
+        <div id="chat-offline" style="display: none">
+          <h3>Live Chat is Offline</h3>
+          <h3 class="alt">Live Chat is Offline</h3>
+          <p class="contact"><span>Still have questions? </span><a class="cta-landing-1 blue small" href="/support/vyprvpn/contact" target="_blank"><span>Email Support<span class="arrow">»</span></span></a></p>
+        </div>
+        <form id="chat-survey" action="/post" method="post" style="display: none">
           <h3>Welcome to Golden Frog Live Chat!</h3>
+          <h3 class="alt">Chat with a Support representative</h3>
           <fieldset>
             <label>
               <dfn>Name</dfn>
               <input type="text" id="chat-name" name="name" class="text">
             </label>
             <label>
-              <dfn>E-mail</dfn>
+              <dfn>Email</dfn>
               <span>(Required)</span>
               <input type="text" id="chat-email" name="email" class="text">
-              <em class="error">Please enter a valid e-mail address</em>
+              <em class="error">Please enter a valid email address</em>
             </label>
             <label class="textarea">
               <dfn>How can we help?</dfn>
@@ -137,214 +147,196 @@
     
     <div id="content">
       
-  <div class="header container">
-  <a class="logo" href="/">goldenfrog.com</a>
-  <div class="user-session">
-    <ul>
-      
-        
-        <li class="inactive vypr-info">
-          <span class="location">Your Location: <strong>United States</strong></span>
-          <span class="ip">Your IP Address: <strong>204.236.235.245</strong></span>
-        </li>
-        
-        
+  <div class="header">
+  <div class="container">
+  <ul class="header-nav">
+    <li class="home main"><a class="logo" href="/">goldenfrog.com</a></li>
+    <li class="dropdown products">
+      <span class="dropdown-label"><span>Products</span></span>
+      <ul class="wrapper">
+        <li class="dumptruck first"><a href="/dumptruck"><span class="block">Dump Truck</span> Secure Online Storage</a></li>
+        <li class="vypr last"><a href="/vyprvpn"><span class="block">VyprVPN</span> Personal VPN</a></li>
+      </ul>
+    </li>
+    <li class="topLevel blog"><a href="http://www.goldenfrog.com/blog">Blog</a></li>
+  </ul>
+
+  <ul class="user-session">
+      <li class="search">
+        <form action="/search" method="get">
+          <input type="text" alt="Search GoldenFrog.com" name="Search" value="Search" class="header-search" onfocus="clearText(this)">
+        </form>
+      </li>
+      <li class="locale dropdown">
+        <span class="dropdown-label"><span class="currentLang">English</span></span>
+        <div class="locale-selector">
+          <h3>Change your Location or Language</h3>
+          <ul>
+            
+              <li class="country">
+                <h4>
+                  United States
+                </h4>
+                <ul class="languages">
+                  
+                    <li>
+                      <a href="/privacy?USen=_">English</a>
+                    </li>
+                  
+                </ul>
+              </li>
+            
+              <li class="country">
+                <h4>
+                  France
+                </h4>
+                <ul class="languages">
+                  
+                    <li>
+                      <a href="/FR/privacy?FRfr=_">français</a>
+                    </li>
+                  
+                    <li>
+                      <a href="/FR/en/privacy?FRen=_">English</a>
+                    </li>
+                  
+                </ul>
+              </li>
+            
+              <li class="country">
+                <h4>
+                  UK
+                </h4>
+                <ul class="languages">
+                  
+                    <li>
+                      <a href="/UK/privacy?UKen=_">English</a>
+                    </li>
+                  
+                </ul>
+              </li>
+            
+              <li class="country">
+                <h4>
+                  Brasil
+                </h4>
+                <ul class="languages">
+                  
+                    <li>
+                      <a href="/BR/privacy?BRpt=_">português</a>
+                    </li>
+                  
+                    <li>
+                      <a href="/BR/en/privacy?BRen=_">English</a>
+                    </li>
+                  
+                </ul>
+              </li>
+            
+              <li class="country">
+                <h4>
+                  Nederland
+                </h4>
+                <ul class="languages">
+                  
+                    <li>
+                      <a href="/NL/privacy?NLnl=_">Nederlands</a>
+                    </li>
+                  
+                    <li>
+                      <a href="/NL/en/privacy?NLen=_">English</a>
+                    </li>
+                  
+                </ul>
+              </li>
+            
+              <li class="country">
+                <h4>
+                  España
+                </h4>
+                <ul class="languages">
+                  
+                    <li>
+                      <a href="/ES/privacy?ESes=_">español</a>
+                    </li>
+                  
+                    <li>
+                      <a href="/ES/en/privacy?ESen=_">English</a>
+                    </li>
+                  
+                </ul>
+              </li>
+            
+              <li class="country">
+                <h4>
+                  Deutschland
+                </h4>
+                <ul class="languages">
+                  
+                    <li>
+                      <a href="/DE/privacy?DEde=_">Deutsch</a>
+                    </li>
+                  
+                    <li>
+                      <a href="/DE/en/privacy?DEen=_">English</a>
+                    </li>
+                  
+                </ul>
+              </li>
+            
+              <li class="country">
+                <h4>
+                  中国
+                </h4>
+                <ul class="languages">
+                  
+                    <li>
+                      <a href="/CN/privacy?CNzh=_">中文</a>
+                    </li>
+                  
+                    <li>
+                      <a href="/CN/en/privacy?CNen=_">English</a>
+                    </li>
+                  
+                </ul>
+              </li>
+            
+              <li class="country">
+                <h4>
+                  Europe
+                </h4>
+                <ul class="languages">
+                  
+                    <li>
+                      <a href="/FR/en/privacy?FRen=_">English</a>
+                    </li>
+                  
+                </ul>
+              </li>
+            
+              <li class="country">
+                <h4>
+                  Worldwide
+                </h4>
+                <ul class="languages">
+                  
+                    <li>
+                      <a href="/privacy?USen=_">English</a>
+                    </li>
+                  
+                </ul>
+              </li>
+            
+          </ul>
+        </div>
+      </li>
+      <li class="topLevel webapp"><a href="http://dumptruck.goldenfrog.com">Dump Truck Web App</a></li>
     
-        <li class="locale">
-          <span class="currentLang">English</span>
-          <div class="locale-selector">
-            <h3>Change your Location or Language</h3>
-            <ul>
-              
-                <li class="country">
-                  <h4>
-                    United States
-                  </h4>
-                  <ul class="languages">
-                    
-                      <li>
-                        <a href="/privacy?USen=_">English</a>
-                      </li>
-                    
-                  </ul>
-                </li>
-              
-                <li class="country">
-                  <h4>
-                    France
-                  </h4>
-                  <ul class="languages">
-                    
-                      <li>
-                        <a href="/FR/privacy?FRfr=_">français</a>
-                      </li>
-                    
-                      <li>
-                        <a href="/FR/en/privacy?FRen=_">English</a>
-                      </li>
-                    
-                  </ul>
-                </li>
-              
-                <li class="country">
-                  <h4>
-                    UK
-                  </h4>
-                  <ul class="languages">
-                    
-                      <li>
-                        <a href="/UK/privacy?UKen=_">English</a>
-                      </li>
-                    
-                  </ul>
-                </li>
-              
-                <li class="country">
-                  <h4>
-                    Brasil
-                  </h4>
-                  <ul class="languages">
-                    
-                      <li>
-                        <a href="/BR/privacy?BRpt=_">português</a>
-                      </li>
-                    
-                      <li>
-                        <a href="/BR/en/privacy?BRen=_">English</a>
-                      </li>
-                    
-                  </ul>
-                </li>
-              
-                <li class="country">
-                  <h4>
-                    Nederland
-                  </h4>
-                  <ul class="languages">
-                    
-                      <li>
-                        <a href="/NL/privacy?NLnl=_">Nederlands</a>
-                      </li>
-                    
-                      <li>
-                        <a href="/NL/en/privacy?NLen=_">English</a>
-                      </li>
-                    
-                  </ul>
-                </li>
-              
-                <li class="country">
-                  <h4>
-                    España
-                  </h4>
-                  <ul class="languages">
-                    
-                      <li>
-                        <a href="/ES/privacy?ESes=_">español</a>
-                      </li>
-                    
-                      <li>
-                        <a href="/ES/en/privacy?ESen=_">English</a>
-                      </li>
-                    
-                  </ul>
-                </li>
-              
-                <li class="country">
-                  <h4>
-                    Deutschland
-                  </h4>
-                  <ul class="languages">
-                    
-                      <li>
-                        <a href="/DE/privacy?DEde=_">Deutsch</a>
-                      </li>
-                    
-                      <li>
-                        <a href="/DE/en/privacy?DEen=_">English</a>
-                      </li>
-                    
-                  </ul>
-                </li>
-              
-                <li class="country">
-                  <h4>
-                    中国
-                  </h4>
-                  <ul class="languages">
-                    
-                      <li>
-                        <a href="/CN/privacy?CNzh=_">中文</a>
-                      </li>
-                    
-                      <li>
-                        <a href="/CN/en/privacy?CNen=_">English</a>
-                      </li>
-                    
-                  </ul>
-                </li>
-              
-                <li class="country">
-                  <h4>
-                    Europe
-                  </h4>
-                  <ul class="languages">
-                    
-                      <li>
-                        <a href="/FR/en/privacy?FRen=_">English</a>
-                      </li>
-                    
-                  </ul>
-                </li>
-              
-                <li class="country">
-                  <h4>
-                    Worldwide
-                  </h4>
-                  <ul class="languages">
-                    
-                      <li>
-                        <a href="/privacy?USen=_">English</a>
-                      </li>
-                    
-                  </ul>
-                </li>
-              
-            </ul>            
-          </div>
-        </li>
-      
-        <li class="login">
-          <a href="/login">Login</a>
-          <div id="login-form">
-            
-              <form action="https://www.goldenfrog.com/account/login" method="post">
-                <h3>Secure Login</h3>
-                <p>Login to access your Golden Frog account.</p>
-                <fieldset>
-                  <div class="field">
-                    <label>E-mail Address</label>
-                    <input type="text" name="username" class="text">
-                  </div>
-                  <div class="field">
-                    <label>Password</label>
-                    <input type="password" name="password" class="text">
-                  </div>
-                </fieldset>
-                <input type="submit" value="Login" name="login" class="cta-13">
-              </form>
-            
-          </div>
-        </li>
-      
-      
-    </ul>
-  </div>
-  <div class="search">
-    <form action="/search" method="get">
-      <input type="text" alt="Search GoldenFrog.com" name="Search" value="Search" class="header-search" onfocus="clearText(this)">
-    </form>
-  </div>
+      <li class="login"><a href="/login">Control Panel</a></li>
+    
+    
+  </ul>
+</div>
 </div>
   <!-- <div class="clear"></div> -->
   <!-- <lift:embed what="_bread_crumb" /> -->
@@ -371,7 +363,7 @@
         </ul>
       </div>
     </li>
-    <li><a href="/blog">Blog</a></li>
+    <li><a href="http://www.goldenfrog.com/blog">Blog</a></li>
     <li><a class="cta-12 cta-12-14" href="/corporate/contact"><span>Contact</span></a></li>
   </ul>
   <a class="nowHiringBug" href="/about-us/careers"><img src="http://images-goldenfrog.netdna-ssl.com/gf-home-hiring-sign.png" alt="Now Hiring!"></a>
@@ -425,6 +417,8 @@
         <p>Golden Frog does 
         <em>not</em> use personally identifiable information collected through our Web site to contact users regarding products and services offered by Golden Frog. We do 
         <em>not</em> share a member's personally identifiable information with affiliates, independent contractors, business partners or outside entities for marketing purposes or otherwise. We hold your data private.</p>
+        <h2>U.S.-EU Safe Harbor Framework</h2>
+        <p>Golden Frog complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  Golden Frog has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Golden Frog's certification, please visit <a href="http://www.export.gov/safeharbor/" rel="nofollow">http://www.export.gov/safeharbor/</a></p>
       </div>
       <!--END div.col-1-->
       <a class="powered-by-gf-footer" href="/">Powered by Golden Frog</a>
@@ -461,13 +455,18 @@
             <a rel="nofollow" href="/affiliate">Affiliate</a>
           </li>
           <li>
-            <a href="/blog">Blog</a>
+            <a href="http://www.goldenfrog.com/blog">Blog</a>
           </li>
           <li>
             <a rel="nofollow" href="/legal">Legal</a>
           </li>
           <li>
             <a class="CurrentPage" href="/privacy" rel="nofollow">Privacy</a>
+          </li>
+          <li class="social">
+            <a href="https://www.facebook.com/goldenfrogsoftware" class="iblock facebook" rel="nofollow">Golden Frog Facebook</a>
+            <a href="https://twitter.com/golden_frog" class="iblock twitter" rel="nofollow">Golden Frog Twitter</a>
+            <a href="https://plus.google.com/112623333013473542200/posts#112623333013473542200/posts" class="iblock gplus" rel="nofollow">Golden Frog Google+</a>
           </li>
         </ul>
       </li>
@@ -478,19 +477,27 @@
             <a href="/vyprvpn">Overview</a>
           </li>
           <li>
-            <a href="/vyprvpn/vyprvpn-app">VyprVPN App</a>
-          </li>
-          <li>
             <a href="/vyprvpn/why">Why VyprVPN?</a>
           </li>
           <li>
             <a href="/vyprvpn/why-vpn">Why Do I Need a VPN?</a>
           </li>
           <li>
-            <a href="/vyprvpn/support">Support</a>
+            <a href="/vyprvpn/desktop-app">Desktop App</a>
+          </li>
+          <li>
+            <a href="/vyprvpn/mobile-apps">Mobile Apps</a>
+          </li>
+          <li>
+            <a href="/support/vyprvpn">Support</a>
           </li>
           <li>
             <a href="/vyprvpn/buy-vpn">Buy</a>
+          </li>
+          <li class="social">
+            <a href="https://www.facebook.com/vyprVPN" class="iblock facebook" rel="nofollow">VyprVPN Facebook</a>
+            <a href="https://twitter.com/VyprVPN" class="iblock twitter" rel="nofollow">VyprVPN Twitter</a>
+            <a href="https://plus.google.com/106982445383052840672/posts" class="iblock gplus" rel="nofollow">VyprVPN Google+</a>
           </li>
         </ul>
       </li>
@@ -500,19 +507,35 @@
           <li>
             <a href="/dumptruck">Overview</a>
           </li>
-          <li class="comingSoon">
-          Buy <sup>Coming Soon</sup>
+          <li>
+            <a href="/dumptruck/download">Download</a>
+          </li>
+          <li>
+            <a href="/dumptruck/signup">Get an Account</a>
+          </li>
+          <li>
+            <a href="/dumptruck/tour">Tour</a>
+          </li>
+          <li>
+            <a href="/dumptruck/features">Features</a>
+          </li>
+          <li>
+            <a href="/support/dumptruck">Support</a>
+          </li>
+          <li class="social">
+            <a href="https://www.facebook.com/dumptruckstorage" class="iblock facebook" rel="nofollow">Dump Truck Facebook</a>
+            <a href="https://plus.google.com/114123218164955036186/posts" class="iblock gplus" rel="nofollow">Dump Truck Google+</a>
           </li>
         </ul>
       </li>
       <li class="support">
-        <strong>Support</strong>
+        <a href="/support">Support</a>
         <ul class="sub-menu">
           <li>
-            <a href="/vyprvpn/support/contact">VyprVPN Support</a>
+            <a href="/support/vyprvpn">VyprVPN Support</a>
           </li>
-          <li class="comingSoon">
-            Dump Truck Support <sup>Coming Soon</sup>
+          <li>
+            <a href="/support/dumptruck">Dump Truck Support</a>
           </li>
         </ul>
       </li>
@@ -523,6 +546,7 @@
 
     </div>
     <!-- END div.container -->
+    <script type="text/javascript" src="/js/tracking-cookie.js"></script>
     <script type="text/javascript"><!-- // <![CDATA[
 try {
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www." ); 
