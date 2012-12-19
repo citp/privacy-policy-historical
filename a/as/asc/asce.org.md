@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asce.org privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618165123id_/http%3A//www.asce.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asce.org privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219140841id_/http%3A//www.asce.org/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# 
 
 [PDF Version](http://apps.asce.org/lib/copyright/privacy.pdf)
 
@@ -16,7 +16,7 @@ ASCE collects data to better serve our members and the engineering profession. I
 
 Membership information is used in the ASCE database, which is used to generate ASCE mailing lists. This includes lists provided to technical and geographical units of ASCE, for example, institutes and sections. The mailing list may be used in connection with informing you about ASCE services, products, conferences, meetings and events. 
 
-**Third Party Disclosure**. ASCE does not sell or rent email addresses to anyone outside of ASCE and its organizational entities. From time to time, to better serve our members and to supplement member dues, the ASCE mailing list, in part or as a whole, is released to other engineering and carefully selected third party organizations to provide you with information on technical products and services related to your profession, or that we otherwise believe is useful to our members. You may instruct us not to share information about you in the ASCE mailing list with third parties by indicating this preference on your membership application when you join ASCE, on your renewal form when you renew your membership, or by notifying us at <https://apps.asce.org/lib/redirect/>, or by calling us at 1-800-548-ASCE (2723). 
+**Third Party Disclosure**. ASCE does not sell or rent email addresses to anyone outside of ASCE and its organizational entities. From time to time, to better serve our members and to supplement member dues, the ASCE mailing list, in part or as a whole, is released to other engineering and carefully selected third party organizations to provide you with information on technical products and services related to your profession, or that we otherwise believe is useful to our members. You may instruct us not to share information about you in the ASCE mailing list with third parties by indicating this preference on your membership application when you join ASCE, on your renewal form when you renew your membership, or by notifying us at [member@asce.org](mailto:member@asce.org?subject=Mailing%20List "Mailing List"), or by calling us at 1-800-548-ASCE (2723). 
 
 **Secure Transactions**. For your protection, we have taken a number of steps to maximize the security of financial transactions that are accepted on the ASCE web site. Credit Card processing is accomplished using secure processing services. Your entry of credit card information is encrypted when transmitted in secure mode. If for any reason you still feel uncomfortable submitting your credit card over the Internet, you can mail your information to us. 
 
