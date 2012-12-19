@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexthe.net privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630144807id_/http%3A//www.sexthe.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexthe.net privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219071227id_/http%3A//www.sexthe.net/privacy.html) for the most accurate reproduction.*
 
 # XXX, Free Porno, Free Sex, Free Porn and Porn Videos - SEX the NET
 
@@ -50,6 +50,6 @@ Third Party Cookies. In the course of serving advertisements to this site, our t
 
 Copyright @ Sexthenet. All Rights Reserved 2009
 
-[ RSS FEED](https://web.archive.org/rss/rss.php) | [CONTACT](https://web.archive.org/contact.html) | [INDEXED SITES](https://web.archive.org/indexed.html) | [TOS](https://web.archive.org/tos.html) | [COPYRIGHT POLICY](https://web.archive.org/copyright.html) | [PRIVACY POLICY](https://web.archive.org/privacy.html) | [REMOVAL](https://web.archive.org/removal.html)
+[ RSS FEED](http://www.sexthe.net/rss/rss.php) | [CONTACT](https://web.archive.org/contact.html) | [INDEXED SITES](https://web.archive.org/indexed.html) | [TOS](https://web.archive.org/tos.html) | [COPYRIGHT POLICY](https://web.archive.org/copyright.html) | [PRIVACY POLICY](https://web.archive.org/privacy.html) | [REMOVAL](https://web.archive.org/removal.html)
 
-Sex the net is an adult media index. A porn search engine. Here you can find the following: [Sex](https://web.archive.org/search/videos/Sex/1.html), [Porno](https://web.archive.org/search/videos/Porno/1.html), [Free Sex](https://web.archive.org/search/videos/Free%20Sex/1.html), [Free XXX](https://web.archive.org/search/videos/Free%20XXX/1.html), [Free Porn](https://web.archive.org/search/videos/Free%20Porn/1.html), [XXX](https://web.archive.org/search/videos/XXX/1.html) and alot more. Enjoy!
+Sex the net is an adult media index. A porn search engine. Here you can find the following: [Sex](http://www.sexthe.net/search/videos/Sex/1.html), [Porno](http://www.sexthe.net/search/videos/Porno/1.html), [Free Sex](http://www.sexthe.net/search/videos/Free%20Sex/1.html), [Free XXX](http://www.sexthe.net/search/videos/Free%20XXX/1.html), [Free Porn](http://www.sexthe.net/search/videos/Free%20Porn/1.html), [XXX](http://www.sexthe.net/search/videos/XXX/1.html) and alot more. Enjoy!
