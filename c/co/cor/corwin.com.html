@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the corwin.com privacy policy that was archived on 2012-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120619213729id_/http%3A//www.corwin.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the corwin.com privacy policy that was archived on 2012-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121220005116id_/http%3A//www.corwin.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head><style type="text/css"></style>
 <meta charset="utf-8">
@@ -12,16 +12,11 @@
 <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/reset-fonts-grids/reset-fonts-grids.css"> 
 <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/menu/assets/skins/sam/menu.css"> 
 <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/tabview/assets/skins/sam/tabview.css">
+<link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css">
 
 <link rel="stylesheet" href="/css/layout.css">
 	<link rel="stylesheet" href="/css/master.css">
-
-
-
-
-
-
-
+<link rel="stylesheet" href="/css/editor.css">
 
 </head><body class="yui-skin-sam two-block articlepage1"><div id="global_x002e_pagetitle">
 <title>Corwin: Privacy Policy</title></div>
@@ -48,7 +43,7 @@
 </div>
 <div class="socialNet">
  <ul>  
-  <li class="teachertube"><a href="http://www.teachertube.com/viewProfile.php?user=corwinpress"><img src="/img/teacherLogo.gif"></a></li>
+  <li class="teachertube"><a href="http://teachertube.com/view_channel.php?user=corwinpress"><img src="/img/teacherLogo.gif"></a></li>
   <li class="youtube"><a href="http://www.youtube.com/user/corwinpress"><img src="/img/youtubeLogo.gif"></a></li> 
   <li class="twitter"><a href="http://twitter.com/CorwinPress"><img src="/img/twitterLogo.gif"></a></li> 
   <li class="facebook"><a href="http://www.facebook.com/CorwinPress"><img src="/img/facebookLogo.gif"></a></li>
@@ -87,7 +82,68 @@
 	 </div>
  </div>
 </div>
-</div><div id="global_x002e_primarynav">
+
+<div style="display: none">
+	<div id="k12Details" class="modal k12Modal">
+		<div class="modalcontent">
+			<div class="modalhead">
+				<h2>Welcome back <span id="userName"></span></h2>
+				<p>
+					Please help us to serve you better by updating you details below...
+				</p>
+			</div>
+			<div class="modalbody">
+				<div class="errorDiv" style="display: none">
+				</div>
+				<form>
+					<div id="k12Container">
+						<input type="text" id="t" style="display:none">
+					    <div class="text inputElement">
+					    	<input type="hidden" id="districtAutoId" class="required">
+					    	<div class="label">
+					  			<label>District:<span class="required">*</span></label>
+					  		</div>
+					  		<div id="dContainer" class="container">
+					  			<input type="text" id="districtAuto" class="required" title="District">
+					  		</div>
+					  		<img src="/img/Info.png" class="ovBttnInfo" id="dRollover">	
+							<div id="dRolloverInfo" class="rollover" style="display:none">Please begin typing your district name/ZIP code and our predictive engine will narrow your selection as you type. If your school doesn't have a district or you can't find your district, please select "My District is not listed" from the drop down list.</div>
+					    </div>
+					    <div class="text inputElement">
+					    	<input type="hidden" id="schoolAutoId">
+					    	<div class="label" id="schoolRequiredLabel">
+					  			<label>School:<span class="required">*</span></label>
+					  		</div>
+					  		<div class="label" id="ovSchoolLabel">
+					  			<label>School:</label>
+					  		</div>
+					  		<div id="sContainer" class="container">
+					  			<input type="text" id="schoolAuto" title="School">
+					  		</div>
+					  		<img src="/img/Info.png" class="ovBttnInfo" id="sRollover">	
+							<div id="sRolloverInfo" class="rollover" style="display:none">Please begin typing your school name/ZIP code and our predictive engine will narrow your selection as you type.</div>
+					    </div>	
+				    </div>			
+				    <div class="rolesSection" style="display:none">
+					    <div id="rolesDiv">
+					    	<h4>Role<span class="required">*</span></h4>
+					    	<div class="roleDesc">Please choose the role that best describes your main duties:</div>
+					    	<!--  Dynamic roles appends here through JS-->
+					    </div>
+					    <div id="childRoleDesc"></div>
+					    <div id="childRoles">
+					   		 <!--  Dynamic child roles appends here through JS-->
+					    </div>
+				    </div>
+				    <div class="buttons">
+				    	<span class="close notNow"> Not right now </span>
+					    <button type="button" id="updateBttn"> Update </button>
+				    </div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div></div><div id="global_x002e_primarynav">
 <div class="nav primary yuimenubar yuimenubarnav">
  <div class="bd">
   <ul class="first-of-type">
@@ -107,6 +163,9 @@
    	          </li>
    	          <li class="yuimenuitem">
    	           <a class="yuimenuitemlabel" href="/topics/CP3">Critical Thinking</a>
+   	          </li>
+   	          <li class="yuimenuitem">
+   	           <a class="yuimenuitemlabel" href="/topics/CP2">Student Collaboration</a>
    	          </li>
    	        </ul>
    	       </div>
@@ -379,7 +438,7 @@
    	           <a class="yuimenuitemlabel" href="/topics/CB2">Data Collection &amp; Analysis</a>
    	          </li>
    	          <li class="yuimenuitem">
-   	           <a class="yuimenuitemlabel" href="/topics/CB7">Mixed Mthods Research</a>
+   	           <a class="yuimenuitemlabel" href="/topics/CB7">Mixed Methods Research</a>
    	          </li>
    	          <li class="yuimenuitem">
    	           <a class="yuimenuitemlabel" href="/topics/CB4">Qualitative Methods</a>
@@ -770,7 +829,6 @@
 	<div id="cookietrail">
 	  <a href="/" class="home">Home</a>
 			<span class="lastcookie">Privacy Policy</span>
-			<title>Corwin: Privacy Policy</title>
 	</div>
 	<div class="clearfix"></div>
 		<h1>Privacy Policy</h1>
@@ -857,108 +915,112 @@ unbound-region-right3
 </div>  </div>
 		</div>
 		<div id="footer">
+<div id="global_x002e_pagefooter">
+<div>
 <div class="column home">
-	<h4><a href="/">HOME</a></h4>
-	<ul>
-		<li><a href="/productSearch.nav?subject=C00&amp;status=bestSeller&amp;sortBy=defaultPubDate%20desc">Bestsellers</a></li>
-		<li><a href="/catalogs/">Catalogs</a></li>
-		<li><a href="/login.nav">Email Alerts</a></li>
-		<li><a href="/productSearch.nav?subject=C00&amp;status=%22Forthcoming%22&amp;sortBy=defaultPubDate%20asc">Forthcoming</a></li>
-		<li><a href="/productSearch.nav?subject=C00&amp;status=%22New%22&amp;sortBy=defaultPubDate%20desc">New Releases</a></li>
-		<li><a href="/profile.nav">Register/My Account</a></li>	
-	</ul>
+<h4><a href="/">HOME</a></h4>
+<ul>
+<li><a href="/productSearch.nav?subject=C00&amp;status=bestSeller&amp;sortBy=defaultPubDate%20desc">Bestsellers</a></li>
+<li><a href="/catalogs/">Catalogs</a></li>
+<li><a href="/login.nav">Email Alerts</a></li>
+<li><a href="/productSearch.nav?subject=C00&amp;status=%22Forthcoming%22&amp;sortBy=defaultPubDate%20asc">Forthcoming</a></li>
+<li><a href="/productSearch.nav?subject=C00&amp;status=%22New%22&amp;sortBy=defaultPubDate%20desc">New Releases</a></li>
+<li><a href="/profile.nav">Register/My Account</a></li>
+</ul>
 </div>
 <div class="column topics">
-	<h4><a href="/topics/">BROWSE TOPICS</a></h4>
-	<ul>
-		<li><a href="/topics/CA0">Administration and Leadership</a></li>
-		<li><a href="/topics/C20">Classroom Management and Student Behavior</a></li>
-		<li><a href="/topics/C30">Community and Family Issues</a></li>
-		<li><a href="/topics/C10">Curriculum and Content</a></li>
-		<li><a href="/topics/C40">Diversity and ELL</a></li>
-		<li><a href="/topics/C50">Early Childhood Education</a></li>
-		<li><a href="/topics/CB0">Educational Research</a></li>
-		<li><a href="/topics/C70">Foundations of Education</a></li>
-		<li><a href="/topics/C90">Gifted and Talented Education</a></li>
-		<li><a href="/topics/CK0">Higher Education</a></li>
-	</ul>
+<h4><a href="/topics/">BROWSE TOPICS</a></h4>
+<ul>
+<li><a href="/topics/CA0">Administration and Leadership</a></li>
+<li><a href="/topics/C20">Classroom Management and Student Behavior</a></li>
+<li><a href="/topics/C30">Community and Family Issues</a></li>
+<li><a href="/topics/C10">Curriculum and Content</a></li>
+<li><a href="/topics/C40">Diversity and ELL</a></li>
+<li><a href="/topics/C50">Early Childhood Education</a></li>
+<li><a href="/topics/CB0">Educational Research</a></li>
+<li><a href="/topics/C70">Foundations of Education</a></li>
+<li><a href="/topics/C90">Gifted and Talented Education</a></li>
+<li><a href="/topics/CK0">Higher Education</a></li>
+</ul>
 </div>
 <div class="column topics">
-	<h4>&nbsp;</h4>
-	<ul>
-		<li><a href="/topics/C60">Preservice Training</a></li>
-		<li><a href="/topics/CI0">School/Educational Psychology</a></li>
-		<li><a href="/topics/CH0">School Counseling</a></li>
-		<li><a href="/topics/CC0">Special Education</a></li>
-		<li><a href="/topics/C80">Staff Development and Professional Learning</a></li>
-		<li><a href="/topics/CD0">Student Assessment</a></li>
-		<li><a href="/topics/CG0">Teacher Assistants/Support</a></li>
-		<li><a href="/topics/CE0">Teacher Resources</a></li>
-		<li><a href="/topics/CF0">Teaching Methods and Learning Styles</a></li>
-		<li><a href="/topics/CJ0">Technology</a></li>
-	</ul>
+<h4>&nbsp;</h4>
+<ul>
+<li><a href="/topics/C60">Preservice Training</a></li>
+<li><a href="/topics/CI0">School/Educational Psychology</a></li>
+<li><a href="/topics/CH0">School Counseling</a></li>
+<li><a href="/topics/CC0">Special Education</a></li>
+<li><a href="/topics/C80">Staff Development and Professional Learning</a></li>
+<li><a href="/topics/CD0">Student Assessment</a></li>
+<li><a href="/topics/CG0">Teacher Assistants/Support</a></li>
+<li><a href="/topics/CE0">Teacher Resources</a></li>
+<li><a href="/topics/CF0">Teaching Methods and Learning Styles</a></li>
+<li><a href="/topics/CJ0">Technology</a></li>
+</ul>
 </div>
 <div class="column authors">
-	<h4><a href="/authors/">AUTHORS</a></h4>
+<h4><a href="/authors/">AUTHORS</a></h4>
 </div>
 <div class="column learning">
-	<h4><a href="/learning/">PROFESSIONAL LEARNING</a></h4>
-	<ul>
-		<li><a href="/learning/courses.html">Courses</a></li>
-		<li><a href="/learning/webinars.html">Webinars</a></li>
-		<li><a href="/learning/workshops.html">Workshops</a></li>
-	</ul>
+<h4><a href="/learning/">PROFESSIONAL LEARNING</a></h4>
+<ul>
+<li><a href="/learning/estudy.html">eStudy</a></li>
+<li><a href="/learning/events.html">Events</a></li>
+<li><a href="/learning/read2earn.html">Read 2 Earn</a></li>
+<li><a href="/learning/webinars.html">Webinars</a></li>
+<li><a href="/learning/workshops.html">Workshops</a></li>
+</ul>
 </div>
 <div class="column partners">
-	<h4><a href="/partners/">PARTNERS</a></h4>
-	<ul>
-		<li>&nbsp;</li>
-	</ul>	
+<h4><a href="/partners/">PARTNERS</a></h4>
 </div>
 <div class="column about">
-	<h4><a href="/about/">ABOUT US</a></h4>
-	<ul>
-		<li><a href="http://www.sagepublications.com/careers/">Careers</a></li>
-		<li><a href="/about/publish.html">Publish With Corwin</a></li>
-		<li><a href="/about/pressreleases.html">Press Releases</a></li>
-		<li><a href="/about/conferences.html">Conferences &amp; Events</a></li>
-		<li><a href="/about/contactsales.html">Contact a Sales Representative</a></li>
-		<li><a href="/about/">Contact Us</a></li>
-	</ul>
+<h4><a href="/about/">ABOUT US</a></h4>
+<ul>
+<li><a href="http://www.sagepublications.com/careers/">Careers</a></li>
+<li><a href="/about/publish.html">Publish With Corwin</a></li>
+<li><a href="/about/pressreleases.html">Press Releases</a></li>
+<li><a href="/about/conferences.html">Conferences &amp; Events</a></li>
+<li><a href="/about/socialmedia.html">Social Media</a></li>
+<li><a href="/about/contactsales.html">Contact a Sales Representative</a></li>
+<li><a href="/about/">Contact Us</a></li>
+</ul>
 </div>
 <div id="verisignSeal">
-	<table border="0" cellpadding="0" cellspacing="0" title="Click to Verify - This site chose VeriSign Trust Seal to promote trust online with consumers.">
-	<tbody><tr>
-	<td><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.corwinpress.com&amp;size=M&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br>
-	<a href="http://www.verisign.com/verisign-trust-seal" target="_blank"><img src="/img/verisignLogo.gif"></a></td>
-	</tr>
-	</tbody></table>
-</div>		</div>
-		<div id="legal">
-	<p>Corwin, a <a href="http://www.sagepub.com">SAGE</a> Company | 2455 Teller Road, Thousand Oaks, CA 91320 | 805-233-9936</p>
-	<p>Send mail to: <a href="mailto:webmaster@corwin.com">webmaster@corwin.com</a> with questions or comments about this Web site. | <a href="/privacypolicy.html">Privacy Policy</a> | Copyright © 2000
-		<script language="JavaScript">
-		var d=new Date(); 
-		yr=d.getFullYear();
-		if (yr!=2000)
-		document.write("- "+yr);
-		</script>- 2020		</p></div>
+<table title="Click to Verify - This site chose VeriSign Trust Seal to promote trust online with consumers." border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<br> <a href="http://www.verisign.com/verisign-trust-seal" target="_blank"><img src="/img/verisignLogo.gif" alt=""></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="legal">
+<p>Corwin, a <a href="http://www.sagepub.com">SAGE</a> Company | 2455 Teller Road, Thousand Oaks, CA 91320 | 800-233-9936</p>
+<p>Send mail to: <a href="mailto:webmaster@corwin.com">webmaster@corwin.com</a> with questions or comments about this Web site. | <a href="/privacypolicy.html">Privacy Policy</a> | Copyright © 2000 - 2012</p>
+</div></div>		</div>
 	</div>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/yuiloader-dom-event/yuiloader-dom-event.js"></script> 
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/yuiloader-dom-event/yuiloader-dom-event.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/animation/animation-min.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/container/container-min.js"></script> 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/menu/menu-min.js"></script> 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/element/element-min.js"></script> 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/tabview/tabview-min.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+
 <script>
 jQuery.noConflict();
 YAHOO.namespace("sgpb");
 YAHOO.sgpb.AppHost="https://secure.corwin.com";
 </script>
 <script src="/js/lib/modernizr.1.6.min.js"></script>
-<script src="/js/ui.js"></script>
 <script src="/js/jquery.truncator.js"></script>
 <script src="https://secure.corwin.com/jsCart.nav"></script>
+<script src="/js/ui.js"></script>
 <script src="/js/webtrends.js" type="text/javascript"></script><script type="text/javascript" src="https://dc01.sagepub.com/dcs9vyacoie66ytewjsp9hhkz_1k5k/wtid.js"></script>
 <noscript>
 	<div>
