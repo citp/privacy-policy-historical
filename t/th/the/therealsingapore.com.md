@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therealsingapore.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620120731id_/http%3A//therealsingapore.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therealsingapore.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219142252id_/http%3A//www.therealsingapore.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Real Singapore
 
@@ -49,6 +49,6 @@ This policy was last modified on 10 / 1 / 2012
 
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.  
-[therealsingapore@gmail.com](mailto:therealsingapore@gmail.com)
+[admin@therealsingapore.com](mailto:admin@therealsingapore.com)
 
 This policy is powered by Trust Guard [PCI Compliance](http://www.trust-guard.com/).
