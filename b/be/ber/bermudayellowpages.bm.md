@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bermudayellowpages.bm privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620200440id_/http%3A//www.bermudayellowpages.bm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bermudayellowpages.bm privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219192112id_/http%3A//bermudayellowpages.bm/privacy) for the most accurate reproduction.*
 
 # Bermuda Yellow Pages | Bermuda Yellow Pages Limited - Privacy Policy
 
