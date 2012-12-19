@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxoro.com privacy policy that was archived on 2012-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120426160227id_/http%3A//www.fxoro.com/scripts/pagebase.aspx%3Ffolder%3Dcmp%26what%3Dprivacydoc%26ext%3Dhtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxoro.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219160524id_/http%3A//www.fxoro.com/scripts/pagebase.aspx%3Ffolder%3Dcmp%26what%3Dprivacydoc%26ext%3Dhtm) for the most accurate reproduction.*
 
 # FXORO Online Trading, Forex Trading, Online Currency Trading
 
