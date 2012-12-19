@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rpgamer.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626033953id_/http%3A//www.rpgamer.com/header/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgamer.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219234514id_/http%3A//www.rpgamer.com/header/privacy.html) for the most accurate reproduction.*
 
 # RPGamer > Privacy & User Policies
 
 **Terms Of Use**
 
-By visiting or using any document or resouce contained on this _website_ \- hereafter to be read as "[http://www.rpgamer.com/](/)" - you agree to be bound by the provisions of these _Privacy & User Policies_. If at any time you have questions or concerns regarding the information provided by this document, please forward all such discourse to [webmaster@rpgamer.com](mailto:webmaster@rpgamer.com?subject=Privacy and User Policies) where the appropriate administrator will respond to you as quickly as possible. _RPGamer_ \- hereafter to be read as "RPGamer and/or its affiliates" - reserves the right to modify, add, or remove portions of these policies at any time; it is therefore in your best interest to review this document periodically.
+By visiting or using any document or resouce contained on this _website_ \- hereafter to be read as "[http://www.rpgamer.com/](https://web.archive.org/)" - you agree to be bound by the provisions of these _Privacy & User Policies_. If at any time you have questions or concerns regarding the information provided by this document, please forward all such discourse to [webmaster@rpgamer.com](mailto:webmaster@rpgamer.com?subject=Privacy%20and%20User%20Policies) where the appropriate administrator will respond to you as quickly as possible. _RPGamer_ \- hereafter to be read as "RPGamer and/or its affiliates" - reserves the right to modify, add, or remove portions of these policies at any time; it is therefore in your best interest to review this document periodically.
 
 **Collection & Dissemination of Information**
 
