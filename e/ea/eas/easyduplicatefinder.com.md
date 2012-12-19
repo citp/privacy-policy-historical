@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyduplicatefinder.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215144355id_/http%3A//www.easyduplicatefinder.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyduplicatefinder.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219063323id_/http%3A//www.easyduplicatefinder.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Easy Duplicate Finder - Privacy Policy
 
@@ -99,6 +99,18 @@ You may also send your contacts an invite them to become members of our site . 
 #### Notification of Privacy Statement Changes 
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+#### Use of Information
+
+WebMinds may use Information collected in connection with the Site in the following ways:
+
+  * To provide requested information, products and services to users
+  * To improve the user experience with the Site
+  * In connection with the operation of the Site and WebMind's internal business
+  * In connection with other Sites or offline businesses owned or operated by WebMinds
+  * For Users to obtain information and offers for products and services offered by WebMinds as well as selected third parties.
+
+
 
 #### Contact Information
 
