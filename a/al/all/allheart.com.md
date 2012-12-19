@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the allheart.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606051229id_/http%3A//www.allheart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allheart.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219184359id_/http%3A//www.allheart.com/privacy/a/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | allheart.com
-
-  * [Dickies Medical Uniforms: Up to 40% Off!](https://web.archive.org/web/20120606051229id_/http%3A//www.allheart.com/dickies-medical-uniforms.html?cmp=MBarLeftDickies40Off)
-  * [IguanaMed:  up to 35% Off!](https://web.archive.org/web/20120606051229id_/http%3A//www.allheart.com/iguanamed.html?cmp=MBarCenterIguana35Off)
-  * [Free Shipping with $49+ Koi Purchase!](https://web.archive.org/web/20120606051229id_/http%3A//www.allheart.com/koiscrubs.html?cmp=MBarRightKoiFreeShipping)
-
-
 
 ## Overview
 
@@ -31,10 +25,6 @@ Please note that our sites (allheart.com, allheartchefs.com, Jascouniform.com) m
 ## Data Security
 
 Our shopping carts (including credit card information) are secured using Secure Socket Layer (SSL) encryption technology. We use this SSL technology to prevent such information from being intercepted and read as it is transmitted over the Internet. The encrypted data goes to a secure site where your information is stored on restricted-access computers located at restricted-access sites.
-
-Secured with:
-
-[](http://smallbusiness.yahoo.com/ecommerce/)
 
 #### Email Addresses
 
