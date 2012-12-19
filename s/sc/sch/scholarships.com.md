@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarships.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616125142id_/http%3A//www.scholarships.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarships.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219120638id_/http%3A//www.scholarships.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - About Us - Scholarships.com
 
@@ -82,5 +82,5 @@ Scholarships.com has adopted privacy principles that state our commitment and de
 
 Privacy at Scholarships.com   
 Scholarships.com, LLC   
-473 Central Avenue, Suite 6   
+430 Park Avenue, Suite 3A   
 Highland Park, IL 60035
