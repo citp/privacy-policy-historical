@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the dnd-wiki.org privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620184043id_/http%3A//www.dnd-wiki.org/wiki/Dungeons_and_Dragons_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnd-wiki.org privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219193244id_/http%3A//www.dnd-wiki.org/wiki/Dungeons_and_Dragons_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Dungeons and Dragons Wiki:Privacy policy - Dungeons and Dragons Wiki
+
+A recent Firefox update is incompatible with our custom ratings extension: it won't display the text that you are typing in the box. So if you are using Firefox 17.0.1, you may need to manually add ratings for a while. There are no known problems with other browsers, however, so you could use one of those instead. 
+
+From Dungeons and Dragons Wiki
 
 Date of Last Revision: September 18, 2011 
 
