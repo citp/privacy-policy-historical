@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobberman.com.gh privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615172345id_/http%3A//jobberman.com.gh/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobberman.com.gh privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220191432id_/http%3A//www.jobberman.com.gh/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - See Jobberman.com.gh for Ghana Jobs
 
@@ -8,14 +8,14 @@
 
 Created: September 21, 2009
 
-Questions or suggestions regarding this statement should be directed to [mailto:privacy@jobberman.com](mailto:privacy@jobberman.com)  
+Questions or suggestions regarding this statement should be directed to [privacy@jobberman.com.gh](mailto:privacy@jobberman.com)  
 
 All information regarding a job offer is from sources deemed reliable. No representation is made as to the accuracy thereof, and such information is subject to errors, omission, change of details without notice.   
  
 
 **Jobberman’s Privacy Statement**
 
-Jobberman is a job search and career development company operating in the online career space in Nigeria. Jobberman is very sensitive to privacy issues. Any user information we collect is considered private and we do not use it or share it except as permitted herein, without the user's permission. We use this personal information at Jobberman to provide the best quality service possible. This privacy statement applies only to information collected by web addresses in the [jobberman.com](mailto:jobberman.com) domain, hereafter referred to collectively as Jobberman. We believe it is important you know how we treat the information you may provide to us.
+Jobberman is a job search and career development company operating in the online career space in Nigeria. Jobberman is very sensitive to privacy issues. Any user information we collect is considered private and we do not use it or share it except as permitted herein, without the user's permission. We use this personal information at Jobberman to provide the best quality service possible. This privacy statement applies only to information collected by web addresses in the [jobberman.com.gh](mailto:jobberman.com) domain, hereafter referred to collectively as Jobberman. We believe it is important you know how we treat the information you may provide to us.
 
 **Information Collected by Jobberman:**
 
@@ -27,7 +27,7 @@ Jobberman does not sell or trade your personal information. Collected informatio
 
 **Use of Email Tools:**
 
-Upon registration, you may decide to subscribe for some offerings e.g. news, promotional materials. If you no longer wish to receive our newsletters and promotional communications from Jobberman, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at[email@jobberman.com](mailto:email@jobberman.com).
+Upon registration, you may decide to subscribe for some offerings e.g. news, promotional materials. If you no longer wish to receive our newsletters and promotional communications from Jobberman, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [email@jobberman.com.gh](mailto:email@jobberman.com).
 
 **Shared information:**
 
@@ -41,11 +41,11 @@ Jobberman takes every reasonable precaution to secure personal information withi
 
 The security of your personal information is central to Jobberman. We follow global industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can email us at [privacy@jobberman.com](mailto:privacy@jobberman.com).
+If you have any questions about security on our Web site, you can email us at [privacy@jobberman.com.gh](mailto:privacy@jobberman.com).
 
 **Changes to personal information:**
 
-You may correct or update your personally identifiable information by making the change on your member account. If you no longer desire our service, you may deactivate your membership by sending an email to [contracts@jobberman.com](mailto:contracts@jobberman.com).
+You may correct or update your personally identifiable information by making the change on your member account. If you no longer desire our service, you may deactivate your membership by sending an email to [contracts@jobberman.com.gh](mailto:contracts@jobberman.com).
 
 **Changes to this Privacy Statement:**
 
