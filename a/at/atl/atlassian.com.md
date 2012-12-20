@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the atlassian.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605134834id_/http%3A//www.atlassian.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlassian.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220042808id_/http%3A//www.atlassian.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy and Legal Statement - Atlassian | Atlassian
 
-Last Updated: June 1, 2012 
+Last Updated: October 22, 2012 
 
 ## Scope
 
-This Privacy Policy applies to information, including Personal Information, Atlassian collects through your use of Atlassian's Services. By using Atlassian's Services and accepting the [End User License Agreement](http://www.atlassian.com/licensing/license) or [Terms of Service](http://www.atlassian.com/hosted/terms), as applicable, you also agree to this Privacy Policy. If you do not agree to this Privacy Policy, you must not use Atlassian's Services. The terms "We," "Us," "Our," or "Atlassian" includes Atlassian and our affiliates. It explains how we may collect, use, and disclose information we obtain through "Atlassian's Services."
+This Privacy Policy applies to information, including Personal Information, Atlassian collects through your use of Atlassian's Services. By using Atlassian's Services and accepting the [End User Agreement](http://www.atlassian.com/end-user-agreement), as applicable, you also agree to this Privacy Policy. If you do not agree to this Privacy Policy, you must not use Atlassian's Services. The terms "We," "Us," "Our," or "Atlassian" includes Atlassian and our affiliates. It explains how we may collect, use, and disclose information we obtain through "Atlassian's Services."
 
 (More Info)
 
@@ -127,7 +127,7 @@ By choosing to visit Atlassian's Services or otherwise providing information to 
 
 **If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your Personal Information to Australia and the United States to us. By providing your Personal Information, you consent to any transfer and processing in accordance with this Policy.**
 
-**** You also consent to the adjudication of any disputes arising in connection with us or Atlassian's Services in accordance with the [End User License Agreement](http://www.atlassian.com/licensing/license) or [Terms of Service](http://www.atlassian.com/hosted/terms), as applicable.
+**** You also consent to the adjudication of any disputes arising in connection with us or Atlassian's Services in accordance with the [End User Agreement](http://www.atlassian.com/end-user-agreement), as applicable.
 
 ## ADDITIONAL INFORMATION
 
@@ -139,4 +139,4 @@ By choosing to visit Atlassian's Services or otherwise providing information to 
 
 ## QUESTIONS?
 
-If you have questions regarding this Privacy Policy, please email us at [privacy@atlassian.com](mailto:privacy@atlassian.com) or write us at Atlassian Pty Ltd, 173-185 Sussex Street, Sydney, NSW, 2000, Australia
+If you have questions regarding this Privacy Policy, please email us at [privacy@atlassian.com](mailto:privacy@atlassian.com) or write us at Atlassian Pty Ltd, Level 6, 341 George Street, Sydney, NSW 2000, Australia
