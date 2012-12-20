@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the extendstudio.com privacy policy that was archived on 2012-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120627154918id_/http%3A//www.extendstudio.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the extendstudio.com privacy policy that was archived on 2012-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121220190913id_/http%3A//www.extendstudio.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Extendstudio.com | Privacy Policy | Flash &amp; Dreamweaver Extensions | Professional Flash and Dreamweaver Components | Cost-effective | Site Design and Development</title>
@@ -116,6 +116,11 @@
 			
 			// init the fancybox for this element //
 			$(this).fancybox(fancyOptions);
+			
+			var hash = window.location.hash.substring(1);
+			if (hash.indexOf("openOnLoad") != -1 && $(this).hasClass(hash)) {
+				$(this).trigger('click');
+			}
 		})
 		
 	});
@@ -224,15 +229,17 @@
 
  </div>
     <div class="clear-both">&nbsp;</div>
+    
+
     </div>
-
-
 
     <div id="content-wrap">
 
       <div id="main-content"><!--ends in footer.tpl-->
 
-<!--div style="width:946px; height:53px; padding-bottom:10px; margin-bottom: 10px; margin-left: auto; margin-right: auto;"><a href="http://www.extendstudio.com/store.html"><img src="http://www.extendstudio.com/images/holyday_banners/banner_promotie_craciun2011_home.jpg" border="0" alt="Holiday Offers"/></a></div-->
+	
+	
+<div style="width:940px; height:43px; padding-bottom:10px; margin-bottom: 25px; margin-left: auto; margin-right: auto;"><a href="http://extendstudio.com/newsletter/n100_131212/newsletter.html"><img src="http://extendstudio.com/images/holyday_banners/holiday-nugget.png" border="0" alt="Holiday Offers" width="940" height="41"></a></div>
 
        
 
