@@ -1,0 +1,648 @@
+<!--The following is the downloaded HTML source of the lucyinthesky.com privacy policy that was archived on 2012-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121220153453id_/http%3A//www.lucyinthesky.com/shop/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en " xml:lang="
+  en "><head>
+    <title>Privacy policy</title>
+    <meta name="robots" content="INDEX,FOLLOW">
+            <meta name="keywords" content="">
+        <base href="http://www.lucyinthesky.com/shop/">
+            <link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/jqzoom.css">
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie6.css" />
+    <script type="text/javascript" src="catalog/view/javascript/DD_belatedPNG_0.0.8a-min.js"></script>
+    <script>
+    DD_belatedPNG.fix('img, #header .div3 a, #content .left, #content .right, .box .top');
+    </script>
+    <![endif]-->
+    	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.7.1.js"></script>
+	<script type="text/javascript" src="catalog/view/javascript/jquery/thickbox/thickbox-compressed.js"></script>
+    <link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/thickbox/thickbox.css">
+	<script type="text/javascript" src="catalog/view/javascript/jquery/tab.js"></script>
+	<script type="text/javascript" src="catalog/view/javascript/jquery.totemticker.js"></script>
+	<script type="text/javascript" src="catalog/view/javascript/superfish/superfish.js"></script>
+	<script type="text/javascript" src="catalog/view/javascript/InputPlaceholder.js"></script>
+	
+        
+	<script type="text/javascript">
+		function bookmark(url, title) {
+			if (window.sidebar) { // firefox
+				window.sidebar.addPanel(title, url, "");
+			} else if(window.opera && window.print) { // opera
+				var elem = document.createElement('a');
+				elem.setAttribute('href',url);
+				elem.setAttribute('title',title);
+				elem.setAttribute('rel','sidebar');
+				elem.click();
+			} else if(document.all) {// ie
+				window.external.AddFavorite(url, title);
+			}
+		}
+		
+		$(document).ready(function() {
+			$('#top-menu').superfish({
+				hoverClass	 : 'sfHover',
+				pathClass	 : 'overideThisToUse',
+				delay		 : 0,
+				animation	 : {height: 'show'},
+				speed		 : 'normal',
+				autoArrows   : false,
+				dropShadows  : false, 
+				disableHI	 : false
+			});
+			
+			$('#top-menu').css('display', 'block');
+			
+			/* Wish List */
+			$('.wish_button').click(function(){
+				var product_id = $(this).attr('id').substr(2);
+				
+				//alert(product_id);
+				
+				$(this).removeClass().addClass('wish_button_selected');
+				
+				$.post('index.php?route=module/wish_list/callback', {product_id:product_id}, function(data){
+					$('#wish-list-block').html(data);
+				});
+			});
+
+			// clicking lucy design icon
+			$('div.design_by_lucy').click(function(){
+				location = '/shop/lucy-exclusive';
+			});
+/*
+			$('.design_by_lucy2 span').click(function(){
+				location = '/shop/features/designed-by-lucy';
+			});
+*/			
+		});
+		
+		function timer() {
+			// Смещение времени с учетом часового пояса, в микросекундах
+			// var timeShift = 36000*1000; // летнее время
+			var timeShift = 39600*1000; // зимнее время
+			
+			var tmp = new Date();
+			var now = new Date(tmp.getUTCFullYear(), tmp.getUTCMonth(), tmp.getUTCDate(), tmp.getUTCHours(), tmp.getUTCMinutes(), tmp.getUTCSeconds());
+			
+			var now = new Date(now.getTime()+timeShift); // смещаем время
+			
+			// console.log(now);
+			
+			var date = now.getDate();
+			
+			if (now.getHours() >= 15) { // Если текущее время больше чем 15 часов, то прибавляем еще день.
+				date = new Date(parseInt(now.getTime()+3600*24*1000)).getDate();
+			}				
+			var finish = new Date(now.getFullYear(), now.getMonth(), date, 15, 0, 0, 0);	
+			var totalSecond = parseInt((finish.getTime()-now.getTime())/1000);			
+			var rHour 	= Math.floor(totalSecond/3600);
+			var rMinute = Math.floor((totalSecond-rHour*3600)/60);
+			var rSecond = Math.floor((totalSecond-rHour*3600)-rMinute*60);			
+			timeString = (rHour>=10?rHour:'0'+rHour) + ":" + (rMinute>=10?rMinute:'0'+rMinute) + ":" + (rSecond>=10?rSecond:'0'+rSecond);			
+			$('#timer').text(timeString);
+		}		
+		
+		$(document).ready(function(){
+			
+			if ($('#timer').length) {
+				timer();
+				setInterval("timer()", 1000);
+			}
+		});
+	</script>
+	<style type="text/css">
+	body { background: url("http://www.lucyinthesky.com/shop/image/data/background/bg4.jpg")!important; }
+	.Body-P { margin:0.0px 0.0px 12.0px 0.0px; text-align:center; font-weight:400;}
+	.Body-C { font-family:"Verdana", sans-serif; font-weight:700; font-size:9.0px; line-height:2.33em; color:#ffffff; }
+	.Body-C0{ font-family:"Verdana", sans-serif; font-size:9.0px; line-height:2.33em; color:#444444; }
+	</style>
+
+  <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+  <body>
+  	<div id="top-panel">
+  		<div id="center-fixed-block">
+  			<div id="search-block">
+  				<form action="http://www.lucyinthesky.com/shop/index.php" method="get">
+  					<input type="hidden" name="route" value="product/search">
+  					<input type="text" name="keyword" id="search-input">
+  					<button type="submit"></button>
+  				</form>
+  			</div>
+  			<div id="flip-to-front">
+  			    <ul>
+  			     
+  			        <li><a href="http://dressexpress.com.au/">DRESS EXPRESS</a></li> 
+  			    </ul>
+  			</div>
+  			<div id="info-block">
+  				<ul>
+  					  					<li><a href="/shop/vacancy">CAREERS</a></li>
+  					  					<li><a href="/shop/help">HELP CENTRE</a></li>
+  					<li><a href="/shop/contact">CONTACT US</a></li>
+  				</ul>
+  			</div>
+  		</div>
+  	</div>
+    <div id="container">
+      <div class="padding_container">
+      <div class="clr"></div>
+        <div class="head">
+                    <img alt="" src="http://www.lucyinthesky.com/shop/image/data/hot_spot/LUCYSANTA.JPG" usemap="#top_hot_spot">
+            <map name="top_hot_spot">
+                            <area shape="rect" coords="0,198,215,254" href="http://www.lucyinthesky.com/shop/help" alt="">
+                            <area shape="rect" coords="-4,64,965,191" href="http://www.lucyinthesky.com/shop/" alt="">
+                            <area shape="rect" coords="665,0,965,67" href="http://www.lucyinthesky.com/shop/help#a14" alt="">
+                        </map>
+                </div>
+		<div class="hmenu">
+		
+			<ul id="top-menu">
+			    				<li id="features"><a href="http://www.lucyinthesky.com/shop/lucy-exclusive">LUCY EXCLUSIVE</a></li>
+				<li id="new_arrivals"><a href="http://www.lucyinthesky.com/shop/new-arrivals">NEW ARRIVALS</a></li>
+								<li id="back_in_stock"><a href="http://www.lucyinthesky.com/shop/back-in-stock">BACK IN STOCK</a></li>
+				<li id="cat"><a class="top">CLOTHES</a>
+					<ul style="display:none;">
+						<li><a href="http://www.lucyinthesky.com/shop/all-clothing">ALL CLOTHES</a></li>
+												<li><a href="http://www.lucyinthesky.com/shop/party-dresses">Party dresses</a></li>
+												<li><a href="http://www.lucyinthesky.com/shop/day-dresses">Day dresses</a></li>
+												<li><a href="http://www.lucyinthesky.com/shop/jackets">Jackets/vests</a></li>
+												<li><a href="http://www.lucyinthesky.com/shop/jumpsuits">Playsuits</a></li>
+												<li><a href="http://www.lucyinthesky.com/shop/skirts">Skirts</a></li>
+												<li><a href="http://www.lucyinthesky.com/shop/tops">Tops</a></li>
+												<li><a href="http://www.lucyinthesky.com/shop/jeans">Jeans</a></li>
+												<li><a href="http://www.lucyinthesky.com/shop/shorts">Shorts</a></li>
+												<li><a href="http://www.lucyinthesky.com/shop/pants">Pants/leggings</a></li>
+											</ul>
+				</li>
+				
+				<li id="shoes"><a class="top">SHOES</a>
+					<ul style="display:none;">
+												<li><a href="http://www.lucyinthesky.com/shop/all-shoes">All shoes</a></li>
+											</ul>				
+				</li>
+
+				<li id="acc"><a class="top">ACCESSORIES</a>
+									<ul style="display:none;">
+												<li><a href="http://www.lucyinthesky.com/shop/all-accessories">All accessories</a></li>
+												<li><a href="http://www.lucyinthesky.com/shop/bracelets">Bracelets</a></li>
+												<li><a href="http://www.lucyinthesky.com/shop/clutches">Clutches</a></li>
+												<li><a href="http://www.lucyinthesky.com/shop/handbags">Handbags</a></li>
+												<li><a href="http://www.lucyinthesky.com/shop/necklaces">Necklaces</a></li>
+												<li><a href="http://www.lucyinthesky.com/shop/rings">Rings</a></li>
+											</ul>				
+								</li>
+				
+				<li id="sale_items">
+					<a class="top">SALE</a>
+					<ul>
+						<li>
+							<a href="http://www.lucyinthesky.com/shop/sale-items">ALL SALE ITEMS</a>
+						</li>
+					</ul>
+				</li>		
+				<li id="gift_cards">
+				    <a class="top">GIFT CARDS</a>
+				    <ul>
+				        <li><a href="/shop/gift-card">BUY GIFT CARD</a></li>
+				        <li><a href="/shop/gift-card-balance">CHECK BALANCE</a></li>
+				    </ul>
+				    
+				</li>	
+				<li id="about_lucy"><a href="/shop/about_lucy_in_the_sky">ABOUT LUCY</a></li>
+								<li id="blog">
+					<a href="http://www.lucyinthesky.com/shop/blog/post/86">Blog</a>
+				</li>
+			</ul>
+			<div style="clear:both;"></div>
+		</div>        
+				
+		<div id="top-text-banner">
+					<ul id="myuitr">
+							<li style="display:block;padding:7px 0 3px;">
+										<strong>LOVE LUCY SALE </strong>LIMITED TIME ONLY! <strong>ENTER LOVELUCY AT CHECKOUT</strong> TO RECEIVE <strong>20% OFF YOUR PURCHASE</strong>									</li>
+							<li style="display:block;padding:7px 0 3px;">
+										<a href="http://www.lucyinthesky.com/shop/help#a1"><strong>FREE EXPRESS SHIPPING IN AUSTRALIA</strong>&nbsp;WITH <strong>NO MINIMUM&nbsp;</strong>SPEND&nbsp;</a>
+									</li>
+							<li style="display:block;padding:7px 0 3px;">
+										<a href="http://www.lucyinthesky.com/shop/gift-card"><strong>STUCK ON FINDING THE PERFECT GIFT?</strong> SPOIL SOMEONE WITH ENDLESS CHOICES!&nbsp;<strong>BUY GIFT CARD!</strong></a>
+									</li>
+						</ul>
+				</div>		
+<script type="text/javascript"><!--
+function getURLVar(urlVarName) {
+var urlHalves = String(document.location).toLowerCase().split('?');
+var urlVarValue = '';
+if (urlHalves[1]) {
+var urlVars = urlHalves[1].split('&');
+for (var i = 0; i <= (urlVars.length); i++) {
+if (urlVars[i]) {
+var urlVarPair = urlVars[i].split('=');
+if (urlVarPair[0] && urlVarPair[0] == urlVarName.toLowerCase()) {
+urlVarValue = urlVarPair[1];
+}
+}
+}
+}
+return urlVarValue;
+}
+$(document).ready(function() {
+route = getURLVar('route');
+if (!route) {
+$('#tab_home').addClass('selected');
+} else {
+part = route.split('/');
+if (route == 'common/home') {
+$('#tab_home').addClass('selected');
+} else if (route == 'account/login') {
+$('#tab_login').addClass('selected');
+} else if (part[0] == 'account') {
+$('#tab_account').addClass('selected');
+} else if (route == 'checkout/cart') {
+$('#tab_cart').addClass('selected');
+} else if (part[0] == 'checkout') {
+$('#tab_checkout').addClass('selected');
+} else {
+$('#tab_home').addClass('selected');
+}
+}
+});
+$('#search input').keydown(function(e) {
+if (e.keyCode == 13) {
+moduleSearch();
+}
+});
+function moduleSearch() {
+url = 'index.php?route=product/search';
+var filter_keyword = $('#filter_keyword').attr('value')
+if (filter_keyword) {
+url += '&keyword=' + encodeURIComponent(filter_keyword);
+}
+var filter_category_id = $('#filter_category_id').attr('value');
+if (filter_category_id) {
+url += '&category_id=' + filter_category_id;
+}
+location = url;
+}
+$('.switcher').bind('click', function() {
+$(this).find('.option').slideToggle('fast');
+});
+$('.switcher').bind('mouseleave', function() {
+$(this).find('.option').slideUp('fast');
+});
+
+$(function(){
+	$('#myuitr').totemticker({
+		row_height	:   '27px',
+		speed       :   800,
+		interval    :   6800,
+		max_items   :   1,
+		mousestop   :   false,
+		direction	:	'up'
+	});
+});
+if(document.getElementById)
+	var ph = new InputPlaceholder (document.getElementById('search-input'), 'Search', '', 'emptySearch');
+//-->
+</script>
+
+<div id="module_cart" class="box">
+        <div id="empty-cart"></div>
+        
+        <form action="http://www.lucyinthesky.com/shop/index.php?route=common/home" method="post" enctype="multipart/form-data" id="currency_form" style="display:inline;">
+                <span style="margin-right:10px;padding-left:5px;" id="cur_name"><img alt="Australia" src="image/flags/au.png"> Australia</span>
+        
+        <div id="more_cur">
+            <ul>
+                                                                <li>
+                    <a onclick="$('input[name=\'currency_code\']').attr('value', 'CAD'); $('#currency_form').submit();">
+                    <span class="more_flag"><img alt="CAD" src="image/flags/ca.png"></span>
+                    <span>Canada (C$)</span>
+                    </a>
+                </li>
+                                                <li>
+                    <a onclick="$('input[name=\'currency_code\']').attr('value', 'GBP'); $('#currency_form').submit();">
+                    <span class="more_flag"><img alt="GBP" src="image/flags/gb.png"></span>
+                    <span>United Kingdom (£)</span>
+                    </a>
+                </li>
+                                                <li>
+                    <a onclick="$('input[name=\'currency_code\']').attr('value', 'NZD'); $('#currency_form').submit();">
+                    <span class="more_flag"><img alt="NZD" src="image/flags/nz.png"></span>
+                    <span>New Zealand (NZ$)</span>
+                    </a>
+                </li>
+                                                <li>
+                    <a onclick="$('input[name=\'currency_code\']').attr('value', 'USD'); $('#currency_form').submit();">
+                    <span class="more_flag"><img alt="USD" src="image/flags/us.png"></span>
+                    <span>United States ($)</span>
+                    </a>
+                </li>
+                                <li>
+                    <span style="margin:0 7px;"><img src="catalog/view/theme/default/images/show_all_currencies.gif" alt="" style="border:none;"></span>
+                    <span><a href="shop-by-currency" style="font-weight:normal;">Show all currencies</a></span>
+                </li>
+            </ul>
+        </div>
+    <input type="hidden" name="currency_code" value="">
+    <input type="hidden" name="redirect" value="http://www.lucyinthesky.com/shop/privacy">
+    </form>
+    
+    <span id="module-cart-products-list">
+		YOUR ORDER IS EMPTY
+		</span>
+	
+	<div class="under-line"></div>
+</div>
+<script type="text/javascript"><!--
+$(document).ready(function () {
+
+	$('#cur_name').hover(function(){
+	    $('#more_cur').show();
+	},
+	function(){
+	    $('#more_cur').hide();
+	});
+
+	$('#more_cur').hover(function(){
+	    $(this).show();	
+	},
+	function(){
+	    $(this).hide();	
+	});
+	
+	$('#add_to_carts').click(function () {	
+		
+		if ($('select.select-options').val()) {		
+			
+			alert ('Product was added to cart');
+			
+			$.ajax({
+			
+				type: 'post',
+				url: 'index.php?route=module/cart/callback',
+				dataType: 'html',
+				data: $('#product :input'),
+				success: function (html) {
+					
+					var patt=/My order (\d+) items/;
+					var result = patt.exec(html);
+					
+					$('#cart2').html(result[1].toString());
+					$('#empty-cart').remove();
+					$('#module-cart-products-list').html(html);
+				}		
+			});		
+		}
+	});			
+	
+	$('#clear_cart').click(function () {
+		$.ajax({
+			type: 'post',
+			url: 'index.php?route=module/cart/clear',
+			dataType: 'html',
+			data: 'clearcart=1',
+			success: function (html) {
+				var patt=/\d+/;
+				var result = patt.exec(html);
+				$('#cart2').html(result.toString());
+				
+				$('#module-cart-products-list').html(html);
+			}	
+		});
+	});			
+});
+//-->
+</script>
+
+<div style="padding-bottom:33px;"></div>
+<div id="content" style="width:890px;">
+  <div class="top">
+    <div class="left"></div>
+    <div class="right"></div>
+    <div class="center">
+      <h1>Privacy policy</h1>
+    </div>
+  </div>
+  <div class="middle">
+	<table style="width:800px;">
+		<tbody><tr>
+			<td style="width:290px;text-align:left;vertical-align:top;">
+							<a href="http://www.lucyinthesky.com/shop/new-arrivals"><img src="http://www.lucyinthesky.com/shop/image/data/banners/0Y5A8672B.JPG" alt=""></a>
+						</td>
+			<td style="text-align:left;vertical-align:top;width:510px;"><p>
+	<span style="font-size: 18px; font-family: Calibri, sans-serif; ">PRIVACY POLICY</span></p>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	&nbsp;</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	References in this Privacy Policy Statement to</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	"we", "us" and "Lucy in the Sky" are to Lucy in</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	the Sky online store Pty Ltd. At Lucy in the Sky we are committed to</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	maintaining your privacy. Our privacy policy statement is given below. If we</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	make changes to this policy, we will notify you by updating this statement on</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	our Website.</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	&nbsp;</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	WHAT INFORMATION DO WE COLLECT?</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	We ask for your name, telephone number, home address, email address and age for</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	competitions, prizedraws, or newsletter sign ups. When a purchase is made on</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	our site, in addition to the above, we also ask for delivery address, and</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	payment method details. We may obtain information about your usage of our</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	Website to help us develop and improve it further through online surveys and</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	other requests.</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	&nbsp;</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	WHAT THE DATA WILL BE USED FOR?</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	Your data will enable us, and our processors, to fulfil your order, to notify</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	you about important functionality changes and for statistical or survey</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	purposes to improve this website and our services to you. We may also send you</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	from time to time (by email or post) information about products and services</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	and details of promotions and special offers from Lucy in the Sky. If you do</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	not wish to be contacted for these purposes, we offer a range of ways in which</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	you can inform us about your marketing preferences:</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	&nbsp;</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	•&nbsp;&nbsp;&nbsp;&nbsp;All email messages and email newsletters will contain</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	information on how you can unsubscribe; or</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	•&nbsp;&nbsp;&nbsp;&nbsp;Call our customer service on 02 4325 0003 or if calling</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	from overseas on +61 2 4325 0003.</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	•&nbsp;&nbsp;&nbsp;&nbsp;Write to us at: Customer Service, Lucy in the Sky, Level 1,&nbsp; 120 Erina Street, Gosford NSW 2250</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	Australia.</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	&nbsp;</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	In assessing your request for goods or services, we may use your information</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	for the purposes of the prevention and detection of fraud.</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	&nbsp;</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	WHAT INFORMATION DO WE SHARE WITH OTHERS?</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	We may contract with other companies to provide certain services, including</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	credit card processing, shipping, name and address verification, email</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	distribution, market research and promotions management. We provide these</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	companies with only the information they need to perform their services and</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	work closely with them to ensure that your privacy is respected and protected.</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	These companies are prohibited by contract from using this information for</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	their own marketing purposes or from sharing this information with anyone other</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	than Lucy in the Sky.&nbsp;We may disclose specific information upon governmental</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	request, in response to a court order, or when required by law to do so. We may</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	also share information with companies assisting in fraud protection or</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	investigation. We do not provide information to these agencies or companies for</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	marketing or commercial purposes.</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	&nbsp;</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	COOKIES</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	A Cookie is a small data file that is stored by your Web browser on your</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	computer. We use Cookies to keep track of your current shopping session, to</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	enable you to proceed to checkout at any time and to personalize your online</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	experience. If you do not accept Cookies you will be unable to use this website.</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	Refer to the Help content of your browser for more information on selecting or</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	deselecting Cookies.</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	&nbsp;</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	&nbsp;</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	LINKS TO THIRD PARTIES SITES</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	In an attempt to provide you with increased</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	value, we may from time to time include third party links on our Website. These</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	linked sites have separate and independent privacy policies. We encourage you</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	to review those policies when you visit those sites. This Privacy Policy</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	Statement only covers our Website and does not cover any other website. We</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	therefore have no responsibility or liability for the content and activities of</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	these linked sites.</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	&nbsp;</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	PRIVACY OF CHILDREN ON OUR WEBSITE</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	Our Website is not intended for use by children</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	under the age of 14, and we will not knowingly collect any information from any</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	person below the age of 14.</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	&nbsp;</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	SALE OF ASSETS</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	In the unlikely event that Lucy in the Sky or</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	substantially all of its assets are acquired, customer information will of</div>
+<div style="font-family: Calibri, sans-serif; font-size: 14px; ">
+	course be one of the transferred assets.</div>
+</td>
+		</tr>
+	</tbody></table>
+  </div>
+  <div class="bottom">
+    <div class="left"></div>
+    <div class="right"></div>
+    <div class="center"></div>
+  </div>
+</div>
+				<div class="clr"></div>
+			</div>
+		</div>
+<div id="footer-new">
+    
+	<div>
+	    <a href="/shop/privacy" style="text-decoration:none;">Privacy policy</a><br><br>
+	    Copyright © 2010 – 2012 Lucy in the Sky. All rights reserved. Images copyright © 2010 – 2012 Lucy in the Sky. All rights reserved. <br>Lucy in the Sky is registered trade mark.
+	</div>
+</div>
+
+<script type="text/javascript">
+adroll_adv_id = "JZO6BBD2GZD7HKECUCWLKL";
+adroll_pix_id = "QU37RRWUIRDOTO65BNCSSJ";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-15002041-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>	
+ <!-- 
+Total db exec time: ~ 0.00774
+Total exec time: ~ 0.033323049545288--></body></html>
