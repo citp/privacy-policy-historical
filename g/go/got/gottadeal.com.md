@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625052526id_/http%3A//www.gottadeal.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220081258id_/http%3A//www.gottadeal.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GottaDeal.com
 
@@ -53,9 +53,3 @@ To protect your privacy and security, we will also take reasonable steps to veri
 **How To Contact Us**
 
 Should you have other questions or concerns about these privacy policies, please call us at (414) 375-2359 or contact us using the form available here on the site. 
-
-  
-|   |  |   |  [](http://www.facebook.com/gottadeal "Like our Facebook page") [](http://www.twitter.com/gottadeal "Follow us on Twitter") [](https://plus.google.com/103738791781431766117/?prsrc=3 "Add us to your Google+ circles") [](http://www.gottadeal.com/rss.xml "Check out our RSS feed") [](http://forums.gottadeal.com/ "Visit the GottaDeal.com Forums") Over **195,000** Users  
-Over **170,000** Threads  
-Over **1,100,000** Posts [**Visit the Forums!**](http://forums.gottadeal.com/) [](http://www.bettercreditcard.com/ "Visit BetterCreditCard.com") Check out this [new list](http://www.bettercreditcard.com/) of our highly recommended "hot deal-friendly" cards.  [](http://www.gottadeal.com/App)  
----|---|---|---|---
