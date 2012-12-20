@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the allschoolstuff.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623113520id_/http%3A//www.allschoolstuff.com/pages/Privacy-Policy/pgid-56341.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allschoolstuff.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220054255id_/http%3A//www.allschoolstuff.com/pages/Privacy-Policy/pgid-56341.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Fame Eduserve Private Limited (Fame) and its subsidiaries and divisions, respect your privacy. This Privacy Policy outlines the manner your data is collected and used by FAME. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Allschoolstuff.com you agree to the collection and use of your data by Allschoolstuff.com in the manner provided in this Privacy Policy.
 
-If you have questions or concerns regarding this statement, you can contact us at +91-124-4270152 or email us at [customer.service@allschoolstuff.com](mailto:customer.service@allschoolstuff.com)
+If you have questions or concerns regarding this statement, you can contact us at +91-124-4495547, 4495548 or email us at [customer.service@allschoolstuff.com](mailto:customer.service@allschoolstuff.com)
 
 The Policy does not apply to the procedures and practices followed by entities that are not managed, owned or controlled by Allschoolstuff.com or to the people that are not engaged, employed or managed by Allschoolstuff.com
 
@@ -240,5 +240,5 @@ Unit II, 2nd Floor, SCO 18, Housing Board Complex
 Saraswati Vihar Market, MG Road  
 Gurgaon – 122001.
 
-Phone : +91-124-4270152  
+Phone : +91-124-4495547, 4495548  
 Email : [customer.service@Allschoolstuff.com](mailto:customer.service@Allschoolstuff.com)
