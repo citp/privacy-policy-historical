@@ -1,70 +1,25 @@
-<!--The following is the downloaded HTML source of the mad.com privacy policy that was archived on 2012-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511033519id_/http%3A//mad.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mad.com privacy policy that was archived on 2012-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121220235427id_/http%3A//mad.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 <title>Privacy Policy - MAD.com</title>
-<link href="/main.css" rel="stylesheet" type="text/css">
+<link href="/main.css?01" rel="stylesheet" type="text/css">
 <link href="/index.css" rel="stylesheet" type="text/css">
 <meta property="fb:admins" content="714599549">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
-<link rel="shortcut icon" href="http://mad.com/icon.ico">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 <meta name="robots" content="index, follow">
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js" type="text/javascript"></script>
-<script type="text/javascript" src="/js/ajax.js"></script>
+<script type="text/javascript" src="/js/ajax.js?01"></script>
 </head>
 <body>
 <div class="content">
 <div id="top">
 <a href="http://MAD.com" title="Free Games"><img src="/img/mad.jpg" alt="Free Games" id="logo"></a>
 
-<script>
-
-
-$(function(){
-    $("#JqPostLogin").submit(function(e){
-       e.preventDefault();
-	   
-	   $("#message_post_login").html("....");
-
-        $.post("/user_login.php", $("#JqPostLogin").serialize(),
-        function(data){
-            if(data.status == 1)
-			{
-                    $("#message_post_login").html("Please enter username and password.");
-            }
-			else if(data.status == 2)
-			{
-					$("#message_post_login").html("You have reached your MAX login tries for one hour.");
-					document.getElementById('JqPostLogin').login.disabled='true';
-			}
-			else if(data.status == 3)
-			{
-					$("#message_post_login").html("The IP from which you are trying to do this action is banned.");
-					document.getElementById('JqPostLogin').login.disabled='true';
-			}
-			else if(data.status == 4)
-			{
-				window.location = document.URL;
-				//$("#userInfo").html("<a href=\"/user/"+data.username+"\"><img src=\""+data.avatar+"\" id=\"userPic\" /></a><p>Welcome <b>"+data.username+"</b></p><ul><li class=\"first\"><a href=\"/user/"+data.username+"\">My Profile</a></li><li><a href=\"/control-panel.html\">Control Panel</a></li><li class=\"last\"><a href=\"/logout.php\">Logout</a></li></ul>");
-				//loadFile($("#otherGames"),"/comments.html?id='.$id.'&rndm='.time().'");
-			}
-			else if(data.status == 5)
-			{
-					$("#message_post_login").html("Incorrect username or password.");
-			}
-        }, "json");
-    });
-
-});
-
-function login()
-{
-	$("#userInfo").html('<div id="userInfo"><p id="message_post_login" style="margin-bottom: 1px; color: #A84300;">&nbsp;</p><ul><li class="first" style="border: none"><b>User</b>: <input type="text" maxlength="15" name="username" style="width: 100px; font-size: 13px; border:1px solid #797979; text-align: center"></li><li style="border: none"><b>Pass</b>: <input type="password" name="password" style="width: 100px; font-size: 13px; border:1px solid #797979; text-align: center"></li><li class="last" style="border: none"><input name="login" type="submit" value="Login" style="cursor: pointer; font-size: 13px; width: 50px; border:1px solid #797979; text-align: center"></li></ul></div>');
-	document.getElementById('JqPostLogin').username.focus();
-}
-</script>
+<script type="text/javascript" src="/js/login.js?01"></script>
 <form id="JqPostLogin">
 <div id="userInfo">
 			
@@ -77,18 +32,13 @@ function login()
 			
 		</div></form></div>
 	<div id="topMenu">
-		<ul>
-			<a title="Achievements and Badges" href="/achievements_all/" class="white"><li class="first">Achievements</li></a>
-			<a title="Action Games" href="/online-action-games.html" class="white"><li>Action</li></a>
-			<a title="Adventure Games" href="/online-adventure-games.html" class="white"><li>Adventure</li></a>
-			<a title="Girl Games" href="/online-girl-games.html" class="white"><li>Girl</li></a>
-			<a title="Puzzles Games" href="/online-puzzles-games.html" class="white"><li>Puzzles</li></a>
-			<a title="RPG Strategy Games" href="/online-rpg-games.html" class="white"><li>RPG</li></a>
-			<a title="Sports Games" href="/online-sports-games.html" class="white"><li>Sports</li></a>
-			<a title="Top Game Players" href="/class_master.html" class="white"><li>Top Players</li></a>
+		<ul id="top-nav">
+			<li class="first"><a title="Achievements and Badges" href="/achievements_all/" class="white">Achievements</a></li>
+			<li><a title="Top Game Players" href="/class_master.html" class="white">Top Players</a></li>
+			<li id="random_top"><a title="Play Random Online Game" href="/random.php" class="white">Random Game</a></li>
 		</ul>
  		<form onsubmit="return srch()" name="search" id="search">
-			<input type="image" src="http://www.mofunzone.com/mad.php?u=&amp;p=&amp;a=&amp;s=&amp;r=1336707319" style="width:25px; height;26px" onclick="srch();">
+			<input type="image" src="http://www.mofunzone.com/mad.php?u=&amp;p=&amp;a=&amp;s=&amp;r=1356047667" style="width:25px; height;26px" onclick="srch();">
 			<input type="text" name="search_query" id="searchInput" value="">
 		</form>
 	</div>
@@ -186,10 +136,6 @@ We use third-party advertising companies to serve ads when you visit our website
 			Whether you're looking for a game or tons of games, you are at the right site. You should check out our tower defense games, or tossing games! A lot of our games come with badges and achievements. All free games!
 			<ul class="horizontalLinks">
 				<li><a href="">About MAD.com</a></li>
-				<li><a target="_blank" href="http://www.facebook.com/pages/MAD/273149916066906">Like us on Facebook.</a></li>
-				<li><a target="_blank" href="https://twitter.com/MADwebsite">Follow us on Twitter</a></li>
-			</ul>
-			<ul class="horizontalLinks">
 				<li><a href="/help.html">Help</a></li>
 				<!--<li><li><a href="">Game Developer</a></li>-->
 				<li><a href="/contact.html">Contact Us</a></li>
@@ -199,11 +145,19 @@ We use third-party advertising companies to serve ads when you visit our website
 				<!--<li><a href="">Free Games for Your Website</a></li>-->
 			</ul>
 			<span id="cr">Copyright © 2012 MAD.com. All rights reserved.</span>
+			<ul class="horizontalLinks">
+				<li>Our Friends: <a href="http://www.MoFunZone.com/?utm_source=mad&amp;utm_medium=text_link&amp;utm_campaign=footer" title="free games" target="_blank">MoFunZone</a></li>
+				<li><a href="http://www.funnypart.com/?utm_source=mad&amp;utm_medium=text_link&amp;utm_campaign=footer" title="Funny Part" target="_blank">Funny Part</a></li>
+				<li><a href="http://www.firecold.com/?utm_source=mad&amp;utm_medium=text_link&amp;utm_campaign=footer" title="Viral Videos" target="_blank">Fire Cold</a></li>
+				<li><a href="http://www.playjim.com/?utm_source=mad&amp;utm_medium=text_link&amp;utm_campaign=footer" title="Online Games" target="_blank">PlayJim</a></li>
+			</ul>
 		</div>
 		<div id="facebookBox">
-		<fb:like-box href="http://www.facebook.com/pages/MAD/273149916066906" width="300" height="180" show_faces="true" stream="false" header="false"></fb:like-box>
+			<fb:like-box href="http://www.facebook.com/pages/MAD/273149916066906" width="300" height="180" show_faces="true" stream="false" header="false"></fb:like-box>
 		</div>
-
+		<div style="float:right; margin-top:5px;margin-bottom:5px;padding-right: 60px">
+			<a href="https://twitter.com/MADwebsite" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @MADwebsite</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		</div>
 	</div>
   </div>
 </div>
