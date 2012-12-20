@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dexone.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616023808id_/http%3A//www.dexone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dexone.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220085847id_/http%3A//www.dexone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dex One Corporation | Small Business Advertising, Local Marketing Solutions - Dex One
 
