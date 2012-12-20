@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rheem.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620201527id_/http%3A//www.rheem.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rheem.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220102549id_/http%3A//www.rheem.com/about/privacypolicy) for the most accurate reproduction.*
 
-# Rheem Manufacturing Company Privacy Policy
+# Rheem Manufacturing Company Online Privacy Policy
 
 Thank you for visiting the Web site of Rheem Manufacturing Company (“Rheem”).  This Privacy Policy contains information about Rheem’s commitment to your privacy.
 
