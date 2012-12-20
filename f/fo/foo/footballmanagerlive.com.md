@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the footballmanagerlive.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531072611id_/http%3A//www.sega.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballmanagerlive.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220025723id_/http%3A//www.sega.com/legal/privacy.php) for the most accurate reproduction.*
 
 # SEGA ::
 
-Privacy Policy - Last updated on August 16, 2011
+Privacy Policy - Last updated on October 16, 2012
 
 [](http://www.esrb.org/confirm/sega-confirmation.jsp?)
 
@@ -10,7 +10,7 @@ Privacy Policy - Last updated on August 16, 2011
 
 SEGA of America, Inc. (collectively, "SEGA" or "we") respect the privacy rights of our online visitors and are committed to protecting the personal information collected about you. To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store, and use the information you provide us.
 
-This Privacy Policy Statement and the certification seal located on this page confirms that SEGA is a valid licensee and participating member in the [Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online](http://www.esrb.org/). To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB.
+This Privacy Policy Statement and the certification seal located on this page confirms that SEGA is a valid licensee and participating member in the [Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online](http://www.esrb.org/privacy/index.jsp). To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB.
 
 Because the website you have come from displays the ESRB Privacy Online certification seal, this Privacy Policy will tell you:
 
@@ -35,9 +35,14 @@ Because the website you have come from displays the ESRB Privacy Online certific
 This Privacy Policy currently applies to the following websites operated by SEGA:
 
 > [www.sega.com](https://web.archive.org/home.php)  
->  [www.segamobile.com](http://www.segamobile.com/)  
 >  [blogs.sega.com](http://blogs.sega.com/)  
 >  [forums.sega.com](http://forums.sega.com/)  
+>  [forums.totalwar.com](http://forums.totalwar.com/)  
+>  [olympicvideogames.com/mario-and-sonic-winter](http://olympicvideogames.com/mario-and-sonic-winter/)  
+>  [bayonetta.com](http://bayonetta.com/)  
+>  [olympicvideogames.com/vancouver2010](http://olympicvideogames.com/vancouver2010/)  
+>  [phantasystaruniverse.com](http://phantasystaruniverse.com/)  
+>  [www.totalwar.com](http://www.totalwar.com/)  
 > 
 
 In addition, SEGA may own several other domain names that point to the websites listed above. From time to time, we may add new websites and will take reasonable steps to update the list.  
@@ -45,8 +50,17 @@ Please note that this Privacy Policy applies only to information submitted and c
 
 _By using and submitting personal information to any of our websites, you signify your assent to SEGA's Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use our websites. We reserve the right to make changes to this Privacy Policy. If we make a material change to this Privacy Policy, we will notify you by posting the change on our websites or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Please check back from time to time to ensure that you are aware of these changes. Your continued use of our websites will signify your acceptance of these changes._
 
-»Back to top  
- 
+»Back to top
+
+## SOCIAL MEDIA INTERACTION
+
+You also can engage with our content on or through third-party social networking sites, such as Facebook and Twitter (or third-party social media plug-ins and applications). When you engage with our content on or through third-party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the ‘likes’ you make) to deliver the content or as part of the operation of the application. We may also obtain non-personally identifiable information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on) from your interaction with our content.
+
+When you provide information from your social media account, it can help enable SEGA to do things like (1) give you exclusive content, (2) personalize your online experience with SEGA within and outside SEGA’s websites (and/or applications), and (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with this Privacy Policy. When you provide personal information to SEGA through an application, on SEGA’s websites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties.
+
+Through some social networking sites’ privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use.
+
+»Back to top
 
 ## What types of information does SEGA collect?
 
@@ -222,7 +236,7 @@ Children of all ages are encouraged to send their artwork for posting in our [So
 
 All SEGA games are rated by the Entertainment Software Ratings Board (ESRB) for their appropriateness for different age groups. Game information on SEGA.com includes the ESRB rating plus information about the ESRB rating system. You may wish to check the SEGA.com site for such game information before buying games for your children. The SEGA.com website itself carries the ESRB Privacy Certification seal, and is considered a "safe harbor" website.
 
-We hope this page has answered many of your questions about our site. For more detailed information, see our Privacy Policy and [Terms of Use](https://web.archive.org/web/20120531072611id_/http%3A//www.sega.com/legal/terms.php). If you have any questions or concerns regarding online privacy, please contact us through our [Customer Support Online Form](http://help.sega.com/support/?group=segaamerica) and a customer support representative will answer your question shortly.
+We hope this page has answered many of your questions about our site. For more detailed information, see our Privacy Policy and [Terms of Use](https://web.archive.org/web/20121220025723id_/http%3A//www.sega.com/legal/terms.php). If you have any questions or concerns regarding online privacy, please contact us through our [Customer Support Online Form](http://help.sega.com/support/?group=segaamerica) and a customer support representative will answer your question shortly.
 
 »Back to top
 
