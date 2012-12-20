@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the smashingpicture.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607052329id_/http%3A//smashingpicture.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashingpicture.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220123306id_/http%3A//smashingpicture.com/privacy-policy) for the most accurate reproduction.*
 
 # Smashing Picture | Privacy Policy - Smashing Picture
-
-## [Privacy Policy](http://smashingpicture.com/privacy-policy/ "Privacy Policy")
 
 We at SmashingPicture take the privacy of our visitors very seriously.  We do use Google Analytics to collect aggregate information on unique visits, pageviews, demographics etc– but this information is used to analyze overall traffic patterns only.
 
