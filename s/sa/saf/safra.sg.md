@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the safra.sg privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217214520id_/http%3A//www.safra.sg/page.aspx%3Fpageid%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safra.sg privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220191845id_/http%3A//www.safra.sg/General/Privacy-Policy) for the most accurate reproduction.*
 
-# Safra - Privacy Policy
+# 
 
 ## What Personal Information About Members Does SAFRA Gather? 
 
@@ -52,18 +52,14 @@ Our business changes constantly, and our Privacy Notice and the Disclaimer will 
 
 ## Examples of Information Collected
 
-  
-
-
 ### Information You Give Us 
 
 You provide most such information when you search, signup for an account, book facilities, events, activities and/or communicate with customer service. For example, you provide information when you search for an event; place an booking through SAFRA; communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom have been included in bookings, including addresses and phone number, e-mail addresses; content of reviews and e-mails to us; and financial information, including Identity Card Numbers. 
 
-  
-
-
 ### Automatic Information 
 
-Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; booking history, which we sometimes aggregate with similar information from others through, and from our Web site, including date and time; cookie number; information you viewed or searched for. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.  
-  
-For members who do not wish to receive updates on promotions, benefits or privileges via any channels, please submit the [Opt Out Form](https://web.archive.org/data/resources/docs/Others/Opt_Out_form.pdf) at any SAFRA clubs. 
+Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; booking history, which we sometimes aggregate with similar information from others through, and from our Web site, including date and time; cookie number; information you viewed or searched for. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+
+ 
+
+For members who do not wish to receive updates on promotions, benefits or privileges via any channels, please submit the [Opt Out Form](https://web.archive.org/~/media/Data/General/Opt_Out_form.ashx "Opt out form") at any SAFRA clubs. 
