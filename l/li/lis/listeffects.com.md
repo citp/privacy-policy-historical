@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listeffects.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503022704id_/http%3A//listeffects.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listeffects.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220221300id_/http%3A//listeffects.com/privacy.php) for the most accurate reproduction.*
 
 # Free Email List Builder & Year Long Giveaway Event | Opt In Marketing
 
