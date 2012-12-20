@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sas.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510061858id_/http%3A//www.sas.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sas.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221004646id_/http%3A//www.sas.com/Privacy.html) for the most accurate reproduction.*
 
 # SAS Institute Inc. | Privacy Statement
 
@@ -37,7 +37,11 @@ Your SAS profile is one collection point we use to manage your personal informat
 In the process of administering this site, we maintain and track usage through Web server logs. Web server logs provide information such as what types of browsers are accessing our site, what pages receive high traffic, and the times of day our servers experience significant load. We use this information to improve the content and navigation features of our site. Anonymized or aggregated forms of this data may be used to identify future features and functions to develop for the site and to provide better customer service. 
 
 **Cookies**  
-There are various technologies, including one called "cookies" which can be used to provide tailored information from a website. A cookie is an element of data that a website can send to your browser, which may then store it on your system. Some SAS pages use cookies or other technologies so that we can better serve you when you return to our site, and so that select third party partners can serve you SAS-related content, including SAS advertisements, on their sites or elsewhere on the Internet, based on your prior visits to our site. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. For more information, please refer to user information provided with your Web browser. You may opt out of use of cookies by our third party partners by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). 
+Certain technologies, called "cookies," can be used to provide tailored information from a website. A cookie is an element of data that a website can send to your browser, which your browser may then store on your system. Some pages on our site use cookies that assist you in navigating and using the site, for example, to help you access secure areas or use a shopping cart. SAS may set these types of cookies without requesting your consent. 
+
+Other pages on the site may set cookies to collect aggregate usage information that we use to improve how the site works. Cookies may also be used on our site to remember certain choices you make, such as your geographical region, your user name, or other personalization or customization. We use these cookies to improve your user experience so we can better serve you when you return to our site. SAS will consider your use of the Web site as your consent for SAS to set these types of cookies. 
+
+SAS may work with select third-party partners who set cookies to serve you SAS-related content, including SAS advertisements, on their sites or elsewhere on the Internet, based on your prior visits to our site. SAS also sets cookies that look at your preferences when you use the website so that SAS may offer you tailored marketing collateral, such as whitepapers, that you may be interested in. You may need to enable use of these kinds of cookies via the mechanism provided by SAS for these cookies to work. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. By using our website, you agree that we can place these types of cookies on your system. For more information, please refer to user information provided with your Web browser. You may control use of cookies by our third-party partners by visiting the Network Advertising Initiative opt out page. Please note that if you disable cookies, some site functionality may be limited. 
 
 **Web Beacons**  
 Some of our Web pages and HTML-formatted e-mail use Web beacons in conjunction with cookies to compile aggregate statistics about website usage. A Web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view and a description of the page where the Web beacon is placed. You may render some Web beacons unusable by rejecting their associated cookies. 
@@ -102,6 +106,6 @@ SAS Campus Drive
 Cary, NC 27513  
 ATTN: Legal Division / Privacy Officer 
 
-_Revised December 1, 2010_
+_Revised May 25, 2012_
 
 |  | 
