@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the tamebay.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503220926id_/http%3A//tamebay.com/about-tamebay/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamebay.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220053003id_/http%3A//tamebay.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : TameBay : eBay & ecommerce made easy
-
-  
-
+# Tamebay : Privacy Policy
 
 ## Summary
 
@@ -17,16 +14,16 @@
 ## Leaving Comments
 
   
-If you wish to leave a comment on our blog, you will need to leave your name or alias, and an email address. Your email address is not publicly displayed: it is stored in our database behind multiple passwords, and will be used only to contact you if you have made a particularly interesting comment. 
+If you wish to leave a comment on our blog, you will need to leave your name or alias, and an email address. Your email address is not publicly displayed: it is stored in our database behind multiple passwords, and will be used only to contact you if you have made a particularly interesting comment.
 
-Your information is stored in a cookie for next time you visit the site. Most browsers automatically accept cookies, which are small text files stored on your computer. You can set your browser not to accept cookies; doing this will not interfere with your use of our site. 
+Your information is stored in a cookie for next time you visit the site. Most browsers automatically accept cookies, which are small text files stored on your computer. You can set your browser not to accept cookies; doing this will not interfere with your use of our site.
 
 ## Site Meter 
 
   
-Visits to TameBay are tracked by [Site Meter](http://www.sitemeter.com/). Information collected by Site Meter is covered by [their privacy policy](http://www.sitemeter.com/?a=privacy). IP addresses collected by Site Meter are not linked to any personally identifying information and do not allow TameBay to track individual users. 
+Visits to TameBay are tracked by [Site Meter](http://www.sitemeter.com/). Information collected by Site Meter is covered by [their privacy policy](http://www.sitemeter.com/?a=privacy). IP addresses collected by Site Meter are not linked to any personally identifying information and do not allow TameBay to track individual users.
 
 ## Google Analytics 
 
   
-Visits to TameBay are tracked by [Google Analytics](http://www.google.com/analytics/index.html). Information collected by Google Analytics is covered by [their privacy policy](http://www.google.com/privacy.html). Information collected by Google Analytics does not include any personally identifying information and does not allow TameBay to track individual users. 
+Visits to TameBay are tracked by [Google Analytics](http://www.google.com/analytics/index.html). Information collected by Google Analytics is covered by [their privacy policy](http://www.google.com/privacy.html). Information collected by Google Analytics does not include any personally identifying information and does not allow TameBay to track individual users.
