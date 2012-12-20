@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the procamrunning.in privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514024229id_/http%3A//procamrunning.in/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the procamrunning.in privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220010128id_/http%3A//www.procamrunning.in/Privacy-Policy) for the most accurate reproduction.*
 
-# procamrunning.in
+# Procamrunning Official Site 2012 - Privacy Policy
 
 Procam International Ltd. ("Procam") recognizes that its visitors, users, and others who use **[www.procamrunning.in](http://www.procamrunning.in/)** value their privacy. This Privacy Notice details important information regarding the use and disclosure of user information collected on via the **[www.procamrunning.in](http://www.procamrunning.in/)** website. It provides this Privacy Notice to help you make an informed decision about whether to use or continue using **[www.procamrunning.in](http://www.procamrunning.in/)**
 
@@ -39,6 +39,3 @@ When you visit the Website, we may send one or more cookies - a small text file 
 *** Log File Information**
 
 When you use the Website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring/exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
-
-  
-
