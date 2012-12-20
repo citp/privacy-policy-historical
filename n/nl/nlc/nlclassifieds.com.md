@@ -1,29 +1,20 @@
-> *The following text is extracted and transformed from the nlclassifieds.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622111733id_/http%3A//www.nlclassifieds.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nlclassifieds.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220114227id_/http%3A//www.nlclassifieds.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| 
-
 Effective April 7, 2009
 
-Welcome to 
+Welcome to NLClassifieds.com (the "Site").
 
-(the "Site").
-
-We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by 
-
-(collectively, "Services") ("Authorized Customers"). 
+We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by NLClassifieds.com (collectively, "Services") ("Authorized Customers"). 
 
 This Privacy Policy applies exclusively to information practices related to our website, www.nlclassifieds.com. Although this website contains links to other websites, please be aware that we are not responsible for the privacy practices of those, or any other sites. If you follow a link to another website you should carefully read their privacy policy. 
 
-  
 **"Personally Identifiable Information"**   
 refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social insurance number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual. 
 
 **What Personally Identifiable Information is collected?**  
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell. The basic user profile information is collected through the voluntary registration process. Information collected through the registration process will not be sold or given to outside users. Any information provided by the user through the placement of an ad is completely voluntary and will be considered public information for public use, even if it is the same as that information collected in the registration process. 
-
-is not liable or responsible for the use or distribution of information placed in an ad. 
+We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell. The basic user profile information is collected through the voluntary registration process. Information collected through the registration process will not be sold or given to outside users. Any information provided by the user through the placement of an ad is completely voluntary and will be considered public information for public use, even if it is the same as that information collected in the registration process. NLClassifieds.com is not liable or responsible for the use or distribution of information placed in an ad. 
 
 **What organizations are collecting the information?**  
 In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
@@ -35,9 +26,7 @@ We use Personally Identifiable Information to customize the Site, to make approp
 Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf. 
 
 **How is Personally Identifiable Information stored?**  
-Personally Identifiable Information collected by 
-
-is securely stored and is not accessible to third parties or employees of  except for use as indicated above. 
+Personally Identifiable Information collected by NLClassifieds.com is securely stored and is not accessible to third parties or employees of NLClassifieds.com except for use as indicated above. 
 
 **What choices are available to Visitors regarding collection, use and distribution of the information?**  
 Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting our Customer Care department. (Customer Care can be contacted from the [Contact Us](https://web.archive.org/contactus) page.)
@@ -47,12 +36,11 @@ Cookies are used for a variety of reasons. We use Cookies to obtain information 
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
-**How does use login information? **  
-uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
+**How does NLClassifieds.com use login information?**  
+NLClassifieds.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
 
-**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**
-
-has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
+**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
+NLClassifieds.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
 Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.   
 Our privacy policy does not cover their collection or use of this information.   
 Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
@@ -74,5 +62,3 @@ This web site contains links to other web sites. Please note that when you click
 
 ©2012 **Newfoundland Labrador Classifieds** , All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
-
-| 
