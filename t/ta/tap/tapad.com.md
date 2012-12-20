@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tapad.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511211329id_/http%3A//www.tapad.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapad.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220062732id_/http%3A//www.tapad.com/privacy) for the most accurate reproduction.*
 
-# Tapad - Privacy
+# Privacy | Tapad
 
 Updated: November 2, 2011
 
@@ -70,13 +70,13 @@ If you would like for Tapad to stop collecting data about your device for target
 
 This opt-out feature requires that you enable JavaScript for your browser. Please turn on JavaScript for your browser and click “Try Again” to proceed.
 
-[Try Again]()
+Try Again
 
 ## 3rd Party Cookies Not Detected
 
 This opt-out feature requires that you enable 3rd party cookies to ensure a persistent opt-out. Please enable 3rd party cookies for your browser and click “Try Again” to proceed.
 
-[Try Again]()
+Try Again
 
 ### STATUS
 
@@ -90,7 +90,7 @@ You have opted out of this network.
 
 ### OPTION
 
-[Opt Out]()
+Opt Out
 
 Something went wrong in the opt-out process. Please try again.
 
@@ -98,13 +98,15 @@ We make best effort to provide a persistent opt-out for online display and, inde
 
 The above opt-out will only be enabled if you are accessing it from a Javascript-enabled browser and 3rd party cookies are enabled. These two technologies are required for us to provide a persistent opt-out. Other technologies, such as HTML5 local storage, may also be used in order to make opt-out as persistent as possible.
 
-Please keep in mind that if you opt-out, you will still receive ads, but they will not be tailored to your interests. To opt-out from other companies that Tapad may share information with, or other companies that provide online behavioral advertising services, you can opt-out at the following online advertising industry Websites. The Digital Advertising Alliance Website, www.aboutads.info.
+Please keep in mind that if you opt-out, you will still receive ads, but they will not be tailored to your interests.  
+To opt-out from other companies that Tapad may share information with, or other companies that provide online behavioral advertising services, you can opt-out at the following online advertising industry Websites.  
+The Digital Advertising Alliance Website, www.aboutads.info.
 
 **3\. Ensure Data Security**
 
 Tapad takes steps to protect the security of the information that we collect. To that end, we have designed and deployed hardware, software, and networking solutions in an effort to reasonably secure and protect access to our systems and data.
 
-We do not deliver ads based on individual level data that is more than fourteen (14) months old. We retain the information that we have collected only as long as is legitimately necessary for running our advertising campaigns. We keep opt-out information for longer than this period so that we can continue to honor opt-out requests. Aggregate reports generated from this information may also be kept longer. 
+We do not deliver ads based on individual level data that is more than fourteen (14) months old. We retain the information that we have collected only as long as is legitimately necessary for running our advertising campaigns. We keep opt-out information for longer than this period so that we can continue to honor opt-out requests. Aggregate reports generated from this information may also be kept longer.
 
 **4\. Do Not Target Children**
 
