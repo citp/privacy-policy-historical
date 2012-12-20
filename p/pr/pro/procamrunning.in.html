@@ -1,53 +1,152 @@
-<!--The following is the downloaded HTML source of the procamrunning.in privacy policy that was archived on 2012-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120514024229id_/http%3A//procamrunning.in/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the procamrunning.in privacy policy that was archived on 2012-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121220010128id_/http%3A//www.procamrunning.in/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-		<title>procamrunning.in</title>
-		<meta name="description" content="procamrunning.in">
-		<meta name="keywords" content="Procam,procamrunning,running,marathon,running marathon,race,sports,charity,SCMM,ADHM,BSF10k">
+		<title>Procamrunning Official Site 2012 - Privacy Policy</title>
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+		<meta name="description" content="">
+		<meta name="keywords" content="Procam,procamrunning,running,marathon,running marathon,race,sports,charity,SCMM,ADHM,TCS10k,tcsworld10k,JCH10K,Jamba,Cloud,10k,privacy,policy,privacy policy">
 		<meta name="author" content="Reactmedia.com">
 		<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
-		<link rel="stylesheet" href="http://procamrunning.in/css/mlpstyle.css" type="text/css">
+		<link rel="stylesheet" href="http://www.procamrunning.in/css/mlpstyle.css" type="text/css">
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.procamrunning.in/js/common.js"></script>
+		<script type="text/javascript" src="http://www.procamrunning.in/js/dragdrop.js"></script>
+		<script type="text/javascript" src="http://www.procamrunning.in/js/validations_new.js"></script>
+		<script src="http://www.procamrunning.in/jquery/js/jquery_1.js" type="text/javascript" charset="utf-8"></script>
+		<script src="http://www.procamrunning.in/jquery/js/jquery_2.js" type="text/javascript" charset="utf-8"></script>
+		<script src="http://www.procamrunning.in/js/ddaccordion.js"></script>
+		<script>
+			function MM_findObj(n, d) { //v4.01
+				var p,i,x;
+				if(!d)
+					d=document;
+				if((p=n.indexOf("?"))>0&&parent.frames.length) {
+					d=parent.frames[n.substring(p+1)].document;
+					n=n.substring(0,p);
+				}
+				if(!(x=d[n])&&d.all)
+					x=d.all[n];
+				for (i=0;!x&&i<d.forms.length;i++)
+					x=d.forms[i][n];
+				for(i=0;!x&&d.layers&&i<d.layers.length;i++)
+					x=MM_findObj(n,d.layers[i].document);
+				if(!x && d.getElementById)
+					x=d.getElementById(n);
+				return x;
+			}
+			ddaccordion.init({ 
+				headerclass: "adSpecifications", //Shared CSS class name of headers group
+				contentclass: "adContent", //Shared CSS class name of contents group
+				revealtype: "click", //Reveal content when user clicks or onmouseover the header? Valid value: "click" or "mouseover"
+				collapseprev: false, //Collapse previous content (so only one open at any time)? true/false
+				defaultexpanded: [], //index of content(s) open by default [index1, index2, etc]. [] denotes no content.
+				animatedefault: false, //Should contents open by default be animated into view?
+				persiststate: false, //persist state of opened contents within browser session?
+				toggleclass: ["closedlanguage", "openlanguage"], //Two CSS classes to be applied to the header when it's collapsed and expanded, respectively ["class1", "class2"]
+				togglehtml: ["postfix", "<img src='minus.jpg' style='width:13px; height:13px' /> ", "<img src='plus.gif' style='width:13px; height:13px' /> "], //Additional HTML added to the header when it's collapsed and expanded, respectively ["position", "html1", "html2"] (see docs)
+				animatespeed: "fast", //speed of animation: "fast", "normal", or "slow"
+				oninit:function(expandedindices){ //custom code to run when headers have initalized
+				//do nothing
+				},
+				onopenclose:function(header, index, state, isuseractivated){ //custom code to run whenever a header is opened or closed
+				//do nothing
+				}
+			})
+		</script>		
 	</head>
-	<body>
+	<body class="inside">
 		<div class="page">
-			<div class="topLogoSection">
-	<div class="procamrunning left"><a href="http://procamrunning.in">procamrunning.in</a></div>
-	<div class="right topSection">
-		<a href="http://procamrunning.in/login.php"><img src="http://procamrunning.in/img/trans.gif" class="loginBtn left"></a>
-		<a href="http://procamrunning.in/register.php"><img src="http://procamrunning.in/img/trans.gif" class="registerBtn left"></a>
-		<div class="iaaf"><a href="http://www.iaaf.org/" target="_blank"><img style="width:73px;height:107px;" src="http://procamrunning.in/img/trans.gif"></a></div>
+			<script type="text/javascript">
+	$(document).keyup(function(e){
+		if(e.keyCode === 27){
+			$("#loginerror").html('');
+		}
+	});
+	var strStart = '';
+	var strEnd = '';
+	strStart += '<div id="bgBox" class="backgroundBox"></div>';
+	strStart += '<div id="LightBox1" class="box_content1">';
+	strStart += '<div onclick="displayHideBox(); return false;" class="close right">X</div>';
+	strEnd ='</div>';
+	function validateTopLoginForm(form){
+		try{
+			trimAllFields(form);
+			var ck_email = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i 
+			var email = form.elements['email'].value;
+			if (!ck_email.test(email)){
+				var strHtml = '';
+				strHtml += '<div id="bgBox" class="backgroundBox"></div><div id="LightBox1" class="box_content1">';
+				strHtml += '<div onclick="displayHideBox(); return false;"  class="close right">X</div>';
+				strHtml += '<div class=\"error\">Invalid Email Id</div></div>';
+				document.getElementById('loginerror').innerHTML = strHtml;
+				return false;
+			}
+			return true;
+		} catch (e) {
+			alert(e.message);
+			return false;
+		}
+	}
+	function displayShowBox(){
+		hideAllWindows();
+		var popWindow = new PopupWindow("popUpBox", ' ', 450, 380, "/inc/_search_friends.php", true);
+		popWindow.show();
+	}
+	function displayHideBox(){
+		document.getElementById('LightBox1').innerHTML = '';
+		document.getElementById('bgBox').className = '';
+		document.getElementById('LightBox1').className = '';
+		document.getElementById('loginerror').innerHTML = '';
+	}
+	function changeStyle(id){
+		document.getElementById(id).style.borderColor="#424A4E";
+	}
+</script>
+<a href="http://www.procamrunning.in">
+	<div class="procambox left">
+		<p>procam<br><span>running</span></p>
+	</div>
+</a>
+<div class="headerleft">
+	<div class="loginBox right">
+				<form enctype="multipart/form-data" method="post" name="login" action="http://www.procamrunning.in/submit.php" onsubmit="return validateTopLoginForm(this);">
+				<table class="formBox" width="100%" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td>
+							<input type="text" name="email" id="username" oninput="javascript:changeStyle(this.id);" onfocus="this.style.color='#000000';if(this.value == 'Enter your UserName' || this.value == 'EnteryourUserName')this.value=''" onblur=" if(this.value.length <= 0 ) this.value = 'Enter your UserName';this.style.color='#ACACAC';" value="Enter your UserName" style="color:#ACACAC;margin-right:5px;">
+						</td>
+						<td>
+							<input type="password" name="password" id="password" oninput="javascript:changeStyle(this.id);" onfocus="this.style.color='#000000';if(this.value == 'password')this.value=''" onblur=" if(this.value.length <= 0 ) this.value = 'password';this.style.color='#ACACAC';" value="password" style="color:#ACACAC;margin-right:5px;">
+						</td>
+						<td>
+							<input type="image" src="/img/login.gif">
+							<input type="hidden" name="action" value="LOGIN">
+							<input type="hidden" name="page" value="/PRIVACY-POLICY">
+						</td>
+					</tr>
+				</tbody></table>
+			</form>
+		<div class="clear"></div>
+		<div class="siteSearch right">
+			<form class="form" method="get" action="http://www.procamrunning.in/results.php" onsubmit="site_search('[http://procamrunning.in]', q.value);return false;">
+				<input type="text" name="q" id="query" value="Search" onfocus="this.style.color='#000000';if(this.value == 'Search')this.value=''" onblur=" if(this.value.length <= 0 ) this.value = 'Search';this.style.color='#ACACAC';">
+			</form>
 		</div>
-</div>
-		</div>
-		<br class="clear">
-		<div class="bodyBg">
-			<div class="page">
-				<div class="pageBody">
-					<div class="eventsBlib">
-	<div id="mainEvent" class="left">
-		<a href="http://procamrunning.in/tcsworld10k" target="_blank"><img src="http://procamrunning.in/img/mlp_tcs.gif"></a>
 	</div>
-	<div id="nextEvent" class="left">
-		<a href="http://procamrunning.in/adhm" target="_blank"><img src="http://procamrunning.in/ugc/upload//df529ae528ee14fe41d92884eeddecd0.jpg"></a>
-	</div>
-	<div id="previousEvent" class="left">
-			<a href="http://procamrunning.in/scmm" target="_blank"><img src="http://procamrunning.in/img/scmm_mlp_mstd01.gif"></a>
-	</div>
-</div>
-<div class="navigation topMargin">
-	<ul>
-		<li><a href="http://procamrunning.in/index.php">Home</a></li>
-		<li><a href="http://procamrunning.in/About-Us">About us</a></li>
-		<li><a href="http://procamrunning.in/Association-Oppertunities">Association Opportunities</a></li>
-		<li><a href="http://aimsworldrunning.com/Calendar.htm" target="_blank">AIMS Calendar</a></li>
-		<li><a href="http://procamrunning.in/Running-Events-In-India">Running Events in India</a></li>
-		<!-- <li><a href="/inside.php">Activities</a></li> -->
-		<li><a href="http://procamrunning.in/gallaries.php">Photo Gallery</a></li>
-		<li><a href="http://aimsworldrunning.com" target="_blank"><img style="margin-top:-1px;height:40px" src="http://procamrunning.in/img/aims_logo.gif"></a></li>
-	</ul>
-</div>					<div class="leftPane">
-<h1 id="MyAnchor">Privacy</h1><div class="contentBox"><p>Procam International Ltd. ("Procam") recognizes that its visitors, users, and others who use <strong style="text-decoration:underline;"><a href="http://www.procamrunning.in">www.procamrunning.in</a></strong> value their privacy. This Privacy Notice details important information regarding the use and disclosure of user information collected on via the <strong style="text-decoration:underline;"><a href="http://www.procamrunning.in">www.procamrunning.in</a></strong> website. It provides this Privacy Notice to help you make an informed decision about whether to use or continue using <strong style="text-decoration:underline;"><a href="http://www.procamrunning.in">www.procamrunning.in</a></strong></p>
+	<div class="clear"></div>
+	<div class="navigation left">
+<ul id="navbar"><li><a href="http://www.procamrunning.in/ABOUT-US">About Us</a></li><li><a href="http://www.procamrunning.in/ASSOCIATION-OPPORTUNITIES">Association Opportunities</a></li><li><a href="http://www.procamrunning.in/RUNNING-EVENTS">running Events</a></li><li><a href="http://www.procamrunning.in/TRAINING-PLAN">Training</a><ul><li><a href="http://www.procamrunning.in/PACE-CALCULATOR">Pace Calculator</a></li><li><a href="http://www.procamrunning.in/PACE-WRISTBAND-CREATOR">Pace Wristband Creator</a></li><li><a href="http://www.procamrunning.in/MARATHON-TRAINING-PLAN">Marathon Training Plan</a></li><li><a href="http://www.procamrunning.in/HM-TRAINING-PLAN">Half Marathon Training Plan</a></li><li class="rmBottomBdr"><a href="http://www.procamrunning.in/10K-TRAINING-PLAN">10K Run Training Plan</a></li></ul></li><li><a href="http://www.procamrunning.in/Articles-Section">Articles</a></li><li><a href="http://www.procamrunning.in/forum/Community">Communities</a></li><li class="rmbdr"><a href="http://www.procamrunning.in/Photogallery">Gallery</a></li></ul></div></div>
+<div id="loginerror">
+</div>	
+<div class="clear"></div>
+			<div class="events">
+												<a href="http://scmm.procamrunning.in">
+		<img src="http://procamrunning.in/ugc/upload//6c61d47bd55935e6b238b8980f4940d2.gif" class="topMargin marginRt"></a>								<a href="http://tcsworld10k.procamrunning.in">
+		<img src="http://procamrunning.in/ugc/upload//338ec72ea6986318a5ea0a7dccad1f35.gif" class="topMargin marginRt"></a>								<a href="http://adhm.procamrunning.in">
+		<img src="http://procamrunning.in/ugc/upload//bd0d9213b11b11ad087df1e00620360b.gif" class="topMargin marginRt"></a>								<a href="&#10; http://www.procamrunning.in/jambacloudhyd10k/&#10;">
+		<img src="&#10;&#10;http://procamrunning.in/ugc/upload//d8e7a4edf90ec6cd2702abcb02c1e6a5.gif&#10;&#10;" class="topMargin right"></a>			</div>
+			<div class="leftPane" id="insideLeft">
+				<h1 id="MyAnchor">Privacy Policy</h1><div class="contentBox"><p>Procam International Ltd. ("Procam") recognizes that its visitors, users, and others who use <strong style="text-decoration:underline;"><a href="http://www.procamrunning.in">www.procamrunning.in</a></strong> value their privacy. This Privacy Notice details important information regarding the use and disclosure of user information collected on via the <strong style="text-decoration:underline;"><a href="http://www.procamrunning.in">www.procamrunning.in</a></strong> website. It provides this Privacy Notice to help you make an informed decision about whether to use or continue using <strong style="text-decoration:underline;"><a href="http://www.procamrunning.in">www.procamrunning.in</a></strong></p>
 
  <p>Your use of <strong style="text-decoration:underline;"><a href="http://www.procamrunning.in">www.procamrunning.in</a></strong> and any personal information you provide on <strong style="text-decoration:underline;"><a href="http://www.procamrunning.in">www.procamrunning.in</a></strong> remains subject to the terms of this Privacy Notice and our Terms &amp; Conditions elsewhere on this site. </p>
 
@@ -69,116 +168,57 @@
  <strong>* Cookies Information</strong>
  <p>When you visit the Website, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. The Website uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Website may not function properly if the ability to accept cookies is disabled.</p>
  <strong>* Log File Information</strong>
- <p>When you use the Website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring/exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.</p><br class="clear"></div>						<div class="divider"></div>
-						<a href="javascript:history.back(-1);"><img src="http://procamrunning.in/img/back.gif"></a><br><br>
-					</div>
-					<div class="rightPane">
-						<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://procamrunning.in/js/common.js"></script>
-<script src="http://procamrunning.in/js/validations_new.js"></script>
-<script src="http://procamrunning.in/js/dragdrop.js"></script>
-	
-
-<a href="http://procamrunning.in/scmm/charity/Awards#MyAnchor" target="_blank">
-	<img src="http://procamrunning.in/ugc/upload//70b0c3d4483674c9d365cb9ae36247f6.gif">
-</a>
-<br class="clear">
-						<span class="bannerImages floatingUnhide" id="mlp green page banners0">
-							<a href="http://www.procamrunning.in/scmm/Green-Page" target="_blank"><img src="http://procamrunning.in/ugc/upload//a6c446dec3c7108e6d779acc4a0fdb1d.jpg" class="topMargin"></a>
-						</span>
-						<span class="bannerImages floatingHide" id="mlp green page banners1">
-							<a href="http://www.procamrunning.in/scmm/Green-Page" target="_blank"><img src="http://procamrunning.in/ugc/upload//a216cabddd37abd6a6a456616951763b.jpg" class="topMargin"></a>
-						</span>
-						<span class="bannerImages floatingHide" id="mlp green page banners2">
-							<a href="http://www.procamrunning.in/scmm/Green-Page" target="_blank"><img src="http://procamrunning.in/ugc/upload//7621456510a42934b64e237174dda8f5.jpg" class="topMargin"></a>
-						</span>
-						<span class="bannerImages floatingHide" id="mlp green page banners3">
-							<a href="http://www.procamrunning.in/scmm/Green-Page" target="_blank"><img src="http://procamrunning.in/ugc/upload//493235724dc8b1a479fe0437685da25c.jpg" class="topMargin"></a>
-						</span>
-						<span class="bannerImages floatingHide" id="mlp green page banners4">
-							<a href="http://www.procamrunning.in/scmm/Green-Page" target="_blank"><img src="http://procamrunning.in/ugc/upload//5b369450d65ce8a579a7398ed5d4a363.jpg" class="topMargin"></a>
-						</span>
-						<script>
-							var Timer = function()
-							{
-								var banner_imgs = new Array();
-								var banner_timer = 0;
-								var currBannerTabIndex = 0;
-																	banner_imgs[0]="mlp green page banners0"
-																	banner_imgs[1]="mlp green page banners1"
-																	banner_imgs[2]="mlp green page banners2"
-																	banner_imgs[3]="mlp green page banners3"
-																	banner_imgs[4]="mlp green page banners4"
-																var previousSelectedBanner = banner_imgs[0];
-							    this.Start = function()
-							    {
-							    	banner_timer = self.setInterval(this.play, 9000);
-							    };
-							    this.play = function() {
-									if(currBannerTabIndex == (banner_imgs.length-1)) {
-										currBannerTabIndex = 0;
-									} else {
-										currBannerTabIndex++;
-									}
-									var maxBannerTab = banner_imgs.length;		
-									if(maxBannerTab <= 0){
-										clearInterval(banner_timer);
-								    	banner_timer = setInterval(Timer, 3000);
-									}else{
-										MM_findObj(previousSelectedBanner).className = 'bannerImages floatingHide';
-										MM_findObj(banner_imgs[currBannerTabIndex]).className = 'bannerImages floatingUnhide';
-										previousSelectedBanner = banner_imgs[currBannerTabIndex];
-									}
-								}
-							};
-							
-						</script>
-						<script>
-						var obj = new Timer();
-						obj.Start();
-						</script>
-<marquee scrolldelay="180" style="background-color:#228B22;color:#ffffff;font-size:15px;font-weight:bold;text-shadow:none;">GREEN TIPS</marquee>
-<img class="topMargin" src="http://procamrunning.in/ugc/upload//b12b55a8327e2d278ee211d85875ff03.jpg">					</div>
-					<br class="clear">
-				</div>
-			</div>
-		</div>
-		<div class="footerBg">
-	<div class="footerContent">
-		<div class="social left">
-			<a href="http://www.facebook.com/pages/procamrunningin/103538273033371" target="_blank"><img src="http://procamrunning.in/img/fb_logo.gif"></a>
-			<a href="http://www.twitter.com/procamrunning" target="_blank"><img src="http://procamrunning.in/img/tweet_logo.gif"></a>
-		</div>
-		<div class="marathonPhotos left">
-			<a href="http://www.marathon-photos.com/" target="_blank"><img src="http://procamrunning.in/img/marathonphotos.gif"></a>
-		</div>
-		<div class="bottomBanner left">
-			<a href="http://procamrunning.in"><img src="http://procamrunning.in/img/scmm2011/Running.jpg"></a>
+ <p>When you use the Website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring/exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.</p><div class="divider"></div><a href="javascript:history.back(-1);"><img src="http://www.procamrunning.in/img/back.gif" class="right"></a><div class="clear"></div></div>			</div>
+			<div class="rightPane">
+												<a href="http://procamrunning.in/adhm/greenAwards.php#MyAnchor">
+		<img src="http://procamrunning.in/ugc/upload//c18863963854e1fa3e075f7daec12f0a.gif" class="topMargin right"></a>								<a onclick="recordOutboundLink(this, 'Outbound Links', 'http://aimsworldrunning.org/Calendar.htm#current');return false;" href="http://aimsworldrunning.org/Calendar.htm#current" target="_blank">
+		<img src="http://procamrunning.in/ugc/upload//a04f7ee22d7bf4374419a26196bfb7af.jpg" class="topMargin right"></a>			</div>
 		</div>
 		<div class="clear"></div>
-		<div class="topMargin">
-		<div class="footerText">
-			<div class="topMargin left">
-				Copyright © Procam International All Rights Reserved
-			</div>
-			<div class="topMargin right">
-				<a href="http://procamrunning.in/Disclaimer">Disclaimer</a> | <a href="http://procamrunning.in/Privacy-Policy">Privacy Policy</a> | <a href="http://procamrunning.in/Terms-Of-Use">Terms of Use</a>
-			</div>
-		</div>
-		</div>
-		<br class="clear">
-	</div>
+<br><br><br>
+<div class="footerBody">
+<br>
+<div class="footerpage">
+	<span class="left">
+	<p>Copyright © Procam International All Rights Reserved</p>
+	</span>		
+	<span class="right">
+	<p>
+	<a href="http://www.procamrunning.in/CONTACT-US">Contact Us</a> 
+	| <a href="http://www.procamrunning.in/DISCLAIMER">Disclaimer</a> 
+	| <a href="http://www.procamrunning.in/PRIVACY-POLICY">Privacy Policy</a> 
+	| <a href="http://www.procamrunning.in/TERMS-OF-USE">Terms of Use</a>
+	| <a href="http://www.procamrunning.in/Sitemap">Sitemap</a>
+	|&nbsp;Visit Us At: <a href="https://www.facebook.com/procamrunning" target="_blank">
+		<img alt="" src="http://procamrunning.in/ugc/upload/a0013512cf2409d7c97865628f9f2b44.jpg" style="margin-right:5px;margin-bottom:-5px;">
+	</a>
+	<a href="http://twitter.com/#!/procamrunning" target="_blank">
+		<img alt="" src="http://procamrunning.in/ugc/upload/6b69b373a3cb939295787095c49d6b78.jpg" style="margin-bottom:-5px;">
+	</a>
+	</p>
+	</span>
+	<div class="clear"></div>
+</div>
 </div>
 <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-17583543-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-17583543-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+function recordOutboundLink(link, category, action) {
+	  try {
+		var pageTracker=_gat._getTracker("UA-17583543-1");
+		pageTracker._trackEvent(category, action);
+		if (link.target == '_blank') { 
+			window.open(link.href); 
+		} else { 
+			setTimeout('document.location = "' + link.href + '"', 100) 
+		} 
+	  }catch(err){}
+}
 </script>	
 </body></html>
