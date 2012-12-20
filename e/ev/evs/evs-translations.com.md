@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evs-translations.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621021128id_/http%3A//www.evs-translations.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evs-translations.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220100125id_/http%3A//www.evs-translations.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - EVS Translations
+# Professional interpreting and translation services | EVS Translations
 
 This privacy policy sets out what information EVS Translations collects when you visit this website and how this is used and protected. 
 
