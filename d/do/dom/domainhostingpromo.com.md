@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainhostingpromo.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622175739id_/http%3A//domainhostingpromo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainhostingpromo.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220132454id_/http%3A//domainhostingpromo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Domain and Hosting Promo Codes
 
