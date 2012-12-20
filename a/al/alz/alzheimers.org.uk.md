@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alzheimers.org.uk privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603224529id_/http%3A//www.alzheimers.org.uk/site/scripts/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alzheimers.org.uk privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220213643id_/http%3A//www.alzheimers.org.uk/site/scripts/terms.php) for the most accurate reproduction.*
 
 # Terms and disclaimer - Alzheimer's Society
 
@@ -7,21 +7,21 @@ All rights reserved
 
 The information provided on this site is for the benefit of people with dementia, carers, health and social care professionals and others with an interest in dementia. 
 
-The Alzheimer's Society believes in the free dissemination of information as far as possible. However, proper credit and citations to the Alzheimer's Society should be included wherever the information appears. 
+Alzheimer's Society believes in the free dissemination of information as far as possible. However, proper credit and citations to Alzheimer's Society should be included wherever the information appears. 
 
-Commercial use or publication of all or any item displayed is strictly prohibited without prior authorisation from the Alzheimer's Society. 
+Commercial use or publication of all or any item displayed is strictly prohibited without prior authorisation from Alzheimer's Society. 
 
-Using any of the Alzheimer's Society's registered logos, graphics or photographs without the Society's prior consent is strictly prohibited.
+Using any of Alzheimer's Society's registered logos, graphics or photographs without the Society's prior consent is strictly prohibited.
 
-If you wish to request permission to re-use content from any or part of Alzheimer's Society's publications or website in any media, [please complete this form](http://www.alzheimers.org.uk/site/scripts/xforms_form.php?formID=238). 
+If you wish to request permission to re-use content from any or part of Alzheimer's Society's publications or website in any media, [please complete this form](http://alzheimers.org.uk/site/scripts/xforms_form.php?formID=238). 
 
 ## Disclaimer 
 
-The Alzheimer's Society strives to ensure that the information provided on its official website is accurate at the time of publication, timely, unbiased and useful. 
+Alzheimer's Society strives to ensure that the information provided on its official website is accurate at the time of publication, timely, unbiased and useful. 
 
 However the information contained on the site should not be considered medical guidance or professional advice. The Society is not responsible for errors or omission in the information provided or any actions resulting from the use of such information, and makes no warranty of any kind, either expressed or implied in relation to this information. Use of the information provided on this site is voluntary. 
 
-The Alzheimer's Society does not warrant that the functions contained in the material contained in this site will be uninterrupted or error-free, that defects will be corrected, or that this site or the server that makes it available are free of viruses or bugs or represent the full functionality, accuracy and reliability of the materials.
+Alzheimer's Society does not warrant that the functions contained in the material contained in this site will be uninterrupted or error-free, that defects will be corrected, or that this site or the server that makes it available are free of viruses or bugs or represent the full functionality, accuracy and reliability of the materials.
 
 Any communication or material that you transmit to or post on this site, including any data, questions, comments, suggestions, or the like, is and will be treated as, non-confidential and non-proprietary information. 
 
@@ -29,7 +29,7 @@ Your use of this site constitutes acceptance of these terms and conditions. If t
 
 ## Alzheimer's Society privacy statement
 
-This website is run by the Alzheimer's Society. We regard your privacy as important and comply with the Data Protection Act 1998. 
+This website is run by Alzheimer's Society. We regard your privacy as important and comply with the Data Protection Act 1998. 
 
 You are welcome to access our site without disclosing your personal data. 
 
@@ -57,7 +57,7 @@ This site only uses cookies in order to provide a service to visitors. No person
 
 
 
-For more details see the [full list of all cookies used on this website](http://www.alzheimers.org.uk/site/scripts/documents_info.php?documentID=1875).
+For more details see the [full list of all cookies used on this website](http://alzheimers.org.uk/site/scripts/documents_info.php?documentID=1875).
 
 ## Safety online   
 
