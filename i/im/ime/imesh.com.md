@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the imesh.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619234606id_/http%3A//www.imesh.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imesh.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220084233id_/http%3A//www.imesh.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # iMesh - Over 15,000,000 Music downloads and MP3's - 100% legal
 
-Welcome to iMesh. We want you to know that we respect your privacy and that we value your business. This privacy statement covers the iMesh software, iMesh MediaBar and the iMesh website ([www.imesh.com](https://web.archive.org/web/20120619234606id_/http%3A//www.imesh.com/)). In order to ensure your privacy we want you to know the details of what information we collect and what we do with it.
+Welcome to iMesh. We want you to know that we respect your privacy and that we value your business. This privacy statement covers the iMesh software, iMesh MediaBar and the iMesh website ([www.imesh.com](https://web.archive.org/web/20121220084233id_/http%3A//www.imesh.com/)). In order to ensure your privacy we want you to know the details of what information we collect and what we do with it.
 
 **INFORMATION COLLECTION**  
 iMesh takes your privacy very seriously. In order to provide you with the highest quality service, we do collect certain information from you in accordance with the following guidelines.
