@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the crnbuzz.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519175103id_/http%3A//legal.us.ubm.com/privacy-notice-highlights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crnbuzz.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221003236id_/http%3A//legal.us.ubm.com/privacy-notice-highlights) for the most accurate reproduction.*
 
 # UBM - UBM LLC Privacy Policy Highlights
+
+Skip to main content
 
 Effective January 4th, 2009
 
