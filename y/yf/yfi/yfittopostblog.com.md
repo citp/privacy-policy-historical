@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yfittopostblog.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511072955id_/http%3A//info.yahoo.com/privacy/sg/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yfittopostblog.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220070534id_/http%3A//info.yahoo.com/privacy/sg/yahoo) for the most accurate reproduction.*
 
 # Yahoo! Privacy Policy
 
@@ -101,6 +101,6 @@ If you have questions or suggestions, please complete a [feedback form](http://a
 Yahoo! Asia Pacific Pte. Ltd.   
 60 Anson Road, #13-01 Mapletree Anson, Singapore 079914 
 
-Effective Date: July 16, 2010
+Last Updated: January 26, 2011
 
 Return to top
