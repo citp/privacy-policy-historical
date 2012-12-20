@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitchfork.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623023243id_/http%3A//www.pitchfork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchfork.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220191500id_/http%3A//pitchfork.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pitchfork
 
@@ -52,4 +52,4 @@ SECURITY
 Pitchfork and its data management team have put in place appropriate physical, electronic and managerial procedures to safeguard and help prevent unauthorized access, maintain data security and correctly use the information Pitchfork collects and distributes on-line. Nevertheless, despite our reasonable precautions, unauthorized access, hardware or software failure, and other technical and human factors may compromise the security of your information at any time. We cannot assure you that the PII that Pitchfork may collect in the future will never be disclosed in a manner that is inconsistent with this Privacy Policy.
 
 CONTACT  
-If you have any questions about this Privacy Policy, contact us by U.S. mail at Pitchfork Media Inc., 1834 West North Avenue, #2, Chicago, IL 60622 ATTN: Privacy Officer.
+If you have any questions about this Privacy Policy, contact us by U.S. mail at Pitchfork Media Inc., 2035 W. Wabansia, #2, Chicago, IL 60647 ATTN: Privacy Officer.
