@@ -1,45 +1,55 @@
-> *The following text is extracted and transformed from the mynewplace.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629065709id_/http%3A//www.mynewplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynewplace.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220041914id_/http%3A//www.mynewplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyNewPlace
 
+**PRIVACY POLICY**
+
 [](http://www.truste.com/ivalidate.php?url=www.mynewplace.com&sealid=101)
 
-Effective April 24, 2006 (Updated June 6, 2011)
+ **Multifamily Technology Solution, Inc. (doing business as “MyNewPlace”) is a subsidiary of RealPage, Inc. and subject to the following Privacy Policy:**
 
-Protecting the privacy of our users is very important to MyNewPlace.  When you register at MyNewPlace.com, the Personally Identifiable Information you provide to us is used to provide the services you have registered for, to deliver email notifications to you, and from time to time, to validate your identity.  Our data collection policies allow you to choose how much information you provide to us, and to control how we use that Personally Identifiable Information as set forth below.  To find out more, please read on.
+Our commitment to privacy is a fundamental aspect of the way we do business and interact with our users. This Privacy Policy describes how MyNewPlace and RealPage (hereinafter “MNP” and “We”) handle your personal information collected through your use of our products and services. It applies generally to the MyNewPlace.com website and the information collected and stored during the user registration process. By completing the registration process, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon registration for new users and is otherwise effective on August 1, 2012.
 
- **Information Collection & Use**
+ **MyNewPlace.com has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with**[ **TRUSTe’s program requirements**](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) **including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.mynewplace.com. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact Director of Marketing via email at consumercare@mynewplace.com.   If you are not satisfied with our response you can contact TRUSTe **[**here**](http://watchdog.truste.com/pvr.php?page=complaint) **.**
 
-Multifamily Technology Solutions, Inc. wants your experience to be satisfying and safe.  Our data collection policies allow you to choose how much information you provide to us, and what MyNewPlace does with the information you supply. Your Personally Identifiable Information will be kept within MyNewPlace unless you consent to our supplying all or a portion of your information to third parties as a part of one of our service offerings or as set forth below.  MyNewPlace collects information online to allow you to use our services.  Depending on the service you are accessing, you could be asked at various times to provide information such as your name, email address, contact phone number or other information related to of the property you are seeking. We request this information to deliver on the services you are requesting, and to allow us to provide our strongest value to you - a personalized online experience. Information collected online is often defined as being either anonymous or personally identifiable:
+ **Information Collection**
 
-  1. Anonymous Information refers to information that cannot be tied back to a specific individual. For instance, we may know that thousands of people have visited this Privacy Policy webpage, but we do not necessarily know their names, where they live, or their date of birth.  What we collect from visits such as this constitutes anonymous information.  Some of the individuals who access our services decline to use the personalization features that are available to them, and therefore those individuals are anonymous to us and the only data we collect about them is anonymous information.
-  2. Personally Identifiable Information refers to information that tells us specifically who you are, such as your name, email address or phone number.  While you can search and browse some sections of our web site without being a registered user, certain activities do require registration, such as viewing and saving properties.  Registering with MyNewPlace using the web form or Login with Facebook button will also cause a cookie to be issued; this cookie allows MyNewPlace to “recognize” you when you are on our site to allow us to personalize our service for you.
+MNP collects two (2) types of user information:
+
+(1) Anonymous Information:
+
+Anonymous Information refers to information that cannot be tied back to a specific individual. As is true of most Web sites, we gather certain site visitor information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, to administer the site, to track users’ movements around the site, and to gather demographic information about our user base as a whole.
+
+We also utilize Omniture’s third-party information tracking services, which use cookies to track Anonymous Information about visitors to our site in the aggregate. For information regarding Omniture’s data collection and privacy practices, please visit [**http://www.omniture.com/en/privacy/policy**](http://www.omniture.com/en/privacy/policy).
+
+In some circumstances, we may link Anonymous Information to certain Personally Identifiable Information.
+
+(2) Personally Identifiable Information:
+
+Personally Identifiable Information refers to information that specifically tells us who you are. In order to use the basic features of this Web site, you need not register or provide any personally identifiable information. However, if you wish to save any properties you’ve located, view specific details of a property, or contact a property for information, you must first complete the registration process or use the Login with Facebook button.
+
+During the registration process, you are required to give personally identifiable information (such as name, email address, and other contact information) as well as the time frame in which you intend to move.  If you use the Login with Facebook button, you authorize Facebook to make certain personally identifiable information available to us, such as your name, current city, and email address.
+
+ **Information Use**
+
+MNP may use the information we collect in a variety of ways, including to:
+
+  * Provide the services you request and register for;
+  * Communicate with you regarding MyNewPlace.com and the RealPage suite of services, products, offers, and promotions;
+  * Deliver customized content and advertising that may be of interest to you;
+  * Prevent, detect, and investigate potentially prohibited or illegal activities, and enforce our Terms of Use.
 
 
-
- **Anonymous Information**
-
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
-
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users movements around the site and to gather demographic information about our user base as a whole.  We may link this automatically-collected data to certain Personally Identifiable Information.
-
-We use third-party tracking services through Omniture that use cookies to track non-personally identifiable information about visitors to our site in the aggregate. For information regarding Omniture’s data collection and privacy practices, please visit [**http://www.omniture.com/en/privacy/policy**](http://www.omniture.com/en/privacy/policy).
-
- **Personally Identifiable Information**
-
-In order to use the basic features of this Web site, you need not register or provide any personal information. However, if you wish to save any properties you’ve located, view specific details of a property or contact a property for information, you must first complete the registration form and create a user name and password or use the Login with Facebook button.  During registration you are required to give contact information (such as name and email address) as well as the time frame in which you intend to move.  If you use the Login with Facebook button, Facebook will make certain personally identifiable information available to us, such as your name, current city, and email address after you choose to allow us access. We use this information to contact you about the services on our site in which you have expressed interest.  When you register with MyNewPlace, the information you provide to us is used to provide the service for which you have registered.  Depending on the services you have chosen to use, some or all of your Personally Identifiable Information may be used by MyNewPlace to provide such services.  Personally Identifiable Information may also be provided to intermediaries and third parties who assist MyNewPlace in providing you with the service upon your request. For example, if you register and desire to contact a property, some of your personally identifiable information may be shown to the property (e.g., contact information and time frame for moving). Except as otherwise provided in this Privacy Policy, however, MyNewPlace will not rent or sell your Personally Identifiable Information to third parties without your permission.
-
-MyNewPlace is the sole owner of the information collected on www.mynewplace.com.  MyNewPlace may collect Personally Identifiable Information from our users at several different points on our Web site.
 
 We will retain your information for as long as your account is active or as needed to provide you services.  If you wish to cancel your account or request that we no longer use your information to provide you services contact us at consumercare@mynewplace.com.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements **.**
 
  **Access to Personally Identifiable Information**
 
-You can update your Personal Identifiable Information at [**www.mynewplace.com/myaccount**](http://www.mynewplace.com/myaccount)or by contacting us at consumercare@mynewplace.com.
+You can update or delete your Personal Identifiable Information at [ **www.mynewplace.com/myaccount** ****](http://www.mynewplace.com/myaccount)or by contacting us at consumercare@mynewplace.com.
 
  **Requesting removal of your information or Unsubscribing from email**
 
-You may unsubscribe from our emails at [**www.mynewplace.com/emailprefs**](http://www.mynewplace.com/emailprefs) or by clicking on the unsubscribe links at the bottom of our emails. You may also request the removal of your information by contacting us via e-mail at consumercare@mynewplace.com.
+You may unsubscribe from our emails at [ **www.mynewplace.com/emailprefs**](http://www.mynewplace.com/emailprefs) or by clicking on the unsubscribe links at the bottom of our emails. You may also request the removal of your information by contacting us via e-mail at consumercare@mynewplace.com.
 
  **Special Offers and Updates**
 
@@ -47,9 +57,7 @@ We may occasionally send you information on services, special deals, products an
 
  **Service-related Announcements**
 
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
-
-Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
+We will send you service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
 
  **Customer Service**
 
@@ -61,11 +69,7 @@ We store information that we collect through cookies, log files, or clear gifs t
 
  **Surveys**
 
-From time-to-time, we may provide you the opportunity to participate in surveys on our site.  If you participate, we will request certain personally identifiable information from you.  Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information.  The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
-
-We use this information to learn more about the wants and needs of different types of users (recent college grads vs. corporate relocators, for example) and to improve our site and email program.
-
-We will not share the Personally Identifiable Information you provide through a survey with other third parties unless we give you prior notice and choice or as otherwise set forth herein.
+From time-to-time, we may provide you the opportunity to participate in surveys on our site.  If you participate, we will request certain personally identifiable information from you.  Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information.  The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). We use this information to learn more about the wants and needs of different types of users (recent college grads vs. corporate relocators, for example) and to improve our site and email program. We will not share the Personally Identifiable Information you provide through a survey with other third parties unless we give you prior notice and choice or as otherwise set forth herein.
 
  **Blog/Testimonials**
 
@@ -73,49 +77,41 @@ If you use a blog or testimonial on this site, you should be aware that any pers
 
  **Tell-A-Friend**
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  MyNewPlace.com stores this information for the sole purpose of sending this one-time email (and tracking the success of our referral program).
-
-Your friend may contact us at consumercare@mynewplace.com to request that we remove this information from our database.
-
- **TRUSTe**
-
-MyNewPlace.com has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the Web site www.mynewplace.com.
-
-If you have questions or concerns regarding this statement, you should first contact Director of Marketing via email at consumercare@mynewplace.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  MNP stores this information for the sole purpose of sending this one-time email (and tracking the success of our referral program). Your friend may contact us at consumercare@mynewplace.com to request that we remove this information from our database.
 
  **Cookies**
 
-A cookie is a small text file that is stored on a users computer for record-keeping purposes. We use cookies on this site. We may link the information we store in cookies to any Personally Identifiable Information you submit while on our site.
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We may link the information we store in cookies to any Personally Identifiable Information you submit while on our site.
 
-We use both session ID cookies and persistent cookies.  We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser.  A persistent cookie remains on your hard drive for an extended period of time.  You can remove persistent cookies by following directions provided in your Internet browser’s help file.
+We use both session ID cookies and persistent cookies.  We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser.  A persistent cookie remains on your hard drive for an extended period of time.  You can remove persistent cookies by following directions provided in your Internet browser’s help file. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
 
-We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+Registering with MyNewPlace.com using the web form or Login with Facebook button will also cause a cookie to be issued; this cookie allows MNP to “recognize” you when you are on our site to allow us to personalize our service for you. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as saving properties, will be limited.
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as saving properties, will be limited.
-
-Some of our business partners (e.g., advertisers) may use cookies on our site. We have no access to or control over these cookies.  This privacy statement covers the use of cookies by this site only and does not cover the use of cookies by any business partners or advertisers on our web site.  See Third Party Advertisers.
+Some of our business partners (e.g., advertisers) may use cookies on our site. We have no access to or control over these cookies.  This privacy statement covers the use of cookies by this site only and does not cover the use of cookies by any business partners or advertisers on our web site.  For more information, see Third Party Advertisers.
 
  **Clear Gifs (Web Beacons/Web Bugs)**
 
 We may employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We may tie the information gathered by clear gifs to our customer’s Personally Identifiable Information.  We may use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients.  This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
 
+ **Location Data - Location Based Services on Mobile Applications**
+
+The MNP mobile applications include the option to provide you with helpful information based on where you are. To provide such location-based services, MNP may collect, use, and share precise location data, including the real-time geographic location of your mobile device. This location data is collected anonymously in a form that does not personally identify you and is solely used by MNP to provide and improve location-based products and services. If you wish to deactivate this feature, you can disable the location services on your mobile device.
+
  **Third Party Advertisers**
 
-The ads appearing on this web site, if any, may be delivered to users by third-party advertising companies.  Third-party advertising companies may use cookies and clear GIFs on this site, which allow it to recognize a user’s cookie when a user visits this site.  The companies serve their ads from their own web sites, independently from MyNewPlace.  The information that the third-party advertising companies collect and share through this technology is not personally identifiable, unless you provide such information in response to an advertisement.
+The ads appearing on this web site, if any, may be delivered to users by third-party advertising companies that are neither owned nor operated by MNP.  Third-party advertising companies may use cookies and clear GIFs on this site, which allow it to recognize a user’s cookie when a user visits this site.  The companies serve their ads from their own web sites, independently from MyNewPlace.com.  The information that the third-party advertising companies collect and share through this technology is not personally identifiable, unless you provide such information in response to an advertisement.
 
  **Targeted Ads Disclosure**
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [ **here**](http://preferences.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
- **Facebook Connect or other OpenID provider**
+ **Facebook Connect or other Open ID providers**
 
 You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
  **Links to Other Sites**
 
-This Web site contains links to other sites that are not owned or controlled by MyNewPlace. Please be aware that we, MyNewPlace, are not responsible for the privacy practices of such other sites.  We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information.
-
-This privacy statement applies only to information collected by this web site.
+This Web site contains links to other sites that are not owned or controlled by MNP. Please be aware that MNP is not responsible for the privacy practices of such other sites.  We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies only to information collected by this web site.
 
  **Framing**
 
@@ -127,11 +123,11 @@ When you use “Share This” to bookmark and share our products and site, you w
 
  **Security**
 
-MyNewPlace operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the information provided by our customers.  No method of transmission over the Internet, or method of electronic storage, is 100% secure.  Therefore, we cannot guarantee its absolute security. You the consumer are ultimately responsible for the security of your MyNewPlace Member Name and password.  Please take care to store your Member Name separately from your account password, or better yet, choose a password that you don’t need to write down at all.
+MNP operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the information provided by our customers.  No method of transmission over the Internet, or method of electronic storage, is 100% secure.  Therefore, we cannot guarantee its absolute security. You the consumer are ultimately responsible for the security of your Member Name and password.  Please take care to store your Member Name separately from your account password, or better yet, choose a password that you don’t need to write down at all.
 
  **Business Transitions**
 
-In the event MyNewPlace goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets as well as in the event of a bankruptcy, assignment for benefit of creditors or receivership, your personally identifiable information may be disclosed and will likely be among the assets transferred.  You will be notified via prominent notice on our web site for 30 days of any such change in ownership or control of your personal information, as well as any choices you may have regarding your personal information.
+In the event MNP goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets as well as in the event of a bankruptcy, assignment for benefit of creditors or receivership, your personally identifiable information may be disclosed and will likely be among the assets transferred.  You will be notified via prominent notice on our web site for 30 days of any such change in ownership or control of your personal information, as well as any choices you may have regarding your personal information.
 
  **Legal Disclaimer**
 
@@ -141,18 +137,16 @@ We reserve the right to disclose your Personally Identifiable Information as req
 
 To help service your requests and only where you have explicitly granted permission to do so (i.e., when you use our service to send an email to a property or as set forth herein), we may provide certain Personally Identifiable Information to third parties who may use this information for their own purposes, including sending advertising to you.
 
-There are also certain instances when it may be advantageous for MyNewPlace to make certain limited Personally Identifiable Information about you available to companies that MyNewPlace has a relationship with or that have provided services to you.  These companies may help us process information, manage and enhance customer data, and assess your use of our services.  These companies are also obligated to protect any of your personal information, except if we inform you otherwise at the time of collection.
+There are also certain instances when it may be advantageous for MNP to make certain limited Personally Identifiable Information about you available to companies that MNP has a relationship with or that have provided services to you.  These companies may help us process information, manage and enhance customer data, and assess your use of our services.  These companies are also obligated to protect any of your personal information, except if we inform you otherwise at the time of collection.
 
 For more information about a third party service provider, or to learn more about the choices related to the transfer of this information, or the process to opt-out of these transactions please contact us via e-mail at consumercare@mynewplace.com.
 
  **Changes in this Privacy Statement**
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our home page prior to the change becoming effective.
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our home page prior to the change becoming effective.
 
  **Contact Us**
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at privacy@mynewplace.com.
+If you have any questions or suggestions regarding our privacy policy, please contact us by phone at  800-809-0270 or by at [consumer@mynewplace.com](mailto:consumer@mynewplace.com). You can write us at:
 
- **Multifamily Technology Solutions** | **MyNewPlace** | 343 Sansome Street, Suite 700 | San Francisco, CA, 94104
+ **Multifamily Technology Solutions** |  **MyNewPlace** | 343 Sansome Street, Suite 700 | San Francisco, CA, 94104
