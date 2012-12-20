@@ -1,27 +1,63 @@
-> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612182433id_/http%3A//www.interaction-design.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221001815id_/http%3A//www.interaction-design.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
-Your privacy is respected.
+The Interaction Design Foundation collects no more data about you than most other websites.
 
-We do not share email addresses, obtained via communication with visitors, with anyone. Neither will any identifying data be disclosed to any third party for any purpose. Data we collect through logging visits to Interaction-Design.org (orginating IP, referral data, browser and platform type, traffic flows, geographical area of request, etc.) is only used in an aggregated form, which means we will not make any effort to identify users of Interaction-Design.org. The data is only used for server administration, fault finding, site improvement, etc. - as is done on most websites.
+Any membership information you provide to us will be used by us in order to maintain a register of members and supply you with any goods and services you have requested from our web site.
 
-Aggregate (and thus completely non-identifying) statistics generated from these logs may be reported as part of research results or may be published on this site as a curiosity. 
+Edits, comments, commentaries and other contributions are published, and except in very limited circumstances, will be a permanent part of this site. If you decide contribute, you must keep this in mind. Your contributions will be subject to the [Site Terms and Conditions](https://web.archive.org/about/terms_of_use.html) and our [Site IP/Copyright policy.](https://web.archive.org/about/copyright)
 
-You should be aware that when you voluntarily disclose personally identifiable information (e.g. name, email address) on the comment section of a page on Interaction-Design.org, that information, along with any substantive information disclosed in the your communication, can be collected by third parties (which may result in unsolicited messages from other posters or third parties). Such activities are beyond the control of Interaction-Design.org, but to protect your email address from being collected by spam bots, it is disguised as mads(at)interaction-design(dot)org 
+Under "The Act on Processing of Personal Data", incorporated under Danish law, you may request a copy of the information we hold on you (for which we may charge a fee to offset our administration costs) by writing to us .
 
-If you have any questions regarding privacy, please [contact me](https://web.archive.org/contact.html).
+This privacy policy will be reviewed, and may be revised, from time to time. You may wish to revisit it regularly.
 
-Give us your opinion! Do you have any comments/additions  
-that you would like other visitors to see? 
+We do not share or sell email addresses, obtained via communication with visitors, with anyone. Neither will any identifying data be disclosed or sold to any third party for any purpose. Data we collect through logging visits to our site (orginating IP, referral data, browser and platform type, traffic flows, geographical area of request, etc.) is only used in an aggregated form, which means we will not make any effort to identify users of Interaction-Design.org. The data is only used for server administration, fault finding, site improvement, etc. - as is done on most websites.
+
+Aggregate (and thus completely non-identifying) statistics generated from these logs may be reported as part of research results or may be published on this site as a curiosity.
+
+Our sites may use cookies. This is often as a convenience for you to enable certain site features.
+
+You may wish to clear these cookies and the browser cache if you wish to refrain from revealing any identifying information, especially if you are using a public or shared computer. You may also wish to disable your browser from accepting cookies.
+
+Any time you visit a page on the internet, you send quite a bit of information to the server. The webservers that host this site maintain access logs with the information that you send. This information is used to provide site statistics and to get an idea of popular pages and what sites link here. We do not intend to use these logs to identify legitimate users.
+
+The data logged may be used by us to solve technical problems with the site and, in cases of abuse of this site, to investigate the abuse.
+
+We also use web analytics services to get a general idea of the kinds of traffic our websites get in order to provide better services and to set benchmarks for how we are doing in meeting the OKFN’s goals.
+
+Again, if you are concerned about attempts to match your IP address to your identity, you may wish to use an anonymous browsing service or attempt some means to obfuscate your real IP address.
+
+Our policy is only to release the data we collect in the following circumstances:
+
+  * As required by law, such as in response to a valid request from law enforcement.
+  * To designated third parties to resolve or investigate abuse complaints.
+  * When the information is related to spiders or bots, usually when investigating technical issues.
+  * For abusive users, we may release information to assist in attempting to block the abusive user or to complain to that user’s Internet Service Provider.
+  * If necessary to defend legal claims against us by third parties.
+  * When we deem it necessary to protect the property or rights of the user community, or this website.
+
+
+
+Browsing this site doesn't reveal your identity publicly, though see Private Logging later in this document for more information.
+
+When making contributions to this site (e.g. posting a comment, commentaries, editing a page in the wiki, etc), a name and email address may be required. You do not have to select your real name or use your regular email address. If you are concerned, you may wish to get a free email account or attempt to use a remail service.
+
+Your activity on our website may be identified by your IP address. These numbers could potentially be traceable to identifying information about you, whether it is your home ISP or the University or Work account where the IP address is registered. Your IP address could potentially be used in conjunction with other data to identify you.
+
+If you are concerned about attempts to match your IP address to your identity, you may wish to use an anonymous browsing service or attempt some means to obfuscate your real IP address.
+
+If so, you might like to try Tor, an anonymous browsing service. 
+
+We make no guarantee that the information that you provide us will be secure.
 
 ### Changes to this page
 
-07 Sep 2004: Included the last section.  
+07 Sep 2004: Modified  
+28 Apr 2003: Added  
 
 
-###  Open Content
+### Page Information
 
-We believe in **Open Content** and use a Creative Commons Copyright Licence, which makes the content of this website in effect **the property of our community** , not of this specific website. This page/work is copyright of Interaction-Design.org through the Creative Commons Attribution-ShareAlike Licence. 
-
-Permission to make digital/hard copy of part or all of this work for personal, classroom, and commercial use is granted without fee provided that appropriate credit is given (i.e. that the author's name, the title of this publication/article/web page, and its URL clearly appear) and that derivative works are also made available through the Creative Commons Attribution-ShareAlike Licence. See [the copyright page](http://interaction-design.org/about/copyright.html) for full details or click the 'how to cite' link above for info on how to cite this publication/article/web page.
+Author(s): Mads Soegaard  
+URL: http://interaction-design.org/about/privacy.html 
