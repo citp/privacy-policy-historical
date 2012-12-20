@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the orangetheoryfitness.com privacy policy that was archived on 2012-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120522203054id_/http%3A//www.orangetheoryfitness.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the orangetheoryfitness.com privacy policy that was archived on 2012-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121220090926id_/http%3A//www.orangetheoryfitness.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 		<title>Privacy Policy</title>
@@ -9,15 +9,90 @@
 <link rel="canonical" href="http://www.orangetheoryfitness.com/privacy-policy/">
 
 		<link rel="shortcut icon" href="/favicon.ico">
-	<link rel="stylesheet" type="text/css" href="http://www.orangetheoryfitness.com/themes/orange/css/layout.css?m=1326926400">
+	<link rel="stylesheet" type="text/css" href="http://www.orangetheoryfitness.com/themes/orange/css/layout.css?m=1346091165">
 <link rel="stylesheet" type="text/css" href="http://www.orangetheoryfitness.com/themes/orange/css/typography.css?m=1326927031">
-<link rel="stylesheet" type="text/css" href="http://www.orangetheoryfitness.com/themes/orange/css/form.css?m=1317398519">
-</head>
+<link rel="stylesheet" type="text/css" href="http://www.orangetheoryfitness.com/themes/orange/css/form.css?m=1345570901">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://cdn.jquerytools.org/1.2.7/all/jquery.tools.min.js"></script>
+<script type="text/javascript" src="http://www.orangetheoryfitness.com/mysite/javascript/site.js?m=1346450441"></script>
+<script type="text/javascript" src="http://www.orangetheoryfitness.com/sapphire/thirdparty/prototype/prototype.js?m=1268274567"></script>
+<script type="text/javascript" src="http://www.orangetheoryfitness.com/sapphire/thirdparty/behaviour/behaviour.js?m=1267739533"></script>
+<script type="text/javascript" src="http://www.orangetheoryfitness.com/sapphire/javascript/prototype_improvements.js?m=1281399261"></script>
+<script type="text/javascript" src="http://www.orangetheoryfitness.com/sapphire/javascript/i18n.js?m=1245280480"></script>
+<script type="text/javascript" src="http://www.orangetheoryfitness.com/sapphire/javascript/lang/en_US.js?m=1242680243"></script>
+<script type="text/javascript" src="http://www.orangetheoryfitness.com/sapphire/javascript/Validator.js?m=1286826382"></script>
+<script type="text/javascript">
+//<![CDATA[
+Behaviour.register({
+	'#Form_ShortDistanceForm': {
+		validate : function(fromAnOnBlur) {
+			initialiseForm(this, fromAnOnBlur);
+									if(typeof fromAnOnBlur != 'undefined'){
+
+							if(fromAnOnBlur.name == 'Zip')
+
+								require(fromAnOnBlur);
+
+						}else{
+							require('Zip');
+						}
+
+			var error = hasHadFormError();
+			if(!error && fromAnOnBlur) clearErrorMessage(fromAnOnBlur);
+			if(error && !fromAnOnBlur) focusOnFirstErroredField();
+			
+			return !error;
+		},
+		onsubmit : function() {
+			if(typeof this.bypassValidation == 'undefined' || !this.bypassValidation) return this.validate();
+		}
+	},
+	'#Form_ShortDistanceForm input' : {
+		initialise: function() {
+			if(!this.old_onblur) this.old_onblur = function() { return true; } 
+			if(!this.old_onfocus) this.old_onfocus = function() { return true; } 
+		},
+		onblur : function() {
+			if(this.old_onblur()) {
+				// Don't perform instant validation for CalendarDateField fields; it creates usability wierdness.
+				if(this.parentNode.className.indexOf('calendardate') == -1 || this.value) {
+					return $('Form_ShortDistanceForm').validate(this);
+				} else {
+					return true;
+				}
+			}
+		}
+	},
+	'#Form_ShortDistanceForm textarea' : {
+		initialise: function() {
+			if(!this.old_onblur) this.old_onblur = function() { return true; } 
+			if(!this.old_onfocus) this.old_onfocus = function() { return true; } 
+		},
+		onblur : function() {
+			if(this.old_onblur()) {
+				return $('Form_ShortDistanceForm').validate(this);
+			}
+		}
+	},
+	'#Form_ShortDistanceForm select' : {
+		initialise: function() {
+			if(!this.old_onblur) this.old_onblur = function() { return true; } 
+		},
+		onblur : function() {
+			if(this.old_onblur()) {
+				return $('Form_ShortDistanceForm').validate(this); 
+			}
+		}
+	}
+});
+
+//]]>
+</script>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 	<body class="Page">
 		<div id="BgContainer" class="typography">
 			<div id="Container">
-				
 				<div id="Header">
 					<a id="Logo" href="/" title="">
 						<img src="assets/site/orange-theory-fitness-logo.png" alt="Orangetheory Fitness Logo" width="335" height="81">
@@ -30,9 +105,40 @@
 					<ul id="SocialNetworking">
 						<li><a class="socialLink socialFacebook" target="_blank" href="http://www.facebook.com/OrangeTheoryFitness" title="Like Orangetheory Fitness on Facebook">&nbsp;</a></li>
 						<li><a class="socialLink socialTwitter" target="_blank" href="http://twitter.com/OTheoryFitness" title="Follow Orangetheory Fitness on Twitter">&nbsp;</a></li>
-						<li><a class="socialLink socialYoutube" target="_blank" href="http://www.youtube.com/watch?v=NOmw64GBuYQ" title="Subscribe to Orangetheory Fitness channel on YouTube">&nbsp;</a></li>
+						<li><a class="socialLink socialYoutube" target="_blank" href="http://www.youtube.com/watch?v=wFwug9J53UQ" title="Subscribe to Orangetheory Fitness channel on YouTube">&nbsp;</a></li>
 					</ul>
+					
+<form id="Form_ShortDistanceForm" action="/studio-locations/ShortDistanceForm" method="post" enctype="application/x-www-form-urlencoded">
+
+	
+	<p id="Form_ShortDistanceForm_error" class="message " style="display: none"></p>
+	
+
+	<fieldset>
+		<legend><span>65 Locations</span> and Growing!</legend> 
+		
+			<input class="hidden" type="hidden" id="Form_ShortDistanceForm_Distance" name="Distance" value="25">
+		
+			<div id="Zip" class="field text "><label class="left" for="Form_ShortDistanceForm_Zip">Enter zipcode</label><div class="middleColumn"><input type="text" class="text" id="Form_ShortDistanceForm_Zip" name="Zip" value=""></div></div>
+		
+			<input class="hidden" type="hidden" id="Form_ShortDistanceForm_SecurityID" name="SecurityID" value="b5d214385d11ae591d321dca368635bf2beca663">
+		
+		<div class="clear"><!-- --></div>
+	</fieldset>
+
+	
+	<div class="Actions">
+		
+			<input class="action " id="Form_ShortDistanceForm_action_calculateDistance" type="submit" name="action_calculateDistance" value="Go" title="Go">
+		
+	</div>
+	
+
+</form>
+
+
 				</div>
+				
 				<div id="Navigation">
 					<table>
 	<tbody><tr>
@@ -137,7 +243,7 @@
 		</div>
 
 		
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript">
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-23813750-1']);
 	
@@ -150,6 +256,23 @@
 	})();
 </script>
 
+<script type="text/javascript">
+adroll_adv_id = "PWJLRS6ADBFKPDIBMLCDVM";
+adroll_pix_id = "EUWLNG3PZ5AVNN7BIDB5D4";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
 <script>
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({
@@ -157,7 +280,7 @@ function googleTranslateElementInit() {
     includedLanguages: 'es',
     gaTrack: true,
     gaId: 'UA-23813750-1',
-    floatPosition: google.translate.TranslateElement.FloatPosition.TOP_RIGHT
+    floatPosition: google.translate.TranslateElement.FloatPosition.TOP_LEFT
   });
 }
 </script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
