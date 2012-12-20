@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fplmaps.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629030551id_/http%3A//www.nexteraenergy.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fplmaps.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220062531id_/http%3A//www.nexteraenergy.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # NextEra Energy, Inc. | Privacy Policy
 
