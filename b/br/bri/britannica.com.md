@@ -1,168 +1,188 @@
-> *The following text is extracted and transformed from the britannica.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213003722id_/http%3A//corporate.britannica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britannica.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220085109id_/http%3A//corporate.britannica.com/privacy.html) for the most accurate reproduction.*
 
 # Encyclopædia Britannica, Inc. Corporate Site
 
-_Updated February 10, 2010_
+  
+_Updated March 12, 2012_
 
-**Table of Contents**
+_The Britannica websites are general audience sites, intended for Users (visitors and subscribers) of all ages.  Our free website is supported by advertising. Our subscription websites are paid for by subscription fees. If you would like to avoid ads, sign up for a subscription. _
 
-  * Our Commitment to Privacy
-  * The Information We Collect
-  * How We Use the Information We Collect
-  * Information Disclosed in Public Areas
-  * Subscriber Communications
-  * Protection for Children
-  * Our Commitment to Security
-  * How to Opt Out, Correct, Update, or Remove Personal Information
-  * Links to Other Web Sites
-  * Your Consent and Changes to Privacy Policy  
+  
 
 
+### We Use Common Tracking Tools
 
+We or vendors we have hired use several common tracking technologies. These may include browser and flash cookies, web beacons, and similar technologies. 
 
-**Our Commitment to Privacy.**  
-Encyclopædia Britannica, Inc. ("Britannica") is committed to respecting the privacy of visitors to its family of Web sites (collectively, the "Britannica sites" and each, a "Britannica site"). Except as otherwise provided, this Privacy Policy applies to all of the Britannica sites, which include, but are not limited to, _Britannica.com, Store.Britannica.com_ and _EB.com_. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Britannica site. 
+### Our Tracking May Be Used to Serve Ads
 
-The Britannica sites are general audience Web sites, intended for Users of all ages. Personal information of Users may be collected, used, and disclosed as described in this Privacy Policy.
+We use common tracking tools to decide which ads to insert into the pages you visit.
 
-**The Information We Collect.**
-
-To help us achieve our goal of providing the highest quality services, we collect and apply information from our interactions with visitors and subscribers (each a "User") to the Britannica sites, as well as from other parties. Because we respect your privacy, we have procedures to ensure that your personal information is handled in a safe, secure, and responsible manner. The information we receive and collect depends on what a User does when visiting one of the Britannica sites. 
-
-  * **Your Personal Information.**
-
-In general, our Users are able to visit many of our Web pages without telling us who they are or revealing any information about themselves. As discussed under " _Usage Data_ " below, we may track the Internet domain or "Internet protocol" addresses from which Users visit us and analyze this data in the aggregate to determine usage for trends and statistics. Individual Users will remain anonymous, unless they voluntarily tell us who they are. 
-
-There may be times, however, such as when subscribing to our services, making purchases from the Britannica Store, or contributing content to a Britannica site, when we ask Users to provide certain Personal Information about themselves. "Personal Information" may include, but is not limited to, the name, address, telephone number, e-mail address, and credit or charge card information of a Britannica site User. Whether or not a User provides such information is completely his or her own choice. If a User chooses not to provide the Personal Information we request, he or she may be unable to access certain services and content on our Britannica sites, purchase products from us, or contribute content to a Britannica site.
-
-  * **Demographic Information.**
-
-There will also be opportunities for subscribers to provide us with demographic or profile information regarding their preferences and interests. This information may include, but is not limited to, age, gender, household income, level of education completed, number of children in the household, and personal-interest information. This demographic information, however, is not required and is completely optional on a subscriber's part. 
-
-  * **Prospect and Referral Information.**
-
-If a User visits a Britannica site and submits an e-mail address to Britannica but fails to complete the registration or purchase process, we may use such "prospect" information to contact the prospective User from time to time with Britannica offers and information about new features, new services, and special discounts we think the User may see as valuable. Similarly, if a User forwards a Britannica e-mail to a friend, we may use the "referral" information provided to contact the friend from time to time with Britannica offers and information about new features, new services, and special discounts we think the friend may see as valuable. All of our "prospect" and "referral" communications contain clearly marked opt-out instructions. The types of personally identifiable information that may be collected in relation to "prospects" or "referrals" include: name and e-mail addresses. We do not sell or rent any contact information for such "prospects" or "referrals." 
-
-  * **Cookies.**
-
-To help you personalize your online experience, Britannica uses "Cookies." "Cookies" are pieces of information that Britannica transfers to the hard drives of Users for record-keeping purposes. One of the primary purposes of Cookies is to provide a convenience feature to save you time. For example, Cookies allow us to recognize you when you re-enter a Britannica site so that you will not have to log in each time you visit. Cookies also allow us to collect anonymous traffic data, such as the number of unique and return visitors who use the Britannica sites. In addition, Britannica places Cookies with Users visiting from advertising banners and hyperlinks on other Web sites to track the success of a particular advertising campaign or marketing program. Most browsers are initially set up to accept Cookies. If you prefer, you can reset your browser to notify you when you've received a Cookie or, alternatively, to refuse to accept Cookies. It is important to note that you may not be able to use certain features on a Britannica site if you choose not to accept Cookies. The use of Cookies is an industry standard and occurs at most major Web sites. 
-
-  * ****Third Party Beacons and Cookies.****
-
-We use third party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit Britannica sites.  These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to Britannica sites and other Web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, and to OPT OUT, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
-
-We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other Web sites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, and to OPT OUT, click [here](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html).
-
-Google, as a third party vendor, uses cookies to serve ads on the Britannica sites. Google's use of the DART cookie enables it and its partners to serve ads to Users based on their visit to Britannica sites and/or other sites on the Internet. You may OPT OUT of the use of the DART cookie by visiting the Google ad and content network privacy policy; click [here](http://www.google.com/privacy_ads.html). 
+  * As part of this customization, we (or companies we work with) observe your behavior on this website to provide you with ads that are related to the searches you run on our website. 
+  * We may also get information about your browsing history on other websites from our trusted business partners. We use this information to provide you with ads on our website related to your browsing history outside of our website. 
+  * Additionally, trusted business partners may use your behavior on this website to decide which ads to show you on other websites. 
 
 
 
+### You Can Control Cookies
 
-**How We Use the Information We Collect.**
+You can control cookies. How you do so depends on the type of cookie. To reject browser cookies, you must set your browser to reject browser cookies. To control flash cookies, [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Why? Because flash cookies do not reside in your browser, and therefore your browser settings will not affect them. If you configure your computer to block cookies, you may not be able to access certain functionality on our sites. 
 
-We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our Web sites or while using our services.
+### You Can Control Tracking-Based Ads
 
-  * **Personal Information** Britannica uses Personal Information for: allowing Britannica site Users to obtain an account and to receive communications they request; verifying the identities of contributors of content to Britannica sites; making ongoing enhancements to the Britannica sites; marketing and promotional purposes; and evaluating Web site usage by analyzing and otherwise using Personal Information and related data in the aggregate, but not with respect to any individual Britannica site User. In addition, with respect to Britannica site Users located outside North America, we may share pertinent Personal Information with our local subsidiaries. 
+Many of the ad networks we work with participate in the Self-Regulatory Program for Online Behavioral Advertising. This program allows consumers to opt-out of having their online behavior tracked for advertising purposes. If you want to opt out, [click here](http://www.aboutads.info/choices/).
 
-[UK Privacy Policy](http://www.britannica.co.uk/BritannicaCoUK_Info_Privacy.htm)
+### We Also Use Common Tracking Tools for Non-Advertising Purposes
 
+  * To understand our subscribers and website visitors so that we may improve our sites
+  * To track new visitors to our websites.
+  * To recognize past subscribers.
+  * To store your password if you are registered on our website
+
+
+
+Our Users are able to visit many of our website pages without telling us who they are or revealing any information about themselves. We may track IP addresses from which Users visit us and analyze this data in the aggregate to determine usage for trends and statistics. Users remain anonymous unless they voluntarily tell us who they are.
+
+### Personal Information (“PII”) We Collect and How We Use It. 
+
+We ask Users to provide certain PII about themselves when they sign up for subscriptions, make purchases in our store, or contribute content to a Britannica site. PII means your  name, address, telephone number, e-mail address, and/or credit or charge card information. It is up to you whether you provide any PII; however, you must provide some PII to purchase a subscription or submit content or make a store purchase.  When you provide your PII with your content submissions, realize we have no control over how other Users will use that information. 
+
+Britannica uses PII for: allowing Users to obtain an account and to receive communications; verifying the identities of contributors of content; making ongoing enhancements to the sites; marketing and promotional purposes; and evaluating site usage by analyzing PII and related data in the aggregate. In addition, with respect to Britannica site Users located outside North America, we may share pertinent PII with our local subsidiaries.
+
+We may share PII with: 
+
+**Authorized service providers.** We may share PII with service providers that perform certain services on our behalf, such as  processing credit card payments, performing business and sales analysis, and supporting our Web site functionality. 
+
+**Business partners.** When you make purchases or engage in our promotions, we may share PII with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant.
+
+**Direct mail partners.** From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you. If you prefer not to receive mailings from these providers, you can notify us at any time by following the instructions set forth below _in "How to Opt Out, Correct, Update, or Remove Personal Information._ "
+
+**Law enforcement.** We also may disclose your information:In response to a subpoena or as otherwise required by law. When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of Britannica, our Users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our Web site terms and conditions or other agreements or policies. 
+
+**Purchasers of our business.** In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation or asset sale.  Our privacy policy would continue to cover your PII. 
+
+  
+
+
+### Prospect and Referral Information
+
+If a User visits a Britannica site and submits an e-mail address to Britannica but fails to complete the registration or purchase process, we may use such "prospect" information to contact the prospective User from time to time with Britannica offers and information about new features, new services, and special discounts we think the User may see as valuable. Similarly, if a User forwards a Britannica e-mail to a friend, we may use the "referral" information provided to contact the friend from time to time with Britannica offers and information about new features, new services, and special discounts we think the friend may see as valuable. We do not sell or rent any contact information for such "prospects" or "referrals." 
+
+  
+
+
+### Non-Personally identifiable Information (“Non-PII”) We Collect and How We Use It
+
+Like other commercial websites, we collect information about consumer activities and behaviors to improve our websites, provide standard advertising controls, to determine user response to advertisements and promotions, to deliver targeted advertisements that we or our partners believe will be of most interest to you, and to prepare aggregate reports. 
+
+Non-PII collected includes the following: IP address, domain, browser type and language, referring website addresses, date/time of visits, page view data, and search keywords. Non-PII is collected using the following standard web technologies:
+
+  * “Cookies” are data files, which often include an anonymous unique identifier, sent to your browser from a website. Cookies can only be read by the party placing the cookie, they cannot erase or alter any of your data and when used in the context of collecting non-PII, they do not include personal data. For more information about cookies visit[ http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+  * “Log files” track actions occurring on sites and collect data including your IP address, browser type, Internet service provider, referring/exit pages, platform type, date/time stamp, click data and types of advertisements viewed.
+  * “Web beacons” are electronic files used to track your navigation of a website or collection of sites, and browsing behavior.
+
+
+
+Collectively these technologies enable us to better understand our Users. Cookies do not allow us to gather any PII.
+
+**Demographic Information.** At times we ask subscribers to provide us with demographic or profile information regarding their preferences and interests. This demographic information is not required. We use aggregated demographic information to draw conclusions about Users' wishes and preferences. We also provide demographic User information in the aggregate to third parties in connection with advertising campaigns. You may withdraw your consent at any time by following the instructions provided under the heading " _How to Opt Out, Correct, Update, or Remove Personal Information_ " below.
+
+**Cookies and Beacons – Use by Britannica.** To help you personalize your online experience, Britannica uses "Cookies." "Cookies" are small files that Britannica transfers to Users’ browers or, in the case of mobile sites, to Users’ devices, for record-keeping purposes. One of the primary purposes of Cookies is to provide a convenience feature to save you time. For example, Cookies allow us to recognize you when you re-enter a Britannica site so that you will not have to log in each time you visit. Cookies also allow us to collect anonymous traffic data, such as the number of unique and return visitors who use the Britannica sites. In addition, Britannica places Cookies with Users visiting from advertising banners and hyperlinks on other sites to track the success of a particular advertising campaign or marketing program. Most browsers are initially set up to accept Cookies. If you prefer, you can reset your browser to notify you when you've received a Cookie or, alternatively, to refuse to accept Cookies. It is important to note that you may not be able to use certain features on a Britannica site if you choose not to accept Cookies. The use of Cookies is an industry standard and occurs at most major websites. To manage browser cookies, please see your browser's privacy settings. To manage Flash cookies, please use the [Adobe Flash Player Settings Manager](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+
+We use web beacons to monitor the traffic patterns of users from one Britannica page to another and to improve site performance. 
+
+**Cookies and Beacons – Use by Third Parties.** Advertisers and advertising networks use cookies and beacons to target ads served to Britannica.com. What does it mean to "serve ads"? When you visit a website, your Internet browser transmits a "request" to the computer that hosts the website (the "host server") requesting that server to send you (or "serve") the web page that you are seeking. Most web pages contain components that are pulled from different sources, for example, a web page at a news site may get its weather section from one provider, its sports results from a different source, and advertisements from other servers. Our web pages contain coding that directs your browser to fill the ad spaces on the web pages with content served by advertisers and networks of advertisers to whom we have sold the ad spaces. The advertisers and networks use cookies and beacons to help manage ad delivery and frequency, and to identify audience segment for customized advertising ("targeting"). These cookies are used to identify your IP address, so that when you visit another website using the same advertising network, the network will recognize the cookie as one of its own, read the information on the cookie (the record of which sites in the network you have visited) and serve you an ad that you might be interested in, based on your past visits to other sites in the network. Advertising targeted based on past web surfing is known as "behavioral advertising."
+
+Britannica does not permit any advertisers or networks to collect PII about visitors to Britannica.com using cookies or beacons. Our Privacy Policy does not cover the use of information that they may have collected from you on other sites. If you would like to learn more about behavioral advertising or to opt out of having this information used by companies that are part of the Network Advertising Initiative to deliver targeted ads, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/). Many of the same companies are members of the Self-Regulatory Program for Online Behavioral Advertising. You can learn more and opt out of receiving targeted ads from them at <http://www.aboutads.info/choices>.
+
+Some advertising networks require that we specifically list their opt-out links below. When you opt-out of a network, you may receive an "opt-out" cookie so that the network will know not to assign you new cookies in the future. You will continue to receive ads from that network, but not behaviorally targeted ads. If you erase your browser's cookies, you may need to perform this process again.
+
+24/7 Real Media: <http://www.247realmedia.com/privacy.html>
+
+Adconion: <http://www.adconion.com/us/privacy-policy/the-adconion-cookie.html>
+
+Collective Media: [http://www.networkadvertising.org](http://www.networkadvertising.org/)
+
+DoubleClick: <http://www.doubleclick.com/privacy/faq.aspx>
+
+Google: <http://www.google.com/privacy_ads.html>
+
+SpotXChange: <http://www.spotxchange.com/spx_privacypolicy.html>. When you select this option, SpotXchange sets a persistent "opt-out cookie" to prevent information from being uniquely associated with your browser.
+
+ValueClick: <http://www.valueclickmedia.com/member_privacy.shtml>. We have contracted with ValueClick to monitor certain pages of our site for the purpose of reporting traffic, statistics, advertisement 'click-throughs', and/or other activities on our site. Where authorized by us, ValueClick and its business partners may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our visitors. No personally identifiable information is collected by or transferred to any party other than the advertiser. For more information about how the information is collected and used by ValueClick, please see ValueClick's privacy policy at <http://www.valueclickmedia.com/member_privacy.shtml>. 
+
+Yahoo: <http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html>
+
+Our ad server, AdTech, uses cookies to prevent you from seeing the same ad too many times. You can opt out of Ad Tech cookies by following this link: (<http://www.adtechus.com/privacy/>) 
+
+To manage or delete browser cookies, please see your browser's privacy settings. 
+
+To manage or delete Flash cookies, please use the Adobe Flash Player Settings Manager here: (<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>)
+
+  
+
+
+### Subscriber Communications.
+
+As a benefit of membership, Britannica site subscribers may receive the following communications from us:
+
+**Communications related to subscription maintenance activities.** These communications may include, without limitation, notices regarding material changes to Britannica site policies, service updates, service enhancements, and account management procedures. Since these communications are necessary to ensure Britannica provides its subscribers with the highest quality of services, our subscribers are not permitted to opt out from receipt of these communications.
+
+**Newsletter Communications.** As a benefit of a Britannica subscription, we may send Britannica subscribers our exclusive Britannica newsletters. To unsubscribe to a newsletter, a User can either (i) follow the instructions at the bottom of any newsletter or (ii) follow the instructions set forth below in " _How to Opt Out, Correct, Update, or Remove Personal Information_." 
+
+**Communications containing information about Britannica products and services.** We may send promotional e-mails and other outbound communications to Britannica site subscribers regarding products and services from Britannica. Any Britannica site subscriber that does not wish to receive such product and service communications can choose to remove his or her contact information from our contact list at any time by (i) following the instructions at the bottom of any promotional e-mail or (ii) following the instructions set forth below in " _How to Opt Out, Correct, Update, or Remove Personal Information_." 
+
+  
+
+
+### Protection for Children.
+
+Children should always ask parents for permission before providing any Personal Information to Britannica or purchasing any products or services from Britannica. Britannica does not knowingly collect or solicit Personal Information from or about children under 16, except as permitted by law. If we discover we have received any Personal Information from a child under 16 in violation of this policy, we will delete that information immediately. If you believe Britannica has any Personal Information from or about anyone under 16, please contact us at [privacy@eb.com](mailto:privacy@eb.com).
+
+  
+
+
+### Security.
+
+We use appropriate measures to ensure the security of all information you provide to us, including the use of passwords, firewalls, and encryption. No transmission of information is guaranteed to be completely secure. Unauthorized entry or use, hardware or software failure, and other factors may compromise data security.
+
+### How to Opt Out, Correct, Update, or Remove Personal Information.
+
+Users may opt out of certain services or correct, update, or remove Personal Information that Britannica has collected about them through any of the means listed below. Please be sure to include the following information in your correspondence:
+
+Your e-mail address 
+
+Your first and last name 
+
+Your mailing address (street, city, state, zip code, and country)
+
+The name of the Britannica site to which the request applies
+
+**Call us at:**
+
+(800) 323-1229 (within the United States), or   
+(312) 347-7159 (outside the United States)  
+Monday - Friday, 8:00 a.m. to 6:00 p.m. (U.S. Central Time). 
+
+**Send a fax to:** (312) 294-2104
+
+**Write us at:**  
+Britannica Customer Service, Attn: Removal from Mailing List  
+331 North LaSalle Street  
+Chicago, IL 60654-2682  
+Please allow up to six (6) weeks for mailed-in or faxed opt-out requests to be processed.
+
+ **Links to Other Websites.** The Britannica sites each contain links to other websites. Britannica is not responsible for the privacy practices or content of these third-party websites. We urge all Britannica site Users to follow safe Internet practices: Do not supply Personal Information to these sites unless you have verified their security and privacy policies.
+
+**Data Retention.** We retain your information for as long as necessary to permit us to use it for the purposes that we have communicated to you and comply with applicable law or regulations. 
+
+**Your Consent and Changes to Privacy Policy.** This Privacy Policy was last updated on March 12, 2012. By using any one of the Britannica sites, you consent to the collection and use of your information by Britannica in the manner specified in this Privacy Policy. We reserve the right to change this Privacy Policy at any time.  If we make material changes to this policy, we will notify you here or on with a notice on our home page.
+
+**Your California Privacy Rights.** If you are a California resident, you are entitled to prevent sharing of your personal information with third parties for their own marketing purposes through a cost-free means. If you send a request to the address above, Britannica will provide you with a California Customer Choice Notice that you may use to opt-out of such information sharing. To receive this notice, submit a written request to the address above under the "How to Opt Out" section, specifying that you seek your "California Customer Choice Notice." Please allow at least thirty (30) days for a response. 
+
+**Contact Us.** For more information, please contact us at:  Encyclopaedia Britannica, Inc. Attn: Legal - Privacy Practices, 331 North LaSalle Street, Chicago, IL 60654, or [privacy@eb.com](mailto:privacy@eb.com). 
+
+[UK Privacy Policy](http://britannicashop.britannica.co.uk/BritannicaCoUK_Info_Privacy.htm)   
 [Australian Privacy Policy](http://www.britannica.com.au/pages.asp?page=/pages/privacy.asp)
 
-We do not share your Personal Information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your Personal Information shared. We may share Personal Information with: 
-
-
-
-
-> > Authorized service providers. We may share your Personal Information with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analysis, supporting our Web site functionality, and supporting contests, sweepstakes, surveys and other features offered through our Web site, catalogs, by phone or mail. These service providers may have access to Personal Information needed to perform their functions but are not permitted to share or use such information for any other purposes. 
->> 
->> Business partners. When you make purchases or engage in promotions offered through our Web site, catalogs or through our other services, we may share Personal Information with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant.
->> 
->> Direct mail partners. From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you. If you prefer not to receive mailings from these providers, you can notify us at any time by following the instructions set forth below _in "How to Opt Out, Correct, Update, or Remove Personal Information._ "
->> 
->> Other situations. We also may disclose your information:
->> 
->>     * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
->>     * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of Britannica, our Users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our Web site terms and conditions or other agreements or policies.
->>     * In connection with a legal proceeding or substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation or asset sale. 
->> 
->> Britannica does not include in any of the Britannica sites any functionality for performing "reverse searches" to identify Web site Users from their e-mail addresses. However, as discussed below, Britannica reserves the right to analyze and utilize Personal Information in order to more effectively optimize the User experience and to present certain opportunities to Users for their benefit. 
->> 
->>     * **Demographic Information.**
->> 
->> In an ongoing effort to improve its services, Britannica may use aggregated demographic information to draw conclusions about Users' wishes and preferences. Britannica may also provide demographic information in the aggregate regarding Britannica site Users to third parties in connection with Britannica advertising campaigns and marketing programs; however, no demographic information relating to any individual Britannica site User is disclosed without the express consent of such User. In addition, any such User may withdraw his/her consent at any time by following the instructions provided under the heading " _How to Opt Out, Correct, Update, or Remove Personal Information_ " below. As stated above, submitting such demographic information is not required and is completely optional on a User’s part.
->> 
->>     * **Prospect and Referral Information.**
->> 
->> As discussed above, we may use prospect and referral information to contact a prospect or referral from time to time with Britannica offers and information about new features, new services, or special discounts we think such prospect or referral may see as valuable. We do not sell or rent any contact information for such prospects or referrals.
->> 
->>   
-> 
->>     * **Usage Data.**
->> 
->> We only use Usage Data in the aggregate. We look at the data on a collective basis, in summary form, rather than on an individual basis. This data helps us determine the extent to which our visitors use certain parts of a Britannica site, which, in turn, enables us to make the Britannica sites as appealing as possible. We may also provide statistical "ratings" about how our visitors collectively use our Web sites to business partners (advertisers and other companies with which we do business.) We do this so they, too, can understand how often people use their areas of the Web sites in order for them to provide you with the best possible experience. These statistical ratings do not contain any personally identifiable information about any of our individual Users.
->> 
->> **Information Disclosed in Public Areas.**  
->  Certain Britannica sites allow for the sharing of information. You should remember that any Personal Information you submit to such areas (for example, online chat rooms and forums) may be viewed by other visitors to that site. As a result, your Personal Information may be viewed, collected and used by third parties over whom Britannica has no control. Britannica is not responsible for either the information you submit in such public areas or the use that may be made of such information by any third party. 
->> 
->> **Subscriber Communications.**  
->  As a benefit of membership, Britannica site subscribers may receive the following communications from us:
->>
->>> **Communications related to subscription maintenance activities.**
->>> 
->>> These communications may include, without limitation, notices regarding material changes to Britannica site policies, service updates, service enhancements, and account management procedures. Since these communications are necessary to ensure Britannica provides its subscribers with the highest quality of services, our subscribers are not permitted to opt out from receipt of these communications. 
->>> 
->>> **Newsletter Communications.**
->>> 
->>> As a benefit of a Britannica subscription, we may send Britannica subscribers our exclusive Britannica newsletters. These newsletters are full of useful Britannica content. To unsubscribe to a newsletter, a User can either (i) follow the instructions at the bottom of any newsletter or (ii) follow the instructions set forth below in " _How to Opt Out, Correct, Update, or Remove Personal Information_." 
->>> 
->>> **Communications containing information about Britannica products and services.**
->>> 
->>> We may send promotional e-mails and other outbound communications to Britannica site subscribers regarding products and services from Britannica. Any Britannica site subscriber that does not wish to receive such product and service communications can choose to remove his or her contact information from our contact list at any time by (i) following the instructions at the bottom of any promotional e-mail or (ii) following the instructions set forth below in " _How to Opt Out, Correct, Update, or Remove Personal Information_." 
->> 
->> **Protection for Children.**
->> 
->> Children should always ask parents for permission before providing any Personal Information to Britannica or purchasing any products or services from Britannica. Britannica expressly adheres to all laws and policies related to children's privacy. Britannica does not knowingly collect or solicit Personal Information from or about children under  16, except as permitted by law. If we discover we have received any Personal Information from a child under  16 in violation of this policy, we will delete that information immediately. If you believe Britannica has any Personal Information from or about anyone under  16, please contact us in the manner provided for below.
->> 
->> **Our Commitment to Security.**  
->  Britannica only collects information from Britannica site Users to the extent deemed reasonably necessary to serve its legitimate business purposes, and it uses state-of-the-art security technology to ensure the security, integrity, and privacy of all collected information. When you place orders or access your account information, we automatically send you to a secure server, provided that your browser accepts SSL (Secure Sockets Layer) encryption. The most commonly used browsers are able to process SSL encryption. The secure server software encrypts all information you input before it is sent to us. In addition, Britannica uses security measures in connection with the collection and transmission of Britannica site User information during each Britannica site's registration process. Nonetheless, Britannica is not responsible for any breach of its security or for the actions of any third parties that may obtain any Britannica site User information, including Personal Information or demographic information. 
->> 
->> **How to Opt Out, Correct, Update, or Remove Personal Information.**  
-> 
->> 
->> Users may opt out of certain services or correct, update, or remove Personal Information that Britannica has collected about them through any of the means listed below. Please be sure to include the following information in your correspondence:
->>
->>> Your e-mail address 
->>> 
->>> Your first and last name 
->>> 
->>> Your mailing address (street, city, state, zip code, and country)
->>> 
->>> The name of the Britannica site to which the request applies
->> 
->>     * **Call us at:**
->>
->>> (800) 323-1229 (within the United States), or   
->  (312) 347-7159 (outside the United States)  
->  Monday - Friday, 8:00 a.m. to 6:00 p.m. (U.S. Central Time). 
->>> 
->>> **Send a fax to:** (312) 294-2104 
->>> 
->>> **Write us at:**  
->  Britannica Customer Service, Attn: Removal from Mailing List  
->  331 North La Salle Street  
->  Chicago, IL 60654-2682
->> 
->>     * **With Respect to third party advertising:**
->>
->>> The Britannica sites use the services of one or more third parties to present or target the advertisements, promotions, and other marketing messages that you may see on various Web pages and to conduct research about such advertisements, promotions, and other marketing messages. Our Privacy Policy does not cover any use of information that such third parties may have collected from Users or the method used by such third parties to collect that information (e.g., Cookies). To opt out of third party advertising network cookies, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
->> 
->> Please allow up to six (6) weeks for mailed-in or faxed opt-out requests to be processed.
->> 
->> **Links to Other Web sites.**  
->  The Britannica sites each contain links to other Web sites. Britannica is not responsible for the privacy practices or content of these third-party Web sites. We urge all Britannica site Users to follow safe Internet practices: Do not supply Personal Information to these Web sites unless you have verified their security and privacy policies.
->> 
->> **Your Consent and Changes to Privacy Policy.**  
->  This Privacy Policy was last updated on February 10, 2010. By using any one of the Britannica sites, you consent to the collection and use of your information by Britannica in the manner specified in this Privacy Policy. Britannica reserves the right to change or amend this Privacy Policy prospectively at any time by posting the revised Privacy Policy on the Britannica sites. Britannica encourages Britannica site Users to periodically review this Privacy Policy to be informed of how we are protecting their information.
->> 
->> 
-
+>  
