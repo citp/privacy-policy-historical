@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rfu.com privacy policy that was archived on 2012-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120406115804id_/http%3A//www.rfu.com/aboutTheRFU/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rfu.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220102258id_/http%3A//rfu.com/abouttherfu/privacy%2520and%2520cookies) for the most accurate reproduction.*
 
 # Rugby Football Union Privacy Policy
 
@@ -71,8 +71,32 @@ Such measures are necessary to allow the RFU to measure the usability of the sys
 
 Your browser software should however enable you to block cookies if you wish to. For more information about cookies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
+## Strictly Necessary Cookies
+
+These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
+
+## 
+
+Performance Cookies
+
+These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+
+## 
+
+Functionality Cookies
+
+These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. 
+
+These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
+
+## 
+
+Targeting or Advertising Cookies
+
+These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
+
 ## Consent
 
-By submitting your personal information to us, you signify your consent to our using the information provided in the manner described above.  If we amend our privacy policy, any changes will be published on this web site.  If at any time you wish to update the information which we hold about you, or if you wish to stop receiving information from the RFU, please contact us.
+By submitting your personal information to us, you signify your consent to our using the information provided in the manner described above. If we amend our privacy policy, any changes will be published on this web site. If at any time you wish to update the information which we hold about you, or if you wish to stop receiving information from the RFU, please contact us.
 
  
