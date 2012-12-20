@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallbase.net privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531054952id_/http%3A//wallbase.cc/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallbase.net privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220023005id_/http%3A//wallbase.cc/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy / Wallbase.cc
 
