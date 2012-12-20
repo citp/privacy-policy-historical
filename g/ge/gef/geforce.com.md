@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geforce.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521225552id_/http%3A//www.geforce.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geforce.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220100140id_/http%3A//www.geforce.com/information/privacy-policy) for the most accurate reproduction.*
 
-# Information - GeForce
+# Information | GeForce
 
 ### Introduction
 
@@ -8,9 +8,11 @@ NVIDIA® is committed to implementing appropriate protections for any Personal I
 
 NVIDIA's Online Privacy Policy and Kids Privacy Policy set forth our policies and procedures regarding our collection, use, and/or sharing of your Personal Information.
 
+This policy was last updated on August 3, 2012.
+
 ### What Information We May Collect
 
-When users visit our website, we may collect " **Personal information** ," which is any information that can be used to identify a particular individual, such as name, address, e-mail address, telephone number, or other contact information. When other non-public information, such as product preferences, hobbies or browsing history, is directly associated with personally identifiable information, that other information is also treated as Personal Information.
+When users visit our website, we may collect " **Personal information** ," which is any information that can be used to identify a particular individual, such as name, address, e-mail address, telephone number, or other contact information. In addition, we may collect information about your visits to our websites, including the pages you view, the links and ads you click, search terms you enter, and other actions you take in connection with NVIDIA websites. We may also collect certain information from the browser you used to come to our website, such as your Internet Protocol (IP) address, browser type and language, access times, the Uniform Resource Locator (URL) of the website that referred you to our website and to which URL you browse away from our site if you click on a link on our site. When other non-public information, such as product preferences, hobbies or browsing history, is directly associated with personally identifiable information, that other information is treated as Personal Information.
 
 We collect Personal Information about our users in several ways. 
 
@@ -41,7 +43,7 @@ We collect Personal Information about our users in several ways.
 
 ### Why We Collect Personal Information
 
-The Personal Information we collect helps us process transactions, respond to requests, and learn about our users' interests in terms of the features, performance and support of our products, and our users' website experience. We also use this information to send newsletters or promotional e-mails regarding new or upgraded products and services. (Please see the section below on **Your Choices Regarding Your Personal Information**.)
+The Personal Information we collect helps us process transactions, respond to requests, and learn about our users' interests in terms of the features, performance and support of our products, and customize our users' website experience (including the content and advertisements delivered on our websites). We also use this information to send newsletters or promotional e-mails regarding new or upgraded products and services. (Please see the section below on **Your Choices Regarding Your Personal Information**.)
 
 We do not sell Personal Information about our customers or website users to any third parties. We may from time to time share your Personal Information with our business partners, resellers, affiliates, or consulting partners in an effort to better serve you. For example, when you register for a marketing event or contest on our website, we may share your Personal Information with the business partners that help us run the event or contest.
 
