@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandicor.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531150258id_/http%3A//www.sandicor.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandicor.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220025547id_/http%3A//www.sandicor.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sandicor, Inc. - Your Source for MLS Property Data in San Diego County, California
 
