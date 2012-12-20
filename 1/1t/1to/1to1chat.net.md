@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1to1chat.net privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620044427id_/http%3A//www.1to1chat.net/chat/legal-terms.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1to1chat.net privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220080029id_/http%3A//www.1to1chat.net/chat/legal-terms.xhtml) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy
 
@@ -52,7 +52,7 @@ For other any additional question or information regarding how to use personal n
 
 ### Billing
 
-You agree to assume responsibility for all costs for calling the chat line. You agree to check with your telephone provider to determine if calling the chat line is a local or long distance call. You understand that calling us may result in a toll charge to your phone bill and you are liable for such charges. For many people, calling the chat line is a totally free local call. For some callers, standard long distance charges may occur. Cost of calls for the 07 number range are 51p from a BT landline, calls from mobiles will be considerably more, have the bill payers permission.
+You agree to assume responsibility for all costs for calling the chat line. You agree to check with your telephone provider to determine if calling the chat line is a local or long distance call. You understand that calling us may result in a toll charge to your phone bill and you are liable for such charges. For many people, calling the chat line is a totally free local call. For some callers, standard long distance charges may occur. Cost of calls to the UK 070 number range are 51p per minute from a BT landline within the United Kingdom only, calls from mobiles will be considerably more, have the bill payers permission.
 
 ### Caller Privacy
 
