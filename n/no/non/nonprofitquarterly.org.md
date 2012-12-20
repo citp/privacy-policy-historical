@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nonprofitquarterly.org privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621125815id_/http%3A//www.nonprofitquarterly.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonprofitquarterly.org privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220035928id_/http%3A//www.nonprofitquarterly.org/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - NPQ – Nonprofit Quarterly - Promoting an active and engaged democracy.
+# Privacy Policy - NPQ - Nonprofit Quarterly
 
 Last Updated: 10/1/2010
 
-The Nonprofit Quarterly (NPQ) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting [www.nonprofitquarterly.org](http://nonprofitquarterly.org/), or [our ordering website](http://store.nonprofitquarterly.org/), or though social media correspondence (such as NPQ's [Facebook profile](http://www.facebook.com/nonprofitquarterly) or [Twitter account](http://nonprofitquarterly.org/twitter.com/npquarterly)) you are accepting the practices described in this Privacy Notice.
+The Nonprofit Quarterly (NPQ) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting [www.nonprofitquarterly.org](http://www.nonprofitquarterly.org/), or [our ordering website](http://store.nonprofitquarterly.org/), or though social media correspondence (such as NPQ's [Facebook profile](http://www.facebook.com/nonprofitquarterly) or [Twitter account](http://www.nonprofitquarterly.org/twitter.com/npquarterly)) you are accepting the practices described in this Privacy Notice.
 
 ## The Simple Version
 
@@ -20,7 +20,7 @@ From time to time, we will send you e-mail announcements on new features, produc
 
 ### Email Communications
 
-We publish the [NPQ e-Newsletter](http://oldsite.nonprofitquarterly.org/section/70.html) on a monthly basis, and the [Nonprofit Newswire](http://www.nonprofitquarterly.org/index.php?option=com_content&view=category&layout=blog&id=155&Itemid=136) daily. The e-newsletter is distributed by email, although [back issues](http://nonprofitquarterly.org/section/70.html) may also be viewed on our website. You may [subscribe to](http://nonprofitquarterly.org/scripts/enews/sub) or [unsubscribe from](http://nonprofitquarterly.org/scripts/enews/un) the email list at any time. Occasionally we may send announcements about NPQ events or products to the mailing list. We do not rent our email list, although we may occasionally send an announcement, event or product offering that we think may be of interest on behalf of a partner.
+We publish the [NPQ e-Newsletter](http://oldsite.nonprofitquarterly.org/section/70.html) on a monthly basis, and the [Nonprofit Newswire](http://www.nonprofitquarterly.org/index.php?option=com_content&view=category&layout=blog&id=155&Itemid=136) daily. The e-newsletter is distributed by email, although [back issues](http://www.nonprofitquarterly.org/section/70.html) may also be viewed on our website. You may [subscribe to](http://www.nonprofitquarterly.org/scripts/enews/sub) or [unsubscribe from](http://www.nonprofitquarterly.org/scripts/enews/un) the email list at any time. Occasionally we may send announcements about NPQ events or products to the mailing list. We do not rent our email list, although we may occasionally send an announcement, event or product offering that we think may be of interest on behalf of a partner.
 
 ### Social Media & Comments
 
