@@ -1,0 +1,283 @@
+<!--The following is the downloaded HTML source of the freeinternetwebdirectory.com privacy policy that was archived on 2012-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121220054953id_/http%3A//www.freeinternetwebdirectory.com/ourprivacypolicy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Free powerful internet directory for website promotion business listings marketing web directory.&nbsp;- webdirectory privacy policy  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/templates/Sandestiny/style/main.css">
+<meta name="keywords" content="Free powerful internet directory for website promotion business listings marketing web directory.">
+<meta name="description" content="Free powerful internet directory for website promotion business listings marketing web directory. Website listings increase exposure more visitors traffic.">
+<meta name="author" content="Free Internet Web Directory">
+<meta name="copyright" content="FreeInternetwebdirectory.com">
+<meta name="generator" content="PHP Link Directory 3.4.0">
+<script type="text/javascript" src="/javascripts/formtool/formtool.js"></script>
+<script type="text/javascript" src="/javascripts/prototype/prototype.js"></script>
+<script type="text/javascript" src="/javascripts/scriptaculous/scriptaculous.js"></script>    
+<script type="text/javascript" src="/javascripts/jquery.js"></script>
+<script type="text/javascript">
+         jQuery.noConflict();
+       </script>
+<script type="text/javascript" src="/javascripts/thickbox/thickbox.js"></script>
+<link rel="stylesheet" href="/javascripts/thickbox/ThickBox.css" type="text/css" media="screen">
+<script type="text/javascript" src="/javascripts/categ_selection/categ_selection.js"></script>
+<script type="text/javascript" src="/javascripts/tiny_mce/tiny_mce.js"></script>	  
+<!--  
+<script type="text/javascript" src="/libs/moodalbox/js/mootools.js"></script>
+<script type="text/javascript" src="/libs/moodalbox/js/moodalbox.js"></script>
+<link rel="stylesheet" href="/libs/moodalbox/css/moodalbox.css" type="text/css" media="screen" />
+-->
+</head>
+<body><script type="text/javascript">
+
+
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+      document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
+
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.freeinternetwebdirectory.com/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<div class="header" style="height: auto; background: transparent;">
+<div class="center" style="background: transparent;">
+<div id="panel" style="z-index: -1;">
+<form method="post" action="/login.php" onsubmit="ajaxFunction();">
+<table border="0" align="center" width="40%" style="padding-top: 10px; padding-bottom: 10px; z-index: -1; height: 0px" id="panel_table">
+<tbody><tr>
+</tr>
+<tr>
+<td>User:</td>
+<td>
+<input type="text" name="user" value="" size="20" maxlength="25" class="text">
+</td>
+<td>Password:</td>
+<td>
+<input type="password" name="pass" value="" size="20" maxlength="25" class="text">
+</td>
+<td><input type="submit" name="submit" value="Login" class="btn"></td>
+</tr>
+<tr>
+<td colspan="5" style="text-align: left;">
+<input type="checkbox" name="rememberMe">&nbsp;&nbsp; Keep me logged in.
+</td>        
+</tr>
+<tr>
+<td colspan="5" style="text-align: right;">
+<a href="/profile.php?mode=register" title="Register">Register</a>
+&nbsp;|&nbsp;
+<a href="/profile.php?mode=sendpassword" title="Recover your password">I forgot my password</a>
+</td>
+</tr>
+</tbody></table>
+</form>
+</div>
+<p class="slide" style="z-idex: 100; margin-top: 0px;" id="slide">
+<a href="" class="btn-slide" onclick="show_panel(); return false;">Login</a>
+&nbsp;|&nbsp;
+<a href="/profile.php?mode=register" title="Register new user">Register</a>
+</p>
+</div></div>
+<div style="clear: both;"></div>
+<div class="header">
+<div class="center">
+<div class="headerLogo">
+<a href="/"><img src="/templates/Sandestiny/images/logo.gif" border="0" alt="logo"></a>
+</div>
+<form class="headerSearch" action="/index.php" method="get">
+<label class="searchLabel">Search:</label>
+<input class="searchInput" type="text" name="search" maxlength="250" value="">
+<div class="searchBtn">
+<div class="searchBtnLeft"></div>
+<button class="searchBtnCenter" type="submit">GO</button>
+<div class="searchBtnRight"></div>
+</div>
+</form>
+</div>
+</div>
+<div class="hMenuContainer"><div class="center"><div class="hMenu"><a href="/submit.php" title="Submit your link to the directory">Submit Link</a><a href="/submit_article.php" title="Submit your article to the directory">Submit Article</a><a href="/index.php?list=latest" title="Browse latest submitted links">Latest Links</a><a href="/index.php?list=latestarticles" title="Browse latest articles">Latest Articles</a><a href="/index.php?list=top" title="Browse most popular links">Top Hits</a><a href="/contact.php" title="Contact directory owner">Contact</a><a href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow">Advanced Search</a></div></div></div><div class="path"><a href="/" style="font-weight: bold;">Free Powerful internet Directory for Website Marketing</a> » webdirectory privacy policy</div><div class="center1"><div class="leftContainer">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">CATEGORIES</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">
+<ul class="boxPopCats">
+<li>
+<a href="/arts_humanities/" title="Arts &amp; Humanities">Arts &amp; Humanities</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/blogs/" title="Blogs">Blogs</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/business_and_economy/" title="Business &amp; Economy">Business &amp; Economy</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/computers_and_internet/" title="Computers &amp; Internet">Computers &amp; Internet</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/education/" title="Education">Education</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/entertainment/" title="Entertainment">Entertainment</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/health/" title="Health">Health</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/news_and_media/" title="News &amp; Media">News &amp; Media</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/recreation_and_sports/" title="Recreation &amp; Sports">Recreation &amp; Sports</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/reference/" title="Reference">Reference</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/science_and_technology/" title="Science and Technology">Science and Technology</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/shopping/" title="Shopping">Shopping</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/society/" title="Society">Society</a>
+<div style="clear: both;"></div>
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">STATISTICS</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">
+<ul class="boxStats">
+<li><strong>Active Links:</strong> 4245</li>
+<li><strong>Pending Links:</strong> 97951</li>
+<li><strong>Todays Links:</strong> 61</li>
+<li><strong>Pending Articles:</strong> 322</li>
+<li><strong>Total Articles:</strong> 2</li>
+<li><strong>Total Categories:</strong> 13</li>
+<li><strong>Sub Categories:</strong> 687</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>
+</div><div class="centerContainer"><div class="centerContainerT"></div><div class="centerContainerM"><table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><p><strong>Privacy Policy for www.freeinternetwebdirectory.com</strong> <br><br> At www.freeinternetwebdirectory.com, the privacy of our visitors is of  extreme importance to us. This privacy policy document outlines the  types of personal information is received and collected by  www.freeinternetwebdirectory.com and how it is used.</p>
+<p>If you require any more information or have any questions about our  privacy policy, please feel free to contact us.<br><br> <strong>Log Files</strong><br> Like many other Web sites, www.freeinternetwebdirectory.com makes use of  log files. The information inside the log files includes internet  protocol ( IP ) addresses, type of browser, Internet Service Provider (  ISP ), date/time stamp, referring/exit pages, and number of clicks to  analyze trends, administer the site, track user’s movement around the  site, and gather demographic information. IP addresses, and other such  information are not linked to any information that is personally  identifiable.    <br><br> <strong>Cookies and Web Beacons</strong> <br> www.freeinternetwebdirectory.com does use cookies to store information  about visitors preferences, record user-specific information on which  pages the user access or visit, customize Web page content based on  visitors browser type or other information that the visitor sends via  their browser.  <br><br> <strong>DoubleClick DART Cookie</strong> <br> .:: Google, as a third party vendor, uses cookies to serve ads on www.freeinternetwebdirectory.com.<br> .:: Google's use of the DART cookie enables it to serve ads to users  based on their visit to www.freeinternetwebdirectory.com and other sites  on the Internet. <br> .:: Users may opt out of the use of the DART cookie by visiting the  Google ad and content network privacy policy at the following URL -  http://www.google.com/privacy_ads.html    <br><br> Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....<br>Google Adsense<br> Commission Junction<br> <br><br> These third-party ad servers or ad networks use technology to the  advertisements and links that appear on www.freeinternetwebdirectory.com  send directly to your browsers. They automatically receive your IP  address when this occurs. Other technologies ( such as cookies,  JavaScript, or Web Beacons ) may also be used by the third-party ad  networks to measure the effectiveness of their advertisements and / or  to personalize the advertising content that you see.  <br><br> www.freeinternetwebdirectory.com has no access to or control over these cookies that are used by third-party advertisers.   <br><br> You should consult the respective privacy policies of these third-party  ad servers for more detailed information on their practices as well as  for instructions about how to opt-out of certain practices.  www.freeinternetwebdirectory.com's privacy policy does not apply to, and  we cannot control the activities of, such other advertisers or web  sites.  <br><br> If you wish to disable cookies, you may do so through your individual  browser options. More detailed information about cookie management with  specific web browsers can be found at the browsers' respective websites.</p></td></tr><tr><td></td></tr></tbody></table>
+<div style="clear: both"></div></div><div class="centerContainerB"></div></div><div class="rightContainer">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">ARTICLES</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">
+<div class="boxSponsored">
+<a class="boxSponsoredA" href="/articles/best-practices-for-directory-submission-10813.htm" title="Best Practices For Directory Submission">
+Best Practices For Directory Submission
+</a>
+<br>
+Webmaster submit their websites to directories in order to market their website and also to gain more exposure for their website but if you want to benefit to fullest than there are some practices you must adopt at time of submission. These website submission practices will not only make sure that your website will be benefiting from the submission but is also good for directory.First and most major thing to keep in mind is to submit to most relevant category as this would help the directory.
+<br><br>
+</div>
+<div class="boxSponsoredLast">
+<a class="boxSponsoredA" href="/articles/website-promotion-3.htm" title="WebSite Promotion">
+WebSite Promotion
+</a>
+<br>
+Website Promotion is becoming difficult day by day and this is becuase there are lot of sites. One other reason behing this is that internet is a global village and when ever you type any thing on search engine it usually takes..
+<br><br>
+</div>
+</div>
+<div class="boxBottom"></div>
+</div>
+</div><div style="clear: both; height: 30px;"></div></div><div class="footer"><a rel="nofollow" href="http://www.freeinternetwebdirectory.com/ourprivacypolicy.html">Privacy-Policy</a></div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9633286-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body></html>
