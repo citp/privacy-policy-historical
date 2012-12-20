@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativeboom.co.uk privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606010335id_/http%3A//www.creativeboom.co.uk/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativeboom.co.uk privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220050529id_/http%3A//creativeboom.co.uk/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Creative Industries | Creative Boom Magazine
 
@@ -6,7 +6,7 @@ Creative Boom Ltd (“Creative Boom”) is committed to ensuring that your priva
 
 By registering as a user and/ or by using our website, you are indicating that you have read this privacy policy and understand that your personal information may be used as described below.
 
-If you have any comments or queries in connection with our privacy policy please contact us by email at hello@creativeboom.co.uk or write to us at Creative Boom Ltd, 20 Diarylands Road, Church Lawton, Stoke-on-Trent, Cheshire, ST7 3EU.
+If you have any comments or queries in connection with our privacy policy please contact us by email at [hello@creativeboom.co.uk](mailto:hello@creativeboom.co.uk) or write to us at Creative Boom Ltd, Office 135, 111 Piccadilly, Manchester, M1 2HX.
 
 ## What we collect
 
@@ -58,9 +58,11 @@ You may choose to restrict the collection or use of your personal information in
 
 ## How we use cookies
 
-A cookie is a piece of data that a website can send to your browser, which may then store it on your computer's hard drive. Cookies let us know who has seen which pages on our website and let us determine how frequently pages are visited. This helps us improve our website and tailor it to our users needs.
+A cookie is a piece of data that a website can send to your browser, which may then store it on your computer's hard drive. Cookies let us know which pages are being viewed on our website and let us determine how frequently these pages are visited, we also gather information about the geographical location of our site visitors. This helps us improve our website and tailor it to our users needs. We use Google Analytics for this purpose - which sends several cookies to your browser - with the following names: __utma, __utmb, __utmc, __utmz
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+We also use cookies to allow Creative Boom members to login to the website and manage their profiles. This includes editing their directory entries and posting jobs and events. We use a single cookie to achieve this, which is named: PHPSESSID.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This will not prevent you from browsing the Creative Boom site, but will prevent you from logging into your Creative Boom account.
 
 ## Links to other websites
 
@@ -80,4 +82,4 @@ We may change this policy from time to time by updating this page. You should ch
 
 ## Your rights to access personal information
 
-You have the right, under the Data Protection Act 1998, to receive information about the personal information which we hold about you upon making a written request and payment of a fee, which covers our administration costs in providing such information. If you would like a copy of the information held on you please write to us at Creative Boom Ltd, 20 Diarylands Road, Church Lawton, Stoke-on-Trent, Cheshire, ST7 3EU. If you believe that any information we are holding on you is incorrect or incomplete, please contact us by email at [hello@creativeboom.co.uk](mailto:hello@creativeboom.co.uk) or write to us at Creative Boom Ltd, 20 Diarylands Road, Church Lawton, Stoke-on-Trent, Cheshire, ST7 3EU.
+You have the right, under the Data Protection Act 1998, to receive information about the personal information which we hold about you upon making a written request and payment of a fee, which covers our administration costs in providing such information. If you would like a copy of the information held on you please write to us at Creative Boom Ltd, Office 135, 111 Piccadilly, Manchester, M1 2HX. If you believe that any information we are holding on you is incorrect or incomplete, please contact us via email [hello@creativeboom.co.uk](mailto:hello@creativeboom.co.uk) or write to Creative Boom Ltd, Office 135, 111 Piccadilly, Manchester, M1 2HX.
