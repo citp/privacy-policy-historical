@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebaynet.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622051810id_/http%3A//www.thebaynet.com/index.cfm/fa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebaynet.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220221947id_/http%3A//thebaynet.com/index.cfm/fa/privacy) for the most accurate reproduction.*
 
 # Southern Maryland News
 
@@ -62,4 +62,4 @@ Changes to this Policy
 
 Please note that this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. Each version will be noted at the top of the page. Prior versions of this Privacy Policy will be kept in an archive for you to view.
 
-If you have any additional questions, please feel free to contact us any time at [support@thebaynet.com](mailto:support@thebaynet.com)
+If you have any additional questions, please feel free to contact us any time at support@thebaynet.com
