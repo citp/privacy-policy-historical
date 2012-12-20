@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the what-song.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606090846id_/http%3A//www.what-song.com/Index/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the what-song.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220072722id_/http%3A//www.what-song.com/Index/Privacy-Policy) for the most accurate reproduction.*
 
 # What-Song
 
-##### Effective 2009
+## Privacy Policy
 
-### Our Commitment To Privacy
+**Effective 2009**
 
-Your privacy is very important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
+## Our Commitment To Privacy
 
-### The Information We Collect
+Your privacy is very important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
 
-At the present time, we do not collect or store any personal information. Our site has an active user base, however it stores only a username and password chosen by the user. It is a reference website made for people to use the information they need.
+## The Information We Collect
 
-**Exception** : This site currently has a request form. We may store your email address temporarily so we can return information about your requests. Your email address will not be used for any other purpose. It will not be disclosed to any person, site or organisation.
+At the present time, we do not collect or store any personal information. Our site has an active user base, however it stores only a username and password chosen by the user. It is a reference website made for people to use the information they need. 
 
-### How To Contact Us
+**Exception:** This site currently has a request form. We may store your email address temporarily so we can return information about your requests. Your email address will not be used for any other purpose. It will not be disclosed to any person, site or organisation. 
+
+## How To Contact Us
 
 If you have any questions or queries regarding our privacy policy, please email us at [staff@what-song.com](mailto:staff@what-song.com)
