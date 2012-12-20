@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwmalls.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620093623id_/http%3A//www.cwmalls.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwmalls.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220191332id_/http%3A//www.cwmalls.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Cwmalls-Privacy Policy
 
@@ -8,13 +8,13 @@
 
 This Privacy Notice explains how we collect, use, and (under certain conditions) disclose your personal information. This Privacy Notice also explains the steps we have taken to secure your personal information. Finally, this Privacy Notice explains your options regarding the collection, use, and disclosure of your personal information. By visiting our Site, you accept the practices described in this Notice.
 
-**DATA SECURITY**
+ **DATA SECURITY**
 
  This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.
 
 While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
 
-**  UPDATES TO THIS POLICY**
+ **  UPDATES TO THIS POLICY**
 
 If we change or update this Privacy Notice, we will post changes and updates on this Site so that you will always be aware of what information we collect, use, and disclose. We encourage you to review this Privacy Notice from time to time so you will know if the Privacy Notice has been changed or updated. If you have any questions about the Privacy Notice, please contact us at (86)571 **89877099**.
 
