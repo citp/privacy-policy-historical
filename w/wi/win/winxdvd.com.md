@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winxdvd.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605192104id_/http%3A//www.winxdvd.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winxdvd.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221003554id_/http%3A//winxdvd.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Digiarty Software, Inc - Privacy Policy
 
