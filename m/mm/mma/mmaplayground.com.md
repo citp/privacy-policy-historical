@@ -1,26 +1,28 @@
-> *The following text is extracted and transformed from the mmaplayground.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618104320id_/http%3A//www.mmaplayground.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmaplayground.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220085225id_/http%3A//www.mmaplayground.com/privacy.aspx) for the most accurate reproduction.*
 
 # MMAPlayground.com Internet Privacy Policy
 
-| **UFC on FX 3**  
+| **UFC ON FX 6 /TUF 16 finale combo card**  
 ---  
 Earnings | Username  
-[$125,943](https://web.archive.org/financial_history.aspx?U=41916#EID136) | [crumpadump](https://web.archive.org/profile/crumpadump)  
-[$80,192](https://web.archive.org/financial_history.aspx?U=27024#EID136) | [tn_rebel](https://web.archive.org/profile/tn_rebel)  
-[$66,798](https://web.archive.org/financial_history.aspx?U=60352#EID136) | [SleezyBreezy](https://web.archive.org/profile/SleezyBreezy)  
-[$41,768](https://web.archive.org/financial_history.aspx?U=11382#EID136) | [2hotty](https://web.archive.org/profile/2hotty)  
-[$37,343](https://web.archive.org/financial_history.aspx?U=59613#EID136) | [LVcoach702](https://web.archive.org/profile/LVcoach702)  
-[$37,118](https://web.archive.org/financial_history.aspx?U=24084#EID136) | [austinrocha](https://web.archive.org/profile/austinrocha)  
-[$32,897](https://web.archive.org/financial_history.aspx?U=2158#EID136) | [RayBan10](https://web.archive.org/profile/RayBan10)  
-[$26,900](https://web.archive.org/financial_history.aspx?U=26446#EID136) | [BelXavier420](https://web.archive.org/profile/BelXavier420)  
-[$26,747](https://web.archive.org/financial_history.aspx?U=9012#EID136) | [tuvok500](https://web.archive.org/profile/tuvok500)  
-[$25,755](https://web.archive.org/financial_history.aspx?U=8198#EID136) | [pjdaly6](https://web.archive.org/profile/pjdaly6)  
-[$22,930](https://web.archive.org/financial_history.aspx?U=41904#EID136) | [Ephemeral_Artery](https://web.archive.org/profile/Ephemeral_Artery)  
-[$20,305](https://web.archive.org/financial_history.aspx?U=13096#EID136) | [aberous19](https://web.archive.org/profile/aberous19)  
-[$20,064](https://web.archive.org/financial_history.aspx?U=36246#EID136) | [TitanFan2K](https://web.archive.org/profile/TitanFan2K)  
-[$18,402](https://web.archive.org/financial_history.aspx?U=22584#EID136) | [DiabloFreak56](https://web.archive.org/profile/DiabloFreak56)  
-[$16,403](https://web.archive.org/financial_history.aspx?U=57417#EID136) | [ti-jay77](https://web.archive.org/profile/ti-jay77)  
+[$357,154](https://web.archive.org/financial_history.aspx?U=59512#EID148) | [aussiemma](https://web.archive.org/profile/aussiemma)  
+[$218,573](https://web.archive.org/financial_history.aspx?U=9012#EID148) | [tuvok500](https://web.archive.org/profile/tuvok500)  
+[$151,994](https://web.archive.org/financial_history.aspx?U=18598#EID148) | [Wolfenstein](https://web.archive.org/profile/Wolfenstein)  
+[$123,119](https://web.archive.org/financial_history.aspx?U=60078#EID148) | [x5xwrathx5x](https://web.archive.org/profile/x5xwrathx5x)  
+[$86,182](https://web.archive.org/financial_history.aspx?U=11456#EID148) | [Jshep714](https://web.archive.org/profile/Jshep714)  
+[$84,993](https://web.archive.org/financial_history.aspx?U=15987#EID148) | [Shawn91111](https://web.archive.org/profile/Shawn91111)  
+[$70,305](https://web.archive.org/financial_history.aspx?U=17945#EID148) | [Kaem](https://web.archive.org/profile/Kaem)  
+[$52,071](https://web.archive.org/financial_history.aspx?U=59328#EID148) | [Baby_Wads](https://web.archive.org/profile/Baby_Wads)  
+[$46,091](https://web.archive.org/financial_history.aspx?U=16152#EID148) | [Schatte](https://web.archive.org/profile/Schatte)  
+[$43,811](https://web.archive.org/financial_history.aspx?U=17599#EID148) | [danclarke1992](https://web.archive.org/profile/danclarke1992)  
+[$39,788](https://web.archive.org/financial_history.aspx?U=57764#EID148) | [Samps](https://web.archive.org/profile/Samps)  
+[$32,083](https://web.archive.org/financial_history.aspx?U=57118#EID148) | [BuffaloDave](https://web.archive.org/profile/BuffaloDave)  
+[$31,231](https://web.archive.org/financial_history.aspx?U=26446#EID148) | [BelXavier420](https://web.archive.org/profile/BelXavier420)  
+[$28,003](https://web.archive.org/financial_history.aspx?U=34704#EID148) | [inadvertentgroinstrike](https://web.archive.org/profile/inadvertentgroinstrike)  
+[$24,958](https://web.archive.org/financial_history.aspx?U=17240#EID148) | [Biancoceleste](https://web.archive.org/profile/Biancoceleste)  
   
+Sponsors
+
 MMAPlayground.com has written this privacy policy to demonstrate our commitment to user based internet privacy. The following discloses our info gathering and dissemination practices for MMAPlayground.com. 
 
 1\. Collecting Personal Information from Visitors 
