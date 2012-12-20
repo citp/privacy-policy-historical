@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flixel.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625044437id_/http%3A//flixel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixel.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220120530id_/http%3A//flixel.com/privacy) for the most accurate reproduction.*
 
 # Flixel | Privacy Policy
 
