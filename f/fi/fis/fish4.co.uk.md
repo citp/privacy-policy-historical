@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fish4.co.uk privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617134849id_/http%3A//www.fish4.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fish4.co.uk privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220055216id_/http%3A//www.fish4.co.uk/info/privacy) for the most accurate reproduction.*
 
 # fish4
 
