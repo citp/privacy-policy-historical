@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the absolutdrinks.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630154202id_/http%3A//www.absolut.com/legal/privacy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutdrinks.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220031344id_/http%3A//www.absolut.com/legal/privacy/en) for the most accurate reproduction.*
 
 # None
 
-This website is operated by The Absolut Company AB (formerly known as V&S Vin & Sprit AB) of Årstaängsvägen 19a, Stockholm, Sweden (postal address: SE-117 97 Stockholm, Sweden), hereinafter referred to as "TAC".
+This website is operated by The Absolut Company AB of Årstaängsvägen 19a, Stockholm, Sweden (postal address: SE-117 97 Stockholm, Sweden), hereinafter referred to as "TAC".
 
 Thank you for visiting absolut.com  (the "Site"). Below is our privacy policy governing our use of information gathered about you ("Information").  Although TAC is committed to maintaining your confidence and trust in all of our activities with you, this Privacy Policy does not govern our collection of data about you through channels other than this Site.
 
