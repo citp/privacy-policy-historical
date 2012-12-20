@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veda.com.au privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531073603id_/http%3A//www.veda.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veda.com.au privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220031710id_/http%3A//www.veda.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -282,9 +282,9 @@ You have the right to suppress your name and address details for the purposes of
 
 or complete the Do Not Contact form at: [www.donotcontact.com.au](http://www.donotcontact.com.au/)
 
-## 10\. VSG - Mirus
+## 10\. VSG - Veda eTrace
 
-VSG provides access to a data set, Mirusonline, to its customers enabling these customers to search (in some cases, subject to relevant legal requirements, to conduct reverse searches on types of publically available data).  Typically Mirus collects this information to include in its database.  Clients collect this information to find debtors or to market.  Clients must agree to comply with the relevant provisions of the Privacy Act before they can collect this type of data.
+VSG provides access to a data set, Veda eTrace, to its customers enabling these customers to search (in some cases, subject to relevant legal requirements, to conduct reverse searches on types of publically available data).  Typically Veda eTrace collects this information to include in its database.  Clients collect this information to find debtors or to market.  Clients must agree to comply with the relevant provisions of the Privacy Act before they can collect this type of data.
 
 ## 11\. Credit Reporting
 
