@@ -1,9 +1,20 @@
-> *The following text is extracted and transformed from the casalemedia.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620123220id_/http%3A//www.casalemedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casalemedia.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221004632id_/http%3A//casalemedia.com/privacy) for the most accurate reproduction.*
 
 # Casale Media - Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.casalemedia.com&sealid=101)Casale Media participates in TRUSTe's Privacy and Trusted Data Collection Programs. TRUSTe privacy seals help thousands of businesses promote online safety and trust, and guide consumers to websites that protect their privacy online. This privacy policy covers the data collection and use practices of Casale Media's Online Advertising Network (MediaNet) and website, www.casalemedia.com. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. If users have questions or concerns regarding this policy, you should first [contact us](https://web.archive.org/contact/). If you are not satisfied with our response you can contact [TRUSTe here](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison to resolve users concerns. 
+| Casale Media participates in TRUSTe's Privacy and Trusted Data Collection Programs.  
+TRUSTe privacy seals help thousands of businesses promote online safety and trust, and guide consumers to websites that protect their privacy online. |  | 
 
+[](https://privacy.truste.com/privacy-seal/Casale-Media/validation?rid=4c035c77-2f0b-450a-9723-93fcbe983e01 "TRUSTe online privacy certification")  
+  
+---|---|---  
+  
+This privacy policy covers the data collection and use practices of Casale Media's Online Advertising Network (MediaNet) and website, www.casalemedia.com. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. If users have questions or concerns regarding this policy, you should first [contact us](https://web.archive.org/contact/). If you are not satisfied with our response you can contact [TRUSTe here](http://www.truste.org/consumers/watchdog_complaint.php). 
+
+TRUSTe will serve as a liaison to resolve users concerns. 
+
+|  |   
+  
 **Online Advertising Network (MediaNet)  
 ** The following discloses the information gathering and dissemination practices of the Casale Media Online Advertising Network (MediaNet). 
 
@@ -23,7 +34,7 @@ The Casale Media Online Advertising Network (MediaNet) uses cookies for the purp
 ** Casale Media may obtain data from third party companies for the purpose of informing ad selection. This data is supplied in aggregate form and does not include any personally identifiable information (PII). 
 
 **Opt-Out  
-** Consumers have the unrestricted ability to opt out of all Casale Media targeted advertising, cookies and tracking at any time by utilizing our opt out mechanism. [Please click here to access our opt-out mechanism](https://web.archive.org/optout/). Casale Media is a member of the Network Advertising Initiative (NAI), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. To learn more or to opt out of targeted advertising from other NAI member networks, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+** Casale Media is a member of the Network Advertising Initiative (NAI), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. To learn more or to opt out of targeted advertising from Casale Media and other NAI member networks, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
  **Collection and Use of Non-Personally Identifiable Information  
 ** All information shared with both advertisers and publishers within the Casale Media online advertising network (MediaNet) is done so in an aggregate fashion. This allows us to provide clients of the advertising network with broad percentages regarding the users who are receiving advertisements through the network. This data is not linked to any form of personally identifiable information.
