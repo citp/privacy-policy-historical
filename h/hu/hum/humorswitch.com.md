@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humorswitch.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620134759id_/http%3A//humorswitch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humorswitch.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220090156id_/http%3A//humorswitch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Humor Switch
 
