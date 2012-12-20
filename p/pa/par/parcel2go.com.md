@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the parcel2go.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622011852id_/http%3A//www.parcel2go.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parcel2go.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220101622id_/http%3A//www.parcel2go.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Parcel2Go
 
-[ ](https://web.archive.org/)
+[ ](https://web.archive.org/web/20121220101622id_/http://www.parcel2go.com/)
 
 ##  Privacy Policy for www.parcel2go.com
 
