@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the cardinalhealth.com privacy policy that was archived on 2012-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510121838id_/http%3A//cardinalhealth.com/mps/public/%21ut/p/c1/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fkzBLA09PC0PzgLAgA_dgM_3g1Dz9cJAus3gDHMDRQN_PIz83Vb8g28sCAHQWbBk%21/dl2/d1/L2dJQSEvUUt3QS9ZQnB3LzZfMjBHMDA4TUNNTEUzNTBJQUpHUTNONDEwVTY%21/%3FWCM_GLOBAL_CONTEXT%3D/mps/wcm/connect/us/en/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cardinalhealth.com privacy policy that was archived on 2012-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121221064539id_/http%3A//cardinalhealth.com/mps/public/%21ut/p/c1/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fkzBLA09PC0PzgLAgA_dgM_3g1Dz9cJAus3gDHMDRQN_PIz83Vb8g28sCAHQWbBk%21/dl2/d1/L2dJQSEvUUt3QS9ZQnB3LzZfMjBHMDA4TUNNTEUzNTBJQUpHUTNONDEwVTY%21/%3FWCM_GLOBAL_CONTEXT%3D/mps/wcm/connect/us/en/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- last updated 2011-15-06 14:10 --><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- last updated 2012-06-14 14:57 --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta http-equiv="X-UA-Compatible" content="IE=8;FF=3;">
 <title>Privacy policy -- Cardinal Health </title>
@@ -52,6 +52,8 @@
   
   
   
+  
+
 
 
 
@@ -72,6 +74,8 @@
 <script type="text/javascript" src="/mps/CacheProxyServlet/colorPalette/default/browserVendor/Search/browserName/Search/browserVersion/unknown/locale/en/forwardurl/mps/themes/html/Cardinal/./fancybox/jquery.fancybox-1.3.1.pack.js"></script>
 <script type="text/javascript" src="/mps/CacheProxyServlet/colorPalette/default/browserVendor/Search/browserName/Search/browserVersion/unknown/locale/en/forwardurl/mps/themes/html/Cardinal/./js/webtrends.js"></script>
 <script type="text/javascript" src="/mps/CacheProxyServlet/colorPalette/default/browserVendor/Search/browserName/Search/browserVersion/unknown/locale/en/forwardurl/mps/themes/html/Cardinal/./js/jquery.tablesorter.min.js"></script>
+<script type="text/javascript" src="/mps/CacheProxyServlet/colorPalette/default/browserVendor/Search/browserName/Search/browserVersion/unknown/locale/en/forwardurl/mps/themes/html/Cardinal/./js/s_code.js"></script>
+
 
 
 
@@ -93,7 +97,7 @@
 			
 			
 			<a href="/"><img alt="Cardinal Health Logo" src="/mps/CacheProxyServlet/colorPalette/default/browserVendor/Search/browserName/Search/browserVersion/unknown/locale/en/forwardurl/mps/themes/html/Cardinal/images/common/logo.png"></a>
-		</div>
+		</div><!-- Div logo ends here -->
 		<div id="login">
 				<form method="post" name="extLogin" action="https://mysite.cardinal.com/cgi-bin/bvsm/server/logon.do">
 					<input type="hidden" value="2" size="-1" name="INTSYSTEMFLAG">
@@ -134,123 +138,174 @@
 					</div>				
 				</form>
 			<script type="text/javascript">
-function save_cookie( strName, strValue )
-{
-	var nextYear = new Date()
-	//nextYear.setFullYear( nextYear.getFullYear() + 1 )
-	nextYear.setYear( nextYear.getYear() + 1 )
-	document.cookie = strName +  "=" + strValue + "; expires=" +
-	           nextYear.toGMTString()
-}
-function load_cookie( strName )
-{
-	var strUserID
-	var retval = 'Username'
-	strUserID = GetCookie( strName )
-	if( strUserID != '*' )
-	{
-		retval = strUserID
-	}
-	return retval
-}
-function GetCookie (CookieName) {
-  var cname = CookieName + "=";
-  var i = 0;
-  while (i < document.cookie.length) {
-    var j = i + cname.length;
-    if (document.cookie.substring(i, j) == cname){
-        var leng = document.cookie.indexOf (";", j);
-        if (leng == -1) leng = document.cookie.length;
-        //leave the Cookie in URL friendly Format 
-        //return unescape(document.cookie.substring(j, leng));
-        return document.cookie.substring(j, leng);
-    }
-    i = document.cookie.indexOf(" ", i) + 1;
-    if (i == 0) break; //thats -1 plus 1
-  }
-  return "*";
-}
-jQuery(document).ready(function() {
-	document.forms.extLogin.userId.value = load_cookie('ckUser');
-	if (document.forms.extLogin.userId.value != 'Username') {
-		jQuery('#logonpasswordlabel').hide();
-		jQuery('#logonpassword').show();
-		setTimeout( function() { jQuery('#logonpassword').focus(); }, 500);
-	} else {
-		setTimeout( function() { jQuery('#logonusername').focus(); }, 500);
-	}
-});
- 				jQuery('#logonusername').focus(function() {
-					this.select();
-				});
-				jQuery('#logonpasswordlabel').focus(function() {
+			function save_cookie( strName, strValue )
+			{
+				var nextYear = new Date()
+				//nextYear.setFullYear( nextYear.getFullYear() + 1 )
+				nextYear.setYear( nextYear.getYear() + 1 )
+				document.cookie = strName +  "=" + strValue + "; expires=" +
+				           nextYear.toGMTString()
+			}
+			function load_cookie( strName )
+			{
+				var strUserID
+				var retval = 'Username'
+				strUserID = GetCookie( strName )
+				if( strUserID != '*' )
+				{
+					retval = strUserID
+				}
+				return retval
+			}
+			function GetCookie (CookieName) {
+			  var cname = CookieName + "=";
+			  var i = 0;
+			  while (i < document.cookie.length) {
+			    var j = i + cname.length;
+			    if (document.cookie.substring(i, j) == cname){
+			        var leng = document.cookie.indexOf (";", j);
+			        if (leng == -1) leng = document.cookie.length;
+			        //leave the Cookie in URL friendly Format 
+			        //return unescape(document.cookie.substring(j, leng));
+			        return document.cookie.substring(j, leng);
+			    }
+			    i = document.cookie.indexOf(" ", i) + 1;
+			    if (i == 0) break; //thats -1 plus 1
+			  }
+			  return "*";
+			}
+			jQuery(document).ready(function() {
+				document.forms.extLogin.userId.value = load_cookie('ckUser');
+				if (document.forms.extLogin.userId.value != 'Username') {
 					jQuery('#logonpasswordlabel').hide();
 					jQuery('#logonpassword').show();
-					jQuery('#logonpassword').focus();	
-				});
-				jQuery('#logonpassword').blur(function() {
-					if (jQuery('#logonpassword').val() == '') {
-						jQuery('#logonpasswordlabel').show();
-						jQuery('#logonpassword').hide();
-					}
-				});
-				jQuery('form[name=extLogin]').bind('submit', function() {
-					save_cookie( 'ckUser', document.forms.extLogin.userId.value );
-					dcsMultiTrack('DCS.dcsuri','/outgoing/CustomerLogin','WT.ti','Customer Login'); 
-					//cycleforward(); 
-					//submit_onclick();
-				});
-				jQuery('.inputField').keypress(function(e) {
-					c = e.which ? e.which : e.keyCode;
-					if (c == 13) {
-						jQuery(this).blur();
-						jQuery('form[name=extLogin]').submit();
-					}
-				});
-			</script>				
-						
-		</div>
+					setTimeout( function() { jQuery('#logonpassword').focus(); }, 500);
+				} else {
+					setTimeout( function() { jQuery('#logonusername').focus(); }, 500);
+				}
+			});
+			jQuery('#logonusername').focus(function() {
+				this.select();
+			});
+			jQuery('#logonpasswordlabel').focus(function() {
+				jQuery('#logonpasswordlabel').hide();
+				jQuery('#logonpassword').show();
+				jQuery('#logonpassword').focus();	
+			});
+			jQuery('#logonpassword').blur(function() {
+				if (jQuery('#logonpassword').val() == '') {
+					jQuery('#logonpasswordlabel').show();
+					jQuery('#logonpassword').hide();
+				}
+			});
+			jQuery('form[name=extLogin]').bind('submit', function() {
+				save_cookie( 'ckUser', document.forms.extLogin.userId.value );
+				dcsMultiTrack('DCS.dcsuri','/outgoing/CustomerLogin','WT.ti','Customer Login'); 
+				//cycleforward(); 
+				//submit_onclick();
+			});
+			jQuery('.inputField').keypress(function(e) {
+				c = e.which ? e.which : e.keyCode;
+				if (c == 13) {
+					jQuery(this).blur();
+					jQuery('form[name=extLogin]').submit();
+				}
+			});
+			
+			</script>	
+		</div><!-- Div login ends here -->
+		<!-- <div id="cse-search-form" style="width: 100%;"> </div> -->
+		<script src="https://www.google.com/jsapi" type="text/javascript"></script>
 		<div id="search">
-		
-		
-			<form name="headerSearch" method="POST" action="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ19TC2cTA09PpzAf5xBzQwMDA_3g1Dz9gmxHRQArOzur/">             
-		
-		                                                
 			
-			<input type="text" id="bannersearchquery" value="Search cardinalhealth.com" class="inputField" name="query">
-			<a id="bannerSearchLink" title="Search" href="#"><img class="ro" alt="Search Button" src="/mps/CacheProxyServlet/colorPalette/default/browserVendor/Search/browserName/Search/browserVersion/unknown/locale/en/forwardurl/mps/themes/html/Cardinal/images/search/btn_search.gif"></a>
-			<a class="advsearch" id="bannerSearchLink1" title="AdVSearch" href="#">Advanced search</a>
-			<input type="hidden" id="searchMode" name="searchMode" value="2">
-		</form>
-
 			
-<script type="text/javascript">
-jQuery('#bannersearchquery').bind('focus', function() {
-	if (jQuery(this).attr('value') == 'Search cardinalhealth.com') {
-		jQuery(this).attr('value', '');
-	}
-});
-jQuery('#bannersearchquery').bind('blur', function() {
-	if (jQuery(this).attr('value') == '') {
-		jQuery(this).attr('value', 'Search cardinalhealth.com');
-	}
-});
-jQuery('#bannerSearchLink').click(function() {
-	jQuery("#searchMode").attr('value', '0');			
-	jQuery('form[name=headerSearch]').submit();	
+				<form id="cse-search-form-id" method="POST" action="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ19TC2cTA09PpzAf5xBzQwMDA_3g1Dz9gmxHRQArOzur/" onsubmit="return submitQuery()">             
+			   
+	 			 	
+	  					<input type="hidden" value="null" name="query"> 
+	  					 <input type="hidden" name="cx" value="004356117509853051354:-wnmeh4wpas">
+  							<input type="hidden" name="ie" value="UTF-8">	  					
+	 			 			 
+	 			 				<table class="gsc-search-box">  
+	 			 					<tbody><tr>
+	 			 						<td class="gsc-input">
+											<input id="query-input" value="" size="50" autocomplete="off" class="gsc-input">
+										</td>
+										<td class="gsc-search-button">
+     										<input class="gsc-search-button" type="submit" value="Search">
+     									</td>
+     								</tr>
+     							</tbody></table>
+     						
+          				</form>
+		</div> <!-- Div search ends here -->
+	</div><!-- Div header ends here -->	
 	
 		
-});
-jQuery('#bannerSearchLink1').click(function() {
-	jQuery("#searchMode").attr('value', '1');	
-	jQuery('form[name=headerSearch]').submit();	
-	
-	
-});
-</script>
-		</div>
-	</div>
+		<script type="text/javascript"> 
+			var hostname =  document.location.href;						
+			google.load('search', '1', {language : 'en', style : google.loader.themes.BUBBLEGUM});				
+			
+    		function init() {
+       			var customSearchControl = new google.search.CustomSearchControl('004356117509853051354:-wnmeh4wpas');
+       			customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+       			//customSearchControl.setSearchStartingCallback(this,function(control, searcher) {searcher.setRestriction(google.search.Search.RESTRICT_EXTENDED_ARGS,{ "filter" : "0"});});
+				var options = new google.search.DrawOptions();
+ 				//options.setAutoComplete(true);
+ 				
+ 				var autoCompletionOptions = {'maxCompletions' : 10, 'styleOptions' : {'xOffset' : 1}}; 	 				
+ 				google.search.CustomSearchControl.attachAutoCompletionWithOptions('004356117509853051354:-wnmeh4wpas', document.getElementById('query-input'),'cse-search-form-id',autoCompletionOptions);
+ 				
+				customSearchControl.draw('cse-search-form', options);
+       			
+      		}
+      		function submitQuery() {         			 			 		
+       			window.location = '/search?query='+ encodeURIComponent(document.getElementById('query-input').value);
+       			return false;
+    		}
+			google.setOnLoadCallback(init);   
+		</script>
+<style type="text/css">
 
+input.gsc-input {
+    border-color: #DECAFF;
+  }
+  input.gsc-search-button {
+    border-color: #923C99;
+    background-color: #C78DCC;
+    }
+#cse-search-form.gsc-search-box, form.gsc-search-box {
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+#cse-search-form-id input.gsc-search-button  {
+
+	background:url(/mps/themes/html/Cardinal/images/search/btn_search.gif) no-repeat ;   
+    color: #FFFFFF;   
+    height: 20px;   
+   	padding: 0 68px;   
+   	border:none; 
+}
+#cse-search-form-id input.gsc-input, input.gsc-input {
+    border: 1px solid #BBBBBB;
+    font-family: inherit;
+    font-size: 16px;
+    padding: 3px 6px;
+    width: 230px; 
+    float: left;
+    background:none; 
+}
+
+#cse-search-form-id input.gsc-input,input.gsc-input {
+		background-image:none !important;
+}
+
+td.gsc-clear-button  { display: none !important; }
+
+
+
+</style>
 		
 	
 		<!-- UnlayeredContainer-H begin Cardinal skin -->
@@ -294,13 +349,13 @@ jQuery('#bannerSearchLink1').click(function() {
 Intended for testing styles before integrating into the theme.
 -->
 
-<link rel="stylesheet" title="" href="/mps/wcm/connect/35945400437088b8965f9ee1f948b8d9/STYLE-impl.css?MOD=AJPERES&amp;lmod=230592305&amp;CACHEID=35945400437088b8965f9ee1f948b8d9" type="text/css">
+<link rel="stylesheet" title="" href="/mps/wcm/connect/35945400437088b8965f9ee1f948b8d9/STYLE-impl.css?MOD=AJPERES&amp;lmod=1535702435&amp;CACHEID=35945400437088b8965f9ee1f948b8d9" type="text/css">
 <!--[if IE 8]>
 <script type="text/javascript">
 jQuery('link[href*=internal_ie]').each(function(index, element) {element.disabled=true;});
 </script>
 <![endif]-->
-<script type="text/javascript" src="/mps/wcm/connect/3a0df380437085be96279ee1f948b8d9/FILE-JS_impl.js?MOD=AJPERES&amp;lmod=290750847&amp;CACHEID=3a0df380437085be96279ee1f948b8d9"></script>
+<script type="text/javascript" src="/mps/wcm/connect/3a0df380437085be96279ee1f948b8d9/FILE-JS_impl.js?MOD=AJPERES&amp;lmod=816248608&amp;CACHEID=3a0df380437085be96279ee1f948b8d9"></script>
 
 
 <!-- END-HTML-StyleStaging -->
@@ -706,6 +761,30 @@ jQuery.ajax(_ajaxNavCall);
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				
 		<script type="text/javascript">
 /**
@@ -792,12 +871,12 @@ jQuery('.sectionNav .buttons img').mouseout(this.out);
 <div class="sectionNav">
 	<img src="/mps/wcm/connect/baa9df00430caaf7be4dfeef598a412c/title_sectionNav.gif?MOD=AJPERES&amp;lmod=1117438931&amp;CACHEID=baa9df00430caaf7be4dfeef598a412c" alt="Who We Are">
 	<ul class="buttons">
-		<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/aboutus"><img src="/mps/wcm/connect/a4fa3800430caeb0be6ffeef598a412c/btn_about_us.gif?MOD=AJPERES&amp;lmod=1117433622&amp;CACHEID=a4fa3800430caeb0be6ffeef598a412c" alt="About Us" id="sn1"></a></li>
-		<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/productsandservices"><img src="/mps/wcm/connect/22a86280430cb9de8014c4ef598a412c/btn_products_services.gif?MOD=AJPERES&amp;lmod=1117437628&amp;CACHEID=22a86280430cb9de8014c4ef598a412c" alt="Products &amp; Services" id="sn2"></a></li>
-		<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/communityrelations"><img src="/mps/wcm/connect/0ed5c700430cb693bf51ffef598a412c/btn_community_relations.gif?MOD=AJPERES&amp;lmod=1117435195&amp;CACHEID=0ed5c700430cb693bf51ffef598a412c" alt="Community" id="sn3"></a></li>
+		<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/aboutus"><img src="/mps/wcm/connect/a4fa3800430caeb0be6ffeef598a412c/btn_about_us.gif?MOD=AJPERES&amp;lmod=1117433622&amp;CACHEID=a4fa3800430caeb0be6ffeef598a412c" alt="About Us" id="sn1"></a></li>
+		<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/productsandservices"><img src="/mps/wcm/connect/22a86280430cb9de8014c4ef598a412c/btn_products_services.gif?MOD=AJPERES&amp;lmod=1117437628&amp;CACHEID=22a86280430cb9de8014c4ef598a412c" alt="Products &amp; Services" id="sn2"></a></li>
+		<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/communityrelations"><img src="/mps/wcm/connect/0ed5c700430cb693bf51ffef598a412c/btn_community_relations.gif?MOD=AJPERES&amp;lmod=1117435195&amp;CACHEID=0ed5c700430cb693bf51ffef598a412c" alt="Community" id="sn3"></a></li>
 		<li><a href="http://ir.cardinalhealth.com" title="Investors"><img src="/mps/wcm/connect/54e98100430cb873bfb5ffef598a412c/btn_investors.gif?MOD=AJPERES&amp;lmod=1117436106&amp;CACHEID=54e98100430cb873bfb5ffef598a412c" alt="Investors" id="sn4"></a></li>
 		<li><a href="/us/en/media"><img src="/mps/wcm/connect/4af27b80430cb962bfe3ffef598a412c/btn_news_and_media.gif?MOD=AJPERES&amp;lmod=1117437354&amp;CACHEID=4af27b80430cb962bfe3ffef598a412c" alt="News &amp; Media" id="sn5"></a></li>
-		<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/careers"><img src="/mps/wcm/connect/923fdb80430cb5f3bf2bffef598a412c/btn_careers.gif?MOD=AJPERES&amp;lmod=1117433953&amp;CACHEID=923fdb80430cb5f3bf2bffef598a412c" alt="Careers" id="sn6"></a></li>
+		<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/careers"><img src="/mps/wcm/connect/923fdb80430cb5f3bf2bffef598a412c/btn_careers.gif?MOD=AJPERES&amp;lmod=1117433953&amp;CACHEID=923fdb80430cb5f3bf2bffef598a412c" alt="Careers" id="sn6"></a></li>
 	</ul>
 </div>
 <script type="text/javascript">
@@ -979,17 +1058,17 @@ We use the information collected through the Site for statistical purposes and f
 <div id="footer">
 <div id="footer-links">
 	<div class="col first">
-	<a href="/mps/wcm/myconnect/us/en/home/home?contentIDR=b972378042cacb6a9d609d2ba2e96134&amp;useDefaultText=0&amp;useDefaultDesc=0"><h2>Businesses</h2>
-		</a><ul><a href="/mps/wcm/myconnect/us/en/home/home?contentIDR=b972378042cacb6a9d609d2ba2e96134&amp;useDefaultText=0&amp;useDefaultDesc=0">
-			</a><li><a href="/mps/wcm/myconnect/us/en/home/home?contentIDR=b972378042cacb6a9d609d2ba2e96134&amp;useDefaultText=0&amp;useDefaultDesc=0"></a><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/presource">Presource<sup>®</sup> products and services</a></li>
-			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/optifreight">OptiFreight<sup>®</sup> Logistics</a></li>
-			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/medi-vac">Medi-Vac<sup>®</sup> suction and fluid collection products</a></li>
-			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/valuelink">ValueLink<sup>®</sup> Supply Management Services</a></li>
-			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/endura">Endura™ Performance Apparel</a></li>
+	<h2>Businesses</h2>
+		<ul>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/presource">Presource<sup>®</sup> products and services</a></li>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/optifreight">OptiFreight<sup>®</sup> Logistics</a></li>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/medi-vac">Medi-Vac<sup>®</sup> suction and fluid collection products</a></li>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/valuelink">ValueLink<sup>®</sup> Supply Management Services</a></li>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/endura">Endura™ Performance Apparel</a></li>
 
-			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/smartgown">SmartGown™ surgical gowns</a></li>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/smartgown">SmartGown™ surgical gowns</a></li>
 
-			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/beckloff">Beckloff Associates</a></li>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/beckloff">Beckloff Associates</a></li>
 		</ul>
 	</div>
 	<div class="col">
@@ -997,12 +1076,14 @@ We use the information collected through the Site for statistical purposes and f
 		<ul>
 <li><a href="/us/en/protexis/">Protexis™ powder-free surgical gloves</a></li>
 <li><a href="/us/en/DuraBlue/">DuraBlue™ sterilization wrap</a></li>
-			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/cardinalhealthconvertors/clinicianapparelandpatientprotectionproducts">Surgical apparel</a></li>
-			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/cardinalhealthconvertors/clinicianapparelandpatientprotectionproducts/surgicaldrapes">Surgical drapes</a></li>
-			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/gloves">Gloves</a></li>
-			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/medi-vac">Fluid Management</a></li>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/cardinalhealthconvertors/clinicianapparelandpatientprotectionproducts">Surgical apparel</a></li>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/cardinalhealthconvertors/clinicianapparelandpatientprotectionproducts/surgicaldrapes">Surgical drapes</a></li>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/gloves">Gloves</a></li>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/medi-vac">Fluid Management</a></li>
 			
-			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/thermaltherapy">Thermal therapy</a></li>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/thermaltherapy">Thermal therapy</a></li>
+<li><a href="/us/en/topicalskinadhesives">Topical Skin Adhesives</a></li>
+
 		</ul>
 	</div>
 	<div class="col">
@@ -1010,6 +1091,9 @@ We use the information collected through the Site for statistical purposes and f
 		<ul>
 <li><a href="/us/en/Barcode360/">BarCode360™ Safety Optimizer</a></li>
 		<li><a href="/us/en/3PL/">3rd Party Logistics (3PL): Integrated Logistics Services</a></li>	
+        
+<li><a href="/us/en/IndirectSuppliers/">Indirect Suppliers</a></li>
+		
 
 <li><a href="/us/en/SpecialtySolutions/">Specialty Solutions</a></li>
 
@@ -1023,43 +1107,47 @@ We use the information collected through the Site for statistical purposes and f
 		<h2>Offerings</h2>
 		<ul>
 			<li><a href="/us/en/MedicationSafety/MedicationSafety">Medication Safety</a></li>
-			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/generationrx">GenerationRx</a></li>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/generationrx">GenerationRx</a></li>
 
 			<li><a href="/us/en/HealthcareSystems">One source</a></li>
 
-			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/flu">Flu Preparedness</a></li>
-			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/latexallergymanagement">Latex Allergy Management</a></li>
-			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/leadernet">LeaderNET<sup>®</sup></a></li>
-			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/pandemicpreparedness">Pandemic Preparedness</a></li>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/flu">Flu Preparedness</a></li>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/latexallergymanagement">Latex Allergy Management</a></li>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/leadernet">LeaderNET<sup>®</sup></a></li>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/pandemicpreparedness">Pandemic Preparedness</a></li>
 		</ul>
 	</div>
 	<div class="col">
 		<h2>eBusiness</h2>
 		<ul>
-			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/ebusiness/registrationinformation">Registration</a></li>
-<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/ebusiness/register">Register</a></li>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/ebusiness/registrationinformation">Registration</a></li>
+<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/ebusiness/register">Register</a></li>
 			<li><a href="/expresslogin" title="Sign in">Sign in</a></li>
-			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/ebusiness/systemrequirements">System requirements</a></li>
-			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/ebusiness/commonquestions">Common questions</a></li>
-			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/ebusiness/termsandconditions">Terms and conditions</a></li>
-			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/ebusiness/termsandconditions/returned+goods+policy">Returned goods policy</a></li>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/ebusiness/systemrequirements">System requirements</a></li>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/ebusiness/commonquestions">Common questions</a></li>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/ebusiness/termsandconditions">Terms and conditions</a></li>
+			<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/ebusiness/termsandconditions/returned+goods+policy">Returned goods policy</a></li>
 		</ul>
 	</div>
 	<div class="col">
 		<h2>Interactive</h2>
 		<ul>
 			<li><a href="http://cardinalhealth.com/healthcarelandscape" target="_blank">The Healthcare Landscape</a></li>
-<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/media/socialmedia" title="Learn more about Cardinal Health Social Media pages" style="display:inline;">Social Media</a> </li>
+<li><a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/media/socialmedia" title="Learn more about Cardinal Health Social Media pages" style="display:inline;">Social Media</a> </li>
 		</ul>
-		<h2>What matters most</h2>
+		<h2>Business Case Studies</h2>
 		<ul>
-<li><a href="/us/en/whatmatters/" title="What matters most">Acute care facilities</a></li>
-<li><a href="/us/en/matters" title="What matters most">Retail pharmacies</a></li>
+<li><a href="/us/en/businesscasestudies/" title="Business Case Studies">Patient safety</a></li>
+<li><a href="/us/en/businesscasestudies" title="Business Case Studies">Efficiency</a></li>
+<li><a href="/us/en/businesscasestudies" title="Business Case Studies">Supply chain</a></li>
+<li><a href="/us/en/businesscasestudies" title="Business Case Studies">Cost-effective solutions</a></li>
+<li><a href="/us/en/businesscasestudies" title="Business Case Studies">Community relations</a></li>
 		</ul>
 
         <h2>Events</h2>
         <ul>
-<li><a href="http://rbc.cardinalhealth.com/" target="_blank">2012 Annual Pharmacy Business Conference</a></li>
+<li><a href="/us/en/infectioncontrol">APIC 2012 – Infection Control</a></li><li>
+</li><li><a href="http://rbc.cardinalhealth.com/" target="_blank">2012 Annual Pharmacy Business Conference</a></li>
         </ul>
 
 	</div>
@@ -1080,19 +1168,19 @@ We use the information collected through the Site for statistical purposes and f
 <a href="/us/en/Media/SocialMedia" style="display:inline; margin:0 0 0 5px;"><img src="/mps/wcm/connect/4a40e5004694737cab31eb690e45094f/Youtube.gif?MOD=AJPERES&amp;lmod=2032356207&amp;CACHEID=4a40e5004694737cab31eb690e45094f" width="20" height="20"></a>
 </div>
 	<div class="links" style="width:500px;">
-<a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/sitemap" title="Site Map">Site map</a>
+<a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/sitemap" title="Site Map">Site map</a>
 
-<a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/privacypolicy" title="Privacy policy">Privacy policy</a>
+<a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/privacypolicy" title="Privacy policy">Privacy policy</a>
 
-<a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/legal">Legal</a>
+<a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/legal">Legal</a>
 
-<a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/ebusiness/termsandconditions">Terms and conditions</a>	
+<a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/ebusiness/termsandconditions">Terms and conditions</a>	
 			
-<a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/contactus">Contact us</a>	
+<a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/contactus">Contact us</a>	
 
 
 
-<a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/home/expresslogin" title="Sign in">Sign&nbsp;in</a>
+<a href="/mps/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_2CbEdFADfU32U!/?WCM_PORTLET=PC_7_20G008MCMLCQD0I6KL912K3005_WCM&amp;WCM_GLOBAL_CONTEXT=/mps/wcm/connect/us/en/home/expresslogin" title="Sign in">Sign&nbsp;in</a>
 	</div>
 	<div class="clear"></div>
 </div>
@@ -1152,6 +1240,7 @@ _tag.dcsCollect();
 
 <a href="#">
 
+
 </a></div><a href="#">
 
          
@@ -1185,5 +1274,111 @@ _tag.dcsCollect();
 
 	
 	
+	
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="X-UA-Compatible" content="IE=8;FF=3;">
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+    <script>
+    var totalresults ="";
+    function hndlr(response) {
+     	totalresults = response.queries.request[0].totalResults ;
+     }
+      
+    </script>
+    <script>
+    var API_KEY="AIzaSyA2x7--soAQVZRd1RU-AjlwoPXNxLxBkOY";
+    var customerId ="004356117509853051354:-wnmeh4wpas";
+    </script>
+    
+
+
+<!-- SiteCatalyst code version: H.24.4.
+Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+
+<script language="JavaScript" type="text/javascript">
+<!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+
+s.pageName="/us/en/privacypolicy"
+s.server=document.location.hostname
+//Commented out the un-used variables.
+
+	s.channel="[About us]"
+	
+
+
+//s.pageType=""
+//s.prop1=""
+//s.prop2=""
+//s.prop3=""
+//s.prop4=""
+//s.prop5=""
+function checkContains(){
+	var found = false;	
+	var categories ="[About us]";	 
+	if (categories.indexOf('Products and Services') !== -1 ) {
+   			found = true;
+    		return true;    
+  	} 	
+ 	return false;    
+ }
+var foundCt = checkContains();
+
+if(foundCt){	
+	s.prop23="English"
+}
+if (totalresults>0){
+	s.events=s.apl(s.events,"event3",",",2);
+		
+	s.prop7=s.eVar7=totalresults;
+}else{
+	s.events=s.apl(s.events,"event7",",",2)
+	
+	s.prop7=s.eVar7=totalresults;
+}
+
+/* Conversion Variables */
+//s.campaign=""
+//s.state=""
+//s.zip=""
+//s.events=""
+//s.products=""
+//s.purchaseID=""
+//s.eVar1=""
+//s.eVar2=""
+//s.eVar3=""
+//s.eVar4=""
+//s.eVar5=""
+s.hier1=s.pageName;
+//s.prop3=""
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//-->
+</script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0){ document.write(unescape('%3C')+'\!-'+'-')}
+//--></script><noscript></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.24.4. -->
+
+
+
 
 <div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
