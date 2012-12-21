@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buzztab.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114011541id_/http%3A//www.buzztab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzztab.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221182503id_/http%3A//www.buzztab.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Buzztab.com
+# Privacy Policy
 
 The safeguard of your privacy is primary concern at Buzztab.com. Users’ privacy is protected and respected and your personal information is not willfully shared with any third party, prior to your acknowledgement and permission or is laid down in this Privacy Policy.
 
