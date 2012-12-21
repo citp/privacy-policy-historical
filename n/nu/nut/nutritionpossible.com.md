@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutritionpossible.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527191715id_/http%3A//www.pfizer.com/general/privacy_policy_transitioned.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionpossible.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221160559id_/http%3A//www.pfizer.com/general/privacy_policy_transitioned.jsp) for the most accurate reproduction.*
 
 # Transitioned Privacy Policy | Pfizer: the world's largest research-based pharmaceutical company
 
