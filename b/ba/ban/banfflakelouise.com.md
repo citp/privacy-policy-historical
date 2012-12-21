@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banfflakelouise.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609000858id_/http%3A//www.banfflakelouise.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banfflakelouise.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221012534id_/http%3A//www.banfflakelouise.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy / Home - Banff Lake Louise Tourism
 
