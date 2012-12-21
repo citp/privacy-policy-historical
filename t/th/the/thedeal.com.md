@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedeal.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609172627id_/http%3A//www.thedeal.com/about_us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedeal.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221065507id_/http%3A//www.thedeal.com/about_us/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy (The Deal)
 
@@ -15,7 +15,7 @@ As an overview, our commitment to privacy is based on the following principles:
  • You may change the status of the information distributed to you by the Web site at any time, and you may correct any inaccuracies that exist in your registration and subscription profile created for the Web site.   
 • The Deal has put in place appropriate physical, electronic, and managerial procedures to protect our content and users' information to prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information.   
 • The Web site contains links to other sites and to our partners. Please be aware the Web site is not responsible for the content or privacy policies of other Web sites to which it may link. This privacy statement applies solely to information collected by this Web site.   
-• All questions, inquiries, or concerns regarding this privacy policy should be directed to: customerservice@thedeal.com. Written inquiries can be mailed to: Customer Service, The Deal, 20 Broad Street, New York, NY 10005. 
+• All questions, inquiries, or concerns regarding this privacy policy should be directed to: customerservice@thedeal.com. Written inquiries can be mailed to: Customer Service, The Deal, 14 Wall Street, New York, NY 10005. 
 
 **What information does the Web site gather and/or track about you?**
 
