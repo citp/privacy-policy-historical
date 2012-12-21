@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyschoolsdirectory.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623004038id_/http%3A//www.beautyschoolsdirectory.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyschoolsdirectory.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221144726id_/http%3A//www.beautyschoolsdirectory.com/terms) for the most accurate reproduction.*
 
 # Terms of Use / Privacy Statement | Beauty Schools Directory
 
