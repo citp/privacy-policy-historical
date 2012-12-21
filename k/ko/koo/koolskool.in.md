@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the koolskool.in privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222426id_/http%3A//koolskool.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koolskool.in privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221200409id_/http%3A//koolskool.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : KOOLSKOOL
+# Privacy Policy : KOOLSKOOL.in
 
 This privacy policy sets out how KOOLSKOOL uses and protects any information that you give KOOLSKOOL when you use this website. KOOLSKOOL is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -84,4 +84,4 @@ You can be assured that KOOLSKOOL offers you the highest standards of security c
 
 #### Storage of Credit Card Information
 
-KOOLSKOOL does not collect or store your credit card/bank account information at all. Axis Bank/CCAvenue authorizes the transaction directly without any information passing through us.
+KOOLSKOOL does not collect or store your credit card/bank account information at all. Citibanl/Axis Bank/CCAvenue/PayU/Paypal authorizes the transaction directly without any information passing through us.
