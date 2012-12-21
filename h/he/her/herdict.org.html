@@ -1,24 +1,31 @@
-<!--The following is the downloaded HTML source of the herdict.org privacy policy that was archived on 2012-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622044044id_/http%3A//www.herdict.org/privacy/en) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the herdict.org privacy policy that was archived on 2012-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121221012615id_/http%3A//www.herdict.org/privacy/en) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-          <title>HerdictWeb : About</title>
-          
-          <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7; IE=EmulateIE9">
+        <title>Herdict : About</title>
+        
+        <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7; IE=EmulateIE9">
 
-         
-          <link rel="stylesheet" type="text/css" href="/includes/css/global.css?v2">
-          
-          <link rel="stylesheet" type="text/css" href="/includes/css/global_en.css?v2">
-          <link rel="stylesheet" type="text/css" href="/includes/css/interior.css?v2">
-          
-          <link rel="stylesheet" type="text/css" href="/includes/css/interior_en.css?v2">
-          <link rel="stylesheet" type="text/css" href="/includes/css/jquery-ui-1.8.7.custom.css">
+        
+        <link rel="stylesheet" type="text/css" href="/includes/css/global.css?v2">
+        <link rel="stylesheet" type="text/css" href="/includes/css/colors.css">
+        <link rel="stylesheet" type="text/css" href="/includes/css/fonts.css">
+        
+        <link rel="stylesheet" type="text/css" href="/includes/css/global_en.css?v2">
+        <link rel="stylesheet" type="text/css" href="/includes/css/interior.css?v2">
+        
+        <link rel="stylesheet" type="text/css" href="/includes/css/interior_en.css?v2">
+        <link rel="stylesheet" type="text/css" href="/includes/css/jquery-ui-1.8.7.custom.css">
+        <!--[if lt IE 9]>
+            <link rel="stylesheet" type="text/css" href="/includes/css/ie8.css"/>
+        <![endif]-->
+        <!--[if lt IE 8]>
+            <link rel="stylesheet" type="text/css" href="/includes/css/ie7.css"/>
+        <![endif]-->
+        <link rel="stylesheet" type="text/css" media="print" href="/includes/css/print.css?v2">
 
-          <link rel="stylesheet" type="text/css" media="print" href="/includes/css/print.css?v2">
-
-          
-          
+        
+        
 
 <script type="text/javascript">
 
@@ -58,277 +65,385 @@
 </script>
 
 
-          <script type="text/javascript" src="/localizedstrings"></script>
+        <script type="text/javascript" src="/localizedstrings"></script>
 
-          
-          <script type="text/javascript" src="/includes/js/jquery-1.4.4.min.js"></script>
-          <script type="text/javascript" src="/includes/js/jquery-ui-1.8.9.stable.min.js"></script>
-          <script type="text/javascript" src="/includes/js/jquery.ba-bbq.min.js"></script>
+        
+        <script type="text/javascript" src="/includes/js/jquery-1.7.1.min.js"></script>
+        <script type="text/javascript" src="/includes/js/jquery-ui-1.8.9.stable.min.js"></script>
+        <script type="text/javascript" src="/includes/js/jquery.ba-bbq.min.js"></script>
+        <script type="text/javascript" src="/includes/js/jquery.microtemplating.js"></script>
+        <script type="text/javascript" src="/includes/js/date.js"></script>
 
-          
-          <script type="text/javascript" src="/includes/js/utils.js?v2"></script>
-          <script type="text/javascript" charset="utf-8" src="/includes/js/global.js?v2"></script>
+        
+        <script type="text/javascript" src="/includes/js/utils.js?v2"></script>
+        <script type="text/javascript" charset="utf-8" src="/includes/js/global.js?v2"></script>
+        <script type="text/javascript" charset="utf-8" src="/includes/js/reporter.js?v2"></script>
 
-          
-                   
-
-          
-          <link rel="alternate" type="application/rss+xml" title="All Herdict Reports" href="/rss/en">
-          <link rel="alternate" type="application/rss+xml" title="Inaccessible Herdict Reports" href="/rss/en/inaccessible">
-
-          
-          
-
-          <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
-      </head>
-
-      <body class="about en">
         
         
-            <div id="header-wrapper">
 
-                  <div id="header" class="no-print">
-                      <a href="/" id="logo">HerdictWeb</a>
-                      <ul id="nav-main" class="about">
-                          <li class="explore topmenu">
-                              <a href="/explore/indepth">Explore</a>
-                              <ul class="submenu">
-                                  <li>
-                                    <a class="map" href="/explore/map">Interactive Map</a>
-                                  </li>
-                                  <li>
-                                    <a class="time" href="/explore/time">Time Graph</a>
-                                  </li>
-                                  <li>
-                                    <a class="data" href="/explore/data">Raw Data Feed</a>
-                                  </li>
-                                  <li>
-                                    <a class="indepth" href="/explore/indepth">In-Depth Sheets</a>
-                                  </li>
-                                  <li class="find-report">
+        
+        <link rel="alternate" type="application/rss+xml" title="All Herdict Reports" href="/rss/en">
+        <link rel="alternate" type="application/rss+xml" title="Inaccessible Herdict Reports" href="/rss/en/inaccessible">
+
+        
+        
+
+        <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
+
+        <script type="text/javascript">
+            $(document).ready(function() {
+                var params = Herdict.getParams();
+                if (params.hasOwnProperty("url")) {
+                    Reporter.show(params["url"]);
+                }
+                else if ((params.hasOwnProperty("showReporter")
+                          && params["showReporter"])
+                         || (params.hasOwnProperty("r")
+                             && params["r"])) {
+                    Reporter.show();
+                }
+            });
+        </script>
+    </head>
+
+    <body class="about en">
+        
+        
+            
+                <div id="help-hover"></div>
+                <div id="overlay-background" style="display: none;">
+                    <div id="overlay-background-body"></div>
+                </div>
+                
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    
+</script>
+
+<div id="reporter" class="overlay clearfix">
+    <div id="reporter__header">
+        <strong style="text-transform: uppercase;">Reporter:</strong>
+        Test Sites
+        <a id="reporter__close" href="#" onclick="$('#overlay-background').click(); return false;">
+            <img src="/includes/img/global/btn_close.png">
+        </a>
+    </div>
+
+    <div id="reporter__listsandqueue" class="clearfix">
+        <div id="reporter__lists">
+            <div class="title">Lists</div>
+            <ul style="min-height: 300px; position: relative;">
+                <img class="busy" src="/includes/img/global/busy.gif">
+                <script type="html/javascript" id="reporter__lists__tmpl">
+                    <! clazz = (typeof clazz == 'undefined') ? '' : clazz; !>
+                    <! style = (typeof style == 'undefined') ? '' : style; !>
+                    <! for (var i=0; i<lists.length; i++) { !>
+                        <li class="<!=clazz!>" data-id="<!=lists[i].id!>" style="<!=style!>">
+                            <a href="#">
+                                <! if (lists[i].colorImageUrl) { !>
+                                    <img src="<!=lists[i].colorImageUrl!>"/>
+                                <! } else { !>
+                                    <!=lists[i].user.username!>
+                                <! } !>
+                            </a>
+                        </li>
+                    <! } !>
+                </script>
+            </ul>
+            <div class="footer">
+                <a class="up" href="#"><img src="/includes/img/global/icon_arrow_white_up.png"></a>
+                <a class="down" href="#"><img src="/includes/img/global/icon_arrow_white_down.png"></a>
+            </div>
+        </div>
+
+        <div id="reporter__queue" style="display: none;">
+            <div id="reporter__queue__instructions">
+                Help Us By Testing These Sites
+            </div>
+            <ul style="min-height: 300px; position: relative;">
+                <img class="busy" src="/includes/img/global/busy.gif">
+                <script type="html/javascript" id="reporter__queue__tmpl">
+                    <! for (var i=0; i<pages.length; i++) { !>
+                        <! if (pages[i].safe && !pages[i].site.hide) { !>
+                            <li <!=(0 == i) ? 'class="active first"' : ""!>
+                                data-id="<!=pages[i].id!>"
+                                data-site-id="<!=pages[i].site.id!>"
+                                data-url="<!=escape(pages[i].url)!>"
+                                data-unframeable="<!=(pages[i].site.hasOwnProperty('hideFromReporter')) ? pages[i].site.hideFromReporter : ''!>"
+                                data-hide="false">
+                                <a href="#" title="<!=escape(pages[i].url)!>">
+                                    <img src="/images/thumbnails/WEB/<!=pages[i].id!>.png"/>
+                                    <div class="reporttype"></div>
+                                </a>
+                            </li>
+                        <! } !>
+                    <! } !>
+                </script>
+            </ul>
+        </div>
+    </div>
+
+    <div id="reporter__body">
+        <span id="reporter__url"></span>
+        
+
+        <form style="margin-bottom: 10px; text-align: center;" action="/ajax/reports" method="post">
+            <input type="hidden" id="reporter__reportUrl" name="report.url">
+            <input type="hidden" id="reporter__reportType" name="report.reportType">
+            <input type="text" id="honey" name="honey">
+
+            <div id="reporter__testarea">
+                <div id="reporter__iframewrapper">
+                    <iframe src=""></iframe>
+                </div>
+                <div id="no-iframe">
+                    <table>
+                        <tbody><tr>
+                            <td style="height: 284px; padding: 0 20px; vertical-align: middle;">
+                                The site you are testing cannot be displayed in this window. To test this site, click <a href="#" target="testWindow">here</a> to open it in a new window. Then, return to this page and select "accessible" or "inaccessible."
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </div>
+                <div id="reporter__details">
+                    <fieldset>
+                        <legend>User</legend>
+                        <label for="report.country.shortName">Country</label>
+                        <select name="report.country.shortName" onchange="document.getElementById('isp').value = ''">
+                            <option value="AF">Afghanistan</option><option value="AX">Aland Islands</option><option value="AL">Albania</option><option value="DZ">Algeria</option><option value="AS">American Samoa</option><option value="AD">Andorra</option><option value="AO">Angola</option><option value="AI">Anguilla</option><option value="AQ">Antarctica</option><option value="AG">Antigua and Barbuda</option><option value="AR">Argentina</option><option value="AM">Armenia</option><option value="AW">Aruba</option><option value="AU">Australia</option><option value="AT">Austria</option><option value="AZ">Azerbaijan</option><option value="BH">Bahrain</option><option value="BD">Bangladesh</option><option value="BB">Barbados</option><option value="BY">Belarus</option><option value="BE">Belgium</option><option value="BZ">Belize</option><option value="BJ">Benin</option><option value="BM">Bermuda</option><option value="BT">Bhutan</option><option value="BO">Bolivia</option><option value="BA">Bosnia and Herzegovina</option><option value="BW">Botswana</option><option value="BV">Bouvet Island</option><option value="BR">Brazil</option><option value="VG">British Virgin Islands</option><option value="BN">Brunei</option><option value="BG">Bulgaria</option><option value="BF">Burkina Faso</option><option value="BI">Burundi</option><option value="KH">Cambodia</option><option value="CM">Cameroon</option><option value="CA">Canada</option><option value="CV">Cape Verde</option><option value="KY">Cayman Islands</option><option value="CF">Central African Republic</option><option value="TD">Chad</option><option value="IO">Chagos Islands</option><option value="CL">Chile</option><option value="CN">China</option><option value="CO">Colombia</option><option value="KM">Comoros</option><option value="CG">Congo</option><option value="CK">Cook Islands</option><option value="CR">Costa Rica</option><option value="HR">Croatia</option><option value="CU">Cuba</option><option value="CY">Cyprus</option><option value="CZ">Czech Republic</option><option value="DK">Denmark</option><option value="DJ">Djibouti</option><option value="DM">Dominica</option><option value="DO">Dominican Republic</option><option value="CD">DR Congo</option><option value="TL">East Timor</option><option value="EC">Ecuador</option><option value="EG">Egypt</option><option value="SV">El Salvador</option><option value="GQ">Equatorial Guinea</option><option value="ER">Eritrea</option><option value="EE">Estonia</option><option value="ET">Ethiopia</option><option value="FK">Falkland Islands</option><option value="FO">Faroe Islands</option><option value="FJ">Fiji</option><option value="FI">Finland</option><option value="FR">France</option><option value="GF">French Guiana</option><option value="PF">French Polynesia</option><option value="GA">Gabon</option><option value="GM">Gambia</option><option value="GE">Georgia</option><option value="DE">Germany</option><option value="GH">Ghana</option><option value="GI">Gibraltar</option><option value="GR">Greece</option><option value="GL">Greenland</option><option value="GD">Grenada</option><option value="GP">Guadeloupe</option><option value="GU">Guam</option><option value="GT">Guatemala</option><option value="GG">Guernsey</option><option value="GN">Guinea</option><option value="GW">Guinea-Bissau</option><option value="GY">Guyana</option><option value="HT">Haiti</option><option value="HM">Heard Island &amp; McDonald Islands</option><option value="HN">Honduras</option><option value="HK">Hong Kong</option><option value="HU">Hungary</option><option value="IS">Iceland</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IR">Iran</option><option value="IQ">Iraq</option><option value="IE">Ireland</option><option value="IM">Isle of Man</option><option value="IL">Israel</option><option value="IT">Italy</option><option value="CI">Ivory Coast</option><option value="JM">Jamaica</option><option value="JP">Japan</option><option value="JE">Jersey</option><option value="JO">Jordan</option><option value="KZ">Kazakhstan</option><option value="KE">Kenya</option><option value="KI">Kiribati</option><option value="KW">Kuwait</option><option value="KG">Kyrgyzstan</option><option value="LA">Laos</option><option value="LV">Latvia</option><option value="LB">Lebanon</option><option value="LS">Lesotho</option><option value="LR">Liberia</option><option value="LY">Libya</option><option value="LI">Liechtenstein</option><option value="LT">Lithuania</option><option value="LU">Luxembourg</option><option value="MO">Macao</option><option value="MK">Macedonia</option><option value="MG">Madagascar</option><option value="MW">Malawi</option><option value="MY">Malaysia</option><option value="MV">Maldives</option><option value="ML">Mali</option><option value="MT">Malta</option><option value="MH">Marshall Islands</option><option value="MQ">Martinique</option><option value="MR">Mauritania</option><option value="MU">Mauritius</option><option value="YT">Mayotte</option><option value="MX">Mexico</option><option value="FM">Micronesia</option><option value="MD">Moldova</option><option value="MC">Monaco</option><option value="MN">Mongolia</option><option value="ME">Montenegro</option><option value="MS">Montserrat</option><option value="MA">Morocco</option><option value="MZ">Mozambique</option><option value="MM">Myanmar</option><option value="NA">Namibia</option><option value="NR">Nauru</option><option value="NP">Nepal</option><option value="AN">Netherlands Antilles</option><option value="NC">New Caledonia</option><option value="NZ">New Zealand</option><option value="NI">Nicaragua</option><option value="NE">Niger</option><option value="NG">Nigeria</option><option value="NU">Niue</option><option value="NF">Norfolk Island</option><option value="MP">Northern Mariana Islands</option><option value="KP">North Korea</option><option value="NO">Norway</option><option value="OM">Oman</option><option value="PK">Pakistan</option><option value="PW">Palau</option><option value="PA">Panama</option><option value="PG">Papua New Guinea</option><option value="PY">Paraguay</option><option value="PE">Peru</option><option value="PH">Philippines</option><option value="PN">Pitcairn Islands</option><option value="PL">Poland</option><option value="PT">Portugal</option><option value="PR">Puerto Rico</option><option value="QA">Qatar</option><option value="RE">Reunion</option><option value="RO">Romania</option><option value="RU">Russia</option><option value="RW">Rwanda</option><option value="GS">S. Georgia &amp; S. Sandwich Islands</option><option value="KN">Saint Kitts and Nevis</option><option value="LC">Saint Lucia</option><option value="WS">Samoa</option><option value="SM">San Marino</option><option value="ST">Sao Tome and Principe</option><option value="SA">Saudi Arabia</option><option value="SN">Senegal</option><option value="RS">Serbia</option><option value="CS">Serbia and Montenegro</option><option value="SC">Seychelles</option><option value="SL">Sierra Leone</option><option value="SG">Singapore</option><option value="SK">Slovakia</option><option value="SI">Slovenia</option><option value="SB">Solomon Islands</option><option value="SO">Somalia</option><option value="ZA">South Africa</option><option value="KR">South Korea</option><option value="ES">Spain</option><option value="LK">Sri Lanka</option><option value="VC">St. Vincent &amp; Grenadines</option><option value="SD">Sudan</option><option value="SR">Suriname</option><option value="SZ">Swaziland</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="SY">Syria</option><option value="TW">Taiwan</option><option value="TJ">Tajikistan</option><option value="TZ">Tanzania</option><option value="TH">Thailand</option><option value="BS">The Bahamas</option><option value="NL">The Netherlands</option><option value="TG">Togo</option><option value="TK">Tokelau</option><option value="TO">Tonga</option><option value="TT">Trinidad and Tobago</option><option value="TN">Tunisia</option><option value="TR">Turkey</option><option value="TM">Turkmenistan</option><option value="TC">Turks and Caicos Islands</option><option value="TV">Tuvalu</option><option value="UG">Uganda</option><option value="UA">Ukraine</option><option value="AE">United Arab Emirates</option><option value="UK">United Kingdom</option><option selected="selected" value="US">United States</option><option value="UY">Uruguay</option><option value="UM">US Minor Outlying Islands</option><option value="VI">US Virgin Islands</option><option value="UZ">Uzbekistan</option><option value="VU">Vanuatu</option><option value="VA">Vatican City</option><option value="VE">Venezuela</option><option value="VN">Vietnam</option><option value="WF">Wallis and Futuna</option><option value="PS">West Bank and Gaza</option><option value="EH">Western Sahara</option><option value="YE">Yemen</option><option value="ZM">Zambia</option><option value="ZW">Zimbabwe</option>
+                        </select>
+                        <a href="#" class="help" helptext="Select the country from which you are currently browsing. Once you have selected a country, Herdict Web will remember it for the rest of your session">(<strong>?</strong>)</a>
+
+                        <label for="report.ispName">ISP</label>
+                        <input id="isp" name="report.ispName" value="AMAZON.COM INC" class="text" type="text" size="60">
+                        <a href="#" class="help" helptext="This is the name of your Internet Service Provider (ISP).">(<strong>?</strong>)</a>
+
+                        <label for="report.location">Access Location</label>
+                        <select name="report.location">
+                            <option value="">Choose your location</option>
+                            <option value="location.home">Home</option><option value="location.work">Work</option><option value="location.school">School</option><option value="location.library">Library</option><option value="location.cybercafe">Cybercafe</option><option value="location.publicwifi">Public wifi</option><option value="location.other">Other</option>
+                        </select>
+                        <a href="#" class="help" helptext="Select your current location (e.g., home, work, school).">(<strong>?</strong>)</a>
+                    </fieldset>
+                    <fieldset>
+                        <legend>URL</legend>
+
+                        <label for="report.tag">Site Category</label>
+                        <select name="report.tag">
+                            <option value="">Choose a category</option>
+                            <optgroup label="Political"><option value="tag.political.humanrights">Human Rights</option><option value="tag.political.news">News/Information</option><option value="tag.political.politics">Politics</option><option value="tag.political.religion">Religion</option></optgroup><optgroup label="Social"><option value="tag.social.entertainment">Entertainment/Gaming</option><option value="tag.social.health">Health</option><option value="tag.social.networks">Social networks/communities</option><option value="tag.social.sexual">Sexually explicit</option></optgroup><optgroup label="Internet Tools"><option value="tag.tools.blog">Blogs/blogging platforms</option><option value="tag.tools.p2p">P2P/bittorrent/file-sharing</option><option value="tag.tools.tools">Internet tools/proxies</option>
+                            </optgroup><optgroup label="Other">
+                                <option value="_other">Other</option>
+                            </optgroup>
+                        </select>
+                        <a href="#" class="help" helptext="Select the category that best describes the site you are testing.">(<strong>?</strong>)</a>
+
+                        <label for="report.comments">Comments</label>
+                        <textarea id="report.comments" name="report.comments"></textarea>
+                    </fieldset>
+                </div>
+            </div>
+            <a href="#" id="reporter__detailslink">
+                <span id="reporter__showdetails">Add details to report »</span>
+                <span id="reporter__hidedetails">Fewer details »</span>
+            </a><br>
+            <br>
+
+            <a class="submit accessible" data-reporttype="ACCESSIBLE" href="#" style="margin: 0 20px;">
+                Accessible
+            </a>
+            <a class="submit inaccessible" data-reporttype="INACCESSIBLE" href="#">
+                Inaccessible
+            </a>
+            
+        <div style="display: none;"><input type="hidden" name="_sourcePage" value="ySy23gGKUcWK0UZ4U8kCl7vnzTRNPCdA2iffADSFzGSZCPw_v2t6aA=="><input type="hidden" name="__fp" value="4XEGysSqhW5ErfCjTBA60RDg096X3wIjQRddM1U4tBdTxVG4QtABQUTPbxOCNMy_CyX0SMaPGRfbKVaAN2ZBUQ=="></div></form>
+
+        <div style="text-align: center;">
+            We collect limited information when you report sites.
+            <a href="/privacy" onclick="window.onbeforeunload = null;">
+                Learn more here.
+            </a>
+        </div>
+    </div>
+    <div id="reporter__listdone" style="display: none; float: right; margin-right: 15px; width: 520px;">
+        <table style="height: 440px;">
+            <tbody><tr>
+                <td style="vertical-align: middle;">
+                    You have finished this list. <a href="#">Click to move onto the next list</a>, or choose another list to the left.
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+</div>
+
+                
+                <div id="header-wrapper">
+                    <div id="header" class="no-print">
+                        <a href="/" id="logo">HerdictWeb</a>
+                        
+                        <ul id="nav-main">
+                            <li class="explore topmenu">
+                                <a href="/explore/indepth">Explore</a>
+                                <ul class="submenu clearfix">
+                                    <li>
+                                        <a class="indepth" href="/explore/indepth">At-A-Glance</a>
+                                    </li>
+                                    <li>
+                                        <a class="map" href="/explore/map">Interactive Map</a>
+                                    </li>
+                                    <li>
+                                        <a class="time" href="/explore/time">Time Graph</a>
+                                    </li>
+                                    <li>
+                                        <a class="data" href="/explore/data/view">Raw Data Feed</a>
+                                    </li>
+                                    <li class="find-report">
                                         
                                         Find a specific report
-                                        <input class="find-site ui-autocomplete-input" value="Type a URL" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+                                        <input id="nav-main-url" class="find-site ui-autocomplete-input" value="Type a URL" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
                                         <select name="reportCountry" class="find-country">
                                             <option value="">
                                                 Choose a country
                                             </option>
-                                            <option value="AF">Afghanistan</option><option value="AX">Aland Islands</option><option value="AL">Albania</option><option value="DZ">Algeria</option><option value="AS">American Samoa</option><option value="AD">Andorra</option><option value="AO">Angola</option><option value="AI">Anguilla</option><option value="AQ">Antarctica</option><option value="AG">Antigua and Barbuda</option><option value="AR">Argentina</option><option value="AM">Armenia</option><option value="AW">Aruba</option><option value="AU">Australia</option><option value="AT">Austria</option><option value="AZ">Azerbaijan</option><option value="BH">Bahrain</option><option value="BD">Bangladesh</option><option value="BB">Barbados</option><option value="BY">Belarus</option><option value="BE">Belgium</option><option value="BZ">Belize</option><option value="BJ">Benin</option><option value="BM">Bermuda</option><option value="BT">Bhutan</option><option value="BO">Bolivia</option><option value="BA">Bosnia and Herzegovina</option><option value="BW">Botswana</option><option value="BR">Brazil</option><option value="VG">British Virgin Islands</option><option value="BN">Brunei</option><option value="BG">Bulgaria</option><option value="BF">Burkina Faso</option><option value="BI">Burundi</option><option value="KH">Cambodia</option><option value="CM">Cameroon</option><option value="CA">Canada</option><option value="CV">Cape Verde</option><option value="KY">Cayman Islands</option><option value="CF">Central African Republic</option><option value="TD">Chad</option><option value="IO">Chagos Islands</option><option value="CL">Chile</option><option value="CN">China</option><option value="CO">Colombia</option><option value="KM">Comoros</option><option value="CK">Cook Islands</option><option value="CR">Costa Rica</option><option value="HR">Croatia</option><option value="CU">Cuba</option><option value="CY">Cyprus</option><option value="CZ">Czech Republic</option><option value="DK">Denmark</option><option value="DJ">Djibouti</option><option value="DM">Dominica</option><option value="DO">Dominican Republic</option><option value="CD">DR Congo</option><option value="TL">East Timor</option><option value="EC">Ecuador</option><option value="EG">Egypt</option><option value="SV">El Salvador</option><option value="GQ">Equatorial Guinea</option><option value="ER">Eritrea</option><option value="EE">Estonia</option><option value="ET">Ethiopia</option><option value="FK">Falkland Islands</option><option value="FO">Faroe Islands</option><option value="FJ">Fiji</option><option value="FI">Finland</option><option value="FR">France</option><option value="GF">French Guiana</option><option value="PF">French Polynesia</option><option value="GA">Gabon</option><option value="GM">Gambia</option><option value="GE">Georgia</option><option value="DE">Germany</option><option value="GH">Ghana</option><option value="GI">Gibraltar</option><option value="GR">Greece</option><option value="GL">Greenland</option><option value="GD">Grenada</option><option value="GU">Guam</option><option value="GT">Guatemala</option><option value="GG">Guernsey</option><option value="GN">Guinea</option><option value="GW">Guinea-Bissau</option><option value="GY">Guyana</option><option value="HT">Haiti</option><option value="HM">Heard Island &amp; McDonald Islands</option><option value="HN">Honduras</option><option value="HK">Hong Kong</option><option value="HU">Hungary</option><option value="IS">Iceland</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IR">Iran</option><option value="IQ">Iraq</option><option value="IE">Ireland</option><option value="IM">Isle of Man</option><option value="IL">Israel</option><option value="IT">Italy</option><option value="CI">Ivory Coast</option><option value="JM">Jamaica</option><option value="JP">Japan</option><option value="JE">Jersey</option><option value="JO">Jordan</option><option value="KZ">Kazakhstan</option><option value="KE">Kenya</option><option value="KI">Kiribati</option><option value="KW">Kuwait</option><option value="KG">Kyrgyzstan</option><option value="LA">Laos</option><option value="LV">Latvia</option><option value="LB">Lebanon</option><option value="LS">Lesotho</option><option value="LR">Liberia</option><option value="LY">Libya</option><option value="LI">Liechtenstein</option><option value="LT">Lithuania</option><option value="LU">Luxembourg</option><option value="MO">Macao</option><option value="MK">Macedonia</option><option value="MG">Madagascar</option><option value="MW">Malawi</option><option value="MY">Malaysia</option><option value="MV">Maldives</option><option value="ML">Mali</option><option value="MT">Malta</option><option value="MH">Marshall Islands</option><option value="MQ">Martinique</option><option value="MR">Mauritania</option><option value="MU">Mauritius</option><option value="YT">Mayotte</option><option value="MX">Mexico</option><option value="FM">Micronesia</option><option value="MD">Moldova</option><option value="MC">Monaco</option><option value="MN">Mongolia</option><option value="ME">Montenegro</option><option value="MS">Montserrat</option><option value="MA">Morocco</option><option value="MZ">Mozambique</option><option value="MM">Myanmar</option><option value="NA">Namibia</option><option value="NP">Nepal</option><option value="AN">Netherlands Antilles</option><option value="NC">New Caledonia</option><option value="NZ">New Zealand</option><option value="NI">Nicaragua</option><option value="NE">Niger</option><option value="NG">Nigeria</option><option value="NU">Niue</option><option value="NF">Norfolk Island</option><option value="KP">North Korea</option><option value="MP">Northern Mariana Islands</option><option value="NO">Norway</option><option value="OM">Oman</option><option value="PK">Pakistan</option><option value="PW">Palau</option><option value="PA">Panama</option><option value="PG">Papua New Guinea</option><option value="PY">Paraguay</option><option value="PE">Peru</option><option value="PH">Philippines</option><option value="PN">Pitcairn Islands</option><option value="PL">Poland</option><option value="PT">Portugal</option><option value="PR">Puerto Rico</option><option value="QA">Qatar</option><option value="RE">Reunion</option><option value="RO">Romania</option><option value="RU">Russia</option><option value="RW">Rwanda</option><option value="GS">S. Georgia &amp; S. Sandwich Islands</option><option value="KN">Saint Kitts and Nevis</option><option value="LC">Saint Lucia</option><option value="WS">Samoa</option><option value="SM">San Marino</option><option value="SA">Saudi Arabia</option><option value="SN">Senegal</option><option value="RS">Serbia</option><option value="CS">Serbia and Montenegro</option><option value="SC">Seychelles</option><option value="SL">Sierra Leone</option><option value="SG">Singapore</option><option value="SK">Slovakia</option><option value="SI">Slovenia</option><option value="SB">Solomon Islands</option><option value="SO">Somalia</option><option value="ZA">South Africa</option><option value="KR">South Korea</option><option value="ES">Spain</option><option value="LK">Sri Lanka</option><option value="VC">St. Vincent &amp; Grenadines</option><option value="SD">Sudan</option><option value="SR">Suriname</option><option value="SZ">Swaziland</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="SY">Syria</option><option value="TW">Taiwan</option><option value="TJ">Tajikistan</option><option value="TZ">Tanzania</option><option value="TH">Thailand</option><option value="BS">The Bahamas</option><option value="NL">The Netherlands</option><option value="TG">Togo</option><option value="TK">Tokelau</option><option value="TO">Tonga</option><option value="TT">Trinidad and Tobago</option><option value="TN">Tunisia</option><option value="TR">Turkey</option><option value="TM">Turkmenistan</option><option value="TC">Turks and Caicos Islands</option><option value="TV">Tuvalu</option><option value="UG">Uganda</option><option value="UA">Ukraine</option><option value="AE">United Arab Emirates</option><option value="UK">United Kingdom</option><option value="US">United States</option><option value="UY">Uruguay</option><option value="UM">US Minor Outlying Islands</option><option value="VI">US Virgin Islands</option><option value="UZ">Uzbekistan</option><option value="VU">Vanuatu</option><option value="VA">Vatican City</option><option value="VE">Venezuela</option><option value="VN">Vietnam</option><option value="WF">Wallis and Futuna</option><option value="PS">West Bank and Gaza</option><option value="EH">Western Sahara</option><option value="YE">Yemen</option><option value="ZM">Zambia</option><option value="ZW">Zimbabwe</option>
+                                            <option value="AF">Afghanistan</option><option value="AX">Aland Islands</option><option value="AL">Albania</option><option value="DZ">Algeria</option><option value="AS">American Samoa</option><option value="AD">Andorra</option><option value="AO">Angola</option><option value="AI">Anguilla</option><option value="AQ">Antarctica</option><option value="AG">Antigua and Barbuda</option><option value="AR">Argentina</option><option value="AM">Armenia</option><option value="AW">Aruba</option><option value="AT">Austria</option><option value="AZ">Azerbaijan</option><option value="BH">Bahrain</option><option value="BD">Bangladesh</option><option value="BB">Barbados</option><option value="BY">Belarus</option><option value="BE">Belgium</option><option value="BZ">Belize</option><option value="BJ">Benin</option><option value="BM">Bermuda</option><option value="BT">Bhutan</option><option value="BO">Bolivia</option><option value="BA">Bosnia and Herzegovina</option><option value="BW">Botswana</option><option value="BN">Brunei</option><option value="BG">Bulgaria</option><option value="BF">Burkina Faso</option><option value="BI">Burundi</option><option value="CM">Cameroon</option><option value="CA">Canada</option><option value="CV">Cape Verde</option><option value="KY">Cayman Islands</option><option value="CF">Central African Republic</option><option value="IO">Chagos Islands</option><option value="CL">Chile</option><option value="CO">Colombia</option><option value="KM">Comoros</option><option value="CK">Cook Islands</option><option value="CR">Costa Rica</option><option value="HR">Croatia</option><option value="CU">Cuba</option><option value="CY">Cyprus</option><option value="CZ">Czech Republic</option><option value="CD">DR Congo</option><option value="DM">Dominica</option><option value="DO">Dominican Republic</option><option value="EC">Ecuador</option><option value="EG">Egypt</option><option value="SV">El Salvador</option><option value="GQ">Equatorial Guinea</option><option value="ET">Ethiopia</option><option value="FK">Falkland Islands</option><option value="FO">Faroe Islands</option><option value="FJ">Fiji</option><option value="FI">Finland</option><option value="FR">France</option><option value="GF">French Guiana</option><option value="PF">French Polynesia</option><option value="GA">Gabon</option><option value="GM">Gambia</option><option value="GE">Georgia</option><option value="DE">Germany</option><option value="GH">Ghana</option><option value="GI">Gibraltar</option><option value="GR">Greece</option><option value="GL">Greenland</option><option value="GD">Grenada</option><option value="GU">Guam</option><option value="GT">Guatemala</option><option value="GG">Guernsey</option><option value="GN">Guinea</option><option value="GW">Guinea-Bissau</option><option value="GY">Guyana</option><option value="HT">Haiti</option><option value="HM">Heard Island &amp; McDonald Islands</option><option value="HN">Honduras</option><option value="IS">Iceland</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IR">Iran</option><option value="IQ">Iraq</option><option value="IM">Isle of Man</option><option value="IT">Italy</option><option value="CI">Ivory Coast</option><option value="JM">Jamaica</option><option value="JP">Japan</option><option value="JE">Jersey</option><option value="JO">Jordan</option><option value="KZ">Kazakhstan</option><option value="KE">Kenya</option><option value="KI">Kiribati</option><option value="LA">Laos</option><option value="LV">Latvia</option><option value="LB">Lebanon</option><option value="LS">Lesotho</option><option value="LR">Liberia</option><option value="LY">Libya</option><option value="LI">Liechtenstein</option><option value="LT">Lithuania</option><option value="LU">Luxembourg</option><option value="MO">Macao</option><option value="MK">Macedonia</option><option value="MG">Madagascar</option><option value="MW">Malawi</option><option value="MV">Maldives</option><option value="ML">Mali</option><option value="MT">Malta</option><option value="MQ">Martinique</option><option value="MR">Mauritania</option><option value="MU">Mauritius</option><option value="YT">Mayotte</option><option value="MX">Mexico</option><option value="FM">Micronesia</option><option value="MD">Moldova</option><option value="MC">Monaco</option><option value="MN">Mongolia</option><option value="ME">Montenegro</option><option value="MS">Montserrat</option><option value="MA">Morocco</option><option value="MZ">Mozambique</option><option value="NA">Namibia</option><option value="AN">Netherlands Antilles</option><option value="NC">New Caledonia</option><option value="NZ">New Zealand</option><option value="NI">Nicaragua</option><option value="NE">Niger</option><option value="NU">Niue</option><option value="NF">Norfolk Island</option><option value="KP">North Korea</option><option value="MP">Northern Mariana Islands</option><option value="OM">Oman</option><option value="PW">Palau</option><option value="PA">Panama</option><option value="PG">Papua New Guinea</option><option value="PY">Paraguay</option><option value="PE">Peru</option><option value="PN">Pitcairn Islands</option><option value="PL">Poland</option><option value="PT">Portugal</option><option value="PR">Puerto Rico</option><option value="QA">Qatar</option><option value="RE">Reunion</option><option value="RO">Romania</option><option value="RU">Russia</option><option value="RW">Rwanda</option><option value="GS">S. Georgia &amp; S. Sandwich Islands</option><option value="KN">Saint Kitts and Nevis</option><option value="LC">Saint Lucia</option><option value="WS">Samoa</option><option value="SM">San Marino</option><option value="SA">Saudi Arabia</option><option value="SN">Senegal</option><option value="RS">Serbia</option><option value="SC">Seychelles</option><option value="SL">Sierra Leone</option><option value="SK">Slovakia</option><option value="SI">Slovenia</option><option value="SB">Solomon Islands</option><option value="SO">Somalia</option><option value="ZA">South Africa</option><option value="KR">South Korea</option><option value="LK">Sri Lanka</option><option value="VC">St. Vincent &amp; Grenadines</option><option value="SD">Sudan</option><option value="SR">Suriname</option><option value="SZ">Swaziland</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="SY">Syria</option><option value="TJ">Tajikistan</option><option value="TH">Thailand</option><option value="BS">The Bahamas</option><option value="NL">The Netherlands</option><option value="TG">Togo</option><option value="TK">Tokelau</option><option value="TO">Tonga</option><option value="TT">Trinidad and Tobago</option><option value="TR">Turkey</option><option value="TM">Turkmenistan</option><option value="TC">Turks and Caicos Islands</option><option value="TV">Tuvalu</option><option value="UM">US Minor Outlying Islands</option><option value="VI">US Virgin Islands</option><option value="UA">Ukraine</option><option value="UY">Uruguay</option><option value="UZ">Uzbekistan</option><option value="VU">Vanuatu</option><option value="VA">Vatican City</option><option value="VE">Venezuela</option><option value="VN">Vietnam</option><option value="WF">Wallis and Futuna</option><option value="PS">West Bank and Gaza</option><option value="EH">Western Sahara</option><option value="YE">Yemen</option><option value="ZM">Zambia</option><option value="ZW">Zimbabwe</option><option value="VG">British Virgin Islands</option><option value="IE">Ireland</option><option value="ES">Spain</option><option value="CN">China</option><option value="MY">Malaysia</option><option value="MM">Myanmar</option><option value="AE">United Arab Emirates</option><option value="CS">Serbia and Montenegro</option><option value="UK">United Kingdom</option><option value="US">United States</option><option value="TN">Tunisia</option><option value="UG">Uganda</option><option value="PH">Philippines</option><option value="TD">Chad</option><option value="ER">Eritrea</option><option value="EE">Estonia</option><option value="TL">East Timor</option><option value="DK">Denmark</option><option value="IL">Israel</option><option value="HU">Hungary</option><option value="TW">Taiwan</option><option value="KG">Kyrgyzstan</option><option value="DJ">Djibouti</option><option value="TZ">Tanzania</option><option value="NG">Nigeria</option><option value="NP">Nepal</option><option value="PK">Pakistan</option><option value="BR">Brazil</option><option value="NO">Norway</option><option value="SG">Singapore</option><option value="KH">Cambodia</option><option value="AU">Australia</option><option value="KW">Kuwait</option><option value="HK">Hong Kong</option><option value="MH">Marshall Islands</option>
                                         </select>
-                                  </li>
-                              </ul>
-                          </li>
-                          <li class="participate topmenu">
-                              <a href="/participate/reporter">Participate</a>
-                              <ul class="submenu">
-                                  <li>
-                                    <a class="reporter" href="/participate/reporter">Test Sites Using Herdict Reporter</a>
-                                  </li>
-                                  <li>
-                                    <a class="download" href="/participate/download">Download Add-on</a>
-                                  </li>
-                                  <li>
-                                    <a class="other last" href="/participate/other">More Ways to Report</a>
-                                  </li>
-                              </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="participate topmenu">
+                                <a href="/lists">Participate</a>
+                                <ul class="submenu clearfix">
+                                    <li>
+                                        <a href="/lists">
+                                            Browse Lists
+                                        </a>
+                                    </li><li>
+                                        <a class="download" href="/participate/download">Download Add-on</a>
+                                    </li>
+                                    <li>
+                                        <a class="other last" href="/participate/other">More Ways to Report</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="testsites topmenu">
+                                <a class="reporter" href="/participate/reporter">Test Sites</a>
+                            </li>
+                        </ul>
+                    </div>
 
-                          </li>
-                          <li class="about topmenu">
-                              <a href="/about">About</a>
-                          </li>
-                          <li class="home topmenu">
-                              <a href="/">Home</a>
-                          </li>
-                      </ul>
-
-                      
-
-
-
-
-
-
-
-
-
-
-
-
-    <script type="text/javascript">
-        $(document).ready(function()
-        {
-//            $("#nav-language li a.switch-language").each(function(index) {
-//                var newhref = '';
-//                newhref += window.location.href;
-//                newhref = newhref.replace(/[\?&]?forceLocale=[a-z]{2}/,'');
-//                var newsearch = window.location.search.replace(/[\?&]?forceLocale=[a-z]{2}/,'');
-//                var delim = (newsearch ? '&' : '?');
-//                var regexp = new RegExp(window.location.hostname,"i");
-//                newhref = newhref.replace(regexp,this.hostname);
-//                newhref += delim + this.search.substr(1);
-//                $(this).attr("href",newhref);
-//            });
-            $("#nav-language li a.switch-url").each(function(index) {
-                var newhref = '';
-                newhref += window.location.href;
-                newhref = newhref.replace(/[\?&]?forceLocale=[a-z]{2}/,'');
-                var regexp = new RegExp(window.location.hostname,"i");
-                newhref = newhref.replace(regexp,this.hostname);
-                $(this).attr("href",newhref);
-            });
-
-        })
-
-        function getLocaleString()
-        {
-            return {'en' : 'English',
-                    'ru' : 'Русский',
-                    'zh' : '中文',
-                    'fa' : 'فارسی',
-                    'ar' : 'عربي'}
-        }
-
-    </script>
-
-
-    <div id="meta-nav">
-        <div id="locale-select">
-            <div class="caption">Site displaying in</div>
-            <div class="display-value locale">English</div>
-            <ul class="select-value locale">
-                <li>
-                    <a class="switch-language" href="#forceLocale=en">English</a>
-                </li>
-
-                <li>
-                    <a class="switch-language" href="#forceLocale=zh">中文</a>
-                </li>
-
-                <li>
-                    <a class="switch-languagel" href="#forceLocale=ru">Русский</a>
-                    
-                </li>
-
-                <li>
-                    <a class="switch-language" href="#forceLocale=ar">عربي</a>
-                </li>
-
-                <li>
-                    <a class="switch-language" href="#forceLocale=fa">فارسی</a>
-                </li>
-            </ul>
-            <div class="widget locale"> </div>
-        </div>
-
-    </div>
-
-                      
-                  </div>
-
-              </div>
-
-          <div id="content-wrapper">
-              
-              
-
-        <div id="content">
-
-            
-            
-
-            <div id="sidebar" class="no-print">
-                <div>
-                    <dl id="nav-section">
-
-                        
-                            <dd class="">
-                                
-                                    
-                                    
-                                        <a href="/about/6">About Us »</a>
-                                    
-                                
-                            </dd>
-                        
-                            <dd class="">
-                                
-                                    
-                                    
-                                        <a href="/about/9">FAQs »</a>
-                                    
-                                
-                            </dd>
-                        
-                            <dd class="">
-                                
-                                    
-                                    
-                                        <a href="/about/24">Team »</a>
-                                    
-                                
-                            </dd>
-                        
-                            <dd class="">
-                                
-                                    
-                                        <a target="_blank" href="/about/30">Blog »</a>
-                                    
-                                    
-                                
-                            </dd>
-                        
-                            <dd class="active">
-                                
-                                    
-                                    
-                                        <a href="/about/22">Privacy Policy »</a>
-                                    
-                                
-                            </dd>
-                        
-                            <dd class="">
-                                
-                                    
-                                    
-                                        <a href="/about/31">Terms and Conditions »</a>
-                                    
-                                
-                            </dd>
-                        
-                            <dd class="">
-                                
-                                    
-                                        <a target="_blank" href="/about/32">Opennet Initiative »</a>
-                                    
-                                    
-                                
-                            </dd>
-                        
-                            <dd class="">
-                                
-                                    
-                                    
-                                        <a href="/about/36">Herdometer Ticker Feed »</a>
-                                    
-                                
-                            </dd>
-                        
-                            <dd class="">
-                                
-                                    
-                                    
-                                        <a href="/about/23">Contact Us »</a>
-                                    
-                                
-                            </dd>
-                        
-                    </dl>
                 </div>
-            </div>
+            
 
-            <div id="main-about">
-                <div id="copy">
-                    <h2>PRIVACY STATEMENT</h2> 
+            
+                
+                    <div id="content-wrapper" class="clearfix">
+                        
+                        
+        <div id="content">
+            <h1>Privacy Policy</h1>
+            
+                <div id="sidebar" class="no-print" style="height: 3231px;">
+                    <div>
+                        <dl id="nav-section">
+
+                            
+                                <dd class="">
+                                    
+                                        
+                                        
+                                            <a href="/about/6">About Us</a>
+                                        
+                                    
+                                </dd>
+                            
+                                <dd class="">
+                                    
+                                        
+                                        
+                                            <a href="/about/9">FAQs</a>
+                                        
+                                    
+                                </dd>
+                            
+                                <dd class="">
+                                    
+                                        
+                                        
+                                            <a href="/about/24">Team</a>
+                                        
+                                    
+                                </dd>
+                            
+                                <dd class="">
+                                    
+                                        
+                                            <a target="_blank" href="/about/30">Blog</a>
+                                        
+                                        
+                                    
+                                </dd>
+                            
+                                <dd class="active">
+                                    
+                                        
+                                        
+                                            <a href="/about/22">Privacy Policy</a>
+                                        
+                                    
+                                </dd>
+                            
+                                <dd class="">
+                                    
+                                        
+                                        
+                                            <a href="/about/31">Terms and Conditions</a>
+                                        
+                                    
+                                </dd>
+                            
+                                <dd class="">
+                                    
+                                        
+                                        
+                                            <a href="/about/91">Herdict Tools</a>
+                                        
+                                    
+                                </dd>
+                            
+                                <dd class="">
+                                    
+                                        
+                                        
+                                            <a href="/about/92">Links</a>
+                                        
+                                    
+                                </dd>
+                            
+                                <dd class="">
+                                    
+                                        
+                                        
+                                            <a href="/about/23">Contact Us</a>
+                                        
+                                    
+                                </dd>
+                            
+                        </dl>
+                    </div>
+                </div>
+
+                <div id="main-about">
+                    <div id="copy">
+                        <h2>PRIVACY STATEMENT</h2> 
 
 <br>
 
@@ -468,28 +583,108 @@ Berkman Center for Internet &amp; Society<br>
 Harvard Law School<br>
 23 Everett Street, 2nd Floor<br>
 Cambridge, MA 02138</p>
+                    </div>
                 </div>
-            </div>
+            
+        </div>
+        <script type="text/javascript">
+            $(function() {
+                var sidebarY = $("#sidebar").height();
+                var mainY = $("#main-about").height();
+                if (mainY > sidebarY) {
+                    $("#sidebar").height(mainY);
+                }
+            });
+        </script>
+    
+                    </div>
+                
+                
+            
 
+            
+                <div id="footer-wrapper" class="no-print">
+                    <div id="footer">
+                        <a href="http://cyber.law.harvard.edu/" class="attribution"> </a>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+    <script type="text/javascript">
         
 
-        </div>
+        function getLocaleString() {
+            return {'en' : 'English',
+                    'ru' : 'Русский',
+                    'zh' : '中文',
+                    'fa' : 'فارسی',
+                    'ar' : 'عربي'}
+        }
+    </script>
 
-    
-          </div>
+
+    <ul id="locale-select" class="select-value locale footer-links">
+        <li>
+            <a class="switch-language" href="#forceLocale=en">English</a>
+        </li>
+
+        <li>
+            <a class="switch-language" href="#forceLocale=zh">中文</a>
+        </li>
+
+        <li>
+            <a class="switch-language" href="#forceLocale=ru">Русский</a>
+        </li>
+
+        <li>
+            <a class="switch-language" href="#forceLocale=ar">عربي</a>
+        </li>
+
+        <li class="last">
+            <a class="switch-language" href="#forceLocale=fa">فارسی</a>
+        </li>
+    </ul>
 
 
-          <div id="footer" class="no-print">
-              <a href="http://cyber.law.harvard.edu/" class="attribution"> </a>
-              <ul class="footer-links">
-                  <li><a href="/explore/indepth">Explore</a>|</li>
-                  <li><a class="reporter" href="/participate/reporter">Participate</a>|</li>
-                  <li><a href="/about">About Herdict</a>| </li>
-                  <li><a href="/privacy/en">Privacy Policy</a>| </li>
-                  <li><a href="/faq/en">FAQs</a></li>
-
-              </ul>
-          </div>
+                        <ul class="footer-links">
+                            <li>
+                                <a href="/about">
+                                    About Herdict
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/faq/en">
+                                    FAQs
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/privacy/en">
+                                    Privacy Policy
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/terms/en">
+                                    Terms and Conditions
+                                </a>
+                            </li>
+                        </ul>
+                        <ul class="footer-links">
+                            <li>
+                                <a href="/explore/indepth">Explore</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            
         
         
 
@@ -512,7 +707,6 @@ Cambridge, MA 02138</p>
     pageTracker._trackPageview();
     } catch(err) {}</script>
 
-      
     
-
+    
 <ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 301; top: 0px; left: 0px; display: none;"></ul></body></html>
