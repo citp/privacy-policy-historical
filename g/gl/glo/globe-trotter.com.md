@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globe-trotter.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622003524id_/http%3A//www.globetrotter1897.com/register/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globe-trotter.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221183327id_/http%3A//www.globetrotter1897.com/register/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – GLOBE-TROTTER
 
