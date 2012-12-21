@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submittable.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613174843id_/http%3A//www.submittable.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submittable.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221053423id_/http%3A//www.submittable.com/about/privacy) for the most accurate reproduction.*
 
 # Submission Manager powered by Submittable
 
@@ -11,9 +11,9 @@
 
 
 
-If you have questions about deleting or correcting your personal data please contact our [support team](http://submishmash.zenddesk.com/).
+If you have questions about deleting or correcting your personal data please contact our [support team](http://help.support.com/).
 
-Submittable Inc. ("Submittable") operates several websites including [submittable.com](http://www.submittable.com/) and [submishmash.com](http://www.submishmash.com/). It is Submittable’s policy to respect your privacy regarding any information we may collect while operating our websites or webservices.
+Submittable Inc. ("Submittable") operates several websites including [submittable.com](http://www.submittable.com/) and [Submittable.com](http://www.submittable.com/). It is Submittable’s policy to respect your privacy regarding any information we may collect while operating our websites or webservices.
 
 ### Website Visitors
 
