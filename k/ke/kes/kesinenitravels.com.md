@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kesinenitravels.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504020544id_/http%3A//www.kesinenitravels.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kesinenitravels.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221170257id_/http%3A//kesinenitravels.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Welcome to Kesineni Travels :: Privacy
+# Kesineni® Travels Online Bus Booking and Ticket Reservation Service | Kesineni®
 
   
 **Sharing of Personal Information**
