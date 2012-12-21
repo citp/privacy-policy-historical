@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wildammo.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603203829id_/http%3A//wildammo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildammo.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221155523id_/http%3A//wildammo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WildAmmo.com
+# Privacy Policy | WildAmmo.com - Funny pictures and awesome galleries!
 
 WildAmmo.com is committed to protecting your privacy. WildAmmo.com currently collects no personal information about who visits our site. WildAmmo.com uses a hit service that shows information such as which internet service visitors are using, their screen resolutions, browser types, etc. but in no way does this reveal the name, email address, or any specific information whatsoever about the site’s visitors.
 
