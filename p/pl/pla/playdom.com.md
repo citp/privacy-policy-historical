@@ -1,73 +1,170 @@
-> *The following text is extracted and transformed from the playdom.com privacy policy that was archived on 2011-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110807193612id_/http%3A//www.playdom.com/about/privacy%3Ftrack%3Dorganic-metaplace.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playdom.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221233216id_/http%3A//www.playdom.com/about/privacy) for the most accurate reproduction.*
 
-# Playdom
+# Privacy | Free Online Games at Playdom.com
 
-Effective October 30, 2009
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.playdom.com&sealid=101)
 
-Playdom provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of [http://www.playdom.com](http://www.playdom.com/) (the "Site") and the games and forums we provide on various other websites (the Site and these games and forums collectively, the "Services"). This Privacy Policy applies only to information that you provide to us through the Services. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Services. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms of Service](http://cdn0.mobwarsapp.com/fb_mobv2/mobsters_v2/html/tos.html).
+The Walt Disney Company has a rich tradition of bringing great stories, characters and experiences to our guests around the world, and our sites and applications are created to entertain and connect guests with the best that Disney has to offer on the platforms and devices they prefer.
 
-As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
+We have updated our privacy policy. Our updated policy is designed to provide greater transparency into our privacy practices and principles, in a new format that is easier to navigate, read and understand. We continue to treat your personal information with care and respect.
 
-## Information Collection and Use
+Effective August 22, 2011
 
-Our primary goals in collecting information are to provide and improve our Services, to administer your membership, and to enable users to enjoy and easily navigate them.
+[Datenschutzrichtlinie](http://support.playdom.com/entries/20436662-datenschutzrichtlinie)  
+[Politique de confidentialité](http://support.playdom.com/entries/20440908-politique-de-confidentialite)
 
-## Personally Identifiable Information.
+This privacy policy describes the treatment of information provided or collected on the sites where this privacy policy is posted. It also explains the treatment of information provided or collected on applications we make available on third-party sites or platforms if disclosed to you in connection with use of the application. We follow this privacy policy in accordance with local law in the places where we operate.
 
-When you register with us, either through the Site or on one of the Services (" _Playdom Subscriber_ "), we may ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you (" _Personal Information_ "). Personal Information includes, but is not limited to, your name, phone number, credit card or other billing information, email address and home and business postal addresses. We also collect the other information that you provide as part of registration and the administration and personalization of your account (e.g., without limitation, zip code (on its own) and individual preferences) (" _Non-Identifying Information_ "). We use your Personal Information (in some cases, in conjunction with Non-Identifying Information) mainly to provide the Services, complete your transactions, and administer your inquiries.
+  1. Types of Information We Collect
+  2. How We Collect Your Information
+  3. Use of Your Information by The Walt Disney Family of Companies
+  4. Sharing Your Information with Other Companies
+  5. Your Controls and Choices
+  6. Children's Privacy
+  7. Data Security and Integrity
+  8. Data Transfers, Storage and Processing Globally
+  9. Changes to this Privacy Policy
+  10. Comments and Questions
 
-Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Playdom Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Services and to analyze and understand how our Site and Services are used. We may also use the combined information without aggregating it to serve you specifically, for instance, to deliver a product to you according to your preferences or restrictions.
+We collect two basic types of information — personal information and anonymous information — and we may use personal and anonymous information to create a third type of information, aggregate information. We collect the following categories of information: 
 
-We also use your Personal Information to contact you with Playdom's and its marketing partners' newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "user preferences" information as applicable. (See " _Changing or Deleting Information_ ," below.)
+  * Registration information you provide when you create an account, including your first name and surname, country of residence, gender, date of birth, email address, username and password
+  * Transaction information you provide when you request information or purchase a product or service from us, whether on our sites or through our applications, including your postal address, telephone number and payment information
+  * Information you provide in public forums on our sites and applications
+  * Information sent either one-to-one or within a limited group using our message, chat, post or similar functionality, where we are permitted by law to collect this information
+  * Information you provide to us when you use our sites and applications, our applications on third-party sites or platforms such as social networking sites, or link your profile on a third-party site or platform with your registration account.
+  * Location information when you visit our sites or use our applications, including location information either provided by a mobile device interacting with one of our sites or applications, or associated with your IP address, where we are permitted by law to process this information
+  * Usage, viewing and technical data, including your device identifier or IP address, when you visit our sites, use our applications on third-party sites or platforms or open emails we send
 
-_Log Data._ When you visit the Site or the Services, whether as a Playdom Subscriber or a non-registered user just browsing (any of these, a " _Playdom User_ "), our servers automatically record information that your browser sends whenever you visit a website (" _Log Data_ "). This Log Data may include information such as your computer's Internet Protocol (" _IP_ ") address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Services, for their technical administration, to increase their functionality and user-friendliness, and to better tailor them to our visitors' needs. For example, some of this information is collected so that when you visit the Services again, it will recognize you and serve advertisements and other information appropriate to your interests. We also use this information to verify that visitors to the Services meet the criteria required to process their requests. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.
 
-## Cookies
+  * We collect information you provide to us when you request products, services or information from us, register with us, participate in public forums or other activities on our sites and applications, respond to customer surveys, or otherwise interact with us. Please keep in mind that when you provide information to us on a third-party site or platform (for example, via our applications), the information you provide may be separately collected by the third-party site or platform. The information we collect is covered by this privacy policy and the information the third-party site or platform collects is subject to the third-party site or platform's privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our applications.
+  * We collect information through technology, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms. Please visit [Online Tracking and Advertising](http://www.playdom.com/account/advertising) for further information, including how to disable cookies.
+  * We acquire information from other trusted sources to update or supplement the information you provided or we collected automatically. Local law may require that you authorize the third party to share your information with us before we can acquire it.
 
-Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your registration ID and login password for future logins to the Services. Second, we utilize session ID cookies to enable certain features of the Services, to better understand how you interact with the Services and to monitor aggregate usage by Playdom Users and web traffic routing on the Services. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Services and then close your browser. Third party advertisers on the Services may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions or functionalities of the Services.
 
-## Emailing Via a Playdom Account
 
-As part of the Services, Playdom Subscribers may communicate with Playdom Subscribers and non-registered users through use of their accounts. Where Playdom Subscribers have selected the option of adding one or more email addresses to an online form, the message they create in the corresponding template will be sent from Playdom to those email addresses on their behalf. These email addresses will be stored in the address book the Playdom Subscriber creates and will be used only for the purpose of sending the email communication to the addressee.
+A member of The Walt Disney Family of Companies, which includes many different brands, will be the data controller for your information. The relevant data controller(s) can be determined here. Other members of The Walt Disney Family of Companies may have access to your information where they perform services on behalf of the data controller(s) (as a data processor) and, unless prohibited under applicable law, for use on their own behalf (as a data controller) for the following purposes:
 
-## Phishing
+  * Provide you with the products and services you request
+  * Communicate with you about your account or transactions with us and send you information about features on our sites and applications or changes to our policies
+  * Consistent with local law and choices and controls that may be available to you: 
+    * Send you offers and promotions for our products and services or third-party products and services 
+    * Personalize content and experiences on our sites and applications
+    * Provide you with advertising based on your activity on our sites and applications and on third-party sites and applications. To learn more about how we use your information for personalization and tracking, please visit [Online Tracking and Advertising](http://www.playdom.com/account/advertising).
+  * Optimize or improve our products, services and operations
+  * Detect, investigate and prevent activities that may violate our policies or be illegal
 
-Identity theft and the practice currently known as "phishing" are of great concern to Playdom. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission's website.
 
-## Information Sharing and Disclosure
 
-_Playdom Registration._ When you register through the Services and submit your Personal Information to create a profile webpage or join one of the Services, Playdom Users may see your username and the other information about you (" _Required Subscriber Identifiers_ "). We may display your Personal Information in your profile page and elsewhere on the Services according to the preferences you set in your account. Any information you choose to provide should reflect how much you want other Playdom Users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage members to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your username, since that would allow others to identify you.
+We will not share your personal information outside The Walt Disney Family of Companies except in limited circumstances, including:
 
-_Aggregate Information and Non-Identifying Information._ We may share aggregated information that includes your Personal Information, Non-Identifying Information and Log Data with third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services.
+  * When you allow us to share your personal information with another company, such as: 
+    * Electing to share your personal information with carefully selected companies so that they can send you offers and promotions about their products and services
+    * Directing us to share your personal information with third-party sites or platforms, such as social networking sites
+Please note that once we share your personal information with another company, the information received by the other company becomes subject to the other company's privacy practices.
+  * When we cooperate with financial institutions to offer co-branded products or services to you, such as our co-branded Disney Rewards Visa Card; however, we will do so only if permitted by applicable law and, in these cases, the financial institutions are prohibited from using your personal information for purposes other than those related to the co-branded products or services
+  * When companies perform services on our behalf, like package delivery and customer service; however, these companies are prohibited from using your personal information for purposes other than those requested by us or required by law
+  * When we share personal information with third parties in connection with the sale of a business, to enforce our Terms of Use or rules, to ensure the safety and security of our guests and third parties, to protect our rights and property and the rights and property of our guests and third parties, to comply with legal process or in other cases if we believe in good faith that disclosure is required by law
 
-_Service Providers._ We may employ third party companies and individuals to facilitate our Services, to provide the Services on our behalf, to perform tasks, (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Services) or to assist us in analyzing how our Services are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. We may also provide Personal Information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. You can, at any time, opt out of receiving such communications.
 
-_Compliance with Laws and Law Enforcement._ We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Playdom or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.
 
-_Business Transfers._ Playdom may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your information. In accordance with local law, your controls and choices may include:
 
-## Changing or Deleting Your Information
+  * You may correct, update and delete your registration account
+  * You may change your choices for subscriptions, newsletters and alerts
+  * You may choose whether to receive from us offers and promotions for our products and services, or products and services that we think may be of interest to you
+  * You may choose whether we share your personal information with other companies so they can send you offers and promotions about their products and services
+  * You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers [here](http://www.aboutads.info/)
+  * You may request access to the personal information we hold about you and that we amend or delete it and we request third parties with whom we have shared the information do the same
 
-All Subscribers may review, update, correct or delete the Personal Information in their registration profile by changing the applicable information in their account settings or, for Services that are hosted on a social networking site, by changing the applicable information in their profile page. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request if we do not have any legal obligation to retain the record. See below for privacy contact information.
 
-## Security
 
-Playdom is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Services in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+You may exercise your controls and choices, or request access to your personal information, by visiting [Communication Choices](http://www.playdom.com/account/communicationchoices), contacting [Guest Services](http://support.playdom.com/?lang=en), or following instructions provided in communications sent to you. Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products and services to you, and some of our services may not be able to take account of your interests and preferences. If you have questions regarding the specific personal information about you that we process or retain, please contact [Guest Services](http://support.playdom.com/?lang=en).
 
-## International Transfer
+We recognize the need to provide further privacy protections with respect to personal information we may collect from children on our sites and applications. Some of the features on our sites and applications are age-gated so that they are not available for use by children, and we do not knowingly collect personal information from children in connection with those features. When we intend to collect personal information from children, we take additional steps to protect children's privacy, including:
 
-Your information may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Playdom transfers Personal Information to the United States and processes it there and your submission of such information represents your agreement to that transfer.
+  * Notifying parents about our information practices with regard to children, including the types of personal information we may collect from children, the uses to which we may put that information, and whether and with whom we may share that information
+  * In accordance with applicable law, obtaining consent from parents for the collection of personal information from their children, or for sending information about our products and services directly to their children
+  * Limiting our collection of personal information from children to no more than is reasonably necessary to participate in an online activity
+  * Giving parents access or the ability to request access to personal information we have collected from their children and the ability to request that the personal information be changed or deleted
 
-## Links to Other Sites
 
-Our Services contain links to other websites. If you choose to visit an advertiser by clicking on a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party's website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
 
-## Our Policy Toward Children
+For additional information about our practices in the United States and Latin America regarding children's personal information, please read our [Children's Privacy Policy](http://corporate.disney.go.com/corporate/kids.html).
 
-The Services are not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+The security, integrity and confidentiality of your information are extremely important to us. We have implemented technical, administrative and physical security measures that are designed to protect guest information from unauthorized access, disclosure, use and modification. From time to time, we review our security procedures to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable.
 
-## Contacting Us
+We operate globally and may transfer your personal information to individual companies of The Walt Disney Family of Companies or third parties in locations around the world for the purposes described in this privacy policy. Wherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information. Additionally, when using or disclosing personal information transferred from the European Union, we abide by the Safe Harbor Principles as set forth by the U.S. Department of Commerce, use standard contract clauses approved by the European Commission, adopt other means under European Union law for ensuring adequate safeguards, or obtain your consent. We also apply the substantive requirements of the Safe Harbor Principles when transferring personal information from Australia.
 
-If you have any questions about this Privacy Policy, please contact us at [privacy@playdom.com](mailto:privacy@playdom.com) or at: Privacy Matters, Playdom, Inc., 395 Page Mill Road, 2nd Floor, Palo Alto, CA 94306.
+From time to time, we may change this privacy policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes. We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent.
 
-© Playdom, Inc. 2008-2011, All Rights Reserved.
+If you have a comment or question about this privacy policy, please contact [Guest Services](http://support.playdom.com/?lang=en).
+
+Our sites and applications may contain links to other sites not owned or controlled by us and we are not responsible for the privacy practices of those sites. We encourage you to be aware when you leave our sites or applications and to read the privacy policies of other sites that may collect your personal information.
+
+### Notice to California Residents
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Playdom, Inc. to third parties for the third parties' direct marketing purposes. To make such a request, please send an email to [caprivacy.wdig@twdc.com](mailto:caprivacy.wdig@twdc.com) or write us:
+
+CA Privacy Rights  
+Playdom, Inc.  
+500 South Buena Vista Street  
+Mail Code 7667  
+Burbank, CA 91521-7667  
+
+
+Aggregate Information. Aggregate information means information about groups or categories of guests, which does not identify and cannot reasonably be used to identify an individual guest.
+
+Anonymous Information. Anonymous information means information that does not directly or indirectly identify, and cannot reasonably be used to identify, an individual guest.
+
+Application. Application means a program or service operated by us (or on our behalf) that may be displayed on various online, mobile or other platforms and environments, including those operated by third parties, which permits us to interact directly with our guests.
+
+Children. Children means individuals who we have identified are not of legal age to consent to the collection and processing of their personal information. In the United States and Latin America, the term "children" refers to individuals under 13 years of age.
+
+Data Controller. The data controller is the subsidiary or affiliated entity of The Walt Disney Company that is responsible for the personal information collected from sites and applications. For all Playdom sites and applications, the data controller is:   
+Playdom, Inc.  
+395 Page Mill Road, Second Floor  
+Palo Alto, CA 94306  
+
+
+Data Processor. A data processor is a person or entity that processes personal information on behalf of a data controller (or data controllers) and is permitted to perform data processing only as directed by the data controller(s).
+
+IP address. An IP address is associated with the access point through which you enter the Internet, and is typically controlled by your Internet Service Provider (ISP), your company, or your university. We may use IP addresses to collect information regarding the frequency with which our guests visit various parts of our sites and applications, and we may combine IP addresses with personal information.
+
+Member. Member means a subsidiary or affiliated entity that is part of The Walt Disney Family of Companies.
+
+Notice. Notice may be by email to you at the last email address you provided us, by posting notice of such changes on our sites and applications, or by other means, consistent with applicable law.
+
+Parents. Parents means a parent or legal guardian.
+
+Personal information. Personal information means information that identifies (whether directly or indirectly) a particular individual, such as the individual's name, postal address, email address and telephone number. When anonymous information is directly or indirectly associated with personal information, this anonymous information also is treated as personal information.
+
+Public Forums. Our sites and applications may offer message boards, conversation pages, blogs, chat rooms, social community environments, profile pages, and other forums that do not have a restricted audience. If you provide personal information when you use any of these features, that personal information may be publicly posted and otherwise disclosed without limitation as to its use by us or by a third party. To request removal of your personal information from a public forum on one of our sites or applications, please contact [Guest Services](http://support.playdom.com/?lang=en).
+
+The Walt Disney Family of Companies. The Walt Disney Family of Companies refers to The Walt Disney Company and its subsidiary and affiliated entities, which offer their products and services under various brand names. These companies engage in a number of businesses, including theme parks and travel, motion pictures and television, publishing, consumer products and interactive services. The Walt Disney Company brands include, among others, the following:
+
+ABC  
+Baby Einstein  
+BabyZone  
+Club Penguin  
+Disney  
+ESPN  
+Hollywood Records  
+Kaboose  
+Marvel  
+Muppets  
+Pixar  
+Playdom  
+Tapulous  
+Touchstone
+
+Please visit our [Playdom Support Portal](http://support.playdom.com/?lang=en) where you can find support articles, review featured questions, or submit a question or request to our support team.
+
+Or write to us at:
+
+Playdom, Inc.  
+395 Page Mill Road, Second Floor  
+Palo Alto, CA 94306  
+Email: privacy@playdom.com
+
+Playdom, Inc. is a licensee of the TRUSTe Privacy Program in the United States. If you believe that Playdom, Inc. has not responded to your inquiry or your inquiry has not been satisfactorily addressed, you may contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint) or the United States Federal Trade Commission through its online consumer complaint form available [here](https://www.ftccomplaintassistant.gov/).
