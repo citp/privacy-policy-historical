@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dressupgames77.net privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622013818id_/http%3A//www.dressupgames77.net/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupgames77.net privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221014750id_/http%3A//www.dressupgames77.net/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy - Dress up games - Trendy games for girls and kids
+# Privacy Policy - Dress up games - Trendy designer games for girls and kids
 
 **Privacy Policy**
 
