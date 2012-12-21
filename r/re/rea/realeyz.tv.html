@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the realeyz.tv privacy policy that was archived on 2012-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622131142id_/http%3A//www.realeyz.tv/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realeyz.tv privacy policy that was archived on 2012-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121221204414id_/http%3A//www.realeyz.tv/en/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
 
@@ -60,7 +60,9 @@
 <script type="text/javascript" src="http://www.realeyz.tv/skin/frontend/realeyz/default/js/jquery-1.6.1-no-conflict.js"></script>
 <script type="text/javascript" src="http://www.realeyz.tv/skin/frontend/realeyz/default/js/jquery.noty.js"></script>
 <script type="text/javascript" src="http://www.realeyz.tv/skin/frontend/realeyz/default/js/tooltip.js"></script>
+<script type="text/javascript" src="http://www.realeyz.tv/skin/frontend/realeyz/default/js/modalbox.js"></script>
 <script type="text/javascript" src="http://www.realeyz.tv/skin/frontend/realeyz/default/js/realeyz.js"></script>
+<script type="text/javascript" src="http://www.realeyz.tv/skin/frontend/realeyz/default/js/scrollcheck.js"></script>
 <script type="text/javascript" src="http://www.realeyz.tv/skin/frontend/realeyz/default/js/jwplayer.js"></script>
 <script type="text/javascript" src="http://www.realeyz.tv/skin/frontend/realeyz/default/js/modernizr-2.0.js"></script>
 <script type="text/javascript" src="http://www.realeyz.tv/skin/frontend/realeyz/default/js/carousel-min.js"></script>
@@ -163,15 +165,15 @@ document.observe('click', function(e){
     <div class="page">
         
 <div class="header-container en">
+    <div class="header-semi"></div>
     <header>
-                <h1 class="logo"><strong>realeyz </strong><a href="http://www.realeyz.tv/en/" title="realeyz " class="logo"><img src="http://www.realeyz.tv/skin/frontend/realeyz/default/ci_img/logo-realeyz-2012.png" alt="realeyz "></a></h1>
+                <h1 class="logo"><strong>realeyz.tv</strong><a href="http://www.realeyz.tv/en/" title="realeyz.tv" class="logo"><img src="http://www.realeyz.tv/skin/frontend/realeyz/default/ci_img/header/logo_main.png" alt="realeyz.tv"></a></h1>
                 <div class="quick-access">
                           <div id="mini-login-form" data-type="login">
                 
 <div class="block block-login">
 	<div class="block-title">
-		<a class="tab login actionLink" href="#mini-login-form" rel="login">Login</a>
-		<a class="tab signin actionLink" href="#mini-login-form" rel="signin">Sign up</a>
+		<strong>Login</strong>
 		<span class="btn-close"><a href="#"><img src="http://www.realeyz.tv/skin/frontend/realeyz/default/ci_img/btn_mini_close.png" alt="btn_mini_close" width="16" height="16"></a></span>
 	</div>
 	<!-- block-login -->
@@ -186,78 +188,24 @@ document.observe('click', function(e){
 				<div class="form-item">
 					<label for="mini-password">Password:</label>
 					<input type="password" name="login[password]" id="mini-password" class="input-text">
-					<button type="submit" class="button clearfix"><span><span>Login</span></span></button>
+					<button type="submit" class="button clearfix">Login</button>
 					<a href="https://www.realeyz.tv/en/customer/account/forgotpassword/" class="forgot-password clearfix">Forgot Your Password?</a>
+				</div>
+				<div class="actions register-now">
+					<span class="label">No account yet?</span>Register now<a class="get-realeyz-free" href="http://www.realeyz.tv/en/realeyz-free/">Register now</a>
 				</div>
 				<div class="actions fb-login">
 					<a rel="facebook-connect">Connect with Facebook</a>
-				</div>
-				<div class="actions">
-					<p class="small">Don't have an account yet? <strong><a href="https://www.realeyz.tv/en/customer/account/login/referer/aHR0cDovL3d3dy5yZWFsZXl6LnR2L2VuL3ByaXZhY3ktcG9saWN5P19fX1NJRD1V/">Sign up</a> to join realeyz.tv!</strong></p>
 				</div>
 			</div>
 		</form>
 	</div>
 	<!-- // block-login -->
-	<!-- block-signin -->
-	<div class="box-signin">
-			<div class="block-content">
-				
-				<!-- register.phtml -->
-				<form action="https://www.realeyz.tv/en/customer/account/createpost/" method="post" id="form-validate">
-					
-					<input type="hidden" name="success_url" value="">
-					<input type="hidden" name="error_url" value="https://www.realeyz.tv/en/customer/account/login/">
-					
-					<div class="form-item">
-						<label for="firstname" class="required"><em>*</em>First Name</label>
-						<input type="text" id="firstname" name="firstname" value="" title="First Name" class="input-text required-entry">
-					</div>
-					<div class="form-item">
-						<label for="email_address" class="required"><em>*</em>Last Name</label>
-						<input type="text" id="lastname" name="lastname" value="" title="Last Name" class="input-text required-entry">
-					</div>
-
-					<div class="form-item">
-						<label for="email_address" class="required"><em>*</em>Email Address</label>
-						<input type="text" name="email" id="email_address" title="Email Address" class="input-text validate-email required-entry">
-					</div>
-					<div class="form-item">
-						<label for="password" class="required"><em>*</em>Password</label>
-						<input type="password" name="password" id="password" title="Password" class="input-text required-entry validate-password">
-					</div>
-					<div class="form-item">
-						<label for="confirmation" class="required"><em>*</em>Confirm Password</label>
-						<input type="password" name="confirmation" title="Confirm Password" id="confirmation" class="input-text required-entry">
-					</div>
-					
-					<div class="form-item checkbox">
-						<input type="checkbox" name="new_account" title="read_terms" value="1" id="terms-of-service" class="checkbox required-entry">
-						<label for="new_account" class="required"><em>*</em>I accept the <a href="http://www.realeyz.tv/en/terms-of-use/" target="_blank">Terms of Service</a> and the <a href="http://www.realeyz.tv/en/privacy-policy/" target="_blank">Privacy Policy</a>.</label>
-					</div>
-	
-					<div class="buttons-set">
-						<p class="required">* Required Fields</p>
-						<button type="submit" title="Submit" class="button"><span><span>Submit</span></span></button>
-						<a rel="facebook-connect">Connect with Facebook</a>
-					</div>
-				</form>
-
-				<script type="text/javascript">
-				//<![CDATA[
-						var dataForm = new VarienForm('form-validate', true);
-				//]]>
-				</script>
-				<!-- //register.phtml -->
-			</div>
-	</div>
-	<!-- // block-signin -->
 </div>
               </div>
                         <ul class="links">
-                        <li class="first" 10=""><a href="https://www.realeyz.tv/en/customer/account/" title="Log In" rel="facebook-connect" class="facebook">Sign In</a></li>
-                                <li 100=""><a href="#mini-login-form" title="Sign Up" rel="signin">Sign Up</a></li>
-                                <li class=" last" 200=""><a href="#mini-login-form" title="Log In" rel="login">Log In</a></li>
+                        <li class="first"><a href="https://www.realeyz.tv/en/customer/account/" title="Log In" rel="facebook-connect" class="facebook">Sign In</a></li>
+                                <li class=" last"><a href="#mini-login-form" title="Log In" rel="login">Log In</a></li>
             </ul>
             
 <ul class="form-language">
@@ -274,131 +222,94 @@ document.observe('click', function(e){
     </ul>
 
         </div>
-                
-                									<div class="ad bulletpoints">
-				  	<p><img src="http://www.realeyz.tv/media/wysiwyg/Bullet_Points_4_EN.png" alt=""></p>					</div>
-								        
-                												
-    </header>
-</div>
-<div class="header-menu">
-	<div class="header-menu-wrapper">
-		<div class="nav-container">
-    <ul id="nav">
-        <li class="level0 nav-1 level-top first parent">
+        				<div class="header-menu">
+					<div class="header-menu-wrapper">
+						<div class="nav-container">
+	<ul id="nav">
+		<li>
+			<a href="javascript:void(0);">Browse</a>
+			<ul>
+				<li class="level0 nav-1 level-top first last parent">
 <a href="http://www.realeyz.tv/en/catalogsearch/result/" class="level-top">
 <span>Films</span>
 </a>
 <ul class="level0">
 <li class="level1 nav-1-1 first">
-<a href="http://www.realeyz.tv/en/type/fiction.html">
-<span>Drama</span>
+<a href="http://www.realeyz.tv/en/type-1/spielfilme.html">
+<span>Features</span>
 </a>
 </li><li class="level1 nav-1-2">
-<a href="http://www.realeyz.tv/en/type/comedy.html">
-<span>Comedy</span>
+<a href="http://www.realeyz.tv/en/type-1/documentary.html">
+<span>Documentary</span>
 </a>
 </li><li class="level1 nav-1-3">
-<a href="http://www.realeyz.tv/en/type/thriller.html">
-<span>Thriller</span>
-</a>
-</li><li class="level1 nav-1-4">
-<a href="http://www.realeyz.tv/en/type/concert.html">
-<span>Music</span>
-</a>
-</li><li class="level1 nav-1-5">
-<a href="http://www.realeyz.tv/en/type/kids-family.html">
-<span>Kids &amp; Family</span>
-</a>
-</li><li class="level1 nav-1-6">
-<a href="http://www.realeyz.tv/en/type/bollywood-1.html">
-<span>Bollywood</span>
-</a>
-</li><li class="level1 nav-1-7">
-<a href="http://www.realeyz.tv/en/type/eastern.html">
-<span>Eastern</span>
-</a>
-</li><li class="level1 nav-1-8">
-<a href="http://www.realeyz.tv/en/type/documentary.html">
-<span>Documentaries</span>
-</a>
-</li><li class="level1 nav-1-9">
-<a href="http://www.realeyz.tv/en/type/art.html">
-<span>Art</span>
-</a>
-</li><li class="level1 nav-1-10">
-<a href="http://www.realeyz.tv/en/type/animation-1.html">
-<span>Animation</span>
-</a>
-</li><li class="level1 nav-1-11 last">
-<a href="http://www.realeyz.tv/en/type/short-film.html">
+<a href="http://www.realeyz.tv/en/type-1/short-film.html">
 <span>Short Films</span>
 </a>
-</li>
-<li class="level1 nav-1-2"><a href="http://www.realeyz.tv/en/directors-2.html" class=""><span>Directors</span></a></li>
-</ul>
-</li><li class="level0 nav-2 level-top last parent">
-<a href="http://www.realeyz.tv/en/channels.html" class="level-top">
-<span>Channels</span>
+</li><li class="level1 nav-1-4">
+<a href="http://www.realeyz.tv/en/type-1/fiction-1.html">
+<span>Drama</span>
 </a>
-<ul class="level0">
-<li class="level1 nav-2-1 first">
-<a href="http://www.realeyz.tv/en/channels/national-filmboard-of-canada.html">
-<span>National Film Board of Canada</span>
+</li><li class="level1 nav-1-5">
+<a href="http://www.realeyz.tv/en/type-1/comedy.html">
+<span>Comedy</span>
 </a>
-</li><li class="level1 nav-2-2">
-<a href="http://www.realeyz.tv/en/channels/iconcerts.html">
-<span>iConcerts</span>
+</li><li class="level1 nav-1-6">
+<a href="http://www.realeyz.tv/en/type-1/thriller.html">
+<span>Thriller</span>
 </a>
-</li><li class="level1 nav-2-3">
-<a href="http://www.realeyz.tv/en/channels/kfa-kurzfilmagentur.html">
-<span>KurzFilmAgentur Hamburg e.V.</span>
+</li><li class="level1 nav-1-7">
+<a href="http://www.realeyz.tv/en/type-1/concert.html">
+<span>Music</span>
 </a>
-</li><li class="level1 nav-2-4">
-<a href="http://www.realeyz.tv/en/channels/education.html">
-<span>Education</span>
+</li><li class="level1 nav-1-8">
+<a href="http://www.realeyz.tv/en/type-1/kids-family.html">
+<span>Kids &amp; Family</span>
 </a>
-</li><li class="level1 nav-2-5">
-<a href="http://www.realeyz.tv/en/channels/musicfilmweb.html">
-<span>MusicFilmWeb</span>
+</li><li class="level1 nav-1-9">
+<a href="http://www.realeyz.tv/en/type-1/bollywood.html">
+<span>Bollywood</span>
 </a>
-</li><li class="level1 nav-2-6">
-<a href="http://www.realeyz.tv/en/channels/achtung-berlin-new-berlin-film-award.html">
-<span>achtung berlin - new berlin film award</span>
+</li><li class="level1 nav-1-10">
+<a href="http://www.realeyz.tv/en/type-1/eastern.html">
+<span>Eastern</span>
 </a>
-</li><li class="level1 nav-2-7">
-<a href="http://www.realeyz.tv/en/channels/arsenal-kino.html">
-<span>Arsenal - Institute for Film and Video Art</span>
+</li><li class="level1 nav-1-11">
+<a href="http://www.realeyz.tv/en/type-1/art.html">
+<span>Art</span>
 </a>
-</li><li class="level1 nav-2-8">
-<a href="http://www.realeyz.tv/en/channels/one-world-berlin-human-rights-film-festival-1.html">
-<span>One World Berlin </span>
+</li><li class="level1 nav-1-12">
+<a href="http://www.realeyz.tv/en/type-1/animation.html">
+<span>Animation</span>
 </a>
-</li><li class="level1 nav-2-9">
-<a href="http://www.realeyz.tv/en/channels/accessibility.html">
-<span>Accessibility</span>
+</li><li class="level1 nav-1-13">
+<a href="http://www.realeyz.tv/en/type-1/gratis.html">
+<span>FREE</span>
 </a>
-</li><li class="level1 nav-2-10">
-<a href="http://www.realeyz.tv/en/channels/berlin.html">
-<span>Berlin</span>
-</a>
-</li><li class="level1 nav-2-11 last">
-<a href="http://www.realeyz.tv/en/channels/autofocus-videowerkstatt.html">
-<span>autofocus | videowerkstatt</span>
+</li><li class="level1 nav-1-14 last">
+<a href="http://www.realeyz.tv/en/type-1/plus.html">
+<span>PLUS</span>
 </a>
 </li>
 </ul>
-</li>	    <li class="last  active">
-	      <a href="http://www.realeyz.tv/en/blog/">Blog</a>
-	    </li>
-    </ul>
+</li>				<li class="secondary-link ">
+										<a href="http://www.realeyz.tv/en/directors-3.html">
+					Directors</a>					<a href="http://www.realeyz.tv/en/actors.html">Actors</a>
+				</li>
+				<li class="last secondary-link ">
+										<a href="http://www.realeyz.tv/en/channels.html">Channels</a>
+					<a href="http://www.realeyz.tv/en/blog/">BLOG | realeyz.tv</a>
+				</li>
+			</ul>
+		</li>
+	</ul>
 </div>
-	    <div class="quick-search">
-	    	<form id="search_mini_form" action="http://www.realeyz.tv/en/catalogsearch/result/" method="get">
+					    <div class="quick-search">
+					    	<form id="search_mini_form" action="http://www.realeyz.tv/en/catalogsearch/result/" method="get">
     <div class="form-search">
-        <label for="search">Search:</label>
-        <input id="search" type="text" name="q" x-webkit-speech="" placeholder="Search entire store here..." class="input-text">
-        <button type="submit" title="Search" class="button"><span><span>Search</span></span></button>
+        <label for="search">Quick Search:</label>
+        <input id="search" type="text" name="q" x-webkit-speech="" placeholder="Title, Director, Cast..." class="input-text">
+        <button type="submit" title="Go!" class="button">Go!</button>
         <div id="search_autocomplete" class="search-autocomplete"></div>
         <script type="text/javascript">
         //<![CDATA[
@@ -408,8 +319,10 @@ document.observe('click', function(e){
         </script>
     </div>
 </form>
-	    </div>
-	</div>
+					    </div>
+					</div>
+				</div>
+    </header>
 </div>        <div class="main-container col1-layout">
             <div class="main">
                                 <div class="col-main">
@@ -463,7 +376,7 @@ document.observe('click', function(e){
 				<div class="social-icons">
 					<a href="http://www.facebook.com/pages/wwwrealeyztv/133517803348452" title="realeyz.tv | Facebook" class="fb"></a>
 					<a href="https://twitter.com/#!/realeyz" title="Follow us" class="tw"></a>
-					<a href="http://www.youtube.com/user/realeyztv" title="realeyz.tv | YouTube Channel" class="yt"></a>
+					<a href="http://www.youtube.com/user/RealeyzChannel" title="realeyz.tv | YouTube Channel" class="yt"></a>
 				</div>
 				  <p>Secure, SPAM-free, cancel anytime</p>
 			</div>
@@ -471,11 +384,11 @@ document.observe('click', function(e){
 	</div>
 	<div class="colophon clearfix">
 		<div class="copyright">
-			<p><strong>©2011 EYZ Media GmbH. All rights reserved.</strong> EYZ Media GmbH, Koepenicker Str. 154, 10997 Berlin, Germany |&nbsp;contact[at]realeyz.tv<br><strong>Design &amp; Realisation:</strong> <a href="http://www.dutyfarm.com" target="_blank">Dutyfarm GmbH</a><strong> | Content Delivery:</strong> <a href="http://www.streamprotect.com" target="_blank">Streamprotect Ltd.</a></p>		</div>
+			<p><strong>©2012 EYZ Media GmbH. All rights reserved.</strong> EYZ Media GmbH, Koepenicker Str. 154, 10997 Berlin, Germany |&nbsp;contact[at]realeyz.tv<br><strong>Design &amp; Realisation:</strong> <a href="http://www.dutyfarm.com" target="_blank">Dutyfarm GmbH</a><strong> | Content Delivery:</strong> <a href="http://www.streamprotect.com" target="_blank">Streamprotect Ltd.</a></p>		</div>
 		<div class="partners">
 			<a href="http://http://www.mediadesk.de/"><img src="http://www.realeyz.tv/skin/frontend/realeyz/default/ci_img/partner-media-elc.gif" alt=""></a>
 			<a href="http://http://www.medienboard.de/"><img src="http://www.realeyz.tv/skin/frontend/realeyz/default/ci_img/partner-medienboard-bb.gif" alt=""></a>
-			<a href="#"><script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?style=invert&amp;code=1e5260afee804702b182697de07c1904"></script></a>
+			<a href="javascrip:void(0)"><script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?style=invert&amp;code=1e5260afee804702b182697de07c1904"></script></a>
 		</div>
 	</div>
 </footer>
