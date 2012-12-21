@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the missoandfriends.com privacy policy that was archived on 2012-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120303000402id_/http%3A//www.missoandfriends.com/missomoms/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missoandfriends.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221151548id_/http%3A//www.missomoms.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement :: Miss O Moms
+# Privacy Statement | Miss O Moms
 
                                                                                                                                          HD Group, LLC  
                                                                                                                                           Miss O Moms℠
@@ -101,4 +101,16 @@ You may access your Personal Information by logging into your MissOMoms account.
 9\. Privacy Statement Updates  
 If we decide to make material changes to our Privacy Statement, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on the Site and updating the date at the top of the Privacy Statement. When you visit the Site, check the date of our Privacy Statement for any updates or changes. Any material changes to this Privacy Statement will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on the Site. Please note that at all times you are responsible for updating your Personal Information to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Statement may affect our use or disclosure of Personal Information that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use or disclosure of your Personal Information, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Continued use of our services and access to the Site, following notice of such changes, shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
+10\. Cookies & 3rd Party Advertisements  
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "Google ad and content network privacy policy").
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+
 If you have any questions or concerns about MissOMoms’s Privacy Statement, please contact us: [pbrindak@missoandfriends.com](mailto:pbrindak@missoandfriends.com)
+
+  * Bio
+  * Latest Posts
+
+
+
+Miss O Moms staff has their pulse on the moms and kids market. We publish articles we think you'd like to read.
