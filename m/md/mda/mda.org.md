@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the mda.org privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501065745id_/http%3A//mda.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mda.org privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221014237id_/http%3A//mda.org/privacy) for the most accurate reproduction.*
 
-# MDA Privacy Policy
+# Privacy Policy | MDA
+
+###  **Muscular Dystrophy Association, Inc.**  
+Privacy Policy
 
 The Muscular Dystrophy Association, Inc. (“MDA”) Privacy Policy applies to MDA’s main website at [mda.org ](https://web.archive.org/)and all other websites operated by MDA (collectively, the “MDA Websites”).  Our postal address is 3300 East Sunrise Drive, Tucson, AZ  85718-3299.  We can be reached via email at [mda@mdausa.org](mailto:mda@mdausa.org), or by telephone at (520) 529-2000.  This Privacy Policy includes, where applicable, a “Notice of Information Practices With Regard to Children” and “Parental Review of Information.”
 
@@ -36,7 +39,14 @@ MDA encourages the interactive nature of online media, and we strive to safeguar
 
 At MDA, it’s our policy to not ask for any more personal information from any of our visitors, including children, as a condition of participation, than is reasonably necessary to participate in a the activities offered on an MDA Website.  Generally, MDA limits the identifiable information collected from children to their name, age, birth date, address, city, state, zip code, email address, parent’s/guardian’s email address, and telephone number.
 
-When a child attempts to register and/or provide personal information on an MDA Website, we require a parent or legal guardian to: 
+When a child attempts to register and/or provide personal information on an MDA Website, we require a parent or legal guardian to:
+
+  1. Review our Privacy Policy and agree to the Waiver/Agreement;
+  2. Complete the registration form;
+  3. Submit a valid credit card number to verify that the child’s parent or guardian knows about and authorizes our information practices related to children; and
+  4. Verify through the use of an email confirmation and second authorization that the parent or guardian agrees to the Waiver/Agreement and this Privacy Policy.
+
+
 
 Once parental notice and consent has been verified, the information we collect will be treated the same as information collected from any other user of the MDA Websites.  Without verified parental notice and consent, we will not knowingly collect personal information of children under 13 years of age, and if we learn that we have inadvertently collected such information, we will promptly delete it.
 
