@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4umf.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508060448id_/http%3A//4umf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4umf.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221032704id_/http%3A//4umf.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | News Media Source, Entertainment News, Media Source, Celeb News, News Media
+# Privacy Policy | News Media Source And Urban Search Engine. Not Just A Hip Hop Site
 
   * ****Privacy Policy****
 
