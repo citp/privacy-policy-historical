@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziplocal.ca privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112321id_/http%3A//www.ziplocal.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziplocal.ca privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221223649id_/http%3A//www.ziplocal.ca/privacy) for the most accurate reproduction.*
 
 # Privacy
 
