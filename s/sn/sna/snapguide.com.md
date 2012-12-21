@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the snapguide.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608023900id_/http%3A//snapguide.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapguide.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221132117id_/https%3A//snapguide.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Snapguide
+# Snapguide
 
-We recognize that your privacy is very important and take it seriously. This Privacy Policy describes Snapguide's policies and procedures on the collection, use and disclosure of your information when you use the Snapguide Service. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](http://snapguide.com/about/terms). 
+We recognize that your privacy is very important and take it seriously. This Privacy Policy describes Snapguide's policies and procedures on the collection, use and disclosure of your information when you use the Snapguide Service. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://snapguide.com/about/terms). 
 
 Information Collection and Use
 
@@ -40,7 +40,7 @@ How We Protect Your Information
 
 Snapguide uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Snapguide or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
 
-In the event that personal information is compromised as a result of a breach of security, Snapguide will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in our [Terms of Service](http://snapguide.com/about/terms), or as otherwise required by applicable law. 
+In the event that personal information is compromised as a result of a breach of security, Snapguide will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in our [Terms of Service](https://snapguide.com/about/terms), or as otherwise required by applicable law. 
 
 Your Choices About Your Information
 
@@ -63,7 +63,7 @@ If you have any questions about this Privacy Policy, please contact us at [info@
 Heavy Bits, Inc.  
 Attn: Daniel Raffel  
 Attn: Privacy Agent  
-2 Mint Plaza, Suite 603  
+12 Gallagher Ln  
 San Francisco, CA 94103  
 Email: [info@heavybits.com](mailto:info@heavybits.com)  
 
