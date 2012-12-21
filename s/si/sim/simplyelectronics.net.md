@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplyelectronics.net privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619170248id_/http%3A//www.simplyelectronics.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyelectronics.net privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221085659id_/http%3A//www.simplyelectronics.net/privacy.php) for the most accurate reproduction.*
 
 # Buy Consumer Electronics at Simply Electronics
 
@@ -51,7 +51,7 @@ This privacy policy only covers our Websites. Any other websites which may be li
 
 | 
 
-[](https://web.archive.org/web/20120619170248id_/http%3A//www.simplyelectronics.net/contact.php)
+[](https://web.archive.org/web/20121221085659id_/http%3A//www.simplyelectronics.net/contact.php)
 
   
 
@@ -59,25 +59,18 @@ This privacy policy only covers our Websites. Any other websites which may be li
   
 
 
-  
-
-
-  
-
+[](https://web.archive.org/web/20121221085659id_/http%3A//www.simplyelectronics.net/reasons.php)
 
   
 
 
-[](https://web.archive.org/web/20120619170248id_/http%3A//www.simplyelectronics.net/promotions/ipad2/?setcurrency=usd)
+  
+
+
+[](http://electronics.simplyelectronics.net/search?country=US&currency=usd&w=ipad)
 
   
 
 
-[](https://web.archive.org/web/20120619170248id_/http%3A//www.simplyelectronics.net/exdemo.php)
-
-  
-| **   Buying From Us**  
----  
-|  [](https://web.archive.org/web/20120619170248id_/http%3A//www.simplyelectronics.net/reasons.php) |   
   
 
