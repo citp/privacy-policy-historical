@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jobalertsusa.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505121421id_/http%3A//forms.jobalertsusa.com/classic/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobalertsusa.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221130736id_/http%3A//forms.jobalertsusa.com/classic/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - jobalertsusa.com
 
 **Privacy Policy**
 
-February 12th 2010
+Update 1th January 2012 
 
 Thank you for visiting the jobalertsusa.com website located at jobalertsusa.com (the "Website", "we", "us"). We provide this notice in an effort to explain our online information practices and the choices available to you concerning the way that we use the information collected online at this Website.
 
@@ -31,11 +31,15 @@ We do not endorse, nor are we responsible for the accuracy of, the privacy polic
 
 **Your Choices**
 
-During registration and/or when you submit personally identifiable information to us at the Website, you have opted-in to request that we share your personal information with third parties to receive marketing communications. When contacted by any of these companies or third parties, you should notify them directly of your choices regarding their use and sharing of your information. To opt-out from receiving any additional email communications regarding this website, [contact us](http://jobalertsusa.com/Contact-Us/3_0_menu=6.aspx). 
+uring registration and/or when you submit personally identifiable information to us at the Website, you have opted-in to request that we share your personal information with third parties to receive marketing communications. However, your email address will only be shared with our mailing partner, ExpressSender.com. When contacted by any of these companies or third parties, you should notify them directly of your choices regarding their use and sharing of your information. To opt-out from receiving any additional email communications regarding this website, please [contact us](http://jobalertsusa.com/Contact-Us/3_0_menu=6.aspx). Some of the services that we provide will result in sending an SMS, wireless or other mobile offering to your cell phone. By signing up, you are agreeing to receive these mobile offerings. You understand that your wireless carrier's standard rates apply to these messages. To unsubscribe or discontinue SMS messages, send "STOP", "END", "QUIT" to the SMS text message you have received. This process impacts only the future delivery of the particular SMS message offering, so you must send that message for each offering. This will not affect offerings sent on behalf of third parties. 
 
 Some of the services that we provide will result in sending an SMS, wireless or other mobile offering to your cell phone. By signing up, you are agreeing to receive these mobile offerings. You understand that your wireless carrier's standard rates apply to these messages. To unsubscribe or discontinue SMS messages, send "STOP", "END", "QUIT" to the SMS text message you have received. This process impacts only the future delivery of the particular SMS message offering, so you must send that message for each offering. This will not affect offerings sent on behalf of third parties. 
 
 Notwithstanding anything else herein, we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or “hashed” (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to <http://www.privacychoice.org/choose>. 
+
+**Use of Information**
+
+The Personal Information you submit to us remains your property, but by submitting that Personal Information to us, you grant us the right, subject to applicable state and federal law, to use that Personal Information for marketing purposes. Without limiting the generality of the foregoing, we reserve the right to share the Personal Information we collect, excluding your email address, with carefully selected marketing partners who can offer you products and services that may be of interest to you. You also agree to receive e-mail marketing from JOBALERTSUSA. Any email you receive will be from JOBALERTSUSA and may be sent by our mailing partner, All Inbox, LLC. 
 
 **SMS, Wireless and Other Mobile Offerings**
 
