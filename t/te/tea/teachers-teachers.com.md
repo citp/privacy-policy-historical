@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachers-teachers.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621101629id_/http%3A//www.teachers-teachers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachers-teachers.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221032258id_/http%3A//www.teachers-teachers.com/privacy) for the most accurate reproduction.*
 
 # Teachers-Teachers.com
 
@@ -83,7 +83,7 @@ Latest revision: June 1, 2002
 
 **Contacting Teachers-Teachers.com**
 
-> Teachers-Teachers.com is based in the state of Maryland. You can contact the company using any of the methods below: 
+> Teachers-Teachers.com is based in the state of Florida. You can contact the company using any of the methods below: 
 > 
 > **via email**  
 > 
