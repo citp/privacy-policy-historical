@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinstantdownline.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622125037id_/http%3A//theinstantdownline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinstantdownline.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221234810id_/http%3A//theinstantdownline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Instant Downline
 
@@ -49,9 +49,9 @@ Changes to this Policy
 
 We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at http://theinstantdownline.com/privacy-policy If we make a change to this policy that, in our sole discretion, is material, we will notify you via an update or e-mail to the email associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
-#### Network Marketers who found this page were searching for:
+#### MLM and Network Marketing oppportunity seekers who found this page were searching for:
 
-  * downline collection 2012
   * tid mlm other country sign up
+  * downline collection 2012
 
 
