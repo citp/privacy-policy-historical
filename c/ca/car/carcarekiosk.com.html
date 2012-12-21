@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the carcarekiosk.com privacy policy that was archived on 2012-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622125700id_/http%3A//www.carcarekiosk.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carcarekiosk.com privacy policy that was archived on 2012-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121221191606id_/http%3A//www.carcarekiosk.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -11,7 +11,7 @@
 <link href="/saux/cck.css" rel="stylesheet" type="text/css">
 <link href="/saux/jquery-ui-1.8.15.custom.css" rel="stylesheet" type="text/css">
 <link href="/saux/jquery.custom.css" rel="stylesheet" type="text/css" media="screen">
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/saux/jquery-1.7.1.min.js"></script>
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://z.chango.com/static/c.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/saux/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="/saux/jquery-ui-1.8.15.custom.min.js"></script>
 <script type="text/javascript" src="/saux/jquery.blockUI.js"></script>
 <script type="text/javascript">
@@ -89,24 +89,29 @@ $(function() {
         $('#DriveHome').css('display','none');
         $('.nav').css('left','330px');
     });
-    $('#DonateImage').hover(function() {
-        $('#DonateText').show();
-    }, function() {
-        $('#DonateText').hide();
-    });
+    $('#DonateImage').hover(function() { $('#DonateText').show(); }, function() { $('#DonateText').hide(); });
+    $('.mobile_version').hover(function() { $(this).attr('src','/img/mobile-hover.png'); }, function() { $(this).attr('src','/img/mobile-button.png'); });
 });
 </script>
 <meta name="msvalidate.01" content="7395AA3B542E278C302C8B5DE3D779DD">
 <meta name="google-site-verification" content="QW-viG8Kf0AoVxo2BbyK3M62o8kPj4WjMMgWz1UOiMo">
 <script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-25396258-1']);
-  _gaq.push(['_trackPageview']);
-  (function() {
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-25396258-1']);
+_gaq.push(['_trackPageview']);
+(function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+})();
+(function (tos) {
+  window.setInterval(function () {
+    tos = (function (t) {
+      return t[0] == 50 ? (parseInt(t[1]) + 1) + ':00' : (t[1] || '0') + ':' + (parseInt(t[0]) + 10);
+    })(tos.split(':').reverse());
+    window.pageTracker ? pageTracker._trackEvent('Time', 'Log', tos) : _gaq.push(['_trackEvent', 'Time', 'Log', tos]);
+  }, 30000);
+})('00');
 </script>
 </head>
 <body class="one_column short">
@@ -232,7 +237,8 @@ $(function() {
           <li><a href="http://www.carcarekiosk.com/aj/signin?To=MyCars" title="Please Sign In to Use this Feature" class="opener">My Cars</a></li>
                    <li><a href="http://www.carcarekiosk.com/video-upload">Upload</a></li>
           <li><a href="http://www.carcarekiosk.com/parts" rel="nofollow">Parts</a></li>
-          <li class="last"><a href="http://www.carcarekiosktoolbox.com" target="_blank">Tools</a></li>
+          <li><a href="http://www.carcarekiosktoolbox.com" target="_blank">Tools</a></li>
+          <li class="last"><a href="http://www.carcarekiosk.com/mobile-version"><img src="/img/mobile-button.png" class="ib mobile_version"></a></li>
       </ul>
 </div>
 <div class="logo">
@@ -253,6 +259,11 @@ $(function() {
 
 
 
+<!-- Chango -->
+<script type="text/javascript">
+var __chd__ = {"aid":11291,"chaid":"www_carcarekiosk_com"};(function() { var c = document.createElement('script'); c.type = 'text/javascript'; c.async = true;c.src = ('https:' == document.location.protocol ? 'https://z': 'http://p') + '.chango.com/static/c.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(c,s);})();
+</script>
+<!-- End Chango -->
 <!-- Quantcast Tag -->
 <script type="text/javascript">
 var _qevents = _qevents || [];
@@ -270,7 +281,6 @@ _qevents.push({
 qacct:"p-31xMAh1UEGV-s"
 });
 </script>
-
 <noscript>
 <div style="display:none;">
 <img src="//pixel.quantserve.com/pixel/p-31xMAh1UEGV-s.gif" border="0" height="1" width="1" alt="Quantcast"/>
