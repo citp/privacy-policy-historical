@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dv.com privacy policy that was archived on 2012-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120212081634id_/http%3A//www.dv.com/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dv.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221055353id_/http%3A//www.nbmedia.com/content/company_information/Privacy_Policy.php) for the most accurate reproduction.*
 
-# DV - Privacy Notice
+# NewBay Media
 
 Last Updated: January 11, 2011
 
-**NewBay Media LLC** (“NewBay”) has implemented this Privacy Policy governing the personally identifiable information (“Personal Consumer Information”) collected by this site. This Privacy Policy does not govern Personal Consumer Information collected from any other source or in any other manner.
+NewBay Media LLC (“NewBay”) has implemented this Privacy Policy governing the personally identifiable information (“Personal Consumer Information”) collected by this site. This Privacy Policy does not govern Personal Consumer Information collected from any other source or in any other manner.
 
 ### Overview
 
@@ -22,12 +22,11 @@ Attn: California Privacy Rights Administrator
 
 ### Collection of Information
 
-**Information You Provide to Us:** NewBay collects information about you when you visit and/or purchase products from this website. Some of this information is automatically collected, and some is collected when you interact with the site. The type of information that is automatically collected can include date and time of access of the site, the Internet protocol address of the computer that you are using, the domain and host from which you access the Internet, your browser software and operating system, and the specific activities you are engaged in while visiting the Site.. Information from which you can be personally identified may also be collected by NewBay at the site, including your name, postal address, e-mail address (referred to as “Personal Consumer Information”). Of course, you may choose not to provide certain information to NewBay, but if so, you may not be able to participate in certain NewBay activities and transactions.
+Information You Provide to Us: NewBay collects information about you when you visit and/or purchase products from this website. Some of this information is automatically collected, and some is collected when you interact with the site. The type of information that is automatically collected can include date and time of access of the site, the Internet protocol address of the computer that you are using, the domain and host from which you access the Internet, your browser software and operating system, and the specific activities you are engaged in while visiting the Site.. Information from which you can be personally identified may also be collected by NewBay at the site, including your name, postal address, e-mail address (referred to as “Personal Consumer Information”). Of course, you may choose not to provide certain information to NewBay, but if so, you may not be able to participate in certain NewBay activities and transactions.
 
-**Use of “Cookies” and Other Technologies:** NewBay may use “cookies” and/or other technologies or files (collectively, “cookies”) to identify how its visitors make use of this site. This aggregate tracking information is used to help NewBay improve and enhance the website experience for all of its visitors. If you would prefer not to have such cookies stored on your computer, you may modify your browser settings to reject most cookies, or manually remove cookies that have been placed on your computer. However, by so rejecting the cookies, you may be unable to fully access the offerings on this site.  
+Use of “Cookies” and Other Technologies: NewBay may use “cookies” and/or other technologies or files (collectively, “cookies”) to identify how its visitors make use of this site. This aggregate tracking information is used to help NewBay improve and enhance the website experience for all of its visitors. If you would prefer not to have such cookies stored on your computer, you may modify your browser settings to reject most cookies, or manually remove cookies that have been placed on your computer. However, by so rejecting the cookies, you may be unable to fully access the offerings on this site.
 
-
-**E-mail Communication:** When you communicate with NewBay electronically, via e-mail or otherwise, you consent to NewBay’s use of the information you have provided, and you further consent to receive electronic communications from NewBay. If you would prefer not to receive such communications, please e-mail [Privacycoordinator@NBmedia.com](mailto:Privacycoordinator@NBmedia.com) and so advise.
+E-mail Communication: When you communicate with NewBay electronically, via e-mail or otherwise, you consent to NewBay’s use of the information you have provided, and you further consent to receive electronic communications from NewBay. If you would prefer not to receive such communications, please e-mail [Privacycoordinator@NBmedia.com](mailto:Privacycoordinator@NBmedia.com) and so advise.
 
 ### Security of Information
 
@@ -35,7 +34,7 @@ NewBay maintains reasonable standards of confidentiality and security for this s
 
 ### Use and Sharing of Information
 
-**Use of Personal Consumer Information by NewBay**
+Use of Personal Consumer Information by NewBay
 
 The Personal Consumer Information collected by NewBay may be used by NewBay for any lawful purpose, including to communicate with you, respond to your requests, and analyze and improve NewBay’s websites, its business and/or its service to you. NewBay may use this information to send you e-mail newsletters, promotional offers with respect to goods or services of a particular brand or other types of communications on behalf of NewBay and/or its affiliates. All e-mail newsletters and promotional offers will provide you with an opportunity to opt out of receiving future issues of such newsletters or to opt out of receiving future promotional offers with respect to such brand. NewBay may also use your Personal Consumer Information to send you e-mails or other communications on behalf of third parties. All such communications will provide you with the opportunity to opt out of receiving future third party offers from NewBay. You may also, at any time, opt-out of receiving any third-party offers from this site by sending an e-mail to [Privacycoordinator@NBmedia.com](mailto:Privacycoordinator@NBmedia.com).
 
@@ -43,11 +42,11 @@ The Personal Consumer Information collected by NewBay may be used by NewBay for 
 
 Without restriction, NewBay may disclose aggregated statistics about visitors to its site, along with specific information concerning individual visitors of its site that is not Personal Consumer Information, provided that no specific individual can be identified by the information so disclosed. NewBay may sometimes seek to share the Personal Consumer Information it has collected with a third party, and may also sometimes seek to share such Personal Consumer Information with companies that are affiliated with NewBay. NewBay may sometimes use a third party, located either within or outside the United States, to provide certain services on its behalf, such as processing transactions, sending e-mails or performing statistical analyses of activity on this website. In the event that NewBay provides certain of your Personal Consumer Information to any such entity, NewBay will require that any such entity maintain the confidentiality of (and not further share) the Personal Consumer Information that NewBay has provided to it. NewBay may sometimes share Personal Consumer Information with sponsors of Promotions on the NewBay site, or with or with sponsors or advertisers of “premium” content. NewBay will always disclose when you are registering for such a Promotion or requesting such content. NewBay will not provide Personal Consumer Information to any third party for such party’s direct marketing purposes without first providing you with an opportunity to opt-out of such disclosures.
 
-**Acquisition of Business**
+Acquisition of Business
 
 In the event that NewBay is involved in a merger, acquisition, consolidation, restructuring, reorganization, liquidation, sale or similar transaction relating to any portion of its business and/or assets, you hereby acknowledge and agree that the Personal Consumer Information relating to visitors of this site that NewBay has collected may be included in the assets, and/or transferred pursuant to, such transaction. If that occurs, NewBay will post a notice to such effect on this website.
 
-**Legal Process**
+Legal Process
 
 NewBay may disclose your Personal Consumer Information if it has a reasonable good faith basis to believe that it is required to do so by law, compelled by court order or legal process, or is reasonably necessary and/or appropriate to: (i) protect the rights, property and/or safety of NewBay or any other person or entity; or (ii) prevent or take action concerning any alleged: (a) illegal activity or (b) breach of the Terms and Conditions or Privacy Policy of this website.
 
@@ -79,4 +78,5 @@ Attn: Privacy Coordinator
 
 This Privacy Policy shall be governed by the laws of the State of New York, without regard to its conflict of law provisions. Any dispute concerning this Privacy Policy or your use of this site shall be submitted to binding arbitration in New York within one (1) year from the date that the cause of action arose (or, if multiple cause of actions are involved, from the date that the first cause of action arose), with such arbitration conducted pursuant to the then prevailing rules of the American Arbitration Association. To the fullest extent permitted by law, no arbitration brought pursuant hereto shall be joined to any other action or any other arbitration initiated pursuant hereto. If any portion of this Privacy Policy is deemed unenforceable, unlawful or void by a Court of competent jurisdiction, then that portion of the Privacy Policy will be deemed severable and will not affect the enforceability or validity of the remaining portions of this Privacy Policy.
 
-TM and Copyright 2011 NewBay Media LLC. All rights reserved.
+TM and Copyright 2011 NewBay Media LLC. All rights reserved.    
+
