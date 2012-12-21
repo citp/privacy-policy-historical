@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godaam.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509084314id_/http%3A//godaam.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godaam.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221080006id_/http%3A//www.godaam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
