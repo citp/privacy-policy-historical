@@ -1,89 +1,125 @@
-> *The following text is extracted and transformed from the oneid.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523020903id_/http%3A//www.oneid.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneid.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221113201id_/http%3A//www.oneid.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# OneID | Privacy Policy
+# Privacy Policy | OneID
 
-### Overview
+The purpose of this Privacy Policy is to clearly describe how OneID Inc. (“OneID”, “we”) collects, uses and protects information you provide to us when using the OneID products and services and this website. We will not share your information with anyone except as described in this Privacy Policy. When you use the OneID products and services and/or interact with the OneID website located at www.oneid.com, you agree to accept this policy. We reserve the right to modify this policy at any time. We will post notifications of revised versions of our policy on our website, and revised policies will be immediately effective. Throughout this Privacy Policy, we will refer to our website, software, products and services collectively as the “OneID Services.” 
 
-OneID Inc. (“OneID”) respects your concerns about privacy safeguards. This privacy policy discloses how we gather, use, share and protect information collected about visitors to the OneID Web site and users (“Users”) of the OneID service (“Service”).
+#### Information We Collect and How We Use It
 
-## What Information Does OneID Gather?
+##### OneID Account Information
 
-OneID collects the following types of information: (1) non-personally identifiable information you provide to OneID and/or its partners when signing up for and using the Service; (2) email or other contact information when communicating with us; and (3) web server logs, which include IP addresses , browser and OS types when using the Service and visiting the OneID Web site. By visiting the OneID Web site or using the Service, you are accepting the practices described in this Privacy Policy. OneID encourages you to read this Privacy Policy carefully.
+You choose what information you wish to store in your OneID account. Your email address is the only information that is required to create an account, although we also request that you provide an account name for us to use in referring to your account. When you create and update your OneID account, you may upload additional account information to the OneID data repository, which may be maintained by OneID or another entity of your choice (the “Repository Manager”). This information may include: your address, date of birth, credit card information, driver’s license information, phone number and other personal information. All of the information stored in the OneID data repository, with the exception of your account name, email address and the device identification information necessary to enable push notifications, is stored in encrypted form. The encryption keys and passcode needed to decrypt the information in the OneID data repository are created and stored exclusively on your devices and are not accessible by OneID or the Repository Manager. 
 
-### User Information
+OneID may use your account information for the following purposes: 
 
-OneID collects and securely stores web server logs, which include IP address, browser and OS type. OneID collects other personally identifiable information such as your name, address, billing address, phone number and credit card information, but stores such information in encrypted form not decryptable by OneID.
+  * To enable you to share your account information with third party websites and applications that are OneID-enabled.
+  * To inform you about account activity.
+  * To communicate with you for administrative purposes, such as sending security related notices, notifying you of major OneID Service changes, or for other customer service purposes.
+  * OneID may use your email address to contact you on occasion regarding OneID product announcements such as special promotions or new products and services. You can choose to opt-out of receiving these emails at any time by logging into your account and changing your account preference. 
 
-### Website Visitor Information
 
-The OneID Web site server automatically records visitor information based on your activity on the OneID Web site, such as IP addresses browser and operating system type, and in some cases referring URL. An IP address is often associated with the place from which you enter the Internet such as your Internet service provider. This information is often associated with you as an individual.
 
-### Communication Information
+##### Registered Device Information
 
-If you communicate directly with OneID by email or letter, OneID may collect and store a record of your communication. OneID may use your communication information to respond to your issues and inquiries. Such communication information may be used to distribute information back to you about OneID, the Service, or other information communications from OneID.
+When you register a device with your OneID account we store encryption keys in local and/or flash storage on your device as a unique identifier. For mobile devices, we also collect information necessary to enable push notifications.
 
-## How Does OneID Use the Information and With Whom Do We Share the Information?
+OneID may use your registered device information for the following purposes: 
 
-OneID does not share, rent, lease or sell personally identifiable information to others in ways different from what is disclosed in this Privacy Policy.
+  * To enable you to verify your identity to OneID-enabled websites and applications.
+  * To enable second factor authentication utilizing your mobile device.
 
-### User Information
 
-OneID also utilizes third party companies and individuals to perform functions on our behalf, including, without limitation, companies with whom we have administrative relationships, such as billing or customer support services. Such third parties have access to personally identifiable information needed to perform their functions that are specifically related to the Service, but may not use it for other purposes unless specifically stated otherwise.
 
-### Personally Identifiable Information
+##### Usage Information 
 
-Except as specified above, OneID does not share your personally identifiable information with third parties, unless you have granted us permission to do so on an “opt-in” basis.
+When you use the OneID Services we record your account access and information about your device, including the IP address, browser and operating system type and version, and dates and times of your requests. All information related to your interactions with OneID-enabled websites and applications is received and stored by the Repository Manager in encrypted format. The encryption keys and passcode needed to decrypt this information are created and stored exclusively on your devices and are not accessible by OneID or the Repository Manager.
 
-### Business Transfers
+Usage information is used for verification purposes, to measure how our users utilize the OneID Services, and to improve and enhance our offerings to you.
 
-Because online business is rapidly evolving, and OneID continues to develop and enhance its business, it may become subject to a corporate merger, corporate acquisition, or similar transaction involving the sale or combination of substantially all of Service-related assets. In such circumstance, OneID reserves the right to disclose your personally identifiable information to the merged or resultant business entity.
+##### Cookies and Clear Images
 
-### Protection of OneID and Others; Compliance with the Law
+We may place “cookies” on your computer or device. Cookies are small data files that identify you when you use the OneID Services. These may be session cookies that disappear after you close your browser and/or persistent cookies that remain after you close your browser and are used by us during your subsequent visits to the site. You have the option to decline our cookies by using your browsers’ settings, but this may interfere with your use of our website and OneID Services. 
 
-OneID reserves the right to disclose your personally identifiable information and/or non-personally identifiable information if required to do so by law or in good-faith belief that such action is reasonably necessary to (a) comply with legal process, applicable law, regulation or governmental request, (b) respond to any claims against it, or (c) protect the rights, property or personal safety of OneID, its employees, its customers or the public. This includes, without limitation, exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+We use cookies to monitor aggregate metrics such as total number of visitors and traffic and to diagnose or fix technology problems reported by our users or engineers that are associated with certain IP addresses. We also use an analytics service to measure how people use our web site so we can improve the OneID Services. We do not tie the information we gather through the use of cookies or images to Personal Information. Although we do receive and keep information about how you arrived at our site, we do not track your activity across the Internet. We only collect basic, non-personal or technical information, such as browser and operating system type and version, from those who visit our site but who do not create a OneID account.
 
-### Visitor Information
+##### Customer Support or Inquires
 
-OneID uses information about user behavior, user experience, user equipment, computing and Internet environment to verify and improve the performance of the OneID Web site and the Service.
+Additional information from or about you may also be collected in your direct correspondence with us via email, text, or letter, including your communications with our customer service teams. We will use this information to provide customer service and fulfill requests you make.
 
-### Voluntary User Surveys, Usability Studies, Contests, and Other Voluntary Programs
+##### Customer Support or Inquires
 
-Personally identifiable information collected by OneID in conjunction with voluntary User surveys, usability studies, contests, sweepstakes and other voluntary programs will not be shared with any other third party without your consent.
+In addition to the specific collection and usage policies described above, OneID may use your information as follows: 
 
-### Non-personally Identifiable Information
+  * To provide the features and functionality of the OneID Services.
+  * To enforce our agreements with you, as well as secure the best possible experience for all OneID members by ensuring compliance with applicable laws and our own policies.
+  * OneID and its trusted third party service providers may use aggregated or anonymous information for OneID’s internal purposes, including improving the OneID Services and analyzing user behavior.
 
-OneID may collect, store, and share non-personally identifiable information collected as you use the Service and the OneID Web site and OneID may provide features which assist OneID to do so.
 
-### Communication Information
 
-OneID may use your communication information to respond to your issues and inquiries. Your communication information you provide to OneID’s third party partners will also enable such partners to let us know that you have contacted them. Such communication information may be used to distribute information back to you about OneID, the Service or other promotional or information communications from OneID.
+#### Sharing Your Personal Information
 
-### Cookies
+Any information that can be used to identify a person is “Personal Information”. OneID will not rent or sell your Personal Information to others. OneID will not share your Personal Information with third parties without your prior consent or direction except as set forth below.
 
-Cookies are data that a Web site transmits through your browser to enable the Web site to recognize your browser, record and store your information and occasionally track your viewing habits for statistical purposes. One ID also stores PII in HTML5 local storage. The OneID Web site may use cookies to collect this type of information to deliver targeted content to you, and potentially tailor and enhance your experience on the OneID Web site.
+##### In Connection With Using Your OneID Account
 
-### Children
+You are in control of what Personal Information you choose to share with OneID-enabled websites and applications. When you access your OneID account to interact with OneID-enabled websites or applications, you may elect to share all or some of your Personal Information stored in the OneID data repository. 
 
-OneID does not intend to collect information from individuals who identify themselves as under thirteen (13) years of age. If you are under thirteen, you should not provide any personal information on the OneID Web site. OneID will not knowingly disclose personally identifiable information of children under thirteen to any third party.
+##### To Our Third Party Service Providers
 
-## How Does OneID Protect My Information?
+We may share your Personal Information with our trusted third party service providers for the purpose of providing the OneID Services to you and improving the OneID Services. If we do this, such third parties’ use of your Personal Information will be bound by terms at least as restrictive as this Privacy Policy. Service providers provide us a range of essential operational services including fraud prevention, transaction processing, collections, user analytics and managed technology services. Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit.
 
-OneID takes technical, contractual, administrative and physical security steps to protect all User, visitor and contact information from unauthorized access, maintain data accuracy and enable the correct use of information. OneID utilizes security systems to protect such information. Personally identifiable information such as your name, address, billing address, phone number, and credit card information are encrypted when stored in a OneID repository and accessible only with keys that are on your devices.
+##### In Connection With a Business Transaction
 
-### Linked Websites
+As we develop our business, we may buy or sell assets or business offerings. Customer, transaction, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information, including Personal Information contained therein, in the course of corporate divestitures, mergers, or dissolution.
 
-The OneID Web site may contain links to other sites. OneID is not responsible for the privacy practices or the content of such other sites. OneID encourages you to review the privacy policies posted on these third party sites.
+##### Legal Compliance and Protection of OneID and Others
 
-### Accessing and Updating Information
+OneID may be required to disclose Personal Information by law, court order or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, report, prevent, or take action regarding suspected or actual illegal activities; (b) enforce our User agreement, take precautions against liability, investigate and defend ourselves against any third-party claims or allegations, assist government enforcement agencies, or protect the security or integrity of our site; or (c) exercise or protect the rights, property, or personal safety of OneID, our Users or others.
 
-Please notify us of changes to any of your personally identifiable information that you have previously provided to us, such as your email address by sending an email to [support@oneid.com](mailto:support@oneid.com). To remove your name from our database or to interrupt e-mail notifications, please send an email to [support@oneid.com](mailto:support@oneid.com).
+#### Protecting Your Personal Information
 
-### Conditions of Use; Contacting Us
+As described above, with the exception of your name, email address and device identification information necessary to enable push notifications, all information stored in the OneID repository is encrypted and only you have the keys and passcode to decrypt your information. We have implemented additional safeguards and procedures in accordance with US state and federal law and regulations to maintain the physical and electronic security of our software, services and your Personal Information. Our measures include firewalls, data encryption, physical and electronic access controls, and strict rules regarding the access and use of data on our system. We also perform third-party penetration tests to harden our systems from attack. We cannot, however, ensure or warrant the security of any information that OneID receives on your behalf and you provide information to OneID at your own risk. We also cannot guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-This Privacy Policy may change from time to time and use of information that OneID gathers is subject to the Privacy Policy in effect at the time of use. If OneID decides to use personally identifiable information in a manner that is materially different from what is stated at the time such information was collected from you, such changes will be posted in this document or elsewhere on our Web site and provide you with an opportunity to decline such use of your information. Please check this Web site frequently to see recent changes, additions and deletions to this Privacy Policy. Your continued use of the Service and/or Materials and/or access to the OneID Web site constitutes your agreement to this Privacy Policy and any updates thereto.
+The security of your OneID account relies on the protection of your password, PIN, recovery code and the private encryption keys stored on your devices. You are solely responsible for maintaining the security of these items and for activities that occur under your OneID account due to their compromise. 
 
-Use of the Service is subject to the applicable terms and conditions for the Service.
+#### Compromise of Personal Information
 
-If you prefer not to receive promotional or other informational communications from OneID, or if you have any questions or comments about our privacy practices or comments or suggestions about the OneID Web site, please send an email to [support@oneid.com](mailto:support@oneid.com) or by mail to OneID Inc., 2216 O’Toole Ave, San Jose, CA 95131-1326 USA Attention: Webmaster.
+In the event that Personal Information is compromised as a result of a breach of OneID’s security procedures, OneID will promptly notify those persons whose Personal Information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, by email, or as otherwise required by applicable law.
 
-Last Updated 12 March 2012
+#### Your Choices About Your Information
+
+You may, of course, decline to submit Personal Information through the OneID Services, in which case OneID may not be able to provide certain services to you. You may update or correct your account information at any time by logging in to your account. You can review and correct the information about you that OneID keeps on file by contacting us as described below. 
+
+If you wish to close your OneID account, you may do so at any time via the account settings. Upon closing your OneID account, we will delete your account information from the OneID data repository; however some information may be retained in our backup files until we overwrite these files in accordance with our standard backup procedures.
+
+#### Third Party Repositories
+
+If you choose a third party to act as your Repository Manager, please be aware that OneID does not control and is not responsible for the actions of third party Repository Managers. The terms of the third party Repository Manager’s Privacy Policy will govern the use of all information you submit to your OneID account if OneID is not your Repository Manager.
+
+#### OneID-enabled Websites and Links to Other Web Sites
+
+OneID is not responsible for the practices employed by websites and applications that are OneID-enabled or that are linked to or from our website, nor the information or content contained therein. Please remember that when you utilize the OneID Services to interact with a third party website or application or use a link to go from our website to another website, our Privacy Policy is no longer in effect. Your authentication, browsing and interaction on any other website or application, including those that are OneID-enabled or have a link on our website, is subject to that website’s or application’s own rules and policies. Please read over those rules and policies before proceeding or sharing your OneID account information with OneID-enabled websites and applications. 
+
+#### International Visitors
+
+The OneID Services are hosted in the United States and are intended for United States visitors. If you are using the OneID Services from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, then please note that you are transferring your personal data to the United States and by providing your personal data you consent to that transfer.
+
+#### Blogs and Forums
+
+If you use the blog or forums on the site, you should be aware that any information you submit there can be read, collected, or used by other users of these blogs and forums, and that any contact information you include could be used to send you unsolicited messages. We are not responsible for the information you choose to submit to these blogs or forums. To request removal of your information from our blog or forum, contact us as specified below. In some cases, we may not be able to remove your information, in which case we will let you know if we are unable to do so and why.
+
+#### Children’s Privacy
+
+Protecting the privacy of young children is especially important. For that reason, OneID does not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to register with the OneID Services. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any Personal Information to or on OneID. In the event that we learn that we have collected Personal Information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us as described below.
+
+#### Notification Procedures
+
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our website, as determined by OneID in its sole discretion. We reserve the right to determine the form and means of providing notifications to you.
+
+#### Contact
+
+OneID Inc.  
+Suite 204  
+900 Island Drive  
+Redwood City, CA 94065  
+Email: [privacy@oneid.com](https://web.archive.org/web/20121221113201id_/http%3A//www.oneid.com/legal/privacy@oneid.com)
