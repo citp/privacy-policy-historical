@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the suddenlydarling.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523145709id_/http%3A//www.suddenlydarling.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1447%26Itemid%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suddenlydarling.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221134809id_/http%3A//www.suddenlydarling.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Suddenly Darling Privacy Notice  
 Updated as of July 28, 2011
 
-The CastFam Inc. Privacy Policy describes how CastFam Inc. and its subsidiaries treat personal information when you use CastFam Inc. services, including information provided when you use Suddenly Darling. In addition, the following describes privacy practices specific to Suddenly Darling. To understand how we treat the information you give us as you use Suddenly Darling, you should read the entire policy.
+The CastFam Inc. Privacy Policy describes how CastFam Inc. and its subsidiaries treat personal information when you use CastFam Inc. services, including information provided when you use [Suddenly Darling](http://www.suddenlydarling.com/). In addition, the following describes privacy practices specific to Suddenly Darling. To understand how we treat the information you give us as you use Suddenly Darling, you should read the entire policy.
 
 Personal Information
 
@@ -58,4 +58,4 @@ Suddenly Darling allows other companies, called third-party ad servers or ad net
 
 Suddenly Darling does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks Suddenly Darling to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the Suddenly Darling Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. Suddenly Darling's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. Any data obtained by third-party ad servers subsequently shared with Suddenly Darling is maintained and dealt with by Suddenly Darling in accordance with this privacy policy. 
+You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. Suddenly Darling's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. Any data obtained by third-party ad servers subsequently shared with Suddenly Darling is maintained and dealt with by Suddenly Darling in accordance with this privacy policy.
