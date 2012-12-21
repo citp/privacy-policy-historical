@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbox.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607021153id_/http%3A//www.redbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbox.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221081013id_/http%3A//www.redbox.com/privacy) for the most accurate reproduction.*
 
 # Redbox Privacy Policy | Redbox customer Privcay Policy
 
@@ -144,3 +144,5 @@ Redbox takes commercially reasonable steps to protect and secure Personal Inform
 **CONSENT TO TRANSFER**
 
 The Sites are operated in the United States and Redbox operates its business in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using the Sites or our features or providing us with any information, you consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen.
+
+**Redbox Automated Retail LLC | 1 Tower Lane, Suite 900 | Oakbrook Terrace, IL 60181**
