@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitizor.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501192140id_/http%3A//digitizor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitizor.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221162054id_/http%3A//digitizor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Digitizor
 
