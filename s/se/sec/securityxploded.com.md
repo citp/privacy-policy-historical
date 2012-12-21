@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the securityxploded.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513112729id_/http%3A//securityxploded.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securityxploded.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - www.SecurityXploded.com
 
-|  Privacy Policy - www.SecurityXploded.com  |    
+|  |   
+---|---  
+Privacy Policy - www.SecurityXploded.com  |    
 ---  
    
 Privacy Policy  
@@ -40,20 +42,44 @@ The data collected from feedback program is not stored anywhere except that feed
   
 |  Final Note   
 ---  
-If you believe that information presented above is incorrect or incomplete, please write to the Author through our [Feedback form](https://web.archive.org/web/20120513112729id_/http%3A//securityxploded.com/sitefeedback.php). Author will be more than happy to address any of your concerns or issues.  
+If you believe that information presented above is incorrect or incomplete, please write to the Author through our [Feedback form](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/sitefeedback.php). Author will be more than happy to address any of your concerns or issues.  
 |    
 ---  
-| Latest News [»  ](http://securityphresh.com/)  
+| New Tool [»  ](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/tools.php)  
+---  
+[](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/product-key-decryptor.php)
+
+Product Key Decryptor v1.0  
+  
+| 5 Million Downloads [»  ](http://bit.ly/SJANF5)  
+---  
+[](http://bit.ly/SJANF5)
+
+Five Million Downloads of Our Tools  
+  
+| Latest Tool [»  ](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/tools.php)  
+---  
+[](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/thunderbirdpassdecryptor.php)
+
+Thunderbird Pass Decryptor v2.5  
+  
+| Latest Article [»  ](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/research.php)  
+---  
+[](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/wifi-password-secrets.php)
+
+Exposing the WiFi Password Secrets  
+  
+| SecurityPhresh News [»  ](http://securityphresh.com/)  
 ---  
 [](http://securityphresh.com/)
 
-Anonymous Hits back at Call of Duty: 'We are not Terrorists'  
+All Security & Hacking News in One Place  
   
-| Latest Tool [»  ](https://web.archive.org/web/20120513112729id_/http%3A//securityxploded.com/tools.php)  
+| Grand Christmas SALE [»  ](http://netcertscanner.com/)  
 ---  
-[](https://web.archive.org/web/20120513112729id_/http%3A//securityxploded.com/vistauacmaker.php)
+[](http://netcertscanner.com/)
 
-Vista UAC Maker v3.0  
+This Christmas, Save up to $150 on Your NetCertScanner  
   
 | SX Alexa Toolbar [»  ](https://s3.amazonaws.com/com.alexa.toolbar/atbp/eal1Rz/download/index.htm)  
 ---  
@@ -61,45 +87,15 @@ Vista UAC Maker v3.0
 
 Install New SecurityXploded Alexa toolbar to stay Fresh & Smart...  
   
-| 5 Years SALE [»  ](http://netcertscanner.com/)  
+| Testimonials [»  ](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/testimonials.php)  
 ---  
-[](http://netcertscanner.com/)
-
-Get NetCertScanner at Throwaway Price on our 5 Years Celebration SALE...  
-  
-| New Tool [»  ](https://web.archive.org/web/20120513112729id_/http%3A//securityxploded.com/tools.php)  
----  
-[](https://web.archive.org/web/20120513112729id_/http%3A//securityxploded.com/sx-system-suite.php)
-
-SX System Suite v1.0  
-  
-| Latest Article [»  ](https://web.archive.org/web/20120513112729id_/http%3A//securityxploded.com/research.php)  
----  
-[](https://web.archive.org/web/20120513112729id_/http%3A//securityxploded.com/unpackingupx.php)
-
-Manual Unpacking of UPX using OllyDbg  
-  
-| Download eBook [»  ](https://web.archive.org/web/20120513112729id_/http%3A//securityxploded.com/search-ebooks.php)  
----  
-[](https://web.archive.org/web/20120513112729id_/http%3A//securityxploded.com/search-ebooks.php)
-
-Search and download your favorite eBooks...  
-  
-| Partner Conference [»  ](https://web.archive.org/web/20120513112729id_/http%3A//securityxploded.com/partners.php)  
----  
-[](http://nagareshwar.securityxploded.com/2012/02/22/hitb-set-mega-security-show-amsterdam/)
-
-HITB Conference 2012 Amsterdam  
-  
-| Testimonials [»  ](https://web.archive.org/web/20120513112729id_/http%3A//securityxploded.com/testimonials.php)  
----  
-[](https://web.archive.org/web/20120513112729id_/http%3A//securityxploded.com/testimonials.php)
+[](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/testimonials.php)
 
 "I have found 'SecurityXploded' tools to be an invaluable asset in many of our Forensic Investigations..."  
 \- James, Police Dept, Delaware, USA  
   
-| Awards [»  ](https://web.archive.org/web/20120513112729id_/http%3A//securityxploded.com/awards.php)  
+| Awards [»  ](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/awards.php)  
 ---  
-[](https://web.archive.org/web/20120513112729id_/http%3A//securityxploded.com/awards.php)
+[](https://web.archive.org/web/20121221105211id_/http%3A//securityxploded.com/awards.php)
 
 Awards for our softwares from leading Download Sites
