@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolmenshair.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503231022id_/http%3A//coolmenshair.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmenshair.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221043652id_/http%3A//coolmenshair.com/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Cool Men's Hairstyles Pictures & Styling Tips
 
