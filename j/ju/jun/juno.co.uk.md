@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juno.co.uk privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615130626id_/http%3A//www.juno.co.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juno.co.uk privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221150002id_/http%3A//www.juno.co.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Help » Privacy Policy
 
@@ -8,5 +8,8 @@ Juno Records takes the privacy of its customers very seriously, and will only co
 **Information collected**  
 To process an order, we require your name, e-mail address, delivery address, credit card number and expiry date. To receive our new release information e-mails, we require only your e-mail address. 
 
-**Security**  
+**Cookies**  
+As you browse www.juno.co.uk, advertising cookies may be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with www.juno.co.uk. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit [this page](http://www.juno.co.uk/www.adroll.com/about/privacy) to opt out of AdRoll and their partners' targeted advertising. 
+
+ **Security**  
 The shopping cart part of the site is secure, so that your order details are encrypted in your browser before they are sent to us. The order is then processed on a server that is not connected to the Internet.
