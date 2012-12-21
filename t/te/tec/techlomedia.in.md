@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the techlomedia.in privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613203333id_/http%3A//techlomedia.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techlomedia.in privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221020428id_/http%3A//techlomedia.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Techlomedia - social media news, technology news, internet, gadgets and mobile apps news
-
-  
-
+# Privacy Policy - Techlomedia - Social Media, Technology News, Internet, Gadgets, Tablets and Mobile apps
 
 ##  Privacy Policy  
 
@@ -21,7 +18,3 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
-
-#### About the Author
-
-Deepanker Verma is a computer geek and tech blogger. He likes to write about technology, security and gadgets. He is the admin of this website and also owns some high traffic websites. 
