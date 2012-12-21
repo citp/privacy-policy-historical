@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the finishline.com privacy policy that was archived on 2012-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629090529id_/http%3A//www.finishline.com/store/customer_service/privacy_policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the finishline.com privacy policy that was archived on 2012-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121221062805id_/http%3A//www.finishline.com/store/customer_service/privacy_policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=""><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -59,7 +59,7 @@
 			specificScript: ""
 			, specificPage: ""
 			, doProductDetails: false
-			, customerId: "1229957993"
+			, customerId: "1427929611"
 			, category: ""
 			, categoryId: ""
 			, subCategory: ""
@@ -125,9 +125,12 @@
 								{{if product.listPrice == product.originalPrice}}
 									<span class="price">{{= product.listPrice}}</span>
 								{{/if}}
-								{{if product.listPrice != product.originalPrice}}
+								{{if product.listPrice < product.originalPrice}}
 									<span class="price sale">{{= product.listPrice}}</span>
 									<span class="original">{{= product.originalPrice}}</span>
+								{{/if}}
+								{{if product.listPrice > product.originalPrice}}
+									<span class="price">{{= product.listPrice}}</span>
 								{{/if}}
 							</div>
 							{{if product.isFreeShipping == 'true'}}
@@ -171,12 +174,12 @@
 				FL.environment = "www";
 			</script>
 
-			<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 			<script>window.jQuery || document.write('<script src="/store/assets/scripts/library/jquery-1.6.4.min.js"><\/script>')</script><script src="/store/assets/scripts/library/jquery-1.6.4.min.js"></script>
 			<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-			<script>window.jQuery.ui || document.write('<script src="/store/assets/scripts/library/jquery-ui-1.8.15.custom.min.js"><\/script>')</script>
-			<script src="/store/assets/scripts/min/4ae4a82cbd612202dbcb7ab71c6ea97a.alpha.min.js"></script>
-					<script>
+			<script>window.jQuery.ui || document.write('<script src="/store/assets/scripts/library/jquery-ui-1.8.15.custom.min.js"><\/script>')</script><script src="/store/assets/scripts/library/jquery-ui-1.8.15.custom.min.js"></script>
+			<script src="/store/assets/scripts/min/e9b67e1d2afd73ed17268e17d5bd144f.alpha.min.js"></script>
+				<script>
 		
 			FL.environment = "";
 			
@@ -184,6 +187,7 @@
 			FL.environment = "www";</script>
 
 		<script src="//connect.facebook.net/en_US/all.js#xfbml=1"></script>
+
 
 		<!--[if lte IE 8]>
 			<script src="/store/assets/scripts/patches/if.lte.ie8.adds-first-and-last-child-classes.js"></script>
@@ -210,11 +214,11 @@
 
 	</head>
 
-	<!--[if lt IE 7 ]>	<body id="" class=" no-landingPage      spring-2012  debug-off ie ie6 "> <![endif]-->
-<!--[if IE 7 ]>		<body id="" class=" no-landingPage      spring-2012  debug-off ie ie7 "> <![endif]-->
-<!--[if IE 8 ]>		<body id="" class=" no-landingPage      spring-2012  debug-off ie ie8 "> <![endif]-->
-<!--[if gt IE 8 ]>	<body id="" class=" no-landingPage      spring-2012  debug-off ie ie9 "> <![endif]-->
-<!--[if !IE]>-->	<body id="" class=" no-landingPage      spring-2012  debug-off "> <!--<![endif]-->
+	<!--[if lt IE 7 ]>	<body id="" class=" no-landingPage      holiday-2012  debug-off ie ie6 "> <![endif]-->
+<!--[if IE 7 ]>		<body id="" class=" no-landingPage      holiday-2012  debug-off ie ie7 "> <![endif]-->
+<!--[if IE 8 ]>		<body id="" class=" no-landingPage      holiday-2012  debug-off ie ie8 "> <![endif]-->
+<!--[if gt IE 8 ]>	<body id="" class=" no-landingPage      holiday-2012  debug-off ie ie9 "> <![endif]-->
+<!--[if !IE]>-->	<body id="" class=" no-landingPage      holiday-2012  debug-off "> <!--<![endif]-->
 
 		<!-- Maxymiser script start -->
 <script src="//maxymiser.hs.llnwd.net/o36/finishline/js/mmcore.js"></script>
@@ -229,26 +233,15 @@
 						<div id="mastheadWrapper">
 							<a id="mastheadLogoLink" href="http://www.finishline.com/" title="Go to the FinishLine.com Home Page"><img src="/media/images/logos/finishline.com_logo_235x36_trans.png" width="355" height="104px" alt="FinishLine" style="visibility: hidden;"></a>
 						</div>
-
-						<div id="securityBadgeWrapper">
-							<div>
-<!--  Hacker Safe Type 1 code Begins -->  
-			<!-- START SCANALERT CODE -->
-			<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.finishline.com"><img width="65" height="37" src="//images.scanalert.com/meter/survey/www.finishline.com/39.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of McAfee, Inc.'); return false;"></a>
-			<!-- END SCANALERT CODE -->
-			<!--  Hacker Safe Type 1 code Ends -->     
-		</div>
-</div>
-
-						<div id="topnavWrapper">
+					<div id="topnavWrapper">
 							<div id="topnav" class="nav">
 								<ul>
 										<li><a href="/store/customer_service/faq_index.jsp">Help</a></li>
 									<li><a id="wishList" class="headerLinks" href="/store/gifts/wishlist_landing.jsp">WishList</a></li>
 
-										<li><a id="showOrderInquiry" class="popup_dialog" href="/store/global/fragments/order_inquiry.jsp" data-dialog="{&quot;id&quot; : &quot;order_inquiry&quot;, &quot;height&quot; : 600, &quot;width&quot; : 800, &quot;title&quot; : &quot;Order Inquiry&quot;, &quot;load&quot; : &quot;iframe&quot;}">Order Inquiry</a></li>
+										<li><a id="showOrderInquiry" class="popup_dialog" href="/store/global/fragments/order_inquiry.jsp?orderId=&amp;zip=" data-dialog="{&quot;id&quot; : &quot;order_inquiry&quot;, &quot;height&quot; : 600, &quot;width&quot; : 800, &quot;title&quot; : &quot;Order Inquiry&quot;, &quot;load&quot; : &quot;iframe&quot;}">Order Inquiry</a></li>
 									<li><a href="/store/storelocator/storelocator.jsp" class="headerLinks">Store Locator</a></li>
-										<li><a href="/store/my_account/signin.jsp">My Account (Sign In or Sign-Up)</a></li>
+										<li><a href="/store/my_account/signin.jsp;jsessionid=804BAD46E2FFEFDDF18B576957F24BDC.FLP10306">My Account (Sign In or Sign-Up)</a></li>
 									<li class="last-child"><a href="/store/" class="headerLinks">Home</a></li>
 									</ul>
 								<ul>
@@ -301,7 +294,7 @@
 		<a href="/store/results/index.jsp?Ne=3000540&amp;pageTitle=Men's Shoes&amp;N=3000583&amp;categoryId=cat20009"><span>Men’s Shoes</span></a>
 		<ul class="subnav">
 		<li><a href="/store/results/index.jsp?N=3000583+5102589&amp;pageTitle=Men's Shoes&amp;categoryId=cat20081">Men's Baseball Cleats</a></li>
-			<li><a href="/store/results/index.jsp?N=3000583+5102590&amp;pageTitle=Men's Shoes&amp;categoryId=cat20083">Men's Basketball Shoes</a></li>
+			<li><a href="/store/results/index.jsp?N=3000583+5102590&amp;pageTitle=Men's Shoes&amp;Ns=P_SalePrice|1&amp;categoryId=cat20083">Men's Basketball Shoes</a></li>
 			<li><a href="/store/results/index.jsp?N=3000583+5102591&amp;pageTitle=Men's Shoes&amp;categoryId=cat20091">Men's Boots &amp; Trail Shoes</a></li>
 			<li><a href="/store/results/index.jsp?N=3000583+5102592&amp;pageTitle=Men's Shoes&amp;categoryId=cat20085">Men's Casual Shoes</a></li>
 			<li><a href="/store/results/index.jsp?N=3000583+5102593&amp;pageTitle=Men's Shoes&amp;categoryId=cat20087">Men's Cross Training Shoes</a></li>
@@ -323,7 +316,6 @@
 			<li><a href="/store/results/index.jsp?N=3000584+5102612&amp;pageTitle=Women's Shoes&amp;categoryId=cat20137">Women's Running Shoes</a></li>
 			<li><a href="/store/results/index.jsp?N=3000584+5102613&amp;pageTitle=Women's Shoes&amp;categoryId=cat20139">Women's Sandals &amp; Flip Flops</a></li>
 			<li><a href="/store/results/index.jsp?N=3000584+5102611&amp;pageTitle=Women's Shoes&amp;categoryId=cat20131">Women's Training Shoes</a></li>
-			<li><a href="/store/results/index.jsp?N=3000584+5102617&amp;pageTitle=Women's Shoes&amp;categoryId=cat20143">Women's Volleyball Shoes</a></li>
 			</ul>
 		</li>
 	<li class="" id="mrd-tab-kids">
@@ -341,7 +333,8 @@
 			<li class="column col2">
 				<ul>
 					<li><a href="/store/results/index.jsp?pageTitle=Kids' Shoes&amp;N=5001883&amp;categoryId=cat20171+cat301101+cat20175" target="">Girls’</a></li>
-					<li><a href="/store/results/index.jsp?N=5001887&amp;pageTitle=Kids' Shoes&amp;categoryId=cat20171" class="sub">Girls' Gradeschool (3.5 - 7.0)</a></li>
+					<li><a href="/store/results/index.jsp?Ntt=girlscartoon&amp;pageTitle=Kids' Shoes&amp;N=12&amp;categoryId=cat301196" class="sub">Girls' Cartoon</a></li>
+						<li><a href="/store/results/index.jsp?N=5001887&amp;pageTitle=Kids' Shoes&amp;categoryId=cat20171" class="sub">Girls' Gradeschool (3.5 - 7.0)</a></li>
 						<li><a href="/store/results/index.jsp?N=5001888&amp;pageTitle=Kids' Shoes&amp;categoryId=cat301101" class="sub">Girls' Preschool (10.5 - 3.0)</a></li>
 						<li><a href="/store/results/index.jsp?N=5001889&amp;pageTitle=Kids' Shoes&amp;categoryId=cat20175" class="sub">Girls' Toddler / Infant (0 - 10.0)</a></li>
 						</ul>
@@ -387,7 +380,8 @@
 			<li class="column col3">
 				<ul>
 				<li><a href="/store/results/index.jsp?pageTitle=Apparel&amp;N=5202588&amp;categoryId=cat20019" target="">Kids’ Clothing &amp; Apparel</a></li>
-					<li><a href="/store/results/index.jsp?N=5202590&amp;pageTitle=Apparel&amp;categoryId=cat301437" class="sub">Pants</a></li>
+					<li><a href="/store/results/index.jsp?N=5202589&amp;pageTitle=Apparel&amp;categoryId=cat301435" class="sub">Jackets</a></li>
+						<li><a href="/store/results/index.jsp?N=5202590&amp;pageTitle=Apparel&amp;categoryId=cat301437" class="sub">Pants</a></li>
 						<li><a href="/store/results/index.jsp?N=5202591&amp;pageTitle=Apparel&amp;categoryId=cat301439" class="sub">Shorts</a></li>
 						<li><a href="/store/results/index.jsp?N=5202593&amp;pageTitle=Apparel&amp;categoryId=cat301431" class="sub">Tanks &amp; Tees</a></li>
 						<li><a href="/store/results/index.jsp?N=5202594&amp;pageTitle=Apparel&amp;categoryId=cat301441" class="sub">Team Gear</a></li>
@@ -426,10 +420,8 @@
 					<li><a href="/store/results/index.jsp?N=5002001&amp;categoryId=cat300538" class="sub">NHL Hockey Jerseys</a></li>
 
 					<!-- Once Rob fixes the data issue, we should remove the comments
-					<li class="subheader"><a href="/store/results/index.jsp?N=5002008&categoryId=cat20041" target="">NHL</a></li>
-					<li><a href="/store/results/index.jsp?N=5001999&categoryId=cat300514" class="sub">NHL Hockey Apparel</a></li>
-						<li><a href="/store/results/index.jsp?N=5002001&categoryId=cat300538" class="sub">NHL Hockey Jerseys</a></li>
-						
+					<li class="subheader"><a href="/store/results/index.jsp?" target="">NHL</a></li>
+					
 					-->
 
 					<!--
@@ -463,8 +455,8 @@
 	<li class="" id="mrd-tab-brands">
 		<a href="/store/results/index.jsp?N=3000588&amp;Ne=3&amp;categoryId=brands"><span>Brands</span></a>
 		<ul class="subnav">
-			<li><a href="http://www.nikeatfinishline.com" target="">Nike Shoes &amp; Apparel</a></li>
-			<li><a href="/air-jordan-shoes-apparel-accessories" target="">Jordan Shoes &amp; Apparel</a></li>
+			<li><a href="/store/shop/nike/_/N-1z141x6/Ne-5Z1sb8cZ1sb8vZ1sb97Z2/Ns-P_SalePrice%7C1?categoryId=catNike&amp;dim=Brand" target="">Nike Shoes &amp; Apparel</a></li>
+			<li><a href="/store/shop/_/N-/Ns-P_SalePrice%7C1/Ntt-jordan" target="">Jordan Shoes &amp; Apparel</a></li>
 			<li><a href="/reebok-shoes-apparel" target="">Reebok Shoes &amp; Apparel</a></li>
 			<li><a href="/store/shop/puma/_/N-1z141x0/Ne-5Z1sb8cZ1sb8vZ1sb97Z2/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?categoryId=cat300414&amp;dim=Brand" target="">Puma Shoes &amp; Apparel</a></li>
 			<li><a href="/store/shop/adidas/_/N-1z141xk/Ne-5Z1sb8cZ1sb8vZ1sb97Z2/Ns-P_BestSellers%7C1/Nf-P_SalePercent%7CLTEQ+30?categoryId=catAdidas" target="">adidas Shoes &amp; Apparel</a></li>
@@ -544,8 +536,12 @@
 						<div id="bannerWrapper">
 							<div id="banner">
 
-								<div style="width: 976px; display: inline-block; line-height: 0pt;">
-	<a class="popup_dialog" data-dialog="{&quot;title&quot;:&quot;Free Shipping Details&quot;, &quot;height&quot;:500, &quot;width&quot;:600, &quot;id&quot;:&quot;dialog_privacy_policy&quot;, &quot;load&quot;:&quot;iframe&quot;}" href="/store/global/promos/shipforfree.jsp"><img alt="Free Shipping on thousands of items!-- Click for Details" border="0" src="/ca/landing/9-14-11/fs_on_thousands.gif" style="width: 976px; height: 30px;" title="Free Shipping Details"></a></div>
+								<style type="text/css">
+#bannerWrapper {
+   height: 30px;
+}</style>
+<div style="width:976px; height: 30px; display: inline-block;">
+<!-- <a class="popup_dialog" data-dialog="{&quot;title&quot;:&quot;Shipping Details&quot;, &quot;height&quot;:500, &quot;width&quot;:600, &quot;id&quot;:&quot;dialog_privacy_policy&quot;, &quot;load&quot;:&quot;iframe&quot;}" href="/store/global/promos/shipforfree.jsp"> </a> -->	<a class="popup_dialog" data-dialog="{&quot;title&quot;:&quot;Shipping Details&quot;, &quot;height&quot;:500, &quot;width&quot;:600, &quot;id&quot;:&quot;dialog_privacy_policy&quot;, &quot;load&quot;:&quot;iframe&quot;}" href="/store/global/promos/shipforfree.jsp"> <img alt="Free Shipping on thousands of styles" src="/ca/home/A1 Promo/everydayship_red.jpg" style="width: 976px; height: 30px; " title="Shipping Details"> </a></div>
 </div>
 						</div>
 
@@ -705,12 +701,12 @@
 				<option value="">
 					Select Size
 				</option>
-				<option value="4294967268">3.0</option><option value="4294967249">3.5</option><option value="4294967248">4.0</option><option value="4294967247">4.5</option><option value="4294967246">5.0</option><option value="4294967245">5.5</option><option value="4294967252">6.0</option><option value="4294967244">6.5</option><option value="4294967251">7.0</option><option value="4294967256">7.5</option><option value="4294967255">8.0</option><option value="4294967254">8.5</option><option value="4294967250">9.0</option><option value="4294967243">9.5</option><option value="4294967259">10.0</option><option value="4294967241">10.5</option><option value="4294967258">11.0</option><option value="4294967239">11.5</option><option value="4294967253">12.0</option><option value="4294967223">12.5</option><option value="4294967271">13.0</option><option value="4294967270">13.5</option><option value="4294967237">14.0</option><option value="4294967234">15.0</option><option value="4294967121">16.0</option><option value="4294967120">17.0</option><option value="4294967119">18.0</option></select>
+				<option value="4294967268">3.0</option><option value="4294967249">3.5</option><option value="4294967248">4.0</option><option value="4294967247">4.5</option><option value="4294967246">5.0</option><option value="4294967245">5.5</option><option value="4294967252">6.0</option><option value="4294967244">6.5</option><option value="4294967251">7.0</option><option value="4294967256">7.5</option><option value="4294967255">8.0</option><option value="4294967254">8.5</option><option value="4294967250">9.0</option><option value="4294967243">9.5</option><option value="4294967259">10.0</option><option value="4294967241">10.5</option><option value="4294967258">11.0</option><option value="4294967239">11.5</option><option value="4294967253">12.0</option><option value="4294967223">12.5</option><option value="4294967271">13.0</option><option value="4294967237">14.0</option><option value="4294967234">15.0</option><option value="4294967121">16.0</option><option value="4294967120">17.0</option><option value="4294967119">18.0</option></select>
 			<select name="brand" id="fysBrand">
 				<option value="">
 					Select Brand
 				</option>
-				<option value="4294967099">5th And Ocean Clothing</option><option value="4294967240">adidas</option><option value="4294967042">adidas Accessories</option><option value="4294966844">adidas Watch</option><option value="4294965186">Ah By Android Homme</option><option value="4294967112">And 1</option><option value="4294967178">Asics</option><option value="4294966000">Bbc</option><option value="4294967192">Brooks</option><option value="4294967132">Casio</option><option value="4294965715">Clarks</option><option value="4294965585">Clinch Gear</option><option value="4294967134">Colosseum</option><option value="4294965683">Coloud</option><option value="4294967147">Columbia</option><option value="4294967260">Converse</option><option value="4294967200">Cowboys Merchandising</option><option value="4294965819">Creative Recreation</option><option value="4294967130">Dynasty Apparel Industries</option><option value="4294965538">Eddie Bauer / Eastman</option><option value="4294965554">Ellesse Usa, Inc</option><option value="4294965196">Feetures</option><option value="4294967161">Fila</option><option value="4294967208">Finish Line</option><option value="4294967197">Finl365</option><option value="4294967235">For Bare Feet</option><option value="4294965680">Garmin</option><option value="4294967230">Gift Cards</option><option value="4294967199">Gift Cards/donations</option><option value="4294967190">Heelys</option><option value="4294965832">Inov-8 Llc</option><option value="4294965675">Invicta</option><option value="4294967149">Jansport</option><option value="4294965543">Jordan</option><option value="4294966833">Jump Usa</option><option value="4294967257">K-swiss</option><option value="4294967019">Keds</option><option value="4294965251">Koar</option><option value="4294967206">Lacoste</option><option value="4294965167">Lance Armstrong</option><option value="4294966830">Lego</option><option value="4294966828">Levi's Footwear</option><option value="4294967201">Lugz</option><option value="4294967176">Majestic</option><option value="4294965165">Marvel</option><option value="4294967166">Merrell</option><option value="4294965540">Mission Skincare</option><option value="4294967169">Mizuno</option><option value="4294965712">Moving Comfort Inc</option><option value="4294967238">New Balance</option><option value="4294967219">New Era</option><option value="4294967177">New Ride</option><option value="4294967226">Nike</option><option value="4294966007">Nike Accessories</option><option value="4294966846">Nike Infant</option><option value="4294967221">Nike Team Sports</option><option value="4294967203">Nike Vision</option><option value="4294967232">Oakley</option><option value="4294967037">Original Penguin</option><option value="4294967164">Palladium</option><option value="4294967150">Pastry</option><option value="4294967160">Pf Flyers</option><option value="4294966848">Phiten</option><option value="4294965553">Piro Shoe Llc</option><option value="4294967039">Polar</option><option value="4294967188">Polo Ralph Lauren</option><option value="4294967032">Power Balance</option><option value="4294967220">Puma</option><option value="4294965983">Ray Ban</option><option value="4294965537">Recon</option><option value="4294967242">Reebok</option><option value="4294967267">Reebok Onfield</option><option value="4294967225">Reebok Onfield Youth</option><option value="4294967124">Rocawear</option><option value="4294965556">Rock &amp; Candy By Zigi Ny</option><option value="4294967075">Rocket Dog</option><option value="4294967020">Rumbatime</option><option value="4294967157">Salomon</option><option value="4294967159">Sanuk</option><option value="4294965981">Sebago</option><option value="4294967136">Skechers</option><option value="4294965541">Sms Audio</option><option value="4294967263">Sof Sole</option><option value="4294965558">Soffe</option><option value="4294965243">Spalding</option><option value="4294965166">Sperry</option><option value="4294967073">Step Ahead</option><option value="4294965204">Sugar</option><option value="4294967209">T-shirt International Inc</option><option value="4294967175">The North Face Inc</option><option value="4294967274">Timberland</option><option value="4294966021">Timex Corporation</option><option value="4294967205">Top Of The World</option><option value="4294965825">Topline</option><option value="4294966824">Tretorn Of North America</option><option value="4294966835">Trimfoot</option><option value="4294965822">Twin</option><option value="4294967222">Under Armour</option><option value="4294967036">Under Armour Performance Eyewear</option><option value="4294967180">Under Armour Socks</option><option value="4294967183">Under Armour Team Gear</option><option value="4294967044">Vlado</option><option value="4294965678">Warrior Sports Inc</option><option value="4294966161">Wildcat</option><option value="4294965708">Yurbuds</option><option value="4294965835">Zephyr</option></select>
+				<option value="4294967099">5th And Ocean Clothing</option><option value="4294967240">adidas</option><option value="4294967042">adidas Accessories</option><option value="4294965186">Ah By Android Homme</option><option value="4294965103">American Needle Inc</option><option value="4294967112">And 1</option><option value="4294967178">Asics</option><option value="4294967192">Brooks</option><option value="4294966825">Cadillac Footwear</option><option value="4294967132">Casio</option><option value="4294965112">Champion Custom Products</option><option value="4294965585">Clinch Gear</option><option value="4294967134">Colosseum</option><option value="4294965683">Coloud</option><option value="4294967147">Columbia</option><option value="4294967260">Converse</option><option value="4294967200">Cowboys Merchandising</option><option value="4294965819">Creative Recreation</option><option value="4294967052">Dr. Martens</option><option value="4294965099">Dynasty</option><option value="4294965538">Eddie Bauer / Eastman</option><option value="4294965554">Ellesse Usa, Inc</option><option value="4294965196">Feetures</option><option value="4294967161">Fila</option><option value="4294967208">Finish Line</option><option value="4294965710">Finish Line</option><option value="4294967197">Finl365</option><option value="4294967235">For Bare Feet</option><option value="4294961982">G-star</option><option value="4294965680">Garmin</option><option value="4294967230">Gift Cards</option><option value="4294967199">Gift Cards/donations</option><option value="4294965066">Gorilla Usa</option><option value="4294967190">Heelys</option><option value="4294965134">Hello Kitty</option><option value="4294961991">Homedics</option><option value="4294965126">Ihome</option><option value="4294965832">Inov-8 Llc</option><option value="4294965675">Invicta</option><option value="4294967149">Jansport</option><option value="4294965543">Jordan</option><option value="4294966833">Jump Usa</option><option value="4294967257">K-swiss</option><option value="4294965056">Kangaroos-shane&amp;shawn</option><option value="4294967019">Keds</option><option value="4294965251">Koar</option><option value="4294967206">Lacoste</option><option value="4294966828">Levi's Footwear</option><option value="4294967201">Lugz</option><option value="4294967176">Majestic</option><option value="4294965165">Marvel</option><option value="4294967166">Merrell</option><option value="4294965540">Mission Skincare</option><option value="4294967169">Mizuno</option><option value="4294965712">Moving Comfort Inc</option><option value="4294967238">New Balance</option><option value="4294967219">New Era</option><option value="4294967177">New Ride</option><option value="4294967226">Nike</option><option value="4294966007">Nike Accessories</option><option value="4294965128">Nike Hs</option><option value="4294966846">Nike Infant</option><option value="4294967221">Nike Team Sports</option><option value="4294965068">Nike Team Youth</option><option value="4294967232">Oakley</option><option value="4294967164">Palladium</option><option value="4294967150">Pastry</option><option value="4294967160">Pf Flyers</option><option value="4294966848">Phiten</option><option value="4294967039">Polar</option><option value="4294965101">Polo Kids</option><option value="4294967188">Polo Ralph Lauren</option><option value="4294967049">Polo Ralph Lauren Kids'</option><option value="4294967032">Power Balance</option><option value="4294967071">Press Box</option><option value="4294967220">Puma</option><option value="4294965537">Recon</option><option value="4294967242">Reebok</option><option value="4294967267">Reebok Onfield</option><option value="4294967124">Rocawear</option><option value="4294965556">Rock &amp; Candy By Zigi Ny</option><option value="4294967075">Rocket Dog</option><option value="4294967020">Rumbatime</option><option value="4294967018">Ryka</option><option value="4294967157">Salomon</option><option value="4294967159">Sanuk</option><option value="4294967168">Saucony</option><option value="4294966841">Saucony Kids</option><option value="4294967136">Skechers</option><option value="4294965541">Sms Audio</option><option value="4294967263">Sof Sole</option><option value="4294965243">Spalding</option><option value="4294965166">Sperry</option><option value="4294966845">Sperry Kids</option><option value="4294967073">Step Ahead</option><option value="4294965204">Sugar</option><option value="4294967209">T-shirt International Inc</option><option value="4294967175">The North Face Inc</option><option value="4294967274">Timberland</option><option value="4294967205">Top Of The World</option><option value="4294965825">Topline</option><option value="4294965822">Twin</option><option value="4294967222">Under Armour</option><option value="4294967036">Under Armour Performance Eyewear</option><option value="4294967180">Under Armour Socks</option><option value="4294967183">Under Armour Team Gear</option><option value="4294967044">Vlado</option><option value="4294965678">Warrior Sports Inc</option><option value="4294965708">Yurbuds</option><option value="4294965835">Zephyr</option></select>
 
 
 			<div class="buttonWrapper">
@@ -886,36 +882,9 @@ We may share your information with third parties in the following circumstances:
 					<li><a href="/store/customer_service/privacy_policy.jsp">Privacy Statement</a></li>
 					<li><a href="/store/customer_service/security.jsp">Security</a></li>
 					<li><a href="/store/corporate_info/terms.jsp">Terms of Use</a></li>
-					<li><a href="http://www.google.com/affiliatenetwork/joinprogram?advId=48080">Affiliate Program</a></li>
+					<li><a href="http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=265726&amp;mid=37731&amp;offerNid=1&amp;controls=1:1:0:1:1:0">Affiliate Program</a></li>
 					<li><a href="/store/global/site_map.jsp">Site Map</a></li>
 					<li class="last-li copyright">© 2012 The Finish Line, Inc.</li>
-				</ul>
-			</div>
-		</div>
-		<div id="footerLinksTertiaryWrapper" class="nav">
-			<div id="footerLinksTertiary">
-				<ul class="footerlinks_SEO">
-					<li class="first-li">
-						<a href="/oakley">Oakley Sunglasses</a>
-					</li>
-					<li>
-						<a href="/converse-chuck-taylor-all-stars">Converse Chuck Taylor All Stars</a>
-					</li>
-					<li>
-						<a href="/tech-running">Tech Running Shoes</a>
-					</li>
-					<li>
-						<a href="/15day-test-run">15 Day Test Run</a>
-					</li>
-					<li>
-						<a href="/reebok-zig">Reebok Zig Tech Shoes</a>
-					</li>
-					<li>
-						<a href="/skele-toes">Fila Skele-Toes</a>
-					</li>
-					<li class="last-li">
-						<a href="/asics-gel-blur-33">Asics GEL-Blur 33</a>
-					</li>
 				</ul>
 			</div>
 		</div>
@@ -931,8 +900,8 @@ We may share your information with third parties in the following circumstances:
 		</div>
 
 		<!-- 
-<link rel="stylesheet" type="text/css" href="/store/global/css/popup-style.css" />
-<link rel="stylesheet" type="text/css" href="/store/global/css/subModal.css" />
+<link rel="stylesheet" type="text/css" href="/store/global/css/popup-style.css;jsessionid=804BAD46E2FFEFDDF18B576957F24BDC.FLP10306" />
+<link rel="stylesheet" type="text/css" href="/store/global/css/subModal.css;jsessionid=804BAD46E2FFEFDDF18B576957F24BDC.FLP10306" />
 -->
 
 <div id="popupMask" onclick="maskClicked();">&nbsp;</div>
@@ -956,7 +925,7 @@ We may share your information with third parties in the following circumstances:
 			, top2: '100000'
 			, top1: '100000'
 			, appid: 'finishline01'
-			, customerid: '1229957993'
+			, customerid: '1427929611'
 			
 		});
 
@@ -987,6 +956,12 @@ We may share your information with third parties in the following circumstances:
 			Copyright 1997-2008 Omniture, Inc. More info available at
 			http://www.omniture.com -->
 			<script src="/store/global/omniture/s_code_prod.js"></script>
+			<script type="text/javascript">
+				function invokeOmniEvent(productId) {
+					s.eVar49=productId;
+					var s_code=s.t();if(s_code)document.write(s_code)
+				}
+				</script>
 			<script language="JavaScript" type="text/javascript"><!--
 			/* You may give each page an identifying name, server, and channel on
 			the next lines. */
@@ -1023,6 +998,7 @@ We may share your information with third parties in the following circumstances:
 			s.eVar31=""
 			s.eVar32=""
 			s.eVar36=""
+
 			/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 			var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 			<script language="JavaScript" type="text/javascript"><!--
@@ -1034,7 +1010,164 @@ We may share your information with third parties in the following circumstances:
 		<script>
 				FL.DynamicCart.pageLoadInfo = {"closenessQualifier":"You can earn 0 Winner's Circle points with this order!  Select Winner's Circle on Checkout.","totals":{"subtotal":"$0.00","totalQuantity":0},"products":[]};
 		</script>
-		<!-- CLEARSALEING MAIN INCLUDE START -->
+		<script>
+
+
+		// console.log("$('body').hasClass('globalTimer') && $('body').hasClass('bts')", $('body').hasClass('globalTimer') && $('body').hasClass('bts'));
+
+			function omnitureSceneView(sceneID) {
+				var s = s_gi(s_account);
+				 s.linkTrackVars="prop31,eVar33,events"; 
+				 s.linkTrackEvents="event100";
+				 s.prop31="bts:scene view: " + sceneID; s.eVar1="bts:scene view: " + sceneID; s.events="event100";
+				 s.tl(this,'o','bts:scene view: ' + sceneID);
+			}
+			function omnitureBrandView(brandID) {
+				var s = s_gi(s_account);
+				 s.linkTrackVars="prop31,eVar33,events"; 
+				 s.linkTrackEvents="event100";
+				 s.prop31="bts:brand view: " + brandID; s.eVar1="bts:brand view: " + brandID; s.events="event100";
+				 s.tl(this,'o','bts:brand view: ' + brandID);
+			}
+			function omnitureProductView(productID) {
+				var s = s_gi(s_account);
+				 s.linkTrackVars="prop31,eVar33,events"; 
+				 s.linkTrackEvents="event100";
+				 s.prop31="bts:product view: " + productID; s.eVar1="bts:product view: " + productID; s.events="event100";
+				 s.tl(this,'o','bts:product view: ' + productID);
+			}
+
+			function omnitureLookView(lookID) {
+				var s = s_gi(s_account);
+				 s.linkTrackVars="prop31,eVar33,events"; 
+				 s.linkTrackEvents="event100";
+				 s.prop31="bts:look view: " + lookID; s.eVar1="bts:look view: " + lookID; s.events="event100";
+				 s.tl(this,'o','bts:look view: ' + lookID);
+			}
+
+
+
+		if($('body').hasClass('globalTimer') && $('body').hasClass('backtoschool')) {
+
+			var href = window.location.href, targs = [ 'adidas', 'new-balance', 'nike', 'reebok', 'under-armour', 'runtheshow', 'runtheshow-look-1', 'runtheshow-look-2', 'fastfoodrun', 'fastfoodrun-look-1', 'fastfoodrun-look-2', 'runtoclass', 'runtoclass-look-1', 'runtoclass-look-2', 'eatandrun', 'eatandrun-look-1', 'eatandrun-look-2', 'runrampant', 'runrampant-look-1', 'runrampant-look-2', 'testrun', 'testrun-look-1', 'testrun-look-2' ], i;
+		 	FL.hash = window.location.hash;
+
+
+			FL.hashy = function(){
+				// console.log("FL.hashy running...");
+				if (FL.hash.length != 0) {
+					// console.log("FL.hash", FL.hash);
+					for (i = 0; i < targs.length; i++) {
+						// console.log("targs[i]", targs[i]);
+						// console.log("FL.hash.indexOf('#" + targs[i] + "')", FL.hash.indexOf('#' + targs[i]));
+						// console.log($("data-id='" + targs[i] + "'.item"));
+
+						if (FL.hash == '#' + targs[i]) {
+							// console.log("$('[data-id=\"' + targs[i] + '\"].item')", $('[data-id="' + targs[i] + '"].item'));
+							$('[data-id="' + targs[i] + '"].item').trigger('click');
+
+							FL.globalTimer.callbackFunctionRemove("FL.hashy");
+							FL.globalTimer.callbackFunctionAdd("FL.replaceImagesForBTS");
+							break;
+						}
+					}
+					// window.location.hash = "";
+					FL.globalTimer.callbackFunctionRemove("FL.hashy");
+
+				 }
+
+
+
+				
+			};
+
+			FL.replaceImagesForBTS = function(){
+
+				if($('.row.columns-3 ul.products li.product>a.product-link:not(".replaced")').length > 0){
+					$('.row.columns-3 ul.products li.product>a.product-link:not(".replaced")').each(function(index, domElem) {
+					    // console.log($(this).data('id'));
+					    // console.log("$this", $(this));
+					    var productID = $(domElem).data('id');
+					    var thisProduct = $(domElem);
+					    var thisProductImg = $(domElem).find('img');
+
+
+						$.ajax({
+							url: '/store/api/product/?id=' + productID,
+							success: function(data) {
+								if( $(thisProduct).hasClass('replaced')) {
+									// console.log("already replaced");
+								}
+							    $(thisProduct).css({"background-image": "url(" + data.attributes.images.large + ")", "display": "block", "width": "254px", "height": "254px"}).addClass("replaced");
+								// thisProductImg.attr('src', data.attributes.images.large);
+								thisProductImg.fadeOut().remove();
+							}
+						});
+
+
+					});
+					window.setTimeout(FL.globalTimer.callbackFunctionRemove("FL.replaceImagesForBTS"), 8500);
+
+				} else {
+					// console.log("no need to replace");
+					FL.globalTimer.callbackFunctionRemove("FL.replaceImagesForBTS");
+				}
+
+			};
+
+			$(document).ready(function() {
+				FL.globalTimer.init();
+
+				$("body").delegate("a.product-link", "click", function(event) {
+					// $(this).data('id');
+					// console.log("$(this).data('id')", $(this).data('id'));
+				  	omnitureProductView($(this).data('id'));
+				  	// console.log("s", s);
+				  
+				});
+
+				$("body").delegate("#bts .brands .header .nav ul li.item", "mouseup", function(event) {
+					// $(this).data('id');
+					// console.log("$(this).data('id')", $(this).data('id'));
+					FL.globalTimer.callbackFunctionAdd("FL.replaceImagesForBTS");
+
+				  	omnitureBrandView( $(this).data('id'));
+				  
+				});
+
+				$("body").delegate("#bts .scenes .nav ul li.item", "mousedown", function(event) {
+					// $(this).data('id');
+					// console.log("$(this).data('id')", $(this).data('id'));
+				  	omnitureSceneView($(this).data('id'));
+				  	// console.log("s", s);
+				  
+				});
+
+				$("body").delegate("#bts .look-cta", "mousedown", function(event) {
+					// $(this).data('id');
+					// console.log("$(this).data('id')", $(this).data('id'));
+				  	omnitureLookView($(this).data('id'));
+				  	// console.log("s", s);
+				  
+				});
+
+				$('body').ajaxComplete(function(e, xhr, settings) {
+				  if (settings.url == '/store/global/promos/back-to-school/json/brands.json') {
+				    // console.log('Triggered ajaxComplete handler. The xhr is ', xhr);
+				    // console.log('Triggered ajaxComplete handler. The settings is ', settings);
+					window.setTimeout(function(){
+						FL.globalTimer.callbackFunctionAdd("FL.hashy");
+					}, 1500);
+				  }
+				});
+			});
+
+
+		}
+
+
+		</script>
+	<!-- CLEARSALEING MAIN INCLUDE START -->
 <script type="text/javascript" src="//dsa.csdata1.com/data/js/5209267/csgather.js"></script><!-- CLEARSALEING MAIN INCLUDE END --><!-- BEGIN: Google Trusted Store -->
 <script type="text/javascript">
   var gts = gts || [];
@@ -1091,6 +1224,24 @@ We may share your information with third parties in the following circumstances:
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();</script>
 
+	<script src="http://tr.smarterremarketer.net/finishline/finishline.js" type="text/javascript"></script>
 
+<!-- Google Code for Main List -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1071171724;
+var google_conversion_label = "XJtFCIaLrAMQjJHj_gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1071171724/?value=0&amp;label=XJtFCIaLrAMQjJHj_gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
 </body></html>
