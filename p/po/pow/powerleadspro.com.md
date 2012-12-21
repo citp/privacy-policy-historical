@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerleadspro.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508234928id_/http%3A//www.powerleadspro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerleadspro.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221144605id_/http%3A//www.powerleadspro.com/privacy.html) for the most accurate reproduction.*
 
 # Power Leads Pro | Privacy Policy
 
