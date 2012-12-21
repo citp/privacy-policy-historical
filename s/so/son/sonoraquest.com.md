@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonoraquest.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622014755id_/http%3A//www.sonoraquest.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonoraquest.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221085908id_/http%3A//www.sonoraquest.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy < Sonora Quest Laboratories
 
@@ -6,7 +6,7 @@ By using our site, you consent to our privacy policies.
 
 If changes to our privacy policies are made we will post those changes on this page and/or update the Privacy Policy modification date below.
 
-**These policies were last modified in January 2011.**
+**These policies were last modified in November 2012.**
 
 Should you have any questions about our privacy policies, please [contact us](https://web.archive.org/contact-us/?reason=sales) via email, call us at (602) 685-5000 or (800) 766-6721, or write to us at the following address:
 
@@ -17,7 +17,7 @@ Tempe, Arizona 85281
 
 #### **Online Privacy Policy**
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. Please read our Notice of Privacy Practices to learn how medical information about you may be used and disclosed and how you can get access to this information.
+This online privacy policy applies only to information collected through our website and not to information collected offline. Please read our [Notice of Privacy Practices](https://web.archive.org/uploads/docs/Notice_of_Privacy_Practices_1112.pdf) to learn how medical information about you may be used and disclosed and how you can get access to this information.
 
 #### **What information do we collect?**
 
@@ -36,7 +36,6 @@ Any of the information we collect from you may be used in one of the following w
   * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
   * To process transactions (your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of completing your transaction)
   * To send periodic emails (the email address you provide for Patient Service Center appointment scheduling, online bill-pay, or on a contact form, will only be used to send you information and updates pertaining to your request. If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, and related service information. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.)
-
 
 
 
@@ -73,89 +72,93 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 ### **NOTICE OF PRIVACY PRACTICES**
 
-[Printer-friendly version](https://web.archive.org/uploads/docs/Sonora_Notice_Privacy_0111_web.pdf)
+[Printer-friendly version](https://web.archive.org/uploads/docs/Notice_of_Privacy_Practices_1112.pdf)
 
-THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
+SONORA QUEST LABORATORIES NOTICE OF PRIVACY PRACTICES DESCRIBES YOUR PATIENT RIGHTS AND HOW YOUR PROTECTED HEALTH INFORMATION (PHI) MAY BE USED AND DISCLOSED.
 
-Laboratory Sciences of Arizona and its subsidiary, Sonora Quest Laboratories, are committed to protecting the confidentiality of individuals’ laboratory test results and other protected health information (PHI) that we collect or create as part of our diagnostic testing activities.
+Laboratory Sciences of Arizona and its Subsidiary, Sonora Quest Laboratories, are committed to protecting the privacy of your PHI. This includes laboratory test orders and test results as well as invoices for the healthcare services we provide.
 
-We urge you to read this Notice of Privacy Practices carefully so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment.
+Should you have any questions about this Notice or our privacy practices, please contact us at 602-685-5531 or write to us at the following address:
 
-#### **About Our Laboratories’ Privacy Policy**
+Sonora Quest Laboratories   
+Attention: HIPAA Privacy Director  
+1225 West Washington Street  
+Tempe, AZ 85281
 
-Our laboratory and its employees must obtain, maintain, use and disclose patient protected health information (PHI) in a manner that protects patient privacy and complies with all state and federal laws. We may only use or disclose the minimum amount of PHI necessary to perform a job or complete an activity.
+This Notice is Effective as of:  March 1, 2003 (revised 11/2012) 
 
-We are required by law to provide patients with this Notice of Privacy Practices with respect to PHI, to maintain the privacy of PHI, to state the uses and disclosures of PHI that may be generated, and to list the rights of individuals and our legal duties with respect to their PHI. Your PHI includes medical information we obtain from your physician (such as name, address, date of birth, test ordered, etc.), health plan, or other sources, and the laboratory testing results that we create. An example of PHI is as follows: Jane Smith, Date of Birth: 2/15/68, resides at 123 Main Street, Anytown, AZ, cholesterol of 215 ng/ml.
+#### **Our Responsibilities**
 
-We are required to abide by the terms of the Notice of Privacy Practices currently in effect and reserve the right to apply any changes to our policies and procedures to PHI created or received prior to the effective date of the Notice revision. The current Notice will be displayed on our website.
+Sonora Quest Laboratories is required by law to maintain the privacy of your PHI. We are also required to provide you with this Notice upon request. It describes our legal duties, privacy practices and your patient rights as determined by the Health Insurance Portability and Accountability Act (HIPAA) of 1996. We follow the terms of this Notice. This Notice does not apply to non-diagnostic services that we perform such as certain drugs of abuse testing services and clinical trials testing services.
 
-#### **How we obtain and maintain your Protected Health Information**
+#### **How We May Use or Disclose Your Health Information**
 
-We obtain PHI from payers and, through the processing of testing orders, from physicians or other authorized persons who order laboratory tests. As a result of our testing activities, we create PHI -- laboratory results. We are required by law to maintain the PHI we collect and create for various reasons, including regulatory requirements, medical documentation, and laboratory certification and accreditation purposes. Whether your PHI is stored on paper, on a computer, or using other means, we will take reasonable care to maintain this information in a manner that will protect your privacy and confidentiality and the privacy and security of your PHI.
+We use your PHI for treatment, payment, or healthcare operations purposes and for other purposes permitted or required by law. Not every use or disclosure is listed in this Notice, but all of our uses or disclosures of your health information will fall into one of the categories listed below. 
 
-#### **How we protect the privacy of your Protected Health Information**
+We need your written authorization to use or disclose your health information for any purpose not covered by one of the categories below.  Any authorization you provide may be revoked at any time.   If you revoke your authorization, we will no longer use or disclose your health information for the reasons stated in your authorization except to the extent we have already taken action based on your authorization. 
 
-We protect the privacy of your PHI by training our employees and by requiring them to comply with company policies and procedures that allow access to and uses and disclosures of your PHI only for legitimate reasons. We verify the identity and check the authority of persons requesting PHI. We check that the appropriate information is provided to the requestor through a verification procedure, that is, by matching the information that the requestor must provide to us in advance with the information in our records. If the requestor cannot provide adequate information or the information provided does not match our records, we will not release your PHI. If the requestor is the patient, we will refer the requestor to his or her physician (or authorized person) to obtain the PHI. Our employees must comply with detailed policies and procedures regarding access to, and uses and disclosures of patients’ PHI. Our employees are required to use and disclose only the minimum amount of PHI needed for payment or other legitimate uses for our health care operations. Violation of these company policies or procedures is grounds for disciplinary action, up to and including termination of employment.
+The law permits us to use or disclose your health information for the following purposes:
 
-#### **How we use and disclose your Protected Health Information**
+**Treatment:**   Sonora Quest Laboratories provides laboratory testing for physicians and other healthcare professionals and we use your information in our testing process.  We disclose your health information to authorized healthcare professionals who order tests or need access to your test results for treatment purposes.  Examples of other treatment related purposes for which we may use or disclose your health information include disclosure to a pathologist to help interpret your test results or use your information to contact you to obtain another specimen, if necessary.
 
-Your PHI will only be used or disclosed for treatment, payment, or healthcare operations purposes and other disclosures permitted or required by law, unless you send us written authorization permitting us to use or disclose your PHI for other purposes. You have the right to revoke your authorization at any time.
+**Payment:   **Sonora Quest Laboratories will use your PHI as part of our billing process and may send it to insurance companies or other appropriate parties, including to you, to obtain payment for our services. If you are insured under another person’s health insurance policy (for example, parent, spouse, domestic partner or a former spouse), we may also send invoices to the subscriber whose policy covers your health services.
 
-**For Treatment:** We may use your PHI or disclose your PHI to physicians and other authorized health care professionals who may need access to your PHI in order to treat you effectively. For example, in addition to your treating physician, we may provide a specialist consulting physician with information about your results to further validate the results before release to your physician.
+**Healthcare Operations:   **Sonora Quest Laboratories may use or disclose your PHI for activities necessary to support our healthcare operations, such as performing quality checks on our testing, internal audits, or developing reference ranges for our tests.
 
-**For Payment:** We may use your PHI or disclose your PHI to insurance companies, hospitals, physicians, health plans, or third parties to assist us in creating bills or claim forms for getting paid for our services. For example, we may send your name, date of service, test performed, diagnosis code, and other information to a health plan so that the plan will pay us for the services we provided.
+**Business Associates:   **We may provide your PHI to other companies or individuals to assist us in providing specific services to us. These other entities, known as "business associates," are required to maintain the privacy and security of PHI. Our business associates must only use your health information for the services they perform on our behalf. For example, we may provide information to companies that assist us with billing of our services. We may also use an outside collection agency to obtain payment when necessary.
 
-**For Healthcare Operations:** We may use or disclose your PHI in the course of activities necessary to support our health care operations, such as performing quality checks on our testing, for teaching purposes, or for developing normal reference ranges for tests that we perform.
+**As Required by Law:   **In certain circumstances, federal or state laws may require that we provide your health information to organizations such as:
 
-**Disclosures to Business Associates:** We may disclose your PHI to other companies or individuals who need your PHI in order to provide specific services to us. These other entities, known as “business associates,” must comply with strict contractual standards designed to ensure that they will maintain the privacy and security of the PHI we provide to them or which they create on our behalf. Our business associates must only use your PHI for designated treatment, payment, or health care operations purposes that we contract them to perform on our behalf. For example, we may disclose your PHI to the College of American Pathologists and other private accrediting organizations that inspect and certify the quality of our laboratories.
+• Public Health Authorities  
+• The Food and Drug Administration  
+• Health Oversight Agencies  
+• Military Command Authorities  
+• National Security and Intelligence Organizations  
+• Correctional Institutions  
+• Organ and Tissue Donation Organizations  
+• Coroners, Medical Examiners and Funeral Directors  
+• Workers Compensation Agents
 
-**As Permitted or Required by Law:** We may release your PHI for various public policy reasons that are authorized or required by law.
+**Law Enforcement Activities and Legal Proceedings:   **We may use or disclose your PHI if necessary, to prevent or lessen a serious threat to your health and safety or that of another person. We may also provide PHI to law enforcement officials, for example, in response to a warrant, investigative demand or similar legal process, or for officials to identify or locate a suspect, fugitive, material witness, or missing person. We may also disclose PHI to appropriate agencies if we reasonably believe an individual to be a victim of abuse, neglect or domestic violence.
 
-**Public Health:** We may disclose your PHI when reporting communicable disease results to public health departments as required by law.
+We may disclose your PHI as required to comply with a court or administrative order. Finally, we may provide your PHI in response to a subpoena, discovery request or other legal process in the course of a judicial or administrative proceeding, but only if efforts have been made to tell you about the request or to obtain an order of protection for the requested information. 
 
-**Health Oversight:** We may disclose your PHI in connection with governmental oversight, licensure, auditing, and other purposes. For example, governmental agencies periodically review our records to ensure that we are complying with the rules of various regulatory and licensing agencies. The U.S. Department of Health and Human Services and state Health Departments are examples of agencies that oversee aspects of our operations. Government agencies, such as OSHA or the FDA may require us to provide PHI in connection with an investigation or other proceeding.
+**Research:   **Sonora Quest Laboratories may disclose health information for research purposes when an Institutional Review Board or privacy board has reviewed the research proposal and established protocols to ensure the privacy of your PHI and determined that the researcher does not need to obtain your authorization prior to using your PHI for research purposes.  We may also disclose information about decedents to researchers under certain circumstances.
 
-**Law Enforcement:** We may also disclose PHI for law enforcement purposes. For example, we may be required to release PHI to identify or locate a suspect, fugitive, material witness, or missing person.
+**Note Regarding State Law:   **For all of the above purposes, when state law is more restrictive than federal law, we are required to follow the more restrictive state law.  
 
-**Public Safety:** When the appropriate conditions apply, we may use or disclose PHI to prevent or lessen a serious and imminent threat to the health or safety of a person or the public.
+#### **Your Patient Rights**
 
-**Specialized Government Functions:** We may disclose your PHI for military, national security, prisoner and government benefits (for health plans only) purposes.
+You have the right to receive a copy of your PHI that we have created.  If your request for a copy of your test information is denied, you may request that the denial be reviewed.
 
-**Other:** Here are other situations where, typically, the law permits or requires us to disclose  
-your PHI:
+**Amend Health Information:   **You may request changes to your PHI and we will accommodate them if we can.  However, we are not required to make the requested changes. If we deny your written request to change your PHI we will provide you with a written explanation of the reason for the denial and additional information regarding further actions that you may take.
 
-  * Various state and federal laws permit or require disclosure of PHI. For example, workers compensation programs may require that we provide the results of laboratory testing as part of the case file.
+**Accounting of Disclosures:   **You have the right to receive a list of certain disclosures of your health information made by Sonora Quest Laboratories in the past six years from the date of your written request. Under the law, this does not include disclosures made for purposes of treatment, payment, or healthcare operations.
 
-  * Subpoenas, court orders, discovery requests or other legal process may require the disclosure of PHI in the context of a lawsuit or other legal proceeding.
+**Request Restrictions:   **You may request that we agree to restrictions on certain uses and disclosures of your health information, but we are not required to agree to your request, with the following exception. You have the right to ask us to restrict the disclosure of health information to your health plan for a service we provide to you where you have directly paid us (out of pocket, in full) for that service, in which case we must honor your request.
 
-  * In cases where state law is more restrictive than federal law, we are required to follow the more restrictive state law; for example, in the state of Arizona, we are not permitted to release laboratory test results directly to a patient.
+**Request Confidential Communications:   **You have the right to request that we send your health information by alternative means or to an alternative address, and we will accommodate reasonable requests.
 
+#### **How to Exercise Your Rights**
 
+You may write to us at the address at the beginning of this Notice with your specific request.   
+You may also contact us at 855-AZ-LABS-1 (855.295.2271) or 602.685.5553, email us at [DTP-Arizona@SonoraQuest.com](mailto:DTP-Arizona@SonoraQuest.com) or [click here](https://web.archive.org/patient-services/get-your-results/) to request a form to complete to obtain a copy of your test results. Sonora Quest Laboratories will consider your request and provide you a response within a reasonable timeframe.
 
-#### **We may contact you for specific reasons**
+You may also request a copy of this Notice of Privacy Practices in electronic and/or paper form by contacting us at 602.685.5000 or 800.766.6721, or by downloading our [printer-friendly version](https://web.archive.org/uploads/docs/Notice_of_Privacy_Practices_1112.pdf). 
 
-Sometimes, we may want to contact you regarding health-related products or services that may be of interest to you, such as to direct or recommend alternative treatments, therapies, health care providers, or settings of care or to tell you about other health-related products or services offered by our organization. You have the right to opt out of programs that we offer. In other cases, we will contact you to obtain your authorization before using or disclosing your PHI for marketing purposes.
+#### **Complaints**
 
-#### **Your rights concerning privacy and confidentiality**
+If you believe your privacy rights have been violated, you have the right to file a complaint with us. You also have the right to file a complaint with the Secretary of the U.S. Department of Health and Human Services, Office for Civil Rights. Sonora Quest Laboratories will not retaliate against any individual for filing a complaint.
 
-**Access:** You or your authorized or designated personal representative has the right to inspect your PHI. We will deny access to certain information for specific reasons, for example, where state law prohibits such patient access.
+To file a complaint with us, write to us at the following address:  
+Sonora Quest Laboratories   
+Attention: HIPAA Privacy Director  
+1225 West Washington Street  
+Tempe, AZ 85281   
+You may also contact the HIPAA Privacy Director at 602.685.5531.
 
-**Amendments:** You have the right to request amendments to your PHI (but not to require us to make the requested amendments).
+#### **Note**
 
-**Accounting:** You have the right to receive an accounting of disclosures of your PHI that were made by us for a period of up to six years prior to the date of your written request, but not including any disclosures made prior to April 14, 2003 when the Privacy Rule went into effect. This accounting does not include disclosures made for purposes of treatment, payment, health care operations, or certain other excluded purposes, but includes other types of disclosures, including disclosures for public health reporting or in response to a subpoena or court order.
-
-**Restrictions:** You have the right to request that we agree to restrictions on certain uses and disclosures of your PHI, but we are not required to agree to your request request with the following exception. Effective for services provided to you after Feb. 16, 2010, you have the right to ask us to restrict the disclosure of PHI to your health plan for a service we provide to you where you have directly paid us (out of pocket, in full) for that service, in which case we are required to honor your request.
-
-**Confidential Communications:** You have the right to request that we send your PHI to an alternate address.
-
-**Notice of Privacy Practices:** You have the right to request a paper copy of this Notice.
-
-**Complaints:** If you believe your privacy rights have been violated, you have the right to register a complaint with us or the U.S. Department of Health and Human Services. We will not retaliate against any individual for filing a complaint. You may file a complaint by calling us at (602) 685-5000 or (800) 766-6721, or by writing to us at the address located at the beginning of this Notice.
-
-**How to exercise your rights:** Write to us with your specific written request and be sure to include sufficient information for us to identify all of your records. You may also contact us at the telephone number below to request an access form. We will consider your request and provide you a response within a reasonable timeframe. Should we deny your request, you have the right to ask for the denial to be reviewed by another healthcare professional designated by us. For additional details, or for instructions regarding how to exercise these rights, contact us, at: (602) 685-5000 or (800) 766-6721.
-
-You may request a copy of this notice in paper form by contacting us at (602) 685-5000 or (800) 766-6721, or view an electronic, printer-friendly version of our [Privacy Policy](https://web.archive.org/uploads/docs/Sonora_Notice_Privacy_0111_web.pdf).
-
-We reserve the right to amend this Notice of Privacy Practices, at any time, to reflect changes in our privacy practices and these changes will apply retroactively. Any such changes will be applicable to and effective for all Protected Health Information (PHI) that we maintain, including PHI we created or received prior to the effective date of the notice revision.
+We reserve the right to amend the terms of this Notice to reflect changes in our privacy practices, and to make the new terms and practices applicable to all PHI that we maintain about you, including PHI created or received prior to the effective date of the Notice revision.
 
 ↑Top
