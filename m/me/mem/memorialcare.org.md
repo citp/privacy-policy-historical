@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the memorialcare.org privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521231412id_/http%3A//www.memorialcare.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorialcare.org privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221084109id_/http%3A//www.memorialcare.org/about/privacy.cfm) for the most accurate reproduction.*
 
 # MemorialCare Privacy Statement | MemorialCare Health System - in California
 
-[](http://www.memorialcare.org/stories/mds_smmc_womens.cfm)
+[](http://www.memorialcare.org/stories/ciara_mch_cancer.cfm)
 
 |  MemorialCare Privacy Statement | MemorialCare Health System - in California
 
@@ -189,4 +189,4 @@ Copyright © 2010 Memorial Health Services.
 
 [](http://www.gallup.com/consulting/25312/gallup-great-workplace-award.aspx)
 
-MemorialCare Health System is a not-for-profit integrated delivery system that includes six top hospitals – Long Beach Memorial, Miller Children's Hospital Long Beach, Community Hospital Long Beach, Orange Coast Memorial, and Saddleback Memorial Laguna Hills and San Clemente; three medical groups – MemorialCare Medical Group, Memorial Prompt Care, and Specialty Physicians of Long Beach; an Independent Practice Association (IPA) Greater Newport Physicians; MemorialCare HealthExpress retail clinics; and numerous outpatient health centers throughout the Southland. Our community-based hospitals are located in Southern California in both Los Angeles County and Orange County. Copyright © 1999 - 2012, Memorial Health Services. All rights reserved. 
+MemorialCare Health System is a not-for-profit integrated delivery system that includes six top hospitals – Long Beach Memorial, Miller Children's Hospital Long Beach, Community Hospital Long Beach, Orange Coast Memorial, and Saddleback Memorial Laguna Hills and San Clemente; medical groups – MemorialCare Medical Group and Memorial Prompt Care; an Independent Practice Association (IPA) – Greater Newport Physicians; MemorialCare HealthExpress retail clinics; and numerous outpatient health centers throughout the Southland. Our community-based hospitals are located in Southern California in both Los Angeles County and Orange County. Copyright © 1999 - 2012, Memorial Health Services. All rights reserved. 
