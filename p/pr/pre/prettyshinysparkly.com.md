@@ -1,72 +1,10 @@
-> *The following text is extracted and transformed from the prettyshinysparkly.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609031802id_/http%3A//prettyshinysparkly.com/terms-disclosures-and-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettyshinysparkly.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221092337id_/http%3A//prettyshinysparkly.com/privacy-policy) for the most accurate reproduction.*
 
-# Terms, Disclosures & Policies — Pretty Shiny Sparkly
+# Privacy Policy — Pretty Shiny Sparkly
 
-Pretty Shiny Sparkly (the “Blog”) is a fashion & style blog written, designed and edited by Kristina (the “Author”). For questions about this blog, please feel free to [contact us](https://web.archive.org/contact/).
+Your privacy is important to me. Email addresses and names submitted in comment forms will never be sold, rented, or added to any mailing lists without your consent. If you have opted-in to a mailing list, I may send you announcements outside of the normal schedule, but this is rare and unlikely. In some instances, the Blog may use third-party advertising companies (such as Glam Network, and Google DoubleClick) to serve ads when you visit my website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
-## Comment Policy
-
-  1. **Names:** Please leave a real name (first names are okay). If you must use a keyword, use “Name @ Blog Name”, for example.
-  2. **Links:** Do _not include_ a link to your blog in the comment text. Your name will be linked to your blog, and CommentLuv will add your blog to the bottom of your comment. It gets redundant!
-  3. **Self-Promotion:** Do not advertise your blog, blog giveaway, contest, or other irrelevant content. Please stay on topic! We all love you for it!
-  4. **Be Courteous:** Be polite. No name calling, rudeness, personal attacks and similar comments will be tolerated. If you’re unsure whether your comment falls under these limitations, just remember the Golden Rule. And remember that your comment will be visible worldwide, so don’t say anything you wouldn’t want your mother to see. Your opinion is welcome, even if it isn’t favorable or positive, just keep criticism to the constructive kind only.
-  5. **Spam & Ham: **Spam is filtered and deleted. Sometimes genuine comments are marked as spam (termed “ham”) and slip through the cracks. While I make every attempt to scan the spammy comments for real ones, sometimes I just don’t catch them.
-  6. **Editing:** I reserve the right to edit any comment. Your comments are not copyrighted, and I may edit them for spammy characteristics (see Rule #2), spelling, or other grammatical mistakes.
-  7. **Deleting:** I reserve the right to delete or unapprove a comment _for any reason_ , even other than the above stated terms.
-  8. **Sole Arbiter:** I own this blog and my decision is final. I am the sole arbiter of whether a comment is libelous, hateful, hurtful, or otherwise inappropriate. This blog is my responsibility, and I take it and its contents seriously.
-
-
-
-Users who violate this comment policy will be sent a **warning email** after the first violation. Those who continue to disregard or infringe upon the Comment Policy **will** , after two notifications, **be banned from the site**.
-
-## Disclosure Policy
-
-**COMPENSATION**  
-One main form of financial compensation the Blog accepts is via [sponsorship](https://web.archive.org/sponsor/). The Blog does, on occasion and always with discretion, accept financial compensation for collaborations consisting of original posts written by the Author, in what may be termed an “advertorial”. Collaborations are only agreed to so long as the Author may maintain her own opinion, voice, content, and personality that her readers have come to love her by. The Blog does _not_ accept compensation for product reviews or giveaways, but may accept products. Affiliate links, which provide a commission based on sale or click number, may be used in posts without being labeled as such, however every attempt will be made to maintain transparency. All editorial content is written without prejudice or bias, regardless of sponsor or affiliate associations. The Blog does not accept compensation for product reviews.  Any advertisements, advertorials, sponsored content, and the like will be clearly marked as advertising content and do not reflect the opinions of the Blog or its Author.
-
-**PRODUCT REVIEWS**  
-In order to provide you with an accurate review on products, services, website, or various other topics, companies may provide the Author with a sample product, which the Author may choose to keep. The fact that the Author has received a complimentary item **will never influence** the content, topics or posts made on the Blog. Press samples submitted for review are For Consideration Only. The Blog and its Author do not provide any guarantee of review, positive or negative. If something doesn’t fit right, tastes funny, looks wonky, or is otherwise “not okay”, the Author will not claim it to be otherwise. The Blog and its Author may choose not to review an item, and the Author will never endorse or encourage the sale of a product that does not meet the Author’s standards or expectations. A review is nothing if it is not honest, and this is the motto the Blog and its Author stand by.
-
-**RELATIONSHIPS**  
-The Blog and its Author would like to disclose the following existing relationships. These are companies, organizations or individuals that may have a significant impact on the content of this blog. I have a personal or financial interest in the following that is or may be relevant to my blogging: ShopBop.com, Amazon.com, and all other current sponsors and affiliates.
-
-**WARRANTY & CLAIMS  
-**The views and opinions expressed on this blog are purely the Author’s own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question. The Author makes NO WARRANTY OF ANY KIND.  This Blog is provided “As Is,” without warranty of any kind, either express or implied.
-
-## Advertising Policy
-
-**ADVERTISEMENT/SPONSORSHIP**  
-All advertising is in the form of advertisements generated by a third party ad network, or via sponsored (monthly subscription) banner advertisements provided by select few, targeted official sponsors. Those advertisements will be identified as paid advertisements, or sponsors. Some links to retailers may not be disclosed as paid insertions, however I may receive compensation for linking to them in posts. I hope that if my post convinced you to purchase a product, that you will click on the (if applicable) affiliate link I provide, to help keep this blog running! If you are interested in sponsoring, [click here](https://web.archive.org/sponsor/).
-
-**GIVEAWAYS**  
-Please note that due to market saturation with giveaways, and the time it takes away from truly original editorial content on the Blog, giveaways will not be guaranteed to any person, company, brand, or sponsor. Furthermore, to keep with the status of the Blog and the quality of its readers, giveaways will only be considered whose total value amounts to $500 or more. Additionally, giveaways may only be hosted on PSS by official sponsors, but does not guarantee or imply the right to host a giveaway on PSS. Giveaway proposals by sponsors are reviewed on a per-item basis. Click here for more information on how you can become an [official sponsor](https://web.archive.org/sponsor/).
-
-**TEXT LINKS/LINK EXCHANGES**  
-The Blog DOES NOT participate in link exchanges. The Blog DOES NOT sell or exchange text links in posts, blogrolls or anywhere else on Pretty Shiny Sparkly.
-
-**BANNER ADVERTISING**  
-Currently, banner ads targeting the areas of fashion and beauty are the only forms of advertising offered.
-
-## Editorial Policy
-
-**CONTENT  
-**The Blog provides content, excluding comments, for general information purposes only.  The content constitute the opinions of the Blog and its author.  The Blog author is not a licensed medical professional nor certified expert in the beauty or fashion fields.  You should never substitute information from this Blog for information obtained from a licensed professional.  The information on the blog may be changed without notice and is not guaranteed to be complete, correct or up-to-date. The opinions expressed at or through the blog are the opinions of the Author.
-
-**COPYRIGHT  
-**All content & images copyright © 2009–2011 Pretty Shiny Sparkly™. Reproductions are strictly prohibited without express written consent. The outfit credits coding and design are copyrighted and reproduction in any form is strictly prohibited.
-
-**TRADEMARK  
-**Pretty Shiny Sparkly™ is a claimed trademark and may not be imitated or reproduced in any way.
-
-As always, if you have any questions or concerns, [please do not hesitate to ask](http://prettyshinysparkly.com/contact/).
-
-This policy is valid as of **January 28, 2012**. These policies & terms may be subject to change, and shall be updated accordingly.
-
-## Privacy Policy
-
-Your privacy is important to me. Email addresses and names submitted in comment forms will never be sold, rented, or added to any mailing lists without your consent. If you have opted-in to a mailing list, I may send you announcements outside of the normal schedule, but this is rare and unlikely. In some instances, the Blog may use third-party advertising companies (such as Glam Network, and Google DoubleClick) to serve ads when you visit my website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
-
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us by email](http://prettyshinysparkly.com/contact/ "Contact").
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us by email](http://prettyshinysparkly.com/contact/ "Contact").
 
 At prettyshinysparkly.com, the privacy of our visitors is of extreme importance. This privacy policy document outlines the types of personal information is received and collected by the Blog and how it is used.
 
@@ -74,10 +12,10 @@ At prettyshinysparkly.com, the privacy of our visitors is of extreme importance.
 Like many other Web sites, prettyshinysparkly.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 **COOKIES & WEB BEACONS  
-** The Blog does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+**The Blog does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 **DOUBLECLICK DART COOKIE  
-**Google, as a third party vendor, uses cookies to serve ads on the Blog & its affiliated websites. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to prettyshinysparkly.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+**Google, as a third party vendor, uses cookies to serve ads on the Blog & its affiliated websites. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to prettyshinysparkly.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 
@@ -99,3 +37,82 @@ _prettyshinysparkly.com has no access to or control over these cookies that are 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. prettyshinysparkly.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+**What information do we collect?**
+
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
+
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+
+**What do we use your information for?**
+
+Any of the information we collect from you may be used in one of the following ways:
+
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
+
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+
+; To process transactions
+
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+; To administer a contest, promotion, survey or other site feature
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://prettyshinysparkly.com/terms-disclosures-and-policies/>
+
+**Your Consent**
+
+By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
+
+This policy was last modified on June 17, 2012
+
+[http://prettyshinysparkly.com/contact/](https://web.archive.org/contact/)
+
+This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm).
