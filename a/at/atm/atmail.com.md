@@ -1,44 +1,73 @@
-> *The following text is extracted and transformed from the atmail.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315034344id_/http%3A//atmail.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atmail.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221220440id_/http%3A//atmail.com/privacy) for the most accurate reproduction.*
 
-# WebMail Client , WebMail Server , Email Server for Linux, Unix and Windows - Privacy Policy
+# Atmail - Privacy
 
-[Home:](https://web.archive.org/web/20060315034344id_/http%3A//atmail.com/index.ehtml) @Mail Privacy Policy
+### Why do we collect your personal information?
 
-Version 8th Sept 2005
+Collecting your information is essential for us to provide our products and services to you. It also helps us to understand your needs, enabling us to provide you with a greater quality of service.
 
-At @Mail, we strive to develop innovative email-solutions to better serve our users. We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use the @Mail services, as well as some of the steps we take to safeguard it. 
+Back to Top
 
-The following principles apply to the personally identifying information we ask for and that you provide. "Personally identifying information" is information that individually identifies you, such as your name, physical address or email address.
+* * *
 
-Data collection
+### How do we collect personal information?
 
-  * @Mail collects limited non-personally identifying information your browser makes available whenever you visit a website. This log information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser. We use this information to operate, develop and improve our services. 
-  * The @Mail evaluation, sales/support and newsletter forms require personal information in the form of your company, email & contact details. This data can be used by @Mail to follow up your interest in the software, however will not be shared to any third party. 
-  * For payment of the software we may request credit card or other payment information which we maintain in encrypted form on secure servers. 
+We only collect information when you knowingly provide it. Collection may include requesting information by phone, filling out a contact/registration/purchase form on check-in, providing your business card to us, or e-mailing or faxing us your details.
 
+Back to Top
 
+* * *
 
-Cookies
+### Do we disclose your personal information to anyone?
 
-  * Upon your first visit to @Mail, a cookie is sent to your computer that uniquely identifies your browser. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. We use cookies to improve the quality of our service and to better understand how people interact with us.
+We may disclose your personal information where you have consented to us doing so. We may also be required or authorised by law to disclose your personal information. We also use 3rd party services to track anonymous usage of the Atmail website along with technical details exposed by your web browser. Atmail's use of Google AdWords Remarketing Lists may use a cookie to target marketing material to you on Google and other third-party sites across the Internet. Should you wish, you can opt out of this target by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/). If you provide us with your email address, we will add you to our email mailing list managed by Campaign Monitor ([view Campaign Monitors's privacy policy](http://www.campaignmonitor.com/privacy/)). If your email client allows, your interactions with our newsletters will be tracked for marketing purposes. Occasionally we ClickTale to track detailed usage of our marketing website and product demos ([view ClickTale's privacy policy](https://www.clicktale.com/privacy_service.aspx)). [Opt-out of ClickTale](http://www.clicktale.net/disable.html).
 
+Back to Top
 
+* * *
 
-Information sharing
+### Is your personal information up-to-date?
 
-  * We do not rent or sell your personally identifying information to other companies or individuals under any circumstances 
+It is important that the personal information we collect is accurate, complete and up-to-date. You can contact us at any time to update your personal information, or to tell us if your personal information is inaccurate or incomplete.
 
+Back to Top
 
+* * *
 
-Information security
+### Is your personal information secure?
 
-  * We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.
-  * We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services.
+We take all reasonable precautions to safeguard your personal information from misuse, unauthorised access, modification or disclosure. When your information is no longer required we securely destroy it from our systems.
 
+Back to Top
 
+* * *
 
-Changes to this Policy
+### Can you access your personal information?
 
-Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice.
+You may request access to the information we hold about you by contacting us. We may be required by law to retain your personal information after you have ceased your relationship with us.
 
-If you have any additional questions, please feel free to [contact us](https://web.archive.org/web/20060315034344id_/http%3A//atmail.com/contact.php).
+Back to Top
+
+* * *
+
+### What about sensitive information?
+
+Sensitive information can be about racial or ethnic origin, membership of a profession or trade, personal health or other personal information. We only collect, use or disclose sensitive information about you as is allowed by law.
+
+Back to Top
+
+* * *
+
+### Our Privacy Policy may change from time to time.
+
+We constantly review our policies and procedures to keep up-to-date with changes in law, technology and the needs of our guests and we may change this policy from time to time.
+
+Back to Top
+
+* * *
+
+## Can you complain about a breach of your privacy?
+
+You may lodge a concern or complaint with us by writing to the General Manager. For additional information on privacy visit the Australian Federal Privacy Commissioner's website: [www.privacy.gov.au](http://www.privacy.gov.au/).
+
+Back to Top
