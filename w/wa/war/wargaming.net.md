@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the wargaming.net privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516204850id_/http%3A//www.wargaming.net/corporate_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wargaming.net privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221115328id_/http%3A//worldoftanks.com/en/privacy_policy) for the most accurate reproduction.*
 
-# Wargaming.net - Corporate - Privacy Policy
+# Privacy Policy | World of Tanks
 
-| 
+15 June 2010, 17:01
 
-Version updated 23 November 2011
+Version updated March 12, 2012
 
-Wargaming.net LLP and its Service and Distribution partner namely WARGAMING PUBLIC COMPANY LTD, Reg. No: 290863, office 101, Kyriakou Matsi 10, 1082 Nicosia, Cyprus ("WN"/we/us/our) maintain this Privacy Policy ("Policy") that summarizes our policies and processes for protecting the privacy of all personal information gathered from customers, prospective customers, and visitors to our website(s) or who download WN's products and services, and when and how such information is collected, used, transferred, disclosed and safeguarded. This Policy also explains how anyone can review, update, correct, or delete their personal information and specify what information, if any, they would like to receive from WN on an on-going basis. 
+Wargaming.Net LLP ("WN"/we/us/our) maintains this Privacy Policy ("Policy") that summarizes our policies and processes for protecting the privacy of all personal information gathered from customers, prospective customers, and visitors to our website(s) or who download WN's products and services, and when and how such information is collected, used, transferred, disclosed and safeguarded. This Policy also explains how anyone can review, update, correct, or delete their personal information and specify what information, if any, they would like to receive from WN on an on-going basis. 
 
 THE USE OF OUR SERVICES, GAMES, AND WEB SITES ARE SUBJECT TO AGREEMENT TO THE TERMS OF THIS PRIVACY POLICY. THIS PRIVACY POLICY ONLY ADDRESSES ACTIVITIES FROM OUR SERVERS. OTHER SITES (INCLUDING THOSE TO WHICH WE MAY LINK) AND OTHER SERVICE PROVIDERS MAY HAVE THEIR OWN POLICIES, WHICH WE DO NOT CONTROL, AND THUS ARE NOT ADDRESSED OR CONTROLLED BY THIS POLICY. IF YOU DO NOT AGREE WITH THE TERMS OF OUR PRIVACY POLICY, PLEASE DO NOT USE OUR SERVICES OR ACCESS OUR SITES.
 
 ## **1\. Commitment**
 
-WN is committed to ensuring your privacy and protecting the security of your personal information. This Policy covers the public WN websites – including, but not limited to [http://www.wargaming.net](http://www.wargaming.net/), [http://www.worldoftanks.com](http://www.worldoftanks.com/), [http://www.worldoftanks.eu](https://web.archive.org/), [http://www.worldoftanks.de](http://www.worldoftanks.de/), [http://www.worldoftanks.fr](http://www.worldoftanks.fr/), [http://www.worldoftanks.co.uk](http://www.worldoftanks.co.uk/), [http://www.worldoftanks.it](http://www.worldoftanks.it/) and [http://www.worldoftanks.ru](http://www.worldoftanks.ru/) sites (collectively, the "Website") — and all online forms on the Website used to collect personal information.
+WN is committed to ensuring your privacy and protecting the security of your personal information. This Policy covers the public WN websites – including, but not limited to [http://www.wargaming.net](http://www.wargaming.net/), [http://www.worldoftanks.com](https://web.archive.org/), [http://www.worldoftanks.de](http://www.worldoftanks.de/), [http://www.worldoftanks.fr](http://www.worldoftanks.fr/), [http://www.worldoftanks.co.uk](http://www.worldoftanks.co.uk/), [http://www.worldoftanks.it](http://www.worldoftanks.it/) and [http://www.worldoftanks.ru](http://www.worldoftanks.ru/) sites (collectively, the "Website") — and all online forms on the Website used to collect personal information.
 
-If you have any comments, concerns or questions regarding our Policy, please contact us at [privacy@wargaming.net](mailto:privacy@wargaming.net). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
+If you have any comments or questions regarding our Policy, please contact us at [privacy@wargaming.net](mailto:privacy@wargaming.net). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
 
 **If you do not agree with any terms or conditions described in this Policy or the Terms of Service, please exit from the Website.**
 
@@ -29,6 +29,8 @@ We or our business partners may collect and process the following information an
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of transactions you carry out through our Website and of the fulfillment of your orders. 
   * Details of your visits to our Website including, but not limited to, traffic data, location data, weblogs, and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+
+
   * For some activities, we may ask you to create a username and password and/or to provide other, non-personal information such as your age, date of birth, gender, and/or game and platform preferences; and, combine such information with your personal information. In addition, your web browser or client software may transmit certain geographic information or information regarding your computer (capabilities, game data processing, etc.) to WN. We may use this information to generate aggregate statistics about our user community and may provide such non-personal information to advertisers and/or our partners. In addition, WN may use such information for security, system integrity (the prevention of hacking, cheats, etc.), or enforcement purposes.
 
 
@@ -76,7 +78,7 @@ WN strives to comply with all applicable laws around the globe that are designed
 
 ## **7\. Opt-Out Provision**
 
-If you do not want WN to send you e-mail or postal mail about our products and services, you can opt-out at the time of registration or information collection. If, at a later date, you choose to have your name or any other personal information removed from our mailing list, you can do so by emailing to [unsubscribe@worldoftanks.eu](mailto:unsubscribe@worldoftanks.eu).
+If you do not want WN to send you e-mail or postal mail about our products and services, you can opt-out at the time of registration or information collection. If, at a later date, you choose to have your name or any other personal information removed from our mailing list, you can do so by emailing to [unsubscribe@worldoftanks.com](mailto:unsubscribe@worldoftanks.com).
 
 ## **8\. Children’s Privacy**
 
@@ -94,6 +96,6 @@ This Policy may change from time to time, so please check back periodically to e
 
 ## **10\. Contact Us**
 
-If you have any questions, complaints, or comments regarding this Policy, or have other questions or suggestions about our Website, please contact us at [privacy@wargaming.net](mailto:privacy@wargaming.net).
+If you have any questions, complaints, or comments regarding this Policy, or have other questions or suggestions about our Website, please email us to [privacy@wargaming.net](mailto:privacy@wargaming.net).
 
-© 2008-2012 Wargaming.net LLP. All rights reserved. Wargaming.net and the logo Wargaming.net are the brand marks of Wargaming.net LLP.
+**©** 2008-2012 Wargaming.net LLP. All rights reserved. Wargaming.net and logo Wargaming.net are the trademarks of  Wargaming.net LLP. ****
