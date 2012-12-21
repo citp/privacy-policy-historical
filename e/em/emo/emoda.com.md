@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emoda.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512223516id_/http%3A//www.emoda.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emoda.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221023742id_/http%3A//www.emoda.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy at eModa.com | Premium Designer Clothing | Men's & Women's Designer Jeans
 
