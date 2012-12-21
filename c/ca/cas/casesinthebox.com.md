@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casesinthebox.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502030418id_/http%3A//www.casesinthebox.com/index.php%3Fmain_page%3Dhelp_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casesinthebox.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222004318id_/http%3A//www.casesinthebox.com/index.php%3Fmain_page%3Dhelp_privacy) for the most accurate reproduction.*
 
 # Help : CasesInTheBox.com
 
