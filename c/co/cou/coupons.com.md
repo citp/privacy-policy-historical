@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupons.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622210834id_/http%3A//www.couponsinc.com/Corporate/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupons.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221234034id_/http%3A//www.couponsinc.com/corporate/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,7 +41,9 @@ A device identifier stays on your computer even after uninstalling the coupon pr
 
 **Cookie & Web Beacon Information**: When you visit the Sites, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer. We use both session cookies and persistent cookies. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Sites. These persistent cookies can be removed, but each web browser is a little different. Please review your browser’s Help menu to learn how to modify your cookies setup. Our Sites also use web beacons (also known as clear gifs or pixel tags), which are tiny graphics with a unique identifier that are placed in the code of a webpage.
 
-**Affiliate Cookies:** Cookies sent to your computer by us, or our Affiliates on our behalf, are governed by this Privacy Policy. **** The independent use of cookies by our Affiliates is not covered by this privacy policy, as we do not have access or control over such cookies.  Generally speaking, such cookies are used by Affiliates to provide you with customized advertising. To learn more about cookies and how to manage them, please consult your browser's help menu. **Automatically Collected Information** : When you use the Sites or open one of our emails, we use technology (including web beacons and cookies, IP addresses, unique device IDs, user IDs, and log files) to automatically collect non-personally identifiable information including:
+**Affiliate Cookies:** Cookies sent to your computer by us, or our Affiliates on our behalf, are governed by this Privacy Policy. **** The independent use of cookies by our Affiliates is not covered by this privacy policy, as we do not have access or control over such cookies.  Generally speaking, such cookies are used by Affiliates to provide you with customized advertising. To learn more about cookies and how to manage them, please consult your browser's help menu. 
+
+**Automatically Collected Information** : When you use the Sites or open one of our emails, we use technology (including web beacons and cookies, IP addresses, unique device IDs, user IDs, and log files) to automatically collect non-personally identifiable information including:
 
   * Coupon activity (including requesting, printing, and saving to a loyalty account).
   * Application activity (such as searches performed and features accessed).
