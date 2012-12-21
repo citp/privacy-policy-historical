@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patientslikeme.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626014924id_/http%3A//www.patientslikeme.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patientslikeme.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221082954id_/http%3A//www.patientslikeme.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -23,7 +23,7 @@ Policies & Resources
     [FAQs and Screencasts](https://web.archive.org/help)
     [Contact Us](https://web.archive.org/about/contact)
 
-##  Effective Mar 5, 2012
+##  Effective March 5, 2012
 
 PatientsLikeMe ([www.patientslikeme.com](http://www.patientslikeme.com/)) (“Site”) is a sharing web site. Our goal is to provide a platform for patients who want to share their health information to create collective knowledge about disease, health, and treatments. We know our success in achieving this goal depends on a shared belief in our [Openness Philosophy](https://web.archive.org/about/openness). Being open about one’s health is not for everyone, and we strive, with full transparency, to outline the benefits and risks of being part of this sharing site, including those related to privacy.
 
