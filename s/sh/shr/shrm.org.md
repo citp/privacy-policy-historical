@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the shrm.org privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228092749id_/http%3A//www.shrm.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shrm.org privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221064551id_/http%3A//www.shrm.org/about/copyrightpermissions/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # SHRM Online Privacy Statement
-
-### SHRM ONLINE PRIVACY POLICY
-
-#### Overview
 
 Welcome to SHRM Online, owned and produced by the Society for Human Resource Management (SHRM). SHRM is the leading membership association for the human resource profession. Our websites are available to all visitors, although some content and features are restricted to SHRM members. 
 
@@ -21,11 +17,13 @@ This Online Privacy Policy discloses SHRM's privacy practices and contains detai
   7. What types of security procedures are in place to protect against the loss, misuse or alteration of your information? 
   8. How does SHRM Online use bulletin boards, discussion lists, and moderated chats? 
 
+
+
 All products and services on SHRM Online are made available subject to this Privacy Policy. By using the products and services, you agree, without limitation or qualification, to be bound by this Privacy Policy. 
 
 Questions regarding this statement should be directed to: 
 
-The Society for Human Resources Management  
+The Society for Human Resource Management  
 1800 Duke Street   
 Alexandria, Virginia, 22314 
 
@@ -36,7 +34,7 @@ SHRM Online will update this policy from time to time, so please check back peri
 
 #### Frequently-Asked Questions
 
-**1\. What information of yours does SHRM Online collect?**  
+ **1\. What information of yours does SHRM Online collect?**  
 Our goal is to become your destination for HR-related information by providing information, services, and product offerings that are most relevant to you in the most convenient way. To achieve this goal, SHRM Online collects information about site visitors. 
 
 Information collected online is usually defined as being either anonymous or personally identifiable. 
@@ -49,7 +47,7 @@ SHRM collects personal information in the following ways from different parts of
 
   1. **SHRM Membership Applications** : You are sharing personally identifiable information, including your name and mailing address, with us when you join SHRM or renew your SHRM membership through our website(s). SHRM members are given a SHRM membership number, and this member ID and password enables members to take advantage of restricted content and features on SHRM Online. 
   2. **Other Registration** : You may be asked for personal information when registering for specific services. For example, if you subscribe to an e-mail newsletter, you will be asked to provide your e-mail address. 
-  3. **Online Purchases** : We also ask for personal information when you make a purchase using the [SHRMStore](http://www.shrm.org/shrmstore/) or when you subscribe to a SHRM publication through our website. The number and variety of useful services on SHRM Online that may require collection of personally identifiable information will continue to grow in the future. 
+  3. **Online Purchases** : We also ask for personal information when you make a purchase using the [SHRMStore ](http://shrmstore.shrm.org/)or when you subscribe to a SHRM publication through our website. The number and variety of useful services on SHRM Online that may require collection of personally identifiable information will continue to grow in the future. 
 
 
 
@@ -59,46 +57,57 @@ A cookie is a small text file containing a unique identification number that is 
 To help serve you better, SHRM generally uses cookies to: 
 
   * Identify return visitors. Cookies let us remember your web browser so we can provide personalized member services such as My SHRM and SHRM search agents. Cookies also allow us to identify SHRM members who are returning to the site, so you will not have to re-enter a member ID and password the next time you visit. 
-  * Display advertisements. SHRM uses an outside ad company to display SHRM-approved ads on our website. While we use cookies on other parts of our website(s), the cookies received with banner ads are collected by our ad company. These cookies allow SHRM to manage the delivery of ads and do not collect personally identifiable information. For more information about our third party ad company, their cookies, and how to "opt-out" of those cookies, please [click here](http://www.doubleclick.net/us/corporate/privacy). 
+  * Display advertisements. SHRM uses an outside ad company to display SHRM-approved ads on our website. While we use cookies on other parts of our website(s), the cookies received with banner ads are collected by our ad company. These cookies allow SHRM to manage the delivery of ads and do not collect personally identifiable information. For more information about our third party ad company, their cookies, and how to "opt-out" of those cookies, please [click here](http://www.doubleclick.net/us/corporate/privacy).  
 
 
 
-**3\. What organization collects the information and who has access to it?**  
-Data collected through SHRM's website(s) is generally collected and maintained solely by SHRM. More specifically: 
+**3\. What organization collects the information and who has access to it?  
+** Data collected through SHRM's website(s) is generally collected and maintained solely by SHRM. More specifically: 
 
-  1. **Personally identifiable information**. When you provide personally identifiable information on SHRM Online to register for a service, buy a product, or take advantage of a promotion, that information is collected and maintained solely by SHRM, unless specifically stated otherwise at the point of collection. SHRM will inform you at the point of collection if your personal data is being shared with another organization. If you do not want to share your information with that company, you can choose not to use that service. 
+**a.) Personally identifiable information**. 
 
-If you join SHRM or renew your membership through our website, you provide personally identifiable information on the membership application. SHRM sells mailing lists (names and mailing addresses) of members to selected third-parties. If you wish to opt out of mail list sales at any time during your SHRM membership, you may do so by following the directions in Item 6 below. SHRM does not sell member e-mail addresses to third-parties. 
+(i) Information provided when you register for services or products. When you provide personally identifiable information on SHRM Online to register for a service, buy a product, or take advantage of a promotion; effective as to information you provide SHRM on or after May 1, 2009, SHRM sells to selected third parties, mailing lists (names, postal addresses, and or e-mail addresses) derived from such registrations. If you wish to opt out of such list sales at any time, you may do so by following the directions in Item 6 below. 
 
-  2. **Anonymous information**. We disclose to third-party sponsors/advertisers aggregate statistics (i.e., impressions and click-throughs on a company's advertisement). Also, we may share aggregate website statistics with the media or other third parties. No personally identifiable information is disclosed to these sponsors/advertisers or other third parties as part of this process-only information in an aggregate form. 
+(ii) Information provided when joining or renewing membership in SHRM. If you join SHRM or renew your membership through our website, you provide personally identifiable information on the membership application. SHRM sells mailing lists (names and mailing addresses) of members to selected third-parties. If you wish to opt out of mail list sales at any time during your SHRM membership, you may do so by following the directions in Item 6 below. SHRM does not sell to third-parties, e-mail addresses obtained from member applications or renewals (except that effective May 1, 2009 SHRM will rent a member e-mail address if that member has expressly opted in to allow such rentals). 
+
+**b.) Anonymous information**. 
+
+We disclose to third-party sponsors/advertisers aggregate statistics (i.e., impressions and click-throughs on a company's advertisement). Also, we may share aggregate website statistics with the media or other third parties. No personally identifiable information is disclosed to these sponsors/advertisers or other third parties as part of this process-only information in an aggregate form. 
 
 Be aware that SHRM's sponsors, advertisers, and third-party content providers have links on our site(s) that take you to other websites. For example, when you click on an ad displayed on SHRM Online, you are linked to another site. Please note also that links to other websites are provided throughout SHRM Online for users' information and convenience. SHRM hopes that all third parties involved adhere to our policies regarding the privacy of our users. However, SHRM's Online Privacy Policy does not cover third-party data collection practices, and SHRM Online does not assume any responsibility for any actions of third parties. 
 
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. We are using the information collected by ClickTale service to make the website easier to use.
 
+You can choose to disable the service at <http://www.clicktale.net/disable.html>.
 
+This site also uses Nielsen to measure aggregate traffic across many areas of the website.   The metrics are collected using cookies and web beacons.   No personally identifiable information is collected and no information is collected on visits to pages outside of this website.   For more information about how we use this third party service (Nielsen) to collect and use information on this site, as well as how to disable this measurement tool, please visit <http://www.nielsen-netratings.com/privacy/sitecensus.htm>.
 
-**4\. How does SHRM use the information it collects?**  
-SHRM collects information to provide you with the services you request and to improve our website(s). 
+**c.) SHRM India**
 
-If you join SHRM or renew your SHRM membership through our website(s), we use the personally identifiable information you provide in the membership application to send you SHRM publications, information about member benefits and special offers, and other information that SHRM believes is relevant and useful to its members. SHRM also sells mailing lists (names and mailing addresses) of members to selected HR service providers. You may opt out of mail list sales at any time during your membership, as described in Item 6 below. SHRM does not sell member e-mail addresses to third-parties. 
+We also allow our wholly owned subsidiary, Strategic Human Resource Management India Pvt. Ltd. (“SHRM India”) to use the information which you may provide when you register for services or products or when you join or renew membership in SHRM, to the same extent as SHRM may use such information under this Privacy Policy, and fully subject to the same limits as SHRM is subject to on the use of such information under this Privacy Policy.
+
+**4\. How does SHRM use the information it collects?  
+** SHRM collects information to provide you with the services you request and to improve our website(s). 
+
+If you join SHRM or renew your SHRM membership through our website(s), we use the personally identifiable information you provide in the membership application to send you SHRM publications, information about member benefits and special offers, and other information that SHRM believes is relevant and useful to its members. See Section 3 above as to SHRM policy on list sales. 
 
 As mentioned above, SHRM uses the aggregate, anonymous data collected to let our sponsors/advertisers know the number of impressions or views and the number of "click throughs" on their advertisement(s). SHRM also uses this aggregate, anonymous data to perform statistical analyses of the collective characteristics and behavior of our site visitors; to measure user interests regarding specific areas of the SHRM Online; and to analyze how and where best to use our resources. Without such data, we would not know which parts of SHRM Online are the most popular, and we would not be able to change and update the content and services appropriately. 
 
 SHRM may be required by law enforcement or judicial authorities to provide information on individual users to the appropriate governmental authorities. In matters involving a danger to personal or public safety, SHRM may voluntarily provide information to appropriate governmental authorities. 
 
-**5\. How can SHRM members modify their personal information?**  
-SHRM members have the following options for changing and modifying information previously provided. 
+**5\. How can SHRM members modify their personal information?  
+** SHRM members have the following options for changing and modifying information previously provided. 
 
 E-mail: [shrm@shrm.org](mailto:shrm@shrm.org)
 
-Visit: [www.shrm.org/memberrecord](http://www.shrm.org/memberrecord)
+Visit: [www.shrm.org/memberrecord](https://web.archive.org/memberrecord)
 
 Send mail to the following postal address: SHRM, 1800 Duke Street, Alexandria, Virginia, 22314, ATTN: Customer Service Department. 
 
 Call: 703/548-3440 or 800-283-7476. 
 
-**6\. What is the opt-out policy for SHRM Online?**  
-SHRM provides members and customers the opportunity to opt-out of receiving communications from us and our partners. If you no longer wish to receive specific communications or services, you have the following options: 
+**6\. What is the opt-out policy for SHRM Online?  
+** SHRM provides members and customers the opportunity to opt-out of receiving communications from us and our partners. If you no longer wish to receive specific communications or services, you have the following options: 
 
 You can send an e-mail to: [shrm@shrm.org](mailto:shrm@shrm.org)
 
@@ -116,4 +125,6 @@ You are ultimately responsible for the security of your SHRM member ID and passw
 **8\. How does SHRM Online use bulletin boards, discussion lists, and moderated chats?**  
 This site makes bulletin boards, discussion lists, and moderated chats available to its members. Any information that is disclosed in these areas becomes public information, and you should exercise caution when deciding to disclose your personal information. Although users may post messages that will appear on the message boards anonymously, SHRM does retain a record of who posts all notes. 
 
-**Privacy Policy Effective May, 2002. Updated September 2004.**
+**Privacy Policy Effective May, 2002. Updated February 24, 2011.**
+
+| 
