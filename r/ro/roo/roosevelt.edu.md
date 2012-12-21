@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roosevelt.edu privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501075755id_/http%3A//www.roosevelt.edu/ITS/policies/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roosevelt.edu privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221012419id_/http%3A//roosevelt.edu/ITS/policies/Privacy.aspx) for the most accurate reproduction.*
 
 # Roosevelt University Privacy Policy
 
@@ -11,7 +11,7 @@ About Us
 
 This is a privacy policy for Roosevelt University. Our homepage on the Web is located at [http://www.roosevelt.edu](http://www.roosevelt.edu/). Read the [full text of our privacy policy](https://web.archive.org/ITS/policies/Privacy.aspx). This policy does not tell users where they can go to exercise their opt-in or opt-out options. 
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: Web Design and Development, AUD 838-A, 430 S. Michigan Avenue, Chicago, IL. 
+We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: Web Design and Development, AUD 829, 430 S. Michigan Avenue, Chicago, IL. 
 
 You may contact us by e-mail at [webmaster@roosevelt.edu](mailto:webmaster@roosevelt.edu). 
 
@@ -19,19 +19,13 @@ You may contact us by e-mail at [webmaster@roosevelt.edu](mailto:webmaster@roose
 
 * Dispute: Any disputes of this privacy policy should be addressed to webmaster@roosevelt.edu. 
 
-### Additional Information   
+### Additional Information 
 
+This policy is valid for 1 day from the time that it is loaded by a client. 
 
-  
-This policy is valid for 1 day from the time that it is loaded by a client.   
+### Data Collection 
 
-
-### Data Collection   
-
-
-  
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 1 data group.   
-
+P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 1 data group. 
 
 ### Group "RU Privacy" 
 
@@ -106,8 +100,7 @@ The following table explains the meaning of each field in the compact policy.
   
 The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>.
 
-### Policy Evaluation   
-
+### Policy Evaluation 
 
 Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
 
