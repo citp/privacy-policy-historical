@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shareyourwallpapers.com privacy policy that was archived on 2007-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071127033827id_/http%3A//shareyourwallpapers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareyourwallpapers.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221190113id_/http%3A//shareyourwallpapers.com/privacy) for the most accurate reproduction.*
 
-# Free wallpapers, Celebrity wallpapers, Nature wallpapers, Movie wallpapers! ShareYourWallpaper.com
+# Privacy Policy
 
 **Agreement regarding confidentiality.**
 
