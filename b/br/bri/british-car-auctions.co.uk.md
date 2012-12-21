@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the british-car-auctions.co.uk privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614141957id_/http%3A//www.british-car-auctions.co.uk/Default.aspx%3Fpage%3D11482) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the british-car-auctions.co.uk privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222003537id_/http%3A//www.british-car-auctions.co.uk/About-Us/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-## Data Protection Act 1998
+# Privacy Policy - British Car Auctions
 
 British Car Auctions Limited (‘BCA’) respects and values the security and privacy of its customers. BCA follows strict security procedures in the storage and disclosure of personal information in order to prevent unauthorised access. Personal Data is held on our databases either because of services we have provided to you or because we believe that customers may be interested in receiving material from us about our business and services. As such we hold customer contact details and the history of our customer relationship. This allows us to manage our customer relationships effectively and target items of interest so that you do not receive unwanted material through the post.
 
