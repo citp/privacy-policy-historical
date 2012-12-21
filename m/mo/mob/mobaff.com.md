@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobaff.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621132911id_/http%3A//mobaff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobaff.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221042757id_/http%3A//mobaff.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
