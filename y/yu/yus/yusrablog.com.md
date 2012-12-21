@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yusrablog.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520031141id_/http%3A//www.yusrablog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yusrablog.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221131323id_/http%3A//www.yusrablog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YusraBlog.com
 
@@ -48,10 +48,9 @@ The Websites may have links to other websites. These linked websites are not und
 
 Some of our advertising partners may use cookies and web beacons on YusraBlog. Our advertising partners are,
 
-  1. [ **Google Adsense**](http://www.google.com/adsense)
-  2. [ **CpxInteractive**](http://www.cpxinteractive.com/)
-  3. [ **Infolinks**](http://www.infolinks.com/)
-  4. [ **MGID**](http://www.mgid.com/)
+  1. google.com/adsense
+  2. cpxinteractive.com
+  3. buysellads.com
 
 
 
