@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the albertahealthservices.ca privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509033823id_/http%3A//www.albertahealthservices.ca/121.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albertahealthservices.ca privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221111157id_/http%3A//www.albertahealthservices.ca/121.asp) for the most accurate reproduction.*
 
 # Privacy Statement | Privacy Statement | Alberta Health Services
 
-Alberta Health Services ("AHS") maintains the confidentiality and privacy of individuals' personal and health information while collecting, using and disclosing information in compliance with the _Freedom of Information and Protection of Privacy Act and the Health Information Act_. AHS supports the right of individuals or their authorized representatives to access and request corrections to their personal and health information, subject to any specific restrictions in applicable legislation. 
+Alberta Health Services ("AHS") maintains the confidentiality and privacy of individuals' personal and health information while collecting, using and disclosing information in compliance with the _Freedom of Information and Protection of Privacy Act and the Health Information Act_. AHS supports the right of individuals or their authorized representatives to access and request corrections to their personal and health information, subject to any specific restrictions in applicable legislation.
 
 AHS will not collect, use or disclose personal or health information in any manner that is not in accordance with the _Freedom of Information and Protection of Privacy Act, the Health Information Act_ , or its established policies. 
 
