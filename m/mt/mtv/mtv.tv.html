@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mtv.tv privacy policy that was archived on 2012-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621095648id_/http%3A//www.mtv.tv/info/Footer-Site-Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mtv.tv privacy policy that was archived on 2012-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121221011351id_/http%3A//www.mtv.tv/info/Footer-Site-Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-tv" xml:lang="en-tv"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -66,12 +66,13 @@ jQuery(window).load(insertHatLink);
 <!-- Zone Start: Page[pageContainer] -->
 
 
-<body class="page2columns section_info expandedNav hat17" id="infobody">
+<body class="page2columns section_info expandedNav hat1" id="infobody">
 <div id="pageWrapper">
 <div id="innerWrapper">
 <script type="text/javascript" src="http://widgets3.flux.com/Loader" id="20CAFFFF01D2A0390002FFFFCA20"></script>
 <script src="http://widgets3.flux.com/context/short/20CAFFFF01D2A0390002FFFFCA20" type="text/javascript"></script>
 <script type="text/javascript" src="http://widgets4.flux.com/Core?includeJQuery=false" id="20CAFFFF01D2A0390002FFFFCA20"></script>
+<script type="text/javascript" src="http://cus.flux.com/api/ContextService/Context?communityUcid=20CAFFFF01D2A0390002FFFFCA20">
 <script type="text/javascript">Flux4.createWidget('UserProfile', {})</script>
 <script type="text/javascript">
 /* <![CDATA[ */ var MTVNI = window.MTVNI || {};
@@ -112,25 +113,18 @@ if (MTVNI.Global.lowResolution){skyFlag = 0;}
 </script>
 <script type="text/javascript" src="http://btg.mtvnservices.com/aria/coda.html?site=mtv.tv"></script>
 <script type="text/javascript">
-/* <![CDATA[ */ var MTVNI = window.MTVNI || {};
-MTVNI.qsData=com.mtvi.util.queryStringToHash(window.location.search);
-mtvn.btg.Controller.init();
-var params = {
-pageName: com.mtvi.metadata.getDefaultPageName(),
-channel: com.mtvi.metadata.getDefaultChannel(),
-hier1: com.mtvi.metadata.getDefaultPageName()
-};
-if (MTVNI.qsData.s_cid) params.campaign = MTVNI.qsData.s_cid;
-mtvn.btg.Controller.sendPageCall(params);
+/* <![CDATA[ */
+var _log = "0";
 var _demo = "null";
 var _age = 0;
 var _gender = '';
 try {
-if (Flux) {
-var _adFluxCheck = ( Flux.context.user != null );
+if (window.Widgets4Context.user) {
+var _adFluxCheck = ( window.Widgets4Context.user.ucid != null )
 if( _adFluxCheck ) {
-_age = Flux.context.user.age;
-_gender = Flux.context.user.gender;
+_log = Number(_adFluxCheck).toString();
+_age = window.Widgets4Context.user.age;
+_gender = window.Widgets4Context.user.gender;
 if (_gender=='female') {
 if(_age == 6) {_demo = "lil";}
 else if(_age == 7) {_demo = "susie";}
@@ -177,13 +171,14 @@ else {_demo = "null";}
 else {var _adFluxCheck = 0;}
 }
 catch(e) { var _adFluxCheck = 0;};
+btg.Controller.sendPageCall();
 /* ]]> */
 </script><!-- Zone Start: Page[Header] -->
 <div id="siteheader">
 <!-- Template Start: SitewideExpandedHeader Master null -->
 <!-- Zone Start: SitewideExpandedHeader[headerPromoAd] -->
 <div id="headerPromoAd">
-<div class="adv promoAd"><a href="/shows/pauly-d-project" target="_blank"><img src="/gsp/Music-Entertainment/Shows/Pauly-D-Project/pauly-d-mini-top.jpg"></a></div>
+<div class="adv promoAd"><a href="/shows/plain-jane-2"><img src="/gsp/images/plane-jane-2-nav.jpg"></a></div>
 </div>
 <!-- Zone End: SitewideExpandedHeader[headerPromoAd] -->
 <!-- Zone Start: SitewideExpandedHeader[bannerAd] -->
@@ -198,17 +193,17 @@ catch(e) { var _adFluxCheck = 0;};
 -->
 <div class="ad">
 <script type="text/javascript">
-/* <![CDATA[ */ com.mtvi.ads.AdManager.setKeyValues("mpu=" + mpuFlag +";sky=" + skyFlag +";overlay=" + overlayFlag + ";media=other" + ";artist_id=null" + ";show_id=null" + "" + "" + "" + "");
-com.mtvi.ads.AdManager.placeAd({
+/* <![CDATA[ */ btg.Controller.placeAd({
 size:"728x90",
 contentType:"adj",
-log: _adFluxCheck,
+log: _log,
 demo: _demo,
+region: adRegion,
 event:"null",
 keyword:"null",
 vid:"null",
 vid_type:"null",
-region:"US"
+keyValues:"mpu=" + mpuFlag +";sky=" + skyFlag +";overlay=" + overlayFlag + ";media=other;artist_id=null;show_id=null"
 });
 /* ]]> */
 </script>
@@ -294,13 +289,13 @@ authenticationWidget.showInterimForm();
 
 <ul id="topnavLinks">
 <li class="first">
+<span><a href="/vma">2012 VMA</a></span>
+</li>
+<li class="">
+<span><a href="HTTP://TV.MTVEMA.COM">2012 EMA</a></span>
+</li>
+<li class="">
 <span><a href="http://movies.mtv.tv/movieawards" target="_blank">2012 MTV MOVIE AWARDS</a></span>
-</li>
-<li class="">
-<span><a href="HTTP://TV.MTVEMA.COM">2011 EMA</a></span>
-</li>
-<li class="">
-<span><a href="/vma">2011 VMA</a></span>
 </li>
 <li class="">
 <span><a href="/shows/channel/MTV/">MTV SCHEDULE</a></span>
@@ -321,7 +316,7 @@ authenticationWidget.showInterimForm();
 <ul class="gridContainer" style="z-index: 9999;">
 <li>
 <div class="grid columns-4">
-<ul class="gridMain" style="height: 463px;">
+<ul class="gridMain" style="height: 319px;">
 <li>
 <a href="/shows/browse/">Browse Shows</a>
 </li>
@@ -370,9 +365,36 @@ authenticationWidget.showInterimForm();
 </p>
 </li>
 </ul>
-<ul class="centerCol" style="height: 463px;">
+<ul class="centerCol" style="height: 319px;">
 <li class="first">
 <span><a href="/shows/popular">POPULAR SHOWS</a></span>
+</li>
+<li>
+<a href="/shows/jersey-shore-6/">Jersey Shore | Season 6</a>
+</li>
+<li>
+<a href="/shows/plain-jane-2/">Plain Jane | Season 2</a>
+</li>
+<li>
+<a href="/shows/awkward-2/">Awkward. | Season 2</a>
+</li>
+<li>
+<a href="/shows/teen-mom-4/">Teen Mom | Season 4</a>
+</li>
+<li>
+<a href="/shows/snooki-jwoww/">Snooki &amp; Jwoww</a>
+</li>
+<li>
+<a href="/shows/made-12/">Made | Season 12</a>
+</li>
+<li>
+<a href="/shows/friendzone/">Friendzone | Season 2</a>
+</li>
+<li>
+<a href="/shows/savage-u/">Savage U</a>
+</li>
+<li>
+<a href="/shows/16-and-pregnant-4/">16 And Pregnant (Season 4)</a>
 </li>
 <li>
 <a href="/shows/pauly-d-project/">The Pauly D Project</a>
@@ -380,75 +402,48 @@ authenticationWidget.showInterimForm();
 <li>
 <a href="/shows/punkd/">Punk'd | Season 9</a>
 </li>
-<li>
-<a href="/shows/pranked-4/">Pranked| Season 4</a>
-</li>
-<li>
-<a href="/shows/caged/">Caged</a>
-</li>
-<li>
-<a href="/shows/teen-mom-2-s2/">Teen Mom 2 | Season 2</a>
-</li>
-<li>
-<a href="/shows/jersey-shore-5/">Jersey Shore | Season 5</a>
-</li>
-<li>
-<a href="/shows/my-super-sweet-world-class-2/">My Super Sweet World Class | Season 2</a>
-</li>
-<li>
-<a href="/shows/beavis-and-butthead-9/">Beavis and Butt-Head | Season 9</a>
-</li>
-<li>
-<a href="/shows/ridiculousness/">Ridiculousness</a>
-</li>
-<li>
-<a href="/shows/teen-mom-3/">Teen Mom 3</a>
-</li>
 </ul>
-<ul class="centerCol" style="height: 463px;">
+<ul class="centerCol" style="height: 319px;">
 <li class="first">
 <span>CURRENT EPISODES</span>
 </li>
 <li>
-<a href="/shows/pauly-d-project/episodes/pauly-d-project-ep-2/video/pauly-d-everything-769171/">The Pauly D Project | Ep. 2 | The Suite Life</a>
+<a href="/shows/plain-jane-2/episodes/ep206/video/plain-jane-206-s1-864614/">Plain Jane | Ep.206 | Ellen</a>
 </li>
 <li>
-<a href="/shows/teen-mom-2-s2/episodes/teen-mom-2-s2-ep12/video/it-went-too-far-747179/">Teen Mom 2 (Season 2) | Ep.12 | Love Will Tear Us Apart</a>
+<a href="/shows/snooki-jwoww/episodes/snooki-jwoww-ep-112/video/it-s-time-to-go-home-836666/">Snooki &amp; Jwoww | Ep. 112 | The End??</a>
 </li>
 <li>
-<a href="/shows/punkd/episodes/punkd-ep-bam-magera-02/video/i-ve-got-some-ideas-769385/">Punk'd (Season 9) | Host Bam Magera | Ep.2</a>
+<a href="/shows/jersey-shore-6/episodes/601/video/here-we-go-again-843378/">Jersey Shore (Season 6) | Ep.601 | Once More Unto The Beach</a>
 </li>
 <li>
-<a href="/shows/caged/episodes/caged-ep6/video/group-therapy-755863/">Caged | Season 1 | Episode 6</a>
+<a href="/shows/jersey-shore-6/episodes/602/video/ron-gets-abducted-843390/">Jersey Shore (Season 6) | Ep.602 | No Shame, Good Integrity</a>
 </li>
 <li>
-<a href="/shows/beavis-and-butthead-9/episodes/beavis-butthead-s09-ep10/video/apocalypse-746569/">Beavis and Butt-Head | Ep.10| Time Machine / Massage</a>
+<a href="/shows/teen-mom-4/episodes/ep9/video/distractions-839317/">Teen Mom (Season 4) | Ep409 | By The Rules</a>
 </li>
 <li>
-<a href="/shows/pranked-4/episodes/episode-5/video/butt-er-face-763667/">Pranked (Season 4) | Episode 5</a>
+<a href="/shows/plain-jane-2/episodes/ep205/video/plain-jane-205-s1-861007/">Plain Jane | Ep.205 | Danielle</a>
 </li>
 <li>
-<a href="/shows/pauly-d-project/episodes/pauly-d-project-ep-1/video/we-re-going-to-vegas-769213/">The Pauly D Project | Ep. 1 | Hello Pressure! I’m Pauly D.</a>
+<a href="/shows/snooki-jwoww/episodes/snooki-jwoww-ep-111/video/i-love-you-but-i-hate-you-834432/">Snooki &amp; Jwoww | Ep. 111 | My Baby Is Boring</a>
 </li>
 <li>
-<a href="/shows/beavis-and-butthead-9/episodes/beavis-butthead-s09-ep09/video/furry-friend-746564/">Beavis and Butt-Head | Ep.09 | Used Cars / Bounty Hunters</a>
+<a href="/shows/teen-mom-4/episodes/ep8/video/this-is-expected-839309/">Teen Mom (Season 4) | Ep408 | The Next Step</a>
 </li>
 <li>
-<a href="/shows/caged/episodes/caged-ep5/video/better-as-friends-755592/">Caged | Season 1 | Episode 5</a>
-</li>
-<li>
-<a href="/shows/punkd/episodes/punkd-ep-justin-bieber-01/video/firework-wedding-769380/">Punk'd (Season 9) | Host Justin Bieber | Ep.1</a>
-</li>
-<li>
-<a href="/shows/teen-mom-2-s2/episodes/teen-mom-2-s2-ep11/video/know-how-to-talk-and-stuff-747166/">Teen Mom 2 (Season 2) | Ep.11 | Falling</a>
-</li>
-<li>
-<a href="/shows/beavis-and-butthead-9/episodes/beavis-butthead-s09-ep08/video/supersize-me-746559/">Beavis and Butt-Head | Ep.08 | Copy Machine / Holding</a>
+<a href="/shows/awkward-2/episodes/awkward-2-ep8/video/previously-on-828573/">Awkward. (Season 2) | Ep208 | Time After Time</a>
 </li>
 </ul>
-<ul class="centerCol last" style="height: 463px;">
+<ul class="centerCol last" style="height: 319px;">
 <li class="first">
 <span>TENTPOLES</span>
+</li>
+<li>
+<a href="/shows/2012-ema/">2012 MTV Europe Music Awards</a>
+</li>
+<li>
+<a href="/shows/vma-2012/">2012 MTV Video Music Awards</a>
 </li>
 <li>
 <a href="/shows/2012-mtv-movie-awards/">2012 MTV Movie Awards</a>
@@ -462,15 +457,6 @@ authenticationWidget.showInterimForm();
 <li>
 <a href="/shows/2011-mtv-movie-awards/">2011 MTV Movie Awards</a>
 </li>
-<li>
-<a href="/shows/2010-ema/">MTV 2010 Europe Music Awards</a>
-</li>
-<li>
-<a href="/shows/mtv-2010-video-music-awards/">2010 MTV Video Music Awards</a>
-</li>
-<li>
-<a href="/shows/mtv-movie-awards-2010/">2010 MTV Movie Awards</a>
-</li>
 </ul>
 </div><!-- shows-grid -->
 </li>
@@ -481,7 +467,7 @@ authenticationWidget.showInterimForm();
 <ul class="gridContainer" style="z-index: 9999;">
 <li>
 <div class="grid columns-4">
-<ul class="gridMain" style="height: 299px;">
+<ul class="gridMain" style="height: 259px;">
 <li>
 <a href="/news/hitlist-eurotop20/">Euro Top20</a>
 </li>
@@ -527,9 +513,24 @@ authenticationWidget.showInterimForm();
 </p>
 </li>
 </ul>
-<ul class="centerCol" style="height: 299px;">
+<ul class="centerCol" style="height: 259px;">
 <li class="first">
 <span><a href="/music/mtv-push">MTV PUSH</a></span>
+</li>
+<li>
+<a href="/news/rudimental-mtv-push-artist/">MTV Push | Rudimental</a>
+</li>
+<li>
+<a href="/news/karmin-mtv-push-artist/">MTV Push | Karmin</a>
+</li>
+<li>
+<a href="/news/carly-rae-jepsen-mtv-push-artist/">MTV Push | Carly Rae Jepsen</a>
+</li>
+<li>
+<a href="/news/of-monsters-and-men-mtv-push-artist/">MTV Push | Of Monsters And Men</a>
+</li>
+<li>
+<a href="/news/conor-maynard-mtv-push-artist/">MTV Push | Conor Maynard</a>
 </li>
 <li>
 <a href="/news/rita-ora-mtv-push-artist/">MTV Push | Rita Ora</a>
@@ -543,26 +544,8 @@ authenticationWidget.showInterimForm();
 <li>
 <a href="/news/gotye-mtv-push-artist/">MTV Push | Gotye</a>
 </li>
-<li>
-<a href="/news/michael-kiwanuka-mtv-push-artist/">MTV Push | Michael Kiwanuka</a>
-</li>
-<li>
-<a href="/news/mac-miller-mtv-push-artist/">MTV Push | Mac Miller</a>
-</li>
-<li>
-<a href="/music/artists/lana-del-rey/">Lana Del Rey</a>
-</li>
-<li>
-<a href="/music/artists/foster-the-people/">Foster The People</a>
-</li>
-<li>
-<a href="/music/artists/skylar-grey/">Skylar Grey</a>
-</li>
-<li>
-<a href="/music/artists/katy-b/">Katy B.</a>
-</li>
 </ul>
-<ul class="centerCol" style="height: 299px;">
+<ul class="centerCol" style="height: 259px;">
 <li class="first">
 <span>FAVORITE ARTISTS</span>
 </li>
@@ -603,9 +586,12 @@ authenticationWidget.showInterimForm();
 <a href="/music/artists/eminem/">EMINEM</a>
 </li>
 </ul>
-<ul class="centerCol last" style="height: 299px;">
+<ul class="centerCol last" style="height: 259px;">
 <li class="first">
 <span><a href="/shows/worldstage"><b>MTV WORLDSTAGE</b></a></span>
+</li>
+<li>
+<a href="/news/justin-bieber-worldstage-2012-malaysia/">MTV Worldstage | Malaysia 2012 | Justin Bieber</a>
 </li>
 <li>
 <a href="/news/evanescence-world-stage-mtv/">MTV Worldstage | Evanescence 2012</a>
@@ -625,25 +611,84 @@ authenticationWidget.showInterimForm();
 <li>
 <a href="/shows/worldstage/episodes/world-stage-japan-video-music-awards-2011/video/the-edge-of-glory-live-in-japan-675293/">Worldstage: VMAJ 2011</a>
 </li>
-<li>
-<a href="/shows/worldstage/episodes/world-stage-enrique-iglesias/video/dirty-dancer-live-in-georgia-689577/">Worldstage | Enrique Iglesias</a>
-</li>
-<li>
-<a href="/shows/worldstage/episodes/world-stage-ema-highlights-2010/video/only-girl-live-in-madrid-spain-607512/">EMA Highlights 2010</a>
-</li>
-<li>
-<a href="/shows/worldstage/episodes/world-stage-train/video/drops-of-jupiter-live-in-london-uk-605305/">Worldstage | Train</a>
-</li>
-<li>
-<a href="/shows/worldstage/episodes/world-stage-kiss-rock-am-2010/video/i-was-made-for-lovin-you-live-at-rock-am-ring-world-stage-633484/">Worldstage| Kiss</a>
-</li>
 </ul>
 </div><!-- shows-grid -->
 </li>
 </ul><!-- gridContainer -->
 </li>
 <li id="n-photos" class="toplvl ">
-<a href="/photos/" class="n-link">PHOTOS</a>
+<a href="/photos" class="n-link">Photos</a>
+<ul class="gridContainer" style="z-index: 9999;">
+<li>
+<div class="grid columns-4">
+<ul class="gridMain" style="height: 231px;">
+</ul>
+<ul class="centerCol" style="height: 231px;">
+<li class="first">
+<span>NEWEST</span>
+</li>
+<li>
+<a href="/photos/best-hair-transformation-2012-miley/?flipbook=best-hair-transformation-2012">Best Hair Transformation 2012</a>
+</li>
+<li>
+<a href="/photos/ama-2012-highlights-05/?flipbook=american-music-awards-2012">American Music Awards 2102 - Highlights</a>
+</li>
+<li>
+<a href="/photos/rihanna-gq-men-of-the-year-2012-01/?flipbook=rihanna-gq-men-of-the-year-2012">Rihanna GQ Men Of The Year Event</a>
+</li>
+<li>
+<a href="/shows/2012-ema/photos/2012-mtv-ema-winners-09/?flipbook=2012-mtv-ema-winners">2012 MTV EMA | Winners</a>
+</li>
+<li>
+<a href="/shows/2012-ema/photos/2012-mtv-ema-backstage-01/?flipbook=2012-mtv-ema-backstage">2012 MTV EMA | Backstage</a>
+</li>
+<li>
+<a href="/shows/2012-ema/photos/2012-mtv-ema-performances-30/?flipbook=2012-mtv-ema-performers">2012 MTV EMA | Performers</a>
+</li>
+<li>
+<a href="/photos/victoria-secret-fashion-show-2012-02/?flipbook=victoria-secret-fashion-show-2012">Victoria Secret Fashion Show 2012</a>
+</li>
+</ul>
+<ul class="centerCol" style="height: 231px;">
+<li class="first">
+<span>MOST VIEWED</span>
+</li>
+<li>
+<a href="/photos/biggest-celebrity-bums-05/?flipbook=biggest-beautiful-bums-hollywood">Biggest Celebrity Bootilicious Butts In Hollywood</a>
+</li>
+<li>
+<a href="/photos/nicki-minaj-booty-01/?flipbook=nicki-minaj-booty">Nicki Minaj Booty Pictures</a>
+</li>
+<li>
+<a href="/shows/vma-2012/photos/2012-vma-one-direction-rehearsal-02/?flipbook=2012-vma-one-direction-behind-the-secnes">2012 VMA | One Direction | Behind The Scenes</a>
+</li>
+<li>
+<a href="/music/artists/justin-bieber/photos/when-justin-and-selena-met-06/?flipbook=justin-bieber-selena-gomez-history">When Justin Bieber Met Selena Gomez</a>
+</li>
+<li>
+<a href="/photos/lip-locking-celebs-01/?flipbook=lip-locking-celebs">2011 MTV Movie Awards | Lip Locking Celebs</a>
+</li>
+</ul>
+<ul class="centerCol last" style="height: 231px;">
+<li class="first">
+<span>TRENDING</span>
+</li>
+<li>
+<a href="/photos/remember-justin-selena-01/?flipbook=remembering-justin-bieber-selena-gomez">Remembering Justin &amp; Selena</a>
+</li>
+<li>
+<a href="/shows/2012-ema/photos/2012-mtv-ema-winners-09/?flipbook=2012-mtv-ema-winners">2012 MTV EMA | Winners</a>
+</li>
+<li>
+<a href="/music/artists/taylor-swift/photos/taylor-swift-begin-again-16/?flipbook=taylor-swift-begin-again-behind-the-scenes">Taylor Swift | Behind The Scenes | "Begin Again" Video Shoot</a>
+</li>
+<li>
+<a href="/music/artists/karmin/photos/mtv-push-karmin-01/?flipbook=karmin-mtv-push">Karmin</a>
+</li>
+</ul>
+</div><!-- shows-grid -->
+</li>
+</ul><!-- gridContainer -->
 </li>
 <li id="n-videos" class="toplvl last">
 <a href="/watchvideos/" class="n-link">VIDEOS</a>
@@ -759,7 +804,8 @@ this.document.location = searchUrl;
 <h3><a name="8">Changes to our Privacy Policy</a></h3>
 <p>We will try to email you if there are any changes to this policy that materially affect how we use your information. However, we encourage users to be responsible about their privacy and to check this policy from time to time and to update their preferences.</p>
 <p>This policy was last updated 8th February 2008.</p><br><br>
-<b>This site uses cookies. Please see our <a href="/info/Footer-Cookie-Policy">Cookie Policy</a></b><!-- Zone End: LeftRows[Row] -->
+<b>This site uses cookies. Please see our <a href="/info/Footer-Cookie-Policy">Cookie Policy</a></b><br><br>
+"Please be advised that your personal information may be transferred to and processed by our affiliates in the United States. These affiliates comply with the U.S.-EU Safe Harbor. Please see the Safe Harbor Privacy Policy <a href="http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf" target="_blank">http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf</a> for detailed information on these affiliates' privacy practices."<!-- Zone End: LeftRows[Row] -->
 <!-- Template End: LeftRows Info null -->
 
 </div>
@@ -778,17 +824,17 @@ this.document.location = searchUrl;
 -->
 <div class="ad">
 <script type="text/javascript">
-/* <![CDATA[ */ com.mtvi.ads.AdManager.setKeyValues("mpu=" + mpuFlag +";sky=" + skyFlag +";overlay=" + overlayFlag + ";media=other" + ";artist_id=null" + ";show_id=null" + "" + "" + "" + "");
-com.mtvi.ads.AdManager.placeAd({
+/* <![CDATA[ */ btg.Controller.placeAd({
 size:"300x250",
 contentType:"adj",
-log: _adFluxCheck,
+log: _log,
 demo: _demo,
+region: adRegion,
 event:"null",
 keyword:"null",
 vid:"null",
 vid_type:"null",
-region:"US"
+keyValues:"mpu=" + mpuFlag +";sky=" + skyFlag +";overlay=" + overlayFlag + ";media=other;artist_id=null;show_id=null"
 });
 /* ]]> */
 </script>
@@ -995,17 +1041,17 @@ of: jQuery("#searchblock")
 
 -->
 <script type="text/javascript">
-/* <![CDATA[ */ com.mtvi.ads.AdManager.setKeyValues("mpu=" + mpuFlag +";sky=" + skyFlag +";overlay=" + overlayFlag + ";media=other" + ";artist_id=null" + ";show_id=null" + "" + "" + ";dcopt=ist" + ";slot=overlay");
-com.mtvi.ads.AdManager.placeAd({
+/* <![CDATA[ */ btg.Controller.placeAd({
 size:"1x1",
 contentType:"adj",
-log: _adFluxCheck,
+log: _log,
 demo: _demo,
+region: adRegion,
 event:"null",
 keyword:"null",
 vid:"null",
 vid_type:"null",
-region:"US"
+keyValues:"mpu=" + mpuFlag +";sky=" + skyFlag +";overlay=" + overlayFlag + ";slot=overlay" + ";media=other;artist_id=null;show_id=null;dcopt=ist"
 });
 /* ]]> */
 </script>
