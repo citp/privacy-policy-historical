@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventbrite.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621051826id_/http%3A//www.eventbrite.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventbrite.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221071528id_/http%3A//www.eventbrite.com/privacypolicy) for the most accurate reproduction.*
 
 # Eventbrite Privacy Policy
 
