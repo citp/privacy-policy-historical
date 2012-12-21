@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the magtrends.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615162938id_/http%3A//magtrends.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magtrends.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221151636id_/http%3A//magtrends.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 The privacy of our visitors to  **[Mag Trends](http://magtrends.com/) **is important to us.
 
-At  **[Mag Trends](http://magtrends.com/)** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit [](http://www.foolsavenue.com/)[ ****](http://www.foolsavenue.com/) **[Mag Trends](http://magtrends.com/)** , and how we safeguard your information.  We never sell your personal information to third parties.
+At  **[Mag Trends](http://magtrends.com/)** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit  **[Mag Trends](http://magtrends.com/)** , and how we safeguard your information.  We never sell your personal information to third parties.
 
   * **Log Files**
 
@@ -21,3 +21,7 @@ We do use cookies to store information, such as your personal preferences when y
 We also use third party advertisements on **[Mag Trends](http://magtrends.com/)** to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geo-targeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+**Notice Regarding Online Behavioral Advertising:**
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
