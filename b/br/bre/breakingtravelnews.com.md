@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakingtravelnews.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601062818id_/http%3A//www.breakingtravelnews.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingtravelnews.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221224524id_/http%3A//www.breakingtravelnews.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Breaking Travel News
 
@@ -29,8 +29,18 @@ We shall be entitled to sell or otherwise make available Your User Information i
 We are not responsible for any actions or policies of any third parties who request Your User information and Users should check the applicable privacy policy of such third parties.
 
 **Cookies**  
-You should be aware that information and data may be automatically collected through the use of Cookies. “Cookies” are small text files that store basic information that a web site can use to recognise repeat site visits and as an example, re-call your name if this has been previously supplied. We may use this to observe behaviour and compile aggregate data in order to improve the Site, target the advertising and assess general effectiveness of such advertising. Cookies do not attach to Your system and damage Your files. If You do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows You to deny or accept the Cookie feature. Note, however, that ‘personalised’ services may be affected if the cookie option is disabled.
+Like most websites, we use cookies to track site usage and trends and to improve the quality and customise your experience of the Breaking Travel News website. We may also use cookies to provide advertising on the Breaking Travel News website. We may also allow certain business partners to place or recognise cookies on your browser for those purposes.  A cookie is a tiny text file that resides on your computer, mobile phone, or other device, and allows us and/or our business partners to recognise you as a user when you return to a Breaking Travel News website using the same computer and web browser. For more detail on how businesses use cookies on websites, please see [www.allaboutcookies.org](http://www.allaboutcookies.org/). You can find an overview of the various types of cookies used by Breaking Travel News and/or our business partners, in the table below.
 
+We use cookies for 4 purposes: 
+
+Cookie Type | Purpose  
+---|---  
+Essential Operational | These cookies are necessary to allow us to operate the Breaking Travel News Website as you have requested. These cookies, for example, let us recognize what type of subscriber you are and then provide you with the services which you are entitled to.  
+Performance | These cookies are used by us or our business partners to analyse how the Breaking Travel News website is used.  The cookies also let us monitor how the Breaking Travel News website is performing. These cookies do not let us identify users and we combine the information which they provide us.  We use this information to maintain, operate and continually improve the Breaking Travel News Website.  
+Functional | These cookies let us operate certain functions of the Breaking Travel News website in line with the choices you make.  These cookies mean that when you come back to the Breaking Travel News website we can provide you with our services as you have asked for them to be provided, such as knowing your user name and remembering how you have customised our services.  
+Targeting/advertising | These cookies are used by us and our business partners to serve you with advertisements when using the Breaking Travel News website.  Some advertisements may be relevant to you and your interests.  These cookies may also help us and our business partners regulate the advertisement you receive and measure the effectiveness of the advert.  Even if we let our business partners place the cookies for advertising we do not identify you to those business partners.  
+  
+  
 **Security**  
 Security is very important to Us. Secure Socket Layer (“SSL”) encryption technology is used for protection of information in transit for any sensitive transactions such as payments. Additional security procedures are in place to protect the confidentiality, integrity and availability of Your User information. Your User information will not be kept longer than is necessary for the purposes stated at the collection point or in this Privacy Policy.
 
