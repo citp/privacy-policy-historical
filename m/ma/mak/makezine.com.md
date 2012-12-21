@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makezine.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627111359id_/http%3A//www.oreillynet.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makezine.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221090815id_/http%3A//www.oreillynet.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
