@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jadootv.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601100624id_/http%3A//jadootv.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jadootv.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221202043id_/http%3A//jadootv.com/privacypolicy.php) for the most accurate reproduction.*
 
-# jadooTV - Privacy Policy
+# jadoo3 - Watch all TV channels, Internet Videos, Movies, Sports & more, all on your TV for FREE!
 
 **Introduction**  
 JadooTV Inc. respects your privacy. This Privacy Statement explains what information we collect through our websites (the "Sites"), through our products and when you contact us for support, how we use that information, and what choices you have.
