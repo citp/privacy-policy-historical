@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliateownage.com privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419042458id_/http%3A//www.affiliateownage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliateownage.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222005247id_/http%3A//www.affiliateownage.com/privacy.html) for the most accurate reproduction.*
 
 # Affiliate Ownage
 
@@ -39,7 +39,7 @@ We are firm believers in ethical email marketing methods and as such we have tak
 
 **Your Consent.**
 
-By using this site, you are giving permission and consent to the privacy policy laid out here. Please read our disclaimers at this page here: [http://www.affiliateownage.com/disclaimer.html](https://web.archive.org/web/20120419042458id_/http%3A//www.affiliateownage.com/disclaimer.html)
+By using this site, you are giving permission and consent to the privacy policy laid out here. Please read our disclaimers at this page here: [http://www.affiliateownage.com/disclaimer.html](https://web.archive.org/web/20121222005247id_/http%3A//www.affiliateownage.com/disclaimer.html)
 
 **Contacting us.**
 
