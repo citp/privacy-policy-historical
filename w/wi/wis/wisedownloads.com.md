@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wisedownloads.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624074340id_/http%3A//wisedownloads.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisedownloads.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221060733id_/http%3A//wisedownloads.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**Modified Installer** : Wisedownloads is distributing custom installers which are different from the originally available distribution. These new installers comply with the original software manufacturers’ policies and terms & conditions, however, they are not the originals. Optimum Installer is an install manager, which manages the installation of your chosen software. In addition to managing your download and installation, Optimum Installer will offer free popular software that you may be interested in. You are not required to install any additional software to complete your installation of your selected software. You can always completely remove the programs at any time in Windows’ Add/Remove Programs.
 
   
 
@@ -13,7 +11,11 @@
 
 ## PLEASE CHECK BACK FREQUENTLY FOR UPDATES 
 
-## Effective as of May 22, 2012 
+## Effective as of October 8, 2012 
+
+Optimum Installer is certified as a Trusted Download Program by TRUSTe signifying that the Optimum Installer application has been tested by TRUSTe for compliance with TRUSTe's TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding the Optimum Installer application, please contact us at KITN Media USA, Inc., 5220 Summerlin Commons Blvd., Suite 501, Fort Myers, FL 33907or by email at legal@optimuminstaller.com. If you are not satisfied with our response you can contact TRUSTe [here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=180&sealid=112). The TRUSTe Trusted Download program covers only the certified software downloaded from this site. It does not cover other applications such as mobile versions, Facebook or Twitter apps.
+
+WiseDownloads is powered by Optimum Installer which will manage the download of your chosen software. All selected software will be downloaded to a temporary directory and installed automatically.
 
 Optimum Installer has established this Privacy Policy to inform you how we collect and use information and to allow you to make an informed decision about how you will use our Services. Our “Services” include the Optimum Installer software, and all related services, applications, components, programs, software, listings, directories, tools, databases and information made available and utilized through each of the foregoing. References to “you” in this Agreement means you, your duly authorized representatives and any entity you may represent in connection with your use of the Services. 
 
@@ -112,7 +114,7 @@ Any references made in this Privacy Policy to “us”, “we”, “our” and/
 
 For more information about protecting your privacy, you may wish to visit http://www.netcoalition.com and http://www.privacyalliance.org. In addition, the Federal Trade Commission Consumer Response Center offers a helpline at 1-877-FTC-HELP (1-877-382-4357) to allow consumers to make comments or inquiries regarding companies and business practices. 
 
-If you have questions about this Privacy Policy, please contact us at legal@optimuminstaller.com or write to us at:
+If you have questions about this Privacy Policy, or if you would like access to your personal information to correct, update or delete it, please contact us at legal@optimuminstaller.com or write to us at:
 
 Optimum Installer   
 Attn: Legal Department   
