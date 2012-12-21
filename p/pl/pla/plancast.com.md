@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plancast.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614182007id_/http%3A//plancast.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plancast.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221164015id_/http%3A//plancast.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy on Plancast
 
@@ -66,9 +66,4 @@ We are not responsible for the practices employed by websites linked to or from 
 
 If we change our privacy policies and procedures, we will post those changes on this page to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
-If you have any questions about this Privacy Policy, please contact us at [privacy@plancast.com](mailto:privacy@plancast.com), or send mail to:
-
-> Plancast Privacy  
->  365 Ambar Way  
->  Menlo Park, CA 94025  
-> 
+If you have any questions about this Privacy Policy, please contact us at [privacy@plancast.com](mailto:privacy@plancast.com).
