@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beanstalk-inc.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504002443id_/http%3A//www.beanstalk-inc.com/bsi/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beanstalk-inc.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221112731id_/http%3A//www.beanstalk-inc.com/bsi/privacy.htm) for the most accurate reproduction.*
 
 # Beanstalk's Privacy Policy
 
