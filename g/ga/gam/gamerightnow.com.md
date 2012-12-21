@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamerightnow.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520145031id_/http%3A//www.gamerightnow.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerightnow.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221163714id_/http%3A//www.gamerightnow.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Policy
 
