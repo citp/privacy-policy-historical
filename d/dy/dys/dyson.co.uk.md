@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dyson.co.uk privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615180435id_/http%3A//www.dyson.co.uk/Support/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyson.co.uk privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221104542id_/http%3A//www.dyson.co.uk/support/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,6 +16,7 @@ Questions regarding this privacy policy should be directed to the Web-Master at 
   * What kind of security is used to protect your information?
   * Secure online shopping at Dyson.co.uk
   * Verified by Visa and MasterCard SecureCode
+  * Dyson Balloon Game
 
 
 
@@ -106,5 +107,11 @@ If the credit / debit card you're using to pay for your order qualifies for one 
 Using this service is a matter of adding a quick extra step to your online checkout procedure. Enrolling takes moments and is secure. Each future purchase will require the password you set up when enrolling.
 
 If you would like to learn more about these services, please contact your card issuer who should be able to assist you. 
+
+Back to top
+
+## Dyson Balloon Game
+
+Please click [here](https://web.archive.org/web/20121221104542id_/http%3A//www.dyson.co.uk/support/medialibrary/20EC2F77DB6C4455A7A74EFD5ED550BD.pdf) to download the end user license agreement for the Dyson balloon game.
 
 Back to top
