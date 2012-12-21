@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cafebritt.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625051541id_/http%3A//www.cafebritt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafebritt.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221060438id_/http%3A//cafebritt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At Cafe Britt we are committed to **respecting your privacy** and we recognize your need for appropriate protection and management of personal information you share with us. _We do not sell, trade, or rent your personal information to others_. We use the information we collect to process orders and to provide a more personalized shopping experience.
+At Cafe Britt we are committed to **respecting your privacy** and we recognize your need for appropriate protection and management of personal information you share with us. We use the information we collect to process orders and to provide a more personalized shopping experience.
 
 ### Collecting Information
 
