@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dublinbus.ie privacy policy that was archived on 2012-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120619182501id_/http%3A//www.dublinbus.ie/en/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dublinbus.ie privacy policy that was archived on 2012-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121221104134id_/http%3A//dublinbus.ie/en/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html id="ctl00_HtmlElement" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head id="ctl00_Head1"><title>
 	Privacy - Dublin Bus
@@ -10,11 +10,17 @@
 <link rel="stylesheet" type="text/css" media="screen, print" href="/Templates/Public/Styles/styles.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/RadControls/ToolTip.BiznetCustomSkin.css">
 <link rel="stylesheet" type="text/css" media="print" href="/Templates/Public/Styles/styles-print-new.css">
+<link rel="stylesheet" type="text/css" href="/Templates/Public/Styles/cookiecompliancy.css">
 
-<script language="javascript" type="text/javascript" src="/Templates/Public/Scripts/jquery-1.4.2.min.js"></script>
+<script language="javascript" type="text/javascript" src="/Templates/Public/Scripts/jquery-1.7.2.min.js"></script>
 <script language="javascript" type="text/javascript" src="/Templates/Public/Scripts/CustomExtra.js"></script>
 <script type="text/javascript" src="/Templates/Public/Scripts/jquery.cycle.lite.js"></script>
 <script type="text/javascript" src="/Templates/Public/Scripts/rounded-corners.js"></script>
+<script type="text/javascript" src="/Templates/Public/Scripts/jquery.transform2d.js"></script>
+
+<script type="text/javascript" src="/Templates/Public/Scripts/cookiecompliancy.min.js"></script>
+
+
 
  <!--[if lte IE 6]>
 <link href="/Templates/Public/Styles/IE6.css" rel="stylesheet" type="text/css" />
@@ -36,7 +42,7 @@
     <form name="aspnetForm" method="post" action="/en/Privacy/" id="aspnetForm">
 <div>
 <input type="hidden" name="ctl00_RadScriptManager1_TSM" id="ctl00_RadScriptManager1_TSM" value="">
-<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="4">
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="1">
 <input type="hidden" name="__VIEWSTATE" id="
 __VIEWSTATE" value="">
 </div>
@@ -55,6 +61,20 @@ __VIEWSTATE" value="">
     
     <div id="auto_center">
         <div id="site_holder">
+            <div class="top-controls clearfix">
+                <ul class="sizer clearfix">    
+                    <!--[if !IE]><!-->      	    
+            	    <li class="one"><a onclick="$('body').animate({transform: 'scale(1)'}).css({'position' : 'relative'});" href="#">A</a></li>
+                    <li class="two"><a onclick="$('body').animate({transform: 'scale(1.15)'}).css({'position' : 'relative'});" href="#">A</a></li>
+                    <li class="three"><a onclick="$('body').animate({transform: 'scale(1.3)'}).css({'position' : 'relative'});" href="#">A</a></li>
+                    <!--<![endif]-->
+                    <!--[if IE]>
+                    <li class="one"><a onclick="$('body').css({'position' : 'relative', 'zoom' : '100%'});" href="#">A</a></li>
+                    <li class="two"><a onclick="$('body').css({'position' : 'relative', 'zoom' : '115%'});" href="#">A</a></li>
+                    <li class="three"><a onclick="$('body').css({'position' : 'relative', 'zoom' : '130%'});" href="#">A</a></li>
+                    <![endif]-->
+                </ul>                                                               
+            </div>
             
                 <div id="header_top">
                     
@@ -90,6 +110,20 @@ __VIEWSTATE" value="">
 
     
 
+                    
+                    <div class="weather-container clearfix"><span class="detail"><strong>Dublin, Ireland </strong><br>Fri 21 Dec <span id="time">07:43</span>6°c</span><img width="40px" height="40px" style="vertical-align:middle" src="http://www.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"></div>
+
+<script type="text/javascript">
+    function displayTime() {
+        var date = new Date();
+
+        document.getElementById('time').innerHTML = date.toTimeString().substring(0,5);
+        setTimeout("displayTime()", 1000);
+    }
+    
+    displayTime();
+</script>
+                                        
                     <div id="utility">
                         
   <ul id="nav-list">
@@ -126,8 +160,8 @@ __VIEWSTATE" value="">
         </li>
        
         <li>
-         <a href="/en/Network-Direct/">
-          Network Direct 
+         <a href="/en/Our-Network/">
+          Our Network
          </a> 
         </li>
        
@@ -231,20 +265,14 @@ __VIEWSTATE" value="">
         </li>
        
         <li>
-         <a href="/en/Your-Journey1/City-Centre/">
-          City Centre Fare
+         <a href="/en/Your-Journey1/Do-you-get-it-yet/">
+          Do you get it yet?
          </a> 
         </li>
        
         <li>
-         <a href="/en/Your-Journey1/Tourist-Information/">
-          Tourist Information
-         </a> 
-        </li>
-       
-        <li>
-         <a href="/en/Your-Journey1/Bustxt/">
-          Bustxt
+         <a href="/en/Your-Journey1/Getting-To-Events/">
+          Getting To Events
          </a> 
         </li>
        
@@ -261,14 +289,20 @@ __VIEWSTATE" value="">
         </li>
        
         <li>
+         <a href="/en/Your-Journey1/Tourist-Information/">
+          Tourist Information
+         </a> 
+        </li>
+       
+        <li>
          <a href="/en/Your-Journey1/Bus-Hire/">
           Bus Hire
          </a> 
         </li>
        
         <li>
-         <a href="/en/Your-Journey1/Concerts/">
-          Concerts
+         <a href="/en/Your-Journey1/Bustxt/">
+          Bustxt
          </a> 
         </li>
        
@@ -281,12 +315,6 @@ __VIEWSTATE" value="">
         <li>
          <a href="/en/Your-Journey1/Accessibility/">
           Accessibility
-         </a> 
-        </li>
-       
-        <li>
-         <a href="/en/Your-Journey1/Do-you-get-it-yet/">
-          Do you get it yet
          </a> 
         </li>
        
@@ -320,6 +348,12 @@ __VIEWSTATE" value="">
         </li>
        
         <li>
+         <a href="/en/Fares--Tickets/City-Centre/">
+          City Centre Fare
+         </a> 
+        </li>
+       
+        <li>
          <a href="/en/Fares--Tickets/Ticket-Agents/">
           Ticket Agents
          </a> 
@@ -338,14 +372,14 @@ __VIEWSTATE" value="">
         </li>
        
         <li>
-         <a href="/en/Fares--Tickets/Prepaid-Smartcard/">
-          Prepaid Smartcard
+         <a href="/en/Fares--Tickets/Standard-Fare/">
+          Standard Fare
          </a> 
         </li>
        
         <li>
-         <a href="/en/Fares--Tickets/Standard-Fare/">
-          Standard Fare
+         <a href="/en/Fares--Tickets/Prepaid-Smartcard/">
+          Prepaid Smartcard
          </a> 
         </li>
        
@@ -360,26 +394,20 @@ __VIEWSTATE" value="">
   </li>
  
   <li class="middle">
-   <a href="/en/Network-Direct/">
-    Network Direct 
+   <a href="/en/Our-Network/">
+    Our Network
    </a>
     
         <ul id="nav-list">
        
         <li>
-         <a href="/en/Network-Direct/Network-Direct---Implemented-Phases/">
-          Network Direct - Implemented Phases
-         </a> 
-        </li>
-       
-        <li>
-         <a href="/en/Network-Direct/Network-Direct---Phases-to-be-Implemented/">
+         <a href="/en/Our-Network/Network-Direct---Phases-to-be-Implemented/">
           Network Direct - Phases to be Implemented
          </a> 
         </li>
        
         <li>
-         <a href="/en/Network-Direct/Customer-Information/">
+         <a href="/en/Our-Network/Customer-Information/">
           Customer Information
          </a> 
         </li>
@@ -402,14 +430,14 @@ __VIEWSTATE" value="">
         </li>
        
         <li>
-         <a href="/en/About-Us/Customer-Charter/">
-          Customer Charter
+         <a href="/en/About-Us/Dublin-Bus-and-Social-Media-/">
+          Dublin Bus and Social Media 
          </a> 
         </li>
        
         <li>
-         <a href="/en/About-Us/Human-Resources/">
-          Human Resources
+         <a href="/en/About-Us/Customer-Charter/">
+          Customer Charter
          </a> 
         </li>
        
@@ -444,6 +472,12 @@ __VIEWSTATE" value="">
         </li>
        
         <li>
+         <a href="/en/About-Us/Human-Resources/">
+          Human Resources
+         </a> 
+        </li>
+       
+        <li>
          <a href="/en/About-Us/Equality-Diversity-Strategy-/">
           Equality and Diversity
          </a> 
@@ -464,6 +498,12 @@ __VIEWSTATE" value="">
         <li>
          <a href="/en/About-Us/Code-of-Ethic/">
           Code of Ethics
+         </a> 
+        </li>
+       
+        <li>
+         <a href="/en/About-Us/FAQs/">
+          FAQs
          </a> 
         </li>
        
@@ -508,8 +548,8 @@ __VIEWSTATE" value="">
                                     </a></li>
                                     
                                 
-                                    <li id="ctl00_FullRegion_MainRegion_rpttabcontrol_ctl04_tab"><a title="Network Direct" href="/Network-Direct/">
-                                        Network Direct
+                                    <li id="ctl00_FullRegion_MainRegion_rpttabcontrol_ctl04_tab"><a title="Fares &amp; Tickets" href="/Fares--Tickets/">
+                                        Fares &amp; Tickets
                                     </a></li>
                                     
                                 
@@ -517,11 +557,10 @@ __VIEWSTATE" value="">
                                 
                         </div>
                         <div style="float: left; margin: 0px 0px 0px 2px; padding-top: 6px;">
-                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                             <a href="http://www.youtube.com/dublinbusnews" title="youtube" target="_blank">
-                                <img style="position:relative;top:1px;" src="/Templates/Public/Images/icons/icon-youtube.png" alt="youtube"></a>
-                            <a href="http://twitter.com/DublinBusNews" title="twitter" target="_blank">
-                                <img src="/Templates/Public/Images/icons/icon-twitter.jpg" alt="twitter"></a>
+                                <img style="position: relative; top: 1px;" src="/Templates/Public/Images/icons/icon-youtube.png" alt="youtube"></a> <a href="http://twitter.com/DublinBusNews" title="twitter" target="_blank">
+                                        <img src="/Templates/Public/Images/icons/icon-twitter.jpg" alt="twitter"></a>
                             <a href="http://www.facebook.com/DublinBusNews" title="facebook" target="_blank">
                                 <img src="/Templates/Public/Images/icons/icon-facebook.gif" alt="facebook"></a>
                         </div>
@@ -533,7 +572,7 @@ __VIEWSTATE" value="">
 
 <div class="searchbox">
  
- <input name="ctl00$FullRegion$MainRegion$QuickSearch1$SearchText" type="text" value="Search Website" id="ctl00_FullRegion_MainRegion_QuickSearch1_SearchText" tabindex="1" class="quickSearchField" onfocus="this.value='';" onblur="this.value=!this.value?'Search Website':this.value;">
+ <input name="ctl00$FullRegion$MainRegion$QuickSearch1$SearchText" type="text" value="Type here to search" id="ctl00_FullRegion_MainRegion_QuickSearch1_SearchText" tabindex="1" class="quickSearchField" onfocus="this.value='';" onblur="this.value=!this.value?'Type here to search':this.value;">
 </div>
     
 <div class="search_button">
@@ -596,10 +635,10 @@ __VIEWSTATE" value="">
                                             <!-- Page Module Area -->
                                             <div id="ModuleArea">
                                             </div>
-                                            <!-- Page Module Area END -->                                            
+                                            <!-- Page Module Area END -->
                                         </div>
-                                        <!-- PageLeft Content Area END -->                                        
-                                    </div>                                    
+                                        <!-- PageLeft Content Area END -->
+                                    </div>
                                 </div>
                                 <div id="lower_column_middle">
                                     
@@ -951,7 +990,7 @@ __VIEWSTATE" value="">
                     Bustxt
                 </a></li>
             
-                <li><a title="City Centre Fare" href="/Your-Journey1/City-Centre/">
+                <li><a title="City Centre Fare" href="/Fares--Tickets/City-Centre/">
                     City Centre Fare
                 </a></li>
             
@@ -1045,31 +1084,44 @@ __VIEWSTATE" value="">
 <div id="footer">
     <div id="footer_left">
         <!-- hardcode inactive links for 'display' now; add control later -->
-       <ul>
-                <li id="ctl00_FullRegion_PageFooter1_Li1" class="first">
-                    <a id="ctl00_FullRegion_PageFooter1_HyperLinkAccessibility" href="/en/Your-Journey1/Accessibility/">Accessibility</a>
-                </li>
-                <li id="ctl00_FullRegion_PageFooter1_Li2">
-                    <a id="ctl00_FullRegion_PageFooter1_HyperLinkPrivacy" href="/en/Privacy/">Privacy</a>
-                </li>
-                
-                <li id="ctl00_FullRegion_PageFooter1_Li4">
-                    <a id="ctl00_FullRegion_PageFooter1_HyperLinkLegal" href="/en/Legal/">Legal</a>
-                </li>
-                <li id="ctl00_FullRegion_PageFooter1_Li5">
-                    <a id="ctl00_FullRegion_PageFooter1_HyperLinkSitemap" href="/en/Sitemap/">Sitemap</a>
-                </li>
-            </ul>
+        <ul>
+            <li id="ctl00_FullRegion_PageFooter1_Li1" class="first">
+                <a id="ctl00_FullRegion_PageFooter1_HyperLinkAccessibility" href="/en/Your-Journey1/Accessibility/">Accessibility</a>
+            </li>
+            <li id="ctl00_FullRegion_PageFooter1_Li2">
+                <a id="ctl00_FullRegion_PageFooter1_HyperLinkPrivacy" href="/en/Privacy/">Privacy</a>
+            </li>
+            
+            <li id="ctl00_FullRegion_PageFooter1_Li4">
+                <a id="ctl00_FullRegion_PageFooter1_HyperLinkLegal" href="/en/Legal/">Legal</a>
+            </li>
+            <li id="ctl00_FullRegion_PageFooter1_Li5">
+                <a id="ctl00_FullRegion_PageFooter1_HyperLinkSitemap" href="/en/Sitemap/">Sitemap</a>
+            </li>
+        </ul>
         Customer Services: 
         +353 (01) 8734222
     </div>
     <div id="footer_right">
-        Designed &amp; Developed by <a href="http://www.biznetiis.com" target="_blank">biznet
-            IIS</a>
+        Designed &amp; Developed by <a href="http://www.biznetiis.com" target="_blank">i3 Digital</a>
     </div>
     <div class="clear_both">
     </div>
 </div>
+
+<script type="text/javascript">
+    $(document).ready(function(e) {
+        $(document).cookiecompliancy({
+            type: 'bottom',
+            location: 'right',
+            color: 'black',
+            modalAnimationType: 'fade',
+            desc: '<p>We use cookies to improve your experience on the website.</p>',
+            modalLongDesc: '<p>Some cookies are required to ensure that the site functions correctly, for this reason we may have already set some cookies.</p><p>Other cookies gather anonymous data about how you are using the website, however these will only be set if you give your consent.</p><p><strong><a href=\'/cookiepolicy\'>Read our cookie policy</a></strong></p>',
+            modalTitle: 'Cookie Compliancy'
+        });
+    });
+</script>
 
 
             
@@ -1104,11 +1156,11 @@ Sys.Application.add_init(function() {
     
 
     <script type="text/javascript">
-	
+
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-8523338-1']);
         _gaq.push(['_trackPageview']);
-		
+
         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
         document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
     </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -1124,4 +1176,4 @@ Sys.Application.add_init(function() {
 
 
 
-</body></html>
+<div id="cookieCompliancy" class="ccbottom ccright ccblack"></div><div id="cookieCompliancyModal" class="ccbottom ccright ccblack ccdark" data-active="false" style="display: none;"><div class="ccCloseBtn"></div><h2>Cookie Compliancy</h2><p></p><p>We use cookies to improve your experience on the website.</p><p></p><div id="cookieCompliancyLongDesc"><p>Some cookies are required to ensure that the site functions correctly, for this reason we may have already set some cookies.</p><p>Other cookies gather anonymous data about how you are using the website, however these will only be set if you give your consent.</p><p><strong><a href="/cookiepolicy">Read our cookie policy</a></strong></p></div><input class="ccAcceptBtn" type="button" value="Allow Cookies"><input class="ccDeclineBtn" type="button" value="Disable Cookies" style="display: none;"><p class="cclast"><a class="ccreadmore" href="javascript:void(0);">Read more...</a></p></div></body></html>
