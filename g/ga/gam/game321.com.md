@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game321.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617043649id_/http%3A//passport.game321.com/%3Fmod%3Dpassport%26file%3Dabout%26method%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game321.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221233553id_/http%3A//passport.game321.com/%3Fmod%3Dpassport%26file%3Dabout%26method%3Dprivacy_policy) for the most accurate reproduction.*
 
 # The latest and funniest webgames---All in Game321.com
 
