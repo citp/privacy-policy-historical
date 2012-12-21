@@ -1,0 +1,53 @@
+> *The following text is extracted and transformed from the tisu.com.gh privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221080638id_/http%3A//www.tisu.com.gh/index/page/privacy) for the most accurate reproduction.*
+
+# Base - Page - Tisu - Powered by Ringier Ghana
+
+### Privacy Policy
+
+**1\. Types of information we collect:** You agree that we may electronically collect, store and/or use the following of your information:
+
+1.1. name and surname, birth date ("Personal Details");
+
+1.2. e-mail address, physical address, mobile number, and credit card billing address ("Contact Details");
+
+1.3. the credit card number, cardholder name and expiration date you submit to us in respect of your credit card(s) ("Card Details");
+
+1.4. internet usage information, including your Internet Protocol address ("IP Address"), browsing habits, click patterns, unique user ID, version of software installed, system type, screen resolutions, colour capabilities, plug-ins, language settings, cookie preferences, search engine keywords, JavaScript enablement, the content and pages that you access on the Website, and the dates and times that you visit the Website, paths taken, and time spent on sites and pages within the Website and Platform ("Usage Details"); and
+
+1.5. additional information you may provide on a voluntary basis, such as demographic information or information related to your favourite social networking site (eg. the site name, address and description), or information relating to your participation in competitions, promotions, surveys, and/or additional services ("Optional Details").
+
+**2\. How we collect information:** Tisu collects the aforesaid information from you in the following manner:
+
+2.1. User-provided Information: You provide certain of the aforesaid information directly to us as follows:
+
+i. Your Personal Details and Contact Details are provided by you during your registration for a User Account and/or thereafter by your having actively updated or supplemented your details.
+
+ii. your Card Details will provided by you each time you purchase a Coupon on the Website.
+
+iii. Optional Details may be submitted by you to us if you decide to upload or download certain content (or products) from the Website, enter competitions, take advantage of promotions, respond to surveys, register and subscribe for certain additional services, or otherwise use the optional features and functionality of the Website.
+
+2.2. "Cookies" Information: When you access the Website, we may send one or more cookies (small text files containing a string of alphanumeric characters) to your computer to collect certain Usage Details. Tisu may use both session cookies (which disappears after you close your browser) and persistent cookies (which remain after you close your browser which can be removed manually) and may be used by your browser on subsequent visits to the Website. Please note that the use of cookies is standard on the internet and many major websites use them. Please review your web browser "Help" file to learn more about modifying your cookie settings. Note: Some of our business partners (e.g. advertisers) use cookies on our Website. We have no access to or control over these cookies. This clause covers the use of cookies by Tisu only and does not cover the use of cookies by any advertisers.
+
+2.3. Other tracking technology: When you access the Website or open one of our HTML emails, certain Usage Details may be automatically collected and recorded by us from your system by using different types of tracking technology. 
+
+2.4. Web Beacons: Our Website may contain electronic image requests (called a "single-pixel gif" or "web beacon" request) that allow us to count page views and to access cookies. Any electronic image viewed as part of a web page (including an ad banner) can act as a web beacon. Web beacons are typically 1-by-1 pixel files (so small that you would likely not realize that they are there), but their presence can usually be seen within a browser by clicking on "View" and then on "Source." We may also include web beacons in HTML-formatted newsletters that we send to opt-in subscribers in order to count how many newsletters have been read. Tisu web beacons do not collect, gather, monitor or share any personally identifiable information about you, they are just the technique we use to compile anonymous information about the Website and Service usage.
+
+**3\. The purposes for which we collects the information:** Tisu uses the information that you provide (or that we collect) to operate, maintain, enhance, and provide all of the features and Services, to allow us to track user-generated content and Users to the extent necessary to comply with all applicable laws. Tisu uses all of the information collected to understand the usage trends and preferences of our Users, to improve the way the Website or Services work and look, and to create new features and functionality. More specifically:
+
+3.1. We use your Card Details only in order to process your purchase of a Coupon. It is important to note that we do not store your Card Details at all, which is why you must re-enter such details every time you make a purchase on the Website.
+
+3.2. We use your Personal Details to greet you when you access your User Account, to manage and administer your use of the Services and fulfill our contractual obligations. More specifically, you acknowledge and agree that your full names and contact number if relevant may be disclosed to Merchants from whom you have purchased Coupons in order to enable you to redeem the relevant Products and to facilitate communication between you in relation to your redemption of the Coupons.
+
+3.3. We use your Contact Details to verify your identity and to inform you of facts relating to your use of the Services (eg. notifications regarding major updates or content you have posted or downloaded from the Website, customer service notifications, and to address copyright infringement or defamation issues) as well as to inform you, subject to obtaining your prior consent, of competitions, promotions and special offers form us and/or our partners and/or affiliates. We use your email address to be able to deliver Coupons to you. We may also provide your email address and physical address details to Merchants from whom you have purchased Coupons, to the extent necessary in order to enable you to redeem the relevant Products (eg: where Products are to be delivered to you) and/or to facilitate communication between you in relation to your redemption of the Coupons.
+
+3.4. We may use your Usage Details to:
+
+i. remember your information so that you will not have to re-enter it during your visit or the next time you access the Website;
+
+ii. monitor aggregate Website usage metrics such as total number of visitors and pages accessed; and
+
+iii. track your entries, submissions, and status in any promotions or other activities in connection with your usage of the Website.
+
+3.5. We may use any Optional Details provided by you for such purposes as indicated to you at the time you agree to provide such Optional Details.
+
+**4\. Opt-Out Policy:** To opt out of marketing or promotional emails, please either click unsubscribe in the body of the email communication, email deals@Tisu.com.gh from the subscribed email address or go to www.tisu.com.gh and use the contact us form to request removal. We will endeavor to remove you from our subscription list within 2 working days after your request. 
