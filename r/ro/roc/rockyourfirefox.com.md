@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rockyourfirefox.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629143112id_/http%3A//www.mozilla.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockyourfirefox.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222004011id_/http%3A//www.mozilla.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Mozilla Privacy Policy
 
-Last Updated: June 28, 2011 | [Download printable format (PDF)](http://static.mozilla.com/moco/en-US/pdf/mozilla_privacypolicy.pdf)
+Last Updated: September 10, 2012 | [Download printable format (PDF)](http://www.mozilla.com/en-US/privacy-policy.pdf)
 
 This privacy policy applies to all websites and web services operated by Mozilla Corporation or the Mozilla Foundation unless the website or service has a separate privacy policy. Since the Mozilla Corporation and the Mozilla Foundation individually operate these sites but share many of the same privacy practices, we will refer to them collectively as “Mozilla” in this policy when describing practices that apply to both of them.
 
@@ -88,6 +88,12 @@ Some advertisements may use cookies and/or clear GIFs. When you view Mozilla's a
 _Opting Out of Mozilla Ads_
 
 In the future, we hope to provide simple and comprehensive controls over our ad practices, as well as ensure that these practices respond to the Do Not Track signal enabled via Firefox and other browsers. For now, you may choose to opt-out of first party Mozilla ad cookies by clicking on the following link: Opt-Out Now . You may also wish to opt out of 3rd party ads [here](http://www.aboutads.info/choices/).
+
+### Social Networking Services
+
+Mozilla may interact with you through social networks to further our mission. When you interact with us at a third-party social network, such as Facebook, Twitter, or Google +, the network gives us the ability to access and store certain information from your profile for that social network.
+
+The categories of information we can access will depend, in part, on the permissions you grant us and the privacy settings you have established on that social network. In general, we try to minimize the amount of data we receive about you on social services. We will handle any information we receive from these services in accordance with this privacy policy.
 
 ### Legal Process and Other Disclosures
 
