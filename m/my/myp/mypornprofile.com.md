@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mypornprofile.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622124146id_/http%3A//mypornprofile.com/misc/page/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypornprofile.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221183924id_/http%3A//www.mypornprofile.com/misc/page/Privacy) for the most accurate reproduction.*
 
-# MyPornProfile | Privacy Policy
+# Privacy Policy | MyPornProfile
 
 We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. By visiting us, you are accepting the privacy policy described below.
 
