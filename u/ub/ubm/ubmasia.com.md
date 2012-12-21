@@ -1,78 +1,73 @@
-> *The following text is extracted and transformed from the ubmasia.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622053507id_/http%3A//www.ubmasia.com/PrivacyPolicyStatement/tabid/119/language/en-US/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubmasia.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221212301id_/http%3A//www.ubmasia.com/PrivacyPolicyStatement/tabid/119/language/en-US/Default.aspx) for the most accurate reproduction.*
 
 # UBM Asia > Privacy Policy Statement
 
-We take individual privacy seriously. This Statement explains our policies and practices.  
-We respect your privacy and we promise:
+We, UBM Asia Ltd, take individual privacy seriously. This Statement explains our policies and practices.  
+We respect your privacy and we will use our reasonable endeavour to:
 
-  * to implement computer, physical and procedural safeguards to protect the security and confidentiality of the personal data we collect;
-  * to limit the personal data collected to the minimum required to provide a better service;
+  * to implement computer, physical and procedural safeguards to reasonably protect the security and confidentiality of the personal data we collect;
+  * to limit the personal data collected to the minimum required to provide better service;
   * to permit only properly trained, authorized employees to access personal data;
-  * not to disclose your personal data to external parties unless you have agreed, we are required by law or we have previously informed you.
+  * not to disclose your personal data to external parties unless you have agreed, we are required by law or any lawful request of any enforcement agencies or we have previously informed you.
 
 
 
-**1.Information collection**
+**1\. Information collection**
 
-In order to provide a better service to you, we may collect information when you register with us or communicate with us.  
-If specific information is requested but not supplied, we may be unable to provide the requested service.  
-We only retain personal data for so long as it is necessary. However a copy may be archived indefinitely.
+In order to provide better service to you and to fulfil the purposes set out in the next paragraph, we may collect certain information when you register with us or communicate with us. In the process, we may also collect personal information of individual contact persons of companies or their employees. As stated in the registration form, some of the requested information is mandatory and some of them you may provide voluntarily. If specific mandatory information is requested but not supplied, we may be unable to provide the requested service. We only retain personal data for so long as it is necessary for fulfilling the purposes set out in the next paragraph.
 
-**2.Use of information**
+**2\. Use of information**
 
-The purposes for which information may be used by us in and outside Hong Kong include:
+The purposes for which information may be used by us include:
 
-  * processing applications
-  * our operations, e.g., incorporation into our database, analysis, research and auditing
-  * notification of UBM Asia’s trade fairs in Hong Kong and around the world
-  * distribution of UBM Asia’s publications and research materials
-  * marketing UBM Asia’s services or products
-  * complying with laws in or outside Hong Kong
-  * legal proceedings, including collecting overdue amounts
-  * other related purposes.
+  * processing applications for exhibiting at or visiting our trade fairs
+  * facilitating and enhancing our operations by incorporating the personal data into our database and conducting analysis, research and auditing based on the personal data
+  * promoting and notifying you of our trade fairs in Hong Kong and around the world, and events or trade fairs organised by our affiliates and joint venture partners
+  * distributing publications and research materials of our company
+  * marketing our services or products
+  * if necessary, facilitating legal proceedings, including collecting overdue amounts
 
 
 
-We may conduct direct marketing via fax, email, direct mail, telephone and other means of communication, or send e-newsletters to you. You may choose not to receive promotional materials, by simply telling us, and we will cease to do so, without charge.
+**_Direct markerting_**
 
-**3\. Disclosure**
+We may use your personal data, including your name, email address and physical address to conduct direct marketing in relation to the promotion of and invitation to our trade fairs in Hong Kong and around the world, and events or trade fairs organised by our affiliates and joint venture partners, as well as the promotion of our services via fax, email, direct mail, telephone and other means of communication, or send e-newsletters to you. We will not so use your personal data unless we have received your consent to the said intended use. You may choose not to receive promotional materials by simply telling us through the below contact details, and we will cease to do so, without charge.
 
-We will keep the personal data we hold confidential but may provide information to:
+**3\. Disclosure / Transfer of Data**
 
-  * personnel, agents, advisers, auditors, contractors, financial institutions, and service providers in connection with our operations or services
-  * our overseas offices, affiliates, business partners and counterparts
-  * the public, including persons sending enquiries
-  * persons under a duty of confidentiality to us
+We will keep the personal data we hold confidential but may provide or transfer the personal data to:
+
+  * our agents, advisers, auditors, contractors, and service providers in connection with our operations or services for facilitating and enhancing our operations and conducting analysis, research and auditing based on the personal data
+  * our overseas offices, affiliates, joint venture partners, which are also exhibition organisers, for the purpose of conducting direct marketing in relation to the promotion of and invitation to our trade fairs in Hong Kong and around the world
   * persons to whom we are required to make disclosure under applicable laws in or outside Hong Kong
-  * actual or proposed transferees or participants of our services
 
 
 
-We cannot control how third parties use information.
+**_Provision of data for direct marketing_**
+
+Please note that we intend to provide the personal data we collected, including your name, email address and physical address to our overseas offices, affiliates, joint venture partners, which are also exhibition organisers, for use in direct marketing in relation to the promotion of and invitation to their trade fairs and events. We will not so provide your personal data for the said purposes unless we have received your written consent to the aforesaid intended provision.
 
 **4\. Cookies**
 
-Cookies are commonly used to facilitate transmission and to provide more useful features. It is a piece of data stored in your computer. We use these devices to find out more about the use of our websites and user preferences, in order to improve our services. We may share summarised traffic data with advertisers. We note traffic, pages visited and time spent. You are not identified. However if you agree by registering with us, we may link the information to you, so that you may receive information more suited to your interests.
-
-You may set your browser to reject cookies, or tell you when a cookie is being sent.
-
-Cookies are necessary for some features of the website to work, e.g., to maintain continuity during a session. If they are not accepted, those features may not work properly.
+When you browse our website, cookies may be stored in your computer's hard drive. We use cookies to personalise your use of our website and to operate the service areas. You have a choice not to accept cookies, but if you do certain functionality may become unavailable.
 
 **5\. Security**
 
-Personal data stored electronically are password-protected. Encryption technology is used on our secured web areas. Our computer systems are placed in restricted areas. We only permit authorised employees to access personal data. These employees are trained on our privacy policies.
+In general, your Personal Data is kept confidential and is only accessible by authorised personnel. Personal data stored electronically are password-protected. Encryption technology is used on our secured web areas. We recommend that you do not divulge your User Login Name and Password to anyone. Our personnel will never ask you for your User Login Name and Password in an unsolicited phone call or in an unsolicited e-mail. Remember to sign out of your Account and close your browser window when you have finished your session with the Website. You are responsible for all activities that occur under your User Account and Password.
 
-6\. Hyperlinks
+**6\. Hyperlinks**
 
-Hyperlinks to other websites are provided for your convenience. You will leave our website for another location that is not controlled by us. Our privacy policies do not apply to other websites. Please refer to the privacy policies of the other websites.
+Our websites may include links to external sites, including sites of members, third parties and "co-branded" sites. Links to external sites do not imply any endorsement of such sites (or any products or services offered thereon) by us or any warranty or guarantee of any information provided thereon. We disclaim and exclude any responsibility or liability for any external site for which a link is provided and this Privacy Policy shall not apply to any such site. Please refer to the privacy policies of the other websites.
 
 **7\. Changes**
 
-We may update this Statement. When we do, the changes will be posted on Privacy Policy Statement.
+Any changes to this Privacy Policy Statement will be posted on this webpage and effective immediately on the posting date.
 
-**8\. Your consent and rights**
+**8\. Transfer of Data Overseas**
 
-By using our service, making an application or visiting our website, you consent to the collection and use of your information as outlined in this Statement.
+We will generally hold your data on our servers in Hong Kong. However, we may transfer it to our overseas offices elsewhere in the world or to any of the people listed at paragraph 3 above, who may be located elsewhere.
+
+**9\. Your consent and rights**
 
 Under the Hong Kong Personal Data (Privacy) Ordinance, individuals have the right:
 
@@ -81,5 +76,16 @@ Under the Hong Kong Personal Data (Privacy) Ordinance, individuals have the righ
   * to ascertain our policies and practices in relation to personal data and the kind of personal data held by us.
 
 
+
+Please send requests to access or correct data, to cease communications, and questions or complaints to:
+
+Business Intelligence Department  
+UBM Asia Ltd  
+16th Floor, China Resources Building  
+26 Harbour Road, Wanchai, Hong Kong  
+Tel: (852) 2516 2125 / (852) 2827 6211 Fax: (852) 3749 7349  
+E-mail: [ubmasiabi-hk@ubm.com](mailto:ubmasiabi-hk@ubm.com)
+
+We may charge a reasonable fee for processing a data access request.
 
 If there is any conflict between the Chinese and English versions of this Statement, the English version prevails.
