@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolglow.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607193025id_/http%3A//coolglow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolglow.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221125550id_/http%3A//coolglow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Glow Sticks, Glow Necklaces, Glow Bracelets, Wholesale Cheap Glow Sticks
 
