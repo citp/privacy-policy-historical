@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtspirit.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614112020id_/http%3A//www.gtspirit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtspirit.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221011046id_/http%3A//www.gtspirit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GTSPIRIT.COM
 
