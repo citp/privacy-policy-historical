@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ppvplaybook.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219194208id_/http%3A//www.ppvplaybook.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppvplaybook.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221033701id_/http%3A//www.affplaybook.com/privacy.html) for the most accurate reproduction.*
 
 # PPV Playbook Privacy Policy
 
