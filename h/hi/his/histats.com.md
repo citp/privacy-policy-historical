@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the histats.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614180311id_/http%3A//www.histats.com/%3Fact%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the histats.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221115207id_/http%3A//www.histats.com/%3Fact%3D5) for the most accurate reproduction.*
 
 # Histats.com Counter ,the free web stats and stat counter, hit counter, free web tracker and tracking tools, professional and free!!
 
@@ -61,6 +61,10 @@ We encourage you to be aware when you leave our site and to read the privacy pol
 Additional Information Regarding Online Privacy Can Be Found At: [ http://www.privacyalliance.org/](http://www.privacyalliance.org/)  
 [ http://www.bbbonline.org](http://www.bbbonline.org/)  
 [ http://www.truste.org/](http://www.truste.org/)
+
+**Third Parties - AudienceRate - data Analysis** [](http://www.histats.com/pdf/AudienceRatePolicyHistats.pdf)  
+While Histats and Wisecode SRL have full control and can assure that provided code doesn't harm your visitors or interfere with your website browsing experience, we allow a partner company to help us in tracking some data (new histats interesting features and probably an audiencerate provided dashboard will be available soon thanks to that ) and to manage independently anonymous tracked data, they keep data private but processed anonymous and detached behavioural data can be used on international markets (like on SSP).  
+The acceptance of this Third Party section is not obligatory, if not accepted data will not be tracked or processed outside of Histats servers but you may lose access to some new features that need this acceptance to work 
 
 **Histats.com is a part of**  
 Wisecode SRL
