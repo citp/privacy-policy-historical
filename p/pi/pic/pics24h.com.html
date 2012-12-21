@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pics24h.com privacy policy that was archived on 2012-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622051411id_/http%3A//www.pics24h.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pics24h.com privacy policy that was archived on 2012-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121221123951id_/http%3A//www.pics24h.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xml:lang="en-US"><head profile="http://gmpg.org/xfn/11">
 
@@ -8,6 +8,7 @@
 
 	<title>Privacy Policy - Pics24h</title>
 	<link rel="shortcut icon" href="http://www.pics24h.com/wp-content/themes/church_40/images/favicon.png" type="image/x-icon">
+<meta property="og:type" content="article">
 
 	<link rel="stylesheet" href="http://www.pics24h.com/wp-content/themes/church_40/style.css" type="text/css" media="screen">
 	<link rel="alternate" type="application/rss+xml" title="Pics24h RSS Feed" href="http://www.pics24h.com/feed/">
@@ -16,7 +17,7 @@
 
 		<link rel="alternate" type="application/rss+xml" title="Pics24h » Privacy Policy Comments Feed" href="http://www.pics24h.com/privacy-policy/feed/">
 <link rel="stylesheet" id="contact-form-7-css" href="http://www.pics24h.com/wp-content/plugins/contact-form-7/styles.css?ver=2.4.4" type="text/css" media="all">
-<script type="text/javascript" src="http://www.pics24h.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=348251098595926"></script><script type="text/javascript" src="http://www.pics24h.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
 <script type="text/javascript" src="http://www.pics24h.com/wp-includes/js/jquery/jquery.js?ver=1.7.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.pics24h.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.pics24h.com/wp-includes/wlwmanifest.xml"> 
@@ -72,17 +73,135 @@ var _wpcf7 = { cached: 1 };
 <script type="text/javascript" src="http://www.pics24h.com/wp-content/themes/church_40/skripte/swfobject.js"></script>
 <script type="text/javascript" src="http://www.pics24h.com/wp-content/themes/church_40/skripte/main_39.js"></script>
 <script type="text/javascript" src="http://www.pics24h.com/wp-content/themes/church_40/skripte/header_39.js"></script>
-
-<script src="http://avastats.com/code/12/?jq=1&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20120622051411id_%2Fhttp%3A%2F%2Fwww.pics24h.com%2Fprivacy-policy%2F&amp;r=&amp;w=800&amp;h=600&amp;title=Privacy%20Policy%20-%20Pics24h" type="text/javascript" id="preload" async=""></script></head>
+<!-- scroll in plugin -->
+<script type="text/javascript" src="http://www.pics24h.com/wp-content/themes/church_40/scripts/jq.js"></script>
+<script type="text/javascript">
+	$(function(){
+		$(window).scroll(function () { 
+			if($('.looney_pop').length>0){
+				var find=$('.looney_pop').attr('find');
+				var state=$('.looney_pop').attr('state');
+				var find_pos=$(''+find).offset();
+				var scroll=$(document).scrollTop();
+				var size=get_screen_size();
+				var h,w;
+				h=$('.looney_pop').outerHeight();
+				w=$('.looney_pop').outerWidth();
+						
+				var perc=Math.ceil((scroll+size.height)/find_pos.top*100);
+				if(perc>=102){
+					if(state=='hide'){
+						$('.looney_pop').attr('state','show');
+						
+						$('.looney_pop').css({'bottom':'-'+h+'px','right':'10px','display':'block'});
+						
+						$('.looney_pop').stop();
+						$('.looney_pop').clearQueue();
+						$('.looney_pop').animate({'bottom':'0px'},400,function(){});
+					}
+				}else{
+					if(state=='show'){
+						$('.looney_pop').attr('state','hide');
+						$('.looney_pop').stop();
+						$('.looney_pop').clearQueue();
+						$('.looney_pop').animate({'bottom':'-'+h+'px'},400,function(){});
+					}
+				}
+			}
+		});
+		$('.looney_head font').bind('click',function(){
+			$('.looney_pop').addClass('rem_closed');
+		});
+	});
+	function get_screen_size(){
+		var size={};
+		size['height']=0;
+		size['width']=0;
+		if( typeof( window.innerWidth ) == 'number' ) {
+			size['width'] = window.innerWidth;
+			size['height'] = window.innerHeight;
+		} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+			size['width'] = document.documentElement.clientWidth;
+			size['height'] = document.documentElement.clientHeight;
+		} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+			size['width'] = document.body.clientWidth;
+			size['height'] = document.body.clientHeight;
+		}
+		return size;
+	}
+</script>
+<style>
+	.looney_pop{
+		background:white;
+		color:white;
+		display:none;
+		position:fixed;
+		bottom:50px;
+		right:0px;
+		border:1px solid #a5a4a0;
+		border-width:1px 1px 0px 1px;
+		min-width:300px;
+		
+	}
+		.looney_head{
+			height:20px;
+			background:#ebeef5;
+			border-bottom:1px solid #cbccd0;
+			color:black;
+		}
+			.looney_head span{
+				float:left;
+				display:inline-block;
+				height:20px;
+				padding-left:5px;
+				line-height:20px;
+				text-align:center;
+				font-family:Arial;
+				font-weight:bold;
+			}
+			.looney_head font{
+				float:right;
+				cursor:pointer;
+				display:inline-block;
+				width:20px;
+				height:20px;
+				line-height:20px;
+				text-align:center;
+				font-family:Arial;
+				font-weight:bold;
+				color: #364f83;
+			}
+		.looney_cont{
+			clear:both;
+			padding:10px 15px;
+			color:black;
+			min-height:40px; 
+		}
+		.rem_closed{
+			display:none !important;
+		}
+		.fb-like iframe{
+			height:60px !important;
+		}
+</style>
+<!-- scroll in plugin end -->
+<script src="http://avastats.com/code/12/?jq=1&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20121221123951id_%2Fhttp%3A%2F%2Fwww.pics24h.com%2Fprivacy-policy%2F&amp;r=&amp;w=800&amp;h=600&amp;title=Privacy%20Policy%20-%20Pics24h" type="text/javascript" id="preload" async=""></script></head>
 
 <body>
-
+<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=348251098595926";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
 <div id="wrap">
 
 	<div id="topnavbar">
 	
 		<div class="topnavbarleft">
-			<p>Monday, June 18, 2012</p>
+			<p>Friday, December 21, 2012</p>
 		</div>
 
 		<div class="topnavbarright">
@@ -275,7 +394,4 @@ pageTracker._trackPageview();
 
 <span style="display: none; visibility: hidden; height: 0px;"><script type="text/javascript" src="http://widgets.amung.us/small.js"></script><script type="text/javascript">WAU_small('mhffdv6crnt9')</script></span>
 
-
-<!-- Dynamic page generated in 0.187 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2012-06-18 23:00:04 -->
-<!-- super cache --></a></body></html>
+</a></body></html>
