@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allieiswired.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513104403id_/http%3A//allieiswired.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allieiswired.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221124345id_/http%3A//allieiswired.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Allie is Wired
 
@@ -27,6 +27,10 @@ What About Cookies?
 What About Links?
 
 Our website may contain links to third party websites to which we have no affiliation. AllieisWired.com does not share your personal information with those websites and is not responsible for their privacy practices. We suggest you read the privacy policies on these third party websites.
+
+Notice Regarding Online Behavioral Advertising.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
 
 Does AllieisWired.com Share The Information It Receives?
 
