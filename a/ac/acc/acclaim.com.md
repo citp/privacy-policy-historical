@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acclaim.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510041653id_/http%3A//www.playdom.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acclaim.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221233216id_/http%3A//www.playdom.com/about/privacy) for the most accurate reproduction.*
 
-# Playdom
+# Privacy | Free Online Games at Playdom.com
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.playdom.com&sealid=101)
 
@@ -9,6 +9,9 @@ The Walt Disney Company has a rich tradition of bringing great stories, characte
 We have updated our privacy policy. Our updated policy is designed to provide greater transparency into our privacy practices and principles, in a new format that is easier to navigate, read and understand. We continue to treat your personal information with care and respect.
 
 Effective August 22, 2011
+
+[Datenschutzrichtlinie](http://support.playdom.com/entries/20436662-datenschutzrichtlinie)  
+[Politique de confidentialité](http://support.playdom.com/entries/20440908-politique-de-confidentialite)
 
 This privacy policy describes the treatment of information provided or collected on the sites where this privacy policy is posted. It also explains the treatment of information provided or collected on applications we make available on third-party sites or platforms if disclosed to you in connection with use of the application. We follow this privacy policy in accordance with local law in the places where we operate.
 
@@ -76,7 +79,7 @@ We provide you the ability to exercise certain controls and choices regarding ou
 
 
 
-You may exercise your controls and choices, or request access to your personal information, by visiting [Communication Choices](http://www.playdom.com/account/communicationchoices), contacting [Guest Services](http://support.playdom.com/), or following instructions provided in communications sent to you. Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products and services to you, and some of our services may not be able to take account of your interests and preferences. If you have questions regarding the specific personal information about you that we process or retain, please contact [Guest Services](http://support.playdom.com/).
+You may exercise your controls and choices, or request access to your personal information, by visiting [Communication Choices](http://www.playdom.com/account/communicationchoices), contacting [Guest Services](http://support.playdom.com/?lang=en), or following instructions provided in communications sent to you. Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products and services to you, and some of our services may not be able to take account of your interests and preferences. If you have questions regarding the specific personal information about you that we process or retain, please contact [Guest Services](http://support.playdom.com/?lang=en).
 
 We recognize the need to provide further privacy protections with respect to personal information we may collect from children on our sites and applications. Some of the features on our sites and applications are age-gated so that they are not available for use by children, and we do not knowingly collect personal information from children in connection with those features. When we intend to collect personal information from children, we take additional steps to protect children's privacy, including:
 
@@ -95,7 +98,7 @@ We operate globally and may transfer your personal information to individual com
 
 From time to time, we may change this privacy policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes. We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent.
 
-If you have a comment or question about this privacy policy, please contact [Guest Services](http://support.playdom.com/).
+If you have a comment or question about this privacy policy, please contact [Guest Services](http://support.playdom.com/?lang=en).
 
 Our sites and applications may contain links to other sites not owned or controlled by us and we are not responsible for the privacy practices of those sites. We encourage you to be aware when you leave our sites or applications and to read the privacy policies of other sites that may collect your personal information.
 
@@ -136,7 +139,7 @@ Parents. Parents means a parent or legal guardian.
 
 Personal information. Personal information means information that identifies (whether directly or indirectly) a particular individual, such as the individual's name, postal address, email address and telephone number. When anonymous information is directly or indirectly associated with personal information, this anonymous information also is treated as personal information.
 
-Public Forums. Our sites and applications may offer message boards, conversation pages, blogs, chat rooms, social community environments, profile pages, and other forums that do not have a restricted audience. If you provide personal information when you use any of these features, that personal information may be publicly posted and otherwise disclosed without limitation as to its use by us or by a third party. To request removal of your personal information from a public forum on one of our sites or applications, please contact [Guest Services](http://support.playdom.com/).
+Public Forums. Our sites and applications may offer message boards, conversation pages, blogs, chat rooms, social community environments, profile pages, and other forums that do not have a restricted audience. If you provide personal information when you use any of these features, that personal information may be publicly posted and otherwise disclosed without limitation as to its use by us or by a third party. To request removal of your personal information from a public forum on one of our sites or applications, please contact [Guest Services](http://support.playdom.com/?lang=en).
 
 The Walt Disney Family of Companies. The Walt Disney Family of Companies refers to The Walt Disney Company and its subsidiary and affiliated entities, which offer their products and services under various brand names. These companies engage in a number of businesses, including theme parks and travel, motion pictures and television, publishing, consumer products and interactive services. The Walt Disney Company brands include, among others, the following:
 
@@ -155,7 +158,7 @@ Playdom
 Tapulous  
 Touchstone
 
-Please visit our [Playdom Support Portal](http://support.playdom.com/) where you can find support articles, review featured questions, or submit a question or request to our support team.
+Please visit our [Playdom Support Portal](http://support.playdom.com/?lang=en) where you can find support articles, review featured questions, or submit a question or request to our support team.
 
 Or write to us at:
 
