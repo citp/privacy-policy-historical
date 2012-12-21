@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornerbros.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630054415id_/http%3A//www.pornerbros.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornerbros.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221062845id_/http%3A//www.pornerbros.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pornerbros.com
 
