@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the slidesms.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615164459id_/http%3A//www.slidesms.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slidesms.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221183259id_/http%3A//slidesms.com/privacy/index.html) for the most accurate reproduction.*
 
-# SLIDE SMS FREE UNLIMITED INTERNATIONL SMS
+# SlideSMS - Message Sent
 
-**Privacy Policy for www.slidesms.com**
-
-Privacy Policy for www.slidesms.com 
+Privacy Policy for SlideSMS.com 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at sms@slidesms.com. 
 
@@ -16,8 +14,7 @@ Like many other Web sites, www.slidesms.com makes use of log files. The informat
 **Cookies and Web Beacons**  
 www.slidesms.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-**DoubleClick DART Cookie**
-
+DoubleClick DART Cookie  
 .:: Google, as a third party vendor, uses cookies to serve ads on www.slidesms.com.  
 .:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to www.slidesms.com and other sites on the Internet.   
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
