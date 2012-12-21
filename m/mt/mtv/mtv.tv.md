@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtv.tv privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621095648id_/http%3A//www.mtv.tv/info/Footer-Site-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtv.tv privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221011351id_/http%3A//www.mtv.tv/info/Footer-Site-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy| MTV European
 
@@ -70,3 +70,5 @@ We will try to email you if there are any changes to this policy that materially
 This policy was last updated 8th February 2008.
 
 **This site uses cookies. Please see our[Cookie Policy](https://web.archive.org/info/Footer-Cookie-Policy)**
+
+"Please be advised that your personal information may be transferred to and processed by our affiliates in the United States. These affiliates comply with the U.S.-EU Safe Harbor. Please see the Safe Harbor Privacy Policy <http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf> for detailed information on these affiliates' privacy practices."
