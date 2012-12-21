@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bloggingcage.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620200256id_/http%3A//www.bloggingcage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingcage.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221183720id_/http%3A//www.bloggingcage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Blogging Cage
+# Privacy Policy
 
-This _Privacy Policy_ governs the manner in which [Blogging Cage](http://www.bloggingcage.com/ "Bloggnig Cage") collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.bloggingcage.com](https://web.archive.org/web/20120620200256id_/http://www.bloggingcage.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Blogging Cage.
+This _Privacy Policy_ governs the manner in which Blogging Cage collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.bloggingcage.com](https://web.archive.org/web/20121221183720id_/http://www.bloggingcage.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Blogging Cage.
 
  **Personal identification information**
 
@@ -43,7 +43,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
- **[Google Adsense](http://www.bloggingcage.com/make-money-online/google-adsense/ "Google Adsense")**
+ **Google Adsense**
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)
 
@@ -58,8 +58,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Blogging Cage](https://web.archive.org/web/20120620200256id_/http://www.bloggingcage.com/)  
-[http://www.bloggingcage.com](https://web.archive.org/web/20120620200256id_/http://www.bloggingcage.com/)  
+[Blogging Cage](https://web.archive.org/web/20121221183720id_/http://www.bloggingcage.com/)  
+[http://www.bloggingcage.com](https://web.archive.org/web/20121221183720id_/http://www.bloggingcage.com/)  
 Rattia Chungi, Shakti Nagar, Ward No. 1  
 Fatehabad Pin – 125050  
 Haryana India  
