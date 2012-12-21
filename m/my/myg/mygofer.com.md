@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygofer.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620025830id_/http%3A//www.mygofer.com/mg2custservpolprivacy/nb-120000000043210) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygofer.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221111040id_/http%3A//www.mygofer.com/mg2custservpolprivacy/nb-120000000043210%3FadCell%3DWF) for the most accurate reproduction.*
 
 # None
 
@@ -57,7 +57,7 @@ Back to top
 
 How Do We Handle Personally Identifiable Information Collected on Children?
 
-Please click [here](https://web.archive.org/shc/s/mg2childrensprivacy/nb-120000000045211?adCell=W4) to read our Children’s Online Privacy Policy for information on our general policy regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses our general policy regarding the following:
+Please click [here](https://web.archive.org/mg2childrensprivacy/nb-120000000045211?adCell=W4) to read our Children’s Online Privacy Policy for information on our general policy regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses our general policy regarding the following:
 
   * Collection of children’s personal information
   * Use of children’s personal information
