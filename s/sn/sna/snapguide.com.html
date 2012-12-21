@@ -1,61 +1,66 @@
-<!--The following is the downloaded HTML source of the snapguide.com privacy policy that was archived on 2012-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120608023900id_/http%3A//snapguide.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the snapguide.com privacy policy that was archived on 2012-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121221132117id_/https%3A//snapguide.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-  <title>Privacy Policy | Snapguide</title>
-  <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript">
+  <title>Snapguide</title>
+  <meta name="viewport" content="width=1100">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <link rel="apple-touch-icon" href="//d74bwl3dcueqd.cloudfront.net/static/v/2460373/img/global/app_icon_57_57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="//d74bwl3dcueqd.cloudfront.net/static/v/2460373/img/global/app_icon_72_72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="//d74bwl3dcueqd.cloudfront.net/static/v/2460373/img/global/app_icon_114_114.png">  <meta property="og:site_name" content="Snapguide">
+  <meta property="fb:app_id" content="266858203384041">
+  <meta name="twitter:site" content="snapguide">
+  <meta name="twitter:site:id" content="250403328">
+      <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="//d74bwl3dcueqd.cloudfront.net/static/v/2460373/css/web2/all.min.css" type="text/css" media="screen">
+        <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 var SG = SG || {};
-(function(context){
-  var addGlobal = function(myObj){
+(function(context) {
+  var addGlobal = function(myObj) {
     for (propName in myObj) {
       context[propName] = myObj[propName];
     }
   }
   context.addGlobal = addGlobal;
 })(SG)
-</script>      <script type="text/javascript">
-  WebFontConfig = {
-    google: { families: [ 'Open+Sans:400,700,300:latin' ] },
-    active: function() {
-      SG.addGlobal({'fonts_loaded': true})
-    }
-  };
-  (function() {
-    var wf = document.createElement('script');
-    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
-      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-    wf.type = 'text/javascript';
-    wf.async = 'true';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(wf, s);
-  })();
-</script>  
-  <link rel="stylesheet" href="http://images.snapguide.com/static/v/0aa45f1/css/web/bootstrap.modal.min.css" type="text/css" media="screen">
-<link rel="stylesheet" href="http://images.snapguide.com/static/v/0aa45f1/css/web/base.min.css" type="text/css" media="screen">
-<link rel="stylesheet" href="http://images.snapguide.com/static/v/0aa45f1/css/web/modal.min.css" type="text/css" media="screen">
-<link rel="stylesheet" href="http://images.snapguide.com/static/v/0aa45f1/css/web/tipsy.min.css" type="text/css" media="screen">
-<link rel="stylesheet" href="http://images.snapguide.com/static/v/0aa45f1/css/web/tipsy-sg.min.css" type="text/css" media="screen">  <link rel="apple-touch-icon" href="http://images.snapguide.com/static/v/0aa45f1/img/global/app_icon_57_57.png">
-<link rel="apple-touch-icon" sizes="72x72" href="http://images.snapguide.com/static/v/0aa45f1/img/global/app_icon_72_72.png">
-<link rel="apple-touch-icon" sizes="114x114" href="http://images.snapguide.com/static/v/0aa45f1/img/global/app_icon_114_114.png"><link rel="stylesheet" href="http://images.snapguide.com/static/v/0aa45f1/css/web/simple_page.min.css" type="text/css" media="screen">
-  <script src="http://images.snapguide.com/static/v/0aa45f1/js/web/modernizr.min.js"></script>
-  <script type="text/javascript">
-  SG.addGlobal({
-  'csrf_token': '6e91cb76aaa4daf6fea56bb75db27bc14c0a445d',
+</script>  <script type="text/javascript">
+var SG = SG || {};
+(function(context, document){
+context.support = {};
+
+context.support.touch = 'createTouch' in document;
+
+var p = 'transform WebkitTransform MozTransform OTransform Transform';
+var prefixes = p.split(' ');
+var el = document.createElement('div');
+var support = 0;
+for(var i = 0; i < prefixes.length; i++){
+  var pfx = prefixes[i];
+  support = el.style[pfx] !== undefined;
+  if (support) break;
+}
+context.support.csstransforms = support;
+})(SG, document);
+</script>  <script type="text/javascript">
+  SG.delayed = {};
+SG.addGlobal({
+  'csrf_token': '31dd11011c32ce0937e1bf9f04020c1e2f13ac05',
   'facebook_app_id': '266858203384041',
   'environment': 'production',
-  'facebook_signin_url' : 'http://snapguide.com/api/v1/signin/submit-fb',
-  'facebook_connect_url': 'http://snapguide.com/api/v1/settings/connect-fb'
+  'facebook_signin_url' : '//snapguide.com/api/v1/signin/submit-fb',
+  'facebook_connect_url': '//snapguide.com/api/v1/settings/connect-fb'
 });
   SG.addGlobal({
     'is_logged_in': false
   })
   </script>
-
   <script type="text/javascript">
   var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-22597234-5']);
   
         _gaq.push(['_setCustomVar', 1, 'is_logged_in', 'false', 3]);
+  
+          _gaq.push(['_setCustomVar', 5, 'route_name', 'about', 3]);
   
   _gaq.push(['_setDomainName', '.snapguide.com']);
   _gaq.push(['_trackPageview']);
@@ -69,9 +74,10 @@ var SG = SG || {};
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(ga, s);
   })();
-</script>  </head>
-  <body>
-    <div id="fb-root"></div>
+</script></head>
+<body class="not-tablet   ui-about-page
+">
+  <div id="fb-root"></div>
 <script>
   window.fbAsyncInit = function() {
     FB.init({
@@ -93,96 +99,121 @@ var SG = SG || {};
      js.src = '//connect.facebook.net/en_US/all.js';
      ref.parentNode.insertBefore(js, ref);
    }(document));
-</script>            <div class="sg-header">
-  <div class="sg-header-inner">
-    <div class="sg-header-left">
-      <a class="logo" href="/">Snapguide</a>
-      <ul class="top-menu">
-        <li class="pill-btn">
-          <a href="http://snapguide.com/download/">Get the Free App</a>
-        </li>
-        <li class="no-pill">
-          <a href="http://snapguide.com/guides/">Explore</a>
-        </li>
-      </ul>
-    </div>
-    <div class="sg-header-right">
-      <form action="/search" method="get" accept-charset="utf-8" class="inline-block">
-        <input type="text" class="search fake-search" name="q" value="" placeholder="Find a Guide">
-      </form>
-              <div class="sign-in pill-btn pill-white ui-sign-in-btn">
-          Sign In
-          <div class="ui-sign-in popover rounded-15 display-none">
-    <div class="buttons">
-      <div class="ui-facebook-sign-in facebook-sign-in twit-face rounded-5">
-        <img src="http://images.snapguide.com/static/v/0aa45f1/img/web/facebook_wordmark.png" width="113" height="22" alt="">
-      </div>
-      <div class="ui-twitter-sign-in twitter-sign-in twit-face rounded-5" data-ajaxify="http://snapguide.com/api/v1/signin/submit-tw">
-        <img src="http://images.snapguide.com/static/v/0aa45f1/img/web/twitter_wordmark.png" width="110" height="22" alt="">
-      </div>
-    </div>
-    <div class="clear"></div>
-    <hr>
-    <p>Or, use your email address</p>
-    <form action="http://snapguide.com/api/v1/signin/submit" method="post" id="signin">
-      <input type="email" name="email" id="email" placeholder="Email Address" class="rounded-5">
-      <input type="password" name="password" placeholder="Password" class="rounded-5"><br>
-      <p class="login-error ui-login-error display-none"></p>
-      <button class="btn submit ui-submit">Sign In</button>
-    </form>
-    <div class="clear"></div>
-    <hr>
-    <div class="alt-links">
-              <a href="http://snapguide.com/signup" class="link-orange">
-              Create an Account
-      </a>
-      <a href="http://snapguide.com/forgot" class="link-orange">
-        Forgot Password?
-      </a>
-    </div>
-  </div>
+</script>  <div class="content">
+    <div class="header">
+      <div class="header-inner ui-size-960">
+        <div class="header-logo">
+          <a href="//snapguide.com/" title="Snapguide">
+            <div class="ui-sprite sprite-icons-logo_main"></div>
+          </a>
+        </div>        <div class="header-search">
+          <a href="//snapguide.com/guides/" class="ui-btn borderless">Explore Guides</a>
+          <form action="/search" method="get">
+          <input class="sprite-icons-search" type="text" name="q" value="" placeholder="Find a Guide">
+          </form>
         </div>
-          </div>
+        <div class="header-signin">
+                      <a class="js-sign-in-btn ui-btn borderless">Sign In</a>
+            <div id="sign-in-dropdown" class="ui-sign-in">
+      <div class="title">
+      <p>Sign In with Facebook or Twitter</p>
+    </div>
+    <div class="body">
+    <div class="social">
+      <a class="facebook js-facebook">
+        <div class="ui-sprite sprite-icons-facebook_wordmark"></div>
+      </a>
+      <a class="twitter js-twitter" data-ajaxify="//snapguide.com/api/v1/signin/submit-tw">
+        <div class="ui-sprite sprite-icons-twitter_wordmark"></div>
+      </a>
+    </div>
+    <div class="sep"></div>
+    <div class="old-school">
+      <p>Or use your email address</p>
+      <form action="//snapguide.com/api/v1/signin/submit" method="post" class="js-old-school-form">
+        <input type="email" class="js-input-email" name="email" placeholder="Email Address">
+        <input type="password" class="js-input-password" name="password" placeholder="Password">
+        <p class="error"></p>
+        <input class="ui-btn js-submit" type="submit" value="Sign In">
+      </form>
+    </div>
+    <div class="sep"></div>
+    <div class="links">
+            <a href="//snapguide.com/signup">Create an Account</a>
+          <a href="//snapguide.com/forgot">Forgot Password?</a>
+    </div>
   </div>
-</div>    <div class="content">
-    <div class="notification ui-notification">
-      <div class="ui-inside"></div>
-      <div class="ui-close close"></div>
-    </div>    <div class="privacy simple-page">
-    <div class="about">
-    <div class="two-columns left">
-      <ul class="fancy-list">
-        <li>
-          <a href="http://snapguide.com/about/">About Us</a></li>
-        <li><a href="http://blog.snapguide.com">Blog</a></li>
-        <li>
-          <a href="http://snapguide.com/about/guidelines">
-            Community Guidelines</a></li>
-        <li>
-          <a href="http://snapguide.com/about/faq">FAQs</a></li>
-        <li>
-          <a href="http://snapguide.com/about/careers">
-            Careers</a></li>
-        <li>
-          <a href="http://snapguide.com/about/team">Team</a></li>
-        <li>
-          <a href="http://snapguide.com/about/contact">
-          Contact Us</a></li>
-      </ul>
-      <ul class="fancy-list">
-        <li class="active">
-          <a href="http://snapguide.com/about/privacy">Privacy</a></li>
-        <li>
-          <a href="http://snapguide.com/about/terms">Terms</a></li>
-      </ul>
+</div>
 
-                </div>
-      <h1>Privacy Policy</h1>
-<h2>Effective: March 9, 2011</h2>
-<h3>Last updated: January 10, 2012</h3>
-    <div class="privacy-content
-      two-columns right">
-        <p>
+                  </div>
+      </div>    </div>    <div class="wrapper">
+    <div class="about-page-header">
+  <div class="ui-size-960">
+   <p class="breadcrumbs">
+     <span>About</span></p>
+  </div>
+</div>
+<div class="ui-size-960">
+  <div class="pull-left left-content">
+      <div class="ui-about-navigation">
+   <ul>
+     <li>
+       <a href="//snapguide.com/about/">About Us</a>
+     </li>
+     <li>
+       <a href="http://blog.snapguide.com">Blog</a>
+     </li>
+      <li>
+       <a href="http://engineering.snapguide.com">Engineering Notes</a>
+     </li>
+     <li>
+       <a href="//snapguide.com/about/guidelines">Guidelines</a>
+     </li>
+     <li>
+       <a href="//snapguide.com/about/faq">FAQs</a>
+     </li>
+     <li>
+       <a href="//snapguide.com/about/careers">Careers</a>
+     </li>
+     <li>
+       <a href="//snapguide.com/about/press">Press</a>
+     </li>
+     <li>
+       <a href="//snapguide.com/about/team">Team</a>
+     </li>
+     <li>
+       <a href="//snapguide.com/about/contact">Contact Us</a>
+     </li>
+   </ul>
+    <span class="nav-separator"></span>
+     <ul class="bottom-nav">
+     <li>
+       <a href="//snapguide.com/about/terms">Terms of Service</a>
+     </li>
+     <li class="selected">
+       <a href="//snapguide.com/about/privacy">Privacy Policy</a>
+     </li>
+     </ul>
+   </div>
+        <div class="ui-about-download-ad" style="height: 390px;">
+       <a href="http://itunes.apple.com/us/app/snapguide/id421477397?ls=1&amp;mt=8" class="js-external-track" data-category="app_store" data-action="click" data-label="about_ipad">
+         <img src="//d74bwl3dcueqd.cloudfront.net/static/v/2460373/img/web2/promos/white_skyscraper_ipad.jpg" alt="" class="skyscraper" width="171" height="390">
+       </a>
+     </div>
+     </div>
+  <div class="pull-left right-content privacy">
+    <div class="about-large-banner">
+  <img src="//d74bwl3dcueqd.cloudfront.net/static/v/2460373/img/web2/logos/102x104.png">
+  <div>
+      <p class="title">Privacy Policy</p>
+  <p class="sub">Effective: March 9, 2011  |   Last updated: July 16, 2012</p>
+
+  </div>
+</div>
+
+
+<div class="ui-about-section">
+<p>
   We recognize that your privacy is very important and take it seriously.
   This Privacy Policy describes Snapguide's policies and procedures on the
   collection, use and disclosure of your information when you use the
@@ -190,7 +221,7 @@ var SG = SG || {};
   anyone except as described in this Privacy Policy.  This Privacy Policy
   does not apply to information we collect by other means (including offline)
   or from other sources.  Capitalized terms that are not defined in this
-  Privacy Policy have the meaning given them in our <a href="http://snapguide.com/about/terms">Terms of Service</a>.
+  Privacy Policy have the meaning given them in our <a href="//snapguide.com/about/terms">Terms of Service</a>.
 </p>
 <div class="subtopic">Information Collection and Use</div>
 <p>
@@ -340,7 +371,7 @@ var SG = SG || {};
   breach of security, Snapguide will promptly notify those persons whose
   personal information has been compromised, in accordance with the
   notification procedures set forth in our
-  <a href="http://snapguide.com/about/terms">Terms of Service</a>,
+  <a href="//snapguide.com/about/terms">Terms of Service</a>,
   or as otherwise required by applicable law.
 </p>
 <div class="subtopic">Your Choices About Your Information</div>
@@ -387,176 +418,152 @@ var SG = SG || {};
   Heavy Bits, Inc.<br>
   Attn: Daniel Raffel<br>
   Attn: Privacy Agent<br>
-  2 Mint Plaza, Suite 603<br>
+  12 Gallagher Ln<br>
   San Francisco, CA 94103<br>
   Email: <a href="mailto:info@heavybits.com">info@heavybits.com</a><br>
-</p>    </div>
-
-    </div>
+</p>
+</div>
   </div>
 </div>
-    <script src="http://images.snapguide.com/static/v/0aa45f1/js/web/lib/jquery-1.7.1.min.js">
-</script>
-<script src="http://images.snapguide.com/static/v/0aa45f1/js/web/lib/jquery.bootstrap-modal.min.js">
-</script>
-<script src="http://images.snapguide.com/static/v/0aa45f1/js/web/lib/jquery.tipsy.min.js">
-</script>
-<script src="http://images.snapguide.com/static/v/0aa45f1/js/web/lib/jquery.validate.1.9.0.min.js">
-</script>
-<script src="http://images.snapguide.com/static/v/0aa45f1/js/web/app/site.min.js">
-</script>
-<script src="http://images.snapguide.com/static/v/0aa45f1/js/web/app/facebook_signin.min.js">
-</script>
-<script src="http://images.snapguide.com/static/v/0aa45f1/js/web/app/notification.min.js">
-</script>
-        
-              <div class="modal ui-modal hide
+<div class="ui-clearfix"></div>
+    </div>    <div class="footer">
+      <div class="footer-inner ui-size-960">
+        <div class="footer-logo">
+          <a href="//snapguide.com/" title="Snapguide">
+            <div class="ui-sprite sprite-icons-logo_grey"></div>
+          </a>
+        </div>
+        <div class="footer-social">
+          <a href="http://twitter.com/snapguide" title="">
+            <div class="ui-sprite sprite-icons-twitter"></div>
+          </a>
+          <a href="http://facebook.com/snapguide" title="">
+            <div class="ui-sprite sprite-icons-facebook"></div>
+          </a>
+          <a href="http://pinterest.com/snapguide/" title="">
+            <div class="ui-sprite sprite-icons-pinterest"></div>
+          </a>
+        </div>
+        <div class="footer-content">
+          <ul>
+            <li><a href="//snapguide.com/download/">Download</a></li>
+            <li><a href="//snapguide.com/guides/">Explore Guides</a></li>
+            <li><a href="http://blog.snapguide.com/">Blog</a></li>
+            <li><a href="//snapguide.com/about/">About</a></li>
+            <li><a href="//snapguide.com/about/faq">FAQ</a></li>
+            <li>
+              <a href="//snapguide.com/about/contact">
+                Contact Us</a>
+            </li>
+            <li>
+              <a href="//snapguide.com/about/terms">Terms</a>
+            </li>
+            <li>
+              <a href="//snapguide.com/about/privacy">Privacy</a>
+            </li>
+          </ul>
+          <p>©2012 Heavy Bits, Inc. | All guides ©2012 their
+             respective authors</p>
+        </div>
+      </div>
+    </div>   </div>  <div class="ui-notification js-notification">
+    <div class="wrap">
+      <p></p>
+      <div class="close js-close sprite-icons-modal_close"></div>
+    </div>
+  </div>
+
+      <div class="modal ui-modal ui-display-none
  fade ui-sign-in-pop">
   <div class="modal-header">
-    <a class="close" data-dismiss="modal"></a>
+    <a class="sprite-icons-modal_close" data-dismiss="modal"></a>
     <h1>Sign In</h1>
   </div>
     <div class="modal-body">
-      <div class="white-box-inside">
-    <div class="ui-sign-in rounded-15">
-    <div class="buttons">
-      <div class="ui-facebook-sign-in facebook-sign-in twit-face rounded-5">
-        <img src="http://images.snapguide.com/static/v/0aa45f1/img/web/facebook_wordmark.png" width="113" height="22" alt="">
-      </div>
-      <div class="ui-twitter-sign-in twitter-sign-in twit-face rounded-5" data-ajaxify="http://snapguide.com/api/v1/signin/submit-tw">
-        <img src="http://images.snapguide.com/static/v/0aa45f1/img/web/twitter_wordmark.png" width="110" height="22" alt="">
-      </div>
-    </div>
-    <div class="clear"></div>
-    <hr>
-    <p>Or, use your email address</p>
-    <form action="http://snapguide.com/api/v1/signin/submit" method="post" id="signin">
-      <input type="email" name="email" id="email" placeholder="Email Address" class="rounded-5">
-      <input type="password" name="password" placeholder="Password" class="rounded-5"><br>
-      <p class="login-error ui-login-error display-none"></p>
-      <button class="btn submit ui-submit">Sign In</button>
-    </form>
-    <div class="clear"></div>
-    <hr>
-    <div class="alt-links">
-              <a href="#" class="link-orange ui-sign-up-modal">
-              Create an Account
+        <div id="sign-in-dropdown" class="ui-sign-in">
+    <div class="body">
+    <div class="social">
+      <a class="facebook js-facebook">
+        <div class="ui-sprite sprite-icons-facebook_wordmark"></div>
       </a>
-      <a href="http://snapguide.com/forgot" class="link-orange">
-        Forgot Password?
+      <a class="twitter js-twitter" data-ajaxify="//snapguide.com/api/v1/signin/submit-tw">
+        <div class="ui-sprite sprite-icons-twitter_wordmark"></div>
       </a>
     </div>
+    <div class="sep"></div>
+    <div class="old-school">
+      <p>Or use your email address</p>
+      <form action="//snapguide.com/api/v1/signin/submit" method="post" class="js-old-school-form">
+        <input type="email" class="js-input-email" name="email" placeholder="Email Address">
+        <input type="password" class="js-input-password" name="password" placeholder="Password">
+        <p class="error"></p>
+        <input class="ui-btn js-submit" type="submit" value="Sign In">
+      </form>
+    </div>
+    <div class="sep"></div>
+    <div class="links">
+            <a href="#" class="ui-sign-up-modal">
+          Create an Account
+        </a>
+          <a href="//snapguide.com/forgot">Forgot Password?</a>
+    </div>
   </div>
+</div>
+
   </div>
-  </div>
-    <div class="modal-footer">
-          </div>
-</div>      <div class="modal ui-modal hide
+  </div>    <div class="modal ui-modal ui-display-none
  fade sign-up-pop ui-sign-up-pop">
   <div class="modal-header">
-    <a class="close" data-dismiss="modal"></a>
-    <h1>Create a New Account</h1>
+    <a class="sprite-icons-modal_close" data-dismiss="modal"></a>
+    <h1>  </h1><h1>Create a New Account</h1><h1>
+  </h1><h4>Join Snapguide and share what you know. Already have an account? 
+    <a href="#" class="ui-sign-in-modal">Sign in here.</a>
+  </h4>
+
   </div>
-    <p class="header">
-    Join Snapguide and share what you know. Already have an
-    account? <a href="#" class="ui-sign-in-modal link-orange">Sign in here.</a>
-  </p>
-  <div class="modal-body">
-      <div class="two-columns">
-    <div class="left">
+    <div class="modal-body">
+          <div class="two-columns">
+    <div class="pull-left">
       <div class="fashion-text">
         Why be old fashioned?<br>
         It's easier to sign in with:<br>
       </div>
-      <div class="ui-facebook-sign-in facebook-sign-in twit-face rounded-5">
-        <img src="http://images.snapguide.com/static/v/0aa45f1/img/web/facebook_wordmark.png" width="113" height="22" alt="">
-      </div>
-      <div class="ui-twitter-sign-in twitter-sign-in twit-face rounded-5" data-ajaxify="http://snapguide.com/api/v1/signin/submit-tw">
-        <img src="http://images.snapguide.com/static/v/0aa45f1/img/web/twitter_wordmark.png" width="110" height="22" alt="">
+      <div class="social">
+        <a class="facebook js-facebook">
+          <div class="ui-sprite sprite-icons-facebook_wordmark"></div>
+        </a>
+        <br>
+        <a class="twitter js-twitter" data-ajaxify="//snapguide.com/api/v1/signin/submit-tw">
+          <div class="ui-sprite sprite-icons-twitter_wordmark"></div>
+        </a>
       </div>
     </div>
-    <div class="right">
+    <div class="pull-right">
       <div class="white-box-inside">
-        <form action="http://snapguide.com/api/v1/signup/submit" method="post" class="ui-signup-form">
-          <input class="rounded-5" type="text" name="first_name" placeholder="First Name"><br>
-          <input class="rounded-5" type="text" name="last_name" placeholder="Last Name"><br>
-          <input class="rounded-5" type="email" name="email" placeholder="Email Address"><br>
-          <input class="rounded-5" type="password" name="password" placeholder="Password">
-          <button class="btn submit-button">Join Snapguide</button>
+        <form action="//snapguide.com/api/v1/signup/submit" method="post" class="ui-signup-form">
+          <input type="text" name="first_name" placeholder="First Name"><br>
+          <input type="text" name="last_name" placeholder="Last Name"><br>
+          <input type="email" name="email" placeholder="Email Address"><br>
+          <input type="password" name="password" placeholder="Password">
+            <br>
+          <input class="ui-btn submit-button" type="submit" value="Join Snapguide">
           <p class="login-error ui-login-error display-none"></p>
         </form>
         <div class="clear"></div>
       </div>
+      <div class="sep"></div>
       <p class="fine-print">
         By submitting this form you agree to Snapguide's<br>
-        <a href="http://snapguide.com/about/terms" class="link-orange">Terms of Service</a> &amp; <a href="http://snapguide.com/about/privacy" class="link-orange">Privacy Policy</a>
+        <a href="//snapguide.com/about/terms" class="link-orange">Terms of Service</a> &amp; <a href="//snapguide.com/about/privacy" class="link-orange">Privacy Policy</a>
       </p>
     </div>
   </div>
   <div class="clear"></div>
-  <script src="http://images.snapguide.com/static/v/0aa45f1/js/web/signup.min.js"></script>
+
   </div>
-    <div class="modal-footer">
-          </div>
-</div>        <div class="sg-footer ui-sg-footer">
-  <div class="sg-footer-inner">
-    <div class="sg-footer-left"></div>
-    <div class="sg-footer-right">
-      <ul>
-                <li>
-          <a href="http://snapguide.com/guides/">
-              Explore Guides
-          </a>
-        </li>
-        <li>
-          <a href="http://blog.snapguide.com/">
-              Blog
-          </a>
-        </li>
-        <li>
-          <a href="http://snapguide.com/about/">
-          About
-          </a>
-        </li>
-        <li>
-          <a href="http://snapguide.com/about/faq">
-          FAQ
-          </a>
-        </li>
-        <li>
-          <a href="http://snapguide.com/about/contact">
-          Contact Us
-          </a>
-        </li>
-        <li>
-          <a href="http://snapguide.com/about/terms">
-          Terms
-          </a>
-        </li>
-        <li>
-          <a href="http://snapguide.com/about/privacy">
-          Privacy
-          </a>
-        </li>
-      </ul>
-      <div class="below-links">
-        <div class="twitter-facebook">
-          <a href="http://twitter.com/snapguide" target="_blank">
-            <img src="http://images.snapguide.com/static/v/0aa45f1/img/web/white_icon_twitter.png" width="30" height="30">
-          </a>
-          <a href="http://facebook.com/snapguide" target="_blank">
-            <img src="http://images.snapguide.com/static/v/0aa45f1/img/web/white_icon_facebook.png" width="30" height="30">
-          </a>
-        </div>
-        <div class="copyright">
-          ©2012 Heavy Bits, Inc<br>
-          All guides ©2012 their respected authors
-        </div>
-      </div>
-    </div>
-  </div>
-</div>  
-<!--
-{'Content-Length': '', 'From': 'crawler@alexa.com', 'X-Forwarded-Port': '80', 'X-Forwarded-For': '174.129.237.157', 'hostname': 'ip-10-160-95-32', 'Host': 'snapguide.com', 'User-Agent': 'ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)', 'Connection': 'keep-alive', 'X-Forwarded-Proto': 'http', 'Content-Type': ''}
--->
+  </div>  
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js">
+  </script>
+      <script type="text/javascript" src="//d74bwl3dcueqd.cloudfront.net/static/v/2460373/js/web2/all.min.js"></script>
+                
 </body></html>
