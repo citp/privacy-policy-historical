@@ -1,43 +1,55 @@
-> *The following text is extracted and transformed from the basecamphq.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224045544id_/http%3A//basecamphq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basecamphq.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221095153id_/http%3A//37signals.com/privacy) for the most accurate reproduction.*
 
-# Basecamp Privacy Policy
+# 37signals Privacy Policy
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
-  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of [Terms of Service](http://www.basecamphq.com/terms.html), or as otherwise required by law.
-  * We transfer information about you if 37signals or Basecamp is acquired by or merged with another company. In this event, 37signals will notify you before information about you is transferred and becomes subject to a different privacy policy.
+  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service of the specific application, or as otherwise required by law.
+  * We transfer information about you if 37signals is acquired by or merged with another company. In this event, 37signals will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
 
 
 ## INFORMATION GATHERING AND USAGE
 
-  * When you register for Basecamp we ask for information such as your name, company name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
-  * 37signals uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
+  * When you register for any 37signals product we ask for information such as your name, company name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
+  * 37signals uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research. 37signals does not share your personal information with third parties, unless explicitly approved by you.
 
 
 
 ## COOKIES
 
   * A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
-  * Cookies are required to use the Basecamp service.
-  * We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to your Basecamp Project Site after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
+  * Cookies are required to use the 37signals services.
+  * We use cookies to record current session information, but do not require permanent cookies.
 
 
 
 ## DATA STORAGE
 
-37signals uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Basecamp. Although 37signals owns the code, databases, and all rights to the Basecamp application, you retain all rights to your data.
+37signals uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run our services. Although 37signals owns the code, databases, and all rights to the 37signals applications, you retain all rights to your data.
 
 ## DISCLOSURE
 
-  * 37signals may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the [Terms of Service](http://www.basecamphq.com/terms.html).
+  * 37signals may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service of any of our applications.
 
 
 
 ## CHANGES
 
-37signals may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Basecamp primary account holder account or by placing a prominent notice on our site.
+37signals may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your 37signals service primary account holder account or by placing a prominent notice on our site. You retain the right to access, amend, correct or delete your personal information where it is inaccurate at any time. To do so, please contact [support@37signals.com](mailto:support@37signals.com).
+
+## US-EU SAFE HARBOR AND US-SWISS SAFE HARBOR
+
+37signals uses annual self-assessments to assure compliance within the US-EU and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention or personal data from the European Union and Switzerland. 37signals has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view 37signals' certification, please visit <http://www.export.gov/safeharbor/>.
+
+Our privacy policy above serves as our statement of adherence to the US-EU and US-Swiss Safe Harbor Principles. We encourage you to use the contact information below to inform us of any complaints or disputes you may have regarding the use of your personal information. We will thoroughly investigate the matter internally and make every effort to attempt to resolve the issue quickly. If your dispute cannot be resolved by us internally, we agree to dispute resolution with the Better Business Bureau as our third party resolution provider.
+
+## PRIVACY COMPLAINTS BY EUROPEAN UNION AND SWISS CITIZENS
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, 37signals commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact 37signals at [support@37signals.com](mailto:support@37signals.com) or by mail at 37signals, 30 North Racine Avenue #200, Chicago, IL 60607 USA.
+
+37signals has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by 37signals, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ## QUESTIONS
 
-Any questions about this Privacy Policy should be addressed to support at 37signals.com or by mail at: 37signals, 400 North May Street #301, Chicago, IL 60622 USA
+Any questions about this Privacy Policy should be addressed to [support@37signals.com](mailto:support@37signals.com) or by mail at: 37signals, 30 North Racine Avenue #200, Chicago, IL 60607 USA
