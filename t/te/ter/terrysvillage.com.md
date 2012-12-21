@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terrysvillage.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625153953id_/http%3A//www.terrysvillage.com/ui/shared/sharedFlowController.goToHelpController.do%3FrequestURI%3DhelpContent%26documentKey%3Dcaliforniainfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terrysvillage.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221191134id_/http%3A//www.terrysvillage.com/h3-californiainfo.fltr) for the most accurate reproduction.*
 
 # Welcome to Terry's Village
 
