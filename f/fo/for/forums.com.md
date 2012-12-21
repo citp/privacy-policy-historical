@@ -1,162 +1,54 @@
-> *The following text is extracted and transformed from the forums.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122145957id_/http%3A//forums.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forums.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221051120id_/http%3A//www.forums.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Forums.com
 
-## PRIVACY POLICY
+### 1\. What is this document about?
 
-### About our privacy policy
+This document explains how we collect, use and disclose your personal information in connection with our services. In this document when we use the term "we" or "us" it is a reference to Forums LLC a Delaware company (“Forums.com”). 
 
-We are committed to your right to privacy and the protection of your personal information in accordance with all applicable privacy laws. This privacy policy ( **"Policy"** ) outlines how we manage your personal information. It also describes the type of information we hold and why, as well as how that information is collected, used and disclosed.
+### 2\. How do we collect your personal information?
 
-We encourage you to check our website regularly for any updates to the Policy (see **"Further information"** below).
+2.1. Generally, the only personal information we collect about you is that which you choose to tell us, or the personal information which we obtain from others.   
+2.2. We may also collect information from a friend or someone who refers our services to you, or through your use of our website. 
 
-### Why do we collect personal information?
+### 3\. What personal information do we collect?
 
-We are committed to constantly upgrading and improving the service we provide to you. For this reason, we may collect your personal information so we can effectively:
+3.1. We collect personal information which we consider relevant in providing and promoting our services to you, and operating our website.   
+3.2. The type of information we may collect includes, your name, address, telephone number, your computer's IP address and billing information (which will include credit card information). 
 
-  * provide our services to you;
-  * provide your details to third parties who sell goods and services through our services;
-  * administer and manage those services, including charging, billing and collecting debts;
-  * conduct appropriate checks for credit worthiness;
-  * research and develop our services;
-  * gain an understanding of your service needs so we may provide them to you; and
-  * maintain and develop our business systems and infrastructure, including testing and upgrading our systems.
+### 4\. How do we use the information we collect?
 
+4.1. We use your personal information to provide and promote services to you.   
+4.2. We may also use your personal information to maintain and develop our business systems including other websites we operate, to provide customer service, for traffic analysis, for billing purposes and to comply with the law.   
+4.3. If you do not provide us with all or part of the personal information we require, it may prevent us from carrying out the things we have stated in clause 4.2.   
+4.4. If you receive promotional material you may choose to "opt out" of receiving this information, just let us know. 
 
+### 5\. Do we disclose your personal information?
 
-### What personal information do we collect?
+5.1. We will not sell your personal information without your consent, unless we sell our business.   
+5.2. We may choose to disclose your personal information to our contractors, our agents, our suppliers, government authorities and any other party who may assist us in providing services to you, or in promoting or marketing our services to you, or any party who purchases or seeks to purchase our business (or any part of it including a website).   
+5.3. We may disclose your personal information to our contractors and suppliers who may be located outside of Australia where we do we will do so in accordance with the Privacy Act 1988 (Cth). 
 
-To enable us to continue to provide you with a high level of service we may collect your:
+### 6\. How do we use cookies?
 
-  * name;
-  * email address and other contact details;
-  * date of birth;
-  * occupation;
-  * current and previous address (postal and email);
-  * telephone number;
-  * content you personally post on our website or in our forums, or which other people post about you;
-  * payment details for the purchase of goods and services from us or from third parties via our services; and/or
-  * other information that we consider necessary.
+6.1. We use cookies to track your internet browsers behaviour, and also to store your favourite settings on our website.   
+6.2. A cookie is a small file we store on your computer which holds the information we outlined in clause 6.1. Every time you visit our site we can view this information. 
 
+### 7\. How do we safeguard your personal information?
 
+7.1. We store your information in electronic form.   
+7.2. We take all reasonable precautions to protect these records from misuse or unauthorised access by using physical, electronic and procedural safeguards.   
+7.3. It is our practice to destroy, delete or de-identify your personal information when it is no longer needed. 
 
-If you do not provide us with the information we require then we may be unable to provide you with our services or effect the purchase by you of goods and services from us or from third parties.
+### 8\. How can you access information and ensure its accuracy?
 
-### How do we collect personal information?
+8.1. When you provide us with personal information (or other third parties) provide us with personal information, we assume that it is correct unless you tell us otherwise.   
+8.2. Unless we know that personal information is incorrect, we cannot correct it. You can assist us, by telling us when the information we hold has changed and is no longer accurate.   
+8.3. If you wish to access the personal information we hold about you, you can do so by making a request to us. You can contact us via email: [privacy@forums.com](mailto:privacy@forums.com)
 
-We will, if reasonable and practicable to do so, collect personal information directly from you. This may take place when you fill out documents such as an application form or an administrative form or when you give us personal information in person, over the telephone or through our website(s).
+### 9\. Do you have any comments or questions?
 
-In certain circumstances, we will collect personal information from third parties. For example, we may need to collect personal information from:
+9.1. We welcome any questions or comments and invite you to contact us at [privacy@forums.com](mailto:privacy@forums.com) .   
+9.2. We may amend this policy from time to time, to make sure that it is accurate and up to date. 
 
-  * third parties who sell goods and services via our services;
-  * a credit reporting agency;
-  * your financial advisers;
-  * your representatives (e.g. authorised representatives or legal advisers);
-  * your employer;
-  * publicly available sources of information; or
-  * any other organisation identified below (see **"Disclosing personal information"** below).
-
-
-
-### Using and disclosing your personal information
-
-We collect your personal information so we can provide you with the highest possible level of service and to ensure that the goods or services you purchase or otherwise obtain from us are properly provided to you. 
-
-We may also collect your financial information to confirm your identity and to bill you for products and services. We will not share your financial or other personal information with third parties without your prior consent. However, in certain situations we may be required to pass your contact details on to third parties (such as payment providers) and you authorise us to share your personal information in this way.
-
-We may also be required at various times to provide your personal information to: 
-
-  * outsourced service providers who manage the services we provide (e.g. mailing services, billing and debt recovery functions and marketing services and credit reporting agencies);
-  * our advisers (including our accountants, auditors and lawyers);
-  * government and regulatory authorities and other organisations, as required or authorised by law;
-  * organisations involved in marketing our products and services;
-  * organisations jointly participating in, or assisting us to manage, a promotion, event, seminar or competition;
-  * organisations involved in a transfer or sale or our assets or business;
-  * organisations involved in managing our corporate risk; and
-  * our related companies and affiliates.
-
-
-
-We will seek your consent to use or disclose personal information for the purposes of informing you about:
-
-  * our products and services that may be of interest and suit your requirements; and
-  * promotions or other opportunities which may be of interest.
-
-
-
-We will presume we have your consent to use service providers to assist us with marketing (e.g. mailing services or advertising agencies) unless we are told otherwise (see **"Contacting us"** below).
-
-### Storing personal information
-
-We store personal information in different ways, including in paper and electronic form. The security of personal information is important to us and we take reasonable steps to protect it from misuse or loss and from unauthorised access, modification or disclosure. Some of the ways we do this include:
-
-  * requiring our staff to maintain confidentiality;
-  * implementing document storage security policies;
-  * imposing security measures for access to our computer systems (see **'Privacy on the internet'** below);
-  * only allowing access to personal information where your request for access has satisfied our identification requirements; and
-  * ensuring we control access to our offices.
-
-
-
-### Collecting sensitive information
-
-Unless we have your consent, we will not collect information that reveals your racial or ethnic origin, political opinions, religious or philosophical beliefs or affiliations, membership of a political trade union, details of your health, disability, sexual orientation or criminal record.
-
-However, we may collect information of this nature in circumstances where it is:
-
-  * required by law; or
-  * necessary to provide our services.
-
-
-
-### Dealing with us anonymously
-
-Where it is lawful and practicable to do so, you may deal with us anonymously (e.g. when enquiring about our products and services generally).
-
-### Privacy on the internet
-
-We take care to ensure that the personal information given to us on our website(s) is protected. Our networks have electronic security systems, including firewalls and data encryption. Depending on the system with which you deal with us, user identifiers, passwords and other access codes for our staff and third parties may be used to control access to personal information.
-
-Also, you may access third-party websites by clicking on links we have provided on our websites. These external websites are not subject to our privacy policy. You need to review those websites to ascertain how the relevant organisation manages your personal information.
-
-### Cookies
-
-Our websites use cookies to track user traffic patterns and to better serve you when you revisit the website. You may be able to set your browser to notify you when you receive a cookie, providing you with the opportunity to either accept or reject it.
-
-### Keeping personal information accurate and up to date
-
-We take all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up to date. However, the accuracy of that information largely depends on the quality of the information you provide to us. We therefore suggest that you:
-
-  * let us know if there are any errors in your personal information; and
-  * keep us up to date with changes to your personal information (e.g. any changes to your name, address or contact details).
-
-
-
-The best way to update your personal information is to email us (see 'Contacting us' below).
-
-### Your access to your personal information
-
-You have a right to access your personal information, subject to some exceptions allowed by law.
-
-You can contact us to obtain a form to request access (see **'Contacting us'** below). We may charge a fee for collating and providing access to personal information.
-
-### Complaints
-
-If you believe that we have breached your privacy rights in any way or wish to discuss any issues about our privacy policy you should contact our office (see "Contacting us" below).
-
-We will try to satisfy any questions and correct any errors on our part.
-
-If we do not satisfactorily answer your concerns, you have the right to make a complaint to the Privacy Commissioner on telephone number 1300 363 992 or in writing to:
-
-Office of Privacy Commissioner  
-GPO Box 5218  
-Sydney NSW 1042  
-Australia 
-
-### Contacting us
-
-You may ask any questions about this Policy or the way we manage your personal information or obtain a form requesting access to personal information by emailing us at privacy@forums.com
-
-### Further information
-
-For further information about Forums.com and how we operate, please refer to our website [forums.com](https://web.archive.org/). If you would like more information about privacy in general, please refer to the Privacy Commissioner's website: [www.privacy.gov.au](http://www.privacy.gov.au/).
+Effective: March 1, 2012
