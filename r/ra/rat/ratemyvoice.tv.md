@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemyvoice.tv privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613182956id_/http%3A//ratemyvoice.tv/page.php%3Fpage%3D6%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemyvoice.tv privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222003059id_/http%3A//ratemyvoice.tv/page.php%3Fpage%3D6%23privacy) for the most accurate reproduction.*
 
 # Rate My Voice
 
