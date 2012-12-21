@@ -1,151 +1,77 @@
-> *The following text is extracted and transformed from the registerdomain.co.za privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606094453id_/http%3A//www.registerdomain.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registerdomain.co.za privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221145537id_/http%3A//www.registerdomain.co.za/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Our policy regarding your privacy
 
-This site is owned and operated by Register Domain SA, CC, a registered Close Corporation within South Africa.
+Your privacy is very important to us, below explains the information we collect from you, what we do with that information and our information security policy.
 
-Your privacy on the Internet is of the utmost importance to us. At Register Domain SA, we want to make your experience online satisfying and safe. Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This Privacy Policy, Terms and Conditions and Acceptable Use Policy, set out our policies applicable to your account and disclose what information we gather and how we use it.
+### Your Information
 
-Register Domain SA gathers and keeps track of:
+When you sign up for any of our services we will ask you to provide contact information for your convenience as well as legal reasons. This will include name, home address, e-mail addresses and payment details (credit or debit card and PayPal). If you need support our staff may need to know information to solve the problem such as operating system, browser software and editing software. When you visit this website we do record certain information using Google Analytics such as your location, browser version, ip address, screen resolution, operating system and flash support. This is so we can continue to provide the most convenient web site for all our visitors. Our website is protected by a Secure Sockets Layer (SSL) and verified by Equifax. This helps prevent eavesdropping on our website, just look for the padlock.
 
-1\. Information that users provide through optional, voluntary submissions. These are voluntary submissions made by you in order to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys:
+### How Your Information Is Used
 
-2\. Information Register Domain SA gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because Register Domain SA derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does Register Domain SA divulge any information about an individual user to a third party.
+We will use your personal identifiable information in the following ways. 
 
-Register Domain SA gathers information about its users as follows:
+\- For payment purposes and to provide convenient and targeted support.
 
-  
+\- To contact you and announce special offers, general announcements and news. Please note you can opt out of receiving these emails at anytime by following the instructions at the bottom of the e-mail.
 
+\- To improve our service and the marketing of our service. This could include using your demographic location to improve targeting of our website and customise your visit.
 
-#### OPTIONAL VOLUNTARY INFORMATION SUBMISSION
+We will **NEVER** provide your personally identifiable information to any persons other than A law enforcement or regulatory agency at their request, third parties who provide services on our behalf such as payment processing, only if they agree not to miss use this information.
 
-Register Domain SA offers the following free services, which require some type of voluntary submission of personal information by users:
+**We do not under any circumstances apart from the above give away or sell your information to any third parties.**
 
-  
+Your personal information is **safe with us** , your information is safely encrypted using SSI. Our service is not available to anyone under the age of 13, never will we intentionally maintain information about anyone under the age of 13.
 
+### Cookies
 
-#### 1\. Electronic newsletters (Dispatches)
+A cookie is a small text file that is stored on a users computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time much like the cookie used for our affiliate program. You can remove persistent cookies by following directions provided in your Internet browsers 'help' file. We set a persistent cookie to store your passwords, so you do not have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but you will be asked to enter your username and password again every time you closed your browser or your session has timed out.
 
-Register Domain SA offers a free electronic newsletter to users. Register Domain SA gathers the email addresses of users who voluntarily subscribe to this service. At any time, users are free to remove themselves from this mailing list by following the link provided in every newsletter pointing the user to the subscription management page.
+### Log Files
 
-  
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information to prevent and block abusers to keep using our services such as members who violates our terms of service. We use a third-party tracking service that uses cookies and log files to track non-personally identifiable information about visitors to our site in the aggregate of usage and volume statistics to determine how our users navigate through our website and to know how many users are using our services demographically. We use the information you provide about yourself or others to complete the transaction for which it is intended. This may include administering a service such as registration, email, forum, etc., or contacting you if you have indicated your permission to do so by agreeing to accept further notification and service announcement from us on your member profile page. You can choose to opt-out from receiving any further notification from your member profile page. We do not share this information with outside parties.
 
+### Surveys
 
-#### 2\. Message Boards/Forums
+Upon using our free services, you may be requested to participate in our periodic internal surveys that are conducted by Register Domain to determine your personal interests. These surveys are strictly voluntary. The data collected through these surveys will only be used to improve our products and services and will never be sold to any third parties.
 
-Users of the Register Domain SA's Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages. Registration is not required in order to visit or otherwise use Register Domain SA's other services and/or products. However, in order to register for Register Domain SA's Message Boards and Forums, users are required to supply a user name, password, and email address.
+### Communications From The Site
 
-  
+When we receive email, we use return email addresses to reply with the information requested. Such addresses are not used for any other purpose and are not shared with outside parties. When supplying contact information to Register Domain you can indicate your preference if you would like to be contacted to receive information and updates about our services by logging in to your Register Domain account, going to your member profile page and choose not to receive any further notification emails from us or other information pertaining to Register Domain. Information you submit to us will not be used for this purpose unless you indicate this as your preference. When supplying contact information to Register Domain you can indicate your preference on your members profile page to participate in the Register Domain newsletter. You will receive a confirmation email from us when placing an order on our site and paying through PayPal.
 
+### Newsletter
 
-#### 3\. "E-mail this to a friend" Service
+We provide you the opportunity to 'opt-in' and 'opt-out' of our newsletter at any time. Our newsletter is sent every month so it will certainly contain allot of useful information and any offers we may have. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them at any time.
 
-Register Domain SA users can choose to electronically forward a link, page, or documents to someone else by clicking on "e-mail this to a friend". In order to do so, the user must provide his email address, as well as the email address of the intended recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know the identity of the sender. The information collected is not used for any other purpose.
+### Information Sharing and Disclosure
 
-  
+We collect information from our website visitors using [Google Analytics](http://www.google.com/analytics/). We use this information to better design our Web site and services. This information is never shared with any third party. We do not link aggregate user data with personally identifiable information.
 
+### Personally Identifiable Information
 
-#### 4\. Polling
+Register Domain does not share, sell, rent, or trade personally identifiable information with third parties. We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described within this privacy policy without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-Register Domain SA occasionally offers interactive polls to users in order to enable the users to share their experience with other users as well as to improve Register Domain SA's services. The collected information, including user opinions, testimony and other submitted information is aggregated. This information is not identifiable to any particular user. However, Register Domain SA may employ action "tags" (also known as single pixel gifs or web beacons) to tag users after they have voted, in order to prevent the same user from voting multiple times on the same issue. This "tag" is not correlated with the subject user's individual information.
+### How You Can Access /Correct Your Information
 
-  
+You can access all your personally identifiable information that we collect by logging into your password-protected Register Domain account and selecting to update your 'My Details' We use this procedure to better safeguard your information. You can also correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
+### Specific Terms and Conditions
 
-#### 5\. Surveys
+Register Domain considers email transmitted via our service to be the private correspondence between the sender and recipient. We will not monitor, edit or disclose the contents of a user`s private communications, except as required by law, to comply with legal process, if necessary to enforce the Service Agreement, to respond to claims that such contents violate the rights of third-parties, or to protect the rights or property of Register Domain. By using the service you agree that technical processing of email communications is and may be required to send and receive messages, to conform to the technical requirements of connecting networks, to conform to the limitations of the Service, or to conform to other, similar technical requirements. By using the service you acknowledge and agree that Register Domain do not endorse the content of any user communications and are not responsible or liable for any unlawful, harassing, libelous, privacy invading, abusive, threatening, harmful, vulgar, obscene, tortuous, or otherwise objectionable content, or content that infringes or may infringe the intellectual property or other rights of another.
 
-Register Domain SA may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. However, in doing so, we will never share specific user information with any third party.
+### Legal Disclaimer
 
-  
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
 
+### Security
 
-#### CHILDREN
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however we have taken every step possible to make your information safe. This website is protected by Secure Sockets Layer (SSL) to protect your information. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-Consistent with the Children's Online Privacy Protection Act of 1998 ("COPPA"), we will never knowingly request personally identifiable information from anyone under the age of 13 without first requesting parental consent.
+### Links To Other Sites
 
-  
+This Web site contains links to other sites that are not owned or controlled by Register Domain. Please be aware that we, Register Domain are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.
 
+### Changes To This Privacy Statement
 
-#### USAGE TRACKING
-
-Register Domain SA tracks user traffic patterns throughout its various sites. However, we do not correlate this information with specific data about individual users. Register Domain SA does break down overall usage statistics according to a user's domain name, browser type, and Multipurpose Internet Mail Extension ("MIME") type by gathering such information from the browser string (information contained in every user's browser).
-
-Register Domain SA sometimes tracks and catalogs the search terms entered by users in our Search function. However, this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to improve our services for our users.
-
-  
-
-
-#### COOKIES
-
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain personal information, although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. The only personal information a cookie can contain is information supplied by the user. A cookie cannot read data from the user's hard disk or read cookie files created by other sites. Register Domain SA uses cookies to track user traffic patterns (as described above).
-
-Our advertising system delivers a one-time cookie to improve tracking of advertisement impressions and click rates.
-
-You can refuse cookies by turning the cookie function off in your browser. If your browser is set to provide a warning before the cookie is accepted, you will receive the warning message with each cookie. You do not need to have cookies turned on to use Register Domain SA's site. However, you will need to enable/accept cookies if you wish to actively participate in our message boards, forums, polling and surveys.
-
-  
-
-
-#### USE OF INFORMATION
-
-Register Domain SA uses information voluntarily submitted by our users to enhance the user experience in our network of sites, whether by providing interactive or personalized elements on the sites or by improving future content in response to the interests of our users.
-
-As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regularly set schedule corresponding with the frequency of the particular publication, and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. Register Domain SA never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners.
-
-We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don't track which terms a particular user enters.
-
-Register Domain SA creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This enables our advertisers to advertise more effectively, and allows our users to receive advertisements that are tailored to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know which particular user clicked their advertisement.
-
-  
-
-
-#### SHARING OF THE INFORMATION
-
-Register Domain SA uses the above-described information to tailor our content to suit your needs and help our advertisers better understand its audience's demographics. This is essential to keeping our select services free. We will not share information about individual users with any third party, except in order to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
-
-  
-
-
-#### SECURITY
-
-Register Domain SA operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary. Only authorized individuals have access to the information provided by our customers.
-
-Our sites contain links to other sites. Register Domain SA is not responsible for the privacy practices or the content of such other websites.
-
-  
-
-
-#### OPT-OUT POLICY
-
-We give users options wherever necessary and practical. Such choices include:
-
-  * The option to not register to receive our electronic newsletters; and
-  * The option to not participate in certain interactive areas, which completely obviates our need to gather any personally identifiable information from our users.
-
-  
-
-
-#### YOUR CONSENT
-
-By using this site, you consent to the collection and use of this information by Register Domain SA. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-  
-
-
-#### NECESSARY DISCLOSURE
-
-We will not share your personal information except with a third party to assist us in the processing or securing of your personal information or when we are required by law unless we have given you notice and choice, in the good-faith belief that such action is necessary in order to conform to the edicts of the law, or we must comply with a legal process served on our web site. We may also need to give out your information if one of our partners requires it, but these situations are rare.
-
-  
-
-
-#### PERSONAL INFORMATION FOLLOWING TERMINATION OF ACCOUNT
-
-When your Register Domain SA account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status within our corresponding databases. However, you should know that deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to resolve disputes or enforce our agreements.
-
-  
-
-
-#### CONTACT US
-
-If you have questions or concerns regarding this statement, you can contact Register Domain SA at management@registerdomain.co.za.
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. For more information please do not hesitate to send your questions via our [contact form](http://www.registerdomain.co.za/contact.php).
