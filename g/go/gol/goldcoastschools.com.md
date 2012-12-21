@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the goldcoastschools.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626064513id_/http%3A//www.goldcoastschools.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldcoastschools.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221155647id_/http%3A//www.goldcoastschools.com/privacy.php) for the most accurate reproduction.*
 
 # Gold Coast Professional Schools Respects Your Privacy
 
 | 
 
-[Home](https://web.archive.org/web/20120626064513id_/http%3A//www.goldcoastschools.com/index.php) » Privacy Policy
+[Home](https://web.archive.org/index.php) » Privacy Policy
 
 **Information Collection and Use**  
 Gold Coast Professional Schools,inc. is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Gold Coast Professional Schools collects information from our users at several different points on our website. 
