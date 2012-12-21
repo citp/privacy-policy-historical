@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techdirt.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630191207id_/http%3A//www.techdirt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techdirt.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221010427id_/http%3A//www.techdirt.com/privacy.php) for the most accurate reproduction.*
 
 # Techdirt Privacy Policy.
 
-## March 15, 2011
+## July 24, 2012
 
 Welcome to Techdirt, operated by Floor64. Floor64 values the privacy of the users, subscribers, publishers, members, and others who visit and use Techdirt (collectively or individually, "You" or "Users").
 
@@ -17,7 +17,7 @@ By using Techdirt, you expressly consent to the information handling practices d
   5. Data Security
   6. Children's Privacy
   7. International Visitors
-  8. U.S. - EU Safe Harbor Privacy Statement
+  8. Safe Harbor Privacy Statement
   9. In the Event of Merger or Sale
   10. Changes and Updates to this Privacy Notice
   11. Floor64 Contact Information
@@ -35,7 +35,7 @@ By using Techdirt, you expressly consent to the information handling practices d
 
   2. ### The Way Floor64 Uses Information:
 
-Floor64 uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on Techdirt, as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the [Digital Millennium Copyright Act](https://web.archive.org/web/20120630191207id_/http%3A//www.techdirt.com/dmca.php).
+Floor64 uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on Techdirt, as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the [Digital Millennium Copyright Act](https://web.archive.org/web/20121221010427id_/http%3A//www.techdirt.com/dmca.php).
     * We will use your email address, without further consent, for administrative communications such as notifying you of major Techdirt updates, for customer service purposes, to address copyright infringement or defamation issues, or to contact you regarding any content that you have posted to or downloaded from Techdirt.
     * Floor64 uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way Techdirt works and looks, and to create new features and functionality.
     * Floor64 may use "Automatically Collected" information and "Cookies" information to: (a) automatically update the Floor64 application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access Techdirt; (c) monitor aggregate site usage metrics such as total number of visitors and pages accessed; and (d) track your entries, submissions, and status in any promotions or other activities. 
@@ -51,7 +51,7 @@ Floor64 uses the information that you provide or that we collect to operate, mai
 
   4. ### Your Choices:
 
-You may, of course, decline to share your personally-identifiable information with Floor64, in which case Floor64 will not be able to provide to you some of the features and functionality found on Techdirt. You may update, correct, or delete your user information and preferences at any time by following the directions [here](https://web.archive.org/web/20120630191207id_/http%3A//www.techdirt.com/myaccount.php). However, you may not update, correct or delete comments previously posted on the site. To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your profile information. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.
+You may, of course, decline to share your personally-identifiable information with Floor64, in which case Floor64 will not be able to provide to you some of the features and functionality found on Techdirt. You may update, correct, or delete your user information and preferences at any time by following the directions [here](https://web.archive.org/web/20121221010427id_/http%3A//www.techdirt.com/myaccount.php). However, you may not update, correct or delete comments previously posted on the site. To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your profile information. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.
 
   
 
@@ -77,7 +77,7 @@ For Users visiting Techdirt from the European Economic Area or other non-U.S. te
 
   
 
-  8. ### U.S. - EU Safe Harbor Privacy Statement
+  8. ### Safe Harbor Privacy Statement
 
 Floor64, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Floor64, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Floor64â€™s certification, please visit <http://www.export.gov/safeharbor/>. These are our promises to you:   
 
