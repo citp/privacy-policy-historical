@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slowfoodusa.org privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613172545id_/http%3A//www.slowfoodusa.org/index.php/about_us/details/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slowfoodusa.org privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221173146id_/http%3A//www.slowfoodusa.org/index.php/about_us/details/privacy_policy) for the most accurate reproduction.*
 
 # About Us : Slow Food USA
 
