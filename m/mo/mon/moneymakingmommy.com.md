@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628215441id_/http%3A//www.moneymakingmommy.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221100510id_/http%3A//www.moneymakingmommy.com/privacy-policy-statement) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -42,16 +42,19 @@ Upon request we offer visitors no ability to have factual inaccuracies corrected
 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+If you feel that this site is not following its stated information policy, you may [contact us](http://www.moneymakingmommy.com/contact-us/ "contact us") at the above addresses or phone number.
 
 By visiting MoneyMakingMommy.com, it’s understood that your have read both our [disclaimer](http://www.moneymakingmommy.com/disclaimer/ "disclaimer") and our privacy policy. Thank you.
 
 ADDITIONAL INFORMATION
 
-We provide a [full disclaimer](https://web.archive.org/disclaimer/ "DISCLAIMER") as well.
+We provide a [full disclaimer](https://web.archive.org/disclaimer/ "DISCLAIMER") as well.  
+Also – [Contest and Giveaway Terms and Conditions](http://www.moneymakingmommy.com/contest-or-giveaway-terms-and-conditions/ "Contest or Giveaway Terms and Conditions")
 
 * |   
 ---|---  
  
 
-[ ](https://plus.google.com/106044383169010664855)
+[ ](https://plus.google.com/106044383169010664855?rel=author)
+
+Kelly Land is the owner and content author here at MoneyMakingMommy.com. She has been part of an expert work at home panel and spent the last 12 years researching work at home. 
