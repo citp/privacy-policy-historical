@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bidorbuy.co.ke privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229045949id_/http%3A//www.bidorbuy.co.ke/help/446/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidorbuy.co.ke privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221092158id_/http%3A//www.bidorbuy.co.ke/help/446/Privacy_Statement) for the most accurate reproduction.*
 
 # Privacy Statement
-
-[Terms & Conditions](https://web.archive.org/help/441/Terms_Conditions_of_This_Site) | [Billing Statement](https://web.archive.org/help/442/Billing_Statement) | [Rating Rules](https://web.archive.org/help/443/Rating_Rules) | [Listing Policy](https://web.archive.org/help/444/Listing_Policy) | **Privacy Statement** | [Affiliate Terms](https://web.archive.org/help/447/bidorbuy_Affiliate_Terms_and_Conditions) | 
 
 This Privacy Statement was last revised on 07 May 2010. 
 
@@ -147,4 +145,4 @@ If we change the way we use your Personally Identifiable Information we will not
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with us, you can contact us on [hello@bidorbuy.co.ke](mailto:hello@bidorbuy.co.ke).
 
-[Terms & Conditions](https://web.archive.org/help/441/Terms_Conditions_of_This_Site) | [Billing Statement](https://web.archive.org/help/442/Billing_Statement) | [Rating Rules](https://web.archive.org/help/443/Rating_Rules) | [Listing Policy](https://web.archive.org/help/444/Listing_Policy) | **Privacy Statement** | [Affiliate Terms](https://web.archive.org/help/447/bidorbuy_Affiliate_Terms_and_Conditions) | 
+[Terms & Conditions](https://web.archive.org/help/441/Terms_Conditions_of_This_Site) | [Billing Statement](https://web.archive.org/help/442/Billing_Statement) | [Rating Rules](https://web.archive.org/help/443/Rating_Rules) | [Listing Policy](https://web.archive.org/help/444/Listing_Policy) | | **Privacy Statement** | [Affiliate Terms](https://web.archive.org/help/447/bidorbuy_Affiliate_Terms_and_Conditions) | [Mobile Device Terms & Conditions](https://web.archive.org/help/5608/Mobile_Device_Terms_and_Conditions)
