@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the interiordesign.net privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622184225id_/http%3A//www.interiordesign.net/info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interiordesign.net privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222001643id_/http%3A//www.interiordesign.net/info/privacy_policy.php) for the most accurate reproduction.*
 
 # Interior Design
 
-_Last Revised: April 19, 2010_
-
-### Overview
+Overview
 
 Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site.
 
