@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demosphere.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506100305id_/http%3A//www.demosphere.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demosphere.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221172147id_/http%3A//demosphere.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Demosphere International, Inc.
 
@@ -42,7 +42,7 @@ Parents and guardians have the right to consent to the collection and use of the
 
 ### Opt out.
 
-You can let us know that you do not wish to receive information about events, products and services and special offers, or to have us share the personally identifiable information collected with third parties (other than to the extent necessary to fulfill your request to register and participate in Client programs), by contacting us at [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy53886%20=%20'optout'%20+%20'@';%20addy53886%20=%20addy53886%20+%20'demosphere'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy53886%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy53886%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[optout@demosphere.com](mailto:optout@demosphere.com) .
+You can let us know that you do not wish to receive information about events, products and services and special offers, or to have us share the personally identifiable information collected with third parties (other than to the extent necessary to fulfill your request to register and participate in Client programs), by contacting us at [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy52094%20=%20'optout'%20+%20'@';%20addy52094%20=%20addy52094%20+%20'demosphere'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy52094%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy52094%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[optout@demosphere.com](mailto:optout@demosphere.com).
 
 ## Security
 
@@ -56,7 +56,7 @@ We may make content from affiliated websites or other third party websites avail
 
 ## Review and Correction
 
-You may review and update the personal information about your family that you provide to us by contacting Demosphere Client directly. If you desire that we no longer use such personal information, please contact us at [optout@demosphere.com](mailto:optout@demosphere.com) , and we will use all reasonable efforts to purge or suppress such personal information from our databases.
+You may review and update the personal information about your family that you provide to us by contacting Demosphere Client directly. If you desire that we no longer use such personal information, please contact us at [optout@demosphere.com](mailto:optout@demosphere.com), and we will use all reasonable efforts to purge or suppress such personal information from our databases.
 
 ## Policy Modifications
 
@@ -64,7 +64,7 @@ We may change this Privacy Policy from time to time. We will post any changes he
 
 ## Comments and Questions
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact either of us at Demosphere International, Inc., 306 N Washington St, Falls Church, VA 22046, 703-536-1600, [info@demosphere.com](mailto:info@demosphere.com) , or Demosphere Client.
+If you have any questions, comments or concerns about our Privacy Policy, you may contact either of us at Demosphere International, Inc., 306 N Washington St, Falls Church, VA 22046, 703-536-1600, [info@demosphere.com](mailto:info@demosphere.com), or Demosphere Client.
 
 This policy was last updated on April 06, 2004. (The corporate street address was updated 4/11/07.)
 
