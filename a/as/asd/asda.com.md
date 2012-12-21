@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asda.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621014217id_/http%3A//www.asda.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asda.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221170235id_/http%3A//asda.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # ASDA Website - Privacy Policy
 
@@ -146,3 +146,5 @@ If we decide to change our Privacy Policy, we will post these changes on this we
 ## **Feedback**
 
 We want to make sure we're giving you the information about privacy and security that you want - let us know what you think. If you have any feedback, questions or concerns, please [contact us.](http://your.asda.com/section-contact-asda)
+
+Our site uses cookies. To find out what cookies we use and why we use them [click here](https://web.archive.org/web/20121221170235id_/http%3A//asda.com/help/help/privacy-policy.html#cookies). If you carry on using our site we will assume you consent to us using cookies in this way. 
