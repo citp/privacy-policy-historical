@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehardfucked.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623055505id_/http%3A//www.thehardfucked.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehardfucked.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221224621id_/http%3A//www.thehardfucked.com/policy) for the most accurate reproduction.*
 
 # The Hard Fucked PRIVACY POLICY
 
