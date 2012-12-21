@@ -1,0 +1,423 @@
+<!--The following is the downloaded HTML source of the lurnq.com privacy policy that was archived on 2012-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121221111245id_/http%3A//lurnq.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#" slick-uniqueid="3"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# lurnqapp: http://ogp.me/ns/fb/lurnqapp#">
+<meta name="keywords" content="Education, Learning, Knowledge, OER, High School, Engineering, LurnQ, LearnQueue, LearnQ, Lurn Q, Learn Q, Education, eLearning, Social Learning, Higher Education, K12, Schools, Teach, Learn, Teacher, Student, Online Courses, Online Education, Online Degree, OER, MOOC">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="content-language" content="en-US">
+<meta name="copyright" content="Technium Labs">
+<meta type="text/xml" charset="UTF-8">
+<link href="/site_media/css/main.css?v=1355313788" rel="stylesheet" type="text/css">
+<link href="/site_media/css/growler.css" rel="stylesheet" type="text/css">
+<link rel="icon" type="image/png" href="/site_media/img/favicon.png">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/site_media/js/mootools-core-1.4.4.js"></script>
+<script type="text/javascript" src="/site_media/js/mootools-more-1.4.0.1.js"></script>
+<script type="text/javascript" src="/site_media/js/common.js?v=1355753408"></script>
+<script type="text/javascript" src="/site_media/js/growler.js"></script>
+
+<title>LurnQ : "Personal Learning Assistant"</title>
+<script type="text/javascript">
+window.addEvents({
+	'domready': function() {
+		/* Load Images */
+		var loadingImages = new Asset.images(['/site_media/img/add_white.png', '/site_media/img/add_blue_loading.gif', '/site_media/img/add_green_loading.gif', '/site_media/img/check_white.png']);
+	/* Fetching URL details */
+	var windowURI = new URI(window.location.href);
+	var redirectURI = windowURI.getData('redirect_to');
+	var windowMsg = windowURI.getData('msg');
+	var winQuery = windowURI.get('query');
+		
+	/* Facebook API */
+	window.fbAsyncInit = function() {
+		FB.init({
+			appId : '136448016455274',
+			//appId : '458472007515039',
+			channelUrl : '//lurnq.com/fbchannelurl/',
+			status : true, 
+			cookie : true,
+			oauth: true,
+			xfbml : true,
+			frictionlessRequests : true
+		});
+
+		/* FB Login and Register */
+		$('facebookLoginEvent').addEvent('click', function() {
+			FB.login(function(response) {
+				if(response.authResponse) {
+					if(winQuery) {
+						window.location.href = window.location.href+'&facebook_connect=true';
+					}
+					else {
+						window.location.href = window.location.href+'?facebook_connect=true';
+					}
+				}
+			}, { scope: 'publish_actions, user_likes, email, user_about_me, user_birthday, user_education_history, user_hometown, user_interests, user_location, user_religion_politics, user_website, user_work_history' });
+		});
+		$$('.facebookButton').cloneEvents($('facebookLoginEvent'));
+	};
+	(function(d){
+		var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+		js = d.createElement('script'); js.id = id; js.async = false;
+		js.src = "//connect.facebook.net/en_US/all.js";
+		d.getElementsByTagName('head')[0].appendChild(js);
+	}(document));
+	
+	//hide notifications, profile and main tabs list for all logged in users
+	if($('headerNotificationsListContainer') !== null){
+		$(document.body).addEvent('click',function(event){ 
+			if( event.target.getParent('div#headerNotifications') !== null
+				|| event.target.getParent('div#mainTabs') !== null 
+				|| event.target.getParent('div#signInUp') !== null) {
+
+			}
+			else if(event.target.getParent('div#headerNotifications') === null && $('headerNotificationsListContainer').getStyle('display') !== 'none') {
+				$('headerNotificationsListContainer').hide();
+			}
+			else if(event.target.getParent('div#mainTabs') === null && $('tabTeachOptions').getStyle('display') !== 'none') {
+				$('tabTeachOptions').hide();
+			}
+			else if(event.target.getParent('div#mainTabs') === null && $('tabLearnOptions').getStyle('display') !== 'none') {
+				$('tabLearnOptions').hide();
+			}
+			else if(event.target.getParent('div#signInUp') === null && $('userOptions').getStyle('display') !== 'none') {
+				$('userOptions').hide();
+			}
+		});
+  	}
+
+  	/* Google Plus App Info */
+  	var clientId = '473988913520-6d3i15k62kdrl1g3794914d0r2egorvs.apps.googleusercontent.com';
+	var apiKey = 'AIzaSyAZhZN_sUd4WqTwBJQaOwNPoejuM0_sIQM';
+	var scopes = 'https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email  https://www.googleapis.com/auth/plus.me';
+	var validToken = true;
+
+	$$('.googleButton').addEvent('click',function(e){
+	  gapi.auth.authorize(
+	      {client_id: clientId, scope: scopes, immediate: false, approval_prompt: 'force', state: 'login'},function(authResult){
+	
+			//if user has consented
+			if(authResult){	      	
+				console.log(authResult);
+		      	//get access token
+		      	var token = authResult.access_token;
+
+		      	//get token info from google authorization server (https://developers.google.com/accounts/docs/OAuth2UserAgent)
+		      	var authRequest = gapi.client.request({
+		      		'path':'/oauth2/v1/tokeninfo',
+		      		'params' : {'access_token': token}
+		      	});
+
+		      	//check if the token is valid
+		      	authRequest.execute(function(resp){
+		      		if(resp['error']){
+		      			validToken = false;			   
+		      		}
+		      		else{
+			      		if(resp.audience === clientId){
+			      			validToken = true;
+			      		}
+		      		}
+		      	})
+
+		      	//if authorized token
+		      	if(validToken){
+		      		//google plus
+			      	// var request = gapi.client.request({
+			      	// 	'path':'/plus/v1/activities',
+			      	// 	'params': {'query': 'Google+', 'orderBy': 'best'}
+			      	// });
+					var request = gapi.client.request({
+						 'path' : '/oauth2/v2/userinfo'
+					})
+			      	request.execute(function(resp){
+			      		console.log(resp);
+			      	})
+			    }
+			}
+
+		});
+	  return false;
+	});
+
+	},
+	'keydown': function(event){
+		if(event.key == 'esc'){
+			
+				
+					$$('.loginRegisterOverlay').setStyle('display', 'none');
+				
+			
+			if($('headerNotificationsListContainer')){
+				$('headerNotificationsListContainer').setStyle('display', 'none');
+			}
+			if($('tabTeachOptions')){
+				$('tabTeachOptions').setStyle('display', 'none');
+			}
+			if($('userOptions')){
+				$('userOptions').setStyle('display', 'none');
+			}
+		}
+	}
+});
+</script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script></head>
+<body style="font-family: helvetica;">
+	<noscript><META HTTP-EQUIV="Refresh" CONTENT="0" URL="/nojavascriptpage/" /></noscript>
+	<div id="fb-root"></div>
+	<div id="fullStrip"></div>
+	<div class="clearfix"></div>
+	<div id="wrapper">
+		
+<div id="header">
+	<div id="logo">
+		<a href="/">
+			<div class="logo_name">
+				<span class="logo_name_first">Lurn</span><span class="logo_name_second">Q</span>
+			</div>
+			<div class="clearfix"></div>
+			<div class="logo_version">alpha</div>
+		</a>
+	</div>
+	
+	<div id="signInUp">
+		
+			
+				<div id="signIn" class="sign signIn">
+					<a href="javascript:void(0);">Login</a>
+				</div>
+			
+			<div id="signUp" class="sign">
+				<a href="/register/">Register</a>
+			</div>
+		
+	</div>
+	<div class="loginRegisterOverlay">
+		<div class="loginContainer">
+			<div class="loginContainerText">Login to LurnQ</div>
+			<div class="clearfix"></div>
+			<div class="loginUsingDjango">
+				<form method="POST" action="/login/" class="loginForm">
+					<div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="ZzdaibghPX0WG2DxZuzTMUHkjb2alQia"></div>
+					<div class="usernamePassword">
+						<div class="loginErrorMsg clearfix"></div>
+						<div class="inputBoxText">Email</div>
+						<div class="clearfix"></div>
+						<input type="text" name="username" class="loginUsername loginInfoInput" placeholder="Email Address">
+						<div class="clearfix"></div>
+						<div class="inputBoxText">Password</div>
+						<div class="clearfix"></div>
+						<input type="password" name="password" class="loginPassword loginInfoInput" placeholder="Password">
+						<input type="submit" class="submitLoginInfo blueButton" value="Login">
+						<div class="forgotPassword"><a href="/password_reset/">Forgot Password?</a></div>
+						<input type="hidden" value="" class="redirectTo" name="redirect_to">
+					</div>
+				</form>
+			</div>
+			<div class="orText">OR</div>
+			<div class="loginUsingAPI">
+				<div id="facebookButtonBig" class="facebookButton">
+					<div id="facebookIcon" class="facebookIcon">f</div>
+					<div class="facebookText">Login using Facebook</div>
+				</div>
+				<div class="clearfix"></div>				
+				<div class="twitterButton twitterLoginRegister">
+					<a href="/twitter/login/">
+						<div class="twitterIcon">t</div>
+						<div class="twitterText">Login using Twitter</div>
+					</a>
+				</div>	
+				<!--<div class='clearfix'></div>
+				<div class='googleButton googleLoginRegister'>
+					<div class='googleIcon'>G</div>
+					<div class='googleText'>Login using Google +</div>
+				</div>
+				<div class='clearfix'></div>
+				<div class='linkedinButton linkedinLoginRegister'>
+					<div class='linkedinIcon'>in</div>
+					<div class='linkedinText'>Login using LinkedIn</div>
+				</div>
+				-->		
+			</div>
+			<div class="signUpToday">New to LurnQ? <a href="/register/">Register today</a></div>
+		</div>
+	</div>
+</div>
+
+		<div class="clearfix"></div>
+		<div id="content">
+<!-- START PRIVACY POLICY CODE -->
+<style type="text/css">
+	.headings {
+		font-size: 15px;
+	    font-weight: bold;
+	    margin: 30px 0 5px;
+	}
+	#whatInfoWeCollect li{
+		float: none;
+	}
+</style>
+<div style="font-family:helvetica; width:600px; margin: 20px auto; font-size:14px; line-height: 24px;">
+	<div class="headings">What information do we collect?</div>
+	<div>
+		We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey, fill out a form or Create a lesson or opinion and interact with lessons and resources.  When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or Learning Interests.
+	</div>
+	<div class="clearfix"></div>
+	
+	<div class="headings">What do we use your information for?</div>
+	<div>
+		Any of the information we collect from you may be used in one of the following ways:
+		<ul id="whatInfoWeCollect" style="float: none !important; list-style: disc outside none !important; padding-left:40px !important;">
+			<li>To personalize your experience (your information helps us to better respond to your individual needs)</li>
+			<li>To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)</li>
+			<li>To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)</li>
+			<li>To administer a contest, promotion, survey or other site feature</li>
+			<li>To send periodic emails</li>
+			<li>The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.</li>
+		</ul>
+	</div>
+	<div class="clearfix"></div>
+
+	<div class="headings">How do we protect your information?</div>
+	<div> We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.</div> 
+	<div class="clearfix"></div> 
+
+	<div class="headings">Do we use cookies?</div>
+	<div>We do not use cookies.</div>
+	<div class="clearfix"></div> 
+
+	<div class="headings">Do we disclose any information to outside parties?</div>
+	<div>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</div> 
+	<div class="clearfix"></div> 	
+
+	<div class="headings">Your Consent </div>
+	<div> By using our site, you consent to our <a style="text-decoration:none; color:#3C3C3C;" href="http://www.freeprivacypolicy.com/" target="_blank">web site privacy policy</a>.</div> 
+	<div class="clearfix"></div> 
+	<div class="headings">Changes to our Privacy Policy</div>
+	<div class="clearfix"></div> 
+	<div>If we decide to change our privacy policy, we will post those changes on this page.</div>
+		<span style="font-size:11px;">This policy was last modified on 20th August 2012</span>
+	<div class="clearfix"></div> 
+
+
+	<div class="headings">Contacting Us</div> 
+	<div>If there are any questions regarding this privacy policy you may contact us using the information below.</div>
+	<div style="font-size: 11px;"> 
+		A 401 Galleria,<div class="clearfix"></div> Mumbai, Maharastra 400076, India<div class="clearfix"></div> info@technium.in<div class="clearfix"></div> +912242151347<div class="clearfix"></div> 
+	</div> 
+</div>
+	<!-- END PRIVACY POLICY CODE -->
+</div>
+		<div class="overlayElement">
+			<div class="overlayLoading"><img src="/site_media/img/ajax-loader.gif"><span>Loading Content</span></div>
+			<div class="overlayContainer"></div>
+			<div class="overlayElementClose"><img src="/site_media/img/close_16.png"></div>
+		</div>
+		<div id="anyLoading">
+			<div id="anyLoadingImg"><img src="/site_media/img/ajax-loader-black.gif"></div>
+			<div id="anyLoadingText">Loading...</div>
+		</div>
+		<div id="bugFeedContainer">
+			<div id="bugFeedInfoContainer">
+				<div id="bugFeedContainerClose"><img src="/site_media/img/close_grey.png"></div>
+				<div class="clearfix"></div>
+				<div class="bugFeedInfo">
+					<div id="bugFeedForm">
+						<div id="bugFeedFormHeading">Give us your valuable Feedback</div>
+						<div class="clearfix"></div>
+						<form id="bugReportFeedbackForm">
+							<div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="ZzdaibghPX0WG2DxZuzTMUHkjb2alQia"></div>
+							<input type="text" class="bugFeedInput" placeholder="Email Address">
+							<textarea type="text" class="bugFeedInput" placeholder="Feedback Details"></textarea>
+							<input type="submit" class="bugFeedSubmit blueButton" value="Submit">
+							<img class="budFeedFormSending" src="/site_media/img/ajax-loader.gif">
+							<div class="errorStatement">Some error occured, please try again.</div>
+						</form>
+					</div>
+					<div class="clearfix"></div>
+					<div class="resultBugFeed"></div>
+				</div>
+				<div class="clearfix"></div>
+				<div class="bugFeedInfoTriangle"></div>
+			</div>
+			<div class="clearfix"></div>
+			<div class="bugFeed">
+				<div id="bugFeedTitle-feedback" class="bugFeedTitle">Feedback</div>
+				<div class="clearfix"></div>
+				<div id="bugFeedTitle-bugreport" class="bugFeedTitle">Bug Report</div>
+			</div>
+		</div>
+	</div>
+	
+<div id="footer">
+	 <div class="footerContent">
+		  <div id="footer_nav_list_wrapper">
+		    <ul id="footer_nav_list">
+		      <li><a style="color:#333;" target="_blank" href="http://www.linkedin.com/company/2438579">About Us</a></li>
+		      <li><a style="color:#333;" target="_blank" href="http://www.edtech.ly">Blog</a></li>
+		      <li><a style="color:#333;" href="javascript:void(0);" class="bookmarkletPlugin">Bookmarklet</a></li>       
+		      <li><a style="color:#333;" target="_blank" href="/career/">Career</a></li>       
+		      <li><a style="color:#333;" target="_blank" href="/privacy/">Privacy</a></li>
+		    </ul>
+		  </div>
+		  <div class="clearfix"></div>
+		  <div id="footer_copyright_info"> 
+		    All rights reserved, Technium.in Copyright © 2012
+		  </div>
+		  <div id="socialMedia">
+			  	<span> Find us on:</span>
+			  	<a href="http://facebook.com/lurnq" target="_blank"><div id="facebookPage"></div></a>
+			  	<a href="http://twitter.com/lurnq" target="_blank"><div id="twitterPage"></div></a>
+			  	<a href="http://www.linkedin.com/company/2438579" target="_blank"><div id="linkedinPage"></div></a>
+		  </div>
+	 </div>
+</div>
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-30024693-1']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+  		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+
+	<div class="overlayDetailsContainer">
+		<div class="upNav nav"></div>
+		<div class="clearfix"></div>
+		<div class="overlayDetails">
+			<div class="overlayDetailsLoading">
+				<img src="/site_media/img/spinner.gif"><span>Loading Details</span>
+			</div>
+			<div class="overlayDetailsLoaded"></div>
+		</div>
+		<div class="clearfix"></div>
+		<div class="downNav nav"></div>
+	</div>
+	<div style="display:none">
+		<input type="hidden" id="inputFields">
+		<input type="hidden" id="submitLogin">
+		<input type="hidden" id="facebookLoginEvent">
+		<input type="hidden" id="showOverlayContainer">
+		<input type="hidden" id="addLibraryEvent">
+		<input type="hidden" id="recoAddEvent">
+		<input type="hidden" id="postFBLesson">
+		<input type="hidden" id="applyToolTip">
+		<input type="hidden" id="csrf" value="ZzdaibghPX0WG2DxZuzTMUHkjb2alQia">
+	</div>
+	<div class="tip-wrap">
+		<div class="tip-nav tip-top"></div>
+		<div class="clearfix"></div>
+		<div class="tip">
+			<div class="tip-title"></div>
+		</div>
+		<div class="clearfix"></div>
+		<div class="tip-nav tip-bottom"></div>
+	</div>
+
+
+
+
+</body></html>
