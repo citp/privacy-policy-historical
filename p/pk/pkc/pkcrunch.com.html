@@ -1,0 +1,1045 @@
+<!--The following is the downloaded HTML source of the pkcrunch.com privacy policy that was archived on 2012-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121221063312id_/http%3A//pkcrunch.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xmlns:x2="http://www.w3.org/2002/06/xhtml2" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="http://gmpg.org/xfn/11">
+<meta charset="UTF-8">
+ 
+<meta name="msvalidate.01" content="A83569D55596E1C8306CB29A92C5A6AB">
+<link rel="stylesheet" href="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/style.css" type="text/css" media="screen">
+<link rel="shortcut icon" href="">
+<link rel="shortcut icon" href="" type="image/x-icon">
+<meta name="generator" content="Magazine3 Framework Version 3.0">
+
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="PkCrunch RSS Feed" href="http://pkcrunch.com/feed/">
+
+	<link rel="pingback" href="http://pkcrunch.com/xmlrpc.php">
+
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="http://widgets.digg.com/buttons.js"></script><script type="text/javascript" src="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/js/jquery-1.4.4.min.js"></script>
+
+	<script type="text/javascript" src="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/js/ddsmoothmenu.js"></script> 
+
+    <script type="text/javascript" src="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/js/jquery.tools.min.js"></script>
+
+ <script type="text/javascript">
+
+var $ = jQuery.noConflict();
+
+$(document).ready(function() {
+//When page loads...
+
+	$(".tab_content").hide(); //Hide all content
+
+	$("ul.tabs li:first").addClass("active").show(); //Activate first tab
+
+	$(".tab_content:first").show(); //Show first tab content
+
+//On Click Event
+
+	$("ul.tabs li").click(function() {
+
+	$("ul.tabs li").removeClass("active"); //Remove any "active" class
+
+		$(this).addClass("active"); //Add "active" class to selected tab
+
+		$(".tab_content").hide(); //Hide all tab content
+
+		var activeTab = $(this).find("a").attr("href"); //Find the href attribute value to identify the active tab + content
+
+		$(activeTab).fadeIn(); //Fade in the active ID content
+
+		return false;
+
+	});
+
+});
+
+</script>
+
+ <script type="text/javascript">
+
+$(document).ready(function() {
+
+	//Tooltips
+
+	$(".tip_trigger").hover(function(){
+
+		tip = $(this).find('.tip');
+
+		tip.show(); //Show tooltip
+
+	}, function() {
+
+		tip.hide(); //Hide tooltip		  
+
+	}).mousemove(function(e) {
+
+		var mousex = e.pageX + 20; //Get X coodrinates
+
+		var mousey = e.pageY + 20; //Get Y coordinates
+
+		var tipWidth = tip.width(); //Find width of tooltip
+
+		var tipHeight = tip.height(); //Find height of tooltip
+
+		//Distance of element from the right edge of viewport
+
+		var tipVisX = $(window).width() - (mousex + tipWidth);
+
+		//Distance of element from the bottom of viewport
+
+		var tipVisY = $(window).height() - (mousey + tipHeight);
+
+		if ( tipVisX < 20 ) { //If tooltip exceeds the X coordinate of viewport
+
+			mousex = e.pageX - tipWidth - 20;
+
+		} if ( tipVisY < 20 ) { //If tooltip exceeds the Y coordinate of viewport
+
+			mousey = e.pageY - tipHeight - 20;
+
+		} 
+
+		tip.css({  top: mousey, left: mousex });
+
+	});
+
+});
+
+</script>
+
+	 <script type="text/javascript">
+
+ $(document).ready(function() {
+
+ $("div.scrollable").scrollable({
+		size: 3,
+
+		items: '#thumbs',   
+
+		hoverClass: 'hover',
+
+		speed: 400,
+
+		keyboard: false,
+
+		clickable: false
+
+	}).navigator();	
+	
+
+});
+
+</script>
+
+ <script type="text/javascript">   
+  // when the DOM is ready...        
+
+$(document).ready(function () {      
+
+  // load the ticker                 
+
+	createTicker();                    
+
+});                                  
+
+
+function createTicker(){             
+
+	// put all list elements within #ticker-area into array   
+
+	var tickerLIs = $("#ticker-area ul").children();          
+
+	tickerItems = new Array();                                
+
+	tickerLIs.each(function(el) {                             
+
+		tickerItems.push( jQuery(this).html() );                
+
+	});                                                       
+
+	i = 0                                                     
+
+	rotateTicker();                                           
+
+
+}         
+
+function rotateTicker(){                                    
+
+	if( i == tickerItems.length ){                            
+
+	  i = 0;                                                  
+
+
+	} 
+
+  tickerText = tickerItems[i];
+c = 0;                                                    
+
+typetext();                                               
+setTimeout( "rotateTicker()", 5000 );                     
+i++;                                                      
+
+}                                                           
+
+var isInTag = false;                                        
+
+function typetext() {	                                      
+
+	var thisChar = tickerText.substr(c, 1);                   
+
+	if( thisChar == '<' ){ isInTag = true; }                  
+
+	if( thisChar == '>' ){ isInTag = false; }                 
+
+	$('#ticker-area').html("&nbsp;" + tickerText.substr(0, c++));   
+
+	if(c < tickerText.length+1)                                     
+	if( isInTag ){                                                
+
+	typetext();                                                 
+
+		}else{                                                        
+
+			setTimeout("typetext()", 28);                               
+
+		}                                                             
+
+	else {                                                          
+
+		c = 1;                                                        
+
+		tickerText = "";                                              
+
+	}	                                                              
+
+}                                                                 
+
+  </script> 
+	
+ 
+  	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.2.7 - http://yoast.com/wordpress/seo/ -->
+<title>Privacy Policy - PkCrunch</title>
+<meta name="description" content="This privacy statement discloses the privacy practices for all pages and services offered by PkCrunch.com You do not have to give us personal information">
+<meta name="keywords" content=",">
+<link rel="canonical" href="http://pkcrunch.com/privacy-policy/">
+<meta name="robots" content="noodp,noydir">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<script type="text/javascript">
+(function() {
+	var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];
+	s.type = 'text/javascript';
+	s.async = true;
+	s.src = 'http://widgets.digg.com/buttons.js';
+	s1.parentNode.insertBefore(s, s1);
+})();
+</script>
+<link rel="alternate" type="application/rss+xml" title="PkCrunch » Privacy Policy Comments Feed" href="http://pkcrunch.com/privacy-policy/feed/">
+<link rel="stylesheet" id="gallery-buddy-styles-css" href="http://pkcrunch.com/wp-content/plugins/gallery-buddy/gallery-buddy.css?ver=1" type="text/css" media="all">
+<link rel="stylesheet" id="sharedaddy-css" href="http://pkcrunch.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.css?ver=0.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="myStyleSheets-css" href="http://pkcrunch.com/wp-content/plugins/yd-recent-posts-widget/css/yd_rp.css?ver=3.4.1" type="text/css" media="all">
+<script type="text/javascript" src="http://pkcrunch.com/wp-includes/js/comment-reply.js?ver=3.4.1"></script>
+<script type="text/javascript" src="http://pkcrunch.com/wp-includes/js/jquery/jquery.js?ver=1.7.2"></script>
+<script type="text/javascript" src="http://pkcrunch.com/wp-content/plugins/gallery-buddy/gallery-buddy.js?ver=1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://pkcrunch.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://pkcrunch.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 3.4.1">
+<link rel="shortlink" href="http://wp.me/P1vbKj-9Q">
+<script type="text/javascript">(function(){var po = document.createElement("script");po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(po, s);})();</script><link rel="stylesheet" type="text/css" href="http://pkcrunch.com/wp-content/plugins/wp-mashsocial-wigdet/cssstyles.css">
+
+<!-- Wordpress Popular Posts v2.2.1 -->
+<link rel="stylesheet" href="http://pkcrunch.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css" type="text/css" media="screen">
+<!-- End Wordpress Popular Posts v2.2.1 -->
+<!-- Wordpress Popular Posts v2.2.1 -->
+<script type="text/javascript" charset="utf-8">
+    /* <![CDATA[ */				
+	jQuery.post('http://pkcrunch.com/wp-admin/admin-ajax.php', {action: 'wpp_update', token: '79be559864', id: 610});
+    /* ]]> */
+</script>
+<!-- End Wordpress Popular Posts v2.2.1 -->
+            
+	<!-- WordPress Facebook Open Graph protocol plugin (WPFBOGP v1.2) http://rynoweb.com/wordpress-plugins/ -->
+	<meta property="fb:admins" content="100000825474504">
+	<meta property="fb:app_id" content="101689069936834">
+	<meta property="og:url" content="http://pkcrunch.com/privacy-policy/">
+	<meta property="og:title" content="Privacy Policy">
+	<meta property="og:site_name" content="PkCrunch">
+	<meta property="og:description" content="">
+	<meta property="og:type" content="website">
+	<meta property="og:image" content="http://pkcrunch.com/wp-content/uploads/2011/04/138.jpg">
+	<!-- // end wpfbogp -->
+
+  
+
+      <link href="http://fonts.googleapis.com/css?family=Arvo" rel="stylesheet" type="text/css">
+
+       <link href="http://fonts.googleapis.com/css?family=Molengo" rel="stylesheet" type="text/css">
+
+       <link href="http://fonts.googleapis.com/css?family=Droid+Serif:regular,bold&amp;subset=latin" rel="stylesheet" type="text/css">
+
+       <link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
+
+ 
+
+<link rel="canonical" href="http://pkcrunch.com/privacy-policy/">
+</head>
+
+<body>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '101689069936834', // App ID
+      channelUrl : 'www.pkcrunch.com', // Channel File
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      xfbml      : true  // parse XFBML
+    });
+
+    // Additional initialization code here
+  };
+
+  // Load the SDK Asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document));
+</script>
+
+
+<div id="wrapper">
+
+
+
+	<header>
+
+
+<div id="topmenu">
+
+<div id="topmenuleft">
+
+			<div id="topMenu" class="ddsmoothmenu"><ul id="menu-contact-us" class="menu"><li id="menu-item-4373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4373"><a href="http://pkcrunch.com/contact-us/">Contact us</a></li>
+<li id="menu-item-4374" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4374"><a href="http://pkcrunch.com/about/">About us</a></li>
+<li id="menu-item-10263" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-610 current_page_item menu-item-10263"><a href="http://pkcrunch.com/privacy-policy/">Privacy Policy</a></li>
+</ul></div>
+</div>
+
+<div id="topmenuright">
+
+ <ul>
+
+ 
+ </ul>
+
+</div>
+
+</div>
+
+	 
+
+     <div id="logowrap">
+
+     <div id="logo"><a href="http://pkcrunch.com"><img src="http://pkcrunch.com/wp-content/uploads/2011/10/Logo.jpg" alt""=""></a></div>
+
+     <div id="logohead">
+
+     <div id="headad">  
+
+     
+
+     </div>
+
+
+
+<!-- Place this tag in the <head> of your document-->
+<link href="https://plus.google.com/106754761276401708883" rel="publisher">
+
+<!-- Place this tag in the <head> of your document-->
+<link href="https://plus.google.com/106754761276401708883" rel="publisher"><script type="text/javascript">
+(function() 
+{var po = document.createElement("script");
+po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(po, s);
+})();</script>
+    
+
+      
+
+     <div id="cb"></div>
+
+     </div>    <div id="cb"></div>
+		<nav>
+
+	<div id="navigation">
+
+			<div id="nav" class="ddsmoothmenu1"><ul id="menu-videos" class="menu"><li id="menu-item-1366" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1366"><a href="http://www.pkcrunch.com">Home</a></li>
+<li id="menu-item-4411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4411"><a href="http://pkcrunch.com/category/smartphones/">smartphones</a></li>
+<li id="menu-item-4372" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4372"><a href="http://pkcrunch.com/category/REVIEWS-2/">Reviews</a></li>
+<li id="menu-item-1360" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1360"><a href="http://pkcrunch.com/category/video/">Video</a></li>
+<li id="menu-item-4413" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4413"><a href="http://pkcrunch.com/category/Gadgets-2/">Gadgets</a></li>
+<li id="menu-item-10484" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10484"><a href="http://pkcrunch.com/category/entertainment-2/celebs/">celebs</a></li>
+<li id="menu-item-10257" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10257"><a href="http://pkcrunch.com/category/entertainment-2/sport-entertainment-2/">Sports</a></li>
+<li id="menu-item-1361" class="menu-item menu-item-type-taxonomy menu-item-object-category arrow menu-item-1361"><a href="http://pkcrunch.com/category/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-10960" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10960"><a href="http://pkcrunch.com/category/news/pakistan/">Pakistan News</a></li>
+	<li id="menu-item-10961" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10961"><a href="http://pkcrunch.com/category/news/worldnews/">World News</a></li>
+</ul>
+</li>
+<li id="menu-item-1362" class="menu-item menu-item-type-taxonomy menu-item-object-category arrow menu-item-1362"><a href="http://pkcrunch.com/category/tech/">Tech</a>
+<ul class="sub-menu">
+	<li id="menu-item-10919" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10919"><a href="http://pkcrunch.com/category/science/">science</a></li>
+	<li id="menu-item-12675" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12675"><a href="http://pkcrunch.com/category/tech/tips-tricks/">Tips &amp; Tricks</a></li>
+	<li id="menu-item-13370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13370"><a href="http://pkcrunch.com/python/">Python</a></li>
+</ul>
+</li>
+<li id="menu-item-9945" class="menu-item menu-item-type-taxonomy menu-item-object-category arrow menu-item-9945"><a href="http://pkcrunch.com/category/entertainment-2/">Entertainment</a>
+<ul class="sub-menu">
+	<li id="menu-item-10306" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10306"><a href="http://pkcrunch.com/category/entertainment-2/bollywood-entertainment-2/">Bollywood News</a></li>
+	<li id="menu-item-4537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4537"><a href="http://pkcrunch.com/category/animal-antics/">ANIMAL ANTICS</a></li>
+	<li id="menu-item-4368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4368"><a href="http://pkcrunch.com/category/music">Music</a></li>
+	<li id="menu-item-11364" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11364"><a href="http://pkcrunch.com/category/entertainment-2/picture-entertainment-2/">Picture</a></li>
+</ul>
+</li>
+<li id="menu-item-10159" class="menu-item menu-item-type-custom menu-item-object-custom arrow menu-item-10159"><a href="http://pkcrunch.com/category/onlinemovie/">online movie</a>
+<ul class="sub-menu">
+	<li id="menu-item-10166" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10166"><a href="http://pkcrunch.com/category/onlinemovie/bollywood-movie/">Bollywood Movie</a></li>
+	<li id="menu-item-10167" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10167"><a href="http://pkcrunch.com/category/onlinemovie/hollywood-movie/">Hollywood Movie</a></li>
+</ul>
+</li>
+</ul></div>
+</div>
+
+		</nav>
+
+
+
+	
+ 
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19773119-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+	</div></header>
+<section>    
+
+  <div id="headgal">
+
+  	<div id="featured" style="padding-left: 14px !important;">
+
+	<a class="prevPage browse left"></a>
+
+		<div class="scrollable" style="height: 60px !important">	
+
+		<div id="thumbs"> 	
+
+  
+
+   
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://pkcrunch.com/2012/12/16/must-see-real-pakistani-super-man-video/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2012/12/superman-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="superman" title="superman"></a>	</span>		
+
+ 					<h2><a href="http://pkcrunch.com/2012/12/16/must-see-real-pakistani-super-man-video/" title="Must see real Pakistani  Super Man-video">Must see real Pakistani  Super Man-video</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://pkcrunch.com/2012/12/16/hasb-e-haal-13th-december-2012/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2012/12/72-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="7" title="7"></a>	</span>		
+
+ 					<h2><a href="http://pkcrunch.com/2012/12/16/hasb-e-haal-13th-december-2012/" title="Hasb e Haal – 13th December 2012">Hasb e Haal – 13th December 2012</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://pkcrunch.com/2012/12/16/supreme-court-issues-contempt-court-notice-to-altaf-hussain/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2012/12/62-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="6" title="6"></a>	</span>		
+
+ 					<h2><a href="http://pkcrunch.com/2012/12/16/supreme-court-issues-contempt-court-notice-to-altaf-hussain/" title="Supreme Court Issues Contempt Court Notice to Altaf Hussain">Supreme Court Issues Contempt Court Notice to Altaf Hussain</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://pkcrunch.com/2012/12/16/%d9%85%d9%84%d8%aa%d8%a7%d9%86-%d9%85%db%8c%da%ba-%d9%be%db%8c%d9%be%d9%84%d8%b2-%d9%be%d8%a7%d8%b1%d9%b9%db%8c-%da%a9%db%92-%d8%ac%d9%84%d8%b3%db%92-%d9%85%db%8c%da%ba-%d8%af%db%8c%da%af%db%8c%da%ba/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2012/12/54-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="5" title="5"></a>	</span>		
+
+ 					<h2><a href="http://pkcrunch.com/2012/12/16/%d9%85%d9%84%d8%aa%d8%a7%d9%86-%d9%85%db%8c%da%ba-%d9%be%db%8c%d9%be%d9%84%d8%b2-%d9%be%d8%a7%d8%b1%d9%b9%db%8c-%da%a9%db%92-%d8%ac%d9%84%d8%b3%db%92-%d9%85%db%8c%da%ba-%d8%af%db%8c%da%af%db%8c%da%ba/" title="ملتان میں پیپلز پارٹی کے جلسے میں دیگیں کھلنے سے پہلے ہی لٹ گئیں">ملتان میں پیپلز پارٹی کے جلسے میں دیگیں کھلنے سے پہلے ہی لٹ گئیں</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://pkcrunch.com/2012/12/16/people-will-forget-zulfiqar-ali-bhutto-campaign-after-tsunami-imran-khan-full-speech/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2012/12/44-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="4" title="4"></a>	</span>		
+
+ 					<h2><a href="http://pkcrunch.com/2012/12/16/people-will-forget-zulfiqar-ali-bhutto-campaign-after-tsunami-imran-khan-full-speech/" title="People will forget Zulfiqar Ali Bhutto Campaign after Tsunami – Imran Khan Full Speech">People will forget Zulfiqar Ali Bhutto Campaign after Tsunami – Imran Khan Full Speech</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://pkcrunch.com/2012/12/16/to-the-point-with-shahzeb-khanzada-punjab-govt-65-responsible-for-curroption-14th-december-2012/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2012/12/35-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="3" title="3"></a>	</span>		
+
+ 					<h2><a href="http://pkcrunch.com/2012/12/16/to-the-point-with-shahzeb-khanzada-punjab-govt-65-responsible-for-curroption-14th-december-2012/" title="To the Point with Shahzeb Khanzada [Punjab Govt 65% Responsible for Curroption] – 14th December 2012">To the Point with Shahzeb Khanzada [Punjab Govt 65% Responsible for Curroption] – 14th December 2012</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://pkcrunch.com/2012/12/16/on-the-front-dr-tahir-ul-qadri-exclusive-15th-december-2012/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2012/12/27-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="2" title="2"></a>	</span>		
+
+ 					<h2><a href="http://pkcrunch.com/2012/12/16/on-the-front-dr-tahir-ul-qadri-exclusive-15th-december-2012/" title="On The Front (Dr.Tahir ul Qadri Exclusive) – 15th December 2012">On The Front (Dr.Tahir ul Qadri Exclusive) – 15th December 2012</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://pkcrunch.com/2012/12/16/hasb-e-haal-15th-december-2012/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2012/12/112-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="1" title="1"></a>	</span>		
+
+ 					<h2><a href="http://pkcrunch.com/2012/12/16/hasb-e-haal-15th-december-2012/" title="Hasb e Haal – 15th December 2012">Hasb e Haal – 15th December 2012</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://pkcrunch.com/2012/12/16/cutest-arguments-between-two-cute-children-must-watch/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2012/12/cute-arguments-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="cute arguments" title="cute arguments"></a>	</span>		
+
+ 					<h2><a href="http://pkcrunch.com/2012/12/16/cutest-arguments-between-two-cute-children-must-watch/" title="cutest arguments between two cute children-must watch">cutest arguments between two cute children-must watch</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://pkcrunch.com/2012/12/16/pakistani-politician-exposed-what-a-shame-must-see-video/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2012/12/politician-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="politician" title="politician"></a>	</span>		
+
+ 					<h2><a href="http://pkcrunch.com/2012/12/16/pakistani-politician-exposed-what-a-shame-must-see-video/" title="Pakistani politician Exposed What a Shame-must see video">Pakistani politician Exposed What a Shame-must see video</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://pkcrunch.com/2012/12/14/firing-footage-of-shooting-of-three-people-by-karzais-gaurd-as-they-came-near-to-talk-in-convoy/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2012/12/Karzai-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="Karzai" title="Karzai"></a>	</span>		
+
+ 					<h2><a href="http://pkcrunch.com/2012/12/14/firing-footage-of-shooting-of-three-people-by-karzais-gaurd-as-they-came-near-to-talk-in-convoy/" title="Firing footage of shooting of three people by Karzai’s Gaurd as they came near to talk in convoy">Firing footage of shooting of three people by Karzai’s Gaurd as they came near to talk in convoy</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://pkcrunch.com/2012/12/14/jahalat-key-inteha-motorcyce-spraying-water-at-rail-video/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2012/12/Jahalat-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="Jahalat" title="Jahalat"></a>	</span>		
+
+ 					<h2><a href="http://pkcrunch.com/2012/12/14/jahalat-key-inteha-motorcyce-spraying-water-at-rail-video/" title="Jahalat key Inteha-motorcyce spraying water at rail video">Jahalat key Inteha-motorcyce spraying water at rail video</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  	 
+
+			</div><!-- /#thumbs -->			 
+
+		</div> <!-- /#scrollable -->
+
+		<a class="nextPage browse right"></a>
+
+	<div id="theticker">
+
+    <div id="m3ticker">
+
+       <div id="tickimg">        <img src="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/images/youarehere.png" alt="">    </div>  
+
+          <div id="m3crumbs">	<div id="crumbs"><a href="http://pkcrunch.com">Home</a> » <span class="current">Privacy Policy</span></div></div>
+
+   <div id="cb"></div>
+
+    </div>  <div class="navi"></div>  <div id="cb"></div>
+
+    </div>
+
+    </div><!-- /#featured -->        
+
+ <div id="content">	
+
+	
+
+
+		<article class="post">
+
+			<h2>  Privacy Policy</h2>
+
+			<div class="pmetasingle"> Posted By <b><a href="http://pkcrunch.com/author/admin/" title="View all posts by admin">admin </a></b>  
+
+            	       On Friday, April 22nd, 2011
+
+
+ With <a href="#comments"> 0 Comments</a>  
+
+
+
+        
+
+            </div>
+
+			<div class="entry">
+
+			  <p>This privacy statement discloses the privacy practices for all pages and services offered by PkCrunch.com<br>
+You do not have to give us personal information to visit PkCrunch.com If you choose to provide us with additional information through an e-mail message, inquiry form, comments, etc., we will only maintain the information as long as needed to respond to your question, inquiry, or to fulfill the stated purpose of the communication. Except for authorized law enforcement investigations, we do not give, share, sell or transfer any personal information to a third party.<br>
+» <strong>Website Traffic Analysis Software</strong><br>
+For site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. We also monitor our traffic to analyze visitors’s information, such as, but not limited to, operating system, browsers, screen resolutions and similar.<br>
+In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual.<br>
+»<strong> E-mail Newsletters</strong><br>
+If users wish to subscribe to our e-mail newsletters, we ask for contact information. Our Daily Newsletter is powered by FeedBurner, however we use in-house solution for weekly Newsletter. We/Feedburner use information submitted by you in the same manner as we use contact information described above. Recipients of our newsletters can unsubscribe using the instructions listed at the end of the e-mail newsletter.<br>
+<strong>Third Party Advertising Partners</strong><br>
+All users of PkCrunch.com must keep this in mind that third parties may be placing and reading cookies on your browsers, or using web beacons to collect information as a result of ad serving on PkCrunch.com<br>
+For, instance one of our partners, Google uses the DoubleClick DART cookie on PkCrunch.com displaying AdSense for content ads. Similarly, other advertising partners may use their respective cookies to track advertising stats.<br>
+»<strong> External Links</strong><br>
+Our web sites contain links to other sites. PkCrunch.com is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personal information.<br>
+Note: This Page can get updated any time, without an prior noitce, so keep checking back.</p>
+
+			</div>
+
+			
+			<div class="ptags"></div>
+
+		</article>
+
+	
+<div id="related" class="clearfix">
+
+	<div id="sharemark">
+
+<div style="float: left;"><h1>Share This &gt; </h1></div>
+
+ <div class="share"> <ul>   <li>  <a href="http://delicious.com/save" onclick="window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent('http://pkcrunch.com/privacy-policy/')+'&amp;title='+encodeURIComponent('Privacy Policy'),'delicious', 'toolbar=no,width=550,height=550'); return false;"> 
+
+
+
+                        <img src="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/images/delicious.png" alt="Add to Delicious" border="0"></a> 
+
+                      </li>  
+
+                      <li>
+
+                      <a href="javascript:var d=document,f='http://www.facebook.com/share',l=d.location,e=encodeURIComponent,p='.php?src=bm&amp;v=4&amp;i=1245532349&amp;u='+e(l.href)+'&amp;t='+e(d.title);1;try{if (!/^(.*\.)?facebook\.[^.]*$/.test(l.host))throw(0);share_internal_bookmarklet(p)}catch(z) {a=function() {if (!window.open(f+'r'+p,'sharer','toolbar=0,status=0,resizable=1,width=626,height=436'))l.href=f+p};if (/Firefox/.test(navigator.userAgent))setTimeout(a,0);else{a()}}void(0)" onclick="return wait_for_load(this, event, function() { return false });" id="share_bookmark" title="Share on Facebook">
+
+                        <img src="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/images/facebookicon.png" border="0"></a>
+
+                      </li>
+
+                      <li>
+
+                      <a href="http://friendfeed.com/?url=http://pkcrunch.com/privacy-policy/&amp;title=Privacy Policy" target="_blank">
+
+                        <img src="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/images/friendfeed.png" alt="Share on FriendFeed" border="0"></a> </li>
+
+                                          <li>
+
+
+
+                      <a href='javascript:(function(){var a=window,b=document,c=encodeURIComponent,d=a.open("http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk="+c(b.location)+"&amp;title="+c(b.title),"bkmk_popup","left="+((a.screenX||a.screenLeft)+10)+",top="+((a.screenY||a.screenTop)+10)+",height=420px,width=550px,resizable=1,alwaysRaised=1");a.setTimeout(function(){d.focus()},300)})();'> 
+
+
+
+                        <img src="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/images/google.png" border="0"> </a>
+
+
+
+                      </li>
+
+
+
+                      
+
+
+
+               <li><a href="http://digg.com/submit?phase=2&amp;url=http://pkcrunch.com/privacy-policy/&amp;title=Privacy Policy"><img src="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/images/digg.png" alt="Digg"></a></li>
+
+
+
+                        <li><a href="http://twitter.com/home?status=Currently reading http://pkcrunch.com/privacy-policy/"><img src="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/images/twittericon.png" alt="" width="32px" height="32px"></a></li>
+
+
+
+                      <li>  
+
+
+
+                      <a href="http://www.reddit.com/submit" onclick="window.location = 'http://www.reddit.com/submit?url=' + encodeURIComponent(window.location); return false"> 
+
+
+
+                        <img src="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/images/reddit.png" alt="submit to reddit" border="0"> </a>
+
+
+
+                      </li>
+
+
+
+                   
+
+
+
+                      <li>
+
+
+
+                      <a href="javascript:location.href='http://www.myspace.com/Modules/PostTo/Pages/?c='+encodeURIComponent(location.href)+'&amp;t='+encodeURIComponent(document.title)"> 
+
+
+
+                        <img src="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/images/myspace.png" border="0"> </a>
+
+
+
+                      </li>
+
+
+
+                     
+
+                     
+
+                      <li>   
+
+
+
+                      <a href="http://www.stumbleupon.com/submit?url=http://pkcrunch.com/privacy-policy/&amp;title=Privacy Policy">
+
+
+
+                        <img src="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/images/stumbleupon.png" border="0"></a>    
+
+                      </li>
+
+                      <li>   
+
+                      <a href="javascript:void(document.location='http://technorati.com/faves?sub=favthis&amp;add='+escape(document.location))">
+
+                        <img src="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/images/technorati.png" border="0"></a> 
+
+                      </li>
+
+                        <li>   
+
+                      <a href="RSS">
+
+                        <img src="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/images/rssiconsingle.png" border="0"></a> 
+
+                      </li>            </ul>
+
+        </div>
+
+	<div id="cb"></div>
+
+</div>
+
+</div> <div id="cb"></div>
+
+		
+<!-- You can start editing here. --> 
+
+<div class="comments-box"> <a name="comments" id="comments"></a>
+
+  
+  
+  <!-- If comments are open, but there are no comments. -->
+
+  
+  
+     	 
+
+  <div id="respond">     
+
+    <h2>Leave a comment</h2>
+
+    <div class="cancel-comment-reply"> <small>
+
+      <a rel="nofollow" id="cancel-comment-reply-link" href="/privacy-policy/#respond" style="display:none;">Click here to cancel reply.</a>
+      </small> </div>
+
+    
+    <form action="http://pkcrunch.com/wp-comments-post.php" method="post" id="commentform">
+
+      
+      <p>
+
+        <input class="author" type="text" value="Your Name..." onclick="this.value='';" name="author" id="author" size="22" tabindex="1">
+
+        <label for="author"><small>
+
+        (Required)
+        </small></label>
+
+      </p>
+
+      <p>
+
+        <input class="email" type="text" value="Your Email..." onclick="this.value='';" name="email" id="email" size="22" tabindex="2">
+
+        <label for="email"><small>(Will not be published)
+
+         (Required)
+        </small></label>
+
+      </p>
+
+      <p>
+
+        <input class="url" type="text" value="Your Website..." onclick="this.value='';" name="url" id="url" size="22" tabindex="3">
+
+        <label for="url"><small>(Optional)</small></label>
+
+      </p>
+
+      
+
+
+      <p>
+
+        <textarea name="comment" id="comment" tabindex="4"></textarea>
+
+      </p>
+
+           <p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href="" title=""&gt; &lt;abbr title=""&gt; &lt;acronym title=""&gt; &lt;b&gt; &lt;blockquote cite=""&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=""&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=""&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>
+
+      <p>
+
+        <input class="submit" name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment">
+
+        <input type="hidden" name="comment_post_ID" value="610" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+
+      </p>
+
+      <p class="comment-subscription-form"><input type="checkbox" name="subscribe_comments" id="subscribe_comments" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;"> <label class="subscribe-label" id="subscribe-label" for="subscribe_comments">Notify me of follow-up comments by email.</label></p><p class="comment-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;"> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog">Notify me of new posts by email.</label></p>
+    </form>
+
+    
+  </div>
+
+  
+</div>
+
+
+ </div>  
+
+     </div><!-- end #content -->
+
+
+
+    <aside>
+ 
+
+	
+  
+
+			<div id="sidebar">
+
+
+
+		
+<!--begin of MashSocial Widget--> 
+<div style="margin-bottom:10px;">
+<div id="mashsocial" style="width:270px;"> <!-- MashSocial  Widget -->
+
+
+<!-- FB -->
+	<div class="mashfb-likebox" style="background: #FFF;"> 
+		<iframe src="//www.facebook.com/plugins/like.php?href=https://facebook.com/pkcrunch&amp;send=false&amp;layout=standard&amp;width=260&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=80&amp;appId=234513819928295" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:80px;"></iframe>
+	</div>
+	
+
+<!-- twitter -->
+	<div class="mashtwitter" style="background: #EEF9FD;"> 
+        	<iframe title="" style="width: 300px; height: 20px;" class="twitter-follow-button" src="http://platform.twitter.com/widgets/follow_button.html#_=1319978796351&amp;align=&amp;button=blue&amp;id=twitter_tweet_button_0&amp;lang=en&amp;link_color=&amp;screen_name=pkcrunch&amp;show_count=&amp;show_screen_name=&amp;text_color=" frameborder="0" scrolling="no"></iframe>
+	</div>
+	
+
+
+ 
+
+
+
+
+
+		
+			<div class="section nrelate-related-widget">
+			</div></div><!-- Wordpress Popular Posts Plugin v2.2.1 [W] [daily] [custom] -->
+<div class="section popular-posts">
+<div id="sidebartitlewrapper"><h3>Popular Posts</h3></div><div class="sectioncont"><ul>
+<li><a href="http://pkcrunch.com/2012/08/11/kristen-stewart-cheats-on-rob-with-rupert-sanders-photos-revealed-online/" title="Kristen Stewart Cheats On Rob With Rupert Sanders; Photos Revealed Online"><span class="wpp-post-title">Kristen Stewart Cheats On Rob With …</span></a>        <a href="http://pkcrunch.com/2012/08/11/kristen-stewart-cheats-on-rob-with-rupert-sanders-photos-revealed-online/" title="Kristen Stewart Cheats On Rob With Rupert Sanders; Photos Revealed Online"><img width="150" height="150" src="http://pkcrunch.com/wp-content/uploads/2012/08/kristen-stewart-cheating-2-685x778-150x150.jpg" class="wpp-thumbnail wp-post-image" alt="Kristen Stewart Cheats On Rob With Rupert Sanders; Photos Revealed Online" title="Kristen Stewart Cheats On Rob With Rupert Sanders; Photos Revealed Online"></a></li>
+<li><a href="http://pkcrunch.com/2012/09/12/meher-bukharis-pc-hacked-by-india-hacker-leaked-photo/" title="Meher Bukhari’s PC Hacked by india Hacker, Leaked [Photo]"><span class="wpp-post-title">Meher Bukhari’s PC Hacked by india …</span></a>        <a href="http://pkcrunch.com/2012/09/12/meher-bukharis-pc-hacked-by-india-hacker-leaked-photo/" title="Meher Bukhari’s PC Hacked by india Hacker, Leaked [Photo]"><img width="150" height="150" src="http://pkcrunch.com/wp-content/uploads/2012/09/Meher-Bukhari’s-PC-Hacked-photo-7-150x150.jpg" class="wpp-thumbnail wp-post-image" alt="Meher Bukhari’s PC Hacked by india Hacker, Leaked [Photo]" title="Meher Bukhari’s PC Hacked by india Hacker, Leaked [Photo]"></a></li>
+<li><a href="http://pkcrunch.com/2012/12/14/firing-footage-of-shooting-of-three-people-by-karzais-gaurd-as-they-came-near-to-talk-in-convoy/" title="Firing footage of shooting of three people by Karzai’s Gaurd as they came near to talk in convoy"><span class="wpp-post-title">Firing footage of shooting of three…</span></a>        <a href="http://pkcrunch.com/2012/12/14/firing-footage-of-shooting-of-three-people-by-karzais-gaurd-as-they-came-near-to-talk-in-convoy/" title="Firing footage of shooting of three people by Karzai’s Gaurd as they came near to talk in convoy"><img width="150" height="150" src="http://pkcrunch.com/wp-content/uploads/2012/12/Karzai-150x150.jpg" class="wpp-thumbnail wp-post-image" alt="Firing footage of shooting of three people by Karzai’s Gaurd as they came near to talk in convoy" title="Firing footage of shooting of three people by Karzai’s Gaurd as they came near to talk in convoy"></a></li>
+<li><a href="http://pkcrunch.com/2012/08/24/megan-fox-is-pregnant-photos-revealed-online/" title="Megan Fox is Pregnant, Photos Revealed Online"><span class="wpp-post-title">Megan Fox is Pregnant, Photos Revea…</span></a>        <a href="http://pkcrunch.com/2012/08/24/megan-fox-is-pregnant-photos-revealed-online/" title="Megan Fox is Pregnant, Photos Revealed Online"><img width="150" height="150" src="http://pkcrunch.com/wp-content/uploads/2012/08/Megan-Fox-Pregnant-150x150.jpg" class="wpp-thumbnail wp-post-image" alt="Megan Fox is Pregnant, Photos Revealed Online" title="Megan Fox is Pregnant, Photos Revealed Online"></a></li>
+<li><a href="http://pkcrunch.com/2012/12/16/must-see-real-pakistani-super-man-video/" title="Must see real Pakistani  Super Man-video"><span class="wpp-post-title">Must see real Pakistani  Super Man-…</span></a>        <a href="http://pkcrunch.com/2012/12/16/must-see-real-pakistani-super-man-video/" title="Must see real Pakistani  Super Man-video"><img width="120" height="90" src="http://pkcrunch.com/wp-content/uploads/2012/12/superman.jpg" class="wpp-thumbnail wp-post-image" alt="Must see real Pakistani  Super Man-video" title="Must see real Pakistani  Super Man-video"></a></li>
+<li><a href="http://pkcrunch.com/2012/11/02/oldest-woman-of-world-a-chinese-woman-born-in-1885-and-still-alive-after-127-year-old/" title="Oldest woman of world: A Chinese woman born in 1885 and still alive after 127 year of age"><span class="wpp-post-title">Oldest woman of world: A Chinese wo…</span></a>        <a href="http://pkcrunch.com/2012/11/02/oldest-woman-of-world-a-chinese-woman-born-in-1885-and-still-alive-after-127-year-old/" title="Oldest woman of world: A Chinese woman born in 1885 and still alive after 127 year of age"><img width="150" height="150" src="http://pkcrunch.com/wp-content/uploads/2012/11/Oldest-woman-of-world-150x150.jpg" class="wpp-thumbnail wp-post-image" alt="Oldest woman of world: A Chinese woman born in 1885 and still alive after 127 year of age" title="Oldest woman of world: A Chinese woman born in 1885 and still alive after 127 year of age"></a></li>
+</ul>
+</div></div>
+<!-- End Wordpress Popular Posts Plugin v2.2.1 -->
+
+
+
+
+
+
+
+
+			</div><!-- end #r-sidebar -->
+
+
+
+		</div></aside>  
+
+	</section>
+
+</div><!-- #wrapper -->
+
+	<footer>
+
+   
+      <div id="fotbot">
+
+      <div class="fotlogoleft"> 
+
+        <div class="fotcopy">
+ <font color="Black"> © 2012 - All Rights Reserved</font> 
+   
+
+        </div>     
+
+		  </div>
+
+	   	<div class="fotlogoright">
+
+
+
+
+
+	</div></div></footer>
+
+<!--
+<p style="text-align:center" class="yd_linkware"><small><a href="http://www.yann.com/en/wp-plugins/yd-recent-posts-widget">Featuring Recent Posts WordPress Widget development by YD</a></small></p>
+--><script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2012Decaa"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://pkcrunch.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.4.1"></script>
+	<div style="display:none">
+	</div>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201251"></script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=101689069936834";
+
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+	<script src="http://stats.wordpress.com/e-201251.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:1.7',blog:'22209659',post:'610'});
+	var load_cmc = function(){linktracker_init(22209659,610,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script>
+
+
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Served from: pkcrunch.com @ 2012-12-21 06:33:12 --></body></html>
