@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jeffherring.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526111335id_/http%3A//jeffherring.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeffherring.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221082645id_/http%3A//jeffherring.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — Article Marketing – Articles & Videos on Article Marketing – Jeff Herring's Blog
 
 #### What information does Mustang Marketing LLC collect and how do we collect it?
 
