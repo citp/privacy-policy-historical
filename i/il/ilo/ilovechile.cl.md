@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ilovechile.cl privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614203951id_/http%3A//ilovechile.cl/awpcp/i-love-chile/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovechile.cl privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221183341id_/http%3A//ilovechile.cl/i-love-chile/privacy-policy) for the most accurate reproduction.*
 
-# I Love Chile Magazine, Chile's Local Info in English | Privacy Policy - I Love Chile Magazine, Chile's Local Info in English
+# I Love Chile | Privacy Policy - I Love Chile
 
 **Your privacy**
 
