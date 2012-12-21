@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the clearbooks.co.uk privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629031819id_/http%3A//www.clearbooks.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearbooks.co.uk privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221085500id_/http%3A//www.clearbooks.co.uk/privacy) for the most accurate reproduction.*
 
-# Clear Books Privacy Policy » Clear Books | Online Accounting to free your time
+# Privacy « Small Business Cloud Software – Online Accounting, Payroll
 
 **At Clear Books we recognise the importance of your privacy. This policy outlines the information we collect, how we use it and how we safeguard your information.**
 
 Clear Books may be required to revise this Privacy Policy in the future to comply with any applicable European regulations, in order to utilise new technologies or to improve your Clear Books experience, so please check back periodically.
 
-This Privacy Policy forms part of, and should be read in conjuction with, our Terms and Conditions. Please [click here](https://web.archive.org/terms-and-conditions/) to access our Terms and Conditions.
+This Privacy Policy forms part of, and should be read in conjuction with, our [Terms and Conditions](http://www.clearbooksltd.com/terms/).
 
 ### When you access Clear Books
 
-Clear Books uses [cookies](https://web.archive.org/privacy/terms/) to store and collect information about your usage of the Website in order to enhance your online experience and to help us improve the quality of our services.
+Clear Books uses [cookies](http://www.clearbooksltd.com/cookies/) to store and collect information about your usage of the Website in order to enhance your online experience and to help us improve the quality of our services.
 
-When you access Clear Books, your computer automatically sends us information such as the URL on our Website that you have visited, your [IP address](https://web.archive.org/privacy/terms/), your browser type and language, and the date and time of your request.
+When you access Clear Books, your computer automatically sends us information such as the URL on our Website that you have visited, your [IP address](http://www.clearbooksltd.com/privacy/terms/), your browser type and language, and the date and time of your request.
 
 ### When you sign up to Clear Books
 
 Clear Books collects personal information when you register on the Website. Your information will be stored confidentially by us and only used by Clear Books in order to provide you with access to our products, services and information that we believe will interest you. Your personal details will never be passed on to any other companies or third parties including affiliates and will never be added to any third party mailing lists or databases unless you opt in to do so.
 
-Clear Books may also use information about our users in statistical aggregate form. This is [non personal information](https://web.archive.org/privacy/terms/) and simply refers to information such as the number of registrations, traffic patterns and Website user trends.
+Clear Books may also use information about our users in statistical aggregate form. This is non personal information and simply refers to information such as the number of registrations, traffic patterns and Website user trends.
 
 ### Opt in
 
@@ -60,6 +60,18 @@ Clear Books uses Fubra’s secure server cluster situated in a secure data centr
 
 As required by law Fubra is registered on the public register of data controllers and store and process all data in accordance with all UK legislation. Fubra is registered with the following number: Z5193400
 
-### Contacting Clear Books
+### What is Personal Information?
 
-If you have any questions about this privacy statement, the practices of this Website, or your dealings with this Website, please [contact us](https://web.archive.org/web/20120629031819id_/http%3A//www.clearbooks.co.uk/support/about/contact-us/).
+Personal information is information you provide to us which personally identifies you including your name, address and e-mail address.
+
+### What is Non Personal Information?
+
+Non personal information is collected and recorded about users when they use the Website. This information is collected into groups so that it no longer reflects or represents any individual user and is used purely for statistical purposes.
+
+### What is an IP address?
+
+Each Internet connection is identified by a unique address which is referred to as an IP address (Internet Protocol address).
+
+An IP address is made up of four numbers, separated by dots, for example: 87.124.10.1. This address allows any website visitor to be identified with the co-operation of the relevant Internet Service Provider (ISP). In practice an ISP would not give out this information because they would be in breach of the Data Protection Act. You should be aware that it is technically possible to connect an IP with a user with the help of a court order and the relevant ISP.
+
+Some ISPs publish the name of the company or individual who uses the connection which allows anyone to see who is using that IP from central registries held by R.I.P.E. and other Regional Internet Registries (RIR). You can check if your IP address is listed using the whois service provided by all RIRs.
