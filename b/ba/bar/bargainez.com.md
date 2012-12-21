@@ -1,53 +1,114 @@
-> *The following text is extracted and transformed from the bargainez.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123170310id_/http%3A//www.bargainez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainez.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221123639id_/http%3A//bargainez.com/help/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy - BargainEZ
 
-**Privacy Statement**
+* * *
 
-We are committed to safeguarding your privacy online. This privacy policy applies to your information that we collect and receive; it does not apply to practices of businesses that we do not own or control or people we do not employ. At no time will we sell your information or release your personally-identifiable data without your permission. You can visit this Site without revealing who you are or providing any personal information about yourself.
+* * *
 
-By using this Site, you agree to the terms of this privacy policy. Please read the following policy to understand how your personal information will be treated as you use our services. The following discloses our information gathering and dissemination practices.
+BargainEZ.com ("The Site") is extremely committed to the privacy of its members and visitors. The Site and its owner and operator, Intersynq Inc. ("Intersynq"), with offices at 244 5th Ave, P286, New York, NY 10001, sets forth this Privacy Policy ("Privacy Policy") that explains how we guard and make use of your personal information ("Personal Information").
 
-This Site contains links to other sites. These include links to resources in related topics and third-party sites that offer other related products. If you visit another website through a link on our site, please consult the privacy policy of the website you are visiting. We are not responsible for the privacy practices or the content of other websites that you may visit.
+This privacy policy applies to all of The Site visitors, members and affiliates, whether businesses or individuals. If you do not agree to our Privacy Policy you may not use The Website.
 
-**Browsing the Site**
+### Information we collect
 
-If you browse through the Site without entering any personal data, we will gather and store certain information about your visit. This information does not identify you personally and cannot be linked back to you unless you decide at some point to identify yourself. If you are only browsing, we collect the following information: IP address, the type of browser and operating system used to access our site, the date and time you access our site, the pages you visit (click-through), and if you linked to our website from another website, the address of that website as well as additional information related to your visit. We use your IP address to help diagnose problems with our server, and to administer the Site.
+During your visit to The Site and your registration with The Site (sign up, sign in), we may collect any of the following information:
 
-**Information Collected**
+  
 
-We collect the email addresses of consumers who communicate with us or through our authorized vendors via email.
 
-Any information provided by consumers becomes our property once received by us and may be used and disclosed as permitted in this Policy.
+  * Contact information that allows The Site or Intersynq to communicate with you, including but not limited to your name, addresses, email address, social media account names, phone numbers, or other addresses at which you receive communications from or on behalf of The Site. The Site also collects IP address information, geo-location information as provided by your browser, browser information, operating system information, device information and other information that may be provided by your browser's User Agent string.
+  * Profile information that may or may not be visible on The Site to the public. This information includes personal photos uploaded by you or retrieved from other social media websites, display name, first name, last name, gender, bio, birth date and location.
+  * Activity information including plussed stores, brands, posts and comments, the number of coupons, bargains and posts shared on The Site, the number of points, the badges earned and monthly awards given. The Site may also track your browsing activity on The Site, such as the coupons you view and redeem.
 
-We may share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We may also aggregate your personal information with others’ information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. We do not share, sell, trade or rent your personal information to third parties for unknown reasons. You may at any time choose not to receive promotional emails from us by contacting us at http://www.intersynq.com/contact-us.html. Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to this Site, as well as to facilitate, complete, or confirm any transaction that you may enter into or responding to your inquiry or request.
 
-If you prefer for us not to provide your name and email or postal address to third parties for direct marketing purposes, please contact us at http://www.intersynq.com/contact-us.html.
 
-**Use of Forums**
+### How we collect information
 
-If you choose to transmit, submit or post information through the Site’s chat rooms, bulletin boards or other forums (the “Forums”), we will collect that information you provide. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law and pursuant to our Terms of Use.  
-**  
-Cookies**
+We ask you for Personal Information (including Contact Information and Profile Information) when you sign up, sign in, subscribe or otherwise interact with The Site or contact Intersynq.
 
-We may place “cookies” on your personal computer. “Cookies” are small identifiers sent from a web server and stored on your computer’s hard drive, similar to a license plate, that help us to recognize you if you visit our website again. Also, our site uses cookies to track how you found our site. Cookies are not designed to be used to get data from your hard drive, your e-mail or any other personal data about you. To protect your privacy, we do not use cookies to store or transmit any personal information about you on the Internet. You can reject cookies by changing your browser settings. Please note, however, that if you reject our cookies, it is possible that some web pages may not properly load, your access to certain information might be denied or you might have to enter information about yourself more than once.
+We use cookies and related technologies to collect information about your computer and your interaction with the Site and our business partner websites.
 
-**Security**
+We also collect Transaction Information if you contact us via telephone, email, text, postal mail, social media interaction, or other methods of communication, such as for customer support purposes.
 
-This site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control.
+We may receive additional Personal Information from third parties. We may use this Personal Information to enhance other information we have about you to help us better understand you and to otherwise enhance The Sites or other Intersynq services.
 
-**Third Party Advertising**
+### How we use this information
 
-We use third-party advertising companies to serve ads when you visit our website. These companies use non-personally identifiable information regarding your visit to this website and other sites, such as the user IP address, pages viewed, date and time of your visit, and number of times you have viewed an ad (but not your name, address, or other personal information), to serve ads to you on this site and other sites that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+The information we collect (contact information, profile information, activity information) is used to:
 
-Specifically, Google, as a third party vendor, uses cookies to serve ads on this website. Google´s use of the DART cookie enables it to serve ads to you based on your visit to this website and other websites on the Internet. You may opt out of the use of the DART cookies by visiting the Google ad and content network privacy policy.
+  
 
-In addition, we use clear GIFs or pixel tags to help manage our online advertising. These clear GIFs enable our ad serving company to recognize a browser’s cookie when a browser visits this site. This allows us to learn which banner ads bring users to our website. The information we collect and share through this technology is not personally identifiable.
 
-To learn more about these practices and your choices about not having this information used by these companies please click here.
+  * Operate and improve The Site;
+  * Target coupons, bargains and other offers more accurately to our visitors;
+  * Evaluate eligibility for certain coupons and special offers, either by Intersynq or by one of the businesses on The Site;
+  * Track redemption of coupons, purchases and perform other analytics;
+  * Evaluate the types of coupons, products or services that may be of interest to our users;
+  * Provide user support, including to our merchants or business partners;
+  * Send you reminders, technical notices, updates, security alerts and support and administrative messages service bulletins, or marketing;
+  * Provide advertisements to you through the Sites, email messages, text messages, applications, or other methods of communication;
+  * Administer surveys, giveaways, sweepstakes, contests, or other promotional activities or events sponsored by Intersynq or its partners;
+  * Communicate and provide additional information that may be of interest to you about The Site and our merchants and business partners, such as news, special offers and coupons, announcements, and marketing materials;
 
-**Contacting the Web Site**
 
-Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy at our website, so be sure to check back here frequently.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact us at http://www.intersynq.com/contact-us.html.
+### What your options are
+
+You have several choices regarding the use of information on TheSite:
+
+  
+
+
+  * **Profile information:** The visibility of certain fields may be set to public or private under the Profile section of your account. This establishes the visibility of said information on your public profile page.
+  * **Cookies:** If you decide at any time that you no longer wish to accept cookies from our Service for any of the purposes described above, then you can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. Consult your browser?s technical information. If you do not accept cookies, however, you may not be able to use all portions of the Service or all functionality of the Service. If you have any questions about how to disable or modify cookies, please let us know at the contact information provided below.
+  * **Social media:** If you do not wish to have The Site use information from your 3rd party social media account (e.g. Facebook, Google, Twitter, Yahoo), you may create your account using the sign up form, where you can provide only the information you wish to submit to The Site.
+  * **Changing or deleting your data:**
+All Users may review, update, correct or delete the Personal Information in their User account (including any imported contacts) by contacting us or by editing their profile via the Service. If you completely delete all of your Personal Information, then your user account may become deactivated. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes. 
+
+
+### When and why Personal Information is disclosed
+
+We do not disclose Personal Information to third parties with the following exceptions:
+
+  
+
+
+  * Affiliated companies (e.g., subsidiaries and other companies owned by or controlled by Intersynq) who may only use the Personal Information for the purposes described under _How we use this information_ above.
+  * In order to determine eligibility for exclusive coupons, bargains and other special offers, The Site may disclose your information to businesses it has established an agreement with. The businesses may use this information only as bound by our agreement with them. These businesses may contact you directly, but only with our explicit permission and in accordance with a terms of service agreement that we have established with said businesses.
+  * We may employ third party companies and individuals to facilitate services for us, to provide services on our behalf, to perform service-related services (e.g., maintenance services, database management, web analytics and improvement of the service?s features) or to assist us in analyzing how our service is used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+  * Intersynq and The Site cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We can disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process including, but not limited to, subpoenas, to protect the property and rights of Intersynq, The Site or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity.
+  * Effect a merger, acquisition, or otherwise; to support the sale or transfer of business assets; to enforce our rights or protect our property; to protect the rights, property or safety of others, investigate fraud, respond to a government request; or as needed to support auditing, compliance, and corporate governance functions. We may also disclose Personal Information to defend ourselves in litigation or a regulatory action, and when required or advised to do so by law, such as in response to a subpoena, or similar legal process, including to law enforcement agencies, regulators, and courts in the United States and other countries where we operate. If The Site or Intersynq is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or prominent notice on our Site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.>
+
+
+
+### Children's information
+
+This Service is not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should [contact us](https://web.archive.org/contact?type=underage). If we become aware that a child under 13 has provided us with Personal Information, we may delete such information from our servers.
+
+* * *
+
+* * *
+
+[Back to help](https://web.archive.org/help)  
+
+
+##### Stores I like
+
+Edit View all
+
+
+
+
+Add stores you like for quick access  
+to their offers.
+
+##### Brands I like
+
+Edit View all
+
+
+
+
+Add brands you like for quick access  
+to their offers.
