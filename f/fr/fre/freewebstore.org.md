@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freewebstore.org privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531071714id_/http%3A//www.freewebstore.org/website/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebstore.org privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222225642id_/http%3A//www.freewebstore.org/website/privacy.html) for the most accurate reproduction.*
 
-# Free Webstore - Privacy Policy
+# FreeWebstore - Privacy Policy
 
 ## Privacy Policy Introduction
 
@@ -62,17 +62,17 @@ These terms and this disclaimer and any claim based on use of information from t
 
 By continuing to use this site and access the information on this website, you signal acceptance of the terms and disclaimer set out above. If you do not accept any of these terms, leave this website now. If you have any enquiry or concern about our privacy policy or the way in which we are handling personal data, please [contact us](http://www.freewebstore.org/website/contact.asp).
 
-[ ](http://www.freewebstore.org/website/testimonials.html) [ ](http://www.freewebstore.org/website/features.html) [ ](http://help.freewebstore.org/) [ ](http://www.freewebstore.org/website/free_ecommerce_services.html) [ ](http://www.freewebstore.org/website/packages.html) [ ](http://www.freewebstore.org/website/ecommerce.html)
+[ ](http://www.freewebstore.org/website/testimonials.html) [ ](http://www.freewebstore.org/website/features.html) [ ](http://help.freewebstore.com/) [ ](http://www.freewebstore.org/website/free_ecommerce_services.html) [ ](http://www.freewebstore.org/website/packages.html) [ ](http://www.freewebstore.org/website/ecommerce.html)
 
-Enter your details below to sign up to the Free Webstore Newsletter. 
+Enter your details below to sign up to the FreeWebstore Newsletter. 
 
 "I opened my web store a couple of months ago and already I am receiving regular and substantial orders."  
 \- Lyn, [Lyn's Toy Shop](http://www.risuswholesale.co.uk/)
 
-"I must admit, I'm impressed! A big thumbs up for Free Webstore and their support team, definitely a 5-star rating!"  
-\- [www.locostore.co.uk](http://www.locostore.co.uk/)
+"I must admit, I'm impressed! A big thumbs up for FreeWebstore and their support team, definitely a 5-star rating!"  
+\- Loco Store
 
-"What makes Free Webstore so unique is the time and dedication they give to their customers. If you need some technical help, they're there to help."  
+"What makes FreeWebstore so unique is the time and dedication they give to their customers. If you need some technical help, they're there to help."  
 \- [www.1st4buyers.co.uk](http://www.1st4buyers.co.uk/)
 
 "Customer support is second-to-none. Questions are addressed in a friendly & speedy manner (usually same day!)"  
