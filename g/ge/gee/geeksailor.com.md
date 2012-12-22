@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geeksailor.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418070739id_/http%3A//www.geeksailor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeksailor.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222225915id_/http%3A//www.tech.sc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
