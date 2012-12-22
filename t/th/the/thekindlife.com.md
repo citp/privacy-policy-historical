@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thekindlife.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613202658id_/http%3A//www.thekindlife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekindlife.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222205833id_/http%3A//thekindlife.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# The Kind Life
 
 ## Summary
 
-Your privacy is very important to us. By using [http://www.thekindlife.com](http://www.thekindlife.com/) you are agreeing to the underlying Privacy Policy. This Privacy Policy describes EQAL's use of personally identifiable information ("PII"-- your full name, email address, mailing address, telephone number) that Members voluntarily provide to EQAL when they register for an account or otherwise provide PII to EQAL through your use of Website. Website is a general audience service and does not knowingly collect PII from children under 13 years of age.
+Your privacy is very important to us. By using [http://thekindlife.com](http://thekindlife.com/) you are agreeing to the underlying Privacy Policy. This Privacy Policy describes EQAL's use of personally identifiable information ("PII"-- your full name, email address, mailing address, telephone number) that Members voluntarily provide to EQAL when they register for an account or otherwise provide PII to EQAL through your use of Website. Website is a general audience service and does not knowingly collect PII from children under 13 years of age.
 
 ## Amendments
 
@@ -70,7 +70,7 @@ If you would like to communicate with us about this Privacy Policy or EQAL's col
 
 or write to us at
 
-Privacy, EQAL, Inc.,  
+Privacy, EQAL, Inc.  
 5250 Lankershim Blvd., Suite 720  
 North Hollywood, CA 91601  
 Attn: Paras Maniar
