@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2gts.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227235128id_/http%3A//2girlsteachsex.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2gts.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222040314id_/http%3A//2girlsteachsex.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 2 Girls Teach Sex
 
