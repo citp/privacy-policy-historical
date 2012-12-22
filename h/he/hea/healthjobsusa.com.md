@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthjobsusa.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623093929id_/http%3A//www.healthjobsusa.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthjobsusa.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222144653id_/http%3A//www.healthjobsusa.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# Absolutely Health Care | Find Healthcare & Medical Jobs in the US
+# Healthcare Jobs & Medical Employment - Absolutely Health Care
 
   
 Your privacy is very important to us. We want to make your experience with us as enjoyable and rewarding as possible and we want you to use the Internet's vast array of information, tools and opportunities with complete confidence. 
