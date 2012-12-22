@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesdeal.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503231937id_/http%3A//timesdeal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesdeal.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222081456id_/http%3A//timesdeal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Timesdeal.com - Timesdeal.com India's largest daily deals website for Deals, Best Sales Offers & Discounts
 
@@ -56,9 +56,7 @@ In the event you have any grievance relating to the processing of information pr
 DLF City Phase V, Opposite DLF Golf Course   
 Gurgaon, Haryana 122002   
 India   
-Ph: 0124-4187000 **
-
-We request you to please provide the following information in your complaint:-  
+Ph: 0124-4187000 ** We request you to please provide the following information in your complaint:-  
 (a) Identification of the information provided by you  
 (b) Clear statement as to whether the information is personal information or sensitive personal information   
 (c) Your address, telephone number or e-mail address.   
