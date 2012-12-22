@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the opendemocracy.net privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515235133id_/http%3A//www.opendemocracy.net/about/about_od_privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendemocracy.net privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222111146id_/http%3A//www.opendemocracy.net/about/about_od_privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Legal | openDemocracy
 
 openDemocracy respects your right to privacy. Any personal information you provide to openDemocracy on this website will be known only to two parties: you and openDemocracy, unless we state otherwise at the time the information is collected or in this privacy policy. 
 
-If you have a query about an online donation or payment you have made, please send an email to [theo.edwards@opendemocracy.net](mailto:theo.edwards@opendemocracy.net)
+If you have a query about an online donation or payment you have made, please send an email to [info@opendemocracy.net](mailto:info@opendemocracy.net)
 
 The following policy is intended to explain how your personal information will be treated as you make use of our website and its features. Personal information includes your name, street and e-mail addresses, billing information, click-through activity and any other personal information you may provide. 
 
