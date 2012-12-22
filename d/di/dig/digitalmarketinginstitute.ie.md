@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the digitalmarketinginstitute.ie privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617234435id_/http%3A//digitalmarketinginstitute.ie/the-digital-marketing-institute-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalmarketinginstitute.ie privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222010825id_/http%3A//digitalmarketinginstitute.ie/privacy-policy) for the most accurate reproduction.*
 
-# The Digital Marketing Institute – Privacy Policy | Digital Marketing Institute
+# Privacy Policy | Digital Marketing Institute
 
-We understand that many companies and individuals have information of a sensitive nature pertaining to them or their clients and thus we take great care to ensure the highest possible levels of privacy.   
+We understand that many companies and individuals have information of a sensitive nature pertaining to them or their clients and thus we take great care to ensure the highest possible levels of privacy.  
 To this end below are the details of our “Privacy Policy” which outlines our procedures on the collection and use of Client information.
 
 The Digital Marketing Institute will not provide any information, which you give us to any other organisation or individual without your express permission or legal compulsion such as a Court order.
@@ -21,4 +21,4 @@ The Digital Marketing Institute keeps client information on controlled facilitie
 
 The Digital Marketing Institute is constantly improving and enhancing its services to clients, and may update this privacy policy from time to time. Any changes to the policy will be advised to clients.
 
-If you have any queries or comments concerning the privacy policy, please contact the Digital Marketing Institute.
+If you have any queries or comments concerning the privacy policy, please [contact us](http://digitalmarketinginstitute.ie/contact-us).
