@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the compusa.com privacy policy that was archived on 2012-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120606090732id_/http%3A//www.compusa.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the compusa.com privacy policy that was archived on 2012-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121222154634id_/http%3A//www.compusa.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy at CompUSA.com</title>
@@ -11,17 +11,50 @@
 <link href="/css/global.css" rel="stylesheet" type="text/css">
 <link href="/css/global3_cusa.css" rel="stylesheet" type="text/css"><link href="/css/global-frame.css" rel="stylesheet" type="text/css">
 <link href="/css/global-28-styles.css" rel="stylesheet" type="text/css">
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js" type="text/javascript"></script>
+<!--[if IE ]>
+<script type="text/javascript" language="javascript" >
+navHover = function() {
+	var nav = document.getElementById("header-nav");
+	if (nav!= null) {
+	    lis = nav.getElementsByTagName("li");
+		for (var i=0; i<lis.length; i++) {
+			lis[i].onmouseover=function() {
+				this.className+=" iehover";
+			}
+			lis[i].onmouseout=function() {
+				this.className=this.className.replace(new RegExp(" iehover\\b"), "");
+			}
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", navHover);
+</script>
+<![endif]-->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js" type="text/javascript"></script>
+<link href="/css/jquery-ui.custom-1.8.11.css" rel="stylesheet" type="text/css">
+
 
 <style type="text/css">
-body{background:url(http://images.highspeedbackbone.net/glblbg-FreeShipping_dealsForDad.jpg) no-repeat fixed 50% 230px !important;}
-
-.freeshipbadge {
-   display:inline
-   }
-
+.freeshipbadge { display:none }
+   
+body{background:url(http://images.highspeedbackbone.net/glblbg-FreeShipping_12_04_compCC.jpg) 50% -40px fixed no-repeat;}		   
 </style>
 
+<script type="text/javascript">
+//Otari 111319 for pages using this method
+function showFreeShipTooltip(img) {
+   var image = document.getElementById(img);
+   if (image !=null)  {
+	  if (image.offsetWidth > 55) {
+		Tip('Free Econoship delivery on orders over $50 -- See details at bottom of the page');
+	  } else {
+		return true;
+	  }
+   }
+}
+</script>
 <style type="text/css">
 <!--
 table.helpHeader {
@@ -58,6 +91,7 @@ table.helpHeader td {
 </head>
 <body>
 
+
 <script language="Javascript">
 if(parent.frames.length > 0) {
    if (document.location.href.indexOf("cgisec") > 0 || document.location.href.indexOf("secure") > 0) 
@@ -70,8 +104,6 @@ if(parent.frames.length > 0) {
 <div style="display:none;">
 <img src="http://images.highspeedbackbone.net/masthead/comp/searchmiddle.gif"><img src="http://images.highspeedbackbone.net/masthead/version2/rightsidesearchbox.gif"><img src="http://images.highspeedbackbone.net/masthead/comp/compleftsidetab.gif"><img src="http://images.highspeedbackbone.net/masthead/comp/comprightsidetab.gif"><img src="http://images.highspeedbackbone.net/masthead/comp/over_downarrow.gif"><img src="http://images.highspeedbackbone.net/masthead/comp/downarrow.gif">
 </div>
-
-
 
 
 <script language="JavaScript" type="text/JavaScript">
@@ -247,132 +279,25 @@ span#ccExO_mid_inner{ display:block; padding:20px; font-size:22px; letter-spacin
 #ccEx_TC{font-size:12px; text-align:center; margin:20px 10px;}
 #ccExO_top #closebuttonPos{position:absolute; top:4px; right:6px;}
 #ccExO_top #site_logo{position:absolute; top:4px; left:9px;}
+.nav-logo a {
+	background-image: url(http://images.highspeedbackbone.net/cu/masthead/CUSA_anim2.gif);
+    background-repeat: no-repeat;
+    width: 166px;
+    height: 66px;
+    display: block;
+    text-indent: -9999px;
+}
+/**/
+.topStrip{background-color:#000;height:23px;color:#FFFFFF;font:normal 18px arial;line-height:22px;text-align:center;}
+.topStrip small{font-size:11px;}
+.topStrip a{color:#FFFFFF!important;text-decoration:underline;}
+/**/
+.messageBox{background:url(http://images.highspeedbackbone.net/checkout/icon-alert.png) #FFFCC6 no-repeat 8px 50%;border:#F3DF5B 1px solid;font:normal 11px arial;padding:10px 10px 10px 40px;margin:10px auto;width:908px;}
 </style>
 
 
-
-<script type="text/javascript" language="javascript">
-
-function displayemailadd(){
-var emailID=document.ccExForm.email;
-document.write(emailID);
-}
-
-function setCookie(c_name,value,expiredays)
-{
-var exdate=new Date();
-exdate.setDate(exdate.getDate()+expiredays);
-document.cookie=c_name+ "=" +escape(value)+
-((expiredays==null) ? "" : ";expires="+exdate.toUTCString());
-}
-
-function lightbox(div,action){
-
-	if ((div=="ccExO_wrapper") && (action == "close")){
-	
-	document.getElementById('ccExO_wrapper').style.display='none';
-	document.getElementById('hom_24Ex_wrapper').style.display='none';
-	setCookie('visited','yes',30);
-	}
-
-	else if ((div=="ccExO_wrapper") && (action == "open"))  {
-	document.getElementById('ccExO_wrapper').style.display='block';
-	document.getElementById('hom_24Ex_wrapper').style.display='block';
-	}
-	
-	if ((div=="ccExO_wrapper2") && (action == "close")){
-	document.getElementById('ccExO_wrapper2').style.display='none';
-	document.getElementById('hom_24Ex_wrapper').style.display='none';
-	}
-	else if ((div=="ccExO_wrapper2") && (action == "open"))  {
-	document.getElementById('ccExO_wrapper2').style.display='block';
-	document.getElementById('hom_24Ex_wrapper').style.display='block';
-	setCookie('visited','yes',30);
-	setTimeout("lightbox('ccExO_wrapper2','close')",10000);
-	}
-
-	
-}
-
-function overlay_emailcheck(str) {
-		var emailID=document.ccExForm.email;
-		var at="@"
-		var dot="."
-		var lat=str.indexOf(at)
-		var lstr=str.length
-		var ldot=str.indexOf(dot)
-		alertxr = "Sorry, please enter a valid e-mail address, for example, johnsmith@gmail.com"
-	
-		if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
-		    alert(alertxr);
-			lightbox("open");
-			emailID.focus();
-		    return false
-		}
-
-		 if (str.indexOf(at,(lat+1))!=-1){
-		    alert(alertxr);
-			lightbox("open");
-			emailID.focus();
-		    return false
-		 }
-
-		 if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
-		    alert(alertxr);
-			lightbox("open");
-			emailID.focus();
-		    return false
-		 }
-
-		 if (str.indexOf(dot,(lat+2))==-1){
-		    alert(alertxr);
-			lightbox("open");
-			emailID.focus();
-		    return false
-		 }
+<div class="topStrip">Free Shipping** on orders over $50 EXCLUSIVELY at TigerDirect.com &nbsp;<small><a href="http://www.tigerdirect.com/sectors/campaigns/freeshipping/index.asp?cm_mmc=HOME-_-FREESHIPPING-_-CO-_-masthead" title="Click here for details">See Details</a></small></div>
 		
-		 if (str.indexOf(" ")!=-1){
-		    alert(alertxr);
-			lightbox("open");
-			emailID.focus();
-		    return false
-		 }
-
- 		 return true					
-	}
-function overlay_ValidateForm(){
-	
-	var emailID=document.ccExForm.email;
-    var CaptchaStrID=document.ccExForm.CaptchaStr;
-	
-
-	if ((emailID.value==null)||(emailID.value=="") || (emailID.value=="Email Address")){
-		lightbox("open");
-		alert("Please Enter your Email Address");
-		emailID.focus();
-		return false;
-	}
-    
-	if (overlay_emailcheck(emailID.value)==false){
-		lightbox("open");
-		emailID.focus();
-		return false;
-	}
-	
-	if ((CaptchaStrID.value==null)||(CaptchaStrID.value=="")){
-		lightbox("open");
-		alert("Please enter the text contained in the image to the left.");
-		CaptchaStrID.focus();
-		return false;
-	}
-	
-	return true
-	
- }
-</script>
-
-
-
 <div id="mastHead" class="clearfix">
     <div class="header-shell">
         <div class="globalActions clearfix">
@@ -392,12 +317,12 @@ function overlay_ValidateForm(){
         </ul>
    </div>
   <div class="header-top">
-            <h4 class="nav-logo"><a href="http://www.compusa.com" title="Go to the CompUSA.com homepage">CompUSA.com - Shop by phone 1-800-266-7872 - Computer &amp; Electronics Internet Store</a></h4>
+            <h4 class="nav-logo"><a href="http://www.compusa.com" title="CompUSA.com becomes TigerDirect.com on 12-31-12">CompUSA.com - Shop by phone 1-800-266-7872 - Computer &amp; Electronics Internet Store</a></h4>
     <div class="globalSearchWrap">
 
             <ul class="nav-crossLinks">
               <li class="link1"><a href="/retailstores/compusaStores/index.asp" title="Store Locator">Store Locator</a></li>
-              <li class="link2"><a href="http://circularhub.com/pub/compusa-weekly?type=1&amp;locale=EN" title="Retail Ad">Retail Ad</a></li>
+              <li class="link2"><a href="http://www.circularhub.com/pub/compusa?type=1&amp;locale=EN" title="Retail Ad">Retail Ad</a></li>
 
               <li class="link3"><a href="http://www.retail20.com" title="Retail 2.0">Retail 2.0</a></li>
               <li class="link4"><a href="/applications/overstock/overstock_tlc.asp" title="Overstock Deals">Overstock Deals</a></li>
@@ -545,7 +470,7 @@ function overlay_ValidateForm(){
                                 <a href="/applications/category/category_slc.asp?CatId=717&amp;name=Plasma-TV-Wall-Mount&amp;Nav=|c:384|&amp;Sort=0&amp;Recs=10&amp;cm_sp=Masthead-_-TV%20Video-_-Spot%2006" title="Wall Mounts">Wall Mounts</a>
                                 <a href="/applications/category/category_slc.asp?CatId=1532&amp;cm_sp=Masthead-_-TV%20Video-_-Spot%2007" title="Stands &amp; Furniture">Stands &amp; Furniture</a>
                                 <a href="/applications/category/category_tlc.asp?CatId=2038&amp;name=DVD-Movies&amp;cm_sp=Masthead-_-TV%20Video-_-Spot%2008" title="Movies">Movies</a>
-                                <a href="/applications/category/category_slc.asp?CatId=3675&amp;cm_sp=Masthead-_-TV%20Video-_-Spot%2009" title="Home Media Players">Home Media Players</a>
+                                <a href="/applications/category/category_slc.asp?CatId=4678&amp;cm_sp=Masthead-_-TV%20Video-_-Spot%2009" title="Home Media Players">Home Media Players</a>
                                 <a href="/applications/Category/category_tlc.asp?CatId=23&amp;name=Projectors&amp;cm_sp=Masthead-_-TV%20Video-_-Spot%2010" title="Projectors &amp; Screens">Projectors &amp; Screens</a>
                                 <a href="/applications/Category/category_tlc.asp?CatId=20&amp;name=Power-Protection&amp;cm_sp=Masthead-_-TV%20Video-_-Spot%2011" title="Power Protection">Power Protection</a>
                                 <a href="/applications/category/category_tlc.asp?CatId=79&amp;name=Audio/Video-Cables&amp;cm_sp=Masthead-_-TV%20Video-_-Spot%2012" title="Audio / Video Cables">Audio / Video Cables</a>
@@ -698,38 +623,34 @@ function overlay_ValidateForm(){
             <li class="navItem_7"><a href="/sectors/category/cell-phones.asp?cm_sp=Masthead-_-Cell%20Phones-_-Spot%2000" title="Cell Phones">Cell Phones</a>
             	<div class="navRollover">
                         <dl class="innerWrap">
-                        	<dd class="col">
+                      	<dd class="col">
                             	<h5><a href="/sectors/category/cell-phones.asp?cm_sp=Masthead-_-Cell%20Phones-_-Spot%2001" title="Cell Phones">Cell Phones</a></h5>
-                            	<a href="/applications/category/category_tlc.asp?CatId=5117&amp;name=unlocked-gsm-phone&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2002" title="Unlocked Cell Phones">Unlocked Cell Phones</a>
-                                <a href="http://www.cellstores.com/mobile/?referringdomain=compusa.com&amp;refcode1=CPU_9999_001_MWC-PhonesW/Service&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2003" title="Phones with Service">Phones with Service</a>
-                                <a href="/applications/Overstock/overstock_slc.asp?CatId=5116&amp;category=Mobile%20Phones&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2004" title="Phones with Service">Clearance Cell Phones</a>
+                                <a href="/applications/category/category_slc.asp?CatId=5117&amp;name=unlocked-gsm-phone&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2001" title="Unlocked Cell Phones">Unlocked Cell Phones</a>
+                            	<a href="/applications/Overstock/overstock_slc.asp?CatId=5116&amp;category=Mobile%20Phones&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2002" title="Clearance Unlocked Cell Phones">Clearance Unlocked Cell Phones</a>
+                                <a href="http://www.compusawireless.com/eCommerce/phones/?filterbyprice=0&amp;r=compusa.com&amp;Refcode1=CPU_9999_001_Masthead_Free&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2004" title="Free Cell Phone Deals">Free Cell Phone Deals</a>
+                                <a href="http://www.compusawireless.com/mobile/?referringdomain=compusa.com&amp;oflag=specialoffer&amp;refcode1=CPU_9999_001_Masthead_CellPhoneswplans&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2005" title="Cell Phone with Service">Cell Phone with Service</a>
                                 <div><h5>Shop by Carrier</h5>
-                                <a href="http://www.cellstores.com/mobile/verizon-wireless.aspx?referringdomain=compusa.com" title="Verizon Deals">Verizon Deals</a>
-                                <a href="http://www.cellstores.com/mobile/sprint.aspx?referringdomain=compusa.com" title="Sprint Deals">Sprint Deals</a>
-                                <a href="http://www.cellstores.com/mobile/tmobile.aspx?referringdomain=compusa.com" title="T-mobile Deals">T-mobile Deals</a>
-                                </div>
-                                <div><h5>Latest Deals</h5>
-                            	<a href="http://www.cellstores.com/eCommerce/phones/?filterbyfeature=319&amp;referringdomain=compusa.com" title="New Phone Arrivals">New Phone Arrivals</a>
-                                <a href="http://www.cellstores.com/eCommerce/phones/?filterbyfeature=291&amp;referringdomain=compusa.com" title="Android Deals">Android Deals</a>
-                                <a href="http://www.cellstores.com/eCommerce/phones/?filterbyfeature=24&amp;referringdomain=compusa.com" title="Smartphone Deals">Smartphone Deals</a>
-                                <a href="http://www.cellstores.com/eCommerce/phones/?filterbyprice=0&amp;referringdomain=compusa.com" title="Free Phone Deals">Free Phone Deals</a>
+                                <a href="http://www.compusawireless.com/eCommerce/phones/?filterbyfeature=24&amp;r=compusa.com&amp;Refcode1=CPU_9999_001_Masthead_Smartphones&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2006" title="Smartphone Deals">Smartphone Deals</a>
+                                <a href=" http://www.compusawireless.com/eCommerce/phones/?filterbycarrier=59&amp;r=compusa.com&amp;Refcode1=CPU_9999_001_Masthead_Tmobile&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2007" title="T-Mobile Deals">T-Mobile Deals</a>
+                                <a href="http://www.compusawireless.com/eCommerce/phones/?filterbycarrier=68&amp;r=compusa.com&amp;Refcode1=CPU_9999_001_Masthead_Sprint&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2008" title="Sprint Deals">Sprint Deals</a>
+                                <a href="http://www.compusawireless.com/eCommerce/phones/?filterbycarrier=60&amp;r=compusa.com&amp;Refcode1=CPU_9999_001_Masthead_Verizon&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2009" title="Verizon Wireless Deals">Verizon Wireless Deals</a>
                                 </div>
                             </dd>
                             <dd class="col">
-                            	<h5>Cell Phone Accessories</h5>
-                                <a href="/applications/campaigns/campaigntemplate.asp?CampaignID=547&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2005" title="Bluetooth Accessories">Bluetooth Accessories</a>
-            					<a href="/applications/campaigns/campaigntemplate.asp?CampaignID=1125&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2006" title="Cell Phone Accessories">Cell Phone Accessories</a>
-                                <a href="/applications/Overstock/overstock_slc.asp?CatId=1736&amp;category=Mobile%20Accessories&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2007" title="Cell Phone Accessories">Clearance Cell Phone Accessories</a>
-            					<a href="/applications/Category/category_tlc.asp?CatId=1625&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2008" title="Communications">Communications</a>
-                                <div><h5>Mobile Internet</h5>
-                                <a href="http://www.cellstores.com/eCommerce/phones/?filterbyfeature=212&amp;referringdomain=compusa.com" title="Internet Cards with Service">Internet Cards with Service</a>
-                                <a href="/applications/category/category_slc.asp?CatId=5135&amp;name=3G-Card/Adapters" title="Unlocked Internet Cards">Unlocked Internet Cards</a>
-                                <a href="http://www.cellstores.com/eCommerce/phones/?filterbyfeature=325&amp;referringdomain=compusa.com" title="Tablets with Service">Tablets with Service</a>
-                                <a href="/applications/category/category_tlc.asp?CatId=6838&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2009" title="Unlocked Tablets">Unlocked Tablets</a>
+								<h5>Wireless Accessories</h5>
+                            	<a href="/applications/campaigns/campaigntemplate.asp?CampaignID=547&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2010" title="Bluetooth Accessories">Bluetooth Accessories</a>
+                                <a href="/applications/campaigns/campaigntemplate.asp?CampaignID=1125&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2011" title="Cellphone Accesssories">Cellphone Accesssories</a>
+                                <a href="/applications/Overstock/overstock_slc.asp?CatId=1736&amp;category=Mobile%20Accessories&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2013" title="Clearance Cellphone Accessories">Clearance Cellphone Accessories</a>
+                                <a href="/applications/Category/category_tlc.asp?CatId=1625&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2012" title="Communications">Communications</a>
+                            	<div><h5>Phones without Contract &amp; More</h5>
+                                <a href="/sectors/campaigns/include/prepaidphones.asp?cm_sp=Masthead-_-Cell%20Phones-_-Spot%2014" title="Unlocked Tablets">Prepaid Phones</a>
+            					<a href="/applications/category/category_slc.asp?CatId=5181&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2015" title="Locked - Carrier Phones (No Contract Needed)">Locked - Carrier Phones (No Contract Needed)</a>
+                                <a href="http://www.compusawireless.com/eCommerce/phones/?filterbyfeature=325&amp;r=compusa.com&amp;Refcode1=CPU_9999_001_CellPhoneSplashTablets&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2016" title="Tablets with Service">Tablets with Service</a>
+            					<a href="/applications/category/category_tlc.asp?CatId=6838&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2017" title="Unlocked Tablets">Unlocked Tablets</a>
                                 </div>
-                                <div>
+            					<div>
                                 <h5></h5>
-                                <a href="/applications/campaigns/campaigntemplate.asp?CampaignID=1126&amp;cm_sp=Masthead-_-Cell%20Phones-_-Spot%2010" title="See All Cell Phones">See All</a>
+                                <a href="/sectors/category/cell-phones.asp?cm_sp=Masthead-_-Cell%20Phones-_-Spot%2010" title="See All Cell Phones">See All</a>
                                 </div>
                             </dd>
                             <dd class="col highlight">
@@ -895,12 +816,12 @@ function overlay_ValidateForm(){
                             	<h5>Deals &amp; Specials</h5>
                             	<a href="/applications/category/topsoldskus.asp?cm_sp=Masthead-_-More-_-Spot%2001" title="Bestsellers">Bestsellers</a>
                                 <a href="/applications/overstock/overstock_tlc.asp?cm_sp=Masthead-_-More-_-Spot%2002" title="Overstock Deals">Overstock Deals</a>
-                                <a href="/sectors/innercircle/index.asp?cm_sp=Masthead-_-More-_-Spot%2003" title="Free Shipping">Free Shipping</a>
                                 <a href="/sectors/whatsnew/newproducts.asp?cm_sp=Masthead-_-More-_-Spot%2004" title="What's New">What's New</a>
                                 <a href="/applications/Refurb/refurb_tlc.asp?name=Recertified-Deals&amp;cm_sp=Masthead-_-More-_-Spot%2005" title="Recertified Items">Recertified Items</a>
                                 <a href="/applications/openbox/openbox_tlc.asp?name=Open-Box-Deals&amp;cm_sp=Masthead-_-More-_-Spot%2006" title="Open Box">Open Box</a>
                                 <a href="/sectors/giftcenter/index.asp?name=Gift-Cards-and-Gift-Ideas&amp;cm_sp=Masthead-_-More-_-Spot%2007" title="Gift Cards">Gift Cards</a>
-                                <a href="/sectors/recycle/index.asp?name=Recycle-Computers&amp;cm_sp=Masthead-_-More-_-Spot%2008" title="Recycle Computers">Recycle Computers</a>                               
+                                <a href="/sectors/recycle/index.asp?name=Recycle-Computers&amp;cm_sp=Masthead-_-More-_-Spot%2008" title="Recycle Computers">Recycle Computers</a>
+                                <a href="http://www.circularhub.com/pub/compusa-catalogue?type=1&amp;locale=EN" title="Digital Catalog" target="_blank">Digital Catalog</a>
                             </dd>
                             <dd class="col highlight">
                             	<h5>Deals Under</h5>
@@ -918,193 +839,14 @@ function overlay_ValidateForm(){
 
 <!--begin overlay-->
 	
-<div id="hom_24Ex_wrapper">
-        &nbsp;
-    </div>
-<div id="ccExO_wrapper">
-	<a id="ccExo_wrapbtn" href="#" onclick="lightbox('ccExO_wrapper','close')"></a>
-	<div id="ccExO_top">
-    	<div id="site_logo"><img src="http://images.highspeedbackbone.net/homepage/promotions/exclusive_24hour/compUSALogo_overlay.png"></div>
-        <div id="closebuttonPos"><a href="#" onclick="lightbox('ccExO_wrapper','close')"><img src="http://images.highspeedbackbone.net/homepage/promotions/exclusive_24hour/closeButton.png" alt="Close Overlay" border="0"></a></div>
-    <span id="ccExO_title">ONE DAY EXCLUSIVE OFFER!</span>
-    <span id="ccExO_subtitle">Sign up for our CompUSA Exclusive Email Offers and get<br>
-    <b>$10 Off* YOUR NEXT ORDER</b></span>
-    </div>
-    <div id="ccExO_mid">
-    <form id="ccExForm" name="ccExForm" method="post" action="http://www.compusa.com/include/LyrisProxy.asp" s="">
-    	<div id="ccExForm_textInput"><span class="ccExForm_text" id="ccExForm_text2">Please enter your email address:</span>
-        <input id="ccExForm_email" onfocus="if(this.value=='Email Address')this.value='';" onblur="if(this.value=='')this.value='Email Address';" value="Email Address" name="email"></div>
-        <div id="ccExForm_CaptchWrap">
-            <div id="ccExForm_CaptchImg">
-             	<iframe src="https://www.compusa.com/secure/captcha/Default.aspx" width="220" height="95" frameborder="0" scrolling="NO" allowtransparency="true" id="captchaframe"></iframe>
-            </div>
-            <div id="ccExForm_CaptchInput">
-            <span class="ccExForm_text">Enter the text you see on the left:</span>
-            <input id="ccExForm_captcha" name="CaptchaStr"><br>
-            </div>
-        </div><br clear="all">
-        <input type="hidden" name="ListCode" value="CO">
-        <input name="list" type="hidden" value="cusaoverlay">
-        <input type="hidden" name="SrcCode" value="CUEM1103C" size="10" maxlength="100">
-        <input type="hidden" name="demographics" value="ListCode SrcCode">
-        <input type="hidden" name="confirm" value="one">
-        <input type="hidden" name="showconfirm" value="F">
-        <center><input id="ccExForm_submit" type="image" onclick="return overlay_ValidateForm()" src="http://images.highspeedbackbone.net/homepage/promotions/exclusive_24hour/submitbtn_grey.jpg"></center>
-        <input type="hidden" name="url" value="http://www.compusa.com/sectors/aboutus/privacy.asp?page=ty&amp;">        
-    </form>
-       
-    <br clear="all">
-    </div>
-    <div id="ccExO_bottom">
-        <center><a href="javascript:void(0)" onclick="lightbox('ccExO_wrapper','close')"> <img id="ccExButton_no" src="http://images.highspeedbackbone.net/homepage/promotions/exclusive_24hour/nothanksBtn_grey.jpg" border="0"></a></center>
-        <div id="ccEx_TC">
-        	* Requires $100 Minimum Purchase. Cannot be combined with other offers. Limit one discount code per customer. Must validate email address by responding to our confirmation email. After valid email confirmation, please allow up to 2-4 business days to receive your $10 discount via email. Must follow instructions within the email to qualify. To ensure delivery to your inbox, please add Compusa@compusa-online.com to your address book.
-        </div>
-    </div>
-</div>
-
-
-<div id="ccExO_wrapper2">
-	<div id="ccExO_top">
-    <span id="ccExO_title">THANK YOU</span>
-    <span id="ccExO_subtitle">for your email submission</span>
-    </div>
-    <div id="ccExO_mid">
-  	<span id="ccExO_mid_inner">You have one more step to get your $10 discount. Just confirm your entry via the confirmation email to validate your email address and then we will send you a $10 discount link.</span>
-    <br clear="all">
-    </div>
-    <div id="ccExO_bottom">
-        <center><a href="javascript:void(0)" onclick="lightbox('ccExO_wrapper2','close')"> <img id="ccExButton_no" src="http://images.highspeedbackbone.net/homepage/promotions/exclusive_24hour/closeBtn_grey.jpg" border="0"></a></center>
-        <div id="ccEx_TC">
-        	* Requires $100 Minimum Purchase. Cannot be combined with other offers. Limit one discount code per customer. Must validate email address by responding to our confirmation email. After valid email confirmation, please allow up to 2-4 business days to receive your $10 discount via email. Must follow instructions within the email to qualify. To ensure delivery to your inbox, please add Compusa@compusa-online.com to your address book.
-        </div>
-    </div>
-</div>
-
-
-	
-    <script language="javascript" type="text/javascript">
-    $("#hom_24Ex_wrapper").click(function () { 
-     lightbox('ccExO_wrapper','close');
-    });
-	
-	$("#hom_24Ex_wrapper").click(function () { 
-     lightbox('ccExO_wrapper2','close');
-    });
-	
-	</script>
-
-	
-	
+		
 <!--end overlay--> 
-	
-  
-<div class="mastHeadBanner">
-	<div class="hdrPromo1">
-		 
-         	<!-- begin ad tag -->
-            <!-- To be placed in the body of the page, where you want the banner to appear -->
-            <nolayer>
-                <iframe src="http://ad.doubleclick.net/adi/compusa.com/ROS_475x35;sz=475x35;ord=[timestamp]?" width="475" height="35" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
-                	<a href="http://ad.doubleclick.net/jump/compusa.com/ROS_475x35;sz=475x35;abr=!ie4;abr=!ie5;abr=!ie6;ord=[timestamp]?"><img src="http://ad.doubleclick.net/ad/compusa.com/ROS_475x35;sz=475x35;abr=!ie4;abr=!ie5;abr=!ie6;ord=[timestamp]?" width="475" height="35" border="0" alt="" /></a>
-                </iframe>
-            </nolayer>
-            <table align="center"><tbody><tr><td><ilayer id="layer1" visibility="hidden" width="475" height="35"></ilayer></td></tr></tbody></table>
-            
-            <!-- To be placed at the end of the HTML page code, just before the /BODY tag -->
-            <layer src="http://ad.doubleclick.net/adl/compusa.com/ROS_475x35;sz=475x35;ord=[timestamp]?" width="475" height="35" visibility="hidden" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.width=475;clip.height=35 visibility='show';">
-            </layer>
-            <noscript><a href="http://ad.doubleclick.net/jump/compusa.com/ROS_475x35;sz=475x35;ord=[timestamp]?"><img src="http://ad.doubleclick.net/ad/compusa.com/ROS_475x35;sz=475x35;ord=[timestamp]?" border="0" alt="" /></a>
-            </noscript>
-            <!-- end ad tag -->
-         
-    </div>
-    <div class="hdrPromo2">
-		<a href="/sectors/campaigns/giftsForGrads/2012/index.asp?cm_sp=Masthead-_-RightMast-_-"><img src="http://images.highspeedbackbone.net/banners/dealsforGrads.jpg"></a>
-    </div>
-</div>
 
 
-<div id="hom_24Ex_wrapper">
-        &nbsp;
-    </div>
-<div id="ccExO_wrapper">
-	<a id="ccExo_wrapbtn" href="#" onclick="lightbox('ccExO_wrapper','close')"></a>
-	<div id="ccExO_top">
-    	<div id="site_logo"><img src="http://images.highspeedbackbone.net/homepage/promotions/exclusive_24hour/compUSALogo_overlay.png"></div>
-        <div id="closebuttonPos"><a href="#" onclick="lightbox('ccExO_wrapper','close')"><img src="http://images.highspeedbackbone.net/homepage/promotions/exclusive_24hour/closeButton.png" alt="Close Overlay" border="0"></a></div>
-    <span id="ccExO_title">ONE DAY EXCLUSIVE OFFER!</span>
-    <span id="ccExO_subtitle">Sign up for our CompUSA Exclusive Email Offers and get<br>
-    <b>$10 Off* YOUR NEXT ORDER</b></span>
-    </div>
-    <div id="ccExO_mid">
-    <form id="ccExForm" name="ccExForm" method="post" action="http://www.compusa.com/include/LyrisProxy.asp" s="">
-    	<div id="ccExForm_textInput"><span class="ccExForm_text" id="ccExForm_text2">Please enter your email address:</span>
-        <input id="ccExForm_email" onfocus="if(this.value=='Email Address')this.value='';" onblur="if(this.value=='')this.value='Email Address';" value="Email Address" name="email"></div>
-        <div id="ccExForm_CaptchWrap">
-            <div id="ccExForm_CaptchImg">
-             	<iframe src="https://www.compusa.com/secure/captcha/Default.aspx" width="220" height="95" frameborder="0" scrolling="NO" allowtransparency="true" id="captchaframe"></iframe>
-            </div>
-            <div id="ccExForm_CaptchInput">
-            <span class="ccExForm_text">Enter the text you see on the left:</span>
-            <input id="ccExForm_captcha" name="CaptchaStr"><br>
-            </div>
-        </div><br clear="all">
-        <input type="hidden" name="ListCode" value="CO">
-        <input name="list" type="hidden" value="cusaoverlay">
-        <input type="hidden" name="SrcCode" value="CUEM1103C" size="10" maxlength="100">
-        <input type="hidden" name="demographics" value="ListCode SrcCode">
-        <input type="hidden" name="confirm" value="one">
-        <input type="hidden" name="showconfirm" value="F">
-        <center><input id="ccExForm_submit" type="image" onclick="return overlay_ValidateForm()" src="http://images.highspeedbackbone.net/homepage/promotions/exclusive_24hour/submitbtn_grey.jpg"></center>
-        <input type="hidden" name="url" value="http://www.compusa.com/sectors/aboutus/privacy.asp?page=ty&amp;">        
-    </form>
-       
-    <br clear="all">
-    </div>
-    <div id="ccExO_bottom">
-        <center><a href="javascript:void(0)" onclick="lightbox('ccExO_wrapper','close')"> <img id="ccExButton_no" src="http://images.highspeedbackbone.net/homepage/promotions/exclusive_24hour/nothanksBtn_grey.jpg" border="0"></a></center>
-        <div id="ccEx_TC">
-        	* Requires $100 Minimum Purchase. Cannot be combined with other offers. Limit one discount code per customer. Must validate email address by responding to our confirmation email. After valid email confirmation, please allow up to 2-4 business days to receive your $10 discount via email. Must follow instructions within the email to qualify. To ensure delivery to your inbox, please add Compusa@compusa-online.com to your address book.
-        </div>
-    </div>
-</div>
 
 
-<div id="ccExO_wrapper2">
-	<div id="ccExO_top">
-    <span id="ccExO_title">THANK YOU</span>
-    <span id="ccExO_subtitle">for your email submission</span>
-    </div>
-    <div id="ccExO_mid">
-  	<span id="ccExO_mid_inner">You have one more step to get your $10 discount. Just confirm your entry via the confirmation email to validate your email address and then we will send you a $10 discount link.</span>
-    <br clear="all">
-    </div>
-    <div id="ccExO_bottom">
-        <center><a href="javascript:void(0)" onclick="lightbox('ccExO_wrapper2','close')"> <img id="ccExButton_no" src="http://images.highspeedbackbone.net/homepage/promotions/exclusive_24hour/closeBtn_grey.jpg" border="0"></a></center>
-        <div id="ccEx_TC">
-        	* Requires $100 Minimum Purchase. Cannot be combined with other offers. Limit one discount code per customer. Must validate email address by responding to our confirmation email. After valid email confirmation, please allow up to 2-4 business days to receive your $10 discount via email. Must follow instructions within the email to qualify. To ensure delivery to your inbox, please add Compusa@compusa-online.com to your address book.
-        </div>
-    </div>
-</div>
+<div class="messageBox"><strong>CompUSA.com is changing!</strong> By December 30, we will be consolidating with <a href="http://www.tigerdirect.com" target="_blank">TigerDirect.com</a>, a top e-commerce brand with over 41 local stores for the tech expert. Continue to shop the same great products, but with even better value. You’ll love the new <a href="http://www.tigerdirect.com/sectors/category/deal-of-the-day.asp" target="_blank">Daily Deal Slasher</a> PLUS enjoy <strong>FREE SHIPPING</strong> on thousands of products! Shop <a href="http://www.tigerdirect.com" target="_blank">TigerDirect.com</a> now and save.</div>
 
-
-	
-    <script language="javascript" type="text/javascript">
-    $("#hom_24Ex_wrapper").click(function () { 
-     lightbox('ccExO_wrapper','close');
-    });
-	
-	$("#hom_24Ex_wrapper").click(function () { 
-     lightbox('ccExO_wrapper2','close');
-    });
-	
-	</script>
-
-	
-	
-
-<!-- contentWrapper closed in footer //-->
 <div class="contentWrapper clearfix">
 <div class="mainContent">
 
@@ -1156,7 +898,7 @@ a.fv:hover #fv_img {display:block;}
         
         <a title="Cellular Accessories, Teleconferencing, VoIP" href="http://www.compusa.com/applications/Category/category_tlc.asp?CatId=1625&amp;name=Communications" class="sidenav_grey">Communications</a><br>               
 		
-			<a title="Computers" href="http://www.compusa.com/sectors/computers/index.asp" class="sidenav_grey">Computers</a><br>    
+			<a title="Computers" href="http://www.compusa.com/sectors/category/biz_computers.asp" class="sidenav_grey">Computers</a><br>    
         
 				<a title="PC &amp; Computer Cases" href="http://www.compusa.com/applications/Category/category_tlc.asp?CatId=32&amp;name=Computer-Cases" class="sidenav_grey">Computer 
 				Cases</a><br>
@@ -1183,7 +925,9 @@ a.fv:hover #fv_img {display:block;}
         <a title="Hard Drive Enclosure" href="http://www.compusa.com/applications/Category/guidedSearch.asp?CatId=2777&amp;name=Hard-Drive-Enclosure" class="sidenav_grey">HDD Enclosures</a><br>
            
         <a title="Home Theater" href="http://www.compusa.com/applications/category/category_slc.asp?CatId=4585&amp;name=Home-Theater-System" class="sidenav_grey">Home Theater</a><br>
-        
+      
+			<a title="Housewares" href="http://www.compusa.com/applications/category/category_tlc.asp?CatId=2707" class="sidenav_grey"> Housewares</a><br> 
+      
         <a title="InkJet Cartridges, Laser Toner, Fax Toner, Printer Paper" href="http://www.compusa.com/applications/Category/category_tlc.asp?CatId=29&amp;name=Ink-Toner" class="sidenav_grey">Ink 
         &amp; Toner</a><br>     
         <a title="Keyboards, Mice, Joysticks, Keypads" href="http://www.compusa.com/applications/Category/guidedSearch.asp?CatId=9&amp;name=Keyboard-Mice-Input" class="sidenav_grey">Keyboard 
@@ -1224,7 +968,7 @@ a.fv:hover #fv_img {display:block;}
         Storage</a><br>
         <a title="Computer Scanners, Flatbed Scanners, Handheld Scanners" href="http://www.compusa.com/applications/Category/category_tlc.asp?CatId=25&amp;name=Scanners" class="sidenav_grey">Scanners</a><br>
         <a title="PC &amp; Computer Servers, Systemax Servers" href="http://www.compusa.com/applications/Category/category_tlc.asp?CatId=30&amp;name=Servers" class="sidenav_grey">Servers</a><br>
-        <a title="Services" href="http://www.compusa.com/applications/campaigns/campaigntemplate.asp?CampaignID=839" class="sidenav_grey">Services</a><br>
+        <a title="Services" href="http://www.compusa.com/sectors/campaigns/include/tech-services.asp" class="sidenav_grey">Services</a><br>
         <a title="Business Software, Educational Software, Security Software" href="http://www.compusa.com/applications/Category/category_tlc.asp?CatId=26&amp;name=Software" class="sidenav_grey">Software</a><br>
         <a title="SATA SSD, PATA/IDE SSD, Express Card SSD, PCIe SSD" href="http://www.compusa.com/applications/Category/guidedSearch.asp?CatId=5298" class="sidenav_grey">SSD (Solid State Drive)</a><br>
         <a title="Sound Cards" href="http://www.compusa.com/applications/Category/category_tlc.asp?CatId=107&amp;name=Sounds-Cards" class="sidenav_grey">Sound Cards</a><br>
@@ -1244,6 +988,7 @@ a.fv:hover #fv_img {display:block;}
 		
 					<a title="ATI Store, NVIDIA Store, AGP, PCIE, SLI GPUs" href="http://www.compusa.com/applications/Category/category_tlc.asp?CatId=28&amp;name=Video-Cards" class="sidenav_grey">Video Cards</a><br>
         
+        <a title="Warranty Services" href="http://www.compusa.com/sectors/campaigns/squaretrade/index.asp" class="sidenav_grey">Warranty Services</a><br>
         <a title="Wireless Network, Wireless Routers, Wireless Access Points" href="http://www.compusa.com/applications/category/category_tlc.asp?CatId=35&amp;name=Wireless-Networking" class="sidenav_grey">Wireless Networking</a><br>
             
 	</td>
@@ -1331,9 +1076,9 @@ a.fv:hover #fv_img {display:block;}
                   <table width="100%" border="0" cellspacing="0" cellpadding="5">
                     <!-- content section -->
                     <tbody><tr> 
-                      <td class="BODYstyle"> <p><strong><a name="general"></a>CompUSA.com Privacy Notice</strong> (Updated 8/22/2011)</p>
+                      <td class="BODYstyle"> <p><strong><a name="general"></a>CompUSA.com Privacy Notice</strong> (Updated 11/27/2012)</p>
                         <p>By visiting the CompUSA.com website or any other 
-                          websites operated by CompUSA.com or  its affiliates (collectively, the "Site"), you agree to accept the practices  described in this Privacy Notice. If you do not agree to the terms of this  Privacy Notice, please do not use the Site. Each time you use the Site, you  should check the date of this Privacy Notice (which appears above) and review  any changes that have been made since your last visit to the Site. </p>
+                        websites operated by CompUSA.com or  its affiliates (collectively, the "Site"), you agree to accept the practices  described in this Privacy Notice. If you do not agree to the terms of this  Privacy Notice, please do not use the Site. Each time you use the Site, you  should check the date of this Privacy Notice (which appears above) and review  any changes that have been made since your last visit to the Site. </p>
                         <p>Throughout CompUSA.com’s years  of operation, we have developed relationships with our customers based on  respect and integrity. We're aware of the trust and confidence you demonstrate  when you visit the Site and provide us with information. This Privacy Notice is  posted to demonstrate our leadership in online security and customer service  practices. We treat your information with the same honesty and sensitivity that  we have displayed throughout our company's history.<br>
                         </p>
                         <p><strong><a name="policy"></a>1. Personal Information 
@@ -1347,7 +1092,7 @@ a.fv:hover #fv_img {display:block;}
                           Upon placing an order through the Site, you will automatically 
                           begin receiving both the CompUSA.com catalog and 
                           the CompUSA.com email newsletter, based on the Personal Information you have provided,  unless you opt-out of receiving such communications. If you request an email  newsletter subscription, we will send you an email confirming your request.  This confirmation process allows you to unsubscribe if you change your mind and  decide not to join the list. Furthermore, the confirmation email will alert you  if someone else has entered your email address into our email newsletter  subscription list. In order to make our email newsletters more relevant and  useful to you, our servers may receive a confirmation when you open an email  message from  CompUSA.com.</p>
-                        <p><strong>Sweepstakes Entrants: </strong>From  time to time, we may run sweepstakes. If you enter sweepstakes sponsored by us,  we employ a double opt-in subscription program. Upon registration, a  confirmation email will be sent to the email address you provide to us in  connection with your entry which will include instructions, or a link to  instructions, for completing the subscription process. You will not be entered  until you click through the link in the email we send to you or otherwise  follow the instructions contained therein. In order to make our sweepstakes  more relevant to you, our servers may receive a confirmation when you open an  email message from us.</p>
+                        <p><strong>Sweepstakes Entrants:</strong> From time to time, we may run sweepstakes. If you enter a sweepstakes   sponsored by us, you will opt-in to receive email or other   communications from us and our affiliated partners. You may subsequently   opt-out of the receipt of such email or communications by following the   directions in the email or contacting that site. Your opt-out status   will not affect your participation or chances to win in the sweepstakes.   During the applicable sweepstakes period, however, you may nevertheless   receive emails which we deem are related to the sweepstakes and related programs.</p>
                         <p><strong>2. Use of Information Collected By Us</strong></p>
                         <p>We  use this information in an effort to improve your experience on the Site, to  provide services to you and to communicate with you about information that you  request. We may also use this information to help us target specific offers to  you, to help us develop and improve our Site, and to tailor our Site to your  interests. </p>
                         <p><strong>3. Sharing of Information with Third Parties 
@@ -1360,7 +1105,7 @@ a.fv:hover #fv_img {display:block;}
                         <p><strong>Aggregate Information: </strong>We  provide aggregate information to some of our business partners. This  information is used in a collective manner and does not identify you  individually in any way. We collect and share aggregate information in order to  know more about the general profile of our customers so that we can improve  your shopping experience. </p>
                         <p><strong>Shippers: </strong>If  you make a purchase through the Site, your name, telephone number and shipping  information must be provided to third party shippers such as UPS, FEDEX and the  United States Postal Service to deliver your purchase. There also may be  instances in which we drop-ship orders directly to you from one of our  manufacturers or suppliers. These drop-shippers are only given your name, postal  address, and telephone number for the sole purpose of fulfilling your order.</p>
                         <p><strong>Third Party Transaction-Level Data:</strong> If  you visit the Site from a third-party website the third-party website may be  able to access select information from your individual transaction information.  In order to track and credit your transaction the third-party website may give  you a unique code, cookie or graphic which will uniquely identify you. This  will only happen if you link directly from a third party website to the Site. Any  transactions made at the Site while such a code is active will be reported back  to the third party website. We will only report non-Personal Information to  these websites such as the date of the transaction, the product(s) purchased  and the amount spent. We will not report any information to these third party  websites that will allow them to personally identify you. The presence of a  third party navigation bar at the top of any page on the Site is an indication  that the third party website may be able to see your activity on the Site. </p>
-                        <p><strong>Links to Third Party Site:</strong> The Site contains certain links to third party  websites, such as our vendors. We are not responsible or liable for the privacy  practices or content found on these websites. We recommend that you check the  privacy notice of each website you visit. Links to third party websites are  provided solely for your convenience and any submission of data to such  websites shall be at your sole risk. </p>
+                        <p><strong>Links to Third Party Site:</strong> The Site contains certain links to third party websites, such as our vendors’ websites and links to other websites intended to facilitate our customers’ shopping experience, such as Google Translate. We are not responsible or liable for the privacy practices or content found on these websites. We recommend that you check the privacy notice of each website you visit. Links to third party websites are provided solely for your convenience and any submission of data to such websites shall be at your sole risk. </p>
                         <p><strong>Catalog Requests: </strong>When  you request a catalog from us, we share your name and postal address with a  third party fulfillment company for the sole purpose of sending you the  requested catalog. This third party is not permitted to store the information  is only authorized to use this information for to transmit catalogs to you.</p>
                         <p><strong>Law Enforcement and Protection of Users: </strong>To the extent permitted by law, we will disclose  Personal Information to government authorities or third parties pursuant to a  legal request, subpoena or other legal process. We may also use or disclose your  information as permitted by law to perform charge verifications, report or  collect debts owed, fight fraud or protect our rights or property as well as  those of our affiliates, customers, or its users. You should be aware that,  following disclosure to any third party, your Personal Information may be  accessible by others to the extent permitted or required by applicable law. </p>
                         <p><strong>4. Affiliate Programs</strong></p>
@@ -1372,11 +1117,11 @@ a.fv:hover #fv_img {display:block;}
                         <p>You should recognize, however, that no computer system  is fully secure and that there are inherent risks associated with Internet  transactions. To make sure you have the latest security features on your  browser, you may want to download the most recent version of your favorite  browser, which should have full SSL support. </p>
                         <p><strong>7. Corrections/Information Removal/Opt-Out</strong></p>
                         <p>If your name, e-mail or postal address, telephone  number or other Personal Information changes, you may update, correct or omit  the relevant information by contacting us at privacy@CompUSA.com. In addition, if you no longer wish to receive  communications from us you may opt-out by emailing us at privacy@CompUSA.com, sending 
-                          a letter to: CompUSA.com Privacy Officer, 8300 West Flagler St. Suite# 121-106, Miami, FL 33144 or by clicking on the unsubscribe link within any marketing  e-mail you receive from us. If you no longer wish to receive our catalog, you  may call us at 800-800-8300, email us at privacy@CompUSA.com or send a letter to: CompUSA.com Privacy Officer, 8300 West Flagler St. Suite# 121-106, Miami, FL 33144.</p>
+                          a letter to: CompUSA.com Privacy Officer, 7795 West Flagler St., Suite 35, Miami, FL 33144 or by clicking on the unsubscribe link within any marketing  e-mail you receive from us. If you no longer wish to receive our catalog, you  may call us at 800-800-8300, email us at privacy@CompUSA.com or send a letter to: CompUSA.com Privacy Officer, 7795 West Flagler St., Suite 35, Miami, FL 33144.</p>
                         <p><strong>8. Contact Information</strong></p>
                         <p>If you have any questions or concerns about this Privacy 
                           Notice, please e-mail us at privacy@CompUSA.com 
-                          or send a letter to: CompUSA.com Privacy Officer, 8300 West Flagler St. Suite# 121-106, Miami, FL 33144.</p>
+                        or send a letter to: CompUSA.com Privacy Officer, 7795 West Flagler St., Suite 35, Miami, FL 33144.</p>
                         <p><strong>9. Business Transfer</strong></p>
                         <p>CompUSA.com is a wholly owned subsidiary of Systemax, 
                           Inc., a Fortune 1000 Company (NYSE symbol SYX). However, 
@@ -2047,14 +1792,14 @@ position:absolute;
             margin-top: 20px;"><br>
     </center>
     <!-- begin ad tag-->
-    <iframe src="http://ad.doubleclick.net/adi/compusa.com/ROS_160x600;sz=160x600;ord=3317660689353?" width="160" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
-    <script language="JavaScript" src="http://ad.doubleclick.net/adj/compusa.com/ROS_160x600;sz=160x600;abr=!ie;ord=3317660689353?"
+    <iframe src="http://ad.doubleclick.net/adi/compusa.com/ROS_160x600;sz=160x600;ord=3669418096542?" width="160" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
+    <script language="JavaScript" src="http://ad.doubleclick.net/adj/compusa.com/ROS_160x600;sz=160x600;abr=!ie;ord=3669418096542?"
             type="text/javascript"></script>
     </iframe>
     <noscript>
-        <a href="http://ad.doubleclick.net/jump/compusa.com/ROS_160x600;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=3317660689353?"
+        <a href="http://ad.doubleclick.net/jump/compusa.com/ROS_160x600;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=3669418096542?"
             target="_blank">
-            <img src="http://ad.doubleclick.net/ad/compusa.com/ROS_160x600;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=3317660689353?"
+            <img src="http://ad.doubleclick.net/ad/compusa.com/ROS_160x600;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=3669418096542?"
                 width="160" height="600" border="0" alt=""></a></noscript>
     <!-- End ad tag -->
     <!-- End ad tag -->
@@ -2131,7 +1876,6 @@ position:absolute;
                 <a href="/sectors/aboutus/index.asp">About Us</a>
                 <a href="/sectors/Help/contactus.asp">Contact Us</a> 
                 <a href="http://compusa.iapplicants.com/" target="_blank">Careers</a>
-                <a href="/sectors/affiliate/index.asp">Affiliate Program</a>
                 <a href="/secure/b2blogin.asp">Corporate Sales</a>
                 <a href="/retailstores/compusaStores/index.asp">Store Locator</a>
                 <a href="/computerproducts.asp">Site Map</a>
@@ -2172,18 +1916,16 @@ position:absolute;
                 <input type="text" name="email" value="Enter your email address" onblur="if(this.value=='')this.value='Enter your email address';" onfocus="if(this.value=='Enter your email address')this.value='';" class="inputAlert"><button type="submit" title="Sign up" value="submit" class="btn alertSubmit"><span>Sign up</span></button>
         </fieldset>
 				<input type="hidden" name="list" value="preferred">
-
 				<input type="hidden" name="ListCode" value="L">
-                <input type="hidden" name="SrcCode" value="CUEM1103C"> 
-				<input type="hidden" name="demographics" value="ListCode SrcCode ">
+                <input type="hidden" name="SrcCode" value="COMPUSA"> 
+				<input type="hidden" name="demographics" value="ListCode SrcCode">
 				<input type="hidden" name="confirm" value="one">
 				<input type="hidden" name="showconfirm" value="F">
 				<input type="hidden" name="url" value="/applications/email/thankyouL.asp"> 
-
         </form>
         <div class="connect clearfix">
             <div class="footerCode">
-                <strong>Priority code is:</strong> <span class="refCode">CUEM1103C</span>
+                <strong>Priority code is:</strong> <span class="refCode">COMPUSA</span>
 
             </div>
             <div class="footerShare">
@@ -2203,7 +1945,7 @@ position:absolute;
     </div>
     <div class="secureSeals">
    	  <p align="center" class="logos"><a target="_blank" href="http://www.systemax.com/"><img title="Systemax" alt="Systemax" src="http://images.highspeedbackbone.net/footer/systemax.jpg"></a><a onclick="window.open(this.getAttribute('href'),'help','scrollbars=yes,width=750,height=550');return false;" target="_blank" href="http://www.seflorida.bbb.org/BusinessReport.aspx?CompanyID=92009535&amp;source=ctc"><img border="0" alt="BBB Accredited Business" src="http://images.highspeedbackbone.net/footer/logos-bbb.png"></a><a onclick="window.open(this.getAttribute('href'),'help','scrollbars=yes,width=550,height=450');return false;" target="_blank" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.COMPUSA.COM&amp;lang=en"><img border="0" alt="VeriSign" src="http://images.highspeedbackbone.net/footer/verisign1.gif"></a><a onclick="window.open(this.getAttribute('href'),'help','scrollbars=yes,width=570,height=450');return false;" target="_blank" href="/cgisec/mcs_learn_more.asp"><img border="0" alt="Mastercard Secure" src="http://images.highspeedbackbone.net/footer/logos-mc.png"></a><a onclick="window.open(this.getAttribute('href'),'help','scrollbars=yes,width=570,height=450');return false;" target="_blank" href="/cgisec/vbv_learn_more.asp"><img border="0" alt="Verified by VISA" src="http://images.highspeedbackbone.net/footer/logos-visa.png"></a></p>
-      <p class="copyright">Copyright © 2011 CompUSA.com, Inc. All rights reserved. PO BOX 440309  Miami, Florida 33144-0309</p>
+      <p class="copyright">Copyright © 2012 CompUSA.com, Inc. All rights reserved. 7795 West Flagler Street, Suite 35, Miami, FL 33144</p>
     </div>
     <div class="footerCopy">
       <p>CompUSA 
@@ -2211,7 +1953,7 @@ position:absolute;
         and specifications are subject to change without notice.</p>
         <p>*Price after manufacturer 
         mail-in rebate. Restrictions apply. </p>
-        <p>**FREE SHIPPING applies to orders with a product total of $100 or more via Econoship delivery to residential addresses only in the 48 continental United States. Oversized orders that require delivery by truck do not qualify. Expedited delivery services are also available. For estimated delivery dates and options please enter your shipping address in checkout. B2B orders do not qualify. Econoship not available via Google Checkout.</p>
+        
         <p>†This product is factory recertified. </p>
         
         <p><a href="/applications/campaigns/campaigntemplate.asp?CampaignID=549" target="blank">TAP (Technology Assurance Program)</a></p>
@@ -2249,23 +1991,18 @@ $("#compv3_form").focus(function(){
 google.setOnLoadCallback(onLoad);
 
 </script>
-<!--DB(msRandX)         :6-->
-<!--DB(GuidSort)        :4-->
-<!--DB(msProduct)       :335878-->
-<!--DB(ItemDetailsBeta) :Y-->
-<!--DB(PageSize)        :10-->
-<!--DB(gq)              :-->
+<!--SRCCODE             :COMPUSA-->
+<!--SessionId           :4071895320121222104521204236235245-->
+<!--SRVR                :WEBX23-04B-->
+<!--DB(msImageSC)       :/microsoft/MSelasticity-bnr_620x150B.jpg-->
 <!--DB(Surveyflag)      :1-->
-<!--DB(msImageID)       :/microsoft/MSelasticity-bnr_430x150A.jpg-->
-<!--DB(msImageSC)       :/microsoft/MSelasticity-bnr_620x150A.jpg-->
-<!--SessionId           :3722923320120606045848204236235245-->
-<!--Cart(PHRoutine)     :10-->
-<!--Cart(rNavSearch)    :^D>>Top Product: >>^D>>Top Product: >>^D>>Top Prod-->
+<!--DB(msImageID)       :/microsoft/MSelasticity-bnr_430x150B.jpg-->
+<!--DB(msProduct)       :1782290-->
+<!--DB(msRandX)         :60-->
+<!--Cart(rNavSearch)    :^D>>Top Product: >>^D>>Top Product: >>^D>>Top Product: >>-->
 <!--Cart(rNavLastVisit) :-->
-<!--Cart(rNavCatId)     :^C>>Laptops & Notebooks>>guidedsearch.asp?CatId=17-->
-<!--Cart(rNavEdpDesc)   :^D>>Crucial 2048MB PC6400 DDR2 Memory>>EdpNo=3322895^D>>Microsoft Windows 7 Professional 64BIT - OEM DVD>>EdpNo=5213934^D>>2GB SECURE DIGI-->
-<!--SRVR                :WEBX24-05B-->
-<!--SRCCODE             :CUEM1103C-->
+<!--Cart(rNavCatId)     :^D>>Desktop Computers>>category_tlc.asp?CatId=6^D>>Monitors>>category_tlc.asp?CatId=12^D>>Laptops &amp; Notebooks>>category_tlc.asp?CatId=17-->
+<!--Cart(rNavEdpDesc)   :^D>>Logitech 910000928 M305 Wireless Mouse>>EdpNo=5679637^D>>Kingston 4GB SDHC Flash Memory Card>>EdpNo=3501266^D>>Lite-On Internal 24X DVD Writer>>EdpNo=4829307-->
 
 
 
