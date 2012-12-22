@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the teletechjobs.com privacy policy that was archived on 2012-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120128073121id_/http%3A//www.teletechjobs.com/privacy-en-US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teletechjobs.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223000027id_/http%3A//www.teletechjobs.com/privacy-en-US) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://teletechjobs.com/)
+
+  
+
 
 TeleTech Holdings, Inc. and its subsidiaries and affiliates (together, “TeleTech”) believe in protecting the privacy of personal information of our employees, shareholders, clients and their customers, vendors, business partners and visitors to our various websites. TeleTech endeavors to collect, use and store information for and about all of these groups in a manner consistent with the applicable and enforceable laws of the various countries in which TeleTech operates and in which these groups and their constituents reside. To this end, we have adopted a series of policies designed to protect that information and to inform those about whom we collect and handle personal information about our policies for protecting that information.
 
@@ -24,8 +29,12 @@ TeleTech is committed to protecting the privacy of visitors to this website ("Si
 
  **2\. Personal Information That You Choose to Submit.** As a visitor to our Site, you may choose to use the Site to send us personal information (e.g., your name, mailing address, telephone number, e-mail address), for example, when you send a question via the Site, register for a special service, submit your resume through our Site. Anytime you submit personal information for a specific purpose using the Site, your information is used for that purpose only, unless you consent otherwise or as required by law. When you submit personal information to TeleTech on this Site, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in another country, which may not provide privacy protections similar to those your country provides.
 
+  
+  
 We do not send unsolicited e-mail to you or other visitors to our Site. We may use e-mail to respond to e-mail messages from you, where necessary, to confirm information received online from you and to engage in other communication that you have authorized or that we have determined necessary to more effectively service you and our customers.
 
+  
+  
 In many cases, you choose the amount of information you supply (e.g., when sending us information through the Site, you may choose to include only an e-mail address - not a telephone number or mailing address - for replies).
 
 ### What About "Cookies"?  
@@ -33,8 +42,12 @@ In many cases, you choose the amount of information you supply (e.g., when sendi
 
 The term "cookie" refers to files that are transferred from a website to your computer's hard drive. The purpose of cookies is to enable us to track your activities on our Site. Cookies help us remember who you are. They work in the same fashion as the clerk in a store you visit on a regular basis. The store clerk may not necessarily know your name, but he or she recognizes that you have been in the store before and may remember what you usually purchase while you are in the store. Cookies permit us to gain the same kind of information about you and enable us to provide you with more efficient and personalized service. For example, for sites that require registration, a cookie file can be stored on your computer enabling you to skip the registration process on subsequent visits. Cookies are also frequently used to track the progression of a customer engaged in an online purchase to ensure that the transactional information remains intact.
 
+  
+  
 Some (usually newer) versions of Web browsers allow you to decide whether or not to accept cookie files and some programs notify you when a website is about to deposit a cookie file on your hard drive. If you decide not to accept cookies, you may not be able to successfully navigate some portions of a website.
 
+  
+  
 TeleTech uses cookie files for the customized presentation of Web pages. We do not use cookies to retrieve information from your computer that was not originally sent in the cookie, nor do we use information transferred through cookies for any promotional or marketing purposes, except as expressly set forth in this Policy.
 
 ### With Whom We Share Your Information   
@@ -129,9 +142,15 @@ TeleTech takes reasonable steps to protect your personal information. To prevent
 
 We process personal information only in ways compatible with the purpose for which it was collected or subsequently authorized by the individual. To the extent necessary for such purposes, we take reasonable steps to make sure that personal information is accurate, complete, current, and otherwise reliable with regard to its intended use.
 
+  
+  
  ** _Access and Correction_**
 
 If an individual becomes aware that personal information we maintain about that individual is inaccurate, or if an individual would like to update or review his or her personal information, the individual may contact us using the contact information below. We will take reasonable steps to permit individuals to correct, amend, or delete personal information that is demonstrated to be inaccurate. The individual will need to provide sufficient identifying personal information, such as name, address, birth date, and social security number. We may request additional identifying personal information as a security precaution. In addition, we may limit or deny access to personal information where providing such access would be unreasonably burdensome or expensive in the circumstances, or as otherwise permitted by the Safe Harbor Agreement. In some circumstances, we may charge a reasonable fee, where warranted, for access to personal information.
+
+  
+  
+
 
 ### Enforcement and Dispute Resolution
 
