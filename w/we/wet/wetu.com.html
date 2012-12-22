@@ -1,139 +1,76 @@
-<!--The following is the downloaded HTML source of the wetu.com privacy policy that was archived on 2012-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503213840id_/http%3A//wetu.com/Legal/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wetu.com privacy policy that was archived on 2012-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121222045809id_/http%3A//wetu.com/Home/Privacy_Policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link href="/css/accordion.css" type="text/css" rel="stylesheet" media="screen"><link href="/css/wetu-styles.css" type="text/css" rel="stylesheet" media="screen"><link rel="shortcut icon" href="/favicon.ico"><title>
-	
-    wetu - Privacy Policy
+<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+    <meta charset="utf-8">
+    <title>Privacy Policy</title>
+    
 
-</title>
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Content/js/jquery-1.6.2.min.js"></script>
-    
-    
-    <script type="text/javascript" src="/Content/js/jquery.fancybox.js"></script>
-	<link rel="stylesheet" type="text/css" href="/css/jquery.fancybox-1.3.2.css" media="screen">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,400italic" rel="stylesheet" type="text/css">
+    <link href="/Content/Site.css" rel="stylesheet" type="text/css">
+    <script src="/Scripts/jquery-1.7.1.min.js" type="text/javascript"></script>
+    <script src="/Scripts/modernizr-2.0.6-development-only.js" type="text/javascript"></script>    
+    <script type="text/javascript" src="/Content/packages/jquery.fancybox-1.3.4/jquery.fancybox-1.3.4.js"></script>
+    <link rel="stylesheet" type="text/css" href="/Content/packages/jquery.fancybox-1.3.4/jquery.fancybox-1.3.4.css" media="screen">
     <script type="text/javascript">
-        $(document).ready(function () {
-            $("#loginBox").fancybox({
-                'href': '#login',
+        $(function () {
+            $('#login').fancybox({
+                'href': '/Account/LogOnPopup',
                 'titlePosition': 'inside',
                 'transitionIn': 'none',
                 'transitionOut': 'none'
             });
-            $('.login-textbox').keypress(function (e) {
-                if (e.which == 13) {
-                    jQuery(this).blur();
-                    jQuery('#loginForm').submit();
-                }
-            });
         });
-	</script>
-	<script type="text/javascript" src="/Content/js/input-prompt.js"></script>
-    <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-19661052-1']);
-        _gaq.push(['_setDomainName', '.wetu.com']);
-        _gaq.push(['_trackPageview']);
-
-        (function () {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-        //**Drop down menu**
-        var menu = function () {
-            var t = 15, z = 50, s = 6, a;
-            function dd(n) { this.n = n; this.h = []; this.c = [] }
-            dd.prototype.init = function (p, c) {
-                a = c; var w = document.getElementById(p), s = w.getElementsByTagName('ul'), l = s.length, i = 0;
-                for (i; i < l; i++) {
-                    var h = s[i].parentNode; this.h[i] = h; this.c[i] = s[i];
-                    h.onmouseover = new Function(this.n + '.st(' + i + ',true)');
-                    h.onmouseout = new Function(this.n + '.st(' + i + ')');
-                }
-            }
-            dd.prototype.st = function (x, f) {
-                var c = this.c[x], h = this.h[x], p = h.getElementsByTagName('a')[0];
-                clearInterval(c.t); c.style.overflow = 'hidden';
-                if (f) {
-                    p.className += ' ' + a;
-                    if (!c.mh) { c.style.display = 'block'; c.style.height = ''; c.mh = c.offsetHeight; c.style.height = 0 }
-                    if (c.mh == c.offsetHeight) { c.style.overflow = 'visible' }
-                    else { c.style.zIndex = z; z++; c.t = setInterval(function () { sl(c, 1) }, t) }
-                } else { p.className = p.className.replace(a, ''); c.t = setInterval(function () { sl(c, -1) }, t) }
-            }
-            function sl(c, f) {
-                var h = c.offsetHeight;
-                if ((h <= 0 && f != 1) || (h >= c.mh && f == 1)) {
-                    if (f == 1) { c.style.filter = ''; c.style.opacity = 1; c.style.overflow = 'visible' }
-                    clearInterval(c.t); return
-                }
-                var d = (f == 1) ? Math.ceil((c.mh - h) / s) : Math.ceil(h / s), o = h / c.mh;
-                c.style.opacity = o; c.style.filter = 'alpha(opacity=' + (o * 100) + ')';
-                c.style.height = h + (d * f) + 'px'
-            }
-            return { dd: dd }
-        } ();
-        //**End Drop down menu**
     </script>
+    
 </head>
+
 <body>
-    <div id="bgWrapper">
-        <!-- SITE WRAPPER START -->
-        <div id="siteWrapper">
-            <ul id="menu" class="menu">
-                <li><a href="/Home/Index" class="menulink">Home</a></li>
-                <li><a href="#" class="menulink">About Us</a>
-                    <ul>
-                        <li><a href="/AboutUs/Concept">The Concept</a></li>
-                        <li><a href="/About-Us">About Us</a></li>
-                        <li><a href="/The-Team">The Team</a></li>
-                    </ul>
-                </li>
-                <li><a href="#" class="menulink">Products</a>
-                    <ul>
-                        <li><a href="/Products/interactive-map.html">Interactive Map</a></li>
-                        <li><a href="/Products/virtual-itinerary.html">Virtual Itinerary</a></li>
-                        <li><a href="/Products/ibrochure.html">iBrochure</a></li>
-                        <li><a href="/Products/Rack">Virtual Brochure Rack</a></li>
-                    </ul>
-                </li>
-                <li><a href="#" class="menulink">Clients</a>
-                    <ul>
-                        <li><a href="/Clients/TourOperators">Tour Operators</a></li>
-                        <li><a href="/Clients/Marketers">Marketers</a></li>
-                    </ul>
-                </li>
-            </ul>
-            <script type="text/javascript">
-                var menu = new menu.dd("menu");
-                menu.init("menu", "menuhover");
-            </script>
-            <div class="wetuLogo">
-                <a href="/Home/Index">
-                    <img src="/images/wetu-logo-new.png" alt="wetu Logo">
-                </a>
-            </div>
-            <div class="wetuStrap">
-                <img src="/images/strap-line-top2.gif" alt="Providing the content and tools to sell Africa">
-                <a class="register" href="/Register">Register</a>
-                
-                <div class="login">
+    <section class="container">
+        <header>
+            <nav>
+                <a href="/" id="logoWetu">Wetu</a>
+                <ul>
+                    <li><a class="heading" href="/">Home</a></li>            
+                    <li>
+                        <a href="#" class="heading">Products</a>
+                        
+                        <ul>
+                            <li><a href="/Tour_Operators">For Tour Operators</a></li>
+                            <li><a href="/Travel_Agents">For Travel Agents</a></li>
+                            <li><a href="/Travel_Products">For Travel Products</a></li>
+                        </ul>
+                    </li>
                     
-                        <a href="/Account/LogOn" class="loginButton" id="loginBox">Login</a>
-                    
-                </div>
-            </div>
-            <!-- CONTENT START -->            
-                
-    <div id="contentWrapper">
-        <div class="back">
-            <a href="/Home/Index">« back</a></div>
-        <div class="mainHeaders">
-            <h1>
-                Privacy Policy</h1>
-        </div>
-        <div>
-            <p>
+                    <li>
+                        <a href="#" class="heading">Pricing</a>
+                        <ul>
+                            <li><a href="/Pricing/Tour_Operators">Tour Operators</a></li>
+                            <li><a href="/Pricing/Day_Tour_Operators">Day Tour Operators</a></li>
+                            <li><a href="/Pricing/Tourism_Products">Tourism Products</a></li>
+                            <li><a href="/Pricing/Marketing_Organisations">Marketing Organisations</a></li>
+                            <li><a href="/Pricing/Tourism_Organisations">Tourism Organisations</a></li>
+                            <li><a href="/Pricing/Travel_Agents">Travel Agents</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#" class="heading">Help &amp; Support</a>
+                        <ul>
+                            <li><a href="/Support/iBrochure_Build">iBrochures</a></li>
+                        </ul>
+                    </li>
+                    <li><a class="heading" href="/Home/Contact_Us">Contact us</a></li>
+                </ul>
+                    <a href="/Account/LogOn" class="heading" id="login">Login</a>
+
+
+         
+            </nav>
+        </header>
+        
+<section class="detail">
+    <h2>Privacy Policy</h2>
+    <p>
                 <u><b>Purpose</b></u></p>
             <p>
                 This policy sets out the manner in which WETU handles personal information submitted
@@ -203,113 +140,67 @@
                 This site may contain links to other Web sites and is not responsible for the privacy
                 practices or the content of these Web sites. Furthermore this site uses third-party
                 advertising companies to serve ads when you visit the site.</p>
-        </div>
-        <br>
-    </div>
-
-            <!-- CONTENT WRAPPER END -->
-        </div>
-        <!-- SITE WRAPPER END -->
-    </div>
-    <!-- BG WRAPPER END -->
-    <!-- FOOTER START -->
-    <div id="footerWrapper">
-        <div class="footer">
-            <div class="footerLogo">
-                <img src="/images/footer-logo.jpg" alt="wetu, Powered by SmartGuide"></div>
-            <!-- List Start -->
-            <div class="footerListBlock">
-                <ul>
-                    <div class="footerHeader">
-                        <img src="/images/footer-head-general-info.gif" alt="General Info">
-                    </div>
-                    <li><a href="/About-Us">About Us</a></li>
-                    <li><a href="/AboutUs/Concept">The Concept</a></li>
-                    <li><a href="/The-Team">The Team</a></li>
-                </ul>
-            </div>
-            <!-- List End -->
-            <!-- List Start -->
-            <div class="footerListBlock">
-                <ul>
-                    <div class="footerHeader">
-                        <img src="/images/footer-head-products.gif" alt="Products">
-                    </div>
-                    <li><a href="/Products/interactive-map.html">Interactive Map</a></li>
-                    <li><a href="/Products/virtual-itinerary.html">Virtual Itinerary</a></li>
-                    <li><a href="/Products/ibrochure.html">iBrochure</a></li>
-                    <li><a href="/Products/Rack">Virtual Brochure Rack</a></li>
-                </ul>
-            </div>
-            <!-- List End -->
-            <!-- List Start -->
-            <div class="footerListBlock">
-                <ul>
-                    <div class="footerHeader">
-                        <img src="/images/footer-head-clients.gif" alt="Clients">
-                    </div>
-                    <li><a href="/Clients/TourOperators">Tour Operators</a></li>
-                    <li><a href="/Clients/Marketers">Marketers</a></li>
-                </ul>
-            </div>
-            <!-- List End -->
-            <!-- List Start -->
-            
-            <!-- List End -->
-            <!-- List Start -->
-                <div class="footerListblockCONTACT">
-                    <div style="height: 20px;">
-                    </div>
-                    <div class="footerHeader">
-                        <img src="/images/footer-head-contact.gif" alt="Contact Us">
-                    </div>
-                    Tel: <span class="whiteTxt">+27 (0)21 6745390</span><br>
-                    Email: <a href="mailto:info@wetu.com">info@wetu.com</a>
+</section>
+        <section class="footer-clear">
+        <footer>
+            <div>
+                <div>
+                    <a href="/" id="logoWetuFooter">Wetu</a>
+                    Copyright © 2011 All rights reserved.<br>
+                    <a href="/Home/Terms_Of_Service">Terms of Service</a> | <a href="/Home/Privacy_Policy">Privacy Policy</a> | <a href="/Content/WETU_PAIA_Manual.pdf">PAIA</a>
                 </div>
-                <!-- List End -->
-                <div class="clearLeft"></div>
-                <div class="divFloatLeft" style="color:white;">Copyright © 2011 wetu.com All rights reserved</div>
-                <div class="divFloatRight" style="color:white;"><a href="/Legal/TermsOfUse">Terms of Use</a> | <a href="/Legal/PrivacyPolicy">Privacy Policy</a> | <a href="/Content/WETU_PAIA_Manual.pdf">PAIA</a></div> 
-                    
-        </div>
-    </div>
-    <!-- FOOTER END -->
-    <!--LOGIN BOX-->
-<div style="display:none;">
-    <div id="login" class="popup">
-        <div class="head">
-            <h1>Login</h1>
-        </div>
-        <form action="/Account/LogOn" id="loginForm" method="post">
-        <table cellpadding="0" cellspacing="0" border="0">
-            <tbody><tr>
-                <td colspan="2">
-                    <label>Username</label>
-                    <input class="login-textbox" type="text" name="username" id="username">
-                </td>
-            </tr>
-            <tr>
-                <td colspan="2">
-                    <label>Password</label>
-                    <input class="login-textbox" type="password" name="password">
-                </td>
-            </tr>
-            <tr>
-                <td><a href="/Account/ResetPassword">Forgotten password?</a></td>
-                <td width="120" align="right">
-                    <label for="remember" class="remember">Remember me</label>
-                    <input class="right" type="checkbox" id="remember" name="remember">
-                </td>
-            </tr>
-            <tr>
-                <td colspan="2"><br>
-                    <a href="#" class="small-signup left" onclick="$('#loginForm').submit(); return false;">Log In</a>
-                </td>
-            </tr>
-        </tbody></table>
-        </form>
-    </div>
-</div>
+                <div>
+                    <ul>
+                        <li>
+                            <a href="/Home/About_Us">About Us</a>
+                        </li>
+                        <li>
+                            <a href="/Home/Examples">Wetu at Work</a>
+                        </li>
+                        <li>
+                            <a href="/Home/The_Team">The Team</a>
+                        </li>
+                        
+
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <li>
+                            <a href="/Home/Clients">Clients</a>
+                        </li>
+                        <li>
+                            <a href="/Home/iBrochure_Search">List of iBrochures</a>
+                        </li>                
+                        <li>
+                            <a href="/Home/Partners">Partners</a>
+                        </li>
+                        
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <li>
+                            <a href="/Home/Contact_Us">Contact Us</a>
+                        </li>
+                        <li>
+                            <a href="http://blog.wetu.com/">Blog</a>
+                        </li>
+                        
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <li>
+                            <span>Follow us</span><br>
+                            <a href="https://twitter.com/#!/WetuAfrica"><img height="48" width="48" alt="Twitter" src="/Content/images/social_twitter.png"></a>
+                            
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </footer>
+    </section>
 
 
-<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
+</section><div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
