@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the itshot.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630113251id_/http%3A//www.itshot.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itshot.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222024527id_/http%3A//www.itshot.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # ItsHot.com Privacy Policy
 
 ## Privacy Policy  
   
 ---  
- | 
+  | 
 
 ItsHot is dedicated to provide their customers with exceptional customer service and outstanding value in fine jewelry. We are committed to maintain our customers' privacy to better serve you. We may collect and maintain certain information regarding, for example, your product and service preferences, dates of special occasions related to people you buy gifts for (e.g., birthdays), as  well as billing and shipping information. Nevertheless, under no circumstances do we sell or rent this information to other businesses. We strictly protect and enforce the confidentiality of this information. We do not participate in or contribute to cooperative or shared databases that give other companies access to information. In addition to the personal information that you may provide us with, this Site may use technology that lets us collect certain technical information such as, your Internet protocol address, your computer's operating system, your browser type, traffic patterns and the address of any referring Web Sites.
 
