@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deadrush.com privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419014635id_/http%3A//deadrush.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deadrush.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222071454id_/http%3A//deadrush.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Dead Rush
+# Dead Rush
 
 Privacy Policy
 
@@ -43,49 +43,3 @@ Consumers can have this information corrected by sending us e-mail at the above 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server. 
 
 If you feel that this site is not following its stated information policy, you may contact us via email or at the above addresses or phone number. 
-
-Top Players
-
-Top Rated Games
-
-Most Popular Games
-
-Clone of the arcade fighting g…
-
-[](http://deadrush.com/action/superfighter "<div class='tooltip_title'>Superfighter</div><br>
-				<div class='tooltip_options'>
-					Total Plays : <span style='color:#FFF;'>1646058</span>
-				</div><br>
-				<div class='tooltip_desc'>Clone of the arcade fighting game - Super Fighter</div>")
-
-Play as the Quarterback in thi…
-
-[](http://deadrush.com/sport/ultimate-football "<div class='tooltip_title'>Ultimate Football</div><br>
-				<div class='tooltip_options'>
-					Total Plays : <span style='color:#FFF;'>1624183</span>
-				</div><br>
-				<div class='tooltip_desc'>Play as the Quarterback in this America Football game, throw passes to your teammates.</div>")
-
-Stand firm against the zombie …
-
-[](http://deadrush.com/shooter/dead-rush "<div class='tooltip_title'>Dead Rush</div><br>
-				<div class='tooltip_options'>
-					Total Plays : <span style='color:#FFF;'>1551123</span>
-				</div><br>
-				<div class='tooltip_desc'>Stand firm against the zombie hordes! In this initial version, you have a single weapon and will probably feel a bit challenged to survive. Suck it up and start shooting!</div>")
-
-[](http://deadrush.com/sport/ski-run "<div class='tooltip_title'>Ski Run</div><br>
-				<div class='tooltip_options'>
-					Total Plays : <span style='color:#FFF;'>1500676</span>
-				</div><br>
-				<div class='tooltip_desc'>Ski between the flags</div>")
-
-Gwen, Gabriella, and Grace are…
-
-[](http://deadrush.com/other/girls-go-christmas-dress-up "<div class='tooltip_title'>Girls Go Christmas Dress Up</div><br>
-				<div class='tooltip_options'>
-					Total Plays : <span style='color:#FFF;'>1424610</span>
-				</div><br>
-				<div class='tooltip_desc'>Gwen, Gabriella, and Grace are having a little Christmas party and can't wait for you to dress them up!</div>")
-
-Log-in to save favourites
