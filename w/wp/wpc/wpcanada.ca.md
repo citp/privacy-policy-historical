@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpcanada.ca privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529073931id_/http%3A//wpcanada.ca/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpcanada.ca privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222162319id_/http%3A//wpcanada.ca/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » WPCanada
 
@@ -6,7 +6,7 @@
 WPCanada is committed to protecting your privacy. This Privacy Policy explains our privacy practices and how that may pertain to you.
 
 **Third Party Host**  
-This website is hosted on a third party service provider known as WPWebHost. Any information you choose to send to us is stored on the servers of WPWebHost and Exabytes Network (Singapore) Pte. Ltd.
+This website is hosted on a third party service provider known as HostGator. Any information you choose to send to us is stored on the servers of HostGator.com LLC.
 
 **Cookies**  
 Cookies are small text files placed on your computer by the many websites you visit. We use cookies in order to make your visit more convenient by offering more functionality such as remembered form fill ins. This website also participates in the Google Analytics program which utilizes cookies to collect anonymous traffic data. Please see the section entitled Log Files to see how that information is used.
@@ -49,4 +49,4 @@ We may periodically update this Privacy Policy. If so, the updated version will 
 **Further**  
 If you do not agree with these terms then you should not use this website.
 
-_Last updated: 10 Apr 2012_
+_Last updated: 27 Aug 2012_
