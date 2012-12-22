@@ -1,20 +1,45 @@
-<!--The following is the downloaded HTML source of the scottbrand.com privacy policy that was archived on 2012-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618105551id_/http%3A//www.scottbrand.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scottbrand.com privacy policy that was archived on 2012-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121222174627id_/http%3A//www.scottbrand.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" dir="ltr" itemscope="" itemtype="http://schema.org/"><head><title>
 	
 Scott® Bath Tissue Products | Bathroom Tissue Rolls
 
-</title><meta charset="utf-8"><meta http-equiv="Content-Language" content="en-US"><meta name="keywords" content="share tips, special saving, scott community"><meta name="description" content="Scott® bath tissue rolls and other bathroom products get the job done at a value you'll appreciate."><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><meta name="google-site-verification" content="bwA3skdTPSaXNPxyg1fX2rdcto83NKPFVNfI22DHjBI"><meta name="WT.site" content="SSCO_EN_MAIN">
+</title><meta charset="utf-8"><meta http-equiv="Content-Language" content="en-US"><meta name="keywords" content="share tips, special saving, scott community"><meta name="description" content="Scott® bath tissue rolls and other bathroom products get the job done at a value you'll appreciate."><meta name="google-site-verification" content="bwA3skdTPSaXNPxyg1fX2rdcto83NKPFVNfI22DHjBI"><meta name="WT.site" content="SSCO_EN_MAIN"><meta property="og:description" content="Simply sign up to get instant access to select offers for members only. Unique deals, rewards and more are just a few of the special benefits of becoming a member."><meta property="og:image" content="/images/fbshare.png">
 
 	<!-- For Google Plus -->
-	<meta itemprop="name" content="Scott Brand Products"><meta itemprop="description" content="Bathroom and household products from Scott® Brand"><link rel="icon" href="/images/favicon_final.gif" type="image/x-icon"><link rel="shortcut icon" href="/images/favicon_final.png" type="image/png"><link rel="stylesheet" href="/css/base.css">
+	<meta itemprop="name" content="Scott Brand Products"><meta itemprop="description" content="Bathroom and household products from Scott® Brand"><link rel="icon" href="/images/favicon_final.gif" type="image/x-icon"><link rel="shortcut icon" href="/images/favicon_final.png" type="image/png"><link rel="stylesheet" href="/css/base.css"> 
 	<!--[if lt IE 9]>
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
 	<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	<style type="text/css" media="screen">
-		#mainnav{
-			left:282px;
+	<style>
+		#mask{
+			background:transparent url(/images/bg_mask.png) repeat 0 0;
 		}
+		
+		.modal{
+			border:1px solid #aaa;
+		}
+		
+		#offerlist{
+			border:1px solid #aaa;
+		}
+		
+		#offerlist li{
+			backround:#fff none
+		}
+		
+	</style>
+	<![endif]-->
+
+	
+	<!--[if IE 8]>
+	<style>
+	#sharehead{
+		left:3em;
+		position:relative;
+	}
+		
 	</style>
 	<![endif]-->
 	
@@ -23,14 +48,59 @@ Scott® Bath Tissue Products | Bathroom Tissue Rolls
 		#mainnav{
 			left:275px;
 		}
+		
+		.ssv-box{
+			border-color:#ddd !important;
+		}
+		
+		#fb-ssv-container h3,
+		#tv-spots h3{
+			margin:0;
+			padding:0;
+			text-align:center;
+		}
+		
+		.tv-spot-caption{
+			position:relative;
+			top:25%;
+		}
+		
+		#social-fb{
+			background-image:url(/images/social_icons_fb.png);
+		}
+		
+		#social-yt{
+			background-image:url(/images/social_icons_yt.png);
+		}
+		
+		#frmLogin{
+			border-style:none
+		}
+		
+		.ssvbtn{
+			display:block;
+			height:44px;
+			margin:1em auto;
+		}
+		
+		.signin #content{
+			margin-top:0;
+		}
+		
+		
+		
 	</style>
 	<![endif]-->
 
-	<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
 	<script src="/js/bgc.js"></script>
 	<script src="/js/js.js"></script>
 	<script src="/js/ElapsedTimeDisplay.js"></script>
+    <script type="text/javascript" src="/js/MicrosoftAjax.js"></script>
+    <script type="text/javascript" src="/js/MicrosoftMvcValidation.js"></script>
+	<script>var kc = kc || {};</script>
+
 	<!-- Google+ render call -->
 		<script type="text/javascript">
 		  (function() {
@@ -57,17 +127,74 @@ Scott® Bath Tissue Products | Bathroom Tissue Rolls
     </style>
 </head>
 
+	<!--[if LT IE 9]>
+	<style>
+		#ssv-cta-how li:before{
+			display:none
+		}
+	</style>
+	<script>
+	$(function(){
+		//IE7 doesn’t support pseudo-elements. Boo hiss.
+		//IE8 doesn’t support the border-radius, even with PIE. Boo hiss.
+		$('.ssv-text','#ssv-cta-how').each(function(i,e){
+			$('<img>',{
+				src:'/images/num'+(i+1)+'.png',
+				height:'1.5em',
+				width:'1.5em',
+				css:{verticalAlign:'bottom'}
+			}).prependTo(e);
+		});
+	});
+	</script>
+	<![endif]-->
 
-<body class="meta" onload="initPage()">
+
+<body class="meta ">
+	<div id="fb-root"></div>
+	<script>
+	window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '413160808730502', // App ID
+      channelUrl : '//www.scottbrand.com/js/channel.html', // Channel File
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      xfbml      : true  // parse XFBML
+    });
+
+    // Additional initialization code here
+  };
+
+	(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	<!--
+		<script>
+			FB.Event.subscribe('edge.create', function(href, widget) {
+		    	Log.info('You liked ' + href, widget);
+		  	});
+		</script>
+	-->
 	<div id="wrapper">
 		<header>
 			<nav>
-				<a href="http://www.scottbrand.com/" id="logo"><img src="/images/logo.png" width="159" height="106" alt="Scott®"></a>
+				<a href="/" id="logo">
+					<img src="/images/logo2.png" width="159" height="106" alt="Scott®" id="logo-scott">
+					<img src="/images/logo_sharedvalues.png" width="323" height="74" alt="Shared Values" id="shared-values">
+				</a>
 			<ul id="mainnav">
+				<li><a href="/Offer/ProgramOverview" class="mainlink mainssv">Scott<span class="reg">®</span> Shared Values</a></li>
 				<li>
-					<a href="http://www.scottbrand.com/products" class="mainlink mainprod"><img src="/images/nav_products.png" width="75" height="22" alt="products"></a>
+					<a href="/products" class="mainlink mainprod">Products</a>
 					<ul class="drop-menu">
 						
+
+    <li><a href="/products/naturals">Scott Naturals™</a></li>
+
 
     <li><a href="http://www.scottbrand.com/products/toilet-paper">bath tissue</a></li>
 
@@ -90,12 +217,17 @@ Scott® Bath Tissue Products | Bathroom Tissue Rolls
 
 					</ul>
 				</li>
-				<li><a href="http://www.scottbrand.com/coupons" class="mainlink mainsave"><img src="/images/nav_savings.png" width="64" height="22" alt="savings"></a></li>
-				<li><a href="http://www.scottbrand.com/tips" class="mainlink maintips"><img src="/images/nav_tips.png" width="34" height="22" alt="tips"></a></li>
-				<li><a href="http://www.scottbrand.com/fourweektestdrive" class="mainlink main4wk last"><img src="/images/nav_testdrive.png" width="153" height="19" alt="4 week test drive"></a></li>
+				<li><a href="/tips" class="mainlink maintips">Tips</a></li>
+                
+				    <li><a href="/where-to-buy" target="_self" class="mainlink mainbuy last">Buy Scott®</a></li> 
+                
 			</ul>
 			<ul id="subnav">
-				<li id="wherebuy"><a href="http://kimberlyclark.links.channelintelligence.com/oemsites/13462463/scotts/localbundle.asp?cii_nClientId=60&amp;cii_sProductfamilyid=KMCL&amp;cii_sZip=&amp;cii_sProducttype=upc&amp;cii_nProductid=-1&amp;cii_nRadius=10" target="_blank" id="where-buy">where to buy</a></li>
+                
+				    <li><a href="/secure/registration/signup">sign up</a></li>
+				    <li><a href="/secure/registration/login">sign in</a></li>
+                
+				<li id="homelink"><a href="/">home</a></li>
 				<li id="need-help">need live help? <a href="#" class="cmdChat">chat online</a> or call 1-877-856-7268</li>
 				<li id="country"><a href="#" class="enus"><img src="/images/flag_us.gif" width="14" height="11" alt="USA Flag">English</a>
 					<ul class="drop-menu">
@@ -108,7 +240,7 @@ Scott® Bath Tissue Products | Bathroom Tissue Rolls
 			</ul>
 			<img src="/images/navsearch_small.png" width="73" height="24" alt="search" id="search-link">
 			<div id="search-large" style="display:none">
-				<form action="http://www.scottbrand.com/search" method="get" id="">
+				<form action="//www.scottbrand.com/search" method="get" id="">
 					<input type="text" id="jive-query" name="q" value="" accesskey="/" autocomplete="off">
 					<button id="topNavSearchLargeSearchButton" type="submit" value="Search" class="jive-userbar-search-button"></button>
 					<a href="#" onfocus="$('jive-query').focus(); return false;" accesskey="S" class="searchAccess"></a>
@@ -118,12 +250,44 @@ Scott® Bath Tissue Products | Bathroom Tissue Rolls
 			</nav>
 
 		</header>
-		<div id="content">
-			
+		<div id="content" class="content">
+            
+			    <div id="ssv-cta">
+				    <div id="ssv-cta-links">
+					    <a id="headerSignUp" href="/secure/registration/signup"><img src="/images/btn_signup.png" width="85" height="44" alt="Sign Up"></a> or <a id="headerSignIn" href="/secure/registration/login">sign in</a>
+				    </div>
+				    <h4 class="ssv-head">How it works</h4>
+				    <p id="ssv-cta-why">Become a member of Scott® Shared Values<br>&amp; get access to unique coupons, savings &amp; deals.</p>
+				    <ol id="ssv-cta-how">
+					    <li class="ssv-text">Sign up or sign in</li>
+					    <li class="ssv-text">Get values</li>
+				    </ol>
+			    </div>
+            
         <h2><img src="/images/hd_privacy_policy.png" width="365" height="50" alt="Privacy Policy"></h2>
                 <div id="privacyContentContainer">
                    <div id="privacyContent">
-                    Last updated April 5, 2010<br><br>This Web site is owned and operated by Kimberly-Clark Corporation. Here at Kimberly-Clark, we recognize that many visitors to our site are concerned about the information they provide and how we treat that information. Our Privacy Policy addresses those concerns. We may update the Policy from time to time, so please check in occasionally. Regulations enacted in April 2000 under the U.S. Children's Online Privacy Protection Act give children under 13 years of age greater privacy protection online. Please see our policy under "Children" below.<br><br><strong>Our Policy</strong><br>At our site, we don't collect personally identifiable information from you unless you provide it to us voluntarily and knowingly. You can visit our sites without telling us who you are or revealing information about yourself. However, if you specifically agree to provide us with identifiable information, such as by asking to be put on our mailing list, we may contact you from time to time.<br><br>There are some features of our site that require you to sign up to use. And if you do sign up, we use the information you supply for the purpose of providing the products, product information or services you request. Because of the volume of requests we receive, however, we may have to give your name, e-mail and postal addresses to a fulfillment house or distributor of our products who partner with us. On our behalf our partners will provide you with the information or products in which you expressed an interest. Our partners have agreed to keep the personal information they receive from us confidential and secure unless you have given your consent to it being shared with other product manufacturers.<br><br>Our site sometimes includes notices of sweepstakes or other promotions we are conducting, and we may permit you to send your entry electronically in some cases. If that occurs, we will use the information you provide for the purpose of conducting the promotion (i.e., to contact you if you're a winner).<br><br><strong>Children</strong><br>Children's privacy is of primary concern to us, and our Policy and practices reflect applicable laws and regulations on children's privacy. We do not knowingly collect personal information from children under 13 years of age. Any communication we get that is identified as being from a child under 13 will not be kept by Kimberly-Clark.<br><br><strong>Cookies</strong><br>Like many companies, we sometimes use "cookie" technology on our Web site. These cookies are stored on your computer by your browser. When you log in, this type of cookie tells us whether you've visited us before or are a new visitor. The cookie doesn't obtain any personal information about you or provide us with any way to contact you, and the cookie doesn't extract any information from your computer. We do use the cookie to help us identify site features in which you have the greatest interest, so that we can provide more of what you may want.<br><br>We use the services of NetIQ/WebTrends to track the paths our customers take through our site. In doing so, we are better able to see where our customers go within our site and ensure our site is easy to navigate. If you have any questions concerning NetIQ/WebTrends, then you should refer to the NetIQ/WebTrends Reporting Service Privacy Policy to learn how they collect and use information, particularly the section of the Policy on Privacy Statement for Visitors to Sites Tracked by WebTrends on Demand.<br><br>We use pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to the DoubleClick Privacy Policy.<br><br><strong>Contact Us</strong><br>If you have any questions about our Privacy Policy, you can contact us via e-mail or phone us at 1-800-665-9773. For postal mail, please write to us at:<br><br>Kimberly-Clark Corporation<br>P.O. Box 2020<br>Neenah, WI 54957-2020
+					<p>Effective Date:   August 1, 2012</p>
+					<p><b>Privacy</b> - This Site is owned, operated and maintained by KIMBERLY-CLARK CORPORATION ("Kimberly-Clark").   At Kimberly-Clark, we recognize that visitors to our Site may be concerned about the information they provide and how we treat that information.  This Privacy Policy addresses those concerns.  We may update the Privacy Policy from time to time, so please check in occasionally.  There are specific regulatory requirements regarding online privacy protection for children under age 13.  Please see the information under "Children” below.</p>
+					<p><b>Information We Collect</b>- At this Site, you may choose to provide Kimberly-Clark with information about yourself that is “personally identifiable information”.  Your use of this Site may provide other information about you that is not “personally identifiable information”.  Kimberly-Clark does not collect personally identifiable information about you unless you provide it to us voluntarily and knowingly. You can visit this Site without telling us who you are or revealing information about yourself.  However, if you give us personally identifiable information, such as, by asking to be put on our mailing list, we may contact you from time to time.  Please note that any content posted by you onto this Site becomes published content and is not considered personally identifiable information subject to this Privacy Policy.</p>
+					<p><b>How Information is Collected</b>- Information is collected from you directly and with your knowledge. There are some features and functionality of this Site that require you to sign up to use them.  If you do sign up to use such features, we use the information you supply for the purpose of providing the products, product information or services you request.</p>
+					<p><b>What We Do with Your Information</b>- When you voluntarily sign up on this Site, we add your name, email address and street address to our mailing list.  If you do not wish to receive these mailings, you may request to be removed from our mailing list by visiting <a href="/secure/registration/unsubscribe">this link</a>, or by calling 1-877-856-7268.  With your permission, we may share information such as your name, email address and street address with carefully selected companies (“partners”) whose offers may be of interest to you.  Your permission is given by “opting in” to programs with partners.  Even if you “opt in”, your date of birth, the dates of birth of your family members and credit card information are never shared.  You may “opt out” of partner offers and programs at any time by <!--updating your <a href="/secure/registration/myprofile">User Profile</a>,--> <a href="/contact">Contacting Us</a> or calling 1-877-856-7268.  Our partners are prohibited from using your contact information for purposes other than presenting relevant offers and programs, and they are required to maintain your contact information in confidence.  Our Site sometimes includes notices of sweepstakes or other promotions we are conducting, and we may permit you to send your entry electronically in some cases.  If that occurs, we will use the information you provide for the purpose of conducting the promotion (i.e., to contact you if you're a winner).</p>
+					<p><b>Interest-Based Advertising</b>- Kimberly-Clark participates in interest-based (on-line behavior) advertising. This means that you may see advertising on our website tailored to how you browse or shop, or you may see advertising for Kimberly-Clark products on other websites based on your browsing behavior across websites.  You may opt-out of such interest-based advertising through the same “opt out” methods identified in the previous paragraph.  Kimberly-Clark voluntarily participates in the Digital Advertising Alliance self-regulation program.  As part of this self-regulation program, Kimberly-Clark supports deployment of the Advertising Option icon (“Ad Choices”) in partnership with Evidon.</p>
+					<p><b>Privacy for Mobile Applications</b>- You may choose to download mobile applications offered by Kimberly-Clark.  If you use one or more of our mobile applications,  the mobile application[s] collects certain information automatically, such as the type of mobile device you use, the temporary or persistent unique device identifiers (sometimes called UDID) and information about the way you use the applications.  The mobile applications also collect certain information you voluntarily provide, such as product information when you scan a bar code, and transactional information, such as when you make a purchase or respond to an offer.  Our mobile applications may collect precise information about the location of your device, such as when you search for a store.  However, you must first provide permission through your device before the application obtains such location information from technologies like GPS, Wi-Fi, or cell tower proximity (or a combination of these technologies).  Mobile service providers may collect device-specific information, such as a unique device identifier, when you use our Site or one of our mobile applications. </p>
+					<!--<p><b>Updating Your User Profile</b>- We provide you the ability to exercise certain controls and choices regarding how we collect, use and share your personal information.  By changing your User Profile or contacting us as described within this Privacy Policy, you may do the following: (1) You may correct, update and delete your registration account; (2) You may change your choices for subscriptions, newsletters and alerts; (3) You may choose whether to receive from us offers and promotions for our products and services, or products and services that we think may be of interest to you; (4) You may choose whether we share your contact information with partners so they can send you offers and promotions about their products and services; (5) You may choose whether to receive interest-based advertising; and (6) You may request access to the personal information we hold about you and that we amend or delete it and we request partners with whom we have shared the information do the same.</p>-->
+					<p><b>Security Measures</b>- Kimberly-Clark takes precautions to protect your personal information.  Sensitive information, such as credit card numbers, is collected on a web page enhanced with secure sockets layer protocol to protect the confidentiality of the data.  No transmission of data over the internet or other public network can be guaranteed to be 100 percent secure. We make reasonable efforts to secure your personal information once we receive it, but we cannot guarantee the security of information you send to us.</p>
+					<p><b>Notice to California Residents</b>- If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Kimberly-Clark to partners for the partners' direct marketing purposes. With respect to these partners, this Privacy Policy applies only to their activities within the State of California. To make such a request, please contact us at <a href="/contact">Contact Us</a>.</p>
+					<p><b>Children</b>- Kimberly-Clark is committed to protecting the online privacy of children and making the internet safe. Our Privacy Policy and practices reflect applicable laws and regulations on children's privacy.  We do not knowingly collect personal information from children under 13 years of age.  Any communication we get that is identified as being from a child under 13 will not be kept by Kimberly-Clark.  We encourage parents or guardians of children under 13 to regularly check and monitor their children’s use of email and other activities online.</p>
+					<p><b>Cookies</b>- Like many companies, Kimberly-Clark uses "cookie" technology on our Site. Cookies are information stored on your computer by your browser to save your preferences while you are visiting a particular site.  When you log in, the cookie tells us whether you've visited us before or are a new visitor. The cookie doesn't obtain any personal information about you or provide us with any way to contact you, and the cookie doesn't extract any information from your computer.  We do use the cookie to help us identify site features in which you have the greatest interest so that we can provide more of what you may want.  We use pixels, or transparent GIF files, to help manage online advertising.  These files enable us to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website.  The cookie was placed by us, or by another advertiser who works with us.  With both cookies and pixels, the information that we collect and share is anonymous and not personally identifiable.  If you do not enable cookies to be received by your web browser, you may not be able to access certain features and functionality on this Site.</p>
+					<p><b>Contact Us</b>- If you have any questions about our Privacy Policy, you can contact us via <a href="/contact">email</a> or phone us at 1-877-856-7268. For postal mail, please write to us at:</p>
+					<div class="vcard">
+						<div class="fn org">Kimberly-Clark Corporation</div>
+						<p class="adr">
+							<span class="street-address">P.O. Box 2020</span><br>
+							<span class="locality">Neenah</span>, <span class="region">WI</span> <span class="postal-code">54957-2020</span>
+						</p>
+					</div>
+					
         <div id="topBar">
         </div> <!--topBar-->
         <div id="bottomBar">
@@ -135,35 +299,107 @@ Scott® Bath Tissue Products | Bathroom Tissue Rolls
 
 		</div>
 		<footer>
+			<div id="social">
+				<div id="social-links">
+				<h4 class="ssv-text">Stay Connected to Value</h4>
+				<a href="http://www.facebook.com/ScottBrandProducts" target="_blank" class="social" id="social-fb">Like Us</a>
+				<a href="http://www.youtube.com/ScottBrandProducts" target="_blank" class="social" id="social-yt">Watch Us</a>
+				</div>
+				<div id="share-links">
+					<h4 class="ssv-text">Share the Values</h4>
+					<!-- 	 Button BEGIN -->
+						<div class="addthis_toolbox addthis_default_style" addthis:url="www.scottbrand.com">
+						<a class="addthis_button_facebook footerlink" addthis:url="www.scottbrand.com"></a>
+						<a class="addthis_button_twitter footerlink" addthis:url="www.scottbrand.com"></a>
+						<a class="addthis_button_email footerlink" addthis:url="www.scottbrand.com"></a>
+						</div>
+						<script type="text/javascript">var addthis_config = {"data_track_addressbar":false};
+						var addthis_share = {url:"https://www.scottbrand.com"}
+						</script>
+						<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4fcf7a6d790639c4"></script>
+						<!-- AddThis Button END -->
+						<script>
+							kc.pos = 0;
+							kc.high = $('#share-links').offset().top;
+							$(this).bind('click',function(e){
+								kc.pos = $(this).scrollTop() + e.clientY;
+							})
+							
+							addthis.addEventListener('addthis.menu.share', function(e){
+								/*
+									If the mouse click (kc.pos) is within a 100px range of the #share-links container,
+									it’s a page-wide button. Otherwise it's page specific.
+								*/
+								var axel = Math.random() + "", a = axel * 10000000000000;
+								
+								if(Math.abs(kc.pos - kc.high) < 100){
+									switch(e.data.service){
+										case 'twitter':
+										dcsMultiTrack('DCS.dcsuri','/ScottSharedValues','WT.ti','ScottSharedValues','WT.z_ll','ScottSharedValues_HomePage','WT.z_ln','TwitterShare','WT.dl','40');
+										break;
+									
+										case 'facebook':
+										$('//fls.doubleclick.net/activityi;src=1767805;type=scott242;cat=ssvfa945;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>').appendTo('body');
+										dcsMultiTrack('DCS.dcsuri','/ScottSharedValues','WT.ti','ScottSharedValues','WT.z_ll','ScottSharedValues_HomePage','WT.z_ln','FB_Share','WT.dl','40');
+										break;
+									
+										case 'email':
+										dcsMultiTrack('DCS.dcsuri','/ScottSharedValues','WT.ti','ScottSharedValues','WT.z_ll','ScottSharedValues_HomePage','WT.z_ln','Email_Share','WT.dl','40');
+									}
+								return true;
+								}
+								if(document.location.toString().indexOf('tips') >= 0){
+									switch(e.data.service){
+										case 'twitter':
+										dcsMultiTrack('DCS.dcsuri','/ScottSharedValues','WT.ti','ScottSharedValues','WT.z_ll','ScottSharedValues_Tips','WT.z_ln',' TwitterShareTip','WT.dl','40');
+										break;
+									
+										case 'facebook':
+										dcsMultiTrack('DCS.dcsuri','/ScottSharedValues','WT.ti','ScottSharedValues','WT.z_ll','ScottSharedValues_Tips','WT.z_ln',' FBShareTip','WT.dl','40');
+										break;
+									
+										case 'email':
+										dcsMultiTrack('DCS.dcsuri','/ScottSharedValues','WT.ti','ScottSharedValues','WT.z_ll','ScottSharedValues_Tips','WT.z_ln',' EmailShareTip','WT.dl','40');
+									}
+								}
+								else{
+									switch(e.data.service){
+										case 'twitter':
+										dcsMultiTrack('DCS.dcsuri','/ScottSharedValues','WT.ti','ScottSharedValues','WT.z_ll','ScottSharedValues_Tips','WT.z_ln',' TwitterShareDeal','WT.dl','40');
+										break;
+									
+										case 'facebook':
+										dcsMultiTrack('DCS.dcsuri','/ScottSharedValues','WT.ti','ScottSharedValues','WT.z_ll','ScottSharedValues_Tips','WT.z_ln',' FBShareDeal','WT.dl','40');
+										break;
+									
+										case 'email':
+										dcsMultiTrack('DCS.dcsuri','/ScottSharedValues','WT.ti','ScottSharedValues','WT.z_ll','ScottSharedValues_Tips','WT.z_ln',' EmailShareDeal','WT.dl','40');
+									}
+								}
+							});
+						</script>
+				</div>
+				
+			</div>
 			<ul class="footermenu">
 				<li><a href="http://www.scottbrand.com/aboutus">About Scott</a></li>
 				<li><a href="http://www.scottbrand.com/faq">FAQ</a></li>
 				<li><a href="http://www.scottbrand.com/contact">Contact</a></li>
 				<li><a href="http://www.scottbrand.com/terms">Legal Statement</a></li>
 				<li><a href="http://www.scottbrand.com/privacypolicy">Privacy Policy</a></li>
-				<li>
-					<span>Find Us</span>
-					<a href="http://www.facebook.com/ScottNaturals" target="_blank" class="social" id="social-fb"><img src="/images/social_fb.png" width="14" height="14" alt="Facebook"></a>
-					<a href="http://www.youtube.com/ScottBrandProducts" target="_blank" class="social" id="social-yt"><img src="/images/social_yt.png" width="14" height="14" alt="YouTube"></a>
-					<!-- Place this tag where you want the +1 button to render -->
-					
-					<div class="g-plusone" data-size="small" data-callback="trackGClick"></div> 
-					<script type="text/javascript" charset="utf-8">
-						var trackGClick = function(){
-							var axel = Math.random() + "", a = axel * 10000000000000;
-							$('<iframe src="http://fls.doubleclick.net/activityi;src=1767805;type=scott242;cat=googl121;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>').appendTo('body');
-							dcsMultiTrack('DCS.dcssip','www.scottbrand.com','DCS.dcsuri','/social_google1.aspx','WT.ti','social_google1','WT.dl','6','WT.conv','1','WT.convval','google1','WT.si_n','','WT.si_x','','WT.si_cs','');
-						}
-					</script>
-				</li>
 			</ul>
-			<p>Ideas contained in the “tips” section have not been tested by K-C, and K-C does not endorse any idea or product mentioned therein.</p>
-			<p>For more information about other great Kimberly-Clark brands, visit our website at <a href="http://www.kimberly-clark.com" title="Kimberly-Clark Corporation">www.kimberly-clark.com</a>.</p>
-			<p>All names, logos and trademarks are the property of Kimberly-Clark Worldwide, Inc. or its affiliates. © 2005-2011 KCWW.</p>
-			<p>All Rights Reserved. Your visit to this site and use of the information herein is subject to the terms of our <a href="http://www.scottbrand.com/terms">Legal Statement</a>.</p>
-			<p>Please review our <a href="http://www.scottbrand.com/privacypolicy">Privacy Policy</a>.</p>
+			<div class="footnotes">
+				<p><b>No purchase necessary</b> to become a Scott® Shared Values member. Must be U.S. resident, 18 or older. Program scheduled to end 12/31/13. Some restrictions apply. See <a href="/offer/termsandconditions">full rules</a> for details.</p>
+				<p>Ideas contained in the “tips” section have not been tested by K-C, and K-C does not endorse any idea or product mentioned therein.</p>
+				<p>For more information about other great Kimberly-Clark brands, visit our website at <a href="http://www.kimberly-clark.com" title="Kimberly-Clark Corporation">www.kimberly-clark.com</a>.</p>
+				<p>All names, logos and trademarks are the property of Kimberly-Clark Worldwide, Inc. or its affiliates. © 2005-2012 KCWW.</p>
+				<p>All Rights Reserved. Your visit to this site and use of the information herein is subject to the terms of our <a href="http://www.scottbrand.com/terms">Legal Statement</a>.</p>
+				<p>Please review our <a href="http://www.scottbrand.com/privacypolicy">Privacy Policy</a>.</p>	
+			</div>
+			
 		</footer>
 	</div>
+	<div id="mask"></div>
 	<script src="/js/publicChat.js"></script>
 	<script src="/js/publicChatCustomParams.js"></script>
 	<script src="/js/publicChatInit.js"></script>
@@ -171,25 +407,24 @@ Scott® Bath Tissue Products | Bathroom Tissue Rolls
 	<script src="/js/wtcollect.js" type="text/javascript"></script>
 	<script src="/js/webtrends_tags.js" type="text/javascript"></script>
 	<noscript>
-	<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsj4mhwo00000k7fs8nc91l4_8x5k/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.1.0"/></div>
+	<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//statse.webtrendslive.com/dcsj4mhwo00000k7fs8nc91l4_8x5k/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.1.0"/></div>
 	</noscript>
 
 	<script language="JavaScript">
-	<!--
-			var gomez = {
-				gs: new Date().getTime(),
-				acctId: 'FA5073',
-				pgId: 'http://www.scottbrand.com',
-				grpId: ''
-			}; 
+	<!-- 
+	 var gomez={ 
+			 gs: new Date().getTime(), 
+			 acctId:'FA5073', 
+			 pgId:'www.scottbrand.com/community/landing', 
+			 grpId:'' 
+	 }; 
 	 //--> 
 	 </script> 
 	 <script language="JavaScript">
-	<!--
-		 /*Gomez tag version: 7.0.1*/var gomez = gomez ? gomez : {}; gomez.h3 = function (d, s) { for (var p in s) { d[p] = s[p]; } return d; }; gomez.h3(gomez, { b3: function (r) { if (r <= 0) return false; return Math.random() <= r && r; }, b0: function (n) { var c = document.cookie; var v = c.match(new RegExp(';[ ]*' + n + '=([^;]*)')); if (!v) v = c.match(new RegExp('^' + n + '=([^;]*)')); if (v) return unescape(v[1]); return ''; }, c2: function (n, v, e, p, d, s) { try { var t = this, a = t.domain ? t.domain : location.hostname; var c = n + '=' + escape(v) + (e ? ';expires=' + e.toGMTString() : '') + (p ? ';path=' + p : ';path=/') + (d ? ';domain=' + d : ';domain=' + a) + (s ? ';secure' : ''); document.cookie = c; } catch (e) { } }, z0: function (n) { var t = this; if (n) { var s = t.b0("__g_c"); if (!s) return ''; var v = s.match(new RegExp(n + ':([^\|]*)')); if (v) return unescape(v[1]); return ''; } else return ''; }, z1: function (n, m) { var t = this; if (n) { var s = t.b0("__g_c"); if (s) { if (s.indexOf(n + ':') != -1) s = s.replace(new RegExp('(' + n + ':[^\|]*)'), n + ':' + m); else s = s == ' ' ? n + ':' + m : s + '|' + n + ':' + m; t.c2("__g_c", s); } else t.c2("__g_c", n + ':' + m); }; }, b2: function (v, s) { var t = this, f = new Date(t.gt() + 946080000000), g = '' + v + '_' + s; t.c2('__g_u', g, f); t.gc.c = v; t.gc.d = s; t.z1('c', v); t.z1('d', s); }, gt: function () { return new Date().getTime() }, b5: function () { return new Date().getTime() - gomez.gs }, j1: function (h) { if (h) { if (h.indexOf('<') != -1 || h.indexOf('%3C') != -1 || h.indexOf('%3c') != -1) return null; if (window.decodeURIComponent) return decodeURIComponent(h); else return unescape(h); } return null; }, f1: function (u, t) { try { if (u) { if (!/(^http|^https)/.test(u)) { if (t == 1) return gomez.j1(location.hostname); else return u; } var p = new RegExp('(^http|^https|):\/{2}([^\?#;]*)'); if (t == 1) p = new RegExp('(^http|^https|):\/{2}([^\/\?]*)'); var r = u.match(p); if (r && t == 1) return gomez.j1(r[2]); else if (r) return r[0]; } return null; } catch (e) { return null; } }, j3: function (n) { try { var t = this, key = escape((window.location + n).replace(new RegExp("([:\/\.])", "gm"), "")); if (key && key.length > 100) { key = key.substring(0, 100); } if (window.localStorage) { window.localStorage.setItem(key, t.gt()); } else { t.z1('r', key + '___' + t.gt()); } } catch (e) { return; } }, j2: function () { try { var m, t = this, key = escape((document.referrer + window.location).replace(new RegExp("([:\/\.])", "gm"), "")); if (key && key.length > 100) { key = key.substring(0, 100); } if (window.localStorage) { m = window.localStorage.getItem(key); } if (!m) { var c = t.z0("r"); if (c) { var r = c.split('___'); if (r && r[0] == key) { m = r[1]; } }; }; t.j4(); return m; } catch (e) { return; } }, j4: function () { try { var t = this; if (window.localStorage) { var key = escape((document.referrer + window.location).replace(new RegExp("([:\/\.])", "gm"), "")); if (key && key.length > 100) { key = key.substring(0, 100); } window.localStorage.removeItem(key); } else { t.z1('r', ''); } } catch (e) { return; } }, j5: function () { var ret = ''; for (var i = 0; i < 3; i++) { ret = ret + (((1 + Math.random()) * 0x10000) | 0).toString(16).substring(1); } ret = parseInt(ret, 16); return ret; }, j6: function () { var t = this; var g = t.b0("__g_u"); if (g && g != '1' && g.indexOf('NaN') == -1 && g.indexOf('undefined') == -1) { var r = g.split("_"); if (r.length > 5) { if (parseInt(r[5]) < new Date().getTime()) { return undefined; } else { return parseFloat(r[2]); } } } return undefined; }, nameEvent: function () { }, startInterval: function () { }, endInterval: function () { }, customValue: function () { } }); gomez.P = function () { }; gomez.P.prototype = { hash: function (o) { if (!o) return ''; var t = this, s = '{n:' + t.f9(o['n']) + '|'; for (var i in o) { if (i == 'n') continue; if (typeof (o[i]) == 'string' || typeof (o[i]) == 'number') s += i + ':' + t.f9(o[i]) + '|'; }; s = s.substring(0, s.length - 1); return s + '}'; }, f9: function (s) { s = '' + s; s = s.replace('|', '#$#').replace(':', '$*$').replace('{', '@#@').replace('}', '*@*').replace('&', '!*!'); return s; }, g0: function () { var t = this, z = gomez; if (z.grpIds) z.h3(z.gc, z.grpIds); if (z.wrate) z.gc.r = z.wrate; z.gc.e = z.grpId; for (var i = 1; i < 5; i++) { if (z["grpId" + i] != undefined) { z.gc["e" + i] = z["grpId" + i]; } } z.gc.b = z.pgId; z.gc.l = z.f1(z.m, 2); if (self.screen) { z.gc.m = screen.width; z.gc.o = screen.height; } else if (self.java) { var j = java.awt.Toolkit.getDefaultToolkit(); var s = j.getScreenSize(); z.gc.m = s.width; z.gc.o = s.height; }; z.gc.p = navigator.platform; if (navigator.cpuClass) z.gc.q = navigator.cpuClass; if (!z.gc.f && !z.gc.g) { try { var a = new Array("MSIE", "Firefox", "Opera", "Safari", "Chrome"), b = document.createElement('div'); if (b.addBehavior && document.body) { b.addBehavior('#default#clientCaps'); z.gc.k = b.connectionType; } } catch (e) { }; for (var i = 0; i < a.length; i++) { if (navigator.userAgent.indexOf(a[i]) != -1) { z.gc.g = a[i]; z.gc.f = (new String(navigator.userAgent.substring(navigator.userAgent.indexOf(a[i])).match(/[\d.]+/))).substring(0); } } if (!z.gc.f && !z.gc.g) { z.gc.g = navigator.vendor || navigator.appName; z.gc.f = (new String(navigator.appVersion.match(/[\d.]+/))).substring(0); } } return t.hash(z.gc); } }; try { gomez.gc = { 'n': 'c' }; var iU = gomez.b0('__g_u'); if (iU == undefined || iU == '') { gomez.b2(gomez.j5(), 0); } var sR = gomez.j6(); if (sR == undefined) { sR = 1; gomez.isFirstVi = true; } else { gomez.isFirstVi = false; } var wR = gomez.wrate ? parseFloat(gomez.wrate) : (gomez.wrate == 0 ? 0 : 1); wR = wR < 0 ? 0 : (wR > 1 ? 1 : wR); gomez.inSample = gomez.z0('a'); if (!gomez.inSample || gomez.inSample == '') { if (gomez.b3(wR * sR)) { gomez.inSample = 1; } else { gomez.inSample = 0; } gomez.z1('a', gomez.inSample); } else { gomez.inSample = parseInt(gomez.inSample); } gomez.runFlg = gomez.inSample > 0; if (gomez.runFlg) { gomez.clickT = gomez.j2(); gomez.h1 = function (v, d) { return v ? v : d }; gomez.gs = gomez.h1(gomez.gs, new Date().getTime()); gomez.acctId = gomez.h1(gomez.acctId, ''); gomez.pgId = gomez.h1(gomez.pgId, ''); gomez.grpId = gomez.h1(gomez.grpId, ''); gomez.E = function (c) { this.s = c; }; gomez.E.prototype = { g1: function (e) { var t = gomez, i = t.g6(e); if (i) i.e = t.b5(); } }; gomez.L = function (m) { this.a = m; }; gomez.L.prototype = { g2: function (m) { var t = gomez, n = t.b5(); var s = document.getElementsByTagName(m); var e = t.k; if (m == 'script') e = t.j; if (m == 'iframe') e = t.l; if (s) { var l = s.length; for (var i = 0; i < l; i++) { var u = s[i].src || s[i].href; if (u && !e[u]) { var r = new gomez.E(e); t.grm[u] = r; e[u] = new t.c7(u, n); if (t.gIE && m == 'script') t.e2(s[i], 'readystatechange', t.d2, false); else t.e2(s[i], 'load', r.g1, false); } } } } }; gomez.L.m = new Object; gomez.S = function () { var t = this, h = gomez.acctId + ".r.axf8.net"; t.x = ('https:' == location.protocol ? 'https:' : 'http:') + '//' + h + '/mr/b.gif?'; t.pvHttpUrl = ('https:' == location.protocol ? 'https:' : 'http:') + '//' + h + '/mr/e.gif?'; t.abHttpUrl = ('https:' == location.protocol ? 'https:' : 'http:') + '//' + h + '/mr/f.gif?'; }; gomez.h2 = function () { var t = this; t.gIE = false; t.f = new Object; t._h = 0; t.j = new Object; t.k = new Object; t.l = new Object; t.m = location.href; t.p = -1; t.q = -1; t.u = new Array; t._w = false; t.gSfr = /KHTML|WebKit/i.test(navigator.userAgent); t.grm = new Object; t.b; t.d = false; t.x = false; t.s = new gomez.S; t._a = false; t.h6 = false; t.n1 = 0; t.c = false; }; gomez.h3(gomez, { h5: function (u) { try { var s = document.createElement('script'); s.async = true; if (navigator.userAgent.indexOf('Firefox/3.5') != -1) { s.defer = true; } s.src = u; s.type = 'text/javascript'; if (document.body) document.body.appendChild(s); else if (document.documentElement.getElementsByTagName('head')[0]) document.documentElement.getElementsByTagName('head')[0].appendChild(s); } catch (e) { var t = gomez; if (t.gSfr) document.write("<scr" + "ipt src='" + u + "'" + "><\/scr" + "ipt>"); } }, a9: function () { var t = gomez, i = t.z0('a'), g = t.b0('__g_u'), h = t.z0('h'), b = t.z0('b'); t.gc.h = b; if (h) t.n1 = parseInt(h); if (!t.gc.h) t.gc.h = 1; t.z1('b', parseInt(t.gc.h) + 1); if (i) { t.a = parseInt(i); if (t.a == 1) { t._w = true; } else if (t.a == 3) { t.x = true; t._w = true; }; t.d = true; } if (!t.gc.a) return; if (b) { t.gc.c = t.z0('c'); t.gc.i = t.z0('e'); t.gc.j = t.z0('f'); t.iFS = false; } else { var s = 'v=1'; t.c2('__g_u', '1', new Date(t.gt() + 1000)); t.iFS = true; if (t.b0('__g_u') && g && g != '1' && g.indexOf('NaN') == -1 && g.indexOf('undefined') == -1) { s = 'v=0'; var r = g.split('_'); t.b2(parseInt(r[0]), parseInt(r[1]) + 1); if (r[4] && r[4] != '0' && t.gt() < parseInt(r[5]) && r[2] && r[2] != '0') { t.b1(parseFloat(r[2]), parseFloat(r[3]), parseFloat(r[4]), parseInt(r[5])); if (r[6]) t.n0(parseInt(r[6])); }; }; t.h6 = true; }; t.gc.d = t.z0('d'); if (!t.gc.d || (t.gc.d && t.gc.d == 0)) { t.z1('d', 1); t.gc.d = 1; } t.b = t.z0('g'); t.j8(); if (i && !t.isFirstVi && t._w && !t._a) { t.h7(); t._a = true; }; }, h7: function () { var t = gomez, u = t.tloc ? t.tloc : ('https:' == location.protocol ? 'https:' : 'http:') + '//' + t.acctId + '.t.axf8.net/js/gtag7.0.js'; t.h5(u); }, n0: function (h) { var t = gomez, f = new Date(t.gt() + 946080000000), g = t.b0('__g_u'); t.n1 = h; t.z1('h', h); if (g && g != '1' && g.indexOf('NaN') == -1 && g.indexOf('undefined') == -1) { var r = g.split('_'); g = '' + r[0] + '_' + r[1] + '_' + r[2] + '_' + r[3] + '_' + r[4] + '_' + r[5] + '_' + h; t.c2('__g_u', g, f); }; }, b1: function (v, s, q, f) { var t = this; if (s == undefined) s = 1; t.d = true; t.z1('e', v); t.z1('f', s); t.gc.i = v; t.gc.j = s; t.h4(v, s, q, f); }, b3: function (i, v, s) { var t = this; t.d = true; if (s == undefined) s = 1; if (i == 0 || i == 1) { t.a = i; if (i == 1) { t._w = true; if (!t._a) { t.h7(); t._a = true; }; } else { t.d = false; } t.z1('a', t.a); if (v != undefined) { t.b1(v, s); } } else if (i == 2) { t.h4(v, s); } }, h4: function (o, p, q, d) { var t = this, f = new Date(t.gt() + 946080000000), g = t.b0('__g_u'); if (g && g != '1' && g.indexOf('NaN') == -1 && g.indexOf('undefined') == -1) { var r = g.split('_'), s; if (d) s = d; else if (q && q >= 0) s = new Date(t.gt() + parseInt(q * 86400000)).getTime(); else { q = 5; s = new Date(t.gt() + 432000000).getTime(); }; g = '' + r[0] + '_' + r[1] + '_' + o + '_' + p + '_' + q + '_' + s; t.c2('__g_u', g, f); }; }, b6: function () { var t = gomez; t.p = t.b5(); }, f8: function () { var t = this; if (t.pollId1) clearInterval(t.pollId1); }, b7: function () { var t = gomez; t.f8(); t.q = t.b5(); }, c7: function (u, s) { var t = this; t.m = u; t.s = s; }, c8: function () { var t = gomez, n = t.b5(), l = document.images.length; if (l > t._h) { for (var i = t._h; i < l; ++i) { var u = document.images[i].src; if (u) { var r = new gomez.E(t.f); t.grm[u] = r; t.f[u] = new t.c7(u, n); t.e2(document.images[i], 'load', t.c4, false); t.e2(document.images[i], 'error', t.c5, false); t.e2(document.images[i], 'abort', t.c6, false); } } } t._h = l; }, c4: function (e) { var t = gomez, i = t.g6(e); if (i) i.e = t.b5(); }, c5: function (e) { var t = gomez, i = t.g6(e); if (i) { i.e = t.b5(); i.b = 1; } }, c6: function (e) { var t = gomez, i = t.g6(e); if (i) i.a = t.b5(); }, g6: function (e) { var t = gomez, e = window.event ? window.event : e, a = t.d8(e), i; if (t.grm[a.src || a.href] && t.grm[a.src || a.href].s) i = t.grm[a.src || a.href].s[a.src || a.href]; return i; }, d2: function () { var t = gomez; var e = window.event ? window.event : e, s = t.d8(e); if (s.readyState == 'loaded' || s.readyState == 'complete') { var o = t.j[s.src]; if (o) o.e = t.b5(); } }, nameEvent: function (n) { var t = this; t.f6(n, 1); }, startInterval: function (n) { var t = this; t.f6(n, 2, 1); }, endInterval: function (n) { var t = this; t.f6(n, 2, 2); }, f6: function (n, p, b) { if (n && n.length > 20) n = n.substring(0, 20); var t = this, f = t.u; if (p == 3) { f[f.length] = { 'n': 'a', 'a': n, 'b': b, 'e': p, 'f': undefined }; } else { f[f.length] = { 'n': 'a', 'a': n, 'b': t.b5(), 'e': p, 'f': b }; } }, customValue: function (n, v) { var t = this; if (typeof (v) != 'number') { return; } t.f6(n, 3, v); }, d8: function (e) { if (gomez.gIE) return e.srcElement || {}; else return e.currentTarget || e.target || {}; }, e2: function (e, p, f, c) { var n = 'on' + p; if (e.addEventListener) e.addEventListener(p, f, c); else if (e.attachEvent) e.attachEvent(n, f); else { var x = e[n]; if (typeof e[n] != 'function') e[n] = f; else e[n] = function (a) { x(a); f(a); }; } }, i1: function () { var d = window.document, done = false, i2 = function () { if (!done) { done = true; gomez.b6(); gomez.a9(); } }; (function () { try { d.documentElement.doScroll('left'); } catch (e) { setTimeout(arguments.callee, 50); return; } i2(); })(); d.onreadystatechange = function () { if (d.readyState == 'complete') { d.onreadystatechange = null; i2(); } }; }, j7: function (s, toUrl) { try { var t = this, z = gomez; if (!s) return; s += "{n:u|e:1}"; var p = ''; if (t.isFirstVi) { p = '&a=' + z.acctId + '&r=1&s=1'; } else if (t.iFS) { p = '&a=' + z.acctId + '&r=' + t.j6(); } if (window.encodeURIComponent) s = encodeURIComponent(s); else s = escape(s); z.h5(z.e(toUrl) + 'info=' + s + p); } catch (err) { } return; }, e: function (u) { if (!/\?|&/.test(u)) if (!/\?/.test(u)) u += '?'; else u += '&'; return u; }, j8: function () { var t = gomez, p = new gomez.P(); var s = p.g0(); t.j7(s, t.s.pvHttpUrl); }, g7: function () { try { var t = gomez; t.gc.a = t.acctId; /*@cc_ont.gIE = true; @*/if (!t.gIE) t.gIE = ! -[1, ]; if (t.gIE) { t.i1(); window.attachEvent('onload', t.b7); } else if (window.addEventListener) { window.addEventListener('DOMContentLoaded', t.b6, false); window.addEventListener('load', t.b7, false); } else if (t.gSfr) { var m = setInterval(function () { if (/loaded|complete/.test(document.readyState)) { clearInterval(m); delete m; t.b6(); t.b7(); } }, 10); } else return; if (!t.jbo) { t.c8(); t.pollId1 = setInterval(t.c8, 10); } if (!t.gIE) t.a9(); } catch (e) { return; } } }); gomez.h2(); gomez.g7(); } } catch (e) { };
+	<!-- 
+	/*Gomez tag version: 6.0*/var gomez=gomez?gomez:{};gomez.h3=function(d, s){for(var p in s){d[p]=s[p];}return d;};gomez.h3(gomez,{b3:function(r){if(r<=0)return false;return Math.random()<=r&&r;},b0:function(n){var c=document.cookie;var v=c.match(new RegExp(';[ ]*'+n+'=([^;]*)'));if(!v)v=c.match(new RegExp('^'+n+'=([^;]*)'));if(v)return unescape(v[1]);return '';},c2:function(n,v,e,p,d,s){try{var t=this,a=t.domain?t.domain:location.hostname;var c=n+'='+escape(v)+(e?';expires='+e.toGMTString():'')+(p?';path='+p:';path=/')+(d?';domain='+d:';domain='+a)+(s?';secure':'');document.cookie=c;}catch(e){}},z0:function(n){var t=this;if(n){var s =t.b0("__g_c");if(!s)return '';var v=s.match(new RegExp(n+':([^\|]*)'));if(v)return unescape(v[1]);return '';}else return '';},z1:function(n,m){var t=this;if(n){var s=t.b0("__g_c");if(s){if(s.indexOf(n+':')!=-1)s=s.replace(new RegExp('('+n+':[^\|]*)'),n+':'+m);else s=s==' '?n+':'+m:s+'|'+n+':'+m;t.c2("__g_c",s);}else t.c2("__g_c",n+':'+m);};},b2:function(v,s){var t=this,f=new Date(t.gt()+946080000000),g=''+v+'_'+s;t.c2('__g_u',g,f);t.gc.c=v;t.gc.d=s;t.z1('c',v);t.z1('d',s);},gt:function(){return new Date().getTime()},b5:function(){return new Date().getTime()-gomez.gs},j1:function(h){if(h){if(h.indexOf('<')!=-1||h.indexOf('%3C')!=-1||h.indexOf('%3c')!=-1)return null;if(window.decodeURIComponent)return decodeURIComponent(h);else return unescape(h);}return null;},f1:function(u,t){try{if(u){if(!/(^http|^https)/.test(u)){if(t==1)return gomez.j1(location.hostname);else return u;}var p=new RegExp('(^http|^https|):\/{2}([^\?#;]*)');if(t==1)p=new RegExp('(^http|^https|):\/{2}([^\/\?]*)');var r=u.match(p);if(r&&t==1)return gomez.j1(r[2]);else if(r)return r[0];}return null;}catch(e){return null;}},j2:function(){try{var m,t =this,key=escape((document.referrer+window.location).replace(new RegExp("([:\/\.])","gm"),""));if(window.localStorage){m=window.localStorage.getItem(key);}if(!m){var c=t.z0("r");if(c){var r=c.split('___');if(r &&r[0]==key){m=r[1];}};};t.j4();return m;}catch(e){return ;}},j3:function(n){try{var t =this,key=escape((window.location+n).replace(new RegExp("([:\/\.])","gm"),""));if(window.localStorage){window.localStorage.setItem(key, t.gt());}t.z1('r',key+'___'+t.gt());}catch(e){return ;}},j4:function(){try{var t =this;if(window.localStorage){window.localStorage.removeItem(escape((document.referrer+window.location).replace(new RegExp("([:\/\.])","gm"),"")));}t.z1('r', '');}catch(e){return ;}},j5:function(){var ret='';for(var i=0;i<3;i++){ret =ret +(((1+Math.random())*0x10000)|0).toString(16).substring(1);}ret =parseInt(ret, 16);return ret;},j6:function(){var t =this;var g=t.b0("__g_u");if(g&&g!='1'&&g.indexOf('NaN')==-1&&g.indexOf('undefined')==-1){var r =g.split("_");if(r.length>5){if(parseInt(r[5])<new Date().getTime()){return undefined;}else{return parseFloat(r[2]);}}}return undefined;},nameEvent:function(){},startInterval:function(){},endInterval:function(){},customValue:function(){}});gomez.P=function(){};gomez.P.prototype={hash:function(o){if(!o)return '';var t=this,s='{n:'+t.f9(o['n'])+'|';for(var i in o){if(i=='n')continue;if(typeof(o[i])=='string'||typeof(o[i])=='number')s +=i+':'+t.f9(o[i])+'|';};s=s.substring(0,s.length-1);return s+'}';},f9:function(s){s=''+s;s=s.replace('|','#$#').replace(':','$*$').replace('{','@#@').replace('}','*@*').replace('&','!*!');return s;},g0:function(){var t=this,z=gomez;if(z.grpIds)z.h3(z.gc,z.grpIds);if(z.wrate)z.gc.r=z.wrate;z.gc.e=z.grpId;for(var i=1;i<5;i++){if(z["grpId"+i]!=undefined){z.gc["e"+i]=z["grpId"+i];}}z.gc.b=z.pgId;z.gc.l=z.f1(z.m,2);if(self.screen){z.gc.m=screen.width;z.gc.o=screen.height;}else if(self.java){var j=java.awt.Toolkit.getDefaultToolkit();var s=j.getScreenSize();z.gc.m=s.width;z.gc.o=s.height;};z.gc.p=navigator.platform;if(navigator.cpuClass)z.gc.q=navigator.cpuClass;if(!z.gc.f&&!z.gc.g){try{var a=new Array("MSIE","Firefox","Opera","Safari","Chrome"),b=document.createElement('div');if(b.addBehavior&&document.body){b.addBehavior('#default#clientCaps');z.gc.k=b.connectionType;}}catch(e){};for(var i=0;i<a.length;i++){if(navigator.userAgent.indexOf(a[i])!=-1){z.gc.g=a[i];z.gc.f=(new String(navigator.userAgent.substring(navigator.userAgent.indexOf(a[i])).match(/[\d.]+/))).substring(0);}}if(!z.gc.f&&!z.gc.g){z.gc.g=navigator.vendor||navigator.appName;z.gc.f=(new String(navigator.appVersion.match(/[\d.]+/))).substring(0);}}return t.hash(z.gc);}};try{gomez.gc={'n':'c'};var iU=gomez.b0('__g_u');if(iU==undefined||iU==''){gomez.b2(gomez.j5(), 0);}var sR=gomez.j6();if(sR==undefined){sR=1;gomez.isFirstVi=true;}else{gomez.isFirstVi=false;}var wR=gomez.wrate?parseFloat(gomez.wrate):(gomez.wrate==0?0:1);wR=wR<0?0:(wR>1?1:wR);gomez.inSample=gomez.z0('a');if(!gomez.inSample||gomez.inSample==''){if(gomez.b3(wR*sR)){gomez.inSample=1;}else{gomez.inSample=0;}gomez.z1('a', gomez.inSample);}else{gomez.inSample=parseInt(gomez.inSample);}gomez.runFlg=gomez.inSample>0;if(gomez.runFlg){gomez.clickT=gomez.j2();gomez.h1=function(v,d){return v?v:d};gomez.gs=gomez.h1(gomez.gs,new Date().getTime());gomez.acctId=gomez.h1(gomez.acctId,'');gomez.pgId=gomez.h1(gomez.pgId,'');gomez.grpId=gomez.h1(gomez.grpId, '');gomez.E=function(c){this.s=c;};gomez.E.prototype={g1:function(e){var t=gomez,i=t.g6(e);if(i)i.e=t.b5();}};gomez.L=function(m){this.a=m;};gomez.L.prototype={g2:function(m){var t=gomez,n=t.b5();var s=document.getElementsByTagName(m);var e=t.k;if(m=='script')e=t.j;if(m=='iframe')e=t.l;if(s){var l=s.length;for(var i=0;i<l;i++){var u=s[i].src||s[i].href;if(u &&!e[u]){var r =new gomez.E(e);t.grm[u]=r;e[u]=new t.c7(u, n);if(t.gIE&&m=='script')t.e2(s[i],'readystatechange',t.d2,false);else t.e2(s[i],'load',r.g1,false);}}}}};gomez.L.m=new Object;gomez.L.m['link']=new gomez.L();gomez.L.m['iframe']=new gomez.L();gomez.S=function(){var t=this,h=gomez.acctId+".r.axf8.net";t.x=('https:'==location.protocol?'https:':'http:')+'//'+h+'/mr/b.gif?';t.pvHttpUrl=('https:'==location.protocol?'https:':'http:')+'//'+h+'/mr/e.gif?';t.abHttpUrl=('https:'==location.protocol?'https:':'http:')+'//'+h+'/mr/f.gif?';};gomez.h2=function(){var t=this;t.gIE=false;t.f=new Object;t._h=0;t.j=new Object;t.k=new Object;t.l=new Object;t.m=location.href;t.p=-1;t.q=-1;t.t=new Array;t.u=new Array;t._w=false;t.gSfr=/KHTML|WebKit/i.test(navigator.userAgent);t.grm=new Object;t.b;t.d=false;t.x=false;t.s=new gomez.S;t._a=false;t.h6=false;t.n1=0;t.c=false;};gomez.h3(gomez,{h5:function(u){try{var s=document.createElement('script');s.src=u;s.type='text/javascript';if(document.body)document.body.appendChild(s);else if(document.documentElement.getElementsByTagName('head')[0])document.documentElement.getElementsByTagName('head')[0].appendChild(s);}catch(e){var t=gomez;if(t.gSfr)document.write("<scr"+"ipt src='"+u+"'"+"><\/scr"+"ipt>");}},a9:function(){var t=gomez,i=t.z0('a'),g=t.b0('__g_u'),h=t.z0('h'), b=t.z0('b');t.gc.h=b;if(h)t.n1=parseInt(h);if(!t.gc.h)t.gc.h=1;t.z1('b',parseInt(t.gc.h)+1);if(i){t.a=parseInt(i);if(t.a==1){t._w=true;}else if(t.a==3){t.x=true;t._w=true;};t.d=true;}if(b){t.gc.c=t.z0('c');t.gc.i=t.z0('e');t.gc.j=t.z0('f');t.iFS=false;}else {if(!t.gc.a)return;var s='v=1';t.c2('__g_u','1',new Date(t.gt()+1000));t.iFS=true;if(t.b0('__g_u')&&g&&g!='1'&&g.indexOf('NaN')==-1&&g.indexOf('undefined')==-1){s='v=0';var r=g.split('_');t.b2(parseInt(r[0]),parseInt(r[1])+1);if(r[4]&&r[4]!='0'&&t.gt()<parseInt(r[5])&&r[2]&&r[2]!='0'){t.b1(parseFloat(r[2]),parseFloat(r[3]),parseFloat(r[4]),parseInt(r[5]));if(r[6])t.n0(parseInt(r[6]));};};t.h6=true;};t.gc.d=t.z0('d');if(!t.gc.d||(t.gc.d&&t.gc.d==0)){t.z1('d',1);t.gc.d=1;}t.b=t.z0('g');t.j8();if(i &&!t.isFirstVi&&t._w&&!t._a){t.h7();t._a=true;};},h7:function(){var t=gomez,u=t.tloc?t.tloc:('https:'==location.protocol?'https:':'http:')+'//'+t.acctId+'.t.axf8.net/js/gtag6.0.js';t.h5(u);},n0:function(h){var t=gomez,f=new Date(t.gt()+946080000000),g=t.b0('__g_u');t.n1=h;t.z1('h',h);if(g&&g!='1'&&g.indexOf('NaN')==-1&&g.indexOf('undefined')==-1){var r=g.split('_');g=''+r[0]+'_'+r[1]+'_'+r[2]+'_'+r[3]+'_'+r[4]+'_'+r[5]+'_'+h;t.c2('__g_u',g,f);};},b1:function(v,s,q,f){var t=this;if(s ==undefined)s =1;t.d=true;t.z1('e',v);t.z1('f',s);t.gc.i=v;t.gc.j=s;t.h4(v,s,q,f);},b3:function(i, v, s){var t =this;t.d=true;if(s ==undefined)s =1;if(i==0||i==1){t.a=i;if(i==1){t._w=true;if(!t._a){t.h7();t._a=true;};}t.z1('a',t.a);if(v !=undefined){t.b1(v, s);}}else if(i==2){t.h4(v, s);}},h4:function(o,p,q,d){var t=this,f=new Date(t.gt()+946080000000),g=t.b0('__g_u');if(g&&g!='1'&&g.indexOf('NaN')==-1&&g.indexOf('undefined')==-1){var r=g.split('_'),s;if(d)s=d;else if(q&&q>=0)s=new Date(t.gt()+parseInt(q*86400000)).getTime();else{q=5;s=new Date(t.gt()+432000000).getTime();};g=''+r[0]+'_'+r[1]+'_'+o+'_'+p+'_'+q+'_'+s;t.c2('__g_u',g,f);};},b6:function(){var t=gomez;t.p=t.b5();},f8:function(){var t=this;if(t.pollId1)clearInterval(t.pollId1);if(t.pollId2)clearInterval(t.pollId2);if(t.pollId3)clearInterval(t.pollId3);if(t.pollId4)clearInterval(t.pollId4);},b7:function(){var t =gomez;t.f8();t.q=t.b5();},c7:function(u, s){var t=this;t.m=u;t.s=s;},c8:function(){var t=gomez,n=t.b5(),l=document.images.length;if(l>t._h){for(var i=t._h;i<l;++i){var u=document.images[i].src;if(u){var r =new gomez.E(t.f);t.grm[u]=r;t.f[u]=new t.c7(u, n);t.e2(document.images[i],'load',t.c4,false);t.e2(document.images[i],'error',t.c5,false);t.e2(document.images[i],'abort',t.c6,false);}}}t._h=l;},c4:function(e){var t=gomez,i=t.g6(e);if(i)i.e=t.b5();},c5:function(e){var t=gomez,i=t.g6(e);if(i){i.e=t.b5();i.b=1;}},c6:function(e){var t=gomez,i=t.g6(e);if(i)i.a=t.b5();},g6:function(e){var t=gomez,e=window.event?window.event:e,a=t.d8(e),i;if(t.grm[a.src||a.href]&&t.grm[a.src||a.href].s)i=t.grm[a.src||a.href].s[a.src||a.href];return i;},d2:function(){var t=gomez;var e=window.event?window.event:e,s=t.d8(e);if(s.readyState=='loaded'||s.readyState=='complete'){var o=t.j[s.src];if(o)o.e=t.b5();}},setPair:function(name,value){var t=this;t.t[t.t.length]={'n':'p','a':name,'b':value};},nameEvent:function(n){var t=this;t.f6(n,1);},startInterval:function(n){var t=this;t.f6(n,2,1);},endInterval:function(n){var t=this;t.f6(n,2,2);},f6:function(n,p,b){if(n&&n.length>20)n=n.substring(0,20);var t=this,f=t.u;if(p==3){f[f.length]={'n':'a','a':n,'b':b,'e':p,'f':undefined};}else{f[f.length]={'n':'a','a':n,'b':t.b5(),'e':p,'f':b};}},customValue:function(n,v){var t=this;if(typeof(v)!='number'){return;}t.f6(n,3,v);},d8:function(e){if(gomez.gIE)return e.srcElement||{};else return e.currentTarget||e.target||{};},e2:function(e,p,f,c){var n='on'+p;if(e.addEventListener)e.addEventListener(p,f,c);else if(e.attachEvent)e.attachEvent(n, f);else{var x=e[n];if(typeof e[n]!='function')e[n]=f;else e[n]=function(a){x(a);f(a);};}},i1:function(){var d =window.document, done=false,i2=function (){if(!done){done=true;gomez.b6();gomez.a9();}};(function (){try{d.documentElement.doScroll('left');}catch(e){setTimeout(arguments.callee, 50);return;}i2();})();d.onreadystatechange=function(){if(d.readyState=='complete'){d.onreadystatechange=null;i2();}};},j7:function(s, toUrl){try{var t=this,z=gomez;if(!s)return;s+="{n:u|e:1}";var p ='';if(t.isFirstVi){p='&a='+z.acctId+'&r=1&s=1';}else if(t.iFS){p='&a='+z.acctId+'&r='+t.j6();}if(window.encodeURIComponent)s=encodeURIComponent(s);else s=escape(s);z.h5(z.e(toUrl)+'info='+s+p);}catch(err){}return;},e:function(u){if(!/\?|&/.test(u))if(!/\?/.test(u))u +='?';else u +='&';return u;},j8:function(){var t=gomez, p=new gomez.P();var s=p.g0();t.j7(s, t.s.pvHttpUrl);},g7:function(){try{var t=gomez;t.gc.a=t.acctId;/*@cc_on t.gIE=true;@*/if(t.gIE){t.i1();window.attachEvent('onload', t.b7);}else if(window.addEventListener){window.addEventListener('DOMContentLoaded', t.b6, false);window.addEventListener('load', t.b7, false);}else if(t.gSfr){var m=setInterval(function(){if(/loaded|complete/.test(document.readyState)){clearInterval(m);delete m;t.b6();t.b7();}}, 10);}else return;if(!t.jbo){t.c8();t.pollId1=setInterval(t.c8, 10);gomez.L.m['link'].g2('link');t.pollId3=setInterval("gomez.L.m['link'].g2('link')", 10);gomez.L.m['iframe'].g2('iframe');t.pollId4=setInterval("gomez.L.m['iframe'].g2('iframe')", 10);}if(!t.gIE)t.a9();}catch(e){return;}}});gomez.h2();gomez.g7();}}catch(e){};
 	//--> 
-	 </script><script async="" src="https://FA5073.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AFA5073%7Ch%3A2%7Cc%3A127237164640825%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3A%7Cb%3Ahttp%24*%24%2F%2Fwww.scottbrand.com%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20120618105551id_%2Fhttp%253A%2F%2Fwww.scottbrand.com%2Fprivacypolicy%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=FA5073&amp;r=1&amp;s=1" type="text/javascript"></script> 
-
+	 </script><script src="https://FA5073.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AFA5073%7Ch%3A2%7Cc%3A149289285164996%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3A%7Cb%3Awww.scottbrand.com%2Fcommunity%2Flanding%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20121222174627id_%2Fhttp%253A%2F%2Fwww.scottbrand.com%2Fprivacypolicy%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=FA5073&amp;r=1&amp;s=1" type="text/javascript"></script>
 
 
 </body></html>
