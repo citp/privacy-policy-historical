@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iowatelecom.net privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618203503id_/http%3A//www.windstream.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iowatelecom.net privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222210834id_/http%3A//www.windstream.com/privacy.aspx) for the most accurate reproduction.*
 
 # Windstream Privacy Popup
 
@@ -129,7 +129,7 @@ While our goal is to prevent any unauthorized disclosure of PII, Windstream cann
 
 ## M. Contact Us
 
-If you have questions, concerns, or complaints about this Statement or Windstream?s privacy practices, please contact a Windstream customer care representative; email us at privacy.statement@windstream.com; or write to us at Windstream Communications, Inc., ATTN: Privacy Officer, 4001 Rodney Parham Road, Little Rock, Arkansas 72212. We will respond to your inquiries in a timely manner. 
+If you have questions, concerns, or complaints about this Statement or Windstream?s privacy practices, please contact a Windstream customer care representative; email us at windstream.privacy.statement@windstream.com; or write to us at Windstream Communications, Inc., ATTN: Privacy Officer, 4001 Rodney Parham Road, Little Rock, Arkansas 72212. We will respond to your inquiries in a timely manner. 
 
 ## N. Definitions 
 
