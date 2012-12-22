@@ -1,24 +1,25 @@
-<!--The following is the downloaded HTML source of the hankypanky.com privacy policy that was archived on 2012-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120520051803id_/http%3A//www.hankypanky.com/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hankypanky.com privacy policy that was archived on 2012-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121222105132id_/http%3A//www.hankypanky.com/privacy-policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+
+
 
 	<title>Privacy Policy on HankyPanky.com!</title>
 		<meta name="keywords" content="privacy, email, privacy policy, policy, legal">
 	<meta name="description" content="Our online Privacy Policy.">
 
-	<link href="http://www.hankypanky.com/style.css?1=5/20/2012 1:17:40 AM" rel="stylesheet" type="text/css">	
-	<script language="JavaScript" src="http://www.hankypanky.com/js_wh1t3/jquery-min.js?1=5/20/2012 1:17:40 AM"></script>
-	<script language="JavaScript" src="http://www.hankypanky.com/js_wh1t3/bs_switch.js?1=5/20/2012 1:17:40 AM"></script>
-	<script language="JavaScript" src="http://www.hankypanky.com/js_wh1t3/script_functions.js?1=5/20/2012 1:17:40 AM"></script>
-	<script language="JavaScript" src="http://www.hankypanky.com/js_wh1t3/bs_slide.js?1=5/20/2012 1:17:40 AM"></script>
+	<link href="http://www.hankypanky.com/style.css?1=12/22/2012 5:51:27 AM" rel="stylesheet" type="text/css">	
+	<script language="JavaScript" src="http://www.hankypanky.com/js_wh1t3/jquery-min.js?1=12/22/2012 5:51:27 AM"></script>
+	<script language="JavaScript" src="http://www.hankypanky.com/js_wh1t3/bs_switch.js?1=12/22/2012 5:51:27 AM"></script>
+	<script language="JavaScript" src="http://www.hankypanky.com/js_wh1t3/script_functions.js?1=12/22/2012 5:51:27 AM"></script>
+	<script language="JavaScript" src="http://www.hankypanky.com/js_wh1t3/bs_slide.js?1=12/22/2012 5:51:27 AM"></script>
 	
 	
 	<script type="text/javascript" src="http://www.hankypanky.com/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 	<script type="text/javascript" src="http://www.hankypanky.com/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
     <link rel="stylesheet" href="http://www.hankypanky.com/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
-    
-   
+
 <script>
 $(document).ready(function() {
   $('#email-signup').fancybox({
@@ -26,12 +27,29 @@ $(document).ready(function() {
 					'overlayShow' 	  : false,
 					'margin'		  :	0,
 					'padding'		  : 1,
-					'width'			  : 370,
-					'height'		  : 575,
+					'width'			  : 400,
+					'height'		  : 650,
+					'speedIn'         : 1,
 					'centerOnScroll'  : true
 					
 	});
+  
+  
+   $('#PInfo').fancybox({
+                 
+					'overlayShow' 	  : true,
+					'margin'		  :	0,
+					'width'			  : 700,
+					'height'		  : 900,
+					'padding'		  : 1,
+					'speedIn'         : 1
+			
+					
+	});
+   
 });
+
+
 
 
 	$().ready(function() {
@@ -42,9 +60,27 @@ $(document).ready(function() {
 				.stop()
 				.animate({"top": ($(window).scrollTop()) + "px"}, "slow" );			
 		});
+		
+		
+		
+
+		
 	});
 
+$(document).ready(function() {
 
+
+    $.ajax({
+        type: 'POST',
+        async: false,
+		
+        url: 'http://www.hankypanky.com/get-cart-items.asp',
+        success: function (data) {
+            $('#cart-info').html(data);
+        }
+    });
+
+});
 
 </script>
 
@@ -70,9 +106,7 @@ $(document).ready(function() {
 					<a href="http://www.hankypanky.com/wish-list.asp"><img src="http://images.hankypanky.com/images/nav-wish-list.gif" border="0" align="absmiddle"></a>
 				
 					<a href="http://www.hankypanky.com/view_order.asp"><img src="http://images.hankypanky.com/images/nav-shopping-bag.gif" border="0" align="absmiddle"></a>
-                    <span id="cart_count">
-(0)
-</span>
+                        <span id="cart-info"></span>
 					</td></tr>
 					</tbody></table>
 					</td>
@@ -91,7 +125,7 @@ $(document).ready(function() {
 					 <table cellpadding="0" cellspacing="0" border="0" class="global_header" style="background-color:#">
 <tbody><tr><td align="center">
 
-<a href="http://www.hankypanky.com/Shipping"><img src="http://images.hankypanky.com/home_images/free-shipping-2012.gif" border="0"></a>
+<a href="http://www.hankypanky.com/Shipping"><img src="http://images.hankypanky.com/home_images/shipping123.jpg?1=2" border="0"></a>
 
 
 </td> </tr></tbody></table> 
@@ -102,23 +136,35 @@ $(document).ready(function() {
 <div id="top">
 <div id="top_container">
 <div id="bottom_logo"><a href="http://www.hankypanky.com/"><img src="http://images.hankypanky.com/images/hanky-panky-bottom.gif" border="0" name="nav_home3" onmouseover="swapImage(1)" onmouseout="swapImage(0)"></a></div>
-<div style="float:right;margin-right:40px;margin-top:5px;"><table border="0" cellspacing="0" cellpadding="0"><form name="search" action="http://www.hankypanky.com/search.asp"></form><tbody><tr><td>
-	&nbsp; <input type="text" name="searching" id="searching" value="Search" class="search" style="padding-left:10px;padding-top:2px;height:24px;" onblur="clear_field('Search','searching')" onclick="clear_field('Search','searching')"></td><td style="padding-left:4px" width="4"><input type="image" src="http://images.hankypanky.com/images/go_input.gif"></td>
-					</tr><input type="hidden" name="initial_search" value="1"></tbody></table></div>
+<div style="float:right;margin-right:40px;margin-top:15px;">
+<table border="0" cellspacing="0" cellpadding="0"><form name="search" action="http://www.hankypanky.com/search.asp"></form><tbody><tr>
+
+<td valign="top">
+
+<a href="https://www.hankypanky.com/email-signup.asp?location=PRIVACY POLICY&amp;Form=Top" id="email-signup" class="iframe"><img src="http://images.hankypanky.com/images/btn-sign-up3.png" border="0"></a>
+
+</td>
+
+
+<td>
+<input type="text" name="searching" id="searching" value="Search" class="search" style="padding-left:10px;padding-top:2px;height:24px;" onblur="clear_field('Search','searching')" onclick="clear_field('Search','searching')"></td><td style="padding-left:4px" width="4"><input type="image" src="http://images.hankypanky.com/images/go_input.gif"></td>
+</tr><input type="hidden" name="initial_search" value="1"></tbody></table></div>
 <div class="clear" style="height:10px;"></div>								
 <div id="nav">
 <ul>
-<li><a href="http://www.hankypanky.com/Classic-Collections">Collections</a></li>
-<li><a href="http://www.hankypanky.com/Thongs">Thongs</a></li>
-<li><a href="http://www.hankypanky.com/Panties">Panties</a></li>
-<li><a href="http://www.hankypanky.com/Lingerie">Lingerie</a></li>
-<li><a href="http://www.hankypanky.com/Sleepwear-Slips">Sleepwear</a></li>
-<li><a href="http://www.hankypanky.com/Bridal-Collection">Bridal</a></li>
-<li><a href="http://www.hankypanky.com/Collegiate">Collegiate</a></li>
-<li><a href="http://www.hankypanky.com/New-Arrivals">New Arrivals</a></li>
-<li><a href="http://www.hankypanky.com/personalize.asp"> Personalized Panties</a></li>
-<li><a href="http://www.hankypanky.com/giftcards.asp">E-Gift Cards</a></li>
+<li><a href="http://www.hankypanky.com/Classic-Collections" onclick="expand_nav('ln_collection','100164','1','')">Collections</a></li>
+<li><a href="http://www.hankypanky.com/Thongs" onclick="expand_nav('ln_style','100246','1','');expand_nav('ln_100050','100001','2',100001)">Thongs</a></li>
+<li><a href="http://www.hankypanky.com/Panties" onclick="expand_nav('ln_style','100246','1','');expand_nav('ln_100125','100113','2',100001)">Panties</a></li>
+<li><a href="http://www.hankypanky.com/Lingerie" onclick="expand_nav('ln_style','100246','1','');expand_nav('ln_100033','100161','2',100001)">Lingerie</a></li>
+<li><a href="http://www.hankypanky.com/Sleepwear-Slips" onclick="expand_nav('ln_style','100246','1','');expand_nav('ln_100089','100165','2',100001)">Sleepwear</a></li>
+<li><a href="http://www.hankypanky.com/Bridal-Collection" onclick="expand_nav('ln_bridal','100023','1','')">Bridal</a></li>
+<li><a href="http://www.hankypanky.com/Collegiate" onclick="expand_nav('ln_collegiate','100131','1','')">Collegiate</a></li>
+<li><a href="http://www.hankypanky.com/New-Arrivals" onclick="close_nav()">New Arrivals</a></li>
+<li><a href="http://www.hankypanky.com/personalize.asp" onclick="close_nav()"> Personalized Panties</a></li>
+<li><a href="http://www.hankypanky.com/Gifts" onclick="expand_nav('ln_gifts','100013','1','')">Gifts</a></li>
+
 <li><a href="http://www.hankypanky.com/Sale" style="color:#f70303;font-weight:bold;margin:0">SALE</a></li>
+
 </ul>
 </div>
 
@@ -256,27 +302,30 @@ Applicable Law<br>
 
 <table cellpadding="0" cellspacing="0" border="0" align="left" width="100%">
 <tbody><tr>
-<td width="140" style="padding-left:10px">
+<td width="200" style="padding-left:10px">
 
-<a href="https://www.hankypanky.com/email-signup.asp?location=PRIVACY POLICY" id="email-signup" class="iframe"><img src="http://images.hankypanky.com/images/signup-now.jpg" border="0"></a>
+<a href="http://www.hankypanky.com/giftcards.asp"><img src="http://images.hankypanky.com/images/btn-gift-card2.png" border="0" align="right"></a>
+
 
 </td>
-<td align="left" width="230">&nbsp;</td>
-<td valign="top" align="left"><a href="https://www.hankypanky.com/panky-points.asp"><img src="http://images.hankypanky.com/images/banner_pp.jpg" border="0"></a></td>
+<td align="left" width="80">&nbsp;</td>
+<td valign="top" align="left"><a href="https://www.hankypanky.com/panky-points.asp"><img src="http://images.hankypanky.com/images/banner-PP2.png" border="0"></a></td>
 </tr>
 </tbody></table>
 <div class="clear"></div>
 
 <div id="social_network">
-<br>
-<span><a href="http://www.facebook.com/HankyPanky" target="_blank"><img src="http://images.hankypanky.com/images/icon-facebook.jpg" align="absmiddle" border="0"></a>
-<a href="http://www.facebook.com/HankyPanky" target="_blank" style="text-decoration:none"> LIKE US ON FACEBOOK</a></span>  
 
-<span><a href="http://twitter.com/hanky_panky_ltd" target="_blank"><img src="http://images.hankypanky.com/images/icon-twitter.jpg" align="absmiddle" border="0"></a> <a href="http://twitter.com/hanky_panky_ltd" target="_blank" style="text-decoration:none">FOLLOW US ON TWITTER</a></span> 
+<span><a href="http://www.facebook.com/HankyPanky" target="_blank"><img src="http://images.hankypanky.com/images/icon-FB.PNG" align="absmiddle" border="0"></a></span>  
+
+<span><a href="http://twitter.com/hanky_panky_ltd" target="_blank"><img src="http://images.hankypanky.com/images/icon-TW.PNG" align="absmiddle" border="0"></a> </span> 
+
+<span><a href="http://pinterest.com/hanky_panky/" target="_blank"><img src="http://images.hankypanky.com/images/icon-PIN.PNG" align="absmiddle" border="0"></a> </span> 
+
  
-<span><a href="http://www.youtube.com/user/hankypanky1977" target="_blank"><img src="http://images.hankypanky.com/images/icon-youtube.jpg" align="absmiddle" border="0"></a> <a href="http://www.youtube.com/user/hankypanky1977" target="_blank" style="text-decoration:none">WATCH US ON YOUTUBE</a></span> 
+<span><a href="http://www.youtube.com/user/hankypanky1977" target="_blank"><img src="http://images.hankypanky.com/images/icon-YOU.PNG" align="absmiddle" border="0"></a></span> 
 
-<span><a href="http://blog.hankypanky.com/" target="_blank"><img src="http://images.hankypanky.com/images/icon-blog.jpg" align="absmiddle" border="0"></a> <a href="http://blog.hankypanky.com/" target="_blank" style="text-decoration:none">HANKY PANKY BLOG</a></span> 
+<span><a href="http://blog.hankypanky.com/" target="_blank"><img src="http://images.hankypanky.com/images/icon-blog.PNG" align="absmiddle" border="0"></a></span> 
 </div>
 
 <div class="clear"></div>
@@ -287,7 +336,7 @@ Applicable Law<br>
 
   <div id="lifestyle">
 		<ul>
-		<li>LifeStyle</li>
+		<li><a href="http://lifestyle.hankypanky.com/" target="_blank" style="color:#63619A">LifeStyle</a></li>
 		<li><a href="http://www.hankypanky.com/about-hanky-panky.asp">ABOUT US</a></li>
 		<li><a href="http://www.hankypanky.com/thong-diaries.asp">THONG DIARIES</a></li>
 		<li><a href="http://www.hankypanky.com/philanthropy">PHILANTHROPY</a></li>
@@ -340,7 +389,7 @@ Applicable Law<br>
 <div class="clear"></div>
 <div id="bottom_right" style="float:center">
 <!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->
-<div id="ciiHxr" style="z-index:100;position:absolute;"></div><div id="sciHxr" style="display:inline"></div><div id="sdiHxr" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/hankypanky/safe-standard.js?ps_h=iHxr&amp;ps_t=1580372995444"></script></div><script type="text/javascript">var seiHxr=document.createElement("script");seiHxr.type="text/javascript";var seiHxrs=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/hankypanky/safe-standard.js?ps_h=iHxr&ps_t="+new Date().getTime();setTimeout("seiHxr.src=seiHxrs;document.getElementById('sdiHxr').appendChild(seiHxr)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=hankypanky">Online Customer Service</a></div></noscript>
+<div id="ciiHxr" style="z-index:100;position:absolute;"></div><div id="sciHxr" style="display:inline"></div><div id="sdiHxr" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/hankypanky/safe-standard.js?ps_h=iHxr&amp;ps_t=1580372997208"></script></div><script type="text/javascript">var seiHxr=document.createElement("script");seiHxr.type="text/javascript";var seiHxrs=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/hankypanky/safe-standard.js?ps_h=iHxr&ps_t="+new Date().getTime();setTimeout("seiHxr.src=seiHxrs;document.getElementById('sdiHxr').appendChild(seiHxr)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=hankypanky">Online Customer Service</a></div></noscript>
 <!-- END ProvideSupport.com Graphics Chat Button Code -->
 </div>
 
@@ -350,7 +399,7 @@ Applicable Law<br>
 <center>
 
 
-<a href="http://usa-c.com/siteseal/NY0AA.0187.htm" target="_blank"><img src="http://images.hankypanky.com/images/Hanky-Panky-Usa.jpg" border="0"></a>
+<a href="http://usa-c.com/siteseal/NY0AA.0187.htm" target="_blank"><img src="http://images.hankypanky.com/images/made-in-usa.png" border="0"></a>
 
 </center>
 
@@ -365,8 +414,12 @@ Applicable Law<br>
 <div class="clear"></div>
 <br>
 <div id="flip_the_switch">
-Copyright © 2012 Hanky Panky. 
+Copyright  © 2012 Hanky Panky. 
 Powered by <a href="http://www.blueswitch.com" target="blank" id="blue" onmouseover="change_link()" onmouseout="change_link_out()">Blue</a><a href="http://www.blueswitch.com" id="switch" target="blank" onmouseover="change_link()" onmouseout="change_link_out()">Switch</a>.
+
+<br>
+<div class="clear"></div>
+<span style="font-family:arial;color:#ccc;font-size:9px;">V. 21087.83</span>
 </div>
 
 <div class="clear"></div>
@@ -433,6 +486,7 @@ _marinTrack.trackPage();
 <img src="https://tracker.marinsm.com/tp?act=1&cid=5280ks12156&script=no" > 
 </noscript> 
 <!-- end Copyright Marin Software -->
+
 
 
 </body></html>
