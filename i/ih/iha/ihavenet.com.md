@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihavenet.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519012315id_/http%3A//www.ihavenet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihavenet.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222113516id_/http%3A//www.ihavenet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement & Policy for iHaveNet.com
 
