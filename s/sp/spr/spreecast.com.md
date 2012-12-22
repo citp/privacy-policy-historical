@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreecast.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608022943id_/http%3A//about.spreecast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreecast.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222121224id_/http%3A//about.spreecast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About Spreecast
 
@@ -6,7 +6,12 @@
 
 This Privacy Policy applies to all of the products, services and websites offered by Spreecast Inc. or its subsidiaries or affiliated companies.
 
-If you have any questions about this Privacy Policy, please feel free to contact us at [support@spreecast.com](mailto:customerservice@spreecast.com).
+If you have any questions about this Privacy Policy, please feel free to contact us at [support@spreecast.com](mailto:support@spreecast.com).
+
+Spreecast  
+604 Mission Street, 3rd Floor  
+San Francisco, CA 94105  
+(415)369-9314
 
 ### Information we collect and how we use it
 
@@ -36,9 +41,9 @@ If we use this information in a manner different than the purpose for which it w
 
 Spreecast processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information outside your own country.
 
-### Choices
+### Opt-out Choices
 
-You can use the Spreecast Privacy Controls found in the “Privacy” tab under “My Account/Settings” on the Spreecast site to review and control your privacy settings.
+Should you choose to opt-out of being contacted by Spreecast for any reason, you can use the Spreecast Privacy Controls found in the “Privacy” section under “Account” on the Spreecast site to review and control your privacy settings. To find your account settings, log in to Spreecast and click the “Account” link under your username in the upper right hand corner of the page.
 
 Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Spreecast features and services may not function properly if your cookies are disabled.
 
@@ -116,4 +121,4 @@ Other third-party ad serving companies may display ads on Spreecast. You should 
 
 By submitting any Content or personal information to Spreecast, you acknowledge that you are submitting the information to the United States and it is collected and maintained in the United States. For questions concerning the product or your account, please check out the help content.
 
-For more information about our privacy practices, email us at [support@spreecast.com](mailto:customerservice@spreecast.com).
+For more information about our privacy practices, email us at [support@spreecast.com](mailto:support@spreecast.com).
