@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplenoteapp.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626014851id_/http%3A//simplenoteapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplenoteapp.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222010832id_/http%3A//simplenoteapp.com/privacy) for the most accurate reproduction.*
 
 # Simplenote Privacy Policy
 
