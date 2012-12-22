@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the java-tips.org privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509125914id_/http%3A//www.java-tips.org/site-documentation/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the java-tips.org privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222120641id_/http%3A//www.java-tips.org/site-documentation/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Java Tips - Privacy Policy
 
@@ -56,7 +56,7 @@ Top Rated Tips
 
 Statistics   
 ---  
-| Registered Users: | 770  
+| Registered Users: | 771  
 ---|---  
 Java SE Tips:|  614  
 Java ME Tips:|  201  
@@ -79,7 +79,7 @@ Because we gather certain type of information about our users, we feel that you 
 
 Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters and to participate in our message boards or forums.
 
-Information java-tips.org gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers’ needs and to help our advertisers and sponsors better understand the demographics of our audience. Because java-tips.org derives its revenue mainly from sponsorships an advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does java-tips.org divulge any information about an individual user to a third party.
+Information java-tips.org gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers� needs and to help our advertisers and sponsors better understand the demographics of our audience. Because java-tips.org derives its revenue mainly from sponsorships an advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does java-tips.org divulge any information about an individual user to a third party.
 
 We offer the following free services, which require some type of voluntary submission of personal information by users:
 
