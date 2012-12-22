@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infonigeria.net privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505043544id_/http%3A//www.infonigeria.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infonigeria.net privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222091728id_/http%3A//infonigeria.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - www.infonigeria.net
+# Privacy Policy - Info Nigeria
 
 Infonigeria.net is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you and procedures we have in place to safeguard your privacy.
 
