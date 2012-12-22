@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brunomars.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618183405id_/http%3A//atlanticrecords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brunomars.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222115518id_/http%3A//atlanticrecords.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Atlantic Records
 
