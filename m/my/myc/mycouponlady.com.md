@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the mycouponlady.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611224301id_/http%3A//mycouponlady.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycouponlady.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222174110id_/http%3A//mycouponlady.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fmycouponlady.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
-
+[](http://mycouponlady.com/goto/http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fmycouponlady.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy) |   
+---|---  
+  
 This policy is valid from 25 September 2009
 
 ## Disclosure of Paid Advertising
@@ -36,7 +37,7 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 ## Special Note About Google Advertising
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. [Learn how to opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. [Learn how to opt out of Google’s cookie usage](http://mycouponlady.com/goto/http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
 
 ## Contact Information
 
@@ -44,6 +45,6 @@ Concerns or questions can be directed to Lessie by using the [ContactMe ](http:/
 
 This blog does not contain any content which might present a conflict of interest.
 
-To get your own policy, go to [http://www.disclosurepolicy.org](http://www.disclosurepolicy.org/)
+To get your own policy, go to [http://www.disclosurepolicy.org](http://mycouponlady.com/goto/http://www.disclosurepolicy.org/)
 
 [](http://mycouponlady.com/privacy-policy/)
