@@ -1,27 +1,25 @@
-> *The following text is extracted and transformed from the blogbydonna.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629025558id_/http%3A//www.blogbydonna.com/page/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogbydonna.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222195752id_/http%3A//blogbydonna.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Blog By DonnaBlog By Donna
 
-I own this website and own/control all content herein. 
+I own this website and own/control all content herein.
 
-We collect information from you when you respond to a survey or enter contests/giveaways. 
+We collect information from you when you respond to a survey or enter contests/giveaways.When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
-
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
 To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+(we continually strive to improve our website offerings based on the information and feedback we receive from you).
 
-To administer a contest, promotion, survey or other site feature
+To administer a contest, promotion, survey or other site feature.
 
 **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
 **Do we use cookies?**
 
@@ -51,4 +49,4 @@ This online privacy policy applies only to information collected through our web
 
 **Your Consent**
 
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/). 
+By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
