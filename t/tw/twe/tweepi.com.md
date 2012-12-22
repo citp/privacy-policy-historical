@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tweepi.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627062936id_/http%3A//tweepi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweepi.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222161010id_/http%3A//tweepi.com/privacy) for the most accurate reproduction.*
 
-# Tweepi v2.0 :: a geekier, faster way to bulk add quality followers :: Tweepi
+# Tweepi :: manage your Twitter account :: Tweepi
 
 ### What information do we collect?
 
