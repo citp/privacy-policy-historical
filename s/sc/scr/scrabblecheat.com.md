@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrabblecheat.com privacy policy that was archived on 2012-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120402141533id_/http%3A//www.scrabblecheat.com/private.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrabblecheat.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222171753id_/http%3A//www.scrabblecheat.com/private.html) for the most accurate reproduction.*
 
 # Scrabble Cheat privacy policy
 
@@ -13,6 +13,8 @@ o You have subscribed to the site and an announcement about the site is made.
 
 * If you want to stop receiving information from our sponsors, you will need to contact them directly.  
 * If you have additional questions about [Scrabble® Cheat](http://scrabblecheat.com/ "Scrabble® Cheat"), you can email [ us ](mailto:support@scrabblecheat.com) for more information.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/). 
 
 **Privacy Policy for www.ScrabbleCheat.com**
 
