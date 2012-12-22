@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsjobsjobs.com.au privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527194952id_/http%3A//www.jobsjobsjobs.com.au/-146879/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsjobsjobs.com.au privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222232443id_/http%3A//www.jobsjobsjobs.com.au/-146879/Privacy) for the most accurate reproduction.*
 
 # Privacy | jobsjobsjobs.com.au | Australia's biggest jobs network
 
