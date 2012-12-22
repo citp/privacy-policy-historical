@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the tigraionline.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624030340id_/http%3A//www.tigraionline.com/articles/tolprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigraionline.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222234134id_/http%3A//tigraionline.com/articles/tolprivacypolicy.html) for the most accurate reproduction.*
 
 # Tigrai Online.com Privacy Policy
 
 Tigrai Online  
 March. 24 2011
 
-Tigrai Online - tigraionline.com respects your right to the privacy of the personal information you provide us on our web sites. To that end, unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide to tigraionline.com will be known only to two parties: you and tigraionline.com. The following policy is intended to explain how your personal information will be treated as you make use of our site. Personal information includes your name, e-mail addresses, click-through activity and any other personal information you may provide here.
+Tigrai Online - tigraionline.com respects your right to the privacy of the personal information you provide us on our web sites. To that end, unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide to [www.tigraionline.com](http://www.tigraionline.com/) will be known only to two parties: you and [www.tigraionline.com.](http://www.tigraionline.com/) The following policy is intended to explain how your personal information will be treated as you make use of our site. Personal information includes your name, e-mail addresses, click-through activity and any other personal information you may provide here.
 
 **Use of tigraionline.com cookies**  
 As a matter of policy we at Tigrai Online don’t use cookies to collect information from our visitors. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. If you provide your e-mail address for any reason, we will not share it with anyone and no one.
