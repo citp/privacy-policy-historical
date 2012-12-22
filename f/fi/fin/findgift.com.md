@@ -1,49 +1,38 @@
-> *The following text is extracted and transformed from the findgift.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629092356id_/http%3A//www.findgift.com/Services/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findgift.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222161054id_/http%3A//www.internetbrands.com/privacy/privacy-highlights.html) for the most accurate reproduction.*
 
-# FindGift.com Privacy Policy
+# Privacy Policy
 
-At FindGift.com your privacy is important to us. This notice describes our privacy policy. **By visiting FindGift.com, you are accepting the practices described in our Privacy Policy**
+## Privacy Policy Highlights
 
-**What Personal Information About Visitors Does FindGift.com Gather?**
+Internet Brands, Inc. and its subsidiaries operate websites, provide services through mobile and other applications, and develop software. We govern these with a single privacy policy. This notice provides highlights of our full [Privacy Policy](https://web.archive.org/web/20121222161054id_/http%3A//www.internetbrands.com/privacy/privacy-main.html). It briefly describes the collection and use of information when you use or interact with our branded websites, services, and software, operating under different branded names. Also visit our [FAQ page](https://web.archive.org/web/20121222161054id_/http%3A//www.internetbrands.com/privacy/privacy-faq.html) for answers to common questions.
 
-The information that we learn from our visitors helps us personalize and continually improve your shopping experience at FindGift.com. Here are the types of information we gather... 
+  * ### Personal Information
 
-  * **Information You Give Us:** We receive and store any information you enter on our Web site. You can choose not to provide certain information, but then you may not be able to take full advantage of many of our features. We use the information you provide for such purposes as responding to your requests, providing customized services for you, improving our service, and communicating with you.
+We collect personal information for various business purposes when you interact with us, such as providing you with a subscription, processing your order, responding to requests for service or assistance, creating and improving our products and services, suggesting additional or different products or services, and protecting our rights and property. We collect information about you in two basic ways. First, we receive information directly from you. Second, through use of cookies and other technologies, we keep track of your interactions.
+
+  * ### Your Choices
+
+    * You can stop receiving promotional emails from us by following the instructions in the email you receive.
+    * You may cancel your registration or deactivate your account, or update your preferences at any time.
+    * You can manage cookies using your browser controls.
+    * You can [opt out](https://web.archive.org/web/20121222161054id_/http%3A//www.internetbrands.com/privacy/privacy-main.html#section4) of the use of certain cookies.
+    * Individual products or services may offer additional controls or preferences.
+  * ### Uses of Information
+
+Your information is used to fulfill your requests and communicate with you, operate, support and improve our sites, products and services, conduct internal research, and personalize the content, products, services and advertisements offered to you.
+
+  * ### How to Contact Us
+
+    * Use our Privacy [Contact form](https://web.archive.org/web/20121222161054id_/http%3A//www.internetbrands.com/privacy/privacy-contact-form.php), or write to us at the address below.
+  
+
+    * Privacy Office
+    * Internet Brands, Inc.
+    * 909 N. Sepulveda Blvd., 11th Floor
+    * El Segundo, CA 90245 U.S.A.
+  * ### Information Sharing
+
+We do not sell, rent or provide your personal information to third parties that are unaffiliated with Internet Brands. Your personal information is shared with third parties with your consent, except in circumstances where the law requires it to be shared.
 
 
-  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many websites, we use cookies, and we obtain certain types of information when your web browser accesses FindGift.com. This information helps us determine which gift ideas are more popular and provides us with the ability to show you the best and most interesting gift ideas possible. This information is also collected so we can bill our merchant partners who advertise on our service.
 
-
-
-**What About Cookies?**
-
-  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser to enable our system to recognize your browser and to provide features such as our Gift Registry, Gift Idea Bookmarks, Advanced Gift Finder, and our email reminder service.
-  * The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies will allow you to take full advantage of some of FindGift.com's most useful features, and we recommend that you leave them on.
-
-
-
-**Does FindGift.com Share the Information It Receives?**
-
-Information about our visitors is an important part of our business, and we are not in the business of selling it to others. We do not share personal information about our visitors with other entities. Exceptions to this policy are the following... 
-
-  * **Product Inquiries that are Emailed to Us:** Many times a customer will want more information about a product and will email us to ask the question, rather than emailing the FindGift.com merchant partner that sells this item. In these instances, we will forward your request to the FindGift.com merchant partner that sells this item.
-
-
-  * **Business Transfers:** As we continue to develop our business, we might sell or buy services, stores, or assests. In such transactions, visitor information is usually one of the transferred business assests. Also, in the unlikely event that FindGift.com is acquired, or substantially all of its assests are acquired, customer information will of course be one of the transferred assests.
-
-
-  * **Protection of FindGift.com and Others:** We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our [Conditions of Use](http://www.findgift.com/Services/Terms-and-Conditions/) and other agreements; or protect the rights, property, of safety of FindGift.com, our users, or others.
-
-
-
-**What is Considered "Personal Information"?**
-
-Personal information is considered to be your name, email address, physical address, credit card numbers and phone number. 
-
-**Children**
-
-FindGift.com does not offer services for use by children. We offer children's gift ideas and gift registry services for use by adults. If you are under 18, you may use FindGift.com only with involvement with a parent or guardian. 
-
-**Conditions of Use, Notices, and Revisions**
-
-If you choose to visit FindGift.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](http://www.findgift.com/Services/Terms-and-Conditions/), including limitations on damages, arbitration of disputes, and application of the law of the state of Georgia. If you have any concern about privacy at FindGift.com, please send us an a thorough description to [comments@findgift.com](mailto:comments@findgift.com), and we will try to resolve it. Our business changes constantly. This Notice and the [Conditions of Use](http://www.findgift.com/Services/Terms-and-Conditions/) will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. You should check our website frequently to see recent changes. 
