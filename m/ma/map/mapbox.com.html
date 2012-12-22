@@ -1,22 +1,31 @@
-<!--The following is the downloaded HTML source of the mapbox.com privacy policy that was archived on 2012-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615041759id_/http%3A//mapbox.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mapbox.com privacy policy that was archived on 2012-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121222021535id_/http%3A//mapbox.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
+  
+  <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/6714.js?438993" async="" type="text/javascript"></script><script type="text/javascript" async="" id="gauges-tracker" data-site-id="4e970faef5a1f51def000002" src="//secure.gaug.es/track.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/161469907.js"></script>
   <meta charset="UTF-8">
   <meta name="robots" content="index">
-  <meta name="viewport" content="width=1000">
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
   
   <title>Privacy policy | MapBox</title>
-  <link rel="stylesheet" href="/css/site.css" type="text/css">
+  <link href="http://api.tiles.mapbox.com/mapbox.js/v0.6.7/mapbox.css" rel="stylesheet">
+  <link href="/css/site.css" rel="stylesheet">
   <!--[if IE]><link rel='stylesheet' href='/css/site-ie.css' type='text/css'/><![endif]-->
-  <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/blog/blog.rss">
-  <script type="text/javascript" async="" id="gauges-tracker" data-site-id="4e970faef5a1f51def000002" src="//secure.gaug.es/track.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/site.js"></script>
+  <script src="/js/site.js"></script>
+  <script src="http://api.tiles.mapbox.com/mapbox.js/v0.6.7/mapbox.js"></script>
 </head>
-<body class=""><div class="wrapper">
-<div class="branding"><div class="limiter">
-  <a class="logo" href="/">MapBox</a>
-  <ul class="menu">
+<body class="box about">
+<div class="branding pad3h clearfix">
+  <div class="cell5">
+    <a id="mapbox-logo" class="logo" href="/">MapBox</a>
+    
+    <a class="section-title" href="/about">about</a>
+    
+  </div>
+  <ul class="menu cell7">
     
     
       
@@ -24,8 +33,8 @@
     
       
     
-    <li class="tour">
-      <a href="/tour/"><span class="icon"></span>Tour</a>
+    <li class="">
+      <a id="nav-design" href="/tour/design/">Design</a>
     </li>
     
     
@@ -34,8 +43,8 @@
     
       
     
-    <li class="maps">
-      <a href="/maps/"><span class="icon"></span>Maps</a>
+    <li class="">
+      <a id="nav-publish" href="/tour/publish/">Publish</a>
     </li>
     
     
@@ -44,18 +53,8 @@
     
       
     
-    <li class="tilemill">
-      <a href="/tilemill/"><span class="icon"></span>TileMill</a>
-    </li>
-    
-    
-      
-    
-    
-      
-    
-    <li class="help">
-      <a href="/help/"><span class="icon"></span>Help</a>
+    <li class="">
+      <a id="nav-scale" href="/tour/scale/">Scale</a>
     </li>
     
     
@@ -65,21 +64,161 @@
       
     
     <li class="plans">
-      <a href="/plans/"><span class="icon"></span>Plans + Pricing</a>
+      <a id="nav-plans" href="/plans/">Plans</a>
     </li>
     
   </ul>
-  <small class="auth">
-    <a class="login button labeled" href="http://tiles.mapbox.com/login">
-      <span class="icon account"></span>
-      My account
-    </a>
-  </small>
-</div></div>
+</div>
 
-<div class="limiter"><div class="content clearfix">
-<div class="book">
+<div class="wrapper"><style type="text/css">
 
+.credits {
+  margin: 0 -40px -40px -40px;  background: #3c4e5a;
+  }
+  .credits small { color: #fff;}
+  .credits a { color: #a1c1d5;}
+  .credits a:hover { color: #fff;}
+
+
+.container {
+  border: 1px solid #ddd;
+  position: relative;
+  margin-bottom: 40px;
+  }
+  .container ul { margin: 0;}
+  .team,
+  .blog { border-bottom: 1px solid #ddd;}
+  .team, .contact { border-right: 1px solid #ddd;}
+  .newsletter .contact { border-right:0; }
+
+.spot-illustration {
+  background: url(/img/about-sprite.png) 0 0 no-repeat;
+  display: block;
+  height: 60px;
+  width: 60px;
+  margin: 0 auto 20px;
+  }
+  .blog .spot-illustration    { background-position: -70px 0;}
+  .contact .spot-illustration { background-position: -140px 0;}
+  .press .spot-illustration   { background-position: -210px 0;}
+
+ul.technologies li {
+  list-style: none;
+  margin-left: 0;
+  min-height: 40px;
+  }
+  ul.technologies .spot-illustration {
+  height: 30px; width: 30px;
+  margin-right: 20px; margin-left: 0;
+  float: left;
+  }
+  ul.technologies li p{
+  margin-left: 50px;
+  }
+  .spot-illustration.tilemill  { background-position: -280px 0;}
+  .spot-illustration.mapnik    { background-position: -320px 0;}
+  .spot-illustration.mbjs      { background-position: -360px 0;}
+  .spot-illustration.mbtiles   { background-position: -400px 0;}
+  .spot-illustration.mbstreets { background-position: -440px 0;}
+  .spot-illustration.mobile    { background-position: -480px 0;}
+
+.bleed-image {
+  height: 300px;
+  background: url(/img/team/team.jpg) 0 50% no-repeat;
+  margin: -40px -40px 40px -40px;
+  background-size: cover;
+  }
+
+.sections.container {
+  margin-bottom: 0;
+  }
+
+.sections .button { margin: 0;}
+
+.about-illustration {
+  height: 100px;
+  width: 100px;
+  margin: auto;
+  margin-bottom: 40px;
+  background: url(/img/about-sprite.png) 0 -80px no-repeat;
+  }
+  .about-illustration.about-feedback { background-position: 0 -80px;}
+  .about-illustration.about-osm      { background-position: -100px -80px;}
+  .about-illustration.about-mapbox   { background-position: -200px -80px;}
+
+
+/* Book nav on about */
+.book a {
+  color:#3c4e5a;
+  display:block;
+  position:relative;
+  padding:10px 20px;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  }
+
+.book a.active {
+  border-radius:0px 4px 4px 0px;
+  background:#68b0d4;
+  color:#fff;
+  }
+
+@media only screen and (max-width: 640px) {
+  .book a.active { border-radius:0px; }
+  .credits { margin: 0 -20px -20px -20px;}
+  .container { margin-bottom: 20px; }
+  .team,
+  .contact { border-right: none;}
+  .contact { border-bottom: 1px solid #ddd;}
+  .bleed-image {
+    margin: -40px -20px 20px -20px;
+    }
+  .about-illustration { margin-bottom: 20px;}
+  }
+
+@media
+only screen and (-webkit-min-device-pixel-ratio : 2),
+only screen and (min-device-pixel-ratio : 2) {
+  .spot-illustration,
+  .about-illustration {
+    background-image: url(/img/about-sprite@2x.png);
+    background-size: 510px 180px;
+    }
+}
+</style>
+
+
+<div class="clearfix fillM pad3c">
+  <div class="cell9 pad3 fillL prose">
+    
+      <h1>Privacy policy</h1>
+    
+    <p>MapBox is committed to protecting the privacy of the people and organizations that use our service. This privacy notice discloses the privacy practices for mapbox.com and all map tiles served and hosted through our website.</p>
+
+<h3 id="information_collection_use_and_sharing">Information Collection, Use, and Sharing</h3>
+
+<p>We are the sole owners of the information collected on this site. We do not collect, store, or share any personally identifiable user data, except what you voluntarily give to us via email or other direct contact from you. We will not sell or rent this information to anyone.</p>
+
+<p>We do collect IP addresses in our server logs, as well as information like your internet domain, the date and time of your visit, and the pages you access on mapbox.com. This information is collected solely for diagnostic and analytic purposes. We do not share any identifiable information about this information at any time, unless required by law, and use this information internally and only to better assess the services provided through mapbox.com.</p>
+
+<h3 id="order_information">Order information</h3>
+
+<p>We collect payment information for some of MapBox services, such as name, address, and credit card number. This information is used solely for billing purposes and to fill your orders. It is collected, processed, and held in a secure environment that only authorized employees can access.</p>
+
+<h3 id="security">Security</h3>
+
+<p>We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.</p>
+
+<p>Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. While we use encryption to protect sensitive information transmitted online, we also protect your information offline.</p>
+
+<h3 id="cookies">Cookies</h3>
+
+<p>We use cookies and log file information to (i) store information so you will not have to re-enter it during your visit or in subsequent visits; (ii) maintain sessions for authenticated users; and (iii) monitor aggregate metrics such as total number of visitors and pages viewed. Cookies are not used on anonymous requests for map tiles or map embed resources from MapBox Hosting.</p>
+  </div>
+  <div class="cell3">
+    <div id="subnav">
+  <div class="book">
 <ul>
 
 
@@ -93,28 +232,28 @@
 
 
 <li>
-<a href="/contact">Contact</a>
+<a href="/about/team">Our team</a>
 </li>
 
 
 
 
 <li>
-<a href="/about/maps">About MapBox maps</a>
+<a href="/about/contact">Contact</a>
 </li>
 
 
 
 
 <li>
-<a href="/tos">Terms of service</a>
+<a href="/about/maps">MapBox Streets</a>
 </li>
 
 
 
 
 <li>
-<a class="active" href="/privacy"><span class="icon"> </span>Privacy policy</a>
+<a class="active" href="/privacy">Privacy policy</a>
 </li>
 
 
@@ -128,86 +267,137 @@
 
 
 <li>
-<a href="/government">Government</a>
+<a href="/tos">Terms of service</a>
+</li>
+
+
+
+
+<li>
+<a href="/about/press">Press resources</a>
 </li>
 
 
 </ul>
 </div>
 
-<div class="col-3 prose">
-<div class="title">
-<h1>Privacy policy</h1>
+    </div>
+  </div>
 </div>
-<div class="intro">
-<p>MapBox is committed to protecting the privacy of the people and organizations that use our service. This privacy notice discloses the privacy practices for mapbox.com and all map tiles served and hosted through our website.</p>
-</div>
-<h2 id="information_collection_use_and_sharing">Information Collection, Use, and Sharing</h2>
-
-<p>We are the sole owners of the information collected on this site. We do not collect, store, or share any personally identifiable user data, except what you voluntarily give to us via email or other direct contact from you. We will not sell or rent this information to anyone.</p>
-
-<p>We do collect IP addresses in our server logs, as well as information like your internet domain, the date and time of your visit, and the pages you access on mapbox.com. This information is collected solely for diagnostic and analytic purposes. We do not share any identifiable information about this information at any time, unless required by law, and use this information internally and only to better assess the services provided through mapbox.com.</p>
-
-<h2 id="order_information">Order information</h2>
-
-<p>We collect payment information for some of MapBox services, such as name, address, and credit card number. This information is used solely for billing purposes and to fill your orders. It is collected, processed, and held in a secure environment that only authorized employees can access.</p>
-
-<h2 id="security">Security</h2>
-
-<p>We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.</p>
-
-<p>Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. While we use encryption to protect sensitive information transmitted online, we also protect your information offline.</p>
-
-<h2 id="cookies">Cookies</h2>
-
-<p>We use cookies and log file information to (i) store information so you will not have to re-enter it during your visit or in subsequent visits; (ii) maintain sessions for authenticated users; and (iii) monitor aggregate metrics such as total number of visitors and pages viewed. Cookies are not used on anonymous requests for map tiles or map embed resources from MapBox Hosting.</p>
-</div>
-</div></div>
-
-<div class="pager">
-  
-  
-  <a class="next" href="/sla"><span class="icon prev">Next</span></a>
-  
-</div>
-
-<script type="text/javascript">$(mapbox.book);</script>
-
-
-<div class="push"></div></div>
-
-
-<div class="footer"><div class="limiter">
-
-<div class="links">
-<strong>MapBox®</strong>
-
-<a href="/about/">About</a>
-
-<a href="/blog/">Blog</a>
-
-<a href="/mobile/">Mobile SDK</a>
-
-<a href="/contact/">Contact</a>
-
-<a href="/tos/">Terms of Service</a>
-
-<a href="/privacy/">Privacy Policy</a>
-
-<a href="/status/">Status</a>
 
 </div>
 
-<a class="ds" href="http://developmentseed.org" target="_blank">
-<span class="madeby">Made by Development Seed</span>
-<span class="office"></span>
-</a>
 
-</div></div>
+<div class="footer clearfix">
+  <div class="cell3 pad3 newsletter">
+    <a class="button big follow" href="http://twitter.com/mapbox" target="_blank"><span class="icon reverse twitter"></span>Follow us</a>
+    <a class="button big contact" href="/contact"><span class="icon reverse contact"></span>Contact us</a>
+    <small>Subscribe to our newsletter</small>
+    <!-- Begin MailChimp Signup Form -->
+    <div id="mc-signup">
+      <form action="http://mapbox.us2.list-manage1.com/subscribe/post?u=1b29ad842d113cece02035883&amp;id=6cbe531fd0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+        <div class="mc-field-group clearfix">
+          <input type="hidden" value="1" name="group[7417][2]">
+          <div class="field-wrapper"><input type="text" value="" placeholder="Email Address" name="EMAIL" class="required email" id="mce-EMAIL"></div>
+          <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button big icon reverse mail">
+        </div>
+        <div id="mce-responses">
+          <div class="response" id="mce-error-response" style="display:none"></div>
+          <div class="response" id="mce-success-response" style="display:none"></div>
+        </div>
+      </form>
+    </div>
+  </div>
 
+  <div class="cell2 pad3">
+    <h3>MapBox</h3>
+    <div class="links">
+      
+      <a id="footer-design" href="/tour/design/">Design</a>
+      
+      <a id="footer-publish" href="/tour/publish/">Publish</a>
+      
+      <a id="footer-scale" href="/tour/scale/">Scale</a>
+      
+    </div>
+    <div class="links">
+      
+      <a id="footer-about" href="/about/">About</a>
+      
+      <a id="footer-pricing" href="/plans/">Pricing</a>
+      
+      <a id="footer-premium" href="/plans/premium/">Premium</a>
+      
+      <a id="footer-blog" href="/blog/">Blog</a>
+      
+      <a id="footer-status" href="http://mapbox.com/status/">Status</a>
+      
+    </div>
+  </div>
+  <div class="cell2 pad3">
+    <h3>Resources</h3>
+    <div class="links">
+      
+      <a id="footer-help" href="/help/">Help</a>
+      
+      <a id="footer-developers" href="/developers/">Developers</a>
+      
+      <a id="footer-mobile" href="/mobile/">Mobile</a>
+      
+      <a id="footer-showcase" href="/showcase/">Showcase</a>
+      
+    </div>
+    <h3>Tools</h3>
+    <div class="links">
+      
+      <a id="footer-tilemill" href="http://tilemill.com/">TileMill</a>
+      
+      <a id="footer-maki" href="http://mapbox.com/maki/">Maki</a>
+      
+    </div>
+  </div>
+  <div class="cell5 pad3 blogposts">
+    <h3>Recent blog posts</h3>
+    <div class="links">
+    
+    <a href="/blog/satellite-caching/">
+      <small class="date">Dec 20 2012</small>
+      Satellite Imagery Caching With the iOS SDK
+    </a>
+    
+    <a href="/blog/hiring-designer-mapbox-2013/">
+      <small class="date">Dec 19 2012</small>
+      Hiring a Designer at MapBox
+    </a>
+    
+    <a href="/blog/trouble-with-geoportals/">
+      <small class="date">Dec 17 2012</small>
+      The Trouble with Geoportals
+    </a>
+    
+    <a href="/blog/mapbox-holiday-party-2012/">
+      <small class="date">Dec 14 2012</small>
+       Photos from the MapBox Holiday Party
+    </a>
+    
+    </div>
+    <a id="read-more" href="/blog/">Read more <span class="icon next blue"></span></a>
+  </div>
+</div>
+
+<div class="footer-copyright">
+  <a href="/tos">Terms of service</a> +
+  <a href="/privacy">Privacy policy</a>
+  © MapBox
+</div>
+
+
+<script src="https://tiles.mapbox.com/snippets/user.js"></script>
 
 <script type="text/javascript">
 var _gaq = _gaq || [];
+var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 _gaq.push(['_setAccount', 'UA-12158002-1']);
 _gaq.push(['_setDomainName', '.mapbox.com']);
 _gaq.push(['_trackPageview']);
@@ -228,6 +418,15 @@ var _gauges = _gauges || [];
   var s = document.getElementsByTagName('script')[0];
   s.parentNode.insertBefore(t, s);
 })();
+
+
+</script>
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/6714.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
 
 
