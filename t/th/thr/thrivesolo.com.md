@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrivesolo.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515000541id_/http%3A//www.thrivesolo.com/downloads/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrivesolo.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222130122id_/http%3A//www.thrivesolo.com/downloads/privacy_policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
