@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seolinksubmission.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515160632id_/http%3A//www.seolinksubmission.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seolinksubmission.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222090250id_/http%3A//www.seolinksubmission.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Free Directory Submission, Free Link Directory, Free Web Directory, Add Your Web Site, Free Local Directory, Submit Your Url
 
