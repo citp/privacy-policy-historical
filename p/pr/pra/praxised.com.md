@@ -1,0 +1,125 @@
+> *The following text is extracted and transformed from the praxised.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222063042id_/http%3A//praxised.com/privacy) for the most accurate reproduction.*
+
+# Praxis Education » Privacy
+
+## Privacy Policy
+
+### Email Address Privacy Guidelines
+
+Praxis Education (PraxisEd.com) members sent indiscriminately to block mail from a third party posted on this website, email address, email, or other technological collection program collected by the device to be used if it rejected _criminally punishable_ offense information to confirm that.
+
+Praxis Education (weeks) to operate in the PraxisEd.com (PraxisEd.com referred to below) to protect your personal information very seriously, and users PraxisEd.com services (collectively "Praxis Services "or" Praxis "referred to) while using the online PraxisEd.com to protect the personal information you provide is committed. This Communications Privacy Act, the Telecommunications Business, Information Network Usage beopryuldeung regarding information and communication service providers to comply with applicable laws and regulations on privacy established by Ministry of Information and privacy guidelines are. Privacy Policy Through PraxisEd.com users to provide personal information for any purpose and are being used in a way to protect your privacy will be known whether any action is taken.
+
+Privacy Policy PraxisEd.com on the first screen by the website users to always easier to see is action.
+
+PraxisEd.com Privacy Act and the guidelines of the government policy changes or changes due to internal PraxisEd.com may change from time to time. Lf users visit the site often to check. Praxis Privacy Policy contains the following information.
+
+### 1\. Consent to Collect Personal Information
+
+PraxisEd.com you PraxisEd.com Privacy Policy or Terms and Conditions for the content of "agree" button or "disagree" button to be clicked to provide a procedure, "agree" button Click on collecting personal information about you will be deemed agreed.
+
+### 2\. The purpose for the collection and use of personal information
+
+"Personal information" means information about a living individual, as the information contained in such statement, by such things as social security numbers, information that can identify such individuals (such information alone can identify a specific individual, even if other information that can be easily combined to identify included) will tell.
+
+Most of the Praxis Service at any time without a separate user registration is available. However PraxisEd.com personalized services to users through member services, including deungreul than to provide better quality service user's personal information is collected.
+
+PraxisEd.com users without prior consent of the user does not give out personal information, use the information collected is as follows.
+
+First, the users based on their personal information than you can develop a useful service.
+
+PraxisEd.com new service development and expansion at the existing users of the content PraxisEd.com personal information will be developed based on the priorities of services more efficiently set high, PraxisEd.com users will need to select the content you can provide reasonably.
+
+Second, it provides PraxisEd.com if you order a personalized book you need additional information (eg, billing, identification and social security number for shipping, credit card number and address, etc.) must be entered.
+
+PraxisEd.com your payment as specified above, for your funnel, and shipping and your social security number, credit card number and address, and 3rd party (baesongeopche and billing agencies, etc.) can provide.
+
+### 3\. From Praxis Education to collect personal information items and collection methods
+
+Praxis is a membership service for users to sign up as members for the service provider of essential information on-line input is received. Sign up to receive essential information at the time of the name, social security number, email address, mailing address, is his number. In addition to providing quality service users can enter optional information as a denial of information or receiving mail, referral ID, and enter the mobile number has been.
+
+Praxis within the statistical surveys or sweepstakes at the event or events, and provide input for the selective, you can request your personal information. However, users of the basic human rights concerns that sensitive personal information (race and ethnicity, ideology and creed, place of origin and domicile of origin, political affiliation, criminal record, health status and sex, etc.) preferably does not collect the inevitable if you need to collect obtain the prior consent of users will be. And, any case, please enter your user information in addition to the pre-stated objectives are not used for other purposes does not leak outside.
+
+Praxis advertisers to display ads on search and links to various directories of the Web site users can identify you personally about your personal information will be collected.
+
+### 4\. Praxis Education to collect and use personal information entry period
+
+As a member of Praxis users while using the services provided PraxisEd.com holds users' personal information and providing services to continue to use. However, under the "6. Users of their personal information management (access, correction, deletion, etc.) concerning "the procedures and methods described in the User to delete or modify the information yourself, if you cancel the request can not be played entirely on the disk by means of and remove the future is impossible to view or use is processed.
+
+And "3. Praxis is collecting items and how to collect your personal information "for temporary purposes, as in (surveys, events, etc.) enter the personal information after the purpose has been achieved in the same way that is impossible to play post-processed. Despite the above holding period shall continue to hold if you need the consent of the user will receive.
+
+PraxisEd.com revoked or deleted by the user's request personal information for any purpose whatsoever, without delay, destruction and access or processing is not available.
+
+During this period, to prevent the reactivation of the Social Security number and identity will be held.
+
+### 5\. Praxis Education to collect and share information and provide entry
+
+PraxisEd.com users' personal information "2. The purpose of the collection and use personal information "within the scope of the notified use, and users without the prior written consent of the range or in principle, the use of your personal information is not disclosed on the outside. However, with the exception of the following.
+
+First, if users have agreed to disclose in advance
+
+Second, Praxis posted on the homepage or any other Membership Services, including the Terms of Service if you violate the Terms of Use
+
+Third, Praxis can use a service to others, and mental - physical damage gratifying for him to take legal action to disclose personal information if you believe you have sufficient evidence
+
+Fourth, it is required by other law, if you believe in good faith (ex. by due process in accordance with applicable law at the request of government agencies, etc.)
+
+And PraxisEd.com development of new technologies or to provide better services to users' personal information can be shared. In this case, gathering information or providing information to users prior to sharing personal information with organizations or groups who, what information you need, and how long to let you know what is protected and managed to obtain consent to undergo the procedure, and users If such is not the righteousness of randomly collected additional information or do not share.
+
+Gender, age and other specific conditions in the group of users for ads and sent gaeinjeong even requested to see your ad does not provide personal or business, etc., and other statistics, treatment or research, market research, even if necessary for particular individuals information can not be identified only in the form provided.
+
+### 6\. Users of their personal information management (access, correction, deletion, etc.) concerning
+
+Users at any time using the Praxis website is registered to edit their personal information can be viewed or may cancel the request.
+
+Modify users' personal information, views, and retrieved, for Praxis Management menu and log in using your username and password (login) have to do, id (ID), except you can modify all entries. Also, if you forget your password for login failure that comes with membership in the menu at the bottom, "Nick, if you lose your password, click" necessary to identify and enter four paragraph, or check your email and password known by will.
+
+After roinhan cancel the Praxis website: "My information management" menu, select "unsubscribe" if you push the button, the withdrawal process.
+
+### 7\. Cookie (Cookie) information on the operation of
+
+User-specific customized services to the users' information in order to save Praxis often invoke a "cookie (cookie)" is used. Cookies are used to operate the Web site server (HTTP) to a user's computer browser is sending a small amount of information a computer user's PC may be stored on the hard disk in.
+
+After users logged in Praxis Login (login) in order to use the service, you must accept cookies. Praxis is suitable for the users and to provide more useful services use cookies to find information about identity. The cookie identifies the user's computer, but does not identify individual users.
+
+Praxis visited use cookies to users visit and use for each service type, the user can determine the size and provide more convenient services are made. Users about the cookies, you can choose whether to use. By setting your web browser may allow all cookies, and check each time a cookie is being deferred, or to reject all cookies you may save.
+
+However, if you refuse to save cookies, some services require a login can not be used Praxis.
+
+### 8\. Privacy-related technical and administrative measures
+
+PraxisEd.com users' personal information are treated as personal information, loss, theft, leakage, tampering or damage to safety and technical measures, such as the following are.
+
+Users' personal information is protected by a password. Praxis User ID (ID) and password known only to the person, check and change your personal information with a password known only by your availability. Therefore, user password, and we can not tell anyone. To this end, in PraxisEd.com finished using the PC on the whole line out (logout) hasigo are encouraged to quit your web browser. Especially by sharing with others using your PC, or a public place (work or school, libraries, Internet cafes, etc.) is recycled from the two other people known to the personal information to prevent the further you will need the same procedure as above.
+
+PraxisEd.com by hacking or computer viruses, such as members' personal information to prevent leakage or damage is committed. Preparing for the destruction of personal information, often to back up data and using the latest anti-virus program users' personal information or material to prevent leakage or damage to, and throughout the encryption algorithm on a network and securely transfer your personal information can help. And use firewalls to control unauthorized access from outside, and other systems to ensure the stability of all technical devices Acquiring ever are working.
+
+PraxisEd.com treat personal information related to the limited staff and the staff and give them the password for a separate update on a regular basis, and frequent training for staff through the Praxis privacy policy has always emphasized the importance of the compliance . And district and throughout the house Add tongsinbimiljeon Praxis Privacy Policy and contact information of the implementation of the compliance problems encountered due to confirm, modify, and fix it immediately if you are trying to be.
+
+### 9\. Personal information handling charges
+
+PraxisEd.com services to improve users' personal information can be handled by outsourcing. If the processing of personal information entrusted to the fact that the advance will be announced to users. In addition, service providers commissioned by the contract and the instructions of privacy related to punctuality, confidentiality of personal information, provide 3rd party for the ban, and the accident and the responsibility to clarify the provisions of such agreements, written or electronically stored information is .
+
+### 10\. Privacy Policy Suggestions and complaints concerning
+
+PraxisEd.com privacy with respect to users' opinions and complaints procedures and how to handle is making. Users listed in the bottom of the "12. Praxis Education of personal information manager and staff member - Name and Contact "section to see through the telephone or mail to report the complaint and report users' information against PraxisEd.com enough to respond quickly and will. Or government invasions of personal privacy by installing a call center in operation (http://www.cyberprivacy.or.kr/, call 02-1336, PC communications go eprivacy) may apply to the processing of complaints
+
+### 11\. Concerning children's privacy
+
+An obstacle to children under the age of 14 on-line before sending personal information to others, collect and use personal information for purposes familiarize yourself with the consent of the legal representative should be. Join this PraxisEd.com Terms or terms of service and explain the above, and through the case of registration of parents to determine whether you have received consent. 10,014 children under the age of the child's personal information, the legal representative of access, correction, withdrawal of consent may be requested, if such a request PraxisEd.com will take the necessary measures without delay.
+
+### 12\. Praxis Education personal information manager and a member of staff, names and contact details
+
+User ID associated with your personal information (ID) maintain the security of the password of the user himself is responsible. To others, careful not to spill your password, please. In particular, "8. Privacy-related technical - administrative measures "in public places, as set forth in Section when you are connected online, pay extra attention. PraxisEd.com opinions and complaints about personal information that is responsible for handling personal information manager and staff to assign, and contacts are listed below.
+
+#### Personal Information Manager
+
+Name: Lee Jeonghoon  
+Affiliation / Position: Technical Support / Team Leader  
+Email: hd@hoy.co.kr
+
+#### Personal Information Management Contact
+
+Name: Jo Hyojin  
+Affiliation / Position: Service Team / Team Leader  
+Email: vincent@hoy.co.kr
