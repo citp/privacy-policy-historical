@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ariba.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504123246id_/http%3A//www.ariba.com/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ariba.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222223137id_/http%3A//www.ariba.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Spend Management, Invoice Management, Payment Management, and Contract Management Software - Ariba, Inc. -
-
-## Ariba Web Site Privacy Statement
+# Ariba Web Site Privacy Statement - 11-23-2011 - Ariba, Inc.
 
 Effective November 23, 2011
 
@@ -47,14 +45,14 @@ This Site is primarily located in and operated from the United States. By submit
 The Site contains links to third party web sites such as the web sites of Ariba partner companies. Ariba takes no responsibility for the content or information practices of such sites.
 
 **Choice and Opt-Out**  
-You may opt-out of receiving Ariba newsletters or other email communications from Ariba by sending an email to [**online@ariba.com**](mailto:online@ariba.com). In addition, each email communication includes instructions on how to unsubscribe. Registrants of Connect.Ariba.Com may cancel their registration by sending an email to [**connect_support@ariba.com**](mailto:connect_support@ariba.com). Registrants of Ariba Exchange may cancel their registration by sending an email to [**jfogarty@ariba.com**](mailto:jfogarty@ariba.com?subject=Ariba%20Exchange%20Registration%20Cancellation)
+You may opt-out of receiving Ariba newsletters or other email communications from Ariba by sending an email to [**online@ariba.com**](mailto:online@ariba.com). In addition, each email communication includes instructions on how to unsubscribe. Registrants of Connect.Ariba.Com may cancel their registration by sending an email to [**connect_support@ariba.com**](mailto:connect_support@ariba.com). Registrants of Ariba Exchange may cancel their registration by sending an email to **[social@ariba.com](mailto:social@ariba.com "Follow link")**.
 
 **Security**  
 Ariba uses commercially reasonable efforts to store and maintain personal information You submit on the Site to protect it from loss, misuse, alteration or destruction by unauthorized parties. We may store information that we collect through our Site indefinitely except as otherwise required by law.
 
 **What this Privacy Statement Does NOT Address**  
 This Privacy Statement does not address the personal data management practices of Ariba applicable to the operation and use of the Ariba Network, Ariba's hosting services and Ariba's On-Demand services such as Ariba Procure-To-Pay. The policy addressing these services can be found at  
-[ **http://www.ariba.com/legal/ariba_privacy_statement.cfm**](https://web.archive.org/legal/ariba_privacy_statement.cfm)
+**[http://www.ariba.com/legal/ariba-privacy-statement](https://web.archive.org/legal/ariba-privacy-statement)**
 
 **Comments and Questions**  
 If You have questions or comments about this Privacy Statement, please send an email to [**privacy@ariba.com**](mailto:privacy@ariba.com) or in writing to: Ariba Privacy and Security Manager, Ariba Legal Department, 910 Hermosa Court, Sunnyvale, CA 94085, USA.
