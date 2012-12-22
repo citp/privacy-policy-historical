@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jetphotos.net privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623173229id_/http%3A//jetphotos.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetphotos.net privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222164409id_/http%3A//www.jetphotos.net/privacy) for the most accurate reproduction.*
 
 # JetPhotos.Net » Privacy Policy
 
