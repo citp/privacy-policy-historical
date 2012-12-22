@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckyacecasino.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602111911id_/http%3A//www.luckyacecasino.com/en-gb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckyacecasino.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222030055id_/http%3A//www.luckyacecasino.com/en-gb/privacy) for the most accurate reproduction.*
 
 # LuckyAceCasino.com - Privacy policy
 
