@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mac.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617144538id_/http%3A//www.apple.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mac.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222174626id_/http%3A//www.apple.com/privacy) for the most accurate reproduction.*
 
 # Apple - Apple Customer Privacy Policy
 
