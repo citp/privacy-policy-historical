@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techatlast.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609012437id_/http%3A//www.techatlast.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techatlast.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222225829id_/http%3A//www.techatlast.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Technology Blog
 
@@ -41,6 +41,3 @@ On this technology blog, we make use of [Alertpay](https://www.alertpay.com/?Gj
 We make use of some security plugins to make sure that our payment page is intact and secure every time. And since you all know that our payment processor, AlertPay offer the best payment processing feature, you are very secured doing business with us.
 
 Olawale Daniel ( _Founder_ )
-
-  
-
