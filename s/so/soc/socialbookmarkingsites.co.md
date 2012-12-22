@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the socialbookmarkingsites.co privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506044105id_/http%3A//socialbookmarkingsites.co/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialbookmarkingsites.co privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222175956id_/http%3A//socialbookmarkingsites.co/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## TABLE OF CONTENTS
 
-We, at Social Bookmarking Sites treat the privacy of our visitors with the highest importance. This policy details the measures we take to preserving and safely guarding your privacy when you visit or communicate with our site or personnel. A detailed explanation of how we may store or otherwise use personal information about you is explained in this Privacy Policy. Regular updates of the Privacy Policy are completed, requiring you to check back on this Policy from time to time. For the purpose of the Data Protection Act of 1998, Social Bookmarking Sites. is our data handler. 
+We, at Social Bookmarking Sites treat the privacy of our visitors with the highest importance. This policy details the measures we take to preserving and safely guarding your privacy when you visit or communicate with our site or personnel. A detailed explanation of how we may store or otherwise use personal information about you is explained in this Privacy Policy. Regular updates of the Privacy Policy are completed, requiring you to check back on this Policy from time to time. For the purpose of the Data Protection Act of 1998, Social Bookmarking Sites. is our data handler.
 
 ### 1\. Information Collection
 
-Operation of this site may require collection and processing of the following data: 
+Operation of this site may require collection and processing of the following data:
 
 1.1 Visit details to our site or any resources used on our site are not limited to just location and traffic data, weblogs or other communication information.  
 1.2 Information given to us when you contact us for any reason.  
-1.3 Data offered by filled out forms on our site, like a registration or purchase.  
-
+1.3 Data offered by filled out forms on our site, like a registration or purchase.
 
 ### 2\. Cookies
 
