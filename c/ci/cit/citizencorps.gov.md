@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizencorps.gov privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626065531id_/https%3A//www.citizencorps.gov/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizencorps.gov privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222041745id_/https%3A//www.citizencorps.gov/privacy.shtm) for the most accurate reproduction.*
 
 # Citizen Corps : Citizen Corps Viewer Privacy and Security Policy
 
