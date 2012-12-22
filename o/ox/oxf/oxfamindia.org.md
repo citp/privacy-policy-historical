@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfamindia.org privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624094953id_/http%3A//www.oxfamindia.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfamindia.org privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222162530id_/http%3A//www.oxfamindia.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Oxfam India
 
