@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tfportal.de privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510062656id_/http%3A//www.tfportal.de%3F54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfportal.de privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222192255id_/http%3A//www.tfportal.de%3F54) for the most accurate reproduction.*
 
-# Impressum « Article « All about Team Fortress - TF2 - TFC - FF
+# Impressum « Article « Team Fortress 2 - TF2 - TFC - TFPortal
 
 ## **Webmaster**
 
