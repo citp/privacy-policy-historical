@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the search.wordpress.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229212749id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search.wordpress.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223002038id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Automattic
 
@@ -11,7 +11,7 @@ Your privacy is critically important to us. At Automattic we have a few fundamen
 
 
 
-Below is our privacy policy which incorporates these goals:[](http://creativecommons.org/licenses/by-sa/2.5/) (Note, we’ve decided to make this privacy policy available under a **Creative Commons Sharealike** license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we’d appreciate a link to Automattic.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn’t need to do the same.)
+Below is our privacy policy which incorporates these goals: (Note, we’ve decided to make this privacy policy available under a [Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/2.5/) license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we’d appreciate a link to Automattic.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn’t need to do the same.)
 
 If you have questions about deleting or correcting your personal data please contact our [support team](http://support.wordpress.com/).
 
@@ -41,7 +41,7 @@ A cookie is a string of information that a website stores on a visitor’s compu
 
 ### Business Transfers
 
-If Automattic, or substantially all of its assets were acquired, or in the unlikely event that Automattic goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Automattic may continue to use your personal information as set forth in this policy.
+If Automattic, or substantially all of its assets, were acquired, or in the unlikely event that Automattic goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Automattic may continue to use your personal information as set forth in this policy.
 
 ### Ads
 
