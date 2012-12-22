@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxcash.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616001522id_/http%3A//fxcash.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcash.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222104830id_/http%3A//fxcash.com/pages/privacy) for the most accurate reproduction.*
 
 # FXCash : Privacy Policy - Forex Affiliate Program - Become an Affiliate - Forex and Binary Options - Privacy Policy - FXCash.
 
