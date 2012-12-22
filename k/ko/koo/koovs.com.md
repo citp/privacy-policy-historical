@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the koovs.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619131632id_/http%3A//www.koovs.com/deals/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koovs.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222191503id_/http%3A//www.koovs.com/info/privacy) for the most accurate reproduction.*
 
-# Online Shopping - Buy Mobiles, Cameras, Computers, Fashion & Accessories at Lowest Price in India - Koovs.com
-
-Free Shipping anywhere in India 100% Genuine Products Pay Cash on Delivery +080-67880666  24x6 (Monday-Saturday)  info@koovs.com  +080-67880666  24x6 (Monday-Saturday) 
-
-### Privacy Policy
+# Koovs.com - Online Fashion Store for Women
 
 This Privacy Policy commits to protecting your privacy online. Please read the following points of Privacy Policy carefully, as by accessing or using our website, you acknowledge that you have read, understand, and agree to be bound to all the terms of this Privacy Policy and our website terms of use.
 
@@ -21,36 +17,29 @@ We collect personally identifiable information (email address, name, phone numbe
 We use personal information to:
 
   * provide the services you request;
-  * to resolve disputes & troubleshoot problems; 
-  * promote a safe service; 
+  * to resolve disputes & troubleshoot problems;
+  * promote a safe service;
   * measure consumer interest in our products and services;
   * inform you about online and offline offers, products, services, and updates;
   * request optional online surveys
 
 
 
-_Please note that we will provide you the ability to opt-out of such uses._
+Please note that we will provide you the ability to opt-out of such uses.
 
 ### Sharing Personal Information
 
-We may share personal information with our other corporate entities to: 
+We may share personal information with our other corporate entities to:
 
   * detect and prevent identity theft, fraud and other potentially illegal acts;
-  * correlate related or multiple accounts to prevent abuse of our services; 
+  * correlate related or multiple accounts to prevent abuse of our services;
   * facilitate joint or co-branded services that you request where such services are provided by more than one corporate entity;
   * should such a transaction occur, that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information
-  * We would not rent, trade or share your PII that we have collected with any other company for their marketing purposes without your consent. Though we reserve the right to communicate your personal information to any third party that makes a legally-compliant request for its disclosure. However, we will not disclose your name, address and other information which identifies you personally to any third party without your consent. 
-  * We identify and use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is also used to help identify you and to gather broad demographic information. 
+  * We would not rent, trade or share your PII that we have collected with any other company for their marketing purposes without your consent. Though we reserve the right to communicate your personal information to any third party that makes a legally-compliant request for its disclosure. However, we will not disclose your name, address and other information which identifies you personally to any third party without your consent.
+  * We identify and use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is also used to help identify you and to gather broad demographic information.
   * We use cookies and other technologies such as pixel tags and clear gifs to store certain types of information each time you visit any page on our website. This enables us to determine what portions of this website are most appropriate for your professional needs and to serve advertising banners to you. You may choose to decline cookies, but this would disable the scope of experiencing the entire features of the website. Hence, we recommend that you leave them turned on.
-  * As we use third-party service providers to serve ads on our behalf across the Internet, they may collect anonymous information about your visits to our website, and your interaction with our products and services to target advertisements for goods and services. No personally identifiable information is collected or used in this process. 
+  * As we use third-party service providers to serve ads on our behalf across the Internet, they may collect anonymous information about your visits to our website, and your interaction with our products and services to target advertisements for goods and services. No personally identifiable information is collected or used in this process.
 
 
 
-For any queries or support, you may get in touch with our customer support team or mail us at **info@koovs.com**
-
-Safe and Secure Shopping  All major credit and debit card accepted. We also accept payments by  
-Internet Banking, Cash on Delivery and Equated Monthly Installments (EMI).
-
-UP TO  25%  Cashback 
-
-Need Help ? 24x6 CUSTOMER SUPPORT Call 080-67880666
+For any queries or support, you may get in touch with our customer support team or mail us at [info@koovs.com](mailto:info@koovs.com)
