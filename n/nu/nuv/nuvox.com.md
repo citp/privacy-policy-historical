@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the nuvox.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628091055id_/http%3A//www.windstream.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuvox.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222210834id_/http%3A//www.windstream.com/privacy.aspx) for the most accurate reproduction.*
 
 # Windstream Privacy Popup
 
 [Download a PDF of our Privacy Statement.](https://web.archive.org/WorkArea/DownloadAsset.aspx?id=302)
+
+Updated: February 2012 
 
 This Privacy Statement describes how Windstream and its affiliates collects information from or about you, either as a customer or visitor to any Windstream website, when you order services from us, how we use the information we collect and the choices you have concerning the collection and use of such information. The goal of this Statement is to ensure that your Windstream experience is secure so that you may use our products and services with complete confidence. Please review this Statement carefully.
 
@@ -22,6 +24,8 @@ This Privacy Statement describes how Windstream and its affiliates collects info
 **L.** Security Breaches   
 **M.** Contact Us   
 **N.** Definitions   
+**O.** Internet Information   
+**P.** Safe Harbor Principles   
 
 
 ##  A. Personal Information Collected:
@@ -125,10 +129,26 @@ While our goal is to prevent any unauthorized disclosure of PII, Windstream cann
 
 ## M. Contact Us
 
-If you have questions, concerns, or complaints about this Statement or Windstream?s privacy practices, please contact a Windstream customer care representative; email us at privacy.statement@windstream.com; or write to us at Windstream Communications, Inc., ATTN: Privacy Officer, 4001 Rodney Parham Road, Little Rock, Arkansas 72212. We will respond to your inquiries in a timely manner. 
+If you have questions, concerns, or complaints about this Statement or Windstream?s privacy practices, please contact a Windstream customer care representative; email us at windstream.privacy.statement@windstream.com; or write to us at Windstream Communications, Inc., ATTN: Privacy Officer, 4001 Rodney Parham Road, Little Rock, Arkansas 72212. We will respond to your inquiries in a timely manner. 
 
 ## N. Definitions 
 
 **Cookies** are small, encrypted data strings our server writes to your hard drive that contains your unique Windstream User ID. 
 
 **Web beacons** are small graphic images imbedded in a webpage or email.
+
+## O. Internet Information 
+
+Windstream's network management practices are designed to provide the best possible online experience to its customers. To that end, Windstream monitors traffic flows between points within its network and between its network and locations on the internet for purposes of reasonable network management. Windstream uses this information to manage its network, provide security for its customers, plan for future needs, and ensure its network runs efficiently. Monitored information includes the amount of data sent to and from your connection, the source and destination of the data, and the type of information sent and receeived. In limited circumstances, Windstream may also look into the contents of the information to determine whether it is malicious in nature (such as a virus, spam, worm, etc) or when required by law to comply with judicial orders or regulations.
+
+## P. Safe Harbor Principles 
+
+Windstream adheres to the Safe Harbor Privacy Principles and complies with the U.S.- EU Safe Harbor Framework as agreed to and set forth by the United States Department of Commerce and the European Union ("EU"). [http:///export.gov/safeharbor](http://export.gov/safeharbor). For individually identifiable information received by Windstream in the United States, from Users in the EU, Windstream adheres to the following principles: 
+
+**Notice.** Windstream will inform Users about the purposes for which it collects and uses PII, the types of non-agent third parties to which Windstream discloses PII, and the choices and means, if any, Windstream offers for limiting use and disclosure of PII. 
+
+**Choice.** Windstream will offer Users the opportunity to choose (opt-out) whether their PII is (a) to be disclosed to a third party who is not an agent, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized. For sensitive PII, Windstream will give Users the opportunity to affirmatively and explicitly (opt-in) consent to such disclosure or use.
+
+**Access.** Upon request, Windstream will provide Users with the PII that it holds about them and will take reasonable steps to provide individuals with a means to correct, amend or delete PII that is inaccurate or incomplete. 
+
+**Dispute Resolution.** For complaints that cannot be resolved between Windstream and the User, such disputes will be governed by the current provisions of Windstream's Terms and Conditions. 
