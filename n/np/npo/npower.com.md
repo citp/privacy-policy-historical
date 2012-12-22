@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npower.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608060435id_/http%3A//www.npower.com/home/terms-and-conditions/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npower.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222134500id_/http%3A//www.npower.com/home/terms-and-conditions/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Website privacy policy - npower
 
@@ -10,7 +10,7 @@ Your personal information (also called ‘personal data’) is the information w
 
 Your personal information may be stored online and therefore we take steps to ensure that our systems are well protected.
 
-Please note that this privacy policy only covers [www.npower.com](http://www.npower.com/).  Other websites belonging to us (such as [www.npowerjobs.com](http://www.npowerjobs.com/) and [www.brightergraduates.com](http://www.brightergraduates.com/)), the England 2018 World Cup bid pages at [www.npower.com/backthebid](http://www.npower.com/backthebid) the England 2018 World Cup bid pages at www.npower.com/backthebid and other websites accessible via links are **not** covered by this policy. If you access any of these sites, please check the privacy policy applicable to these sites (if any) before you submit any of your personal information to them.
+Please note that this privacy policy only covers [www.npower.com](http://www.npower.com/ "Click here to visit npower"). Other websites belonging to us (such as [www.npowerjobs.com](http://www.npowerjobs.com/ "Click here to visit npower jobs.") and [www.brightergraduates.com](http://www.brightergraduates.com/ "Click here to visit brighter graduates.")) and other websites accessible via links are not covered by this policy. If you access any of these sites, please check the privacy policy applicable to these sites (if any) before you submit any of your personal information to them
 
 ### Our group and your products and services
 
@@ -70,13 +70,13 @@ Please note that we reserve the right to access and disclose individually identi
 
 ...you may opt out at a later date. You have a right at any time to stop us from contacting you for marketing purposes or giving your information to other members of our group for marketing purposes.
 
-If you no longer wish to be contacted for marketing purposes please email [marketing.supressions@npower.com](mailto:marketing.supressions@npower.com).
+If you no longer wish to be contacted for marketing purposes please email [marketing.suppressions@npower.com](mailto:marketing.suppressions@npower.com).
 
 ### How can you find out what personal information we hold about you?
 
 Just ask us! You are entitled to see the personal information that we hold about you at any time. (If you write to, email or phone us and ask to see this information, it is known as a ‘subject access request’ or ‘SAR’ for short) You can do so by:
 
-  * telephoning us on 0845 602 6363;
+  * telephoning us on 0800 073 3000 (free from most landlines) or 0330 100 3000 (included in any 'inclusive minutes' from mobiles);
   * Contacting us through npower.com – [Contact Customer Service](http://www.npower.com/web/At_home/customer_service/contact_us/customer_enquiry/index.htm) and choose the “Other” option; or
   * writing to us at Data Protection SARs Team, npower, Building Tio 2, Ground Floor, Traynor Way, Off Shotton Lane, Peterlee, County Durham, SR8 2RU.
 
@@ -105,3 +105,5 @@ We do keep our privacy policies under regular review so please do check each tim
 Updated: 12 April 2010 – 4th paragraph amended to include reference to “Back the Bid” pages of [www.npower.com](http://www.npower.com/)
 
 If you have any questions or if you feel that we are not complying with the terms of this privacy policy please do contact us through npower.com [Contact Customer Service](https://web.archive.org/web/At_home/customer_service/contact_us/customer_enquiry/index.htm) and choose the "Other" option from the drop down list
+
+# Phone calls: Calling us on a 0800 number is normally free when you call from a landline but charges may vary if you use a mobile. Calling us on a 0330 number will cost you no more than 01 or 02 numbers from landlines or mobiles. If you get ‘inclusive minutes' with your package, calls on a 0330 number will be part of these.
