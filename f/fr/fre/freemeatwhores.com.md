@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freemeatwhores.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626060511id_/http%3A//track.rustytrombone.meatmembers.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemeatwhores.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222062843id_/http%3A//track.anallickfest.meatmembers.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
-**Rusty Trombone**
+**Anal Lick Fest**
 
 **PRIVACY POLICY STATEMENT**  
   
@@ -10,7 +10,7 @@
 
 * * *
 
-has created this Privacy Policy to demonstrate our dedication to respecting privacy. This Privacy Policy sets out our practices with respect to personal information collected regarding visitors and subscribers (collectively referred as "you") of meatmembers.com. meatmembers.com is an adult website and membership is solely restricted to adults; persons under the age of eighteen are strictly prohibited from this Site and we do not intentionally collect information on individuals under the age of eighteen. By visiting or subscribing to this Site, you agree and consent to the terms of this Privacy Policy as amended from time to time, as well as the terms and conditions of this Site.
+has created this Privacy Policy to demonstrate our dedication to respecting privacy. This Privacy Policy sets out our practices with respect to personal information collected regarding visitors and subscribers (collectively referred as "you") of anallickfest.com. anallickfest.com is an adult website and membership is solely restricted to adults; persons under the age of eighteen are strictly prohibited from this Site and we do not intentionally collect information on individuals under the age of eighteen. By visiting or subscribing to this Site, you agree and consent to the terms of this Privacy Policy as amended from time to time, as well as the terms and conditions of this Site.
 
 ### Non-Personal Information and Cookies
 
