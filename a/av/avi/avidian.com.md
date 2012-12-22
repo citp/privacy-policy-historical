@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the avidian.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605030824id_/http%3A//www.avidian.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avidian.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222234158id_/http%3A//www.avidian.com/privacy.aspx) for the most accurate reproduction.*
 
 # Contact Management Software & Sales CRM Software for Outlook - Easy & Simple
 
+|  |   
 ---  
+**Privacy Statement**  
   
 The privacy of individual visitor data is of primary importance to us. We work diligently to protect confidentiality, restrict transfer of personal data, incorporate technical safeguards and appropriate security policies, and identify privacy implications in new services.
 
 We have created this privacy statement to demonstrate our firm commitment to privacy and confidentiality. The policies described in this section apply to www.Avidian.com and are made available to make you aware of how we collect and use identifying information of visitors to our websites.
 
 From time to time, we may need to change our privacy statement because of changes in our business, or in our attempts to serve your needs better. We’ll use reasonable efforts to publish any changes to our privacy statement. This site may contain links to other sites. We are not responsible for the privacy policies or the content of such linked websites.  
+  
+**Identifying Information**  
   
 “Identifying information” is exactly what it sounds like — it is information used to identify you as an individual visitor.
 
@@ -21,6 +25,8 @@ If a user elects to use our referral service for informing a friend about our si
 From time-to-time our sites request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level).
 
 Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of our sites.  
+  
+**Data Security**  
   
 We recognize your concern for security, and will continue to use reasonable efforts to establish secure connections with you and to limit access to databases containing personal information to authorized personnel only.
 
