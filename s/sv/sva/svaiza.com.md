@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the svaiza.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515141051id_/http%3A//www.svaiza.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svaiza.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222195257id_/http%3A//www.svaiza.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Online Shopping - Buy Accessories,Apparels at lowest price in India - Svaiza.com
+# Online Shopping - Buy Accessories,Apparels,Electronics,Mobiles at lowest price in India - svaiza.com
 
 **Privacy Policy**
 
