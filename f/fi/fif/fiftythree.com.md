@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiftythree.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617224347id_/http%3A//fiftythree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiftythree.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222190613id_/http%3A//www.fiftythree.com/privacy) for the most accurate reproduction.*
 
 # Privacy | FiftyThree
 
