@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akismet.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626152830id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akismet.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223002038id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Automattic
 
@@ -11,7 +11,7 @@ Your privacy is critically important to us. At Automattic we have a few fundamen
 
 
 
-Below is our privacy policy which incorporates these goals:[](http://creativecommons.org/licenses/by-sa/2.5/) (Note, we’ve decided to make this privacy policy available under a **Creative Commons Sharealike** license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we’d appreciate a link to Automattic.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn’t need to do the same.)
+Below is our privacy policy which incorporates these goals: (Note, we’ve decided to make this privacy policy available under a [Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/2.5/) license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we’d appreciate a link to Automattic.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn’t need to do the same.)
 
 If you have questions about deleting or correcting your personal data please contact our [support team](http://support.wordpress.com/).
 
