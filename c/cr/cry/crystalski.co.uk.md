@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crystalski.co.uk privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623090157id_/http%3A//www.crystalski.co.uk/our-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalski.co.uk privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222144126id_/http%3A//www.crystalski.co.uk/our-policies/privacy-policy) for the most accurate reproduction.*
 
 # Data Protection | Crystal Ski
 
@@ -12,17 +12,17 @@ We will update your information whenever we can to keep it current, accurate and
 
 ### Our Use of Your Information 
 
-  1. For the purpose of providing you with our services, including your flight, holiday or insurance, etc., we may disclose and process your information outside the UK/EEA. In order for you to travel abroad, it may be mandatory (as required by government authorities at the point(s) of departure and/or destination) to disclose and process your information for immigration, border control, security and anti-terrorism purposes, or any other purposes which they determine appropriate. These requirements may differ depending on your destination and you are advised to check. Even if not mandatory, we may exercise our discretion to assist where appropriate.
-  2. We may collect and process your information for the purposes set out in our registration with the Office of the Information Commissioner, and disclose the same to our group companies for business purposes and also to companies and our service providers who act as "data processors" on our behalf, or to credit and fraud agencies (some of whom are located outside the UK/EEA). These business purposes include administration, providing services (and contacting you where necessary), customer care, service quality, business management and operation, re-organisation/structuring/sale of our business (or group companies), risk assessment, security, fraud and crime prevention/detection, monitoring, research and analysis, marketing, customer purchasing preferences and trends, dispute resolution, credit checking and debt collection.
-  3. Information (such as health or religion) may be considered "sensitive personal data" under the Data Protection Act 1998. We collect it to cater to your needs or act in your interest, and we are only prepared to accept sensitive personal data on the condition that we have your positive consent. By booking with us you also agree for your insurers, their agents and medical staff to disclose relevant information and sensitive personal data to us in circumstances where we need to act on your behalf or in the interest of passengers or in an emergency.
+  1. For the purpose of providing you with our services, including your flight, holiday or insurance, etc., we may disclose and process your information outside the UK/EEA. In order for you to travel abroad, it may be mandatory (as required by government authorities at the point(s) of departure and/or destination) to disclose and process your information for immigration, border control, security and anti-terrorism purposes, or any other purposes which they determine appropriate. Some countries will only permit travel if you provide your advance passenger data (for example Caricom API and US secure flight data). These requirements may differ depending on your destination and you are advised to check. Even if not mandatory, we may exercise our discretion to assist where appropriate.
+  2. We may collect and process your information for the purposes set out in our registration with the Office of the Information Commissioner, and disclose the same to our group companies for business purposes and also to companies and our service providers who act as "data processors" on our behalf, or to credit and fraud agencies (some of whom are located outside the UK/EEA). These purposes include administration, providing services (and contacting you where necessary), customer care, service quality, business management and operation, re-organisation/structuring/sale of our business (or group companies), risk assessment/management, security, fraud and crime prevention/detection, monitoring, research and analysis, social media, reviews, marketing, customer purchasing preferences and trends, dispute resolution/litigation, credit checking and debt collection.
+  3. Information (such as health or religion) may be considered "sensitive personal data" under the Data Protection Act 1998. We collect it to cater to your needs or act in your interest, and we are only prepared to accept sensitive personal data on the condition that we have your positive consent. By booking with us you also agree for your insurers, their agents and medical staff to disclose relevant information and sensitive personal data to us in circumstances where we/they need to act on your behalf or in the interest of passengers or in an emergency.
 
 
 
 ### If you do not agree to Our Use of Your Information above, we cannot do business with you or accept your booking.
 
-### Direct Marketing Material 
+### Direct Marketing Material
 
-  1. We may from time to time contact you with information on offers of goods and services, brochures, new products, forthcoming events or competitions from our holiday divisions and our group companies. Our websites will assume you to agree to e-communications when you make a booking.
+  1. We may from time to time contact you with information on offers of goods and services, brochures, new products, forthcoming events or competitions from our holiday divisions and our group companies. Our websites will assume you to agree to e-communications when you make a booking. We will tailor the information we send you unless you tell us not to. This will enable us to send you more personalised and relevant communications. You will be given the opportunity on every communication to opt-out of this personalisation.
   2. You may indicate your preference regarding receiving third party direct marketing material.
   3. If do not wish to receive such information or would like to change your preference, please refer to point (2) of "Your Rights" below.
 
@@ -42,7 +42,11 @@ Please write to TUI UK Limited, Legal Department, TUI Travel House, Crawley Busi
 
 Outside the European Economic Area (EEA), note that controls on data protection in such countries may not be as strong as the legal requirements in this country.
 
-### Cookies
+### USE OF TOOLS/"COOKIES" AND LINKS TO OTHER WEBSITES
+
+If our contact and dealing with you is via our website(s), we may use cookies. To find out more about the types of cookies on our website(s), how we use cookies, to disable them or to change your preference and more, please refer to the information provided below. By using our website(s), you consent to our use of cookies.
+
+Our website(s) may contain links to third party websites or micro-sites not controlled or owned by us. For example, reference sites or ancillary products and services sites or websites owned by our sister companies. It is your responsibility to check the status of these sites before using them. Please read their applicable terms and conditions, etc. carefully.
 
 **What is a cookie?**
 
@@ -73,31 +77,41 @@ Site functionality | Search Criteria | This cookie remembers your search criteri
 Site functionality | JSESSIONID | This cookie is set when you arrive at the website and is used to maintain your session on the website and to retain your last search criteria. Without this cookie you will not be able to use this website.  
 Site functionality | Photo Competition | This cookie allows us to remember which photo you voted for and prevent fraudulent activity to artificially improve the results.  
 Site functionality | Help (Get Satisfaction) | The cookies set for Get Satisfaction help to identify our account holders and keep track of your preferences. They use aggregated, anonymous data to measure total audience size and traffic as well as conduct research to improve the Get Satisfaction Service. See <http://getsatisfaction.com/privacy> for more details.  
-Analytics | Adobe SiteCatalyst | These cookies enable us to collect anonymous, aggregated visitor information including the number of visits and page views that arise from marketing activity. The data stored in these cookies is only used internally.  
+Site Functionality | Client Login | Maintains a users session after logging into the client area post-booking.  
+Site Functionality | WorldPay | Certain pages use the secure payment portal, WorldPay.  
+Site Functionality  | Desktop/Mobile | This cookie remembers which version of the website you are viewing, desktop or mobile.  
+Site Functionality | Feedback Survey | Similar to JSESSIONID this cookie is set when you arrive at the feedback part of the website. Without this cookie you will not be able to submit your feedback.  
+Site Functionality | sIFR Flash Fonts | sIFR fonts are used within Flash. The cookie, sifrFetch, is set to indicate whether the browser supports Flash or not and therefore if sIFR fonts will work or not.  
+Analytics | Adobe SiteCatalyst, comScore/Sitestat | These cookies enable us to collect anonymous, aggregated visitor information including the number of visits and page views that arise from marketing activity. The data stored in these cookies is only used internally.  
 Analytics | Tealeaf | These cookies contain data to analyse a user's actions across our website. The data stored in these cookies is only used internally.  
 Analytics | Adinsight | This cookie enables us to track the interaction between our website and sales centre to help us improve customer experience. The data collected is anonymous and only used internally.   
 Analytics | Yahoo | These cookies enable us to collect anonymous, aggregated visitor information including the number of visits and page views that arise from marketing activity. The data stored in these cookies is only used internally.  
 Analytics | Tagman, Convertro, Tealium | We use Tagman, Tealium and Convertro for tracking our marketing activity. The data collected is anonymous and only used internally.  
+Analytics | Visual Website Optimizer | Visual Website Optimizer uses cookies to monitor performance of website design and function changes. The cookies are used to keep track of the Variation that a user has seen, the goals a user has completed and even the fact the user has become a part of the test or not. The data collected is anonymous and only used internally. More info: [visualwebsiteoptimizer.com/split-testing-blog/eu-cookie-law-implications/](http://visualwebsiteoptimizer.com/split-testing-blog/eu-cookie-law-implications/ "External website - this link will open in a new window")  
 Marketing | Search Engines: Google, Bing, Yahoo etc | The cookies used for search engines allow us to monitor and enhance the performance of marketing activity. The data collected is anonymous and only used internally.  
-Marketing | Affiliates: Commission Junction, Affiliate Future | These cookies provide us with information to monitor the performance of specially selected marketers, advertisers and publishers and help better serve and manage offers and ads across the web. [www.cj.com/privacy_web_user.html](http://www.cj.com/privacy_web_user.html).  
+Marketing | Affiliates: Commission Junction, Affiliate Future | These cookies provide us with information to monitor the performance of specially selected marketers, advertisers and publishers and help better serve and manage offers and ads across the web. [www.cj.com/privacy_web_user.html](http://www.cj.com/privacy_web_user.html "External website - this link will open in a new window").  
 Marketing | TripAdvisor (SpotLight) | The cookies allow us to monitor and enhance the performance of marketing activity via TripAdvisor. The data collected is anonymous and only used internally.  
 Marketing | FloodLight | The cookies allow us to monitor and enhance the performance of marketing activity via selected third parties. The data collected is anonymous and only used internally.  
 Marketing | Third Party Advertising Networks (Display Advertising) including Right Media, MediaMath, Telegraph etc | These cookies allow us to track which adverts have driven traffic to our website. The information collected by these cookies is anonymous.  
 Marketing | VE Interactive | If a user enters their email address into our site (and opts in to receive emails from us), that user will receive an email suggesting a range of potential holidays based on their activity on the site. This will only happen if the user does not make a booking.  
-Marketing | Criteo | Criteo shows personalised adverts when you are on some other websites based on the holidays that you've viewed on this website. The information collected by these cookies is anonymous.To opt out of receiving these cookies please visit [www.criteo.com/en/privacy-policy/opt-out](http://www.criteo.com/en/privacy-policy/opt-out).  
-Social Media | AddThis | We use AddThis to enable customers to share our site content via social media tools such as Twitter and Facebook. This cookie doesn't contain any personally identifiable information. To opt out of receiving these cookies please visit [www.addthis.com/privacy](http://www.addthis.com/privacy)  
+Marketing | Criteo | Criteo shows personalised adverts when you are on some other websites based on the holidays that you've viewed on this website. The information collected by these cookies is anonymous.To opt out of receiving these cookies please visit [www.criteo.com/en/privacy-policy/opt-out](http://www.criteo.com/en/privacy-policy/opt-out "External website - this link will open in a new window").  
+Marketing | Quantcast  | Helps us measure and verify the size of our audience in different parts of the world for advertising. No personally identifiable information is stored. If you would prefer not to allow Quantcast cookies, you can manage your preferences at [www.quantcast.com/how-we-do-it/consumer-choice/opt-out/](https://www.quantcast.com/how-we-do-it/consumer-choice/opt-out/ "External website - this link will open in a new window")  
+Marketing | Adobe SiteCatalyst HBX (Hitbox) | Hitbox delivers long term tracking cookies; as part of Adobes's SiteCatalyst HBX application. More information can be found here: [documents.hitbox.com/optout.html](https://documents.hitbox.com/optout.html "External website - this link will open in a new window")  
+Marketing | Rocket Fuel | Third party provider of targeted online ad network. The cookies allow us to monitor and enhance the performance of paid-for marketing activity via selected third parties. All information collected is anonymous. For more information please visit: <http://rocketfuel.com/privacy-policy>  
+Social Media | AddThis | We use AddThis to enable customers to share our site content via social media tools such as Twitter and Facebook. This cookie doesn't contain any personally identifiable information. To opt out of receiving these cookies please visit [www.addthis.com/privacy](http://www.addthis.com/privacy "External website - this link will open in a new window"). The individual social networks may set their own cookies too.  
   
-For more information about cookies set by our display advertising partners please visit [www.youronlinechoices.com](http://www.youronlinechoices.com/).
+For more information about cookies set by our display advertising partners please visit [www.youronlinechoices.com](http://www.youronlinechoices.com/ "External website - this link will open in a new window").
 
-More information about cookies, including instructions to amend your browser settings to refuse them can be found at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+More information about cookies, including instructions to amend your browser settings to refuse them can be found at [www.allaboutcookies.org](http://www.allaboutcookies.org/ "External website - this link will open in a new window").
 
 ### Monitoring 
 
 To ensure that we carry out your instructions accurately, improve our service and for security and fraud, we may monitor and/or record: 
 
   1. telephone calls;
-  2. activities using CCTV in and around our premises; and
-  3. transactions and activities at all points of contact. All recordings are and shall remain our sole property.
+  2. activities using CCTV in and around our premises;
+  3. transactions and activities at all points of contact. All recordings are and shall remain our sole property; and
+  4. web traffic, activities, etc. and social media. All recordings and derivative materials are and shall remain our sole property.
 
 
 
@@ -109,8 +123,4 @@ We have taken all reasonable steps and have in place appropriate security measur
 
 Any changes to this Policy will be either posted on our website, brochure and/or made available on request.
 
-### Third-Party Web Beacons 
-
-We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm "This link takes you to an external website").
-
-Privacy Policy: v March 2011
+Privacy Policy: v September 2012
