@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atompark.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511083837id_/http%3A//www.atompark.com/customerprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atompark.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222023932id_/http%3A//www.atompark.com/customerprivacy) for the most accurate reproduction.*
 
 # AtomPark Software Inc. Privacy policy
 
