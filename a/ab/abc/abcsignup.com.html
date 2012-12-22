@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the abcsignup.com privacy policy that was archived on 2012-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508065608id_/http%3A//abcsignup.com/Privacy-Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abcsignup.com privacy policy that was archived on 2012-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121222025346id_/http%3A//www.abcsignup.com/Privacy-Policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Privacy Policy With Registration Software | ABC Signup</title>
@@ -9,7 +9,7 @@
 	<link type="text/css" rel="stylesheet" href="/css/Style.css" media="screen">
 	<link type="text/css" rel="stylesheet" href="/css/navigation-core.css" media="screen"> <!-- Core Settings for Navigation -->
 	<link type="text/css" rel="stylesheet" href="/css/navigation-style.css" media="screen"> <!-- Styling Options for Navigation -->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/js/jquery-1.3.2.min.js"></script> <!-- jQuery is Required for Navigation -->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/js/jquery-1.7.1.min.js"></script> <!-- jQuery is Required for Navigation -->
 	<script type="text/javascript" src="/scripts/js/Newsletter.js"></script><!-- Newsletter Email Validation -->
 	<script type="text/javascript" src="/js/navigation-settings.js"></script> <!-- Settings for Navigation -->
 	<script type="text/javascript">
@@ -41,6 +41,30 @@
 		  }
 		});
 	});
+	</script>
+	<script type="text/javascript" src="/js/jquery.colorbox.js"></script>	
+	<link rel="stylesheet" type="text/css" href="/css/colorbox.css" media="screen">
+
+	<script>
+		$(document).ready(function(){
+			//Examples of how to assign the ColorBox event to elements
+			$(".youtube").colorbox({iframe:true, innerWidth:640, innerHeight:360});
+			$(".iframe").colorbox({iframe:true, innerWidth:670, innerHeight:390});
+			$(".inline").colorbox({inline:true, innerWidth:660, innerHeight:380});
+			$(".callbacks").colorbox({
+				onOpen:function(){ alert('onOpen: colorbox is about to open'); },
+				onLoad:function(){ alert('onLoad: colorbox has started to load the targeted content'); },
+				onComplete:function(){ alert('onComplete: colorbox has displayed the loaded content'); },
+				onCleanup:function(){ alert('onCleanup: colorbox has begun the close process'); },
+				onClosed:function(){ alert('onClosed: colorbox has completely closed'); }
+			});
+			
+			//Example of preserving a JavaScript event for inline calls.
+			$("#click").click(function(){ 
+				$('#click').css({"background-color":"#f00", "color":"#fff", "cursor":"inherit"}).text("Open this window again and this message will still be here.");
+				return false;
+			});
+		});
 	</script>
 
 </head>
@@ -112,38 +136,13 @@
 <a href="/About-Us-Overview.html">Overview</a>
 </li>
 <li>
+<a href="/Resources.html">Resources</a>
+</li>
+<li>
 <a href="/News.html">Press Releases</a>
 </li>
 <li>
 <a href="/Making-News.html">Making News</a>
-</li>
-<li class="dropdown-bottom"></li>
-</ul>
-</li>
-<li class="liid1298">
-<a href="/Features.html" class="top-level-nav id1298 sf-with-ul">Features<span class="sf-sub-indicator"> »</span></a>
-<ul class="dropdown dropdown-1" style="display: none; visibility: hidden;">
-<li class="dropdown-top"></li>
-<li>
-<a href="/Features-Overview.html">Overview</a>
-</li>
-<li>
-<a href="/Next-Steps.html">Next Steps</a>
-</li>
-<li>
-<a href="/Credit-Card-Processing.html">Credit Card Processing</a>
-</li>
-<li>
-<a href="/5-Minute-Tour.html">5 Minute Tour</a>
-</li>
-<li>
-<a href="/Simply-Priced.html">Simply Priced</a>
-</li>
-<li>
-<a href="/Quick-Setup.html">Quick Setup</a>
-</li>
-<li>
-<a href="/Easy-To-Use.html">Easy To Use</a>
 </li>
 <li class="dropdown-bottom"></li>
 </ul>
@@ -155,15 +154,15 @@
 <li>
 <a href="/Customers-Overview.html">Overview</a>
 </li>
-<li class="">
+<li>
 <a href="/Niches.html" class="sf-with-ul">Niches<span class="sf-sub-indicator"> »</span></a>
 <ul class="dropdown dropdown-2" style="display: none; visibility: hidden;">
 <li class="dropdown-top"></li>
 <li>
-<a href="/Universities.html">Universities</a>
+<a href="/cookingschools.html">Cooking Schools</a>
 </li>
 <li>
-<a href="/cookingschools.html">Cooking Schools</a>
+<a href="/Universities.html">Universities</a>
 </li>
 <li>
 <a href="/Corporate-Training.html">Corporate Training</a>
@@ -183,10 +182,13 @@
 <li class="dropdown-bottom"></li>
 </ul>
 </li>
-<li class="">
+<li>
 <a href="/Case-Studies.html" class="sf-with-ul">Case Studies<span class="sf-sub-indicator"> »</span></a>
 <ul class="dropdown dropdown-2" style="display: none; visibility: hidden;">
 <li class="dropdown-top"></li>
+<li>
+<a href="/University-of-Detroit-Mercy.html">University of Detroit Mercy</a>
+</li>
 <li>
 <a href="/Outrigger.html">Outrigger Enterprises Group</a>
 </li>
@@ -217,6 +219,37 @@
 <li class="dropdown-bottom"></li>
 </ul>
 </li>
+<li class="liid1298">
+<a href="/Features.html" class="top-level-nav id1298 sf-with-ul">Features<span class="sf-sub-indicator"> »</span></a>
+<ul class="dropdown dropdown-1" style="display: none; visibility: hidden;">
+<li class="dropdown-top"></li>
+<li>
+<a href="/Features-Overview.html">Overview</a>
+</li>
+<li>
+<a href="/Easy-To-Use.html">Easy To Use</a>
+</li>
+<li>
+<a href="/Quick-Setup.html">Quick Setup</a>
+</li>
+<li>
+<a href="/Simply-Priced.html">Simply Priced</a>
+</li>
+<li>
+<a href="/Credit-Card-Processing.html">Credit Card Processing</a>
+</li>
+<li>
+<a href="/Next-Steps.html">Next Steps</a>
+</li>
+<li>
+<a href="/Media-Manager.html">Media Manager</a>
+</li>
+<li>
+<a href="/Learning-Plan.html">Learning Plan</a>
+</li>
+<li class="dropdown-bottom"></li>
+</ul>
+</li>
 <li class="liid1300">
 <a href="/Contact-Us.html" class="top-level-nav id1300">Contact Us</a>
 </li>
@@ -228,21 +261,46 @@
 				<div class="second-content-left">
 					<div class="second-tour">
 						<ul>
-							<li><a href="/5-Minute-Tour.html" class="second-tour-1">Take A Quick Tour</a></li>
+							<li>
+								<!--<a href="/video.php" class="iframe second-tour-1">Take A Quick Tour</a>-->
+							
+							
+
+										
+										
+										
+										<a href="/video.php" class="iframe second-tour-1 cboxElement">Take A Quick Tour</a>
+										
+							
+								<div style="display:none">
+									<div id="inline_content" style="padding:10px; background:#fff;">
+										<video id="sampleMovie" width="640" height="360" preload="" controls="">
+									         <source src="http://media.mediamarketers.com.s3.amazonaws.com/ABCSignup.mp4">
+									         <source src="http://media.mediamarketers.com.s3.amazonaws.com/ABCSignup.mov">
+									         <source src="http://media.mediamarketers.com.s3.amazonaws.com/ABCSignup.ogv">
+									         <source src="http://media.mediamarketers.com.s3.amazonaws.com/ABCSignup.webm">									        
+										</video> 
+										
+								</div></div>
+										
+								
+
+							
+							</li>
 						</ul>
 					</div><!-- end of second-tour div -->
-					<div class="second-testimonials"><div class="Testimonial" id="testimonialBox"><p><span style="color: #333399;">"We offer a variety of professional development events that require flexibility in registration features. We have found that ABC Signup works wonderfully to meet our needs. It is very adaptable to unique events, and allows us to collect significant assessment information in the registration process, which significantly decreases our workload. The fact that the customer service is so great and reliable is a plus!"&nbsp;</span><span style="color: #333399;"><span style="color: #7abc40;"><strong>Judi, Clarkson College</strong></span></span></p><div id="testimonial-content"><a class="read-more right" href="Testimonials.html">(Read More)</a></div><br><br>
+					<div class="second-testimonials"><div class="Testimonial" id="testimonialBox"><p><span style="color: #333399;">“No more phone calls, and no more faxing in requests and manually entering them into a spreadsheet. Customers visit our website, click on the training links, fill in the information, pay for the training, receive confirmation e-mails with invoice receipts and receive our information about hotels and travel arrangements automatically.” &nbsp;<strong><span style="color: #7abc40;">Kevin, Miller Electric Welding Automation</span></strong></span></p><div id="testimonial-content"><a class="read-more right" href="Testimonials.html">(Read More)</a></div><br><br>
 </div></div><!-- end of second-testimonials div -->
 					<div class="second-news"><div class="sec-NewsBlock">
 <div class="NewsBlock">
-<h2 class="NewsHeading"><a class="NewsLink" href="News.html#n394">
-	ABC Signup Registration Software Customers Save Time, Money and T... </a></h2>
+<h2 class="NewsHeading"><a class="NewsLink" href="News.html#n474">
+	ABC Signup Adds Learning Plan Option to Its Registration Software... </a></h2>
 
 </div>
 
 <div class="NewsBlock">
-<h2 class="NewsHeading"><a class="NewsLink" href="News.html#n324">
-	ABC Signup Closes 2011 With Record Customer Retention Rate of Ove... </a></h2>
+<h2 class="NewsHeading"><a class="NewsLink" href="News.html#n464">
+	ABC Signup Adds Multimedia File Upload Option to Its Registration... </a></h2>
 
 </div>
 </div></div><!-- end of second-news div -->
@@ -267,7 +325,7 @@
  frmvalidator.addValidation("FormValue_Email","minlen=4", "Please Enter an Email Address");
  frmvalidator.addValidation("FormValue_Email","req", "Please Enter an Email Address");
  frmvalidator.addValidation("FormValue_Email","email");
-</script></div><div class="second-clients"><a href="/customers.html" target=""><img src="/custimages/med_1220201035926PM.jpg"></a></div><!-- end of second-clients div -->
+</script></div><div class="second-clients"><a href="/customers.html" target=""><img src="/custimages/med_920201235042PM.jpg"></a></div><!-- end of second-clients div -->
 				</div><!-- end of second-content-left div -->
 				<div class="second-content-right">
 					<div class="second-content-right-padding">
@@ -342,7 +400,24 @@
 <script type="text/javascript" language="javascript"> var hs_portalid=139345; var hs_salog_version = "2.00"; var hs_ppa = "abcsignup.app11.hubspot.com"; document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E")); </script><script src="https://abcsignup.app11.hubspot.com/salog.js.aspx" type="text/javascript"></script>
 <!-- End of HubSpot Tracking Code -->
 
+<!-- Google Code for visitors to landing page -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1072338719;
+var google_conversion_label = "eKYvCMLL-wIQn66q_wM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072338719/?value=0&amp;label=eKYvCMLL-wIQn66q_wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
 
 
-</body></html>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none; padding-bottom: 0px; padding-right: 0px;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
