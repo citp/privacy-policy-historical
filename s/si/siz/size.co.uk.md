@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the size.co.uk privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623031946id_/http%3A//www.size.co.uk/customer-service/privacy/%3Fcm_re%3Dhome-_-footer-_-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the size.co.uk privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222053814id_/http%3A//www.size.co.uk/customer-service/privacy/%3Fcm_re%3Dhome-_-footer-_-privacy) for the most accurate reproduction.*
 
 # size? Privacy
 
