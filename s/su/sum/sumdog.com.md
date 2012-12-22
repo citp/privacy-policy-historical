@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sumdog.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624041812id_/http%3A//www.sumdog.com/en/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumdog.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222222151id_/http%3A//www.sumdog.com/en/Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy - cool free maths games designed to improve numeracy
+# Sumdog Teacher Portal - Privacy Policy and Cookies
 
 We are committed to protecting your personal information. This policy covers our use of any personal information we obtain from you when you use Sumdog.
 
@@ -10,7 +10,7 @@ We are committed to protecting your personal information. This policy covers our
 
 When you sign up for one of our services we may ask for personal information about you, such as your name, date of birth, your job and email address. By entering these details accurately it enables us to provide the best possible service.
 
-Most of your information is stored on our servers. However we also use small files (such as cookies and licence files) to store some information on your computer. This reduces the amount of form filling required each time you use our websites or software.
+Most of your information is stored on our servers. We may transfer your information to other countries for processing and storage. However, we will only do this in locations that follow the "Safe harbor" regulations (<http://www.export.gov/safeharbor>). We also use small files (such as cookies and licence files) to store some information on your computer. This reduces the amount of form filling required each time you use our websites or software.
 
 With certain services we also look at your IP address and other data that identifies your computer and country. We use this to personalise your user experience for a particular country and to detect illegal use of our software. This information is not used to develop a personal profile of you.
 
@@ -24,12 +24,34 @@ We will use your personal information as follows:
   * to personalise our services for you
   * to provide you with your licensing or login information.
   * to identify breaches of our licensing terms, so in the worst cases of abuse we may take action against illegal use. This helps maintain free services and lower prices for our law-abiding customers;
+  * to process orders for, and administer, your Sumdog Subscriptions;
   * to request feedback from you about our services so that we may improve the service; and
   * to inform you of other & upgraded services that may be of use to you. If you do not wish to receive this information you may opt out.
 
 
 
 Where Crocodile Clips uses your personal information for any other uses we will seek your permission prior to doing so.
+
+### Sumdog uses Cookies
+
+We use small files called Cookies to help make Sumdog easier to use, and to help us improve the site for you. We store these Cookies on your computer. 
+
+Cookies can't be used to identify you personally. They simply let us know when you return to the site. This helps us, for example, to remember that you're logged in, or to remember the settings you chose on your previous visit. We store them in the Cookies folder on your computer.
+
+**The Cookies we use**
+
+Here's a table describing the Cookies we use:
+
+Cookie name  |  What it's for   
+---|---  
+browsercheck  |  Tests whether your browser can use Sumdog's other Cookies   
+NRAGENT, __utma, __utmb, __utmc, __utmz  |  Monitor Sumdog's performance and speed, and helping us understand how the site is used, so we can optimize it for you   
+_sumdog, JSESSIONID, sumdog_shared_cookie  |  Recognize and coordinate your login across Sumdog's servers   
+default_school  |  Identifies your school code, so you can use Quick Login more easily   
+  
+**Find out more about Cookies**
+
+You can find out more what Cookies are, and how to manage them, here: <http://www.aboutcookies.org/>. Please remember, though, that some of Sumdog's services won't work properly if you block Cookies.
 
 ### **What if you are aged under 18?**
 
@@ -66,4 +88,4 @@ Please send requests by post to the Data Protection Manager at the address below
 
 ### **How to contact us about this privacy policy**
 
-If you have any query regarding this policy please write to the Data Protection Manager, Crocodile Clips Limited, 43 Queensferry Street Lane, Edinburgh, EH2 4PF, Scotland, or telephone 0131 226 1511 (+44 131 226 1511 from outside the UK), or e-mail support@sumdog.com. You can also use our online form to [Contact Us](https://web.archive.org/en/Contact_Us/).
+If you have any query regarding this policy please write to the Data Protection Manager, Crocodile Clips Limited, 43 Queensferry Street Lane, Edinburgh, EH2 4PF, Scotland, or telephone 0131 226 1511 (+44 131 226 1511 from outside the UK), or e-mail support@sumdog.com. You can also use our online form to [contact us](https://web.archive.org/contact).
