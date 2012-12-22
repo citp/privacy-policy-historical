@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blogulate.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626191544id_/http%3A//blogulate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogulate.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222200703id_/http%3A//blogulate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blogulate
 
-  Now's the best time to get your own website   [Sitekic »](http://sitekic.com/ "SiteKic: Making websites affordable to everyone")
+  Hide your secret files INSIDE photos, videos or other files with [OmniHide PRO](http://omnihide.com/buy/ "Hide Files inside other files"). 
 
 **Blogulate** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
