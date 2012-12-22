@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the seftonfashion.com privacy policy that was archived on 2012-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120604045057id_/http%3A//www.seftonfashion.com/pag92.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seftonfashion.com privacy policy that was archived on 2012-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121222083943id_/http%3A//www.seftonfashion.com/pag92.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html id="ctl00_ctl00_tagHTML" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="ctl00_ctl00_Head1"><title>
 	Privacy - Sefton Fashion
@@ -16,8 +16,11 @@
   <!--<meta id="ctl00_ctl00_MyCompatible" http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />-->
   <meta id="ctl00_ctl00_MyDescription" name="Description" content="Sefton Fashion Online Store.  Welcome to seftonfashion.com, North London's fashion-forward shopping mecca right at your fingertips • Worldwide shipping ..."><meta id="ctl00_ctl00_MyKeywords" name="Keywords">
   <script type="text/javascript" language="javascript" src="/content/struct/js/jquery-1.6.4.min.js"></script>
+  <script src="/Js/jquery.maskedinput.js" type="text/javascript"></script>
+  <script type="text/javascript" src="/Js/heartcode-canvasloader-min.js"></script>
+  <script src="/Js/jquery-ui.js" type="text/javascript"></script>
 
-  <link type="text/css" href="/content/struct/css/basic.css" rel="stylesheet"><link type="text/css" href="/content/struct/css/style.css" rel="stylesheet"><link type="text/css" href="/content/struct/css/structure.css" rel="stylesheet"><link type="text/css" href="/content/struct/css/alertas.css" rel="stylesheet"><link type="text/css" href="/content/struct/css/support.css" rel="stylesheet"><link type="text/css" href="/content/struct/css/tabs.css" rel="stylesheet"><link type="text/css" href="/content/struct/css/tooltip.css" rel="stylesheet"><link type="text/css" href="/content/struct/css/ticker.css" rel="stylesheet">
+  <link href="http://www.seftonfashion.com/content/struct/imgs/favicon.ico" type="image/x-icon" rel="shortcut icon"><link href="http://www.seftonfashion.com/content/struct/imgs/favicon.ico" type="image/x-icon" rel="icon"><link type="text/css" href="/content/struct/css/basic.css" rel="stylesheet"><link type="text/css" href="/content/struct/css/style.css" rel="stylesheet"><link type="text/css" href="/content/struct/css/structure.css" rel="stylesheet"><link type="text/css" href="/content/struct/css/alertas.css" rel="stylesheet"><link type="text/css" href="/content/struct/css/support.css" rel="stylesheet"><link type="text/css" href="/content/struct/css/tabs.css" rel="stylesheet"><link type="text/css" href="/content/struct/css/tooltip.css" rel="stylesheet"><link type="text/css" href="/content/struct/css/ticker.css" rel="stylesheet"><link type="text/css" href="/content/struct/css/friendly.css" rel="stylesheet"><link href="http://fonts.googleapis.com/css?family=Arimo:400,700" rel="stylesheet" type="text/css">
 
 <!--[if gte IE 7]>
   <link rel="stylesheet" type="text/css" href="/content/struct/css/ie.css" />
@@ -25,34 +28,108 @@
 
 <script type="text/javascript" src="/content/struct/js/atooltip.jquery.js"></script>
 
+<script language="javascript">
+jQuery(document).ready(function () {	
+
+   $.fn.ToggleInputValue = function(){
+    	
+		var Input = $(this);
+        var default_value = Input.val();
+		
+        if(default_value == Input.val()){
+			$('#ctl00_ctl00_ffnpWucSEARCH1_ibsearchAll').attr('disabled', 'disabled');
+			$('#ctl00_ctl00_ffnpWucSEARCH1_ibsearchAll').css('cursor','default');
+		}
+		
+		Input.focus(function() {
+			if(Input.val() == default_value){
+				Input.val('');
+				$('#ctl00_ctl00_ffnpWucSEARCH1_ibsearchAll').removeAttr("disabled");
+				$('#ctl00_ctl00_ffnpWucSEARCH1_ibsearchAll').css('cursor','pointer');
+				
+			}
+        }).blur(function(){
+            if(Input.val().length == 0){
+				Input.val(default_value);
+				$('#ctl00_ctl00_ffnpWucSEARCH1_ibsearchAll').attr('disabled', 'disabled');
+				$('#ctl00_ctl00_ffnpWucSEARCH1_ibsearchAll').css('cursor','default');
+				}
+		});
+	
+	
+}
+
+$('.txtSearchBox').ToggleInputValue();
+	
+
+
+
+	
+	jQuery('#nav li').hover(
+		function () {
+			//show its submenu
+			jQuery('ul', this).slideDown(100);
+
+		}, 
+		function () {
+			//hide its submenu
+			jQuery('ul', this).slideUp(100);			
+		}
+	);
+	
+});
+
+</script>
+
   
     
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+
+
+
+<script type="text/javascript" src="/content/struct/js/jquery.cycle.all.js"></script>
+<script type="text/javascript">$(function() {	 $('#slideshow2').cycle({		 	fx:  'fade', timeout: 3000, speed: 600 });});</script>
+
+
+<!--hashslider -->
+<link type="text/css" href="/content/struct/css/hashslider.css" rel="stylesheet">
+<script type="text/javascript" src="http://malsup.github.com/jquery.cycle.all.js"></script>
 <script type="text/javascript">
-			$(function() {	   
-            $(".imgOpa").hover(
-                    function() {
-                        $(this).stop().animate({ opacity: 0.8 }, 300);
-                    },
-                   function() {
-                       $(this).stop().animate({ opacity: 1.0 }, 300);
-					   
-                   })
-              
-			 
-        });
-		
-    </script>
+jQuery(function() {
+	var index = 0, hash = window.location.hash;
+	if (hash) {
+		index = /\d+/.exec(hash)[0];
+		index = (parseInt(index) || 1) - 1; // slides are zero-based
+	}
+	jQuery('#slide_show img:first').fadeIn(500, function() {
+	jQuery('#slide_show').cycle({
+		fx:	 'scrollHorz',
+		startingSlide: index,
+		timeout: 0,
+		speed: 800,
+		next:   '#slideshow_next', 
+    	prev:   '#slideshow_prev', 
+		after: function(curr,next,opts) {
+			window.location.hash = opts.currSlide + 1;
+		}
+	});
+	
+	});
+	
+});	
+</script>
 
 </head>
 
 <body>
+  
   <form name="aspnetForm" method="post" action="/pag92.aspx" id="aspnetForm">
 <div>
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg2MzE2NzE5MWQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFJmN0bDAwJGN0bDAwJGZmbnBXdWNTRUFSQ0gxJGlic2VhcmNoQWxsJq4fyJAsmpO2+NIt2hxla06gA6Q=">
 </div>
 
 
-<script src="/ScriptResource.axd?d=bZjXeLDcWHXPbXUaPX0fe4j9f1lMUJPKh7sx6irgJjvrPHCW2EYykgiSJiYXcfxsqMhDs0kD6pQ1B4HtbHFbUNfVxPNP84uJhcqULXPxxdc9xkAlz3H5_6HkzLqKB0kPxL-HgtXTWWfohY12Jw4A6VOOnf0l35iI0tNrTVyL31Y2tIdt0&amp;t=ffffffff8b520366" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=-qE9YXN1lq9FraPlyNXRu3X71TQ49IjT2osOc-cFaYhK5ckGMoORD-V8iY4fBHip3SWJBhklOUc-L2_W-XbQHi-y6TjUfPEUdxq74v2NWvdFAXVGUkN5_mZcNRLEC9nrXq_0VCO7govSWYvr3zbQoUfOT1B02DzNCykuM8UK8zGyNJLe0&amp;t=ffffffff8b520366" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
@@ -64,7 +141,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgK92KnXCwL2xP2XAwLg4K+3CwLHo+60AQKk5LH6CQKFoP2yDm/MRziL/dF3EiVeNE7/2OHyKweA">
 </div>
     <script type="text/javascript">
-        var varSession="yvonix555umgos333vldci45";
+        var varSession="43wr33uobqgr3qfintkm5b45";
     </script>
     
 
@@ -72,20 +149,40 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
     
     <div id="warp">
-<div id="dvtMain">
+  <div id="dvtMain">
+    <div id="dvtHeader">
+      <div id="dvtHeaderLogo"> <a href="/home.aspx?ms=1"> <img alt="" src="/content/struct/imgs/logo.jpg"> </a> </div>
+      <div id="dvtsearch">
+        <li style="float:left;">
+<div id="ctl00_ctl00_ffnpWucSEARCH1_pnSearch">
+	
+<table border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="120"><input name="ctl00$ctl00$ffnpWucSEARCH1$txtSearch" type="text" id="ctl00_ctl00_ffnpWucSEARCH1_txtSearch" value="<T>search</T>" class="txtSearchBox" style="width:160px;">
 
-<div id="dvtHeader">
+</td>
+   <td><input type="image" name="ctl00$ctl00$ffnpWucSEARCH1$ibsearchAll" id="ctl00_ctl00_ffnpWucSEARCH1_ibsearchAll" src="/content/struct/imgs/lupa.png" align="absmiddle" style="border-width: 0px; cursor: default;" disabled="disabled"></td>
 
-<div id="dvtHeaderLogo">
-<a href="/home.aspx?ms=1">
-<img alt="" src="/content/struct/imgs/logo.jpg">
-</a>
+
+  
+  </tr>
+</tbody></table>
+
+
+
+
+
+
 </div>
 
-<div id="dvtHeaderMenu3">
-<ul>
-
-<li style=" clear:none;">
+</li>
+      </div>
+      <div id="dvtHeaderMenu3">
+        <ul>
+          <li id="dvtLoginRegister">
+<ul><li><a href="/login.aspx">Log In</a> </li><li>or</li><li> <a href="/register.aspx">Sign Up</a></li></ul>
+</li>
+          <li style="clear:right; margin-top: 34px;">
 
 
 <table border="0" cellspacing="0" cellpadding="0">
@@ -98,17 +195,152 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 
 </li>
-<li id="dvtLoginRegister">
-<ul><li><a href="/login.aspx">Log In</a> </li><li>or</li><li> <a href="/signup.aspx">Sign Up</a></li></ul>
-</li>
+        </ul>
+      </div>
+      <div id="dvtHeaderMenu4">
+        
+          <ul id="nav">
+            <!--<li id="nav-shop" ><a href="/shopping/sale/items.aspx?ms=1" style="color:#F00;" title="Shop Online">Sale<span></span></a></li>-->
+            <li style="margin-right:45px;"><a href="/designers.aspx?ms=1" title="Designers">Designers</a>
+              <ul class="submenu0" style="display: none;">
+              <ul class="navcol">
+                <li><a href="/shopping/acne/items.aspx?userd=1"> Acne </a></li>
+                <li><a href="/shopping/men/baracuta/items.aspx?userd=1"> Baracuta </a></li>
+                <li><a href="/shopping/men/barbour/items.aspx?userd=1"> Barbour </a></li>
+             
+<li><a href="/shopping/men/christopher-raeburn/items.aspx?userd=1"> Christopher Raeburn </a></li>
+<li><a href="/shopping/designer-comme-des-garcons-wallet/items.aspx?userd=1">Comme Des Garcons Wallets</a></li>
+                
+                
+                <li><a href="/shopping/men/dents/items.aspx?userd=1"> Dents </a></li>
+                <li><a href="/shopping/men/397148-designer-dr-martens/items.aspx?userd=1"> Dr Martens</a></li>
+<li><a href="/shopping/men/ecoalf/items.aspx?userd=1"> Ecoalf</a></li>
+                <li><a href="/shopping/men/edwin/items.aspx?userd=1"> Edwin</a></li>
+<li><a href="/shopping/men/gloverall/items.aspx?userd=1">Gloverall</a></li>
+                </ul>
+                 <ul class="navcol">
+                  <li><a href="/shopping/men/han-kjopenhavn/items.aspx?userd=1"> Han Kjobenhavn</a></li>
+                   <li><a href="/shopping/designer-kitsune-tee/items.aspx?userd=1"> Kitsune Tee</a></li>
+                    <li><a href="/shopping/men/levis-vintage-clothing/items.aspx?userd=1"> Levi's Vintage Clothing</a></li>
+              
+                     <li><a href="/shopping/men/linda-farrow-luxe/items.aspx?userd=1"> Linda Farrow Luxe</a></li>
+                      <li><a href="/shopping/men/maison-martin-margiela/items.aspx?userd=1"> Maison Martin Margiela</a></li>
+                       <li><a href="/shopping/men/moncler/items.aspx?userd=1"> Moncler</a></li>
+                       <li><a href="/shopping/men/nike/items.aspx?userd=1"> Nike</a></li>
+ <li><a href="/shopping/men/norse-projects/items.aspx?userd=1">Norse Projects</a></li>
+                       <li><a href="/shopping/men/orcival/items.aspx?userd=1"> Orcival</a></li>
+<li><a href="/shopping/men/oscar-quiroz/items.aspx?userd=1"> Oscar Quiroz</a></li>
+                      </ul>
+                      
+                      <ul class="navcol">
+<li><a href="/shopping/pointer/items.aspx?userd=1"> Pointer</a></li>                     
+<li><a href="/shopping/men/porte-monnaie/items.aspx?userd=1"> Porte Monnaie</a></li>
+                     <li><a href="/shopping/men/designer-sns-herning/items.aspx?userd=1"> S.N.S. Herning</a></li>
+                      <li><a href="/shopping/men/designer-sefton/items.aspx?userd=1"> Sefton</a></li>
+<li><a href="/shopping/sixpack/items.aspx?userd=1"> Sixpack France</a></li>
+                         <li><a href="/shopping/men/sunspel/items.aspx?userd=1"> Sunspel</a></li>
+<li><a href="/shopping/tent-by-esther-porter/items.aspx?userd=1">Tent by Esther Porter</a></li>
+                          <li><a href="/shopping/men/vetra/items.aspx?userd=1"> Vetra</a></li>
+                        
+<li><a href="/shopping/william-richard-green/items.aspx?userd=1">William Richard Green</a></li>
+                  </ul>
+                  
+            
+              </ul>  
+            </li>
+            
+            
+            <li><a href="/shopping/clothing/items.aspx?ms=1" title="Shopping">clothing<span></span></a>
+            <ul class="submenu0" style="display: none;">
+              <ul class="navcol">
+                <li><a href="/shopping/men/coats-2/items.aspx"> coats</a></li>
+                <li><a href="/shopping/men/denim-2/items.aspx"> denim </a></li>
+                <li><a href="/shopping/men/jackets-2/items.aspx"> jackets </a></li>
+                </ul>
+                <ul class="navcol">
+                <li><a href="/shopping/men/polo-shirts-2/items.aspx"> polo shirts </a></li>
+                <li><a href="/shopping/men/shirts-2/items.aspx"> shirts </a></li>
+                 <li><a href="/shopping/men/shorts-2/items.aspx"> shorts </a></li>
+                
+              </ul>
+              <ul class="navcol">
+               <li><a href="/shopping/men/sweaters-knitwear-2/items.aspx"> Sweaters &amp; Knitwear  </a></li>
+                <li><a href="/shopping/men/t-shirts-vests-2/items.aspx"> T-Shirts &amp; Vests  </a></li>
+                </ul>
+                 <ul class="navcol">
+                <li><a href="/shopping/men/trousers-2/items.aspx"> Trousers </a></li>
+                <li><a href="/shopping/men/underwear-socks-2/items.aspx">Underwear &amp; Socks </a></li>
+                
+               </ul>
+               <ul class="navcol">
+<li><a href="/shopping/sale/men/clothing-2/items.aspx" style="color:#F00;" title="Shop Online">Sale</a></li>
 </ul>
-</div>
+                  
+              </ul></li>
+              
+              
+            <li id="nav-stores"><a href="/shopping/footwear/items.aspx?ms=1" title="Shopping">footwear</a>
+            <ul class="submenu0" style="display: none;">
+             <ul class="navcol">
+            <li><a href="/shopping/men/hi-tops-2/items.aspx">Hi-Top  </a></li>
+            </ul>
+             <ul class="navcol">
+            <li><a href="/shopping/men/lace-up-2/items.aspx">Lace-Up   </a></li>
+            </ul>
+             <ul class="navcol">
+            <li><a href="/shopping/men/trainers-2/items.aspx">Trainers   </a></li>
+            </ul>
+<ul class="navcol">
+<li><a href="/shopping/sale/men/shoes-2/items.aspx" style="color:#F00;" title="Shop Online">Sale</a></li>
+</ul>
+            </ul></li>
+            
+            
+            <li id="nav-stores"><a href="/shopping/accessories/items.aspx?ms=1" title="Shopping">accessories</a>
+            <ul class="submenu0" style="display: none;">
+             <ul class="navcol">
+            <li><a href="/shopping/men/gloves-2/items.aspx">Gloves  </a></li>
+            <li><a href="/shopping/men/hats-2/items.aspx">Hats  </a></li>
+             <li><a href="/shopping/men/scarves-2/items.aspx">Scarves </a></li>
+            </ul>
+             <ul class="navcol">
+            <li><a href="/shopping/men/sunglasses-2/items.aspx">Sunglasses  </a></li>
+            <li><a href="/shopping/men/wallets-cardholders-4/items.aspx">Wallets &amp; Cardholders  </a></li>
+            <li><a href="/shopping/men/backpacks-2/items.aspx">Backpacks  </a></li>
+            </ul>
+             <ul class="navcol">
+            <li><a href="/shopping/men/laptop-briefcases-2/items.aspx">Laptop &amp; Briefcases  </a></li>
+            <li><a href="/shopping/men/luggage-holdalls-2/items.aspx">Luggage &amp; Holdalls   </a></li>
+            <li><a href="/shopping/men/luggage-holdalls-2/items.aspx">Wallets &amp; Cardholders    </a></li>
+            </ul>
+            <ul class="navcol">
+            <li><a href="/shopping/sale/men/accessories-2/items.aspx" style="color:#F00;" title="Shop Online">Sale</a></li>
 
+            </ul></ul>
 
-<div id="dvtHeaderMenu2">
-<ul>
-
-<li style="float:right;">
+            </li>
+            
+            <li style="margin-left:45px;"><a href="#" title="Journal">Journal<span></span></a>
+ <ul class="submenu1" style="display: none; width:200px!important;">
+              <ul class="navcol">
+                <li><a href="/pages/lookbook.aspx">past lookbooks</a></li>
+<li style="width:200px!important;"><a href="/shopping/set5.aspx">Christmas Gift Guide - Under £50</a></li>
+<li style="width:200px!important;"><a href="/shopping/set4.aspx">Christmas Gift Guide - Under £100</a></li>
+<li style="width:200px!important;"><a href="/shopping/set3.aspx">Christmas Gift Guide - Under £200</a></li>
+<li style="width:200px!important;"><a href="/shopping/set2.aspx">Christmas Gift Guide - Luxury Gifts</a></li>
+               
+                </ul>
+</ul>
+</li>
+            
+            <!--<li id="blogp"><a href="/?ms=1" title="Blog">Blog<span></span></a></li> -->
+          </ul>
+       
+        <div style="clear: both;"></div>
+      </div>
+      <div id="dvtHeaderMenu2">
+        <ul>
+          <li style="float:right;">
 
 
 <a rel="nofollow" href="?cur=GBP">
@@ -124,77 +356,23 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 
 </li>
-<li style="float:right; padding-right:20px;">
+          <li style="float:right; padding-right:20px;">
 <span id="ctl00_ctl00_ffnpWucCOUNTRYCHANGE1_lbPais">United States</span> 
-<a href="/changeCountry.aspx" style="font-weight:lighter; font-size:9px;">(change)</a>
+<a href="/changeCountry.aspx" style="font-weight:lighter; font-size:9px;">(<t>change</t>)</a>
 
 </li>
-
-</ul>
-</div>
-
-
-
-<div style="clear: both;"></div>
-
-
-<div id="dvtHeaderMenu4">
-<div id="main-nav">
-<ul id="navigation" class="horizontal clearfix">
-<li id="nav-collect"><a href="/home.aspx?ms=1" title="Home">Home<span></span></a></li>
-<li id="nav-stores"><a href="/shopping/items.aspx?ms=1" title="Shopping">Shopping<span></span></a></li>
-<li id="nav-about"><a href="/designers.aspx?ms=1" title="Designers">Designers<span></span></a></li>
-<li id="nav-video"><a href="/pag645.aspx?ms=1" title="About us">About us<span></span></a></li>
-<li id="nav-ipsum"><a href="/pag280.aspx?ms=1" title="Help &amp; contact us">Help &amp; contact us<span></span></a></li>
-<li id="nav-shop"><a href="/shopping/sale/items.aspx?ms=1" title="Shop Online">Sale<span></span></a></li>   
-<!--<li id="blogp"><a href="/?ms=1" title="Blog">Blog<span></span></a></li> -->
-</ul>
-</div>
-
-<div id="dvtsearch"><li style="float:left;">
-<div id="ctl00_ctl00_ffnpWucSEARCH1_pnSearch">
-	
-<table border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="120"><input name="ctl00$ctl00$ffnpWucSEARCH1$txtSearch" type="text" value="search" id="ctl00_ctl00_ffnpWucSEARCH1_txtSearch" onclick="this.value='';" style="width:160px;">
-
-</td>
-   <td><input type="image" name="ctl00$ctl00$ffnpWucSEARCH1$ibsearchAll" id="ctl00_ctl00_ffnpWucSEARCH1_ibsearchAll" src="/content/struct/imgs/lupa.png" align="absmiddle" style="border-width:0px;"></td>
-
-
-  
-  </tr>
-</tbody></table>
-
-
-
-
-
-
-</div>
-
-</li></div>
-</div>
-
-<div style="clear: both;"></div>
-<div>
-<div style="float: left;"> 
-
-
- 
-
-</div>
-            
-
-<!--<script type="text/javascript" src="/content/struct/js/ticker.js"></script>-->
-</div>
-
-<div style="text-align:center;">
-
-</div>
-
-<div id="dvtContent1c">
+        </ul>
+      </div>
+      <div style="clear: both;"></div>
+      <div>
+        <div style="float: left;"> </div>
+        
+        <!--<script type="text/javascript" src="/content/struct/js/ticker.js"></script>--> 
+      </div>
+      <div style="text-align:center;">  </div>
+      <div id="dvtContent1c">
     
+<div id="dvtMainContent">
 <div id="dvtPadding">
 <h1>Privacy Policy</h1>
 <br>
@@ -286,6 +464,7 @@ and/or
 </div>
 </div>
 
+</div>
 
 
 
@@ -293,37 +472,39 @@ and/or
 
 
 </div>
-
-<!--Espaço para não colar--->
-</div>
-</div>
-<!-- FIM WARP -->
-
-<!-- footer NOVO -->
-<div id="ctl00_ctl00_divSRVFooter">
-<div id="dvtFooter">
-<div id="dvtFooterMenu1">
-<ul>
-<li><a href="/return.aspx">Returns</a></li>
-<li><a href="/pag638.aspx">Faq's</a></li>
-<li><a href="/pag89.aspx">Terms &amp; conditions</a></li>
-<li><a href="/pag92.aspx">Privacy</a></li>
-<li class="facebook">
-<span><a href="http://facebook.com/seftonfashion" target="_blank"><img src="/content/struct/imgs/FaceBook.png"></a></span>
-</li>
-<li class="twitter">
-<span><a href="http://twitter.com/#!/seftonfashion" target="_blank"><img src="/content/struct/imgs/Twitter.png"></a></span>
-</li>
-</ul>
-</div>
-
-<div id="dvtFooterMenu2">
-<ul>
-<li><div style="float: right; height: 28px; position: relative; bottom: 10px;">
+      
+      <!--Espaço para não colar---> 
+    </div>
+  </div>
+  <!-- FIM WARP --> 
+  
+  <!-- footer NOVO -->
+  <div id="ctl00_ctl00_divSRVFooter">
+    <div id="dvtFooter">
+      <div id="dvtFooterMenu1">
+        <ul>
+          <li><a href="/pag645.aspx">about us</a></li>
+          <li><a href="/pag280.aspx">contact us</a></li>
+          
+          <li><a href="/pag657.aspx">opening hours</a></li>
+           <li><a href="/return.aspx">returns</a></li>
+          <li><a href="/pag638.aspx">faq's</a></li>
+          <li><a href="/pag89.aspx">terms &amp; conditions</a></li>
+          <li><a href="/pag92.aspx">privacy</a></li>
+        </ul>
+        <ul>
+          <li class="facebook"> <span><a href="http://facebook.com/seftonfashion" target="_blank"><img src="/content/struct/imgs/FaceBook.png"></a></span> </li>
+          <li class="twitter"> <span><a href="http://twitter.com/#!/seftonfashion" target="_blank"><img src="/content/struct/imgs/Twitter.png"></a></span> </li>
+        </ul>
+      </div>
+      <div id="dvtFooterMenu2">
+        <ul>
+          <li>
+            <div style="float: right; height: 28px; position: relative; bottom: 10px;">
 <div id="ctl00_ctl00_ffnpWucSUBSCRIBE1_pnSubscribe">
 	
 
-<div style="align:center; font-size:11px; color:#666666"><input name="ctl00$ctl00$ffnpWucSUBSCRIBE1$txtEmail" type="text" value="Sign up to our newsletter" id="ctl00_ctl00_ffnpWucSUBSCRIBE1_txtEmail" onclick="this.value='';" style="width:230px;"> 
+<div style="align:center; font-size:11px; color:#666666"><input name="ctl00$ctl00$ffnpWucSUBSCRIBE1$txtEmail" type="text" value="<T>Sign up to our newsletter</T>" id="ctl00_ctl00_ffnpWucSUBSCRIBE1_txtEmail" onclick="this.value='';" style="width:230px;"> 
 
  <input type="submit" name="ctl00$ctl00$ffnpWucSUBSCRIBE1$btnSub" value="OK" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$ffnpWucSUBSCRIBE1$btnSub&quot;, &quot;&quot;, true, &quot;subscribe_ffnpWucSUBSCRIBE1&quot;, &quot;&quot;, false, false))" id="ctl00_ctl00_ffnpWucSUBSCRIBE1_btnSub">
 </div>
@@ -333,18 +514,14 @@ and/or
 
 
 
-</div></li>
-<li style="float: right;">by Farfetch</li>
-</ul>
 </div>
-
+          </li>
+          <li style="float: right;">by Farfetch</li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </div>
-
-</div>
-</div>
-
-<!--Fim footer NOVO -->
-
     	
     
 
