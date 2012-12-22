@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerinjuryadvocates.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628041752id_/http%3A//consumerinjuryadvocates.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerinjuryadvocates.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222132122id_/http%3A//consumerinjuryadvocates.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -90,3 +90,5 @@ San Diego, CA 92123
 [Email](mailto:info@consumerinjuryadvocates.com)  
 [Unsubscribe](http://www.sblys.com/1489a761d40623ab7fe7111279c5ef0f474a788dbf2428e38a50727eef319e48)   
 [Report Spam or Abuse](mailto:abuse@consumerinjuryadvocates.com)
+
+Consumer Injury Advocates © Chilay, LLC.
