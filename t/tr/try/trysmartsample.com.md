@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trysmartsample.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619073213id_/http%3A//www.trysmartsample.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trysmartsample.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222073127id_/http%3A//www.trysmartsample.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : Try Smart Sample
+# SMART SAMPLE is the leading word-of-mouth marketing (WOM) company
 
 SMART SAMPLE, we are strongly committed to protect the personal information that is submitted by visitors to us and would endeavor to protect it from unauthorized use.
 
