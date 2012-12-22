@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movie-trailer.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626205612id_/http%3A//movie-trailer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movie-trailer.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222121552id_/http%3A//movie-trailer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
