@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loquax.co.uk privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515021908id_/http%3A//www.loquax.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loquax.co.uk privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222212016id_/http%3A//www.loquax.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Loquax Privacy Policy
 
@@ -15,7 +15,7 @@ Our site may require you to register with us. This is to allow access to extra s
 Our site operates with third party sites (such as online shops and gaming sites). They will have their own terms and privacy conditions and you're advised to check with them. 
 
 **Cookies**   
-We use 'cookies' in order to be able to offer user tools such as the tracker and forums. With some links out of Loquax, namely affiliate links (see below), you may get third party cookies for other purposes such as order tracking in online shops or for targeting advertisements to particular types of visitor. 
+We use 'cookies' in order to be able to offer user tools such as the tracker and forums. With some links out of Loquax, namely affiliate links (see below), you may get third party cookies for other purposes such as order tracking in online shops or for targeting advertisements to particular types of visitor. You can find out more about our [cookies policy](http://www.loquax.co.uk/cookies.htm). 
 
 **Affiliate Marketing**   
 In some instances we use affiliate links to generate income for Loquax. These links earn us commission based on sales or other user activity. We most likely don't get paid per click. Affiliate links can mainly be found in the offers and gaming sections of the site. Some competition listings, usually the top sites in each listing prior to a full A-Z list, will have an affiliate link. These have no effect on you or our editorial decisions and content. In the main, most competition links are not affiliate links. 
