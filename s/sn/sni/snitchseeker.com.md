@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snitchseeker.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619094827id_/http%3A//www.snitchseeker.com/prefect-office-ss-anouncements-help-feedback/privacy-policy-71535) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snitchseeker.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222084405id_/http%3A//snitchseeker.com/prefect-office-ss-anouncements-help-feedback/privacy-policy-71535) for the most accurate reproduction.*
 
 # Privacy Policy - SnitchSeeker.com
 
