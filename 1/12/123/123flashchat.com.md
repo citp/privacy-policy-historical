@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 123flashchat.com privacy policy that was archived on 2012-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120208112838id_/http%3A//www.topcmm.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123flashchat.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222233130id_/http%3A//www.topcmm.com/privacy_statement.html) for the most accurate reproduction.*
 
-# TopCMM Software Corp.- Leading Chat Software Provider since 2003 - support
+# TopCMM Software Ltd.- Leading Chat Software Provider since 2003 - support
 
-## Privacy Statement For TOPCMM Software Corp.
+## Privacy Statement For TOPCMM Software Ltd.
 
 TOPCMM is committed to protecting your privacy when you use websites, products and service. In this policy we explain how and why we collect your information, what we do with it and what controls you have over our use of it.
 
