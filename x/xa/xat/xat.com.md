@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xat.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223235550id_/http%3A//www.xat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xat.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222184130id_/http%3A//www.xat.com/privacy.html) for the most accurate reproduction.*
 
 # xat.com Privacy Policy
 
@@ -36,7 +36,7 @@ Cookies and Flash Local Shared Objects are small bits of data that are deposited
 
 xat does not knowingly collect personal information from children under the age of 13. xat requests that children under the age of 13 not use the Service nor submit any personal information to the Service. Since information regarding children under the age of 13 is not collected, xat does not knowingly use or distribute personal information regarding children under the age of 13. If xat obtains actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from our database.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to�not having this information used by these companies, click here. 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, click here. 
 
 ## Contact, Corrections and Updates
 
