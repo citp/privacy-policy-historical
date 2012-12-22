@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the compusa.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606090732id_/http%3A//www.compusa.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compusa.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222154634id_/http%3A//www.compusa.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at CompUSA.com
 
-**CompUSA.com Privacy Notice** (Updated 8/22/2011)
+**CompUSA.com Privacy Notice** (Updated 11/27/2012)
 
 By visiting the CompUSA.com website or any other websites operated by CompUSA.com or its affiliates (collectively, the "Site"), you agree to accept the practices described in this Privacy Notice. If you do not agree to the terms of this Privacy Notice, please do not use the Site. Each time you use the Site, you should check the date of this Privacy Notice (which appears above) and review any changes that have been made since your last visit to the Site. 
 
@@ -23,7 +23,7 @@ CompUSA.com uses information that we collect from our visitors and customers to 
 
 **Catalog Requests and Email Newsletter Subscriptions:** Upon placing an order through the Site, you will automatically begin receiving both the CompUSA.com catalog and the CompUSA.com email newsletter, based on the Personal Information you have provided, unless you opt-out of receiving such communications. If you request an email newsletter subscription, we will send you an email confirming your request. This confirmation process allows you to unsubscribe if you change your mind and decide not to join the list. Furthermore, the confirmation email will alert you if someone else has entered your email address into our email newsletter subscription list. In order to make our email newsletters more relevant and useful to you, our servers may receive a confirmation when you open an email message from CompUSA.com.
 
-**Sweepstakes Entrants:** From time to time, we may run sweepstakes. If you enter sweepstakes sponsored by us, we employ a double opt-in subscription program. Upon registration, a confirmation email will be sent to the email address you provide to us in connection with your entry which will include instructions, or a link to instructions, for completing the subscription process. You will not be entered until you click through the link in the email we send to you or otherwise follow the instructions contained therein. In order to make our sweepstakes more relevant to you, our servers may receive a confirmation when you open an email message from us.
+**Sweepstakes Entrants:** From time to time, we may run sweepstakes. If you enter a sweepstakes sponsored by us, you will opt-in to receive email or other communications from us and our affiliated partners. You may subsequently opt-out of the receipt of such email or communications by following the directions in the email or contacting that site. Your opt-out status will not affect your participation or chances to win in the sweepstakes. During the applicable sweepstakes period, however, you may nevertheless receive emails which we deem are related to the sweepstakes and related programs.
 
 **2\. Use of Information Collected By Us**
 
@@ -47,7 +47,7 @@ We will not rent, sell or otherwise disclose your Personal Information to unrela
 
 **Third Party Transaction-Level Data:** If you visit the Site from a third-party website the third-party website may be able to access select information from your individual transaction information. In order to track and credit your transaction the third-party website may give you a unique code, cookie or graphic which will uniquely identify you. This will only happen if you link directly from a third party website to the Site. Any transactions made at the Site while such a code is active will be reported back to the third party website. We will only report non-Personal Information to these websites such as the date of the transaction, the product(s) purchased and the amount spent. We will not report any information to these third party websites that will allow them to personally identify you. The presence of a third party navigation bar at the top of any page on the Site is an indication that the third party website may be able to see your activity on the Site. 
 
-**Links to Third Party Site:** The Site contains certain links to third party websites, such as our vendors. We are not responsible or liable for the privacy practices or content found on these websites. We recommend that you check the privacy notice of each website you visit. Links to third party websites are provided solely for your convenience and any submission of data to such websites shall be at your sole risk. 
+**Links to Third Party Site:** The Site contains certain links to third party websites, such as our vendors’ websites and links to other websites intended to facilitate our customers’ shopping experience, such as Google Translate. We are not responsible or liable for the privacy practices or content found on these websites. We recommend that you check the privacy notice of each website you visit. Links to third party websites are provided solely for your convenience and any submission of data to such websites shall be at your sole risk. 
 
 **Catalog Requests:** When you request a catalog from us, we share your name and postal address with a third party fulfillment company for the sole purpose of sending you the requested catalog. This third party is not permitted to store the information is only authorized to use this information for to transmit catalogs to you.
 
@@ -69,11 +69,11 @@ You should recognize, however, that no computer system is fully secure and that 
 
 **7\. Corrections/Information Removal/Opt-Out**
 
-If your name, e-mail or postal address, telephone number or other Personal Information changes, you may update, correct or omit the relevant information by contacting us at privacy@CompUSA.com. In addition, if you no longer wish to receive communications from us you may opt-out by emailing us at privacy@CompUSA.com, sending a letter to: CompUSA.com Privacy Officer, 8300 West Flagler St. Suite# 121-106, Miami, FL 33144 or by clicking on the unsubscribe link within any marketing e-mail you receive from us. If you no longer wish to receive our catalog, you may call us at 800-800-8300, email us at privacy@CompUSA.com or send a letter to: CompUSA.com Privacy Officer, 8300 West Flagler St. Suite# 121-106, Miami, FL 33144.
+If your name, e-mail or postal address, telephone number or other Personal Information changes, you may update, correct or omit the relevant information by contacting us at privacy@CompUSA.com. In addition, if you no longer wish to receive communications from us you may opt-out by emailing us at privacy@CompUSA.com, sending a letter to: CompUSA.com Privacy Officer, 7795 West Flagler St., Suite 35, Miami, FL 33144 or by clicking on the unsubscribe link within any marketing e-mail you receive from us. If you no longer wish to receive our catalog, you may call us at 800-800-8300, email us at privacy@CompUSA.com or send a letter to: CompUSA.com Privacy Officer, 7795 West Flagler St., Suite 35, Miami, FL 33144.
 
 **8\. Contact Information**
 
-If you have any questions or concerns about this Privacy Notice, please e-mail us at privacy@CompUSA.com or send a letter to: CompUSA.com Privacy Officer, 8300 West Flagler St. Suite# 121-106, Miami, FL 33144.
+If you have any questions or concerns about this Privacy Notice, please e-mail us at privacy@CompUSA.com or send a letter to: CompUSA.com Privacy Officer, 7795 West Flagler St., Suite 35, Miami, FL 33144.
 
 **9\. Business Transfer**
 
