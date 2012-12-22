@@ -1,132 +1,79 @@
-> *The following text is extracted and transformed from the adp-jobs.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610032710id_/http%3A//www.jobs2web.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adp-jobs.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222024347id_/http%3A//www.adp.com/privacy.aspx) for the most accurate reproduction.*
 
-# Jobs2Web - Career Website Optimization & Job SEO
+# Privacy | ADP
 
-Effective Date: June 6, 2011
+ADP's clients, associates, suppliers and visitors provide us with vast amounts of personal information. Protecting the privacy and security of this personal information is central to ADP's mission. 
 
-Access to and use of Jobs2Web-powered sites (including all sites owned or operated by Jobs2Web, collectively called the "Site") and the services provided by Jobs2Web (collectively, the "Service") will be subject to Jobs2Web's Privacy Policy as set forth below.
+ADP has a Global Privacy Program that applies to all affiliates and associates worldwide. This program helps us ensure that personal information is handled properly. The Global Privacy Program governs personal information collected by ADP for its own purposes as well as information provided to us as a data processor for our clients. It protects information collected online as well as offline. 
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.jobs2web.com&sealid=102)Jobs2Web Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please email [privacy@jobs2web.com](mailto:privacy@jobs2web.com) or send mail to:
+**ADP is also committed to transparency. We want individuals to understand how we collect and use personal information so they can interact with ADP with confidence. The links below can help you find the information you need about privacy and ADP. If you have any other questions, please contact us directly at[Privacy@ADP.com](mailto:Privacy@ADP.com). **
 
-Jobs2Web Inc.  
-Subject: Privacy Policy  
-10901 Red Circle Drive  
-Suite 200  
-Minnetonka, MN 55343
-
-If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)
-
-Jobs2Web, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Jobs2Web has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, please visit <http://www.export.gov/safeharbor/>.
-
-The TRUSTe program covers only information that is collected through the Web site Jobs2Web.com, Recruiting Marketing Platform sites we host on behalf of our clients and information behind the log in for our Service.
-
-**About Jobs2Web and the information Jobs2Web collects**
-
-Jobs2Web is committed to protecting your privacy and has created this Privacy Policy to protect your personal information and to inform you about how Jobs2Web handles it. This Privacy Policy only applies to transactions and activities in which you engage, and data gathered, on websites owned or operated by Jobs2Web ("Jobs2Web", "Jobs2Web.com", the "Site" or "Website", the "Jobs2Web Service", or "Service") through an opt-in registration process conducted on behalf of Jobs2Web customers but does not apply to any website not owned or operated by Jobs2Web or offline point of contact between Jobs2Web, or any other company, and consumers.
-
-**Your Personally Identifiable Information Collected by Jobs2Web**
-
-The opt-in subscribe form collects certain information you voluntarily choose to share with Jobs2Web, such as your name, email address, and phone number ("Personally Identifiable Information" or "PII").  You may always choose not to provide such Personally Identifiable Information; however, this may limit Jobs2Webâ€™s ability to provide you with a specific service or particular content.  Jobs2Web may also collect other data, which may include Personally Identifiable Information.  
-
-**Personally Identifiable Information Used by Jobs2Web Clients**
-
-Jobs2Web works with employers and other companies ("Clients") to provide the Jobs2Web Service.  Information about your use of the Service and visits to the Site may be used by Jobs2Web and Clients.  Your Personally Identifiable Information is only shared with the specific Client for which you visited and to which you subscribed.
-
-**Log Files**
-
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
-
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track usersâ€™ movements around the site and to gather demographic information about our user base as a whole.
-
-We do not link this automatically-collected data to personally identifiable information.
-
-We use a third-party tracking service called Google Analytics that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate (browser version, geographic region, click path, and bounce rates) toimprove the end user experience.
-
-**Cookies**
-
-A cookie is a small text file that is stored on a userâ€™s computer for record-keeping purposes. We use cookies on this site. We link the information we store in cookies to personally identifiable information you submit while on our site.
-
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browserâ€™s "help" file. More information on cookies is available [here](http://en.wikipedia.org/wiki/HTTP_cookie).
-
-We set a persistent cookie to store your password, so you donâ€™t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
-
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, will be limited. For example, you cannot register for the Talent Community to receive future email alerts when jobs of interest to you become available.
-
-**Third Party Cookies and Other Tracking Technologies**
-
-The use of cookies by our partners and service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, and service providers may use session ID cookies to anonymously track page interactions, which improves your site experience.
-
-Our third party partners employ images and scripts, that help them better manage content on our site. They do not tie the information gathered to our users personally identifiable information.
-
-Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
-
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>
-
-**IP Adress**
-
-As is true of most Web sites, we gather and store certain information automatically. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
-
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track usersâ€™ movements around the site and to gather demographic information about our user base as a whole.
-
-We link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information to determine the approximate geographic region of site visitors and measure effectiveness of referring sites.
-
-When Jobs2Web sends messages to you or others, Jobs2Web may provide a URL link to the Site that contains an alphanumeric identifier, which allows Jobs2Web to identify the person to whom the message was sent so that the content can be personalized for that individual.
-
-**Use of Personally Identifiable Information by Jobs2Web**
-
-Jobs2Web uses the collected Personally Identifiable Information to verify your identity and to contact you in connection with your use of the Service.  If you opt-into a Service that generates communication to you from Jobs2Web (other than communications sent to you for the sole purpose of addressing a technical or operational issue regarding the Jobs2Web Service), you will be given the opportunity to opt-out of receiving further such communications from Jobs2Web. Except as provided in this Privacy Policy, Jobs2Web does not sell, share or otherwise provide any "Personally Identifiable Information" you give to us with any third party other than Clients.
-
-**Use of Your Personally Identifiable Information by Jobs2Web Clients**
-
-Contracted employers using Jobs2Web Services may receive or access your Personally Identifiable Information in conjunction with their use of the Services.  You may at any time choose to opt out of receiving further communication from Jobs2Web.  However, even if Jobs2Web blocks further use of your contact information, Jobs2Web cannot prevent employers who have obtained previously your Personally Identifiable Information from Jobs2Web from contacting you directly.  Jobs2Web recommends contacting the employer directly if you wish to opt-out of further communication.
-
-Jobs2Web works with its Clients to help them provide notice about their use personal information, including (1) the purposes for which personal information is collected and used; (2) a contact person whom enquiries or complaints may be directed; (3) the types of third parties to whom personal information is disclosed; and (4) the choices and means that individuals are offered for limiting use and disclosure of personal information. The privacy practices of Clients who use the Services or the Site are not covered by this Privacy Policy. Please contact those organizations directly for more information about their privacy practices.
-
-**Disclosure of Your Personally Identifiable Information, Jobs2Web Communications Content, Data and Information**
-
-  * We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. 
-    * We may provide your personal information to companies that provide services to help us with our business activities such as a live help feature or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
-    * We may provide your personal information 
-      * as required by law, such as to comply with a subpoena, or similar legal process
-      * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
-      * if Jobs2Web Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, to any other third party with your prior consent to do so.
-
-
-
-Also, certain technical processing of messages and their content may be required to: (1) send and receive messages; (2) conform to connecting networks' technical requirements; (3) conform to the limitations of the Service; or (4) conform to other similar requirements.
-
-**Security**
-
-This Site has industry standard security measures in place to protect the loss, misuse and integrity of the information under Jobs2Webâ€™s control.  Although Jobs2Web makes good faith efforts to store the information collected by the Service in a secure operating environment that is not available to the public, Jobs2Web cannot guarantee complete security.  You acknowledge that you provide your personal information at your own risk.
-
-The security of the PII collected is of the utmost importance to Jobs2Web.  Jobs2Web takes all commercially reasonable steps to secure your PII.  Reasonable physical, electronic, and managerial procedures to safeguard the information we collect has been implemented and is updated periodically as deemed necessary by Jobs2Web.  With this in mind, Jobs2Web limits access to PII to only those employees and contractors who need access in order to perform their duties.
-
-**Compromise of Personal Information**
-
-In the event that personal information is compromised as a result of a breach of security, Jobs2Web will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
-
-**Customer Testimonials**
-
-We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
-
-**Other Websites or Links**
-
-This Website contains links to other websites. Jobs2Web is not responsible for the privacy practices or the content of such websites.
-
-**Opt-Out**
-
-You may elect not to receive future communications from Jobs2Web. If you are a registered User, please open the email you received from Jobs2Web and click on the unsubscribe link. If you prefer to have your account removed permanently, please email your request to [removeme@jobs2web.com](mailto:removeme@jobs2web.com).
-
-**Access to Personally Identifiable Information**
-
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our Talent Community member information page or by contacting us by telephone or postal mail at the contact information listed above.
-
-We will respond to your request to access within 30 days.
-
-**Data Retention**
-
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [removeme@jobs2web.com](mailto:removeme@jobs2web.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-**Changes to this Policy**
-
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+> **Privacy Statement for Employer Services Clients**
+> 
+> ADP is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients. We receive personal information from our clients about their current, prospective and former employees as well as employee dependents and family members, as needed to provide benefits. This notice explains our practices with regard to all of the personal information we receive from our Employer Services clients as a data processor. 
+> 
+> ADP will collect and process your personal information only as instructed or permitted by our client (the employer) or you. ADP will at all times maintain reasonable and appropriate security controls to protect your information. 
+> 
+> ADP will disclose all of your personal information to the employer and to other entities when instructed by the employer. We may disclose your personal information to our affiliates and data processors as needed to provide the services that you and the employer have requested. These entities are all contractually bound to limit use of your personal information as needed to perform the services. We will also always disclose Personal Information when required to do so by law, such as in response to a subpoena, including to law enforcement agencies and courts in the United States and other countries where we operate. 
+> 
+> If you are based outside of the United States, your personal information may be transferred to ADP affiliates and data processers in the United States and elsewhere in the world. ADP will always protect the privacy and security of your personal information, regardless of where it is processed. Personal information transfers from the European Economic Area and other countries with data transfer restrictions will be authorized by approved model contracts, an EU-US Safe Harbor certification, or other appropriate means. 
+> 
+> If you have questions about your privacy rights, please contact your employer’s human resources department. If you believe that ADP has not handled your personal information properly, you may also contact ADP’s Privacy Office at [Privacy@ADP.com](mailto:Privacy@ADP.com). 
+> 
+> **Privacy Statement for Auto Dealership Clients**
+> 
+> ADP Dealer Services is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients in the automotive industry. This notice explains our practices with regard to the personal information we receive from our Dealer Services clients as a data processor. 
+> 
+> ADP Dealer Services receives consumer information from automobile dealerships and processes that information in compliance with its client contracts We will not use or disclose your personal information for our own purposes other than as expressly permitted by a dealership client or as required by law. ADP Dealer Services will at all times maintain reasonable and appropriate security controls to protect your information. 
+> 
+> ADP Dealer Services may disclose all of your personal information to other entities as authorized by our client, the dealership. We may also disclose your personal information to our affiliates and data processors as needed to provide the services that the dealership has requested. These entities are all contractually bound to limit use of your personal information as needed to perform the services. We will also always disclose Personal Information when required to do so by law, such as in response to a subpoena, including to law enforcement agencies and courts in the United States and other countries where we operate.
+> 
+> If you are based outside of the United States, your personal information may be transferred to ADP affiliates and data processers in the United States and elsewhere in the world. ADP will always protect the privacy and security of your personal information, regardless of where it is processed. Personal information transfers from the European Economic Area and other countries with data transfer restrictions will be authorized by approved model contracts, an EU-US Safe Harbor certification, or other appropriate means. 
+> 
+> If you have questions about your privacy rights, please contact your auto dealership directly. If you believe that ADP has not handled your personal information properly, you may also contact ADP’s Privacy Office at [Privacy@ADP.com](mailto:Privacy@ADP.com). 
+> 
+> **Privacy Statement for Medical Records Processing Clients**
+> 
+> ADP is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients in the healthcare industry. This notice explains our practices with regard to the protected health information we receive from our clients for medical records processing as a business associate under the US health privacy law known as HIPAA.
+> 
+> ADP will collect and process protected health information only as required or permitted by our business associate agreement and applicable laws, including the Health Insurance Portability and Accountability Act (HIPAA). ADP will at all times maintain reasonable and appropriate security controls to protect the information as required by the HIPAA Security Rule. 
+> 
+> If you have questions about privacy or security, please contact the HIPAA Privacy Official named in the Privacy Notice published by your healthcare provider or health insurance plan. If you believe that ADP has not handled your personal information properly, you may also contact ADP’s Privacy Office at [Privacy@ADP.com](mailto:Privacy@ADP.com). 
+> 
+> **Privacy Statement for ADP Dealer Services Digital Marketing Websites**
+> 
+> ADP Dealer Services Digital Marketing business runs websites such as [Cobalt.com](http://www.cobalt.com/privacy/), [Dealix.com](http://www.dealix.com/aboutus/privacy.aspx) and [Usedcars.com](http://www.usedcars.com/privacypolicy.aspx). These websites collect personal information from consumers and use it to facilitate the consumers’ car shopping experiences. Please see the detailed privacy statements on the applicable website.
+> 
+> **Safe Harbor Privacy Statement**
+> 
+> Some ADP companies participate in the U.S. – EU and U.S. – Swiss Safe Harbor Privacy Framework as set forth by the United States Department of Commerce, including Virtual Edge Corporation and RightThing LLC (formerly AIRS/The Right Thing). This means that, for personal information that individuals in the European Economic Area and Switzerland provide to these affiliates for processing on behalf of our clients, we have committed to handling such personal information in accordance with the Safe Harbor Principles. Additionally, ADP protects all ADP associate information in accordance with the Safe Harbor Principles, and ADP, Inc. has certified to the U.S. - EU and U.S. - Swiss Safe Harbor Frameworks for human resources data. 
+> 
+> For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Website <http://www.export.gov/safeharbor/>.
+> 
+> **Social Security Number Protection Policy Statement**
+> 
+> ADP collects Social Security numbers and other sensitive personal information in the ordinary course of its business. ADP has implemented reasonable technical, physical and administrative safeguards to help protect the Social Security numbers and other sensitive personal information from unlawful use and unauthorized disclosure. All ADP associates and contractors are required to follow these established procedures, both online and offline. 
+> 
+> Access to Social Security numbers is limited to those employees and contractors who have a need to access the information to perform tasks for ADP. Social Security numbers are only disclosed to third parties in accordance with ADP’s established privacy policy. ADP will only disclose Social Security numbers to those service providers, auditors, advisors, and/or successors-in-interest who are legally or contractually obligated to protect them or as required or permitted by law. 
+> 
+> **California Privacy Rights**
+> 
+> California Civil Code Section 1798 allows California residents to ask companies with whom they have an established business relationship to provide certain information about the companies’ sharing of personal information with third parties for direct marketing purposes. **ADP, Inc. does not share any California consumer personal information with third parties for marketing purposes without consent.**
+> 
+> California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices may contact us at Privacy@ADP.com or by writing to: 
+> 
+> ADP, Inc.   
+>  Global Privacy Office  
+>  MS 325   
+>  One ADP Boulevard   
+>  Roseland, NJ 07068-1728 USA
+> 
+> Some ADP companies have published privacy statements on their websites that provide additional information about local practices. Please follow the privacy link on affiliate websites to read these local statements. 
+> 
+> **Data Security and Release Procedures**
+> 
+> ADP utilizes various layers of data protection in the development of the ADP National Employment Report®.
+> 
+> In order to help guarantee that the monthly ADP National Employment Report and data used in its preparation are not compromised by unauthorized access or pre-release of any information: (i) Access to relevant data is limited to those with a clear need to know (supported by physical and computer security procedures); (ii) All persons with access are strictly prohibited from using pre-release information for personal gain and from providing pre-release information to the media or other unauthorized individuals; (iii) All persons with access to the ADP National Employment Report in advance of release are subject to a thorough background check; (iv) ADP associates are bound by ADP ethics and information security policies and all outside individuals given access to the data are required to sign formal pledges regarding the foregoing and (v) The ADP National Employment Report is released on a schedule that helps minimize the risk of pre-release access and helps ensure simultaneous release to all of the public. Certain aspects of the foregoing procedures are modeled after those used by the United States Department of Commerce, Economics and Statistics Administration and the United States Bureau of Labor Statistics. 
+> 
+> No confidential client data is used in the ADP National Employment Report. The aggregated regional and industry data used in the report means that no information on individual ADP clients can be identified. 
