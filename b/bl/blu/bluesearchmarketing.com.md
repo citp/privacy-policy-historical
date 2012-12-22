@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the bluesearchmarketing.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605050434id_/http%3A//bluesearchmarketing.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluesearchmarketing.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222190450id_/http%3A//bluesearchmarketing.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F%20\(via%20@sociablesite\)%20/blogplay.com/%20blogplay.com "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F&t=Privacy%20Policy "Facebook")
-  * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F&title=Privacy%20Policy&notes= "Delicious")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F&title=Privacy%20Policy&source=Blue+Search+Marketing+Internet+Marketing+for+Small+Business+Owners&summary= "LinkedIn")
-  * [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F&title=Privacy%20Policy&bodytext= "Digg")
-  * 
-
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy.
 
@@ -71,12 +62,3 @@ Blue Search Marketing
 6778 Westridge CT N, Keizer, OR 97303  
 503.385.8774  
 Please Use Our Contact Us Page
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F%20\(via%20@sociablesite\)%20/blogplay.com/%20blogplay.com "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F&t=Privacy%20Policy "Facebook")
-  * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F&title=Privacy%20Policy&notes= "Delicious")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F&title=Privacy%20Policy&source=Blue+Search+Marketing+Internet+Marketing+for+Small+Business+Owners&summary= "LinkedIn")
-  * [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F&title=Privacy%20Policy&bodytext= "Digg")
-  * 
-
