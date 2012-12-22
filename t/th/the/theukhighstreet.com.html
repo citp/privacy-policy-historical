@@ -1,26 +1,45 @@
-<!--The following is the downloaded HTML source of the theukhighstreet.com privacy policy that was archived on 2012-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120624070346id_/http%3A//www.theukhighstreet.com/p/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theukhighstreet.com privacy policy that was archived on 2012-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121222165551id_/http%3A//theukhighstreet.com/p/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" style="display: block;"><head>
+<!DOCTYPE html><html lang="en-GB"><head>
+<meta charset="utf-8">
 <title>The UK High Street: Privacy and Cookies Statement</title>
 <meta name="description" content="This is the privacy and cookies policy for TheUKHighStreet.com">
 <meta name="keywords" content="uk high street shops services online shopping directory uk">
 <link rel="P3Pv1" href="http://www.theukhighstreet.com/w3c/p3p.xml">
-<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
 <meta property="fb:app_id" content="26901342583">
 <meta property="fb:admins" content="537481418">
-<meta property="og:image" content="http://www.theukhighstreet.com/images/homelogo.gif">
 <meta property="og:site_name" content="TheUKHighStreet.com">
-<meta name="language" content="en-GB">
-<link type="text/css" rel="stylesheet" href="http://static.theukhighstreet.net/links/main.css">
-<script type="text/javascript" async="" src="http://assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" async="" src="http://static.theukhighstreet.net/links/main.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="http://www.theukhighstreet.com/js/js_ajax.js" type="text/javascript"></script>
-<script type="text/javascript">
- window.fbAsyncInit = function() {
- FB.init({appId: '26901342583', status: true, cookie: true, xfbml: true, oauth: true});
- };
+<link type="text/css" rel="stylesheet" href="http://www.theukhighstreet.com/links/main.css">
+<script type="text/javascript" async="" src="http://assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" async="" src="http://static.theukhighstreet.net/links/main.js"></script><script src="http://www.theukhighstreet.com/js/js_ajax.js"></script>
+<script>
  var _gaq = _gaq || [];
  _gaq.push(['_setAccount', 'UA-521996-1']);
  _gaq.push(['_trackPageview']);
+ window.fbAsyncInit = function() {
+ var fbid;
+ FB.init({appId: '26901342583', status: true, cookie: true, xfbml: true, oauth: true});
+ FB.getLoginStatus(function (response) {
+ FB.api('/me', function (graph) {
+ fbid = response.authResponse.userID;
+ });
+ });
+ FB.Event.subscribe('edge.create', function(targetUrl) {
+ _gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);
+ ajax.get('http://www.theukhighstreet.com/perl/like.cgi?do=like&amp;URL='+targetUrl+'&amp;fbid='+fbid,'');
+ });
+ FB.Event.subscribe('edge.remove', function(targetUrl) {
+ _gaq.push(['_trackSocial', 'facebook', 'unlike', targetUrl]);
+ ajax.get('http://www.theukhighstreet.com/perl/like.cgi?do=unlike&amp;URL='+targetUrl+'&amp;fbid='+fbid,'');
+ });
+ FB.Event.subscribe('comment.create', function(response) {
+ _gaq.push(['_trackSocial', 'facebook', 'comment', response.href]);
+ ajax.get('http://www.theukhighstreet.com/perl/like.cgi?do=comment&amp;URL='+response.href+'&amp;fbid='+fbid,'');
+ });
+ FB.Event.subscribe('message.send', function(targetUrl) {
+ _gaq.push(['_trackSocial', 'facebook', 'send', targetUrl]);
+ });
+ };
 if (document.title == "") {Title = "Unknown";}
 else {Title = escape(document.title);}
 var GroupType = '';
@@ -39,8 +58,8 @@ var GroupID = '';
  }
  }
  function start() {
- async_load('http://static.theukhighstreet.net/links/all.js','fb-root');
  async_load('http://static.theukhighstreet.net/links/main.js','');
+ async_load('http://static.theukhighstreet.net/links/all.js','fb-root');
  async_load('http://assets.pinterest.com/js/pinit.js','');
  }
  if (window.attachEvent) {
@@ -50,8 +69,15 @@ var GroupID = '';
  }
 })();
 </script>
+<!--[if lt IE 9]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js" type="text/javascript"></script>
+<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/ie7-squish.js" type="text/javascript"></script>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+<![endif]-->
 </head>
 <body>
+<a href="/cgi-bin/guestbook/message/"></a>
+<a href="/cgi-bin/guestbook/"></a>
 <div id="fb-root"><script type="text/javascript" async="" src="http://static.theukhighstreet.net/links/all.js"></script></div>
 <div id="accessibility"><a href="#content">Skip to Content</a></div>
 <hr class="hide">
@@ -70,21 +96,23 @@ var GroupID = '';
 </ul>
 </li>
 <li class="welcome">
-<span style="width:100px;">
-<a href="https://twitter.com/theukhighstreet" class="twitter-follow-button" data-show-count="true">Follow @theukhighstreet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></span><span>
-<fb:like href="http://www.facebook.com/TheUKHighStreet" layout="button_count" style="height:20px; vertical-align: top;"></fb:like>
+<div class="right">
+<div class="fb-like" data-href="http://www.facebook.com/TheUKHighStreet" data-layout="button_count" style="height:20px; vertical-align: top;"></div>
 <br><span style="font-size:9px;float:right;">This site uses <a href="/p/privacy#cookies">cookies</a>.</span>
-</span>
+</div>
+<div class="right">
+<a href="https://twitter.com/theukhighstreet" class="twitter-follow-button" data-show-count="true">Follow @theukhighstreet</a>
+</div>
 </li>
 </ul>
 </div>
 <div id="wrapper">
 <div id="header">
 <div id="logo">
+<a href="/"><img src="http://static.theukhighstreet.net/images/homelogo.gif" alt="TheUKHighStreet.com" width="227" height="82"></a>
 <div class="adsense">
-<span class="middle_header"><br><b>
-</b></span>
+<div class="middle_header"><br><b>
+</b></div><div class="right">
 <script type="text/javascript"><!--//<![CDATA[
  document.MAX_ct0 ='';
  var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
@@ -102,9 +130,9 @@ var GroupID = '';
  }
  if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
  document.write ("'></scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://cas.criteo.com/delivery/ajs.php?zoneid=16797&amp;nodis=1&amp;cb=7784670778&amp;exclude=undefined&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20120624070346id_/http%253A//www.theukhighstreet.com/p/privacy"></script>
+//]]>--></script><script type="text/javascript" src="https://cas.criteo.com/delivery/ajs.php?zoneid=16797&amp;nodis=1&amp;cb=56517817194&amp;exclude=undefined&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20121222165551id_/http%253A//theukhighstreet.com/p/privacy"></script>
 </div>
-<a href="/"><img src="http://static.theukhighstreet.net/images/homelogo.gif" alt="TheUKHighStreet.com" width="227" height="82"></a>
+</div>
 </div>
 </div>
 <div style="clear:both;"></div>
@@ -131,7 +159,7 @@ var GroupID = '';
 <a href="/perl/search.cgi" class="right">More search options</a>
 <label for="table">Search in </label><select id="table" name="Table"><option value="Links">Shop Names</option><option value="Products">Products</option><option value="Products_Books">Books</option><option value="Reviews">Reviews</option><option value="Products_Flights">Flights</option><option value="Forum">Forum</option><option value="Google">Google</option></select>
 <label for="query" class="hide">Search for</label> for
-<input type="text" id="query" alt="Search Terms" name="query" class="text" size="30" value="">
+<input type="text" id="query" name="query" class="text" size="30" value="">
 <input type="submit" class="button" value="Search">
 <input id="or" type="radio" name="bool" value="or" checked="checked"><label for="or"> any words</label>&nbsp;&nbsp;
 <input id="and" type="radio" name="bool" value="and"><label for="and"> all words</label>
@@ -264,38 +292,34 @@ If you'd like to learn more about cookies in general and how to manage them, vis
 <p class="title">Specials</p>
 <ul>
 <li><a href="/shops/offers/">SPECIAL OFFERS</a></li>
-<li><a href="/products/offers">DISCOUNTS</a></li>
-<li><a href="/shops/offers/free/">FREE STUFF</a></li>
+<li><a href="/products/offers">TOP DISCOUNTS</a></li>
 <li><a href="/p/sameday">SAME-DAY DELIVERY</a></li>
 <li><a href="/p/nextday">NEXT-DAY DELIVERY</a></li>
 <li><a href="/p/freedelivery">FREE DELIVERY</a></li>
 <li><a href="/p/freenextday">FREE NEXT-DAY DELIVERY</a></li>
+<li><a href="/p/christmas" class="save">LAST ORDER DATES</a></li>
 </ul>
 </div>
 <div class="shops">
 <p class="title">New Sites <a href="/rss/rss_newlinks.rss"><img src="http://static.theukhighstreet.net/images/site/rss_feed.gif" width="32" height="15" alt="RSS"></a>
 </p>
 <div class="featured">
-<p><a href="/Get-The-Label_L4741/">Get The Label</a>
-<a href="/Get-The-Label_LJ4741" target="_blank" onclick="_gaq.push(['_trackPageview', '/Get-The-Label_J4741']);"><img src="http://www.awin1.com/cshow.php?s=248808&amp;v=2509&amp;q=119712&amp;r=3622" width="120" height="60" alt="Get The Label"></a>
+<p><a href="/Hunter-Wellies_L4874/">Hunter Wellies</a>
+<a href="/Hunter-Wellies_LJ4874" target="_blank" onclick="_gaq.push(['_trackPageview', '/Hunter-Wellies_J4874']);"><img src="http://ad.linksynergy.com/fs-bin/show?id=9FbrHZHwty8&amp;bids=275714.37&amp;subid=0&amp;type=4&amp;gridnum=6" width="120" height="60" alt="Hunter Wellies"></a>
 </p>
-<p><a href="/Vertbaudet_L4739/">Vertbaudet</a>
-<a href="/Vertbaudet_LJ4739" target="_blank" onclick="_gaq.push(['_trackPageview', '/Vertbaudet_J4739']);"><img src="http://www.awin1.com/cshow.php?s=270887&amp;v=3636&amp;q=128829&amp;r=3622" width="120" height="60" alt="Vertbaudet"></a>
-</p>
-<p><a href="/Red-Letter-Days_L4738/">Red Letter Days</a>
-</p>
-<p><a href="/Footasylum_L4737/">Footasylum</a>
+<p><a href="/The-Editeur_L4875/">The Editeur</a>
+<a href="/The-Editeur_LJ4875" target="_blank" onclick="_gaq.push(['_trackPageview', '/The-Editeur_J4875']);"><img src="http://ad.linksynergy.com/fs-bin/show?id=9FbrHZHwty8&amp;bids=275444.33&amp;subid=0&amp;type=4&amp;gridnum=6" width="120" height="60" alt="The Editeur"></a>
 </p>
 .
 </div>
 </div>
 <div class="shops">
 <p class="title">Most Popular Today</p>
-<ul class="homelist"><li><a href="/Gatwick-Express_L3152/">Gatwick Express</a></li><li><a href="/Rowland-s-Classic-Clothing_L3686/">Rowland's Classic Clothing</a></li><li><a href="/Rocket-Dog_L4277/">Rocket Dog</a></li><li><a href="/River-Belle-UK-Online-Casino_L1244/">River Belle UK Online Casino</a></li><li><a href="/Really-Linda-Barker_L4572/">Really Linda Barker</a></li><li><a href="/K-Co--Kays-Catalogue-_L722/">K&amp;Co (Kays Catalogue)</a></li><li><a href="/Folli-Follie_L4573/">Folli Follie</a></li><li><a href="/Firetrap_L4259/">Firetrap</a></li><li><a href="/Etam_L1298/">Etam</a></li><li><a href="/Dunelm-Mill_L4724/">Dunelm Mill</a></li></ul>
+<ul class="homelist"><li><a href="/Presents-For-Men_L4655/">Presents For Men</a></li><li><a href="/Scribbler_L4762/">Scribbler</a></li><li><a href="/Lyle-and-Scott_L4652/">Lyle and Scott</a></li><li><a href="/Planet-Clothing_L4000/">Planet Clothing</a></li><li><a href="/Spanx_L4791/">Spanx</a></li><li><a href="/New-Look_L1299/">New Look</a></li><li><a href="/Big-and-Tall-Suits_L4808/">Big and Tall Suits</a></li><li><a href="/John-Lewis---Watches_L2103/">John Lewis - Watches</a></li><li><a href="/Activity-Superstore_L4761/">Activity Superstore</a></li><li><a href="/Topman_L1210/">Topman</a></li></ul>
 </div>
 <div class="shops">
 <p class="title">Most recently visited</p>
-<ul class="homelist"><li><a href="/BHS--British-Home-Stores-_L959/">BHS (British Home Stores)</a></li><li><a href="/Audible_L3340/">Audible</a></li><li><a href="/Argos_L902/">Argos</a></li><li><a href="/Folli-Follie_L4573/">Folli Follie</a></li><li><a href="/K-Co--Kays-Catalogue-_L722/">K&amp;Co (Kays Catalogue)</a></li><li><a href="/Rowland-s-Classic-Clothing_L3686/">Rowland's Classic Clothing</a></li><li><a href="/Really-Linda-Barker_L4572/">Really Linda Barker</a></li><li><a href="/Astley-Clarke_L3621/">Astley Clarke</a></li><li><a href="/Atlantis-Rugs_L4713/">Atlantis Rugs</a></li><li><a href="/River-Belle-UK-Online-Casino_L1244/">River Belle UK Online Casino</a></li></ul>
+<ul class="homelist"><li><a href="/Laithwaites_L2344/">Laithwaites</a></li><li><a href="/Hawkins-Bazaar_L3329/">Hawkins Bazaar</a></li><li><a href="/Long-Tall-Sally_L1008/">Long Tall Sally</a></li><li><a href="/Presents-For-Men_L4655/">Presents For Men</a></li><li><a href="/Topman_L1210/">Topman</a></li><li><a href="/Lyle-and-Scott_L4652/">Lyle and Scott</a></li><li><a href="/Gifts-from-Debenhams_L1494/">Gifts from Debenhams</a></li><li><a href="/M-Co--Mackays-Clothes-_L2292/">M&amp;Co (Mackays Clothes)</a></li><li><a href="/Lands--End---Footwear_L2665/">Lands' End - Footwear</a></li><li><a href="/Wallis-Clothing_L1209/">Wallis Clothing</a></li></ul>
 </div>
 <div class="shops">
 <p class="title">KEY</p>
@@ -343,7 +367,7 @@ If you'd like to learn more about cookies in general and how to manage them, vis
  }
  if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
  document.write ("'></scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://cas.criteo.com/delivery/ajs.php?zoneid=22325&amp;prlog=&amp;nodis=1&amp;cb=20681345871&amp;exclude=undefined&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20120624070346id_/http%253A//www.theukhighstreet.com/p/privacy"></script><noscript><a href='http://cas.criteo.com/delivery/ck.php?n=0919046b&amp;cb=87bc487055' target='_blank'><img src='http://cas.criteo.com/delivery/avw.php?zoneid=22325&amp;n=0919046b&amp;ct0=' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://cas.criteo.com/delivery/ajs.php?zoneid=22325&amp;prlog=&amp;nodis=1&amp;cb=25875565627&amp;exclude=undefined&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20121222165551id_/http%253A//theukhighstreet.com/p/privacy"></script><noscript><a href='http://cas.criteo.com/delivery/ck.php?n=0919046b&amp;cb=87bc487055' target='_blank'><img src='http://cas.criteo.com/delivery/avw.php?zoneid=22325&amp;n=0919046b&amp;ct0=' alt='' /></a></noscript>
 </div>
 </div>
 <div style="clear:both;"></div>
@@ -358,7 +382,7 @@ If you'd like to learn more about cookies in general and how to manage them, vis
 <li><a href="/shops/index/">INDEX</a></li>
 <li><a href="http://twitter.com/theukhighstreet" onclick="_gaq.push(['_trackEvent', 'OutClick', 'Twitter', 'Twitter Page']);" target="_blank">Twitter</a></li>
 <li><a href="http://www.facebook.com/TheUKHighStreet" onclick="_gaq.push(['_trackEvent', 'OutClick', 'Facebook', 'Facebook Page']);" target="_blank">Facebook</a></li>
-<li><a rel="publisher" href="https://plus.google.com/100763883588013156834" onclick="_gaq.push(['_trackEvent', 'OutClick', 'Google+', 'Google+ Page']);" target="_blank">Google+</a></li>
+<li><a href="https://plus.google.com/100763883588013156834" onclick="_gaq.push(['_trackEvent', 'OutClick', 'Google+', 'Google+ Page']);" target="_blank">Google+</a></li>
 <li><a href="http://www.expatdelivery.com" rel="nofollow">International</a></li>
 <li><a href="http://www.consumerdirect.gov.uk/" target="_blank">Consumer Direct</a></li>
 </ul>
@@ -373,13 +397,7 @@ If you'd like to learn more about cookies in general and how to manage them, vis
 </div>
 </div>
 </div>
-<!-- Correct fb_xd_fragment Bug Start -->
-<script type="text/javascript">
-document.getElementsByTagName('html')[0].style.display='block';
-</script>
-<!-- Correct fb_xd_fragment Bug End -->
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
- {lang: 'en-GB'}
 </script>
 
 </body></html>
