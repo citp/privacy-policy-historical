@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jwmatch.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427150608id_/http%3A//www.jwmatch.com/s/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jwmatch.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222144829id_/http%3A//www.jwmatch.com/s/help/privacy.php) for the most accurate reproduction.*
 
 # JWMatch - Privacy Policy
 
