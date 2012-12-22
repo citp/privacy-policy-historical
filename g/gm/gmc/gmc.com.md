@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmc.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616090301id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmc.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222041127id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
 
 # General Motors | Privacy Statement | GM.com
 
@@ -67,7 +67,7 @@ To provide services, some GM consumer websites may request additional informatio
 
 
 
-Certain other GM, or GM-related, consumer websites and services have their own privacy statements that can be viewed on their sites. These include [OnStar](http://www.onstar.com/) and [GM Financial](http://www.americredit.com/). For answers to questions regarding data recording devices and radio frequency identification devices (RFID) used in GM vehicles, see [Frequently Asked Questions](https://web.archive.org/toolbar/privacyStatement.html#par_text_8). **  
+Certain other GM, or GM-related, consumer websites and services have their own privacy statements that can be viewed on their sites. These include [OnStar](https://www.onstar.com/web/portal/home) and [GM Financial](http://www.americredit.com/). For answers to questions regarding data recording devices and radio frequency identification devices (RFID) used in GM vehicles, see [Frequently Asked Questions](https://web.archive.org/toolbar/privacyStatement.html#par_text_8). **  
 **
 
 **Information Collection  
