@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the practiceaptitudetests.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608045006id_/http%3A//www.practiceaptitudetests.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practiceaptitudetests.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222212453id_/http%3A//www.practiceaptitudetests.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Practice Aptitude Tests
+# Privacy Policy | Practice Aptitude TestsPractice Aptitude Tests
 
 Please see below our terms and conditions of use if you have any questions please [Contact us.](mailto:practiceaptitudetests@gmail.com)
 
@@ -8,7 +8,7 @@ Please see below our terms and conditions of use if you have any questions pleas
 
 ### Who We Are
 
-In the privacy policy below references to “we”, “us” or “our” refer to Practice Aptitude Tests Ltd (PracticeAptitudeTests) a registered company in England and Wales limited by shares. References to “our Web Site” or “the Web Site” refer to www.practiceaptitudetests.com or any of its sub domains.
+In the privacy policy below references to “we”, “us” or “our” refer to Practice Aptitude Tests Ltd (PracticeAptitudeTests) a registered company in England and Wales limited by shares.  Registed address 36 Whyteleafe Road, Caterham, Surrey.  CR3 5EF.  UK. References to “our Web Site” or “the Web Site” refer to www.practiceaptitudetests.com or any of its sub domains.
 
 ### Information we collect
 
@@ -19,6 +19,14 @@ In the privacy policy below references to “we”, “us” or “our” refer 
   3. Information which allows us to identify your preferred settings, this saves you time re-entering your information when you return to the Web Site. This is, however, stored locally on your computer and is done through use of cookies. You can disable your cookies if you wish though your internet settings. You can also change your settings so you can be warned about cookies and block them if you wish. This can be done through your internet settings or through “help” in your internet browser or in internet settings accessed via control panel.
 
 
+
+**Payments**
+
+We outsource payment processing and transaction handling to PayPal.  We do not store credit card details nor do we share customer details with any 3rd parties.
+
+Upon registration you will be sent a password and once your payment has been processed by PayPal you will be able to log into the members area and access the product you chose using the user name you chose and the password that was sent to you.
+
+If you are not satisfied with the product you purchased please let us know and formally request a refund in writing within 3 working days and we will refund your payment within 28 days.
 
 **Cookies**
 
@@ -37,3 +45,46 @@ We link to other website and as highlighted in the terms and conditions do not c
 #### Changes to our privacy policy
 
 We may make changes to our privacy policy at any time and reserve the right to do with without notice. Any changes made will appear on this web page. Please refer to this page regularly for updates.
+
+### Practice Aptitude Test Packages
+
+  * #### Numerical Package
+
+[](https://web.archive.org/amember/signup/index/) [Buy for just £5.99](https://web.archive.org/amember/signup/index/)
+    * 7 Online numerical reasoning practice test
+
+    * 147+ unique questions edited by ex-Kenexa chartered occupational psychologist
+
+    * Answers all complete with clear worked solutions
+
+  * #### Verbal Package
+
+[](https://web.archive.org/amember/signup/index/) [Buy for just £5.99](https://web.archive.org/amember/signup/index/)
+    * 7 Online verbal reasoning practice tests
+
+    * 105 unique questions developed by ex-Kenexa chartered occupational psychologist
+
+    * Answers all complete with clear worked solutions
+
+  * #### Diagrammatic Package
+
+[](https://web.archive.org/amember/signup/index/) [Buy for just £5.99](https://web.archive.org/amember/signup/index/)
+    * 7 Online Diagrammatic reasoning practice tests
+
+    * 50 unique questions developed by ex-Kenexa chartered occupational psychologist
+
+    * Answers all complete with clear worked solutions
+
+  * #### Bundle Package
+
+[](https://web.archive.org/amember/signup/index/) [Buy for just £8.99](https://web.archive.org/amember/signup/index/)
+    * All Numerical Reasoning (147+ questions)
+
+    * All Verbal Reasoning (105 questions)
+
+    * All Diagrammatic Reasoning (50 questions)
+
+    * Answers all complete with clear worked solutions
+
+
+
