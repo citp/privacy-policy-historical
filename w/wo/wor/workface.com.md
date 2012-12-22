@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the workface.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504022311id_/http%3A//workface.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workface.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222064839id_/http%3A//workface.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Workface
+# Web Live Chat Software for Social Business | Workface® | Beyond Web Chat
+
+## Privacy Policy
 
 ### Our Commitment to Privacy
 
