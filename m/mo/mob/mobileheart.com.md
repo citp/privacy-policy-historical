@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mobileheart.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619232028id_/http%3A//www.mobileheart.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileheart.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222184556id_/http%3A//www.mobileheart.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy from MobileHeart.com
 
 We do not sell, trade, rent or make available, your personal information to others.
 
-This Privacy Policy outlines how your personal information is treated and forms part of our Terms & Conditions Of Use. We may occasionally modify our Privacy Policy; when this happens we will notify you via our[ Terms of Use](https://web.archive.org/web/20120619232028id_/http%3A//www.mobileheart.com/terms_and_conditions.aspx) page. 
+This Privacy Policy outlines how your personal information is treated and forms part of our Terms & Conditions Of Use. We may occasionally modify our Privacy Policy; when this happens we will notify you via our[ Terms of Use](https://web.archive.org/web/20121222184556id_/http%3A//www.mobileheart.com/terms_and_conditions.aspx) page. 
 
 What information do we collect? 
 
