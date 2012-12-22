@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the revresponse.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625220238id_/http%3A//www.revresponse.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revresponse.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222094551id_/http%3A//revresponse.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy | RevResponse
+# Privacy Policy | B2B Affiliate Program - RevResponse
 
 NetLine Corporation is committed to protecting your privacy while on TradePub.com and our branded websites. Please read our policy to understand how your personal information will be used while on our sites and how we work to make your online experience with us secure. 
 
