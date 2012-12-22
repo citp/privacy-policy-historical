@@ -1,40 +1,85 @@
-> *The following text is extracted and transformed from the electricsense.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622140134id_/http%3A//electricsense.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricsense.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222164710id_/http%3A//www.electricsense.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | electricsense.com
+# Privacy Policy | www.electricsense.com
 
-At electricsense.com, the privacy of my visitors is of extreme importance to me. This privacy policy document outlines the types of personal information that is received and collected by electricsense.com and how it is used.
+**At ElectricSense.com, the privacy of our visitors is of extreme importance to us.** Personal information of all users is collected, used and disclosed as described in this Statement of Privacy.
 
-**Log Files**
+#### Collection of your Personal and Financial Information
 
-Like many other Web sites, electricsense.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+You can access the content of this website without needing to register.
 
-**Cookies and Web Beacons**
+We collect personal information from clients, such as e-mail addresses, names, home or work addresses or telephone numbers, only when necessary for our products or services.
 
-electricsense.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+We may also collect demographic information, such as ZIP codes, age, gender, preferences, interests and favorites. Information collected by us may be combined with information obtained from other services.
 
-**DoubleClick DART Cookie**
+Financial information is collected only if you are required to submit an online payment. This will always be transmitted securely over an SSL (https:) connection.
 
-  * Google, as a third party vendor, uses cookies to serve ads on electricsense.com.
-  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to electricsense.com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+#### Cancelling, Opting-out and Unsubscribing
+
+You can unsubscribe or opt out of email messages or newsletters at any time by using an unsubscribe link in email correspondence, by replying “unsubscribe”, or by sending an “unsubscribe” email to us.
+
+You can cancel recurring online payments at any time with the Payment Merchant provider (for example PayPal).
+
+We are not responsible for the privacy statements or other content on Web sites outside of this website.
+
+#### Cookies
+
+Cookies are small amounts of data that a website can send to your web browser and stored on your computer. Cookies do not contain personal information about you, unless you knowingly provide it. Cookies can note that your browser was used to visit certain sites, pages, or advertisements on a certain date.
+
+We use cookies to enhance navigation and website functionality. If you access your account online, cookies are sometimes used to securely verify your identity, and to personalise aspects of your experience on a website. We also use cookies to let us known how visitors are using our website, so that we can improve it and their experience on it. We permit certain third parties to set cookies and use related technology through our website to track the performance of advertisements and to collect aggregate data on web page viewing.
+
+You do have control over cookies. Most browsers can be set to notify you when a cookie is being placed on your computer. You can set most browsers to refuse to accept cookies, although this may affect your Internet experience. You can also erase cookies that are already on your computer. For more information on working with cookies, consult the user manual, FAQ, or help function of your specific browser.
+
+#### Remarketing and Cookies in Online Advertising
+
+We may participate in sites that include the use of remarketing tags.
+
+  * Third party vendors, including Google, may show you our ads on sites on the internet.
+  * Third party vendors, including Google, may use cookies to serve ads based on prior visits to this website.
+  * You may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can opt out of a third party vendor’s use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
+  * Remarketing Dynamic Ads use the Teracent cookie and you may opt out of the Teracent cookie by visiting the [Teracent opt-out page](http://www.teracent.com/about-us/opt-out).
+  * DoubleClick’s remarketing pixels use DoubleClick’s cookies and you may opt out by visiting the [DoubleClick opt-out page](http://www.doubleclick.com/privacy/dart_adserving.aspx) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
+#### Use of your Personal Information
 
-  * Google AdSense
-  * Commission Junction
-  * ClickBank
-  * ShareASale
-  * LinkShare
-  * Amazon
+We use client information to inform its clients of account information and progress on various related projects.
+
+We do not sell, rent or lease its client lists to third parties.
+
+We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings and/or providing customer support.  We will only provide those companies the personal information they need to deliver the service or product. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.
+
+We do not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+
+We may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on us or the site; (b) protect and defend our rights or property; or (c) act under exigent circumstances to protect the personal safety of our users, our web sites, or the public.
+
+Client comments may be used in our Marketing materials, with consent.
+
+#### External Links
+
+This website includes links to both internal and external websites. We select links that we consider are useful and relevant to the content they are linking from and are suitable for the likely audience.
+
+These will most often be free to access, but users may sometimes be asked to register or subscribe before viewing content.
+
+These links are included for a number of reasons, including:
+
+  * for further relevant information or other key source material
+  * background information
+  * useful practical information
+  * entertainment or enjoyment
+  * for further informed comment
 
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on electricsense.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+External links are selected and reviewed when the page is published. However, we are not responsible for the content of external websites, because:
 
-electricsense.com has no access to or control over these cookies that are used by third-party advertisers.
+  * we do not produce them or maintain/update them
+  * we cannot change them
+  * they can be changed without our knowledge or agreement.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. electricsense.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+Some of our external links may be to websites which also offer commercial services, such as online purchases.
+
+The inclusion of a link to an external website should not be understood to be an endorsement of that website or the site’s owners (or their products/services).
