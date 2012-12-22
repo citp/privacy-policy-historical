@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beaconequity.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616050046id_/http%3A//www.beaconequity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaconequity.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222185059id_/http%3A//www.beaconequity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Beacon Equity: Penny Stocks, Stock Alerts
 
@@ -30,11 +30,11 @@ BeaconEquity.com has no access to or control over these cookies that are used by
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. BeaconEquity.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+If you wish to disable cookies, you may do so through your individual browser [options](http://www.knowfinance.com/category/options/). More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 **OPT-OUT FROM MAIL LIST**  
 At any time you may request to be removed from our mailing list by clicking the unsubscribe link provided in each newsletter.
 
 If you have any questions regarding our policies please feel free to contact us at the following URL:
 
-[http://www.beaconequity.com/contact/](https://web.archive.org/web/20120616050046id_/http%3A//contact/)
+[http://www.beaconequity.com/contact/](https://web.archive.org/web/20121222185059id_/http://www.beaconequity.com/contact/)
