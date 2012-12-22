@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiltongrandvacations.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611030313id_/http%3A//www.hiltongrandvacations.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiltongrandvacations.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222063914id_/http%3A//www.hiltongrandvacations.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Hilton Grand Vacations Privacy Policy
 
@@ -29,7 +29,8 @@ Click on one of the links below to jump to a specific section:
 
 [We self-certify compliance with](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list)
 
-[](http://www.export.gov/safeharbor)
+[  
+](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list)
 
 For personal information of customers and employees that Hilton Worldwide, Inc. receives from the European Union and Switzerland, Hilton Worldwide, Inc. has committed to handling such personal information in accordance with the Safe Harbor Principles. Click [here](http://www.hilton.com/en/hi/promotions/safeharborprivacypolicy/index.jhtml) to view the Hilton Worldwide, Inc. Customer Safe Harbor Privacy Policy.
 
