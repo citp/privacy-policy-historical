@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the infibeam.com privacy policy that was archived on 2012-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626040007id_/http%3A//www.infibeam.com/static/help/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infibeam.com privacy policy that was archived on 2012-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121222191421id_/http%3A//www.infibeam.com/static/help/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -19,11 +19,12 @@ return null;
 <meta name="msvalidate.01" content="C48C958F23B6431D04C172C3DEED2626">
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="stylesheet" href="http://assets.infibeam.com/assets/yui-css/reset-fonts-grids.css" type="text/css">
-<link rel="stylesheet" href="http://assets.infibeam.com/assets/skins/common/style/globle.css?v=26" type="text/css">
-<link rel="stylesheet" href="http://assets.infibeam.com/assets/skins/common/style/infibeam.css" type="text/css">
-<script src="http://assets.infibeam.com/includeResource.action?v=20&amp;bundle=jquerycore" type="text/javascript" charset="utf-8">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://assets.infibeam.com/assets/skins/newcommon/style/globle.css?v=31" type="text/css">
+<link rel="stylesheet" href="http://assets.infibeam.com/assets/skins/newcommon/style/infibeam.css?v=5" type="text/css">
+<script src="http://assets.infibeam.com/includeResource.action?v=22&amp;bundle=jquerycore" type="text/javascript" charset="utf-8">
 </script>
-<link rel="stylesheet" type="text/css" media="screen" href="http://assets.infibeam.com/assets/skins/common/style/help.css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://assets.infibeam.com/assets/skins/newcommon/style/help.css">
 <style>
 #help p {font: 13px/18px arial,helvetica,sans-serif;}
 #help ol.number li {
@@ -51,6 +52,30 @@ $($(this).attr('href')).show();
 var IB ={};
 $(document).ready(function(){
 try{$(document).pngFix();}catch(err){}
+try{
+var airtelCatalogs= new Array();
+var airtelCatalogPage=new Array();
+airtelCatalogs[0]='P-E-M-Apple-iPhone-5-16GB';
+airtelCatalogs[1]='P-E-M-Apple-iPhone-5-32GB';
+airtelCatalogs[2]='P-E-M-Apple-iPhone-5-64GB';
+airtelCatalogPage[0]='http://shop.airtel.com/mobile/apple-iphone-5-16gb/p-12032-23459752049-cat--0137341.html';
+airtelCatalogPage[1]='http://shop.airtel.com/default/apple-iphone-5-32gb/p-12032-88879941147-cat--0137341.html';
+airtelCatalogPage[2]='http://shop.airtel.com/default/apple-iphone-5-64gb/p-12032-81650756687-cat--0137341.html';
+catalog_id=$("input[id=catalogId]").attr("value");
+var buy_from_airtel=false;
+var pageLink='';
+for(var i=0 ; i<airtelCatalogs.length;i++){
+if(catalog_id==airtelCatalogs[i]){
+buy_from_airtel=true;
+pageLink=airtelCatalogPage[i];
+}
+}
+if(buy_from_airtel==true){
+$("#ib_actions").hide();
+$("#ib_actions").parent().append("<div style=\"margin-top: 20px; a\" align=\"center\" ><a target=\"_blank\" href="+pageLink+"><img src=\"/assets/skins/newcommon/images/buy_on_airtel.png\" alt=\"Buy From Airtel\" /> </a></div>");
+}
+}
+catch(err){}
 });
 </script>
 <!-- Urchin -->
@@ -73,7 +98,9 @@ _gaq.push(['_trackEvent', category, action, label]);
 }
 </script>
 <script type="text/javascript" src="/scripts/MarketplaceUtils.js"></script>
-</head>
+<script type="text/javascript">
+</script>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
 <div id="custom-doc" class="yui-t7">
 <script>
@@ -90,12 +117,12 @@ $('.mainDiv').hide();
 <img src="/assets/skins/common/images/logo.png" border="0" alt="Infibeam.com" style="margin-left:10px; margin-top:5px; float:left;">
 </a>
 </div>
-<div align="right" class="links" style="position:absolute;right:10px;top:0px; z-index:9999;">
-<img src="http://assets.infibeam.com/assets/skins/common/images/homeicon.gif" alt="Home" border="0" align="absmiddle" style="margin-top:-6px;">&nbsp;<a href="/" title="Home">Home</a>
+<div align="right" class="links" style="position:absolute;right:0px;top:0px; z-index:9999;">
+<img src="http://assets.infibeam.com/assets/skins/newcommon/images/homeicon.gif" alt="Home" border="0" align="absmiddle" style="margin-top:-6px;">&nbsp;<a href="/" title="Home">Home</a>
 <span id="login">
 | <a id="loginlink" href="/Login.action" title="Login">Login</a>
-<a href="/Login.action#facebook" title="Facebook"><img src="http://assets.infibeam.com/assets/skins/common/images/icon/facebook.gif" alt="Facebook" border="0" align="absmiddle"></a>
-<a href="/Login.action#twitter" title="Twitter"><img src="http://assets.infibeam.com/assets/skins/common/images/icon/twitter.gif" alt="Twitter" border="0" align="absmiddle"></a>
+<a href="/Login.action#facebook" title="Facebook"><img src="http://assets.infibeam.com/assets/skins/newcommon/images/icon/facebook.gif" alt="Facebook" border="0" align="absmiddle"></a>
+<a href="/Login.action#twitter" title="Twitter"><img src="http://assets.infibeam.com/assets/skins/newcommon/images/icon/twitter.gif" alt="Twitter" border="0" align="absmiddle"></a>
 </span>
 <script type="text/javascript">
 var cust_name = readCookie("cust_name");
@@ -106,7 +133,7 @@ $('#login').html('| Hello ' + cust_name.replace(/"/g,'') + ' | <a href="/jsp/log
 }
 </script>
 |
-<img src="http://assets.infibeam.com/assets/skins/common/images/cart.gif" border="0" align="absmiddle"> <a href="/ShowCart.action" title="Shopping Cart">Shopping Cart</a> |
+<img src="http://assets.infibeam.com/assets/skins/newcommon/images/cart.gif" border="0" align="absmiddle"> <a href="/ShowCart.action" title="Shopping Cart">Shopping Cart</a> |
 <a href="/ViewPurchases.action" title="Your Account">My Account</a> |
 <span style="position:relative;">
 <span style="position:relative;">
@@ -117,10 +144,10 @@ $('#login').html('| Hello ' + cust_name.replace(/"/g,'') + ' | <a href="/jsp/log
 <li><a href="/gift-registry.html">Gift Registry</a></li>
 <li><a href="/wedding-registry.html">Wedding Registry</a></li>
 <li><a href="/baby-registry.html">Baby Registry</a></li>
-<li><a href="/find-public-lists.html">Find Public List</a></li>
 </ul>
 </span>
 </span>
+<a href="/ViewWallet.action" title="Wallet">Wallet</a> |
 <a href="/static/help/help.html" title="Help">Help</a> |
 <a rel="nofollow" href="/TrackCustomerPurchase_input.action">Track Order</a>
 </div>
@@ -130,20 +157,20 @@ display:block;
 z-index:px;
 position:absolute;
 width:114px;
-font-size:14px;
+font-size:12px;
 margin-top:25px ;
 top:-13px;
 background-color:white;
 color:Black;
 left: -10px;
 text-align:left;
-border: 1px solid #ededed;
+border: 1px solid #ddd;
 -webkit-box-shadow: 1px 1px 3px #ccc;
 -moz-box-shadow: 1px 1px 3px #ccc;
 box-shadow: 1px 1px 3px #ccc;
 }
 ul.wishListDiv li a{padding:3px 10px; border-bottom:1px solid #ededed; display:block; text-decoration:none;}
-ul.wishListDiv li a:hover{color:#fff;background-color:#2664AD;text-decoration:none;}
+ul.wishListDiv li a:hover{color:#fff;background-color:#E6682E;text-decoration:none;}
 </style>
 <script>
 $(document).ready(function(){
@@ -171,7 +198,7 @@ $('.wishListDiv').hide();
 }
 </script>
 <div class="sublinks">
-<a href="/deal-of-the-day.html" title="Today's Deal"><img src="http://assets.infibeam.com/assets/skins/common/images/magicbox.jpg" border="0" alt="Magic Box" style="float:right;"></a>
+<a href="/deal-of-the-day.html" title="Today's Deal"><img src="http://assets.infibeam.com/assets/skins/newcommon/images/magicbox.jpg" border="0" alt="Magic Box" style="float:right;"></a>
 <ul>
 <li style="margin-left:3px;"><a href="/Books/">Books</a></li>
 <li><a href="/Mobiles/">Mobiles</a></li>
@@ -188,7 +215,7 @@ $('.wishListDiv').hide();
 <ul>
 <li id="mainmenu">
 <div class="mainli" style="background:transparent;">
-<a href="/static/all-stores.html" style="width:187px; height:32px; display:block; font:bold 13px Arial,sans-serif; color:#fff; background:url(http://assets.infibeam.com/assets/skins/common/images/allstore.jpg) no-repeat left -32px;"><span style="padding-left:8px; padding-top:7px; display:block; font:bold 13px Arial,sans-serif; color:#fff;">All Stores</span></a>
+<a href="/static/all-stores.html" style="width:187px; height:32px; display:block; font:bold 13px Arial,sans-serif; color:#fff; background:url(/assets/skins/newcommon/images/allstorenew.jpg) no-repeat left -32px;"><span style="padding-left:10px; padding-top:8px; display:block; font-size:14px; letter-spacing:1px; color:#fff; font-weight:bold;">All Stores</span></a>
 </div>
 <div class="mainDiv" id="menucontents" style="display:none">
 <ul class="menu">
@@ -197,7 +224,7 @@ $('.wishListDiv').hide();
 <div class="subMenu" style="display: none; left: 160px; z-index: 1; width:510px;">
 <ul>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Books/" style="padding:2px; padding-left:0px; color:#003399;"><b>Books</b></a>
+<a href="/Books/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Books</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Books/new-releases-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">New Releases</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Books/best-selling-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Best Sellers</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Books/recommended-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Recommended</a>,&nbsp;&nbsp;</span>
@@ -205,7 +232,7 @@ $('.wishListDiv').hide();
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Textbooks/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Textbooks</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/eBooks/" style="padding:2px; padding-left:0px; color:#003399;"><b>eBooks</b></a>
+<a href="/eBooks/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>eBooks</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/eBooks/best-selling-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Best Sellers</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/eBooks/recommended-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Recommended</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/eBooks/search?q=engineering" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Engineering</a>,&nbsp;&nbsp;</span>
@@ -214,7 +241,7 @@ $('.wishListDiv').hide();
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/eBooks/tata-mcgraw-hill-publisher/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Tata McGraw Hill</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Magazines/" style="padding:2px; padding-left:0px; color:#003399;"><b>Magazines</b></a>
+<a href="/Magazines/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Magazines</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Magazines/search?category=Automobile" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Automobile</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Magazines/best-magazine-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Best Selling</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Magazines/search?category=Business" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Business</a>,&nbsp;&nbsp;</span>
@@ -223,15 +250,9 @@ $('.wishListDiv').hide();
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Magazines/recommended-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Recommended</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/eMagazines/" style="padding:2px; padding-left:0px; color:#003399;"><b>eMagazines</b></a>
+<a href="/eMagazines/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>eMagazines</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/eMagazines/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">eMagazines</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/indigi" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Infibeam Digital Platform</a></span>
-</li>
-<li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Pi" style="padding:2px; padding-left:0px; color:#003399;"><b>Infibeam Pi</b></a>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Pi/Pi.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Pi</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Pi/Pi2.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Pi2</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Pi/Pi.html#pi-accessories" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Pi Accessories</a></span>
 </li>
 </ul>
 </div>
@@ -241,7 +262,7 @@ $('.wishListDiv').hide();
 <div class="subMenu" style="display: none; left: 160px; z-index: 1; width:510px;">
 <ul>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Mobiles/" style="padding:2px; padding-left:0px; color:#003399;"><b>Mobiles</b></a>
+<a href="/Mobiles/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Mobiles</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Mobiles/new-releases-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">New Releases</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Mobiles/best-selling-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Best Selling</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Mobiles/recommended-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Recommended</a>,&nbsp;&nbsp;</span>
@@ -249,23 +270,25 @@ $('.wishListDiv').hide();
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Mobiles/upcoming-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Upcoming</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Portable_Electronics/search?bodyType=Tablet" style="padding:2px; padding-left:0px; color:#003399;"><b>Tablet Pcs</b></a>
+<a href="/Portable_Electronics/search?bodyType=Tablet" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Tablet Pcs</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Portable_Electronics/search?bodyType=Tablet&amp;make=Samsung" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Samsung</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Portable_Electronics/search?bodyType=Tablet&amp;make=Dell" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Dell</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Portable_Electronics/search?bodyType=Tablet&amp;make=Blackberry" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Blackberry</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Portable_Electronics/search?bodyType=Tablet&amp;make=Acer" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Acer</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Portable_Electronics/search?bodyType=Tablet&amp;make=Motorola" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Motorola</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Portable_Electronics/search?bodyType=Tablet&amp;make=HTC" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">HTC</a></span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Portable_Electronics/search?bodyType=Tablet&amp;make=Micromax" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Micromax</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href=" /Portable_Electronics/search?bodyType=Tablet&amp;make=Karbonn" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Karbonn</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Portable_Electronics/search?bodyType=Tablet&amp;make=Milagrow" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Milagrow</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Portable_Electronics/search?bodyType=Tablet&amp;make=Swipe" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Swipe</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Portable_Electronics/search?bodyType=Tablet&amp;make=BSNL Penta" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">BSNL Penta</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Portable_Electronics/search?bodyType=Tablet&amp;make=Devante" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Devante</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Mobile_Accessories/" style="padding:2px; padding-left:0px; color:#003399;"><b>Mobile Accessories</b></a>
+<a href="/Mobile_Accessories/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Mobile Accessories</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Mobile_Accessories/search?category=Batteries" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Batteries</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Mobile_Accessories/search?category=Bluetooth%20Devices" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Bluetooth Devices</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Mobile_Accessories/search?category=Chargers" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Chargers</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Mobile_Accessories/search?category=Handsfree" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Handsfree</a></span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Mobile_Accessories/search?category=Handsfree" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Handsfree</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Mobile_Accessories/search?category=Memory Cards" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Memory Cards</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Mobiles/search" style="padding:2px; padding-left:0px; color:#003399;"><b>Mobile Brands</b></a>
+<a href="/Mobiles/search" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Mobile Brands</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/mobiles/make/nokia.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Nokia</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/mobiles/make/samsung.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Samsung</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/mobiles/make/micromax.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Micromax</a>,&nbsp;&nbsp;</span>
@@ -273,7 +296,7 @@ $('.wishListDiv').hide();
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/mobiles/make/blackberry.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Blackberry</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Mobiles/search" style="padding:2px; padding-left:0px; color:#003399;"><b>Popular Searches</b></a>
+<a href="/Mobiles/search" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Popular Searches</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Mobiles/search?features=3G" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">3G</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Mobiles/search?features=Dual Sim" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Dual SIM</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Mobiles/search?features=Android OS" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Android</a>,&nbsp;&nbsp;</span>
@@ -287,101 +310,132 @@ $('.wishListDiv').hide();
 <div class="subMenu" style="display: none; left: 160px; z-index: 1; width:510px;">
 <ul>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Apparel/" style="padding:2px; padding-left:0px; color:#003399;"><b>Apparel</b></a>
+<a href="/Apparel/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Apparel</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Apparel/search?category=Men" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Mens Wear</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Apparel/search?category=Women" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Womens Wear</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Apparel/search?category=Kids" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Kids Wear</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Apparel_Accessories/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Apparel Accessories</a></span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Apparel/search?category=Unisex" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Unisex Clothing</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Apparel/search?bodyType=Nightwear" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Nightwear</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Apparel/search?bodyType=Lingerie" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Lingerie</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Jewellery/" style="padding:2px; padding-left:0px; color:#003399;"><b>Jewellery</b></a>
+<a href="/Apparel_Accessories/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Fashion Accessories</b></a>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Eyewear/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Eyewear</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Bags/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Bags</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Apparel_Accessories/search?productType=Belts" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Belts</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Apparel_Accessories/search?productType=Wallets" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Wallets</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Apparel_Accessories/search?category=Men" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Men</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Apparel_Accessories/search?category=Women" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Women</a></span>
+</li>
+<li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
+<a href="/Watches/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Watches</b></a>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Watches/search?category=Gents" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Men</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Watches/search?category=Ladies" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Women</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Watches/search?category=Kids" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Kids</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Watches/search?category=Pair Watches" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Pair</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Watches/search?category=Unisex" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Unisex</a></span>
+</li>
+<li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
+<a href="/Jewellery/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Jewellery</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?bodyType=Necklaces" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Necklaces</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?bodyType=Pendants" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Pendants</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?bodyType=Bracelets" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Bracelets</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?bodyType=Earrings" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Earrings</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?bodyType=Rings" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Rings</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?bodyType=Sets" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Sets</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?bodyType=Mangalsutra" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Mangalsutra</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?bodyType=Coins" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Coins</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?bodyType=Combo" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Combo</a></span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?bodyType=Rings" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Rings</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?bodyType=Bracelets" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Bracelets</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?element=Gold" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Gold</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?element=Silver" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Silver</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Watches/" style="padding:2px; padding-left:0px; color:#003399;"><b>Watches</b></a>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Watches/search?category=Gents" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Men's Watches</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Watches/search?category=Ladies" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Women's Watches</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Watches/search?category=Kids" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Kids Watches</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Watches/search?category=Pair+Watches" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Pair Watches</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Watches/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Brands</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Watches/best-watches-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Best Selling</a></span>
+<a href="/Footwear/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Footwear</b></a>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Footwear/search?category=Men" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Men</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Footwear/search?category=Women" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Women</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Footwear/search?category=Unisex" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Unisex</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Footwear/search?style=Shoes" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Shoes</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Footwear/search?style=Sandals" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Sandals</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Footwear/search?style=Slippers" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Slippers</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Health_Equipments/" style="padding:2px; padding-left:0px; color:#003399;"><b>Health Equipments</b></a>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Health_Equipments/search?category=Exerciser Bike" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Exerciser Bikes</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Health_Equipments/search?category=Gym" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Gym Equipments</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Health_Equipments/search?category=Treadmill" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Treadmill</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Health_Equipments/search?category=Health care" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Health Care</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Health_Equipments/search?category=Massage" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Massage</a></span>
+<a href="/Beauty/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Personal Care &amp; Beauty</b></a>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Beauty/search?bodyType=Deodorants&amp;bodyType=Perfumes" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Perfumes &amp; Deodorants</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href=" /Beauty/search?bodyType=Skin%20Care" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Skin Care</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Beauty/search?bodyType=Body Care" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Body Care</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Beauty/search?bodyType=Hair%20Care" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Hair Care</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Beauty/search?bodyType=Cosmetic%20Hampers" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Cosmetics</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Beauty/search?bodyType=Hair%20Removal" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Hair Removal</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Toys_Games/" style="padding:2px; padding-left:0px; color:#003399;"><b>Toys &amp; Games</b></a>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Toys_Games/search?category=Baby Toys" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Baby Toys</a>,&nbsp;&nbsp;</span>
+<a href="/Kitchenware/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Kitchen</b></a>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Kitchenware/search?category=Storage and Containers" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Storage &amp; Containers</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Kitchenware/search?category=Cookware" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Cookware</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Kitchenware/search?category=Dinnerware" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Dinnerware</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Kitchenware/search?category=Mugs" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Mugs</a></span>
+</li>
+<li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
+<a href="/Home_Furnishing/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Home Decor</b></a>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Home_Furnishing/search?category=Bedding" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Bedding</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Home_Furnishing/search?category=Showpieces" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Showpieces</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Home_Furnishing/search?category=Curtains" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Curtains</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Home_Furnishing/search?category=Furniture" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Furniture</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Home_Furnishing/search?category=Paintings" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Paintings</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Home_Furnishing/search?category=Wall%20Decor" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Wall Decor</a></span>
+</li>
+<li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
+<a href="/Toys_Games/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Toys &amp; Games</b></a>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Toys_Games/search?category=Water Toys" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Water Toys</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Toys_Games/search?category=Board Games" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Board Games</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Toys_Games/search?category=Dolls" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Barbie Dolls</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Toys_Games/search?category=Puzzles" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Puzzles</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Toys_Games/search?category=Sports" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Sports</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Toys_Games/search?category=Soft Toys" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Soft Toys</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Toys_Games/best-selling-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Best Selling</a></span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Toys_Games/search?category=Educational" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Educational</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Toys_Games/search?category=Soft Toys" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Soft Toys</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Kitchenware/" style="padding:2px; padding-left:0px; color:#003399;"><b>Kitchenware</b></a>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Kitchenware/search?category=Accessories" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Accessories</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Kitchenware/search?category=Barware" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Barware</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Kitchenware/search?category=Cookware" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Cookware</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Kitchenware/search?category=Dinnerware" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Dinnerware</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Kitchenware/search?category=Nonstickware" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Nonstickware</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Kitchenware/search?category=Storage and Containers" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Storage and Containers</a></span>
-</li>
-<li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Home-Lifestyle/" style="padding:2px; padding-left:0px; color:#003399;"><b>Others</b></a>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Eyewear/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Eyewear</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Grocery/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Grocery</a>,&nbsp;&nbsp;</span>
+<a href="/Home-Lifestyle/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Other Stores</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Baby/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Baby Products</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Beauty/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Beauty Products</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Bags/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Bags</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Religion_Spirituality/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Religion Spirituality</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Home_Furnishing/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Home Furninshing</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Home_Furnishing/search?contents=Bean Bag" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Bean Bag</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Footwear/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Footwear</a></span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Religion_Spirituality/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Religion &amp; Spirituality</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Grocery/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Grocery</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Office_Supplies/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Office Supplies</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Health_Equipments/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Health Equipments</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Home_Furnishing/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Home Furnishing</a></span>
 </li>
 </ul>
 </div>
 </div> </li>
 <li class="menuLink"><div class="store">
-<a href="/Gifts/">Gifts &amp; Flowers</a>
+<a href="/Gifts/">Gifts &amp; Christmas Gifts</a>
 <div class="subMenu" style="display: none; left: 160px; z-index: 1; width:510px;">
 <ul>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Gifts/" style="padding:2px; padding-left:0px; color:#003399;"><b>Gifts</b></a>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gifts/search?product=Cakes" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Cakes</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gifts/search?product=Chocolates" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Chocolates</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gifts/search?product=Sweets" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Sweets</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gifts/search?product=Fruits" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Fruits</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gifts/search?product=Flowers" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Flowers</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gifts/search?product=Combos" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Combo Gifts</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gifts/search?product=Gift Certificates" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Gift Certificates</a></span>
+<a href="/Christmas_Gifts/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Christmas Gifts</b></a>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Christmas_Gifts/search?category=Christmas Gifts" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Christmas Gifts</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Christmas_Gifts/search?category=New Year Gifts" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">New Year Gifts</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Christmas_Gifts/search?contents=Cakes" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Cakes</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Christmas_Gifts/search?contents=Candles" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Candles</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Christmas_Gifts/search?contents=Christmas Decor" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Christmas Decor</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Christmas_Gifts/search?contents=Christmas Tree" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Christmas Tree</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Christmas_Gifts/search?contents=Soft Toys" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Soft Toys</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Christmas_Gifts/search?contents=Combo" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Combo Gifts</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Gifts/search" style="padding:2px; padding-left:0px; color:#003399;"><b>Gift Ideas</b></a>
+<a href="/Gifts/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Gifts</b></a>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Cakes_Gifts" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Cakes</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Chocolates_Gifts" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Chocolates</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Sweets_Gifts" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Sweets</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Fruits_Gifts" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Fruits</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Flowers_Gifts" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Flowers</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Combos_Gifts" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Combo Gifts</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gift_Certificates_Gifts" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Gift Certificates</a></span>
+</li>
+<li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
+<a href="/Gifts/search" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Gift Ideas</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gifts/Anniversary-Gifts-India.xhtml" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Anniversary Gifts</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gifts/search?availability=Every Hour and Day&amp;product=Combos" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Every Hour &amp; Day</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gifts/search?availability=Same Day Delivery&amp;product=Combos" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Same Day Delivery</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gifts/search?availability=Regular Delivery&amp;product=Combos" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Regular Delivery</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gifts/Wedding-Gifts-India.xhtml" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Wedding</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gifts/Birthday-Gifts-India.xhtml" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Birthday Gifts</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gifts/search?availability=Midnight Delivery&amp;product=Combos" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Midnight Delivery</a></span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Combos_Gifts/search?delivery=Midnight%20Delivery" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Midnight Delivery</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="http://www.picsquare.com/" style="padding:2px; padding-left:0px; color:#003399;"><b>Personalised Gifts</b></a>
+<a href="http://www.picsquare.com/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Personalised Gifts</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="http://www.picsquare.com/custom/tshirt" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Photo T-shirts</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="http://www.picsquare.com/custom/photo-print" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Photo Prints</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="http://www.picsquare.com/custom/photo-chocolate" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Photo Choclates</a></span>
@@ -394,21 +448,21 @@ $('.wishListDiv').hide();
 <div class="subMenu" style="display: none; left: 160px; z-index: 1; width:510px;">
 <ul>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Computers_Accessories/" style="padding:2px; padding-left:0px; color:#003399;"><b>Computers</b></a>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Laptop_Computers_Accessories/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Laptops</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Desktop_Computers_Accessories/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Desktops</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Monitor_Computers_Accessories/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Monitors</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Software_Computers_Accessories/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Software</a></span>
+<a href="/Computers_Accessories/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Computers</b></a>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Laptop_Computers_Accessories/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Laptops</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Desktop_Computers_Accessories/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Desktops</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Monitor_Computers_Accessories/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Monitors</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Software_Computers_Accessories/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Software</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Accessories_Computers_Accessories/search" style="padding:2px; padding-left:0px; color:#003399;"><b>Accessories</b></a>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Hard_Disk_Computers_Accessories/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Hard Disks</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Web_Camera_Computers_Accessories/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Web Camera</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Printer_Scanner_Computers_Accessories/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Printer / Scanner</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Pen_Drives_Computers_Accessories/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Pen Drives</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Speaker_Computers_Accessories/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Speakers</a>,&nbsp;&nbsp;</span>
+<a href="/Accessories_Computers_Accessories/search" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Accessories</b></a>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Hard_Disk_Computers_Accessories/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Hard Disks</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Web_Camera_Computers_Accessories/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Web Camera</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Printer_Scanner_Computers_Accessories/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Printer / Scanner</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Pen_Drives_Computers_Accessories/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Pen Drives</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Speaker_Computers_Accessories/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Speakers</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Portable_Electronics/search?bodyType=Headphone" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Headphones</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Mouse_Keyboard_Computers_Accessories/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Mouse / Keyboards</a></span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Mouse_Keyboard_Computers_Accessories/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Mouse / Keyboards</a></span>
 </li>
 </ul>
 </div>
@@ -418,18 +472,18 @@ $('.wishListDiv').hide();
 <div class="subMenu" style="display: none; left: 160px; z-index: 1; width:510px;">
 <ul>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Home_Appliances/" style="padding:2px; padding-left:0px; color:#003399;"><b>Home Appliances</b></a>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Air_Conditioner_Home_Appliances/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Air Conditioners</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Washing_Machine_Home_Appliances/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Washing Machines</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Toaster_Grill_Home_Appliances/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Toaster &amp; Grills</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Microwave_Oven_Home_Appliances/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Microwave Ovens</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Refrigerator_Home_Appliances/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Refrigerators</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Tea_Coffee_Maker_Home_Appliances/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Tea &amp; Coffee Makers</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Food_Processor_Home_Appliances/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Food Processors</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Geysers_Home_Appliances/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Geysers</a></span>
+<a href="/Home_Appliances/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Home Appliances</b></a>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Air_Conditioner_Home_Appliances/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Air Conditioners</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Washing_Machine_Home_Appliances/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Washing Machines</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Toaster_Grill_Home_Appliances/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Toaster &amp; Grills</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Microwave_Oven_Home_Appliances/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Microwave Ovens</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Refrigerator_Home_Appliances/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Refrigerators</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Tea_Coffee_Maker_Home_Appliances/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Tea &amp; Coffee Makers</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Food_Processor_Home_Appliances/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Food Processors</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Geysers_Home_Appliances/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Geysers</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Portable_Electronics/" style="padding:2px; padding-left:0px; color:#003399;"><b>Portable Electronics</b></a>
+<a href="/Portable_Electronics/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Portable Electronics</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Portable_Electronics/search?bodyType=iPod" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">iPods</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Portable_Electronics/search?bodyType=iPad" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">iPads</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Portable_Electronics/search?bodyType=Tablet" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Tablet Pcs</a>,&nbsp;&nbsp;</span>
@@ -439,17 +493,20 @@ $('.wishListDiv').hide();
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Portable_Electronics/search?bodyType=Headphone" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Headphones</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Home_Entertainment/" style="padding:2px; padding-left:0px; color:#003399;"><b>Home Entertainment</b></a>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/TVs_Home_Entertainment/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">TVs</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/TVs_Home_Entertainment/search#category=TVs&amp;subCategory=LCD%20TVs&amp;subCategory=LED%20TVs&amp;store=Home_Entertainment" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">LCD's &amp; LED's</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/DVD_Players_Home_Entertainment/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">DVD Players</a>,&nbsp;&nbsp;</span>
+<a href="/Home_Entertainment/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Home Entertainment</b></a>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/TVs_Home_Entertainment/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">TVs</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/TVs_Home_Entertainment/search?subCategory=LCD&amp;subCategory=LED" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">LCD's &amp; LED's</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/DVD_Players_Home_Entertainment/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">DVD Players</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Home_Theatre_Home_Entertainment/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Home Theatre</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Gaming_Consoles/" style="padding:2px; padding-left:0px; color:#003399;"><b>Gaming Consoles</b></a>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gaming_Consoles/search?subCategory=TV Video Games" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Video Games</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gaming_Consoles/search?category=Controllers" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Gaming Controllers</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gaming_Consoles/search?category=Accessories" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Gaming Accessories</a></span>
+<a href="/Gaming_Consoles/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Gaming Consoles</b></a>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gaming_Consoles/search?category=Console Hardware" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Game Consoles</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gaming_Consoles/search?category=Handheld Game" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Handheld</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gaming_Consoles/search?category=Games" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Games CDs/DVDs</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gaming_Consoles/search?category=Accessories" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Accessories</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gaming_Consoles/search?category=Controllers" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Controllers</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gaming_Consoles/PC-Computer-Games.xhtml" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">PC Games</a></span>
 </li>
 </ul>
 </div>
@@ -459,14 +516,14 @@ $('.wishListDiv').hide();
 <div class="subMenu" style="display: none; left: 160px; z-index: 1; width:510px;">
 <ul>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Cameras/" style="padding:2px; padding-left:0px; color:#003399;"><b>Cameras</b></a>
+<a href="/Cameras/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Cameras</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Cameras/best-digital-camera-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Best Selling</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Cameras/recommended-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Recommended</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Cameras/search?category=Camcorder" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Camcorders</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Cameras/search?category=Digital Frames" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Digital Frames</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Camera_Accessories/search" style="padding:2px; padding-left:0px; color:#003399;"><b>Camera Accessories</b></a>
+<a href="/Camera_Accessories/search" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Camera Accessories</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Camera_Accessories/search?category=Battery and Chargers" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Battery &amp; Chargers</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Camera_Accessories/search?category=Memory Cards" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Memory Cards</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Pen_Drives_Computers_Accessories/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Pen Drives</a>,&nbsp;&nbsp;</span>
@@ -475,7 +532,7 @@ $('.wishListDiv').hide();
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Camera_Accessories/search?category=Lens" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Lens</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Cameras/search" style="padding:2px; padding-left:0px; color:#003399;"><b>Camera Brands</b></a>
+<a href="/Cameras/search" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Camera Brands</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Cameras/Canon.xhtml" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Canon</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Cameras/Kodak.xhtml" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Kodak</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Cameras/Nikon.xhtml" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Nikon</a>,&nbsp;&nbsp;</span>
@@ -486,27 +543,39 @@ $('.wishListDiv').hide();
 </div>
 </div> </li>
 <li class="menuLink"><div class="store">
-<a href="/Media/">Movies &amp; Music</a>
+<a href="/Media/">Movies, Music &amp; Posters</a>
 <div class="subMenu" style="display: none; left: 160px; z-index: 1; width:510px;">
 <ul>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Movies/" style="padding:2px; padding-left:0px; color:#003399;"><b>Movies</b></a>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Movies/search?category=Action" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Action</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Movies/search?category=Adventure" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Adventure</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Movies/search?category=Classic" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Classic</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Movies/search?category=Comedy" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Comedy</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Movies/search?category=Drama" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Drama</a></span>
+<a href="/Posters/" style="padding:2px; padding-left:0px; color:#E6682E;"><b><b style="color:#990000;">Posters</b></b></a>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Posters/search?category=Movies" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Movies</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Posters/search?category=Animals" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Wild Life</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Posters/search?category=Photographic" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Photographic</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Posters/search?category=Sports" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Sports</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Posters/search?posterType=Fine%20Art%20Print" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Fine Art Posters</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Music/" style="padding:2px; padding-left:0px; color:#003399;"><b>Music</b></a>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Music/search?category=Pop" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Pop</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Music/search?category=Remix" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Remix</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Music/search?category=Spiritual" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Spiritual</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Music/search?category=Ghazals" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Ghazal</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Music/search?category=Instrumental" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Instrumentals</a></span>
+<a href="/Movies/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Movies</b></a>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Movies/pre-order-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Pre Order</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Movies/new-releases-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">New Releases</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Movies/english-best-sellers-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">English</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Movies/hindi-best-sellers-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Hindi</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Movies/box-set-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Box Sets</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Movies/blu-ray-disc-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Blu-Ray</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Movies/regional-movies-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Regional Movies</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Phi" style="padding:2px; padding-left:0px; color:#003399;"><b>Infibeam Phi</b></a>
+<a href="/Music/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Music</b></a>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Music/pre-order-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Pre Order</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Music/new-releases-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">New Releases</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Music/english-best-sellers-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">English</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Music/hindi-best-sellers-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Hindi</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Music/box-set-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Box Sets</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Music/classical-songs-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Classical</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Music/regional-best-sellers-showcase.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Regional</a></span>
+</li>
+<li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
+<a href="/Phi" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Infibeam Phi</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Portable_Electronics/i-Phi-WinCE-Media-Device-TouchScreen/P-E-PE-Infibeam-Phi-WinCE.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Windows Phi</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Portable_Electronics/i-Phi-Android-Media-Device-TouchScreen/P-E-PE-Infibeam-Phi-Android.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Android Phi</a></span>
 </li>
@@ -518,14 +587,14 @@ $('.wishListDiv').hide();
 <div class="subMenu" style="display: none; left: 160px; z-index: 1; width:510px;">
 <ul>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Bikes/" style="padding:2px; padding-left:0px; color:#003399;"><b>Bikes</b></a>
+<a href="/Bikes/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Bikes</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Bikes/search?condition=New" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">New Bikes</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Bikes/search?condition=Used" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Used Bikes</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/finance/LoanCalculator_input.action" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">EMI Calculator</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/bikes/make/bajaj.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Manufacturers</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Cars/" style="padding:2px; padding-left:0px; color:#003399;"><b>Cars</b></a>
+<a href="/Cars/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Cars</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Cars/search?condition=New" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">New Cars</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Cars/search?condition=Used" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Used Cars</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/finance/LoanCalculator_input.action" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">EMI Calculators</a>,&nbsp;&nbsp;</span>
@@ -533,7 +602,7 @@ $('.wishListDiv').hide();
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Cars/Insurance.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Insurance Calculators</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Travel/" style="padding:2px; padding-left:0px; color:#003399;"><b>Travel / Rental</b></a>
+<a href="/Travel/" style="padding:2px; padding-left:0px; color:#E6682E;"><b>Travel / Rental</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Travel/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Travel Packages</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Travel/car-rental.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Rent a Car</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/static/vehicle-rentals.html" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Vehicle Rentals</a></span>
@@ -552,9 +621,9 @@ $('.wishListDiv').hide();
 <td>
 <form name="search" action="/search.jsp" method="get" id="srchForm">
 <div style="margin-top:5px; margin-left:5px;">
-<table>
+<link href="/style/jquery.autocomplete.css?q=10" media="all" rel="stylesheet" type="text/css"><table>
 <tbody><tr>
-<td> <select name="storeName" class="text" style="width:140px; height:22px; font-size:14px; border:1px solid #ededed;">
+<td> <select name="storeName" id="searchHeader" class="text" style="width:140px; height:22px; font-size:14px; border:1px solid #ededed; ">
 <option value="All" selected="selected">All Stores</option>
 <option value="Automobiles">Automobiles</option>
 <option value="Books">Books</option>
@@ -566,9 +635,16 @@ $('.wishListDiv').hide();
 </select>
 &nbsp;</td>
 <td><input id="suggest" name="query" size="30" value="Looking for something?" style="width:360px; padding:2px; border:1px solid #ededed;color:#B2B2B2;font-style:italic" onblur="if(this.value=='') {this.value='Looking for something?'; this.style.color='#B2B2B2'; this.style.fontStyle='italic';}" onfocus="if(this.value=='Looking for something?') { this.value='';this.style.color='#333333';this.style.fontStyle='normal';}">&nbsp;</td>
-<td><input type="image" name="submit" src="http://assets.infibeam.com/assets/skins/common/images/btnsearch.gif" value="Search" align="absmiddle"></td>
+<td><input type="image" name="submit" src="http://assets.infibeam.com/assets/skins/newcommon/images/btnsearchnew.gif" value="Search" align="absmiddle"></td>
 <td style="font-size:14px; color:#fff; padding-left:10px;"><b>FREE SHIPPING TO INDIA</b></td>
 </tr>
+
+<script src="/lib/jquery/jquery.autocomplete.js?13" type="text/javascript"></script>
+<script type="text/javascript">
+$("#suggest").autocomplete("http://autocomplete_new.infibeam.com/auto_complete/suggest",
+{selectFirst: false }
+).bind("result", function(a) { $("#srchForm").submit() });
+</script>
 </tbody></table>
 </div>
 </form>
@@ -611,6 +687,22 @@ $('.wishListDiv').hide();
 <!-- Footer -->
 <div style="height:10px; line-height:10px; clear:both;"></div>
 <div id="ft">
+<div style="background-color:#212121; padding:8px; height:30px;">
+<div style="float:right;">
+<a href="http://www.facebook.com/infibeam" target="_blank" rel="nofollow" title="Facebook"><img src="http://assets.infibeam.com/assets/skins/newcommon/images/icon/facebook32.png" alt="Facebook" border="0"></a>
+<a href="http://twitter.com/infibeam" target="_blank" rel="nofollow" title="Twitter"><img src="http://assets.infibeam.com/assets/skins/newcommon/images/icon/twitter32.png" alt="Twitter" border="0"></a>
+<a href="http://blog.infibeam.com/" target="_blank" rel="nofollow" title="Infibeam - Blog"><img src="http://assets.infibeam.com/assets/skins/newcommon/images/icon/blogger32.png" alt="Infibeam Blog" border="0"></a>
+<a href="https://plus.google.com/+infibeam" target="_blank" rel="publisher" title="Google Plus"><img src="http://assets.infibeam.com/assets/skins/newcommon/images/icon/googleplus32.png" alt="Google Plus" border="0"></a>
+<a href="http://pinterest.com/infibeam/" target="_blank" rel="nofollow" title="Pinterest"><img src="http://assets.infibeam.com/assets/skins/newcommon/images/icon/pinterest32.png" alt="Pinterest" border="0"></a>
+</div>
+<div style="margin-top:3px;">
+<form name="SubscribeToNewsLetter" action="/SubscribeToNewsLetter.action" method="POST">
+<span style="color:#fff; font-size:13px; line-height:20px;"><b>Newsletter Subscription</b></span>
+<input type="text" name="subscriberEmail" size="16" style="width:200px; padding:4px; border:1px solid #999;">
+<input type="image" name="submit" src="/assets/skins/newcommon/images/signmeupnew.png" align="absmiddle" style="margin-top:-3px;">
+</form>
+</div>
+</div>
 <table style="text-align:left;" align="center" width="100%">
 <tbody><tr>
 <td valign="top">
@@ -646,7 +738,7 @@ $('.wishListDiv').hide();
 <li><a href="/Music/">Music</a></li>
 <li><a href="/Mobiles/">Mobiles</a></li>
 <li><a href="/Mobile_Accessories/">Mobile Accessories</a></li>
-<li><a href="/Portable_Electronics/">iPods / MP3 Players</a></li>
+<li><a href="/Portable_Electronics/">Gadgets</a></li>
 <li><a href="/Pen_Drives_Computers_Accessories/search">Pen Drives</a></li>
 <li><a href="/Religion_Spirituality/">Religion / Spirituality</a></li>
 <li><a href="/Toys_Games/">Toys / Games</a></li>
@@ -700,39 +792,83 @@ $('.wishListDiv').hide();
 <li><a href="/static/festivals-of-india/index.html" title="Festivals of India">Festivals of India</a></li>
 <li><a href="/static/sitemap.html" title="Site Map">Site Map</a></li>
 </ul>
-<br>
-<h3>Follow Us On</h3>
-<a href="http://www.facebook.com/infibeam" target="_blank" rel="nofollow" title="Facebook"><img src="http://assets.infibeam.com/assets/skins/common/images/icon/facebook32.png" alt="Facebook" border="0" style="float:left;"></a>
-<a href="http://twitter.com/infibeam" target="_blank" rel="nofollow" title="Twitter"><img src="http://assets.infibeam.com/assets/skins/common/images/icon/twitter32.png" alt="Twitter" border="0" style="float:left; margin-left:5px;"></a>
-<a href="http://blog.infibeam.com/" target="_blank" rel="nofollow" title="Infibeam - Blog"><img src="http://assets.infibeam.com/assets/skins/common/images/icon/blogger32.png" alt="Infibeam Blog" border="0" style="float:left; margin-left:5px;"></a>
 </td>
 <td valign="top">
 <h3>Payment Options</h3>
 <ul>
-<li>Credit Cards</li>
-<li>Debit Cards</li>
-<li>PayPal</li>
-<li>Net Banking - (All Major Indian Banks)</li>
+<li>Credit Cards &amp; Debit Cards</li>
+<li>Net Banking &amp; PayPal</li>
 <li>
-<a href="/static/help/cash-on-delivery.html">Cash On Delivery</a>
+<a href="/static/help/cash-on-delivery.html">Cash On Delivery</a> &amp; <a href="/static/help/emi.html">EMI</a>
 </li>
 <li>
-<a href="/static/help/emi.html">EMI <sup style="font-size:10px; font-weight:bold; color:#990000;">New</sup></a>
+<a href="/static/help/wallet.html">Wallet <sup style="font-size:10px; font-weight:bold; color:#990000;">New</sup></a>
 </li>
 </ul>
 <br>
-<img src="http://assets.infibeam.com/assets/skins/common/images/payment.gif" alt="Payment Options" title="Payment Options" border="0">
+<img src="http://assets.infibeam.com/assets/skins/newcommon/images/payment.gif" alt="Payment Options" title="Payment Options" border="0">
+<img src="http://assets.infibeam.com/assets/skins/newcommon/images/AExp_SafeKey_SM_163px.gif" border="0">
 <h3>Safe &amp; Secure Shopping</h3>
-<div align="center"><img src="http://assets.infibeam.com/assets/skins/common/images/entrust.png" alt="Safe and Secure Shopping" title="Safe and Secure Shopping" border="0"></div>
+<div align="center"><img src="http://assets.infibeam.com/assets/skins/newcommon/images/entrust.png" alt="Safe and Secure Shopping" title="Safe and Secure Shopping" border="0"></div>
 </td>
 </tr>
 </tbody></table>
-<div style="border-top:1px solid #cecccc; line-height:30px; text-align:left;" class="copyright">
+<div style="border-top:1px dotted #999; background-color:#e2e2e2; line-height:30px; text-align:left;">
 <span style="float:right;">Infibeam sites: <a href="http://www.buildabazaar.com/" rel="nofollow" target="_blank">BuildaBazaar.com</a> | <a href="http://www.picsquare.com/" rel="nofollow" target="_blank">Picsquare.com</a>&nbsp;&nbsp;</span>
 &nbsp;&nbsp;Copyright © <a href="/Books/dl/" style="cursor: default; text-decoration: none; color: #535353;">2007-2012</a> Infibeam.com and Affiliates
 </div>
 </div>
 <div id="header_submenus" style="display:none;"></div>
 </div>
+<script type="text/javascript">
+adroll_adv_id = "3XEPKCSMY5GPHGDGQUV6DR";
+adroll_pix_id = "5WLFZTGGUFH5PADE2GCDP7";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+__adroll_loaded=true;
+var scr = document.createElement("script");
+var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+scr.setAttribute('async', 'true');
+scr.type = "text/javascript";
+scr.src = host + "/j/roundtrip.js";
+((document.getElementsByTagName('head') || [null])[0] ||
+document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+if(oldonload){oldonload()}};
+}());
+</script>
 
-</body></html>
+
+<style>
+.scrollup{
+position:fixed;
+bottom:10px;
+right: 20px;
+}
+.scrollup {
+background:url(/assets/skins/newcommon/images/icon/scroll.png) no-repeat 0px -60px;
+height:60px;
+width:58px;
+display:block;
+}
+a.scrollup:hover{
+background:url(/assets/skins/newcommon/images/icon/scroll.png) no-repeat 0px 0px;
+}
+</style>
+<script>
+$(document).ready(function(){
+$('.scrollup').fadeOut();
+$(window).scroll(function(){
+if ($(this).scrollTop() > 400) {
+$('.scrollup').fadeIn();
+} else {
+$('.scrollup').fadeOut();
+}
+});
+$('.scrollup').click(function(){
+$("html, body").animate({ scrollTop: 0 }, 1000);
+return false;
+});
+});
+</script>
+<a href="" class="scrollup"></a></body></html>
