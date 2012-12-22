@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moshimonsters.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614071243id_/http%3A//www.moshimonsters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshimonsters.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222232100id_/http%3A//www.moshimonsters.com/privacy) for the most accurate reproduction.*
 
 # Moshi Monsters - Privacy Policy
 
@@ -57,6 +57,8 @@ Upon activation of an account, the information submitted will be used by Mind Ca
 Once an invitation is accepted, the two become online "friends" and can see each other's friends lists, and can use the site to leave moderated messages (for example by posting a message on the friend's "pinboard"). We only allow free-form text in the pin board feature (a brief public, moderated message).
 
 If you want to read more about how our site operates, we encourage you to read our [Parent's Page](https://web.archive.org/parents).
+
+Please note, we may monitor, record, store and use any telephone call, email or other communication with you internally for training purposes and to improve the quality of our customer service.
 
 ### Parental Rights
 
