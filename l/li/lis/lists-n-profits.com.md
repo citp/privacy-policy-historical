@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lists-n-profits.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524034715id_/http%3A//lists-n-profits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lists-n-profits.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222201612id_/http%3A//lists-n-profits.com/privacy.php) for the most accurate reproduction.*
 
 # Build Your Lists & Profits!
 
-[](http://lists-n-profits.com/bannerclick.php?id=12904)  
+[](http://lists-n-profits.com/banclick.php?code=ff4d70de478038c72282b7e4af1d4260)  
 
 
 Lists-N-Profits Privacy Policy
