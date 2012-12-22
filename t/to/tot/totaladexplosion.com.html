@@ -1,0 +1,340 @@
+<!--The following is the downloaded HTML source of the totaladexplosion.com privacy policy that was archived on 2012-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121222234533id_/http%3A//totaladexplosion.com/privacy.php) for the most accurate reproduction.-->
+
+<html><head>
+  <title>Total Ad Explosion</title>
+	<style type="text/css">
+<!--
+    BODY {
+	Background-color: #9f0000;
+	background-image: url(http://totaladexplosion.com/images/background/taeorange.png);
+        background-repeat:repeat;
+	background-position:top;
+	background-attachment:fixed;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+-->
+    </style>
+    <meta name="keywords" content="advertising, free advertising, solo ads, banners ">
+<meta name="description" content="Guaranteed Traffic Through Text Ads, HTML Ads, Banner Ads, Traffic Links, Login Ads, Navigation Links And Solo Ads">
+<meta name="author" content="Jerry Faucette">
+<meta name="copyright" content="2010">
+<meta name="contact" content="jerryfaucette@gmail.com">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- flooble Color Picker header start --> 
+<script language="Javascript">
+// Color Picker Script from Flooble.com
+// For more information, visit 
+//	http://www.flooble.com/scripts/colorpicker.php
+// Copyright 2003 Animus Pactum Consulting inc.
+// You may use and distribute this code freely, as long as
+// you keep this copyright notice and the link to flooble.com
+// if you chose to remove them, you must link to the page
+// listed above from every web page where you use the color
+// picker code.
+//---------------------------------------------------------
+     var perline = 9;
+     var divSet = false;
+     var curId;
+     var colorLevels = Array('0', '3', '6', '9', 'C', 'F');
+     var colorArray = Array();
+     var ie = false;
+     var nocolor = 'none';
+	 if (document.all) { ie = true; nocolor = ''; }
+	 function getObj(id) {
+		if (ie) { return document.all[id]; } 
+		else {	return document.getElementById(id);	}
+	 }
+
+     function addColor(r, g, b) {
+     	var red = colorLevels[r];
+     	var green = colorLevels[g];
+     	var blue = colorLevels[b];
+     	addColorValue(red, green, blue);
+     }
+
+     function addColorValue(r, g, b) {
+     	colorArray[colorArray.length] = '#' + r + r + g + g + b + b;
+     }
+     
+     function setColor(color) {
+     	var link = getObj(curId);
+     	var field = getObj(curId + 'field');
+     	var picker = getObj('colorpicker');
+     	field.value = color;
+     	if (color == '') {
+	     	link.style.background = nocolor;
+	     	link.style.color = nocolor;
+	     	color = nocolor;
+     	} else {
+	     	link.style.background = color;
+	     	link.style.color = color;
+	    }
+     	picker.style.display = 'none';
+	    eval(getObj(curId + 'field').title);
+     }
+        
+     function setDiv() {     
+     	if (!document.createElement) { return; }
+        var elemDiv = document.createElement('div');
+        if (typeof(elemDiv.innerHTML) != 'string') { return; }
+        genColors();
+        elemDiv.id = 'colorpicker';
+	    elemDiv.style.position = 'absolute';
+        elemDiv.style.display = 'none';
+        elemDiv.style.border = '#000000 1px solid';
+        elemDiv.style.background = '#FFFFFF';
+        elemDiv.innerHTML = '<span style="font-family:Verdana; font-size:11px;">Pick a color: ' 
+          	+ '(<a href="javascript:setColor(\'\');">No color</a>)<br>' 
+        	+ getColorTable() 
+        	+ '<center><a href="http://www.flooble.com/scripts/colorpicker.php"'
+        	+ ' target="_blank">color picker</a> by <a href="http://www.flooble.com" target="_blank"><b>flooble</b></a></center></span>';
+
+        document.body.appendChild(elemDiv);
+        divSet = true;
+     }
+     
+     function pickColor(id) {
+     	if (!divSet) { setDiv(); }
+     	var picker = getObj('colorpicker');     	
+		if (id == curId && picker.style.display == 'block') {
+			picker.style.display = 'none';
+			return;
+		}
+     	curId = id;
+     	var thelink = getObj(id);
+     	picker.style.top = getAbsoluteOffsetTop(thelink) + 20;
+     	picker.style.left = getAbsoluteOffsetLeft(thelink);     
+	picker.style.display = 'block';
+     }
+     
+     function genColors() {
+        addColorValue('0','0','0');
+        addColorValue('3','3','3');
+        addColorValue('6','6','6');
+        addColorValue('8','8','8');
+        addColorValue('9','9','9');                
+        addColorValue('A','A','A');
+        addColorValue('C','C','C');
+        addColorValue('E','E','E');
+        addColorValue('F','F','F');                                
+			
+        for (a = 1; a < colorLevels.length; a++)
+			addColor(0,0,a);
+        for (a = 1; a < colorLevels.length - 1; a++)
+			addColor(a,a,5);
+
+        for (a = 1; a < colorLevels.length; a++)
+			addColor(0,a,0);
+        for (a = 1; a < colorLevels.length - 1; a++)
+			addColor(a,5,a);
+			
+        for (a = 1; a < colorLevels.length; a++)
+			addColor(a,0,0);
+        for (a = 1; a < colorLevels.length - 1; a++)
+			addColor(5,a,a);
+			
+			
+        for (a = 1; a < colorLevels.length; a++)
+			addColor(a,a,0);
+        for (a = 1; a < colorLevels.length - 1; a++)
+			addColor(5,5,a);
+			
+        for (a = 1; a < colorLevels.length; a++)
+			addColor(0,a,a);
+        for (a = 1; a < colorLevels.length - 1; a++)
+			addColor(a,5,5);
+
+        for (a = 1; a < colorLevels.length; a++)
+			addColor(a,0,a);			
+        for (a = 1; a < colorLevels.length - 1; a++)
+			addColor(5,a,5);
+			
+       	return colorArray;
+     }
+     function getColorTable() {
+         var colors = colorArray;
+      	 var tableCode = '';
+         tableCode += '<table border="0" cellspacing="1" cellpadding="1">';
+         for (i = 0; i < colors.length; i++) {
+              if (i % perline == 0) { tableCode += '<tr>'; }
+              tableCode += '<td bgcolor="#000000"><a style="outline: 1px solid #000000; color: ' 
+              	  + colors[i] + '; background: ' + colors[i] + ';font-size: 10px;" title="' 
+              	  + colors[i] + '" href="javascript:setColor(\'' + colors[i] + '\');">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>';
+              if (i % perline == perline - 1) { tableCode += '</tr>'; }
+         }
+         if (i % perline != 0) { tableCode += '</tr>'; }
+         tableCode += '</table>';
+      	 return tableCode;
+     }
+     function relateColor(id, color) {
+     	var link = getObj(id);
+     	if (color == '') {
+	     	link.style.background = nocolor;
+	     	link.style.color = nocolor;
+	     	color = nocolor;
+     	} else {
+	     	link.style.background = color;
+	     	link.style.color = color;
+	    }
+	    eval(getObj(id + 'field').title);
+     }
+     function getAbsoluteOffsetTop(obj) {
+     	var top = obj.offsetTop;
+     	var parent = obj.offsetParent;
+     	while (parent != document.body) {
+     		top += parent.offsetTop;
+     		parent = parent.offsetParent;
+     	}
+     	return top;
+     }
+     
+     function getAbsoluteOffsetLeft(obj) {
+     	var left = obj.offsetLeft;
+     	var parent = obj.offsetParent;
+     	while (parent != document.body) {
+     		left += parent.offsetLeft;
+     		parent = parent.offsetParent;
+     	}
+     	return left;
+     }
+
+
+</script>
+<!-- flooble Color Picker header end -->   
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">     
+</head>
+<body>
+
+<table align="center" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0" valign="top" width="908">
+<tbody><tr>
+<td background="http://totaladexplosion.com/images/tbbg.jpg" height="1" bgcolor="#FFFFFF">
+<center><a href="http://totaladexplosion.com/"><img src="http://totaladexplosion.com/images/header.jpg" valign="top" border="0"></a></center>
+
+
+<table align="center" width="900" height="400" cellpadding="10" border="0" bordercolor="#000000">
+<tbody><tr>
+   <td valign="top" width="20%" cellspacing="0" cellpadding="0" bordercolor="#000000" border="0" bgcolor="#FFFFFF">
+
+<div align="center">
+	<table border="0" cellpadding="5" cellspacing="5" width="750" bgcolor="#FFFCCF">
+		<tbody><tr>
+			<td>
+
+<p align="center"><strong>
+<font face="Tahoma" color="#000000" style="font-size: 16pt">Total Ad Explosion 
+Privacy Policy</font></strong></p>
+<p><font face="Tahoma"><br>
+Welcome to Total Ad Explosion (the "Site"). <br>
+<br>
+We understand that privacy online is important to users of our Site, especially 
+when conducting business. This statement governs our privacy policies with 
+respect to those users of the Site ("Visitors") who visit without transacting 
+business and Visitors who register to transact business on the Site and make use 
+of the various services offered by Total Ad Explosion (collectively, 
+"Services") ("Authorized Customers"). <br>
+<br>
+"Personally Identifiable Information" refers to any information that identifies 
+or can be used to identify, contact, or locate the person to whom such 
+information pertains, including, but not limited to, name, address, phone 
+number, fax number, email address, financial profiles, social security number, 
+and credit card information. Personally Identifiable Information does not 
+include information that is collected anonymously (that is, without 
+identification of the individual user) or demographic information not connected 
+to an identified individual. <br>
+<br>
+What Personally Identifiable Information is collected? We may collect basic user 
+profile information from all of our Visitors. We collect the following 
+additional information from our Authorized Customers: the names, addresses, 
+phone numbers and email addresses of Authorized Customers, the nature and size 
+of the business, and the nature and size of the advertising inventory that the 
+Authorized Customer intends to purchase or sell. <br>
+<br>
+How does the Site use Personally Identifiable Information? We use Personally 
+Identifiable Information to customize the Site, to make appropriate service 
+offerings, and to fulfill buying and selling requests on the Site. We may email 
+Visitors and Authorized Customers about research or purchase and selling 
+opportunities on the Site or information related to the subject matter of the 
+Site. We may also use Personally Identifiable Information to contact Visitors 
+and Authorized Customers in response to specific inquiries, or to provide 
+requested information. <br>
+<br>
+How is Personally Identifiable Information stored? Personally Identifiable 
+Information collected by Total Ad Explosion is securely stored and is not 
+accessible to third parties. <br>
+<br>
+What choices are available to Visitors regarding collection, use and 
+distribution of the information? Visitors and Authorized Customers may opt out 
+of receiving unsolicited information from or being contacted by us and/or our 
+vendors and affiliated agencies by responding to emails as instructed, or by 
+contacting us at totaladexplosion@gmail.com <br>
+<br>
+Are Cookies Used on the Site? Cookies are used for a variety of reasons. We use 
+Cookies to obtain information about the preferences of our Visitors and the 
+services they select. We also use Cookies for security purposes to protect our 
+Authorized Customers. <br>
+<br>
+How does Total Ad Explosion use login information? Total Ad Explosionuses login information, including, but not limited to, IP addresses, ISPs, and 
+browser types, to analyze trends, administer the Site, track a user's movement 
+and use, and gather broad demographic information. <br>
+<br>
+How can Visitors correct any inaccuracies in Personally Identifiable 
+Information? Visitors and Authorized Customers may contact us to update 
+Personally Identifiable Information about them or to correct any inaccuracies by 
+emailing us at totaladexplosion@gmail.com <br>
+<br>
+Can a Visitor delete or deactivate Personally Identifiable Information collected 
+by the Site? We provide Visitors and Authorized Customers with a mechanism to 
+delete/deactivate Personally Identifiable Information from the Site's database 
+by contacting totaladexplosion@gmail.com. However, because of backups and records 
+of deletions, it may be impossible to delete a Visitor's entry without retaining 
+some residual information. An individual who requests to have Personally 
+Identifiable Information deactivated will have this information functionally 
+deleted, and we will not sell, transfer, or use Personally Identifiable 
+Information relating to that individual in any way moving forward. <br>
+<br>
+What happens if the Privacy Policy Changes? We will let our Visitors and 
+Authorized Customers know about changes to our privacy policy by posting such 
+changes on the Site. However, if we are changing our privacy policy in a manner 
+that might cause disclosure of Personally Identifiable Information that a 
+Visitor or Authorized Customer has previously requested not be disclosed, we 
+will contact such Visitor or Authorized Customer to allow such Visitor or 
+Authorized Customer to prevent such disclosure. <br>
+<br>
+Links: This web site contains links to other web sites. Please note that when 
+you click on one of these links, you are moving to another web site. We 
+encourage you to read the privacy statements of these linked sites as their 
+privacy policies may differ from ours. </font></p>
+		</td></tr>
+	</tbody></table>
+</div>
+
+
+</td></tr></tbody></table>
+
+<center><font face="Verdana" color="#000000">
+<!-- Auto Copyright Script  -->
+<script language="javascript">
+<!--
+today=new Date();
+y0=today.getFullYear();
+document.write('<span style="font: 10pt arial,sans-serif">Copyright &copy; 2011 - '+y0+' Total Ad Explosion - All Rights Reserved.</span>');
+//--> 
+</script><span style="font: 10pt arial,sans-serif">Copyright © 2011 - 2020 Total Ad Explosion - All Rights Reserved.</span>
+<p align="center">
+<a href="/terms.php" target="_blank&quot;"><font color="#000000">Terms and Conditions</font></a><font color="#000000">|&nbsp;<a href="/earnings.php" target="_blank&quot;"><font color="#000000">Earnings Disclaimer</font></a><font color="#000000">|&nbsp;
+<a href="/spam.php" target="_blank&quot;">
+<font color="#000000">Spam Policy</font></a><font color="#000000">|&nbsp;
+<a href="/privacy.php" target="_blank&quot;">
+<font color="#000000">Privacy Policy</font></a><font color="#000000">|
+<br><br>
+</font></font></font></font></p></font></center></td>
+</tr>
+</tbody></table>
+<center><img src="http://totaladexplosion.com/images/footer.jpg"></center>
+
+
+
+
+</body></html>
