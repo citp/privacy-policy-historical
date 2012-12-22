@@ -1,59 +1,120 @@
-> *The following text is extracted and transformed from the xpdrivers.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617061922id_/http%3A//xpdrivers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpdrivers.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222210456id_/http%3A//xpdrivers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | XP Drivers
 
-This privacy policy applies to the use of xpdrivers.com.
+[](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=200&sealid=112)DRIVER TOOL is certifed as a Trusted Download Program by TRUSTe signifying that the DRIVER TOOL application has been tested TRUSTe for compliance with TRUSTe’s TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding the DRIVER TOOL application, please contact us at DriverTool 535 S. Main Street Cedar City, UT 84720 or by email at info@xpdrivers.com or by phone at (877) 592-4597. If you are not satisfied with our response you can contact TRUSTe [here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=200&sealid=112).
 
-We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site.
+* * *
 
-Log Files and Cookies
+**Effective Date: 05/21/2012**
 
-This website utilizes industry standard analytics packages which gathers limited information on visitors to our website automatically, and stores this anonymous information in server log files. This information may include IP addresses, browser type, basic IP information, referring pages, operating system used and date/time stamps. This information does not identify individual users; it is used only for site administration, as well as for analysis of website usage and trends.
+DRIVERTOOL.COM(“DRIVERTOOL.COM”) privacy policy (“Privacy Policy”) covers the collection and use of personal information (“Personal Information”) that we may gather any time you interact with us, such as when you visit our Web site, purchase a DRIVERTOOL.COM products, or when you contact our customer support or sales departments. This policy describes our data privacy practices, including what type of information is gathered, how DRIVERTOOL.COM uses the information, and how we safeguard your Personal Information when you submit it to us at www.xpdriver.com. At DRIVERTOOL.COM, protecting your privacy is important to us. After all, online privacy and security is what we’re all about.  **You expressly consent to the processing of your Personal Information according to this Privacy Policy.   Personal Information may be processed by DRIVERTOOL.COM in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.**  
+DRIVERTOOL.COM only collects your Personal Information where it is required to provide you the best services and products available. By maintaining an accurate customer database, we are able to send notifications via e-mail to keep you informed about the status of your orders or accounts and to provide updates and technical notices. These messages are essential to the maintenance of your subscription and the functionality of our products and services. **Why DRIVERTOOL.COM Collects Personal Information**
 
-Additionally, cookies may be used to provide easier and faster access to website features such as logins and/or repeat visits. Cookies are very small text files that are stored on personal computers for reference purposes. We do not link the information we store in cookies to any personally indentifiable information you have submitted while on our site.
+**Why DRIVERTOOL.COM Collects Device Hardware and Software Inventory Information**
 
-We use both session ID cookies and persistent cookies. A session cookie expires when your browser is closed, and a persistent cookie may stay on your hard drive for an extended period. Session cookies make it easier for you to navigate our site; persistent cookies can perform such activities as storing your password for forums or blogs so you do not have to sign in every time you visit those areas, and/or may be used to enable us to track and target the interests of our users so as to enhance the overall experience of using our site.
+DRIVERTOOL.COM collects your device’s hardware and software inventory information in order to deliver our driver and other device-associated recommendations, download access, and installation automations provided in our software.  The hardware and software inventory data is essential for our software and servers to match the best updates for a particular system on an ongoing basis.  We retain this information in order to continuously improve our matching intelligence based on aggregating and normalizing the data collected across all systems.
 
-We have no access to or administration abilities over any cookies that are used by any advertisers on our site.
+**What Information We Collect**
 
-Links to Other Websites
+**Personal Information**
 
-This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.
+DRIVERTOOL.COM collects your Personal Information at a variety of points, including when you place an order, (which may require you to provide personal information, including a credit card number, to our commerce providers) register software, request services or take part in other activities on our Web site. For example, we often ask for your Personal Information when you are conferring with one of our customer support technicians, downloading a new product or program update, registering your software or purchasing a product. During these interactions we will collect Personal Information relevant to your transacting with DRIVERTOOL.COM, such as your name, mailing address, e-mail address, shipping address and credit card information along with information about the DRIVERTOOL.COM products you own, such as the activation code or key code, date of purchase and information relating to a support issue. We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. When you register, you will be provided with an option to opt-out of receiving promotional information on our products and services. We will not use your personal information for anything other than what you have intended it for. Please be aware that if you prefer not to provide us with your Personal Information, because such information may be necessary for us to provide certain services, we may not be able to, or may choose not to, make such services available to you.
 
-Registration and Use of Personal Information
+**Device Hardware and Software Inventory Information**
 
-Registration is not required in order to use or access this website. However, this site may make forums, blogs, message boards or similar available to its users. You may be required to register for these features, particularly if you wish to leave comments or provide articles.
+The scanning technology present in our software is designed to collect all hardware ID’s and software signatures present in the system and passes this data back to our servers.  We use this information so that our servers can respond back to our software with a list of recommended drivers and other software relevant to the discovered hardware.  While in trial-mode (pre-purchase) this information is not tied in any way to any personal information.  Post-purchase and after activation of the software the inventory data is linked to your personal information so that it can be shown as historical information in the software, used as part of our free driver backup service,  as well as historical scan information available in your personalized <http://xpdrivers.com/account/>  web portal (all features of our software and services).  This information is also used to handle any technical, product, or customer support requests that you may send to us.  Please be aware that if you prefer not to provide this inventory information, our software will be unable to provide any of our services.
 
-If you do register, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent.
+**Regarding Children**
 
-Please note that if you post comments or articles to any forum, blog or message board on this site, any personally identifiable information you provide in those comments or articles may be read, collated and used by anyone viewing them. As such, we are not responsible for personally identifiable information you may choose to make available through these channels.
+DRIVERTOOL.COM does not intentionally gather Personal Information about visitors who are under the age of 13.
 
-We also provide visitors to our website the opportunity to opt-in to receive communications from us. In this case, we ask the visitor for his or her email address and name. These communications will include our regular newsletter, product promotions and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, or all, of these communications by emailing us at info@xpdrivers.com.
+**Cookies and Other Technologies**
 
-Again, if you provide us with your email address and/or name for the purposes of receiving communications from us, this information will not be shared with any third-party organization except with your express consent.
+Following common e-commerce practices, DRIVERTOOL.COM uses “cookies” and other technologies to collect non-personal data that enables us to better understand and improve the usability, performance and effectiveness of DRIVERTOOL.COM’s Web site, and for reporting purposes to track sales. Cookies are unique text files sent to your browser and stored on your computer. We do not store any personally identifiable information with these cookies. Use of these third party cookies by our tracking utility company or service providers is not governed by this Privacy Policy. We do not have access or control over these cookies.
 
-Access to Personally Identifiable Information
+If you do not want DRIVERTOOL.COM to send cookies to your browser, you can set your browser options to reject cookies or notify you when a Web site tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use some of our Web site services.
 
-If your personally identifiable information changes, or if you no longer wish us to possess your information, you may request correction, updating, or deletion of your information by emailing us at info@xpdrivers.com.
+Additionally, DRIVERTOOL.COM gathers general information about visits to our Web site and stores this information in log files. This information is stored in anonymous profiles and is not associated with a user’s account. This information includes the number of total visits to our Web site, and which browser is used to view our Web site (including the version number). No Personal Information is contained in this data. Our current partners help us to track our website usage. No personally identifiable information is collected. DRIVERTOOL.COM uses this information to understand traffic and downloads on our Web site, enabling us to improve the site, provide the best online experience possible and improve our ability to serve our customers.
 
-Security
+On occasion, DRIVERTOOL.COM also gathers general information about click-through usage of key features within our software to confirm that software updates are providing the intended user experience.  This information is collected in aggregate from and stored in a manner that cannot be associated with any individual.  The information includes total clicks on select features available in our software and is used to understand how our software is used, enabling us to improve the software, and provide the best possible user experience for our customers.
 
-We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore as is the case with any organization – we are not in a position to guarantee the absolute security of your information.
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
 
-You may submit any questions you may have about our security procedures by emailing us at info@xpdrivers.com.
+**Sharing Your Personal Information**
 
-Links to Other Websites
+DRIVERTOOL.COM is committed to protecting your privacy. DRIVERTOOL.COM will not, under any circumstances, share, rent or sell your Personal Information in ways other than as outlined in this privacy policy nor does DRIVERTOOL.COM trade or exchange mailing lists with any other organization. Furthermore, DRIVERTOOL.COM only shares your Personal Information with our contractors that assist us in our efforts to fulfill our obligations to you, and then only with partners that commit to adhere to the same level of commitment as DRIVERTOOL.COM to protect your privacy and data. We use credit card processing companies to bill you for goods and services, an email service provider to send out emails on our behalf and a customer support provider to supply live assisted-support. These companies do not retain share, store or use personally identifiable information for any other purposes.
 
-This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.
+DRIVERTOOL.COM maintains this information; but we reserve the right to disclose your Personal Information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website. If you require assistance, and would like someone to follow-up with you, then you will be asked to provide an email address. The email address is stored log files by a third party, but is not utilized in any way by them and remains our information.
 
-Legal Disclaimer
+If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our website.
+**How We Communicate with You**
 
-Contact Details
+DRIVERTOOL.COM has an optional e-mail service for customers who wish to periodically receive promotional information, such as general product, service and DRIVERTOOL.COM news. Users can sign up for emails through one of the following processes: (1) an online Purchase; (2) registering through the full application; (3) registering through the trial application; and (4) signing up on the DRIVERTOOL.COM website.
 
-If you have any questions or concerns regarding this privacy policy, or you wish to contact us by:
+Customers are provided the option to opt-out within each e-mail. If you no longer wish to receive DRIVERTOOL.COM communications, you may “unsubscribe” from our mailing program at any time in the following ways:
 
-info@xpdrivers.com
+  * By clicking on the auto-unsubscribe link included in each e-mail
 
-This privacy policy was last updated on September 24, 2009.
+
+  * By contacting our technical support department at [support@xpdrivers.com](mailto:support@xpdrivers.com)
+
+
+  * By visiting your  **Account**  page at [http://xpdrivers.com/account/ ](http://xpdrivers.com/account/)   and changing your preference on the form.
+
+
+
+We will then update our database and take reasonable measures so that no further promotional correspondence should be sent to the e-mail address. You may, however, still receive transactional messages.
+
+**Transactional Messages**
+
+DRIVERTOOL.COM sends required notifications via e-mail to keep you informed of the status of your orders or accounts and to provide updates and technical notices. This service is used for messages that are important for the maintenance of your subscription and the functionality of our services. When you purchase or register a product online, we require an e-mail address for completion of the transaction, which we will use for these communications. In order to stop receiving these notifications, please contact our technical support team at [support@xpdrivers.com](mailto:support@xpdrivers.com). You will be opted out of further communications within 10 business days.
+
+**Ways to Update Your Personal Information**
+
+DRIVERTOOL.COM carefully maintains our customer database in an effort to keep your Personal Information accurate for the purposes for which it is used. It is your right to be able to update your Personal Information as needed. You can correct out-of-date information, update information, remove information, delete your Personal Information or review any information previously provided to DRIVERTOOL.COM by visiting account. DRIVERTOOL.COM or by contacting our support department at [support@xpdrivers.com](mailto:support@xpdrivers.com). Changes will be implemented within 10 business days. Please note, however, that we may retain certain information relating to software licensing and your information may also be retained in our archives. When contacting customer service, we will verify your identification through the use of security questions before sharing any Personal Information as it appears in our customer database.
+
+**DRIVERTOOL.COM’s Commitment to Data Security**
+
+DRIVERTOOL.COM has security measures in place, such as the following, to protect against the loss, misuse and alteration of your Personal Information in our customer database. Personal Information provided to DRIVERTOOL.COM is stored in secure facilities with access restricted to authorized personnel only. We have put in place a series of access-control procedures required for retrieval of personal information. The DRIVERTOOL.COM Web site is regularly tested for security breaches to protect against unauthorized viewing of Personal Information.
+
+To provide secure credit card processing when ordering, orders placed on our Web site are processed through a payment gateway which operates under its own privacy policy.
+
+DRIVERTOOL.COM DOES NOT store credit card information. DRIVERTOOL.COM works with third parties to serve as a trusted intermediary to handle e-commerce transactions with our customers. Our commerce partners handle e-commerce on secure servers which encrypt all of our customers’ personal information. To learn more about how our commerce partners manage the privacy of information in conjunction with these e-commerce transactions, please see their complete Privacy Statement located on their purchase pages.
+
+Although we make good faith efforts to store the Personal Information we collect in a secure operating environment that is not accessible to unauthorized users, we cannot guarantee complete security.
+
+**Links to other sites**
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of DRIVERTOOL.COM.  If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+
+**Public forums**
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at support@xpdrivers.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+**Acceptance of this Privacy Policy**
+
+By using the Web site or any services provided through the Web site, you expressly consent to the use and disclosure of information as described in this Privacy Policy.
+
+**Privacy Policy Revisions and Notifications**
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, and by means of a prominent notice on our home page, posted 30 calendar days prior to implementing the change.
+
+**Contact Information**
+
+For questions about this policy as well as product-related technical support: <http://xpdrivers.com/account-support-contact/>
+
+DriverTool.com
+
+535 MAIN ST STE 3
+
+Cedar City, UT 84720
+
+Phone: (877) 592-4597
+
+Fax: (877) 592-2732
+
+[support@xpdrivers.com](mailto:support@xpdrivers.com)
