@@ -1,48 +1,49 @@
-> *The following text is extracted and transformed from the vidshare.ws privacy policy that was archived on 2008-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080218174413id_/http%3A//www.vidshare.ws/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidshare.ws privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222052734id_/http%3A//vidshare.ws/privacy.php) for the most accurate reproduction.*
 
-# Vidshare.ws - Privacy Policy
+# vidshare - Just watch it!
 
-### _**Privacy Policy**_
+### Privacy
 
-This privacy policy describes how vidshare.ws and its subsidiaries and/or affiliates treat personal information when you use our services, including information provided when you use vidshare. In addition, the following describes privacy practices specific to vidshare. To understand how we treat the information you give us as you use vidshare, you should read this policy.  
-Personal Information
+vidshare Limited recognizes that its customers, visitors, users, and others who use vidshare value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the vidshare site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.
 
-  * Non-Account Activity. You can watch videos on vidshare without having a vidshare Account.
+Please note that any video, image, or other content posted at the direction of users onto the vidshare site becomes published content and is not considered personally identifiable information subject to this privacy notice.
 
+The Information vidshare Limited Collects
 
-  * Account-Related Activity. Certain other activities on vidshare like uploading videos, posting comments, or watching restricted videos require you to have a vidshare Account. We ask for some personal information when you create a vidshare Account, including your email address and a password, which is used to protect your account from unauthorized access.
+ **User-provided information:** You provide certain personally identifiable information (such as your name and email address) to vidshare when choosing to participate in various activities on the sites such as uploading videos or posting messages.
 
-
-  * Usage Information. We may record information about your usage, such as when you use vidshare, the channels, groups, and favorites you subscribe to, the contacts you communicate with, and the frequency and size of data transfers, as well as information you display or click on in vidshare (including UI elements, settings, and other information). If you are logged in, we may associate that information with your account.
-
-
-  * Content Uploaded to Site. Any personal information or video content that you voluntarily disclose on the vidshare site becomes publicly available and can be collected and used by others.
+  * **Cookies Information:** When you visit the vidshare site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. vidshare uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the vidshare site may not function properly if the ability to accept cookies is disabled.
+  * **Log File Information:** When you use the vidshare site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
 
 
 
- **Uses**
+The Way vidshare Retains Information
 
-  * If you submit personally identifiable information to us through the vidshare Site, we use your personal information to operate, maintain, and provide to you the features and functionality of the vidshare Site, as well as provide special personalized features to you.
-
-
-  * Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the vidshare Site and other Users can contact you through messages and comments. Any videos that you submit to the vidshare Site may be redistributed through the internet and other media channels, and may be viewed by the general public.
-
-
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major vidshare Site changes or for customer service purposes).
-
-
-  * We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the vidshare Sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
-
-
-  * We use cookies, clear gifs, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the vidshare Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+  * To preserve the integrity of website databases, vidshare's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to vidshare, you are consenting to store that information indefinitely.
 
 
 
- **Your Choices**
+The Way vidshare Limited Uses Information
 
-  * You may, of course, decline to submit personally identifiable information through the vidshare Sites, in which case you can still view videos and explore the vidshare Sites, but vidshare may not be able to provide certain services to you. The privacy notices of those services govern the use of your personal information associated with them.
+  * If you submit personally identifiable information to us through the vidshare website, then we use your personal information to operate, maintain, and provide to you the features and functionality of the site.
+  * Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other users when you upload videos or send messages through the vidshare site, and other users can contact you through messages and comments. Any videos that you submit to the vidshare site may be redistributed through the Internet and other media channels, and may be viewed by the general public.
+  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes.
 
 
-  * You may update or correct your personal profile information and email preferences at any time by visiting your account profile page.
+
+When vidshare Discloses Information
+
+  * We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
+  * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+  * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
+  * vidshare Limited also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that, in good faith, is appropriate or necessary to enforce our terms of use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of vidshare Limited, our users or others.
 
 
+
+In the Event of Merger, Sale, or Bankruptcy
+
+In the event that vidshare Limited is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+
+Changes and updates to this Privacy Notice
+
+This privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the vidshare site constitutes your agreement to this privacy notice and any future revisions.
