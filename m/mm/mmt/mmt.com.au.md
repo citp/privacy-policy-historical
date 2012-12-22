@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the mmt.com.au privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523102242id_/http%3A//www.mmt.com.au/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmt.com.au privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222171813id_/http%3A//www.mmt.com.au/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Multimedia Technology
 
-This Privacy Policy applies to all personal information collected by Multimedia Technology Pty Ltd (Multimedia) directly or indirectly from you in the ordinary course of business. 
+This Privacy Policy applies to all personal information collected by Multimedia Technology Pty Ltd (Multimedia) directly or indirectly from you in the ordinary course of business.
 
 ## Protecting personal information
 
-We at Multimedia are committed to protect personal privacy. Every individual has a right to control the collection & use of their personal information. Providing personal information is an act of trust. At Multimedia we consider this very seriously. Multimedia will use your personal information only for the purpose they were collected, unless consent is given otherwise. 
+We at Multimedia are committed to protect personal privacy. Every individual has a right to control the collection & use of their personal information. Providing personal information is an act of trust. At Multimedia we consider this very seriously. Multimedia will use your personal information only for the purpose they were collected, unless consent is given otherwise.
 
 ## Collecting personal information
 
-Multimedia will collect personal information when requested you to fill applications & forms, receive letters from you, over telephone queries, web queries & queries in person. We also collect information from credit reporting agencies, through trade references & third parties. 
+Multimedia will collect personal information when requested you to fill applications & forms, receive letters from you, over telephone queries, web queries & queries in person. We also collect information from credit reporting agencies, through trade references & third parties.
 
 ## Using personal information
 
@@ -26,11 +26,11 @@ Personal information may be used for following purposes:
 
 ## Using tracking technologies
 
-Multimedia web site uses "cookies" to collect information related to access & browsing the web site, open or preview of pages. These devices help Multimedia to monitor and record the usage of different parts of the web site. Cookies do not identify users personally, although they identify the user's browser. 
+Multimedia web site uses "cookies" to collect information related to access & browsing the web site, open or preview of pages. These devices help Multimedia to monitor and record the usage of different parts of the web site. Cookies do not identify users personally, although they identify the user's browser.
 
 ## Right to access, change & delete information
 
-Individuals have the right to access and review their personal information available in the Multimedia database. This information may be amended by informing Multimedia in writing. Similarly a request could be made to delete such information. On receipt of request all reasonable steps will be taken to delete information unless it is not appropriate for legal reasons. Multimedia will unable to provide products and/or services to you on deletion of information. 
+Individuals have the right to access and review their personal information available in the Multimedia database. This information may be amended by informing Multimedia in writing. Similarly a request could be made to delete such information. On receipt of request all reasonable steps will be taken to delete information unless it is not appropriate for legal reasons. Multimedia will unable to provide products and/or services to you on deletion of information.
 
 ## Disclosure of information
 
@@ -49,7 +49,7 @@ Multimedia may need to disclose your personal information to:
 
 ## Contact by Multimedia
 
-Multimedia may use your personal information to identify a product or service that may benefit you. Further Multimedia may contact you in time to time to inform you about new or existing products or services. 
+Multimedia may use your personal information to identify a product or service that may benefit you. Further Multimedia may contact you in time to time to inform you about new or existing products or services.
 
 ## Up to date & storage of information
 
