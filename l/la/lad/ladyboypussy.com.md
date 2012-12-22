@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ladyboypussy.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606060642id_/http%3A//www.ladyboypussy.com/tour2/index.php%3Fsection%3D479%26nats%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladyboypussy.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222030810id_/http%3A//www.ladyboypussy.com/tour4/index.php%3Fsection%3D867%26nats%3D) for the most accurate reproduction.*
 
-# Ladyboy Pussy v3 - Real Post-Op Ladyboys
-
-## TERMS AND CONDITIONS 
+# Ladyboy Pussy v4 - Real Post-Op Ladyboys
 
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this site. This is an adult site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this site.
 
