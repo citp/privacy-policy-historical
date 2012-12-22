@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhrd.gov.in privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503224612id_/http%3A//mhrd.gov.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhrd.gov.in privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222173520id_/http%3A//mhrd.gov.in/privacy) for the most accurate reproduction.*
 
 # Home: Ministry of Human Resource Development : Government of India
 
