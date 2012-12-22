@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vcommission.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606122657id_/http%3A//www.vcommission.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcommission.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222144306id_/http%3A//www.vcommission.com/privacy-policy) for the most accurate reproduction.*
 
 # vCommission Privacy Policy | CPA Affiliate Network | Affiliate Marketing network | International Affiliate Network
 
