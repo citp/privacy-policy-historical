@@ -1,33 +1,104 @@
-> *The following text is extracted and transformed from the pornflakez.com privacy policy that was archived on 2012-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120307042622id_/http%3A//www.pornflakez.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornflakez.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222174619id_/http%3A//arrangementfinders.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Pornflakez
+# Privacy Policy - Arrangement Finders
 
-## PRIVACY
+## Privacy Statement
 
-This document details important information regarding the use and disclosure of User Data collected on Pornflakez.com 
+Established Men ("we," "us" or "Arrangement Finders") is firmly committed to privacy. The following discloses our information gathering and dissemination practices for this website (the "Website") and use of our service ("Service"). By accessing the Website, you accept this Privacy Statement and agree to the terms, conditions and notices contained or referenced herein. We reserve the right to make changes to this Privacy Statement at any time without prior notice and such changes become effective once a revised Privacy Policy is posted on our Website. Your continued use of our Website constitutes your acceptance of such changes. Accordingly, you should review this Privacy Statement from time to time for changes. THIS PRIVACY STATEMENT WAS LAST UPDATED ON: August 26, 2009. 
 
-The security of your Data is very important to Pornflakez.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused. 
+The protection of your privacy is very important and we have adopted the following practices to safeguard the confidentiality of your personal information.
 
-This site expressly and strictly limits its membership and/or viewing privliges to adults 18 years of age and over or having attentaind the age of majotity in their comunity. All persons who do not meet tis criteria are strictly forbiden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority. 
+### What Information is collected?
 
-**DATA COLLECTED**
+We collect two types of information: personally identifiable information ("PII") and non-personally identifiable information ("Non-PII"), which is also referred to as aggregate and anonymous data.
 
-Personal Information: Non-Registered users can watch videos without registering and without any information being collected and processed. Howverver the visitor's IP address will be recorded in the event that there is any misappropriationof information and/or content. Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information. Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others. Cookies: When you visit Pornflakez.com, we may send one or more cookies to your computer that uniquely identifies your browser session. Pornflakez.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly. Log File Information: When you visit Pornflakez.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request. Emails: If you contact us, we may keep a record of that correspondence. 
+### What information do you gather automatically from visitors?
 
-**USES**
+We use your IP address (the series of numbers associated with your individual computer) to help us maintain our site, identify problems with our server, and to provide you with an enhanced experience.
 
-Your Personally identifiable information submitted to Pornflakez.com is used to provide to the user the website's features and special personalised features. Your chosen usernaname (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the Pornflakez.com private mail, etc. Other Users can contact you through, private messages. Any videos that you submit to Pornflakez.com may be redistributed through the internet and other media channels, and may be viewed by the general public. We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent. We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes). We analyse aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the Pornflakez.com user-experience. 
+We do use cookies (small pieces of removable data that is stored by the web browser on your computer, mobile phone or other device that identifies your computer, mobile phone, or other device when you visit our Site or Service) to identify traffic that comes through advertising, to facilitate a more user friendly experience, to track aggregate site usage patterns for analytics and troubleshooting purposes, detect fraud and to protect both You and Us. Cookies are small pieces of information that a web site places on your computer's hard drive so we know it's you when you visit. For example, we use cookies to store your login ID (but never your password) to make it easier for you to login whenever you come back to the Service. This helps us to create a personalized experience for you when you visit our site. The use of cookies is a very common practice on the Internet and provides for a more customized user experience of the Website. Most web browsers are initially set up to accept cookies. If you are uncomfortable with this, you can disable all cookies through your browser settings. However, should you choose to disable all cookies, this will impact and/or prevent your ability to access and use the Service.
 
-**DISCLOSURE OF INFORMATION**
+### What information will you ask me for?
 
-if under duty to do so Pornflakez.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of Pornflakez.com or our subscribers or others. This includes exchanging information with other companies and organisations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is Pornflakez.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party. Should you deliberatlly upload any illegal material PormHub.com shall forward all available information to all relevant authrities and this without notice. \- We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
+When you establish an Ad Profile on the Website you will be asked for some general identifying information which will enable us to provide you with this individualized service. We gather contact information (e.g. your email address), and demographic information (e.g. city of residence or age). If you choose to become an Advertiser, we also collect financial information (your credit card number and expiry date).
 
-**SECURITY**
+While register and creating an Ad Profile, you will be given the option of creating a pseudonymous profile (username, password and personal description) where your gender is applicable. Personal information that may identify you is not permitted on your Ad Profile. Please note, you may upload photos to your Ad Profile. The type of photos you upload may clearly identify you.
 
-Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
+### How will this information be used and who has access to it?
 
-Unfortunately, the transmission of information via the Internet is not completely secure. Pornflakez.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Pornflakez.com and you do so at your own risk. 
+#### Non-PII
 
-**YOUR RIGHTS**
+Your Non-PII is used to personalize your experience, allow other members to find you through a search, to compose your personal profile - which is associated with a pseudonymous identity you have created - and to deliver targeted advertising and promotional offers to you from external companies that are of the highest relevance to your demographic profile. We may share some of this information for our own analysis and research purposes with our professional advisors or consultants and third party partners.
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at info[at]Pornflakez.com. 
+#### PII
+
+The PII we collect from you is used in the course of providing our service to you and to improve the content and functionality of our Website or customize the layout of our pages for each individual member. We may use your contact information to send you valuable updates and timely notices of promotions and mailbox status reports. We may also use your PII to send electronic mail to you, for the purpose of informing you of changes or additions to the Service, or of any Arrangement Finders products and services. 
+
+The PII we collect is not released to any non-affiliated third party without your prior consent except as provided below:
+
+### Financial Information
+
+Under some circumstances we may require certain additional information, including but not limited to your credit card billing information. We use this financial information, including your name, address, and other information to bill you for use of our services and products. By purchasing a subscription, making a purchase, or engaging in any other kind of activity or transaction that uses financial information on the Website, you consent to our providing of your financial information to our service providers and to such third parties as we determine necessary to support and process your activities and transactions, as well as to your credit card issuer for their purposes. These third parties may include the credit card companies, data processing companies and banking institutions used to process and support your transaction or activity.
+
+### Trusted Third-Parties
+
+Unless you opt out, we may share PII about our users sometimes in connection with Non-PII with service providers that may be associated with us to perform functions on our behalf. In addition, unless you opt out, from time to time we may share and/or sell PII about our users (such as your mailing or email addresses) with selected third parties, so they can offer goods and services that we believe may be of interest or benefit to our users. If you prefer not to receive messages from these third parties you may notify us by opting out at any time by going to the "Account Settings" section of your Ad Profile as described more fully below.
+
+### Legal Request
+
+We may disclose your PII to respond to law enforcement requests; or where required by applicable laws, court orders, or government regulations; or to protect against misuse or unauthorized use of our site; or to protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
+
+### Sale or Merger
+
+We may disclose and sell PII in connection with the sale, assignment, or other transfer of the business or a portion of the business of our Website, including a corporate merger, consolidation, restructuring, sale of assets or other corporate change of our direct or indirect parent companies that affects us.
+
+### Affiliate Entities
+
+We may share much of our data, including PII about you, with our parent, subsidiary and other affiliated companies (each an "Affiliate") that are committed to serving your online needs and related services. To the extent that these entities have access to your PIIinformation, they will give such information at least the same level of protection treat it at least as protectively as they give to treat information they obtain from their other users. Our Affiliates will follow privacy practices no less protective of all users than our practices described in this document, to the extent allowed by applicable law. It is possible that we or one or more of our Affiliates, or any combination of such, could merge with or be acquired by another business entity. In connection with the due diligence review involving such a potential transaction, we may share some or all of your PII with potential acquirers, merger partners or investors, and their agents (including professionals). We would require that these third parties sign non-disclosure agreements and would endeavor to disclose as little PII as possible. Should such a combination then in fact occur, you should expect that we would share some or all of your information in order to continue to provide the Service.
+
+### How long do you keep the information I've provided you?
+
+We keep the information you have given us for at least as long as your Ad Profile stays active or hidden.
+
+### Accessing and updating your email notification preferences, personal information and public information
+
+You have the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide information visible to the public users of the Website at anytime by going to the 'Account Settings' section on your Ad Profile.
+
+Please be aware that it may take several hours for any custom changes you make to take effect on the public areas of the system. Please also note that changing or deleting your information through the 'Account Settings' section of the system, or opting-out of email notifications from us, will only change or delete the data in our database for the purpose of future activities and communications. These changes and deletions will not change or delete information or emails that are queued to be sent or have already been sent.
+
+### Unsolicited Contact (SPAM)
+
+Arrangement Finders, our affiliates and our channel partners do not send unsolicited email at any time. Members are automatically opted in to receive email messages to the email address they register on their Ad Profile. You may opt-out of receiving email messages at any time. 
+
+### Do you monitor online behavior?
+
+Our users communicate with each other through on-site Mail Messaging and Instant Messaging. While we do not, as a rule, moderate or monitor advertisers Members private exchanges, we reserve the right to do so if we suspect users of being under the age of 18 or of using our service for the purpose of solicitation or any other violation of our Terms & Conditions or Privacy Statement. Submissions that appear on the public area of the site are moderated and, if necessary, we reserve the right to edit, delete, remove or not use any communication on a public area of the site.
+
+### Affiliates
+
+When you register to become an Affiliate, you will be asked for contact information. Your information will only be used by internal staff and will never be shared with anyone external to the company other than our Affiliates or a related companies, and any of their respective advisors and representatives.
+
+### Other Information Collectors
+
+Except as otherwise expressly described in this Privacy Statement, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are on our Website (including links to third party sites) or on other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. To the extent that we use third party advertisers or have third party e-commerce partners, they adhere to their own privacy policies. Since we do not control the privacy policies of any third parties, you should investigate their policies before you disclose your personal information to them.
+
+### Security
+
+We treat data as an asset that must be protected against loss and unauthorized access. To safeguard the confidentiality and security of your PII, we use industry standard practices and technologies including but not limited to "firewalls", encrypted transmission via SSL (Secure Socket Layer) and strong data encryption of sensitive personal and/or financial information when it is stored to disk.
+
+### Canada's Personal Information Protection and Electronic Documents Act
+
+The Canadian government has enacted the Personal Information Protection and Electronic Documents Act. That Act outlines the way personal information may be used in Canada, and we fully adhere to it. That Act defines personal information as anything that identifies an individual, such as, for example, their name, telephone number, age, home address, email address, gender. You may at any time contact us regarding our use of your personal information by using the Contact Form referred to below or at the mailing address referred to below (you may also change your personal information usage profile by accessing the "Manage Profile" or "Message Center" sections of your Ad Profile).
+
+### California Privacy Rights
+
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask Arrangement Finders for a notice describing what categories of personal customer information we share with third parties or affiliates for those third parties or affiliates direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with whom it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the address listed below. Please note that it may take 60 days from receipt of your written request to receive the notice. 
+
+To contact us concerning Privacy issues, please use the [Contact Form](https://web.archive.org/contact_us "Contact Form"). All other inquiries should be sent using our [Contact Us](https://web.archive.org/contact_us "Contact Us") section.
+
+**Attn:** Privacy Officer   
+Arrangement Finders Inc. 
+
+(DBA Arrangement Finders)   
+20 Eglinton Ave West, Suite 1200  
+Toronto, ON Canada M4R 1K8 
