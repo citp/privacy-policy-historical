@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the transportexchangegroup.com privacy policy that was archived on 2012-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531013705id_/http%3A//www.transportexchangegroup.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the transportexchangegroup.com privacy policy that was archived on 2012-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121222031352id_/http%3A//www.transportexchangegroup.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US"><head>
 <meta charset="UTF-8">
@@ -9,7 +9,7 @@
 <meta name="rating" content="Safe For Kids"> 
 <meta name="copyright" content="Copyright Transport Exchange Group. All Rights Reserved."> 
 <meta name="author" content="Pixel Perfection - www.pixelperfection.com.au">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="stylesheet" type="text/css" media="all" href="http://www.transportexchangegroup.com/wp-content/themes/enterprise/style.css">
 <link href="http://www.transportexchangegroup.com/wp-content/themes/enterprise/prettyPhoto.css" rel="stylesheet" type="text/css">
@@ -17,15 +17,17 @@
 <link rel="shortcut icon" href="http://www.transportexchangegroup.com/wp-content/uploads/2011/03/favicon.jpg">
 <link rel="alternate" type="application/rss+xml" title="Transport Exchange Group » Feed" href="http://www.transportexchangegroup.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Transport Exchange Group » Comments Feed" href="http://www.transportexchangegroup.com/comments/feed/">
+<link rel="stylesheet" id="beseen-fancybox-css" href="http://www.transportexchangegroup.com/wp-content/themes/enterprise/css/fancybox.css" type="text/css" media="all">
 <link rel="stylesheet" id="wp-pagenavi-css" href="http://www.transportexchangegroup.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css" type="text/css" media="all">
 <link rel="stylesheet" id="wpmega-basic-css" href="http://www.transportexchangegroup.com/wp-content/plugins/wp-uber-menu/styles/basic.css" type="text/css" media="all">
 <link rel="stylesheet" id="wpmega-shiny-black-css" href="http://www.transportexchangegroup.com/wp-content/plugins/wp-uber-menu/styles/skins/shinyblack.css" type="text/css" media="all">
-<script type="text/javascript" src="http://www.transportexchangegroup.com/wp-content/themes/enterprise/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
 <script type="text/javascript" src="http://www.transportexchangegroup.com/wp-content/themes/enterprise/js/jquery.prettyPhoto.js"></script>
 <script type="text/javascript" src="http://www.transportexchangegroup.com/wp-content/themes/enterprise/js/cufon-yui.js"></script>
 <script type="text/javascript" src="http://www.transportexchangegroup.com/wp-content/themes/enterprise/js/Vegur_400.font.js"></script>
 <script type="text/javascript" src="http://www.transportexchangegroup.com/wp-content/themes/enterprise/js/fade.js"></script>
 <script type="text/javascript" src="http://www.transportexchangegroup.com/wp-content/themes/enterprise/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="http://www.transportexchangegroup.com/wp-content/themes/enterprise/js/jquery.fancybox.js"></script>
 <script type="text/javascript" src="http://www.transportexchangegroup.com/wp-includes/js/comment-reply.js"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.transportexchangegroup.com/xmlrpc.php?rsd">
 <link rel="prev" title="Legal" href="http://www.transportexchangegroup.com/legal/">
@@ -35,7 +37,23 @@
 	<!--[if lt IE 8]>
 	<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script>
 	<![endif]-->
-	<script type="text/javascript">
+	<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<link rel="stylesheet" type="text/css" href="http://assets.cookieconsent.silktide.com/current/style.min.css">
+<script type="text/javascript" src="http://assets.cookieconsent.silktide.com/current/plugin.min.js"></script>
+<script type="text/javascript">
+// <![CDATA[
+cc.initialise({
+	cookies: {
+		analytics: {}
+	},
+	settings: {
+		hideprivacysettingstab: true,
+		bannerPosition: "bottom"
+	}
+});
+// ]]>
+</script>
+<!-- End Cookie Consent plugin --><script type="text/javascript">
 		var wpmegasettings = {};
 		wpmegasettings.hoverinterval = 100;
 		wpmegasettings.noconflict = false;		
@@ -72,7 +90,13 @@ var $ = jQuery.noConflict();
 		/* for portfolio prettyPhoto */
 		$("#gallery a[rel^='prettyPhoto']").prettyPhoto({theme:'dark_rounded'});
 
+		if (top !== self) {
+			$( 'html' ).addClass('iframe');
+		}
 		
+		if( $( '.youtubevid' ).length ) {
+			$( '.youtubevid' ).fancybox({ padding : '0', titleShow : false });
+		}
     });
 </script>
 
@@ -83,8 +107,10 @@ Cufon.set('engine', 'canvas');
 <![endif]-->
 
 <script type="text/javascript">
-	 Cufon.replace('h1') ('h1 a') ('h2') ('h3') ('h4') ('h5') ('h6') ('blockquote') ('.styled') ('.txtbold') ('#logo .desc') ('#logo') 
-</script>
+	if (top === self) {
+			Cufon.replace('h1') ('h1 a') ('h2') ('h3') ('h4') ('h5') ('h6') ('blockquote') ('.styled') ('.txtbold') ('#logo .desc') ('#logo') 
+		}
+	</script>
 
 <script type="text/javascript">
 var $ = jQuery.noConflict();
@@ -330,14 +356,14 @@ United Kingdom</p>
 
 <div id="su-footer-links" style="text-align: center;"></div><script type="text/javascript" src="http://www.transportexchangegroup.com/wp-content/plugins/wp-uber-menu/js/hoverIntent.js"></script>
 <script type="text/javascript" src="http://www.transportexchangegroup.com/wp-content/plugins/wp-uber-menu/js/wpmegamenu.min.js"></script>
-<!--stats_footer_test--><script src="http://stats.wordpress.com/e-201222.js" type="text/javascript"></script>
+<!--stats_footer_test--><script src="http://stats.wordpress.com/e-201251.js" type="text/javascript"></script>
 <script type="text/javascript">
 st_go({blog:'18109557',v:'ext',post:'593'});
 var load_cmc = function(){linktracker_init(18109557,593,2);};
 if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
 else load_cmc();
 </script>
-<script type="text/javascript">
+<script type="text/plain">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-1194858-5']);
