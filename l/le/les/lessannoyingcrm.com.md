@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lessannoyingcrm.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531225637id_/http%3A//www.lessannoyingcrm.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessannoyingcrm.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222055158id_/http%3A//www.lessannoyingcrm.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy and Security Policies
 
@@ -19,6 +19,7 @@ Less Annoying CRM also collects usage data and statistics about its users' behav
 
 As a company, we are dedicated to keeping your personally identifiable information out of the hands of unauthorized viewers. We will always use the utmost discretion with your information, and we will never provide this information to any third party without your express consent, except in cases where: 
 
+  * You were referred to our service by another user or a Less Annoying CRM affiliate, in which case your name name will be shared with that referrer so that they can confirm that they received credit for the referral; no other personal information or contact information (e.g. your email address) will be shared with said referrer. 
   * The company is compelled by law to provide the information or the information is required to facilitate investigation of illegal activities 
   * Less Annoying CRM determines it necessary in order to preserve the safety of our users, employees, or the general public at large 
   * The user's actions are deemed in violation of the service's Terms of Service 
