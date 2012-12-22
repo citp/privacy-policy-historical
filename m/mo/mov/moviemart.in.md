@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviemart.in privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524171959id_/http%3A//www.moviemart.in/pp_sell.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviemart.in privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222130143id_/http%3A//www.moviemart.in/pp_sell.aspx) for the most accurate reproduction.*
 
 # Rent Movies | Buy DVD Movies Online at Lowest Price
 
@@ -6,16 +6,10 @@
 
 |   
 ---  
-|    [Home](http://www.moviemart.in/index.aspx)   [Movies](http://www.moviemart.in/Movies.aspx)    [Cameras](http://www.moviemart.in/Cameras.aspx)    [Electronics](http://www.moviemart.in/Electronics.aspx)    [Perfumes](http://www.moviemart.in/Perfumes.aspx)    [Mobiles](http://www.moviemart.in/Mobiles.aspx)    [Mobiles-Accessories](http://www.moviemart.in/Mobile-Accessories.aspx)    [Todays Deals](http://www.moviemart.in/TodaysDeals.aspx)    Track Order |  | [Cart(0)](http://www.moviemart.in/Shopping_Cart.aspx?Show=cart)  
-|  |  |  | [](http://www.moviemart.in/rent/browsesection.aspx?lan=1) |  | |   
----|---|---|---  
-|  |  | [Movies](https://web.archive.org/web/20120524171959id_/http%3A//www.moviemart.in/ViewMore.aspx?ID=2)  
----  
-[Cameras](https://web.archive.org/web/20120524171959id_/http%3A//www.moviemart.in/Brand.aspx?/10/Cameras/Canon)  
-[Electronics](https://web.archive.org/web/20120524171959id_/http%3A//www.moviemart.in/Brand.aspx?/89/Electronics/philips)  
-[Perfumes](https://web.archive.org/web/20120524171959id_/http%3A//www.moviemart.in/Brand.aspx?/21/Perfumes/Adidas)  
-[Mobiles & Accessories](https://web.archive.org/web/20120524171959id_/http%3A//www.moviemart.in/Brand.aspx?/70/Mobiles-Accessories/HTC)  
-      |  |   Privacy Policy   
+|    [Home](http://www.moviemart.in/index.aspx)   [Todays Deals](http://www.moviemart.in/TodaysDeals.aspx)   Track Order |  | [Cart(9)](http://www.moviemart.in/Shopping_Cart.aspx?Show=cart)  
+|  |  |  | [](http://www.moviemart.in/rent/browsesection.aspx?lan=1) | |   
+---|---|---  
+|  |  |       |  |   Privacy Policy   
 ---  
   |  |   |  | What This Privacy Policy Covers  
 ---|---|---  
