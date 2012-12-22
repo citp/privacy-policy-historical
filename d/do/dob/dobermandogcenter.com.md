@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dobermandogcenter.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531191047id_/http%3A//dobermandogcenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dobermandogcenter.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222072037id_/http%3A//dobermandogcenter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | dobermandogcenter.com
 
   1. Introduction: Doberman Dog Center (this website) is owned and operated by DobermanDogCenter (we, us, our). We respect the privacy of our website users (you, your). This privacy policy explains how we may collect, store, use, and disclose personal information that you provide to us. By accessing and using this website you confirm your unconditional consent to us collecting, storing, using, and disclosing your personal information in the manner set out in this privacy policy.
   2. Terms of use: Your use of this website is governed by our terms of use. Accordingly, this privacy policy must be read in conjunction with our terms of use.
