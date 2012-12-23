@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gavirtualschool.org privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503215305id_/http%3A//www.gavirtualschool.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gavirtualschool.org privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223130238id_/http%3A//www.gavirtualschool.org/privacy.aspx) for the most accurate reproduction.*
 
 # Georgia Virtual School > Home
 
@@ -44,4 +44,4 @@ Georgia Virtual School will occasionally update this Statement of Privacy to ref
 
 Contact Information
 
-Georgia Virtual School welcomes your comments regarding this Statement of Privacy. If you believe that Georgia Virtual School has not adhered to this Statement, please contact Georgia Virtual School at [admin@gavirtualschool.org](mailto:admin@gavirtualschool.org). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Georgia Virtual School welcomes your comments regarding this Statement of Privacy. If you believe that Georgia Virtual School has not adhered to this Statement, please contact Georgia Virtual School at [admin@gavirtualschool.org](mailto:admin@gavirtualschool.org). We will use commercially reasonable efforts to promptly determine and remedy the problem.
