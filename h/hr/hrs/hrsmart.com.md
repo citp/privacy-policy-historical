@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrsmart.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602175106id_/http%3A//www.hrsmart.com/-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrsmart.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223064409id_/http%3A//www.hrsmart.com/-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Human Resource Software | Applicant Tracking System
 
