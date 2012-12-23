@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independent-publishing.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621175800id_/http%3A//www.independent-publishing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent-publishing.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223163823id_/http%3A//www.independent-publishing.com/privacy) for the most accurate reproduction.*
 
 # Independent Publishing
 
