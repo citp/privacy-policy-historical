@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the easeus.com privacy policy that was archived on 2012-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626211316id_/http%3A//www.easeus.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the easeus.com privacy policy that was archived on 2012-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121223170546id_/http%3A//www.easeus.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -11,6 +11,8 @@
 <link href="/styles/global.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/scripts/maillist.js" type="text/javascript"></script>
 <script src="/scripts/google-language.js" type="text/javascript"></script>
+<script src="/scripts/jquery-1.8.1.min.js" type="text/javascript"></script>
+<script src="/scripts/tab.js" type="text/javascript"></script>
 <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
 <link href="/rss.xml" rel="alternate" type="application/rss+xml" title="EaseUS">
 <link href="/images/fav.ico" rel="Shortcut Icon">
@@ -20,7 +22,7 @@
 <div class="ParentLayer">
 <div id="Logo"><a href="/"><img src="/images/logo.gif" alt="EaseUS Software"></a></div>
 <div id="PageTop">
-    <div id="NewletterLogin"><a href="/company/newsletter.htm">Newsletter</a> | <a href="/support.htm">Customer Login</a></div>
+    <div id="NewletterLogin"><a href="/company/newsletter.htm">Newsletter</a> | <a href="http://my.easeus.com">User Login</a></div>
 	<div id="google_translate_element"></div>
 	<div id="SearchBar">
 	<!--  Google Search Bar Start  -->
@@ -44,17 +46,77 @@
 	</form>
 	<!--  Google Search Bar End  -->
 	</div>
-	<div id="PageTopMenu">
-	<ul>
-		<li id="ForWin"><a href="/">For Windows</a></li>
-		<li><a href="/mac/">For Mac</a></li>
-		<li><a href="/buynow.htm">Store</a></li>
-		<li><a href="/product.htm">Products</a></li>
-		<li><a href="/download.htm">Download</a></li>
-		<li><a href="/support.htm">Support</a></li>
-        <li><a href="/technologies/">Technologies</a></li>
-        <li><a href="/partner/">Partners</a></li>
-		<li><a href="/company.htm">Company</a></li>
+	<div class="PageTopMenu">
+	<ul class="PageTopNav">
+    	<li class="NavLiHome"><a href="/"></a></li>
+		<li class="NavLi1" value="1">
+        <a href="/buynow.htm">Store</a>
+        <div class="Popup1">
+		<ul class="PopupUl">
+		<li><a href="/buynow.htm">Purchase EaseUS Software</a></li>
+		<li><a href="/landing/bundle.htm">Purchase Bundle, Save 30%</a></li>
+		<li><a href="/buynow20.htm">Make Your Own Bundle</a></li>
+		<li><a href="/academic.htm">Apply for Coupon</a></li>
+		</ul>
+		</div>
+        </li>
+		<li class="NavLi2" value="2">
+        <a href="/product.htm">Products</a>
+        <div class="Popup2">
+		<dl class="PopupDl">
+    	<dt>For Windows</dt>
+		<dd style="padding-top:0;"><a href="/datarecovery/"><img src="/images/ico-data-recover.png">Data Recovery</a></dd>
+		<dd><a href="/backup/"><img src="/images/ico-data-backup.png">Backup</a></dd>
+		<dd><a href="/partition-manager/"><img src="/images/ico-partitionmanager.png">Partition Manager</a></dd>
+		<dd><a href="/system-utilities/"><img src="/images/ico-system-utility.png">System Utility</a></dd>
+		</dl>
+    	<dl class="PopupDl">
+        <dt>For Mac</dt>
+		<dd style="padding-top:0;"><a href="/datarecovery/mac.htm"><img src="/images/ico-mac-sytem-utility.png">Data Recovery</a></dd>
+		<dd><a href="/system-utilities/mac.htm"><img src="/images/ico-cleangenuis.png">System Utility</a></dd>
+    	</dl>
+		</div>
+    	</li>
+        <li class="NavLiDown"><a href="/download.htm">Download</a></li>
+		<li class="NavLi3" value="3">
+        <a href="/support.htm">Support</a>
+        <div class="Popup3">
+		<ul class="PopupUl">
+		<li><a href="/support.htm">User Login</a></li>
+		<li><a href="/support/online-help.htm">Knowledge Base/Online Help</a></li>
+		<li><a href="/support/faq.htm">FAQ</a></li>
+		<li><a href="/support/sales-inqury.htm">Sales Questions</a></li>
+		<li><a href="http://forum.easeus.com/" target="_blank">Live Community/Forums</a></li>
+		<li><a href="/support/download/docs/user_guide.htm">Download Documentations</a></li>
+		<li><a href="/support/contact.htm">Contact Us</a></li>
+		</ul>
+		</div>
+    	</li>
+        <li class="NavLi4" value="4">
+        <a href="/partner/">Partners</a>
+        <div class="Popup4">
+		<ul class="PopupUl">
+		<li><a href="/partner/oem.htm">OEM Partners</a></li>
+		<li><a href="/partner/reseller.htm">Reseller/Distributor</a></li>
+		<li><a href="/partner/affiliate.htm">Affiliate Program</a></li>
+		<li><a href="/technologies/">Technologies</a></li>
+		<li><a href="/partner/service-provider.htm">Service Provider</a></li>
+		<li><a href="/partner/investor.htm">Investor Relations</a></li>
+		<li><a href="/partner/contact.htm">Contact Us</a></li>
+		</ul>
+		</div>
+    	</li>
+		<li class="NavLi5 NavElementComp" value="5">
+        <a href="/company.htm">Company</a>
+        <div class="Popup5">
+		<ul class="PopupUl">
+		<li><a href="/company.htm">About EaseUS</a></li>
+		<li><a href="/company/press-room/">Press Room</a></li>
+		<li><a href="/clients.htm">Global Clients</a></li>
+		<li><a href="/contact.htm">Contact Us</a></li>
+		</ul>
+		</div>
+    	</li>
 	</ul>
 	</div>
 </div>
@@ -80,11 +142,13 @@
 <div class="LeftSideBar">
 	<div id="ProductsList">
 	<h2>Windows Products</h2>
-	<h3><img src="/images/mark.gif" alt="data recovery software"><a href="/datarecoverywizard/free-data-recovery-software.htm">Data Recovery Software</a></h3>
-	<h3><img src="/images/mark.gif" alt="Backup Software"><a href="http://www.todo-backup.com/">Backup Software</a></h3>
-	<h3><img src="/images/mark.gif" alt="partition manager software"><a href="http://www.partition-tool.com/">Partition Manager Software</a></h3>
-	<h3><img src="/images/mark.gif" alt="Disk copy freeware"><a href="/disk-copy/">Disk Copy Freeware</a></h3>
+	<h3><img src="/images/mark.gif" alt="data recovery software"><a href="/datarecovery/">Data Recovery Software</a></h3>
+	<h3><img src="/images/mark.gif" alt="email recovery software"><a href="/emailrecoverywizard/">Email Recovery Software</a></h3>
 	<h3><img src="/images/mark.gif" alt="partition recovery freeware"><a href="/partition-recovery/">Partition Recovery Freeware</a></h3>
+	<h3><img src="/images/mark.gif" alt="Backup Software"><a href="/backup/">Backup Software</a></h3>
+	<h3><img src="/images/mark.gif" alt="Disk copy freeware"><a href="/disk-copy/">Disk Copy Freeware</a></h3>
+	<h3><img src="/images/mark.gif" alt="partition manager software"><a href="/partition-manager/">Partition Manager Software</a></h3>
+	<h3><img src="/images/mark.gif" alt="System Optimization"><a href="/system-utilities/">System Optimization</a></h3>
 	<h2>Mac Products</h2>
 	<!--
 	<h3><img src="/images/mark.gif" alt="Mac Photo Recovery Free" /><a href="/mac/mac-photo-recovery-free/">Mac Photo Recovery Free</a></h3>
@@ -104,17 +168,17 @@
 	</div>
 
 	<div id="SideBarWhatToDo">
-	<h2>What would you like to do?</h2>
+	<h2>Data Recovery Tips</h2>
 	<ul>
-		<li><a href="/datarecoverywizard/recover-deleted-files.htm">Recover deleted files and folders.</a></li>
-		<li><a href="/datarecoverywizard/recover-formatted-partition.htm">Recover files from formatted drives.</a></li>
-		<li><a href="/datarecoverywizard/recover-lost-partition.htm">Recover deleted or lost logical drives.</a></li>
-		<li><a href="/datarecoverywizard/recover-lost-photo-images.htm">Recover lost photos and images.</a></li>
-		<li><a href="/datarecoverywizard/recover-lost-word-files.htm">Recover lost office files.</a></li>
-		<li><a href="/resource/drive/digital-audio-drive.htm">Recover deleted iPod songs.</a></li>
-		<li><a href="/datarecoverywizard/recover-raw-drive.htm">Recover files from RAW drives.</a></li>
-		<li><a href="/datarecoverywizard/recover-fdisked-drives.htm">Recover files from fdisked drives.</a></li>
-		<li><a href="/datarecoverywizard/recover-repartitioned-drives.htm">Recover files from repartitioned drives.</a></li>
+	<li><a href="/datarecoverywizard/recover-deleted-files.htm">Recover deleted files and folders</a></li>
+	<li><a href="/datarecoverywizard/recover-lost-photo-images.htm">Recover lost photos and images</a></li>
+	<li><a href="/datarecoverywizard/recover-lost-word-files.htm">Recover lost office files</a></li>
+	<li><a href="/datarecoverywizard/recover-deleted-email.htm">Recover deleted email</a></li>
+	<li><a href="/datarecoverywizard/recover-formatted-partition.htm">Recover files from formatted drive</a></li>
+	<li><a href="/datarecoverywizard/recover-lost-partition.htm">Recover deleted or lost logical drive</a></li>
+	<li><a href="/datarecoverywizard/recover-raw-drive.htm">Recover files from RAW drive</a></li>
+	<li><a href="/datarecoverywizard/recover-fdisked-drives.htm">Recover files from fdisked drive</a></li>
+	<li><a href="/datarecoverywizard/recover-repartitioned-drives.htm">Recover files from repartitioned drive</a></li>
 	</ul>
 	<p><a href="/datarecoverywizard/">More Data Recovery Solutions...</a></p>
 	</div>
