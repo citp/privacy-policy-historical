@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ten.com.au privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502023019id_/http%3A//ten.com.au/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ten.com.au privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223060603id_/http%3A//ten.com.au/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,22 +12,19 @@ At Network Ten we conduct our operations in accordance with the National Privacy
 **  
 The type of personal information we collect varies according to how you interact with Network Ten. Some examples include:
 
-• when you complete any application forms   
-• through telephone calls   
-• visits to our Web Sites (including via any of our i-apps)  
-• letters and other material sent by you to Network Ten   
-• material submitted in competitions   
-• feedback, comments or suggestions on programs and other activities of Network Ten   
-• through Buyten Web Site  
-• as a customer or client of Network Ten   
-• when you provide a service or products to Network Ten   
-• security surveillance of our premises (eg video, card access). 
+When you complete any application forms   
+Through telephone calls   
+Visits to our Web Sites (including via any of our i-apps)  
+Letters and other material sent by you to Network Ten   
+Material submitted in competitions   
+Feedback, comments or suggestions on programs and other activities of Network Ten   
+As a customer or client of Network Ten   
+When you provide a service or products to Network Ten   
+Security surveillance of our premises (eg video, card access). 
 
 The type of information we collect will very much depend on what you give us. It might be your name, address, telephone number, email address, work contacts, photographs, interest, hobbies and any other personal details you wish to provide. We do not try to collect sensitive information, but some people volunteer sensitive information anyway. 
 
-We may collect personal information when you visit our Web Sites or use one of our i-apps. For example if you use our Buyten Web Site, we may record who has visited the site and other related information. We have a separate privacy policy for our Buyten Web Site, which is available on the Web Site and also from Network Ten on request.
-
-Network Ten reserves the right to perform statistical analysis of user activity and characteristics in order to measure interest in and use of the various areas in the Web Sites or our i-apps and to inform others of such information, as well as the number of users who have been exposed to or have clicked on any particular areas in the Web Sites or our i-apps. You acknowledge that when you disclose personally identifiable information on the Web Sites, that information, along with any substantive information disclosed in your communication, may be collected and collated and used and disclosed by Network Ten and may result in marketing and promotional messages being sent to you from Network Ten or its associates and affiliates. 
+We may collect personal information when you visit our Web Sites or use one of our i-apps. Network Ten reserves the right to perform statistical analysis of user activity and characteristics in order to measure interest in and use of the various areas in the Web Sites or our i-apps and to inform others of such information, as well as the number of users who have been exposed to or have clicked on any particular areas in the Web Sites or our i-apps. You acknowledge that when you disclose personally identifiable information on the Web Sites, that information, along with any substantive information disclosed in your communication, may be collected and collated and used and disclosed by Network Ten and may result in marketing and promotional messages being sent to you from Network Ten or its associates and affiliates. 
 
 Non-personal information and data may be automatically collected through the standard operation of Network Ten's Internet servers or through the use of cookies. If you do not want information collected through the use of cookies, you should use your browser's cookie disabling feature. You should note, however, that if cookies are disabled certain features may not be available. The use of cookies on the Web Sites enables us to deliver and maintain customised options when you make return visits to the site.
 
@@ -65,17 +62,18 @@ You can submit a request for access to your personal information to the Network 
 
 If you inform us that the information we hold is incorrect we will, if appropriate, amend those records.
 
-Do you have a complaint?
-
+ **Do you have a complaint?  
+**  
 If you are concerned that there may have been some inappropriate use or disclosure or any other breach relating to your personal information, we want to know about it. The contact person for complaints is the Network Privacy Officer. All complaints will be investigated. Details about how to lodge a complaint can be found at [Contact  Us  
 ](http://ten.com.au/contact-us.htm)  
-Changes to this Privacy Policy
-
+ **  
+Changes to this Privacy Policy  
+**  
 Network Ten reserves the right to change its privacy policy at any time, and you should check this policy from time to time for that reason. 
 
-Have we answered your questions about privacy?
+**Have we answered your questions about privacy?** If you have other questions regarding our information handling processes, please [Contact Us.](http://ten.com.au/contact-us.htm)
 
-If you have other questions regarding our information handling processes, please [Contact Us.](http://ten.com.au/contact-us.htm)
+ **  
+Ten Facebook App Privacy Policy** Please check our [Ten Facebook App Privacy Policy ](https://web.archive.org/Facebook_App_Privacy_Policy_2012.pdf "Ten Facebook App Privacy Policy")for enquiries regarding any of Ten's Facebook Apps.
 
-This page last updated: 30 March 2012  
- 
+This page last updated: 16 August 2012
