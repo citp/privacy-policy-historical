@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the u-blog.co privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511204029id_/http%3A//www.u-blog.co/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u-blog.co privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223045747id_/http%3A//www.u-blog.co/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
 ###  Register and start Free Blog. 
 
-[ ](https://web.archive.org/web/20120511204029id_/http%3A//SignUp.aspx)
+[ ](https://web.archive.org/web/20121223045747id_/http%3A//SignUp.aspx)
 
 **Get a blog** online, and write to express yourself. Building websites and creating online blogs is easy and fun with Ublog, our professional blog building tool. Ublog provides a very sophisticated search engine for users to who are looking for contents. It is also a marketing tool that allows you to advertise your products and industry so that you business is always booming. Setting up a blog on Ublog is hassle-free and does not require any training. **Get a free blog** in a matter of minutes for any category including travel, food, drinks, consulting, business, health, holiday, hotels, hosting, website development, fashion and many more... 
 
@@ -22,14 +22,14 @@ In seconds, you will have a blog with loads of amazing free features like
 
 #####  Categories
 
-[ Pub & Restaurant](https://web.archive.org/category/36/pub-resturant/1) [ Publishers](https://web.archive.org/category/23/publishers/1) [ Entertainment](https://web.archive.org/category/77/Entertainment/1) [ Relationship](https://web.archive.org/category/32/Relationship/1) [ Mobile](https://web.archive.org/category/65/Mobile/1) [ Poetry](https://web.archive.org/category/26/poetry/1) [ News](https://web.archive.org/category/28/News/1) [ Business](https://web.archive.org/category/25/Business/1) [ Houses](https://web.archive.org/category/21/best%20available%20houses/1) [ life](https://web.archive.org/category/52/life/1) [ Internet](https://web.archive.org/category/49/Internet/1) [ Career](https://web.archive.org/category/53/career/1) [ Sports](https://web.archive.org/category/81/Sports/1) [ HOTELES](https://web.archive.org/category/56/hoteles/1) [ Photography](https://web.archive.org/category/24/Photography/1) [ Business Directory](https://web.archive.org/category/14/Business%20Directory/1) [ traveling](https://web.archive.org/category/31/traveling/1) [ Webdesign](https://web.archive.org/category/47/webdesign/1) [ Social Network](https://web.archive.org/category/44/social-network/1) [ Data](https://web.archive.org/category/12/Data/1) [More](https://web.archive.org/web/20120511204029id_/http%3A//www.u-blog.co/CategoriesList.aspx "More") 
+[ Internet](https://web.archive.org/category/49/Internet/1) [ life](https://web.archive.org/category/52/life/1) [ News](https://web.archive.org/category/28/News/1) [ Poetry](https://web.archive.org/category/26/poetry/1) [ Houses](https://web.archive.org/category/21/best%20available%20houses/1) [ Business](https://web.archive.org/category/25/Business/1) [ Career](https://web.archive.org/category/53/career/1) [ Relationship](https://web.archive.org/category/32/Relationship/1) [ traveling](https://web.archive.org/category/31/traveling/1) [ Sports](https://web.archive.org/category/81/Sports/1) [ Mobile](https://web.archive.org/category/65/Mobile/1) [ Entertainment](https://web.archive.org/category/77/Entertainment/1) [ Pub & Restaurant](https://web.archive.org/category/36/pub-resturant/1) [ Publishers](https://web.archive.org/category/23/publishers/1) [ Photography](https://web.archive.org/category/24/Photography/1) [ Business Directory](https://web.archive.org/category/14/Business%20Directory/1) [ Webdesign](https://web.archive.org/category/47/webdesign/1) [ Data](https://web.archive.org/category/12/Data/1) [ HOTELES](https://web.archive.org/category/56/hoteles/1) [ Social Network](https://web.archive.org/category/44/social-network/1) [More](https://web.archive.org/web/20121223045747id_/http%3A//www.u-blog.co/CategoriesList.aspx "More") 
 
 
 #####  Earn Money
 
 We are providing innovative ways to obtain money through our revenue sharing online communities. You can get exiting and incredible opportunities to generate handsome amounts of cash through our blogging community. Get paid for your piece of work through us, while you sit comfortably at home. For this you must be our Gold member.
 
-[Sign up now](https://web.archive.org/web/20120511204029id_/http%3A//www.u-blog.co/SignUp.aspx "Sign Up Now").
+[Sign up now](https://web.archive.org/web/20121223045747id_/http%3A//www.u-blog.co/SignUp.aspx "Sign Up Now").
 
 #####  Features
 
