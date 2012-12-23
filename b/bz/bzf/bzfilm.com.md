@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bzfilm.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520020107id_/http%3A//bzfilm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bzfilm.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223171745id_/http%3A//bzfilm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BZFilm.com | Movie reviews | Low budget filmmaking | Independent Cinema | B-movies | Free online films
 
@@ -25,4 +25,4 @@ _**Information distribution**_
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
 
 _**Privacy Contact Information**_  
-If you have any questions, concerns, or comments, [you can always reach us here](http://bzfilm.com/contact/).
+If you have any questions, concerns, or comments, [you can always reach us here](http://bzfilm.com/contact/).[](http://bzfilm.com/contact/)
