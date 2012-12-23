@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolbarn.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620161137id_/http%3A//www.toolbarn.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolbarn.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223112838id_/http%3A//www.toolbarn.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ToolBarn.com
 
@@ -25,7 +25,7 @@ Your provision of such additional information is your acknowledgement that you c
 
 **Aggregated Data** Aggregated data, which tracks website user activity as a whole rather than on an individual basis, is gathered through several methods. This tracking data follows website traffic in general, and is not used to identify you personally. Aggregated tracking information helps us to determine which areas of our site users like and don't like based on traffic to those areas. We do not track what you read, but rather how well each page performs overall. This helps us continue to build a better service for you. We may disclose such aggregated information to third parties such as our vendors.
 
-> **Does you share the information I've provided?**
+> **Do you share the information I've provided?**
 
 We may need to share personal information with third parties in limited circumstances. For example, we may release personal information to third parties to perform services on our behalf such as; fulfilling our customer’s orders, sending marketing communications on our behalf, delivering packages, servicing products, conducting research or surveys, sending regular mail and e-mail, or processing credit card payments. We do not sell or rent customer information to third parties.
 
@@ -43,7 +43,9 @@ A cookie is a small data file that a Web site may send to your browser and which
 
 Our Web server automatically collects the address of the Web site that you came from before visiting our site, which browser you used to view our site and any search terms you have entered on our site.
 
-Our Web site may also use other technologies to track which pages on our Web sites our visitors view. This non-identifiable click-stream data helps us understand how visitors use our Web site and help to identify areas of improvement.
+Our Web site may also use other technologies to track which pages on our Web sites our visitors view. This non-identifiable click-stream data helps us understand how visitors use our Web site and help to identify areas of improvement
+
+We may advertise to you on third party sites by identifying you as a previous visitor via cookies. Third party vendors including Google will show you these ads. You can opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). You can opt out of other vendor's use of cookies [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 > **Children and Privacy**
 
@@ -61,7 +63,7 @@ To opt-out of receiving marketing communications from us:
 
 > Our Mailing Address   
 >  7820 l St.   
->  Omaha, NE 68127 
+>  Omaha, NE 68127
 
 If you send an e-mail or letter request, please be sure to include your full name, address, phone number and e-mail address and indicate specifically what type of marketing communications you wish to stop receiving. This will ensure we identify you correctly in our systems and accurately process your opt-out request. Please note that due to production and mailing timelines, it may take up to 10 business days for e-mails and up to six weeks for direct mail to make the requested change. Until that change takes effect, you may still receive marketing communications from us.
 
@@ -71,4 +73,4 @@ Also, please note that you may still receive business-related communications suc
 
 Because our Web sites and businesses will continue to implement new technologies and improve the services and features we provide, this policy is subject to change. If there are changes or additions to this Privacy Policy, we will post those changes here or in other formats we deem acceptable, so that you will always know what information we collect online or offline, how we use it and what choices you have. If we change our information practices or this Privacy Policy in such a way that your personal information may be used or shared in a different manner, we will give you the opportunity to opt-out of having your information used or shared in that new manner.
 
-Last revision date: May 14, 2010
+Last revision date: July 20th, 2012
