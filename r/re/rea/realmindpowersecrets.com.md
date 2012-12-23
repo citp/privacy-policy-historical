@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realmindpowersecrets.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504021500id_/http%3A//www.realmindpowersecrets.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realmindpowersecrets.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223124019id_/http%3A//www.realmindpowersecrets.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Mind power research makes 'world first' discoveries.. - Privacy Policy
 
@@ -104,7 +104,7 @@ Realmindpowersecrets.com
 
 * * *
 
-Our [privacy policy](https://web.archive.org/web/20120504021500id_/http%3A//www.realmindpowersecrets.com/Privacy-Policy.html) means your email address is 100% safe and secure.
+Our [privacy policy](https://web.archive.org/web/20121223124019id_/http%3A//www.realmindpowersecrets.com/Privacy-Policy.html) means your email address is 100% safe and secure.
 
 * * *
 
