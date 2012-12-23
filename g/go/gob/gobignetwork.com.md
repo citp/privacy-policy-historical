@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gobignetwork.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628223059id_/http%3A//www.gobignetwork.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobignetwork.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223055728id_/http%3A//www.gobignetwork.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Go BIG Network
 
