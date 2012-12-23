@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the kidloo.com privacy policy that was archived on 2012-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120402234943id_/http%3A//www.kidloo.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidloo.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223222407id_/http%3A//kidloo.com/kidloo-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Statement: What do we do and don’t with your information.**
 
-PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THIS WEBSITE.
+****PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THIS WEBSITE. ****
 
-Here goes a little of it something like this:
+**Here goes a little of it something like this:**
 
 We at Kidloo are nerds around, who are always passionate to dig out something new. And like all good nerds, we’re possessed with privacy. Your privacy is very important to us. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. In general terms, we collect information from you when you register on our site, place an order or subscribe to our newsletter. When ordering or registering on our site, as appropriate, you may be asked to enter your name, e-mail address, mailing address, phone number or credit card information. You may however visit our site anonymously.
 
@@ -26,7 +26,7 @@ To send periodic emails: The email address you provide for order processing, may
 
 Note: If at any time you would like to unsubscribe from receiving future emails, please send us an email to feedback@kidloo.com with the subject line unsubscribe. You would be removed from our mailing list in next 48 hours.
 
-How do we protect your information?
+**How do we protect your information?**
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information.
 
@@ -36,16 +36,16 @@ Kidloo will set and access our own cookies on your computer to allow you to buy 
 
 Kidloo may share information collected by us with third parties to help process your order (e.g. shipping companies, credit card processors, etc.) or to provide statistical and demographic analysis to Kidloo to help us and our business partners provide you with better services and offerings.
 
-Kidloo will not share, rent, lease, or sell your personal information (e.g. your email address, your credit card information, your name, your address, etc.) to any third party for their independent use or benefit. Never. Ever. Feel free to kick us in the nads if we ever share your email address.
+Kidloo will not share, rent, lease, or sell your personal information (e.g. your email address, your credit card information, your name, your address, etc.) to any third party for their independent use or benefit. Never. Ever. Feel free to kick us in the nads if we ever share your email address. ****
 
-Miscellaneous Issues of Privacy:
+**Miscellaneous Issues of Privacy:**
 
 Children. Minors under the age of 18 may not use the Website. We do not collect or maintain information from anyone known to be under the age of 18, and no part of the Website is designed to attract anyone under the age of 18. Kidloo does not sell products for purchase by children. In certain instances, we sell children’s products for purchase by adults. If you are under 18, you may use Kidloo only with the involvement of a parent or guardian.
 
-We may change this Privacy Policy at any time by posting the revised Privacy Policy in the “Privacy Policy” section of the Website. The revised Privacy Policy is effective immediately when posted on the Website. It is the responsibility of each User to review the Website and the Privacy Policy periodically to learn of any revisions to this Privacy Policy. Your continued use of the Website after the effectiveness of such revisions will constitute your acknowledgment and acceptance of the terms of the revised Privacy Policy. Feel free to write us at for any queries **[Feedback](mailto:feedback@kidloo.com?subject=Feedback)**
+We may change this Privacy Policy at any time by posting the revised Privacy Policy in the “Privacy Policy” section of the Website. The revised Privacy Policy is effective immediately when posted on the Website. It is the responsibility of each User to review the Website and the Privacy Policy periodically to learn of any revisions to this Privacy Policy. Your continued use of the Website after the effectiveness of such revisions will constitute your acknowledgment and acceptance of the terms of the revised Privacy Policy. Feel free to write us at for any queries Feedback ****
 
-Terms and Conditions
+**Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.kidloo.com ](http://www.kidloo.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.kidloo.com
 
-Tell us what you think: At Kidloo, we welcome your questions and comments regarding our privacy policy. You may contact Kidloo Team. [Do Mail us](mailto:feedback@kidloo.com?subject=Feedback)
+Tell us what you think: At Kidloo, we welcome your questions and comments regarding our privacy policy. You may contact Kidloo Team. Do Mail us
