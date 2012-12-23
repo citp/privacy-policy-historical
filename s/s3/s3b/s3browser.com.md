@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the s3browser.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418012821id_/http%3A//netsdk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s3browser.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223081046id_/http%3A//netsdk.com/privacy.html) for the most accurate reproduction.*
 
-# NetSDK Software - Privacy Policy - Software Development Company. TntDrive, S3 Browser, Handy CD Ripper.
+# NetSDK Software - Privacy Policy - Software Development Company. TntDrive, RdpGuard, S3 Browser, Handy CD Ripper.
 
 ## Privacy Policy
 
