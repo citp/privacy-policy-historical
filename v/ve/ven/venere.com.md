@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venere.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624203239id_/http%3A//www.venere.com/privacy/%3Flg%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venere.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224004837id_/http%3A//www.venere.com/privacy/%3Flg%3Den) for the most accurate reproduction.*
 
 # 
 
@@ -99,7 +99,29 @@ We may update this Privacy Policy in the future. We will notify you about materi
 **How you can contact us**  
 If you have questions about either this Privacy Policy (or your travel planning or purchases), please email us or write to us at: 
 
-Email: customer.service@venere.com   
+Email: customer.service@venere.com 
+
+Telephone numbers:  
+United Kingdom: 020 3027 7153
+
+Ireland: (01) 524 5487
+
+USA: 1-877-214-4288
+
+Australia: 02 8023 8756
+
+Saudi Arabia: 0044 203 027 9504
+
+Belgium: 02 200 8514
+
+Switzerland: 44 511 83 88
+
+Russia: 499 272 2031
+
+Brazil: 0800-761-1711
+
+Portugal: 217 616 226 
+
 Venere Net S.r.l.  
 Attn: Customer Care   
 Via Della Camilluccia 693  
