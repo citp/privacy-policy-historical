@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popdirt.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617151105id_/http%3A//popdirt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popdirt.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223064105id_/http%3A//popdirt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | popdirt.com
 
@@ -17,6 +17,6 @@ To find out more about how our advertisers manage the privacy of information in 
 [vibrantmedia.com](https://www.vibrantmedia.com/privacy.asp)  
 [tribalfusion.com](https://www.tribalfusion.com/TribalFusion/privacy.html)  
 [google.com](http://www.google.com/intl/en/policies/privacy/)  
-[adtegrity.com](http://www.adtegrity.com/about/privacy-policy/)  
+[adtegrity.com](http://www.adtegrity.com/privacy/)  
 [blogads.com](http://web.blogads.com/privacy-policy)  
 [hookedmediagroup.com](http://www.hookedmediagroup.com/)
