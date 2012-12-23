@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pringit.com privacy policy that was archived on 2012-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120604070138id_/http%3A//www.pringit.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pringit.com privacy policy that was archived on 2012-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121223221501id_/http%3A//www.pringit.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=7">
@@ -10,9 +10,13 @@
 
     
 
-<script type="text/javascript" src="http://www.pringit.com/media/CACHE/js/cfe34a0796fe.js"></script>
+<script type="text/javascript" src="http://www.pringit.com/media/CACHE/js/de775f187d95.js"></script>
 
-<link rel="stylesheet" href="http://www.pringit.com/media/CACHE/css/b690dd7c8586.css" type="text/css">
+<link rel="stylesheet" href="http://www.pringit.com/media/CACHE/css/02ec3920ff3c.css" type="text/css">
+
+
+
+
 
 
 </head>
@@ -29,7 +33,7 @@
                 <li id="blog"><a title="Blog" href="http://blog.pringit.com/"></a></li>
                 
                 <li id="signup"><a title="SignUp" href="/?view_form=signup"></a></li>
-                <li id="signin"><a title="SignIn" href="/?next="></a></li>
+                <li id="signin"><a title="SignIn" href="/?next=/pages/privacy/"></a></li>
                 
 			</ul>
         </div>
@@ -43,8 +47,22 @@
     </div>
 </div>
 
+<noscript>
+     
+        <div class= "main_container">
+     
+        <img class="img_noscript" src="/media/new_images/Pring-JavaScriptEnable.png" alt = "Javascript not enabled"/>
+        <h2>JavaScript required to Sign In</h2>
+        <div class = "noscript_content">Pring requires Javascript tp sign in. The web browser either does not support Javascript or the scripts are being blocked.</div>
+        <div class="noscript_help">
+            To find out whether your browser supports Javascript, or to allow scripts, see the browser's online help.
+        </div>
+    </div>
+</noscript>
 
-<div class="middle_container">
+ 
+    <div class="loggedout_middle_container">
+ 
 
 	<div class="middle">
     
@@ -53,6 +71,7 @@
             
             
             
+            <div class="divMain" style="display: none">
                 <div class="footer">
                 <div class="copyright">
                     <span>© 2012 Pring</span>
@@ -67,13 +86,16 @@
                             <li><a href="/pages/privacy/">Privacy</a> &nbsp;</li>
                             <li><a href="http://blog.pringit.com/">Blog</a> &nbsp;</li>
                             <li><a href="/pidget_designer/">Pidgets</a> &nbsp;</li>
+                            <li><a href="/?switch_to_site=mobile">Mobile</a> &nbsp;</li>
                             
                             
-                        
+                            
+                            <li><a href="/careers">Careers</a> &nbsp;</li>
                     </ul> 
                 </div>
                 <div class="footer_logo"><a href="http://www.ebusiness-pg.com/" target="_blank"><button></button></a></div>
                 </div>
+            </div>    
             
         </div>
         <div class="span9 right_container">
@@ -124,31 +146,29 @@
 
 
 
-
 <script type="text/javascript">
     function change_button_text(search_on) {
-            if (search_on == "People")
-            {
-                $("#search_button_text").html("People");
-                $("#frm_people_prings").attr("action", "/people/search/");
-            }
-            else if (search_on == "Prings")
-            {
-                $("#search_button_text").html("Prings");
-                $("#frm_people_prings").attr("action", "/prings/search/");
-            }
+        if (search_on == "People")
+        {
+            $("#search_button_text").html("People");
+            $("#frm_people_prings").attr("action", "/people/search/");
         }
+        else if (search_on == "Prings")
+        {
+            $("#search_button_text").html("Prings");
+            $("#frm_people_prings").attr("action", "/prings/search/");
+        }
+    }
 
-$(document).ready(
-    function()
-    {
+    $(document).ready(function() {
         $('a[rel=tooltip]').tooltip({
         placement:'bottom'
         });
         $('#search-input').attr('disabled', 'disabled');
         $('#search-input').val('Fetching search suggestions...');
         $.ajax({
-            url: '/get_search_suggestions/json/',
+            url: '/AnonymousUser/get_search_suggestions/json/',
+            cache: true,
             success: function(data) {
             $('#search-input').attr('data-source', data);
             },
@@ -159,15 +179,26 @@ $(document).ready(
             $('#search-input').blur();
             }
         });
+        refresh_title();
+        window.setTimeout(auto_refresh_notification,5*60*1000);
     });
-
-
-
-
-
-
-
+    
+    
+    function auto_refresh_notification(){
+        refresh_notifications();
+        window.setTimeout(auto_refresh_notification,5*60*1000);
+    }
 </script>
+
+
+
+
+
+
+<script type="text/javascript">
+        
+</script>        
+
 <!--Google Analytics-->
 <script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -179,6 +210,11 @@ $(document).ready(
     pageTracker._trackPageview();
     } catch(err) {}
 </script>
-
+<script type="text/javascript">
+$( ".divMain" ).show();
+$(window).load(function() {
+  $(".right_container").css('border-bottom','1px solid #dbdbdb ');
+});
+</script>
 
 </body></html>
