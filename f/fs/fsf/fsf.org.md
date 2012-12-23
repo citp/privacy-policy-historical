@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsf.org privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505210305id_/http%3A//my.fsf.org/donate/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsf.org privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223023651id_/http%3A//my.fsf.org/donate/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Free Software Foundation
 
@@ -7,6 +7,16 @@
 The restrictions described here on the dissemination of personal information are not subject to change. This policy is updated occasionally but the changes will not reduce the privacy protection of visitors.  If there are changes made in the future, the changes will not affect information already collected.
 
 We maintain strict internal policies against unauthorized disclosure or use of customer information.
+
+### Analytics
+
+_Notice: We installed a new analytics system in November, 2012. We now geolocate visitors to our sites and record their movement within the sites. The system still preserves anonymity. Read more below._
+
+The FSF uses Piwik, a free software web analytics system, to monitor traffic on our Web sites. Piwik records the general geographical vicinity of visitors as well as their browser and operating system, and records their navigation within the sites. This helps us gauge the impact of our materials and improve our work.
+
+Our Piwik system preserves privacy by anonymizing visitors' IP address. This means that we will not store any personally identifiable information about you, even though your visit produces a record that our site was visited by someone.
+
+Piwik also respects the "Do Not Track" preference offered by some browsers, so if you have this option set, you will not be tracked at all.
 
 ### Customer Information
 
