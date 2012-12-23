@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proptiger.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512200158id_/http%3A//www.proptiger.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proptiger.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223045347id_/http%3A//www.proptiger.com/privacy_policy.php) for the most accurate reproduction.*
 
-# proptiger.com - Residential Propeties in
+# proptiger.com - Residential Propeties in India
 
 This Privacy policy is subject to the terms of the Site Policy (User agreement) of this website.
 
