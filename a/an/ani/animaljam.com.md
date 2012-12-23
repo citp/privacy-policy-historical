@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the animaljam.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614022952id_/http%3A//www.animaljam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animaljam.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223093004id_/http%3A//www.animaljam.com/privacy) for the most accurate reproduction.*
 
 # Animal Jam - Privacy Statement
 
 ## 
 
-**Last Updated 11.1.2011**
+**Last Updated 11.1.2012**
 
 Hello there! Here at Animal Jam, we are committed to providing a fun, safe, and secure website and game for children, their parents, and everyone else. Our team is dedicated to safeguarding all the personal information we collect online using state of the art technology and strict management procedures.
 
@@ -87,4 +87,4 @@ PO Box 3624
 Salt Lake City, UT 84110-3624  
 [privacy@animaljam.com](mailto:privacy@animaljam.com)
 
-800-622-8191
+(888) 340-7313
