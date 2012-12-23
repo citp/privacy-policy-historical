@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prevx.com privacy policy that was archived on 2010-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100717125320id_/http%3A//www.prevx.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prevx.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223213848id_/http%3A//www.prevx.com/privacy.asp) for the most accurate reproduction.*
 
 # Prevx Privacy Policy
 
@@ -25,7 +25,7 @@
 
 * Your Consent
 
-This Privacy Policy is included in and is part of our [Website and Supply Terms](https://web.archive.org/web/20100717125320id_/http%3A//www.prevx.com/termsandconditions.asp). By agreeing to those terms and/or using our Website, or downloading, purchasing and using our Products, you are consenting to the collection, use and disclosure of Customer Data relating to you as set forth in this Privacy Policy.
+This Privacy Policy is included in and is part of our [Website and Supply Terms](https://web.archive.org/web/20121223213848id_/http%3A//www.prevx.com/termsandconditions.asp). By agreeing to those terms and/or using our Website, or downloading, purchasing and using our Products, you are consenting to the collection, use and disclosure of Customer Data relating to you as set forth in this Privacy Policy.
 
 * Customer Data
 
