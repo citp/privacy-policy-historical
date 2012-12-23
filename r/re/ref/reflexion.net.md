@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reflexion.net privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615014137id_/http%3A//www.reflexion.net/about-us/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reflexion.net privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223182802id_/http%3A//www.reflexion.net/about-us/privacy-statement.html) for the most accurate reproduction.*
 
 # Hosted Email Services | Reflexion Networks | Privacy Statement
 
