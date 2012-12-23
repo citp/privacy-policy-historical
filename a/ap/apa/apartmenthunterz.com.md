@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmenthunterz.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503230425id_/http%3A//www.apartmenthunterz.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmenthunterz.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223221454id_/http%3A//www.apartmenthunterz.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Apartment Hunters, California
 
@@ -6,7 +6,7 @@ _3/20/2011_
 
 Apartment Hunters is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of the Apartment Hunters. This policy may change from time to time so please check back periodically.
 
-Apartment Hunters has been awarded **TRUSTe** 's Privacy Seal signifying that this privacy policy and practices have been reviewed by **TRUSTe** for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 310-276-0885. If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Apartment Hunters has been awarded **TRUSTe** 's Privacy Seal signifying that this privacy policy and practices have been reviewed by **TRUSTe** for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 310-982-2536. If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 This policy will let you know:
 
