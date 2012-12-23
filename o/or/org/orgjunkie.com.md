@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orgjunkie.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630111512id_/http%3A//orgjunkie.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orgjunkie.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223181928id_/http%3A//orgjunkie.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : I'm an Organizing Junkie
 
