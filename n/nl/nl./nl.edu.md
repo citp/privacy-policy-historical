@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nl.edu privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609045454id_/http%3A//www.nl.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nl.edu privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223012827id_/http%3A//www.nl.edu/t4/legalpages/privacypolicy) for the most accurate reproduction.*
 
-# National Louis University
-
-## National Louis University Privacy Policy
+# PRIVACY POLICY - National Louis University
 
 ### Commitment to Your Privacy
 
@@ -22,10 +20,10 @@ The National Louis University web site contains many hyperlinks to third party w
 
 Whenever you voluntarily disclose personal information online - for example through e-mail, web-based forms and applications as well as many additional ways – National Louis University collects this information on its computing systems. Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online.
 
-### Consent To This Agreement
+### Consent to This Agreement
 
 By visiting and using the National Louis University web site you agree and consent to the collection and use of information by National Louis University as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
 ### Additional Information and Questions
 
-At any point during your visit with us, if you have any questions concerning your privacy, please feel free to contact the [NLU webmaster](https://web.archive.org/web/20120609045454id_/http://www.nl.edu/privacy/webmaster@nl.edu).
+At any point during your visit with us, if you have any questions concerning your privacy, please feel free to contact the [NLU webmaster](mailto:webdev@nl.edu "Email Webmaster").
