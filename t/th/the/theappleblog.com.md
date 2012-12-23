@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theappleblog.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622103440id_/https%3A//gigaom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theappleblog.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223172401id_/https%3A//gigaom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ By visiting GigaOM, viewing our content or research, attending or viewing any of
 
 ## What Does This Privacy Policy Cover?
 
-This Privacy Policy is part of GigaOM’s Terms of Use [Terms of Service](http://gigaom.com/terms-and-conditions/) and covers the treatment of user information, including Personally Identifiable Information (defined below), obtained by GigaOM, including information obtained when you access or log in to GigaOM, and/or register for content or events provided by GigaOM. 
+This Privacy Policy is part of GigaOM’s [Terms of Service](http://gigaom.com/terms-and-conditions/) and covers the treatment of user information, including Personally Identifiable Information (defined below), obtained by GigaOM, including information obtained when you access or log in to GigaOM, and/or register for content or events provided by GigaOM. 
 
 This Privacy Policy does not apply to the practices of companies that GigaOM does not own or control, or to individuals whom GigaOM does not employ or manage, including any of the third parties to which GigaOM may disclose user information as set forth in this Policy.
 
@@ -117,7 +117,7 @@ GigaOM may disclose Information (including Personally Identifying Information) f
 
 #### Corporate Subscriptions
 
-If your employer or another party provides you with a subscription to GigaOM Pro , we may notify the provider when you access or use your subscription. When providing such notices, we may disclose Personally Identifying Information, such as your name or email address.
+If your employer or another party provides you with a subscription to GigaOM Pro, we may notify the provider when you access or use your subscription. When providing such notices, we may disclose Personally Identifying Information, such as your name or email address.
 
 #### Service Providers
 
