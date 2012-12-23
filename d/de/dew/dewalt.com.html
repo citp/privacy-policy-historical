@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dewalt.com privacy policy that was archived on 2012-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625134724id_/http%3A//www.dewalt.com/Privacy-Security.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dewalt.com privacy policy that was archived on 2012-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121223114115id_/http%3A//www.dewalt.com/Privacy-Security.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="ctl00_ctl00_ctlHead"><meta name="description" content="DEWALT is the leader in contractor power tools including cordless drills, woodworking tools and professional power tools.">
 <meta name="keywords" content="Dewalt, tools, power tools, cordless, woodworking, miter saws">
@@ -131,7 +131,7 @@
 </div>
 
 
-<script src="/ScriptResource.axd?d=trTEZOH2VXaBV319fUMHVYfIb_uaaCc5WGyGZ7N99LVlA3V-1DRq_PsFx-ID_8Zz4Nqv2SL7jLdN6Vg3EemyxRiZ8RTV2zsORgq0g52NCm-AJGxpX4lPey3150Vlt-rJamDcZU9orQiKY6QSGCRffR5GpTfSj-mBebMjvRpHDFfONtx40&amp;t=ffffffffa5a69d10" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=trTEZOH2VXaBV319fUMHVYfIb_uaaCc5WGyGZ7N99LVlA3V-1DRq_PsFx-ID_8Zz4Nqv2SL7jLdN6Vg3EemyxRiZ8RTV2zsORgq0g52NCm-AJGxpX4lPey3150Vlt-rJamDcZU9orQiKY6QSGCRffR5GpTfSj-mBebMjvRpHDFfONtx40&amp;t=efc0c6" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
@@ -674,10 +674,10 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             <!-- end viewProfilePanel area -->
             <div id="findRetailer">
                 &nbsp;&nbsp;<a id="findRetailerLink" href="#">Find a Retailer&nbsp;&nbsp;►</a>
-                <div class="dropdown">
+                <div class="dropdown" style="width: 220px;">
                     <div id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_aspRetailerPanel">
 	
-                        <input name="ctl00$ctl00$BodyContentPlaceHolder$ctlHeader$txtFindRetailer" type="text" id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_txtFindRetailer" onfocus="this.value=''" class="text" autocomplete="off" value="Enter a ZipCode">
+                        <input name="ctl00$ctl00$BodyContentPlaceHolder$ctlHeader$txtFindRetailer" type="text" id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_txtFindRetailer" onfocus="this.value=''" class="text" autocomplete="off" size="30" value="Enter a ZipCode or City/State">
                         &nbsp;
                         <a onclick="dcsMultiTrack('WT.ca_ll', 'Call to Action','WT.tx_e','Store%20Locator:%20'+ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_txtFindRetailer.value);" id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_btnFindRetailer" href="javascript:__doPostBack('ctl00$ctl00$BodyContentPlaceHolder$ctlHeader$btnFindRetailer','')">Submit</a>
                     
@@ -694,11 +694,21 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <div class="searchTextBox">
                     
                     <input name="ctl00$ctl00$BodyContentPlaceHolder$ctlHeader$ctlSearchDropDown$searchinput" type="text" id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_ctlSearchDropDown_searchinput" onfocus="removeDefaultText();" onkeyup="RemoveSearchControlChars();" class="text" value="Search Here">
+                    
                 </div>
                 <!-- <input name="ctl00$ctl00$BodyContentPlaceHolder$ctlHeader$ctlSearchDropDown$searchTextBox" type="text" value="SEARCH HERE" id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_ctlSearchDropDown_searchTextBox" class="searchTextBox" style="background-color:#FFCC33;border-width:0px;border-style:None;font-weight:bold;" /> -->
                 <div class="searchIconX" id="searchpaneltrigger">
                     <!--<img src="../../Assets/images/iconHeaderSearch.gif" alt="Search icon" border="0" />-->
-                    <input type="image" name="ctl00$ctl00$BodyContentPlaceHolder$ctlHeader$ctlSearchDropDown$imgSearch" id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_ctlSearchDropDown_imgSearch" class="imgSearchButton" src="Assets/images/iconHeaderSearch.gif" alt="Search icon" onclick="dcsMultiTrack('WT.oss', 'query:'+ ctl00$ctl00$BodyContentPlaceHolder$ctlHeader$ctlSearchDropDown$searchinput.value);" style="border-width:0px;">
+                    <input type="image" name="ctl00$ctl00$BodyContentPlaceHolder$ctlHeader$ctlSearchDropDown$imgSearch" id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_ctlSearchDropDown_imgSearch" class="imgSearchButton" src="Assets/images/iconHeaderSearch.gif" alt="Search icon" onclick="searchBox();" style="border-width:0px;">
+                    
+                    <script type="text/javascript">
+                        function searchBox() {
+                                var q = "'/faceted-search?terms=" + $("#searchinput").val() + "'";
+                                _gaq.push(['_trackPageview', q]);
+                            //});
+                        }
+                    </script>
+                    
                     <!-- Add functionality for  'prevent default [See code from product.aspx] -->
                     <div class="dropdown" style="display: none;">
                         
@@ -762,6 +772,12 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     
                 
                     <div class="catDiv">
+                        <a href="/tool-categories/ladders.aspx" target="" class="cat">
+                            Ladders</a>
+                    </div>
+                    
+                
+                    <div class="catDiv">
                         <a href="/tools/Air-Tools.aspx" target="" class="cat">
                             Air Tools</a>
                     </div>
@@ -779,16 +795,22 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     </div>
                     
                 
+
+                            </div>
+                            <div id="toolsCol_2">
+                            
+                    <div class="catDiv">
+                        <a href="/tool-categories/reference-guides.aspx" target="" class="cat">
+                            Apps, Books and Courses</a>
+                    </div>
+                    
+                
                     <div class="catDiv">
                         <a href="/tool-categories/compressors.aspx" target="" class="cat">
                             Compressors</a>
                     </div>
                     
                 
-
-                            </div>
-                            <div id="toolsCol_2">
-                            
                     <div class="catDiv">
                         <a href="/tool-categories/Drills.aspx" target="" class="cat">
                             Drills</a>
@@ -802,20 +824,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     
                 
                     <div class="catDiv">
-                        <a href="/tool-categories/Grinders.aspx" target="" class="cat">
-                            Grinders</a>
-                    </div>
-                    
-                
-                    <div class="catDiv">
                         <a href="/tool-categories/Fastening.aspx" target="" class="cat">
                             Fastening</a>
-                    </div>
-                    
-                
-                    <div class="catDiv">
-                        <a href="/tool-categories/Generators.aspx" target="" class="cat">
-                            Generators</a>
                     </div>
                     
                 
@@ -824,14 +834,20 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             <div id="toolsCol_3">
                             
                     <div class="catDiv">
-                        <a href="/tool-categories/Hammers-and-Hammer-Drills.aspx" target="" class="cat">
-                            Hammers &amp; Hammer Drills</a>
+                        <a href="/tool-categories/Generators.aspx" target="" class="cat">
+                            Generators</a>
                     </div>
                     
                 
                     <div class="catDiv">
-                        <a href="/tool-categories/reference-guides.aspx" target="" class="cat">
-                            Apps, Books and Courses</a>
+                        <a href="/tool-categories/Grinders.aspx" target="" class="cat">
+                            Grinders</a>
+                    </div>
+                    
+                
+                    <div class="catDiv">
+                        <a href="/tool-categories/Hammers-and-Hammer-Drills.aspx" target="" class="cat">
+                            Hammers &amp; Hammer Drills</a>
                     </div>
                     
                 
@@ -841,6 +857,16 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     </div>
                     
                 
+                    <div class="catDiv">
+                        <a href="/tool-categories/Lasers-and-Instruments.aspx" target="" class="cat">
+                            Lasers, Instruments &amp; Levels</a>
+                    </div>
+                    
+                
+
+                            </div>
+                            <div id="toolsCol_4">
+                            
                     <div class="catDiv">
                         <a href="/tool-categories/Metal-Working.aspx" target="" class="cat">
                             Metal Working</a>
@@ -853,16 +879,6 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     </div>
                     
                 
-
-                            </div>
-                            <div id="toolsCol_4">
-                            
-                    <div class="catDiv">
-                        <a href="/tool-categories/Lasers-and-Instruments.aspx" target="" class="cat">
-                            Lasers, Instruments &amp; Levels</a>
-                    </div>
-                    
-                
                     <div class="catDiv">
                         <a href="/tool-categories/Pressure-Washers.aspx" target="" class="cat">
                             Pressure Washers</a>
@@ -870,8 +886,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     
                 
                     <div class="catDiv">
-                        <a href="/tool-categories/Safety-Products-and-Work-Gear.aspx" target="" class="cat">
-                            Safety Products &amp; Work Gear</a>
+                        <a href="/tool-categories/safetyproductsandworkgear.aspx" target="" class="cat">
+                            Safety Products and Workgear</a>
                     </div>
                     
                 
@@ -881,19 +897,13 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     </div>
                     
                 
-                    <div class="catDiv">
-                        <a href="/tool-categories/Storage-and-Security.aspx" target="" class="cat">
-                            Storage &amp; Security</a>
-                    </div>
-                    
-                
 
                             </div>
                             <div id="toolsCol_5">
                             
                     <div class="catDiv">
-                        <a href="/tool-categories/Tile-Saws.aspx" target="" class="cat">
-                            Tile Saws </a>
+                        <a href="/tool-categories/Storage-and-Security.aspx" target="" class="cat">
+                            Storage &amp; Security</a>
                     </div>
                     
                 
@@ -935,14 +945,14 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             <div id="attaccCol_2">
                             
                     <div class="catDiv">
-                        <a href="/tool-part-categories/Drilling-Accessories.aspx" target="" class="cat">
-                            Drilling Accessories</a>
+                        <a href="/tool-part-categories/Cutting.aspx" target="" class="cat">
+                            Cutting Accessories</a>
                     </div>
                     
                 
                     <div class="catDiv">
-                        <a href="/tool-part-categories/Cutting.aspx" target="" class="cat">
-                            Cutting Accessories</a>
+                        <a href="/tool-part-categories/Fastening-Accessories.aspx" target="" class="cat">
+                            Fastening Accessories</a>
                     </div>
                     
                 
@@ -951,14 +961,14 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             <div id="attaccCol_3">
                             
                     <div class="catDiv">
-                        <a href="/tool-part-categories/Fastening-Accessories.aspx" target="" class="cat">
-                            Fastening Accessories</a>
+                        <a href="/tool-part-categories/Abrasives-Diamonds.aspx" target="" class="cat">
+                            Abrasives / Diamonds</a>
                     </div>
                     
                 
                     <div class="catDiv">
-                        <a href="/tool-part-categories/Abrasives-Diamonds.aspx" target="" class="cat">
-                            Abrasives / Diamonds</a>
+                        <a href="/tool-part-categories/Specialty-Miscellaneous.aspx" target="" class="cat">
+                            Specialty / Miscellaneous</a>
                     </div>
                     
                 
@@ -967,14 +977,14 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             <div id="attaccCol_4">
                             
                     <div class="catDiv">
-                        <a href="/tool-part-categories/Impact-Ready-Accessories.aspx" target="" class="cat">
-                            Impact Ready Accessories</a>
+                        <a href="/tool-part-categories/Drilling-Accessories.aspx" target="" class="cat">
+                            Drilling Accessories</a>
                     </div>
                     
                 
                     <div class="catDiv">
-                        <a href="/tool-part-categories/Specialty-Miscellaneous.aspx" target="" class="cat">
-                            Specialty / Miscellaneous</a>
+                        <a href="/tool-part-categories/Impact-Ready-Accessories.aspx" target="" class="cat">
+                            Impact Ready Accessories</a>
                     </div>
                     
                 
@@ -1019,11 +1029,6 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <a href="/tool-part-categories/Framing-Nails.aspx" target="">Framing Nails</a>
                                       
             </li>
-        
-            <li class="">
-                <a href="/tool-part-categories/staples.aspx" target="">Staples</a>
-                                      
-            </li>
         </ul>
 
 
@@ -1031,36 +1036,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     </div>
                 </li>
             
-                <li class="promotions">
-                    <a id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_Dropdowns_rptTopLevelNodes_ctl03_lnkTopLevelNode"></a>
-                    <a href="/promotions.aspx">
-                        PROMOTIONS</a>
-                    <div class="navigation-2 ">
-                        <div class="catsubcatpanel">
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            <ul style="position:relative; left:-10px; top:0px;"></ul>
-
-
-                        </div>
-                    </div>
-                </li>
-            
                 <li class="events">
-                    <a id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_Dropdowns_rptTopLevelNodes_ctl04_lnkTopLevelNode"></a>
+                    <a id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_Dropdowns_rptTopLevelNodes_ctl03_lnkTopLevelNode"></a>
                     <a href="/events.aspx">
                         EVENTS</a>
                     <div class="navigation-2 ">
@@ -1088,7 +1065,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 </li>
             
                 <li class="parts &amp; information">
-                    <a id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_Dropdowns_rptTopLevelNodes_ctl05_lnkTopLevelNode"></a>
+                    <a id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_Dropdowns_rptTopLevelNodes_ctl04_lnkTopLevelNode"></a>
                     <a href="/parts-and-service.aspx">
                         PARTS &amp; INFORMATION</a>
                     <div class="navigation-2 ">
@@ -1144,6 +1121,34 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                       
             </li>
         </ul>
+
+
+                        </div>
+                    </div>
+                </li>
+            
+                <li class="promotions">
+                    <a id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_Dropdowns_rptTopLevelNodes_ctl05_lnkTopLevelNode"></a>
+                    <a href="/promotions.aspx">
+                        PROMOTIONS</a>
+                    <div class="navigation-2 ">
+                        <div class="catsubcatpanel">
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            <ul style="position:relative; left:-10px; top:0px;"></ul>
 
 
                         </div>
