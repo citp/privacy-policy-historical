@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axandra.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611172238id_/http%3A//www.axandra.com/seo/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axandra.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223115558id_/http%3A//www.axandra.com/seo/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy | Axandra SEO software tools
 
@@ -38,7 +38,7 @@ We use return email addresses to answer the emails we receive. Such addresses ar
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above, without also providing you with an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-We use Google Analytics on our web pages. You can opt-out of Google Analytics with a browser [plugin](http://tools.google.com/dlpage/gaoptout).
+We use Google Analytics on our web pages. You can opt-out of Google Analytics with a browser [plugin](http://tools.google.com/dlpage/gaoptout). IP addresses will be anonymized.
 
 ### Credit dard processing and security
 
