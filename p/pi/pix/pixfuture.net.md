@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixfuture.net privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623102112id_/http%3A//pixfuture.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixfuture.net privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223091739id_/http%3A//www.pixfuture.com/privacy-policy) for the most accurate reproduction.*
 
 # PixFuture - Privacy Policy
 
@@ -7,7 +7,7 @@
 **PixFuture is deeply committed to protecting the privacy of Internet users.**  
 Accordingly, we strictly adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information. This Privacy Statement presents our privacy policy, including PixFuture's privacy practices for our web site. Below is information regarding PixFuture's commitment to protecting the privacy of Internet users. 
 
-##### Consumer Information 
+##### Consumer Information
 
 PixFuture uses own or third party ad serving technology to serve ads at this site and at our clients' sites. In the course of delivering an ad to you, the third party ad serving party may place or recognize a unique cookie on your browser and use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services that may be of interest to you 
 
