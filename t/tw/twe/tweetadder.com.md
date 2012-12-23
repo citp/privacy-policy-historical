@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweetadder.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531061402id_/http%3A//www.tweetadder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetadder.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223091951id_/http%3A//www.tweetadder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Twitter Marketing Software - Twitter Adder - Professional Twitter Marketing Tools - Automatic Twitter Software - Automate Twitter Posts, Auto Twitter Follow, Automate Unfollow, Mass Tweets, Twitter Search, more ..
 
