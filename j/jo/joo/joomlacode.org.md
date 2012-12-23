@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the joomlacode.org privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618140709id_/http%3A//www.joomla.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlacode.org privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223023439id_/http%3A//www.joomla.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+###  Privacy Policy 
 
 This web site is one of the family of web sites of **Joomla!/Open Source Matters**. 
 
@@ -64,4 +66,4 @@ From time to time, we may use user information for new, unanticipated uses not p
 
 ##  Questions or comments 
 
-If you have questions or comments about this policy or if you feel that this site is not following its stated information policy please contact us at privacy@opensourcematters.org. 
+If you have questions or comments about this policy or if you feel that this site is not following its stated information policy please contact us at [privacy@opensourcematters.org](mailto:privacy@opensourcematters.org). 
