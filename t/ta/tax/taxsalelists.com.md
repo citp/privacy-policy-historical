@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxsalelists.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610081948id_/http%3A//www.taxsalelists.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxsalelists.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223090849id_/http%3A//taxsalelists.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TaxSaleLists.com - Lists and Manuals for Tax Lien and Tax Deed Sales Nationwide
 
