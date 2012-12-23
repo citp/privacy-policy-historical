@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the embassy.gov.au privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505042857id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embassy.gov.au privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223034806id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
 
-# Privacy | Australian Government Department of Foreign Affairs and Trade
+# Privacy - Australian Government Department of Foreign Affairs and Trade
+
+## About this website
+
+  * [Accessibility](https://web.archive.org/accessibility.html)
+  * [Copyright](https://web.archive.org/copyright.html)
+  * [Disclaimer](https://web.archive.org/disclaimer.html)
+  * [Privacy](https://web.archive.org/privacy.html)
+  * [Site index](https://web.archive.org/directory.html)
+  * [Contact us](https://web.archive.org/contacts.html)
+
+
 
 Pages on the webservers dfat.gov.au, smartraveller.gov.au, passports.gov.au, foreignminister.gov.au, trademinister.gov.au, asis.gov.au, and embassy.gov.au (including their sub-domains) conform to the following privacy guidelines:
 
