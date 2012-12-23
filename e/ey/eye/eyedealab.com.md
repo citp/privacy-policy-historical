@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyedealab.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604081251id_/http%3A//eyedealab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyedealab.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223112756id_/http%3A//eyedealab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Eyedea Lab - Graphics design & Website design Services
 
