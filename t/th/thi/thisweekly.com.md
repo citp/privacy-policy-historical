@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisweekly.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524193900id_/http%3A//thisweekly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisweekly.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223160939id_/http%3A//thisweekly.com/privacy) for the most accurate reproduction.*
 
 # Privacy | High Quality Social Bookmarking Service
 
