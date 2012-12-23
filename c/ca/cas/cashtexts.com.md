@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cashtexts.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614002336id_/http%3A//www.cashtexts.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashtexts.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223180300id_/http%3A//www.cashtexts.com/privacy_policy) for the most accurate reproduction.*
 
-# Cash Texts :: Get Paid to Receive Text Messages!
+# Cash Texts :: Get Paid to Receive Texts, E-mails and Ads!
 
 Version 1.0 - Last updated 11/29/2011
 
