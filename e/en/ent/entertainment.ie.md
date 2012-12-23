@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainment.ie privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625134714id_/http%3A//entertainment.ie/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainment.ie privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223063827id_/http%3A//entertainment.ie/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Entertainment.ie
 
@@ -22,7 +22,7 @@ If you send us listings information for your events we will post those details o
 
 #### Collection and use of technical information
 
-This website does not require the use of cookies however they are used for uLike members to enhance user experience by storing user preferences and to automatically log members into the site 
+This website does not require the use of cookies however they are required for certain functionality, including the login membership uLike service. Cookies are used to enhance user experience by storing user preferences and to automatically log members into the site. The Policy concerning the use of cookies is detailed in the [entertainment.ie Cookies Policy](https://web.archive.org/cookiepolicy.asp)
 
 Technical details in connection with visits to this website are logged by our internet service provider for our statistical purposes. No information is collected that could be used by us to identify website visitors. The technical details logged are confined to the following items:
 
@@ -40,7 +40,7 @@ entertainment.ie will make no attempt to identify individual visitors, or to ass
 
 _web browser_
 
-The piece of software you use to read web pages. Examples are Microsoft Internet Explorer, Netscape Navigator and Opera.
+The piece of software you use to read web pages. Examples are Microsoft Internet Explorer, Mozilla Firefox, Google Chrome and Safari.
 
 _IP address_
 
