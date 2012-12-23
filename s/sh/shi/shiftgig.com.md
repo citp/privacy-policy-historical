@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiftgig.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510121710id_/http%3A//www.shiftgig.com/sg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiftgig.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223024232id_/http%3A//shiftgig.com/sg/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Shiftgig
 
