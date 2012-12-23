@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishteststore.net privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531230708id_/http%3A//www.englishteststore.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D374%26Itemid%3D358) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishteststore.net privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223112237id_/http%3A//www.englishteststore.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D374%26Itemid%3D358) for the most accurate reproduction.*
 
 # Privacy policy
 
