@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the redding.com privacy policy that was archived on 2012-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618114547id_/http%3A//www.redding.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the redding.com privacy policy that was archived on 2012-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121223190234id_/http%3A//www.redding.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:nitro="http://www.bunchball.com/nitro"><!--
   
@@ -85,35 +85,16 @@
                 if( ind1 == -1 ) ind1 = zagi.length - 1;
                 return zagi.substring( ind + zagiName.length + 1, ind1 ) ;
             }
-            // SITE-LEVEL PARAMETERS
-            yld_mgr = {};
-            yld_mgr.pub_id="22689691397";
-            yld_mgr.site_name="Redding Record Searchlight";
-            yld_mgr.container_type="js";//Hardcoded
-
-            //OPTIONAL PARAMETERS THAT DESCRIBE THE TARGETED CONTENT 
-            // <class 'django.models.flatpages.FlatPage'>
-            /* /privacy/ - Privacy Policy */
-            yld_mgr.content_topic_id_list=[ "20276501"]; 
-            // [News / Local (NPC)]
-            // yld_mgr.site_section_name_list=[]; // this view is not mapped to yahoo's SiteSectionTaxonomy
-            yld_mgr.content_lang="en-US"; //Hardcoded
-
-
-            //OPTIONAL DISABLE CONTENT SEND 
-            yld_mgr.disable_content_send="0"; 
- 
             //OPTIONAL PARAMETERS FOR GEOGRAPHIC TARGETING 
             var zip = ReadZagi( 'zip_code' );
-            if( zip ) { yld_mgr.user_zip = zip ; }
             var city = ReadZagi( 'city' ) ;
-            if( city ) { yld_mgr.user_city = city ; }
             var state = ReadZagi( 'state' ) ;
-            if( state ) { yld_mgr.user_state = state ; }
             
             //OPTIONAL PARAMETERS FOR DEMOGRAPHIC TARGETING 
-            var age = ReadZagi( 'age' ) ;
+            var gender = ReadZagi( 'gender' )=='M'?'m':ReadZagi('gender')=='F'?'f':''
+
             function AgeToRange( years_old ) {
+                if( isNaN( years_old ) ) { return '' ; }
                 if( years_old < 13 ) { return "" ; }
                 else if( years_old < 18 ) { return "13-17" ; }
                 else if( years_old < 21 ) { return "18-20" ; }
@@ -126,34 +107,36 @@
                 else if( years_old < 55 ) { return "50-54" ; }
                 else if( years_old < 60 ) { return "55-59" ; }
                 else if( years_old < 65 ) { return "60-64" ; }
-                else if( years_old < 100 ){ return "65-100" ; }
-                return "100+" ;
+                return "65plus" ;
             }
-            var gender = ReadZagi( 'gender' )=='M'?'Male':ReadZagi('gender')=='F'?'Female':''
-            if( gender ) yld_mgr.user_gender = gender ;
-            if( age ) yld_mgr.user_age = AgeToRange( age ) ;
+            var age_range = AgeToRange( ReadZagi( 'age' ) ) ;
+
             function IncToRange( inc ) {
                 var idx = 0 ;
                 var numstr = '' ;
-                for( idx = 0; idx < inc.length; idx ++ ) 
+                for( idx = 0; idx < inc.length && inc[idx]!='+'; idx ++ ) 
                     if( ! isNaN( parseInt(inc[idx]) ) ) numstr += inc[idx] ;
                 inc = parseInt( numstr ) ;
                 if( isNaN( inc ) ) { return '' ; }
-                else if( inc <= 24999 ) { return '1-24999' ; }
+                else if( inc <= 24999 ) { return 'less25000' ; }
                 else if( inc <= 34999 ) { return '25000-34999' ; }
                 else if( inc <= 49999 ) { return '35000-49999' ; }
                 else if( inc <= 74999 ) { return '50000-74999' ; }
                 else if( inc <= 99999 ) { return '75000-99999' ; }
                 else if( inc <=149999 ) { return '100000-149999' ; }
                 else if( inc <=249999 ) { return '150000-249999' ; }
-                else if( inc >=250000 ) { return '250000-' ; }
+                else if( inc >=250000 ) { return '250000plus' ; }
             }
             var inc_range = IncToRange( ReadZagi( 'income' ) ) ;
-            if( inc_range ) yld_mgr.user_income=inc_range ;
 
+            var _ord = _ord || Math.random()*1000000000000000000; 
+            var _tile_params = ";ord=" + _ord;
 
-            // define the slots
-            yld_mgr.slots = {} ;
+            var _demo_params = '' ;
+            if( age_range ) _demo_params +=';age=' + age_range ;
+            if( gender ) _demo_params += ';gender=' + gender ;
+            if( inc_range ) _demo_params += ';income=' + inc_range ;
+
             
 //--> </script>
 <!-- End ad manager -->
@@ -166,124 +149,35 @@
 	
 			
 			<!-- stage register_ad_pos -->
-			<script type="text/javascript"><!--
-            yld_mgr.slots.SUPERSTITIAL = {};
-             
-            //REQUIRED PARAMETERS 
-            yld_mgr.slots.SUPERSTITIAL.request_type="ac"; // ac=ad call, bc=beacon call, fc=forecast call
-            yld_mgr.slots.SUPERSTITIAL.ad_size_list=["720x300", "720x90"  ]; // SUPERSTITIAL
-
-            //OPTIONAL PARAMETERS THAT DESCRIBE THE AD 
-            yld_mgr.slots.SUPERSTITIAL.ad_delivery_mode="ipatf"; // pos = above; ipatf = above the fold, ipbtf = below the fold, ipstf = spans the fold
-            yld_mgr.slots.SUPERSTITIAL.clk_dest="_blank"; //Hardcoded
-            yld_mgr.slots.SUPERSTITIAL.ad_output_encoding="utf-8"; //Hardcoded
-            // no custom categories
-            // yld_mgr.slots.SUPERSTITIAL.content_type_list=[]; // this view not mapped to a yahoo content type
-
-        
-            //--> </script> 
-			<script type="text/javascript"><!--
-            yld_mgr.slots.BIGBOX_1 = {};
-             
-            //REQUIRED PARAMETERS 
-            yld_mgr.slots.BIGBOX_1.request_type="ac"; // ac=ad call, bc=beacon call, fc=forecast call
-            yld_mgr.slots.BIGBOX_1.ad_size_list=["300x250"  ]; // BIGBOX
-
-            //OPTIONAL PARAMETERS THAT DESCRIBE THE AD 
-            yld_mgr.slots.BIGBOX_1.ad_delivery_mode="ipatf"; // pos = above; ipatf = above the fold, ipbtf = below the fold, ipstf = spans the fold
-            yld_mgr.slots.BIGBOX_1.clk_dest="_blank"; //Hardcoded
-            yld_mgr.slots.BIGBOX_1.ad_output_encoding="utf-8"; //Hardcoded
-            // no custom categories
-            // yld_mgr.slots.BIGBOX_1.content_type_list=[]; // this view not mapped to a yahoo content type
-
-        
-            //--> </script> 
+			<!-- registered SUPERSTITIAL ad in position above, slot SUPERSTITIAL -->
+			<!-- registered BIGBOX ad in position above, slot BIGBOX_1 -->
 
 			
 	
 	
-				<script type="text/javascript"><!--
-            yld_mgr.slots.BIGBOX_2 = {};
-             
-            //REQUIRED PARAMETERS 
-            yld_mgr.slots.BIGBOX_2.request_type="ac"; // ac=ad call, bc=beacon call, fc=forecast call
-            yld_mgr.slots.BIGBOX_2.ad_size_list=["300x250"  ]; // BIGBOX
-
-            //OPTIONAL PARAMETERS THAT DESCRIBE THE AD 
-            yld_mgr.slots.BIGBOX_2.ad_delivery_mode="ipbtf"; // pos = below; ipatf = above the fold, ipbtf = below the fold, ipstf = spans the fold
-            yld_mgr.slots.BIGBOX_2.clk_dest="_blank"; //Hardcoded
-            yld_mgr.slots.BIGBOX_2.ad_output_encoding="utf-8"; //Hardcoded
-            // no custom categories
-            // yld_mgr.slots.BIGBOX_2.content_type_list=[]; // this view not mapped to a yahoo content type
-
-        
-            //--> </script> 			
+				<!-- registered BIGBOX ad in position below, slot BIGBOX_2 -->			
 			
 
 
-			<script type="text/javascript"><!--
-            yld_mgr.slots.WEATHER_SPONSOR = {};
-             
-            //REQUIRED PARAMETERS 
-            yld_mgr.slots.WEATHER_SPONSOR.request_type="ac"; // ac=ad call, bc=beacon call, fc=forecast call
-            yld_mgr.slots.WEATHER_SPONSOR.ad_size_list=["120x30"  ]; // WEATHER_SPONSOR
-
-            //OPTIONAL PARAMETERS THAT DESCRIBE THE AD 
-            yld_mgr.slots.WEATHER_SPONSOR.ad_delivery_mode="ipbtf"; // pos = below; ipatf = above the fold, ipbtf = below the fold, ipstf = spans the fold
-            yld_mgr.slots.WEATHER_SPONSOR.clk_dest="_blank"; //Hardcoded
-            yld_mgr.slots.WEATHER_SPONSOR.ad_output_encoding="utf-8"; //Hardcoded
-            // no custom categories
-            // yld_mgr.slots.WEATHER_SPONSOR.content_type_list=[]; // this view not mapped to a yahoo content type
-
-        
-            //--> </script> 
-			<script type="text/javascript"><!--
-            yld_mgr.slots.SEARCH_RESULTS_SPONSOR_1 = {};
-             
-            //REQUIRED PARAMETERS 
-            yld_mgr.slots.SEARCH_RESULTS_SPONSOR_1.request_type="ac"; // ac=ad call, bc=beacon call, fc=forecast call
-            yld_mgr.slots.SEARCH_RESULTS_SPONSOR_1.ad_size_list=["120x30"  ]; // SEARCH_RESULTS_SPONSOR
-
-            //OPTIONAL PARAMETERS THAT DESCRIBE THE AD 
-            yld_mgr.slots.SEARCH_RESULTS_SPONSOR_1.ad_delivery_mode="ipatf"; // pos = above; ipatf = above the fold, ipbtf = below the fold, ipstf = spans the fold
-            yld_mgr.slots.SEARCH_RESULTS_SPONSOR_1.clk_dest="_blank"; //Hardcoded
-            yld_mgr.slots.SEARCH_RESULTS_SPONSOR_1.ad_output_encoding="utf-8"; //Hardcoded
-            // no custom categories
-            // yld_mgr.slots.SEARCH_RESULTS_SPONSOR_1.content_type_list=[]; // this view not mapped to a yahoo content type
-
-        
-            //--> </script> 
+			<!-- registered WEATHER_SPONSOR ad in position below, slot WEATHER_SPONSOR -->
+			<!-- registered SEARCH_RESULTS_SPONSOR ad in position above, slot SEARCH_RESULTS_SPONSOR_1 -->
 			
 			<!-- End register_ad_pos -->
 		
 	
-	<script type="text/javascript"><!--
-            yld_mgr.slots.LEADERBOARD_1 = {};
-             
-            //REQUIRED PARAMETERS 
-            yld_mgr.slots.LEADERBOARD_1.request_type="ac"; // ac=ad call, bc=beacon call, fc=forecast call
-            yld_mgr.slots.LEADERBOARD_1.ad_size_list=["728x90"  ]; // LEADERBOARD
-
-            //OPTIONAL PARAMETERS THAT DESCRIBE THE AD 
-            yld_mgr.slots.LEADERBOARD_1.ad_delivery_mode="ipatf"; // pos = above; ipatf = above the fold, ipbtf = below the fold, ipstf = spans the fold
-            yld_mgr.slots.LEADERBOARD_1.clk_dest="_blank"; //Hardcoded
-            yld_mgr.slots.LEADERBOARD_1.ad_output_encoding="utf-8"; //Hardcoded
-            // no custom categories
-            // yld_mgr.slots.LEADERBOARD_1.content_type_list=[]; // this view not mapped to a yahoo content type
-
-        
-            //--> </script> 
+	<!-- registered LEADERBOARD ad in position above, slot LEADERBOARD_1 -->
 
 
 		
 
-		<script type="text/javascript" src="http://e.yieldmanager.net/script.js"></script>
+		
 	
 	
 	
 	<!-- META -->
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<meta name="author" content="Redding Record Searchlight and Record Searchlight">
+    <!-- fb requires author as meta property instead of meta name and now it is a 'profile' type, not a string -->
+	<!-- <meta property="author" content="Redding Record Searchlight and Record Searchlight" /> -->
 	<meta name="description" content="
 	Privacy Policy news and information. Redding Record Searchlight brings you the most current Privacy Policy news and information available.
 	">
@@ -410,9 +304,10 @@
 
 	
 <!-- stats tag ['REDD'] -->
-<script type="text/javascript" src="http://apptap.scripps.com/apptap3?site=REDD&amp;app=djeff&amp;path=/privacy&amp;title=privacy-policy&amp;topic=News+%2F+Local+%28NPC%29"></script><script type="text/javascript">apptap();</script>
+<script type="text/javascript" src="http://apptap.scripps.com/apptap3?site=REDD&amp;app=djeff&amp;path=/privacy&amp;title=privacy-policy&amp;topic=News+%28NPC%29"></script><script type="text/javascript">apptap();</script>
 
 <script type="text/javascript">document.body.className += " hasJS"</script>
+
 	
 
 
@@ -422,7 +317,10 @@
 	
 
 	
-	<div class="adtag" id="SUPERSTITIAL"><script>yld_mgr.place_ad_here("SUPERSTITIAL");</script> </div>
+	<div class="adtag" id="SUPERSTITIAL"><script language="JavaScript">
+        // slotname: SUPERSTITIAL
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.redd/News;pt=detail;tile=1;sz=720x300;dcopt=ist;pos=above' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.redd/News;pt=detail;tile=1;sz=720x300;dcopt=ist;pos=above;ord=751199513058835200" type="text/javascript"></script></div>
 
 
 <div id="advertising_wrapper" class="default ggnoads">
@@ -433,7 +331,10 @@
 			
 		
 			<div id="leaderboard">
-				<div class="adtag" id="LEADERBOARD_1"><script>yld_mgr.place_ad_here("LEADERBOARD_1");</script> </div>
+				<div class="adtag" id="LEADERBOARD_1"><script language="JavaScript">
+        // slotname: LEADERBOARD_1
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.redd/News;pt=detail;tile=6;sz=728x90;pos=above' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.redd/News;pt=detail;tile=6;sz=728x90;pos=above;ord=751199513058835200" type="text/javascript"></script></div>
 			</div> <!-- end #leaderboard -->
 		
 		</div> <!-- end #advertising -->
@@ -454,8 +355,10 @@
 <li><a href="/staff/" title="Contact Us"> Contact Us</a> |</li>
 	<li><a href="http://reddingsearchlight.ca.newsmemory.com/" title="e-Edition"> e-Edition</a> |</li>
 	<li><a href="http://subscribe.redding.com/" title="Subscription Services"> Subscribe</a> |</li>
-    <li><a href="http://paymybill.redding.com" title="Pay My Bill"> Pay My Bill</a> |</li>
-    <li><a href="http://www.redding.com/rewards/" title="Reader Rewards"> Reader Rewards</a></li>
+    <li><a href="http://paymybill.redding.com" title="Manage Newspaper Account"> Newspaper Account</a></li>
+    
+    <!--<li><a href="http://paymybill.redding.com" title="Pay My Bill"> Pay My Bill</a> |</li>
+    <li><a href="http://www.redding.com/rewards/" title="Reader Rewards"> Reader Rewards</a></li>-->
 
 		</ul>
 		
@@ -719,7 +622,7 @@
 						<li><a href="/places/venues/" title="Redding Venues">Event Venues</a></li>
 					</ul>
 				</li>
-				<li><a href="/games/" title="Games">Games</a></li> 
+				<!--<li><a href="/games/" title="Games">Games</a></li>--> 
                 <li><a href="/news/entertainment/movies/" title="Movies">Movies</a></li>                
                 <li><a href="/news/entertainment/music/" title="Music">Music</a>
                 <ul class="tertiary_nav">
@@ -849,9 +752,141 @@
 				
 	
 				
-		
+					
 				
 		
+				
+					
+						
+					
+				
+		
+				
+					<div id="alert_bark_wrapper">
+						<div id="alert_bark_clipper">
+							<ul id="alert_bark_carousel">
+							
+								
+							
+								
+				
+								
+									
+										
+
+
+
+	
+	
+	
+
+
+
+
+<li class="alert_bark alert_bark_breaking_weather alert_bark_img_srchttpwebreddingcomimagesmiscyellowbar_stormshieldjpg_border0_alignmiddle">
+	<h2 class="alert_bark_title">
+<img src="http://web.redding.com/images/misc/yellowbar-stormshield.jpg" border="0" align="middle">
+</h2>
+	<p class="alert_bark_content">
+
+Get severe weather notifications anywhere via our new <strong>&nbsp; •  &nbsp; <a href="http://bit.ly/Storm_Shield">iPhone</a> </strong>&nbsp; <strong>•  &nbsp; <a href="http://bit.ly/Q0PIvx">Android app</a></strong> </p>
+</li><!-- end .alert_bark alert_bark_breaking_weather -->
+
+									
+										
+
+
+
+	
+	
+	
+
+
+
+
+<li class="alert_bark alert_bark_breaking_weather alert_bark_connecticut_shootings">
+	<h2 class="alert_bark_title">Connecticut shootings</h2>
+	<p class="alert_bark_content">
+<a href="http://www.redding.com/topic/sandy-hook-elementary-school/">
+Get the latest update on the school shooting and related content.</a></p>
+</li><!-- end .alert_bark alert_bark_breaking_weather -->
+
+									
+								
+							
+								
+							
+								
+									
+										
+											
+												<li class="alert_bark alert_bark_autoweather">
+													<h2 class="alert_bark_title">Winter Storm Warning</h2>
+													<p class="alert_bark_meta">IN EFFECT UNTIL DEC 23, 4:00 p.m.</p>													
+													<p class="alert_bark_content"><span>issued for </span><a href="/weather/">Mountains Southwestern Shasta County to Northern Lake County</a></p>
+												</li><!-- end .alert_bark alert_bark_autoweather -->
+											
+										
+											
+												<li class="alert_bark alert_bark_autoweather">
+													<h2 class="alert_bark_title">Wind Advisory</h2>
+													<p class="alert_bark_meta">IN EFFECT UNTIL DEC 23, 4:00 p.m.</p>													
+													<p class="alert_bark_content"><span>issued for </span><a href="/weather/">Northern Sacramento Valley</a></p>
+												</li><!-- end .alert_bark alert_bark_autoweather -->
+											
+										
+									
+								
+							
+								
+							
+								
+									
+										
+
+
+
+	
+	
+	
+
+
+
+
+<li class="alert_bark alert_bark_site alert_bark_latest_news">
+	<h2 class="alert_bark_title">Latest News</h2>
+	<p class="alert_bark_content">
+<a href="news/latest-news/">Get the latest local, state, national and world news here.</a></p>
+</li><!-- end .alert_bark alert_bark_site -->
+									
+										
+
+
+
+	
+	
+	
+
+
+
+
+<li class="alert_bark alert_bark_site alert_bark_embed_width200_height44_stylez_index_100_srchttpwebreddingcomimagesmiscalert_bar_lightsswf_typeapplicationx_shockwave_flash_fullscreenyes">
+	<h2 class="alert_bark_title">
+<embed width="200" height="44" style="z-index:-100;" src="http://web.redding.com/images/misc/alert-bar-lights.swf" type="application/x-shockwave-flash" fullscreen="yes">
+</h2>
+	<p class="alert_bark_content">
+<a href="http://rdcfeeds.redding.com/xmaslights/">
+'Tis the season. Create your own tour...get driving map and directions here.</a></p>
+</li><!-- end .alert_bark alert_bark_site -->
+									
+
+								
+							
+							</ul>
+						</div><!-- end #alert_bark_clipper -->
+					</div><!-- end #alert_bark_wrapper -->
+				
+				
 				
 			
 		
@@ -892,9 +927,11 @@
 
 		
 		
+ 		
 		
-		
+
 		<div id="content_wrapper" class="clear">
+
 			
 		
 		<div id="primary_content">
@@ -1009,24 +1046,20 @@
 			<div id="secondary_content" class="ggnoads">
 				
 					
+				
+					
 						<div class="bigbox_wrapper clear">
 	<div class="bigbox">
-		<div class="adtag" id="BIGBOX_1"><script>yld_mgr.place_ad_here("BIGBOX_1");</script> </div>
+		<div class="adtag" id="BIGBOX_1"><script language="JavaScript">
+        // slotname: BIGBOX_1
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.redd/News;pt=detail;tile=2;sz=300x250;pos=above' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.redd/News;pt=detail;tile=2;sz=300x250;pos=above;ord=751199513058835200" type="text/javascript"></script></div>
 	</div> <!-- end .bigbox -->
 </div> <!-- end .bigbox_wrapper -->
 						
 					
 					
 					
-	<div class="titlebar">
-	    <h3>Top Community Movers</h3>
-	</div><!-- End .titlebar_secondary titlebar -->
-	<div class="bucket_primary bucket_padded bucket clear">
-	    <h4>Today:</h4><ol id="community_leaders_today" class="leader_list"></ol>
-	
-	
-		<h4>Past seven days:</h4><ol id="community_leaders_week" class="leader_list"></ol>
-</div><!-- End .bucket_secondary bucket clear -->
 
 
 
@@ -1075,28 +1108,28 @@
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2012/jun/16/program-helps-young-redding-father-embrace/?partner=popular" title="At 17, Derrick Steele thought his life was over." rel="nofollow">Program helps young Redding father embrace parenthood </a>
-					<span class="date">Published 6/16/2012 at 9:36 p.m.</span> <a href="/news/2012/jun/16/program-helps-young-redding-father-embrace/?partner=popular#comments" class="comment_count" rel="nofollow">35 comments</a>
+					<a href="/news/2012/dec/22/redding-woman-faces-murder-charges-after-deadly-cr/?partner=popular" title="A Redding woman was arrested Friday on suspicion of second-degree murder stemming from a February car crash in which, police say, she killed someone while driving under the influence. " rel="nofollow">Police: Redding woman faces murder charges after deadly crash</a>
+					<span class="date">Published 12/22/2012 at 11:27 a.m.</span> <a href="/news/2012/dec/22/redding-woman-faces-murder-charges-after-deadly-cr/?partner=popular#comments" class="comment_count" rel="nofollow">21 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/17/dennis-possehn-biologists-pursue-ethnic/?partner=popular" title="The bureaucrats of the U.S. Fish and Wildlife Service apparently view themselves one level above God in their newly proposed spotted owl recovery plan, as they scheme to destroy one species' population in an effort to benefit another. In the new spotted owl &quot;recovery&quot; plan, they are proposing to manipulate Mother Nature's creatures at a whim, while ignoring the history of failed government attempts at playing God." rel="nofollow">Dennis Possehn: Biologists pursue ethnic cleansing </a>
-					<span class="date">Published 6/17/2012 at 12:00 a.m.</span> <a href="/news/2012/jun/17/dennis-possehn-biologists-pursue-ethnic/?partner=popular#comments" class="comment_count" rel="nofollow">28 comments</a>
+					<a href="/news/2012/dec/22/police-drunken-driving-causes-three-vehicle-crash/?partner=popular" title="On Friday, officers say they caught one man who drove away from a court hearing where he was ordered not to get behind the wheel and a woman who caused a three-vehicle crash involving two parked cars as part of the holiday Avoid the Six campaign. " rel="nofollow">Police: Drunken driving causes three-vehicle crash, man drove away from court hearing that barred driving</a>
+					<span class="date">Published 12/22/2012 at 11:49 a.m.</span> <a href="/news/2012/dec/22/police-drunken-driving-causes-three-vehicle-crash/?partner=popular#comments" class="comment_count" rel="nofollow">21 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/17/benton-airpark-host-aviation-day-today/?partner=popular" title="Benton Airpark will host its annual Father’s Day Aviation Day from 7 a.m. to 2 p.m. Sunday at the air park, 2600 Gold St., in Redding." rel="nofollow">Benton Airpark to host Aviation Day today</a>
-					<span class="date">Published 6/17/2012 at 4:00 a.m.</span> <a href="/news/2012/jun/17/benton-airpark-host-aviation-day-today/?partner=popular#comments" class="comment_count" rel="nofollow">8 comments</a>
+					<a href="/news/2012/dec/22/man-dies-after-tree-falls-home/?partner=popular" title="Authorities said today a 63-year-old man died after a tree fell on his trailer in the 1900 block of Gregory Lane in Lakehead. " rel="nofollow">Man dies in Lakehead after tree falls on home</a>
+					<span class="date">Published 12/22/2012 at 4:30 p.m.</span> <a href="/news/2012/dec/22/man-dies-after-tree-falls-home/?partner=popular#comments" class="comment_count" rel="nofollow">6 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/17/redding-weather-hot-today-temperatures-will-drop-9/?partner=popular" title="Temperatures in the north state are expected to climb to 104 on Father's Day today before dropping into the 90s for the rest of the week, according to the National Weather Service." rel="nofollow">UPDATED: Redding weather: Hot today, but temperatures to drop into the 90s this week</a>
-					<span class="date">Updated 6/17/2012 at 8:13 a.m.</span> <a href="/news/2012/jun/17/redding-weather-hot-today-temperatures-will-drop-9/?partner=popular#comments" class="comment_count" rel="nofollow">7 comments</a>
+					<a href="/news/2012/dec/21/calls-for-officers-concealed-weapons-on-school/?partner=popular" title="Posting a law enforcement officer at every Shasta County school and allowing teachers to carry concealed weapons are suggestions that surfaced this week in the wake of last week's deadly school shooting in Connecticut." rel="nofollow">Parents push for more school security; calls for officers, concealed weapons on campuses </a>
+					<span class="date">Published 12/21/2012 at 11:44 p.m.</span> <a href="/news/2012/dec/21/calls-for-officers-concealed-weapons-on-school/?partner=popular#comments" class="comment_count" rel="nofollow">87 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/16/redding-considers-settlement-tied-to-spills-into/?partner=popular" title="Redding leaders are looking to settle fines, at a cost of more than $1 million, for releasing pollutants into the Sacramento River, mostly during torrential rains in March 2011." rel="nofollow">Redding considers settlement tied to spills into Sacramento River; proposal would replace city's older sewer lines</a>
-					<span class="date">Published 6/16/2012 at 9:32 p.m.</span> <a href="/news/2012/jun/16/redding-considers-settlement-tied-to-spills-into/?partner=popular#comments" class="comment_count" rel="nofollow">5 comments</a>
+					<a href="/news/2012/dec/23/police-redding-driver-runs-stop-sign-collision-sus/?partner=popular" title="A 42-year-old Redding man was arrested Saturday afternoon on suspicion of DUI after police say he went through a stop sign and collided with another vehicle." rel="nofollow">Police: Redding driver runs stop sign in collision, suspected of DUI</a>
+					<span class="date">Published 12/23/2012 at 12:08 a.m.</span> <a href="/news/2012/dec/23/police-redding-driver-runs-stop-sign-collision-sus/?partner=popular#comments" class="comment_count" rel="nofollow">4 comments</a>
 				</li>
 			
 		</ul>
@@ -1108,15 +1141,15 @@
 			
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2012/jun/02/enterprise-class-2012/?partner=popular" title="Enterprise Class of 2012" rel="nofollow"><img src="http://media.redding.com/media/img/photos/2012/06/02/0602_RCLO_hornets8_w_t90_70.jpg" width="90" alt="Enterprise Class of 2012"> Enterprise Class of 2012</a>
+					<a href="/photos/galleries/2012/dec/22/fun-snow-our-readers-photos-saturday/?partner=popular" title="Fun in the snow: Our readers' photos from Saturday" rel="nofollow"><img src="http://media.redding.com/media/img/photos/2012/12/22/Pattern_Energy_Kurt_Emerald_Hatchet_Mtn_t90_70.JPG" width="90" alt="Fun in the snow: Our readers' photos from Saturday"> Fun in the snow: Our readers' photos…</a>
 				</div> <!-- end .bucket_media_item -->
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2012/jun/16/frugal-house/?partner=popular" title="Frugal House" rel="nofollow"><img src="http://media.redding.com/media/img/photos/2012/06/15/0616_RCFE_Frugal3-720_t90_70.jpg" width="90" alt="Frugal House"> Frugal House</a>
+					<a href="/photos/galleries/2012/dec/21/dec-21-winter-storm-photos/?partner=popular" title="Readers' Dec. 21 winter storm photos" rel="nofollow"><img src="http://media.redding.com/media/img/photos/2012/12/21/snow_shrubs_t90_70.jpg" width="90" alt="Readers' Dec. 21 winter storm photos"> Readers' Dec. 21 winter storm photos</a>
 				</div> <!-- end .bucket_media_item -->
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2012/jun/13/shasta-district-fair/?partner=popular" title="Shasta District Fair" rel="nofollow"><img src="http://media.redding.com/media/img/photos/2012/06/13/0614_RCLO_fair4_w_t90_70.jpg" width="90" alt="Shasta District Fair"> Shasta District Fair</a>
+					<a href="/photos/galleries/2012/dec/19/california-gold-mine/?partner=popular" title="California Gold Mine" rel="nofollow"><img src="http://media.redding.com/media/img/photos/2012/12/19/California_Gold_Mine_John_t90_70.jpg" width="90" alt="California Gold Mine"> California Gold Mine</a>
 				</div> <!-- end .bucket_media_item -->
 			
 
@@ -1130,28 +1163,28 @@
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2012/jun/15/banned-medical-marijuana-collective-threatens-to/?partner=popular" title="Board members of Shasta County's only medical marijuana collective, an operation in Burney forced to close by the county's pot shop ban, are demanding a meeting with county officials to lighten growing rules and threatening to sue if their request is shot down. " rel="nofollow">Banned medical marijuana collective threatens to sue Shasta County for millions </a>
-					<span class="date">Published 6/15/2012 at 11:44 p.m.</span> <a href="/news/2012/jun/15/banned-medical-marijuana-collective-threatens-to/?partner=popular#comments" class="comment_count" rel="nofollow">103 comments</a>
+					<a href="/news/2012/dec/21/nra-proposes-armed-officers-every-school/?partner=popular" title="WASHINGTON (AP) — The nation's largest gun-rights lobby called Friday for armed police officers to be posted in every American school to stop the next killer 'waiting in the wings.'" rel="nofollow">NRA proposes armed officers in every school</a>
+					<span class="date">Published 12/21/2012 at 9:59 a.m.</span> <a href="/news/2012/dec/21/nra-proposes-armed-officers-every-school/?partner=popular#comments" class="comment_count" rel="nofollow">157 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/16/former-shasta-lake-councilman-got-warning-letter/?partner=popular" title="SHASTA LAKE — The state's watchdog agency for public officials sent ex-Councilman Rod Lindsay a warning letter last month for failing to properly report his income as required by state law. " rel="nofollow">Former Shasta Lake councilman got warning letter from watchdog agency </a>
-					<span class="date">Published 6/16/2012 at 9:37 p.m.</span> <a href="/news/2012/jun/16/former-shasta-lake-councilman-got-warning-letter/?partner=popular#comments" class="comment_count" rel="nofollow">99 comments</a>
+					<a href="/news/2012/dec/19/business-brisk-at-redding-gun-shops/?partner=popular" title="In the wake of last week's deadly shooting of 20 schoolchildren in Connecticut, gun shops in Redding are doing a brisk business. " rel="nofollow">Business is brisk at gun shops in Redding</a>
+					<span class="date">Published 12/19/2012 at 11:36 p.m.</span> <a href="/news/2012/dec/19/business-brisk-at-redding-gun-shops/?partner=popular#comments" class="comment_count" rel="nofollow">184 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/15/charles-krauthammer-the-2012-silly-season/?partner=popular" title="Mitt Romney vs. Barack Obama is not exactly Jefferson-Adams or Lincoln-Douglas. No Harry Truman or Bill Clinton here, let alone FDR or Reagan. Indeed, it's arguable that neither party is fielding its strongest candidate. Hillary Rodham Clinton would run far better than Obama. True, her secretaryship of state may not remotely qualify as Kissingerian or Achesonian, but she's not Obama. She carries none of his economic baggage. She's unsullied by the last three and a half years. " rel="nofollow">Charles Krauthammer: The 2012 silly season unfolds</a>
-					<span class="date">Published 6/15/2012 at 12:00 a.m.</span> <a href="/news/2012/jun/15/charles-krauthammer-the-2012-silly-season/?partner=popular#comments" class="comment_count" rel="nofollow">95 comments</a>
+					<a href="/news/2012/dec/21/pedestrian-hit-two-vehicles-victor-ave/?partner=popular" title="Victor Avenue was closed for several hours today at Conifer Way after an 18-year-old man was killed after getting hit by two vehicles." rel="nofollow">UPDATED: 18-year-old killed on Victor Ave. identified</a>
+					<span class="date">Published 12/21/2012 at 7:20 a.m.</span> <a href="/news/2012/dec/21/pedestrian-hit-two-vehicles-victor-ave/?partner=popular#comments" class="comment_count" rel="nofollow">93 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/17/alex-landi-president-doesnt-care-about-americans/?partner=popular" title="President Obama likes to talk about jobs for Americans, but he knows very well that (according to Pew Research) illegal immigrants hold at least 7 million jobs in our country. " rel="nofollow">Alex Landi: President doesn't care about Americans </a>
-					<span class="date">Published 6/17/2012 at 12:00 a.m.</span> <a href="/news/2012/jun/17/alex-landi-president-doesnt-care-about-americans/?partner=popular#comments" class="comment_count" rel="nofollow">81 comments</a>
+					<a href="/news/2012/dec/21/calls-for-officers-concealed-weapons-on-school/?partner=popular" title="Posting a law enforcement officer at every Shasta County school and allowing teachers to carry concealed weapons are suggestions that surfaced this week in the wake of last week's deadly school shooting in Connecticut." rel="nofollow">Parents push for more school security; calls for officers, concealed weapons on campuses </a>
+					<span class="date">Published 12/21/2012 at 11:44 p.m.</span> <a href="/news/2012/dec/21/calls-for-officers-concealed-weapons-on-school/?partner=popular#comments" class="comment_count" rel="nofollow">87 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/17/rodney-king-key-figure-in-la-riots-dead-at-47/?partner=popular" title="LOS ANGELES (AP) — Rodney King, the black motorist whose 1991 videotaped beating by Los Angeles police officers was the touchstone for one of the most destructive race riots in the nation's history, has died, his publicist said Sunday." rel="nofollow">Rodney King, key figure in LA riots, dead at 47</a>
-					<span class="date">Published 6/17/2012 at 9:18 a.m.</span> <a href="/news/2012/jun/17/rodney-king-key-figure-in-la-riots-dead-at-47/?partner=popular#comments" class="comment_count" rel="nofollow">73 comments</a>
+					<a href="/news/2012/dec/21/texas-town-allows-teachers-carry-concealed-guns/?partner=popular" title="HARROLD, Texas (AP) — In this tiny Texas town, children and their parents don't give much thought to safety at the community's lone school — mostly because some of the teachers are carrying concealed weapons." rel="nofollow">Texas town allows teachers to carry concealed guns</a>
+					<span class="date">Published 12/21/2012 at 4:00 a.m.</span> <a href="/news/2012/dec/21/texas-town-allows-teachers-carry-concealed-guns/?partner=popular#comments" class="comment_count" rel="nofollow">71 comments</a>
 				</li>
 			
 		</ul>
@@ -1163,29 +1196,28 @@
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2012/jun/12/paynes-creek-man-dies-after-monday-fight-costco-re/?partner=popular" title="An 81-year-old Paynes Creek man died today after hitting his head during a fight with another man in the parking lot of the Redding Costco, police said." rel="nofollow">Paynes Creek man dies after Monday fight at Costco, Redding police say</a>
-					<span class="date">Published 6/12/2012 at 4:45 p.m.</span> <a href="/news/2012/jun/12/paynes-creek-man-dies-after-monday-fight-costco-re/?partner=popular#comments" class="comment_count" rel="nofollow">161 comments</a>
+					<a href="/news/2012/dec/18/a-mile-of-crashes-up-to-60-vehicle-pileup-shuts/?partner=popular" title="Northbound Interstate 5 was shut down in Siskiyou County near Highway 96 on Tuesday evening after as many as 60 vehicles crashed along an icy stretch of the freeway, the California Department of Forestry and Fire Protection said." rel="nofollow">UPDATED: 60-vehicle pileup in icy I-5 crash; at least 30 vehicles towed and 8 injured</a>
+					<span class="date">Published 12/18/2012 at 11:36 p.m.</span> <a href="/news/2012/dec/18/a-mile-of-crashes-up-to-60-vehicle-pileup-shuts/?partner=popular#comments" class="comment_count" rel="nofollow">21 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/08/possible-homicide-reported-redding/?partner=popular" title="The former superintendent of the Grant Elementary School District suffered life-threatening injuries this morning while his wife died in a stabbing at their Redding home. 
-" rel="nofollow">UPDATED: Homicide reported in Redding; nephew of victim arrested</a>
-					<span class="date">Published 6/8/2012 at 10:11 a.m.</span> <a href="/news/2012/jun/08/possible-homicide-reported-redding/?partner=popular#comments" class="comment_count" rel="nofollow">118 comments</a>
+					<a href="/news/2012/dec/18/i-5-closed-siskiyou-county-due-multi-vehicle-pile/?partner=popular" title="Both directions of Interstate 5 are closed in Siskiyou County near Highway 96 tonight due to a pileup involving up to 60 vehicles, the California Department of Forestry and Fire Protection is reporting this evening." rel="nofollow">UPDATE: A 'mile' of car crashes: Up to 60 vehicles crash on icy I-5</a>
+					<span class="date">Published 12/18/2012 at 9:00 p.m.</span> <a href="/news/2012/dec/18/i-5-closed-siskiyou-county-due-multi-vehicle-pile/?partner=popular#comments" class="comment_count" rel="nofollow">10 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/08/updated-benito-loses-federal-defamation-suit-forme/?partner=popular" title="SACRAMENTO — After a six-day trial in U.S. District Court, a jury has ruled that former Shasta County District Attorney Jerry Benito and three co-defendants maliciously defamed the former director of the Shasta County Victim Witness program, awarding her at least $775,000 damages." rel="nofollow">UPDATED: Benito loses federal defamation suit by former employee</a>
-					<span class="date">Published 6/8/2012 at 6:30 p.m.</span> <a href="/news/2012/jun/08/updated-benito-loses-federal-defamation-suit-forme/?partner=popular#comments" class="comment_count" rel="nofollow">63 comments</a>
+					<a href="/news/2012/dec/20/chain-controls-place-i-5-hwy-299-shut-down-west-we/?partner=popular" title="Snow snarled traffic in the mountains today, twice shutting down northbound Interstate 5 before the freeway reopned tonight as numerous big rigs, cars and trucks slipped and slid along the roadway, though the powder spared Redding." rel="nofollow">UPDATE: Northbound I-5 reopened; avalanche warning issued</a>
+					<span class="date">Published 12/20/2012 at 1:22 p.m.</span> <a href="/news/2012/dec/20/chain-controls-place-i-5-hwy-299-shut-down-west-we/?partner=popular#comments" class="comment_count" rel="nofollow">21 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/10/deputies-looking-stabbing-suspects-deschutes-road/?partner=popular" title="At least one person was stabbed this afternoon on Deschutes Road near Oak Tree Lane in Palo Cedro, and deputies are now looking for two suspects who reportedly ran away from the scene southbound on Deschutes Road. " rel="nofollow">UPDATED: Suspects in home invasion robbery allegedly robbed a home earlier Sunday</a>
-					<span class="date">Published 6/10/2012 at 2:37 p.m.</span> <a href="/news/2012/jun/10/deputies-looking-stabbing-suspects-deschutes-road/?partner=popular#comments" class="comment_count" rel="nofollow">45 comments</a>
+					<a href="/news/2012/dec/21/winter-storm-warning-calls-4-inches-snow-redding-a/?partner=popular" title="The National Weather Service this afternoon issued a winter storm warning calling for up to 4 inches of snow in Redding and the northern Sacramento Valley." rel="nofollow">Winter storm warning calls for up to 4 inches of snow in Redding area</a>
+					<span class="date">Published 12/21/2012 at 1:19 p.m.</span> <a href="/news/2012/dec/21/winter-storm-warning-calls-4-inches-snow-redding-a/?partner=popular#comments" class="comment_count" rel="nofollow">18 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/08/redding-knife-attack-kills-woman-critically/?partner=popular" title="The former superintendent of the Grant Elementary School District suffered life-threatening injuries Friday morning and his wife was stabbed to death in a violent struggle with their nephew, Redding police said. " rel="nofollow">Redding stabbings leave woman dead; husband clings to life; nephew arrested</a>
-					<span class="date">Published 6/8/2012 at 11:40 p.m.</span> <a href="/news/2012/jun/08/redding-knife-attack-kills-woman-critically/?partner=popular#comments" class="comment_count" rel="nofollow">24 comments</a>
+					<a href="/news/2012/dec/18/major-winter-storm-could-bring-snow-to-redding/?partner=popular" title="A major winter storm targeting the north state could bring snow to Redding." rel="nofollow">Major winter storm could bring snow to Redding; heavy accumulations expected in mountains </a>
+					<span class="date">Published 12/18/2012 at 11:36 p.m.</span> <a href="/news/2012/dec/18/major-winter-storm-could-bring-snow-to-redding/?partner=popular#comments" class="comment_count" rel="nofollow">13 comments</a>
 				</li>
 			
 		</ul>
@@ -1195,6 +1227,8 @@
 </div><!-- end #most_popular -->
 
 
+
+					
 					
 					
 					
@@ -1224,20 +1258,20 @@
 		<div class="sidebar_current_weather clear">
 	
 			<div id="sidebar_current_icon">
-				<img src="http://media.redding.com/corp_assets/asphalt/img/weather/icons/33_170.png" width="120px" alt="Fair">
+				<img src="http://media.redding.com/corp_assets/asphalt/img/weather/icons/1_170.png" width="120px" alt="Light Rain Fog/Mist and Windy">
 			</div> <!-- end #radar -->
 	
 			<div id="sidebar_current_weather">
 				<span class="current_temp_label">Currently</span>
-				<span class="current_temp">74<span class="current_temp_degree">°</span></span>
-				<span class="current_conditions">Fair</span>
-				<span class="current_wind">Wind: S 8mph</span>
+				<span class="current_temp">47<span class="current_temp_degree">°</span></span>
+				<span class="current_conditions">Light Rain Fog/Mist and Windy</span>
+				<span class="current_wind">Wind: S 28mph</span>
 			</div> <!-- end #current_conditions -->
 	
 			<div id="sidebar_hi_low">
 				<span class="today_temp_label">Today</span>
-				<span class="hi_temp">88<span class="current_temp_degree">°</span></span>
-				<span class="lo_temp">66<span class="current_temp_degree">°</span></span>
+				<span class="hi_temp">48<span class="current_temp_degree">°</span></span>
+				<span class="lo_temp">35<span class="current_temp_degree">°</span></span>
 			</div> <!-- end #hi_low -->
 			
 		</div> <!-- end #weather -->
@@ -1247,48 +1281,48 @@
 	<div id="sidebar_weather_3day" class="bucket_secondary preventFOUC">
 		<div id="sidebar_weather_forecast_3day" class="clear">
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Mon</div><div class="sidebar_weather_day">05:00 PM</div>
-				<img src="http://media.redding.com/corp_assets/asphalt/img/weather/icons/1_100.png" alt="Sunny">
-				<div class="sidebar_forecast_conditions">Sunny</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">88°</span></div>
+				<div class="sidebar_weather_day">Sun</div><div class="sidebar_weather_day">11:00 PM</div>
+				<img src="http://media.redding.com/corp_assets/asphalt/img/weather/icons/40_100.png" alt="Mostly Cloudy Showers">
+				<div class="sidebar_forecast_conditions">Mostly Cloudy Showers</div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">40°</span></div>
 			</div>
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Tue</div><div class="sidebar_weather_day">05:00 AM</div>
-				<img src="http://media.redding.com/corp_assets/asphalt/img/weather/icons/33_100.png" alt="Clear">
-				<div class="sidebar_forecast_conditions">Clear</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">61°</span></div>
+				<div class="sidebar_weather_day">Mon</div><div class="sidebar_weather_day">11:00 AM</div>
+				<img src="http://media.redding.com/corp_assets/asphalt/img/weather/icons/3_100.png" alt="Partly Sunny">
+				<div class="sidebar_forecast_conditions">Partly Sunny</div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">51°</span></div>
 			</div><!-- End sidebar_forecast_day -->
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Tue</div><div class="sidebar_weather_day">05:00 PM</div>
-				<img src="http://media.redding.com/corp_assets/asphalt/img/weather/icons/1_100.png" alt="Sunny">
-				<div class="sidebar_forecast_conditions">Sunny</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">89°</span></div>
+				<div class="sidebar_weather_day">Mon</div><div class="sidebar_weather_day">11:00 PM</div>
+				<img src="http://media.redding.com/corp_assets/asphalt/img/weather/icons/31_100.png" alt="Cold">
+				<div class="sidebar_forecast_conditions">Cold</div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">32°</span></div>
 			</div><!-- End sidebar_forecast_day -->
 			<div class="clear"></div>
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding">
-						<p>Feels Like: 84°</p>
-						<p>Humidity: 15%</p>
-						<p>Precip: 0%</p>
+						<p>Feels Like: 37°</p>
+						<p>Humidity: 92%</p>
+						<p>Precip: 58%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding">
-						<p>Feels Like: 61°</p>
-						<p>Humidity: 42%</p>
-						<p>Precip: 0%</p>
+						<p>Feels Like: 51°</p>
+						<p>Humidity: 58%</p>
+						<p>Precip: 11%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding last">
-						<p>Feels Like: 85°</p>
-						<p>Humidity: 13%</p>
-						<p>Precip: 0%</p>
+						<p>Feels Like: 32°</p>
+						<p>Humidity: 92%</p>
+						<p>Precip: 14%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
@@ -1302,50 +1336,50 @@
 			
 			
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://infocus.redding.com/Media/View/2393542"><img src="http://c34122.r22.cf0.rackcdn.com/21b17310-0b63-441b-bbab-dcd82983cb22.jpg"></a> <a href="http://infocus.redding.com/Media/View/2393542" title="Image of Venus from Shasta Lake">Image of Venus from Shasta Lake </a>
+	<a href="http://infocus.redding.com/Media/View/2904508"><img src="http://6f7110da3729641904fd-6f8cbe8a047a13a27865091945a9af86.r78.cf1.rackcdn.com/17a20132-3f8e-444d-8d54-04fc975af329.jpg"></a> <a href="http://infocus.redding.com/Media/View/2904508" title="Sunrise over the oaks">Sunrise over the oaks </a>
 	<div class="date ugc_sidebar">
-		6/5/12<br>
-		5:44 p.m.<br>
+		12/20/12<br>
+		8:06 a.m.<br>
 	</div>
 </div>
 
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://infocus.redding.com/Media/View/2366839"><img src="http://c34122.r22.cf0.rackcdn.com/b2908ff0-7ed4-4169-a154-142f847363a8.jpg"></a> <a href="http://infocus.redding.com/Media/View/2366839" title="annular eclipse">annular eclipse </a>
+	<a href="http://infocus.redding.com/Media/View/2894818"><img src="http://6f7110da3729641904fd-6f8cbe8a047a13a27865091945a9af86.r78.cf1.rackcdn.com/c1d2c364-80dc-4249-8234-e99f4a4848bc.jpg"></a> <a href="http://infocus.redding.com/Media/View/2894818" title="Snow!">Snow! </a>
 	<div class="date ugc_sidebar">
-		5/21/12<br>
-		4:38 a.m.<br>
+		12/17/12<br>
+		8:29 a.m.<br>
 	</div>
 </div>
 
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://infocus.redding.com/Media/View/2366351"><img src="http://c34122.r22.cf0.rackcdn.com/3b22dc6d-9a3f-4696-b9c2-da173108cbee.jpg"></a> <a href="http://infocus.redding.com/Media/View/2366351" title="Eclipse 2012 - Enterprise Area">Eclipse 2012 - Enterprise Area </a>
+	<a href="http://infocus.redding.com/Media/View/2869971"><img src="http://6f7110da3729641904fd-6f8cbe8a047a13a27865091945a9af86.r78.cf1.rackcdn.com/da2bd23d-85fb-4e2e-9ebe-0574525a07a4.jpg"></a> <a href="http://infocus.redding.com/Media/View/2869971" title="Lenticular Spaceship Cloud">Lenticular Spaceship Cloud </a>
 	<div class="date ugc_sidebar">
-		5/20/12<br>
-		8:23 p.m.<br>
+		12/7/12<br>
+		8:39 p.m.<br>
 	</div>
 </div>
 
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://infocus.redding.com/Media/View/2366350"><img src="http://c34122.r22.cf0.rackcdn.com/29693cc1-0f03-4aa5-9e9a-aa80cf256424.jpg"></a> <a href="http://infocus.redding.com/Media/View/2366350" title="Eclipse 2012 - Enterprise Area">Eclipse 2012 - Enterprise Area </a>
+	<a href="http://infocus.redding.com/Media/View/2862801"><img src="http://6f7110da3729641904fd-6f8cbe8a047a13a27865091945a9af86.r78.cf1.rackcdn.com/2c8a6dec-8699-4f01-9c1e-e57b82fad91e.jpg"></a> <a href="http://infocus.redding.com/Media/View/2862801" title="muddy water">muddy water </a>
 	<div class="date ugc_sidebar">
-		5/20/12<br>
-		8:23 p.m.<br>
+		12/4/12<br>
+		8:39 p.m.<br>
 	</div>
 </div>
 
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://infocus.redding.com/Media/View/2366349"><img src="http://c34122.r22.cf0.rackcdn.com/d7cff56d-2ec3-42cf-a746-c036c91b3e8d.jpg"></a> <a href="http://infocus.redding.com/Media/View/2366349" title="Eclipse 2012 - Enterprise Area">Eclipse 2012 - Enterprise Area </a>
+	<a href="http://infocus.redding.com/Media/View/2848773"><img src="http://6f7110da3729641904fd-6f8cbe8a047a13a27865091945a9af86.r78.cf1.rackcdn.com/eeeaef22-913c-45fb-9512-ac67b9bb0ee0.jpg"></a> <a href="http://infocus.redding.com/Media/View/2848773" title="Rolling thunder">Rolling thunder </a>
 	<div class="date ugc_sidebar">
-		5/20/12<br>
-		8:22 p.m.<br>
+		11/28/12<br>
+		6:46 a.m.<br>
 	</div>
 </div>
 
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://infocus.redding.com/Media/View/2366348"><img src="http://c34122.r22.cf0.rackcdn.com/ec5dafdf-7535-44da-990f-bfc0928ff36f.jpg"></a> <a href="http://infocus.redding.com/Media/View/2366348" title="Eclipse 2012 - Enterprise Area">Eclipse 2012 - Enterprise Area </a>
+	<a href="http://infocus.redding.com/Media/View/2847736"><img src="http://6f7110da3729641904fd-6f8cbe8a047a13a27865091945a9af86.r78.cf1.rackcdn.com/2532a4c7-2715-4126-bc52-422aca015329.jpg"></a> <a href="http://infocus.redding.com/Media/View/2847736" title="Before the storm">Before the storm </a>
 	<div class="date ugc_sidebar">
-		5/20/12<br>
-		8:22 p.m.<br>
+		11/27/12<br>
+		5:56 p.m.<br>
 	</div>
 </div>
 
@@ -1360,7 +1394,10 @@
 	<div class="sidebar_more_link sidebar_more_link_weather">
 		<div class="sidebar_weather_ad_rule"></div>
 		<div id="sidebar_weather_ad">
-			<div class="adtag" id="WEATHER_SPONSOR"><script>yld_mgr.place_ad_here("WEATHER_SPONSOR");</script> </div>
+			<div class="adtag" id="WEATHER_SPONSOR"><script language="JavaScript">
+        // slotname: WEATHER_SPONSOR
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.redd/News;pt=detail;tile=4;sz=120x30;pos=below' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.redd/News;pt=detail;tile=4;sz=120x30;pos=below;ord=751199513058835200" type="text/javascript"></script></div>
 		</div>
 		<a href="/weather/" title="More Redding Weather">More Weather »</a>
 	</div>
@@ -1386,20 +1423,20 @@
 	<ul class="cal_tab_header clear">
 		
 			<li class="cal_tab_first ui-tabs-selected">
-				<a href="#Jun18" value="2012-06-18">
-					<span class="cal_tab_day">Monday</span> <span class="cal_tab_month">Jun</span> <span class="cal_tab_date">18</span>
+				<a href="#Dec23" value="2012-12-23">
+					<span class="cal_tab_day">Sunday</span> <span class="cal_tab_month">Dec</span> <span class="cal_tab_date">23</span>
 				</a>
 			</li>
 		
 			<li>
-				<a href="#Jun19" value="2012-06-19">
-					<span class="cal_tab_day">Tuesday</span> <span class="cal_tab_month">Jun</span> <span class="cal_tab_date">19</span>
+				<a href="#Dec24" value="2012-12-24">
+					<span class="cal_tab_day">Monday</span> <span class="cal_tab_month">Dec</span> <span class="cal_tab_date">24</span>
 				</a>
 			</li>
 		
 			<li>
-				<a href="#Jun20" value="2012-06-20">
-					<span class="cal_tab_day">Wednesday</span> <span class="cal_tab_month">Jun</span> <span class="cal_tab_date">20</span>
+				<a href="#Dec25" value="2012-12-25">
+					<span class="cal_tab_day">Tuesday</span> <span class="cal_tab_month">Dec</span> <span class="cal_tab_date">25</span>
 				</a>
 			</li>
 		
@@ -1412,108 +1449,32 @@
 	</ul>
 	
 	
-		<div id="Jun18" class="bucket_secondary">
+		<div id="Dec23" class="bucket_secondary">
 			
 			<ul class="sidebar_list">
 				
 					<li class="odd clear">
-						<h4><a href="/events/goto/10763/" class="browse_list_title" title="The Chemistry of Glazing Workshop by Palul">The Chemistry of Glazing Workshop by Palul</a> <a href="/places/shasta-county-area/" class="browse_list_venue" title="See Description">See Description</a></h4>
-						<h5 class="browse_list_time">9 a.m.</h5>
+						<h4><a href="/events/goto/12061/" class="browse_list_title" title="Shasta Brass Ensemble">Shasta Brass Ensemble</a> <a href="/places/mt-shasta-mall/" class="browse_list_venue" title="Mt. Shasta Mall">Mt. Shasta Mall</a></h4>
+						<h5 class="browse_list_time">noon</h5>
 					</li>			
 				
 					<li class="even clear">
-						<h4><a href="/events/goto/10815/" class="browse_list_title" title="Pee-Wee and Junior Patriot 5-Day Christian Camps">Pee-Wee and Junior Patriot 5-Day Christian Camps</a> <a href="/places/shasta-bible-college/" class="browse_list_venue" title="Shasta Bible College">Shasta Bible College</a></h4>
-						<h5 class="browse_list_time">9 a.m.</h5>
+						<h4><a href="/events/goto/11595/" class="browse_list_title" title="Eat Well, Play Well">Eat Well, Play Well</a> <a href="/places/turtle-bay-museum/" class="browse_list_venue" title="Turtle Bay Exploration Park">Turtle Bay Exploration Park</a></h4>
+						<h5 class="browse_list_time">10 a.m.</h5>
 					</li>			
 				
 					<li class="odd clear">
-						<h4><a href="/events/goto/10905/" class="browse_list_title" title="Westside Church Vacation Bible School">Westside Church Vacation Bible School</a> <a href="/places/westside-church-redding/" class="browse_list_venue" title="Westside Church of Redding">Westside Church of Redding</a></h4>
-						<h5 class="browse_list_time">9 a.m.</h5>
-					</li>			
-				
-					<li class="even clear">
-						<h4><a href="/events/goto/10941/" class="browse_list_title" title="Summer Sports Camps at Turtle Bay School - Softball Outing Week">Summer Sports Camps at Turtle Bay School - Softball Outing Week</a> <a href="/places/turtle-bay-elementary-school/" class="browse_list_venue" title="Turtle Bay Elementary School ">Turtle Bay Elementary School </a></h4>
-						<h5 class="browse_list_time">9 a.m.</h5>
-					</li>			
-				
-					<li class="odd clear">
-						<h4><a href="/events/goto/10809/" class="browse_list_title" title="Venomous Day">Venomous Day</a> <a href="/places/turtle-bay-museum/" class="browse_list_venue" title="Turtle Bay Exploration Park">Turtle Bay Exploration Park</a></h4>
-						<h5 class="browse_list_time">11 a.m.</h5>
-					</li>			
-				
-			
-			</ul>
-			
-			<div class="sidebar_more_link sidebar_more_link_events">
-				<a href="/events/" title="More Redding Events">More Events »</a>
-			</div>
-			
-		</div> <!-- end #Jun18 -->
-	
-		<div id="Jun19" class="bucket_secondary preventFOUC">
-			
-			<ul class="sidebar_list">
-				
-					<li class="even clear">
-						<h4><a href="/events/goto/10905/" class="browse_list_title" title="Westside Church Vacation Bible School">Westside Church Vacation Bible School</a> <a href="/places/westside-church-redding/" class="browse_list_venue" title="Westside Church of Redding">Westside Church of Redding</a></h4>
-						<h5 class="browse_list_time">9 a.m.</h5>
-					</li>			
-				
-					<li class="odd clear">
-						<h4><a href="/events/goto/10857/" class="browse_list_title" title="Alzheimer's Disease and Other Dementias workshop">Alzheimer's Disease and Other Dementias workshop</a> <a href="/places/red-bluff-community-center/" class="browse_list_venue" title="Red Bluff Community Center">Red Bluff Community Center</a></h4>
+						<h4><a href="/events/goto/11594/" class="browse_list_title" title="A Forest Journey exhibit">A Forest Journey exhibit</a> <a href="/places/turtle-bay-museum/" class="browse_list_venue" title="Turtle Bay Exploration Park">Turtle Bay Exploration Park</a></h4>
 						<h5 class="browse_list_time">10 a.m.</h5>
 					</li>			
 				
 					<li class="even clear">
-						<h4><a href="/events/goto/10916/" class="browse_list_title" title="Jack Benny monthly meeting, potluck picnic">Jack Benny monthly meeting, potluck picnic</a> <a href="/places/shasta-county-area/" class="browse_list_venue" title="See Description">See Description</a></h4>
-						<h5 class="browse_list_time">11 a.m.</h5>
+						<h4><a href="/events/goto/11593/" class="browse_list_title" title="Nature’s Numbers">Nature’s Numbers</a> <a href="/places/turtle-bay-museum/" class="browse_list_venue" title="Turtle Bay Exploration Park">Turtle Bay Exploration Park</a></h4>
+						<h5 class="browse_list_time">10 a.m.</h5>
 					</li>			
 				
 					<li class="odd clear">
-						<h4><a href="/events/goto/10082/" class="browse_list_title" title="Democratic Women's Club Monthly Meeting">Democratic Women's Club Monthly Meeting</a> <a href="/places/angelos-pizza-parlor/" class="browse_list_venue" title="Angelo's Pizza Parlor">Do not include location/place for the month of February 2012.</a></h4>
-						<h5 class="browse_list_time">11:30 a.m.</h5>
-					</li>			
-				
-					<li class="even clear">
-						<h4><a href="/events/goto/10964/" class="browse_list_title" title="Maximize Your Memory">Maximize Your Memory</a> <a href="/places/rolling-hills-casino/" class="browse_list_venue" title="Rolling Hills Casino">Rolling Hills Casino</a></h4>
-						<h5 class="browse_list_time">1 p.m.</h5>
-					</li>			
-				
-			
-			</ul>
-			
-			<div class="sidebar_more_link sidebar_more_link_events">
-				<a href="/events/" title="More Redding Events">More Events »</a>
-			</div>
-			
-		</div> <!-- end #Jun19 -->
-	
-		<div id="Jun20" class="bucket_secondary preventFOUC">
-			
-			<ul class="sidebar_list">
-				
-					<li class="odd clear">
-						<h4><a href="/events/goto/10905/" class="browse_list_title" title="Westside Church Vacation Bible School">Westside Church Vacation Bible School</a> <a href="/places/westside-church-redding/" class="browse_list_venue" title="Westside Church of Redding">Westside Church of Redding</a></h4>
-						<h5 class="browse_list_time">9 a.m.</h5>
-					</li>			
-				
-					<li class="even clear">
-						<h4><a href="/events/goto/10808/" class="browse_list_title" title="Solstice Celebration">Solstice Celebration</a> <a href="/places/turtle-bay-museum/" class="browse_list_venue" title="Turtle Bay Exploration Park">Turtle Bay Exploration Park</a></h4>
-						<h5 class="browse_list_time">11 a.m.</h5>
-					</li>			
-				
-					<li class="odd clear">
-						<h4><a href="/events/goto/6498/" class="browse_list_title" title="Shasta County Tobacco Education Coalition meeting">Shasta County Tobacco Education Coalition meeting</a> <a href="/places/round-table-pizza900-dana-dr--72/" class="browse_list_venue" title="Round Table Pizza, Mt. Shasta Mall">Round Table Pizza, Mt. Shasta Mall</a></h4>
-						<h5 class="browse_list_time">11:30 a.m.</h5>
-					</li>			
-				
-					<li class="even clear">
-						<h4><a href="/events/goto/11022/" class="browse_list_title" title="The Magic of Mitch Picard">The Magic of Mitch Picard</a> <a href="/places/redding-library/" class="browse_list_venue" title="Redding Library">Redding Library</a></h4>
-						<h5 class="browse_list_time">1 p.m.</h5>
-					</li>			
-				
-					<li class="odd clear">
-						<h4><a href="/events/goto/11030/" class="browse_list_title" title="Red Bluff Wednesday Night Certified Farmers Markets/Music">Red Bluff Wednesday Night Certified Farmers Markets/Music</a> <a href="" class="browse_list_venue" title="">Downtown Red Bluff, across from the courthouse</a></h4>
+						<h4><a href="/events/goto/11744/" class="browse_list_title" title="Jefferson Blues Society weekly Blues Jam">Jefferson Blues Society weekly Blues Jam</a> <a href="/places/shasta-county-area/" class="browse_list_venue" title="See Description">See Description</a></h4>
 						<h5 class="browse_list_time">5 p.m.</h5>
 					</li>			
 				
@@ -1524,7 +1485,83 @@
 				<a href="/events/" title="More Redding Events">More Events »</a>
 			</div>
 			
-		</div> <!-- end #Jun20 -->
+		</div> <!-- end #Dec23 -->
+	
+		<div id="Dec24" class="bucket_secondary preventFOUC">
+			
+			<ul class="sidebar_list">
+				
+					<li class="even clear">
+						<h4><a href="/events/goto/11949/" class="browse_list_title" title="Christmas Eve Skates at the Siskiyou Ice Rink">Christmas Eve Skates at the Siskiyou Ice Rink</a> <a href="/places/SiskiyouIceRink/" class="browse_list_venue" title="Siskiyou Ice Rink">Siskiyou Ice Rink</a></h4>
+						<h5 class="browse_list_time">noon</h5>
+					</li>			
+				
+					<li class="odd clear">
+						<h4><a href="/events/goto/11571/" class="browse_list_title" title="Power Point">Power Point</a> <a href="/places/shasta-builders-exchange/" class="browse_list_venue" title="Shasta Builder's Exchange">Shasta Builder's Exchange</a></h4>
+						<h5 class="browse_list_time">1 p.m.</h5>
+					</li>			
+				
+					<li class="even clear">
+						<h4><a href="/events/goto/2675/" class="browse_list_title" title="Free classes for seniors">Free classes for seniors</a> <a href="/places/senior-citizens-hall/" class="browse_list_venue" title="Senior Citizens Hall">Senior Citizens Hall</a></h4>
+						<h5 class="browse_list_time"></h5>
+					</li>			
+				
+					<li class="odd clear">
+						<h4><a href="/events/goto/5515/" class="browse_list_title" title="Zumba Classes">Zumba Classes</a> <a href="/places/caldwell-park/" class="browse_list_venue" title="Caldwell Park">Teen Center</a></h4>
+						<h5 class="browse_list_time">6 p.m.</h5>
+					</li>			
+				
+					<li class="even clear">
+						<h4><a href="/events/goto/6516/" class="browse_list_title" title="Redding Chess Club ">Redding Chess Club </a> <a href="/places/shasta-county-area/" class="browse_list_venue" title="See Description">See Description</a></h4>
+						<h5 class="browse_list_time">5 p.m.</h5>
+					</li>			
+				
+			
+			</ul>
+			
+			<div class="sidebar_more_link sidebar_more_link_events">
+				<a href="/events/" title="More Redding Events">More Events »</a>
+			</div>
+			
+		</div> <!-- end #Dec24 -->
+	
+		<div id="Dec25" class="bucket_secondary preventFOUC">
+			
+			<ul class="sidebar_list">
+				
+					<li class="odd clear">
+						<h4><a href="/events/goto/11948/" class="browse_list_title" title="Christmas Skate at the Siskiyou Ice Rink">Christmas Skate at the Siskiyou Ice Rink</a> <a href="/places/SiskiyouIceRink/" class="browse_list_venue" title="Siskiyou Ice Rink">Siskiyou Ice Rink</a></h4>
+						<h5 class="browse_list_time">noon</h5>
+					</li>			
+				
+					<li class="even clear">
+						<h4><a href="/events/goto/290/" class="browse_list_title" title="South Shasta Seniors dancing">South Shasta Seniors dancing</a> <a href="/places/frontier-senior-center/" class="browse_list_venue" title="Frontier Senior Center">Frontier Senior Center</a></h4>
+						<h5 class="browse_list_time">7:30 p.m.</h5>
+					</li>			
+				
+					<li class="odd clear">
+						<h4><a href="/events/goto/4683/" class="browse_list_title" title="Cimmeron Concert">Cimmeron Concert</a> <a href="/places/frontier-senior-center/" class="browse_list_venue" title="Frontier Senior Center">Frontier Senior Center</a></h4>
+						<h5 class="browse_list_time">7:30 p.m.</h5>
+					</li>			
+				
+					<li class="even clear">
+						<h4><a href="/events/goto/4977/" class="browse_list_title" title="Bostonian Tea Party meetings">Bostonian Tea Party meetings</a> <a href="/places/shasta-county-area/" class="browse_list_venue" title="See Description">See Description</a></h4>
+						<h5 class="browse_list_time">6 p.m.</h5>
+					</li>			
+				
+					<li class="odd clear">
+						<h4><a href="/events/goto/6066/" class="browse_list_title" title="'Dance Your Soul' ">'Dance Your Soul' </a> <a href="/places/dream-weaver-dance-studio/" class="browse_list_venue" title="Dream Weaver Dance Studio">Dream Weaver Dance Studio</a></h4>
+						<h5 class="browse_list_time">6:30 p.m.</h5>
+					</li>			
+				
+			
+			</ul>
+			
+			<div class="sidebar_more_link sidebar_more_link_events">
+				<a href="/events/" title="More Redding Events">More Events »</a>
+			</div>
+			
+		</div> <!-- end #Dec25 -->
 	
 	
 	<div class="ajax_loader"><img src="http://media.redding.com/corp_assets/asphalt/img/ajax-loader.gif" alt="Loading content"><p>Loading...</p></div>
@@ -1548,7 +1585,10 @@
 					
 						<div class="bigbox_wrapper clear">
 	<div class="bigbox">
-		<div class="adtag" id="BIGBOX_2"><script>yld_mgr.place_ad_here("BIGBOX_2");</script> </div>
+		<div class="adtag" id="BIGBOX_2"><script language="JavaScript">
+        // slotname: BIGBOX_2
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.redd/News;pt=detail;tile=3;sz=300x250;pos=below' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.redd/News;pt=detail;tile=3;sz=300x250;pos=below;ord=751199513058835200" type="text/javascript"></script></div>
 	</div> <!-- end .bigbox -->
 </div> <!-- end .bigbox_wrapper -->
 
@@ -1564,6 +1604,7 @@
 			</div> <!-- end #secondary_content -->
 		
 		
+
 
 		</div><!-- end #content_wrapper -->
 		
@@ -1621,22 +1662,23 @@
 				<li id="carousel_page1">
 					
 					<div class="skybox">
-						<a href="http://bestvote.redding.com" title="Best of the North State 2012"><img src="http://web.redding.com/images/skybox/bestof2012a.gif" width="120" height="107" alt="Best of the North State 2012"></a>
-          <h4><a href="http://bestvote.redding.com" title="Best of the North State 2012">Best of the North State 2012</a></h4>
-        <p><a href="http://bestvote.redding.com" title="Best of the North State 2012">Vote for your favorites!</a></p>
+						 <img src="http://web.redding.com/images/skybox/stormshield.gif" width="120" height="107" alt="Storm Shield Weather App for Android">
+          <h4>Weather Radio</h4>
+        <p><a href="http://bit.ly/Storm_Shield" title="Storm Shield Weather App">We have you covered with our <strong>iPhone</strong> Storm Shield.</a><a href="http://bit.ly/Q0PIvx" title="Storm Shield Weather App for Android"><strong>Now available for Android!</strong></a></p>
 					</div> <!-- end .skybox -->
 					
 					<div class="skybox">
-						 <a href="http://bit.ly/Storm_Shield" title="Storm Shield Weather App"><img src="http://web.redding.com/images/skybox/stormshield.gif" width="120" height="107" alt="Storm Shield Weather App"></a>
-          <h4><a href="http://bit.ly/Storm_Shield" title="Storm Shield Weather App">Storm Shield Weather App</a></h4>
-        <p><a href="http://bit.ly/Storm_Shield" title="Storm Shield Weather App">NOAA Emergency Weather Radio on your iPhone.</a></p>
+						<a href="http://rdcfeeds.redding.com/xmaslights/" title="Christmas Lights Display"><img src="http://web.redding.com/images/skybox/xmas-lights.jpg" alt="Christmas Lights Display" width="120" height="107"></a>
+          <h4><a href="http://rdcfeeds.redding.com/xmaslights/" title="Christmas Lights Display">'Tis the Season</a></h4>
+        <p><a href="http://rdcfeeds.redding.com/xmaslights/" title="Christmas Lights Display">Christmas Lights Tour driving map and directions.</a><br>
+            <img src="http://web.redding.com/advertising/esaver/shim.gif" alt="Christmas Lights Display" width="193" height="5" border="0"><br>
+          <a href="http://rdcfeeds.redding.com/xmaslights/" title="Christmas Lights Display">See the houses in our tour.</a></p>
 					</div> <!-- end .skybox -->
 					
 					<div class="skybox">
-						<a href="http://bit.ly/KYT4Lt" title="Graduation 2012"><img src="http://web.redding.com/images/skybox/graduationtab2012.jpg" width="120" height="107" alt="Graduation 2012"></a>
-          <h4><a href="http://bit.ly/KYT4Lt" title="Graduation 2012">Graduation 2012</a></h4>
-        <p><a href="http://bit.ly/KYT4Lt" title="Graduation 2012">See this year's grammar school, high school and college graduates</a></p>
-      
+						<a href="http://www.redding.com/events/search/?category=108&amp;end_date=2012-12-31" title="North State Holiday Events"><img src="http://web.redding.com/images/skybox/holiday_lights.jpg" alt="North State Holiday Events" width="120" height="107"></a>
+          <h4><a href="http://www.redding.com/events/search/?category=108&amp;end_date=2012-12-31" title="North State Holiday Events">Holiday Events</a></h4>
+        <p><a href="http://www.redding.com/events/search/?category=108&amp;end_date=2012-12-31" title="North State Holiday Events">Looking for something to do? Find local events in our online calendar.</a></p>
 					</div> <!-- end .skybox -->
 					
 				</li><!-- End carousel_page1 -->
@@ -1644,22 +1686,21 @@
 				<li id="carousel_page2">
 					
 					<div class="skybox">
-						<a href="http://www.redding.com/databases/trails/redding/" title="Redding Trail Map"><img src="http://web.redding.com/images/skybox/trailmap7.jpg" width="120" height="107" alt="Redding Trail Map"></a>
-          <h4><a href="http://www.redding.com/databases/trails/redding/" title="Redding Trail Map">Walk or Ride</a></h4>
-        <p><a href="http://www.redding.com/databases/trails/redding/" title="Redding Trail Map">Enjoy the unhurried peace and tranquility of Redding's popular trail system.</a></p>
+						<a href="http://www.redding.com/20under40/" title="20 Under 40"><img src="http://web.redding.com/images/skybox/20Under40.jpg" width="120" height="107" alt="20 Under 40"></a>
+          <h4><a href="http://www.redding.com/20under40/" title="20 Under 40">20 Under 40</a></h4>
+        <p><a href="http://www.redding.com/20under40/" title="20 Under 40">Purchase your tickets for the January 23rd event.</a></p>
 					</div> <!-- end .skybox -->
 					
 					<div class="skybox">
-						<a title="Discount Card" href="http://www.redding.com/rewards/"><img width="120" height="107" alt="Discount Card" src="http://web.redding.com/images/skybox/rewards.gif"></a>
-          <h4><a title="Discount Card" href="http://www.redding.com/rewards/">Discount Card</a></h4>
-        <p><a title="Discount Card" href="http://www.redding.com/rewards/">Find out how to get a FREE Reader Rewards Discount card.</a></p>
-
+						<a href="https://itunes.apple.com/app/record-searchlight-for-ipad/id556537940?ign-mpt=uo%3D5" title="Record Searchlight iPad app"><img src="http://web.redding.com/images/skybox/ipad.png" width="120" height="107" alt="iPad app"></a>
+<h4><a href="https://itunes.apple.com/app/record-searchlight-for-ipad/id556537940?ign-mpt=uo%3D5" title="Record Searchlight iPad app">The NEW iPad app is here!!</a></h4>
+<p><a href="https://itunes.apple.com/app/record-searchlight-for-ipad/id556537940?ign-mpt=uo%3D5" title="Record Searchlight iPad app">Local news, sports, business, lifestyles &amp; more, all on iPad.</a></p>
 					</div> <!-- end .skybox -->
 					
 					<div class="skybox">
-						<a href="http://www.redding.com/news/lifestyles/announcements/weddings/" title="Weddings and Engagements"><img src="http://web.redding.com/images/skybox/wedding3.jpg" width="120" height="107" alt="Weddings and Engagements"></a>
-          <h4><a href="http://www.redding.com/news/lifestyles/announcements/weddings/" title="Weddings and Engagements">Wedding Bells?</a></h4>
-        <p><a href="http://www.redding.com/news/lifestyles/announcements/weddings/" title="Weddings and Engagements">See who's getting married or who already tied the knot</a></p>
+						<a href="http://secure.adpay.com/searchresults.aspx?catid=016514&amp;p=1046&amp;region=1046" title="Search our online classifieds for pets and supplies"><img src="http://web.redding.com/images/skybox/classified-puppy.jpg" width="120" height="107" alt="Search our online classifieds for pets and supplies"></a>
+          <h4><a href="http://secure.adpay.com/searchresults.aspx?catid=016514&amp;p=1046&amp;region=1046" title="Search our online classifieds for pets and supplies">Looking for a new pet?</a></h4>
+        <p><a href="http://secure.adpay.com/searchresults.aspx?catid=016514&amp;p=1046&amp;region=1046" title="Search our online classifieds for pets and supplies">Search our online classifieds for pets and supplies</a></p>
 					</div> <!-- end .skybox -->
 					
 				</li><!-- End carousel_page2 -->
@@ -1667,14 +1708,14 @@
 				<li id="carousel_page3">
 					
 					<div class="skybox">
-						<a href="http://www.facebook.com/pages/Redding-CA/Record-Searchlight-Reddingcom/81320873283"><img src="http://web.redding.com/images/skybox/facebook.jpg" alt="" width="120" height="107"></a>
-<h4><a href="http://www.facebook.com/pages/Redding-CA/Record-Searchlight-Reddingcom/81320873283">News on Facebook</a></h4><p><a href="http://www.facebook.com/pages/Redding-CA/Record-Searchlight-Reddingcom/81320873283">Become a fan, get updates and breaking news.</a></p> 
-					</div> <!-- end .skybox -->
-					
-					<div class="skybox">
 						<a href="/apps/" title="Download Our Mobile App"><img src="http://web.redding.com/images/misc/apps.png" width="120" height="107" alt="Download Our Mobile App"></a>
           <h4><a href="/apps/" title="Download Our Mobile App">Download Our Apps</a></h4>
         <p><a href="/apps/" title="Download Our Mobile App">Make your smartphone even smarter. Local news is more accessible than ever.           </a></p>
+					</div> <!-- end .skybox -->
+					
+					<div class="skybox">
+						<a href="http://www.facebook.com/pages/Record-Searchlight-Reddingcom/81320873283"><img src="http://web.redding.com/images/skybox/facebook.jpg" alt="" width="120" height="107"></a>
+<h4><a href="http://www.facebook.com/pages/Record-Searchlight-Reddingcom/81320873283">News on Facebook</a></h4><p><a href="http://www.facebook.com/pages/Record-Searchlight-Reddingcom/81320873283">Become a fan, get updates and breaking news.</a></p> 
 					</div> <!-- end .skybox -->
 					
 					<div class="skybox">
@@ -1700,9 +1741,9 @@
 					</div> <!-- end .skybox -->
 					
 					<div class="skybox">
-						<a href="http://www.redding.com/elections/" title="Election Coverage"><img src="http://web.redding.com/images/skybox/election.jpg" width="120" height="107" alt="Election Coverage"></a>
-          <h4><a href="http://www.redding.com/elections/" title="Election Coverage">Election Coverage</a></h4>
-        <p><a href="http://www.redding.com/elections/" title="Election Coverage">Voter resources, stories, photos, videos and more.</a></p>
+						<a href="http://www.redding.com/databases/" title="Databases"><img src="http://web.redding.com/images/skybox/data.jpg" alt="Databases" width="120" height="107" title="Databases"></a>
+          <h4><a href="http://www.redding.com/databases/" title="Databases">Data Center</a></h4>
+        <p><a href="http://www.redding.com/databases/" title="Databases">Public databases containing facts, figures &amp; details of our community.</a></p>
 					</div> <!-- end .skybox -->
 					
 				</li><!-- End carousel_page4 -->
@@ -1727,11 +1768,12 @@
 </style>
 <dl>
 	<dt>On the Web:</dt>
-	<dd><a href="http://www.redding.com/databases/" title="Online Databases">Online Databases</a></dd>
-  <dd><a href="http://health.redding.com" title="Health and LiveItUp">Health</a></dd>
-    <dd><a href="http://blogs.redding.com/" title="Blogs">Blogs</a></dd>
-	
-    <dd><a href="http://www.shastaoutdoorfun.com" title="Outdoor Recreation">Shasta Outdoor Fun</a></dd>
+	<dd><a href="http://www.redding.com/databases/" title="Online Databases">Databases</a></dd>
+  
+    
+	<dd><a href="http://paymybill.redding.com" title="Pay My Bill">Pay My Bill</a></dd>
+    <dd><a href="http://www.redding.com/rewards/" title="Reader Rewards">Reader Rewards</a></dd>
+    <!--<dd><a href="http://www.shastaoutdoorfun.com" title="Outdoor Recreation">Shasta Outdoor Fun</a></dd>-->
     <dd><a href="http://jobsearch.local-jobs.monster.com/Search.aspx?wt.mc_n=hjnpsearch&amp;ch=redding&amp;q=&amp;where=Redding&amp;re=130&amp;cy=us&amp;brd=1" title="Find Redding jobs" target="_blank">Find Redding Jobs</a></dd>
     
 </dl>
@@ -1739,9 +1781,9 @@
 <dl>
 	<dt>Online Exclusives:</dt>
 	<dd><a href="http://weddings.redding.com/" title="Engagements &amp; Weddings">Engagements &amp; Weddings</a></dd>
-    <dd><a href="http://games.redding.com" title="Games">Games</a></dd>
+    <!--<dd><a href="http://games.redding.com" title="Games">Games</a></dd>-->
     <dd><a href="http://www.redding.com/bands" title="Bands">Bands</a></dd>
-	<dd><a href="http://crave.redding.com" title="Food articles and recipes">Crave</a></dd>
+	<!--<dd><a href="http://crave.redding.com" title="Food articles and recipes">Crave</a></dd>-->
 	<dd><a href="http://www.redding.com/restaurants/" title="Dining Guide">Dining Guide</a></dd>
 	<!--<dd><a href="http://redding.boocoo.com" title="boocoo auctions">boocoo auctions</a></dd>-->
     <dd><a href="/sitemap/" title="Site Map"> Site Map</a></dd>
@@ -1763,6 +1805,8 @@
 	<dd><a href="http://www.redding.com/contests/" title="Contests">Contests</a></dd>
 	<dd><a href="http://infocus.redding.com/" title="User submitted photos &amp; videos">Photo Galleries</a></dd>
     <!--<dd><a href="http://gallery.pictopia.com/redding/" title="Purchase Photos">Purchase Photos</a></dd>-->
+    <dd><a href="http://health.redding.com" title="Health and LiveItUp">Health</a></dd>
+    <dd><a href="http://blogs.redding.com/" title="Blogs">Blogs</a></dd>
 </dl>
 
 <dl id="business_directory">
@@ -1963,23 +2007,23 @@ var endTimeRound = Math.round(endTime/1000); // For use as a DateTime Object in 
 var startTime = Math.round((endTime - 604800000) / 1000); // One week before endTime for use as as This Week's Nitro calls
 var token = "token"; // Hack to bridge the gap between JB's Ellington tag and Nitro's API calls as each call needs a token, but we don't really care what that token is
 //var nitroResponse = $.parseJSON(""); // creates a var that's a JSON object and not a string from the Django vars set above
-var leadersResponseJSON = $.parseJSON("{\"Nitro\": {\"leaders\": {\"Leader\": [{\"lastName\": \"Anderson\", \"UserPreferences\": true, \"points\": \"660\", \"userId\": \"Lead_me_follow_me_or_get_out_of_my_way\", \"firstName\": \"Terri\"}, {\"lastName\": \"AYRES\", \"UserPreferences\": true, \"points\": \"450\", \"userId\": \"Lillybee\", \"firstName\": \"DONNA\"}, {\"lastName\": \"Patchett\", \"UserPreferences\": true, \"points\": \"380\", \"userId\": \"Redding_Is_My_Life\", \"firstName\": \"Jan\"}, {\"lastName\": \"Aleitta\", \"UserPreferences\": true, \"points\": \"240\", \"userId\": \"silenceisnotgolden\", \"firstName\": \"Loretta\"}, {\"lastName\": \"for dog\", \"UserPreferences\": true, \"points\": \"230\", \"userId\": \"suku\", \"firstName\": \"Wintu word\"}]}, \"res\": \"ok\", \"method\": \"site.getPointsLeaders\", \"server\": \"prnitro01.prod.bunchball.net/nitro4.3.0\"}}"); // creates a var that's a JSON object and not a string from the Django vars set above
+var leadersResponseJSON = $.parseJSON("{\"Nitro\": {\"leaders\": {\"Leader\": [{\"lastName\": \"Duke\", \"UserPreferences\": true, \"points\": \"880\", \"userId\": \"Raoul_Duke2\", \"firstName\": \"Raoul\"}, {\"lastName\": \"Tilley\", \"UserPreferences\": true, \"points\": \"870\", \"userId\": \"Prancer3\", \"firstName\": \"Darla\"}, {\"lastName\": \"Patchett\", \"UserPreferences\": true, \"points\": \"540\", \"userId\": \"Pure_As_Driven_Snow\", \"firstName\": \"Jan\"}, {\"lastName\": \"Carstons\", \"UserPreferences\": true, \"points\": \"520\", \"userId\": \"KLCTY\", \"firstName\": \"Kat\"}, {\"lastName\": \"Mahone\", \"UserPreferences\": true, \"points\": \"460\", \"userId\": \"Pogue_Mahone\", \"firstName\": \"Pogue\"}]}, \"res\": \"ok\", \"method\": \"site.getPointsLeaders\", \"server\": \"prnitro03.prod.bunchball.net/nitro4.4.0\"}}"); // creates a var that's a JSON object and not a string from the Django vars set above
 var processNotesJson = $.parseJSON(""); // creates a var that's a JSON object and not a string from the Django vars set above
 
-var pointsAPI = "method=user.getPointsBalance&sessionKey=NHwzNzY0MnwxMDYyMzM5MjY1MHwxMzQxNTE3ODI3fDc3NTQxNTA2MDNiNmIzODI3Yjc3NjNjODI5NzA0MzQwZjhmZGMzODV8MA==&userId=&start=" + startTime; // Creates a method call for a Nitro Points Balance request for a user for the past 7 days
-var leadersAPI = "method=site.getPointsLeaders&returnCount=5&duration=DAY&userIds=&sessionKey=NHwzNzY0MnwxMDYyMzM5MjY1MHwxMzQxNTE3ODI3fDc3NTQxNTA2MDNiNmIzODI3Yjc3NjNjODI5NzA0MzQwZjhmZGMzODV8MA==&start=" + endTimeRound; // Creates a method call for a Nitro leaderboard of top points earners for Today
-var leadersAPIweek = "method=site.getPointsLeaders&returnCount=5&duration=WEEK&sessionKey=NHwzNzY0MnwxMDYyMzM5MjY1MHwxMzQxNTE3ODI3fDc3NTQxNTA2MDNiNmIzODI3Yjc3NjNjODI5NzA0MzQwZjhmZGMzODV8MA==&start=" + startTime; // Creates a method call for a Nitro leaderboard of top points earners for the past 7 days
+var pointsAPI = "method=user.getPointsBalance&sessionKey=NHwzNzY0MnwxMDYyMzM5MjY1MHwxMzU4NDU1ODM2fDVkZGZhYjg3OTJhZTY4N2E5MjdhNWEzYzMzNjk3YWMwOGI5ODIzNmR8MA==&userId=&start=" + startTime; // Creates a method call for a Nitro Points Balance request for a user for the past 7 days
+var leadersAPI = "method=site.getPointsLeaders&returnCount=5&duration=DAY&userIds=&sessionKey=NHwzNzY0MnwxMDYyMzM5MjY1MHwxMzU4NDU1ODM2fDVkZGZhYjg3OTJhZTY4N2E5MjdhNWEzYzMzNjk3YWMwOGI5ODIzNmR8MA==&start=" + endTimeRound; // Creates a method call for a Nitro leaderboard of top points earners for Today
+var leadersAPIweek = "method=site.getPointsLeaders&returnCount=5&duration=WEEK&sessionKey=NHwzNzY0MnwxMDYyMzM5MjY1MHwxMzU4NDU1ODM2fDVkZGZhYjg3OTJhZTY4N2E5MjdhNWEzYzMzNjk3YWMwOGI5ODIzNmR8MA==&start=" + startTime; // Creates a method call for a Nitro leaderboard of top points earners for the past 7 days
 
 
 // jSingGameX.apiCalls.processPoints(nitroResponse, token);
 nitro.callAPI(pointsAPI, "jSingGameX.apiCalls.weeklyPoints");
-nitro.callAPI("method=user.getPointsBalance&sessionKey=NHwzNzY0MnwxMDYyMzM5MjY1MHwxMzQxNTE3ODI3fDc3NTQxNTA2MDNiNmIzODI3Yjc3NjNjODI5NzA0MzQwZjhmZGMzODV8MA==&userId=", "jSingGameX.apiCalls.processPoints");
-nitro.callAPI("method=user.getPendingNotifications&sessionKey=NHwzNzY0MnwxMDYyMzM5MjY1MHwxMzQxNTE3ODI3fDc3NTQxNTA2MDNiNmIzODI3Yjc3NjNjODI5NzA0MzQwZjhmZGMzODV8MA==&userId=", "jSingGameX.apiCalls.processNotes");
+nitro.callAPI("method=user.getPointsBalance&sessionKey=NHwzNzY0MnwxMDYyMzM5MjY1MHwxMzU4NDU1ODM2fDVkZGZhYjg3OTJhZTY4N2E5MjdhNWEzYzMzNjk3YWMwOGI5ODIzNmR8MA==&userId=", "jSingGameX.apiCalls.processPoints");
+nitro.callAPI("method=user.getPendingNotifications&sessionKey=NHwzNzY0MnwxMDYyMzM5MjY1MHwxMzU4NDU1ODM2fDVkZGZhYjg3OTJhZTY4N2E5MjdhNWEzYzMzNjk3YWMwOGI5ODIzNmR8MA==&userId=", "jSingGameX.apiCalls.processNotes");
 
 jSingGameX.apiCalls.leaderboardToday(leadersResponseJSON, token);
 //jSingGameX.apiCalls.processNotes(processNotesJson, token);
 nitro.callAPI(leadersAPIweek, "jSingGameX.apiCalls.leaderboardWeek");
-nitro.callAPI("method=user.getChallengeProgress&sessionKey=NHwzNzY0MnwxMDYyMzM5MjY1MHwxMzQxNTE3ODI3fDc3NTQxNTA2MDNiNmIzODI3Yjc3NjNjODI5NzA0MzQwZjhmZGMzODV8MA==&userId=&showCanAchieveChallenge=true", "jSingGameX.apiCalls.challengeProgress");
+nitro.callAPI("method=user.getChallengeProgress&sessionKey=NHwzNzY0MnwxMDYyMzM5MjY1MHwxMzU4NDU1ODM2fDVkZGZhYjg3OTJhZTY4N2E5MjdhNWEzYzMzNjk3YWMwOGI5ODIzNmR8MA==&userId=&showCanAchieveChallenge=true", "jSingGameX.apiCalls.challengeProgress");
 // make the API call (just return challenges earned by user 'admin' recently) (leave 'userIds' param empty to retrieve all recent challenges instead of just admin's);
 nitro.callAPI('method=site.getRecentChallenges&userIds=&trophiesOnly=true','jSingGameX.apiCalls.cb_weeklyBadges');
 
@@ -2063,6 +2107,7 @@ nitro.callAPI('method=site.getRecentChallenges&userIds=&trophiesOnly=true','jSin
 	<script type="text/javascript">jSING.videoPlayer.embedPlayers();</script>
 	
         <script>nitro.refreshNML();</script>
+
 
 
 
