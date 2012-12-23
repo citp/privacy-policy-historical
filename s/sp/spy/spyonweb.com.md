@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spyonweb.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614222810id_/http%3A//www.spyonweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyonweb.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223122533id_/http%3A//spyonweb.com/privacy) for the most accurate reproduction.*
 
 # Privacy — SpyOnWeb.com Research Tool
 
