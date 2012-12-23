@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the api.org privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614151133id_/http%3A//www.api.org/globalitems/globalfooterpages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the api.org privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223075038id_/http%3A//www.api.org/globalitems/globalfooterpages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -32,4 +32,4 @@ Although our site has industry standard security measures in place to protect th
 Irrespective of your domicile or place of doing business, by using this web site, you agree that API may collect, use and transfer your information as described in this Privacy Policy Statement.
 
 **Changes to Policy**  
-This policy may change over time. Your continued use of the site after these changes are posted constitutes your agreement to the changes with regard to information collected. 
+This policy may change over time. Your continued use of the site after these changes are posted constitutes your agreement to the changes with regard to information collected.
