@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoxels.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624190014id_/http%3A//www.photoxels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoxels.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224002733id_/http%3A//www.photoxels.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice - Photoxels - Digital Photography
 
@@ -9,6 +9,8 @@ No personal information is collected on this site, except as you voluntarily pro
 However, any correspondence you have with us is treated with the strictest confidentiality and any personal info you provide is used only for the purpose specified. No personal information or IP address is ever revealed to any third party. No information is sold, exchanged or divulged for any commercial purpose.
 
 The company that hosts our site do collect information on their server logs from your browser, including your IP address, cookie information, and the page you request. We have access to those log files. We do not examine IP addresses on an individual basis, but examine only aggregate totals for unique visits, page views, and megabytes downloaded per month.
+
+[Google](http://www.google.com/analytics/) and [AddThis](http://www.addthis.com/) collect statistics on which pages are visited or shared and how often, but only on an aggregate basis. No individual information is collected.
 
 When you shop at one of the vendors who advertise on our site, you are dealing directly with that vendor, who is then responsible for the privacy of any personal information you choose to divulge to that vendor. Photoxels has no access to any personal information you provide those vendors, nor do we have responsibility or liability for their independent policies. For more information of the privacy policy of these vendors and other vendors who advertise here, please see the Privacy Notice for that vendor (Read privacy notice of [Amazon.com](http://www.amazon.com/exec/obidos/tg/browse/-/468496/002-3121096-8593660), [Amazon.ca](http://www.amazon.ca/exec/obidos/tg/browse/-/918814/701-5313004-2193152), [TribalFusion](http://www.tribalfusion.com/www/about/privacy.html), [PriceGrabber.com](http://www.pricegrabber.com/info_disclaimer.php), [PriceGrabber.ca](http://www.pricegrabber.ca/info_disclaimer.php)). Likewise, any product support you may require is available only from the appropriate vendor in question.
 
@@ -30,4 +32,4 @@ Google Ads (Privacy Policy):
 
 This Privacy Notice will be updated periodically to reflect changes in our information practices. Whenever we revise this Privacy Notice, we will change the date on the notice to indicate when the revisions were made. We reserve the right to change our information practices and the terms of this Privacy Notice. By using this web site, you agree to accept the terms of this Privacy Notice as stated at the time you use it. Any future access to this web site subsequent to the posting of a revised Privacy Notice will be deemed to be your acceptance of this Privacy Notice as then revised. We reserve the right to change this Privacy Notice at any time.
 
-UPDATED: March 12, 2009
+UPDATED: July 16, 2012
