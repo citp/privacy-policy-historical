@@ -1,139 +1,74 @@
-> *The following text is extracted and transformed from the theavettbrothers.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523233226id_/http%3A//www.sonymusic.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theavettbrothers.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223182843id_/http%3A//privacypolicy.umusic.com) for the most accurate reproduction.*
 
-# SONY MUSIC ENTERTAINMENT PRIVACY POLICY | Sony Music Entertainment
+# UNIVERSAL MUSIC GROUP PRIVACY POLICY
 
-[](http://privacy-policy.truste.com/click-with-confidence/wps/en/www.sonymusic.com/seal_m)
+Effective: December 1, 2004
 
-Sony Music Entertainment ("Sony Music") and the information collected on this site may be used in the manner described below by Sony Music, our labels, agents, subsidiaries, trusted partners and affiliates acting on our behalf.
+_Last Updated:_ September 30, 2011
 
-When this Privacy Policy uses the term "personal information," we mean information that identifies a particular individual, such as full name, street address, telephone number or email address.
+**UNIVERSAL MUSIC GROUP PRIVACY POLICY** ****
 
-Sony Music is a member of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because Sony Music wants to demonstrate its commitment to your privacy, it has agreed to disclose its data collection and privacy practices to TRUSTe for compliance review. We encourage you to review the entire policy. Please click on any of the links below to review that particular section.
+[ Universal Music Group](http://new.umusic.com/flash.aspx) and this site care about your privacy. Universal Music Group consists of: [Interscope Records](http://www.interscope.com/), [Dreamworks Records](http://www.interscope.com/), [A&M Octone Records](http://site.amoctone.com/), [Geffen Records](http://www.geffen.com/), [Island Records](http://www.islandrecords.com/), [Def Jam Recordings](http://www.defjam.com/), [Lost Highway Records](http://www.losthighwayrecords.com/), [MCA Nashville](http://www.umgnashville.com/), [Mercury Records](http://www.umgnashville.com/), [Motown Records](http://www.universalmotown.com/), [Republic Records](http://www.republicrecords.com/), [Show Dog - Universal Music](http://www.sdumusic.com/), [Verve Music Group](http://www.vervemusicgroup.com/), [Decca Label Group,](http://www.deccalabelgroup.com/) [Universal Music Latin Entertainment](http://www.universalmusica.com/) and [Universal Music Enterprises](http://www.universalmusicenterprises.com/) as well as a multitude of record labels owned or distributed by its record company subsidiaries around the world. This privacy policy tells you what information we collect at our web sites and how we use it. If you choose to visit any of the Universal Music Group web sites, your visit is subject to this privacy policy, and you agree to the terms of it.
 
-* * *
+**WHAT INFORMATION WE COLLECT** ****
 
-Collection and Use of Personal Information
+There are many places at our sites where you can share your personal information with us, and where you can communicate with others. **Registration.** Some of our sites give you the opportunity to register with us, and sometimes registration is required before certain site features can be used. Our registration forms may request your contact information (such as your name, email address, mailing address, etc.), demographic information (such as your country, gender, etc.), and profile data (such as your music preferences, entertainment practices, etc). You may be assigned a site username and/or password. For our internal purposes, we use this information to communicate with you and provide the services you have requested, and to provide a more personalized experience on our sites. For example, your registration may allow you to use and post to site message boards, create site profiles, etc. We use aggregate demographic and profile information about our audience in order to improve our service, for research purposes, marketing/promotional purposes and/or for industry reporting purposes, among others. By visiting our sites, you affirmatively consent to our collection and use of your data.
 
-  
-  
-  
-  
-  
-  
-  
-  
+**Newsletters and Other Communications from Us.** Our registered users and customers may receive newsletters, email communications, or communications through other channels for, among other purposes, the promotion and marketing of a product or service from our family of sites and record labels, as well as other Vivendi Universal companies, and business partners, and we may also offer other visitors to our sites the opportunity to sign up to receive such information. When there is a separate sign-up for newsletters, we ask for contact information such as name and email address, and, sometimes, demographic and profile information. By visiting our sites, you affirmatively consent to our collection and use of your data. We use this information in the same manner as we use the contact information in the Registration process described above. We may offer our users the choice whether to receive mailings from others that we think will be of interest. Recipients of our mailings can unsubscribe by following instructions that may appear at the end of email communications. Note that in order to keep our registered users informed about the operation of our services, we may send emails and announcements that are needed for the proper functioning and administration of our sites and service. **Communications with Us.** **** We have features where you can submit information to us (such as when contacting us with a question or feedback). We may retain your emails and other information you submit to us for our internal purposes, and to help us to serve you better.
 
+**Communications with Friends.** We may offer features where you can send information to others, such as e-cards or "Tell A Friend" features. We will use the contact information you enter for your friends to send the email or e-card. **Interactive and Community Features.** Our sites may offer interactive and community features, such as message boards, chat, email accounts, short message service (SMS), instant messaging, profiles, personal homepages, etc. All information posted or sent through these features may be publicly available, and you should be aware that when you voluntarily disclose personal information (e.g., user name, email address, phone number) through these features, that information can be collected and used by others and may result in unsolicited communications from other people. By accessing these features and disclosing personal information, you affirmatively consent to the distribution of your personal information as described above. Users' posts may be publicly and/or internally associated with their profiles/screen-names. Users are solely responsible for the content of messages they post or send on public forums. **Contests, Sweepstakes and Surveys.** We may also have contests, sweepstakes and surveys at our sites. When you enter or participate in them, we request contact information from you (such as your full name, email address, mailing address, and telephone number) and may also request demographic or profile information. We will use the information you provide for the purpose of conducting the promotion (for example, to contact you if you have won). We may also use the information to send you newsletters and other information we think may be of interest. Recipients of our mailings can unsubscribe by following instructions that may appear at the end of the email communication. Any personal information we collect may be associated with registration information. We may share aggregate information with others. We may sometimes partner with sponsors in offering contests, sweepstakes or surveys, and may share (provide and receive) information with them. By entering or participating in such contests, sweepstakes, and surveys, you affirmatively consent to our collection and use of your data.
 
-* * *
+**AUTOMATIC DATA COLLECTION** ****
 
-**Collection and Use of Personal Information**
+Our web sites have features that automatically collect information from users to assist us in creating sites that honor our users' preferences and serve their interests and needs.
 
-We may collect the following personal information from you:
+Some of our sites use cookies, which are small data files containing information about the user that are stored on the user's hard drive. Some cookies are used to make login to our sites easier (such as by remembering usernames and passwords). Cookies can also enable us to track users' movements and target their interests to enhance their experience at our sites. We may also collect clickstream data and assign unique identifiers to our users for the same purposes. Information obtained with these technologies may be associated with your personal information so we can better market to you and customize our advertisements and promotions to your interests. 
 
-  * Contact information such as name, email address, street address, and phone number
-  * Billing information such as credit card number and billing address
-  * Demographic information such as age, gender, interests, country and zip code
-  * Unique identifiers such as user name and password
-  * Preference and other information such as product wish lists, order history, marketing preferences and cell phone carrier
+  We may use third-party advertising companies to serve ads when you visit our web sites.  These companies may use information (not including your name, address, email address or telephone number) about your visits to our sites and other web sites on the Internet in order to provide advertisements about goods and services of interest to you.  If you would like to learn more about this practice or find out how you can opt out from allowing these companies to gather this information or use it to display targeted ads, please visit the NAI’s website at <http://networkadvertising.org/consumer/opt_out.asp>. 
 
+Most common web browsers today, such as Firefox and Internet Explorer, allow you to modify your settings to block cookies entirely, alert you every time they are being sent, or allow their use by only those web sites you choose.  You can also delete cookies that are currently stored on your computer’s hard drive.  To do this within Firefox or Internet Explorer, go to Tools, then Options or Internet Options, and then choose the Privacy tab to make your selections.  If you choose to disable cookies, certain features on our web sites may not be available or work properly.  Also, please note that if you disable/delete all cookies stored on your computer, you will have also disabled the cookies that are used by NAI to help prevent you from receiving unwanted advertising from third party ad networks.  If you do not want this to happen, please make sure not to disable/delete the NAI cookie or add NAI to the approved list of sites from whom you allow/accept cookies.     Through the use of web logs or log files, we may also gather information such as the date, time, browser type, navigation history, and IP address of all visitors to our site(s). We use this information for our internal security audit log, trend analysis, and system administration, and to gather broad demographic information about our user base. We may associate this information with your personal information. By visiting our sites, you affirmatively consent to our collection, use, and distribution of your data.
 
+**WITH WHOM YOUR INFORMATION IS SHARED** ****
 
-We or one of our trusted partners may use this information to:
+Information provided at Artist sites that we host or manage may be shared with that Artist, including their management, representatives, and any new label they may join. As with other third parties, we are not responsible for how the Artists handle the data once they receive it. When we have co-branded or sponsored services, when we host a site, or when we join with other parties to provide specific services, we may share (provide and receive) your personal information with them. By visiting these sites, you affirmatively consent to our collection, use and distribution of your data.   
+We may share your information with other third parties with whom we have business relationships and, in some cases, we cannot control or know their privacy practices. By visiting our sites, you affirmatively consent to our collection, use, and distribution of your data.
 
-  * Send you requested updates and newsletters about an artist, type of music or related special offers
-  * Send you requested product or service information
-  * Send a one-time email or e-card to your friends upon your request when you provide their email address
-  * Fulfill your order
-  * Send you an order confirmation
-  * Respond to customer service requests, questions and concerns
-  * Administer your account
-  * Process information submitted with a job application
-  * Send you marketing communications
-  * Administer promotions and sweepstakes you enter and notify you of the results
-  * Improve our marketing efforts
-  * Conduct research and analysis
-  * Display content based upon your interests
+Other than as set forth in this policy, we do not share your personally identifiable information with other companies, apart from those acting as our agents in providing our service to you, and which agree to use it only for that purpose and to keep the information secure and confidential. Also, please be aware that our parent company, Vivendi Universal, including all its business units, subsidiaries, affiliates and sites, Universal Music Group's subsidiary and affiliated companies and sites, entities into which our companies may be merged, or entities to which any of our assets, products, sites or operations may be transferred, may obtain from us and be able to use your personal information. We will also disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency's request, or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. You should also be aware that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your information to be shared or transferred to third parties without your permission. 
 
+We may share (provide and receive) aggregate information, which is not personally identifiable, with others. This information may include demographic data such as the gender and/or geographic location of groups of users, but it will not include personal information (such as your name or email address). We use aggregate demographic information about our audience in order to improve our service, for research purposes, marketing/promotional purposes and/or for industry reporting purposes, among others.
 
+**CHOICE** ****
 
-We also automatically collect information about your computer as you browse our site(s). Please see the Tracking Technologies section of this Privacy Policy.
+By accepting this privacy policy, you expressly choose to receive certain communications from us and third parties, and you expressly agree to the privacy practices described herein. Our sites may also provide you with additional specific opportunities to select communications you wish to receive. You may change your privacy preferences, e.g. choose to cease receiving certain communications, by informing us of your new preferences. We will be able to honor your new preferences most quickly if you inform us of them by following the appropriate instructions in any communication you receive from us. Please be aware that messages you receive from us through SMS and instant messaging systems (and other systems apart from email) may not include an option to cease receiving communications; to change your privacy preferences with respect to those communications, please go to the profile page at the site where you provided your personal information or direct your instructions to the Contact identified at the end of this policy.
 
-**Social Networks/Online Communities**
+**ACCESS** ****
 
-We enable you to create a profile for accessing blogs or online communities for sharing information such as messages, photos and videos. Please note that we cannot control the actions of others with whom you may choose to share your pages and information. We may also enable you to post content from some of our sites to your profile on other social networks. You can access these services from our sites using Facebook Connect, Twitter, or other Open ID providers. These services will authenticate your identity and allow you to post and share certain personal or other information with that site. Please be aware that the privacy policy of that site will apply to any content you provide them in these instances. We do not allow these services to provide any personal information or content back to our sites or your profile with us unless you agree.
+If a user's personally identifiable information changes (such as zip code), we endeavor to provide a way to correct or update that user's personal data. Please feel free to contact us if you have any questions regarding making changes to your data.
 
-**Transactions**
+**DATA COLLECTION FROM CHILDREN** ****
 
-You may purchase artists' music or merchandise from some of our site(s). We use the personal information you provide in connection with a purchase to process and fulfill your order. This Privacy Policy applies to any such purchases. In some instances, you may be directed to a third party site to initiate your transaction. These third party sites will be clearly identified and link to their own privacy policies so you know which company is collecting your personal information. You should refer to those policies for any privacy-related concerns regarding your purchase with them.
+We strive to comply with the Children's Online Privacy Protection Act (COPPA). We do not knowingly collect personal information from U.S. children under 13 without appropriate parental notice and consent. Sites that are directed to children where personal information is collected should have a Children's Privacy Policy setting forth our COPPA-compliant practices. At many sites, we actively screen-out children from data collection and/or use of interactive or community features. We are committed to protecting children's privacy.
 
-**Information Sharing**
+**NOTICE: Visit** **[www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy)** **for information from the Federal Trade Commission about protecting children's privacy online.**
 
-We will share your personal information with third parties in the ways that are described in this Privacy Policy.
+**SECURITY** ****
 
-We may provide your personal information to companies that help us with our business activities such as processing credit card transactions, shipping your order, assisting us in site operations, providing customer service and delivering email newsletters. These companies are authorized to use your personal information only as necessary to provide these services.
+Security for all personally identifiable information is extremely important to us. We store your personal information securely, and use special procedures designed to protect the information we collect from loss, misuse, unauthorized access or disclosure, alteration or destruction. 
 
-We may also share your personal information:
+**MERCHANT/E-COMMERCE AREAS** ****
 
-  * With Sony Music affiliates and representatives of our current recording artists
-  * With reputable third parties in whose products or services we think you may have an interest, with your prior consent to do so
-  * With representatives of former recording artists, who will be advised in advance that your consent is required for continued use
-  * As required by law, such as to comply with a subpoena or similar legal process
-  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to a government request
-  * In connection with a corporate change including a merger, acquisition or sale of assets
-  * To any other third party with your prior consent to do so
+We do not generally make e-commerce offerings at our sites. Some of our sites do have merchant/e-commerce areas, where users can purchase merchandise. Universal Music Group does not run those areas of our sites. Personal information collected at those areas is not shared with Universal Music Group without the purchasers' consent. At each of those areas, we endeavor to provide a privacy policy link where users can review the privacy policies that apply to data collection and use at those areas, and we urge our users to review them. Please be aware that the site at iClassics.com is an exception, where we do make e-commerce offerings, and it is covered by a separate privacy policy. Please review it if you use that site.
 
+**LINKS** ****
 
+We may provide links to non-Universal Music Group sites. We are not responsible for those other sites, their privacy policies or how they treat information about their users, and we advise you to check their privacy policies.
 
-**Choice/Opt-Out**
+**PRIVACY POLICY CHANGES** ****
 
-You may choose to stop receiving newsletters, updates or marketing emails by following the unsubscribe instructions included in these emails. Some sites also allow you to change your email preferences within your online profile.
+We reserve the right to modify, alter or otherwise update this Privacy Policy at any time, so we encourage you to review this policy from time to time. Changes to this privacy policy are effective at the time they are posted and your continued use of our sites after posting will constitute acceptance of, and agreement to be bound by, those changes. 
 
-If you choose to join a mobile marketing list, please be aware that there are usually costs associated with receiving SMS (text) or MMS (multimedia) messages depending on your wireless carrier and plan. You should check with your mobile carrier to determine what charges apply before signing up to receive our updates via your mobile phone. If you would like to stop receiving messages from us on your mobile phone, please reply to the message with "STOP." You may also contact your wireless carrier for additional information on receiving or stopping mobile messages.
+**CONTACT** ****
 
-**Tracking Technologies**
-
-We automatically collect information as you browse our site(s) such as the domain name, Internet Service Provider, browser type and version, operating system and device type, average time spent on our site(s), pages viewed, information accessed, the Internet Protocol (IP) address used to connect your computer to the Internet and other relevant statistics. Such information is sometimes referred to as web analytics and/or clickstream data.
-
-We and our third party partners may use cookies and/or pixel tags to keep track of your visits, preferences and profile information. These may be used to enhance your experience on the site(s) including allowing you to remain logged in on the site(s). Cookies and pixel tags may also be used to collect general usage and aggregated statistical information that does not identify you personally. However, we and our third party partners may use cookies to store some of your preferences (including limited personal information) or to display content based upon what you view on our site(s) in order to personalize your visit with relevant advertising. To learn more about the use of cookies in online advertising, including how to manage or delete them [click here](http://www.networkadvertising.org/managing/learn_more.asp).
-
-We and some of our third party partners use Flash cookies to store some of your preferences or personal information. For more information on Flash cookies and how to manage privacy and storage settings [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
-
-**Security**
-
-The security of your personal information is important to us. When you enter sensitive billing information on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and after receipt. However, no method of transmission over the Internet or method of electronic storage is 100% secure and we cannot guarantee its absolute security.
-
-**Updating Your Personal Information**
-
-Our sites may offer different methods for updating your personal information. To review and update your personal information on artist marketing sites, please log in to your profile/account on each site where you have registered.
-
-To update your billing or shipping information for purchases, please follow the customer service instructions in your order confirmation email.
-
-**Additional Information**
-
-Widgets - Our site(s) may include interactive mini-programs that provide specific services from another company (e.g., displaying digital news feeds), often referred to as widgets. You may have the opportunity to submit personal information, such as your email address, for collection through a widget. Browser or Flash cookies may also be set by a widget to enable it to function properly. Information collected by a widget is governed by the privacy policy of the company that created it.
-
-Links to Other Site(s) - Our site(s) includes links to other site(s) whose privacy practices may differ from those of Sony Music. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any site you visit.
-
-Children – We do not attempt to collect any personal information from those under the age of 13. If you feel that we have unknowingly collected information from someone under the age of 13, please [contact us](http://www.sonymusic.com/about/feedback.php) immediately and this information will be removed.
-
-For more information on how to protect your children online:
-
-**Visit  [www.OnGuardOnline.gov](http://www.onguardonline.gov/) for social networking safety tips for [parents](http://www.onguardonline.gov/topics/social-networking-sites.aspx)[](http://www.onguardonline.gov/topics/social-networking-sites.aspx) and [youth](http://www.onguardonline.gov/topics/safety-tips-tweens-teens.aspx).**
-
-**Changes To This Policy**
-
-By using our site(s), you agree to the terms of this Privacy Policy. We may amend this Privacy Policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will send an email to users who have provided an email address or post a notice on our site(s) prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-**Questions About This Privacy Policy**
-
-If you have questions or concerns regarding this Privacy Policy, you should first contact Sony Music. You can contact us about this Privacy Policy by writing us:
-
-Sony Music Entertainment   
-550 Madison Avenue, Room 2356   
-New York, NY 10022
-
-Or you can [click here](http://www.sonymusic.com/about/feedback.php) to submit feedback online
-
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe by [clicking here](http://watchdog.truste.com/pvr.php?page=complaint&url=). TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have any questions about our privacy practices, please feel free to contact us at: **UMG Privacy Officer**  
+2220 Colorado Avenue, Santa Monica , CA 90404  
+(310) 865-5000 or email us by [clicking here](http://privacypolicy.umusic.com/email/default.asp).
