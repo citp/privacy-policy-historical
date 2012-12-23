@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myordbok.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611165630id_/http%3A//www.myordbok.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myordbok.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223215224id_/http%3A//www.myordbok.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement | MyOrdbok
 
