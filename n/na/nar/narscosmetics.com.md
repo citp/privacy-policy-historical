@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the narscosmetics.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509110622id_/http%3A//www.narscosmetics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narscosmetics.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223173921id_/http%3A//www.narscosmetics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - NARS
+# NARS Cosmetics Privacy Policy - NARS Cosmetics
 
 Nars has adopted this Privacy Policy in order to inform you of its policies with respect to information collected from this website. Your visit to narscosmetics.com is subject to this Privacy Policy and our [Terms and Conditions](http://www.narscosmetics.com/terms-of-use). Please note that this Privacy Policy governs only information provided to narscosmetics.com and communications from narscosmetics.com. It does not govern any other information or communications that may reference Nars. Your use of this website constitutes your acceptance of this Privacy Policy and your consent to the practices it describes. 
 
