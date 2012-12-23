@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sunnybrook.ca privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619153434id_/http%3A//sunnybrook.ca/content/%3Fpage%3D83) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnybrook.ca privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223090437id_/http%3A//sunnybrook.ca/content/%3Fpage%3D83) for the most accurate reproduction.*
 
-# Important information for patients and families - Privacy & Confidentiality - Sunnybrook Hospital
+# Important information for patients and families - Sunnybrook Hospital
 
 ## Personal Health Information Protection Act
 
@@ -62,14 +62,12 @@ Toronto, Ontario M4W 1A8
 [commissioner@ipc.on.ca](mailto:commissioner@ipc.on.ca)  
 [www.ipc.on.ca](http://www.ipc.on.ca/)
 
-## Download this page as a PDF in the following languages:   
-
+## Download this page as a PDF in the following languages: 
 
 _(will open a PDF file in a new window)_
 
 [French](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_French_-_For_Print.pdf "will open French PDF in a new window")  
-[  
-](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_French_-_For_Print.pdf "will open French PDF in a new window")
+[](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_French_-_For_Print.pdf "will open French PDF in a new window")
 
 [Arabic](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Arabic_-_For_Print.pdf "will open Arabic PDF in a new window")  
 [ ](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Arabic_-_For_Print.pdf "will open Arabic PDF in a new window")[](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Arabic_-_For_Print.pdf "will open Arabic PDF in a new window")
@@ -78,8 +76,7 @@ _(will open a PDF file in a new window)_
 [ ](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Simplified_Chinese_-_For_Print.pdf "will open a Simplified Chinese PDF in a new window")[](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Simplified_Chinese_-_For_Print.pdf "will open a Simplified Chinese PDF in a new window")
 
 [Chinese - Traditional](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Traditional_Chinese_-_For_Print.pdf "will open a Traditional Chinese PDF in a new window")  
-[ ](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Traditional_Chinese_-_For_Print.pdf "will open a Traditional Chinese PDF in a new window")[  
-](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Traditional_Chinese_-_For_Print.pdf "will open a Traditional Chinese PDF in a new window")
+[ ](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Traditional_Chinese_-_For_Print.pdf "will open a Traditional Chinese PDF in a new window")[](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Traditional_Chinese_-_For_Print.pdf "will open a Traditional Chinese PDF in a new window")
 
 [Portugese](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Portuguese_-_For_Print.pdf "will open a Portuguese PDF in a new window")  
 [ ](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Portuguese_-_For_Print.pdf "will open a Portuguese PDF in a new window")[](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Portuguese_-_For_Print.pdf "will open a Portuguese PDF in a new window")
