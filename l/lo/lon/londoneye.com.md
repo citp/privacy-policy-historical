@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the londoneye.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618093505id_/http%3A//www.londoneye.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londoneye.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223122855id_/http%3A//www.londoneye.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
-This web site is owned and run by The London Eye Company Limited ("the London Eye"), a division of Merlin Entertainments Group. The EDF Energy London Eye recognises that your privacy is important, and is committed to preserving it. This policy sets out our policy in relation to any personal information which you supply to us through your use of this website. 
+This web site is owned and run by London Eye Management Services Limited ("the London Eye"), a division of Merlin Entertainments Group. The EDF Energy London Eye recognises that your privacy is important, and is committed to preserving it. This policy sets out our policy in relation to any personal information which you supply to us through your use of this website. 
 
 ## Booking your London Eye tickets online is quick, easy, convenient and safe. 
 
@@ -79,4 +79,4 @@ SE1 7PB
 
 As we are constantly improving our site, there may be developments in how we use your data. All such developments will be promptly notified to you in this policy, and where appropriate, through e-mail notification. 
 
-The EDF Energy London Eye is owned and operated by The London Eye Company Limited. Registered Office: 3 Market Close, Poole, Dorset, BH15 1NQ. Registered in England No. 2896849 
+The EDF Energy London Eye is owned and operated by London Eye Management Services Limited. Registered Office: 3 Market Close, Poole, Dorset, BH15 1NQ. Registered in England No. 2896849 
