@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logotournament.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503054405id_/http%3A//logotournament.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logotournament.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223192958id_/http%3A//logotournament.com/help/privacypolicy) for the most accurate reproduction.*
 
 # Help & Frequently Asked Questions
 
