@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the tastebuds.fm privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628194949id_/http%3A//tastebuds.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastebuds.fm privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223110643id_/http%3A//tastebuds.fm/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tastebuds
+
+## Tastebuds Privacy Policy
+
+Tastebuds.fm (the "Site"), operated solely by Tastebuds Media Ltd. ("we" or "us"), respects the privacy of our users and has developed this privacy policy (the "Privacy Policy") to articulate our commitment to protecting your privacy. 
+
+The Privacy Policy is intended to describe for you, as an individual who is a user of the Site or of the services offered on the Site (collectively with the Site, the "Services"), the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. 
+
+We encourage you to read this Privacy Policy carefully when using the Services. By accessing the Services, you acknowledge and agree that you have read, fully accept, and will abide by this Privacy Policy. 
+
+The Services are currently under intense development and different aspects of the Services will be deployed over the coming months. Some parts of this Privacy Policy refer to functions of the Services that have not yet been implemented or deployed. Once such functions are available for use, by accessing and continuing to use the Services thereafter, you agree that those parts of the Privacy Policy shall go into effect. 
 
   1. ### 1\. Information collected
 
@@ -20,7 +30,7 @@ A cookie is a piece of data stored on your hard drive that allows us to recognis
 
   5. ### 5\. Deleting your information
 
-You have the option to hide your profile at any time which will remove it from public view on our system. If you would like to permanently delete your account please email hello@tastebuds.fm from the email address you registered your account stating your intention to delete your account. Deletion will permanently remove your photos and profile information from our database. Support enquiries sent to us may be stored on file.
+You have the option to hide your profile at any time which will remove it from public view on our system. If you would like to permanently delete your account please visit the Settings page of the site. Deletion will permanently remove your photos and profile information from our database. Support enquiries sent to us may be stored on file.
 
   6. ### 6\. Internal use of information
 
@@ -49,6 +59,10 @@ Our technical teams do their utmost to ensure the security of our systems. Inter
   11. ### 11\. Changes to this policy
 
 If we make material changes to our privacy policy, these changes will be posted to our privacy policy page. You should review this page regularly for updates.
+
+  12. ### Contact Us
+
+Please contact us if you have any questions about our privacy policy, the way in which we use information we hold about you, if you would like to obtain a copy of the personal data we hold on you, or if you wish to make a complaint or comment: write to us at: [hello@tastebuds.fm](mailto:%68%65%6c%6c%6f@%74%61%73%74%65%62%75%64%73.%66%6d)
 
 
 
