@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldoffemale.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525102816id_/http%3A//www.worldoffemale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoffemale.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223101617id_/http%3A//www.worldoffemale.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,15 +34,19 @@ Newsletters are sent from the official site, just to inform the members about th
 
 When you use this site, it implies that you agree with the privacy policy. You can however decline to provide certain information, which you consider too private to disclose. If you refuse to fill in some mandatory details then you may be unable to take the benefit of some functions present on the site.
 
+ **Notice Regarding Online Behavioral Advertising.**
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
+
  **Privacy system for children**
 
 We understand that young children are susceptible to providing personal details easily. The site employs an age limit of 13 years and above. People, who fall in the specified age group are allowed to provide their information.
 
  **About Images In Our Website** : Most of the images used in our website and from various sources. Since we have different authors they may use images from sites like flick, google images, free stock photos etc. We always try our best to give Image Credit to each image. If you own any of the images used in our website and don’t allow us to use then kindly contact us at : admin[at]worldoffemale.com  If you copy images from our website, kindly give credit to original image source that we have used.
 
- **About DoubleClick/Google Adsense Ads** : Google as a third party vender used cookies. Please read their privacy policy here : [http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html)
+ **About DoubleClick/Google Adsense Ads** : Google as a third party vender  uses a special [DART cookie](http://www.doubleclick.com/privacy/faq.aspx "DART Cookie Description")  to serve ads on our website and other websites. If you don’t want to have this DART cookie on your computer, [you can opt out](http://www.google.com/privacy_ads.html "Google Ad Privacy") .
 
-**Right to change the privacy policy**
+ **Right to change the privacy policy**
 
 The right to change the privacy policy is exclusively reserved by the website. If we make some alterations in the original privacy policy, we will keep you updated.  If you persist with the site after the revised policy has been implemented, it implies that you agree with the new privacy policy.
 
