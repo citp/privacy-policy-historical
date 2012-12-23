@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the everyoneactive.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623085543id_/http%3A//www.everyoneactive.com/Default.aspx%3Ftabid%3D724) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyoneactive.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223025629id_/http%3A//www.everyoneactive.com/Default.aspx%3Ftabid%3D724) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy
 
-This Privacy Policy relates to the entire website for Everyone Active which is the trading name for Sports Leisure Ltd company. The policy is in place to inform users of Everyone Active about the collection, use and sharing of personal information collected through the www.myeveryoneactive.com (“website”) or other services including SMS, WAP and any mobile phone applications. This privacy policy is designed to protect you, our users, by informing you what personal information is collected, what we do with that information, with whom we share it, and the methods we use to collect and secure it.
+This Privacy Policy relates to the entire website for Everyone Active which is the trading name for Sports Leisure Ltd company. The policy is in place to inform users of Everyone Active about the collection, use and sharing of personal information collected through the www.everyoneactive.com (“website”) or other services including SMS, WAP and any mobile phone applications. This privacy policy is designed to protect you, our users, by informing you what personal information is collected, what we do with that information, with whom we share it, and the methods we use to collect and secure it.
 
 This policy may be updated from time to time for any reason with each version applying to information collected whilst it was in place. We will notify all members of any material changes to our Privacy Policy by posting the new policy on our website. By using our website you are consenting to us processing your information as set forth in this Privacy Policy. Everyone Active was created to help people achieve their activity goals as well as connect with your friends and people with similar goals. We endeavour to make it easy for you to share information with your friends and people around you but recognise that you may want to prevent other people accessing this information. The default privacy settings in Everyone Active restrict the information displayed in your online profile to your full username and avatar or profile picture (if you choose to upload one) allowing you further opportunities to share additional information should you choose to.
 
@@ -49,9 +49,7 @@ When you register on and subsequently visit our website you provide us with two 
 Personal information you elect to provide us with in order to enrol on Everyone Active Online  
 Such information is collected to ensure that we can provide you with the services made available throughout the website, validate your eligibility to join the website, keep in contact with you and to manage your registered account.  
 This information may include (but is not limited to) your name, age, email address, telephone number, postal address, your gender and certain health and fitness related data obtained in order to create personalized fitness workouts for you.   
-Data collected concerning your use of the website  
-When you enter Everyone Active we collect your browser type, the search terms you use, IP address, domain from which you are visiting and advertisements on which you click as well as store certain information from your browser using cookies.  
-Cookies are pieces of data stored on a user’s computer tied to information about that user. We use session ID cookies to confirm that users are logged in which terminate once the user closes their browser. If you choose to you can allow us to use a persistent cookie to store your login ID and password to make it easier for you to login to the website. This option is not a default setting and it is strongly recommended that this feature is not used on shared computers.
+Data collected concerning your use of the website
 
 #### Contact and Correspondence
 
@@ -99,30 +97,69 @@ When creating new ‘Nattergories’ on the Natter section of the website the sy
 
 Adverts which appear on Everyone Active are monitored and controlled by Everyone Active directly and, as such, you can be assured that these companies are not monitoring IP address information or installing additional cookies on your computer.
 
-#### Enquiries
+#### Cookies
 
-If you have any comments or concerns about our Privacy Policy, please contact us via   
-[datamanager@everyoneactive.com](mailto:datamanager@everyoneactive.com)
+**Visiting Everyone Active websites with your browser settings adjusted to accept cookies tells us that you want to use Everyone Active products and services and that you consent to our use of cookies and other technologies to provide them to you as described in this notice.**  
+See below for information on how to modify the settings in your browser to notify you when you receive a new cookie and disable cookies altogether.
 
-Or our postal address is:
+  **What are cookies and how do they work?**  
+Cookies are small bits of text that are downloaded to your computer or mobile device when you visit a website. Your browser sends these cookies back to the website every time you visit the site again, so it can recognise you and can then tailor what you see on the screen.   
+**  
+What do you use cookies for?**  
+Cookies are an important part of the internet. They make using websites much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into four main groups.   
+**  
+1\. Cookies that are need to provide the service you have asked for**
 
-SLM trading as Everyone Active  
+Some cookies are essential so you can move around the website and use its features. Without these cookies, services you've asked for can't be provided. These cookies don't gather information about you that could be used for marketing or remembering where you've been on the internet. Here are some examples of essential cookies.
+
+  * Keeping you logged in during your visit; without cookies you might have to log in on every page you go to.
+  * When you add something to the online shopping basket, cookies make sure it's still there when you get to the checkout.
+  * Some are session cookies which make it possible to navigate through the website smoothly. However these are automatically deleted after you close your web browser.
+
+
+
+ 
+
+**2\. Improving your browsing experience**
+
+  These cookies allow the website to remember choices you make, such as your language or region and they provide improved features. Here are a few examples of just some of the ways that cookies are used to improve your experience on our websites.
+
+  * Remembering your preferences and settings, including marketing preferences, such as opting in or out of marketing emails.
+  * Remembering if you've filled in a survey, so you're not asked to do it again.
+  * Remembering if you've been to the site before. If you are a first-time user, you might see different content to a regular user.
+  * Restricting the number of times you're shown a particular advertisement. This is sometimes called 'frequency capping'.
+  * Showing you information that's relevant to products of ours that you have.
+  * Giving you access to content provided by social-media sites like Facebook or Twitter.
+  * Showing 'related article' links that are relevant to the page you're looking at.
+  * Remembering a location you've entered such as weather forecasts.
+
+
+
+ 
+
+**3\. Functionality**
+
+  These cookies allow users to customise how a website looks for them: they can remember usernames, language preferences and regions, and can be used to provide more personal services like local weather reports and traffic news.
+
+  **4\. Analytics**
+
+We like to keep track of what pages and links are popular and which ones don't get used so much to help us keep our sites relevant and up to date. It's also very useful to be able to identify trends of how people navigate (find their way through) our sites and if they get 'error messages' from web pages. This group of cookies, often called 'analytics cookies' are used to gather this information. These cookies don't collect information that identifies you. The information collected is anonymous and is grouped with the information from everyone else’s cookies. We can then see the overall patterns of usage rather than any one person’s activity. Analytics cookies only record activity on the site you are on and they are only used to improve how a website works. Some of our websites and some of the emails you might get from us also contain small invisible images known as 'web beacons' or 'tracking pixels'. These are used to count the number of times the page or email has been viewed and allows us to measure the effectiveness of its marketing and emails. These web beacons are anonymous and don't contain or collect any information that identifies you. We also use 'affiliate' cookies. Some of our web pages will contain promotional links to other companies’ sites. If you follow one of these links and then register with or buy something from that other site, a cookie is sometimes used to tell that other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral. This works using a cookie. For more information, see the Internet Advertising Bureau's guide about how affiliate marketing works.
+
+  **Cookies and Browser Settings**
+
+  The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer.
+
+#### Enquiries & Registered Office
+
+This website is operated Everyone Active, whose registered office & head office is below & to get in touch with our head office please contact: 
+
+  Sports and Leisure Management Ltd  
 3 Watling Drive  
 Sketchley Meadows  
 Hinckley  
 Leicestershire  
-LE10 3EY  
+LE10 3EY   
 Telephone 01455 890508   
-Fax 01455 890512
+Registered in England No.220408
 
-Registered Office  
-This website is operated by Sports and Leisure Management Ltd trading as Everyone Active, whose registered office is:
-
-Sports and Leisure Management Limited,  
-Bedford House  
-1 Regal Lane  
-Soham  
-Ely  
-Cambridgeshire CB7 5BA
-
-Sports and Leisure Management Limited, Registered in England No.220408
+[datamanager@everyoneactive.com](mailto:datamanager@everyoneactive.com)
