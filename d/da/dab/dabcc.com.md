@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dabcc.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529130418id_/http%3A//www.dabcc.com/showcontent.aspx%3Fid%3D201) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dabcc.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223164647id_/http%3A//www.dabcc.com/showcontent.aspx%3Fid%3D201) for the most accurate reproduction.*
 
 # DABCC Inc. Privacy Statement
 
