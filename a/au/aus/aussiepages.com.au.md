@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222516id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223213956id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Classifieds Directory Australia | Business Directory Listings Australia
 
@@ -106,46 +106,46 @@ We regularly monitor the quality and accuracy of Personal Information that we ma
   
 | 
 
-[**ADB Print & Leaflet Distribution Gold Coast**](http://www.aussiepages.com.au/ADB-Print-Leaflet-Distribution-Gold-Coast.html)  
-ADB Print is your ONE STOP SHOP for all of your graphic design, printing and leaflet, flyer and pamphlet distribution throughout the Gold Coast and Brisbane regions.  
+[**Web Science**](http://www.aussiepages.com.au/Web-Science.html)  
+Web Science is a highly skilled provider of all things related to websites and the internet. We create beautiful and highly functional professional websites for any business or niche and we are located close to Parramatta.  
   
   
 ---  
   
-[**Getprice**](http://www.aussiepages.com.au/Getprice.html)  
-Online shopping means being able to have more options. It means being able to get the best deals effortlessly.  
+[**Classic Elegance Photography**](http://www.aussiepages.com.au/Classic-Elegance-Photography.html)  
+With more than 12yrs experience in the wedding industry, Classic Elegance create beautiful images of your wedding day with a personal touch, flexible options and affordable packages starting at $1495.  
   
   
-[**Massage Therapist Gold Coast**](http://www.aussiepages.com.au/Massage-Therapist-Gold-Coast.html)  
-Deep tissue and swedish relaxation massage. Mobile massage therpay and in clinic at Currumbin. Servicing the whole gold coast including Tweed Hds, Coolangatta, Palm Beach, Burleigh, Elanora, Tugun.  
+[**Glamorous Ladies Shoes, Handbags & Jewellery**](http://www.aussiepages.com.au/Glamorous-Ladies-Shoes-Handbags-Jewellery.html)  
+Glamorous is a vibrant and youth­ful online busi­ness that prides itself on provid­ing the hot­test fash­ion jew­ellery and hand­bags to our cus­tom­ers through­out Australia. Drawing inspir­a­tion from the latest trends in London, New York, Paris and Tokyo, we strive to provide you wit  
   
   
-[**The Mortgage Gallery Rockingham**](http://www.aussiepages.com.au/The-Mortgage-Gallery-Rockingham.html)  
-The Mortgage Gallery Rockingham are your full service mortgage broker Perth, specialising in Home Loans & Refinance Options in Perth WA.  
+[**Architectural Plans and Council Approvals**](http://www.aussiepages.com.au/Architectural-Plans-and-Council-Approvals.html)  
+Willco Consulting was founded in 2007 and brings together over 16 years of experience drawing Architectural Plans and dealing with local councils in Sydney, Bathurst, Blue Mountains, ACT, Wollongong and the South Coast.  
   
   
-[**A.Abbott Locksmiths**](http://www.aussiepages.com.au/A.Abbott-Locksmiths.html)  
-Abbott Locksmiths is a leading locksmith company servicing all of Sydney. Available 24 hours a day in case of emergency. Call us today on 1300 655 787.  
+[**Architectural Plans and Council Submission**](http://www.aussiepages.com.au/Architectural-Plans-and-Council-Submission.html)  
+Willco Consulting was founded in 2007 and brings together over 16 years of experience drawing Architectural Plans and dealing with local councils in Sydney, Bathurst, Blue Mountains, ACT, Wollongong and the South Coast.  
   
   
-[**Vocal Freedom**](http://www.aussiepages.com.au/Vocal-Freedom.html)  
-Quality Vocal and Guitar Tuition in a relaxed and supportive environment  
+[**Designer Cosmetics and Makeup 90% Off !**](http://www.aussiepages.com.au/Designer-Cosmetics-and-Makeup-90--Off--.html)  
+A huge range of Designer Label Makeup and Cosmetics from Revlon, Loreal, Maybelline, Covergirl, Almay and Rimmel. We also stock brand name Jewellery and Silk Men's Ties from the worlds most famous designers. Best of all we sell all the above items at the cheapest prices in Australia.  
   
   
-[**Electricity Wizard**](http://www.aussiepages.com.au/Electricity-Wizard.html)  
-Gas Company, Electricity Company, electricity suppliers, power supplier, energy supplier, electricity provider, Electricity Supplier, Power Suppliers, Electricity  
+[**PARTY SHUTTLE BUS, PARTY BUS HIRE SYDNEY, CHARTER MINIBUS SYDNEY**](http://www.aussiepages.com.au/PARTY-SHUTTLE-BUS-PARTY-BUS-HIRE-SYDNEY-CHARTER-MINIBUS-SYDNEY.html)  
+Welcome to PartyShuttle.com.au 04500 600 55 Delivering You The Safe Way in our 14,21,24 & 42 Seater Party Bus, All our Sydney Party Buses have a great special lighting affects & 1000 Watt sound system to listen to your favourite CD or iPhone (AUX cable) music.  
   
   
-[**Next Level Extensions**](http://www.aussiepages.com.au/Next-Level-Extensions.html)  
-Next Level Extensions was born out of a vision to provide a boutique home extension building service focused on quality workmanship and personalised service for Perth.  
+[**Happy Life Balance Business Opportunity - Work From Home**](http://www.aussiepages.com.au/Happy-Life-Balance-Business-Opportunity---Work-From-Home.html)  
+Lucrative Online Home Business promoting Award Winning and Accredited Personal Leadership Development products for Success Education.  
   
   
-[**Rockdale Mattress Factory**](http://www.aussiepages.com.au/Rockdale-Mattress-Factory.html)  
-Rockdale Mattress Factory is a family owned and operated business dedicated to the manufacturing of quality spring, latex and wool layer mattresses.  
+[**Happy Wheels Bicycle Service Centre (Best in Service)**](http://www.aussiepages.com.au/Happy-Wheels-Bicycle-Service-Centre--28Best-in-Service-29.html)  
+Best bike servicing shop in Sydney, New South Wales (NSW). Repair, parts, tools, custom builds, bike accessories, bike wheels, & other cycling needs in the Eastern Suburbs & Inner City  
   
   
-[**Rafkia Solar and Electrical**](http://www.aussiepages.com.au/Rafkia-Solar-and-Electrical.html)  
-Provides solar along with electrical solutions to commercial, industrial and domestic clients. Based in Brisbane but also servicing the Gold and Sunshine Coasts, Qld.  
+[**Rhinoplasty in Melbourne at Advance Beauty Cosmetic Surgery**](http://www.aussiepages.com.au/Rhinoplasty-in-Melbourne-at-Advance-Beauty-Cosmetic-Surgery.html)  
+Avail the low average rhinoplasty cost in Melbourne at Advance Beauty Cosmetic Surgery. The clinic is headed by Dr Ahnsup Kim, a Korean cosmetic surgeon in Australia for 10 years.  
   
   
    
