@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the heathrowexpress.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507170355id_/https%3A//www.heathrowexpress.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heathrowexpress.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223093911id_/https%3A//www.heathrowexpress.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy - Heathrow Express
+# Privacy Notice | Heathrow Express
 
-Updated March 2012
+Updated October 2012
 
 ##  How we use your information
 
@@ -16,7 +16,7 @@ Heathrow Express is committed to collecting and using your personal information 
 
 
 
-In order to fulfil these purposes we may need to disclose your information to other BAA organisations and third party organisations which we use to deliver services to you. Where your information is provided to third parties they will only use your information for those purposes and in some instances this may require your information to be transferred overseas but we will make sure your information remains protected and secure. In the case of all disclosures we will always ensure the disclosure is legitimate and proportionate for the purpose.
+In order to fulfil these purposes we may need to disclose your information to other organisations which we use to deliver services to you. Where your information is provided to third parties they will only use your information for those purposes and in some instances this may require your information to be transferred overseas but we will make sure your information remains protected and secure. In the case of all disclosures we will always ensure the disclosure is legitimate and proportionate for the purpose.
 
 We will keep your personal information in line with our retention policy which ensures that we keep your details for no longer than is necessary. Your information will be retained in a secure environment and access to it will be restricted according to the ‘need to know’ principle.
 
@@ -45,11 +45,29 @@ Heathrow Express tries to meet the highest standards when collecting and using p
 
 In the majority of cases we will not disclose your personal information to others unless we have previously gained your consent. However there will be circumstances where we may disclose your personal information without your consent e.g. where we are required by law to disclose information or where the information is required to prevent or detect a crime. In the case of all disclosures we will always ensure the disclosure is legitimate and proportionate for the purpose.
 
-## Visitors to our websites
+## Privacy & Cookies
 
-When someone visits our websites we collect standard internet log information and details of visitor behaviour patterns. We do this by using cookies which record those areas of our websites that have been visited by your computer, for how long and what activity was undertaken on our website. We do this so we can understand which are the most popular parts of our websites, and also to improve your experience. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting our website.
+### What are cookies?
 
-You are not obliged to accept cookies. You have the opportunity to set your computer to either to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. To find out more about cookies, visit [www.aboutcookies.org](http://www.aboutcookies.org/)
+Cookies are small text files which are stored on your computer when you visit certain web pages. At Heathrow Express we use cookies to understand how our sites are used which helps us to improve your overall online experience. Some of the cookies we use are necessary for some of our sites to work whilst other cookies are used to provide tailored advertising by trusted third parties. The cookies we and our third parties place on your computer do not collect personally identifiable information like your name, address or payment details. To find out more about cookies, visit [www.aboutcookies.org](http://www.aboutcookies.org/).
+
+The privacy of your information is important to us and so we want to keep you well informed about cookies. We shall continue to work on initiatives in relation to recent cookie legislation to ensure you have the best experience when visiting our websites
+
+### The different types of cookies we use
+
+Heathrow Express use the follow categories of cookies on our websites:
+
+**Strictly necessary** – These cookies are essential for certain features of our websites to work for example when you make payments for car parking. These cookies do not record identifiable personal information and we do not need your consent to place these cookies on your device. Without these cookies some services you have asked for cannot be provided.
+
+**Performance** – These cookies are used to collect anonymous information about how you use our websites. This information is used to help us improve our websites and understand how effective our adverts are. In some case we use trusted third parties to collect this information for us but they only use the information for the purposes explained. By using our websites, you agree that we can place these types of cookies on your device.
+
+**Functionality** \- These cookies are used to provide services or remember settings to enhance your visit for example text size or other preferences. The information these cookies collect is anonymous and does not enable us to track your browsing activity on other websites. By using our websites, you agree that we can place these types of cookies on your device.
+
+**Targeting and Advertising** – These cookies are used by trusted third parties to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. Information contained in these cookies is anonymous and doesn't contain your personal information. To find out more about cookies used for targeting and advertising follow [www.youronlinechoices.com](http://www.youronlinechoices.com/) and [www.networkadvertising.org](http://www.networkadvertising.org/) or contact us at [website_feedback@baa.com](mailto:website_feedback@baa.com) for further information about the trusted third parties we use.
+
+### Managing cookies
+
+If you'd prefer to restrict, block or delete cookies from Heathrow Express and our third party advertisers, or any other website, you can use your browser to do this. Each browser is different, so check the 'Help' menu of your particular browser to learn how to change your cookie preferences. If you choose to disable all cookies we cannot guarantee the performance of our websites and some features may not work as expected.
 
 ## Links to other websites
 
