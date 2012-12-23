@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrid.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630020333id_/http%3A//astrid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrid.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223191600id_/http%3A//astrid.com/privacy) for the most accurate reproduction.*
 
 # Astrid - Privacy Policy
 
@@ -57,7 +57,7 @@ Our general policy is that we will use your personal information, including comb
 
 8.3 Enforcement; Legal Process. We reserve the right to transfer such information if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary (i) to satisfy any applicable law, regulation, legal process or enforceable governmental request, or (ii) to investigate or enforce violations of our rights or the security of this site. 
 
-8.4 Miscellaneous. We reserve the right to share personal information with the following additional parties: online organizers using out tools and resellers of our products and services from whose site the sale originated (even though the sale originates at site of the reseller, registration and collection of personal information occurs at this site). 
+8.4 Miscellaneous. We reserve the right to share personal information with the following additional parties: online organizers using our tools and resellers of our products and services from whose site the sale originated (even though the sale originates at site of the reseller, registration and collection of personal information occurs at this site). 
 
 **9\. Onward Transfer of Personal Information Outside Your Country of Residence.**   
 Any personal information which we may collect on this site will be stored and processed in our servers located only in the United States. By using this site, if you reside outside the United States, you consent to the transfer of personal information outside your country of residence to the United States. 
@@ -82,7 +82,7 @@ If you have any questions regarding this Privacy Policy, please contact the owne
 
 **Todoroo, Inc**   
 Attn: Privacy Policy Officer   
-625 Market Street, 5th Floor   
-San Francisco, CA 94105   
+660 4th Street #259   
+San Francisco, CA 94107   
 Email: [compliance.officer@todoroo.com](mailto:compliance.officer@todoroo.com)   
 Telephone: 1-888-832-7251 
