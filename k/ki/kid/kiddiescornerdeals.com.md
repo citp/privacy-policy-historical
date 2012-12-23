@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kiddiescornerdeals.com privacy policy that was archived on 2010-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100905072551id_/http%3A//www.kiddiescornerdeals.com/2010/04/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiddiescornerdeals.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224001606id_/http%3A//kiddiescornerdeals.com/2010/01/privacy-policy) for the most accurate reproduction.*
 
-# KiddiesCorner Deals: Privacy Policy
+# Privacy Policy
 
 Privacy Policy for www.kiddiescornerdeals.com
 
@@ -16,19 +16,28 @@ www.kiddiescornerdeals.com does use cookies to store information about visitors 
 
 DoubleClick DART Cookie  
 .:: Google, as a third party vendor, uses cookies to serve ads on www.kiddiescornerdeals.com.  
-.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.kiddiescornerdeals.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.kiddiescornerdeals.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
-Google Adsense  
-Commission Junction  
-Linkshare  
-Amazon
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Google Adsense
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.kiddiescornerdeals.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
 www.kiddiescornerdeals.com has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.kiddiescornerdeals.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.kiddiescornerdeals.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp 
+
+Powered By [DT Author Box](http://www.digitaltweaker.com/web/wordpress/2012/04/digital-tweakers-author-box-plugin-for-wordpress "Digital Tweaker WordPress Author Box Plugin")
+
+Nichol is a WAHM of two children, a son who is 9 and a daughter who is 5. She knows kids are expensive but shopping for them doesn’t have to be. That is why she features baby and kids deals and coupons for toys, clothing, baby gear and more. She enjoys giving her honest opinions on products and featuring new toys.
+
+[Author’s Website](http://kiddiescornerdeals.com/)
+
+[Follow this author on Twitter](http://twitter.com/KiddiesCorner "Follow Nichol on Twitter")
+
+[](http://www.digitaltweaker.com/ "Digital Tweaker | Your source for tech news, tutorials, and downloads")
