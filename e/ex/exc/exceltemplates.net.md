@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exceltemplates.net privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613194231id_/http%3A//exceltemplates.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exceltemplates.net privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223235037id_/http%3A//exceltemplates.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Excel Templates
 
 **Exceltemplates.net Privacy Statement**
 
@@ -47,3 +47,16 @@ When Exceltemplates.net makes changes to this privacy policy we will post those 
 **Contact Information**
 
 If you have any questions regarding our privacy policy, please contact us at info@exceltemplates.net.
+
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fexceltemplates.net%2Fprivacy-policy%2F%20 "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fexceltemplates.net%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fexceltemplates.net%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fexceltemplates.net%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fexceltemplates.net%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=Exceltemplates.net%20Privacy%20Statement%0D%0A%0D%0AWhat%20follows%20is%20the%20Privacy%20Statement%20for%20Exceltemplates.net%20website.%0D%0A%0D%0APlease%20read%20this%20statement%20regarding%20our%20website.%20If%20you%20have%20questions%20please%20ask%20us%20through%20our%20email.%0D%0A%0D%0AOwnership%20of%20Information%0D%0A%0D%0AE "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fexceltemplates.net%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fexceltemplates.net%2Fprivacy-policy%2F&srcTitle=Excel+Templates+Your+Source+of+Free+Excel+Templates+and+Free+Excel+Spreadsheets "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fexceltemplates.net%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Excel+Templates+Your+Source+of+Free+Excel+Templates+and+Free+Excel+Spreadsheets&summary=Exceltemplates.net%20Privacy%20Statement%0D%0A%0D%0AWhat%20follows%20is%20the%20Privacy%20Statement%20for%20Exceltemplates.net%20website.%0D%0A%0D%0APlease%20read%20this%20statement%20regarding%20our%20website.%20If%20you%20have%20questions%20please%20ask%20us%20through%20our%20email.%0D%0A%0D%0AOwnership%20of%20Information%0D%0A%0D%0AE "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fexceltemplates.net%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
+  * 
+
