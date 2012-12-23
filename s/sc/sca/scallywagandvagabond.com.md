@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scallywagandvagabond.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126155430id_/http%3A//scallywagandvagabond.com/about-this-scallywag/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scallywagandvagabond.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223071224id_/http%3A//scallywagandvagabond.com/about-this-scallywag/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Scallywag and Vagabond
 
@@ -32,4 +32,4 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 **Contact Details**
 
-If you have any questions or concerns regarding this privacy policy, please email us at christopher@scallywagandvagabond.com 
+If you have any questions or concerns regarding this privacy policy, please email us at christopher@scallywagandvagabond.com
