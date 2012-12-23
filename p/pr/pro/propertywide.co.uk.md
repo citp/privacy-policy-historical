@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertywide.co.uk privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624185942id_/http%3A//www.propertywide.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertywide.co.uk privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223063557id_/http%3A//www.propertywide.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Propertywide.co.uk
 
@@ -50,14 +50,33 @@ We reserve the right to retain access to the personal information we have gather
 
 If you subsequently change your mind about being contacted by these third parties please email us at [enquiries@propertywide.co.uk](mailto:enquiries@propertywide.co.uk "Contact Propertywide.co.uk") or sign into your My Account page to change your preferences.
 
-Use of cookies
+  
+What are cookies?
     
 
-As is the case with other websites we use 'cookies' to track usage of Propertywide.co.uk.
+Cookies are small pieces of information which are stored on your computer by your web browser. The information in cookies is sent to you by websites, and when you visit pages on the site, your cookies are sent back to the website. This allows site owners to store things like your options and preferences and show you personalised information the next time you visit a page.
 
-Cookies are small text strings websites can send to your browser to help enhance your visit to the website. It cannot pass on computer viruses, retrieve other data from your computer’s hard drive or capture your email address. Generally, cookies can be used to securely store a user’s ID and password, personalize web pages, identify visited parts of a site and keep track of user’s selections. Propertywide.co.uk uses cookies to keep track of your property search preferences and we may use cookies so we can provide you personalised information based on preferences you’ve indicated while using our website. If you signup with Propertywide.co.uk cookies are essential for site personalising your website experience.
+What this website use cookies for?
+    
 
-You have the option to prevent the use of cookies on your PC but please be aware disabling cookies will limit the functionality we can offer at Propertywide.co.uk. To find out more about setting your cookie preferences visit the website appropriate to your own browser.
+We use cookies to store information for the following reasons:
+
+  1. To make sure that we serve you pages as quickly as possible.
+  2. To remember what you searched for and other preferences, making future searches personalised to you.
+  3. To record how many people visit our site, and use maps on our site.
+  4. To record information about any advert you might have clicked on to reach our site.
+  5. If you login, to track who you are and ensure private information is sent only to you.
+
+
+What will happen if I block cookies?
+    
+
+If you block cookies, a large number of the features on the site will not work, or may work but with unexpected problems. You will be unable to log in, it will be more time consuming to carry out searches because you will have to enter your criteria every time, the site may appear to load considerably slower, and you may find some information which would normally be presented to you is hidden or missing.
+
+How do I block cookies?
+    
+
+Most modern web browsers will allow you to configure them to either block cookies entirely or to ask whenever a new cookie is created. The way to accomplish this varies from browser to browser. If you need assistance to do this [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) has further information for many browsers.
 
 Data security
     
