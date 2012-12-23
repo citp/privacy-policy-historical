@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the premiumecigarette.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522210035id_/http%3A//www.premiumecigarette.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumecigarette.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223063436id_/http%3A//www.premiumecigarette.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - PremiumECigarette.com
+# Privacy Policy - Premium Vapes
 
 Premium Ecigarette created this privacy policy in order to demonstrate our firm commitment to the privacy of our customers. The following discloses our information gathering practices for all of Premium Ecig websites. 
 
