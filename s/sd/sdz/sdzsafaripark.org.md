@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdzsafaripark.org privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503203201id_/http%3A//www.sandiegozoo.org/disclaimers/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdzsafaripark.org privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224003536id_/http%3A//www.sandiegozoo.org/disclaimers/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of sandiegozoo.org
 
