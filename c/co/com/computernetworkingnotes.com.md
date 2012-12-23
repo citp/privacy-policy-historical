@@ -1,35 +1,38 @@
-> *The following text is extracted and transformed from the computernetworkingnotes.com privacy policy that was archived on 2012-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120121003051id_/http%3A//computernetworkingnotes.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computernetworkingnotes.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223174908id_/http%3A//computernetworkingnotes.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D248) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Privacy Policy | Site
 
-We can be reached via e-mail at [admin@computernetworkingnotes.com](mailto:admin@computernetworkingnotes.com)  
+##  [ Privacy Policy](http://computernetworkingnotes.com/site/privacy-policy.html)
 
+## Privacy Policy Statement
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@ComputerNetworkingNotes.com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us .
 
-At computernetworkingnotes.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by computernetworkingnotes.com and how it is used. 
+To contact us use our contact forum.
+
+At computernetworkingnotes.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by computernetworkingnotes.com and how it is used.
 
 **Log Files**  
-Like many other Web sites, computernetworkingnotes.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, computernetworkingnotes.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
 **Cookies and Web Beacons**  
-computernetworkingnotes.com/ does not use cookies.
+computernetworkingnotes.com/ does  use cookies.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and click stream information. 
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and click stream information.
 
-Some of our advertising partners may use cookies and web beacons on our site. 
+Some of our advertising partners may use cookies and web beacons on our site.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on computernetworkingnotes.com/ send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements or to personalize the advertising content that you see. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on computernetworkingnotes.com/ send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements or to personalize the advertising content that you see.
 
-computernetworkingnotes.com has no access to or control over these cookies that are used by third-party advertisers. 
+computernetworkingnotes.com has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. computernetworkingnotes.com/'s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. computernetworkingnotes.com/'s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
 We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail.
 
