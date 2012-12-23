@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ldsliving.com privacy policy that was archived on 2012-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120522000302id_/http%3A//ldsliving.com/pages/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ldsliving.com privacy policy that was archived on 2012-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121223044357id_/http%3A//ldsliving.com/pages/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -26,11 +26,149 @@
   })();
 
 </script>
+<style type="text/css">
+		#ts1 li a{
+		    text-decoration:none;
+		    color:white;
+		}
+	
+		#ts1 ul {list-style-type:none;}
+		
+		.bgCover { background:#000; position:absolute; left:0; top:0; display:none; overflow:hidden; z-index: 2005; }
+		.overlayBox {
+			position:absolute;
+			display:none;
+			width:740px;
+			height:550px;
+			z-index: 2010;
+		}
+		.overlayContent {
+			background-image: url("/images/newsletter_pop-up_BG.png");
+		    background-repeat: no-repeat;
+		    width:740px;
+			height:550px;
+		}
+		.closeLink {
+			float:right;
+			color:red;
+		}
+		a:hover { text-decoration:none; }
 
+	</style>
 </head>
 
-<body>
+<body onload="timeMsg();">
+<div class="bgCover">&nbsp;</div>
+<div class="overlayBox">
+	<div class="overlayContent">
+        	<div style="float: right; margin: 20px 20px 0 0;">
+			<span onclick="doOverlayClose();" style="color: red; cursor: pointer;">Close X</span>
+		</div>
+		<div style="clear: both;"></div>
+		<div style="float: left; margin: 140px 0 0 40px;">
+			<a href="/pages/newsletter_signup"><img src="/images/newsletter_pop-up_button.png"></a>
+		</div>
+		<div style="clear: both;"></div>
+	</div>
+</div>
+<script language="javascript">
+	function getScrollXY() {
+	  var scrOfX = 0, scrOfY = 0;
+	  if( typeof( window.pageYOffset ) == 'number' ) {
+	    //Netscape compliant
+	    scrOfY = window.pageYOffset;
+	    scrOfX = window.pageXOffset;
+	  } else if( document.body && ( document.body.scrollLeft || document.body.scrollTop ) ) {
+	    //DOM compliant
+	    scrOfY = document.body.scrollTop;
+	    scrOfX = document.body.scrollLeft;
+	  } else if( document.documentElement && ( document.documentElement.scrollLeft || document.documentElement.scrollTop ) ) {
+	    //IE6 standards compliant mode
+	    scrOfY = document.documentElement.scrollTop;
+	    scrOfX = document.documentElement.scrollLeft;
+	  }
+	  return scrOfY;
+	}
+	
+	function createCookie(name,value,days) {
+		if (days) {
+			var date = new Date();
+			date.setTime(date.getTime()+(days*24*60*60*1000));
+			var expires = "; expires="+date.toGMTString();
+		}
+		else var expires = "";
+		document.cookie = name+"="+value+expires+"; path=/";
+	}
+	
+	function readCookie(name) {
+		var nameEQ = name + "=";
+		var ca = document.cookie.split(';');
+		for(var i=0;i < ca.length;i++) {
+			var c = ca[i];
+			while (c.charAt(0)==' ') c = c.substring(1,c.length);
+			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+		}
+		return null;
+	}
+	
+	function showOverlayBox() {
+		//if box is not set to open then don't do anything
+		if( isOpen == false ) return;
+		var window_height = getScrollXY();
+		//alert(window_height);
+		// set the properties of the overlay box, the left and top positions
+		$('.overlayBox').css({
+			display:'block',
+			left:( $(window).width() - $('.overlayBox').width() )/2,
+			top:(window_height + ($(window).height() - $('.overlayBox').height() )/2 -20),
+			position:'absolute'
+		});
+		// set the window background for the overlay. i.e the body becomes darker
+		$('.bgCover').css({
+			display:'block',
+			width: $(window).width(),
+			height:document.body.scrollHeight,
+			
+		});
+	}
+	function doOverlayOpen() {
+		//set status to open
+		isOpen = true;
+		showOverlayBox();
+		$('.bgCover').css({opacity:0}).animate( {opacity:0.5, backgroundColor:'#000'} );
+		// dont follow the link : so return false.
+		return false;
+	}
+	function doOverlayClose() {
+		//set status to closed
+		isOpen = false;
+		$('.overlayBox').css( 'display', 'none' );
+		// now animate the background to fade out to opacity 0
+		// and then hide it after the animation is complete.
+		$('.bgCover').hide();
+	}
+	
+	 function timeMsg()
+        {
+                var has_newsletter_cookie = readCookie('newsletter');
+                if(has_newsletter_cookie == "set") {
+                        return false;
+                }
+                else {
 
+                        var t=setTimeout("show_newsletter_pop()",30000);
+                }
+        }
+
+	function show_newsletter_pop() {		
+		doOverlayOpen();
+		createCookie('newsletter','set',30)		
+	}	
+</script>
+
+<div id="bar">
+</div>
+<div style="clear: both;"></div>
 <div class="email_signin">
   <div class="login">
       
@@ -45,7 +183,12 @@
 
           <div class="header">
       <div class="rt_header">
-        <div class="stay_connected"><a href="/rss"><img src="/images/rss.png"></a><a href="http://twitter.com/LDSLivingMag" target="_blank"><img src="/images/twitter.png"></a><a href="http://www.facebook.com/pages/LDS-Living/149175301770927" target="_blank"><img src="/images/facebook.png"></a><span class="right" style="margin-top: 6px; margin-right: 10px;">Follow Us</span><a href="/pages/emailsignup"><img class="mail" style="margin-top: 0px;" src="/images/email_icon.png"><span class="right" style="margin-top: 6px;">Get our Free Newsletter</span></a></div>
+        <div class="stay_connected">
+	<a href="/rss"><img src="/images/rss.png"></a>
+	<a href="http://twitter.com/LDSLivingMag" target="_blank"><img src="/images/twitter.png"></a>
+	<a href="http://www.facebook.com/pages/LDS-Living/149175301770927" target="_blank"><img src="/images/facebook.png"></a>
+	<span class="right" style="margin-top: 6px; margin-right: 10px;">Follow Us</span>
+	<a href="/pages/newsletter_signup"><img class="mail" style="margin-top: 0px;" src="/images/email_icon.png"><span class="right" style="margin-top: 6px;">Get our Free Newsletter</span></a></div>
         <div class="clearme"></div>
         <div class="search"><form action="/search" method="get" name="search_box"><input class="right" style="margin-left: 6px; margin-top: 5px;" src="/images/search.gif" value="Submit" type="image"><input class="search_box" name="q" onfocus="if (this.value==this.defaultValue) this.value='';" value="Looking for something?" type="text">
           
@@ -161,7 +304,7 @@ PO Box 30178 Salt Lake City, UT 84130-0178 USA<br>
       <div class="footer_links">
         <h2>Stay Connected</h2>
           
-            <a href="http://ldsliving.com/pages/emailsignup" target="_blank">FREE E-mail Newsletter</a>
+            <a href="http://ldsliving.com/pages/newsletter_signup" target="_blank">FREE E-mail Newsletter</a>
           
             <a href="http://www.facebook.com/#!/pages/LDS-Living/149175301770927?ref=ts" target="_blank">LDS Living on Facebook</a>
           
