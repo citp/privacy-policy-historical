@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the allergybegone.com privacy policy that was archived on 2012-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120203211300id_/http%3A//privacy-policy.truste.com/verified-policy/www.allergybegone.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allergybegone.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223014509id_/http%3A//privacy-policy.truste.com/verified-policy/www.allergybegone.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.allergybegone.com
 
 Effective on September 22, 2010 
 
-This privacy statement describes how Todays Concept collects and uses the personal information you provide on our Web site: [www.allergybegone.com ](https://www.allergybegone.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-**TRUSTe**
-
-Todays Concept is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
-
-If you have questions or concerns regarding this policy, you should first contact us at [info@allergybegone.com ](mailto:info@allergybegone.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+This privacy statement describes how Todays Concept collects and uses the personal information you provide on our Web site: [www.allergybegone.com ](http://www.allergybegone.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 ## Collection and Use of Personal Information
 
@@ -78,7 +72,7 @@ If you choose to use Amazon to finalize and pay for your order, you will provide
 
 _Yahoo! Merchant Solutions_
 
-This site is hosted by Yahoo! Merchant Solutions. Yahoo! hosts the store pages, ordering system, and collects your billing information directly from you for the purpose of processing that information on our behalf. If you accessed [www.allergybegone.com ](https://www.allergybegone.com/) through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience to allows us better understand who visits the site. Please see the [Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information.
+This site is hosted by Yahoo! Merchant Solutions. Yahoo! hosts the store pages, ordering system, and collects your billing information directly from you for the purpose of processing that information on our behalf. If you accessed [www.allergybegone.com ](http://www.allergybegone.com/) through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience to allows us better understand who visits the site. Please see the [Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information.
 
 Yahoo! Merchant Solutions uses cookies and log files to track visitors to our site. The statistics collected provide us information about Web site usage.
 
