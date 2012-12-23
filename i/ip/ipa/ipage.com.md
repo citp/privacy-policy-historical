@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipage.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629115518id_/http%3A//www.ipage.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipage.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223075643id_/http%3A//www.ipage.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # iPage's Privacy Policy
 
@@ -62,7 +62,7 @@ To ensure you receive the information you need to manage your account and protec
 
   
 
-  17. **Where to Direct Questions About iPage's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, iPage Hosting, 70 Blanchard Rd 3rd Floor, Burlington, MA 01803 or support@ipage-inc.com.
+  17. **Where to Direct Questions About iPage's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, iPage Hosting, 10 Corporate Dr. Suite 300, Burlington, MA 01803 or support@ipage-inc.com.
   
 
   18. **Unsubscribe**
@@ -80,4 +80,4 @@ Please note: iPage reserves the right to send you email communications that rela
 
 
 
-This file was last modified May 3, 2012. [View comparison version.](https://web.archive.org/web/20120629115518id_/http%3A//www.ipage.com/legal/legal_privacy.bml?showchanges=1)
+This file was last modified December 10, 2012. [View comparison version.](https://web.archive.org/web/20121223075643id_/http%3A//www.ipage.com/legal/legal_privacy.bml?showchanges=1)
