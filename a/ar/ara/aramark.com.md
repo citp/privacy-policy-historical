@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the aramark.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101160244id_/http%3A//www.aramark.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aramark.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223010613id_/http%3A//www.aramark.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective November 1, 2005
+Effective August 1, 2012
 
 ARAMARK is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Web site.
 
-  * Information Collected
-  * Use of Collected Information
-  * Links to Other Sites
-  * Security of Collected Information
-  * Access to Collected Information
-  * Contacting Us
-  * Changes to this Policy
-  * [Candidate Data Privacy Protection](https://web.archive.org/Careers/CorporateStandards.aspx "Candidate Data Privacy Protection")
+  * Information Collected 
+  * Use of Collected Information 
+  * Links to Other Sites 
+  * Security of Collected Information 
+  * Access to Collected Information 
+  * Contacting Us 
+  * Changes to this Policy 
+  * Candidate Data Privacy Protection 
 
 
 
@@ -29,7 +29,7 @@ We do not partner with or have special relationships with any ad server companie
 
 This Web site is not intended for persons under 13 years of age. We do not knowingly solicit or collect personal information from or about children, and we do not knowingly market our products or services to children.
 
-return to top ^
+return to top ^ 
 
 ## Use of Collected Information
 
@@ -41,7 +41,7 @@ We may share the personal information you provide with other companies we have h
 
 If you register with one of ARAMARK's business units online, they may use this information to provide you with custom information about ARAMARK offerings in support of your business needs. They may also seek to place a "cookie" (small data file) as discussed above in order to provide you with tailored information. You should review the privacy policy associated with that ARAMARK business' Web site for further information on privacy practices.
 
-return to top ^
+return to top ^ 
 
 ## Links to Other Sites
 
@@ -63,4 +63,45 @@ If you have any questions about this privacy policy, please use the Contact page
 
 Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Web site of any major changes for at least 30 days following the change.
 
-return to top ^
+return to top ^ 
+
+## Candidate Data Privacy Protection
+
+**I. OBJECTIVE**  
+
+The objective of these Candidate Data Protection Standards (“Standards”) is to provide adequate and consistent safeguards for the handling of candidate data by ARAMARK entities. These Standards are designed with the intention of defining ARAMARK’s protection of Candidate Data. ARAMARK is committed to fair information practices that are in compliance with applicable, local law.
+
+The identifiable information about yourself that you or someone else provides (on your or ARAMARK’s behalf) to an ARAMARK entity will be used for recruitment purposes and the Candidate Data will be protected in accordance with ARAMARK’s Standards outlined below and applicable law.
+
+By submitting your Candidate Data, you confirm and agree that:
+
+  * You have reviewed ARAMARK’s Standards and Privacy Policy;
+  * ARAMARK and/or its third party service providers may process the Candidate Data according to the recruitment purposes set out in the Standards;
+  * The Candidate Data may be transferred to other ARAMARK entities consistent with ARAMARK’s Standards; and
+  * Your consent is required in order to complete the submittal process. If you do not agree to abide by these terms and conditions do not use the site.
+
+
+
+ARAMARK may periodically collect further information with your consent or in accordance with applicable laws. For example, ARAMARK may require additional information to perform background checks or obtain approvals which may be a condition to employment. In addition, ARAMARK may collect your feedback and opinions (e.g., surveys) for business purposes, such as improving processes.
+
+**II. PURPOSES AND ACCESS FOR CANDIDATE DATA PROCESSING**  
+
+ARAMARK and ARAMARK entities process Candidate Data for legitimate human resources purposes. Such processing will be conducted within such purpose limitations and in accordance with applicable law.
+
+**III. SECURITY AND CONFIDENTIALITY**  
+
+ARAMARK entities are committed to taking appropriate technical, physical, and organizational measures to protect Candidate Data against unauthorized access, unlawful processing, accidental loss or damage, and unauthorized destruction.
+
+**Equipment and Information Security**  
+
+To safeguard against unauthorized access to Candidate Data by third parties outside ARAMARK, all electronic Candidate Data held by ARAMARK entities are maintained on systems that are protected by secure network architectures that contain firewalls and intrusion detection devices. The servers are stored in facilities with comprehensive security and fire detection and response systems.
+
+**Access Security**  
+
+ARAMARK entities limit access to internal systems that hold Candidate Data to a select group of authorized users who are given access to such systems through the use of a unique identifier and password. Access to Candidate Data is limited to and provided to individuals for the purpose of performing their job duties (e.g., a human resources manager may need access to a Candidate’s contact information for the purposes of setting up an interview).
+
+**IV. DIRECT MARKETING**  
+
+ARAMARK entities will not disclose Candidate Data outside ARAMARK to offer any products or services to a Candidate for personal or familial consumption (“direct marketing”) without his or her prior consent. The restrictions in this section apply only to contact data obtained in the context of applying for a position with ARAMARK and not, for example, to data obtained in the context of a customer relationship.
+
+return to top ^ 
