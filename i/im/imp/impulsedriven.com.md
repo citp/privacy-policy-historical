@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impulsedriven.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502015435id_/http%3A//www.impulsedriven.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impulsedriven.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223234634id_/http%3A//impulsedriven.com/support/privacy) for the most accurate reproduction.*
 
 # GameStop PC Downloads : Support : Privacy Policy
 
@@ -31,6 +31,12 @@ The information we receive or can determine from your interaction with our websi
 **E-mail Communications:** We may provide email links that allow you to contact us directly with any questions or comments you may have. We may receive a confirmation when you open any e-mail that we send to you, if your computer supports such capabilities. If you send us any email, we will retain such email and your email address for response. We also may compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary or duplicate messages to you. 
 
 **Information from Other Sources:** If we receive any information about you from other sources, we may add it to our account information. For example, if we receive a list of subscribers to a gaming publication, and we note that you are a subscriber, we may include that information in the account information that we store about you. Other examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records; account information, purchase or redemption information, and page-view information from business partners who operate their own websites or for which we provide any services; search term and search result information from searches conducted through the website; and credit history information from credit bureaus, which we use to help prevent and detect fraud. 
+
+**Intel ® IPT-OTP**
+
+At GameStop, we use Intel® Identity Protection Technology which provides you with enhanced account security by adding a one-time password. Intel IPT-OTP will place authentication information on your computer. It does not, however, send any data to third parties and cannot be used to track or access your computer.
+
+You may disable this feature, at any time, through your account settings.
 
 **An Explanation of "Cookies"**
 
@@ -82,7 +88,7 @@ Our website may contain links to other websites. If you choose to visit other we
 
 Whether or not you have viewed our terms and conditions of use of this website, or this privacy notice, and whether or not you have chosen to not receive notices from us, those terms and notices will still govern your use of Impulsedriven.com. We may update or change our terms of use and this privacy notice at any time and from time to time, as we determine is appropriate. 
 
-**Use of Our Website by Children**
+**Use of Our Website by Child**
 
 Impulsedriven.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Impulsedriven.com only with the involvement of a parent or guardian. We do not knowingly collect or store any personal information, even in the aggregate, about children under the age of 13. 
 
@@ -95,6 +101,6 @@ Legal Department
 625 Westport Pkwy  
 Grapevine, TX 76051  
 Fax: (817) 424-2002  
-[support@impulsedriven.com](mailto:support@impulsedriven.com)
+[downloadsupport@gamestop.com](mailto:downloadsupport@gamestop.com)
 
 As is the case with any business, our business changes over time, and our privacy notice and the Terms of Service also will change. We may e-mail reminders of our notices and conditions. You should frequently check our website to see recent changes to these terms and policies. Unless stated otherwise, our current privacy notice applies to all information that we have about you and your account. 
