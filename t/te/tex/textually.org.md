@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textually.org privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520043209id_/http%3A//www.textually.org/textually/archives/2009/09/024767.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textually.org privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223025902id_/http%3A//www.textually.org/textually/archives/2009/09/024767.htm) for the most accurate reproduction.*
 
 # textually.org: Privacy Policy
 
