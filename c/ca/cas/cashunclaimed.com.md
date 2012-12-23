@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashunclaimed.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614173507id_/http%3A//www.cashunclaimed.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashunclaimed.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223114110id_/http%3A//www.cashunclaimed.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Unclaimed Money - Cash Unclaimed Privacy Policy
 
@@ -41,6 +41,10 @@ Cash Unclaimed Money Search does use cookies.
 On some payment processes (for example: if you choose to pay via paypal) our servers do not handle sensitive financial information such as credit card numbers. All financial transaction details are handled on the secure servers of PayPal.com. You can visit PayPal to read their privacy policy. 
 
 This website may contain advertising from 3rd parties. These 3rd parties may have different privacy terms than Cashunclaimed maintains. You should check the privacy policies of those 3rd parties directly to understand those terms. 
+
+Choice/Opt-out
+
+Our Anti-Spam Policy tolerates only permission-based email. You may choose to opt-out of receiving email from us by submitting a request to opt out on our [customer support page](http://www.cashunclaimed.com/faq/). You always have the opportunity to opt-out or change preferences by following a link in the footer of all non-transactional email messages sent by us. In addition, any affiliate promoting CashUnclaimed.com is required to adhere to our strict no-Spam rules and are also required to allow you to opt out of their email marketing in a similar fashion. If you believe that you have received an unsolicited commercial email from us or any of our promotional affiliates, you may report it to us at our [customer support page](http://www.cashunclaimed.com/faq/). 
 
 If you have any questions about this privacy statement and/or our practices involving your privacy, feel free to contact us at: 
 
