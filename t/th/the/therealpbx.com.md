@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therealpbx.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626172333id_/http%3A//www.therealpbx.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therealpbx.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223050320id_/http%3A//www.therealpbx.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,6 +12,6 @@ If you wish to subscribe or unsubscribe to your newsletters, or for any related 
 
 If at any point of time you feel this privacy policy has been violated please feel free to contact us at:
 
- **The Real PBX**  
+**The Real PBX**  
 [http://www.therealpbx.com](http://www.therealpbx.com/)  
- **+1-888-892-9646**
+**+1-888-892-9646**
