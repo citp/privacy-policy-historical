@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youautocorrects.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614010921id_/http%3A//youautocorrects.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youautocorrects.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223111607id_/http%3A//youautocorrects.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | You Auto Corrects!
+# Privacy Policy | You Auto Correct!
 
 At **YOUAUTOCORRECTS.COM** we respect your privacy. Here you will find details outlining our privacy policy.
 
