@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pb.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602131717id_/http%3A//www.pb.com/legal/Privacy-Statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pb.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223172100id_/http%3A//www.pb.com/legal/Privacy-Statement.shtml) for the most accurate reproduction.*
 
 # Privacy Statement - Creative Business Solutions | Pitney Bowes
 
-This Privacy Statement is effective as of July 6, 2010. 
+This Privacy Statement is effective as of September 24, 2012. 
 
 We are committed to respecting the privacy of visitors to our websites.  We have created this Privacy Statement to describe how our websites operate, and how we collect, use, and share information gathered from our online visitors. 
 
@@ -75,15 +75,24 @@ Where permitted by local laws and regulatory requirements, we may transfer the p
 
 This privacy statement applies solely to information collected during your use of our Sites. Our Sites may contain links to other websites that may operate independently from Pitney Bowes.  These and other websites may also reference or link to our Sites.
 
+  
+
+
 Pitney Bowes is not responsible for the privacy practices or the content of such other non-Pitney Bowes websites.  We encourage you to be aware of the privacy statements of each and every website with which you may interact. 8\. Safe Harbor
 
-The following Pitney Bowes companies adhere to the U.S. Safe Harbor privacy principles: 
+Pitney Bowes Inc. and its wholly-owned U.S. subsidiaries, that receive personal information from the EU/EEA and Switzerland, adhere to the U.S. Safe Harbor privacy principles agreed upon by the United States and the European Union and the United States and Switzerland.
+
+The following Pitney Bowes company has self-certified its compliance with the U.S. Safe Harbor privacy principles and is a participant of the U.S.- EU Safe Harbor framework established by the U.S. Department of Commerce: 
 
   * Pitney Bowes Software Inc.
 
 
 
-[>Get more information about the U.S. Safe Harbor program](http://www.export.gov/safeharbor/) 9\. Country-Specific Requirements
+[>Get more information about the U.S. Safe Harbor program](http://www.export.gov/safeharbor/)
+
+[](http://www.export.gov/safeharbor)
+
+9\. Country-Specific Requirements
 
 Pitney Bowes Inc. is a global corporation with subsidiary companies located around the world.  This Privacy Statement establishes our global principles for the collection, use and disclosure of information gathered through our Sites.   The country in which you are doing business with us or where the Site you are visiting is located/hosted may have specific requirements concerning personal information. 
 
@@ -91,15 +100,19 @@ Pitney Bowes Inc. is a global corporation with subsidiary companies located arou
 
 If you wish to update or remove your personal information, opt out from receiving, or opt in to receive, marketing communications from us please do so by indicating your preferences on the relevant Site or by contacting us at the mail or email address below.  For Pitney Bowes My Account users, please log in to My Account and see "Edit e-mail preferences".
 
+  
 If you have any questions or comments about this Privacy Statement, please contact us at: 
 
-Pitney Bowes Privacy Office  
+Global Ethics & Business Practices  
+Pitney Bowes Inc.  
 1 Elmcroft Road  
 Stamford, CT USA 06926-0700 
 
 or
 
-[privacyoffice@pb.com](mailto:privacyoffice@pb.com) Where required by law, you may request access to your personal information that we maintain.  As permitted by law, we may charge a reasonable fee for providing access to personal information, but we do not charge for lodging a request for access. 
+[ethicsoffice@pb.com](mailto:ethicsoffice@pb.com)
+
+Where required by law, you may request access to your personal information that we maintain.  As permitted by law, we may charge a reasonable fee for providing access to personal information, but we do not charge for lodging a request for access. 
 
 11\. Our Right to Change this Privacy Statement
 
