@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarosoftware.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525045433id_/http%3A//www.clarosoftware.com/info/privacy-policy/7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarosoftware.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223173806id_/http%3A//www.clarosoftware.com/info/privacy-policy/7) for the most accurate reproduction.*
 
 # Privacy Policy | Claro Software: ClaroRead | Lightning | ClaroIdeas | Scan2Text
 
