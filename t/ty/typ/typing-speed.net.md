@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typing-speed.net privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531135150id_/http%3A//www.screenenetwork.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typing-speed.net privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223203635id_/http%3A//www.screenenetwork.com/privacypolicy.php) for the most accurate reproduction.*
 
 # ScreeneNetwork.com - Privacy Policy
 
@@ -19,6 +19,6 @@ From time to time, we may use customer information, if collected, for new, unant
 
 Facebook connect is used by us on some of our websites to connect our surfers to Facebook.com. The operation of this service is obviously dependent on Facebook. Please note that whatever you share on Facebook is done explicitly by you on your own will. Only you yourself can control what you share on your Facebook. You need to see your privacy settings in your Facebook account. 
 
-We can be reached on e-mail. For any queries, [contact us](https://web.archive.org/web/20120531135150id_/http%3A//www.screenenetwork.com/contact.php). 
+We can be reached on e-mail. For any queries, [contact us](https://web.archive.org/web/20121223203635id_/http%3A//www.screenenetwork.com/contact.php). 
 
 | 
