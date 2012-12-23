@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the premiercarebathing.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623171156id_/http%3A//premiercarebathing.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiercarebathing.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223061422id_/http%3A//premiercarebathing.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for Premier Care in Bathing | Premier Care
+# Privacy Policy for Premier Care in Bathing
 
 This privacy policy describes Premier Care in Bathing’s current policies and practices with regard to personal data collected by Premier Care through this web site. This privacy policy does not apply to information collected offline or in any other way. The term “personal data” refers to personally identifiable information about you, such as your name, e-mail address or mailing address, and any other information that identifies you personally.
 
