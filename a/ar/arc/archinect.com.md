@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archinect.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606174650id_/http%3A//archinect.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archinect.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223212341id_/http%3A//archinect.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Archinect
 
