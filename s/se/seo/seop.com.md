@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seop.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625061119id_/http%3A//www.seop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seop.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223064939id_/http%3A//www.seop.com/privacy-policy) for the most accurate reproduction.*
 
 # SEOP Privacy Policy | SEOP
 
