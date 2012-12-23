@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the aww.com.au privacy policy that was archived on 2012-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120320034321id_/http%3A//advertising.ninemsn.com.au/article.aspx%3Fid%3D8363165) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aww.com.au privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223091649id_/http%3A//advertising.ninemsn.com.au/article.aspx%3Fid%3D8363165) for the most accurate reproduction.*
 
 # Privacy Policy
 
-NINEMSN PRIVACY POLICY 
+Last Updated: 2 April 2012 
 
-**This Privacy Policy**
+**Privacy Policy**
 
 At NINEMSN, we are committed to protecting and maintaining your privacy. As part of our normal operations we may collect your personal information. This Privacy Policy describes the type of personal information that NINEMSN may collect and how we use, store and disclose this personal information. It applies to your conduct on the NINEMSN network, which includes the online websites and mobile sites bearing the NINEMSN header and footer, as well as downloadable apps (the " **NINEMSN Network** ").
 
 This Privacy Policy is in addition to the general Terms of Use governing the NINEMSN Network and should be read in conjunction with such [Terms of Use.](http://advertising.ninemsn.com.au/article.aspx?id=8363139)
 
-Microsoft Products and Services
+**Microsoft Products and Services**
 
-The NINEMSN Network provides access to leading global Microsoft products and services such as Hotmail, Messenger, Bing and Windows Live ID (“ **Microsoft Products** ”). The use, storage and disclosure of any personal information that you may provide whilst utilising Microsoft Products via the NINEMSN Network are described in the **Microsoft Products** section of this Privacy Policy.
+The NINEMSN Network provides access to leading global Microsoft products and services such as Hotmail, Messenger, Bing and Windows Live ID (“ **Microsoft Products** ”). The use, storage and disclosure of any personal information that you may provide whilst utilising Microsoft Products via the NINEMSN Network are described in the **Collection and Use of Information by Microsoft** section of this Privacy Policy.
 
 **NINEMSN AND PRIVACY**
 
-**NINEMSN’s commitment to privacy**
+**NINEMSN’s Commitment to Privacy**
 
 When you deal with NINEMSN, whether online or otherwise, NINEMSN takes its privacy obligations seriously. Generally, NINEMSN will handle personal information collected online consistently with the way that it handles personal information collected offline.
 
@@ -42,13 +42,21 @@ In order to access some NINEMSN or Microsoft services and products, you will be 
 
 **Collection of information which is not ‘Personal Information’**
 
-We also collect additional information about your interaction with the NINEMSN Network websites, services and products and Microsoft Products without identifying you as an individual. For example, we use website analytics tools on our websites to retrieve information from your browser, including the website you came from, the search engine(s) and the keywords you used to find our site, the pages you view within our site, your browser add-ons, and your browser's width and height. We also use technologies, such as cookies and web beacons (described below), to collect information about the pages you view, the links you click and other actions you take on our sites and services. Additionally, we receive certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses. We also deliver advertisements (see the Display of Advertising section below) and provide website analytics tools on non-NINEMSN and Microsoft websites and services, and we collect information such as page views on these third party sites as well.
+We also collect additional information about your interaction with the NINEMSN Network websites, services and products and Microsoft Products without identifying you as an individual. For example, we use website analytics tools on our websites to retrieve information from your browser, including the website you came from, the search engine(s) and the keywords you used to find our site, the pages you view within our site, your browser add-ons, and your browser's width and height. We also use technologies, such as cookies and web beacons (described below), to collect information about the pages you view, the links you click and other actions you take on our sites and services. Additionally, we receive certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses. We also deliver advertisements (see the **Display of Advertising** section below) and provide website analytics tools on non-NINEMSN and Microsoft websites and services, and we collect information such as page views on these third party sites as well.
 
 When you receive newsletters or promotional e-mails from NINEMSN, we may use web beacons (described below), customised links or similar technologies to determine whether the e-mail has been opened and which links you click in order to provide you with more focused e-mail communications or other information.
 
-**Third party information**
+**Information we collect from other sources**
 
-In order to offer you a more consistent and personalised experience in your interactions with NINEMSN, information collected through one NINEMSN or Microsoft service may be combined with information obtained through other NINEMSN or Microsoft services. We may also supplement the information we collect with information obtained from other companies. For example, we may use services from other companies that enable us to derive a general geographic area based on your IP address in order to customise certain services to your geographic area.
+In order to offer you a more consistent and personalised experience in your interactions with NINEMSN, information collected through one NINEMSN or Microsoft service may be combined with information obtained through other NINEMSN or Microsoft services. We may access information about you from third-party sources and platforms (such as social networking sites, databases, online marketing companies and ad targeting companies) and supplement the information we collect with information obtained from those third party sources. For example, 
+
+  * we may use services from other companies that enable us to derive a general geographic area based on your IP address in order to customise certain services to your geographic area.
+  * if you connect your third-party social networking service profile (such as Facebook, LinkedIn, Twitter or Windows Live) to the NINEMSN Network, we may access and use your username, profile image, location information, interests, activities, ‘likes’, connection list and age for those services; and
+  * we may obtain third party information relating to your advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular advertisement
+
+
+
+To customise your user experience on the NINEMSN Network we provide you with the opportunity to connect, access and/or interact with third-party social networking services, such as Facebook and Twitter. When you connect to the NINEMSN Network through these social networking services, you will be able to see the social sharing habits of your friends and connections and participate seamlessly in our social capabilities, including commenting, live blogging, reactions, ratings, gaming mechanics and sharing content. You can connect the NINEMSN Network to your third party social networking service by downloading an application and logging into the application each time you return to the NINEMSN Network. By connecting to the NINEMSN Network through these third-party social networking services, you are authorising NINEMSN to access and use certain information from your social network profile. You can opt-out of authorising ninemsn from collecting or access your information when you are not using to the application and/or posting status updates, photographs and links to your social networking service profile on your behalf. Of course, you can cancel this service at any time by deleting the application from your social network account. 
 
 **HOW NINEMSN USES PERSONAL INFORMATION**
 
@@ -64,7 +72,7 @@ NINEMSN’s use of the personal information we collect, and your consent to us u
   * sending marketing and promotional material that we believe you may be interested in. This material may relate to any of NINEMSN’s businesses or a third party business which we believe may be of interest to you; 
   * conducting competitions or promotions on behalf of NINEMSN and selected third parties; 
   * verifying your identity; 
-  * investigating any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our [Terms of Use](http://advertising.ninemsn.com.au/article.aspx?id=8363139) or that you are or have been otherwise engaged in any unlawful activity; and/or 
+  * investigating any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our Terms of Use or that you are or have been otherwise engaged in any unlawful activity; and/or 
   * using personal information as otherwise required or permitted by any law (including the Privacy Act).
 
 
@@ -137,7 +145,7 @@ NINEMSN utilises the Nielsen//Netratings Australia auditing system on the NINEMS
 
 **Advertising on the NINEMSN Network**
 
-Many of the websites and online services we offer, as well as those of our partners, are supported by advertising. Through the Microsoft Advertising Platform, we may display advertisements on the NINEMSN Network (including the websites and mobile sites bearing the ninemsn header and footer), and the sites of our advertising partners including our third party ad network.
+Many of the websites and online services we offer, as well as those of our partners, are supported by advertising. Through the Microsoft Advertising Platform, we may display advertisements on the NINEMSN Network (including the websites and mobile sites bearing the ninemsn header and footer), and the sites of our advertising partners including the Microsoft Media Network third party ad network.
 
 **How we personalise our advertising**
 
@@ -145,7 +153,7 @@ When we display online advertisements to you, we will place one or more persiste
 
 While we may use some of the information we collect in order to personalise the advertisements we show you, the Microsoft systems we use are designed to select advertisements based only on data that does not personally and directly identify you. For example, we may select the advertisements we display according to certain general interest categories or segments that we have inferred based on: 
 
-  * demographic or interest data, including any you may have provided when creating a Windows Live ID account (e.g. age, zip or postal code, gender), demographic or interest data acquired from other companies, and a general geographic location derived from your IP address; 
+  * demographic or interest data, including any you may have provided when creating a Windows Live ID account (e.g. age, postal code, gender), demographic or interest data acquired from other companies, and a general geographic location derived from your IP address; 
   * the pages you view and links you click when using the NINEMSN Network and its advertising partners’ websites and services; 
   * the search terms you enter when using Microsoft Internet search services, such as Bing; and 
   * information about the users you most frequently interact with through Microsoft’s communications or social networking services, such as Messenger.
@@ -168,7 +176,7 @@ Except as described in this Privacy Policy, NINEMSN will not disclose your perso
 
 NINEMSN may disclose personal information it collects about you for a variety of purposes in connection with NINEMSN providing its products, services and special offers to you (including to our agents, related bodies corporate and contractors).
 
-We occasionally engage other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, hosting websites, providing debt recovery services, processing transactions or performing statistical analysis of our services. Those service providers will be permitted to obtain only the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose than for delivering the service to NINEMSN in accordance with NINEMSN’s instructions and policies.
+We occasionally engage other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, hosting websites, providing debt recovery services, processing transactions, facilitating the connection of your third-party social networking service profile with the NINEMSN Network or performing statistical analysis of our services. Those service providers will be permitted to obtain only the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose than for delivering the service to NINEMSN in accordance with NINEMSN’s instructions and policies.
 
 We may access or disclose information about you, including the content of your communications, in order to: (a) comply with the law or respond to lawful requests or legal process; (b) protect the rights or property of NINEMSN or our customers, including the enforcement of our agreements or policies governing your use of the products or services; or (c) act on a good faith belief that such access or disclosure is necessary to protect the personal safety of NIENMSN employees, customers or the public.
 
@@ -204,6 +212,6 @@ For more information about privacy issues in Australia, visit the Australian Fed
 
 **HOW TO CONTACT THE NINEMSN PRIVACY OFFICER**
 
-If you have any questions regarding this Privacy Policy, complaints regarding how we handle your personal information or would like to make an access request, please contact NINEMSN by writing to Privacy Officer, ninemsn Pty Limited (an Mi9 company), Locked Bag H50, Australia Square Sydney NSW 1215 or via e-mail **privacyofficer@ninemsn.com.au**.
+If you have any questions regarding this Privacy Policy, complaints regarding how we handle your personal information or would like to make an access request, please contact NINEMSN by writing to Privacy Officer, ninemsn Pty Limited, Locked Bag H50, Australia Square Sydney NSW 1215 or via e-mail **privacyofficer@mi9.com.au**.
 
-AUGUST 2011
+ninemsn Pty Limited is an Mi9 company.
