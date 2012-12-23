@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the newlook.co.uk privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615005623id_/http%3A//www.newlook.com/furniture/privacy_security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newlook.co.uk privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223122653id_/http%3A//www.newlook.com/furniture/privacy_security.jsp) for the most accurate reproduction.*
 
 # Security and Privacy | New Look
-
-Here at New Look we have recently completed a review of all the cookies on our website. We will soon be making some small changes to provide our customers with a bit more information about them. In the meantime if you have any questions you can always contact us <http://www.newlook.com/furniture/contact_us.jsp>
 
 * ### What's our privacy policy?
 
@@ -47,14 +45,97 @@ Our site uses up-to-date industry procedures to protect your personal informatio
 We may vary this in the future if we feel you will benefit from greater security whilst using our site.  
 We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you via our site.
 
-* ### What are cookies?
+* ### Cookie Policy
 
-A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information from the browser. Data collected using cookies is statistical in nature and indicates a user's browsing actions and patterns. It does not identify any individual. We use cookies to keep track of your current shopping session, to personalise your experience and to store items in your shopping bag. Most browsers allow you to turn off cookies. If you want to know how to do this, have a look at the help menu on your browser. However, if you choose not to accept cookies, your user experience on our site may be affected. We use cookies to:  
-• Estimate our audience size and usage pattern   
-• Store information about your preferences so we can customise our site according to your individual interests  
-• Speed up your searches  
-• Recognise you when you return to our site  
+This New Look website uses cookies to collect information. If you turn off cookies, there may be some features of our site that will not be available to you and some web pages may not display properly.
 
+* ### What is a cookies?
+
+Cookies are small files of letters and numbers that are downloaded onto your computer or mobile phone or other handheld device when you access certain websites. Cookies allow a website to recognise a user’s device and help your browser navigate through the website by allowing you to log in automatically or remembering settings you selected during earlier visits (among other functions). Cookies do not harm your computer/device. If you would like to learn more about cookies in general and how to manage them you can visit www.allaboutcookies.org.
+
+* ### Use of cookies on this website
+
+Cookies help us to provide you with a good experience when you browse this website and allow you to make full use of the online shopping and personalised features available on this website. We do not use cookies to collect or record information such as your name, address or payment details.  
+We use cookies on this website for the following main purposes:  
+• for technical purposes essential for the operation of this website, such as keeping track of your current shopping session and enabling you to proceed to checkout and pay for products;  
+• to distinguish you from other users of this website, so we can personalise your shopping experience by making this website and the advertising displayed on it more relevant to your interests and so we can remember choices you make when you return to visit this website;  
+• to collect statistical information about how visitors use this website, so we can improve the way this website works and measure the success of competitions and campaigns; and   
+• to enable us to fulfil our contractual obligations to third parties, for example to pay a partner if you have made a purchase on this website by following a link from their website.   
+
+
+Most web browsers automatically accept cookies. Unless you have adjusted your browser settings so that it will refuse cookies, cookies will be set when you access this website. By using and browsing this website, you consent to cookies being used in accordance with this Cookie Policy. If you do not consent, you must either disable cookies or refrain from using this website. Please go to the ‘How To Manage Cookies’ section for information on how to manage and disable cookies. You can also find information on popular browsers and how to adjust your cookie preferences at the following websites:  
+• Microsoft Internet Explorer: http://www.microsoft.com/info/cookies.htm  
+• Netscape Navigator: http://www.netscape.com/legal_notices/cookies.html  
+
+
+* ### Flash Cookies
+
+We may display video content on www.newlook.com using Adobe Flash Player. Adobe uses flash cookies to improve your experience as a user. If you wish to disable or delete a Flash cookie, please visit Adobe Flashplayer Security Settings. Please bear in mind that if you disable Flash cookies you will be unable to access certain content on our website with uses Adobe Flash Player, such as videos.
+
+* ### Third Party Cookies
+
+Some cookies may be set by third parties when you visit this website. These third parties may be suppliers who partner with us to delivery our website, companies that participate with us in affliate marketing programmes and other third parties. These cookies are controlled by the third parties, so please check the third-party website for more information about these cookies and how to manage them. These third party cookies do not collect personal data from which the third party would be able to identify individual customers.
+
+* ### Social Buttons
+
+If you 'share' newlook.com content with friends through social networks (such as Facebook, Google and Twitter) you may be sent cookies from these third party websites. We do not control the setting of these cookies, so we advise you to check third-party websites for more information about their cookies and how to manage them.
+
+* ### How to manage cookies
+
+You can enable or disable cookies by changing your website browser settings to accept or reject cookies as required. How to do this will depend on the browser you use. We have provided further information below on how to check which browser you use and how to manage cookies. Please bear in mind that if cookies are not enabled on your computer, your activities will be restricted to browsing this website and you will not be able to add products to your shopping bag and buy them.
+
+* ### Checking which browser you use
+
+If you are using a PC - go to 'Help' and select the 'About'option.   
+If you are using a MAC - click on the Apple menu within the browser and select the 'About' option.
+
+Once you know which browser you are using, follow the instructions below to check you have cookies enabled on your computer:
+
+**Checking Cookies - PC**
+
+Microsoft Internet Explorer 6,7,8
+
+• Go to 'Tools' at the top of your browser window. Select 'Internet Options'. Click on the 'Privacy tab'.  
+•Ensure that your Privacy level is set to Medium or below to enable cookies.
+
+Mozilla Firefox
+
+• Go to 'Tools' and select Options.  
+• Click the Privacy icon.  
+• Click on Cookies and choose 'allow sites to set cookies'.
+
+Google Chrome
+
+• Go to 'Tools' and select Options.  
+• Click 'Under the Hood' and select the 'Content settings' button within the 'Privacy' section.  
+• Choose 'Allow local data to be set'.
+
+**Checking Cookies - MAC**
+
+Safari on OSX
+
+• Click 'Safari' and select 'Preferences'.  
+• Click 'Security' and then 'Accept cookies'.
+
+Mozilla and Netscape on OSX
+
+• Click on 'Mozilla' or 'Netscape' and select 'Preferences'.  
+• Find 'Cookies' under 'Privacy and Security'.  
+• Select 'Enable cookies for the originating web site only'.
+
+Microsoft Internet Explorer on OSX
+
+• Click 'Explorer' and select 'Preferences'.  
+• Find 'Cookies' under 'Receiving Files.  
+• Select 'Never Ask'.
+
+Opera
+
+• Click 'Menu' and select 'Settings'.  
+• Select 'Preferences' and then 'Advanced'.  
+• Select 'Accept cookies'.
+
+If you are nothappy with the way that we use cookies then you should delete New Look cookies having visited the site, or you should browse the site using your browsers anonymous usage setting (called "Incognito" in Chrome, "InPrivate" for Internet Explorer, "Private Browsing" in Firefox and Safari etc.)
 
 * ### Disclosure of your information
 
