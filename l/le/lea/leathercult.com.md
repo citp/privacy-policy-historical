@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leathercult.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515055656id_/http%3A//www.leathercult.com/index.php%3Fmain_page%3Dpage%26id%3D17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leathercult.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223085316id_/http%3A//www.leathercult.com/index.php%3Fmain_page%3Dpage%26id%3D17) for the most accurate reproduction.*
 
 # Privacy Policy : LeatherCult.com, Leather Jeans | Jackets | Suits
 
