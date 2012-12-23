@@ -1,66 +1,55 @@
-> *The following text is extracted and transformed from the webmetrics.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615091239id_/http%3A//www.neustar.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmetrics.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223144834id_/http%3A//www.neustar.biz/privacy) for the most accurate reproduction.*
 
-# Privacy - Neustar: Clearinghouse and Directory Services For The Global Communications And Internet Industry
+# 
 
-_Last Updated: January 4, 2010_
+**Highlights of the Neustar Privacy Policy**
 
-Neustar gathers certain types of personal information about the users who visit the Neustar Web site located at http://www.neustar.biz ("Site”). The following describes how the personal information Neustar collects on its Site will be treated.
+Updated: November 15, 2012
 
-**1\. Personal Information Neustar Collects**
+Neustar uses Personal Information to support data-driven decision making and deliver personalized content  _without_  sacrificing personal privacy.  These “Highlights” summarize Neustar’s privacy practices.  You can learn more by clicking on the links below, and by reviewing the [Neustar Privacy Policy](https://web.archive.org/privacy/privacy_policy) and [Privacy Principles](https://web.archive.org/privacy/privacy_principles). 
 
-Depending upon how you use and interact with the Neustar Site, information collected about you may include registration related information such as your name, address, and e-mail address, telephone number(s); information about the pages you visit and the searches you perform; transaction data related to services you may use or order on the Site. Such information may be supplemented with information from other companies.
+**Our Commitment – Privacy by Design**
 
-Your information may also include certain technical information gathered or received when you use the Site such as your Internet protocol address, the type of browser that you use and the pages and services that you visit most frequently.
+We follow the [Neustar Privacy Principles](https://web.archive.org/privacy/privacy_principles), including the principle of Privacy by Design _,_  to design, build, and deliver products and services that respect your privacy. 
 
-**2\. Cookies and Web Beacons**
+**Personal Information Collection, Use, and Disclosure**
 
-A cookie is a text file that is placed in your computer’s browser that can be used to recognize you as a Site user. Web beacons are small pieces of code placed on web pages that can be used for such purposes as counting visitors and delivering cookies or to otherwise customize the user experience on the Site. Neustar may use cookies, web beacons or similar technologies along with the other information collected to enhance and personalize your experience on the Site as well as to track, manage and enable preferences, transactions and related uses of Neustar services and information.
+We collect Personal Information from you directly and from businesses that use our products and services.  We use registration data, including Personal Information, supplied by our online [Match Partners](https://web.archive.org/privacy/privacy_policy#match-partners) to set AdAdvisor Cookies, which do not contain or convey Personal Information.  Finally, we collect and use Personal Information and other demographic data from a variety of sources such as telephone directories, the US Postal Service, the Census Bureau, and from other third parties.  We do not use Sensitive Personal Information without your permission.  
 
-If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. Though some of the services require the use of cookies, visitors to the Site always have the option of disabling cookies via their browser preferences. You can refuse cookies by turning them off in your browser. However, some of the services will not work if you have cookies disabled.
+Click on the links below to learn more about the Personal Information we collect and how we use it:
 
-**3\. What Neustar does with the information it collects.**
-
-Information Neustar collects on this Site will enable you to purchase and use Neustar services and to personalize the content and services provided to you, as well as enable Neustar to contact you regarding the products and services provided, provide customer service, network management, surveys, offers of related services, and other exchanges of information as well as provide us with aggregate demographic data that Neustar uses to improve the services offered to users.
-
-**4\. How information is shared with others.**
-
-The information you supply to Neustar will not be given, sold, rented, loaned, or otherwise disclosed to any third parties outside of Neustar, except when:
-
-  * we have your express permission;
-  * to (i) comply with US or foreign laws or to respond to lawful requests and legal process in US or foreign civil, criminal or investigative matters, (ii) enforce agreements, our terms and conditions, and policies, and protect our rights and property as the site owner, and (iii) in an emergency to protect the personal safety of Neustar, its customers, or any person;
-  * in an aggregated form that does not directly identify you;
-  * with third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us; and
-  * in connection with any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company.
+  * [Information You Provide on our Web Site](https://web.archive.org/privacy/privacy_policy#info-you-provide)  
+ 
+  * [Market Segmentation Data](https://web.archive.org/privacy/privacy_policy#market-segmentation-data)  
+ 
+  * [Online Advertising](https://web.archive.org/privacy/privacy_policy#online-advertising)  
+ 
+  * [Other Name and Contact Data](https://web.archive.org/privacy/privacy_policy#other-use)  
+ 
 
 
 
-**5\. User Options — Opt-Out**
+**Cookies**
 
-From time to time, Neustar may notify you of new products, announcements, upgrades and updates. Users may opt-out of receiving these future promotional mailings and request information about contact preferences and changes to personal information by sending an email with their name to: webmaster@neustar.biz or by contacting us at our mailing address:
+We may use Cookies, Web Beacons, Pixel Tags and similar technologies to enhance and personalize your experience on our web sites and to track, manage, and enable visitor transactions and preferences.  In addition, we work with a variety of  _[Match Partners](https://web.archive.org/privacy/privacy_policy#match-partners)_  to set [ _AdAdvisor Cookies_](https://web.archive.org/privacy/privacy_policy#cookies).   Businesses use these cookies, which do not contain or convey [Personal Information](https://web.archive.org/web/20121223144834id_/http%3A//www.neustar.biz/privacy/privacy_principles#personal-info), to tailor online advertising based on our predictions about the preferences and interests of large groups of similar consumers, and to measure the effectiveness of ad campaigns.
 
-**Neustar, Inc.**
+**Transparency and Choice**
 
-21575 Ridgetop Circle
+You can check the [AdAdvisor Profile Manager](http://www.adadvisor.net/profileUpdate.html) to see if we have set an [AdAdvisor Cookie](https://web.archive.org/privacy/privacy_policy#cookies) through your browser. If so, the Profile Manager also displays the de-identified information contained in that cookie. You may opt out of the use of AdAdvisor Cookies for online behavioral advertising using the [AdAdvisor Opt-Out](http://www.adadvisor.net/optout.html). You can also learn more about online advertising in general on the [Network Advertising Initiative](http://www.networkadvertising.org/code-enforcement) web site, which also permits you to opt-out of receiving tailored online advertising from some or all of its members.
 
-Sterling, VA. 20166
+**Accountability**
 
-Attn: Legal
+Neustar is a member of the Network Advertising Initiative (NAI) and complies with the NAI Code of Conduct, the Digital Advertising Alliance (DAA) [Self-Regulatory Principles for Online Behavioral Advertising](http://www.aboutads.info/obaprinciples) **  and we comply with the DAA’s **[Self-Regulatory Principles for Multi-Site Data](http://www.aboutads.info/msdprinciples).
 
-Neustar reserves the right to send users email non-promotional communications such as those related to business practices and systems operations, such as outage notifications and quota warnings, even if the user has opted out of promotional mailings.
+**The Fine Print**
 
-**6\. Contact Neustar, Inc .**
+[Click here](https://web.archive.org/privacy/privacy_policy) to read our full Privacy Policy and to learn more about our approach to children’s privacy, data security, disclosures required by law or for other purposes, and your privacy rights under California law.
 
-If you have any questions about this privacy statement or this Site, please contact:
+Our privacy practices and policies may be updated from time to time.  We will post a notice regarding material changes on our web site.
 
-**Legal Department**
+**Questions? Comments?**
 
-**Neustar, Inc.**
-
-21575 Ridgetop Circle
-
-Sterling, VA 20166
-
-(571) 434-5729
+Send us an email at:[privacy@neustar.biz](mailto:privacy@neustar.biz)
 
   
 
