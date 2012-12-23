@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutbritain.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617135805id_/http%3A//www.aboutbritain.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutbritain.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223124902id_/http%3A//www.aboutbritain.com/Privacy.htm) for the most accurate reproduction.*
 
 # AboutBritain.com - Privacy
 
@@ -29,5 +29,5 @@ AboutBritain.com contains many links to external sites operated by third parties
 
 If you have any questions regarding our privacy policy, please [contact AboutBritain.com](https://web.archive.org/Contacts.asp)
 
- Copyright © 1999-2010 Excelsior Information Systems Limited. All rights reserved.  
-[Press Room](http://www.aboutbritain.com/PressRoom.asp)  Terms of Use  Privacy  Link to Us  [Index](http://www.aboutbritain.com/index/index-a.asp)  [Site Map](http://www.aboutbritain.com/sitemap.asp)
+ [Copyright](http://www.aboutbritain.com/TermsAndCopyright.htm) © 1999-2012 Excelsior Information Systems Ltd. All rights reserved.  
+[About Us](http://www.aboutbritain.com/AboutUs.asp)  [Press Room](http://www.aboutbritain.com/PressRoom.asp)  [Terms of Use](http://www.aboutbritain.com/TermsAndCopyright.htm)  [Privacy](http://www.aboutbritain.com/Privacy.htm)  [Link to Us](http://www.aboutbritain.com/LinkToUs.asp)  [Index](http://www.aboutbritain.com/index/index-a.asp)  [Site Map](http://www.aboutbritain.com/sitemap.asp)  [Contact Us](http://www.aboutbritain.com/Contacts.asp)
