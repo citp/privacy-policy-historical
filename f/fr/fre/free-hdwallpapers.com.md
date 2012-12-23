@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-hdwallpapers.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614152335id_/http%3A//www.free-hdwallpapers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-hdwallpapers.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223112015id_/http%3A//free-hdwallpapers.com/privacy.php) for the most accurate reproduction.*
 
 # Free-Hd Wallpapers | Contact
 
@@ -26,6 +26,3 @@ The operators of this web site do not participate in the practice of spamming. S
 **Contacting Free HD Wallpapers**  
 If you have any questions or concerns about this privacy statement or the practices of this web site, you can contact: allfreehdwallpapers[at]gmail[dot]com.   
 We reserve the right to change this policy at any time by notifying visitors of the existence of the new privacy policy. 
-
-Please Note:  
-All desktop wallpapers found on this site are believed to be in the "public domain". The origin of some of the wallpapers is unclear. By displaying wallpapers on this site there is no intention to infringe any legitimate intellectual right, artistic rights or copyright. If you are the rightful owner of any photo or images posted here, and believe that it should not be displayed or that suitable credit is required, then please email the webmaster and arrangements will be made for the image to be removed or alternatively credit provided where it is due. This site and its content are free of download and therefore the site's owner does not gain any direct financial benefit from the display and/or download of any of images displayed.
