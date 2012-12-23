@@ -1,25 +1,19 @@
-> *The following text is extracted and transformed from the vinathemes.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617191806id_/http%3A//www.vinathemes.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinathemes.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224002732id_/http%3A//www.vinathemes.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Vina Themes: Privacy Policy - Free Premium Blogger and Wordpress Themes
-
-### Privacy Policy  
-
-
-  
-
+# Vinathemes - Free Premium Blogger Templates - Free Premium Wordpress Themes: Privacy Policy - Free Premium Blogger Themes - Free Premium Wordpress Themes
 
 If you require any more information or have any questions about our privacy policy, please contact us by email at webmaster[at]vinathemes.com.  
 At vinathemes.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by vinathemes.com and how it is used.
 
-**Log Files**
+ **Log Files**
 
 Like many other websites, vinathemes.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons**
+ **Cookies and Web Beacons**
 
 vinathemes.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-**DoubleClick DART Cookie**
+ **DoubleClick DART Cookie**
 
 \- Google, as a third party vendor, uses cookies to serve ads on your site.  
 \- Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
