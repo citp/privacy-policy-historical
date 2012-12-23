@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourdegree.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513103133id_/http%3A//www.yourdegree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdegree.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223112224id_/http%3A//www.yourdegree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -103,5 +103,3 @@ If any term of these policies is determined to be unlawful, invalid, void or for
 ## CONTACTING US:
 
 If you have questions regarding our Privacy Policy please contact us at: [Privacy@yourdegree.com](mailto:Privacy@yourdegree.com "Privacy@yourdegree.com"). If you have questions regarding use or access to our services please review our User Terms and Conditions at: [ http://www.yourdegree.com/terms-of-use](https://web.archive.org/terms-of-use). If you have General Questions please contact us at: [ CustomerService@yourdegree.com](mailto:CustomerService@yourdegree.com "CustomerService@yourdegree.com").
-
-Copyright © YourDegree.com 2011. All Rights Reserved.
