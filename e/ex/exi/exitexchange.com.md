@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the exitexchange.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105005323id_/http%3A//www.exitexchange.com/company/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exitexchange.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224003002id_/http%3A//www.exitexchange.com/company/terms/privacy.php) for the most accurate reproduction.*
 
-# ExitExchange : Privacy Policy
+# Exit Exchange: Free, Targeted, Pop-Under Advertising
 
-[Terms of Use](https://web.archive.org/web/20111105005323id_/http%3A//www.exitexchange.com/company/terms/terms.html) | Privacy | [Copyright](https://web.archive.org/web/20111105005323id_/http%3A//www.exitexchange.com/company/terms/copyright.html) | [Affiliate Agreement](https://web.archive.org/web/20111105005323id_/http%3A//www.exitexchange.com/company/terms/terms_affiliate.html) | [Quality Acceptance](https://web.archive.org/web/20111105005323id_/http%3A//www.exitexchange.com/company/terms/acceptance.html)
+[Terms of Use](https://web.archive.org/web/20121224003002id_/http%3A//www.exitexchange.com/company/terms/terms.php) | Privacy | [Copyright](https://web.archive.org/web/20121224003002id_/http%3A//www.exitexchange.com/company/terms/copyright.php) | [Affiliate Agreement](https://web.archive.org/web/20121224003002id_/http%3A//www.exitexchange.com/company/terms/terms_affiliate.php) | [Quality Acceptance](https://web.archive.org/web/20121224003002id_/http%3A//www.exitexchange.com/company/terms/acceptance.php)
 
 Web pages rely on advertising to provide you with content that is free of charge or at a nominal cost. Advertising also plays an important role in helping consumers make informed decisions about products and services. 
 
@@ -10,10 +10,10 @@ ExitExchange® is a leading provider of centralized ad management services. We d
 
 At no time during the ad delivery process does ExitExchange® collect any personally identifiable information about you, such as your name, street or email address, or phone number.
 
-In the course of serving ads, ExitExchange® collects certain non-personally identifiable data by placing a ‘cookie’ (a small file containing a unique, randomly selected alphanumeric tag) on a consumer’s computer hard drive. The non-personally identifiable information collected in connection with a cookie includes: 
+In the course of serving ads, ExitExchange® collects certain non-personally identifiable data by placing a 'cookie' (a small file containing a unique, randomly selected alphanumeric tag) on a consumer's computer hard drive. The non-personally identifiable information collected in connection with a cookie includes: 
 
   * IP Address of the machine (browser/proxy) connecting to ExitExchange® 
-  * browser type (i.e., IE 3.x, etc.) 
+  * browser type (e.g., IE 9, etc.) 
   * operating system (i.e., Macintosh, PC, etc.)
   * date a particular ad was served 
   * time a particular ad was served 
