@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indochino.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614221437id_/http%3A//www.indochino.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indochino.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223041530id_/http%3A//www.indochino.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Indochino
 
@@ -28,11 +28,11 @@ Indochino is the pioneer and global leader in online customs suits, and the only
 
 The information we learn from customers helps us personalize and continually improve your shopping experience at Indochino.com. Any personal information you provide to us is maintained on secure servers and our internal systems. It is always your choice whether or not to provide personal information. Any information you provide will be treated with care, and subject to this Policy will not be used or disclosed in ways to which you have not consented. 
 
-## Information You Provide
+### Information You Provide
 
 During your use of Indochino.com, such as registering for My Account and signing into your account, you may be asked to voluntarily provide personal information (such as your name, e-mail address, postal address, telephone number, credit card information, measurement details, etc.) for the purpose of facilitating communications with you or facilitating your use of Indochino.com, including placing an order for custom made apparel, backing up your measurements online, signing up to receive the latest product releases, style advice, fashion tips, using the Refer a Friend feature, purchasing a Gift Certificate and receiving promotion codes. If you choose not to provide certain requested personal information, you will not be able to register as an Indochino customer or use certain features of the Website. 
 
-## E-mail from Indochino:
+### E-mail from Indochino:
 
 To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mails from Indochino.com if your computer supports such capabilities. If you do not wish to receive e-mail or other mail from Indochino, please simply click unsubscribe. 
 
@@ -49,7 +49,7 @@ We use the information that we collect about you to:
 
 
 
-## What About Cookies?
+### What About Cookies?
 
 Indochino.com uses "cookies", a technology that stores a small amount of information on a website user's computer to permit the website to recognize future visits using that computer. Cookies enhance the convenience and use of Indochino.com. For example, the information provided through cookies is used to recognize you as a previous user (so you do not have to enter your personal information every time), offer personalized web page content and information for your use and otherwise facilitate your website experience. Cookie data may be used for purposes including delivering to you banner advertisements and other advertising tailored to your interests when you visit certain websites and selecting offers and products to display to you when you visit our website. You may also wish to decline cookies generally if your browser permits, but doing so may affect your use of the website.
 
@@ -57,19 +57,19 @@ Indochino.com uses "cookies", a technology that stores a small amount of informa
 
 We take your privacy very seriously and do not sell or rent your personal information to other marketers. We share customer information only as described below and with subsidiaries of Indochino.com. Indochino Apparel Inc. ensures that all subsidiaries are either subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy. 
 
-## Disclosure to Authorizing Persons
+### Disclosure to Authorizing Persons
 
 If you use the website on behalf of another person or organization (such as your employer), Indochino may provide your personal information to that authorizing person/organization. Indochino has no control over the use of your personal information by the authorizing person/organization, and that use is not subject to this Policy. If you do not wish your personal information to be disclosed to the person/organization on whose behalf you use the website, you may not use the Website.
 
-## Disclosure to Affiliates, Suppliers and Service Providers
+### Disclosure to Affiliates, Suppliers and Service Providers
 
 Indochino may provide your personal information to its affiliated businesses, such as Indochino (Shanghai) Apparel Inc. or other suppliers and service providers for use in connection with the operation of the website. For example, Indochino discloses certain personal information to the team of tailors from whom your suit is made, your credit card provider and the shipping company in order to facilitate the purchase of suits through our website. Indochino may also disclose certain personal information to service providers that analyze website use. Indochino requires its affiliated businesses, suppliers and service providers to agree to use your personal information only for the purposes for which it is provided to them, and to protect the privacy of your personal information in a manner that is consistent with this Policy. if you do not wish your personal information to be disclosed to Indochino's affiliated businesses, suppliers and service providers, you may not register at Indochino.com or buy suits through our Website. Without that information, our production and systems are impossible. 
 
-## Disclosure in Business Transfers
+### Disclosure in Business Transfers
 
 Indochino may be involved in the sale or transfer of some or all of its business. As part of that sale or transfer, Indochino may disclose your personal information to the acquiring organization, but will require the acquiring organization to agree to protect the privacy of your personal information in a manner that is consistent with this Policy. Indochino has no liability for the acquiring organization's use and disclosure of your personal information. If at any time you do not wish Indochino to disclose your personal information as part of the sale or transfer of some or all of its business, please send your request by e-mail to [info@indochino.com](mailto:info@indochino.com). 
 
-## Law Enforcement and Legal Disclosure
+### Law Enforcement and Legal Disclosure
 
 Indochino may disclose your personal information to a government institution that has asserted its lawful authority to obtain the information or where Indochino has reasonable grounds to believe the information could be useful in the investigation of unlawful activity, or to comply with a subpoena or warrant or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with court rules regarding the production of records and information, or to its legal counsel. Indochino has no control over, or liability for, those persons' use and disclosure of your personal information, and that use and disclosure is not subject to this Policy. With Your Consent: Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
 
