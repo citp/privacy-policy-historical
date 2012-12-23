@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the briteverify.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624042953id_/http%3A//www.briteverify.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briteverify.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223011825id_/http%3A//www.briteverify.com/privacy) for the most accurate reproduction.*
 
 # 
 
 **BRITEVERIFY PRIVACY POLICY**
 
-Last Updated:March 29. 2012 
+Last Updated:October 2. 2012 
 
 BriteVerify has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information.  This Privacy Policy covers our collection, use and disclosure of information we collect through our website [www.briteverify.com](http://www.briteverify.com/) and our BriteVerify services platform. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged BriteVerify.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at information@briteverify.com.  If you are not satisfied with our response you can contact [TRUSTe here ](http://watchdog.truste.com/pvr.php?page=complaint).
+
+**U.S.-EU Safe Harbor Framework**
+
+BriteVerify, LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. BriteVerify has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view BriteVerify's certification, please visit <http://www.export.gov/safeharbor/>
 
 **Information Collection & Use**
 
