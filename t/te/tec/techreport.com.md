@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techreport.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527131914id_/http%3A//techreport.com/privacypolicy.x) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techreport.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223012455id_/http%3A//techreport.com/privacypolicy.x) for the most accurate reproduction.*
 
 # Privacy policy - The Tech Report
 
@@ -29,6 +29,8 @@ Notwithstanding the above policies, we reserve the right to disclose personal in
   5. During emergencies, such as when we believe someone's physical safety is at risk.
 
 
+
+Furthermore, if you engage in viral marketing activities at TR without clearly identifying your affiliations with the company or companies you represent, you forfeit any privacy protection immediately.
 
 Policy changes  
 The Tech Report may, in the future, modify this privacy policy in order to provide additional clarity or to address additional issues, as needed. Any such changes will be posted here immediately. 
