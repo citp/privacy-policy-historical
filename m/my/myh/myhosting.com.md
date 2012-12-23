@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the myhosting.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621160238id_/http%3A//myhosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhosting.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223064634id_/http%3A//myhosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | myhosting.com
 
-March 2012 - (version 1.6) 
+December 2012 - (version 1.7) 
+
+**Purpose**
 
 This Privacy Policy (the “Policy”) governs all aspects of how myhosting.com (“We”, “Us” and “Our”) collects, uses, maintains and discloses personal information from users (“Users”, “You” and “Your”) of this website (“Site”) and all Services (“Services”) offered by myhosting.com. myhosting.com is a registered trademark and brand owned and operated by SoftCom Inc. – an Ontario Limited Corporation. The privacy of Users is very important to Us and We are committed to protecting the confidentiality of all information entrusted to Us by You. myhosting.com complies with the requirements of the Canadian Personal Information Protection and Electronic Documents Act (“PIPEDA”).
 
@@ -10,9 +12,9 @@ This Privacy Policy (the “Policy”) governs all aspects of how myhosting.com 
 
 The privacy of Users continues to be very important to myhosting.com since being founded in 1997. myhosting.com is committed to protecting the confidentially of all information entrusted to it by Users.
 
-myhosting.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software, mobile applications or behind the login of the website. The TRUSTe program covers only information that is collected through this Web site, www.myhosting.com and does not cover information that may be collected through our any mobile applications. 
+SoftCom Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software, mobile applications or behind the login of the website. The TRUSTe program covers only information that is collected through this Web site, www.myhosting.com and does not cover information that may be collected through our any mobile applications. 
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. _If you have questions or complaints regarding our privacy policy or practices, please contact us at_ [legal@softcom.com](mailto:legal@softcom.com). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. _If you have questions or complaints regarding our privacy policy or practices, please contact us at_ [legal@softcom.com](mailto:legal@softcom.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 All content contained on the myhosting.com website is intended only for people 18 years of age and over and myhosting.com does not knowingly collect or use Personal Information from anyone under the age of 18. 
 
@@ -106,6 +108,8 @@ We will retain your information for as long as your account is active or as need
 myhosting.com provides individuals with access to Personal Information held about them and complies with the individual access principal of Schedule 1, Clause 4.9 of PIPEDA. 
 
 Pursuant to Schedule 1, Clause 4.9.5 of PIPEDA, You may also request that myhosting.com delete Your Personal Information from myhosting.com’s system and records . However, due to technical constraints and the fact that myhosting.com backs up its systems, Personal Information may continue to reside in myhosting.com’s systems after deletion for some time. Individuals, therefore, should not expect that their Personal Information would be completely removed from myhosting.com’s systems in response to an accepted request for deletion. 
+
+If your personal information changes, or if you no longer desire our service, you may correct update, or delete it by making the change on our member information page or by emailing our Customer Support at [support@myhosting.com](mailto:support@myhosting.com) or by contacting us by telephone or postal mail at the contact information listed below.
 
 myhosting.com reserves the right to decline access to Personal Information where disclosure of the information requested is not required, as per Division 1, Clause 9 of PIPEDA.
 
