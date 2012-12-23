@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whocallsmefromthisnumber.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516121632id_/http%3A//whocallsmefromthisnumber.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whocallsmefromthisnumber.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223185304id_/http%3A//whocallsmefromthisnumber.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Who calls me from this number?
 
