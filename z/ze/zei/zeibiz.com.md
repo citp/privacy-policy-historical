@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the zeibiz.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520194457id_/http%3A//www.zeibiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeibiz.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223141528id_/http%3A//www.zeibiz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Zeibiz
+# Privacy Policy - Zeibiz
+
+[AWD_loginbutton]
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
