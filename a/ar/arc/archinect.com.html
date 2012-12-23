@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the archinect.com privacy policy that was archived on 2012-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120606174650id_/http%3A//archinect.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the archinect.com privacy policy that was archived on 2012-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121223212341id_/http%3A//archinect.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml2/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head><script src="https://archive.org/includes/analytics.js?v=cf34f82"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://insight.torbit.com/v1/insight.min.js"></script><script type="text/javascript">var TBRUM=TBRUM||{};TBRUM.q=TBRUM.q||[];TBRUM.q.push(['mark','firstbyte',(new Date).getTime()]);(function(){var a=document.createElement('script');a.type='text/javascript';a.async=true;a.src=document.location.protocol+'//insight.torbit.com/v1/insight.min.js';var b=document.getElementsByTagName('script')[0];b.parentNode.insertBefore(a,b)})();</script>
-<!-- 1339004791 -->
+<!-- 1356297798 -->
 
 	<title>Privacy Policy | Archinect</title>
 
@@ -126,9 +126,9 @@
 				if( typeof( arc_remove_editor ) == 'function' ) {
 					arc_remove_editor('form.arc_ajax .editor');
 				}
-				
+				$(".CommentForm").hide();
 				arc_filterform(form);
-				
+
 				$('<input>').attr({
 					    type: 'hidden',
 					    name: 'arc_token',
@@ -146,7 +146,7 @@
 							return;
 						}
 						$(form).replaceWith(data);
-
+						$(".CommentForm").slideDown();
 						if( typeof( arc_editor ) == 'function' ) {
 								arc_editor('form.arc_ajax .editor');
 						}
@@ -163,7 +163,8 @@
 					var ptags = body_html.find('p').length;
 					if(ptags > 0){
 						for(var i=0; i<ptags; i++){
-							if($.trim(body_html.find('p').eq(i).text()) != '')
+							var ptag_html = $.trim(body_html.find('p').eq(i).html());
+							if(ptag_html != '' && ptag_html != '&nbsp;')
 							{
 								if(start === '')
 								{
@@ -193,7 +194,8 @@
 			
 			$('form input.Filtering').live('click', function(){
 				var referer = $(this);
-				var form = $(this).parents('form');				
+				var form = $(this).parents('form');
+				$(".CommentForm").hide();				
 				arc_filterform(form);
 				$(this).removeClass('Filtering').die("click");
 				setTimeout(function(){  $(referer).click(); }, 500);
