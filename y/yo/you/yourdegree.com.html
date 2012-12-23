@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the yourdegree.com privacy policy that was archived on 2012-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513103133id_/http%3A//www.yourdegree.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yourdegree.com privacy policy that was archived on 2012-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121223112224id_/http%3A//www.yourdegree.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><style></style><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>
  Privacy Policy
-</title><meta http-equiv="X-UA-Compatible" content="IE=7"><link href="http://www.yourdegree.com/privacy-policy" rel="canonical"><link rel="stylesheet" type="text/css" href="/css/YourDegree.Directory.css?cb=C378B509-66D8-4BC6-B289-ED9A0F637BC7"><link href="/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
+</title><meta http-equiv="X-UA-Compatible" content="IE=7"><link href="http://www.yourdegree.com/privacy-policy" rel="canonical"><link rel="stylesheet" type="text/css" href="/css/YourDegree.Directory.css?cb=D92941A2-E0F6-4450-A49A-1F40674B2787"><link href="/css/jquery.jgrowl.css" rel="stylesheet" type="text/css">
  <!--[if lt IE 8]>
  <style type="text/css">
  li a {display:inline-block;}
@@ -19,50 +19,39 @@
  <script type="text/javascript" src="/js/jquery.textshadow.js"></script>
  <script type="text/javascript" src="/js/jquery.selectboxes.js"></script>
  <script type="text/javascript" src="/js/jquery.jgrowl_minimized.js"></script>
- <script type="text/javascript" src="/js/YourDegree.Directory.Common.js?cb=C378B509-66D8-4BC6-B289-ED9A0F637BC7"></script>
+ <script type="text/javascript" src="/js/YourDegree.Directory.Common.js?cb=D92941A2-E0F6-4450-A49A-1F40674B2787"></script>
  <meta name="description" content="Privacy Policy"></head>
 <body>
- <!--Container Starts Here-->
+ <!-- BEGIN CONTAINER -->
  <div id="container">
- <!-- Start main wrapper -->
- <div id="main-wrapper">
- <!--Sidebar Starts Here-->
- <div id="sidebar">
- <div id="findschools" class="fs_sidebar"><h2><span>Find Schools</span></h2><form action="/search-online-schools" accept-charset="utf-8"><p>
- Search by degree and subject area to find the online school that's right for
- you.
- </p><select id="aos" name="aos"><option value="">-- Select Area --</option><option value="1">Arts / Design</option><option value="2">Business</option><option value="3">Criminal Justice</option><option value="4">Education</option><option value="12">Engineering &amp; Science</option><option value="5">Healthcare</option><option value="6">Hospitality</option><option value="11">Legal &amp; Paralegal</option><option value="8">Liberal Arts</option><option value="13">Nursing</option><option value="9">Social Sciences</option><option value="7">Technology</option><option value="10">Vocational</option></select>
- <script type="text/javascript">        
- $('#aos').change(function ()
- {
- $("#concentration").removeOption(/./);
- $("#concentration").addOption("", "-- Select Concentration --");
- var aos = $("#aos").val();
- var url = 'http://services.yourdegree.com/Concentration/GetConcentrationsForAreaOfStudy/' + aos + '?callback=?';
- $.getJSON(url, function (results)
- {
- if (results != null && results != undefined && results.length > 0)
- {
- $.each(results, function (index, item)
- {
- $("#concentration").addOption(item.Value, item.Display, false);
- });
- $("#concentration").fadeIn();
- }
- else
- {
- $("#concentration").fadeOut();
- }
- });
- return false;
- });
-</script>
- <select id="concentration" name="concentration" style="display:none;"><option value="">-- Select Concentration --</option></select><select id="degree" name="degree"><option value="">-- Select Degree --</option><option value="0" selected="selected">High School Diploma/GED</option><option value="28">Associate</option><option value="31">Bachelor's</option><option value="29">Master's</option><option value="30">Doctoral</option><option value="32">Certificate</option><option value="33">Graduate Certificate</option></select><input type="image" src="/images/yd_findschools_bt.png" value="1" class="submit_bt"></form></div>
- <div id="area_study"><h2><span>Areas of Study</span></h2><ul id="menu"><li><a href="/arts-design-programs" class="aos_link">Arts / Design</a></li><li><a href="/business-programs" class="aos_link">Business</a></li><li><a href="/criminal-justice-programs" class="aos_link">Criminal Justice</a></li><li><a href="/education-programs" class="aos_link">Education</a></li><li><a href="/engineering-science-programs" class="aos_link">Engineering &amp; Science</a></li><li><a href="/healthcare-programs" class="aos_link">Healthcare</a></li><li><a href="/hospitality-programs" class="aos_link">Hospitality</a></li><li><a href="/legal-paralegal-programs" class="aos_link">Legal &amp; Paralegal</a></li><li><a href="/liberal-arts-programs" class="aos_link">Liberal Arts</a></li><li><a href="/nursing-programs" class="aos_link">Nursing</a></li><li><a href="/social-science-programs" class="aos_link">Social Sciences</a></li><li><a href="/technology-programs" class="aos_link">Technology</a></li><li><a href="/vocational-programs" class="aos_link">Vocational</a></li></ul></div>
+ <!-- BEGIN HEADER -->
+ <div id="header">
+ <div id="logo">
+ <a href="/" title="YourDegree.com"><span>YourDegree.com</span></a></div>
+ <div id="subnav">
+ <ul>
+ <li><a href="/blog">Blog</a></li>
+ <li><a href="#">School Ratings &amp; Reviews</a></li>
+ <li><a href="#">Program Ratings &amp; Reviews</a></li>
+ <li><a href="#">Interviews with Graduates</a></li>
+ <li><a href="#">Tips from Graduates</a></li>
+ <li class="last"><a href="#">Answers</a></li>
+ </ul>
  </div>
- <!--End Sidebar-->
- <!--Main Content Starts Here-->
- <div id="main_content">
+ <div class="clearfix">
+ </div>
+ <div id="nav"><ul><li><a href="/associates-degrees">Associates Degrees</a></li><li><a href="/bachelors-degrees">Bachelor's Degrees</a></li><li><a href="/masters-degrees">Master's Degrees</a></li><li><a href="/doctoral-degrees">Doctoral Degrees</a></li><li><a href="/grad-certificates">Grad Certificates</a></li><li><a href="/career-certificates">Career Certificates</a></li><li><a href="/online-courses">Online Courses</a></li><li><a href="/online-programs">Online Programs</a></li><li><a href="/online-degrees">Online Degrees</a></li><li><a href="/online-schools">Online Schools</a></li><li><a href="/campus-schools">Campus Schools</a></li><li><a href="/career-center">Career Center</a></li><li><a href="/learning-center">Learning Center</a></li></ul></div>
+ <!-- END HEADER -->
+ </div>
+ <!-- BEGIN MAIN-WRAPPER -->
+ <div id="main-wrapper">
+ <!-- BEGIN SIDEBAR -->
+ <div id="sidebar">
+ <div id="area-study-nav-list"><h2><span>Areas of Study</span></h2><ul id="menu"><li><a href="/arts-design-programs" class="aos_link">Arts / Design</a></li><li><a href="/business-programs" class="aos_link">Business</a></li><li><a href="/criminal-justice-programs" class="aos_link">Criminal Justice</a></li><li><a href="/education-programs" class="aos_link">Education</a></li><li><a href="/engineering-science-programs" class="aos_link">Engineering &amp; Science</a></li><li><a href="/healthcare-programs" class="aos_link">Healthcare</a></li><li><a href="/hospitality-programs" class="aos_link">Hospitality</a></li><li><a href="/legal-paralegal-programs" class="aos_link">Legal &amp; Paralegal</a></li><li><a href="/liberal-arts-programs" class="aos_link">Liberal Arts</a></li><li><a href="/nursing-programs" class="aos_link">Nursing</a></li><li><a href="/social-science-programs" class="aos_link">Social Sciences</a></li><li><a href="/technology-programs" class="aos_link">Technology</a></li><li class="last"><a href="/vocational-programs" class="aos_link">Vocational</a></li></ul></div>
+ </div>
+ <!-- END SIDEBAR -->
+ <!-- BEGIN MAIN CONTENT -->
+ <div id="main-content">
  <div>
  <div class="breadcrumbs"><a title="Home" href="/">Home</a><span class="separator">»</span><a title="Privacy Policy" href="#" class="current">Privacy Policy</a></div>
  <div class="dynamic_content">
@@ -135,20 +124,19 @@
  </div>
  </div>
  </div>
+ <!-- END MAIN CONTENT -->
  </div>
- <!-- end main wrapper -->
- <div id="header"><div id="logo"><a href="/" title="YourDegree.com"><span>YourDegree.com</span></a></div><ul id="nav"><li><a href="/associates-degrees">Associates Degrees</a></li><li><a href="/bachelors-degrees">Bachelor's Degrees</a></li><li><a href="/masters-degrees">Master's Degrees</a></li><li><a href="/doctoral-degrees">Doctoral Degrees</a></li><li><a href="/grad-certificates">Grad Certificates</a></li><li><a href="/career-certificates">Career Certificates</a></li><li><a href="/online-courses">Online Courses</a></li><li><a href="/online-programs">Online Programs</a></li><li><a href="/online-degrees">Online Degrees</a></li><li><a href="/online-schools">Online Schools</a></li><li><a href="/campus-schools">Campus Schools</a></li><li><a href="/career-center">Career Center</a></li><li><a href="/learning-center">Learning Center</a></li></ul></div>
- <div id="footer"><!-- footer --><div class="footer_links"><h2>
+ <!-- END MAIN WRAPPER -->
+ <!-- BEGIN FOOTER -->
+ <div id="footer"><div class="footer_links"><h2>
  YourDegree
  </h2><ul><li><a href="/about-us">About Us</a></li><li><a href="http://www.fii-inc.com/education_leads">Advertise Your School</a></li><li><a href="/contact-us" rel="nofollow">Contact Us</a></li><li><a href="/privacy-policy" rel="nofollow">Privacy Policy</a></li><li><a href="/terms-of-use" rel="nofollow">Terms of Use</a></li><li><a href="/sitemap">Sitemap</a></li><li><a href="/feed.xml">
  RSS Feed<img src="/images/feed-icon-14x14.png" class="rss" alt="RSS Feed" width="14" height="14"></a></li></ul></div><div class="footer_degrees"><h2>
  Degrees &amp; Certifications
  </h2><ul><li><a href="/associates-degrees">Associates Degree</a></li><li><a href="/bachelors-degrees">Bachelor's Degree</a></li><li><a href="/masters-degrees">Master's Degree</a></li><li><a href="/doctoral-degrees">Doctoral Degree</a></li><li><a href="/grad-certificates">Graduate Certificate</a></li><li><a href="/career-certificates">Professional Certificate</a></li></ul></div><div class="footer_resources"><h2>
  Career Resources
- </h2><ul><li><a href="/career-center">Career Center</a></li><li><a href="/learning-center">Education Articles</a></li><li><a href="http://www.youremployment.com">Employment</a></li></ul></div></div>
- <!--end footer-->
- <div class="copyright">
- Copyright © YourDegree.com 2011. All Rights Reserved.</div>
+ </h2><ul><li><a href="/career-center">Career Center</a></li><li><a href="/learning-center">Education Articles</a></li><li><a href="http://www.youremployment.com">Employment</a></li></ul></div><!-- END FOOTER --></div>
+ <!-- END CONTAINER -->
  </div>
  <script type="text/javascript">
  var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-27597141-1"]);_gaq.push(["_setDomainName","yourdegree.com"]);_gaq.push(["_trackPageview"]);(function(){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();
