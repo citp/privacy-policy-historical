@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkswan.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618075549id_/http%3A//knowledgehubnetworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkswan.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223143509id_/http%3A//knowledgehubnetworks.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Knowledge Hub Networks
 
