@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bridgebase.com privacy policy that was archived on 2012-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120205193350id_/http%3A//www.bridgebase.com/intro/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgebase.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223082805id_/http%3A//www.bridgebase.com/intro/privacy.php) for the most accurate reproduction.*
 
 # Bridge Base Online
 
 #### Bridge Base Online Privacy Statement
 
-_(last updated: Sep 2011)_
+_(last updated: May 2012)_
 
 Bridge Base Online ("BBO") is committed to protecting your privacy. This privacy statement applies to the data collected by BBO through the Bridge Base Online web pages and the original BBO program (collectively, the Site); it does not apply to data collected through other online or offline BBO sites, products or services. 
 
@@ -36,9 +36,13 @@ We may use your personal information to provide you with important information a
 
 We may use your personal information to provide you with information about products or services you may be interested in. 
 
+Personal information collected on the Site may be stored and processed in the United States or any other country in which BBO or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country. 
+
+#### Sharing of Your Personal Information
+
 BBO may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on BBO or the Site; (b) protect and defend the rights or property of BBO and our family of Web sites; or (c) act in urgent circumstances to protect the personal safety of users of BBO products or members of the public. 
 
-Personal information collected on the Site may be stored and processed in the United States or any other country in which BBO or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country. 
+BBO may also disclose your personal information to cooperate with our partners in abuse-related investigations. For instance: ACBL requires that BBO report the names of players who have been banned from ACBL games. 
 
 #### Control of Your Personal Information
 
@@ -88,8 +92,10 @@ We may occasionally update this privacy statement. When we do, we will also revi
 
 BBO welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us by clicking [here](mailto:support@bridgebase.com). You may also contact us through postal mail at the address provided below and we will use commercially reasonable efforts to promptly determine and remedy the problem. 
 
-Bridge Base Online   
-10550 Hope Mills Drive   
-Las Vegas, NV 89135 
+Bridge Base Online, Ltd.   
+2805 High Sail Court   
+Las Vegas, NV   
+USA 89117  
+
 
 © 1996-2012 All rights reserved 
