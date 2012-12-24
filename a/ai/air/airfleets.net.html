@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the airfleets.net privacy policy that was archived on 2012-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621130144id_/http%3A//www.airfleets.net/divers/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the airfleets.net privacy policy that was archived on 2012-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121224105459id_/http%3A//www.airfleets.net/divers/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -34,6 +34,11 @@
   })();
 
 </script>
+
+<link type="text/css" rel="stylesheet" href="../jquery.autocomplete.css">
+<script type="text/javascript" src="../jquery.min.js"></script>
+<script type="text/javascript" src="../jquery.autocomplete.js"></script>
+
 </head>
 
 
@@ -104,7 +109,7 @@
 					<li>
 						<a href="#"><center>Aircraft</center></a>
 						<ul>
-							<li2><a href="../recherche/recherche.htm">Search an aircraft</a></li2>
+							<li2><a href="../recherche/search_plane.htm">Search an aircraft</a></li2>
 							<li2><a href="../recherche/supported-plane.htm">Supported aircarft</a></li2>
 							<li2><a href="../listing/listing.htm">Production lists</a></li2>
 							<li2><a href="../divers/delivery.htm">New aircraft deliveries</a></li2>							
@@ -116,7 +121,7 @@
 					<li>
 						<a href="#"><center>Airline</center></a>
 						<ul>
-							<li2><a href="../recherche/recherche.htm">Search an airline</a></li2>
+							<li2><a href="../recherche/search_airline.htm">Search an airline</a></li2>
 							<li2><a href="../recherche/airline.htm">Airlines list</a></li2>
 							<li2><a href="../recherche/country.htm">Browse country</a></li2>
 							<li2><a href="../ageflotte/fleet-age.htm">Fleet age</a></li2>							
@@ -177,12 +182,13 @@
 						<a href="#"><center>Contact</center></a>
 						<ul>
 							<li2><a href="../contact/contact.htm">Contact</a></li2>
-							<li2><a href="../divers/link.htm">Link to us</a></li2>
+							<li2><a href="../divers/adinfo.htm">Advertisement</a></li2>							<li2><a href="../divers/link.htm">Link to us</a></li2>
 
 						</ul>
 					</li>
 				</ul>
 	</td>
+
         <td width="5">&nbsp;</td>
 
 	</tr>
@@ -230,10 +236,17 @@
 		return valid;
 		}
 
-	</script>
+	</script><script type="text/javascript">
+$(document).ready(function() {
+	$('#search_bas').autocomplete('../home/autocomplete.php',{delay:700, minChars:3});
+	$('#search_air').autocomplete('../home/autocomplete.php?type=2',{delay:700, minChars:3});
+	$('#search_reg').autocomplete('../home/autocomplete.php?type=1',{delay:700, minChars:3});
+	$('#search_haut').autocomplete('../home/autocomplete.php',{delay:700, minChars:3, width:135});
+});
+</script>
 	<tbody><tr>
 		<td align="right" class="texten" width="213">
-		<b>Search :</b> <input type="text" size="14" class="id2" name="key">&nbsp;
+		<b>Search :</b> <input type="text" size="14" id="search_haut" class="id2 ac_input" name="key" autocomplete="off">&nbsp;
 		</td>
 		<td width="15">
 		<input type="image" src="../images/pix.gif" class="sprite next" border="0">	
@@ -242,7 +255,6 @@
 		</td>
 		</tr>
 		</tbody></table>
-				
 	</td>
 </tr>
 <tr>
@@ -286,7 +298,6 @@ To contact us, use the contact link at the bottom of each page.
 
 
 
-
 <br> </p></td>
     </tr>
  <tr>
@@ -317,7 +328,7 @@ To contact us, use the contact link at the bottom of each page.
 
 [<a href="../contact/contact.htm" class="lien">Contact</a>] 
 [<a href="../divers/privacy.htm" class="lien">Privacy Policy</a>]
- [<a href="../divers/disclaimer.htm" class="lien">Disclaimer</a>]<br>
+ [<a href="../divers/disclaimer.htm" class="lien">Disclaimer</a>] [<a href="../divers/adinfo.htm" class="lien">Advertisement</a>] <br>
  </p></td>
 </tr>
 
@@ -356,6 +367,7 @@ To contact us, use the contact link at the bottom of each page.
 <a href="http://www.avitop.com/aviation/default.asp?UserId=2591" target="_blank"><img name="av" src="http://www.avitop.com/image/avitop1.gif" width="135" height="17" border="0" alt="AVIATION TOP 100 - www.avitop.com"></a>
 <img src="http://serv2.avitop.com/aviation/hitlist.asp?id=2591" height="1" width="1" border="0" alt="Avitop.com"><!-- END AVIATION TOP 100 CODE: -->
 
+
         </td>
      
         <td width="10">
@@ -363,5 +375,6 @@ To contact us, use the contact link at the bottom of each page.
         </td>
     </tr>
 </tbody></table>
+
 
 </center></body></html>
