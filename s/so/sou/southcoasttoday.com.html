@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the southcoasttoday.com privacy policy that was archived on 2012-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120624203709id_/http%3A//www.southcoasttoday.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the southcoasttoday.com privacy policy that was archived on 2012-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121224110013id_/http%3A//www.southcoasttoday.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>SouthCoastToday.com -  - Your link to SouthCoast Massachusetts and beyond</title>
 		<meta name="Description" content="">
 		<meta name="keywords" content="">
-		<link rel="stylesheet" type="text/css" href="http://static.djlmgdigital.com/nbt/southcoasttoday/styles/global.css?7">
+		<link rel="stylesheet" type="text/css" href="http://static.djlmgdigital.com/nbt/southcoasttoday/styles/global.css?2012b">
 		<link rel="apple-touch-icon" href="http://static.djlmgdigital.com/nbt/southcoasttoday/graphics/apple-touch-icon.png">
 	        <link rel="shortcut icon" href="http://static.djlmgdigital.com/nbt/southcoasttoday/graphics/favicon.ico">
 		<script language="JavaScript" src="http://static.djlmgdigital.com/nbt/southcoasttoday/scripts/main.js" type="text/javascript"></script>
 		<script language="JavaScript" src="http://static.djlmgdigital.com/nbt/southcoasttoday/scripts/tabbedNews.js" type="text/javascript"></script>
-		<link href="http://static.djlmgdigital.com/nbt/southcoasttoday/styles/tabbedNews.css" rel="stylesheet" type="text/css" media="all">
+		<link href="http://static.djlmgdigital.com/nbt/southcoasttoday/styles/tabbedNews.css?2012b" rel="stylesheet" type="text/css" media="all">
     <script language="JavaScript" src="http://static.djlmgdigital.com/nbt/global/scripts/oas.js" type="text/javascript"></script>
     <script language="JavaScript" type="text/javascript">
 	      var mainCat = "";
@@ -27,7 +27,12 @@
 		<meta name="category-facet" content="">
 		<script type="text/javascript" src="http://static.djlmgdigital.com/corp/global/scripts/jquery.min.js"></script>
 		<script type="text/javascript" src="http://static.djlmgdigital.com/corp/global/scripts/jcarousellite.min.js"></script>
-		<script language="JavaScript" src="http://static.djlmgdigital.com/corp/global/scripts/browser.js" type="text/javascript"></script>
+		<script language="JavaScript" src="http://static.djlmgdigital.com/corp/global/scripts/browser.js" type="text/javascript"></script> 		
+<script>
+	$(document).ready(function() {
+		$('.breaking a.premium, .barkerTxt h2.premium, .c2 ul li.premium a:first-child, .nlRotate ul li.premium a:first-child, .featuredMedia .premium, .mediaItem .premium, .vidList .premium, .photoGall .premium, .photoGallArchive .premium').prepend('<img src="http://static.djlmgdigital.com/corp/global/graphics/icons/21x10key.png" border="0" alt="Premium Content" class="premiumIcon">&nbsp;');
+	});	
+</script>
 		<meta name="ROBOTS" content="NOFOLLOW, NOINDEX">
 		<script language="JavaScript" src="http://static.djlmgdigital.com/corp/global/scripts/querystring.js" type="text/javascript"></script>
   		<script language="JavaScript" src="http://static.djlmgdigital.com/corp/global/scripts/genValidator.js" type="text/javascript"></script>
@@ -36,7 +41,7 @@
 
 		<script language="JavaScript" type="text/javascript">
 			<!--
-				OAS_SET_PARMS("www.nbt.com/infocenter/all", "x59,Middle", "")
+				OAS_SET_PARMS("www.nbt.com/infocenter/all", "Top,Middle", "")
 			//-->
 		</script>
 		<script type="text/javascript" language="JavaScript1.1">
@@ -92,6 +97,9 @@
 		s_code_obj.prop14=	"";
 		
 	}
+	var userSingleSale = "";
+	var userStoriesViewed = "";
+	var returnurl = "%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm";
 </script>
 
 
@@ -128,14 +136,6 @@
 	    var ymnow = new Date;
 	    var rv = ymnow.getFullYear() * 100 + ymnow.getMonth() + 1;
 	    return rv;
-		}
-		
-		function toggleMiniLogin() {
-			var mlfrm=document.getElementById('miniLogin');
-			mlfrm.style.display=(mlfrm.style.display=='block')?'none':'block';
-			if (mlfrm.style.display=='block') {
-				document.getElementById('user').focus();
-			}
 		}
 		
 		YAHOO.util.Event.onDOMReady(function() { 
@@ -189,69 +189,107 @@
 				});
 			}
 		});
-				
+		function toggleMiniLogin() {
+			var mobileFull = YAHOO.util.Cookie.get("sitePref");
+
+			if (mobileFull == "full")
+			{
+				window.location.href = "/apps/pbcs.dll/misc?url=/misc/mobile/login.pbs&returnurl=%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm&cid=lb_login"
+			}
+			else
+			{
+				//not a mobile user viewing full site
+				var mlfrm=document.getElementById('miniLogin');
+				mlfrm.style.display=(mlfrm.style.display=='block')?'none':'block';
+				if (mlfrm.style.display=='block') {
+					document.getElementById('user').focus();
+				}
+			}
+		}		
 	</script>
 
 
 <div id="loginBar" class="loggedOut">
 <div class="noindex">
 
-	<div id="loginBarLeft"><a href="/subscribe" title="Subscribe">Welcome to SouthCoastToday.com.  Get Started</a></div>
-	<div id="loginBarCenter">
-		<span class="loginBarCenterTop"><a href="/subscribe" title="Subscription Offers">Subscribe Today. See our Special Offers.</a></span>
-		<span class="loginBarCenterBot"><a href="http://www.southcoasttoday.com/apps/pbcs.dll/misc?url=/static/allaccess.htm" class="norm">Current Print Subscribers - Activate Here</a></span>
-	</div>
-	<div id="loginBarRight"><a href="/apps/pbcs.dll/misc?url=/misc/login.pbs&amp;returnurl=%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm&amp;returndest=" title="Log In" onclick="this.blur();toggleMiniLogin();return false;">Log In</a> | <a href="/register" title="Register">Register</a> | <a href="/subscribe" title="Subscribe">Subscribe</a></div>
-	<div id="miniLogin" style="display:none;">
-		<a href="#" onclick="toggleMiniLogin();return false;" title="close login panel">x</a>
-		<form action="/apps/pbcs.dll/misc?url=/misc/login.pbs&amp;returnurl=%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm" method="post" name="login_form" id="login_form">
-			<label for="username">Username *</label>
-			<input type="text" name="user" value="" id="user" maxlength="64" class="text">
-			<span style="font-size:.9em;color:#666; font-weight:normal;margin-bottom:5px;">(usually your email address)</span>
-			<label for="pass">Password *</label>
-			<input type="password" name="pw" value="" id="pw" maxlength="64" class="text" onkeydown="return submitOnEnter(event);">
-			<div class="ctl submit">
-				<input type="image" class="subButton" name="loginSubButton" id="loginSubButton" src="http://static.djlmgdigital.com/nbt/southcoasttoday/graphics/paywall/btn_login.gif" value="">
-			</div>
-		</form>
-		<div class="miniLoginFooter">
-			<a href="/apps/pbcs.dll/misc?url=/misc/forgotPassword.pbs" title="Forgot Password">Forgot Password</a> | <a href="/subscribe" title="Sign Up">Need an Account?</a>
-		</div>
-	</div>
-
-
 	<div id="networkNav">
 		<div id="networkNavLeft">
-			<div class="brand1"><a href="http://www.southcoasttoday.com">&nbsp;</a></div>
-			<div class="brand2"><a href="http://www.southcoasthouseandhome.com">&nbsp;</a></div>
-			<div class="brand3"><a href="http://www.southcoastautotoday.com">&nbsp;</a></div>
-			<div class="brand4"><a href="http://www.southcoastjobmart.com">&nbsp;</a></div>
-			<div class="brand5"><a href="http://finditonline.com/sp?&amp;skin=4&amp;aff=1">&nbsp;</a></div>
-			<div class="brand6"><a href="http://www.southcoastbulletin.com/">&nbsp;</a></div>
+			<div class="brand1"><a href="http://www.southcoasttoday.com/apps/pbcs.dll/frontpage?cid=bb1_home">&nbsp;</a></div>
+			<div class="brand2"><a href="http://www.southcoasttoday.com/static/houseandhome/?cid=bb2_homes">&nbsp;</a></div>
+			<div class="brand3"><a href="http://www.southcoastautotoday.com/apps/pbcs.dll/section?Category=CARS10&amp;cid=bb3_cars">&nbsp;</a></div>
+			<div class="brand4"><a href="http://www.southcoastjobmart.com?cid=bb4_jobs">&nbsp;</a></div>
+			<div class="brand5"><a href="http://finditonline.com/sp?&amp;skin=4&amp;aff=1&amp;bb5_localsearch">&nbsp;</a></div>
+			<div class="brand6"><a href="http://www.southcoasttoday.com/apps/pbcs.dll/section?Category=SCBULLETIN&amp;cid=bb6_scbb">&nbsp;</a></div>
 			<div class="brandMore" onmouseout="document.getElementById('brandMoreDrop').style.display='none';" onmouseover="document.getElementById('brandMoreDrop').style.display='block';">
-				<a href="/apps/pbcs.dll/misc?url=/static/siteMap.htm">&nbsp;</a>
+				<a href="/apps/pbcs.dll/misc?url=/static/siteMap.htm&amp;cid=bb7_more">&nbsp;</a>
 				<ul class="brandMoreDrop" id="brandMoreDrop" style="display:none;">
-					<li><a href="/apps/pbcs.dll/section?Category=MARKET" title="Classifieds Marketplace">Classifieds Marketplace</a></li>
-					<li><a href="http://blogs.southcoasttoday.com" title="SouthCoastToday.com/Blogs">SouthCoastToday.com/Blogs</a></li>
-					<li><a href="/apps/pbcs.dll/section?Category=SPORTS02" title="SouthCoastVarsity">SouthCoastVarsity.com</a></li>
-					<li><a href="/apps/pbcs.dll/section?category=PUB01" title="The Advocate">The Advocate</a></li>
-					<li><a href="/apps/pbcs.dll/section?category=PUB02" title="The Chronicle">The Chronicle</a></li>
-					<li><a href="/apps/pbcs.dll/section?category=PUB03" title="Fall River Spirit">Fall River Spirit</a></li>
-					<li><a href="/apps/pbcs.dll/section?category=PUB04" title="Middleboro Gazette">Middleboro Gazette</a></li>
-					<li><a href="/apps/pbcs.dll/section?category=PUB05" title="The Spectator">The Spectator</a></li>
-					<li><a href="/apps/pbcs.dll/section?category=TOWN20" title="The Gateway">The Gateway</a></li>
+					<li><a href="/apps/pbcs.dll/section?Category=MARKET&amp;cid=bb8_market" title="Classifieds Marketplace">Classifieds Marketplace</a></li>
+					<li><a href="http://blogs.southcoasttoday.com?cid=bb9_blogs" title="SouthCoastToday.com/Blogs">SouthCoastToday.com/Blogs</a></li>
+					<li><a href="/apps/pbcs.dll/section?Category=SPORTS02&amp;cid=bb10_varsity" title="SouthCoastVarsity">SouthCoastVarsity.com</a></li>
+					<li><a href="/apps/pbcs.dll/section?category=PUB01&amp;cid=bb11_advocate" title="The Advocate">The Advocate</a></li>
+					<li><a href="/apps/pbcs.dll/section?category=PUB02&amp;cid=bb12_chronicle" title="The Chronicle">The Chronicle</a></li>
+					<li><a href="/apps/pbcs.dll/section?category=PUB03&amp;cid=bb13_spirit" title="Fall River Spirit">Fall River Spirit</a></li>
+					<li><a href="/apps/pbcs.dll/section?category=PUB04&amp;cid=bb14_gazette" title="Middleboro Gazette">Middleboro Gazette</a></li>
+					<li><a href="/apps/pbcs.dll/section?category=PUB05&amp;cid=bb15_spectator" title="The Spectator">The Spectator</a></li>
+					<li><a href="/apps/pbcs.dll/section?category=TOWN20&amp;cid=bb16_gateway" title="The Gateway">The Gateway</a></li>
 				</ul>
 			</div>
 		</div>
 		<div id="networkNavRight">
 			<form id="form_southcoast" method="post" onsubmit="return submitSearch(search_news.value);">
 				  	<input class="input_text" type="text" name="search_news" id="search_news" value="Search SouthCoastToday.com" onfocus="if(this.value=='Search SouthCoastToday.com'){this.value='';}" onblur="if(this.value==''){this.value='Search SouthCoastToday.com';}">
-				  	<input class="input_search" name="submit" type="image" value="Search" id="search_news_submit" src="http://static.djlmgdigital.com/nbt/southcoasttoday/graphics/graphics/searchSubmit.gif">
+				  	<input class="input_search" name="submit" type="image" value="Search" id="search_news_submit" src="http://s3.amazonaws.com/static.djlmgdigital.com/nbt/southcoasttoday/graphics/2012-searchSubmit.gif">
 			</form>
 		</div>
 	</div>
 </div>
+</div>	
+<div id="loginBarBtm" class="loggedOut">
+<div class="noindex">
+	<div id="subscriberBar">
+
+		<div id="loginBarLeft">
+		
+			
+				<a href="/apps/pbcs.dll/misc?url=/misc/login.pbs&amp;returnurl=%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm&amp;cid=lb_login" title="Log In" onclick="this.blur();toggleMiniLogin();return false;" class="loginBtn"></a>
+				<div class="btmLinks">
+					<span class="key">0 of 3 Premium Clicks used this month</span>
+				</div>
+			
+		</div>
+	
+		<div id="loginBarRight">
+			
+			
+				<div class="subscribe"><a href="/apps/pbcs.dll/misc?url=/static/premiumContent/initialOffer.html&amp;cid=lb_subscribe" title="Subscribe">SUBSCRIBE</a></div>
+				<span class="txtLinks">
+					<a href="/apps/pbcs.dll/misc?url=/misc/register.pbs&amp;cid=lb_register" title="Register">Register</a>
+				</span>	
+			
+		</div>
+		
+		<div id="miniLogin" style="display:none;">
+			<a href="#" onclick="toggleMiniLogin();return false;" title="close login panel">x</a>
+			<form action="/apps/pbcs.dll/misc?url=/misc/login.pbs&amp;returnurl=%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm&amp;cid=lb_login" method="post" name="login_form" id="login_form">
+				<label for="username">Username *</label>
+				<input type="text" name="user" value="" id="user" maxlength="64" class="text">
+				<span style="font-size:.9em;color:#333; font-weight:normal;margin-bottom:5px;">(usually your email address)</span>
+				<label for="pass">Password *</label>
+				<input type="password" name="pw" value="" id="pw" maxlength="64" class="text" onkeydown="return submitOnEnter(event);">
+				<div class="ctl submit">
+					<input type="image" class="subButton" name="loginSubButton" id="loginSubButton" src="http://s3.amazonaws.com/static.djlmgdigital.com/nbt/southcoasttoday/graphics/paywall/btn_login.gif" value="">
+				</div>
+			</form>
+			<div class="miniLoginFooter">
+				<a href="/apps/pbcs.dll/misc?url=/misc/forgotPassword.pbs" title="Forgot Password">Forgot Password</a> | <a href="/subscribe" title="Sign Up">Need an Account?</a>
+			</div>
+		</div>
+
+	</div>
 </div>
+</div>	
+
+
 	<div id="sCode">
 		<script language="JavaScript" type="text/javascript"><!--
 			setProp(s); 	
@@ -261,36 +299,32 @@
 			<div id="header">
 				
 				<div class="mastBar">
-				<a href="/" title="SouthCoastToday Sitemap" id="mastHead">&nbsp;</a>
+				<a href="/" title="SouthCoastToday.com" id="mastHead">&nbsp;</a>
 				<div id="mastWeather">
 					<div id="mastWeatherLeft">
-						<div id="weathHead">
+						<div class="todaysDate">Monday, December 24, 2012</div>
+						<div id="weathPredict">
+							<div class="currTemp">               
+								<script type="text/javascript">
+									document.writeln("<img src=\"http://static.djlmgdigital.com/corp/global/graphics/weather/small/" + wcurrent.dailyforecast.Icon.replace(/jpg/, "gif") + "\" alt=\"weather\" class=\"wImg\"\">");
+								</script>
 							
-					 		<div id="weathPredict" style="width:155px;">
-	                				<script type="text/javascript">document.writeln("<div style=\"display:inline;float:left;\"><img src=\"http://static.djlmgdigital.com/nbt/southcoasttoday/graphics/weather/medium/" + wcurrent.dailyforecast.Icon.replace(/jpg/, "gif") + "\" alt=\"weather\" class=\"wImg\"/ style=\"left:0px;top:0px;\"><\/div>");</script>
-	                				<div class="currTemp" style="display:inline;float:left;margin-left:5px;font-size:2em;font-weight:bold;">
-						                <script type="text/javascript">
-						                	document.writeln(wcurrent.dailyforecast.TemperatureF + "\&#176;");
-									</script>																	
-										<br><div class="weatherLinks" style="margin:1px 0px;">
-											<a href="/apps/pbcs.dll/section?category=WEATHER" title="Click here for more weather details.">Forecasts | Radar</a>
-										</div>
-									</div>
-								</div>
-								<div id="weathTitle">
-									<span class="hdrDate">Sun, June 24, 2012</span>
-								</div>
-					 	</div>
-					</div>
-					<div id="mastWeatherRight">
-						<div id="x59">
-							<script language="JavaScript" type="text/javascript">
-							<!--
-								OAS_AD('x59');
-							//-->
-							</script>
+								<script type="text/javascript">
+					                	document.writeln(Math.round(wcurrent.dailyforecast.TemperatureF) + "&#176;");
+								</script>	
+							</div>
+							<div class="weatherLinks">
+								<a href="/apps/pbcs.dll/section?category=WEATHER" title="Click here for more weather details.">Forecast | Radar</a>
+							</div>
 						</div>
-					</div>
+					</div>												
+				</div>
+				<div id="Top">
+					<script language="JavaScript" type="text/javascript">
+					<!--
+						OAS_AD('Top');
+					//-->
+					</script>
 				</div>
 			</div>
 			<div id="browserBar" style="clear:both;display:none;float:left;margin:3px 2px;height:56px;padding:2px;background-color:#b4b4b2;"></div>
@@ -402,6 +436,8 @@
 							</li>
 							<li><a href="/apps/pbcs.dll/misc?url=/static/socialNetworks.htm" title="Social Networking">Social Networking</a>
 							</li>
+							<!--<li><a href="http://howlandplace.com/home.html" class="annewhiting" title="Howland Place" target="_blank"></a>
+							</li>-->
 
 							<!--<li class="dividerAbove"><a class="luzofuel" href="http://www.luzofuel.com" title="Luzo Fuel - Click for Daily Rates!" target="_blank"></a>
 							</li>-->
@@ -491,6 +527,8 @@
 									</li>
 									<li><a href="/apps/pbcs.dll/section?category=SPORTS0703" title="Mick Colageo">Mick Colageo</a>
 									</li>
+									<li><a href="/apps/pbcs.dll/section?category=SPORTS0715" title="Nick Tavares">Nick Tavares</a>
+									</li>
 									<li><a href="/apps/pbcs.dll/section?category=SPORTS0714" title="Laurie Los">Laurie Los</a>
 									</li>
 									<li><a href="/apps/pbcs.dll/section?category=SPORTS0704" title="Tim Weisberg">Tim Weisberg</a>
@@ -566,6 +604,8 @@
 							<li><a href="/apps/pbcs.dll/section?category=LIFE" title="Living Home">Living Home</a>
 							</li>
 							<li><a href="/apps/pbcs.dll/section?category=LIFE01" title="Health">Health</a>
+							</li>
+							<li><a href="/apps/pbcs.dll/section?category=LIFE23" title="SouthCoast Cooks">SouthCoast Cooks</a>
 							</li>
 							<li><a href="/apps/pbcs.dll/section?category=LIFE02" title="SouthCoast Gardens">SouthCoast Gardens</a>
 							</li>
@@ -668,7 +708,7 @@
 							</li>	
 							<li><a href="/apps/pbcs.dll/section?category=MEDIA22" title="SouthCoast Proms">SouthCoast Proms</a>
 							</li>
-							<li><a href="http://scmg.upickem.net/engine/Welcome.aspx?contestid=59703" title="Father-Son Photo Contest">Father-Son Photo Contest</a>
+							<li><a href="http://scmg.upickem.net/engine/Welcome.aspx?contestid=77444" title="Feathered Friends Photo Contest">Feathered Friends Photo Contest</a>
 							</li>
 							<li><a href="/apps/pbcs.dll/section?category=MEDIA18" title="ShopSouthCoast.com">ShopSouthCoast.com</a>
 							</li>
@@ -797,8 +837,7 @@
 									</li>
 								</ul>
 							</li>
-							<!--<li class="dividerAbove"><a class="annewhiting" href="http://www.annewhitingrealestate.com/" title="Anne Whiting Real Estate" target="_blank"></a>
-							</li>-->
+							
 						</ul>
 					</li>
 					<li><a id="marketNav" href="http://marketplace.southcoasttoday.com/site/tab1.cfm?brd=916" target="_blank" title="Marketplace">MARKETPLACE</a>
@@ -844,7 +883,7 @@
 
 							<li><a href="/apps/pbcs.dll/section?category=NEWS12" title="Neediest Families Fund">Neediest Families Fund</a>
 							</li>		
-							<li><a href="http://www.newsineducation.com/" target="_blank" title="News in Education">News in Education</a></li>	
+							<li><a href="/apps/pbcs.dll/misc?url=/static/nie/nie.htm" target="_blank" title="News in Education">News in Education</a></li>	
 							<li><a href="http://services.southcoasttoday.com/media-kit" title="Advertise with Us">Advertise with Us</a></li>			
 						</ul>
 					</li>
@@ -1000,42 +1039,45 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
 		<li><a href="http://services.southcoasttoday.com/reader-services/contact-us">Tell us what you think of our site</a></li>
 	</ul>
 </div>
-									<div class="photoPromo c2 fpThin">
+									<div class="photoPromo c2">
 			<div>
-				<h2>STAFF PHOTOGRAPHERS</h2>
+				<h2>STAFF PHOTOGRAPHS</h2>
 			</div>
-		<ul>
-			<li class="photoPromoLI">
-	<a href="/apps/pbcs.dll/gallery?Site=NB&amp;Date=20120618&amp;Category=MEDIA05&amp;ArtNo=618009999&amp;Ref=PH&amp;Presentation=desktop">
-		<img class="photoImg" src="/apps/pbcsi.dll/bilde?Site=NB&amp;Date=20120618&amp;Category=MEDIA05&amp;ArtNo=618009999&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=115&amp;MaxH=75&amp;border=0" alt="The Standard-Times - Week of June 18, 2012">
-	</a>
-</li><li class="photoPromoLI">
-	<a href="/apps/pbcs.dll/gallery?Site=NB&amp;Date=20120611&amp;Category=MEDIA05&amp;ArtNo=611009996&amp;Ref=PH&amp;Presentation=desktop">
-		<img class="photoImg" src="/apps/pbcsi.dll/bilde?Site=NB&amp;Date=20120611&amp;Category=MEDIA05&amp;ArtNo=611009996&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=115&amp;MaxH=75&amp;border=0" alt="The Standard-Times - Week of June 11, 2012">
-	</a>
-</li>
-		</ul>
-		<div class="c2 bottomLinks">
+		<div class="photoGall">
+			<ul>
+				<div class="photoGallDiv">
+	<li class="photoSingleImg">
+	<a class="mainGallTitle premium" href="/apps/pbcs.dll/gallery?Site=NB&amp;Date=20121210&amp;Category=MEDIA05&amp;ArtNo=121009857&amp;Ref=PH&amp;Presentation=desktop">Week of December 10, 2012</a><br>
+	<a class="mainGallImage" href="/apps/pbcs.dll/gallery?Site=NB&amp;Date=20121210&amp;Category=MEDIA05&amp;ArtNo=121009857&amp;Ref=PH&amp;Presentation=desktop"><img src="/apps/pbcsi.dll/bilde?Site=NB&amp;Date=20121210&amp;Category=MEDIA05&amp;ArtNo=121009857&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=200&amp;MaxH=125" alt="The Standard-Times - Week of December 10, 2012"></a>
+</li></div><div class="photoGallDiv">
+	<li class="photoSingleImg">
+	<a class="mainGallTitle premium" href="/apps/pbcs.dll/gallery?Site=NB&amp;Date=20121203&amp;Category=MEDIA05&amp;ArtNo=120309793&amp;Ref=PH&amp;Presentation=desktop">Week of December 3, 2012</a><br>
+	<a class="mainGallImage" href="/apps/pbcs.dll/gallery?Site=NB&amp;Date=20121203&amp;Category=MEDIA05&amp;ArtNo=120309793&amp;Ref=PH&amp;Presentation=desktop"><img src="/apps/pbcsi.dll/bilde?Site=NB&amp;Date=20121203&amp;Category=MEDIA05&amp;ArtNo=120309793&amp;Ref=PH&amp;NewTbl=1&amp;Item=1&amp;MaxW=200&amp;MaxH=125" alt="The Standard-Times - Week of December 3, 2012"></a>
+</li></div>
+			</ul>
+		</div>
+		<div class="c2 bottomLinks" style="clear:both;">
 			<ul>
 				<li>
 					<a href="/apps/pbcs.dll/section?Category=MEDIA16">View Staff Galleries</a>
 				</li>
 				<li class="last">
-					<a href="http://southcoasttoday.mycapture.com/mycapture/photoRequestForm.asp">Request a Photo</a>
+					<a href="http://services.southcoasttoday.com/reader-services/contact-us/photo-article-reprints/">Request a Photo</a>
 				</li>
 			</ul>
 		</div>
 	</div>
 
-						<!-- GETCONTENT: Time out after 203 ms on URL: http://www.southcoastresponse.com/photopost/widget.php --><!-- GETCONTENT: Time out after 203 ms on URL: http://www.southcoastresponse.com/photopost/widget.php Error: HTTP/1.0 404 Not Found -->
+						<!-- GETCONTENT: Time out after 1125 ms on URL: http://www.southcoastresponse.com/photopost/widget.php --><!-- GETCONTENT: Time out after 1125 ms on URL: http://www.southcoastresponse.com/photopost/widget.php Error: Socket Error # 10061
+Connection refused. -->
 							<div class="c2 specialPromo">
 <h2>Best of SouthCoastToday.com</h2>
-<div class="leftPromo"><a href="http://www.southcoastautotoday.com/"><img src="http://static.djlmgdigital.com/nbt/southcoasttoday/graphics/special_widget/grandm/cars.jpg"></a></div>
-<div class="rightPromo"><a href="http://services.southcoasttoday.com/reader-services/subscribe/email-alerts/"><img src="http://static.djlmgdigital.com/nbt/southcoasttoday/graphics/special_widget/grandm/emailAlerts.jpg"></a></div>
+<div class="leftPromo"><a href="http://www.southcoasttoday.com/apps/pbcs.dll/section?category=MEDIA19"><img src="http://static.djlmgdigital.com/nbt/southcoasttoday/graphics/special_widget/grandm/OutAndAbout.jpg"></a></div>
+<div class="rightPromo"><a href="http://www.southcoasttoday.com/apps/pbcs.dll/section?category=SPECIAL61"><img src="http://static.djlmgdigital.com/nbt/southcoasttoday/graphics/special_widget/grandm/seaside.jpg"></a></div>
 </div>
 <div class="c2 specialPromo">
-<div class="leftPromo"><a href="http://www.southcoastfamilyroom.com"><img src="http://static.djlmgdigital.com/nbt/southcoasttoday/graphics/special_widget/grandm/familyRoom.jpg"></a></div>
-<div class="rightPromo"><a href="http://www.southcoasttoday.com/apps/pbcs.dll/section?category=MEDIA"><img src="http://static.djlmgdigital.com/nbt/southcoasttoday/graphics/special_widget/grandm/photoGallery.jpg"></a></div>
+<div class="leftPromo"><a href="/apps/pbcs.dll/section?category=MEDIA18"><img src="http://static.djlmgdigital.com/nbt/southcoasttoday/graphics/special_widget/grandm/shopSouthCoast.jpg"></a></div>
+<div class="rightPromo"><a href="http://www.southcoastjobmart.com"><img src="http://static.djlmgdigital.com/nbt/southcoasttoday/graphics/special_widget/grandm/jobs.jpg"></a></div>
 </div>
 
 <!--<script language="JavaScript" src="http://static.djlmgdigital.com/nbt/southcoasttoday/scripts/reports.js"></script>-->
@@ -1065,7 +1107,6 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
 				</div>
 				<div id="rghtCol">
 					<div class="noindex">
-<a href="http://www.southcoasttoday.com/apps/pbcs.dll/misc?url=/static/premiumContent/initialOffer.html&amp;cid=baob"><img src="http://static.djlmgdigital.com/nbt/southcoasttoday/graphics/paywall/totalAccess.gif" border="0" alt="Click Here to Subscribe!"></a>
 	<div class="adMiddle">
 							<!-- OAS AD 'Middle' begin -->
 							<script language="JavaScript" type="text/javascript">
@@ -1154,8 +1195,8 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
 			<div class="djDOW_Head"><div style="display:block;text-align:center;width:100%;">COUPON OF THE WEEK</div></div>
 			<ul class="djDowList">
 				<li id="ctl00_djCpnF_Repeater_ctl00_djCpnF_Item" class="djCpnF_Odd">
-      <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=288&amp;siteId=240100" id="ctl00_djCpnF_Repeater_ctl00_djCpnF_HeadlineUrl" class="djCpnF_HeadlineUrl" title="Coupon offered by Mahoney's Building Supply Inc.">JUNE DOORBUSTERS SALE!</a>
-      <span id="ctl00_djCpnF_Repeater_ctl00_djCpnF_Body" class="djCpnF_Body">SAVE up to 50% on select items from our JUNE Doorbusters flyer! Go to...</span>       
+      <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=288&amp;siteId=240100" id="ctl00_djCpnF_Repeater_ctl00_djCpnF_HeadlineUrl" class="djCpnF_HeadlineUrl" title="Coupon offered by Mahoney's Building Supply Inc.">December DoorBusters</a>
+      <span id="ctl00_djCpnF_Repeater_ctl00_djCpnF_Body" class="djCpnF_Body">SAVE up tp 50% on some great items on our monthly DoorBusters program. All...</span>       
       <a href="http://finditonline.com/sp?aff=1&amp;skin=4&amp;wId=240100" id="ctl00_djCpnF_Repeater_ctl00_djCpnF_Biz" class="djCpnF_Biz" title="Coupon offered by Mahoney's Building Supply Inc.">Mahoney's Building Supply Inc.</a>      
    </li>
 			</ul>
@@ -1164,109 +1205,109 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
 		<div id="ctl00_djCpnW_Panel" class="djCpnW_Panel"> 
    
            <div class="djCpnW_Head">
-                 <a href="http://finditonline.com/sp?&amp;skin=4&amp;aff=3" id="ctl00_djCpnW_Repeater_ctl00_djCpnW_Total" class="djCpnW_Total" target="_blank">50 Coupons Online Today</a>
+                 <a href="http://finditonline.com/sp?&amp;skin=4&amp;aff=3" id="ctl00_djCpnW_Repeater_ctl00_djCpnW_Total" class="djCpnW_Total" target="_blank">See All Online Today</a>
                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;aff=3" id="ctl00_djCpnW_Repeater_ctl00_djCpnW_More" class="djCpnW_More" target="_blank">More &gt;&gt;</a>
            </div>       
            <ul class="djCpnW_Results">
            
              <li>
-                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=955&amp;siteId=250740" id="ctl00_djCpnW_Repeater_ctl01_djCpnW_Title" class="djCpnW_Title" rel="external">10% OFF for Armed Services Personnel</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">George's Cigars</span>    
-             </li>
-             
-             <li>
-                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=315&amp;siteId=43808" id="ctl00_djCpnW_Repeater_ctl02_djCpnW_Title" class="djCpnW_Title" rel="external">Buy One Pizza Get One FREE!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Blue Point Restaurant</span>    
-             </li>
-             
-             <li>
-                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=1483&amp;siteId=267018" id="ctl00_djCpnW_Repeater_ctl03_djCpnW_Title" class="djCpnW_Title" rel="external">Pizza</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Prestige Marketplace</span>    
-             </li>
-             
-             <li>
-                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=922&amp;siteId=142922" id="ctl00_djCpnW_Repeater_ctl04_djCpnW_Title" class="djCpnW_Title" rel="external">FREE Carpet Steam Cleaner Rental with purchase of a new Handy Andy's Quality Vac Vacuum Cleaner.</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Handy Andy's Quality Vacuum Cleaners</span>    
-             </li>
-             
-             <li>
-                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=1482&amp;siteId=267018" id="ctl00_djCpnW_Repeater_ctl05_djCpnW_Title" class="djCpnW_Title" rel="external">Boneless Chicken Breast $1.69/lb</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Prestige Marketplace</span>    
-             </li>
-             
-             <li>
-                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=562&amp;siteId=240100" id="ctl00_djCpnW_Repeater_ctl06_djCpnW_Title" class="djCpnW_Title" rel="external">10% OFF GRASS SEED FROM JONATHAN GREEN</a>
+                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=288&amp;siteId=240100" id="ctl00_djCpnW_Repeater_ctl01_djCpnW_Title" class="djCpnW_Title" rel="external">December DoorBusters</a>
                   <span class="djCpnW_Business" id="djCpnW_Business">Mahoney's Building Supply Inc.</span>    
              </li>
              
              <li>
-                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=954&amp;siteId=250740" id="ctl00_djCpnW_Repeater_ctl07_djCpnW_Title" class="djCpnW_Title" rel="external">10% OFF for Armed Services Personnel</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">George's Cigars</span>    
+                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=1513&amp;siteId=43185" id="ctl00_djCpnW_Repeater_ctl02_djCpnW_Title" class="djCpnW_Title" rel="external">SAVE on Lasik</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Eye Health Vision Centers</span>    
              </li>
              
              <li>
-                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=1423&amp;siteId=86148" id="ctl00_djCpnW_Repeater_ctl08_djCpnW_Title" class="djCpnW_Title" rel="external">Meet with a certified RN to develop a plan for patient care</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Personal Touch Home Care</span>    
+                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=1254&amp;siteId=251945" id="ctl00_djCpnW_Repeater_ctl03_djCpnW_Title" class="djCpnW_Title" rel="external">Lunch Specials starting at $4.99</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Azuma Asian Bistro</span>    
              </li>
              
              <li>
-                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=710&amp;siteId=44884" id="ctl00_djCpnW_Repeater_ctl09_djCpnW_Title" class="djCpnW_Title" rel="external">$10 OFF Any Summer 2012 Adult Education Evening Course</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Greater New Bedford Vocational</span>    
+                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=713&amp;siteId=42644" id="ctl00_djCpnW_Repeater_ctl04_djCpnW_Title" class="djCpnW_Title" rel="external">Buy 1 Fish &amp; Chips, Get 2nd 50% OFF!</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Danny's Seafood</span>    
              </li>
              
              <li>
-                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=820&amp;siteId=248356" id="ctl00_djCpnW_Repeater_ctl10_djCpnW_Title" class="djCpnW_Title" rel="external">$50.00 OFF</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Morency Floors</span>    
+                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=315&amp;siteId=43808" id="ctl00_djCpnW_Repeater_ctl05_djCpnW_Title" class="djCpnW_Title" rel="external">Buy One Pizza Get One Half Off!</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Blue Point Restaurant</span>    
              </li>
              
              <li>
-                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=1095&amp;siteId=42572" id="ctl00_djCpnW_Repeater_ctl11_djCpnW_Title" class="djCpnW_Title" rel="external">Join our SAM ADAMS BEER CLUB</a>
+                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=550&amp;siteId=142922" id="ctl00_djCpnW_Repeater_ctl06_djCpnW_Title" class="djCpnW_Title" rel="external">$50 Off with any Trade-in Vacuum Cleaner</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Handy Andy's Quality Vacuum Cleaners</span>    
+             </li>
+             
+             <li>
+                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=826&amp;siteId=205080" id="ctl00_djCpnW_Repeater_ctl07_djCpnW_Title" class="djCpnW_Title" rel="external">Save big on big sizes!</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Freitas Package Store</span>    
+             </li>
+             
+             <li>
+                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=1095&amp;siteId=42572" id="ctl00_djCpnW_Repeater_ctl08_djCpnW_Title" class="djCpnW_Title" rel="external">Join our SAM ADAMS BEER CLUB</a>
                   <span class="djCpnW_Business" id="djCpnW_Business">Davy's Locker Restaurant</span>    
              </li>
              
              <li>
-                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=923&amp;siteId=142922" id="ctl00_djCpnW_Repeater_ctl12_djCpnW_Title" class="djCpnW_Title" rel="external">FREE Vacuum Cleaner Repair Estimate right away while you wait.</a>
+                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=1255&amp;siteId=251945" id="ctl00_djCpnW_Repeater_ctl09_djCpnW_Title" class="djCpnW_Title" rel="external">Sushi Roll</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Azuma Asian Bistro</span>    
+             </li>
+             
+             <li>
+                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=923&amp;siteId=142922" id="ctl00_djCpnW_Repeater_ctl10_djCpnW_Title" class="djCpnW_Title" rel="external">FREE Vacuum Cleaner Repair Estimate right away while you wait.</a>
                   <span class="djCpnW_Business" id="djCpnW_Business">Handy Andy's Quality Vacuum Cleaners</span>    
              </li>
              
              <li>
-                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=561&amp;siteId=240100" id="ctl00_djCpnW_Repeater_ctl13_djCpnW_Title" class="djCpnW_Title" rel="external">2 FREE Benjamin Moore 2oz. color samples PLUS 10% OFF</a>
+                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=710&amp;siteId=44884" id="ctl00_djCpnW_Repeater_ctl11_djCpnW_Title" class="djCpnW_Title" rel="external">$10 OFF Any Spring 2013 Adult Education Evening Course</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Greater New Bedford Vocational</span>    
+             </li>
+             
+             <li>
+                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=562&amp;siteId=240100" id="ctl00_djCpnW_Repeater_ctl12_djCpnW_Title" class="djCpnW_Title" rel="external">$ 269 per ton Maine Woods Premium blend wood pellets</a>
                   <span class="djCpnW_Business" id="djCpnW_Business">Mahoney's Building Supply Inc.</span>    
              </li>
              
              <li>
-                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=1430&amp;siteId=212495" id="ctl00_djCpnW_Repeater_ctl14_djCpnW_Title" class="djCpnW_Title" rel="external">No rent increase until 2014!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Oakwood Senior Estates</span>    
+                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=1256&amp;siteId=251945" id="ctl00_djCpnW_Repeater_ctl13_djCpnW_Title" class="djCpnW_Title" rel="external">20% OFF Take-Out</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Azuma Asian Bistro</span>    
              </li>
              
              <li>
-                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=1363&amp;siteId=256971" id="ctl00_djCpnW_Repeater_ctl15_djCpnW_Title" class="djCpnW_Title" rel="external">FREE Fountain Drink</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Vivvy's Hot Dogs and Ice Cream</span>    
+                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=1070&amp;siteId=43619" id="ctl00_djCpnW_Repeater_ctl14_djCpnW_Title" class="djCpnW_Title" rel="external">Candy Making Supplies</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Billy Boy Candies</span>    
              </li>
              
              <li>
-                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=1481&amp;siteId=265022" id="ctl00_djCpnW_Repeater_ctl16_djCpnW_Title" class="djCpnW_Title" rel="external">PCT Federal Credit Union is YOUR Credit Union!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">PCT Federal Credit Union</span>    
-             </li>
-             
-             <li>
-                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=317&amp;siteId=43808" id="ctl00_djCpnW_Repeater_ctl17_djCpnW_Title" class="djCpnW_Title" rel="external">FREE Cheese Pizza with Purchase of 2 Fish &amp; Chips!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Blue Point Restaurant</span>    
-             </li>
-             
-             <li>
-                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=1422&amp;siteId=104721" id="ctl00_djCpnW_Repeater_ctl18_djCpnW_Title" class="djCpnW_Title" rel="external">Early Bird Gets the Discount!!!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Fay's Restaurant</span>    
-             </li>
-             
-             <li>
-                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=821&amp;siteId=248356" id="ctl00_djCpnW_Repeater_ctl19_djCpnW_Title" class="djCpnW_Title" rel="external">$100.00 OFF</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Morency Floors</span>    
-             </li>
-             
-             <li>
-                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=712&amp;siteId=42644" id="ctl00_djCpnW_Repeater_ctl20_djCpnW_Title" class="djCpnW_Title" rel="external">$5.00 OFF a $50.00 meal purchase</a>
+                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=714&amp;siteId=42644" id="ctl00_djCpnW_Repeater_ctl15_djCpnW_Title" class="djCpnW_Title" rel="external">Free Cup of Chowder with purchase of a Large Fish and Chip</a>
                   <span class="djCpnW_Business" id="djCpnW_Business">Danny's Seafood</span>    
+             </li>
+             
+             <li>
+                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=1423&amp;siteId=86148" id="ctl00_djCpnW_Repeater_ctl16_djCpnW_Title" class="djCpnW_Title" rel="external">Meet with a certified RN to develop a plan for patient care</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Personal Touch Home Care</span>    
+             </li>
+             
+             <li>
+                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=712&amp;siteId=42644" id="ctl00_djCpnW_Repeater_ctl17_djCpnW_Title" class="djCpnW_Title" rel="external">$3.00 OFF a $30.00 meal purchase</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Danny's Seafood</span>    
+             </li>
+             
+             <li>
+                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=1071&amp;siteId=43619" id="ctl00_djCpnW_Repeater_ctl18_djCpnW_Title" class="djCpnW_Title" rel="external">Cards</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Billy Boy Candies</span>    
+             </li>
+             
+             <li>
+                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=1096&amp;siteId=42572" id="ctl00_djCpnW_Repeater_ctl19_djCpnW_Title" class="djCpnW_Title" rel="external">SHRIMPMANIA - Lunch &amp; Dinner Special!</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Davy's Locker Restaurant</span>    
+             </li>
+             
+             <li>
+                  <a href="http://finditonline.com/sp?&amp;skin=4&amp;p=/includes/print_coupon&amp;adSiteId=1069&amp;siteId=43619" id="ctl00_djCpnW_Repeater_ctl20_djCpnW_Title" class="djCpnW_Title" rel="external">Old Fashioned Cough Drops</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Billy Boy Candies</span>    
              </li>
          
             </ul>   
@@ -1279,7 +1320,7 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
                         var rnd = Math.floor(Math.random() * chs.length);
                         str += chs.substring(rnd,rnd+1);}
                         var myImg = new Image();
-                        myImg.src = 'http:\/\/lsl' + 'metrics.djlmgdigital.com\/images\/coupon' + 'counter.gif?r=NB&w=250740:955,43808:315,267018:1483,142922:922,267018:1482,240100:562,250740:954,86148:1423,44884:710,248356:820,42572:1095,142922:923,240100:561,212495:1430,256971:1363,265022:1481,43808:317,104721:1422,248356:821,42644:712&b='+str;                                       
+                        myImg.src = 'http:\/\/lsl' + 'metrics.djlmgdigital.com\/images\/coupon' + 'counter.gif?r=NB&w=240100:288,43185:1513,251945:1254,42644:713,43808:315,142922:550,205080:826,42572:1095,251945:1255,142922:923,44884:710,240100:562,251945:1256,43619:1070,42644:714,86148:1423,42644:712,43619:1071,42572:1096,43619:1069&b='+str;                                       
                     </script>
                 
             
