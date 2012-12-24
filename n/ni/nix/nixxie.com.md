@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nixxie.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622032116id_/http%3A//www.nixxie.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nixxie.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224234338id_/http%3A//www.nixxie.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
