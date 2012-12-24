@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iwebchk.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611023202id_/http%3A//iwebchk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwebchk.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224112448id_/http%3A//iwebchk.com/privacy) for the most accurate reproduction.*
 
-# CakePHP: the rapid development php framework: Privacy
+# Privacy | Comprehensive Website Review and Analysis
 
 ### Privacy Policy
 
