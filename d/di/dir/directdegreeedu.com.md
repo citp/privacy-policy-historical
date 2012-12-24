@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directdegreeedu.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626231225id_/http%3A//www.directdegreeedu.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directdegreeedu.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225005347id_/http%3A//www.directdegreeedu.com/privacy.html) for the most accurate reproduction.*
 
 # Online education
 
