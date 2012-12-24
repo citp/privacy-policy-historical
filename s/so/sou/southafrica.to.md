@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southafrica.to privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603073945id_/http%3A//southafrica.to/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southafrica.to privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224182158id_/http%3A//southafrica.to/privacy.html) for the most accurate reproduction.*
 
 # SouthAfrica.TO privacy policy
 
