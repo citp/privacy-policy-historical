@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zolo.ca privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620122436id_/http%3A//zolo.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zolo.ca privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224114624id_/http%3A//zolo.ca/privacy.php) for the most accurate reproduction.*
 
-# Homes in Canada -zolo.ca
+# Homes in Canada zolo.ca
 
 ## PRIVACY POLICY
 
