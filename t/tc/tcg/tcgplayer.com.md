@@ -1,24 +1,6 @@
-> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606093611id_/http%3A//www.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224215254id_/http%3A//www.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
 
-# TCGplayer.com: Tradable and Collectible Game Player
-
-SUBSCRIBERS
-
-[](https://web.archive.org/premium/premiumlogin.asp) [](http://www.tcgplayer.com/subscribe/)
-
-**CHANNELS**
-
-[](http://forum.tcgplayer.com/) [](https://web.archive.org/db/article_search_result.asp?report_type=News) [](http://magic.tcgplayer.com/) [](http://vs.tcgplayer.com/) [](http://yugioh.tcgplayer.com/) [](http://wow.tcgplayer.com/) [](http://spoils.tcgplayer.com/) [](http://bleach.tcgplayer.com/) [](http://dreamblade.tcgplayer.com/) [](http://pokemon.tcgplayer.com/) [](http://heroclix.tcgplayer.com/) [](http://naruto.tcgplayer.com/) [](http://dm.tcgplayer.com/)
-
-**CONTEST**
-
-[](http://www.tcgplayer.com/contests/articles.asp)
-
-**SITE INFO**
-
-[](mailto:webmaster@tcgplayer.com) [](http://www.tcgplayer.com/advertise/)   
-|  |    
-
+# TCGplayer.com: Online Store for Magic, Yugioh, Cards, Miniatures, Singles, Packs and Booster Boxes
 
 ##  Privacy Statement for TCGplayer.com
 
@@ -38,7 +20,7 @@ Our Site uses cookies to deliver content specific to your interests. We also use
 
 **Third Party Cookies**
 
-In the course of serving advertisements to this site, our third-party ad server may place or recognize a unique “cookie” on your browser. 
+In the course of serving advertisements to this site, our third-party ad server may place or recognize a unique �cookie� on your browser. 
 
   
 
@@ -101,26 +83,4 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-[Webmaster@TCGplayer.com](mailto:webmaster@TCGplayer.com)All original content herein is Copyright 2000-2009 **Ascension Gaming Network, Inc.**  
-No portion of this web site may be used in any way without expressed written consent.  
-All rights reserved.  
-[Privacy Policy](https://web.archive.org/privacy.asp)  
-
-
-|  |  | LATEST DREAMBLADE ARTICLE  
----  
-LATEST SPOILS ARTICLE  
----  
-  
-|  **[GG.dec](http://spoils.tcgplayer.com/db/article.asp?ID=2007)**  
----  
-  
-In this week's instalment of Canadien Bacon, we are going to continue talking about “Rogue Decks” of 1st Edition. We're switching gears and playing the aggro game.   
-  
-LATEST Naruto ARTICLE  
----  
-  
-|  **[Naruto Adds Shonen Jump Events](http://naruto.tcgplayer.com/db/article.asp?ID=3383)**  
----  
-  
-There will be multiple tournaments held throughout the United States at select hobby retailers culminating in the National Championships to be held at the Gen Con Indy to take place in Indiana on August 7th and 8th. 
+[Webmaster@TCGplayer.com](mailto:webmaster@TCGplayer.com)
