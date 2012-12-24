@@ -1,30 +1,85 @@
-> *The following text is extracted and transformed from the enterprisemembers.com privacy policy that was archived on 2009-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090828184609id_/http%3A//www.enterprisemembers.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterprisemembers.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224105830id_/http%3A//www.enterprisemembers.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# EnterpriseMembers.com - Digitasl product Resellers Membership Site
 
-**EnterpriseMembers.com** values and respects the privacy of its visitors and members. This policy, known as the Privacy Policy, details the type of information we collect from you, and what we do with that information. The privacy policy shall be accepted as part of the Terms of Service.
+**
 
-**_Personal Information_**
+Privacy Policy
 
-**EnterpriseMembers.com** collects your Username, First Name, Last Name, and E-mail address when you first sign up with the site. We also ask for additional, optional information through our registration form, including but not limited to your mailing address.
+**
 
-**_Method of Information Collecting_**
+Your Privacy is Our Policy
 
-**EnterpriseMembers.com** uses "cookies" to store and track visitor information. A cookie is a small text file that a server can automatically store on your computer and retrieve later. We instruct your browser to place a "cookie" into a file on your hard drive when you visit our site. Each time you return to the site, the cookie is re-sent to us so that we may track which of our services you use and what content you view (including advertisements). In addition, we collect the Internet Protocol address of each visitor to our site, which is a number that can be used to identify your internet service provider, among other things.
+**
 
-**_Use of Information_**
+Our Commitment:
 
-**EnterpriseMembers.com** may disclose information we have collected from you and/or content you have made available on our site in the following circumstances, and also may disclose such information and/or content to others when **EnterpriseMembers.com** believes in good faith that the law requires it, or to protect the rights or property of **EnterpriseMembers.com** or its visitors.
+**
 
-Upon request, **EnterpriseMembers.com** may disclose your contact information to customers of your website, government agencies, any trademark or copyright owner requiring to contact you in regards to transactions or content on your site.
+Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs.
 
-Information submitted by you at the time of registration (including but not limited to your name and e-mail address) may be used but not limited to marketing and promotional purposes by **EnterpriseMembers.com**. 
+**
 
-This information may also be shared with other companies who offer a co-branded or rebranded versions of our site, who offer services in conjunction with **EnterpriseMembers.com** , or who are business partners of **EnterpriseMembers.com**. **EnterpriseMembers.com** will not otherwise identify you personally to other companies, or to any advertisers. **EnterpriseMembers.com** provides demographic information in aggregate form to advertisers on our site, without identifying any user personally. 
+What Information Do We Collect ?
 
-We may use information provided by you when you participate in contests or surveys on our site to send information about **EnterpriseMembers.com** to you, or to give information to advertisers in aggregate form.
+**
 
-**EnterpriseMembers.com** uses cookies to determine whether you are logged on to the site, to maintain your session, and to automatically log you out if your computer remains idle for a specified amount of time when using our service. We also use cookies to measure the traffic on our site, track which of our services you use, which content you view (including advertisements) and how long you view it. We collect IP addresses for administrative purposes (such as to help diagnose problems with our server) and to gather aggregate demographic information about our visitors. 
+When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
-By using **EnterpriseMembers.com** and disclosing information to us you expressly consent to the uses described in this Privacy Statement.  
+**
 
+Credit Card Information 
+
+**
+
+If you choose to purchase products or services from us or our partners, you will need to give personal information and authorization to obtain information from various credit services Like PayPal.com, 2Checkout.com.
+
+In addition to providing the foregoing information to our partners, if you choose to correspond further with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
+
+**
+
+How Do We Use the Information 
+
+**
+
+That You Provide to Us? Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we to notify you about important changes to our Web site, new services and special offers we think you will find valuable. The lists used to send you product and service offers are developed and managed under our traditional corporate standards designed to safeguard the security and privacy of our customers personal information. As a customer, you will be given the opportunity, at least once annually, to notify us of your desire not to receive these offers.
+
+**
+
+Notice of New Services and Changes
+
+**
+
+Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our client, you will be given the opportunity to notify us of your desire not to receive these offers by clicking on a response box when you receive such an offer or by sending us a request.
+
+**
+
+Disclose Information to Outside Parties
+
+**
+
+We may provide aggregate information about our customers, sales, Web site traffic patterns and related Web site information to our affiliates or reputable third parties, but this information will not include personally identifying data, except as otherwise provided in this Privacy Policy.
+
+**
+
+Legally Compelled Disclosure of Information
+
+**
+
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
+
+**
+
+Other Web Sites Linked to Our Web Site
+
+**
+
+We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site. Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web sites own rules and policies. Please read over those rules and policies before proceeding.
+
+**
+
+Your Consent
+
+**
+
+By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it
