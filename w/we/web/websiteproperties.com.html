@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the websiteproperties.com privacy policy that was archived on 2012-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120514002411id_/http%3A//websiteproperties.com/index.php/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the websiteproperties.com privacy policy that was archived on 2012-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121224184458id_/http%3A//websiteproperties.com/index.php/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -27,6 +27,7 @@
   <script>DD_belatedPNG.fix('.png');</script>
   <![endif]-->
   <!--[if IE 7]><link href="/site/css/filters/ie7.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+  <link href="/site/css/landingpages.css" rel="stylesheet" type="text/css">
 
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -52,12 +53,21 @@
 
 <div class="header png">
   <a href="/index.php/" class="logo"><img src="/site/img/logo.png" class="png" alt="" title=""></a>
+  
+  <!--
   <ul class="links">
   	<li>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>    
-    <li class="buy"><a href="/index.php/i-want-to-buy.html" class="png">— I want<br>&nbsp;&nbsp;&nbsp;to buy</a></li>
-    <!--<li class="sell"><a href="/index.php/i-want-to-sell.html" class="png">&mdash; I want<br />&nbsp;&nbsp;&nbsp;to sell</a></li>-->
-    <li class="help"><a href="/index.php/broker-services.html" class="png">— I need<br>&nbsp;&nbsp;&nbsp;a Broker</a></li>
+    <li class="buy"><a href="/index.php/i-want-to-buy.html" class="png">&mdash; I want<br />&nbsp;&nbsp;&nbsp;to buy</a></li>
+    <!--<li class="sell"><a href="/index.php/i-want-to-sell.html" class="png">&mdash; I want<br />&nbsp;&nbsp;&nbsp;to sell</a></li>
+    <li class="help"><a href="/index.php/broker-services.html" class="png">&mdash; I need<br />&nbsp;&nbsp;&nbsp;a Broker</a></li>
   </ul><!--/.links -->
+
+
+<ul class="links" style="padding-left:240px;">
+	<li class="buy"><a href="/index.php/i-want-to-buy.html" class="png">I want<br> to buy</a></li>
+                <li class="help"><a href="/index.php/broker-services.html" class="png">I need<br>a Broker</a></li>
+</ul>
+
 
   <ul class="nav">
        
@@ -158,7 +168,6 @@
   <!--/.logout -->
 
 </div><!--/.header -->
-
 <div class="middle">
 
   <div class="right_side">
@@ -399,11 +408,12 @@
     <a href="/index.php/search/advanced.html">Advanced Search</a>
 
   </form></div><div class="block for_brokers">
-<h2>Follow Us on Twitter!</h2>
-<a href="http://www.twitter.com/WebsiteProp"><img src="http://twitter-badges.s3.amazonaws.com/follow_bird-a.png" alt="Follow WebsiteProp on Twitter"></a>
-<p>Let us Tweet you new listings announcements!</p>
-</div>
-
+    	<ul>
+        	<li><a target="_blank" href="http://www.twitter.com/WebsiteProp"><img src="/site/img/icon-twitter.png" alt="Twitter"></a></li>
+            <li><a target="_blank" href="https://plus.google.com/115718493429202663307/posts"><img src="/site/img/icon-google.png" alt="Google +"></a></li>
+            <li><a target="_blank" href="http://www.facebook.com/pages/Website-Properties-LLC/100329276727855"><img src="/site/img/icon-facebook.png" alt="Facebook"></a></li>
+        </ul>
+    </div>
      
 
 
@@ -417,13 +427,7 @@
                         
 
 
-        
-
-<h1>Privacy Policy</h1>
-
-
-
-
+        <h1>Privacy Policy</h1>
 
 <div class="intro">
 
@@ -445,7 +449,6 @@
 
   
 </div><!--/.middle -->
-
 <div class="footer">
 
   <ul class="nav">
@@ -579,6 +582,24 @@
 
 </div><!--/.global -->
 </div>
+<script src="/site/css/jquery.validate.js"></script>
+<script type="text/javascript">
+$().ready(function() {
+    $("#commentForm").validate(
+{
+    invalidHandler: function(form, validator) {
+      var errors = validator.numberOfInvalids();
+      if (errors) {
+        $("#errorwarnings").show();
+      } else {
+        $("#errorwarnings").hide();
+      }
+    }
+ }
+
+);
+});
+</script>
 
 
 </body></html>
