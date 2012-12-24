@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fullycatholic.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624021953id_/http%3A//fullycatholic.com/index/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullycatholic.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224022106id_/http%3A//fullycatholic.com/index/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
      Saturday, 01 January 2011 20:24 
      Christopher Phillips 
-     Hits: 1477 
+     Hits: 2009 
 
 **What information do we collect?**   
 We collect information from you when you register on our site.
@@ -46,6 +46,9 @@ This policy was last modified on 01 Jan 2011
 **Contacting Us**   
 If there are any questions regarding this **privacy policy** you may contact us using the information below.
 
-[http://fullycatholic.com/index/contact-us](http://www.fullycatholic.com/index/contact-us)
+<http://fullycatholic.com/index/contact-us>
 
+[< Terms and Conditions](http://fullycatholic.com/index/terms-and-conditons)|  | [Online Gift Shop >](http://fullycatholic.com/index/privacy-policy/285-gift-shop)  
+---|---|---  
+  
 Last Updated on Monday, 24 January 2011 21:41 
