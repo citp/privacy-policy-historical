@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bauergriffinonline.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524195959id_/http%3A//www.bauergriffinonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bauergriffinonline.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224215802id_/http%3A//bauergriffinonline.com/privacy.php) for the most accurate reproduction.*
 
 # Celebrity News | Celebrity Photos | Celebrity Gossip | BauerGriffinOnline.com
 
@@ -137,7 +137,7 @@ You can access your personal information on our websites and correct, amend, or 
 We do not knowingly collect personally identifiable information from children under 13. In the event that we learn that we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible.
 
 **Conditions of Use Photos**  
-All images are Bauer-Griffin's exclusive property. Bauer-Griffin is engaged in negotiations for their distribution and syndication globally, and your publication of the images on your blog/website without permission adversely affects Bauer-Griffin’s position in the negotiations and the value of the images, for which Bauer-Griffin will seek compensation from you and reserves the right to seek legal remedy.   
+All images are Bauer-Griffin's exclusive property. Bauer-Griffin is engaged in negotiations for their distribution and syndication globally, and your publication of the images on your blog/website without permission adversely affects Bauer-Griffinâ€™s position in the negotiations and the value of the images, for which Bauer-Griffin will seek compensation from you and reserves the right to seek legal remedy.   
 If you are interested in purchasing images for your publication please contact [contact@bauergriffin.com](mailto:contact@bauergriffin.com). YOU CAN NO LONGER COPY OR DRAG OFF WATERMARKED IMAGES FOR USE ON A BLOG WITH OUT PAYMENT. If you decide to visit the Bauer-Griffin websites, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law. 
 
 **Third Party Websites**  
