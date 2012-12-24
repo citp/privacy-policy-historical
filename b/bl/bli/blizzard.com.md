@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blizzard.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629020215id_/http%3A//us.blizzard.com/en-us/company/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blizzard.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224061028id_/http%3A//us.blizzard.com/en-us/company/about/privacy.html) for the most accurate reproduction.*
 
 # Blizzard Entertainment:Privacy Policy
 
