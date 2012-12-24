@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the npdor.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614011851id_/http%3A//www.npdor.com/English/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npdor.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224135053id_/http%3A//npdor.com/English/privacy.asp) for the most accurate reproduction.*
 
 # NPD Online Research - Making your opinions count
 
   
-Updated: May 2012
+
+
+Updated: December 19, 2012 
 
 **About NPD**
 
@@ -21,33 +23,41 @@ NPD respects your privacy and protects your personally identifiable information:
 
 
 
-In this privacy statement, we describe our privacy practices, including how we collect, protect and use your personally identifiable information. By becoming a Member of our panel, you accept these practices. This privacy statement covers the site [www.npdor.com](http://www.npdor.com/) and the site [www.sweepland.com](http://www.sweepland.com/). 
+In this privacy statement, we describe our privacy practices, including how we collect, protect and use your personally identifiable information. By becoming a Member of our panel, you accept these practices. This privacy statement covers the site [www.npdor.com](http://www.npdor.com/) and the site [www.sweepland.com](http://www.sweepland.com/).
 
 **NPD and TRUSTe**
 
-The NPD Group has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's is an independent third party, whose mission is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, you should first contact Janet Hall, Research Director, via mail at NPD Online Research, 900 West Shore Road, Port Washington, NY 11050 or via e-mail at [janet.hall@npdor.com](mailto:janet.hall@npdor.com). If you are not satisfied with our response you can contact TRUSTe here. 
+The NPD Group has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe is an independent third party, whose mission is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, you should first contact Janet Hall, Research Director, via mail at NPD Online Research, 900 West Shore Road, Port Washington, NY 11050 or via e-mail at [janet.hall@npdor.com](mailto:janet.hall@npdor.com). If you are not satisfied with our response you can contact TRUSTe [here](http://privacy.truste.com/privacy-seal/The-NPD-Group/validation?rid=44b1f1b1-5bdb-421f-acf9-8d7431cb8af3).
 
-We may from time to time change our privacy practices, but will notify you directly if we materially change the way that we use your personally identifiable information. Please see Notification of Changes below for more details. 
+We may from time to time change our privacy practices, but will notify you directly if we materially change the way that we use your personally identifiable information. Please see "Notification of Changes" below for more details.
 
 **MEMBERSHIP**
 
 **Information Collected During Registration**
 
-In order to become a Member, participate in surveys and access certain portions of the NPD Online Research web site, you must first complete our Member registration process. This requires you to select a password and give us contact information (e.g. e-mail address) and demographic information (e.g. zip/postal code, date of birth, income level). You may also be required to provide information concerning other relevant topics (e.g. your computer type and information about your web usage, personal interests, etc). NPD does not collect your name and mailing address during our registration process. 
+In order to become a Member, participate in surveys and access certain portions of the NPD Online Research web site, you must first complete our Member registration process. This requires you to either: 1. select a password and give us contact information (e.g. e-mail address) and demographic information (e.g. zip/postal code, date of birth, income level) or 2. log in using your social network data (see Social Network Data below), in which case a password will be randomly assigned to you by NPD. You may also be required to provide information concerning other relevant topics (e.g. your computer type and information about your web usage, personal interests, etc). NPD does not collect your name and mailing address during our registration process. 
 
-After you register for the NPDOR Panel, US Panelists will be given the opportunity to join SweepLand, our fee-free Sweepstakes program where you earn points for completing eligible surveys and can use those points as entries into sweepstakes on www.sweepland.com. An NPDOR panelist must complete a one-time SweepLand registration in order to activate their SweepLand account. SweepLand registration information, including your name and mailing address, is collected solely to ensure that we can deliver prizes to sweepstakes winners and to keep members informed of SweepLand program updates / happenings. You do not have to join SweepLand to be a member of the NPDOR panel. 
+After you register for the NPDOR Panel, you will be given the opportunity to join SweepLand, our fee-free Sweepstakes program where you earn points for completing eligible surveys and can use those points as entries into sweepstakes on www.sweepland.com. An NPDOR panelist must complete a one-time SweepLand registration in order to activate their SweepLand account. SweepLand registration information, including your name and mailing address, is collected solely to ensure that we can deliver prizes to sweepstakes winners and to keep members informed of SweepLand program updates / happenings. You do not have to join SweepLand to be a member of the NPDOR panel. 
 
-Your contact information is used to send you a welcome e-mail when you register, to notify you when there is a survey available, or for Member communications (for example, Sweepstakes Winners, birthday wishes or Member newsletters). 
+Your contact information is used to send you a welcome e-mail when you register, to notify you when there is a survey available, or for Member communications for example, Sweepstakes Winners, birthday wishes or Member newsletters).
 
-Demographic data is collected to ensure that we send you surveys relevant to your lifestyle and interests. It is used only for statistical and classification purposes in aggregated or summary form (grouped together with other panelists' data) and is NOT shared or sold on an individual basis. 
+Demographic data is collected to ensure that we send you surveys relevant to your lifestyle and interests. It is used only for statistical and classification purposes in aggregated or summary form (grouped together with other panelists' data) and is NOT shared or sold on an individual basis.
 
 We do not knowingly collect personally identifiable information from users who are under the age of 13.
 
-At registration and in each communication with you thereafter, you may opt-out of receiving future surveys and mailings; see _How To Unsubscribe_ below. 
+At registration and in each communication with you thereafter, you may opt-out of receiving future surveys and mailings; see _How To Unsubscribe_  below. 
+
+**Social Network Data/OpenID**
+
+We provide our Members the ability to register and log in using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you with the option to share certain personal information with us such as your e-mail address to pre-populate our sign up form, and NPD will provide you with a randomly assigned password for use with NPDOR. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
+When we use these services, we adhere to the terms and conditions of each social network or OpenID provider with regard to use of information you choose to share with us through these services, and we provide you with the social networks' standard disclosures and opt-in tools. 
+
+Participation is voluntary. You have the option to disable Facebook Connect or other Open ID provider's sign-in service at any time, see _How To Unsubscribe_  below. 
 
 **Correcting/Updating Your Information**
 
-We encourage our Members to keep their information as up-to-date as possible. To change your e-mail address, Member name, password, or make changes to the demographic and other profile information you provided during the registration process, please visit: http://www.npdor.com and log in. Once you log in, please visit ["Change My Info"](https://web.archive.org/web/20120614011851id_/http%3A//www.npdor.com/English/memberservices.asp). 
+We encourage our Members to keep their information as up-to-date as possible. To change your e-mail address, Member name, password, or make changes to the demographic and other profile information you provided during the registration process, please visit: http://www.npdor.com and log in. Once you log in, please visit ["Change My Info"](https://web.archive.org/web/20121224135053id_/http%3A//npdor.com/English/memberservices.asp).
 
 If you are a SweepLand member, you may change your name, mailing address and e-mail preferences by visiting [www.sweepland.com](http://www.sweepland.com/). Then, after logging in, please click on 'My Account'. 
 
@@ -60,20 +70,23 @@ Personally identifiable information means any information that may be used to id
   1. to allow service providers (agents) retained by us to perform panel-related services on our behalf (e.g. sweepstakes program management and fulfillment). These service providers receive this information on a strictly limited, confidential basis; they are required to keep the information confidential and to use it only for the purposes of providing the services that we have asked them to perform;
   2. to comply with law, governmental requirement or legal process;
   3. to protect our property and legal rights, including those of our partners and customers, when we believe that they are, or are at risk of, being misappropriated, interfered with, or injured; and 
-  4. to facilitate co-sponsored surveys with strategic partners bound by this Privacy Policy; provided, however, that such strategic partners will not utilize your personal information to send any marketing or promotional materials to you.
+  4. to facilitate co-sponsored surveys with strategic partners bound by this Privacy Policy; provided, however, that such strategic partners will not utilize your personal information to send any marketing or promotional materials to you.
 
 
 
-In the event of the acquisition of NPD, or substantially all of its assets relating to NPD Online Research or its online survey business, the information we have collected from you will be among the acquired assets. Such information will remain subject to restrictions no less stringent than permitted under the Privacy Policy in effect at that time. Please see "Notification of Changes" for information on how we will contact you. 
+In the event of the acquisition of NPD, or substantially all of its assets relating to NPD Online Research or its online survey business, the information we have collected from you will be among the acquired assets. Such information will remain subject to restrictions no less stringent than permitted under the Privacy Policy in effect at that time. Please see "Notification of Changes" for information on how we will contact you.
 
 **Member Surveys**
 
-NPD surveys collect a wide variety of information on a diverse range of current topics. Your participation in our surveys is always voluntary. However, once you have submitted survey responses to NPD, those responses cannot be recalled or altered. The information collected through NPD's surveys is used only for statistical and classification purposes in aggregated or summary form and is NOT shared, sold or used on an individual basis. The information we collect is stored and processed in our data processing facility, which is currently located in New York, U.S.A. 
+NPD surveys collect a wide variety of information on a diverse range of current topics. Your participation in our surveys is always voluntary. However, once you have submitted survey responses to NPD, those responses cannot be recalled or altered. The information collected through NPD's surveys is used only for statistical and classification purposes in aggregated or summary form and is NOT shared, sold or used on an individual basis. The information we collect is stored and processed in our data processing facility, which is currently located in New Jersey, U.S.A. 
+
+**Data Retention**
+
+We will retain your information for as long as your account is active or as needed to provide you surveys and/or rewards. We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. If you wish to cancel your membership or request that we no longer retain your information, please contact us at [janet.hall@npdor.com](mailto:janet.hall@npdor.com).
 
 **Sweepstakes and Rewards**
 
-Panelists who are legal residents of the 50 United States (and the District of Columbia) and 13 years or older at the time of enrollment are eligible to join SweepLand, NPDOR's fee-free Sweepstakes program where panelists earn points for completing eligible surveys and can use those points as entries into sweepstakes on [www.sweepland.com](http://www.sweepland.com/). A NPDOR panelist must complete a one-time SweepLand registration in order to activate their SweepLand account. SweepLand registration information, including your name and mailing address, is collected solely to ensure that we can deliver prizes to sweepstakes winners and to keep members informed of SweepLand program updates / happenings. SweepLand membership is not required to be a member of the NPDOR panel.   
-For complete SweepLand Terms and Conditions, please [click here](http://sweepland.com/Terms_Cond.aspx). 
+Panelists who are legal residents of the 50 United States (and the District of Columbia) or Canada, and 13 years or older at the time of enrollment are eligible to join SweepLand, NPDOR's fee-free Sweepstakes program where panelists earn points for completing eligible surveys and can use those points as entries into sweepstakes on [www.sweepland.com](http://www.sweepland.com/). A NPDOR panelist must complete a one-time SweepLand registration in order to activate their SweepLand account. SweepLand registration information, including your name and mailing address, is collected solely to ensure that we can deliver prizes to sweepstakes winners and to keep members informed of SweepLand program updates / happenings. SweepLand membership is not required to be a member of the NPDOR panel. For complete SweepLand Terms and Conditions, please [click here](http://sweepland.com/Terms_Cond.aspx). 
 
 By responding to a survey which includes a sweepstakes offer, or by enrolling in SweepLand, you agree to let NPD share your contact information (e-mail address) with an independent third-party sweepstakes administrator. Your contact information is used by the administrator only to let you know if you have won a sweepstakes or to communicate program information. To receive your prize, you will be required to submit and/or verify certain information to the administrator (e.g. name and mailing address). This information is used only to mail your prize to you. When claiming prizes, winners also complete an online affidavit, which gives NPD permission to post winners' names and state or country of residence.
 
@@ -93,7 +106,7 @@ If a Member elects to use our referral service for informing friends about NPD O
 
 **Cookies**
 
-A cookie is a piece of information that web sites commonly transfer to the computer that is browsing that web site in order to be able to improve the user's experience. [www.npdor.com](http://www.npdor.com/) and [www.sweepland.com](http://www.sweepland.com/) use browser cookies to maintain information about use of our web site. These cookies are primarily for our Members' convenience, for example, they maintain information about the current survey session and record Members' personal language preferences for viewing the site. They contain absolutely no personal or confidential information. Users of [www.npdor.com](http://www.npdor.com/) and [www.sweepland.com](http://www.sweepland.com/) may reject or delete our cookies and still use the web site, although in a restricted fashion. 
+A cookie is a piece of information that web sites commonly transfer to the computer that is browsing that web site in order to be able to improve the user's experience. [www.npdor.com](http://www.npdor.com/) and [www.sweepland.com](http://www.sweepland.com/) use browser cookies to maintain information about use of our web site. These cookies are primarily for our Members' convenience, for example, they maintain information about the current survey session and record Members' personal language preferences for viewing the site. They contain absolutely no personal or confidential information. Users of [www.npdor.com](http://www.npdor.com/) and [www.sweepland.com](http://www.sweepland.com/) may reject or delete our cookies and still use the web site, although in a restricted fashion. The use of browser cookies, flash cookies, or web beacons by third parties on our web site is not covered by this Privacy Policy, as we do not have access or control over their use. 
 
 **Log Files**
 
@@ -105,11 +118,13 @@ NPD and its agents employ physical, electronic and managerial protections and pr
 
 **HOW TO UNSUBSCRIBE**
 
-Registration on our site and participation in our online surveys is voluntary. You can elect to remove your e-mail address from our mailing list at any time. Once it has been removed, you will no longer receive surveys or communications from us, or be entered in, or be eligible for, future Member sweepstakes. To unsubscribe, please log in at: http://www.npdor.com and visit ["Change My Info"](https://web.archive.org/web/20120614011851id_/http%3A//www.npdor.com/English/memberservices.asp). On the ["Change My Info"](https://web.archive.org/web/20120614011851id_/http%3A//www.npdor.com/English/memberservices.asp) page, click on "Unsubscribe" and follow the instructions. Please keep in mind that it may take up to ten business days to complete this process. To cancel your SweepLand membership, but remain an NPDOR panelist, please visit [www.sweepland.com](http://sweepland.com/). Then, after logging in, please click on 'My Account'. 
+Registration on our site and participation in our online surveys is voluntary. You can elect to remove your e-mail address from our mailing list at any time. Once it has been removed, you will no longer receive surveys or communications from us, or be entered in, or be eligible for, future Member sweepstakes. To unsubscribe, please log in at: [www.npdor.com](http://www.npdor.com/) and visit "Change My Info". On the "Change My Info" page, click on "Unsubscribe" and follow the instructions. Please keep in mind that it may take up to ten business days to complete this process. To cancel your SweepLand membership, but remain an NPDOR panelist, please visit [www.sweepland.com](http://sweepland.com/). Then, after logging in, please click on 'My Account'. 
+
+Unsubscribing will also delete from our database the information you provided by registering and logging in through an Open ID provider (e.g. Facebook) if those methods were used to connect with our Web site. In the case of Facebook, removing the app from your Facebook account will also delete from our database the information you shared through Facebook. 
 
 **NOTIFICATION OF CHANGES**
 
-We reserve the right to modify this policy at any time, but rest assured, if the change involves how we disclose your personally identifiable information, we will notify you in advance, to your e-mail address on record. For any other material changes to our privacy policy, we will post a prominent notice on the NPD Online Research Home Page (http://www.npdor.com) for 30 days. If you decide to unsubscribe from our survey panel as a result of any changes to the privacy policy, we will respect your decision unconditionally. 
+We reserve the right to modify this policy at any time, but rest assured, if the change involves how we disclose your personally identifiable information, we will notify you in advance, to your e-mail address on record. For any other material changes to our privacy policy, we will post a prominent notice on the NPD Online Research Home Page [(www.npdor.com)](http://www.npdor.com/) for 30 days. If you decide to unsubscribe from our survey panel as a result of any changes to the privacy policy, we will respect your decision unconditionally. 
 
 **CONTACTING NPD**
 
