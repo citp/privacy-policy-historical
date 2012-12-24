@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salvationarmyusa.org privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625113839id_/http%3A//www.salvationarmyusa.org/usn/www_usn_2.nsf/vw-dynamic-index/B5A63F32B3FF9A188525743D004BE227%3FOpendocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salvationarmyusa.org privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224114752id_/http%3A//www.salvationarmyusa.org/usn/www_usn_2.nsf/vw-dynamic-index/B5A63F32B3FF9A188525743D004BE227%3FOpendocument) for the most accurate reproduction.*
 
 # The Salvation Army: Privacy Policy
 
@@ -57,5 +57,5 @@ chris_priest@uss.salvationarmy.org
 
 Western Territory Director  
 Deborah Stekl Knutson  
-Deborah_Stekl_Knutson@usw.salvationarmy.org  
+deborah.knutson@usw.salvationarmy.org  
 (562) 491-8351 Office Phone
