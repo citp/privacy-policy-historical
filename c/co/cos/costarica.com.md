@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costarica.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510200104id_/http%3A//costarica.com/corporate/privacy.dot) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costarica.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224092950id_/http%3A//costarica.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # Costa Rica - Privacy
 
