@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the i-am-youth.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622085622id_/http%3A//www.i-am-youth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-am-youth.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224164340id_/http%3A//www.i-am-youth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | I AM YOUTH
+# Privacy Policy | I Am Youth
 
 **Privacy Policy for www.i-am-youth.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at vijayraj.pokiri[at]gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.i-am-youth.com/contact/ "Contact").
 
 At www.i-am-youth.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.i-am-youth.com and how it is used.
 
