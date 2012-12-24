@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livechatscript.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513105206id_/http%3A//www.livechatscript.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livechatscript.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224035503id_/http%3A//www.livechatscript.com/privacy.aspx) for the most accurate reproduction.*
 
-# Free Live Chat Software | Get free chat script for your website
+# Free Live Chat Script |Live Chat Software for Mobile, tablets, PC, Linux, Mac
 
 Privacy Policy
 
