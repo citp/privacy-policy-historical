@@ -1,61 +1,107 @@
-> *The following text is extracted and transformed from the leisure.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618103428id_/http%3A//leisure.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leisure.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224021120id_/http%3A//www.admedia.com/privacy) for the most accurate reproduction.*
 
-# Leisure | Privacy Statement
+# AdMedia Online Ad Network | Affiliate Advertising Solutions
 
-Trust is a major part of doing business with an organization. We value your trust and appreciate your business, and that is why we protect your personal information to the best of our ability. The goal of this Privacy Statement is to share and clarify what data we collect, the information we use, and what we share with others. We also wish to disclose what your personal choices are pertaining to privacy matters. Please read our Privacy Statement so that you have a clear understanding of how we operate.
+THE FOLLOWING PRIVACY POLICY POLICYDETAILS THE ADMEDIA PLEDGE TO KEEPING YOUR INFORMATION PRIVATE.
 
-### The Information Leisure.com Collects
+Effective Date: August 30, 2012
 
-When website browsers visit Leisure.com, information is included by us or our venders, in order to provide users with personalized products and services or with promotions and offers of interest to you. This information is also used to service your account, and help us to efficiently respond to all of your needs.
+This privacy policy describes how AdMedia, Inc. ("AdMedia") collects and uses the personal information you provide on our Web sites: www.thankyouoffer.com, www.thankyouemail.com, www.remarketing.com, www.prerollstream.com, www.overlayad.com, www.midrollstream.com, www.intextual.com, www.footerroll.com, www.dittodomains.com, www.contextual.com, www.admobile.com, www.admediabrands.com, www.404bucks.com, www.admedia.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-At Leisure.com we follow the typical online business practice of utilizing “Cookies.” We use this technology to gather statistical data in order to improve customer service and overall customer experience. Cookies help Leisure.com recognize you by name, save passwords as desired, and allow visitors to utilize shopping carts. Cookies are also used to generate a list of programs, services, and products based on your personal preferences. If you do not wish to provide Leisure.com with personal identifiable information, your cookie data will not be linked to your account.  
-Statistical data may also be collected as you brose Leisure.com sites by us or our vendors. IP Addresses are typically collected in order to determine browser type, operating system, average amount of time spent on our sites, search behavior, pages viewed, times site was accessed, and other relevant information on user experience.
+[](https://privacy.truste.com/privacy-seal/Ad-com-Interactive-Media,-Inc-/validation?rid=1825b7dc-2cca-41b8-b3ca-31cac0bf5673 "TRUSTe online privacy certification")
 
-Web Beacons are used to produce offers on our sites. Some email offers may include Web Beacons in order to help us record the rate of response, measure offer effectiveness, and enhance the relevancy of our email offers. Web Beacons do not collect personal identifiable information that has been entered on Leisure.com websites.
+AdMedia has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program only covers information that may be collected through this website. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [copyright@admedia.com](mailto:copyright@admedia.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-Be aware that opportunities to submit personally identifiable information about other people may present themselves. For example, this may occur if you wish to order a gift and wish to have it sent to the recipient directly. Any information submitted by you, about you or another party, or at your discretion.  
-How Leisure.com Uses and Shares the Information We Collect  
-Leisure.com uses the personally identifiable information we and our vendors collect in order to:  
+## What type of information does AdMedia collect?
 
+We collect the following personal information from you (Publishers ONLY):
 
-  * Complete transactions
-  * Respond to requests
-  * Deliver products and services
-  * Notify users of updates, services, products, offers and promotions of interest
+  * Contact Information such as name, email address, mailing address, phone number
+  * Billing Information
+  * Social Security Number
 
 
 
-This information may be combined with publicly available information in order to customize your customer experience. We wish to offer only relevant offers, and this method helps us do so. We may also use this data to market to you through other advertising channels.
+## What does AdMedia do with my data?
 
-Your information may be shared with vendors in order to provide you with relevant products and services. All companies who do business with Leisure.com must safeguard user personally identifiable information. We may also share the data we collect with our business partners. Our partners have been carefully selected. 
+AdMedia only collects data to enhance and personally tailor our website to meet your needs. Personal information that is collected allows us to customize website content and generate targeted advertisements based on your particular preferences. Cookies help us distinguish between individual users, tailor fit homepages, control advertisement frequency, and so on.
 
-In certain cases, we may be required to share the data we collect in order to comply with the law. This may come in the form of a subpoena, government request, court order, or other legal process. Your data may be shared if a debt is owed, in order to reduce fraud, prevent criminal activity, or to protect the rights of Leisure.com, our users or affiliates.
+IP addresses help us diagnose server issues and help us administer AdMedia.com. Without your IP address it would be impossible to keep our services running 24/7, and we want to be here for you around the clock.
 
-### Advertisements That Link to Leisure.com Sites
+Every email sent to AdMedia users is to meet your needs. We offer website updates, inform you of new features, allow you to register for special offers and sweepstakes, newsletters all for your enjoyment. If at any point these emails become annoying or bothersome, simply follow the unsubscribe mechanism in these emails or you can email [copyright@admedia.com](mailto:copyright@admedia.com).
 
-Vendors are hired by Leisure.com to strategically place targeted advertisements on our websites in order to provide our users with only highly relevant products and services. These vendors also track and report users activity on our websites, enabling us to study what ads and site components attract visitors. This allows us to generate an enhanced user experience. Cookies are placed in agreement with our Privacy Statement.
+Also note that your email address helps AdMedia respond to any questions you have posed, issues you have encountered, or complaints made. We require your email address so we may address these issues.
 
-The Leisure.com Privacy Statement does not cover the actions made or practiced by outside vendors. We cannot monitor the information that such vendors may collect, or the methods used. Each vendor has their own specific policy, so make sure to review such policy before providing any personally identifiable information.
+We may provide your personal information to companies that provide services to help us with our business activities such as payment processing, email communications and career fulfillment. These companies are authorized to use your personal information only as necessary to provide these services to us. We have a co-branding relationship with our service provider of our career page. The personal information that you enter is owned by AdMedia.
 
-How to Opt Out of Leisure.com Offers & Promotions   
-At the bottom of every email sent by Leisure.com, is an option to Opt Out of our email services. Click the link and you will be removed from that email list.
+We may also disclose your personal information
 
-Although you may Opt Out of receiving email offers and promotions, we may still send you emails providing you with service notification about your account. These emails may include account information, answers to questions you have posed, confirm a sale, or may fulfill a legal requirement.
+  * as required by law, such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * to any other third party with your prior consent to do so.
+  * if AdMedia is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * to any other third party with your prior consent to do so
 
-### Keeping your information safe
 
-Leisure.com does all we can to protect your personally identifiable information with our extensive security measures from unauthorized use and access. Submitting personally identifiable information by email is not safe, because the information can be read by anyone who intercepts it.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
+## Cookies
 
-### Updating your Leisure account
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-Any changes to your personally identifiable information related to your Leisure.com account can be made by contacting a Leisure representative by phone or email.
+We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
 
-### Leisure.com Privacy Statement Changes
+We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
 
-Leisure.com reserves the right to alter our Privacy Statement at our discretion. This may come in the form of posting revisions to the policy on this site. Any changes to the policy are effective upon posting.
+If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as previously entered account information, will be limited. 
 
-### Contact the Leisure team
+## Third Party Cookies
 
-You may contact the Leisure Team by [Clicking Here](https://web.archive.org/web/20120618103428id_/http%3A//contact/) to visit the Contact page.
+The use of cookies by third parties is not covered by our privacy policy. We do not have access or control over these cookies.
+
+## Clear Gifs (Web Beacons/Web Bugs)
+
+We employ and our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. This clear Gif placement allows AdMedia a seamless and unobtrusive way to retarget our users to ensure that all ads have been personally tailored to that individual. 
+
+Your IP address helps AdMedia diagnose server problems and helps us administer website functions. IP addresses provide us with geographical information and aggregated information on how visitors utilize AdMedia.com. By monitoring search queries, access times, and traffic patterns we can determine how to market users and make their experience more enjoyable.
+
+## Security
+
+The security of your personal information is important to us. When you enter sensitive information (such as a social security number/Tax ID) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [copyright@admedia.com](mailto:copyright@admedia.com).
+
+## Public Forums
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [copyright@admedia.com](mailto:copyright@admedia.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+## Who else gets to see my personal information?
+
+When you request services from our business partners AdMedia will share your personal information with them, so that you can receive what you have requested. If you have any questions or concerns about an AdMedia business partner, you may contact them directly. AdMedia is not responsible for the data collection or privacy practices of business partners. Your personal information may also be shared with AdMedia owned businesses.
+
+Targeted advertisements enhance user experience, and so at times we may share specifically non personal information with advertisers, so that they may present you with relevant advertisements. Geographical information may be shared along with demographics, but we will never share personally identifiable information. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+
+## How do I delete my information from AdMedia?
+
+If your personal information changes, you may correct or update by logging into your account and going to Account Info or by emailing [copyright@admedia.com](mailto:copyright@admedia.com) or by contacting us by postal mail at the contact information listed below. If you no longer desire our service, please contact us at the contact information listed below in Contacting AdMedia.
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [copyright@admedia.com](mailto:copyright@admedia.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+At this current time it is not possible to completely delete your user information from the AdMedia database. If you are concerned with the security of your personal data you can remove the cookie stored on your browser, which will allow the server to perceive you as a new user. In the future you can change your browser setting to not accept cookies. Be aware that removing cookies does prevent you from participating in certain activities.
+
+## Will I be notified of a security breach?
+
+AdMedia has taken many steps to ensure that your personal information is not made publicly available and that is only accessible to the user who originally entered it. However, in the event of an unlikely security breach, the user will be notified via email immediately.
+
+## Do linked sites honor your policy?
+
+Linked sites are not run or controlled by AdMedia. The website does contain many linked sites so that we may offer you additional services and products that we feel you will enjoy. Each linked site is owned by an outside company; therefore, they have established their own polices in respect to privacy. AdMedia won't be held responsible for privacy practices or policies or content of linked sites. Also note that any personal information supplied to an outside advertiser is at your own risk.
+
+## AdMedia will notify you of changes
+
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+## Contacting AdMedia
+
+In regards to privacy issues or the collection of personal data, any questions or concerns can be directed to our dedicated representatives. Please contact them by email at [copyright@admedia.com](mailto:copyright@admedia.com).
+
+AdMedia 901 W. Alameda Ave., Suite 102, Burbank, CA 91506
