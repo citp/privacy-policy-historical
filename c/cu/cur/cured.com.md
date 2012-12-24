@@ -1,161 +1,107 @@
-> *The following text is extracted and transformed from the cured.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528144131id_/http%3A//cured.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cured.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224021120id_/http%3A//www.admedia.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# AdMedia Online Ad Network | Affiliate Advertising Solutions
 
-_Last updated on 19 October, 2005_
+THE FOLLOWING PRIVACY POLICY POLICYDETAILS THE ADMEDIA PLEDGE TO KEEPING YOUR INFORMATION PRIVATE.
 
-If you have questions or concerns about eurekster's collection, use, or disclosure of your personal information, please email us at [privacy@eurekster.com](mailto:privacy@realcontacts.com).
+Effective Date: August 30, 2012
 
-Like you, we hate the thought of someone misusing personal information. Here are our key promises to you:
+This privacy policy describes how AdMedia, Inc. ("AdMedia") collects and uses the personal information you provide on our Web sites: www.thankyouoffer.com, www.thankyouemail.com, www.remarketing.com, www.prerollstream.com, www.overlayad.com, www.midrollstream.com, www.intextual.com, www.footerroll.com, www.dittodomains.com, www.contextual.com, www.admobile.com, www.admediabrands.com, www.404bucks.com, www.admedia.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-1.      We never provide your email address or other Personally Identifiable Information to anyone not described in this Privacy Policy unless you have given us permission.
+[](https://privacy.truste.com/privacy-seal/Ad-com-Interactive-Media,-Inc-/validation?rid=1825b7dc-2cca-41b8-b3ca-31cac0bf5673 "TRUSTe online privacy certification")
 
-2.      We will do all we can to protect your identity so you are not contacted by people you don't want to contact you due to your joining eurekster. 
+AdMedia has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program only covers information that may be collected through this website. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [copyright@admedia.com](mailto:copyright@admedia.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-3.      If you decide at any time to unsubscribe from eurekster, your connections to the rest of your network are removed, and we will not contact you again. 
+## What type of information does AdMedia collect?
 
-4.      eurekster uses the RealContacts Networking Service to provide its socially networked search service. The RealContacts Privacy Policy applies to the information that You and We share with RealContacts and is incorporated and included here by reference.
+We collect the following personal information from you (Publishers ONLY):
 
-### The information we collect
+  * Contact Information such as name, email address, mailing address, phone number
+  * Billing Information
+  * Social Security Number
 
-If you just browse our web site or use our search service and do not sign-up for the eurekster service, we will only collect anonymous information from you, such as tracking the web pages you visit, to help us improve the service.
 
-If you sign-up for the service, we will collect Personally Identifiable Information from you such as your email address and contact details. Existing eurekster members may invite you to join the service; if so, they will enter your email address in the service and send you an email invitation. We will retain this 3rd party Personally Identifiable Information in that case only to track and match the invitation to you if you decide to visit our web site and accept the invitation. 
 
-We collect three types of information from you:
+## What does AdMedia do with my data?
 
--         Personally Identifiable Information that you submit to us when you sign-up for the service or when you use the service as a logged-in user. Your Personally Identifiable Information is information that identifies or can be used to identify, contact, or locate you, or from which your identification or contact information can be derived. Examples include your name, email address, telephone number, etc. Note that if you enter Personally Identifiable Information as keywords intended for other Eurekster Services users to see or in a Eurekster searchbox on the Eurekster website with the private search box unticked or a 3rd party website with a Eurekster provided searchbox, your "eurekster Search" terms or on other websites, that information will be visible to others in the displayed list of searches or websites. 
+AdMedia only collects data to enhance and personally tailor our website to meet your needs. Personal information that is collected allows us to customize website content and generate targeted advertisements based on your particular preferences. Cookies help us distinguish between individual users, tailor fit homepages, control advertisement frequency, and so on.
 
--         Passively Collected Personally Identifiable Information that we create in the form of statistics and logs. This information may be linked to your Personally Identifiable Information that you submit to us in order to track, improve, and personalize the service for you. Examples include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. 
+IP addresses help us diagnose server issues and help us administer AdMedia.com. Without your IP address it would be impossible to keep our services running 24/7, and we want to be here for you around the clock.
 
--         Anonymous information, meaning information from which your Personally Identifiable Information cannot be extracted or deduced. An example is statistics on how often users visit the various web pages.
+Every email sent to AdMedia users is to meet your needs. We offer website updates, inform you of new features, allow you to register for special offers and sweepstakes, newsletters all for your enjoyment. If at any point these emails become annoying or bothersome, simply follow the unsubscribe mechanism in these emails or you can email [copyright@admedia.com](mailto:copyright@admedia.com).
 
-We do not collect or match information about you from other sources, such as public records or bodies, or private organizations.
+Also note that your email address helps AdMedia respond to any questions you have posed, issues you have encountered, or complaints made. We require your email address so we may address these issues.
 
-We do not knowingly collect information from children.
+We may provide your personal information to companies that provide services to help us with our business activities such as payment processing, email communications and career fulfillment. These companies are authorized to use your personal information only as necessary to provide these services to us. We have a co-branding relationship with our service provider of our career page. The personal information that you enter is owned by AdMedia.
 
-### What the information is used for
+We may also disclose your personal information
 
-You may choose to make some of your Personally Identifiable Information and other information visible to other users in your network of contacts on eurekster, or possibly beyond. This is necessary for the operation of some parts of the service, and is under your control. An example of information you may choose to disclose is your email address when you send invitations to others to join eurekster. 
+  * as required by law, such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * to any other third party with your prior consent to do so.
+  * if AdMedia is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * to any other third party with your prior consent to do so
 
-We use your Personally Identifiable Information and Anonymous Information for the following purposes:
 
--         Operation of the service
 
--         Technical administration of the web site
+## Cookies
 
--         Research and Development, to improve the services and develop new ones
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
--         Customer support and administration
+We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
 
--         Marketing, but only to market specific new eurekster services and features to you, through the use of emails and newsletters. You can request not to receive such communication ("opt-out"), by changing your notification preferences under "My Account," after logging on.
+We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
 
-### Disclosure of your information
+If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as previously entered account information, will be limited. 
 
-This section describes the circumstances in which we disclose your information to others.
+## Third Party Cookies
 
-Our services are hosted by Hosting and Internet Service Providers. The information we collect from you is collected and stored on their systems, on our behalf. They have agreed to not use your information for any other purpose and to not disclose your information to any 3rd party.
+The use of cookies by third parties is not covered by our privacy policy. We do not have access or control over these cookies.
 
-We may have other sub-contractors or business partners who assist with the hosting and/or operation of the services and customer support. We may share your Personally Identifiable Information with them in order to operate and improve the services, but they will be bound by this Privacy Policy to not use or disclose your information for any other purpose. An example sub-contractor could be a Licensed Credit Reference and Financial Agency, who we would engage only if your use of the service requires payment or credit authentication and processing.
+## Clear Gifs (Web Beacons/Web Bugs)
 
-If eurekster establishes corporate presence in other countries or creates other business units to provide more efficient service, we would share your information with these new entities. They will protect your information in accordance with this Privacy Policy. 
+We employ and our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. This clear Gif placement allows AdMedia a seamless and unobtrusive way to retarget our users to ensure that all ads have been personally tailored to that individual. 
 
-We have independent business partners who run complementary services to eurekster. We will share your Personally Identifiable Information with them only upon your specific "opt-in" approval, in order for the complementary services to operate. 
+Your IP address helps AdMedia diagnose server problems and helps us administer website functions. IP addresses provide us with geographical information and aggregated information on how visitors utilize AdMedia.com. By monitoring search queries, access times, and traffic patterns we can determine how to market users and make their experience more enjoyable.
 
-We may disclose your information to a company or individual that acquires part or all of our assets or company, but we would require them to either honour this privacy policy or else inform you under the "what's new" section of our web site that changes have occurred, and give you the opportunity to decide whether to accept them or unsubscribe from the service.
+## Security
 
-We will disclose your address and contact details to postal, courier, or other companies in order to deliver you material that you have specifically requested or indicated willingness to receive.
+The security of your personal information is important to us. When you enter sensitive information (such as a social security number/Tax ID) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-We may share anonymous information with others at our discretion, but your Personally Identifiable Information cannot be extracted from this information.
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [copyright@admedia.com](mailto:copyright@admedia.com).
 
-We may disclose your personal information if we believe the law requires us to do so, in order to comply with a judicial proceeding, a court order, or legal process served on us.
+## Public Forums
 
-We do not trade in your Personally Identifiable Information with any other person or organization not mentioned above without your specific permission.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [copyright@admedia.com](mailto:copyright@admedia.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-### Our use of Cookies
+## Who else gets to see my personal information?
 
-A "cookie" is a small data file transferred by our web site to your computer's hard drive. We send cookies when you visit our web site or use the service. Accepting the cookies used on our site does not give us access to information on your computer other than the cookie itself, but we may use the cookies to identify your computer. 
+When you request services from our business partners AdMedia will share your personal information with them, so that you can receive what you have requested. If you have any questions or concerns about an AdMedia business partner, you may contact them directly. AdMedia is not responsible for the data collection or privacy practices of business partners. Your personal information may also be shared with AdMedia owned businesses.
 
-Many cookies are "session" cookies, meaning the cookie does not stay on your computer after you leave our web site or close your browser. Cookies that remain on your computer are called "permanent" cookies. 
+Targeted advertisements enhance user experience, and so at times we may share specifically non personal information with advertisers, so that they may present you with relevant advertisements. Geographical information may be shared along with demographics, but we will never share personally identifiable information. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
-Our only use of cookies is an optional permanent cookie that makes it easier for you to login to the eurekster site, or if you are not logged-in, to remember your preferences for Swiki™ websites, SearchPublisher™ websites and other non-logged in services. If you check "remember my settings on this computer" when you sign up or login, we create a cookie on that computer which will identify you and pre-fill the login details when you return to the site. 
+## How do I delete my information from AdMedia?
 
-We urge you to not check "remember my settings on this computer" when logging-in on a computer that is not yours or that you share with others. If you have previously set this on a computer, you can remove the cookie by logging-off and then logging in again with the "remember my settings" box unchecked.
+If your personal information changes, you may correct or update by logging into your account and going to Account Info or by emailing [copyright@admedia.com](mailto:copyright@admedia.com) or by contacting us by postal mail at the contact information listed below. If you no longer desire our service, please contact us at the contact information listed below in Contacting AdMedia.
 
-Most browsers automatically accept cookies, but you can usually refuse cookies or selectively accept certain cookies by adjusting the preferences in your browser.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [copyright@admedia.com](mailto:copyright@admedia.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-### Use of the Internet to transfer information
+At this current time it is not possible to completely delete your user information from the AdMedia database. If you are concerned with the security of your personal data you can remove the cookie stored on your browser, which will allow the server to perceive you as a new user. In the future you can change your browser setting to not accept cookies. Be aware that removing cookies does prevent you from participating in certain activities.
 
-When you send or retrieve information from our web site, the information will travel over the Internet, perhaps even internationally. The security and safety of your information while in transit is outside our control. 
+## Will I be notified of a security breach?
 
-### Transfer of your Information to other Countries
+AdMedia has taken many steps to ensure that your personal information is not made publicly available and that is only accessible to the user who originally entered it. However, in the event of an unlikely security breach, the user will be notified via email immediately.
 
-You consent to the transfer of your information to countries if and when required for operation of the current and future Services, subject to this Privacy Policy.
+## Do linked sites honor your policy?
 
-### The European Union Data Protection Directive
+Linked sites are not run or controlled by AdMedia. The website does contain many linked sites so that we may offer you additional services and products that we feel you will enjoy. Each linked site is owned by an outside company; therefore, they have established their own polices in respect to privacy. AdMedia won't be held responsible for privacy practices or policies or content of linked sites. Also note that any personal information supplied to an outside advertiser is at your own risk.
 
-If you reside in the European Union (EU) or if any transfer of information between you and the Services is governed by the European Union Data Protection Directive or national laws implementing that Directive, then you consent to the transfer of such information within and outside of the European Union to countries as required by the current and future Services, subject to this Privacy Policy.
+## AdMedia will notify you of changes
 
-### Retention of your information
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-If you are a member, we will retain your Personally Identifiable Information for as long as you are a member of eurekster. If you unsubscribe from the service, we reserve the right but not the obligation to delete your information from our records.
+## Contacting AdMedia
 
-### Accessing, correcting, updating, or removing your information 
+In regards to privacy issues or the collection of personal data, any questions or concerns can be directed to our dedicated representatives. Please contact them by email at [copyright@admedia.com](mailto:copyright@admedia.com).
 
-If you wish to access, correct, update, or remove your Personally Identifiable Information that you submitted to us, you can do so by logging on to eurekster and selecting "Manage My Account". If you submitted the information as part of a service, such as setting up a Swicki™ service, you can directly edit the information in the relevant service area of the web site.
-
-You can also ask us if we keep personal data on you by sending us an email at [privacy@eurekster.com](mailto:privacy@realcontacts.com).
-
-If you contact us, we will send you an email to your preferred email address on your account and you must reply to that email before we take action on your account. This is for your protection, to validate that someone else is not trying to access or modify your information. If your preferred email address is no longer valid, you must login to the service and modify the email address. If your preferred email address is no longer valid and you do not recall your password, you can request by clicking on "?" by the login box that you password be sent to any alternate email addresses you have configured on your account. If you have no valid alternate email addresses on your account, you can contact us by email from another email address to explain and give as many details as you can recall of your contacts and account settings. At our discretion, we may assist you with reactivating the account, but it is likely we will request that you open a new account. 
-
-If you have no account with us, we will reply directly to the email from which you sent your request (note that in this case we hold none of your Personally Identifiable Information).
-
-We will reply to you by email within one week, at no charge.
-
-We allow you to challenge the Personally Identifiable Information that we hold about you and, where appropriate and possible, you may have it erased, corrected, or completed.
-
-### Notification of changes to this Privacy Policy
-
-This Privacy Policy is subject to change at any time. If we change it, we will update the "last updated" date at the top of this policy. If we make material changes, we will notify you on the "What's New" section of the web site, that you see on your personalized home page after logging-in. 
-
-If the change is to use your Personally Identifiable Information for new purposes related to the eurekster services within eurekster, our sub-contractors, and current business partners, we offer you these ways to opt-out from those new purposes:
-
--         You can login to your account at [http://www.eurekster.com](http://www.realcontacts.com/). This is the fastest and easiest way. In some cases, we may offer you the option to opt-out of the new usage. In all cases you have the option to unsubscribe from the service.
-
--         by sending an email to [privacy@eurekster.com](mailto:privacy@eurekster.com)
-
-If the change is to use your Personally Identifiable Information for a new service with a new business partner, we would inform you specifically about the new service in the "What's New" section of the web site and possibly through our email newsletter, unless you have selected to not receive newsletters. We would only disclose your Personally Identifiable Information to the new business partner if you specifically consent ("opt-in") to the new service.
-
-### Communications from us
-
-We send you a welcoming email after you sign-up to tell you how to get started with the service. Established members will occasionally receive information on our services, announcements, and a newsletter. Out of respect for your privacy we give you the option to opt-out and not receive many of these types of communications.
-
-Newsletter:
-
-By default all users are subscribed to our newsletters. You may choose to not receive them by logging-on and changing your preferences under "My Account."
-
-Service Announcements:
-
-On rare occasions it is necessary to send you a strictly service related announcement. For instance, if our service is suspended for maintenance for an extended period we might send you an email. It is not possible for you to opt-out of these communications, although you do have the option to unsubscribe from the service.
-
-Customer Service:
-
-We communicate with you to provide services you request and in response to issues with your account. We generally reply by email, but we will reply by phone or by post if circumstances require it.
-
-### Security 
-
-eurekster will always make every effort to protect your information. When sensitive information is submitted via the web site it is protected both on-line and off-line. 
-
-During any future online payment process, when sensitive information such as your credit card number is entered, we will provide SSL secure encryption service to protect your information. 
-
-When you use a computer other than your own to access eurekster, we urge you to NOT select "remember my settings on this computer" when you log-in, and when you are finished to logout of the site, clear the Internet Browser offline content (or cache), and close the browser session. 
-
-We act to protect your information off-line. Our services operate in a locked environment with access control and intrusion detection. All information relating to you is restricted in our organization. Only those employees and sub-contractors who specifically need the information to perform their job (such as our support team) are given access to Personally Identifiable Information. All employees are obliged to sign our Employee Privacy Agreement, and all sub-contractors have agreed to not use your Personally Identifiable Information for any other purpose and to not disclose it to anyone else. 
-
-### Links
-
-The web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of other sites. We encourage you to be aware of this when you leave our site and to read the privacy statements of other sites. This privacy statement applies solely to information collected by web sites under the eurekster.com domain. 
-
-### Contacting eurekster 
-
-If you have questions or suggestions about this privacy policy, please contact the Privacy Officer at eurekster by email at [privacy@eurekster.com](mailto:privacy@eurekster.com)
+AdMedia 901 W. Alameda Ave., Suite 102, Burbank, CA 91506
