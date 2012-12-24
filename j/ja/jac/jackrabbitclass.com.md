@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jackrabbitclass.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509133507id_/http%3A//www.jackrabbitclass.com/privacysecurity.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackrabbitclass.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224133123id_/http%3A//www.jackrabbitclass.com/privacysecurity.asp) for the most accurate reproduction.*
 
-# Online Class/Gym Management Software - Privacy & Security Information
+# Gymnastics Software - Cloud Based Gymnastics Class and Studio Management Software | Class Management Database - Privacy & Security Information
 
 Jackrabbit is committed to respecting your privacy. We recognize your need for appropriate protection and management of personally identifiable information you share with us. We want you to understand the care with which we treat your personal information.
 
-[**Frequently Asked Questions**](https://web.archive.org/web/20120509133507id_/http%3A//www.jackrabbitclass.com/faqs.asp)
+[**Frequently Asked Questions**](https://web.archive.org/web/20121224133123id_/http%3A//www.jackrabbitclass.com/faqs.asp)
 
 To protect your privacy, we have adopted the following principles:
 
@@ -32,10 +32,10 @@ Personal data privacy is a policy we are committed to and Jackrabbit is constant
 
 ## Join our monthly e-newsletter
 
+Before Jackrabbit, I was not using any type of software system. It was so easy to learn the program through your online manual, video help, and customer support. I am really impressed with the amount of enhancements that are made to the software. You are always improving and adding new helpful ways to make your program even better. The biggest help has been online registration! This has saved us hours of paperwork. As a studio we look much more organized, professional, and definitely stand out from other local competitors. Thank you for all that you do!
+
 Kids First runs over 3000 kids through summer camps. Well, I became reacquainted with Mark Mahoney and his Jackrabbit biz software. At the time, I was mildly reticent about the fact it was web-based, yet in August, Kids First decided to make the 'big switch' due largely to Mark's integrity and my 'gut feel' that Jackrabbit was going to the 'program of the future.' During the data transfer, things went seamlessly despite our large enrollment.
 
 What about the day-to-day 'usability' of Jackrabbit? For 9 months the Jackrabbit Support Team has worked closely with the Kids First crew to make the enhancements necessary to handle a club of 5100 enrollment. At the May BOOT CAMP, when asked how she liked Jackrabbit, Mary, Kids First's Customer Service Department Leader responded by saying 'I am ecstatic. It is fast and so easy to learn for my crew.' Those were the words I was waiting to hear and the reason I decided it was time to write this testimonial.
 
 Do you want a speedy, stable, safe, easy to learn and use, future-oriented program owned, written and supported by a team of people with impeccable integrity? Then may I strongly suggest Jackrabbit.
-
-Jackrabbit has done a great job with the online registration feature. We have linked in the Jackrabbit software to our website, so now our clients can register themselves online day or night. Busy moms today really love this feature, and I can tell you that moms often register their kids late at night after all the kids are tucked away for the evening. This has helped us bring a new level of convenience and service to our clients as now they can register from anywhere at any time. Online registration saves both us and our customers time and money, and frees our staff up to do even more amazing things for our clients and our business. 
