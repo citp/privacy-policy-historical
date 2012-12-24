@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapportive.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622170814id_/http%3A//rapportive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapportive.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224061626id_/http%3A//rapportive.com/privacy) for the most accurate reproduction.*
 
 # Rapportive | Pledge of Privacy
 
