@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotmaths.com.au privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624214408id_/http%3A//www.hotmaths.com.au/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotmaths.com.au privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224112146id_/http%3A//www.hotmaths.com.au/home/privacy) for the most accurate reproduction.*
 
 # Privacy
 
