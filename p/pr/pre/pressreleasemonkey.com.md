@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pressreleasemonkey.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624073548id_/http%3A//www.pressreleasemonkey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressreleasemonkey.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224012930id_/http%3A//www.pressreleasemonkey.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy PolicyPress Release Distribution | Press Release Distribution
+# Privacy Policy - Press Release Monkey
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
