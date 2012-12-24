@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pccwglobal.net privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503231908id_/http%3A//pccwglobal.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pccwglobal.net privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224100337id_/http%3A//pccwglobal.net/privacy-policy) for the most accurate reproduction.*
 
-# privacy-policy
+# Privacy Policy Statement
 
 **1.   Information collection**
 
