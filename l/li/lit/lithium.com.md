@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lithium.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623080030id_/http%3A//www.lithium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lithium.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224141148id_/http%3A//lithium.com/privacy) for the most accurate reproduction.*
 
 # Lithium Technologies Social CRM and Community Solutions - Privacy Policy - Lithium
 
@@ -72,7 +72,7 @@ Users can update or correct their personally identifiable information or remove 
 
 ### security of your personally identifying information
 
-We follow generally accepted industry standards to protect the personally identifying information submitted to us, both during transmission and once we receive it. Please keep in mind, however, no method of transmission over the Internet, or any method of electronic storage is perfectly secure. If you have any questions about our security practices or security on our website, you can visit our security information page at [lithium.com/security](http://www.lithium.com/security) or email us at [privacy@lithium.com](mailto:privacy@lithium.com)
+We follow generally accepted industry standards to protect the personally identifying information submitted to us, both during transmission and once we receive it. Please keep in mind, however, no method of transmission over the Internet, or any method of electronic storage is perfectly secure. If you have any questions about our security practices or security on our website, you can visit our security information page at [lithium.com/security](https://web.archive.org/security) or email us at [privacy@lithium.com](mailto:privacy@lithium.com)
 
 ### choices and opt-out options
 
@@ -88,5 +88,5 @@ If you have any questions about this privacy statement, the practices of this we
 
 Lithium Technologies  
 6121 Hollis Street #4  
-Emeryville, CA 94107  
+Emeryville, CA 94608  
 USA 
