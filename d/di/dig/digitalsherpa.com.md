@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalsherpa.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615193142id_/http%3A//nci.com/common/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalsherpa.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224201010id_/http%3A//nci.com/common/privacy.html) for the most accurate reproduction.*
 
 # Network Communications, Inc.
 
@@ -84,7 +84,7 @@ The safety of children is very important to us. We maintain general audience Web
 We encourage parents to create a safe place for children on the Internet. Parental control protections (such as computer hardware, software or filtering services) are commercially available that may assist parents in limiting access to content that may be harmful to minors. We also encourage parents to monitor their child's use of the Internet and teach them not to disclose any personally identifiable information (including their age, appearance, school, grade, etc.) about themselves in emails, chat rooms, or on other sites, except with your knowledge and approval.
 
 Where can you get additional information about us or our Websites?  
-Our Websites are owned and operated by Network Communications, Inc., 2305 Newpoint Parkway, Lawrenceville, GA 30043. For further information about our company, please visit our company's Website. 
+Our Websites are owned and operated by Network Communications, Inc., 2 Sun Court NW, Suite 300, Norcross, GA 30092. For further information about our company, please visit our company's Website. 
 
 **Orders for Products and Services.**  
 We may make certain products available to visitors and registrants of the Web Site. If you order any products, you hereby represent and warrant that you are 18 years old or older. You agree to pay in full the prices for any purchases you make either by credit/debit card concurrent with your online order or by other payment means acceptable to Network Communications, Inc.. You agree to pay all applicable taxes. If payment is not received by us from your credit or debit card issuer or its agents, you agree to pay all amounts due upon demand by us. Certain products that you purchase and/or download on or through the Web Site may be subject to additional terms and conditions presented to you at the time of such purchase or download.
