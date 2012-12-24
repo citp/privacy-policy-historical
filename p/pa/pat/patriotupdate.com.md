@@ -1,37 +1,33 @@
-> *The following text is extracted and transformed from the patriotupdate.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510052028id_/http%3A//patriotupdate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriotupdate.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224011336id_/http%3A//patriotupdate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Patriot Update
 
 ## Privacy Policy
 
-### Privacy Policy for www.patriotupdate.com
-
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at updates@patriotupdate.com.
-
-At www.patriotupdate.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.patriotupdate.com and how it is used.
+At PatriotUpdate.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by PatriotUpdate.com and how it is used.
 
 **Log Files**
 
-Like many other Web sites, www.patriotupdate.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, PatriotUpdate.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 **Cookies and Web Beacons**
 
-www.patriotupdate.com may use cookies.
+PatriotUpdate.com may use cookies.
 
-_DoubleClick DART Cookie_
-
-  * Google, as a third party vendor, uses cookies to serve ads on www.patriotupdate.com.
-  * Google’s use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx "DART cookie FAQ") enables it to serve ads to users based on their visit to www.patriotupdate.com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL -<http://www.google.com/privacy_ads.html>
+  * Google, as a third party vendor, uses cookies to serve ads on PatriotUpdate.com
+  * Google’s use of the [DART cookie](http://www.google.com/doubleclick/ "DART cookie FAQ") enables it to serve ads to users based on their visit to PatriotUpdate.com and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: <http://www.google.com/policies/privacy/ads/>
 
 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google AdSense.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.patriotupdate.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on PatriotUpdate.com. They automatically receive your IP address when this happens. They may also use other technologies (such as placing and reading on your browser cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements, to personalize the advertising content you see, and to collect data in the ad serving process.
 
-www.patriotupdate.com has no access to or control over these cookies that are used by third-party advertisers.
+PatriotUpdate.com has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.patriotupdate.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. PatriotUpdate.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/contact/).
