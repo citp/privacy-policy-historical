@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buxp.org privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618225305id_/http%3A//www.buxp.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buxp.org privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224090824id_/http%3A//buxp.org/privacy.php) for the most accurate reproduction.*
 
 # BUXP - Exclusive Revenue Sharing Network
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 This is the website of BUXP, Ltd. 
 
-We can be reached via [contact](https://web.archive.org/web/20120618225305id_/http%3A//www.buxp.org/contact.php) form. 
+We can be reached via [contact](https://web.archive.org/web/20121224090824id_/http%3A//buxp.org/contact.php) form. 
 
 **Cookies:** With respect to cookies: We use cookies to store visitors preferences. 
 
