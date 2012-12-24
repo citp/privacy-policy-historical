@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lessonpix.com privacy policy that was archived on 2012-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629074950id_/http%3A//lessonpix.com/articles/11/26/LessonPix%2520Privacy%2520Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lessonpix.com privacy policy that was archived on 2012-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121224011906id_/http%3A//lessonpix.com/articles/11/26/LessonPix%2BPrivacy%2BPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html class=" webkit chrome linux js"><head>
 <meta name="google-site-verification" content="rZEQPD3gaU-hLCTigQuK6DilfHKMsWjh1FOpgTZ-58c">
@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="/cssCG/layout.css" type="text/css">
   <link rel="stylesheet" href="/css/actionButtons.css" type="text/css">
   <link rel="stylesheet" href="/cssCG/forum.css" type="text/css">
-  <link rel="stylesheet" href="/cssCG/main.css" type="text/css">
+  <link rel="stylesheet" href="/cssCG/main2.css" type="text/css">
   <link rel="stylesheet" href="/css/star_rating.css" type="text/css">
   <link rel="stylesheet" href="/cssCG/dash.css" type="text/css">
   <link rel="stylesheet" href="/cssCG/home.css" type="text/css">
@@ -90,11 +90,49 @@ function EvalSound(soundobj) {
 </script>
 <script type="text/javascript" src="/js/jquery.tablesorter.min.js"></script>
 <script type="text/javascript" src="/js/jquery.colourPicker.js"></script>
+<script type="text/javascript" src="/js/jquery.ui.touch-punch.min.js"></script>
+
+   <script type="text/javascript" src="/js/jquery.cycle.all.js"></script>
 <script type="text/javascript">
    $(function(){
+
+       $("#blendDot").click(function() {
+	   $("#blendInstr").dialog('open');
+	   return false;
+	 });
+
+       $('img.lpImage,#actionShots img').bind('contextmenu', function(e){
+	   var ip = '204.236.235.245';	     var username = '';	 $.ajax({
+		 url: "/reportRightClick.php",
+	       dataType: 'json',
+	       data: {event: e.target.src, ip: ip, username:username}
+	   }
+	   );
+	   if (username == '')
+	     {
+//	       $('#rightClickWarning').dialog('open');
+	       return false;
+	     }
+	   else
+	     return true;
+	 }); 				 
        $('.tablesorter').tablesorter();
-       $('#carousel').infiniteCarousel({displayThumbnails: false, imagePath: '/js/infinitecarousel/images/', textholderHeight: '.20'});
-       $('div.thumb').parent().css({'margin':'0 auto','width':'650px', 'margin-bottom': '5px'});
+       $('#cycle').cycle({fx:'scrollHorz',
+	     pager: '#cyclePager',
+	     speed: 1000,
+	     timeout:4400,
+	     pauseOnPagerHover: true}
+	     );
+       $('#cycleToggle').click(function() {
+	   $('#cycle').cycle('toggle', true);
+	   if (this.src.match(/.*pause.png$/))
+	     this.src = '/images/play.png';
+	   else
+	     this.src = '/images/pause.png';
+	 });
+       //       $('#cycle').cycle('pause');
+       //       $('#carousel').infiniteCarousel({displayThumbnails: false, imagePath: '/js/infinitecarousel/images/', textholderHeight: '.20'});
+       //       $('div.thumb').parent().css({'margin':'0 auto','width':'650px', 'margin-bottom': '5px'});
 
        $('select.colorPicker').colourPicker({
 	 ico:	'/images/jquery.colourPicker.gif', 
@@ -103,7 +141,22 @@ function EvalSound(soundobj) {
 
 
 //       $('body').supersleight({shim: '/images/x.gif'});
-       // Dialog			
+       // Dialog
+       $('#blendInstr').dialog({
+	 autoOpen: false,
+	     width: 400,
+	     height: 300,
+	     modal:true,
+	   dialogClass: 'saveDialog',
+	     resizable: false,
+	     title: "Consonent Blend Info",
+	     buttons: [
+		       {
+		       text: "Ok",
+			   click: function() { $(this).dialog("close"); }
+		       }
+		       ] 
+	 });
        $('#dialog').dialog({
 	 autoOpen: false,
 	     width: 680,
@@ -111,6 +164,21 @@ function EvalSound(soundobj) {
 	     modal:true,
 	     title: "LessonPix Instructional Video",
 	     buttons: {
+	     "Close": function() { 
+	       $(this).dialog("close"); 
+	     }
+	   }
+	 });
+       $('.lpdialog').dialog({
+	 autoOpen: false,
+	     width: 680,
+	     height: 515,
+	     modal:true,
+	     title: "LessonPix",
+	     buttons: {
+	     "Close": function() { 
+	       $(this).dialog("close"); 
+	     },
 	     "Close": function() { 
 	       $(this).dialog("close"); 
 	     }
@@ -126,6 +194,12 @@ function EvalSound(soundobj) {
        // Dialog Link
        $('#dialog_link').click(function(){
 	   $('#dialog').dialog('open');
+	   return false;
+	 });
+
+       // Dialog Link
+       $('.lpdialog_link').click(function(){
+	   $('.lpdialog').dialog('open');
 	   return false;
 	 });
        
@@ -163,6 +237,7 @@ function EvalSound(soundobj) {
 
      });
      });
+
 </script>
 <link rel="canonical" href="http://lessonpix.com/articles/11/26/LessonPix+Privacy+Policy">
 <meta name="description" content="Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.">
@@ -175,10 +250,10 @@ function EvalSound(soundobj) {
 -->
 
 <script type="text/javascript">
-
+  /* It's possible that _gaq has already been setup with transaction info */
   var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-11604569-1']);
-_gaq.push(['_trackPageview']);
+_gaq.push(['_setDomainName', 'lessonpix.com']);
 
 
 _gaq.push(['_setCustomVar',
@@ -187,6 +262,7 @@ _gaq.push(['_setCustomVar',
 	   'NO',      // Sets the value of "User Type" to "Member" or "Visitor" depending on status.  Required parameter.
 	   2             // Sets the scope to session-level.  Optional parameter.
 	   ]);
+  _gaq.push(['_trackPageview']);
 
 (function() {
   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -252,6 +328,8 @@ _gaq.push(['_setCustomVar',
               <a href="/articles/11/48/LessonPix%20Pricing%20and%20Benefits">Pricing &amp; Benefits</a> 
 	      <span class="divider"></span> 
               <a href="http://lessonpix.blogspot.com">Tips &amp; Ideas Blog</a> 
+	      <span class="divider"></span> 
+              <a href="/imageRequest.php">Request a Picture</a> 
         </div>
 <!-- breakcrumbs and filter needs to move into the pages -->
       <form action="/kwSearch.php" method="get">
@@ -265,7 +343,8 @@ _gaq.push(['_setCustomVar',
 
     <div id="breadcrumbShadow"></div>
 
-<!-- End of Header --><div id="contentWrapper" class="articleCat">
+<!-- End of Header -->
+											     <div id="contentWrapper" class="articleCat">
 <div id="cat_crumbs" style="float:left;">
 <a href="/articles/1/Articles">Articles</a> &gt; <a href="/articles/11/Articles/About+Us">About Us</a> &gt; LessonPix Privacy Policy</div>
 
@@ -284,10 +363,12 @@ _gaq.push(['_setCustomVar',
 <li><a href="/articles/12/In+the+News" title="In the News">In the News</a></li>
 <li class="selected"><a href="/articles/11/About+Us" title="About Us">About Us</a></li>
 <ul id="articleList">
+<li><a href="/articles/11/96/Group+Licensing+Options" title="Group Licensing Options">Group Licensing Options</a></li>
 <li><a href="/articles/11/48/LessonPix+Pricing+and+Benefits" title="LessonPix Pricing and Benefits">LessonPix Pricing and Benefits</a></li>
 <li><a href="/articles/11/26/LessonPix+Privacy+Policy" title="LessonPix Privacy Policy">LessonPix Privacy Policy</a></li>
 <li><a href="/articles/11/29/LessonPix+Refund+Policy" title="LessonPix Refund Policy">LessonPix Refund Policy</a></li>
 <li><a href="/articles/11/28/LessonPix+Terms+and+Conditions" title="LessonPix Terms and Conditions">LessonPix Terms and Conditions</a></li>
+<li><a href="/articles/11/93/Our+Story" title="Our Story">Our Story</a></li>
 <li><a href="/articles/11/78/Sharing+LessonPix+Materials" title="Sharing LessonPix Materials">Sharing LessonPix Materials</a></li>
 <li><a href="/articles/11/46/What+is+LessonPix%3F" title="What is LessonPix?">What is LessonPix?</a></li>
 </ul>
@@ -389,19 +470,50 @@ _gaq.push(['_setCustomVar',
 </div>
 </div>
 </div>
-
 <div class="clear"></div>
 <div id="footer" class="container_12">
 <ul>
-<li><a href="/">Home</a></li>
-<li><a href="/articles/11/26/LessonPix%20Privacy%20Policy">Privacy Policy</a></li>
+<h3>Site Links</h3>
+<li><a href="/">Home Page</a></li>
+<li><a href="/articles/11/93/Our+Story">About Us</a></li>
+<li><a href="/articles/11/26/LessonPix+Privacy+Policy">Privacy Policy</a></li>
 <li><a href="/articles/11/28/LessonPix+Terms+and+Conditions">Terms and Conditions</a></li>
+<li><a href="/articles/11/96/Group+Licensing+Options">Group Licensing</a></li>
+<li><a href="/articles/12/In+the+News">In The News</a></li>
 <li><a href="/contact.php">Contact Us</a></li>
 </ul>
+<ul>
+<h3>Search Tools</h3>
+  <li><a href="/SoundFinder">SoundFinder™</a></li>
+  <li><a href="/minPairs.php">Minimal Pairs</a></li>
+  <li><a href="/letterFinder.php">LetterFinder</a></li>
+  <li><a href="/patternFinder.php">PatternFinder</a></li>
+  <li><a href="/rhymeSearch.php">Rhymes With</a></li>
+  <li><a href="/kwSearch.php">Keyword Search</a></li>
+</ul>
+<ul>
+<h3>Popular Articles</h3>
+<li><a href="/articles/4/52/Picture+Cards">Picture Cards</a></li>
+<li><a href="/articles/4/85/Do+and+Do+Not+Cards">Do/Do Not Cards</a></li>
+<li><a href="/articles/5/94/Word+Walls+Made+Easy">Word Walls Made Easy</a></li>
+<li><a href="/articles/4/83/Small+Books">Small Picture Books</a></li>
+<li><a href="/articles/4/88/Writing+Pages">Writing Pages</a></li>
+<li><a href="/articles/9/35/First+Then+Boards">First/Then Boards</a></li>
+<li><a href="/articles/9/33/Visual+Schedules">Visual Schedules</a></li>
+</ul>
+<ul>
+<h3>Social Networks</h3>
+   <li><a href="http://www.facebook.com/lessonpix"><img src="/imagesCG/facebook.png">Facebook</a></li>
+<li><a href="http://twitter.com/lessonpix"><img src="/images/twitter.png">Twitter</a></li>
+<li><a href="http://pinterest.com/lessonpix"><img src="/images/pinterest.png">Pinterest</a></li>
+<li><a href="http://youtube.com/lessonpix"><img src="/images/youtube.png"></a></li>
+</ul>
+</div>
+
 </div>
 
 
 
 
 
-</div></div><div id="jquery-colour-picker" style="display: none;"></div></body></html>
+</div><div id="jquery-colour-picker" style="display: none;"></div></body></html>
