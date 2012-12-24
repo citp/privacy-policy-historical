@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgbh.org privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623092910id_/http%3A//www.wgbh.org/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgbh.org privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224125800id_/http%3A//www.wgbh.org/info/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,6 +47,10 @@ On occasion, we may collect personal information from users in connection with o
 **Marketing and Promotional Communications:**
 
 On occasion, we may collect personal information from users in connection with optional marketing and promotional communications from WGBH, PBS, or a public broadcasting station. We will indicate which information is required and which is optional. Such information will be used as indicated at the time of collection.
+
+**Third Party Advertising:**
+
+We use third-party advertising companies to serve ads when users visit our web site. These companies may use information (not including name, address, email address or telephone number) about visitors to the Website in order to provide advertisements about goods and services of interest to such visitors. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.operative.com/privacy-policy/>
 
 **B. Non-personally Identifiable Information**
 
