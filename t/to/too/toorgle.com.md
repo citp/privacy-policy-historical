@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toorgle.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511213110id_/http%3A//www.toorgle.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toorgle.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224044258id_/http%3A//www.toorgle.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Toorgle - Privacy Policy
 
