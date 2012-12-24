@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the mine.nu privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621095056id_/http%3A//dyn.com/legal/dyn-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mine.nu privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224180058id_/http%3A//dyn.com/legal/dyn-privacy-policy) for the most accurate reproduction.*
 
 # Dyn Privacy Policy - Dyn
 
-Last updated: February 1, 2012
+Last updated: July 2, 2012
 
 ## Our Approach to Privacy in Plain English
 
 [](https://privacy.truste.com/privacy-seal/Dynamic-Network-Services,-Inc-/validation?rid=ad7dc3ec-a019-47d7-a01c-7e204b9da7ea "Validate TRUSTe privacy certification")
 
-Before we let our lawyer get into the weeds on how we keep your information private, let’s get something straight. We believe in the golden rule when it comes to privacy – we wouldn’t do anything to you that we would get annoyed about if it were done to any of us (and some of us are pretty paranoid). If you have a question about what personal information we collect or how we protect it, read on or feel free to shoot us an email at [privacy@dyndns.com](mailto:privacy@dyndns.com). We respect your privacy and want to answer any questions you have.
+Before we let our lawyer get into the weeds on how we keep your information private, let’s get something straight. We believe in the golden rule when it comes to privacy – we wouldn’t do anything to you that we would get annoyed about if it were done to any of us (and some of us are pretty paranoid). If you have a question about what personal information we collect or how we protect it, read on or feel free to shoot us an email at [privacy@dyn.com](mailto:privacy@dyndns.com). We respect your privacy and want to answer any questions you have.
 
-This Privacy Policy covers our collection, use and disclosure of information we collect through   dyn.com, all other  Web sites to which this policy is linked and our DynECT services . The use of information collected through our services shall be limited to the purpose of providing the services for which the Client has engaged Dynamic Network Services, Inc. (“Dyn”).
+This Privacy Policy covers our collection, use and disclosure of information we collect through dyn.com, all other web sites to which this policy is linked, and our DynECT services . The use of information collected through our services shall be limited to the purpose of providing the services for which the Client has engaged Dynamic Network Services, Inc. (“Dyn”).
 
 **Our Approach to Privacy in (What Our Lawyer Calls) Plain English**
 
@@ -20,7 +20,7 @@ Dyn has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy
 
 **II. Contact Information**
 
-If you have questions or concerns regarding this statement, you should first contact Graham Chynoweth at [privacy@dyndns.com](mailto:privacy@dyndns.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact our legal department at [privacy@dyn.com](mailto:privacy@dyndns.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 **III. EU Safe Harbor Framework**
 
@@ -32,7 +32,11 @@ Dyn complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss
 
 Our Clients provide us with the following kinds of personal information:
 
-  * Email Addresses
+  * Name(s)
+  * Email Address(es)
+  * Mailing Address(es)
+  * Phone Number(s)
+  * Billing Information (e.g., credit card information, billing address, etc.)
 
 
 
@@ -75,15 +79,15 @@ It is the policy of Dyn to protect and respect your privacy and PII. Therefore, 
 
 **A. You may receive the following types of communications from Dyn**
 
-1\. Newsletters. Dyn allows you to opt-in to receive Newsletters, sent periodically, which provide information on updates existing services, new services, and what is going on in at Dyn and with DynDNS.com. If you wish to subscribe to our newsletter, we will use the email address you have on file with Dyn to send the newsletter to you. If you do not get the Newsletter, you may opt-in by selecting the appropriate setting on your account settings page at DynDNS.com.
+1\. Newsletters. Dyn allows you to opt-in to receive Newsletters, sent periodically, which provide information on updates existing services, new services, and what is going on in at Dyn and with Dyn.com. If you wish to subscribe to our newsletter, we will use the email address you have on file with Dyn to send the newsletter to you. If you do not get the Newsletter, you may opt-in by selecting the appropriate setting on your account settings page at Dyn.com.
 
-2\. Support Related Emails. Dyn allows you opt-out of receiving, on an as-needed basis, emails regarding the provisioning, trouble shooting and enhancement of services that you purchase on DynDNS.com.
+2\. Support Related Emails. Dyn allows you opt-out of receiving, on an as-needed basis, emails regarding the provisioning, trouble shooting and enhancement of services that you purchase on Dyn.com.
 
 3\. Service Notices. Dyn requires that you allow it to use the email address you have on file with Dyn to receive, on an as-needed basis, technical and service notices on topics such as changes to service specifications and account and/or service expiration information.
 
 **B. How to Unsubscribe**
 
-If you no longer wish to receive Newsletters, Support Related Emails or other promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter, by going to <https://account.dyn.com/profile/mailinglist.html> or emailing [privacy@dyndns.com](mailto:privacy@dyndns.com). In order to ensure the integrity, security and operation of our systems and networks, we do not allow you to unsubscribe from Service Notices.
+If you no longer wish to receive Newsletters, Support Related Emails or other promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter, by going to <https://account.dyn.com/profile/mailinglist.html> or emailing [privacy@dyn.com](mailto:privacy@dyndns.com). In order to ensure the integrity, security and operation of our systems and networks, we do not allow you to unsubscribe from Service Notices.
 
 **VIII. Third Parties**
 
@@ -105,7 +109,7 @@ Any financial data collected from you shall be stored in encrypted form, and wil
 
 **X. Correcting, Updating and Removing Information**
 
-You may contact Dyn at [privacy@dyndns.com](mailto:privacy@dyndns.com) to correct, update, delete or remove personal information that you have given us. We will respond to your request to access within 30 days.
+You may contact Dyn at [privacy@dyn.com](mailto:privacy@dyndns.com) to correct, update, delete or remove personal information that you have given us. We will respond to your request to access within 30 days.
 
 **XI. Cyber and Physical Security Measures**
 
@@ -113,17 +117,17 @@ Dyn encrypts financial information, as well as other sensitive information, sent
 
 **XII. Cookies**
 
-**A. Definition and use on DynDNS.com**
+**A. Definition and use on Dyn.com**
 
-A cookie is a small text file that is stored on your computer for record-keeping purposes. Dyn uses two types of cookies on DynDNS.com.
+A cookie is a small text file that is stored on your computer for record-keeping purposes. Dyn uses two types of cookies on Dyn.com.
 
 **B. Session Cookies**
 
-Dyn uses Session Cookies, which do not contain PII, to enable you to use DynDNS.com without entering login credentials on each page.
+Dyn uses Session Cookies, which do not contain PII, to enable you to use Dyn.com without entering login credentials on each page.
 
 **C. Persistent Cookies**
 
-Dyn uses Persistent Cookies, which are connected to your DynDNS.com account, which may contain PII, for the purpose of web analytics.
+Dyn uses Persistent Cookies, which are connected to your Dyn.com account, which may contain PII, for the purpose of web analytics.
 
 **XIII. Data Retention**
 
@@ -144,7 +148,7 @@ If you want to send Dyn anything by postal mail, including fan letters, please r
 Dynamic Network Services, Inc.  
 150 Dow Street, Tower Two  
 Manchester, NH 03104 USA  
-[privacy@dyndns.com](mailto:privacy@dyndns.com)
+[privacy@dyn.com](mailto:privacy@dyndns.com)
 
 **XVII. Effective Date**
 
