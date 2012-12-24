@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the k12jobspot.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520144742id_/http%3A//www.k12jobspot.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k12jobspot.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224011757id_/http%3A//k12jobspot.com/Privacy) for the most accurate reproduction.*
 
 # Privacy - K12JobSpot.com
 
 K12JobSpot is committed to maintaining the privacy of all users. The following policies describe how the website collects, manages, and uses the information submitted by users. Use of this website indicates that a user has read these policies and agrees to abide by them. 
 
-K12JobSpot (“this website”) collects information that may make users personally identifiable on a voluntary basis only. 
+K12JobSpot ("this website") collects information that may make users personally identifiable on a voluntary basis only. 
 
 Upon registration, the user’s name and email are required. Other information such as street address, telephone number, professional certifications, educational degrees, and other information will be optional and may be included at a user's discretion. Users will also have the option to release their candidacy profile to potential employers, including but not limited to school districts, that have agreements with the website and employers using the AppliTrack system. 
 
@@ -12,7 +12,7 @@ K12JobSpot will not share personally identifiable information with third parties
 
 User information such as IP address, internet service provider, web browser, operating system, approximate times of use, referring site, or any similar data exchanged between a user's computer and the servers of K12JobSpot is collected on an aggregate basis and is not used to personally identify a particular user account. 
 
-The website uses “cookies,” or small set of data messages, to track what users view while on the website. These cookies do not record personally identifiable information and are only used to allow convenient access to content on behalf of the user. For example, cookies allow a user to return to and edit a job posting or resume. 
+The website uses "cookies," or small set of data messages, to track what users view while on the website. These cookies do not record personally identifiable information and are only used to allow convenient access to content on behalf of the user. For example, cookies allow a user to return to and edit a job posting or resume. 
 
 Only direct employees and programmers within the website staff will have access to user information. This access includes, but is not limited to, modification or deletion of information as needed to maintain the integrity of the user database and to improve the website’s performance and connectivity. 
 
