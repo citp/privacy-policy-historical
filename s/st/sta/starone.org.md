@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the starone.org privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602125601id_/https%3A//www.starone.org/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starone.org privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224231624id_/https%3A//www.starone.org/home/privacy) for the most accurate reproduction.*
 
 # Star One Credit Union - Privacy
 
-## STAR ONE CREDIT UNION 2011 - 2012 PRIVACY POLICY
+## STAR ONE CREDIT UNION 2012 - 2013 PRIVACY POLICY
 
 **FACTS** | 
 
@@ -17,7 +17,7 @@ Why?
 
 Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand Star One Credit Union’s Privacy Policy.
 
-At Star One Credit Union, we respect the privacy of our members. We recognize the importance of maintaining the confidentiality of your personal financial information. This notice describes the privacy policy and practices followed by Star One Credit Union. This notice explains  
+At Star One Credit Union, we respect the privacy of our members. We recognize the importance of maintaining the confidentiality of your personal financial information. This notice describes the privacy policy and practices followed by Star One Credit Union. This notice explains what types of member information we collect and under what circumstances we may share it.  
   
 What?
 
@@ -25,7 +25,7 @@ What?
 
 The types of personal information we collect and share depend on the accounts or services you have with us. This information can include:
 
-  * Name, address, Social Security number and income
+  * Name, address, Social Security number, and income
   * Account balances and transaction history
   * Credit history and credit scores
 
@@ -134,7 +134,7 @@ To protect your personal information from unauthorized access and use, we use se
 We collect your personal information, for example, when you
 
   * open an account or apply for a loan
-  * apply for any credit union service
+  * apply for any Credit Union service
   * visit our web site, provide us information on any online application or transaction, or information you send to us by email.
   * use your credit or debit card or pay your bills
   * make deposits to or withdrawals from your accounts
