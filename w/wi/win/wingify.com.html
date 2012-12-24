@@ -1,339 +1,246 @@
-<!--The following is the downloaded HTML source of the wingify.com privacy policy that was archived on 2012-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120502075900id_/http%3A//www.wingify.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wingify.com privacy policy that was archived on 2012-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121224102554id_/http%3A//www.wingify.com/privacy-policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link href="style/style.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="scripts/roll_over.js"></script>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link href="style/style.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="scripts/roll_over.js"></script>
+    <!-- End Wingify code -->
 
-
-
-
-
-
-
-<!-- End Wingify code -->
-
-<link href="http://www.wingify.com/style/style.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="http://www.wingify.com/scripts/roll_over.js"></script>
-
+<link href="http://wingify.com/style/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://wingify.com/scripts/roll_over.js"></script>
 
 <script type="text/javascript">
- function trimspaces(str)
-		{
-			while((str.indexOf(' ',0) == 0) && (str.length > 1))
-			{
-				str = str.substring(1, str.length);
-			}
-			while((str.lastIndexOf(' ') == (str.length - 1) && (str.length > 1)))
-			{
-				str = str.substring(0,(str.length - 1));
-			}
-			if((str.indexOf(' ',0) == 0) && (str.length == 1)) str = '';
-			return str;
-		}
-function validate_form(Obj)
-		{
-			
-			
-			
-			var alloted_credit=0;	
-			var alloted_credit1=0;	
-				for ( i = 0; i < Obj.elements.length; i++) {
-						
-						formElem = Obj.elements[i];
-						switch (formElem.type) {
-								case 'text':
-										split_title=formElem.title.split("::");
-										if(split_title[0]=='Fill' && trimspaces(formElem.value)==''){
-										alert(split_title[1]);
-										formElem.focus();
-										return false;
-										}
-										if(split_title[0]=='phone' && trimspaces(formElem.value)==''){
-										alert(split_title[1]);
-										formElem.focus();
-										return false;
-										}
-										if(split_title[0]=='phone'  && isNaN(formElem.value)){
-										alert('Please enter valid telephone number');
-										formElem.focus();
-										return false;
-										}
-										
-										if(split_title[0]=='email' && trimspaces(formElem.value)==''){
-										alert(split_title[1]);
-										formElem.focus();
-										return false;
-										}
-										if(split_title[0]=='email' ){
-											if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,4})+$/.test(formElem.value)){
-												}else{
-													alert('Invalid E-mail Address! Please re-enter.');
-													formElem.focus();
-													return false;
-											}
-										}
-									
-								break;
-								}
-						}//end of for loop
-						return true;
-		}  
-
+    function trimspaces(str) {
+        while ((str.indexOf(' ', 0) == 0) && (str.length > 1)) {
+            str = str.substring(1, str.length);
+        }
+        while ((str.lastIndexOf(' ') == (str.length - 1) && (str.length > 1))) {
+            str = str.substring(0, (str.length - 1));
+        }
+        if ((str.indexOf(' ', 0) == 0) && (str.length == 1)) str = '';
+        return str;
+    }
+    function validate_form(Obj) {
+        var alloted_credit = 0;
+        var alloted_credit1 = 0;
+        for (i = 0; i < Obj.elements.length; i++) {
+            formElem = Obj.elements[i];
+            switch (formElem.type) {
+                case 'text':
+                    split_title = formElem.title.split("::");
+                    if (split_title[0] == 'Fill' && trimspaces(formElem.value) == '') {
+                        alert(split_title[1]);
+                        formElem.focus();
+                        return false;
+                    }
+                    if (split_title[0] == 'phone' && trimspaces(formElem.value) == '') {
+                        alert(split_title[1]);
+                        formElem.focus();
+                        return false;
+                    }
+                    if (split_title[0] == 'phone' && isNaN(formElem.value)) {
+                        alert('Please enter valid telephone number');
+                        formElem.focus();
+                        return false;
+                    }
+                    if (split_title[0] == 'email' && trimspaces(formElem.value) == '') {
+                        alert(split_title[1]);
+                        formElem.focus();
+                        return false;
+                    }
+                    if (split_title[0] == 'email') {
+                        if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,4})+$/.test(formElem.value)) {
+                        }
+                        else {
+                            alert('Invalid E-mail Address! Please re-enter.');
+                            formElem.focus();
+                            return false;
+                        }
+                    }
+                    break;
+            }
+        }//end of for loop
+        return true;
+    }
 </script>
-
-<title>Privacy Policy :: Wingify</title>
+<!-- Start Visual Website Optimizer Code -->
+<script type="text/javascript">
+    var _vis_opt_account_id = 196;
+    var _vis_opt_protocol = (('https:' == document.location.protocol) ? 'https://' : 'http://');
+    document.write('<s' + 'cript src="' + _vis_opt_protocol + 'dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&a=' + _vis_opt_account_id + '&url=' + encodeURIComponent(document.URL) + '&random=' + Math.random() + '" type="text/javascript">' + '<\/s' + 'cript>');
+</script><script src="https://dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&amp;a=196&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20121224102554id_%2Fhttp%253A%2F%2Fwww.wingify.com%2Fprivacy-policy.php&amp;random=0.825066939759417" type="text/javascript"></script>
+<script type="text/javascript">
+    if (typeof(_vis_opt_settings_loaded) == "boolean") {
+        document.write('<s' + 'cript src="' + _vis_opt_protocol + 'd5phz18u4wuww.cloudfront.net/vis_opt.js" type="text/javascript">' + '<\/s' + 'cript>');
+    }// if your site already has jQuery 1.4.2, replace vis_opt.js with vis_opt_no_jquery.js above
+</script>
+<script type="text/javascript">
+    if (typeof(_vis_opt_settings_loaded) == "boolean" && typeof(_vis_opt_top_initialize) == "function") {
+        _vis_opt_top_initialize();
+        vwo_$(document).ready(function () {
+            _vis_opt_bottom_initialize();
+        });
+    }
+</script>
+<!-- End Visual Website Optimizer Code -->
+    <title>Privacy Policy :: Wingify</title>
 </head>
-
 <body>
-
 <div id="top_bg">
-	
-   
+    <div class="container">
+        <div id="nav">
+            <ul class="menu">
 
+                <li>
+                    <a href="http://wingify.com/index.php" class="nav-menu-item  nav-home">Home</a>
+                </li>
+                
+                <li>
+                    <a href="http://wingify.com/conversion-optimization.php" class="nav-menu-item  nav-product">Product</a>
+                </li>
+                
+                <li>
+                    <a href="http://wingify.com/labs.php" class="nav-menu-item  nav-labs">Labs</a>
+                </li>
 
-	<div class="container">
-    
-    	<div id="nav">
-        	<ul class="menu">
-            	<li><a href="http://www.wingify.com/index.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','http://www.wingify.com/images/nav_button1_roll.jpg',1)"><img src="http://www.wingify.com/images/nav_button1.jpg" alt="Home" name="Image1" width="59" height="50" border="0" id="Image1"></a></li>
+                <li>
+                    <a href="http://wingify.com/conversion-blog/" class="nav-menu-item  nav-blog">Blog</a>
+                </li>
 
-                
-                <li><a href="http://www.wingify.com/conversion-optimization.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','http://www.wingify.com/images/nav_button2_roll.jpg',1)"><img src="http://www.wingify.com/images/nav_button2.jpg" alt="Conversion Optimization Product" name="Image2" width="80" height="50" border="0" id="Image2"></a></li>
-                
+                <li>
+                    <a href="http://wingify.com/contact-us/" class="nav-menu-item  nav-contact">Contact Us</a>
+                </li>
 
-                <li><a href="http://www.wingify.com/labs.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','http://www.wingify.com/images/labs-red.png',1)"><img src="http://www.wingify.com/images/labs-black.png" alt="Our super-secret projects" name="Image3" height="50" border="0" id="Image3"></a></li>
-              
-                
-                <li><a href="http://www.wingify.com/conversion-blog/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ImageBlog','','http://www.wingify.com/images/blog-nav-roll.jpg',1)"><img src="http://www.wingify.com/images/blog-nav.jpg" alt="Blog" name="ImageBlog" height="50" border="0" id="ImageBlog"></a></li>
-                
-                <li><a href="http://www.wingify.com/contact-us/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','http://www.wingify.com/images/nav_button5_roll.jpg',1)"><img src="http://www.wingify.com/images/nav_button5.jpg" alt="Contact Us" name="Image5" width="95" height="50" border="0" id="Image5"></a></li>
-                
             </ul>
-            	<div class="clear"></div>
-        </div><!-- nav end here -->
-    		
-    
-        	
-        	
-    
+            <div class="clear"></div>
+        </div>
+        <!-- nav end here -->
     </div>
 </div><!-- top bg end here -->
 
-<script language="javascript">
-
-
-
-var Image1 = document.createElement("img");
-Image1.src = "http://www.wingify.com/images/nav_button1_roll.jpg";
-
-var Image2 = document.createElement("img");
-Image2.src = "http://www.wingify.com/images/nav_button2_roll.jpg";
-
-var Image3 = document.createElement("img");
-Image3.src = "http://www.wingify.com/images/labs-red.png";
-
-
-
-var ImageBlog = document.createElement("img");
-ImageBlog.src = "http://www.wingify.com/images/blog-nav-roll.jpg";
-
-var Image5 = document.createElement("img");
-Image5.src = "http://www.wingify.com/images/nav_button5_roll.jpg";
-
-</script>       
-
 <div id="sub_header_bg">
-  <div class="container">
-    
-  	  <div id="left_header">
-   	    <div id="logo"><a href="http://www.wingify.com/" title="Go to Wingify.com"><img src="http://www.wingify.com/images/logo.png" alt="Wingify logo" border="0"></a></div>
-  	  </div> <!--left header end here -->
-      
-    
-      <div id="rite_header_sub">
-      	<div class="sub_logo_txt" style="width:auto"><!--<p>Optimize Your Way to Maximum Online </p><span>Revenue through Testing and Targeting </span>-->
-        
-        <p style="line-height:1.3em; font-size:18px; font-weight:normal">Increase your website sales and conversions.<br>Website optimization tools that <i>simply</i> work.</p>
-       
+    <div class="container">
+        <div id="left_header">
+            <div id="logo"><a href="http://wingify.com/" title="Go to Wingify.com"><img src="http://wingify.com/images/logo.png" alt="Wingify logo" border="0"></a></div>
         </div>
-      </div>
-    		
-            <div class="clear"></div>
-    
-  </div>
+        <!--left header end here -->
+        <div id="rite_header_sub">
+            <div class="sub_logo_txt" style="width:auto"><!--<p>Optimize Your Way to Maximum Online </p><span>Revenue through Testing and Targeting </span>-->
+                <p style="line-height:1.3em; font-size:18px; font-weight:normal">Increase your website sales and conversions.<br>Website optimization tools that <i>simply</i> work.</p>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
 </div> <!--index header end here -->
 
 <div id="content_bg">
-	<div class="container"><!--left content index end here -->
-	 
-    	
+    <div class="container"><!--left content index end here -->
         <div class="sub_heading" style="width:auto">
-        	<h1>Privacy Policy</h1>
-     	</div>
-        
-        
-   
-        
-        
-        
+            <h1>Privacy Policy</h1>
+        </div>
         <div class="sub_txt">
-    	  
-    	  
-  		 	<div id="main_content">
-  		 	  <p>Your privacy is of paramount importance to Wingify. This policy applies to all products and services offered by Wingify.</p>
-  		 	  <p>Information we gather from you:</p>
-  		 	  <ul class="default">
-  		 	    <li>Because the Wingify Service houses your website statistics on our servers, you must register for a Wingify account. The registration process asks for a username, password, email address and some personally identifiable information including name, address and contact details.</li>
-  		 	    <li>When you log into the Service, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser.</li>
-  		 	    <li>When you send email or other communication to Wingify, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.</li>
-	 	      </ul>
-  		 	  <p>Wingify will not share your personal information without your consent or unless required by law.</p>
-  		 	  <p>By the nature of our Service, Wingify will gather statistics about the usage of your website and store that information. Wingify will not share your website statistics without your consent.</p>
-  		 	  <p>Wingify only processes personal information for the purpose of providing, improving, ensuring the delivery of, and developing new services to users.</p>
-  		 	  <p>If Wingify becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.</p>
-  		 	  <p>We may share with third parties certain pieces of aggregated, non-personal information such as the number of sites using Wingify, for example. Such information does not identify you individually.</p>
-  		 	  <p>We restrict access to personal information to employees, contractors, and agents who need to know that information in order to operate, develop, or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.</p>
-  		 	  <p>This Privacy Policy applies to websites and services that are owned and operated by Wingify. We do not exercise control over the sites that may be linked from our website. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.</p>
-  		 	  <p>Wingify may change its Privacy Policy from time to time and at Wingify’s sole discretion. However, your rights will not be reduced without your explicit consent.</p>
-  		 	  <p style="text-align:center; width:100%;">&nbsp;</p> 
-       
-           
-        
+            <div id="main_content">
+                <p>Your privacy is of paramount importance to Wingify. This policy applies to all products and services offered by Wingify.</p>
+
+                <p>Information we gather from you:</p>
+                <ul class="default">
+                    <li>Because the Wingify Service houses your website statistics on our servers, you must register for a Wingify account. The registration process asks for a username, password, email address and some personally identifiable information including name, address and contact details.</li>
+                    <li>When you log into the Service, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser.</li>
+                    <li>When you send email or other communication to Wingify, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.</li>
+                </ul>
+                <p>Wingify will not share your personal information without your consent or unless required by law.</p>
+
+                <p>By the nature of our Service, Wingify will gather statistics about the usage of your website and store that information. Wingify will not share your website statistics without your consent.</p>
+
+                <p>Wingify only processes personal information for the purpose of providing, improving, ensuring the delivery of, and developing new services to users.</p>
+
+                <p>If Wingify becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.</p>
+
+                <p>We may share with third parties certain pieces of aggregated, non-personal information such as the number of sites using Wingify, for example. Such information does not identify you individually.</p>
+
+                <p>We restrict access to personal information to employees, contractors, and agents who need to know that information in order to operate, develop, or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.</p>
+
+                <p>This Privacy Policy applies to websites and services that are owned and operated by Wingify. We do not exercise control over the sites that may be linked from our website. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.</p>
+
+                <p>Wingify may change its Privacy Policy from time to time and at Wingify’s sole discretion. However, your rights will not be reduced without your explicit consent.</p>
+
+                <p style="text-align:center; width:100%;">&nbsp;</p>
+            </div>
         </div>
-        </div>
-        
-    
-   
-       
-       
     </div>
-</div> <!-- content bg end here -->
-
-
+</div>
+<!-- content bg end here -->
 
 
 <div id="footer_bg">
-	<div class="container">
-    
-    
-    	<div id="footer_form">
-        	
-           
-
+    <div class="container">
+        <div id="footer_form">
             <br>
-            
-            <form action="http://www.wingify.com/free-stuff/" method="post" onsubmit="return validate_form(this);">
-            
-            
-            <div style="text-align:center; width:40%; float:left; display:inline"> <table cellspacing="5" cellpadding="3" style="text-align:center; margin-left:auto; margin-right:auto;">
-            
-            	<tbody><tr>
-        
-        
-        			<td><br><a href="http://visualwebsiteoptimizer.com/"><img src="http://www.wingify.com/images/vwo_logo_flask.png" border="0"></a></td>
-            		
-                                       
-                    
-                 </tr>
 
-            	<tr>
-        
-        
-        			<td><br><a href="http://visualwebsiteoptimizer.com/" style="color:#FFFFFF; font-size: 14px; font-weight: bold">World's easiest A/B Testing Software</a></td>
-            		
-                                       
-                    
-                 </tr>
-                 
-              
-                    
-            </tbody></table>
-             
-             </div>
-             
-             
-           
-           <div style="float:right; display:inline; width:50%">
-           
-          <div style="margin-top:20px; text-align:left"><a style="font-size:18px; color:#FFFFFF; text-decoration:none" href="http://visualwebsiteoptimizer.com/testimonials.php">"It does it so disruptively, embarrassingly better than Google does, that it puts a smile on my face" </a></div>
-          
-        
-          
-            <div style="margin-top:20px; text-align:left"><a style="font-size:18px; margin-top:30px; color:#FFFFFF; text-decoration:none" href="http://visualwebsiteoptimizer.com/testimonials.php">"Visual Website Optimizer is better than using GWO, Omniture, or Sitespect"</a>
-          </div>
-          
-          
-          
-          
-            
-            
-          
+            <form action="http://wingify.com/free-stuff/" method="post" onsubmit="return validate_form(this);">
+                <div style="text-align:center; width:40%; float:left; display:inline">
+                    <table cellspacing="5" cellpadding="3" style="text-align:center; margin-left:auto; margin-right:auto;">
+                        <tbody><tr>
+                            <td><br><a href="http://visualwebsiteoptimizer.com/"><img src="http://wingify.com/images/vwo_logo_flask.png" border="0"></a></td>
+                        </tr>
+                        <tr>
+                            <td><br><a href="http://visualwebsiteoptimizer.com/" style="color:#FFFFFF; font-size: 14px; font-weight: bold">World's easiest A/B Testing Software</a></td>
+                        </tr>
+                    </tbody></table>
                 </div>
-            
-            
-           
-            
-            
-           
-           
-             
-             
-        
-        
-        <div style="clear:both"></div>
-
-        
-                
-              </form>
-        
+                <div style="float:right; display:inline; width:50%">
+                    <div style="margin-top:20px; text-align:left"><a style="font-size:18px; color:#FFFFFF; text-decoration:none" href="http://visualwebsiteoptimizer.com/testimonials.php">"It does it so disruptively, embarrassingly better than Google does, that it puts a smile on my face" </a></div>
+                    <div style="margin-top:20px; text-align:left"><a style="font-size:18px; margin-top:30px; color:#FFFFFF; text-decoration:none" href="http://visualwebsiteoptimizer.com/testimonials.php">"Visual Website Optimizer is better than using GWO, Omniture, or Sitespect"</a>
+                    </div>
+                </div>
+                <div style="clear:both"></div>
+            </form>
         </div>
-
- 
-    
-    	<hr style="width: 100%; color:#FFFFFF; opacity: .75; -ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=75)&quot;; filter: alpha(opacity=75);">
-    
-    	<div id="left_footer" style="width:auto">
-        	<p><a href="http://www.wingify.com/privacy-policy.php" rel="nofollow">Privacy Policy</a> | <a href="http://twitter.com/wingify/"><img style="vertical-align:bottom" src="http://www.wingify.com/images/twitter.png" border="0"> @wingify</a> | <a href="http://visualwebsiteoptimizer.com/">Split Testing Software</a> | <a href="http://visualwebsiteoptimizer.com/">Multivariate Testing Software</a></p>
-           
+        <hr style="width: 100%; color:#FFFFFF; opacity: .75; -ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=75)&quot;; filter: alpha(opacity=75);">
+        <div id="left_footer" style="width:auto">
+            <p><a href="http://wingify.com/privacy-policy.php" rel="nofollow">Privacy Policy</a> | <a href="http://twitter.com/wingify/"><img style="vertical-align:bottom" src="http://wingify.com/images/twitter.png" border="0"> @wingify</a> | <a href="http://visualwebsiteoptimizer.com/">Split Testing Software</a> | <a href="http://visualwebsiteoptimizer.com/">Multivariate Testing Software</a></p>
         </div>
-        
         <div id="rite_footer" style="width:auto">
-        	<ul class="footer_menu">
-            	<li><a href="http://www.wingify.com/index.php">Home</a></li>
+            <ul class="footer_menu">
+                <li><a href="http://wingify.com/">Home</a></li>
                 <li>|</li>
-                <li><a href="http://www.wingify.com/conversion-optimization.php">Product</a></li>
+                <li><a href="http://wingify.com/conversion-optimization.php">Product</a></li>
                 <li>|</li>
-                <li><a href="http://www.wingify.com/labs.php">Labs</a></li>
+                <li><a href="http://wingify.com/labs.php">Labs</a></li>
                 <li>|</li>
-                <li><a href="http://www.wingify.com/conversion-optimization-services.php">Services</a></li>
+                <li><a href="http://visualwebsiteoptimizer.com/careers.php">Careers</a></li>
                 <li>|</li>
-                <li><a href="http://www.wingify.com/resources/">Resources</a></li>
+                <li><a href="http://wingify.com/resources/">Resources</a></li>
                 <li>|</li>
-                <li><a href="http://www.wingify.com/conversion-blog/">Blog</a></li>
+                <li><a href="http://wingify.com/conversion-blog/">Blog</a></li>
                 <li>|</li>
-                <li><a href="http://www.wingify.com/contact-us/">Contact Us</a></li>
-                	
+                <li><a href="http://wingify.com/contact-us/">Contact Us</a></li>
             </ul>
-            	
-            
-        
-        	<div class="clear"></div>
-            
-            
+            <div class="clear"></div>
+        </div>
     </div>
+    <script type="text/javascript">
+        var clickyJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+        document.write(unescape("%3Cscript src='" + clickyJsHost + "static.getclicky.com/js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://static.getclicky.com/js" type="text/javascript"></script>
+    <script type="text/javascript">clicky.init(227674);</script>
+    <noscript><p><img alt="Clicky" width="1" height="1" src="http://in.getclicky.com/227674ns.gif"/></p></noscript>
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-36431088-1']);
+        _gaq.push(['_trackPageview']);
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
 </div>
 
-<script type="text/javascript">
-var clickyJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
-document.write(unescape("%3Cscript src='" + clickyJsHost + "static.getclicky.com/js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://static.getclicky.com/js" type="text/javascript"></script>
-
-<script type="text/javascript">clicky.init(227674);</script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="http://in.getclicky.com/227674ns.gif" /></p></noscript>  
 
 
-
-
-</div></body></html>
+</body></html>
