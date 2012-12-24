@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the chartbeat.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615133207id_/http%3A//chartbeat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chartbeat.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224212851id_/http%3A//www.chartbeat.com/privacy) for the most accurate reproduction.*
 
 # Privacy
-
-## Chartbeat Privacy Policy
 
 Effective Date: March 30, 2012
 
@@ -72,7 +70,7 @@ If We change this Privacy Policy and seek to use your personal information in a 
   
 
   13. **SAFE HARBOR PRIVACY STATEMENT.**  
-Charbeat complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Chartbeat has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Chartbeat’s certification, please visit <http://www.export.gov/safeharbor/>. 
+Chartbeat complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Chartbeat has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Chartbeat’s certification, please visit <http://www.export.gov/safeharbor/>. 
 
 We process user information in Our facilities in the United States. All user information subject to this Privacy Policy is collected in the United States, obtained through websites in the United States, or obtained in other countries and transferred to the United States. Regardless where it originated, all user information subject to this Privacy Policy receives the same level of privacy protection as described herein. 
 
