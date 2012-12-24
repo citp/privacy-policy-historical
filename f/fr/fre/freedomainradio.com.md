@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedomainradio.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503015003id_/http%3A//www.freedomainradio.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomainradio.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224104059id_/http%3A//freedomainradio.com/privacy.aspx) for the most accurate reproduction.*
 
 # Freedomain Radio – The Home Page
 
