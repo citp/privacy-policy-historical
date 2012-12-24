@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the canuckaudiomart.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622005202id_/http%3A//www.canuckaudiomart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canuckaudiomart.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224010504id_/http%3A//www.canuckaudiomart.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Canuck Audio Mart
 
-  
-
+Welcome to CAM, a classifieds site for used audio, hifi and stereo. It is completely **free** for hobbyists to post classifieds here. [Register today](http://www.canuckaudiomart.com/register.php) and start selling your audio gear!
 
 ## Canuck Audio Mart's Privacy Policy
 
-We here at Canuck Audio Mart and its Operators, Neo Era Media, Inc. recognize that the relationship with our visitors is one of our most valuable assets. We therefore understand and respect the need for protecting your privacy in order to establish trust and to maintain the integrity of our company. The following is the Privacy Policy for Canuck Audio Mart (www.canuckaudiomart, "we" or "us") on the purpose, intent, use, and protection of the information you (the user of the site) provide. 
+We here at Canuck Audio Mart and its Operators, Canuck AudioMart Inc. recognize that the relationship with our visitors is one of our most valuable assets. We therefore understand and respect the need for protecting your privacy in order to establish trust and to maintain the integrity of our company. The following is the Privacy Policy for Canuck Audio Mart (www.canuckaudiomart, "we" or "us") on the purpose, intent, use, and protection of the information you (the user of the site) provide. 
 
 Note: This policy only applies to any information disclosed while dealing directly with Canuck Audio Mart (http://www.canuckaudiomart.com/). Once you leave our web site to go to another web site, or provide information to other users of the site, we no longer assume responsibility of any information that may be collected, disclosed, and/or manipulated. 
 
@@ -27,15 +26,13 @@ By using our web site (http://www.canuckaudiomart.com/), it constitutes acceptan
 
 **_Privacy Contact Info:_**
 
-Neo Era Media, Inc.  
-105-3031 Viking Way  
-Richmond, BC, Canada, V6V 1W1
+Canuck AudioMart Inc.  
+P.O. Box 27531  
+Oakridge  
+Vancouver, BC, Canada  
+V5Z 4M4
 
 ### Canuck Audio Mart is FREE!
-
-* * *
-
-* * *
 
   
 
