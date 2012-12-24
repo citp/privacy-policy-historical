@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the hellforleathermagazine.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512022616id_/http%3A//hellforleathermagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellforleathermagazine.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224225442id_/http%3A//hellforleathermagazine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Hell for Leather
+# Privacy Policy | Hell for Leather Hell for Leather
 
 This Privacy Policy discloses the privacy practices for _Hell For Leather Magazine_ and Hell For Leather Media Free sites with free content. For the purposes of this Privacy Policy, unless otherwise noted, all references to “Hell for Leather” include HellForLeatherMagazine.com and any and all other wholly owned subsidiaries or whole owned partner websites unless otherwise specified.
 
-In this Privacy Policy, you will find answers to the following questions:  
+In this Privacy Policy, you will find answers to the following questions:
+
 · **Which sites are covered by this policy?**  
 · **What information do we gather about you?**  
 · **What do we do with the information we gather about you?**  
@@ -20,7 +21,8 @@ In this Privacy Policy, you will find answers to the following questions:
 
 **WHICH SITES ARE COVERED BY THIS POLICY?**  
 This Privacy Policy applies to the following Hell For Leather Web sites:  
-• _Hell For Leather Magazine_ (Free Content)  
+• _Hell For Leather Magazine_ (Free Content)
+
 Please note, our Web sites may contain links to other Web sites for your convenience and information. We are not responsible for the privacy practices or the content of those sites. We encourage you to review the privacy policy of any company before submitting your personal information.
 
 **WHAT INFORMATION DO WE GATHER ABOUT YOU?**  
@@ -84,7 +86,7 @@ We offer opportunities for you to engage in public activities on HellForLeatherM
 If you choose to receive them, Hell For Leather will periodically send you e-mail newsletters or promotional e-mail about services offered by Hell for Leather and its advertisers.
 
 **WHAT IS OUR E-MAIL POLICY?**  
-Hell for Leather complies fully with the federal CAN-SPAM Act of 2003. We will not share, sell, rent, swap or authorize any third party to use your e-mail address without your permission. If you feel you have received an e-mail from us in error, please contact [info@hellforleathermagazine.com](mailto:info@hellforleathermagazine.com).
+Hell for Leather complies fully with the federal CAN-SPAM Act of 2003. We will not share, sell, rent, swap or authorize any third party to use your e-mail address without your permission. If you feel you have received an e-mail from us in error, please contact [info@rideapart.com](mailto:info@rideapart.com).
 
 **Account and Service-Related Email**  
 Hell For Leather reserves the right to send you e-mail relating to your account status. This includes order confirmations, renewal/expiration notices, notices of credit-card problems, other transactional e-mails and notifications about major changes to our Web sites and/or to our Privacy Policy. If you have registered for online discussions or other services, you may receive e-mail specific to your participation in those activities.
@@ -119,9 +121,9 @@ Information collected in conjunction with purchasing a subscription package is c
 **HOW DO I OPT-OUT FROM RECEIVING PROMOTIONAL OFFERS?**  
 _E-mail Promotions_  
 If, at any time, you prefer not to receive e-mail marketing information from us, simply follow the unsubscribe options at the bottom of each e-mail.  
-If you experience difficulty with the unsubscribe process, feel free to contact us at [info@hellforleathermagazine.com](mailto:info@hellforleathermagazine.com) and provide your e-mail address along with the name of the newsletter from which you would like to unsubscribe.  
+If you experience difficulty with the unsubscribe process, feel free to contact us at [info@rideapart.com](mailto:info@rideapart.com) and provide your e-mail address along with the name of the newsletter from which you would like to unsubscribe.  
 _Offline Promotions_  
-If, at any time, you prefer not to receive traditional mail or telephone solicitations originated by Hell For Leather and its third party affiliates, please e-mail us at [info@hellforleathermagazine.com](mailto:info@hellforleathermagazine.com)
+If, at any time, you prefer not to receive traditional mail or telephone solicitations originated by Hell For Leather and its third party affiliates, please e-mail us at [info@rideapart.com](mailto:info@rideapart.com)
 
 **IS MY INFORMATION PROTECTED?**  
 Data Security: To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place physical, electronic and managerial procedures to protect the information we collect online. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt that information using secure socket layer technology (SSL).
@@ -135,4 +137,4 @@ COPPA Compliance: Hell For Leather does not knowingly collect or store any perso
 **OTHER INFORMATION: Changes to This Policy**  
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-If you have any questions or suggestions regarding our privacy policy, please contact us by email at [info@hellforleathermagazine.com](mailto:info@hellforleathermagazine.com).
+If you have any questions or suggestions regarding our privacy policy, please contact us by email at [info@ridepart.com](mailto:info@ridepart.com).
