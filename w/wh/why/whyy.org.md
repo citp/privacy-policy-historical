@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the whyy.org privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502073314id_/http%3A//www.whyy.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whyy.org privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224032157id_/http%3A//www.whyy.org/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | About | WHYY
 
-Privacy Policy
-
 Thank you for visiting WHYY Online (which includes, but is not limited to, whyy.org and newsworks.org) and any features of these sites, including, but not limited to, Content Feeds, Podcasts, and social networking features (collectively, the "WHYY Websites" or the "Service"). We know you don't want the information you provide us shared indiscriminately. Here we explain how the WHYY Websites collect information, what we do with it, and what controls you have. We're committed to ensuring the privacy of your personally identifiable information, and to protecting your ability to make financial transactions and transmit your personal data with full confidence.
 
-Read our [Membership List Policy](https://web.archive.org/web/20120502073314id_/http%3A//www.whyy.org/about/membershiplist.html) for information related to the privacy of our members.
+Read our [Membership List Policy](https://web.archive.org/web/20121224032157id_/http%3A//www.whyy.org/about/membershiplist.php) for information related to the privacy of our members.
 
 Please read our Privacy Policy carefully, and if you have any questions or concerns, please contact us. Also, note that the WHYY Websites link to numerous other sites. Please consult those sites to learn more about their policies.
 
@@ -15,7 +13,7 @@ WHYY may collect personally-identifying information (such as your name, email ad
 
 Visitors are asked to provide certain personal information when they register for certain features or services of the WHYY Websites (for example, when they request to receive newsletters; make a donation; email or share a page of the WHYY Websites; purchase from the online Shop WHYY; post, upload, transmit and/or otherwise submit ("Submit") a comment, message, story idea, essay, photo, image, or other text, content or material ("User Materials"), and when they register for any online contests. In addition, any information you Submit through social networking features, as part of a story or blog comments, or otherwise Submit to the WHYY Websites, may, as with any other information that is put onto the web, become public.
 
-Like all other web servers, WHYY's web server automatically creates log files for each visitor who accesses the WHYY Websites. These access logs allow us to make our site more useful to our visitors. They do not record a visitor's name, address, email address, phone number, credit card numbers, or any other personally-identifying information. Rather, they contain some or all of the following:
+Like all other web servers, WHYY's web server automatically creates log files for each visitor who accesses the WHYY Websites. These access logs allow us to make our site more useful to our visitors. They do not record a visitor's name, address, email address, phone number, credit card numbers, or any other personally-identifying information. Rather, they contain some or all of the following: 
 
   * The Internet Protocol (IP) Address of the machine which accessed the WHYY Websites.
   * The date of the visit.
@@ -48,7 +46,7 @@ Excluding information provided by the user when participating in the WHYY Websit
 
 WHYY may also disclose personal information if required to do so by law or if it believes that such action is necessary to (a) comply with the law or with the legal process, (b) protect against misuse or unauthorized use of the WHYY Websites, or (c) protect the personal safety or property of users of the WHYY Websites, the public or WHYY and its employees.
 
-If you do not want your personally-identifying information to be collected or used for any of these purposes, please do not provide it (although if you do not provide it, you may not be able to use or participate in certain features of the WHYY Websites). 
+If you do not want your personally-identifying information to be collected or used for any of these purposes, please do not provide it (although if you do not provide it, you may not be able to use or participate in certain features of the WHYY Websites).
 
 WHYY, with the assistance from time to time of its third party service vendors, uses non-identifying aggregate information to analyze use of and better design the WHYY Websites and to share with third parties in aggregate form only as appropriate. For example, we may tell a third party that a certain number of users accessed a particular audio stream on our Website. However, we will not disclose any information that could be used to identify those users.
 
@@ -68,13 +66,10 @@ You must be at least 13 years of age to register for email newsletters or other 
 You must be at least 18 years old to Submit any User Materials on or through the WHYY Websites, create a profile in the WHYY Websites, participate in online contests, or place an order on the WHYY Online Shop. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for email newsletters, for other features of the WHYY Websites not open to those under 18 years of age without parental permission, or otherwise sending any personally-identifying information.
 
 **Acceptance of Privacy Policy for the WHYY Websites**  
-By using the WHYY Websites, you signify your agreement to the terms and conditions of this Privacy Policy. If you do not agree to these terms and conditions, please do not use this site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of the WHYY Websites following the posting of any changes to these terms will mean that you have accepted those changes. 
+By using the WHYY Websites, you signify your agreement to the terms and conditions of this Privacy Policy. If you do not agree to these terms and conditions, please do not use this site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of the WHYY Websites following the posting of any changes to these terms will mean that you have accepted those changes.
 
 **Links to Other Sites**  
 It is important to note that the WHYY Websites contain links to other sites that may not follow the same privacy policies as the WHYY Websites. These sites may use cookies, collect data, and use the data in ways the WHYY Websites would not. WHYY is not responsible for the privacy practices or any information or materials on these other sites. Please visit these sites if you wish to review their privacy policies.
 
 **International User Notice**  
-For international users, please note that it may be necessary to transform your information internationally and, in particular, your information may be transferred to and processed in the United States. For residents of the European Union, the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union. Please be assured that we take steps to ensure that your privacy is protected as described in this policy. By using this site, you agree to have your information used and transferred to the United States as set forth in this policy.
-
-  
-
+For international users, please note that it may be necessary to transform your information internationally and, in particular, your information may be transferred to and processed in the United States. For residents of the European Union, the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union. Please be assured that we take steps to ensure that your privacy is protected as described in this policy. By using this site, you agree to have your information used and transferred to the United States as set forth in this policy. 
