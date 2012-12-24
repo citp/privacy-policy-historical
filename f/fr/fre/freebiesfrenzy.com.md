@@ -1,89 +1,79 @@
-> *The following text is extracted and transformed from the freebiesfrenzy.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604130839id_/http%3A//freebiesfrenzy.com/free-samples/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebiesfrenzy.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224123906id_/http%3A//freebiesfrenzy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy |
 
-**Effective and Last Updated:** 2/21/12
+Thank you for visiting the website located at http://freebiesfrenzy.com/ (“Site”). The Site is an Internet property of Elite Web Holding, LLC (“Company”, “we” or “us”). Company has created this privacy policy (“Privacy Policy”) in order to disclose our information gathering and dissemination practices.
 
-This website is owned and operated by Elite Web Holding, LLC **.** We are committed to protecting the privacy of our visitors while they interact with the content, products and services on this site (the “Site”).  This Privacy Policy applies to the Site only. It does not apply to other websites to which we link.  Because we gather certain types of information about our users, we want you to understand what information we collect about you, how we collect it, how that information is used, and how you can control our disclosure of it. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
+While Company strongly encourages clients, affiliates and partners to adopt responsible approaches to online marketing, Company is not responsible for the practices of its clients, affiliates and/or partners. The collection, use and disclosure of information by clients, affiliates and/or partners is subject to their respective privacy policies, which may differ from this Privacy Policy.
 
-**1)   Information Collected**
+When you visit the Site, we send a cookie and (“Cookie”) to assign an anonymous, unique identifier to your Internet browser. A Cookie is a piece of data stored on your hard drive containing non-personally identifiable information about you. Cookies have many benefits to enhance your experience at the Site, and are in many instances necessary for the provision of the services offered on the Site. To find out more about Cookies, please visit [www.cookiecentral.com](http://www.cookiecentral.com/). To disable and reject certain Cookies, please reference the above website for specific browser disabling information. Please be advised that where you disable or reject Cookies, you may not be able to use the certain services offered through the Site. Company reserves the right to retain Cookie data indefinitely.
 
-We collect two types of information from you: i) information that you voluntarily provide to us (e.g. through a voluntary registration process, sign-ups or emails); and ii) information that is derived through automated tracking mechanisms.
+The use of Cookies by our third party tracking utility company is not covered by our Privacy Policy. We do not have access or control over these cookies. Our third party tracking utility company uses session ID Cookies on our Site to make it easier for you to navigate our Site.
 
-·       Voluntary Registration Information.
+**Clear Gifs (Web Beacons/Web Bugs)**
 
-In order to fully access this Site, you must first complete the registration process, during which we will collect personal information about you. The information will include your name, address, and email address and any other personal or detailed information about yourself that will be shown in your personal profile. We do not collect personally identifiable information about you except when you specifically provide such information to us on a voluntary basis such as through our opt in newsletter.
+Our third party tracking utility company employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to personally identifiable information.
 
-By registering with us (submitting your name, email address, and zip code, you consent to the use and method of disclosure as described in this Privacy Policy.
+Since the use of new technology including Cookies, web beacons, and other technology is rapidly evolving, as is our use of new and evolving technology, we may change or use additional or new technology from time to time.
 
-·       Voluntary Information for Services and Features
+**Use of Information Obtained by Company**
 
-We [also] collect personally identifiable information when you choose to use certain other features of the Site, including: i) making purchases ii) consenting to receive email or text messages about upcoming promotions or events, iii) consenting to receive email, iv) participating in our polls, iv) commenting on anything throughout out site, and others. When you choose to use these additional features, we require you to provide your “Contact Information” in addition to other personal information that may be required to complete a transaction such as your phone number, billing and shipping addresses and credit card information.  Occasionally, we may also request information such as your shopping preferences and demographics which will help us better serve you and our others users in the future. We will not sell, rent, or share your personal information for marketing purposes without your consent.
+_Sharing of the Information Gathered/Tracked by the Site_
 
-·       Cookies
+Any personal information that you submit at the Site remains your property. However, by submitting that information to us, you grant to us the right to use your personal information, subject to applicable state and federal law, in the ways set forth herein.
 
-Our site uses “cookies” and other tracking technologies.  Cookies enable us to serve secure pages to our users without asking them to sign in repeatedly.  Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. If a user’s system is idle for a defined time, the cookie will expire, forcing the user to sign in again to continue their session. This prevents unauthorized access to the user’s information while they are away from their computer.
+We may share the personal information that you supply to us with any third party and we may work with other businesses to bring selected retail opportunities to our you. These businesses and third parties may include, but are not limited to: (a) providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation; (b) e-mail marketers; (c) telemarketers (where permitted by applicable law); (d) SMS text-based marketers (where permitted by applicable law); (e) direct marketers and (f) Intelligent Delivery Corp. If you no longer wish to have your email address or mobile phone number shared with such third parties for their promotional purposes, please [contact us](http://freebiesfrenzy.com/contact-us/) or contact that third party directly.
 
-You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Site.
+We may also employ other companies and individuals to perform certain functions on our behalf. Examples include sending direct and electronic mail, removing duplicate information from user lists, analyzing data, and providing marketing analysis. The agents performing these limited functions on our behalf shall have access to your personal information as needed to perform their functions for us but we do not permit them to use your personal information for other purposes.
 
-Third-Party Cookies:  In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique “cookie” on your browser.
+We may also use your personal information for internal business purposes, such as analyzing and managing our business. We may also combine the information we have gathered about you with information from other sources. We may use third parties to help us operate our business and the Site or to administer activities on our behalf.
 
-**2)   Referrals**
+Company may share personally identifiable information with its affiliated entities or in connection with the sale, merger, consolidation, change in control, transfer of substantial assets or reorganization or liquidation of Company. Company may release account and any other personally identifiable information: (i) to respond to a subpoena or otherwise comply with the law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Site; (ii) to enforce or apply this Privacy Policy, and other Company agreements and policies; (iii) when we deem it necessary or appropriate including, without limitation, sharing your e-mail address with other third parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time, and Federal Trade Commission implementing regulations; and/or (iv) to protect the rights, property or safety of Company or others, including exchanging information with other companies and organizations for fraud protection purposes. Without limiting the generality of the foregoing, we will share the personal information with our third party data, marketing, and sales partners for the purpose of sending you marketing emails. If you no longer wish to have your personal information shared with such third parties, please [contact us](http://freebiesfrenzy.com/contact-us/) or contact that third party directly.
 
-You may choose to invite friends to join the FreebiesFrenzy.com ** ** by sending invitation emails via our invite feature. FreebiesFrenzy.com ** ** stores the email addresses you provide so that the respondents may be added to your social network, confirm orders/purchases and also to send reminders of the invitations. FreebiesFrenzy.com **** does not sell these email addresses or use them to send any other communication besides invitations and invitation reminders. Recipients of invitations may contact FreebiesFrenzy.com **** to request removal of their information from our database.
+By registering at the Site, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR §310 et seq.), as amended from time to time (the “Rule”) and applicable state do-not-call regulations. As such, notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, and/or on applicable state do-not-call lists, we retain the right to contact that you via telemarketing in accordance with the Rule and the applicable state do-not-call regulations.
 
-**3)   How We Use Your Information**
+In addition, by submitting personal information at the Site, you agree to receive mobile marketing including, but not limited to, text-message based marketing, from us and our third party advertisers and marketers (where, and to the extent that, such marketing is permitted by applicable law). As such, notwithstanding that a your mobile telephone number may be listed on state and/or federal Do-Not-Call registries, we retain the right to contact you via text-message based marketing in accordance with applicable state and federal law. Further, you agree that we may share your mobile telephone and other mobile data with our third party data, marketing and sales partner’s non-marketing uses permitted by this Privacy Policy and applicable law. If you no longer wish to have your mobile number or other mobile data shared with such third parties, please [contact us](http://freebiesfrenzy.com/contact-us/) or contact that third party directly.
 
-FreebiesFrenzy.com **** only uses your personal information for the original purposes it was given. Your personal information will not be sold or otherwise transferred to unaffiliated third parties without your approval at the time of collection.
+We may maintain separate e-mail lists for different purposes. If you wish to end your e-mail subscription from a particular list, You need to follow the instructions at the end of each e-mail message to unsubscribe from the particular list. In every e-mail communication that Company sends, there is an unsubscribe hyperlink that allows the recipient to unsubscribe from the specific marketing program by simply clicking the hyperlink provided and following the instructions that follow. Further, even where a you unsubscribe from all of our lists, we cannot guarantee that you will never receive another mailing from us, because we may obtain your e-mail address in the future through a different e-mail marketing program that you have opted-in to. However, if you should ever receive another e-mail communication from us, you will be able to remove your e-mail address via the applicable unsubscribe hyperlink. Also, you may, at any time, notify Company that you do not wish to have Company disclose your personal information to third parties for offers and promotions by sending an e-mail to [us](http://freebiesfrenzy.com/contact-us/).
 
-FreebiesFrenzy.com **** will not disclose, use, give or sell any personal information to third parties for any purposes other than to our suppliers and other third parties who need to know in order to deliver services on behalf of FreebiesFrenzy.com **** unless required to do so by law. Further, FreebiesFrenzy.com **** reserves the right to contact you regarding matters relevant to the underlying service provided and/or the information collected.
+**Changes in Our Privacy Policy**
 
-Please note that personally identifiable information is used only to provide you with a more enjoyable, convenient online experience and to help us identify and/or provide information, products or services that may be of interest to you. We use your personally identifiable information to support and enhance your use of the Site and its features, including without limitation: fulfilling your order; providing customer service; tracking email invitations you send; and otherwise supporting your use of the Site.
+If we change our Privacy Policy, we will prominently post a link to those changes on our Site’s homepage so that you are always aware of what information we collect, how we use it and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this Privacy Policy, we will notify you here, by email or by means of a notice on our home page. Your continued use of the Site and/or continued receipt of Company e-mails after posting of the Privacy Policy change on the Site, or receipt of a Privacy Policy change notification e-mail, as applicable, constitutes an affirmative acknowledgment and acceptance by you of the modified Privacy Policy.
 
-FreebiesFrenzy.com **** may use your personal information for target advertising toward you based on things such as region, gender, interests, goals, habits, etc.
+**Security**
 
-We may permit certain trusted third parties to track usage, analyze data such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any) and other parameters in the URL. This is collected in order to better understand our Web site usage, and enhance the performance of services to maintain and operate the Site and certain features on the Site. We may use third parties to host the Site; operate various features available on the Site; send emails; analyze data; provide search results and links and assist in fulfilling your orders.
+While we strive to protect your personal information, we cannot ensure or warrant the security of any information that you transmit to us, and you do so at your own risk.
 
-We may transfer personally identifiable information as an asset in connection with a proposed or actual merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganization, stock sale or other change in control.
+**E-mail Choice/Opt-out**
 
-FreebiesFrenzy.com **** may disclose Contact Information in special cases where we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our terms and conditions of use or may be causing injury or interference with our rights, property, our customers or anyone who could be harmed by such activities.
+We provide you with the option to opt-out from receiving information sent via electronic mailings on behalf of third party advertisers. You may unsubscribe from receiving e-mail at any time by following the instructions contained at the end of every e-mailing. We may maintain separate e-mail lists for different purposes. If e-mail recipients wish to end their e-mail subscription from a particular list, they need to follow the instructions at the end of each e-mail message to unsubscribe from the particular list.
 
-WE ARE NOT LIABLE OR RESPONSIBLE FOR THE PERSONALLY IDENTIFIABLE OR OTHER INFORMATION YOU CHOOSE TO SUBMIT IN FORUMS SUCH AS A BULLETIN BOARD, CHAT ROOM OR ANY OTHER PUBLICLY ACCESSIBLE AREA OF THE SITE.
+Information sent on behalf of third party advertisers is prepared several days in advance, so you may continue to receive e-mail from us for up to ten (10) days following the unsubscribe procedures detailed above.
 
-You will receive notice when your personally identifiable information might be provided to any third party for any reason other than as set forth in this Privacy Policy, and you will have an opportunity to request that we not share such information.
+**General Provisions**
 
-We use non-identifying and aggregate information to better design our website and for business and administrative purposes. We may also use or share with third parties for any purpose aggregated data that contains no personally identifiable information.
+_Links_
 
-**4) How We Protect Your Information**
+The Site contains links to other websites. Please be aware that Company is not responsible for the privacy practices of other websites. We encourage you to be aware when you leave the Site and to read the privacy policies of each and every website that collects personally identifiable information. This Privacy Policy applies solely to information collected by the Site.
 
-We are committed to protecting the information we receive from you. We take appropriate security measures to protect your information against unauthorized access to or unauthorized alteration, disclosure or destruction of data. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we maintain appropriate physical, electronic, and managerial procedures to safeguard and secure the information and data stored on our system. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved.
+Blog
 
-**5) Third Party Advertising**
+Our Site may offer publicly accessible blogs and/or commentary. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
 
-Advertisements appearing on this Site may be delivered to you by FreebiesFrenzy.com **** or one of our Web advertising partners. Our Web advertising partners may set cookies. Doing this allows the advertising partners to recognize your computer each time they send you an advertisement. In this way, they may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked. This information allows an advertising partner to deliver targeted advertisements that they believe will be of most interest to you. FreebiesFrenzy.com **** does not have access to or control of the cookies that may be placed by the third party advertising servers of ad partners.
+Children’s Privacy
 
-This privacy statement covers the use of cookies by FreebiesFrenzy.com **** and does not cover the use of cookies by any of its advertisers.
+Company is very sensitive to the issue of children’s privacy and, therefore, we endeavor to protect the privacy of children using the Internet. The Site, as well as its products and services, are not developed for or directed at children. Visitors under eighteen (18) years of age are not eligible to do business with us and we do not knowingly solicit or collect personal information from any person that we actually know is under the age of eighteen (18). Company encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. If you believe that your child has provided Company with any personally identifiable information, please [contact us](http://freebiesfrenzy.com/contact-us/) to have this information removed.
 
-**6) Accessing and Updating Your Personal Information and Preferences**
+California Civil Code Section 1798.83 enables California residents who have provided PII to Company, and/or to a third party who has then shared such information with Company, to request information regarding Company’s disclosure of such PII information to third parties.  Within thirty days of receipt of such a request, Company will provide a list of the PII disclosed to third parties for the past calendar year, along with the names and addresses of such third parties.  This request may not be made more than once per calendar year.  Should you wish to exercise your rights under this Section, please use the postal address listed below.  Company reserves the right not to honor and/or respond to such requests that are not sent to the address below.
 
-We provide mechanisms for updating and correcting your personal information for many of our services.  If you are a registered user, you may access and update your registration information and your preferences to receive email or other communications by logging into your account and updating your settings within your profile.
+Contacting the Site
 
-**7) Email Choice/Opt-out**
+If you have any questions about this Privacy Policy, the practices of the Site, or your dealings with the Site, please [contact us](http://freebiesfrenzy.com/contact-us/).
 
-If any user who receives an email from the Site and would prefer not to receive such communications in the future, [he or she] can do so by following the instructions in the emails to opt out.  If you unsubscribe using the link in our emails, you will be unsubscribed immediately from our system, but you may still receive communications from us for up to five business days.
+Mailing Address:
 
-** Children’s Privacy and Parental Controls**
+Elite Web Holding, LLC
 
-We do not solicit any personal information from children. If you are not 18 or older, you are not authorized to use the Site. Parents should be aware that there are parental control tools available online that can be used to prevent children from submitting information online without parental permission or from accessing material that is harmful to minors.
+P.O. Box 1072
 
-**9) Disclaimer to Security**
-
-By consenting to the Terms and Conditions of the Site and hence the Privacy Policy, you consent that no data transmission over the Internet is completely secure. We cannot guarantee or warrant the security of any information you provide to us and you transmit such information to us at your own risk.
-
-**10) Notification of Changes**
-
-FreebiesFrenzy.com **** reserves the right to change this Privacy Policy from time to time at its sole discretion. If at some point in the future, there is a change to our Privacy Policy, unless we obtain your express consent, such change will only apply to information collected after the revised Privacy Policy took effect. Your continued use of the Site indicates your assent to the Privacy Policy as posted.
-
-**11)   CONTACT INFORMATION:**
-
-If you have any questions or concerns regarding this Privacy Policy please contact us using our contact form on our website.
+Dubuque, IA 52004
