@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidiload.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625112106id_/http%3A//www.vidiload.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidiload.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224111033id_/http%3A//www.vidiload.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Vidiload - Privacy Policy
 
