@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitorscoverage.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626015705id_/http%3A//www.visitorscoverage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitorscoverage.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224120020id_/http%3A//www.visitorscoverage.com/privacy) for the most accurate reproduction.*
 
 # VisitorsCoverage - Privacy Statement and Privacy policy
 
@@ -6,7 +6,7 @@
 
 So that we can provide you with the most efficient and enhanced service, we may request information about you. We may also collect personally identifiable information such as name, email addresses and demographic information. We also may collect your IP address, browser type, domain name, access times and referring Web site address. 
 
-There are links to third party sites on our website. This Privacy Policy does not apply to information users consent to give to third parties not affiliated with VisitorsCoverage. Any information users give to another party is governed by the rules of that party’s privacy policy, which may differ from this Privacy Policy. VisitorsCoverage is not responsible for information given to other parties. 
+There are links to third party sites on our website. This Privacy Policy does not apply to information users consent to give to third parties not affiliated with VisitorsCoverage. Any information users give to another party is governed by the rules of that party's privacy policy, which may differ from this Privacy Policy. VisitorsCoverage is not responsible for information given to other parties. 
 
 **WHAT WE DO WITH COLLECTED INFORMATION**
 
@@ -18,11 +18,11 @@ We allow users of our Web site to send articles or links by email to other parti
 
 We reserve the right to use or disclose any information without notice or consent as needed to satisfy any law, regulation or legal request (e.g., subpoenas), to conduct investigations of consumer complaints or possible breaches of law, to protect the integrity of our site and our property, to protect the safety of our visitors or others, to fulfill your requests, or to cooperate in any legal investigation. 
 
-You should be aware that if you voluntarily disclose information online (whether through VisitorsCoverage’s services or any other services available online), personal or otherwise, that information could be collected and used by others. For example, if you use chat forums, bulletin boards, and you post your e-mail or id, you may receive unsolicited messages form others. VisitorsCoverage has no control over this use of your personal information.
+You should be aware that if you voluntarily disclose information online (whether through VisitorsCoverage's services or any other services available online), personal or otherwise, that information could be collected and used by others. For example, if you use chat forums, bulletin boards, and you post your e-mail or id, you may receive unsolicited messages form others. VisitorsCoverage has no control over this use of your personal information.
 
 **USE OF COOKIES**
 
-Your browser offers so-called “cookies” which, if you allow their use, store small amounts of data on your computer when you visit a Web site. Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. Cookies simply assist us in tracking which of our features you like best. Cookies will also enable us to customize our content according to your preferences. You have the ability to accept or decline cookies by modifying your browser and our Web sites are viewable even if you disable cookies, some advanced and customized features of our site, as well as other Web sites, will not be available to you.
+Your browser offers so-called "cookies" which, if you allow their use, store small amounts of data on your computer when you visit a Web site. Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. Cookies simply assist us in tracking which of our features you like best. Cookies will also enable us to customize our content according to your preferences. You have the ability to accept or decline cookies by modifying your browser and our Web sites are viewable even if you disable cookies, some advanced and customized features of our site, as well as other Web sites, will not be available to you.
 
 Some of the banner ads displayed in our Web sites are provided by outside companies. These ads may contain cookies. While we use cookies in other parts of our Web sites, cookies received with banner ads are collected by our advertisers and we do not have access to this information. 
 
