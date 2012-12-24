@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywbut.com privacy policy that was archived on 2012-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120406064816id_/http%3A//www.mywbut.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywbut.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224144000id_/http%3A//www.mywbut.com/privacy.php) for the most accurate reproduction.*
 
 # mywbut.com | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 We collect information:
 
-  * When you register an account to become a **mywbut.com** user (�User�), such as your name, e-mail, college, stream, year, and a password.
+  * When you register an account to become a **mywbut.com** user (“User”), such as your name, e-mail, college, stream, year, and a password.
   * When you add to your profile with further information about yourself or your private contacts, Answers and other Member-to-Member communication.
   * We use cookies and other technologies to recognize you, customize your experience, and serve advertisements.
   * Like all websites, we automatically receive from your internet use information like your IP address, the URLs of sites from which you arrive or leave the mywbut.com website, your type of browser, your operating system, your mobile provider, your mobile device, and your ISP.
