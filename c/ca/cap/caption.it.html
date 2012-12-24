@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the caption.it privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630003906id_/http%3A//www.caption.it/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the caption.it privacy policy that was archived on 2012-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121224134941id_/http%3A//www.caption.it/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://developers.facebook.com/schema/"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -31,46 +31,11 @@ window.google_analytics_uacct = "UA-210389-9";
 </script>
 </head>
 <body>
-<script type="text/javascript">
-function update_user_box() {
-  var user_box = document.getElementById("user");
-
-  // add in some XFBML. note that we set useyou=false so it doesn't display "you"
-  user_box.innerHTML =
-      "<span><table valign='top'><tr><td valign='top'>"
-    + "<fb:profile-pic uid=loggedinuser facebook-logo=true></fb:profile-pic></td><td valign='top'>"
-    + " Welcome, <fb:name uid=loggedinuser useyou=false></fb:name>.<br><a href='#' onclick='FB.Connect.logout(function() { reload(); }); return false;' ><img id='fb_logout_image' src='http://static.ak.fbcdn.net/images/fbconnect/logout-buttons/logout_small.gif' alt='Connect'/></a>"
-    + "</tr></td></table></span>";
-
-  // because this is XFBML, we need to tell Facebook to re-process the document 
-  FB.XFBML.Host.parseDomTree();
-}
-function get_image(){
- FB.Connect.getAlbums('loggedinuser', NULL);
- }
-function post_image(){
-  var attachment = {'media':[{'type':'image','src':document.getElementById('imgcaptionit').src,'href':'http://www.caption.it/show.php?imgurl='+document.getElementById('imgcaptionit').src}]};
-  FB.Connect.streamPublish('Click the image below to view it larger', attachment);
-}
-</script>
-<script type="text/javascript" src="http://static.ak.connect.facebook.com/connect.php/en_US"></script>
-<script type="text/javascript">
-   FB.init("872f6e1750609332811ecd5b5c367211","",
-   {"ifUserConnected":update_user_box, "reloadIfSessionStateChanged":true});
-</script>
 <div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
 <div align="left">
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr>
-      <td width="200" align="left" valign="top">
-<div id="image_post">
-  <form method="POST">
-  <div id="user">
-    </div>
-  </form>
-</div>
-</td>
-<td width="150" align="left" valign="top">
+<td width="350" align="left" valign="top">
 	  	  	English
 			   | 
 	   	   <a href="http://www.caption.it/br/" title="Em Português">Português</a>
@@ -103,9 +68,8 @@ function post_image(){
 <ul>
 	        <li><a href="http://www.caption.it/" title="Home Page"><span>Home</span></a></li>
         <li><a href="http://www.glitterfy.com/" target="_blank" title="Add Glitter To Your Photos"><span>Glitter Graphics</span></a></li>
-                <li><a href="http://www.aimawaymessages.com/" target="_blank"><span>Away Messages</span></a></li>
-                <li><a href="http://www.avatarmagic.com/" target="_blank"><span>Icons</span></a></li>
-        <li><a href="http://www.musicsrc.com/" target="_blank" title="Music Videos"><span>Music Videos</span></a></li>
+            <li><a href="http://www.aimawaymessages.com/" target="_blank"><span>Status Messages</span></a></li>
+    <li><a href="http://www.avatarmagic.com/" target="_blank"><span>Icons</span></a></li>
     <li><a href="http://www.blingify.com/" target="_blank" title="Facebook Profile Covers"><span>Facebook Profile Covers</span></a></li>
     <li><a href="http://www.ichumon.com/" target="_blank" title="Ichumon Adopt Virtual Pets"><span>Adopt Virtual Pets</span></a></li>
     </ul>
@@ -252,7 +216,6 @@ Images hosted by <a href="http://www.blueturbo.com/file-hosting.php" target="_bl
 All Rights Reserved<br>
 <a href="http://www.caption.it/privacypolicy.php">Privacy Policy</a><br>
 <br>
-<a href="http://www.facehelp.com" target="_blank" class="style_bottomlinks">Facebook Help</a> |
 <a href="http://www.fbsmileyfaces.com" target="_blank" class="style_bottomlinks">Facebook Smileys</a> |
 <a href="http://passphrasegenerator.com" target="_blank" class="style_bottomlinks">Passphrase Generator</a> |
 <a href="http://www.pacman1980.com" target="_blank" class="style_bottomlinks">Play Pacman</a>
