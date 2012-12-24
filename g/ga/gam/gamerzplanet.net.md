@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamerzplanet.net privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508031557id_/http%3A//www.gamerzplanet.net/forums/gamerzplanet-discussion/100304-gamerzplanet-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerzplanet.net privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224023530id_/http%3A//www.gamerzplanet.net/forums/gamerzplanet-discussion/100304-gamerzplanet-privacy-policy.html) for the most accurate reproduction.*
 
 # Announcement GamerzPlanet Privacy Policy
 
@@ -8,7 +8,7 @@
 >    
 >  **
 > 
-> **Our Commitment To Privacy **Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.   
+> **Our Commitment To Privacy** Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.   
 >    
 >  **The Information We Collect:**
 > 
@@ -35,10 +35,10 @@
 > 
 > **How To Contact Us**
 > 
-> We reserve the right to modify and amend these terms at any time without notice. If you have any concerns on about GamerzPlanet Privacy Police, please **[Only registered and activated users can see links.[](http://www.gamerzplanet.net/forums/register.php)]**  
+> We reserve the right to modify and amend these terms at any time without notice. If you have any concerns on about GamerzPlanet Privacy Police, please **[Only registered and activated users can see links.[](http://www.gamerzplanet.net/forums/register.php)]**http://share-screen.org/streamshow/  
 > 
 
-> Last edited by Messiah; 01-16-2009 at 10:44 AM. 
+> Last edited by xzs; 12-19-2012 at 04:14 PM. 
 
 > Join   
 > _To view links or images in signatures your post count must be 5 or greater. You currently have 0 posts._  
