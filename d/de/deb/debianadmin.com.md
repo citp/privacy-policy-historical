@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debianadmin.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520120704id_/http%3A//www.debianadmin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debianadmin.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224141633id_/http%3A//www.debianadmin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,6 +26,6 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 #### Incoming search terms:
 
-  * [ads to support debian](http://www.debianadmin.com/privacy-policy "ads to support debian") (1)
+  * [web browser cookie debian](http://www.debianadmin.com/privacy-policy "web browser cookie debian") (1)
 
 
