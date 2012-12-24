@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangingtunes.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530182456id_/http%3A//www.bangingtunes.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangingtunes.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224025906id_/http%3A//bangingtunes.com/help/privacy) for the most accurate reproduction.*
 
 # BangingTunes.com Privacy Policy
 
