@@ -1,32 +1,36 @@
-> *The following text is extracted and transformed from the topperliquidators.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625124007id_/http%3A//www.topperliquidators.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topperliquidators.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224163027id_/http%3A//www.topperliquidators.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : Topper Liquidators - Merchandise Liquidators, Overstock Liquidations, Wholesale Sunglasses, Surplus Liquidator, Discount Wholesale Wedding Gowns, Liquidation Services
+# Privacy Notice : Topper Liquidators - Fine Merchandise, Closeouts, Overstocks and More
 
-Thank you for visiting Topper International Liquidators & Liquidation Services. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information collected for future use, not on a retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. Note: the privacy practices set forth in this privacy policy are for TopperLiquidators.com only. If you link to other web sites, please review the privacy policies posted at those sites.
+Thank you for visiting Topper International Liquidators & Liquidation Services. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy.
 
-### Site Security - SSL Certificates  
+These practices may be changed, but any changes will be posted and changes will only apply to activities and information collected for future use, not on a retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
+_Note: the privacy practices set forth in this privacy policy are for TopperLiquidators.com only. If you link to other web sites, please review the privacy policies posted at those sites._
 
-Topper Liquidators uses industry-standard 256-bit SSL Encryption for all transactions and all activities that may expose your personal information. SSL uses a cryptographic system that uses two keys to encrypt data − a public key known to everyone and a private or secret key known only to the recipient of the message. A hacker would need both of these keys in order to unscramble your information - a very unlikely scenario.
+####  Site Security - SSL Certificates
 
-### Collection of Information
+> Topper Liquidators uses industry-standard 256-bit SSL Encryption for all transactions and all activities that may expose your personal information. SSL uses a cryptographic system that uses two keys to encrypt data − a public key known to everyone and a private or secret key known only to the recipient of the message. A hacker would need both of these keys in order to unscramble your information - a very unlikely scenario.
 
-We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request only, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists. 
+####  Collection of Information
 
-### Cookie/Tracking Technology
+> We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request only, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
 
-The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology; however, if you previously provided personally identifiable information, cookies may be tied to such information. Non-identifiable aggregate cookie and tracking information may be shared with third parties for network and traffic monitoring. 
+####  Cookie/Tracking Technology
 
-### Distribution of Information
+> The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology; however, if you previously provided personally identifiable information, cookies may be tied to such information. Non-identifiable aggregate cookie and tracking information may be shared with third parties for network and traffic monitoring.
 
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these entities for marketing purposes. 
+####  Distribution of Information
 
-### Commitment to Data Security
+> We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these entities for marketing purposes.
 
-Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings. 
+####  Commitment to Data Security
 
-### Privacy Contact Information
+> Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
 
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: 
+####  Privacy Contact Information
 
-#### By e-mail: support@toppergroup.com By Phone: 954-454-1300
+> If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
+> 
+> By e-mail: support@toppergroup.com  
+>  By Phone: 954-454-1300
