@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiangilma.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501093414id_/http%3A//www.indiangilma.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiangilma.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224071251id_/http%3A//indiangilma.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IndianGilma.Com
 
