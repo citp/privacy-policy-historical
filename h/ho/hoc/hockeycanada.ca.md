@@ -1,74 +1,141 @@
-> *The following text is extracted and transformed from the hockeycanada.ca privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620094100id_/http%3A//www2.hockeycanada.ca/%23privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeycanada.ca privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224025950id_/http%3A//www.hockeycanada.ca/index.php%3Fci_id%3D15167%26la_id%3D1) for the most accurate reproduction.*
 
-# Hockey Canada
+# PRIVACY POLICY
 
-## Website Privacy Policy
+**Background**
 
-Hockey Canada has contracted Elastic Path Services Inc. ("EP") as its online store solution provider to create, manage and operate the Online Store at hockeycanada.ca. Respecting the privacy and confidentiality of your personal information, both Hockey Canada and EP have agreed to abide by the terms of this Privacy Policy. 
+Hockey Canada is the sole governing body for amateur hockey in Canada. In co-operation with thirteen Branch associations, the Canadian Hockey League and Canadian Inter-University Sport, Hockey Canada operates Hockey Programming across Canada. Hockey Programming means making all arrangements for amateur hockey leagues, teams and games including choosing and training coaches and referees, deciding which players may participate at which level, establishing appropriate rules and regulations for amateur hockey. As part of their Hockey Programming activities, Hockey Canada and its aforementioned partners also take responsibility for determining if transfer regulations may apply, scouting, gauging the success of certain programs in order that might improve upon them, facilitating emergency contact, providing educational opportunities, career opportunities, research and to maintaining regular electronic updates/contact with participants.
 
-This Privacy Policy explains how Hockey Canada and EP collect, use and disclose of your personal information that is collected through the Online Store at hockeycanada.ca (the “Website”). The purpose of this Policy is to make visitors to the Website aware of how Hockey Canada and EP protect the privacy and confidentiality of your personal information and describe the circumstances under which Hockey Canada and EP will collect and use your personal information.
+**Purpose of this Policy**
 
-## Jurisdiction
+Hockey Canada has developed this Privacy Policy for implementation beginning January 1, 2004. This Policy describes the way that Hockey Canada collects, uses, retains, safeguards, discloses and disposes of the personal information of prospective members, members, and others including players, coaches, referees, managers and volunteers.
 
-This terms and conditions under which you use this Website (including as it relates to this privacy policy) are governed by and interpreted solely in accordance with the laws of the Province of British Columbia and the applicable federal laws of Canada. You are responsible for informing yourself of the laws of the jurisdiction and complying with those laws. Any litigation relating to the terms and conditions of use of this Website (including as it relates to this privacy policy) shall be brought solely within the Province of British Columbia and shall be within the exclusive jurisdiction of the Courts of the Province of British Columbia. 
+This Policy describes the way that Hockey Canada will, subject to applicable legal requirements, adhere to all relevant federal and provincial legislative privacy requirements. The Policy follows the 10 Canadian Standards Association (CSA) principles identified in the federal Personal Information Protection and Electronic Documents Act (PIPEDA). The Policy describes each principle and the method of implementing each. Hockey Canada will strive to meet or exceed federal and provincial legislative requirements and will ensure that it remains current with changing technologies and laws. Any and all changes will immediately be posted to the Hockey Canada web site.
 
-## What is personal information?
+**1.** **Accountability**
 
-Personal information is information about an identifiable individual. Personal information includes such details as your name, address, telephone number, birth date, purchase information or e-mail address. As a customer, you provide Hockey Canada and EP with this information when you shop at the Online Store at hockeycanada.ca. In every case, Hockey Canada and EP adhere to strict guidelines when dealing with your personal information. 
+**1.1** Hockey Canada will appoint a staff person (the "Privacy Officer") whose responsibilities will include those of the implementation and monitoring of the Hockey Canada Privacy Policy. The Privacy Officer will be responsible for Hockey Canada’s compliance with privacy principles. This person will also be responsible for responding to access requests in accordance with this Policy. The Privacy Officer will report to the President and the ultimate responsibility for Privacy issues will rest with the Hockey Canada Board of Directors. The Privacy Officer may at his/her discretion enlist assistance from other staff members and/or volunteers within the organization. This will not in any manner mitigate his/her responsibility for Privacy issues.
 
-## What are the purposes for collection, use and disclosure of personal information? 
+**1.2** The Privacy Officer’s identity will be fully disclosed and publicly accessible to Hockey Canada members and the public in general. Hockey Canada’s Privacy Officer is Glen McCurdie and can be reached at [gmccurdie@hockeycanada.ca](mailto:gmccurdie@hockeycanada.ca), or by phone at 613-562-5677, extension #2314.
 
-Hockey Canada and EP will collect, use and disclose of your personal information with your knowledge and consent and only for purposes that we have identified prior to or at the time we collect the information. Some of the purposes for which Hockey Canada and EP may collect, use and disclose of your personal information on this Website are: 
+**1.3** Hockey Canada’s Privacy Officer will ensure that Hockey Canada manages all personal information in its possession in accordance with this Policy including that which may be transferred to a third party. Third party organizations who handle information on behalf of Hockey Canada shall be contractually obligated to adhere to the standards of Hockey Canada.
 
-  * To facilitate communication with you
-  * To process your order of any Hockey Canada merchandise
-  * To process any of your requests for information
-  * To grant/enable you to access certain special features or areas of the Website
-  * To make certain services available to you through the Website 
-  * To administer participation in contests
-  * To announce special events
-  * To advise you of changes to this Website
+**1.4** Hockey Canada will implement internal policies which will facilitate adherence to this Privacy Policy including but not limited to the following:
 
+Security measures at all levels designed to protect personal information in our possession.  
+• Implementing procedures designed to respond to complaints and/or inquiries.  
+• Staff training in all facets of information management, including awareness of Hockey Canada’s Privacy Policy and policies and procedures developed in accordance with the Policy.
 
+**2.** **Identifying Purposes, Type of Information Collected and Website**
 
-Neither Hockey Canada nor EP will sell, trade, lend or otherwise voluntarily disclose to any third parties any personal information you have provided to us for any purpose not identified under this Privacy Policy. Hockey Canada and EP may share your personal information with third parties to assist us in administering activities on this website, such as: for website administration and maintenance purposes; for administration of contests and data processing; or for otherwise for legitimate and reasonable purposes for which either Hockey Canada or EP have obtained your prior consent. Hockey Canada and EP may also share your information with professional advisors. 
+**2.1** Hockey Canada shall only collect the information reasonably necessary to conduct Hockey Programming. Access to our Privacy policies and procedures will be readily available. Similarly, the process by which challenges may be made to Hockey Canada’s compliance and/or adherence to the legislation in question shall be readily available and transparent. To obtain further information, contact Hockey Canada’s Privacy Officer. Hockey Canada’s Privacy Officer is Glen McCurdie and can be reached at [gmccurdie@hockeycanada.ca](mailto:gmccurdie@hockeycanada.ca), or by phone at 613-562-5677, extension #2314.
 
-In certain circumstances, Hockey Canada or EP may disclose your personal information to a government institution that has asserted its lawful authority to obtain the information, or where either of Hockey Canada or EP have reasonable grounds to believe the information could be used in the investigation of an unlawful activity, or to comply with a subpoena or warrant or an order made by a court, person or body with jurisdiction to compel production of information or to comply with court rules regarding a production of records and information, or to our own legal counsel.
+**2.2** Hockey Canada collects personal information from prospective members, members, coaches, referees, managers and volunteers for the purposes of conducting Hockey Programming. Specifically:  
+• A player’s name, address and date of birth are collected to determine that the player’s geographical, division of play and level of play information are consistent with Hockey Canada/Branch regulations.  
+• Historical information concerning past teams played for is collected in order to determine if any Hockey Canada transfer regulations may apply.  
+• Information concerning an individual’s skill level and development and feedback on programs is collected to measure the success of our programs in order that we may better plan future programs.  
+• Information as to a player’s parents’ name, address, telephone numbers and email addresses may be collected in order to facilitate emergency contact information as well as to ensure compliance with Hockey Canada residency regulations.  
+• Educational information may be collected in order to ensure all Hockey Canada residency regulations have been adhered to.  
+• E-mail addresses may be collected for the purposes of facilitating membership communication related to upcoming events and programs.  
+• Information about skill levels, ability, emergency contacts and health to ensure our activities are carried out in a safe and secure environment.  
+• Personal information collected for the purposes of hockey registrations may also be used for hockey specific research purposes including but not necessarily limited to hockey demographic type research.  
+• Affiliates. Hockey Canada has numerous organizations which offer hockey programs under the auspices of Hockey Canada. These include the Canadian Hockey League, Canadian Inter-University Sport and provincial and local Branches, associations, and leagues. Hockey Canada discloses the personal information described in paragraph 2.2 to all of these organizations in order to facilitate Hockey Programming and ensure compliance with rules and regulations.  
+• Potential and actual insurance claims and the subsequent investigation thereof.  
+• Appeals and regulations challenges as well as information collected to defend Hockey Canada against legal action brought against Hockey Canada.
 
-When you provide Hockey Canada or EP with your personal information, such as to facilitate the purchase of Hockey Canada merchandise, you are consenting to the collection, use and disclosure of your personal information for these purposes in accordance with the principles that are outlined in the Privacy Policy. 
+**2.3** Hockey Canada will endeavour through its member Branches, associations/leagues to advise potential registration candidates of the purpose for the collection of the data requested at the time of registration or by reference to our web site at www.hockeycanada.ca. We will further endeavour to ensure that all collectors of the personal information are familiar with the potential use of the personal data. All personal data collected by Hockey Canada shall be maintained in either of its two offices or its four Centres of Excellence offices all of which are listed on our web site.
 
-If you have given us your consent, you may, at any time, withdraw your consent upon giving us reasonable notice.
+**2.4** Hockey Canada will request individually permission for the use of any personal data collected which is extraneous to that which has been identified above, unless said usage is authorized by law.
 
-## Use of technology on the website
+**2.5** Hockey Canada may also use information about an individual who accesses secure areas of www.hockeycanada.ca. Information you are asked to provide during your use of our web site may include your name, address, e-mail address, age, sex [and the other types of personal information listed in paragraph 2.2]. All such personal information will be treated within the same parameters as other personal information collected by Hockey Canada through other means. It is always your choice to provide information in certain fields although failure to complete certain sections may inhibit your ability to fully access all areas of the web site. Our web site also collects non-identifiable information about users such as the users IP address, the sections of the web site visited and the information downloaded. Hockey Canada may use this non-identifiable information and disclose it to service providers, for system administration purposes and to improve the web site.
 
-The website uses cookie technology to make your use of the website more convenient. A cookie is a text file which enables the website to store any information about your activities on the website or the length of your stay. Personal information about your visits to the website is used on an aggregate basis, which means it is used for statistical purposes to assist us in enhancing your online experience, or to evaluate the materials that we may carry on the website. 
+**3.** **Consent**
 
-If you choose to disable cookies associated with the Website, this may affect your use of the Website and your ability to access certain features of the Website.
+**3.1** Hockey Canada will use the personal information for the uses specified above in section 2 and in Sections 3.2 and 3.3 below. By consenting to provide your information to Hockey Canada, you are deemed to consent to our use of the information for the purposes of Hockey Programming listed in Section 2 of this Privacy Policy and to disclosure of the information to other associated organizations for the same purpose.
 
-## Unlawful Activities
+**3.2** In addition to using personal information for Hockey Programming purposes, Hockey Canada may from time to time wish to use member name, address and contact information for the purposes of providing promotional opportunities, including by providing the information to Hockey Canada’s branches, leagues and associations and other third parties who Hockey Canada believes provide services or goods that may be of interest to you. Hockey Canada and any such third parties may contact you to with promotions [or to provide further hockey specific communications and association/league Branch information updates]. Hockey Canada will provide an opportunity for the member to consent to these opportunities during the registration process. If you consent but later wish to opt out of this use of information later, you may do so by contacting us as described at Section 3.4 below.
 
-This website reserves the right to co-operate with local, provincial, national and international authorities in investigations of improper or unlawful activities and this may require the disclosure of personal information. We may also report to other organizations about improper or unlawful user activities on this website and this reporting may include disclosure of personal information relating to those individuals conducting such improper or unlawful activities. 
+**3.3** Hockey Canada recognizes that hockey by its nature is a contact sport and injuries are to a certain extent inherent in the game. We believe medical records, medical history and medical forms of the individual may be of assistance in an emergency situation and therefore we may request them. While our members and prospective members are under no obligation whatsoever to supply this information and may refuse to do so without penalty, Hockey Canada will consider receipt of this information as consent for its subsequent use in an emergency medical situation.
 
-## E-mail list 
+**3.4** If at any time you wish to withdraw your consent to the use of your information for any purposes, you may do so by contacting the Privacy Officer for Hockey Canada. We will do our best to accommodate your request in a timely fashion without diminishing the services we provide to you. We will explain to you the impact of your withdrawal on any services we provide to you.
 
-The Website may allow you to provide your e-mail address in order for Hockey Canada or EP to send information, updates or promotions regarding the Online Store at hockeycanada.ca. To administer the E-mail List, we will collect your name, e-mail address, geographic location and language of preference for communication. 
+**3.5** Hockey Canada may collect personal information without consent where reasonable to do so and where permitted by law.
 
-## Links to other sites 
+**4.** **Limiting Collection**
 
-This website may contain links to other websites. When you click on of those links, you are contacting another internet resource. Hockey Canada and EP have no responsibility or liability for, or control over those websites, or internet resources or their collection, use and disclosure of your personal information. Please refer to the privacy policy and terms of use contained in any linked site you choose to go to, and familiarize yourself with that website's terms and conditions of use. 
+**4.1** All information shall be collected fairly and lawfully within the criteria as set forth in our Privacy Policy.
 
-## How do we protect your personal information? 
+**4.2** Hockey Canada shall not indiscriminately collect information. The amount and type of information we collect shall be limited to that which is required to fullfill our identified purposes.
 
-The Website endeavours to maintain appropriate procedural and technological measures and storage facilities to prevent any unauthorized use or disclosure of your personal information. Hockey Canada and EP exercise care in the secure transmission of your information, however, no transmission of information over the internet is ever one hundred percent secure. We cannot guarantee that information disclosed through the internet cannot be intercepted by third parties. However, Hockey Canada and EP have taken steps that are reasonably available to them to protect any personal information that is provided through this website. 
+**4.3** Hockey Canada will not use any form of deception in gaining personal information from its members.
 
-## Contacting us about your privacy 
+**5.** **Limiting Use, Disclosure and Retention**
 
-If you have any questions, concerns or complaints about privacy at the Online Store at hockeycanada.ca, or if you would like to withdraw your consent for the use of your personal information, or to obtain a copy of our Protection of Personal Information Principles, contact the Hockey Canada Privacy Office at: 
+**5.1** Subject to applicable legislation, Hockey Canada shall limit use of personal information it collects to purposes that we have disclosed in Sections 2 (Identifying Purposes) and 3.2, Consent.
 
-**Hockey Canada Privacy Office**
+**5.2** Hockey Canada shall maintain documents for certain periods of time dependant upon necessity. More specifically:  
+• We will normally maintain registration data for a three period after an individual has left our programs in the event that an individual chooses to return to our programs after leaving.  
+• Parental/family information will be normally maintained for a similar three year period after a member has left our programs.  
+• Affiliates. Hockey Canada has numerous organizations which offer hockey programs under the auspices of Hockey Canada. As explained above, Hockey Canada may from time to time share information with these Branches, associations, and leagues in order to facilitate Hockey Programming and ensure compliance with rules and regulations.  
+• Hockey Canada may from time to time enlist the services of third party vendors in order to provide hockey programs, technical and support services. Prior to enlisting the services of these firms we will contractually commit them to treat your personal information consistent with the Privacy Policy of Hockey Canada.  
+• Hockey Canada may at some point be involved in the sale, merger, transfer or reorganization of its activities. We may disclose personal information to the other party in such a transaction. Hockey Canada will ensure that we contractually obligate the other party to treat this information in a manner consistent with our Privacy Policy.  
+• Hockey Canada may disclose your personal information to a government authority that has asserted its lawful authority to obtain the information or where the association has reasonable grounds to believe the information could be useful in the investigation of an unlawful activity, or to comply with a subpoena or warrant or an order made by the court, person, or body with jurisdiction to compel the production of the information or otherwise as permitted by applicable law.  
+• Hockey Canada may at its discretion release personal information for the purposes of collecting debts which may be owed to Hockey Canada.
 
-The Privacy Officer’s identity will be fully disclosed and publicly accessible to Hockey Canada members and the public in general. Hockey Canada’s Privacy Officer, Glen McCurdie, can be reached at [gmccurdie@hockeycanada.ca](mailto:gmccurdie@hockeycanada.ca), or by phone at 613-562-5677 x 2314.
+**5.3** Certain documents may be subject to legislated retention periods either federally or provincially and these will be respected at all times by Hockey Canada.
 
-This Privacy Policy may be changed from time to time at our sole discretion and without any prior notice. New versions of this Privacy Policy will be posted on this website. Your continued use of this website, subsequent to any changes to the Privacy Policy, will signify that you consent to Hockey Canada and EP's collection, use and disclosure of your personal information in accordance with the revised Privacy Policy. 
+**6.** **Accuracy**
 
-This version has been in effect since September 2009. 
+**6.1** Hockey Canada shall strive to ensure to the extent it can that the information entrusted to us is maintained in an accurate manner. We shall try to maintain the interests of the individual and attempt to ensure that decisions are not made for or about an individual based on personal information that is flawed.
+
+**6.2** Hockey Canada shall only update information in the event of a renewal or registration and/or an update.
+
+**7.** **Safeguards**
+
+**7.1** Security safeguards have been implemented to ensure your personal information is protected from theft as well as unauthorized access, disclosure, copying, use or modification thereof.
+
+**7.2** The level of safeguards employed shall be directly related to the level of sensitivity of the personal information collected. The more sensitive the information, the higher the level of security employed.
+
+**7.3** Methods of protection and safeguards to be employed shall include but in no way be necessarily limited to locked files, offices and storage areas, security clearances and need to know access as well as technological measures such as passwords and encryption.
+
+**8.** **Openess**
+
+**8.1** Hockey Canada publicly discloses the methods by which we handle your personal information. This information is readily available through our Privacy Policy, on our web site or upon request by contacting the Hockey Canada Privacy Officer is Glen McCurdie and can be reached at gmccurdie@hockeycanada.ca, or by phone at 613-562-5677, extension #2314.
+
+8.2 The information available includes:  
+• The name address and phone number of the Hockey Canada Privacy Officer.  
+• The forms (attached) which you may use to access your information or change your information.  
+• A description of the type of personal information held by Hockey Canada and our general uses thereof. This includes:  
+• registration information, including name, date of birth, address, past teams played on, medical information and e-mail addresses  
+• information used for scouting, potential sponsorship opportunities, donors, alumni and information retained for the purposes of Hockey Canada business contacts.  
+• Information that may be made available to related organizations, Branches, associations, leagues and/or third party service providers, in accordance with the provisions of this Privacy Policy.
+
+**9.** **Individual Access**
+
+**9.1** Subject to applicable legislation, upon request by the individual concerned Hockey Canada shall disclose whether or not it actually holds personal information on an individual. We shall disclose the source of this information when requested and provide an account of third parties to whom the information may have been disclosed.
+
+**9.2** Hockey Canada may request sufficient information to confirm your identity before releasing your personal information to you.
+
+**9.3** Subject to applicable legislation, Hockey Canada shall endeavour to provide this information within 30 days of receipt of the information requested and only charge nominal fees for the purpose of off-setting its expenses incurred in supplying the requested information. This information shall be provided in an understandable format, at the time you make a request.
+
+**9.4** Any inaccurate information that is brought to our attention shall be corrected by Hockey Canada as quickly as possible and any pertinent third parties shall be apprised of the corrections in due course.
+
+**10.** **Challenging Compliance**
+
+**10.1** Hockey Canada has in place procedures for the resolution of grievances in the administration of its Privacy Policy.
+
+**10.2** Upon receipt of a complaint Hockey Canada shall make available the complaint procedures which will be simple and easy to access.
+
+**10.3** Hockey Canada shall investigate all complaints. If the complaint is deemed justified Hockey Canada shall take the appropriate steps to ensure that compliance is achieved and will make changes to its policies to allow for compliance in the future.
+
+**10.4** All complaints shall be addressed to the Hockey Canada Privacy Officer Glen McCurdie who can be reached at [gmccurdie@hockeycanada.ca](mailto:gmccurdie@hockeycanada.ca), or by phone at 613-562-5677, extension #2314.
+
+**For more information specifically regarding  
+Hockey Canada's Privacy and Copyright Policies,  
+please contact:**
+
+[Glen McCurdie](mailto:gmccurdie@hockeycanada.ca)  
+Director, Insurance & Member Services  
+Hockey Canada  
+by phone at 613-562-5677, extension #2314  
+[gmccurdie@hockeycanada.ca](mailto:gmccurdie@hockeycanada.ca)
