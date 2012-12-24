@@ -1,42 +1,87 @@
-> *The following text is extracted and transformed from the mysearch.com privacy policy that was archived on 2000-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000618051237id_/http%3A//www.myinternet.com/english/privacy.zpml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysearch.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224135029id_/http%3A//www.mysearch.com/resources/html/privacy.html) for the most accurate reproduction.*
 
-# MYINTERNET.COM: PREMIER DOMAIN NAME SERVICES
+# Mindspark Search Privacy Policy
 
-**PRIVACY STATEMENT**
-
-_myinternet.com_ has adopted this Privacy Statement as an expression of our commitment to fair electronic information practices. 
-
-**Your Personal Information**
-
-When you sign up for membership at _myinternet.com_ , we require the personal information listed in our application found at http://www. _myinternet.com_ /english/signup.zpml. When you subscribe, you agree to provide and maintain accurate and complete information. The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. 
-
-If the information you have provided us requires modification, you can make changes at any time by contacting us via email at [support@myinternet.com](mailto:support@myinternet.com). 
-
-**Who Has Access?**
-
-The employees, agents and business partners of _myinternet.com_ are independently responsible for ensuring compliance with our Privacy Statement. Only those employees who have a legitimate business purpose for accessing and handling your personal information are given authorization to do so. Our information management systems are designed in such a way as to block employees from accessing information without authority. 
-
-**How We Use It**
-
-_myinternet.com_ uses your personal information to accurately track and administer your account. We also use this information to provide you with important notices and to generally keep in touch with you about new product or service offerings or the offerings of our business partners. 
-
-**Sharing Domain Information**
-
-_myinternet.com_ may disclose personal information about you if required to do so by law or other regulatory authority. 
-
-**Your Privacy Concerns**
-
-If you feel that _myinternet.com_ has violated our Privacy Statement in any way, contact us via email at [support@myinternet.com](mailto:support@myinternet.com). 
-
-Legal contact: 
-
-            Traci S. Umberger, Esq.  
-            General Counsel  
-            10900 NE 4th Street, Suite 1630  
-            Bellevue, WA 98004  
-            [legal@ _myinternet.com_ ](mailto:legal@myinternet.com)  
-
+Effective date: **July 13, 2009**
 
 * * *
 
-© _myinternet.com._ 1998-2000. All Rights Reserved.
+Search.mindspark.com (" **Mindspark Search** " or the " **Site** ") is a property of Mindspark Interactive Network, Inc. (" **Mindspark** ," " **we** ," or " **us** ,"). Mindspark is a part of the IAC family of businesses, which includes several dozen brands such as Ask.com, Vimeo, Zwinky, Smiley Central, Girlsense, Chemistry.com, Citysearch, CollegeHumor, Dictionary.com, Evite, Match.com, Pronto, ServiceMagic, and Shoebuy. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/).
+
+At Mindspark, we respect the privacy of our users and the importance of the information they entrust to us. We provide this Privacy Policy so that our users (" **you** ") will know what information is being collected about you and your activities on Mindspark Search, how that information is being used, and with whom it is being shared. This Privacy Policy describes the online privacy practices applicable to Mindspark Search and the various services we provide on or through the Site (collectively, the " **Services** ").
+
+By using the Site and Services, you are agreeing to the collection and use of certain information about you in the manner described in this Privacy Policy. If you install a Mindspark-offered downloadable toolbar application, including a MyWebSearch Toolbar, you will be subject to the applicable End User License Agreement associated with such toolbar that describes what information Mindspark (or Mindspark Search) collects when you use the relevant toolbar and how that information may be used.
+
+We may update this Privacy Policy from time to time. If we make any material changes in the ways we may collect, use, or share information, we will notify you by posting notice of the changes on the Site. We encourage you to periodically review our Privacy Policy to become and remain familiar with it. The Policy includes at the top of the first page the date of the most recent material change.
+
+This Privacy Policy addresses the following issues:
+
+_What types of information do we collect?_ _How may we use the information we collect?_ _How are cookies used on the Site?_ _What information may we share with third parties?_ _What happens when you leave the Site to go to other Internet sites?_ _What is our policy regarding personally identifiable information from children under 13?_ _Do we take security precautions to protect your information?_ _Are there special considerations if you are visiting the Site from outside of the United States?_ _Does this Privacy Policy create any third party rights?_ _Whom can you ask if you have privacy-related questions?_
+
+Each time you visit the Site, we collect the limited information that your browser makes available whenever you visit any website. This information includes: (a) your Internet Protocol (IP) address; (b) the address of the last URL you visited before clicking through to the Site; (c) your browser and platform type (e.g., a Netscape browser on a Macintosh platform); (d) your browser language; and (e) the data in any undeleted "cookies" that your browser previously accepted from us. Additionally, when you enter a search query using the Site or Services, we will receive the query text and process it, together with the above data, to return a search results page to you. If you have modified your browser settings so that address-bar search queries and erroneous domain name system (DNS) requests are submitted to us, we may also receive any search query or misspelled URL that you enter into your browser's address bar. 
+
+The Site and Services generally do not require registration or submission of an account name or email address in order to use them. However, we may offer certain Services for which registration, including the provision of an account name and email address, is required in order to be fully utilized. You would also need to provide us your email address if you submit a help request or other communication via email. The amount of information that you choose to disclose to us is completely up to you, although access to or use of some Services may be affected if information is not provided.
+
+We use the information that we collect to improve the overall quality of your experience with the Site and Services, and to facilitate evaluation, improvement, and development of the Services. We aggregate query information for internal reporting purposes and optimization of advertising revenue. We count, track, and aggregate our visitors' activities in our analysis of general traffic flows at the Site (e.g., tracking where users come from, what pages they select within the Site, how they interact with search results, etc.). 
+
+Information about the search queries you submit to the Site and how you interact with search results may also be used to personalize the content and advertisements that we present to you. We may, based on the search queries you submit and the search results you select (including paid search results), draw inferences about your interests and display advertisements matched to such interests. You may receive such customized ads on the Site or on websites of other Mindspark or IAC businesses, and on third-party sites with advertising managed by Mindspark or another IAC business. If you would like to terminate Mindspark's access to your search history, you may remove our cookies from your computer (consult your browser's "help" menu to learn how to delete cookies).
+
+If you choose to submit your name, email address, or other account or registration information, we generally use this information to provide you personalized service. We may use such information to contact you to respond to a request from you, or in connection with legal proceedings, or if there has been a violation of our Terms of Service or this Privacy Policy. We do not associate your search queries or selected search results in any manner with your name, email address, or account or registration information, unless required to do so by legal process or unless specifically instructed to do so by you.
+
+If you have registered with us, to review, revise, or delete the account information that we have collected about you online and have maintained, please log in to your profile/account page and edit accordingly. However, please understand that although information, once deleted, is not available on the Site, it may remain stored indefinitely in our back-up and archival records.
+
+We use cookies and other technology such as pixel tags to track traffic flow and patterns of travel within the Site as well as websites of other Mindspark and/or IAC businesses. Cookies are a standard Internet technology that allows us to store and retrieve information on a user's system. Our web server automatically asks a new user's browser whether it will accept our cookie file. If the user's browser accepts our cookie, our web server will record the cookie's unique ID for our use in internal reporting and for customized advertising. All of your search queries and interactions with search results on the Sites are associated with your unique cookie ID. When you use the Site, or a website of another Mindspark or IAC business, we may use your cookie data to customize the Services and advertisements delivered to you.
+
+If you would like to remove our cookies from your computer, you can delete them using your browser (consult your browser's "help" menu to learn how to delete cookies). If you choose to decline or remove cookies, please note that you may not be able to use some of the interactive features offered on the Site.
+
+We do not use cookies to track your use of the Internet in any other way, or associate your name, email address, or personal account information with your cookie data unless you specifically ask us to do so. We do not disclose cookie information to third parties, except as otherwise described in this Privacy Policy.
+
+Use of cookies on our Site by third parties. We use third-party companies to serve advertisements when you visit the Site. These companies may use information about your visits to the Site in order to present advertisements about goods and services that may be of interest to you. In the course of serving advertisements on the Site, these companies may place or recognize a unique cookie on your computer or use other technologies such as pixel tags in connection with the Site. In addition, we may allow third-parties, including our authorized service providers, IAC companies, advertising companies, and ad networks, to display advertisements or place ad tags or beacons on the Site. Our Privacy Policy does not cover any use of information that a third-party ad-serving company might collect from you. These companies have their own recordkeeping and data-retention policies. If you would like to consider your options for limiting use of such information by advertising companies, or would like to learn more about this practice, please click here: [http://www.networkadvertising.org.](http://www.networkadvertising.org/)
+
+We do not share your name, account name, or email address with third parties for the purpose of enabling them to send you information about their products or services (or for any other purpose, except to respond to legal process as described below).
+
+_IAC businesses_ : We may use search-query data to identify subject-matter search categories for use in classifying queries and targeting advertising that is delivered in response to queries. We may share the targeting categories as well as the search queries that you submit to us to enable them to personalize advertisements they present to you.
+
+_Third-party service providers_. Some elements or features of the Site are supplied to us by third parties under contract. We may supply some of the information we collect from you to those third parties so that they can provide those elements or features for display on the Site. We may share the following information with third parties: (a) your Internet Protocol (IP) address; (b) the address of the last URL you visited before clicking through to the Site; (c) your browser and platform type (e.g., a Netscape browser on a Macintosh platform); (d) your browser language; (e) the data in any undeleted cookies that your browser previously accepted from us; and (f) the search queries you submit. For example, when you submit a query, we transmit it (and some of the related information described above) to our paid-listing providers in order to generate relevant advertising to display in response to your query and to optimize the number and quality of sponsored results that will be provided to you on the Site. We may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers. If you provide us with answers to voluntary survey questions, we may furnish this information to our advertisers and partners in the form of group statistics compiled from our users' answers to such questions.
+
+These third-party companies have their own recordkeeping and data-retention policies.
+
+_Law enforcement/legal requirements._ We may disclose any information you voluntarily submit to us, as well as any other information we have about you (such as your IP address, the search queries you have submitted, and the search results you have selected) in order to comply with court orders, subpoenas, or regulatory obligations, or when otherwise required to do so by law. We also may disclose such information in compliance with a law-enforcement or other governmental request, or where we believe disclosure is necessary or desirous to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our [Terms of Services](https://web.archive.org/html/tos.html).
+
+_Corporate restructuring_. We also may transfer your information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).
+
+We do not control the information collection and dissemination policies of third-party companies. When you are on the Site, you may be directed to other sites that are beyond our control. For example, if you click on a search result, the click may take you to a third-party website. These other sites may independently collect data from or about you, solicit information from you, or place their own cookies on your computer. We are not responsible for any use of the information such third-party sites may collect.
+
+We may also offer you access to "co-branded" services that are jointly provided by us and selected companies. In many cases, these co-branded services will contain the Site's branding, but might not be hosted by us. You may notice that you are on a co-branded site if the pages say "provided by Mindspark" and/or if our standard branding is not displayed at the top of the page. In such cases, you should click on the privacy link on the page to determine which company's privacy policy applies to the information you enter on the page. Even if the page is governed by a separate privacy policy, we might be entitled to receive information about you when using that service. If you elect to provide registration information when using a co-branded service, the information you provide may be shared and/or retained by the provider of that service in accordance with its own privacy policy and terms of service. We encourage you to consult the privacy policies of such other companies and to contact them directly if you have any questions about their use of your information. When we enter into co-branding service relationships, we generally require the service provider to include a link to its applicable privacy policy and terms of service on the co-branded pages.
+
+In accordance with the Federal Children's Online Privacy Protection Act of 1998 ("COPPA"), we do not knowingly collect personally identifiable information from anyone under the age of 13. Registration on the Site and for the Services is not available to anyone under the age of 13. 
+
+We have security measures in place that are designed to safeguard and help prevent unauthorized access to information we collect online. Mindspark utilizes both industry and proprietary standards to preserve the confidentiality of information. We seek to limit access to our users' information to employees who we believe reasonably need access to that information to provide products or services to you or in order to perform their jobs. These employees have been informed of the need to maintain the security and confidentiality of such information. Unfortunately, no security system can be 100% secure; accordingly, we cannot guarantee the security of the information that we collect online. 
+
+If you are visiting the Site from outside of the United States, your information will be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated. The data-protection and other laws in the United States and other countries might not be as comprehensive as those in your own country. Please be assured, however, that we seek to take reasonable steps to protect your privacy. By using our services, you consent to the transfer of your information to our facilities and those third parties with whom we may share it as described in this Privacy Policy. 
+
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website. 
+
+Questions regarding this Privacy Policy should be directed [here](mailto:privacy@mindspark.com)
+
+END OF DOCUMENT
+
+© 2009 Mindspark Interactive Network, Inc.. All rights reserved.
+
+### GLOSSARY:
+
+Cookies:
+
+A cookie is a small text file that is stored on a user's computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time.
+
+For example, when you sign in to the Site, we will record your user or member ID and the name on your user or member account in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.
+
+You may delete or decline cookies by changing your browser settings. If you do so, some of the features and services of our website may not function properly.
+
+We may allow third-parties, including widget providers, IAC companies, advertising companies, and ad networks, to display advertisements on our Site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. The Website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
+
+Web Beacons:
+
+Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user's computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.
+
+Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
