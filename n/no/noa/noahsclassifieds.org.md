@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the noahsclassifieds.org privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505043624id_/http%3A//www.noahsclassifieds.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noahsclassifieds.org privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224014041id_/http%3A//www.noahsclassifieds.org/privacy.html) for the most accurate reproduction.*
 
-# Noah's Classifieds - Features Page - The Ultimate php E-Commerce Classified Ads Website Application Software on the Web
+# Noah's Classifieds - The Ultimate php E-Commerce Classified Ads Website Application Software on the Web
 
  Noah's Classifieds Web-Application Software Terms of Service 2012
 
@@ -28,7 +28,9 @@ Any of the information we collect from you may be used in one of the following w
 
 ; To process transactions
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
+
+**(CONTINUED BELOW)**
 
 ; To send periodic emails
 
@@ -40,7 +42,7 @@ How do we protect your information?
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
@@ -70,7 +72,7 @@ Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-This policy was last modified on April 8, 2012
+This policy was last modified on December 1, 2012
 
 Contacting Us
 
@@ -78,6 +80,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 www.noahsclassifieds.org
 
-http://noahhelp.zendesk.com/home
-
-* * *
+[ http://noahhelp.zendesk.com/home](http://noahhelp.zendesk.com/home)
