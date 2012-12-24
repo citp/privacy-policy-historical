@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advantech.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625113531id_/http%3A//www.advantech.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advantech.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224115959id_/http%3A//www.advantech.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Advantech - industrial computer , industrial chassis, embedded computer, industrial motherboard, network security appliance, industrial automation, digital video surveillance, panel PC, industrial IO
 
@@ -37,9 +37,45 @@ Advantech will collect, use or disclose personal data supplied by you online onl
   * is necessary to establish or preserve a legal claim or defense, 
   * is necessary to prevent fraud or other illegal activities, such as wilful attacks on Advantech IT systems. 
 
-"Cookies" - Information Stored Automatically on Your Computer
+What sort of cookies does the Advantech use?
 
-When you view one of our Web sites, we may store some data on your computer in the form of a "cookie" to automatically recognize your PC next time you visit. Cookies can help us in many ways, for example, by allowing us to tailor a Web site to better match your interests or to store your password to save you having to re-enter it each time. If you do not wish to receive cookies, please configure your Internet browser to erase all cookies from your computer's hard drive, block all cookies or to receive a warning before a cookie is stored.
+Generally, our cookies perform up to three different functions:
+
+1.Essential cookies
+
+Some cookies are essential for the operation of our website. For example, some cookies allow us to identify subscribers and ensure they can access the subscription only pages. If a subscriber opts to disable these cookies, the user will not be able to access all of the content that a subscription entitles them to.
+
+2\. Performance Cookies
+
+We utilise other cookies to analyze how our visitors use our websites and to monitor website performance. This allows us to provide a high quality experience by customising our offering and quickly identifying and fixing any issues that arise. For example, we might use performance cookies to keep track of which pages are most popular, which method of linking between pages is most effective, and to determine why some pages are receiving error messages. We might also use these cookies to highlight articles or site services that we think will be of interest to you based on your usage of the website.
+
+3\. Functionality Cookies
+
+We use functionality cookies to allow us to remember your preferences. For example, cookies save you the trouble of typing in your username every time you access the site, and recall your customization preferences, such as which regional edition of the website you want to see when you log in. 
+
+We also use functionality cookies to provide you with enhanced services such as allowing you to watch a video online. 
+
+We also use or allow third parties to serve cookies that fall into the four categories above. For example, like many companies, we use Google Analytics to help us monitor our website traffic. We may also use third party cookies to help us with market research, revenue tracking, improving site functionality and monitoring compliance with our terms and conditions and copyright policy. 
+
+**Can a website user block cookies?**
+
+As we’ve explained above, cookies help you to get the most out of our websites. 
+
+However, if you do wish to disable our cookies then please follow the instructions below from main browser providers
+
+[Instructions](http://windows.microsoft.com/en-GB/windows7/How-to-manage-cookies-in-Internet-Explorer-9) for Microsoft Internet Explorer 9.
+
+[Instructions](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences) for Mozilla Firefox.
+
+[Instructions](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647) for Google Chrome.
+
+[Instructions](http://support.apple.com/kb/PH11913) for Apple Safari.
+
+Please remember that if you do choose to disable cookies, you may find that certain sections of our website do not work properly
+
+**we track whether users open our emails?**
+
+Our emails may contain a single, campaign-unique “web beacon pixel” to tell us whether our emails are opened and verify any clicks through to links within the email. We may use this information for purposes including determining which of our emails are more interesting to users, to query whether users who do not open our emails wish to continue receiving them.
 
 Children
 
