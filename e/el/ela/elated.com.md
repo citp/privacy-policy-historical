@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elated.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623091340id_/http%3A//www.elated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elated.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224105107id_/http%3A//www.elated.com/privacy) for the most accurate reproduction.*
 
 # ELATED Privacy Statement
 
@@ -10,7 +10,7 @@ The Forums registration form requires users to give us contact information (like
 
 Our online store requires users to give us contact information (like their name, email address and billing address). The customer's contact information is used to contact the visitor when necessary. We share customer contact information with our e-commerce provider in order to complete online payments. We do not share this information with any other third party.
 
-This site contains links to other sites. Elated Communications Ltd is not responsible for the privacy practices or the content of such Web sites.
+This site contains links to other sites. Elated Communications is not responsible for the privacy practices or the content of such Web sites.
 
 Our site uses an order form for customers to request information and services. We collect visitors' contact information (like their email address). The customer's contact information is used to get in touch with the visitor when necessary. We will not give or sell this contact information to any third party.
 
