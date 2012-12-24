@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podbean.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627030605id_/http%3A//www.podbean.com/podbean-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podbean.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224192812id_/http%3A//www.podbean.com/podbean-privacy) for the most accurate reproduction.*
 
 # Podbean Privacy Policy
 
