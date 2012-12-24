@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blog.hubpages.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501130314id_/http%3A//hubpages.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blog.hubpages.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224192155id_/http%3A//hubpages.com/help/privacy_policy) for the most accurate reproduction.*
 
 # HubPages Privacy Policy
 
