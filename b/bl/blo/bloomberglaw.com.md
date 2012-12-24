@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloomberglaw.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521021031id_/https%3A//www.bloomberglaw.com/public/document/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomberglaw.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224015938id_/https%3A//www.bloomberglaw.com/public/document/Privacy_Policy) for the most accurate reproduction.*
 
 # Bloomberg Law - Document - Privacy Policy
 
@@ -50,7 +50,7 @@ If you have questions regarding this privacy policy, please contact us at [priva
 
 **Your California Privacy Rights**
 
-If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by the Bloomberg Group to its affiliates and/or third parties for their direct marketing purposes. With respect to such entities, this privacy policy applies only to their activities within the State of California. To make such a request, please send an email with your first name, last name, mailing address, email address and telephone number to [privacy@bloomberg.com](mailto:privacy@bloomberg.com). Please include “California Privacy Rights” in the Subject line of your email. You may also make such a request by writing to us at: 
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by the Bloomberg Group to its affiliates and/or third parties for their direct marketing purposes. To make such a request, please send an email with your first name, last name, mailing address, email address and telephone number to [privacy@bloomberg.com](mailto:privacy@bloomberg.com). Please include “California Privacy Rights” in the Subject line of your email. You may also make such a request by writing to us at: 
 
 Bloomberg L.P.  
 Attn: Legal Department  
@@ -61,4 +61,4 @@ New York, NY 10022
 
 The Bloomberg Group reserves the right to change this privacy policy at any time by posting revisions on this web page. Such changes will be effective upon posting. 
 
-Last Updated: May 3, 2012
+Last Updated: June 12, 2012
