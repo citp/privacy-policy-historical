@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dol.govt.nz privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624044518id_/http%3A//dol.govt.nz/common/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dol.govt.nz privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224220439id_/http%3A//www.dol.govt.nz/common/privacy-statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement - New Zealand Department of Labour
 
@@ -10,7 +10,7 @@ You can access our website and browse our site without having to disclose person
 
 We do collect some personal information that you may volunteer while using our website and its services.  We collect or use personal information for the purpose(s) specified at collection. 
 
-Your personal information may be stored on behalf of the Department of Labour by authorised third parties, subject to the Department’s information security and privacy requirements.  We do not disclose your personal information to other organisations outside the Department of Labour, including to other government institutions and authorities. 
+Your personal information may be stored on behalf of the Ministry of Business, Innovation and Employment by authorised third parties, subject to the Ministry’s information security and privacy requirements.  We do not disclose your personal information to other organisations outside the Ministry of Business, Innovation and Employment, including to other government institutions and authorities. 
 
 If we wish to use your personal data for a new purpose(s), we will give you the opportunity to consent to that new purpose(s). 
 
@@ -18,7 +18,7 @@ If we wish to use your personal data for a new purpose(s), we will give you the 
 
 We do not use cookies to store personal information.  You can access and use our website with cookies disabled in your browser settings.  Use of our website is monitored using a third party analytics tool that does use cookies. 
 
-If you visit this website to read or download information, the Department of Labour collects and stores the following data: 
+If you visit this website to read or download information, the Ministry of Business, Innovation and Employment collects and stores the following data: 
 
   * Your service address (IP address); 
   * Your top level domain name; 
@@ -28,7 +28,7 @@ If you visit this website to read or download information, the Department of Lab
 
 
 
-The data collected is used to create summary statistics which allow the Department of Labour to assess the number of visitors to different sections of the website, identify what information is of most and least interest, monitor system performance, and help us make our website more useful to visitors. 
+The data collected is used to create summary statistics which allow the Ministry of Business, Innovation and Employment to assess the number of visitors to different sections of the website, identify what information is of most and least interest, monitor system performance, and help us make our website more useful to visitors. 
 
 ## Confidentiality/Security 
 
