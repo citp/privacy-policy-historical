@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hotbot.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615111337id_/http%3A//info.lycos.com/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotbot.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224082827id_/http%3A//info.lycos.com/resources/privacy-policy) for the most accurate reproduction.*
 
 # Lycos
 
-[](http://www.lycos.com/ "Lycos.com")   
+[](http://www.lycos.com/ "Lycos.com") [Survey](http://www.surveymonkey.com/s/5NHBMLY "Take our quick survey")   
 
 
 ## Resources
