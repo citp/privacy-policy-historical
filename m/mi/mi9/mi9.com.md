@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mi9.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619025359id_/http%3A//mi9.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mi9.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224154028id_/http%3A//mi9.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - mi9.com
 
@@ -21,6 +21,8 @@ The Site may use cookie and tracking technology depending on the features offere
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
+
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit [http://valueclickmedia.com/member_privacy.shtml](http://valueclickmedia.com/member_privacy.shtml%20)
 
 **Distribution of Information**  
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
