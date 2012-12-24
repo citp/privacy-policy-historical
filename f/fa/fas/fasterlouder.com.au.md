@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the fasterlouder.com.au privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614090758id_/http%3A//www.fasterlouder.com.au/policy%23privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fasterlouder.com.au privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224112113id_/http%3A//www.fasterlouder.com.au/about/privacy-statement) for the most accurate reproduction.*
 
 # About FasterLouder.com.au
-
-##  Privacy Policy 
 
   1. ####  How is personal information collected? 
 
   
-FasterLouder is Australia�s leading online community of rock music fans. In order to provide customers with a quality service, FasterLouder.com.au offers customers the ability to sign up as a community member, interact with other members, subscribe to our newsletter, enter competitions and purchase tickets online through http://www.FasterLouder.com.au. In order to provide these services, FasterLouder.com.au collects personal information about customers. Collection of this information will occur at the time you enter a competition, make a purchase or when you register as a FasterLouder.com.au member through our website. 
+FasterLouder is Australia's leading online community of rock music fans. In order to provide customers with a quality service, FasterLouder.com.au offers customers the ability to sign up as a community member, interact with other members, subscribe to our newsletter, enter competitions and purchase tickets online through http://www.FasterLouder.com.au. In order to provide these services, FasterLouder.com.au collects personal information about customers. Collection of this information will occur at the time you enter a competition, make a purchase or when you register as a FasterLouder.com.au member through our website. 
   2. #### What personal information does FasterLouder.com.au collect and why?
 
   
@@ -54,27 +52,3 @@ by letter to PO Box 1964, Strawberry Hills NSW 2012 AUSTRALIA
 
 
 
-
-## Competitions Terms & Conditions
-
-  
-
-
-#### Guidelines & regulations for competitions on FasterLouder
-
-  1. Information on how to enter and prize details forms part of these conditions of entry.
-  2. Entry is open to residents of Australia only. Employees of the Promoter and their immediate families are ineligible to enter. Entry is only valid if all details on the Application Form are completed. Limit one prize per customer. No responsibility accepted for lost, late or misdirected entries.
-  3. Judge's decision is final and no correspondence will be entered into.
-  4. All entries become the property of the Promoters - FasterLouder Dot Net Pty Ltd. The Promoter reserves the right to use the content of winning and runners-up entries for the purpose of future promotions.
-  5. The winner will be notified by email within 21 days of promotion closing date. Details of winner will also be published at [/competitions/winners/](http://www.fasterlouder.com.au/competitions/winnerslist)
-  6. The promoter is FasterLouder dot com dot au Pty Ltd (ACN: 114 153 310) of Suite 5, 113 Reservoir Street, Surry Hills NSW 2010
-  7. FasterLouder Dot Net Pty Ltd accepts no responsibility for loss or damage to prizes in transit. The Promoter makes no representations or warranties as to the quality/suitability of any of the goods/services offered as prizes. To the extent permitted by law, the Promoter is not liable for any loss suffered or sustained, to person or property and including, but not limited to, consequential (including economic) loss by reason of any act or omission, deliberate or negligent, by the Promoter, or its agents, in connection with the arrangement for supply, or the supply, of any goods or services by any person to the prize winner. This clause does not affect, and is not intended to affect, any rights a consumer might have, which are not able to be excluded under applicable Australian consumer protection laws.
-  8. You must be 18 years or over to enter any competitions on fasterlouder.com.au at the time of entry 
-  9. In the event of that any prize item is unavailable, the Promoter reserves the right to substitute a prize item of equal or greater value. Except with the written consent of the Promoter, prizes are not transferable or exchangeable and cannot be taken as cash. The Promoter has absolute discretion as to whether it will provide such consent and need not provide any reasons to any person for providing or withholding consent.
-  10. All liquor prizes promoted on FasterLouder **do not** apply to Western Australia
-
-
-
-## Ask FasterLouder
-
-If you've got a question for us that hasn't been answered here, head over to the Ask FasterLouder Forum and post it there. FasterLouder staff regularly check this Forum and your question might be useful to other people as well. To go to the Ask FasterLouder Forum, [click here](https://web.archive.org/forum/forumdisplay.php?f=9). 
