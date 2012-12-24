@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashgopher.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630211208id_/http%3A//www.cashgopher.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashgopher.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224063638id_/http%3A//www.cashgopher.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # CashGopher - Privacy Policy
 
