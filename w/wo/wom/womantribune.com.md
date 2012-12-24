@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the womantribune.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630105837id_/http%3A//womantribune.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womantribune.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224190020id_/http%3A//womantribune.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Woman Tribune
 
-**Our Commitment to Privacy**
+**Our Commitment to Privacy:**
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
@@ -52,6 +52,10 @@ You can correct factual errors in your personally identifiable information by se
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
+**About Online Behavioral Advertising:**
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
+
 **How To Contact Us:**
 
-Should you have other questions or concerns about these privacy policies. Please feel free to email Holly Ord at contact[at]womantribune.com
+Should you have other questions or concerns about these privacy policies, please contact Holly Ord [holly[at]womantribune[dot]com].
