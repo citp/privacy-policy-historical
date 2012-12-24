@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bharatmatrimony.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618142403id_/http%3A//www.bharatmatrimony.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatmatrimony.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224085551id_/http%3A//www.bharatmatrimony.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Bharatmatrimony
+# www.bharatmatrimony.com
 
 BharatMatrimony.com is an online matrimonial portal endeavouring constantly to provide you with premium matrimonial services. This privacy statement is common to all the matrimonial sites operated under BharatMatrimony.com Since we are strongly committed to your right to privacy, we have drawn out a privacy statement with regard to the information we collect from you.
 
