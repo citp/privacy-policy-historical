@@ -1,18 +1,21 @@
-> *The following text is extracted and transformed from the skis.com privacy policy that was archived on 2012-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120328150352id_/http%3A//www.skis.com/cs.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skis.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224110448id_/http%3A//www.skis.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# 
+# Skis.com Privacy Policies
+
+* * *
 
 This privacy policy explains how Skis.com collects, uses, and discloses the information of users of the Skis.com Web site (the "Skis.com Web site," or "our Web site").
 
- 
+## Important terms
 
 When reviewing any privacy policy on the Internet, you should be familiar with the terms "personally identifiable information" and "aggregate information." "Personally identifiable information" is any information that can be used to identify, contact, or locate you as an individual. Common examples are your name and email address. 
 
 "Aggregate information" lumps your behavior or characteristics together with those of a group. For instance, we may let advertisers know that 50% of our users are over 35 without disclosing the personal information of any one individual.
 
- 
+  
 
-return to top
+
+## Collecting your information
 
 When you register for the Skis.com Web site we collect personally identifiable information, including (but not limited to) your name, physical address, email address, phone numbers, and billing information. All of this information is mandatory; without it we will not register you. We also collect personally identifiable information through purchase forms, surveys, sweepstakes entries, emails we receive from you, and your other interactions with our Web site. 
 
@@ -22,9 +25,10 @@ The Skis.com Web site uses "cookies," which are small pieces of information stor
 
 We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. We allow third parties to collect aggregate and other anonymous information about our visitors through the Skis.com Web site. Should we enter into agreements that allow third parties to collect personally identifiable information about our visitors, we will inform visitors of these activities at the location of the collection. Finally, note that our Web site may or may not contains links to other sites on the Internet. Please remember that if you click on one of these links, you are leaving our Web site and entering another. Again, we are not responsible for the privacy practices or the content of these other web sites, and encourage you to read their privacy statements (which may differ from ours). 
 
- 
+  
 
-return to top
+
+## Using Your Information
 
 This section describes how we use and disclose the information we collect.
 
@@ -36,9 +40,7 @@ From time to time we will send you emails related to the Skis.com Web site. At v
 
 If you supply us with your telephone numbers, you will only receive telephone contact from us regarding your Skis.com Web site account, or orders you have placed online. We will not share your telephone number with other organizations.
 
- 
-
-return to top
+## Security
 
 Any Skis.com Web site accounts you may have are password-protected. We recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. 
 
@@ -46,16 +48,15 @@ We have instituted security measures in our physical facilities to protect again
 
 Please keep in mind, however, that no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit using our Web site, and you transmit such information at your own risk. Skis.com further does not assume responsibility for use or disclosure of your information that are the result of unauthorized or illegal access to our systems or those of our vendors or partners.
 
-return to top
+## Contact information
 
-Inquiries and requests relating to the Skis.com Web site policy should be sent by email to [help@Skis.com](mailto:help@Skis.com). You can also reach us at our mailing address:
+Inquiries and requests relating to the Skis.com Web site policy should be sent by email to help@Skis.com. You can also reach us at our mailing address:
 
-Skis.com Privacy Policy & Customer Service  
-Skis.com  
+Skis.com Privacy Policy & Customer Service Skis.com  
 330 Enterprise Court  
 Bloomfield Hills, MI.  
 48302
 
-return to top
+## Policy changes
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If we make such a change, we will post a notice on the Skis.com Web site. If you are concerned about how your information is used, please check our Web site periodically to review our current privacy policy. 
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If we make such a change, we will post a notice on the Skis.com Web site. If you are concerned about how your information is used, please check our Web site periodically to review our current privacy policy.
