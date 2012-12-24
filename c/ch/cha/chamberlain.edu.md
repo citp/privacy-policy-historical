@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chamberlain.edu privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506114631id_/http%3A//www.chamberlain.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamberlain.edu privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224074824id_/http%3A//chamberlain.edu/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -16,7 +16,7 @@ Chamberlain may collect other information from you that is not in conjunction wi
 
 ## 3)    How We Use the Information We Collect.
 
-We use the information that we collect to complete a contact or request; to better understand your needs, to provide to Chamberlain marketing and its resources, to improve our products and services, and to contact you. Please note that we will not contact you unless you have authorized Chamberlain to contact you.
+We use the information that we collect to complete a contact or request; to better understand your needs, to provide to Chamberlain marketing and its resources, to improve our products and services, and to contact you. Please note that we will not contact you unless you have authorized Chamberlain to contact you. If you have provided your information to Chamberlain and wish to be removed from our email list, you may unsubscribe from future Chamberlain commercial marketing emails. However, please note that you will continue to receive transactional emails regarding non-commercial relationship matters with the institution. To unsubscribe, please visit our [Opt Out/Unsubscribe page](http://www3.dncsolution.com/DNESolution/OptOutCode/OptOut.aspx?el=429) and follow the instructions there.  Please allow up to ten business days for your request to be processed.
 
 ## 4)    Sharing Information That You Provide With Others.
 
@@ -59,4 +59,4 @@ info@chamberlain.edu
 
 If Chamberlain is required to provide you with notice of a particular event or incident, we will send you that notice by e-mail, telephone, or mail. 
 
-Last revised on March 16, 2011.
+Last revised on July 25, 2012.
