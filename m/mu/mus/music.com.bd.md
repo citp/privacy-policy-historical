@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the music.com.bd privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623025655id_/http%3A//www.music.com.bd/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the music.com.bd privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224110346id_/http%3A//www.music.com.bd/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,5 +27,3 @@ Occasionally, at our discretion, we may include or offer third party products or
 
  **Your Consent**  
 By using our site, you consent to our online privacy policy.
-
-Privacy Policy Created by Free Privacy Policy
