@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs-in-my-area.net privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616042925id_/http%3A//www.jobs-in-my-area.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs-in-my-area.net privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224043420id_/http%3A//jobs-in-my-area.net/privacypolicy.php) for the most accurate reproduction.*
 
 # Jobs In My Area
 
@@ -48,6 +48,10 @@ WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?
 
 6\. POLICY UPDATES
 
-6.1 UPDATES AND CHANGES. We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms. All Content Copyright © 2011, Jobs-In-My-Area.net
+6.1 UPDATES AND CHANGES. We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms. 
+
+Want to unsubscribe from our mailing list? [Click here](http://www.1-screen.net/unsubscribe.php) to go to our unsubscribe page where you can unsubscribe from receiving any more email from us or any of our affiliates. 
+
+All Content Copyright © 2011, Jobs-In-My-Area.net
 
 Click Here to [Contact Us](https://web.archive.org/contactus.php) Jobs-In-My-Area.net
