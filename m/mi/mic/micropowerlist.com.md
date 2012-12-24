@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the micropowerlist.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523145901id_/http%3A//www.micropowerlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micropowerlist.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224172525id_/http%3A//micropowerlist.com/privacy.php) for the most accurate reproduction.*
 
 # Micro Power List Building!
 
-[](http://micropowerlist.com/bannerclick.php?id=15346)  
+[](http://micropowerlist.com/banclick.php?code=d305281faf947ca7acade9ad5c8c818c)  
 
 
 Micro Power List Privacy Policy
