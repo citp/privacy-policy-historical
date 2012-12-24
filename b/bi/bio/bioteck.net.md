@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bioteck.net privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623105022id_/http%3A//www.bioteck.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bioteck.net privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224020405id_/http%3A//www.bioteck.net/privacy-policy) for the most accurate reproduction.*
 
 # BioTecK.net » Privacy Policy | Log Into My World |
 
 **Privacy Policy for BioTecK.net**  
 If you require any more information or have any questions about our privacy policy, please feel free to [contact me](http://www.bioteck.net/contact/).
 
-At BioTecK.NET, the privacy of the visitors is of extreme importance to us. This privacy policy guidelines outlines the types of personal information is received and collected by BioTecK.NET and how it is used.
+At BioTecK.NET, the privacy of the visitors is of extreme importance to me. This privacy policy guidelines outlines the types of personal information is received and collected by BioTecK.NET and how it is used.
 
 **Log Files**  
-As with almost every website, when you visit BioTecK.NET or any other websites, certain anonymous information about your visit is automatically logged. This information includes all kind of information such as; type of browser you use (make sure to use Firefox  ), the server name & IP address through which you access the internet, the date and time you accessed BioTecK.NET, the pages you viewed while visiting the website, and the internet address of the website, if any, from which you linked directly to this website. This information is not personally identifiable!
+As with almost every website, when you visit BioTecK.NET or any other websites, certain anonymous information about your visit is logged. This information includes all kind of information such as; type of browser you use, the server name & IP address through which you access the internet, the date and time you accessed BioTecK.NET, the pages you viewed while visiting the website, and the internet address of the website, if any, from which you linked directly to this website. This information is not personally identifiable!
 
 **Cookies and Web Beacons  
 **BioTecK.NET may obtain this information by storing a cookie on your computer. With every Internet Browsers like Internet Explorer and  Firefox, you can erase this information from your computer’s hard drive, block all cookies or even receive a warning before a cookie is placed on your system. In order to do so, please click on your browser’s Help Button for more information or use a software which does this for you.
@@ -29,6 +29,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 #### About Behrad:
 
-I'm 29 years "old", married to Jannie and about to be a daddy! We live happily in Eindhoven, The Netherlands.   
+I'm 30 years "old", married to Jannie and father of a beautiful baby girl name Shirina! We live happily in Eindhoven, The Netherlands.   
 In 2006 I started BioTecK.net just to show/share my portfolio. After a while I started to blog about my experiences and stuff I do in my life, my interests; computers & computer related stuff, tips & tricks and basically everything which I want to share.   
 Read more [about me](http://www.bioteck.net/about-me/ "About Behrad"), follow me on Twitter [@BioTecK](http://www.twitter.com/BioTecK "Twitter") or [contact me ](http://www.bioteck.net/contact/ "contact me"). 
