@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facs.org privacy policy that was archived on 2012-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120212101235id_/http%3A//www.facs.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facs.org privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224163807id_/http%3A//facs.org/privacy.html) for the most accurate reproduction.*
 
 # American College of Surgeons: Privacy Policy
 
