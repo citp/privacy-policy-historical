@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drug3k.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624064926id_/http%3A//www.drug3k.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drug3k.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224013203id_/http%3A//www.drug3k.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
