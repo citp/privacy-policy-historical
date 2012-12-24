@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dolphin-browser.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630072754id_/http%3A//dolphin-browser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dolphin-browser.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224105233id_/http%3A//dolphin-browser.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Dolphin Browser
+# Privacy - Dolphin Browser
 
 **Please click[here](http://dolphin-browser.com/privacy/privacy-policy-for-dolphin-browser/) to view Privacy Policy for Dolphin Browser.**
 
