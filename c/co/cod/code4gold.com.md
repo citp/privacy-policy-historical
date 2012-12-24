@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the code4gold.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601050218id_/http%3A//www.code4gold.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the code4gold.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224052520id_/http%3A//www.code4gold.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Finance Blog
 
