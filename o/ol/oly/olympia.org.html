@@ -1,24 +1,24 @@
-<!--The following is the downloaded HTML source of the olympia.org privacy policy that was archived on 2012-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120616012846id_/http%3A//socs.fes.org/vnews/display.v%3Fpage%3Dprivacy_pledge) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the olympia.org privacy policy that was archived on 2012-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121224053601id_/http%3A//socs.fes.org/vnews/display.v%3Fpage%3Dprivacy_pledge) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" style="" class=" js no-touch"><head>
     <title>SOCS</title>
 
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
     <!-- YUI 2.7.0 CSS Reset files -->
-    <link rel="stylesheet" type="text/css" href="/css/default/fonts-min.css">
-    <link rel="stylesheet" type="text/css" href="/css/default/reset-min.css">
-    <link rel="stylesheet" type="text/css" href="/css/default/base-min.css">
+    <link rel="stylesheet" type="text/css" href="/css/L9/fonts-min.css">
+    <link rel="stylesheet" type="text/css" href="/css/L9/reset-min.css">
+    <link rel="stylesheet" type="text/css" href="/css/L9/base-min.css">
 
-    <link rel="stylesheet" type="text/css" media="screen, projection" href="/css/default/screen/style.css">
-    <link rel="stylesheet" type="text/css" media="screen, projection" href="/css/default/screen/calendarHighlights.css">
+    <link rel="stylesheet" type="text/css" media="screen, projection" href="/css/L9/screen/style.css?v=121116">
+    <link rel="stylesheet" type="text/css" media="screen, projection" href="/css/L9/screen/calendarHighlights.css">
 
-          <link rel="stylesheet" type="text/css" media="screen, projection" href="/css/default/screen/mainPage.css">
-      <link rel="stylesheet" type="text/css" media="screen, projection" href="/css/default/screen/twitterFeed.css">
+          <link rel="stylesheet" type="text/css" media="screen, projection" href="/css/L9/screen/mainPage.css">
+      <link rel="stylesheet" type="text/css" media="screen, projection" href="/css/L9/screen/twitterFeed.css">
 
     
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
     <script type="text/javascript" src="/javascripts/L9/L9.js"></script>
     <script type="text/javascript" src="/javascripts/jquery/plugins/jquery.nivo.slider.pack.js"></script>
     <script type="text/javascript" src="/javascripts/jquery/plugins/jquery.hoverIntent.minified.js"></script>
@@ -26,8 +26,8 @@
     <script type="text/javascript" src="/javascripts/jquery/plugins/jquery.calendarList.js"></script>
 
    
-  <link rel="stylesheet" type="text/css" media="print" href="/css/default/print/print.css">
-  <link rel="stylesheet" type="text/css" media="print" href="/css/default/screen/forms.css">
+  <link rel="stylesheet" type="text/css" media="print" href="/css/L9/print/print.css">
+  <link rel="stylesheet" type="text/css" media="print" href="/css/L9/screen/forms.css">
   
     
   
@@ -39,7 +39,58 @@ var display_private_sections = 0;
 var allowed_section_ids = ""
 </script>
    
-  </head>
+   <script src="/javascripts/modernizr/modernizr.touch.js"></script>
+<script src="/javascripts/jquery/plugins/jquery.cookie.js"></script>
+<script>
+;(function($) {
+  function redirect(setCookie) {
+    var href = window.location.href;
+    href += (href.indexOf('?') === -1) ? '?template=m' : '&template=m';
+    window.location = href;
+    if (setCookie) $.cookie('socs_MobileSwitch', 'y', { path: '/' });
+  }
+
+  // User chose NOT to use the mobile template, do nothing and leave...
+  if ($.cookie('socs_MobileSwitch') && $.cookie('socs_MobileSwitch') !== 'y') return false;
+
+  // User wants to use the mobile template...
+  if ($.cookie('socs_MobileSwitch') && $.cookie('socs_MobileSwitch') === 'y') {
+    if ($.cookie('V_TEMPLATE_ID') !== 'm') {
+      // ...and that is NOT the current template, redirect to the mobile template and then leave...
+      redirect(0);
+      return false;
+    }
+  }
+
+  if ($(window).width() <= 480) {
+    // Assuming any device <= 480px in width is a "mobile" device.
+    redirect(1);
+  } else if ($(window).width() <= 1024 && Modernizr.touch) {
+    // Assuming any device <= 1024px in width AND has touch capability is a "mobile" device.
+    redirect(1);
+  } else {
+    // Assuming all other devices are NOT "mobile"
+    $.cookie('socs_MobileSwitch', 'n', { path: '/' });
+  }
+
+})(jQuery);
+</script>   <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(
+    ['_setCustomVar',1,'siteURL','http://socs.fes.org'],
+    ['_setCustomVar',2,'template','L9']
+    );
+  _gaq.push(['_setAccount', 'UA-36782344-1']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_deleteCustomVar',1],['_deleteCustomVar',2]);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>  </head>
 
 
 <!--[if lte IE 6]><body class="ie6"><![endif]-->
@@ -68,13 +119,13 @@ var allowed_section_ids = ""
   <div id="wrapper2"><div id="wrapper3">
           <div id="header">
                   <h1 id="logo">
-          <a id="logoImage" href="/"><img src="/vimages/default/print_flag.gif" alt="SOCS" width="770" height="107"></a>
+          <a id="logoImage" href="/"><img src="/vimages/L9/print_flag.gif" alt="SOCS" width="770" height="107"></a>
         </h1>
              <div id="siteSearchForm"><div id="siteSearchForm2">
   <form method="get" action="/vnews/display.v/search">
    <label for="Fkeywords" accesskey="4">Search site</label>
    <input type="text" class="textInput" size="15" name="Fkeywords" id="Fkeywords" value="">
-   <input type="image" src="/vimages/default/searchButton.jpg" alt="Go" id="searchButton" name="submit">
+   <input type="image" src="/vimages/L9/searchButton.jpg" alt="Go" id="searchButton" name="submit">
    <input type="hidden" name="search_type" value="vnews">
   </form>
  </div></div>
@@ -91,6 +142,9 @@ var allowed_section_ids = ""
           </li>
                                 <li>
             <a href="/vcalendar" title="" target="_blank">Events</a>
+          </li>
+                                <li>
+            <a href="/vnews/display.v/SEC/SOCS Blog" title="">SOCS Blog</a>
           </li>
                   </ul>
   </div>
@@ -114,22 +168,27 @@ var allowed_section_ids = ""
           return arr;
         }
 
-        var cnt = 0;
-        var $mastheads = $("#mastheads");
+        var cnt = 0, $mastheads = $("#mastheads");
         var imgs = [
                       "/pages/mastheads/SOCS_rotator01.jpg"
             ,                      "/pages/mastheads/SOCS_rotator02.jpg"
             ,                      "/pages/mastheads/SOCS_rotator03.jpg"
             ,                      "/pages/mastheads/SOCS_rotator04.jpg"
-            ,                      "/pages/mastheads/SOCS_rotator05.jpg"
+            ,                      "/pages/mastheads/SOCS_rotator06mobile.jpg"
                               ];
-        
+        var links = [
+                  ];
+
         if (imgs.length > 10) cnt = 10; else cnt = imgs.length;
 
-        for (var i=0; i<cnt; i++) {
-          $mastheads.append('<img src="' + imgs[i] + '" alt="masthead_image_' + i + '" \/>');
-        }
-
+                          for (var i=0; i<cnt; i++) {
+            if (links[i]) {
+              $mastheads.append('<a href="' + links[i] + '" target="_blank"><img src="' + imgs[i] + '" alt="masthead_image_' + i + '" \/><\/a>');
+            } else {
+              $mastheads.append('<img src="' + imgs[i] + '" alt="masthead_image_' + i + '" \/>');
+            }
+          }
+        
         $(function() {
           if ($mastheads.length) {
             $mastheads.nivoSlider({
@@ -157,6 +216,7 @@ var allowed_section_ids = ""
 
 
 
+
 <script type="text/javascript">var _globalNav_IE6test = false;</script>
 <!--[if lt IE 7]><script type="text/javascript">_globalNav_IE6test = true;</script><![endif]-->
 
@@ -165,29 +225,35 @@ var allowed_section_ids = ""
 <ul id="mainNav" class="noSectionImages">
               
               <li class="hOne">
-          <a href="/vnews/display.v/SEC/Solutions"><span>Solutions</span></a>
-          <div class="cOne"><ul><li><a href="/vnews/display.v/SEC/Solutions%7CSOCS%20Features"><span>SOCS Features</span></a></li><li><a href="/vnews/display.v/SEC/Solutions%7CManage%20Content"><span>Manage Content</span></a></li><li><a href="/vnews/display.v/SEC/Solutions%7CClassroom%20Tools"><span>Classroom Tools</span></a></li><li><a href="/vnews/display.v/SEC/Solutions%7CEmail%20Archiving"><span>Email Archiving</span></a></li><li><a href="/vnews/display.v/SEC/Solutions%7CParent%20Teacher%20Conference%20Registration"><span>Parent Teacher Conference Registration</span></a></li></ul></div><div class="bOne"></div>
+          <a href="/vnews/display.v/SEC/Why%20SOCS"><span>Why SOCS</span></a>
+          <div class="cOne"><ul><li><a href="/vnews/display.v/SEC/Why%20SOCS%7CBecause%20It%27s%20Easy"><span>Because It's Easy</span></a></li><li><a href="/vnews/display.v/SEC/Why%20SOCS%7CSOCS%20Features"><span>SOCS Features</span></a></li><li><a href="/vnews/display.v/SEC/Why%20SOCS%7CSOCS%20Services"><span>SOCS Services</span></a></li><li><a href="/vnews/display.v/SEC/Why%20SOCS%7CWeb%20Hosting"><span>Web Hosting</span></a></li><li><a href="/vnews/display.v/SEC/Why%20SOCS%7CManage%20Content"><span>Manage Content</span></a></li><li><a href="/vnews/display.v/SEC/Why%20SOCS%7CVideo%20Testimonials"><span>Video Testimonials</span></a></li></ul></div><div class="bOne"></div>
         </li>
-                      
+                                                          
               <li class="hTwo">
-          <a href="/vnews/display.v/SEC/Services"><span>Services</span></a>
-          <div class="cTwo"><ul><li><a href="/vnews/display.v/SEC/Services%7CWeb%20Hosting"><span>Web Hosting</span></a></li><li><a href="/vnews/display.v/SEC/Services%7CIs%20in-house%20cost%20saving%3F"><span>Is in-house cost saving?</span></a></li></ul></div><div class="bTwo"></div>
+          <a href="/vnews/display.v/SEC/Schools"><span>Schools</span></a>
+          <div class="cTwo"><ul><li><a href="/vnews/display.v/SEC/Schools%7CWho%20Benefits"><span>Who Benefits</span></a></li><li><a href="/vnews/display.v/SEC/Schools%7CClassroom%20Tools"><span>Classroom Tools</span></a></li><li><a href="/vnews/display.v/SEC/Schools%7CCase%20Study"><span>Case Study</span></a></li><li><a href="/vnews/display.v/SEC/Schools%7CParent%20Teacher%20Conference%20Registration"><span>Parent Teacher Conference Registration</span></a></li><li><a href="/vnews/display.v/SEC/Schools%7CBeyond%20High%20School"><span>Beyond High School</span></a></li><li><a href="/vnews/display.v/SEC/Schools%7CMobile"><span>Mobile</span></a></li></ul></div><div class="bTwo"></div>
         </li>
-                      
+                                                          
               <li class="hThree">
-          <a href="/vnews/display.v/SEC/Benefits"><span>Benefits</span></a>
-          <div class="cThree"><ul><li><a href="/vnews/display.v/SEC/Benefits%7CWho%20Benefits"><span>Who Benefits</span></a></li><li><a href="/vnews/display.v/SEC/Benefits%7CQuality%20Website%3DGood%20PR"><span>Quality Website=Good PR</span></a></li></ul></div><div class="bThree"></div>
+          <a href="/vnews/display.v/SEC/Hospitals"><span>Hospitals</span></a>
+          <div class="cThree"><ul><li><a href="/vnews/display.v/SEC/Hospitals%7CBecause%20It%27s%20Easy"><span>Because It's Easy</span></a></li><li><a href="/vnews/display.v/SEC/Hospitals%7CSOCS%20Features"><span>SOCS Features</span></a></li><li><a href="/vnews/display.v/SEC/Hospitals%7CSOCS%20Services"><span>SOCS Services</span></a></li><li><a href="/vnews/display.v/SEC/Hospitals%7CWeb%20Hosting"><span>Web Hosting</span></a></li><li><a href="/vnews/display.v/SEC/Hospitals%7CManage%20Content"><span>Manage Content</span></a></li><li><a href="/vnews/display.v/SEC/Hospitals%7CMobile"><span>Mobile</span></a></li></ul></div><div class="bThree"></div>
         </li>
-                      
+                                                          
               <li class="hFour">
-          <a href="/vnews/display.v/SEC/Portfolio"><span>Portfolio</span></a>
-          
+          <a href="/vnews/display.v/SEC/Municipalities"><span>Municipalities</span></a>
+          <div class="cFour"><ul><li><a href="/vnews/display.v/SEC/Municipalities%7CBecause%20It%27s%20Easy"><span>Because It's Easy</span></a></li><li><a href="/vnews/display.v/SEC/Municipalities%7CSOCS%20Features"><span>SOCS Features</span></a></li><li><a href="/vnews/display.v/SEC/Municipalities%7CSOCS%20Services"><span>SOCS Services</span></a></li><li><a href="/vnews/display.v/SEC/Municipalities%7CWeb%20Hosting"><span>Web Hosting</span></a></li><li><a href="/vnews/display.v/SEC/Municipalities%7CManage%20Content"><span>Manage Content</span></a></li><li><a href="/vnews/display.v/SEC/Municipalities%7CMoblie"><span>Moblie</span></a></li></ul></div><div class="bFour"></div>
         </li>
-                      
+                                                          
               <li class="hFive">
-          <a href="/"><span>News</span></a>
+          <a href="/"><span>Get Started</span></a>
           <div class="cFive"><ul>
                                                             <li>
+                    <a href="/vnews/display.v/SEC/SOCS%20Blog"><span>SOCS Blog</span></a>
+                  </li>
+                                                                                                                                                                                                                      <li>
+                    <a href="/vnews/display.v/SEC/Portfolio"><span>Portfolio</span></a>
+                  </li>
+                                                                <li>
                     <a href="/vnews/display.v/SEC/E-rate"><span>E-rate</span></a>
                   </li>
                                                                 <li>
@@ -202,17 +268,19 @@ var allowed_section_ids = ""
                                                                 <li>
                     <a href="/vnews/display.v/SEC/About%20Us"><span>About Us</span></a>
                   </li>
-                                                                                                                                                                                                                                                                                                                                                                            </ul></div>
+                                                                                                                                                          </ul></div>
           <div class="bFive"></div>
         </li>
+                                                    
                       
                       
                       
                       
-                                                                        </ul>
+                      
+                              </ul>
 <h4 class="hiddenNav"><a href="#top">Top</a></h4>
 
-                                      
+                                                                                      
         <div id="mpContainer" class="clearfix noSectionImages">
             <div id="topBanner">
     
@@ -280,6 +348,7 @@ Persistent cookies help a site remember individuals as a previous visitor and ca
           <option value="cs">Czech</option>
           <option value="da">Danish</option>
           <option value="nl">Dutch</option>
+          <option value="eo">Esperanto</option>
           <option value="et">Estonian</option>
           <option value="tl">Filipino</option>
           <option value="fi">Finnish</option>
@@ -328,26 +397,33 @@ Persistent cookies help a site remember individuals as a previous visitor and ca
     </p>
     <script type="text/javascript">
       document.write('<input type="hidden" name="href" value="' + escape(location.href) + '" />');
-    </script><input type="hidden" name="href" value="https%3A//web.archive.org/web/20120616012846id_/http%253A//socs.fes.org/vnews/display.v%253Fpage%253Dprivacy_pledge">
+    </script><input type="hidden" name="href" value="https%3A//web.archive.org/web/20121224053601id_/http%253A//socs.fes.org/vnews/display.v%253Fpage%253Dprivacy_pledge">
   </form>
 </div>
-      
-<p id="schoolAddress">
-  <span class="first">Simplified Online Communication System</span>
-  <span>1300 'O' Street</span>
-  <span>Lincoln, NE &nbsp;68508</span>
-  <span class="last">800-850-8397</span>
-</p>
-
+      <p id="schoolAddress"><span class="first">Simplified Online Communication System</span><span>1300 'O' Street</span><span>Lincoln, NE &nbsp;68508</span><span class="last">800-850-8397</span></p>      
 <p id="copyRight">
-  <span class="first">© 2012 Simplified Online Communication System</span>
+  <span class="first">© 2012 SOCS - Simplified Online Communication System</span>
   <span><a href="http://socs.fes.org/vnews/display.v?page=accessibility_statement" target="_blank" accesskey="0">Accessibility</a></span>
   <span><a href="http://socs.fes.org/vnews/display.v?page=privacy_pledge" target="_blank">Privacy Pledge</a></span>
   <span><a href="http://ocs.ispi.net" target="_blank">Powered by OCS</a></span>
-  <span class="last"><a href="http://socs.fes.org" target="_blank" title="SOCS-Simplified Online Communication System  (socs05)"><img src="http://socshelp.fes.org/sharedimages/socs_banner.gif" alt="SOCS-Simplified Online Communication System  (socs05)"></a>
+  <span><a class="mobileSite" title="Switch to the mobile template" href="/?template=m">Mobile</a></span>
+  <span class="last"><a href="http://socs.fes.org" target="_blank" title="SOCS-Simplified Online Communication System  (socs02)"><img src="http://socshelp.fes.org/sharedimages/socs_banner.gif" alt="SOCS-Simplified Online Communication System  (socs02)"></a>
   </span>
 </p>
-        <div id="bottomBanner">
+<script type="text/javascript">
+  ;(function($) {
+    var href = window.location.href;
+    if (href.indexOf('?') === -1) {
+      href += '?template=m';
+    } else {
+      href += '&template=m';
+    }
+    $('#copyRight .mobileSite').attr('href', href).click(function() {
+      // Reset the session cookie to redirect to mobile.
+      $.cookie('socs_MobileSwitch', 'y', { path: '/' });
+    });
+  })(jQuery);
+</script>        <div id="bottomBanner">
     
   </div>
     </div>
