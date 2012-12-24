@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the intermatwrestle.com privacy policy that was archived on 2011-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111219080754id_/http%3A//www.intermatwrestle.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the intermatwrestle.com privacy policy that was archived on 2012-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121224211640id_/http%3A//www.intermatwrestle.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -18,7 +18,7 @@
 
 	<script type="text/javascript" charset="utf-8">
 
-		JQ = $;
+		JQ = $; // legacy prototype compatibility
 
 		var subnavs = {
 			articles: 0,
@@ -28,33 +28,32 @@
 		
 		function nav_out(n) {
 			if ( subnavs[n] != 2 ) {
-				JQ("#subnav_" + n).hide();
-				JQ("#nav_"+n).removeClass("subnav_active");
+				$("#subnav_" + n).hide();
+				$("#nav_"+n).removeClass("subnav_active");
 			}
 		}
 		
-		JQ(document).ready(function() {
+		$(document).ready(function() {
 			
-			JQ('#logo').css({cursor: "pointer"})
+			$('#logo').css({cursor: "pointer"})
 				.click(function(){window.location="/";});
 			
-			jQuery.each(subnavs, function(k, v){
-				JQ("#nav_" + k).mouseover(function(){
-					//JQ("#subnav_"+k).slideDown();
-					JQ("#nav_"+k).addClass("subnav_active");
-					JQ("#subnav_"+k).show();
+			$.each(subnavs, function(k, v){
+				$("#nav_" + k).mouseover(function(){
+					$("#nav_"+k).addClass("subnav_active");
+					$("#subnav_"+k).show();
 					subnavs[k] = 1;
 				});
 				
-				JQ("#nav_" + k).mouseout(function(){
+				$("#nav_" + k).mouseout(function(){
 					setTimeout("nav_out('"+k+"')", 50);
 				});
 				
-				JQ("#subnav_" + k).bind("mouseenter", function(){
+				$("#subnav_" + k).bind("mouseenter", function(){
 					subnavs[k] = 2;
 				});
 				
-				JQ("#subnav_"+k).bind("mouseleave", function(){
+				$("#subnav_"+k).bind("mouseleave", function(){
 					subnavs[k] = 0;
 					nav_out(k);
 				});
@@ -73,7 +72,7 @@
 	<!-- A B 1 -->
 	<div id="AB1" style="position: relative; text-align: left; margin: 5px 0; height: 90px;">
 				<div style="float:right;">
-						<a href="http://intermatstore.myshopify.com/" target="_blank"><img src="/Files/image/sponsors/fixed/Save-20-Butto165x90.jpg" alt="Save Big on Wrestlig Gear at InterMat Wrestling Store" title="Save Big on Wrestlig Gear at InterMat Wrestling Store"></a>
+			<div class="reg-pos-1"><div class="block foleys_friday_mailbag"><a href="http://intermatwrestle.com/articles/10024"><img alt="Foley's Friday Mailbag" src="/Files/image/sponsors/permanent/foleysfridaymailbag.jpg"></a></div><!-- #foleys_friday_mailbag --></div><!-- .reg-pos -->			
 		</div>
 		<iframe src="http://ap.lijit.com/adif_px.php?z=133238&amp;u=adrian" width="728" height="90" frameborder="0" scrolling="no"></iframe>
 			</div><!-- #AB1 -->
@@ -114,14 +113,14 @@
 
 <div id="user">
  
-<div id="sign_in_form">
-<form action="https://intermatwrestle.com/auth/signin" method="post">
-<strong>Member Name</strong>: <input type="text" name="username" class="inp"><br>
-<strong>Password</strong>: <input type="password" name="password" class="inp"><br>
-<input type="submit" value="GO">
-<input type="hidden" name="_return" value="privacy">
-</form>
-</div>
+	<div id="sign_in_form">
+		<form action="https://intermatwrestle.com/auth/signin" method="post">
+			<strong>Member Name</strong>: <input type="text" name="username" class="inp"><br>
+			<strong>Password</strong>: <input type="password" name="password" class="inp"><br>
+			<input type="submit" value="GO">
+			<input type="hidden" name="_return" value="privacy">
+		</form>
+	</div>
 </div><!-- user -->
 
 <div id="nav">
@@ -131,31 +130,31 @@
 		<span class="nav_divider">&nbsp;</span>
 	<a href="http://intermatwrestle.com/scores/college" id="nav_scores">SCORES</a>
 		<span class="nav_divider">&nbsp;</span>
-	<a href="http://intermatwrestle.com/articles/8979" id="nav_scores">CHATS</a>
+	<a href="http://intermatwrestle.com/recruiting/commitments" id="nav_scores">COMMITS</a>
 		<span class="nav_divider">&nbsp;</span>
-	<a href="http://intermatwrestle.com/jobs" id="nav_store">JOBS</a>
+	<a href="http://intermatwrestle.com/camps" id="nav_camps">CAMPS</a>
 		<span class="nav_divider">&nbsp;</span>
 	<a href="https://intermatwrestle.com/platinum" id="nav_gold">PLATINUM</a>
 		<span class="nav_divider">&nbsp;</span>
-	<a href="http://intermatwrestle.com/store" id="nav_gold">STORE</a>
-
-</div><!-- nav -->
+	<a href="http://intermatwrestle.com/store" id="nav_store">STORE</a>
+</div><!-- #nav -->
 
 <div id="subnav_articles" class="subnav">
-<a href="http://intermatwrestle.com/articles?category=news">News</a>
-<a href="http://intermatwrestle.com/articles?category=feature">Features</a>
-<a href="http://photos.intermatwrestle.com">Photos</a>
-<a href="http://intermatwrestle.com/articles?category=rewind">Rewind</a>
-<a href="http://intermatwrestle.com/articles?category=recruiting">Recruiting</a>
-</div>
+	<a href="http://intermatwrestle.com/articles?category=news">News</a>
+	<a href="http://intermatwrestle.com/articles?category=feature">Features</a>
+		<a href="http://photos.intermatwrestle.com">Photos</a>
+	<a href="http://intermatwrestle.com/articles?category=rewind">Rewind</a>
+	<a href="http://intermatwrestle.com/articles?category=recruiting">Recruiting</a>
+	<a href="http://intermatwrestle.com/jobs">Jobs</a>
+	<a href="http://intermatwrestle.com/articles/8979" id="nav_scores">CHATS</a>
+</div><!-- #subnav_articles -->
 
 
-	<div id="subnav_rankings" class="subnav">
-		<a href="http://intermatwrestle.com/rankings/college">College</a>
-		<a href="http://intermatwrestle.com/rankings/high_school">High School</a>
-		<a href="http://intermatwrestle.com/rankings/recruiting">Recruiting</a>
-		<a href="http://www.intermatfight.com/rankings">MMA</a>
-	</div><!-- subnav_rankings -->
+<div id="subnav_rankings" class="subnav">
+	<a href="http://intermatwrestle.com/rankings/college">College</a>
+	<a href="http://intermatwrestle.com/rankings/high_school">High School</a>
+	<a href="http://intermatwrestle.com/rankings/recruiting">Recruiting</a>
+</div><!-- #subnav_rankings -->
 
 
 <div id="subnav_scores" class="subnav">
@@ -163,48 +162,60 @@
 	<a href="http://intermatwrestle.com/tournaments">Tournaments</a>
 	<a href="http://intermatwrestle.com/scores/high_school">High School</a>
 	<a href="http://www.themat.com/section.php?section_id=4&amp;page=results" target="_blank">International</a>
-</div><!-- subnav_scores -->
+</div><!-- #subnav_scores -->
 
 </div><!-- header -->
 
 <div id="content">
 
+
+<style type="text/css" media="screen">
+	#txt {
+		font-family: Arial, sans-serif;
+	}
+	#txt h1 {
+		margin-top: 12px;
+		font-size: 24px;
+	}
+	#txt h2 {
+		margin-top: 12px;
+		font-size: 18px;
+	}
+	#txt p, #txt li {
+		font-size: 13px;
+	}
+</style>
+
 <div id="txt" class="ccE">
-	<p class="MsoNormal"><span style="font-family: Arial; "><span style="font-size: larger; "><strong>InterMat Privacy Statement</strong></span><strong><span style="font-size: x-large; "><span style="font-size: small; "><br>
-</span></span></strong></span><span style="font-size: 10pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;"><o:p></o:p></span></p>
-<p>&nbsp;<span style="font-family: Arial; "> </span><strong><span style="font-size: x-large; "><span style="font-size: small; "><br>
-</span></span></strong></p>
-<p>&nbsp;</p>
-<p class="MsoNormal"><span style="font-family: Arial; "><span style="font-size: 10pt; ">InterMat is owned and operated by Rev Wrestling Corporation. Privacy on the Internet is of the utmost importance to InterMat. InterMat wants to make the online experience both satisfying and safe. </span></span><span style="font-size: 10pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;"><o:p></o:p></span></p>
-<p class="MsoNormal"><span style="font-family: Arial;"><span style="font-size: 10pt;"><o:p><span style="font-family: Arial; ">&nbsp;</span></o:p></span></span></p>
-<p><span style="font-family: Arial; "> </span></p>
-<p class="MsoNormal"><span style="font-size: 10pt; "><o:p></o:p></span></p>
-<p>&nbsp;</p>
-<p class="MsoNormal"><span style="font-family: Arial; "><span style="font-size: 10pt; ">Because InterMat gathers certain types of information about its users,&nbsp; its important that users understand the privacy policy and the terms and conditions surrounding the capture and use of that information.</span></span><span style="font-size: 10pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;"><o:p></o:p></span></p>
-<p class="MsoNormal"><span style="font-family: Arial;"><span style="font-size: 10pt;"><o:p><span style="font-family: Arial; ">&nbsp;</span></o:p></span></span></p>
-<p><span style="font-family: Arial; "> </span></p>
-<p class="MsoNormal"><span style="font-size: 10pt; "><o:p></o:p></span></p>
-<p>&nbsp;</p>
-<p class="MsoNormal"><span style="font-family: Arial; "><span style="font-size: 10pt; ">InterMat gathers the following information:</span></span><span style="font-size: 10pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;"><o:p></o:p></span></p>
-<p class="MsoNormal"><span style="font-family: Arial;"><span style="font-size: 10pt;"><o:p><span style="font-family: Arial; ">&nbsp;</span></o:p></span></span></p>
-<p><span style="font-family: Arial; "> </span></p>
-<p class="MsoNormal"><span style="font-size: 10pt; "><o:p></o:p></span></p>
-<p>&nbsp;</p>
-<p class="MsoNormal"><span style="font-family: Arial; "><strong><span style="font-size: 10pt; ">1. Information that users provide through optional, voluntary submissions</span></strong></span><span style="font-size: 10pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;"><o:p></o:p></span></p>
-<p class="MsoNormal"><span style="font-family: Arial; "><span style="font-size: 10pt; ">These are voluntary submissions to register for an InterMat Platinum membership, e-mail an InterMat story to a friend, and participate in InterMat contests.</span></span><span style="font-size: 10pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;"><o:p></o:p></span></p>
-<p class="MsoNormal"><span style="font-family: Arial;"><span style="font-size: 10pt;"><o:p><span style="font-family: Arial; ">&nbsp;</span></o:p></span></span></p>
-<p><span style="font-family: Arial; "> </span></p>
-<p class="MsoNormal"><span style="font-size: 10pt; "><o:p></o:p></span></p>
-<p>&nbsp;</p>
-<p class="MsoNormal"><span style="font-family: Arial; "><strong><span style="font-size: 10pt; ">2. Information gathered through aggregated tracking information</span></strong></span><span style="font-size: 10pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;"><o:p></o:p></span></p>
-<p class="MsoNormal"><span style="font-family: Arial; "><span style="font-size: 10pt; ">This information is derived by tracking page views throughout our site. This information allows InterMat to better tailor its content to the needs of the visitors, as well as the needs of the advertisers.</span></span><span style="font-size: 10pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;"><o:p></o:p></span></p>
-<p class="MsoNormal"><span style="font-family: Arial;"><span style="font-size: 10pt;"><o:p><span style="font-family: Arial; ">&nbsp;</span></o:p></span></span></p>
-<p><span style="font-family: Arial; "> </span></p>
-<p class="MsoNormal"><span style="font-size: 10pt; "><o:p></o:p></span></p>
-<p>&nbsp;</p>
-<p><span style="font-family: Arial; "><span style="font-size: 10pt; ">InterMat takes privacy very seriously and will never divulge or sell any information about individual users to third parties. </span></span><br>
-<strong><span style="font-size: x-large;"><span style="font-family: Tahoma;"><span style="font-size: small;"><span style="font-family: Verdana;"> </span></span>&nbsp;</span></span></strong></p>
-<p>&nbsp;</p></div><!-- txt -->
+
+	<h1>InterMat Privacy Statement</h1>
+
+	<p>InterMat is owned and operated by Rev Wrestling Corporation. Privacy on the Internet is of the utmost importance to InterMat. InterMat wants to make the online experience both satisfying and safe.</p>
+
+	<p>Because InterMat gathers certain types of information about its users,  its important that users understand the privacy policy and the terms and conditions surrounding the capture and use of that information.</p>
+
+	<p>InterMat gathers the following information:</p>
+
+	<ol>
+	<li>
+		<strong>Information that users provide through optional, voluntary submissions</strong><br>
+	These are voluntary submissions to register for an InterMat Platinum membership, e-mail an InterMat story to a friend, and participate in InterMat contests.</li>
+
+ 
+	<li>
+		<strong>Information gathered through aggregated tracking information</strong><br>
+
+	This information is derived by tracking page views throughout our site. This information allows InterMat to better tailor its content to the needs of the visitors, as well as the needs of the advertisers.
+	</li>
+ 
+	</ol>
+ 
+
+	<p>InterMat takes privacy very seriously and will never divulge or sell any information about individual users to third parties.
+	</p>
+
+
+</div><!-- #txt -->
 </div><!-- content -->
 
 
@@ -218,7 +229,7 @@
 		<a href="http://intermatwrestle.com/advertise">Advertise on Rev</a> 
 	</div><!-- footer_links -->
 	<div id="copyright">
-		© 2005 - 2011 Rev Wrestling Corporation, All Rights Reserved.
+		© 2005 - 2012 Rev Wrestling Corporation, All Rights Reserved.
 	</div><!-- copyright -->
 </div><!-- footer -->
 
