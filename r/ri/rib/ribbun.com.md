@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ribbun.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621180752id_/http%3A//www.ribbun.com/privacy%2520policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ribbun.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224065220id_/http%3A//www.ribbun.com/privacy%2520policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
