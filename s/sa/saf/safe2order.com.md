@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safe2order.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503215332id_/http%3A//safe2order.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safe2order.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224151810id_/http%3A//safe2order.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # - Privacy Policy
 
@@ -14,7 +14,7 @@ We do not provide services or sell products to children. If you are below the ag
 
 **3\. Policy Is Part Of Our Terms And Conditions Of Use.** ****
 
-Our privacy policy is part of, and subject to, our website's terms and conditions of use. You may view these terms and conditions by [Terms](https://web.archive.org/web/20120503215332id_/http%3A//safe2order.com/Terms.html). __
+Our privacy policy is part of, and subject to, our website's terms and conditions of use. You may view these terms and conditions by [Terms](https://web.archive.org/web/20121224151810id_/http%3A//safe2order.com/Terms.html). __
 
 **4\. The Type Of Information We Collect From You.** ****
 
