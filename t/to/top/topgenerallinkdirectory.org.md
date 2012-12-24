@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topgenerallinkdirectory.org privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502014422id_/http%3A//www.topgenerallinkdirectory.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topgenerallinkdirectory.org privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224114050id_/http%3A//www.topgenerallinkdirectory.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Top General Link Directory - Privacy Policy
 
