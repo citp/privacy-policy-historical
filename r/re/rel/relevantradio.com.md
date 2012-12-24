@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relevantradio.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527012308id_/http%3A//relevantradio.com/footer/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantradio.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224204802id_/http%3A//relevantradio.com/footer/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Footer | Main Navigation
 
