@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the gucomics.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503224705id_/http%3A//www.gucomics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gucomics.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224170306id_/http%3A//www.gucomics.com/privacy.php) for the most accurate reproduction.*
 
 # GU Comics by: Woody Hearn
 
   
+
+
+[](https://web.archive.org/afs.php)
+
+[](https://web.archive.org/afs.php)  
 
 
 GU Comics makes every effort to safeguard the privacy of our users. And only collects information on an opt-in basis. That is to say, we collect information about our users only after they have been informaed as to what information we are collecting, how that information will be used, and they have agreed to submit the information we request. GU then only uses this information in the manner prescribed by the opt-in message. Where we do make every effort to link only those sites with similar privacy policy ideals, we can not control the activities of of sites not owned by GU Comics thus our Privacy Policy does not apply once you've followed a link away from our websites.  
@@ -23,9 +28,14 @@ GU and its affiliated sites are considered to be PG-13. And special care is take
  **Third Party Access to Personal Information**  
 We only provide personal information to third parties in those cases where we specifically inform users as to how their personal information will be distributed and for what reasons. To date, GU has only given personal information to third parties for the purposes of delivering the winnings/purchases for giveaways and/or merchandise sells. GU does not store this information by any means that are accessible by third party sources not specifically associated with the sell/giveaway. GU can not control the practices of any company not directly controlled by GU.
 
- **Further Questions**  
+GU uses third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to:  
+<http://www.networkadvertising.org/managing/opt_out.asp>
+
+**Further Questions**  
 If you have additional questions about GU's privacy policy or how information is being collected, stored, or used for a specific giveaway, contest, auction, etc. please email:
 
+  
+[](https://web.archive.org/commissions/)  
   
 
 
