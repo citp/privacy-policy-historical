@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectreveal.com privacy policy that was archived on 2012-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120429132337id_/http%3A//www.connectreveal.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectreveal.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224113603id_/http%3A//connectreveal.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Connect Reveal
 
@@ -95,3 +95,5 @@ _13.   California Privacy _
 __
 
 We comply fully with privacy laws applicable to our transactions with residents of the State of California.  If you have any questions about your privacy rights in relation to our Privacy Policy, please contact us at help@connectreveal.com 
+
+805 W. Pine Poplar Bluff, MO 63901 USA | 1-800-764-9518
