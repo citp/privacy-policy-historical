@@ -1,58 +1,107 @@
-> *The following text is extracted and transformed from the vortal.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626082537id_/http%3A//vortal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vortal.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224021120id_/http%3A//www.admedia.com/privacy) for the most accurate reproduction.*
 
-# Vortal.com - Your Gateway to the Web
+# AdMedia Online Ad Network | Affiliate Advertising Solutions
 
-| 
+THE FOLLOWING PRIVACY POLICY POLICYDETAILS THE ADMEDIA PLEDGE TO KEEPING YOUR INFORMATION PRIVATE.
 
-Privacy
+Effective Date: August 30, 2012
 
-Please read this policy to understand what information Vortal Interactive collects, how we use it, and what choices you have regarding the use and sharing of your information when using the Vortal Interactive Advertising Solutions (SV) sites as a visitor. The SV sites include sites that are branded "Vortal" and �Vortal Interactive" as well as sites on the following domains: www.searchvortal.com, advertising.Vortal Interactive.com, solutions.Vortal.com, and summitseries.Vortal Interactive.com. For more information on Vortal Interactive' other privacy policies that apply to subscribers and users of other Vortal Interactive products and services, including the Vortal Interactive Shopping, Travel and Directory Submit programs, please read the [Vortals Privacy Policy](http://www.vortal.com/privacy.html). 
+This privacy policy describes how AdMedia, Inc. ("AdMedia") collects and uses the personal information you provide on our Web sites: www.thankyouoffer.com, www.thankyouemail.com, www.remarketing.com, www.prerollstream.com, www.overlayad.com, www.midrollstream.com, www.intextual.com, www.footerroll.com, www.dittodomains.com, www.contextual.com, www.admobile.com, www.admediabrands.com, www.404bucks.com, www.admedia.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-**What this policy covers**  
-This policy covers business contact information, such as name, email address, telephone number and address and other work-related information, that visitors provide to SV online on publicly available SV sites (where advertiser login is not required). If you are a business enrolled in advertiser programs that are subject to the Advertiser Master Services Terms and Conditions, Insertion Order(s) or other advertising or marketing agreements (collectively, "Advertising Agreement"), please refer to your Advertising Agreement to learn more about how Vortal Interactive may use information about your business. The terms of such business agreements supersede the provisions of this Privacy Policy. 
+[](https://privacy.truste.com/privacy-seal/Ad-com-Interactive-Media,-Inc-/validation?rid=1825b7dc-2cca-41b8-b3ca-31cac0bf5673 "TRUSTe online privacy certification")
 
-**Types of information we collect and how we use it**  
-The following describes what information Vortal Interactive Advertising Solutions collects from visitors to the SV sites as well as outside the Vortal Interactive network of web sites, and how we may use it: 
+AdMedia has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program only covers information that may be collected through this website. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [copyright@admedia.com](mailto:copyright@admedia.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-  1. **Email addresses and related information**  
-There may be opportunities for visitors to the site to sign-up to receive email communications. Visitors may subscribe by providing an email address and other requested information. Recipients of email marketing messages will have the opportunity to unsubscribe from future messages via the link(s) provided within the message. 
-  2. **Search**  
-The Bid4keywords.com site offers web search functionality to visitors. Anonymous cookies are used on the site in connection with the search functionality. 
-  3. **Cookies and web beacons on SV web sites**  
-Vortal Interactive accesses [Vortal Interactive domain cookies](http://www.vortal.com/privacy.html) and may use [Vortal Interactive web beacons](http://www.vortal.com/privacy.html) when you visit the SV sites or other sites on the Vortal Interactive domain. Vortal Interactive and certain partners working on behalf of Vortal Interactive, also use web beacons on the SV sites. Vortal Interactive may share site usage information about visitors to the SV sites with third-party advertising companies for the purpose of targeting and measuring the effectiveness of our Internet advertisements on this site and other sites. For this purpose, Vortal Interactive and these third-party advertising companies note some of the pages you visit on our sites through the use of web beacons. 
+## What type of information does AdMedia collect?
 
+We collect the following personal information from you (Publishers ONLY):
 
-
-The information collected by these third-party advertising companies through the use of these web beacons is not personally identifiable. For more information about our third-party advertisers, including how to opt out of their targeting programs, please visit their sites: [Omniture (207.net)](http://www.omniture.com/), [Doubleclick](http://www.doubleclick.com/), [Commission Junction](http://www.cj.com/) and [Performics](http://www.performics.com/). 
-
-In addition to the above, Vortal Interactive' email delivery vendor may employ web beacons and cookies within HTML email messages sent on our behalf and on the SV sites. The use of cookies and web beacons described above help Vortal Interactive to measure the effectiveness of our advertising and how visitors use the SV sites. 
-
-  1. **SV cookies and web beacons outside the Vortal Interactive network of web sites**  
-Vortal Interactive Search Marketing offers advertisers tools that allow them to better understand the performance of their online marketing campaigns. For more information about these tools and the web beacons and cookies used, please read the [Vortal Interactive Search Marketing Tools Privacy Statement](http://www.vortal.com/privacy.html).
-  2. **Promotions and sweepstakes**  
-From time to time, Vortal Interactive may sponsor or host promotions and sweepstakes where we collect information. Use and sharing of this information will be disclosed in promotion and sweepstakes rules or on the page where you sign-up. 
-  3. **IP addresses and information specific to your computer**  
-SearchVortal logs IP information when you visit our sites, including the SV sites. In addition to this information, Vortal Interactive collects information that your computer's browser automatically reports to us such as information about your operating system and browser version. 
+  * Contact Information such as name, email address, mailing address, phone number
+  * Billing Information
+  * Social Security Number
 
 
 
-**Information Sharing and Disclosure**  
-Vortal Interactive does not rent, sell or share personally identifiable information about visitors to the SV sites. However, Vortal Interactive may share this information with selected partners, vendors, agents or others who work on our behalf, in order to provide products or services you've requested, or when we have your permission. In addition, Vortal Interactive may share information about you if Vortal Interactive is acquired by or merged with another company. In this event, Vortal Interactive will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+## What does AdMedia do with my data?
 
-Please note that we may also share information in the event that we are asked to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims, or as otherwise permitted by law. 
+AdMedia only collects data to enhance and personally tailor our website to meet your needs. Personal information that is collected allows us to customize website content and generate targeted advertisements based on your particular preferences. Cookies help us distinguish between individual users, tailor fit homepages, control advertisement frequency, and so on.
 
-**Other**  
-Vortal Interactive may update this policy. We will notify you about significant changes in the way we treat personal information by placing a prominent notice on this site. 
+IP addresses help us diagnose server issues and help us administer AdMedia.com. Without your IP address it would be impossible to keep our services running 24/7, and we want to be here for you around the clock.
 
-The SV sites are not targeted at children and are not intended for use by children under the age of 13. 
+Every email sent to AdMedia users is to meet your needs. We offer website updates, inform you of new features, allow you to register for special offers and sweepstakes, newsletters all for your enjoyment. If at any point these emails become annoying or bothersome, simply follow the unsubscribe mechanism in these emails or you can email [copyright@admedia.com](mailto:copyright@admedia.com).
 
-If you have any questions about this Privacy Policy, please contact us at the following: 
+Also note that your email address helps AdMedia respond to any questions you have posed, issues you have encountered, or complaints made. We require your email address so we may address these issues.
 
-Vortal Interactive _  
-Vortal Advertising Solutions - Privacy Policy Issues         
-6320 Canoga Ave. Suite 250        
-Woodland Hills, CA 91367        
-_  
-Effective Date: MAY 1, 2006 
+We may provide your personal information to companies that provide services to help us with our business activities such as payment processing, email communications and career fulfillment. These companies are authorized to use your personal information only as necessary to provide these services to us. We have a co-branding relationship with our service provider of our career page. The personal information that you enter is owned by AdMedia.
 
-|  | 
+We may also disclose your personal information
+
+  * as required by law, such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * to any other third party with your prior consent to do so.
+  * if AdMedia is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * to any other third party with your prior consent to do so
+
+
+
+## Cookies
+
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+
+We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
+
+We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+
+If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as previously entered account information, will be limited. 
+
+## Third Party Cookies
+
+The use of cookies by third parties is not covered by our privacy policy. We do not have access or control over these cookies.
+
+## Clear Gifs (Web Beacons/Web Bugs)
+
+We employ and our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. This clear Gif placement allows AdMedia a seamless and unobtrusive way to retarget our users to ensure that all ads have been personally tailored to that individual. 
+
+Your IP address helps AdMedia diagnose server problems and helps us administer website functions. IP addresses provide us with geographical information and aggregated information on how visitors utilize AdMedia.com. By monitoring search queries, access times, and traffic patterns we can determine how to market users and make their experience more enjoyable.
+
+## Security
+
+The security of your personal information is important to us. When you enter sensitive information (such as a social security number/Tax ID) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [copyright@admedia.com](mailto:copyright@admedia.com).
+
+## Public Forums
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [copyright@admedia.com](mailto:copyright@admedia.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+## Who else gets to see my personal information?
+
+When you request services from our business partners AdMedia will share your personal information with them, so that you can receive what you have requested. If you have any questions or concerns about an AdMedia business partner, you may contact them directly. AdMedia is not responsible for the data collection or privacy practices of business partners. Your personal information may also be shared with AdMedia owned businesses.
+
+Targeted advertisements enhance user experience, and so at times we may share specifically non personal information with advertisers, so that they may present you with relevant advertisements. Geographical information may be shared along with demographics, but we will never share personally identifiable information. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+
+## How do I delete my information from AdMedia?
+
+If your personal information changes, you may correct or update by logging into your account and going to Account Info or by emailing [copyright@admedia.com](mailto:copyright@admedia.com) or by contacting us by postal mail at the contact information listed below. If you no longer desire our service, please contact us at the contact information listed below in Contacting AdMedia.
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [copyright@admedia.com](mailto:copyright@admedia.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+At this current time it is not possible to completely delete your user information from the AdMedia database. If you are concerned with the security of your personal data you can remove the cookie stored on your browser, which will allow the server to perceive you as a new user. In the future you can change your browser setting to not accept cookies. Be aware that removing cookies does prevent you from participating in certain activities.
+
+## Will I be notified of a security breach?
+
+AdMedia has taken many steps to ensure that your personal information is not made publicly available and that is only accessible to the user who originally entered it. However, in the event of an unlikely security breach, the user will be notified via email immediately.
+
+## Do linked sites honor your policy?
+
+Linked sites are not run or controlled by AdMedia. The website does contain many linked sites so that we may offer you additional services and products that we feel you will enjoy. Each linked site is owned by an outside company; therefore, they have established their own polices in respect to privacy. AdMedia won't be held responsible for privacy practices or policies or content of linked sites. Also note that any personal information supplied to an outside advertiser is at your own risk.
+
+## AdMedia will notify you of changes
+
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+## Contacting AdMedia
+
+In regards to privacy issues or the collection of personal data, any questions or concerns can be directed to our dedicated representatives. Please contact them by email at [copyright@admedia.com](mailto:copyright@admedia.com).
+
+AdMedia 901 W. Alameda Ave., Suite 102, Burbank, CA 91506
