@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learndirect.co.uk privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619083159id_/http%3A//www.learndirect.co.uk/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learndirect.co.uk privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224020456id_/http%3A//learndirect.co.uk/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement | learndirect
 
@@ -12,7 +12,7 @@ This notice provides a summary of the full **learndirect** Privacy Statement. Bo
 
 We collect personal data about you when you enrol as a learner. [[Further Information](https://web.archive.org/privacystatement/#2)]. At enrolment, we may ask you for [sensitive personal data](https://web.archive.org/privacystatement/#7) and for your consent to use it for a specific purpose. If you do not wish to provide this information, you way select the Not Known/Not Provided option. 
 
-We share some of your personal data with  the Skills Funding Agency. The SFA through their Learner Registration Service allocates Unique Learner Numbers (ULNs) which enable individuals to access their participation and achievement data. The SFA will share your  **learndirect** Ltd participation and achievement data with other organisations if you tell  **learndirect** Ltd that you are happy for the SFA to do so. [[Further information](https://web.archive.org/privacystatement/#miap)]. 
+We share some of your personal data with the Skills Funding Agency. The SFA through their Learner Registration Service allocates Unique Learner Numbers (ULNs) which enable individuals to access their participation and achievement data. The SFA will share your  **learndirect** Ltd participation and achievement data with other organisations if you tell  **learndirect** Ltd that you are happy for the SFA to do so. [[Further information](https://web.archive.org/privacystatement/#miap)]. 
 
 We share some personal with Job Centre Plus if you have been referred to  **learndirect**  Ltd by them. [[Further Information](https://web.archive.org/privacystatement/#jcp)]. 
 
@@ -24,7 +24,7 @@ We collect certain personal data about you when you enter competitions. [[Furthe
 
 You may provide us with further personal data if you use one of our learning or communications facilities or use one of our online skills tests. [[Further information](https://web.archive.org/privacystatement/#6)]. 
 
-We use cookies and other technologies to keep track of how you interact with our website and to target advertising.  [Further information about this and about third party technologies that may be used](https://web.archive.org/privacystatement/#16). 
+We use cookies and other technologies to keep track of how you interact with our website and to target advertising.  [Further information about this and about third party technologies that may be used](https://web.archive.org/cookies-statement/). 
 
 ### Purposes and Disclosures 
 
@@ -50,7 +50,7 @@ You can request that:
 
 
 
-You may also turn cookies off in your browser. However if you do so, you may not be able to use certain features on the website. [[More information](https://web.archive.org/privacystatement/#16)]. 
+You may also turn cookies off in your browser. However if you do so, you may not be able to use certain features on the website. [[More information](https://web.archive.org/cookies-statement/)]. 
 
 ### Important Information 
 
@@ -91,7 +91,7 @@ Follow the hyperlinks below for more information about our policies and practice
   * **[Requests for information](https://web.archive.org/privacystatement/#13)**
   * **[Protecting your personal information](https://web.archive.org/privacystatement/#14)**
   * **[Keeping your personal data](https://web.archive.org/privacystatement/#15)**
-  * **[Cookies and other technologies](https://web.archive.org/privacystatement/#16)**
+  * **[Cookies and other technologies](https://web.archive.org/cookies-statement/)**
   * **[Our policy for children](https://web.archive.org/privacystatement/#17)**
   * **[If you are a tutor](https://web.archive.org/privacystatement/#tutors)**
   * **[Your rights](https://web.archive.org/privacystatement/#18)**
@@ -307,9 +307,15 @@ The SFA requires that we also tell you about its own privacy notice so that you 
 
 **_How We Use Your Personal Information_**
 
-_The personal information you provide is passed to the Chief Executive of Skills Funding (“the Agency”) and, when needed, the Young People’s Learning Agency for England (“the YPLA”) to meet legal duties under the Apprenticeships, Skills, Children and Learning Act 2009, and for the Agency’s Learning Records Service (LRS) to create and maintain a unique learner number (ULN). The information you provide may be shared with other partner organisations for purposes relating to education or training._
+The personal information you provide is passed to the Chief Executive of Skills Funding ("the Agency") and, when needed, the Department for Education, including the Education Funding Agency to meet legal duties under the Apprenticeships, Skills, Children and Learning Act 2009, and for the Agency's Learning Records Service (LRS) to create and maintain a unique learner number (ULN). The information you provide may be shared with other partner organisations for purposes relating to education or training.
 
-_Further information about use of and access to your personal data, and details of partner organisations are available at the[SkillsFundingAgency](http://skillsfundingagency.bis.gov.uk/privacy.htm), [ypla.gov.uk](http://www.ypla.gov.uk/) and [learningrecordsservice.org](http://www.learningrecordsservice.org.uk/documentlibrary/documents/Code+of+Practice+for+Sharing+of+Personal+Information.htm)._
+Further information about use of and access to your personal data, and details of partner organisations are available at:  
+<http://skillsfundingagency.bis.gov.uk/privacy.htm>,  
+and  
+<http://www.learningrecordsservice.org.uk/documentlibrary/documents/Code+of+Practice+for+Sharing+of+Personal+Information.htm>
+
+If you want to change your options with the SFA or the LRS about their contacting you for surveys or research, or to tell you about courses and other learning opportunities, or how they can contact you, please contact your tutor.  
+
 
 ### Statistics 
 
@@ -342,31 +348,6 @@ We keep personal data and Learner Files:
 
 Sometimes we will keep information that you have deleted, for example messages sent by you to your tutor, as a record of your learning experience. We will keep this information for a reasonable time. 
 
-### Cookies and other technologies 
-
-**Cookies**
-
-Cookies are small text files which are sent to your browser by a web server and stored on your personal computer's hard disk. We use cookies on our site to : 
-
-  * cut down the number of times you have to type in data; 
-  * record the success of advertising, to target advertising and to track visitor usage; 
-  * track responses to regular customer surveys and to make sure you don't see the same survey more than once; and 
-  * check the compatibility of your system with some of our services 
-
-
-
-The cookies used on the website do not collect your personal information. 
-
-You can disable cookies but if you do, you may not be able to use certain features on our site and you may need to enter your password more frequently. If you want to know how to remove cookies from your browser, [go to the 'All About Cookies' website](http://www.allaboutcookies.org/manage-cookies/index.html). 
-
-In general, we use third parties to conduct online surveys on our behalf. We do not issue the cookies used in these online surveys and these cookies may require your browser to connect to sites that are not run by us. You can find out more about the cookies used in online surveys conducted on our behalf by clicking through to the website of the third party that is conducting the online survey. 
-
-**Transparent gif files**
-
-Some of our webpages may contain invisible electronic tags that allow us count users that have visited certain pages. These files are only used to identify which advertisements bring customers to our website and you cannot be identified by them. They are not issued by us but by the relevant advertising provider. You can find out more about cookie type devices issued by third party advertisers by clicking through to the website operated by the relevant advertiser. 
-
-In any event, you can find out more information about electronic tags, if you [go to the 'All About Cookies' website](http://www.allaboutcookies.org/web-beacons/). 
-
 ### Our policy for children 
 
 Our website is not designed for or directed at children under the age of 13. No one whose date of birth indicates that they are under 16 years will be able to register on-line as a learner. We recommend that you put parental controls on your internet browser and supervise your children when they are online. 
@@ -381,7 +362,14 @@ When you are registered as a tutor by a Service Provider you accept that all act
 
 ### Your rights 
 
-You have the right to ask for a copy of all the information we hold about you (we will charge you a small fee for this) and to correct any inaccuracies. To obtain a copy of this information, please ring us on **0800  101 901** or [email us](mailto:enquiries@learndirect.net?Subject=Privacy%20Statement%20query). You can amend your details on the website at any time using "your details" on your learner home page. 
+You have the right to:
+
+  * ask for a copy of all the information we hold about you (we will charge you a small fee for this) and to correct any inaccuracies. To obtain a copy of this information, please ring us on 0800 101 901 or email us;
+  * challenge the accuracy of data held about you.  You can amend your details on the website at any time using "your details" on your learner home page.   If you are unable to amend the details please ring us on 0800 101 901 or email us to request a change
+  * take steps to prevent your personal data being processed if the processing is likely to cause you substantial damage or substantial distress which is unjustified.  If you want to exercise this right you must put your objection in writing by emailing us,  specifying why the processing has this effect and state what you require learndirect to do to avoid causing damage or distress. 
+  * If you wish to make a data protection complaint go to: [/contact/](https://web.archive.org/contact/) and select Make a Complaint from the options provided. 
+
+
 
 ### Links 
 
@@ -391,4 +379,4 @@ Our website contains links to other websites. We are not responsible for the pri
 
 You should note that if our business (or any part of it) is sold or transferred at any time, the information we hold may form part of the assets transferred although will still only be used in accordance with this privacy statement. 
 
-**Last updated :  March 2012**
+**Last updated :  August 2012**
