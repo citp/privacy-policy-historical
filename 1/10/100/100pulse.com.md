@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 100pulse.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501193846id_/http%3A//100pulse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100pulse.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224131811id_/http%3A//100pulse.com/privacy.html) for the most accurate reproduction.*
 
 # 100pulse.com Website Monitoring Service Privacy Policy
 
