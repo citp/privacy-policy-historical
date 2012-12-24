@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softlate.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628075058id_/http%3A//softlate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softlate.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224010316id_/http%3A//softlate.com/home/privacy.html) for the most accurate reproduction.*
 
 # VLC Media Player
 
