@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareteccu.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516132522id_/http%3A//www.sharetec.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareteccu.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224172600id_/http%3A//www.sharetec.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Sharetec Credit Union Management Systems
 
@@ -23,4 +23,4 @@ What we do not do:
 
 
 
-Please [contact us](https://web.archive.org/web/20120516132522id_/http%3A//www.sharetec.com/contact-us.htm) if you have any questions or concers regarding this privacy policy.
+Please [contact us](https://web.archive.org/web/20121224172600id_/http%3A//www.sharetec.com/contact-us.htm) if you have any questions or concers regarding this privacy policy.
