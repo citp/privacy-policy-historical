@@ -1,47 +1,91 @@
-> *The following text is extracted and transformed from the communityseo.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012064639id_/http%3A//www.thoughtmechanics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the communityseo.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224012003id_/http%3A//communityseo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Our Commitment To Privacy**
+### What information do we collect?
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
-**The Information We Collect:**
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-This notice applies to all information collected or submitted on the http://www.thoughtmechanics.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+### What do we use your information for?
 
-  * Name
-  * Address
-  * Email address
-  * Phone number
-  * Credit/Debit Card Information
-  * (etc.)
+Any of the information we collect from you may be used in one of the following ways:
 
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
+\- To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-**The Way We Use Information:**
+\- To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.  
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.  
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.  
-You can register with our website if you would like to receive our catalog as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.  
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.  
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+\- To process transactions
 
-**Our Commitment To Data Security:**
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+### How do we protect your information?
 
-**Our Commitment To Children’s Privacy:**
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-**How You Can Access Or Correct Your Information:**
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
 
-You can access all your personally identifiable information that we collect online and maintain by the provided online tools to do so. We use this procedure to better safeguard your information.  
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.  
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.  
-**How To Contact Us**
+### Do we use cookies?
 
-Should you have other questions or concerns about these privacy policies, please call us at 317-340-0116 or send us an email at mike@thoughtmechanics.com.  
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
+We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+### Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+### Google and Other Such Advertising Networks
+
+CommunitySEO contracts with such advertising networks as Google and others in order to advertise our service to potential customers. These networks store information about you in their cookies and may include your IP address and browser configuration. Your name and other information is not collected unless you specifically provide it.
+
+One form of advertising we engage in is called retargeting or remarketing. This allows us to display ads to you on other websites if you have visited our website in the past..
+
+For more information on Google’s remarketing privacy policy, please see [https://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=143465](https://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=143465).
+
+To opt out of Google’s use of cookies, please see <http://www.google.com/privacy/ads>.
+
+### California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their dashboard and going to the "Edit Profile" page.
+
+### Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+### Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+### Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://communityseo.com/tos>
+
+### Your Consent
+
+By using our site, you consent to our online privacy policy.
+
+### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+This policy was last modified on Sept 9, 2012
+
+### Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+http://communityseo.com/contact  
+PO Box 87  
+Tappen, British Columbia  
+Canada V0E 2X0
