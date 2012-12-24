@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cramit.in privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616043605id_/http%3A//cramit.in/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cramit.in privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224042907id_/http%3A//cramit.in/privacy.htm) for the most accurate reproduction.*
 
 # PLC Resource 2-201-7192
 
@@ -29,6 +29,12 @@ We may also use the cookies to gather information about your general internet us
 All computers have the ability to decline cookies.� You can easily decline or remove cookies from your computer using the settings within the Internet Options section in your computer control panel.
 
 Our advertisers may also use cookies on their website. We have no control over this and you should review the privacy policy of any advertiser that you visit as a result of an advert or link on this website.
+
+**Cookies & 3rd Party Advertisements**
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **Use of Your Information**
 
