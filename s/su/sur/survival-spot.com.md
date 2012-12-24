@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the survival-spot.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624211138id_/http%3A//www.survival-spot.com/survival-blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survival-spot.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224173221id_/http%3A//www.survival-spot.com/survival-blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Survival Spot
 
