@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discounttirecenters.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521041554id_/http%3A//www.discounttirecenters.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discounttirecenters.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224190827id_/http%3A//discounttirecenters.com/privacy_policy.php) for the most accurate reproduction.*
 
 # DTC Privacy Policy for Discount tires and wheels, truck, 4x4 and suv tires, car rims, car wheels, aftermarket wheels, custom wheels - DiscountTireCenters.com with the lowest prices on tires and automotive services in California, carrying all name tire brands, and providing comprehensive automotive services.
 
