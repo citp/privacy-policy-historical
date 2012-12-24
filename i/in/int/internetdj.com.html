@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the internetdj.com privacy policy that was archived on 2012-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625115206id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the internetdj.com privacy policy that was archived on 2012-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121224111848id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<meta name="description" content="Find, search and download new mp3 music. Upload and share your music with your social network.">
@@ -7,20 +7,17 @@
 	<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
 	<meta property="fb:admins" content="590495798">
   <meta property="fb:app_id" content="145154548867538">
-  <link href="/include/promobox/style.css" media="all" rel="stylesheet" type="text/css">
 
   <style media="all" type="text/css">@import "/include/menu/menu_style.css";</style>
 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=145154548867538"></script><script type="text/javascript" src="/topscripts.js" language="JavaScript"></script>
 
-
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=000188575432994518388:WMX-611171540"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=145154548867538"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.0/jquery-ui.min.js"></script>
   <link rel="stylesheet" href="/include/theme/css/Aristo/Aristo.css" type="text/css">
   
 	<link rel="stylesheet" href="/images/style.css" type="text/css">
 
-
+  <script type="text/javascript" src="/js/utils.js" language="JavaScript"></script>
 
   
 	<meta property="og:title" content="Privacy Statement for InternetDJ.com">
@@ -33,92 +30,15 @@
 
       <script language="javascript">
         $(function() {
-          $( "#tabs" ).tabs();
+          $( "#tabs0" ).tabs();
+          $( "#tabs1" ).tabs();
+          $( "#tabs2" ).tabs();
         });
       
       </script>
 
 
 	<title>Privacy Statement for InternetDJ.com</title>
-
-	<script type="text/javascript">
-
-          $(function() {
-            $(".artist-login").click(function(){
-              window.location.href = "http://www.internetdj.com/login.php?redirect=L2FydGljbGUucGhwP3N0b3J5aWQ9MzA=";
-              return false;
-            });
-          });    
-
-          $(function() {
-            $(".follow").click(function(){
-              var element = $(this);
-              var I = element.attr("id");
-              var info = 'userid='+I+'&op=addfol';
-                
-              $.ajax({
-                url: '/artists.php',
-                data: info,
-                success: function(){}
-              });              
-             
-              $("#follow"+I).fadeOut(200).hide();
-              $("#remove"+I).fadeIn(200).show();
-
-              $("#remove"+I).addClass("ui-state-active"); 
-  
-              return false;
-             
-            });
-          });
-          
-          $(function() {
-            $(".remove").click(function(){
-              var element = $(this);
-              var I = element.attr("id");
-              var info = 'userid='+I+'&op=addfol&remove=yes';
-
-              $.ajax({
-                url: "/artists.php",
-                data: info,
-                success:function(){}
-              });
-
-              $("#remove"+I).fadeOut(200).hide();
-              $("#follow"+I).fadeIn(200).show();
-
-              $("#follow"+I).removeClass("ui-state-active");
-
-              return false;
-             
-            });
-             
-          });
-
-
-          $(function() {
-            
-            $(".trigger").click(function(){
-              $(".panel").toggle("fast");
-              $(this).toggleClass("active");
-              return false;
-            });
-            
-            $( "button, input:submit, a", ".button").button();
-          
-            $( "#album-cover" ).dialog({
-                    autoOpen: false,
-                    height: 340,
-                    width: 350,
-                    modal: true
-            });
-            $( "#open-album-cover").click(function() {
-            $( "#album-cover" ).dialog( "open" );
-              return false;
-            });
-
-          });
-  </script>
 
 </head>
 
@@ -130,7 +50,18 @@
   js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=145154548867538";
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+}(document, 'script', 'facebook-jssdk'));
+  
+ (function() {
+    var cx = '000188575432994518388:WMX-611171540';
+    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+  })();
+
+</script>
+
 
   <div style="-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.1);box-shadow: 0 1px 3px rgba(0,0,0,.1);background-image: -webkit-linear-gradient(top, white, #F8F8F8);
 background-image: -moz-linear-gradient(top, white, #F8F8F8);
@@ -141,36 +72,25 @@ border-bottom: 1px solid #CDCDCD;z-index: 1000; position:fixed; top: 0;backgroun
     <a href="/"><img alt="InternetDJ.com :: Electronic Music, Videos, Bands and News" title="InternetDJ.com :: Electronic Music, Videos, Bands and News" border="0" src="/images/logo/internetdj_logo.png" style="float: left; height: 29px; padding-top:6px; padding-left: 8px; padding-right: 10px;"></a> 
     <div class="menu" style="min-width: 1080px">
         <ul id="nav">
+      
+           <li id="n-today"><a href="/today">Today</a></li>
 
-          <li id="n-music"><a href="/artists.php" class="dir">Songs</a>
+          <li id="n-music"><a href="/artists.php" class="dir">Find</a>
             <ul>
 
-              <li class="empty">Find Songs and Albums</li>
-              <li><a href="/artists.php?op=newtracks">New Releases</a></li>
-              <li><a href="/tags.php">Browse by Artist</a></li>
-              <li><a href="/tracks.php">Browse by Songs</a></li>
+              <li class="empty">Songs and Albums</li>
+              <li><a href="/today">New Releases</a></li>
+              <li><a href="/tracks.php">All Songs</a></li>
+              <li><a href="/tags.php">Tag Cloud</a></li>
               <li><a href="/sotd.php">Song of the Day</a></li>
               <li><a href="/artists.php?op=aotw">Artist of the Week</a></li>
 
-              <li class="empty">Downloads</li>
-              <li><a href="/sources.php">Sources &amp; Samples</a></li>
-              <li><a href="/tracks.php?op=showtracks&amp;download=2">Free MP3 Downloads</a></li>
-            </ul>
-          </li>
+              <li class="empty">Mixes</li>
+              <li><a href="/mixes.php">All Mix Sets</a></li>
+              <li><a href="/playlists.php">All Playlists</a></li>
 
-          <li id="n-mixes"><a href="/mixes.php" class="dir">Mixes</a>
-            <ul>
-              <li><a href="/mixes.php">Mix Sets</a></li>
-              <li><a href="/mixshow.php">Playlists</a></li>
-            </ul>
-          </li>
-
-
-          <li id="n-video"><a href="/video.php" class="dir">Video</a>
-            <ul>
-              <li class="first"><a href="/video.php">Videos Main</a></li>
-              <li><a href="/mixshow.php">Playlists</a></li>
-              <li><a href="/artists.php?op=managevideo">Upload/Manage Videos</a></li>
+              <li class="empty">Music Videos</li>            
+              <li><a href="/video.php">All Videos</a></li>
             </ul>
           </li>
           <li id="n-charts"><a href="/charts.php" class="dir">Charts</a>
@@ -183,42 +103,32 @@ border-bottom: 1px solid #CDCDCD;z-index: 1000; position:fixed; top: 0;backgroun
               <li><a href="/charts.php?op=allones">All #1 Songs</a></li>
               <li><a href="/reviews.php?op=top">Top Reviewers</a></li>
               <li><a href="/pointleaders.php">Point Leaders</a></li>
+              <li><a href="/artists.php?op=mostfans">Most Followers</a></li>
             </ul>
           </li>
-          <li id="n-news"><a href="/news.php" class="dir">Blog</a>
+          <li id="n-forum"><a href="/forum.php" class="dir">Connect</a>
             <ul>
-              <li class="first"><a href="/news.php">Blog Main</a></li>
-              <li><a href="/topics.php?topic=33">Music</a></li>
-              <li><a href="/topics.php?topic=47">Features</a></li>
-              <li><a href="/topics.php?topic=46">Technology</a></li>
-              <li><a href="/topics.php?topic=37">How-To</a></li>
-              <li><a href="/reviews.php" class="dir">Music Reviews</a></li>
-              <li><a href="/newswire.php">Submit Article</a></li>
-            </ul>
-          </li>
-          <li id="n-forum"><a href="/forum.php" class="dir">Forum</a>
-            <ul>
-              <li class="first"><a href="/members.php">Members Home</a></li>
+              <li class="first"><a href="/news.php">News</a></li>
+              <li class="first"><a href="/members.php">All Members</a></li>
               <li><a href="/forum.php">Forum</a></li>
-              <li><a href="/members.php?op=search">Find Members</a></li>
-              <li><a href="/groups.php">Groups</a></li>
               <li><a href="/powerusers.php">Power Users</a></li>                      
-              <li><a href="/artists.php?op=artistgallerymain">Photo Gallery</a></li>
-              <li><a href="/reviews.php" class="dir">Music Reviews</a></li>
-              <li><a href="/developers">Developer API</a></li>
+              <li><a href="/reviews.php" class="dir">All Reviews</a></li>
             </ul>
           </li>
 
-          <li id="n-search" style="background: none">
-            <form name="searchform" method="get" action="/search.php" style="margin:5px 15px 0 10px;display: inline;float:left;">
-              <input style="color: #969696;font: normal 14px/17px Tahoma, Verdana, Arial, Helvetica, sans-serif;width: 120px;height: 15px;padding: 3px 29px 2px 5px;" onfocus="document.searchform.query.value='';" type="text" name="query" value="search news, music">
-              <!--<input style="float: right;position: relative;margin: 5px 0 0 -20px;" type="image" src="/include/menu/css/dropdown/themes/vimeo.com/images/btn_search.png" name="search" value="Search" />-->
+          <li id="n-search" style="background: none; width: 300px;">
+            <form id="cse-search-box" name="searchform" method="get" action="/search.php" style="margin:5px 15px 0 20px;display: inline;float:left;">
+              <input style="color: #969696;font: normal 14px/17px Tahoma, Verdana, Arial, Helvetica, sans-serif;width: 220px;height: 15px;padding: 3px 29px 2px 5px;" onfocus="document.searchform.q.value='';" type="text" name="q" value="search music, videos">
+               <input type="hidden" name="cx" value="000188575432994518388:WMX-611171540">
+               <input type="hidden" name="ie" value="UTF-8">
+
             </form>
+
           </li>
 
-          <li> <span style="margin-left: 100px;">&nbsp;</span></li>
+          <li><span style="margin-left: 50px;">&nbsp;</span></li>
           <li><a href="/login.php?redirect=L2FydGljbGUucGhwP3N0b3J5aWQ9MzA=">Log in</a></li>
-          <li><a href="/signup.php"><!--<img src="/images/twitter-18.png" width="18" height="18" alt="" style="vertical-align: middle;margin-bottom: 3px;margin-right: 7px;" />--><img src="/images/facebook-18.png" width="18" height="18" alt="" style="vertical-align: middle;margin-bottom: 3px;margin-right: 7px;">Sign up</a></li>
+          <li><a href="/signup.php"><img src="/images/twitter-18.png" width="18" height="18" alt="" style="vertical-align: middle;margin-bottom: 3px;margin-right: 7px;"><img src="/images/facebook-18.png" width="18" height="18" alt="" style="vertical-align: middle;margin-bottom: 3px;margin-right: 7px;">Sign up</a></li>
 
           
         </ul>
@@ -239,7 +149,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1334256277484-0');
   var casaleHost=' type="text/javascript" src="http://as.casalemedia.com/s?s=';
   document.write('<scr'+'ipt'+casaleHost+'108899&amp;u=');
   document.write(casaleU+'&amp;f=1&amp;id='+casaleR+'"><\/scr'+'ipt>');
-  //--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=108899&amp;u=https%3A//web.archive.org/web/20120625115206id_/http%253A//www.internetdj.com/article.php%253Fstoryid%253D30&amp;f=1&amp;id=1863131372.0077069"></script>
+  //--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=108899&amp;u=https%3A//web.archive.org/web/20121224111848id_/http%253A//www.internetdj.com/article.php%253Fstoryid%253D30&amp;f=1&amp;id=1863129702.1162338"></script>
   </div>
   <div style="margin-top: 10px;"></div>
 
@@ -271,7 +181,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1334256277484-0');
   
   <div style="clear: both; margin: 5px;"></div>
   <div style="width: 200px; float: left; margin: 0 10px 0 0;">
-<a href="/topics.php?topic=33"><img class="image" style="width: 200px;" src="/images/pix.gif" border="0" alt="Music News"></a></div><p style="font-size: 12px; color: #666">Posted  by <a href="/user/michael">michael</a> on 2001-08-09 07:35:30</p><span style="font-size: 16px; line-height: 20px">
+<a href="/topics.php?topic=33"><img class="image" style="width: 200px;" src="/images/pix.gif" border="0" alt="Music News"></a></div><p style="font-size: 12px; color: #666">Posted  by <a href="/user/michael">Michael Bordash</a> on 2001-08-09 07:35:30</p><span style="font-size: 16px; line-height: 20px">
         <p></p>
         <p>InternetDJ is committed to providing quality online activities and information to fans. While we encourage the interactive nature of online media, we strive to ensure the online safety and privacy of our visitors. 
 <br><br>
@@ -344,87 +254,128 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1334458464673-0');
 </div>
 
       <div style="clear: both; margin-top: 3px;"></div>
-      <h3>latest headlines</h3>
-      <div class="left_box">      
-» <a href="/article/windy_land_you_gonna_love">Windy Land - You Gonna Love :: OUT NOW</a><br>» <a href="/article/w_hotels_burn_studios_dj_search_2012">W Hotels &amp; Burn Studios Present DJ Lab 2012 - Final DJ Search - Asia</a><br>» <a href="/article/gerald_the_genius_studio">The Secrets of Gerald The Genius' Studio Revealed</a><br>» <a href="/article/garmiani_release">Garmiani - In Front Of Your Eyes out on Beatport today</a><br>  » <a href="/news.php" style="font-weight: bold; font-style: italic">More in News</a>
-      </div>
-      <h3>popular headlines</h3>
-      <div class="left_box">
-» <a href="/article/stoli_vodka_nightlife">Stolichnaya® Premium Vodka Reaffirms Commitment to Nightlife</a><br>» <a href="/article/disco_fries_2012">The Disco Fries Continue Upward Trajectory</a><br>» <a href="/article/gerald_the_genius_studio">The Secrets of Gerald The Genius' Studio Revealed</a><br>» <a href="/article/garmiani_release">Garmiani - In Front Of Your Eyes out on Beatport today</a><br> » <a href="/news.php" style="font-weight: bold; font-style: italic">More in News</a>
+
+      <div id="tabs0">
+            <ul>
+              <li><a href="#tabs-1">Song of the Day</a></li>
+              <li><a href="#tabs-2">Artist of the Week</a></li>
+            </ul>
+    
+            <div id="tabs-1">
+
+        <h5><a href="/song/92337">Elotium - What Happens in Vegas (Elotium Remix)</a></h5>
+          <a href="/song/92337"><img src="/thumb/93130/200/200/92336.jpg" width="200" height="200" style="border: 1px solid #efefef"></a>
+          <p class="smallStats">323 plays</p>
+          <div class="actions">
+            <div>
+              <a href="/song/92337" class="fg-button ui-state-default fg-button-icon-left ui-corner-all"><span class="ui-icon ui-icon-play"></span>Play</a> 
+              <a href="/artists.php?op=favmedia&amp;mediaid=92337" class="fg-button ui-state-default fg-button-icon-left ui-corner-all"><span class="ui-icon ui-icon-star"></span>Like</a> 
+              <a href="/song/92337" class="fg-button ui-state-default fg-button-icon-left ui-corner-all"><span class="ui-icon ui-icon-pencil"></span>Rate</a>
+            </div>
+          </div>
+        </div>
+        <div id="tabs-2">
+  <p><a target="_top" href="http://www.internetdj.com/user/cepheid"><img border="0" style="float:left;margin-right:5px;width:134px;height:100px;" src="http://www.internetdj.com/thumb.php?src=57122.jpg&amp;uid=72985&amp;wmax=249&amp;hmax=186&amp;bgcol=000&amp;quality=90" width="249" height="186"></a></p><h2><a href="/user/cepheid">Cepheid Variable</a></h2><p></p>
+          </div>
       </div>
 
       <div style="margin: 5px; clear: both"> </div>
-          <div id="tabs">
+
+      <div id="tabs1">
             <ul>
-              <li><a href="#tabs-1">Popular Music Videos</a></li>
-              <li><a href="#tabs-2">Latest Music Videos</a></li>
+              <li><a href="#tabs-3">New Topics</a></li>
+              <li><a href="#tabs-1">Latest News</a></li>
+              <li><a href="#tabs-2">Top News</a></li>
+            </ul>
+    
+            <div id="tabs-1">
+» <a href="/article/top_25_music_videos_2012">Top 25 Electronic Music Video Round-up for 2012</a><br>» <a href="/article/mike_posner_heaven_newtown_tragedy">Mike Posner composes new song 'Heaven' for victims of Newtown tragedy</a><br>» <a href="/article/50_cent_new_single_eminem_adam_levine">50 Cent Launches New Single And Video 'My Life' Featuring Eminem And Adam Levine</a><br>» <a href="/article/tiesto_bulgaria_2012">Tiesto Live in Bulgaria 2012 :: InternetDJ Video Coverage</a><br>» <a href="/article/Zenbi_Signs_DJ_Residency">International Dance Music Artist Zenbi Signs DJ Residency</a><br>         » <a href="/news.php" style="font-weight: bold; font-style: italic">More in News</a>
+            </div> 
+        
+            <div id="tabs-2">
+» <a href="/article/50_cent_new_single_eminem_adam_levine">50 Cent Launches New Single And Video 'My Life' Featuring Eminem And Adam Levine</a><br>» <a href="/article/top_25_music_videos_2012">Top 25 Electronic Music Video Round-up for 2012</a><br>» <a href="/article/mike_posner_heaven_newtown_tragedy">Mike Posner composes new song 'Heaven' for victims of Newtown tragedy</a><br> » <a href="/news.php" style="font-weight: bold; font-style: italic">More in News</a>
+            </div>
+
+            <div id="tabs-3">
+» <a href="/topic/21381">Video player / song page player not working</a><br>» <a href="/topic/21385">NEW WAVE TECHNO !!</a><br>» <a href="/topic/21384">New Mashup !! DM &amp; LADY GAGA!!</a><br>» <a href="/topic/21383">New Mashup !! DM &amp; LADY GAGA!!</a><br>» <a href="/topic/21382">Rank 1 - Airwave (Dreamrush Remix)</a><br>» <a href="/topic/21351">Juice</a><br>» <a href="/topic/21353">Winter remix competition?</a><br>» <a href="/topic/21380">Particle-X - Flashback (NEW RELEASE)</a><br>» <a href="/topic/21379">Progect Abrasive by AlexDeVega</a><br>» <a href="/topic/21378">New progect by AlexDeVega</a><br>
+            </div>
+
+
+       </div>
+
+      <div style="margin: 5px; clear: both"> </div>
+          <div id="tabs2">
+            <ul>
+              <li><a href="#tabs-1">Pop Music Videos</a></li>
+              <li><a href="#tabs-2">New Music Videos</a></li>
             </ul>
 
             <div id="tabs-1">
 <table style="width: 100%"><tbody><tr>
                <th><font style="font-size: 20px">1</font></th>
                <td>
-  <a href="/video/94761"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/8mS8F5ifRrY/0.jpg"></a>	<h5><a href="/video/94761">Bob Sinclair - Sound of fredom</a></h5></td>
+  <a href="/video/98773"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/hY_kbq_NkWY/0.jpg"></a>	<h5><a href="/video/98773">Kapabal - Touch The Sky</a></h5></td>
             </tr>
   <tr>
                <th><font style="font-size: 20px">2</font></th>
                <td>
-  <a href="/video/94540"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/alkMox99oes/0.jpg"></a>	<h5><a href="/video/94540">Dj Ajm Gold MasterPiece Mix Compilation</a></h5></td>
+  <a href="/video/98858"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/tAwcTPRr23s/0.jpg"></a>	<h5><a href="/video/98858">NADA PASSA BATIDO </a></h5></td>
             </tr>
   <tr>
                <th><font style="font-size: 20px">3</font></th>
                <td>
-  <a href="/video/94610"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/ukYDYR2jwPY/0.jpg"></a>	<h5><a href="/video/94610">Jeremy Despres feat. Florence François - It's Over</a></h5></td>
+  <a href="/video/98847"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/IbdVVUhfO1I/0.jpg"></a>	<h5><a href="/video/98847"></a></h5></td>
             </tr>
   <tr>
                <th><font style="font-size: 20px">4</font></th>
                <td>
-  <a href="/video/94733"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/V2zaDnRoNlY/0.jpg"></a>	<h5><a href="/video/94733">RejepAtes - Uplifting (Ultramix) 2012 </a></h5></td>
+  <a href="/video/98575"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/Y-BfyEO1A4I/0.jpg"></a>	<h5><a href="/video/98575">Dj Ajm &amp; Eve - Boom Dance Gold 2013.Uplifting Trance Dance Techno Electronic House</a></h5></td>
             </tr>
   <tr>
                <th><font style="font-size: 20px">5</font></th>
                <td>
-  <a href="/video/94442"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/f4nMx8S-EYY/0.jpg"></a>	<h5><a href="/video/94442">Jessie J - Domino - Remix by Amir Afargan</a></h5></td>
+  <a href="/video/98721"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/K2fO8UjlctA/0.jpg"></a>	<h5><a href="/video/98721">wellington city blakout ft phattylumpkinz &amp; cee</a></h5></td>
             </tr>
   <tr>
                <th><font style="font-size: 20px">6</font></th>
                <td>
-  <a href="/video/94608"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/e0ISx8qh3ow/0.jpg"></a>	<h5><a href="/video/94608">JOANNA RAYS - MY HEART IS BURNING</a></h5></td>
+  <a href="/video/98722"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/eBBQJp7vAAo/0.jpg"></a>	<h5><a href="/video/98722">get 'em</a></h5></td>
             </tr>
   <tr>
                <th><font style="font-size: 20px">7</font></th>
                <td>
-  <a href="/video/94638"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/csfBOAjw0H0/0.jpg"></a>	<h5><a href="/video/94638">Azizi Gibson &amp; SB Wise- "Angels with filthy souls" preHISTORIC Crew x Those Folks </a></h5></td>
+  <a href="/video/98897"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/nHn8Pl0mKiA/0.jpg"></a>	<h5><a href="/video/98897">kayas song</a></h5></td>
             </tr>
   <tr>
                <th><font style="font-size: 20px">8</font></th>
                <td>
-  <a href="/video/94609"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/cGV6njwC2nM/0.jpg"></a>	<h5><a href="/video/94609">Windy Land - You Gonna Love</a></h5></td>
+  <a href="/video/98377"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/Et7A5LABEVc/0.jpg"></a>	<h5><a href="/video/98377">D.K.S ft Jawzee, CdotS, Gino &amp; Jamie Hall</a></h5></td>
             </tr>
   <tr>
                <th><font style="font-size: 20px">9</font></th>
                <td>
-  <a href="/video/94735"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/Vz47_N7F0EI/0.jpg"></a>	<h5><a href="/video/94735">RejepAtes - Loneliness ( Ultra Mix)</a></h5></td>
+  <a href="/video/98719"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/zKiaYT__SJE/0.jpg"></a>	<h5><a href="/video/98719">ghetto lovin</a></h5></td>
             </tr>
   <tr>
                <th><font style="font-size: 20px">10</font></th>
                <td>
-  <a href="/video/94659"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/ZGL1_lvk-P4/0.jpg"></a>	<h5><a href="/video/94659">Vedran Fabijanic - Glumis</a></h5></td>
+  <a href="/video/98423"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/Dlh6Xr6qB_4/0.jpg"></a>	<h5><a href="/video/98423">LA House Party</a></h5></td>
             </tr>
   </tbody></table>        <div style="clear: both; padding-top: 10px;">Check out <a href="/video.php">all new music videos</a></div>
             </div>
             
             <div id="tabs-2">
               <ul class="ulinline">
-<table><tbody><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/94958"><img border="0" class="image" src="http://img.youtube.com/vi/LSgPuwuv0L4/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/94958">Duty Sound &amp; Linda Garcia - Dame Dame</a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/94957"><img border="0" class="image" src="http://img.youtube.com/vi/kaIBMC5ydTM/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/94957">Lucky Garcia &amp; Jany Mc Honey - Painting Nature</a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/94956"><img border="0" class="image" src="http://img.youtube.com/vi/j5i1KCj0HSI/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/94956">Rene Ablaze &amp; Alexander Xendzov ft Shanon Fehlberg - Cast Your spell</a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/94881"><img border="0" class="image" src="http://img.youtube.com/vi/-2GHkcR8jns/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/94881">Dj Thizz number 1 Dj Transaction NYC HOUSE MUSIC</a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/94873"><img border="0" class="image" src="http://img.youtube.com/vi/uAZq1atur04/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/94873">August 8 - Mystery (Official Video)</a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/94872"><img border="0" class="image" src="http://img.youtube.com/vi/vj3jAPdxqEg/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/94872">CALL OF THE WILD</a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/94857"><img border="0" class="image" src="http://img.youtube.com/vi/ayRJMO0tn5E/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/94857">And As Soon As I Ejaculated I Knew That I Had Made A Mistake</a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/94854"><img border="0" class="image" src="http://img.youtube.com/vi/cbZC5gAoAhA/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/94854">Unsigned Artist Feature: Not a Chance by Nikki O [Radio Rymatica]</a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/94815"><img border="0" class="image" src="http://img.youtube.com/vi/rf1Me_fQIXU/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/94815">Glory To Jah</a></td></tr></tbody></table>         </ul>
+<table><tbody><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/98998"><img border="0" class="image" src="http://img.youtube.com/vi/DjwaEVZ5BvU/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/98998">Kriscore - Blue light </a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/98997"><img border="0" class="image" src="http://img.youtube.com/vi/UADg5UfBSpk/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/98997">San Isidro - Mientras te esperaba </a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/98996"><img border="0" class="image" src="http://img.youtube.com/vi/rbiKICpu1UQ/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/98996">El Tigre - Galactic Change </a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/98995"><img border="0" class="image" src="http://img.youtube.com/vi/npIrlBJbF6o/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/98995">http://www.youtube.com/watch?v=npIrlBJbF6o</a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/98994"><img border="0" class="image" src="http://img.youtube.com/vi/z-3hG2g_qBc/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/98994">Cristian Soriano - I found you </a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/98993"><img border="0" class="image" src="http://img.youtube.com/vi/ZKcpYstIFr0/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/98993">San Isidro - Recuerdos de otras vidas </a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/98992"><img border="0" class="image" src="http://img.youtube.com/vi/ir4wFwxqZ4s/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/98992">San Isidro - Antarctic waters on America</a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/98991"><img border="0" class="image" src="http://img.youtube.com/vi/fsDLn-MEEfs/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/98991">Cristian Soriano - чак мислим на тебе(rmx) </a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/98988"><img border="0" class="image" src="http://img.youtube.com/vi/n00kPVNkMN8/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/98988">Cristian Soriano - Draconian Puppets</a></td></tr></tbody></table>         </ul>
             </div>
-          </div>
 
+          </div>
+          <div style="clear: both; margin-top: 3px;"></div>
 </div>
 <script language="JavaScript" type="text/javascript">
 if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; 
 document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.internetdj.com/redirect;sect=redirect;adid=99589431;sz=1x1;ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
-</script><script language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.internetdj.com/redirect;sect=redirect;adid=99589431;sz=1x1;ord=6785603178434314?" type="text/javascript"></script>
+</script><script language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.internetdj.com/redirect;sect=redirect;adid=99589431;sz=1x1;ord=3890285174113372.5?" type="text/javascript"></script>
 
     
   &nbsp;
@@ -481,6 +432,7 @@ _qoptions={ qacct:"p-17TyQxbLMiL3g" };
   })();
 
 </script>
-  
+  <script type="text/javascript" src="http://webplayer.yahooapis.com/player.js"></script> 
+
 
 </body></html>
