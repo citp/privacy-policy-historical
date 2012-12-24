@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the competitionhunter.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527113523id_/http%3A//www.competitionhunter.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the competitionhunter.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224132814id_/http%3A//www.competitionhunter.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Competition Hunter
 
@@ -16,7 +16,7 @@ We reserve the right to pass on any user information to relevant authorities and
 
 **Notifications/verification:**
 
-The site may notify you via email of actions (for example, if someone has commented on your submission). You may in the future be emailed with notifications of actions, dependant on future features of the site, or email verification to confirm your email address. You may also be mailed competition digests at intervals of your choice, which you may also turn off. You will have the option to opt-out of any and all notifications we send you.
+The site may notify you via email of actions (for example, if someone has commented on your submission). You may be emailed with notifications of actions, dependant on future features of the site, or email verification to confirm your email address. You may also be mailed competition digests at intervals of your choice (daily/weekly), which you may turn off and on at will. You will have the option to opt-out of any and all notifications we send you in your profile options section.
 
 **Cookies:**
 
