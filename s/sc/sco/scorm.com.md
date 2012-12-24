@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scorm.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504021044id_/http%3A//scorm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scorm.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224173628id_/http%3A//scorm.com/privacy-policy) for the most accurate reproduction.*
 
-# SCORM » Privacy Policy » SCORM
+# SCORM - Privacy Policy » SCORM -
 
 We respect your privacy and want you to know how we handle the information we receive via our website and through our online applications.
 
@@ -52,12 +52,21 @@ If you have questions to report regarding this privacy policy or about the secur
 Suite 300  
 Franklin, TN 37067
 
-**US-EU Safe Harbor Agreement**
+**Safe Harbor Compliance**  
+Rustici Software LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Rustici Software has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. You can learn more about the Safe Harbor program and view our certification page at the Department of Commerce site [here](http://www.commerce.gov/).
 
-Rustici Software LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Rustici Software has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. You can learn more about the Safe Harbor program and view our certification page at the Department of Commerce site [here](http://www.export.gov/safeharbor/). 
+**Privacy Complaints by European Union or Swiss Citizens:**
 
-**Privacy Complaints by European Union Citizens:**
+In compliance with the Safe Harbor Privacy Principles, Rustici Software commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Rustici Software by email at info@scorm.com or by mail at:  
+3351 Aspen Grove Drive  
+Suite 300  
+Franklin, TN 37067
 
-In compliance with the Safe Harbor Principles, Rustici Software commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Rustici Software by email at [info@scorm.com](mailto:info@scorm.com) or by mail at: 3351 Aspen Grove Drive Suite 300 Franklin, TN 37067
+Rustici Software has further committed to refer unresolved privacy complaints under the Safe Harbor Privacy Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if Rustici Software does not satisfactorily address your complaint, you may contact:
 
-Rustici Software has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if Rustici Software does not satisfactorily address your complaint, you may contact the Council of Better Business Bureaus, Inc. at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints). 
+Council of Better Business Bureaus, Inc. BBB EU Safe Harbor  
+4200 Wilson Boulevard, Suite 800  
+Arlington, VA 22203  
+Phone: 703-276-0100  
+Web: [www.bbb.org/us](http://www.bbb.org/us)  
+Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
