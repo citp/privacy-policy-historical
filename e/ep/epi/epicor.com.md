@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicor.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524124103id_/http%3A//www.epicor.com/Company/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicor.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225080944id_/http%3A//www.epicor.com/Company/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Epicor
 
