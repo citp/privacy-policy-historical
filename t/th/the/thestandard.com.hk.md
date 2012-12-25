@@ -1,34 +1,39 @@
-> *The following text is extracted and transformed from the thestandard.com.hk privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523095320id_/http%3A//www.thestandard.com.hk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestandard.com.hk privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225064057id_/http%3A//thestandard.com.hk/privacy.asp) for the most accurate reproduction.*
 
 # The Standard - China's Business Newspaper
 
 |  |   
 ---  
-|  |   
+|  | [ ](https://web.archive.org/breaking_news.asp?icid=a&d_str=20121224)  
 ---  
-[](https://web.archive.org/news_sec.asp?we_cat=11&d_str=20120523)  
-[](https://web.archive.org/news_sec.asp?we_cat=4&d_str=20120523)  
-[](https://web.archive.org/news_sec.asp?we_cat=2&d_str=20120523)  
-[](https://web.archive.org/news_sec.asp?we_cat=3&d_str=20120523)  
-[](https://web.archive.org/news_sec.asp?we_cat=9&d_str=20120523)  
-[](https://web.archive.org/news_sec.asp?we_cat=5&d_str=20120523)  
-[](https://web.archive.org/news_sec.asp?we_cat=6&d_str=20120523)  
-[](https://web.archive.org/news_sec.asp?we_cat=8&d_str=20120523)  
-[](https://web.archive.org/news_sec.asp?we_cat=7&d_str=20120523)  
-[](https://web.archive.org/news_sec.asp?we_cat=21&d_str=20120523)  
-[](https://web.archive.org/news_sec.asp?we_cat=12&d_str=20120523)  
-[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20120523&fc=1)  
-[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20120523&fc=2)  
-[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20120523&fc=3)  
-[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20120523&fc=4)  
-[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20120523&fc=6)  
-[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20120523&fc=7)  
-[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20120523&fc=11)  
-[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20120523&fc=12)  
-[](https://web.archive.org/breaking_news.asp?icid=a&d_str=20120523)  
+[](https://web.archive.org/breaking_news.asp?icid=3&d_str=20121224)  
+[](https://web.archive.org/breaking_news.asp?icid=1&d_str=20121224)  
+[](https://web.archive.org/breaking_news.asp?icid=2&d_str=20121224)  
+[](https://web.archive.org/breaking_news.asp?icid=4&d_str=20121224)  
+[](https://web.archive.org/breaking_news.asp?icid=5&d_str=20121224)  
+[](https://web.archive.org/news_sec.asp?we_cat=11&d_str=20121224)  
+[](https://web.archive.org/news_sec.asp?we_cat=4&d_str=20121224)  
+[](https://web.archive.org/news_sec.asp?we_cat=2&d_str=20121224)  
+[](https://web.archive.org/news_sec.asp?we_cat=3&d_str=20121224)  
+[](https://web.archive.org/news_sec.asp?we_cat=6&d_str=20121224)  
+[](https://web.archive.org/news_sec.asp?we_cat=9&d_str=20121224)  
+[](https://web.archive.org/news_sec.asp?we_cat=5&d_str=20121224)  
+[](https://web.archive.org/news_sec.asp?we_cat=8&d_str=20121224)  
+[](https://web.archive.org/news_sec.asp?we_cat=7&d_str=20121224)  
+[](https://web.archive.org/news_sec.asp?we_cat=21&d_str=20121224)  
+[](https://web.archive.org/news_sec.asp?we_cat=12&d_str=20121224)  
+[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20121224&fc=1)  
+[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20121224&fc=2)  
+[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20121224&fc=3)  
+[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20121224&fc=4)  
+[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20121224&fc=6)  
+[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20121224&fc=7)  
+[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20121224&fc=11)  
+[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20121224&fc=12)  
 ---  
 [ ](https://web.archive.org/news_search.asp)  
 [ ](http://www.thestandard.com.hk/images/elan.pdf)  
+[ ](https://web.archive.org/web/20121225064057id_/http%3A//thestandard.com.hk/images/Preview-Panel.pdf)  
 [ ](http://www.student.thestandard.com.hk/)  
 [ ](http://www.finance.thestandard.com.hk/)  
 [ ](http://www.thestandard.com.hk/character_builder.asp)  
@@ -38,12 +43,11 @@
 [About Us](https://web.archive.org/aboutus.asp)  
 [Print Advertising](https://web.archive.org/banners/PrintAdRate.pdf)  
 [Online Advertising](https://web.archive.org/banners/OnlineAdRate.pdf)  
-[Subscriptions ](https://web.archive.org/banners/IndividualOrderForm.pdf)  
 [Archive ](https://web.archive.org/news_search.asp)  
 [Site Search](https://web.archive.org/news_search.asp)  
-[Street Points](https://web.archive.org/web/20120523095320id_/http%3A//www.thestandard.com.hk/TS-Street-Point-Dec2011.pdf)  
+[ ](https://web.archive.org/web/20121225064057id_/http%3A//thestandard.com.hk/TS-Street-Point-Dec2011.pdf)  
+[ ](https://web.archive.org/banners/IndividualOrderForm.pdf)  
 [](http://www.puremedia-asia.com/)  
-[ ](http://www.thestandard.com.hk/tangram)  
   
 |   | 
 
