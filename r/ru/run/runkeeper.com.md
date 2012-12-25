@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the runkeeper.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229020558id_/http%3A//runkeeper.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runkeeper.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225101225id_/http%3A//runkeeper.com/privacypolicy) for the most accurate reproduction.*
 
 # RunKeeper
 
-(Last updated November 15, 201)
+(Last updated November 15, 2011)
 
 ### Our Policy
 
@@ -16,7 +16,7 @@ _Personal Data That You Provide Through the Services:_ We collect Personal Data 
 
 Location Data
 
-The Services include various location-based features, such as mapping outdoor fitness activities. To provide these location-based features, FitnessKeeper and our partners and licensees may collect, use and share precise location data, including the real-time geographic location of your mobile device. For some third-party partners, such as Google, this information will be shared automatically. For others, such as HealthGraph API and Facebook, this information will only be shared with your explicit permission or if you choose to share it.
+The Services include various location-based features, such as mapping outdoor fitness activities. To provide these location-based features, FitnessKeeper and our partners and licensees may collect, use and share precise location data, including the real-time geographic location of your mobile device. For some third-party partners, such as Google, this information will be shared automatically. For others, such as HealthGraph API and Facebook, this information will only be shared with your explicit permission or if you choose to share it. Note that the location services on Windows Phone 7 is used only for Bing Maps
 
 Other Information
 
