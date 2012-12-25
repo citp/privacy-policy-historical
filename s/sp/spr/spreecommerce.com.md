@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spreecommerce.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503160443id_/http%3A//spreecommerce.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreecommerce.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226001704id_/http%3A//spreecommerce.com/privacy_policy) for the most accurate reproduction.*
 
-# privacy_policy
+# privacy_policy | Spree Commerce
 
 ## Privacy Policy
 
