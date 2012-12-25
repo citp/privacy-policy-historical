@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plaingreenloans.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619015159id_/http%3A//www.plaingreenloans.com/faq/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plaingreenloans.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225125947id_/http%3A//www.plaingreenloans.com/faq/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Plain Green Loans
 
