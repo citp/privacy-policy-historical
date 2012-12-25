@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azcarsandtrucks.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621083543id_/http%3A//www.azcarsandtrucks.com/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azcarsandtrucks.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226000757id_/http%3A//www.azcarsandtrucks.com/priv.html) for the most accurate reproduction.*
 
 # Used Car Classifieds Privacy Policy: Your Privacy Is Important To Us: Please Review our Privacy Policy
 
