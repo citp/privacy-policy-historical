@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the mygf.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503232658id_/http%3A//mygf.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygf.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225183150id_/http%3A//mygf.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy   
-
-
-Your privacy is of utmost importance to us. This Privacy Policy (the "Policy") applies to the mygf.com sthis Policy appears and which are owned/controlled by the Company. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.   
-
+Your privacy is of the utmost importance to us. This Privacy Policy (the "Policy") applies to the site mygf.com and all other sites owned or controlled by BangBros.com, Inc. ("the Company") and in which this policy appears. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.
 
 Adults Only Service   
 
