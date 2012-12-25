@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaljournal.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509214327id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaljournal.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225175139id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Journal
 
