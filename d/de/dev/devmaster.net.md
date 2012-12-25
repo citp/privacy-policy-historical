@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devmaster.net privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616091740id_/http%3A//devmaster.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devmaster.net privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225212055id_/http%3A//devmaster.net/privacy) for the most accurate reproduction.*
 
 # Devmaster Privacy Policy | Devmaster
 
@@ -89,4 +89,4 @@ Devmaster, LLC 1051 Homeview Ct. London, ON N6C 6C1
 
 This Privacy Policy was last modified on September 25, 2011.
 
-Copyright 2011 DevMaster. All rights reserved. (rev: cade899) 
+Copyright 2011 DevMaster. All rights reserved. (rev: e6e9c3d) 
