@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guildwork.com privacy policy that was archived on 2012-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120323040450id_/http%3A//guildwork.com/wiki/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildwork.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225152438id_/http%3A//guildwork.com/wiki/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Guildwork
+# Privacy Policy
 
 The Guildwork website is maintained by Guildwork. Protecting your privacy is important to us, and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically. 
 
