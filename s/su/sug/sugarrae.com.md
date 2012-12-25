@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugarrae.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621005816id_/http%3A//www.sugarrae.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarrae.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225181352id_/http%3A//www.sugarrae.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sugarrae
 
@@ -23,7 +23,7 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 www.google.com/adsense  
 www.google.com/analytics  
 www.cj.com  
-www.shareasale.com  
+www.[shareasale](http://www.sugarrae.com/getit/SAS/).com  
 www.pepperjamnetwork.com  
 www.clickbank.com
 
