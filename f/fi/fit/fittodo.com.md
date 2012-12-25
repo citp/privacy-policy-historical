@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the fittodo.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503214718id_/http%3A//www.fittodo.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fittodo.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225163544id_/http%3A//fittodo.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# FitToDo : Privacy Policy
+# FITTODO Privacy Policy – Terms & Conditions, Information Security
 
 | 
+
+## Privacy Policy
 
 **What information do we collect?**
 
@@ -72,5 +74,5 @@ Melbourne Beach, FL 32951
 
 [Information@Fittodo.com](mailto:Information@Fittodo.com)
 
-|  [](http://kicker.com/ "http://kicker.com")  
+|  [](http://www.tkqlhce.com/click-5539679-10787368)  
 ---|---
