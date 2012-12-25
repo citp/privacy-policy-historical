@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the nikeinc.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618140907id_/http%3A//help-us.nikeinc.com/app/answers/detail/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikeinc.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225111515id_/http%3A//help-us.nikeinc.com/app/answers/detail/article/privacy-policy) for the most accurate reproduction.*
 
 # NIKE, Inc. - NIKE Digital Privacy Policy
 
 Effective February 21, 2012
 
-This NIKE Digital Privacy Policy (USA) ("Privacy Policy") describes how we collect and use your information through a variety of digital means. By accessing or using this website, mobile application or other NIKE product or service on any computer, mobile phone, tablet, console or other device (collectively, "Device"), you consent to our Privacy Policy. NIKE may modify this Privacy Policy at any time effective upon its posting. Your continued use of our products and services constitutes your acceptance to this Privacy Policy and any updates. This Privacy Policy is incorporated into, and is subject to, the [Terms of Use](http://help-us.nikeinc.com/app/answers/detail/a_id/16379).
+This NIKE Digital Privacy Policy (USA) ("Privacy Policy") describes how we collect and use your information through a variety of digital means. By accessing or using this website, mobile 
+
+application
+
+or other NIKE product or service on any computer, mobile phone, tablet, console or other device (collectively, "Device"), you consent to our Privacy Policy. NIKE may modify this Privacy Policy at any time effective upon its posting. Your continued use of our products and services constitutes your acceptance to this Privacy Policy and any updates. This Privacy Policy is incorporated into, and is subject to, the [Terms of Use](http://help-us.nikeinc.com/app/answers/detail/a_id/16379).
 
 While this Privacy Policy is intended to generally describe our privacy practices, our goal is to also provide more detailed information at times when it's most meaningful to you.  Please look for these notices within our NIKE services.  
 
@@ -13,13 +17,25 @@ Collecting Information
   
   
 What You Give Us  
-We collect information you give us or permit us to access. Information may include, but is not limited to, your name, image, birth date, email and physical address, telephone number, gender, contact lists, social media information and profile, location (GPS) information, activity and performance information, and when necessary, credit card information.  
+We collect information you give us or permit us to access. Information may include, but is not limited to, your name, image, birth date, email and physical address, telephone number, gender, contact lists, social media information and profile, location (GPS) information, activity and performance information, and when necessary, credit 
+
+card
+
+information.  
 
 What We Collect From You  
 We may automatically collect information regarding your interaction with, and use of, our products and services. Information we may collect includes, but is not limited to, your telephone number, Device identifier and hardware information, IP address, browser type and language, cookie information, system type, whether you have enabling software to access certain features, access times, referring website URLs, information about your purchases and other information about your interactions with us.
 
 What We Collect From other NIKE Interactions and Third Parties  
-We may combine information you give us with other information from NIKE sources, transactions and communications. This may include, but is not limited to, information from NIKE stores, direct mail, catalogs, events, products and applications, or other NIKE interactions.  We may also combine that information with data that is publicly available and data from third parties. We also collect information about gift recipients provided by the giver.  
+We may combine information you give us with other information from NIKE sources, transactions and communications. This may include, but is not limited to, information from NIKE stores, direct mail, catalogs, events, products and 
+
+applications
+
+, or other NIKE interactions.  We may also combine that information with data that is publicly available and data from third parties. We also collect information about 
+
+gift
+
+recipients provided by the giver.  
 
 Children's Privacy  
 We do not knowingly collect or solicit personal information from children under 13.
@@ -63,7 +79,7 @@ Sharing Information
 NIKE Family
 
   
-We may provide your information to NIKE, Inc. companies and affiliates, including Converse, Hurley, Cole Haan and Umbro ("NIKE Family"), some of which may be outside the U.S.  
+We may provide your information to NIKE, Inc. companies and affiliates, including Converse, Hurley and Cole Haan ("NIKE Family"), some of which may be outside the U.S.  
 
   
 Service Providers  
@@ -75,7 +91,11 @@ We may disclose information upon governmental request, in response to a court or
 
   
 Business Transfers  
-Your information may be transferred to a third party as a part of our business assets in a sale of a part or all of NIKE.  If this should happen, notice will be provided by posting to the website or other form of communication.
+Your information may be transferred to a third party as a part of our business assets in a 
+
+sale
+
+of a part or all of NIKE.  If this should happen, notice will be provided by posting to the website or other form of communication.
 
   
 Public Sharing  
