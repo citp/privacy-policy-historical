@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wordpress-websitebuilder.com privacy policy that was archived on 2012-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120428030322id_/http%3A//wordpress-websitebuilder.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordpress-websitebuilder.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225195207id_/http%3A//letsbuildwebsites.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Lets Build Websites | Lets Build Websites
 
 Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
-**Note:** the privacy practices set forth in this privacy policy are for this web [site](http://wordpress-websitebuilder.com/). If you link to other web sites, please review the privacy policies posted at those sites.
+**Note:** the privacy practices set forth in this privacy policy are for this web [site](http://letsbuildwebsites.com/ "How to Use Google Analytics to Give Your Readers What They Want"). If you link to other web sites, please review the privacy policies posted at those sites.
 
 **Collection of Information  
 **We do not collect personally identifiable information like names and postal addresses. The only information we collect is an email address when you sign up for the free newsletter or ebook. This information is not shared. Please be aware any information shared by a user of this website within the forum or comment section is for public view, therefore you should be aware of what information you are giving out.
@@ -26,9 +26,9 @@ All emails and newsletters from this site allow you to opt out of further mailin
 Our website may contain links to other relevant sites. They may be ads from Google Adsense or from other related sites. However when you click on these links or ads this privacy policy no longer applies as you are no longer at this site. If you are providing personal information on a website it is recommended that you read their privacy policy.
 
 **Free Computer Help Offer**  
-Our website offers free advice and help on building wordpress websites, that has 99% of the time been tested and work. However we cannot take any responsibility for the damage you may cause to your computer or your website while following instructions from this website. We have no way to judge your skill level in these situations. The information is provided free and is yours to use at your own risk.
+Our website offers free advice and help on **building WordPress websites** , that has 99% of the time been tested and work. However we cannot take any responsibility for the damage you may cause to your computer or your website while following instructions from this website. We have no way to judge your skill level in these situations. The information is provided free and is yours to use at your own risk.
 
 **Privacy Contact Information**  
-If you have any questions, concerns, or comments about our privacy policy you may [contact us](http://wordpress-websitebuilder.com/wp-admin/contact_us.htm) for more information.
+If you have any questions, concerns, or comments about our privacy policy you may [contact us](http://letsbuildwebsites.com/contact/ "Contact") for more information.
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
