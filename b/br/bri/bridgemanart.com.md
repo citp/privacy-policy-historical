@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bridgemanart.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605031331id_/http%3A//www.bridgemanart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgemanart.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225173518id_/http%3A//www.bridgemanart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Bridgeman - Art, Culture, History
 
 ### This Privacy Policy may change from time to time, so please check it on a regular basis.
 
-This Privacy Policy describes how The Bridgeman Art Library (?Bridgeman? or ?we? or ?us?) uses your personal data which we may collect on this website (current home page address: www.bridgeman.co.uk) (?Website?) or which you may provide to us in connection with the Website. Please also read the Terms and Conditions of Use for details of how you may use the content contained in the Website and the extent of our responsibility for such content. You do not need to give us any personal data in order to browse the Website. If you do decide to register with us, or to contact us you may need to submit some personal data. 
+This Privacy Policy describes how The Bridgeman Art Library ("Bridgeman" or "we" or "us") uses your personal data which we may collect on this website (current home page address: www.bridgeman.co.uk) ("Website") or which you may provide to us in connection with the Website. Please also read the Terms and Conditions of Use for details of how you may use the content contained in the Website and the extent of our responsibility for such content. You do not need to give us any personal data in order to browse the Website. If you do decide to register with us, or to contact us you may need to submit some personal data. 
 
 ### WHAT PERSONAL DATA DO WE COLLECT ABOUT YOU?
 
@@ -65,4 +65,4 @@ This Privacy Policy is governed by the laws of England and any dispute relating 
 
 ### CONTACTING US
 
-We welcome your enquiries and comments on this Privacy Policy and any queries or concerns that you may have about the Website. Please contact us at [info@bridgeman.co.uk] or by letter to the ?Data Protection Officer? at The Bridgeman Art Library Limited, 17-19 Garway Road, London, W2 4PH. 
+We welcome your enquiries and comments on this Privacy Policy and any queries or concerns that you may have about the Website. Please contact us at [info@bridgeman.co.uk] or by letter to the "Data Protection Officer" at The Bridgeman Art Library Limited, 17-19 Garway Road, London, W2 4PH. 
