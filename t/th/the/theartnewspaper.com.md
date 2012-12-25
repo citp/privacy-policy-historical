@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theartnewspaper.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503225146id_/http%3A//www.theartnewspaper.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theartnewspaper.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225124254id_/http%3A//theartnewspaper.com/privacy-statement) for the most accurate reproduction.*
 
 # The Art Newspaper
 
@@ -58,17 +58,15 @@ You can access all your personally identifiable information that we collect onli
 
 The Art Newspaper
 
-Dovetail Services Ltd
+The Art Newspaper
 
-PO Box 326
+McGowan House, 10 Waterside Way,
 
-Sittingbourne
+Northampton, NN4 7XD
 
-KENT ME9 8FA, UK
+Tel. 0844 322 1752 (UK) , +44 (0) 1604 251495 (NON UK)
 
-Tel.+44 (0)1795 414 863
-
-theartnewspaper@servicehelpline.com
+Fax : +44(0)1604 251031
 
 For website login information we hold please contact
 
@@ -80,7 +78,7 @@ London
 
 SW8 1RL, UK
 
-Tel. +44 (2)20 7735 3331
+Tel. +44 (0)20 3416 9000
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
