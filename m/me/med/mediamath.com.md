@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the mediamath.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602132813id_/http%3A//www.mediamath.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediamath.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225035059id_/http%3A//www.mediamath.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Introduction**
 
-MediaMath is the leading online media trading company, offering agencies and their advertisers unprecedented reach and performance through one relationship. The company's industry-leading TerminalOne® platform is an enterprise-class DSP providing an unmatched combination of supply, data, analytics, workflow automation and optimization to return focus to marketing strategy rather than media execution. MediaMath is headquartered in New York City with offices in Los Angeles, Chicago,  
-Boston, San Francisco, Washington, D.C., and London.
+MediaMath is the leading online media trading company, offering agencies and their advertisers unprecedented reach and performance through one relationship. The company's industry-leading TerminalOne® platform is an enterprise-class DSP providing an unmatched combination of supply, data, analytics, workflow automation and optimization to return focus to marketing strategy rather than media execution. MediaMath is headquartered in New York City with offices in Los Angeles, Chicago, Boston, San Francisco, Washington, D.C., and London.
 
-This Privacy Statement presents MediaMath’s privacy policy, including privacy practices for our data use and collection across our platform and the [www.MediaMath.com](https://web.archive.org/web/) web site.
+This Privacy Statement presents MediaMath’s privacy policy, including privacy practices for our data use and collection across our platform and the [www.MediaMath.com](https://web.archive.org/web/20121225035059id_/) web site.
 
 MediaMath is deeply committed to protecting the privacy of Internet users. Accordingly, we strictly adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information.
 
@@ -46,7 +45,7 @@ MediaMath sets our cookies to expire after three years and the expiration date u
 
 **To Opt Out**
 
-If do not want the benefits of cookies, there is a simple procedure that allows you to deny this feature. In order to “opt out” of the benefits of targeted advertising, you may click here: MediaMath Opt-out. You may opt out of other online advertising companies that are members of the NAI here: [NAI Global Optout](http://www.networkadvertising.org/) or the DAA's site, [http://aboutads.info](http://aboutads.info/).
+If do not want the benefits of cookies, there is a simple procedure that allows you to deny this feature. In order to “opt out” of the benefits of targeted advertising provided by Mediamath and online advertising companies that are members of the NAI, you may do so here: [NAI Global Optout](http://www.networkadvertising.org/) or the DAA's site, [http://aboutads.info](http://aboutads.info/).
 
 Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
 
