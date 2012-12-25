@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyewonder.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630231047id_/http%3A//www.eyewonder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyewonder.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225060613id_/http%3A//www.eyewonder.com/privacy.html) for the most accurate reproduction.*
 
 # EyeWonder
 
@@ -131,7 +131,7 @@ Additionally, EyeWonder cannot guarantee that submissions to the Site, or that a
 
 Any password-protected areas of the Site can be accessed only with a valid password. Each password owner is responsible for keeping the password secret and confidential, and for notifying EyeWonder if the password may have been stolen or might otherwise be misused.
 
-If a visitor has elected to receive from EyeWonder product updates, new product information, newsletters, or other marketing information, and would like to discontinue receiving these materials, send an email to [optout@eyewonder.com](https://web.archive.org/web/20120630231047id_/http%3A//www.eyewonder.com/optout@eyewonder.com) with "privacy policy opt-out" in the subject line. EyeWonder does not send unsolicited marketing e–mails to anyone who has asked not to be contacted by EyeWonder.
+If a visitor has elected to receive from EyeWonder product updates, new product information, newsletters, or other marketing information, and would like to discontinue receiving these materials, send an email to [optout@eyewonder.com](https://web.archive.org/web/20121225060613id_/http%3A//www.eyewonder.com/optout@eyewonder.com) with "privacy policy opt-out" in the subject line. EyeWonder does not send unsolicited marketing e–mails to anyone who has asked not to be contacted by EyeWonder.
 
 _A. Disclosures of information_
 
