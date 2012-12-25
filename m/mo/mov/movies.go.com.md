@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movies.go.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626084927id_/http%3A//www.fandango.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movies.go.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225025931id_/http%3A//www.fandango.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Fandango | Privacy Policy
 
@@ -131,3 +131,5 @@ Los Angeles, CA 90064 **
 
 
 
+
+Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: <http://fandango.custhelp.com/app/ask/session/>
