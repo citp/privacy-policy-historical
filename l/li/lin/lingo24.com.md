@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lingo24.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306171512id_/http%3A//www.lingo24.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingo24.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225184517id_/http%3A//www.lingo24.com/privacy.html) for the most accurate reproduction.*
 
-# Lingo24.com privacy policy
+# Translating Service | Lingo24 Privacy Policy
 
-**Lingo24.com privacy policy**
+## Data collected through our contact forms
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998) and according to the Which? Web Trader Code of Practice.
 
@@ -10,36 +10,60 @@ We collect information about you for two reasons: firstly, to process your order
 
 From time to time, we would like to send you information about our services and those of our partners by email. You are free to choose whether you would like to receive such correspondence, and should indicate your preference in the "Account Preferences" section when logged in to the site.
 
-The type of information we will collect about you includes:  
+The type of information we will collect about you includes:
+
+  * Your name
+  * Address
+  * Phone number
+  * Email address
+  * Credit/debit card details
 
 
-  * Your name 
-  * Address 
-  * Phone number 
-  * Email address 
-  * Credit/debit card details 
 
-Credit/debit card details will be collected but, unlike other details, will not be held on our database. 
+Credit/debit card details will be collected but, unlike other details, will not be held on our database.
 
 We will never collect sensitive information about you without your explicit consent.
 
-We will make every effort to keep the information we hold about you accurate and up to date. You can check this information on the control panel once logged into lingo24.com and are free to make changes yourself or may request changes be administered by ourselves by using [this email form](https://web.archive.org/web/20050306171512id_/http%3A//www.lingo24.com/contact_us.html).
+We will make every effort to keep the information we hold about you accurate and up to date. You can check this information on the control panel once logged into lingo24.com and are free to make changes yourself or may request changes be administered by ourselves by using [this email form](https://web.archive.org/contact_us.html).
 
-The personal information which we hold will be held securely in accordance with our internal security policy, the law and the Which? Web Trader Code.
+## Use of Cookies
 
-If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first.
+Cookies are small text files stored on your computer when you look at a website, allowing it to recognise a returning visitor.  As with many sites, Lingo24 uses cookies to help us serve you better and continually improve our website.  We don’t use data from cookies in a way that you can be individually identified.
 
-As with most websites, certain technical information about your visit may be logged (e.g. IP addresses), but this is not linked to any personal data we store about you and will only be used to monitor web traffic. Lingo24.com does not use 'web bugs' or other programmes to retrieve more detailed information about visitors.
+Cookies can make browsing a website quicker and easier – for example, by remembering your preferences. Setting up your browser to accept them will help us give you the best user experience.
 
-Lingo24.com uses 'cookies' to ensure visitor security when using the website. This cookie contains your session ID and also your choice of language. Some browsers are set to not receive cookies. Please note that cookies must be enabled to use the lingo24.com website.
+But if you prefer, popular browsers such as Mozilla Firefox, Google Chrome, Safari, and Microsoft’s Internet Explorer allow you to restrict, block or delete cookies. Here’s a short guide to changing your settings.
 
-If you have any questions/comments about privacy, you should email us through [this email form](https://web.archive.org/web/20050306171512id_/http%3A//www.lingo24.com/contact_us.html).
+### Mozilla Firefox
 
-Please press the back button on your web browser to return to the page you were at last.
+Choose Options in the Tools drop down menu. Select “Privacy” in the popup menu, and choose your preferred cookie settings.
 
-* * *
+### Google Chrome
 
-Copyright © 2001-2004 Lingo24 Ltd. All Rights Reserved.   
-Lingo24 Ltd: [Terms and Conditions](https://web.archive.org/web/20050306171512id_/http%3A//www.lingo24.com/termsandconditions.html) | [Privacy](https://web.archive.org/web/20050306171512id_/http%3A//www.lingo24.com/privacy.html) | [Security](https://web.archive.org/web/20050306171512id_/http%3A//www.lingo24.com/security.html) | [Support](https://web.archive.org/web/20050306171512id_/http%3A//www.lingo24.com/customerservices.html) | [Links](https://web.archive.org/web/20050306171512id_/http%3A//www.lingo24.com/links.html) | [Languages](https://web.archive.org/web/20050306171512id_/http%3A//www.lingo24.com/language_translations.html) | [Services and Industries](https://web.archive.org/web/20050306171512id_/http%3A//www.lingo24.com/serviceindustry.html) | [Directory](https://web.archive.org/web/20050306171512id_/http%3A//www.lingo24.com/directory/index.html) | [Site map](https://web.archive.org/web/20050306171512id_/http%3A//www.lingo24.com/sitemap.html)
+Click the spanner in the top right hand corner, and choose “Settings”. Then select “Under the hood” and choose “Privacy” to adjust your settings.
 
-[Translation Agency](http://www.lingo24.com/) | [Service de traduction](http://fr.lingo24.com/) | [Übersetzungsdienst](http://de.lingo24.com/)
+### Safari
+
+Select “Preferences” from the “Settings” drop down menu. Choose “Security” to adjust your cookie preferences.
+
+### Microsoft Internet Explorer
+
+Click the 'Tools' icon in the top right hand corner and choose 'Internet options'. Then select “Privacy” in the popup window to change your settings.
+
+Here is a list of the cookies we use and why: 
+
+**Cookie** | **Name** | **Purpose**  
+---|---|---  
+Google Analytics | _utma  
+_utmb  
+_utmc  
+_utmz | These cookies are set to allow Google reports to show aggregated details about the site usage.  
+Google AdSense | __ar_v4 | This cookie is required by the Google AdSense service.  
+ShareThis | __unam | The ShareThis button is an all-in-one widget that lets you share any content on the web with friends.  
+Olark Live Chat | _oklv  
+wcsid | These cookies are required for our chat system, Olark, to work properly.  
+Drupal | DRUPAL_UID  
+dhtml_menu  
+has_js | These cookies enable all the features offered by our CMS, Drupal.  
+  
+Please click here to return to the page you were at last.
