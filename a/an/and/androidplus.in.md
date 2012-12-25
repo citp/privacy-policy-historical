@@ -1,0 +1,25 @@
+> *The following text is extracted and transformed from the androidplus.in privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225220440id_/http%3A//androidplus.in/privacy-policy) for the most accurate reproduction.*
+
+# Privacy policy
+
+[Home](http://androidplus.in/)  »  Privacy policy
+
+Privacy of our reader and subscribers is of extreme importance to us and therefore this document outlines how we deal with the Privacy information of our readers and subscribers which is received by androidplus.in.
+
+#### **INFORMATION WE COLLECT**
+
+We collect information of users when conducting feedback or polls. The information we get by this means is totally secured with us and we never share any user details with any one under any circumstances.
+
+#### **USE OF COOKIES**
+
+androidplus.in does uses cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+
+androidplus.in has no access to or control over these cookies that are used.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+#### **TERMS OF SERVICE, NOTICES AND REVISIONS**
+
+Your use of androidplus, and any disputes arising from it, is subject to this Privacy Policy and all of its dispute resolution provisions including limitation on damages and choice of law. We reserve the right to change our Privacy Policy at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy’s new effective date. Your continued use of androidplus indicates your agreement to these changes. It is solely your responsibility to check for updates of this policy. We encourage you to refer to this policy on an ongoing basis so that you understand our current Privacy Policy. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+
+### Share and Enjoy
