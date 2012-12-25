@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zalora.sg privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530072214id_/http%3A//www.zalora.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalora.sg privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225101625id_/http%3A//www.zalora.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ We will only keep your information for as long as we are either required to by l
 You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password.
 
 If you have any comments or suggestions, we would be pleased to receive them at our address or by emailing us at service@zalora.sg.   
-Alternatively you may call us on **1800 925-6720** – this telephone number will be open to receive calls between **9am to 11pm**. 
+Alternatively you may call us on **+65 6742 4500** – this telephone number will be open to receive calls between **9am to 11pm**. 
 
 _
 
@@ -64,7 +64,7 @@ ZALORA uses 128 - bit SSL (secure sockets layer) encryption technology when proc
 **Disclosure of Personal Information**  
 We will not share your information with any other organisations other than related companies and those third parties directly related to the delivery of the products you have purchased from ZALORA website. In exceptional circumstances ZALORA may be required to disclose personal information, such as when there are grounds to believe that the disclosure is necessary to prevent a threat to life or health, or for law enforcement purposes. ZALORA is committed to complying with the Privacy Act and the National Privacy principles. 
 
-**If you believe that your privacy has been breached by ZALORA please contact us at customer@zalora.sg and we will resolve the issue.**
+**If you believe that your privacy has been breached by ZALORA please contact us at[customer@zalora.sg](mailto:customer@zalora.sg) and we will resolve the issue. **
 
 **Collection of Computer Data**  
 When you visit ZALORA, our company servers will automatically record information that your browser sends whenever you visit a website. This data may include:   
@@ -80,5 +80,5 @@ This information is collected for analysis and evaluation in order to help us im
 ZALORA reserves the right to modify and change the Privacy Statement at any time. Any changes to this policy will be published on our site. 
 
 **Complaints about breeches of privacy**  
-If you are not satisfied with the way in which we handle your enquiry or complaint, please don't hesitate to contact us at **customer@zalora.sg**  
+If you are not satisfied with the way in which we handle your enquiry or complaint, please don't hesitate to contact us at **[customer@zalora.sg](mailto:customer@zalora.sg)**  
 
