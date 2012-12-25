@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bbtoystore.com privacy policy that was archived on 2012-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615221145id_/http%3A//www.bbtoystore.com/store/CS_privacy.html%23privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bbtoystore.com privacy policy that was archived on 2012-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225085700id_/http%3A//www.bbtoystore.com/store/CS_privacy.html%23privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy &amp; About Us : BBToyStore.com - Toys, Plush, Trading Cards, Action Figures &amp; Games online retail store shop sale</title>
@@ -18,21 +18,49 @@
 <!--[if lt IE 8]>
 <link rel="stylesheet" type="text/css" href="css/bbtoystore_IE7.css" />
 <![endif]-->
-<script type="text/javascript" src="js/jquery.js"></script> <!-- Using v1.3.2 (04/14/2009) -->
 <script type="text/javascript" src="js/jquery.hoverIntent.js"></script> <!-- Using r5 (04/14/2009) -->
 <script type="text/javascript" src="js/jquery.superfish.js"></script> <!-- Using v1.4.8 (04/14/2009) -->
-<script type="text/javascript"> $(document).ready(function(){ $("ul.sf-menu").superfish(); }); </script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery || document.write(unescape('%3Cscript src="js/jquery-1.6.2.min.js"%3E%3C/script%3E'))</script><script src="js/jquery-1.6.2.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+$('#noscript-warning').remove();
+$.get('http://www.bbtoystore.com/store/cust_serv_form.html', function(data) {
+$('#submit-form').html(data);
+}); });
+</script>
+<script type="text/javascript" src="//www.bbtoystore.com/mm5/js/jquery.realperson.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+$('#realPerson').realperson(); $("#submit").click(function(e) {
+var hash = 5381;
+var value = $('#realPerson').val().toUpperCase();
+var length = $('#realPerson').val().length
+for ( i = 0; i < length; i++) {
+var ascii = value.charCodeAt(i);
+var hash = ((hash << 5) + hash) + ascii;
+}
+var realHash = $(".realperson-hash").val();
+if (realHash != hash) {
+e.preventDefault();
+$("#response").text("Please try again");
+return false;
+} else {
+return true;
+}
+}); });
+</script>
 </head>
 <body>
 <div style="display:none"> *MARKER* 0</div>
 <div id="wrapper">
 <div id="header">
-<a href="http://www.bbtoystore.com/" title="bbtoystore.com" class="bblogo"><img src="images/img_bblogo.gif" alt="bbtoystore.com" title="bbtoystore.com"></a>
+<a href="http://www.bbtoystore.com/" title="bbtoystore.com" class="bblogo"><img src="images/img_bblogo.gif" alt="bbtoystore.com" title="bbtoystore.com"></a><br>
 <a href="http://www.bbtoystore.com/" title="bbtoystore.com" class="bbname"><img src="images/img_bbtoystore.gif" alt="bbtoystore.com" title="bbtoystore.com"></a>
 <div class="cart">
-<a href="http://www.bbtoystore.com/mm5/merchant.mvc?Screen=BASK&amp;Store_Code=bb_novelties" title="View Your Basket"><img src="images/btn_cart.gif" alt="View Your Basket" title="View Your Basket">basket empty</a><a href="https://www.bbtoystore.com/mm5/merchant.mvc?Session_ID=ca2628c277fb9724ace2a50c62861619&amp;Screen=OINF&amp;Store_Code=bb_novelties" title="Proceed to Checkout"><img src="images/btn_checkout.gif" alt="Proceed to Checkout" title="Proceed to Checkout"></a>
+<a href="http://www.bbtoystore.com/mm5/merchant.mvc?Screen=BASK&amp;Store_Code=bb_novelties" title="View Your Basket"><img src="images/btn_cart.gif" alt="View Your Basket" title="View Your Basket">basket empty</a><a href="https://www.bbtoystore.com/mm5/merchant.mvc?Session_ID=b3200a461e67afa17e7cbb7f2ba869b1&amp;Screen=OINF&amp;Store_Code=bb_novelties" title="Proceed to Checkout"><img src="images/btn_checkout.gif" alt="Proceed to Checkout" title="Proceed to Checkout"></a>
 </div>
-<div id="navbar" align="center"><a href="http://www.bbtoystore.com/store/join-newsletter.html" title="Join Newsletter">Join Newsletter</a><a href="http://www.bbtoystore.com/store/wishlist.html" title="Gift Wish List">Gift Wish List</a><a href="https://www.bbtoystore.com/mm5/merchant.mvc?Session_ID=ca2628c277fb9724ace2a50c62861619&amp;Screen=OLST&amp;Store_Code=bb_novelties" title="Order Status">Order Status</a><a href="http://www.bbtoystore.com/store/customerservice.html" title="Customer Service" style="padding-right:0;">Customer Service</a></div>
+<div id="navbar" align="center"><a href="http://www.bbtoystore.com/store/join-newsletter.html" title="Join Newsletter">Join Newsletter</a><a href="http://www.bbtoystore.com/store/wishlist.html" title="Gift Wish List">Gift Wish List</a><a href="https://www.bbtoystore.com/mm5/merchant.mvc?Session_ID=b3200a461e67afa17e7cbb7f2ba869b1&amp;Screen=OLST&amp;Store_Code=bb_novelties" title="Order Status">Order Status</a><a href="http://www.bbtoystore.com/store/customerservice.html" title="Customer Service" style="padding-right:0;">Customer Service</a></div>
 <div class="header_msg clearfix"><img src="images/promo_header.gif" alt="Order by Phone - 856-853-8775 (Mon-Fri, 10am to 6pm Est)" title="Order by Phone - 856-853-8775 (Mon-Fri, 10am to 6pm Est)"></div>
 <form id="search" method="post" action="http://www.bbtoystore.com/mm5/merchant.mvc?" class="search_form">
 <input type="hidden" name="Store_Code" value="bb_novelties">
@@ -54,6 +82,8 @@
 <option value="">Shop All Brands</option>
 <option value="/store/neca-christmas-story.html">A Christmas Story</option>
 <option value="/store/adventure-planet.html">Adventure Planet</option>
+<option value="/store/amazing-world.html">Amazing World</option>
+<option value="/store/android-plush-toys.html">Android Plush</option>
 <option value="/store/angry-birds-plush-toys.html">Angry Birds</option>
 <option value="/store/annoying-orange-toys-collectibles.html">Annoying Orange</option>
 <option value="/store/neca-assassins-creed-figures.html">Assassin's Creed</option>
@@ -111,9 +141,11 @@
 <option value="/store/mcfarlane-NHL-figures.html">McFarlane NHL</option>
 <option value="/store/mega-brand-bloks.html">Mega Bloks</option>
 <option value="/store/mighty-beanz.html">Mighty Beanz</option>
+<option value="/store/minecraft.html">Minecraft</option>
 <option value="/store/mlb-baseball-cards.html">MLB Baseball Cards</option>
 <option value="/store/moshi-monsters.html">Moshi Monsters</option>
 <option value="/store/muttles-mini-plush.html">Muttles</option>
+<option value="/store/nakamas.html">Nakamas</option>
 <option value="/store/naruto-cards.html">Naruto</option>
 <option value="/store/neca-toys-action-figures.html">Neca Toys</option>
 <option value="/store/nickelodeon-nick-jr-toys.html">Nickelodeon Nick Jr</option>
@@ -124,10 +156,12 @@
 <option value="/store/pillow-pets-plush-clips.html">Pillow Pets</option>
 <option value="/store/disney-pirates-of-the-caribbean-toys.html">Pirates of the Caribbean</option>
 <option value="/store/playmobil.html">Playmobil</option>
+<option value="/store/pocket-god-toys-plush-collectible.html">Pocket God</option>
 <option value="/store/pokemon-cards.html">Pokemon</option>
 <option value="/store/premier-kites.html">Premier Kites</option>
 <option value="/store/puzzled.html">Puzzled</option>
 <option value="/store/puzzles.html">Puzzles</option>
+<option value="/store/randalls-honey-badger.html">Randall's Honey Badger</option>
 <option value="/store/redakai-trading-card-game.html">Redakai</option>
 <option value="/store/neca-rocky-figures.html">Rocky</option>
 <option value="/store/russ-berrie.html">Russ Berrie</option>
@@ -140,12 +174,15 @@
 <option value="/store/sock-monkey-plush-toys.html">Sock Monkey</option>
 <option value="/store/sonic-the-hedgehog.html">Sonic the Hedgehog</option>
 <option value="/store/spongebob-toys.html">SpongeBob SquarePants</option>
+<option value="/store/sprout-pbs-kids.html">Sprout (PBS Kids)</option>
 <option value="/store/star-trek-toys-figures.html">Star Trek</option>
 <option value="/store/star-wars-action-figure-toys.html">Star Wars</option>
 <option value="/store/super-heat-skateboard-trading-card-game.html">Super Heat</option>
 <option value="/store/nintendo-super-mario.html">Super Mario Bros.</option>
+<option value="/store/tail-towns-friends.html">Tail Towns</option>
 <option value="/store/tangle-creations-toys.html">Tangle</option>
 <option value="/store/tech-deck-mini-skateboards.html">Tech Deck</option>
+<option value="/store/ted-movie-plush-toys.html">Ted Movie</option>
 <option value="/store/mcfarlane-the-walking-dead-figures.html">The Walking Dead</option>
 <option value="/store/jakks-pacific-timmy-time-plush-toys.html">Timmy Time</option>
 <option value="/store/jakks-pacific-tna-wrestling-figures.html">TNA Wrestling</option>
@@ -156,12 +193,13 @@
 <option value="/store/transformers-toys.html">Transformers</option>
 <option value="/store/ty-beanie-babies.html">Ty</option>
 <option value="/store/ufc-action-figures.html">UFC Ultimate Fighting</option>
+<option value="/store/generic-value-plush.html">Value Plush</option>
 <option value="/store/waboba-balls.html">Waboba Balls</option>
 <option value="/store/wacky-packages.html">Wacky Packages</option>
-<option value="/store/generic-value-plush.html">Value Plush</option>
 <option value="/store/webkinz.html">Webkinz</option>
 <option value="/store/weiss-schwarz-cards.html">Weiss Schwarz Cards</option>
 <option value="/store/disney-wheres-my-water.html">Where's My Water?</option>
+<option value="/store/winx-club.html">Winx Club</option>
 <option value="/store/xia-xia-hermit-crab-pets.html">Xia Xia Hermit Crab Pets</option>
 <option value="/store/neca-YWASC-the-year-without-a-santa-clause.html">Year Without Santa Claus</option>
 <option value="/store/yo-gabba-gabba-plush.html">Yo Gabba Gabba</option>
@@ -203,7 +241,9 @@ window.onload = function narrowcats() { var narrow = document.narrow.narrowres; 
 <li><h2><a href="http://www.bbtoystore.com/store/YUGIOH.html" title="Yu-Gi-Oh Cards">Yu-Gi-Oh Cards</a></h2></li>
 <li><h2><a href="http://www.bbtoystore.com/store/other-brands-a-g.html" title="Other Brands A through G">Other Brands A-G</a></h2>
 <ul class="subcats">
-<li><h3><a href="http://www.bbtoystore.com/store/android-plush-toys.html" title="Android Plush &amp; Toys">Android Plush &amp; Toys</a></h3>
+<li><h3><a href="http://www.bbtoystore.com/store/amazing-world.html" title="Amazing World">Amazing World</a></h3>
+</li>
+<li><h3><a href="http://www.bbtoystore.com/store/app-video-game-merch.html" title="App &amp; Video Game Merchandise">App &amp; Video Game Merchandise</a></h3>
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/annoying-orange-toys-collectibles.html" title="Annoying Orange - Toys &amp; Collectibles">Annoying Orange - Toys &amp; Collectibles</a></h3>
 </li>
@@ -225,6 +265,8 @@ window.onload = function narrowcats() { var narrow = document.narrow.narrowres; 
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/beyblades-battle-tops.html" title="Beyblades">Beyblades</a></h3>
 </li>
+<li><h3><a href="http://www.bbtoystore.com/store/the-big-bang-theory.html" title="Big Bang Theory">Big Bang Theory</a></h3>
+</li>
 <li><h3><a href="http://www.bbtoystore.com/store/caillou-puzzles-toys-games.html" title="Caillou - Puzzles, Toys &amp; Games">Caillou - Puzzles, Toys &amp; Games</a></h3>
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/chaotic-trading-card-game.html" title="Chaotic - Trading Card Game">Chaotic - Trading Card Game</a></h3>
@@ -238,6 +280,8 @@ window.onload = function narrowcats() { var narrow = document.narrow.narrowres; 
 <li><h3><a href="http://www.bbtoystore.com/store/domo-toys-plush.html" title="Domo Toys &amp; Plush">Domo Toys &amp; Plush</a></h3>
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/elvis-presley.html" title="Elvis Presley Plush &amp; Bobble-Heads">Elvis Presley Plush &amp; Bobble-Heads</a></h3>
+</li>
+<li><h3><a href="http://www.bbtoystore.com/store/family-guy.html" title="Family Guy">Family Guy</a></h3>
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/filly-princess.html" title="Filly Princess Horses">Filly Princess Horses</a></h3>
 </li>
@@ -254,6 +298,8 @@ window.onload = function narrowcats() { var narrow = document.narrow.narrowres; 
 <li><h3><a href="http://www.bbtoystore.com/store/Ganz-plush.html" title="Ganz Plush">Ganz Plush</a></h3>
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/generic-value-plush.html" title="Generic Value Plush">Generic Value Plush</a></h3>
+</li>
+<li><h3><a href="http://www.bbtoystore.com/store/ghost-recon.html" title="Ghost Recon">Ghost Recon</a></h3>
 </li>
 </ul>
 </li>
@@ -274,7 +320,7 @@ window.onload = function narrowcats() { var narrow = document.narrow.narrowres; 
 <li><a href="http://www.bbtoystore.com/store/kooky-klicker-plush.html" title="Kookys Plush &amp; Bean Bags">Kookys Plush &amp; Bean Bags</a></li>
 </ul>
 </li>
-<li><h3><a href="http://www.bbtoystore.com/store/lego-building-toys.html" title="Lego Building Toys">Lego Building Toys</a></h3>
+<li><h3><a href="http://www.bbtoystore.com/store/lego-building-toys.html" title="LEGO Building Toys">LEGO Building Toys</a></h3>
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/littlest-pet-shop-toys.html" title="Littlest Pet Shop Plush &amp; Toys">Littlest Pet Shop Plush &amp; Toys</a></h3>
 </li>
@@ -314,13 +360,27 @@ window.onload = function narrowcats() { var narrow = document.narrow.narrowres; 
 <li><a href="http://www.bbtoystore.com/store/mighty-beanz-marvel.html" title="Mighty Beanz - Single Beanz - Marvel">Mighty Beanz - Single Beanz - Marvel</a></li>
 </ul>
 </li>
+<li><h3><a href="http://www.bbtoystore.com/store/minecraft.html" title="Minecraft">Minecraft</a></h3>
+</li>
 <li><h3><a href="http://www.bbtoystore.com/store/mlb-baseball-cards.html" title="MLB Baseball Cards">MLB Baseball Cards</a></h3>
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/muttles-mini-plush.html" title="Muttles Mini Plush">Muttles Mini Plush</a></h3>
 </li>
+<li><h3><a href="http://www.bbtoystore.com/store/my-little-pony.html" title="My Little Pony">My Little Pony</a></h3>
+</li>
+<li><h3><a href="http://www.bbtoystore.com/store/nakamas.html" title="Nakamas">Nakamas</a></h3>
+</li>
 <li><h3><a href="http://www.bbtoystore.com/store/naruto-cards.html" title="Naruto - Trading Card Game">Naruto - Trading Card Game</a></h3>
 </li>
+<li><h3><a href="http://www.bbtoystore.com/store/nfl-football-cards.html" title="NFL Football Cards">NFL Football Cards</a></h3>
+</li>
+<li><h3><a href="http://www.bbtoystore.com/store/NHL-trading-cards.html" title="NHL Trading Cards">NHL Trading Cards</a></h3>
+</li>
+<li><h3><a href="http://www.bbtoystore.com/store/nightmare-before-christmas.html" title="Nightmare Before Christmas Toys &amp; Collectibles">Nightmare Before Christmas Toys &amp; Collectibles</a></h3>
+</li>
 <li><h3><a href="http://www.bbtoystore.com/store/oyo-mini-buildable-sports-figure.html" title="OYO Mini Buildable Sports Figures">OYO Mini Buildable Sports Figures</a></h3>
+</li>
+<li><h3><a href="http://www.bbtoystore.com/store/peppa-pig.html" title="Peppa Pig">Peppa Pig</a></h3>
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/phineas-and-ferb.html" title="Phineas and Ferb Toys">Phineas and Ferb Toys</a></h3>
 </li>
@@ -328,11 +388,15 @@ window.onload = function narrowcats() { var narrow = document.narrow.narrowres; 
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/pinkalicious-toys-games.html" title="Pinkalicious Toys &amp; Games">Pinkalicious Toys &amp; Games</a></h3>
 </li>
+<li><h3><a href="http://www.bbtoystore.com/store/pocket-god-toys-plush-collectible.html" title="Pocket God Toys, Plush &amp; Collectibles">Pocket God Toys, Plush &amp; Collectibles</a></h3>
+</li>
 <li><h3><a href="http://www.bbtoystore.com/store/power-rangers.html" title="Power Rangers">Power Rangers</a></h3>
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/premier-kites.html" title="Premier Kites">Premier Kites</a></h3>
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/puzzles.html" title="Puzzles (Classic &amp; Wood)">Puzzles (Classic &amp; Wood)</a></h3>
+</li>
+<li><h3><a href="http://www.bbtoystore.com/store/randalls-honey-badger.html" title="Randall's Honey Badger">Randall's Honey Badger</a></h3>
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/redakai-trading-card-game.html" title="Redakai - Trading Card Game">Redakai - Trading Card Game</a></h3>
 </li>
@@ -361,8 +425,6 @@ window.onload = function narrowcats() { var narrow = document.narrow.narrowres; 
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/royal-bobbles.html" title="Royal Bobbles">Royal Bobbles</a></h3>
 </li>
-<li><h3><a href="http://www.bbtoystore.com/store/pocket-god-toys-plush-collectible.html" title="Pocket God Toys, Plush &amp; Collectibles">Pocket God Toys, Plush &amp; Collectibles</a></h3>
-</li>
 </ul>
 </li>
 <li><h2><a href="http://www.bbtoystore.com/store/other-brands-s-z.html" title="Other Brands S through Z">Other Brands S-Z</a></h2>
@@ -375,11 +437,20 @@ window.onload = function narrowcats() { var narrow = document.narrow.narrowres; 
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/skelanimals.html" title="Skelanimals Plush">Skelanimals Plush</a></h3>
 </li>
+<li><h3><a href="http://www.bbtoystore.com/store/skylanders.html" title="Skylanders">Skylanders</a></h3>
+<ul class="subcats">
+<li><a href="http://www.bbtoystore.com/store/skylanders-trading-cards.html" title="Skylanders Trading Cards">Skylanders Trading Cards</a></li>
+<li><a href="http://www.bbtoystore.com/store/skylanders-spyros-adventure.html" title="Skylanders Spyro's Adventure">Skylanders Spyro's Adventure</a></li>
+<li><a href="http://www.bbtoystore.com/store/skylanders-giants.html" title="Skylanders Giants">Skylanders Giants</a></li>
+</ul>
+</li>
 <li><h3><a href="http://www.bbtoystore.com/store/the-smurfs-plush-toys-figures.html" title="Smurfs - Plush, Toys &amp; Figures">Smurfs - Plush, Toys &amp; Figures</a></h3>
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/sock-monkey-plush-toys.html" title="Sock Monkey Plush, Toys &amp; Novelties">Sock Monkey Plush, Toys &amp; Novelties</a></h3>
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/sonic-the-hedgehog.html" title="Sonic the Hedgehog">Sonic the Hedgehog</a></h3>
+</li>
+<li><h3><a href="http://www.bbtoystore.com/store/sprout-pbs-kids.html" title="Sprout (PBS Kids)">Sprout (PBS Kids)</a></h3>
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/star-trek-toys-figures.html" title="Star Trek Toys">Star Trek Toys</a></h3>
 </li>
@@ -389,7 +460,11 @@ window.onload = function narrowcats() { var narrow = document.narrow.narrowres; 
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/tangle-creations-toys.html" title="Tangle Creation Toys">Tangle Creation Toys</a></h3>
 </li>
+<li><h3><a href="http://www.bbtoystore.com/store/tail-towns-friends.html" title="Tail Towns Friends">Tail Towns Friends</a></h3>
+</li>
 <li><h3><a href="http://www.bbtoystore.com/store/tech-deck-mini-skateboards.html" title="Tech Deck &amp; Mini Skateboards">Tech Deck &amp; Mini Skateboards</a></h3>
+</li>
+<li><h3><a href="http://www.bbtoystore.com/store/ted-movie-plush-toys.html" title="Ted Movie Plush &amp; Toys">Ted Movie Plush &amp; Toys</a></h3>
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/topps-attax-trading-cards.html" title="Topps Attax Trading Cards">Topps Attax Trading Cards</a></h3>
 <ul class="subcats">
@@ -417,6 +492,8 @@ window.onload = function narrowcats() { var narrow = document.narrow.narrowres; 
 <li><h3><a href="http://www.bbtoystore.com/store/wacky-packages.html" title="Wacky Packages">Wacky Packages</a></h3>
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/weiss-schwarz-cards.html" title="Weiss Schwarz Cards">Weiss Schwarz Cards</a></h3>
+</li>
+<li><h3><a href="http://www.bbtoystore.com/store/winx-club.html" title="Winx Club">Winx Club</a></h3>
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/yoyos.html" title="Yo-Yo's">Yo-Yo's</a></h3>
 </li>
@@ -446,6 +523,8 @@ window.onload = function narrowcats() { var narrow = document.narrow.narrowres; 
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/information-page.html" title="BBToyStore.com Information Page">BBToyStore.com Information Page</a></h3>
 </li>
+<li><h3><a href="http://www.bbtoystore.com/store/promo-page.html" title="BBToyStore.com Holiday Info Page">BBToyStore.com Holiday Info Page</a></h3>
+</li>
 <li><h3><a href="http://www.bbtoystore.com/store/GiftCert.html" title="Gift Certificates">Gift Certificates</a></h3>
 </li>
 <li><h3><a href="http://www.bbtoystore.com/store/join-newsletter.html" title="Join the BBToyStore.com Email Newsletter">Join the BBToyStore.com Email Newsletter</a></h3>
@@ -464,6 +543,7 @@ window.onload = function narrowcats() { var narrow = document.narrow.narrowres; 
 </div>
 </div>
 <div id="main_content">
+<script src="https://seal.buysafe.com/private/rollover/rollover.js"></script>
 <div id="hdft_header">
 <h1 class="page_heading" title="Privacy Policy &amp; About Us">Privacy Policy &amp; About Us</h1>
 <div class="breadcrumb">
@@ -535,9 +615,9 @@ West Deptford, NJ 08066<br>
 </div> <!-- END MAIN_CONTENT -->
 <div id="main_right">
 <div id="cattree_header">
-<p><span class="orangetext"><strong>My Account</strong></span><br><a href="https://www.bbtoystore.com/mm5/merchant.mvc?Session_ID=ca2628c277fb9724ace2a50c62861619&amp;Screen=LOGN&amp;Order=0&amp;Store_Code=bb_novelties" title="Login to account">Login to account</a> <a href="https://www.bbtoystore.com/mm5/merchant.mvc?Session_ID=ca2628c277fb9724ace2a50c62861619&amp;Screen=ACNT&amp;Order=0&amp;Store_Code=bb_novelties" title="Create account">Create account</a></p>
-<a href="http://www.bbtoystore.com/store/information-page.html" title="Why buy from us?"><img src="images/promo_store_specialFS2012_6.jpg" alt="Why buy from us?" title="Why buy from us?"></a>
-<!--<a href="http://www.bbtoystore.com/store/promo-page.html" title="Holiday Promo Page"><img src="images/Xmas-ship-info_2.jpg" alt="Holiday Promo Page" title="Holiday Promo Page" /></a>-->
+<p><span class="orangetext"><strong>My Account</strong></span><br><a href="https://www.bbtoystore.com/mm5/merchant.mvc?Session_ID=b3200a461e67afa17e7cbb7f2ba869b1&amp;Screen=LOGN&amp;Order=0&amp;Store_Code=bb_novelties" title="Login to account">Login to account</a> <a href="https://www.bbtoystore.com/mm5/merchant.mvc?Session_ID=b3200a461e67afa17e7cbb7f2ba869b1&amp;Screen=ACNT&amp;Order=0&amp;Store_Code=bb_novelties" title="Create account">Create account</a></p>
+<a href="http://www.bbtoystore.com/store/promo-page.html" title="Holiday Promo Page"><img src="images/hap-hol-2012.jpg" alt="Holiday Promo Page" title="Holiday Promo Page"></a><br>
+<a href="http://www.bbtoystore.com/store/information-page.html" title="Why buy from us?"><img src="images/buy-bar.jpg" alt="Why buy from us?" title="Why buy from us?"></a>
 <br>
 <center>
 <a href="http://www.bbtoystore.com/store/join-newsletter.html" title="Click to Subscribe" border="0"><img src="images/newsletterlogo.jpg" alt="Join the BBToyStore Email Newsletter!" title="Join the BBToyStore Email Newsletter!"></a><br><br>
