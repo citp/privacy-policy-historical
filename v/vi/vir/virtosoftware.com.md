@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtosoftware.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625130343id_/http%3A//www.virtosoftware.com/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtosoftware.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225053345id_/http%3A//www.virtosoftware.com/PrivacyStatement) for the most accurate reproduction.*
 
 # Home | SharePoint Web Parts and Features for Microsoft SharePoint 2007/2010
 
