@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the copious.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507210556id_/http%3A//help.copious.com/customer/portal/articles/82465-copious-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copious.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225032304id_/http%3A//help.copious.com/customer/portal/articles/82465-copious-privacy-policy) for the most accurate reproduction.*
 
 # Copious | Copious Privacy Policy
 
 ##  Purpose of Policy
 
-###  Utah Street Labs, Inc., Copious.com, and Copious (collectively "us", "we," or "Company") are committed to respecting the privacy rights of its customers, visitors, and other users of the Copious.com site (the "Site"). We created this Privacy Policy (this "Policy") to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This policy describes the ways we collect, store, use and protects your personal information. You accept this policy when you visit Copious.com. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy. You have rights under California Civil Code Section 1798.83, which protect and govern your personal information as disclosed by us; to exercise those rights, contact [privacy@copious.com](mailto:privacy@copious.com?subject=California%20Privacy%20Inquiry). We may amend this policy at any time by posting a revised version on our Site. The revised version will be effective at the time we post it.
+###  Utah Street Labs, Inc., Copious.com, and Copious (collectively "us", "we," or "Company") are committed to respecting the privacy rights of its customers, visitors, and other users of the Copious.com site (the "Site"). We created this Privacy Policy (this "Policy") to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This policy describes the ways we collect, store, use and protects your personal information. You accept this policy when you visit Copious.com. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy. You have rights under California Civil Code Section 1798.83, which protect and govern your personal information as disclosed by us; to exercise those rights, contact info@copious.com We may amend this policy at any time by posting a revised version on our Site. The revised version will be effective at the time we post it.
 
 ###  Data You Provide Us.
 
@@ -16,7 +16,7 @@
 
 ###  Surveys. Unless otherwise specified at a survey's beginning, we treat your survey responses like we treat our other business records.
 
-###  Accessing Your Records. The information described in California Business & Professions Code Sec. 1798.83 is available by submitting the statutorily required information to [privacy@copious.com](mailto:privacy@copious.com?subject=California%20Privacy%20Inquiry).
+###  Accessing Your Records. The information described in California Business & Professions Code Sec. 1798.83 is available by submitting the statutorily required information to info@copious.com
 
 ###  Data We Collect Automatically.
 
