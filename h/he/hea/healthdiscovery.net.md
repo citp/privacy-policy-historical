@@ -1,16 +1,9 @@
-> *The following text is extracted and transformed from the healthdiscovery.net privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614215911id_/http%3A//www.healthdiscovery.net/disclosure.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthdiscovery.net privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225063441id_/http%3A//www.healthdiscovery.net/disclosure.htm) for the most accurate reproduction.*
 
-# A Weight Watchers support network
+# Health Discovery Privacy - Weight Watchers Diet Fitness and Exercise Support
 
-  
-**Privacy Policy**
+**Privacy and Information Disclosure Terms**
 
-Health Discovery takes the issue of safeguarding your privacy on-line very seriously. We have very strict policies and procedures designed to protect the privacy of our visitors. We will never share your personal information with any external organization without your consent. We do not sell any personal information about our visitors, including email addresses. Any personal information you do wish to provide is protected internally. 
-
-  
-If you feel that we are not abiding by our posted privacy policy, you should contact denise@healthdiscovery.net
-
-  
 **Cookies**
 
 A cookie is a piece of data temporarily stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site (who you are, your email address, or anything personal). The cookie helps the user to save time. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. Web browsers can be set to reject cookies. If a user rejects the cookie they may still use our site, but may not be able to take advantage of certain features. 
@@ -37,6 +30,9 @@ From time to time we may partner with another party to provide specific services
 **Third Parties**
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+Example Advertisements:  
+
 
 **Our Online Discussion Groups Policies**
 
@@ -79,17 +75,10 @@ Users of our site are always notified when their information is being collected 
   
 **Notification of Changes**
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. Protecting the privacy of our visitors is our topmost concern.   
+If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. Protecting the privacy of our visitors is our topmost concern. 
 
-
-     
----  
   
-[  
-Disclaimer, Privacy Statement & Terms of Use](https://web.archive.org/disclosure.htm).    
-Copyright © 2000-2012 - Health Discovery Network   
-All rights reserved. **Health Discovery is independently owned & operated and is not affiliated with Weight Watchers or Discovery Health Channel**
+If you feel that we are not abiding by our posted privacy policy, you should contact admin@healthdiscovery.net
 
-NOTE:  Weight Watchers is a registered trademark of Weight Watchers International, Inc. Points and Points Plus are trademarks of Weight Watchers International, Inc. Authentic information about the program is only available at your local Weight Watchers meeting. This site is not affiliated with Weight Watchers International in any way, and Weight Watchers has not reviewed this site for accuracy or suitability for WW members. Information on this site is based on recollections and assumptions of it's author and is not warranted for any purpose by it's author. All readers are encouraged to go to a Weight Watcher's meeting for actual WW info.  This site is presented under the rights of the First Amendment; rights worth fighting for.
+  
 
-All information is intended for your general knowledge only and is not a substitute for medical advice or treatment for specific medical conditions. You should seek prompt medical care for any specific health issues and consult your physician before starting a new fitness regimen.
