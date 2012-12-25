@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timescity.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501081838id_/http%3A//timescity.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timescity.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225135323id_/http%3A//timescity.com/privacypolicy) for the most accurate reproduction.*
 
 # TimesCity | Privacy Policy
 
