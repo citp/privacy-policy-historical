@@ -1,53 +1,100 @@
-> *The following text is extracted and transformed from the asqit.com privacy policy that was archived on 2002-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020821172149id_/http%3A//www.asqit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asqit.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225102936id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal Agreement
 
-**ASQIT.COM   PRIVACY POLICY**
+**Go Daddy Respects Your Privacy**
 
-Thank you for visiting this page of  Asqit.com's Privacy Policy. PRIVACY PROTECTION OF OUR CUSTOMERS IS OF UPPERMOST IMPORTANT FACTOR FOR ASQIT.COM.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-This paragraph explains what information is collected by us, how we use that information, and how we protect this information from being spread through the net without customer’s  clear permission.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-We are rapidly growing company and steady adding new services. Therefore our privacy policy may be revised without worsening our customer’s privacy. All the revisions will be immediately published on our homepage [Privacy Policy](https://web.archive.org/web/20020821172149id_/http%3A//www.asqit.com/privacy.html). 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**1.PERSONAL INFORMATION**
+**Information Collection and Use**
 
-Asqit.com does not ask, gather or use any information that personally  identifies you or anyone of our customers.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Any information which may be requested, gathered or used by third parties (merchants) during the process of interaction with the customer with the help of Asqit.com is outside of customer privacy protection capability of Asqit.com.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-It means that if you receive an answer to your question and  you decide to follow the merchant’s advice and purchase the recommended item/service, all the needed information requested by the merchant is outside the competence of Asqit.com.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**2. COOKIES**
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-Asqit.com does not use cookies from customer’s side. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**3.EMAIL ADDRESS **
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Email address is requested by Asqit.com and is used exclusively to send answers and advertisements to this address without transfer the email address to any third party. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-It means that all the customer’s requests are sent to merchants anonymously and correspondence between generated by Asqit.com email address and real email address typed in by customer is never transmitted to any third party.
+**Security**
 
-**4.ADVERTISEMENTS **
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-Asqit.com itself sends to the customer self-originated promotion information, news or self-originated advertisements in the form of Newsletter only if the customer submits it. If the customer wants to receive information about products and services directly from the merchant he/she will submit it with original email address.
+**Updating Your Information**
 
-If a merchant which provides shopping assistant service with Asqit.com  sends promotion or advertisement information to the customer using anonymous email addresses, Asqit.com will transmit this information to the customer until the customer clearly  points it out that he/she wishes to clear database record of relation between anonymous and real email addresses thus ceasing future transmissions to the email address.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**5.QUESTIONS, ANSWERS AND SELECTIONS **
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-Asqit.com collects customer’s questions, expert's answers and selections (purchases) made by customers. Asqit.com does not associate this information with the customer’s email address thus protecting the customer from disclosing the information on his/her questions, answers and selections (purchases). Asqit.com uses this information for the general analysis of customer’s enquires and preferences without linking this information with dedicated email addresses.
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-Asqit.com does not protect customer’s privacy if the customer sends information on his/her questions and selections to his/her friends using Asqit.com feature “Tell a Friend about us”.
+      iii.      You may call us at: (480) 505-8800
 
-**6.** **OTHER WEBSITES **
+       iv.      You may fax us at: (480) 505-8844
 
-Asqit.com offers links to other websites. These websites are linked as providers of shopping services or as advertisers. These websites have separate privacy protection schemes independent of Asqit.com. 
+**Sending Emails**
 
-Asqit.com disclaims any responsibility or liability for the privacy protection policies and actions of other websites.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-Asqit.com uses WebTrends Live to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please click [here](http://www.webtrendslive.com/privacy_policy.htm)." 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**7.FEEDBACK **
+**Compliance with Laws and Law Enforcement**
 
-We are very glad to receive customer’s questions and opinions. We are open to any proposals to improve our service. Please [ contact us](mailto:info@asqit.com).
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
