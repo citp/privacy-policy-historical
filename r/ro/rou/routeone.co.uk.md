@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the routeone.co.uk privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620214951id_/http%3A//www.routeone.co.uk/content/Information/SecurityAndPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routeone.co.uk privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225224941id_/http%3A//www.routeone.co.uk/content/Information/SecurityAndPrivacy) for the most accurate reproduction.*
 
 # Security and Privacy
 
@@ -29,7 +29,7 @@ All Route One members have the option to opt-out of receiving marketing commun
 
 #### What are Cookies?
 
-A cookie is a small information file that is sent to your computer and is stored on your hard drive. If you have registered with us then your computer will store an identifying cookie which will save you time each time you re-visit Route One, by remembering your email address for you. You can change the settings on your browser to prevent cookies being stored on your computer without your explicit consent. 
+A cookie is a small information file that is sent to your computer and is stored on your hard drive. If you have registered with us then your computer will store an identifying cookie which will save you time each time you re-visit Route One, by remembering your email address for you. You can change the settings on your browser to prevent cookies being stored on your computer without your explicit consent. For more information please [click here](http://www.routeone.co.uk/content/Information/Cookies)
 
 #### Site Statistics
 
