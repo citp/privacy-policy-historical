@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the caller.com privacy policy that was archived on 2012-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120619022241id_/http%3A//www.caller.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the caller.com privacy policy that was archived on 2012-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225172509id_/http%3A//www.caller.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:nitro="http://www.bunchball.com/nitro"><!--
   
@@ -85,35 +85,16 @@
                 if( ind1 == -1 ) ind1 = zagi.length - 1;
                 return zagi.substring( ind + zagiName.length + 1, ind1 ) ;
             }
-            // SITE-LEVEL PARAMETERS
-            yld_mgr = {};
-            yld_mgr.pub_id="22219982883";
-            yld_mgr.site_name="Corpus Christi Caller Times";
-            yld_mgr.container_type="js";//Hardcoded
-
-            //OPTIONAL PARAMETERS THAT DESCRIBE THE TARGETED CONTENT 
-            // <class 'django.models.flatpages.FlatPage'>
-            /* /privacy/ - Privacy Policy */
-            yld_mgr.content_topic_id_list=[ "20406001"]; 
-            // [Online / System Response / Error (NPC)]
-            // yld_mgr.site_section_name_list=[]; // this view is not mapped to yahoo's SiteSectionTaxonomy
-            yld_mgr.content_lang="en-US"; //Hardcoded
-
-
-            //OPTIONAL DISABLE CONTENT SEND 
-            yld_mgr.disable_content_send="0"; 
- 
             //OPTIONAL PARAMETERS FOR GEOGRAPHIC TARGETING 
             var zip = ReadZagi( 'zip_code' );
-            if( zip ) { yld_mgr.user_zip = zip ; }
             var city = ReadZagi( 'city' ) ;
-            if( city ) { yld_mgr.user_city = city ; }
             var state = ReadZagi( 'state' ) ;
-            if( state ) { yld_mgr.user_state = state ; }
             
             //OPTIONAL PARAMETERS FOR DEMOGRAPHIC TARGETING 
-            var age = ReadZagi( 'age' ) ;
+            var gender = ReadZagi( 'gender' )=='M'?'m':ReadZagi('gender')=='F'?'f':''
+
             function AgeToRange( years_old ) {
+                if( isNaN( years_old ) ) { return '' ; }
                 if( years_old < 13 ) { return "" ; }
                 else if( years_old < 18 ) { return "13-17" ; }
                 else if( years_old < 21 ) { return "18-20" ; }
@@ -126,34 +107,36 @@
                 else if( years_old < 55 ) { return "50-54" ; }
                 else if( years_old < 60 ) { return "55-59" ; }
                 else if( years_old < 65 ) { return "60-64" ; }
-                else if( years_old < 100 ){ return "65-100" ; }
-                return "100+" ;
+                return "65plus" ;
             }
-            var gender = ReadZagi( 'gender' )=='M'?'Male':ReadZagi('gender')=='F'?'Female':''
-            if( gender ) yld_mgr.user_gender = gender ;
-            if( age ) yld_mgr.user_age = AgeToRange( age ) ;
+            var age_range = AgeToRange( ReadZagi( 'age' ) ) ;
+
             function IncToRange( inc ) {
                 var idx = 0 ;
                 var numstr = '' ;
-                for( idx = 0; idx < inc.length; idx ++ ) 
+                for( idx = 0; idx < inc.length && inc[idx]!='+'; idx ++ ) 
                     if( ! isNaN( parseInt(inc[idx]) ) ) numstr += inc[idx] ;
                 inc = parseInt( numstr ) ;
                 if( isNaN( inc ) ) { return '' ; }
-                else if( inc <= 24999 ) { return '1-24999' ; }
+                else if( inc <= 24999 ) { return 'less25000' ; }
                 else if( inc <= 34999 ) { return '25000-34999' ; }
                 else if( inc <= 49999 ) { return '35000-49999' ; }
                 else if( inc <= 74999 ) { return '50000-74999' ; }
                 else if( inc <= 99999 ) { return '75000-99999' ; }
                 else if( inc <=149999 ) { return '100000-149999' ; }
                 else if( inc <=249999 ) { return '150000-249999' ; }
-                else if( inc >=250000 ) { return '250000-' ; }
+                else if( inc >=250000 ) { return '250000plus' ; }
             }
             var inc_range = IncToRange( ReadZagi( 'income' ) ) ;
-            if( inc_range ) yld_mgr.user_income=inc_range ;
 
+            var _ord = _ord || Math.random()*1000000000000000000; 
+            var _tile_params = ";ord=" + _ord;
 
-            // define the slots
-            yld_mgr.slots = {} ;
+            var _demo_params = '' ;
+            if( age_range ) _demo_params +=';age=' + age_range ;
+            if( gender ) _demo_params += ';gender=' + gender ;
+            if( inc_range ) _demo_params += ';income=' + inc_range ;
+
             
 //--> </script>
 <!-- End ad manager -->
@@ -166,126 +149,37 @@
 	
 			
 			<!-- stage register_ad_pos -->
-			<script type="text/javascript"><!--
-            yld_mgr.slots.SUPERSTITIAL = {};
-             
-            //REQUIRED PARAMETERS 
-            yld_mgr.slots.SUPERSTITIAL.request_type="ac"; // ac=ad call, bc=beacon call, fc=forecast call
-            yld_mgr.slots.SUPERSTITIAL.ad_size_list=["720x300", "720x90"  ]; // SUPERSTITIAL
-
-            //OPTIONAL PARAMETERS THAT DESCRIBE THE AD 
-            yld_mgr.slots.SUPERSTITIAL.ad_delivery_mode="ipatf"; // pos = above; ipatf = above the fold, ipbtf = below the fold, ipstf = spans the fold
-            yld_mgr.slots.SUPERSTITIAL.clk_dest="_blank"; //Hardcoded
-            yld_mgr.slots.SUPERSTITIAL.ad_output_encoding="utf-8"; //Hardcoded
-            // no custom categories
-            // yld_mgr.slots.SUPERSTITIAL.content_type_list=[]; // this view not mapped to a yahoo content type
-
-        
-            //--> </script> 
-			<script type="text/javascript"><!--
-            yld_mgr.slots.BIGBOX_1 = {};
-             
-            //REQUIRED PARAMETERS 
-            yld_mgr.slots.BIGBOX_1.request_type="ac"; // ac=ad call, bc=beacon call, fc=forecast call
-            yld_mgr.slots.BIGBOX_1.ad_size_list=["300x250"  ]; // BIGBOX
-
-            //OPTIONAL PARAMETERS THAT DESCRIBE THE AD 
-            yld_mgr.slots.BIGBOX_1.ad_delivery_mode="ipatf"; // pos = above; ipatf = above the fold, ipbtf = below the fold, ipstf = spans the fold
-            yld_mgr.slots.BIGBOX_1.clk_dest="_blank"; //Hardcoded
-            yld_mgr.slots.BIGBOX_1.ad_output_encoding="utf-8"; //Hardcoded
-            // no custom categories
-            // yld_mgr.slots.BIGBOX_1.content_type_list=[]; // this view not mapped to a yahoo content type
-
-        
-            //--> </script> 
+			<!-- registered SUPERSTITIAL ad in position above, slot SUPERSTITIAL -->
+			<!-- registered BIGBOX ad in position above, slot BIGBOX_1 -->
 
 			
 	
 	
-				<script type="text/javascript"><!--
-            yld_mgr.slots.BIGBOX_2 = {};
-             
-            //REQUIRED PARAMETERS 
-            yld_mgr.slots.BIGBOX_2.request_type="ac"; // ac=ad call, bc=beacon call, fc=forecast call
-            yld_mgr.slots.BIGBOX_2.ad_size_list=["300x250"  ]; // BIGBOX
-
-            //OPTIONAL PARAMETERS THAT DESCRIBE THE AD 
-            yld_mgr.slots.BIGBOX_2.ad_delivery_mode="ipbtf"; // pos = below; ipatf = above the fold, ipbtf = below the fold, ipstf = spans the fold
-            yld_mgr.slots.BIGBOX_2.clk_dest="_blank"; //Hardcoded
-            yld_mgr.slots.BIGBOX_2.ad_output_encoding="utf-8"; //Hardcoded
-            // no custom categories
-            // yld_mgr.slots.BIGBOX_2.content_type_list=[]; // this view not mapped to a yahoo content type
-
-        
-            //--> </script> 			
+				<!-- registered BIGBOX ad in position below, slot BIGBOX_2 -->			
 			
 
 
-			<script type="text/javascript"><!--
-            yld_mgr.slots.WEATHER_SPONSOR = {};
-             
-            //REQUIRED PARAMETERS 
-            yld_mgr.slots.WEATHER_SPONSOR.request_type="ac"; // ac=ad call, bc=beacon call, fc=forecast call
-            yld_mgr.slots.WEATHER_SPONSOR.ad_size_list=["120x30"  ]; // WEATHER_SPONSOR
-
-            //OPTIONAL PARAMETERS THAT DESCRIBE THE AD 
-            yld_mgr.slots.WEATHER_SPONSOR.ad_delivery_mode="ipbtf"; // pos = below; ipatf = above the fold, ipbtf = below the fold, ipstf = spans the fold
-            yld_mgr.slots.WEATHER_SPONSOR.clk_dest="_blank"; //Hardcoded
-            yld_mgr.slots.WEATHER_SPONSOR.ad_output_encoding="utf-8"; //Hardcoded
-            // no custom categories
-            // yld_mgr.slots.WEATHER_SPONSOR.content_type_list=[]; // this view not mapped to a yahoo content type
-
-        
-            //--> </script> 
-			<script type="text/javascript"><!--
-            yld_mgr.slots.SEARCH_RESULTS_SPONSOR_1 = {};
-             
-            //REQUIRED PARAMETERS 
-            yld_mgr.slots.SEARCH_RESULTS_SPONSOR_1.request_type="ac"; // ac=ad call, bc=beacon call, fc=forecast call
-            yld_mgr.slots.SEARCH_RESULTS_SPONSOR_1.ad_size_list=["120x30"  ]; // SEARCH_RESULTS_SPONSOR
-
-            //OPTIONAL PARAMETERS THAT DESCRIBE THE AD 
-            yld_mgr.slots.SEARCH_RESULTS_SPONSOR_1.ad_delivery_mode="ipatf"; // pos = above; ipatf = above the fold, ipbtf = below the fold, ipstf = spans the fold
-            yld_mgr.slots.SEARCH_RESULTS_SPONSOR_1.clk_dest="_blank"; //Hardcoded
-            yld_mgr.slots.SEARCH_RESULTS_SPONSOR_1.ad_output_encoding="utf-8"; //Hardcoded
-            // no custom categories
-            // yld_mgr.slots.SEARCH_RESULTS_SPONSOR_1.content_type_list=[]; // this view not mapped to a yahoo content type
-
-        
-            //--> </script> 
+			<!-- registered WEATHER_SPONSOR ad in position below, slot WEATHER_SPONSOR -->
+			<!-- registered SEARCH_RESULTS_SPONSOR ad in position above, slot SEARCH_RESULTS_SPONSOR_1 -->
 			
 			<!-- End register_ad_pos -->
 		
 	
-	<script type="text/javascript"><!--
-            yld_mgr.slots.LEADERBOARD_1 = {};
-             
-            //REQUIRED PARAMETERS 
-            yld_mgr.slots.LEADERBOARD_1.request_type="ac"; // ac=ad call, bc=beacon call, fc=forecast call
-            yld_mgr.slots.LEADERBOARD_1.ad_size_list=["728x90"  ]; // LEADERBOARD
-
-            //OPTIONAL PARAMETERS THAT DESCRIBE THE AD 
-            yld_mgr.slots.LEADERBOARD_1.ad_delivery_mode="ipatf"; // pos = above; ipatf = above the fold, ipbtf = below the fold, ipstf = spans the fold
-            yld_mgr.slots.LEADERBOARD_1.clk_dest="_blank"; //Hardcoded
-            yld_mgr.slots.LEADERBOARD_1.ad_output_encoding="utf-8"; //Hardcoded
-            // no custom categories
-            // yld_mgr.slots.LEADERBOARD_1.content_type_list=[]; // this view not mapped to a yahoo content type
-
-        
-            //--> </script> 
+	<!-- registered LEADERBOARD ad in position above, slot LEADERBOARD_1 -->
 
 
 		
 
 
 
-		<script type="text/javascript" src="http://e.yieldmanager.net/script.js"></script>
+		
 	
 	
 	
 	<!-- META -->
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<meta name="author" content="Corpus Christi Caller-Times and Corpus Christi Caller Times">
+    <!-- fb requires author as meta property instead of meta name and now it is a 'profile' type, not a string -->
+	<!-- <meta property="author" content="Corpus Christi Caller-Times and Corpus Christi Caller Times" /> -->
 	<meta name="description" content="
 	Privacy Policy news and information. Corpus Christi Caller-Times brings you the most current Privacy Policy news and information available.
 	">
@@ -366,14 +260,18 @@
 <script type="text/javascript" src="http://apptap.scripps.com/apptap3?site=CCCT&amp;app=djeff&amp;path=/privacy&amp;title=privacy-policy&amp;topic=Online+%2F+System+Response+%2F+Error+%28NPC%29"></script><script type="text/javascript">apptap();</script>
 
 <script type="text/javascript">document.body.className += " hasJS"</script>
-	
-
-
 
 	
 
+
+
 	
-	<div class="adtag" id="SUPERSTITIAL"><script>yld_mgr.place_ad_here("SUPERSTITIAL");</script> </div>
+
+	
+	<div class="adtag" id="SUPERSTITIAL"><script language="JavaScript">
+        // slotname: SUPERSTITIAL
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=1;sz=720x300;dcopt=ist;pos=above' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=1;sz=720x300;dcopt=ist;pos=above;ord=824767601433497500" type="text/javascript"></script></div>
 
 
 <div id="advertising_wrapper" class="default ggnoads">
@@ -384,7 +282,10 @@
 			
 		
 			<div id="leaderboard">
-				<div class="adtag" id="LEADERBOARD_1"><script>yld_mgr.place_ad_here("LEADERBOARD_1");</script> </div>
+				<div class="adtag" id="LEADERBOARD_1"><script language="JavaScript">
+        // slotname: LEADERBOARD_1
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=6;sz=728x90;pos=above' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=6;sz=728x90;pos=above;ord=824767601433497500" type="text/javascript"></script></div>
 			</div> <!-- end #leaderboard -->
 		
 		</div> <!-- end #advertising -->
@@ -512,9 +413,12 @@
 
 <li id="nav_news"><a href="/news/news/" title="News">News</a>
 <ul class="secondary_nav first">
-<li><a href="/news/today/" title="Today">Today</a></li>
+<li style="margin-right:-19px;"><a href="/news/today/" title="Today's Headlines"><img src="http://web.caller.com/ellington/promos/nav/star.png" width="14" height="13" border="0" style="padding-top:7px;"></a></li>
+<li><a href="/news/today/" title="Today's Headlines" style="color:#eeba1a">Today's Headlines</a></li>
 <li><a href="/news/news/local/">Local</a>
 <ul class="tertiary_nav">
+<li><a href="/harbor-bridge/" title="Harbor Bridge - SPECIAL REPORT">Harbor Bridge Special</a></li>
+<li><a href="/eagle-ford-shale/" title="Eagle Ford Shale">Eagle Ford Shale</a></li>
 <li><a href="/news/news/spending/" title="Spotlight on Spending">Spotlight on Spending</a></li>
 <li><a href="/news/news/local/memorial-coliseum/" title="Memorial Coliseum">Memorial Coliseum</a></li>
 <li><a href="http://blogs.caller.com/political_pulse/" title="Political Pulse Blog">Political Pulse Blog</a></li>
@@ -545,8 +449,8 @@
 <li><a href="/news/news/columnists/">Columnists</a>
 <ul class="tertiary_nav">
 <li><a href="/news/news/columnists/mike-baird/" title="Mike Baird">Mike Baird</a></li>
-<li><a href="/news/news/columnists/joe-hilliard/" title="Joe Hilliard">Joe Hilliard</a></li>
-<li><a href="/news/news/columnists/alissa-inman/" title="Alissa Inman">Alissa Inman</a></li>
+<li><a href="/news/news/columnists/trish-choate/" title="Trish Choate"><span style="color:#93ba61;">NEW:</span> Trish Choate</a></li>
+<li><a href="/news/news/columnists/alissa-mejia/" title="Alissa Mejia">Alissa Mejia</a></li>
 <li><a href="/news/news/columnists/lakendra-lewis/" title="Lakendra Lewis">Lakendra Lewis</a></li>
 <li><a href="/news/news/columnists/stephen-ponder/" title="Dr. Stephen Ponder">Dr. Stephen Ponder</a></li>
 <li><a href="/news/news/columnists/michael-womack/" title="Michael Womack">Michael Womack</a></li>
@@ -556,24 +460,50 @@
 <li><a href="/contests/" title="Contests">Contests</a>
 <ul class="tertiary_nav">
 <script src="http://web.caller.com/ellington/promos/contests/nav.js"></script>
-<li><a href="http://caller.autoracing.upickem.net/autoracing/registration/login.asp" title="Auto Racing"> Auto Racing</a></li>
+<li><a href="http://caller.collegefootball.upickem.net/collegefootball/registration/login.asp" title="College Football"><span style="color:#93ba61;">NEW:</span>College Football</a></li>
+<li><a href="http://caller.upickem.net/upickem/registration/login.asp?contestid=66970" title="H.S. Football Challenge">H.S. Football Challenge</a></li>
+<li><a href="http://caller.profootball.upickem.net/profootball/registration/login.asp" title="Pro Football">Pro Football</a></li>
 <!--
-<li><a href="http://caller.collegefootball.upickem.net" title="College Football"><span style="color:#93ba61;">NEW:</span>College Football</a></li>
-<li><a href="http://caller.upickem.net/upickem/contest/questions.asp?contestid=37747" title="H.S. Football Challenge">H.S. Football Challenge</a></li>
+<li><a href="http://caller.autoracing.upickem.net/autoracing/registration/login.asp" title="Auto Racing"> Auto Racing</a></li>
+
+<li><a href="http://caller.upickem.net/upickem/registration/login.asp?contestid=66970" title="H.S. Football Challenge">H.S. Football Challenge</a></li>
 <li><a href="http://caller.profootball.upickem.net/profootball/registration/login.asp" title="Pro Football">Pro football</a></li>
 -->
 </ul>
 </li>
+<!--
 <li><a href="http://www.caller.com/e-edition/" title="e-Edition">e-Edition</a></li>
+-->
+
 <li><a href="/weather/" title="Weather">Weather</a>
 <ul class="tertiary_nav">
-<li><a href="/weather/" title="Lake Levels"><span style="color:#93ba61;">NEW:</span> Lake Levels</a></li>
-<li><a href="http://links.caller.com/surf/nav_redirect.html" title="Surf Report">Surf Report</a></li>
 <li><a href="/tropical/" title="Tropical Weather">Tropical Weather</a></li>
-<li><a href="/tropical_radar/" title="Interactive Radar">Interactive Radar</a></li>
+<li><a href="/weather/#lakelevels" title="Lake Levels">Lake Levels</a></li>
+<li><a href="http://links.caller.com/surf/nav_redirect.html" title="Surf Report">Surf Report</a></li>
+<li><a href="/radar/" title="Interactive Radar">Interactive Radar</a></li>
 <li><a href="/weather/" title="Local Radar">Local Weather</a></li>
 </ul>
 </li>
+
+<li><a href="http://www.caller.com/lights/" title="Holiday Lights Map" style="color:#9cc0f6; margin-left:50px;">Holiday Lights Map</a></li>
+
+
+<!--
+<li><a href="http://www.caller.com/election/" title="Election 2012" style="color:#9cc0f6">Election 2012</a>
+<ul class="tertiary_nav">
+<li><a href="http://www.caller.com/news/news/politics/corpus-christi/" title="Corpus Christi">Corpus Christi</a></li>
+<li><a href="http://www.caller.com/news/news/politics/county/" title="County">County</a></li>
+<li><a href="http://www.caller.com/news/news/politics/state/" title="State">State</a></li>
+<li><a href="http://www.caller.com/news/news/politics/federal/" title="Federal">Federal</a></li>
+<li><a href="http://www.caller.com/news/news/politics/judicial/" title="Judicial">Judicial</a></li>
+<li><a href="http://www.caller.com/news/news/politics/education/" title="Education">Education</a></li>
+<li><a href="http://www.caller.com/elections/live-chat/" title="Live Chats">Live Chats</a></li>
+<li><a href="http://www.caller.com/elections/data/" title="Databases">Databases</a></li>
+<li><a href="http://www.caller.com/elections/polling/" title="Polling Stations">Polling Stations</a></li>
+<li><a href="http://www.caller.com/elections/ballots/" title="Sample Ballots">Sample Ballots</a></li>
+</ul>
+</li>
+-->
 <!---
 <li><a href="/veterans-remembered/" title="Memorial Day 2011" style="color:#7fb2f6;">Memorial Day 2011</a></li>
 <li><a href="/veterans-remembered/" title="Memorial Day 2011"><img src="http://web.caller.com/ellington/promos/nav/flag.png" width="16" height="16" border="0" style="padding-top:7px; margin-left:-22px;" /></a></li>
@@ -598,6 +528,10 @@
 
 <li id="nav_sports"><a href="/news/sports/" title="Sports">Sports</a>
 <ul class="secondary_nav">
+<!---
+<li style="margin-right:-19px;"><a href="/sports/2012-summer-olympics/" title="2012 Summer Olympics"><img src="http://web.caller.com/ellington/promos/nav/star.png" width="14" height="13" border="0" style="padding-top:7px;" /></a></li>
+
+<li><a href="/sports/2012-summer-olympics/" title="2012 Summer Olympics" style="color:#eeba1a">2012 Summer Olympics</a></li>--->
 <li><a href="/news/sports/local/" title="Local">Local</a></li>
 <li><a href="http://prepsports.caller.com/" title="High School">High School Preps</a></li>
 <li><a href="/news/sports/college/">College</a>
@@ -637,14 +571,15 @@
 </li>
 <li><a href="http://www.caller.com/sports-contests/" title="Contests">Contests</a>
 <ul class="tertiary_nav">
-<li><a href="http://caller.autoracing.upickem.net/autoracing/registration/login.asp" title="Auto Racing"> Auto Racing</a></li>
+<li><a href="http://caller.collegefootball.upickem.net/collegefootball/registration/login.asp" title="College Football"><span style="color:#93ba61;">NEW:</span>College Football</a></li>
+<li><a href="http://caller.upickem.net/upickem/registration/login.asp?contestid=66970" title="H.S. Football Challenge">H.S. Football Challenge</a></li>
+<li><a href="http://caller.profootball.upickem.net/profootball/registration/login.asp" title="Pro Football">Pro football</a></li>
 <!--
 <li><a href="http://caller.collegefootball.upickem.net" title="College Football"> College Football</a></li>
 <li><a href="http://caller.upickem.net/upickem/contest/questions.asp?contestid=37747" title="H.S. Football Challenge">H.S. Football Challenge</a></li>
 <li><a href="http://caller.autoracing.upickem.net/autoracing/registration/login.asp" title="Auto Racing">Auto Racing</a></li>
 <li><a href="http://caller.collegebasketball.upickem.net/collegebasketball/registration/login.asp" title="College Basketball">College Basketball</a></li>
 -->
-<strong><li><a href="http://caller.profootball.upickem.net/profootball/registration/login.asp" title="Pro Football">Pro football</a></li></strong>
 
 </ul>
 </li>
@@ -680,11 +615,9 @@
 <ul class="tertiary_nav">
 <li><a href="http://blogs.caller.com/political_pulse/" title="Political Pulse">Political Pulse</a></li>
 <li><a href="http://entertainment.caller.com" title="Caller Entertainment">Caller Entertainment</a></li>
-<li><a href="http://blogs.caller.com/hooks_insider/" title="Hooks Insider">Hooks Insider</a></li>
 <li><a href="http://blogs.caller.com/clip_and_save/" title="Clip and Save!">Clip and Save!</a></li>
 <li><a href="http://blogs.caller.com/rajan/" title="In the Crease">In the Crease</a></li>
 <li><a href="http://blogs.caller.com/amped_up/" title="Amped Up!">Amped Up!</a></li>
-<li><a href="http://blogs.caller.com/game_time_live/" title="Game Time Live">Game Time Live</a></li>
 </ul>
 </li>
 <li><a href="/news/opinion/editorial/" title="Editorial">Editorials</a></li>
@@ -709,11 +642,6 @@
 <li id="nav_entertainment"><a href="/news/entertainment/" title="Entertainment">Entertainment</a>
 <ul class="secondary_nav">
 <li><a href="/news/entertainment/arts-theater" title="Arts / Theater">Arts / Theater</a></li>
-<li><a href="/restaurants/">Restaurants</a>
-<ul class="tertiary_nav">
-<li><a href="/news/entertainment/featuredrestaurants/" title="Features Restaurants">Featured Restaurants</a></li>
-</ul>
-</li>
 <li><a href="#">Blogs</a>
 <ul class="tertiary_nav">
 <li><a href="http://entertainment.caller.com" title="Caller Entertainment">Caller Entertainment</a></li>
@@ -746,6 +674,15 @@
 <li><a href="/entertainment/numbrix/" title="Numbrix">Numbrix</a></li>
 <li><a href="/entertainment/games/" title="Games">Games</a></li>
 </ul></li>
+<li style="padding-left:50px; margin-right:-18px;"><a href="/eat/" title="New! Eating in the Coastal Bend" style="color:#a0ea43; font-style:italic; font-weight:bold; font-size:17px; margin-top:0px!important;">New!</a></li>
+<li><a href="/eat/" title="New! Eating in the Coastal Bend"><img src="http://links.caller.com/entertainment/eat/images/nav_logo.png" height="16" border="0" style="padding-top:7px;"></a>
+<ul class="tertiary_nav">
+<li><a href="/restaurants/featured/" title="Features Restaurants">Featured Restaurants</a></li>
+<li><a href="/eat/menus/" title="Menu Guide">Menu Guide</a></li>
+<li><a href="/restaurants/" title="Restaurant Guide">Restaurant Guide</a></li>
+</ul>
+</li>
+
 </ul>
 </li>
 
@@ -854,35 +791,6 @@
 								
 				
 								
-									
-										
-
-
-
-	
-	
-	
-
-
-
-
-<li class="alert_bark alert_bark_breaking_weather alert_bark_img_srchttpwebcallercomellingtonpromosnavhs_football5png">
-	<h2 class="alert_bark_title"><img src="http://web.caller.com/ellington/promos/nav/hs_football5.png"></h2>
-	<p class="alert_bark_content">
-
-<a href="http://prepsports.caller.com/football/boys/teams/34839/2012-2013/">2012 schedules: Carroll</a> &nbsp; •  &nbsp;
-
-<a href="http://prepsports.caller.com/football/boys/teams/24749/2012-2013/">King</a>&nbsp; •  &nbsp;
-
-<a href="http://prepsports.caller.com/football/boys/teams/26750/2012-2013/">Miller</a> &nbsp; •  &nbsp;
-
-<a href="http://prepsports.caller.com/football/boys/teams/26953/2012-2013/">Moody</a> &nbsp; •  &nbsp;
-
-<a href="http://prepsports.caller.com/football/boys/teams/34058/2012-2013/">Ray</a></p>
-</li><!-- end .alert_bark alert_bark_breaking_weather -->
-
-									
-								
 							
 								
 							
@@ -905,16 +813,12 @@
 
 
 
-<li class="alert_bark alert_bark_site alert_bark_img_srchttpwebcallercomellingtonpromosnavcrime3png">
-	<h2 class="alert_bark_title"><img src="http://web.caller.com/ellington/promos/nav/crime3.png"></h2>
+<li class="alert_bark alert_bark_site alert_bark_img_srchttpwebcallercomellingtonpromosnavtopstories_featured_bucketpng">
+	<h2 class="alert_bark_title"><img src="http://web.caller.com/ellington/promos/nav/topstories_featured_bucket.png"></h2>
 	<p class="alert_bark_content">
- <a href="http://www.caller.com/crime/">Crime Stopper Video</a>
- &nbsp; •  &nbsp;
- <a href="http://www.caller.com/crime/">Live scanner</a>
- &nbsp; •  &nbsp;
-<a href="http://www.caller.com/crime/">Crime Tweets</a>
- &nbsp; •  &nbsp;
-<a href="http://www.caller.com/crime/">Nueces Co. most wanted mugs</a></p>
+
+
+<a href="http://www.caller.com/news/2012/dec/23/2012s-top-stories-include-street-repair-a-first/">Pick the top Coastal Bend story of 2012. Take our poll.</a></p>
 </li><!-- end .alert_bark alert_bark_site -->
 									
 										
@@ -928,103 +832,12 @@
 
 
 
-<li class="alert_bark alert_bark_site alert_bark_databases">
-	<h2 class="alert_bark_title">DATABASES</h2>
+<li class="alert_bark alert_bark_site alert_bark_img_srchttpwebcallercomellingtonpromosnavlights_featured_bucketpng">
+	<h2 class="alert_bark_title"><img src="http://web.caller.com/ellington/promos/nav/lights_featured_bucket.png"></h2>
 	<p class="alert_bark_content">
- <a href="http://www.caller.com/data/health/restaurantinspections/">Restaurant inspections</a>
- &nbsp; •  &nbsp;
- <a href="http://www.caller.com/data/politics/presidentialcontributions/">Coastal Bend presidential contributions</a>
- &nbsp; •  &nbsp;
-<a href="http://www.caller.com/streets/map/">Map of Corpus Christi street conditions</a></p>
-</li><!-- end .alert_bark alert_bark_site -->
-									
-										
 
 
-
-	
-	
-	
-
-
-
-
-<li class="alert_bark alert_bark_site alert_bark_salaries">
-	<h2 class="alert_bark_title">SALARIES</h2>
-	<p class="alert_bark_content">
- <a href="http://www.caller.com/data/public-salaries/areacounties/">New numbers for Aransas, Bee and San Patricio counties</a>
- &nbsp; •  &nbsp;
- <a href="http://www.caller.com/data/public-salaries/areacities/">New city salaries for Beeville, Port Aransas, Ingleside</a></p>
-</li><!-- end .alert_bark alert_bark_site -->
-									
-										
-
-
-
-	
-	
-	
-
-
-
-
-<li class="alert_bark alert_bark_site alert_bark_breaking_news_alerts">
-	<h2 class="alert_bark_title">BREAKING NEWS ALERTS</h2>
-	<p class="alert_bark_content">
-<a href="http://support.caller.com/breakingnews/latest/"> Sign up to get Caller.com breaking news alert</a></p>
-</li><!-- end .alert_bark alert_bark_site -->
-									
-										
-
-
-
-	
-	
-	
-
-
-
-
-<li class="alert_bark alert_bark_site alert_bark_click_and_share">
-	<h2 class="alert_bark_title">CLICK AND SHARE</h2>
-	<p class="alert_bark_content">
-<a href="http://clickandshare.caller.com/"> Upload your photos and you might see them in Monday's Caller-Times</a></p>
-</li><!-- end .alert_bark alert_bark_site -->
-									
-										
-
-
-
-	
-	
-	
-
-
-
-
-<li class="alert_bark alert_bark_site alert_bark_follow_us_on_twitter">
-	<h2 class="alert_bark_title">FOLLOW US ON TWITTER</h2>
-	<p class="alert_bark_content">
-<a href="http://www.twitter.com/callerdotcom/"> News</a>  &nbsp; &nbsp; <a href="http://www.twitter.com/callersports/">Sports</a>    &nbsp; &nbsp; <a href="http://www.twitter.com/callerentertain/">Entertainment</a>    &nbsp; &nbsp; <a href="http://www.twitter.com/callereducation/">Education</a>    &nbsp; &nbsp; <a href="http://www.twitter.com/callerpolitics/">Politics</a>    &nbsp; &nbsp; <a href="http://www.twitter.com/callerbusiness/">Business</a></p>
-</li><!-- end .alert_bark alert_bark_site -->
-									
-										
-
-
-
-	
-	
-	
-
-
-
-
-<li class="alert_bark alert_bark_site alert_bark_auto_racing_contest">
-	<h2 class="alert_bark_title">AUTO RACING CONTEST</h2>
-	<p class="alert_bark_content">
-<a href="http://caller.autoracing.upickem.net/autoracing/registration/login.asp"> Sign up for a chance to win an Amazon $1,500 gift certificate</a>
-
-</p>
+<a href="http://apps.callernetwork.com/lights/">SHOW OFF your Holiday lights, or SHARE your favorites! Upload now.</a></p>
 </li><!-- end .alert_bark alert_bark_site -->
 									
 
@@ -1075,9 +888,11 @@
 
 		
 		
+ 		
 		
-		
+
 		<div id="content_wrapper" class="clear">
+
 			
 		
 		<div id="primary_content">
@@ -1218,9 +1033,14 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 			<div id="secondary_content" class="ggnoads">
 				
 					
+				
+					
 						<div class="bigbox_wrapper clear">
 	<div class="bigbox">
-		<div class="adtag" id="BIGBOX_1"><script>yld_mgr.place_ad_here("BIGBOX_1");</script> </div>
+		<div class="adtag" id="BIGBOX_1"><script language="JavaScript">
+        // slotname: BIGBOX_1
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=2;sz=300x250;pos=above' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=2;sz=300x250;pos=above;ord=824767601433497500" type="text/javascript"></script></div>
 	</div> <!-- end .bigbox -->
 </div> <!-- end .bigbox_wrapper -->
 						
@@ -1272,28 +1092,28 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2012/jun/18/corpus-christi-police-boy-8-left-behind-at-on/?partner=popular" title="It took police at least 30 minutes to contact family " rel="nofollow">Corpus Christi police: Boy, 8, left behind at restaurant on Father's Day </a>
-					<span class="date">Updated 6/18/2012 at 4:24 p.m.</span> <a href="/news/2012/jun/18/corpus-christi-police-boy-8-left-behind-at-on/?partner=popular#comments" class="comment_count" rel="nofollow">19 comments</a>
+					<a href="/news/2012/dec/24/letters-to-the-editor-122412/?partner=popular" title=" " rel="nofollow">Letters to the Editor: 12.24.12</a>
+					<span class="date">Published 12/24/2012 at 3:00 a.m.</span> <a href="/news/2012/dec/24/letters-to-the-editor-122412/?partner=popular#comments" class="comment_count" rel="nofollow">66 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/18/letters-to-the-editor-061812/?partner=popular" title=" " rel="nofollow">Letters to the Editor: 06.18.12</a>
-					<span class="date">Published 6/18/2012 at 3:00 a.m.</span> <a href="/news/2012/jun/18/letters-to-the-editor-061812/?partner=popular#comments" class="comment_count" rel="nofollow">97 comments</a>
+					<a href="/news/2012/dec/24/firefighters-shot-killed-while-responding-three-ho/?partner=popular" title="Four volunteer firefighters responding to an intense pre-dawn house fire were shot Monday morning" rel="nofollow">Firefighters shot, killed while responding to three-home blaze in New York (VIDEO)</a>
+					<span class="date">Updated 12/24/2012 at 2:21 p.m.</span> <a href="/news/2012/dec/24/firefighters-shot-killed-while-responding-three-ho/?partner=popular#comments" class="comment_count" rel="nofollow">16 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/18/mother-of-three-dies-her-children-survive-car/?partner=popular" title="One woman was killed and three children were taken to the hospital Sunday after a car crash outside of Sarita. " rel="nofollow">Mother of three dies, her children survive car crash </a>
-					<span class="date">Updated 6/18/2012 at 5:38 a.m.</span> <a href="/news/2012/jun/18/mother-of-three-dies-her-children-survive-car/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
+					<a href="/news/2012/dec/23/the-woefully-misunderstood-ar-15/?partner=popular" title="The anti-gun people who say the AR-15 isn't a hunting rifle should try convincing the deer in my freezer. " rel="nofollow">The woefully misunderstood AR-15</a>
+					<span class="date">Published 12/23/2012 at 3:00 a.m.</span> <a href="/news/2012/dec/23/the-woefully-misunderstood-ar-15/?partner=popular#comments" class="comment_count" rel="nofollow">63 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/16/gar-gantuan-feat-at-lake-corpus-christi/?partner=popular" title="David Sikes' South Texas outdoors column " rel="nofollow">Gar-gantuan feat at Lake Corpus Christi  </a>
-					<span class="date">Updated 6/16/2012 at 11:40 p.m.</span> <a href="/news/2012/jun/16/gar-gantuan-feat-at-lake-corpus-christi/?partner=popular#comments" class="comment_count" rel="nofollow">16 comments</a>
+					<a href="/news/2012/dec/24/south-texas-snapshot-1849-drawing-provides-at/?partner=popular" title="A drawing of the settlement of Corpus Christi's founder recently re-emerged after more than 160 years. " rel="nofollow">South Texas Snapshot: 1849 drawing provides glimpse at early Corpus Christi settlement </a>
+					<span class="date">Published 12/24/2012 at 3:00 a.m.</span> <a href="/news/2012/dec/24/south-texas-snapshot-1849-drawing-provides-at/?partner=popular#comments" class="comment_count" rel="nofollow">13 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/17/father-and-son-seriously-burned-while-fixing-a/?partner=popular" title="A father and son working to refurbish a boat on Father's Day, each were burned in a flash fire about 2 p.m. Sunday. " rel="nofollow">Father and son seriously burned while fixing a boat together on Father's day </a>
-					<span class="date">Updated 6/17/2012 at 8:07 p.m.</span> <a href="/news/2012/jun/17/father-and-son-seriously-burned-while-fixing-a/?partner=popular#comments" class="comment_count" rel="nofollow">1 comment</a>
+					<a href="/news/2012/dec/24/firefighters-battle-flour-bluff-trailer-fire/?partner=popular" title=" The fire started about 2:15 p.m. Monday" rel="nofollow">Firefighters battle Flour Bluff trailer fire; no injuries reported (VIDEO)</a>
+					<span class="date">Updated 12/24/2012 at 4:54 p.m.</span> <a href="/news/2012/dec/24/firefighters-battle-flour-bluff-trailer-fire/?partner=popular#comments" class="comment_count" rel="nofollow">1 comment</a>
 				</li>
 			
 		</ul>
@@ -1305,15 +1125,15 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 			
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2012/jun/17/closet-snoop-mari-mendoza/?partner=popular" title="Closet Snoop: Mari Mendoza" rel="nofollow"><img src="http://media.caller.com/media/img/photos/2012/06/12/469025_t90_70.JPG" width="90" alt="Closet Snoop: Mari Mendoza"> Closet Snoop: Mari Mendoza</a>
+					<a href="/photos/galleries/2012/dec/24/1849-drawing-corpus-christi/?partner=popular" title="1849 drawing of Corpus Christi" rel="nofollow"><img src="http://media.caller.com/media/img/photos/2012/12/21/740382_t90_70.JPG" width="90" alt="1849 drawing of Corpus Christi"> 1849 drawing of Corpus Christi</a>
 				</div> <!-- end .bucket_media_item -->
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2012/jun/17/senior-queen/?partner=popular" title="Senior Queen" rel="nofollow"><img src="http://media.caller.com/media/img/photos/2012/06/17/380346_t90_70.JPG" width="90" alt="Senior Queen"> Senior Queen</a>
+					<a href="/photos/galleries/2012/dec/24/white-christmas-bay-area-fellowship/?partner=popular" title="White Christmas at Bay Area Fellowship" rel="nofollow"><img src="http://media.caller.com/media/img/photos/2012/12/23/208102_t90_70.JPG" width="90" alt="White Christmas at Bay Area Fellowship"> White Christmas at Bay Area Fellowship</a>
 				</div> <!-- end .bucket_media_item -->
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2012/jun/01/june-2012-top-10-most-wanted/?partner=popular" title="JUNE 2012 TOP 10 MOST WANTED" rel="nofollow"><img src="http://media.caller.com/media/img/photos/2012/06/01/01062012_t90_70.jpg" width="90" alt="JUNE 2012 TOP 10 MOST WANTED"> JUNE 2012 TOP 10 MOST WANTED</a>
+					<a href="/photos/galleries/2012/dec/25/feast-sharing/?partner=popular" title="Feast of Sharing" rel="nofollow"><img src="http://media.caller.com/media/img/photos/2012/12/24/7615_t90_70.JPG" width="90" alt="Feast of Sharing"> Feast of Sharing</a>
 				</div> <!-- end .bucket_media_item -->
 			
 
@@ -1327,28 +1147,28 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2012/jun/18/letters-to-the-editor-061812/?partner=popular" title=" " rel="nofollow">Letters to the Editor: 06.18.12</a>
-					<span class="date">Published 6/18/2012 at 3:00 a.m.</span> <a href="/news/2012/jun/18/letters-to-the-editor-061812/?partner=popular#comments" class="comment_count" rel="nofollow">97 comments</a>
+					<a href="/news/2012/dec/24/letters-to-the-editor-122412/?partner=popular" title=" " rel="nofollow">Letters to the Editor: 12.24.12</a>
+					<span class="date">Published 12/24/2012 at 3:00 a.m.</span> <a href="/news/2012/dec/24/letters-to-the-editor-122412/?partner=popular#comments" class="comment_count" rel="nofollow">66 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/15/report-us-offer-immunity-certain-undocumented-immi/?partner=popular" title="The policy change will affect as many as 800,000 immigrants who have lived in fear of deportation" rel="nofollow">U.S. to offer immunity to certain undocumented immigrants</a>
-					<span class="date">Published 6/15/2012 at 8:55 a.m.</span> <a href="/news/2012/jun/15/report-us-offer-immunity-certain-undocumented-immi/?partner=popular#comments" class="comment_count" rel="nofollow">127 comments</a>
+					<a href="/news/2012/dec/23/the-woefully-misunderstood-ar-15/?partner=popular" title="The anti-gun people who say the AR-15 isn't a hunting rifle should try convincing the deer in my freezer. " rel="nofollow">The woefully misunderstood AR-15</a>
+					<span class="date">Published 12/23/2012 at 3:00 a.m.</span> <a href="/news/2012/dec/23/the-woefully-misunderstood-ar-15/?partner=popular#comments" class="comment_count" rel="nofollow">63 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/17/corpus-christi-police-chief-reflects-after-100/?partner=popular" title="Police Chief Floyd Simpson has worked to shake things up in Corpus Christi since his arrival in March. " rel="nofollow">Corpus Christi police chief reflects after 100 days on the job </a>
-					<span class="date">Published 6/17/2012 at 10:06 a.m.</span> <a href="/news/2012/jun/17/corpus-christi-police-chief-reflects-after-100/?partner=popular#comments" class="comment_count" rel="nofollow">62 comments</a>
+					<a href="/news/2012/dec/23/letters-to-the-editor-122312/?partner=popular" title="  " rel="nofollow">Letters to the Editor: 12.23.12</a>
+					<span class="date">Published 12/23/2012 at 3:00 a.m.</span> <a href="/news/2012/dec/23/letters-to-the-editor-122312/?partner=popular#comments" class="comment_count" rel="nofollow">51 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/16/letters-to-the-editor-061612/?partner=popular" title=" " rel="nofollow">Letters to the Editor: 06.16.12</a>
-					<span class="date">Published 6/16/2012 at 3:00 a.m.</span> <a href="/news/2012/jun/16/letters-to-the-editor-061612/?partner=popular#comments" class="comment_count" rel="nofollow">35 comments</a>
+					<a href="/news/2012/dec/22/letters-to-the-editor-122212/?partner=popular" title=" " rel="nofollow">Letters to the Editor: 12.22.12</a>
+					<span class="date">Published 12/22/2012 at 3:00 a.m.</span> <a href="/news/2012/dec/22/letters-to-the-editor-122212/?partner=popular#comments" class="comment_count" rel="nofollow">76 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/18/farenthold-compares-immigration-order-to-amnesty/?partner=popular" title="In a Monday morning interview with CNN, Farenthold was skeptical of federal directive to halt deportation proceedings against certain young immigrants" rel="nofollow">U.S. Rep. Blake Farenthold compares immigration order to amnesty </a>
-					<span class="date">Published 6/18/2012 at 5:52 p.m.</span> <a href="/news/2012/jun/18/farenthold-compares-immigration-order-to-amnesty/?partner=popular#comments" class="comment_count" rel="nofollow">33 comments</a>
+					<a href="/news/2012/dec/23/red-kettle-contributions-fall-for-salvation-army/?partner=popular" title="The Salvation Army brings the sound of the season with a single bell, but this year it rings a little softer. " rel="nofollow">Red kettle contributions fall for Salvation Army of Corpus Christi </a>
+					<span class="date">Published 12/23/2012 at 5:12 a.m.</span> <a href="/news/2012/dec/23/red-kettle-contributions-fall-for-salvation-army/?partner=popular#comments" class="comment_count" rel="nofollow">31 comments</a>
 				</li>
 			
 		</ul>
@@ -1360,28 +1180,28 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2012/jun/16/gar-gantuan-feat-at-lake-corpus-christi/?partner=popular" title="David Sikes' South Texas outdoors column " rel="nofollow">Gar-gantuan feat at Lake Corpus Christi  </a>
-					<span class="date">Published 6/16/2012 at 11:40 p.m.</span> <a href="/news/2012/jun/16/gar-gantuan-feat-at-lake-corpus-christi/?partner=popular#comments" class="comment_count" rel="nofollow">16 comments</a>
+					<a href="/news/2012/dec/20/bay-area-fellowship-to-feature-real-snow-an-ice/?partner=popular" title="Preaching inside a 14-foot snow globe this weekend is just another ordinary service for Bay Area..." rel="nofollow">Bay Area Fellowship to feature real snow, an ice sled and 16-foot snow globe at Christmas services </a>
+					<span class="date">Published 12/20/2012 at 1:39 p.m.</span> <a href="/news/2012/dec/20/bay-area-fellowship-to-feature-real-snow-an-ice/?partner=popular#comments" class="comment_count" rel="nofollow">43 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/14/christus-spohn-health-system-pays-5m-settlement-me/?partner=popular" title="Christus Spohn Health System has paid a $5 million settlement to resolve allegations that six area hospitals submitted false claims to Medicare, allowing them to collect more than they were entitled, the U.S. Attorneys Office announced Thursday." rel="nofollow">Christus Spohn Health System pays $5.1 million to settle Medicare fraud allegations </a>
-					<span class="date">Published 6/14/2012 at 1:42 p.m.</span> <a href="/news/2012/jun/14/christus-spohn-health-system-pays-5m-settlement-me/?partner=popular#comments" class="comment_count" rel="nofollow">16 comments</a>
+					<a href="/news/2012/dec/13/eagle-ford-shale-lights-up-south-texas-as-boom/?partner=popular" title="The drilling boom is now so big you can see it from space" rel="nofollow">Eagle Ford Shale lights up South Texas as boom in oil, gas production continues</a>
+					<span class="date">Published 12/13/2012 at 4:20 p.m.</span> <a href="/news/2012/dec/13/eagle-ford-shale-lights-up-south-texas-as-boom/?partner=popular#comments" class="comment_count" rel="nofollow">15 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/11/sheriff-dad-kills-4-year-old-daughters-alleged-sex/?partner=popular" title="Attacker was visiting South Texas family to help with horses" rel="nofollow">Sheriff: Dad kills 4-year-old daughter's alleged sexual attacker</a>
-					<span class="date">Published 6/11/2012 at 12:46 p.m.</span> <a href="/news/2012/jun/11/sheriff-dad-kills-4-year-old-daughters-alleged-sex/?partner=popular#comments" class="comment_count" rel="nofollow">75 comments</a>
+					<a href="/news/2012/dec/18/bishop-emeritus-edmond-carmody-to-return-to-in/?partner=popular" title="Carmody, 78, served as bishop in Tyler for about seven years" rel="nofollow">Bishop Emeritus Edmond Carmody to return to Tyler after service in Corpus Christi </a>
+					<span class="date">Published 12/18/2012 at 5:16 p.m.</span> <a href="/news/2012/dec/18/bishop-emeritus-edmond-carmody-to-return-to-in/?partner=popular#comments" class="comment_count" rel="nofollow">8 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/12/justice-department-recommends-corpus-christi-pay/?partner=popular" title="In late 2009, federal officials sent a letter to the city stating they were investigating the department's low ratio of female officers" rel="nofollow">Justice Department recommends Corpus Christi Police Department pay $700K for female discrimination </a>
-					<span class="date">Published 6/12/2012 at 5:15 a.m.</span> <a href="/news/2012/jun/12/justice-department-recommends-corpus-christi-pay/?partner=popular#comments" class="comment_count" rel="nofollow">63 comments</a>
+					<a href="/news/2012/dec/15/mall-walker-found-slain-in-sunrise-mall-bathroom/?partner=popular" title="A 39-year-old man is in custody" rel="nofollow">Mall-walker found slain in Sunrise Mall bathroom </a>
+					<span class="date">Published 12/15/2012 at 3:19 p.m.</span> <a href="/news/2012/dec/15/mall-walker-found-slain-in-sunrise-mall-bathroom/?partner=popular#comments" class="comment_count" rel="nofollow">119 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2012/jun/10/local-volunteer-faces-child-sex-allegations/?partner=popular" title="A doctor who retired into a life of community service in Corpus Christi has been sued in Oregon on allegations that he sexually abused a teenage boy in the 1990s. " rel="nofollow">Corpus Christi volunteer faces child sex allegations</a>
-					<span class="date">Published 6/10/2012 at 6:00 a.m.</span> <a href="/news/2012/jun/10/local-volunteer-faces-child-sex-allegations/?partner=popular#comments" class="comment_count" rel="nofollow">0 comments</a>
+					<a href="/news/2012/dec/23/windstorm-eligibility-changes-mean-costly-for/?partner=popular" title="More than 3,000 Coastal Bend policyholders stand to lose their wind and hailstorm coverage through the Texas Windstorm Insurance Association" rel="nofollow">Windstorm eligibility changes mean costly upgrades for some homeowners </a>
+					<span class="date">Published 12/23/2012 at 7:36 a.m.</span> <a href="/news/2012/dec/23/windstorm-eligibility-changes-mean-costly-for/?partner=popular#comments" class="comment_count" rel="nofollow">23 comments</a>
 				</li>
 			
 		</ul>
@@ -1391,6 +1211,8 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 </div><!-- end #most_popular -->
 
 
+
+					
 					
 					
 					
@@ -1420,20 +1242,20 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 		<div class="sidebar_current_weather clear">
 	
 			<div id="sidebar_current_icon">
-				<img src="http://media.caller.com/corp_assets/asphalt/img/weather/icons/35_170.png" width="120px" alt="Partly Cloudy">
+				<img src="http://media.caller.com/corp_assets/asphalt/img/weather/icons/32_170.png" width="120px" alt="Partly Cloudy and Windy">
 			</div> <!-- end #radar -->
 	
 			<div id="sidebar_current_weather">
 				<span class="current_temp_label">Currently</span>
-				<span class="current_temp">84<span class="current_temp_degree">°</span></span>
-				<span class="current_conditions">Partly Cloudy</span>
-				<span class="current_wind">Wind: SE 17mph</span>
+				<span class="current_temp">80<span class="current_temp_degree">°</span></span>
+				<span class="current_conditions">Partly Cloudy and Windy</span>
+				<span class="current_wind">Wind: W 31mph</span>
 			</div> <!-- end #current_conditions -->
 	
 			<div id="sidebar_hi_low">
 				<span class="today_temp_label">Today</span>
-				<span class="hi_temp">89<span class="current_temp_degree">°</span></span>
-				<span class="lo_temp">77<span class="current_temp_degree">°</span></span>
+				<span class="hi_temp">77<span class="current_temp_degree">°</span></span>
+				<span class="lo_temp">38<span class="current_temp_degree">°</span></span>
 			</div> <!-- end #hi_low -->
 			
 		</div> <!-- end #weather -->
@@ -1443,48 +1265,48 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 	<div id="sidebar_weather_3day" class="bucket_secondary preventFOUC">
 		<div id="sidebar_weather_forecast_3day" class="clear">
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Tue</div><div class="sidebar_weather_day">09:00 AM</div>
-				<img src="http://media.caller.com/corp_assets/asphalt/img/weather/icons/16_100.png" alt="Mostly Cloudy Thunderstorms">
-				<div class="sidebar_forecast_conditions">Mostly Cloudy Thunderstorms</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">85°</span></div>
+				<div class="sidebar_weather_day">Tue</div><div class="sidebar_weather_day">11:00 PM</div>
+				<img src="http://media.caller.com/corp_assets/asphalt/img/weather/icons/34_100.png" alt="Mostly Clear">
+				<div class="sidebar_forecast_conditions">Mostly Clear</div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">46°</span></div>
 			</div>
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Tue</div><div class="sidebar_weather_day">09:00 PM</div>
-				<img src="http://media.caller.com/corp_assets/asphalt/img/weather/icons/15_100.png" alt="Thunderstorms">
-				<div class="sidebar_forecast_conditions">Thunderstorms</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">83°</span></div>
+				<div class="sidebar_weather_day">Wed</div><div class="sidebar_weather_day">11:00 AM</div>
+				<img src="http://media.caller.com/corp_assets/asphalt/img/weather/icons/3_100.png" alt="Partly Sunny">
+				<div class="sidebar_forecast_conditions">Partly Sunny</div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">48°</span></div>
 			</div><!-- End sidebar_forecast_day -->
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Wed</div><div class="sidebar_weather_day">09:00 AM</div>
-				<img src="http://media.caller.com/corp_assets/asphalt/img/weather/icons/15_100.png" alt="Thunderstorms">
-				<div class="sidebar_forecast_conditions">Thunderstorms</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">81°</span></div>
+				<div class="sidebar_weather_day">Wed</div><div class="sidebar_weather_day">11:00 PM</div>
+				<img src="http://media.caller.com/corp_assets/asphalt/img/weather/icons/34_100.png" alt="Mostly Clear">
+				<div class="sidebar_forecast_conditions">Mostly Clear</div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">40°</span></div>
 			</div><!-- End sidebar_forecast_day -->
 			<div class="clear"></div>
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding">
-						<p>Feels Like: 90°</p>
-						<p>Humidity: 63%</p>
-						<p>Precip: 40%</p>
+						<p>Feels Like: 46°</p>
+						<p>Humidity: 49%</p>
+						<p>Precip: 0%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding">
-						<p>Feels Like: 88°</p>
-						<p>Humidity: 69%</p>
-						<p>Precip: 30%</p>
+						<p>Feels Like: 48°</p>
+						<p>Humidity: 42%</p>
+						<p>Precip: 0%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding last">
-						<p>Feels Like: 86°</p>
-						<p>Humidity: 77%</p>
-						<p>Precip: 50%</p>
+						<p>Feels Like: 37°</p>
+						<p>Humidity: 79%</p>
+						<p>Precip: 5%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
@@ -1498,50 +1320,50 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 			
 			
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://clickandshare.caller.com/Media/View/2366454"><img src="http://c34222.r22.cf0.rackcdn.com/358b137e-5287-4062-98ae-1f722bfb278c.jpg"></a> <a href="http://clickandshare.caller.com/Media/View/2366454" title="Solar Eclipse 05 20 2012">Solar Eclipse 05 20 2012 </a>
+	<a href="http://clickandshare.caller.com/Media/View/2795920"><img src="http://a05579b1b3cca7a69ff4-7250fbd4027ea93be8cfd439f360b464.r0.cf1.rackcdn.com/9d1e410d-dacc-4fb3-a1c2-0de0c7f61359.jpg"></a> <a href="http://clickandshare.caller.com/Media/View/2795920" title="03 Nov 2012 Sat night storm">03 Nov 2012 Sat night storm </a>
 	<div class="date ugc_sidebar">
-		5/21/12<br>
-		12:21 a.m.<br>
+		11/4/12<br>
+		10:11 p.m.<br>
 	</div>
 </div>
 
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://clickandshare.caller.com/Media/View/2366453"><img src="http://c34222.r22.cf0.rackcdn.com/f12995a9-b95f-4719-8be7-c0729d08d304.jpg"></a> <a href="http://clickandshare.caller.com/Media/View/2366453" title="Solar Eclipse 05 20 2012">Solar Eclipse 05 20 2012 </a>
+	<a href="http://clickandshare.caller.com/Media/View/2795919"><img src="http://a05579b1b3cca7a69ff4-7250fbd4027ea93be8cfd439f360b464.r0.cf1.rackcdn.com/f8c1f067-d933-43b5-9c0b-2771f55e4ed4.jpg"></a> <a href="http://clickandshare.caller.com/Media/View/2795919" title="03 Nov 2012 Sat night storm">03 Nov 2012 Sat night storm </a>
 	<div class="date ugc_sidebar">
-		5/21/12<br>
-		12:21 a.m.<br>
+		11/4/12<br>
+		10:11 p.m.<br>
 	</div>
 </div>
 
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://clickandshare.caller.com/Media/View/2366452"><img src="http://c34222.r22.cf0.rackcdn.com/9e1d1483-a352-4701-a2ba-d30048acac76.jpg"></a> <a href="http://clickandshare.caller.com/Media/View/2366452" title="Solar Eclipse 05 20 2012">Solar Eclipse 05 20 2012 </a>
+	<a href="http://clickandshare.caller.com/Media/View/2795918"><img src="http://a05579b1b3cca7a69ff4-7250fbd4027ea93be8cfd439f360b464.r0.cf1.rackcdn.com/fe8d2eb4-5cd9-4891-baf9-be64a53eca3e.jpg"></a> <a href="http://clickandshare.caller.com/Media/View/2795918" title="03 Nov 2012 Sat night storm">03 Nov 2012 Sat night storm </a>
 	<div class="date ugc_sidebar">
-		5/21/12<br>
-		12:21 a.m.<br>
+		11/4/12<br>
+		10:11 p.m.<br>
 	</div>
 </div>
 
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://clickandshare.caller.com/Media/View/2366451"><img src="http://c34222.r22.cf0.rackcdn.com/9496e69e-6f07-4052-bff7-cfad0386c249.jpg"></a> <a href="http://clickandshare.caller.com/Media/View/2366451" title="Solar Eclipse 05 20 2012">Solar Eclipse 05 20 2012 </a>
+	<a href="http://clickandshare.caller.com/Media/View/2795808"><img src="http://a05579b1b3cca7a69ff4-7250fbd4027ea93be8cfd439f360b464.r0.cf1.rackcdn.com/4cae4ebc-4ae5-4920-9c57-9f545d69edc0.jpg"></a> <a href="http://clickandshare.caller.com/Media/View/2795808" title="November t-storm">November t-storm </a>
 	<div class="date ugc_sidebar">
-		5/21/12<br>
-		12:21 a.m.<br>
+		11/4/12<br>
+		8:54 p.m.<br>
 	</div>
 </div>
 
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://clickandshare.caller.com/Media/View/2366449"><img src="http://c34222.r22.cf0.rackcdn.com/82e9d09f-6e35-44f1-8fe4-28d3d0a89d12.jpg"></a> <a href="http://clickandshare.caller.com/Media/View/2366449" title="Solar Eclipse 05 20 2012">Solar Eclipse 05 20 2012 </a>
+	<a href="http://clickandshare.caller.com/Media/View/2795807"><img src="http://a05579b1b3cca7a69ff4-7250fbd4027ea93be8cfd439f360b464.r0.cf1.rackcdn.com/6f0422ff-c02f-41df-a6de-5dfd00cccb47.jpg"></a> <a href="http://clickandshare.caller.com/Media/View/2795807" title="November t-storm">November t-storm </a>
 	<div class="date ugc_sidebar">
-		5/21/12<br>
-		12:21 a.m.<br>
+		11/4/12<br>
+		8:54 p.m.<br>
 	</div>
 </div>
 
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://clickandshare.caller.com/Media/View/2366411"><img src="http://c34222.r22.cf0.rackcdn.com/8df56fa7-5927-4689-8ca9-947ec30746d1.jpg"></a> <a href="http://clickandshare.caller.com/Media/View/2366411" title="solar eclipse May 20 2012">solar eclipse May 20 2012 </a>
+	<a href="http://clickandshare.caller.com/Media/View/2795806"><img src="http://a05579b1b3cca7a69ff4-7250fbd4027ea93be8cfd439f360b464.r0.cf1.rackcdn.com/7aabe007-10b5-44e2-8f68-bb77cff89524.jpg"></a> <a href="http://clickandshare.caller.com/Media/View/2795806" title="November t-storm">November t-storm </a>
 	<div class="date ugc_sidebar">
-		5/20/12<br>
-		11:52 p.m.<br>
+		11/4/12<br>
+		8:54 p.m.<br>
 	</div>
 </div>
 
@@ -1556,7 +1378,10 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 	<div class="sidebar_more_link sidebar_more_link_weather">
 		<div class="sidebar_weather_ad_rule"></div>
 		<div id="sidebar_weather_ad">
-			<div class="adtag" id="WEATHER_SPONSOR"><script>yld_mgr.place_ad_here("WEATHER_SPONSOR");</script> </div>
+			<div class="adtag" id="WEATHER_SPONSOR"><script language="JavaScript">
+        // slotname: WEATHER_SPONSOR
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=4;sz=120x30;pos=below' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=4;sz=120x30;pos=below;ord=824767601433497500" type="text/javascript"></script></div>
 		</div>
 		<a href="/weather/" title="More Corpus Christi Weather">More Weather »</a>
 	</div>
@@ -1582,20 +1407,20 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 	<ul class="cal_tab_header clear">
 		
 			<li class="cal_tab_first ui-tabs-selected">
-				<a href="#Jun18" value="2012-06-18">
-					<span class="cal_tab_day">Monday</span> <span class="cal_tab_month">Jun</span> <span class="cal_tab_date">18</span>
+				<a href="#Dec25" value="2012-12-25">
+					<span class="cal_tab_day">Tuesday</span> <span class="cal_tab_month">Dec</span> <span class="cal_tab_date">25</span>
 				</a>
 			</li>
 		
 			<li>
-				<a href="#Jun19" value="2012-06-19">
-					<span class="cal_tab_day">Tuesday</span> <span class="cal_tab_month">Jun</span> <span class="cal_tab_date">19</span>
+				<a href="#Dec26" value="2012-12-26">
+					<span class="cal_tab_day">Wednesday</span> <span class="cal_tab_month">Dec</span> <span class="cal_tab_date">26</span>
 				</a>
 			</li>
 		
 			<li>
-				<a href="#Jun20" value="2012-06-20">
-					<span class="cal_tab_day">Wednesday</span> <span class="cal_tab_month">Jun</span> <span class="cal_tab_date">20</span>
+				<a href="#Dec27" value="2012-12-27">
+					<span class="cal_tab_day">Thursday</span> <span class="cal_tab_month">Dec</span> <span class="cal_tab_date">27</span>
 				</a>
 			</li>
 		
@@ -1608,71 +1433,31 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 	</ul>
 	
 	
-		<div id="Jun18" class="bucket_secondary">
+		<div id="Dec25" class="bucket_secondary">
 			
 			<ul class="sidebar_list">
 				
 					<li class="odd clear">
-						<h4><a href="/events/goto/10850/" class="browse_list_title" title="Summer Stock Camp - Rockin' on Broadway - InStep Dance Studios">Summer Stock Camp - Rockin' on Broadway - InStep Dance Studios</a> <a href="" class="browse_list_venue" title="">InStep Dance Studios</a></h4>
-						<h5 class="browse_list_time">8:30 a.m.</h5>
-					</li>			
-				
-					<li class="even clear">
-						<h4><a href="/events/goto/10874/" class="browse_list_title" title="Young Authors’ Writing Camp/Island Writers’ Workshop">Young Authors’ Writing Camp/Island Writers’ Workshop</a> <a href="/places/-/" class="browse_list_venue" title=" ">Texas A&amp;M University-Corpus Christi</a></h4>
-						<h5 class="browse_list_time">8:30 a.m.</h5>
-					</li>			
-				
-					<li class="odd clear">
-						<h4><a href="/events/goto/10711/" class="browse_list_title" title="Watercolor and Movement">Watercolor and Movement</a> <a href="/places/-/" class="browse_list_venue" title=" ">Art Museum of South Texas</a></h4>
-						<h5 class="browse_list_time">9 a.m.</h5>
-					</li>			
-				
-					<li class="even clear">
-						<h4><a href="/events/goto/10808/" class="browse_list_title" title="Birding 101 for Kids">Birding 101 for Kids</a> <a href="/places/-/" class="browse_list_venue" title=" ">different locations</a></h4>
-						<h5 class="browse_list_time">9 a.m.</h5>
-					</li>			
-				
-					<li class="odd clear">
-						<h4><a href="/events/goto/10845/" class="browse_list_title" title="Little Steps Barbie Camp at InStep Dance Studios">Little Steps Barbie Camp at InStep Dance Studios</a> <a href="/places/-/" class="browse_list_venue" title=" "> </a></h4>
-						<h5 class="browse_list_time">9 a.m.</h5>
-					</li>			
-				
-			
-			</ul>
-			
-			<div class="sidebar_more_link sidebar_more_link_events">
-				<a href="/events/" title="More Corpus Christi Events">More Events »</a>
-			</div>
-			
-		</div> <!-- end #Jun18 -->
-	
-		<div id="Jun19" class="bucket_secondary preventFOUC">
-			
-			<ul class="sidebar_list">
-				
-					<li class="even clear">
-						<h4><a href="/events/goto/10533/" class="browse_list_title" title="Art Center summer fine art camps">Art Center summer fine art camps</a> <a href="/places/-/" class="browse_list_venue" title=" ">Art Center of Corpus Christi</a></h4>
+						<h4><a href="/events/goto/9419/" class="browse_list_title" title="Corpus Christi Parks &amp; Recreation Department Classes">Corpus Christi Parks &amp; Recreation Department Classes</a> <a href="/places/-/" class="browse_list_venue" title=" ">different times/locations</a></h4>
 						<h5 class="browse_list_time"></h5>
 					</li>			
 				
-					<li class="odd clear">
-						<h4><a href="/events/goto/10874/" class="browse_list_title" title="Young Authors’ Writing Camp/Island Writers’ Workshop">Young Authors’ Writing Camp/Island Writers’ Workshop</a> <a href="/places/-/" class="browse_list_venue" title=" ">Texas A&amp;M University-Corpus Christi</a></h4>
-						<h5 class="browse_list_time">8:30 a.m.</h5>
-					</li>			
+			
+			</ul>
+			
+			<div class="sidebar_more_link sidebar_more_link_events">
+				<a href="/events/" title="More Corpus Christi Events">More Events »</a>
+			</div>
+			
+		</div> <!-- end #Dec25 -->
+	
+		<div id="Dec26" class="bucket_secondary preventFOUC">
+			
+			<ul class="sidebar_list">
 				
 					<li class="even clear">
-						<h4><a href="/events/goto/10857/" class="browse_list_title" title="Nature Camps at the gardens">Nature Camps at the gardens</a> <a href="/places/-/" class="browse_list_venue" title=" ">South Texas Botanical Gardens &amp; Nature Center</a></h4>
-						<h5 class="browse_list_time">9 a.m.</h5>
-					</li>			
-				
-					<li class="odd clear">
-						<h4><a href="/events/goto/10769/" class="browse_list_title" title="Arts in Motion Summer Camp">Arts in Motion Summer Camp</a> <a href="/places/-/" class="browse_list_venue" title=" ">3445 S. Alameda St. </a></h4>
-						<h5 class="browse_list_time">1 p.m.</h5>
-					</li>			
-				
-					<li class="even clear">
-						<h4><a href="/events/goto/10792/" class="browse_list_title" title="Eight-week Diabetes Prevention">Eight-week Diabetes Prevention</a> <a href="/places/-/" class="browse_list_venue" title=" ">Antonio E. Garcia Arts &amp; Education Center, TAMUCC College of Education, 2021 Agnes St.,</a></h4>
-						<h5 class="browse_list_time">5:30 p.m.</h5>
+						<h4><a href="/events/goto/9419/" class="browse_list_title" title="Corpus Christi Parks &amp; Recreation Department Classes">Corpus Christi Parks &amp; Recreation Department Classes</a> <a href="/places/-/" class="browse_list_venue" title=" ">different times/locations</a></h4>
+						<h5 class="browse_list_time"></h5>
 					</li>			
 				
 			
@@ -1682,35 +1467,20 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 				<a href="/events/" title="More Corpus Christi Events">More Events »</a>
 			</div>
 			
-		</div> <!-- end #Jun19 -->
+		</div> <!-- end #Dec26 -->
 	
-		<div id="Jun20" class="bucket_secondary preventFOUC">
+		<div id="Dec27" class="bucket_secondary preventFOUC">
 			
 			<ul class="sidebar_list">
 				
 					<li class="odd clear">
-						<h4><a href="/events/goto/10533/" class="browse_list_title" title="Art Center summer fine art camps">Art Center summer fine art camps</a> <a href="/places/-/" class="browse_list_venue" title=" ">Art Center of Corpus Christi</a></h4>
+						<h4><a href="/events/goto/11655/" class="browse_list_title" title="First United Methodist Dance Classes">First United Methodist Dance Classes</a> <a href="" class="browse_list_venue" title="">First United Methodist Church</a></h4>
+						<h5 class="browse_list_time">7 p.m.</h5>
+					</li>			
+				
+					<li class="even clear">
+						<h4><a href="/events/goto/9419/" class="browse_list_title" title="Corpus Christi Parks &amp; Recreation Department Classes">Corpus Christi Parks &amp; Recreation Department Classes</a> <a href="/places/-/" class="browse_list_venue" title=" ">different times/locations</a></h4>
 						<h5 class="browse_list_time"></h5>
-					</li>			
-				
-					<li class="even clear">
-						<h4><a href="/events/goto/10874/" class="browse_list_title" title="Young Authors’ Writing Camp/Island Writers’ Workshop">Young Authors’ Writing Camp/Island Writers’ Workshop</a> <a href="/places/-/" class="browse_list_venue" title=" ">Texas A&amp;M University-Corpus Christi</a></h4>
-						<h5 class="browse_list_time">8:30 a.m.</h5>
-					</li>			
-				
-					<li class="odd clear">
-						<h4><a href="/events/goto/10857/" class="browse_list_title" title="Nature Camps at the gardens">Nature Camps at the gardens</a> <a href="/places/-/" class="browse_list_venue" title=" ">South Texas Botanical Gardens &amp; Nature Center</a></h4>
-						<h5 class="browse_list_time">9 a.m.</h5>
-					</li>			
-				
-					<li class="even clear">
-						<h4><a href="/events/goto/10769/" class="browse_list_title" title="Arts in Motion Summer Camp">Arts in Motion Summer Camp</a> <a href="/places/-/" class="browse_list_venue" title=" ">3445 S. Alameda St. </a></h4>
-						<h5 class="browse_list_time">1 p.m.</h5>
-					</li>			
-				
-					<li class="odd clear">
-						<h4><a href="/events/goto/10798/" class="browse_list_title" title="Vacation Bible School at Oak Park">Vacation Bible School at Oak Park</a> <a href="/places/-/" class="browse_list_venue" title=" ">631 Villa Drive</a></h4>
-						<h5 class="browse_list_time">5:30 p.m.</h5>
 					</li>			
 				
 			
@@ -1720,7 +1490,7 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 				<a href="/events/" title="More Corpus Christi Events">More Events »</a>
 			</div>
 			
-		</div> <!-- end #Jun20 -->
+		</div> <!-- end #Dec27 -->
 	
 	
 	<div class="ajax_loader"><img src="http://media.caller.com/corp_assets/asphalt/img/ajax-loader.gif" alt="Loading content"><p>Loading...</p></div>
@@ -1744,7 +1514,10 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 					
 						<div class="bigbox_wrapper clear">
 	<div class="bigbox">
-		<div class="adtag" id="BIGBOX_2"><script>yld_mgr.place_ad_here("BIGBOX_2");</script> </div>
+		<div class="adtag" id="BIGBOX_2"><script language="JavaScript">
+        // slotname: BIGBOX_2
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=3;sz=300x250;pos=below' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=3;sz=300x250;pos=below;ord=824767601433497500" type="text/javascript"></script></div>
 	</div> <!-- end .bigbox -->
 </div> <!-- end .bigbox_wrapper -->
 
@@ -1760,6 +1533,7 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 			</div> <!-- end #secondary_content -->
 		
 		
+
 
 		</div><!-- end #content_wrapper -->
 		
@@ -1862,8 +1636,7 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 <dl>
 	<dt>Useful Links:</dt>
 	<dd><a href="http://www.caller.com/place_ad/" title="Place a Classified Ad">Place a Classified Ad</a></dd>
-	<dd><a href="http://www.caller.com/backphotos/" title="Order Photo Reprints">Photo Reprints</a></dd>
-	<dd><a href="http://www.caller.com/backissues/" title="Order Back Issues">Back Issues</a></dd>
+	<dd><a href="http://apps.callernetwork.com/reprints/" title="Order Photo Reprints">Photo Reprints and Back Issues</a></dd>
 	<dd><a href="http://www.caller.com/archives/" title="Newspaper archives">Archives</a></dd>
 </dl>
 <dl>
@@ -2079,6 +1852,7 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 	<script type="text/javascript" src="http://media.caller.com/corp_assets/asphalt/js/swfobject-2.2.js"></script>
 	<script type="text/javascript">jSING.videoPlayer.embedPlayers();</script>
 	
+
 
 
 
