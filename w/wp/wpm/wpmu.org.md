@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpmu.org privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628173849id_/http%3A//wpmu.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpmu.org privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225130409id_/http%3A//wpmu.org/privacy) for the most accurate reproduction.*
 
-# Privacy | Wordpress Themes, Plugins, Tutorials & More - WPMU.org
+# Privacy | WordPress Tutorials, Themes, Plugins & More - WPMU.org
 
 ## When accessing our Website, WPMU.org will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
