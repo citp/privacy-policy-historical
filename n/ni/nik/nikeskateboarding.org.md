@@ -1,37 +1,100 @@
-> *The following text is extracted and transformed from the nikeskateboarding.org privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612105844id_/http%3A//n-sb.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikeskateboarding.org privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225102936id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy | N-SB
+# Legal Agreement
 
-N-SB is committed to respecting your privacy. Please read the following privacy policy to understand how your personal information will be treated if it is collected through this Web site (the "Site") by N-SB. Except as explicitly provided herein, this Privacy Policy does not apply to the practices of companies that N-SB does not own or control, or to people that N-SB does not employ or manage. This Privacy Policy may change from time to time so please check back periodically.
+**Go Daddy Respects Your Privacy**
 
-Any dispute over privacy is subject to this Privacy Policy and our [Terms of Service](https://web.archive.org/terms). Please note that the use of information that we gather is subject to the Privacy Policy in effect at the time of use. You should check this Site frequently to see recent changes in this Site's Privacy Policy and its Terms of Service.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-The current version of this Privacy Policy is dated November 1, 2010.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-1\. what personal information is collected from me?
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-the types of personal information collected on these pages may include, but are not limited to, your name, email address, standard contact information including addresses and phone numbers, transactional information, and financial information such as credit card or bank account numbers. you also may provide additional information to us when you conduct a search on this Site, place an order for merchandise, complete a questionnaire or an entry form for sweepstakes or contests, and participate in forums and chat rooms or other community features. we may also ask you to voluntarily provide us with information regarding, for example, your personal or professional interests, demographics, experiences with the services we provide and contact preferences. wherever N-SB collects personal information, we make an effort to include a link to this Privacy Policy on that page. N-SB may gather and collect any of the following: (1) IP addresses (the Internet address of a computer) to track a user's session while the user remains anonymous, (2) computer and connection information such as browser type and version, operating system, and platform, (3) purchase history, (4) the full Uniform Resource Locator (URL) clickstream to, through, and from this Site, including date and time, (5) cookie number, and (6) Web pages and/or products you viewed or searched for. N-SB analyzes this data for certain trends in statistics, such as which parts of this Site users visit and how long they spend there. in general, we do not link your IP addresses to anything personally identifiable to you. during some visits N-SB may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. N-SB gathers and stores certain types of information whenever you use this Site or the services made available hereon (the "Services"). for example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses this Site. various third party companies offer utilities that are designed to allow or help you visit and use Web sites anonymously; please note, however, that N-SB may not be able to provide you with a personalized experience on this Site if you choose to utilize any such utilities.  2\. what are cookies and how are they used by N-SB?
+**Information Collection and Use**
 
-N-SB may place Internet cookies on your hard drive. internet cookies are small files that may be placed on your hard disk for record-keeping purposes. cookies are used to (a) remind us of who you are in order to deliver you better service, (b) estimate our audience size by determining repeat usage of the Web site to help target advertisements based on user interests and behavior, (c) track your progress and entries in promotions, sweepstakes and contests, if any, and (d) measure certain traffic patterns for use as a research tool to understand how our users' habits are similar or different from one another. you can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. by not accepting cookies, some Web pages of this Site may not display properly or you may not be permitted to access certain information.  3\. does N-SB use Web beacons, and, if so, how?
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-N-SB may employ Web beacons (also called single-pixel gifs), which are customized links or similar technologies, when sending you newsletters or promotional emails. web beacons allow N-SB to (a) determine whether you have opened, or acted upon, a promotional email and which links you have clicked on in order to deliver to you more focused email communications and other information, (b) allow N-SB to count the number of users who have visited certain Web pages and effectively deliver co-branded services, and (c) enable N-SB to compile aggregated statistics and determine the efficacy of promotions by using Web beacons from third parties, without allowing such third parties to use Web beacons on this Site to collect or access your personal information. We may allow third-parties, including our authorized service providers, IAC companies, advertising companies, and ad networks, to display advertisements or provide applications and services on our site. These companies may use tracking technologies, such as cookies or web beacons, to collect information about users who view or interact with their advertisements or use their applications and services. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and personalized online experiences and gauge their effectiveness. Some of the third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies.  4\. how is my information used?
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-N-SB will not sell, rent or lease your personally identifiable information to others without your consent, except as provided in this Privacy Policy. in general, the information you provide will be used to support your customer relationship with N-SB. we want to help you quickly find information regarding the Services on this Site and alert you to specific offers, updated information, and other new products and Services that are available. accordingly, we may send you direct mailings or contact you by telephone about our various products and Services or other products and services we feel may be of interest to you. if you do not want to receive such mailings, simply "opt-out" by the means provided for (if any) in the mailings or by contacting info[at]n-sb[dot]org. notwithstanding the foregoing, N-SB does research on our users demographics, interests and behavior based on the information provided to us during your use of this Site. this research is compiled and analyzed on an aggregated basis. aggregated data does not include personally identifiable information. N-SB may share this aggregated data with others. N-SB also may combine your information with information we collect or receive from other companies and sources (such as demographic data) to improve and personalize our services.  5\. what does "opt-out" mean?
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-to "opt-out" means that you have notified N-SB that we no longer have permission to use your information for a particular purpose. for example, when we send you information on a new product, you will be given the opportunity to "opt-out" of receiving such information in the future.  6\. who is collecting my information?
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-information is collected on the Site by or on behalf of N-SB. if data is being collected and/or maintained by any N-SB other than N-SB or an agent for N-SB, you will be notified prior to the time of the data collection or transfer. if you do not want your data to be shared, you can choose not to allow the transfer by not using that particular Service or purchasing those particular goods. please be aware that advertisers that may have links on this Site may collect personal information about you through the use of cookies, JavaScript, Web beacons, and other technologies. N-SB does not have any control over or access to such technologies that may be used by these advertisers, and the information practices of those Web sites linked to this Site either through advertisements or other hyperlinks are not covered by this Privacy Policy. N-SB does not, however, provide any personally identifiable information about you to these advertisers.  7\. with whom does N-SB share my information?
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-N-SB may share the personal data you provide or the information gathered by N-SB to any party with your consent or, in any event, to N-SB subsidiaries, agents, contractors and our business partners. N-SB also may share information with the following groups: (a) affiliated business which N-SB does not control but with which it engages in joint and co-branded offerings, (b) third party service providers in order to facilitate the performance of only those functions which are assigned to them, such as website operation and maintenance, order fulfillment, data analysis, marketing assistance, provision of search results and links, credit card payment processing, and customer service, and (c) entities with which N-SB may merge or which may acquire all or substantially all of N-SB's assets, as customer information likely will be one of the transferred assets. in addition, N-SB believes it is necessary to share information in order to (x) investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, and violations of the Terms of Service, (y) respond to subpoenas, court orders, or legal process, and (z) establish or exercise our legal rights, or defend against legal claims, and as otherwise required by law. except as provided above or in the event of a merger, consolidation, or sale of all or substantially all of N-SB's assets, we will not share any of your information with any third party without your permission.  8\. how do I access, update or delete my information?
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-you can request the individual information that N-SB has collected about you, correct factual inaccuracies in your information, remove personal information from N-SB's databases and/or update your personal information here or by contacting info[at]n-sb[dot]org.  9\. what else should I know about my privacy?
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-third party Internet Web sites and services accessible through this Site have separate privacy and data collection practices, independent of us. N-SB has no responsibility or liability for these independent policies or actions. please be careful and responsible online. if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. while we strive to protect your information, N-SB cannot ensure or warrant the security of any information through the transmission process, and any transmission by you of information is done at your own risk.  10\. children.
+**Security**
 
-The Site is not intended for use by children. We will not knowingly collect any personal information submitted by visitors to the Site who are under the age of 13.  11\. security.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-N-SB uses its best efforts to protect your personal information and, to that end, uses tools such as encryption, passwords, and physical security to protect your personal information against unauthorized access and disclosure. however, no website can be absolutely secure, and third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from this Site. therefore, although N-SB works very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain absolutely private.  12\. other legal notices.
+**Updating Your Information**
 
-any dispute over privacy is subject to this Privacy Policy and our Terms of Service, including limitations on damages and application of the law of the Commonwealth of Virginia.  13\. contact us
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-if you have any concern about your privacy in connection with this policy, please send a thorough description to info[at]n-sb[dot]org, and we will try to resolve it. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+
+      iii.      You may call us at: (480) 505-8800
+
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
