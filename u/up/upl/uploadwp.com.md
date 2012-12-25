@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uploadwp.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617210058id_/http%3A//uploadwp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadwp.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225091234id_/http%3A//uploadwp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Upload Wordpress
+# Privacy Policy | Upload WordPress
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -25,4 +25,5 @@ If you have any questions regarding the privacy policy of UploadWp.com then you 
 
 Last updated Tuesday, 30 May 2012 19:19
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fuploadwp.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fuploadwp.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)|   
+---|---
