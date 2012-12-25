@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatwisconsincheese.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607191040id_/http%3A//www.eatwisconsincheese.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatwisconsincheese.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225230613id_/http%3A//www.eatwisconsincheese.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 ## INTRODUCTION
 
-The policies below are intended to clearly inform our users about our privacy practices and procedures and are applicable to EatWisconsinCheese.com (previously named WisDairy.com). As part of the registration, operation and customization features of EatWisconsinCheese.com, we gather certain types of information from users. We would like to explain the types of information we gather, what we do with them, and how to correct or change the information. Please review this privacy policy when you enter the website to keep aware of any policy changes. 
+The policies below are intended to clearly inform our users about our privacy practices and procedures and are applicable to EatWisconsinCheese.com (previously named WisDairy.com) and WMMB.com. As part of the registration, operation and customization features of EatWisconsinCheese.com, we gather certain types of information from users. We would like to explain the types of information we gather, what we do with them, and how to correct or change the information. Please review this privacy policy when you enter the website to keep aware of any policy changes. 
 
 **EatWisconsinCheese.com does not share any personal information collected through the website with third parties.**
 
