@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aviary.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604092923id_/http%3A//aviary.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviary.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225030852id_/http%3A//aviary.com/privacy) for the most accurate reproduction.*
 
 # Aviary.com
 
@@ -50,6 +50,6 @@ We do not have any control over the privacy practices of any external websites l
 
 Third party advertisers may collect certain information that is available to them through your interaction with their advertisements. Aviary has no control or knowledge as to their practices and it is suggested that you read their privacy policy separately before clicking on any advertisements.
 
-If you have any questions regarding this Privacy Statement, the practices of Aviary.com, or your dealings on our web site, please [contact us](https://web.archive.org/web/20120604092923id_/http%3A//aviary.com/contact-us).
+If you have any questions regarding this Privacy Statement, the practices of Aviary.com, or your dealings on our web site, please [contact us](https://web.archive.org/contact).
 
 **Last Updated February 2012**
