@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the yobongo.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507105728id_/http%3A//yobongo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yobongo.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225081120id_/http%3A//yobongo.com/privacy) for the most accurate reproduction.*
 
 # Yobongo - Chat with people nearby - About
 
   
 
 
-### This Privacy Policy describes Yobongo’s policies and procedures on the collection, use and disclosure of your information. Yobongo receives your information through our various mobile apps, web sites, services and third-parties ("Services"). When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by Yobongo in the United States or any other country where Yobongo operates. If you have any questions or comments about this Privacy Policy, please contact us at [privacy@yobongo.com.](mailto:privacy@yobongo.com)
+### This Privacy Policy describes Yobongoâ€™s policies and procedures on the collection, use and disclosure of your information. Yobongo receives your information through our various mobile apps, web sites, services and third-parties ("Services"). When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by Yobongo in the United States or any other country where Yobongo operates. If you have any questions or comments about this Privacy Policy, please contact us at [privacy@yobongo.com.](mailto:privacy@yobongo.com)
 
 ## Information Collection and Use
 
