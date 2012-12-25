@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the tigermedia.ca privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630105252id_/http%3A//www.tigermedia.ca/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigermedia.ca privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225095216id_/http%3A//www.tigermedia.ca/privacypolicy.php) for the most accurate reproduction.*
 
 # Tiger Media Inc : Regina Saskatchewan : Advertising, Marketing, Consulting, and Web Site Design
 
 This is the web site of **Tiger Media**. 
 
 Our postal address is   
-**2339 McLurg Cres  
-Regina, SK, S4V 2N3**
+**P.O. Box 37204  
+Regina, Saskatchewan  
+Canada S4S 7K4**
 
 We can be reached via e-mail at [jay@tigermedia.ca](mailto:jay@tigermedia.ca)  
 or you can reach us by telephone at 306-751-4927 
