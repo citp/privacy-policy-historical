@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the radiostationworld.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615161901id_/http%3A//radiostationworld.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiostationworld.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225125824id_/http%3A//radiostationworld.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # RadioStationWorld - Privacy Policy
 
-  |  RadioStationWorld is sensitive to privacy issues on the Internet. We believe it is important you know how we treat the information about you we receive on the Internet. 
+RadioStationWorld is sensitive to privacy issues on the Internet. We believe it is important you know how we treat the information about you we receive on the Internet. 
 
 In general, you can visit RadioStationWorld.com without telling us who you are or revealing any information about yourself. Our web servers collect the domain names and other technical information such as time of day and country of origin, but does not collect personal information such as your e-mail address. This information is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. RadioStationWorld uses this information to measure the use of our site and to improve the content of our site. 
 
@@ -10,4 +10,4 @@ There are times, however, when we may need information from you, such as your na
 
 In general, you do not need cookies to be enabled on your browser to enjoy RadioStationWorld, but some features require cookies to be enabled. Session cookies are used by our web server to track you session. This information is used to measure statistics and usage on our web site as mentioned above. If your browser has cookies enabled, session cookies are used from the time you enter the RadioStationWorld until the slightly after the time you leave RadioStationWorld at which time the session cookie will be destroyed. Regular cookies are used on the My Radio section of RadioStationWorld and are strictly used to store information about your selected stations. No other web site should have access to this information, nor have we informed any other web site on the details of this information or how to use this information. 
 
-|  
+Additionally, we allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/). 
