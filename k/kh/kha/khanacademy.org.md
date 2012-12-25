@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the khanacademy.org privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606163712id_/http%3A//www.khanacademy.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khanacademy.org privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225030209id_/http%3A//www.khanacademy.org/about/privacy-policy) for the most accurate reproduction.*
 
-# Khan Academy
+# Privacy Policy | Khan Academy
 
-**Last Updated: May 22, 2012**
+### Khan Academy's mission is to provide a free, world-class education for anyone, anywhere. We are a not-for-profit 501c3 entity, and our purpose of establishing ourselves as a non-profit entity is so that our mission of education and trust with the user never comes in conflict with a for-profit motive. We believe that this is necessary for us to be trusted with your private data.
+
+* * *
+
+## Khan Academy Privacy Policy
+
+Last Updated: May 22, 2012
 
 Welcome to the web site and online services (the " **Website** ") operated by Khan Academy, Inc., a 501(c)(3) organization (" **Khan Academy** "). Khan Academy values the privacy of our members and others who visit and use the Website (individually, " **You** " or collectively, " **Users** "). We take your privacy seriously and make it a priority to protect personally identifiable information that we obtain from and about individuals both online and off-line.
 
