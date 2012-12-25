@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the telerik.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620210937id_/http%3A//www.telerik.com/company/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telerik.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225174221id_/http%3A//www.telerik.com/company/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Telerik Privacy Policy - information security, use of collected information and changes
 
 (Last updated February 1, 2012)
 
