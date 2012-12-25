@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capgemini.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215022543id_/http%3A//www.capgemini.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capgemini.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225175341id_/http%3A//www.capgemini.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Capgemini Worldwide
 
@@ -22,9 +22,20 @@ Generally, you can visit Capgemini websites without providing any Personal Data 
 
 
 
-## **Cookies and clicktrails**
+## **Cookies  
+**
 
-We may collect information through our website by using cookies and clicktrails. All information collected by means of cookies or clicktrails will be anonymised, aggregated and only used to develop and track traffic patterns and the volume of use of our websites. Sometimes cookies are used to assist you in reaching the appropriate information and to tailor your visit to your individual preferences. For example, a cookie can be used to remember your login information if you choose the “Remember me” option while signing in. If you do not want to receive a cookie from our website, you may set your browser to refuse cookies or to notify you when you receive a cookie, which you may then refuse upon such notice. To understand how to do this, please consult your browser’s help section. However, refusing the cookies may prevent you from accessing some parts of the websites.
+We use cookies on this site. Cookies are small pieces of information that a website sends to your computer's web browser while you are viewing a website.
+
+By using our website, you agree to the placing of cookies on your device as further explained below.
+
+We only use performance cookies that collect information about how visitors use a website, for instance which pages they go to more often. All information collected by means of cookies is anonymized, aggregated and only used to develop and track traffic patterns and the volume of use of our websites and to improve how our website works. This information is for Capgemini exclusive use and is not shared with any third-party or connected to any other information.
+
+We do not collect behavioral, advertising and/or targeting cookies.
+
+If you do not want to receive a cookie from our website, you may set your browser to refuse cookies or to notify you when you receive a cookie, which you may then refuse upon such notice. To understand how to do this, please consult your browser’s help section.
+
+As part of the service provided by Addthis allowing visitors to share our content via email or on social sites, a cookie is also used. Please refer to the Addthis privacy statement at <http://www.addthis.com/privacy> for any further information on the use and your rights related to the use of such cookie.
 
 ## **Global organisation**
 
@@ -60,4 +71,4 @@ Capgemini websites may provide links to third-party websites. Capgemini does not
 
 ## Notification of changes to this Policy
 
-This Policy was last updated on February 20th 2006. In order to check updates to this Policy, please consult this page on a regular basis.
+This Policy was last updated on June 1, 2012. In order to check updates to this Policy, please consult this page on a regular basis.
