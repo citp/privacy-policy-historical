@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibotoolbox.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624120158id_/http%3A//www.ibotoolbox.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibotoolbox.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225042638id_/http%3A//www.ibotoolbox.com/privacy.aspx) for the most accurate reproduction.*
 
 # IBOTOOLBOX - free business marketing platform
 
@@ -55,13 +55,13 @@ We may revise this Privacy Policy from time to time. The most current version of
 |    
 ---|---|---  
   
-| **ADVERTISE YOUR BUSINESS**  IBOtoolbox provides the perfect platform to get your business noticed. With more than 100,000+ targeted visitors daily, our websites offer you a very targeted advertising medium.
+| **ADVERTISE YOUR BUSINESS**  IBOtoolbox provides the perfect platform to get your business noticed. With more than 300,000+ targeted visitors daily, our websites offer you a very targeted advertising medium.
 
 IBOtoolbox and IBOsocial websites boast of more targeted traffic than any social networking site including FACEBOOK! Whether you want to target our members or the business prospects that come to our sites everyday, IBOtoolbox delivers! 
 
-|  | **BLOGGING**  While, our blogging system has features that you will not find anywhere else on the Internet, most of our members use it because it's EASY! IBOtoolbox blogger is preformatted so all you have to do is fill in the words.
+|  | **PRESS RELEASES**  While, our press release system has features that you will not find anywhere else on the Internet, most of our members use it because it's EASY! IBOtoolbox press releases are preformatted so all you have to do is fill in the content.
 
-IBOtoolbox ensures your Blogs are not only posted in a SEO friendly manner, but puts your blog in front of thousands to read.   
+IBOtoolbox ensures your press releases are not only posted in a SEO friendly manner, but puts your information in front of thousands to read.   
   
 ---|---|---  
    
@@ -80,7 +80,7 @@ With the new WallPlates, you can actually put IBOtoolbox Livechat service on you
 
 Every feature in the IBOtoolbox platform is specifically designed to promote your business. 
 
-|  | **BUSINESS SOCIAL NETWORK**  IBotoolbox members are able to mingle and "associate" with other Network Marketers from around the world in real time. Unlike Facebook and other Social network sites, IBOtoolbox is built for you the MARKETER!
+|  |  **BUSINESS SOCIAL NETWORK**  IBotoolbox members are able to mingle and "associate" with other Network Marketers from around the world in real time. Unlike Facebook and other Social network sites, IBOtoolbox is built for you the MARKETER!
 
 IBOtoolbox is unlike any platform out there. It is guaranteed that by using this platform for free, you will be building your business!"   
   
