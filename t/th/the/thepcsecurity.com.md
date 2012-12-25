@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thepcsecurity.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623171551id_/http%3A//thepcsecurity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepcsecurity.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225182216id_/http%3A//thepcsecurity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PC Security
 
 ### We Respect Your Privacy
 
-We respect your [privacy](http://thepcsecurity.com/tag/privacy/) and We are committed to safeguarding your privacy while online at this blog. The following discloses how we gather and disseminate information for this Blog.
+We respect your privacy and We are committed to safeguarding your privacy while online at this blog. The following discloses how we gather and disseminate information for this Blog.
 
 ### Advertising
 
@@ -17,6 +17,8 @@ Google uses the Doubleclick DART cookie to serve ads across it’s Adsense netwo
 ### RSS Feeds and Email Updates
 
 If a user wishes to subscribe to our RSS Feeds or Email Updates (powered by Feedburner), we ask for contact information such as name and email address. Users may opt-out of these communications at any time. Your personal information will never be sold or given to a third party. (You will never be spammed by us – ever).
+
+[](http://thepcsecurity.com/links.php?go=pchealth)
 
 ### Log Files and Stats
 
