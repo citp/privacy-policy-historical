@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensinformation.ie privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520143657id_/http%3A//www.citizensinformation.ie/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensinformation.ie privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225153052id_/http%3A//www.citizensinformation.ie/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -28,6 +28,22 @@ Citizens Information will neither make attempts to identify individual visitors,
 
 You should note that technical details, which we cannot associate with any identifiable individual, do not constitute "personal data" for the purposes of the Data Protection Acts, 1988 - 2003.
 
+## Cookies
+
+Cookies are small pieces of information, stored in simple text files, placed on your computer by a website. Some cookies can be read by the website on your subsequent visits. The information stored in a cookie may relate to your browsing habits on the webpage, or a unique identification number so that the website can "remember" you on your return visit. Other cookies are deleted when you close your browser and only relate to the working of the website. Generally speaking, cookies do not contain personal information from which you can be identified, unless you have furnished such information to the website.
+
+Citizensinformation.ie uses cookies in a number of places.
+
+  * The website sets a cookie when you view or use the 'Contact us' form. This cookie does not contain any personal information, but is used to help prevent a security attack called 'cross-site referral'.
+  * A cookie is also set to allow the text-resizing and high-contrast buttons to work.
+  * If you access citizensinformation.ie with most mobile phones, you will be asked if you would prefer to view the mobile version of the website. A cookie is set to record if you access the site with a mobile phone or with a desktop browser. 
+  * This website uses Google Custom Search to provide the site's search functionality. Google may set cookies when you use the search function. You can find Google's privacy policy here: [www.google.com/policies/privacy/](http://www.google.com/policies/privacy/).
+  * Cookies from Google may also be set when Google Maps are displayed on this website.
+
+
+
+Most browsers allow you to turn off cookies or to customise your settings for cookies. To find out how to do this, see the 'Help' menu on your browser. Please note that if you turn off cookies or change your settings, some features of citizensinformation.ie may not work correctly.
+
 ## Further Information or to make a request
 
 If you are concerned about how personal data is processed via this website, please do not hesitate to bring such concerns to our attention at:
@@ -49,7 +65,3 @@ The piece of software you use to read web pages. Examples are Microsoft Internet
 ### IP Address
 
 The identifying details for your computer (or your internet companys computer), expressed in internet protocol code (for example 192.168.72.34). Every computer connected to the web has a unique IP address, although the address may not be the same every time a connection is made.
-
-### Cookies
-
-Small pieces of information, stored in simple text files, placed on your computer by a web site. Cookies can be read by the web site on your subsequent visits. The information stored in a cookie may relate to your browsing habits on the web page, or a unique identification number so that the web site can 'remember' you on your return visit. Generally speaking, cookies do not contain personal information from which you can be identified, unless you have furnished such information to the web site.
