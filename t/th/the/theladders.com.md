@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theladders.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512063911id_/http%3A//www.theladders.com/theladders-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theladders.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225020055id_/http%3A//www.theladders.com/theladders-privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,7 @@
 
 This "Privacy Policy" is part of the Terms of Use <http://www.theladders.com/theladders-terms-use> for TheLadders.com and its associated websites (collectively, the "Website"). This Privacy Policy covers the Website and is designed to assist You in understanding how We will use the information You provide when You use the Website, as well as how We will use other information that We collect based on that use. By using the Website, You consent to the information collection and use practices described in this Privacy Policy. 
 
-[](http://www.truste.org/ivalidate.php?url=www.theladders.com&sealid=101) TheLadders.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
-
-If You have questions or concerns regarding this Privacy Policy, You should contact us at [help@theladders.com](mailto:help@theladders.com) or at 137 Varick Street, 8th Floor, New York, NY 10013, ATTN: Legal. If You do not receive acknowledgement of Your inquiry or Your inquiry has not been satisfactorily addressed, You should contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint) or visit <http://www.truste.org/consumers/watchdog_complaint.php>. 
+If You have questions or concerns regarding this Privacy Policy, You should contact us at [help@theladders.com](mailto:help@theladders.com) or at 137 Varick Street, 8th Floor, New York, NY 10013, ATTN: Legal. 
 
 "Personal Information" means information that would allow a third party to learn your identity or contact You, including, for example, Your full name, address, telephone number, or email address. 
 
