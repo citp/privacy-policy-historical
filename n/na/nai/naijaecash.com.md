@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijaecash.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509162232id_/http%3A//naijaecash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijaecash.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225154332id_/http%3A//naijaecash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nigerian Entrepreneur
 
@@ -35,16 +35,3 @@ We use outside ad companies to display ads on this blog. These ads may contain c
  _ **Contact Information**_
 
 If you have any questions or concerns please contact **_NajaEcash(at)gmail.com_** This privacy policy updated April 2009
-
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fnaijaecash.com%2Fprivacy-policy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fnaijaecash.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fnaijaecash.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fnaijaecash.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fnaijaecash.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=Privacy%20Policy%0D%0AThis%20website%20uses%20third-party%20advertising%20companies%20to%20serve%20ads%20when%20visiting%20this%20site.%20These%20third%20parties%20may%20collect%20and%20use%20information%20%28but%20not%20your%20name%2C%20address%2C%20email%20address%2C%20or%20telephone%20number%29%20about%20your%20visits%20to%20this%20a "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fnaijaecash.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fnaijaecash.com%2Fprivacy-policy%2F&srcTitle=Nigerian+Entrepreneur+Nigerian+Entrepreneurs+Make+Money+Online+%7C+Small+Business+Owner+Survival+Tips "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fnaijaecash.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Nigerian+Entrepreneur+Nigerian+Entrepreneurs+Make+Money+Online+%7C+Small+Business+Owner+Survival+Tips&summary=Privacy%20Policy%0D%0AThis%20website%20uses%20third-party%20advertising%20companies%20to%20serve%20ads%20when%20visiting%20this%20site.%20These%20third%20parties%20may%20collect%20and%20use%20information%20%28but%20not%20your%20name%2C%20address%2C%20email%20address%2C%20or%20telephone%20number%29%20about%20your%20visits%20to%20this%20a "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fnaijaecash.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
-  * 
-
