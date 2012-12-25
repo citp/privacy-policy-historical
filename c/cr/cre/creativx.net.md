@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the creativx.net privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521221624id_/http%3A//creativx.net/forums/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativx.net privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225031925id_/http%3A//creativx.net/forums/privacy_policy) for the most accurate reproduction.*
 
 # Google Adsense Privacy Policy
-
-  
-
 
 **Where do you want to go?**
 
@@ -12,27 +9,8 @@
   
 
 
-Welcome to CreativX
-
-your forum for Windows 7 Themes etc
-
   
 
-
-  * **  »** You are looking for a custom Windows theme
-  * **  »** You want to learn how to build your own themes
-  * **  »** You are looking for information and tutorials
-  * **  »** You want to be part of the coolest community around
-
-
-
-...then you have come to the right place!
-
-we are here to help you with your problems, and help you find what you are looking for
-
-[YES! I want to register an account for free right now!](http://creativx.net/forums/register.php)
-
-p.s.: For registered CTX members all downloads are free 
 
   
 
@@ -41,14 +19,14 @@ p.s.: For registered CTX members all downloads are free
 
 Forum and Google Adsense Policy for   
 http://creativx.net/forums  
-Last Updated: 1st January 2012 
+Last Updated: 23'rd May 2012 
 
 |   
 ---|---  
   
 If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://creativx.net/forums/sendmessage.php).  
 The privacy of our visitors to http://creativx.net/forums is important to us.  
-At Windows 7 Themes - CreativX, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit http://creativx.net/forums, and how we safeguard your information. We never sell your personal information to third parties.
+At Windows 7 and 8 Themes - CreativX, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit http://creativx.net/forums, and how we safeguard your information. We never sell your personal information to third parties.
 
 ##  [Google Adsense 3rd Party Cookie Info](http://creativx.net/forums/) [](http://creativx.net/forums/privacy_policy/#top)
 
@@ -125,11 +103,12 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 
   
-**PLEASE NOTE that opting out of the ad-serving cookie does not mean that you will stop seeing either pop up advertising or banner ads embedded in websites! You can control many pop ups by using free software available on the Internet or by disabling JavaScript on your browser. DoubleClick has no control over the use or frequency of pop-up ads employed by website publishers or software manufacturers.** For more information about pop-up ads, please [click here](http://www.doubleclick.com/privacy/faq.aspx#pop-ups) | **DoubleClick Opt-out Click link below**  
-[](http://optout.doubleclick.net/cgi-bin/dclk/optout.pl)  
+**PLEASE NOTE that opting out of the ad-serving cookie does not mean that you will stop seeing either pop up advertising or banner ads embedded in websites! You can control many pop ups by using free software available on the Internet or by disabling JavaScript on your browser. Google has no control over the use or frequency of pop-up ads employed by website publishers or software manufacturers.** For more information about pop-up ads, please [click here](http://www.google.com/policies/privacy/ads/) | **Google Opt-out Click link below**  
+[](https://www.google.com/settings/ads/onweb/?sig=ACi0TChl9L0aIDUy11U-KvbNS9YEFxrIeO26Qr_yxk_nJuB_OXmM0W2cRV9Rcs0RHrzqm9OkdTTQ9iQ9pUJyZHKZdhPcvi_gToSfATRltpn_TvPIZ0kcU4IRr9GcP572xn8QinfkCBqYUPDz5ey-OodRKKxuhR5ZxjEuz4jPEugOKhtk1-oFcC8&hl=en#display_optout)  
 ---|---  
   
-[](http://www.dragonbyte-tech.com/?referrer=408) [ ](http://www.dmca.com/Protection/Status.aspx?id=247c9038-955d-407a-81ee-9afd860c645d "Website Content Protection")   
+[](http://www.dragonbyte-tech.com/?referrer=408) [iFAQ and iSupport by vBcover](http://www.vbcover.com/content/ "vBulletin products by vBcover")  
+[ ](http://www.dmca.com/Protection/Status.aspx?id=247c9038-955d-407a-81ee-9afd860c645d "Website Content Protection")   
 [](http://www.copyscape.com/originality-check/)
 
 CreativX is an independent web site and has not been authorized, sponsored, or otherwise approved by Microsoft Corporation.
