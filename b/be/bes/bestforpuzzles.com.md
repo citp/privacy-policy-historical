@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestforpuzzles.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603014047id_/http%3A//bestforpuzzles.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestforpuzzles.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225124725id_/http%3A//bestforpuzzles.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -46,4 +46,4 @@ If you have any questions about this privacy statement, the practices of this si
   
 * * *
 
-Best for Puzzles © 2011 - best for crosswords, codewords, word searches, jigsaws & other puzzles, games and trivia
+Best for Puzzles © 2012 - best for crosswords, codewords, word searches, jigsaws & other puzzles, games and trivia
