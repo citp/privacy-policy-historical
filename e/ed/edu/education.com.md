@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619015153id_/http%3A//www.education.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225112315id_/http%3A//www.education.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Education.com
 
@@ -92,6 +92,8 @@ Our advertisers include a wide variety of companies, such as financial services 
 In addition to cookies placed by us or our agents, as described above, advertisers and advertising vendors that serve ads onto our web sites may use their own cookies or other tracking technologies. We are not responsible for the privacy policies or practices of any such advertisers and vendors.
 
 We use an independent network advertising server (DoubleClick) that delivers advertising content to the pages that you view on our Websites. If you would like to know more about the privacy practices of one such third-party ad server, please click here to view DoubleClick’s privacy policy. If you wish to opt out of DoubleClick’s information collection and analysis, follow the opt out instructions described in their privacy policy.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/). 
 
 ## Use of the Information
 
