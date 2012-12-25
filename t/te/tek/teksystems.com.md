@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the teksystems.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524211028id_/http%3A//www.allegisgroup.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teksystems.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225205240id_/http%3A//www.allegisgroup.com/Privacy) for the most accurate reproduction.*
 
 # Allegis Group Online Privacy Statement
+
+[ Français ](http://www.allegisgroup.com/Privacy/French/Default.aspx) [ Deutsch ](http://www.allegisgroup.com/Privacy/German/Default.aspx)
 
 _Revised and Posted as of 07 March 2012:_
 
@@ -143,9 +145,9 @@ Allegis Group conducts an annual self-assessment in order to verify that this On
 
 Back to the Top 
 
-## For European Union Citizens
+## For European Union and Swiss Citizens
 
-In compliance with the Safe Harbor Principles, Allegis Group commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Allegis Group at: 
+In compliance with the Safe Harbor Principles, Allegis Group commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Allegis Group at: 
 
 Allegis Group, Inc.  
 7301 Parkway Drive, 5th Floor  
