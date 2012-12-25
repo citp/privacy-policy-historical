@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotvsnot.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211172554id_/http%3A//www.hotvsnot.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotvsnot.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225222102id_/http%3A//hotvsnot.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Web Directory by HotVsNot.Com - Privacy Policy
+# Privacy Policy of Online Directory Listing & Web Directory HotVsNot.Com
 
 At HotVsNot.Com, we are committed to protecting online user privacy. This "Privacy Policy" discloses the privacy practices governing our knowing collection, use, and disclosure of information. In order to ensure your privacy, information we collect is used only in the manner and for the purposes described below. 
 
