@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quark.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623144449id_/http%3A//www.quark.com/About_Quark/Legal/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quark.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225044300id_/http%3A//www.quark.com/en/About_Quark/Legal/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Quark - Privacy Policy
 
-**Effective Date: November 1, 2009**
+**Effective Date: June 20, 2012**
 
 Privacy is important to Quark. Quark's Privacy Policy covers the collection, use and disclosure of personal information that may be collected by Quark whenever you interact with Quark, e.g., when you visit our websites, when you purchase Quark products or services, or when you call our sales or support associates (collectively, the "Service"). Please regularly review our Privacy Policy. If you feel that Quark is not abiding by this Policy, you should contact Quark at [legal@quark.com](mailto:legal@quark.com).
 
@@ -16,9 +16,9 @@ There are a number of situations in which your personal information may help us 
 
   * We may ask for your personal information when you're discussing a service issue on the phone with an associate, downloading a software update, registering for a seminar, participating in an online survey, registering your products, or purchasing a product. 
   * When you interact with Quark, we may collect personal information relevant to the situation, such as your name, postal address, telephone number, email address business address, shipping address and other contact preferences; your credit card information and information about the Quark products you own, such as their serial numbers and date of purchase; and information relating to a support or service issue. 
-  * We also collect information for market research purposes – such as your occupation and where you use your computer – to gain a better understanding of our customers and thus provide more valuable service.
-  * If you purchase products or services through Quark, then we may collect payment information, including credit card information, from you. We will protect all of your financial information, and we will never distribute or publicize your financial information except to the extent necessary to fulfill your order.
-  * We collect information regarding customer activities on our websites. This helps us determine how best to provide useful information to customers and to understand which parts of our websites, products and Internet services are of most interest to them.
+  * We also collect information for market research purposes – such as your occupation and where you use your computer – to gain a better understanding of our customers and thus provide more valuable service or market our products and services.
+  * If you purchase products or services through Quark, then we may collect payment information, including credit card information, from you. We will protect all of your financial information, and we will never distribute or publicise your financial information except to the extent necessary to fulfill your order.
+  * We collect information regarding customer activities on our websites. This helps us determine how best to provide useful information to customers and to understand which parts of our websites, products and Internet services are of most interest to them and to market our products and services.
 
 
 
@@ -28,19 +28,19 @@ If you use a Quark forum, bulletin board or chat room on a Quark website you sho
 
 ## When We Disclose Your Information
 
-Quark takes your privacy very seriously. Quark does not sell or rent your contact information to other marketers. We may trade, sell, rent or otherwise share your personally identifiable information with other third parties, including our business partners.
+Quark takes your privacy very seriously. Personal information that you provide will not be sold or rented to any other party and is only used by Quark and its suppliers in order to provide you with relevant information about our solutions and services available. 
 
 **Within the Quark Group**  
 To help us provide superior service, your personal information may be shared with legal entities within the Quark group globally who will take steps to safeguard it in accordance with Quark's privacy policy.
 
 **With our Service Providers, Vendors and Strategic Partners:**  
-There are also times when it may be advantageous for Quark to make certain personal information about you available to companies that Quark has a strategic relationship with or that perform work for Quark to provide products and services to you on our behalf. These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. These companies are also obligated to protect your personal information in accordance with Quark's policies, except if we inform you otherwise at the time of collection. Without such information being made available, it would be difficult for you to purchase products, have products delivered to you, receive customer service, provide us feedback to improve our products and services, or access certain services, offers and content on the Quark website.
+There are also times when it may be advantageous for Quark to make certain personal information about you available to companies that Quark has a strategic relationship with or that perform work for Quark to provide products and services to you on our behalf. These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services, market our products and services, or conduct customer research or satisfaction surveys. These companies are also obligated to protect your personal information in accordance with Quark's policies, except if we inform you otherwise at the time of collection. Without such information being made available, it would be difficult for you to purchase products, have products delivered to you, receive customer service, provide us feedback to improve our products and services, or access certain services, offers and content on the Quark website.
 
 We cooperate with law enforcement agencies in identifying those who use the Service for illegal activities. Therefore, we respond to subpoenas, warrants or other court orders regarding information concerning any users. We will, at our discretion, disclose information if we believe that we are required to do so by law, that such disclosure is necessary to protect us from legal liability or that we should do so to protect the integrity of the Service.
 
 ## Ways We Protect your Personal Information
 
-Quark uses administrative, technical and physical measures to safeguard your personal information against loss, theft and misuse, as well as unauthorized access, disclosure, alteration and destruction.
+Quark uses administrative, technical and physical measures to safeguard your personal information against loss, theft and misuse, as well as unauthorised access, disclosure, alteration and destruction.
 
 We use security measures, such as firewalls and Secure Socket Layers ("SSL"), to safeguard the confidentiality of our users' personally identifiable information. Information we collect about our users is stored on secured servers. Doing so protects the confidentiality of your personal and credit card information while it's transmitted over the Internet.
 
@@ -58,11 +58,11 @@ We do not knowingly collect personal information from minors (individuals below 
 
 ## Cookies and other Technologies
 
-Cookies are pieces of information stored on your hard drive containing information about you. These pieces of information allow the Service to remember important information that will make your use of the Service more useful. Quark uses cookies for a variety of purposes. For instance, we use cookies to allow your automated login and to track your preferences and usage. You can choose to reject or turn off the cookies through your browser settings. If you reject or turn off the cookies, you may still use the Service. The only drawback to this is that you will be limited in some areas of the Service. For example, you will not be able to participate in any of our sweepstakes, contests or drawings that we may offer. 
+Cookies are pieces of information stored on your hard drive containing information about you. These pieces of information allow the Service to remember important information that will make your use of the Service more useful. Quark uses cookies for a variety of purposes. For instance, we use cookies to allow your automated login and to track your preferences and usage. You can choose to reject or turn off the cookies through your browser settings. If you reject or turn off the cookies, you may still use the Service but you may be limited in some areas of the Service. For example, you will not be able to participate in any of our sweepstakes, contests or drawings that we may offer. 
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp and click stream data.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. Quark will not use the information collected to market directly to that person.
+We use this information, which does not identify individual users, to analyse trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. Quark may use the information collected to market directly to that person.
 
 In some of our email messages we use a "click-through URL" linked to content on the Quark website. When a customer or user clicks one of these URLs, they pass through our web server before arriving at the destination web page. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked simply avoid clicking text or graphic links in the email.
 
