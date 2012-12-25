@@ -1,44 +1,100 @@
-> *The following text is extracted and transformed from the windowstreams.com privacy policy that was archived on 2009-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090315031910id_/http%3A//windowstreams.com/ws08/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D9%26Itemid%3D29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowstreams.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225102936id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Window Streams - Privacy Policy And User Agreement
+# Legal Agreement
 
-Privacy Policy And User Agreement   
-  
-**Privacy Policy And User Agreement
+**Go Daddy Respects Your Privacy**
 
- Stream it now !
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-windowstreams.com recognizes and supports the need to protect the privacy rights of its members through the disclosure of its practices for collection and use of member information. windowstreams.com collects information in several ways from different parts of its network of websites. The information that we collect allows us to learn more about you and offer content you are most interested in. Some personal information is collected when you register. For instance, during the registration, windowstreams.com asks for your name, e-mail address, birth date, gender, zip code, occupation and postal address. Once you register you are given an account number and will be able to take full advantage of windowstreams.com's various offers. The information that is collected is used on an aggregated basis to operate our sites, to enhance our features and sell and deliver advertising. Collecting information is done with the intention of offering the most personal entertainment experience possible by presenting content and preferences that are tailored specifically to your interests
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-Terms Relating to Refunds.
+**Information Collection and Use**
 
-Window Streams.Com only provide refunds if customer request the refund within 24 hrs of his Signup. Window Streams.Com offers its Site services for entertainment purposes only. Window Streams.Com does not warrant the truth or validity of the information contained on its site. You acknowledge and understand that, because of the possibility of human and mechanical error, mistakes or omissions in the data or information provided, delays or interruptions of the data or information stream from whatever cause, as well as other factors, Window Streams.Com is not responsible for errors in or omissions from the information contained or accessed through the Site. ALL INFORMATION AND CONTENT ON THE SITE ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We may also provide information about you to third parties such as advertisers or partners unless you expressly require us not to do so at the time of registration. Sometimes, windowstreams.com plays the role of an intermediary in providing targeted advertisements to its users. Advertisers may give us an advertisement and tell us the type of audience they want to reach. windowstreams.com takes the advertisement and displays it to users who meet those criteria. In this process, the advertiser never has access to the individual's information. However, upon failure to provide such personal information, access to the entire site cannot be guaranteed by windowstreams.com and windowstreams.com expressly reserves the right to deny access to any or all modules within the site without prior intimation if the minimum necessary personal information is not provided by such user. In all cases where we ask for personal information you will be notified if such information is being collected or identify which of the informational items are optional and offer you the opportunity to opt out of receiving information from our partners and third parties. 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-windowstreams.com will not disclose to third parties your credit card information except to the extent necessary to complete the transaction initiated by you. As a general rule windowstreams.com will not disclose any of your personal information without your express permission or under special circumstances such as when we believe in good faith that the law requires it. If your personal data will be shared we will tell you before we collect or transfer the data. You have exclusive access to your account information when you login to [_www.WindowStreams.com_](http://www.windowstreams.com/) . Our technical support staff has access to your account information, which we view only when technical support on maintenance requires it.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-Please be aware that advertisers or web-sites that have links on our site may collect personally identified information about you. While we encourage all our partners, advertisers and third parties to implement policies and practices that respect the privacy of our users, we are not responsible for their privacy practices or the contents of such web-sites. From time to time you may be offered the opportunity to receive materials on special offers from the third parties. If you avail of such opportunity, then we will with your permission share your information with them we may also use the information to create aggregated user statistics in order to describe our services to prospective partners, advertisers and other third parties.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We may also disclose account information in special cases where we have reason to believe that such disclosure is necessary to identify, contact and or bring legal action against somebody who may be violating windowstreams.com's User Agreement or may be causing injury to or interference with windowstreams.com's rights/property or other users of windowstreams.com or anyone else whose rights and properties may be affected by such activities.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-You may edit your account information at any time by using your windowstreams.com Password. If you have forgotten your password, you can get it mailed to you through the forgot password option provided in the Home page. Your account information is password protected, so that only you have access to this personal information. Please do not divulge the password to any one. windowstreams.com will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of your windowstreams.com account when you have finished your work to ensure that others cannot access your personal information and other correspondence if you are sharing a computer with some one else.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-windowstreams.com takes steps to ensure that your information is treated securely and in accordance with the user agreement and this privacy policy. However, it is to be remembered that no data in the Internet can be guaranteed to be 100% secure. As a result while we strive to protect your personal information, we cannot ensure or warrant the security of the any information transmitted by you and you do so at your own risk. windowstreams.com is a general audience web site. While children under the age of 13 attempt to register with us, we ask them to have their parents/guardians consent to our obtaining any registration information from a child whom we know to be under 13 years of age. We do not share personal information about users under the age of 13 with third parties and we do not rent or sell personal information about any of our users regardless of age.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-There is a technology called "Cookies" which is a file transferred from a web-site to the hard drive of your computer, server or virtual private network, as the case may be, so that the web-site operator may track activities on the web site. We use cookies to help track activities at our site, so that we can make our site more interesting to useful to visitors. Cookies help us to improve our web-site or to send marketing message to better match your needs and interest. Cookies also allows to make our site more convenient to use by storing a password without your having to constantly reenter it. You are always free to decline the cookies if your browser permits, but some part of our site may work properly if you do so. Cookies help us to remember who you are to estimate our audience size, to track visits to our site, to measure traffic patterns and help us understand user habits so that we can personalize the content, banners and promotions that you will see on our sites.
+**Security**
 
-Window streams not allowed account sharing at any Cost. As part of our security measures, Window stream's Automated IP screening System regularly screen activity in the window streams website. During the screening, If we have reason to believe that an issue regarding multiple IP access in one account especially IP's from  different State, Country or Network will result an immediate account deletion from our data base without any notice.  
- 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-Please note that we place advertising on our site that originates from outside advertisers. In some cases, if you click on these, the advertiser may assign a Cookie. windowstreams.com does not control these Cookies. If you should have any questions regarding the statement on site practices and services, please contact us at [__](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy89262%20=%20'windowstreams'%20+%20'@';%20addy89262%20=%20addy89262%20+%20'gmail'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy89262%20+%20'\\'%3E'%20\);%20document.write\(%20addy89262%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spam%20bots,%20you%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)_[windowstreams@gmail.com](mailto:windowstreams@gmail.com)_ or Contact our Head Quaters at the following address:
+**Updating Your Information**
 
-Window Streams Graphics Ltd,  
-14 Rheinbadstr.  
-Bad Sackingen, Baden-Wurttemberg 79713 DE
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-We cannot guarantee that any or all suggestions will be incorporated or implemented. windowstreams.com reserves the right to change this Privacy Policy at any time, with or without notice. It is your responsibility to check back to this page from time to time for any updates. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-E-mails: [__](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy89262%20=%20'windowstreams'%20+%20'@';%20addy89262%20=%20addy89262%20+%20'gmail'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy89262%20+%20'\\'%3E'%20\);%20document.write\(%20addy89262%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spam%20bots,%20you%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)_[windowstreams@gmail.com](mailto:windowstreams@gmail.com)_
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+
+      iii.      You may call us at: (480) 505-8800
+
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
