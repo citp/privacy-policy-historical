@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the signingtime.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115160057id_/http%3A//www.signingtime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signingtime.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225125757id_/http%3A//www.signingtime.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Signing Time
 
 We have created this email privacy policy to demonstrate our firm commitment to your privacy and the protection of your information. 
 
@@ -19,5 +19,3 @@ We will never share, sell, or rent individual personal information with anyone w
 ## How can you stop receiving email from us? 
 
 Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email. You may also contact Customer Support at any time by emailing [info@signingtime.com](mailto:info@signingtime.com) or calling 801-676-4440.
-
- 
