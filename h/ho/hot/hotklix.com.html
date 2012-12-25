@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hotklix.com privacy policy that was archived on 2012-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615045210id_/http%3A//www.hotklix.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotklix.com privacy policy that was archived on 2012-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225065442id_/http%3A//www.hotklix.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#" style="display: block;"><head>
 <meta charset="utf-8">
@@ -22,6 +22,7 @@
     	
     	
     	
+        
         
         
         
@@ -62,24 +63,6 @@ var IMAGE_ACCESSING_URL ="http://image.hotklix.iimg.in/theme/thumbs/";
 var ACCESSING_PROFILE_IMAGE_PATH = "/theme/profile_images/";
 //var profileCache = new Object();
 </script>
-<!-- Times trends code top start -->
-
-
-
-	<script language="javascript">
-	     function blockError(){return true;} 
-	      window.onerror = blockError; 
-	      var dtTT_startofpage = new Date();
-	      var rndtno = Math.random();         
-	      var timeslog_channel_url = 'hotklix.com';       
-	      document.write('<img border="0" width="0" height="0" style="display:none;visibility:hidden;" src="http://timeslog.hotklix.com/timeslog.dll/topcnt?CHUR=hotklix.com&randomno='+ rndtno +'" align="left"/>'); 
-	        </script></head><body><img border="0" width="0" height="0" style="display:none;visibility:hidden;" src="http://timeslog.hotklix.com/timeslog.dll/topcnt?CHUR=hotklix.com&amp;randomno=0.46583768962717365" align="left">
-	<noscript>
-	  <img width="0" height="0" border="0" style="display:none;visibility:hidden;" src="http://timeslog.hotklix.com/timeslog.dll/topcnt?CHUR=hotklix.com&nojs=1"/>
-	</noscript>
-
-
-<!-- Times trends code top ends -->
 
 
 
@@ -105,6 +88,7 @@ var ACCESSING_PROFILE_IMAGE_PATH = "/theme/profile_images/";
 <script language="JavaScript" type="text/javascript" src="/HK/dwr/interface/UsersService.js"></script>
 <script language="JavaScript" type="text/javascript" src="/HK/dwr/interface/SubscribeFeedsService.js"></script>
 <script language="JavaScript" type="text/javascript" src="/HK/dwr/interface/InviteService.js"></script>
+<script language="JavaScript" type="text/javascript" src="/HK/dwr/interface/CelebrityService.js"></script>
 
 <script language="JavaScript" type="text/javascript" src="/theme/hk_rev_js/register.js"></script>
 
@@ -279,11 +263,12 @@ var ACCESSING_PROFILE_IMAGE_PATH = "/theme/profile_images/";
 	</noscript>
 	<!-- End comScore Tag -->
 	
-
+</head>
 
 	
 	
-		
+	
+		<body>
 	
 
 
@@ -319,10 +304,23 @@ function isEmpty(s) {
 		
 //Search Box
 function check_value_search (element) {
-	  if (isWhitespace(document.getElementById(element).value) || document.getElementById('keyword_string').value=='Search') {
-		  return false;
-	  }
-	  document.getElementById('cse-search-box').submit();
+	if (isWhitespace(document.getElementById(element).value) || document.getElementById('keyword_string').value=='Search') {
+	  return false;
+	}else{
+		CelebrityService.getCelebUrl(document.getElementById(element).value,function(data) {
+			if(data ==null){
+				document.getElementById('cse-search-box').submit();
+				return false;
+			}else{
+				//document.getElementById('cse-search-box').action=/+"celebrity/"+data;
+				//document.getElementById('cse-search-box').removeChild(document.getElementById(element));
+				//document.getElementById('cse-search-box').submit();
+				window.location='/'+'celebrity/'+data;
+			}	
+		} );
+	}
+	return false;
+		
 	 // return true;
 }
 function searchTxt(){
@@ -335,7 +333,7 @@ function chkBlank(){
 		document.getElementById('keyword_string').value = 'Search';
 		document.getElementById('keyword_string').className="search_box flft font12normGr";
 	}else{
-		document.getElementById('cse-search-box').submit();
+		//document.getElementById('cse-search-box').submit();
 	}
 }
 	
@@ -437,6 +435,8 @@ function chkBlank(){
 		
 		</div>
 		<div class="htk_scoop"><b class="commonHd_clr">HAVE A SCOOP?</b> Showcase it by submitting the link <a href="javascript:void(0);" onclick="showEnterLinkPopup();">here</a></div>
+		
+		
 		<div class="signIn_srch flft width100 ">
 			<div class="htk_breadcrums_connect">
 				<div id="breadCrum" class="flftW font11normB marginT5 textFCap">
@@ -457,19 +457,16 @@ function chkBlank(){
 				<a href="javascript:void(0);" onclick="showEnterLinkPopup();"> <img src="http://image.hotklix.iimg.in/theme/images/submit_link.gif" title="Submit Link" alt="Submit Link"></a>
 			</div>
 				<div class="frght htk_srchBLK">
-				<form id="cse-search-box" action="/search.html">							
-				    <input type="hidden" value="014331132539307670001:hvi-y0mnmki" name="cx">
-		            <input type="hidden" value="FORID:10" name="cof">
-		            <input type="hidden" value="search" name="pge_nme" id="pge_nme">
-		            <input type="hidden" value="UTF-8" name="ie">
-					<input type="text" name="q" maxlength="30" size="50" id="keyword_string" value="Search" class="search_box flft font12normGr" onfocus="searchTxt()" onblur="chkBlank()">															
-					<a title="Search Hotklix" onclick="return check_value_search('keyword_string')" class="htk_srch_btn flft" style="cursor: pointer;" href="#"></a>
-					</form>
+				<form id="cse-search-box" action="/search.html" onsubmit="return check_value_search('keyword_string');">							
+					<input type="text" name="q" maxlength="255" size="50" id="keyword_string" value="Search" class="search_box flft font12normGr" onfocus="searchTxt();" onblur="chkBlank();">															
+					<a title="Search Hotklix" onclick="check_value_search('keyword_string');" class="htk_srch_btn flft" style="cursor: pointer;" href="javascript:void(0);"></a>
+				</form>
 					</div>							
 				</div>
 			</div>
 		
 		</div>
+		
 </header>
 		
 <!-- THICKBOX / ALERT --> 
@@ -513,8 +510,10 @@ var pagename=document.getElementById('pagename123').innerHTML;
 
 
 
-<div class="htk_blk960"> 
 	
+	
+		<div class="htk_blk960"> 
+			
 
 
 
@@ -626,7 +625,7 @@ var pagename=document.getElementById('pagename123').innerHTML;
 		<!-- hotklix body content ends -->
 
 
-	
+			
 
 
  
@@ -647,8 +646,10 @@ var pagename=document.getElementById('pagename123').innerHTML;
 </script>
 
 
+		</div>
 	
-</div>
+
+
 
 <!--  ADVERTISEMENT  -->
     
@@ -682,6 +683,7 @@ var pagename=document.getElementById('pagename123').innerHTML;
 <!--  ADVERTISEMENT  -->
 
 
+
 <footer class="flft width100 marginT10 paddingTB15">
 			<div class="htk_blk960">
 				
@@ -689,7 +691,7 @@ var pagename=document.getElementById('pagename123').innerHTML;
 					<div class="flft bldlnks">
 						<a href="/aboutus">About Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 						<a href="http://advertise.indiatimes.com/">Advertise with Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						<a href="/tos">Terms of Use</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						<a href="/tos">Terms of Use and Grievance Redressal Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 						<a href="/privacy_policy">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 						<a href="/feedback">Feedback</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 						<a href="/faq">FAQ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -714,7 +716,6 @@ var pagename=document.getElementById('pagename123').innerHTML;
     	<a href="#" style="margin:0 0 5px 5px;" class="menu_item"><fb:like send="false" layout="box_count" show_faces="false"></fb:like></a>
 		<a href="#" style="margin:0 0 2px 0;" class="menu_item"><g:plusone size="tall"></g:plusone></a>
         <a href="https://twitter.com/share" style="margin:0 0 5px 0px;" data-count="vertical" class="twitter-share-button" data-via="Hotklix" data-lang="en">Tweet</a>
-        <div style="margin:12px 0 0px 8px;"><a href="http://pinterest.com/pin/create/button/?media=http://image.hotklix.iimg.in/theme/images/pinterest_default.jpg&amp;url=http://www.hotklix.com&amp;description=Check out the hottest stories on the web&amp;always-show-count=1" always-show-count="1" style="margin:0 0 5px 5px;" class="pinterest" count-layout="vertical"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It"></a></div>
         
         <div class="flft" style="margin:15px 0 0px 0px; font:bold 9px Verdana, sans-serif; color:#3675b0; border-top:1px solid #DADADA; border-bottom:1px solid #DADADA; padding:5px 0px 5px 2px;">Share More</div>
        	
@@ -858,7 +859,7 @@ if (readCookie("userid") == "" || readCookie("userid") < 0) {
 			  });
 			//fb_login();
 		// logged in and connected user, someone you know
-		}else if(response.status=='not_authorized'){
+		}else if(loginresponse.status=='not_authorized'){
 			var url = CONTEXT_ROOT+ "login/fbautologin.html?modal=true";
 			tb_show('Verify Form Thickbox Style', url,'', '');
 			// no user session available, someone you dont know
@@ -872,32 +873,24 @@ if (readCookie("userid") == "" || readCookie("userid") < 0) {
 <script>document.getElementsByTagName('html')[0].style.display='block';</script>
 <!-- Correct fb_xd_fragment Bug End -->
 
-<!-- Times trends code bottom start -->
-
-
-
-	<script language="javascript" src="http://timeslog.hotklix.com/timestrend_hotklix_v1.js"></script><noscript><img width="0" height="0" src="http://timeslog.hotklix.com/timeslog.dll/pgcnt?CHUR=hotklix.com&nojs=1"></noscript>
-
-
-<!-- Times trends code bottom End -->
 <script>
 	var loginMsg = readCookie("login_err");
 	if(loginMsg != "") {
 		thickbox(loginMsg);
 		expireCookie('login_err', '','');
 	}
- 	ip = "125.252.226.93";
+ 	ip = "184.26.162.5";
  	//loadProfileSummary();
  	
 </script>
 
-<!-- Pintrest Button Script -->
-<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
-<script type="text/javascript">
-	var pinItBtn = document.getElementById("pinItImg");
-	if(pinItBtn)
-		pinItBtn.src = "//assets.pinterest.com/images/PinExt.png"; 
-</script>
+ 
+<!-- Ibeat starts -->
+
+<!-- Ibeat ends -->
+
+
+ <a href="https://plus.google.com/104624792102329044042" rel="publisher" style="visibility: hidden;">Find us on Google+</a>
 
 
 
