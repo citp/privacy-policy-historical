@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indfy.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620084007id_/http%3A//www.indfy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indfy.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225201737id_/http%3A//www.indfy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
