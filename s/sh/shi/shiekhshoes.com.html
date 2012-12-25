@@ -1,121 +1,25 @@
-<!--The following is the downloaded HTML source of the shiekhshoes.com privacy policy that was archived on 2012-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120518212355id_/http%3A//www.shiekhshoes.com/t-privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shiekhshoes.com privacy policy that was archived on 2012-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225073511id_/http%3A//shiekhshoes.com/t-privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Privacy Policy</title>
-    <meta name="description" content="Find affordable women's high heel pumps, dress and casual boots, wedges, sandals and more at Shiekh. We also hot mens athletic shoes, men's boots, dress and casual shoes. Kids shoes for all ages!">
+    <meta name="description" content="Find affordable women's high heel pumps, dress and casual boots, wedges, sandals and more at Shiekh. We also have hot mens athletic shoes, men's boots, dress and casual shoes. Kids shoes for all ages!">
     <meta name="keywords" content="womens shoes,womens boots,womens sandals,athletic shoes,mens shoes,mens boots,kids shoes, kids boots, toddlers shoes, infant shoes, crib shoes, discount shoes, discount boots, discount sandals, athletic shoes, skate shoes, skateboard shoes, sale shoes, sale boots, stilletto heels, wedges, espadrilles, flats, knee high boots, thigh high boots">
-    <link rel="stylesheet" href="skins/Skin_2/style.css" type="text/css">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="jscripts/formValidate.js"></script>
-    <script type="text/javascript" src="jscripts/shiekh.js"></script><link rel="stylesheet" type="text/css" href="skins/Skin_2/ajaxpagination.css">
-    <script type="text/javascript" src="https://ajax.microsoft.com/ajax/jquery/jquery-1.4.2.min.js">   
-    </script>
+	<meta http-equiv="X-UA-Compatible" content="IE=9">
+    <link rel="stylesheet" type="text/css" href="css/ui-lightness/jquery-ui-1.8.23.custom.css">
+    <link rel="stylesheet" href="skins/Skin_2/style.min.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="css/main.min.css">
+
+
     
-    <script type="text/javascript">
-        function switchMenu(obj, img) {
-            var el = document.getElementById(obj);
-            var Img = document.getElementById(img);
-
-            if (el.style.display == 'block') {
-                el.style.display = 'none';
-                Img.src = 'skins/skin_2/images/arrow.gif';
-            }
-            else {
-                el.style.display = 'block';
-                Img.src = 'skins/skin_2/images/arrow-down.gif';
-            }
-        }
-    </script>
-    <!--New google tracking code -->
-    <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-527458-1']);
-        _gaq.push(['_trackPageview']);
-
-        (function () {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-    </script>
-    <script type="text/javascript">
-        var SUBVALIDATOR = (function () {
-            var maxLength = 150;
-            var methods = {
-                validateLength: function (email) {
-                    email = $.trim(email);
-                    return email.length > maxLength;
-                },
-                bindLengthControl: function ($obj) {
-                    $obj.keypress(function () {
-                        var val = $obj.val();
-                        if (val.length > maxLength) {
-                            return false;
-                        }
-                    });
-                }
-            };
-
-            return {
-                validateLength: methods.validateLength,
-                bindLengthControl: methods.bindLengthControl
-            };
-        }());
-
-        $(document).ready(function () {
-            var $emailField = $("#daEmail");
-
-            SUBVALIDATOR.bindLengthControl($emailField);
-
-            $("#addNewSub").click(function (event) {
-
-
-                var emailReg = /^[a-zA-Z0-9]+[a-zA-Z0-9_.-]+[a-zA-Z0-9_-]+@[a-zA-Z0-9]+[a-zA-Z0-9.-]+[a-zA-Z0-9]+.[a-z]{2,4}$/;
-
-                var emailaddressVal = $.trim($("#daEmail").val());
-                if (!emailaddressVal) {
-                    alert("Please enter your email address.");
-                    return false;
-                }
-                else if (!emailReg.test(emailaddressVal)) {
-                    alert("Please enter a valid email address.");
-                    return false;
-                }
-
-                if (SUBVALIDATOR.validateLength(emailaddressVal)) {
-                    alert("Email address can not exceed 150 characters");
-                    return false;
-                }
-
-                $.ajax({
-                    type: "POST",
-                    url: "ProductDetail.asmx/AddNewEmailSubscriber",
-                    data: "{'Email': '" + $('#daEmail').val() + "'}",
-                    contentType: "application/json; charset=utf-8",
-                    dataType: "json",
-                    success: function (msg) {
-                        AjaxSucceeded(msg);
-                    },
-                    error: AjaxFailed
-                });
-            });
-        });
-        function AjaxSucceeded(result) {
-            alert(result.d);
-        }
-        function AjaxFailed(result) {
-            alert(result.status + ' ' + result.statusText);
-        }
-
-    </script>
 </head>
 <!--**************** STORE-8 ********************-->
 
 <body>
      <!--
 PAGE INVOCATION: /t-privacy.aspx
-PAGE REFERRER: 
+PAGE REFERRER: http://shiekhshoes.com/
 STORE LOCALE: en-US
 STORE CURRENCY: USD
 CUSTOMER ID: 0
@@ -126,51 +30,60 @@ CACHE MENUS: True
 -->
 
     <!-- BEGIN: Bizrate Medal (125x73 pixels) -->
-    <script src="//medals.bizrate.com/medals/js/216943_medal.js" type="text/javascript"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//medals.bizrate.com/medals/js/216943_medal.js" type="text/javascript"></script>
     <!-- END: Bizrate Medal (125x73 pixels) -->
     
     <div id="wrapper">
-        <div style="height: 185px; border: 0px black solid; ">
-            <!--HEADER WRAPPER-->
-            <div style="position: relative; left: 145px; top: 11px; text-align: left;">
-                <a style="padding: 0px 10px 0px 5px; color: #333333;" href="t-international_shipping.aspx">
-                    INTERNATIONAL SHIPPING</a><a style="padding: 0px 10px 0px 5px; color: #333333;" href="account.aspx">
-                        MY ACCOUNT</a><a style="padding: 0px 10px 0px 5px; color: #333333;" href="wishlist.aspx">
-                            WISH LIST</a><span style="color: #333333;"><a style="color: #333333;" href="signin.aspx">LOGIN or REGISTER</a></span>
-            </div>
-            <form name="topsearchform" method="get" action="search.aspx">
-            <div style="position: relative; left: 145px; top: 40px; width: 400px; border: 0px solid black;">
-                <input type="text" name="SearchTerm" class="searchBox" id="Text1" style="border-radius: 0px;">
-                <input type="image" style="position: relative; padding: 0px 10px 0px 10px; top: 6px;
-                    right: 14px;" onclick="document.topsearchform.submit()" title="Click Go to Submit" id="Button1" value="Go" src="skins/Skin_2/images/main_page/search_button.gif">
-            </div>
-            <div style="background-image: url(skins/Skin_2/images/main_page/cart.gif);
-                background-repeat: no-repeat; cursor: hand; cursor: pointer; position: relative;
-                height: 62px; width: 137px; left: 780px; top: -15px;" onclick="window.location.href='shoppingcart.aspx'">
-                <div style="position: relative; top: 25px; left: 53px; color: white; border-color: green;
-                    width: 50px; font-size: small; text-align: center;" onclick="window.location.href='shoppingcart.aspx'">
-                    (0)
-                </div>
-                
-            </div>
-            <map id="Map3" name="ShopByLinks">
-                <area href="newarrive.aspx" shape="rect" alt="New Arrivals" coords="77,0,154,13">
-                <area href="advsearch.aspx" shape="rect" alt="Advanced Search" coords="185,0,214,13">
-                <area href="advsearch.aspx" shape="rect" alt="Advanced Search" coords="244,0,349,13">
-            </map>
-            <img usemap="#ShopByLinks" src="skins/Skin_2/images/main_page/shopbylinks.jpg" border="0" alt="" style="position: relative; left: 570px; border: 0px black solid;">
-            </form>
-            <div style="position: relative; left: 15px; bottom: 105px;">
-                <a href="default.aspx">
+
+        <ul class="mtoph cf">
+            <li><a style="color: #333333;" href="signin.aspx">LOGIN or REGISTER</a></li>
+            <li><a class="wrapper_container_sub_a" href="wishlist.aspx">WISH LIST</a></li>
+            <li><a class="wrapper_container_sub_a" href="account.aspx">MY ACCOUNT</a></li>
+            <li><a class="wrapper_container_sub_a" href="t-international_shipping.aspx">INTERNATIONAL SHIPPING</a></li>
+        </ul>
+
+        <dl class="wrapper_header cf">
+            <dd class="mlogo">
+                <a href="default.aspx" class="cf" style="display: block; padding: 5px">
                     <img src="skins/Skin_2/images/main_page/logo.gif" border="0" alt="" style="position: absolute;">
                 </a>
-            </div>
-            <div style="position: relative; left: 530px; bottom: 85px;">
+
+            </dd>
+            <dd class="msearch">
+                <form name="topsearchform" method="get" action="search.aspx">
+                <input type="text" name="SearchTerm" class="searchBox msearchtext" id="Text1">
+                <input type="submit" class="msignbtn" id="searchBtn" value="Search">
+                </form>
+                <dl class="shoplink">
+                    <dd class="tit"><span>Shop By:</span></dd>
+                    <dd><a href="newarrive.aspx" shape="rect" title="New Arrivals">New Arrivals</a></dd><dd class="sep">,</dd>
+                    <dd><a href="advsearch.aspx" shape="rect" title="Size">Size</a></dd><dd class="sep">,</dd>
+                    <dd><a href="advsearch.aspx" shape="rect" title="Advanced Search">Advanced Search</a></dd>
+                </dl>
+            </dd>
+            <dd class="freeshiping">
                 <a href="t-shipping.aspx">
-                    <img src="skins/Skin_2/images/main_page/Free-Shipping-Banner.gif" border="0" alt="" style="position: absolute;">
+                    <div class="frees">Free Shipping</div>
+                    <div class="onpurchase">On Purchases of $50 or More</div>
+                    <div class="onpurchasefooter">Valid only for shipments within the continental U.S.</div>
+
                 </a>
-            </div>
-            <div style="position: relative; left: 2px; top: 10px; border: 0px black solid; z-index: 10000;">
+            </dd>
+            <dd class="mcarth">
+                <div style="margin: 0 auto; width: 77%">
+                    <a href="shoppingcart.aspx">
+                        <img src="skins/Skin_2/images/main_page/cart.gif" alt="View Cart" class="cartimg">
+                        <span class="cartnum">(0)</span>
+                    </a>
+                </div>
+
+            </dd>
+        </dl>
+        <div class="clear:both"></div>
+
+        <div class="wrapper_container">
+            <!--HEADER WRAPPER-->
+            <div class="wrapper_sub2">
                 <div class="wrapper_menu menu_light_theme">
                     <!-- BEGIN MENU WRAPPER -->
                     <ul class="menu menu_blue">
@@ -564,7 +477,11 @@ CACHE MENUS: True
                 </div>
             </div>
             <div id="content">
+                <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+                <script type="text/javascript" src="jscripts/jquery-ui-1.8.23.custom.min.js"></script>
+                <script type="text/javascript" src="jscripts/main.min.js"></script>
                 <!-- CONTENTS START -->
+                
                 <!-- READ FROM DB --><img src="images/Free-shipping-banner.jpg">
 <table width="745" align="center">
     <tbody>
@@ -615,267 +532,230 @@ CACHE MENUS: True
             </div>
         </div>
         <!-- bodywrapper -->
-        <table style="background-color: #fcfcfc; width: 922px; text-align: left;">
-            <tbody><tr>
-                <td valign="top" style="width: 185px; padding: 20px 20px 20px 20px;"><a style="color: #8a8a8a;
-                    font-size: 12pt; font-weight: bold;">WOMEN'S</a>
-                    <br>
-                    <br>
-                    <a href="c-9-womens_dress_shoes.aspx" style="color: #015897; font-size: 10pt;">Women's
+
+
+        <div class="m_tbl cf">
+            <div class="msub">
+
+
+                <a class="m_a_h">WOMEN'S</a>
+
+
+                <a href="c-9-womens_dress_shoes.aspx" class="m_a">Women's
                         Dress Shoes</a>
-                    <br>
-                    <a href="c-17-womens_casual_shoes.aspx" style="color: #015897; font-size: 10pt;">Women's
+
+                <a href="c-17-womens_casual_shoes.aspx" class="m_a">Women's
                         Casual Shoes</a>
-                    <br>
-                    <a href="c-65-womens-sandals.aspx" style="color: #015897; font-size: 10pt;">Women's
+                <a href="c-65-womens-sandals.aspx" class="m_a">Women's
                         Sandals</a>
-                    <br>
-                    <a href="c-40-womens_boots.aspx" style="color: #015897; font-size: 10pt;">Women's Boots
-                    </a>
-                    <br>
-                    <a href="c-43-womens_athletic_shoes.aspx" style="color: #015897; font-size: 10pt;">Women's
+
+                <a href="c-40-womens_boots.aspx" class="m_a">Women's Boots
+                </a>
+
+                <a href="c-43-womens_athletic_shoes.aspx" class="m_a">Women's
                         Athletic Shoes</a>
-                    <br>
-                    <a href="c-2-womens-shoes.aspx" style="color: #015897; font-size: 10pt;">More</a>
-                    <br>
-                </td>
-                <td valign="top" style="width: 184px; padding: 20px 20px 20px 20px;"><a style="color: #8a8a8a;
-                    font-size: 12pt; font-weight: bold;">MEN'S</a>
-                    <br>
-                    <br>
-                    <a href="c-85-mens_dress_shoes.aspx" style="color: #015897; font-size: 10pt;">Men's
+
+                <a href="c-2-womens-shoes.aspx" class="m_a">More</a>
+
+            </div>
+            <div class="msub">
+                <a class="m_a_h">MEN'S</a>
+
+
+                <a href="c-85-mens_dress_shoes.aspx" class="m_a">Men's
                         Dress Shoes</a>
-                    <br>
-                    <a href="c-45-mens_casual_shoes.aspx" style="color: #015897; font-size: 10pt;">Men's
+
+                <a href="c-45-mens_casual_shoes.aspx" class="m_a">Men's
                         Casual Shoes</a>
-                    <br>
-                    <a href="c-104-mens_sandal.aspx" style="color: #015897; font-size: 10pt;">Men's Sandals
-                    </a>
-                    <br>
-                    <a href="c-46-mens_boots.aspx" style="color: #015897; font-size: 10pt;">Men's Boots
-                    </a>
-                    <br>
-                    <a href="c-47-mens_athletic_shoes.aspx" style="color: #015897; font-size: 10pt;">Men's
+
+                <a href="c-104-mens_sandal.aspx" class="m_a">Men's Sandals
+                </a>
+
+                <a href="c-46-mens_boots.aspx" class="m_a">Men's Boots
+                </a>
+
+                <a href="c-47-mens_athletic_shoes.aspx" class="m_a">Men's
                         Athletic Shoes</a>
-                    <br>
-                    <a href="c-44-mens-shoes.aspx" style="color: #015897; font-size: 10pt;">More</a>
-                    <br>
-                </td>
-                <td valign="top" style="width: 184px; padding: 20px 0px 20px 35px;"><a style="color: #8a8a8a;
-                    font-size: 12pt; font-weight: bold;">KID'S</a>
-                    <br>
-                    <br>
-                    <a href="c-48-kids-shoes.aspx" style="color: #015897; font-size: 10pt;">Kids Shoes
-                    </a>
-                    <br>
-                    <a href="c-149-kids-boots.aspx" style="color: #015897; font-size: 10pt;">Kids Boots
-                    </a>
-                    <br>
-                    <a href="c-126-kids-skate.aspx" style="color: #015897; font-size: 10pt;">Kids Skate
+
+                <a href="c-44-mens-shoes.aspx" class="m_a">More</a>
+
+            </div>
+            <div class="msub">
+                <a class="m_a_h">KID'S</a>
+                <a href="c-48-kids-shoes.aspx" class="m_a">Kids Shoes
+                </a>
+
+                <a href="c-149-kids-boots.aspx" class="m_a">Kids Boots
+                </a>
+
+                <a href="c-126-kids-skate.aspx" class="m_a">Kids Skate
                         Shoes</a>
-                    <br>
-                    <a href="c-49-infant.aspx" style="color: #015897; font-size: 10pt;">Infants Shoes
-                    </a>
-                    <br>
-                    <a href="c-103-toddler.aspx" style="color: #015897; font-size: 10pt;">Toddlers Shoes
-                    </a>
-                    <br>
-                    <a href="c-48-kids-shoes.aspx" style="color: #015897; font-size: 10pt;">More</a>
-                    <br>
-                </td>
-                <td valign="top" style="width: 184px; padding: 20px 0px 20px 40px;"><a style="color: #8a8a8a;
-                    font-size: 12pt; font-weight: bold;">APPAREL</a>
-                    <br>
-                    <br>
-                    <a href="c-79-hand-bags.aspx" style="color: #015897; font-size: 10pt;">Bags and Handbags
-                    </a>
-                    <br>
-                    <a href="c-56-hats_caps.aspx" style="color: #015897; font-size: 10pt;">Hats</a>
-                    <br>
-                    <a href="c-78-accessories.aspx" style="color: #015897; font-size: 10pt;">All Accessories
-                    </a>
-                    <br>
-                    <a href="c-127-mens.aspx" style="color: #015897; font-size: 10pt;">Men's Apparel
-                    </a>
-                    <br>
-                    <a href="c-128-womens.aspx" style="color: #015897; font-size: 10pt;">Womens' Apparel
-                    </a>
-                    <br>
-                    <a href="c-51-apparel.aspx" style="color: #015897; font-size: 10pt;">More</a>
-                    <br>
-                </td>
-                <td valign="top" style="width: 185px; padding: 20px 20px 20px 20px;"><a style="color: #8a8a8a;
-                    font-size: 12pt; font-weight: bold;">SALE</a>
-                    <br>
-                    <br>
-                    <a href="gallery.aspx?CatID=44&amp;OnSale=1" style="color: #015897; font-size: 10pt;">Men's
+
+                <a href="c-49-infant.aspx" class="m_a">Infants Shoes
+                </a>
+
+                <a href="c-103-toddler.aspx" class="m_a">Toddlers Shoes
+                </a>
+
+                <a href="c-48-kids-shoes.aspx" class="m_a">More</a>
+
+            </div>
+            <div class="msub">
+                <a class="m_a_h">APPAREL</a>
+                <a href="c-79-hand-bags.aspx" class="m_a">Bags and Handbags
+                </a>
+                <a href="c-56-hats_caps.aspx" class="m_a">Hats</a>
+
+                <a href="c-78-accessories.aspx" class="m_a">All Accessories
+                </a>
+
+                <a href="c-127-mens.aspx" class="m_a">Men's Apparel
+                </a>
+
+                <a href="c-128-womens.aspx" class="m_a">Womens' Apparel
+                </a>
+
+                <a href="c-51-apparel.aspx" class="m_a">More</a>
+
+            </div>
+            <div class="msub">
+                <a class="m_a_h">SALE</a>
+                <a href="gallery.aspx?CatID=44&amp;OnSale=1" class="m_a">Men's
                         Sale Shoes</a>
-                    <br>
-                    <a href="gallery.aspx?CatID=2&amp;OnSale=1" style="color: #015897; font-size: 10pt;">Women's
+
+                <a href="gallery.aspx?CatID=2&amp;OnSale=1" class="m_a">Women's
                         Sale Shoes</a>
-                    <br>
-                    <a href="gallery.aspx?CatID=51&amp;OnSale=1" style="color: #015897; font-size: 10pt;">Men's
+
+                <a href="gallery.aspx?CatID=51&amp;OnSale=1" class="m_a">Men's
                         Apparel Sale</a>
-                    <br>
-                    <a href="gallery.aspx?CatID=48&amp;OnSale=1" style="color: #015897; font-size: 10pt;">Childrens
+
+                <a href="gallery.aspx?CatID=48&amp;OnSale=1" class="m_a">Childrens
                         Sale Shoes</a>
-                    <br>
-                    <a href="salelanding.aspx" style="color: #015897; font-size: 10pt;">Cheap Shoes Online
-                    </a>
-                    <br>
-                    <a href="salelanding.aspx" style="color: #015897; font-size: 10pt;">More</a>
-                    <br>
+
+                <a href="salelanding.aspx" class="m_a">Cheap Shoes Online
+                </a>
+
+                <a href="salelanding.aspx" class="m_a">More</a>
+
+            </div>
+            <div class="mclear"></div>
+            <div class="m_desc">
+                If you are looking for a great place to <a href="default.aspx">buy shoes online</a>, check out Shiekh Shoes. We may not be the biggest <a href="default.aspx">online shoe store</a>, or have the most extensive selection of <a href="c-79-packs_bags_purses.aspx">handbags online</a>, but our prices are the best online. So when you're looking
+                        to buy shoes online at a great price, consider Shiekh Shoes as your <a href="default.aspx">online shoe source</a>. Shiekh is known for offering <a href="salelanding.aspx">great
+                                value footwear</a> under the Shiekh label on products similar to the brand
+                        names. And if <a href="default.aspx">buying shoes online</a> isn’t your first choice,
+                        check out one of many <a href="stores.aspx">shoes stores</a> throughout California,
+                        Nevada, Texas, Arizona, New Mexico, Washington, Oregon, and now in Michigan and
+                        Illinois.
+            </div>
+            <hr class="mhr">
+        </div>
+        <div class="mf">
+            <div class="mfl cf">
+                <div class="helpinfo">Help &amp; Info</div>
+                <a class="mb" href="tracking.aspx">track order</a>
+                <a class="mb" href="stores.aspx">find a store</a>
+                <a class="mb" href="t-glossary.aspx">glossary of terms</a>
+                <a class="mb" href="t-returns.aspx">return policy</a>
+                <a class="mb" href="t-shipping.aspx">shipping info</a>
+                <a class="mb" href="t-privacy.aspx">privacy policy</a>
+                <a class="mb" href="t-service.aspx">customer service</a>
+                <a class="mb" href="t-sizechart.aspx">size chart</a>
+                <a class="mb" href="t-termsandconditions.aspx">terms of use</a>
+                <a class="mb" href="t-contact.aspx">contact us</a>
+                <a class="mb" href="sitemap2.aspx">site map</a>
+                <a class="mb" href="t-affiliate.aspx">affiliate program</a>
+                <a class="mb" href="t-faq.aspx">faq</a>
+                <a class="mb" href="t-security.aspx">security</a>
+                <a class="mb" href="t-100pricegurantee.aspx">100% price guarantee</a>
+                <a class="mb" href="career.aspx">careers</a>
+                <a class="mb" href="t-asseenin.aspx">as seen in</a>
+                <div class="mb">
+                     
+                </div>
+            </div>
+            <div class="mfr cf">
+                <div class="signnewsletter">Sign up for Shiekh Newsletter</div>
+                <dl class="msign cf">
+                    <dd>
+                        <img src="images/mailbox.png" style="border-width:0px;">
+                    </dd>
+                    <dd>
+                        <input type="text" id="daEmail" class="msigntext" placeholder="Email Address">
+                    </dd>
+                    <dd>
+                        <input type="button" id="addNewSub" class="msignbtn" value="Sign Up!"></dd>
+
+                </dl>
+                <div class="social cf">
+
+                    <a class="cf" href="https://www.facebook.com/pages/Shiekh-Shoes/163762275750" title="Facebook"><span class="sbtn fcb"></span></a>
+                    <a class="cf" href="https://www.twitter.com/shiekhshoes" title="Twitter"><span class="sbtn twr"></span></a>
+                    <a class="cf" href="https://plus.google.com/114139004113593196091?prsrc=3" title="Google+"><span class="sbtn gogl"></span></a>
+                    <div class="joinsc"><span>Join Us!</span></div>
+                </div>
+            </div>
+            <div class="mclear"></div>
+        </div>
+    </div>
+
+
+    <center>
+        <table cellpadding="2px" cellspacing="2px">
+            <tbody><tr>
+                <td colspan="4" align="center">
+                    <img src="skins/Skin_2/images/main_page/payment-options.gif" border="0" alt="Payment Methods">
                 </td>
             </tr>
             <tr>
-                <td colspan="5" style="font-family: verdana; color: #7A7979; font-size: 9pt; padding: 10px 25px 10px 25px;">
-                    <p>
-                        If you are looking for a great place to <a href="default.aspx">buy shoes online</a>
-                        buy shoes online, check out Shiekh Shoes. We may not be the biggest <a href="default.aspx">
-                            online shoe store</a>, or have the most extensive selection of <a href="c-79-packs_bags_purses.aspx">
-                                handbags online</a>, but our prices are the best online. So when looking
-                        to buy shoes online at a great price, consider Shiekh Shoes as your <a href="default.aspx">
-                            online shoe source</a>. Shiekh is known for offering <a href="salelanding.aspx">great
-                                value footwear</a> under the Shiekh label on products similar to the brand
-                        names. And if <a href="default.aspx">buying shoes online</a> isn’t your first choice,
-                        check out one of many <a href="stores.aspx">shoes stores</a> through out California,
-                        Nevada, Texas, Arizona, New Mexico, Washington, Oregon, and now in Michigan and
-                        Illinois.
-                    </p>
+                <td colspan="4">
+                    <hr>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <!-- BEGIN: Bizrate Medal (125x73 pixels) -->
+                    <a class="br-button">
+                        <img src="//medals.bizrate.com/medals/dynamic/216943_medal.gif" width="125" height="73" border="0" usemap="#216943_medal" alt="See Shiekh Shoes Reviews at Bizrate.com">
+                        <map name="216943_medal">
+                            <area shape="poly" coords="1,0,1,72,67,72,67,49,124,49,124,0" href="//www.bizrate.com/ratings_guide/merchant_detail__mid--216943.html?rf=sur" title="See Shiekh Shoes Reviews at Bizrate.com" target="_blank">
+                            <area shape="rect" coords="68,50,124,72" href="//www.bizrate.com/?rf=sur" title="Bizrate" target="_blank">
+                        </map>
+                    </a>
+                    <!-- END: Bizrate Medal (125x73 pixels) -->
+                </td>
+                <td>
+                    <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
+                        <tbody><tr>
+                            <td width="135" align="center" valign="top">
+                                <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.shiekhshoes.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
+                                <br>
+                                <a href="https://www.symantec.com/ssl-certificates" target="_blank" class="sslcontainer">ABOUT SSL CERTIFICATES</a>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+                <td>
+                    <!-- (c) 2005, 2012. Authorize.Net is a registered trademark of CyberSource Corporation -->
+                    <div class="AuthorizeNetSeal">
+                        <script type="text/javascript" language="javascript">                                var ANS_customer_id = "00196a72-a2fb-43fe-8d40-a2de04218d49";</script>
+                        <script type="text/javascript" language="javascript" src="https://verify.authorize.net/anetseal/seal.js"></script>
+                        <a href="https://www.authorize.net/" id="AuthorizeNetText" target="_blank">Credit Card
+                                Processing</a>
+                    </div>
+                </td>
+                <td>
+                    <script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?code=843b1a380ca511e0b34b005056b201e5"></script>
                 </td>
             </tr>
         </tbody></table>
-        <div id="footer_new">
-            <img style="width: 922px; height: 2px;" alt="" src="skins/Skin_2/images/line.gif"><div id="footer_new_HelpInfo">
-                
-                <table>
-                    <tbody><tr>
-                        <td><a href="Tracking.aspx">TRACK ORDER</a></td>
-                        <td><a href="stores.aspx">FIND A STORE</a></td>
-                        <td><a href="t-glossary.aspx">GLOSSARY OF TERMS</a></td>
-                    </tr>
-                    
-                    <tr>
-                        <td><a href="t-returns.aspx">RETURN POLICY</a></td>
-                        <td><a href="t-shipping.aspx">SHIPPING INFO</a></td>
-                        <td><a href="t-privacy.aspx">PRIVACY POLICY</a></td>
-                    </tr>
-                    
-                    <tr>
-                        <td><a href="t-service.aspx">CUSTOMER SERVICE</a></td>
-                        <td><a href="t-SizeChart.aspx">SIZE CHART</a></td>
-                        <td><a href="t-termsandconditions.aspx">TERMS OF USE</a></td>
-                    </tr>
-                    
-                    <tr>
-                        <td><a href="t-contact.aspx">CONTACT US</a></td>
-                        <td><a href="sitemap2.aspx">SITE MAP</a></td>
-                        <td><a href="t-affiliate.aspx">AFFILIATE PROGRAM</a></td>
-                    </tr>
-                    
-                    <tr>
-                        <td><a href="t-faq.aspx">FAQ</a></td>
-                        <td><a href="t-security.aspx">SECURITY</a></td>
-                        <td><a href="t-100PriceGurantee.aspx">100% PRICE GUARANTEE</a></td>
-                    </tr>
-                    
-                    <tr>
-                        <td><a href="career.aspx">CAREERS</a></td>
-                        <td><a href="t-AsSeenIn.aspx">AS SEEN IN</a></td>
-                        <td> </td>
-                    </tr>
-                </tbody></table>
-            </div>
-            <div id="footer_new_ShiekhMail">
-                
-                <div style="position: relative; right: 100px; top: 80px; float: right; width: 230px;">
-                    
-                    
-                    <font color="#FFFFFF">%CONTENTS%</font>
-                    
-                    <input type="text" size="150" id="daEmail" style="border: solid 2px #03baff; width: 320px;
-                        height: 20px; position: relative; right: 15px; bottom: 34px; background-color: white;
-                        border-radius: 5px;">
-                    <input type="image" src="skins/Skin_2/images/main_page/submit_button.jpg" value="Join!" id="addNewSub" style="position: relative; left: 70px; bottom: 34px;">
-                    
-                </div>
-                <div style="border: 0px black solid; position: relative; top: 150px; left: 200px;
-                    float: right; text-align: left;">
-                    <map id="Map2" name="SocialNetwork">
-                        <area href="https://www.facebook.com/pages/Shiekh-Shoes/163762275750" shape="rect" alt="Facebook" coords="71,1,101,28">
-                        <area href="https://www.twitter.com/shiekhshoes" shape="rect" alt="Twitter" coords="113,1,140,28">
-                    </map>
-                    <img src="skins/Skin_2/images/main_page/social-network.gif" border="0" alt="" usemap="#SocialNetwork">
-                </div>
-            </div>
-        </div>
-        <br>
-        <center>
-            <table cellpadding="2px" cellspacing="2px">
-                <tbody><tr>
-                    <td colspan="4" align="center">
-                        <img src="skins/Skin_2/images/main_page/payment-options.gif" border="0" alt="Payment Methods">
-                    </td>
-                </tr>
-                <tr>
-                    <td colspan="4">
-                        <hr>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <!-- BEGIN: Bizrate Medal (125x73 pixels) -->
-                        <a class="br-button">
-                            <img src="//medals.bizrate.com/medals/dynamic/216943_medal.gif" width="125" height="73" border="0" usemap="#216943_medal" alt="See Shiekh Shoes Reviews at Bizrate.com">
-                            <map name="216943_medal">
-                                <area shape="poly" coords="1,0,1,72,67,72,67,49,124,49,124,0" href="//www.bizrate.com/ratings_guide/merchant_detail__mid--216943.html?rf=sur" title="See Shiekh Shoes Reviews at Bizrate.com" target="_blank">
-                                <area shape="rect" coords="68,50,124,72" href="//www.bizrate.com/?rf=sur" title="Bizrate" target="_blank">
-                            </map>
-                        </a>
-                        <!-- END: Bizrate Medal (125x73 pixels) -->
-                    </td>
-                    <td>
-                        <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
-                            <tbody><tr>
-                                <td width="135" align="center" valign="top">
-                                    <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.shiekhshoes.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
-                                    <br>
-                                    <a href="https://www.symantec.com/ssl-certificates" target="_blank" style="color: #000000;
-                                        text-decoration: none; font: bold 7px verdana,sans-serif; letter-spacing: .5px;
-                                        text-align: center; margin: 0px; padding: 0px;">ABOUT SSL CERTIFICATES</a>
-                                </td>
-                            </tr>
-                        </tbody></table>
-                    </td>
-                    <td>
-                        <!-- (c) 2005, 2012. Authorize.Net is a registered trademark of CyberSource Corporation -->
-                        <div class="AuthorizeNetSeal">
-                            <script type="text/javascript" language="javascript">                                var ANS_customer_id = "00196a72-a2fb-43fe-8d40-a2de04218d49";</script>
-                            <script type="text/javascript" language="javascript" src="https://verify.authorize.net/anetseal/seal.js"></script>
-                            <a href="https://www.authorize.net/" id="AuthorizeNetText" target="_blank">Credit Card
-                                Processing</a>
-                        </div>
-                    </td>
-                    <td>
-                        <script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?code=843b1a380ca511e0b34b005056b201e5"></script>
-                    </td>
-                </tr>
-            </tbody></table>
-        </center>
-        <br>
-        <!--END of footer_new-->
-    </div>
-    
-    <!-- END of wrapper -->
-    
-    <script type="text/javascript">
-var pageTracker = _gat._getTracker("");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
+    </center>
 
-    <iframe src="https://pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing&amp;sid=3233" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0">
-    </iframe>
+    <!--END of footer_new-->
+    <script type="text/javascript" src="jscripts/formValidate.min.js" defer="defer"></script>
+
+   
+    <iframe src="https://pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing&amp;sid=3233" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
     <script type="text/javascript" src="https://Shiekh-Shoes.ojrq.net/container-939.js"></script>
 
 
