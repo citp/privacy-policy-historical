@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defensereview.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618065741id_/http%3A//www.defensereview.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defensereview.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225174842id_/http%3A//www.defensereview.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Defense Review - Privacy Policy
 
