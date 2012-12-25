@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eukicks.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511120344id_/http%3A//www.eukicks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eukicks.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226003444id_/http%3A//www.eukicks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - EU Kicks: Sneaker Magazine
+# Privacy Policy
 
 **Privacy Policy for EUKicks.com**
 
@@ -25,4 +25,6 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-Thanks to [JenSense](https://web.archive.org/web/20120511120344id_/http://www.eukicks.com/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+Thanks to [JenSense](https://web.archive.org/web/20121226003444id_/http://www.eukicks.com/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+
+[](https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.eukicks.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
