@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the capgemini.com privacy policy that was archived on 2011-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111215022543id_/http%3A//www.capgemini.com/terms/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the capgemini.com privacy policy that was archived on 2012-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225175341id_/http%3A//www.capgemini.com/terms/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class=" hasJS"><!-- <![endif]--><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -36,36 +36,39 @@
 
         var back_to_doc = 'Back';
         
-        </script><script src="/js/jquery-1.3.2.min.js" type="text/javascript" charset="utf-8"></script>
+        </script><script src="/js/jquery-1.6.4.min.js" type="text/javascript" charset="utf-8"></script>
 <script src="/js/jquery.popupWindow.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript" language="javascript" src="/ext/expert_section/js/jquery.jcarousel.min.js"></script>
 <script src="/js/local/combined.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" language="javascript" src="/ext/document_video_carosuel/js/jquery.roundabout.js"></script>
+<script type="text/javascript" language="javascript" src="/ext/document_video_carosuel/js/jquery.tooltip.js"></script>
 <script type="text/javascript" language="javascript" src="/js/util.js"></script>
+<script src="/js/swfobject.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+	
+							var isiPad = navigator.userAgent.match(/iPad/i) != null;
+							
+							if(isiPad) {
+								var oHead = document.getElementsByTagName("head").item(0);
+								var oScript= document.createElement("script"); 
+								oScript.type = "text/javascript"; 
+								oScript.src="http://www.capgemini.com/ext/video_library/js/kaltura_player/mwEmbed-player-static.js"; 
+								oHead.appendChild( oScript);
+							} else {
+								if(swfobject.getFlashPlayerVersion().major > 9) {
+									//Nothing to Do
+								} else {
+									var oHead = document.getElementsByTagName("head").item(0);
+									var oScript= document.createElement("script"); 
+									oScript.type = "text/javascript"; 
+									oScript.src="http://www.capgemini.com/ext/video_library/js/kaltura_player/mwEmbed-player-static.js"; 
+									oHead.appendChild( oScript); 
+								}
+							}
+					</script>
 
-    <script src="/js/swfobject.js" type="text/javascript" charset="utf-8"></script>
-	<script type="text/javascript" language="javascript" src="/ext/expert_section/js/jquery.jcarousel.min.js"></script>
-	<script type="text/javascript" src="/js/jquery.cookie.js"></script>
-    <script type="text/javascript" src="/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-    <link rel="stylesheet" type="text/css" href="/js/fancybox/jquery.fancybox-1.3.4.css" media="screen">
 
     <script type="text/javascript" charset="utf-8">
-    	/*
-		jQuery(document).ready(function() {
-			if (jQuery.cookie('cg_survey_displayed') != 'true') {
-				jQuery.fancybox(
-					'<iframe src="https://www.surveymonkey.com/s.aspx?sm=xuKI%2b8hOj4b9VfG6VddIMA%3d%3d" style="border: 0px none; padding-bottom: 4px;" frameborder="0" height="520" width="750">&lt;a href="https://www.surveymonkey.com/s.aspx?sm=xuKI%2b8hOj4b9VfG6VddIMA%3d%3d"&gt;Please take our survey&lt;/a&gt;</iframe>',
-					{
-        				'autoDimensions'	: false,
-						'width'         	: 750,
-						'height'        	: 'auto',
-						'transitionIn'		: 'none',
-						'transitionOut'		: 'none'
-					}
-				);
-				jQuery.cookie('cg_survey_displayed', 'true', { expires: 60, path: '/' });
-			}
-		});
-		*/
         var hasFlash = function() {
             var htmlTag = document.getElementsByTagName('html')[0];
             if (swfobject.getFlashPlayerVersion().major > 0) {
@@ -74,8 +77,15 @@
         }();
 
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-27514789-1']);
-  _gaq.push(['_trackPageview']);
+  _gaq.push(['_setAccount', 'UA-27514789-1'],
+      ['_trackPageview'],
+      ['_setDomainName', '.capgemini.com'],
+      ['_setAllowLinker', true],
+   	  ['hq._setAccount', 'UA-35173109-1'],
+      ['hq._trackPageview'],
+      ['hq._setDomainName', '.capgemini.com'],
+      ['hq._setAllowLinker', true]
+  );
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -83,9 +93,23 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+
 </script>
+
+<script type="text/javascript" charset="utf-8">
+jQuery(document).ready(function() {
+	if (jQuery('#sm_e_s').length > 0){
+		jQuery("#sm_e_s").css({
+    		height: "1800px ",
+    		'overflow-x': "hidden",
+    		'overflow-y': "hidden"
+		});
+	}
+});
+</script> 
+ 
 </head><body id="expert-section">
-    <!-- START : content -->
+<!-- START : content -->
     <div id="content" class="experts-skin">
         <!-- START : header -->
             <div id="header">
@@ -108,7 +132,7 @@
                             <li><div class="replace-select">
                                     <span class="bullet-country">
                                         <img src="/img/skin/flag_2.png" alt=""><span>Worldwide</span> <a href="#change-country" class="showJS">[Change]</a></span>
-                                    <div class="" id="change-country"><ul><li><a href="http://www.ar.capgemini.com/">Argentina</a></li><li><a href="http://www.au.capgemini.com/">Australia</a></li><li><a href="http://www.at.capgemini.com/">Austria</a></li><li><a href="http://www.be.capgemini.com/">Belgium</a></li><li><a href="http://www.br.capgemini.com/">Brazil</a></li><li><a href="http://www.ca.capgemini.com/">Canada (English)</a></li><li><a href="http://www.fr.capgemini.com/">Canada (French)</a></li><li><a href="http://www.cn.capgemini.com/">China</a></li><li><a href="http://www.hr.capgemini.com/">Croatia</a></li><li><a href="http://www.cz.capgemini.com/">Czech Republic</a></li><li><a href="http://www.dk.capgemini.com/">Denmark</a></li><li><a href="http://www.fi.capgemini.com/">Finland</a></li><li><a href="http://www.fr.capgemini.com/">France</a></li><li><a href="http://www.de.capgemini.com/">Germany</a></li><li><a href="http://www.capgemini.hu">Hungary</a></li><li><a href="http://www.in.capgemini.com">India</a></li><li><a href="http://www.it.capgemini.com/">Italy</a></li><li><a href="http://www.mx.capgemini.com/">Mexico</a></li><li><a href="http://www.nl.capgemini.com/">Netherlands</a></li><li><a href="http://www.capgemini.no">Norway</a></li><li><a href="http://www.pl.capgemini.com/">Poland</a></li><li><a href="http://www.pt.capgemini.com/">Portugal</a></li><li><a href="http://www.ro.capgemini.com">Romania</a></li><li><a href="http://www.ru.capgemini.com/">Russia</a></li><li><a href="http://www.sk.capgemini.com/">Slovakia</a></li><li><a href="http://www.es.capgemini.com/">Spain</a></li><li><a href="http://www.se.capgemini.com/">Sweden</a></li><li><a href="http://www.ch.capgemini.com/">Switzerland</a></li><li><a href="http://www.cn.capgemini.com/">Taiwan</a></li><li><a href="http://www.uk.capgemini.com/">United Kingdom</a></li><li><a href="http://www.us.capgemini.com/">United States</a></li></ul></div>
+                                    <div class="" id="change-country"><ul><li><a href="http://www.ar.capgemini.com/">Argentina</a></li><li><a href="http://www.au.capgemini.com/">Australia</a></li><li><a href="http://www.at.capgemini.com/">Austria</a></li><li><a href="http://www.be.capgemini.com/">Belgium</a></li><li><a href="http://www.br.capgemini.com/">Brazil</a></li><li><a href="http://www.ca.capgemini.com/">Canada (English)</a></li><li><a href="http://www.fr.capgemini.com/">Canada (French)</a></li><li><a href="http://www.cn.capgemini.com/">China</a></li><li><a href="http://www.cz.capgemini.com/">Czech Republic</a></li><li><a href="http://www.dk.capgemini.com/">Denmark</a></li><li><a href="http://www.fi.capgemini.com/">Finland</a></li><li><a href="http://www.fr.capgemini.com/">France</a></li><li><a href="http://www.de.capgemini.com/">Germany</a></li><li><a href="http://www.capgemini.hu">Hungary</a></li><li><a href="http://www.in.capgemini.com">India</a></li><li><a href="http://www.it.capgemini.com/">Italy</a></li><li><a href="http://www.nl.capgemini.com/">Netherlands</a></li><li><a href="http://www.capgemini.no">Norway</a></li><li><a href="http://www.pl.capgemini.com/">Poland</a></li><li><a href="http://www.pt.capgemini.com/">Portugal</a></li><li><a href="http://www.ro.capgemini.com">Romania</a></li><li><a href="http://www.ru.capgemini.com/">Russia</a></li><li><a href="http://www.sk.capgemini.com/">Slovakia</a></li><li><a href="http://www.es.capgemini.com/">Spain</a></li><li><a href="http://www.se.capgemini.com/">Sweden</a></li><li><a href="http://www.ch.capgemini.com/">Switzerland</a></li><li><a href="http://www.cn.capgemini.com/">Taiwan</a></li><li><a href="http://www.uk.capgemini.com/">United Kingdom</a></li><li><a href="http://www.us.capgemini.com/">United States</a></li></ul></div>
                                 </div>
                             </li>
                         </ul>
@@ -137,8 +161,9 @@
 				<ul><!--
 					--><li class="sublist"><span><a href="/services-and-solutions/challenges/">By Business Need</a></span>
 						<ul><!--
-						--><li><a href="/services-and-solutions/challenges/infostructure-transformation-services/overview/">Infostructure Transformation Services</a></li><!--
+						--><li><a href="/services-and-solutions/challenges/infostructure-transformation-services/overview/">Infrastructure Transformation Services</a></li><!--
 						--><li><a href="/services-and-solutions/challenges/cloud/overview/">Cloud Computing</a></li><!--
+						--><li><a href="/services-and-solutions/challenges/business-process-management/overview/">Business Process Management</a></li><!--
 						--><li><a href="/services-and-solutions/challenges/business-technology/overview/">Business Technology</a></li><!--
 						--><li><a href="/services-and-solutions/challenges/transforming-it-function/overview/">Transforming the IT Function</a></li><!--
 						--><li><a href="/services-and-solutions/challenges/cost-optimization/overview/">Cost Optimization</a></li><!--
@@ -178,8 +203,8 @@
 						--><li><a href="/services-and-solutions/outsourcing/business-process-outsourcing/overview/">Business Process Outsourcing</a></li><!--
 						--><li><a href="/services-and-solutions/outsourcing/infrastructure-outsourcing/overview/">Infrastructure Outsourcing</a></li><!--
 						--><li><a href="/services-and-solutions/outsourcing/green-it/overview/">Green IT</a></li><!--
-						--><li><a href="/services-and-solutions/outsourcing/service-management/overview/">Service Management</a></li><!--
 						--><li><a href="/services-and-solutions/outsourcing/service-desk/">Global Service Desk</a></li><!--
+						--><li><a href="/services-and-solutions/outsourcing/enterprise-service-management/overview/">Enterprise Service Management</a></li><!--
 						--></ul><!--
 					--></li><!--
 					--><li class="sublist"><span><a href="/services-and-solutions/technology/">Technology Services</a></span>
@@ -189,22 +214,18 @@
 						--><li><a href="/services-and-solutions/technology/architecture/overview/">IT Transformation: Strategy &amp; Architecture</a></li><!--
 						--><li><a href="/services-and-solutions/technology/business-information-management/overview/">Business Information Management</a></li><!--
 						--><li><a href="/services-and-solutions/technology/security/overview/">Infrastructure and Security</a></li><!--
-						--><li><a href="/services-and-solutions/technology/mobility-transformation/overview/">Mobility Transformation</a></li><!--
+						--><li><a href="/services-and-solutions/technology/mobility/overview/">Mobile Solutions</a></li><!--
 						--><li><a href="/services-and-solutions/technology/quality_and_testing/overview/">Software Quality Management &amp; Testing</a></li><!--
-						--><li><a href="/services-and-solutions/technology/sap/overview/">SAP Solutions</a></li><!--
-						--><li><a href="/services-and-solutions/technology/oracle/overview/">Oracle</a></li><!--
-						--><li><a href="/services-and-solutions/technology/hp/overview/">HP</a></li><!--
-						--><li><a href="/services-and-solutions/technology/ibm/overview/">IBM</a></li><!--
-						--><li><a href="/services-and-solutions/technology/microsoft/overview/">Microsoft</a></li><!--
-						--><li><a href="/services-and-solutions/technology/emc/overview/">EMC</a></li><!--
+						--><li><a href="/services-and-solutions/technology/salesforce/overview/">Capgemini and Salesforce</a></li><!--
 						--><li><a href="/services-and-solutions/technology/soa/overview/">Service-Oriented Architecture</a></li><!--
-						--><li><a href="/services-and-solutions/technology/partner-portfolio/overview/">Partner Portfolio</a></li><!--
 						--></ul><!--
 					--></li><!--
-					--><li class=" menu-separator"><span><a href="/services-and-solutions/professional/">Local Professional Services</a></span></li><!--
+					--><li><span><a href="/services-and-solutions/professional/">Local Professional Services</a></span></li><!--
+					--><li><span><a href="/services-and-solutions/partners/">Global Partnerships</a></span></li><!--
 					--><li><span><a href="/services-and-solutions/application-services/overview/">Application Services</a></span></li><!-- --><li><span><a href="/services-and-solutions/outsourcing/business-process-outsourcing/overview/">BUSINESS PROCESS OUTSOURCING</a></span></li><!--
 					--><li class=" menu-separator"><span><a href="/services-and-solutions/infrastructure-services/overview/">Infrastructure Services</a></span></li><!-- --><li><span><a href="/services-and-solutions/technology/business-information-management/overview/">BUSINESS INFORMATION MANAGEMENT</a></span></li><!--
 					--><li><span><a href="/services-and-solutions/challenges/business-process-management/overview/">BUSINESS PROCESS MANAGEMENT</a></span></li><!--
+--><li><span><a href="/services-and-solutions/technology/mobility/overview/">MOBILE SOLUTIONS</a></span></li><!--
 					--><li><span><a href="/services-and-solutions/by-industry/energy/solutions/smart-energy-services/">SMART ENERGY SERVICES</a></span></li><!--
 					--><li><span><a href="/services-and-solutions/challenges/testing-services/overview/">TESTING SERVICES</a></span></li><!--
 				--></ul><!--
@@ -239,7 +260,6 @@
 					--><li><span><a href="/news-and-events/events/">Events</a></span></li><!--
 					--><li class="sublist"><span><a href="/news-and-events/press/">Newsroom</a></span>
 						<ul><!--
-						--><li><a href="/news-and-events/press/backgrounder/">Company Backgrounder</a></li><!--
 						--><li><a href="/news-and-events/press/local_newsrooms/">Local News and Contacts</a></li><!--
 						--></ul><!--
 					--></li><!--
@@ -317,7 +337,8 @@
                 <div id="page-primary">
                     <div class="interactive-elements"><!-- this is build in javascript --><ul><li class="print"><a href="javascript:window.print();"><span><span>Print</span></span></a></li><li class="share"><a href="https://web.archive.org/web/20110402200450/http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4a6b8c986c3f8bae"><span><span>Share &amp; bookmark</span></span></a></li></ul></div>
 
-   
+
+    
 
    
 
@@ -335,8 +356,13 @@
 <li value="0"><strong>Maintaining the website and conducting customer satisfaction surveys</strong>. We will use your Personal Data in order to maintain and improve our website.&nbsp;  We may also use your Personal Data in order to conduct customer satisfaction surveys. </li>
 <li value="0">Compiling <strong>aggregate statistics</strong> regarding the use of its website. </li>
 </ul>
-<h2><strong>Cookies and clicktrails</strong></h2>
-<p>We may collect information through our website by using cookies and clicktrails.  All information collected by means of cookies or clicktrails will be anonymised,  aggregated and only used to develop and track traffic patterns and the volume  of use of our websites. Sometimes cookies are used to assist you in reaching  the appropriate information and to tailor your visit to your individual preferences.  For example, a cookie can be used to remember your login information if you choose  the “Remember me” option while signing in. If you do not want to receive a cookie  from our website, you may set your browser to refuse cookies or to notify you  when you receive a cookie, which you may then refuse upon such notice. To understand  how to do this, please consult your browser’s help section. However, refusing  the cookies may prevent you from accessing some parts of the websites.</p>
+<h2><strong>Cookies <br></strong></h2>
+<p>We use cookies on this site. Cookies are small pieces of information that a website sends to your computer's web browser while you are viewing a website.</p>
+<p>By using our website, you agree to the placing of cookies on your device as further explained below.</p>
+<p>We only use performance cookies that collect information about how visitors use a website, for instance which pages they go to more often. All information collected by means of cookies is anonymized, aggregated and only used to develop and track traffic patterns and the volume of use of our websites and to improve how our website works. This information is for Capgemini exclusive use and is not shared with any third-party or connected to any other information.</p>
+<p>We do not collect behavioral, advertising and/or targeting cookies.</p>
+<p>If you do not want to receive a cookie from our website, you may set your browser to refuse cookies or to notify you when you receive a cookie, which you may then refuse upon such notice. To understand how to do this, please consult your browser’s help section.</p>
+<p>As part of the service provided by Addthis allowing visitors to share our content via email or on social sites, a cookie is also used. Please refer to the Addthis privacy statement at <a href="http://www.addthis.com/privacy" target="_blank" class="ext_link" title="http://www.addthis.com/privacy (Opens in new window)">http://www.addthis.com/privacy</a> for any further information on the use and your rights related to the use of such cookie.</p>
 <h2><strong>Global organisation</strong></h2>
 <p>Capgemini is a global organisation. Whilst we have distinct legal entities (e.g.,  country subsidiaries) in many parts of the world, our internal processes and infrastructure  are international in scope and nature and generally cross country borders. Accordingly,  you should be aware that we may share your Personal Data inside Capgemini and  transfer it to countries in the world where we have data centres or otherwise  do business, including those located outside the European Union (EU). Some of  these countries do not have specific data protection laws and so may provide less  legal protection for your Personal Data. In these instances, Capgemini will process  your Personal Data in the manner described by this Policy and in accordance with  applicable law.</p>
 <h2><strong>Third-party suppliers</strong></h2>
@@ -354,7 +380,7 @@
 <h2><strong>Third-party websites</strong></h2>
 <p>Capgemini websites may provide links to third-party websites. Capgemini does  not make any representations or warranties with respect to such third-party websites.  You should be aware that the owners and operators of such third-party websites  might collect, use or transfer personal data under different terms and conditions  than Capgemini. Upon linking to a third-party website, you should inform yourself  of the privacy policies of such third party websites. You should also be aware  that third-party websites may use cookies.</p>
 <h2>Notification of changes to this Policy</h2>
-<p>This Policy was last updated on February 20th 2006. In order to check updates  to this Policy, please consult this page on a regular basis.</p></div>
+<p>This Policy was last updated on June 1, 2012. In order to check updates  to this Policy, please consult this page on a regular basis.</p></div>
 
                 </div>
                 <!-- END : page-primary -->
@@ -372,32 +398,30 @@
                         <div class="box-bottom"></div>
                     </div>
 
-<!-- START : box-links (vertical) -->
+                    <!-- START : box-links (vertical) -->
                     <div class="box-links-1">
                         <div class="box-top"></div>
-
                         <div class="box-bottom">
 	                        <div class="inner">
     	                        <div class="ttl-h3-1">
         	                        <h3>Get more from us</h3>
                                 </div>
-                                <ul class="quick-links">
-                                    <!--li><a href="/my-capgemini/my-page/" title="My Page"><img src="/img/data/ico_6.png" alt="" /><span>My page</span></a></li-->
-                                    <li><a href="/insights-and-resources/blogs/" title="Blogs"><img src="/img/data/ico_4.png" alt=""><span>Blogs</span></a></li>
-                                    <li><a href="/my-capgemini/personalized-rss-feed/" title="RSS Feed"><img src="/img/data/ico_5.png" alt=""><span>RSS Feed</span></a></li>
-                                    <li><a href="/insights-and-resources/newsletters/" title="Newsletters"><img src="/img/data/ico_3.png" alt=""><span>Newsletters</span></a></li>
-									<li><a href="http://www.twitter.com/capgemini" title="twitter"><img src="/img/data/Picto-CAPGEMINI_twitter1.png" alt=""><span>CAPGEMINI ON TWITTER</span></a></li>
-									<li><a href="http://www.facebook.com/capgemini" title="FACEBOOK"><img src="/img/data/Picto-CAPGEMINI_FB.png" alt=""><span>CAPGEMINI ON FACEBOOK</span></a></li>
-									<li><a href="http://www.youtube.com/capgeminimedia" title="youtube"><img src="/img/data/Picto-CAPGEMINI_YOUTUBE.png" alt=""><span>CAPGEMINI ON YOUTUBE</span></a></li>
-									<li><a href="http://www.linkedin.com/company/capgemini" title="linkedin"><img src="/img/data/Picto-CAPGEMINI_LINKEDIN.png" alt=""><span>CAPGEMINI ON LINKEDIN</span></a></li>
-									<li class="last"><a href="http://www.slideshare.net/capgemini" title="slideshare"><img src="/img/data/Picto-CAPGEMINI_SLIDESHARE.png" alt=""><span>CAPGEMINI ON SLIDESHARE</span></a></li>
+                                <ul class="c">
+                                    <li><a href="/insights-and-resources/newsletters/?ftcnt=10140" "="" title="Newsletter"><img src="/img/data/ico_3.png" alt=""><span>Newsletter</span></a></li>
+                                    <li><a href="/insights-and-resources/blogs/?ftcnt=10141" title="Blogs"><img src="/img/data/ico_4.png" alt=""><span>Blogs</span></a></li>
+                                    <li><a href="http://www.capgemini.com/my-capgemini/personalized-rss-feed/?ftcnt=10143" title="RSS Feed"><img src="/img/data/ico_5.png" alt=""><span>RSS Feed</span></a></li>
                                 </ul>
+								<ul class="d">
+									<li><a href="http://www.twitter.com/capgemini" title="Capgemini on Twitter" target="_blank"><img src="/img/skin/picto-rezo-1.png" width="31" height="32" alt="Twitter"></a></li>
+									<li><a href="http://www.facebook.com/capgemini" title="Capgemini on Facebook" target="_blank"><img src="/img/skin/picto-rezo-2.png" width="31" height="32" alt="Facebook"></a></li>
+									<li><a href="http://www.youtube.com/capgeminimedia" title="Capgemini on YouTube" target="_blank"><img src="/img/skin/picto-rezo-3.png" width="31" height="32" alt="YouTube"></a></li>
+									<li><a href="http://www.linkedin.com/company/capgemini" title="Capgemini on LinkedIn" target="_blank"><img src="/img/skin/picto-rezo-4.png" width="31" height="32" alt="LinkedIn"></a></li>
+									<li><a href="http://www.slideshare.net/capgemini" title="Capgemini on SlideShare" target="_blank"><img src="/img/skin/picto-rezo-5.png" width="31" height="32" alt="SlideShare"></a></li>
+								</ul>
 	                        </div>
                         </div>
                     </div>
-<!-- END : box-links (vertical) -->
-
-
+                    <!-- END : box-links (vertical) --> 
 
                 </div>
                 <!-- END : page-secondary -->
@@ -408,16 +432,19 @@
         </div>  <!-- START : footer -->
 	<div id="footer">
             <ul>
-				<li><a href="/contactus/">Contact Us</a></li>
-				<li><a href="/insights-and-resources/newsletters/">Newsletter</a></li>
-				<li class="last"><a href="/insights-and-resources/rss_news_feed/"><acronym title="Really Simple Syndication">RSS</acronym></a></li>
-                <li><a href="/terms/">Terms of use</a></li>
-                <li><a href="/terms/privacy/">Privacy Policy</a></li>
-                <li><a href="/terms/legal/">Legal Info</a></li>
-                <li> <a href="/credits/">Credits</a></li>
-                <li class="copyright">©Capgemini 2011</li>
+				<li><a href="/contact-capgemini/" title="Contact Us">Contact Us</a></li>
+				<li><a href="/insights-and-resources/newsletters/" title="Newsletter">Newsletter</a></li>
+				<li class="last"><a href="/insights-and-resources/rss_news_feed/" title="RSS"><acronym title="Really Simple Syndication">RSS</acronym></a></li>
+                <li><a href="/terms/" title="Terms of use">Terms of use</a></li>
+                <li><a href="/terms/privacy/" title="Privacy Policy">Privacy Policy</a></li>
+                <li><a href="/terms/legal/" title="Legal Info">Legal Info</a></li>
+                <li> <a href="/credits/" title="Credits">Credits</a></li>
+                <li class="copyright">©Capgemini 2012</li>
 				
-				<li class="cbe"><a href="http://www.capgemini.com/about/capgemini/cbe/overview/">Collaborative Business Experience™ <img height="54" width="51" alt="logo" src="/ext/expert_section/img/data/en/sign_short.png"></a></li>
+				<li class="cbe"><a href="http://www.capgemini.com/about/capgemini/cbe/overview/" title="Collaborative Business Experience™">Collaborative Business Experience™ <img height="54" width="51" alt="logo" src="/ext/expert_section/img/data/en/sign_short.png"></a></li>
+            </ul>
+            <ul>
+            	<li>By using our website, you agree to the placing of cookies on your computer as further explained in our <a href="/terms/privacy/" title="privacy policy">privacy policy</a>.</li>
             </ul>
         </div>
 		<!-- END : footer -->    </div><!-- END : page -->
@@ -431,6 +458,8 @@ More info available at http://www.omniture.com -->
 
 
 s.pageName="terms of use:privacy policy"
+
+s.channel="terms of use"
 
 s.prop1="terms of use"
 
@@ -474,6 +503,5 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.23.4. -->
 
 <script src="http://munchkin.marketo.net/munchkin.js" type="text/javascript"></script> <script>mktoMunchkin("219-GHQ-358");</script>
-<!-- cached - Wed, 14 Dec 2011 21:27:38 +0100 -->
 
-<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
+</body></html>
