@@ -1,19 +1,78 @@
-> *The following text is extracted and transformed from the culturekings.com.au privacy policy that was archived on 2008-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080719080553id_/http%3A//www.culturekings.com.au/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturekings.com.au privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225013905id_/http%3A//www.culturekings.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Notice : Culture Kings
+# Privacy Policy | Culture Kings Online Store
 
-Culture Kings has created this privacy statement to demonstrate our firm commitment to privacy. The following statement discloses our information gathering and dissemination practices for our Web Site.
+What information do we collect? 
 
-We use your IP address to help diagnose problems with our server, to administer our Web Site, and to collect demographic information for internal purposes.
+We collect information from you when you register on our site, place an order or subscribe to our newsletter. 
 
-Our site uses cookies to keep track of your current session information.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-This site may contain links to other sites. We are not responsible for the privacy practices or the content of such other Web Sites.
+## What do we use your information for?
 
-Our site uses an order form for customers to request products and services. We collect visitor's contact information (like their email address) and possibly financial information (credit card numbers). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with you if, and when necessary. Financial information that is collected is used to bill the user for products and services.
+Any of the information we collect from you may be used in one of the following ways: 
 
-We do not (and never will) release any customer information to third parties, unless required to do so by a law enforcement agency in order to avoid an imminent threat to a person's life or to public safety.
+  * To process transactions
 
-This policy has been drafted having regard to culturek Promotions obligations under the Privacy Act 1988 (including the new National Privacy Principles) (the Privacy Act).
 
-All information sent to Culture Kings including personal information, email addresses, passwords, billing details and credit card information is sent using 128bit encrypted SSL. In addition no credit card information is stored once a transaction has been completed and is removed from the server
+
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+  * To send periodic emails
+
+
+
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+
+## How do we protect your information?
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+## Do we use cookies?
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to help us remember and process the items in your shopping cart.
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+
+## Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+## Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+## Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+## Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://culturekings.com.au/shoppingcart/pages/Shipping.html>
+
+## Your Consent
+
+By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+
+## Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
+
+This policy was last modified on 02/11/12
+
+## Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+http://culturekings.com.au  
+115 Queen Street  
+Brisbane, QLD 4000  
+Australia  
+orders@culturekings.com.au  
+(07) 3275 3011
