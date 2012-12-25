@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veetle.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504011138id_/http%3A//veetle.com/index.php/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veetle.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225030021id_/http%3A//veetle.com/index.php/about/privacy) for the most accurate reproduction.*
 
 # Veetle: Connecting your World with Live Video
 
