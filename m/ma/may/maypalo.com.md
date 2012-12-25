@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maypalo.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623171836id_/http%3A//maypalo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maypalo.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225154152id_/http%3A//maypalo.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Maypalo | Maypalo
 
@@ -10,4 +10,8 @@ As with most other websites, we collect the data you provide to us when you visi
 **Cookies**  
 We also use third party advertisements on Maypalo.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site. Google, through their Adsense Program, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to Maypalo.com users based on their visit to this and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy/ads/)
 
-[](http://www.google.com/privacy/ads/)For any further queries or questions you can contact us through our [Contact Us](http://maypalo.com/contact-us/) page.
+**Amazon  Affiliate Program**
+
+Maypalo.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+
+For any further queries or questions you can contact us through our [Contact Us](http://maypalo.com/contact-us/) page.
