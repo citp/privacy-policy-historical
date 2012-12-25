@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okfn.org privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509170321id_/http%3A//okfn.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okfn.org privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225233611id_/http%3A//okfn.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Open Knowledge Foundation
 
@@ -6,9 +6,9 @@ Open Knowledge Foundation Limited is is a not-for-profit organization. It is inc
 
 ## Summary
 
-The Open Knowledge Foundation family of websites collects no more data about you than most other websites.
+The Open Knowledge Foundation family of websites collects no more data about you than most other websites. This policy describes our approach to your personal data.
 
-The supporter information you provide to us will be used by us in order to maintain a register of supporters and supply you with any goods and services you have requested from our web site.
+As a general rule, we use information we have collected about you for the purposes you supplied it – for example if you have ordered goods or services from us, then we will use it to help us supply those goods or services. We also use information we have collected from all our sites to help us understand how those sites are used in order to improve them or to design new services we might offer.
 
 For our interactive sites such as blogs and wikis in particular, edits, comments, trackbacks, and pingbacks are published, and except in very limited circumstances, will be a permanent part of this site. If you decide to comment, link, or pingback to a post, you must keep this in mind.
 
@@ -18,7 +18,9 @@ This privacy policy will be reviewed, and may be revised, from time to time. You
 
 ## Supporter information
 
-Thank you again for being a supporter. The supporter information you provide to us will be used by us in order to process your support, to maintain a register of supporters and supply you with any goods and services you have requested from our web site.
+If you have joined our network, we will use the information you have given us to try to connect you with the right parts of our network.
+
+If you have signed up as a community member then – thank you for doing so, we appreciate your support. As a community member you will be able to be more involved in our activities. We will use information you supply us to help you to be more involved. We may use your contact details to get in touch as part of that involvement.
 
 ## Public data and publishing
 
@@ -32,13 +34,17 @@ Page edits, comments, trackbacks, and pingbacks and other activity on our websit
 
 If you are concerned about attempts to match your IP address to your identity, you may wish to use an anonymous browsing service or attempt some means to obfuscate your real IP address.
 
-If so, you might like to try Tor, an anonymous browsing service. Please see <http://tor.eff.org/> for more details.
+If so, you might like to try Tor, an anonymous browsing service. Please see http://tor.eff.org/ for more details.
+
+## Email
+
+If you have given us your e-mail address, you agree to allow us to send e-mail to that address in order to deliver our services to you. In practice this will usually involve emails about service down-time or important changes to services to which you subscribe. Some e-mails – such as those subscribed to mailing lists – will receive more traffic as an integral part of the service.
+
+In addition to necessary e-emails, we will also occasionally use the e-mail to contact you for our own purposes. For example we might want to tell you about new services we are offering or we might be seeking volunteers for one of our many activities. We will only do so sparingly. We understand how annoying it can be to receive large quantities of unsolicited mail. We will do our best to ensure that anything we do send to you will be relevant and unobtrusive.
 
 ## Cookies
 
-Our sites may use cookies. This is often as a convenience for you to enable certain site features.
-
-You may wish to clear these cookies and the browser cache if you wish to refrain from revealing any identifying information, especially if you are using a public or shared computer. You may also wish to disable your browser from accepting cookies.
+Our sites may use cookies. This is often as a convenience for you to enable certain site features. You may wish to clear these cookies and the browser cache if you wish to refrain from revealing any identifying information, especially if you are using a public or shared computer. You may also wish to disable your browser from accepting cookies.
 
 ## Private logging
 
