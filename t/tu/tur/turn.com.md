@@ -1,13 +1,41 @@
-> *The following text is extracted and transformed from the turn.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625233633id_/http%3A//www.turn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turn.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225035109id_/http%3A//www.turn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Guidelines | Turn
 
 **Turn takes protecting consumer privacy seriously. Our leadership role puts Turn in the forefront of establishing safety mechanisms, industry best practices, and self-regulatory solutions to reduce consumer anxiety and foster trust in digital channels.**
 
+* * *
+
+##### Turn’s Privacy Policy
+
 This privacy policy is subject to change. If we make any material or substantive changes in the way that we use the PII collected through this Website, we will post a clear and conspicuous notice of those changes on the Website and in this privacy policy.
+
+##### Contact Information
 
 For questions or concerns relating to privacy, please send us an email at [privacy@turn.com](mailto:privacy@turn.com "Privacy Emails").  
 Alternatively, you may contact us at:
+
+**Privacy Officer**  
+Turn Inc.  
+835 Main St.  
+Redwood City, CA 94063-1901
+
+##### Table of Contents
+
+  1. Site Privacy Policy
+  2. Information Collection and Use
+  3. Information Storage and Security
+  4. Access/Information Sharing and Disclosure
+  5. Enforcement, Questions and Complaints
+  6. Partnerships and Associations
+
+
+
+* * *
+
+## Privacy Policy
+
+#### This privacy policy is effective as of November 15, 2010
 
 Turn Inc. (“Turn”) provides advertisers and publishers (“Business Partners”) access to a set of technologies and processes designed to display advertisements to consumers viewing a publisher’s website(s) (the “Turn Ads”).
 
@@ -17,19 +45,31 @@ If you have any questions about this Privacy Policy, please feel free to contact
 
 Turn also participates in the Digital Advertising Alliance ("DAA") and is in compliance with the DAA's Self-Regulatory Principles for Online Behavioral Advertising.
 
+##### Site Privacy Policy
+
 The Site is intended primarily to offer information about Turn and the services we provide.
+
+##### Information Collected via the Site
 
 We collect Personally Identifiable Information (“PII” or “Personal Information”) from the Site when you choose to provide it to us. PII is any information that can be used to identify or locate a particular person or entity. This includes, but is not limited to: name, postal address, telephone number, or email address. For example, you may choose to send us PII about yourself in an email or by completing an online form on this Site. We use this information only to contact you to respond to your inquiry. Once collected, we will store your PII for a reasonable time for record keeping purposes. The information that we store is usually deleted as space requires or in the normal course of business.
 
 We also collect Non-Personally Identifiable Information (Non-PII) via the Site. Non-PII cannot be used to contact any single person or entity and may include your IP address, pages viewed on this Site, browser type, Internet Service Provider, the time/date of your visit to this Site, and your computer’s operating system (e.g., Windows XP). Turn uses this information for internal purposes such as to administer the Site, improve and customize the Site, help Turn understand and analyze how the Site is being used and to track aggregate Site usage.
 
+##### Cookies and Web Beacons
+
 Turn uses cookies and web beacons in connection with our Technology. Cookies help Turn better understand the effectiveness of a Turn Ad (for example, by tracking the way in which you may respond to, select and interact with a Turn Ad or any content provided therein, or the location and context in which you view a Turn Ad). Turn’s cookies also help control the number of times you view a Turn Ad. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to enjoy the full functionality of many of the websites you visit. As an alternative to deletion/disabling of cookies, you can also choose to [opt out of receiving targeted advertising in connection with our Technology](http://www.turn.com/privacy/optout).
 
 Turn also uses web beacons, in combination with cookies, to analyze usage patterns. The use of a web beacon allows Turn to record that someone has visited a particular webpage, along with additional Non-PII that the website may choose to include with the beacon.
 
+##### Third Party Websites
+
 Turn Ads may contain links to other websites, including those of our Business Partners. Such websites may use cookies and/or other data collection tools. Turn is not responsible for the privacy practices, policies or the content of such websites. Turn encourages everyone to read the posted privacy policies whenever interacting with any website to learn more about the privacy practices of that website. Turn has no control over the use of any information by third party websites, and you should exercise caution when deciding to disclose any PII. Similarly, while Turn contractually requires that our Business Partners adhere to law and industry self-regulatory codes such as those offered by the DAA and NAI, Turn does not have access to, or control of, the cookies and/or other data collection tools that may be placed on any advertisement by a third-party. This Privacy Policy does not cover the use of cookies and/or other data collection tools by any third party.
 
+##### Access / Updating / Deleting your PII
+
 If you’d like us to update, correct, delete, or deactivate any PII that you have provided to us on this Site, please send your request to us at [privacy@turn.com](mailto:privacy@turn.com "Privacy Email ") and we will process your request within a reasonable period of time after receipt.
+
+* * *
 
 ## Information Collection and Use
 
@@ -123,3 +163,27 @@ In compliance with the US-EU and US-Swiss Safe Harbor Principles, Turn commits t
 
 **Council of Better Business Bureaus, Inc.**  
 [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints "bbb")
+
+* * *
+
+back to top
+
+### Partnerships and Associations
+
+[The Digital Advertising Alliance](http://www.aboutads.info/principles) (DAA) is a coalition of digital advertising companies that have created a self-regulatory code for online behavioral advertising alliance. Turn is in compliance with the DAA Self-Regulatory Code.
+
+[The Network Advertising Initiative](http://www.networkadvertising.org/index.asp) (NAI) is a coalition of online advertising companies committed to complying with tough self-regulatory standards that establish and reward responsible business and data management practices. Turn is a participating member of NAI and compliant with NAI self-regulation principles. 
+
+[](http://www.export.gov/safeharbor/)
+
+EU Safe Harbor Turn complies with the [U.S.-EU Safe Harbor Framework](http://www.networkadvertising.org/index.asp) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from European Union member countries. Turn has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
+
+[The Interactive Advertising Bureau](http://www.iab.net/about_the_iab) is comprised of more than 500 leading media and technology companies that are responsible for selling 86% of online advertising in the United States. On behalf of its members, the IAB is dedicated to the growth of the interactive advertising marketplace, of interactive’s share of total marketing spend, and of its members’ share of total marketing spend.
+
+Turn is a member of The Centre for Information Policy Leadership at Hunton & Williams LLP, a member-driven privacy think-tank that provides leadership in developing policy to ensure privacy and information security while balancing economic and societal interests. The Centre’s membership includes more than 40 companies from multiple sectors. Turn participates in industry discussion groups that bring thought leaders, consumer advocates, technical experts and policymakers together to discuss policy topics and encourage responsible information governance in today’s digital society.
+
+Turn also partners with Better Advertising, whose mission is to enable advertisers, their partners and industry associations to be more transparent in how consumer data is collected and used for online advertising. Working with Better Advertising’s industry leading partners, Turn help develop tools and practices for marketers to ensure consumer privacy protection by providing consumers access to clear information and choices.
+
+* * *
+
+back to top
