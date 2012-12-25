@@ -1,90 +1,85 @@
-> *The following text is extracted and transformed from the wetpaint.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603201608id_/http%3A//www.wetpaint.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetpaint.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225030446id_/http%3A//www.wetpaint-inc.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Wetpaint
+# Privacy « Wetpaint, Inc.
 
-## Privacy Policy
+## Privacy
 
-Last Updated: 09/24/08
+**Last Revised: December 3, 2010**
 
-At Wetpaint, we are committed to ensuring the privacy of our users. This privacy policy explains Wetpaint's privacy practices for this Web site ("Site"), [http://www.wetpaint.com](http://www.wetpaint.com/), and any Wetpaint based Web site ("Sites"), for users of our services. By using the Site, you consent to the terms of this privacy policy.   
+This privacy policy (“Policy”) explains how personal information is collected, used, and disclosed by Wetpaint.com, Inc. (“Wetpaint”, “we” or “us”) with respect to your use of the Web sites located at [www.wetpaint.com](http://www.wetpaint.com/ "www.wetpaint.com"), [www.wetpaintcentral.com](http://www.wetpaintcentral.com/ "www.wetpaintcentral.com"), and any Wikis by Wetpaint Web sites hosted through the service (the “Sites”), so you can make an informed decision about using the Sites. **We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.**
 
+**What Is Personal Information?**
 
-## What is Personal Information?
+As used herein, the term “personal information” means information that specifically identifies an individual (such as a name, address, telephone number, mobile number, e-mail address, or credit card number), or information about that individual that is directly linked to personally identifiable information. Personal information does not include “aggregate” information, which is data we collect about the use of the Sites or about a group or category of services or users, from which individual identities or other personal information has been removed. This Policy in no way restricts or limits our collection and use of aggregate information.
 
-Personal information is information that specifically identifies an individual, such as a user name, address, telephone number, e-mail address, credit card or other account number, and information about that individual’s activities when directly linked to that person. Personal information also includes demographic information such as date of birth, gender, geographic area and preferences when such information is linked to other personal information that identifies you.   
+**What Personal Information Do We Collect?**
 
+**Active Collection:** We collect certain information you voluntarily provide to us when you visit the Sites. For example, depending on the specific web site, you may provide us with personal information when you register as a member and set up an account, sign up to receive our daily news feed, subscribe to an email notification or contact us by email. Such information may include personal information, such as your name and email address. Personal and demographic information may also be collected if you provide such information in connection with posting any comments or materials on or through the site or participating in any other interactive forums or features on the Sites. In addition, from time to time we may collect demographic, contact or other personal information you provide in connection with your participation in surveys, sweepstakes, contests, games, promotional offers, and other activities on the Sites.
 
-## Personal Information We Collect
+**Passive Collection:** When you use the Sites, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring web site, and your activity on the Sites. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only.
 
-You may provide personal information to us in a number of ways when you visit our Sites. For example, depending on the specific web site, you may provide us with personal information when you: 
+We may also automatically collect certain information through the use of “cookies” or web beacons. Cookies are small data files stored on your hard drive at the request of a website. Among other things, cookies help us improve our Sites and your experience. If we link cookies to any personally identifying information, we will treat this information as personal information. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, if you choose to remove or reject cookies, this could affect certain features or Services on our Sites. Web beacons are small, invisible graphic images that may be used on the Sites or in emails relating to the Sites to collect certain information and monitor user activity on the Sites.
 
-  1. Register as a member and set up an account (e.g., we collect, among other information, email address and date of birth at registration);
-  2. Subscribe to email notification of certain changes in Site functionality or content (e.g., page changes); or 
-  3. Contact us by email for any reason (such as to request customer service or provide us with your comments/feedback). We collect your name and email address in this manner. 
+We may also use third parties to serve ads on the Sites or to provide analytic services. These third parties may place cookies, web beacons or other devices on our Sites and your computer to collect non-personal information, and information provided by these devices may be used, among other things, to analyze data, to determine the popularity of certain content, to determine what ad content to provide, to deliver advertising targeted to your interests, to track the interests or users and to better understand the usage and visitation of our Sites and the other sites tracked by these third parties. This Policy does not apply to, and we are not responsible for, cookies or web beacons placed by third parties, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
+We may store and process personal information in the United States and other countries.
 
+**How Do We Use the Personal Information We Collect?**
 
-Your use of the Wetpaint sites and services described above indicates your consent to these uses of personal information. To operate these services, this information is stored on Wetpaint servers. 
+We use personal information collected through our Sites for the purposes described in this Policy or elsewhere on the Sites. For example, we may use personal information we collect:
 
-Please note that we are not responsible for any personal information that you voluntarily provide as part of any edits or similar submissions to the Sites, including, if you register as a member, in your user name, your private messages, or your user profile. We discourage you from including personal information in any such edits or submissions, as such information may be publicly available. 
+* to operate the Sites, to provide the services, products, or information you request, and to process and complete any transactions in connection therewith;
 
-We may, in accordance with our Sites' Terms of Use, try to prevent minors from accessing Sites that display adult content or certain other types of content for which we have received user complaints or which we believe is objectionable. 
+* to request feedback and to otherwise contact you about your use of the Sites;
 
-When you visit our Sites, some information is also automatically collected, such as your computer's Internet Protocol (IP) address, your computer's operating system, the browser type, the address of a referring web site, and the time and date of your visit and Site pages visited. This information is collected through the use of "cookies." Cookies are small files that are stored on your computer by a web site to give you a unique identification. We use cookies on our sites to provide certain functionality and help optimize your online experience. For example, we use cookies to track your editing of, and submissions to, our Sites. We treat this information as personal information if we combine it with or link it to any of the personally identifying information mentioned above. Otherwise, it is used in the aggregate only. 
+* to respond to your emails, submissions, questions, comments, requests, and complaints and provide customer service;
 
-We may also use third parties to serve ads on the Sites or to provide analytic services. These third parties may place cookies, clear gifs or other devices on your computer to collect non-personal information, and information provided by these devices may be used, among other things, to deliver advertising targeted to your interests, to track the interests of users and to better understand the usage and visitation of our Sites and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, third party cookies, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. 
+* to monitor and analyze site usage and trends, and to customize, personalize and improve the Sites and our users’ experiences on the Sites, such as providing ads, content, or features that match their profiles or interests, and to increase the Sites’ functionality and user friendliness;
 
-Wetpaint does not require that you accept cookies, however, some functionality on our Sites may be disabled if you decline to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it.   
+* to provide you with news and information about our or third party events, activities, offers, promotions, products, and services we think will be of interest to you;
 
+* to send you confirmations, updates, security alerts, and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, the Sites;
 
-## How We Use Personal Information
+* to notify you about important changes to our Sites;
 
-In general, we may use personal information to process your requests or transactions and provide you with high-quality services or to inform you about other products or services we think will be of interest. For example, we use your information to provide online editing and publishing services to you and to display customized content and advertising, including to provide ads, content or features that match your profile and interests. We may also use personal information for certain auditing, research and analysis to operate and improve Wetpaint technologies and services. Your personal information may also be used to set up or contact you regarding your account. When we use your personal information, it may be processed on our servers in the United States of America and in other countries, and your information may be processed on a server that lies outside your own country. 
+* to notify and contact contest and sweepstakes entrants; and
 
-When we use personal information in our internal marketing efforts, we provide you with choices (see Choice below) and do not disclose the information to third parties except as described in this privacy policy. 
+* and for any other purpose for which the information was collected.
 
-We may receive information from third parties with whom we have business relationships, and will combine this information with the other personal information we maintain about you. In such cases, this privacy policy governs this information.   
+We may store and process personal information in the United States and other countries.
 
+**What Personal Information Do We Share With Third Parties?**
 
-## Use of Aggregate Information
+We will not share the personal information we collect from you through the Sites with third parties, except as described in this Policy or on the Sites. For example, we may share personal information as follows:
 
-Personal information does not include “aggregate” information. Aggregate information is data we collect about a group or category of services or users, from which individual identities have been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service, but no personal information will be included in the resulting data. Aggregate data helps us understand trends and customer needs so that we can better consider new services and tailor existing services to customer desires. We may share aggregated non-personal information with third parties outside of Wetpaint.   
+* with vendors, consultants, and other service providers (“Service Providers”) who are engaged by or working with us in connection with the operation of the Sites or the services we provide and who need access to such information to carry out their work for us;
 
+* in an aggregated or anonymized form that does not directly identify you;
 
-## Sharing of Personal Information
+* when you give us your consent to do so, such as if you opt in to receive marketing communications from third parties on our news feed subscription page or if we otherwise notify you on the Sites that the information you provide will be shared in a particular manner and you provide such information;
 
-We do not sell, rent or share personal information with unaffiliated third parties without your prior consent, except in the limited circumstances described in this privacy policy. We share personal information with third-party vendors and contractors who assist us in performing internal functions necessary to operate our business. These functions may include, for example, analyzing data and providing marketing assistance. We require our third party vendors to only use the information for the purpose it was provided. We are not responsible for any additional information you provide directly to third parties, and we encourage you to become familiar with their practices before disclosing information directly to them. 
+* when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to: (a) comply with the law or legal processes or respond to lawful requests or legal authorities, including responding to lawful subpoenas, warrants, or court orders; or (b) protect the rights, property, or safety of Wetpaint, our users, our employees, copyright owners, third parties or the public, including without limitation to protect Wetpaint or our users from fraudulent, abusive, inappropriate, or unlawful use of our Sites;
 
-We also reserve the right to disclose personal information when we believe it is appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order); to enforce or apply this privacy policy or our other policies or agreements; to initiate, render, bill, and collect for amounts owed to us; to protect our or our users' rights, property or safety; to prevent or protect our users from fraudulent, abusive, or unlawful use of our Sites; to ensure the security of our network and services; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay. 
+* to enforce or apply this Policy, our [Terms of Use](https://web.archive.org/web/20121225030446id_/http://www.wetpaint-inc.com/privacy/terms-and-conditions), or our other policies or agreements; and
 
-In addition, information about our users, including personally identifiable information, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personally identifiable information could be transferred to third parties as one of the business assets of the company.   
+* in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personal information may be disclosed or transferred as one of the business assets of Wetpaint.
 
+The Sites may include features which enable you to post comments, content or otherwise share information through Facebook or other third party social media sites. You understand that if you use such features or otherwise post any comments, content or other information to or through the Sites, the information you post will be available to other users and other web sites and in some cases may be publicly available. We recommend you be cautious about giving out personal information to others or sharing personal information through the Sites.
 
-## Links to Other Web Sites
+We are not responsible for the actions of Service Providers or other third parties, nor are we responsible for any additional information you provide directly to any third parties, and we encourage you to become familiar with their privacy practices before disclosing information directly to any such parties. Nothing herein restricts the sharing of aggregated or anonymized information, which may be shared with third parties without your consent.
 
-Our Sites contain links to other web sites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party’s privacy policy. Except as described above, we are not responsible for the content or privacy and security practices and policies of web sites to which we link. Links from Sites to third parties or to other sites are provided for your convenience. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.   
+**Links to Other Websites**
 
+Our Sites may contain links to other websites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party’s privacy policy. This Policy does not apply to such linked sites, and we are not responsible for the content or privacy and security practices and policies of these websites or any other sites that are linked to from the Sites. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
 
-## Use of the Sites by Children
+**What Steps Do We Take To Protect Your Information Online?**
 
-We encourage parents to take an active interest in their children's use of the Internet. We do not intend to collect information from children who are under 13 years of age. If you are under 13, you may not register for our service and you should not provide personal information on our Sites.   
+We have put into place reasonable measures to protect your personal information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable and no method of data transmission that can be guaranteed against any interception or other type of misuse.
 
+**What Choices Do You Have Regarding the Use of Your Information?**
 
-## Security
+You may “opt out” of receiving marketing or promotional emails from us by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
 
-We have put into place reasonable security measures in an effort to protect personal information while it is under our control. For example, your account information is accessible online only through the use of a password. To protect the confidentiality of personal information on such sites, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our Sites by any person using your password. Please [contact us](https://web.archive.org/page/contact) immediately if you believe your password has been misused.   
+**Questions?**
 
-
-## Choice
-
-To opt-out of receiving communications from us or to request that we correct or delete your personal information, please [contact us](https://web.archive.org/page/contact), or edit your online profile settings on this website.   
-
-
-## Policy Changes
-
-We will modify this privacy policy from time to time as our privacy practices keep up to date with technology and legal developments. We will notify you of the changes by posting the new policy on our Sites and indicating at the top of the privacy policy the date it was last updated. We encourage you to review our privacy policy each time you visit our Sites to see if it has been updated since your last visit and to make sure you understand how the information that you provide will be used.   
-
-
-## Your Comments or Concerns
-
-We welcome your feedback. If you have any comments or concerns about this privacy policy, please [contact us](https://web.archive.org/page/contact).
+If you have any questions about this Policy, please [contact us](https://web.archive.org/page/contact-us).
