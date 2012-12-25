@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the findprice.co.in privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616000119id_/http%3A//www.findprice.co.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findprice.co.in privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225094314id_/http%3A//www.findprice.co.in/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Find Price India
+# 
 
 The privacy of our visitors to http://www.findprice.co.in is important to us.
 
