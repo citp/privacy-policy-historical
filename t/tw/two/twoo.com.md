@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twoo.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624225719id_/http%3A//twoo.com/about%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twoo.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225030006id_/http%3A//www.twoo.com/about%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # Twoo's Privacy Statement
 
@@ -12,7 +12,7 @@ This Privacy Statement is a part of Twoo’s [Terms & Conditions](https://web.a
 
 Public information uploaded by you:
 
-  * Information in your profile, pictures ...
+  * Information in your profile, photos ...
   * Messages sent to other users.
 
 
