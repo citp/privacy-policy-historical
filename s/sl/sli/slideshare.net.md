@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slideshare.net privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623191404id_/http%3A//www.slideshare.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideshare.net privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225031211id_/http%3A//www.slideshare.net/privacy) for the most accurate reproduction.*
 
 # SlideShare » Privacy Policy
 
@@ -60,7 +60,7 @@
 
 ### Contacting Us 
 
-  * If you have any questions about this Privacy Policy, please go [here](http://slideshare.zendesk.com/requests/anonymous/new) (choose “Privacy Issues” dropdown) or at privacy@slideshare.com.
+  * If you have any questions about this Privacy Policy, please email us at privacy@slideshare.com.
 
 
 
