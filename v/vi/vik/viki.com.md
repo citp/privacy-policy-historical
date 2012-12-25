@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the viki.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604080921id_/http%3A//viki.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viki.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225025910id_/http%3A//www.viki.com/privacy) for the most accurate reproduction.*
 
-# Viki
+# Viki.com
 
 Revised: December 2, 2010
 
-This Privacy Policy describes how VIKI, INC. ("we," “our” or "us") collects, uses and shares your information on our website at ViKi.com (collectively, the “Website”) We provide an online video service offering a selection of content and other services from time to time, which are referred to collectively as the "ViKi Services." Use of the ViKi Services is subject to our [Terms of Service](https://web.archive.org/terms_of_use).
+This Privacy Policy describes how VIKI, INC. ("we," “our” or "us") collects, uses and shares your information on our website at Viki.com (collectively, the “Website”) We provide an online video service offering a selection of content and other services from time to time, which are referred to collectively as the "Viki Services." Use of the Viki Services is subject to our [Terms of Service](https://web.archive.org/terms_of_use).
 
 ### Information We Collect
 
-We collect information as follows. First, when you create an account on the Website, we collect personally identifiable information, including your name, email address, nationality and language, and, if you purchase services, credit and debit card information, PayPal information, mobile payment information and/or other payment information depending on the payment option you select. Second, we automatically collect information when you visit the Website or use the ViKi Services. We also automatically collect non- personally identifiable information from your computer and browser, including your IP address, software and hardware attributes, the page you request, and cookie and Web beacon information. Non-personal information means information that does not allow someone to identify you individually. 
+We collect information as follows. First, when you create an account on the Website, we collect personally identifiable information, including your name, email address, nationality and language, and, if you purchase services, credit and debit card information, PayPal information, mobile payment information and/or other payment information depending on the payment option you select. Second, we automatically collect information when you visit the Website or use the Viki Services. We also automatically collect non- personally identifiable information from your computer and browser, including your IP address, software and hardware attributes, the page you request, and cookie and Web beacon information. Non-personal information means information that does not allow someone to identify you individually. 
 
 ### How we use information we collect
 
-We use the information we collect about you for the following general purposes: (i) contacting you; (ii) customizing the content and advertising you view (iii) fulfilling your requests for products or services; (iv) identifying the comments you post on the Website; (v) improving the ViKi Services; (vi) conducting research; (vii) compiling aggregate data for internal and external business purposes; (viii) preventing potentially illegal activities; (ix) protecting our rights and other uses in accordance with our Terms of Service; and (x) for any other purpose disclosed to you at the time we collect your personally identifiable information. 
+We use the information we collect about you for the following general purposes: (i) contacting you; (ii) customizing the content and advertising you view (iii) fulfilling your requests for products or services; (iv) identifying the comments you post on the Website; (v) improving the Viki Services; (vi) conducting research; (vii) compiling aggregate data for internal and external business purposes; (viii) preventing potentially illegal activities; (ix) protecting our rights and other uses in accordance with our Terms of Service; and (x) for any other purpose disclosed to you at the time we collect your personally identifiable information. 
 
 ### Disclosure of information
 
@@ -24,7 +24,7 @@ In addition, we may disclose your personal information to comply with legal requ
 
 ### Email addresses
 
-If you have provided your email address on the Website and have opted in, we may send you emails informing you of any major changes to the Website, or any pertinent information about the content on ViKi.com. If you do not want to receive these emails, please make a change to your email preference in your ViKi.com profile page. 
+If you have provided your email address on the Website and have opted in, we may send you emails informing you of any major changes to the Website, or any pertinent information about the content on Viki.com. If you do not want to receive these emails, please make a change to your email preference in your Viki.com profile page. 
 
 ### Choice and Access to Personal Information
 
@@ -65,36 +65,3 @@ We may modify, alter or update this Privacy Policy at any time, so we encourage 
 ### Contact Us
 
 If you have any questions or comments about this Privacy Policy, please contact us at [privacy@viki.com](mailto:privacy@viki.com "privacy@viki.com") . 
-
-### Fun in Any Language™
-
-Viki is a global TV site, where millions of people watch their favorite shows, movies, music videos and more -- translated into 150+ languages by a community of avid fans. Together, we’re breaking down barriers that stand between great entertainment and its fans, no matter where they are! 
-
-© 2010-2012 ViKi, Inc. All Rights Reserved. 
-
-  * ### Viki World
-
-  * [Blog](http://blog.viki.com/)
-  * [About Us](https://web.archive.org/about)
-  * [Our Community](https://web.archive.org/translator_community)
-  * [Our Partners](https://web.archive.org/partners)
-  * [Contact Us](https://web.archive.org/contact)
-  * [Press](https://web.archive.org/press)
-  * [Jobs](https://web.archive.org/jobs)
-  * [Help Center](http://support.viki.com/access/remote)
-  * [ ](https://twitter.com/viki)
-
-
-  * ### Awards
-
-  * TechCrunch: Best International Start-Up
-  * DLD: Top 20 Internet Start-Up
-  * SXSW Accelerator Finalist
-  * Paley Center's 2011 Next Big Thing'
-
-
-  * ### The Legal Stuff
-
-  * The use of this website constitutes acceptance of the Viki [terms of use](https://web.archive.org/terms_of_use) and [privacy policy](https://web.archive.org/privacy). See also our [intellectual property policy](https://web.archive.org/copyright)
-
-
