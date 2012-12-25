@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mobileroadie.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509221000id_/http%3A//www.mobileroadie.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileroadie.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225051816id_/http%3A//mobileroadie.com/home/privacy) for the most accurate reproduction.*
 
-# Mobile Roadie-Apps de iPhone y Android para todos - Política de Privacidad
+# Mobile Roadie - Privacy Policy
 
-_**Effective May 1, 2012 [Insert Date Posted]**_
+_**Effective May 1, 2012**_
 
 Mobile Roadie, Inc. (“Mobile Roadie”, “we” or “us”) provides a platform to enable customers (“Mobile Roadie Customers”) to develop and manage smart phone and tablet applications (each a “Mobile Application”) and mobile website solutions (each a “Mobile Site”) as well as related hosting and support services (the "Service"). As used in this document “Mobile Offering” means the Mobile Applications and Mobile Sites.
 
@@ -36,13 +36,13 @@ The Mobile Offerings may contain links to other websites. Such websites may use 
 
 ## YOUR CALIFORNIA PRIVACY RIGHTS:
 
-California Civil Code Section 1798.83 permits End Users who are California residents to request certain information regarding Mobile Roadie’s disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [support@mobileroadie.com](mailto:support@mobileroadie.com).
+California Civil Code Section 1798.83 permits End Users who are California residents to request certain information regarding Mobile Roadie’s disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [support@manageapps.net](mailto:support@manageapps.net).
 
 ## (C) Visitors
 
 This section describes the information that we may collect from Visitors. To the extent you are a Mobile Roadie Customer or an End User and visit the Site, this section will apply to you as well.
 
-  * If you contact us by email or by filling-out a registration form, we may keep a record of your contact information and correspondence, and may use your email address, and any information that you provide to us in your message, to respond to you. In addition, we may use the personal information described above to send you information regarding the Sites and/or the Service. If you decide at any time that you no longer wish to receive such information or communications from us, email us at [support@mobileroadie.com](mailto:support@mobileroadie.com) and request to be removed from our list.
+  * If you contact us by email or by filling-out a registration form, we may keep a record of your contact information and correspondence, and may use your email address, and any information that you provide to us in your message, to respond to you. In addition, we may use the personal information described above to send you information regarding the Sites and/or the Service. If you decide at any time that you no longer wish to receive such information or communications from us, email us at [support@manageapps.net](mailto:support@manageapps.net) and request to be removed from our list.
   * When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website (“Log Data”). This Log Data may include information such as your computer’s IP address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Site and the Service and for the Site’s technical administration, to increase our Site’s functionality and user-friendliness, and to better tailor it to our visitors’ needs.
   * Like many websites, we may use both session cookies and persistent cookies to better understand how you interact with the Site, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and the Service. In addition, please be aware that other parties may also place their own cookies on the Site, and may collect or solicit personal information from you. A session cookie enables certain features of the Sites and the Service and is deleted from your computer when you disconnect from or leave the Sites. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. As described above, most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
 
