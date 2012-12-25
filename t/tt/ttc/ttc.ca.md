@@ -1,20 +1,19 @@
-> *The following text is extracted and transformed from the ttc.ca privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503212955id_/http%3A//www3.ttc.ca/Privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttc.ca privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225215758id_/http%3A//www.ttc.ca/Privacy/index.jsp) for the most accurate reproduction.*
 
 # TTC Privacy Policy
 
 ### 1.0  Accountability
 
-The Toronto Transit Commission (“TTC”) is responsible for personal information under its control.  The Coordinator – Records Management/Freedom of Information, General Secretary’s Office for the TTC (“Coordinator”), has been designated by the TTC as the individual accountable for compliance in accordance with the Municipal Freedom of Information and Protection of Privacy Act (“MFIPPA”) and this Privacy Statement/Guideline.
+The Toronto Transit Commission (“TTC”) is responsible for personal information under its control.  The Coordinator – Records Management/Freedom of Information, Commission Services Department for the TTC (“Coordinator”), has been designated by the TTC as the individual accountable for compliance in accordance with the Municipal Freedom of Information and Protection of Privacy Act (“MFIPPA”) and this Privacy Statement/Guideline.
 
 A request to TTC in accordance with MFIPPA shall be: 
 
   1. in writing; 
   2. made to the Toronto Transit Commission’s Co-ordinator – Records Management/Freedom of Information; and 
-  3. specify the information that is requested and the authority (i.e. MFIPPA) in which the information is being requested. 
+  3. provide sufficient detail to enable an experienced employee of the institution, upon a reasonable effort, to identify the record; 
+  4. at the time of making the request, pay the $5.00 application fee that is prescribed by the Act’s regulations for seeking access to a record (payable to the Toronto Transit Commission).
 
 
-
-All requests can be submitted to the Co-ordinator using TTC form #001745 entitled, “Access/Correction Request”.
 
 ### 2.0   Purposes
 
@@ -70,8 +69,8 @@ Personal information shall be as accurate, complete, and up-to-date as is necess
 
 All personal information collected by the TTC will be protected by using appropriate safeguards against loss, theft and unauthorized access, disclosure, copying, use or modification.  The methods of protection may include:
 
-  1. physical measures, for example, locked filing cabinets and restricted access to offices;
-  2. organizational measures, for example, security clearances and limiting access on a "need-to-know" basis; and
+  1. physical measures, for example, locked filing cabinets and restricted access to offices; 
+  2. organizational measures, for example, security clearances and limiting access on a "need-to-know" basis; and 
   3. technological measures, for example, the use of passwords and encryption.
 
 
@@ -82,10 +81,10 @@ The TTC is committed to ensuring that specific information about its policies an
 
 The information made available includes: 
 
-  1. the name or title, and the address, of the person who is accountable for the TTC policies and practices and to whom complaints or inquiries can be forwarded;
-  2. the means of gaining access to personal information held by the TTC;
-  3. a description of the type of personal information held by the TTC, including a general account of its use;
-  4. a copy of any brochures or other information that explain any TTC’s policies, standards, or codes; and
+  1. the name or title, and the address, of the person who is accountable for the TTC policies and practices and to whom complaints or inquiries can be forwarded; 
+  2. the means of gaining access to personal information held by the TTC; 
+  3. a description of the type of personal information held by the TTC, including a general account of its use; 
+  4. a copy of any brochures or other information that explain any TTC’s policies, standards, or codes; and 
   5. what personal information is made available to other TTC affiliates (e.g., subsidiaries).
 
 
