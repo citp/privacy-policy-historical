@@ -1,61 +1,8 @@
-> *The following text is extracted and transformed from the themeflood.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228232417id_/http%3A//www.themeflood.com/eula.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeflood.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225222703id_/http%3A//www.themeflood.com/privacy.html) for the most accurate reproduction.*
 
-# EULA
+# Privacy Policy
 
-## 1) Copyright and Moral Right Protection
-
-ThemeFlood or sites represented by ThemeFlood, holds, recognises, or maintains all copyright and moral right claims to any and all images, likenesses, artwork, logos, names and icons contained on this site and its folders, subfolders, directories and databases, in their entirety, with clear exception given to those who hold rights and/or trademarks and/or product identification that may be advertised or reviewed or discussed on this site. Failure to observe these rights, can and will result in legal action to the greatest extent allowable by UK and international law.
-
-Use of, or reproduction of any of the rights protected materials without the express written consent of ThemeFlood or sites represented by ThemeFlood, or trademark owner, or appropriately appointed designate, is a strict violation of these rights.
-
-RapidWeaver is a trademark of Realmac Software (<http://www.realmacsoftware.com/>).
-
-## 2) RapidWeaver Theme Usage   
-(End User License Agreement)
-
-RapidWeaver themes purchased from the ThemeFlood site are designed for use with the RapidWeaver platform. Any usage beyond a themes intended use in RapidWeaver may be construed as unlawful.
-
-Themes purchased from the ThemeFlood site may not be redistributed in their original format or any other theme or template format. You may use a theme to develop a web site for profit, provided all credits within the code remain intact, even if said theme has been modified. The extent of modification which nullifies ThemeFlood's right to credit will vary, but in short, no original graphics may remain and the overall layout and file structure (including the list of properties) must vary sufficiently to demonstrate evidence of applied intellectual process.
-
-## 3) Sales Policy
-
-### Payment
-
-Products on this website are sold in GBP (Pound Sterling). Payment in other currencies may be subject to fluctuations in exchange rates. No VAT or Sales Tax is applied to purchases. Please note that on some rare occasions, your credit or debit card company may charge you (the buyer) an extra surcharge for distant payments. If in doubt, you should contact your bank to get confirmation.
-
-### Refunds
-
-Under the United Kingdom's Distance Selling Regulations (2000), you have the right to cancel the contract for the purchase of items within a period of 7 working days, beginning with the day after the day on which the item is issued to you. Please note that we are unable to accept cancellation of, or returns for, digital items once downloading has commenced.
-
-### Demo Versions
-
-Free demo versions are provided so that you may evaluate products before purchase. You can test against real content and demonstrate ideas to clients you may be working on behalf of. This enables you to test products for suitability before purchase. It is strongly recommended you take advantage of this free service. Typically demo versions may have some minor limitations applied like disabled navigation links or watermarked graphics. You are welcome to get in contact to ask any pre-sales questions you may have.
-
-### Issue Of Products
-
-Download links for products are sent to you in the form of an email. The email is sent to you automatically as soon as your payment has cleared (which normally only takes a few minutes). Please purchase using valid details and using an email address which does not require sender-verification. Incorrect details can lead to lengthy delays in sending products to you. If you have any questions about your order, please get in contact.
-
-### Commercial Usage
-
-If you are reusing products in multiple commercial projects, please consider budgeting towards the purchase of extra licenses. Although this is not compulsory, this would help greatly towards ongoing development costs and ensures clients you are working on behalf of can obtain free product updates and customer support directly if required.
-
-### Direct Ordering
-
-A direct ordering service is available for purchase orders and customers wishing to purchase via other agreed methods. Orders received via direct ordering will be processed manually and an invoice issued. Please get in contact if you require further information.
-
-### Customer Support
-
-ThemeFlood has a reputation for offering first-class support to all customers worldwide. Support is primarily offered via email in English. Most correspondence is normally replied to within 12 hours, but this may vary depending on general support volumes or the complexity of your enquiry. If contacting about a technical issue, please try to include a screenshot (image) or URL to test site. If a problem relates to a particular working environment, please include details of plugins used or browser versions etc.
-
-### Chargebacks & Fraud Protection
-
-If a chargeback occurs, an effort will be made to make contact with the buyer to resolve the payment issue. If no resolution can be made, the transaction will be deemed as fraudulent. Details of all fraudulent transactions are added to a blocklist, hosted by E-Junkie. In such instances, a blocked customer will be deliberately prevented from making further purchases. If a threat of fraudulent transactions is posed to other sellers, details of the criminal transaction may be past onto others. Likewise we may receive recommendations to block certain persons who are known to fraudulently obtain goods through theft and deception.
-
-### Security
-
-Electronic transactions are processed on secure external websites hosted by GoogleCheckout. Information relating to transactions is stored securely and is never shared or disclosed, unless a transaction becomes a chargeback or a written request is received from a legal authority. Precautions are taken at all times to ensure maximum security of customer data. We do not receive any payment card information from transactions, and ony collect the bare minimum of information required for internal taxation and financial purposes.
-
-## 4) Website Privacy Policy
+## Website Privacy Policy
 
 This Privacy Policy governs the manner in which [ThemeFlood](http://www.themeflood.com/) collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.themeflood.com website ("Site"). This privacy policy applies to the Site and all products and services offered by ThemeFlood.
 
@@ -96,7 +43,7 @@ ThemeFlood has the discretion to update this privacy policy at any time. When we
 By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
  **Contacting us**  
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, [please contact us](https://web.archive.org/web/20111228232417id_/http%3A//www.themeflood.com/support/ "Support").
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, [please contact us](https://web.archive.org/web/20121225222703id_/http%3A//www.themeflood.com/link-inspector.html "Support").
 
 This document was last updated on January 03, 2011
 
