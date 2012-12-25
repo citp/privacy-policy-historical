@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millenniumpost.in privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507052829id_/http%3A//millenniumpost.in/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millenniumpost.in privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225092522id_/http%3A//millenniumpost.in/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Millennium Post | No Half Truths
 
@@ -57,7 +57,7 @@ As the internet is an ever-evolving medium, we may change our privacy policy fro
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this website in order to provide advertisements about goods and services of interest to you. 
 
-In the event you have any grievance relating to the processing of information provided by you, you may [Contact Us](https://web.archive.org/web/20120507052829id_/http%3A//millenniumpost.in/ContactUs.aspx) with the following information: 
+In the event you have any grievance relating to the processing of information provided by you, you may [Contact Us](https://web.archive.org/web/20121225092522id_/http%3A//millenniumpost.in/ContactUs.aspx) with the following information: 
 
 (a) Identification of the information provided by you   
 (b) Clear statement as to whether the information is personal information or sensitive personal information   
