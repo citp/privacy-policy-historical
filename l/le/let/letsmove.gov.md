@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsmove.gov privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630214239id_/http%3A//www.whitehouse.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsmove.gov privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226001012id_/http%3A//www.whitehouse.gov/privacy) for the most accurate reproduction.*
 
 # Our Online Privacy Policy | The White House
 
@@ -10,7 +10,7 @@ The White House is committed to protecting individual privacy and securing the p
 
 This privacy policy describes what information is made available to the White House and third parties when you visit WhiteHouse.gov or official White House pages on other sites, and how the White House uses and stores that information.
 
-If you have questions about this policy or suggestions for its improvement, please let us know.  You can contact us at [http://www.whitehouse.gov/privacy/feedback](https://web.archive.org/web/20120630214239id_/http%3A/privacy/feedback).
+If you have questions about this policy or suggestions for its improvement, please let us know.  You can contact us at [http://www.whitehouse.gov/privacy/feedback](https://web.archive.org/web/20121226001012id_/http%3A/privacy/feedback).
 
 This policy is organized into the following sections:
 
@@ -32,6 +32,8 @@ This policy is organized into the following sections:
 
 
 * * *
+
+[En Espanol](https://web.archive.org/privacidad)
 
 We will revise or update this policy if our practices change, or as we develop better ways to keep you informed about them. You should refer back to this page often for the latest information and the effective date of any changes. If we decide to change this policy, we will post a new policy on our site and change the date at the bottom. Changes to the policy shall not apply retroactively.
 
@@ -79,15 +81,19 @@ The White House uses a third-party analytics provider (currently Google Analytic
 
       5. _1.2.2. Third-party website measurement and customization technologies_
 
-Some pages on WhiteHouse.gov may include web content or functionality from third parties, such as embedded videos hosted by non-WhiteHouse.gov services.  For example, as of May 12, 2011, content or functionality from the following third parties may be present on some WhiteHouse.gov pages:
+Some pages on WhiteHouse.gov may include web content or functionality from third parties, such as embedded videos hosted by non-WhiteHouse.gov services.  For example, as of July 16, 2012, content or functionality from the following third parties may be present on some WhiteHouse.gov pages:
 
         * YouTube.com;
         * Vimeo.com;
         * Flickr.com;
         * Socrata.com;
         * Google Moderator;
-        * Livestream.com; and
-        * UStream.com.
+        * Livestream.com;
+        * UStream.com;
+        * MapBox.com;
+        * SlideShare;
+        * Scribd.com; and
+        * SoundCloud.com
 
 For your convenience, this list will be updated on a regular basis to reflect the third party providers of content or functionality that are commonly used on WhiteHouse.gov.  If you would like to receive content that is posted using one of these third-party providers without utilizing the third-party provider, please contact us at <http://www.whitehouse.gov/tech/feedback>. 
 
@@ -167,6 +173,7 @@ _Social Networks_
       * [@JesseCLee44](http://twitter.com/jesseclee44)
       * [@JoiningForces](http://twitter.com/joiningforces)
       * [@JonCarson44](http://twitter.com/joncarson44)
+      * [@JSmith44](http://twitter.com/jsmith44)
       * [@KS44](http://twitter.com/ks44)
       * [@LaCasaBlanca](http://twitter.com/LaCasaBlanca)
       * [@LetsMove](http://twitter.com/letsmove)  
@@ -186,13 +193,23 @@ _Social Networks_
       * [The White House Group](http://www.linkedin.com/groups?gid=2199632)
     * Digg: ([Privacy](http://about.digg.com/privacy)) 
       *  [The White House](http://digg.com/whitehouse)
-    * Quora: ([Privacy](http://www.quora.com/about/privacy)) 
-      *  [Macon Phillips](http://www.quora.com/Macon-Phillips-1)
-      *  [Kori Schulman](http://www.quora.com/Kori-Schulman-1)
+    * GitHub: ([Privacy](https://help.github.com/articles/github-privacy-policy)) 
+      *  [The White House](https://github.com/WhiteHouse)
     * Foursquare: ([Privacy](https://foursquare.com/legal/privacy)) 
       *  [The White House](https://foursquare.com/whitehouse)
     * Google+: ([Privacy](http://www.google.com/intl/en/+/policy/)) 
       *  [The White House](https://plus.google.com/b/105479712798762608629/105479712798762608629/posts)
+    * iHispano.com: ([Privacy](http://www.ihispano.com/privacy-policy)) 
+      * [The White House](http://www.ihispano.com/group/info-the-white-house.841)
+    * AMightRiver.com: ([Privacy](http://www.amightyriver.com/privacy-policy)) 
+      * [The White House](http://www.amightyriver.com/group/info-the-white-house.556333)
+    * Quora: ([Privacy](http://www.quora.com/about/privacy)) 
+      *  [Aneesh Chopra](http://www.quora.com/Aneesh-Chopra-1) (Deactivated)
+      *  [Todd Park](http://www.quora.com/Todd-Park-1)
+      *  [Macon Phillips](http://www.quora.com/Macon-Phillips-1)
+      *  [Kori Schulman](http://www.quora.com/Kori-Schulman-1)
+    * SoundCloud: ([Privacy](http://soundcloud.com/pages/privacy)) 
+      *  [White House](http://soundcloud.com/whitehouse)
 
 _  Video & Multimedia_
 
@@ -218,10 +235,14 @@ _  Video & Multimedia_
 
 _Document Sharing_
 
+    * Avue: ([Privacy](https://www.avuedigitalservices.com/casting/aiportal/control/privacyPolicy)) 
+      * [White House Internship Program](https://www.avuedigitalservices.com/casting/aiportal/control/mainmenu?portal=WHIP&agency=WHIP)
     * Socrata: ([Privacy](http://www.socrata.com/privacy/)) 
       * [The White House](http://opendata.socrata.com/profile/whitehouse/bhnt-uir2)
     * SlideShare: ([Privacy](http://www.slideshare.net/privacy)) 
       * [The White House](http://www.slideshare.net/whitehouse)
+    * Scribd: ([Privacy](http://support.scribd.com/forums/33939/entries/25580)) 
+      * [The White House](http://www.scribd.com/whitehouse)
   4. _Email subscriptions and updates_
 
 The White House maintains several lists of subscribers who have asked to receive periodic email updates.  Any recipient of a White House email may unsubscribe from future messages via a link at the bottom of each email message.  We do not sell, rent, exchange, or otherwise disclose our list subscribers to persons or organizations outside the Executive Office of the President. 
@@ -240,6 +261,6 @@ We take reasonable precautions to protect our site and information automatically
 
 
 
-Updated: June 4, 2012
+Updated: November 26, 2012
 
 Previous version(s) of this policy may be accessed on the [archive page](https://web.archive.org/privacy/archive).
