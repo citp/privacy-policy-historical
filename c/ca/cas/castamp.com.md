@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the castamp.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625234341id_/http%3A//castamp.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castamp.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225023854id_/http%3A//castamp.com/privacy) for the most accurate reproduction.*
 
-# CastAMP - DMCA Guidelines
-
-**Privacy Policy**
+# CastAMP
 
 Welcome to the CastAMP.com. ("CastAMP.com") applications, platform, website( [www.CastAMP.com](http://www.castamp.com/)), and any other web sites, applications, or services operated or produced by CastAMP.com (collectively, the "CastAMP.com Platform"). CastAMP.com values the privacy of the users, subscribers, publishers, members, and others who visit and use the CastAMP.com Platform (collectively or individually, "You" or "Users").
 
 By using the CastAMP.com Platform, you expressly consent to the information handling practices described in this policy.
 
-This Privacy Policy is incorporated into and is subject to the CastAMP.com Platform [Terms of Service](http://www.castamp.com/component/kunena/Legal/248-Term-of-Service). Your use of the CastAMP.com Platform and any personal information you provide through the CastAMP.com Platform are subject at all time to this Privacy Policy and the [Terms of Service](http://www.castamp.com/component/kunena/Legal/248-Term-of-Service).
+This Privacy Policy is incorporated into and is subject to the CastAMP.com Platform [Terms of Service](http://castamp.com/terms). Your use of the CastAMP.com Platform and any personal information you provide through the CastAMP.com Platform are subject at all time to this Privacy Policy and the [Terms of Service](http://castamp.com/terms).
 
 **The Information CastAMP.com Collects**
 
