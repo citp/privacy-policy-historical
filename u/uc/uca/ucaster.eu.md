@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucaster.eu privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607034738id_/http%3A//www.ucaster.eu/static/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucaster.eu privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225141930id_/http%3A//www.ucaster.eu/static/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
