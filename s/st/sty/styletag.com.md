@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styletag.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621175256id_/http%3A//styletag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styletag.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225062757id_/http%3A//styletag.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -19,7 +19,7 @@ Please read this privacy policy carefully. By accessing, browsing or otherwise u
 
 Intrepid online retail private limited is a company registered in India whose registered office is at 1st floor, no 10, 1st main road, Vyalikaval, Bangalore -560003. References in this privacy policy to “we”, “us” and “Styletag” is to this company. We respect your right to privacy and will only process personal data you provide to us in accordance with the terms of this policy and the applicable provisions of information technology (reasonable security practices and procedures and sensitive personal data or information) Rules, 2011 and other applicable privacy laws.   
 If you have any questions about how we collect, store and use personal data, or if you have any other privacy-related questions, please contact us by any of the following means:   
-**Telephone us at:** +91-80-41648484   
+**Telephone us at:** 09243404044 or +9180 41648484   
 **Email us at:** [support@styletag.com](mailto:support@styletag.com)   
 **Write to us at:**  
 Styletag.com c/o Intrepid online retail private limited,  
