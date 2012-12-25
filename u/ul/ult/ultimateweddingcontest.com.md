@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimateweddingcontest.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615114610id_/http%3A//www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimateweddingcontest.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225082528id_/http%3A//www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Crate and Barrel
 
@@ -96,7 +96,7 @@ Back to Top
 
 ## Cookies Are Served
 
-"Cookies" are small amounts of data that are stored on your computer. They find their way to your browser via a Web server. They sound friendly and helpful because they are. They flag information about your activity on our Web site. This information helps us improve our site and make it friendlier and easier to use. We never use cookies to save passwords, credit card numbers or other highly confidential information.
+"Cookies" are small amounts of data that are stored on your computer. They find their way to your browser via a Web server. They sound friendly and helpful because they are. They flag information about your activity on our Web site. This information helps us improve our site and make it friendlier and easier to use. We never use cookies to save passwords, credit card numbers or other highly confidential information. However, we may use them to provide enhanced online marketing based on your interests and preferences. To opt out of these ads, please click here.
 
 Back to Top
 
@@ -141,18 +141,18 @@ Back to Top
 
 If you have any questions regarding our Privacy Policy, we will do our best to answer them. Here's how to [contact us](https://web.archive.org/Customer-Service/Contact-Us.aspx).
 
- **Phone:**  
+**Phone:**  
 Customer Service Department  
 800.237.5672  
 Monday - Sunday, 7 days a week
 
- **Email:**  
+**Email:**  
 [customer_service@crateandbarrel.com](mailto:customer_service@crateandbarrel.com?subject=crate%20and%20barrel%20customer%20service)
 
- **Address:**  
+**Address:**  
 Crate and Barrel  
 Customer Service Department  
 1860 W. Jefferson Avenue  
 Naperville, IL 60540-3918
 
- _Last Updated, March 1st 2011_
+_Last Updated, March 1st 2011_
