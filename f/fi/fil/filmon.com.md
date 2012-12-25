@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filmon.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608020637id_/http%3A//www.filmon.com/page/privacy-policy-en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmon.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225030847id_/http%3A//www.filmon.com/page/privacy-policy-en) for the most accurate reproduction.*
 
-# Privacy Policy Watch live TV in HD. Pay per view and HD movies on demand. The ultimate virtual TV experience.
+# Privacy Policy Watch Streaming Movies and live TV in HD. Watch Football and Compare us to Hulu, Zattoo and TVCatchup.
 
 ### Our privacy practices
 
@@ -21,8 +21,8 @@ The information you provide will be kept confidential and will be used only to s
 ### Trading from our website
 
 Making sure you can buy safely online is a priority for us and we have made strenuous efforts to ensure that security is one of our highest priorities and we have devoted a great deal of effort to ensure that our online security measures help to safeguard your information. We use industry-standard Secure Sockets Layer (SSL) technology to allow for the encryption of:  
-â€” otentially sensitive information such as your name and address;  
-â€” critically-sensitive information like your credit card number.
+\- otentially sensitive information such as your name and address;  
+\- critically-sensitive information like your credit card number.
 
 We hope that once you understand the measures we take to help ensure secure transactions and privacy, and the steps you can take yourself, you will be as happy about the safety of your online transaction and order information as we are. We have no desire to infringe your privacy while using our site and we will never provide your personal information to anyone else except as set out in this policy, our general terms or if we sell our business in whole or in part.
 
@@ -43,10 +43,10 @@ When you register and/or use this site, we will ask you to provide certain infor
 We will store this Data and use it to contact you, provide you with details of services and otherwise for the normal use and improvement of the site, unless you have asked us not to do so.
 
   1. 1\. We may also use the data you send to us by completion of surveys to prepare user profiles. We do not pass on your personal data to any third parties except: 
-    * â€” to enable you to obtain access to the restricted parts of certain service providers' information;
-    * â€” to enable you to receive information you have requested to be sent to you by post (we will disclose your address); or
-    * â€” to enable you to receive a paid for service;
-    * â€” to Partner Companies for the purposes of providing the Services as indicated in the general Terms and Conditions.
+    * \- to enable you to obtain access to the restricted parts of certain service providers' information;
+    * \- to enable you to receive information you have requested to be sent to you by post (we will disclose your address); or
+    * \- to enable you to receive a paid for service;
+    * \- to Partner Companies for the purposes of providing the Services as indicated in the general Terms and Conditions.
 If you can be identified from the information to be passed on, then we will not forward that information without having notified you first and obtained your consent.
   2. 2\. So we can check and improve the Site, we may gather information about you when you use it, such as details of your operating system, browser version, domain name and internet provider's address, the details of the website from which you came.
   3. 3\. We may use cookies only to store information such as your user identification number to allow us to identify whether you have registered to use that part of our website which you are using and, if so, to make your access to our website quicker. We will only read cookies from your cookie file placed there through your web browser's interaction with our website.
