@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the india-forums.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603194813id_/http%3A//india-forums.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the india-forums.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225174111id_/http%3A//www.india-forums.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # India-Forums -Privacy Policy
 
@@ -62,11 +62,11 @@ We are committed to resolving disputes as soon as feasible and shall endeavor to
 If site users have any questions or suggestions regarding our privacy policy, please contact us at:  
 E-mail: [Support](https://web.archive.org/contact_us.asp "Support")   
 Telephone: +91 22 4016 6640  
-Postal address: Crystal Plaza, D-308, New Link Road, Opp. Infiniti Mall, Andheri (W), Mumbai-400053.
+Postal address: A 602/603 Royal Sands, Shashtri Nagar, Andheri (West), Mumbai - 400 053, Maharashtra - INDIA.
 
 **WEBSITE ADMINISTRATION**  
 Business name: Cyberax Media Pvt. Ltd.  
-Address: Crystal Plaza, D-308, New Link Road, Opp. Infiniti Mall, Andheri (W),  
+Address: A 602/603 Royal Sands, Shashtri Nagar D-Phase, Andheri (West),  
 City: Mumbai  
 State: Maharashtra  
 Pin code: 400 053  
