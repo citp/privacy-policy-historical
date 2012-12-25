@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cpalead.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230150901id_/http%3A//www.cpalead.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpalead.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225120757id_/http%3A//www.cpalead.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy policy | CPAlead
+# Your Privacy Rights | CPAlead
 
 BY VISITING THIS WEBSITE AND REQUESTING INFORMATION, PRODUCTS OR SERVICES THERON, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT PROVIDE ANY INFORMATION OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEBSITES REFERRED TO IN THIS PRIVACY POLICY.
 
@@ -10,7 +10,7 @@ This policy describes the information collection, use, and dissemination practic
 
 **CALIFORNIA RESIDENTS PRIVACY RIGHTS**
 
-Companies that collect personally identifiable information ("PII") from California residents and disclose such information to Third Parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having their information shared with Third Parties. We have elected the second option and you may request that your PII not be shared with Third Parties by sending your request, including your full name, email address and postal address to: CPAlead, LLC., 1660 S. Church St., Suite #262, Watertown, WI 53094. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov.
+Companies that collect personally identifiable information ("PII") from California residents and disclose such information to Third Parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having their information shared with Third Parties. We have elected the second option and you may request that your PII not b2e shared with Third Parties by sending your request, including your full name, email address and postal address to: CPAlead, LLC., 1660 S. Church St., Suite #262, Watertown, WI 53094. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov.
 
 **THE INFORMATION COLLECTION, USE AND DISSEMINATION PRACTICES OF CPAlead.**
 
@@ -76,7 +76,7 @@ As used herein, Individual Information means Survey Information, Third Party Lis
 
 **1.8 No Information Collected from Children.**
 
-CPAlead encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. CPAlead will never knowingly collect any personal information about children under the age of 18. MINORS UNDER THE AGE OF 18 SHOULD NOT PROVIDE ANY PERSONAL INFORMATION, INCLUDING THEIR EMAIL ADDRESS, TO CPALEAD. If CPAlead obtains actual knowledge that it has collected personal information about a child under the age of 18, that information will be immediately deleted from our active database. Because it does not collect such information, CPAlead has no such information to use or to disclose to Third Parties. CPAlead has designed this policy in order to comply with the Children's Online Privacy Protection Act ("COPPA").
+CPAlead encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. CPAlead will never knowingly collect any personal information about children under the age of 18. MINORS UNDER THE AGE OF 18 SHOULD NOT PROVIDE ANY PERSONAL INFORMATION, INCLUDING THEIR EMAIL ADDRESS, TO CPAlead. If CPAlead obtains actual knowledge that it has collected personal information about a child under the age of 18, that information will be immediately deleted from our active database. Because it does not collect such information, CPAlead has no such information to use or to disclose to Third Parties. CPAlead has designed this policy in order to comply with the Children's Online Privacy Protection Act ("COPPA").
 
 **1.9 Credit Card Information.**
 
