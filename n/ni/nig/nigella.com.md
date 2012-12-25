@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nigella.com privacy policy that was archived on 2012-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120420001618id_/http%3A//www.nigella.com/lightbox/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigella.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225183313id_/http%3A//www.nigella.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Nigella Lawson
 
   1. In order to provide you with the full range of services on the site, we are sometimes required to collect information about you. We will use any personal information collected from the site in accordance with all laws and regulations relating to the protection of personal data including the Data Protection Act 1998 (as may be amended) (the "Data Protection Act"). Further details on the Data Protection Act can be found on the Information Commissioner's website ([www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/)) 
   2. Personal information you are asked to supply during your use of the site including that you supply voluntarily as part of the registration process and any other information relating to your Contributions ("Your Data"), will be used by us, our group companies, service providers and other organisations and by subcontractors, employees, agents and advisors (including legal advisors) as follows: (i) to administer your Membership; (ii) in making decisions about whether any contributions you seek to upload onto the site should be accepted, rejected or used; (iii) for marketing purposes where you have specifically agreed to this (see paragraph 10 below); and/or (iv) as set out on the site or the Terms. In addition, we may at our discretion disclose this information to the police, regulatory bodies or any legal advisers in connection with any alleged criminal offence or suspected breach of the Terms by you or otherwise where required by law. 
@@ -29,7 +29,7 @@
   4. We may use information you provide or that has been obtained by us:
   5. To register you with our website and to administer our website services; 
   6. For assessment and analysis (e.g. market, customer and product analysis) to enable us to review, develop and improve the services which we offer and to enable us to provide you and other customers with relevant information through our marketing programme. We may use your information to make decisions about you using computerised technology, for example, automatically selecting products or services, which we think will interest you from the information we have.
-  7. To provide you with our newsletter if you have opted-in to receive it. We will always provide you with the option of un-subscribing within each newsletter sent or you can send an email to: enquiry@nigella.com with "unsubscribe" in the subject field.
+  7. To provide you with our newsletter if you have opted-in to receive it. We will always provide you with the option of un-subscribing within each newsletter sent or you can send an email to: requests@nigella.com with "unsubscribe" in the subject field.
   8. For the prevention and detection of fraud; and 
   9. To administer any prize draws or competitions you may enter. 
   10. We may give information about you to the following, who may use it for the same purposes as set out above.
@@ -44,6 +44,8 @@
   19. We may supplement the information you provide to us with information we receive from third parties.
   20. We endeavour to take all reasonable steps to protect your personal details. However, we cannot guarantee the security of any data you disclose on-line. We will not be responsible for any breach of security unless this is due to our negligence or wilful default.
   21. You have the right to see personal data (as defined in the Data Protection Act) we keep about you, upon receipt of a written request and payment of an administration fee of £10. If you would like to see the data we hold about you or are concerned that any of the information we hold on you is incorrect and would like to amend it please contact us. You will need to prove your identity before we disclose any information. 
-  22. Please note that any products and services are supplied subject to our standard terms and conditions. If you have any comments or queries in connection with our privacy policy, please e-mail us at [enquiry@nigella.com](mailto:enquiry@nigella.com).
+  22. Please note that any products and services are supplied subject to our standard terms and conditions. If you have any comments or queries in connection with our privacy policy, please e-mail us at [requests@nigella.com](mailto:requests@nigella.com).
 
 
+
+[Print Version](https://web.archive.org/home/privacy_pdf)
