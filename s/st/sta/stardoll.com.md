@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardoll.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614093449id_/http%3A//www.stardoll.com/en/help/termsOfUse.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardoll.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225024656id_/http%3A//www.stardoll.com/en/help/termsOfUse.php%23privacy) for the most accurate reproduction.*
 
 # Terms Of Use - Stardoll | English
 
@@ -25,8 +25,8 @@ If your child is of age that full access to the website requires parental consen
 If you would like to see what information Stardoll has about your child, you can contact Stardoll at the same e-mail address indicated above: [parentalrights@stardoll.com](mailto:parentalrights@stardoll.com) or send us a letter to:
 
 STARDOLL AB  
-Hudiksvallsgatan 8  
-S 113 30 Stockholm  
+Luntmakargatan 26  
+S 111 37 Stockholm  
 SWEDEN  
 or fax at one of the following numbers:  
 Fax number: USA (+1 - 212 - 208 4566)  
@@ -89,7 +89,7 @@ You can change your privacy preferences regarding the use of cookies and similar
 
 ##### 5.1. Collection of Information by Third-Party Sites, Ad Servers and Sponsors
 
-The Stardoll website can contain linkes to other websites, including those of sponsors and advertisers, whose information practices may be different from ours. Sometimes these third party websites might conduct contests or sweepstakes that are promoted on the Stardoll website. Visitors should consult those other third party websites' privacy notices, since those websites are not covered by our Privacy policy and may follow different procedures.
+The Stardoll website can contain links to other websites, including those of sponsors and advertisers, whose information practices may be different from ours. Sometimes these third party websites might conduct contests or sweepstakes that are promoted on the Stardoll website. Visitors should consult those other third party websites' privacy notices, since those websites are not covered by our Privacy policy and may follow different procedures.
 
 Additionally, Stardoll and our advertisers may use third parties to serve or present the ads that appear on our site and to conduct research about the advertisements. These third parties may view, edit or set their own cookies. We, our third party service providers and/or partners may also place cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by our Privacy policy. 
 
@@ -187,8 +187,8 @@ When Stardoll cannot deliver products that have been ordered in the desired amou
 
 This website is operated by Stardoll AB from its office in Stockholm, Sweden.  
 Stardoll AB   
-Hudiksvallsgatan 8  
-S-113 30 Stockholm   
+Luntmakargatan 26   
+S 111 37 Stockholm   
 Sweden   
 E-mail: [info@stardoll.com](mailto:info@stardoll.com)  
 Fax number: USA (+1 - 212 - 208 4566)  
