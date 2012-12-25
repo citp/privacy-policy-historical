@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the codefear.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218084220id_/http%3A//www.codefear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codefear.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225153845id_/http%3A//www.codefear.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for CodeFear.com - Code Fear
+# Privacy Policy for CodeFear.com
 
 At CodeFear.com your privacy is of utmost importance to us. We do not gather any information regarding our users like their phone no., Social Security numbers, Bank Account No. and nor any credit card information.
 
