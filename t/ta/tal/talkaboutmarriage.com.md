@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkaboutmarriage.com privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123053036id_/http%3A//talkaboutmarriage.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkaboutmarriage.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225061056id_/http%3A//talkaboutmarriage.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # TalkAboutMarriage.com Privacy Policy
 
@@ -55,15 +55,19 @@ or by telephone at 1 (888) 354-8221.
   2. **Optional Voluntary Information**
     * We offer the following free services, which require some type of voluntary submission of personal information by users: 
       * Message boards/forums:  
-Users of the site's Forums must register separately for this service in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, date of birth and email address. Other types of personal information can be optionally entered into the user profile, and optional information entered into the user profile is available for the public to see except for "Age and Date of Birth" which is information that each user can choose whether or not to make public. This information is available to forum administrators and moderators.
-      * "E-mail this to a friend" Service:  
-Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose. 
+Users of the site's Forums must register separately for this service in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, date of birth and email address. Other types of personal information can be optionally entered into the user profile, and users have some control over who can see this information by adjusting their profile prvacy settings. All profileinformation is available to forum administrators and moderators. The profile privacy settings are available at the following URL: <http://talkaboutmarriage.com/profile.php?do=privacy>
+      * Usage of message boards / forums:  
+Any information a user posts on this website's message boards or forums should be considered public information that is viewable by anyone who comes to the site, regardless of where it is posted. Please visit our thread on anonymity to read about important considerations for posting on a public forum: <http://talkaboutmarriage.com/general-relationship-discussion/11063-important-message-about-anonymity-public-forums-like-talkaboutmarriage-com.html>
+      * Usage of Private Messaging (PM's)  
+Private messages sent on this forum are not viewable by anyone other than the recipient, unless the recipient "reports" the message using the "Report Private Message" link at the top right of the message. When a private message is "reported" using this feature, a copy of the message is sent to the site's administrator and moderators. 
+      * "Email this page" Service:  
+Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "Email this Page". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose. 
       * Polling:  
-We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. TalkAboutMarriage.com may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
-      * Surveys:  
-TalkAboutMarriage.com may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party. 
+We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user other than the site administrator. TalkAboutMarriage.com may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
       * Children:  
 Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent. 
+    * Suicidal / Homicidal threats or statements 
+      * If a user makes suicidal or homicidal statements or threats on this website, we may report any identifiable information we have on the user to their internet service provider and / or 911.
   3. **With respect to cookies:** We use cookies to record user-specific information on what pages users access or visit.
   4. **With respect to Ad Servers:** To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
 <http://www.google.com/privacy.html>
@@ -71,17 +75,8 @@ Consistent with the Federal Children's Online Privacy Protection Act of 1998 (CO
       * Third parties may be placing and reading cookies on your users’ browser, or using web beacons to collect information, in the course of ads being served on this website.
       * List provided courtesy of [blogsblogsblogs.com](http://google-third-party-ads.blogsblogsblogs.com/)
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes. If you are concerned about how your information is used, you should check back at our Web site periodically.
-
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
-
-Upon request we provide site visitors with access to transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them.
-
-Consumers can access this information by e-mailing us at the above address.
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information, communications that the consumer/visitor has directed to the site.
-
-Consumers can have this information corrected by sending us e-mail at the above address.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes. If you are concerned about how your information is used, you should check back at our Web site periodically.  
+ 
 
   5. **With respect to security:** We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
