@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the playfoursquare.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505062628id_/https%3A//foursquare.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playfoursquare.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225031042id_/https%3A//foursquare.com/legal/privacy) for the most accurate reproduction.*
 
 # foursquare
 
-**Last Updated: January 12, 2011**
+**Last Updated: July 13, 2012**
 
 ## Foursquare Labs, Inc. Privacy Policy
 
 Foursquare Labs, Inc. ("foursquare") knows that you take your privacy seriously. We do, too. We are committed to giving you transparency of our privacy practices and control over your data in connection with foursquare's Service (as defined in foursquare's [Terms of Service](https://web.archive.org/legal/terms)). To that end, in addition to this Privacy Policy, we have developed the following other documents that complement this policy, all of which describe the data we collect, how we use it, with whom we share it, and your choices regarding your data:
 
   * A ['Privacy 101' page](https://web.archive.org/privacy), intended to educate users about privacy on foursquare®;
-  * A [table showing the default privacy settings](https://web.archive.org/privacy/grid) ("Privacy Grid") on foursquare®; and
-  * A [set of FAQs](http://support.foursquare.com/forums/191152-privacy) related to privacy.
+  * A [table showing the default privacy settings](https://web.archive.org/privacy/grid) ("Privacy Grid") on foursquare® **[Updated - July 13, 2012]** ; and
+  * A [set of FAQs](http://support.foursquare.com/forums/21007383-privacy) related to privacy.
 
 
 
@@ -18,8 +18,8 @@ This Privacy Policy covers foursquare's treatment of personally identifiable inf
 
 ### What Personal Information Does Foursquare Collect?
 
-  * **Personal Information You Provide to Us:** We receive and store any information you enter on our Service or provide to us in any other way. The types of Personal Information collected may include your name, email address, phone number, birthday, Twitter and/or Facebook usernames, use information regarding your use of our Service, and browser information. We automatically receive your location when you use the Service. The Personal Information you provide is used for such purposes as allowing you to set up a user account and profile that can be used to interact with other users through the Service, improving the content of the Service, customizing the advertising and content you see, and communicating with you about specials and new features. We may also draw upon this Personal Information in order to adapt the Services of our community to your needs, to research the effectiveness of our network and Services, and to develop new tools for the community.
-  * **Information Collected Automatically:** When you use the Service, foursquare automatically receives and records information on our server logs from your browser or mobile platform, including your location, IP address, cookie information, and the page you requested. We treat this data as non-Personal Information, except where we are required to do otherwise under applicable law. foursquare only uses this data in aggregate form. We may provide aggregate information to our partners about how our customers, collectively, use our site, so that our partners may also understand how often people use their services and our Service.
+  * **Personal Information You Provide to Us:** We receive and store any information you enter on our Service or provide to us in any other way. The types of Personal Information collected may include your name, email address, phone number, birthday, Twitter and/or Facebook usernames, use information regarding your use of our Service, and browser information. We automatically receive your location when you use the Service. The Personal Information you provide is used for such purposes as allowing you to set up a user account and profile that can be used to interact with other users through the Service, improving the content of the Service, customizing the advertising and content you and your friends see, and communicating with you about specials and new features. We may also draw upon this Personal Information in order to adapt the Services of our community to your needs, to research the effectiveness of our network and Services, and to develop new tools for the community.
+  * **Information Collected Automatically:** When you use the Service, foursquare automatically receives and records information on our server logs from your browser or mobile platform, including your location, IP address, cookie information, and the page you requested. We treat this data as non-Personal Information, except where we are required to do otherwise under applicable law. Unless otherwise stated in this Privacy Policy, foursquare only uses this data in aggregate form. We may provide aggregate information to our partners about how our customers, collectively, use our site, so that our partners may also understand how often people use their services and our Service.
 
 
 
@@ -44,10 +44,11 @@ The foursquare service also has the following features that may allow you to sha
   * [Searching for friends](https://web.archive.org/privacy/grid#contactinfo)
   * [Inviting others to join foursquare](https://web.archive.org/privacy/grid#contactinfo)
   * [Writing Tips](https://web.archive.org/privacy/grid#otherareas)
-  * [Writing shouts](https://web.archive.org/privacy/grid#otherareas)
   * [Posting Photos](https://web.archive.org/privacy/grid#photos)
   * [Posting Comments](https://web.archive.org/privacy/grid#otherareas)
-  * **Using Third Party Apps.** Use of third party apps developed using our API are subject to the terms of use and privacy policies of such third party developers. Certain Personal Information may be made available to third party developers if you or your "friends" use these third party apps. You should review the policies of third party apps and websites to ensure that you are comfortable with the ways in which they use the information you share with them. We do not guarantee that they will follow our rules or our Privacy Policy. 
+  * [Likes](https://web.archive.org/privacy/grid#otherareas)
+  * **Explore.** The Explore feature of the Service gives you recommendations about where to go and specials and offers nearby. These recommendations are based on and include the places you've been, the places your friends have visited, places and things you and your friends like/dislike, your loyalty to your favorite places, the categories and types of places you go, what places and things are popular with other users, the day of the week, places with great tips, the time of day, and so on. If you don't want your friends to see your check-ins as part of what they see in Explore you can check-in privately. Please note, however, that your private check ins will still be used by the explore feature, in the aggregate, to help us determine what things are popular with foursquare users in general.
+  * **Using Third Party Apps.** Use of third party apps developed using our API are subject to the terms of use and privacy policies of such third party developers. Certain Personal Information may be made available to third party developers if you or your "friends" use these third party apps. You should review the policies of third party apps and websites to ensure that you are comfortable with the ways in which they use the information you share with them. We do not guarantee that they will follow our rules or our Privacy Policy. Note that your friends will be able to see which third party apps that you use. 
 
 
 
