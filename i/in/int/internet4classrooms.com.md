@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internet4classrooms.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609005603id_/http%3A//www.internet4classrooms.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internet4classrooms.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225030143id_/http%3A//www.internet4classrooms.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy at Internet 4 Classrooms
 
@@ -41,4 +41,4 @@
 Internet4classrooms is a collaborative effort by Susan Brooks and Bill Byles.  
  
 
-  
+ [](mailto:susan.brooks@internet4classrooms.com,bill.byles@internet4classrooms.com?subject=Email%20from%20/privacy-policy.htm%20page) 
