@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetechjournal.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628212240id_/http%3A//thetechjournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechjournal.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225231704id_/http%3A//thetechjournal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TheTechJournal
+# Privacy Policy | The Tech Journal
 
 **Privacy Policy For _[TheTechJournal.com](http://thetechjournal.com/)_**  
 The privacy of our visitors to _[TheTechJournal.com](http://thetechjournal.com/)_ is important to us.  
