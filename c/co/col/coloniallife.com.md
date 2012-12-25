@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the coloniallife.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528082146id_/http%3A//www.coloniallife.com/en/footer/privacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloniallife.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225204337id_/http%3A//www.coloniallife.com/en/footer/privacyNotice.aspx) for the most accurate reproduction.*
 
 # Colonial Life
 
 ### Our Commitment to Privacy
 
-[PDF of this notice](https://web.archive.org/web/20120528082146id_/http%3A//www.coloniallife.com/en/footer/~/media/acrobat/Legal%20and%20Compliance/colonial-life-privacy-notice.ashx)
+[PDF of this notice](https://web.archive.org/web/20121225204337id_/http%3A//www.coloniallife.com/en/footer/~/media/acrobat/Legal%20and%20Compliance/colonial-life-privacy-notice.ashx)
 
 Colonial Life, an affiliate company of Unum Group, understands your privacy is important.
 
