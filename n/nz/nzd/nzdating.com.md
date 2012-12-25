@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nzdating.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620042950id_/http%3A//www.nzdating.com/general/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzdating.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225103638id_/http%3A//www.nzdating.com/general/privacy.aspx) for the most accurate reproduction.*
 
 # NZDating - New Zealands premier NZ dating and friendship service
 
