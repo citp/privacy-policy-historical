@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nps.gov privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606190838id_/http%3A//www.nps.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nps.gov privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225060728id_/http%3A//www.nps.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -19,7 +19,7 @@ If you do nothing during your visit but browse through the website, read pages, 
 You may choose to provide us with personal information, as in e-mail with a comment or question. We use the information to improve our service to you or to respond to your request. Sometimes we forward your e-mail to other government employees or authorized concessioners who may be better able to help you. Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations.
 
 **Links to Other Sites**  
-Our website has many links to our partners, especially other federal agencies. In a few cases we link to private organizations. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.
+Our website has many links to our partners, especially other federal agencies. In a few cases we link to private organizations. When you click one of these partner links, you are no longer on our site and are subject to the privacy policy of the new site.
 
 **More Information  
 **[Department of Interior Privacy Statement](http://www.doi.gov/privacy.cfm)  
