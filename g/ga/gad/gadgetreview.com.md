@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gadgetreview.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620072028id_/http%3A//www.gadgetreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetreview.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225050314id_/http%3A//www.gadgetreview.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GadgetReview
+# Privacy Policy | Gadget Review
 
 Gadgetreview is committed to respecting the privacy rights of its customers and other users of the Gadgetreview Website (all capitalized terms not defined in this Notice have the same meanings as in Gadgetreview’s Website Terms of Use). Gadgetreview created this Privacy Policy to give You confidence as You visit and use the Website, and to demonstrate its commitment to fair information practices and to the protection of Your privacy.  
 This Privacy Policy is only applicable to the Website, and not to any Third-Party Websites, which, as further explained below, may have data collection, storage and use practices and policies that differ materially from this Privacy Policy.  Nor is this Privacy Policy applicable to information provided to Gadgetreview in connection with transactions occurring other than by means of the Website.  
