@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anti-agingstore.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615052133id_/http%3A//uk.anti-agingstore.com/privacy-policy/%3FSID%3Dk1ufuauu493rif55f6dqgj53j3%26___store%3Daas_uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anti-agingstore.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225082158id_/http%3A//uk.anti-agingstore.com/privacy-policy/%3FSID%3Dk1ufuauu493rif55f6dqgj53j3%26___store%3Daas_uk) for the most accurate reproduction.*
 
 # Privacy Policy | Anti-AgingStore.com
 
