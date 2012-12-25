@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfacebook.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617051952id_/http%3A//www.webmediabrands.com/corporate/privacy/privacypolicy.html%3Fnav%3Dftc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfacebook.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225075039id_/http%3A//www.webmediabrands.com/corporate/privacy/privacypolicy.html%3Fnav%3Dftc) for the most accurate reproduction.*
 
 # WebMediaBrands Career Opportunities
 
@@ -14,11 +14,11 @@ We promise that we will use your personal information only in ways that are comp
 
 Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer's "Internet Protocol" IP address. When a visitor requests a page from any Web site within the WEBM Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our Sites. We use this information to examine our traffic in aggregate, and to investigate misuse of the WEBM Network, its users, or to cooperate with law enforcement. We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors. 
 
-#### What are cookies?
+#### What are cookies? 
 
 From time to time, WEBM or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of WEBM's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our Site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
 
-#### How do you use single-pixel gifs?
+#### How do you use single-pixel gifs? 
 
 WEBM, its third party service providers and advertisers may use single-pixel gif images, sometimes referred to as web bugs or Web beacons, to count Web page accesses and gather some general statistical information. WEBM does not gather personal information through the use of these images. Our advertisers and third party providers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer. WEBM also uses various third party providers to track and analyze non-personally identifiable aggregate usage information from visitors to our Web sites in order to continuously improve the quality of our sites and services to you. 
 
@@ -34,7 +34,7 @@ WEBM also offers access to some services that require registration. We may use y
 
 When you sign up for a WEBM e-mail newsletter, you are given the opportunity to sign up for targeted third-party mailings. Whether or not you want to receive these announcements is your choice. If you choose to receive an announcement from a specific distribution list, you will receive commercial messages from independent third parties that have contracted with WEBM to send messages to the list. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to [announcementlist@webmediabrands.com](mailto:announcementlist@webmediabrands.com) or by following the instructions on the e-mails you receive. 
 
-When you sign up for a WEBM discussion forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the WEBM network. 
+When you sign up for a WEBM discussion forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the WEBM network.
 
 When you use co-branded services, or those provided by a third party, within the WEBM Network, your information may be passed to the co-brand or third party provider and their use of your information is subject to their applicable privacy policies. 
 
@@ -44,15 +44,16 @@ We may from time to time send e-mail announcing new products and services. If yo
 
 WEBM will disclose personal information and/or an IP address: 
 
-1) To contact you regarding other products and services which may be of interest to you (including those we may offer jointly with other companies). At any time, however, you may opt out of such contact;   
-2) When required by law or in the good-faith belief that such action is necessary to:   
-   a) Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on WEBM;   
-   b) Protect and defend the rights or property of the WEBM Network of sites and related properties, or visitors to the WEBM Network of sites and related properties;   
-   c) Identify persons who may be violating the law, the WEBM legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the WEBM Network or its related properties;   
-   d) Fulfill a user's order or request;   
-3) To process and fulfill your order or notify you of order status;   
-4) When we have your consent to share the information;   
-5) When you use co-branded services within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
+  * 1) To contact you regarding other products and services which may be of interest to you (including those we may offer jointly with other companies). At any time, however, you may opt out of such contact; 
+  * 2) When required by law or in the good-faith belief that such action is necessary to:   
+a) Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on WEBM;   
+b) Protect and defend the rights or property of the WEBM Network of sites and related properties, or visitors to the WEBM Network of sites and related properties;   
+c) Identify persons who may be violating the law, the WEBM legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the WEBM Network or its related properties;   
+d) Fulfill a user's order or request; 
+  * 3) To process and fulfill your order or notify you of order status; 
+  * 4) When we have your consent to share the information; 
+  * 5) When you use co-branded services within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
+
 
 
 We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy. 
@@ -67,9 +68,7 @@ If you use WEBM's discussion threads, you should be aware that any personally id
 
 Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
 
-Certain WEBM media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other WEBM media properties do not use SSL and thereby do not offer a secure coded way to transfer information. 
-
-Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online. 
+Certain WEBM media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other WEBM media properties do not use SSL and thereby do not offer a secure coded way to transfer information. Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online. 
 
 #### Business transfers
 
@@ -79,12 +78,12 @@ We are always seeking to improve our network of Web sites and our business. In a
 
 By using the WEBM Network, you consent to the collection and use of information by WEBM as specified above. We reserve the right to modify this Policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
-Please send any questions about WEBM's Privacy Policy to: [privacy@webmediabrands.com](mailto:privacy@webmediabrands.com)
+Please send any questions about WEBM's Privacy Policy to: [privacy@webmediabrands.com ](mailto:privacy@webmediabrands.com)
 
 Please note that your use of the WEBM network of Web sites is governed by our [Legal Notice](https://web.archive.org/corporate/legal.html). 
 
-WebMediaBrands participates in the Safe Harbor program and adheres to the Safe Harbor principles developed by the U.S. Department of Commerce and the European Union. For more information about the Safe Harbor program, please visit the U.S. Department of Commerce's Safe Harbor website [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
+WebMediaBrands participates in the Safe Harbor program and adheres to the Safe Harbor principles developed by the U.S. Department of Commerce and the European Union or Switzerland. For more information about the Safe Harbor program, please visit the U.S. Department of Commerce’s Safe Harbor website <http://www.export.gov/safeharbor/>
 
-WebMediaBrands has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by WebMediabrands, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
+WebMediaBrands has further committed to refer unresolved privacy complaints under the US-EU or Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU or Swiss SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by WebMediabrands, please visit the BBB EU OR SWISS SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20121225075039id_/http%3A//www.webmediabrands.com/corporate/privacy/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
-(Revised November 4, 2009) 
+(Revised October, 2012) 
