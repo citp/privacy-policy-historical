@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innovationalnewmedia.co.uk privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511101002id_/http%3A//www.innovationalnewmedia.co.uk/inmedia/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innovationalnewmedia.co.uk privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225233237id_/http%3A//www.innovationalnewmedia.co.uk/inmedia/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Innovational New Media - INMedia
 
