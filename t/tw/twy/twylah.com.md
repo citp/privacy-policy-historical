@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twylah.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620080541id_/http%3A//www.twylah.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twylah.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225120630id_/http%3A//www.twylah.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Twylah
 
@@ -41,7 +41,7 @@ Twylah, Inc. may sell, transfer or otherwise share some or all of its assets, in
 
 **Changing or Deleting Your Information**
 
-All registered users may review, update, correct or delete the personal information provided in their registration or account profile under their User Account by making changes on the settings page. if you run into any issues while trying to do this, please notify us at privacy-at-twylah.com. 
+Please notify us at privacy-at-twylah.com if you need to update, correct or delete the personal information provided in your registration or account profile. 
 
 **Opt-in/Opt-out Choice**
 
