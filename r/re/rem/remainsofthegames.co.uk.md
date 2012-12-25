@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the remainsofthegames.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630030437id_/http%3A//remainsofthegames.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remainsofthegames.co.uk privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225081157id_/http%3A//remainsofthegames.co.uk/privacy) for the most accurate reproduction.*
 
-# Remains of The Games
+# Remains of The Games | Olympic Village Furniture Sale | London 2012
 
 Remains Of The Games ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our terms of use [INSERT A LINK TO WEBSITE TERMS OF USE] and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We keep certain basic information when you visit our website and recognise the importance of keeping that information secure and letting you know what we will do with it.
+This policy (together with our [terms of use](https://web.archive.org/terms) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We keep certain basic information when you visit our website and recognise the importance of keeping that information secure and letting you know what we will do with it.
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is Travelive Ltd.
 
@@ -73,7 +73,7 @@ You have the right to ask us not to process your personal data for marketing pur
 
 ### ACCESS TO INFORMATION
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of Â£10 to meet our costs in providing you with details of the information we hold about you. 
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
 ### CHANGES TO OUR PRIVACY POLICY
 
