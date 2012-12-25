@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tech-seeker.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228040301id_/http%3A//tech-seeker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech-seeker.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225232654id_/http%3A//tech-seeker.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Tech-Seeker
+
+## Privacy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
@@ -15,3 +17,16 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+ **Cookies**
+
+We use the following cookies:
+
+  * Google +1 button – remembers you’ve used it.
+  * Facebook like button – remembers you’ve liked it.
+  * Other Social Networking, Social Bookmarking, Social Media buttons.
+  * Google analytics cookies to keep track of our website traffic.
+  * Cookies used by the WordPress CMS.
+  * A cookie that remembers whether you have agreed for us to store cookies on your computer.
+
+
