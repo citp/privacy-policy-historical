@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the skyebankng.com privacy policy that was archived on 2012-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120316231212id_/http%3A//www.skyebankng.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D14%26Itemid%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyebankng.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225165948id_/http%3A//www.skyebankng.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Skye Bank Plc - Privacy Policy
 
-Privacy Policy
-
-**Skye Bank Website Principles**
+Skye Bank Website Principles
 
 Skye Bank is committed to keeping all information you provide in the process of contacting us private and confidential. This policy relates to all information provided on [www.skyebankng.com](http://www.skyebankng.com/) and these include all subsidiaries listed on the Skye bank website.
 
@@ -31,7 +29,7 @@ Kindly note that we may also use your information for research and statistical a
 There may be need to transfer your details to an agent or service provider located in another country and in such event, we would use our best endeavor to ensure that they observe the same level of protection of such detail as we are required to and use your details strictly in accordance with our instructions. The information provided by you will be  retained in our data store for as long as the relevant Nigerian laws permit and we would use same only as required for business purposes.
 
 **3.   Security**  
-For more information on our policy for online data storage and protection, please refer to our [security online page](https://web.archive.org/security-tips/online-banking-protection.html) . This page also provides a guideline on how you can protect your own information online.
+For more information on our policy for online data storage and protection, please refer to our [security online page](http://www.skyebankng.com/security-tips/online-banking-protection.html) . This page also provides a guideline on how you can protect your own information online.
 
 **Skye Bank Privacy Principles**
 
