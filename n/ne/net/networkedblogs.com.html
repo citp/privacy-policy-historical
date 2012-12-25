@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the networkedblogs.com privacy policy that was archived on 2012-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621042103id_/http%3A//www.networkedblogs.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the networkedblogs.com privacy policy that was archived on 2012-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225030515id_/http%3A//www.networkedblogs.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
   <title>Privacy Policy | NetworkedBlogs by Ninua</title>
@@ -9,8 +9,8 @@
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
   
   <!-- CSS -->
-  <link type="text/css" rel="stylesheet" href="http://static.networkedblogs.com/static/css/jquery.qtip.min.css">
-  <link type="text/css" rel="stylesheet" href="http://static.networkedblogs.com/static/css/styles.css?v=live.359743152409891105">
+  <link type="text/css" rel="stylesheet" href="http://static.networkedblogs.com/static/css/jquery.qtip.min.css?v=live.364030632526192662">
+  <link type="text/css" rel="stylesheet" href="http://static.networkedblogs.com/static/css/styles.css?v=live.364030632526192662">
   <link type="text/css" rel="stylesheet" href="http://static.networkedblogs.com/static/css/nb-custom-theme/jquery-ui-1.8.16.custom.css?v=1">
   
   <!--[if IE]><style type="text/css">.clearfix {zoom: 1;}</style><![endif]-->
@@ -19,13 +19,13 @@
   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
 
-  <script type="text/javascript" src="http://static.networkedblogs.com/static/js/primer.js?v=live.359743152409891105"></script>
-  <script type="text/javascript" src="http://static.networkedblogs.com/static/js/jquery.qtip.min.js"></script>
+  <script type="text/javascript" src="http://static.networkedblogs.com/static/js/primer.js?v=live.364030632526192662"></script>
+  <script type="text/javascript" src="http://static.networkedblogs.com/static/js/jquery.qtip.min.js?v=live.364030632526192662"></script>
   <script type="text/javascript" src="http://static.networkedblogs.com/static/js/history.adapter.jquery.js"></script>
   <script type="text/javascript" src="http://static.networkedblogs.com/static/js/history.js"></script>
   <script type="text/javascript" src="http://static.networkedblogs.com/static/js/require.js"></script>
   <script type="text/javascript" src="http://static.networkedblogs.com/static/js/jquery.cookie.js"></script>
-  <script type="text/javascript" src="http://static.networkedblogs.com/static/js/ui.js?v=live.359743152409891105"></script>
+  <script type="text/javascript" src="http://static.networkedblogs.com/static/js/ui.js?v=live.364030632526192662"></script>
 
   <script type="text/javascript">
   // To track outbound links with Google Analytics.
@@ -60,10 +60,20 @@
   config.MAX_USER_LINKS = "5";
   config.FACEBOOK_APP_ID = "9953271133";
   config.FB_SILHOUETTE_IMAGE_URL = "http://static.ak.connect.facebook.com/pics/q_silhouette_logo.gif";
+  config.FB_SHARE_URL = "http://www.facebook.com/sharer.php";
+  config.FACEBOOK_NAMESPACE = "blognetworks";
+  config.TWITTER_SHARE_URL = "http://twitter.com/share";
+  config.GA_API_KEY = "AIzaSyDnZ_NlUCaZ77Q5U296Ky9i9FMB_VJXRWk";
+  config.GA_CLIENT_ID = "341336031220.apps.googleusercontent.com";
+  config.GA_SCOPE = "https://www.googleapis.com/auth/analytics.readonly";
+
   var page_name="public_privacy";
   var page_group="public";
   var platform="";
   var auth_type = "None";
+  var ab_number = "23";
+  var uses_oauth_code = false;
+  var logout_url = "";
 
   var viewer = null;
   var blocked_mode = false;
@@ -71,7 +81,9 @@
 
   
 
+  // todo: in_facebook param for debugging. remove later.
   var additional_params = {
+    
     
     'parent_page_name': 'public_privacy'
   };
@@ -88,15 +100,34 @@
   _gaq.push(['_setAccount', 'UA-11094983-1']);
   _gaq.push(['_setDomainName', 'networkedblogs.com']);
   _gaq.push(['_setAllowHash', 'false']);
-    
-      _gaq.push(['_trackPageview']);  // Normal page tracking
-    
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+  _gaq.push(['_setCustomVar',
+    1,                 // slot, can be 1-5
+    'Login Status',    // variable name
+    (viewer ? 'logged_in' : 'logged_out'), // variable value
+    3                 // Scope: 1=visitor, 2=session, 3=page
+  ]);
+  _gaq.push(['_setCustomVar', 2, 'in_facebook', 'no', 3]);
+  if (viewer && viewer.is_new)
+    _gaq.push(['_setCustomVar', 3, 'ab_vote_like', ab_number % 2 ? "vote" : "like", 1]);
+  else
+    _gaq.push(['_setCustomVar', 3, 'ab_vote_like', "original", 1]);
 
+  
+    // Add delay to allow custom variables in other parts of the page to be set.
+    setTimeout(function(){
+      
+        _gaq.push(['_trackPageview']);  // Normal page tracking
+      
+    }, 100);
+  
+  
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  
+  
   window.onerror = function(message, file, line) {
     var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
     _gaq.push(['_trackEvent', 'Exceptions', 'Application', sFormattedMessage, null, true]);
@@ -105,8 +136,15 @@
   </script>
   
 </head>
-<body>
-  
+<body class="
+    clearfix
+    public
+    
+    
+    
+    
+    
+    ">
 
 <!-- Header -->
 
@@ -134,15 +172,7 @@
 
 <!-- End Header -->
 
-  <!--TODO:
-  page_name source_edit is incorrect when loading add_blog
-  remove exception, and add ".add" classes to ".nux" definitions  -->
-  <div id="page" class="
-      public
-      
-      
-      
-      ">
+  <div id="page" class="clearfix">
 
     
 
@@ -235,20 +265,15 @@
 <!-- FOOTER -->
 <div class="clearfix"></div>
 
-  
-    
-      <div id="footer">
-          <b>© 2012 Ninua Inc.</b>
-          <a href="http://www.networkedblogs.com/about" rel="nofollow">About Us</a>
-          <a href="http://www.networkedblogs.com/privacy" rel="nofollow">Privacy Policy</a>
-          <a href="http://www.networkedblogs.com/tos" rel="nofollow">Terms of Service</a>
-          <a href="http://www.networkedblogs.com/help" rel="nofollow">Help &amp; Feedback</a>
-          
-          <div class="clearfix"></div>
-      </div>
+  <div id="footer">
+      <b>© 2012 Ninua Inc.</b>
+      <a href="http://www.networkedblogs.com/about" rel="nofollow">About Us</a>
+      <a href="http://www.networkedblogs.com/privacy" rel="nofollow">Privacy Policy</a>
+      <a href="http://www.networkedblogs.com/tos" rel="nofollow">Terms of Service</a>
+      <a href="http://www.networkedblogs.com/help" rel="nofollow">Help &amp; Feedback</a>
       
-    
-  
+      <div class="clearfix"></div>
+  </div>
 
 
   <div id="fb-root"></div>
@@ -261,11 +286,12 @@
         return;
     
       FB.init({appId: '9953271133', status: true, cookie: true,
+               frictionlessRequests : true,
                xfbml: true,
                channelUrl: 'http://www.networkedblogs.com/static/html/fbchannel.html',
                oauth  : true // enable OAuth 2.0
                });
-      
+
       FB.Event.subscribe("auth.authResponseChange", function(response){
         console.log('auth changed: ', response);
         // In this event, Facebook has not updated it's cookies yet, so we
@@ -288,19 +314,18 @@
 
         if (viewer)
           syncRequestsCount();
+
+        
       });
 
       
+
     };
 
     $('#logout').bind('click', function() {
       fb_logout();
       return false;
     });
-
-    // Show/hide settings menu.
-    $('#profile_link').mouseenter(function(){$('#account_dropdown').show();});
-    $('#account_dropdown').mouseleave(function(){$(this).hide();});
 
     (function() {
       var e = document.createElement('script');
@@ -318,6 +343,86 @@
     <img class="spinner" src="http://static.networkedblogs.com/static/images/spinner.gif">
   </div>
   
+
+  <!-- Voter Box Template -->
+  <script type="text/html" id="voter_box_template">
+    <%
+      var post_users = post.voter_users.slice(0);
+      if (post.adder_user){
+        post_users.unshift(post.adder_user);
+        post_users[0].action = "p";
+      }
+    %>
+
+    <div class="voter_block clearfix">
+      <% if (post_users.length) { %>
+        <% for (var i in post_users) {
+             var voter = post_users[i]; %>
+          <a class="postitem_voter <% if (viewer && (voter.id != viewer.id)){ %>show_hovercard<% } %> <% if (i==0) { %>first_voter<% } %>"
+             data-type="user"
+             data-id="<%= voter.id %>"
+            <% if (viewer && (voter.id == viewer.id)) { %>
+              href="#"
+              title="Undo your <%= link_text %>"
+              onclick="unvote('<%= post.code %>');return false;"
+            <% } else { %>
+              title="See all <%= link_text %>s by <%= voter.first_name %>"
+              href="/user/<%= voter.id %>"
+            <% } %>
+            ><img src="<%=voter.pic_square%>" /><% if (viewer && (voter.id == viewer.id)){ %><span class="close">&times;</span><% } %>
+          </a>
+          <% if (i==0 && voter.action == "p"){ %>
+            <b class="voter_name"><a href="/user/<%=voter.id%>" class="show_hovercard"
+                                     data-type="user" data-id="<%= voter.id %>"><%=voter.first_name%></a></b>
+            posted this<% if (post_users.length > 1){ %><span class="more_voter_count">, <%= post.voter_users.length %> voted.<% } %>
+            <br/>
+          <% } else { %>
+            <% if (i==0) { %>
+              <b class="voter_name" data-type="user" data-id="<%= voter.id %>">
+                <a href="/user/<%=voter.id%>" class="show_hovercard"><%=voter.first_name%></a>
+              </b>
+              <% if (post.voter_users.length > 1){ %>
+                <span class="more_voter_count">and <%= post.voter_users.length-1 %> other
+              <% } %>
+              <% if (use_like){ %>like<% if (post.voter_users.length == 1){ %>s<% } %> this<% }else{ %>voted up<% } %></span>
+              <br/>
+            <% } %>
+          <% } %>
+        <% } %>
+      <% } %>
+
+      <div class="action_block force_wrap">
+        <% if (!post.has_voted){ %>
+          <a href="#" class="vote_link __avote__<%=post.code%>"
+             onclick="vote(&quot;<%=post.code%>&quot;, &quot;<%=post.context.owner_stream_id%>&quot;);return false;"
+             title=\"<% if (use_like){ %>Like this<% }else{ %>Vote it up<% } %>!\"><%= link_text2 %></a>
+          &middot;
+        <% } %>
+
+        <a onclick="show_comments(this, &quot;<%= post.code %>&quot;, &quot;<%= post.context.owner_event %>&quot;, &quot;<%= post.context.owner_event %>&quot;); return false;"
+          class="__show_comments__"
+          href="#"
+          title="Show comments"
+          >Comment</a>
+        &middot;
+        <a rel="nofollow async"
+          primer_target_js="$(this).parents(&quot;.newspost&quot;).find(&quot;.newspost_popover&quot;);"
+          href="/uiapi/sendbox?code=<%= post.code %>&owner_event=<%=post.context.owner_event%>"
+          title="Send to a friend"
+          >Send</a>
+        &middot;
+        <a rel="nofollow async"
+          primer_target_js="$(this).parents(&quot;.newspost&quot;).find(&quot;.newspost_popover&quot;);"
+          href="/uiapi/sharebox?code=<%= post.code %>&owner_event=<%=post.context.owner_event%>"
+          title="Share to Facebook, Twitter and more"
+          >Share</a>
+
+
+        
+      </div>
+    </div>
+  </script>
+
 
 
 </body></html>
