@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labelhosting.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628155146id_/http%3A//labelhosting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labelhosting.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225124539id_/https%3A//labelhosting.com/privacy.php) for the most accurate reproduction.*
 
 # Label Hosting - Privacy policy
 
@@ -14,15 +14,17 @@ We may collect any or all of the information that via both automated means such 
 
 ### Information Use
 
-This information is used for billing and to provide service and support to our customers. We may also study this information to determine our customers needs and provide support for our customers. All reasonable precautions are taken to prevent unauthorised access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details. HostGator may email its monthly newsletter to the primary contact e-mail on file, but customers are able to opt out of this newsletter at any time. 
+This information is used for billing and to provide service and support to our customers. We may also study this information to determine our customers needs and provide support for our customers. All reasonable precautions are taken to prevent unauthorised access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details. HostGator may email its monthly newsletter to the primary contact e-mail on file, but customers are able to opt out of this newsletter at any time.
 
 ### Log Files
 
-We use IP addresses to analyze trends, administer our site and servers, track access, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. It is possible that personal information about a customer may be included in the log files due to the normal functions of IP addresses and Web browsing. 
+We use IP addresses to analyze trends, administer our site and servers, track access, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. It is possible that personal information about a customer may be included in the log files due to the normal functions of IP addresses and Web browsing.
 
-###  Cookies
+### Cookies
 
-Your Internet browser has the in-built facility for storing small text files - "cookies" - that hold information which allows a website to recognize your account. We use cookies to save your preferences and login information, and provide personalized functionality. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on the Hostgator's website. More information about cookies can be found at http://en.wikipedia.org/wiki/HTTP_cookie.   
+Your Internet browser has the in-built facility for storing small text files - "cookies" - that hold information which allows a website to recognize your account. We use cookies to save your preferences and login information, and provide personalized functionality. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on the Hostgator's website. More information about cookies can be found at http://en.wikipedia.org/wiki/HTTP_cookie.
+
+  
 
 
 ### Disclosing Information
@@ -31,7 +33,7 @@ We do not disclose any personal information obtained about you from this website
 
 ### Correcting/Updating Personal Information
 
-If a customer's personally identifiable information changes, or if a customer no longer desires our services, we will endeavor to provide a way to correct, update or remove that customer's personal data in our records. In most cases, this can be achieved via our billing system at http://www.labelhosting.com Otherwise, please contact us at sales@labelhosting.com 
+If a customer's personally identifiable information changes, or if a customer no longer desires our services, we will endeavor to provide a way to correct, update or remove that customer's personal data in our records. In most cases, this can be achieved via our billing system at http://www.labelhosting.com Otherwise, please contact us at sales@labelhosting.com
 
 ### Opt Out & Modifications
 
@@ -45,7 +47,7 @@ We cooperate with government and law enforcement officials to enforce and comply
 
 ### Changes to this Policy
 
-Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval. 
+Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.
 
 ### Enforcement and Dispute Resolution
 
