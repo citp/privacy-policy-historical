@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ustre.am privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620115252id_/http%3A//www.ustream.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustre.am privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225030738id_/http%3A//www.ustream.tv/privacy-policy) for the most accurate reproduction.*
 
 # USTREAM Privacy Policy: Personal and User Information, Security
 
