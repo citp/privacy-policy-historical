@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the myleadcompany.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630020543id_/http%3A//www.myleadcompany.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myleadcompany.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225045615id_/http%3A//www.myleadcompany.com/privacypolicy.html) for the most accurate reproduction.*
 
 # MyLeadCompany.com - network marketing & mlm leads
 
-[](https://web.archive.org/web/20120630020543id_/http%3A//www.myleadcompany.com/contact.html) | marketing associate 
+[](https://web.archive.org/web/20121225045615id_/http%3A//www.myleadcompany.com/contact.html) | marketing associate
+
+[](http://www.myleadcompany.com/espanol/)[](http://www.myleadcompany.com/)
 
 We respect your privacy and are committed to protecting it. We recognize your need for appropriate protection and management of the personal information we learn about you while you visit our web site. This privacy policy lets you know how we will use and protect that information. The information that we receive depends on what you do during your visit, and what service(s) you request.
 
