@@ -1,7 +1,12 @@
-<!--The following is the downloaded HTML source of the emergenc.com privacy policy that was archived on 2012-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505020358id_/http%3A//www.emergenc.com/index.php/misc/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emergenc.com privacy policy that was archived on 2012-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225110333id_/http%3A//www.emergenc.com/index.php/misc/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+    <meta property="og:title" content="Privacy Policy">
+	<meta property="og:url" content="http://emergenc.com/index.php/misc/privacy">
+		<meta property="og:image" content="http://emergenc.com/images/emergen-c-vitamin-supplement-immune-system.png">
+		<meta property="og:site_name" content="Emergen-C">
+
     <title>Privacy Policy</title>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="keywords" content="Privacy Policy">
@@ -47,11 +52,13 @@
     //    pageTracker._trackPageview();
     
 	function track_footer_facebook() {
+			_gaq.push(['_trackPageview','/footer-facebook']);
 			_gaq.push(['_trackSocial', 'facebook', 'view', 'http://www.facebook.com/Emergenc']);
 			
 		}
 		
 	function track_footer_twitter() {
+			_gaq.push(['_trackPageview','/footer-twitter']);
 			_gaq.push(['_trackSocial', 'twitter', 'view', 'http://twitter.com/Emergenc']);
 			
 		}
@@ -193,13 +200,92 @@
           <p class="clearb"></p>
         </div>
         <p class="clearb">&nbsp;</p>
-      </div>
+      </div><div id="signup_helper">
+        <img class="main_image" src="/images/signup_popup.png" alt="Sign Up" width="627" height="391">
+        <a href="#" onclick="hide_signup_helper();"><img class="signup_close" src="/images/close_signup_popup.png" alt="Close" width="61" height="61"></a>
+        <form name="signuphelper" id="signuphelper" method="post" action="/index.php/misc/signup-mini" onsubmit="return validate_suh();">
+		<input type="hidden" name="postback" value="pop">
+                <input id="suh_email" name="suh_email" type="text" value="Enter your email address" onfocus="if(this.value == 'Enter your email address') this.value='';" onblur="if(this.value == '') this.value='Enter your email address';">
+		<input id="agree_privacy" name="agree_privacy" type="checkbox"> I agree to the <a style="color: #F15A24;" href="/index.php/misc/privacy">Privacy Policy</a>.
+                <div id="suh_captcha">
+			<p style="margin-bottom:0;"><strong>Security Code</strong></p>
+                        <img id="captcha" src="/images/csi.php" alt="" style="vertical-align:middle;">
+                        <input id="securitycode" onfocus="if(this.value == 'Enter Security Code') this.value = '';" onblur="if(this.value == '') this.value = 'Enter Security Code';" name="security_code" type="text" class="halfsize" value="Enter Security Code">
+                </div>
+		<p class="clearb"></p>
+                <input id="suh_submit" type="image" src="/images/signup-now-button.png" alt="Sign-Up Now">
+        </form>
+</div>
+<script type="text/javascript">
+var ctimer = parseInt(XgetCookie("flcemc_xt"));
+if(ctimer > 1) window.setTimeout('show_signup_helper()',1000);
+
+function XgetCookie(c_name)
+{
+	var i,x,y,ARRcookies=document.cookie.split(";");
+	for (i=0;i<ARRcookies.length;i++)
+	{
+		x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+		y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+		x=x.replace(/^\s+|\s+$/g,"");
+		if (x==c_name)
+ 		{
+			return unescape(y);
+		}
+	}
+}
+
+function validate_suh() {
+        var zfield = document.getElementById("suh_email");
+	var zagree = document.getElementById("agree_policy");
+	if(zagree != undefined) {
+		if(!zagree.checked) 
+			return false;
+	}
+        if(zfield != undefined) {
+                if(zfield.value == '' || zfield.value == 'Enter your email address')
+                        return false;
+        } else
+                return false;
+        return true;
+}
+function XsetCookie(c_name,value,exdays)
+{
+  var exdate=new Date();
+  exdate.setDate(exdate.getDate() + exdays);
+  var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+  document.cookie=c_name + "=" + c_value;
+}
+
+function writecookie(cvalue) {
+  XsetCookie("flcemc_xt",cvalue,30);
+}
+function hide_signup_helper() {
+        var sh_obj = document.getElementById("signup_helper");
+        if(sh_obj != undefined) sh_obj.style.left = "-1200px";
+}
+function show_signup_helper() {
+	if(ctimer < 0)
+		return;
+        if(ctimer > 1) {
+                ctimer -= 1;
+                writecookie(ctimer);
+                window.setTimeout('show_signup_helper()',1000);
+        } else {
+                var sh_obj = document.getElementById("signup_helper");
+                if(sh_obj != undefined) sh_obj.style.left = "100px";
+                ctimer = 0;
+                writecookie("-100");
+        }
+}
+</script>
       <a id="logo" href="/"><img src="/images/emergen-c-vitamin-supplement-immune-system.png" alt="Emergen-C Vitamin Supplement Immune System"></a>
       <div id="indexcard">
         <img id="indeximg" src="/images/emergen-c-vitamin-card-nutritional-supplement.png" alt="Emergen-C Vitamin Card Nutritional Supplement">
         <a id="signup" href="/index.php/misc/sign-up"><img src="/images/icard-sign-up.gif" alt="Sign-Up for the Emergen-C Newsletter"></a>
+        <a id="preferences" href="/index.php/misc/preferences"><img src="/images/icard-preferences.png" alt="Preference Center"></a>
         <a id="sendfriend" href="/index.php/misc/send-to-friend"><img src="/images/icard-send-to-friend.gif" alt="Send To A Friend"></a>
-        <div id="searchdiv"><img id="searchimage" src="/images/icard-search.gif" alt="Search"><form id="searchform" method="get" action="/index.php/misc/search"><input id="searchtext" name="search" type="text"></form></div>
+        <div id="searchdiv"><img id="searchimage" src="/images/icard-search.png" alt="Search"><form id="searchform" method="get" action="/index.php/misc/search"><input id="searchtext" name="search" type="text" value="Search" onfocus="if(this.value == 'Search') this.value = '';" onblur="if(this.value == '') this.value = 'Search';"></form></div>
       </div>
       	<div id="leftnav">
 	<ul>
