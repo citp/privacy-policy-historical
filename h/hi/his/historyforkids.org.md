@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historyforkids.org privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511154619id_/http%3A//www.historyforkids.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historyforkids.org privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225101237id_/http%3A//www.historyforkids.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy - History for Kids!
 
@@ -10,30 +10,13 @@ We have contracted with Valueclick to monitor certain pages of our website for t
 
 Google Adsense also wants us to let you know that they use third-party advertising companies to serve ads when you visit Kidipede. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
-ALSO READ:
-
-## Why did people want to punch Socrates?
-
-[](https://web.archive.org/learn/greeks/philosophy/socrates.htm)
-
-## Where did Egyptians bury your liver?
-
-[](https://web.archive.org/learn/egypt/religion/canopicjars.htm)
-
-## How old are the Rocky Mountains?
-
-[](https://web.archive.org/scienceforkids/geology/platetectonics/rockies.htm)
-
-## What does a half-timbered house look like?
-
-[](https://web.archive.org/learn/medieval/architecture/halftimber.htm)
-
-## How do you spin wool?  
-(a project)
-
-[](https://web.archive.org/learn/clothing/spinning.htm)
-
 And finally, we use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
   
 
+
+Cite this page: Carr, Karen (PhD).
+
+Kidipede - History for Kids. 2011.
+
+http://www.historyforkids.org/privacy.htm
