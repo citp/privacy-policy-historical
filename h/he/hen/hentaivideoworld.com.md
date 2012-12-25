@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hentaivideoworld.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502095329id_/http%3A//www.hentaivideoworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentaivideoworld.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225132654id_/http%3A//serious-partners.com/privacy.html) for the most accurate reproduction.*
 
 # CUSTODIAN OF RECORDS - U.S.C. TITLE 18, SECTION 2257 COMPLIANCE
 
@@ -10,4 +10,4 @@ We do not collect any customer information. Please see our payment processor's P
 
 * * *
 
-<<< BACK TO [HENTAI VIDEO](https://web.archive.org/ "Hentai Video") WORLD 
+<<< Return to site 
