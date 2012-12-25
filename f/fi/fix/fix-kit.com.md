@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fix-kit.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618170926id_/http%3A//fix-kit.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fix-kit.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225192128id_/http%3A//fix-kit.com/Privacy.aspx) for the most accurate reproduction.*
 
 # PC Utility Kit
 
-This privacy notice discloses the privacy practices for fix-kit.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
+This privacy notice discloses the privacy practices for PC Utility Kit. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
   1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
   2. What choices are available to you regarding the use of your data.
@@ -53,5 +53,13 @@ We appreciate your privacy and hope that you feel comfortable trusting us. We co
 ## How We Protect Your Information
 
 We do not share any contact information or IP address information with partners. The privacy and protection of your personal information is vitally important to us. We do not make personal information available to any third parties without your permission. Any user statistics that we may provide to prospective advertisers or partners regarding your usage are provided in the aggregate only and do not include any personally identifiable information about any individual user.
+
+## Questions?
+
+We welcome any questions or comments you have about our privacy practices. Please feel free to [contact us](https://web.archive.org/Contact.aspx).
+
+Fix-kit.com  
+2263 Coral Ridge Ave.  
+Henderson, NV 89052 
 
 * * *
