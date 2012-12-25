@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sgadsonline.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314210623id_/http%3A//www.sgadsonline.com/en_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgadsonline.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225144020id_/http%3A//sgadsonline.com/en_privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Sgadsonline
 
 You must agree with our Terms of Use and Privacy Policy when accessing any services provided on this website. If you do not accept any of these terms, please discontinue your access to our site(s) and online service(s).
 
