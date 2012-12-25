@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theupsstore.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622011733id_/http%3A//www.theupsstore.com/about/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theupsstore.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225190054id_/http%3A//www.theupsstore.com/about/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs only information collected from visitors to The UPS Store® website (“Website”). At Mail Boxes Etc., Inc., we recognize the importance of protecting your privacy. We adhere to the policies and practices described in this Privacy Policy for the treatment, use and protection of the information provided to us by visitors to the Website. Please take a minute to read this Privacy Policy so that you can better understand our Website information practices. If you have questions about our Privacy Policy, please [contact us](https://web.archive.org/customer-service/pages/contact-us.aspx "contact us").
+This Privacy Policy governs only information collected from visitors to The UPS Store® website (“Website”). At The UPS Store, Inc., we recognize the importance of protecting your privacy. We adhere to the policies and practices described in this Privacy Policy for the treatment, use and protection of the information provided to us by visitors to the Website. Please take a minute to read this Privacy Policy so that you can better understand our Website information practices. If you have questions about our Privacy Policy, please [contact us](https://web.archive.org/customer-service/pages/contact-us.aspx "contact us").
 
-As used in our Privacy Policy, "MBE", "our", “us” and "we" refer to Mail Boxes Etc., Inc. MBE is a wholly-owned subsidiary of United Parcel Service of America, Inc. (UPS). The term "Affiliates," as used in the Privacy Policy, includes UPS and all subsidiaries and affiliates of UPS.
+As used in our Privacy Policy, "The UPS Store", "our", “us” and "we" refer to The UPS Store, Inc., The UPS Store is a wholly-owned subsidiary of United Parcel Service of America, Inc. (UPS). The term "Affiliates," as used in the Privacy Policy, includes UPS and all subsidiaries and affiliates of UPS.
 
 **Personal Information Collected and How It Is Used**
 
@@ -43,7 +43,7 @@ We may employ third party contractors to perform functions on our behalf, which 
 
 Affiliates and Franchises
 
-We may share your personal information with our Affiliates and Franchisees to respond to your requests and provide you with requested services or offer services that may be of interest to you. Each Franchise is owned and operated independently from MBE and is solely responsible for its own acts and omissions.  For example, in the case of franchise applications, the information may be shared with our area franchisees who render sales support and other assistance to us. We may also share information relating to your customer service query with Affiliates, Franchisees and other third parties in order to address the query properly.
+We may share your personal information with our Affiliates and Franchisees to respond to your requests and provide you with requested services or offer services that may be of interest to you. Each Franchise is owned and operated independently from The UPS Store and is solely responsible for its own acts and omissions.  For example, in the case of franchise applications, the information may be shared with our area franchisees who render sales support and other assistance to us. We may also share information relating to your customer service query with Affiliates, Franchisees and other third parties in order to address the query properly.
 
 Compliance with Law and Legal Requests
 
@@ -55,16 +55,16 @@ We may share non-personally identifiable information, including anonymized data 
 
 Business Transfers
 
-In the event that all or a portion of MBE, or substantially all the assets of MBE, is sold to another business entity, personally identifiable information collected from the website will likely be among the assets transferred to such business entity. 
+In the event that all or a portion of The UPS Store, or substantially all the assets of The UPS Store, is sold to another business entity, personally identifiable information collected from the website will likely be among the assets transferred to such business entity. 
 
 **Accessing and Deleting Your Personal Information**
 
 If at any time you wish to access your information in order to update, modify or delete it, or if you wish to receive no further communication or promotional materials from us, please contact us at the address or phone number listed below. After receiving your request, we will make all reasonable efforts to make the appropriate changes to our database.  However, certain archival information may be difficult or impossible to locate and/or remove. We reserve the right to retain such information, and make the information unavailable for use rather than fully deleting it from our systems.
 
-Mail Boxes Etc., Inc.  
+The UPS Store., Inc.  
 Attention: Legal Editor  
 6060 Cornerstone Ct. West  
 San Diego, CA 92121-3795  
 (800) 789-4623 in USA  
 (858) 455-8800  
-[tm@mbe.com](mailto:tm@mbe.com)
+[tm@upsstore.com](mailto:tm@upsstore.com)
