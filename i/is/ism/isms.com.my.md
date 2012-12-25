@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isms.com.my privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501202649id_/http%3A//www.isms.com.my/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isms.com.my privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225092830id_/http%3A//www.isms.com.my/policy.php) for the most accurate reproduction.*
 
 # Find out more about iSMS detail rates
 
@@ -56,8 +56,9 @@ Bayan Bay, 11900 Bayan Lepas, Penang, Malaysia.
 Helpline: 1300 88 7389
 
 Malaysia, Kuala Lumpur  
-No. A-125 Block A, Level 1, Damansara Intan,  
-No. 1 Jalan SS 20/27, 47400 Petaling Jaya, Selangor Darul Ehsan, Malaysia.
+No.B-2-7, Block B,Kuchai Exchange, Jalan Kuchai Maju 13,  
+Kuchai Lama 58200, Kuala Lumpur, Malaysia  
+Tel: +603-79801388, Fax: +603-7980 2388
 
 When MobiWeb Will Share Your Personal Information
 
