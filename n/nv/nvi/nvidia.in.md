@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nvidia.in privacy policy that was archived on 2012-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120101084437id_/http%3A//www.nvidia.co.in/object/privacy_policy_in.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvidia.in privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225143519id_/http%3A//www.nvidia.in/object/privacy_policy_in.html) for the most accurate reproduction.*
 
 # NVIDIA Privacy Policy
 
 This policy was last updated on July 1, 2009.
 
-NVIDIA respects the privacy of all visitors to its world wide family of NVIDIA-owned websites, including www.nvidia.co.in.
+NVIDIA respects the privacy of all visitors to its world wide family of NVIDIA-owned websites, including www.nvidia.co.uk and GeForce UK.
 
 [[CLICK HERE](https://web.archive.org/object/privacy-policy-children-in.html)] for the NVIDIA Kids Privacy Policy.
 
@@ -44,17 +44,17 @@ The information collected passively through our IT systems is not personally ide
 
 _Personal Information We Receive From Others_
 
-We may receive Personal Information about users from other sources, such as web analytics vendors and marketing consultants. This information supplements any information that we have collected directly from our users, and allows us to customize our website and products to better serve you. Sometimes, we may receive Personal Information about people who are not yet users of our website. NVIDIA’s policy is to treat all information obtained from third parties in the same manner that we treat information that we have collected ourselves.
+We may receive Personal Information about users from other sources, such as web analytics vendors and marketing consultants. This information supplements any information that we have collected directly from our users, and allows us to customize our website and products to better serve you. Sometimes, we may receive Personal Information about people who are not yet users of our website. NVIDIA's policy is to treat all information obtained from third parties in the same manner that we treat information that we have collected ourselves.
 
 #### Why We Collect Personal Information
 
-The Personal Information we collect helps us process transactions, respond to requests, and learn about our users’ interests in terms of the features, performance and support of our products, and our users’ website experience. We also use this information to send newsletters or promotional e-mails regarding new or upgraded products and services. (Please see the section below on **Your Choices Regarding Your Personal Information**.)
+The Personal Information we collect helps us process transactions, respond to requests, and learn about our users' interests in terms of the features, performance and support of our products, and our users' website experience. We also use this information to send newsletters or promotional e-mails regarding new or upgraded products and services. (Please see the section below on **Your Choices Regarding Your Personal Information**.)
 
 We do not sell Personal Information about our customers or website users to any third parties. We may from time to time share your Personal Information with our business partners, resellers, affiliates, or consulting partners in an effort to better serve you. For example, when you register for a marketing event or contest on our website, we may share your Personal Information with the business partners that help us run the event or contest.
 
-Any Personal Information we collect may be shared with NVIDIA’s corporate affiliates, or companies who operate under the same corporate control. NVIDIA will take reasonable steps to ensure that these companies affiliates honor this Online Privacy Policy and Kids Privacy Policy. 
+Any Personal Information we collect may be shared with NVIDIA's corporate affiliates, or companies who operate under the same corporate control. NVIDIA will take reasonable steps to ensure that these companies affiliates honor this Online Privacy Policy and Kids Privacy Policy. 
 
-We may, from time to time, share your Personal Information with business partners that help us with our design, manufacturing, integration, delivery, support, payment, and servicing processes. NVIDIA’s policy is to prohibit these companies from using your Personal Information for any purpose other than to provide the services expressly requested by NVIDIA.
+We may, from time to time, share your Personal Information with business partners that help us with our design, manufacturing, integration, delivery, support, payment, and servicing processes. NVIDIA's policy is to prohibit these companies from using your Personal Information for any purpose other than to provide the services expressly requested by NVIDIA.
 
 We may disclose your Personal Information to our e-mail marketing partners, if you choose to receive promotional communications from us. You should contact these partners directly if you have any questions regarding how these partners treat your personal information. 
 
@@ -62,7 +62,7 @@ NVIDIA may sell or buy assets from or to other companies. Personal information m
 
 We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on NVIDIA; or (b) to protect and defend the rights or property of NVIDIA or users of our website. 
 
-NVIDIA may “de-personalize” Personal Information by removing personally identifiable characteristics, such as name and email address, and aggregate data for use in surveys or other business purposes. NVIDIA may then use and/or share this de-personalized information with third parties.
+NVIDIA may "de-personalize" Personal Information by removing personally identifiable characteristics, such as name and email address, and aggregate data for use in surveys or other business purposes. NVIDIA may then use and/or share this de-personalized information with third parties.
 
 #### Your Choices Regarding Your Personal Information
 
@@ -97,4 +97,4 @@ We may makes changes to our Online Privacy Policy from time to time. Please revi
 
 #### Your Consent
 
-By using this website, you consent to the terms of our Online Privacy Policy and to NVIDIA’s collecting and processing of your Personal Information for the purposes listed herein. Your Personal Information may be processed in the country in which it was collected and in the United States and other countries in which NVIDIA's backup storage may be located. NVIDIA is committed to complying with all applicable laws regarding consumer privacy. At a minimum, your Personal Information will be processed in accordance with the terms of this Online Privacy Policy and the laws of the United States, which may be more or less stringent than the laws in your country.
+By using this website, you consent to the terms of our Online Privacy Policy and to NVIDIA's collecting and processing of your Personal Information for the purposes listed herein. Your Personal Information may be processed in the country in which it was collected and in the United States and other countries in which NVIDIA's backup storage may be located. NVIDIA is committed to complying with all applicable laws regarding consumer privacy. At a minimum, your Personal Information will be processed in accordance with the terms of this Online Privacy Policy and the laws of the United States, which may be more or less stringent than the laws in your country.
