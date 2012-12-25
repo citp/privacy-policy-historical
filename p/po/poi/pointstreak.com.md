@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pointstreak.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518170201id_/http%3A//www.pointstreak.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointstreak.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225152444id_/http%3A//www.pointstreak.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
 
 # privacy policy | Pointstreak Sports Technologies
 
@@ -8,7 +8,7 @@ Your Personal Information
 
 * * *
 
-Through the operation of Pointstreak's service, Pointstreak or the league administrator may request or require personal information, such as your name, email address(es), phone number(s), address and other demographic information. It is the purpose of this policy to inform you of how this information is used and protected. Any personal information that is collected is either used for the operation of our service, that is, to collect and display hockey statistics, or by the league administrator, in the normal operation of their league. We may use aggregate data to develop a profile of the general population of our users for use in business development and communication with partners or clients. However, in no way will Pointstreak use or share your personal, individual information with any third party.
+Through the operation of Pointstreak's service, Pointstreak or the league administrator may request or require personal information, such as your name, email address(es), phone number(s), address and other demographic information. It is the purpose of this policy to inform you of how this information is used and protected. Any personal information that is collected is either used for the operation of our service, that is, to collect and display sports statistics, or by the league administrator, in the normal operation of their league. We may use aggregate data to develop a profile of the general population of our users for use in business development and communication with partners or clients. However, in no way will Pointstreak use or share your personal, individual information with any third party.
 
 Website Usage 
 
@@ -34,7 +34,7 @@ Vancouver, BC
 Canada  
 V5Z 1K5
 
-Questions regarding the accuracy of your personal information or hockey statistics should be taken up with your league or database administrator - NOT Pointstreak staff or management.
+Questions regarding the accuracy of your personal information or sports statistics should be taken up with your league or database administrator - NOT Pointstreak staff or management.
 
 Security of Information 
 
