@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindmovies.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621094016id_/http%3A//www.mindmovies.com/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindmovies.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225231030id_/http%3A//www.mindmovies.com/footer/privacy.html) for the most accurate reproduction.*
 
 # Mind Movies
 
@@ -36,7 +36,7 @@ We need to send the information to companies that work on behalf of MindMovies t
 
 We respond to subpoenas, court orders or legal process; or
 
-We find that your actions on our web sites violate the [MindMovies Terms of Service](http://www.mindmovies.com/blog/?page_id=171) or any of our usage guidelines for specific products or services.
+We find that your actions on our web sites violate the [MindMovies Terms of Service](http://www.mindmovies.com/footer/terms.html) or any of our usage guidelines for specific products or services.
 
 **Cookies**
 
@@ -63,3 +63,7 @@ MindMovies may edit this policy from time to time. If we make any substantial ch
 **Questions or Suggestions**
 
 If you have questions or suggestions complete a [ feedback form ](http://mindmovies.com/footer/support.php).
+
+**Points of Contact**
+
+At any time you can contact us by mail at 113 West G Street #122 San Diego, CA 92101, by email at support@mindmovies.com, or by telephone at 213-674-8663.
