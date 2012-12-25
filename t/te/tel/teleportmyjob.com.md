@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teleportmyjob.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619005923id_/http%3A//www.teleportmyjob.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teleportmyjob.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225115506id_/http%3A//www.teleportmyjob.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # TeleportMyJob.com - Where do you want to be?
 
@@ -91,4 +91,4 @@ We reserve the right to change our Privacy Statement at any time however a notic
 
 ### Questions? Concerns?
 
-For any questions or suggestions with regards to our Privacy Statement, please e-mail us and we will be happy to respond. [Contact Us](https://web.archive.org/web/20120619005923id_/http%3A//www.teleportmyjob.com/contact-us.aspx)
+For any questions or suggestions with regards to our Privacy Statement, please e-mail us and we will be happy to respond. [Contact Us](https://web.archive.org/web/20121225115506id_/http%3A//www.teleportmyjob.com/contact-us.aspx)
