@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostingshouse.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501034932id_/http%3A//hostingshouse.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingshouse.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225210910id_/https%3A//www.hostingshouse.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Hostings House
 
@@ -12,7 +12,7 @@ By visiting our website and availing yourself of our services, you allow us to p
 
 4) Cookies are used by us for various reasons, for instance, when you sign up with us for a particular package or register your domain name, we are able to track your information through cookies. However, cookies are not used for tracking individual information and only HostingsHouse will be able to access its cookies. When you log on to our website cookies will be issued by our system. You can choose to refuse accepting cookies by changing your browser setting relevant to the cookies feature but that might restrict your access to certain parts of our website and keep you from carrying out certain transactions. We cannot know and neither are we interested in knowing the identities of people who simply visit our site. 
 
-5) We store all the information you have provided us on our secured servers in the US. Credit card numbers are only used for payment processing, all transactions being encrypted, and won�t be used for the purpose of marketing. 
+5) We store all the information you have provided us on our secured servers in the US. Credit card numbers are only used for payment processing, all transactions being encrypted, and won’t be used for the purpose of marketing. 
 
 It is your responsibility to keep the password you use to access our website fully confidential, you must not share your password with anyone. When we receive information from you, we will do our best to prevent unauthorized access by implementing strict security procedures, though we do not guarantee your personal information to be absolutely secure. Once your personal information has been transmitted to our system the responsibility will rest with you transmission through the internet is by no means completely secure. 
 
