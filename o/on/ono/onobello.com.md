@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onobello.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523143954id_/http%3A//www.onobello.com/index.php/component/k2/item/458-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onobello.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225150215id_/http%3A//www.onobello.com/index.php/component/k2/item/458-privacy-policy) for the most accurate reproduction.*
 
-# OnoBello.com Privacy Policy Statement
+# OnoBello.com Privacy Policy Statement - OnoBello.com: Latest in Fashion, Beauty, News, Features and Events
 
 **1\. General**
 
