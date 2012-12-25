@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beveragefactory.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625021132id_/http%3A//www.beveragefactory.com/privacy_statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beveragefactory.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225010207id_/http%3A//www.beveragefactory.com/privacy_statement.shtml) for the most accurate reproduction.*
 
 # Privacy Statement | BeverageFactory.com
 
@@ -29,6 +29,8 @@ You may opt out of any future contacts from us at any time. You can do the follo
   * Express any concern you have about our use of your data. 
 
 
+
+Third party vendors, including Google, use cookies to serve the badge on your website and to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/).
 
 **If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at _800-710-9939_.**
 
