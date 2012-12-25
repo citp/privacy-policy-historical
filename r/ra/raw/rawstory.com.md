@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rawstory.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619031515id_/http%3A//www.rawstory.com/rs/about-us/raw-story-medias-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rawstory.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225141331id_/http%3A//www.rawstory.com/rs/about-us/raw-story-medias-privacy-policy) for the most accurate reproduction.*
 
 # The Raw Story | Raw Story Media’s Privacy Policy
 
@@ -23,3 +23,5 @@ A cookie is a unique number that is provided to you the first time Raw Story or 
 If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser’s Help documentation for more information.
 
 The Raw Story works with third party advertising agencies who serve ads to this site. Each of these agencies have their own privacy policies. If you have any additional questions about The Raw Story’s dedication to consumer privacy, please click here to send us a message.
+
+[](https://secure.repost.us/syndicate/create?url=http://www.rawstory.com/rs/about-us/raw-story-medias-privacy-policy/)
