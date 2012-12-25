@@ -1,31 +1,56 @@
-<!--The following is the downloaded HTML source of the pose.com privacy policy that was archived on 2012-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621162724id_/http%3A//pose.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pose.com privacy policy that was archived on 2012-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225032237id_/http%3A//pose.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
+<meta charset="UTF-8">
 <title>Pose</title>
 <meta content="Fashion, iOS, Android, Photos, Social" name="keywords">
 <meta content="Pose is the best way to share and discover style!" name="description">
+<meta content="app-id=402272154" name="apple-itunes-app">
 <meta content="164118886949520" property="fb:app_id">
 <meta content="Pose" property="og:title">
-<meta content="http://pose.com/assets/graph-image-9ed3bb994d00af8ba902cdefd6ab586d.png" property="og:image">
+<meta content="https://d2s11kre1yh5b6.cloudfront.net/assets/graph-image-75ffd2b07769aedc6565012f4fd5f933.png" property="og:image">
 <meta content="website" property="og:type">
 <meta content="http://pose.com/privacy" property="og:url">
 
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-<meta content="width=600" name="viewport">
-<meta content="yes" name="apple-mobile-web-app-capable">
-<meta content="black" name="apple-mobile-web-app-status-bar-style">
-<link href="/assets/application-644e2011af57e20de21b1c0a697f3189.css" media="screen" rel="stylesheet" type="text/css">
 
-<script async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/assets/application-735cb0b51ea2d5cc72a5b8d11d1d0a71.js" type="text/javascript"></script>
-<script src="//cdn.optimizely.com/js/20269053.js" type="text/javascript"></script>
+
+<link href="https://d2s11kre1yh5b6.cloudfront.net/assets/application-ef30763a8abbe658590ab6a0ce808901.css" media="screen" rel="stylesheet" type="text/css">
+<script async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+  //<![CDATA[
+    if (typeof Pose === "undefined" || Pose === null) { Pose = {}; }
+    Pose.FB_APP_ID = 164118886949520;
+    Pose.routes = {};
+    Pose.routes.blog_path = "/blog";
+    Pose.routes.help_path = "/help";
+    Pose.routes.terms_path = "/terms";
+    Pose.routes.session_url = "https://secure.pose.com/users/sign_in";
+    Pose.routes.registration_url = "https://secure.pose.com/users";
+    Pose.routes.new_user_password_path = "/users/password/new";
+    Pose.routes.user_omniauth_authorize_path_facebook = "/users/auth/facebook"
+  //]]>
+</script>
+
+
+<script src="https://d2s11kre1yh5b6.cloudfront.net/assets/application-f81cdd1183804206e6d8f791dd7aba8c.js" type="text/javascript"></script>
 <script src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f8e1cf04a32e2a8&amp;async=true" type="text/javascript"></script>
+
 <script>
   //<![CDATA[
     var addthis_config = { data_track_clickback: false , ui_use_css: false };
+    addthis.addEventListener('addthis.menu.share', function(e) { Pose.kontagent.trigger('addthis:share', e.data, addthis.model); })
   //]]>
 </script>
-</head><body class="web controller-pages action-privacy"><div id="fb-root"></div>
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+<![endif]-->
+<meta content="authenticity_token" name="csrf-param">
+<meta content="ZYaNFQkjDR69in/kr3sBlaUoV7jKz8ITVwasjHSdJkM=" name="csrf-token">
+
+</head>
+
+<body class="web" id="application">
+<div id="fb-root"></div>
 <script>
   //<![CDATA[
     if (! (Pose.Support.url_params().in_inbox === "true")) {
@@ -40,6 +65,7 @@
           frictionlessRequests : true,
         });
         $(window).trigger('fb_loaded');
+        Pose.trigger('fb_loaded')
       };
       (function(d){
         var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
@@ -52,144 +78,94 @@
 </script>
 
 
-<!--[if lt IE 9]>
-<style type='text/css'>
-.tout a.bullet{padding-top:0;height:20px;}  
-</style>
-<script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
-<![endif]-->
-<script id="notification-tmpl" type="text/x-jquery-tmpl">
-<li class='notification' data-id='${comment.id}' data-read='${comment.read}' data-rel='${Pose.Notifications.link_rel(comment.message_type)}' data-url='${comment.link_to}'>
-<a class='notification-target-link' href='${comment.link_to}'>
-<img class='avatar' src='${comment.sender.image_url}'>
-</a>
-<div class='${comment.message_type} message'>
-{{if comment.sender.username === 'pose'}}
-${comment.sender.username}
-{{else}}
-<a href='${comment.sender.url}'>${comment.sender.username}</a>
-{{/if}}
-{{if comment.message_type == 'love'}}
-<img class='heart' src='/assets/heart-mini-2-1fa933a23448027406c698cb252c7eb2.png'>
-{{/if}}
-${comment.message}
-{{if comment.message_type == 'promo'}}
-<img class='arrow-promo' src='/assets/arrow-promo-54fc7a133c1b2fee30b371503f24c0e6.png'>
-{{/if}}
-</div>
-<div class='clear'></div>
-</li>
-</script>
-
-<script id="follow-widget-tmpl" type="text/x-jquery-tmpl">
-{{if is_followed}}
-<a class='follow followed plus-icon' href='#'>Following</a>
-{{else}}
-<a class='follow unfollowed plus-icon' href='#'>Follow</a>
-{{/if}}
-</script>
-
-
-
-<meta content="authenticity_token" name="csrf-param">
-<meta content="Gb+B0HeCBdIFakWQE20rpkDC/iDWmG7QLNRSB7f9vNM=" name="csrf-token">
-
-
-
-<div id="container-wrapper">
-<header class="navbar navbar-fixed-top">
-
-<h2 class="hide">Main Navigation</h2>
+<header class="navbar navbar-fixed-top" id="header">
 <div class="navbar-inner">
-<nav class="container">
-<div data-require-authenticated="">
-<a class="logo" href="/feed"></a>
-<ul class="nav main-tabs">
-<li class="nav-feed">
-<a href="/feed">Feed</a>
+<div class="content">
+<a class="brand" href="/" id="logo"></a>
+<p class="navbar-text nav-download pull-left hide" data-only="unauthenticated">
+<a class="plain" href="/d">Download Pose for</a>
+<a class="download" href="/d">
+<span class="mobile-icon ios-icon"></span>
+</a>
+<span class="or">or</span>
+<a class="download" href="/d">
+<span class="mobile-icon android-icon"></span>
+</a>
+</p>
+<ul class="nav pull-right only-desktop hide" data-only="unauthenticated">
+<li class="nav-join">
+<a class="cursive" data-action="signup" href="#">join now!</a>
 </li>
-<li class="nav-discover">
-<a href="/discover">Discover</a>
+<li class="nav-signup">
+<a data-action="signup" href="#">Sign Up</a>
 </li>
-<li class="nav-new-pose">
-<a href="/web/items/new"></a>
-</li>
-<li class="nav-inbox">
-<a href="#">Inbox</a>
-<div class="new-message-count" style="display:none;"></div>
+<li class="nav-login">
+<a data-action="login" href="#">Log In</a>
 </li>
 </ul>
-<ul class="nav secondary-nav pull-right logged-in">
-<li class="dropdown" data-dropdown="dropdown">
+<ul class="nav nav-divided pull-left hide" data-only="authenticated">
+<li>
+<a data-action="upload" href="#">Upload</a>
+</li>
+<li>
+<a data-action="collections" href="#">Collections</a>
+</li>
+</ul>
+<ul class="nav pull-center hide" data-only="authenticated"></ul>
+<ul class="nav pull-right hide" data-only="authenticated">
+<li class="nav-inbox dropdown" data-dropdown="dropdown">
+<a class="dropdown-toggle" data-action="inbox" data-toggle="dropdown" href="#">
+<span class="badge new-message-count"></span>
+</a>
+<div class="dropdown-menu">
+<div id="notifications"></div>
+</div>
+</li>
+<li class="nav-account dropdown" data-dropdown="dropdown">
 <a class="dropdown-toggle" data-toggle="dropdown" href="#">
-<img class="top-avatar" data-user-avatar="" height="32" src="/assets/defaultAvatar-9753bf2ccb3c01792f3ffb4f4667da50.jpg" width="32">
-<span class="name" data-user-username="">You</span>
+<img alt="" class="my avatar" data-user="avatar" height="24" src="https://d2s11kre1yh5b6.cloudfront.net/assets/defaultAvatar-bb3ffafd8a157cd63d1bb6efe4444177.jpg" width="24">
+<span class="username" data-user="username"></span>
 <b class="caret"></b>
 </a>
 <ul class="dropdown-menu">
 <li>
-<a href="/web/users/me">My Profile</a>
+<a href="/web/users/me">Profile</a>
 </li>
 <li>
 <a href="/users/me/edit/profile">Settings</a>
 </li>
-<li class="divider">
-</li><li>
+<li>
+<a href="/help" target="_blank">Help</a>
+</li>
+<li class="divider">/</li>
+<li>
+<a href="/d">Download Pose</a>
+<a href="/contact">Contact Us</a>
+<a href="/privacy">Privacy Policy</a>
+<a href="/terms">Terms of Service</a>
+</li>
+<li class="divider">/</li>
+<li>
 <a href="/users/sign_out">Logout</a>
 </li>
 </ul>
 </li>
 </ul>
 </div>
-<div data-require-unauthenticated="">
-<a class="logo" href="/"></a>
-<ul class="nav main-tabs secondary-nav pull-right">
-<li class="nav-signup">
-<a data-target="#signup-modal" data-toggle="modal" href="/users/sign_up">Sign&nbsp;Up</a>
-</li>
-<li class="nav-login">
-<a data-target="#login-modal" data-toggle="modal" href="/users/sign_in">Log&nbsp;In</a>
-</li>
-</ul>
-</div>
-</nav>
-
-</div>
-<div class="pink-header-banner hide">
-<div class="banner">
-<div class="outline">
-<a data-target="#signup-modal" data-toggle="modal" href="/d">
-<img alt="Unauthed-banner-transparent-new-button" src="/assets/unauthed-banner-transparent-new-button-3ac9c3c964f0b94f50a86e2eb4f0ca6a.png">
-</a>
-</div>
-</div>
 </div>
 </header>
 
-<div class="container-chrome">
-<aside class="sidebar">
-<section>
-<div class="back">
-<a href="javascript:history.back()">← Back</a>
-</div>
-<h4>Meet Pose</h4>
-<p class="subhead">get to know us</p>
-</section>
-<ul class="tabs"><li><a href="/d">Download Pose</a></li>
-<li>
-<a href="/blog" rel="external">Blog</a>
-</li>
-<li><a href="/press">Press</a></li>
-<li class="active"><span>Privacy</span></li>
-<li><a href="/terms">Terms of Service</a></li>
-<li><a href="/contact">Contact</a></li>
+<section id="drawer"></section>
+
+<div class="" id="content">
+<ul class="nav submenu"><li><a href="/d"><span>Download Pose</span></a></li>
+<li><a href="/contact"><span>Contact Us</span></a></li>
+<li><a href="/press"><span>Press</span></a></li>
+<li class="active"><a href="/privacy"><span>Privacy Policy</span></a></li>
+<li><a href="/terms"><span>Terms of Service</span></a></li>
 </ul>
-</aside>
 
-
-<div class="container-fluid">
-<section class="content">
-<section class="content-static">
+<section>
 <div class="tab-pane" id="privacy">
 <h2>Privacy Policy</h2>
 <div class="border">
@@ -289,315 +265,33 @@ change.
 </div>
 </section>
 
-</section>
 </div>
-</div>
-</div>
-<footer class="navbar navbar-fixed-bottom">
+<footer class="navbar navbar-fixed-bottom" data-only="unauthenticated" id="footer">
 <div class="navbar-inner">
-<nav class="container">
+<div class="content">
 <ul class="nav">
 <li>
-<a href="/d">Download Pose</a>
+<a href="/d">Download</a>
 </li>
-<li class="divider">/</li>
 <li>
 <a href="/help" rel="external">Help</a>
 </li>
-<li class="divider">/</li>
-<li>
-<a href="/blog" rel="external">Blog</a>
-</li>
-<li class="divider">/</li>
 <li>
 <a href="/contact">Contact</a>
 </li>
-<li class="divider">/</li>
 <li>
 <a href="/press">Press</a>
 </li>
-<li class="divider">/</li>
 <li>
 <a href="/privacy">Privacy Policy</a>
 </li>
-<li class="divider">/</li>
 <li>
 <a href="/terms">Terms of Service</a>
 </li>
 </ul>
-<ul class="nav secondary-nav pull-right">
-<li>
-<div id="spinner"></div>
-</li>
-</ul>
-</nav>
+</div>
 </div>
 </footer>
-
-<script src="//assets.pinterest.com/js/pinit.js" type="text/javascript"></script>
-<script>
-  //<![CDATA[
-    $(document).ready(function () {
-    
-      $('#login-modal').bind('show', function () {
-        $('#supersignup').show();
-      });
-    
-    
-      $('.show-users').click(function (event) {
-        event.preventDefault();
-        $('.well.main').hide();
-        $('.well.users').fadeIn();
-      });
-      $('.show-sessions').click(function (event) {
-        event.preventDefault();
-        $('.well.main').hide();
-        $('.well.sessions').fadeIn();
-      });
-      $('.well.users .cancel').click(function (event) {
-        event.preventDefault();
-        $('.well.users').hide();
-        $('.well.main').fadeIn();
-      });
-      $('.well.sessions .cancel').click(function (event) {
-        event.preventDefault();
-        $('.well.sessions').hide();
-        $('.well.main').fadeIn();
-      });
-    });
-  //]]>
-</script>
-<div class="modal hide fade" id="login-modal">
-<div class="modal-header">
-<a class="close" data-dismiss="modal" href="#">×</a>
-<h3>Log In to Pose</h3>
-</div>
-<div class="modal-body">
-<div class="well">
-<a class="pose_fb_button pose_fb_button_medium" href="/users/auth/facebook" id="fb">
-<span class="pose_fb_button_text">
-Login with Facebook
-</span>
-</a>
-</div>
-<div class="well">
-<form accept-charset="UTF-8" action="https://secure.pose.com/users/sign_in" class="form-horizontal" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Gb+B0HeCBdIFakWQE20rpkDC/iDWmG7QLNRSB7f9vNM="></div>
-<fieldset>
-<div class="control-group">
-<label class="control-label" for="user_email">Email</label>
-<div class="controls">
-<input id="user_email" name="user[email]" placeholder="or username" size="30" type="text" value="">
-
-</div>
-</div>
-<div class="control-group">
-<label class="control-label" for="user_password">Password</label>
-<div class="controls">
-<input id="user_password" name="user[password]" size="30" type="password">
-</div>
-</div>
-<div class="form-actions">
-<input class="btn btn-primary" name="commit" type="submit" value="Log In">
-<a href="/users/password/new">Forgot Your Password?</a>
-</div>
-</fieldset>
-</form>
-<div class="clear"></div>
-
-</div>
-</div>
-<div class="modal-footer"></div>
-</div>
-
-<script>
-  //<![CDATA[
-    $(document).ready(function () {
-      
-      $('#signup-modal').bind('show', function () {
-        $('#supersignup').show();
-        $('#login').hide();     
-        $('#signup').hide();
-      });
-    
-      $('.show-signup').click(function (event) {
-        event.preventDefault();
-        $('#supersignup').hide();
-        $('#login').hide();     
-        $('#signup').fadeIn();
-        // $('#signup-modal').modal('show');       
-      });
-    
-      $('.show-login').click(function (event) {
-        event.preventDefault();
-        $('#supersignup').hide();
-        $('#signup').hide();    
-        $('#login').fadeIn();
-      });
-    
-      $('.cancel').click(function (event) {
-        event.preventDefault();
-        $('#signup').hide();
-        $('#login').hide();    
-        $('#supersignup').fadeIn();
-      });
-      
-      $("#signup-modal").bind('show', function() {
-        $facepile = $('iframe.facepile');
-        $facepile.attr('src', $facepile.attr('data-src'));
-        $like = $('iframe.fblike');
-        $like.attr('src', $like.attr('data-src'));
-      });
-    });
-  //]]>
-</script>
-<div class="modal hide fade" id="signup-modal">
-<div class="hide" id="supersignup">
-<div class="modal-header">
-<a class="close" data-dismiss="modal" href="#">×</a>
-<h3>Sign Up</h3>
-</div>
-<div class="modal-body">
-<div class="well main">
-<a class="pose_fb_button pose_fb_button_medium" href="/users/auth/facebook" id="fb">
-<span class="pose_fb_button_text">
-Login with Facebook
-</span>
-</a>
-<iframe class="facepile" data-src="//www.facebook.com/plugins/facepile.php?size=large&amp;app_id=164118886949520" frameborder="0" scrolling="no" style="border:none;overflow:hidden;width:320px;height:100px;"></iframe>
-<p class="access-links">
-<a class="show-signup" href="/users/sign_up">Sign Up with Email</a>
-<br>
-Existing users
-<a class="show-login" href="/users/sign_in">Log In</a>
-</p>
-<div class="clear"></div>
-</div>
-</div>
-<div class="modal-footer">
-<p>Get Pose for your smartphone</p>
-<ul id="download-links">
-<li>
-<a class="d-iphone glow" href="/d?target=ios">
-<img src="/assets/d-iphone-4e161bf3f933606222006e285b844c42.png">
-</a>
-</li>
-<li>
-<a class="d-android glow" href="/d?target=android">
-<img src="/assets/d-android-de79bdd384384957fafc25365d7223be.png">
-</a>
-</li>
-</ul>
-</div>
-</div>
-<div class="hide" id="signup">
-<div class="modal-header">
-<a class="close" data-dismiss="modal" href="#">×</a>
-<h3>Sign Up With Email</h3>
-</div>
-<div class="modal-body">
-<div class="well">
-<form accept-charset="UTF-8" action="https://secure.pose.com/users" class="form-horizontal" enctype="multipart/form-data" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Gb+B0HeCBdIFakWQE20rpkDC/iDWmG7QLNRSB7f9vNM="></div>
-<fieldset>
-<div class="control-group">
-<label class="control-label" for="user_email">Email</label>
-<div class="controls">
-<input id="user_email" name="user[email]" size="30" type="text" value="">
-
-</div>
-</div>
-<div class="control-group">
-<label class="control-label" for="user_username">Username</label>
-<div class="controls">
-<div class="input-prepend">
-<span class="add-on">pose.com/u/</span>
-<input class="input-small" id="user_username" name="user[username]" size="30" type="text">
-
-</div>
-</div>
-<input id="user_signup_source" name="user[signup_source]" type="hidden" value="web">
-</div>
-<div class="control-group">
-<label class="control-label" for="user_password">Password</label>
-<div class="controls">
-<input id="user_password" name="user[password]" placeholder="at least 6 numbers or letters" size="30" type="password">
-
-</div>
-</div>
-<div class="control-group">
-<label class="control-label" for="user_tagline">Tagline</label>
-<div class="controls">
-<input id="user_tagline" name="user[tagline]" placeholder="at most 50 characters" size="30" type="text">
-
-</div>
-</div>
-<div class="control-group">
-<label class="control-label" for="user_avatar">Avatar</label>
-<div class="controls">
-<input id="user_avatar" name="user[avatar]" type="file">
-
-</div>
-</div>
-<div class="facebook-center">
-<iframe allowtransparency="true" class="fblike" data-src="//www.facebook.com/plugins/like.php?href=http://www.facebook.com/Pose&amp;layout=standard&amp;show_faces=false&amp;width=290&amp;action=like&amp;colorscheme=light&amp;height=35" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:290px; height:35px;"></iframe>
-</div>
-<div class="form-actions">
-<p class="terms-center">
-By clicking 'Sign Up' you agree to our
-<a href="/terms" rel="external">Terms of Service</a>
-</p>
-<input class="btn btn-primary" name="commit" type="submit" value="Sign Up">
-</div>
-<div class="clear"></div>
-</fieldset>
-</form>
-
-<div class="clear"></div>
-</div>
-</div>
-<div class="modal-footer"></div>
-</div>
-<div class="hide" id="login">
-<div class="modal-header">
-<a class="close" data-dismiss="modal" href="#">×</a>
-<h3>Log In to Pose</h3>
-</div>
-<div class="modal-body">
-<div class="well">
-<form accept-charset="UTF-8" action="https://secure.pose.com/users/sign_in" class="form-horizontal" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Gb+B0HeCBdIFakWQE20rpkDC/iDWmG7QLNRSB7f9vNM="></div>
-<fieldset>
-<div class="control-group">
-<label class="control-label" for="user_email">Email</label>
-<div class="controls">
-<input id="user_email" name="user[email]" placeholder="or username" size="30" type="text" value="">
-
-</div>
-</div>
-<div class="control-group">
-<label class="control-label" for="user_password">Password</label>
-<div class="controls">
-<input id="user_password" name="user[password]" size="30" type="password">
-</div>
-</div>
-<div class="form-actions">
-<input class="btn btn-primary" name="commit" type="submit" value="Log In">
-<a href="/users/password/new">Forgot Your Password?</a>
-</div>
-</fieldset>
-</form>
-<div class="clear"></div>
-
-<div class="clear"></div>
-</div>
-</div>
-<div class="modal-footer"></div>
-</div>
-</div>
-
-
-<div class="modal hide fade" id="carousel-modal">
-<div class="fb-root"></div>
-<div class="carousel-content"></div>
-</div>
 
 <script>
   //<![CDATA[
@@ -613,44 +307,14 @@ By clicking 'Sign Up' you agree to our
 </script>
 
 
-<div class="modal hide" id="fb-album-permission">
-<div class="modal-header">
-<a class="close" data-dismiss="modal" href="#">x</a>
-</div>
-<div class="modal-content">
-<h2>Now you can pose using your Facebook Photos!</h2>
-<div class="button">
-<a class="pose_fb_button pose_fb_button_medium" id="fb-login-btn">
-<span class="pose_fb_button_text">
-Login with Facebook
-</span>
-</a>
-</div>
-<p>
-Or you can
-<a href="/d">download</a>
-our app to Pose from your smartphone!
-</p>
-</div>
-</div>
+<script>
+  //<![CDATA[
+    Pose.kontagent = new Pose.Kontagent({keys: {"global":"2104c76e20554938b7d2eb7912539f0f","users":"09a2ef06e9a4417a8ff8dbbff4202c2f"}, cookie_domain: ".pose.com"});
+  //]]>
+</script>
 
-<div class="inbox popover below" id="notifications" style="display:none;">
-<div class="arrow"></div>
-<div class="inner">
-<h3 class="title">Notifications</h3>
-<div class="content">
-<div class="master" data-spy="scroll">
-<ul class="results"></ul>
-<div class="spinner">
-<img src="/assets/spinner-dial-2d498bf0d14961badedeb7d3c0871141.gif">
-</div>
-<div class="empty-notifications hide">You have no new notifications.</div>
-</div>
-<iframe frameborder="0" height="270px" id="promo-notification-viewer" style="display: none" width="100%"></iframe>
-</div>
-</div>
-</div>
 
+<script src="//assets.pinterest.com/js/pinit.js" type="text/javascript"></script>
 
 
 </body></html>
