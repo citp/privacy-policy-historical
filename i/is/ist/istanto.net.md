@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the istanto.net privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508095404id_/http%3A//www.istanto.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istanto.net privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225031124id_/http%3A//www.istanto.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Business, Short Reviews, Computers and Internet, Tips and Trick, Make Money Online.
 
@@ -12,7 +12,7 @@ At www.istanto.net, the privacy of our visitors is of extreme importance to us. 
 
 **Log Files**
 
-Like many other Web sites, www.istanto.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, www.istanto.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track userâ€™s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 **Cookies and Web Beacons**
 
@@ -41,8 +41,6 @@ www.istanto.net has no access to or control over these cookies that are used by 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.istanto.net privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-#### Incoming search terms:
 
   * alamat dan telepon mandiri surabaya
 
