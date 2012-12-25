@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the glassdoor.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502094453id_/http%3A//www.glassdoor.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassdoor.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225031307id_/http%3A//www.glassdoor.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Glassdoor
 
 This Privacy Policy was last updated in January 2012.
 
-Glassdoor, Inc. (“ **Glassdoor** ”, “ **we** ”, or “ **us** ”) takes the privacy and protection of personal information very seriously. By visiting the Site, registering as a Member, or using the Services, you acknowledge and accept the practices and policies outlined in this privacy policy (“ **Privacy Policy** ”). Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms in the Glassdoor Terms of Use, which can be found at <http://www.glassdoor.com/about/terms.htm> and which incorporate this Privacy Policy by reference. This Privacy Policy describes Glassdoor's practices with respect to Personal Information that we collect when you use the Services. 
+Glassdoor, Inc. (“ **Glassdoor** ”, “ **we** ”, or “ **us** ”) takes the privacy and protection of personal information very seriously. By visiting the Site, registering as a Member, or using the Services, you acknowledge and accept the practices and policies outlined in this privacy policy (“ **Privacy Policy** ”). Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms in the Glassdoor Terms of Use, which can be found at [http://www.glassdoor.com/about/terms.htm](https://web.archive.org/about/terms.htm) and which incorporate this Privacy Policy by reference. This Privacy Policy describes Glassdoor's practices with respect to Personal Information that we collect when you use the Services. 
 
 “ **Personal Information** ” is information that is personally identifiable like names, addresses, e-mail addresses, or phone numbers, as well as other non-public information that is associated with the foregoing. We collect and use Personal Information as described in this Privacy Policy from the Users of our Services. 
 
@@ -12,7 +12,7 @@ BY USING THE SERVICES OR SUBMITTING PERSONAL INFORMATION THROUGH THE SERVICES, Y
 
 YOUR PERSONAL INFORMATION MAY BE PROCESSED IN THE COUNTRY WHERE IT WAS COLLECTED AS WELL AS OTHER COUNTRIES (INCLUDING THE UNITED STATES) WHERE LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY.
 
-## Information We Collect
+## **Information We Collect**
 
 We collect the following Personal Information that you submit to us voluntarily:
 
@@ -24,7 +24,7 @@ We collect the following Personal Information that you submit to us voluntarily:
 
 
 
-## Personal Information from Facebook
+## **Personal Information from Facebook**
 
 The following section sets forth the data collection and usage policies and practices that apply to when you use our Facebook Application or when you join or sign in (“ **Connect** ”) to Glassdoor using your Facebook Account (collectively all called “ **the App** ”). Unless specifically described in this section, the remainder of this Privacy Policy otherwise applies. 
 
@@ -87,15 +87,15 @@ If you want to delete or remove your Facebook Information permanently, you may s
 
 When you ask us to invite friends to use the App, we may (1) send your friend an email or message on your behalf using your name, or (2) post the invite to your friend's Facebook wall or timeline, by using Facebook feed, request, messaging or other available channel. The invitation may also contain information about other users your friend might know. 
 
-## Personal Information Collected Via Technology
+## **Personal Information Collected Via Technology**
 
 As you use the Services, certain information may also be collected passively, including your Internet protocol (IP) address and the browser that you use to visit the Site. Glassdoor also stores a small text file called a “ **Cookie** ” on your computer to store your login information (if any) and your personal preferences for the Services. Glassdoor may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them). While you will still be able to use the Services if you disable Cookies in your browser, certain parts of the Services may not function as effectively. After you register and enable Cookies, we may associate this information with Personal Information that we have collected from you. 
 
-## Personal Information from Other Sources
+## **Personal Information from Other Sources**
 
 We may receive Personal Information about you from outside the Site, such as telephone, fax, mail, or from third parties that provide services for us that are related to the Services. We may add this information to the information we have already collected from you via our Services.
 
-## Use of Information We Collect
+## **Use of Information We Collect**
 
 In general, information (including Personal Information) you submit to us, or to third parties that support us in collecting information, is used by us to provide you and other Users with the Services, respond to requests that you make, to improve our Services and to better tailor the features, performance and support of the Services. 
 
@@ -105,15 +105,15 @@ We may create anonymized information from Personal Information by excluding info
 
 If you choose to use our service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We store this information for the sole purpose of sending this one-time email and ensuring multiple invitations are not sent. Your friend may contact us at privacysupport@glassdoor.com or through [Contact Us](https://web.archive.org/about/contact_input.htm) to request that we remove this information from our database. 
 
-## Public Postings
+## **Public Postings**
 
 One of the purposes of the Services is for Members to share employment-related information with other Users. Therefore, you should assume that any information (including any Personal Information you may choose to provide, but excluding your registration information) that you post will be made available to other Users of the Services. We may provide you the ability to anonymously post certain comments, in which case we will not include your contact information (i.e., name, email address, or postal address) on the Site in connection with such comments. However, you should know that our internal records may associate your contact information with such comments.
 
-## Feedback
+## **Feedback**
 
 If you provide feedback about the Services to us, we may use and disclose such feedback for any purpose, provided we do not associate such feedback with your Personal Information. We will collect any information contained in such feedback and will treat the Personal Information in it in accordance with this Privacy Policy.
 
-## Disclosure of Personal Information
+## **Disclosure of Personal Information**
 
 Except as otherwise stated in this Privacy Policy, we do not disclose to or share your Personal Information with third parties, unless you ask or authorize us to do so.
 
@@ -125,7 +125,7 @@ In the event Glassdoor goes through a business transition such as a merger, acqu
 
 We may (and you authorize us to) disclose information we have collected from and about you (including Personal Information) if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; (b) to enforce our Glassdoor Terms of Use and Privacy Policy; or (c) to protect and defend the rights or property of us, the users of our Services, or third parties.
 
-## Choices Regarding Personal Information
+## **Choices Regarding Personal Information**
 
 You may change your Personal Information (i.e., email address) by logging into the service and editing your account information from within My Account. 
 
@@ -141,19 +141,19 @@ You may request that your Account be terminated and that your Personal Informati
 
 When we delete Personal Information that we have collected from or about you, it will be deleted from our active databases but may remain in our archives. 
 
-## Links to Other Web Sites
+## **Links to Other Web Sites**
 
 The Services may contain links to other web sites that are not owned or controlled by Glassdoor. The provision of such links is for your convenience and does not signify our endorsement of such web sites or location or its contents. We have no control over, do not review and are not responsible for the privacy policies of or content displayed on such other web sites. Please be aware that the terms of our Privacy Policy do not apply to any outside web sites.
 
-## Ad Servers
+## **Ad Servers**
 
 We may allow advertisers to place advertisements on the Site. Clicking on such advertisements will direct you to the website of a third party. The third-party ad server may use Cookies or web beacons in connection with these advertisements. This Privacy Policy does not cover the collection of information by these third-party ad servers through the use of Cookies, web beacons, or other means. For information about our advertising partners, please visit their websites through the links included in the presentation of the advertisements.
 
-## Privacy of Minors
+## **Privacy of Minors**
 
 We do not intentionally collect or maintain information in the Services from those visitors and Users of the Services who are under 13 years old.
 
-## Security Safeguards
+## **Security Safeguards**
 
 ### Security
 
@@ -163,13 +163,13 @@ Glassdoor has put in place commercially reasonable and appropriate physical, ele
 
 We do not intentionally collect or maintain information in the Services from those visitors and Users of the Services who are under 13 years old. 
 
-## Changes to this Statement
+## **Changes to this Statement**
 
 If we decide to change our Privacy Policy, we will post those changes to this statement and any other places we deem appropriate and will update the effective date of those changes at the top of this policy Statement, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
 We reserve the right to modify this statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
 
-## Contact Us
+## **Contact Us**
 
 If you have any questions or suggestions regarding our Privacy Policy please contact us by sending us an e-mail to privacysupport@glassdoor.com or through [Contact Us](https://web.archive.org/about/contact_input.htm). 
 
