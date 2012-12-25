@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobseekersadvice.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620172052id_/http%3A//www.jobseekersadvice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobseekersadvice.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225141858id_/http%3A//jobseekersadvice.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: JobseekersAdvice.com
+# Privacy Policy | JobseekersAdvice.com
 
 We do not collect much information at Jobseekers Advice and the one rule we follow that set’s us apart from other sites is: We will never pass your information onto anyone else. **Period.**
 
