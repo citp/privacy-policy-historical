@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the laserspineinstitute.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614191844id_/http%3A//www.laserspineinstitute.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laserspineinstitute.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225181039id_/http%3A//www.laserspineinstitute.com/privacy_policy) for the most accurate reproduction.*
 
 # Laser Spine Institute Privacy policy
-
-1- 
-
-  * [Contact Laser Spine Institute](https://web.archive.org/contact "Contact Laser Spine Institute")
-  * [Request MRI Review](https://web.archive.org/learn_more/mrireview "Request a Free MRI Review")
-  * [Spine Seminars](https://web.archive.org/learn_more/back_seminars "Medical Seminars")
-
-
 
 ### Notice of Privacy Policy
 
@@ -56,7 +48,7 @@ We may use and disclose protected health information to remind you about appoint
 
 **_Business Associates_**
 
-There are some services provided in our organization through contracts with business associates. Examples include Radiography services, laboratory tests, billing clearinghouses, attorney/legal services. When these services are contracted, we may disclose your health information so that they can perform the job we've asked them to do and bill you or your third-party payer for services rendered. We require the business associate to appropriately safeguard your information.
+There are some services provided in our organization through contracts with business associates. Examples include radiography services, laboratory tests, billing clearinghouses, attorney/legal services. When these services are contracted, we may disclose your health information so that they can perform the job we've asked them to do and bill you or your third-party payer for services rendered. We require the business associate to appropriately safeguard your information.
 
 **_Lawsuits and Disputes_**
 
@@ -78,9 +70,9 @@ We may disclose your health information to (a) a public health authority that is
 
 We may disclose information to researchers when their research has been approved by an Institutional Review Board that has reviewed the research proposal and established protocols to ensure the privacy of your health information.
 
-**_Worker's Compensation_**
+**_Workers' Compensation_**
 
-We will use and disclose your protected health information for worker's compensation or similar programs that provide benefits for work-related injuries or illness.
+We will use and disclose your protected health information for workers' compensation or similar programs that provide benefits for work-related injuries or illness.
 
 ## Uses and disclosures that require LSI give you the opportunity to object or "opt out"
 
@@ -124,7 +116,7 @@ As stated later in this notice, under HITECH, if a patient pays in full for thei
 
 You have the right to inspect and copy the protected health information that we maintain about you in our designated record set for as long as we maintain that information. This designated record set includes your medical and billing records, as well as any other records we use for making decisions about you. We may charge you a fee for the costs of copying, mailing, or other supplies used in fulfilling your request. 
 
-If you wish to inspect or copy your medical information, you must submit your request in writing to our Director of HIM: Laser Spine Institute, Attention: Mary Mayer, Director of HIM, 3001 N. Rocky Point Drive E., Suite 300, Tampa, FL 33607. You may mail your request, or bring it to the Health Information Management office. We will have 30 days to respond to your request for information that we maintain at our facility. If the information is stored off-site, we are allowed up to 60 days to respond but must inform you of this delay. 
+If you wish to inspect or copy your medical information, you must submit your request in writing to our Director of HIM: Laser Spine Institute, Attention: Mary Mayer, Director of HIM, 3001 N. Rocky Point Dr. E., Suite 300, Tampa, FL 33607. You may mail your request, or bring it to the Health Information Management office. We will have 30 days to respond to your request for information that we maintain at our facility. If the information is stored off-site, we are allowed up to 60 days to respond but must inform you of this delay. 
 
 As stated later, HITECH expands this right, giving individuals the right to access their own e-health record in an electronic format and to direct LSI to send the e-health record directly to a third party. LSI may only charge for labor costs under electronic transfers of e-health records. 
 
@@ -142,7 +134,7 @@ You have the right to request how we communicate with you to preserve your priva
 
 If you believe we have violated your medical information privacy rights, you have the right to file a complaint with our facility or directly to the Secretary of the United States Department of Health and Human Services: U.S. Department of Health & Human Services | 200 Independence Avenue, S.W. | Washington, D.C. 20201. Phone: (202) 619-0257 Toll Free: (877) 696-6775. 
 
-To file a complaint with our facility, you must make it in writing. Provide as much detail as you can about the suspected violation and send it to Laser Spine Institute, c/o Todd Hapiuk, Privacy Officer, at 3001 N. Rocky Point Drive E., Suite 300, Tampa, FL 33607 You will not be retaliated against for filing a complaint. 
+To file a complaint with our facility, you must make it in writing. Provide as much detail as you can about the suspected violation and send it to Laser Spine Institute, c/o Todd Hapiuk, Privacy Officer, at 3031 N. Rocky Point Dr. W., Suite 300, Tampa, FL 33607 You will not be retaliated against for filing a complaint. 
 
 **_A Paper Copy of This Notice_**
 
@@ -156,9 +148,13 @@ LSI is including HITECH Act provisions to its Notice as follows:
 
 Under HITECH, LSI is required to notify patients whose PHI has been breached. Notification must occur by first class mail within 60 days of the event. A breach occurs when an unauthorized use or disclosure that compromises the privacy or security of PHI poses a significant risk for financial, reputational, or other harm to the individual.   
 This notice must:  
-(1) Contain a brief description of what happened, including the date of the breach and the date of discovery;   
-(2) The steps the individual should take to protect themselves from potential harm resulting from the breach;   
-(3) A brief description of what LSI is doing to investigate the breach, mitigate losses, and to protect against further breaches. 
+
+
+  1. Contain a brief description of what happened, including the date of the breach and the date of discovery;
+  2. The steps the individual should take to protect themselves from potential harm resulting from the breach;
+  3. A brief description of what LSI is doing to investigate the breach, mitigate losses, and to protect against further breaches.
+
+
 
 **_Business Associates_**
 
