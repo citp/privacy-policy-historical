@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtruck.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621180343id_/http%3A//www.realtruck.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtruck.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225075113id_/http%3A//www.realtruck.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # RealTruck's Privacy Policy | RealTruck.Com
 
@@ -16,7 +16,7 @@ Five main ways RealTruck uses your information:
     * Retain your personal information allowing for easier log in access
     * Retain your truck and other vehicle information for your and our records
     * Provide you with relevant products and information
-    * Email you timely sales and discounts related to your vehicle(s)
+    * Inform you of product information, news, and promotions relevant to your interests
 
  **Ways we collect your information:**  
 At Registration and during the ordering process. Before checking out and even while placing some items in your shopping cart, RealTruck will require you to enter vehicle information as well as an online registration form. During registration, you will be asked to give us your personal information including your name, shipping and billing address, phone number, payment information (credit card number) and email address.
@@ -27,9 +27,13 @@ If you are using the Bill Me Later® method of payment, the last four (4) digits
 
 A few locations on RealTruck.com permit you to enter your email address for marketing and communication purposes.  These are either to register for a contest or sweepstakes or to sign up for email newsletters and special offers.  Participation in a contest or sweepstakes is completely voluntary.  RealTruck will use information to notify contest and sweepstakes winners and to award prizes. We may and will post on our website the names, photos, videos, cities and states of contest and sweepstakes winners when applicable.  By entering a contest or sweepstakes, you may be opting in to receive our email newsletter and special offers and this will be disclosed in the official rules governing the contest or sweepstakes.  Contest and sweepstake rules are regulations are outlined per event.
 
-If you voluntarily subscribe to our [Email Newsletter](https://web.archive.org/web/20120621180343id_/http%3A//htmls/news_letter_signup.php) you will receive weekly emails from us about new products, specials, tips and other promotions. If you have an email spam filter please add [newsletter@realtruck.com](mailto:newsletter@realtruck.com) to your safe senders list. If you are currently subscribed to our email newsletter list and would like to be removed, simply click here to [Unsubscribe](https://web.archive.org/web/20120621180343id_/http%3A//htmls/unsubscribe.php).
+RealTruck.com may contact you via email for transactional purposes if you have previously shared that contact information with us on our site, such as when subscribing to our email database, creating an account, or purchasing an item. These messages will be for transactional purposes only, such following up on an attempted purchase, and are in compliance with the CAN-SPAM Act.
 
-RealTruck.com employs cookies recognize your unique web presence and your access privileges, and track your usage.  RealTruck also uses other web tracking analytical web software such as Google Analytics to track general traffic patterns and preferences.
+If you voluntarily subscribe to our [Email Newsletter](https://web.archive.org/web/20121225075113id_/http%3A//htmls/news_letter_signup.php) you will receive weekly emails from us about new products, specials, tips and other promotions. If you have an email spam filter please add [newsletter@realtruck.com](mailto:newsletter@realtruck.com) to your safe senders list. If you are currently subscribed to our email newsletter list and would like to be removed, simply click here to [Unsubscribe](https://web.archive.org/web/20121225075113id_/http%3A//htmls/unsubscribe.php).
+
+RealTruck.com employs cookies which recognize your unique web presence and your access privileges, and track your usage.  RealTruck also uses other web tracking analytical web software such as Google Analytics to track general traffic patterns and preferences.
+
+Through the use of third-party advertising services RealTruck.com may utilize cookies and/or pixel tags to show you relevant marketing messages elsewhere online. These messages utilize anonymous data which may reflect your interaction behavior while on our website, including, but not limited to, products and offers viewed, in-ad browsing and searching, video content viewed, and other anonymous behavioral data. No personally identifiable information is collected or used in this process. To opt out, please [click here](http://www.aboutads.info/choices/ "Opt Out").
 
  **Your Privacy Protection:**
 
@@ -71,7 +75,7 @@ PO Box 2195
 Jamestown, ND 58402  
 Phone: 1-701-253-5906 Fax: 1-701-253-5908
 
-This Privacy Notice was last modified on March 16, 2012 RealTruck®
+This Privacy Notice was last modified on July 19, 2012 RealTruck®
 
 
 
