@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phoenixts.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621141531id_/http%3A//www.phoenixts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenixts.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225205816id_/http%3A//www.phoenixts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Phoenix TS
+# Privacy Policy | Phoenix TS
 
 Thank you for visiting us online at PhoenixTS.com. At Phoenix TS, we strive to do everything we can to respect the trust customers have in our brand and our commitment to your privacy is no exception. We are committed to protecting and safeguarding consumer privacy on the Internet.  This Privacy Statement applies to the Phoenix TS Web site and governs data collection and usage. By using the Phoenix TS Web site, you consent to the data practices described in this statement.  This Privacy Statement was last updated on January 20, 2012.  Thanks again for visiting our web site and for placing your trust in Phoenix TS.
 
@@ -50,13 +50,13 @@ Phoenix TS secures your personal information from unauthorized access, use or di
 
 ## Tuition Refund Policy
 
-If the Phoenix TS closes or discontinues a course or program, the Phoenix TS shall refund to each currently enrolled student monies paid by the student for tuition and fees and monies for which the student is liable for tuition and fees.
+If Phoenix TS closes or discontinues a course or program, Phoenix TS shall refund to each currently enrolled student the money they are entitled to for their tuition and fees.
 
 All fees paid by a student shall be refunded if the student chooses not to enroll in or to withdraw from a school within 10 calendar days after having signed a contract.
 
 ## Cancellations Policy
 
-If the student cancels his/her registration, there will be no charge if Phoenix TS is informed within 10 business days of start of the class. If Phoenix TS is informed less than 10 business days from the start of the training, student will be charged 100% of course fee.
+If the student cancels his/her registration, there will be no charge if Phoenix TS is informed within 10 business days of the start of the class. If Phoenix TS is informed less than 10 business days from the start of the training, students must still pay the full course fee.
 
 ## Links to Other Sites
 
