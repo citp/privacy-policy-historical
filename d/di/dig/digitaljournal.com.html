@@ -1,21 +1,26 @@
-<!--The following is the downloaded HTML source of the digitaljournal.com privacy policy that was archived on 2012-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120509214327id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the digitaljournal.com privacy policy that was archived on 2012-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225175139id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<meta property="og:type" content="article"><meta property="og:description" content="Digital Journal is a digital media news network with thousands of Digital Journalists in 200 countries around the world. Join us!"><meta property="og:title" content=""><meta property="og:image" content=""><meta property="og:link" content=""><meta property="fb:app_id" content="321580635153">
+<meta property="og:type" content="article"><meta property="og:description" content="Digital Journal is a digital media news network with thousands of Digital Journalists in 200 countries around the world. Join us!"><meta property="og:url" content="http://www.digitaljournal.com/privacy.php"><meta property="fb:app_id" content="321580635153">
 <meta name="keywords" content="digital journal,citizen journalism,citizen media,network journalism,crowd powered,news,user generated,revenue sharing,earn money,get paid,top news,latest news,breaking news,business,world,sports,tech,technology,lifestyle,internet,politics,religion,travel,environment,entertainment,crime,arts">
 <meta name="description" content="Digital Journal is a digital media news network with thousands of Digital Journalists in 200 countries around the world. Join us!">
 <style type="text/css">
-@import url(/yui-6.css);
-@import url(/commonmin-87.css);
+  @import url(/yui-6.css);
+  @import url(/commonmin-90.css);
 </style>
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
 <script type="text/javascript" src="/yui-10.js">
 </script>
-<script type="text/javascript" src="/djmin-152.js">
+<script src="http://yui.yahooapis.com/2.7.0/build/json/json-min.js"></script>
+<script type="text/javascript" src="/djmin-160.js">
 </script>
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+<script type="text/javascript">stLight.options({publisher: "49ce477b-918c-42e8-b104-b3fc334378aa", nativeCount: true});</script>
 <link href="http://fonts.googleapis.com/css?family=Ubuntu+Condensed" rel="stylesheet" type="text/css">
 <script type="text/javascript">
   var pubid="ca-pub-1077026815079259";
@@ -55,7 +60,7 @@ var ga_targeting = Array(0)
     (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
   }
 </script>
-<script type="text/javascript" async="" src="http://platform.twitter.com/widgets.js"></script></head>
+</head>
 <body id="djbody" class="yui-skin-sam" marginheight="0" marginwidth="0">
 <div id="loadextras">
 <iframe id="djajaxfrm" src="/images/djlogo_onblack.gif"></iframe>
@@ -94,13 +99,21 @@ var ga_targeting = Array(0)
 
 <div id="fb-root"></div>
 <script type="text/javascript">
-	var fb_init = function() {
-		djp.console('after FB source loaded, '+ typeof(FB));
-		var curLoc = window.location;
-		FB.init({appId:'321580635153', oauth:true, status:true, cookie:true, xfbml:true, channelUrl: curLoc.protocol+"//"+curLoc.hostname+"/fb_channel.html"});
-		djp.init_fb();
-			}
-	djp.load_js(document.location.protocol + '//connect.facebook.net/en_US/all.js', 'FB', '', fb_init, true);
+  (function(){
+    window.fbAsyncInit = function() {
+      djp.console('after FB source loaded, '+ typeof(FB));
+      djp.init_fb();
+          };
+
+    // Load the SDK Asynchronously
+    (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     ref.parentNode.insertBefore(js, ref);
+   })(document);
+})();
 </script>
 
 
@@ -131,16 +144,12 @@ var ga_targeting = Array(0)
 		</center>
 	</div>
 		<div>
-		<div style="margin:0 auto;padding:0 10px;width:980px;background:white;">
-			<div style="margin-top:23px" class="flright">
-			<a class="fancy-button" href="" onclick="try{ djp.user.show_login_form();} catch(err){ }return false;">Log In</a> <a href="/user/signup.php" class="fancy-button">Sign Up</a> &nbsp; <fb:login-button scope="email,user_birthday" class="hide_fb" onlogin="djp.set_cookie('auto_prefill_signup_form', 1);djp.gotourl('/user/signup.php');">Connect</fb:login-button>
+		<div style="margin:0 auto;width:1000px;background:white;">
+			<div style="margin-top:23px;" class="flright">
+	  <div style="height:22px;width:95px;overflow:hidden;margin-top:-3px;" class="flright">&nbsp; <fb:login-button scope="email,user_birthday" class="hide_fb" onlogin="djp.set_cookie('auto_prefill_signup_form', 1);djp.gotourl('/user/signup.php');">Connect</fb:login-button></div>
+  <a class="fancy-button" href="" onclick="try{ djp.user.show_login_form();} catch(err){ }return false;">Log In</a> <a href="/user/signup.php" class="fancy-button">Sign Up</a> 
 				</div>
-			<div style="margin-top:23px;padding-right:10px;" class="flright">
-				<a href="http://twitter.com/digitaljournal" data-width="65px" data-show-count="false" data-show-screen-name="false" class="twitter-follow-button"></a>
-			</div>
-			<div style="width:90px;overflow:hidden;margin-top:23px" class="flright">
-				<fb:like href="facebook.com/digitaljournal" layout="button_count" width="90"></fb:like>
-			</div>
+			<div style="width:90px;overflow:hidden;margin-top:23px" class="flright"><fb:like href="facebook.com/digitaljournal" layout="button_count" width="90"></fb:like></div>
 			<div class="flleft">
 				<a href="/"><img src="/images/djlogo-big.gif" border="0" height="38" style="margin:15px 0 8px 0"></a>
 			</div>
@@ -151,28 +160,28 @@ var ga_targeting = Array(0)
 		</div>
 	</div>
 
-      <div style="width:1000px;margin:0 auto;" class="invrs breaking">
+      <div class="invrs breaking">
     <table cellpadding="0" cellspacing="0" border="0"><tbody><tr>
-                                <td id="toppage-176605" style="padding:0;width:13%;"><a href="/article/324544"></a></td>
-        <td style="padding:20px;width:19%;">
-          <h3><a id="la-324544" href="/article/324544">Al-Qaeda 'underwear bomber' was CIA double agent</a>
+                                <td id="toppage-193706" style="padding:0;width:13%;"><a href="/article/339802"></a></td>
+        <td style="padding:15px;width:19%;">
+          <h3><a id="la-339802" href="/article/339802">Woman loses Wheel of Fortune prize due to accent</a>
 </h3>
         </td>
-                                        <td id="toppage-176593" style="padding:0;width:13%;"><a href="/article/324542"></a></td>
-        <td style="padding:20px;width:19%;">
-          <h3><a id="la-324542" href="/article/324542">Health watchdog warns 'obese' is derogatory term for overweight</a>
+                                        <td id="toppage-193717" style="padding:0;width:13%;"><a href="/article/339809"></a></td>
+        <td style="padding:15px;width:19%;">
+          <h3><a id="la-339809" href="/article/339809">Photo Essay: Police officers volunteer to be Santa's elves&nbsp;<span class="xtraeff" title="Includes interview and first-hand account">Special</span></a>
 </h3>
         </td>
-                                        <td id="toppage-176620" style="padding:0;width:13%;"><a href="/article/324561"></a></td>
-        <td style="padding:20px;width:19%;">
-          <h3><a id="la-324561" href="/article/324561">Fashion icon Vidal Sassoon found dead in Beverly Hills at 84</a>
+                                        <td id="toppage-193702" style="padding:0;width:13%;"><a href="/article/339797"></a></td>
+        <td style="padding:15px;width:19%;">
+          <h3><a id="la-339797" href="/article/339797">Coldest night in Moscow and hundreds are evacuated from Siberia</a>
 </h3>
         </td>
                     </tr></tbody></table>
   </div>
-  <div id="bna" class="invis">324544,324542,324561</div>
+  <div id="bna" class="invis">339802,339809,339797</div>
   <script type="text/javascript">
-    djp.load_alb_imgs("toppage-176605 toppage-176593 toppage-176620");
+    djp.load_alb_imgs("toppage-193706 toppage-193717 toppage-193702");
   </script>
   
 	<div id="headernav">
@@ -190,13 +199,10 @@ var ga_targeting = Array(0)
           &nbsp;
           <img src="/images/group.gif?20120402" align="absmiddle" border="0">
           <a href="/w/groups">Groups</a>
-          &nbsp;
-          <img src="/images/image.gif?20120402" align="absmiddle" border="0">
-          <a href="/w/pics">Images</a>
         </div>
                 <div style="overflow:hidden;width:520px;height:20px;" class="flleft">
           <span class="redlbl">Trending</span>
-           &nbsp; &nbsp; <a class="tag" href="/topic/Russia" onmouseover="djp.user.tt(this,event,{ id:'844', t:'topic'});">Russia</a> &nbsp; &nbsp; <a class="tag" href="/topic/BBC" onmouseover="djp.user.tt(this,event,{ id:'7589', t:'topic'});">BBC</a> &nbsp; &nbsp; <a class="tag" href="/topic/dallas+cowboys+cheerleaders" onmouseover="djp.user.tt(this,event,{ id:'160680', t:'topic'});">dallas cowboys cheerleaders</a> &nbsp; &nbsp; <a class="tag" href="/topic/Killer+whales" onmouseover="djp.user.tt(this,event,{ id:'6206', t:'topic'});">Killer whales</a> &nbsp; &nbsp; <a class="tag" href="/topic/cello" onmouseover="djp.user.tt(this,event,{ id:'160724', t:'topic'});">cello</a> &nbsp; &nbsp; <a class="tag" href="/topic/super+cool+bra" onmouseover="djp.user.tt(this,event,{ id:'160779', t:'topic'});">super cool bra</a> &nbsp; &nbsp; <a class="tag" href="/topic/Craigslist" onmouseover="djp.user.tt(this,event,{ id:'5838', t:'topic'});">Craigslist</a> &nbsp; &nbsp; <a class="tag" href="/topic/Welsh+Coast+Path" onmouseover="djp.user.tt(this,event,{ id:'160758', t:'topic'});">Welsh Coast Path</a> &nbsp; &nbsp; <a class="tag" href="/topic/Taiwan" onmouseover="djp.user.tt(this,event,{ id:'3587', t:'topic'});">Taiwan</a> &nbsp; &nbsp; <a class="tag" href="/topic/thomas+mulcair" onmouseover="djp.user.tt(this,event,{ id:'110536', t:'topic'});">thomas mulcair</a>        </div>
+           &nbsp; &nbsp; <a class="tag" href="/topic/Christmas" onmouseover="djp.user.tt(this,event,{ id:'1345', t:'topic'});">Christmas</a> &nbsp; &nbsp; <a class="tag" href="/topic/Video+games" onmouseover="djp.user.tt(this,event,{ id:'1304', t:'topic'});">Video games</a> &nbsp; &nbsp; <a class="tag" href="/topic/akin" onmouseover="djp.user.tt(this,event,{ id:'178447', t:'topic'});">akin</a> &nbsp; &nbsp; <a class="tag" href="/topic/Amanda+Rowles" onmouseover="djp.user.tt(this,event,{ id:'197663', t:'topic'});">Amanda Rowles</a> &nbsp; &nbsp; <a class="tag" href="/topic/the+odd+couple" onmouseover="djp.user.tt(this,event,{ id:'197691', t:'topic'});">the odd couple</a> &nbsp; &nbsp; <a class="tag" href="/topic/wheel+of+fortune" onmouseover="djp.user.tt(this,event,{ id:'197714', t:'topic'});">wheel of fortune</a> &nbsp; &nbsp; <a class="tag" href="/topic/Protest" onmouseover="djp.user.tt(this,event,{ id:'3759', t:'topic'});">Protest</a> &nbsp; &nbsp; <a class="tag" href="/topic/Magazine" onmouseover="djp.user.tt(this,event,{ id:'3077', t:'topic'});">Magazine</a> &nbsp; &nbsp; <a class="tag" href="/topic/armed+guards" onmouseover="djp.user.tt(this,event,{ id:'197682', t:'topic'});">armed guards</a> &nbsp; &nbsp; <a class="tag" href="/topic/transit+bus" onmouseover="djp.user.tt(this,event,{ id:'197696', t:'topic'});">transit bus</a>        </div>
         <div style="clear:both"></div>
       </div>
       <div id="headernavcats">
@@ -301,7 +307,6 @@ This Privacy Policy is effective as of Oct. 1, 2006
 
 
 </td>
-<td width="10" rowspan="2" style="width:10px;"><img src="/images/tr.png" height="1" width="10" border="0"></td>
 <td width="310" rowspan="2" id="rightcol">
 
   <script type="text/javascript">
@@ -310,97 +315,97 @@ This Privacy Policy is effective as of Oct. 1, 2006
 
 
 <div style="padding-bottom:10px">
-<script type="text/javascript">
-djp.ga_fill("300x250-Big-Box-ATF");
-</script>
+  <script type="text/javascript">
+    djp.ga_fill("300x250-Big-Box-ATF");
+  </script>
 </div>
 
 <div style="padding-bottom:10px">
-	<script type="text/javascript">
-	djp.ga_fill("Exclusive-QW");
-	</script>
-	<div style="height:10px;"></div>
-	<script type="text/javascript">
-	djp.ga_fill("DJ-Apps-WebsiteAd");
-	</script>
+  <script type="text/javascript">
+    djp.ga_fill("Exclusive-QW");
+  </script>
+  <div style="height:10px;"></div>
+  <script type="text/javascript">
+    djp.ga_fill("DJ-Apps-WebsiteAd");
+  </script>
 </div>
 
 <div class="redbar">Top News</div>
 <table cellspacing="8" cellpadding="0" border="0" style="padding:10px 0" class="topnews-right">
 		<tbody><tr>
-		<td style="width:25%;" id="topnews-right-176558"><a href="http://www.digitaljournal.com/article/324505"></a></td>
+		<td style="width:25%;" id="topnews-right-193702"><a href="http://www.digitaljournal.com/article/339797"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-324505" href="/article/324505">'Pink slime' maker shuts down 3 plants, 650 jobs lost</a>
+				<a id="la-339797" href="/article/339797">Coldest night in Moscow and hundreds are evacuated from Siberia</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/324505"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/339797"></fb:like>
 		</td>
 	</tr>
 		<tr>
-		<td style="width:25%;" id="topnews-right-176605"><a href="http://www.digitaljournal.com/article/324544"></a></td>
+		<td style="width:25%;" id="topnews-right-193717"><a href="http://www.digitaljournal.com/article/339809"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-324544" href="/article/324544">Al-Qaeda 'underwear bomber' was CIA double agent</a>
+				<a id="la-339809" href="/article/339809">Photo Essay: Police officers volunteer to be Santa's elves&nbsp;<span class="xtraeff" title="Includes interview and first-hand account">Special</span></a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/324544"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/339809"></fb:like>
 		</td>
 	</tr>
 		<tr>
-		<td style="width:25%;" id="topnews-right-176583"><a href="http://www.digitaljournal.com/article/324533"></a></td>
+		<td style="width:25%;" id="topnews-right-193697"><a href="http://www.digitaljournal.com/article/339793"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-324533" href="/article/324533">Russia’s Sukhoi SuperJet-100 off radar — Crash or hijack? Updated</a>
+				<a id="la-339793" href="/article/339793">Sasha and Malia Obama attend school with 11 armed guards</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/324533"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/339793"></fb:like>
 		</td>
 	</tr>
 		<tr>
-		<td style="width:25%;" id="topnews-right-176593"><a href="http://www.digitaljournal.com/article/324542"></a></td>
+		<td style="width:25%;" id="topnews-right-193692"><a href="http://www.digitaljournal.com/article/339788"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-324542" href="/article/324542">Health watchdog warns 'obese' is derogatory term for overweight</a>
+				<a id="la-339788" href="/article/339788">Muslims &amp; Catholics work hand-in-hand for a local food drive</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/324542"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/339788"></fb:like>
 		</td>
 	</tr>
 		<tr>
-		<td style="width:25%;" id="topnews-right-176601"><a href="http://www.digitaljournal.com/article/324540"></a></td>
+		<td style="width:25%;" id="topnews-right-193701"><a href="http://www.digitaljournal.com/article/339798"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-324540" href="/article/324540">Japanese apparel company unveils new product, an 'ice bra'</a>
+				<a id="la-339798" href="/article/339798">Actor Jack Klugman has died</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/324540"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/339798"></fb:like>
 		</td>
 	</tr>
 		<tr>
-		<td style="width:25%;" id="topnews-right-176582"><a href="http://www.digitaljournal.com/article/324507"></a></td>
+		<td style="width:25%;" id="topnews-right-193688"><a href="http://www.digitaljournal.com/article/339785"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-324507" href="/article/324507">Grandmother, 55, auditions for Dallas Cowboys cheerleaders</a>
+				<a id="la-339785" href="/article/339785">Photo Essay: Celebrating  the reason for the season</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/324507"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/339785"></fb:like>
 		</td>
 	</tr>
 		<tr>
-		<td style="width:25%;" id="topnews-right-176620"><a href="http://www.digitaljournal.com/article/324561"></a></td>
+		<td style="width:25%;" id="topnews-right-193704"><a href="http://www.digitaljournal.com/article/339803"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-324561" href="/article/324561">Fashion icon Vidal Sassoon found dead in Beverly Hills at 84</a>
+				<a id="la-339803" href="/article/339803">Athens: Young Christmas carol singers robbed of money and mobiles</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/324561"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/339803"></fb:like>
 		</td>
 	</tr>
 		<tr>
-		<td style="width:25%;" id="topnews-right-176577"><a href="http://www.digitaljournal.com/article/324525"></a></td>
+		<td style="width:25%;" id="topnews-right-193693"><a href="http://www.digitaljournal.com/article/339790"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-324525" href="/article/324525">'Octomom' Nadya Suleman to release self-pleasure porn video</a>
+				<a id="la-339790" href="/article/339790">GOP Rep. Akin targets LGBT troops with provision to defense bill</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/324525"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/339790"></fb:like>
 		</td>
 	</tr>
 </tbody></table>
-<div id="topnews-right-imgs" class="invis">topnews-right-176558 topnews-right-176605 topnews-right-176583 topnews-right-176593 topnews-right-176601 topnews-right-176582 topnews-right-176620 topnews-right-176577 </div>
+<div id="topnews-right-imgs" class="invis">topnews-right-193702 topnews-right-193717 topnews-right-193697 topnews-right-193692 topnews-right-193701 topnews-right-193688 topnews-right-193704 topnews-right-193693 </div>
 <script type="text/javascript">
 <!--
 	djp.sched_load_alb_imgs(gebi('topnews-right-imgs').innerHTML);
@@ -443,6 +448,8 @@ djp.ga_fill("300x250-Big-Box-ATF");
 </div><div>
 <a href="/corporate/about_us.php">About Us</a>
 </div><div>
+<a href="/corporate/jobs.php">Jobs</a>
+</div><div>
 <a href="/announcements/">Media Center</a>
 </div><div>
 <a href="/advertise.php">Advertise</a>
@@ -472,12 +479,10 @@ djp.ga_fill("300x250-Big-Box-ATF");
 </td>
 	<td style="padding:0 20px;">
 		<div class="flright" style="padding-left:10px;padding-top:15px">
-			<a href="http://www.futureofmediaevents.com/" alt="Future of Media" target="_blank"><img src="/images/djfom.gif" border="0"></a>
+			<a href="http://www.digitaljournalmedia.com/" alt="Digital Journal Media" target="_blank"><img src="/images/digitaljournal-logo-square.gif" border="0"></a>
 		</div>
 <h4 style="padding-top:0;margin-top:0">News Links</h4>
 <div>
-<a href="/headlines/">News Headlines</a>
-</div><div>
 <a href="/alerts/">News Alerts</a>
 </div><div>
 <a href="/news/">Digital Journal News</a>
@@ -493,7 +498,7 @@ djp.ga_fill("300x250-Big-Box-ATF");
  </tbody></table>
 
 	<div style="padding-top:15px">
-		<div class="details" style="text-align: center">copyright © 1998-2012 <a href="http://www.digitaljournal.com/">digitaljournal.com</a> &nbsp; | &nbsp; powered by <a href="http://www.dell.ca/" target="_blank">dell servers</a></div>
+		<div class="details" style="text-align: center">copyright © 2012 <a href="http://www.digitaljournal.com/">digitaljournal.com</a> &nbsp; | &nbsp; powered by <a href="http://www.dell.ca/" target="_blank">dell servers</a></div>
 	</div>
 	</div>
 	</td>
@@ -506,127 +511,17 @@ djp.ga_fill("300x250-Big-Box-ATF");
 <div class="invis">
 	<img src="/images/loading.gif" border="0" width="30" height="30">
 </div>
-<div id="djstickyfoot" class="tac">
-	<a class="minimize" href="" onclick="return false;"><span class="hdn_txt">Show toolbar</span></a>
-	<div class="container">
-		<div class="tal content"> 
-			<div class="button-row" id="djstickyfoot-button-row">
-				<div class="rbutton gototop">
-					<img src="/images/tr.gif" border="0" height="24" width="1" align="absmiddle">
-					<a href="#" class="imp" onclick="scroll(0,0);return false;" style="color:black;">Go to top</a>
-				</div>
-								<a href="" canvas="footer_canvas_email" onclick="return false;" class="button">
-					<img src="/images/letter_24.gif" border="0" align="absmiddle">
-					Email this
-				</a>
-				<fb:like class="button" action="recommend" layout="button_count" href="http://www.digitaljournal.com/privacy.php"></fb:like>
-				<a href="" canvas="footer_canvas_fb" onclick="return false;" class="invis button">
-					<img src="/images/logo_facebook_24.gif" border="0" align="absmiddle">
-					Share on Facebook
-				</a>
-				<div class="button">
-					<g:plusone size="medium" href="http://www.digitaljournal.com/privacy.php" annotation="none"></g:plusone>
-				</div>
-				<div class="button" id="stickyfoot_twitter">
-<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.digitaljournal.com/privacy.php" data-count="horizontal" data-via="digitaljournal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-				</div>
-          
-    								<div class="button nowrap" id="footer_canvas_breakingnews" style="width:400px;overflow:hidden;" selected="1">
-										<div id="foot_breaking_news[0]" class="invis"><img src="/avatars/medium/873.png" border="0" align="absmiddle"> <a href="/article/324544">Al-Qaeda 'underwear bomber' was CIA double agent</a></div>
-										<div id="foot_breaking_news[1]" class=""><img src="/avatars/medium/873.png" border="0" align="absmiddle"> <a href="/article/324542">Health watchdog warns 'obese' is derogatory term for overweight</a></div>
-										<div id="foot_breaking_news[2]" class="invis"><img src="/avatars/medium/873.png" border="0" align="absmiddle"> <a href="/article/324561">Fashion icon Vidal Sassoon found dead in Beverly Hills at 84</a></div>
-										<div id="foot_breaking_news[3]" class="invis"><img src="/avatars/medium/873.png" border="0" align="absmiddle"> <a href="/article/324543">Authorities warn of rental property scams listed on Craigslist</a></div>
-										<div id="foot_breaking_news[4]" class="invis"><img src="/avatars/medium/873.png" border="0" align="absmiddle"> <a href="/article/324540">Japanese apparel company unveils new product, an 'ice bra'</a></div>
-									</div>
-    				<br clear="both">
-			</div>
-			<div class="invis canvas" id="footer_canvas_fb" stickyfoot_url="http://www.digitaljournal.com/privacy.php"></div>
-			<div class="invis canvas" id="footer_canvas_email" style="padding:10px;">
-<form id="email_this_form" method="post" action="/email.php" onsubmit="djp.ajax.formSubmit(this,{ argument:[{ onAfterSave:function(o){ var res=djp.StickyFoot.showcanvas();if (typeof(Recaptcha)!='undefined'){ Recaptcha.reload();} return res; }}]});return false;">
-					<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr valign="top">
-				<td>
-<table cellpadding="7" cellspacing="0" border="0" align="center">
-<tbody><tr valign="top">
-	<td class="tar nowrap imp">Recipient email:</td>
-	<td class="tal">
-		<div class="small">You can enter up to 10 comma-separated email addresses.</div>
-		<div class="p">
-			<input type="text" name="fd[to]" size="50">
-		</div>
-	</td>
-</tr>
-<tr>
-	<td class="tar"><div class="imp">Your email:</div><span class="nimp">optional</span></td>
-	<td class="tal"><input type="text" name="fd[from]" size="50"></td>
-</tr>
-<tr>
-	<td valign="top" class="tar"><div class="nowrap imp">Message:</div><span class="nimp">optional</span></td>
-	<td class="tal"><textarea name="fd[msg]" cols="50" rows="3"></textarea></td>
-</tr>
-<tr>
-	<td>&nbsp;</td>
-	<td>
-		<script type="text/javascript">
-var RecaptchaOptions = {
-	theme : 'white'
-};
-</script>
-<script type="text/javascript" src="http://www.google.com/recaptcha/api/challenge?k=6Legjb4SAAAAAAE86_oNzcHRatdFDToY1uQI4A53">
-</script>
-<noscript>
-	<iframe src="http://www.google.com/recaptcha/api/noscript?k=6Legjb4SAAAAAAE86_oNzcHRatdFDToY1uQI4A53" height="300" width="500" frameborder="0"></iframe><br>
-	<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
-	<input type="hidden" name="recaptcha_response_field" value="manual_challenge">
-</noscript>
-	</td>
-</tr>
-<tr>
-	<td></td>
-	<td class="tal" valign="top"><input type="submit" value="Send" class="imp"></td>
-</tr>
-</tbody></table>
-<input type="hidden" name="fd[article_id]" value="">
-<input type="hidden" name="fd[image_id]" value="">
-<input type="hidden" name="fd[blog_id]" value="">
-<input type="hidden" name="fd[url]" value="http://www.digitaljournal.com/privacy.php">
-<input type="hidden" name="fd[title]" value="Privacy Policy - Digital Journal">
-<input type="hidden" name="fd[descr]" value="">
-<input type="hidden" name="frameless" value="1">
-<input type="hidden" name="email_this" value="1">
-
-<div id="email_article_status"></div>
-</td>
-<td width="40%" style="padding:5px 20px 0 0;">
-				<h3 style="margin-top:0"><a href="" target="_blank">Privacy Policy - Digital Journal</a></h3>
-				<div class="p"></div>
-
-				</td>
-</tr></tbody></table>
-	
-			</form></div>
-		</div>
-	</div>
-</div>
-<script type="text/javascript">
-<!--
-	djp.htmlFormedEvent.subscribe(function(){ djp.StickyFoot.init(); });
-	djp.htmlFormedEvent.subscribe(function() { if(!djp.ajax.history.was_init) djp.ajax.history.init();setTimeout(kplgin, 1000); });
-//-->
-</script>
 <script>
-	(function() {
-		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-		po.src = 'https://apis.google.com/js/plusone.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-	})();
-	(function(){
-	var twitterWidgets = document.createElement('script');
-	twitterWidgets.type = 'text/javascript';
-	twitterWidgets.async = true;
-	twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
-	document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-	})();
+  <!--
+  if ( Dom.getViewportWidth() > 1080 ) {
+    var options={ "publisher": "49ce477b-918c-42e8-b104-b3fc334378aa", "position": "left", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["email", "facebook", "twitter", "linkedin", "googleplus"]}};
+    var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+  }
+  djp.htmlFormedEvent.subscribe(function() { if(!djp.ajax.history.was_init) djp.ajax.history.init();setTimeout(kplgin, 1000); });
+  //-->
 </script>
+
+
 <script type="text/javascript">
 <!--
 	djp.htmlFormedEvent.fire(djp);
