@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloggingwithamy.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625221329id_/http%3A//bloggingwithamy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingwithamy.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225012714id_/http%3A//bloggingwithamy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Blogging with Amy
 
 ### The Chips and Salsa Version
 
