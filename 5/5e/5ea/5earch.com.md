@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 5earch.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531045126id_/http%3A//www.5earch.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5earch.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225050509id_/http%3A//www7.5earch.com/privacypolicy) for the most accurate reproduction.*
 
 # 5earch
 
-5earch, Inc. ("5earch") owns and operates a number of different sites on the Web (each, an "5earch Site"). 5earch is strongly committed to protecting the privacy of its user community. The intent of this privacy policy is to detail the information 5earch may gather about individuals who visit the 5earch Sites, how that information is used, and 5earch's disclosure practices. Please note that this policy applies only to the 5earch Sites, and not to the Web sites of other companies or organizations to which we provide links or to any software that may be downloaded from the 5earch Sites.
+Webika Ltd. ("5earch") owns and operates a number of different sites on the Web (each, an "5earch Site"). 5earch is strongly committed to protecting the privacy of its user community. The intent of this privacy policy is to detail the information 5earch may gather about individuals who visit the 5earch Sites, how that information is used, and 5earch's disclosure practices. Please note that this policy applies only to the 5earch Sites, and not to the Web sites of other companies or organizations to which we provide links or to any software that may be downloaded from the 5earch Sites.
 
 ## Anonymous User Information
 
