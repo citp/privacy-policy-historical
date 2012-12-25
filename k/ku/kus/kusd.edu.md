@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kusd.edu privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126022442id_/http%3A//kusd.edu/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kusd.edu privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225181141id_/http%3A//www.kusd.edu/help/privacy.html) for the most accurate reproduction.*
 
-# Privacy On the Web Site - Kenosha Unified School District No. 1 - Kenosha, Wisconsin
+# Privacy On the Web Site - Kenosha Unified School District
 
 ### Kenosha Unified School District and Your Privacy
 
@@ -31,6 +31,6 @@ The Kenosha Unified School District Web site currently uses cookies in the follo
 
 Kenosha Unified School District websites may contain links to other sites. Kenosha Unified School District assumes no responsibility for the content or the privacy policies and practices of such Web sites. Kenosha Unified School District encourages you to read the privacy statements of these linked sites; their privacy practices may differ from ours.
 
-### E-mail Lists
+### Email Lists
 
-Addresses from Kenosha Unified School District-sponsored e-mail lists will not be compiled, collected, used, or sold for any purpose, commercial or non-commercial, other than e-mail communication regarding the topic of the list.
+Addresses from Kenosha Unified School District-sponsored email lists will not be compiled, collected, used, or sold for any purpose, commercial or non-commercial, other than email communication regarding the topic of the list.
