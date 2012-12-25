@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webjet.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618000658id_/http%3A//www.webjet.com/webjet/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webjet.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225210104id_/http%3A//webjet.com/webjet/privacy) for the most accurate reproduction.*
 
-# Privacy and Security Information - Webjet.com
+# Privacy and Security Information | Webjet
 
 As a Webjet.com user, you are in control of all your travel-planning. We know you want to remain in control of your personal information, as well. 
 
@@ -8,11 +8,11 @@ Webjet Marketing North America, LLC ("Webjet") is committed to protecting your p
 
 You should read this Policy before you submit any personal information to us. By using our Website, you consent to the collection and use of your personal information as outlined in this Policy. If you do not agree with the content of this Policy, you should refrain from using our Website.
 
- **WHO WE ARE**
+**WHO WE ARE**
 
 Webjet Marketing North America, LLC, which owns and operates this Website, is a Delaware corporation with its principal place of business at 607 S. Magnolia Ave., Suite 2, Tampa, Florida, 33606, United States.
 
- **PERSONAL INFORMATION WE COLLECT AND HOW IT IS USED**
+**PERSONAL INFORMATION WE COLLECT AND HOW IT IS USED**
 
 In General.  We may collect and store any personal information you enter on our Website or provide to us in some other manner. Personal information is data that identifies you, and includes (but is not limited to) your name, business or personal email address, physical address, direct telephone number, and credit card number. You are not obligated to provide us with any personal information, unless or until you choose to purchase a reservation, sign up for one of our e-mail newsletters or engage in other transactions on our Website. We strive to limit the type of personal information that we collect to information that helps us accomplish our goal of providing first-class services for the benefit of our existing and prospective customers.
 
@@ -42,7 +42,7 @@ Discussion Forums. In the event that you post personal information in discussion
 
 Other.  From time to time we may add or enhance services available on the site. To the extent these services are provided and used by you, we will use the information you provide to facilitate the service requested. For example, if you email us with a question, we will use your email address, name, nature of the question, etc. to respond to your question. We may also store such information to assist us in making the site the better and easier to use. 
 
- **DISCLOSURES OF PERSONAL INFORMATION**
+**DISCLOSURES OF PERSONAL INFORMATION**
 
 When you reserve or purchase travel services through Webjet, we provide to the airline, hotel, car-rental agency, travel agency or other involved third party provider, distributor, or supplier only that portion of your personal information that is needed for the successful fulfillment of your travel arrangements., we book most of our travel services through the AMADEUS Global Distribution System, a leading processor of travel bookings worldwide and in doing so must provide certain of your personal information to them (as we would with any other GDS we now use or may use in the future). We use non-personally identifiable information in aggregate form to build higher quality, more useful online services by performing statistical analyses of the collective characteristics and behavior of our customers and visitors, and by measuring demographics and interests regarding specific areas of our site We may provide anonymous statistical information based on this data to suppliers, advertisers, affiliates and other current and potential business partners. We may also use such aggregate data to inform these third parties as to the number of people who have seen and clicked on links to their web sites. Occasionally, Webjet will hire a third party to act on our behalf for projects such as market-research surveys and contest-entry processing, or, generally, to process personal information on our behalf.  When we do so, Webjet requires that these third parties implement adequate technological and organizational security measures before they can receive any personal information from us.  In such cases, Webjet will provide information to these third parties specifically for use in connection with these projects. The information we provide to such third parties is protected by a confidentiality agreement and is to be used solely for completing the specific project.
 
@@ -54,44 +54,44 @@ We may also share your personal information with other companies or individuals 
 
 
 
- **CHOICES ABOUT THE USE OF YOUR INFORMATION (OPT-OUT POLICY)**
+**CHOICES ABOUT THE USE OF YOUR INFORMATION (OPT-OUT POLICY)**
 
 Webjet believes that it is important that individuals are given the opportunity to exercise choice with respect to how their personal information is collected and used. If we propose to use your personal information for any purposes other than those described in this Policy or any service-specific privacy notices, we will allow you a convenient way to opt-out of such further uses. 
 
- **INTERNATIONAL TRANSFERS OF PERSONAL INFORMATION**
+**INTERNATIONAL TRANSFERS OF PERSONAL INFORMATION**
 
 Webjet operates the Website in the United States and, depending on your country of residence, the submission of personal information to the Website may involve some transfer of personal information to the United States. You should be aware that privacy laws in the United States may not provide protections equivalent to those of your country of residence. Webjet has taken steps to ensure that appropriate levels of protection necessary to maintain the security and quality of your personal information are in place and that any transferred data is processed only in accordance with this Policy.
 
- **ACCESS AND CORRECTION OF PERSONAL INFORMATION**
+**ACCESS AND CORRECTION OF PERSONAL INFORMATION**
 
 You can request access to any personal information that we hold about you and ask us to correct any personal information which may be inaccurate, except where the law requires otherwise. To access, correct or raise inquiries concerning your personal information in our possession, please contact:
 
 Webjet Marketing North America, LLC., 607 S Magnolia Ave, Suite 2,  Tampa, Florida, 33606, United States
 
- **INFORMATION SECURITY**
+**INFORMATION SECURITY**
 
 Webjet has implemented reasonable technical and organizational security measures to help protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of personal information.  All information you provide to Webjet is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us.  Access to private and confidential data is limited to only those employees, contractors, agents and third parties with a specific need to retrieve this information.  Unfortunately, no data transmission over the Internet can be guaranteed to be entirely secure, and Webjet assumes no liability for any damage suffered by you caused by the interception, alteration, or misuse of information during transmission. 
 
- **OTHER WEBSITES**
+**OTHER WEBSITES**
 
 To provide increased value to users of the Website, we may provide links to other websites or resources that are not part of Webjet. Webjet does not exercise control over these websites or their privacy practices, and any information you provide to those sites is subject to the Privacy Policies of those sites, and not this Policy.
 
- **ADVERTISING COOKIES**
+**ADVERTISING COOKIES**
 
-This site has contracted with Travel Ad Network and its third party ad-serving technology provider Atlas, a Microsoft Corporation Subsidiary, to monitor certain pages of our website for the purpose of reporting website statistics, advertisement 'click-throughs', advertisement impressions, and/or other activities on our website. Where authorized by us, Travel Ad Network may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by Travel Ad Network, please see Travel Ad Networks privacy policy at http://www.traveladnetwork.com/content/view/56/79/.
+This site has contracted with Travel Ad Network and its third party ad-serving technology provider Atlas, a Microsoft Corporation Subsidiary, to monitor certain pages of our website for the purpose of reporting website statistics, advertisement 'click-throughs', advertisement impressions, and/or other activities on our website. Where authorized by us, Travel Ad Network may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by Travel Ad Network, please see Travel Ad Networks privacy policy at [http://www.traveladnetwork.com/content/view/56/79/.](http://www.traveladnetwork.com/content/view/56/79/)
 
 Cookies are important devices for both serving more relevant ads to users and measuring advertising effectiveness. You may opt out of accepting cookies at any time by clicking these links:
 
-To opt out of TravelAdvertising.com, go to http://www.traveladnetwork.com/content/view/56/79/.
+To opt out of TravelAdvertising.com, go to [http://www.traveladnetwork.com/content/view/56/79/.](http://www.traveladnetwork.com/content/view/56/79/)
 
-To opt out of Atlas (Microsoft Advertising), go to http://www.atlassolutions.com/optout.aspx.
+To opt out of Atlas (Microsoft Advertising), go to <http://www.atlassolutions.com/optout.aspx.>
 
- **CHILDREN**
+**CHILDREN**
 
 The Website contains travel-related content and is specifically aimed at and designed for use by adults. Webjet does not knowingly solicit or collect personal information from or about individuals under the age of 18 years.
 
- **CHANGES TO THIS POLICY**
+**CHANGES TO THIS POLICY**
 
 This Policy may change from time to time. If we make material changes to this Policy, we will post any Policy changes on this page. If we feel it appropriate, we will provide a more prominent notice (including, for certain services, email notification). Your continued use of the Website following such posts or notices will signal your acceptance of such changes.
 
-If you have any additional questions or concerns about this Policy, please feel free to contact us at 1888 9 932 538, Webjet Marketing North America, LLC., 607 S Magnolia Ave, Suite 2,  Tampa, Florida, 33606, United States, or email us at [**travel@webjet.com**](mailto:onlinetravel@webjet.com) **.**
+If you have any additional questions or concerns about this Policy, please feel free to contact us at 1888 9 932 538, Webjet Marketing North America, LLC., 607 S Magnolia Ave, Suite 2,  Tampa, Florida, 33606, United States, or email us at [travel@webjet.com](mailto:travel@webjet.com) **.**
