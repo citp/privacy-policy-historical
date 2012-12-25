@@ -1,217 +1,158 @@
-> *The following text is extracted and transformed from the hotspot.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627144145id_/http%3A//developers.sun.com/global/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotspot.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225033228id_/https%3A//wikimediafoundation.org/wiki/Privacy_policy) for the most accurate reproduction.*
 
-# Sun's Privacy Policy
+# Privacy policy - Wikimedia Foundation
 
-(Effective date January 7, 2009)  
-For the previous version see [Sun Online Privacy Policy, V2.5 ](https://web.archive.org/privacy/version_2.5/index.html)
+This policy is approved by the Wikimedia Foundation [Board of Trustees](https://web.archive.org/wiki/Board_of_Trustees "Board of Trustees") to apply to all [Wikimedia projects](https://web.archive.org/wiki/Our_projects "Our projects").  
+It may not be circumvented, eroded, or ignored by local policies. 
 
-We at Sun Microsystems, Inc. and our wholly-owned subsidiaries worldwide (collectively, "Sun") respect your privacy. We are posting Sun's Privacy Policy (the "Policy") to clearly disclose Sun's practices and approach to respectful and fair data protection. 
+Wikimedia policies   
+---  
+  
+  * [Licensing and copyright](https://web.archive.org/wiki/Resolution:Licensing_policy "Resolution:Licensing policy")
+  * **Privacy** and [donor privacy](https://web.archive.org/wiki/Donor_policy "Donor policy")
+  * [Data retention](https://web.archive.org/wiki/Data_retention_policy "Data retention policy")
+  * [Access to nonpublic data](https://web.archive.org/wiki/Access_to_nonpublic_data_policy "Access to nonpublic data policy")
+  * [Trademarks](https://web.archive.org/wiki/Trademark_policy "Trademark policy")
 
-This Policy governs how we collect, protect, store, process, transfer and use the personally identifiable information we collect from and about you. This Policy applies to Sun's online and off-line activities, except where we have published other privacy policies or terms and conditions. 
 
-Sun adheres to the U.S.-European Union Safe Harbor Framework privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [Safe Harbor Program](http://www.export.gov/safeHarbor/) regarding the collection, storage, transfer, use and other processing of personal data transferred from the European Economic Area ("EEA") to the United States. 
+  * Board and staff 
+    * [Code of conduct](https://web.archive.org/wiki/Code_of_conduct_policy "Code of conduct policy")
+    * [Conflicts of interest](https://web.archive.org/wiki/Conflict_of_interest_policy "Conflict of interest policy")
+    * [Credit card usage](https://web.archive.org/wiki/Credit_card_usage_policy "Credit card usage policy")
+    * [Discrimination](https://web.archive.org/wiki/Non_discrimination_policy "Non discrimination policy")
+    * [Duty entertainment](https://web.archive.org/wiki/Duty_entertainment_guidelines_policy "Duty entertainment guidelines policy")
+    * [Gifts](https://web.archive.org/wiki/Gift_policy "Gift policy")
+    * [Pluralism, internationalism,  
+& diversity](https://web.archive.org/wiki/Pluralism,_internationalism,_and_diversity_policy "Pluralism, internationalism, and diversity policy")
+    * [Purchasing and disbursements](https://web.archive.org/wiki/Purchasing_and_disbursements_procedures "Purchasing and disbursements procedures")
+    * [Travel approval](https://web.archive.org/wiki/Travel_approval_policy "Travel approval policy") and [Travel](https://web.archive.org/wiki/Travel_policy "Travel policy")
+    * [Whistleblowing](https://web.archive.org/wiki/Whistleblower_policy "Whistleblower policy")
 
-If you have any questions about this Policy, please feel free to contact us by email, [privacy@sun.com](mailto:privacy@sun.com), or via mail at: 
+  
+  
+    _This version of the[Privacy policy](https://meta.wikimedia.org/wiki/Privacy_policy "meta:Privacy policy") was approved in October 2008 by the [Board of Trustees](https://web.archive.org/wiki/Board_of_Trustees "Board of Trustees"). Discussion and proposed changes are welcome on the [talk page at Meta](https://meta.wikimedia.org/wiki/talk:Privacy_policy "meta:talk:Privacy policy")._
 
-Privacy Office  
-Sun Microsytems, Inc.  
-4150 Network Circle  
-Santa Clara, California 95054  
-USA 
-   
-   
+    _It is requested that this notice be translated and linked from the footer (MediaWiki:Copyright) of every page._
 
+##  General Scope
 
-* * *
+This policy covers personally identifiable information collected or stored by the Foundation on its servers in relation to the Projects and their communities. Consistent with its Data Retention Policy, the Foundation collects and retains the least amount of personally identifiable information needed to fulfill the Projects' operational needs. 
 
-### 1\. Information We Collect
+##  The public and collaborative nature of the projects
 
-Personally Identifiable Information (PII) is information that can be directly associated with an individual (such as name, email address, or telephone number), or information about activities directly linked to an individual (such as products and services you have licensed or purchased). We collect PII from you in the following ways: 
+All Projects of the Wikimedia Foundation are collaboratively developed by its users using the MediaWiki software. Anyone with Internet access (and not otherwise restricted from doing so) may edit the publicly editable pages of these sites with or without logging in as a registered user. By doing this, editors create a published document, and a public record of every word added, subtracted, or changed. This is a public act, and editors are identified publicly as the author of such changes. All contributions made to a Project, and all publicly available information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused and adapted by third parties with few restrictions. 
 
-**Information provided to us directly**
+##  Activities on Foundation projects
 
-You, or someone acting on your behalf, may provide PII to us when you interact with us online and off line. For example: 
+In general, this Policy only applies to private information stored or held by the Foundation which is not publicly available. 
 
-    * We may gather such things as name, physical address, email address and phone number when you contact or communicate with us;
-    * We may gather information such as the products and services you purchase, license, download or register, as well as financial information such as credit card numbers when you engage in transactions with us;
-    * We may gather user preferences, product interests, industry focus, community choices and other customer profile information when you register for an online account, subscribe to a newsletter, participate in communities or an event, program, class or promotion, or click on a URL; or
-    * We may accept your CV when you apply for a job.
+Interactions with the Projects not covered by this Policy include, but are not limited to, aspects of browsing and editing pages, use of the wiki "email user" function, subscribing and posting to Foundation hosted email lists, and corresponding with volunteers via the Foundation's ticketing system ("OTRS"). These interactions may reveal a contributor's IP address, and possibly other personal information, indiscriminately to the general public, or to specific groups of volunteers acting independently of the Foundation. 
 
-**Information we collect through technology: Products and services**
+Users may also interact with one another outside of Foundation sites, via email, IRC or other chat, or independent websites, and should assess the risks involved, and their personal need for privacy, before using these methods of communication. 
 
-Certain products and services you license, purchase or download from Sun may connect and transmit telemetry and system/product data to Sun (or its authorized agents). This data may include, but is not limited to, system model, operating system, host ID and IP address. 
+## 
 
-We use this information to tell you when updates and new product versions are available, provide agreed upon diagnostic, monitoring and management services, as well as enhance our products and services, and better communicate with you. 
+The Foundation does not require editors to register with a project. Anyone can edit without logging in with a username, in which case they will be identified by network IP address. Users that do register are identified by their chosen username. Users select a password, which is confidential and used to verify the integrity of their account. Except insofar as it may be required by law, no person should disclose, or knowingly expose, either user passwords and/or cookies generated to identify a user. Once created, user accounts will not be removed. It may be possible for a username to be changed, depending on the policies of individual projects. The Foundation does not guarantee that a username will be changed on request. 
 
-**Information we collect through technology: Online web technologies**
+##  Purpose of the collection of private information
 
-When you are on Sun's online network, we collect information about the pages you visit. Some web pages use cookies, web beacons and similar technologies to automatically collect information from you. When you visit a Sun web site, we may send one or more cookies (small text files containing a string of characters) to your computer to uniquely identify your browser. We may use "web beacons" (electronic images also known as pixel tags or clear gifs) to recognize a Sun cookie on your computer when you view or act upon a Sun web page, an advertisement that we've placed on a third-party web page or an email we've sent. 
+The Foundation limits the collection of personally identifiable user data to purposes which serve the well-being of its projects, including but not limited to the following: 
 
-These cookies, web beacons and similar technologies enable us to collect certain types of information about your visit to Sun's web sites such as: 
+    To enhance the public accountability of the projects. The Foundation recognizes that any system that is open enough to allow the greatest possible participation of the general public will also be vulnerable to certain kinds of abuse and counterproductive behavior. The Foundation and the project communities have established a number of mechanisms to prevent or remedy abusive activities. For example, when investigating abuse on a project, including the suspected use of malicious “sockpuppets” (duplicate accounts), vandalism, harassment of other users, or disruptive behavior, the IP addresses of users (derived either from those logs or from records in the database) may be used to identify the source(s) of the abusive behavior. This information may be shared by users with administrative authority who are charged by their communities with protecting the projects. 
+    To provide site statistics. The Foundation statistically samples raw log data from users' visits. These logs are used to produce the site statistics pages; the raw log data is not made public. 
+    To solve technical problems. Log data may be examined by developers in the course of solving technical problems and in tracking down badly-behaved web spiders that overwhelm the site. 
 
-    * Internet Protocol Address;
-    * Browser type;
-    * Operating system;
-    * Referring site (site you visited before coming to our site);
-    * Date and time of visit;
-    * URL of pages visited; and
-    * Other browsing behavior, such as products and white papers downloaded.
+##  Details of data retention
 
-We may link this information to PII to provide better service to you and to improve Sun's product and services offerings. If you do not wish to have navigational patterns analyzed, go to [http://sun.com/privacy/navigation](https://web.archive.org/privacy/navigation). 
+###  General expectations
 
-Most browsers allow you to remove and block cookies and web beacons. Please note that if you choose to erase or block cookies, you will need to re-enter your user ID and password to access certain parts of Sun's web sites. You may also notice that you will be served only generic information not tailored to your specific interests. 
+####  IP and other technical information
 
-In addition, if you block cookies, you may not be able to use certain Sun web site features or take full advantage of our offerings. 
+    When a visitor requests or reads a page, or sends email to a Wikimedia server, no more information is collected than is typically collected by web sites. The Wikimedia Foundation may keep raw logs of such transactions, but these will not be published or used to track legitimate users. 
 
-**Information from other sources**
+    When a page is edited by a logged-in editor, the server confidentially stores related IP information for a limited period of time. This information is automatically deleted after a set period. For editors who do not log in, the IP address used is publicly and permanently credited as the author of the edit. It may be possible for a third party to identify the author from this IP address in conjunction with other information available. Logging in with a registered username allows for better preservation of privacy. 
 
-We sometimes obtain information from other sources, such as mergers and acquisitions or commercial lists, and merge it with information we have previously collected. 
+####  Cookies
 
-If you give us PII on behalf of someone else (or someone else gives us PII on your behalf), the person providing the PII must have consent to do so from the person whose information is being provided to Sun. 
+    The sites set a temporary session cookie on a visitor's computer whenever a Project page is visited. Readers who do not intend to log in or edit may deny this cookie; it will be deleted at the end of the browser's session. More cookies may be set when one logs in to maintain logged-in status. If one saves a user name or password in one's browser, that information will be saved for up to 30 days, and this information will be resent to the server on every visit to the same Project. Contributors using a public machine who do not wish to show their username to future users of the machine should clear these cookies after use. 
 
-Some Sun events, web sites or services may be co-branded and offered in conjunction with another company. If you provide PII in these cases, both Sun and the other company(ies) may receive the information collected and use the information according to each company's privacy policy and agreement with you. 
+####  Page history
 
+    Edits or other contributions to a Project on its articles, user pages and talk pages are generally retained forever. Removing text from a project does not permanently delete it. Normally, in projects, anyone can look at a previous version of an article and see what was there. Even if an article is "deleted", a user entrusted with higher level of access may still see what was removed from public view. Information can be permanently deleted by individuals with access to Wikimedia servers, but aside from the rare circumstance when the Foundation is required to delete editing-history material in response to a court order or equivalent legal process, there is no guarantee any permanent deletion will happen. 
 
+####  User contribution
 
+    User contributions are also aggregated and publicly available. User contributions are aggregated according to their registration and login status. Data on user contributions, such as the times at which users edited and the number of edits they have made, are publicly available via user contributions lists, and in aggregated forms published by other users. 
 
-Back to top
+#####  Reading projects
 
-* * *
+    
 
-### 2\. How We Use Information We Collect
+    No more information on users and other visitors reading pages is collected than is typically collected in server logs by web sites. Aside from the above raw log data collected for general purposes, page visits do not expose a visitor's identity publicly. Sampled raw log data may include the IP address of any user, but it is not reproduced publicly. 
 
-We use PII to conduct business, provide information and support for products and services, better understand your needs and interests, refine and develop our business, improve services, personalize communications and ensure a quality experience with Sun. For example, we may use your information to: 
+#####  Editing projects
 
-  * Communicate, interact and build our relationship with you;
-  * Contact you with relevant promotions and information about Sun and affiliated third-parties;
-  * Process, fulfill and follow up on transactions and requests for products, services, support, training and information;
-  * Create and maintain an account and register products and systems;
-  * Engage in market research;
-  * Measure, analyze and improve our products and services, the effectiveness of our web sites, and our advertising and marketing;
-  * Personalize content and advertising;
-  * Help identify and communicate offers of products, programs and services that may be of interest to you;
-  * Send "refer-a-friend" email on your behalf;
-  * Consider your employment application;
-  * Comply with legal requirements; or
-  * Enforce conditions of sales and web site terms of use, and prevent fraud and other prohibited or illegal actives.
+    
 
+    Edits to Project pages are identified with the username or network IP address of the editor, and editing history is aggregated by author in a contribution list. Such information will be available permanently on the projects. 
+    Logged in registered users: 
+    Logged in users do not expose their IP address to the public except in cases of abuse, including vandalism of a wiki page by the user or by another user with the same IP address. A user's IP address is stored on the wiki servers for a period of time, during which it can be seen by server administrators and by users who have been granted CheckUser access. 
+    IP address information, and its connection to any usernames that share it, may be released under certain circumstances (see below). 
+    Editors using a company mail server from home or telecommuting over a DSL or cable Internet connection, are likely to be easy to identify by their IP address; in which case it may be easy to cross-identify all contributions to various Projects made by that IP. Using a username is a better way of preserving privacy in this situation. 
+    Unlogged-in registered users and unregistered users: 
+    Editors who have not logged in may be identified by network IP address. Depending on one's connection, this IP address may be traceable to a large Internet service provider or more specifically to a school, place of business or home. It may be possible to use this information in combination with other information, including editing style and preferences, to identify an author completely. 
 
+#####  Discussions
 
-* * *
+    
 
-### 3\. How We Share and Disclose PII
+    On wiki discussion pages: 
+    Any editable page can theoretically be the location of a discussion. In general, discussions on Foundation projects occur on user talk pages (associated with particular users), on article talk pages (associated with particular articles) or in pages specially designated to function as forums (e.g., the Village Pump). Privacy expectations apply to discussion pages in the same way as they do elsewhere. 
+    Via email: 
+    Users are not required to list an email address when registering. Users who provide a valid email address can enable other logged-in users to send email to them through the wiki. When receiving an email from other users through this system, one's email address is not revealed to them. When choosing to send an email to other users, one's email is displayed as the sender. 
+    The email address put into one's user preferences may be used by the Foundation for communication. Users whose accounts do not have a valid email address will not be able to reset their password if it is lost. In such a situation, however, users may be able to contact one of the Wikimedia server administrators to enter a new e-mail address. A user can remove the account's email address from his preferences at any time to prevent it from being used. Private correspondence between users may be saved at those users' discretion and is not subject to Wikimedia Foundation policy. 
+    On mailing lists: 
+    The email addresses used to subscribe and post to Project mailing lists are exposed to other subscribers. The list archives of most such mailing lists are public, and searches of public archives may be performed on the Web. Subscribers' addresses may also be quoted in other users' messages. These email addresses and any messages sent to a mailing list may be archived and may remain available to the public permanently. 
+    Via OTRS: 
+    Some e-mail addresses (such as info-en at wikimedia dot org) forward mail to a team of volunteers trusted by the Foundation to use a ticket system, such as OTRS, to respond. Mail sent to this system is not publicly visible, but volunteers selected by the Foundation will have access to it. The ticket system team may discuss the contents of received mail with other contributors in order to respond effectively. Mail to private addresses of members of Board of Trustees and to staff of the Foundation may also be forwarded to the OTRS team. These messages and e-mail addresses may be saved by members of the OTRS team and any email service they use, and may remain available to them. 
+    On IRC: 
+    IRC channels are not officially part of the Wikimedia Foundation and are not operated on Wikimedia controlled servers. The IP address of users who chat over such a service may be exposed to other participants. IRC users' privacy on each channel can only be protected according to the policies of the respective service and channel. Different channels have different policies on whether logs may be published. 
 
-We may share or disclose your PII as follows: 
+##  Access to and release of personally identifiable information
 
-  * To our subsidiaries to support business and marketing processes;
-  * To our service providers and suppliers, who are acting and using your information solely on our behalf;
-  * As necessary, if we suspect a violation of our policies or to protect the rights or safety of any person or entity;
-  * Based on a good-faith belief that disclosure is necessary to respond to judicial process, valid government inquiry, or is otherwise required by law;
-  * In the event that Sun or any of its assets are acquired, your information may be transferred with the company or the asset;
-  * To other third-parties for purposes you have allowed; or
-  * When posted by you or an authorized third-party to our wikis, forums, blogs, message boards, chat rooms and other social networking environments.
+Access: 
 
+Projects are primarily run by volunteer contributors. Some dedicated users are chosen by the community to be given privileged access. For example, for an English Wikipedia user, user access levels to Wikipedia are determined by the user's presence in various 'user groups'. User group rights and group members are reachable in every project from the Special:ListGroupRights page. 
 
+Other users who may have access to private identifiable information include, but are not limited to, users who have access to OTRS, or to the CheckUser and Oversight functions, users elected by project communities to serve as stewards or Arbitrators, Wikimedia Foundation employees, trustees, appointees, and contractors and agents employed by the Foundation, and developers and others with high levels of server access. 
 
-Back to top
+Access to and publication of this information is governed by the [Access to nonpublic data policy](https://web.archive.org/wiki/Access_to_nonpublic_data_policy "Access to nonpublic data policy"), as well as specific policies covering some of the functions in question. Sharing information with other privileged users is not considered "distribution." 
 
-* * *
+Release: Policy on Release of Data 
 
-### 4\. Notice and Choice
+It is the policy of Wikimedia that personally identifiable data collected in the server logs, or through records in the database via the CheckUser feature, or through other non-publicly-available methods, may be released by Wikimedia volunteers or staff, in any of the following situations: 
 
-Sun provides notice about its use of PII in this Policy, in our web pages, and in other locations where we collect information. You can choose whether or not to provide your PII to us. If you choose not to provide PII, you can continue to interact with Sun, but you may be not be able to take advantage of certain offers, options, events and services that depend upon accurate PII. 
+  1. In response to a valid subpoena or other compulsory request from law enforcement, 
+  2. With permission of the affected user, 
+  3. When necessary for investigation of abuse complaints, 
+  4. Where the information pertains to page views generated by a spider or bot and its dissemination is necessary to illustrate or resolve technical issues, 
+  5. Where the user has been vandalizing articles or persistently behaving in a disruptive way, data may be released to a service provider, carrier, or other third-party entity to assist in the targeting of IP blocks, or to assist in the formulation of a complaint to relevant Internet Service Providers, 
+  6. Where it is reasonably necessary to protect the rights, property or safety of the Wikimedia Foundation, its users or the public. 
 
-You can update your marketing communications preferences by logging into your Sun Online Account or by following the unsubscribe instructions you have received in a marketing email. Please note that transactional, relationship and legally required communications will not be affected by the choices you have made about marketing communications. 
 
-Back to top
 
-* * *
+Except as described above, Wikimedia policy does not permit distribution of personally identifiable information under any circumstances. 
 
-### 5\. Onward Transfer
+Third-party access and notifying registered users when receiving legal process: 
 
-We will only share personal information with third parties if those third parties provide an adequate level of data protection to help ensure the security of personal data, such as by agreeing to abide by the Safe Harbor principles. 
+As a general principle, the access to, and retention of, personally identifiable data in all projects should be minimal and should be used only internally to serve the well-being of the projects. Occasionally, however, the Foundation may receive a subpoena or other compulsory request from a law-enforcement agency or a court or equivalent government body that requests the disclosure of information about a registered user, and may be compelled by law to comply with the request. In the event of such a legally compulsory request, the Foundation will attempt to notify the affected user within three business days after the arrival of such subpoena by sending a notice by email to the email address (if any) that the affected user has listed in his or her user preferences. 
 
-Back to top
+The Foundation cannot advise a user receiving such a notification regarding the law or an appropriate response to a subpoena. The Foundation does note, however, that such users may have the legal right to resist or limit that information in court by filing a motion to quash the subpoena. Users who wish to oppose a subpoena or other compulsory request should seek legal advice concerning applicable rights and procedures that may be available. 
 
-* * *
+If the Foundation receives a court-filed motion to quash or otherwise limit the subpoena as a result of action by a user or their lawyer, the Foundation will not disclose the requested information until Wikimedia receives an order from the court to do so. 
 
-### 6\. Security
+Registered users are not required to provide an email address. However, when an affected registered user does not provide an email address, the Foundation will not be able to notify the affected user in private email messages when it receives requests from law enforcement to disclose personally identifiable information about the user. 
 
-We maintain administrative, technical, and physical safeguards to protect the security, confidentiality and integrity of the PII we have collected from loss, misuse and unauthorized access, disclosure, alteration and destruction. In addition, we use standard security protocols and mechanisms to transmit sensitive data such as credit card details. 
+##  Disclaimer
 
-If you have a password, help protect any PII accessible through it by keeping your password confidential. If you share a computer, especially a public computer, terminate your internet session by logging out and closing the browser to guard against subsequent users having access to your information. 
-
-Back to top
-
-* * *
-
-### 7\. Access and Accuracy
-
-We want to maintain the accuracy of your contact information. If you need to update or correct it, please do so by logging into your Sun account. 
-
-You also may update your information by emailing [privacy@sun.com](mailto:privacy@sun.com), or writing to: 
-
-Privacy Office  
-Sun Microsytems, Inc.  
-4150 Network Circle  
-Santa Clara, California 95054  
-USA 
-
-
-and we will make reasonable efforts to incorporate the changes as soon as possible. Before we make any changes, we may ask you to verify your identity and/or provide other details to help us respond to your request. We may keep a copy of the prior information for our records. 
-
-We provide individuals with reasonable access to their PII in order to have it corrected, amended or deleted where it is inaccurate or inappropriate for the specified purposes of processing. 
-
-Back to top
-
-* * *
-
-### 8\. Children's Privacy
-
-Sun's web sites and marketing are not directed to children under 13 years of age. If that policy changes, we will obtain consent from a parent or guardian before we collect PII from anyone under the age of 13. 
-
-Back to top
-
-* * *
-
-### 9\. Our Commitment
-
-We are committed to privacy and are actively involved in current industry initiatives to preserve individual privacy rights. Our privacy practices are constantly evolving to meet new requirements, standards, technologies and customer desires. 
-
-Back to top
-
-* * *
-
-### 10\. Transfers of PII under Safe Harbor
-
-Sun is a global organization, with operations, processes and systems that cross borders. We are certified under the [U.S.-EU Safe Harbor program](http://www.export.gov/safeHarbor/) and strive to comply with all applicable laws around the globe designed to protect your privacy. If you choose to provide us with information, including PII, you understand that we may transfer it within Sun in the United States or to Sun's subsidiaries, joint venture partners, and third-party service providers around the world. 
-
-Back to top
-
-* * *
-
-### 11\. Enforcement
-
-Sun regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Sun's treatment of PII by contacting us at [privacy@sun.com](mailto:privacy@sun.com) or by writing to us at: 
-
-Privacy Office  
-Sun Microsytems, Inc.  
-4150 Network Circle  
-Santa Clara, California 95054  
-USA 
-
-
-We participate in the U.S.-EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. If you have any complaints regarding our compliance with the Safe Harbor principles, please contact us at the address above. 
-
-If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe. Please allow at least 10 business days for us to respond prior to contacting TRUSTe. You can reach TRUSTe by Internet at <http://www.truste.org/consumers/watchdog_complaint.php>, by fax at 415-520-3420, or by postal mail at Watchdog Complaints, TRUSTe, 55 Second Street, Floor 2, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: our company name, the nature of the alleged privacy violation including details about how your data was collected and what causes you to believe a violation occurred, the resolution you are requesting, your contact information, and whether you allow the particulars of your complaint to be shared with us. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://www.truste.org/consumers/watchdog_complaint.php> or request this information from TRUSTe at any of the addresses listed above. 
-
-Back to top
-
-* * *
-
-### 12\. Changes to this Privacy Policy
-
-Please note that this Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent. We will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice and we will also keep prior versions of this Policy in an [archive](https://web.archive.org/privacy/version_2.5/index.html) for your review. 
-
-V3.0  
-January 7, 2009 
+The Wikimedia Foundation believes that maintaining and preserving the privacy of user data is an important value. This Privacy Policy, together with other policies, resolutions, and actions by the Foundation, represents a committed effort to safeguard the security of the limited user information that is collected and retained on our servers. Nevertheless, the Foundation cannot guarantee that user information will remain private. We acknowledge that, in spite of our committed effort to protect private user information, determined individuals may still develop data-mining and other methods to uncover such information and disclose it. For this reason, the Foundation can make no guarantee against unauthorized access to information provided in the course of participating in Foundation Projects or related communities. 
