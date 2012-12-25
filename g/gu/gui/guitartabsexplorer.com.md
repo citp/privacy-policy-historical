@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guitartabsexplorer.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618140552id_/http%3A//www.guitartabsexplorer.com/content/Privacy%2Bstatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitartabsexplorer.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225182710id_/http%3A//www.guitartabsexplorer.com/content/Privacy%2Bstatement.php) for the most accurate reproduction.*
 
-# 
+# GuitarTabsExplorer.com - Privacy statement
 
 **The privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information which is received and collected by GuitarTabsExplorer.com and how it is used.**
 
