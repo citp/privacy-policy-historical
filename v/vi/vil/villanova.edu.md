@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the villanova.edu privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017083118id_/http%3A//www.villanova.edu/unit/policies/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villanova.edu privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225015114id_/http%3A//www1.villanova.edu/villanova/unit/about/policies/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Villanova University
 
-Villanova University is concerned about your privacy. The following privacy policy explains the information we collect when you visit this site and how we use this information. Please read this Privacy Policy carefully so you understand our privacy practices. 
+Villanova University is concerned about your privacy. The following privacy policy explains the information we collect when you visit this site and how we use this information. Please read this Privacy Policy carefully so you understand our privacy practices.
 
 #### Information Villanova Collects
 
