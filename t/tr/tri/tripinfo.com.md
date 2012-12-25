@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripinfo.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618165228id_/http%3A//www.tripinfo.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripinfo.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225053102id_/http%3A//www.tripinfo.com/privacy_policy.html) for the most accurate reproduction.*
 
 # TRIPinfo.com - Privacy Policy
 
@@ -65,4 +65,4 @@ TRIPmedia GROUP AFFILIATED COMPANIES:
 • The Goss Agency
 
 EMAIL US WITH QUESTIONS OR CONCERNS ABOUT OUR PRIVACY POLICY:  
-[info@tripmediagroup.com](mailto:%20info@tripmediagroup.com)
+[info@TRIPmediagroup.com](mailto:%20info@TRIPmediagroup.com)
