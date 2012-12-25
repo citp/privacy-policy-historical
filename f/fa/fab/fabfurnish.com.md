@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fabfurnish.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622052647id_/http%3A//www.fabfurnish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabfurnish.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225022159id_/http%3A//www.fabfurnish.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ## Privacy Policy
 
-We are Fabfurnish.com, a service provided by by Xerion Retail Pvt. Ltd. Ground Floor, 521, Udyog Vihar, Phase-3, Gurgaon, Haryana, 122002. In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site.
+We are Fabfurnish.com, a service provided by by Xerion Retail Pvt. Ltd. Ground Floor, 521, Udyog Vihar, Phase-3, Gurgaon, Haryana, 122016. In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site.
 
 If you have any comments or suggestions, we would be pleased to receive them at our Gurgaon address or by emailing us at [care@fabfurnish.com](mailto:care@fabfurnish.com)
 
