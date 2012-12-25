@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the glampinghub.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619172907id_/http%3A//glampinghub.com/misc/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glampinghub.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225102419id_/http%3A//glampinghub.com/misc/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy for GlampingHub.
+# 
 
 We've provided this Privacy Policy, which sets forth our terms regarding the collection, use and protection of the personal information of those using the GlampingHub.com website. Personal information means information that can be linked to a specific individual, such as name, address, ip address, telephone number, e-mail address and credit card number. 
 
