@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the auctionzip.com privacy policy that was archived on 2012-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620171634id_/http%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the auctionzip.com privacy policy that was archived on 2012-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225130009id_/http%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>
@@ -14,6 +14,7 @@
 <script type="text/javascript" src="/includes/js/jquery.cookie.js"></script>
 <script type="text/javascript" src="/includes/js/custom-min.js"></script>
 <script type="text/javascript" src="/includes/js/emailCapture.js"></script>
+<script type="text/javascript" src="/includes/js/termsOfService.js"></script>
 <link rel="stylesheet" type="text/css" href="/includes/css/style-min.css">
 
 		<link rel="stylesheet" type="text/css" href="/includes/css/font-family.css">
@@ -138,13 +139,16 @@
 		</div>
 	</div> 
 	
+	<div id="overlayWrapper" style="display:none; z-index:2;">
+		<div id="sliderOverlay"></div>
+	</div>
 	<div id="sliderEmailCapture">
+
 		<div class="closeBtn">
-			<span class="xbutton">X</span>
+			<span class="xbutton"></span>
 		</div>  
-		<p class="overlayEmailHeader">Want more auction action?</p>
-		<div class="emailCapSecContainer"><p class="emailCapSec">Sign up in one step for a <span class="freeColor">FREE</span> weekly auction newsletter</p></div>
-		<img class="slider-photo" src="/images/sliderPhoto.jpg">
+		<p class="sliderEmailHeader">Auctions in your inbox!</p>
+		<p class="secondHeader">Get notified about the latest local and online auctions.</p>
 		<form id="sliderEmailForm" action="http://cl.s4.exct.net/subscribe.aspx?lid=95435" method="post" name="subscribeForm">
 			<input type="text" value="" style="position:absolute; visibility: hidden;" name="thx" class="successPage">
 			<input type="hidden" name="err" value="http://www.auctionzip.com/email_error.html" class="errorPage">
@@ -152,21 +156,30 @@
 			<input type="hidden" name="MID" value="1002939">
 			<input type="hidden" name="Company" value="AuctionZip">
 			<input type="hidden" name="Company_ID" value="4">
-			<input type="hidden" name="Web_Collect" value="Yes"> 
+			<input type="hidden" name="Web_Collect" value="Yes">
 			<input type="hidden" name="Newsletter" value="Yes">
 			<input type="hidden" name="Marketing_Offers" value="Yes">
 			<input type="hidden" name="SubAction" value="sub_add_update">  
 			<input type="text" value="" style="position:absolute; visibility: hidden;" name="ETSubscriberKey" class="subKey">
 			<input type="hidden" name="Program" value="site">
 			<input type="hidden" name="Subprogram" value="Slide-in">
-			<input id="sliderCapture" class="defaultText email_user defaultTextActive" name="Email Address" type="text" title="Enter your email">
-			<input id="sliderSubmit" src="/images/button.png" class="submitBtn" type="submit" value="Sign Up FREE">                          
+			<input id="sliderCapture" class="defaultText email_user defaultTextActive" name="Email Address" type="text" title="Enter Email Address">
+			<input id="sliderSubmit" src="/images/GoButton.jpg" class="submitBtn" type="submit" value="">                          
 		</form>
+		<div class="emailCapSecContainer" style="display:none"><p class="emailCapSec"></p></div>
 		<div class="clear1"></div>
-		<p class="privacy">We value your privacy! <a target="_blank" href="/agreements/privacy.html">Click here</a> to read our policies.</p>
+		<p id="slidePolicy" class="privacy">We value your privacy! <a target="_blank" href="/agreements/privacy.html">Click here</a> to read our policies.</p>
 
 	</div>
 	
+	<!--Terms of Service-->
+	<div id="tosOverlayWrap" style="display:none; z-index:2;">
+		<div id="tosOverlay"></div>
+	</div>
+       <div style="width:100%">
+	<div id="termsOfService">
+	</div>
+</div>
 	<!-- End navBar // -->
 
 			
@@ -518,7 +531,10 @@
 	<ul class="footerLink">
 		<li class="headingLink">Online Bidding</li>
 			<li><a href="http://www.auctionzip.com/azlive.html?method=getUpcomingAuctions">Upcoming Auctions</a></li>
-			<li><a href="http://www.auctionzip.com/Tutorial.html">Online Bidding Tutorial</a></li>
+
+			<!-- Commented out since videos dont match across sites -->
+			<!--<li><a href="http:// #echo var="HTTP_HOST" >/Tutorial.html">Online Bidding Tutorial</a></li>-->
+			
 			<li><a href="http://www.auctionzip.com/azlive.html?method=getHelpInfo">Online Bidding Help</a></li>
 	</ul>
 	
@@ -530,6 +546,7 @@
 			<li><a href="http://www.auctionzip.com/about.html">About Us</a></li>
 			<li><a href="http://www.auctionzip.com/contacts.html">Contact Us</a></li>
 			<li><a href="http://www.auctionzip.com/linktous.html">Link to Us</a></li>
+			<li><a href="http://www.auctionzip.com/advertise_with_us.html">Advertise with Us</a></li>
 	</ul>
 	
 	<ul class="footerLink">
