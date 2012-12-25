@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcams.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522233017id_/http%3A//www.webcams.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcams.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225202327id_/http%3A//www.webcams.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Webcams.com - Privacy Policy
 
@@ -60,4 +60,4 @@ Visitors who have any questions about this Privacy Policy, the practices of this
 
 © Copyright 2005-2012 Webcams.com, All Rights Reserved.
 
-[Click Here to contact Customer Support](https://web.archive.org/web/20120522233017id_/http%3A//www.webcams.com/index.php?action=MailSupport)
+[Click Here to contact Customer Support](https://web.archive.org/web/20121225202327id_/http%3A//www.webcams.com/index.php?action=MailSupport)
