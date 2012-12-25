@@ -1,102 +1,124 @@
-> *The following text is extracted and transformed from the comixology.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620174825id_/http%3A//www.comixology.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comixology.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225135045id_/http%3A//www.comixology.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Comics by comiXology
 
-The privacy policy (“Privacy Policy”) of Iconology, Inc. and its affiliates (collectively, “Company”) addresses Company’s collection and use of any User Information (as defined herein) that Company gathers when You interact with Company, including information gathered when You visit the Website, You register with Company, You use the Service or You interact with Company support.
+Effective Date: December 17, 2012
 
-All capitalized terms not otherwise defined herein shall have the meanings ascribed thereto in the Terms of Use.
+## comiXology User Privacy Policy  
+For Web Services and Applications
 
-Your privacy is important to us. We are committed to tailoring content to match the individual needs of our End Users and Retailers, but we also recognize the importance of protecting the User Information, including any Registration Data (as defined herein), we may collect about You. Company has developed this Privacy Policy in an attempt to balance our legitimate business interests in collecting and using information with Your reasonable expectations of privacy for your personal information provided to us when visiting our Website and/or subscribing to our Service.
+At comiXology, we respect your privacy. We endeavor to make our policies for the collection and use of information relating to you and others who use our services understandable and fair. This Privacy Policy (this “Policy”) describes the information we collect, how we use that information, the purposes for which we share such information with others, and how you can contact us to ask any questions or express any concerns you may have about our privacy practices or information that you have provided.
 
-Please review the entire policy to learn about what type of User Information Company gathers about You, how Company uses the User Information, what User Information is disclosed and to what third-parties and how Company safeguards Your User Information. Of course, feel free to contact us if you have any questions.
+This Policy applies to information collected by the “Comics” application for mobile and tablet devices, laptops, and desktops (the “App”) and the comiXology websites ([www.comixology.com](http://www.comixology.com/) and [pullist.comixology.com](http://pullist.comixology.com/)) (collectively, the “Site”). We may refer to the App and the Site collectively as our “Service.” We refer to the comic books and other literature offered through our service as “Content.”
 
-This policy may change from time to time so please check back periodically so you are familiar with our current Privacy Policy. 
+This Policy does not cover the collection and use of your personal data on other applications, websites, or services, or by our business partners, or any other information or communications that may relate to comiXology outside of the App and the Site.
 
-### Company’s Collection of User Information:
+The company that operates under the comiXology brand and provides the Service is Iconology, Inc. (the “Company”), 159 West 25th Street, 9th FL, New York, NY 10001 (USA). You can contact us by email at [support@comixology.com](mailto:support@comixology.com). We may also refer to the Company by words such as “we” or “us.”
 
-Company collects Website user information (“User Information”) in various ways, including (i) obtaining Registration Data (e.g. name, e-mail address, mailing address, credit card information, industry, occupation or other personally identifiable information) that You supply when subscribing to our Service through the Website and other personally identifiable information that You provide when You request information from Company, discuss a Service issue over the telephone with a Company employee, participate in on-line surveys, download the Software or a Software update, purchase other products or services from Company or otherwise use the Service, and (ii) obtaining preference tracking information from our use of "cookies" and other technology and other aggregate activity logging (“Movement User Information”). 
+### 1\. Information We Collect and How We Use It
 
-When You are an End User that registers with the Service or a Retailer that subscribes to the Service, Company allows You to create a unique account (“Member Account”) with an End User ID and individual password based upon Your personally identifiable information or a unique Retailer account (“Retailer Account”) with a Retailer ID and individual password based upon Your identification information, as applicable (hereinafter, a “Member Account” and a “Retailer Account” shall each be referred to as an “Account”). Company’s system will save Your User Information and use it to help identify You the next time that You log into the Service. The End User ID or Retailer ID is intended to save You time and provide You with easier access to the Service and other products and services. 
+We collect information that you input into our Service and data generated by your use of our Service. We describe these two types of information below and explain how, alone or in combination with other data we collect, we use them.
 
-If You are an End User, Company also enables You to send e-mails via your End User ID to other Members and potential Members to share with them information about the Website and the Service and the pull lists. To fulfill your request, Company may require personally identifiable information about the person to whom you are sending the e-mail such as their name and e-mail address; however, the personally identifiable information that you provide about that person is used only for the purpose for which it is collected and Company will not use that information to market directly to that person other than what will already be presented via the text of the e-mail that is initiated by You. Company will, however, use software and other tools to track the frequency of activity of the messaging and quantify for its marketing and other business purposes the responses to these messages by potential Members (i.e. whether the potential Member has decided to register with the Service). 
+### 1.1 Information You Input
 
-If You are an End User and You use any bulletin board or chat room offered through the Service, make a pull list available to other Members through the Service or post a Member profile at the Service available for viewing by other Members, please note that any of the information that you share will obviously be visible to other Members and the information that You make available through a bulletin board or chat room or Your Member profile can be read, used and collected by other Members to send You unsolicited messages outside of the Service. Company is not responsible for how the personally identifiable information that You decide to share will be used by other Members.
+You may input information to make use of certain features of our Service. For example, when you create an account with us you will enter information about yourself such as username, email address, and other relevant information we request, when you use the search features on our Service you enter the terms you wish to search for, and the “Buy in Print” feature on the App allows you to enter your zip code to obtain information about nearby comic book stores. You enter your credit card information to purchase Content through your account with us. Such credit card information (including account numbers, expiration dates, and security codes) is transferred to a third-party provider of card services and is not retained by us (see the information in section 2 regarding third parties providing services).
 
-As is regular practice on many company websites, the Website uses “cookies” and other technologies to help us understand which parts of our Website are more popular and how much time our visitors spend there. A cookie is a small amount of data that is sent to Your browser from a web server and is stored on Your computer's hard drive. Cookies allow You to enter your password less frequently during an online session. We may use a separate cookie to track the Website's aggregated page views, which tells us which features are most interesting to our End Users. Our cookies do not store personally identifying information about You. Since cookies are now used as industry standard, most web browsers automatically accept cookies, but You can usually change Your browser to decline cookies. Our Website logs IP addresses and browser types (primarily for systems administration purposes), but we do not match IP addresses to any personally identifiable information. This means that Your Website session will be tracked, but You can remain anonymous in the public areas of our Website. You can browse those areas of our Website without entering any personally identifiable information and, therefore, remain anonymous during Your visit. If You prefer not to enable cookies, You may choose to disable them; however, please note that certain features on the Website will not be available to You once cookies are disabled. 
+When you purchase Content offered in the App using your account with a third party app store we do not collect the credit card information that you use for such purchases, and we are not responsible for the policies and practices of such app stores.
 
-We also gather certain use information automatically and store it in our log files. This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, click stream data, operating system and date/time stamp. We may use this information to administer the Website, track movements around the Website, analyze trends and gather demographic information. The information does not identify individual End Users and Company will not use any of the information to market directly to that End User. 
+We use your account with us to allow Content that you have purchased or downloaded while logged in on one device to be accessible on all devices through which you access our Service while logged into your account. We may use your search terms to recommend to you Content that we think might interest you. We may use your email address to let you know about products, services, events, or issues relating to the world of comic books and other literature that might interest you. You may opt out of receiving such emails through a link in such emails or by notifying us at [support@comixology.com](mailto:support@comixology.com). Whether or not you opt out of such emails, we may use your email address to provide information to you regarding your purchases and downloads including any enhanced features that may be made available, changes to our terms of use or policies, service or operational matters, or other matters as permitted by applicable law.
 
-Further, in some of our e-mail messages, we use a “click-through URL” linked to content on the Company Website. When an End User clicks onto one of these URLs, the End User will pass through our Web server before arising at the destination web page. We track this click-through data to help us to determine subscriber interest in this subject matter and measure the effectiveness of these subscriber communications. You can avoid not to be tracked simply by not clicking text or graphic links in the e-mail. 
+### 1.2 Information We Collect Automatically
 
-Finally, we may use pixel tags, which are tiny graphic images, in order to (i) advise us of what parts of our Website You have visited, (ii) measure the effectiveness of any searches that are performed on our Website and (iii) enable us to send e-mails in a format that You can read and tell us whether e-mails have been opened in order to ensure us that we are sending messages that are of interest to our End Users. 
+Your use of our Service generates information that the Company collects automatically. This section summarizes the important types of information that we may collect.
 
-The Website contains links to other web sites. We encourage you to visit those web sites to learn more about their online privacy as they may differ from this Privacy Policy. Company does not control the privacy policies of other sites to which we may provide hyperlinks. 
+#### Hardware, Software, and Network Data
 
-To the extent that any Registration Data or other personally identifiable information is collected, we use this contact information for business purposes, such as responding to requests for information about Company and products and services, providing access to certain products and services, and for registration to Company. 
+We may collect information about the type and version of the device you use to access our Service, operating system, IP address assigned to the device by the third party providing Internet access to the device, unique device identifiers, and mobile network information, including mobile phone number. When you first access our App after downloading it from a third party App store, the App will give us information about the device you are using, and we may generate a unique identification number that we will associate with the device.
 
-By submitting your information to us and by using the Website, You are consenting to our use of Your data as described herein and are consenting to the Terms of Use. If you do not consent, You should not register with Company and you should not use the Website. 
+This information and any identification number we generate will, in the case of our App, enable us to provide to your device Content properly configured for that device, and to keep a record of the Content that you purchase or download. If you choose to create an account with us, that record will enable you to access all Content you purchase or download while logged in on any one device on all devices through which you access our Service while logged into your account.
 
-### Use of User Information Collected:
+We may use IP addresses to determine what State or Country the device is in. We may use that data to comply with various legal obligations, such as geographic restrictions on the distribution of certain Content and payment of taxes, to display geographically appropriate Content, policies, notices, and advertisements, and to better understand the geographic distribution of our customers. If required to meet our legal obligations, such as payment of taxes, we may use such data to obtain more specific information about the locations from which our services are used.
 
-The User Information that we collect may be added to our databases and used for future communications regarding Website updates, new products and services, and status of membership subscriptions placed online. The User Information that we collect from cookies and browser identification provides demographic data about our End Users in the aggregate that we use to improve our Service and tailor our offerings. Personally identifiable information included in User Information, including any Registration Data, may also be used for marketing and promotional purposes for a statistical analysis of the behavior of End Users, for product development, for content improvement, or to customize the content and layout of our Website. 
+If you use the “Buy in Print” feature of the App, the App will ask if we may determine your location. If you consent, and if any required location services on your device are enabled, we will use data from your device to determine your approximate location and provide information about nearby comic book stores.
 
-In addition, we will, on occasion, send emails to End Users about our services or third-party products when you have expressed an interest in them. If You do not want to receive email or other mail from us, either choose to “Opt Out” and remove yourself from continued receipt of e-mail messages or send an email to us at [optout@comixology.com](mailto:optout@comixology.com?subject=Opt%20Out).
+#### Content Selection
 
-Our policy is not to share User Information with third parties other than as specified under the heading [“When do we Share User Information with Third-Parties?”](http://www.comixology.com/#share) unless required by law, or unless you explicitly request us to share your User Information with a third-party. We recognize that your User Information is valuable and we take all reasonable measures to protect Your User Information while it is in our care and will use it only as we set forth in this policy.
+We may collect information about the Content that you purchase, place in your cart without purchasing, or search for or browse. We may use that information to recommend to you Content that we believe might interest you.
 
-### When do we Share User Information with Third-Parties? 
+#### Tracking Technologies Including Cookies
 
-We may share your User Information with third-parties under the following circumstances:
+We use, and allow third parties to use, various technologies (“Tracking Technologies”) that enable tracking and collection of information about your activity on our Service or on other Company or third party services. This may include information about whether you accessed our Service, what pages or views you accessed, how long you stayed on each page or view, what Content you browsed, placed in your cart, downloaded, or purchased, as well as the hardware, software, and network data discussed in the preceding section. All of these technologies collect information concerning the activity of a computer or other device without regard to the identity of the person using the device.
 
-  * ### Affiliated Business We Do Not Control, including Retailers that have executed a Retailer Subscription Agreement
+* Cookies: Cookies are small pieces of information that a website places on a computer. Cookies can be used to recognize a return visitor and collect and store information about that visitor’s prior activity on the Site.
 
-We work closely with certain business partners, including Retailers that have executed a Retailer Subscription Agreement. Part of the value of the Service is that we can provide the information in an End User’s pull lists and other general ordering information and information about End User use of the Website to Retailers.
+* Pixel Tags: Pixel tags, also referred to as web beacons, are pieces of data embedded in an image on a website or email that allow for tracking of your activity on a website or your actions with regard to an email, such as whether you opened the email or accessed a link within the email.
 
-In addition, if You are an End User and You fill out forms or otherwise provide us with Registration Data or other personally identifiable information and You, "Opt-in" to receive information about your area Retailers, we may provide your Registration Data or other personally identifiable information to the area Retailers that have executed a Retailer Subscription Agreement with the Company so that they can provide a service to You, including making the comic books on Your pull lists available to You. In this respect, these area Retailers may contact you directly about comic books that they have available or other products and services that may be of interest. These area Retailers may also further solicit You in the future.
+* Server Logs: Server logs, located on the server providing a website, contain records of a user’s activity on a website, including information about any links the user clicked on while on the site and information about the website the user came from.
 
-Should you fill out forms or otherwise provide us with Registration Data or other personally identifiable information and choose to access other products or services offered directly through our Website or through the website of one of our business partners, we may also share Your information with certain of our business partners offering these products or services who may in turn solicit you in the future. For example, if You create or use a comiXology login on the Website or a comiXology-compatible login on the website of one of our business partners and You use either such login to access a product or service provided by us or by our business partner, we may share User Information, such as your e-mail address and your opt-in/opt-out status, with our business partner. Such sharing of information is intended for Your convenience so that You experience seamless continuity when transferring between the products and services we provide and the products and services our business partners provide.
+* Anonymous Identifiers: Anonymous identifiers are text strings that function like cookies, but are used on mobile devices or other platforms that do not accommodate cookies.
 
-  * ### Business Transfers
+* Internal Tracking Identifiers: Internal tracking identifiers are text strings embedded in web addresses (including links in emails) used to track activity on websites.
 
-As we continue to develop our business, we might sell or buy assets. In such transactions, subscriber information generally is one of the transferred business assets. Also, in the unlikely event that Company or substantially all of its assets are acquired, End User and Retailer information will of course be one of the transferred assets.
+We, or third parties with our permission, may use Tracking Technologies in the following ways:
 
-  * ### Protection of Company and Others
+* To manage our business and improve our Service based on factors such as how many users visit or use our Service, what pages and views are accessed, whether visitors are new or repeat visitors, which features and Content of our Service most interest our visitors, and how our Service performs from a technical point of view (such as the speed with which content loads and the incidence of technical problems).
 
-We release User Information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Use, the EULA, the Retailer Subscription Agreement and other agreements; or to protect the rights, property, or safety of Company, our End Users, or others. This includes exchanging information with other companies and organizations for fraud protection.
+* To provide personalized recommendations, Content, advertising, marketing emails, and guidance on Service features based on your activity on our Service, such as prior purchases, abandoned shopping cart selections, and browsing activities.
 
-  * ### Aggregate Site Use Information
+* To remember actions you took to avoid asking you to repeat them during a session or to provide features such as enabling you to bookmark, or resume reading at the last page you accessed, synchronized across devices.
 
-We may release aggregate Site User Information (without revealing any personally identifiable information about You) to advertisers and other third-parties in order to describe use of the Website and otherwise promote the user experience on the Website and share the results of pull lists.
+* To enable us or third party advertising companies to collect and store information regarding your activity on the App, the Site, our other services, or third party services to provide you with advertisements tailored to your inferred interests or to measure the effectiveness of marketing campaigns. The third party advertising companies may serve advertisements for us or for other companies on the App, the Site, our other services, or on third party services.
 
+* To measure and analyze activity on the App, the Site, our other services, and third party services. In addition to the uses outlined above, we or any provider of such measurement and analytical services may provide analyses of aggregate, non-personally identifiable data to third parties.
 
+Generally, Internet browsers contain controls for managing cookies. Those controls may enable you to delete cookies or to accept or reject certain categories of cookies. You may be able to manage other (non-cookie) tracking technologies through the websites of the firms that provide such technologies. You should consult the “Help” section of your browser or the website of your hardware, software, or operating system providers for further information.
 
+#### Remarketing
 
-By submitting Your information to us, You are consenting to the uses we describe above. If You do not consent to these uses, we suggest you opt out where available, activate blocking technology if available in your browser, choose not to submit your data to us when we request it from You or otherwise choose not to use the Website.
+We may use Google remarketing services, which allow Google to serve advertisements to you on our behalf based on your activity on our Site. This involves placing on our Site pages a small piece of code provided by Google. This code enables Google to place a cookie on your computer that tells Google about your visit to our Site and allows Google to recognize you and display relevant advertisements when you visit other websites within the Google Display Network. We may also use similar remarketing services from other companies.
 
-### What websites does this Privacy Policy apply to?
+#### Opting Out of Third Party Personalized Advertising
 
-This Privacy Policy applies to the Company’s Website only. There are links on this Website to other websites and this Privacy Policy does not apply to any other website that has a link on our Website. If you click on a link and leave our Website, You should check the privacy policy of that website.
+You may be able to opt-out of receiving personalized online advertisements from advertisers or advertising networks who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out sections on the websites of each of those organizations. Links to those sites are here:   
+<http://www.networkadvertising.org/choices/>  
+<http://www.aboutads.info/choices/>
 
-### How Secure is the User Information?
+### 2\. Information We Share
 
-The importance of security for all User Information associated with our visitors and subscribers is of utmost concern to us.  We use Secure Sockets Layer (SSL) encryption on all web pages where personally identifiable information is required and otherwise exercise reasonable care in providing secure transmission of your information from your PC to our servers and ensuring the security of your information on our systems. To make purchases from the Service, you must use an SSL-enabled browser such as Safari, Netscape Navigator 3.0 or later or Internet Explorer which protects the confidentiality of your personal and credit card information while it is transmitted over the Internet.  Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we take steps to protect your information, Company can't ensure or warrant the security of any information you transmit to us or from our online products or services, and You do so entirely at your own risk.
+We may share your information with the following, or under any of the following circumstances:
 
-### What Choices Do I Have? 
+Our corporate affiliates such as a corporate subsidiary.
 
-You can choose not to provide your Registration Data to us or You may choose to not fill out any forms on the Website. 
+* Our business partners, if through our Service or their services you have requested a product or service that requires us to share the data. If you use your comiXology log-in to access the digital store of, to use “pull list” or other services relating to, or opt-in to receiving information about, our retail affiliates, we may provide your email address and other account information to the relevant affiliates, and they may use that address to send you marketing emails subject to applicable law and their own privacy policies and terms of use.
 
-Should you receive an unwanted email or direct mail piece from Company, You have the option to “Opt Out” of future emails or send an email to Company as described under “[Use of User Information Collected](http://www.comixology.com/#user)” to be removed from future direct mailings.
+* Our current or prospective business partners, including publishers who provide content for any of our services, who have a need to understand the nature and operation of our business, such as sales and usage trends. Information provided in this respect is aggregated and not personally identifiable.
 
-### How Can I Access and Update My Registration Data?
+* Publishers or other business partners for whom we provide technology or management services for digital stores operated under their own brands. If you use your account credentials to log into such branded stores, we will provide your account email address to such partners and they may use that address to send you marketing emails and other information subject to applicable law and their own privacy policies and terms of use.
 
-Any party who has provided contact information may go to the Member Profile link located at [www.comixology.com](http://www.comixology.com/) to update his/her Registration Data. 
+* Third parties we have retained to perform services on our behalf, such as Content hosting and delivery, data analytics, marketing and advertising, and payment services.
 
-### Conditions of Use, Notices, and Revisions
+* In connection with a business transaction involving transfer of our Company or a business of ours, information relating to customers typically would be included in the assets transferred.
 
-If You choose to visit any part of the Website, Your visit and any dispute over privacy is subject to this notice (“Privacy Notice”) and our general Terms of Use, including disclaimers of warranties and application of the law of the State of New York. 
+* If you consent.
 
-If You have any concern about privacy at Company, please send us a thorough description and we will try to resolve it pursuant to the dispute resolution provision of the general Terms of Use.  You can send an email to [privacy@comixology.com](mailto:privacy@comixology.com?subject=Privacy). 
+* For the following reasons relating to legal matters or corporate responsibility based on our good faith assessment of the appropriate course under the circumstances: (a) as required by legal process or any law to which we are subject, (b) in response to a request by a court, law enforcement authority, or government agency or official that we believe would have the power to compel compliance if we refuse, (c) to protect our rights under our contracts, terms of service, and end user license agreements, and to otherwise protect our rights, (d) to protect the rights or welfare of others, including our employees and owners of copyright or other intellectual property in Content, (e) to prevent or mitigate physical harm to person or property or financial loss, (f) to assess or mitigate credit risk, and (g) to conduct any investigation relating to the foregoing.
 
-Please remember to include your postal address, email address and phone number with Your correspondence.
+### 3\. Geography
 
-This Privacy Notice and the general Terms of Use may change without notice, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. If You have concerns, please check this Privacy Policy and the general Terms of Use before submitting information to the Website.
+We are based in the United States (“U.S.”). Any data collected in connection with our Service may be transferred to, processed, and stored within the U.S. or other countries in which we do business or our service providers transfer, process, or store data.
+
+### 4\. Children Under 13
+
+We do not knowingly collect personal information from children under 13. Any parent or guardian who believes that a child may have provided personal information to us without the knowledge of that parent or guardian should contact us at [support@comixology.com](mailto:support@comixology.com).
+
+### 5\. Data Security
+
+The security of information relating to our customers is very important to us. We use reasonable methods to protect that information, and review and adjust those methods as appropriate. We use Secure Sockets Layer encryption for the transmission of account registration and payment data, and in other instances where appropriate. You should understand that no feasible system of data security is invulnerable.
+
+### 6\. Links to Other Websites
+
+We may provide links to various third party websites. Those sites are not under our control. Those sites may have their own privacy policies, which we strongly suggest you review if you visit them. We are not responsible for those third party privacy policies or the related data processing practices.
+
+### 7\. Changes to this Policy
+
+We may change this Policy at any time and without prior notice to you. If the changes are substantive, we will notify you by posting or displaying a notice on our Service, by email, or by any other method we choose in our discretion. To view notices on our App, you may need to download the updated App as made available from time to time on the applicable app store. Changes are effective when the revised Policy is made available on our Service or through any other method we choose in our discretion, or at such later date as may be stated in the notice of change or revised Policy. Your use of the Service after a change is effective will be governed by the Policy as changed. The Policy in effect at any time governs our use of all information in our possession at that time. However, if we change the Policy in a way that materially reduces the protections afforded information collected prior to the change, we will not apply that change to that previously collected information without the consent of the affected customers. Please review this Policy from time to time so that you are aware of any changes. We will indicate above the effective date of this Policy.
