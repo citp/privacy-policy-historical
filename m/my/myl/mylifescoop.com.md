@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mylifescoop.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604192522id_/http%3A//mylifescoop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylifescoop.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225174703id_/http%3A//mylifescoop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement for MyLifeScoop.com — Life Scoop
+# Privacy Statement for MyLifeScoop.com - My Life Scoop
 
-The web site MyLifeScoop.com ("Site") is a website of Intel Corporation ("Intel") who is committed to protecting the privacy of information you provide to this site. This Statement of Privacy applies to the Site and governs collection and usage of personal data through this Site. This Statement of Privacy does not apply to other Intel sites, products, or services.
+The web site MyLifeScoop.com (“Site”) is a website of Intel Corporation (“Intel”) who is committed to protecting the privacy of information you provide to this site. This Statement of Privacy applies to the Site and governs collection and usage of personal data through this Site. This Statement of Privacy does not apply to other Intel sites, products, or services.
 
 By using this Site, you consent to the collection and use of the information and data as described here. If we decide to change this privacy policy, we will post the changes on this page so that you will always know what information we collect, and how we use it.
 
@@ -10,7 +10,7 @@ By using this Site, you consent to the collection and use of the information and
 
 Once shared, Intel will only use your personal information in accordance with the respective Privacy Policies of each company.
 
-You may view Intel's Privacy Policy [here](http://www.intel.com/sites/corporate/privacy.htm?iid=HMPAGE+Footer_privacy)
+You may view Intel’s Privacy Policy [here](http://www.intel.com/sites/corporate/privacy.htm?iid=HMPAGE+Footer_privacy)
 
 Third parties such as Federated Media Publishing who assist Intel in the management of the Site may access and collect information on behalf of Intel through the Site, but they are not allowed to use this data for their own business purposes separate from their relationship with Intel. We will only share your personal data with these third parties according to applicable data protection laws or with your express permission. This data is used by these third parties solely for the purposes described under this Privacy Statement.
 
