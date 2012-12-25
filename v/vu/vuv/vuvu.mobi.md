@@ -1,83 +1,100 @@
-> *The following text is extracted and transformed from the vuvu.mobi privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603202511id_/http%3A//vuvu.mobi/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vuvu.mobi privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225102936id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy ‹ Online Movie ‹ vuvu.mobi
+# Legal Agreement
 
-VUVU.mobi is committed to protecting your privacy. VUVU.mobi does not sell, trade or rent your personal information to other companies. VUVU.mobi will not collect any personal information about you except when you specifically and knowingly provide such information. The following contains details on how we treat all information collected on VUVU.mobi
+**Go Daddy Respects Your Privacy**
 
-**Your Acceptance**
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-BY USING AND/OR VISITING THIS WEBSITE (collectively, including all Content available through the VUVU.mobi domain name, the “VUVU Website”, or “Website”), YOU SIGNIFY YOUR ASSENT TO TERMS OF USE, WHICH ARE PUBLISHED AT http://www.vuvu.mobi/terms.html, AND WHICH ARE INCORPORATED HEREIN BY REFERENCE. If you do not agree to any of these terms, then please do not use the VUVU.mobi Website.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**All Users Activity**
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-Everyone can use VUVU.mobi without having a VUVU.mobi Account or any other Account.
+**Information Collection and Use**
 
-**Usage Information**
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We may record information about your usage, such as when you use VUVU.mobi website, how many times you visit the website and other non-personal identifiable information.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**Uses**
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-If you submit personally identifiable information to us through VUVU.mobi, we use your personal information to operate, maintain, and provide to you the general and personalized features and functionality of VUVU.mobi, and to process any flagging activity or correspondence you send to us.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major VUVU.mobi changes).
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of VUVU.mobi and to create new features, promotions, functionality, and services by storing, tracking, analyzing, and processing user preferences and trends, as well as user activity and communications.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-We use cookies and log file information to:
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-  * provide custom, personalized content and information;
-  * monitor the effectiveness of our marketing campaigns;
-  * monitor aggregate metrics such as total number of visitors, pages viewed, time on site, bounce rate, etc… 
+**Security**
 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
+**Updating Your Information**
 
-**Third-party Advertisers, Links to Other Sites**
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-VUVU.mobi allows other companies, called third-party ad servers or ad networks, to serve advertisements within VUVU.mobi. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on VUVU.mobi. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-VUVU.mobi does not provide any personally identifiable information to third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**Third Party Cookies**
+      iii.      You may call us at: (480) 505-8800
 
-A cookie is a very small text file that a Web site saves to your computer’s hard disk to store information that you provide about yourself or to store your preferences.
+       iv.      You may fax us at: (480) 505-8844
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+**Sending Emails**
 
-**External Links**
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-This site contains links to other sites. VUVU.mobi is not responsible for the privacy practices or the content of such Web sites. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**General**
+**Compliance with Laws and Law Enforcement**
 
-Our terms of service are restrictive, and all users are advised that access to this site and use of the services detailed within are strictly conditional upon your confirmation that you fully understand our terms of service, that you agree to comply fully with them and that you indemnify us (VUVU.mobi) in respect of any failure on your part to fully comply with these terms. By clicking on the link to proceed or otherwise using this site, you signify your unequivocal acceptance of these and any other terms prevailing at this or at any future time, details of which will be clearly provided at such time.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Relationship**
+**Third Party Service Providers**
 
-The relationship between you (the user) and us (VUVU.mobi, our agents, partners and staff) is that of our providing you with access to the referencing material contained within this site, which is provided on a purely non commercial basis and is therefore not that of customer and supplier, master and servant. We (VUVU.mobi) are the final arbiters in any dispute and our decision in any dispute is final.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-**Content**
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-This site does not host, provide, archive, store, distribute or purport to disseminate material or media of any kind, and acts merely as an index (or catalogue) of media posted by others outside of our control.
+**Supplementation of Information**
 
-Whereas we do not filter such references, we cannot and do not attempt to control, censor, or block any material that may be considered offensive, defamatory, libelous, obnoxious, inaccurate, deceptive, unlawful or otherwise distressing neither do we accept responsibility for such content or the consequences of such content being made available.
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-Material may be inappropriately described or subject to restrictions such as copyright, licensing and other limitations, and it is the responsibility of those having access to such material to comply with any and all lawful obligations arising from such material coming into their possession and thus mitigate any alleged transgression.
+**Contests/Surveys**
 
-Therefore, regarding access to content:
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-All users warrant that they are 18 years of age or older, and therefore qualified to enter into this Agreement either as an individual or as a corporate entity.
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-All users undertake to comply with the national laws applicable to the country in which they reside and observe the rights inherent in any copyright material whilst upholding the rights of any copyright owner.
+**Tell-A-Friend**
 
-All users are advised to use caution, exercise discretion and use common sense and personal judgment when using this site or any references detailed within, and to respect the wishes of others who may value freedom from censorship as consenting a****s equal to (or possibly superior to) your own personal preferences.
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-**Copyright Policy**
+**What Happens to my Personal Information if I Opt Out?**
 
-Lyrics posted in VUVU.mobi are in public domain or from site visitors or if lyrics are old enough to become public domain. If you see lyrics in our database that you hold licensing rights for AND DO NOT WANT THEM INCLUDED in our database, please [contact us](http://vuvu.mobi/contact-us/) to exclude the lyrics from the database.
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-VUVU.mobi is absolutely legal and contain only embed videos provided from legal and public domains on the Internet such as youtube.com, google.com, dailymotion.com, myspace.com, yahoo.com, tudou.com, veoh.com, youku.com and others. We do not host or upload any video, films, media files (avi, mov, flv, mpg, mpeg, divx, dvd rip, mp3, mp4, torrent, ipod, psp), VUVU.mobi is not responsible for the accuracy, compliance, copyright, legality, decency, or any other aspect of the content of other linked sites. If you have any legal issues please contact appropriate media file owners / hosters.
+**Transfer of Data Abroad**
 
-However, VUVU.mobi respects all copyright and license owners and adheres to the Digital Millenium Copyright Act. If you have any questions about our site or content displayed please [let us know](http://vuvu.mobi/contact-us/), we would be glad to assist you.
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-VUVU.mobi reserves the right to update this policy at any time without notice. If you still have any questions, please [Contact us](http://vuvu.mobi/contact-us/).
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
