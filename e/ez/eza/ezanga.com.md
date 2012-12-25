@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezanga.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626201044id_/http%3A//www.ezanga.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezanga.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225062029id_/http%3A//www.ezanga.com/about/privacy.php) for the most accurate reproduction.*
 
 # eZanga.com | The Frog History
 
@@ -31,7 +31,7 @@ _Information sharing_
   * When required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial    proceeding, a criminal investigation, a court order, or legal process served on our Web site. We may also share your    personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities,    suspected fraud, situations involving potential threats to the physical safety of any person, violations of eZanga.com's    terms of use, or as otherwise required by law.
   * If you have an account, we may share the information submitted under your account among all of our services in order to    provide you with a seamless experience and to improve the quality of our services. We will not disclose your account    information to other people or non-affiliated companies, except in the limited circumstances described in this Policy or with    your consent.
   * We may store and process personal information collected on our site in the Canada or any other country in which    eZanga.com or its agents maintain facilities. By using our services, you consent to the transfer of your information among    these facilities, including those located outside your country.
-  * eZanga.com may use third party service providers to serve ads and emails on our behalf. These companies may use    technologies to measure the effectiveness of ads and emails and use information about your visits to eZanga.com so that    we can provide a better search experience to you. For this purpose, we may also provide these third parties service    providers anonymous information about your site navigation.
+  * eZanga.com may use third party service providers to serve ads and emails on our behalf. These companies may use    technologies to measure the effectiveness of ads and emails and use information about your visits to eZanga.com so that    we can provide a better search experience to you. For this purpose, we may also provide these third parties service    providers anonymous information about your site navigation. Some of those third parties may use this information to tailor advertising to your interests.
   * We may share certain information about you with carefully selected business partners, including those who may offer   services that complement those provided by us or which we believe may be of interest to you. We may also disclose   information to third parties who assist us in providing our services to you. For example, we may engage third parties to   make improvements on our site, to offer new products and to allow us to customize your experience on the Site. 
 
 
@@ -43,9 +43,13 @@ _Correspondence_
 
 _Third Party Information Gathering_
 
-: eZanga.com includes content and ads from third parties that may perform user activity tracking other than that described herein. These other sites may place their own cookies on your computer, collect data or solicit personal information. For more information about each third party content provider, cookies, and how to "opt-out", please refer to such third party advertiser's privacy policy eZanga.com contains links to other sites on the Web. Please be aware that eZanga.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+: eZanga.com includes content and ads from third parties that may perform user activity tracking other than that described herein. These third parties may place their own cookies on your computer and collect data. For more information about third party advertising, cookies, and how to "opt-out", please visit <http://www.networkadvertising.org/managing/opt_out.asp>
 
-_Children's Privacy_
+_Third Party Links_
+
+: eZanga.com contains links to other sites on the Web. Please be aware that eZanga.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
+
+ _Children's Privacy_
 
 : eZanga.com does not knowingly request or collect personally identifiable information online or offline contact information from users under 13 years of age nor do we knowingly use or share personal information from users under 13 years of age with third parties. 
 
