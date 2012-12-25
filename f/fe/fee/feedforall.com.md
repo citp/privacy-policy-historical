@@ -1,7 +1,15 @@
-> *The following text is extracted and transformed from the feedforall.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630214518id_/http%3A//www.feedforall.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedforall.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225223441id_/http%3A//www.feedforall.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # RSS Feed Creation and Editing
 
+|  | 
+
+| 
+
+|   
+  
+---|---  
+  
 **Privacy Policy
 
 What Information We Collect 
@@ -37,3 +45,133 @@ The email address you provide for order processing, may be used to send you info
 **How do We Protect Your Information**
 
 We implement a variety of security measures to maintain the safety of your personal information. 
+
+|  | 
+
+### **11.04.12** ****  
+**FeedForAll Social**
+
+FeedForAll gets social! Follow us on social channels including: LinkedIn, Facebook, Twitter.
+
+[](https://web.archive.org/web/20121225223441id_/http%3A//www.feedforall.com/feedforall-social.htm)  
+  
+---  
+  
+### **02.22.10** ****  
+**RSS Education Center**
+
+Educational information for podcasters.
+
+[](http://www.feedforall.com/rss-education-center.htm)  
+  
+### **10.16.09** ****  
+**Audio Recording Tutorials**
+
+Video tutorials that explains podcasting and audio recording.
+
+[](http://www.recordforall.com/audio-recording-videos.htm)  
+  
+### **09.21.09** ****  
+**RSS Video Tutorials**
+
+Collection of video tutorials explaining RSS and podcasting.
+
+[](http://www.feedforall.com/rss-videos.htm)  
+  
+### **09.16.09** ****  
+**New Audio Software**
+
+A new version of RecordForAll has ben released!
+
+[](http://www.recordforall.com/recordforall.htm)  
+  
+### **10.27.08** ****  
+**Updated RSS2HTML Script**
+
+TheRSS2HTML script was updated.
+
+[](http://www.feedforall.com/free-php-script.htm)  
+  
+### **04.24.07** ****  
+**NEW RSSFilter Script**
+
+PHP script that filters the contents of a feed. 
+
+[](http://www.feedforall.com/rssfilter.htm)  
+  
+### **01.16.07** ****  
+**NEW RSS Feed and Podcast Management and Creation Software**
+
+Easily create, edit and publish feeds, including iTunes compatible RSS feeds. 
+
+[](http://www.feedforall.com/feedforall.htm)  
+  
+### **12.01.06** ****  
+**Free RSS Auto Discovery Code Generator**
+
+Instantly generate RSS autodiscovery code for HTML web pages.
+
+[](http://www.feedforall.com/autodiscovery.htm)  
+  
+### **10.11.06** ****  
+**RSS2HTML Pro Released**
+
+Advanced RSS script dynamically builds RSS item index and web pages. 
+
+[](https://web.archive.org/web/20121225223441id_/http%3A//www.feedforall.com/rss2html-pro.htm)  
+  
+### **09.26.06** ****  
+**New SQL2RSS Script**
+
+Dynamically create RSS feeds from databases.
+
+[](http://www.feedforall.com/sql2rss.htm)  
+  
+### **08.15.06** ****  
+**New RSS2HTML Template Directory**
+
+Creating webpages from RSS feeds just got easier.
+
+[](http://www.feedforall.com/rss2html/index.htm)  
+  
+### **03.15.06** ****  
+**New RSS Scripts Diretory**
+
+A new RSS Scripts Directory contains helpful scripts for managing, manipulating and converting RSS feeds.
+
+[](https://web.archive.org/web/20121225223441id_/http%3A//www.feedforall.com/scripts-directory.htm)  
+  
+### **03.08.06** ****  
+**RSSmesh**
+
+RSSmesh script merges multiple RSS feeds into a single RSS feed.
+
+[](http://www.feedforall.com/rssmesh.htm)  
+  
+### **01.26.06** ****  
+**RSS Cache**
+
+The rss2html Cache module can be used by users of the rss2html.php script and will increase the display time of RSS feeds. 
+
+[](https://web.archive.org/web/20121225223441id_/http%3A//www.feedforall.com/rss-cache.htm)  
+  
+### **01.03.06** ****  
+**New Namespace Directory**
+
+NotePage, Inc. is pleased to announce the compilation of an RSS extensions directory. RSS is the standard for online information and news syndication. 
+
+[](https://web.archive.org/web/20121225223441id_/http%3A//www.feedforall.com/directory-namespace.htm)  
+  
+### **01.10.05** ****  
+Podcasting Tutorial
+
+Step by step tutorialfor podcasting. Setup podcasts in minutes!
+
+[](https://web.archive.org/web/20121225223441id_/http%3A//www.feedforall.com/podcasting-tutorial.htm)  
+  
+### **12.10.04** ****  
+FREE RSS Button Tool
+
+Create customized RSS buttons that match your website instantly! 
+
+[](https://web.archive.org/web/20121225223441id_/http%3A//www.feedforall.com/public/rss-graphic-tool.htm)
