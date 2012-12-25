@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mercyhurst.edu privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604090931id_/http%3A//www.mercyhurst.edu/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercyhurst.edu privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225234856id_/http%3A//www.mercyhurst.edu/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mercyhurst College
+# Privacy Policy | Mercyhurst University
 
   * [Home](http://www.mercyhurst.edu/ "Home") » 
   * [About](http://www.mercyhurst.edu/about/ "About") » 
