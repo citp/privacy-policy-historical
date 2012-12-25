@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livelifehappy.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616002819id_/http%3A//www.livelifehappy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelifehappy.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225082439id_/http%3A//www.livelifehappy.com/privacy-policy) for the most accurate reproduction.*
 
 # Live Life Happy Privacy Policy
 
@@ -54,5 +54,3 @@ If you have any questions about our privacy policy, **please send an email to li
 
 [](http://creativecommons.org/licenses/by-nc-nd/3.0/)  
 Quotable Posters by [Robert Tew](http://www.livelifehappy.com/) is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/).
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.livelifehappy.com%2Fprivacy-policy%2F&media=http%3A%2F%2Fi.creativecommons.org%2Fl%2Fby-nc-nd%2F3.0%2F88x31.png&description=Privacy+Policy)
