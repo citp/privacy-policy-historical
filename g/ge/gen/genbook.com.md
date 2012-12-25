@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the genbook.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619031313id_/http%3A//www.genbook.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genbook.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225134329id_/http%3A//www.genbook.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Legal | Genbook
 
 [](https://privacy.truste.com/privacy-seal/Genbook,-Inc-/validation?rid=d7d295a6-9377-49b1-b899-195938c405b8 "Validate TRUSTe privacy certification")
 
-Dated April 3rd, 2012
+Dated April 3, 2012
 
 Genbook, Inc. owns and provides various websites, mobile websites, services, and software that facilitate online scheduling and management of appointments (collectively, the “Services”). Genbook, Inc. respects your privacy and values your trust. In this Privacy Policy, we may refer to Genbook, Inc. as “Genbook,” “us,” or “we.” “Business User” shall refer to any business using the Services for online scheduling and appointment management purposes. “Consumer” shall refer to an end consumer using the Services to schedule or manage an appointment, provide feedback or submit a review, or utilize any other aspect of the Services. “You” shall refer to both Consumers and Business Users. The following Privacy Policy outlines how Genbook will treat information as you use the Services. BY USING THE SERVICES, YOU ACCEPT THE TERMS SET FORTH IN THIS PRIVACY POLICY AND IN OUR TERMS OR USE.
 
@@ -46,7 +46,7 @@ In the event that Genbook discovers that personal information has been or is com
 
 If a Consumer provides any Consumer Information or User Submitted Materials to the Services that are relevant to a Business User with whom that Consumer schedules an appointment or otherwise transacts through the Services, Genbook reserves the right to provide such Business User with the relevant Consumer Information and/or User Submitted Materials for purposes of managing the appointment and/or transaction with such Consumer, whether or not such information is Personally Identifiable Information.
 
-Pursuant to our Business User Terms of Use, we may provide relevant Business Information including but not limited to business name, address, contact phone number and scheduling website address to third parties in order to maximize the exposure of Genbook Business Users online and the number of appointments scheduled through the Services. If you do not wish to have your personal information shared with these third parties you may log into your account and select the appropriate settings or [contact us](http://genbook.com/manager/contactus).
+Pursuant to our Business User Terms of Use, we may provide relevant Business Information including but not limited to business name, address, contact phone number and scheduling website address to third parties in order to maximize the exposure of Genbook Business Users online and the number of appointments scheduled through the Services. If you do not wish to have your personal information shared with these third parties you may log into your account and select the appropriate settings or [contact us](https://web.archive.org/manager/contactus).
 
 We may use PII and any other information provided by a Business User or a Consumer through the Services for internal purposes, such as sales, human resources, marketing, and administration. We may share this information with third parties who provide us with administrative services, credit card processing services to process payments and email services to send out emails on our behalf. We will share your personal information only as is necessary for the third parties to provide their services. The third parties’ use of that information will be governed by their privacy policies.
 
@@ -106,7 +106,7 @@ Genbook will not share a Business User schedule with anyone, except to the exten
 
 ### Other Sharing of Information
 
-We may release information when necessary to comply with the law or a court order or an investigation. We also may release information to law enforcement to protect our rights, property, or other interests, including those of our customers or users or to prevent illegal activities or violations of our [Terms of Use](http://www.genbook.com/legal/index.html).
+We may release information when necessary to comply with the law or a court order or an investigation. We also may release information to law enforcement to protect our rights, property, or other interests, including those of our customers or users or to prevent illegal activities or violations of our [Terms of Use](https://web.archive.org/legal/index.html).
 
 In the event that we, in whole or in part, establish a partnership with another company, or are acquired by or merged with another company, information we collect may be transferred to the partner or the acquiring or merging company at time such merger, acquisition, or partnership is closed and to the extent necessary to fulfill our obligations under such merger, acquisition, or partnership.
 
@@ -122,4 +122,4 @@ We do not offer services to, or target, persons under the age of 13. In complian
 
 We have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure (when you enter sensitive information (such as a credit card number) on our website or our mobile website, we encrypt the transmission of that information using secure socket layer technology (SSL), but we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes. We cannot ensure the security of any information transmitted to us over the Internet, and we accept no liability for any unintentional disclosure of such information. You acknowledge that you provide your personal information at your own risk. If you have any questions about security on our Web site, you can [contact us](https://web.archive.org/manager/contactus).
 
-Please [contact us](http://www.genbook.com/manager/contactus) if you have any questions regarding our Privacy Policy.
+Please [contact us](https://web.archive.org/manager/contactus) if you have any questions regarding our Privacy Policy.
