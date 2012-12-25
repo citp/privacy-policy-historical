@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usbuildingdigest.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618153339id_/http%3A//www.digimogul.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usbuildingdigest.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225103738id_/http%3A//www.digimogul.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Digimogul
+# Privacy Policy | Digimogul
 
 This privacy policy sets out Directors Live, LLC uses and protects any information that you give DigiMogul when you use their websites.
 
