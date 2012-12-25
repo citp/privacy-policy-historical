@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the yupptv.com privacy policy that was archived on 2012-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622114224id_/http%3A//www.yupptv.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yupptv.com privacy policy that was archived on 2012-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225064406id_/http%3A//www.yupptv.com/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready" lang="en-EN"><head id="ctl00_Head1">
 
    
-<script type="text/javascript" src="js/util-functions.js"></script>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="js/util-functions.js"></script>
 <script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript">
 	document.createElement("header");
@@ -14,7 +14,7 @@
 	document.createElement("footer");
 	document.createElement("footerNav");
 </script>
-<link href="App_Themes/GoogleTv/images/style.css" type="text/css" rel="stylesheet"><link href="App_Themes/GoogleTv/style.css" type="text/css" rel="stylesheet"><link href="App_Themes/GoogleTv/VODStyle.css" type="text/css" rel="stylesheet"><link href="App_Themes/GoogleTv/yuppmovies.css" type="text/css" rel="stylesheet"><title>
+<link href="App_Themes/GoogleTv/fonts/stylesheet.css" type="text/css" rel="stylesheet"><link href="App_Themes/GoogleTv/images/style.css" type="text/css" rel="stylesheet"><link href="App_Themes/GoogleTv/style.css" type="text/css" rel="stylesheet"><link href="App_Themes/GoogleTv/VODStyle.css" type="text/css" rel="stylesheet"><link href="App_Themes/GoogleTv/yuppmovies.css" type="text/css" rel="stylesheet"><title>
 	YUPPTV Privacy Policy
 </title></head>
 <body>
@@ -22,6 +22,7 @@
     <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRkx8Qlqbed5s4n/Asl1/ZKCxicdXU=">
 
+    <div class="homefaqs"><a href="yupptv_faqs.html"></a></div>
 
 
     
@@ -35,17 +36,74 @@
     document.createElement("footerNav");
 </script>
 
+ <script type="text/javascript">
+
+        // Load the SDK Asynchronously
+      
+        (function(d)  {
+
+            var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+
+            if (d.getElementById(id)) { return; }
+
+            js = d.createElement('script'); js.id = id; js.async = true;
+
+            js.src = "//connect.facebook.net/en_US/all.js";
+
+            ref.parentNode.insertBefore(js, ref);
+
+        } (document));      
+
+
+ 
+        // Init the SDK upon load
+
+        window.fbAsyncInit = function () {
+
+            FB.init({
+
+                appId: '148295565314550', // App ID
+
+                channelUrl: '//' + window.location.hostname + '/channel', // Path to your Channel File
+
+                //channelUrl: '//ycast.tv/channel', // Path to your Channel File
+
+                status: true, // check login status
+
+                cookie: true, // enable cookies to allow the server to access the session
+
+                xfbml: true  // parse XFBML
+
+            });
+
+         
+}
+    </script>
+     
+        <script type="text/javascript">
+function after_login_button(){
+
+  FB.logout(function () {
+                             
+              });
+               
+      }  
+                               
+
+    </script>
+
 <iframe id="Iframe2" frameborder="0" height="0" name="Session" scrolling="no" src="SessionRefreshing.aspx" allowtransparency="true" width="0"></iframe>
 <div class="main-container">
     <header>
 
     <!-- header div start here -->
-    <div class="pad507 font14"><span class="yellow_colo"> Toll Free :</span>
+  <div class="pad507 font14"><span class="yellow_colo"> Toll Free :</span>
     <b>1866-663-7557 <span class="font11">(US and CANADA)</span>
-    , 44-116-228-2985 </b><span class="font11">(UK)</span>
+      , 44-116-228-2985 <span class="font11">(UK)</span>
+    , 1800-612-952 <span class="font11">(AU)</span></b>
  <a href="livechat.aspx" class="TopN"><img id="Img1" style="margin:4px 0px 0px 20px" src="App_Themes/GoogleTv/images/Live_Support.gif" alt="Live Support" width="129" border="0" height="28"></a>
 
-    </div>
+</div>
 
 
     <div class="yupp-tv-logo left"><a href="http://www.yupptv.com" title=""><img src="App_Themes/GoogleTv/images/yupp-tv-logo.png" alt=""></a></div>
@@ -59,7 +117,7 @@
 <a href="TeluguMainPackage.aspx">PACKAGES</a>
 
 
-<a href="Movies.aspx" class="movies">MOVIES</a>
+<a href="Movies/movies.aspx" id="ctl00_header1_A1" class="movies">MOVIES</a>
 <a href="VOD/Default.aspx" id="ctl00_header1_A2">VOD</a>
 <a href="devices.aspx" id="ctl00_header1_adevices">DEVICES</a>
 <div class="signbg"> 
@@ -84,7 +142,7 @@
     </div>
 </div>
 
-
+ 
         
 <meta name="DESCRIPTION" content=" YUPPTV Privacy Policy">
 <meta name="robots" content="index, follow">
@@ -202,13 +260,14 @@
   <!-- footer div start here -->
    <div class="footer-bg">&nbsp;</div>
 
-  <div class="main-container PaddingTopBot10_n" align="left"> <div style="float:left;">Copyrights 2012 YuppTV. All Rights Reserved.<a href="http://www.yupptv.com">Home</a>  |  <a href="help.aspx">Help</a>  | <a href="News.aspx">News &amp; Press Release</a> |  <a href="Contact.aspx">Contact</a> | <a href="termsconditions.aspx">Terms &amp; Conditions</a> | <a href="privacy.aspx">Privacy Policy</a>   | <a href="http://www.freedocast.com" title="live cricket"> Live Streaming </a> w1</div>
+  <div class="main-container PaddingTopBot10_n" align="left"> <div style="float:left;">Copyrights 2012 YuppTV. All Rights Reserved.<a href="http://www.yupptv.com">Home</a>  |  <a href="help.aspx">Help</a>  | <a href="News.aspx">News &amp; Press Release</a> |  <a href="Contact.aspx">Contact</a> | <a href="termsconditions.aspx">Terms &amp; Conditions</a> | <a href="privacy.aspx">Privacy Policy</a>   | <a href="http://www.freedocast.com" title="live cricket"> Live Streaming </a></div>
   <div class="connect">
 <a class="fb99" href="http://www.facebook.com/yupptv" target="_blank"></a>
 <a class="tw99" href="http://twitter.com/yupptv" target="_blank"></a>
 <!--<a class="in99" href="#" target="_blank"></a>-->
 <a class="sh99" href="http://www.youtube.com/yupptvlive" target="_blank"></a>
 </div>
+<div class="main-container PaddingTopBot10_n1" align="center">For Any Suggestions Please Write to feedback@yupptv.com</div>
   </div>
 </footer>
   <!-- footer div end here -->
