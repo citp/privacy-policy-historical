@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630180333id_/http%3A//www.ehow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225053758id_/http%3A//www.ehow.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | eHow.com
 
@@ -83,7 +83,7 @@ We utilize the self-assessment approach to assure our compliance with our privac
 
 **Privacy Concerns**. If you have any concern or complaint about privacy at the Site, please contact us at Demand Media, Inc. Legal Department, 5808 Lake Washington Blvd. Ste. 300, Kirkland, WA 98033, U.S.A or email us at [legal@demandmedia.com](mailto:legal@demandmedia.com). We will do our best to respond to you in a timely and professional manner to answer your questions and resolve your concerns. In the unfortunate and unlikely event that we cannot resolve your concerns, we have contracted with BBBOnline as a dispute resolution provider. You can contact the BBBOnline at <http://www.bbbonline.org/consumer/complaint.asp> and follow their guidelines for initiating their dispute resolution procedures. 
 
-**Customer Services**. For customer service matters (including questions relating to this Policy), you may email via our [contact form](http://help.ehow.com/home).
+**Customer Services**. For customer service matters (including questions relating to this Policy), you may email via our [contact form](http://www.ehowhelp.com/home).
 
 
 
