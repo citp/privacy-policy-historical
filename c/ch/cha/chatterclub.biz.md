@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chatterclub.biz privacy policy that was archived on 2012-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120421053855id_/http%3A//www.chatterclub.biz/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatterclub.biz privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225132051id_/http%3A//www.chatterclub.biz/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Data use policy
 
 This Privacy Policy governs the manner in which Chatterclub collects, uses, maintains and discloses information collected from users (each, a "User") of the www.chatterclub.biz website ("Site"). This privacy policy applies to the Site and all products and services offered by Chatterclub.
 
