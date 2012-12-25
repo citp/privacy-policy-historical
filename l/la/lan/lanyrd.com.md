@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lanyrd.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621220911id_/http%3A//lanyrd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lanyrd.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225194454id_/http%3A//lanyrd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lanyrd
 
@@ -14,15 +14,15 @@ Certain visitors to Lanyrd choose to interact with Lanyrd in ways that require L
 
 If a visitor marks themselves as tracking or attending an event, this information is made publicly visible.
 
-At present we use Twitter as our identification provider. Any use of Twitter on behalf of the individual is subject to the [Twitter Terms of Service](http://twitter.com/tos) and [Twitter Privacy Policy](http://twitter.com/privacy).
+Any use of Twitter on behalf of the individual is subject to the [Twitter Terms of Service](http://twitter.com/tos) and [Twitter Privacy Policy](http://twitter.com/privacy). Any use of Linkedin on behalf of the individual is subject to the [Linkedin User Agreement](http://www.linkedin.com/static?key=user_agreement) and [Linkedin Privacy Policy](http://www.linkedin.com/static?key=privacy_policy).
 
-Lanyrd collects such information only insofar as is necessary or appropriate to fulfil the purpose of the visitor’s interaction with Lanyrd. Lanyrd does not disclose personally-identifying information other than as described below. And visitors can always refuse to authenticate with Twitter, with the caveat that it may prevent them from engaging in certain website-related activities.
+Lanyrd collects such information only insofar as is necessary or appropriate to fulfil the purpose of the visitor’s interaction with Lanyrd. Lanyrd does not disclose personally-identifying information other than as described below. And visitors can always refuse to authenticate with Twitter or Linkedin, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ## Aggregated Statistics
 
 Lanyrd may collect statistics about the behaviour of visitors to its websites. Lanyrd does not disclose personally-identifying information other than as described below.
 
-Lanyrd's website uses Google Analytics and Chartbeat to help collect information about site usage. These services collect information sent by your browser as part of a web page request, including cookies and your IP address. Their usage of this information is governed by their privacy policies.
+Lanyrd's website uses Google Analytics and KISSmetrics to help collect information about site usage. These services collect information sent by your browser as part of a web page request, including cookies and your IP address. Their usage of this information is governed by their privacy policies.
 
 ## Protection of Certain Personally-Identifying Information
 
@@ -34,7 +34,7 @@ Lanyrd will not rent or sell potentially personally-identifying and personally-i
 
 If you are a registered user of Lanyrd and have supplied your email address, Lanyrd may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Lanyrd and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Lanyrd will also send you transactional email that you opted into, at the frequency you requested, you can unsubscribe from these at any time. Lanyrd reserves the right to introduce new types of transactional mail which you can then change the frequency of or unsubscribe if you so choose.
 
-Lanyrd would like to reassure you that we will be respectable with the permissions you grant us with your Twitter authentication. We will never access your direct messages stored against your Twitter account. We will never post to Twitter without your _explicit_ permission for us to do so.
+Lanyrd would like to reassure you that we will be respectable with the permissions you grant us with your Twitter or LinkedIn accounts. We will never post to Twitter without your _explicit_ permission for us to do so.
 
 Lanyrd takes all measures reasonably necessary to protect against the unauthorised access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information.
 
