@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boards2go.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503214453id_/http%3A//www.boards2go.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boards2go.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226225348id_/http%3A//www.boards2go.com/privacy.html) for the most accurate reproduction.*
 
 # Boards2Go.com - Free Hosted Message Boards For Webmasters
 
