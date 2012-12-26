@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitflorida.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623204325id_/http%3A//www.visitflorida.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitflorida.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226191119id_/http%3A//www.visitflorida.com/privacy_policy) for the most accurate reproduction.*
 
 # VISIT FLORIDA Privacy Policy - | VISITFLORIDA.com
 
