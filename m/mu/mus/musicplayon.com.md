@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the musicplayon.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601045448id_/http%3A//musicplayon.com/docs/PrivacyPolicy-en.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicplayon.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227004641id_/http%3A//musicplayon.com/docs/PrivacyPolicy-en.htm) for the most accurate reproduction.*
 
 # MusicPlayOn.com - Privacy Policy
 
 PRIVACY POLICY
 
 **Purpose**  
-This document sets out NETSENSE's commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the [User Agreement](https://web.archive.org/web/20120601045448id_/http%3A//musicplayon.com/docs/UserAgreement-en.htm).
+This document sets out NETSENSE's commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the [User Agreement](https://web.archive.org/web/20121227004641id_/http%3A//musicplayon.com/docs/UserAgreement-en.htm).
 
 **Data collected**  
-We collect and subsequently process the Data that you voluntarily provide on the registration form on the Website including your user ID, you name, gender, a valid email address, and your date of birth. The only Data automatically collected by the Website is your IP address (the address of your computer). Please note that whether or not you are a registered user, the Website may implement an automatic tracking process (cookie), which you may block by changing your browser settings.  
+We collect and subsequently process the Data that you voluntarily provide on the registration form on the Website including your user ID, username, real name, gender, date of birth, and a valid e-mail address. The only Data automatically collected by the Website is your IP address (the address of your computer). Please note that whether or not you are a registered user, the Website may implement an automatic tracking process (cookie), which you may block by changing your browser settings.  
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address or email address) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Purpose of processing**  
@@ -22,3 +22,5 @@ NETSENSE attaches great importance to the security of your Data, and takes all a
 
 **Data retention**  
 Data is stored on the premises of the Website host and is kept only as long as necessary for the purposes set out above. After that point, data is kept only for statistical purposes and shall not be used for any other reason.
+
+_Last updated: November 19, 2012_
