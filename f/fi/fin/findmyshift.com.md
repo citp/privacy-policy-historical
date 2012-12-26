@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmyshift.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625163011id_/http%3A//www.findmyshift.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmyshift.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226044220id_/http%3A//www.findmyshift.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy » Findmyshift
 
@@ -12,27 +12,27 @@ Apart from storing all data entered by managers and staff, Findmyshift also stor
 
 ## What does Findmyshift do with your information?
 
-Findmyshift only ever uses your data for populating your schedule and any associated reports. We don’t share, sell or export your data to any third party not directly involved the delivery of our service. Findmyshift will never use personal data for marketing or business development and will only contact you if necessary for administrative or operational purposes associated with your subscription.
+Findmyshift only ever uses your data for populating your schedule and any associated reports. We don’t share, sell or export your data to any third party that is not directly involved in the delivery of this service. Findmyshift will never use personal data for marketing or business development and will only contact you if necessary for administrative or operational purposes associated with your subscription.
 
 Unless troubleshooting a problem with your service, Findmyshift staff will only ever access your data when authorised by you to do so.
 
 ## How does Findmyshift safeguard your data?
 
-Ensuring that your data is secure is very important and we take this responsibility seriously. As a result, all sensitive data you enter, e.g. your password, is encrypted. All the data associated with your account and schedules are stored on our servers in a highly secured data centre, protected by monitored key card access, 360° recorded passive/active CCTV as well as an electronic multi-gated entry point and a perimiter alarm.
+Ensuring that your data is secure is very important and we take this responsibility seriously. As a result, all sensitive data you enter is encrypted, including your password, your name and your contact details. All the data associated with your account and your schedules is stored on our servers in a highly secured, world class data centre, protected by a number of layers of physical security.
 
-Furthermore, every 24 hours all customer data is backed up, encrypted and archived at two secure off-site locations.
+Furthermore, every 24 hours all customer data is backed up, encrypted and archived to two secure off-site locations.
 
 Findmyshift is also registered with the UK Information Commissioner’s Office (Reg. No. Z3140758) and is fully compliant with the UK’s Data Protection Act, which is in line with most international information protection laws and regulations.
 
 ## Can I delete my data?
 
-If you signed up for the free one month trial and haven’t signed up as a customer, your schedule and all data entered will be deleted from our servers after 90 days of inactivity, so no action is required from you. If you’re an existing customer and are thinking of leaving us, please [get in touch](https://web.archive.org/web/20120625163011id_/http%3A//www.findmyshift.com/contact-us) to discuss any concerns you might have about Findmyshift holding on to your data.
+If you signed up for the free one month trial and haven’t signed up as a customer, your schedule and all data entered will be deleted from our servers after 90 days of inactivity, so no action is required from you. If you’re an existing customer and are thinking of leaving us, please [get in touch](https://web.archive.org/web/20121226044220id_/http%3A//www.findmyshift.com/contact-us) to discuss any concerns you might have about leaving your data within Findmyshift.
 
 ## Does Findmyshift use cookies? If so, how?
 
-Yes, and like most websites, cookies are integral to its operation. In particular, cookies are used to remember your log-in details and keep you logged in to Findmyshift. Cookies are also used to remember certain computer and user specific settings. Findmyshift also uses Google Analytics which needs to store a number of cookies to operate correctly.
+Yes, and like most websites, cookies are integral to its operation. In particular, cookies are used to remember your log-in details and to keep your session active whilst using the site. In addition, cookies are also used to remember certain computer and user specific settings. Findmyshift also uses Google Analytics which needs to store a number of cookies to operate correctly.
 
-If you want to know more about how and why cookies are used on websites, please visit [this Wikipedia entry](http://en.wikipedia.org/wiki/HTTP_cookie) or [get in touch](https://web.archive.org/web/20120625163011id_/http%3A//www.findmyshift.com/contact-us) with the team.
+If you want to know more about how and why cookies are used on websites, please visit [this Wikipedia entry](http://en.wikipedia.org/wiki/HTTP_cookie) or [get in touch](https://web.archive.org/web/20121226044220id_/http%3A//www.findmyshift.com/contact-us) with the team.
 
 ## What if I navigate to another website via Findmyshift?
 
@@ -40,4 +40,4 @@ Findmyshift may at times contain links to other websites which are outside of ou
 
 ## Where can I find out more information?
 
-If you have a specific question about how we protect your data then please [get in touch](https://web.archive.org/web/20120625163011id_/http%3A//www.findmyshift.com/contact-us).
+If you have a specific question about how we protect your data then please [get in touch](https://web.archive.org/web/20121226044220id_/http%3A//www.findmyshift.com/contact-us).
