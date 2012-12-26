@@ -1,18 +1,19 @@
-<!--The following is the downloaded HTML source of the pinporn.com privacy policy that was archived on 2012-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623011558id_/http%3A//www.pinporn.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pinporn.com privacy policy that was archived on 2012-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121226054319id_/http%3A//www.pinporn.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Privacy Policy | Pinporn.com</title>
-	<link rel="stylesheet" href="/css/default.css?v=49" type="text/css" media="all">
 
+	<link rel="stylesheet" href="/css/default.css?v=74" type="text/css" media="all">
+	<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/themes/base/jquery-ui.css" type="text/css" media="all">
+	
 	<link rel="icon" type="image/vnd.microsoft.icon" href="/images/pinporn/favicon.ico">
 	<link rel="shortcut icon" href="/images/pinporn/favicon.ico">
 
-	<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.17/themes/base/jquery-ui.css" type="text/css" media="all">
-
 	
 	<meta name="robots" content="index,follow">
+	<meta name="revisit-after" content="1 days">
 
 	<meta property="og:title" content="Privacy Policy | Pinporn.com">
     <meta property="og:type" content="website">
@@ -21,10 +22,11 @@
     <meta property="og:site_name" content="Pinporn">
     <meta property="og:description" content="">
     
-    <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.17/jquery-ui.min.js"></script>
-	<script src="/javascript/jquery.address-1.4.min.js?tracker=null"></script>
-	<script src="/javascript/default.js?v=49"></script>
+    <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="/javascript/default.js?v=75"></script>
+    <script type="text/javascript" src="/javascript/jquery.popunder.js"></script>
+	<script type="text/javascript" src="/javascript/tag-it.js?v=3" charset="utf-8"></script>
 	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f956a41057b019b"></script>
 
 	<script type="text/javascript">
@@ -34,26 +36,23 @@
 		_gaq.push(['_setCustomVar', 1, 'User Type', 'Visitor']);
 		_gaq.push(['_trackPageview']);
 
-
 		(function() {
 			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
 
-
-		// pop under
-	initPopunder('/popunder/pinporn');
-	
-	// stuff to init
-	$(function () { // page load
-		initAjaxNavigation();
-	});
-	
-	var actionSignature = '';
-	var actionSignatureSeed = '';
+		// stuff to init
+		$(function () { // page load
+			initAjaxNavigation();
+		});
+		
+		var actionSignature = '';
+		var actionSignatureSeed = '';
 	</script>
-
+	
+		
+	
 </head>
 <!--[if IE 7]><body id="ie" class="ie7"><![endif]-->
 <!--[if gt IE 7]><body id="ie"><![endif]-->
@@ -63,19 +62,20 @@
 
 	<div class="header">
 
-	    <div id="hdrSearch">
+			    <div id="hdrSearch">
 	    	<form id="search_form" action="/search/pin" method="get">
-				<input type="text" name="query" id="search_query" value="Search">
+				<input type="text" name="query" id="search_query" value="" placeholder="Search">
 				<a href="#" id="search_button"><img src="/images/search.gif" alt="Pinporn search" border="0" width="12" height="12"></a>
 	    	</form>
 	    </div>
-
+	    
 	    <div class="site_logo">
     		<a href="/"><img src="/images/pinporn/logo_small.png" width="150" height="37" alt="Pinporn Logo" border="none"></a>
     	</div>
-
-		<div class="header_links">
+    	
+				<div class="header_links">
 			<ul class="navigation">
+			
 									<li><a href="/user/signin?redirect=%2Fabout%2Fprivacy" rel="nofollow">Login</a></li>
 					<li><a href="/user/signup" rel="nofollow">Sign Up!</a></li>
 								<li class="navigation_dropdown"><a href="/about/us">About</a>
@@ -90,165 +90,360 @@
 						<li><a href="/about/faq">Help</a></li>
 					</ul>
 				</li>
+				<li class="navigation_dropdown"><a href="#">Language</a>
+					<ul class="sub_navigation">
+												<li><a href="/?lngCode=de" rel="nofollow">Deutsch</a></li>
+												<li><a href="/?lngCode=en" rel="nofollow">English</a></li>
+												<li><a href="/?lngCode=es" rel="nofollow">Español</a></li>
+												<li><a href="/?lngCode=fr" rel="nofollow">Français</a></li>
+												<li><a href="/?lngCode=it" rel="nofollow">Italiano</a></li>
+												<li><a href="/?lngCode=pl" rel="nofollow">Polski</a></li>
+												<li><a href="/?lngCode=pt" rel="nofollow">Português</a></li>
+												<li><a href="/?lngCode=ar" rel="nofollow">العربية</a></li>
+												<li><a href="/?lngCode=ru" rel="nofollow">Русский</a></li>
+											</ul>
+				</li>
 			</ul>
 		</div>
 
+				
 				<div id="twitter_button">
-			<a href="https://twitter.com/pinporn_com" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @pinporn_com</a>
-			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-		</div>
-		
-    </div>
+							<a href="https://twitter.com/pinporn_com" data-lang="en" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @pinporn_com</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+					</div>
+						
+			        </div>
 
-        <div id="home_offline_container">
-		<div id="home_offline">
-			<div style="text-align: right;"><a href="#" onclick="$('#home_offline_container').hide();setCookie('hide_signup_box', 1);">Close [X]</a></div>
-			<p class="home_offline_text"><strong>Pinporn lets you build your collection online. </strong> <br> Add any picture or video from the web to your board!</p>
-			<div id="home_offline_button_position">
-				<!-- <a class="outline_button fltLeft" href="/user/signup">Sign Up</a> -->
-				<a class="action_button fltLeft spcWidth" href="/about/us">Learn more »</a>
-			</div>
-		</div>
-
-		<div style="height: 68px;"></div>
-	</div>
-	
-	<div class="home_filters">
+		<div class="home_filters">
 		<ul class="navigation_categories">
-							<li><a href="/">Most Popular</a></li>
-						<li><a href="/all/">Latest Pins</a></li>
 			
-			<li class="navigation_single_dropdown">
-								<a href="#">Videos &amp; Pictures</a>
-								<ul class="sub_navigation">
-					<li><a href="/all/?sort=&amp;time=all">Videos &amp; Pictures</a></li>
-					<li><a href="/videos/?sort=&amp;time=all">Videos Only</a></li>
-					<li><a href="/pictures/?sort=&amp;time=all">Pictures Only</a></li>
-				</ul>
+			<li>
+				<a href="/pictures/">
+					Pictures				</a>
+			</li>
+						
+			<li class="">
+				<a href="/videos/">
+					Videos				</a>
 			</li>
 			
-			<li class="navigation_dropdown"><a href="#">Categories</a>
+						
+			<li>
+				<a href="/tags/">
+					Tags				</a>
+			</li>
+			
+			<li class="navigation_dropdown">
+				<a href="#" onclick="$('#categories_popup').slideToggle();">
+									Categories								</a>
+			</li>
+						
+			<li class="navigation_single_dropdown">
+				<a href="#" onclick="return false;">Sort: Latest All</a>
 				<ul class="sub_navigation">
-											<li style="cursor: pointer; " onclick="window.location.href='/all/amateur/'">
-							Amateur						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/anal/'">
-							Anal						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/asian/'">
-							Asian						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/ass/'">
-							Ass						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/babe/'">
-							Babe						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/bbw/'">
-							BBW						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/bdsm/'">
-							BDSM						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/big-dick/'">
-							Big Dick						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/big-tits/'">
-							Big Tits						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/bisexual/'">
-							Bisexual						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/blonde/'">
-							Blonde						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/blowjob/'">
-							Blowjob						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/brunette/'">
-							Brunette						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/bukkake/'">
-							Bukkake						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/celebrity/'">
-							Celebrity						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/college/'">
-							College						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/creampie/'">
-							Creampie						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/cumshot/'">
-							Cumshot						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/double-penetration/'">
-							Double Penetration						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/ebony/'">
-							Ebony						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/emo/'">
-							Emo						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/fisting/'">
-							Fisting						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/foot/'">
-							Foot						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/funny/'">
-							Funny						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/gang-bang/'">
-							Gang Bang						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/gay/'">
-							Gay						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/gif/'">
-							GIF						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/group-sex/'">
-							Group Sex						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/hairy/'">
-							Hairy						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/handjob/'">
-							Handjob						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/hardcore/'">
-							Hardcore						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/hentai/'">
-							Hentai						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/hot/'">
-							Hot						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/indian/'">
-							Indian						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/interracial/'">
-							Interracial						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/latina/'">
-							Latina						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/lesbian/'">
-							Lesbian						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/lingerie/'">
-							Lingerie						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/masturbation/'">
-							Masturbation						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/mature/'">
-							Mature						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/milf/'">
-							MILF						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/non-nude/'">
-							Non-Nude						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/panties/'">
-							Panties						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/party/'">
-							Party						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/petite/'">
-							Petite						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/pornstar/'">
-							Pornstar						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/public-sex/'">
-							Public Sex						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/pussy/'">
-							Pussy						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/red-head/'">
-							Red Head						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/shemale/'">
-							Shemale						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/squirt/'">
-							Squirt						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/teen/'">
-							Teen						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/threesome/'">
-							Threesome						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/toys/'">
-							Toys						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/uniform/'">
-							Uniform						</li>
-											<li style="cursor: pointer; " onclick="window.location.href='/all/vintage/'">
-							Vintage						</li>
-									</ul>
+					<li><a href="/all/" class="">Latest All</a></li>
+					<li><a href="/all/?sort=latest&amp;sub=pins" class="">Latest Pins</a></li>
+					<li><a href="/all/?sort=latest&amp;sub=repins" class="">Latest Repins</a></li>
+					<li><a href="/all/?sort=popular&amp;sub=today" class="">Popular Today</a></li>
+					<li><a href="/" class="">Popular This Week</a></li>
+					<li><a href="/all/?sort=popular&amp;sub=month" class="">Popular This Month</a></li>
+					<li><a href="/all/?sort=popular" class="">Popular All Time</a></li>
+				</ul>
 			</li>
 		</ul>
 	</div>
+			
+	<script type="text/javascript">
+	$(function () {
+		$('.categories_item a').click(function() {
+			var tagId = $(this).attr('data-tag-id');
+			$('#'+tagId).prop("checked", !$('#'+tagId).prop("checked"));			
+			return false;
+		});
+		
+		$('#submitTags').click(function() {
+			var tags = "";
+			for (var i=0 ; i < $('.tagCheckbox:checked').length ; i++) {
+				if (!tags) {
+					tags += $($('.tagCheckbox:checked')[i]).attr('id');
+				} else {
+					tags += "+"+$($('.tagCheckbox:checked')[i]).attr('id');
+				}
+			}
+			var url = "/all/TAG/";
+			window.location.href = url.replace("TAG", tags);
+		});
+	});
+	</script>
+	
+	<div id="categories_popup">
+				<span class="categories_column">
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="amateur">
+				<a href="/all/amateur/" data-tag-id="amateur">Amateur</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="anal">
+				<a href="/all/anal/" data-tag-id="anal">Anal</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="asian">
+				<a href="/all/asian/" data-tag-id="asian">Asian</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="ass">
+				<a href="/all/ass/" data-tag-id="ass">Ass</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="athletic">
+				<a href="/all/athletic/" data-tag-id="athletic">Athletic</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="babe">
+				<a href="/all/babe/" data-tag-id="babe">Babe</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="bbw">
+				<a href="/all/bbw/" data-tag-id="bbw">BBW</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="bdsm">
+				<a href="/all/bdsm/" data-tag-id="bdsm">BDSM</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="big-dick">
+				<a href="/all/big-dick/" data-tag-id="big-dick">Big Dick</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="big-tits">
+				<a href="/all/big-tits/" data-tag-id="big-tits">Big Tits</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="bisexual">
+				<a href="/all/bisexual/" data-tag-id="bisexual">Bisexual</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="blonde">
+				<a href="/all/blonde/" data-tag-id="blonde">Blonde</a>
+			</div>
+					</span>
+				<span class="categories_column">
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="blowjob">
+				<a href="/all/blowjob/" data-tag-id="blowjob">Blowjob</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="brunette">
+				<a href="/all/brunette/" data-tag-id="brunette">Brunette</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="bukkake">
+				<a href="/all/bukkake/" data-tag-id="bukkake">Bukkake</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="celebrity">
+				<a href="/all/celebrity/" data-tag-id="celebrity">Celebrity</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="college">
+				<a href="/all/college/" data-tag-id="college">College</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="creampie">
+				<a href="/all/creampie/" data-tag-id="creampie">Creampie</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="cumshot">
+				<a href="/all/cumshot/" data-tag-id="cumshot">Cumshot</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="double-penetration">
+				<a href="/all/double-penetration/" data-tag-id="double-penetration">Double Penetration</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="ebony">
+				<a href="/all/ebony/" data-tag-id="ebony">Ebony</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="emo">
+				<a href="/all/emo/" data-tag-id="emo">Emo</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="fisting">
+				<a href="/all/fisting/" data-tag-id="fisting">Fisting</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="foot">
+				<a href="/all/foot/" data-tag-id="foot">Foot</a>
+			</div>
+					</span>
+				<span class="categories_column">
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="for-women">
+				<a href="/all/for-women/" data-tag-id="for-women">For Women</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="funny">
+				<a href="/all/funny/" data-tag-id="funny">Funny</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="gang-bang">
+				<a href="/all/gang-bang/" data-tag-id="gang-bang">Gang Bang</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="gay">
+				<a href="/all/gay/" data-tag-id="gay">Gay</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="gif">
+				<a href="/all/gif/" data-tag-id="gif">GIF</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="girlfriend">
+				<a href="/all/girlfriend/" data-tag-id="girlfriend">Girlfriend</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="group-sex">
+				<a href="/all/group-sex/" data-tag-id="group-sex">Group Sex</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="hairy">
+				<a href="/all/hairy/" data-tag-id="hairy">Hairy</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="handjob">
+				<a href="/all/handjob/" data-tag-id="handjob">Handjob</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="hardcore">
+				<a href="/all/hardcore/" data-tag-id="hardcore">Hardcore</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="hentai">
+				<a href="/all/hentai/" data-tag-id="hentai">Hentai</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="hot">
+				<a href="/all/hot/" data-tag-id="hot">Hot</a>
+			</div>
+					</span>
+				<span class="categories_column">
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="indian">
+				<a href="/all/indian/" data-tag-id="indian">Indian</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="interracial">
+				<a href="/all/interracial/" data-tag-id="interracial">Interracial</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="latina">
+				<a href="/all/latina/" data-tag-id="latina">Latina</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="lesbian">
+				<a href="/all/lesbian/" data-tag-id="lesbian">Lesbian</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="lingerie">
+				<a href="/all/lingerie/" data-tag-id="lingerie">Lingerie</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="masturbation">
+				<a href="/all/masturbation/" data-tag-id="masturbation">Masturbation</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="mature">
+				<a href="/all/mature/" data-tag-id="mature">Mature</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="milf">
+				<a href="/all/milf/" data-tag-id="milf">MILF</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="non-nude">
+				<a href="/all/non-nude/" data-tag-id="non-nude">Non-Nude</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="panties">
+				<a href="/all/panties/" data-tag-id="panties">Panties</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="party">
+				<a href="/all/party/" data-tag-id="party">Party</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="petite">
+				<a href="/all/petite/" data-tag-id="petite">Petite</a>
+			</div>
+					</span>
+				<span class="categories_column">
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="pornstar">
+				<a href="/all/pornstar/" data-tag-id="pornstar">Pornstar</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="public-sex">
+				<a href="/all/public-sex/" data-tag-id="public-sex">Public Sex</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="pussy">
+				<a href="/all/pussy/" data-tag-id="pussy">Pussy</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="red-head">
+				<a href="/all/red-head/" data-tag-id="red-head">Red Head</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="selfshot">
+				<a href="/all/selfshot/" data-tag-id="selfshot">Selfshot</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="shemale">
+				<a href="/all/shemale/" data-tag-id="shemale">Shemale</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="squirt">
+				<a href="/all/squirt/" data-tag-id="squirt">Squirt</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="teen">
+				<a href="/all/teen/" data-tag-id="teen">Teen</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="threesome">
+				<a href="/all/threesome/" data-tag-id="threesome">Threesome</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="toys">
+				<a href="/all/toys/" data-tag-id="toys">Toys</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="uniform">
+				<a href="/all/uniform/" data-tag-id="uniform">Uniform</a>
+			</div>
+						<div class="categories_item">
+				<input type="checkbox" class="tagCheckbox" id="vintage">
+				<a href="/all/vintage/" data-tag-id="vintage">Vintage</a>
+			</div>
+					</span>
+				<div class="clrUltimate"></div>
+		<div class="buttons">
+			<a href="#" class="small_button" id="submitTags">Apply Filters</a> 
+			<a href="/all/" class="small_button" id="submitTags">Reset Filters</a>
+		</div>
+	</div>
 
-	<div id="pin_ajax_overlay" style="display: none; position: absolute; top: 0px; left: 0px; width: 100%; opacity: 0.85; z-index: 990; filter: alpha(opacity=85); background-color: #ffffff;"></div>
-    <div id="pin_ajax_view" style="display: none; position: absolute; top: 0px; left: 50%; margin: 20px 0 0 -510px; width: 1020px; min-height: 200px; z-index: 991;"></div>
-
+	<div id="pin_ajax_overlay"></div>
+    <div id="pin_ajax_view"></div>
+    <div id="pin_ajax_prev">
+    	<div class="label">Prev</div>
+	</div>
+	<div id="pin_ajax_next">
+    	<div class="label">Next</div>
+	</div>
+	    
+        
     <div id="container"><div class="about_container">
 
 	<div class="about_sidebar">
@@ -324,27 +519,6 @@
 	</div>
 </div>	</div>
 
-	<div id="add_dialog" title="Add">
-		<div class="pin_button">Pin images from any website as you browse the web with the <a href="/about/howitworks">"Pin It" button</a></div>
-
-		<div id="add_links">
-            <a id="add_url" href="http://upload.pinporn.com/pin/add" class="cell" rel="nofollow">
-                <div class="icon" id="scrape"></div>
-                <span>Add a Pin</span>
-            </a>
-            
-            <a id="upload_photo" href="http://upload.pinporn.com/pin/uploadphoto" class="cell" rel="nofollow">
-                <div class="icon" id="upload"></div>
-                <span>Upload a Photo</span>
-            </a>
-            
-            <a id="create_board" class="cell" href="/board/edit" rel="nofollow">
-                <div class="icon" id="boardImage"></div>
-                <span>Create a Board</span>
-            </a>
-        </div>
-	</div>
-
 	<div id="scrolltotop_button"><a href="#top">Scroll to top</a></div>
 
 	<div id="repin_dialog" title="Repin"></div>
@@ -352,13 +526,40 @@
 	<div id="report_dialog" title="Report this Pin">
 
 			<div class="form">
-				<div class="title">Reason: <span id="report_error" class="glbError"></span></div>
-				<div>
-					<textarea maxlength="180" name="reportPin" id="reportPin" onclick="reportSpam(this.value);">Please write a little about why you want to report this pin</textarea>
+				<div class="title">Reason:</div>
+				<select name="report_reason" id="report_reason">
+					<option value="Other">Comment</option>Broken
+					<option value="Broken">Not Working</option>
+					<option value="Inappropriate">Inappropriate</option>
+					<option value="Spam">Spam</option>
+				</select>
+				<div class="title">Details <span id="report_error" class="glbError" style="display:none;">Please write about this report</span></div>
+				<textarea maxlength="180" id="report_details" placeholder="Please write a little about why you want to report this pin"></textarea>
 				</div>
 			</div>
-	</div>
+	
 
 	<div id="embed_dialog" title="Embed on Your Site"></div>
+	
+	<div id="footer">©2012 Pinporn - <a href="/about/us">About us</a> - <a href="/about/howitworks">How it Works</a> - <a href="/about/etiquette">Etiquette</a> - <a href="/about/terms">Terms of Use</a> - <a href="/about/privacy">Privacy</a> - <a href="/about/dmca">DMCA</a> - <a href="/about/compliance">2257</a> - <a href="/about/faq">Help</a> - <a href="/about/faq#advertising">Advertising</a></div>
+
+		<script type="text/javascript">
+    window.fPopunder = function() {
+
+		if (getCookie('popunder')) {
+			return [];
+		}
+        
+        setCookie('popunder', 'true', 24);
+        if (!window.fPopunderStack) {
+            window.fPopunderStack = [['/popunder/pinporn.html', {width:1006, height:706, blocktime: 24, cookie: 'popunder'}]];
+        }
+
+        return window.fPopunderStack;
+    };
+
+    $.popunder(window.fPopunder, 'body', 'a');
+	</script>
+		
 
 </body></html>
