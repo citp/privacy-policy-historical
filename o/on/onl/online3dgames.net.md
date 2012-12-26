@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online3dgames.net privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621090859id_/http%3A//www.online3dgames.net/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online3dgames.net privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226042715id_/http%3A//www.online3dgames.net/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online3DGames.net
 
