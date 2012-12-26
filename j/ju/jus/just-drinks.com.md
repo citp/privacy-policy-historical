@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the just-drinks.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627092854id_/http%3A//www.just-drinks.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the just-drinks.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226064452id_/http%3A//www.just-drinks.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # just-drinks.com: Privacy & Cookies
 
@@ -51,9 +51,19 @@ These are cookies set on your machine by external websites whose services are us
 
 You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.
 
+**Advertising networks**
+
 Most adverts shown on this site are hosted on Google's Doubleclick servers. The cookies set by this service are outlined here: <http://www.google.com/policies/privacy/ads/>
 
-We also, from time to time, accept adverts hosted by 3rd party organisations; some of these advertising services will result in a 3rd party cookie being set in order to track the viewing statistics. You may use your browser's privacy settings to disable the setting of 3rd party cookies should you so wish.
+We also, from time to time, accept adverts hosted by 3rd party organisations; some of these advertising services will result in a 3rd party cookie being set in order to track the viewing statistics. 
+
+Currently we also work with the 3rd party advertising network BBN Networks Inc. The cookies set by this service are outlined here: <http://bbnnetworks.com/content/privacy-policy>
+
+As always, remember, we only authorise our 3rd party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. Our 3rd party ad servers do not collect, nor do we give them access, to any personally identifying information about you.
+
+**Opting out of 3rd party cookies**
+
+If you want to prevent a 3rd party from sending and reading cookies on your computer, currently you must visit each company's site and opt out. You can also select to block cookies from within your browser settings.
 
 **Shopping cart**
 
