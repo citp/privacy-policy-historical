@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meramaal.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627115159id_/http%3A//www.meramaal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meramaal.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226210057id_/http%3A//www.meramaal.com/privacy) for the most accurate reproduction.*
 
 # Post Classified in India - Search and Post Free Classified Ads in India. Property, Cars in India, Rentals, For Sale in India - Meramaal.com
 
