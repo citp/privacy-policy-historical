@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the productcreatorpro.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527054252id_/http%3A//www.productcreatorpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productcreatorpro.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226155146id_/http%3A//www.productcreatorpro.com/privacy) for the most accurate reproduction.*
 
 # Product Creator Pro: Privacy Policy
 
@@ -80,7 +80,7 @@ It is therefore necessary that you grant the third parties we may use in the cou
 
 Without limiting the generality of the foregoing, you agree that we may share information with certain additional third parties, such as: 
 
-  * Aweber, for the purpose of collecting User details and e-mailing news about our Site, Service, App, and other company news.
+  * CreateSend, for the purpose of collecting User details and e-mailing news about our Site, Service, App, and other company news.
   * Google Analytics, for the purpose of conversion tracking, marketing, search and website analytics, and any other information that Google Analytics may make available to us.
   * Foxycart and PayPal, for the purpose of processing your payments to us.
   * Your doctor, if we think you're a smoker or eat too many fatty foods.
