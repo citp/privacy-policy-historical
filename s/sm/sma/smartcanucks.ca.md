@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcanucks.ca privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504053853id_/http%3A//smartcanucks.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcanucks.ca privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226170008id_/http%3A//smartcanucks.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SmartCanucks - Canadian Freebies, Shopping Deals, Coupons, Contests & Free Stuff Canada
 
@@ -25,8 +25,7 @@ Members can access this information by emailing or mailing us.
 If you feel that this site is not following its stated information policy, you may contact us at the following addresses:
 
 **Smart Canucks Inc.  
-Box 291  
-Kingston, Ontario  
-K7L 4V8  
-Canada  
-**
+P.O.Box 62032   
+RPO Burlington Mall   
+Burlington, ON   
+L7R 4K2**
