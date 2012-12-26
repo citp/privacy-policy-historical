@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ogilvy.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603194050id_/http%3A//www.ogilvy.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogilvy.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226071127id_/http%3A//www.ogilvy.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Ogilvy & Mather
 
@@ -6,7 +6,7 @@ Welcome to our site ("Site"). Ogilvy & Mather ("Ogilvy") knows how our clients a
 
 This policy applies only to the web site located at [www.ogilvy.com](http://www.ogilvy.com/), and not to any other web site or service.  If you do not agree with this policy, then you should not use the Site 
 
-**Personally Identifiable Information Collected By Ogilvy**
+**Personally Identifiable Information Collected by Ogilvy**
 
 Ogilvy may collect and store personally identifiable information about you if you voluntarily submit such information to Ogilvy. Personally identifiable information may include your name, email address, physical address and other information that specifically identifies you. 
 
@@ -44,7 +44,7 @@ The Site may contain links to web sites maintained by third parties.  Ogilvy is
 
 **Opt-Out Procedures**
 
-You have the option to opt-out of receiving information from Ogilvy. This opt out messaging will appear at the bottom of every promotional email that is sent out to you by Ogilvy in relation to this Site. Ogilvy also gives you the option to remove your information from its database of active users. If you no longer wish to take advantage of this Site or to receive any form of direct contact from Ogilvy, whether it is email, discounts, newsletters, or other promotional offers or materials, or wish us to delete your personally identifiable information from our database of active users, send us a request marked "Privacy-Urgent", and [contact us](https://www.ogilvy.com/Contact.aspx). 
+You have the option to opt-out of receiving information from Ogilvy. This opt out messaging will appear at the bottom of every promotional email that is sent out to you by Ogilvy in relation to this Site. Ogilvy also gives you the option to remove your information from its database of active users. If you no longer wish to take advantage of this Site or to receive any form of direct contact from Ogilvy, whether it is email, discounts, newsletters, or other promotional offers or materials, or wish us to delete your personally identifiable information from our database of active users, send us a request marked "Privacy-Urgent", and [contact us](http://www.ogilvy.com/Contact.aspx). 
 
 However, Ogilvy is not responsible for removing information from third party lists or dat abases of any kind if we have shared your information with such third parties as permitted by this policy. 
 
@@ -52,7 +52,7 @@ Please note that, notwithstanding the fact that we may have removed your informa
 
 **Reviewing or changing your information**
 
-In order to ensure that the information we maintain is accurate, Ogilvy gives users the option to change or modify their information previously provided. If you would like to change your information currently in our database, please [contact us](https://www.ogilvy.com/Contact.aspx). 
+In order to ensure that the information we maintain is accurate, Ogilvy gives users the option to change or modify their information previously provided. If you would like to change your information currently in our database, please [contact us](http://www.ogilvy.com/Contact.aspx). 
 
 Ogilvy is not responsible for updating information contained in third party lists or databases. 
 
@@ -62,7 +62,7 @@ We are committed to taking reasonable steps to ensure the security of your infor
 
 **Protection for Children**
 
-This Site is not intended for users under the age of 13, and we have no intention of collecting personally identifiable information from children (i.e., individuals under the age of 13). If a parent or guardian learns that a child has provided us with personally identifiable information, that child's parent or guardian should [contact us](https://www.ogilvy.com/Contact.aspx) and send a request marked "Privacy – Urgent" if they would like the information submitted by the child deleted from our database. We will use all reasonable efforts to delete such information from our database. 
+This Site is not intended for users under the age of 13, and we have no intention of collecting personally identifiable information from children (i.e., individuals under the age of 13). If a parent or guardian learns that a child has provided us with personally identifiable information, that child's parent or guardian should [contact us](http://www.ogilvy.com/Contact.aspx) and send a request marked "Privacy – Urgent" if they would like the information submitted by the child deleted from our database. We will use all reasonable efforts to delete such information from our database. 
 
 **United States of America**
 
@@ -74,7 +74,7 @@ We may amend our privacy policy at any time and will post those changes on this 
 
 **Contacting Us**
 
-If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can [contact us](https://www.ogilvy.com/Contact.aspx). 
+If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can [contact us](http://www.ogilvy.com/Contact.aspx).  
 
 In addition, our mailing address is:   
 Ogilvy & Mather Headquarters   
