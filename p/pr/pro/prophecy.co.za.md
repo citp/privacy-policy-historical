@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prophecy.co.za privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528104039id_/http%3A//www.prophecy.co.za/pages.php%3Fpages_id%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prophecy.co.za privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226154809id_/http%3A//www.prophecy.co.za/pages.php%3Fpages_id%3D5) for the most accurate reproduction.*
 
 # Prophecy.co.za - Computer Hardware, Software, Accessories, Peripherals
 
@@ -19,4 +19,4 @@ The Prophecy Shop will send you email relating to the status of and processing o
   
   
   
-[Continue](http://www.prophecy.co.za/index.php)
+[Continue](http://www.prophecy.co.za/index.php?osCsid=4cff3b5c15b888192bf6b7fa6bad02ee)
