@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getrevising.co.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501100237id_/http%3A//getrevising.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getrevising.co.uk privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226011109id_/http%3A//getrevising.co.uk/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Get Revising
+# Get Revising - Privacy Policy
 
 This is about protecting the information you give us. It is standard for a site of this type. The principles are the key thing.
 
@@ -10,7 +10,6 @@ We are absolutely committed to protecting your privacy. Our policy can be summar
 2\. We will not pass on any individual user details (including your e-mail address) unless we have your prior consent.  
 3\. Otherwise, we will only share aggregate statistics about our users, sales and traffic patterns with our advertisers.
 
-  
 1) Information Collected
 
 (a) It is necessary for getrevising.co.uk to collect your personal information for the purposes of registering you as a user of the website [www.getrevising.co.uk](http://www.getrevising.co.uk/) (the "Site"). Your responses also help us to provide as complete a service as possible for you by ensuring that the Site and any appropriate advertising or sponsorship space that we sell reflects your needs and requirements.  
