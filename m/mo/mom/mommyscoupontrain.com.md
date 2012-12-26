@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mommyscoupontrain.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621020405id_/http%3A//mommyscoupontrain.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommyscoupontrain.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226212559id_/http%3A//mommyscoupontrain.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
-# Disclosure / Privacy Policy | Mommys Coupon Train
+# Disclosure / Privacy Policy - Mommys Coupon Train | Mommys Coupon Train
 
 Disclosure:
 
@@ -48,5 +48,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.  for www.mommyscoupontrain.comIf you require any more information or have any questions about our privacy policy, please feel free to contact us by email at mommyscoupontrain@gmail.com.
 
-Share this:   
-[ ](mailto:?subject=Disclosure%20%2F%20Privacy%20Policy&body=http%3A%2F%2Fmommyscoupontrain.com%2Fdisclosure-privacy-policy%2F) [ ](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fmommyscoupontrain.com%2Fdisclosure-privacy-policy%2F&title=Disclosure+%2F+Privacy+Policy) [ ](http://digg.com/submit?url=http%3A%2F%2Fmommyscoupontrain.com%2Fdisclosure-privacy-policy%2F&title=Disclosure+%2F+Privacy+Policy) [ ](http://www.facebook.com/sharer.php?u=http%3A%2F%2Fmommyscoupontrain.com%2Fdisclosure-privacy-policy%2F&t=Disclosure+%2F+Privacy+Policy) [ ](http://twitter.com/intent/tweet?text=I+like+http%3A%2F%2Fmommyscoupontrain.com%2Fdisclosure-privacy-policy%2F&title=Disclosure+%2F+Privacy+Policy)
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fmommyscoupontrain.com%2Fdisclosure-privacy-policy%2F&media=&description=Disclosure%20%2F%20Privacy%20Policy)
