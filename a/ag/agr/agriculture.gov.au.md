@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agriculture.gov.au privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624205302id_/http%3A//daff.gov.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriculture.gov.au privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226201256id_/http%3A//daff.gov.au/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Department of Agriculture, Fisheries and Forestry
 
@@ -52,6 +52,6 @@ Telephone: - Switchboard +61 2 6272 3933
 
 Post: Australian Government Department of Agriculture, Fisheries and Forestry GPO Box 858, Canberra ACT 2601
 
-[Email the Privacy Contact Officer](http://www.daff.gov.au/feedback?query=foiprivacy).
+[Email the Privacy Contact Officer](http://daff.gov.au/feedback?query=foiprivacy).
 
 External sites that are linked to or from the Department's website are not under the Department's control and you are advised to review their privacy statement
