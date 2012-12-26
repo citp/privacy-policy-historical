@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamer.net privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625153349id_/http%3A//teamer.net/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamer.net privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226203053id_/http%3A//teamer.net/pages/privacy) for the most accurate reproduction.*
 
 # Teamer Takes The Hassle Out of Sports Team Management - teamer.net privacy statement
 
@@ -62,6 +62,79 @@ Teamer.net will take reasonable technical and organisational precautions to prev
 
 We take appropriate security measures to help safeguard your personal information from unauthorized access and disclosure. Only authorized employees are permitted to access personal information, and only for permitted business reasons. We use encryption in the storage of your passwords, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information. However, no system can be guaranteed as 100% secure. Users are responsible for how they maintain and disclose their personal information and should never send personal information through insecure e-mail. Users should never disclose their user name, login or password details to third parties. 
 
+## Cookies and Device Identification
+
+Like many sites Teamer uses cookies to improve the user experience for our members.
+
+**EU Cookie Directive - Web legislation Notification**
+
+The EU cookie directive notice appears on the Teamer site to inform EU members that Teamer stores cookies on your computer. We operate an implied consent approach, whereby we inform users that we are using cookies and if they continue to use Teamer, they are giving their consent for us to store cookies on their machine. If they do not wish to have cookies stored on their machine, we ask that they no longer use Teamer as cookies are important part of delivering a great browsing experience for our users.
+
+Once you have clicked through to our Privacy Policy or click the 'x' to close the EU Cookie Directive notice, it will not be shown again. 
+
+  
+
+
+* * *
+
+What is a cookie?
+
+A cookie is a small file of letters and numbers that are placed on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive.
+
+How are cookies used on Teamer?
+
+We and our authorized third party partners may use cookies, to deliver more relevant content to our members.   
+Cookies perform important and useful functions: 
+
+  * they make it possible to provide personalized pages for visitors; 
+  * they help advertisers avoid repeatedly serving the same ads to the same visitor; 
+  * they help website owners determine which sections of their sites are more appealing; 
+
+
+
+What is device identification?
+
+Device Identification is a technology that identifies devices by collecting information from the browser on the device, such as the browser version, operating system, IP address, installed fonts, time zone and more. These pieces of information are used to uniquely identify a device. This process does not use any personal information. The device ID generated through the device identification process may be stored in a cookie.
+
+What are the different types of cookies?
+
+  
+
+
+First-party cookies are those set by Teamer to improve your user experience. They enable us to log you in automatically if you have set your login status to 'remember me'. They also enable us to provide you with personalized Teampage information and ensure that we only show you information that is relevant to members in your country.
+
+Examples of First-party cookies on Teamer are: 
+
+  * user_credentials, used to bypass login, if you have selected to do so 
+  * _teamer_session, stores important information that enables us to provide a personalized browsing experience, ensuring you only see Teamer content relevant to your user account. 
+
+  
+
+
+Third-party cookies are cookies that are set by a domain other than that of the website being visited by the user. If a user visits a website and another entity sets a cookie through that website this would be a third-party cookie.
+
+Examples of third-party cookies used on Teamer are: 
+
+  * __qca - set by quantcast, this enables us to ensure we are serving relevant ads to Teamer members. 
+  * __gads - set by Google, also ensures that the correct ads are shown to Teamer members. 
+  * __utma, __utmb, __utmc, __utmz set by Google Analytics, Teamer uses Google Analytics to learn important information about where our site traffic comes from. This includes information like a site visitor's location, the type of browser being used, the type of device someone is using to access Teamer, whether or not someone is a new visitor. 
+
+**NOTE: Non of our third party cookies disclose any personal information about a user. The statistics are collected anonymously.**
+
+How to delete and block our cookies?
+
+  
+
+
+You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our site. Turning off or deleting cookies will not prevent device identification and related data collection from occurring, but it will prevent you from being able to login automatically to your teampage and also ensure a personalized browsing experience on Teamer. 
+
+Can I withdraw my consent?
+
+If you do not wish to have Teamer cookies stored on your machine, you will need to delete your cookies using your internet browser settings. For further information about deleting or blocking cookies, please visit: http://www.aboutcookies.org/Default.aspx?page=2. 
+
+  
+
+
 ## Cross-border Data Transfers
 
 Information that Teamer.net collects may be stored and processed in and transferred between any of the countries in which Teamer.net operates to enable the use of the information in accordance with this privacy policy. Teamer.net operates under the jurisdiction of the Irish Data Protection Commissioner. The Data Protection laws of Ireland may be different to the national laws of Teamer.net users outside of the Republic of Ireland 
@@ -76,7 +149,7 @@ Teamer.net may update this privacy policy by posting a new version on this websi
 
 If you have any questions about this privacy policy or Teamer.net treatment of your personal information, please write to:
 
-  * By email to help@teamer.net or 
-  * By post to 1st Floor, 63 Deerpark Road, Mount Merrion, Co Dublin. Ireland
+    * By email to help@teamer.net or 
+    * By post to 1st Floor, 63 Deerpark Road, Mount Merrion, Co Dublin. Ireland
 
 
