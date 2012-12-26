@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsmovies.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623002716id_/http%3A//www.gsmovies.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsmovies.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226040318id_/http%3A//www.gsmovies.com/privacy.php) for the most accurate reproduction.*
 
 # www.gsmovies.com - Privacy Policy
 
