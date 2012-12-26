@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the h-online.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616055416id_/http%3A//www.h-online.com/Privacy-Policy-of-h-online-com-273337.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the h-online.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226145010id_/http%3A//www.h-online.com/Privacy-Policy-of-h-online-com-273337.html) for the most accurate reproduction.*
 
-# Privacy Policy of h-online.com - The H: Security news and Open source developments
+# Privacy Policy of h-online.com - The H: Open Source, Security and Development
 
 h-online.com is a service provided by Heise Media UK Ltd. ("Heise").
 
