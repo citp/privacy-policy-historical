@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fitclick.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518190310id_/http%3A//www.fitclick.com/www/misc/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitclick.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226025151id_/http%3A//www.fitclick.com/www/misc/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy | FitClick
 
-Maintaining your privacy is of paramount concern to Genesant Technologies, Inc. ("GTI"), the owner and operator of FitClick.com (the "Site"). GTI recognizes the premium you place on protecting your privacy, particularly on the Internet. We also understand that your personal fitness is a very private matter. But in order to provide you the full value of our proprietary nutritional analysis software and our dynamic virtual training program, the input of your personal information is necessary. We therefore strive to protect the information you share with us, including information you provide during the registration process that you must complete in order to use the Site and to download the FitClick Mobile Application ("FMA") to your mobile device, and the information you share on message boards, in chat rooms or within the any other interactive areas of the Site ("Interactive Areas"). 
+Maintaining your privacy is of paramount concern to Genesant Technologies, Inc. ("GTI"), the owner and operator of FitClick.com (the "Site"). GTI recognizes the premium you place on protecting your privacy, particularly on the Internet. We also understand that your personal fitness is a very private matter. But in order to provide you the full value of our proprietary nutritional analysis software and our dynamic virtual training program, the input of your personal information is necessary. We therefore strive to protect the information you share with us, including information you provide during the registration process that you must complete in order to use the Site and to download the ("MA") to your mobile device, and the information you share on message boards, in chat rooms or within the any other interactive areas of the Site ("Interactive Areas"). 
 
 As a result of our commitment to you and the integrity of your experience with us, we have painstakingly developed this privacy policy (the "Policy") to provide the framework for the use of the information you provide. The following pledges are our guarantees to help you feel more secure in our environment so that you may benefit from the programs we have designed for your overall fitness development. It is our hope that you will accept this Policy with a clear expectation of GTI's obligation to you. 
 
@@ -10,13 +10,13 @@ In this Policy, "we", "us" and "our" collectively refer to GTI.
 
 **Personally Identifiable Information That We Collect**
 
-GTI does not collect any information that can either be directly used to contact or identify you, or extrapolated to identify or contact you (personally identifiable information, or "PII"), unless this information is provided to us voluntarily. Use of any of the features of FMA or the Site (collectively, the "Service"), constitutes the voluntary provision of information to us by any such person who uses the Service (each a "User"). 
+GTI does not collect any information that can either be directly used to contact or identify you, or extrapolated to identify or contact you (personally identifiable information, or "PII"), unless this information is provided to us voluntarily. Use of any of the features of MA or the Site (collectively, the "Service"), constitutes the voluntary provision of information to us by any such person who uses the Service (each a "User"). 
 
 **The Circumstances During Which We Collect PII**
 
 1\. Registration
 
-Upon registration with the Site, we collect PII and other information required to create a User account for you and, optionally, to deliver to you a version of FMA that is compatible with your mobile device. At this time, this information consists of: 
+Upon registration with the Site, we collect PII and other information required to create a User account for you and, optionally, to deliver to you a version of MA that is compatible with your mobile device. At this time, this information consists of: 
 
   * — Your mobile communications carrier (optional)
   * — Your mobile device make and model (optional)
@@ -28,7 +28,7 @@ Upon registration with the Site, we collect PII and other information required t
   * — A password for logging in to the Site
 
   
-This information will be stored in an internal database that is proprietary to GTI. Other than as necessary to create your User account, deliver the proper version of FMA to your mobile device or for the various other uses disclosed in this Policy, we will only use this information to determine the appropriateness of, and thus whether to display to you, certain content on the Site. We do not serve content on the Site in a personally identifiable manner; rather, the software we use entreats this task in a closed database environment. 
+This information will be stored in an internal database that is proprietary to GTI. Other than as necessary to create your User account, deliver the proper version of MA to your mobile device or for the various other uses disclosed in this Policy, we will only use this information to determine the appropriateness of, and thus whether to display to you, certain content on the Site. We do not serve content on the Site in a personally identifiable manner; rather, the software we use entreats this task in a closed database environment. 
 
 2\. Configuration of a Customized Diet or Workout Program
 
@@ -79,6 +79,8 @@ When you register on the Site, you will be given the opportunity to either choos
 **Internet-based Advertising**
 
 We use third-party advertising companies to serve ads when you visit the Site. These companies may use information other than PII about your visits to the Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.google.com/privacy_ads.html). 
+
+We also use Remarking with Google Analytics for Display Advertisers and may remarket our services or products to our visitors by showing them ads on sites across the Internet. We use third party advertising vendors, including Google, that use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website. You may opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting the [Ads Preferences Manager](https://www.google.com/settings/ads/onweb/). 
 
 **Contacting GTI**
 
