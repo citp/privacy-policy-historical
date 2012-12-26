@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverturbo.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627222646id_/http%3A//www.driverturbo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverturbo.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226202441id_/http%3A//www.driverturbo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Driver Turbo
 
@@ -6,9 +6,9 @@ The Internet is an amazing tool. It has the power to change the way we live, and
 
 We believe your business is no one else’s. Your privacy is important to you…and to us. So we’ll protect the information you share with us. To protect your privacy, Driver Turbo follows different principles in accordance with world-wide practices for customer privacy and data protection.
 
-A. We won’t sell or give away your name, mail address, phone number, email address, credit card number or any other information to anyone.
+**A.** We won’t sell or give away your name, mail address, phone number, email address, credit card number or any other information to anyone.
 
-B. We’ll use state-of-the-art security measures to protect your information from unauthorized users.
+**B.** We’ll use state-of-the-art security measures to protect your information from unauthorized users.
 
 ### Notice
 
@@ -35,5 +35,3 @@ When you join us, you provide us with your contact information, including your n
 We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
 Driver Turbo will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Driver Turbo or the site; (b) protect and defend the rights or property of Driver Turbo and its family of Web sites, and, (c) act in urgent circumstances to protect the personal safety of users of Driver Turbo, its Web sites, or the public.
-
-top
