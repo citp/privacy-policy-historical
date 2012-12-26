@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scarleteen.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502043816id_/http%3A//www.scarleteen.com/user_guidelines_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scarleteen.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226053426id_/http%3A//www.scarleteen.com/user_guidelines_privacy_policy) for the most accurate reproduction.*
 
 # User Guidelines & Privacy Policy | Scarleteen
 
