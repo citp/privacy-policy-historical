@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bourbonandboots.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626024411id_/http%3A//www.bourbonandboots.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bourbonandboots.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226064212id_/http%3A//www.bourbonandboots.com/privacy) for the most accurate reproduction.*
 
-# - Bourbon & Boots
+# Privacy - Bourbon & Boots
 
 We collect information from you when you register on our site or place an order
 
