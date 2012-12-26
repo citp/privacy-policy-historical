@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filestube.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627004134id_/http%3A//www.filestube.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filestube.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226130015id_/http%3A//www.filestube.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -34,15 +34,15 @@ Our primary goals in collecting information are to provide and improve the Servi
 
 We collect Your personal information in the following ways:
 
-**Account**
+ **Account**
 
 In order to become a User, You do not need to create an account on our Site. In order to access some features of the FilesTube or other elements of the Service, you will have to create a FilesTube account. When creating your account You benefit from number of different Services we provide to help You take advantage of our unique file search solution. In this respect You are required to provide the following contact information, which You recognize and expressly acknowledge is personal information allowing others, including FilesTube, to identify You: email address, username and a password chosen by You. It is important that you must keep your FilesTube account password secure and confidential.
 
-**Log Data**
+ **Log Data**
 
 When You visit the Site or use the Service, whether as a FilesTube subscriber or a non-registered User just browsing our servers FilesTube automatically records information about Your use of the Service and Your visit to the Site ("Log Data"). The Log Data may include information such as Your computer's Internet Protocol (IP) address, Your browser type, what Software You were using, the web page You were visiting immediately prior to visiting our Site, pages of our Site that You visited, the time spent on those pages, information You searched for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Site and the Service and for the Site's technical administration, to improve our Site's functionality and User-friendliness, and to better tailor it to our visitors' needs. We also use this information to verify that Users of the Service meet the criteria required to process their requests.
 
-**Cookies**
+ **Cookies**
 
 Like most Sites, FilesTube uses cookies and web log files to track site usage. A cookie is a tiny data file which resides on Your computer which allows FilesTube to recognize You as a User when You return to the FilesTube Site using the same computer and web browser. If Your browser settings do not allow cookies, You will not be able to use the FilesTube Site. Like the information You enter at registration, cookie and log file data is used to customize Your experience on our Site.
 
@@ -52,7 +52,7 @@ Additionally, if You log out of the FilesTube Site You will need to re-enter You
 
 We use cookies to improve the quality of our Service by storing User preferences and tracking User trends. In the course of serving advertisements or optimizing Services to our Users, we may allow authorized third parties to place or recognize a unique cookie on Your browser. Any information provided to third parties through such cookies will not be personally identifiable. Most browsers are initially set up to accept cookies, but You can reset Your browser to refuse all cookies or to indicate when a cookie is being sent. Unfortunately, if Your browser settings do not allow cookies or You opt to refuse all cookies, You may not be able to use the FilesTube Site or Services. FilesTube does not store personally identifiable information in the cookies.
 
-**Web Beacons**
+ **Web Beacons**
 
 We allow other companies, called ad networks, to serve advertisements to Users. Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms.
 
@@ -62,21 +62,21 @@ Because Your web browser must request these advertisements and web beacons from 
 
 These general targets may also be used by ad networks to display targeted ads on other sites as a substitute for random, irrelevant ads. FilesTube does not provide personally identifiable information to any advertiser or any other third party.
 
-**Log files, IP addresses and information about Your computer**
+ **Log files, IP addresses and information about Your computer**
 
 Due to the communications standards on the Internet, when You visit the FilesTube Site we automatically receive the URL of the site from which You came and the site to which You are going when You leave FilesTube. We also receive the Internet protocol (IP) address of Your computer (or the proxy server You use to access the World Wide Web), Your computer operating system and type of web browser You are using, email patterns, as well as the name of Your ISP. This information is used to analyze overall trends to help us improve the FilesTube Service. The linkage between Your IP address and Your personally identifiable information is not shared with third-parties without Your permission or except when required by law.
 
-**FilesTube Communications**
+ **FilesTube Communications**
 
 FilesTube will communicate with You through email and notices posted on the FilesTube Site or through other means available through the Service, including text and other forms of messaging. FilesTube may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major FilesTube changes or for customer service purposes). If we send any communications to You via the carrier service with which You have a mobile communications subscription or otherwise have access, You understand You will pay any service fees associated with any such access (including text messaging charges for messages to Your mobile device). Please be aware that You will always receive certain emails from FilesTube related to the proper functioning of Your account. You can change Your e-mail and contact preferences at any time by logging into Your account and amending Your email notification choices. By clicking "Sing up" during the registration process, You also consent to receive commercial or marketing messages from FilesTube and/or Partners in Your email.
 
-**Sharing Information with Third Parties**
+ **Sharing Information with Third Parties**
 
 FilesTube takes the privacy of Users very seriously. We do not sell, rent, or otherwise provide Your personally identifiable information to third parties for marketing purposes. We will only share Your personally identifiable information with third parties to carry out Your instructions or to provide specific Services or information. These third parties do not retain, share, or store any personally identifiable information except to provide these Services and they are bound by confidentiality agreements which limit their use of such information.
 
 We may provide aggregated anonymous data about the usage of our Services to third parties for such purposes as we deem, in our sole discretion, to be appropriate, including to prospective advertisers on FilesTube.
 
-**Teaming with Other Organizations to Offer Combined and Other Services**
+ **Teaming with Other Organizations to Offer Combined and Other Services**
 
 FilesTube may offer our Services in connection with other sites (including updates about the FilesTube Service) or may team with other online services to give You the combined results of both services or additional services and benefits. Platform Applications can be designed by Platform Developers or by a subset of Platform Developers with whom FilesTube has more closely aligned (“Partners”).
 
@@ -90,39 +90,39 @@ FilesTube is not responsible for Your use of or inability to use any Platform Ap
 
 FilesTube allows other companies to place advertisements on the Site. These companies use technology to deliver advertisements You see on the Site directly to Your browser. In doing so, they may automatically receive Your IP address. Other companies that place advertising on the Site may have the ability to use cookies and/or web beacons to collect information, including information about Your usage of the Site. We do not control the processes that advertisers use to collect information. However, IP addresses, cookies and web beacons alone generally cannot be used to identify individuals, only machines. Therefore, advertisers and others whose advertisements or content may appear on the Site generally will not know who You are unless You provide additional information to them, by responding to an advertisement, by entering into an agreement with them, or by some other means.
 
-**Legal Disclaimer**
+ **Legal Disclaimer**
 
 FilesTube cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about You to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect the property and rights of FilesTube or a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical.
 
-**Disclosures to others**
+ **Disclosures to others**
 
 We may also disclose Your personal and other information You provide, to another third party as part of a reorganization or a sale of the assets of a FilesTube division or company. Any third party to which we transfer or sell FilesTube’s assets will have the right to continue to use the personal and other information that You provide to us.
 
-**Phishing**
+ **Phishing**
 
 Identity theft and the practice currently known as "phishing" are of great concern to FilesTube. Safeguarding information to help protect You from identity theft is a top priority. We do not and will not, at any time, request Your credit card information, Your account ID, login password in a non-secure or unsolicited e-mail or telephone communication.
 
-**Aggregate Information and Non-Identifying Information**
+ **Aggregate Information and Non-Identifying Information**
 
 We may share aggregated information that does not include personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain Your personal Information.
 
-**International Transfer**
+ **International Transfer**
 
 Your information may be transferred to "and maintained on" computers located outside of Your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in Your jurisdiction. Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to such transfer.
 
-**Links to Other Sites**
+ **Links to Other Sites**
 
 Our Site contains links to other web sites. If You choose to visit an advertiser by clicking on a banner ad or other type of advertisement, or click on another third party link, You will be directed to that third party's web site. The fact that we link to a web site or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party web sites. These other web sites may place their own cookies or other files on Your computer, collect data or solicit personal information from You. Other sites follow different rules regarding the use or disclosure of the personal information You submit to them. We encourage You to read the privacy policies or statements of the other web sites You visit.
 
-**Accessing and Changing Your Account Information**
+ **Accessing and Changing Your Account Information**
 
 You can review the information You provided us and make any desired changes to them, or to the settings for Your FilesTube account including Your email at any time by logging in to Your account on the FilesTube Site. Please be aware that even after Your request for a change is processed, FilesTube may, for a time, retain residual information about You in its backup and/or archival copies of its database. We take Your rights seriously and encourage You to use them if You deem this to be appropriate. You may exercise these rights by emailing us at support@filestube.com
 
-**Deleting Your Account**
+ **Deleting Your Account**
 
 You can also delete Your account through the FilesTube Site, in which case you can still use FilesTube, but FilesTube may not be able to provide certain Services to you. If You delete Your FilesTube account, we may retain certain data contributed by You if we believe it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data, account recovery, or if required by law. In order to delete Your account please visit “Delete Account” section associated with Your account.
 
-**Your Obligations**
+ **Your Obligations**
 
 As a User, You have certain obligations imposed by applicable law and regulations:
 
@@ -133,23 +133,23 @@ As a User, You have certain obligations imposed by applicable law and regulation
 
 Any violation of these guidelines may lead to the restriction, suspension or termination of Your account by FilesTube, as we take these principles seriously and consider them to be the basis on which our Users adhere to the FilesTube Site and the Services which it offers.
 
-**Changes to this Privacy Policy**
+ **Changes to this Privacy Policy**
 
 FilesTube may update this Privacy Policy at any time, with or without advance notice. Unless stated otherwise, our current Privacy Policy applies to all information that we have about You and Your account.
 
 If You use the FilesTube Service after notice of changes have been sent to You or published on our site, You hereby provide Your consent to the changed practices.
 
-**Security**
+ **Security**
 
 We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of Your unencrypted electronically stored "personal data" (as defined in applicable laws related to security breach notification) to You via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
-**Data Retention Policy**
+ **Data Retention Policy**
 
 FilesTube may retain Your account information indefinitely, regardless of whether You have disabled Your FilesTube account on the Site. FilesTube will retain Log Data consistent with applicable legal requirements. Generally, at a minimum, FilesTube will retain the Log Data collected from You in its active, internal company databases for six months, at which point it will migrate such Log Data to its offline archival systems, where FilesTube will retain the Log Data for a period of three years (together, the "Retention Period"). After the Retention Period, FilesTube will purge the Log Data from its systems. In the event of an investigation by law enforcement or a response to claims or legal process, we may retain the Log Data until such investigation or process is completed, which may be longer than the Retention Period.
 
 The administrator of your personal data is Red Sky Sp. z o. o., a company incorporated under the laws of Poland, with its registered office in Szczecin, at Rynek Sienny 4b Street, Szczecin 70-542, Poland, registered in the entrepreneurs register conducted by the National Court Register maintained by the District Court in Szczecin, XIII Commercial Department, with KRS number 0000209107, NIP (tax identification number): 642-26-83-651, REGON number 276822679, amount of the share capital of PLN 937.000,00 covered in whole.
 
-**Statement**
+ **Statement**
 
 Red Sky Sp. z o. o. hereby declares as follows:
 
@@ -173,6 +173,6 @@ Red Sky Sp. z o. o. hereby declares as follows:
 
 
 
-**How to contact us**
+ **How to contact us**
 
 If You have questions or comments about this Privacy Policy, please email us at [support@filestube.com](mailto:support@filestube.com)
