@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the becomeacouponqueen.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616033823id_/http%3A//becomeacouponqueen.com/disclaimer-privacy%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the becomeacouponqueen.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226091001id_/http%3A//becomeacouponqueen.com/disclaimer-privacy%23Privacy) for the most accurate reproduction.*
 
-# Disclosure, Disclaimer & Privacy Policies
+# Disclosure, Disclaimer & Privacy Policies - Become A Coupon Queen
 
 This page contains our Disclosure, Disclaimer and Privacy Policies.  
 
