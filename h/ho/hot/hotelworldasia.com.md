@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelworldasia.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208205719id_/http%3A//edm.enterpriseinnovation.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelworldasia.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226064831id_/http%3A//edm.enterpriseinnovation.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Questex Asia
 
