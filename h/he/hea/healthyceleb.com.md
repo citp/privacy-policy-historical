@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyceleb.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609062603id_/http%3A//healthyceleb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyceleb.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226120302id_/http%3A//healthyceleb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Healthy Celeb
 
@@ -18,8 +18,8 @@ Other Third Party ad servers or ad networks may also use cookies to track users 
 When visiting [http://healthyceleb.com](http://healthyceleb.com/ "Healthy Celeb"), the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
 **Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. The non-proprietary components used in here are subject to the licensing agreements of their respective copyright holders and are binding for the user.
 
 ### **Contact Information**
 
-Concerns or questions about this privacy policy can be directed to **prince.jindal8@gmail.com** for further clarification.
+Concerns or questions about this privacy policy can be directed to **admin@healthyceleb.com** for further clarification.
