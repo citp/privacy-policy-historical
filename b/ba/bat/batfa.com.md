@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batfa.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222802id_/http%3A//www.batfa.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batfa.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226134818id_/http%3A//www.batfa.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy policy of Batfa Japan Inc, Japanese car exporter
 
