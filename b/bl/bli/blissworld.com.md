@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blissworld.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623140834id_/http%3A//www.blissworld.com/t-customerserviceprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blissworld.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226052617id_/http%3A//www.blissworld.com/t-customerserviceprivacy.aspx) for the most accurate reproduction.*
 
 # Customer Service - Privacy and Security - Blissworld
 
@@ -8,7 +8,7 @@ There may be times (such as when you purchase or order a product, subscribe to s
 
 Your e-mail information is not shared with other organizations for commercial purposes. We do not collaborate with or have special relationships with any ad server companies. We use the personally identifiable information you provide for internal purposes, such as confirming and tracking your order, subscription or registration, analyzing tends and statistics, informing you of our new products, services and offers, and providing you with information from and about Bliss brands. To serve you better, we may combine information you give us online, in our spas or through our catalogs.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at 888-243-8825, contacting us online at [http://www.blissworld.com/contactus.aspx](https://web.archive.org/contactus.aspx), writing to us at BlissWorld.com, 75 Varick Street, New York, NY 10013 Attention: Customer Service, or faxing us at 212-380-4644. 
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at 888-243-8825, contacting us online at [http://www.blissworld.com/contactus.aspx](https://web.archive.org/contactus.aspx), writing to us at Bliss Direct Inc, 75 Varick Street, New York, NY 10013 Attention: Customer Service, or faxing us at 212-380-4644. 
 
 Occasionally, we make our mailing list available to carefully selected companies whose products and services maybe of interest to our customers. If you do not wish to receive such mailings, you can, have your name put on our do-not-share list by calling us at the number provided above, writing to us at the below address, or faxing us at 212 931 6376. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations. Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
@@ -27,7 +27,7 @@ Phone: 888-243-8825
 Fax: 212-380-4644 
 
 Mail:  
-BlissWorld.com  
+Bliss Direct Inc  
 75 Varick Street  
 10th Floor  
 New York, NY 10013  
@@ -41,6 +41,6 @@ Unfortunately, however, no data transmission over the Internet can be guaranteed
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our web site periodically.
 
-To help us improve our privacy policy and practice, please give us your feedback. You may email us or write to us at Blissworld.com, 75 Varick Street, New York, NY 10013, Attention: Direct Marketing Dept.
+To help us improve our privacy policy and practice, please give us your feedback. You may email us or write to us at Bliss Direct Inc, 75 Varick Street, New York, NY 10013, Attention: Direct Marketing Dept.
 
 _Privacy statement updated April 3rd, 2012_
