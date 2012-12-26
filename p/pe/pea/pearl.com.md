@@ -1,100 +1,104 @@
-> *The following text is extracted and transformed from the pearl.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearl.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226143405id_/http%3A//info.pearl.com/privacy-security) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy and Security at Pearl.com | Pearl.com
 
-**Go Daddy Respects Your Privacy**
+**June 19, 2012**[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.pearl.com&sealid=101)
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+****Inherent to transacting on the Internet is the collection of some personal information. Pearl.com LLC ("Pearl.com") is committed to protecting your personal information and privacy. This Privacy & Security Policy applies exclusively to the Site [www.pearl.com](http://www.pearl.com/ "www.pearl.com"). This policy describes the personal information we collect from you and how we use and secure it. "Personally Identifiable Information" or “PII” defines information such as name and email that can be used to identify you personally.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Pearl.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements ](http://www.truste.com/privacy-program-requirements/ "TRUSTe's program requirements") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the website [www.pearl.com](http://www.pearl.com/ "www.pearl.com"). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [click here](https://web.archive.org/contact-us "contact us") to contact us. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request "TRUSTe here"). ****
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Capitalized terms not defined in this Agreement will have the meanings set forth in the Terms of Service.
 
-**Information Collection and Use**
+**Principle 1: Information We Collect**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+You may browse the Pearl.com site without providing any PII. If you choose to provide us with your PII, you are agreeing to the processing and storage of your information in the United States and countries outside of the United States which may have data protection laws that differ from laws in your country.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Pearl.com explicitly asks when it needs PII. To help facilitate the question and response process, and the payment of Professionals via PayPal™, Pearl.com requires basic data such as email address. To obtain payments from Customers, Pearl.com asks for either credit card information or PayPal™ email address, at the Customer's election. Professional applicants and/or referral participants may be asked for additional information, such as full names, addresses, telephone numbers, professional license and certification information, and payment-related information. Professionals who win prizes on the site may be required to provide shipment addresses. If you choose to have Pearl.com notify you of responses to your questions via text message, you will be asked for your cellular phone number and cellular phone company. Other PII may be requested in certain circumstances or collected on a voluntary basis such as on users' profile or signature pages. If you are a referral participant and elect to receive payments via check, we will receive all information necessary to distribute a check to you, such as your name and mailing address. ****
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**As explained in the Pearl.com Terms of Service, information provided by you in the content of your questions, answers, and other posts on the Site, in Professional profiles describing your experiences and qualifications, and in signatures attached to postings on the Site ("Posts") is not private or confidential. This is an Internet-based forum (akin to a modern version of a radio call-in program) and information submitted in Posts may be read, collected, and used by others, and Pearl.com is not responsible for it.   For example, search engines may index your questions, answers, and other Posts to allow them to appear in search engine results (e.g. if someone does a search on google.com, your questions, answers, and other Posts on Pearl.com that relate to the search may appear in the google.com search results list). Protect your anonymity by not including your real name or any PII in your questions, answers, and other Posts on the Site.**
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+In some cases, Pearl.com supplements portions of the PII you provide with other data received from third parties, or data sent to us from your web browser including (depending on its settings) your IP address, browser type, internet service provider, referring/exit pages, operating system, date/time stamp, and click stream data ("Usage Statistics").
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+To enhance and individualize your experience with Pearl.com, we use a web browser feature called a "cookie." Cookies are small files that your browser places on your computer's hard drive. We use cookies to let us know that you are a prior user and, if you wish, retrieve your username and password so you do not need to enter them again. Cookies are not used to store other personal information. Pearl.com also uses cookies to maintain state. That is, each time you logon, our system issues your browser a unique, randomly generated number by which it can identify itself. In that way, your data gets sent to you and not someone else. You must activate cookies to logon to Pearl.com.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+The use of cookies by any partners, affiliates, or other service providers (“Third Parties”) is not covered by our privacy statement. We do not have access or control over these cookies. These Third Parties use session ID cookies to make it easier for you to navigate our site
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We use a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to Customer PII.
 
-**Security**
+Pearl.com is intended for use by persons over 13 years old. In addition, it does not knowingly solicit or collect PII from persons under 13 years old. We may delete from the site PII, as well as Posts and other information, from users we believe are under the age of 13.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**Principle 2: Use of Your Information**
 
-**Updating Your Information**
+We will share your personal information with third parties only in the ways that are described in this privacy policy.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Pearl.com may use, share, transfer, or disclose your PII and/or Usage Statistics, itself or in conjunction with third parties, for payment processing, fraud prevention, customer service, demographic studies, to tailor Pearl.com's content and services to its users' needs, and to serve advertisements. These companies are authorized to use your PII only as necessary to provide the service.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+To display advertisements that may interest you, Pearl.com uses third-party advertising companies who may use Usage Statistics (not your name, address, email address or telephone number). Our ad network service uses cookies and Web beacons to collect non-PII about your activities on this and other websites to provide you targeted advertising based upon your interests. To learn more about this third-party advertising practice and your choice to opt-out of having information about you used by these companies, [click here](http://www.networkadvertising.org/choices/). Please note this does not opt you out of being served generic advertising.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Pearl.com will not otherwise disclose your PII (unless you voluntarily provide it in your Posts), without your consent, unless acting under a good faith belief that such action:
 
-      iii.      You may call us at: (480) 505-8800
+  * conforms to legal requirements or complies with legal process, such as in complying with a formal request in a court order, subpoena or judicial proceeding;
+  * serves to protect or defend the rights, property, or safety of Pearl.com, its users, or others;
+  * to any other third party with your consent to do so; or
+  * enforces the Pearl.com Terms of Service or related Agreements.
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Pearl.com LLC may share your PII with any parent company, subsidiaries, joint venturers, or other companies under common control, in which event it will require that such companies follow this Policy with respect to your PII. If these companies follow other privacy practices you will be provided with prior written notice.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+**Principle 3: Correspondence Sent to You**
 
-**Compliance with Laws and Law Enforcement**
+Pearl.com will not send you any unsolicited information, including e-mail, except:
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+(i) Users may receive Pearl.com registration emails when they register, Professional applicants may receive Pearl.com communications relating to their applications, Professionals may receive notifications of questions asked in the categories in which they are admitted, and all users may receive updates and notices about questions they are asking or answering, other Posts, their accounts, and new features and policies; these communications are considered part and parcel of your service and, except for the daily digests, you cannot opt out of them;
 
-**Third Party Service Providers**
+(ii) Periodically, Pearl.com may contact you about new services, special offers, promotions and third-party / affiliate offers, and will include in any such emails an opt-out link by which you can opt out of receiving such emails; and
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+(iii) Our customer service and other departments may contact users and referral participants in order to ensure your satisfaction with Pearl.com and/or to ask how we can improve.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+**Principle 4: Updating and Deleting PII**
 
-**Supplementation of Information**
+If at any time you would like to update your PII, please log into your account and access your Edit Profile page. If at any time you would like your PII to be removed from our Site and/or database, or believe that Pearl.com has not adhered to these privacy principles, please notify us by email by [clicking here](https://web.archive.org/contact-us "contact us"). We will use commercially reasonable efforts to delete your PII and/or promptly detect and remedy any problems.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+**Principle 5: Links to Third-Party Sites**
 
-**Contests/Surveys**
+To the extent that links to other Web sites are contained in Posts on the Pearl.com site, please note that they are not operated or controlled by Pearl.com is not responsible for the privacy practices, security, or content of these third-party sites.We encourage you to carefully read the privacy policy of any Web site you visit.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Our Site includes social media features, such as the Facebook Like button and widgets, such as the ShareThis button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+**Principle 6: Security and Data Retention**
 
-**Tell-A-Friend**
+Pearl.com uses multiple security procedures and practices to protect from unauthorized access, destruction, use, modification and disclosure the PII requested from users.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+All PII is password protected. All passwords use 160 bit encryption.
 
-**What Happens to my Personal Information if I Opt Out?**
+Pearl.com uses 128-bit secure socket layer (SSL) technology and digital certificates to encrypt and authenticate transactions (credit card and other payments). SSL creates a secured connection between our web servers and your browser, which protects against unauthorized access to transmitted data and supports data being sent only to intended recipients.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Our database logs important changes so that unauthorized transactions can be quickly reversed.
 
-**Transfer of Data Abroad**
+Our main servers are locked and hosted by a leading provider of Internet access to enterprises with mission-critical Internet application requirements. Access to the host environment is highly secure. Biometric scanning, 24/7 onsite staff monitoring, and other safeguards are utilized. In addition, back-up servers that are stripped of email addresses, passwords, and credit card information are located in an office that is locked outside of normal business hours.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+Despite these security procedures and practices, as is the case with all computer networks connected to the Internet, Pearl.com cannot guarantee the security of your PII or any other information provided over the Internet and will not be responsible for breaches of security.
 
-**Changes in Our Practices**
+We retain your account information and the information provided by you in the form of Posts until such time that we determine it has no further commercial significance, at which time we may delete and/or aggregate and store it in aggregate form indefinitely.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+If you wish to cancel your account or request that we no longer use your information to provide you services contact us [here](https://web.archive.org/help "contact us").
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+**Principle 7: Updates to This Policy**
 
-**Contacting Our Site**
+By visiting Pearl.com, you are accepting this policy. We may update this privacy policy to reflect changes to our information practices. Please check the date of this policy each time you visit to ensure that you are aware of the most current version. If you do not agree to the terms of this policy, please do not use this site.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+If we make any material changes to how your PII is used or shared, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-* * *
+**Principle 8: Our Commitment to Children's Privacy**
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Pearl.com is particularly concerned with safeguarding the privacy of children. The Site and Service are not directed to children under 13, and children under 13 are prohibited from using the Site and Service. We do not knowingly collect PII from children under 13. If a parent or guardian becomes aware that his or her child has provided us with PII without the parent’s or guardian’s consent, he or she should contact us by [clicking here](https://web.archive.org/contact-us "contact us"). If we become aware that a child under 13 has provided us with PII, we will delete such information from our systems. IF YOU ARE UNDER 13 YEARS OF AGE, THEN YOU MAY NOT USE OR ACCESS THE SITE OR SERVICE AT ANY TIME OR IN ANY MANNER.
+
+Click [HERE](https://web.archive.org/parental-control-information) for more information on commercially available parental control protections.
+
+**Contact Us**
+
+If you have questions or suggestions regarding this Privacy Policy, please contact us by clicking [here](https://web.archive.org/help "contact us") or mail us at P.O. Box 29045, San Francisco, CA 94129.
+
+NOTICE: Click [here](http://www.safetysurf.com/) for important information about safe surfing.
