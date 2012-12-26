@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pondly.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606012532id_/http%3A//www.pondly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pondly.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226232041id_/http%3A//www.pondly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pondly
 
