@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tremorvideo.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614141852id_/http%3A//www.tremorvideo.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tremorvideo.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227004000id_/http%3A//www.tremorvideo.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « Tremor Video
 
 ##### Opt out of Interest-Based Advertising
 
-Tremor Video uses advertising cookies to improve the online experience of its users by trying to match the ads we serve to the possible preferences and interests of users. By so doing, ads that Tremor Video serves may be more relevant and useful to you. You may always opt out of the cookies that Tremor Video uses to serve online interest-based advertising by clicking on the button above. After you opt out, these cookies will no longer be associated with your browser. Ads may continue to be served based on information available in the Internet environment, such as the content of a web page, browser type, time of day and operating system. If you have opted out of the cookies that Tremor Video uses and subsequently delete the “opt out” cookie from your browser, change your browser, or buy a new computer, you will need to opt out again of Tremor Video interest-based advertising, and you may always do so by clicking on the button above. 
+Tremor Video uses advertising cookies to collect information about your activities on certain websites to send you targeted ads. You may always opt out of our targeted advertisements by clicking on the opt-out button above. After you opt out, Tremor Video will no longer collect this information to deliver targeted ads. Ads may continue to be served based on information available in the Internet environment, such as the content of a web page, browser type, time of day and operating system. If you have opted out of Tremor Video advertising cookies and subsequently delete the “opt out” cookie from your browser, change your browser, or buy a new computer, you will need to opt out again of Tremor Video targeted advertisements, and you may always do so by clicking on the opt-out button above. 
 
 Last Updated: August 29, 2011
 
@@ -66,6 +66,8 @@ When you use the Tremor Video Site, you are accepting the terms and conditions o
 
 **FOR THE TREMOR VIDEO NETWORK SERVICES**
 
+We collect information about your activities on certain websites to send you targeted ads. To opt out of our targeted advertisements [click here](http://www.tremorvideo.com/about-us/privacy).
+
 WHAT DOES TREMOR VIDEO DO?  
 Tremor Video is an online advertising company that offers advertisers opportunities to display their interactive or video ads on top-tier websites, including mobile websites, and mobile applications. Our services streamline the selection and delivery of interactive and video ads for advertisers and web publishers. 
 
@@ -94,7 +96,7 @@ IS INFORMATION TRANSFERRED TO TREMOR VIDEO SUCCESSORS AND AFFILIATES?
 Tremor Video may transfer the information it collects in connection with its business to any successor-in-interest to Tremor Video (such as a company that acquires Tremor Video), or internally to one or more affiliates (such as a corporate subsidiary or parent). Tremor Video may also disclose information if it determines that an applicable law, regulation, or legal process requires it, or if Tremor Video determines that it needs to share such information to protect or enforce Tremor Video’s rights or the rights of another user.
 
 ABOUT THIS PRIVACY POLICY  
-Tremor Video reserves the right to modify this privacy policy at any time. If you have questions or concerns about this privacy policy, please email us at [privacy@tremormedia.com](mailto:privacy@tremormedia.com) or write to us at  
+Tremor Video reserves the right to modify this privacy policy at any time. If you have questions or concerns about this privacy policy, please email us at [privacy@tremorvideo.com](mailto:privacy@tremorvideo.com) or write to us at  
 Tremor Video, Inc., Attention: Privacy  
 53 West 23rd Street, New York, NY 10010.
 
