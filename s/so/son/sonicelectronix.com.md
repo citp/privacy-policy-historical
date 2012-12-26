@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sonicelectronix.com privacy policy that was archived on 2012-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120307100247id_/http%3A//www.sonicelectronix.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicelectronix.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226230734id_/http%3A//www.sonicelectronix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Sonic Electronix
 
-We value the trust you place in Sonic Electronix, and we want you to be aware of the safeguards we have in place to respect your privacy. The below policy tells you about the information we gather about you and how we use it. If you have any questions or concerns about our privacy policy, please [contact us.](mailto:webmaster@sonicelectronix.com)
+We value the trust you place in Sonic Electronix, and we want you to be aware of the safeguards we have in place to respect your privacy. The below policy tells you about the information we gather about you and how we use it. If you have any questions or concerns about our privacy policy, please [contact us.](https://web.archive.org/contact)
 
 **Types of personal information we may gather:**
 
@@ -11,7 +11,7 @@ Sonic Electronix gathers personal information from you in order to provide super
   * **Purchases** \- When you place an order, you give us your name, address, phone number and/or e-mail address plus payment information.
   * **Non-Purchases** \- There may be instances when you are not making a purchase at Sonic Electronix and you give us your name, address, phone number and/or e-mail address, and where applicable, payment information, or when somebody else gives us your name, address, phone number and/or e-mail address, and where applicable, payment information. Some situations when this may occur are when you return or exchange merchandise, receive a gift from Sonic Electronix or enter a contest or participate in a promotion or survey sponsored by Sonic Electronix.
   * **Personal Shopping Account** \- If you create a Personal Shopping Account with us so that you may place orders more conveniently, you authorize us to store your name and shipping address(es), and payment information.
-  * **E-mail updates** \- When you subscribe to receive Sonic Electronix e-mail updates featuring exclusive offers (like free shipping), product news, special discounts, contest announcements and more, we require your e-mail address. You can [unsubscribe](http://newsletter.sonicelectronix.com/unsubscribe.php?M=2529&C=cc29280adba1e8fb6f502ae59b8dd7c2&L=2&N=49) at any time.
+  * **E-mail updates** \- When you subscribe to receive Sonic Electronix e-mail updates featuring exclusive offers (like free shipping), product news, special discounts, contest announcements and more, we require your e-mail address. You can unsubscribe at any time by clicking the "unsubscribe" link at the bottom of any promotional e-mail.
 
 
 
