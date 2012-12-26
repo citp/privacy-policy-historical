@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629005700id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226175135id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
 
 # DVD Media, CD Media | Shop4tech
 
@@ -8,12 +8,12 @@
 
 This site gives users the following options for removing their information from our database in order to be taken off our emailing list.
 
-  * You can [click here](http://www.shop4tech.com/e/pref/) to unsubscribe
+  * You can **[click here](http://www.shop4tech.com/e/pref/)** to unsubscribe
   * You can send mail to the following postal address:   
 _Shop4tech Inc. (Optout)  
-5595 Daniels Street, Ste H   
+13745 Seminole Drive   
 Chino, CA 91710_
-  * You can call the following telephone number: 909-248-2680
+  * You can call the following telephone number: **Toll Free: 877-659-7392**
 
 
 
@@ -23,21 +23,17 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 **Correct/Update** This site gives users the following options for changing and modifying information previously provided.
 
-  * email [support@shop4tech.com ](mailto:%20support@shop4tech.com)
+  * **[email](mailto:support@shop4tech.com)**
   * send mail to the following postal address:   
 _Shop4tech Inc. (Optout)  
-5595 Daniels Street, Ste H   
+13745 Seminole Drive   
 Chino, CA 91710_
 
 
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can **[email](mailto:webmaster@shop4tech.com)**.
 
-  
-Shop4tech Inc.   
-5595 Daniels Street, Ste H   
-Chino, CA 91710   
-[webmaster@shop4tech.com ](mailto:%20webmaster@shop4tech.com) 
+
 
