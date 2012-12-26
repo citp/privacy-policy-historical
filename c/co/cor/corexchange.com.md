@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the corexchange.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511013449id_/https%3A//www.corexchange.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corexchange.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226181057id_/http%3A//corexchange.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CoreXchange
+# Dallas Managed Network Solutions, Colocation Hosting and Internet Access
 
 CoreXchange has created this privacy policy based on its commitment to protect your online privacy and appropriately manage your personally identifiable information. This Privacy Policy sets out the practices that CoreXchange engages in with respect to the gathering and dissemination of your personal information if you are either an existing customer or simply a person who is accessing our web site. CoreXchange uses your Personal Information in order to personalize your experience on our web site and also to be able to selectively send you communications that may be of interest to you, either electronically or otherwise. CoreXchange gathers this information for internal use only. We utilize industry best practices in maintaining the security of such information and require that all of our employees enter into.
 
