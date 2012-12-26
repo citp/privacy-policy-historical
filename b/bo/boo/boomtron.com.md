@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boomtron.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627103351id_/http%3A//www.boomtron.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomtron.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226203724id_/http%3A//www.boomtron.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Boomtron.com
+# Privacy Policy | Boomtron.com
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
@@ -64,3 +64,12 @@ Additionally:
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
 
 
+
+_****ALL review material has been provided by the company producing the item unless otherwise stated. We receive our review material and assets directly from the company producing the material._
+
+  * Bio
+  * Latest Posts
+
+
+
+One of the partners/admins here at the site. We do what we want. Also lead-off batter at Optionated and breakfast cereal reviewer at MyCerealBox.
