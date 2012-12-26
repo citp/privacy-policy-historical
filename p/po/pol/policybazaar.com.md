@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the policybazaar.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621052657id_/http%3A//www.policybazaar.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the policybazaar.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226025541id_/http%3A//www.policybazaar.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy – Compare Health Insurance Online, Insurance Broker India
 
@@ -50,9 +50,4 @@ Visitors to this website/portal and every third party is hereby informed that th
 
 "Whether you want your web browser to accept cookies or not is up to you. If you haven't changed your computer's settings, most likely your browser already accepts cookies. If you choose to decline cookies, you may not be able to fully experience all features of the website. You can also delete your browser cookies of disable them entirely. But this may significantly impact your experience with our website and may make parts of our website non functional or inaccessible. We recommend that you leave them turned on."  
   
-   
-  
-|   
----  
-  
-Insurance is the subject matter of solicitation. 
+ 
