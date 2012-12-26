@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endeavor.org privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629032157id_/http%3A//endeavor.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endeavor.org privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226103709id_/http%3A//www.endeavor.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Endeavor Global
 
@@ -45,6 +45,16 @@ Endeavor Global, Inc.
 900 Broadway, Suite 301  
 New York, NY 10003  
 [Larry.brooks@endeavor.org](mailto:larry.brooks@endeavor.org)
+
+[Refresh](https://web.archive.org/impact/ajax_randommetric)
+
+#### endeavor impact
+
+73
+
+Endeavor Entrepreneurs would have qualified for the Inc. 500 list of fastest-growing US companies
+
+[Show me more](https://web.archive.org/impact/metrics)
 
 #### Support the cause
 
