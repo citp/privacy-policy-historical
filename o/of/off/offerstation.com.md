@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621042516id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226162553id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
 
 # Contact Us | OfferStation.com
 
@@ -52,48 +52,51 @@ OfferStation reserves the right to modify, update, and change this policy at our
 
 [
 
-## Concorde Hotel Kuala Lumpur Ramadan Buffet Promotion
+## New Polo Haus Outlet
 
-](http://www.offerstation.com/dining-food-offers/92407/concorde-hotel-kuala-lumpur-ramadan-buffet-promotion.htm)
-
-[
-
-## Padini Concept Store Mid Year Sale
-
-](http://www.offerstation.com/sales-warehouse-clearance/92222/padini-concept-store-mid-year-sale.htm)
+](http://www.offerstation.com/whats-new/101619/new-polo-haus-outlet.htm)
 
 [
 
-## FREE Parkson Vouchers with Citibank Card
+## Christmas Deserts & Beverages at delicious
 
-](http://www.offerstation.com/offers-promotions/92163/free-parkson-vouchers-with-citibank-card.htm)
-
-[
-
-## New Hui Lau Shan Outlet
-
-](http://www.offerstation.com/dining-food-offers/92463/new-hui-lau-shan-outlet.htm)
+](http://www.offerstation.com/dining-food-offers/101373/christmas-deserts-and-beverages-at-delicious.htm)
 
 [
 
-## FREE New iPad with AmBank Balance Transfer / QuickCash
+## 1Malaysia Year End Sale 2012
 
-](http://www.offerstation.com/offers-promotions/89126/free-new-ipad-with-ambank-balance-transfer--quickcash.htm)
-
-[
-
-## Crocs 1Malaysia Mega Sale Carnival
-
-](http://www.offerstation.com/sales-warehouse-clearance/92314/crocs-1malaysia-mega-sale-carnival.htm)
+](http://www.offerstation.com/sales-warehouse-clearance/98687/1malaysia-year-end-sale-2012.htm)
 
 [
 
-## NAZA TTDI Property Carnival
+## Angry Birds Contest
 
-](http://www.offerstation.com/happenings-events/92581/naza-ttdi-property-carnival.htm)
+](http://www.offerstation.com/contest-prizes/101888/angry-birds-contest.htm)
 
 [
 
-## Maybank Money Express Contest
+## 4 Days Clearance Promotion at senQ The Mall 
 
-](http://www.offerstation.com/contest-prizes/83206/maybank-money-express-contest.htm)
+](http://www.offerstation.com/offers-promotions/102076/4-days-clearance-promotion-at-senq-the-mall.htm)
+
+[
+
+## VISS Warehouse Fair
+
+](http://www.offerstation.com/warehouse-sales/101853/viss-warehouse-fair.htm)
+
+[
+
+## Tiamo Star Promotion
+
+](http://www.offerstation.com/offers-promotions/101881/tiamo-star-promotion.htm)
+
+[
+
+## Toshiba Washing Machine Promotion
+
+](http://www.offerstation.com/offers-promotions/101507/toshiba-washing-machine-promotion.htm)
+
+  
+
