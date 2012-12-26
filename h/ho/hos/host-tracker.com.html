@@ -1,0 +1,576 @@
+<!--The following is the downloaded HTML source of the host-tracker.com privacy policy that was archived on 2012-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121226205328id_/http%3A//www.host-tracker.com/Privacy/PrivacyPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+    <title>HostTracker - Privacy Policy </title>
+    <link rel="shortcut icon" href="/Content/img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/Content/css/reset.css" type="text/css">
+    <link rel="stylesheet" href="/Content/css/base.css" type="text/css">
+    <link rel="Stylesheet" href="/Content/css/jquery.qtip.min.css" type="text/css">
+    <link rel="Stylesheet" href="/Content/css/animation.css">
+    <link rel="Stylesheet" href="/Content/css/customMenuTheme.css">
+    <link rel="Stylesheet" href="/Content/css/font-awesome.css">
+
+    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Content/js/std/jquery-1.7.min.js" type="text/javascript"></script>
+    <script src="/Content/js/std/jQuery.cookies.js" type="text/javascript"></script>
+    <script src="/Content/js/jquery.qtip.min.js" type="text/javascript"></script>
+    <script src="/Content/js/commonUtils.js" type="text/javascript"></script>
+    <script src="/Content/js/localization.js" type="text/javascript"></script>
+    <script src="/Content/js/bootstrap.min.js" type="text/javascript"></script>
+    
+
+        <script type="text/javascript">
+            var zones = {&quot;-720&quot;:&quot;Dateline Standard Time&quot;
+,&quot;-660&quot;:&quot;UTC-11&quot;
+,&quot;-600&quot;:&quot;Hawaiian Standard Time&quot;
+,&quot;-540&quot;:&quot;Alaskan Standard Time&quot;
+,&quot;-480&quot;:&quot;Pacific Standard Time (Mexico)&quot;
+,&quot;-420&quot;:&quot;US Mountain Standard Time&quot;
+,&quot;-360&quot;:&quot;Central America Standard Time&quot;
+,&quot;-300&quot;:&quot;SA Pacific Standard Time&quot;
+,&quot;-270&quot;:&quot;Venezuela Standard Time&quot;
+,&quot;-180&quot;:&quot;Paraguay Standard Time&quot;
+,&quot;-240&quot;:&quot;Atlantic Standard Time&quot;
+,&quot;-210&quot;:&quot;Newfoundland Standard Time&quot;
+,&quot;-120&quot;:&quot;E. South America Standard Time&quot;
+,&quot;-60&quot;:&quot;Azores Standard Time&quot;
+,&quot;0&quot;:&quot;Morocco Standard Time&quot;
+,&quot;60&quot;:&quot;W. Europe Standard Time&quot;
+,&quot;120&quot;:&quot;Namibia Standard Time&quot;
+,&quot;180&quot;:&quot;Arabic Standard Time&quot;
+,&quot;210&quot;:&quot;Iran Standard Time&quot;
+,&quot;240&quot;:&quot;Arabian Standard Time&quot;
+,&quot;270&quot;:&quot;Afghanistan Standard Time&quot;
+,&quot;300&quot;:&quot;Pakistan Standard Time&quot;
+,&quot;330&quot;:&quot;India Standard Time&quot;
+,&quot;345&quot;:&quot;Nepal Standard Time&quot;
+,&quot;360&quot;:&quot;Central Asia Standard Time&quot;
+,&quot;390&quot;:&quot;Myanmar Standard Time&quot;
+,&quot;420&quot;:&quot;SE Asia Standard Time&quot;
+,&quot;480&quot;:&quot;China Standard Time&quot;
+,&quot;540&quot;:&quot;North Asia East Standard Time&quot;
+,&quot;630&quot;:&quot;Cen. Australia Standard Time&quot;
+,&quot;570&quot;:&quot;AUS Central Standard Time&quot;
+,&quot;600&quot;:&quot;E. Australia Standard Time&quot;
+,&quot;660&quot;:&quot;AUS Eastern Standard Time&quot;
+,&quot;780&quot;:&quot;New Zealand Standard Time&quot;
+,&quot;720&quot;:&quot;UTC+12&quot;
+,&quot;840&quot;:&quot;Samoa Standard Time&quot;
+};
+            $.cookie("HTPref", "TimeZoneId=" + zones[new Date().getTimezoneOffset() * -1]);
+        </script>
+    
+
+    
+    <link rel="Stylesheet" href="/Content/css/table.css">
+    <link rel="Stylesheet" type="text/css" href="/Content/css/form.css">
+    <link rel="Stylesheet" type="text/css" href="/Content/css/index.css">
+
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-19167886-1']);
+        _gaq.push(['_trackPageview']);
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            // siteMap selector
+            var url = '/';
+            $('#simpleModeSelector').click(function () {
+                if ($(this).attr('allowClick') == 'true') {
+                    $.cookie('DefaultSiteMapProvider', 'true', { expires: 365, path: '/' });
+                    window.location.replace(url);
+                }
+            });
+            $('#advancedModeSelector').click(function () {
+                if ($(this).attr('allowClick') == 'true') {
+                    $.cookie('DefaultSiteMapProvider', 'false', { expires: 365, path: '/' });
+                    window.location.reload(true);
+                }
+            });
+
+            // languages selector
+            $('#languages span').each(function () {
+                $(this).click(function () {
+                    if ($(this).attr('isCurrentLanguage') == 'False') {
+                        var updateLanguageUrl = '/Localization/UpdateLanguage';
+                        $.get(updateLanguageUrl, { language: $(this).attr('id') }, function () { });
+                        $.cookie('Language', $(this).attr('id'), { expires: 365, path: '/' });
+                        if ($.cookie('UILanguage') != null) {
+                            $.cookie('UILanguage', null, { expires: 365, path: '/' });
+                            window.location.href = 'http://www.host-tracker.com';
+                            window.location.href;
+                        }
+                        else
+                            window.location.reload(true);
+                    }
+                })
+            })
+
+            // UI languages selector
+            $('#uiLanguages a').each(function () {
+                $(this).click(function () {
+                    if ($(this).attr('isCurrentLanguage') == 'False') {
+                        $.cookie('UILanguage', $(this).attr('id'), { expires: 365, path: '/' });
+                        window.location.reload(true);
+                    }
+                })
+            })
+
+            // languages
+            var getTranslationUrl = '/Localization/GetAllTranslationsForText';
+            var updaTranslationteUrl = '/Localization/UpdateLocalizationMessage';
+            var mode = 'False';
+            var language = 'en';
+            initLocalization(getTranslationUrl, updaTranslationteUrl, language, mode);
+
+            // main toolTip
+            $('.htToolTip').qtip({
+                content: {
+                    text: $('.htToolTip').attr('content'),
+                    title: {
+                        text: $('.htToolTip').attr('header'),
+                        button: false
+                    }
+                },
+                position: {
+                    my: 'top right',
+                    at: 'bottom left'
+                },
+                style: {
+                    classes: 'ui-tooltip-shadow ui-tooltip-bootstrap'
+                }
+            })
+        })
+    </script>
+    <style>
+        div.addInformer
+        {
+            padding-bottom: 2ex;
+            padding-top: 2ex;
+            text-align: right;
+        }
+        a.noDecor
+        {
+             text-decoration: none;
+        }
+        div.addInformer>.head
+        {
+            padding-bottom: 1ex;
+            padding-top: 1ex;
+            font-weight: bold;
+            text-align: right;
+        }
+        div.addInformer>.body
+        {
+            padding-bottom: 2px;
+            padding-top: 2px;
+            text-align: right;
+        }
+    </style>
+
+</head>
+<body>
+
+    <div id="lLabel" style="display:none;position:absolute"><span></span></div>
+    <div id="lTextBox" style="display:none;position:absolute;white-space:nowrap">
+        <input type="text">
+        <input type="button" value="Save">
+        <span helpisshown="false" id="showTranslationHelp">˅</span>
+        <div style="display:none" id="translationHelp"></div>
+        <span style="display:none" id="loadInteractiveTranslation">
+            <img style="margin-bottom:-3px" width="15px" height="15px" src="/Content/img/infoLoader.gif" alt="Loading">
+        </span>
+    </div>
+    <img id="lImage" src="/Content/img/pencil.png" style="display:none;cursor:pointer" alt="Edit">
+    <div id="htUI">
+    <div id="title">
+        <div id="langMenu">
+
+<ul class="menu" id="languages">
+        <li style="">
+            <span id="en" iscurrentlanguage="True">English</span>
+        </li>
+        <li style="text-decoration:underline;cursor:pointer">
+            <span id="ru" iscurrentlanguage="False">Русский</span>
+        </li>
+        <li style="text-decoration:underline;cursor:pointer">
+            <span id="uk" iscurrentlanguage="False">Українська</span>
+        </li>
+</ul>        </div>
+        <div id="mainMenu">
+            <div id="serviceMenu">
+<ul class="menu">
+    <li><a href="/" originalid="Home">Home</a></li>
+    
+        <li><a href="/User/News" originalid="News">News</a></li>
+    
+        <li><a href="/Payment/Packages" originalid="Prices &amp; Packages">Prices &amp; Packages</a></li>
+</ul>
+
+            </div>
+            <div id="logonMenu"><ul class="menu">
+
+        <li><a href="/User/SignUp" originalid="Sign up" style="font-weight:bold">Sign up</a></li>
+        <li><a href="/User/SignIn" originalid="Sign in">Sign in</a></li>
+</ul>
+</div>
+        </div>
+        <div id="logo">
+            <div class="logo1">
+                <a href="/" class="logoLink">
+                    <img id="logoImage" src="/Content/img/thin-small-logo.gif" alt="website monitoring">
+                </a>
+                <div id="logoText" style="float:left;">
+                    <h1><a href="/" class="logoLink">host-tracker.com</a></h1>
+                    <h3><a href="/" class="logoLink">website monitoring service  </a></h3>
+                </div>
+                <div style="display:inline-block; vertical-align:top;">
+                    <span style="font-size:smaller;font-weight:bolder;color:Red;">v2.0</span>
+                    <h3 class="serviceLink" style="font-size:small; line-height:140%;white-space:nowrap"><a href="http://host-tracker.com">switch to v1.1</a></h3>
+                </div>
+            </div>
+            <div class="logo2">
+                <div style="display:inline-block">
+
+
+<style type="text/css">
+    #IC { background-color: #E6F0FF;
+          border-radius:10px; 
+          padding: 0.7em;
+          border:1px solid #E6F0FF;
+          }
+</style>
+<form action="/InstantCheck/Create" id="IC" method="post">         <span class="small"> 
+                <label><input checked="checked" id="TaskType" name="TaskType" onclick="setNewHelp('#instanteCheckUrl','http://');" type="radio" value="Http">
+                       Http</label>
+                <label><input id="TaskType" name="TaskType" onclick="setNewHelp('#instanteCheckUrl','Host name or IP');" type="radio" value="Ping">
+                       Ping</label>
+                <label><input id="TaskType" name="TaskType" onclick="setNewHelp('#instanteCheckUrl','Host name or IP');" type="radio" value="Trace">
+                       Trace</label>
+                <label><input id="TaskType" name="TaskType" onclick="setNewHelp('#instanteCheckUrl','HostName:port');" type="radio" value="Port">
+                       Port</label>
+            </span><br>
+<input id="instanteCheckUrl" name="instanteCheckUrl" style="width: 20em; color: gray;" title="Enter domain or IP" type="text" value="" helptext="Enter URL, Domain or IP for check">    <script type="text/javascript">
+        $(document).ready(function () {
+            setItemHelp("#instanteCheckUrl", "Enter URL, Domain or IP for check")
+
+            $("#myIp").click(function () {
+                $("#instanteCheckUrl").attr('value', '207.241.237.235');
+                return false;
+            });
+        });
+    </script>
+    <input type="submit" value="Check" name="http">
+    <input type="hidden" id="checkAll" name="checkAll" value="all">
+    <div class="serviceLink small">
+        <a href="#" id="myIp" title="Click to copy to check field">
+            Check my ip
+            (207.241.237.235)</a>
+    </div>
+</form>                </div>
+            <div style="display:inline-block">
+                  <div style="margin: 0px 0.5em 0px 0.5em">
+                        <a class="regInformer" href="/User/SignUp">
+                            <div class="regInformer">
+                                <div class="regInformerHead">
+                                    30-days Free Trial
+                                </div>
+                                <div class="regInformerBody">
+                                    It's free! <br>
+                                    Sign-up takes less than 60 seconds
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+            </div>
+            </div>
+        </div>
+    </div>    
+    <div id="content">
+        <div id="mainArea">
+            <div id="tabs">
+                <div id="tabsLeft">
+                    
+    <span class="headTab">Privacy Policy</span>
+
+                </div>
+                <div id="headerInfo">
+                    
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div id="tabsBottom">
+                
+            </div>
+            <div id="main">
+                <div id="container">
+                    <div class="infoColumn">
+    <div class="infoCaption">
+        <h2>What information do we collect?</h2>
+    </div>
+    <ul class="featuresList">
+        <li>We collect information from you when you register on our site or place an order.</li>
+        <li>When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.</li>
+    </ul>
+    <div class="infoCaption">
+        <h2>What do we use your information for?</h2>
+    </div>
+    <ul class="featuresList">
+        <li class="grouping">Any of the information we collect from you may be used in one of the following ways:</li>
+        <li>To personalize your experience (your information helps us to better respond to your individual needs.</li>
+        <li>To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you).</li>
+        <li>To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs).</li>
+        <li>To process transactions. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</li>
+        <li>To send periodic emails. The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.")</li>
+    </ul>
+    <div class="infoCaption">
+        <h2>How do we protect your information?</h2>
+    </div>
+    <ul class="featuresList">
+        <li>We implement a variety of security measures to maintain the safety of your personal information when you place an order.</li>
+        <li>We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to keep the information confidential.</li>
+    </ul>
+    <div class="infoCaption">
+        <h2>Do we use cookies?</h2>
+    </div>
+    <ul class="featuresList">
+        <li>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information./li&gt;
+        </li><li>We use cookies to understand and save your preferences for future visits.</li>
+    </ul>
+    <div class="infoCaption">
+        <h2>Do we disclose any information to outside parties?</h2>
+    </div>
+    <ul class="featuresList">
+        <li>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.</li>
+        <li>We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</li>
+    </ul>
+    <div class="infoCaption">
+        <h2>California Online Privacy Protection Act Compliance</h2>
+    </div>
+    <ul class="featuresList">
+        <li>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.")</li>
+        <li>As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account and going to the 'Profile' page.</li>
+    </ul>
+    <div class="infoCaption">
+        <h2>Your Consent</h2>
+    </div>
+    <ul class="featuresList">
+        <li>By using our site, you consent to our web site privacy policy.</li>
+    </ul>
+    <div class="infoCaption">
+        <h2>Changes to our Privacy Policy</h2>
+    </div>
+    <ul class="featuresList">
+        <li>If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.</li>
+        <li>This policy was last modified on 07.12.2011</li>
+    </ul>
+    <div class="infoCaption">
+        <h2>Contacting Us</h2>
+    </div>
+    <ul class="featuresList">
+        <li><b>If there are any questions regarding this privacy policy you may contact us using the information below:</b></li>
+        <li><a href="http://www.host-tracker.com/">www.host-tracker.com</a></li>
+        <li>HOST TRACKER LTD.</li>
+        <li>Company No. 07858392</li>
+        <li>72 High Street</li>
+        <li>Haslemere, Surrey GU27 2LA</li>
+        <li>United Kingdom</li>
+        <li><a href="@Url.RouteUrl(MVC.Feedback.Add())" onmouseover="this.href=&quot;mailto:&quot;+&quot;moc.rekcart-tsoh@troppusth&quot;.split(&quot;&quot;).reverse().join(&quot;&quot;);">
+            <script language="javascript" type="text/javascript">document.write('moc.rekcart-tsoh@troppusth'.split("").reverse().join(""));</script>htsupport@host-tracker.com
+        </a></li>
+    </ul>
+</div>
+
+
+
+
+                </div>
+            </div>
+    <div id="meta" style="font-size:80%; margin-bottom:1em">
+         <ul class="menu">
+            <li class="serviceLink">© 2004-2012, host-tracker.com</li>
+            <li>-</li>
+            <li class="serviceLink"><a href="/Privacy/PrivacyPolicy" originalid="Privacy Policy" target="_blank">Privacy Policy</a></li>
+            <li>-</li>
+            <li class="serviceLink"><a href="/Privacy/TermsAndConditions" originalid="Terms and Conditions" target="_blank">Terms and Conditions</a></li>
+        </ul>
+        <ul class="menu" style="clear:both;margin-top:1.5em">
+            <li><a href="/Feedback/Add?RouteValueDictionary=System.Web.Routing.RouteValueDictionary" onmouseover="this.href=&quot;mailto:&quot;+&quot;moc.rekcart-tsoh@troppus2th&quot;.split(&quot;&quot;).reverse().join(&quot;&quot;);">
+                <script language="javascript" type="text/javascript">document.write('moc.rekcart-tsoh@troppus2th'.split("").reverse().join(""));</script>ht2support@host-tracker.com
+                <noscript>Give feedback</noscript>
+            </a>
+            </li>
+            <li>-</li>
+        <li class="serviceLink"><a href="/Feedback/Add" originalid="Give feedback" target="_blank">Give feedback</a></li>        <li>-</li>
+        </ul>
+        <ul><li style="color:gray"></li></ul>
+        </div>
+
+    </div>
+        <div id="sideBar">
+            <div>
+    
+    <div id="agentSideBar">
+        <h3 style="white-space:nowrap">Our monitoring network</h3>
+        <h4 style="white-space:nowrap"><span class="serviceLink"><a href="/Agent/List" originalid="Count of nodes:">Count of nodes:</a></span> 20</h4> 
+        <div>
+        <span class="grayClick" onclick="$(&quot;#locationsList&quot;).toggle();
+                    if ($(this).html()==&quot;show&quot;) 
+                        $(this).html(&quot;hide&quot;);
+                    else $(this).html(&quot;show&quot;);">show</span>
+        <ul id="locationsList" style="display: none;">
+            
+                <li>USA,TX,Waco</li>
+            
+                <li>USA,TX,Dallas</li>
+            
+                <li>USA ,PA,Scranton</li>
+            
+                <li>USA,FL,Winter Haven</li>
+            
+                <li>USA,FL,Orlando</li>
+            
+                <li>USA,CA,San Jose</li>
+            
+                <li>United Kingdom,Maidenhead</li>
+            
+                <li>United Kingdom,London</li>
+            
+                <li>Ukraine,Kyiv</li>
+            
+                <li>Turkey,Istanbul/2</li>
+            
+                <li>Russia,Moscow</li>
+            
+                <li>Netherlands,Amsterdam/3</li>
+            
+                <li>Malaysia,Kuala Lumpur</li>
+            
+                <li>India,Noida</li>
+            
+                <li>Hong Kong,Kwun Tong</li>
+            
+                <li>Croatia,Zagreb</li>
+            
+                <li>Australia,Victoria,Melbourne</li>
+            
+        </ul>
+        </div>
+        <h4 style="white-space:nowrap"><span class="serviceLink"><a href="/Agent/List" originalid="Hosting partners:">Hosting partners:</a></span> 18</h4>
+        <div>
+            <span class="grayClick" onclick="$(&quot;#companyList&quot;).toggle(); 
+                    if ($(this).html()==&quot;show&quot;) 
+                        $(this).html(&quot;hide&quot;);
+                    else $(this).html(&quot;show&quot;);">show</span></div>
+        <div>
+            <ul id="companyList" style="display: none;">
+            
+                <li><a href="http://www.shinjiru.com" class="serviceLink">Shinjiru Technology Sdn Bhd</a></li>
+            
+                <li><a href="http://www.opso.it" class="serviceLink">Open Software S.r.l.</a></li>
+            
+                <li><a href="http://www.host-tracker.com" class="serviceLink">HostTracker WHW</a></li>
+            
+                <li><a href="http://www.host-tracker.com" class="serviceLink">HostTracker UH</a></li>
+            
+                <li><a href="http://www.host-tracker.com" class="serviceLink">HostTracker MH</a></li>
+            
+                <li><a href="http://www.host-tracker.com" class="serviceLink">HostTracker ISP</a></li>
+            
+                <li><a href="http://www.host-tracker.com" class="serviceLink">HostTracker/2</a></li>
+            
+                <li><a href="http://www.go4hosting.com" class="serviceLink">Cyber Futuristic India Pvt Ltd.</a></li>
+            
+                <li><a href="http://www.epolk.com" class="serviceLink">ePolk, Inc.</a></li>
+            
+                <li><a href="http://www.entinity.com" class="serviceLink">Entinity Information Technology Solutions</a></li>
+            
+                <li><a href="http://www.doratelekom.com.tr" class="serviceLink">Dora Telekom/2</a></li>
+            
+                <li><a href="http://www.dga.co.ir" class="serviceLink">DELTA GOSTAR ASAK</a></li>
+            
+                <li><a href="http://www.arvixe.com/asp_net_web_hosting" class="serviceLink">Arvixe.NET Hosting</a></li>
+            
+                <li><a href="http://www.apexhost.com.au" class="serviceLink">Apexhost.com</a></li>
+            
+                <li><a href="http://vmcloudnetworks.com" class="serviceLink">VisualMedia Technologies</a></li>
+            
+                <li><a href="http://seo-ranking-monitor.com" class="serviceLink">Seo ranking monitor</a></li>
+            
+                <li><a href="http://hczgb3.hostingcentar.com" class="serviceLink">Valkira</a></li>
+            
+                <li><a href="http://guiahosting.com" class="serviceLink">GuiaHosting</a></li>
+            
+            </ul>
+        </div>
+        <div>
+        <a style="white-space:nowrap" class="serviceLink" href="/Agent/Create">
+            Want to become our hosting partner?
+        </a>
+        </div>
+        <script type="text/javascript">
+            $("#locationsList, #companyList").hide();
+        </script>
+    </div>
+                <!-- Yandex.Metrika counter -->
+                <div style="display:none;">
+                <script type="text/javascript">
+                    (function (w, c) {
+                        (w[c] = w[c] || []).push(function () {
+                            try {
+                                w.yaCounter11428273 = new Ya.Metrika({ id: 11428273, enableAll: true, webvisor: true });
+                            }
+                            catch (e) { }
+                        });
+                    })(window, "yandex_metrika_callbacks");
+                </script></div>
+                <script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+                <noscript><div><img src="//mc.yandex.ru/watch/11428273" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+                <!-- /Yandex.Metrika counter -->  
+        </div>
+
+        <div class="addInformer">
+            <div class="body">
+                <a href="/User/SignUp?widget" class="noDecor">
+                    <img src="/Content/img/UptimeButtons/Widget.png" alt="Uptime Monitoring Service" style="margin-bottom: 1ex;">
+                </a>
+                <br>
+                <a href="/User/SignUp?widget" class="serviceLink">
+                    Put uptime widget on your site
+                </a>
+            </div>
+        </div>
+
+<div class="social"><div class="g-plusone" data-size="medium" data-href="http://www.host-tracker.com"></div></div>
+<div class="social"><div class="fb-like" data-href="http://www.host-tracker.com" data-send="false" data-layout="button_count" data-show-faces="true"></div></div>
+
+
+<script type="text/javascript">
+        (function () {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/plusone.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
+</script>
+
+<script type="text/javascript">    
+(function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+        fjs.parentNode.insertBefore(js, fjs);
+    } (document, 'script', 'facebook-jssdk'));
+</script>
+
+    </div>
+
+
+</div></div></body></html>
