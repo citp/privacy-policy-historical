@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504021559id_/http%3A//www.garfield.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226223146id_/http%3A//www.garfield.com/privacy.html) for the most accurate reproduction.*
 
 # Garfield.com - Privacy Policies
 
@@ -104,6 +104,14 @@ Privacy Policy: <http://www.pixfusion.com/PrivacyPolicy.aspx>
   
 Garfield - Gallery Edition Signature Series Statue  
 Privacy Policy: <http://www.factoryent.com/terms.asp>
+
+  
+Garfield/Odie Halloween Costumes   
+Privacy Policy: <http://www.halloweencostumes.com/privacy-policy.html>
+
+  
+Garfield Bowling Balls  
+Privacy Policy: [http://www.ontheballbowling.com/pages/33](http://beta.toonboom.com/legal/terms-and-conditions)
 
 UNIVERSAL UCLICK is the sole owner of the information collected from the UNIVERSAL UCLICK service. Your Personal Information can only be collected when you voluntarily provide it.
 
