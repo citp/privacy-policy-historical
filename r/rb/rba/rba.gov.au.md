@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510005639id_/http%3A//www.rba.gov.au/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226042209id_/http%3A//www.rba.gov.au/privacy/index.html) for the most accurate reproduction.*
 
 # RBA: Privacy Statement
 
