@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aceproject.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621231629id_/http%3A//www.aceproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aceproject.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226033129id_/http%3A//www.aceproject.com/privacy-policy) for the most accurate reproduction.*
 
 # AceProject's Privacy Policy Statement
 
@@ -34,7 +34,7 @@ This privacy statement covers the site [[www.aceproject.com]](http://www.aceproj
 
 ##### Log Files
 
-> Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movements in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. IP addresses are tied to personally identifiable information to enable our Web-based service. We use a tracking utility called [Google Analytics](http://www.google.com/analytics/) that uses log files to analyze user movement.
+> Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movements in the aggregate, and gather broad demographic information for aggregate use. Website visitor IP addresses are not linked to personally identifiable information. On the other hand, IP addresses of the AceProject application users are linked to personally identifiable information for security considerations, management of connections, support and improvement of overall user experience. We use a tracking utility called [Google Analytics](http://www.google.com/analytics/) that uses log files to analyze user movement.
 
 ##### Password Encryption
 
