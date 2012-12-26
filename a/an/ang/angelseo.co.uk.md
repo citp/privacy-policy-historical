@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angelseo.co.uk privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528200527id_/http%3A//www.angelseo.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelseo.co.uk privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226215104id_/http%3A//www.angelseo.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Angel SEO
 
@@ -74,8 +74,46 @@ Cookies are text files that identify your computer (through what is known as an 
 
 You generally have the opportunity to set your computer to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. You can do this through your Internet browser. With most browsers, this facility can be reached via the `tools' (e.g. Internet Explorer), or `edit', or 'task' (e.g. Netscape) menu. If you have any problems finding this area, the `help' function within your browser will be able to provide assistance.
 
-If you refuse a cookie it may prevent the proper operation of the site or even prevent your access to certain areas
+If you refuse a cookie it may prevent the proper operation of the site or even prevent your access to certain areas.
 
+**Name**
+
+| 
+
+**Description**  
+  
+---|---  
+  
+__utma
+
+| 
+
+Google Analytics: We use Google Analytics to monitor traffic levels, search queries and visits to this website. Google Analytics stores IP address anonymously on its servers in the US, and neither Angel SEO nor Google will associate your IP address with any personally identifiable information. These cookies enable Google to determine whether you are a return visitor to the site, and to track the pages that you visit during your session.  
+  
+__utmb  
+  
+__utmc  
+  
+__utmz  
+  
+__qca
+
+| 
+
+This cookie is set by Quantcast. Please view their privacy [statement here](http://www.quantcast.com/privacy)  
+  
+__atuvc
+
+| 
+
+Social media: We enable you to share our pages through social media channels such as Twitter, Facebook, Google Plus, Digg and Linked In. We use the addThis plugin which sets a cookie for you; view the [privacy statement here](http://www.addthis.com/privacy/privacy-policy)  
+  
+uic, clips
+
+| 
+
+Videos: We embed videos from our official vimeo channel using Vimeos privacy-enhanced mode. This mode may set cookies on your computer once you click on the Vimeo video player, but Vimeo will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode. To find out more please see [vimeo's privacy statement](http://vimeo.com/privacy)  
+  
 #### Links to other websites
 
 Our website may contain links to other sites outside the group. Angel is not responsible for the privacy and security of these sites unless they belong to Angel. This privacy policy applies only to AngelSEO.co.uk.
