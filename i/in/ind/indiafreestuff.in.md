@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiafreestuff.in privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518012007id_/http%3A//indiafreestuff.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiafreestuff.in privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226024342id_/http%3A//indiafreestuff.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
