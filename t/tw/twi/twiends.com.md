@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the twiends.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628210513id_/http%3A//www.twiends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twiends.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226060115id_/http%3A//twiends.com/privacy) for the most accurate reproduction.*
 
 # Twiends Privacy Policy
-
-### Privacy policy
 
 First and foremost, twiends is here to offer a good and honest service to those who want primarily to grow their reach on Twitter. We ask that you use the service fairly and honestly too. This Policy applies as to all products and services provided by twiends, Webcandy the owner and provider of twiends, and yourself the User of twiends. This Policy applies to our use of any and all Data collected by us in relation to your use of twiends and any Services or Systems therein. Please read the following carefully to understand our views and practices regarding your personal data and how we treat it. 
 
