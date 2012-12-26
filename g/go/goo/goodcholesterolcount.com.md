@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodcholesterolcount.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604051718id_/http%3A//www.goodcholesterolcount.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodcholesterolcount.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226211020id_/http%3A//www.goodcholesterolcount.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Good Cholesterol Count
 
@@ -60,6 +60,9 @@ As part of our referral program, you can provide contact information (such as na
 You may choose to participate in market research activities through Good Cholesterol Count, including health panels and surveys. When participating in such activities, we may ask you to submit personal information. We may combine the personal information you provide to us with research tools and information from other sources, including prescription information. We use this information to perform research, and to prepare reports and analyses for our clients. Our reports and analyses to clients are made only on an anonymous basis.
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+**Notice Regarding Online Behavioral Advertising**  
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 Good Cholesterol Count reserves the right, at any time and without notice, to add to, update, change, modify or revise this Privacy Policy or our services simply by posting such change, update or modification on the Web Site. Any such addition, update, change, modification or revision will be effective immediately upon posting on the Web Site. Upon any change to this Privacy Policy or our services, we may also notify you via e-mail.
 
