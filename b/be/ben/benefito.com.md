@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the benefito.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209150427id_/http%3A//www.benefito.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefito.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226061331id_/http%3A//www.benefito.com/privacy.php) for the most accurate reproduction.*
 
-# Free online classifieds. Benefito free classified ads.
+# 
 
-| 
+  
+
 
 ###  Benefito Privacy Policy
 
@@ -30,10 +31,6 @@ If you choose to visit Benefito.com, your visit and any dispute over privacy is 
 
 Our business changes constantly, and our Privacy Notice and the User Agreement will change constantly also. You should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
 
-We use Google, a third party vendor, to serve ads when you visit our website. Google may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Google, click [here](http://www.google.com/privacy_ads.html).
-
 #### More Information
 
-If you have additional questions, please contact us at any time at support@benefito.com.  
-  
----|---
+If you have additional questions, please contact us at any time at help@benefito.com.
