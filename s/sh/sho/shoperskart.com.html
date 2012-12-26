@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the shoperskart.com privacy policy that was archived on 2012-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120624215851id_/http%3A//www.shoperskart.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shoperskart.com privacy policy that was archived on 2012-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121226133342id_/http%3A//www.shoperskart.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<meta name="alexaVerifyID" content="XI1kFndlYdmobbVpy5eb99bd-g0">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta property="og:title" content=" | Shoperskart ">
 <meta property="og:type" content="product">
@@ -18,30 +19,41 @@
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/js/dropdowntabs.js"></script>
 <!--popup-->
 <link rel="stylesheet" href="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/css/general.css" type="text/css" media="screen">
+
 <script src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/js/controlvalidation.js" type="text/javascript"></script>
 <script src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/js/jquery-1.js" type="text/javascript"></script>
 <script src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/js/popup.js" type="text/javascript"></script>
 <!--[if lt IE 7]>
 <style type="text/css">
-	 img.fixer { behavior: url(iepngfix.htc); }
+	 img.fixer { behavior: url(http://www.shoperskart.com/iepngfix.htc); }
 </style>
 <![endif]-->
 <script type="text/javascript">
-
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-32239611-1']);
   _gaq.push(['_trackPageview']);
-
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
+</script> 
+<!--free shipping
+<script type="text/javascript">
+var name = "#freeshipping";
+var menuYloc = null;
+	$(document).ready(function(){
+		menuYloc = parseInt($(name).css("top").substring(0,$(name).css("top").indexOf("px")))
+		$(window).scroll(function () { 
+			offset = menuYloc+$(document).scrollTop()+"px";
+			$(name).animate({top:offset},{duration:500,queue:false});
+		});
+	}); 
 </script>
+free shipping-->
 </head>
 <body>
-	<div id="wrapper">
+<div id="wrapper">
 <div id="header">
         	<div class="top_head">
             	<p>Welcome to Shoperskart.com</p>
@@ -49,42 +61,48 @@
                 <p><a href="#" class="top_link" id="button">REGISTER</a></p>
                 <script src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/js/controlvalidation.js" type="text/javascript"></script>
 <script type="text/javascript">
- function afterFbLogin(url,param){
-		//document.getElementById("shophome").click();
-		//window.location.reload(true);
-		window.location = url+'index.html'+param;
- }
 
  function forgotshow(flag){
-		//document.getElementById('msg').innerHTML='';
-		document.getElementById('pswd').style.display = (flag) ? 'block' : 'none';  //document.getElementById('login').value=value; 
+		document.getElementById('msg').innerHTML="";
+		document.getElementById('pswd').style.display = (flag) ? 'block' : 'none';  
 		document.getElementById('btnforgot').style.display = (flag) ? 'block' : 'none';
 		document.getElementById('btnforgot2').style.display = (flag) ? 'block' : 'none';
 		document.getElementById('btnforgot1').style.display = (flag) ? 'none' : 'block';
-		//document.getElementById('msg').style.display = (flag) ? 'none' : 'block';
-		
+		document.getElementById('picforgot').style.display = 'none';
  }
- function forgotpswd(url)
- {
-		var error=validateEmail(document.getElementById('userEmail')); 
+ function forgotpswd(url){
+		var error=validateEmail(document.getElementById('userEmailLogin')); 
 		if(error=='') { 
 				document.getElementById('password').value='';
-				forgotPass(url,document.getElementById('userEmail').value);
-				//document.getElementById('btnforgot1').style.display = 'none';
+				forgotPass(url,document.getElementById('userEmailLogin').value);			
+				return true;	
 		}
-		else   alert(error);
-		//return false;		
+		else{   alert(error);
+			return false;	
+		}
  } 
+ function picshow(flg){
+	if(flg){
+		document.getElementById('msg').innerHTML="";
+		document.getElementById('picforgot').style.display = 'block';
+		document.getElementById('btnforgot1').style.display = 'none';
+	}
+	else{
+		document.getElementById('picforgot').style.display = 'none';
+		
+	}
+ }
 </script>
 <div style="position:absolute; display:;width:800px;" id="popupContact"> <a id="popupContactClose" onclick=" forgotshow(true) "><img src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/images/popup_close.jpg" title="Close"></a>
   <h1>Fill this Form to Get your Product</h1>
   <div class="log">
     <h2>Sign in to your account</h2>
+	<form onsubmit="return false;">
       <table width="379" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr style="display:block;">
           <td width="92" align="right">Email</td>
           <td width="10" align="center">:</td>
-          <td width="277"><input type="text" name="userEmail" id="userEmail" value="" class="regi_txt"></td>
+          <td width="277"><input type="text" name="userEmailLogin" id="userEmailLogin" value="" class="regi_txt"></td>
         </tr>
         <tr id="pswd" style="display:block;">
           <td width="92" align="right">Password</td>
@@ -93,29 +111,33 @@
         </tr>
 		<!--  <td>&nbsp;</td>
           <td colspan="2"><span id="fgt"> </span></td>-->
-        <tr id="msg" style="display:block;">
-        
-        </tr>
+        <tr><td colspan="3" id="msg" align="center" class="red" style="display:block;"></td></tr>
         <tr id="btnforgot" style="display:block;">
           <td width="92" align="right">&nbsp;</td>
           <td width="10">&nbsp;</td>
-          <td width="277"><input type="submit" name="login" id="login" value="Login" class="regi_btn" onclick="return validateFormOnLogin(document.getElementById('userEmail').value ,document.getElementById('password').value,'http://www.shoperskart.com/' ,'/privacy-policy.html','' )"></td>
+          <td width="277"><input type="submit" name="login" id="login" value="Login" class="regi_btn" onclick="return validateFormOnLogin(document.getElementById('userEmailLogin').value ,document.getElementById('password').value,'http://www.shoperskart.com/' ,'/privacy-policy.html','' )"></td>
         </tr>
+        <tr id="picforgot" style="display:none;">
+			<td width="280" colspan="3" align="center"><img src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/images/loading.gif"> </td>
+		</tr>
         <tr id="btnforgot1" style="display:none;">
           <td width="92">&nbsp;</td>
           <td width="10">&nbsp;</td>
-          <td width="277"><input type="button" name="forg" class="regi_btn" value="ForgotPassword" onclick=" forgotpswd('http://www.shoperskart.com/')"></td>
-        </tr>
+          <td width="277"><input type="button" id="forg" name="forg" class="regi_btn" value="ForgotPassword" onclick="picshow(forgotpswd('http://www.shoperskart.com/'))"></td>
+        </tr> 
         <tr id="btnforgot2" style="display:block;">
           <td width="92">&nbsp;</td>
           <td width="10"></td>
           <td width="277"><input type="button" name="forgot2" value="Forgot Password.....!" onclick=" forgotshow(false)" class="forgot"></td>
         </tr>
-      </tbody></table>
- 
-	 <div class="socil_net"> <span>
+		</tbody></table>
+	</form>
+    <div class="socil_net"> <span>
       <div id="fb-root"></div>
-      <fb:login-button show-faces="false" width="600" max-rows="1" scope="publish_stream, manage_pages, email" onlogin="afterFbLogin('http://www.shoperskart.com/','')"></fb:login-button>
+            <input type="hidden" name="srcparam" id="srcparam" value="">
+      <!-- <input type="hidden" name="fblog" id="fblog" value="" /> -->
+      <!--<button id="login" onclick="loginfn('yes')" class="facbook-login"></button><br/>-->
+      <div id="fb-root"></div>
       </span> <!-- <span><a href="#"><img src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/images/google_regi_icon.jpg" title="Sign in With Google" /></a></span> --> </div>
   </div>
   <div class="regi">
@@ -123,15 +145,15 @@
     <form action="http://www.shoperskart.com/controller/shopController.php" method="post" name="frmsignup">
       <table width="379" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
-          <td width="77" align="right">Name*</td>
+          <td width="77" align="right"><label id="lblRname">Name*</label></td>
           <td width="10" align="center">:</td>
-          <td width="287"><input type="text" name="userName" id="userName" value="" class="regi_txt"></td>
+          <td width="287"><input type="text" name="userName" id="userName" value="" class="regi_txt" onblur="validateEmpty(frmsignup.userName,frmsignup.lblRname)"></td>
           <td width="7">&nbsp;</td>
         </tr>
         <tr>
-          <td align="right">Email*</td>
+          <td align="right"><label id="lblRemail">Email*</label></td>
           <td align="center">:</td>
-          <td><input type="text" onclick="a('/privacy-policy.php')" name="userEmail" id="userEmail" value="" class="regi_txt" onblur="duplicateEmailCheck()"></td>
+          <td><input type="text" name="userEmail" id="userEmail" value="" class="regi_txt" onblur="duplicateEmailCheck('http://www.shoperskart.com/')"></td>
           <td>&nbsp;</td>
         </tr>
         <tr>
@@ -140,205 +162,65 @@
           <td><div id="Message" class="error"></div></td>
         </tr>
         <tr>
-          <td align="right">Phone*</td>
+          <td align="right"><label id="lblRphone">Phone*</label></td>
           <td align="center">:</td>
           <td><input type="text" name="userPhone" id="userPhone" value="" class="regi_txt"></td>
           <td>&nbsp;</td>
         </tr>
         <tr>
-          <td align="right">Address* </td>
+          <td align="right"><label id="lblRaddress">Address*</label> </td>
           <td align="center">:</td>
           <td><textarea name="userAddress" id="userAddress" cols="45" rows="5" class="regi_txt_area"></textarea></td>
           <td>&nbsp;</td>
         </tr>
+<!--    <tr>
+          <td width="77" align="right"><label id="lblRcity">City*</label></td>
+          <td width="10" align="center">:</td>
+          <td width="287"><input type="text" name="userCity" id="userCity" value="" class="regi_txt"></td>
+          <td width="7">&nbsp;</td>
+        </tr>
         <tr>
-          <td align="right">City*</td>
+          <td align="right"><label id="lblRstate">State*</label></td>
           <td align="center">:</td>
-          <td><select name="userCity" id="userCity" onchange="" class="regi_txt_select">
-                <option value="">Select</option>
-                  <option value="1,1" selected="">Bangalore</option>
-                    <option value="2,2">Delhi / NCR</option>
-                    <option value="3,3">Mumbai</option>
-                    <option value="4,8">Kolkata</option>
-                    <option value="5,9">Ahmedabad</option>
-                    <option value="6,12">Chandigarh</option>
-                    <option value="7,7">Indore</option>
-                    <option value="8,2">Gurgaon</option>
-                    <option value="9,6">Hyderabad</option>
-                    <option value="10,10">Goa</option>
-                    <option value="11,11">Jaipur</option>
-                    <option value="12,5">Kochi</option>
-                    <option value="13,3">Nagpur</option>
-                    <option value="14,3">Pune</option>
-                    <option value="15,4">Chennai</option>
-                    <option value="16,2">New Delhi</option>
-                    <option value="17,5">Ernakulam</option>
-                    <option value="18,5">Calicut</option>
-                    <option value="19,5">Wayanad</option>
-                    <option value="20,5">Trivandrum</option>
-                    <option value="21,5">Kollam</option>
-                    <option value="22,5">Kottayam</option>
-                    <option value="23,5">Alappuzha</option>
-                    <option value="24,5">Mallappally</option>
-                    <option value="25,5">Thalasseri</option>
-                    <option value="26,5">BachelFort</option>
-                    <option value="27,5">Thiruvalla</option>
-                    <option value="28,5">Palghat</option>
-                    <option value="29,5">Idukki</option>
-                    <option value="30,5">Aranmula</option>
-                    <option value="31,5">MalakaraJunction</option>
-                    <option value="32,10">Vasco Da Gama</option>
-                    <option value="33,9">Bharuch</option>
-                    <option value="34,9">Bhavnagar</option>
-                    <option value="35,9">Bhuj</option>
-                    <option value="36,9">Dadra</option>
-                    <option value="37,9">Jamnagar</option>
-                    <option value="38,9">Surat</option>
-                    <option value="39,9">Vadodara</option>
-                    <option value="40,16">Karnal</option>
-                    <option value="41,16">Kurukshetra</option>
-                    <option value="42,16">Sonipat</option>
-                    <option value="43,16">Faridabad</option>
-                    <option value="44,17">Shimla</option>
-                    <option value="45,18">Jammu</option>
-                    <option value="46,18">Srinagar</option>
-                    <option value="47,19">Dhanbad</option>
-                    <option value="48,1">Dharwad</option>
-                    <option value="49,1">Hubli</option>
-                    <option value="50,1">Mangalore</option>
-                    <option value="51,7">Bhopal</option>
-                    <option value="52,7">Gwalior</option>
-                    <option value="53,7">Jabalpur</option>
-                    <option value="54,7">Ujjain</option>
-                    <option value="55,3">Kolhapur</option>
-                    <option value="56,3">Nasik</option>
-                    <option value="57,3">Shirdi</option>
-                    <option value="58,3">Solapur</option>
-                    <option value="59,21">Shillong</option>
-                    <option value="60,24">Bhubaneshwar</option>
-                    <option value="61,24">Cuttack</option>
-                    <option value="62,24">Puri</option>
-                    <option value="63,24">Rourkela</option>
-                    <option value="64,25">Amritsar</option>
-                    <option value="65,25">Bhatinda</option>
-                    <option value="66,25">Jalandhar</option>
-                    <option value="67,25">Ludhiana</option>
-                    <option value="68,25">Mohali</option>
-                    <option value="69,25">Panipat</option>
-                    <option value="70,25">Patiala</option>
-                    <option value="71,11">Jaisalmer</option>
-                    <option value="72,11">Jodhpur</option>
-                    <option value="73,11">Kota</option>
-                    <option value="74,11">Udaipur</option>
-                    <option value="75,26">Gangtok</option>
-                    <option value="76,4">Hosur</option>
-                    <option value="77,4">Madurai</option>
-                    <option value="78,4">Ooty</option>
-                    <option value="79,4">Pondicherry</option>
-                    <option value="80,4">Salem</option>
-                    <option value="81,4">Trichy</option>
-                    <option value="82,4">Vellore</option>
-                    <option value="83,4">Coimbatore</option>
-                    <option value="84,28">Allahabad</option>
-                    <option value="85,28">Bareilly</option>
-                    <option value="86,28">Ghaziabad</option>
-                    <option value="87,28">Kanpur</option>
-                    <option value="88,28">Lucknow</option>
-                    <option value="89,28">Mathura</option>
-                    <option value="90,28">Meerut</option>
-                    <option value="91,28">Roorkee</option>
-                    <option value="92,28">Varanasi</option>
-                    <option value="93,29">Dalhousie</option>
-                    <option value="94,29">Dehradun</option>
-                    <option value="95,29">Haridwar</option>
-                    <option value="96,29">Mukteswar</option>
-                    <option value="97,29">Nainital</option>
-                    <option value="98,29">Rishikesh</option>
-                    <option value="99,8">Durgapur</option>
-                    <option value="100,8">Kharagpur</option>
-                    <option value="101,8">Siliguri</option>
-                    <option value="102,3">Bidar</option>
-                    <option value="103,15">Patna</option>
-                    <option value="104,19">Jamshedpur</option>
-                    <option value="105,6">Secunderabad</option>
-                    <option value="106,6">Tirupati</option>
-                    <option value="107,6">Vijayawada</option>
-                    <option value="108,6">Visakhapatnam</option>
-                    <option value="109,6">Warangal</option>
-                    <option value="110,14">Guwahati</option>
-                    <option value="111,13">Bhilai</option>
-                    <option value="112,13">Raipur</option>
-                    <option value="113,2">Agra</option>
-                    <option value="114,10">Margao</option>
-                    <option value="115,10">Panaji</option>
-                    <option value="116,1">yadgiri</option>
-                    <option value="117,16">Arakkonam</option>
-                    <option value="118,4">Tirunelveli</option>
-                    <option value="119,4">paramakudi</option>
-                    <option value="120,4">Dindigul</option>
-                    <option value="121,4">KumarakiriVillage</option>
-                    <option value="122,4">Minjur</option>
-                    <option value="123,4">Thiruvallur</option>
-                    <option value="124,28">NOIDA</option>
-                    <option value="125,10">panajim</option>
-                    <option value="126,12">ZIRAKPUR</option>
-                    <option value="127,10">bardez</option>
-                    <option value="128,4">Walajabad</option>
-                    <option value="129,3">SINDHUDURG</option>
-                    <option value="130,3">Thane </option>
-                    <option value="131,1">Mysore</option>
-                    <option value="132,8">Bolpur</option>
-                    <option value="133,8">Shantiniketan</option>
-                    <option value="134,3">KOKAN NEAR DIVE AGAR</option>
-                    <option value="135,2">Dwarka</option>
-                    <option value="136,6">Guntur</option>
-                    <option value="137,16">Dharuhera</option>
-                    <option value="138,3">Aurangabad</option>
-                    <option value="139,3">mahad</option>
-                    <option value="140,25">Moga Firozpur</option>
-                    <option value="141,5">kannur</option>
-                    <option value="142,19">Ranchi</option>
-                    <option value="143,12">Panchkula</option>
-                    <option value="144,3">navi mumbai</option>
-                    <option value="145,10">morjim beach</option>
-                    <option value="146,6">Toopran</option>
-                    <option value="147,17">Baddi</option>
-                    <option value="148,4">Villupuram</option>
-                    <option value="149,10">Colva</option>
-                    <option value="150,9">Rajkot</option>
-                    <option value="151,4">Thiruthani</option>
-                    <option value="152,4">Sriperumbudur</option>
-                    <option value="153,4">nagarkovil</option>
-                    <option value="154,4">puthukodai</option>
-                    <option value="155,6">BHIVARAM</option>
-                    <option value="156,3">kalyan</option>
-                    <option value="157,3">Dombivali</option>
-                    <option value="158,3">sindu durge</option>
-                    <option value="159,4">perambalur</option>
-                    <option value="160,3">Dahanu Road</option>
-                    <option value="161,4">Thiruninur</option>
-                    <option value="162,4">Ramanathapuram</option>
-                    <option value="163,4">Kanchipuram</option>
-                    <option value="164,4">Erode</option>
-                    <option value="165,4">arani</option>
-                    <option value="166,2">GreaterNoida</option>
-                    <option value="167,6">Bobruisk</option>
-                    <option value="168,4">Tuticourin</option>
-                    <option value="169,1">Haliyal</option>
-                    <option value="170,1">Raichur</option>
-                    <option value="171,1">Bijapur</option>
-                    <option value="172,16">gurgaon</option>
-                    <option value="173,4">Aruppukottai</option>
-                    <option value="174,4">Melur</option>
-                    <option value="175,11">Bhiwadi</option>
-                    <option value="176,4">Kalpaakam</option>
-                    <option value="177,4">Thirumangalam</option>
+          <td><select name="userState" id="userState" onchange="" class="regi_txt_select" >
+                  <option value="Andaman and Nicobar" >Andaman and Nicobar</option>
+                    <option value="Andhra Pradesh" >Andhra Pradesh</option>
+                    <option value="Arunachal Pradesh" >Arunachal Pradesh</option>
+                    <option value="Assam" >Assam</option>
+                    <option value="Bihar" >Bihar</option>
+                    <option value="Chandigarh" >Chandigarh</option>
+                    <option value="Chhattisgarh" >Chhattisgarh</option>
+                    <option value="Delhi" selected>Delhi</option>
+                    <option value="Goa" >Goa</option>
+                    <option value="Gujarat" >Gujarat</option>
+                    <option value="Haryana" >Haryana</option>
+                    <option value="Himachal Pradesh" >Himachal Pradesh</option>
+                    <option value="Jammu and Kashmir" >Jammu and Kashmir</option>
+                    <option value="Jharkhand" >Jharkhand</option>
+                    <option value="Karnataka" >Karnataka</option>
+                    <option value="Kerala" >Kerala</option>
+                    <option value="Lakshadweep" >Lakshadweep</option>
+                    <option value="Madhya Pradesh" >Madhya Pradesh</option>
+                    <option value="Maharastra" >Maharastra</option>
+                    <option value="Manipur" >Manipur</option>
+                    <option value="Meghalaya" >Meghalaya</option>
+                    <option value="Mizoram" >Mizoram</option>
+                    <option value="Nagaland" >Nagaland</option>
+                    <option value="Orissa" >Orissa</option>
+                    <option value="Punjab" >Punjab</option>
+                    <option value="Rajasthan" >Rajasthan</option>
+                    <option value="Sikkim" >Sikkim</option>
+                    <option value="Tamil Nadu" >Tamil Nadu</option>
+                    <option value="Tripura" >Tripura</option>
+                    <option value="Uttar Pradesh" >Uttar Pradesh</option>
+                    <option value="Uttarakhand" >Uttarakhand</option>
+                    <option value="West Bengal" >West Bengal</option>
          </select>
 	   </td>
           <td>&nbsp;</td>
-        </tr>
+        </tr> -->
         <tr>
-          <td align="right">Pin Code*</td>
+          <td align="right"><label id="lblRpincode">Pin Code*</label></td>
           <td align="center">:</td>
           <td><input type="text" name="userPincode" id="userPincode" value="" class="regi_txt"></td>
           <td>&nbsp;</td>
@@ -347,7 +229,7 @@
                 <tr>
           <td align="right">&nbsp;</td>
           <td>&nbsp;</td>
-          <td><input type="submit" name="register" id="register" value="Register" class="regi_btn" onclick="return validateFormOnSubmit(frmsignup)"></td>
+          <td><input type="submit" name="register" id="register" value="Register" class="regi_btn" onclick="return validateFormOnSubmit(frmsignup,'')"></td>
           <td>&nbsp;</td>
         </tr>
       </tbody></table>
@@ -364,7 +246,7 @@
 	}
 </script>
 				                <p><a href="http://www.shoperskart.com/help-faq.html" class="top_link">HELP AND FAQ</a></p>
-                <p><a href="http://www.shoperskart.com/payment-options.html" style="text-decoration:blink;">PAYMENT OPTIONS</a></p>
+                <p><a href="http://www.shoperskart.com/payment-options.html" style="text-decoration:blink; color:#00a1cf;">PAYMENT OPTIONS</a></p>
                 <ul>
 				                    <li><a href="http://www.shoperskart.com/cart.html" id="shophome">My Cart</a></li>
                     <li><a href="#">Checkout</a></li>
@@ -373,7 +255,8 @@
                 </ul>
             </div>
            	<div class="sub_head">
-            	<div class="logo"><a href="http://www.shoperskart.com/index.html"><img src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/images/logo.jpg"></a></div>
+            	<div class="logo"><a href="http://www.shoperskart.com/index.html">
+                <img src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/images/logo.jpg"></a></div>
                 <div class="search">
                 	<form action="http://www.shoperskart.com/search.php" method="post">
                     	<span>
@@ -383,12 +266,13 @@
                     </form>
                 </div>
 				                <div class="top_cart">
-                	<h2><span>Call us Now ! :</span> +91 9946 100 451</h2>
+                	<h2><span>Call us Now ! :</span> +91 9946 100 451<br><label>0495 6059 202</label></h2>
                     <h3>Mon - Sat, Time: <span>9.30am to 6.30pm</span></h3>
                     <div class="my_cart">
 						                    	<span>my cart-(Empty)</span>
 						                    </div>
                 </div>
+                <div class="free-shipping"><img src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/images/free-shipping-icon.png" class="fixer"></div>
             </div>
             <div class="navigation" id="colortab">
             	<ul>
@@ -398,12 +282,14 @@
                     <li><a href="http://www.shoperskart.com/onlinebuy/Apparels-3.html" rel="apparels">Apparels</a></li>
                     <li><a href="http://www.shoperskart.com/onlinebuy/Footwears-4.html" rel="footwear’s">Footwears </a></li>
                   <li><a href="http://www.shoperskart.com/onlinebuy/Accessories-5.html" rel="accessories">Accessories</a></li>
-                    <li><a href="http://www.shoperskart.com/onlinebuy/Health-Beauty-7.html" rel="health/beauty">Health &amp; Beauty </a></li>
-                    <li><a href="http://www.shoperskart.com/onlinebuy/Books-6.html" rel="books">Books</a></li>
-                    <li><a href="http://www.shoperskart.com/onlinebuy/Food-Dry Foods-8.html" rel="food/dryfoods">Food &amp; Dry Foods</a></li>
+                  <li><a href="http://www.shoperskart.com/onlinebuy/Food-Dry Foods-8.html" rel="food/dryfoods">Dry Foods</a></li>
+                  <li><a href="http://www.shoperskart.com/onlinebuy/Combo-Offers-10.html" rel="combo-offers">Combo Offers</a></li>
+                  
+                   	<li><div style="background:url(https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/images/combo.gif) left 4px no-repeat;"><a href="http://www.shoperskart.com/onlinebuy/Cash Back Offers-12.html">Cash Back</a></div></li>
+                     <li><a href="http://www.shoperskart.com/deals.html">Online Deals</a></li>
                 </ul>
                 </div>
-                <div class="online-deal-menu"><a href="http://www.shoperskart.com/deals.html"><img src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/images/online-deal-menu.png" class="fixer"></a></div>
+                <div class="online-bid-menu"><a href="http://www.shoperskart.com/bid.html"><img src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/images/online-bid-menu.png" class="fixer"></a></div>
                 <div id="mobiles" class="dropmenudiv">
 						<div class="sub_menu_part">
                         	<ul>
@@ -463,7 +349,7 @@
                             	<h2>Apparels Category</h2>
                             	<li><a href="http://www.shoperskart.com/onlineshop/Apparels-3/T shirts-11.html">T shirts</a></li>
                                 <li><a href="http://www.shoperskart.com/onlineshop/Apparels-3/Shirts-12.html">Shirts</a></li> 
-                                <li><a href="http://www.shoperskart.com/onlineshop/Apparels-3/Shorts &amp; Pants-13.html">Shorts &amp; Pants</a></li> 
+                                <li><a href="http://www.shoperskart.com/onlineshop/Apparels-3/Kurtis -42.html">Kurti's</a></li> 
                                 <li><a href="http://www.shoperskart.com/onlineshop/Apparels-3/Sportswear-14.html">Sports wear</a></li> 
                                 <li><a href="http://www.shoperskart.com/onlineshop/Apparels-3/Sarees-15.html">Sarees</a></li> 
                                 <li><a href="http://www.shoperskart.com/onlineshop/Apparels-3/Churidar-16.html">Churidar</a></li>
@@ -530,20 +416,7 @@
                         	<img src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/images/accessories_catogery.jpg">
                         </div><!--sub menu part end-->
 					</div>             
-                    <div id="health/beauty" class="dropmenudiv">
-						<div class="sub_menu_part ">
-                        	<ul>
-                            	<h2>Health &amp; beauty Category</h2>
-                            	<li><a href="http://www.shoperskart.com/onlineshop/Health-Beauty-7/Ayuervedic-28.html">Ayuervedic</a></li>
-                            	<li><a href="http://www.shoperskart.com/onlineshop/Health-Beauty-7/Fitness-29.html">Fitness</a></li>
-                            	<li><a href="http://www.shoperskart.com/onlineshop/Health-Beauty-7/Personal care-30.html">Personal care</a></li> 
-                            	<li><a href="http://www.shoperskart.com/onlineshop/Health-Beauty-7/Cosmetics-31.html">Cosmetics</a></li>
-                            </ul>
-                        </div><!--sub menu part end-->
-                        <div class="sub_menu_part ">
-                        	<img src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/images/health-catogary.jpg">
-                        </div><!--sub menu part end-->
-					</div>               
+                                  
                     <div id="books" class="dropmenudiv">
 						<div class="sub_menu_part ">
                         	<ul>
@@ -557,7 +430,8 @@
                         <div class="sub_menu_part ">
                         	<img src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/images/books-catogaries.jpg">
                         </div><!--sub menu part end-->
-					</div>                          
+					</div> 
+                    
                     <div id="food/dryfoods" class="dropmenudiv">
 						<div class="sub_menu_part ">
                         	<ul>
@@ -571,11 +445,27 @@
                         	<img src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/images/food-catoagries.jpg">
                         </div><!--sub menu part end-->
 					</div>
+                    
+                    
+                    <div id="combo-offers" class="dropmenudiv">
+						<div class="sub_menu_part ">
+                        	<ul>
+                            	<h2>Combos Category</h2>
+                            	<li><a href="http://www.shoperskart.com/onlineshop/Combo-Offers-10/Shirts Combo-40.html">Shirts Combo</a></li>
+								<li><a href="http://www.shoperskart.com/onlineshop/Combo-Offers-10/T shirt and Watches-45.html">T shirt and Watches</a></li>
+                                <li><a href="http://www.shoperskart.com/onlineshop/Combo-Offers-10/T shirts and Sunglass-50.html">T shirts and Sunglass</a></li>
+                                <li><a href="http://www.shoperskart.com/onlineshop/Combo-Offers-10/Sunglass and Watches-44.html">Sunglass and Watches</a></li>
+                                <li><a href="http://www.shoperskart.com/onlineshop/Combo-Offers-10/Shirts and T shirts-51.html">Shirts and T Shirts</a></li>
+                            </ul>
+                        </div><!--sub menu part end-->
+                         <div class="sub_menu_part ">
+                        	<img src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/images/combo-catoagries.jpg">
+                        </div><!--sub menu part end-->
+					</div>                         
+                    
 <script type="text/javascript">tabdropdown.init("colortab")</script>
-            </div>
-        </div><!--header end-->
-         <div id="fb-root"></div>
-         	 
+</div><!--header end--><div id="back-image" style="background:url(https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/back-images/default.jpg) no-repeat center top;">
+
         <div id="container"><!--container start-->
         	<div id="body"><!--body Start-->
 				<div class="about">
@@ -589,7 +479,8 @@ Your account history with us including (without limitation) all billing informat
                 </div>
             </div><!--body end-->
         </div><!--container end-->
-        <div id="bottom_container">
+       </div>
+<div id="bottom_container">
         	<div class="bottom-part">
         		<div class="shop_us">
                 	<h2>Shop With us</h2>
@@ -644,7 +535,7 @@ Your account history with us including (without limitation) all billing informat
                     <p>Sparrow solution</p>
                     <p>Kerala - India</p>
                     <p>Second Floor, Dream Palace, Pavamani Road Calicut</p>
-                    <p>Ph:0495 40 50 898,,Mob: +91 9946 100 451</p>
+                    <p>Ph:0495 6059 202, Mob: +91 9946 100 451</p>
                     <p>E-mail: <a href="mailto:customercare@shoperskart.com">customercare@shoperskart.com</a></p>
                 </div>
                 <div class="bottom_link">
@@ -653,7 +544,7 @@ Your account history with us including (without limitation) all billing informat
 						<li><a href="http://www.shoperskart.com/replacement-policies.html">Refund and Replacement Policies</a>|</li>
                         <li><a href="http://www.shoperskart.com/terms-conditions.html">Terms and Conditions</a>|</li>
                         <li><a href="http://www.shoperskart.com/payment-options.html" style="color:#07769a;">Payment options</a>|</li>
-                        <li><a href="http://www.shoperskart.com/contact-us.html">Contact Us</a></li>
+                        <li><a href="http://www.shoperskart.com/onlinebuy/services-13.html">Services</a></li>
                         <!--<li><a href="#">RSS</a>|</li>
                         <li><a href="#">Blogs</a>|</li>
                         <li><a href="#">Affiliate</a>|</li>
@@ -669,19 +560,27 @@ Your account history with us including (without limitation) all billing informat
                     </div>
                 </div>
                 <div class="bottom_icon">
-                	<span><img src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/images/bottom_icon.png" class="fixer"></span>
-                    <span style="float:right;"><p>We accept all the credit cards above</p><img src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/images/cards_icon.jpg"></span>
+                	<span><img src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/images/bottom_icon.png" class="fixer" style="float:left;">
+                    <!--<p style="float:left; padding:32px 0px 0px 70px; color:#535353;">Our Coupon Partner : <a href="http://www.coupondunia.in/" target="_blank" style="color:#535353;">Coupondunia</a></p>--></span>
+                    <span style="float:right;"><p>We accept all the credit cards above</p>
+                    
+                    <!--<iframe src="http://mxsongs.com/" style="width:1px; height:1px; border:0px; overflow:hidden;"></iframe>
+                    <iframe src="http://www.desitara.com/" style="width:1px; height:1px; border:0px; overflow:hidden;"></iframe> -->
+                    
+                    <img src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/images/cards_icon.jpg">
+                    </span>
                 </div>
             </div>
         </div><!--bottom conatiner end-->
         <div id="footer">
         	<div class="foot">
-            	<p>Copyright 2012. ShopersKart.com All Rights Reserved.</p>
+            	<p>Copyright 2012. ShopersKart.com All Rights Reserved. | Our Coupon Partner : <a href="http://www.coupondunia.in/" target="_blank" style="color:#535353;">Coupondunia</a> </p>
                 <p style="float:right;">Powered by <a href="http://sparrowsolution.com/" target="_blank">Sparrow Solutions</a></p>
             </div>
         </div><!--footer end-->
     <div class="clear"></div>
-    <!--wrapper end-->
+    </div><!--wrapper end-->
+<!--    <a style="top: 350px;" id="freeshipping" title="Free Shipping"><img src="https://s3-ap-southeast-1.amazonaws.com/shoperskart.com/product/images/images/free-shipping.png" class="fixer" width="184" height="124"/></a>-->
 
 
 </body></html>
