@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reghardware.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619035247id_/http%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reghardware.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226231204id_/http%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
 
 # Your Privacy and The Register • The Register
 
@@ -58,6 +58,10 @@ If permission is granted, this information may be used to target specific users 
 If permission is granted, this information may be used to send occasional emails from The Register containing offers from our partners. This will only ever be provided to readers that have specifically given us permission to use their information in this way.
 
 The Register will never use your data for anything beyond the reason stated and the permissions you grant us.
+
+### Mobile Apps
+
+When using comments through The Register mobile apps, login details that are entered within the app are submitted to The Register’s servers and the IP address of all communication with the servers is logged. This IP information is used anonymously in aggregate for generating site statistics, and for ensuring our services are not abused. We do not process login information for any further purpose.
 
 ### Publishing
 
