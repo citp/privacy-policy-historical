@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntotank.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628200944id_/http%3A//www.ntotank.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntotank.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226133620id_/http%3A//www.ntotank.com/privacypolicy.html) for the most accurate reproduction.*
 
 # NATIONAL TANK OUTLET 888-686-8265 Low Price Guaranteed!
 
