@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecmp.org privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619060836id_/http%3A//www.thecmp.org/Comm/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecmp.org privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226211838id_/http%3A//thecmp.org/Comm/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # CMP Privacy Statement
 
@@ -36,7 +36,7 @@ CMP websites place one or more cookies on the visitors web browsers to collect m
 The CMP maintains two email lists, **Shooter's News** and **Sales Updates**. The CMP periodically sends **Shooter's News** bulletins and notifications about the posting of new articles on its on-line newsletter **The First Shot On-Line**. The CMP will add your email address to these distribution lists for these email communications. Your name is added either by an explicit online subscription, or by registering for an event.  
 By default, when you register for an event you are added to these two distribution lists. You have the right to decline to be added to either list when you register. If you are already a member of a CMP newsletter list, declining to register for CMP related updates will not change your existing status.  
 **You may unsubscribe or opt out of mailing lists**  
-The unsubscribe page for CMP Competitor Tracker may be found at <http://clubs.odcmp.com/cgi-bin/unsubscribe.cgi>  
-The unsubscribe page for sales may be found at [custserve@odcmp.com](mailto:custserve@odcmp.com).  
-Errors in contact information may be corrected by notification to [custserve@odcmp.com](mailto:custserve@odcmp.com).  
-To contact a CMP official regarding this policy please email [coo@odcmp.com](mailto:coo@odcmp.com).
+The unsubscribe page for CMP Shooter's News email Brooke Fleming at [bfleming@odcmp.com](mailto:bfleming@odcmp.org?subject=Unsubscribe).   
+The unsubscribe page for sales may be found at [custserve@thecmp.org](mailto:custserve@thecmp.org).  
+Errors in contact information may be corrected by notification to [custserve@thecmp.org](mailto:custserve@thecmp.org).  
+To contact a CMP official regarding this policy please email [coo@thecmp.org](mailto:coo@thecmp.org).
