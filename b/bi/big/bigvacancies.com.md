@@ -1,25 +1,18 @@
-> *The following text is extracted and transformed from the bigvacancies.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501194628id_/http%3A//bigvacancies.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigvacancies.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226093504id_/http%3A//bigvacancies.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Jobs, Results, Admissions, Interview Questions, Tutorials & Industry updates
 
-  |    
-| [](http://www.bigvacancies.com/) |  |   
+  |  | [](http://www.bigvacancies.com/) |  |   
 ---|---|---  
-  | [Register](https://web.archive.org/web/20120501194628id_/http%3A//bigvacancies.com/register.php) | [Members List](https://web.archive.org/web/20120501194628id_/http%3A//bigvacancies.com/members/list/) | [Calendar](https://web.archive.org/web/20120501194628id_/http%3A//bigvacancies.com/calendar.php) | [Search](https://web.archive.org/web/20120501194628id_/http%3A//bigvacancies.com/search.php) | [Today's Posts](https://web.archive.org/web/20120501194628id_/http%3A//bigvacancies.com/search.php?do=getdaily) | [Mark Forums Read](https://web.archive.org/web/20120501194628id_/http%3A//bigvacancies.com/forumdisplay.php?do=markread) |    
+  | [Register](https://web.archive.org/web/20121226093504id_/http%3A//bigvacancies.com/register.php) | [Members List](https://web.archive.org/web/20121226093504id_/http%3A//bigvacancies.com/members/list/) | [Calendar](https://web.archive.org/web/20121226093504id_/http%3A//bigvacancies.com/calendar.php) | [Search](https://web.archive.org/web/20121226093504id_/http%3A//bigvacancies.com/search.php) | [Today's Posts](https://web.archive.org/web/20121226093504id_/http%3A//bigvacancies.com/search.php?do=getdaily) | [Mark Forums Read](https://web.archive.org/web/20121226093504id_/http%3A//bigvacancies.com/forumdisplay.php?do=markread) |    
 ---|---|---|---|---|---|---|---  
    
   | 
 
-|   |  
-
-[](http://k9g9.com/resume)  
-  
----|---  
-  
   
 
 
-Jobs, Results, Admissions, Interview Questions, Tutorials & Industry updates Privacy Policy   
+| Jobs, Results, Admissions, Interview Questions, Tutorials & Industry updates Privacy Policy   
 ---  
   
 ## Forum Privacy Policy for http://www.BigVacancies.com  
@@ -27,7 +20,7 @@ and
   
 Last Updated: 5th September 2009 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@BigVacancies.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at bigvacancies@gmail.com.
 
 The privacy of our visitors to http://www.BigVacancies.com is important to us.
 
@@ -80,7 +73,7 @@ To try and bring you offers that are of interest to you, we have relationships w
 [vBulletin](http://www.vbulletin.org/forum/info.php?do=privacy)**[](http://www.vbulletin.org/forum/info.php?do=privacy)
 
 **If you have any questions about security on our Web site, you can send email us at:**  
-admin@BigVacancies.com
+bigvacancies@gmail.com
 
 We give users options wherever necessary and practical. Such choices include:  
 Opting not to register to receive our electronic newsletters.  
@@ -98,12 +91,11 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 [](http://optout.doubleclick.net/cgi-bin/dclk/optout.pl)
 
-All times are GMT +5.5. The time now is 01:16 AM.
+All times are GMT +5.5. The time now is 03:05 PM.
 
   
 |    
   |   |   |   |    
 ---|---|---|---|---  
-  
   
 
