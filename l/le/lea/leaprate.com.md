@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaprate.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626020852id_/http%3A//leaprate.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaprate.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226211228id_/http%3A//leaprate.com/privacy-policy.html) for the most accurate reproduction.*
 
 # LeapRate - Your Forex Industry Source - Privacy Policy
 
@@ -10,7 +10,7 @@ LeapRate hereby informs you that the by voluntarily sending us your personal dat
 
 In order to use some of our services, users may be asked to fill in a form, which requires providing certain personal information to LeapRate. Unless otherwise provided in those fields expressly marked with an asterisk (*), answers to our questions on personal data are not mandatory. Not supplying the information required in such optional fields shall not represent any decrease of the services and information that we may provide. However, failure to complete those compulsory fields or providing incorrect personal data shall prevent us from providing the requested information or services.
 
-LeapRate informs you of the possibility of exercising your rights to access, rectify, cancel and object to the processing of your personal data or transfer of such data to any third parties, by making an email request to LeapRate at [access@leaprate.com](mailto:access@leaprate.com).
+LeapRate informs you of the possibility of exercising your rights to access, rectify, cancel and object to the processing of your personal data or transfer of such data to any third parties, by making an email request to LeapRate at access@leaprate.com.
 
 This website does not use "cookies" to gather personal information such as a person's name or email address. A cookie is a small text file placed on your computer's hard drive or browser by a webpage server.
 
