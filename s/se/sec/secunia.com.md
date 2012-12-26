@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the secunia.com privacy policy that was archived on 2011-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110923224536id_/http%3A//secunia.com%3Faction%3Dfetch%26filename%3DSecunia_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secunia.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226111325id_/http%3A//secunia.com%3Faction%3Dfetch%26filename%3DSecunia_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # 
 
-                                                                                              30 June 2011
+                                                                                              6 July 2012
 SECUNIA PRIVACY POLICY
 1.          Responsibility of Data
 1.1         This website is owned by Secunia ApS, CVR. No. 26 83 33 45 (hereinafter re-
@@ -46,14 +46,16 @@ S:\dokumenter\10063\242781\000035.doc
     enhanced user experience. Cookies are also used in connection with any ser-
     vice requiring authentication. Certain functionalities may not be available if the
     user disables cookies on his/her browser.
+4.4 Personal identifiable information submitted whilst visiting Secunia's website is
+    stored in cookies in order to optimise communication to users.
+                                                                              Page 2 of 4
+
+
 5.  Disclosure of Personally Identifiable Information to Third Parties
 5.1 Secunia will not disclose any personally identifiable information to any third
     party unless the user has given his/her prior consent hereto, in accordance
     with the Danish Act on Processing of Personal Data, which allows disclosure of
     the gathered information following the user’s consent.
-                                                                              Page 2 of 4
-
-
 6.  Use of Personal Data
 6.1 Personal information is used primarily to complete the service for which the
     personal information is collected.
@@ -73,17 +75,17 @@ S:\dokumenter\10063\242781\000035.doc
 8.  Storing Information
 8.1 The data collected by Secunia will not be kept for a longer period than what is
     necessary to fulfil the purpose for which the data was processed.
-9.  Protection of Personal Information
-9.1 According to the Danish Act on Processing of Personal Data, personal infor-
-    mation is to be stored in a secure and confidential manner. Secunia stores the
-    personal information provided by users on computers which have limited ac-
-    cess and which are located in controlled facilities. Secunia also regularly car-
-    ries out checks to ensure that Secunia’s personal user information is handled
-    securely and continuously to protect the user’s rights, according to the Danish
-    Act on Processing of Personal Data.
                                                                              Page 3 of 4
 
 
+9.   Protection of Personal Information
+9.1  According to the Danish Act on Processing of Personal Data, personal infor-
+     mation is to be stored in a secure and confidential manner. Secunia stores the
+     personal information provided by users on computers which have limited ac-
+     cess and which are located in controlled facilities. Secunia also regularly car-
+     ries out checks to ensure that Secunia’s personal user information is handled
+     securely and continuously to protect the user’s rights, according to the Danish
+     Act on Processing of Personal Data.
 9.2  However, Secunia cannot guarantee security for data transmission via the In-
      ternet. This means that there is a risk that other persons may gain unauthor-
      ised access to personal information when data is transmitted and stored elec-
@@ -96,5 +98,5 @@ S:\dokumenter\10063\242781\000035.doc
      users must contact marketing@secunia.com and ask to be placed on Secunia’s
      “block list”. Secunia will then make sure that the user is manually removed
      from Secunia’s mailing lists.
-     Version 1, Copenhagen, 16 June 2011
+     Version 2, Copenhagen, 6 July 2012
                                                                              Page 4 of 4
