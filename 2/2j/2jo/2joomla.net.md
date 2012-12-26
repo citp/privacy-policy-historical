@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2joomla.net privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522041250id_/http%3A//www.2joomla.net/2jcarousel-pricing/76%3Ftask%3Dview) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2joomla.net privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226223631id_/http%3A//www.2joomla.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,10 +9,11 @@ Modern information and communication technologies play a fundamental role in the
 Our principal activity is: 
 
   * Development of web applications
-  * Joomla! extensions development
+  * Joomla extensions development
 
-Our privacy policy covers 2JoomlaNet and its Web site.   
 
+
+Our privacy policy covers 2JoomlaNet and its Web site. 
 
 #### Providing Visitors with Anonymous Access
 
@@ -29,7 +30,7 @@ We do not use cookies to store personal data nor do we link non-personal informa
 We collect the personal data that you may volunteer while using our services.  
 We do not collect information about our visitors from other sources, such as public records or bodies, or private organisations.  
 We do not collect or use personal data for any purpose other than that indicated in the table below.  
-If we wish to use our visitors personal data for new purposes, we do not give them the opportunity to consent to those new purposes.
+If we wish to use our visitors' personal data for new purposes, we do not give them the opportunity to consent to those new purposes.
 
 #### Children's Privacy
 
@@ -51,6 +52,8 @@ We have not implemented security policies, rules and technical measures to prote
   * unauthorized modification
   * unlawful destruction or accidental loss
 
+
+
 Our employees and data processors, who have access to, and are associated with the processing of personal data, are not obliged to respect the confidentiality of our visitors' personal data.  
 We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation.
 
@@ -60,6 +63,8 @@ You can ask us, by:
 
   * sending an email ( [question@2joomla.net](mailto:question@2joomla.net) )
   * visiting this url ( [www.2joomla.net](http://www.2joomla.net/) )
+
+
 
 whether we are keeping personal data about you.  
 We do not provide our visitors with a readable copy of the personal data that we keep about them.  
