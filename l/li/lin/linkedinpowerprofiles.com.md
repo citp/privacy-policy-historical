@@ -1,0 +1,79 @@
+> *The following text is extracted and transformed from the linkedinpowerprofiles.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226175222id_/https%3A//www.linkedin.com/static%3Fkey%3Dprivacy_policy) for the most accurate reproduction.*
+
+# Privacy Policy | LinkedIn
+
+* #### Consent to LinkedIn Processing Information About You
+
+The information you provide to LinkedIn may reveal, or allow others to identify, your nationality, ethnic origin, gender, age, and other aspects of your life. By providing information to us for the purposes of creating your User account or adding any additional details to your LinkedIn profile, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and LinkedIn’s User Agreement that allow LinkedIn to process information about you. Supplying information to LinkedIn, including any information deemed “sensitive” by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent to LinkedIn’s collection and processing of your information at any time, in accordance with the terms of this Privacy Policy and the User Agreement, by changing your [Settings](https://www.linkedin.com/settings/), or by [closing your account](https://www.linkedin.com/secure/settings?closemyaccountstart=), but please note that your withdrawal of consent will not be retroactive.
+
+* #### LinkedIn Communications
+
+As described in the User Agreement, we will communicate with you through email, notices posted on the LinkedIn website, messages to your LinkedIn inbox, or through other means available through the service, including mobile text messages. We may send you a series of emails that help inform new Users about the features of the Services, and we will also send you service messages relating to the functioning of the Services. We may also send you messages with promotional information directly or on behalf of our partners, unless you have opted out of receiving promotional information. 
+
+You can change your e-mail and contact preferences at any time by logging into your account and changing your [settings](https://www.linkedin.com/settings/?tab=email) related to your email notification choices. If you wish, you can also opt-out of receiving promotional emails by sending a request to LinkedIn customer service through our [customer service site](http://linkedin.custhelp.com/).
+
+Please be aware that you cannot opt-out of receiving service messages from LinkedIn. Also, if we send communications to you via the carrier service with which you have a mobile communications subscription or otherwise have access, you understand you will pay any service fees associated with your receipt of messages on your mobile device (including text messaging charges). 
+
+* #### User Communications
+
+Many communications you initiate through LinkedIn (e.g., an invitation sent to a non-User) will list your primary email address and name in the header of the message. Messages you initiate may also provide aggregate information about your network (for instance how many people are in your network), but will not list the people to whom you’re directly connected. Other communications that you initiate through the LinkedIn website, like a request for an introduction, will list your name as the initiator but will not include your personal email address contact information. Your contact information will only be shared with another User if both of you have indicated that you would like to establish contact with each other. 
+
+* #### Customized Content
+
+We use information you provide to us (or to third parties with whom LinkedIn offers combined services) to customize your experience on our website. For example, when you login to your account, we will display the names of new Users who have recently joined your network or recent status updates from your connections. 
+
+* #### Sharing Information with Third Parties
+
+LinkedIn takes the privacy of our Users very seriously, and we do not sell, rent, or otherwise provide your personally identifiable information to third parties, except as described in this policy. We will also not share other personal information not published to your profile or generated through engagement with other LinkedIn services (Groups, Answers, Company Pages, etc.) without your explicit consent or to carry out your instructions (for example, to process payment information) unless, disclosure is reasonably necessary in our opinion to: (1) comply with legal process, including, but not limited to, civil and criminal subpoenas, court orders or other compulsory disclosures; (2) enforce this Agreement; (3) respond to claims of a violation of the rights of third parties, whether or not the third party is a User, individual, or government agency; (4) respond to customer service inquiries; or (5) protect the rights, property, or personal safety of LinkedIn, our Users or the public. 
+
+LinkedIn offers a “public profile” feature that allows Users to publish portions of their LinkedIn profile to the public internet. This public profile will be crawled by and displayed through search engines when someone searches for your name. You may opt-out of this feature by editing your account [settings](https://web.archive.org/profile/public-profile-settings); however, LinkedIn does not warrant how often third-party search engines will update their caches, which may contain old public profile information. 
+
+Content distributed through LinkedIn’s sharing features and third party integrations may result in displaying some of your information outside of LinkedIn. For example, when you post content to a LinkedIn Group that is open for public discussion, your content, including your name as the contributor, may be displayed in search engine results. Or, if you have bound your LinkedIn account to your Twitter account, you can easily share content into both LinkedIn as well as to Twitter. 
+
+We may provide aggregated anonymous data about the usage of the Services to third parties for purposes that we deem, in our sole discretion, to be appropriate, including to prospective advertisers on LinkedIn. 
+
+* #### Developers using LinkedIn Platform Services
+
+We collaborate with and allow third parties to use LinkedIn’s developer platform to offer services and functionality in conjunction with and outside of LinkedIn. These third parties are either partners (“LinkedIn Partners”) with whom we have negotiated an agreement to provide services (“Combined Services”), for example, InApps, or developers (“Platform Developers”) who have agreed to our developer terms in order to build applications (“Platform Applications”). Both the negotiated agreements and our API terms and conditions contain restrictions on access, storage and use of your information. 
+
+If you choose to use Combined Services or a Platform Application, you may be asked to confirm acceptance of the privacy policy and/or user agreement of the LinkedIn Partner or Platform Developer, which have not necessarily been reviewed or approved by LinkedIn. It is your choice whether or not to make use of Combined Services or Platform Applications and whether to proceed under any third party terms, and once you do, the third party's terms, and not this policy, will govern how they handle information you provide to them directly or through your LinkedIn account. 
+
+Also, despite our agreements and technical steps taken to restrict access to and avoid possible misuse of information, we may not screen or audit all Combined Services or Platform Applications. We also cannot guarantee that any LinkedIn Partner or Platform Developer will abide by our agreement. You agree that your use of Combined Services or Platform Applications is on an “as is” basis and without any warranty. 
+
+If you use any Combined Service or Platform Application, the LinkedIn Partner or Platform Developer may access and share certain information about you, such as non-public profile information and information visible only to your connections. This includes information about your connections by virtue of you being connected to others. However, unless you have used a Combined Service or Platform Application, it can only access the information about you that is otherwise visible to other LinkedIn Users. 
+
+To revoke permission granted to a Combined Service or Platform Application at any time, please visit the [settings](https://www.linkedin.com/settings/) page. If the relevant Platform Developer or Application, or LinkedIn Partner is not listed under Authorized Applications, go directly to the Application Details page for the Platform Application you wish to uninstall. Note, however, that even if you revoke the permission granted a third party, your connections, other members of your network, or other Users of LinkedIn may still be using the Platform Application, so the Platform Application or Combined Service may still have access to certain information about you, just as those Users do. You may opt-out of providing information to third parties through others connected to you by accessing the “[Turn on/off data sharing with third-party applications](https://www.linkedin.com/settings/?tab=groups&modal=nsettings-data-sharing)” control in the “Groups, Companies, and Applications” tab under [settings](https://www.linkedin.com/settings/?tab=groups). To report any suspected misuse of information, contact LinkedIn’s customer service. LinkedIn is not responsible for your use of or inability to use any Combined Service or Platform Application, including the content, accuracy, or reliability of applications and the privacy practices or other policies of LinkedIn Partners or Platform Developers.
+
+* #### Polls and Surveys
+
+Polls and Surveys may be conducted by LinkedIn, LinkedIn Users or third parties. As a User, you may be invited to participate in polls and surveys from the LinkedIn website. Your selection may be random, or it may be based on your non-personally identifiable information, such as job title, geography, company size and/or industry. Whether or not you decide to participate in a poll or survey is completely up to you. 
+
+After you complete a poll, you will be given access to the aggregate responses of the poll on a results page. Some third parties may target advertisements to you on the results page based on your answers in the poll. Further, LinkedIn or third parties may follow up with you via InMail regarding your participation unless you have opted out of receiving InMail messages. 
+
+We may use third parties to deliver incentives to you to participate in surveys or polls. If the delivery of incentives requires your contact information, you may be asked to provide personally identifiable information to the third party fulfilling the incentive offer, which will only be used for the purpose of delivering incentives and/or verifying your contact information. It is up to you whether you provide this information, or whether you desire to take advantage of an incentive. 
+
+We will not disclose any personally identifiable information to any third parties in connection with the conduct of any polls or surveys. Your consent to use any personally identifiable information for the purposes set forth in the poll or survey will be explicitly requested by the party conducting it. LinkedIn is a member of the Council of American Survey Research Organizations (“CASRO”) and abides by CASRO guidelines for market research. You may opt-out of participating in Surveys by changing your [settings](https://www.linkedin.com/settings/?tab=email&modal=nsettings-research-invitations) to stop receiving these inquiries and requests. 
+
+* #### Search
+
+We offer search services to help find information and learn more about other Users (for example, you can search for Users with particular expertise or consulting experience, or that you may know from your industry or profession), as well as employment opportunities. LinkedIn search also allows Users to find jobs, companies, and contributions to the community aspects of the LinkedIn Services, such as Groups and Answers that will help Users more effectively use LinkedIn and expand their network. We use information from User profiles and contributions to Groups, Company Pages, and Answers to inform and refine our search service. 
+
+* #### Answers, Groups, and other Services
+
+If you post on the Answers section of LinkedIn, participate in LinkedIn Groups, or import a blog, you should be aware that any personally identifiable information you choose to provide there can be read, collected, or used by other Users of these forums, as well as Platform Developers and other third parties, and could be used to send you unsolicited messages. LinkedIn is not responsible for the information you choose to submit in these forums. Also, some content in LinkedIn Groups may be public and searchable on the internet if the Group owner has opened the group for public discussions. You can delete your posts to Answers and LinkedIn Groups at any time. However, please note that ideas you post and information you share may be seen and used by other Users, and LinkedIn cannot guarantee that other Users have not made copies of or use the ideas and information that you share with others on LinkedIn. 
+
+* #### Testimonials and Advertisements Placed through LinkedIn Ads Service
+
+If you provide any testimonials about the LinkedIn Services or place advertisements through the LinkedIn Ads, we may post those testimonials and examples of advertisements you place in connection with our promotion of these services to third parties. Testimonials and advertisements may include your name and other personal information that you have provided. For more information about LinkedIn Ads please see the [LinkedIn Ads Terms of Use](https://web.archive.org/static?key=pop%2Fpop_sas_terms).
+
+* #### Advertising and Endorsements on LinkedIn
+
+In order to deliver relevant and valuable ads to you and your network, LinkedIn may use your name and profile photo in connection with social advertising based on content shared on LinkedIn. This advertising may include the fact that you have recommended or endorsed a product or service on LinkedIn, followed a company, joined Groups or conversations, established or added content to your profile, etc., and will only be displayed to your LinkedIn network. You can opt-out of allowing your name and/or profile photo to be used in social ads [here](https://www.linkedin.com/settings/?tab=account&modal=nsettings-social-advertising).
+
+* #### Compliance with Legal Process
+
+It is possible that we may need to disclose personal information, profile information and/or information about your activities as a LinkedIn User when required by subpoena or other legal process, or if LinkedIn has a good faith belief that disclosure is necessary to (a) investigate, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies; (b) to enforce the User Agreement, to investigate and defend ourselves against any third party claims or allegations, or to protect the security or integrity of our site; and/or (c) to exercise or protect the rights, property or personal safety of LinkedIn, our Users, employees, or others. 
+
+* #### Disclosures to Others as the Result of a Change in Control or Sale of LinkedIn Corporation
+
+We may also disclose your personal information and other information you provide to another third party as part of a sale of the assets of LinkedIn Corporation, a subsidiary or division, or as the result of a change in control of the company. Any third party to which LinkedIn transfers or sells LinkedIn’s assets will have the right to continue to use the personal and other information that you provide to us. 
