@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsandstar.co.uk privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222232id_/http%3A//www.newsandstar.co.uk/1.930532) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsandstar.co.uk privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226115948id_/http%3A//www.newsandstar.co.uk/1.930532) for the most accurate reproduction.*
 
 # News & Star | Privacy Policy
 
