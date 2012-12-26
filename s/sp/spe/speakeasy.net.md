@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speakeasy.net privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511210805id_/http%3A//www.megapath.com/megapath/assets/File/PDF/Legal/privacy_policy_statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speakeasy.net privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226224346id_/http%3A//www.megapath.com/megapath/assets/File/PDF/Legal/privacy_policy_statement.pdf) for the most accurate reproduction.*
 
 # MegaPath Corporation Privacy Policy Statement
 
