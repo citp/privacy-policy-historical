@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musically.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627113626id_/http%3A//musically.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musically.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226205516id_/http%3A//musically.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Music Ally
 
@@ -57,3 +57,5 @@ We use cookies on the site solely for the purpose of logging you in or out of th
 ### Security
 
 Music Ally will take all reasonable steps to ensure the security of the data we hold. We will make our best endeavours to prevent loss or alteration to all data.
+
+[](http://www.midem.com/en/the-event/overview/tech/?utm_source=Music%2BAlly&utm_medium=web&utm_campaign=midem13_musically_webv2)
