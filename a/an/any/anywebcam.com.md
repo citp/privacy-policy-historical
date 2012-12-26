@@ -1,47 +1,55 @@
-> *The following text is extracted and transformed from the anywebcam.com privacy policy that was archived on 2012-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120308102643id_/http%3A//www.anywebcam.com/awc/html/lang_10000/content/popup/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anywebcam.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226063145id_/http%3A//www.anywebcam.com/privacy.html%3F) for the most accurate reproduction.*
 
-# ANYwebcam.com
+# AnyWebcam | Privacy
 
-## Privacy Policy
+[Home](http://www.anywebcam.com/) / Privacy Policy
 
-Anywebcam CY Limited.   
-Michalakopoulou 12,  
-4th floor, Flat/Office 401,  
-P.C. 1075, Nicosia, Cyprus
+By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
 
-ANYwebcam.com USA LLC.  
-3155 East Patrick Lane · Suite 1  
-Las Vegas, NV 89120-3481 USA
+AnyWebcam respects and safeguards the privacy of every individual who visits our website. This Privacy Statement is a formal document that outlines the information which may be collected about you while you use AnyWebcam, and how that information may be used. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit the AnyWebcam website.
 
-                    ANYwebcam.com Pty Ltd.  
-ACN: 098 473 691.  
-P.O. Box 454,  
-Prahran, Vic, 3181  
-Australia
+AnyWebcam will not collect any personal identifying information about you (including, but not limited to, your name, address, telephone number, email address, Social Security number, bank account or credit card information, or any combination of data that could be used to identify you, such as birth date, zip code, and gender) unless you provide it to us voluntarily.
 
-This is the web site of ANYwebcam.com.  
-Our postal address is;  
-P.O. Box 454  
-Prahran, Vic, 3181  
-Australia  
-We can be reached via ANYwebcam customer support
+If you do not want your personal identifying information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). We collect the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations. 
+When you do provide us with personal identifying information, such information will be gathered solely by AnyWebcam, and is for use solely by AnyWebcam and trusted partners. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services.
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used by us to contact consumers for marketing purposes, shared with other reputable organizations to help them contact consumers for marketing purposes. 
+AnyWebcam may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings.
 
-With respect to cookies: We use cookies to customize Web page content based on visitors' browser type or other information that the visitor sends. 
+AnyWebcam may request personal identifying information on specific pages that allow users to contact AnyWebcam. Such information is being collected to assist us in solving a specific issue addressed by the user and/or to allow us to contact the user with an appropriate response.
 
-We require our members to provide an email address (account email) of a type considered valid by us. We will not provide the account email address you provide to any third party except where required by law. Our use of the account email will be limited solely to AWC-generated password confirmations, reminders or other site-related information. 
+There are a limited number of situations where we may disclose your personal information to others without first receiving your consent: (1) when legally ordered to do so by a lawful subpoena or court order, (2) if you violate or breach an agreement with us, (3) if we believe conduct by you will harm the property or rights of AnyWebcam or those of AnyWebcam customers or chat hosts, (4) under exigent circumstances to protect the physical safety of AnyWebcam, its employees, users or the general public, (5) in connection with the sale of all or substantially all of our company’s assets or the sale of an entire web site or business division or (6) in order to validate credit card numbers for charging for fee services.
 
-You may optionally also wish to provide an email address that enables the "blind-email" feature of our site where you can anonymously share emails from other members. From time to time, we make these optional e-mail addresses available to other reputable organizations whose products or services we think you might find interesting. 
+Your browser offers so-called "cookies," which – if you allow their use – store small amounts of data on your computer about your visit to our site. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult their respective privacy policies. 
+We may use cookies to:
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. 
+  * Deliver content specific to your interests.
+  * Save your password so you don’t have to re-enter it each time you visit our sites.
 
-Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them, a description of information that we maintain about them. Consumers can access this information by visiting their Membership Profile. Consumers can have this information corrected by amending their Membership Profile. 
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or via ANYwebcam customer support
+We do not use cookies to identify, monitor or track any personally identifiable information. Our cookies in and of themselves do not contain any personally identifiable information about you. We do not merge or associate our cookie information with any personally identifiable information obtained by us or from third parties.
+
+You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.
+
+This site makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. If you disclose your email address in a chat room or forum, you may receive unsolicited email or "spam". We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you must do so carefully and at your own risk.
+
+Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. AnyWebcam does not knowingly collect contact or personal information from persons under 18. Our sites are not intended to solicit information of any kind from persons under 18, and we have designed our sites to block our knowing acceptance of information from persons under 18 wherever age related information is requested.
+
+Members areas of AnyWebcam may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@anywebcam.com](https://web.archive.org/contactsupport.php?).
+
+AnyWebcam does not send unsolicited email to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from AnyWebcam, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/contactsupport.php?).
+
+AnyWebcam also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Some trusted partners may email a member to present special offers to our members. Further, according to our published policy, if AnyWebcam becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, AnyWebcam reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the AnyWebcam program, termination of AnyWebcam services, and forfeiture of all commissions.
+
+If you have any questions about this Privacy Policy, please contact our customer service department at [support@anywebcam.com](https://web.archive.org/contactsupport.php?) and provide us with your name, your AnyWebcam login name, and any information you feel is important.
+
+The address for correspondence by post is
+
+Streamates Limited  
+c/o Ariel Secretaries Limited  
+196, Arch Makarios Ave, Ariel Corner,  
+1st Flr, Office 102  
+P.O. Box 57528  
+3316 Limassol - Cyprus
