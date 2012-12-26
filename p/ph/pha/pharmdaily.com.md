@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the pharmdaily.com privacy policy that was archived on 2012-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120402104419id_/http%3A//pharmdaily.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmdaily.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226041954id_/http%3A//www.pharmdaily.com/privacypolicy.html) for the most accurate reproduction.*
 
-# PharmDaily.com | Privacy Policy
+# PrivacyPolicy | Disclaimer
 
-|  This privacy policy ("Policy") discloses the data collection and use practices of Pharmdaily ("Pharmdaily") in connection with the Pharmdaily Web site (the "Web Site") and all associated Pharmdaily products and services (the "Pharmdaily Services"). 
+**Privacy Policy**
+
+This privacy policy ("Policy") discloses the data collection and use practices of Pharmdaily ("Pharmdaily") in connection with the Pharmdaily Web site (the "Web Site") and all associated Pharmdaily products and services (the "Pharmdaily Services").
 
 Pharmdaily will not directly inform you of any changes to the privacy policy which involve use of your personal information. If at anytime you are dissatisfied with our service to you or are in disagreement with our terms and conditions or privacy policy, you reserve the option to Opt-out of our website and future communication. Pharmdaily may make non-significant changes to our privacy policy and may not notify our members if said changes do not pertain to the handling of personal information.
 
@@ -12,9 +14,9 @@ We store and use the information you give us in accordance with the terms of thi
 
 In addition, we might receive information about you from outside sources and add it to your Pharmdaily membership information. We do this to improve personalization of our services (for example, providing better newsletter content, advertising or special offers that we think will interest you).
 
-We also may collect information such as the identification of the server your computer is logged onto and whether you opened a Pharmdaily e-mail delivered to you. We also may compare our customer list to lists received from other companies, in an effort to avoid sending identical messages to our members. You can add and modify the information you have provided by sending an e-mail to [ information@pharmdaily.com](mailto:information@pharmdaily.com) with your requested changes.
+We also may collect information such as the identification of the server your computer is logged onto and whether you opened a Pharmdaily e-mail delivered to you. We also may compare our customer list to lists received from other companies, in an effort to avoid sending identical messages to our members. You can add and modify the information you have provided by sending an e-mail to [information@pharmdaily.com](mailto:information@pharmdaily.com) This email address is being protected from spambots. You need JavaScript enabled to view it. with your requested changes.
 
-We use all this information in five ways: 
+**We use all this information in five ways:**
 
   * to provide you with personalized information via electronic delivery, telemarketing and/or direct mail. These may include personalized offers from 3rd party sources.
   * to send you targeted advertising via electronic delivery and/or direct mail;
@@ -30,13 +32,19 @@ We employ other companies and individuals to perform certain functions on our be
 
 **Third-party Advertising**
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like to be removed from any 3rd party advertising and solicitation through E-mail, telemarketing, or direct mail please send your request to [ remove@pharmdaily.com](mailto:remove@pharmdaily.com) 
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like to be removed from any 3rd party advertising and solicitation through E-mail, telemarketing, or direct mail please send your request to [ ](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy36434%20=%20'remove'%20+%20'@';%20addy36434%20=%20addy36434%20+%20'pharmdaily'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy36434%20+%20'\\'%3E'\);%20document.write\(addy36434\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E)[remove@pharmdaily.com](mailto:remove@pharmdaily.com)
+
+To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.  Additionally, to opt out of any behavioral advertising, you may go here to access and control your anonymous information:   
+<http://www.networkadvertising.org/managing/opt_out.asp>
 
 **Cookies**
 
 We use cookies on the site to deliver personalized content. Many Web browsers are automatically set to accept cookies. You may change your browser settings to either reject cookies or notify you when a cookie is about to be placed on your computer. Please note, however, that rejecting cookies while visiting the Pharmdaily Web Site may result in certain parts of the Pharmdaily Web Site not operating correctly or as efficiently as if they were allowed.
 
 We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.
+
+To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.  Additionally, to opt out of any behavioral advertising, you may go here to access and control your anonymous information:   
+<http://www.networkadvertising.org/managing/opt_out.asp>
 
 **E-mail Links**
 
@@ -56,7 +64,10 @@ The Pharmdaily Web Site, as well as the electronic messages sent as part of the 
 
 **Removal**
 
-To have all of your personally identifiable information removed from our database, send an e-mail request to [ remove@Pharmdaily.com](mailto:remove@Pharmdaily.com) and we will be happy to delete such information after we receive a request to that effect. Please be advised that by requesting that your data be removed from our database, you will be unsubscribed from the Pharmdaily Service.
+To have all of your personally identifiable information removed from our database, send an e-mail request to [remove@pharmdaily.com](mailto:remove@pharmdaily.com) This email address is being protected from spambots. You need JavaScript enabled to view it. and we will be happy to delete such information after we receive a request to that effect. Please be advised that by requesting that your data be removed from our database, you will be unsubscribed from the Pharmdaily Service.
+
+To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.  Additionally, to opt out of any behavioral advertising, you may go here to access and control your anonymous information:   
+<http://www.networkadvertising.org/managing/opt_out.asp>
 
 **Updates**
 
@@ -66,14 +77,8 @@ If you do not accept the terms of this Policy, we ask that you do not register w
 
 **Contact Us**
 
-Pharmdaily.com is presented by Dedicated Media
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
-
-Dedicated Media  
-909 Sepulveda Blvd. Suite 320  
-El Segundo, CA 90245  
-t: 310.524.9400  
-[ information@dedicatedla.com](mailto:information@dedicatedla.com)
-
-| 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
+PharmDaily  
+2232 South Nellis Blvd.,  
+Suite G 3 #311 Las Vegas, Nevada 89104  
+e: [information@pharmdaily.com](mailto:information@pharmdaily.com)
