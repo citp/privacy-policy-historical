@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the fforfree.net privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624015920id_/http%3A//www.fforfree.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fforfree.net privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226183927id_/http%3A//www.fforfree.net/p/privacy-policy.html) for the most accurate reproduction.*
 
-# FforFree.net - Worldwide Free Stuff, Contests, Deals, Hot News, Sweepstakes, Prizes & much more.: Privacy Policy.
+# Privacy Policy. ~ FforFree.net - Worldwide Free Stuff, Contests, Deals, Hot News, Sweepstakes, Prizes & much more.
+
+##  [Privacy Policy.](http://www.fforfree.net/p/privacy-policy.html)
+
+#### Do you like this ?
 
 [](http://3.bp.blogspot.com/_kvCcM6wMGC0/TTQhrzDqEHI/AAAAAAAAAQk/Bm6ZZ9ubkYA/s1600/privacy-banner-free.jpg)
 
