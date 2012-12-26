@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boyreview.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503225932id_/http%3A//www.boyreview.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boyreview.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226040538id_/http%3A//boyreview.com/info/privacy.php) for the most accurate reproduction.*
 
 # Your privacy is important to us, and even more important to you, so kindly read this.
 
