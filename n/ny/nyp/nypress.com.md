@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nypress.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519174458id_/http%3A//nypress.com/privacy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nypress.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226075834id_/http%3A//nypress.com/privacy-3) for the most accurate reproduction.*
 
-# Privacy Policy | Nypress.com - New York's essential guide to culture, arts, politics, news and more
+# Privacy Policy | NYPress.com - New York's essential guide to culture, arts, politics, news and more
 
 YOUR USE OF AND/OR REGISTRATION WITH ANY ASPECT OF THIS WEBSITE CONSTITUTES YOUR ACCEPTANCE OF THIS PRIVACY POLICY.
 
