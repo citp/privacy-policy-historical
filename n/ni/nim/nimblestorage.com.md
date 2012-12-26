@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nimblestorage.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522002456id_/http%3A//nimblestorage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimblestorage.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226194216id_/http%3A//nimblestorage.com/website/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Nimble Storage
+# 
 
 **Nimble Storage Privacy Policy**
 
-Nimble Storage knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting Nimble Storage’s web site, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+Nimble Storage knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting Nimble Storage's web site, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
 **What information do we collect?**
 
@@ -16,7 +16,7 @@ If you decide to opt-in to our mailing list, you will receive emails that may in
 
 **Do we use cookies?**
 
-Yes. (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser–if you allow–that enable the site’s or service providers’ systems to recognize your browser and capture and remember certain information.) We use cookies to understand and save your preferences for future visits, compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business
+Yes. (Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser—if you allow—that enable the site's or service providers' systems to recognize your browser and capture and remember certain information.) We use cookies to understand and save your preferences for future visits, compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business
 
 If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly.
 
@@ -26,7 +26,7 @@ Nimble Storage offers registered users the option of opting out of receiving ema
 
 **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
