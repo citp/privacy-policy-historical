@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethicalsuperstore.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610012005id_/http%3A//www.ethicalsuperstore.com/help-privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethicalsuperstore.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226172233id_/http%3A//www.ethicalsuperstore.com/help-privacy-and-security) for the most accurate reproduction.*
 
 # Help - Privacy & Security
 
@@ -29,6 +29,8 @@ If you would like to learn more about these services or have any difficulty with
 ### Email Subscription and Mailing Preferences
 
 We keep you up-to-date with special offers and products we think you'll like through emails and occasional postal mailings. If you want to change your email or mail preferences, just click the 'Update communications references' in 'My Account'.
+
+We may pass your email address or telephone number to a courier service however, this will be solely for the purpose of updating you on the status of an outstanding order and these details will not be used for any marketing purposes whatsoever.
 
 [back to questions](http://www.ethicalsuperstore.com/help/)
 
