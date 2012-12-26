@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibangpornstars.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604012902id_/http%3A//track.ibangpornstars.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibangpornstars.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226171810id_/http%3A//track.ibangpornstars.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
