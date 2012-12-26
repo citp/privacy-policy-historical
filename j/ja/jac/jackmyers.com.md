@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackmyers.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630031331id_/http%3A//www.jackmyers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackmyers.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226175137id_/http%3A//www.jackmyers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Jack Myers
 
