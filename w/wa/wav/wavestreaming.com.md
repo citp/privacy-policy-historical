@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wavestreaming.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628035708id_/http%3A//www.wavestreaming.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wavestreaming.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226083040id_/http%3A//www.wavestreaming.com/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Wavestreaming - The Internet Radio Experts
+# Wavestreaming / Privacy Policy /
 
 **Wavestreaming Respects Your Privacy**
 
@@ -17,3 +17,7 @@ Cookies are used by this website to track various things such as if you elect to
 Our parent company, Igniso Ltd is registered with the Information Commissioners Office in compliance with UK law. Our Registration Number is: Z1428083. 
 
 Wavestreaming reserves the right to make alterations to this document whenever we deem reasonable. It is the clients sole responsibility to check this document for updates on a regular basis. 
+
+You may also review our [Terms and Conditions](https://web.archive.org/about-us/terms) and our [Cookie Policy](https://web.archive.org/about-us/cookies).
+
+Last updated on: **20th September 2011**
