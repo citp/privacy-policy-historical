@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actionbash.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607192247id_/http%3A//actionbash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionbash.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226123224id_/http%3A//actionbash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ActionBash
 
