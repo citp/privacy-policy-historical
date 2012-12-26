@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the atlantis.com privacy policy that was archived on 2011-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111220162411id_/http%3A//www.atlantis.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the atlantis.com privacy policy that was archived on 2012-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121226012112id_/http%3A//www.atlantis.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	Privacy Policy: Atlantis Resort &amp; Casino Paradise Island Bahamas BS
-</title><link id="ctl00_SiteIcon" rel="SHORTCUT ICON" href="/content/favicon.ico"><meta id="ctl00_metaRobots" name="Robots"><meta id="ctl00_metaDescription" name="Description" content="This Privacy Policy is incorporated into and is subject to our Terms and Conditions. Your use of our services, including this Site and any personal information you provide us remains subject to the terms of this Privacy Policy and our Terms and Conditions. If you do not agree with this Privacy Policy please do not use this Site."><meta id="ctl00_metaKeywords" name="Keywords" content="Privacy, Policy, Atlantis, Resort, Casino, Paradise, Island, Bahamas, BS"><link id="ctl00_menugenerator_style" rel="stylesheet" type="text/css" href="/_basethemes/atl_default/styles/menugenerator.css?195"><link id="ctl00_carousel_style" rel="stylesheet" type="text/css" href="/_basethemes/atl_default/styles/carousel.css?195"><link id="ctl00_ui_plugin_style" rel="stylesheet" type="text/css" href="/_basethemes/atl_default/styles/uiplugin.css?195"><link id="ctl00_other_plugins_style" rel="stylesheet" type="text/css" href="/_basethemes/atl_default/styles/otherplugin.css?195"><link id="ctl00_Rokkan1v1_masterstyles" rel="stylesheet" type="text/css" href="/_masterstyles/rokkan1v1_masterstylesmain_400.css?195"><link id="ctl00_Rokkan1v1_basestyles" rel="stylesheet" type="text/css" href="/_basethemes/atl_default/styles/rokkan1v1_stylesmain_400.css?195"><link id="ctl00_masterstyles_overrides" rel="stylesheet" type="text/css" href="/_masterstyles/Safari/"><link id="ctl00_basestyles_overrides" rel="stylesheet" type="text/css" href="/_basethemes/atl_default/styles/Safari/"><link id="ctl00_pagestyles_overrides" rel="Stylesheet" type="text/css">
+</title><link id="ctl00_SiteIcon" rel="SHORTCUT ICON" href="/content/favicon.ico"><meta id="ctl00_metaRobots" name="Robots"><meta id="ctl00_metaDescription" name="Description" content="This Privacy Policy is incorporated into and is subject to our Terms and Conditions. Your use of our services, including this Site and any personal information you provide us remains subject to the terms of this Privacy Policy and our Terms and Conditions. If you do not agree with this Privacy Policy please do not use this Site."><meta id="ctl00_metaKeywords" name="Keywords" content="Privacy, Policy, Atlantis, Resort, Casino, Paradise, Island, Bahamas, BS"><link id="ctl00_menugenerator_style" rel="stylesheet" type="text/css" href="/_basethemes/atl_default/styles/menugenerator.css?264"><link id="ctl00_carousel_style" rel="stylesheet" type="text/css" href="/_basethemes/atl_default/styles/carousel.css?264"><link id="ctl00_ui_plugin_style" rel="stylesheet" type="text/css" href="/_basethemes/atl_default/styles/uiplugin.css?264"><link id="ctl00_other_plugins_style" rel="stylesheet" type="text/css" href="/_basethemes/atl_default/styles/otherplugin.css?264"><link id="ctl00_Rokkan1v1_masterstyles" rel="stylesheet" type="text/css" href="/_masterstyles/rokkan1v1_masterstylesmain_400.css?264"><link id="ctl00_Rokkan1v1_basestyles" rel="stylesheet" type="text/css" href="/_basethemes/atl_default/styles/rokkan1v1_stylesmain_400.css?264"><link id="ctl00_masterstyles_overrides" rel="stylesheet" type="text/css" href="/_masterstyles/Safari/"><link id="ctl00_basestyles_overrides" rel="stylesheet" type="text/css" href="/_basethemes/atl_default/styles/Safari/"><link id="ctl00_pagestyles_overrides" rel="Stylesheet" type="text/css">
 
     <!-- True Sight-->
     <script type="text/javascript" src="/_scripts/tsedge/tsedge_instr-min.js"></script>
@@ -12,11 +12,12 @@
         <script type="text/javascript" language="javascript">
             var NTPT_NOINITIALTAG = false;      
         </script>
-        <script type="text/javascript" src="/_sites/atlantis/scripts/ntpagetag.js?195"></script>        
+        <script type="text/javascript" src="/_sites/atlantis/scripts/ntpagetag.js?264"></script>        
     <!-- End NetInsight Page Tag -->
     
     <!-- Global Javascript Variables -->
-    <script type="text/javascript" language="javascript">  
+    <script type="text/javascript" language="javascript">
+        var CURRENT_PROPERTYID = '1';
         var CURRENT_DOMAIN = 'atlantis.com';
         var CURRENT_COOKIETIMEOUT = new Number("1");
         var DEFAULT_DATEFORMAT = 'MM/dd/yyyy';
@@ -52,11 +53,13 @@
         if (/MSIE (\d+\.\d+);/.test(navigator.userAgent)) //test for MSIE x.x;
         { 
             var ieversion=new Number(RegExp.$1) // capture x.x portion and store as a number
-            if (ieversion>=8&&ieversion<9)
+            if (ieversion >= 9)
+                LoadCSSFile("IE9");
+            else if (ieversion >= 8 && ieversion < 9)
                 LoadCSSFile("IE8");
-            else if (ieversion>=7)
+            else if (ieversion >= 7)
                 LoadCSSFile("IE7");
-            else if (ieversion<7)
+            else if (ieversion < 7)
                 LoadCSSFile("IE6");
         }
         else if (/AppleWebKit/.test(navigator.userAgent))  // Apple
@@ -66,22 +69,22 @@
     </script>
     <!-- Global Javascript Variables -->
 
-    <script src="/_scripts/jquery.js?195" type="text/javascript"></script>
-    <script id="Rokkan1v1_scripts" src="/_scripts/rokkan1v1_scriptsmain_400.js?195.1" type="text/javascript"></script>
+    <script src="/_scripts/jquery.js?264" type="text/javascript"></script>
+    <script id="Rokkan1v1_scripts" src="/_scripts/rokkan1v1_scriptsmain_400.js?264.1" type="text/javascript"></script>
 
     <!-- Highslide -->
-    <link rel="stylesheet" type="text/css" href="/_scripts/highslide/highslide.css?195">
-    <script type="text/javascript" src="/_scripts/highslide/highslide-full.js?195"></script>
-    <script type="text/javascript" src="/_scripts/swfobject.js?195"></script>
+    <link rel="stylesheet" type="text/css" href="/_scripts/highslide/highslide.css?264">
+    <script type="text/javascript" src="/_scripts/highslide/highslide-full.js?264"></script>
+    <script type="text/javascript" src="/_scripts/swfobject.js?264"></script>
     <!-- End Highslide -->
 </head>
 <body id="ctl00_theBody">
     <script type="text/javascript" language="javascript">
 DEFAULT_SITEID='1';
-MIN_DATE=new Date(2011, 11, 20);
-MAX_DATE=new Date(2012, 11, 25);
-MIN_DAY_DATE=new Date(2011, 11, 20);
-MAX_DAY_DATE=new Date(2012, 11, 20);
+MIN_DATE=new Date(2012, 11, 25);
+MAX_DATE=new Date(2013, 11, 31);
+MIN_DAY_DATE=new Date(2012, 11, 25);
+MAX_DAY_DATE=new Date(2013, 11, 25);
 </script>
     <div id="ctl00_spotLightScriptTag"></div>
     <div id="ctl00_omnitureScript"><script language="JavaScript" type="text/javascript" src="/_sites/atlantis/scripts/s_code.js"></script>
@@ -126,7 +129,7 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
                             var flashvars = {};
                             var params = {}; 
                             var attributes = {};
-                            swfobject.embedSWF("https://www.atlantis.com/content/weather/weather3.swf?xmlPath=https://www.atlantis.com/content/weather/dataBahamas.xml&", "quickweatherflashwrap", "180", "24", "9.0.0", false, flashvars, params, attributes);
+                            swfobject.embedSWF("https://secure.atlantis.com/content/weather/weather3.swf?xmlPath=https://secure.atlantis.com/content/weather/dataBahamas.xml&", "quickweatherflashwrap", "180", "24", "9.0.0", false, flashvars, params, attributes);
                         </script>
                         
                         <div id="quickweatherlocation" class="quickweatherlocation">
@@ -182,7 +185,7 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
         
         <div id="ctl00_GlobalHat_prelogin" class="headerpreloginwrap" style="display:;">
             <div class="headertoprightlinksitem" id="GlobalHatManageYourStay">
-                <a href="javascript:void(0);" onclick="GlobalHatShowManageYourStay();">
+                <a href="https://www.myatlantisvisit.com/login.aspx?CID=ManageYourStay_ATL_TopLink" id="ctl00_GlobalHat_GlobalHatManageYourStayLink">
                     Manage Your Stay
                 </a>
             </div>
@@ -195,8 +198,8 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
         <div id="ctl00_GlobalHat_postlogin" class="headerpreloginwrap" style="display:none;">
              <div id="welcomemessage" class="headertoprightlinksitem greetingtext">
              </div>
-             <div class="headertoprightlinksitem headertoprightlinksitemdivider">
-                <a href="/reservations/Secure/MyPlan.aspx">
+             <div class="headertoprightlinksitem headertoprightlinksitemdivider">                
+                <a href="https://www.myatlantisvisit.com/login.aspx?CID=ManageYourStay_ATL_TopLink" id="ctl00_GlobalHat_GlobalHatMyTripLink">
                     My Trip
                 </a>
             </div>
@@ -216,8 +219,8 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
                 FAQs
             </a>
         </div>
-        <div class="headertoprightlinksitem headertoprightlinksitemdivider">
-            <a href="/default.aspx">
+        <div class="headertoprightlinksitem headertoprightlinksitemdivider">            
+            <a href="/default.aspx" id="ctl00_GlobalHat_homeurl"> 
                 Home
             </a>
         </div>
@@ -602,46 +605,55 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
                     <option value="12">December</option>
                 </select>
                 <select class="stouchdroplists" id="cmbYear">   
-                    <option value="0" selected="true">--</option>
-                    <option value="2010">2010</option>
-                    <option value="2011">2011</option>
+                    <option value="0" selected="true">--</option>                    
                     <option value="2012">2012</option>
                     <option value="2013">2013</option>
                     <option value="2014">2014</option>
                     <option value="2015">2015</option>
+                    <option value="2015">2016</option>                    
                 </select>
             </div>
             <div class="stouchlearnmorewrap">
                 What are your travel interests?
             </div>
             <div class="stouchformwrap" id="Interests">
-                <div class="stouchcheckbox">
-                    <input type="checkbox" id="cbxRomance" value="Romance">Romance
-                </div>
-                <div class="stouchcheckbox">
-                    <input type="checkbox" id="cbxFamilyWithTolders" value="Family with Toddlers">Family with Toddlers
-                </div>
-                <div class="stouchcheckbox">
-                    <input type="checkbox" id="cbxFamilyWithTweensTeens" value="Family with Tweens/Teens">Family with Tweens/Teens
-                </div>
-                <div class="stouchcheckbox">
-                    <input type="checkbox" id="cbxWeddingsHoneymoons" value="Weddings &amp; Honeymoons">Weddings &amp; Honeymoons
-                </div>
-                <div class="stouchcheckbox">
-                    <input type="checkbox" id="cbxDolphins" value="Dolphins">Dolphins
-                </div>
-                <div class="stouchcheckbox">
-                    <input type="checkbox" id="cbxSpa" value="Spa">Spa
-                </div>
-                <div class="stouchcheckbox">
-                    <input type="checkbox" id="cbxGolf" value="Golf">Golf
-                </div>
-                <div class="stouchcheckbox">
-                    <input type="checkbox" id="cbxScubaSnorkel" value="Scuba/Snorkel">Scuba/Snorkel
-                </div>
-                <div class="stouchcheckbox">
-                    <input type="checkbox" id="cbxCasino" value="Casino">Casino
-                </div>
+                
+                        <div class="stouchcheckbox">
+                            <input type="checkbox" id="cbxRomance" value="Romance">Romance
+                        </div>
+                
+                        <div class="stouchcheckbox">
+                            <input type="checkbox" id="cbxFamilywithToddlers" value="Family with Toddlers">Family with Toddlers
+                        </div>
+                
+                        <div class="stouchcheckbox">
+                            <input type="checkbox" id="cbxFamilywithTweensTeens" value="Family with Tweens/Teens">Family with Tweens/Teens
+                        </div>
+                
+                        <div class="stouchcheckbox">
+                            <input type="checkbox" id="cbxWeddingsHoneymoons" value="Weddings &amp; Honeymoons">Weddings &amp; Honeymoons
+                        </div>
+                
+                        <div class="stouchcheckbox">
+                            <input type="checkbox" id="cbxDolphins" value="Dolphins">Dolphins
+                        </div>
+                
+                        <div class="stouchcheckbox">
+                            <input type="checkbox" id="cbxSpa" value="Spa">Spa
+                        </div>
+                
+                        <div class="stouchcheckbox">
+                            <input type="checkbox" id="cbxGolf" value="Golf">Golf
+                        </div>
+                
+                        <div class="stouchcheckbox">
+                            <input type="checkbox" id="cbxScubaSnorkel" value="Scuba/Snorkel">Scuba/Snorkel
+                        </div>
+                
+                        <div class="stouchcheckbox">
+                            <input type="checkbox" id="cbxCasino" value="Casino">Casino
+                        </div>
+                
             </div>
             <div class="stouchbuttonwrap">
                 <div>* Required</div>
@@ -701,7 +713,7 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
                     <a href="/default.aspx" id="ctl00_defaulturl"> 
                         <div class="headerlogoimage" alt="Atlantis">
                         </div>
-                    </a>
+                    </a>                    
                     <div id="ctl00_searchboxandmenuwrap" class="searchboxandmenuwrap">
                         <div id="ctl00_searchboxmenuwrap" class="searchboxmenuwrap"><div><ul class="searchboxnavigationul"><li class="searchboxnavigationleftimageli"><span class="searchboxnavigationleftimage">&nbsp;</span></li><li class="searchboxnavigationfirstli"><img class="searchboxnavigationhilitemedia" src="/_basethemes/atl_default/images/searchboxnav/searchboxnav_weather.gif" alt=""><a class="searchboxnavigationitemlink" href="/weather.aspx" onmouseover="
                       this.previousSibling.src='/_basethemes/atl_default/images/searchboxnav/searchboxnav_weather_over.gif';
@@ -732,28 +744,25 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
                 </div>
             </div>
         </div>
+        <div id="ctl00_upSellIt" class="upsellit_container">
+            <div class="upsellit_wrap">
+                <div class="upsellit">
+                    <div id="usi_c2c_div" style="width:117px;height:23px"></div>
+                </div>
+            </div>
+        </div>
         <div id="ctl00_primarynavigationwrap" class="primarynavigationwrap">
-            <div id="ctl00_headermenu" style="" class="headermenu"><div><ul class="sf-menu"><li class="primarynavigationli"><img class="primarynavigationhilitemedia" src="/_basethemes/atl_default/images/navsymbol.jpg" alt=""><a class="primarynavigationitem primarynavigationfeatureitem" href="javascript:window.location=getBookNowURL();">Book Now</a></li><li class="primarynavigationli"><img class="primarynavigationhilitemedia" src="/_basethemes/atl_default/images/navsymbol.jpg" alt=""><a class="primarynavigationitem primarynavigationfeatureitem" href="/specials.aspx">Special Offers</a></li><li><div class="primarynavigationdivider">&nbsp;</div></li><li class="primarynavigationli"><a class="CoveNav primarynavigationitem" href="/accommodations/thecoveatlantis.aspx">The Cove Atlantis</a><ul class="primarynavigationsubitemwrap" style="z-index:1010;"><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitemfirst" href="/accommodations/thecoveatlantis/oceansuite.aspx">Ocean Suite</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+            <div id="ctl00_headermenu" style="" class="headermenu"><div><ul class="sf-menu"><li class="primarynavigationli"><img class="primarynavigationhilitemedia" src="/_basethemes/atl_default/images/navsymbol.jpg" alt=""><a class="primarynavigationitem primarynavigationfeatureitem" href="javascript:window.location=getBookNowURL();">Book Now</a></li><li class="primarynavigationli"><img class="primarynavigationhilitemedia" src="/_basethemes/atl_default/images/navsymbol.jpg" alt=""><a class="primarynavigationitem primarynavigationfeatureitem" href="/specials.aspx">Special Offers</a></li><li><div class="primarynavigationdivider">&nbsp;</div></li><li class="primarynavigationli"><a class=" primarynavigationitem" href="/accommodations/thecoveatlantis.aspx">The Cove Atlantis</a><ul class="primarynavigationsubitemwrap" style="z-index:1010;"><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitemfirst" href="/specials/coveoffer.aspx">Special</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
-                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/accommodations/thecoveatlantis/deluxeoceansuite.aspx">Deluxe Ocean Suite</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/accommodations/thecoveatlantis/rooms.aspx">Rooms</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
-                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/accommodations/thecoveatlantis/azuresuite.aspx">Azure Suite</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
-                          &nbsp;
-                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/accommodations/thecoveatlantis/sapphiresuite.aspx">Sapphire Suite</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
-                          &nbsp;
-                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/accommodations/thecoveatlantis/presidentialsuites.aspx">Presidential Suites</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
-                          &nbsp;
-                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/accommodations/thecoveatlantis/penthousesuite.aspx">Penthouse Suite</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
-                          &nbsp;
-                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/accommodations/thecoveatlantis/coveclub.aspx">Cove Club</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/accommodations/thecoveatlantis/dining.aspx">Dining</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
                         </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/accommodations/thecoveatlantis/cainatthecove.aspx">Cain at The Cove</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
-                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/accommodations/thecoveatlantis/gamingatthecove.aspx">Gaming at The Cove</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/accommodations/thecoveatlantis/nightlife.aspx">Nightlife</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
-                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="http://www.atlantis.com/accommodations/thecoveatlantis/diningatthecove.aspx">Dining at The Cove</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
-                          &nbsp;
-                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/accommodations/thecoveatlantis/guestservices.aspx">Guest Services</a></div></li></ul></li><li class="primarynavigationli"><a class=" primarynavigationitem" href="/accommodations/overview.aspx">Accommodations</a><ul class="primarynavigationsubitemwrap" style="z-index:1010;"><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitemfirst" href="/accommodations/royaltowers.aspx">Royal Towers</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/accommodations/thecoveatlantis/activities.aspx">Activities</a></div></li></ul></li><li class="primarynavigationli"><a class=" primarynavigationitem" href="/accommodations/overview.aspx">Accommodations</a><ul class="primarynavigationsubitemwrap" style="z-index:1010;"><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitemfirst" href="/accommodations/royaltowers.aspx">Royal Towers</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
                         </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/accommodations/coraltowers.aspx">Coral Towers</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
@@ -763,13 +772,19 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
                           &nbsp;
                         </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/accommodations/thereefatlantis.aspx">The Reef Atlantis</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
-                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/accommodations/harborsideresort.aspx">Harborside Resort</a></div></li></ul></li><li class="primarynavigationli"><a class=" primarynavigationitem" href="/dining.aspx">Dining</a><ul class="primarynavigationsubitemwrap" style="z-index:1010;"><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitemfirst" href="/dining/finedining.aspx">Fine Dining</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/accommodations/harborsideresort.aspx">Harborside Resort</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                          &nbsp;
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/accommodations/suites.aspx">Suites</a></div></li></ul></li><li class="primarynavigationli"><a class=" primarynavigationitem" href="/dining.aspx">Dining</a><ul class="primarynavigationsubitemwrap" style="z-index:1010;"><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitemfirst" href="/dining/finedining.aspx">Fine Dining</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
                         </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/dining/casualdining.aspx">Casual Dining</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
                         </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/dining/cafesandquickeats.aspx">Cafes &amp; Quick Eats</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
-                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/dining/diningplan.aspx">Dining Plan</a></div></li></ul></li><li class="primarynavigationli"><a class=" primarynavigationitem" href="/thingstodo.aspx">Things to Do</a><ul class="primarynavigationsubitemwrap" style="z-index:1010;"><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitemfirst" href="/thingstodo/dolphincay.aspx">Dolphin Cay</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/dining/diningplan.aspx">Dining Plan</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                          &nbsp;
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/dining/barsandlounges.aspx">Bars &amp; Lounges</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                          &nbsp;
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/dining/faq.aspx">Dining FAQs</a></div></li></ul></li><li class="primarynavigationli"><a class=" primarynavigationitem" href="/thingstodo.aspx">Things to Do</a><ul class="primarynavigationsubitemwrap" style="z-index:1010;"><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitemfirst" href="/thingstodo/dolphincay.aspx">Dolphin Cay</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
                         </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/thingstodo/waterpark.aspx">Water Park</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
@@ -779,11 +794,13 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
                           &nbsp;
                         </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/thingstodo/activities.aspx">Activities</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
-                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/thingstodo/entertainment.aspx">Entertainment</a></div></li></ul></li><li class="primarynavigationli"><a class=" primarynavigationitem" href="/kids.aspx">Kids</a><ul class="primarynavigationsubitemwrap" style="z-index:1010;"><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitemfirst" href="/kids/aka.aspx">Atlantis Kids Adventures</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/thingstodo/entertainment.aspx">Entertainment</a></div></li></ul></li><li class="primarynavigationli"><a class=" primarynavigationitem" href="/kids.aspx">Kids</a><ul class="primarynavigationsubitemwrap" style="z-index:1010;"><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitemfirst" href="/camps/camps2013.aspx">Camps 2013</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                          &nbsp;
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/kids/aka.aspx">Atlantis Kids Adventures</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
                         </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/kids/kidactivities/crush.aspx">CRUSH</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
-                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/kids/kidactivities.aspx">Kid Activities</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/kids/kidactivities.aspx">Kids' Activities</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
                         </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/kids/toddlers.aspx">Toddlers</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
@@ -791,7 +808,9 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
                           &nbsp;
                         </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/kids/teens.aspx">Teens</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
-                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/kids/forparents.aspx">For Parents</a></div></li></ul></li><li class="primarynavigationli"><a class=" primarynavigationitem" href="/casino.aspx">Casino</a><ul class="primarynavigationsubitemwrap" style="z-index:1010;"><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitemfirst" href="/casino/tables.aspx">Tables</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/kids/forparents.aspx">For Parents</a></div></li></ul></li><li class="primarynavigationli"><a class=" primarynavigationitem" href="/casino.aspx">Casino</a><ul class="primarynavigationsubitemwrap" style="z-index:1010;"><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitemfirst" href="/casino/specials.aspx">Casino Special Offers</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                          &nbsp;
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/casino/tables.aspx">Tables</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
                         </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/casino/slots.aspx">Slots</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
@@ -805,7 +824,7 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
                           &nbsp;
                         </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/casino/getintouch.aspx">Contact a Casino Host</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
-                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/casino/3dmap.aspx">3D Interactive Tour</a></div></li></ul></li><li class="primarynavigationli"><a class=" primarynavigationitem" href="/groups.aspx">Groups</a><ul class="primarynavigationsubitemwrap" style="z-index:1010;"><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitemfirst" href="/groups/proposallanding.aspx">Request For Proposal</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/casino/3dmap.aspx">3D Interactive Tour</a></div></li></ul></li><li class="primarynavigationli"><a class=" primarynavigationitem" href="/groups.aspx">Meetings</a><ul class="primarynavigationsubitemwrap" style="z-index:1010;"><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitemfirst" href="/groups/proposallanding.aspx">Request For Proposal</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
                         </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="http://www.atlantis.com/content/Meetings/swf/index.html">Explore Event Space</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
@@ -823,7 +842,25 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
                           &nbsp;
                         </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/groups/brochures.aspx">Videos &amp; Brochures</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
                           &nbsp;
-                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/groups/testimonials.aspx">Testimonials</a></div></li></ul></li></ul></div></div>
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/groups/testimonials.aspx">Testimonials</a></div></li></ul></li><li class="primarynavigationli"><a class=" primarynavigationitem" href="/groups/weddings.aspx">Weddings</a><ul class="primarynavigationsubitemwrap" style="z-index:1010;"><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitemfirst" href="/camps/camps2013/weddings.aspx">Brides in Paradise</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                          &nbsp;
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/groups/weddings/honeymoonpackage.aspx">Honeymoon Packages</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                          &nbsp;
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/groups/weddings/specialpromotions.aspx">Special Promotions</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                          &nbsp;
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/groups/weddings/weddingplanning.aspx">Wedding Planning Options</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                          &nbsp;
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/groups/weddings/weddingvenues.aspx">Wedding &amp; Reception Venues</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                          &nbsp;
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/groups/weddings/weddingguidelines.aspx">Wedding Guidelines</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                          &nbsp;
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/groups/weddings/banquetmenus.aspx">Banquet Menus</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                          &nbsp;
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/groups/weddings/realweddings.aspx">Real Weddings</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                          &nbsp;
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/groups/weddings/weddinglookbooks.aspx">Wedding Lookbooks</a></div></li><li class="primarynavigationsubitemwrapli dotted-lines"><div class="primarynavigationsubitem"><div>
+                          &nbsp;
+                        </div></div></li><li class="primarynavigationsubitemwrapli" style="display:block;width:100%;"><div style="display: inline;"><a class="primarynavigationsubitem" href="/groups/weddings/weddingsrfp.aspx">Request For Information</a></div></li></ul></li></ul></div></div>
             <div id="headermenubackdrop" class="headermenubackdrop">
                 <img src="/_basethemes/atl_default/images/primarynav/leftnav.png" id="ctl00_headermenubackdropimageleft" class="headermenubackdropimageleft">
                 <img src="/_basethemes/atl_default/images/primarynav/rightnav.png" id="ctl00_headermenubackdropimageright" class="headermenubackdropimageright">
@@ -832,11 +869,11 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
             </div>
         </div>
         <div id="ctl00_headerbgwrap" class="minheaderbgwrap">
-        </div>
+        </div>       
         
     
 
-
+ 
         <!-- main content -->
         <div id="maincontentplaceholderwrap" class="maincontentplaceholderwrap">
             <div class="master_errorbarwrap">
@@ -906,13 +943,13 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
                     <div class="footerfloatingbardivider">
                     </div>
                     <div class="footersocialpropertiesmainwrap">
-                        <div id="ctl00_footersociallinkswrap" class="footersociallinkswrap"><div><ul class="sociallinksul"><li class="sociallinksli"><span id="sociallinksitemtext" class="sociallinksitemtext">JOIN:</span></li><li class="sociallinksli"><a class="sociallinkslink" href="http://www.facebook.com/atlantis"><img class="sociallinksitem" src="/_basethemes/atl_default/images/sociallinks/facebook.jpg" alt=""></a></li><li class="sociallinksli"><a class="sociallinkslink" href="http://www.youtube.com/user/atlantisresort"><img class="sociallinksitem" src="/_basethemes/atl_default/images/sociallinks/youtube.jpg" alt=""></a></li><li class="sociallinksli"><a class="sociallinkslink" href="http://www.twitter.com/atlantisresort"><img class="sociallinksitem" src="/_basethemes/atl_default/images/sociallinks/twitter.jpg" alt=""></a></li></ul></div></div>
+                        <div id="ctl00_footersociallinkswrap" class="footersociallinkswrap"><div><ul class="sociallinksul"><li class="sociallinksli"><span id="sociallinksitemtext" class="sociallinksitemtext">JOIN:</span></li><li class="sociallinksli"><a class="sociallinkslink" href="http://www.facebook.com/atlantis"><img class="sociallinksitem" src="/_basethemes/atl_default/images/sociallinks/facebook.jpg" alt=""></a></li><li class="sociallinksli"><a class="sociallinkslink" href="http://www.youtube.com/user/atlantisresort"><img class="sociallinksitem" src="/_basethemes/atl_default/images/sociallinks/youtube.jpg" alt=""></a></li><li class="sociallinksli"><a class="sociallinkslink" href="http://www.twitter.com/atlantisresort"><img class="sociallinksitem" src="/_basethemes/atl_default/images/sociallinks/twitter.jpg" alt=""></a></li><li class="sociallinksli"><a class="sociallinkslink" href="https://plus.google.com/106192611661188626587/"><img class="sociallinksitem" src="/content/images/7147.jpg" alt=""></a></li><li class="sociallinksli"><a class="sociallinkslink" href="http://instagram.com/atlantisresort"><img class="sociallinksitem" src="/content/images/8650.jpg" alt=""></a></li></ul></div></div>
                         <div id="ctl00_footerpropertieslinkswrap" class="footerpropertieslinkswrap"><script language="javascript" type="text/javascript">
       $(document).ready(function(){
       $("#propertiesdropdownmainwrap").mouseleave(function(){setTimeout('$("#propertiesdroplistwrap").hide()',1000);
       });
       });
-    </script><div id="propertiesdropdownmainwrap" class="propertiesdropdownmainwrap"><div id="propertiesdropdownbuttonwrap"><input type="button" value="Other Properties" class="propertiesdroplistbutton imagebutton" onclick="toggleElement('propertiesdroplistwrap');"></div><div id="propertiesdroplistwrap" class="propertiesdroplistwrap"><div id="propertieslinks" runat="server"><ul class="propertiesdroplistul"><li class="propertiesdroplistli"><a class="propertiesdroplistlink" href="http://www.atlantisthepalm.com/default.aspx" target="_blank">Atlantis The Palm</a></li><li class="propertiesdroplistli"><a class="propertiesdroplistlink" href="http://oceanclub.oneandonlyresorts.com/" target="_blank">One &amp; Only Ocean Club</a></li><li class="propertiesdroplistli"><a class="propertiesdroplistlink" href="http://thepalm.oneandonlyresorts.com/">One &amp; Only The Palm</a></li><li class="propertiesdroplistli"><a class="propertiesdroplistlink" href="http://royalmirage.oneandonlyresorts.com/" target="_blank">One &amp; Only Royal Mirage</a></li><li class="propertiesdroplistli"><a class="propertiesdroplistlink" href="http://reethirah.oneandonlyresorts.com/" target="_blank">One &amp; Only Reethi Rah</a></li><li class="propertiesdroplistli"><a class="propertiesdroplistlink" href="http://lesaintgeran.oneandonlyresorts.com/">One &amp; Only Le Saint Geran</a></li><li class="propertiesdroplistli"><a class="propertiesdroplistlink" href="http://palmilla.oneandonlyresorts.com/" target="_blank">One &amp; Only Palmilla</a></li><li class="propertiesdroplistli"><a class="propertiesdroplistlink" href="http://capetown.oneandonlyresorts.com/" target="_blank">One &amp; Only Cape Town</a></li><li class="propertiesdroplistli"><a class="propertiesdroplistlink" href="http://www.mazaganbeachresort.com?CID=link_APIWebsite" target="_blank">Mazagan Beach Resort</a></li></ul></div></div></div></div>
+    </script><div id="propertiesdropdownmainwrap" class="propertiesdropdownmainwrap"><div id="propertiesdropdownbuttonwrap"><input type="button" value="Other Properties" class="propertiesdroplistbutton imagebutton" onclick="toggleElement('propertiesdroplistwrap');"></div><div id="propertiesdroplistwrap" class="propertiesdroplistwrap"><div id="propertieslinks" runat="server"><ul class="propertiesdroplistul"><li class="propertiesdroplistli"><a class="propertiesdroplistlink" href="http://www.atlantisthepalm.com/default.aspx" target="_blank">Atlantis The Palm</a></li><li class="propertiesdroplistli"><a class="propertiesdroplistlink" href="http://oceanclub.oneandonlyresorts.com/" target="_blank">One&amp;Only Ocean Club</a></li><li class="propertiesdroplistli"><a class="propertiesdroplistlink" href="http://thepalm.oneandonlyresorts.com/">One&amp;Only The Palm</a></li><li class="propertiesdroplistli"><a class="propertiesdroplistlink" href="http://royalmirage.oneandonlyresorts.com/" target="_blank">One&amp;Only Royal Mirage</a></li><li class="propertiesdroplistli"><a class="propertiesdroplistlink" href="http://reethirah.oneandonlyresorts.com/" target="_blank">One&amp;Only Reethi Rah</a></li><li class="propertiesdroplistli"><a class="propertiesdroplistlink" href="http://lesaintgeran.oneandonlyresorts.com/">One&amp;Only Le Saint Geran</a></li><li class="propertiesdroplistli"><a class="propertiesdroplistlink" href="http://palmilla.oneandonlyresorts.com/" target="_blank">One&amp;Only Palmilla</a></li><li class="propertiesdroplistli"><a class="propertiesdroplistlink" href="http://capetown.oneandonlyresorts.com/" target="_blank">One&amp;Only Cape Town</a></li><li class="propertiesdroplistli"><a class="propertiesdroplistlink" href="http://www.mazaganbeachresort.com?CID=link_APIWebsite" target="_blank">Mazagan Beach Resort</a></li></ul></div></div></div></div>
                     </div>
                 </div>
             </div>
@@ -921,7 +958,7 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
                     <div class="clearfloats">
                     </div>
                     <div id="ctl00_footerexpandedfeaturesitemenuwrap" class="footerexpandedfeaturesitemenuwrap"><div class="featureexpfooterwrap"><ul class="featureexpfooterul"><li class="featureexpfooterli"><a class="featureexpfooterlink" href="javascript:window.location=getBookNowURL();"><div class="featureexpfooteritem">Book Now</div></a></li></ul><ul class="featureexpfooterul"><li class="featureexpfooterli"><a class="featureexpfooterlink" href="javascript:ShowManageYourStayBottom()"><div class="featureexpfooteritem">Manage Your Stay</div></a></li></ul><ul class="featureexpfooterul"><li class="featureexpfooterli"><a class="featureexpfooterlink" href="/specials.aspx"><div class="featureexpfooteritem">Special Offers</div></a></li></ul><ul class="featureexpfooterul"><li class="featureexpfooterli"><a class="featureexpfooterlink" href="/kids.aspx"><div class="featureexpfooteritem">Just For Kids</div></a></li></ul><ul class="featureexpfooterul"><li class="featureexpfooterli"><a class="featureexpfooterlink" href="/groups.aspx"><div class="featureexpfooteritem">Just For Groups</div></a></li></ul></div></div>
-                    <div id="ctl00_footerexpandedstandardsitemenuwrap" class="footerexpandedstandardsitemenuwrap"><div class="expfooterwrap"><ul class="expfooterul"><li class="expfooterli"><a class="expfooterlink" href="/accommodations/overview.aspx"><span class="expfooterheaditem">Accommodations</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/accommodations/royaltowers.aspx"><span class="expfootersubitem">Royal Towers</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/accommodations/coraltowers.aspx"><span class="expfootersubitem">Coral Towers</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/accommodations/beachtower.aspx"><span class="expfootersubitem">Beach Tower</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/accommodations/thecoveatlantis.aspx"><span class="expfootersubitem">The Cove Atlantis</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/accommodations/thereefatlantis.aspx"><span class="expfootersubitem">The Reef Atlantis</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/accommodations/harborsideresort.aspx"><span class="expfootersubitem">Harborside Resort</span></a></li></ul></div><div class="expfooterwrap"><ul class="expfooterul"><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/wateradventures.aspx"><span class="expfooterheaditem">Water Adventures</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/waterpark.aspx"><span class="expfootersubitem">Water Park</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/dolphincay.aspx"><span class="expfootersubitem">Dolphin Cay</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/marinehabitat/thedig.aspx"><span class="expfootersubitem">The Dig</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/wateradventures/pools.aspx"><span class="expfootersubitem">Pools</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/wateradventures/beaches.aspx"><span class="expfootersubitem">Beaches</span></a></li></ul></div><div class="expfooterwrap"><ul class="expfooterul"><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/activities.aspx"><span class="expfooterheaditem">Activities</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/activities/spa.aspx"><span class="expfootersubitem">Spa</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/activities/marina.aspx"><span class="expfootersubitem">Marina</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/activities/golf.aspx"><span class="expfootersubitem">Golf</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/casino.aspx"><span class="expfootersubitem">Casino</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/activities/fitnesscenter.aspx"><span class="expfootersubitem">Fitness Center</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/activities/atlantisspeedway.aspx"><span class="expfootersubitem">Atlantis Speedway</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/activities/shopping.aspx"><span class="expfootersubitem">Shopping</span></a></li></ul></div><div class="expfooterwrap"><ul class="expfooterul"><li class="expfooterli"><a class="expfooterlink" href="/dining.aspx"><span class="expfooterheaditem">Dining</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/dining/finedining.aspx"><span class="expfootersubitem">Fine Dining</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/dining/casualdining.aspx"><span class="expfootersubitem">Casual Dining</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/dining/cafesandquickeats.aspx"><span class="expfootersubitem">Cafes &amp; Quick Eats</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/dining/diningplan.aspx"><span class="expfootersubitem">Dining Plan</span></a></li></ul></div><div class="expfooterwrap"><ul class="expfooterul"><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/entertainment.aspx"><span class="expfooterheaditem">Entertainment</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/casino.aspx"><span class="expfootersubitem">Casino</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/entertainment/auranightclub.aspx"><span class="expfootersubitem">Aura Nightclub</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/entertainment/cainatthecove.aspx"><span class="expfootersubitem">Cain at The Cove</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/entertainment/atlantislive.aspx"><span class="expfootersubitem">Atlantis Live</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/entertainment/barsandlounges.aspx"><span class="expfootersubitem">Bars &amp; Lounges</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/entertainment/atlantistheatre.aspx"><span class="expfootersubitem">Atlantis Theatre</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/entertainment/jokerswildcomedyclub.aspx"><span class="expfootersubitem">Joker's Wild Comedy Club</span></a></li></ul></div></div>
+                    <div id="ctl00_footerexpandedstandardsitemenuwrap" class="footerexpandedstandardsitemenuwrap"><div class="expfooterwrap"><ul class="expfooterul"><li class="expfooterli"><a class="expfooterlink" href="/accommodations/overview.aspx"><span class="expfooterheaditem">Accommodations</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/accommodations/royaltowers.aspx"><span class="expfootersubitem">Royal Towers</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/accommodations/coraltowers.aspx"><span class="expfootersubitem">Coral Towers</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/accommodations/beachtower.aspx"><span class="expfootersubitem">Beach Tower</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/accommodations/thecoveatlantis.aspx"><span class="expfootersubitem">The Cove Atlantis</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/accommodations/thereefatlantis.aspx"><span class="expfootersubitem">The Reef Atlantis</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/accommodations/harborsideresort.aspx"><span class="expfootersubitem">Harborside Resort</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/accommodations/suites.aspx"><span class="expfootersubitem">Suites</span></a></li></ul></div><div class="expfooterwrap"><ul class="expfooterul"><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/wateradventures.aspx"><span class="expfooterheaditem">Water Adventures</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/waterpark.aspx"><span class="expfootersubitem">Water Park</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/dolphincay.aspx"><span class="expfootersubitem">Dolphin Cay</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/marinehabitat/thedig.aspx"><span class="expfootersubitem">The Dig</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/wateradventures/pools.aspx"><span class="expfootersubitem">Pools</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/wateradventures/beaches.aspx"><span class="expfootersubitem">Beaches</span></a></li></ul></div><div class="expfooterwrap"><ul class="expfooterul"><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/activities.aspx"><span class="expfooterheaditem">Activities</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/activities/spa.aspx"><span class="expfootersubitem">Spa</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/activities/marina.aspx"><span class="expfootersubitem">Marina</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/activities/golf.aspx"><span class="expfootersubitem">Golf</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/casino.aspx"><span class="expfootersubitem">Casino</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/activities/fitnesscenter.aspx"><span class="expfootersubitem">Fitness Center</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/activities/atlantisspeedway.aspx"><span class="expfootersubitem">Atlantis Speedway</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/activities/shopping.aspx"><span class="expfootersubitem">Shopping</span></a></li></ul></div><div class="expfooterwrap"><ul class="expfooterul"><li class="expfooterli"><a class="expfooterlink" href="/dining.aspx"><span class="expfooterheaditem">Dining</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/dining/finedining.aspx"><span class="expfootersubitem">Fine Dining</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/dining/casualdining.aspx"><span class="expfootersubitem">Casual Dining</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/dining/cafesandquickeats.aspx"><span class="expfootersubitem">Cafes &amp; Quick Eats</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/dining/diningplan.aspx"><span class="expfootersubitem">Dining Plan</span></a></li></ul></div><div class="expfooterwrap"><ul class="expfooterul"><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/entertainment.aspx"><span class="expfooterheaditem">Entertainment</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/casino.aspx"><span class="expfootersubitem">Casino</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/entertainment/auranightclub.aspx"><span class="expfootersubitem">Aura Nightclub</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/entertainment/cainatthecove.aspx"><span class="expfootersubitem">Cain at The Cove</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/entertainment/atlantislive.aspx"><span class="expfootersubitem">Atlantis Live</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/entertainment/barsandlounges.aspx"><span class="expfootersubitem">Bars &amp; Lounges</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/entertainment/atlantistheatre.aspx"><span class="expfootersubitem">Atlantis Theatre</span></a></li><li class="expfooterli"><a class="expfooterlink" href="/thingstodo/entertainment/jokerswildcomedyclub.aspx"><span class="expfootersubitem">Joker's Wild Comedy Club</span></a></li></ul></div></div>
                 </div>
                 
 
@@ -938,8 +975,11 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
             </div>
         </div>
         
-<script language="javascript">$('#footerbottomrightlinkswrap').html('Copyright &copy; 2011 Atlantis, Kerzner International Resorts Inc., All Rights Reserved');</script><script language="javascript">var js_maincontentwrap_clientname='ctl00_maincontentwrap';var js_footerwrap_clientname='ctl00_footerwrap';</script></form>
+<script language="javascript">$('#footerbottomrightlinkswrap').html('Copyright &copy; 2012 Atlantis, Kerzner International Resorts Inc., All Rights Reserved');</script><script language="javascript">var js_maincontentwrap_clientname='ctl00_maincontentwrap';var js_footerwrap_clientname='ctl00_footerwrap';</script></form>
     </div>
+    <!-- email signup content -->                
+    
+       
     <div id="ctl00_animationdiv">
         
 <div id="waitDiv" class="animationmainwrap animationbackground">
@@ -1317,6 +1357,19 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
             pageTracker._trackPageview();
         }
     </script>
+    
+    <script type="text/javascript">
+        if (document.domain == "www.atlantisthepalm.com" || document.domain == "secure.atlantisthepalm.com")
+        {
+            var google_conversion_id = 1037207456;
+            var google_conversion_label = "ymLSCLbF6gIQoI_K7gM";
+            var google_custom_params = window.google_tag_params;
+            var google_remarketing_only = true;
+            document.write(unescape("%3Cscript src='https://www.googleadservices.com/pagead/conversion.js' type='text/javascript'%3E%3C/script%3E"));
+        }
+    </script>
+    
+    
    <script type="text/javascript">
        if (document.domain == "www.mazaganbeachresort.com")
        {
@@ -1325,7 +1378,7 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
            document.write(unescape('%3Ciframe src="http://fls.doubleclick.net/activityi;src=3097759;type=websi907;cat=mazag434;ord=1;num=' + a + '?" width="1" height="1" frameborder="0" style="display:none"%3E%3C/iframe%3E'));
        }
     </script>
-    
+       
     <form id="frmLogin" method="post" style="display:none;">
         <input type="hidden" id="hdLoginEmail" name="hdLoginEmail" value="">
         <input type="hidden" id="hdLoginPassword" name="hdLoginPassword" value="">
@@ -1352,37 +1405,52 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
         <input type="hidden" id="hdCBCheckIn" name="hdCBCheckIn" value="">
         <input type="hidden" id="hdCBCheckOut" name="hdCBCheckOut" value="">
         <input type="hidden" id="hdCBReturnURL" name="hdCBReturnURL" value="">     
-    </form>
+    </form>  
+    
+    <div id="ctl00_upSellItScript">        
+        <script type="text/javascript">
+            document.write('<sc' + 'ript src="http' + (document.location.protocol == 'https:' ? 's://www' : '://www') + '.upsellit.com/custom/atlantis_bottom.jsp"><\/sc' + 'ript>');
+        </script><script src="https://www.upsellit.com/custom/atlantis_bottom.jsp"></script>
+    </div>     
+    
+    <script type="text/javascript">
+        if (document.domain == "www.atlantisthepalm.com" || document.domain == "secure.atlantisthepalm.com" || document.domain == "ru.atlantisthepalm.com" || document.domain == "ru-ssl.atlantisthepalm.com" || document.domain == "ar.atlantisthepalm.com" || document.domain == "ar-ssl.atlantisthepalm.com") {
+            var pathname = document.location.pathname.toLowerCase();
+            if (pathname.indexOf("/reservations/") == -1) {
+                document.write('<sc' + 'ript src="http' + (document.location.protocol == 'https:' ? 's://www' : '://www') + '.dwin1.com/4291.js" type="text/javascript" defer="defer"><\/sc' + 'ript>');
+            }            
+        }
+    </script>
 
 
-<script src="/_scripts/globalhat.js?195" type="text/javascript"></script>
+<script src="/_scripts/globalhat.js?264" type="text/javascript"></script>
 
-<script src="/_scripts/hoverIntent.js?195" type="text/javascript"></script>
+<script src="/_scripts/hoverIntent.js?264" type="text/javascript"></script>
 
-<script src="/_scripts/plugins/jquery.dimensions.js?195" type="text/javascript"></script>
+<script src="/_scripts/plugins/jquery.dimensions.js?264" type="text/javascript"></script>
 
-<script src="/_scripts/plugins/jquery.metadata.js?195" type="text/javascript"></script>
+<script src="/_scripts/plugins/jquery.metadata.js?264" type="text/javascript"></script>
 
-<script src="/_scripts/plugins/jquery.validate.js?195" type="text/javascript"></script>
+<script src="/_scripts/plugins/jquery.validate.js?264" type="text/javascript"></script>
 
-<script src="/_scripts/plugins/menugenerator.js?195" type="text/javascript"></script>
+<script src="/_scripts/plugins/menugenerator.js?264" type="text/javascript"></script>
 
-<script src="/_scripts/plugins/tooltip.js?195" type="text/javascript"></script>
+<script src="/_scripts/plugins/tooltip.js?264" type="text/javascript"></script>
 
-<script src="/_scripts/plugins/jcarousel.pack.js?195" type="text/javascript"></script>
+<script src="/_scripts/plugins/jcarousel.pack.js?264" type="text/javascript"></script>
 
-<script src="/_scripts/plugins/jcarousel.js?195" type="text/javascript"></script>
+<script src="/_scripts/plugins/jcarousel.js?264" type="text/javascript"></script>
 
-<script src="/_scripts/plugins/jcarousel.hero.js?195" type="text/javascript"></script>
+<script src="/_scripts/plugins/jcarousel.hero.js?264" type="text/javascript"></script>
 
-<script src="/_scripts/plugins/jcarousel.hero.animation.js?195" type="text/javascript"></script>
+<script src="/_scripts/plugins/jcarousel.hero.animation.js?264" type="text/javascript"></script>
 
-<script src="/_scripts/plugins/uiplugin.js?195" type="text/javascript"></script>
+<script src="/_scripts/plugins/uiplugin.js?264" type="text/javascript"></script>
 
-<script src="/_scripts/plugins/jquery.cycle.all.min.js?195" type="text/javascript"></script>
+<script src="/_scripts/plugins/jquery.cycle.all.min.js?264" type="text/javascript"></script>
 
 <!--[if lt IE 7]>
-    <script id="IE6PNGFix" src="/_scripts/ie6pngfix/unitpngfix.js?195" type="text/javascript"></script>
+    <script id="IE6PNGFix" src="/_scripts/ie6pngfix/unitpngfix.js?264" type="text/javascript"></script>
 <![endif]-->
 
 </body></html>
