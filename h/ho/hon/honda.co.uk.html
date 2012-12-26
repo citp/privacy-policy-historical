@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the honda.co.uk privacy policy that was archived on 2012-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120624201209id_/http%3A//www.honda.co.uk/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the honda.co.uk privacy policy that was archived on 2012-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121226063503id_/http%3A//www.honda.co.uk/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -161,10 +161,10 @@ Honda advises that if you receive an email using Honda’s name and asking for p
     	<a href="http://twitter.com/Honda_UK" title="Honda twitter"><span>Honda twitter</span></a>
     </div>  
     <div id="facebook">
-    	<a href="http://www.facebook.com/hondacarsuk" title="Honda facebook"><span>Honda facebook</span></a>
+    	<a href="https://www.facebook.com/hondauk" title="Honda facebook"><span>Honda facebook</span></a>
      </div>
 </div>
-<div id="portalFooter"> 
+<div id="portalFooter">
 	<ul>
     	<li class="firstItem"><a href="/termsandconditions/">Terms &amp; Conditions</a></li>
         <li><a href="/privacypolicy/">Privacy Policy</a></li>
@@ -172,6 +172,26 @@ Honda advises that if you receive an email using Honda’s name and asking for p
         <li><a href="javascript:HUK.CookiePreferenceUI.toggleOptions();">Change cookie settings</a></li>
     </ul>
 </div>
+<script>
+$(document).ready(function() {
+	if (document.cookie.indexOf('hukmcars') != -1) {
+		if ($('#portalFooter li.mobileSite').length < 1) {
+			var mobileRedirectUrl = document.location.href;
+			mobileRedirectUrl = mobileRedirectUrl.toLowerCase().replace('http://', '');
+			var slashPos = mobileRedirectUrl.indexOf('/');
+			if(slashPos > 0){
+				mobileRedirectUrl = 'http://' + mobileRedirectUrl.substring(0, slashPos + 1);
+			}else{
+				mobileRedirectUrl = 'http://' + mobileRedirectUrl + '/';
+			}
+			$('#portalFooter ul').append('<li class="mobileSite"><a href="' + mobileRedirectUrl + '?mobile_site=1">Mobile site</a></li>')
+		}
+		$('.mobileSite a').bind('click', function(){
+			document.cookie =  'hukmcars=null; expires=Fri, 27 Jul 1970 02:47:11 UTC; path=/';
+		});
+	}
+});
+</script>
 </div>
 
 </div></body></html>
