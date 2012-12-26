@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamechitah.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630133834id_/http%3A//gamechitah.com/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamechitah.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226221403id_/http%3A//gamechitah.com/disclaimer.html) for the most accurate reproduction.*
 
 # GameChitah.com Disclaimer / Privacy Policy
 
