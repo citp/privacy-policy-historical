@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the kingice.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618203256id_/http%3A//www.kingice.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingice.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226011159id_/http%3A//www.kingice.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 |  |  [](https://web.archive.org/new-arrivals.html "New Arrivals")  
 ---  
+   
+[](https://web.archive.org/Black-Friday-100754.html "Clearance")  
    
 [](https://web.archive.org/Collections-100572.html "Hip Hop Collections")  
    
@@ -14,8 +16,6 @@
 [](https://web.archive.org/testimonial.aspx "Testimonial")  
    
 [](https://web.archive.org/Social-Media-Contests-100672.html "Top Sellers")  
-   
-[](https://web.archive.org/Jewelry-Sale-100518.html "Clearance")  
 | 
 
   
