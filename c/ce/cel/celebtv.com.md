@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the celebtv.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513175617id_/http%3A//www.celebtv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebtv.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226092818id_/http%3A//www.celebtv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CelebTV.com - Celebrity Blog
+# Privacy Policy « Celebrity News | Style | Red Carpets | Movies | Couples | CelebTV Celebrity News | Style | Red Carpets | Movies | Couples | CelebTV
 
-**Last Revised October 3, 2007**
+## Privacy Policy
+
+**Last Revised November 16, 2012**
 
 This website and the various content, features and services offered on this website (collectively, the “Site”) are owned and operated by Intersport, Inc. (“Intersport”). Intersport is committed to respecting your online privacy and recognizes your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us. Intersport has established this Privacy Policy to let you know what information we may collect from you on the Site and how we may use and share that information. Please take a moment to review the terms of our Privacy Policy. By using the Site, you agree to accept the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site. Except as provided in the “Your California Privacy Rights” section below, this Privacy Policy applies only to information that we collect on the Site and does not apply to information which we may collect by other means.
 
@@ -32,7 +34,7 @@ We may sometimes use other businesses to perform certain services for us and fun
 
 In addition, if you have given us permission to share your Personal Information by clicking on the appropriate box or button on the Site, we may make your Personal Information available to our parent or other affiliated companies, or to other third parties who have products or services that we believe will be of interest to you, for their direct marketing purposes. If you later decide that you do not want us to share your Personal Information with these companies for their direct marketing purposes, please e-mail [privacy@celebtv.com](mailto:privacy@celebtv.com). As Intersport develops, we may buy other businesses or their assets or sell our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that Intersport or all of its assets are acquired, customer information would be one of the transferred assets.
 
-We reserve the right to disclose visitor information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other visitors, or anyone else that could be harmed by such activities. We also reserve the right to disclose visitor information when we believe in good faith that the law requires it.
+We reserve the right to disclose visitor information in special cases when we have reason to believe that disclosing this information is necessary to identify, [contact](https://www.celebtv.com/contact "contact"), or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other visitors, or anyone else that could be harmed by such activities. We also reserve the right to disclose visitor information when we believe in good faith that the law requires it.
 
 **Aggregate Information**
 
@@ -64,9 +66,9 @@ The security of your personal information is important to us. We maintain physic
 
 **Updating Your Information**
 
-Any requests that we correct, [update](http://www.celebtv.com/c/update "update"), or remove your information in our databases, should be directed via email to [privacy@celebtv.com](mailto:privacy@celebtv.com), or via regular mail to:
+Any requests that we correct, update, or remove your information in our databases, should be directed via email to [privacy@celebtv.com](mailto:privacy@celebtv.com), or via regular mail to:
 
-CelebTV.com  
+CelebTV  
 20 W. Kinzie, Suite 1600  
 Chicago, IL 60657  
 Attn: Privacy Policy Department.
@@ -89,7 +91,7 @@ Intersport makes no representation that this Privacy Policy and such practices c
 
 If you have any comments or questions regarding our Privacy Policy, please e-mail us at [privacy@celebtv.com](mailto:privacy@celebtv.com), or at our contact information below.
 
-CelebTV.com  
+CelebTV  
 20 W. Kinzie, Suite 1600  
 Chicago, IL 60657  
 Attn: Privacy Policy Department
