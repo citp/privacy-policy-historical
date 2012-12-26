@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the degreesforrns.com privacy policy that was archived on 2012-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120611064237id_/http%3A//www.degreesforrns.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the degreesforrns.com privacy policy that was archived on 2012-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121226151134id_/http%3A//degreesforrns.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -128,17 +128,17 @@
     <td align="left" valign="top">
 	<table width="223" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td width="104" align="left" valign="top"><a href="stayer" title="Strayer University"><img src="images/strayer_logo.jpg" alt="" width="104" height="65" border="0"></a></td>
+    <td width="104" align="left" valign="top"><a href="edu/roseman/" title="Roseman"><img src="images/roseman1.jpg" alt="Roseman" width="104" height="65" border="0"></a></td>
     <td align="left" valign="top">&nbsp;</td>
-    <td width="104" align="right" valign="top"><a href="uop" title="UOP"><img src="images/uop_logo.jpg" alt="UOP" width="104" height="65" border="0"></a></td>
+    <td width="104" align="right" valign="top"><a href="edu/ocuundergrad" title="Ohio Christian University"><img src="images/ocuundergrad_logo.jpg" alt="" width="104" height="65" border="0"></a></td>
   </tr>
   <tr>
     <td width="104" align="left" colspan="3" valign="top"><img src="images/blank_img.gif" alt="" width="223" height="12" border="0"></td> </tr>
   
    <tr>
-    <td width="104" align="left" valign="top"><a href="gcu" title="Grand Canyon University"><img src="images/grand_canyon_logo.jpg" alt="Grand Canyon University" width="104" height="65" border="0"></a></td>
+    <td width="104" align="left" valign="top"><a href="edu/utica/" title="Utica"><img src="images/utica1.jpg" alt="Utica" width="104" height="65" border="0"></a></td>
     <td align="left" valign="top">&nbsp;</td>
-    <td width="104" align="right" valign="top"><a href="walden" title="Walden University"><img src="images/walden_logo.jpg" alt="Walden University" width="104" height="65" border="0"></a></td>
+    <td width="104" align="right" valign="top"><a href="edu/olivet/" title="Olivet"><img src="images/olivet1.jpg" alt="Olivet" width="104" height="65" border="0"></a></td>
   </tr>
 </tbody></table>	</td>
   </tr>
@@ -162,12 +162,21 @@
  function validate()
 {
 				
-if(document.f1.degree.value=='' && document.f1.program.value=='')
+if(document.f1.degree.value=='')
 		{
-		alert("Please Select degree level or Category.");
+		alert("Please Select degree level.");
 		document.f1.degree.focus();
 		return false;
 		}
+		
+	if(document.f1.program.value=='')
+		{
+		alert("Please Select Category.");
+		document.f1.program.focus();
+		return false;
+		}	
+		
+		
 
 return true;
 }
@@ -188,13 +197,13 @@ return true;
     <td width="135" align="left" valign="top" class="bachlersbg">
 	<select name="degree" id="degree" class="selectbox">
                                 <option selected="selected" value="">- Select  a degree -</option>
-								<option value="Associate">Associate</option>
-						<option value="Bachelor">Bachelor</option>
-						<option value="Master">Master</option>
-						<option value="Doctoral">Doctoral</option>
-						<option value="Diploma">Diploma</option>
-						<option value="Certificate">Certificate</option>
-						<option value="Coursework">Coursework</option>
+								<option value="11">Associate</option>
+						<option value="21">Bachelor</option>
+						<option value="31">Master</option>
+						<option value="41">Doctoral</option>
+						<option value="51">Diploma</option>
+						<option value="61">Certificate</option>
+						<option value="71">Coursework</option>
                             </select>
 	
 	
@@ -204,30 +213,30 @@ return true;
 	
 	<select name="program" id="program" class="selectbox02">
                                 <option selected="selected" value="">- Select  a Category -</option>
-								<option value="ALLIED-HEALTH-DEGREES">Allied Health Degrees</option>
-						<option value="ASSOCIATE-IN-NURSING-RN">Associate in Nursing (RN)</option>
-						<option value="CERTIFICATE-PROGRAMS">Certificate Programs</option>
-						<option value="COUNSELING-DEGREES">Counseling Degrees</option>
-						<option value="EMERGENCY-MANAGEMENT">Emergency Management</option>
-						<option value="HEALTH-CARE-ADMIN">Health Care Admin</option>
-						<option value="HEALTH-SCIENCES">Health Sciences</option>
-						<option value="HEALTH-SERVICES">Health Services</option>
-						<option value="HUMAN-RESOURCES">Human Resources</option>
-						<option value="HUMAN-SERVICES">Human Services</option>
-						<option value="LPN-TO-BSN-PROGRAM">LPN to BSN Program</option>
-						<option value="LPN-TO-RN-PROGRAM">LPN to RN Program</option>
-						<option value="MEDICAL-INFORMATICS">Medical Informatics</option>
-						<option value="NURSE-PRACTITIONER">Nurse Practitioner</option>
-						<option value="NURSING-DOCTORATE">Nursing Doctorate</option>
-						<option value="NURSING-EDUCATION">Nursing Education</option>
-						<option value="NURSING-INFORMATICS">Nursing Informatics</option>
-						<option value="NURSING-MASTERS-DEGREE">Nursing Masters Degree</option>
-						<option value="PARAMEDIC-TO-RN-BRIDGE">Paramedic to RN Bridge</option>
-						<option value="PRACTICAL-NURSING-LPN">Practical Nursing (LPN)</option>
-						<option value="PSYCHOLOGY-DEGREES">Psychology Degrees</option>
-						<option value="PUBLIC-HEALTH-DEGREES">Public Health Degrees</option>
-						<option value="RN-TO-BSN-PROGRAMS">RN to BSN Programs</option>
-						<option value="RN-TO-MSN-BRIDGE">RN to MSN Bridge</option>
+								<option value="12">Allied Health Degrees</option>
+						<option value="22">Associate in Nursing (RN)</option>
+						<option value="32">Certificate Programs</option>
+						<option value="42">Counseling Degrees</option>
+						<option value="52">Emergency Management</option>
+						<option value="62">Health Care Admin</option>
+						<option value="72">Health Sciences</option>
+						<option value="82">Health Services</option>
+						<option value="92">Human Resources</option>
+						<option value="102">Human Services</option>
+						<option value="112">LPN to BSN Program</option>
+						<option value="122">LPN to RN Program</option>
+						<option value="132">Medical Informatics</option>
+						<option value="142">Nurse Practitioner</option>
+						<option value="152">Nursing Doctorate</option>
+						<option value="162">Nursing Education</option>
+						<option value="172">Nursing Informatics</option>
+						<option value="182">Nursing Masters Degree</option>
+						<option value="192">Paramedic to RN Bridge</option>
+						<option value="202">Practical Nursing (LPN)</option>
+						<option value="212">Psychology Degrees</option>
+						<option value="222">Public Health Degrees</option>
+						<option value="232">RN to BSN Programs</option>
+						<option value="242">RN to MSN Bridge</option>
                             </select>
 	
 	
@@ -334,7 +343,7 @@ Choice</p>
 	<li><a href="terms_service.asp" title="Terms&nbsp;of&nbsp;Service">Terms&nbsp;of&nbsp;Service</a></li>
 	</ul><br>
 
-	<p class="copyrighttext">© Copyright 2011 DegreesForRNs.com. All right reserved.</p>
+	<p class="copyrighttext">© Copyright 2012 DegreesForRNs.com. All right reserved.</p>
 	</td>
   </tr>
   <tr>
