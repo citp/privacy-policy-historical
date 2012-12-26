@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aadvantageeshopping.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226185106id_/http%3A//www.aa.com/i18n/footer/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aadvantageeshopping.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226215339id_/http%3A//www.aa.com/i18n/footer/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # American Airlines Privacy Policy On AA.com
 
@@ -99,7 +99,7 @@ Return to Top
 
 Contacting Us
 
-If you have other questions, comments or concerns about our privacy practices, please contact our Chief Privacy Officer, Mary Francis Johnson, at [AA.Privacy@aa.com](mailto:AA.Privacy@aa.com). If you would like us to remove all the personal data we hold about you from our records please email [AA.com Customer Service](https://web.archive.org/contactAA/viewEmailFormAccess.do?eventName=webServices). Please note, however, that we require certain key information from you in order to provide you with services and if you ask us to remove all or part of such information you may no longer be able to access this Web site or parts of it.
+If you have other questions, comments or concerns about our privacy practices, please contact our Chief Privacy Officer, Daniel Henry, at [AA.Privacy@aa.com](mailto:AA.Privacy@aa.com). If you would like us to remove all the personal data we hold about you from our records please email [AA.com Customer Service](https://web.archive.org/contactAA/viewEmailFormAccess.do?eventName=webServices). Please note, however, that we require certain key information from you in order to provide you with services and if you ask us to remove all or part of such information you may no longer be able to access this Web site or parts of it.
 
 Return to Top
 
