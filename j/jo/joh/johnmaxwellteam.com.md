@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnmaxwellteam.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627220900id_/http%3A//johnmaxwellteam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnmaxwellteam.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226202121id_/http%3A//johnmaxwellteam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | John Maxwell Team | A Minute With Maxwell | Free Video Opt In
 
