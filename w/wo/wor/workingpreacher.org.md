@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workingpreacher.org privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621073039id_/http%3A//www.luthersem.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingpreacher.org privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226230415id_/http%3A//www.luthersem.edu/privacy) for the most accurate reproduction.*
 
 # Luther Seminary - Privacy Policy
 
@@ -6,7 +6,7 @@ This Web Privacy Policy covers the collection and use of information on Luther S
 
 Luther Seminary is fully committed to providing an engaging, informative and useful Web site for its visitors. We strive to serve you with helpful resources, invite you into our community and provide helpful interaction with our many programs and offerings.
 
-Visitors to any Luther Seminary Web page have the opportunity to contact us via e-mail using [this feedback form](https://web.archive.org/web_feedback.aspx).
+Visitors to any Luther Seminary Web page have the opportunity to contact us via email using [this feedback form](https://web.archive.org/global_resources/feedback.aspx).
 
 The policy of Luther Seminary regarding its officially controlled and operated Web sites is to respect and protect the privacy of its users. These users include faculty, staff, students, donors, alumni/ae and other visitors.
 
@@ -26,7 +26,7 @@ This policy defines how Luther Seminary collects information from you and how it
 
 ### **Personal Information**
 
-  * E-mail addresses of those who communicate with us via e-mail
+  * E-mail addresses of those who communicate with us via email
   * Information volunteered by a visitor, such as survey responses
   * Personal information volunteered for specific purposes such as online event or course registration, online applications, online donations or information requests
 
@@ -50,7 +50,22 @@ Cookies store small amounts of data on your computer when you visit a Web site. 
 
 ### Third-Party Web Beacons
 
-We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [ click here](https://ondemand.indextools.com/optout,optout.vm?domain=stats.indextools.com).
+We use third-party web beacons from Google to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Google, [ click here](http://www.google.com/privacy).
+
+### Social Media Services
+
+Luther Seminary makes use of multiple social media services (Facebook, Twitter, Google+, etc.) to share information about Luther Seminary news, programs, and other items that may be of interest to you. We also integrate these social media services on our sites. If you make use of a social media service on one of our sites, you are agreeing to the privacy policy of that service. These policies can be viewed in more detail here:
+
+  * Facebook - <http://www.facebook.com/about/privacy/>
+  * Flickr - <http://info.yahoo.com/privacy/us/yahoo/flickr/details.html>
+  * Google - <http://www.google.com/intl/en/policies/privacy/>
+  * iTunes U - <http://www.apple.com/privacy/>
+  * Pintrist - <http://pinterest.com/about/privacy/>
+  * Twitter - <https://twitter.com/privacy>
+  * Vimeo - <http://vimeo.com/privacy>
+  * YouTube (Google) - <http://www.youtube.com/t/privacy>
+
+
 
 ## How We Use Information
 
@@ -95,11 +110,13 @@ St. Paul, MN 55108
 
 ### **LutherNet Login**
 
-Certain areas of the Luther Seminary Web site will require a LutherNet account login with username and password. These pages include access to MyLutherNet, intranet announcements and directories, student-specific forms, e-mail, certain resources, etc. Pages which require a login cannot be browsed anonymously.
+Certain areas of the Luther Seminary Web site will require a LutherNet account login with username and password. These pages include access to MyLutherNet, intranet announcements and directories, student-specific forms, email, certain resources, etc. Pages which require a login cannot be browsed anonymously.
 
 ### **FERPA**
 
-Luther Seminary abides by FERPA (The Family Educational Rights and Privacy Act of 1974, commonly known as the Buckley Amendment). This is a federal law that states an educational institution must maintain the confidentiality of education records. More information can be found at /registrar/ferpa.asp.  
+Luther Seminary abides by FERPA (The Family Educational Rights and Privacy Act of 1974, commonly known as the Buckley Amendment). This is a federal law that states an educational institution must maintain the confidentiality of education records. More information can be found at /registrar/ferpa.asp.
+
+  
 Luther Seminary cooperates with students and judicatories of all denominations in providing appropriate information for their candidacy process.
 
 ### **Electronic Communications Policy**
@@ -111,4 +128,4 @@ Luther Seminary is committed to providing an environment that encourages the use
 
 Pursuant to the Electronic Communications Policy, it is the responsibility of each user to ensure that the seminary’s technology is used for proper and lawful purposes and in a manner that is responsible and does not compromise the confidentiality of sensitive information, the security of the seminary’s systems, or the policies or mission of the seminary. This policy applies to all users of the seminary’s computers and electronic communications systems, including but not limited to faculty, administrators, employees, students, and guests.
 
-_\--- updated 9/28/2008_
+_\--- updated 11/9/2012_
