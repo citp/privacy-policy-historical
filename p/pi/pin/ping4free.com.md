@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ping4free.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503234105id_/http%3A//ping4free.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ping4free.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226221255id_/http%3A//ping4free.com/privacy) for the most accurate reproduction.*
 
 # Ping 4 Free Privacy Policy | Ping 4 Free
 
