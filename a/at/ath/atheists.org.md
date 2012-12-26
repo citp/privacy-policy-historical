@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the atheists.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101195338id_/http%3A//www.atheists.org/orphans/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atheists.org privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226021010id_/http%3A//www.atheists.org/content/privacy-statement) for the most accurate reproduction.*
 
-# American Atheists | Privacy Statement
-
-## Privacy Statement
+# Privacy Statement | American Atheists
 
 This is the web site of the American Atheists. 
 
 Our postal address is: 
 
-PO BOX 5733  
-Parsippany, NJ 07054-6733
+**American Atheists**  
+P.O. Box 158  
+Cranford, NJ 07016
 
 Our phone is:   
 908-276-7300
