@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the westgroup.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019183549id_/http%3A//store.westlaw.com/about/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westgroup.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226093914id_/http%3A//store.westlaw.com/about/privacy/default.aspx) for the most accurate reproduction.*
 
-# West Online Privacy Statement– West® | Westlaw®
+# West Online Privacy Statement – West® | Westlaw®
 
 SCOPE
 
-Your privacy is important to Thomson Reuters, and we go to great lengths to protect it. This Privacy Statement applies to the online collection of personal information via websites and mobile applications operated by Thomson Reuters and its worldwide affiliated companies and subsidiaries. This Statement does not apply to information collected in any other way, including offline.
+Your privacy is important to Thomson Reuters, and we go to great lengths to protect it. This Privacy Statement applies to the online collection of personal information via the Thomson Reuters Westlaw Store websites and mobile applications operated by Thomson Reuters and its worldwide affiliated companies and subsidiaries. This Statement does not apply to information collected in any other way, including offline.
 
 This website may contain links to sites maintained by others. This Privacy Statement does not reflect the privacy practices of those sites.
 
@@ -45,7 +45,7 @@ More Details
 
   * You may cancel your registration or update your preferences at any time. 
   * If you do not want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering and/or utilize the "unsubscribe" mechanism within the communications that you receive from us.
-  * If you have any additional questions or concerns related to this statement and/or our practices, email us at [west.privacypolicy@thomson.com](mailto:west.privacypolicy@thomson.com).
+  * If you have any additional questions or concerns related to this statement and/or our practices, email us at [west.privacypolicy@thomson.com](mailto:west.privacypolicy@thomson.com) or mail your request to Online Marketing at 610 Opperman Drive, D5-N982, Eagan, MN 55123-1396.
 
 
 
@@ -63,9 +63,9 @@ User-Supplied Information
 
 When you register for our services or order products via our site, we ask you to provide some personal information, for example, your name, address, phone number, email address, payment card information, and/or certain additional categories of information resulting from use of our websites and services, such as research requests. We keep this information in a contact database for future reference, as needed. We may use certain information you provide to offer you products and services that we believe may be of interest to you. If you don't wish to receive such offers, you may opt out (unsubscribe) as described below.
 
-  * **FindLaw & West Legal Directory promotions**: Email [wld.update@thomson.com](mailto:wld.update@thomson.com); include your name and contact information, and a message saying you'd like to stop receiving promotional materials 
-  * **West book/CD-ROM promotions** : [Update your preferences](http://store.westlaw.com/store/Promotions/EmailPreferences/Login.aspx?mstr=WTC)
-  * **Westlaw promotions** : [Update your preferences ](http://store.westlaw.com/Store/Promotions/EmailPreferences/EditPreferences.aspx?mstr=Westlaw)
+  * **FindLaw promotions** : Email [wld.update@thomson.com](mailto:wld.update@thomson.com); include your name and contact information, and a message saying you'd like to stop receiving promotional materials 
+  * **Thomson Reuters Westlaw book/CD-ROM promotions** : [Update your preferences](http://store.westlaw.com/store/Promotions/EmailPreferences/Login.aspx?mstr=WTC)
+  * **WestlawNext promotions** : [Update your preferences ](http://store.westlaw.com/Store/Promotions/EmailPreferences/EditPreferences.aspx?mstr=Westlaw)
   * **West LegalEdcenter promotions** : [Update your preferences](https://westlegaledcenter.com/mycle/my_account.jsf)
   * **Free newsletters from Thomson Reuters Westlaw** : [Update your preferences](http://store.westlaw.com/store/promotions/newsletterssignin.aspx)
 
@@ -75,7 +75,7 @@ If you contact us for customer support, we may ask you to provide information ab
 
 Some Thomson Reuters Westlaw websites make chat rooms, forums, message boards, or news groups available to you. Please remember that any information disclosed in these areas is public. You should exercise caution when disclosing personal information in these areas. Don't disclose information in these public forums that might be considered confidential. 
 
-Additionally, Thomson Reuters Westlaw offers legal professionals the ability to provide personal information for inclusion in the [West Legal Directory (WLD)](http://www.profileupdate.findlaw.com/). If you submit your information, know that: 
+Additionally, Thomson Reuters Westlaw offers legal professionals the ability to provide personal information for inclusion in the [FindLaw Lawyer Directory](http://www.profileupdate.findlaw.com/). If you submit your information, know that: 
 
   * It must be accurate, complete, and current. It will be distributed to third parties in multiple formats (including online), and you will not be compensated by Thomson Reuters Westlaw in any way for its use. 
   * Thomson Reuters Westlaw has no control over how third parties use your profile information; these third parties may contact you for any purpose, including marketing.
@@ -108,7 +108,7 @@ The use of cookies is relatively standard. Most browsers are initially set up to
 
 **Third Party Services**
 
-We may use services hosted by third parties such as Google Analytics, to assist in providing our services and to help us understand our customers' use of our products. These services may collect information sent by your browser as part of a web page request, including your IP address or cookies. If these third party services collect information, they do so anonymously and in the aggregate to provide information helpful to us such as website trends, without identifying individual visitors. Please see "Cookies" in the section above for information on how you can control the use of cookies on your computer.
+We may use services hosted by third parties, such as Google® Analytics, to assist in providing our services and to help us understand our customers' use of our products. These services may collect information sent by your browser as part of a web page request, including your IP address or cookies. If these third party services collect information, they do so anonymously and in the aggregate to provide information helpful to us such as website trends, without identifying individual visitors. Please see "Cookies" in the section above for information on how you can control the use of cookies on your computer.
 
 Back to Top
 
@@ -143,7 +143,7 @@ HOW MAY I CORRECT, AMEND, OR DELETE MY PERSONAL INFORMATION AND/OR UPDATE MY PRE
 
 You may cancel your registration or update your preferences at any time. If you don't want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering, and/or utilize the "unsubscribe" mechanism within the communications that you receive from us.
 
-  * **FindLaw & West Legal Directory promotions**: Email [wld.update@thomson.com](mailto:wld.update@thomson.com); include your name and contact information, and a message saying you'd like to stop receiving promotional materials 
+  * **FindLaw promotions** : Email [wld.update@thomson.com](mailto:wld.update@thomson.com); include your name and contact information, and a message saying you'd like to stop receiving promotional materials 
   * **Thomson Reuters Westlaw book/CD-ROM promotions** : [Update your preferences](http://store.westlaw.com/store/Promotions/EmailPreferences/Login.aspx?mstr=WTC)
   * **WestlawNext promotions** : [Update your preferences ](http://store.westlaw.com/Store/Promotions/EmailPreferences/EditPreferences.aspx?mstr=Westlaw)
   * **West LegalEdcenter promotions** : [Update your preferences](https://westlegaledcenter.com/mycle/my_account.jsf)
@@ -153,14 +153,14 @@ You may cancel your registration or update your preferences at any time. If you 
 
 QUESTIONS?
 
-If you have any additional questions or concerns related to this statement and/or our practices, please email us at [west.privacypolicy@thomson.com](mailto:west.privacypolicy@thomson.com.).
+If you have any additional questions or concerns related to this statement and/or our practices, please email us at [west.privacypolicy@thomson.com](mailto:west.privacypolicy@thomson.com.) or mail your request to Online Marketing at 610 Opperman Drive, D5-N982, Eagan, MN 55123-1396.
 
 PUBLIC RECORDS PRIVACY STATEMENT
 
-Please review the [Thomson Reuters Westlaw Privacy and Public Records Policy Statement](http://store.westlaw.com/about/privacy/records.aspx) to learn about the kinds of public records, including social security numbers and credit histories, Thomson Reuters Westlaw gathers and makes available via certain of its restricted sites. If you have further questions, please send an email message to [west.privacypolicy@thomson.com](mailto:west.privacypolicy@thomson.com).
+Please review the [Thomson Reuters Westlaw Privacy and Public Records Policy Statement](http://store.westlaw.com/about/privacy/records.aspx) to learn about the kinds of public records Thomson Reuters Westlaw gathers and makes available via certain of its restricted sites. If you have further questions, please send an email message to [west.privacypolicy@thomson.com](mailto:west.privacypolicy@thomson.com).
 
 PRIVACY STATEMENT CHANGES
 
-If our information practices change in a significant way, we will post the policy changes here. This Privacy Statement was last updated on 9-30-11.
+If our information practices change in a significant way, we will post the policy changes here. This Privacy Statement was last updated on 07-13-12.
 
 Back to Top
