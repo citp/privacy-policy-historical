@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the paper-source.com privacy policy that was archived on 2012-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621035328id_/http%3A//www.paper-source.com/cgi-bin/paper/security.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paper-source.com privacy policy that was archived on 2012-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121226160004id_/http%3A//www.paper-source.com/cgi-bin/paper/security.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-	<title>Paper Source - security &amp; privacy</title>
+	<title>Security &amp; Privacy | Paper Source</title>
 	<link rel="stylesheet" href="/css/ps.css" type="text/css">
+	<link rel="canonical" href="http://www.paper-source.com/cgi-bin/paper/security.html">
 </head>
 
 
@@ -12,12 +13,14 @@
 
 
 
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=361667117184855"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=361667117184855"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.js" type="text/javascript"></script>
 
-<script src="/js/personalize.js" type="text/javascript"></script>
+<script src="/js/jquery.cookie.js" type="text/javascript"></script>
+<script src="/js/papersource.js?v=1.0" type="text/javascript"></script>
+
+<script src="/js/mustache.js" type="text/javascript"></script>
 <script src="/js/jquery-selectboxes.js" type="text/javascript"></script>
-<script src="/js/ps.js" type="text/javascript"></script>
 <script src="/js/hoverIntent.js" type="text/javascript"></script>
 <script src="/js/superfish.js" type="text/javascript"></script>
 <script src="/coremetrics/v40/eluminate.js" type="text/javascript"></script>
@@ -27,6 +30,7 @@
 <link rel="stylesheet" href="/css/superfish.css" type="text/css">
 <link rel="stylesheet" href="/css/ps.css" type="text/css">
 <link rel="stylesheet" href="/css/video.css" type="text/css">
+<link rel="stylesheet" href="/css/jquery-ui.css" type="text/css">
 
 <!--start facebook-->
 <div id="fb-root"></div>
@@ -57,16 +61,15 @@ body { width: 990px; }
 							<a href="/cgi-bin/paper/index.html"><img src="/images/header/ps_logo.gif" width="362" style="margin-right:10px;" height="46" alt="Paper Source" title="Paper Source" border="0"></a>
 						</td>
 						<td valign="top" width="260">
-							<!--Banner Image Here-->
+							&nbsp;
 						</td>
 						<!-- BEGIN COMPONENT cart_tiny_paper -->
 
 
 
 
-
 <td valign="middle">
-<a style="display:none;" id="cart_info" href="/cgi-bin/paper/ord/basket.html?cm_id=" class="cart_items">0  item, 
+<a style="display:none;" id="cart_info" href="/cgi-bin/paper/ord/basket.html" class="cart_items">0  item, 
 $0.00</a>
 </td>
 <td align="left" valign="middle" style="padding-bottom:7px;" width="100">
@@ -79,7 +82,7 @@ $0.00</a>
 		</td>
 		 <td style="padding-top:2px;">
 		 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
-			<form name="search_form" id="search_form" action="http://search.paper-source.com/getSearch.jsp" method="POST"></form>
+			<form name="search_form" id="search_form" action="https://search.paper-source.com/getSearch.jsp" method="GET"></form>
 			<tbody><tr valign="bottom">
 						<td align="right" valign="bottom"><input class="search_box" type="text" size="10" name="keyword" value="keyword/catalog no." onfocus="value=''"> </td>
 						<td align="right" valign="bottom" width="50"><input type="image" src="/images/header/search.gif" name="search" value="search"></td>
@@ -96,24 +99,22 @@ $0.00</a>
 		
 				
 						<ul id="brownmenu">
-							<li><b><a href="http://s7d5.scene7.com/s7/brochure/flash_brochure.jsp?company=PaperSource&amp;sku=2012%5FSummer1&amp;config=Scene7SharedAssets/eCatalog8&amp;locale=en&amp;image=PaperSource/2012%5FSummer1" target="new">SHOP CATALOG</a></b></li>
+							<li><b><a href="http://s7d5.scene7.com/s7/brochure/flash_brochure.jsp?company=PaperSource&amp;sku=Catalog%5F2012%5FHoliday2&amp;config=Scene7SharedAssets/eCatalog8&amp;locale=en&amp;image=PaperSource/Catalog%5F2012%5FHoliday2" target="new">SHOP CATALOG</a></b></li>
 							
-							<li id="signin_li" style="display: block;"><a href="#">sign&nbsp;in</a></li>
-							<li id="logout_li" style="display: none;"><a href="#">log out</a></li>
-							<li id="myaccount_li" style="display: none;"><a href="http://www.paper-source.com/cgi-bin/paper/customerservice.html" class="mini_nav">my account</a></li>
-						
+							
+							
+							<li id="ps_login" style="display: block;"><a href="#">sign&nbsp;in</a></li>
+							<li id="ps_logout" style="display: none;"><a href="#">log out</a></li>
+							<li id="ps_myaccount" style="display: none;"><a href="http://www.paper-source.com/cgi-bin/paper/customerservice.html" class="mini_nav">my account</a></li>
+							
+							
+							
 						<li><a href="/cgi-bin/paper/locations/index.html" class="mini_nav">locations</a></li>
 						<li><a href="http://blog.paper-source.com" class="mini_nav">blog</a></li>
 						<li><a href="http://search.paper-source.com/index/_/N-lfm0/Ne-lflz" class="mini_sale">SALE</a></li>
 						</ul>
-				
 				<!-- end: log-in/ cart table -->
-		
-		
-		
 		</td>
-
-
 		<!-- start: center col -->
 	</tr>
 </tbody></table>
@@ -125,52 +126,84 @@ $0.00</a>
 <!-- START TOP NAVBAR -->
 <div id="sf-menu-wrapper">
 <ul class="sf-menu" id="mainnav">
-<li id="topnav-new"><a class="" href="/cgi-bin/paper/new/index.html">new <br>&amp; seasonal</a><ul><li class=""><a href="/cgi-bin/paper/pintowin.html">Pinterest Contest</a></li>
+<li id="topnav-new"><a class="" href="/cgi-bin/paper/new/index.html">new <br>&amp; holiday</a><ul><li class="header"><a href="/cgi-bin/paper/new/clearance.html">Holiday</a></li>
+<li class="header"><a href="/cgi-bin/paper/new/calendars.html">Gifts &amp; Must Haves</a></li>
+<li class=""><a href="/cgi-bin/paper/new/clearance.html">SALE</a></li>
 <li class=""><a href="/cgi-bin/paper/new/calendars.html">Calendars</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/photo-cards/new-years-cards.html">New Years Photo Cards</a></li>
 <li class=""><a href="/cgi-bin/paper/new/datebooks.html">Date Books</a></li>
-<li class=""><a href="/cgi-bin/paper/new/graduation-gifts.html">Graduation</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/graduation-party-invitations/graduation-invitations.html">Graduation Party Invites</a></li>
-<li class=""><a href="/cgi-bin/paper/new/handmade-parties.html">Handmade Parties</a></li>
-<li class=""><a href="/cgi-bin/paper/new/summer-parties.html">Summer Parties</a></li>
-<li class=""><a href="/cgi-bin/paper/new/summer-camp-travel.html">Summer Camp &amp; Travel</a></li>
-<li class=""><a href="/cgi-bin/paper/new/bike-gifts.html">Bicycles</a></li>
-<li class=""><a href="/cgi-bin/paper/new/nautical-gifts.html">Nautical</a></li>
-<li class=""><a href="/cgi-bin/paper/new/mustache-gifts.html">Moustache</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/wedding-invitations/textures.html">Wedding Invitations</a></li>
-<li class=""><a href="/cgi-bin/paper/wedding/index.html">DIY Weddings</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized_gifts/personalized-note-sets.html"> Personalized Note Pads</a></li>
+<li class=""><a href="/cgi-bin/paper/new/valentines-cards.html">Valentine Cards</a></li>
 <li class=""><a href="/cgi-bin/paper/new/gifts.html">Unique Gifts</a></li>
+<li class=""><a href="/cgi-bin/paper/new/crafts-valentines-day.html">Valentine Crafts</a></li>
 <li class=""><a href="/cgi-bin/paper/new/holiday_kids_gifts.html">Gifts for Kids</a></li>
-</ul></li>
+<li class=""><a href="/cgi-bin/paper/new/valentines-day-gifts.html">Valentine Gifts</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized_gifts/custom-notepads.html">Custom Note Pads</a></li>
+<li class=""><a href="/cgi-bin/paper/new/valentines-wrap.html">Valentine Gift Wrap</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/personalized-stationery/flat-stationery.html">Personalized Stationery</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class="spacer"><a href="#">&nbsp;</a></li><li class="header"><a href="/cgi-bin/paper/new/burlap.html">Themes</a></li>
+<li class="header"><a href="/cgi-bin/paper/personalized_gifts/custom-party-napkins.html">Events</a></li>
+<li class=""><a href="/cgi-bin/paper/new/burlap.html">Burlap</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized_gifts/custom-party-napkins.html">Custom Napkins</a></li>
+<li class=""><a href="/cgi-bin/paper/new/canning-jars.html">Canning Jars</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized_gifts/personalized-placemats.html">Custom Placemats</a></li>
+<li class=""><a href="/cgi-bin/paper/new/chalkboard.html">Chalkboard</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/wedding-invitations/textures.html">Wedding Invites</a></li>
+<li class=""><a href="/cgi-bin/paper/new/macarons.html">Macarons</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/new/mustache-gifts.html">Moustache</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/new/owls.html">Owls</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li></ul></li>
 
 
-<li id="topnav-stationery"><a class="" href="/cgi-bin/paper/stationery/index.html">stationery <br>&amp; labels</a><ul><li class=""><a href="/cgi-bin/paper/stationery/address-labels.html">Address Labels</a></li>
+<li id="topnav-stationery"><a class="" href="/cgi-bin/paper/stationery/index.html">stationery <br>&amp; labels</a><ul><li class="header"><a href="/cgi-bin/paper/stationery/valentines-cards.html">Valentine's Day</a></li>
+<li class="header"><a href="/cgi-bin/paper/stationery/address-labels.html">Labels</a></li>
+<li class=""><a href="/cgi-bin/paper/stationery/valentines-cards.html">Cards &amp; Stationery</a></li>
+<li class=""><a href="/cgi-bin/paper/stationery/address-labels.html">Address Labels</a></li>
+<li class=""><a href="/cgi-bin/paper/stationery/valentines-kid-cards.html">Kids Cards</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/return-address-labels/labels.html">Personalized Labels</a></li>
+<li class="header"><a href="/cgi-bin/paper/stationery/.html"></a></li>
+<li class="header"><a href="/cgi-bin/paper/stationery/.html"></a></li>
+<li class="header"><a href="/cgi-bin/paper/stationery/other-stationery-set.html">Stationery</a></li>
+<li class="header"><a href="/cgi-bin/paper/stationery/valentines-greeting-cards.html">Other</a></li>
 <li class=""><a href="/cgi-bin/paper/stationery/other-stationery-set.html">Stationery &amp; Note Sets</a></li>
+<li class=""><a href="/cgi-bin/paper/stationery/valentines-greeting-cards.html">Greeting Cards</a></li>
 <li class=""><a href="/cgi-bin/paper/stationery/thank-you-notes-PS.html">Thank You Notes</a></li>
-<li class=""><a href="/cgi-bin/paper/stationery/stationery-set.html">Patterned Note Sets</a></li>
-<li class=""><a href="/cgi-bin/paper/stationery/letterpress-stationery.html">Letterpress Stationery</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/personalized-stationery/typography.html">Personalized Stationery</a></li>
-<li class=""><a href="/cgi-bin/paper/stationery/greeting-cards.html">Greeting Cards</a></li>
-<li class=""><a href="/cgi-bin/paper/stationery/kids-stationery-PS.html">Kids Stationery</a></li>
 <li class=""><a href="/cgi-bin/paper/stationery/writing-instruments.html">Writing Instruments</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/personalized-stationery/flat-stationery.html">Personalized Stationery</a></li>
 <li class=""><a href="/cgi-bin/paper/stationery/waxes-seals.html">Waxes &amp; Seals</a></li>
-</ul></li>
+<li class=""><a href="/cgi-bin/paper/stationery/stationery-set.html">Patterned Note Sets</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/stationery/letterpress-stationery.html">Letterpress Stationery</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/stationery/kids-stationery-PS.html">Kids Stationery</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li></ul></li>
 
 
-<li id="topnav-envelopes"><a class="" href="/cgi-bin/paper/envelopes/index.html">solid paper <br>&amp; envelopes</a><ul><li class=""><a href="/cgi-bin/paper/envelopes/4-bar.html">Note Cards &amp; Shape Cards</a></li>
-<li class=""><a href="/cgi-bin/paper/envelopes/color-paper.html">Solid Paper</a></li>
-<li class=""><a href="/cgi-bin/paper/envelopes/envelopes.html">Envelopes</a></li>
+<li id="topnav-envelopes"><a class="" href="/cgi-bin/paper/envelopes/index.html">solid paper <br>&amp; envelopes</a><ul><li class="header"><a href="/cgi-bin/paper/envelopes/4-bar.html">Note Cards</a></li>
+<li class="header"><a href="/cgi-bin/paper/envelopes/envelopes.html">Envelopes</a></li>
+<li class=""><a href="/cgi-bin/paper/envelopes/4-bar.html">4 Bar</a></li>
+<li class=""><a href="/cgi-bin/paper/envelopes/envelopes.html">Solid Envelopes</a></li>
+<li class=""><a href="/cgi-bin/paper/envelopes/A2.html">A2</a></li>
 <li class=""><a href="/cgi-bin/paper/envelopes/discount_envelopes.html">Discount Envelopes</a></li>
+<li class=""><a href="/cgi-bin/paper/envelopes/A6.html">A6</a></li>
+<li class=""><a href="/cgi-bin/paper/envelopes/glassine-envelopes.html">Glassine Envelopes</a></li>
+<li class=""><a href="/cgi-bin/paper/envelopes/A7.html">A7</a></li>
 <li class=""><a href="/cgi-bin/paper/envelopes/envelope-liner.html">Envelope Liners</a></li>
+<li class=""><a href="/cgi-bin/paper/envelopes/A9.html">A9</a></li>
 <li class=""><a href="/cgi-bin/paper/envelopes/envelope-templates.html">Envelope Templates</a></li>
-<li class=""><a href="/cgi-bin/paper/envelopes/enclosures.html">Enclosures</a></li>
-<li class=""><a href="/cgi-bin/paper/envelopes/photo-paper.html">Specialty Paper</a></li>
+<li class=""><a href="/cgi-bin/paper/envelopes/no10.html">#10</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/envelopes/5-5x5-5.html">5.5 Square</a></li>
+<li class="header"><a href="/cgi-bin/paper/envelopes/enclosures.html">Enclosures</a></li>
+<li class=""><a href="/cgi-bin/paper/color/business-cards/2505.110/200.html">Business Cards</a></li>
+<li class=""><a href="/cgi-bin/paper/envelopes/enclosures.html">Invitation Enclosures</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/envelopes/about-enclosures.html">How to Use Enclosures</a></li>
+<li class="header"><a href="/cgi-bin/paper/envelopes/color-paper.html">Solid Paper</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/envelopes/color-paper.html">8.5 x 11</a></li>
+<li class="header"><a href="/cgi-bin/paper/envelopes/box-mailer.html">Other</a></li>
+<li class=""><a href="/cgi-bin/paper/color/12x12/2505.140/402.html">12 x 12</a></li>
 <li class=""><a href="/cgi-bin/paper/envelopes/box-mailer.html">Box Mailers</a></li>
+<li class=""><a href="/cgi-bin/paper/envelopes/26x20.html">26 x 20</a></li>
 <li class=""><a href="/cgi-bin/paper/envelopes/mailing-labels.html">Labels</a></li>
-<li class=""><a href="/cgi-bin/paper/item/Paper-Source-Swatchbook/2504.010/99900023.html">PS Swatchbooks</a></li>
-<li class=""><a href="/cgi-bin/paper/envelopes/solid-paper-and-envelopes.html">About Our Paper</a></li>
-<li class=""><a href="/cgi-bin/paper/envelopes/bulk-discount.html">Bulk Discount Program</a></li>
-<li class=""><a href="/pdfs/envelope-size-chart.pdf">Envelope Size Chart and Shape Guide PDF</a></li>
+<li class=""><a href="/cgi-bin/paper/envelopes/27x19.html">27 x 19</a></li>
+<li class=""><a href="/cgi-bin/paper/envelopes/photo-paper.html">Specialty Paper</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/item/Paper-Source-Swatchbook/2504.010/99900023.html">PS Swatchbook</a></li>
 </ul></li>
 
 
@@ -190,128 +223,147 @@ $0.00</a>
 
 <li id="topnav-wedding"><a class="" href="/cgi-bin/paper/wedding/index.html">wedding <br>&amp; events</a><ul><li class="header"><a href="/cgi-bin/paper/personalized/wedding-save-the-dates/save-the-dates.html">Invitations</a></li>
 <li class="header"><a href="/cgi-bin/paper/wedding/wedding-place-cards.html">Table Essentials</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/wedding-save-the-dates/save-the-dates.html">Save the Dates</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/wedding-save-the-dates/photo-save-the-dates.html">Save the Dates</a></li>
 <li class=""><a href="/cgi-bin/paper/wedding/wedding-place-cards.html">Place Cards</a></li>
 <li class=""><a href="/cgi-bin/paper/personalized/wedding-invitations/textures.html">Wedding Invitations</a></li>
 <li class=""><a href="/cgi-bin/paper/wedding/wedding-table-cards.html">Table Tents</a></li>
 <li class=""><a href="/cgi-bin/paper/custom_printing/wedding-invitation-ideas.html">Invitation Inspiration</a></li>
-<li class=""><a href="/cgi-bin/paper/wedding/box-mailers.html">Favor Boxes</a></li>
+<li class=""><a href="/cgi-bin/paper/wedding/custom-wedding-napkins.html">Custom Napkins</a></li>
 <li class=""><a href="/cgi-bin/paper/wedding/printable-wedding-invitations.html">Printable Party Invitations</a></li>
-<li class=""><a href="/cgi-bin/paper/wedding/guest-books.html">Guest Books</a></li>
+<li class=""><a href="/cgi-bin/paper/wedding/personalized-placemats.html">Custom Placemats</a></li>
 <li class=""><a href="/cgi-bin/paper/envelopes/envelopes.html">Paper &amp; Envelopes</a></li>
-<li class=""><a href="/cgi-bin/paper/wedding/wedding-pens.html">Pens</a></li>
+<li class=""><a href="/cgi-bin/paper/wedding/box-mailers.html">Favor Boxes</a></li>
 <li class=""><a href="/cgi-bin/paper/wedding/envelope-liners.html">Invitation Accessories</a></li>
-<li class="spacer"><a href="#">&nbsp;</a></li><li class="spacer"><a href="#">&nbsp;</a></li><li class="header"><a href="/cgi-bin/paper/wedding/wedding-decorations.html">Decorations</a></li>
+<li class=""><a href="/cgi-bin/paper/wedding/guest-books.html">Guest Books</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/wedding/wedding-pens.html">Pens</a></li>
 <li class="header"><a href="/cgi-bin/paper/wedding/thank-you-notes.html">Correspondence</a></li>
-<li class=""><a href="/cgi-bin/paper/wedding/wedding-decorations.html">Wedding Decorations</a></li>
-<li class=""><a href="/cgi-bin/paper/wedding/thank-you-notes.html">Thank You Notes</a></li>
-<li class=""><a href="/cgi-bin/paper/wedding/wedding-rubber-stamps.html">Wedding Stamps</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/wedding/thank-you-notes.html">Thank You Notes</a></li>
+<li class="header"><a href="/cgi-bin/paper/wedding/wedding-decorations.html">Decorations</a></li>
 <li class=""><a href="/cgi-bin/paper/wedding/custom-stamps.html">Custom Stamps</a></li>
-<li class=""><a href="/cgi-bin/paper/wedding/wedding-flower-kits.html">Paper Flowers</a></li>
+<li class=""><a href="/cgi-bin/paper/wedding/wedding-decorations.html">Wedding Decorations</a></li>
 <li class=""><a href="/cgi-bin/paper/personalized/wedding-labels/address-labels.html">Address Labels</a></li>
-<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/wedding/return-address-embossers.html">Embossers</a></li>
+<li class=""><a href="/cgi-bin/paper/wedding/diy_party_decorations.html">DIY Party Decorations</a></li>
+<li class=""><a href="/cgi-bin/paper/wedding/return-address-embossers.html">Embossers</a></li>
+<li class=""><a href="/cgi-bin/paper/wedding/wedding-rubber-stamps.html">Wedding Stamps</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/wedding/wedding-flower-kits.html">Paper Flowers</a></li>
 <li class="header"><a href="/cgi-bin/paper/wedding/bridal-showers-gifts.html">Other Events</a></li>
 <li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/wedding/bridal-showers-gifts.html">Bridal Showers &amp; Gifts</a></li>
 <li class="header"><a href="/cgi-bin/paper/wedding/wedding-inspiration.html">Wedding Resources</a></li>
 <li class=""><a href="/cgi-bin/paper/wedding/baby_shower.html">Baby Showers &amp; Gifts </a></li>
-</ul></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class="spacer"><a href="#">&nbsp;</a></li></ul></li>
 
 
 <li id="topnav-custom_printing"><a class=" oneliner" href="/cgi-bin/paper/custom_printing/index.html">custom printing</a><ul><li class="header"><a href="/cgi-bin/paper/personalized/wedding-invitations/textures.html">Wedding</a></li>
-<li class="header"><a href="/cgi-bin/paper/personalized/personalized-stationery/typography.html">Stationery &amp; Labels</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/wedding-invitations/textures.html">Wedding Invitations</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/personalized-stationery/typography.html">Personalized Stationery</a></li>
-<li class=""><a href="/cgi-bin/paper/custom_printing/wedding-invitation-ideas.html">Invitation Inspiration</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/return-address-labels/labels.html">Return Address Labels</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/wedding-save-the-dates/photo-save-the-dates.html">Save the Dates</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/gift-tags/everyday.html">Gift Tag Labels</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/wedding-stationery/wedding-stationery.html">Wedding Stationery</a></li>
-<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/personalized/wedding-labels/address-labels.html">Wedding Labels &amp; Gift Tags</a></li>
-<li class="header"><a href="/cgi-bin/paper/personalized/baby-shower/baby-shower-invitations.html">Baby &amp; Kids</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/wedding-programs/wedding-menus.html">Programs &amp; Menus</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/baby-shower/baby-shower-invitations.html">Baby Shower Invitations</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/bridal-shower-invitations/engagement-party-invitations.html">Bridal Showers &amp; Wedding Events</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/birth-announcements/boy.html">Birth Announcements</a></li>
-<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/personalized/baptisms/baptism-invitations.html">Baptism &amp; Christening</a></li>
-<li class="header"><a href="/cgi-bin/paper/personalized/party-invitations/party-invites.html">Parties</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/kids-birthday-party-invitations/kids-party-invites.html">Kids Party Invitations </a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/party-invitations/party-invites.html">General Party Invitations</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/bar-mitzvah-invitations/bat-mitzvah-invitations.html">Bar &amp; Bat Mitzvah Invitations</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/birthday-party-invitations/birthday-party-invites.html">Birthday Party Invitations</a></li>
-<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/personalized/corporate-party-invitations/retirement-party-invitations.html">Corporate &amp; Retirement Parties</a></li>
-<li class="header"><a href="/cgi-bin/paper/personalized/moving-announcements/change-of-address.html">Other Events</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/graduation-party-invitations/graduation-invitations.html">Graduation Party Invitations</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/moving-announcements/change-of-address.html">Moving Announcements</a></li>
-<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/personalized/confirmation-invitations/religious-invitations.html">Religious Celebrations</a></li>
 <li class="header"><a href="/cgi-bin/paper/personalized/holiday-cards/photo-cards.html">Holiday</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/sympathy-cards/in-memory.html">In Memory &amp; Sympathy</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/wedding-invitations/textures.html">Wedding Invitations</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/photo-cards/new-years-cards.html">New Years Cards</a></li>
+<li class=""><a href="/cgi-bin/paper/custom_printing/wedding-invitation-ideas.html">Invitation Inspiration</a></li>
 <li class=""><a href="/cgi-bin/paper/personalized/holiday-cards/photo-cards.html">Holiday Cards</a></li>
-<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/personalized/holiday-labels/holiday-labels.html">Holiday Labels &amp; Tags</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/wedding-save-the-dates/photo-save-the-dates.html">Save the Dates</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/greeting-cards/christmas-cards.html">Holiday Greeting Cards</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/wedding-stationery/wedding-stationery.html">Wedding Stationery</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/holiday-party-invitations/holiday-party-invitations.html">Holiday Party Invitations</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/wedding-labels/address-labels.html">Wedding Labels &amp; Gift Tags</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/holiday-labels/holiday-labels.html">Holiday Labels &amp; Tags</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/wedding-programs/wedding-menus.html">Programs &amp; Menus</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/personalized/bridal-shower-invitations/engagement-party-invitations.html">Bridal Showers &amp; Wedding Events</a></li>
+<li class="header"><a href="/cgi-bin/paper/personalized/personalized-stationery/flat-stationery.html">Stationery &amp; Labels</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/personalized/personalized-stationery/flat-stationery.html">Personalized Stationery</a></li>
+<li class="header"><a href="/cgi-bin/paper/personalized/party-invitations/party-invites.html">Parties</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/personalized-stationery/business-cards.html">Business Cards</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/party-invitations/party-invites.html">General Party Invitations</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/return-address-labels/labels.html">Return Address Labels</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/birthday-party-invitations/birthday-party-invites.html">Birthday Party Invitations</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/gift-tags/everyday.html">Gift Tag Labels</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/corporate-party-invitations/retirement-party-invitations.html">Corporate &amp; Retirement Parties</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/personalized/graduation-party-invitations/graduation-invitations.html">Graduation Party Invitations</a></li>
+<li class="header"><a href="/cgi-bin/paper/personalized/baby-shower/baby-shower-invitations.html">Baby &amp; Kids</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/personalized/baby-shower/baby-shower-invitations.html">Baby Shower Invitations</a></li>
+<li class="header"><a href="/cgi-bin/paper/personalized/moving-announcements/change-of-address.html">Other Events</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/birth-announcements/boy.html">Birth Announcements</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/moving-announcements/change-of-address.html">Moving Announcements</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/baptisms/baptism-invitations.html">Baptism &amp; Christening</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/confirmation-invitations/religious-invitations.html">Religious Celebrations</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/kids-birthday-party-invitations/kids-party-invites.html">Kids Party Invitations </a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/sympathy-cards/in-memory.html">In Memory &amp; Sympathy</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/bar-mitzvah-invitations/bat-mitzvah-invitations.html">Bar &amp; Bat Mitzvah Invitations</a></li>
 </ul></li>
 
 
-<li id="topnav-personalized_gifts"><a class="" href="/cgi-bin/paper/personalized_gifts/index.html">personalized gifts <br>&amp; products</a><ul><li class=""><a href="/cgi-bin/paper/personalized_gifts/personalized-note-sets.html">Personalized Note Pads</a></li>
+<li id="topnav-personalized_gifts"><a class="" href="/cgi-bin/paper/personalized_gifts/index.html">personalized gifts <br>&amp; products</a><ul><li class=""><a href="/cgi-bin/paper/personalized_gifts/custom-notepads.html">Custom Note Pads</a></li>
 <li class=""><a href="/cgi-bin/paper/personalized_gifts/custom_stamps.html">Custom Stamps</a></li>
 <li class=""><a href="/cgi-bin/paper/personalized_gifts/return_address_embossers.html">Custom Embossers</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/personalized-stationery/typography.html">Personalized Stationery</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/personalized-stationery/flat-stationery.html">Personalized Stationery</a></li>
 <li class=""><a href="/cgi-bin/paper/personalized/return-address-labels/labels.html">Return Address Labels</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized_gifts/custom-baby-shower-napkins.html">Custom Napkins</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized_gifts/personalized-placemats.html">Personalized Placemats</a></li>
 </ul></li>
 
 
-<li id="topnav-gifts"><a class=" oneliner" href="/cgi-bin/paper/gifts/index.html">gifts</a><ul><li class="header"><a href="/cgi-bin/paper/gifts/fathers-day-gifts.html">Shop by Occasion</a></li>
-<li class="header"><a href="/cgi-bin/paper/gifts/gifts-under-20.html">Best Selling</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/fathers-day-gifts.html">father's day gifts</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/gifts-under-20.html">gifts under $20</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/graduation-gifts.html">graduation gifts</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/gifts-under-50.html">gifts under $50</a></li>
-<li class="spacer"><a href="#">&nbsp;</a></li><li class="spacer"><a href="#">&nbsp;</a></li><li class="header"><a href="/cgi-bin/paper/gifts/gifts-for-her.html">Shop by Recipient</a></li>
-<li class="header"><a href="/cgi-bin/paper/personalized_gifts/personalized-note-sets.html">Personalized Gifts</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/gifts-for-her.html">gifts for her</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized_gifts/personalized-note-sets.html">note pads</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/gifts-for-him.html">gifts for him</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized_gifts/custom_stamps.html">custom stamps</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/toys.html">gifts for kids</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized_gifts/return_address_embossers.html">custom embossers</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/hostess-gifts.html">gifts for host or hostess</a></li>
-<li class=""><a href="/cgi-bin/paper/personalized/personalized-stationery/typography.html">personalized stationery</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/teacher-gifts.html">gifts for teacher</a></li>
-<li class="spacer"><a href="#">&nbsp;</a></li><li class="spacer"><a href="#">&nbsp;</a></li><li class="header"><a href="/cgi-bin/paper/gifts/cavallini-gifts.html">Shop by Theme</a></li>
+<li id="topnav-gifts"><a class=" oneliner" href="/cgi-bin/paper/gifts/index.html">gifts</a><ul><li class="header"><a href="/cgi-bin/paper/gifts/valentines-day-gifts.html">Valentine Gifts</a></li>
+<li class="header"><a href="/cgi-bin/paper/gifts/gifts-under-10.html">Best Selling</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/gifts/gifts-under-10.html">Gifts Under $10</a></li>
+<li class="header"><a href="/cgi-bin/paper/gifts/gifts-for-her.html">Shop by Recipient</a></li>
+<li class=""><a href="/cgi-bin/paper/gifts/gifts-under-20.html">Gifts Under $20</a></li>
+<li class=""><a href="/cgi-bin/paper/gifts/gifts-for-her.html">Gifts for Her</a></li>
+<li class=""><a href="/cgi-bin/paper/gifts/gifts-under-50.html">Gifts Under $50</a></li>
+<li class=""><a href="/cgi-bin/paper/gifts/gifts-for-him.html">Gifts for Him</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/gifts/toys.html">Gifts for Kids</a></li>
+<li class="header"><a href="/cgi-bin/paper/personalized_gifts/custom-notepads.html">Personalized Gifts</a></li>
+<li class=""><a href="/cgi-bin/paper/gifts/hostess-gifts.html">Gifts for Host or Hostess</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized_gifts/custom-notepads.html">Custom Note Pads</a></li>
+<li class=""><a href="/cgi-bin/paper/gifts/teacher-gifts.html">Gifts for Teacher</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized/personalized-stationery/flat-stationery.html">Personalized Stationery</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/personalized_gifts/custom_stamps.html">Custom Stamps</a></li>
 <li class="header"><a href="/cgi-bin/paper/gifts/aprons.html">Shop by Category</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/cavallini-gifts.html">cavallini</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/aprons.html">aprons &amp; accessories</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/creative-gifts.html">creative inspiration</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/bags.html">bags</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/keep-calm-and-carry-on.html">keep calm &amp; carry on</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/craft-books.html">books</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/mustache-gifts.html">moustache</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/home-accents.html">home accents</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/nautical-gifts.html">nautical gifts</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/kitchen-accessories.html">kitchen accessories</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/ps-gifts.html">paper source</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/cool-gadgets.html">gadgets &amp; games</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/funny-gifts.html">quirky gifts</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/mugs-glassware.html">mugs &amp; glassware</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/vintage-gifts.html">vintage gifts</a></li>
-<li class=""><a href="/cgi-bin/paper/gifts/office.html">office</a></li>
-<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/gifts/party-decorations.html">party decorations</a></li>
+<li class=""><a href="/cgi-bin/paper/personalized_gifts/return_address_embossers.html">Custom Embossers</a></li>
+<li class=""><a href="/cgi-bin/paper/gifts/aprons.html">Aprons &amp; Accessories</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/gifts/bags.html">Bags</a></li>
+<li class="header"><a href="/cgi-bin/paper/gifts/cavallini-gifts.html">Shop by Theme</a></li>
+<li class=""><a href="/cgi-bin/paper/gifts/craft-books.html">Books</a></li>
+<li class=""><a href="/cgi-bin/paper/gifts/cavallini-gifts.html">Cavallini</a></li>
+<li class=""><a href="/cgi-bin/paper/gifts/home-accents.html">Home Accents</a></li>
+<li class=""><a href="/cgi-bin/paper/gifts/creative-gifts.html">Creative Inspiration</a></li>
+<li class=""><a href="/cgi-bin/paper/gifts/kitchen-accessories.html">Kitchen Accessories</a></li>
+<li class=""><a href="/cgi-bin/paper/gifts/keep-calm-and-carry-on.html">Keep Calm &amp; Carry On</a></li>
+<li class=""><a href="/cgi-bin/paper/gifts/cool-gadgets.html">Gadgets &amp; Games</a></li>
+<li class=""><a href="/cgi-bin/paper/gifts/mustache-gifts.html">Moustache</a></li>
+<li class=""><a href="/cgi-bin/paper/gifts/mugs-glassware.html">Mugs &amp; Glassware</a></li>
+<li class=""><a href="/cgi-bin/paper/gifts/ps-gifts.html">Paper Source</a></li>
+<li class=""><a href="/cgi-bin/paper/gifts/office.html">Office</a></li>
+<li class=""><a href="/cgi-bin/paper/gifts/funny-gifts.html">Quirky Gifts</a></li>
+<li class=""><a href="/cgi-bin/paper/gifts/party-decorations.html">Party Decorations</a></li>
+<li class=""><a href="/cgi-bin/paper/gifts/retro-gifts.html">Retro Gifts</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/gifts/vintage-gifts.html">Vintage Gifts</a></li>
 <li class="header"><a href="/cgi-bin/paper/gifts/giftcard.html">Gift Cards</a></li>
-</ul></li>
+<li class="spacer"><a href="#">&nbsp;</a></li></ul></li>
 
 
-<li id="topnav-giftwrap"><a class=" oneliner" href="/cgi-bin/paper/giftwrap/index.html">gift wrap</a><ul><li class=""><a href="/cgi-bin/paper/giftwrap/PS-wrapping-paper.html">Wrapping Paper</a></li>
-<li class=""><a href="/cgi-bin/paper/giftwrap/tissue-paper.html">Tissue Paper</a></li>
-<li class=""><a href="/cgi-bin/paper/giftwrap/PS-gift-bags.html">Gift Bags</a></li>
+<li id="topnav-giftwrap"><a class=" oneliner" href="/cgi-bin/paper/giftwrap/index.html">gift wrap</a><ul><li class="header"><a href="/cgi-bin/paper/giftwrap/valentines-wrap.html">Valentine Gift Wrap</a></li>
+<li class="header"><a href="/cgi-bin/paper/giftwrap/PS-gift-bags.html">Bags &amp; Boxes</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/giftwrap/PS-gift-bags.html">Gift Bags</a></li>
+<li class="header"><a href="/cgi-bin/paper/giftwrap/PS-wrapping-paper.html">Wrapping Paper</a></li>
 <li class=""><a href="/cgi-bin/paper/giftwrap/gift-boxes.html">Gift Boxes</a></li>
-<li class=""><a href="/cgi-bin/paper/giftwrap/ps-satin-ribbon.html">Ribbon</a></li>
+<li class=""><a href="/cgi-bin/paper/giftwrap/PS-wrapping-paper.html">Paper Source Wrap</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/color/roll-wrap/3650.030/404.html">Solid Color Wrap</a></li>
+<li class="header"><a href="/cgi-bin/paper/giftwrap/ps-satin-ribbon.html">Ribbon</a></li>
+<li class=""><a href="/cgi-bin/paper/giftwrap/cavallini-wrapping-paper.html">Cavallini Wrap</a></li>
+<li class=""><a href="/cgi-bin/paper/giftwrap/ps-satin-ribbon.html">Satin Ribbon</a></li>
+<li class=""><a href="/cgi-bin/paper/giftwrap/gift-wrapping-paper.html">Designer Gift Wrap</a></li>
+<li class=""><a href="/cgi-bin/paper/giftwrap/decorative-ribbon.html">Decorative Ribbon</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/color/organdy-ribbon/3620.031/856.html">Organdy Ribbon</a></li>
+<li class="header"><a href="/cgi-bin/paper/giftwrap/gift-tags.html">Finishing Touches</a></li>
+<li class=""><a href="/cgi-bin/paper/color/Grosgrain-Ribbon/3620.030/852.html">Grosgrain Ribbon</a></li>
 <li class=""><a href="/cgi-bin/paper/giftwrap/gift-tags.html">Gift Tags &amp; Labels</a></li>
-<li class=""><a href="/cgi-bin/paper/giftwrap/holiday-wrapping-paper.html">Holiday Gift Wrap</a></li>
-</ul></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/giftwrap/tissue-paper.html">Tissue Paper</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li></ul></li>
 
 
 <li id="topnav-office"><a class=" oneliner" href="/cgi-bin/paper/office/index.html">office</a><ul><li class=""><a href="/cgi-bin/paper/office/calendars.html">Calendars</a></li>
 <li class=""><a href="/cgi-bin/paper/office/datebook.html">Date Books</a></li>
+<li class=""><a href="/cgi-bin/paper/office/back-to-school.html">Back to School</a></li>
 <li class=""><a href="/cgi-bin/paper/office/file-folders.html">Organization &amp; Storage</a></li>
-<li class=""><a href="/cgi-bin/paper/office/desk-accessories.html">Keen Office Accessories</a></li>
+<li class=""><a href="/cgi-bin/paper/office/desk-accessories.html">Office Accessories</a></li>
 <li class=""><a href="/cgi-bin/paper/office/cavallini-office.html">Cavallini Office</a></li>
 <li class=""><a href="/cgi-bin/paper/office/business-cards.html">Business Cards</a></li>
 <li class=""><a href="/cgi-bin/paper/office/other-journals.html">Journals</a></li>
@@ -319,31 +371,70 @@ $0.00</a>
 </ul></li>
 
 
-<li id="topnav-kits"><a class="" href="/cgi-bin/paper/kits/index.html">kits <br>&amp; crafting</a><ul><li class=""><a href="/cgi-bin/paper/kits/holiday-kits.html">Kits</a></li>
+<li id="topnav-kits"><a class="" href="/cgi-bin/paper/kits/index.html">kits <br>&amp; crafting</a><ul><li class="header"><a href="/cgi-bin/paper/kits/new-rubber-stamps.html">Stamping</a></li>
+<li class="header"><a href="/cgi-bin/paper/kits/crafts-valentines-day.html">Valentine Crafts</a></li>
 <li class=""><a href="/cgi-bin/paper/kits/new-rubber-stamps.html">Rubber Stamps</a></li>
-<li class=""><a href="/cgi-bin/paper/kits/colorbox-stamp-pads.html">Stamp Pads &amp; Accessories</a></li>
-<li class=""><a href="/cgi-bin/paper/kits/letterpress-machine.html">Tools &amp; Adhesives</a></li>
-<li class=""><a href="/cgi-bin/paper/kits/bookcloth.html">Bookbinding</a></li>
-<li class=""><a href="/cgi-bin/paper/kits/wedding-favor-boxes.html">Favor Boxes</a></li>
-<li class=""><a href="/cgi-bin/paper/kits/papersource-stickers.html">Stickers</a></li>
-<li class=""><a href="/cgi-bin/paper/kits/pens.html">Pens &amp; Markers</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/kits/colorbox-stamp-pads.html">Stamp Pads</a></li>
+<li class="header"><a href="/cgi-bin/paper/kits/colorbox-stamp-pads.html">PS Favorites</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/embossing-powder.html">Embossing Powder</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/colorbox-stamp-pads.html">Colorbox</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/stamp-accessories.html">Stencils &amp;  Accessories</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/silhouette-machine.html">Silhouette Machine</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class="spacer"><a href="#">&nbsp;</a></li><li class="header"><a href="/cgi-bin/paper/kits/paper-crafting-tools.html">Crafting Tools</a></li>
+<li class="header"><a href="/cgi-bin/paper/kits/holiday-kits.html">Kits</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/paper-crafting-tools.html">Tools</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/holiday-kits.html">Seasonal Kits</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/scissors.html">Scissors &amp; Cutters</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/flower-kits.html">Paper Flowers</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/tape.html">Tape &amp; Glue</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/kids-craft-kits.html">Kids Crafts</a></li>
 <li class=""><a href="/cgi-bin/paper/kits/paper-punches.html">Paper Punches</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/envelope-kits.html">Other Kits</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class="spacer"><a href="#">&nbsp;</a></li><li class="header"><a href="/cgi-bin/paper/kits/papersource-stickers.html">Crafting Accents</a></li>
+<li class="header"><a href="/cgi-bin/paper/kits/craft-bags.html">Boxes &amp; Bags</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/papersource-stickers.html">Stickers</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/craft-bags.html">Craft Bags</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/glitter-applications.html">Glitter</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/kraft_boxes.html">Craft Boxes</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/decorative-tape.html">Decorative Tape &amp; Ribbon</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/wedding-favor-boxes.html">Favor Boxes</a></li>
 <li class=""><a href="/cgi-bin/paper/kits/accents.html">Embellishments</a></li>
-<li class=""><a href="/cgi-bin/paper/kits/craft-letter.html">Craft Letters &amp; Boxes</a></li>
-<li class=""><a href="/cgi-bin/paper/kits/craft-books.html">How-To Books</a></li>
-</ul></li>
+<li class=""><a href="/cgi-bin/paper/kits/box-mailers.html">Box Mailers</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/fasteners.html">Pins &amp; Fasteners</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/kits/pens.html">Pens &amp; Markers</a></li>
+<li class="header"><a href="/cgi-bin/paper/kits/scrapbook-paper.html">Scrapbooking</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/kits/scrapbook-paper.html">Scrapbook Paper</a></li>
+<li class="header"><a href="/cgi-bin/paper/kits/bookcloth.html">Other</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/scrapbook-albums.html">Scrapbook Albums</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/bookcloth.html">Bookbinding</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/scrapbooking-supplies.html">Scrapbooking Supplies</a></li>
+<li class=""><a href="/cgi-bin/paper/kits/craft-letter.html">Craft Letters</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/kits/craft-books.html">How-To Books</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li></ul></li>
 
 
-<li id="topnav-howto"><a class="" href="/cgi-bin/paper/howto/index.html">how to <br>&amp; workshops</a><ul><li class=""><a href="/cgi-bin/paper/workshops/index.html">Workshops &amp; Store Events</a></li>
-<li class=""><a href="/cgi-bin/paper/howto/easter-card-making.html">Card Making Ideas</a></li>
-<li class=""><a href="/cgi-bin/paper/howto/art_of_craft.html">Everyday Ideas</a></li>
-<li class=""><a href="/cgi-bin/paper/howto/ideas/3d_pumpkins.html">Holiday Ideas</a></li>
-<li class=""><a href="/cgi-bin/paper/howto/ideas/envelopes.html">Photo Ideas</a></li>
+<li id="topnav-howto"><a class="" href="/cgi-bin/paper/howto/index.html">how to <br>&amp; workshops</a><ul><li class="header"><a href="/cgi-bin/paper/workshops/index.html">Store Events</a></li>
+<li class="header"><a href="/cgi-bin/paper/howto/diy-wedding-invitations.html">How To's &amp; Projects</a></li>
+<li class=""><a href="/cgi-bin/paper/workshops/index.html">Workshops</a></li>
 <li class=""><a href="/cgi-bin/paper/howto/diy-wedding-invitations.html">DIY Invitations</a></li>
-<li class=""><a href="/cgi-bin/paper/howto/print_templates/ps-printable-invitations.html">Print Templates</a></li>
+<li class=""><a href="/cgi-bin/paper/workshops/in-store-demos.html">Weekly Demos</a></li>
+<li class=""><a href="/cgi-bin/paper/howto/card-making-101.html">Card Making Ideas</a></li>
+<li class=""><a href="/cgi-bin/paper/workshops/private-parties.html">Private Parties</a></li>
+<li class=""><a href="/cgi-bin/paper/howto/ideas/envaccordion.html">Everyday Ideas</a></li>
+<li class=""><a href="/cgi-bin/paper/locations/index.html">Store Locations</a></li>
+<li class=""><a href="/cgi-bin/paper/howto/ideas/3d_pumpkins.html">Holiday Ideas</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/howto/ideas/envelopes.html">Photo Ideas</a></li>
+<li class="header"><a href="/cgi-bin/paper/photo-contest.html">Contests</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/photo-contest.html">Holiday Crafting Contest</a></li>
+<li class="header"><a href="/cgi-bin/paper/howto/print_templates/ps-printable-invitations.html">Print at Home</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/howto/print_templates/ps-printable-invitations.html">Card Templates</a></li>
+<li class="header"><a href="/cgi-bin/paper/howto/video.html">Videos</a></li>
+<li class=""><a href="/cgi-bin/paper/howto/print_templates/labels.html">Label Templates</a></li>
+<li class=""><a href="/cgi-bin/paper/howto/video.html">How To Videos</a></li>
 <li class=""><a href="/cgi-bin/paper/howto/print_templates/ps-wedding-invitations.html">Wedding Templates</a></li>
-<li class=""><a href="/cgi-bin/paper/howto/print_templates/print-help.html">Print &amp; Wording Help</a></li>
-<li class=""><a href="/cgi-bin/paper/howto/video.html">Video</a></li>
+<li class=""><a href="http://www.youtube.com/user/papersourcevideo">YouTube</a></li>
+<li class=""><a href="/cgi-bin/paper/howto/print_templates/print-help.html">Printing Help</a></li>
+<li class="spacer"><a href="#">&nbsp;</a></li><li class=""><a href="/cgi-bin/paper/howto/print_templates/wording-help.html">Wording Help</a></li>
 </ul></li>
 
 
@@ -363,7 +454,7 @@ $0.00</a>
 			<div id="top-nav-border"></div>
 			
 			<div class="leftnav_item">
-			<a href="http://www.paper-source.com/cgi-bin/paper/security.html" class="strawberry_leftnav_main_chosen">policy</a>
+			<a href="http://www.paper-source.com/cgi-bin/paper/security.html" class="selected">policy</a>
 			</div>
 			<div class="leftnav_item">
 			<a href="http://www.paper-source.com/cgi-bin/paper/opt_out.html" class="leftnav_main">opt out</a>
@@ -374,7 +465,7 @@ $0.00</a>
 				<a href="http://www.paper-source.com/cgi-bin/paper/index.html" class="nav1">Home: </a>
 				<span class="nav2">Security &amp; Privacy Policy</span>
 			</div>
-<p class="acct_header">Paper Source Privacy Policy</p>
+<h1>Security &amp; Privacy Policy</h1>
 
 <p class="acct_info"><i>Please note that Paper Source changed its privacy policy as of February 2011.</i></p>
 
@@ -382,10 +473,9 @@ $0.00</a>
 
 <p class="acct_header">Information Sharing</p>
 
-<p class="acct_info"><b>Catalog</b>: If you sign up to receive catalogs, information on workshops, projects, local information, new merchandise, store openings or other Paper Source news, we may rent, share, sell or exchange your postal address with certain third parties we believe may be of interest to you. However, e-mail addresses are never shared with these third parties. <br><br>
+<p class="acct_info"><b>Catalog</b>: If you sign up to receive catalogs, information on workshops, projects, local information, new merchandise, store openings or other Paper Source news, we may rent, share, sell or exchange your postal address with certain third parties we believe may be of interest to you. However, e-mail addresses are never shared with these third parties.</p>
 
-<i>To opt out</i>: If you have your customer number (located on the back of your catalog) and would like to either opt out of having your information shared with these third parties, or opt out of receiving catalog mailings from Paper Source,
-please fill out this <a href="/cgi-bin/paper/opt_out.html" class="acct_link">form</a>. If you do not know your customer number you may notify us via <a href="mailto:customerservice@paper-source.com" class="acct_link">e-mail</a> or write us at the mailing address listed below.</p>
+<p class="acct_info">To opt out of receiving catalog mailings from Paper Source, please notify us via <a href="mailto:customerservice@paper-source.com" class="acct_link">e-mail</a> or write us at the mailing address listed below.  Allow 1-2 catalog cycles for processing.</p>
 
 <p class="acct_info"><b>Email</b>: When you sign up to receive emails from Paper Source we send regular communication regarding new merchandise, workshops, store openings or other Paper Source news. Your e-mail address is never shared or sold to these third parties. </p>
 
@@ -399,9 +489,10 @@ please fill out this <a href="/cgi-bin/paper/opt_out.html" class="acct_link">for
 here</a>. If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out. Please allow time for processing.
 </p>
 
-<p class="acct_info"><b>Online Advertising</b>: We contract with third-party service providers who help us place advertising messages on other websites. These providers may collect anonymous information about your visits to our website, and your interaction with our products and services. They may use this information to target advertising messages to you based on your interests. This anonymous information is collected through the use of a pixel tag, which is an industry standard technology used by most major websites. Your personal information is not shared with these vendors, as it is made anonymous before it reaches the provider. If you prefer not to receive relevant banner advertising, please visit the NAI (Network Advertising Initiative) website, which allows opt-out for all of its members' cookies from a central opt-out page. <a href="http://www.networkadvertising.org/" class="acct_link">Click here</a> to opt-out with NAI.</p>
+<!--<p class="acct_info"><b>Online Advertising</b>: We contract with third-party service providers who help us place advertising messages on other websites. These providers may collect anonymous information about your visits to our website, and your interaction with our products and services. They may use this information to target advertising messages to you based on your interests. This anonymous information is collected through the use of a pixel tag, which is an industry standard technology used by most major websites. Your personal information is not shared with these vendors, as it is made anonymous before it reaches the provider. If you prefer not to receive relevant banner advertising, please visit the NAI (Network Advertising Initiative) website, which allows opt-out for all of its members' cookies from a central opt-out page. <a href="http://www.networkadvertising.org/" class="acct_link">Click here</a> to opt-out with NAI.</p>-->
+<p class="acct_info"><b>Online Advertising</b>: We contract with third-party service providers who help us place advertising messages on other websites. We may directly collect and these providers may also collect anonymous information about your visits to our website, and your interaction with our products and services. This information may be used to target advertising messages to you based on your interests. This anonymous information is collected through the use of a cookie and pixel tag, which is an industry standard technology used by most major websites. Your personal information is not shared directly with these providers, as it is made anonymous by a vendor contracted with the provider before it reaches the provider's system. If you prefer not to receive relevant banner advertising from our third party service providers, please visit the NAI (Network Advertising Initiative) website, which allows opt-out for all of its members' cookies from a central opt-out page. <a href="http://www.networkadvertising.org/" class="acct_link">Click here</a> to opt-out with NAI. To opt-out of direct enhanced online advertising provided by Us, <a href="/cgi-bin/paper/opt_out.html" class="acct_link">click here</a>. 
 
-<p class="acct_info"><i>To opt out</i>: If you would like to request your information not be included in our behavioral advertising practices,  <a href="/cgi-bin/paper/opt_out.html" class="acct_link">click
+</p><p class="acct_info"><i>To opt out</i>: If you would like to request your information not be included in our behavioral advertising practices,  <a href="/cgi-bin/paper/opt_out.html" class="acct_link">click
 here</a>. If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out. Please allow time for processing.
 </p>
 
@@ -435,7 +526,7 @@ Paper Source Customer Service<br>
 410 N. Milwaukee<br>
 Chicago, IL 60654<br>
 
-<b>Hours</b>: Monday through Friday: 8am-8pm CST; Saturday: 8am-5pm CST</p>
+<b>Hours</b>: Monday through Friday: 8am-7pm CST</p>
 
 
 		</td>
@@ -473,7 +564,7 @@ Chicago, IL 60654<br>
 			&nbsp;|&nbsp; <a href="http://blog.paper-source.com" class="footer_link">Blog</a>
 			&nbsp;|&nbsp; <a href="/cgi-bin/paper/about/jobs.html" class="footer_link">Careers</a>
 			&nbsp;|&nbsp; <a href="/cgi-bin/paper/newsletter.html" class="footer_link">Catalog</a>
-			&nbsp;|&nbsp; <a href="/cgi-bin/paper/customer.html" class="footer_link">Customer Service</a>
+			&nbsp;|&nbsp; <a href="/cgi-bin/paper/customer.html" class="footer_link">Customer Service &amp; Returns</a>
 			&nbsp;|&nbsp; <a href="/cgi-bin/paper/locations/index.html" class="footer_link">Locations</a>
 			&nbsp;|&nbsp; <a href="/cgi-bin/paper/news/index.html" class="footer_link">News</a>
 			&nbsp;|&nbsp; <a href="/cgi-bin/paper/security.html" class="footer_link">Privacy</a>
@@ -516,28 +607,35 @@ Chicago, IL 60654<br>
 <script type="text/javascript">
 var basket_location = "https://www.paper-source.com/cgi-bin/paper/ord/basket.html";
 
-var login_location = "http://www.paper-source.com/cgi-bin/paper/login_create_account.html";              
-var logout_location = "http://www.paper-source.com/cgi-bin/paper/personalize/logout.html";
-
-
 </script>		
 
 <script type="text/javascript">
 var ajax_news_signup = "/cgi-bin/paper/newsletter/ajax/signup.html";
 
 </script>		
-		
-		
+
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-9081824-2");
-pageTracker._setDomainName(".paper-source.com");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9081824-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 
+'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; 
+s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+
+
+
 
 
 
