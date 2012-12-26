@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the photoephemeris.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618051419id_/http%3A//photoephemeris.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoephemeris.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226083239id_/http%3A//photoephemeris.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | The Photographer's Ephemeris
+# The Photographer's Ephemeris: Privacy Policy
 
-The Photographer's Ephemeris applications for iOS, Android, Windows, Mac and other devices and platforms, [thephotographersephemeris.com](http://thephotographersephemeris.com/) and [photoephemeris.com](http://photoephemeris.com/) (collectively, our "services"), are published and maintained by Crookneck Consulting LLC (referred to as "we", "us" and "our" below).
+The Photographer’s Ephemeris applications for iOS, Android, Windows, Mac and other devices and platforms, [thephotographersephemeris.com](http://thephotographersephemeris.com/) and [photoephemeris.com](http://photoephemeris.com/) (collectively, our “services”), are published and maintained by Crookneck Consulting LLC (referred to as “we”, “us” and “our” below).
 
 ## Your Privacy
 
@@ -55,4 +55,4 @@ If you have questions or concerns about this privacy policy, please email us at 
 
 ## Changes To This Policy
 
-Crookneck Consulting LLC reserves the right to change this policy at any time without notice to you. Please revisit this page from time to time to check for updates. Your continued use of our services following the posting of changes to this policy will constitute your acceptance of those changes.
+Crookneck Consulting LLC reserves the right to change this policy at any time without notice to you. Please revisit this page from time to time to check for updates. Your continued use of our services following the posting of changes to this policy constitutes your acceptance of those changes.
