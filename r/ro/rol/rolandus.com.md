@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rolandus.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619105043id_/http%3A//www.rolandus.com/site_info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rolandus.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226111120id_/http%3A//www.rolandus.com/site_info/privacy) for the most accurate reproduction.*
 
-# Roland U.S. - Privacy
-
-## Privacy
+# Privacy Policy | Roland U.S.
 
 Roland Corporation U.S. recognizes the importance of protecting the privacy of all information provided by users of www.rolandus.com. We created the following policy guidelines with a fundamental respect for our users' right to privacy and because we value our relationships with our users.
 
