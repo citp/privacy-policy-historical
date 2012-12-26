@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynamicsuser.net privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627220916id_/http%3A//dynamicsuser.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamicsuser.net privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226202313id_/http%3A//dynamicsuser.net/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Dynamics User Group
 
@@ -36,12 +36,6 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 We implement a variety of security measures to maintain the safety of your personal information when you access your personal information.
 
-### Do we use cookies?
-
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
-
-When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, city and country. As a member you're also asked optional to enter a your job description, birthday, gender, web address, blog, language, im address and bio. You may, however, visit our site anonymously.
-
 ### Do we disclose any information to outside parties?
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
@@ -64,31 +58,55 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
+### Are DynamicsUser.net using cookies? 
+
+Yes. In fact we use several cookies when you use the different areas of our website. 
+
+### What are cookies?
+
+Cookies are small files that a site or its service providers transfers to your computers hard drive through your web browser (if your browser setup allows it) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+### What are you using the cookies for?
+
+Cookies makes it easier to use the website, as we use the cookie to save information from visit to visit. We store information about your settings as well as your latest login, so that you don't have to enter it again. It also allows us to prevent that you see the same ads too many times. So it helps us improve our website and give our users a better experience when they visit our website. And I'm sure that we will use even more and more.
+
+### Is it possible to use the website without cookies?
+
+Besides the fact that you would have to login every time you visit, then is also integrated into a lot of the functions on the website, so some parts will no longer work.
+
+### How can I say no cookies from DynamicsUser.net?
+
+You cannot. If you don't like them and don't know another way around using them, then please don't use our website. And forget about using any other international websites, as you most likely will not find any who doesn't use cookies.
+
+### Why this cookie text?
+
+DynamicsUser.net is operating as a Danish registered company. And therefor we are required by both Danish and EU law to inform you about our use of cookies on our website.
+
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://dynamicsuser.net](http://dynamicsuser.net/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://dynamicsuser.net/terms-of-use.aspx>
 
 ### Your Consent
 
-By using our site, you consent to our [ web site privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our web site privacy policy.
 
 ### Changes to our Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below.
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes (if major changes), and/or update the Privacy Policy modification date below.
 
-This policy was last modified on June 24th 2009
+This policy was last modified on November 8th. 2012. Cookie policy updated.
 
 ### Contacting Us
 
 If you have any concerns or questions about our privacy policy or information collected on our sites, please [contact webmaster Erik P. Ernst](https://web.archive.org/contact.aspx) and he will reply promptly.
 
-If there are any questions regarding this privacy policy you may contact us 
+If there are any questions regarding this privacy policy you may contact us
 
 ### Site Information
 
 Dynamics User Group ApS  
-Sophienlund 104  
-Hilleroed 3400  
+Koervelvej 8  
+5500 Middelfart  
 Denmark  
 webmaster@dynamicsuser.net  
 http://dynamicsuser.net
