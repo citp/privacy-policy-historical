@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youthhotspot.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630045920id_/http%3A//www.youthhotspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthhotspot.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226052712id_/http%3A//www.youthhotspot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
