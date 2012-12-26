@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smbc-comics.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626042621id_/http%3A//www.smbc-comics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smbc-comics.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226043803id_/http%3A//www.smbc-comics.com/privacy.php) for the most accurate reproduction.*
 
 # Saturday Morning Breakfast Cereal
 
-**SMBC Theater Privacy Policy**   
+**SMBC Comics Privacy Policy**   
 **_Article I - Section 1_**
 
 SMBC does not collect information from its visitors without their knowledge. SMBC may request demographic and poll information from its visitors, but participation is completely optional. The personal information you supply, if you choose to do so, will not be given out or sold under any circumstances. 
