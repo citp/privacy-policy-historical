@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buysellads.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618080737id_/http%3A//buysellads.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buysellads.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226045752id_/http%3A//buysellads.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BuySellAds
 
@@ -40,7 +40,7 @@ BSA uses industry-standard data collection and encryption methodologies to ensur
 
 **Questions or Comments:**
 
-If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at [BSAm](mailto:BSA) or by U.S. mail to PO BOX 67, South Boston, MA 02127.
+If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at [support@buysellads.com](mailto:support@buysellads.com) or by U.S. mail to PO BOX 67, South Boston, MA 02127.
 
 Date last updated: March 21, 2012
 
