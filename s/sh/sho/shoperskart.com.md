@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoperskart.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624215851id_/http%3A//www.shoperskart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoperskart.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226133342id_/http%3A//www.shoperskart.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Shoperskart.com | Online Shopping India | Buy Mobiles, Cameras, Electronics, Accessories, Lifestyle Products ,online Shopping for Branded Shoes, Clothing & Accessories in India | Shoperskart.com
 
