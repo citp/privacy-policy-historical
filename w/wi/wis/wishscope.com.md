@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the wishscope.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513223902id_/http%3A//www.wishscope.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishscope.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226033845id_/http%3A//www.wishscope.com/privacy_policy) for the most accurate reproduction.*
 
-# WishScope - Privacy Policy ウィッシュスコープ
+# WishScope
 
-## Introduction
+### Introduction
 
 This personal information protection policy (hereinafter referred to as "Private Policy") is to explain how Zawatt Inc. (hereinafter referred to as "this company") handles a user's personal information.This company collects/uses/shares/ privacy information (as defined below) in accordance with the terms and conditions specified below to operate the service, "WishScope," which has functions such as posting/applying for/approving/ messaging personal advertisements (hereinafter referred to as "this service") and keeps such information under a strict security and confidentiality standard.
 
-## Definition of Privacy Information
+### Definition of Privacy Information
 
 The "personal information" included within the privacy information refers to "personal information" under the Private Information Protection Law, which is the information concerning a natural person, referring to the name, date of birth, address, telephone number, contact information and any other description included in said information which enables the specific individual to be identified.
 
 The "history information and characteristic information" included within the privacy information refers to information other than the "personal information” specified above, such as the services the users used, merchandise purchased, a history of the browsed pages and advertisements, search key words that the user searched, the time zone of the usage, the method of the use, the use environment, the user's IP address, cookie information, location information, and terminal identification information.
 
-## About the Purpose of the Use of the Personal Information
+### About the Purpose of the Use of the Personal Information
 
 This company will use the user's personal information for the following purposes:
 
@@ -29,7 +29,7 @@ This company will use the user's personal information for the following purposes
 
 
 
-## About the Sharing and Use Limitation of Personal Information
+### About the Sharing and Use Limitation of Personal Information
 
 Except in the cases set forth below, this company shall not use/share personal information beyond the extent required to accomplish the purpose of use without getting the prior consent of the users themselves.
 
@@ -44,7 +44,7 @@ Except in the cases set forth below, this company shall not use/share personal i
 
 
 
-## About the Safety Administration of the Personal Information
+### About the Safety Administration of the Personal Information
 
   1. This company will supervise the administration of the personal information appropriately to prevent any leak and/or damage of the personal information and to make sure the security of the personal information shall be maintained.
   2. Only authorized persons of this company shall handle the personal information, and only the extent necessary to execution their functions.
@@ -52,15 +52,15 @@ Except in the cases set forth below, this company shall not use/share personal i
 
 
 
-## About the Administration of Personal Information outside of this Service
+### About the Administration of Personal Information outside of this Service
 
 This company bears no responsibility for the use of personal information collected on Websites linked from this service, such as third party sites, or services which can be accessed via this service. Therefore, this company assumes neither the obligation nor the responsibility as to the regulations and activities of these enterprises or sites. Please confirm the privacy policies of each such site.
 
-## About the History Information and Characteristic Information
+### About the History Information and Characteristic Information
 
 This company acquires information, such as the functions and the services that the users used in this service, the content of postings, information used for communications between users, the history of browsed pages and advertisements, the time zone of the usages, the method of use, the use environment (including various settings information for the usage), the user's IP address, cookie information, location information, and terminal identification information, when the users use this company's or our business partners' (hereinafter referred to as "business partners") (including the source of information, advertisement sponsors, and advertisement recipients) services or browse pages thereof.
 
-## Purpose of the Use of the History Information and Characteristic Information
+### Purpose of the Use of the History Information and Characteristic Information
 
 This company uses the history information and characteristic information for the following main purposes:
 
@@ -74,11 +74,11 @@ This company uses the history information and characteristic information for the
 
 
 
-## About Security
+### About Security
 
 This company uses multiple tools (encryption, passwords, physical security method, etc.) to protect users from unjust access or leakage of the personal information, and adopts a strict security standard. However, please note that this company cannot make any guarantee concerning security.
 
-## Disclaimer of Liability
+### Disclaimer of Liability
 
 In the following cases, this company shall not be liable for the acquisition of the personal information by a third party.
 
@@ -88,24 +88,24 @@ In the following cases, this company shall not be liable for the acquisition of 
 
 
 
-## About Access, Disclosure, Correction, Deletion, and Suspension, etc.
+### About Access, Disclosure, Correction, Deletion, and Suspension, etc.
 
 This company shall handle the disclosure, correction, addition, deletion, suspension of usage, erasure, stoppage of third party disclosure and demand for notice of use purpose in accordance with the Personal Information Protection Law and other applicable laws. Users may confirm, correct or delete his/her personal information by logging onto this service. If a user wishes to disclose the personal information which this company possesses but does not display in this service, or if the user wishes to make a correction, addition or deletion of the user's personal information which this company possesses, or wishes to stop using the service, then please contact our customer support. In the case that a request is made by a user whose identification is not possible, or the request does not meet the conditions set forth in the Personal Information Protection Law, there may be cases where this company may not be able to accommodate your wishes. Your request may incur a fee, but it will not exceed the amount permissible by law. Personal information which becomes unnecessary for the above stated purposes shall be deleted at the discretion of this company. In principle, this company shall not disclose personal information other than the access log, etc.
 
-## About the Update of the Privacy Policy
+### About the Update of the Privacy Policy
 
 This company may revise this Privacy Policy in accordance with a change in laws or as a need arises to protect personal information. In that case, the latest Privacy Policy shall be posted on this service. Please check this page as you use this service and understand the Private Policy of this service.
 
-## Inquiries concerning Privacy Policy
+### Inquiries concerning Privacy Policy
 
 Please contact the following to make an inquiry concerning this company's Privacy Policy.
+
+Supplementary provision  
+Enacted on November 11, 2011
 
 Zawatt Inc., PIC of the Personal Information Management  
 VOYAGE Share Office BOAT, Shibuya First Place 8F  
 8-16 Shinsencho, Shibuya, Tokyo 150-0045  
 
 
-[Here is the inquiry form.](http://zawatt.com/contact/)
-
-Supplementary provision  
-Enacted on November 11, 2011
+[Here is the inquiry form.](http://zawatt.com/en/contact-us/)
