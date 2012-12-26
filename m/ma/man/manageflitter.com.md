@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the manageflitter.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501130716id_/http%3A//manageflitter.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manageflitter.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226103857id_/http%3A//manageflitter.com/content/privacy) for the most accurate reproduction.*
 
-# Privacy - ManageFlitter - Twitter Account Management
+# Privacy - ManageFlitter
 
-[< return home](http://manageflitter.com/)
-
-**ManageFlitter Privacy Policy**
+## ManageFlitter Privacy Policy
 
 This site is owned and operated by 89n.com Pty Ltd. Your privacy is of the utmost importance to us. At 89n, we want to make your experience online satisfying and safe. 
 
@@ -37,6 +35,8 @@ User who connect their Twitter account with 89n should be aware that this provid
 89n will use this API access to provide you with the functionality on our website. We will collect information from this API about your social graph to provide you with unfollow tools. We will collect information from this API about your Tweet stream to provide Tweet related tools. 
 
 ManageFlitter may republish public information you provide in another public forum. This includes information about your Twitter account to provide influence ranking tools. We will never republish private information publicly and will always abide by Twitter's rules regarding Third Party Developers. 
+
+Many people use our service to [answer the question who unfollowed me on Twitter?](http://manageflitter.com/twitter-unfollow/who-unfollowed-me) You can do this without a subscription to a paid account. 
 
 You can, at any time, revoke 89n's access to your Twitter account from your settings page on Twitter. You can also contact us and request we remove any information we have cached about you. 
 
