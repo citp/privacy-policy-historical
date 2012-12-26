@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the solveyourproblem.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503215031id_/http%3A//www.solveyourproblem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solveyourproblem.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226173451id_/http%3A//www.solveyourproblem.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - SolveYourProblem.com
 
-**Privacy Policy**
+Privacy Policy
 
-Thank you for visiting SolveYourProblem.com and for reviewing my Privacy Policy.
-
-This policy is on the collection of personal information:
+Thank you for visiting SolveYourProblem.com and for reviewing my Privacy Policy. This policy is on the collection of personal information:
 
 Unless you provide additional information, I collect only the following information as you browse through my web site:
 
@@ -14,7 +12,7 @@ Unless you provide additional information, I collect only the following informat
   * the operating system on your computing device;
   * the date and time of your visit;
   * the pages you visited; and
-  * the address of the Web site you visited immediately prior to visiting this site.
+  * the address of the Web site you visited immediately prior to visiting our site.
 
 
 
@@ -31,11 +29,12 @@ I use third-party advertising companies (ie: Google) to serve ads when you visit
 **Google / DoubleClick DART cookie:**
 
   * Google, as a third party vendor, uses cookies to serve ads on this site.
-  * Google’s use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to you based on your visit to my site and other sites on the Internet.
-  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to you based on your visit to my site and other sites on the Internet.
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 
 
+  
 This site is owned by Launch 3, LLC and is copyrighted and protected by various U.S. Laws. Violations are subject to criminal prosecution in federal court.
 
-For site security purposes and to ensure that this service remains available to all users, we employ software programs to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+For site security purposes and to ensure that this service remains available to all users, we employ software programs to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
