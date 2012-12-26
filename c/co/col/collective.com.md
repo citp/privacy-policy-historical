@@ -1,39 +1,33 @@
-> *The following text is extracted and transformed from the collective.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605025547id_/http%3A//collective.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collective.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227005927id_/http%3A//www.collective.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Collective | The Audience Engine™
 
-This Privacy Policy describes how we gather information from you when you visit the web sites of Collective and when we serve advertisements on our network of web sites, why we collect this information, and how we may use and share this information. For more details on our practices, [contact us](mailto:contactus@collective.com?subject=Privacy).
-
+This Privacy Policy describes how we gather information from you when you visit the web sites of Collective and when we serve advertisements on our network of web sites, why we collect this information, and how we may use and share this information. For more details on our practices, [contact us](mailto:contactus@collective.com?subject=Privacy).  
 If you'd like to opt-out from having Collective collect your Non-PII (defined below) in connection with tailoring ads on our network of web sites,[please click here](http://optout.collective-media.net/optout?). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor online advertisement campaigns.
 
 Non-Personally Identifiable Information (“Non-PII”)
 
-  
-Collective may collect Non-PII while you are visiting a Collective web site or when we serve advertisements on our network of web sites. This anonymous data includes, but not limited to, information such as your IP address, web pages which have been viewed by you, date and time, domain type, and your responses to an advertisement delivered by us or a third party advertising technology vendor. This type of information may be collected using different types of technologies, such as cookies and pixels. This information is not combined with PII. You may elect not to allow us to use non-PII by following the Opt-Out procedures set forth below.
+ Collective may collect Non-PII while you are visiting a Collective web site or when we serve advertisements on our network of web sites. This anonymous data includes, but not limited to, information such as your IP address, web pages which have been viewed by you, date and time, domain type, and your responses to an advertisement delivered by us or a third party advertising technology vendor. This type of information may be collected using different types of technologies, such as cookies and pixels. This information is not combined with PII. You may elect not to allow us to use non-PII by following the Opt-Out procedures set forth below.
 
 Personally Identifiable Information (“PII”)
 
-  
-PII is information that identifies you or can be used to identify, contact, or locate you, such as your name, address, email address, and telephone number. We do not ask for PII other than as outlined below for business purposes. We don’t collect PII via our corporate Web site, [www.collective.com](http://www.collective.com/ "www.collective.com") unless you choose to provide it to us – for example, by sending us your PII in an email.
+ PII is information that identifies you or can be used to identify, contact, or locate you, such as your name, address, email address, and telephone number. We do not ask for PII other than as outlined below for business purposes. We don’t collect PII via our corporate Web site, [www.collective.com](http://www.collective.com/ "www.collective.com") unless you choose to provide it to us – for example, by sending us your PII in an email.
 
 Some of the Collective partner websites may ask people to register and provide PII. None of this PII is combined with non-PII and/or used by Collective for our anonymous ad serving. Collective is committed to making sure that our partners provide notice and choice to all consumers.
 
 Information that is obtained from Collective.com
 
-At Collective.com, we collect PII only when you choose to provide it to us. For example, if you choose to provide us with your PII in an email, we will use it for the reason it was provided. We also collect Non-PII via Collective.com, and use this information to help administer Collective.com.
+ At Collective.com, we collect PII only when you choose to provide it to us. For example, if you choose to provide us with your PII in an email, we will use it for the reason it was provided. We also collect Non-PII via Collective.com, and use this information to help administer Collective.com.
 
 Sensitive Data Segments
 
-Collective uses non-sensitive health-related data segments to serve or optimize advertisements. In order to provide transparency around these data segments, we have provided a list [here](http://collective.com/about/oba-compliance).
+ Collective uses non-sensitive health-related data segments to serve or optimize advertisements. In order to provide transparency around these data segments, we have provided a list [here](http://collective.com/about/oba-compliance).
 
 How We Use Your Information
 
-  
-Collective may use your non-PII to better target advertisements and other content to individuals in an effort to create a more relevant experience for each person. The non-PII is also used to predict responses to advertisements, to help determine which ads perform best and which content is most appropriate for different individuals, and to provide aggregate reporting to advertisers and clients and for our internal purposes.
+ Collective may use your non-PII to better target advertisements and other content to individuals in an effort to create a more relevant experience for each person. The non-PII is also used to predict responses to advertisements, to help determine which ads perform best and which content is most appropriate for different individuals, and to provide aggregate reporting to advertisers and clients and for our internal purposes.
 
-This information may also be combined with information from other sources, and shared with our affiliates and partners for similar use.
-
-We may retain information used to provide you better tailored ads up to 30 days. Aggregate reports generated from such information may be kept longer.
+ This information may also be combined with information from other sources, and shared with our affiliates and partners for similar use. We may retain information used to provide you better tailored ads up to 30 days. Aggregate reports generated from such information may be kept longer.
 
 We may share this information with third parties who provide administrative services (and they are required to maintain the confidentiality of the information), as well as pursuant to a court order or to law enforcement or government officials as we deem necessary or appropriate.
 
@@ -55,11 +49,11 @@ Collective does not knowingly collect PII from children under the age of 13 thro
 
 Links to Other Web Sites
 
-This Privacy Policy applies only to our web sites and not to any third party sites. We suggest contacting those sites directly for information on their privacy, security, data collection and distribution policies.
+ This Privacy Policy applies only to our web sites and not to any third party sites. We suggest contacting those sites directly for information on their privacy, security, data collection and distribution policies.
 
 Security
 
-We have reasonable security measures in place intended to protect against the loss, misuse or alteration of any personal information collected. This includes, but is not limited to the use of firewalls and encryption. However, we are unable to guarantee that the security measures we take will not be penetrated or compromised or that your information will remain secure under all circumstances.
+ We have reasonable security measures in place intended to protect against the loss, misuse or alteration of any personal information collected. This includes, but is not limited to the use of firewalls and encryption. However, we are unable to guarantee that the security measures we take will not be penetrated or compromised or that your information will remain secure under all circumstances.
 
 Changes to Our Privacy Policy
 
