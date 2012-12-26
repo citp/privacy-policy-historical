@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619035135id_/http%3A//site.covestor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226105646id_/http%3A//site.covestor.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Covestor
 
-### Last updated 12 July 2011
+### Last updated 4 July 2012
 
-Covestor Limited have adopted this policy with recognition that protecting the privacy and security of the personal information we obtain about our members, clients and model managers is an important responsibility. We also know that you expect us to service you in an accurate and efficient manner. To do so, we must collect and maintain certain personal information about you.
+Covestor Limited has adopted this policy with recognition that protecting the privacy and security of the personal information we obtain about our members, clients and model managers is an important responsibility. We also know that you expect us to service you in an accurate and efficient manner. To do so, we must collect and maintain certain personal information about you.
 
-This policy outlines the types of information we collect about you and how we use and safeguard that information. If you have any questions or concerns regarding this statement, you should contact  [ Customer Service ](http://site.covestor.com/contact/email-us?c=SEC&d=&isPress=false) .
+This policy outlines the types of information we collect about you and how we use and safeguard that information. If you have any questions or concerns regarding this statement, you should contact  [ Customer Services ](https://site.covestor.com/contact/email-us?c=SEC&d=ONM&isPress=false) .
 
   
 
@@ -21,7 +21,14 @@ This policy outlines the types of information we collect about you and how we us
   
 
 
-#### 2\. What Information We Disclose
+#### 2\. Information Collected From All Visitors
+
+We collect two types of information from our users. The first is information that users provide through optional, voluntary submissions such as opening an account or requests to receive information from Covestor. The second is information that we gather through aggregated tracking information derived while you are browsing the [covestor.com](http://covestor.com/) website. Anonymous information will be gathered in our computer system log files to allow us to better tailor our content to readers´ needs, help us better understand the demographics of our audience and improve our products. Under no circumstances do we divulge any information about an individual user to a third party. 
+
+  
+
+
+#### 3\. What Information We Disclose
 
   1. We do not disclose the non-public personal information we collect about our clients and publishers to anyone except:
 
@@ -39,7 +46,7 @@ This policy outlines the types of information we collect about you and how we us
   
 
 
-#### 3\. Security of Your Information
+#### 4\. Security of Your Information
 
   1. We restrict access to your non-public personal information to those employees who need to know that information to service your account.
 
@@ -51,7 +58,7 @@ This policy outlines the types of information we collect about you and how we us
   
 
 
-#### 4\. Communications
+#### 5\. Communications
 
   1. We will send you communications related to the servicing of your account when necessary to do so. These include but are not restricted to client take-on instructions and order confirmations.
 
@@ -65,7 +72,7 @@ This policy outlines the types of information we collect about you and how we us
   
 
 
-#### 5\. Web Site Usage
+#### 6\. Web Site Usage
 
   1. When you visit our website we use “cookies” or other similar web tools to enhance the user experience. These tools enable us to maintain your web session while you browse the site as well as helping us provide you with a better, more personalized experience. Our cookies do not contain any personally identifiable information.
 
@@ -75,7 +82,7 @@ This policy outlines the types of information we collect about you and how we us
   
 
 
-#### 6\. Amending Your Account Information
+#### 7\. Amending Your Account Information
 
   1. We are committed to keeping accurate and up-to-date records to help ensure the integrity of the services we offer. If you identify an inaccuracy, or need to make a change to it, please either update the information if you are able directly on our website or alternatively contact Customer Service.
 
@@ -85,7 +92,7 @@ This policy outlines the types of information we collect about you and how we us
   
 
 
-#### 7\. Changes to our Privacy Policy or Relationship with You
+#### 8\. Changes to our Privacy Policy or Relationship with You
 
   1. Our policy about obtaining and disclosing information may change from time to time.
 
