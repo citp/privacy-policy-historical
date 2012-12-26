@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashiecommerce.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515163832id_/http%3A//cashiecommerce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashiecommerce.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226041026id_/http%3A//cashiecommerce.com/privacy) for the most accurate reproduction.*
 
 # Cashie Commerce Privacy Policy
 
