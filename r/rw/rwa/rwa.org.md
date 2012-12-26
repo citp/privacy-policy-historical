@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rwa.org privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628005236id_/http%3A//www.rwa.org/cs/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rwa.org privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226231447id_/http%3A//www.rwa.org/cs/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Romance Writers of America
 
