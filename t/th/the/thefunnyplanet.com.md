@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefunnyplanet.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620155918id_/http%3A//www.thefunnyplanet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefunnyplanet.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227004849id_/http%3A//thefunnyplanet.com/privacy) for the most accurate reproduction.*
 
 # Home - thefunnyplanet.com
 
