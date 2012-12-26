@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listbuck.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523232646id_/http%3A//www.listbuck.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listbuck.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226044134id_/http%3A//listbuck.com/privacy.php) for the most accurate reproduction.*
 
 # ListBuck: The Credit Mailer with Cash Rewards
 
@@ -6,32 +6,53 @@
 ---  
 |    
 ---  
-EARN 2.5% DAILY  
-150% IN 60 DAYS!!!  
-Do Nothing, Easy&Fun  
-Lock InNow For Early  
-[ **Click Here Now!**](https://web.archive.org/web/20120523232646id_/http%3A//www.listbuck.com/tr1.php?id=2981)  
+Free to join!!  
+Exciting PreLaunch  
+The Most Innovative  
+Powerhouse Advert  
+[ **Click Here Now!**](https://web.archive.org/web/20121226044134id_/http%3A//listbuck.com/tr1.php?id=3220)  
 |    
 ---  
-Make $1000S/Month  
-No Cost Opportunity  
-Simply sign up and  
-start earning Great.  
-[ **Click Here Now!**](https://web.archive.org/web/20120523232646id_/http%3A//www.listbuck.com/tr1.php?id=2966)  
+How Refreshing!!!  
+A New Concept  
+In Social Media   
+aWorldOfOpportunity  
+[ **Click Here Now!**](https://web.archive.org/web/20121226044134id_/http%3A//listbuck.com/tr1.php?id=3235)  
 |    
 ---  
-The best internet  
-investment. Earn a   
-XXX% daily profit!!!  
-Vasco Forex  
-[ **Click Here Now!**](https://web.archive.org/web/20120523232646id_/http%3A//www.listbuck.com/tr1.php?id=2935)  
+Get Paid 2 Click  
+Paying since 2007  
+Multiple ways 2 earn  
+Unlimited referrals  
+[ **Click Here Now!**](https://web.archive.org/web/20121226044134id_/http%3A//listbuck.com/tr1.php?id=3225)  
 |    
 ---  
-EARLY Launch!  
-150% IN 60 DAYS!!!  
-EARNING 2.5% DAILY!  
-Lock InNow For Early  
-[ **Click Here Now!**](https://web.archive.org/web/20120523232646id_/http%3A//www.listbuck.com/tr1.php?id=2985)  
+$25 Per Referral  
+Put up to 5 Sites on  
+Auto-Pilot, 24 Hours  
+Daily For You!  
+[ **Click Here Now!**](https://web.archive.org/web/20121226044134id_/http%3A//listbuck.com/tr1.php?id=3230)  
+|    
+---  
+100 FREE Leads!  
+FREE to Join!  
+Do Not Have To Buy  
+Anything! Daily Pay!  
+[ **Click Here Now!**](https://web.archive.org/web/20121226044134id_/http%3A//listbuck.com/tr1.php?id=3224)  
+|    
+---  
+Fast Easy Traffic  
+Get Your Ads Seen!  
+Now Faster, Easier!  
+Better than ever!  
+[ **Click Here Now!**](https://web.archive.org/web/20121226044134id_/http%3A//listbuck.com/tr1.php?id=3234)  
+|    
+---  
+300% In Profits  
+3% Daily, 60 Days  
+Passive Income  
+No Sponsoring Needed  
+[ **Click Here Now!**](https://web.archive.org/web/20121226044134id_/http%3A//listbuck.com/tr1.php?id=3226)  
 Privacy Policy
 
 What information do we collect?  
