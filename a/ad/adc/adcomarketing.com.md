@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adcomarketing.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627035721id_/http%3A//www.adcomarketing.com/content.aspx%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adcomarketing.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226231310id_/http%3A//www.adcomarketing.com/content.aspx%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy for Adco Marketing - Promotional Items & Promotional Products
 
