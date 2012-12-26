@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the valenciacollege.edu privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530172759id_/http%3A//valenciacollege.edu/AboutUs/whoweare/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valenciacollege.edu privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226022847id_/http%3A//valenciacollege.edu/privacy) for the most accurate reproduction.*
 
-# Who We Are - Vision, Values & Mission - Valencia College
+# Privacy - Valencia College
 
 |  |   | 
-
-[Who We Are
-
-](https://web.archive.org/aboutus/whoweare/)
 
 ### Privacy Statement 
 
@@ -17,7 +13,7 @@
 >  [04-38.04]**  
 > 
 
-**Online Privacy Statement** The policy of Valencia College is to respect the privacy of all web site visitors to the extent permitted by law. This online privacy statement is intended to inform you of the ways in which this web site collects information, the uses to which that information will be put, and the ways in which we will protect any information you choose to provide us. 
+**Online Privacy Statement** The policy of Valencia College is to respect the privacy of all Valencia proprietary web site visitors to the extent permitted by law. This online privacy statement is intended to inform you of the ways in which these web sites collect information, the uses to which that information will be put, and the ways in which we will protect any information you choose to provide us. 
 
 There are four types of information that this site may collect during your visit: network traffic logs, web visit logs, cookies, and information voluntarily provided by you. 
 
@@ -31,15 +27,13 @@ Valencia College web sites routinely collect and store information from online v
 Cookies are pieces of information stored by your web browser on behalf of a web site and returned to the web site on request. This site may use cookies for two purposes: to carry data about your current session at the site from one web page to the next, and to identify you to the site between visits. If you prefer not to receive cookies, you may turn them off in your browser, or may set your browser to ask you before accepting a new cookie. Some pages may not function properly if the cookies are turned off. Unless otherwise notified on this site, we will not store data, other than for these two purposes, in cookies. Cookies remain on your computer, and accordingly we neither store cookies on our computers nor forward them to any external parties. Unless otherwise notified on this site, we do not use cookies to track your movement among different web sites and do not exchange cookies with other entities. 
 
 **Information Voluntarily Provided by You**  
-In the course of using this web site, you may choose to provide us with information to help us serve your needs. For example, you may send us electronic mail (through a mailer or a web form) to request information, you may sign up for a mailing list, or you may send us your address so we may send you an application or other material. Any personally identifiable information you send us will be used only for the purpose indicated. Requests for information will be directed to the appropriate staff to respond to the request, and may be recorded to help us update our site to better respond to similar requests. We will not sell, exchange or otherwise distribute your personally identifiable information without your consent, except to the extent required by law. We do not retain the information longer than necessary for normal operations. Each web page requesting information discloses the purpose of that information. If you do not wish to have the information used in that manner, you are not required to provide it. Please contact the person listed on the specific page, or listed below, with questions or concerns on the use of personally identifiable information. 
+In the course of using these web sites, you may choose to provide us with information to help us serve your needs. For example, you may send us electronic mail (through a mailer or a web form) to request information, you may sign up for a mailing list, or you may send us your address so we may send you an application or other material. Any personally identifiable information you send us will be used only for the purpose indicated. Requests for information will be directed to the appropriate staff to respond to the request, and may be recorded to help us update our site to better respond to similar requests. We will not sell, exchange or otherwise distribute your personally identifiable information without your consent, except to the extent required by law. We do reserve the right to work with third-party vendors, to host this information solely for the purposes intended by Valencia College and in accordance with this policy. We do not retain the information longer than necessary for normal operations. Each web page requesting information discloses the purpose of that information. If you do not wish to have the information used in that manner, you are not required to provide it. Please contact the person listed on the specific page, or listed below, with questions or concerns on the use of personally identifiable information. 
 
 Valencia College web sites and subsites may provide links to other World Wide Web sites or resources. We do not control these sites and resources, do not endorse them, and are not responsible for their availability, content, or delivery of services. In particular, external sites are not bound by the college's online privacy policy; they may have their own policies or none at all. Often you can tell you are leaving a Valencia College web site by noting the URL of the destination site. 
 
 If you have questions, please contact the Vice President for Policy and General Counsel via email [policy@valenciacollege.edu](mailto:policy@valenciacollege.edu?Subject=Regarding%20Privacy%20Statement) or telephone (407) 582-3433. 
 
-Online Privacy, Access and Security [04-38.04] Revision: February 26, 2002
-
-TOP  
+Online Privacy, Access and Security [04-38.04] Revision: July 10, 2012  
   
 ---|---  
 | 
