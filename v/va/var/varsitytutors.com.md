@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the varsitytutors.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625202237id_/http%3A//www.varsitytutors.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the varsitytutors.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226050135id_/http%3A//www.varsitytutors.com/privacy) for the most accurate reproduction.*
 
-# Tutoring: Top-Rated Tutors
+# Privacy Policy
 
-## Effective: June 8, 2012
+## Privacy Policy
+
+### Effective: June 8, 2012
+
+Our leadership and management work tirelessly to connect students and parents to the best private tutors. Read more about our exceptional team below. 
 
 This Privacy Policy governs the manner in which Varsity Tutors LLC (“Varsity Tutors”) collects, uses, maintains and discloses information collected from users (each, a “User”) of its www.varsitytutors.com Site and any derivative or affiliated Sites on which this Privacy Policy is posted (collectively, the “Site”). Please note that this Privacy Policy covers Varsity Tutors’ practices regarding information collected from its Site. 
 
@@ -109,3 +113,5 @@ Varsity Tutors
 St. Louis, MO 63105  
 Email: privacy [at] varsitytutors.com  
 
+
+## **98%** of our customers would recommend us to friends and family!
