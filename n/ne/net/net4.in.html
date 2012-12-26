@@ -1,14 +1,15 @@
-<!--The following is the downloaded HTML source of the net4.in privacy policy that was archived on 2012-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621003509id_/http%3A//www.net4.in/aspx/general/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the net4.in privacy policy that was archived on 2012-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121226230712id_/http%3A//www.net4.in/aspx/general/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
 	Privacy Policy - Net4
-</title>
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/common/scripts/jquery-1.4.4.min.js"></script>
+</title><link type="text/css" href="/common/styles/directnewstyle.css" rel="stylesheet"><link type="text/css" href="/common/styles/direct-master.css" rel="stylesheet">
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/common/scripts/jquery.tools.min.js"></script>
+    <script type="text/javascript" src="/common/scripts/jquery-1.4.4.min.js"></script>
     <script type="text/javascript" language="javascript" src="/common/scripts/modalWindow.js"></script>
     <script type="text/javascript" language="javascript" src="/common/scripts/modelWindow.js"></script>
-    <link type="text/css" href="/common/styles/directnewstyle.css" rel="stylesheet"><link type="text/css" href="/common/styles/direct-master.css" rel="stylesheet">
-    <script type="text/javascript" src="/common/scripts/jquery.tools.min.js"></script>
+    <script type="text/javascript" src="/common/scripts/chrome.js"></script>
+
     <!--[if lte IE 6  ]>	
         <script src="common/js/DD_belatedPNG.js" type="text/javascript" charset="utf-8"></script> 
         <script>  
@@ -16,37 +17,353 @@
     <![endif]-->
     
 
-    <!-- Google-analytics -->
+    
+    <script language="javascript" type="text/javascript">
+        $(document).ready(function () {
+
+            // Hiding all the testimonials, except for the first one.
+            $('#testimonials li').hide().eq(0).show();
+
+            // A self executing function that loops through the testimonials:
+            (function showNextTestimonial() {
+
+                // Wait for 7.5 seconds and hide the currently visible testimonial:
+                $('#testimonials li:visible').delay(7500).fadeOut('slow', function () {
+
+                    // Move it to the back:
+                    $(this).appendTo('#testimonials ul');
+
+                    // Show the next testimonial:
+                    $('#testimonials li:first').fadeIn('slow', function () {
+
+                        // Call the function again:
+                        showNextTestimonial();
+                    });
+                });
+            })();
+
+        });
+
+</script>
+
+<script language="javascript" type="text/javascript">
+    $(document).ready(function () {
+
+        // Hiding all the testimonials, except for the first one.
+        $('#testimonials2 li').hide().eq(0).show();
+
+        // A self executing function that loops through the testimonials:
+        (function showNextTestimonial() {
+
+            // Wait for 7.5 seconds and hide the currently visible testimonial:
+            $('#testimonials2 li:visible').delay(5500).fadeOut('slow', function () {
+
+                // Move it to the back:
+                $(this).appendTo('#testimonials2 ul');
+
+                // Show the next testimonial:
+                $('#testimonials2 li:first').fadeIn('slow', function () {
+
+                    // Call the function again:
+                    showNextTestimonial();
+                });
+            });
+        })();
+    });
+</script>
+
+<!--live chat js-->
+    <script type="text/javascript">
+        function openWin() {
+            myWindow = window.open('http://202.71.133.138:6060/webchat/start.jsp?workgroup=sales@workgroup.chat.net4.in&location=http:// 202.71.133.138:6060/webchat/', 'net4indialivechat', 'width=300,height=420');
+            myWindow.focus();
+        }
+</script>
+  <script type="text/javascript">
+      (function (i, s, o, g, r, a, m) {
+          i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+              (i[r].q = i[r].q || []).push(arguments)
+          }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+      })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-4452641-1');
+    ga('send', 'pageview');
+	 ga('require', 'ecommerce', '//www.google-analytics.com/plugins/ua/ecommerce.js');
+     
+</script>
+<!-- End Google Analytics -->
     <script type="text/javascript">
 
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-4452641-1']);
-        _gaq.push(['_trackPageview']);
+        function GetOrderCode() {
+            var OrderID;
+            try {
 
-        (function () {
-            var ga = document.createElement('script');
-            ga.type = 'text/javascript';
-            ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(ga, s);
-        })();
+                var action = location.protocol + '//' + location.host + "/Browse.aspx/GenerateOrder";
+                var param = "{'ordercode': '" + OrderID + "'}";
+                $.ajax(
+             {
+                 type: "POST",
+                 url: action,
+                 async: false,
+                 contentType: "application/json; charset=utf-8",
 
-    </script>
+                 dataType: "json",
+                 success: AjaxSucceeResult,
+                 error: AjaxFailedResult
+             });
+
+                return OrderID;
+            }
+            catch (e) {
+
+            }
+            function AjaxSucceeResult(result) {
+
+                OrderID = jQuery.parseJSON(result.d);
+
+            }
+
+            function AjaxFailedResult(result) {
+               
+
+            }
+        }
+     
+        function UnloadEvent() {
+
+            
+
+            if ((window.event.clientX < 0) || (window.event.clientY < 0) || (window.event.clientY < -80) || (window.event.altKey == true || window.event.ctrlKey == true)) {
+                var OrderCode = null;
+
+                OrderCode = GetOrderCode();
+                
+                if (OrderCode != null) {
+                    var stat = GetInfo(OrderCode);
+                    if (stat == 2) {
+                        ProcessData(OrderCode);
+                    }
+                }
+            }
+        }
+
+        function GetInfo(OrderCode) {
+
+            var data;
+
+            try {
+
+                var action = location.protocol + '//' + location.host + "/Browse.aspx/GetInfo";
+                var param = "{'ordercode': '" + OrderCode + "'}";
+                $.ajax(
+             {
+                 type: "POST",
+                 url: action,
+                 async: false,
+                 contentType: "application/json; charset=utf-8",
+                 data: param,
+                 dataType: "json",
+                 success: AjaxSucceeded,
+                 error: AjaxFailed
+             });
+
+                return data;
+            }
+            catch (e) {
+
+            }
+            function AjaxSucceeded(result) {
+
+                data = jQuery.parseJSON(result.d);
+
+            }
+
+            function AjaxFailed(result) {
+
+           
+            }
+
+        }
+
+        function ProcessData(OrderCode) {
+            var orderData;
+            var itemdata;
+            var ucurrency;
+            try {
+     
+                var someSession = OrderCode;
+                if (someSession.length > 0 && someSession != 0) {
+
+                    GetOrder(someSession);
+
+                    GetOrderItemLine(someSession);
+                    GetCurrency('');
+                    
+                    if (orderData.length > 0 && itemdata.length > 0) {
+                       
+                        ga('ecommerce:addTransaction', {
+                            id: orderData[0]['TRANSACTIONID'],
+                            affiliation: 'Direct',
+                            revenue: parseFloat(parseFloat(orderData[0]['AMOUNT']) + parseFloat(orderData[0]['TAX'])),
+                            shipping: orderData[0]['SHIPPING'],
+                            tax: parseFloat(orderData[0]['TAX'])
+                        });
+                        for (i = 0; i < itemdata.length; i++) {
+
+                            ga('ecommerce:addItem', {
+                            id: itemdata[i]['TRANSACTIONID'],
+                            sku: itemdata[i]['SKU'],
+                            name: itemdata[i]['PRODUCT'],
+                            category:  itemdata[i]['VARIATION'],
+                            price: parseFloat(itemdata[i]['UNIT']),
+                            quantity: parseInt(itemdata[i]['QUANTITY'])
+                              });
+
+                        }
+
+                    ga('ecommerce:send');
+                    ga('ecommerce:clear');
+
+                    }
+
+                }
+            }
+            catch (err) { }
+
+            function GetOrder(Ordercode) {
+
+                var data;
+                try {
+
+                    var action = location.protocol + '//' + location.host + "/Browse.aspx/Getorder";
+                    var param = "{'ordercode': '" + Ordercode + "'}";
+                    $.ajax(
+             {
+                 type: "POST",
+                 url: action,
+                 async: false,
+                 contentType: "application/json; charset=utf-8",
+                 data: param,
+                 dataType: "json",
+                 success: AjaxSucceeded,
+                 error: AjaxFailed
+             });
+
+                    return data;
+                }
+                catch (e) {
+
+                }
+                function AjaxSucceeded(result) {
+
+                    data = jQuery.parseJSON(result.d);
+                    orderData = jQuery.parseJSON(result.d);
+                }
+
+                function AjaxFailed(result) {
+
+
+                }
+
+            }
+            function GetOrderItemLine(Ordercode) {
+
+                var data;
+                try {
+
+                    var action = location.protocol + '//' + location.host + "/Browse.aspx/GetorderItem";
+                    var param = "{'ordercode': '" + Ordercode + "'}";
+                    $.ajax(
+             {
+                 type: "POST",
+                 url: action,
+                 async: false,
+                 contentType: "application/json; charset=utf-8",
+                 data: param,
+                 dataType: "json",
+                 success: AjaxSucceeded,
+                 error: AjaxFailed
+             });
+
+                    return data;
+                }
+                catch (e) {
+
+                }
+                function AjaxSucceeded(result) {
+
+
+                    itemdata = jQuery.parseJSON(result.d);
+                }
+
+                function AjaxFailed(result) {
+
+
+                }
+
+            }
+
+            function GetCurrency(Ordercode) {
+
+                var data;
+                try {
+
+                    var action = location.protocol + '//' + location.host + "/Browse.aspx/GetCurrency";
+                    var param = "{'ordercode': '" + Ordercode + "'}";
+                    $.ajax(
+             {
+                 type: "POST",
+                 url: action,
+                 async: false,
+                 contentType: "application/json; charset=utf-8",
+                 data: param,
+                 dataType: "json",
+                 success: AjaxSucceeded,
+                 error: AjaxFailed
+             });
+
+                    return data;
+                }
+                catch (e) {
+
+                }
+                function AjaxSucceeded(result) {
+
+
+                    ucurrency = jQuery.parseJSON(result.d);
+                }
+
+                function AjaxFailed(result) {
+
+
+                }
+
+            }
+           
+
+        }
+</script>
 <meta name="description" content="Net4 privacy policy includes different sections. We have made our privacy policies easy to read and easy find"><meta name="keywords" content="Privacy Policy"></head>
 <body>
-    <form method="post" action="privacy-policy.aspx" id="FormForMe">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIBD2QWIAIDDw8WAh4HVmlzaWJsZWhkFgICAQ8PFgIeBFRleHQFBFVzZXJkZAIHDw8WAh8BBQkzOTg5IDE0MTRkZAILDw8WAh8BBQgoKzkxIDExKWRkAg0PDxYEHwEFC015IENhcnQgKDApHgdFbmFibGVkaGRkAg8PDxYCHghJbWFnZVVybAUaL2NvbW1vbi9pbWFnZXMvVVNEZmxhZy5naWZkZAIRDxBkZBYBAgFkAhMPFgIfAGhkAhcPFgIeB29uY2xpY2sFGXJldHVybiBwb3B1bGF0ZU1lc3NhZ2UoKTtkAhkPFgIfBAUZcmV0dXJuIHBvcHVsYXRlTWVzc2FnZSgpO2QCGw8WAh8EBRlyZXR1cm4gcG9wdWxhdGVNZXNzYWdlKCk7ZAIdDxYCHwQFGXJldHVybiBwb3B1bGF0ZU1lc3NhZ2UoKTtkAh8PDxYCHwEFCCgrOTEgMTEpZGQCIQ8PFgIfAQUSMzk4OSAxNDE0IEV4dC4gMjQzZGQCIw8PFgIfAQUIKCs5MSAxMSlkZAIlDw8WAh8BBQkzOTg5IDE0MTRkZAInDxYCHwBoZGQGS/i0lx4BtdIfQ/cfqucS+2ZFbqTUtinwR6MAruEcWQ==">
+<!--Live Chat-->
+<div id="l-chat"> 
+        <a href="#" onclick="openWin()"><img src="/common/images/livechat.jpg" alt="Live Chat" border="0"></a> 
+</div>
+<!--/Live Chat-->
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDQKnupSkDQLu7bOlCwLwys+zDAKc14GwCwLXv+n5BQKytaP2AgKB5cquDQLnrI+ZDwKdtfVgAsi/xNUOAt7BgMoHArK668ADAt21pjQLZXH09I6x3ckGJWv2LD6GoiLJhUmtChPbkMHtX+4RZw==">
+  <form method="post" action="privacy-policy.aspx" id="FormForMe">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIBD2QWIAIDDw8WAh4HVmlzaWJsZWhkFgICAQ8PFgIeBFRleHQFBFVzZXJkZAIHDw8WAh8BBQkzOTg5IDE0MTRkZAILDw8WAh8BBQsoVG9sbCBGcmVlKWRkAg0PDxYEHwEFC015IENhcnQgKDApHgdFbmFibGVkaGRkAg8PDxYCHghJbWFnZVVybAUaL2NvbW1vbi9pbWFnZXMvVVNEZmxhZy5naWZkZAIRDxBkZBYBAgFkAhMPFgIfAGhkAhcPFgIeB29uY2xpY2sFGXJldHVybiBwb3B1bGF0ZU1lc3NhZ2UoKTtkAhkPFgIfBAUZcmV0dXJuIHBvcHVsYXRlTWVzc2FnZSgpO2QCGw8WAh8EBRlyZXR1cm4gcG9wdWxhdGVNZXNzYWdlKCk7ZAIdDxYCHwQFGXJldHVybiBwb3B1bGF0ZU1lc3NhZ2UoKTtkAh8PDxYCHwEFCyhUb2xsIEZyZWUpZGQCIQ8PFgIfAQUSMzk4OSAxNDE0IEV4dC4gMjQzZGQCIw8PFgIfAQULKFRvbGwgRnJlZSlkZAIlDw8WAh8BBQkzOTg5IDE0MTRkZAInDxYCHwBoZGRd+hoQP9mTDC4sbmyzNB00wvmzJSmGSD4BvOCGdUkBmQ==">
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDQKs19XkDALu7bOlCwLwys+zDAKc14GwCwLXv+n5BQKytaP2AgKB5cquDQLnrI+ZDwKdtfVgAsi/xNUOAt7BgMoHArK668ADAt21pjTkFwCMoL17bwpWGPk1Cwb+RNtedLruZ4gxzSiZOFG/vg==">
     <div id="boxes">
         <div id="dialog" class="window">
             <div id="centerdialog" class="popup_back full_rnd">
                 <div>
                     <div style="float: right; position: relative; display: block; width: 28px; height: 28px;
                         top: -20px; right: -8px;">
-                        <a href="#" class="close" id="btnCloseModal" onclick="window.parent.CloseWin('')">
-                            <img src="/common/images/popup_close.png" alt="Close" border="0"></a>
+                        <a href="#" class="close closebutton" id="btnCloseModal" onclick="window.parent.CloseWin('')">
+                            </a>
                     </div>
                     <div style="border-bottom: 2px solid #959595; padding-bottom: 5px; margin: 15px;">
                         <span style="color: #1f6bc3; font-size: 24px; line-height: 24px;" id="Title"></span>
@@ -91,13 +408,12 @@
                                                 <div class="flt_left">
                                                     <input type="submit" name="ctl00$btnLogin" value="Login" id="btnLogin" class="submit">
                                                 </div>
-                                                <div class="flt_left pipe">
-                                                    <img src="/common/images/pipe.gif" width="1" height="25" alt=""></div>
+                                                <div class="flt_left pipe sp_pipe">
+                                                   </div>
                                                 <div class="flt_left" style="padding-top: 4px;">
                                                     <a id="lnkbtnForPass" href="javascript:__doPostBack('ctl00$lnkbtnForPass','')">Forgot Password</a>
                                                 </div>
-                                                <div class="flt_left pipe">
-                                                    <img src="/common/images/pipe.gif" width="1" height="25" alt=""></div>
+                                                <div class="flt_left pipe sp_pipe"></div>
                                                 <div class="flt_left" style="padding-top: 4px;">
                                                     <a href="/aspx/account/register.aspx"> Register</a>&nbsp;
                                                     &nbsp;
@@ -112,9 +428,9 @@
                                     <td align="center" height="35" style="padding-left: 80px;">
                                         <table cellpadding="0" cellspacing="0">
                                             <tbody><tr>
-                                                <td valign="bottom" class="pad_right">
+                                                <td valign="bottom" class="pad_right ni_call">
                                                     
-                                                    <img src="/common/images/call.gif" alt="call">
+                                                    
                                                 </td>
                                                 <td valign="middle">
                                                     <span id="lblPhoneHeader" class="bold" style="font-size: 24px;
@@ -122,7 +438,7 @@
                                                     <span id="Label1" class="bold" style="font-size: 24px; color: #fa7011;">1800 108 4444</span>
                                                 </td>
                                                 <td valign="middle" class="pad_left" align="right">
-                                                    <span id="lblPhoneCityCodeHeader" class="grey11_drk">(+91 11)</span>
+                                                    <span id="lblPhoneCityCodeHeader" class="grey11_drk">(Toll Free)</span>
                                                 </td>
                                             </tr>
                                         </tbody></table>
@@ -133,12 +449,12 @@
                         <td width="20%" valign="top" align="right">
                             <table width="100%" cellpadding="0" cellspacing="0" border="0">
                                 <tbody><tr>
-                                    <td align="right" height="27">
+                                    <td align="right" height="27" valign="top">
                                         <a id="lnkbtnCart" class="aspNetDisabled cart">My Cart (0)</a>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td align="right" height="22" valign="middle">
+                                    <td align="right" valign="middle" height="22">
                                         <img id="master_imgCurrency" align="top" src="/common/images/USDflag.gif" alt="India" height="16" width="26">
                                         <span class="country">
                                             <select name="ctl00$drpdwnCurrency" id="drpdwnCurrency">
@@ -149,6 +465,7 @@
                                         </span>
                                     </td>
                                 </tr>
+                               
                                 <tr>
                                     <td align="right" height="30" valign="middle">
                                        <a href="/aspx/general/customer-care.aspx"> <div class="cc"><span class="blue2 fs11 bold">Customer Care</span>
@@ -166,9 +483,9 @@
                                         <!-- Begin 4 columns container -->
                                         <div class="col_1 brdr_rgt">
                                             <div class="wall_pad mrg_rgt blue">
-                                                <a href="/net4app/aspx/domains/searchDomain.aspx" class="treb" style="font-size: 15px;">
-                                                    <img src="/common/images/domain-registration.png" alt="" style="vertical-align: text-bottom;">
-                                                    Registration</a>
+                                                <a href="/net4app/aspx/domains/searchDomain.aspx" class="treb ni-regis" style="font-size: 15px;">
+                                                    
+                                                    <span class="ni-menutext">Registration</span></a>
                                                 <div class="brdr_diff_style">
                                                 </div>
                                             </div>
@@ -179,26 +496,29 @@
                                                 <h3>
                                                     International Domains</h3>
                                             </a>
+                                            <a href="/net4app/aspx/domains/cheap-domain.aspx">
+                                                <h3>
+                                                    Cheapest Domain Prices</h3>
+                                            </a>
                                         </div>
                                         <div class="col_6 brdr_rgt">
                                             <div class="blue wall_pad mrg_rgt">
-                                                <a href="/net4app/aspx/domains/transfer_domain.aspx" class="treb" style="font-size: 15px;">
-                                                    <img src="/common/images/domain-transfer.png" alt="" style="vertical-align: text-bottom;">
-                                                    Transfer</a>
+                                                <a href="/net4app/aspx/domains/domain-transfer.aspx" class="treb ni-transfer" style="font-size: 15px;">
+                                                    
+                                                    <span class="ni-menutext">Transfer</span></a>
                                                 <div class="brdr_diff_style">
                                                 </div>
                                             </div>
                                             <a href="/net4app/aspx/domains/domain-transfer.aspx">
-                                                <h3>
-                                                    Domain Name Transfer</h3>
+                                                <h3>Domain Name Transfer</h3>
                                             </a>
                                             
                                         </div>
                                         <div class="col_2">
                                             <div class="blue wall_pad mrg_rgt">
-                                                <a href="/net4app/aspx/domains/search-bulk-domains.aspx" class="treb" style="font-size: 15px;">
-                                                    <img src="/common/images/domain-searchoption.png" alt="" style="vertical-align: text-bottom;">
-                                                    Search Options</a>
+                                                <a href="/net4app/aspx/domains/search-bulk-domains.aspx" class="treb ni-searchopt" style="font-size: 15px;">
+                                                    
+                                                    <span class="ni-menutext">Search Options</span></a>
                                                 <div class="brdr_diff_style">
                                                 </div>
                                             </div>
@@ -222,70 +542,50 @@
                                         <!-- Begin 4 columns container -->
                                         <div class="col_1">
                                             <div class="blue wall_pad mrg_rgt">
-                                                <a href="/net4app/aspx/hosting/buyhosting.aspx" class="treb" style="font-size: 15px;">
-                                                    <img src="/common/images/web-hosting.png" alt="" style="vertical-align: text-bottom;">
-                                                    Web Hosting</a>
+                                                <a href="/net4app/aspx/hosting/buyhosting.aspx" class="treb ni-host" style="font-size: 15px;">
+                                                    
+                                                    <span class="ni-menutext">Web Hosting</span></a>
                                                 <div class="brdr_diff_style">
                                                 </div>
                                             </div>
-                                            <a href="/net4app/aspx/hosting/buyhosting.aspx#tab1">
-                                                <h3>
-                                                    Basic Website Hosting</h3>
-                                            </a><a href="/net4app/aspx/hosting/buyhosting.aspx#tab2">
-                                                <h3>
-                                                    Advanced Website Hosting</h3>
+                                            <a href="/net4app/aspx/hosting/buyhosting.aspx">
+                                                <h3>Basic Website Hosting</h3>
+                                            </a><a href="/net4app/aspx/hosting/website-hosting.aspx">
+                                                <h3>Advanced Website Hosting</h3>
                                             </a>
                                             
-                                            <a href="/net4app/aspx/hosting/buyhosting.aspx#tab3">
-                                                <h3>
-                                                    Ecommerce Hosting</h3>
+                                            <a href="/net4app/aspx/hosting/ecommerce-hosting.aspx">
+                                                <h3>Ecommerce Hosting</h3>
                                             </a>
+                                            <a href="/net4app/aspx/hosting/java-hosting.aspx"><h3>Java Hosting</h3></a>
+                                            <a href="/net4app/aspx/hosting/linux-hosting.aspx"><h3>Linux Hosting</h3></a>
+                                            <a href="/net4app/aspx/hosting/windows-hosting.aspx"><h3>Windows Hosting</h3></a>
                                         </div>
                                     </div>
                                     <!-- End 4 columns container -->
                                 </li>
-                                <!-- End 4 columns Item -->
-                                <li class="menu_right"><a href="#" class="drop">Company Info</a>
-                                    <div class="dropdown_2columns_sml align_right shd_menu" style="background-color: #efefef;">
-                                        <div class="col_6 ">
-                                            <ul>
-                                                <li class="nobckgrndimg"><a href="/aspx/general/company-info.aspx">
-                                                    <img src="/common/images/purple-list-icon.png" alt="" class="mrg_rgt">
-                                                    About US</a></li>
-                                                <li class="nobckgrndimg"><a href="/aspx/general/investor-relations.aspx">
-                                                    <img src="/common/images/purple-list-icon.png" alt="" class="mrg_rgt">
-                                                    Investor Relations</a></li>
-                                                <li class="nobckgrndimg"><a href="/aspx/general/media.aspx">
-                                                    <img src="/common/images/purple-list-icon.png" alt="" class="mrg_rgt">
-                                                    Media</a></li>
-                                               
-                                                <li class="nobckgrndimg"><a href="/aspx/general/contact.aspx">
-                                                    <img src="/common/images/purple-list-icon.png" alt="" class="mrg_rgt">
-                                                    Contact Us</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </li>
+                                <!-- End 4 columns Item -->                               
                                 <li class="divider"><a href="/net4app/aspx/email/emailMain.aspx">Email</a><!-- Begin 3 columns Item -->
                                     <div class="dropdown_2columns_sml shd_menu">
                                         <!-- Begin 4 columns container -->
                                         <div class="col_6">
                                             <div class="blue wall_pad mrg_rgt">
-                                                <a href="/net4app/aspx/email/emailMain.aspx" class="treb" style="font-size: 15px;">
-                                                    <img src="/common/images/email-services.png" alt="" style="vertical-align: text-bottom;">
-                                                    Email Solutions</a>
+                                                <a href="/net4app/aspx/email/emailMain.aspx" class="treb ni-email" style="font-size: 15px;">
+                                                    
+                                                    <span class="ni-menutext">Email Solutions</span></a>
                                                 <div class="brdr_diff_style">
                                                 </div>
                                             </div>
-                                            <a href="/net4app/aspx/email/emailMain.aspx#tab1">
-                                                <h3>
-                                                    Professional Email</h3>
-                                            </a><a href="/net4app/aspx/email/emailMain.aspx#tab2">
-                                                <h3>
-                                                    Business Email</h3>
-                                            </a><a href="/net4app/aspx/email/emailMain.aspx#tab3">
-                                                <h3>
-                                                    Enterprise Email</h3>
+                                            <a href="/net4app/aspx/email/emailMain.aspx">
+                                                <h3>Professional Email</h3>
+                                            </a>
+                                            <a href="/net4app/aspx/email/business-emails.aspx">
+                                                <h3>Business Email</h3>
+                                            </a><a href="/net4app/aspx/email/enterprise-emails.aspx">
+                                                <h3>Enterprise Email</h3>
+                                            </a>
+                                            <a href="/net4app/aspx/email/cloud-email-archiving.aspx">
+                                                <h3>Email Archival</h3>
                                             </a>
                                             
                                         </div>
@@ -304,13 +604,13 @@
                                                         <span class="grey34 bold">Today</span>
                                                     </div>
                                                     <span class="grey15 bold">Includes Domain Name, Hosting &amp; Email</span>
-                                                    <div class="flt_rgt">
-                                                        <img src="/common/images/website_builer_hanging.gif" alt="">
+                                                    <div class="flt_rgt ni-easysite">
+                                                        
                                                     </div>
                                                     <div class="flt_left">
                                                         <br>
                                                         <br>
-                                                        <table width="100%" cellpadding="6" cellspacing="0" class="">
+                                                        <table width="100%" cellpadding="6" cellspacing="0" border="0">
                                                             <tbody><tr>
                                                                 <td colspan="2" class="grey16_drk bold" valign="top">
                                                                     FOLLOW 4 Easy STEPS
@@ -321,7 +621,7 @@
                                                                     <span class="orange_list">1</span>
                                                                 </td>
                                                                 <td>
-                                                                    <span class=""><a href="/net4app/aspx/hosting/websitebuilder.aspx" style="font-size:15px; font-weight:bold; color:#636363; margin-top:-10px; border-bottom:1px solid #a2bdce;">Select your domain</a></span>
+                                                                   <span><a href="/net4app/aspx/hosting/websitebuilder.aspx" style="font-size:15px; font-weight:bold; color:#636363; margin-top:-10px; border-bottom:1px solid #a2bdce;">Select your domain</a></span>
                                                                 </td>
                                                             </tr>
                                                             <tr>
@@ -348,6 +648,12 @@
                                                                     <span><a href="/net4app/aspx/hosting/websitebuilder.aspx" style="font-size:15px; font-weight:bold; color:#636363; margin-top:-10px; border-bottom:1px solid #a2bdce;">Publish your website</a></span>
                                                                 </td>
                                                             </tr>
+                                                            <tr>
+                                                                <td colspan="2">&nbsp;</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td colspan="2" class="bold orange26" align="right">Starts at <span class="rupee bold orange26">R</span>599</td>
+                                                            </tr>
                                                         </tbody></table>
                                                     </div>
                                                     <div class="clear">
@@ -355,32 +661,33 @@
                                                 </div>
                                             </div>
                                         </a>
+                                    </div>
                                         <!-- End 3 columns container -->
-                                </div></li>
+                                </li>
                                 <li class="divider"><a href="/net4app/aspx/SSL/sslIntro.aspx">SSL</a>
                                     <div class="dropdown_2columns shd_menu">
                                         <!-- Begin 4 columns container -->
                                         <div class="col_1">
                                             <div class="blue wall_pad mrg_rgt">
-                                                <a href="/net4app/aspx/ssl/sslIntro.aspx" class="treb" style="font-size: 15px;">
-                                                    <img src="/common/images/SSL-certificates.png" alt="" style="vertical-align: text-bottom;">
-                                                    SSL</a>
+                                                <a href="/net4app/aspx/SSL/sslIntro.aspx" class="treb ni-ssl" style="font-size: 15px;">
+                                                    
+                                                    <span class="ni-menutext">SSL</span></a>
                                                 <div class="brdr_diff_style">
                                                 </div>
                                             </div>
-                                            <a href="/net4app/aspx/ssl/sslIntro.aspx">
+                                            <a href="/net4app/aspx/SSL/sslIntro.aspx">
                                                 <h3>
                                                     Domain Authentication</h3>
-                                            </a><a href="/net4app/aspx/ssl/sslIntro.aspx">
+                                            </a><a href="/net4app/aspx/SSL/sslIntro.aspx">
                                                 <h3>
                                                     Code Signing</h3>
-                                            </a><a href="/net4app/aspx/ssl/sslIntro.aspx">
+                                            </a><a href="/net4app/aspx/SSL/sslIntro.aspx">
                                                 <h3>
                                                     Malware Scan</h3>
-                                            </a><a href="/net4app/aspx/ssl/sslIntro.aspx">
+                                            </a><a href="/net4app/aspx/SSL/sslIntro.aspx">
                                                 <h3>
                                                     Site Authentication</h3>
-                                            </a><a href="/net4app/aspx/ssl/sslIntro.aspx">
+                                            </a><a href="/net4app/aspx/SSL/sslIntro.aspx">
                                                 <h3>
                                                     EV (Enterprise Validation)
                                                 </h3>
@@ -388,14 +695,14 @@
                                         </div>
                                     </div>
                                 </li>
-                                <li style="margin-right: 0px;"><a href="/net4App/aspx/vps/buyVPS.aspx">Cloud Server</a><!-- Begin 3 columns Item -->
+                                <li><a href="/net4app/aspx/vps/buyVPS.aspx">Cloud Server</a><!-- Begin 3 columns Item -->
                                     <div class="dropdown_2columns shd_menu">
                                         <!-- Begin 4 columns container -->
                                         <div class="col_1">
                                             <div class="blue wall_pad mrg_rgt">
-                                                <a href="/net4app/aspx/vps/buyVPS.aspx" class="treb" style="font-size: 15px;">
-                                                    <img src="/common/images/cloud-server.png" alt="" style="vertical-align: text-bottom;">
-                                                    Cloud Services</a>
+                                                <a href="/net4app/aspx/vps/buyVPS.aspx" class="treb ni-cloudserver" style="font-size: 15px;">
+                                                    
+                                                    <span class="ni-menutext">Cloud Services</span></a>
                                                 <div class="brdr_diff_style">
                                                 </div>
                                             </div>
@@ -404,18 +711,60 @@
                                                     Cloud/Virtual Server</h3>
                                             </a><a href="/net4app/aspx/vps/buyVPS.aspx">
                                                 <h3>
-                                                    Backup Solutions</h3>
-                                            </a><a href="/net4app/aspx/vps/buyVPS.aspx">
-                                                <h3>
-                                                    Email Archival</h3>
+                                                    Backup solutions</h3>
                                             </a>
                                             
                                         </div>
                                     </div>
                                     <!-- End 3 columns container -->
                                 </li>
-                                <li class="menu_reseller nocurve" style="width: 111px; width: 102px\9;"><a href="/homepages/FP.aspx">
-                                    Resellers</a> </li>
+                                <li class="flt_left menu-saf reseller" style="width: 65px; width: 50px\9; width: 58px\0/;"><a href="/homepages/FP.aspx">Resellers</a><!-- Begin 3 columns Item -->
+                                    <div class="dropdown_2columns shd_menu" style="margin-top:-3px;">
+                                        <!-- Begin 4 columns container -->
+                                        <div class="col_1">
+                                            <div class="blue wall_pad mrg_rgt">
+                                                <a href="/homepages/FP.aspx" class="treb ni-reseller" style="font-size: 15px;">
+                                                    
+                                                    <span class="ni-menutext">Become a Reseller</span></a>
+                                                <div class="brdr_diff_style">
+                                                </div>
+                                            </div>
+                                            <a href="/homepages/instastore.aspx">
+                                                <h3>InstaStore</h3>
+                                            </a><a href="/resellers/aspx/wallet/freewalletprofit.aspx">
+                                                <h3>Reseller Domains</h3>
+                                            </a><a href="/aspx/general/compareplans-individual.aspx">
+                                                <h3>Compare Plans &amp; Prices</h3></a>
+                                            <a href="#" onclick="OpenModalwindow('/resellers/aspx/account/register.aspx','Register as partner',700,400);">
+                                                <h3>Register Now</h3></a>
+                                        </div>
+                                    </div>
+                                   
+                                </li>
+                              <li class="menu_right menu-saf"><a href="#" class="drop">Company Info</a>
+                                    <div class="dropdown_2columns_sml align_right shd_menu" style="background-color: #efefef;">
+                                        <div class="col_6 ">
+                                            <ul>
+                                                <li class="nobckgrndimg"><a href="/aspx/general/company-info.aspx">
+                                                    <img src="/common/images/purple-list-icon.png" alt="" class="mrg_rgt">
+                                                    <span class="black14 treb">About US</span></a></li>
+                                                <li class="nobckgrndimg"><a href="/aspx/general/investor-relations.aspx">
+                                                    <img src="/common/images/purple-list-icon.png" alt="" class="mrg_rgt">
+                                                    <span class="black14 treb">Investor Relations</span></a></li>
+                                                <li class="nobckgrndimg"><a href="/aspx/general/media.aspx">
+                                                    <img src="/common/images/purple-list-icon.png" alt="" class="mrg_rgt">
+                                                    <span class="black14 treb">Media</span></a></li>
+                                                <li class="nobckgrndimg"><a href="/aspx/general/customer-care.aspx">
+                                                    <img src="/common/images/purple-list-icon.png" alt="" class="mrg_rgt">
+                                                    <span class="black14 treb">Customer Care</span></a></li>
+                                                <li class="nobckgrndimg"><a href="/aspx/general/contact.aspx">
+                                                    <img src="/common/images/purple-list-icon.png" alt="" class="mrg_rgt">
+                                                    <span class="black14 treb">Contact Us</span></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+                                
                             </ul>
                         </td>
                     </tr>
@@ -751,13 +1100,14 @@
         </div>
         <div id="footer">
             <div class="wrapper">
+
                 <div class="bg_grey_lite mrg_top full_rnd_no_PIE border" style="height: 80px;">
                     <div class="flt_left wall_pad">
                         <div id="testimonials">
                             <ul>
                                 <li style="display: block;">
-                                    <div class="flt_left">
-                                        <img src="/common/images/tm_2.jpg" alt=""></div>
+                                    <div class="flt_left ni-testi-pix2">
+                                        </div>
                                     <div class=" flt_rgt pad_left" style="width: 530px;">
                                         <span class="blue fs13 bold">Raman RV, TVS Capital Funds Limited, IT Officer</span><br>
                                         "Net4's hassle free services, prompt support and state of the art infrastructure,
@@ -766,8 +1116,8 @@
                                     </div>
                                 </li>
                                 <li style="display: none;">
-                                    <div class="flt_left">
-                                        <img src="/common/images/tm_1.jpg" alt=""></div>
+                                    <div class="flt_left ni-testi-pix1">
+                                        </div>
                                     <div class=" flt_rgt pad_left" style="width: 530px;">
                                         <span class="blue fs13 bold">Bhushan Kumar, Educomp Schools, IT Head</span><br>
                                         "We manage our entire domain portfolio of 100s of domains with Net4. Very impressed
@@ -775,8 +1125,8 @@
                                         us throughout all the procedures and transactions. Very customer friendly approach."</div>
                                 </li>
                                 <li style="display: none;">
-                                    <div class="flt_left">
-                                        <img src="/common/images/tm_3.jpg" alt=""></div>
+                                    <div class="flt_left ni-testi-pix3">
+                                        </div>
                                     <div class=" flt_rgt pad_left" style="width: 530px;">
                                         <span class="blue fs13 bold">Saquib Khan, Red Tape / Mirza International, Manager IT</span>
                                         <br>
@@ -786,8 +1136,8 @@
                                         me miss my mails."</div>
                                 </li>
                                 <li style="display: none;">
-                                    <div class="flt_left">
-                                        <img src="/common/images/tm_4.jpg" alt=""></div>
+                                    <div class="flt_left ni-testi-pix4">
+                                        </div>
                                     <div class=" flt_rgt pad_left" style="width: 530px;">
                                         <span class="blue fs13 bold">Sumit Kumar, Jay Pee Group, Sr. Consultant</span>
                                         <br>
@@ -807,10 +1157,8 @@
                             </a>
                         </div>
                         <div class="flt_left pad_top">
-                            <span class="grey treb bold">CONNECT WITH US ON<br>
+                             <span class="grey treb bold">CONNECT WITH US ON<br>
                                 <span class="blue fs15">FACEBOOK</span></span>
-                            <br>
-                            <span class="orange treb bold">and get discounts!</span>
                         </div>
                     </div>
                     <div class="seprator flt_left mrg_left mrg_rgt">
@@ -820,7 +1168,7 @@
                             FOLLOW US
                         </div>
                         <div class="flt_left mrg_wall">
-                            <a href="https://twitter.com/net4indialtd" target="_blank">
+                            <a href="https://twitter.com/net4in" target="_blank">
                                 <div class="sp_img sp_twitter sp_img_nr">
                                 </div>
                             </a><a href="https://plus.google.com/u/0/101441970719641354626/posts" target="_blank">
@@ -865,41 +1213,39 @@
                         <h3>
                             Services</h3>
                         <ul>
-                            <li><a href="/net4app/aspx/domains/searchDomain.aspx">Domain Names</a></li>
+                            <li><a href="/net4app/aspx/domains/searchDomain.aspx">Domain Registration</a></li>
                             <li><a href="/net4app/aspx/hosting/buyhosting.aspx">Web Hosting</a></li>
                             <li><a href="/net4app/aspx/email/emailMain.aspx">Email Hosting</a></li>
-                            <li><a href="/aspx/businessApps/businessApps.aspx">Business Apps</a></li>
-                            <li><a href="/net4App/aspx/vps/buyVPS.aspx">Cloud Server</a></li>
+                            <li><a href="/net4app/aspx/vps/buyVPS.aspx">Cloud Server</a></li>
                             <li><a href="/net4app/aspx/hosting/websitebuilder.aspx">Easy Site/Website builder</a></li>
                             <li><a href="/net4app/aspx/SSL/sslIntro.aspx">SSL</a></li>
                         </ul>
                     </div>
                     <div class="f_box">
-                        <h3><a href="/homepages/FP.aspx">Reseller</a></h3>
+                        <h3>
+                            <a href="/homepages/FP.aspx">Reseller</a></h3>
                         <ul>
-                            <li><a href="/net4app/aspx/domains/searchDomain.aspx">Reseller Domains </a></li>
-                            <li><a href="/net4app/aspx/hosting/buyhosting.aspx">Reseller Hosting</a></li>
-                            <li><a href="/net4app/aspx/email/emailMain.aspx">Reseller Email</a></li>
+                            <li><a href="/resellers/aspx/wallet/freewalletprofit.aspx">Reseller Domains </a></li>
+                            <li><a href="/aspx/general/compareplans-individual.aspx">Compare Plan &amp; Prices</a></li>
+                            <li><a href="#" onclick="OpenModalwindow('/resellers/aspx/account/register.aspx','Register as partner',700,400);">Register Now</a></li>
                         </ul>
                     </div>
                     <div class="f_box">
-                        <h3><a href="http://4tify.in/" target="_blank">Enterprise Services</a></h3>
+                        <h3>
+                            <a href="http://4tify.in/" target="_blank">Enterprise Services</a></h3>
                         <ul>
-                            <li><a href="http://4tify.in/net4app/aspx/vps/cloud-hosting.aspx" target="_blank">Cloud
-                                Hosting</a></li>
-                            <li><a href="http://4tify.in/aspx/general/data-center.aspx" target="_blank">Data Center</a></li>
-                            <li><a href="http://4tify.in/aspx/general/internet-lease-line.aspx" target="_blank">
-                                Leased Line</a></li>
-                            <li><a href="http://4tify.in/aspx/businessApps/business-applications.aspx" target="_blank">
-                                Business Application</a></li>
-                            <li><a href="http://4tify.in/aspx/voip/voip-services.aspx" target="_blank">Voice</a></li>
+                            <li><a href="http://www.4tify.in/cloud/cloud-hosting.aspx" target="_blank">Cloud Hosting</a></li>
+                            <li><a href="http://www.4tify.in/data-center/data-centre.aspx" target="_blank">Data Center</a></li>
+                            <li><a href="http://www.4tify.in/leased-line/internet-lease-line.aspx" target="_blank">Leased Line</a></li>
+                            <li><a href="http://www.4tify.in/business-apps/hosted-microsoft-exchange.aspx" target="_blank">Business Applications</a></li>
+                            <li><a href="http://www.4tify.in/voip/voip-enterprise-services.aspx" target="_blank">VoIP Services</a></li>
                         </ul>
                     </div>
                     <div class="f_box" style="margin: 0;">
                         <h3>
                             Company Info</h3>
                         <ul>
-                            <li><a href="/aspx/general/company-info.aspx">About Us</a></li>
+                            <li><a href="/aspx/general/company-info.aspx">About Net4</a></li>
                             <li><a href="/aspx/general/investor-relations.aspx">Investor Relations</a></li>
                             <li><a href="/aspx/general/media.aspx">Media</a></li>
                             <li><a href="/aspx/general/careers.aspx">Careers</a></li>
@@ -918,10 +1264,10 @@
                             <li class="contact"><a href="#">Link 1</a> </li>
                         </ul>
                         <p style="display: none;">
-                            <span id="lblFooterPhoneSalesCityCode">(+91 11)</span>&nbsp;<span id="lblFooterPhoneSales">3989 1414 Ext. 243</span>
+                            <span id="lblFooterPhoneSalesCityCode">(Toll Free)</span>&nbsp;<span id="lblFooterPhoneSales">3989 1414 Ext. 243</span>
                             </p><ul style="display: none;">
                                 <li class="contact">
-                                    <span id="lblFooterPhoneSupportCityCode">(+91 11)</span>&nbsp;<span id="lblFooterPhoneSupport">3989 1414</span></li>
+                                    <span id="lblFooterPhoneSupportCityCode">(Toll Free)</span>&nbsp;<span id="lblFooterPhoneSupport">3989 1414</span></li>
                                 
                             </ul>
                         <p></p>
@@ -938,7 +1284,7 @@
                         <a href="/aspx/general/privacy-policy.aspx">Privacy Policy</a> | <a href="/aspx/general/terms.aspx">
                             Terms of use</a> |
                         
-                        <a href="/aspx/general/resources.aspx">Resources</a>
+                        <a href="/aspx/general/resources.aspx">Resources</a> | <a href="/aspx/general/deals-offers.aspx">Deals &amp; Offers</a>
                     </div>
                 </div>
                 <div class="clear">
@@ -962,32 +1308,7 @@
         return false;
     }
 </script>
-<script language="javascript" type="text/javascript">
-    $(document).ready(function () {
 
-        // Hiding all the testimonials, except for the first one.
-        $('#testimonials li').hide().eq(0).show();
-
-        // A self executing function that loops through the testimonials:
-        (function showNextTestimonial() {
-
-            // Wait for 7.5 seconds and hide the currently visible testimonial:
-            $('#testimonials li:visible').delay(7500).fadeOut('slow', function () {
-
-                // Move it to the back:
-                $(this).appendTo('#testimonials ul');
-
-                // Show the next testimonial:
-                $('#testimonials li:first').fadeIn('slow', function () {
-
-                    // Call the function again:
-                    showNextTestimonial();
-                });
-            });
-        })();
-
-    });
-</script>
 <script type="text/javascript">
     function AddMessage(stringvalue) {
         var element = document.getElementById('ctl00_header_btnhidden');
@@ -1049,6 +1370,8 @@
     $(document).ready(function () {
         $('#jsddm > li').bind('mouseover', jsddm_open);
         $('#jsddm > li').bind('mouseout', jsddm_timer);
+       
+        
     });
 
     document.onclick = jsddm_close;
@@ -1079,6 +1402,10 @@
                 return IsValidDomainName($('#' + 'txtGlobalSearch').val());
         }
     }
+
+    window.onbeforeunload = function () { UnloadEvent(); }
 </script>
+
+
 
 </body></html>
