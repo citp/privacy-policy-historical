@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the artofblog.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627094631id_/http%3A//www.artofblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artofblog.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226065656id_/http%3A//www.artofblog.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### FREE 5 Part Blog Marketing Crash Course
+### FREE 13 Part Blog Marketing Crash Course
 
 Learn how to write killer content, get more traffic, make money, and more by entering your email below:
 
