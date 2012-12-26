@@ -1,165 +1,140 @@
-> *The following text is extracted and transformed from the edn.com privacy policy that was archived on 2010-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101019022118id_/http%3A//www.cancom.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edn.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226231708id_/http%3A//legal.us.ubm.com/privacy-policy) for the most accurate reproduction.*
 
-# CANON COMMUNICATIONS, LLC - Privacy Policy
+# UBM - UBM LLC Privacy Policy
 
-|   
----  
-Last modified on May 4, 2010  
-  
-### Privacy Policy  
-  
-#### Introduction
+Effective: September 8, 2011
 
-CANON COMMUNICATIONS LLC is committed to protecting and respecting your privacy.
+## Scope
 
-This privacy policy and the other documents referred to herein set out the basis on which any personal data we obtain from you will be used by us. This policy applies to our website and all of our trade show, trade conference, award and publication websites only, and does not apply to any other website or offline contact point. References in this policy to “the website,” “this website,” “the site” or “this site” include all of our related trade show, trade conference, award and publication websites, whether accessible from this website or directly. By visiting the website and allowing us to collect personal data from you, you are agreeing to and accepting the practices in this privacy policy.
+UBM LLC (“UBM” or "we") operates through four separate divisions: [UBM Channel](http://www.ubmchannel.com/)™; [UBM Electronics](http://electronics.ubm.com/)™; [UBM Tech](http://www.ubmtechweb.com/)™; and [UBM Studios](http://www.ubmstudios.com/)™.  Three of these divisions focus on the needs of a specific community of technology professionals or other specialized community with shared interests and responsibilities.  The fourth, UBM Studios, builds virtual events on behalf of its corporate customers. 
 
-This website is maintained by Canon Communications LLC and is designed to display information about our trade shows, trade conferences, awards and publications in the US, the UK and other countries around the world. References in this privacy policy to Canon Communications, “we,” “our” or “us” are to Canon Communications LLC and its subsidiaries and affiliates. Our contact information is described under “Contact” at the end of this policy.
+This Privacy Policy covers information which you give any of the four divisions about yourself and your professional background as you register for or attend our face-to-face events around the world, as you visit or participate in any of our web sites or online venues hosted on servers in the United States, or subscribe to any of our print publications distributed in the United States, or volunteer information in any social media context. We will post or display a link to this UBM Privacy Policy on all forms and all online pages to which it is applicable.
 
-Back to top
+An increasing number or our websites allow you to publish or share content including information which identifies you.  In many cases, this Policy will govern how UBM uses the information you provide and what choices you have about its publication.  In addition, a limited number of our brands and web sites within the four divisions publish a separate, different privacy policy based on a particular business model and relationship with customers. A link to the applicable policy will appear at the bottom of those web pages.
 
-#### Children's privacy
+Each division aims to be at the heart of the commercial or professional communities it serves. Our business includes creating opportunities for you to access other companies’ information and resources. When we work with other companies to build co-branded web sites, virtual events, sponsored webinars, or in any way that allows you to connect directly with that other company, we will include a link to this Policy and to the other company’s Privacy Policy as well. Our Policy will govern our collection and use of information about you. We recommend that you read the partner’s Policy as well to learn how that company will treat the information you provide.
 
-PARENTS AND CHILDREN:
+## Information That Identifies You
 
-For residents of the United States: THIS SITE IS NOT INTENDED FOR USE BY CHILDREN UNDER THE AGE OF 13, AND WE DO NOT KNOWINGLY COLLECT ANY PERSONAL INFORMATION WHATEVER FROM CHILDREN UNDER THE AGE OF 13. 
+We rely on the information you provide to us – as you register, contact us, participate in surveys, post comments to public areas of and interact with our web sites, respond to our email campaigns, and participate in webinars or online events. We may also add data from external sources. We will add information about how you interact with our offerings – your subscriptions, the events you attend, and the like.
 
-For all other persons: THIS SITE IS NOT INTENDED FOR USE BY CHILDREN UNDER THE AGE OF 18, AND WE DO NOT KNOWINGLY COLLECT ANY PERSONAL INFORMATION WHATEVER FROM CHILDREN UNDER THE AGE OF 18.
+We may work to expand our communities by acquiring names and contact details from other sources that have compiled contact information. This information might be public information or data you provided with necessary permissions. We may also invite you to join our communities via third party social and professional networking sites.
 
-Back to top
+## Automatic Data Collection Technologies
 
-#### How we may obtain your personal information
+We also use cookies and common data collection technologies, including web beacons and clear GIFs associated with cookies, on our web pages, in newsletters, and in our email campaigns to collect information both on an aggregate and individual basis.    
 
-As a visitor to this website, we may obtain your personal information in connection with your interest or participation in our trade shows, trade conferences, awards or publications.  We may obtain this information at the time you register on the website, register at a trade show or trade conference, contract to take a stand, advertise in or receive our publications, participate in our awards, subscribe to emails, request tickets or publications or request further services or information.  We may also ask you for information if you report a problem with our site.  In addition, from time to time we may email you to request that you complete surveys that we use for research purposes, although you do not have to respond them.  If you contact us we may keep a record of your correspondence.
+Some of our web sites use Adobe Flash to provide video content, and the Adobe Flash Player has the ability to separately store information about that particular Flash application. We do not associate this Adobe Flash stored information with you as an individual. Please see the [Adobe Flash Player Help](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html) page for additional information about controlling the settings of the Adobe Flash Player on your computer.
 
-We keep your name, address, company name, and business contact details as well as an indication of the particular areas of business that interest you.  If you carry out any transactions through us or through the website, we do not retain billing, accounting and other financial details.
+We gather date, time, certain information about a user's browser and system or device configuration and capabilities, navigation history and IP address for all visitors to our web sites. We use this information for our internal security audit log, for trend analysis and system administration and to gather broad information about our audiences and their geographic locations.
 
-We also may retain information regarding your visits to our site, including but not limited to traffic data, location data, and other communications data, whether this is required for our own billing purposes or to improve the site or to facilitate the resources that you wish to access.
+Please see [More Information About Cookies](https://web.archive.org/privacy-policy/#More_info), for additional details about how we use cookies that identify you, which third party advertisers and advertising networks we allow to serve third party advertising displayed on our sites or to display our ads to you once you have left our web pages, and how to control cookies or their use for serving targeted advertising.   
 
-Back to top
+## How We Use Information That Identifies You
 
-#### IP addresses and cookies
+We use information about you: 
 
-We may collect information about your computer, IP address, operating system and browser type for system administration purposes and to report aggregate information to our customers and those we advertise or market with.  This is statistical data about our users’ browsing actions and patterns and does not identify the individual user.
+  * to provide the services, publications, and information you request and to manage your account with us. 
+  * to deliver or display content that matches your professional interests and responsibilities. 
+  * to contact you with information about and invitations for products and services – ours and other companies’ - directed to your professional interests and responsibilities. 
+  * to offer you opportunities to connect directly with your peers and with sellers of technology that may be of interest to you. 
+  * for any other purpose that we tell you about when you give us the information. 
 
-We also may obtain information about your general Internet usage by using a cookie file that is stored on the hard drive of your computer.  Cookies contain information that is transferred to your computer by SPS hard drive.  They help you to navigate our site more efficiently and help us improve our site and deliver a more personalized service.  You may refuse to accept cookies by activating the setting on your browser that allows you to refuse the setting of cookies.  However, if you select this setting, you may be unable to access certain parts of our site.  Unless you have adjusted your browser settings so that it will refuse cookies, our system will issue cookies when you log on to the site.
 
-The following link takes you to a website that sets out a detailed explanation about cookies and the ways in which you can disable them:
 
-[www.allaboutcookies.org/manage-cookies](http://www.allaboutcookies.org/manage-cookies/)
+## Your Choices
 
-Please note that we may allow other companies called third party ad servers or ad networks to display advertisements on our web pages.  Some of these companies may place a persistent cookie on your computer in order to recognize your computer each time they send you an online advertisement.  We do not have access to the cookies that may be placed by third party ad servers or ad networks. [Click here](http://www.nielsen-netratings.com/privacy/sitecensus.htm) to learn more information about how we use a third party service to collect and use information on this Web site.
+You have a choice about and control over:
 
-Back to top
+**Connecting directly with other companies** **for marketing purposes**. In addition to providing you with our own editorial content, we offer you the opportunity to access others’ branded content and expertise. When you choose to take advantage of that content or expertise, you choose to have your name and contact details transferred directly to that other company. We will put you in direct contact with another company or companies when you choose to:
 
-#### Where we store and process your personal information
+  * Register for certain registration-only, or “gated” communities. Access to technical resources provided or sponsored by another company is contingent on your agreement that your contact details may be shared with the other company. We may track your interest in that company’s content or our own content over time and disclose your interest to that company. 
+  * Register for a specific webcast, online event, web site, newsletter, or other offering which is sponsored or co-sponsored by another company. 
+  * Register for one of our virtual events with a number of exhibitors. We may give your name and contact details to all exhibitors and give the exhibitor whose booths and resources you access a record of your visits and interaction with content from that exhibitor. 
+  * Attend one of our face-to-face events. Exhibitors may be given an attendance list for the event. It is up to you, however, to decide whether to leave your business card or allow your RFID-enabled badge to be read by a particular exhibitor – the badges cannot be read remotely. A sponsor of a special, sponsored conference session will also be given information about you if you choose to attend that company’s session. Your future interaction with online content from an exhibitor or sponsor to whom you provided your contact data to may also be tracked and disclosed to that exhibitor or sponsor. 
 
-We store and process your personal information on our computers in the US and with secure, reliable 3rd parties.
 
-When we contract with other companies to provide us with services, we only share personal information with those that we believe share our commitment to privacy and information security. However, we are not responsible for any breach of security or for the actions of these parties. We protect our data by maintaining physical, electronic and procedural safeguards in compliance with applicable US federal and state regulations. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities.  
 
+## Making information you provide public.  
 
-Back to top
+  * We offer web sites that allow you to publish content.  Many of these blog sites require that you register if you wish to comment.  We will publish the user name you provide at registration when you comment.  Some sites allow you to create a public profile as well.
+  * Our online event venues also require that you register and allow you to have both public and closed communications with exhibitors and other participants.  Information that identifies you will be published or shared according to your choices.
+  * In addition, we may create online membership communities that allow you to create and publish your profile and other information.  These communities may provide privacy controls which allow you to choose how much of your profile and other information to make public or to share with others within the community.  As a professional, you remain responsible for locating the privacy controls (usually available on the page from which you can edit your profile), understanding how those controls, including default settings, work and protecting the information you provide.
 
-#### Security
 
-Secure server software is used to encrypt information where appropriate and we follow strict security procedures in the storage and disclosure of the information you have given to us and require our processors to do the same. Whenever we obtain your personal information, we take appropriate precautions to protect it from unauthorized access or disclosure, but we cannot act as insurers of the security of your personal information transmitted over the Internet.  Accordingly, we assume no liability for any disclosure of data due to errors in transmission, unauthorized third party access or other acts of third parties, or acts or omissions beyond our reasonable control. On occasion we may request proof of your identity before we disclose any personal information to you.
 
-Back to top
+## Receiving email marketing messages from us.
 
-#### Uses made of your personal information
+  * You may opt out of our email marketing lists by following the directions at the bottom of our promotional emails.  Please note that we have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all email marketing from UBM Chananel, UBM Electronics, UBM Tech and UBM Studios, you may click on this [UBM-wide opt out link](https://www.cmpadministration.com/ars/optout1.do?mode=optout&forward=optoutpagespecial&T=CT&F=5907&K=PVYPGE) To remove a specific email address from a division's list, you may send a request to [privacyrequests@ubm.com](mailto:privacyrequests@ubm.com). 
+  * Please note that you may receive email marketing messages from us about other companies’ offerings as part of a list rental or partner marketing programs - but only if you have given us permission to do so. We do not disclose your contact details to the partners, and we do not sell your data. You have the option of contacting the other company directly if you click on the links within the email. To opt out of our partner marketing programs, you may follow the instructions at the bottom of any email we send you as part of the program. 
 
-We use your personal information in various ways. We collect personal information to ensure that the content from our site is presented in the most effective manner for you and your computer, to provide you with information about our business, about trade show and trade conference exhibitors and attendees and their products and services, about our awards and publications, about advertisers and subscribers to our publications and their products and services, and about any other products and services that you request from us or which may be of interest to you. We also use your personal information to perform our contracts with you, to allow you to participate in interactive features of our service and to notify you about changes to our service. We may carry out this processing of your personal information ourselves or we may engage agents and processors to perform some of these functions for us.
 
-We also may transfer your data or permit selected third parties use of your data so they may provide you with information about products and services that may be of interest to you, and both we and they may contact you about these by mail, telephone or email. These third parties will usually be exhibitors at our trade shows, participants in our trade conferences or awards, or advertisers in the publications and online products in which you have expressed an interest, particularly those whose products and services might align with your interests. When we share your personal data with these third parties, they will be responsible for protecting your data once they receive it. They will also be responsible to you for the manner in which your data is subsequently processed and the ways in which they market to you.
 
-We will not release telephone or facsimile number, or e-mail address for those that subscribe or request information on Canon Pharma Group LLC products, including, but not limited to, Med Ad News, R&D Directions, PharmaLive.com, and TherapeuticsDaily.com.
+**Whether your account information is up to date.** Please help us keep your account information up to date. To contact us about a print subscription, or to cancel the subscription, please check the UBM LLC information (the “masthead”) inside the print publication. You may update most online registrations by consulting the particular web site itself or visiting a preference page after you have logged on to the site.
 
-Back to top
+## More Information About Cookies
 
-#### Disclosure of your personal information
+**You also have choices about cookies:**
 
-We may disclose your personal information to any of our direct or indirect subsidiaries or affiliates, or their processors or agents.  We may also disclose your personal information to third parties as designated in “Uses made of your personal information” above.  If we negotiate to sell the assets or business of or any interest in any direct or indirect affiliate or subsidiary, or any portion of or interest in our business or assets, we may disclose your personal data to the prospective buyers and their agents.  In the case of any such sale or transfer of ownership, or a bankruptcy, your personal data will be one of the transferred assets. We may also disclose your personal information to protect the interests or safety of Canon Communications LLC or a third party, or to address an emergency.
+**Our cookies.** We place cookies that identify you, or allow third parties to do so on our behalf, for the following purposes:
 
-We will also disclose your data when we are under a duty to disclose or share that information under any legal obligation or to enforce or apply the terms of use or to perform or enforce any contracts between us, or to protect the rights, property or safety of our customers or others.  This may include exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.  If you have exercised your right of opt out in relation to the sharing of information, this will not apply to you and we will respect your opt out, but we may still be required to disclose your information to law enforcement authorities.
+  * to recognize you automatically when you return to a gated community. 
+  * to understand your interests in content, both our own content and that of other companies, on or across our web sites
+  * to control access to gated online events including webinars and virtual events. 
+  * to make an automated record of your interests within a virtual event. 
+  * to manage and follow up on email campaigns. 
 
-Back to top
 
-#### How long will we retain your personal data?
 
-If you have not attended or visited our trade shows or trade conferences, or advertised in or received our publications for five years, we may delete your personal data.  We will also delete your personal data if you write or email and request that we do so (see “Contact” below), although we will continue to keep certain data to safeguard the record of our business dealings.
+You may use the tools in your browser to decline, disable, or delete any cookies.
 
-Back to top
+You will still be able to log on to a gated community if you decline or delete our persistent cookie that enables automatic recognition. If you disable the session cookie for our gated sites you may remain on the site but you will not be able to access (download) any gated content. You must accept the session cookie used to manage access to registration-only online events for the duration of your participation in the event.
 
-#### Can you change your data?
+**Third party advertising cookies.** We allow other companies to serve ads on our web pages. We do not control their use of cookies or other data collection technologies or practices.
 
-You may have the ability to view or edit your information online.  You may be able to change your personal data by changing your details using your personal login on the registration section of the website or by writing to us.  We will update our records if, for example, you have changed your name, moved to another company or moved to a new address.  We will continue to keep certain records to safeguard the record of our business dealings.
+  * The divisions of UBM LLC currently allow the following third party ad servers to serve ads on our web pages: [BBN Networks](http://bbnnetworks.com/); [Bizo, Inc.](http://www.bizo.com/businessProfessionals/privacy_policy) and [Google AdSense](http://www.google.com/intl/en/privacy/ads/).  Some companies, such as Bizo, Inc. and Google Adsense, may offer additional choices about your preferences. Please visit each of their web sites for more information about the technologies they use and their privacy practices. 
+  * Many of the third party ad serving companies that serve ads to our web sites are members of the [Network Advertising Initiative](http://www.networkadvertising.org/). The NAI offers useful information about ad networks and [a single place to turn off targeted ad serving](http://www.networkadvertising.org/managing/opt_out.asp) from any of its [members](http://www.networkadvertising.org/participating/). 
 
-Back to top
 
-#### Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes.  As this policy explains, in the absence of a written request from you (including an email request) that we do not use your personal data for that purpose, we intend to market to you and share your data with our customers interested in marketing to you.  If you wish to exercise your opt out from sharing your personal data for these purposes please ensure that you check certain boxes on the forms which we use to collect your information.  Alternatively please contact us in writing (including by email) as provided under “Contact” below.
+We may add or change the list of Third Party Advertisers from time to time without changing the effective date of the Statement itself. We urge you to check this section for changes regularly.
 
-Our site, and other electronic correspondence, may from time to time contain links to and from the websites of our third party partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and we do not accept any responsibility or liability for those policies.  Please check those policies before you submit any personal data to those websites.
+## Disclosure of Information About You
 
-You may email or write us to remove your personal information at any time, but the removal will be effective only in the case of future communications, and only in the case of communications directly from us, and not communications from third parties contacted by you through us. If your details have already been shared with third parties such as exhibitors or advertisers, you will have to contact them directly to ask them to stop sending you their communications.
+We reserve the right to disclose information about you to third parties in certain circumstances: to vendors that work on our behalf, to law enforcement or other entities that present valid legal process, to protect human safety or our networks or property, or as part of a sale or our merger of business assets.
 
-You may also be able to stop delivery of future email communications from us by following instructions to unsubscribe in emails we send to you.
+## Important Information
 
-Back to top
+UBM LLC is a subsidiary of [UBM plc](http://www.ubm.com/).
 
-#### Access to information
+We collect and process information on servers around the world.
 
-Local legislation in the country in which you reside may give you the right to access any personal information we hold about you. Your right of access can be exercised in accordance with that local legislation. If you wish to have further details please contact us in accordance with the instructions under “Contact” below.
+We use reasonable administrative, technical, and physical safeguards to protect personal information against theft, loss, or misuse. Unfortunately, no data transmission over the Internet or storage can be guaranteed to be 100 percent secure. As a result, while we strive to protect information about you and your professional interests, we cannot ensure or warrant the security of any information you submit to us. You remain responsible for protecting your user name and passwords and for the security of information in transit to us over the Internet.
 
-Back to top
+This Privacy Policy covers how we use information you provide. We cannot control how others may use information you may make public on our sites, for example, on professional networking sites or sites inviting user-generated content, in forums, at virtual events, or user-generated blogs.
 
-#### Changes to our privacy policy
+Please note that virtual events may mimic face-to-face events by automatically displaying information about you to other participants in the event. We cannot control how other participants use that displayed information, so please take a moment to make sure you understand how a particular virtual event works and what choices you have within the environment.
 
-Any changes we may make to our privacy policy in the future will be posted on this web page. You will see that we may ask you to review our privacy policy from time to time to identify and note any changes. The policy sets out the date it was first modified at the top of the page.
+Our products, services, events and offerings are directed to professionals. If we create a special offering for children under the age of thirteen, we will also create privacy practices and policies appropriate for that age group.
 
-Back to top
+## Changes
 
-#### Queries and questions
+We will post and date any changes to this Privacy Policy. Please check here periodically. Your continued use of our products and services covered by this Policy constitutes your consent to the practices in place at the time of your use.
 
-If you have any queries, questions or concerns about your information or if you wish to exercise your right to opt out of receiving our communications, please contact us as provided in “Contact” below.
+## How to Contact Us
 
-Back to top
+For questions about this Privacy Policy, please contact:
 
-#### Email addresses
+[privacyrequests@ubm.com](mailto:privacyrequests@ubm.com?subject=From%20UBMTechnology.com--), or
 
-The website recognizes the home servers of visitors, but not their email addresses. Individually identifiable email addresses are not captured or stored unless they are provided by you, for example, in response to a registration process, by sending them to us or providing these details at a show, conference, award ceremony or in connection with a publication. Persons who communicate with us and supply us with an email address may receive future communications by mail, email or telephone. Persons who do not wish to receive email messages may write us (including by email) and ask to be removed.
+**UBM LLC**   
+Attn: UBM Legal  
+150 West 30th Street, 20th Floor   
+New York, New York, 10001
 
-Back to top
+  * [Privacy Policy ](http://legal.us.ubm.com/privacy-policy/)
+  * [Terms of Service](http://legal.us.ubm.com/terms-of-service/)
+  * [Contact Us](http://legal.us.ubm.com/contact-us/)
+  * [WebMaster](mailto:webmaster@ubm-us.com)
 
-#### Disclaimer
 
-No part of this website may be reproduced or transmitted by any means, electronic, mechanical (including photocopying), recording or by any information, storage or retrieval system, without prior permission from the copyright owners.  The website is published by Canon Communications LLC.
-
-We disclaim all responsibility or liability (including negligence) in relation to information on, or which is accessible from this site.
-
-Back to top
-
-#### Contact
-
-If you wish to contact us in order to exercise any of your rights identified in this policy you may do so by contacting us as follows:
-
-In the US: | Canon Communications LLC  
-11444 W. Olympic Blvd.  
-Los Angeles, CA 90064  
-USA  
-Email: info@cancom.com  
----|---  
-| Pharmalive.com  
-828A Newtown-Yardley Road  
-Newtown, PA 18940  
-Telephone: 215-944-9800  
-Email: administrator@pharmalive.com  
-In the UK: | Octo Media  
-Kent House, Romney Place  
-Maidstone, Kent  
-ME15 6LH United Kingdom  
-Email: info@cancom.com   
-  
-Back to top
