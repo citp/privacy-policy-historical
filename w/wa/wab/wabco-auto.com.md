@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wabco-auto.com privacy policy that was archived on 2012-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120331135121id_/http%3A//www.wabco-auto.com/footer/web_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wabco-auto.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226184654id_/http%3A//www.wabco-auto.com/footer/web_privacy_policy) for the most accurate reproduction.*
 
 # Web Privacy Policy
 
-WABCO Holdings Inc., together with its affiliates ("WABCO") is committed to protecting the privacy of our website users in accordance with applicable law.  
+WABCO Holdings Inc., together with its affiliates ("WABCO") is committed to protecting the privacy of our website users in accordance with applicable law. 
 
 **I. SCOPE**
 
-This Policy applies to all Personal Information (as defined below) received by WABCO in any format. WABCO sees the Internet and the use of other technologies as valuable tools for communicating and interacting with consumers, vendors, business partners and others. WABCO recognizes the importance of maintaining the privacy of Personal Information collected through websites that it operates. WABCO's sole purpose for operating its websites is to provide Information concerning products and services to the public. In general, visitors can access and use the WABCO websites without revealing any Personal Information. Visitors may elect to voluntarily provide Personal Information via WABCO websites but are not required to do so. 
+This Policy applies to all Personal Information (as defined below) received by WABCO in any format. WABCO sees the Internet and the use of other technologies as valuable tools for communicating and interacting with consumers, vendors, business partners and others. WABCO recognizes the importance of maintaining the privacy of Personal Information collected through websites that it operates. WABCO's sole purpose for operating its websites is to provide Information concerning products and services to the public. In general, visitors can access and use the WABCO websites without revealing any Personal Information. Visitors may elect to voluntarily provide Personal Information via WABCO websites but are not required to do so. 
 
 WABCO collects information from visitors to the websites who voluntarily provide Personal Information by filling out and submitting online questionnaires concerning feedback on the website, requesting Information on products or services, or seeking employment. The Personal Information voluntarily provided by website users is contact information limited to the user's name, home and/or business address, phone numbers and email address. WABCO collects this information so it may answer questions and forward requested Information. WABCO does not sell or share this Information with non Agent third parties. 
 
@@ -28,7 +28,7 @@ For purposes of this Policy, the following definitions shall apply:
 
 **III. PRIVACY PRINCIPLES**
 
- (1) NOTICE: Where WABCO collects Personal Information directly from individuals, it will inform them about the purposes for which it collects and uses Personal Information about them, the types of non-agent third parties to which WABCO discloses that information and, as appropriate and required, the choices and the means WABCO offers individuals for limiting the use and disclosure of their Personal Information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal Information to WABCO, or as soon as practicable thereafter, and in any event before WABCO uses the information for a purpose other than that for which it was originally collected. WABCO may disclose Personal Information if required to do so by law or to protect and defend the rights or property of WABCO. 
+(1) NOTICE: Where WABCO collects Personal Information directly from individuals, it will inform them about the purposes for which it collects and uses Personal Information about them, the types of non-agent third parties to which WABCO discloses that information and, as appropriate and required, the choices and the means WABCO offers individuals for limiting the use and disclosure of their Personal Information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal Information to WABCO, or as soon as practicable thereafter, and in any event before WABCO uses the information for a purpose other than that for which it was originally collected. WABCO may disclose Personal Information if required to do so by law or to protect and defend the rights or property of WABCO. 
 
 (2) CHOICE: WABCO will offer individuals the opportunity to choose whether their Personal Information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. 
 
@@ -48,10 +48,10 @@ WABCO will provide individuals with reasonable mechanisms to exercise their choi
 
 **IV. DISPUTE RESOLUTION**
 
-Any questions or concerns regarding the use or disclosure of Personal Information should be directed to the WABCO Office at the address given below. WABCO will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the principles contained in this Policy. 
+Any questions or concerns regarding the use or disclosure of Personal Information should be directed to the WABCO Office at the address given below. WABCO will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the principles contained in this Policy. 
 
 WABCO Europe BVBA  
 Chaussee de Wavre 1789  
 1160 Brussels  
 Belgium  
-Attention: Legal Department 
+Attention: Legal Department
