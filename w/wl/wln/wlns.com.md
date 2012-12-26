@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlns.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628005557id_/http%3A//www.wlns.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlns.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226062141id_/http%3A//www.wlns.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - WLNS TV 6 Lansing - Jackson | Your Local News Leader
 
