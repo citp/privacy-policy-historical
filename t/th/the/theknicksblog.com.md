@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theknicksblog.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628005913id_/http%3A//www.theknicksblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theknicksblog.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226232051id_/http%3A//theknicksblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TheKnicksBlog.com
+# Privacy Policy | The Knicks Blog
 
 The Knicks Blog.com’s Privacy Policy
 
