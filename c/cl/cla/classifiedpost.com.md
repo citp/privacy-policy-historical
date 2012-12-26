@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifiedpost.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508073752id_/http%3A//www.classifiedpost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedpost.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226194416id_/http%3A//www.classifiedpost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ClassifiedPost Hong Kong
 
@@ -46,6 +46,10 @@ The Classifiedpost.com Web site utilises Web server logs and will use a standard
 **IP Addresses**
 
 We also log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We do not use IP address logs to track your session or your behaviour on the Classifiedpost.com Web site.
+
+**Social Networking Sites ("SNS")**
+
+We collect your personal data when you register to join Classifiedpost.com / Smartjob.com by logging into an account that you already have with certain third-party SNS (including, but not limited to, Facebook) via our services. For example, our services allow you to create an account and login automatically to the services using your Facebook account credentials through Facebook Connect. If you are not currently registered as a user on the services and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join Classifiedpost.com / Smartjob.com. In this connection, your registration to join Classifiedpost/com / Smartjob.com indicates your consent to have your personal data be collected by us for the purpose(s) of managing your Classifiedpost.com / smartjob.com membership and/or providing related services to you.  If you decide to create your user account by logging into a SNS via the services, you are using the personal data you have already provided to the SNS (such as your "real" name, email address and other information you make publicly available via the SNS that may identify you) to create your user account on our services.  The personal data we collect may depend on the privacy settings you have with the SNS, so please consult the SNS’s privacy and data practices and consider if you need to change your privacy settings as appropriate. If you decide at any time that you no longer wish to have your SNS account (e.g., Facebook) linked to your Classifiedpost.com / Smartjob.com account, then you should disconnect the SNS account in the "social network" section in your profile settings.
 
 **How Do We Use the Information That You Provide to Us?**
 
