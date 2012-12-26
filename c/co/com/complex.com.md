@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the complex.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630101401id_/http%3A//www.complex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complex.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226202418id_/http%3A//www.complex.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Complex
+# Privacy | Complex | Style, Music, Sneakers, Entertainment, Girls, Technology
 
 ## Website Privacy Policy
 
