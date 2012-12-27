@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the h-l.co.uk privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615060138id_/http%3A//www.hl.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the h-l.co.uk privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228001607id_/http%3A//www.hl.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Hargreaves Lansdown
 
@@ -6,7 +6,7 @@
 
 Hargreaves Lansdown takes the privacy and security of your personal information very seriously.
 
-When you register and use our website or deal through Hargreaves Lansdown we will ask you to provide us with certain information including personal data. This information enables us to provide you with the best service we can and helps us keep you informed with research and information you may be interested in. We will never share this information with any third party outside of the Hargreaves Lansdown group of companies without your express permission and your data will always be managed with reference to all relevant laws and regulations.
+When you register and use our website or deal through Hargreaves Lansdown we will ask you to provide us with certain information including personal data. This information enables us to provide you with the best service we can and helps us keep you informed with research and information you may be interested in. We will not share this information with any third party outside of the Hargreaves Lansdown group of companies unless you have given us permission and your data will always be managed with reference to all relevant laws and regulations. You consent to us releasing information about you to regulated entities in order to obtain any quotations/arrange investments or insurance at your request.
 
 We will also use the data we collect to provide you with the most relevant, personalised and interesting content through our websites, emails, communications and other forms.
 
@@ -25,6 +25,8 @@ We may also provide you with information, special offers, research, and promotio
 ## External links
 
 We will in some places provide links to external websites, where we do so we will alert you with the following icon . Hargreaves Lansdown is not responsible for the content of external internet sites.
+
+08/12 
 
   
   
