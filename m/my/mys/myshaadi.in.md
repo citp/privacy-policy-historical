@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myshaadi.in privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625031331id_/http%3A//myshaadi.in/main/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myshaadi.in privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227122630id_/http%3A//myshaadi.in/main/pages/privacy) for the most accurate reproduction.*
 
 # MyShaadi.in - Create your personal wedding site with an Indian theme for free. Features include Photo Albums,Guestbook,Events (mark on map),Wedding Blog,Online Guest list, SMS and Email updates for Guests,Invitation Card,Wishlist and many more ...
 
