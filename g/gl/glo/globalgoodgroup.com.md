@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalgoodgroup.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511195453id_/http%3A//globalgoodgroup.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgoodgroup.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227122825id_/http%3A//globalgoodgroup.com/privacypolicy) for the most accurate reproduction.*
 
-# GLOBAL GOOD GROUP | Privacy Policy
+# Privacy Policy - GLOBAL GOOD GROUP - GLOBAL GOOD GROUP
 
 **What information do we collect?** We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey, fill out a form, or other similar items.When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information. You may, however, visit our site anonymously.
 
@@ -66,6 +66,17 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
  **Advertising and Anonymous Data**  
 We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>
 
+****Notice Regarding Online behavioural Advertising**  
+We allow third party companies to serve ads and/or collect certain anonymous information  
+when you visit our Web site.  These companies may use non-personally identifiable information  
+(e.g. click stream information, browser type, time and date, subject of advertisements clicked  
+or scrolled over) during your visits to this and other Web sites in order to provide  
+advertisements about goods and services likely to be of greater interest to you.  These  
+companies typically use a cookie or third party web beacon to collect this information.  To learn  
+more about this behavioural advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/).  To  
+opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>.  
+**
+
 **Online Privacy Policy Only**
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
@@ -82,10 +93,11 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-globalgoodgroup.com  
+GLOBAL GOOD NETWORKS  
 2030 Main Street STE 660  
 Irvine, ca 92614  
-USA  
-globalgoodgroup AT gmail DOT com
+USA
+
+Call us: one eight hundred, two seven five, nine five zero seven or email us: globalgoodgroup at gmail dot com
 
 GLOBAL GOOD NETWORKS – CONNECTING THE WORLDS PEOPLE AND INFORMATION FOR GLOBAL GOOD!
