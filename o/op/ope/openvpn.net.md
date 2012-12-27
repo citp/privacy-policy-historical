@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openvpn.net privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620210555id_/http%3A//openvpn.net/index.php/component/content/article/479.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openvpn.net privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227043907id_/http%3A//openvpn.net/index.php/component/content/article/479.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
