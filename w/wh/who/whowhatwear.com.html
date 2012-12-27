@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the whowhatwear.com privacy policy that was archived on 2012-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626114205id_/http%3A//www.whowhatwear.com/website/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whowhatwear.com privacy policy that was archived on 2012-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227110222id_/http%3A//www.whowhatwear.com/website/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"> 
@@ -14,7 +14,8 @@
     <link rel="stylesheet" type="text/css" href="ie7.css" />
 <![endif]-->
 
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script>
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="/_js/jquery-1.8.2.min.js"></script>
+<script src="/_js/jquery.tools.1.2.5.no-jquery.min.js"></script>
 <script src="/website/slideshow-story/js/jquery.easing-1.3.pack.js" type="text/javascript"></script>
 
 <script type="text/javascript" src="jcarousellite.js"></script>
@@ -23,73 +24,126 @@
 
 
 
+
 <!-- START GOOGLE DFP HEAD SECTION -->
   <script type="text/javascript">
      /* manually set this to true to allow sync ads and disable refreshing of ads on slideshow stories */
-     var sync_ads = true;
+    if(typeof document.sync_ads === 'undefined') {
+        var sync_ads = true;
+    } else {
+        var sync_ads = document.sync_ads;
+    }
   </script>
 
   <script type="text/javascript">
      /* this is called by the ads in dfp to set competitive separation and sync ads */
-     function GA_googleAddAttr(targetKey, targetVal) {
-          googletag.cmd.push(function() {
-          googletag.gptslots.WWW_HEADER_WEBSITE_INTERNAL970X418.setTargeting(targetKey, targetVal);
-          googletag.gptslots.WWW_IO_TOP_728X90.setTargeting(targetKey, targetVal);
-          googletag.gptslots.WWW_IO_AD1_300x250.setTargeting(targetKey, targetVal);
-          googletag.gptslots.WWW_IO_AD2_300x250.setTargeting(targetKey, targetVal);
-          googletag.gptslots.WWW_IO_AD3_300x250.setTargeting(targetKey, targetVal);
-          googletag.gptslots.WWW_IO_AD4_300x250.setTargeting(targetKey, targetVal);
-          googletag.gptslots.WWW_IO_BOTTOM_728X90.setTargeting(targetKey, targetVal);
-          googletag.gptslots.WWW_IO_INTERST_FULLPAGE.setTargeting(targetKey, targetVal);
-          googletag.gptslots.WWW_IO_IOTD_1X1.setTargeting(targetKey, targetVal);
-          googletag.gptslots.WWW_IO_BACKGROUNDSKINS_HOMEPAGE.setTargeting(targetKey, targetVal);
-          googletag.gptslots.WWW_IO_PUSHDOWN_HOMEPAGE.setTargeting(targetKey, targetVal);
-     });
-  }
+     window.WWW_ad_set_target = window.GA_googleAddAttr = function (targetKey, targetVal) {
+      googletag.cmd.push(function() {
+        // DON'T CALL THIS ON SLIDESHOW PAGES. SLIDESHOWS HAVE THEIR OWN INTERSTITIAL ADS
+        if (sync_ads === true) {
+           googletag.gptslots.WWW_IO_INTERST_FULLPAGE.setTargeting(targetKey, targetVal);
+        }
+        googletag.gptslots.WWW_HEADER_WEBSITE_INTERNAL970X418.setTargeting(targetKey, targetVal);
+        googletag.gptslots.WWW_IO_TOP_728X90.setTargeting(targetKey, targetVal);
+        googletag.gptslots.WWW_IO_AD1_300x250.setTargeting(targetKey, targetVal);
+        googletag.gptslots.WWW_IO_AD2_300x250.setTargeting(targetKey, targetVal);
+        googletag.gptslots.WWW_IO_AD3_300x250.setTargeting(targetKey, targetVal);
+        googletag.gptslots.WWW_IO_AD4_300x250.setTargeting(targetKey, targetVal);
+        googletag.gptslots.WWW_IO_IOTD_1X1.setTargeting(targetKey, targetVal);
+        googletag.gptslots.WWW_IO_IOTD2_310X505.setTargeting(targetKey, targetVal);
+        googletag.gptslots.WWW_IO_BACKGROUNDSKINS_INTERNAL.setTargeting(targetKey, targetVal);
+        googletag.gptslots.WWW_IO_TOPSTORIES_311X332.setTargeting(targetKey, targetVal);
+      });
+    };
+
+    window.WWW_rotate_ads = function () {
+      var current_row;
+
+      if(document.sync_ads === false) {
+        WWW_takeover_targeting();
+        WWW_clear_skins();
+        googletag.pubads().refresh();
+      }
+    };
+
+    window.WWW_takeover_targeting = function () {
+      if(googletag.takeovers.rows.length > 0) {
+        googletag.takeovers.index += 1;
+        if(googletag.takeovers.index >= googletag.takeovers.rows.length) {
+          googletag.takeovers.index = 0;
+        }
+        current_row = googletag.takeovers.rows[googletag.takeovers.index];
+        WWW_ad_set_target(current_row.name,current_row.value);
+      } else {
+        WWW_ad_set_target('SyncAd','');
+      }
+    };
+
+    window.WWW_clear_skins = function () {
+      // we only want to clear skins if we have 2 or more takeovers
+      if(googletag.takeovers.rows.length > 1) {
+        $('#WWW_HEADER_970X418, #dynamicSidebarLeft, #dynamicSidebarRight').html('');
+      };
+    };
+
   </script>
-  
+
   <script type="text/javascript">
-   	var googletag = googletag || {};
-  	googletag.cmd = googletag.cmd || [];
-  	googletag.gptslots = googletag.gptslots || {}; //Add an object to contain refrences to defined slots
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.gptslots = googletag.gptslots || {}; //Add an object to contain refrences to defined slots
+    googletag.takeovers = {"rows":[{"name":"SyncAd","value":"TK_ADV2"},{"name":"SyncAd","value":"TK_ADV1"}],"index":0};
     (function() {
-    	var gads = document.createElement('script');
-		  gads.async = false;
-		  gads.type = 'text/javascript';
+      var gads = document.createElement('script');
+        gads.async = false;
+        gads.type = 'text/javascript';
       var useSSL = 'https:' == document.location.protocol;
       var src = (useSSL ? 'https:' : 'http:') +       '//www.googletagservices.com/tag/js/gpt.js';
-      gads.src = (useSSL ? 'https:' : 'http:') + 	'//www.googletagservices.com/tag/js/gpt.js';
+      gads.src = (useSSL ? 'https:' : 'http:') +  '//www.googletagservices.com/tag/js/gpt.js';
       document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
       var node = document.getElementsByTagName('script')[0];
-		  node.parentNode.insertBefore(gads, node);
+        node.parentNode.insertBefore(gads, node);
     })();
   </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-  
+
   <script type="text/javascript">
-	  googletag.cmd.push(function() {
+    googletag.cmd.push(function() {
+      // DON'T CALL THIS ON SLIDESHOW PAGES.  SLIDESHOWS HAVE THEIR OWN INTERSTITIAL ADS
+      if (sync_ads === true) {
+        googletag.gptslots.WWW_IO_INTERST_FULLPAGE = googletag.defineSlot('/1022347/WWW_IO_INTERST_FULLPAGE', [1, 1], 'WWW_IO_INTERST_FULLPAGE').addService(googletag.pubads());
+      }
       googletag.gptslots.WWW_HEADER_WEBSITE_INTERNAL970X418 =  googletag.defineSlot('/1022347/WWW_HEADER_WEBSITE_INTERNAL970X418', [970, 418], 'WWW_HEADER_WEBSITE_INTERNAL970X418').addService(googletag.pubads());
       googletag.gptslots.WWW_IO_TOP_728X90 =  googletag.defineSlot('/1022347/WWW_IO_TOP_728X90', [728, 90], 'WWW_IO_TOP_728X90').addService(googletag.pubads());
-      googletag.gptslots.WWW_IO_AD1_300x250 = googletag.defineSlot('/1022347/WWW_IO_AD1_300x250', [300, 250], 'WWW_IO_AD1_300x250').addService(googletag.pubads());
-      googletag.gptslots.WWW_IO_AD2_300x250 = googletag.defineSlot('/1022347/WWW_IO_AD2_300x250', [300, 250], 'WWW_IO_AD2_300x250').addService(googletag.pubads());
-      googletag.gptslots.WWW_IO_AD3_300x250 = googletag.defineSlot('/1022347/WWW_IO_AD3_300x250', [300, 250], 'WWW_IO_AD3_300x250').addService(googletag.pubads());
-      googletag.gptslots.WWW_IO_AD4_300x250 = googletag.defineSlot('/1022347/WWW_IO_AD4_300x250', [300, 250], 'WWW_IO_AD4_300x250').addService(googletag.pubads());
-      googletag.gptslots.WWW_IO_BOTTOM_728X90 = googletag.defineSlot('/1022347/WWW_IO_BOTTOM_728X90', [728, 90], 'WWW_IO_BOTTOM_728X90').addService(googletag.pubads());
-      googletag.gptslots.WWW_IO_INTERST_FULLPAGE = googletag.defineSlot('/1022347/WWW_IO_INTERST_FULLPAGE', [1, 1], 'WWW_IO_INTERST_FULLPAGE').addService(googletag.pubads());
-      googletag.gptslots.WWW_IO_IOTD_1X1 = googletag.defineSlot('/1022347/WWW_IO_IOTD_1X1', [1, 1], 'WWW_IO_IOTD_1X1').addService(googletag.pubads());
-
+      googletag.gptslots.WWW_IO_AD1_300x250 = googletag.defineSlot('/1022347/WWW_IO_AD1_300x250', [[300, 250], [300, 600], [300, 1050]], 'WWW_IO_AD1_300x250').addService(googletag.pubads());
+      googletag.gptslots.WWW_IO_AD2_300x250 = googletag.defineSlot('/1022347/WWW_IO_AD2_300x250', [[300, 250], [300, 600], [300, 1050]], 'WWW_IO_AD2_300x250').addService(googletag.pubads());
+      googletag.gptslots.WWW_IO_AD3_300x250 = googletag.defineSlot('/1022347/WWW_IO_AD3_300x250', [[300, 250], [300, 600], [300, 1050]], 'WWW_IO_AD3_300x250').addService(googletag.pubads());
+      googletag.gptslots.WWW_IO_AD4_300x250 = googletag.defineSlot('/1022347/WWW_IO_AD4_300x250', [[300, 250], [300, 600], [300, 1050]], 'WWW_IO_AD4_300x250').addService(googletag.pubads());
+      googletag.gptslots.WWW_IO_IOTD_1X1 = googletag.defineSlot('/1022347/WWW_IO_IOTD_1X1', [[310, 505], [1, 1]], 'WWW_IO_IOTD_1X1').addService(googletag.pubads());
+      googletag.gptslots.WWW_IO_IOTD2_310X505 = googletag.defineSlot('/1022347/WWW_IO_IOTD2_310X505', [310, 505], 'WWW_IO_IOTD2_310X505').addService(googletag.pubads());
+      googletag.gptslots.WWW_IO_BACKGROUNDSKINS_INTERNAL = googletag.defineSlot('/1022347/WWW_IO_BACKGROUNDSKINS_INTERNAL', [1, 1], 'WWW_IO_BACKGROUNDSKINS_INTERNAL').addService(googletag.pubads());
+      googletag.gptslots.WWW_IO_TOPSTORIES_311X332 = googletag.defineSlot('/1022347/WWW_IO_TOPSTORIES_311X332', [311, 332], 'WWW_IO_TOPSTORIES_311X332').addService(googletag.pubads());
       googletag.pubads().setTargeting('PageName', 'GENERAL');
-      // If true, then you can run sync ads and do competitive separation
-      // If false, then you can do banner refreshing from slideshow clicks
-      if (sync_ads == true) {
-         googletag.pubads().enableSyncRendering();
+
+      // targeting
+      WWW_takeover_targeting();
+
+      if (sync_ads === true) {
+        googletag.pubads().setTargeting('Mode', 'Sync');
+        googletag.pubads().enableSyncRendering();
+      } else {
+        googletag.pubads().enableAsyncRendering();
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().setTargeting('Mode', 'Async');
       }
+      
+      // services
       googletag.pubads().collapseEmptyDivs();
       googletag.enableServices();
     });
   </script>
 <!-- END GOOGLE DFP HEAD SECTION -->
 
-<!-- START GOOGLE ANALYTICS IN HEAD SECTION --> 
+<!-- START GOOGLE ANALYTICS IN HEAD SECTION -->
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -104,7 +158,7 @@
   })();
 
 </script>
-<!-- END GOOGLE ANALYTICS IN HEAD SECTION --> 
+<!-- END GOOGLE ANALYTICS IN HEAD SECTION -->
 </head>
 <body>
 
@@ -151,29 +205,45 @@
 If Header Banner Ad is available, prepareNav() needs to execute immediately to accommodate banner ad height by pushing nav position down, otherwise prepareNav() will execute when page finishes loading.
 */
 
-	$(function() {
-		prepareNav();
+
+function prepareNav()
+{
+	var to           = $('#floatNav').offset();
+    var headerheight = returnHeaderHeight();
+
+    // testing:
+    //alert('to top: ' + to.top);
+    //alert('scroll top: ' + $(window).scrollTop());
+    //alert('top ad div height: ' + $('.topAD').height());
+    //alert('calculated header height: ' + headerheight);
+
+    if($(window).scrollTop() > headerheight)
+    {
+        $('#floatNav').css({'position':'fixed','top':'0px'});
+    }
+	else
+    {
+        $('#floatNav').css({'position':'relative','top':'0px'});
+    }
+
+    $(window).scroll(function()
+    {
+        var headerheight = returnHeaderHeight();
+
+        if($(window).scrollTop() > headerheight)
+        {
+            $('#floatNav').css({'position':'fixed','top':'0px','border-top':'6px solid #fff'});
+        }
+		else
+        {
+            $('#floatNav').css({'position':'relative','top':'0px','border-top':'0'});
+        }
 	});
 
-
-
-
-
-function prepareNav(){
-	var to = $('#floatNav').offset();
-	if ($(window).scrollTop() > to.top){ $('#floatNav').css({'position':'fixed','top':'0px'});}
-	else{$('#floatNav').css({'position':'relative','top':'0px'});}
-	$(window).scroll(function(){
-		if ($(window).scrollTop() > to.top){ $('#floatNav').css({'position':'fixed','top':'0px','border-top':'6px solid #fff'});}
-		else{$('#floatNav').css({'position':'relative','top':'0px','border-top':'0'});}
-	});
-	
-	
-	
 
 	$('li.nvv').mouseover(function(){
 		if ($(this).find('a.nav8').text() == 'FASHION'){
-			
+
 			$(this).find('a.nav8').css('background-position','-77px -182px');
 		}
 		if ($(this).find('a.nav2').text() != ''){
@@ -195,6 +265,38 @@ function prepareNav(){
 	});
 };
 
+function returnHeaderHeight()
+{
+    // header height is being calculated . captured incorrectly, most likely because the Google DFP ad comes in way too late or sends weird data
+    // therefore, floating top nav bar was not floating correctly on Video section
+    // as a failsafe, we check the height of the top ad div - if greater 0 there is a top ad and we use that value
+
+    // 2012-10-05: updated this as to.top still sometimes reports an incorrect value as the ad might come in too late
+
+    var headerHeightStandalone = 104;
+    var topAdHeight            = $('.topAD').height();
+
+    if(topAdHeight > 0)
+    {
+        // we have a top ad
+
+        return (topAdHeight + headerHeightStandalone); // header itself is 104 pixels
+    }
+    else
+    {
+        return headerHeightStandalone;
+    }
+}
+
+
+
+$(document).ready(function(){
+
+    // call prepareNav() function with 1.5 secs delay, as otherwise code will not correctly detect the top ad and set vars incorrectly !
+    window.setTimeout(function(){prepareNav()},1500);
+
+});
+
 
 </script>
 
@@ -204,15 +306,19 @@ function prepareNav(){
 // temporarily force the header ad unit to run on all pages.  Need to clean up this code and ad feature to admin later.  Remove old header ad unit code that already exists on this page.
 -->
 <div class="topAD">
-<div class="header_ad_unit">
-	<!-- Begin WWW_HEADER_WEBSITE_INTERNAL970X418 -->
-	<div id="WWW_HEADER_WEBSITE_INTERNAL970X418">
-		<script type="text/javascript">
-			googletag.cmd.push(function() { googletag.display('WWW_HEADER_WEBSITE_INTERNAL970X418'); });
-		</script>
-	</div>
-  <!-- End WWW_HEADER_WEBSITE_INTERNAL970X418 -->
-</div>
+    <div class="header_ad_unit">
+                	<!-- Begin WWW_HEADER_WEBSITE_INTERNAL970X418 -->
+        	<div id="WWW_HEADER_WEBSITE_INTERNAL970X418">
+
+                <script type="text/javascript">
+        			googletag.cmd.push(function() { googletag.display('WWW_HEADER_WEBSITE_INTERNAL970X418'); });
+        		</script>
+
+                <!--<img src="/_img/top_banner_test.jpg" alt="top banner test" /> -->
+
+        	</div>
+          <!-- End WWW_HEADER_WEBSITE_INTERNAL970X418 -->
+            </div>
 </div>
 
 
@@ -301,7 +407,7 @@ function prepareNav(){
 	<p><strong>EFFECTIVE DATE: September 24, 2008</strong></p>
     	<p><strong>1. INTRODUCTION</strong> </p><p>
 
-</p><p>1.1. PURPOSE OF POLICY. Who What Wear LLC ("us," "we," or "Company") is committed to respecting the privacy rights of its customers, visitors, and other users of our website (the "Site") and related subscription service (the "Service"). We created this Privacy Policy (this "Policy") to give you confidence as you visit and use the Site or otherwise subscribe to the Service, and to demonstrate our commitment to fair information practices and the protection of privacy. Except as otherwise expressly provided, this Policy does not apply to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy. </p>
+</p><p>1.1. PURPOSE OF POLICY. Clique Media, Inc. (previously known as Who What Wear LLC) ("us," "we," or "Company") is committed to respecting the privacy rights of its customers, visitors, and other users of our website (the "Site") and related subscription service (the "Service"). We created this Privacy Policy (this "Policy") to give you confidence as you visit and use the Site or otherwise subscribe to the Service, and to demonstrate our commitment to fair information practices and the protection of privacy. Except as otherwise expressly provided, this Policy does not apply to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy. </p>
 <p>1.2. NOTICE CONCERNING CHILDREN PLEASE NOTE: We are a general audience site, and do not direct any of our content specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children's privacy online. If we learn or have reason to suspect that a Site user is under age 13, we will promptly delete any personal information in that user's account. </p>
 
 <p><strong>2. INFORMATION COLLECTION AND USE PRACTICES</strong> </p>
@@ -332,115 +438,14 @@ function prepareNav(){
         
         <div class="sidebar">
         	<!--SIDEBAR START-->
-<div class="widget widget1 whome1" style="margin-top:2px;">		
-   
-<div class="topStory">
-	<div class="scrollable float-right">
-		<div class="navi"></div>
-
-		<div class="items">
-		<div class="topStoryItem">
-                    <a href="/website/full-article/what-they-wear-airports-7332/">
-                            <img src="/website/images/promo/PromoImage_WTWairports.jpg" width="243" height="186" alt="What They Wear">
-                    </a>
-
-                    <p>Chic airport ensembles inspired by the world's most stylish globetrotters!</p>
-            <h4><a href="/website/full-article/what-they-wear-airports-7332/">Airports</a></h4>
-            </div>
-            <div class="topStoryItem">
-                    <a href="/website/full-article/www-styling-tipsjune/">
-                            <img src="/website/images/promo/Promo-Image_TipJune.jpg" width="243" height="186" alt="WWW">
-                    </a>
-
-                    <p>Update your summer wardrobe with these six helpful styling tips!</p>
-            <h4><a href="/website/full-article/www-styling-tipsjune/">Styling Tips-June</a></h4>
-            </div>
-            <div class="topStoryItem">
-                    <a href="/website/full-article/accessory-report-sun-hats/">
-                            <img src="/website/images/promo/promoImageARsunHats.jpg" width="243" height="186" alt="Accessory Report">
-                    </a>
-
-                    <p>See why chic sun hats are this season's must-have accessory!</p>
-            <h4><a href="/website/full-article/accessory-report-sun-hats/">Sun Hats</a></h4>
-            </div>
-            <div class="topStoryItem">
-                    <a href="/website/full-article/girl-of-the-month-analeigh-tipton/">
-                            <img src="/website/images/promo/PromoImage_GOTManaleigh.jpg" width="243" height="186" alt="Girl of the Month">
-                    </a>
-
-                    <p>Analeigh Tipton is the latest muse to inspire our fashion and beauty picks!</p>
-            <h4><a href="/website/full-article/girl-of-the-month-analeigh-tipton/">Analeigh Tipton</a></h4>
-            </div>
-            <div class="topStoryItem">
-                    <a href="/website/full-article/introducing-gaps-styldby-catalog-6642/">
-                            <img src="/website/images/promo/gap_promo_kellyV1.jpg" width="243" height="186" alt="Introducing">
-                    </a>
-
-                    <p>See how Who What Wear sports summer staples in Gap's Styld.by catalog!</p>
-            <h4><a href="/website/full-article/introducing-gaps-styldby-catalog-6642/">Gap's Styld.by Catalog</a></h4>
-            </div>
-            <div class="topStoryItem">
-                    <a href="/website/full-article/style-stalker-aureta-thomollari/">
-                            <img src="/website/images/promo/PromoImageSS.jpg" width="243" height="186" alt="Style Stalker">
-                    </a>
-
-                    <p>Find how to nab this stylish jetsetter's glamorous outfits from head to toe!</p>
-            <h4><a href="/website/full-article/style-stalker-aureta-thomollari/">Aureta Thomollari</a></h4>
-            </div>
-            <div class="topStoryItem">
-                    <a href="/website/full-article/style-stalker-julie-sarinana/">
-                            <img src="/website/images/promo/PromoImageSSjulie.jpg" width="243" height="186" alt="Style Stalker">
-                    </a>
-
-                    <p>See why we're obsessing over this Los Angeles native's California cool style!</p>
-            <h4><a href="/website/full-article/style-stalker-julie-sarinana/">Julie Sarinana</a></h4>
-            </div>
-            		</div>
+<div class="widget widget1 whome1" style="margin-top:2px;">
+  	<!-- Begin WWW_IO_TOPSTORIES_311X332 -->
+	<div id="WWW_IO_TOPSTORIES_311X332">
+		<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display('WWW_IO_TOPSTORIES_311X332'); });
+		</script>
 	</div>
-</div>
-
-<script type="text/javascript">
-$(function() {
-	$(".scrollable").scrollable({
-		circular: true,
-		easing: 'easeInOutQuad',
-		speed: 700
-	}).autoscroll({
-		autoplay: true,
-		interval: 4000
-	}).navigator();
-});
-
-/*
-$(function() {
-	$(".tsSlider").jCarouselLite({
-		btnNext: "#tsNext",
-		btnPrev: "#tsPrev",
-		visible: 1,
-		auto: 3000,
-		speed: 1000,
-		start: 0,
-		visible: 1
-	});
-
-	$('.topStory').mouseover(function() {
-		$('#tsPrev').css('background-position','0 0px');
-		$('#tsNext').css('background-position','0 -38px');
-	}).mouseout(function() {
-		$('#tsPrev').css('background-position','0 -19px');
-		$('#tsNext').css('background-position','0 -57px');
-	});
-	
-	$('.topStory img').mouseover(function() {
-		$('.tsBg').html($(this).attr('alt'));
-		$('.tsBg').css('display','block');
-	}).mouseout(function() {
-		$('.tsBg').css('display','none');
-	});
-});
-*/
-</script>
-
+  <!-- End WWW_IO_TOPSTORIES_311X332 -->
 </div>
 
 <div class="widget widget2 whome9">
@@ -485,6 +490,16 @@ $(document).ready(function(){
 });
 </script></div>
 
+<div class="widget widget5 whome8">
+	<!-- Begin WWW_IO_IOTD2_310X505 -->
+	<div id="WWW_IO_IOTD2_310X505">
+		<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display('WWW_IO_IOTD2_310X505'); });
+		</script>
+	</div>
+  <!-- End WWW_IO_IOTD2_310X505 -->
+</div>
+
 <div class="widget widget5 whome3">
     <!-- displays ITEM OF THE DAY IMAGE -->
   	<!-- Begin WWW_IO_IOTD_1X1 -->
@@ -512,32 +527,31 @@ $(document).ready(function(){
     <h3 class="wwwHead1">Shopping</h3><h3 class="wwwHead2">BLOGS &amp; SITES</h3>
     <div class="wwwLeft">
    		<div><ul>
-        	<li><a target="_blank" href="http://www.apartstyle.com">APARTSTYLE</a></li><li><a href="http://us.asos.com/?xr=1&amp;mk=B1&amp;r=3" target="_blank">ASOS</a>
-</li><li><a target="_blank" href="http://www.anrdoezrs.net/click-2299623-10414244">Banana Republic</a><img src="http://www.tqlkg.com/image-2299623-10414244" width="1" height="1" border="0">
-</li><li><a target="_blank" href="http://gan.doubleclick.net/gan_click?lid=41000000036513647&amp;pubid=21000000000134287">Barneys New York</a></li><li><a href="http://www.beyondtherack.com" target="_blank">Beyond the Rack</a></li><li><a target="_blank" href="http://click.linksynergy.com/fs-bin/click?id=25ZRSXYPVYg&amp;subid=&amp;offerid=175596.1&amp;type=10&amp;tmpid=6664&amp;RD_PARM1=http%3A%2F%2Fwww.bloomingdales.com%2F">Bloomingdale's</a><img alt="icon" src="http://ad.linksynergy.com/fs-bin/show?id=25ZRSXYPVYg&amp;bids=175596.1&amp;type=10" width="1" height="1"></li><li><a target="_blank" href="http://click.linksynergy.com/fs-bin/click?id=25ZRSXYPVYg&amp;subid=&amp;offerid=213738.1&amp;type=10&amp;tmpid=7212&amp;RD_PARM1=http%3A%2F%2Fwww.charmandchain.com%2F">Charm and Chain</a><img alt="icon" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=25ZRSXYPVYg&amp;bids=213738.1&amp;type=10">
-</li><li><a href="http://www.endless.com" target="_blank">Endless</a></li><li><a target="_blank" href="http://gan.doubleclick.net/gan_click?lid=41000000036513637&amp;pubid=21000000000134287">Free People</a>
+        	<li><a target="_blank" href="http://www.apartstyle.com">APARTSTYLE</a></li><li><a href="http://rstyle.me/n/pv6ch9e&#10;" target="_blank">ASOS</a>
+</li><li><a target="_blank" href="http://rstyle.me/n/ba2zch9e&#10;">Banana Republic</a><img src="http://www.tqlkg.com/image-2299623-10414244" width="1" height="1" border="0"></li><li><a target="_blank" href="http://rstyle.me/n/cz5uch9e&#10;">Barneys New York</a></li><li><a href="http://www.beyondtherack.com" target="_blank">Beyond the Rack</a></li><li><a target="_blank" href="http://rstyle.me/n/6fech9e&#10;">Bloomingdale's</a><img alt="icon" src="http://ad.linksynergy.com/fs-bin/show?id=25ZRSXYPVYg&amp;bids=175596.1&amp;type=10" width="1" height="1"></li><li><a target="_blank" href="http://rstyle.me/ad/ngj6ch9e&#10;">Charm and Chain</a><img alt="icon" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=25ZRSXYPVYg&amp;bids=213738.1&amp;type=10">
+</li><li><a href="http://www.endless.com" target="_blank">Endless</a></li><li><a target="_blank" href="http://rstyle.me/n/pwech9e&#10;">Free People</a>
 </li><li><a href="http://www.gilt.com/sale/women" target="_blank">Gilt Groupe</a>
-</li><li><a href="http://www.hautelook.com" target="_blank&quot;">Hautelook</a></li><li><a target="_blank" href="http://click.linksynergy.com/fs-bin/click?id=25ZRSXYPVYg&amp;subid=&amp;offerid=227633.1&amp;type=10&amp;tmpid=3381&amp;RD_PARM1=http%3A%2F%2Fwww.jcrew.com%2Findex.jsp">J.Crew</a><img alt="icon" src="http://ad.linksynergy.com/fs-bin/show?id=25ZRSXYPVYg&amp;bids=227633.1&amp;type=10" width="1" height="1">
+</li><li><a href="http://www.hautelook.com" target="_blank&quot;">Hautelook</a></li><li><a target="_blank" href="http://rstyle.me/ad/gzuzch9e&#10;">J.Crew</a><img alt="icon" src="http://ad.linksynergy.com/fs-bin/show?id=25ZRSXYPVYg&amp;bids=227633.1&amp;type=10" width="1" height="1">
 </li><li><a href="http://ad.doubleclick.net/clk;240276530;63116260;t" target="_blank">JustFabulous</a>
-</li><li><a target="_blank" href="http://www.jdoqocy.com/click-2299623-10646102?url=http%3A%2F%2Fwww.luisaviaroma.com">LUISAVIAROMA</a><img src="http://www.tqlkg.com/image-2299623-10646102" width="1" height="1" border="0">
-</li><li><a target="_blank" href="http://click.linksynergy.com/fs-bin/click?id=25ZRSXYPVYg&amp;subid=&amp;offerid=201517.1&amp;type=10&amp;tmpid=6371&amp;RD_PARM1=http%3A%2F%2Fwww.madewell.com%2Findex.jsp">Madewell</a><img alt="icon" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=25ZRSXYPVYg&amp;bids=201517.1&amp;type=10">
-</li><li><a target="_blank" href="http://click.linksynergy.com/fs-bin/click?id=25ZRSXYPVYg&amp;subid=&amp;offerid=216145.1&amp;type=10&amp;tmpid=8332&amp;RD_PARM1=http%3A%2F%2Fwww.matchesfashion.com%2F">Matches Fashion</a><img alt="icon" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=25ZRSXYPVYg&amp;bids=216145.1&amp;type=10">
-</li><li><a target="_blank" href="http://www.kqzyfj.com/click-2299623-10512845">Max &amp; Chloe</a><img src="http://www.awltovhc.com/image-2299623-10512845" width="1" height="1" border="0"></li><li><a href="http://www.MrPorter.com" target="_blank">Mr. Porter</a></li><li><a target="_blank" href="http://track.webgains.com/click.html?wgcampaignid=54338&amp;wgprogramid=2036">My Wardrobe</a>
-</li><li><a href="http://www.neimanmarcus.com" target="_blank">Neiman Marcus</a></li><li><a href="http://click.linksynergy.com/fs-bin/click?id=25ZRSXYPVYg&amp;subid=&amp;offerid=206135.1&amp;type=10&amp;tmpid=6895&amp;RD_PARM1=http%3A%2F%2Fwww.net-a-porter.com%2F" target="_blank">Net-a-Porter</a></li><li><a target="_blank" href="http://click.linksynergy.com/fs-bin/click?id=25ZRSXYPVYg&amp;subid=&amp;offerid=21855.1&amp;type=10&amp;tmpid=8158&amp;RD_PARM1=http%253A%252F%252Fshop.nordstrom.com%252F">Nordstrom</a><img alt="icon" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=25ZRSXYPVYg&amp;bids=21855.1&amp;type=10"></li><li><a target="_blank" href="http://www.tkqlhce.com/click-2299623-10433276">Pink Mascara</a><img src="http://www.lduhtrp.net/image-2299623-10433276" width="1" height="1" border="0">
-</li><li><a target="_blank" href="http://www.jdoqocy.com/click-2299623-10443687">Piperlime</a><img src="http://www.lduhtrp.net/image-2299623-10443687" width="1" height="1" border="0">
-</li><li><a target="_blank" href="http://www.jdoqocy.com/click-2299623-10568215">Revolve Clothing</a><img src="http://www.ftjcfx.com/image-2299623-10568215" width="1" height="1" border="0">
-</li><li><a target="_blank" href="http://click.linksynergy.com/fs-bin/click?id=25ZRSXYPVYg&amp;offerid=203719.10000805&amp;type=3&amp;subid=0">Saks Fifth Avenue</a><img border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=25ZRSXYPVYg&amp;bids=203719.10000805&amp;type=3&amp;subid=0">
-</li><li><a target="_blank" href="http://click.linksynergy.com/fs-bin/click?id=25ZRSXYPVYg&amp;offerid=32532.10000391&amp;type=3&amp;subid=0">Sephora</a><img border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=25ZRSXYPVYg&amp;bids=32532.10000391&amp;type=3&amp;subid=0"></li><li><a href="http://www.kqzyfj.com/click-2800546-10456099" target="_top">
+</li><li><a target="_blank" href="http://rstyle.me/ad/ytgech9e&#10;">LUISAVIAROMA</a><img src="http://www.tqlkg.com/image-2299623-10646102" width="1" height="1" border="0">
+</li><li><a target="_blank" href="http://rstyle.me/ad/snspch9e&#10;">Madewell</a><img alt="icon" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=25ZRSXYPVYg&amp;bids=201517.1&amp;type=10">
+</li><li><a target="_blank" href="http://rstyle.me/n/wa9ch9e&#10;">Matches Fashion</a><img alt="icon" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=25ZRSXYPVYg&amp;bids=216145.1&amp;type=10">
+</li><li><a target="_blank" href="http://rstyle.me/ad/24zcch9e&#10;">Max &amp; Chloe</a><img src="http://www.awltovhc.com/image-2299623-10512845" width="1" height="1" border="0"></li><li><a href="http://rstyle.me/n/xyach9e&#10;" target="_blank">Mr. Porter</a></li><li><a target="_blank" href="http://rstyle.me/n/6m8ch9e&#10;">My Wardrobe</a>
+</li><li><a href="http://rstyle.me/n/wfzch9e&#10;" target="_blank">Neiman Marcus</a></li><li><a href="http://rstyle.me/n/pv3ch9e&#10;" target="_blank">Net-a-Porter</a></li><li><a target="_blank" href="http://rstyle.me/n/s82ch9e&#10;">Nordstrom</a><img alt="icon" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=25ZRSXYPVYg&amp;bids=21855.1&amp;type=10"></li><li><a target="_blank" href="http://www.tkqlhce.com/click-2299623-10433276">Pink Mascara</a><img src="http://www.lduhtrp.net/image-2299623-10433276" width="1" height="1" border="0">
+</li><li><a target="_blank" href="http://rstyle.me/n/qxtch9e&#10;">Piperlime</a><img src="http://www.lduhtrp.net/image-2299623-10443687" width="1" height="1" border="0">
+</li><li><a target="_blank" href="http://rstyle.me/n/qxach9e&#10;">Revolve Clothing</a><img src="http://www.ftjcfx.com/image-2299623-10568215" width="1" height="1" border="0">
+</li><li><a target="_blank" href="http://rstyle.me/n/qxpch9e&#10;0">Saks Fifth Avenue</a><img border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=25ZRSXYPVYg&amp;bids=203719.10000805&amp;type=3&amp;subid=0">
+</li><li><a target="_blank" href="http://rstyle.me/n/mtnch9e&#10;">Sephora</a><img border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=25ZRSXYPVYg&amp;bids=32532.10000391&amp;type=3&amp;subid=0"></li><li><a href="http://rstyle.me/n/qgsch9e&#10;" target="_top">
 Shopbop
 </a>
-<img src="http://www.lduhtrp.net/image-2800546-10456099" width="1" height="1" border="0"></li><li><a target="_blank" href="http://gan.doubleclick.net/gan_click?lid=41000000036513631&amp;pubid=21000000000134287">Singer 22</a></li><li><a target="_blank" href="http://www.anrdoezrs.net/click-2299623-10513107">Steve Madden</a><img src="http://www.tqlkg.com/image-2299623-10513107" width="1" height="1" border="0">
-</li><li><a target="_blank" href="http://click.linksynergy.com/fs-bin/click?id=25ZRSXYPVYg&amp;subid=&amp;offerid=189460.1&amp;type=10&amp;tmpid=8372&amp;RD_PARM1=http%3A%2F%2Fwww.topshop.com%2Fwebapp%2Fwcs%2Fstores%2Fservlet%2FTopCategoriesDisplay%3FstoreId%3D12556%2526catalogId%3D33057">Topshop</a><img alt="icon" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=25ZRSXYPVYg&amp;bids=189460.1&amp;type=10"></li><li><a target="_blank" href="http://gan.doubleclick.net/gan_click?lid=41000000036513626&amp;pubid=21000000000134287">Urban Outfitters</a></li><li><a href="http://www.zappos.com" target="_blank">Zappos</a></li><li><a href="http://www.zara.com" target="_blank">Zara</a></li>            
+<img src="http://www.lduhtrp.net/image-2800546-10456099" width="1" height="1" border="0"></li><li><a target="_blank" href="http://rstyle.me/n/qzwch9e&#10;">Singer 22</a></li><li><a target="_blank" href="http://rstyle.me/n/qzbch9e&#10;">Steve Madden</a><img src="http://www.tqlkg.com/image-2299623-10513107" width="1" height="1" border="0">
+</li><li><a target="_blank" href="http://rstyle.me/n/e8tmch9e&#10;">Topshop</a><img alt="icon" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=25ZRSXYPVYg&amp;bids=189460.1&amp;type=10"></li><li><a target="_blank" href="http://rstyle.me/n/pwach9e&#10;">Urban Outfitters</a></li><li><a href="http://rstyle.me/n/qw5ch9e&#10;" target="_blank">Zappos</a></li><li><a href="http://www.zara.com" target="_blank">Zara</a></li>            
         </ul>
         </div>
     </div>
     <div class="wwwRight">
     	<ul>
-        	<li><a href="http://altamiranyc.blogspot.com/" target="_blank">Altamira</a></li><li><a href="http://becauseimaddicted.net/" target="_blank">Because I'm Addicted</a></li><li><a href="http://www.bloglovin.com/" target="_blank">Blog Lovin</a></li><li><a href="http://www.boutiques.com/" target="_blank">Boutiques</a></li><li><a href="http://www.vogue.co.uk/" target="_blank">British Vogue</a></li><li><a href="http://www.dailyfrontrow.com/" target="_blank">Daily Front Row</a></li><li><a href="http://www.elle.com/" target="_blank">Elle</a></li><li><a href="http://www.elleuk.com/" target="_blank">Elle UK</a></li><li><a href="http://www.fashionista.com" target="_blank">Fashionista</a></li><li><a href="http://www.glamour.com" target="_blank">Glamour</a></li><li><a href="http://www.harpersbazaar.com/" target="_blank">Harper's Bazaar</a></li><li><a href="http://intothegloss.com/" target="_blank">Into the Gloss</a></li><li><a href="http://jakandjil.com/blog/" target="_blank">Jak and Jil Blog</a></li><li><a href="http://www.knighttcat.com/" target="_blank">Knight Cat</a></li><li><a href="http://lefashionimage.blogspot.com/" target="_blank">Le Fashion</a></li><li><a href="http://lookbook.nu/" target="_blank">Lookbook</a></li><li><a href="http://nymag.com/daily/fashion/" target="_blank">New York Magazine: The Cut</a></li><li><a href="http://www.nylonmag.com/" target="_blank">Nylon Magazine</a></li><li><a href="http://olsensanonymous.blogspot.com/" target="_blank">Olsens Anonymous </a></li><li><a href="http://www.seaofshoes.com/" target="_blank">Sea of Shoes</a></li><li><a href="http://www.spontaneouschick.com/" target="_blank">Spontaneous Chic</a></li><li><a href="http://carolinesmode.com/stockholmstreetstyle/" target="_blank">Stockholm Street Style</a></li><li><a href="http://studdedhearts.blogspot.com/" target="_blank">Studded Hearts</a></li><li><a href="http://www.style.com" target="_blank">Style</a></li><li><a href="http://www.teenvogue.com/" target="_blank">Teen Vogue</a></li><li><a href="http://www.thecoveteur.com/" target="_blank">The Coveteur </a></li><li><a href="http://www.thesartorialist.blogspot.com" target="_blank">The Sartorialist</a></li><li><a href="http://www.rachelzoe.com/" target="_blank">The Zoe Report</a></li><li><a href="http://vanessajackman.blogspot.com/" target="_blank">Vanessa Jackman Blog</a></li><li><a href="http://www.vogue.com/" target="_blank">Vogue</a></li><li><a href="http://www.wsj.com" target="_blank">Wall Street Journal</a></li><li><a href="http://www.wwd.com/" target="_blank">Women's Wear Daily</a></li>        </ul>
+        	<li><a href="http://altamiranyc.blogspot.com/" target="_blank">Altamira</a></li><li><a href="http://wwwear.it/Ne0MRh" target="_blank">Atlantic-Pacific</a></li><li><a href="http://wwwear.it/NpH04u" target="_blank">Because I'm Addicted</a></li><li><a href="http://www.bloglovin.com/" target="_blank">Blog Lovin</a></li><li><a href="http://www.boutiques.com/" target="_blank">Boutiques</a></li><li><a href="http://www.vogue.co.uk/" target="_blank">British Vogue</a></li><li><a href="http://wwwear.it/QlmjMr" target="_blank">Coco Cozy</a></li><li><a href="http://www.dailyfrontrow.com/" target="_blank">Daily Front Row</a></li><li><a href="http://www.elle.com/" target="_blank">Elle</a></li><li><a href="http://www.elleuk.com/" target="_blank">Elle UK</a></li><li><a href="http://www.fashionista.com" target="_blank">Fashionista</a></li><li><a href="http://www.glamour.com" target="_blank">Glamour</a></li><li><a href="http://wwwear.it/MCbdi9" target="_blank">Habitually Chic</a></li><li><a href="http://www.harpersbazaar.com/" target="_blank">Harper's Bazaar</a></li><li><a href="http://intothegloss.com/" target="_blank">Into the Gloss</a></li><li><a href="http://jakandjil.com/blog/" target="_blank">Jak and Jil Blog</a></li><li><a href="http://wwwear.it/MCbNMT" target="_blank">Knight Cat</a></li><li><a href="http://www.knighttcat.com/" target="_blank">Knight Cat</a></li><li><a href="http://wwwear.it/TDEPgk" target="_blank">Le 21eme</a></li><li><a href="http://wwwear.it/QGGJ1T" target="_blank">Le Fashion</a></li><li><a href="http://lookbook.nu/" target="_blank">Lookbook</a></li><li><a href="http://wwwear.it/OMVijP" target="_blank">Man Repeller</a></li><li><a href="http://nymag.com/daily/fashion/" target="_blank">New York Magazine: The Cut</a></li><li><a href="http://www.nylonmag.com/" target="_blank">Nylon Magazine</a></li><li><a href="http://wwwear.it/OEUBqU" target="_blank">Olivia Palermo</a></li><li><a href="http://olsensanonymous.blogspot.com/" target="_blank">Olsens Anonymous </a></li><li><a href="http://wwwear.it/OL8S8Y" target="_blank">Savvy Home Blog</a></li><li><a href="http://www.seaofshoes.com/" target="_blank">Sea of Shoes</a></li><li><a href="http://www.spontaneouschick.com/" target="_blank">Spontaneous Chic</a></li><li><a href="http://carolinesmode.com/stockholmstreetstyle/" target="_blank">Stockholm Street Style</a></li><li><a href="http://studdedhearts.blogspot.com/" target="_blank">Studded Hearts</a></li><li><a href="http://www.style.com" target="_blank">Style</a></li><li><a href="http://www.teenvogue.com/" target="_blank">Teen Vogue</a></li><li><a href="http://www.thecoveteur.com/" target="_blank">The Coveteur </a></li><li><a href="http://wwwear.it/RkXU6y" target="_blank">The Glow</a></li><li><a href="http://www.thesartorialist.blogspot.com" target="_blank">The Sartorialist</a></li><li><a href="http://www.rachelzoe.com/" target="_blank">The Zoe Report</a></li><li><a href="http://vanessajackman.blogspot.com/" target="_blank">Vanessa Jackman Blog</a></li><li><a href="http://www.vogue.com/" target="_blank">Vogue</a></li><li><a href="http://www.wsj.com" target="_blank">Wall Street Journal</a></li><li><a href="http://www.wwd.com/" target="_blank">Women's Wear Daily</a></li>        </ul>
     </div>
 </div>
 <script type="text/javascript">
@@ -553,7 +567,7 @@ Shopbop
 <div class="widget widget8 whome6"><!-- Tag Cloud -->
 <div id="tag-cloud">
 	<div id="tag-cloud-header">&nbsp;</div>
-		<div id="tag-cloud-content"><a href="http://www.whowhatwear.com/website/tag-category/Alexander-Wang" target="_parent" style="font-size: 21px" title="Alexander Wang">Alexander Wang</a> <a href="http://www.whowhatwear.com/website/tag-category/Louis-Vuitton" target="_parent" style="font-size: 11px" title="Louis Vuitton">Louis Vuitton</a> <a href="http://www.whowhatwear.com/website/tag-category/Rachel-Zoe" target="_parent" style="font-size: 10px" title="Rachel Zoe">Rachel Zoe</a> <a href="http://www.whowhatwear.com/website/tag-category/Chanel" target="_parent" style="font-size: 28px" title="Chanel">Chanel</a> <a href="http://www.whowhatwear.com/website/tag-category/How-They-Wear" target="_parent" style="font-size: 11px" title="How They Wear">How They Wear</a> <a href="http://www.whowhatwear.com/website/tag-category/Stella-McCartney" target="_parent" style="font-size: 12px" title="Stella McCartney">Stella McCartney</a> <a href="http://www.whowhatwear.com/website/tag-category/WWW-__-Styling-Tips" target="_parent" style="font-size: 11px" title="WWW - Styling Tips">WWW - Styling Tips</a> <a href="http://www.whowhatwear.com/website/tag-category/What-They-Wore" target="_parent" style="font-size: 12px" title="What They Wore">What They Wore</a> <a href="http://www.whowhatwear.com/website/tag-category/What-Was-She-Wearing-__-Answers" target="_parent" style="font-size: 27px" title="What Was She Wearing - Answers">What Was She Wearing - Answers</a> <a href="http://www.whowhatwear.com/website/tag-category/Lanvin" target="_parent" style="font-size: 13px" title="Lanvin">Lanvin</a> <a href="http://www.whowhatwear.com/website/tag-category/Marc-Jacobs" target="_parent" style="font-size: 13px" title="Marc Jacobs">Marc Jacobs</a> <a href="http://www.whowhatwear.com/website/tag-category/Chloe-Sevigny" target="_parent" style="font-size: 10px" title="Chloe Sevigny">Chloe Sevigny</a> <a href="http://www.whowhatwear.com/website/tag-category/Kate-Moss" target="_parent" style="font-size: 15px" title="Kate Moss">Kate Moss</a> <a href="http://www.whowhatwear.com/website/tag-category/Sienna-Miller" target="_parent" style="font-size: 13px" title="Sienna Miller">Sienna Miller</a> <a href="http://www.whowhatwear.com/website/tag-category/Alexa-Chung" target="_parent" style="font-size: 19px" title="Alexa Chung">Alexa Chung</a> <a href="http://www.whowhatwear.com/website/tag-category/Trend-Report" target="_parent" style="font-size: 20px" title="Trend Report">Trend Report</a> <a href="http://www.whowhatwear.com/website/tag-category/Balenciaga" target="_parent" style="font-size: 14px" title="Balenciaga">Balenciaga</a> <a href="http://www.whowhatwear.com/website/tag-category/Diane-Kruger" target="_parent" style="font-size: 11px" title="Diane Kruger">Diane Kruger</a> <a href="http://www.whowhatwear.com/website/tag-category/Givenchy" target="_parent" style="font-size: 9px" title="Givenchy">Givenchy</a> <a href="http://www.whowhatwear.com/website/tag-category/Rihanna" target="_parent" style="font-size: 10px" title="Rihanna">Rihanna</a> <a href="http://www.whowhatwear.com/website/tag-category/Topshop" target="_parent" style="font-size: 26px" title="Topshop">Topshop</a> <a href="http://www.whowhatwear.com/website/tag-category/Nicole-Richie" target="_parent" style="font-size: 12px" title="Nicole Richie">Nicole Richie</a> <a href="http://www.whowhatwear.com/website/tag-category/Rachel-Bilson" target="_parent" style="font-size: 20px" title="Rachel Bilson">Rachel Bilson</a> <a href="http://www.whowhatwear.com/website/tag-category/Go-Buy-Now" target="_parent" style="font-size: 11px" title="Go Buy Now">Go Buy Now</a> <a href="http://www.whowhatwear.com/website/tag-category/Proenza-Schouler" target="_parent" style="font-size: 17px" title="Proenza Schouler">Proenza Schouler</a> <a href="http://www.whowhatwear.com/website/tag-category/Miu-Miu" target="_parent" style="font-size: 13px" title="Miu Miu">Miu Miu</a> <a href="http://www.whowhatwear.com/website/tag-category/Girl-of-the-Month" target="_parent" style="font-size: 10px" title="Girl of the Month">Girl of the Month</a> <a href="http://www.whowhatwear.com/website/tag-category/Prada" target="_parent" style="font-size: 13px" title="Prada">Prada</a> <a href="http://www.whowhatwear.com/website/tag-category/3.1-Phillip-Lim" target="_parent" style="font-size: 12px" title="3.1 Phillip Lim">3.1 Phillip Lim</a> <a href="http://www.whowhatwear.com/website/tag-category/Accessory-Report" target="_parent" style="font-size: 13px" title="Accessory Report">Accessory Report</a> <a href="http://www.whowhatwear.com/website/tag-category/Chloe" target="_parent" style="font-size: 18px" title="Chloe">Chloe</a> <a href="http://www.whowhatwear.com/website/tag-category/Kate-Bosworth" target="_parent" style="font-size: 17px" title="Kate Bosworth">Kate Bosworth</a> <a href="http://www.whowhatwear.com/website/tag-category/Yves-Saint-Laurent" target="_parent" style="font-size: 9px" title="Yves Saint Laurent">Yves Saint Laurent</a> <a href="http://www.whowhatwear.com/website/tag-category/Ashley-Olsen" target="_parent" style="font-size: 12px" title="Ashley Olsen">Ashley Olsen</a> <a href="http://www.whowhatwear.com/website/tag-category/Beauty-Board" target="_parent" style="font-size: 18px" title="Beauty Board">Beauty Board</a> </div>
+		<div id="tag-cloud-content"><a href="http://www.whowhatwear.com/website/tag-category/Diane-Kruger" target="_parent" style="font-size: 10px" title="Diane Kruger">Diane Kruger</a> <a href="http://www.whowhatwear.com/website/tag-category/Alexander-Wang" target="_parent" style="font-size: 15px" title="Alexander Wang">Alexander Wang</a> <a href="http://www.whowhatwear.com/website/tag-category/Ask-A-Stylist" target="_parent" style="font-size: 11px" title="Ask A Stylist">Ask A Stylist</a> <a href="http://www.whowhatwear.com/website/tag-category/WWW-__-Styling-Tips" target="_parent" style="font-size: 10px" title="WWW - Styling Tips">WWW - Styling Tips</a> <a href="http://www.whowhatwear.com/website/tag-category/Stella-McCartney" target="_parent" style="font-size: 12px" title="Stella McCartney">Stella McCartney</a> <a href="http://www.whowhatwear.com/website/tag-category/Slideshow" target="_parent" style="font-size: 28px" title="Slideshow">Slideshow</a> <a href="http://www.whowhatwear.com/website/tag-category/Chanel" target="_parent" style="font-size: 18px" title="Chanel">Chanel</a> <a href="http://www.whowhatwear.com/website/tag-category/Go-Buy-Now" target="_parent" style="font-size: 11px" title="Go Buy Now">Go Buy Now</a> <a href="http://www.whowhatwear.com/website/tag-category/How-They-Wear" target="_parent" style="font-size: 10px" title="How They Wear">How They Wear</a> <a href="http://www.whowhatwear.com/website/tag-category/Kate-Moss" target="_parent" style="font-size: 12px" title="Kate Moss">Kate Moss</a> <a href="http://www.whowhatwear.com/website/tag-category/Givenchy" target="_parent" style="font-size: 9px" title="Givenchy">Givenchy</a> <a href="http://www.whowhatwear.com/website/tag-category/Accessory-Report" target="_parent" style="font-size: 11px" title="Accessory Report">Accessory Report</a> <a href="http://www.whowhatwear.com/website/tag-category/Marc-Jacobs" target="_parent" style="font-size: 11px" title="Marc Jacobs">Marc Jacobs</a> <a href="http://www.whowhatwear.com/website/tag-category/Rihanna" target="_parent" style="font-size: 10px" title="Rihanna">Rihanna</a> <a href="http://www.whowhatwear.com/website/tag-category/What-Was-She-Wearing-__-Answers" target="_parent" style="font-size: 18px" title="What Was She Wearing - Answers">What Was She Wearing - Answers</a> <a href="http://www.whowhatwear.com/website/tag-category/Prada" target="_parent" style="font-size: 11px" title="Prada">Prada</a> <a href="http://www.whowhatwear.com/website/tag-category/Chloe" target="_parent" style="font-size: 13px" title="Chloe">Chloe</a> <a href="http://www.whowhatwear.com/website/tag-category/Trend-Report" target="_parent" style="font-size: 14px" title="Trend Report">Trend Report</a> <a href="http://www.whowhatwear.com/website/tag-category/Mulberry" target="_parent" style="font-size: 10px" title="Mulberry">Mulberry</a> <a href="http://www.whowhatwear.com/website/tag-category/Sienna-Miller" target="_parent" style="font-size: 10px" title="Sienna Miller">Sienna Miller</a> <a href="http://www.whowhatwear.com/website/tag-category/Topshop" target="_parent" style="font-size: 20px" title="Topshop">Topshop</a> <a href="http://www.whowhatwear.com/website/tag-category/Proenza-Schouler" target="_parent" style="font-size: 13px" title="Proenza Schouler">Proenza Schouler</a> <a href="http://www.whowhatwear.com/website/tag-category/Lanvin" target="_parent" style="font-size: 11px" title="Lanvin">Lanvin</a> <a href="http://www.whowhatwear.com/website/tag-category/What-They-Wore" target="_parent" style="font-size: 10px" title="What They Wore">What They Wore</a> <a href="http://www.whowhatwear.com/website/tag-category/Kate-Bosworth" target="_parent" style="font-size: 13px" title="Kate Bosworth">Kate Bosworth</a> <a href="http://www.whowhatwear.com/website/tag-category/Louis-Vuitton" target="_parent" style="font-size: 10px" title="Louis Vuitton">Louis Vuitton</a> <a href="http://www.whowhatwear.com/website/tag-category/Alexa-Chung" target="_parent" style="font-size: 14px" title="Alexa Chung">Alexa Chung</a> <a href="http://www.whowhatwear.com/website/tag-category/3.1-Phillip-Lim" target="_parent" style="font-size: 11px" title="3.1 Phillip Lim">3.1 Phillip Lim</a> <a href="http://www.whowhatwear.com/website/tag-category/Nicole-Richie" target="_parent" style="font-size: 10px" title="Nicole Richie">Nicole Richie</a> <a href="http://www.whowhatwear.com/website/tag-category/Balenciaga" target="_parent" style="font-size: 11px" title="Balenciaga">Balenciaga</a> <a href="http://www.whowhatwear.com/website/tag-category/Rachel-Bilson" target="_parent" style="font-size: 14px" title="Rachel Bilson">Rachel Bilson</a> <a href="http://www.whowhatwear.com/website/tag-category/Ashley-Olsen" target="_parent" style="font-size: 10px" title="Ashley Olsen">Ashley Olsen</a> <a href="http://www.whowhatwear.com/website/tag-category/Gucci" target="_parent" style="font-size: 10px" title="Gucci">Gucci</a> <a href="http://www.whowhatwear.com/website/tag-category/Miu-Miu" target="_parent" style="font-size: 11px" title="Miu Miu">Miu Miu</a> <a href="http://www.whowhatwear.com/website/tag-category/Beauty-Board" target="_parent" style="font-size: 12px" title="Beauty Board">Beauty Board</a> </div>
 	<div id="tag-cloud-footer">&nbsp;</div>
 </div>
 <!-- End Tag Cloud --></div>
@@ -571,7 +585,8 @@ Shopbop
 <div class="widget widget10 whome8"><!-- Twitter updates -->
 <div id="twitter-updates">
 	<a href="#" id="twitter-prev"></a><a href="#" id="twitter-next"></a><a href="http://twitter.com/whowhatwear" target="_blank" id="twitter-follow-header">&nbsp;</a><a href="http://twitter.com/whowhatwear" target="_blank" id="twitter-follow">&nbsp;</a>
-	<div class="twitter-update-content"><ul><li>Currently Channeling: <a href="http://twitter.com/search?q=GreatGatsby" target="_blank">#GreatGatsby</a>! From an @<a href="http://www.twitter.com/EtroOfficial" target="_blank">EtroOfficial</a> dress to a @<a href="http://www.twitter.com/CHANEL" target="_blank">CHANEL</a> lip rouge, see our picks to get the look!  <a href="http://t.co/neu07j9b" target="_blank">http://t.co/neu07j9b</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/217409572535672833" target="_blank">5:10 PM Jun 25th</a></div></li><li>Create an elegant look like stylish ladies Diane Kruger &amp; @<a href="http://www.twitter.com/jamiechung1" target="_blank">jamiechung1</a> with evening watches from @<a href="http://www.twitter.com/Dior" target="_blank">Dior</a> @<a href="http://www.twitter.com/Gucci" target="_blank">Gucci</a> + more <a href="http://t.co/mPBSpohn" target="_blank">http://t.co/mPBSpohn</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/217391761549565952" target="_blank">4:00 PM Jun 25th</a></div></li><li>xo RT @<a href="http://www.twitter.com/ChoupettesDiary" target="_blank">ChoupettesDiary</a> If I were into anything besides Chanel, I'd have to agree w/ @<a href="http://www.twitter.com/WhoWhatWear" target="_blank">WhoWhatWear</a> that @<a href="http://www.twitter.com/CloverCanyonRN" target="_blank">CloverCanyonRN</a> is a "Line to Love"<br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/217376686059175936" target="_blank">3:00 PM Jun 25th</a></div></li><li>Model Off-Duty: Great low-key portraits of Karlie Kloss and others in simple tees + tanks via @<a href="http://www.twitter.com/10and10men" target="_blank">10and10men</a> -- <a href="http://t.co/yUjiwirx" target="_blank">http://t.co/yUjiwirx</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/217362391296524290" target="_blank">2:03 PM Jun 25th</a></div></li><li>The @<a href="http://www.twitter.com/BHLDN" target="_blank">BHLDN</a> heels from today's Currently Channeling: Great Gatsby story <a href="http://t.co/neu07j9b" target="_blank">http://t.co/neu07j9b</a>, ready for their close-up! <a href="http://t.co/6IWmbeZu" target="_blank">http://t.co/6IWmbeZu</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/217346445349634048" target="_blank">1:00 PM Jun 25th</a></div></li><li>Dying for that Glam Closet! RT @<a href="http://www.twitter.com/thecoveteur" target="_blank">thecoveteur</a> It's Maalouf Monday! In the words of Mr. @<a href="http://www.twitter.com/joeymaalouf" target="_blank">joeymaalouf</a>, this one is "MAJ" <a href="http://t.co/PV2ykXRL" target="_blank">http://t.co/PV2ykXRL</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/217335165964386304" target="_blank">12:15 PM Jun 25th</a></div></li><li>Look of the Day: Mila Kunis is subtle-yet-sexy in a sheer paneled frock at the Ted premiere <a href="http://t.co/MAm5biCH" target="_blank">http://t.co/MAm5biCH</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/217328095781322753" target="_blank">11:47 AM Jun 25th</a></div></li><li>Add some Daisy-worthy decadence to your wardrobe with these Great Gatsy-inspired pieces from @<a href="http://www.twitter.com/CHANEL" target="_blank">CHANEL</a> @<a href="http://www.twitter.com/ZARA_US" target="_blank">ZARA_US</a> + more! <a href="http://t.co/neu07j9b" target="_blank">http://t.co/neu07j9b</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/217319232889823233" target="_blank">11:11 AM Jun 25th</a></div></li><li>Create a timeless look a la Mary-Kate Olsen &amp; @<a href="http://www.twitter.com/karolinakurkova" target="_blank">karolinakurkova</a> with evening watches from @<a href="http://www.twitter.com/MichaelKors" target="_blank">MichaelKors</a> @<a href="http://www.twitter.com/Burberry" target="_blank">Burberry</a> + more <a href="http://t.co/mPBSpohn" target="_blank">http://t.co/mPBSpohn</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/217268852919255040" target="_blank">7:51 AM Jun 25th</a></div></li><li>Channel your inner Daisy Buchanan with these Great Gatsby-inspired pieces from @<a href="http://www.twitter.com/BHLDN" target="_blank">BHLDN</a> @<a href="http://www.twitter.com/BaubleBar" target="_blank">BaubleBar</a> @<a href="http://www.twitter.com/clubmonaco" target="_blank">clubmonaco</a> + more! <a href="http://t.co/neu07j9b" target="_blank">http://t.co/neu07j9b</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/217256952311447553" target="_blank">7:04 AM Jun 25th</a></div></li><li>Blend in with the locals in the city of lights with these Parisian essentials from @<a href="http://www.twitter.com/toryburch" target="_blank">toryburch</a> @<a href="http://www.twitter.com/madewell1937" target="_blank">madewell1937</a> + more! <a href="http://t.co/DqAcqw2m" target="_blank">http://t.co/DqAcqw2m</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/216928690670542849" target="_blank">9:20 AM Jun 24th</a></div></li><li>Metallic Accents: Today's street style inspiration via @<a href="http://www.twitter.com/leeoliveiraSS" target="_blank">leeoliveiraSS</a> -- <a href="http://t.co/yUjiwirx" target="_blank">http://t.co/yUjiwirx</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/216634876579954688" target="_blank">1:52 PM Jun 23rd</a></div></li><li>.@Nicole_Chavez shares her Parisian packing list of chic items from @<a href="http://www.twitter.com/MarcJacobsIntl" target="_blank">MarcJacobsIntl</a> @<a href="http://www.twitter.com/KarlLagerfeld" target="_blank">KarlLagerfeld</a> @<a href="http://www.twitter.com/TibiPR" target="_blank">TibiPR</a> &amp; more! <a href="http://t.co/DqAcqw2m" target="_blank">http://t.co/DqAcqw2m</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/216551196012449792" target="_blank">8:20 AM Jun 23rd</a></div></li><li>Where the wild things are. @<a href="http://www.twitter.com/Mulberry_Editor" target="_blank">Mulberry_Editor</a>'s <a href="http://twitter.com/search?q=AW2012" target="_blank">#AW2012</a> campaign with @<a href="http://www.twitter.com/lindseywixson" target="_blank">lindseywixson</a>! <a href="http://t.co/Bs3mx11a" target="_blank">http://t.co/Bs3mx11a</a> <a href="http://twitter.com/search?q=forestfairytale" target="_blank">#forestfairytale</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/216331014153306113" target="_blank">5:45 PM Jun 22nd</a></div></li><li>We solve your wedding wardrobe dilemma w/ a perfect @<a href="http://www.twitter.com/dkny" target="_blank">dkny</a> dress + accessories from @<a href="http://www.twitter.com/Brian_Atwood" target="_blank">Brian_Atwood</a> @<a href="http://www.twitter.com/katespadeny" target="_blank">katespadeny</a> &amp; more! <a href="http://t.co/1a0U2dfx" target="_blank">http://t.co/1a0U2dfx</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/216330552687603712" target="_blank">5:43 PM Jun 22nd</a></div></li><li>Whether rhinestone-encrusted or neon-hued, these cameo pieces from @<a href="http://www.twitter.com/DANNIJO" target="_blank">DANNIJO</a> @<a href="http://www.twitter.com/BaubleBar" target="_blank">BaubleBar</a> + more are anything but archaic! <a href="http://t.co/XRsM7l16" target="_blank">http://t.co/XRsM7l16</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/216319193581232130" target="_blank">4:58 PM Jun 22nd</a></div></li><li>WATCH: Prep for your next date night w/ these tips from the latest episode of our @<a href="http://www.twitter.com/Yahoo" target="_blank">Yahoo</a> series What to Wear, Where! <a href="http://t.co/afC9VaAy" target="_blank">http://t.co/afC9VaAy</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/216293250544320513" target="_blank">3:15 PM Jun 22nd</a></div></li><li>Retro Fresh: Lady-like summer looks full of sparkle, lace and pastels via Quality Magazine -- <a href="http://t.co/yUjiwirx" target="_blank">http://t.co/yUjiwirx</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/216277438454448128" target="_blank">2:12 PM Jun 22nd</a></div></li><li>.@caradelevingne's GNO with @<a href="http://www.twitter.com/karliekloss" target="_blank">karliekloss</a> @<a href="http://www.twitter.com/Lily_Donaldson_" target="_blank">Lily_Donaldson_</a> &amp; @<a href="http://www.twitter.com/lindseywixson" target="_blank">lindseywixson</a>, plus @<a href="http://www.twitter.com/DVF" target="_blank">DVF</a> <a href="http://twitter.com/search?q=resort13" target="_blank">#resort13</a> brights! <a href="http://t.co/mmeOY9Fj" target="_blank">http://t.co/mmeOY9Fj</a> <a href="http://twitter.com/search?q=FashionFriday" target="_blank">#FashionFriday</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/216261124918755328" target="_blank">1:07 PM Jun 22nd</a></div></li><li>Agree! RT @<a href="http://www.twitter.com/Maybelline" target="_blank">Maybelline</a> I think I need this dress. RT @<a href="http://www.twitter.com/WhoWhatWear" target="_blank">WhoWhatWear</a> one chic @<a href="http://www.twitter.com/dkny" target="_blank">dkny</a> dress for all your summer weddings <a href="http://t.co/1a0U2dfx" target="_blank">http://t.co/1a0U2dfx</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/216251827962908674" target="_blank">12:30 PM Jun 22nd</a></div></li><li>Look of the Day: Katie Holmes looks gorgeous in a stunning mirror print dress &amp; matching studded clutch + cuff <a href="http://t.co/PqQl9j6r" target="_blank">http://t.co/PqQl9j6r</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/216240407980408832" target="_blank">11:45 AM Jun 22nd</a></div></li><li>Lovely, as always. RT @<a href="http://www.twitter.com/gucci" target="_blank">gucci</a> Blake Lively is the face of Gucci PremiÃ¨re, our new women's fragrance. On set: <a href="http://t.co/FGSD7tBW" target="_blank">http://t.co/FGSD7tBW</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/216225954115231744" target="_blank">10:47 AM Jun 22nd</a></div></li><li>.@emmyrossum tackles some serious shoe decision making + @<a href="http://www.twitter.com/lenadunham" target="_blank">lenadunham</a> shares some street style a la @<a href="http://www.twitter.com/girlsHBO" target="_blank">girlsHBO</a>: <a href="http://t.co/mmeOY9Fj" target="_blank">http://t.co/mmeOY9Fj</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/216172517268787200" target="_blank">7:15 AM Jun 22nd</a></div></li><li>From @<a href="http://www.twitter.com/tombinnsdesign" target="_blank">tombinnsdesign</a>â€™s earrings to @<a href="http://www.twitter.com/LANVINofficial" target="_blank">LANVINofficial</a>â€™s necklace, we love these updated takes on the Victorian-era trend! <a href="http://t.co/XRsM7l16" target="_blank">http://t.co/XRsM7l16</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/216159238018449408" target="_blank">6:22 AM Jun 22nd</a></div></li><li>Get mileage out of one chic @<a href="http://www.twitter.com/dkny" target="_blank">dkny</a> dress for all your summer weddings with pieces from @<a href="http://www.twitter.com/FreePeople" target="_blank">FreePeople</a> @<a href="http://www.twitter.com/toryburch" target="_blank">toryburch</a> + more! <a href="http://t.co/1a0U2dfx" target="_blank">http://t.co/1a0U2dfx</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/216154864659603456" target="_blank">6:05 AM Jun 22nd</a></div></li><li>From @<a href="http://www.twitter.com/topshop" target="_blank">topshop</a>â€™s retro hot pants to @<a href="http://www.twitter.com/SimplyShortUSA" target="_blank">SimplyShortUSA</a>â€™s animal-print version, see our favorite under $100 printed shorts! <a href="http://t.co/aMQcn2UR" target="_blank">http://t.co/aMQcn2UR</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/215973446188929025" target="_blank">6:04 PM Jun 21st</a></div></li><li>Congrats ladies!! RT @<a href="http://www.twitter.com/RackedLA" target="_blank">RackedLA</a> Photo tour: @<a href="http://www.twitter.com/satineboutique" target="_blank">satineboutique</a> brings two pups and a lot of great clothes to Venice <a href="http://t.co/d9o8jbRs" target="_blank">http://t.co/d9o8jbRs</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/215954353884905472" target="_blank">4:48 PM Jun 21st</a></div></li><li>Trench With A Twist: Today's street style inspiration with @<a href="http://www.twitter.com/CaroIssa" target="_blank">CaroIssa</a> and @<a href="http://www.twitter.com/ElisaNalin" target="_blank">ElisaNalin</a> via @<a href="http://www.twitter.com/Stylesight" target="_blank">Stylesight</a> -- <a href="http://t.co/yUjiwirx" target="_blank">http://t.co/yUjiwirx</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/215914705661861888" target="_blank">2:10 PM Jun 21st</a></div></li><li>Happily ever after. RT @<a href="http://www.twitter.com/Mulberry_Editor" target="_blank">Mulberry_Editor</a> And finally... <a href="http://twitter.com/search?q=AW12" target="_blank">#AW12</a> <a href="http://twitter.com/search?q=forestfairytale" target="_blank">#forestfairytale</a> <a href="http://t.co/HsKpv0Ru" target="_blank">http://t.co/HsKpv0Ru</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/215901551233998849" target="_blank">1:18 PM Jun 21st</a></div></li><li>.@Jess_Stam's sporty Versus dress + hot pink @<a href="http://www.twitter.com/Coach" target="_blank">Coach</a> pouch was a perfect look for the first official night of summer! <a href="http://t.co/RxenklxT" target="_blank">http://t.co/RxenklxT</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/215890874519928832" target="_blank">12:36 PM Jun 21st</a></div></li><li>Try the printed short trend for summer with these cute under $100 options from @<a href="http://www.twitter.com/billabonggirls" target="_blank">billabonggirls</a> @<a href="http://www.twitter.com/bebe_Stores" target="_blank">bebe_Stores</a> + more! <a href="http://t.co/aMQcn2UR" target="_blank">http://t.co/aMQcn2UR</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/215885387971821568" target="_blank">12:14 PM Jun 21st</a></div></li><li>Live la dolce vita daily in this dreamy piece from @<a href="http://www.twitter.com/Brookeburke" target="_blank">Brookeburke</a> x @<a href="http://www.twitter.com/intiMINT" target="_blank">intiMINT</a>'s new collection: <a href="http://t.co/w6TDgUE2" target="_blank">http://t.co/w6TDgUE2</a> <a href="http://twitter.com/search?q=ad" target="_blank">#ad</a> <a href="http://t.co/qFtmDMYJ" target="_blank">http://t.co/qFtmDMYJ</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/215857471070277633" target="_blank">10:23 AM Jun 21st</a></div></li><li>Inspired by @<a href="http://www.twitter.com/RobertsEmma" target="_blank">RobertsEmma</a>'s @<a href="http://www.twitter.com/LavishAlice" target="_blank">LavishAlice</a> pair, see our fave under $100 printed shorts from @<a href="http://www.twitter.com/roxy" target="_blank">roxy</a> @<a href="http://www.twitter.com/freepeople" target="_blank">freepeople</a> + more! <a href="http://t.co/aMQcn2UR" target="_blank">http://t.co/aMQcn2UR</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/215809402911993858" target="_blank">7:12 AM Jun 21st</a></div></li><li>Complete your stylish travel ensemble with pieces from @<a href="http://www.twitter.com/ALTUZARRASTUDIO" target="_blank">ALTUZARRASTUDIO</a> x @<a href="http://www.twitter.com/JCrew_Insider" target="_blank">JCrew_Insider</a>, @<a href="http://www.twitter.com/Topshop" target="_blank">Topshop</a>, @<a href="http://www.twitter.com/toryburch" target="_blank">toryburch</a> +  more! <a href="http://t.co/6ehpz9JT" target="_blank">http://t.co/6ehpz9JT</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/215600235798462464" target="_blank">5:21 PM Jun 20th</a></div></li><li>What great company! xo RT @<a href="http://www.twitter.com/_IFB" target="_blank">_IFB</a> We couldn't mention our fave instagrams w/o @<a href="http://www.twitter.com/OscarPRGirl" target="_blank">OscarPRGirl</a> @<a href="http://www.twitter.com/WhoWhatWear" target="_blank">WhoWhatWear</a> &amp; @<a href="http://www.twitter.com/BlairEadieBEE" target="_blank">BlairEadieBEE</a> <a href="http://t.co/zo35B9gt" target="_blank">http://t.co/zo35B9gt</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/215565204254232576" target="_blank">3:02 PM Jun 20th</a></div></li><li>Long Hot Summer: sexy white swimwear, perfect tans and summer ready beauty via @<a href="http://www.twitter.com/BazaarUK" target="_blank">BazaarUK</a> -- <a href="http://t.co/yUjiwirx" target="_blank">http://t.co/yUjiwirx</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/215551742526492672" target="_blank">2:08 PM Jun 20th</a></div></li><li>.@Hillary_Kerr is looking right on-trend for summer solstice in this @<a href="http://www.twitter.com/Gap" target="_blank">Gap</a> maxi + espadrille ensemble! <a href="http://t.co/MXextLYM" target="_blank">http://t.co/MXextLYM</a> <a href="http://twitter.com/search?q=ad" target="_blank">#ad</a> <a href="http://twitter.com/search?q=styldby" target="_blank">#styldby</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/215547174891687936" target="_blank">1:50 PM Jun 20th</a></div></li><li>We can't decide what's cuter... @<a href="http://www.twitter.com/TheRealOliviaP" target="_blank">TheRealOliviaP</a>â€™s animal print coat, or her equally as adorable companion? <a href="http://t.co/527ghpxQ" target="_blank">http://t.co/527ghpxQ</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/215536001811087360" target="_blank">1:06 PM Jun 20th</a></div></li><li>From @<a href="http://www.twitter.com/Poly_Natasha" target="_blank">Poly_Natasha</a> in @<a href="http://www.twitter.com/EmilioPucci" target="_blank">EmilioPucci</a> to @<a href="http://www.twitter.com/ZoeSaldana" target="_blank">ZoeSaldana</a> in @<a href="http://www.twitter.com/Balmain" target="_blank">Balmain</a>, weâ€™re obsessed with these gorgeous backless dresses! <a href="http://t.co/RLyB3q5J" target="_blank">http://t.co/RLyB3q5J</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/215534467111063552" target="_blank">12:59 PM Jun 20th</a></div></li><li>Jetsetting this summer? Get chic airport attire inspiration from globetrotters like @<a href="http://www.twitter.com/RHW" target="_blank">RHW</a> @<a href="http://www.twitter.com/JessicaAlba" target="_blank">JessicaAlba</a> &amp; Diane Kruger! <a href="http://t.co/6ehpz9JT" target="_blank">http://t.co/6ehpz9JT</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/215518954221862913" target="_blank">11:58 AM Jun 20th</a></div></li></ul></div>
+	<div class="twitter-update-content"><ul><li>How clutch is @<a href="http://www.twitter.com/katespadeny" target="_blank">katespadeny</a>'s Stroke of Midnight purse from today's <a href="http://twitter.com/search?q=NYE" target="_blank">#NYE</a> roundup? <a href="http://t.co/dLQ3gx9Q" target="_blank">http://t.co/dLQ3gx9Q</a> (shop it here: <a href="http://t.co/cJhVXBBg" target="_blank">http://t.co/cJhVXBBg</a>)<br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/284116682899873793" target="_blank">6:01 PM Dec 26th</a></div></li><li>Simple Scarves: Today's street style inspiration via @<a href="http://www.twitter.com/citizencouture" target="_blank">citizencouture</a> and Walk Fast, Strong, Cool &amp; Urban <a href="http://t.co/pi0j6olK" target="_blank">http://t.co/pi0j6olK</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/284099247794692096" target="_blank">4:51 PM Dec 26th</a></div></li><li>Oversized jumper + mini, preppy sweater + low-key sneaks, &amp; more knit inspiration from @<a href="http://www.twitter.com/le21eme" target="_blank">le21eme</a>'s street style roundup! <a href="http://t.co/i3ZTCmtG" target="_blank">http://t.co/i3ZTCmtG</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/284063543224049664" target="_blank">2:30 PM Dec 26th</a></div></li><li>Feathered clutch (@Coach), dazzling ring (@juicycouture), metallic heels (@A_Ingelmo) + more New Year's Eve must-haves! <a href="http://t.co/JnHQsr3w" target="_blank">http://t.co/JnHQsr3w</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/284048444031655938" target="_blank">1:30 PM Dec 26th</a></div></li><li>Look of the Day: @<a href="http://www.twitter.com/juliephenderson" target="_blank">juliephenderson</a>'s embellished navy number (how perfect is that pop of neon?) <a href="http://t.co/8rcNBt2Y" target="_blank">http://t.co/8rcNBt2Y</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/284025794878128130" target="_blank">12:00 PM Dec 26th</a></div></li><li>Street style never looked so cozy. The best knitwear looks from the streets, from cozy caps to chunky sweaters <a href="http://t.co/i3ZTCmtG" target="_blank">http://t.co/i3ZTCmtG</a> @<a href="http://www.twitter.com/le21eme" target="_blank">le21eme</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/283988045978558464" target="_blank">9:30 AM Dec 26th</a></div></li><li><a href="http://twitter.com/search?q=NYE" target="_blank">#NYE</a> is nothing if not an excuse for festive fashion! From a luxe tux to a lace mini, take your cues from the runways: <a href="http://t.co/JnHQsr3w" target="_blank">http://t.co/JnHQsr3w</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/283965884110884865" target="_blank">8:01 AM Dec 26th</a></div></li><li>How did @<a href="http://www.twitter.com/GwenStefani" target="_blank">GwenStefani</a> make matching @<a href="http://www.twitter.com/MichaelKors" target="_blank">MichaelKors</a> prints &amp; a @<a href="http://www.twitter.com/HolmesandYang" target="_blank">HolmesandYang</a> cape work? We break it down: <a href="http://t.co/z00o0rzb" target="_blank">http://t.co/z00o0rzb</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/283384166870048768" target="_blank">5:30 PM Dec 24th</a></div></li><li>In honor of @<a href="http://www.twitter.com/LesMiserables" target="_blank">LesMiserables</a> opening &amp; our love of Anne Hathaway's fearless style, we spotlight some of Anne's best looks <a href="http://t.co/W1cZ4pYT" target="_blank">http://t.co/W1cZ4pYT</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/283369069057540096" target="_blank">4:30 PM Dec 24th</a></div></li><li>Cours De Mat: @<a href="http://www.twitter.com/ELLEfrance" target="_blank">ELLEfrance</a> shows how nails, eyes + lips with a matte finish pair beautifully with fresh dewy skin <a href="http://t.co/qNbz55VG" target="_blank">http://t.co/qNbz55VG</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/283353968023855106" target="_blank">3:30 PM Dec 24th</a></div></li><li>Adore @<a href="http://www.twitter.com/GwenStefani" target="_blank">GwenStefani</a>'s cape from today's story? Throw this @<a href="http://www.twitter.com/MaxStudioUSA" target="_blank">MaxStudioUSA</a>
+version on for instant style:  <a href="http://t.co/6Pt7lOhy" target="_blank">http://t.co/6Pt7lOhy</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/283308707977232384" target="_blank">12:30 PM Dec 24th</a></div></li><li>This is how you do holiday party dressing! We adore @<a href="http://www.twitter.com/DelevingnePoppy" target="_blank">DelevingnePoppy</a>'s sequin @<a href="http://www.twitter.com/sass_and_bide" target="_blank">sass_and_bide</a> dress: <a href="http://t.co/PsBVUA0J" target="_blank">http://t.co/PsBVUA0J</a> <a href="http://twitter.com/search?q=LookOfTheDay" target="_blank">#LookOfTheDay</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/283293612010266624" target="_blank">11:30 AM Dec 24th</a></div></li><li>Channel Anne Hathaway's bold red carpet looks &amp; chic off-duty style with pieces from @<a href="http://www.twitter.com/dkny" target="_blank">dkny</a> @<a href="http://www.twitter.com/mango" target="_blank">mango</a> @<a href="http://www.twitter.com/loft" target="_blank">loft</a> + more:  <a href="http://t.co/W1cZ4pYT" target="_blank">http://t.co/W1cZ4pYT</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/283275737841152000" target="_blank">10:19 AM Dec 24th</a></div></li><li>Head-to-toe prints, capes &amp; caps! @<a href="http://www.twitter.com/GwenStefani" target="_blank">GwenStefani</a> shows us how to pull it all together in today's Why It Works: <a href="http://t.co/z00o0rzb" target="_blank">http://t.co/z00o0rzb</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/283254008804683776" target="_blank">8:53 AM Dec 24th</a></div></li><li>RT @<a href="http://www.twitter.com/LesMiserables" target="_blank">LesMiserables</a>: Amanda Seyfried shares her fashion must-haves and personal style favorites as guest editor of @<a href="http://www.twitter.com/WhoWhatWear" target="_blank">WhoWhatWear</a>! http://t. ...<br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/283058327171239936" target="_blank">7:55 PM Dec 23rd</a></div></li><li>Giving back is always in style. Some of our lovely @<a href="http://www.twitter.com/WhoWhatWear" target="_blank">WhoWhatWear</a> ladies stopped by to help out @<a href="http://www.twitter.com/Baby2Baby" target="_blank">Baby2Baby</a> this week <a href="http://t.co/gcixK2VT" target="_blank">http://t.co/gcixK2VT</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/282964299956232193" target="_blank">1:42 PM Dec 23rd</a></div></li><li>Celeb stylists @<a href="http://www.twitter.com/EmilyAndMeritt" target="_blank">EmilyAndMeritt</a>'s top <a href="http://twitter.com/search?q=NYE" target="_blank">#NYE</a> party picks, from a sequin @<a href="http://www.twitter.com/alice_olivia" target="_blank">alice_olivia</a> frock to a festive @<a href="http://www.twitter.com/MiuMiuStyle" target="_blank">MiuMiuStyle</a> bag <a href="http://t.co/8eGVAutW" target="_blank">http://t.co/8eGVAutW</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/282923566649982976" target="_blank">11:00 AM Dec 23rd</a></div></li><li>Fake a perfect hourglass shape with help from paneled dresses from @<a href="http://www.twitter.com/31philliplim" target="_blank">31philliplim</a> @<a href="http://www.twitter.com/BCBGMaxAzria" target="_blank">BCBGMaxAzria</a> @<a href="http://www.twitter.com/BlackHaloStyle" target="_blank">BlackHaloStyle</a> + more <a href="http://t.co/vfz0WycQ" target="_blank">http://t.co/vfz0WycQ</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/282904657423110144" target="_blank">9:45 AM Dec 23rd</a></div></li><li>MIU MIU | S/S 2013 Campaign: A stunning cast in equally stunning feminine and ladylike looks <a href="http://t.co/y8FBl4mY" target="_blank">http://t.co/y8FBl4mY</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/282617343702597632" target="_blank">2:43 PM Dec 22nd</a></div></li><li>If you can't wear a sparkly statement headband on New Year's Eve, when can you? @<a href="http://www.twitter.com/EmilyAndMeritt" target="_blank">EmilyAndMeritt</a>'s pick from @<a href="http://www.twitter.com/Nordstrom" target="_blank">Nordstrom</a>: <a href="http://t.co/SZgMsUSh" target="_blank">http://t.co/SZgMsUSh</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/282591393245954048" target="_blank">1:00 PM Dec 22nd</a></div></li><li>How perfect is Katie Holmes' green leather frock in today's Look of the Day? We. Are. Obsessed. <a href="http://t.co/BZvzU6ea" target="_blank">http://t.co/BZvzU6ea</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/282576293680271360" target="_blank">12:00 PM Dec 22nd</a></div></li><li>Paneled dresses = instant silhouette slimmers! Our must-have versions from @<a href="http://www.twitter.com/StellaMcCartney" target="_blank">StellaMcCartney</a> @<a href="http://www.twitter.com/MichaelKors" target="_blank">MichaelKors</a>  + more: <a href="http://t.co/vfz0WycQ" target="_blank">http://t.co/vfz0WycQ</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/282546085111676928" target="_blank">10:00 AM Dec 22nd</a></div></li><li>Embrace the sparkle. Celebrity stylists @<a href="http://www.twitter.com/EmilyAndMeritt" target="_blank">EmilyAndMeritt</a> help you plan a foolproof <a href="http://twitter.com/search?q=NYE" target="_blank">#NYE</a> outfit! <a href="http://t.co/8eGVAutW" target="_blank">http://t.co/8eGVAutW</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/282525770193174528" target="_blank">8:39 AM Dec 22nd</a></div></li><li>A La Italiana: @<a href="http://www.twitter.com/CaraDelevingne" target="_blank">CaraDelevingne</a> is an Italian dream in @<a href="http://www.twitter.com/Ferragamo" target="_blank">Ferragamo</a> python + fringe for @<a href="http://www.twitter.com/VogueSpain" target="_blank">VogueSpain</a> <a href="http://t.co/sUmhb6cV" target="_blank">http://t.co/sUmhb6cV</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/282289554319351808" target="_blank">5:00 PM Dec 21st</a></div></li><li>The mother load of @<a href="http://www.twitter.com/vitafede" target="_blank">vitafede</a> bracelets, one of Amanda Seyfried's picks in her Guest Editor story! <a href="http://t.co/zndE6sSx" target="_blank">http://t.co/zndE6sSx</a> <a href="http://t.co/OuE4k7hv" target="_blank">http://t.co/OuE4k7hv</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/282273502126563329" target="_blank">3:57 PM Dec 21st</a></div></li><li>.@MirandaKerr is everything in @<a href="http://www.twitter.com/HELMUTLANG" target="_blank">HELMUTLANG</a> leather leggings, an Isabel Marant cardigan &amp; Gianvito Rossi heels: <a href="http://t.co/IbNC1DWj" target="_blank">http://t.co/IbNC1DWj</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/282259288217505792" target="_blank">3:00 PM Dec 21st</a></div></li><li>Swooning over bloggers @<a href="http://www.twitter.com/SoniaEryka" target="_blank">SoniaEryka</a> &amp; @<a href="http://www.twitter.com/thedamselindior" target="_blank">thedamselindior</a>'s darling <a href="http://twitter.com/search?q=DressedFor" target="_blank">#DressedFor</a> <a href="http://twitter.com/search?q=Romance" target="_blank">#Romance</a> @<a href="http://www.twitter.com/armaniexchange" target="_blank">armaniexchange</a> looks: <a href="http://t.co/mnv408dZ" target="_blank">http://t.co/mnv408dZ</a> <a href="http://twitter.com/search?q=sp" target="_blank">#sp</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/282244152597565440" target="_blank">2:00 PM Dec 21st</a></div></li><li>.@hilaryhrhoda's Santa-chic look, @<a href="http://www.twitter.com/atkinjen" target="_blank">atkinjen</a> on set @<a href="http://www.twitter.com/GwenStefani" target="_blank">GwenStefani</a>'s @<a href="http://www.twitter.com/voguemagazine" target="_blank">voguemagazine</a> shoot + more of our fave social snaps <a href="http://t.co/CJ311WMT" target="_blank">http://t.co/CJ311WMT</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/282236589613133825" target="_blank">1:30 PM Dec 21st</a></div></li><li>A @<a href="http://www.twitter.com/Givenchy" target="_blank">Givenchy</a> handbag, black + gold @<a href="http://www.twitter.com/WorldMcQueen" target="_blank">WorldMcQueen</a> party dress + more of Amanda Seyfried's December picks! <a href="http://t.co/zndE6sSx" target="_blank">http://t.co/zndE6sSx</a> @<a href="http://www.twitter.com/LesMiserables" target="_blank">LesMiserables</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/282229076608036864" target="_blank">1:00 PM Dec 21st</a></div></li><li>Felicity Jones is simply stunning in a ladylike sheer-paneled @<a href="http://www.twitter.com/Dior" target="_blank">Dior</a> dress at the @<a href="http://www.twitter.com/BIFA_film" target="_blank">BIFA_film</a> Awards in London <a href="http://t.co/8NuwhG0c" target="_blank">http://t.co/8NuwhG0c</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/282214017504784384" target="_blank">12:00 PM Dec 21st</a></div></li><li>"It's exhausting being fabulous." -@VictoriaBeckham.  <a href="http://t.co/hseaRWY1" target="_blank">http://t.co/hseaRWY1</a> We feel you VB. Happy Friday to our fabulous followers! xo<br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/282198978248986624" target="_blank">11:00 AM Dec 21st</a></div></li><li>Keira Knightley's @<a href="http://www.twitter.com/DuroOlowu" target="_blank">DuroOlowu</a> dress, @<a href="http://www.twitter.com/AngelAlessandra" target="_blank">AngelAlessandra</a>'s See by @<a href="http://www.twitter.com/chloe_fashion" target="_blank">chloe_fashion</a> wedge sneakers + more celeb outfit IDs! <a href="http://t.co/IbNC1DWj" target="_blank">http://t.co/IbNC1DWj</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/282181975496871936" target="_blank">9:53 AM Dec 21st</a></div></li><li>What's @<a href="http://www.twitter.com/LesMiserables" target="_blank">LesMiserables</a> star Amanda Seyfried coveting this month? Click for our December Guest Editor's stylish picks! <a href="http://t.co/zndE6sSx" target="_blank">http://t.co/zndE6sSx</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/282145443364888576" target="_blank">7:28 AM Dec 21st</a></div></li><li>Leather at the office? Editorial Assistant @<a href="http://www.twitter.com/Katcollings" target="_blank">Katcollings</a> shows you how to pull it off in today's Trend Trial: <a href="http://t.co/0J8x1Xvs" target="_blank">http://t.co/0J8x1Xvs</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/281934537871720449" target="_blank">5:30 PM Dec 20th</a></div></li><li>PRADA | S/S 2013 Campaign: furry, floral + metallic detailed looks <a href="http://t.co/jxaDG54H" target="_blank">http://t.co/jxaDG54H</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/281919495109480448" target="_blank">4:30 PM Dec 20th</a></div></li><li>Raccoon eyes + blunt blonde bob + a stained lip = @<a href="http://www.twitter.com/WWWBeauty" target="_blank">WWWBeauty</a>'s recipe for snagging Margot Tenenbaum's iconic look! <a href="http://t.co/mYK9sTdR" target="_blank">http://t.co/mYK9sTdR</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/281886921955880960" target="_blank">2:20 PM Dec 20th</a></div></li><li>The leather @<a href="http://www.twitter.com/TibiPR" target="_blank">TibiPR</a> shell from today's trend trial (<a href="http://t.co/0J8x1Xvs" target="_blank">http://t.co/0J8x1Xvs</a>) that the office is swooning over' <a href="http://t.co/tMTkwoMt" target="_blank">http://t.co/tMTkwoMt</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/281874164296589312" target="_blank">1:30 PM Dec 20th</a></div></li><li>From a bejeweled @<a href="http://www.twitter.com/ShouroukR" target="_blank">ShouroukR</a> dazzler to a statement-making @<a href="http://www.twitter.com/toryburch" target="_blank">toryburch</a> breastplate, shop our top necklace picks: <a href="http://t.co/cRnyKsad" target="_blank">http://t.co/cRnyKsad</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/281859054912016384" target="_blank">12:30 PM Dec 20th</a></div></li><li>If you need us, we'll be planning a holiday soiree ensemble around this romantic ODLR collar necklace <a href="http://t.co/CqTjhxRH" target="_blank">http://t.co/CqTjhxRH</a> cc: @<a href="http://www.twitter.com/OscarPRGirl" target="_blank">OscarPRGirl</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/281847462149378048" target="_blank">11:44 AM Dec 20th</a></div></li><li>When @<a href="http://www.twitter.com/gossipgirl" target="_blank">gossipgirl</a> was the Best. Show. Ever. <a href="http://t.co/8sS5PYL2" target="_blank">http://t.co/8sS5PYL2</a> cc: @<a href="http://www.twitter.com/nymag" target="_blank">nymag</a>  <a href="http://twitter.com/search?q=ThrowbackThursday" target="_blank">#ThrowbackThursday</a> <a href="http://twitter.com/search?q=TBT" target="_blank">#TBT</a><br><div class="twitter-date"><a href="http://twitter.com/WhoWhatWear/statuses/281836416307175425" target="_blank">11:00 AM Dec 20th</a></div></li></ul></div>
 </div>
 
 <script type="text/javascript">
@@ -613,7 +628,7 @@ jQuery(function( $ ){
     	<a href="http://feeds.whowhatwear.com/whowhatwear" class="FNS_ic3" target="_blank">RSS</a>
 </div><!--<a href="mailto: advertise@whowhatwear.com">advertise</a> -->
 <div class="FN_logo"><a href="/website/">WHOWHATWEAR</a></div>
-<div class="FN_line2"><a href="/website/aboutus.php" target="_top">about us</a>  |  <a href="/website/monthlyarchive/2012/6/" target="_top">archive</a>  |  <a href="/website/aboutus.php#advertise">advertise</a>  |  <a href="/website/aboutus.php#careers">Careers</a>  |  <a href="/website/aboutus.php#contacts">Contact</a> |  <a href="http://www.facebook.com/WhoWhatWear">Facebook</a>  |  <a href="http://twitter.com/WhoWhatWear">Twitter</a>  |  <a href="/website/privacy.php">Privacy Policy</a>  |  <a href="/website/terms.html">Terms &amp; Conditions</a> | 
+<div class="FN_line2"><a href="/website/aboutus.php" target="_top">about us</a>  |  <a href="/website/monthlyarchive/2012/12/" target="_top">archive</a>  |  <a href="/website/aboutus.php#advertise">advertise</a>  |  <a href="/blog/tag/careers/">Careers</a>  |  <a href="/website/aboutus.php#contacts">Contact</a> |  <a href="http://www.facebook.com/WhoWhatWear">Facebook</a>  |  <a href="http://twitter.com/WhoWhatWear">Twitter</a>  |  <a href="/website/privacy.php">Privacy Policy</a>  |  <a href="/website/terms.html">Terms &amp; Conditions</a> |
 <a href="/website/aboutus.php#support">support</a> | <a href="/website/sitemap/htmlmap.php">Site Map</a>  |  <a href="http://feeds.whowhatwear.com/whowhatwear">RSS</a></div>
 <div class="FN_line3">© Who What Wear LLC. <script type="text/javascript">
   var curdate = new Date();
@@ -623,9 +638,7 @@ jQuery(function( $ ){
 
 </div>
 
-
-
-
+<!-- Begin Quantcast Tag -->
 <script type="text/javascript">
 _qoptions={
 qacct:"p-659UZw3_sg3Sg"
@@ -635,17 +648,21 @@ qacct:"p-659UZw3_sg3Sg"
 <noscript>
 <img src="http://pixel.quantserve.com/pixel/p-659UZw3_sg3Sg.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 </noscript>
-<!--
-<script type="text/javascript" src="http://whowhatwearcom.skimlinks.com/api/skimlinks.js"></script>
+<!-- End Quantcast Tag -->
+
+<!-- Begin Skimlinks -->
+<!-- <script type="text/javascript" src="http://whowhatwearcom.skimlinks.com/api/skimlinks.js"></script>
 <script type="text/javascript">
 var skimlinks_pub_id = '1870X548132';
 skimlinks();
 </script> -->
+<!-- End Skimlinks -->
 
-
+<!-- Begin Safecount Node -->
+<script type="text/javascript" src="http://content.dl-rms.com/rms/mother/47283/nodetag.js"></script>
+<!-- End Safecount Node -->
 
 <!-- Begin comScore Tag -->
-
 <script>
     var _comscore = _comscore || [];
     _comscore.push({ c1: "2", c2: "13554700" });
@@ -658,7 +675,6 @@ skimlinks();
 <noscript>
     <img src="http://b.scorecardresearch.com/p?c1=2&c2=13554700&cv=2.0&cj=1" />
 </noscript>
-
 <!-- End comScore Tag -->
 
 
