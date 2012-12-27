@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackcanfield.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614085625id_/http%3A//www.jackcanfield.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackcanfield.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227194033id_/http%3A//www.jackcanfield.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Site Business - Privacy Policy | Jack Canfield
 
