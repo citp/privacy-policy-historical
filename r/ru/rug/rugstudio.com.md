@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the rugstudio.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512091244id_/http%3A//www.rugstudio.com/rugstudioprivacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugstudio.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227213506id_/http%3A//www.rugstudio.com/rugstudioprivacypolicy.aspx) for the most accurate reproduction.*
 
 # RugStudio: Privacy Policy
 
 | 
 
-[](https://web.archive.org/contact-us.aspx)  
+[ ](https://server.iad.liveperson.net/hc/33751730/?cmd=file&file=visitorWantsToChat&site=33751730&byhref=1&imageUrl=https://www.rugstudio.com/images/0906/lp)  
 [  
-](https://web.archive.org/rugstudiodeliveryinformation.aspx)
+](https://web.archive.org/rugstudiodeliveryinformation.aspx)[](http://www.facebook.com/rugstudiocom)
 
+  
 |  | | |   
 ---|---|---  
 | 
