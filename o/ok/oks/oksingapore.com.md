@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the oksingapore.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007064642id_/http%3A//oksingapore.com/about_104.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oksingapore.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227130718id_/http%3A//www.oksingapore.com/about_104.html) for the most accurate reproduction.*
 
 # Privacy-Jinqiao International Group Pte. Ltd. - Singapore manpower, study in Singapore, Singapore tourism, business, investigate and Singapore investment immigrant, Singapore summer camp. Various kinds of Singapore visa advisers, Singapore website construction, software development, plane design, customer service system,china & singapore culture dissemination
+
+## 
+
+Update  
+2010-9-7 16:08:17 
 
 JinQiao International Group is committed to protecting your privacy on the Internet. We believe that it is important for you to know what we do with your personal information. When it comes to consumer data collected electronically, JinQiao International Group will provide notice, choice, access and security in ways described below. In general, you, as our customer, can visit JinQiao International Group on the World Wide Web without having to reveal any personal information that you do not want to disclose.
 
@@ -11,5 +16,3 @@ In an effort to make your visit both efficient and safe, all transfers of person
 Occasionally, our site may contain electronic links to other sites. In case you choose to go to those sites, their own privacy policy and privacy preferences will apply.
 
 If you feel that the JinQiao International Group Web site ([http://www.oksingapore.com](http://www.oksingapore.com/)) is not abiding by its posted privacy policy, contact the Webmaster or send your concerns to the JinQiao International Group Headquarter,No 9 Jurong Town Hall Road iHUB #02-55 Singapore
-
-Latest updated : 2010-9-7 16:08:17
