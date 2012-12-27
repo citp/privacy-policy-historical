@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sokrati.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514105332id_/http%3A//sokrati.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sokrati.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227042407id_/http%3A//sokrati.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
