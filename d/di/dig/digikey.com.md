@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the digikey.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625202541id_/http%3A//dkc1.digikey.com/us/en/mkt/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digikey.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227235100id_/http%3A//dkc1.digikey.com/us/en/mkt/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | DigiKey
 
-We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the protection of your personal information is handled with great regard. The following text will inform you on how we use and manage the information collected at our site.
+We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the protection of your personal information is handled with great regard. The following text will inform you on how we use and manage the information collected at Digi-Key.
 
 ## Web Site Visits
 
@@ -58,6 +58,10 @@ We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the pro
 > 
 > When accessing our online order entry system using a secure browser, one can feel secure transmitting credit card or other confidential information sent over the Internet.
 
+## Online Chat
+
+> Your online chat login information and communications conducted via the chat feature are recorded and stored by LivePerson, a third party Application Service Provider ("ASP"). Digi-Key has access to LivePerson's recorded and stored chat information and may monitor or review such information for quality assurance. Digi-Key may also use that information in accordance with Digi-Key's Privacy Policy and Web Site Terms & Conditions. The use of the information by LivePerson is subject to the LivePerson Privacy Policy that can be found at the LivePerson web site: <http://www.liveperson.com/policies/privacy>
+
 ## "Cookies"
 
 > A "cookie" is a very tiny piece of text we're asking permission to place on your computer's hard drive. If you agree, then your browser adds the text in a small file. Each "cookie" has a unique identifier and structure assigned by the sending Web site. Only the originating Web site can access a cookie left behind in a prior session (when you return to that site). Your identity will not become public information on the Internet because you visited our site.
@@ -85,7 +89,7 @@ We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the pro
 ## Contact Information
 
 > Please contact us if you have any questions, concerns or comments.  
->  Use the [Communications Center](http://dkc1.digikey.com/us/en/mkt/CONTACT.HTML) (forms based method of communicating with Digi-Key), or by contacting us at:
+>  Use the [Communications Center](http://www.digikey.com/us/en/info/contact-us.html) (forms based method of communicating with Digi-Key), or by contacting us at:
 >
 >> Digi-Key Corporation  
 >  701 Brooks Avenue South  
