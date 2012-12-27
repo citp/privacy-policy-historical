@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oyez.org privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525083806id_/http%3A//www.oyez.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oyez.org privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227141625id_/http%3A//www.oyez.org/privacy) for the most accurate reproduction.*
 
 # The Oyez Project at Chicago-Kent - Privacy Policy | The Oyez Project at IIT Chicago-Kent College of Law
 
-The Oyez Project at Chicago-Kent (Oyez) respects your privacy. This privacy policy explains how Oyez collects, uses and safeguards information on [www.oyez.org](https://web.archive.org/ "www.oyez.org"), and any other websites operated by Oyez such as oyeztoday.org and [www.pocketjustice.com](http://www.pocketjustice.com/ "www.pocketjustice.com"). This privacy policy applies only to information collected by Oyez and its related websites.
+The Oyez Project at Chicago-Kent (Oyez) respects your privacy. This privacy policy explains how Oyez collects, uses and safeguards information on [www.oyez.org](http://www.oyez.org/ "www.oyez.org"), and any other websites operated by Oyez such as oyeztoday.org and [www.pocketjustice.com](http://www.pocketjustice.com/ "www.pocketjustice.com"). This privacy policy applies only to information collected by Oyez and its related websites.
 
 ## Changes to the Privacy Policy
 
