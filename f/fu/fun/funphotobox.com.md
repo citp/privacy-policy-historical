@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funphotobox.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502092134id_/http%3A//funphotobox.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funphotobox.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227020634id_/http%3A//funphotobox.com/privacy.aspx) for the most accurate reproduction.*
 
-# FunPhotoBox - Best Photo Effects and Gif Animations. Photo Fun Online. Create funny pictures.
+# FunPhotoBox - Photofunia, picjoke. Photo Effects and Photo Fun. Imikimi, imagechef, befunky
 
 FunPhotoBox.com ("us", "we", "our") has created this Privacy Policy in order to demonstrate our firm commitment to privacy. The following outlines our information gathering and dissemination practices for this site (the "Site"): 
 
