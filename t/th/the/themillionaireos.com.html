@@ -1,0 +1,1843 @@
+<!--The following is the downloaded HTML source of the themillionaireos.com privacy policy that was archived on 2012-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227075944id_/http%3A//themillionaireos.com//pr) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+<base href="http://themillionaireos.com/">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://themillionaireos.com//javascript/jquery.min.js"></script>
+<script type="text/javascript" src="http://themillionaireos.com//wizard/fancybox/jquery.fancybox-1.3.1.js"></script>
+<script type="text/javascript" src="http://themillionaireos.com//javascript/cookies.js"></script> 
+
+<link rel="stylesheet" type="text/css" href="http://themillionaireos.com//wizard/fancybox/jquery.fancybox-1.3.1.css" media="screen">
+
+
+
+
+<!-- Start: Membership dropdown scrits -->
+<link href="/wizard/Dropdown/css/jquery.selectbox.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="/wizard/Dropdown/js/jquery.selectbox-0.2.js"></script>
+<script type="text/javascript">
+		$(function () {
+		if($("#MemGroupDP")){
+			$("#MemGroupDP").selectbox();
+			}
+		});
+</script>
+<!-- End: Membership dropdown scrits -->
+
+
+<script type="text/javascript" src="http://themillionaireos.com//javascript/SetCookies.js"></script> 
+
+<!-- Test optin box scrits starts -->
+<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://themillionaireos.com//css/test_optin.css" media="screen">
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://themillionaireos.com//javascript/test_optin.js"></script>
+<!-- Test optin box scripts end -->
+
+<script type="text/javascript">
+var mem_aweber_list = '';
+$(document).ready(function() {
+
+
+/* Get the aweber list of member which has affcode in cookie start here */
+
+if(cookie_aff_code != '' && $("#awb_from")){
+	
+	var frm_elements=document.getElementsByName("unit");
+	if(frm_elements.length > 0){	
+	var optin_lead_program = '';
+	if(document.getElementById("inf_field_leadprogram")){
+		optin_lead_program = document.getElementById("inf_field_leadprogram").value;
+	}
+	var dataString = 'getaweber_ac=true&cookie_aff_code=' + cookie_aff_code + '&optin_lead_program=' + optin_lead_program;	
+	
+	$.ajax({
+					url:'rotator/rotator_hubopus/TTI_Rotator.php',
+					type:'POST',
+					data:dataString,
+					datatype:'json',
+					success:function(data){
+					if(data.trim() != ''){
+					var obj = JSON.parse(data);
+					mem_aweber_list = obj.AweberList;
+					mem_aweber_list = $.trim(mem_aweber_list);
+						/* block to replace aweber in "unit" name variable value start */		
+						if(mem_aweber_list != ''){		   
+						//var frm_elements=document.getElementsByName("unit");
+						if(frm_elements.length > 0){
+						for(var tmp_cnt=0; tmp_cnt < frm_elements.length ; tmp_cnt++)
+						{
+						frm_elements[tmp_cnt].value = mem_aweber_list;
+						}
+						}
+						}
+						/* block to replace affcode in "unit" name variable value end */	
+					}
+					}
+				});
+			}
+			
+		setInterval(function() {
+				// Do something every 5 seconds
+				$.ajax({
+			   type: "GET",
+			   url: "http://themillionaireos.com/",
+			   data: "",
+			   success: function(msg){
+				 
+			   }
+			 });
+		}, 1000*5*60);
+}
+});
+/* Get the aweber list of member which has affcode in cookie start here */
+
+$(document).ready(function() {
+if(cookie_aff_code!=''){
+
+/* block to replace affcode in "redirect" link start */				   
+var frm_elements=document.getElementsByName("redirect");
+if(frm_elements.length > 0){
+for(var tmp_cnt=0; tmp_cnt < frm_elements.length ; tmp_cnt++)
+{
+var tmpvarval = frm_elements[tmp_cnt].value;
+
+tmpvarval = tmpvarval.substr(0,tmpvarval.lastIndexOf('/'));
+tmpvarval = tmpvarval+'/'+cookie_aff_code;
+
+frm_elements[tmp_cnt].value = tmpvarval;
+}
+}
+/* block to replace affcode in redirect link end */				   
+
+/* block to replace affcode in "meta_redirect_onlist" link start */				   
+var frm_elements=document.getElementsByName("meta_redirect_onlist");
+if(frm_elements.length > 0){
+for(var tmp_cnt=0; tmp_cnt < frm_elements.length ; tmp_cnt++)
+{
+var tmpvarval = frm_elements[tmp_cnt].value;
+
+tmpvarval = tmpvarval.substr(0,tmpvarval.lastIndexOf('/'));
+tmpvarval = tmpvarval+'/'+cookie_aff_code;
+
+frm_elements[tmp_cnt].value = tmpvarval;
+}
+}
+/* block to replace affcode in "meta_redirect_onlist" link end */
+
+/* block to replace affcode in "inf_field_affcode" name variable value start */				   
+var frm_elements=document.getElementsByName("inf_field_affcode");
+if(frm_elements.length > 0){
+for(var tmp_cnt=0; tmp_cnt < frm_elements.length ; tmp_cnt++)
+{
+frm_elements[tmp_cnt].value = cookie_aff_code;
+}
+}
+/* block to replace affcode in "inf_field_affcode" name variable value end */
+
+/* block to replace aweber in "unit" name variable value start */		
+if(mem_aweber_list != ''){		   
+var frm_elements=document.getElementsByName("unit");
+if(frm_elements.length > 0){
+for(var tmp_cnt=0; tmp_cnt < frm_elements.length ; tmp_cnt++)
+{
+frm_elements[tmp_cnt].value = mem_aweber_list;
+}
+}
+}
+/* block to replace affcode in "unit" name variable value end */		
+			   
+}
+});
+
+$(function($) {
+  var cache = [];
+  // Arguments are image paths relative to the current page.
+  $.preLoadImages = function() {
+    var args_len = arguments.length;
+    for (var i = args_len; i--;) {
+      var cacheImage = document.createElement('img');
+      cacheImage.src = arguments[i];
+      cache.push(cacheImage);
+    }
+  }
+		   
+jQuery.preLoadImages("/assets/images/ajax-loader.gif");
+});
+
+	$(document).ready(function() {
+		for(var idcnt = 1; idcnt <= 11 ; idcnt++)
+		{
+		if($("#various"+idcnt)){
+		$("#various"+idcnt).fancybox();
+		}
+		}		
+		
+		$("#di_disc").fancybox({'width' : 800, 'height' : 500,'autoScale':false,'type': 'iframe'});	
+		$("#te_disc").fancybox({'width' : 800, 'height' : 500,'autoScale':false,'type': 'iframe'});	
+		$("#pr_disc").fancybox({'width' : 800, 'height' : 500,'autoScale':false,'type': 'iframe'});	
+		$("#in_disc").fancybox({'width' : 800, 'height' : 500,'autoScale':false,'type': 'iframe'});	
+		
+	});
+
+function ExitPop(isExit) {
+		if(isExit != false)	{
+			isExit=false;
+			isPop = true;
+			
+			var bodyTag = document.getElementById? document.getElementsByTagName("BODY")[0] : document.body;
+			bodyTag.setAttribute("id", "body");
+			bodyTag.innerHTML = document.getElementById('ExitDiv').innerHTML;
+			return AlertBox;
+		} }
+function createExitPop(){
+	var theBody = document.getElementsByTagName('body')[0]; 
+	var newdiv = document.createElement('div');
+	newdiv.setAttribute('id','ExitDiv');
+	theBody.setAttribute('id','body');
+	newdiv.setAttribute('style', 'width: 100%; height: 100%;');
+	
+		theBody.appendChild(newdiv);
+		document.getElementById('ExitDiv').value = ajaxGET('ExitDiv', ExitPopURL);
+	
+	document.getElementById('ExitDiv').style.display = "none"; 
+	document.getElementById('ExitDiv').style.top = '0px'; 
+	document.getElementById('ExitDiv').style.left = '0px'; 
+	document.getElementById('ExitDiv').style.position = 'relative'; 
+	document.getElementById('ExitDiv').style.backgroundColor = '#FFFFFF';}
+
+function ajaxGET(divId, page, effect) { 
+     var xmlHttp; 
+     try 
+    { 
+         xmlHttp=new XMLHttpRequest(); 
+    } 
+     catch(e)   
+    { 
+         try 
+         { 
+              xmlHttp=new ActiveXObject("Msxml2.XMLHTTP"); 
+         } 
+         catch(e)   
+          { 
+               try 
+               { 
+                    xmlHttp=new ActiveXObject("Microsoft.XMLHTTP"); 
+               } 
+               catch(e)   
+             {      
+                    alert("Your browser does not support AJAX!"); 
+                  return false; 
+             } 
+         } 
+     } 
+      
+    xmlHttp.onreadystatechange=function() 
+     { 
+         if(xmlHttp.readyState==4) 
+          { 
+               if(effect == 'collapse') { document.getElementById(divId).style.display='none'; } 
+               else                     { document.getElementById(divId).innerHTML=xmlHttp.responseText; } 
+         } 
+    } 
+     xmlHttp.open("GET",page,true); 
+    xmlHttp.send(null); }
+	
+function submitForm(form){
+		
+	var submitFlag=0;
+	jQuery('#'+form+' .rota_err').hide();
+	
+	var inf_field_FirstName = '';
+	var inf_field_Email = '';
+	var inf_field_Phone1 = '';
+	var inf_field_affcode = '';
+	var inf_custom_conversionpage = '';
+	var inf_custom_ttrackingcode = '';
+	var is_cookie_affcode = '';
+	var custom_site_url="pr";
+	var AweberList = "mos_co-op_lam";
+	var test_flag=0;
+	var formobj = oFormObject = document.forms[form];
+	var inf_field_leadprogram = '';
+	var FollowupEmail_check = '';
+	
+	if(document.getElementById(form).awb_name){	
+	inf_field_FirstName = document.getElementById(form).awb_name.value;	
+	if((inf_field_FirstName=='')||(inf_field_FirstName=='Enter Your Name')){ jQuery('#'+form+' #name_error').html("Please enter your name.").show();	submitFlag=1;	}
+	 else if(inf_field_FirstName=='Name (Optional)')
+	{inf_field_FirstName='Friend';}
+	}
+	
+	if(document.getElementById(form).awb_from){
+	inf_field_Email = document.getElementById(form).awb_from.value;
+	if((inf_field_Email=='')||(inf_field_Email=='Enter Your Email')){		jQuery('#'+form+' #email_error').html("Please enter your email.").show();		 submitFlag=1; }
+	if(!check_email(inf_field_Email)){jQuery('#'+form+' #email_error').html("Please enter valid email.").show();		 submitFlag=1; }
+	else if(submitFlag!=1){
+			var strlowEmail = inf_field_Email.toLowerCase();
+			var ar = strlowEmail.split("@");
+			if((ar[1]=='mos.com' || ar[1]=='themillionaireos.com')&& formobj.elements["redirect"].value!=''){
+				test_flag=1;	
+				if($( "#dialog-form" )){
+				$('#dialog-form').data('formid', form);	
+				$( "#dialog-form" ).dialog( "open" );
+				return false;		
+				}				
+				}
+		}
+	}
+	
+	if(document.getElementById(form).awb_phone){inf_field_Phone1 = document.getElementById(form).awb_phone.value;
+	//if((inf_field_Phone1=='')||(inf_field_Phone1=='Phone (VIP Access)')){	jQuery('#'+form+' #phone_error').html("Please enter your phone.").show();	 submitFlag=1;}
+	//else if(inf_field_Phone1=='Phone (Optional)'){inf_field_Phone1='';}
+	inf_field_Phone1=inf_field_Phone1.trim();
+	if((inf_field_Phone1=='Phone (Optional)')||(inf_field_Phone1=='Phone (VIP Access)')||(inf_field_Phone1=='Phone (Optional For Our VIP Consultation)')){inf_field_Phone1='';}
+	}
+	
+	if(document.getElementById(form).inf_field_leadprogram){inf_field_leadprogram = document.getElementById(form).inf_field_leadprogram.value;}
+	
+	if(document.getElementById(form).inf_field_affcode){
+	inf_field_affcode = document.getElementById(form).inf_field_affcode.value;
+	}
+	if(document.getElementById(form).inf_custom_conversionpage){
+	inf_custom_conversionpage = document.getElementById(form).inf_custom_conversionpage.value;
+	}
+	
+	if(formobj.elements["meta_adtracking"]){
+	inf_custom_ttrackingcode = formobj.elements["meta_adtracking"].value;
+	}
+	
+	if(formobj.elements["unit"]){
+	AweberList = formobj.elements["unit"].value;
+	}
+	
+	if (document.getElementById('inf_option_FollowupEmail')){
+		if(document.getElementById('inf_option_FollowupEmail').checked){
+			FollowupEmail_check = 1;
+		}else{
+			FollowupEmail_check = 0;
+		}
+	}else{
+		FollowupEmail_check = 0;
+	}		
+	
+	if(submitFlag==1){
+	   return false;
+	}
+	
+	if(submitFlag==0 && test_flag==1){
+	window.location.href = formobj.elements["redirect"].value;
+	return false;
+	}
+	
+	urlquery=location.href.split("t=");
+	
+	if(tracking_cookie_code!='')
+	{
+	t = tracking_cookie_code;
+	}else if(urlquery[1]) {
+	  urlterms=urlquery[1].split("&");
+	  t = urlterms[0];
+	}else{
+		t = "pr";
+	}
+	
+	var cookieEnabled = "0";
+	if(areCookieEnabled()){
+	cookieEnabled = "1";
+	}else{
+	cookieEnabled = "0";
+	}
+	
+	var button_height = parseInt($('#submit_image').height());
+	$('#submit_image').html('<span style="color:#666666" id="loading"><img src="assets/images/ajax-loader.gif" class="loading_image"> <b>Please wait...</b></span>');
+	$('#submit_image').css({'height':button_height});
+	
+	//alert(t);
+	$.post("try_infusionsoft_form.php", { inf_field_FirstName: inf_field_FirstName, inf_field_Email: inf_field_Email,inf_custom_conversionpage:inf_custom_conversionpage,inf_field_Phone1:inf_field_Phone1,p:inf_field_leadprogram,inf_field_affcode:inf_field_affcode, AwebList: AweberList, SplitPage:'A',t:t, track_visit_list:'', custom_site_url:custom_site_url, inf_custom_ttrackingcode:inf_custom_ttrackingcode, is_cookie_affcode:cookie_aff_code, cookie_rc_code:cookie_rc_code, cookie_aid_code:cookie_aid_code, cookie_sid_code:cookie_sid_code, cookie_ssid_code:cookie_ssid_code,FollowupEmail_check:FollowupEmail_check,cookieEnabled:cookieEnabled}, function(data) {
+//alert(data);
+		// return false;
+		document.getElementById(form).submit();
+	 } );
+	
+	
+	//return false;
+	}
+function updatedTrianingPhase(action,PageID){
+	if ($('#MemberProgressPhaseCompleted_Checkbox').attr('checked')) {
+		action = "Add";
+	}else{
+		action = "Remove";
+	}
+	$.ajax({
+	   type: "POST",
+	   url: "try_updated_training_group.php",
+	   data: "PageID="+PageID+"&MemberPhaseName=0&LogedInMember=&action="+action,
+	   success: function(msg){
+		 return true;
+		 //alert( "Data Saved: " + msg );
+	   }
+	 });}	
+function replaceV1 () {
+ var titletext = document.title;
+
+titletext = "  "+titletext;
+
+
+ 
+
+titletext = "  "+titletext;
+
+
+
+
+titletext = "  "+titletext;
+
+
+
+
+document.title = titletext;}
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body}
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = "";
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) {
+offset += search.length
+end = document.cookie.indexOf(";", offset);
+if (end == -1) end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;}
+function closebar(){
+if (persistclose)
+document.cookie="remainclosed=1"
+document.getElementById("topbar").style.visibility="hidden"}
+function staticbar(){
+	barheight=document.getElementById("topbar").offsetHeight
+	var ns = (navigator.appName.indexOf("Netscape") != -1) || window.opera;
+	var d = document;
+	function ml(id){
+		var el=d.getElementById(id);
+		if (!persistclose || persistclose && get_cookie("remainclosed")=="")
+		el.style.visibility="visible"
+		if(d.layers)el.style=el;
+		el.sP=function(x,y){this.style.right=x+"px";this.style.top=y+"px";};
+		el.x = startX;
+		if (verticalpos=="fromtop")
+		el.y = startY;
+		else{
+		el.y = ns ? pageYOffset + innerHeight : iecompattest().scrollTop + iecompattest().clientHeight;
+		el.y -= startY;
+		}
+		return el;
+	}
+	window.stayTopLeft=function(){
+		if (verticalpos=="fromtop"){
+		var pY = ns ? pageYOffset : iecompattest().scrollTop;
+		ftlObj.y += (pY + startY - ftlObj.y)/8;
+		}
+		else{
+		var pY = ns ? pageYOffset + innerHeight - barheight: iecompattest().scrollTop + iecompattest().clientHeight - barheight;
+		ftlObj.y += (pY - startY - ftlObj.y)/8;
+		}
+		ftlObj.sP(ftlObj.x, ftlObj.y);
+		setTimeout("stayTopLeft()", 10);
+	}
+	ftlObj = ml("topbar");
+	stayTopLeft();}
+function setCookiesDiv(nuDays){
+        var today = new Date();
+        var expr = new Date(today.getTime() + nuDays*24*60*60*1000);
+        return  expr.toGMTString();
+    }
+function getCookies(alertCookies){
+        var starts = document.cookie.indexOf(alertCookies);
+        if (starts == -1){
+            document.cookie = "pr=yes; expires=" + setCookiesDiv(nums_days);
+            } else {
+            window.location = gos_to;
+        }
+    }
+function ged(noDays){
+    var today = new Date();
+    var expr = new Date(today.getTime() + noDays*24*60*60*1000);
+    return  expr.toGMTString();}
+function readCookie(cookieName){
+    var start = document.cookie.indexOf(cookieName);
+    if (start == -1){ 
+        document.cookie = "=yes; expires=" + ged(num_days);
+    }}
+	
+</script>
+
+
+<script type="text/javascript" src="http://themillionaireos.com//javascript/hoverIntent.js"></script> 
+<script type="text/javascript" src="http://themillionaireos.com//javascript/superfish.js"></script> 
+<script type="text/javascript" src="http://themillionaireos.com//javascript/supersubs.js"></script>
+<script type="text/javascript" src="http://themillionaireos.com//javascript/flowplayer-3.2.2.min.js"></script>
+<!--<script type="text/javascript" src="http://themillionaireos.com//easyslider1.5/js/easySlider1.5.js"></script>-->
+<script type="text/javascript" src="http://themillionaireos.com//themes/site/js/custom.js"></script>
+<!--<script type="text/javascript" src="http://themillionaireos.com//themes/site/js/countdown_jquery/jquery.countdown.js"></script>
+<link rel="stylesheet" type="text/css" href="http://themillionaireos.com//themes/site/js/countdown_jquery/jquery.countdown.css" media="screen" />-->
+
+<script type="text/javascript" src="http://themillionaireos.com//javascript/util-functions.js"></script>
+<script type="text/javascript" src="http://themillionaireos.com//javascript/clear-default-text.js"></script>
+
+
+<!--<style>
+#slider{}	
+#slider ul, #slider li{
+	margin:0;
+	padding:0;
+	list-style:none;
+	}
+	
+p#controls {
+	margin:0;
+	position:relative;
+	} 
+
+#prevBtn, #nextBtn { 
+	display:block;
+	margin:0;
+	overflow:hidden;
+	text-indent:-8000px;		
+	width:30px;
+	height:77px;
+	position:absolute;
+	left:-30px;
+	top:-160px;
+	}	
+													
+#prevBtn a, #nextBtn a {  
+	display:block;
+	width:30px;
+	height:77px;
+	background:url(http://themillionaireos.com//easyslider1.5/images/btn_prev.png) no-repeat 0 0;	
+	}	
+#nextBtn a { 
+	background:url(http://themillionaireos.com//easyslider1.5/images/btn_next.png) no-repeat 0 0;	
+	}	
+</style>	-->
+
+
+<link href="http://themillionaireos.com//signup/front.css" media="screen, projection" rel="stylesheet" type="text/css">
+
+
+<script language="javascript" type="text/javascript">
+urlquery=location.href.split("t=");
+if(tracking_cookie_code!=''){
+t = tracking_cookie_code;
+}else if(urlquery[1]) {
+    urlterms=urlquery[1].split("&");
+    t = urlterms[0];
+}else{
+	t = "pr";
+}
+
+var distingush="";
+
+</script>
+
+<script language="javascript" type="text/javascript">
+
+$(document).ready(function(){ 
+        $("ul.sf-menu").supersubs({ 
+            minWidth:    12,   // minimum width of sub-menus in em units 
+            maxWidth:    20,   // maximum width of sub-menus in em units 
+            extraWidth:  1     // extra width can ensure lines don't sometimes turn over 
+                               // due to slight rounding differences and font-family 
+        }).superfish();  // call supersubs first, then superfish, so that subs are 
+                         // not display:none when measuring. Call before initialising 
+                         // containing tabs for same reason. 
+		//replaceV1();
+		
+		$('#largeform_optin_button').click(function() {
+                    //alert('dd');
+                    isExit = false;
+                });
+                $('#smallform_optin_button').click(function() {
+                    //alert('dd');
+                    isExit = false;
+                });
+
+                $("a").click(function(){ isExit = false; });
+		
+    }); 
+
+</script>
+
+
+
+
+
+
+<style type="text/css">
+/* styling of the container. */
+a.myPlayer {
+	display:block;
+	/*width: 320px;
+	height:240px;*/ 
+	text-align:center;
+	margin:0 15px 15px 0;
+	/*float:left;*/
+	border:1px solid #999;
+}
+
+/* play button */
+a.myPlayer img {
+	margin-top:20%;
+	border:0px;
+}
+
+/* when container is hovered we alter the border color */
+a.myPlayer:hover {
+	border:1px solid #000;
+}
+</style>
+<!--[if IE 6]>
+	<style type="text/css">
+	 @import url(themes/site/css/ie6.css);
+	</style> 
+<![endif]-->
+		
+<!--[if IE 7]>
+	<style type="text/css">
+	 @import url(themes/site/css/ie7.css);
+	</style> 
+<![endif]-->
+<!--[if IE 8]>
+	<style type="text/css">
+	 @import url(themes/site/css/ie8.css);
+	</style> 
+<![endif]-->
+<style>
+	body {
+		background-image:url(assets/Themes/MillionaireOSMainNoWMI/enterprise/background.jpg);
+	}
+</style>
+<style>
+
+body {
+	background-position:top center;
+	background-attachment:fixed;
+	
+	background-attachment:scroll;
+	background-repeat:repeat-x;
+	
+	font-family:Arial, Helvetica, sans-serif;
+	}
+
+.typography p { 
+color:#333333;
+line-height: 1.2em;
+font-size: 1.0em;
+}
+
+.typography table p { 
+ 	border-collapse: collapse;
+	border-spacing: 0;
+	line-height: 1.1em;
+font-size: 1.0em;
+	margin: 4px 4px 10px 4px;
+}
+
+.typography table a {
+	line-height: 1.1em;
+font-size: 1.0em;
+}
+
+html {
+
+background-color:#e2e3e7;
+
+
+}
+</style>
+
+<!--<link rel="stylesheet" type="text/css" href="assets/css/user.css"/>-->
+
+<style>
+#changeformbgleft {
+background-image:url(assets/Themes/MillionaireOSMainNoWMI/enterprise/form.png);
+background-position:top left;
+background-repeat:no-repeat;
+}
+#changeformbgcenter {
+background-image:url(assets/Themes/MillionaireOSMainNoWMI/enterprise/form.png);
+background-position: -13px 0px;
+background-repeat:no-repeat;
+}
+#changeformbgright {
+background-image:url(assets/Themes/MillionaireOSMainNoWMI/enterprise/form.png);
+background-position:top right;
+background-repeat:no-repeat;
+}
+#changeformbgleftb {
+background-image:url(assets/Themes/MillionaireOSMainNoWMI/enterprise/form.png);
+background-position:bottom left;
+background-repeat:no-repeat;
+}
+#changeformbgcenterb {
+background-image:url(assets/Themes/MillionaireOSMainNoWMI/enterprise/form.png);
+background-position: -24px 100%;
+background-repeat:no-repeat;
+}
+#changeformbgrightb {
+background-image:url(assets/Themes/MillionaireOSMainNoWMI/enterprise/form.png);
+background-position:bottom right;
+background-repeat:no-repeat;
+}
+
+#changetablebgleft {
+background-image:url(assets/Themes/MillionaireOSMainNoWMI/enterprise/table.png);
+background-position:top left;
+background-repeat:no-repeat;
+}
+#changetablebgcenter {
+background-image:url(assets/Themes/MillionaireOSMainNoWMI/enterprise/table.png);
+background-position: -24px 0px;
+background-repeat:no-repeat;
+}
+#changetablebgright {
+background-image:url(assets/Themes/MillionaireOSMainNoWMI/enterprise/table.png);
+background-position:top right;
+background-repeat:no-repeat;
+}
+</style>
+
+
+
+		
+<link rel="stylesheet" type="text/css" href="http://themillionaireos.com/themes/site/css/layout.css?m=1356522255">
+<link rel="stylesheet" type="text/css" href="http://themillionaireos.com/themes/site/css/typography.css?m=1347406987">
+<link rel="stylesheet" type="text/css" href="http://themillionaireos.com/themes/site/css/form.css?m=1351330151">
+</head><body>
+
+
+
+
+
+
+<style>
+
+.typography a {
+color:#316398;
+}
+
+
+
+
+
+.typography blockquote {
+	border:4px #fff solid;
+	
+	border-color:#A8B7C5;
+	
+	
+	background-color:#BACCDD;
+	
+}	
+
+
+
+.typography h1 {
+color: #000000;	
+}
+.typography h2 {
+color: #000000;	
+}
+.typography h3 {
+color: #295586;	
+}
+.typography h4 {
+color: #000000;	
+}
+.typography h5 {
+color: #000000;	
+}
+
+#side-wrapper-left {
+	margin-top:10px;
+	padding: 10px;
+	width: 170 px;
+	
+	color:#333333;
+	line-height: 1.2em;
+	font-size: 1.0em;
+}
+
+#side-wrapper-p-left {
+	margin-top:10px;
+	padding: 10px 10px 10px 10px;
+	width: 170 px;
+	
+}
+
+#side-wrapper {
+	margin-top:10px;
+	padding: 10px;
+	width: 300px;
+	
+	color:#333333;
+	line-height: 1.2em;
+	font-size: 1.0em;
+}
+
+#side-wrapper-p {
+	margin-top:10px;
+	padding: 10px 10px 10px 10px;
+	width: 300px;
+	
+}
+
+#Sidebar { 
+	float: left;  
+	margin: 10px 0 0 0px;
+	margin-top:10px;
+	padding: 10px;
+	width: 300px;
+	
+}
+
+</style>
+
+
+<style>
+.typography ul, 
+.typography ol {
+	margin: 0px 2px 5px 0px;
+	color:#333333;
+}
+
+.typography li {
+margin: 0px 0px 0px 5px;
+	
+	line-height: 1.2em;
+	font-size: 1.0em;
+	list-style: url(assets/Themes/MillionaireOSMainNoWMI/enterprise/bullet.png);
+	vertical-align: top;
+}
+.typography ul li {
+	margin: 0px 0px 0px 5px;
+	font-size: 1.0em;
+}
+</style>
+
+
+
+<style>
+
+#Content {
+	
+	width: 100%;
+	
+	float: left;
+	margin-left: 0px; 
+	text-align: left;
+	margin-top:-20px;
+}
+#Navigation {
+	width: 1025px;
+	margin: 0 auto;
+	padding-top: 0px; /*do not touch*/
+	overflow: hidden;
+	font-size:12px;/*do not touch*/
+}
+#Navigation ul {
+	margin: 0;
+	padding: 0;
+	float: left;
+	margin-left: 0px;
+}
+
+</style>
+
+
+<style>
+.sf-menu li li {
+	background-color:#0B75B1;
+}
+.sf-menu li li li {
+	background-color:#0B75B1;
+}
+.sf-menu li:hover {
+	background-color:#0B75B1;
+}
+.sf-menu {
+	float:		left;
+	margin-bottom:0em;
+	margin-top: 0px;
+}
+</style>
+
+
+<link rel="stylesheet" type="text/css" href="themes/site/css/enterprise/whitenav.css">
+
+
+
+<!--Begin SNE Tracking Script-->
+<script type="text/javascript">
+
+var ref=document.referrer;//Gets the Referring URL - The location the lead came from
+
+var currentUrl = document.location.href;
+var brokenrefrerUrl = ref.split("/");
+var brokencurrentUrl = currentUrl.split("/");
+if(brokenrefrerUrl[2] != brokencurrentUrl[2])
+{
+if(brokenrefrerUrl[3] != "")
+{
+brokenrefrerUrl[2] = brokenrefrerUrl[2] +"/"+ brokenrefrerUrl[3];
+//alert();
+}
+setCookie("refrerDomain",brokenrefrerUrl[2],1);
+} else {
+
+//alert("same domain");
+}
+
+spn = "A";
+
+
+var optinbutton = "";
+if(optinbutton == ""){
+optinbutton = "Get Instant Access!";
+}
+
+
+
+formbtnimage = "assets/Themes/MillionaireOSMainNoWMI/enterprise/submit.png";
+//alert(formbtnimage);
+
+
+glaweblist = "";
+pgaweblist = "";
+glaweblist = "";
+
+aweblist = "mos_co-op_lam";
+ 
+
+aweblistic = "specialid:"+aweblist;
+
+
+glconvpageurl = "";
+pgconvpageurl = "";
+pgformbtnimage = "";
+glconvpageurl = "";
+pgconvpageurl = "https://220co.infusionsoft.com/go/mos_thankyou/a2870";
+if(pgconvpageurl == ""){
+   if(glconvpageurl == ""){
+     convpageurl = "Default hardcoded if any";
+ } else  { 
+  convpageurl = "http://themillionaireos.com///?stage=";
+   }
+} else {
+ convpageurl = "http://themillionaireos.com//https://220co.infusionsoft.com/go/mos_thankyou/a2870/?stage=";
+}
+
+
+
+glcuscompurl = "";
+pgcuscompurl = "";
+glcuscompurl = "";
+pgcuscompurl = "themillionaireos.com/pr/";
+if(pgcuscompurl == ""){
+   if(glcuscompurl == ""){
+     cuscompurl = "Default hardcoded if any";
+ } else  { 
+  cuscompurl = "";
+   }
+} else {
+ cuscompurl = "themillionaireos.com/pr/";
+}
+
+
+
+glcuscompext = "";
+pgcuscompext = "";
+glcuscompext = "";
+pgcuscompext = "";
+if(pgcuscompext == ""){
+   if(glcuscompext == ""){
+     cuscompext = "";
+ } else  { 
+  cuscompext = "";
+   }
+} else {
+ cuscompext = "";
+}
+
+
+glcusmemid = "";
+pgcusmemid = "";
+glcusmemid = "";
+pgcusmemid = "";
+if(pgcusmemid == ""){
+   if(glcusmemid == ""){
+     cusmemid = "Default hardcoded if any";
+ } else  { 
+  cusmemid = "";
+   }
+} else {
+ cusmemid = "";
+}
+
+
+
+glicontactvalue = "";
+pgicontactvalue = "";
+glicontactvalue = "";
+pgicontactvalue = "";
+if(pgicontactvalue == ""){
+   if(glicontactvalue == ""){
+     icontactvalue = "Default hardcoded if any";
+ } else  { 
+  icontactvalue = "";
+   }
+} else {
+ icontactvalue = "";
+}
+//alert (icontactvalue);
+
+
+
+glclientid = "";
+pgclientid = "";
+glclientid = "";
+pgclientid = "";
+if(pgclientid == ""){
+   if(glclientid == ""){
+     clientid = "Default hardcoded if any";
+ } else  { 
+  clientid = "";
+   }
+} else {
+ clientid = "";
+}
+//alert (clientid);
+
+
+
+glformid = "";
+pgformid = "";
+glformid = "";
+pgformid = "";
+if(pgformid == ""){
+   if(glformid == ""){
+     formid = "Default hardcoded if any";
+ } else  { 
+  formid = "";
+   }
+} else {
+ formid = "";
+}
+//alert (formid);
+
+icpsignupic = "specialid:"+formid;
+icpsignupicret = "return verifyRequired"+formid+"();";
+//alert (icpsignupic);
+//alert (icpsignupicret);
+
+
+gldoubleopt = "";
+pgdoubleopt = "";
+gldoubleopt = "0";
+pgdoubleopt = "0";
+if(pgdoubleopt == ""){
+   if(gldoubleopt == ""){
+     doubleopt = "Default hardcoded if any";
+ } else  { 
+  doubleopt = "0";
+   }
+} else {
+ doubleopt = "0";
+}
+//alert (doubleopt);
+
+
+basehrefurl = "http://themillionaireos.com//pr";
+
+
+var formbgimagesmall = document.getElementById("changeformbgsmall");
+var formbgimagelarge = document.getElementById("changeformbglarge");
+
+
+//var t=t+"."+fn+"."+spn
+//Add the document statements to the form without any spaces
+
+var referTest = getCookie('refrerDomain');
+
+if(referTest != "")
+{
+
+ref = "http://"+referTest;
+}
+
+function setCookie(c_name,value,expiredays)
+{
+var exdate=new Date();
+exdate.setDate(exdate.getDate()+expiredays);
+document.cookie=c_name+ "=" +escape(value)+
+((expiredays==null) ? "" : ";expires="+exdate.toGMTString());
+}
+function getCookie(c_name)
+{
+if (document.cookie.length>0)
+  {
+  c_start=document.cookie.indexOf(c_name + "=");
+  if (c_start!=-1)
+    {
+    c_start=c_start + c_name.length+1;
+    c_end=document.cookie.indexOf(";",c_start);
+
+
+    if (c_end==-1) c_end=document.cookie.length;
+    return unescape(document.cookie.substring(c_start,c_end));
+    }
+  }
+return "";
+} 
+
+
+</script>
+<!--End SNE Tracking Script-->
+<link rel="stylesheet" type="text/css" href="assets/Themes/MillionaireOSMain/css/styles.css">
+
+<script type="text/javascript" src="//assets.zendesk.com/external/zenbox/v2.4/zenbox.js"></script>
+<style type="text/css" media="screen, projection">
+  @import url(//assets.zendesk.com/external/zenbox/v2.4/zenbox.css);
+</style>
+<script type="text/javascript">
+  if (typeof(Zenbox) !== "undefined") {
+    Zenbox.init({
+      dropboxID:   "20057733",      dropboxID:   "20057733",
+      url:         "https://stevenyhofenterprises.zendesk.com",
+      tabID:       "support",
+      tabColor:    "black",
+      tabPosition: "Right"
+    });
+  }
+</script>
+<style>
+#zenbox_tab {
+    top: 38%;
+}
+</style>
+
+
+
+<style type="text/css">
+#zenbox_tab{display:none !important;}
+</style>
+
+
+						 
+
+<title>Privacy Policy</title>
+<meta name="generator" http-equiv="generator" content="LandingPages by Steve Nyhof Enterprises, Inc. - http://www.landingpages.ws">
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="en-US">
+
+
+
+
+<meta name="robots" content="noindex,nofollow">
+<meta name="googlebot" content="noindex,nofollow">
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26713312-1']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<style type="text/css">
+#dont_show_on_welcome_page iframe{border:none !important;}
+</style>
+
+
+
+
+<div style="text-align:center; ">
+<!--center page in FF-->
+
+
+<div style="width:1060px; margin:0px auto; text-align:left;">
+
+
+<!--center page in FF - set template width-->
+
+<table border="0" align="center" cellpadding="0" cellspacing="0" style="width:1060px;">
+  <tbody><tr>
+	<td valign="top">
+    
+    </td>
+  </tr>
+</tbody></table>
+   
+        
+ 
+    
+	<table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+	    <td valign="top">
+		<div style="position:absolute; width:1060px;">
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	<div id="container">
+	<div id="MemGroupDPContainer" align="left" class="MemGroupDPContainer" style="float"></div>
+	<div id="topnav" class="topnav" style="color:#FFFFFF;text-decoration:none;"><a href="/welcome/" title="Click here to login" style="color:#FFFFFF;">Login</a></div>	
+	</div>
+
+
+
+		
+	 </div>
+	 		<div style="padding:0 0 0 0px; margin-bottom:-5px;">
+			
+			<img src="assets/Themes/MillionaireOSMainNoWMI/enterprise/header.jpg" width="1060" height="191">
+			
+			</div>
+			
+        </td>
+	</tr>
+ </tbody></table>
+
+
+
+              
+               
+              
+
+   
+    	 
+   
+     
+   
+
+     <table style="width:1060px;background-repeat:repeat-x;background-image:url(assets/Themes/MillionaireOSMainNoWMI/enterprise/navigation.png);margin-top:-2px;">
+    	<tbody><tr>
+			<td height="41" valign="top">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				  <tbody><tr>
+					<td width="15"><img src="/assets/System/blank.gif" width="15" height="39"></td>
+					<td><div>	
+							<ul class="sf-menu"><li> <a href="home-page" title="Go to the  page">Home</a></li><li> <a href="learn-more" title="Go to the Learn More page">Learn More</a><ul><li> <a href="about-themillionaireos-com" title="Go to the About TheMillionaireOS.com page" target="_blank">About TheMillionaireOS.com</a></li><li> <a href="video-presentation" title="Go to the  page">Video Presentation</a></li><li> <a href="talk-to-a-coach" title="Go to the Talk To A Coach page" target="_blank">Talk To A Coach</a></li></ul></li><li> <a href="success-stories" title="Go to the Success Stories page">Success Stories</a></li><li> <a href="get-started" title="Go to the Get Started page" target="_blank">Get Started</a></li></ul>
+						</div>
+					</td>
+					<td width="15"><img src="/assets/System/blank.gif" width="15" height="1"></td>
+				  </tr>
+				</tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
+   
+    
+    
+    
+
+	  
+    
+    
+   
+	
+  
+
+  
+ 
+ 
+<!-- start of body header  -->
+
+
+<table border="0" cellspacing="0" cellpadding="0" style="margin-bottom:-5px;">
+ <tbody><tr>
+ 	<td>
+	
+	 
+	</td>
+	</tr>
+	</tbody></table>
+	
+
+<!-- end of body header -->
+  
+ 
+<!-- start of body  -->
+<table border="0" cellspacing="0" cellpadding="0" style="width:1060px;background-image:url(assets/Themes/MillionaireOSMainNoWMI/enterprise/body.png);background-repeat:repeat-y;">
+ <tbody><tr>
+ 
+
+  
+  
+ 	<td width="25" valign="top"><img src="themes/site/images/blank.gif" width="25" height="1"></td>
+ 
+ 
+	
+	 <!-- top of left side bar -->
+	 
+	 
+	 
+	 <!-- bottom of left side bar  - top of main content body -->
+	
+	<!--<td width="690" valign="top">-->
+	<td valign="top">
+	  <table width="100%" height="500" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td valign="top">
+		  	<table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td valign="top">
+                    <div id="translation">
+                          <div class="typography"> 
+                              
+  					</div>
+					
+        			<div class="typography">
+						<h1>Privacy Policy</h1>
+        			</div>
+					
+       
+	   
+	   
+                   ﻿<div class="typography">
+	
+		<div id="Content">
+			
+		<div style="position:relative;">
+		<p>Your privacy is very important to us. We want to make your experience  on the Internet as enjoyable and rewarding as possible, and we want you  to use the Internet's vast array of information, tools, and  opportunities with complete confidence.</p>
+<p>This privacy policy (the "Privacy Policy") discloses the information  gathering and dissemination practices for this website. We will notify  you of changes to our Privacy Policy by posting the new policy on this  website. Review our Privacy Policy regularly so that you can stay  informed of our practices, as they may change in the future.</p>
+<p>Your personal information is being collected and protected by 2:20 Companies, LLC.&nbsp; This information is only being collected so that we can  provide you with pertinent information regarding the top work from home  businesses, as you requested.&nbsp; At any time, you are free to opt out of  any future emails, communication or otherwise.</p>
+<p>By visiting our site or sending us information, you are accepting the  practices described in this Privacy Policy. Your assent to these  practices is essential for us to continue operating this website,  including the variety of information and services it contains.  Similarly, we need you to provide accurate personal information so that  you can be contacted and, if you purchase anything, so that we can  complete the transaction. You can opt-out and decide not to provide the  requested personal information. However, by doing so, you will not  receive the information, product, and/or service you are requesting.</p>
+<p>The personal information we collect includes your name and e-mail  address. Other personal information that you submit is clearly labeled  at the time you submit it. We use the information that we collect to  provide our services, fulfill any purchase you may have made, send you  our newsletter, contact you regarding new promotions, and to improve our  site.</p>
+<p>When submitting any information on our website you expressly  authorize us to use your personal information as explained in this  privacy policy, and you consent to receiving commercial email from us.  You can expect to receive newsletters, promotions, and other similar  offers. Should you wish to discontinue receiving these e-mailings simply  unsubscribe using the link in the email you receive.</p>
+<p>We automatically collect certain information from visitors to, the  site, such as Internet addresses, browser type, Internet Service  Provider (ISP), referring and exit page, operating system, timestamps,  and clickstream data. We also track and analyze non-identifying and  aggregate usage and volume statistical information from our visitors and  customers. This information is logged to help diagnose technical  problems, and to administer our site so that we can constantly improve  it.</p>
+<p>If you pay for anything on our site using a credit or debit card, we  collect the personal information needed to complete the transaction.  This information includes your name, card number, and other necessary  information, all of which is clearly labeled on the form you use to  submit payment. We use an unaffiliated, credit card processing company  to process your payment. We transfer your payment information-and you  authorize us to do so-to this company solely for this purpose. The  company does share or use personally identifiable information for any  other purposes.</p>
+<p>Anything you send us, post on our site, or use with our service, such  as blog postings or videos, or if others send us anything about your  activities or postings, we may collect such information into a file  specific to you. We use this information to resolve disputes,  troubleshoot problems, and enforce our customer agreements.</p>
+<p>We take measures to prevent the loss, misuse, and alteration of your  information by carefully limiting access to the database in which your  personal information is stored. We cannot ensure that all of your  private communications and other personally identifiable information  will never be disclosed in ways not otherwise described in this Privacy  Policy. For example, we may disclose information to the government or  third parties under certain circumstances, or third parties may  unlawfully intercept or access transmissions or private communications.  We can (and you authorize us to) disclose any information about you to  law enforcement or other government officials as we, in our sole  discretion, believe necessary or appropriate in connection with an  investigation of wrongful conduct. We may also (and you authorize us to)  disclose personal information about you to credit agencies, collection  agencies, and/or merchant database agencies, as we deem necessary</p>
+<p>We do not knowingly collect personally identifiable information from  children under the age of 13, nor do we knowingly distribute such  information. If we become aware that we have inadvertently received  personally identifiable information from someone under the age of 13, we  will delete such information from our records. If we change our  practices in the future, we will obtain prior, verifiable parental  consent before collecting any personally identifiable information from  children under the age of 13.</p>
+<p>Contact us at the address below if you want us to change or delete  any information that we have about you. We will respond to your request  to access, update, or delete your information within ten (10) business  days. Before we are able to provide you with any information, correct  any inaccuracies, or delete any information, however, we may ask you to  verify your identity.</p>
+<p>This website is owned and operated, or operated under agreement, by:<br>The 2:20 Companies, Inc.<br>5773 Woodway, Suite 162<br>Houston, TX 77057.</p>
+<p>This privacy policy is effective as of June 10, 2010.</p>
+<p>&nbsp;</p>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		</div>
+
+</div>   
+				   
+		
+	   
+                   
+                   
+                 </div>
+              <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tbody><tr>
+                        <td valign="top">
+						
+							  
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+							
+							  
+		
+	   
+                              
+                              </td>
+                            </tr>
+                          </tbody></table>
+                              </td>
+                            </tr>
+                          </tbody></table></td>
+                       
+                      </tr>
+          </tbody></table>
+		</td>
+		
+	 <!-- bottom of body - top of right side bar -->	
+		
+        
+	  
+      <td width="25" valign="top" style="position:relative;"><img src="themes/site/images/blank.gif" width="25" height="1"></td>
+      <td width="300" valign="top">
+
+	  
+	  
+	 
+<form id="SearchForm_SearchForm" style="margin-right:0px;" action="http://themillionaireos.com//home-page/SearchForm" method="get" enctype="application/x-www-form-urlencoded">
+<table border="0" cellpadding="0" cellspacing="0" align="right">
+						 <tbody><tr>
+							 <td>
+							 
+							 <div style="position:relative;">
+								  <input type="text" style="background: transparent; background-image: url(assets/System/searchoptinbgimage.png); border: 1px solid #e8e7e3; padding: 5px; width: 310px; font-size: 17px; ,argin-top:10px;" value="" name="Search"> 
+
+								<div style="position:absolute;top:0;right:0;">
+								 <input type="image" src="http://themillionaireos.com//assets/System/searchgo.png" title="Search" name="Search">
+								
+								 </div> </div>
+								 
+								</td>
+								
+							</tr>
+						</tbody></table>
+</form>
+<img src="themes/site/images/blank.gif" width="300" height="1">
+		 
+		 
+		 
+		 
+	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td></td>
+            </tr>
+  			<tr>
+              <td>
+                
+				
+				 
+				 
+				 
+			     
+                
+                
+			  
+              
+			  
+              <div id="side-wrapper-p" class="typography">
+              <div id="dont_show_on_welcome_page">
+<table width="100%" cellspacing="0" cellpadding="2" border="0" style="height: 25px;">
+<tbody>
+<tr>
+<td width="20" valign="top" id="changetablebgleft"><img src="assets/System/blank.gif" width="20" height="1" alt="" title=""></td>
+<td width="100%" valign="top" id="changetablebgcenter">
+<p><span style="color: #ffffff;"><b><span style="font-family: tahoma,arial,helvetica,sans-serif;"><span style="font-size: 14px;">PROGRESS REPORT</span></span></b></span></p>
+</td>
+<td width="20" valign="top" id="changetablebgright"><img src="assets/System/blank.gif" width="20" height="1" alt="" title=""></td>
+</tr>
+</tbody>
+</table>
+<div><iframe style="margin-top:-6px;background-color:#F4F6F7;border:solid 1px #D4D4D4;" src="http://themillionaireos.com/wizard/traininggroup_chart.php?member_id=member_id_iframe" width="299" height="315" frameborder="0" scrolling="no"></iframe></div>
+</div>
+              </div>
+			   
+			     
+			  
+              
+
+
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td valign="top"><div>
+			  
+              </div></td>
+  </tr>
+</tbody></table>
+				
+				
+			  
+			  
+			   
+			    
+              
+			   
+				 
+				
+			   	
+			   
+		  </td>
+          
+		  </tr>
+		  </tbody></table>
+	   
+	  </td>  
+      
+	  
+ 
+  
+ 	<td width="25" valign="top"><img src="themes/site/images/blank.gif" width="25" height="1"></td>
+ 
+ 
+
+    </tr>
+  </tbody></table>
+ 
+  <!-- bottom of right side bar -->
+  
+   <!-- top of footer -->
+
+   <table style="width:1060px;background-image:url(assets/Themes/MillionaireOSMainNoWMI/enterprise/body.png);background-repeat:repeat-y;" border="0" cellspacing="0" cellpadding="0">
+     <tbody><tr>
+       <td>
+						
+<table style="width:1060px;" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+	<td width="25"><img src="themes/site/images/blank.gif" width="25" height="1"></td>
+	<!--<td width="690" >-->
+	<td width="100%">
+
+                        
+                        
+                        
+                          
+                           
+
+
+                          
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						                          
+                          
+						  
+						   
+						 
+                           
+						   
+						 					  
+						  
+						    
+						   
+						   
+
+						   
+											  
+						  
+						     
+							
+						   
+						   
+						   
+						   
+											  
+						  
+						    
+					
+						 
+                           
+						   
+						  
+						  
+						  
+						   
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+	
+   		
+	  	 
+	  
+	
+	
+
+						 
+</td>
+<td width="25"><img src="themes/site/images/blank.gif" width="25" height="1"></td>
+</tr>
+</tbody></table>
+						  </td>
+                      </tr>
+                    </tbody></table>
+  <!-- bottom of footer -->
+    
+ 
+    
+  
+
+		
+
+
+		
+        
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td valign="top">
+			<div style="padding:0 0 0 0px; margin-bottom:-5px; margin-top:0px;width:1060px"><img src="assets/Themes/MillionaireOSMainNoWMI/enterprise/footer.png"></div>
+              </td>
+          </tr>
+        </tbody></table>
+    
+  
+  
+  
+  
+  
+  
+  
+   </div>
+  <!--center page in FF-->
+</div>
+<!--center page in FF-->
+
+  
+   
+   
+   
+   <div style="text-align:center;background-image:url(assets/Themes/MillionaireOSMainNoWMI/enterprise/footerext.jpg);background-position:top center;background-repeat:repeat-x;">
+   
+<!-- 
+
+<div style="text-align:center;background:url(assets/Themes/MillionaireOSMainNoWMI/enterprise/footerext.jpg)repeat-x scroll 0 -369px transparent;">
+
+
+ -->
+
+<!--center page in FF-->
+
+<div style="width:1060px; margin:0px auto; text-align:left;">
+<!--center page in FF - set template width-->
+	
+  	<table width="1060px" border="0" cellspacing="0" cellpadding="0">
+ 
+          <tbody><tr>
+            <td valign="top">
+			 
+			
+			
+			
+			
+			
+					
+			
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td valign="top">
+	
+	</td>
+    <td align="right" valign="top">
+	
+
+                        
+						   
+                    
+                        						 
+	
+	</td>
+  </tr>
+</tbody></table>
+              </td>
+          </tr>
+        </tbody></table>
+		</div>
+ 
+  
+  
+  
+     
+		
+    
+   <div style="text-align:center;background-image:url(assets/Themes/MillionaireOSMainNoWMI/enterprise/footerext.jpg);background-position:bottom center;background-repeat:repeat-x;" "="">
+ <div style="width:1060px; margin:0px auto; text-align:left;">
+ 
+  	<table width="1060px" border="0" cellspacing="0" cellpadding="0">
+ 
+          <tbody><tr>
+            <td valign="top">
+			
+             <div class="typography"><p style="text-align: center;"><span style="color: #cc99ff;"><span style="font-size: 11px;"><a href="membership-order/" target="_blank">*</a><span style="color: #ffffff;">&nbsp; Copyright ©2011 (and beyond) All Rights Reserved. The MillionaireOS™ is</span><a href="membership-order-waived/" target="_blank">*</a><span style="color: #ffffff;">Protected by International Copyright Laws. Reproduction or Duplication  is Strictly Prohibited.&nbsp; </span><a href="membership-order-special/" target="_blank">*</a></span></span><br> <span style="font-size: 10px;"><a href="http://themillionaireos.com//pr/" target="_blank" style="color: #ffffff;">privacy policy</a><span style="color: #ffffff;"> | </span><a href="http://themillionaireos.com/membership-agreement" target="_blank" style="color: #ffffff;">membership agreement</a><span style="color: #ffffff;"> | </span><a href="http://themillionaireos.com//te/" target="_blank" style="color: #ffffff;">terms of use</a></span></p></div>
+			 
+              </td>
+          </tr>
+        </tbody></table>
+ 
+ 
+ 
+  
+  
+
+<div align="left" class="footerLink" style="width:1060px; margin:6px auto; text-align:left;">
+
+
+ 
+
+
+ <!-- bottom of Bottom Footer -->
+ 
+  
+  </div>
+  <!--center page in FF-->
+</div>
+<!--center page in FF-->
+
+<!-- Test optin box starts -->
+
+<div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-resizable" style="display: none; z-index: 1002; outline: 0px none; position: absolute; height: auto; width: 350px; top: 138px; left: 505px;">
+  <div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-dialog-title-dialog-form" class="ui-dialog-title">Testing The MOS Sales Funnel</span><a role="button" class="ui-dialog-titlebar-close ui-corner-all" href="//pr/#"><span class="ui-icon ui-icon-closethick">close</span></a></div>
+  <div id="dialog-form" class="ui-dialog-content ui-widget-content">
+    <form id="dialog_frm">
+      <label for="email">Enter a working email not used with MOS to test the followups:</label>
+      <input type="text" name="email" id="test_email" class="text ui-widget-content ui-corner-all">
+      <div id="test_email_error" style="color:#b70000; font-size:12px;"></div>
+      <label for="password">Enter your member Affiliate Code: (No fee charge)</label>
+      <input type="text" name="password" id="test_affcode" class="text ui-widget-content ui-corner-all">
+      <div id="test_affcode_error" style="color:#b70000; font-size:12px;"></div>
+    </form>
+    <div>Leave blank and click Ok to continue without testing.</div>
+  </div>
+  <div class="ui-dialog-buttonset">
+    <button aria-disabled="false" role="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" type="button"><span class="ui-button-text">Ok</span></button>
+    <button aria-disabled="false" role="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" type="button"><span class="ui-button-text">Cancel</span></button>
+  </div>
+</div>
+
+<!-- Test optin box ends -->
+
+
+
+<!--Begin Analytics-->
+
+<!--End Analytics-->
+
+<script type="text/javascript">
+        $(document).ready(function() {
+
+            $(".signin").click(function(e) {          
+				e.preventDefault();
+                $("fieldset#signin_menu").toggle();
+				$(".signin").toggleClass("menu-open");
+            });
+			
+			$("fieldset#signin_menu").mouseup(function() {
+				return false
+			});
+			$(document).mouseup(function(e) {
+				if($(e.target).parent("a.signin").length==0) {
+					$(".signin").removeClass("menu-open");
+					$("fieldset#signin_menu").hide();
+				}
+			});			
+		});
+</script>
+<script src="http://themillionaireos.com//signup/jquery.tipsy.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    $(function() {
+	  $('#forgot_username_link').tipsy({gravity: 'w'});   
+    });
+  </script>
+
+<!--
+<input type="button" value="Click Me" id ="largebutton">
+-->
+
+<!-- Below code is edited by sandip on 07-03-2012 -->
+
+<!-- Above code is edited by sandip on Mar-07-2012 -->
+
+
+<!-- Start - Code is for Set ac= cookie on all our sites-->
+<script type="text/javascript">
+var $ = jQuery;
+var tnewac = getQueryVariable('ac');
+var tnewrc = getQueryVariable('rc');
+if(tnewac !='' || tnewrc !='')
+{	document.writeln('<div id="setAllSitecookiefrm" align="center" style="display:none;"><iframe style="display:none;" src="/SetAllSiteCookies/cookieIframes.php?Setcookieaction=true&ac=', tnewac,'&rc=', tnewrc,'" frameborder="0" height="10" width="800"></iframe></div>');
+}
+</script>
+<!-- End - Code is for Set ac= cookie on all our sites-->
+
+
+
+
+<script>
+flowplayer("a.myPlayer", "/javascript/flowplayer-3.2.2.swf", {	
+
+});
+</script>
+
+<script type="text/javascript"> 
+	$("#resend_hubopus_email").click(function(){
+       
+			var name= $("#m_name").val();
+			var email= $("#m_email").val();
+			
+			$.ajax({
+				url:"wizard/updateTables.php",
+				type:"POST",
+				data:"hubOpus_MarketingMail=true&name="+name+"&email="+email+"&resend=1",
+				success:function(data){
+					if(data == "done"){
+						//$("#msgShow").show();
+						//$("#msgShow").fadeOut(4000);
+						 $("#resend_hubopus_email").val("Your email has been sent successfully.");
+					}
+				}
+			});
+			
+	});
+	
+	$("#SaveMainWebsite").click(function(){
+       
+			var mem_id= $("#mem_id").val();
+			var website = $("#MainWebSite").val();
+			
+			$.ajax({
+				url:"wizard/updateTables.php",
+				type:"POST",
+				data:"hubOpus_UpdateWebsite=true&website="+website+"&mem_id="+mem_id,
+				success:function(data){
+					//alert(data);
+					if(data == "done"){
+						//$("#msgShow").show();
+						//$("#msgShow").fadeOut(4000);
+						 $("#SaveMainWebsite").val("Saved successfully.");
+					}
+				}
+			});
+			
+	});
+</script></div></div></body></html>
