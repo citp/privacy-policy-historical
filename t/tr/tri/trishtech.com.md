@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trishtech.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504222139id_/http%3A//www.trishtech.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trishtech.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227103347id_/http%3A//www.trishtech.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - TrishTech.com
 
@@ -6,15 +6,31 @@ Thank you for visiting and using TrishTech.com. Your privacy on the internet is 
 
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. The following privacy statement discloses the information gathering and dissemination practices for [TrishTech.com](http://www.trishtech.com/).
 
+  
+
+
 ### Website Usage Tracking
 
 [TrishTech.com](http://www.trishtech.com/) uses popular web traffic and usage analysis tool - Google Analytics (a third party tool). It may monitor your Internet Protocol (IP) addresses, browser type, MIME type, Internet service provider (ISP), referring and exit pages, platform type, date and time stamp, and number of clicks. IP addresses are not linked to personally identifiable information, and TrishTech.com does not correlate this information with data about individual users.
 
 This information is collected through a third party site analysis tool (Google Analytics) in the hope of making this site better and cater better to the needs of our site visitor. For example, if we notice more clicks in a certain area of web site, then we may concentrate on adding more content in that area of [TrishTech.com](http://www.trishtech.com/). Under no circumstances does [TrishTech.com](http://www.trishtech.com/) divulge any information about an individual user to a third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
 
+  
+
+
+### Third Party Advertising
+
+We use the Google Adsense program to serve third party advertisements to you when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about products and services of interest to you. Some of these advertisments make use of the Google DART cookie. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/).
+
+  
+
+
 ### Comments
 
 In the comments section at the end of an article, we at [TrishTech.com](http://www.trishtech.com/) may collect your email address and IP adress (internet protocol address). We will never disclose, sell, rent or loan this information to any third party. This information will be known only to us. This information is required to block spam, repeated comments and general website misuse.
+
+  
+
 
 ### Your consent
 
