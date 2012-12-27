@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interserver.net privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622174955id_/http%3A//www.interserver.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interserver.net privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227013051id_/http%3A//www.interserver.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Interserver Privacy Policy
 
@@ -29,3 +29,5 @@ Consumers can have this information corrected by sending us e-mail at the above 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm.
+
+Interserver, inc complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Interserver, inc has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Interserver�s certification, please visit http://www.export.gov/safeharbor/ 
