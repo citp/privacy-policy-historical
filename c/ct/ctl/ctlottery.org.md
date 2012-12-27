@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctlottery.org privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604115909id_/http%3A//www.ctlottery.org/Content/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctlottery.org privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227072137id_/http%3A//www.ctlottery.org/content/107/privacy-policy) for the most accurate reproduction.*
 
 # CT Lottery Official Web Site - Privacy Policy
 
