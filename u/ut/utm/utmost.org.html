@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the utmost.org privacy policy that was archived on 2012-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531072642id_/http%3A//rbc.org/policy/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the utmost.org privacy policy that was archived on 2012-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227074218id_/http%3A//rbc.org/policy/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -12,23 +12,31 @@
 <link rel="alternate" type="application/rss+xml" title="RBC Ministries » Comments Feed" href="http://rbc.org/comments/feed/">
 <link rel="stylesheet" id="grid-css" href="http://rbc.org/wp-content/plugins/kickpress-2011/includes/css/grid.css?ver=1332172296" type="text/css" media="screen">
 <link rel="stylesheet" id="theme-my-login-css" href="http://rbc.org/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.1.4" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="http://rbc.org/wp-content/plugins/contact-form-7/styles.css?ver=3.1.2" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://rbc.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack-widgets-css" href="http://rbc.org/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003" type="text/css" media="all">
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script type="text/javascript" src="http://rbc.org/wp-content/plugins/kickpress-2011/includes/js/kickpress.js?ver=1332175617"></script>
 <script type="text/javascript" src="http://rbc.org/wp-content/plugins/kickpress-2011/includes/js/jquery.validate.min.js?ver=1332172340"></script>
-<script type="text/javascript" src="http://rbc.org/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<script type="text/javascript" src="http://rbc.org/wp-includes/js/comment-reply.js?ver=3.4.2"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://rbc.org/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://rbc.org/wp-includes/wlwmanifest.xml"> 
 <link rel="prev" title="Terms and Conditions" href="http://rbc.org/policy/terms-and-conditions/">
 <link rel="next" title="eNewsletter" href="http://rbc.org/enewsletter/">
-<meta name="generator" content="WordPress 3.3.2">
+<meta name="generator" content="WordPress 3.4.2">
 <link rel="shortlink" href="http://wp.me/P18ZkY-a9">
 
-<!-- All in One SEO Pack 1.6.14.3 by Michael Torbert of Semper Fi Web Design[307,353] -->
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:url" content="http://rbc.org/policy/privacy-policy/">
+<meta property="og:description" content="RBC.org (“RBC”) values the privacy of our Web site visitors. We have created this privacy statement in order to disclose information gathering and dissemination practices for this Web s...">
+<meta property="og:site_name" content="RBC Ministries">
+
+<!-- All in One SEO Pack 1.6.15.2 by Michael Torbert of Semper Fi Web Design[307,353] -->
 <link rel="canonical" href="http://rbc.org/policy/privacy-policy/">
 <!-- /all in one seo pack -->
   <link rel="stylesheet" href="http://www.google.com/uds/api/search/1.0/3791d9497f0df2d1de9199ca7e3b2964/default.css" type="text/css" media="all">
-  <link rel="stylesheet" href="http://rbc.org/wp-content/themes/rbc/style.css?ver=1335279298" type="text/css" media="all">
+  <link rel="stylesheet" href="http://rbc.org/wp-content/themes/rbc/style.css?ver=1354660198" type="text/css" media="all">
 	<script type="text/javascript" src="http://rbc.org/wp-content/themes/rbc/js/superfish.js"></script>
 	<script type="text/javascript" src="http://rbc.org/wp-content/themes/rbc/js/rotscripts.js"></script>
     <script type="text/javascript" src="http://rbc.org/wp-content/themes/rbc/js/jquery.xyslider.min.js"></script>
@@ -47,12 +55,32 @@
       $("#slider").xySlider({
         width     : 700,
         height    : 300,
-        delay     : 3000,
+        delay     : 7000,
         strips    : 15,
         autopause : true,
         navigation: '#xyslidernavigation',
         control   : '#xyslidercontrol',
         effect    : 'cascade'
+      });
+
+      // Tooltip only Text
+      $('.global-nav li.cat-item a').hover(function(){
+        // Hover over code
+        var title = $(this).attr('title');
+        $(this).data('tipText', title).removeAttr('title');
+        $('<p class="tooltip"></p>')
+        .text(title)
+        .appendTo('body')
+        .fadeIn('slow');
+      }, function() {
+        // Hover out code
+        $(this).attr('title', $(this).data('tipText'));
+        $('.tooltip').remove();
+      }).mousemove(function(e) {
+        var mousex = e.pageX + 20; //Get X coordinates
+        var mousey = e.pageY + 10; //Get Y coordinates
+        $('.tooltip')
+        .css({ top: mousey, left: mousex })
       });
     });
 	</script>
@@ -87,19 +115,13 @@
     <div id="sub-menu" class="menu-header-menu-container"><ul id="menu-header-menu" class="nav"><li id="menu-item-11018" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11018"><a href="/">Home</a></li>
 <li id="menu-item-11019" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current_page_ancestor menu-item-11019"><a href="http://rbc.org/about/">About »</a>
 <ul class="sub-menu">
-	<li id="menu-item-11020" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11020"><a href="http://rbc.org/about/employment-opportunities/">Employment Opportunities »</a>
-	<ul class="sub-menu">
-		<li id="menu-item-11022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11022"><a href="http://rbc.org/about/employment-opportunities/employee-testimonials/">Employee Testimonials</a></li>
-		<li id="menu-item-11023" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11023"><a href="http://rbc.org/about/employment-opportunities/how-to-reach-us/">How To Reach Us</a></li>
-		<li id="menu-item-11106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11106"><a target="_blank" href="http://jobs.rbc.org">Job Openings</a></li>
-		<li id="menu-item-11024" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11024"><a href="http://rbc.org/about/employment-opportunities/work-place-values/">Work Place Values</a></li>
-	</ul>
-</li>
-	<li id="menu-item-11170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11170"><a href="http://rbc.org/help/">Help</a></li>
-	<li id="menu-item-11025" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11025"><a href="http://rbc.org/about/history/">History</a></li>
-	<li id="menu-item-11111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11111"><a href="/locations/">Locations</a></li>
 	<li id="menu-item-11026" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11026"><a href="http://rbc.org/about/mission-and-vision/">Mission and Vision</a></li>
+	<li id="menu-item-11028" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11028"><a href="http://rbc.org/about/principles/">Principles</a></li>
+	<li id="menu-item-11025" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11025"><a href="http://rbc.org/about/history/">History</a></li>
+	<li id="menu-item-11170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11170"><a href="http://rbc.org/help/">Help</a></li>
+	<li id="menu-item-35175" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35175"><a href="/help/contact-us/">Contact Us</a></li>
 	<li id="menu-item-14321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14321"><a href="http://odb.org/subscriptions/">Our Daily Bread Subscriptions</a></li>
+	<li id="menu-item-11111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11111"><a href="/locations/">Locations</a></li>
 	<li id="menu-item-11107" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-11107"><a href="http://rbc.org/policy/">Policies »</a>
 	<ul class="sub-menu">
 		<li id="menu-item-11109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11109"><a href="http://rbc.org/policy/comment-guidelines/">Comment Guidelines</a></li>
@@ -110,8 +132,15 @@
 		<li id="menu-item-11118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11118"><a href="http://rbc.org/policy/terms-and-conditions/">Terms and Conditions</a></li>
 	</ul>
 </li>
-	<li id="menu-item-11028" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11028"><a href="http://rbc.org/about/principles/">Principles</a></li>
 	<li id="menu-item-11112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11112"><a target="_blank" href="http://www.rbcevents.org">Events</a></li>
+	<li id="menu-item-11020" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11020"><a href="http://rbc.org/about/employment-opportunities/">Employment Opportunities »</a>
+	<ul class="sub-menu">
+		<li id="menu-item-11022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11022"><a href="http://rbc.org/about/employment-opportunities/employee-testimonials/">Employee Testimonials</a></li>
+		<li id="menu-item-11023" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11023"><a href="http://rbc.org/about/employment-opportunities/how-to-reach-us/">How To Reach Us</a></li>
+		<li id="menu-item-11106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11106"><a target="_blank" href="http://jobs.rbc.org">Job Openings</a></li>
+		<li id="menu-item-11024" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11024"><a href="http://rbc.org/about/employment-opportunities/work-place-values/">Work Place Values</a></li>
+	</ul>
+</li>
 </ul>
 </li>
 <li id="menu-item-11123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11123"><a target="_blank" href="https://secure.rbc.org/donate/">Support »</a>
@@ -136,7 +165,18 @@
 </li>
 </ul>
 </li>
-<li id="menu-item-11137" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11137"><a href="/websites/">Websites</a></li>
+<li id="menu-item-11137" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11137"><a href="/websites/">Websites »</a>
+<ul class="sub-menu">
+	<li id="menu-item-34908" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34908"><a target="_blank" href="http://odb.org/">Our Daily Bread</a></li>
+	<li id="menu-item-34909" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34909"><a target="_blank" href="http://utmost.org/">My Utmost For His Highest</a></li>
+	<li id="menu-item-34910" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34910"><a target="_blank" href="http://getmorestrength.org/">Strength For The Journey</a></li>
+	<li id="menu-item-34911" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34911"><a target="_blank" href="http://ourdailyjourney.org/">Our Daily Journey</a></li>
+	<li id="menu-item-34912" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34912"><a target="_blank" href="http://discoveryseries.org/">Discovery Series Booklets</a></li>
+	<li id="menu-item-34913" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34913"><a target="_blank" href="http://dod.org/">Day of Discovery</a></li>
+	<li id="menu-item-34914" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34914"><a target="_blank" href="http://questions.org/">Answers To Tough Questions</a></li>
+	<li id="menu-item-34915" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34915"><a href="/websites/">More websites</a></li>
+</ul>
+</li>
 </ul></div>	<!--<div id="sub-menu">
       <ul class="nav superfish">
         <li><a href="/">Home</a></li>
@@ -268,28 +308,34 @@ Grand Rapids, MI  49512</p></blockquote>
 			<div id="right-sidebar" class="grid-col grid-4 sidebar"><!-- column -->
 			  <div class="scroller">
 					<!-- Widgetized sidebar --><div class="sidebar">
-	<div id="live-feed-wrapper-2" class="module live-feed-wrapper"><div class="module-content"><div class="data-row entry-live-feed"><!-- data-row -->		<div id="post-28635" class="post-28635 live-feed type-live-feed status-publish format-standard hentry category-broadcasts category-devotionals">
+	<div id="live-feed-wrapper-2" class="module live-feed-wrapper"><div class="module-content"><div class="data-row entry-live-feed"><!-- data-row -->		<div id="post-42772" class="post-42772 live-feed type-live-feed status-publish format-standard hentry category-broadcasts category-devotionals">
 			<h3 class="entry-title">
-				<a rel="bookmark" href="http://rbc.org/live-feed/faulty-thinking/" title="Permalink to Faulty Thinking" class="English our-daily-bread">
-					Faulty Thinking				</a>
+				<a rel="bookmark" href="http://rbc.org/live-feed/clean-hands/" title="Permalink to Clean Hands" class="English our-daily-bread">
+					Clean Hands				</a>
 			</h3>
 			<div class="entry-summary">
-			<p>Four people—a pilot, a professor, a pastor, and a hiker—were flying in a small plane …</p><div class="trailing-post-meta"><span class="read-more"><a href="http://rbc.org/aPo">Continue&nbsp;Reading&nbsp;»</a></span></div>			</div><!-- .entry-summary -->
+			<p>It seems that wherever you go these days, you see signs encouraging people to wash …</p><div class="trailing-post-meta"><span class="read-more"><a href="http://rbc.org/fbp">Continue&nbsp;Reading&nbsp;»</a></span></div>			</div><!-- .entry-summary -->
 		</div><!-- #post-## --></div><!-- /data-row --></div><!-- .module-content --></div><!-- .module --><div class="module"><div class="rbc-offer"><span id="title-rbc_offers_widget-3" style="display:none;"><h2>A Resource Just For You</h2></span>		<script type="text/javascript">
       jQuery(document).ready(function($) {
       	var ts = new Date().getTime();
-				var sidebarurl = "http://rbc.org/wp-content/plugins/rbc-offers/rbc-offer-callback.php?offer_id=rbc&length=220&timestamp=" + ts;
+				var sidebarurl = 'http://'+document.domain+"/wp-content/plugins/rbc-offers/rbc-offer-callback.php?offer_id=rbc&length=220&timestamp=" + ts;
 				$("#dynamic-rbc_offers_widget-3").load(sidebarurl, function(response, status){ if(status != 'error') {$("div.rbc-offer").css('display', 'block'); $("#title-rbc_offers_widget-3").css('display', 'inline'); } } ); //status:["success", "notmodified", "error", "timeout", "abort", or "parsererror"]
       });
 		</script>
 		<div id="dynamic-rbc_offers_widget-3"></div><!-- #dynamic-rbc_offers_widget-3 --><div class="clear"></div>
+		</div><br class="grid-break"></div><div class="module"><div class="rbc-offer">		<script type="text/javascript">
+      jQuery(document).ready(function($) {
+      	var ts = new Date().getTime();
+				var sidebarurl = 'http://'+document.domain+"/wp-content/plugins/rbc-offers/rbc-offer-callback.php?offer_id=odbbibleslim&length=180&timestamp=" + ts;
+				$("#dynamic-rbc_offers_widget-4").load(sidebarurl, function(response, status){ if(status != 'error') {$("div.rbc-offer").css('display', 'block'); $("#title-rbc_offers_widget-4").css('display', 'inline'); } } ); //status:["success", "notmodified", "error", "timeout", "abort", or "parsererror"]
+      });
+		</script>
+		<div id="dynamic-rbc_offers_widget-4"></div><!-- #dynamic-rbc_offers_widget-4 --><div class="clear"></div>
 		</div><br class="grid-break"></div><div class="module"><h2>Subscribe</h2>			<div class="textwidget"><div id="socialmedia">
 <a href="http://odb.org/subscriptions/" id="sm-mail" class="smtitle" target="_blank">Our Daily Bread</a><br>
 <a href="http://odb.org/subscriptions/" class="smdesc" target="_blank">http://odb.org/subscriptions/</a>
-<br>
-
-<div class="smspacer">&nbsp;</div>
-
+</div></div>
+		<br class="grid-break"></div><div class="module"><h2>Social</h2>			<div class="textwidget"><div id="socialmedia">
 <a href="http://www.facebook.com/rbcministries" id="sm-facebook" class="smtitle">Facebook</a><br>
 <a href="http://www.facebook.com/rbcministries" class="smdesc">facebook.com/rbcministries</a>
 <br>
@@ -302,18 +348,14 @@ Grand Rapids, MI  49512</p></blockquote>
 
 <div class="smspacer">&nbsp;</div>
 
+<a href="https://plus.google.com/113121695677895596108/posts" id="sm-gplus" class="smtitle">Google+</a><br>
+<a href="https://plus.google.com/113121695677895596108/posts" class="smdesc">Add us to your circle</a>
+<br>
+
+<div class="smspacer">&nbsp;</div>
+
 <a href="/feed/" id="sm-rss" class="smtitle">RSS</a><br>
 <a href="/feed/" class="smdesc">rbc.org/feed/</a>
-</div></div>
-		<br class="grid-break"></div><div class="module">			<div class="textwidget"><div style="width: 220px; height:141px;">
-<img border="0" src="http://rbc.org/wp-content/uploads/2011/09/iphoneandroidad.jpg">
-<br>
-<a href="http://itunes.apple.com/us/app/our-daily-bread/id437496538?mt=8">
-<img border="0" style="float:left;" alt="Get iPhone app" src="http://rbc.org/wp-content/uploads/2011/09/getiphoneapp1.jpg">
-</a>
-<a href="https://market.android.com/details?id=org.rbc.odb">
-<img border="0" alt="Get Android app" src="http://rbc.org/wp-content/uploads/2011/09/getandroidapp1.jpg">
-</a>
 </div></div>
 		<br class="grid-break"></div><div class="module"><h2>Around the World</h2>			<div class="textwidget"><p>RBC Ministries has <a href="/locations/">offices</a> in 34 countries, plus partners throughout the world who distribute RBC Ministries' resources. Our signature publication, the daily devotional called <a href="http://odb.org/" title="Our Daily Bread" target="_blank">Our Daily Bread</a>, is translated into more than 55 languages.</p>
 <div class="trailing-post-meta"><span class="read-more"><a href="/locations/">View our office locations »</a></span></div></div>
@@ -399,7 +441,7 @@ Grand Rapids, MI  49512</p></blockquote>
   	</div>
   	<div class="footer-meta"><ul id="menu-footer-menu" class=""><li>© 2012&nbsp;</li><li id="menu-item-11158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11158">|&nbsp;<a href="/">RBC Ministries</a></li>
 <li id="menu-item-11159" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11159">|&nbsp;<a href="/help/">Help</a></li>
-<li id="menu-item-21344" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21344">|&nbsp;<a href="/faq/how-can-i-contact-rbc-ministries/">Contact Us</a></li>
+<li id="menu-item-21344" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21344">|&nbsp;<a href="/help/contact-us/">Contact Us</a></li>
 <li id="menu-item-11162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11162">|&nbsp;<a href="http://rbc.org/policy/rights-and-permissions/">Rights and Permissions</a></li>
 <li id="menu-item-11163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11163">|&nbsp;<a href="http://rbc.org/policy/terms-and-conditions/">Terms and Conditions</a></li>
 <li id="menu-item-11161" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-629 current_page_item menu-item-11161">|&nbsp;<a href="http://rbc.org/policy/privacy-policy/">Privacy Policy</a></li>
@@ -428,42 +470,30 @@ var pageTracker = _gat._getTracker("UA-1183565-1");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?aa&amp;ver=3.3.2"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var WPGroHo = {"my_hash":""};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://rbc.org/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.3.2"></script>
 	<div style="display:none">
 	</div>
-<script type="text/javascript" src="http://rbc.org/wp-content/plugins/contact-form-7/jquery.form.js?ver=3.08"></script>
+<script type="text/javascript" src="http://rbc.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.18"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpcf7 = {"loaderUrl":"http:\/\/rbc.org\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://rbc.org/wp-content/plugins/contact-form-7/scripts.js?ver=3.1.2"></script>
+<script type="text/javascript" src="http://rbc.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.3.1"></script>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201252"></script>
+<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2012Decaa"></script>
 <script type="text/javascript">
-function wp_attempt_focus() {
-setTimeout( function() {
-try {
-d = document.getElementById('user_login');
-d.value = '';
-d.focus();
-} catch(e){}
-}, 200 );
-}
-wp_attempt_focus();
-if(typeof wpOnload=='function')wpOnload()
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
 </script>
+<script type="text/javascript" src="http://rbc.org/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.4.2"></script>
 
-	<script src="http://stats.wordpress.com/e-201222.js" type="text/javascript"></script>
+	<script src="http://stats.wordpress.com/e-201252.js" type="text/javascript"></script>
 	<script type="text/javascript">
-	st_go({v:'ext',j:'1:1.3',blog:'16918744',post:'629'});
+	st_go({v:'ext',j:'1:2.0.2',blog:'16918744',post:'629'});
 	var load_cmc = function(){linktracker_init(16918744,629,2);};
 	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
 	else load_cmc();
 	</script>
 
-<!-- Served from: rbc.org @ 2012-05-31 03:26:41 by W3 Total Cache --></body></html>
+<!-- Served from: rbc.org @ 2012-12-27 02:42:19 by W3 Total Cache --></body></html>
