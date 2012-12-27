@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalmint.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603144503id_/http%3A//www.royalmint.com/legal-pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalmint.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227112146id_/http%3A//www.royalmint.com/legal-pages/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | The Royal Mint
 
@@ -184,8 +184,8 @@ It is important that we keep your information accurate and up-to-date and so in 
 
 Any personal information provided to, or be gathered by, The Royal Mint Limited is controlled by the Royal Mint Limited, Llantrisant, Pontyclun, Mid Glamorgan, South Wales, United Kingdom, CF72 8YT.
 
-  * Telephone: 01443 623456 
-  * e-mail: customer.service@royalmint.com 
+  * Telephone: 0845 60 88 300
+  * e-mail: customer.services@royalmint.com 
 
 
 
