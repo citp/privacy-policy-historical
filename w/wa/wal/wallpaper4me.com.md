@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaper4me.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504001613id_/http%3A//www.wallpaper4me.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaper4me.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227094051id_/http%3A//wallpaper4me.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Wallpaper4Me.com | HD Wallpapers, High Definition Wallpapers, Twitter Backgrounds, Free Wallpapers, Myspace Backgrounds, Desktop Wallpapers, Desktop Backgrounds, Backgrounds For Myspace & More!
 
