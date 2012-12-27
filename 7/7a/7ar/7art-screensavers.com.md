@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 7art-screensavers.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615050316id_/http%3A//7art-screensavers.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7art-screensavers.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227222357id_/http%3A//7art-screensavers.com/privacy.shtml) for the most accurate reproduction.*
 
-# 7art-screensavers - Free Clock screensavers and live animated wallpapers to raise your spirits!
+# 7art-screensavers - free screensavers to rise your sprits!
 
   
 **Collection and Use of your Personal Information**   
