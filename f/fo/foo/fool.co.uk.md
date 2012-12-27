@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607012411id_/http%3A//www.fool.co.uk/help/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227064652id_/http%3A//www.fool.co.uk/help/privacystatement.aspx) for the most accurate reproduction.*
 
 # The Motley Fool UK: Privacy and Cookie Statement
 
@@ -94,6 +94,8 @@ RiskWarning  |  Similar to the NewsletterWelcome, this cookie lets you turn the 
 expandAlerts  |  This cookie that remembers if you want us to show or hide a premium alert.  |  Functionality   
 EditorialCoachlet  |  Each service can choose to show additional updates or information above My Scorecard. This cookie determines whether that is hidden or shown.  |  Functionality   
 nlsc  |  This cookie remembers certain settings between pageviews, and is also removed when you close your browser.  |  Performance   
+CookieAccept  |  Once you’ve seen our cookie information, this makes sure we don’t keep showing you the alert.  |  Functionality   
+ASPSESSION  |  This cookie lets us remember certain settings between page loads, and is removed when you close your browser.  |  Functionality   
   
 ### The Cookies Set by our Partners and Other Data Processors
 
@@ -112,7 +114,7 @@ If you follow these links from our site to theirs, you should be aware that thes
 
 ### Cookie Removal and More Information
 
-If you would like more information on how to remove any or all of your cookies, or more information about cookies in general, please visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+You can always modify your browser so as not to accept cookies or to notify you when cookies are sent to it. For more information about cookies including removing any or all of your cookies, please visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 Also, if you would like to remove the Google Analytics and DoubleClick cookies, please go to <http://tools.google.com/dlpage/gaoptout> and <http://www.google.com/ads/preferences/plugin/>, respectively. You should be aware that this will affect your Google cookies on all sites, and not just ours.
 
