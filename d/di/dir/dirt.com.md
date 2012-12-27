@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dirt.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602121932id_/http%3A//www.dirt.com/about-dirt-com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirt.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227142731id_/http%3A//www.dirt.com/about-dirt-com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Dirt.com | Dirt.com
+# Privacy Policy | Dirt.com
 
 PRIVACY POLICY AND CONSUMER EDUCATION
 
