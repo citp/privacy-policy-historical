@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the egrmagazine.com privacy policy that was archived on 2012-04-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120427193151id_/http%3A//www.egrmagazine.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the egrmagazine.com privacy policy that was archived on 2012-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227133502id_/http%3A//www.egrmagazine.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
@@ -19,12 +19,31 @@ Privacy Policy - EGR Magazine
 <link href="http://www.egrmagazine.com/themes/egr/css/magazinestyles.css" rel="stylesheet" type="text/css" media="screen">
 <link href="http://www.egrmagazine.com/themes/egr/css/jsDatePick_ltr.min.css" rel="stylesheet" type="text/css" media="screen">
 <link href="http://www.egrmagazine.com/themes/egr/css/jquery.alerts.css" rel="stylesheet" type="text/css" media="screen">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.egrmagazine.com/themes/_common/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://www.egrmagazine.com/themes/_common/jquery-1.4.2.min.js"></script>
 <script type="text/javascript" src="http://www.egrmagazine.com/themes/egr/js/jsDatePick.min.1.3.js"></script>
 <!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.5.3/jquery-ui.min.js"></script>-->
 <script src="http://www.egrmagazine.com/themes/egr/js/remember_me.js" type="text/javascript"></script>
 <script src="http://www.egrmagazine.com/themes/egr/js/jquery.alerts.js" type="text/javascript"></script>
+<script type="text/javascript">
+	if( document.cookie.indexOf("eucookie") ===-1 ){
+		$("#eucookielaw").show();
+	}	
+    function setcookievalue(){
+		SetCookie('eucookie','eucookie',365*10)
+		$("#eucookielaw").remove();
+		window.location.reload()
+		
+    }
+</script>
+<script type="text/javascript">
+function SetCookie(c_name,value,expiredays)
+{
+	var exdate=new Date()
+	exdate.setDate(exdate.getDate()+expiredays)
+	document.cookie=c_name+ "=" +escape(value)+";path=/"+((expiredays==null) ? "" : ";expires="+exdate.toGMTString())
+}
+</script>
 <script type="text/javascript">
 window.onload = function() {
   remCookie();
@@ -137,55 +156,6 @@ $(document).ready(function() {
 
 <script type="text/javascript" src="http://www.egrmagazine.com/themes/egr/js/jquery.scripts.js"></script>
 
-<script type="text/javascript">
-$(document).ready(function () {
-	// drop down menu
-	$('div#navigation ul li').hover(function () {
-		var children = $(this).children('ul.children');
-		
-		if (children.length > 0) {
-			children.stop(true,true).slideDown('fast');
-		}
-	}, function () { 
-		var children = $(this).children('ul.children');
-		
-		if (children.length > 0) {
-			children.delay(1).stop(true,true).slideUp('fast');
-		}
-	});
-	
-	// submit button
-	$('input.button').hover(function () {
-		$(this).toggleClass('hover');
-	});
-});
-</script>
-<script type="text/javascript" src="http://www.egrmagazine.com/themes/egr/js/form.js"></script>
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-26133218-1']);  
-  _gaq.push(['_trackPageview']);
-  _gaq.push(['_setDomainName', 'http://www.egrmagazine.com']);
-  _gaq.push(['_setAllowLinker', false]);  
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-<script type="text/javascript">
-function recordOutboundLink(link, category, action) {
-try {
-var pageTracker = _gat._getTracker('UA-26133218-1');
-pageTracker._setDomainName('none');
-pageTracker._setAllowLinker(true);
-pageTracker._trackPageview();
-pageTracker._trackEvent(category, action);
-setTimeout('document.location = "' + link.href + '"', 100)
-}catch(err){}
-}
-</script>
-
 <meta name="title" content="">
 <meta name="keywords" content="">
 <meta name="description" content="">
@@ -194,8 +164,11 @@ setTimeout('document.location = "' + link.href + '"', 100)
 <body>
 
 <div class="container">
-
-	<div id="header">
+		<div id="eucookielaw" style="background-color:#F2F2F2;font-family: Arial;font-weight: bold;height: 70px;opacity: 0.9;padding-top: 9px;position: absolute;text-align: center;width: 100%;z-index: 999;filter: alpha(opacity = 90);color:#4F2273;font-size:13px;">
+				<p>This website requires cookies to provide all of its features. For more information on what data is contained in the cookies,<br> please see our <a href="http://www.egrmagazine.com/privacy_policy/" id="more"> Privacy Policy page</a>To accept cookies from this site, please click the Allow button below</p>
+				<input type="button" onclick="setcookievalue();" value="Accept Cookie" style="background:#4E2470;color:#471F66;padding:3px;color:#fff;border:none;cursor:pointer;margin-top:10px;">
+			</div>
+		<div id="header">
 		<div id="nav">
 		<div id="notices"></div>
 			<div class="ct">
@@ -254,9 +227,7 @@ setTimeout('document.location = "' + link.href + '"', 100)
 						<a href="users/forgot_password"><em>Forgot Password</em></a>
 						<a href="subscriptions"><em>Subscribe Now</em></a>          
 					</div>
-								<div id="twitter"><a href="http://twitter.com/egamingreview" target="_"><img src="http://www.egrmagazine.com/themes/egr/images/twitter-icon.gif" alt="Twitter" height="24" width="24"></a></div>
-				<div id="linkedin"><a href="#" target="_"><img src="http://www.egrmagazine.com/themes/egr/images/linkedin-icon.gif" alt="LinkedIn" height="24" width="24"></a></div>
-				<div id="rss"><a href="rss/feed/view/news_rss" target="_blank"><img src="http://www.egrmagazine.com/themes/egr/images/rss-icon.gif" alt="RSS Feed" height="24" width="24"></a></div>
+												<div id="rss"><a href="rss/feed/view/news_rss" target="_blank"><img src="http://www.egrmagazine.com/themes/egr/images/rss-icon.gif" alt="RSS Feed" height="24" width="24"></a></div>
 				<div class="main-search">
 				<div class="search">
 					<form method="get" action="http://www.egrmagazine.com/search" class="validate">
@@ -285,7 +256,7 @@ setTimeout('document.location = "' + link.href + '"', 100)
 				<ul>
 					<li><a href="subscriptions">EGR online</a></li>
 					<li><a href="subscriptions">EGR magazine</a></li>
-					<li><a href="magazine/egr_magazine_issue_95">Latest issue</a></li>
+					<li><a href="magazine/falling_into_line_how_the_lure_of_tax_revenues_has_tempted_seven_nations_to_go_dot.country">Latest issue</a></li>
 				</ul> 
 			  <p>&nbsp;</p>
 				<img src="http://www.egrmagazine.com/themes/egr/images/contact.gif" alt="Contact Us" width="109" height="14">
@@ -301,13 +272,13 @@ setTimeout('document.location = "' + link.href + '"', 100)
 				<iframe width="160" height="600" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://adserver.adtech.de/adiframe/3.0/762/3412104/0/154/ADTECH;target=_blank;grp=[group]"><script language="javascript" src="http://adserver.adtech.de/addyn/3.0/762/3412104/0/154/ADTECH;loc=700;target=_blank;grp=[group]"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/762/3412104/0/154/ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/762/3412104/0/154/ADTECH;loc=300;grp=[group]" border="0" width="160" height="600"></a></noscript></iframe>
 				<!-- End of IFRAME Tag -->
 			</div>
-			<div id="poll"><img src="themes/egr/images/website-poll.gif" alt="Website Poll"><p>How long will it take social gaming to overtake online gaming revenues?</p>
+			<div id="poll"><img src="themes/egr/images/website-poll.gif" alt="Website Poll"><p>What should US casino groups' strategy be now the federal bill is dead?</p>
 				<p>&nbsp;</p><form method="post" action="poll/polls/post">
-					<input type="hidden" name="poll_id" value="38"><input type="radio" id="options_1" name="vote_id" value="149">
-						<label for="1 year">1 year</label><br><input type="radio" id="options_2" name="vote_id" value="150">
-					<label for="3 years">3 years</label><br><input type="radio" id="options_3" name="vote_id" value="151">
-					<label for="5 years">5 years</label><br><input type="radio" id="options_4" name="vote_id" value="152">
-					<label for="Social revenues will never overtake egaming">Social revenues will never overtake egaming</label><br><p>&nbsp;</p>
+					<input type="hidden" name="poll_id" value="73"><input type="radio" id="options_1" name="vote_id" value="289">
+						<label for="Divert lobbying budget towards states that show, and are showing, most promise">Divert lobbying budget towards states that show, and are showing, most promise</label><br><input type="radio" id="options_2" name="vote_id" value="290">
+					<label for="Hang onto hope a federal bill will be passed next year">Hang onto hope a federal bill will be passed next year</label><br><input type="radio" id="options_3" name="vote_id" value="291">
+					<label for="Invest in both">Invest in both</label><br><input type="radio" id="options_4" name="vote_id" value="292">
+					<label for="Pull out altogether and concentrate on core business">Pull out altogether and concentrate on core business</label><br><p>&nbsp;</p>
 							<p><input type="submit" id="submit-poll" value="Submit"></p>
 						</form></div>
 			<div class="bottom">&nbsp;</div>
@@ -429,7 +400,7 @@ setTimeout('document.location = "' + link.href + '"', 100)
 							<h6>Magazine</h6>
 							<ul>
 								<li><a href="subscriptions">Subscribe</a></li>
-								<li><a href="magazine/egr_magazine_issue_95">Latest Issue</a></li>
+								<li><a href="magazine/falling_into_line_how_the_lure_of_tax_revenues_has_tempted_seven_nations_to_go_dot.country">Latest Issue</a></li>
 								<li><a href="egr_magazine">Previous Issues</a></li>
 								<li><a href="newsletter/newsletter_subscriber/subscribe/">e-newsletter</a></li>
 								<li><a href="free_trial_signup">Take free trial</a></li>
@@ -442,22 +413,9 @@ setTimeout('document.location = "' + link.href + '"', 100)
 	</div>
 	<div class="slide-out-div" style="z-index: 999;">
       <a class="handle" href="#">&nbsp;</a>
-  	  <span style="height:228px;padding: 0;"><a href="magazine/egr_magazine_issue_95"><img src="writeable/custom_uploads/90d214d9790bcf4641b5ee63b07ae6af.jpg" alt="issue" width="154" heigth="226"></a></span><span><em>Current Issue</em><br>Issue #95</span><a class="slide-button" href="magazine/egr_magazine_issue_95">Issue Info</a>
+  	  <span style="height:228px;padding: 0;"><a href="magazine/egr_magazine_issue_102"><img src="writeable/custom_uploads/30a5149cc4d9f111f092f780d01c32b3.jpg" alt="issue" width="154" heigth="226"></a></span><span><em>Current Issue</em><br>Issue #102</span><a class="slide-button" href="magazine/egr_magazine_issue_102">Issue Info</a>
       <a class="slide-button" href="subscriptions">Subscribe</a>
 	</div>
 	</div>
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-7521384-2']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
 
 </body></html>
