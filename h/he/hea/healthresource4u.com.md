@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the healthresource4u.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626071304id_/http%3A//www.healthresource4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthresource4u.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227061237id_/http%3A//www.healthresource4u.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Health Resource
+# Privacy Policy
 
-Here at My Blog / Site, the privacy of my visitors is very important. This [privacy policy](http://www.healthresource4u.com/privacy-policy "privacy policy") document outlines the types of personal information that we receive and how this important data is used.
+Here at My Blog / Site, the privacy of my visitors is very important. This privacy policy document outlines the types of personal information that we receive and how this important data is used.
 
 Google, as a third party vendor, uses cookies to serve ads on our site.
 
