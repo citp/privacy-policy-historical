@@ -1,68 +1,184 @@
-> *The following text is extracted and transformed from the olioboard.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130013110id_/http%3A//olioboard.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olioboard.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227075110id_/http%3A//olioboard.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Olioboard
 
-Olioboard (www.olioboard.com) is a Keele UX product. Keele UX Inc. is committed to protecting the privacy of those who visit the olioboard.com website and use the Olioboard Service. Amendments to this statement will be posted to this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification, or change shall constitute your acceptance of the amendment. We will notify the Olioboard Service account owner by email when significant changes are made to the privacy policy.
+Olioboard (www.olioboard.com) is a Keele UX product. At Keele UX Inc, we respect the privacy of our users and the importance of the information they entrust to us. With this in mind, we provide you this privacy policy (the “Policy”) to help you understand the kinds of information we may gather about you when you visit the Site or use any of our Services, how we may use and disclose the information, and how you can control, correct and/or update the information. By visiting the Olioboard website or using the Olioboard services, you are accepting the policies and practices described in this Policy. Each time you visit the Olioboard website or use the Olioboard services, you agree and expressly consent to our collection, use and disclosure of the information that you provide as described in this Policy.
 
-We collect the email addresses of those who communicate with us via email, information about the pages consumers access on the Olioboard website, and information voluntarily submitted by the consumer (for example, filling out a survey or service registration form). The types of information that may be requested include your name, company name, address, telephone number.
+### THE OLIOBOARD.COM PRIVACY POLICY WAS LAST UPDATED ON: DECEMBER 13 2011.
 
-The information we collect is used to improve the quality of the Olioboard website and Service, to communicate information about the Olioboard Service, to bill your account for services provided (for pro users), for research, and to contact you about your account when necessary.
+We may collect information that can identify you (“personal information”), such as your name and email address when you provide it to us when using our website or in some other manner.
 
-Your information will not be sold to or shared with other companies or organizations for commercial purposes.
+We also may collect other types of information in the following ways when you visit our Olioboard website:
 
-### Information Collected by Olioboard.com
-
-We only collect personal information that is relevant to the purpose of our website, which is to enable users to create and share design inspiration with one another. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our users:
-
-  1. **Information You Provide to Us:**
-
-We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
-
-Registration: In order for you to use Olioboard services, such as creating an olioboard, you must complete a registration form. As part of this registration form, we require select personal information (such as your email address).
-
-User Profile: To allow you to express yourself beyond just the information collected during registration, we enable you to provide additional information, such as a bio, location, etc. In addition, you may choose to include photos of yourself in your profile.
-
-  2. **Automatic Information:**
-
-We receive and store certain types of information whenever you interact with us. Olioboard and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, cookie information, and the page you requested. Olioboard uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
-
-Olioboard may collect and, on any page, display the total counts that page has been viewed. This includes User Profile pages.
-
-Many companies offer programs that help you to visit websites anonymously. While Olioboard will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+  * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users’ movements around our site and understand trends.
+  * We may use standard Internet tools, such web beacons, which collect information that tracks your use of our website and enables us to customize our services and advertisements.
 
 
 
+We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children’s Online Privacy Protection Act.
 
-### Privacy of Your Olioboards
+We may use information to:
 
-  * You can choose to make your olioboards public for anyone to acces or keep those olioboards private so only you can access them.
-  * Advertisements shown to you may be related to textual information, such as metadata and notes, associated with the photo you are seeing, or the search term you entered.
+  * Fulfill your requests for products and services;
+  * Process payment for products or services you order via our website;
+  * Facilitate use of our website;
+  * Manage your account and your preferences;
+  * Analyze use of and improve our website, products and services;
+  * Identify and protect against fraudulent transactions and other misuses of our website;
+and 
+  * Enforce our Terms of Use.
 
 
 
-### Use of Cookies
+We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:
 
-When you use the Olioboard Service we may store some information on your computer. This information will be in the form of a "cookie" or similar file. Cookies are small pieces of information stored on your hard drive, not on the Olioboardspot website. We do not use cookies to spy on you or otherwise invade your privacy. They cannot invade your hard drive and steal information.
+  * Service providers, such as credit-card payment processors, performing services on our behalf;
 
-We use cookies to help you navigate the Olioboard website and Service as easily as possible, and to remember information about your current session. You must enable cookies on your web browser to use the Olioboard Service.
 
-### Security and Storage
 
-The Olioboard website and Service has industry standard security measures in place to protect the loss, misuse, and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, we will take all reasonable steps to insure the safety of your information.
+You may choose:
 
-### Effective Date of this Privacy Policy
+  * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
+  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy;
+  * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
+  * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account.
 
-This Privacy Policy is effective as of November 12, 2009 and last updated November 12, 2009.
 
-### Corrections and Updates
 
-Keele UX Inc. allows consumers who use the Olioboard Service to update or modify their information by clicking on the Settings link in the Olioboard navigation menu.
+We take appropriate commercially reasonable physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.
 
-### Contacting Keele UX Inc.
+The Olioboard website may link to websites operated by third parties that we do not control. We do not monitor, control, or endorse the information collection or privacy practices of any third parties. We strongly encourage you to become familiar with the privacy practices of every website you visit and to contact them if you have any questions about their respective privacy policies and practices. This Policy applies solely to information collected by us through the Olioboard website or services and does not apply to these third-party websites. The ability to access information of third parties from the Olioboard website or services, or links to other websites or locations, is for your convenience only and does not signify our endorsement of such third parties, their products, services, websites, locations, or their content.
+
+Olioboard reserves the right to change, modify, add, or remove portions of this Policy at any time and without prior notice, and any changes will become effective immediately upon being posted unless we advise you otherwise. However, we will not use your Personal Information in a way that is materially different than the uses described in this Policy without giving you an opportunity to opt out of such differing uses. Your continued use of the Olioboard website or services after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of the Policy, as amended. We encourage you to bookmark this Web page and review this Policy regularly.
 
 If you have any questions about this privacy statement or your dealings with the Olioboard website, you can contact us at info@olioboard.com or get in touch by mail:  
 Privacy Matters  
 c/o Keele UX Inc.  
 5412 Cambie St.  
 Vancouver, BC  
-V5Z 3A1 
+V5Z 3A1  
+
+
+©2011 Keele UX, Inc.. All rights reserved.
+
+Linked information:
+
+**Cookies:**
+
+A cookie is a small text file that is stored on a user’s computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time.  
+For example, when you sign in to our website, we will record your user or member ID and the name on your user or member account in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising. 
+
+You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
+
+We may allow third-parties, including IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party’s privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies (www.networkadvertising.org).
+
+**Web Beacons:**  
+Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user’s computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.  
+Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website. 
+
+Add our clipper to your browser & you can easily save items from any website directly to your Olioboard library & sets.
+
+Add to Olioboard ← Right-click and select "Add to Favorites" then select "Links"
+
+**Follow these steps to Install the "Add to Olioboard" Browser Clipper in Internet Explorer.**
+
+  * 1. Make sure your bookmarks bar is open. To do this, right click in your browser header and select **"Links"**.
+
+  * 2. Right-click the **"Add to Olioboard"** button and select **"Add to Favorites"**
+
+  * 3. A pop up window will appear. Select **"Links"** in the **"Create In"** drop down field and click the **"Add Button"**. That’s it.
+
+  * 4. When you see an image you want to save, click the **"Add to Olioboard"** option in your bookmarks bar and then click the image you want to save to your olioboard account. You can save items directly to your library or to a specific set. Enjoy!
+
+
+
+
+Add to Olioboard ← Right-click and select "Add to Favorites" then select "Favorites Bar"
+
+**Follow these steps to Install the "Add to Olioboard" Browser Clipper in Internet Explorer.**
+
+  1. Make sure your bookmarks bar is open. To do this, right click in your browser header and select **"Favourites Bar"**.
+
+  2. Right-click the **"Add to Olioboard"** button and select **"Add to Favorites"**
+
+  3. A pop up window will appear. Select **"Favourites Bar"** in the **"Create In"** drop down field and click the **"Add Button"**. That’s it.
+
+  4. When you see an image you want to save, click the **"Add to Olioboard"** option in your bookmarks bar and then click the image you want to save to your olioboard account. You can save items directly to your library or to a specific set. Enjoy!
+
+
+
+
+**Follow these steps to Install the "Add to Olioboard" Browser Clipper in Internet Explorer.**
+
+  1. Make sure your bookmarks bar is open. To do this, right click in your browser header and select **"Favorites Bar"**.
+
+  2. Drag the **"Add to Olioboard"** button to your bookmarks bar. You’re done.
+
+  3. When you see an image you want to save, click the **"Add to Olioboard"** option in your bookmarks bar and then click the image you want to save to your olioboard account. You can save items directly to your library or to a specific set. Enjoy!
+
+
+
+
+**Follow these steps to Install the "Add to Olioboard" Browser Clipper in Opera.**
+
+  1. Make sure your bookmarks bar is open. To do this, click the **Opera Logo** in the top left, then **Toolbars** , then **Bookmarks Bar**.
+
+  2. Drag the **"Add to Olioboard"** button to your bookmarks bar. You’re done.
+
+  3. When you see an image you want to save, click the **"Add to Olioboard"** option in your bookmarks bar and then click the image you want to save to your olioboard account. You can save items directly to your library or to a specific set. Enjoy!
+
+
+
+
+**Follow these steps to Install the "Add to Olioboard" Browser Clipper in Safari.**
+
+  1. Make sure your bookmarks bar is open. To do this, click the options menu then **"Show Bookmarks Bar"**.
+
+  2. Drag the **"Add to Olioboard"** button to your bookmarks bar. You’re done.
+
+  3. When you see an image you want to save, click the **"Add to Olioboard"** option in your bookmarks bar and then click the image you want to save to your olioboard account. You can save items directly to your library or to a specific set. Enjoy!
+
+
+
+
+**Follow these steps to Install the "Add to Olioboard" Browser Clipper in Firefox.**
+
+  1. Make sure your bookmarks bar is open. To do this, click **options** , then **Bookmarks Toolbar**.
+
+  2. Drag the **"Add to Olioboard"** button to your bookmarks bar. You’re done.
+
+  3. When you see an image you want to save, click the **"Add to Olioboard"** option in your bookmarks bar and then click the image you want to save to your olioboard account. You can save items directly to your library or to a specific set. Enjoy!
+
+
+
+
+**Follow these steps to Install the "Add to Olioboard" Browser Clipper in Google Chrome.**
+
+  1. Make sure your bookmarks bar is open. To do this, click the **options menu**. Then click **"Tools"** , then **"Always Show Bookmarks Bar"**.
+
+  2. Drag the **"Add to Olioboard"** button to your bookmarks bar. You’re done.
+
+  3. When you see an image you want to save, click the **"Add to Olioboard"** option in your bookmarks bar and then click the image you want to save to your olioboard account. You can save items directly to your library or to a specific set. Enjoy!
+
+
+
+
+I'm Finished! or No, Thanks.
+
+Back to Create Account
+
+## 1\. Your Acceptance
+
+Olioboard and its subsidiaries and affiliates (collectively "Olioboard.com") provides service to you subject to the following Terms of Use, which may be updated by us from time to time without notice to you. These Terms of Use constitute a binding agreement between Olioboard.com and you governing your use of the Website. By using and/or visiting the www.olioboard.com Website or any other Websites owned by Olioboard.com (collectively the "Website"), you signify your assent to both these Terms of Use and the Olioboard.com Privacy Policy, which is specifically incorporated into the Olioboard.com Terms of Use. You are only authorized only to use the Website if you agree to abide by all applicable laws and to these Terms of Use. Please read these Terms of Use carefully. If you do not agree to these Terms of Use, please do not use the Website.
+
+## 2\. Website Access
+
+Olioboard.com hereby grants you permission to use the Website as set forth in these Terms of Use, provided that: (i) your use of the Website as permitted is solely for your personal, noncommercial use; (ii) you will not copy or distribute any part of the Website in any medium without Olioboard.com’s prior written authorization; (iii) you will not alter or modify any part of the Website other than as may be reasonably necessary to use the Website for its intended purpose; and (iv) you will otherwise comply with the terms and conditions of these Terms of Use.
+
+In order to access some features of the Website, you will have to create an account. You are not allowed to use another user’s account without permission. When creating your account, you must provide accurate and complete information. You are solely responsible for the activity that occurs on your account, and you must keep your account password secure. You may change your password at any time by updating your Account Profile page. In addition, you agree to immediately notify Olioboard.com of any unauthorized use of your password or account or any other breach of security. Olioboard.com cannot and will not be liable for any loss or damage arising from your failure to comply with this Section 2.
+
+By registering with Olioboard.com, you represent that you are of legal age to form a binding contract and are not a person barred by any laws from using the Olioboard.com Website. You agree to provide true, accurate, current and complete information about yourself in all required fields of the registration form. If any of your information changes, you agree to update your registration information as soon as possible. If Olioboard.com suspects that your registration information is not complete, current, or accurate, or that you have otherwise violated these Terms of Use, your account may be subject to suspension or termination, and you may be barred from using the Olioboard.com Website.
+
+You agree not to use or launch any automated system, including without limitation, "robots," "spiders," or similar technological devices or programs, that access the Website in a manner that sends more request messages to the Olioboard.com servers in a given period of time than a human can reasonably produce in the same period by using a conventional on-line web browser. Notwithstanding the foregoing, Olioboard.com grants the operators of public search engines permission to use spiders to copy materials from the Website for the sole purpose of creating publicly available searchable indices of the materials, but not caches or archives of such materials. Olioboard.com reserves the right to revoke these exceptions either generally or in specific cases, in its sole discretion.
+
+You agree not to collect or use any personally identifiable information ("Personal Information") including without limitation account names, email addresses, or other User Submissions (as defined below), from the Website, nor use the communication systems provided by the Website for any commercial solicitation purposes, including without limitation to solicit, for commercial purposes, any users of the Website.
